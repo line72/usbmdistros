@@ -1,0 +1,35 @@
+#!/usr/bin/env python3
+#
+# bmdistro
+# (c) 2021 Marcus Dillavou <line72@line72.net>
+#
+# Released under the GPLv3
+#
+
+import libbmdistro
+
+stores = {
+    'stovokor': libbmdistro.Store("Sto'Vo'Kor Records", "https://stovokor-records.com"),
+    'arcane-altar': libbmdistro.Store("Arcane Altar", "https://arcanealtar.bigcartel.com"),
+}
+
+parsers = [
+    libbmdistro.parsers.StoVoKor(stores['stovokor'], 'https://stovokor-records.com/collections/all.atom'),
+    libbmdistro.parsers.ArcaneAltar(stores['arcane-altar'], 'https://arcanealtar.bigcartel.com/category/12-vinyl.xml'),
+    libbmdistro.parsers.ArcaneAltar(stores['arcane-altar'], 'https://arcanealtar.bigcartel.com/category/10-vinyl.xml'),
+    libbmdistro.parsers.ArcaneAltar(stores['arcane-altar'], 'https://arcanealtar.bigcartel.com/category/7-vinyl.xml'),
+    libbmdistro.parsers.ArcaneAltar(stores['arcane-altar'], 'https://arcanealtar.bigcartel.com/category/tapes.xml'),
+    libbmdistro.parsers.ArcaneAltar(stores['arcane-altar'], 'https://arcanealtar.bigcartel.com/category/cds.xml'),
+]
+
+def go():
+    db = libbmdistro.DB()
+    
+    for parser in parsers:
+        print('parsing', parser.store.name)
+        items = parser.parse(db)
+        for i in items:
+            print(i)
+
+if __name__ == '__main__':
+    go()
