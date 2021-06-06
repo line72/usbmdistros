@@ -17,6 +17,19 @@ class DB:
             self.items[artist][album] = {}
 
         if not item_type in self.items[artist][album]:
-            self.items[artist][album][item_type] = Album(artist, album, item_type)
+            self.items[artist][album][item_type] = {
+                'album': Album(artist, album, item_type),
+                'products': []
+            }
 
         return self.items[artist][album][item_type]
+
+    def get_album(self, artist, album, item_type):
+        t = self.get(artist, album, item_type)
+        return t['album']
+
+    def add_product(self, product):
+        t = self.get(product.album.artist, product.album.title, product.album.item_type)
+        t['products'].append(product)
+
+        

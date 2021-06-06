@@ -22,6 +22,6 @@ class StoVoKor(Parser):
         item_type = entry['s_type']
         price = entry['s_variant']
 
-        album = db.get(artist, album, item_type)
+        album = db.get_album(artist, album, item_type)
         
         return Product(album, self.store, entry['link'], price, Product.STOCK_UNKNOWN, -1)

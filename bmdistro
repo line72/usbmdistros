@@ -27,18 +27,20 @@ def go():
     
     for parser in parsers:
         print('parsing', parser.store.name)
-        items = parser.parse(db)
-    #     for i in items:
-    #         print(i)
+        products = parser.parse(db)
+        for p in products:
+            db.add_product(p)
 
-    # keys = sorted(db.items.keys())
-    # for artist in keys:
-    #     v = db.items[artist]
-    #     print(f'|{artist}| {[ord(x) for x in artist]}')
-    #     for album, v2 in v.items():
-    #         print(f'  {album}')
-    #         for item_type, a in v2.items():
-    #             print(f'    {item_type}')
+    keys = sorted(db.items.keys())
+    for artist in keys:
+        v = db.items[artist]
+        print(f'{artist}')
+        for album, v2 in v.items():
+            print(f'  {album}')
+            for item_type, v3 in v2.items():
+                print(f'    {item_type}')
+                for p in v3['products']:
+                    print(f'      {p}')
 
 if __name__ == '__main__':
     go()

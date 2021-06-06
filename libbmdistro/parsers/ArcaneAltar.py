@@ -51,7 +51,7 @@ class ArcaneAltar(Parser):
         feed = feedparser.parse(self.feed)
 
         entries = map(lambda e: self.parseItem(db, e), feed.entries)
-        return list(entries)
+        return list(filter(lambda x: x != None, entries))
 
     def parseItem(self, db, entry):
         try:
@@ -70,10 +70,11 @@ class ArcaneAltar(Parser):
         album, item_type = self.split_album_type(rest)
         price = self.get_price(entry['g_price'])
         availability = entry['g_availability']
+        #img_link = entry['g_image_link']
         
         in_stock = Product.STOCK_IN_STOCK if availability == 'in stock' else Product.STOCK_OUT_OF_STOCK
         
-        album = db.get(artist, album, item_type)
+        album = db.get_album(artist, album, item_type)
 
         return Product(album, self.store, entry['g_link'], price, in_stock, -1)
 
@@ -85,4 +86,8 @@ class ArcaneAltar(Parser):
         raise Exception(f'Error, Unknown type {s}')
 
     def get_price(self, p):
-        return p
+        r = re.compile(r'^\s*(\d+\.\d+)\s+.*$')
+        if (match := re.match(r, p)) != None:
+            return match.group(1)
+
+        raise Exception(f'Error parsing price {p} {[ord(x) for x in p]}')
