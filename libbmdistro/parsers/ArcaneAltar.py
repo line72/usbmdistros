@@ -54,7 +54,6 @@ class ArcaneAltar(Parser):
         return list(entries)
 
     def parseItem(self, db, entry):
-        print('splitting', entry['g_title'])
         try:
             artist, rest = entry['g_title'].split(sep = '-', maxsplit = 1)
         except ValueError:
@@ -66,27 +65,23 @@ class ArcaneAltar(Parser):
                 print(f'Unable to parse {entry["g_title"]}')
                 return None
 
-        artist = artist.strip(string.whitespace + chr(8206))
+        artist = artist.strip(string.whitespace + chr(8206) + chr(160))
         
         album, item_type = self.split_album_type(rest)
         price = self.get_price(entry['g_price'])
-
-        # pull the price out of the summary
-        #print(entry['summary'])
-        # soup = BeautifulSoup(entry['summary'], 'html.parser')
-        # print(soup.prettify())
-
-        album = db.get(artist, album, item_type)
+        availability = entry['g_availability']
         
-        return Product(album, self.store, entry['g_link'], price, -1)
+        in_stock = Product.STOCK_IN_STOCK if availability == 'in stock' else Product.STOCK_OUT_OF_STOCK
+        
+        album = db.get(artist, album, item_type)
+
+        return Product(album, self.store, entry['g_link'], price, in_stock, -1)
 
     def split_album_type(self, s):
-        print(f'splitting |{s}|')
         for (i, t, r) in self.retests:
             if (match := re.match(r, s)) != None:
                 return (match.group(1).strip(), t)
             
-        print(f'Error, Unknown type {s}')
         raise Exception(f'Error, Unknown type {s}')
 
     def get_price(self, p):
