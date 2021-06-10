@@ -31,16 +31,18 @@ def go():
         for p in products:
             db.add_product(p)
 
-    keys = sorted(db.items.keys())
-    for artist in keys:
-        v = db.items[artist]
-        print(f'{artist}')
-        for album, v2 in v.items():
-            print(f'  {album}')
-            for item_type, v3 in v2.items():
-                print(f'    {item_type}')
-                for p in v3['products']:
-                    print(f'      {p}')
+    # keys = sorted(db.items.keys())
+    # for artist in keys:
+    #     v = db.items[artist]
+    #     print(f'{artist}')
+    #     for album, v2 in v.items():
+    #         print(f'  {album}')
+    #         for item_type, v3 in v2.items():
+    #             print(f'    {item_type}')
+    #             for p in v3['products']:
+    #                 print(f'      {p}')
+    o = libbmdistro.OutputWriter()
+    o.write(db, 'website')
 
 if __name__ == '__main__':
     go()

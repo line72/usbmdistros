@@ -5,6 +5,7 @@
 
 from .Album import Album
 from .DB import DB
+from .OutputWriter import OutputWriter
 from .Product import Product
 from .Store import Store
 
