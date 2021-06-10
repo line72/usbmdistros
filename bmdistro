@@ -14,7 +14,8 @@ stores = {
 }
 
 parsers = [
-    libbmdistro.parsers.StoVoKor(stores['stovokor'], 'https://stovokor-records.com/collections/all.atom'),
+    #libbmdistro.parsers.StoVoKor(stores['stovokor'], 'https://stovokor-records.com/collections/all.atom'),
+    libbmdistro.parsers.StoVoKor(stores['stovokor'], 'https://stovokor-records.com/products.json'),
     libbmdistro.parsers.ArcaneAltar(stores['arcane-altar'], 'https://arcanealtar.bigcartel.com/category/12-vinyl.xml'),
     libbmdistro.parsers.ArcaneAltar(stores['arcane-altar'], 'https://arcanealtar.bigcartel.com/category/10-vinyl.xml'),
     libbmdistro.parsers.ArcaneAltar(stores['arcane-altar'], 'https://arcanealtar.bigcartel.com/category/7-vinyl.xml'),
