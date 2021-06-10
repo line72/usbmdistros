@@ -9,8 +9,9 @@ categories:
 images:
     - /images/covers/häxenzijrkell-..von_glut_und_wirbelrauch.jpg
 thumbnailImage: /images/covers/häxenzijrkell-..von_glut_und_wirbelrauch-thumb.jpg
-actualPrice: $0.00
+actualPrice: $17.00
+inStock: true
 ---
 
 ## Vinyl
-Purchase from Arcane Altar
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/haxenzijrkell-von-glut-und-wirbelrauch-12-mlp) for $17.00

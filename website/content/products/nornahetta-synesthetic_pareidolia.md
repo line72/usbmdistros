@@ -9,8 +9,9 @@ categories:
 images:
     - /images/covers/nornahetta-synesthetic_pareidolia.jpg
 thumbnailImage: /images/covers/nornahetta-synesthetic_pareidolia-thumb.jpg
-actualPrice: $0.00
+actualPrice: $22.00
+inStock: true
 ---
 
 ## Vinyl
-Purchase from Arcane Altar
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/nornahetta-synesthetic-pareidolia-12) for $22.00

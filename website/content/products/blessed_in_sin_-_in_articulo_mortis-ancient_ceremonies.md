@@ -9,8 +9,9 @@ categories:
 images:
     - /images/covers/blessed_in_sin_-_in_articulo_mortis-ancient_ceremonies.jpg
 thumbnailImage: /images/covers/blessed_in_sin_-_in_articulo_mortis-ancient_ceremonies-thumb.jpg
-actualPrice: $0.00
+actualPrice: $10.00
+inStock: true
 ---
 
 ## Tape
-Purchase from Arcane Altar
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/blessed-in-sin-in-articulo-mortis-ancient-ceremonies-tape) for $10.00

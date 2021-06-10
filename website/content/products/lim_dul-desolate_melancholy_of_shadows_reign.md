@@ -9,8 +9,9 @@ categories:
 images:
     - /images/covers/lim_dul-desolate_melancholy_of_shadows_reign.jpg
 thumbnailImage: /images/covers/lim_dul-desolate_melancholy_of_shadows_reign-thumb.jpg
-actualPrice: $0.00
+actualPrice: $10.00
+inStock: true
 ---
 
 ## Tape
-Purchase from Arcane Altar
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/lim-dul-desolate-melancholy-of-shadows-reign-tape) for $10.00

@@ -9,8 +9,9 @@ categories:
 images:
     - /images/covers/vihameditaatio-kuoleman_silmän_kontinuumi.jpg
 thumbnailImage: /images/covers/vihameditaatio-kuoleman_silmän_kontinuumi-thumb.jpg
-actualPrice: $0.00
+actualPrice: $9.50
+inStock: true
 ---
 
 ## Tape
-Purchase from Arcane Altar
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/vihameditaatio-kuoleman-silman-kontinuumi-tape) for $9.50

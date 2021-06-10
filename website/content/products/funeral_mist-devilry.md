@@ -9,8 +9,9 @@ categories:
 images:
     - /images/covers/funeral_mist-devilry.jpg
 thumbnailImage: /images/covers/funeral_mist-devilry-thumb.jpg
-actualPrice: $0.00
+actualPrice: $21.00
+inStock: true
 ---
 
 ## Vinyl
-Purchase from Arcane Altar
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/funeral-mist-devilry-12-lp) for $21.00

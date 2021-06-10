@@ -9,8 +9,9 @@ categories:
 images:
     - /images/covers/v-a-night_of_consecration.jpg
 thumbnailImage: /images/covers/v-a-night_of_consecration-thumb.jpg
-actualPrice: $0.00
+actualPrice: $11.00
+inStock: true
 ---
 
 ## Tape
-Purchase from Arcane Altar
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/v-a-night-of-consecration-tape) for $11.00

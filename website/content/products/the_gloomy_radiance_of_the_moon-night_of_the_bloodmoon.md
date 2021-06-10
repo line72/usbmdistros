@@ -9,8 +9,9 @@ categories:
 images:
     - /images/covers/the_gloomy_radiance_of_the_moon-night_of_the_bloodmoon.jpg
 thumbnailImage: /images/covers/the_gloomy_radiance_of_the_moon-night_of_the_bloodmoon-thumb.jpg
-actualPrice: $0.00
+actualPrice: $10.00
+inStock: true
 ---
 
 ## Tape
-Purchase from Arcane Altar
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/the-gloomy-radiance-of-the-moon-night-of-the-bloodmoon-tape) for $10.00

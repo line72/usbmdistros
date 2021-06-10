@@ -9,8 +9,9 @@ categories:
 images:
     - /images/blank-record.svg
 thumbnailImage: /images/blank-record.svg
-actualPrice: $0.00
+actualPrice: $9.00
+inStock: true
 ---
 
 ## Tape
-Purchase from Arcane Altar
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/kveldrida-shrouded-firmament-so-below-tape) for $9.00

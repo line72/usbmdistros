@@ -9,8 +9,9 @@ categories:
 images:
     - /images/covers/ventr-numinous_negativity.jpg
 thumbnailImage: /images/covers/ventr-numinous_negativity-thumb.jpg
-actualPrice: $0.00
+actualPrice: $23.00
+inStock: true
 ---
 
 ## Vinyl
-Purchase from Arcane Altar
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/ventr-numinous-negativity-10) for $23.00

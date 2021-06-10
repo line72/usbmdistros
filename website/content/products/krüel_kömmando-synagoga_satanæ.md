@@ -9,8 +9,9 @@ categories:
 images:
     - /images/covers/krüel_kömmando-synagoga_satanæ.jpg
 thumbnailImage: /images/covers/krüel_kömmando-synagoga_satanæ-thumb.jpg
-actualPrice: $0.00
+actualPrice: $10.00
+inStock: true
 ---
 
 ## CD
-Purchase from Arcane Altar
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/kruel-kommando-synagoga-satanae-cd) for $10.00

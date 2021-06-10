@@ -10,10 +10,11 @@ categories:
 images:
     - /images/blank-record.svg
 thumbnailImage: /images/blank-record.svg
-actualPrice: $0.00
+actualPrice: $17.00 - 9.00
+inStock: true
 ---
 
 ## Vinyl
-Purchase from Arcane Altar
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/black-vice-the-alchemist-s-vision-12-lp) for $17.00
 ## Tape
-Purchase from Arcane Altar
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/black-vice-the-alchemist-s-vision-tape) for $9.00

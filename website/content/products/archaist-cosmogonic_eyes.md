@@ -10,10 +10,11 @@ categories:
 images:
     - /images/blank-record.svg
 thumbnailImage: /images/blank-record.svg
-actualPrice: $0.00
+actualPrice: $13.00 - 24.00
+inStock: true
 ---
 
 ## Vinyl
-Purchase from Arcane Altar
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/archaist-cosmogonic-eyes-12-lp) for $24.00
 ## CD
-Purchase from Arcane Altar
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/archaist-cosmogonic-eyes-cd) for $13.00

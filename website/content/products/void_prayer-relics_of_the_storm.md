@@ -10,10 +10,11 @@ categories:
 images:
     - /images/covers/void_prayer-relics_of_the_storm.jpg
 thumbnailImage: /images/covers/void_prayer-relics_of_the_storm-thumb.jpg
-actualPrice: $0.00
+actualPrice: $13.00 - 23.00
+inStock: true
 ---
 
 ## Vinyl
-Purchase from Arcane Altar
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/void-prayer-relics-of-the-storm-12-mlp) for $23.00
 ## CD
-Purchase from Arcane Altar
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/void-prayer-relics-of-the-storm-cd) for $13.00

@@ -9,9 +9,10 @@ categories:
 images:
     - /images/blank-record.svg
 thumbnailImage: /images/blank-record.svg
-actualPrice: $0.00
+actualPrice: $25.00
+inStock: true
 ---
 
 ## Vinyl
-Purchase from Sto'Vo'Kor Records
-Purchase from Arcane Altar
+* Purchase from [Sto'Vo'Kor Records](https://stovokor-records.com/products/lampir-awaiting-the-predatory-dreamscape) for $25.00
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/lampir-awaiting-the-predatory-dreamscape-12-lp) for $25.00

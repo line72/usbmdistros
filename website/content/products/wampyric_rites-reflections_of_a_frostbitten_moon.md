@@ -9,8 +9,9 @@ categories:
 images:
     - /images/covers/wampyric_rites-reflections_of_a_frostbitten_moon.jpg
 thumbnailImage: /images/covers/wampyric_rites-reflections_of_a_frostbitten_moon-thumb.jpg
-actualPrice: $0.00
+actualPrice: $15.00
+inStock: true
 ---
 
 ## CD
-Purchase from Arcane Altar
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/wampyric-rites-reflections-of-a-frostbitten-moon-cd) for $15.00

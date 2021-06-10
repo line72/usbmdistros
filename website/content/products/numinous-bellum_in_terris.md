@@ -10,10 +10,11 @@ categories:
 images:
     - /images/covers/numinous-bellum_in_terris.jpg
 thumbnailImage: /images/covers/numinous-bellum_in_terris-thumb.jpg
-actualPrice: $0.00
+actualPrice: $12.00 - 20.00
+inStock: true
 ---
 
 ## Vinyl
-Purchase from Arcane Altar
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/numinous-bellum-in-terris-12-lp) for $20.00
 ## CD
-Purchase from Arcane Altar
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/numinous-bellum-in-terris-cd) for $12.00

@@ -9,8 +9,9 @@ categories:
 images:
     - /images/covers/anaal_nathrakh-the_whole_of_the_law.jpg
 thumbnailImage: /images/covers/anaal_nathrakh-the_whole_of_the_law-thumb.jpg
-actualPrice: $0.00
+actualPrice: $22.00
+inStock: true
 ---
 
 ## Vinyl
-Purchase from Sto'Vo'Kor Records
+* Purchase from [Sto'Vo'Kor Records](https://stovokor-records.com/products/anaal-nathrakh-the-whole-of-the-law) for $22.00

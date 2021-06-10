@@ -9,8 +9,9 @@ categories:
 images:
     - /images/covers/wampyric_rites-the_eternal_melancholy_of_the_wampyre.jpg
 thumbnailImage: /images/covers/wampyric_rites-the_eternal_melancholy_of_the_wampyre-thumb.jpg
-actualPrice: $0.00
+actualPrice: $35.00
+inStock: true
 ---
 
 ## Vinyl
-Purchase from Arcane Altar
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/wampyric-rites-the-eternal-melancholy-of-the-wampyre-12-lp) for $35.00

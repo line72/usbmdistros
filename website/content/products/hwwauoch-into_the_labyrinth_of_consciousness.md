@@ -9,8 +9,9 @@ categories:
 images:
     - /images/covers/hwwauoch-into_the_labyrinth_of_consciousness.jpg
 thumbnailImage: /images/covers/hwwauoch-into_the_labyrinth_of_consciousness-thumb.jpg
-actualPrice: $0.00
+actualPrice: $20.00
+inStock: true
 ---
 
 ## Vinyl
-Purchase from Arcane Altar
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/hwwauoch-into-the-labyrinth-of-consciousness-12-lp) for $20.00

@@ -9,8 +9,9 @@ categories:
 images:
     - /images/covers/trono_além_morte-o_olhar_atento_da_escuridão.jpg
 thumbnailImage: /images/covers/trono_além_morte-o_olhar_atento_da_escuridão-thumb.jpg
-actualPrice: $0.00
+actualPrice: $23.00
+inStock: true
 ---
 
 ## Vinyl
-Purchase from Arcane Altar
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/trono-alem-morte-o-olhar-atento-da-escuridao-12-lp) for $23.00

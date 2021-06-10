@@ -9,8 +9,9 @@ categories:
 images:
     - /images/covers/nahtrunar-mysterium_tremendum.jpg
 thumbnailImage: /images/covers/nahtrunar-mysterium_tremendum-thumb.jpg
-actualPrice: $0.00
+actualPrice: $14.00
+inStock: true
 ---
 
 ## CD
-Purchase from Arcane Altar
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/nahtrunar-mysterium-tremendum-cd) for $14.00

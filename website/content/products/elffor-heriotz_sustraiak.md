@@ -9,8 +9,9 @@ categories:
 images:
     - /images/covers/elffor-heriotz_sustraiak.jpg
 thumbnailImage: /images/covers/elffor-heriotz_sustraiak-thumb.jpg
-actualPrice: $0.00
+actualPrice: $12.00
+inStock: true
 ---
 
 ## CD
-Purchase from Arcane Altar
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/elffor-heriotz-sustraiak-cd) for $12.00

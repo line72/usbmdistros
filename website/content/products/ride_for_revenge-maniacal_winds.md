@@ -9,8 +9,9 @@ categories:
 images:
     - /images/covers/ride_for_revenge-maniacal_winds.jpg
 thumbnailImage: /images/covers/ride_for_revenge-maniacal_winds-thumb.jpg
-actualPrice: $0.00
+actualPrice: $20.00
+inStock: true
 ---
 
 ## Vinyl
-Purchase from Arcane Altar
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/ride-for-revenge-maniacal-winds-12-lp) for $20.00

@@ -9,8 +9,9 @@ categories:
 images:
     - /images/covers/det_eviga_leendet-lenience.jpg
 thumbnailImage: /images/covers/det_eviga_leendet-lenience-thumb.jpg
-actualPrice: $0.00
+actualPrice: $20.00
+inStock: true
 ---
 
 ## Vinyl
-Purchase from Arcane Altar
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/det-eviga-leendet-lenience-12-lp) for $20.00

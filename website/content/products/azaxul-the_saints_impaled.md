@@ -9,8 +9,9 @@ categories:
 images:
     - /images/covers/azaxul-the_saints_impaled.jpg
 thumbnailImage: /images/covers/azaxul-the_saints_impaled-thumb.jpg
-actualPrice: $0.00
+actualPrice: $13.00
+inStock: true
 ---
 
 ## CD
-Purchase from Arcane Altar
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/azaxul-the-saints-impaled-cd) for $13.00

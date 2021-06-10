@@ -9,8 +9,9 @@ categories:
 images:
     - /images/covers/behexen-the_poisonous_path.jpg
 thumbnailImage: /images/covers/behexen-the_poisonous_path-thumb.jpg
-actualPrice: $0.00
+actualPrice: $13.00
+inStock: true
 ---
 
 ## CD
-Purchase from Arcane Altar
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/behexen-the-poisonous-path-cd) for $13.00

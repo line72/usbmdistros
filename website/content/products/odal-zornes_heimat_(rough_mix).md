@@ -10,10 +10,11 @@ categories:
 images:
     - /images/covers/odal-zornes_heimat_(rough_mix).jpg
 thumbnailImage: /images/covers/odal-zornes_heimat_(rough_mix)-thumb.jpg
-actualPrice: $0.00
+actualPrice: $12.00 - 25.00
+inStock: true
 ---
 
 ## Vinyl
-Purchase from Arcane Altar
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/odal-zornes-heimat-rough-mix-12-lp) for $25.00
 ## CD
-Purchase from Arcane Altar
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/odal-zornes-heimat-rough-mix-cd) for $12.00

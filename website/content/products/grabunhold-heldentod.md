@@ -9,8 +9,9 @@ categories:
 images:
     - /images/covers/grabunhold-heldentod.jpg
 thumbnailImage: /images/covers/grabunhold-heldentod-thumb.jpg
-actualPrice: $0.00
+actualPrice: $17.00
+inStock: true
 ---
 
 ## Vinyl
-Purchase from Sto'Vo'Kor Records
+* Purchase from [Sto'Vo'Kor Records](https://stovokor-records.com/products/grabunhold-heldentod) for $17.00

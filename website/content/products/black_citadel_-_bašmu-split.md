@@ -9,8 +9,9 @@ categories:
 images:
     - /images/covers/black_citadel_-_bašmu-split.jpg
 thumbnailImage: /images/covers/black_citadel_-_bašmu-split-thumb.jpg
-actualPrice: $0.00
+actualPrice: $9.00
+inStock: true
 ---
 
 ## Vinyl
-Purchase from Arcane Altar
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/black-citadel-basmu-split-7-ep) for $9.00

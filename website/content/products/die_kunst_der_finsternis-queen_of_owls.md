@@ -10,10 +10,11 @@ categories:
 images:
     - /images/covers/die_kunst_der_finsternis-queen_of_owls.jpg
 thumbnailImage: /images/covers/die_kunst_der_finsternis-queen_of_owls-thumb.jpg
-actualPrice: $0.00
+actualPrice: $13.00 - 27.00
+inStock: true
 ---
 
 ## Vinyl
-Purchase from Arcane Altar
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/die-kunst-der-finsternis-queen-of-owls-2xlp) for $27.00
 ## CD
-Purchase from Arcane Altar
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/die-kunst-der-finsternis-queen-of-owls-cd) for $13.00

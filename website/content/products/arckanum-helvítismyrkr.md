@@ -9,8 +9,9 @@ categories:
 images:
     - /images/covers/arckanum-helvítismyrkr.jpg
 thumbnailImage: /images/covers/arckanum-helvítismyrkr-thumb.jpg
-actualPrice: $0.00
+actualPrice: $20.00
+inStock: true
 ---
 
 ## Vinyl
-Purchase from Arcane Altar
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/arckanum-helvitismyrkr-12-lp) for $20.00

@@ -9,8 +9,9 @@ categories:
 images:
     - /images/covers/revenant_marquis-anti_universal_compassion.jpg
 thumbnailImage: /images/covers/revenant_marquis-anti_universal_compassion-thumb.jpg
-actualPrice: $0.00
+actualPrice: $15.00
+inStock: true
 ---
 
 ## CD
-Purchase from Arcane Altar
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/revenant-marquis-anti-universal-compassion-cd) for $15.00

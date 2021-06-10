@@ -9,8 +9,9 @@ categories:
 images:
     - /images/covers/black_funeral-scourge_of_lamashtu.jpg
 thumbnailImage: /images/covers/black_funeral-scourge_of_lamashtu-thumb.jpg
-actualPrice: $0.00
+actualPrice: $18.00
+inStock: true
 ---
 
 ## Vinyl
-Purchase from Sto'Vo'Kor Records
+* Purchase from [Sto'Vo'Kor Records](https://stovokor-records.com/products/black-funeral-scourge-of-lamashtu) for $18.00

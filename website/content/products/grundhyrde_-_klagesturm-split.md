@@ -9,8 +9,9 @@ categories:
 images:
     - /images/covers/grundhyrde_-_klagesturm-split.jpg
 thumbnailImage: /images/covers/grundhyrde_-_klagesturm-split-thumb.jpg
-actualPrice: $0.00
+actualPrice: $28.00
+inStock: true
 ---
 
 ## Vinyl
-Purchase from Arcane Altar
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/grundhyrde-klagesturm-split-12-lp) for $28.00

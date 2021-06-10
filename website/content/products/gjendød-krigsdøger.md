@@ -9,8 +9,9 @@ categories:
 images:
     - /images/covers/gjendød-krigsdøger.jpg
 thumbnailImage: /images/covers/gjendød-krigsdøger-thumb.jpg
-actualPrice: $0.00
+actualPrice: $25.00
+inStock: true
 ---
 
 ## Vinyl
-Purchase from Arcane Altar
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/gjendod-krigsdoger-12-lp) for $25.00

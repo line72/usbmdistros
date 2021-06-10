@@ -9,8 +9,9 @@ categories:
 images:
     - /images/covers/nocturnal_prayer-advance_on_weakened_foes.jpg
 thumbnailImage: /images/covers/nocturnal_prayer-advance_on_weakened_foes-thumb.jpg
-actualPrice: $0.00
+actualPrice: $30.00
+inStock: true
 ---
 
 ## Vinyl
-Purchase from Arcane Altar
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/nocturnal-prayer-advance-on-weakened-foes-12-lp) for $30.00

@@ -9,8 +9,9 @@ categories:
 images:
     - /images/covers/blood_ritual-demo_vii.jpg
 thumbnailImage: /images/covers/blood_ritual-demo_vii-thumb.jpg
-actualPrice: $0.00
+actualPrice: $8.00
+inStock: true
 ---
 
 ## Tape
-Purchase from Arcane Altar
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/blood-ritual-demo-vii-tape) for $8.00

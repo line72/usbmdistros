@@ -9,8 +9,9 @@ categories:
 images:
     - /images/covers/hatespirit-ageless_wilderness.jpg
 thumbnailImage: /images/covers/hatespirit-ageless_wilderness-thumb.jpg
-actualPrice: $0.00
+actualPrice: $16.00
+inStock: true
 ---
 
 ## Vinyl
-Purchase from Arcane Altar
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/hatespirit-ageless-wilderness-12-lp) for $16.00

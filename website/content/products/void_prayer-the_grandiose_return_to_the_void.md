@@ -9,8 +9,9 @@ categories:
 images:
     - /images/covers/void_prayer-the_grandiose_return_to_the_void.jpg
 thumbnailImage: /images/covers/void_prayer-the_grandiose_return_to_the_void-thumb.jpg
-actualPrice: $0.00
+actualPrice: $10.00
+inStock: true
 ---
 
 ## Tape
-Purchase from Arcane Altar
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/void-prayer-the-grandiose-return-to-the-void-tape) for $10.00

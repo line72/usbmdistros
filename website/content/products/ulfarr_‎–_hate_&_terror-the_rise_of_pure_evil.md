@@ -9,8 +9,9 @@ categories:
 images:
     - /images/covers/ulfarr_‎–_hate_&_terror-the_rise_of_pure_evil.jpg
 thumbnailImage: /images/covers/ulfarr_‎–_hate_&_terror-the_rise_of_pure_evil-thumb.jpg
-actualPrice: $0.00
+actualPrice: $25.00
+inStock: true
 ---
 
 ## Vinyl
-Purchase from Arcane Altar
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/ulfarr-hate-terror-the-rise-of-pure-evil-12-lp) for $25.00

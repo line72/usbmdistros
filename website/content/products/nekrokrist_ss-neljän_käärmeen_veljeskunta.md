@@ -9,8 +9,9 @@ categories:
 images:
     - /images/covers/nekrokrist_ss-neljän_käärmeen_veljeskunta.jpg
 thumbnailImage: /images/covers/nekrokrist_ss-neljän_käärmeen_veljeskunta-thumb.jpg
-actualPrice: $0.00
+actualPrice: $23.00
+inStock: true
 ---
 
 ## Vinyl
-Purchase from Arcane Altar
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/nekrokrist-ss-neljan-kaarmeen-veljeskunta-12-lp) for $23.00

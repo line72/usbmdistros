@@ -9,8 +9,9 @@ categories:
 images:
     - /images/covers/nyiþ_-_old_burial_temple-caput_mortum.jpg
 thumbnailImage: /images/covers/nyiþ_-_old_burial_temple-caput_mortum-thumb.jpg
-actualPrice: $0.00
+actualPrice: $23.00
+inStock: true
 ---
 
 ## Vinyl
-Purchase from Arcane Altar
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/nyith-old-burial-temple-caput-mortum-12-lp) for $23.00

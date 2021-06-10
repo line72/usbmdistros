@@ -7,10 +7,11 @@ album: "Diabolical Fullmoon Mysticism"
 categories:
     - Vinyl
 images:
-    - /images/blank-record.svg
-thumbnailImage: /images/blank-record.svg
-actualPrice: $0.00
+    - /images/covers/immortal-diabolical_fullmoon_mysticism.jpg
+thumbnailImage: /images/covers/immortal-diabolical_fullmoon_mysticism-thumb.jpg
+actualPrice: $24.00
+inStock: true
 ---
 
 ## Vinyl
-Purchase from Sto'Vo'Kor Records
+* Purchase from [Sto'Vo'Kor Records](https://stovokor-records.com/products/immortal-diabolical-fullmoon-mysticism) for $24.00

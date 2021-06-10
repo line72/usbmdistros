@@ -9,8 +9,9 @@ categories:
 images:
     - /images/covers/tropic_of_damned_spirits-demo_i.jpg
 thumbnailImage: /images/covers/tropic_of_damned_spirits-demo_i-thumb.jpg
-actualPrice: $0.00
+actualPrice: $9.00
+inStock: true
 ---
 
 ## Tape
-Purchase from Arcane Altar
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/tropic-of-damned-spirits-demo-i-tape) for $9.00

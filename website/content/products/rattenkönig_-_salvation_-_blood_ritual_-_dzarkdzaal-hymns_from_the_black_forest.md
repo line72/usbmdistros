@@ -9,8 +9,9 @@ categories:
 images:
     - /images/blank-record.svg
 thumbnailImage: /images/blank-record.svg
-actualPrice: $0.00
+actualPrice: $13.00
+inStock: true
 ---
 
 ## CD
-Purchase from Arcane Altar
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/rattenkonig-salvation-blood-ritual-dzarkdzaal-hymns-from-the-black-forest-cd) for $13.00

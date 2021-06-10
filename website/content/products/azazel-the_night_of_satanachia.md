@@ -9,8 +9,9 @@ categories:
 images:
     - /images/covers/azazel-the_night_of_satanachia.jpg
 thumbnailImage: /images/covers/azazel-the_night_of_satanachia-thumb.jpg
-actualPrice: $0.00
+actualPrice: $15.00
+inStock: true
 ---
 
 ## CD
-Purchase from Arcane Altar
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/azazel-the-night-of-satanachia-cd) for $15.00

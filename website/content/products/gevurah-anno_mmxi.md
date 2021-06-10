@@ -9,8 +9,9 @@ categories:
 images:
     - /images/covers/gevurah-anno_mmxi.jpg
 thumbnailImage: /images/covers/gevurah-anno_mmxi-thumb.jpg
-actualPrice: $0.00
+actualPrice: $9.00
+inStock: true
 ---
 
 ## Tape
-Purchase from Arcane Altar
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/gevurah-anno-mmxi-tape) for $9.00

@@ -9,8 +9,9 @@ categories:
 images:
     - /images/covers/crooked_mouth-anthology.jpg
 thumbnailImage: /images/covers/crooked_mouth-anthology-thumb.jpg
-actualPrice: $0.00
+actualPrice: $9.00
+inStock: true
 ---
 
 ## Tape
-Purchase from Arcane Altar
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/crooked-mouth-anthology-tape) for $9.00

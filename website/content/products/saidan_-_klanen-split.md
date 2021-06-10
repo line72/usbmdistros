@@ -9,8 +9,9 @@ categories:
 images:
     - /images/covers/saidan_-_klanen-split.jpg
 thumbnailImage: /images/covers/saidan_-_klanen-split-thumb.jpg
-actualPrice: $0.00
+actualPrice: $15.00
+inStock: true
 ---
 
 ## CD
-Purchase from Arcane Altar
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/saidan-klanen-split-cd) for $15.00

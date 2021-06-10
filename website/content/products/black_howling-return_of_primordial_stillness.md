@@ -9,8 +9,9 @@ categories:
 images:
     - /images/covers/black_howling-return_of_primordial_stillness.jpg
 thumbnailImage: /images/covers/black_howling-return_of_primordial_stillness-thumb.jpg
-actualPrice: $0.00
+actualPrice: $14.00
+inStock: true
 ---
 
 ## CD
-Purchase from Arcane Altar
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/black-howling-return-of-primordial-stillness-cd) for $14.00

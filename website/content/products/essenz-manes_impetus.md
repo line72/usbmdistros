@@ -10,10 +10,11 @@ categories:
 images:
     - /images/covers/essenz-manes_impetus.jpg
 thumbnailImage: /images/covers/essenz-manes_impetus-thumb.jpg
-actualPrice: $0.00
+actualPrice: $13.00 - 25.00
+inStock: true
 ---
 
 ## Vinyl
-Purchase from Arcane Altar
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/essenz-manes-impetus-2xlp) for $25.00
 ## CD
-Purchase from Arcane Altar
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/essenz-manes-impetus-cd) for $13.00

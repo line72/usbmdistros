@@ -9,8 +9,9 @@ categories:
 images:
     - /images/covers/broken_spirit-vivid_dreaming.jpg
 thumbnailImage: /images/covers/broken_spirit-vivid_dreaming-thumb.jpg
-actualPrice: $0.00
+actualPrice: $10.00
+inStock: true
 ---
 
 ## Tape
-Purchase from Arcane Altar
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/broken-spirit-vivid-dreaming-tape) for $10.00

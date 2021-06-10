@@ -9,8 +9,9 @@ categories:
 images:
     - /images/blank-record.svg
 thumbnailImage: /images/blank-record.svg
-actualPrice: $0.00
+actualPrice: $16.00
+inStock: true
 ---
 
 ## Vinyl
-Purchase from Sto'Vo'Kor Records
+* Purchase from [Sto'Vo'Kor Records](https://stovokor-records.com/products/black-funeral-moon-of-characith) for $16.00

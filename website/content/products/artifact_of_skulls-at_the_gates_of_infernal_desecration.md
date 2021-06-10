@@ -9,8 +9,9 @@ categories:
 images:
     - /images/covers/artifact_of_skulls-at_the_gates_of_infernal_desecration.jpg
 thumbnailImage: /images/covers/artifact_of_skulls-at_the_gates_of_infernal_desecration-thumb.jpg
-actualPrice: $0.00
+actualPrice: $25.00
+inStock: true
 ---
 
 ## Vinyl
-Purchase from Arcane Altar
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/artifact-of-skulls-at-the-gates-of-infernal-desecration-12-lp) for $25.00

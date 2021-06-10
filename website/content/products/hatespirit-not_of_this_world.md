@@ -9,8 +9,9 @@ categories:
 images:
     - /images/covers/hatespirit-not_of_this_world.jpg
 thumbnailImage: /images/covers/hatespirit-not_of_this_world-thumb.jpg
-actualPrice: $0.00
+actualPrice: $10.00
+inStock: true
 ---
 
 ## CD
-Purchase from Arcane Altar
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/hatespirit-not-of-this-world) for $10.00

@@ -9,8 +9,9 @@ categories:
 images:
     - /images/covers/megalith_grave_-_orgy_of_carrion-within_the_decadence_of_subliminal_rot.jpg
 thumbnailImage: /images/covers/megalith_grave_-_orgy_of_carrion-within_the_decadence_of_subliminal_rot-thumb.jpg
-actualPrice: $0.00
+actualPrice: $15.00
+inStock: true
 ---
 
 ## Vinyl
-Purchase from Arcane Altar
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/megalith-grave-orgy-of-carrion-within-the-decadence-of-subliminal-rot-10) for $15.00

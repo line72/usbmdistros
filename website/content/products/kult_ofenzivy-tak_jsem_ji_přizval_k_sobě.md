@@ -9,8 +9,9 @@ categories:
 images:
     - /images/covers/kult_ofenzivy-tak_jsem_ji_přizval_k_sobě.jpg
 thumbnailImage: /images/covers/kult_ofenzivy-tak_jsem_ji_přizval_k_sobě-thumb.jpg
-actualPrice: $0.00
+actualPrice: $24.00
+inStock: true
 ---
 
 ## Vinyl
-Purchase from Arcane Altar
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/kult-ofenzivy-tak-jsem-ji-prizval-k-sobe-12-lp) for $24.00

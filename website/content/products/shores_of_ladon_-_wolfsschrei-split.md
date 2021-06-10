@@ -9,8 +9,9 @@ categories:
 images:
     - /images/covers/shores_of_ladon_-_wolfsschrei-split.jpg
 thumbnailImage: /images/covers/shores_of_ladon_-_wolfsschrei-split-thumb.jpg
-actualPrice: $0.00
+actualPrice: $25.00
+inStock: true
 ---
 
 ## Vinyl
-Purchase from Arcane Altar
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/shores-of-ladon-wolfsschrei-split-12-lp) for $25.00

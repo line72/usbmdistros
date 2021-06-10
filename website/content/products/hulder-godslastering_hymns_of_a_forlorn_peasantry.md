@@ -9,8 +9,9 @@ categories:
 images:
     - /images/covers/hulder-godslastering_hymns_of_a_forlorn_peasantry.jpg
 thumbnailImage: /images/covers/hulder-godslastering_hymns_of_a_forlorn_peasantry-thumb.jpg
-actualPrice: $0.00
+actualPrice: $22.00
+inStock: true
 ---
 
 ## Vinyl
-Purchase from Sto'Vo'Kor Records
+* Purchase from [Sto'Vo'Kor Records](https://stovokor-records.com/products/hulder-godslastering-hymns-of-a-forlorn-peasantry) for $22.00

@@ -9,8 +9,9 @@ categories:
 images:
     - /images/covers/orgy_of_carrion-blood_washed_away_the_grave_purity.jpg
 thumbnailImage: /images/covers/orgy_of_carrion-blood_washed_away_the_grave_purity-thumb.jpg
-actualPrice: $0.00
+actualPrice: $15.00
+inStock: true
 ---
 
 ## CD
-Purchase from Arcane Altar
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/orgy-of-carrion-blood-washed-away-the-grave-purity-cd) for $15.00

@@ -9,8 +9,9 @@ categories:
 images:
     - /images/covers/sagenland-oale_grond.jpg
 thumbnailImage: /images/covers/sagenland-oale_grond-thumb.jpg
-actualPrice: $0.00
+actualPrice: $25.00
+inStock: true
 ---
 
 ## Vinyl
-Purchase from Arcane Altar
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/sagenland-oale-grond-12-lp) for $25.00

@@ -9,8 +9,9 @@ categories:
 images:
     - /images/covers/digerdöden_-_k.f.r-triumph_of_death.jpg
 thumbnailImage: /images/covers/digerdöden_-_k.f.r-triumph_of_death-thumb.jpg
-actualPrice: $0.00
+actualPrice: $9.00
+inStock: true
 ---
 
 ## Vinyl
-Purchase from Arcane Altar
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/digerdoden-k-f-r-triumph-of-death-7-ep) for $9.00

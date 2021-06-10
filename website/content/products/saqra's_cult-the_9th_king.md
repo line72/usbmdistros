@@ -9,8 +9,9 @@ categories:
 images:
     - /images/covers/saqra's_cult-the_9th_king.jpg
 thumbnailImage: /images/covers/saqra's_cult-the_9th_king-thumb.jpg
-actualPrice: $0.00
+actualPrice: $20.00
+inStock: true
 ---
 
 ## Vinyl
-Purchase from Arcane Altar
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/saqra-s-cult-the-9th-king-12-lp) for $20.00

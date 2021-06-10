@@ -9,8 +9,9 @@ categories:
 images:
     - /images/covers/slægt-ildsvanger.jpg
 thumbnailImage: /images/covers/slægt-ildsvanger-thumb.jpg
-actualPrice: $0.00
+actualPrice: $11.00
+inStock: true
 ---
 
 ## CD
-Purchase from Arcane Altar
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/slaegt-ildsvanger-cd) for $11.00

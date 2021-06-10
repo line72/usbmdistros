@@ -9,8 +9,9 @@ categories:
 images:
     - /images/covers/dkharmakhaoz-proclamation_ov_the_black_suns.jpg
 thumbnailImage: /images/covers/dkharmakhaoz-proclamation_ov_the_black_suns-thumb.jpg
-actualPrice: $0.00
+actualPrice: $19.00
+inStock: true
 ---
 
 ## Vinyl
-Purchase from Sto'Vo'Kor Records
+* Purchase from [Sto'Vo'Kor Records](https://stovokor-records.com/products/dkharmakhaoz-proclamation-ov-the-black-suns) for $19.00

@@ -9,8 +9,9 @@ categories:
 images:
     - /images/covers/hwwauoch-protest_against_sanity.jpg
 thumbnailImage: /images/covers/hwwauoch-protest_against_sanity-thumb.jpg
-actualPrice: $0.00
+actualPrice: $23.00
+inStock: true
 ---
 
 ## Vinyl
-Purchase from Sto'Vo'Kor Records
+* Purchase from [Sto'Vo'Kor Records](https://stovokor-records.com/products/hwwauoch-protest-against-sanity) for $23.00

@@ -9,8 +9,9 @@ categories:
 images:
     - /images/covers/pa_vesh_en-church_of_bones.jpg
 thumbnailImage: /images/covers/pa_vesh_en-church_of_bones-thumb.jpg
-actualPrice: $0.00
+actualPrice: $17.00
+inStock: true
 ---
 
 ## Vinyl
-Purchase from Sto'Vo'Kor Records
+* Purchase from [Sto'Vo'Kor Records](https://stovokor-records.com/products/pa-vesh-en-church-of-bones) for $17.00

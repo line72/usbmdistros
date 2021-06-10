@@ -9,8 +9,9 @@ categories:
 images:
     - /images/covers/iku-turso_‎–_storm_over_isengard.jpg
 thumbnailImage: /images/covers/iku-turso_‎–_storm_over_isengard-thumb.jpg
-actualPrice: $0.00
+actualPrice: $23.00
+inStock: true
 ---
 
 ## Vinyl
-Purchase from Arcane Altar
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/iku-turso-storm-over-isengard-12-lp) for $23.00

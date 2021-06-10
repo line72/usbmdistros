@@ -7,10 +7,11 @@ album: "Pure Holocaust"
 categories:
     - Vinyl
 images:
-    - /images/blank-record.svg
-thumbnailImage: /images/blank-record.svg
-actualPrice: $0.00
+    - /images/covers/immortal-pure_holocaust.jpg
+thumbnailImage: /images/covers/immortal-pure_holocaust-thumb.jpg
+actualPrice: $24.00
+inStock: true
 ---
 
 ## Vinyl
-Purchase from Sto'Vo'Kor Records
+* Purchase from [Sto'Vo'Kor Records](https://stovokor-records.com/products/immortal-pure-holocaust) for $24.00

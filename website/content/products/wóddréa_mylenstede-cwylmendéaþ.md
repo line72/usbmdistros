@@ -10,10 +10,11 @@ categories:
 images:
     - /images/covers/wóddréa_mylenstede-cwylmendéaþ.jpg
 thumbnailImage: /images/covers/wóddréa_mylenstede-cwylmendéaþ-thumb.jpg
-actualPrice: $0.00
+actualPrice: $15.00 - 25.00
+inStock: true
 ---
 
 ## Vinyl
-Purchase from Arcane Altar
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/woddrea-mylenstede-cwylmendeath-12-lp) for $25.00
 ## CD
-Purchase from Arcane Altar
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/woddrea-mylenstede-cwylmendeath-cd) for $15.00

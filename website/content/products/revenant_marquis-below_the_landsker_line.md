@@ -9,8 +9,9 @@ categories:
 images:
     - /images/covers/revenant_marquis-below_the_landsker_line.jpg
 thumbnailImage: /images/covers/revenant_marquis-below_the_landsker_line-thumb.jpg
-actualPrice: $0.00
+actualPrice: $15.00
+inStock: true
 ---
 
 ## CD
-Purchase from Arcane Altar
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/revenant-marquis-below-the-landsker-line-cd) for $15.00

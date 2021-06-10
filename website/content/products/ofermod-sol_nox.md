@@ -9,8 +9,9 @@ categories:
 images:
     - /images/covers/ofermod-sol_nox.jpg
 thumbnailImage: /images/covers/ofermod-sol_nox-thumb.jpg
-actualPrice: $0.00
+actualPrice: $24.00
+inStock: true
 ---
 
 ## Vinyl
-Purchase from Arcane Altar
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/ofermod-sol-nox-12-lp) for $24.00

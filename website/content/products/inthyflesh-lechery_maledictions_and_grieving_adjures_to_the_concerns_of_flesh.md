@@ -9,8 +9,9 @@ categories:
 images:
     - /images/covers/inthyflesh-lechery_maledictions_and_grieving_adjures_to_the_concerns_of_flesh.jpg
 thumbnailImage: /images/covers/inthyflesh-lechery_maledictions_and_grieving_adjures_to_the_concerns_of_flesh-thumb.jpg
-actualPrice: $0.00
+actualPrice: $24.00
+inStock: true
 ---
 
 ## Vinyl
-Purchase from Arcane Altar
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/inthyflesh-lechery-maledictions-and-grieving-adjures-to-the-concerns-of-flesh-12-lp) for $24.00

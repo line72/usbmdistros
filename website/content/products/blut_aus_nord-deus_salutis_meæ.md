@@ -9,8 +9,9 @@ categories:
 images:
     - /images/covers/blut_aus_nord-deus_salutis_meæ.jpg
 thumbnailImage: /images/covers/blut_aus_nord-deus_salutis_meæ-thumb.jpg
-actualPrice: $0.00
+actualPrice: $20.00
+inStock: true
 ---
 
 ## Vinyl
-Purchase from Arcane Altar
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/blut-aus-nord-deus-salutis-meae-lp) for $20.00

@@ -9,8 +9,9 @@ categories:
 images:
     - /images/covers/múspellzheimr_-_aiwīgaz_unðergangaz-split.jpg
 thumbnailImage: /images/covers/múspellzheimr_-_aiwīgaz_unðergangaz-split-thumb.jpg
-actualPrice: $0.00
+actualPrice: $12.00
+inStock: true
 ---
 
 ## CD
-Purchase from Arcane Altar
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/aiwigaz-undergangaz-muspellzheimr-split-cd) for $12.00

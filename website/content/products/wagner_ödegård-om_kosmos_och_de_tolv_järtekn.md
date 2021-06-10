@@ -9,8 +9,9 @@ categories:
 images:
     - /images/covers/wagner_ödegård-om_kosmos_och_de_tolv_järtekn.jpg
 thumbnailImage: /images/covers/wagner_ödegård-om_kosmos_och_de_tolv_järtekn-thumb.jpg
-actualPrice: $0.00
+actualPrice: $28.00
+inStock: true
 ---
 
 ## Vinyl
-Purchase from Arcane Altar
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/wagner-odegard-om-kosmos-och-de-tolv-jartekn-12-lp) for $28.00

@@ -9,8 +9,9 @@ categories:
 images:
     - /images/covers/mütiilation-remains_of_a_ruined,_dead,_cursed_soul.jpg
 thumbnailImage: /images/covers/mütiilation-remains_of_a_ruined,_dead,_cursed_soul-thumb.jpg
-actualPrice: $0.00
+actualPrice: $23.00
+inStock: true
 ---
 
 ## Vinyl
-Purchase from Arcane Altar
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/mutiilation-remains-of-a-ruined-dead-cursed-soul-12-lp) for $23.00

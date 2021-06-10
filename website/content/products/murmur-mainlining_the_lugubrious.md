@@ -9,8 +9,9 @@ categories:
 images:
     - /images/covers/murmur-mainlining_the_lugubrious.jpg
 thumbnailImage: /images/covers/murmur-mainlining_the_lugubrious-thumb.jpg
-actualPrice: $0.00
+actualPrice: $28.00
+inStock: true
 ---
 
 ## Vinyl
-Purchase from Sto'Vo'Kor Records
+* Purchase from [Sto'Vo'Kor Records](https://stovokor-records.com/products/murmur-mainlining-the-lugubrious) for $28.00

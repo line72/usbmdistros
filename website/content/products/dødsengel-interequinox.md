@@ -9,8 +9,9 @@ categories:
 images:
     - /images/covers/dødsengel-interequinox.jpg
 thumbnailImage: /images/covers/dødsengel-interequinox-thumb.jpg
-actualPrice: $0.00
+actualPrice: $26.00
+inStock: true
 ---
 
 ## Vinyl
-Purchase from Arcane Altar
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/ddsengel-interequinox-2xlp) for $26.00

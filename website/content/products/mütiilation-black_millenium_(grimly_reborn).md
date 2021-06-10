@@ -9,8 +9,9 @@ categories:
 images:
     - /images/covers/mütiilation-black_millenium_(grimly_reborn).jpg
 thumbnailImage: /images/covers/mütiilation-black_millenium_(grimly_reborn)-thumb.jpg
-actualPrice: $0.00
+actualPrice: $23.00
+inStock: true
 ---
 
 ## Vinyl
-Purchase from Arcane Altar
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/black-millenium-grimly-reborn-12-lp) for $23.00

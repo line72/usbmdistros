@@ -9,8 +9,9 @@ categories:
 images:
     - /images/covers/trono_além_morte_-_vetala-split.jpg
 thumbnailImage: /images/covers/trono_além_morte_-_vetala-split-thumb.jpg
-actualPrice: $0.00
+actualPrice: $22.00
+inStock: true
 ---
 
 ## Vinyl
-Purchase from Arcane Altar
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/trono-alem-morte-vetala-split-12-lp) for $22.00

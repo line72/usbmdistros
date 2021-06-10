@@ -9,8 +9,9 @@ categories:
 images:
     - /images/covers/movimento_d'avanguardia_ermetico-stelle_senza_luce.jpg
 thumbnailImage: /images/covers/movimento_d'avanguardia_ermetico-stelle_senza_luce-thumb.jpg
-actualPrice: $0.00
+actualPrice: $30.00
+inStock: true
 ---
 
 ## Vinyl
-Purchase from Arcane Altar
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/movimento-d-avanguardia-ermetico-stelle-senza-luce-12-lp) for $30.00

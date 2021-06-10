@@ -9,8 +9,9 @@ categories:
 images:
     - /images/covers/vetala-burn_your_head_with_satan.jpg
 thumbnailImage: /images/covers/vetala-burn_your_head_with_satan-thumb.jpg
-actualPrice: $0.00
+actualPrice: $13.00
+inStock: true
 ---
 
 ## CD
-Purchase from Arcane Altar
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/vetala-burn-your-head-with-satan-cd) for $13.00

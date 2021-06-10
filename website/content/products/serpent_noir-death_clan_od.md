@@ -9,8 +9,9 @@ categories:
 images:
     - /images/covers/serpent_noir-death_clan_od.jpg
 thumbnailImage: /images/covers/serpent_noir-death_clan_od-thumb.jpg
-actualPrice: $0.00
+actualPrice: $21.00
+inStock: true
 ---
 
 ## Vinyl
-Purchase from Arcane Altar
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/serpent-noir-death-clan-od-12-lp) for $21.00

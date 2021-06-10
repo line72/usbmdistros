@@ -9,8 +9,9 @@ categories:
 images:
     - /images/covers/reverorum_ib_malacht-ter_agios_numini.jpg
 thumbnailImage: /images/covers/reverorum_ib_malacht-ter_agios_numini-thumb.jpg
-actualPrice: $0.00
+actualPrice: $17.00
+inStock: true
 ---
 
 ## Vinyl
-Purchase from Arcane Altar
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/reverorum-ib-malacht-ter-agios-numini-12-lp) for $17.00

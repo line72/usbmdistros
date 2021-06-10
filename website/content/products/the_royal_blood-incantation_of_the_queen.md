@@ -9,8 +9,9 @@ categories:
 images:
     - /images/covers/the_royal_blood-incantation_of_the_queen.jpg
 thumbnailImage: /images/covers/the_royal_blood-incantation_of_the_queen-thumb.jpg
-actualPrice: $0.00
+actualPrice: $23.00
+inStock: true
 ---
 
 ## Vinyl
-Purchase from Arcane Altar
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/the-royal-blood-incantation-of-the-queen-10) for $23.00

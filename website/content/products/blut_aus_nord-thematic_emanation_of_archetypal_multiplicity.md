@@ -9,8 +9,9 @@ categories:
 images:
     - /images/covers/blut_aus_nord-thematic_emanation_of_archetypal_multiplicity.jpg
 thumbnailImage: /images/covers/blut_aus_nord-thematic_emanation_of_archetypal_multiplicity-thumb.jpg
-actualPrice: $0.00
+actualPrice: $20.00
+inStock: true
 ---
 
 ## Vinyl
-Purchase from Arcane Altar
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/blut-aus-nord-thematic-emanation-of-archetypal-multiplicity-12-lp) for $20.00

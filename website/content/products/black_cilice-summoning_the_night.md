@@ -9,8 +9,9 @@ categories:
 images:
     - /images/covers/black_cilice-summoning_the_night.jpg
 thumbnailImage: /images/covers/black_cilice-summoning_the_night-thumb.jpg
-actualPrice: $0.00
+actualPrice: $25.00
+inStock: true
 ---
 
 ## Vinyl
-Purchase from Arcane Altar
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/black-cilice-summoning-the-night-12-lp) for $25.00

@@ -9,8 +9,9 @@ categories:
 images:
     - /images/covers/sanctuaire-le_sang_sur_l'acier.jpg
 thumbnailImage: /images/covers/sanctuaire-le_sang_sur_l'acier-thumb.jpg
-actualPrice: $0.00
+actualPrice: $10.00
+inStock: true
 ---
 
 ## CD
-Purchase from Arcane Altar
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/sanctuaire-le-sang-sur-l-acier-mcd) for $10.00

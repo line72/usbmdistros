@@ -9,8 +9,9 @@ categories:
 images:
     - /images/covers/torrid_death's_fire-nocturnal_erotic_symbolism.jpg
 thumbnailImage: /images/covers/torrid_death's_fire-nocturnal_erotic_symbolism-thumb.jpg
-actualPrice: $0.00
+actualPrice: $14.00
+inStock: true
 ---
 
 ## CD
-Purchase from Arcane Altar
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/torrid-death-s-fire-nocturnal-erotic-symbolism-cd) for $14.00

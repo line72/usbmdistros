@@ -9,8 +9,9 @@ categories:
 images:
     - /images/covers/spider_god-den_inre_borgen_-_the_interior_castle.jpg
 thumbnailImage: /images/covers/spider_god-den_inre_borgen_-_the_interior_castle-thumb.jpg
-actualPrice: $0.00
+actualPrice: $15.00
+inStock: true
 ---
 
 ## CD
-Purchase from Arcane Altar
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/spider-god-den-inre-borgen-the-interior-castle-cd) for $15.00

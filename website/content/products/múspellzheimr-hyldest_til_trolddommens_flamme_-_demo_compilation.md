@@ -9,8 +9,9 @@ categories:
 images:
     - /images/covers/múspellzheimr-hyldest_til_trolddommens_flamme_-_demo_compilation.jpg
 thumbnailImage: /images/covers/múspellzheimr-hyldest_til_trolddommens_flamme_-_demo_compilation-thumb.jpg
-actualPrice: $0.00
+actualPrice: $14.00
+inStock: true
 ---
 
 ## CD
-Purchase from Arcane Altar
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/muspellzheimr-hyldest-til-trolddommens-flamme-demo-compilation-2cd) for $14.00

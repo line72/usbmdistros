@@ -9,8 +9,9 @@ categories:
 images:
     - /images/covers/mesarthim-the_density_parameter.jpg
 thumbnailImage: /images/covers/mesarthim-the_density_parameter-thumb.jpg
-actualPrice: $0.00
+actualPrice: $21.00
+inStock: true
 ---
 
 ## Vinyl
-Purchase from Sto'Vo'Kor Records
+* Purchase from [Sto'Vo'Kor Records](https://stovokor-records.com/products/mesarthim-the-density-parameter) for $21.00

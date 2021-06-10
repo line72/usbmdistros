@@ -9,8 +9,9 @@ categories:
 images:
     - /images/covers/evilfeast_-_uuntar-odes_to_lands_of_past_traditions.jpg
 thumbnailImage: /images/covers/evilfeast_-_uuntar-odes_to_lands_of_past_traditions-thumb.jpg
-actualPrice: $0.00
+actualPrice: $25.00
+inStock: true
 ---
 
 ## Vinyl
-Purchase from Arcane Altar
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/evilfeast-uuntar-odes-to-lands-of-past-traditions-12-lp) for $25.00

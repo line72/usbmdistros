@@ -9,8 +9,9 @@ categories:
 images:
     - /images/covers/a.m.s.g.-hostis_universi_generis.jpg
 thumbnailImage: /images/covers/a.m.s.g.-hostis_universi_generis-thumb.jpg
-actualPrice: $0.00
+actualPrice: $15.00
+inStock: true
 ---
 
 ## CD
-Purchase from Arcane Altar
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/a-m-s-g-hostis-universi-generis-cd) for $15.00

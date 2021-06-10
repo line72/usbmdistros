@@ -9,8 +9,9 @@ categories:
 images:
     - /images/covers/pa_vesh_en-cryptic_rights_of_necromancy.jpg
 thumbnailImage: /images/covers/pa_vesh_en-cryptic_rights_of_necromancy-thumb.jpg
-actualPrice: $0.00
+actualPrice: $11.00
+inStock: true
 ---
 
 ## Vinyl
-Purchase from Sto'Vo'Kor Records
+* Purchase from [Sto'Vo'Kor Records](https://stovokor-records.com/products/pa-vesh-en-cryptic-rights-of-necromancy) for $11.00

@@ -9,8 +9,9 @@ categories:
 images:
     - /images/covers/reverorum_ib_malacht-im_ra_distare_summum_soveris_seris_vas_innoble.jpg
 thumbnailImage: /images/covers/reverorum_ib_malacht-im_ra_distare_summum_soveris_seris_vas_innoble-thumb.jpg
-actualPrice: $0.00
+actualPrice: $22.00
+inStock: true
 ---
 
 ## Vinyl
-Purchase from Arcane Altar
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/reverorum-ib-malacht-im-ra-distare-summum-soveris-seris-vas-innoble-12-lp) for $22.00

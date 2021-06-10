@@ -9,8 +9,9 @@ categories:
 images:
     - /images/covers/mgła-age_of_excuse.jpg
 thumbnailImage: /images/covers/mgła-age_of_excuse-thumb.jpg
-actualPrice: $0.00
+actualPrice: $20.00
+inStock: true
 ---
 
 ## Vinyl
-Purchase from Arcane Altar
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/mgla-age-of-excuse-12-lp) for $20.00

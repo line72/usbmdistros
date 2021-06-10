@@ -9,8 +9,9 @@ categories:
 images:
     - /images/covers/crypts_of_wallachia_-_effroi-split.jpg
 thumbnailImage: /images/covers/crypts_of_wallachia_-_effroi-split-thumb.jpg
-actualPrice: $0.00
+actualPrice: $10.00
+inStock: true
 ---
 
 ## Vinyl
-Purchase from Arcane Altar
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/crypts-of-wallachia-effroi-split-7-ep) for $10.00

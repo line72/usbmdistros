@@ -9,8 +9,9 @@ categories:
 images:
     - /images/covers/gormanudr_-_fidelis-kältetod_-_morning_mists_in_blood.jpg
 thumbnailImage: /images/covers/gormanudr_-_fidelis-kältetod_-_morning_mists_in_blood-thumb.jpg
-actualPrice: $0.00
+actualPrice: $9.00
+inStock: true
 ---
 
 ## Vinyl
-Purchase from Arcane Altar
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/gormanudr-fidelis-kaltetod-morning-mists-in-blood-7-ep) for $9.00

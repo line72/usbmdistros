@@ -9,8 +9,9 @@ categories:
 images:
     - /images/covers/a.m.s.g._‎–_anti-cosmic_tyranny.jpg
 thumbnailImage: /images/covers/a.m.s.g._‎–_anti-cosmic_tyranny-thumb.jpg
-actualPrice: $0.00
+actualPrice: $15.00
+inStock: true
 ---
 
 ## CD
-Purchase from Arcane Altar
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/a-m-s-g-anti-cosmic-tyranny-cd) for $15.00

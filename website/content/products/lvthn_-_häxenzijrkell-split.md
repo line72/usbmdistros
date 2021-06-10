@@ -9,8 +9,9 @@ categories:
 images:
     - /images/covers/lvthn_-_häxenzijrkell-split.jpg
 thumbnailImage: /images/covers/lvthn_-_häxenzijrkell-split-thumb.jpg
-actualPrice: $0.00
+actualPrice: $17.00
+inStock: true
 ---
 
 ## Vinyl
-Purchase from Arcane Altar
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/lvthn-haxenzijrkell-split-10) for $17.00

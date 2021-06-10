@@ -9,8 +9,9 @@ categories:
 images:
     - /images/covers/pa_vesh_en-knife_ritual_-_dead_womb.jpg
 thumbnailImage: /images/covers/pa_vesh_en-knife_ritual_-_dead_womb-thumb.jpg
-actualPrice: $0.00
+actualPrice: $17.00
+inStock: true
 ---
 
 ## Vinyl
-Purchase from Sto'Vo'Kor Records
+* Purchase from [Sto'Vo'Kor Records](https://stovokor-records.com/products/pa-vesh-en-knife-ritual-dead-womb) for $17.00

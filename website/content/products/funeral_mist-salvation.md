@@ -9,8 +9,9 @@ categories:
 images:
     - /images/covers/funeral_mist-salvation.jpg
 thumbnailImage: /images/covers/funeral_mist-salvation-thumb.jpg
-actualPrice: $0.00
+actualPrice: $24.00
+inStock: true
 ---
 
 ## Vinyl
-Purchase from Arcane Altar
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/funeral-mist-salvation-12-lp) for $24.00

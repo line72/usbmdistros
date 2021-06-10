@@ -9,8 +9,9 @@ categories:
 images:
     - /images/covers/wagner_ödegård-om_kosmos_och_de_tolv järtekn.jpg
 thumbnailImage: /images/covers/wagner_ödegård-om_kosmos_och_de_tolv järtekn-thumb.jpg
-actualPrice: $0.00
+actualPrice: $14.00
+inStock: true
 ---
 
 ## CD
-Purchase from Arcane Altar
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/wagner-odegard-om-kosmos-och-de-tolv-jartekn-cd) for $14.00

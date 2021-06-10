@@ -7,10 +7,11 @@ album: "I"
 categories:
     - Vinyl
 images:
-    - /images/blank-record.svg
-thumbnailImage: /images/blank-record.svg
-actualPrice: $0.00
+    - /images/covers/darkspace-i.jpg
+thumbnailImage: /images/covers/darkspace-i-thumb.jpg
+actualPrice: $45.00
+inStock: true
 ---
 
 ## Vinyl
-Purchase from Sto'Vo'Kor Records
+* Purchase from [Sto'Vo'Kor Records](https://stovokor-records.com/products/darkspace-i) for $45.00

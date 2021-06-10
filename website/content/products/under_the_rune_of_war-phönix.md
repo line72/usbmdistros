@@ -9,8 +9,9 @@ categories:
 images:
     - /images/covers/under_the_rune_of_war-phönix.jpg
 thumbnailImage: /images/covers/under_the_rune_of_war-phönix-thumb.jpg
-actualPrice: $0.00
+actualPrice: $30.00
+inStock: true
 ---
 
 ## Vinyl
-Purchase from Arcane Altar
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/under-the-rune-of-war-phonix-12-lp) for $30.00

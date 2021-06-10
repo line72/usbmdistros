@@ -9,8 +9,9 @@ categories:
 images:
     - /images/covers/voidsphere-to_await_|_to_expect.jpg
 thumbnailImage: /images/covers/voidsphere-to_await_|_to_expect-thumb.jpg
-actualPrice: $0.00
+actualPrice: $12.00
+inStock: true
 ---
 
 ## CD
-Purchase from Arcane Altar
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/voidsphere-to-await-to-expect-cd) for $12.00

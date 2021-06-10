@@ -9,8 +9,9 @@ categories:
 images:
     - /images/covers/w.a.i.l.-wisdom_through_agony_into_illumination_and_lunacy_vol._ii.jpg
 thumbnailImage: /images/covers/w.a.i.l.-wisdom_through_agony_into_illumination_and_lunacy_vol._ii-thumb.jpg
-actualPrice: $0.00
+actualPrice: $30.00
+inStock: true
 ---
 
 ## Vinyl
-Purchase from Arcane Altar
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/w-a-i-l-wisdom-through-agony-into-illumination-and-lunacy-vol-ii-2xlp) for $30.00

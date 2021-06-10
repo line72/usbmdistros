@@ -9,8 +9,9 @@ categories:
 images:
     - /images/covers/concordia_diaboli-le_jardin_des_endeuíllés.jpg
 thumbnailImage: /images/covers/concordia_diaboli-le_jardin_des_endeuíllés-thumb.jpg
-actualPrice: $0.00
+actualPrice: $9.00
+inStock: true
 ---
 
 ## Tape
-Purchase from Arcane Altar
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/concordia-diaboli-le-jardin-des-endeuilles-tape) for $9.00

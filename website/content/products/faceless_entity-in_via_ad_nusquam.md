@@ -9,8 +9,9 @@ categories:
 images:
     - /images/covers/faceless_entity-in_via_ad_nusquam.jpg
 thumbnailImage: /images/covers/faceless_entity-in_via_ad_nusquam-thumb.jpg
-actualPrice: $0.00
+actualPrice: $12.00
+inStock: true
 ---
 
 ## CD
-Purchase from Arcane Altar
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/faceless-entity-in-via-ad-nusquam-cd) for $12.00

@@ -9,8 +9,9 @@ categories:
 images:
     - /images/covers/darkthule-βιγλάτωρ.jpg
 thumbnailImage: /images/covers/darkthule-βιγλάτωρ-thumb.jpg
-actualPrice: $0.00
+actualPrice: $28.00
+inStock: true
 ---
 
 ## Vinyl
-Purchase from Arcane Altar
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/darkthule-12-lp) for $28.00

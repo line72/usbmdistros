@@ -9,8 +9,9 @@ categories:
 images:
     - /images/covers/sanctvs-mors_aeterna.jpg
 thumbnailImage: /images/covers/sanctvs-mors_aeterna-thumb.jpg
-actualPrice: $0.00
+actualPrice: $9.00
+inStock: true
 ---
 
 ## Tape
-Purchase from Arcane Altar
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/sanctvs-mors-aeterna-tape) for $9.00

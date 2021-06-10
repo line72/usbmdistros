@@ -10,10 +10,11 @@ categories:
 images:
     - /images/covers/taje_skal-s-t.jpg
 thumbnailImage: /images/covers/taje_skal-s-t-thumb.jpg
-actualPrice: $0.00
+actualPrice: $15.00 - 27.00
+inStock: true
 ---
 
 ## Vinyl
-Purchase from Arcane Altar
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/taje-skal-s-t-12-lp) for $27.00
 ## CD
-Purchase from Arcane Altar
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/taje-skal-s-t-cd) for $15.00

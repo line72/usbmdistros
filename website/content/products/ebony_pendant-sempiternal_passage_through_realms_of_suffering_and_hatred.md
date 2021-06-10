@@ -9,8 +9,9 @@ categories:
 images:
     - /images/covers/ebony_pendant-sempiternal_passage_through_realms_of_suffering_and_hatred.jpg
 thumbnailImage: /images/covers/ebony_pendant-sempiternal_passage_through_realms_of_suffering_and_hatred-thumb.jpg
-actualPrice: $0.00
+actualPrice: $13.00
+inStock: true
 ---
 
 ## CD
-Purchase from Arcane Altar
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/ebony-pendant-sempiternal-passage-through-realms-of-suffering-and-hatred-cd) for $13.00

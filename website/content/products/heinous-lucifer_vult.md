@@ -9,8 +9,9 @@ categories:
 images:
     - /images/covers/heinous-lucifer_vult.jpg
 thumbnailImage: /images/covers/heinous-lucifer_vult-thumb.jpg
-actualPrice: $0.00
+actualPrice: $10.00
+inStock: true
 ---
 
 ## Vinyl
-Purchase from Arcane Altar
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/heinous-lucifer-vult-7-ep) for $10.00

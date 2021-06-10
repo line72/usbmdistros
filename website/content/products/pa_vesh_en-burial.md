@@ -9,8 +9,9 @@ categories:
 images:
     - /images/covers/pa_vesh_en-burial.jpg
 thumbnailImage: /images/covers/pa_vesh_en-burial-thumb.jpg
-actualPrice: $0.00
+actualPrice: $17.00
+inStock: true
 ---
 
 ## Vinyl
-Purchase from Sto'Vo'Kor Records
+* Purchase from [Sto'Vo'Kor Records](https://stovokor-records.com/products/pa-vesh-en-burial) for $17.00

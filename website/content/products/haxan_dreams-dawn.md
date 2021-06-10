@@ -9,8 +9,9 @@ categories:
 images:
     - /images/covers/haxan_dreams-dawn.jpg
 thumbnailImage: /images/covers/haxan_dreams-dawn-thumb.jpg
-actualPrice: $0.00
+actualPrice: $28.00
+inStock: true
 ---
 
 ## Vinyl
-Purchase from Arcane Altar
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/haxan-dreams-dawn-12-lp) for $28.00

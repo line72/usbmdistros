@@ -9,8 +9,9 @@ categories:
 images:
     - /images/covers/coven_of_the_worm_‎–_1992-1996.jpg
 thumbnailImage: /images/covers/coven_of_the_worm_‎–_1992-1996-thumb.jpg
-actualPrice: $0.00
+actualPrice: $20.00
+inStock: true
 ---
 
 ## Vinyl
-Purchase from Arcane Altar
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/coven-of-the-worm-1992-1996-12-lp) for $20.00

@@ -9,8 +9,9 @@ categories:
 images:
     - /images/covers/dysangelium-death_leading.jpg
 thumbnailImage: /images/covers/dysangelium-death_leading-thumb.jpg
-actualPrice: $0.00
+actualPrice: $22.00
+inStock: true
 ---
 
 ## Vinyl
-Purchase from Arcane Altar
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/dysangelium-death-leading-12-lp) for $22.00

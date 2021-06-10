@@ -9,8 +9,9 @@ categories:
 images:
     - /images/covers/turia-dor.jpg
 thumbnailImage: /images/covers/turia-dor-thumb.jpg
-actualPrice: $0.00
+actualPrice: $12.00
+inStock: true
 ---
 
 ## CD
-Purchase from Arcane Altar
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/turia-dor-cd) for $12.00

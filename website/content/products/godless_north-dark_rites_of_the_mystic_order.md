@@ -9,8 +9,9 @@ categories:
 images:
     - /images/covers/godless_north-dark_rites_of_the_mystic_order.jpg
 thumbnailImage: /images/covers/godless_north-dark_rites_of_the_mystic_order-thumb.jpg
-actualPrice: $0.00
+actualPrice: $25.00
+inStock: true
 ---
 
 ## Vinyl
-Purchase from Arcane Altar
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/godless-north-dark-rites-of-the-mystic-order-12-lp) for $25.00

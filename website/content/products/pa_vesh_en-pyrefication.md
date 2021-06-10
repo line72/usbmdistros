@@ -9,8 +9,9 @@ categories:
 images:
     - /images/covers/pa_vesh_en-pyrefication.jpg
 thumbnailImage: /images/covers/pa_vesh_en-pyrefication-thumb.jpg
-actualPrice: $0.00
+actualPrice: $18.00
+inStock: true
 ---
 
 ## Vinyl
-Purchase from Sto'Vo'Kor Records
+* Purchase from [Sto'Vo'Kor Records](https://stovokor-records.com/products/pa-vesh-en-pyrefication) for $18.00

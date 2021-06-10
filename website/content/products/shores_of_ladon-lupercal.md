@@ -10,10 +10,11 @@ categories:
 images:
     - /images/covers/shores_of_ladon-lupercal.jpg
 thumbnailImage: /images/covers/shores_of_ladon-lupercal-thumb.jpg
-actualPrice: $0.00
+actualPrice: $12.00 - 25.00
+inStock: true
 ---
 
 ## Vinyl
-Purchase from Arcane Altar
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/shores-of-ladon-lupercal-12-lp) for $25.00
 ## CD
-Purchase from Arcane Altar
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/shores-of-ladon-lupercal-cd) for $12.00

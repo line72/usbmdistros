@@ -9,8 +9,9 @@ categories:
 images:
     - /images/covers/ordem_satânica_-_niteris-sepulchral_silence_of_satan.jpg
 thumbnailImage: /images/covers/ordem_satânica_-_niteris-sepulchral_silence_of_satan-thumb.jpg
-actualPrice: $0.00
+actualPrice: $25.00
+inStock: true
 ---
 
 ## Vinyl
-Purchase from Arcane Altar
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/ordem-satanica-niteris-sepulchral-silence-of-satan-12-lp) for $25.00

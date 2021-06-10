@@ -9,8 +9,9 @@ categories:
 images:
     - /images/covers/dodenbezweerder-vrees_de_toorn_van_de_wezens_verscholen_achter_majestueuze_vleugels.jpg
 thumbnailImage: /images/covers/dodenbezweerder-vrees_de_toorn_van_de_wezens_verscholen_achter_majestueuze_vleugels-thumb.jpg
-actualPrice: $0.00
+actualPrice: $18.00
+inStock: true
 ---
 
 ## Vinyl
-Purchase from Sto'Vo'Kor Records
+* Purchase from [Sto'Vo'Kor Records](https://stovokor-records.com/products/dodenbezweerder-vrees-de-toorn-van-de-wezens-verscholen-achter-majestueuze-vleugels) for $18.00

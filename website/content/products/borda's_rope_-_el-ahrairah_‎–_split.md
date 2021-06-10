@@ -9,8 +9,9 @@ categories:
 images:
     - /images/covers/borda's_rope_-_el-ahrairah_‎–_split.jpg
 thumbnailImage: /images/covers/borda's_rope_-_el-ahrairah_‎–_split-thumb.jpg
-actualPrice: $0.00
+actualPrice: $22.00
+inStock: true
 ---
 
 ## Vinyl
-Purchase from Arcane Altar
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/borda-s-rope-el-ahrairah-split-10) for $22.00

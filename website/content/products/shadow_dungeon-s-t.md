@@ -9,8 +9,9 @@ categories:
 images:
     - /images/covers/shadow_dungeon-s-t.jpg
 thumbnailImage: /images/covers/shadow_dungeon-s-t-thumb.jpg
-actualPrice: $0.00
+actualPrice: $15.00
+inStock: true
 ---
 
 ## CD
-Purchase from Arcane Altar
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/shadow-dungeon-s-t-2cd) for $15.00

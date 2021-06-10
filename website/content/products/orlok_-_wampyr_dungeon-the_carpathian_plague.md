@@ -9,8 +9,9 @@ categories:
 images:
     - /images/covers/orlok_-_wampyr_dungeon-the_carpathian_plague.jpg
 thumbnailImage: /images/covers/orlok_-_wampyr_dungeon-the_carpathian_plague-thumb.jpg
-actualPrice: $0.00
+actualPrice: $25.00
+inStock: true
 ---
 
 ## Vinyl
-Purchase from Arcane Altar
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/orlok-wampyr-dungeon-the-carpathian-plague-12-lp) for $25.00

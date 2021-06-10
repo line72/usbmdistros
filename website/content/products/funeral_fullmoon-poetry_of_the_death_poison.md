@@ -9,9 +9,10 @@ categories:
 images:
     - /images/blank-record.svg
 thumbnailImage: /images/blank-record.svg
-actualPrice: $0.00
+actualPrice: $32.00 - 35.00
+inStock: true
 ---
 
 ## Vinyl
-Purchase from Sto'Vo'Kor Records
-Purchase from Arcane Altar
+* Purchase from [Sto'Vo'Kor Records](https://stovokor-records.com/products/funeral-fullmoon-poetry-of-death-poison) for $32.00
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/funeral-fullmoon-poetry-of-the-death-poison-12-lp) for $35.00

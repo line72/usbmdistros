@@ -9,8 +9,9 @@ categories:
 images:
     - /images/covers/broken_spirit_‎–_demo_collection_2012-2017.jpg
 thumbnailImage: /images/covers/broken_spirit_‎–_demo_collection_2012-2017-thumb.jpg
-actualPrice: $0.00
+actualPrice: $13.00
+inStock: true
 ---
 
 ## CD
-Purchase from Arcane Altar
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/broken-spirit-demo-collection-2012-2017) for $13.00
