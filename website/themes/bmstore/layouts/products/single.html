@@ -1,0 +1,27 @@
+{{ define "main" }}
+<header>
+    <h1 class="text-center">{{ .Site.Title }}</h1>
+    {{ with .Site.Params.description }}<h4 class="text-center">{{ . }}</h4>{{ end }}
+</header>
+<article class="container-fluid">
+    <div class="row">
+        <div class="col-12">
+            {{ partial "products/common/site-main-nav.html" . }} 
+        </div>
+    </div>
+    <div class="row align-items-start">
+        <div class="col-12 col-md-6 order-md-2">
+            {{ partial "products/single/product-single-heading.html" . }} 
+            <div class="d-none d-md-block">{{ .Content }}</div>
+        </div>
+        <div class="col-12 col-md-6 order-md-1">
+            {{ range .Params.images }}
+            <img class="b-lazy img-fluid text-center" data-src="{{ . | absURL }}" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /> 
+            {{ end }}
+        </div>
+        <div class="col-12 col-md-6 order-md-2 d-block d-md-none">
+            <p>{{ .Content }}</p>
+        </div>
+    </div>
+</article>
+{{ end }}
