@@ -44,8 +44,21 @@ class OutputWriter:
                     shutil.copy(cover, os.path.join(image_dir, os.path.basename(cover)))
                 if thumb:
                     shutil.copy(thumb, os.path.join(image_dir, os.path.basename(thumb)))
-                           
 
+                def get_prices():
+                    prices = []
+                    for v3 in v2.values():
+                        for p in v3['products']:
+                            prices.append(p.price)
+
+                    min_price, max_price = min(prices), max(prices)
+                    if min_price != max_price:
+                        return f'{min_price} - {max_price}'
+                    
+                    return max_price
+
+                prices = get_prices()
+                    
                 with open(os.path.join(base_directory, 'content', 'products', f'{s}.md'), 'w') as f:
                     f.write('---\n')
                     f.write(f'title: "{artist} - {album}"\n')
@@ -65,7 +78,7 @@ class OutputWriter:
                         f.write(f'thumbnailImage: /images/covers/{os.path.basename(thumb)}\n')
                     else:
                         f.write(f'thumbnailImage: /images/blank-record.svg\n')
-                    f.write('actualPrice: $0.00\n')
+                    f.write(f'actualPrice: ${prices}\n')
                     f.write('---\n')
                     f.write('\n')
                 
