@@ -7,8 +7,8 @@ album: "Split"
 categories:
     - Vinyl
 images:
-    - /images/blank-record.svg
-thumbnailImage: /images/blank-record.svg
+    - /images/covers/shores_of_ladon_-_wolfsschrei-split.jpg
+thumbnailImage: /images/covers/shores_of_ladon_-_wolfsschrei-split-thumb.jpg
 actualPrice: $0.00
 ---
 

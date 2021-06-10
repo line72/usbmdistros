@@ -7,8 +7,8 @@ album: "Eindringling"
 categories:
     - Vinyl
 images:
-    - /images/blank-record.svg
-thumbnailImage: /images/blank-record.svg
+    - /images/covers/shores_of_ladon-eindringling.jpg
+thumbnailImage: /images/covers/shores_of_ladon-eindringling-thumb.jpg
 actualPrice: $0.00
 ---
 

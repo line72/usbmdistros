@@ -1,16 +1,16 @@
 ---
-title: "Valac - Burning Dawn of Vengeance"
+title: "Immortal - Diabolical Fullmoon Mysticism"
 date: 2021-02-04T00:00:00-00:00
 draft: false
-artist: "Valac"
-album: "Burning Dawn of Vengeance"
+artist: "Immortal"
+album: "Diabolical Fullmoon Mysticism"
 categories:
-    - CD
+    - Vinyl
 images:
     - /images/blank-record.svg
 thumbnailImage: /images/blank-record.svg
 actualPrice: $0.00
 ---
 
-## CD
-Purchase from Arcane Altar
+## Vinyl
+Purchase from Sto'Vo'Kor Records
