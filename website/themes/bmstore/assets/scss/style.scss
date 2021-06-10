@@ -1,0 +1,44 @@
+@import "predefined.scss";
+
+html {
+    background: $background;
+    line-height: 1.6;
+    color: $text;
+}
+
+body {
+    background: $background;
+    color: $text;
+}
+
+/* mobile default */
+
+// force the image size in the list view
+.album-list-preview-container {
+    $s: calc(min(250px, 40vw));
+    
+    width: $s;
+    height: $s;
+    overflow: hidden;
+}
+// if the image isn't square, cut it off
+.album-list-preview {
+    object-fit: cover;
+}
+
+// fix the paginatino
+.pagination {
+    justify-content: center;
+}
+
+.page-link {
+    color: $primary-button;
+}
+
+/* large desktop */
+@media (min-width: 1000px) {
+    .container-fluid {
+        width: 80%;
+        margin: auto;
+    }
+}
