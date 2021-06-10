@@ -35,6 +35,10 @@ body {
     color: $primary-button;
 }
 
+.nav-link {
+    color: $heading !important;
+}
+
 /* large desktop */
 @media (min-width: 1000px) {
     .container-fluid {
