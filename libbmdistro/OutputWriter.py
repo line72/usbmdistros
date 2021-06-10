@@ -72,9 +72,10 @@ class OutputWriter:
                     for item_type, v3 in v2.items():
                         f.write(f'## {item_type}\n')
                         for p in v3['products']:
-                            f.write(f'Purchase from {p.store.name}\n')
+                            f.write(f'* Purchase from [{p.store.name}]({p.link})\n')
 
     def download_artwork(self, artist, album, name):
+        print(f'Downloading artwork for {artist} - {album}')
         try: os.makedirs('__cache__')
         except OSError: pass
         
@@ -83,9 +84,12 @@ class OutputWriter:
         # if the file exists, don't re-download
         try:
             os.stat(cover) and os.stat(cover_thumbnail)
-            print(f'Skipping download, already cached: {artist} - {album}')
+            print(f'Skipping download, already cached')
             return (cover, cover_thumbnail)
         except: pass
+
+        # TMP
+        return (None, None)
 
         params = {
             'query': f'artist:{artist} AND album:{album}'
