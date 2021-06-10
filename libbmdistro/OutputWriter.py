@@ -79,13 +79,14 @@ class OutputWriter:
                     else:
                         f.write(f'thumbnailImage: /images/blank-record.svg\n')
                     f.write(f'actualPrice: ${prices}\n')
+                    f.write('inStock: true\n')
                     f.write('---\n')
                     f.write('\n')
                 
                     for item_type, v3 in v2.items():
                         f.write(f'## {item_type}\n')
                         for p in v3['products']:
-                            f.write(f'* Purchase from [{p.store.name}]({p.link})\n')
+                            f.write(f'* Purchase from [{p.store.name}]({p.link}) for ${p.price}\n')
 
     def download_artwork(self, artist, album, name):
         print(f'Downloading artwork for {artist} - {album}')
