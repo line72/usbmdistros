@@ -2,3 +2,6 @@ baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "US Black Metal Distributors"
 theme = "bmstore"
+
+[Params]
+    paginate = 24

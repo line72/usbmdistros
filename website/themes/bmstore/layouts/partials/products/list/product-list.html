@@ -9,10 +9,11 @@
         </div>
     </div>
     <div class="row">
-        {{ range .Data.Pages }} 
+        {{ range (.Paginator 24).Pages }} 
             {{ partial "products/list/product-list-item.html" . }} 
         {{ end }}
     </div>
+    {{ template "_internal/pagination.html" . }}
     <script>
     var productVariants = null;
     </script>
