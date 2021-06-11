@@ -13,6 +13,10 @@ body {
 
 /* mobile default */
 
+.logo {
+    height: 150px;
+}
+
 // force the image size in the list view
 .album-list-preview-container {
     $s: calc(min(250px, 40vw));
