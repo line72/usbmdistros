@@ -3,6 +3,7 @@
 #
 # Released under the GPLv3
 
+import glob
 import os
 import requests
 import shutil
@@ -93,17 +94,11 @@ class OutputWriter:
         try: os.makedirs('__cache__')
         except OSError: pass
         
-        cover = os.path.join('__cache__', name + '.jpg')
-        cover_thumbnail = os.path.join('__cache__', name + '-thumb.jpg')
+        cover, cover_thumbnail = self.get_covers(name)
         # if the file exists, don't re-download
-        try:
-            os.stat(cover) and os.stat(cover_thumbnail)
-            print(f'Skipping download, already cached')
+        if cover and cover_thumbnail:
+            print('Skipping...cover already exists')
             return (cover, cover_thumbnail)
-        except: pass
-
-        # TMP
-        return (None, None)
 
         params = {
             'query': f'artist:{artist} AND album:{album}'
@@ -134,7 +129,7 @@ class OutputWriter:
                     # generate the thumbnail
                     self.generate_thumbnail(cover, cover_thumbnail)
 
-                    return (None, None)
+                    return (cover, cover_thumbnail)
                 except requests.exceptions.HTTPError as e:
                     print('Error', e)
                     pass
@@ -142,9 +137,32 @@ class OutputWriter:
 
         except Exception as e:
             print('Exception', e)
-            return (None, None)
+            c = os.path.join('__cache__', name + '.png')
+            t = os.path.join('__cache__', name + '-thumb.png')
+            self.copy_default(c, t)
+            return (c, t)
+
+    def get_covers(self, name):
+        covers = glob.glob(os.path.join('__cache__', name + '.*'))
+        thumbs = glob.glob(os.path.join('__cache__', name + '-thumb.*'))
+
+        cover = None
+        thumb = None
+        if len(covers) > 0:
+            cover = covers[0]
+        if len(thumbs) > 0:
+            thumb = thumbs[0]
+
+        return (cover, thumb)
         
     def generate_thumbnail(self, img, thumb):
-        subprocess.run(['convert', img, '-resize', '512x', thumb])
+        subprocess.run(['convert', img, '-resize', '128x', thumb])
+        
+        return True
+
+    def copy_default(self, cover, thumb):
+        shutil.copy('resources/blank-vinyl.png', cover)
+        self.generate_thumbnail(cover, thumb)
+        
         return True
 
