@@ -72,11 +72,11 @@ class OutputWriter:
                         f.write(f'    - {i}\n')
                     f.write('images:\n')
                     if cover:
-                        f.write(f'    - /images/covers/{os.path.basename(cover)}\n')
+                        f.write(f'    - "/images/covers/{os.path.basename(cover)}"\n')
                     else:
                         f.write(f'    - /images/blank-record.svg\n')
                     if thumb:
-                        f.write(f'thumbnailImage: /images/covers/{os.path.basename(thumb)}\n')
+                        f.write(f'thumbnailImage: "/images/covers/{os.path.basename(thumb)}"\n')
                     else:
                         f.write(f'thumbnailImage: /images/blank-record.svg\n')
                     f.write(f'actualPrice: ${prices}\n')
@@ -88,7 +88,10 @@ class OutputWriter:
                         v3 = v2[item_type]
                         f.write(f'## {item_type}\n')
                         for p in v3['products']:
-                            f.write(f'* Purchase from [{p.store.name}]({p.link}) for ${p.price}\n')
+                            if p.description:
+                                f.write(f'* Purchase from [{p.store.name}]({p.link}) for ${p.price} :: {p.description}\n')
+                            else:
+                                f.write(f'* Purchase from [{p.store.name}]({p.link}) for ${p.price}\n')
 
     def download_artwork(self, artist, album, name):
         print(f'Downloading artwork for {artist} - {album}')

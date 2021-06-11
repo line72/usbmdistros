@@ -3,6 +3,7 @@
 #
 # Released under the GPLv3
 
+import re
 import requests
 import urllib
 
@@ -36,7 +37,7 @@ class StoVoKor(Parser):
     def parseItem(self, db, entry):
         artist, album = entry['title'].split(sep = '-', maxsplit = 1)
         artist = artist.strip()
-        album = album.strip()
+        album = self.split_album_type(album)
         item_type = entry['product_type']
         price = entry['variants'][0]['price']
 
@@ -47,3 +48,16 @@ class StoVoKor(Parser):
         album = db.get_album(artist, album, item_type)
         
         return Product(album, self.store, link, price, Product.STOCK_UNKNOWN, -1)
+
+    def split_album_type(self, s):
+        retests = [
+            re.compile(r'^\s(.*?)\s+\(10" LP\)$'),
+            re.compile(r'^\s(.*?)\s+\(Digipak CD\)$')
+        ]
+
+        for r in retests:
+            if (match := re.match(r, s)) != None:
+                return match.group(1).strip()
+
+        # No matches, probably doesn't have extra junk in it
+        return s.strip()
