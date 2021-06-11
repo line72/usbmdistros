@@ -8,8 +8,8 @@ categories:
     - Vinyl
     - CD
 images:
-    - /images/blank-record.svg
-thumbnailImage: /images/blank-record.svg
+    - /images/covers/inferno_requiem-primitive_outburst.png
+thumbnailImage: /images/covers/inferno_requiem-primitive_outburst-thumb.png
 actualPrice: $11.00 - 28.00
 inStock: true
 ---

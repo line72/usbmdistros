@@ -7,8 +7,8 @@ album: "As Portas da Ruina"
 categories:
     - Vinyl
 images:
-    - /images/blank-record.svg
-thumbnailImage: /images/blank-record.svg
+    - /images/covers/trono_além_morte-as_portas_da_ruina.png
+thumbnailImage: /images/covers/trono_além_morte-as_portas_da_ruina-thumb.png
 actualPrice: $11.00
 inStock: true
 ---

@@ -7,8 +7,8 @@ album: "Qliphothic"
 categories:
     - Vinyl
 images:
-    - /images/blank-record.svg
-thumbnailImage: /images/blank-record.svg
+    - /images/covers/handful_of_hate-qliphothic.png
+thumbnailImage: /images/covers/handful_of_hate-qliphothic-thumb.png
 actualPrice: $28.00
 inStock: true
 ---

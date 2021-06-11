@@ -7,8 +7,8 @@ album: "Split"
 categories:
     - Vinyl
 images:
-    - /images/blank-record.svg
-thumbnailImage: /images/blank-record.svg
+    - /images/covers/vilkacis_-_turia-split.png
+thumbnailImage: /images/covers/vilkacis_-_turia-split-thumb.png
 actualPrice: $22.00
 inStock: true
 ---

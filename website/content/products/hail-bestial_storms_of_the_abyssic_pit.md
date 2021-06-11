@@ -7,8 +7,8 @@ album: "Bestial Storms of the Abyssic Pit"
 categories:
     - Vinyl
 images:
-    - /images/blank-record.svg
-thumbnailImage: /images/blank-record.svg
+    - /images/covers/hail-bestial_storms_of_the_abyssic_pit.png
+thumbnailImage: /images/covers/hail-bestial_storms_of_the_abyssic_pit-thumb.png
 actualPrice: $16.00
 inStock: true
 ---

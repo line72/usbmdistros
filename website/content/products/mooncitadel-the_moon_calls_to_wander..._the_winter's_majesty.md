@@ -7,8 +7,8 @@ album: "The Moon Calls to Wander... the Winter's Majesty"
 categories:
     - Vinyl
 images:
-    - /images/blank-record.svg
-thumbnailImage: /images/blank-record.svg
+    - /images/covers/mooncitadel-the_moon_calls_to_wander..._the_winter's_majesty.png
+thumbnailImage: /images/covers/mooncitadel-the_moon_calls_to_wander..._the_winter's_majesty-thumb.png
 actualPrice: $25.00
 inStock: true
 ---

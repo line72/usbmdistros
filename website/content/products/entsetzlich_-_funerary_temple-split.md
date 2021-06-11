@@ -7,8 +7,8 @@ album: "Split"
 categories:
     - Vinyl
 images:
-    - /images/blank-record.svg
-thumbnailImage: /images/blank-record.svg
+    - /images/covers/entsetzlich_-_funerary_temple-split.png
+thumbnailImage: /images/covers/entsetzlich_-_funerary_temple-split-thumb.png
 actualPrice: $10.00
 inStock: true
 ---

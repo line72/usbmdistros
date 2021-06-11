@@ -7,8 +7,8 @@ album: "Collection"
 categories:
     - CD
 images:
-    - /images/blank-record.svg
-thumbnailImage: /images/blank-record.svg
+    - /images/covers/wóddréa_mylenstede-collection.png
+thumbnailImage: /images/covers/wóddréa_mylenstede-collection-thumb.png
 actualPrice: $30.00
 inStock: true
 ---

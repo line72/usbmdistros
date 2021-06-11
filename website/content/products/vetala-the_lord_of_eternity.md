@@ -7,8 +7,8 @@ album: "The Lord of Eternity"
 categories:
     - Vinyl
 images:
-    - /images/blank-record.svg
-thumbnailImage: /images/blank-record.svg
+    - /images/covers/vetala-the_lord_of_eternity.png
+thumbnailImage: /images/covers/vetala-the_lord_of_eternity-thumb.png
 actualPrice: $21.00
 inStock: true
 ---

@@ -7,8 +7,8 @@ album: "I & II"
 categories:
     - CD
 images:
-    - /images/blank-record.svg
-thumbnailImage: /images/blank-record.svg
+    - /images/covers/múspellzheimr-i_&_ii.png
+thumbnailImage: /images/covers/múspellzheimr-i_&_ii-thumb.png
 actualPrice: $17.00
 inStock: true
 ---

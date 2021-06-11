@@ -8,8 +8,8 @@ categories:
     - Vinyl
     - CD
 images:
-    - /images/blank-record.svg
-thumbnailImage: /images/blank-record.svg
+    - /images/covers/archaist-cosmogonic_eyes.png
+thumbnailImage: /images/covers/archaist-cosmogonic_eyes-thumb.png
 actualPrice: $13.00 - 24.00
 inStock: true
 ---

@@ -8,8 +8,8 @@ categories:
     - Vinyl
     - CD
 images:
-    - /images/blank-record.svg
-thumbnailImage: /images/blank-record.svg
+    - /images/covers/mûspellzheimr-kolbítr.png
+thumbnailImage: /images/covers/mûspellzheimr-kolbítr-thumb.png
 actualPrice: $12.00 - 20.00
 inStock: true
 ---

@@ -7,8 +7,8 @@ album: "Cryptic Rights of Necromancy"
 categories:
     - Vinyl
 images:
-    - /images/covers/pa_vesh_en-cryptic_rights_of_necromancy.jpg
-thumbnailImage: /images/covers/pa_vesh_en-cryptic_rights_of_necromancy-thumb.jpg
+    - /images/covers/pa_vesh_en-cryptic_rights_of_necromancy.png
+thumbnailImage: /images/covers/pa_vesh_en-cryptic_rights_of_necromancy-thumb.png
 actualPrice: $11.00
 inStock: true
 ---

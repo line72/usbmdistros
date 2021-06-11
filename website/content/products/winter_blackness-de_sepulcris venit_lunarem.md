@@ -7,8 +7,8 @@ album: "De Sepulcris Venit Lunarem"
 categories:
     - Tape
 images:
-    - /images/blank-record.svg
-thumbnailImage: /images/blank-record.svg
+    - /images/covers/winter_blackness-de_sepulcris venit_lunarem.png
+thumbnailImage: /images/covers/winter_blackness-de_sepulcris venit_lunarem-thumb.png
 actualPrice: $10.00
 inStock: true
 ---

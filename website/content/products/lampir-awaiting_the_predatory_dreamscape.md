@@ -7,8 +7,8 @@ album: "Awaiting the Predatory Dreamscape"
 categories:
     - Vinyl
 images:
-    - /images/blank-record.svg
-thumbnailImage: /images/blank-record.svg
+    - /images/covers/lampir-awaiting_the_predatory_dreamscape.png
+thumbnailImage: /images/covers/lampir-awaiting_the_predatory_dreamscape-thumb.png
 actualPrice: $25.00
 inStock: true
 ---

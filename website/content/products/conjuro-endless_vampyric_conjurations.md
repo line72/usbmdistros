@@ -7,8 +7,8 @@ album: "Endless Vampyric Conjurations"
 categories:
     - Vinyl
 images:
-    - /images/blank-record.svg
-thumbnailImage: /images/blank-record.svg
+    - /images/covers/conjuro-endless_vampyric_conjurations.png
+thumbnailImage: /images/covers/conjuro-endless_vampyric_conjurations-thumb.png
 actualPrice: $28.00
 inStock: true
 ---

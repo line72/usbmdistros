@@ -7,8 +7,8 @@ album: "Negros Manifestos de Ordem Venusiana"
 categories:
     - Vinyl
 images:
-    - /images/blank-record.svg
-thumbnailImage: /images/blank-record.svg
+    - /images/covers/ordem_satânica_-__‎mons_veneris-negros_manifestos_de_ordem_venusiana.png
+thumbnailImage: /images/covers/ordem_satânica_-__‎mons_veneris-negros_manifestos_de_ordem_venusiana-thumb.png
 actualPrice: $24.00
 inStock: true
 ---

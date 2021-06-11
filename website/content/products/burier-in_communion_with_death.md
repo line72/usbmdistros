@@ -7,8 +7,8 @@ album: "In Communion With Death"
 categories:
     - CD
 images:
-    - /images/blank-record.svg
-thumbnailImage: /images/blank-record.svg
+    - /images/covers/burier-in_communion_with_death.png
+thumbnailImage: /images/covers/burier-in_communion_with_death-thumb.png
 actualPrice: $15.00
 inStock: true
 ---

@@ -7,8 +7,8 @@ album: "Voices From the Vast Void"
 categories:
     - Vinyl
 images:
-    - /images/blank-record.svg
-thumbnailImage: /images/blank-record.svg
+    - /images/covers/darkstorm-voices_from_the_vast_void.png
+thumbnailImage: /images/covers/darkstorm-voices_from_the_vast_void-thumb.png
 actualPrice: $9.00
 inStock: true
 ---

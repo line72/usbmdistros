@@ -7,8 +7,8 @@ album: "Vexatie"
 categories:
     - Vinyl
 images:
-    - /images/blank-record.svg
-thumbnailImage: /images/blank-record.svg
+    - /images/covers/folteraar-vexatie.png
+thumbnailImage: /images/covers/folteraar-vexatie-thumb.png
 actualPrice: $23.00
 inStock: true
 ---

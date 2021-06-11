@@ -7,8 +7,8 @@ album: "Split"
 categories:
     - Vinyl
 images:
-    - /images/blank-record.svg
-thumbnailImage: /images/blank-record.svg
+    - /images/covers/forbidden_temple_-_ultima_thule-split.png
+thumbnailImage: /images/covers/forbidden_temple_-_ultima_thule-split-thumb.png
 actualPrice: $25.00
 inStock: true
 ---

@@ -7,8 +7,8 @@ album: "Beyond a World of Illusion"
 categories:
     - Vinyl
 images:
-    - /images/blank-record.svg
-thumbnailImage: /images/blank-record.svg
+    - /images/covers/kudlaakh-beyond_a_world_of_illusion.png
+thumbnailImage: /images/covers/kudlaakh-beyond_a_world_of_illusion-thumb.png
 actualPrice: $12.00
 inStock: true
 ---

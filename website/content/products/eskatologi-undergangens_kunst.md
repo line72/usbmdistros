@@ -7,8 +7,8 @@ album: "Undergangens Kunst"
 categories:
     - Vinyl
 images:
-    - /images/blank-record.svg
-thumbnailImage: /images/blank-record.svg
+    - /images/covers/eskatologi-undergangens_kunst.png
+thumbnailImage: /images/covers/eskatologi-undergangens_kunst-thumb.png
 actualPrice: $19.00
 inStock: true
 ---

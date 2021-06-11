@@ -7,8 +7,8 @@ album: "Unholy Night"
 categories:
     - Tape
 images:
-    - /images/blank-record.svg
-thumbnailImage: /images/blank-record.svg
+    - /images/covers/nightblood-unholy_night.png
+thumbnailImage: /images/covers/nightblood-unholy_night-thumb.png
 actualPrice: $10.00
 inStock: true
 ---

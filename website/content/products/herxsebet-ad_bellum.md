@@ -7,8 +7,8 @@ album: "Ad Bellum"
 categories:
     - CD
 images:
-    - /images/blank-record.svg
-thumbnailImage: /images/blank-record.svg
+    - /images/covers/herxsebet-ad_bellum.png
+thumbnailImage: /images/covers/herxsebet-ad_bellum-thumb.png
 actualPrice: $12.00
 inStock: true
 ---

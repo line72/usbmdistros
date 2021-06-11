@@ -7,8 +7,8 @@ album: "Demo III"
 categories:
     - Tape
 images:
-    - /images/blank-record.svg
-thumbnailImage: /images/blank-record.svg
+    - /images/covers/vetala-demo_iii.png
+thumbnailImage: /images/covers/vetala-demo_iii-thumb.png
 actualPrice: $10.00
 inStock: true
 ---

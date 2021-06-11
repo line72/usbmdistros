@@ -7,8 +7,8 @@ album: "Užribis"
 categories:
     - CD
 images:
-    - /images/blank-record.svg
-thumbnailImage: /images/blank-record.svg
+    - /images/covers/luctus-užribis.png
+thumbnailImage: /images/covers/luctus-užribis-thumb.png
 actualPrice: $13.00
 inStock: true
 ---

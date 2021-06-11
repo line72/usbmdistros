@@ -7,8 +7,8 @@ album: "Demo II"
 categories:
     - Tape
 images:
-    - /images/blank-record.svg
-thumbnailImage: /images/blank-record.svg
+    - /images/covers/mors_atra_crucis-demo_ii.png
+thumbnailImage: /images/covers/mors_atra_crucis-demo_ii-thumb.png
 actualPrice: $8.50
 inStock: true
 ---

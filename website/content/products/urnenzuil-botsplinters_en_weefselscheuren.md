@@ -7,8 +7,8 @@ album: "Botsplinters en Weefselscheuren"
 categories:
     - Tape
 images:
-    - /images/blank-record.svg
-thumbnailImage: /images/blank-record.svg
+    - /images/covers/urnenzuil-botsplinters_en_weefselscheuren.png
+thumbnailImage: /images/covers/urnenzuil-botsplinters_en_weefselscheuren-thumb.png
 actualPrice: $9.00
 inStock: true
 ---

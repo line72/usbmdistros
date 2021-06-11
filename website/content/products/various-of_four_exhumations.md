@@ -7,8 +7,8 @@ album: "Of Four Exhumations"
 categories:
     - Tape
 images:
-    - /images/blank-record.svg
-thumbnailImage: /images/blank-record.svg
+    - /images/covers/various-of_four_exhumations.png
+thumbnailImage: /images/covers/various-of_four_exhumations-thumb.png
 actualPrice: $8.00
 inStock: true
 ---

@@ -7,8 +7,8 @@ album: "Spiritual Metamorphosis"
 categories:
     - Vinyl
 images:
-    - /images/covers/death_scepter-spiritual_metamorphosis.jpg
-thumbnailImage: /images/covers/death_scepter-spiritual_metamorphosis-thumb.jpg
+    - /images/covers/death_scepter-spiritual_metamorphosis.png
+thumbnailImage: /images/covers/death_scepter-spiritual_metamorphosis-thumb.png
 actualPrice: $25.00
 inStock: true
 ---

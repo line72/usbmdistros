@@ -7,8 +7,8 @@ album: "Egyenes Labirintus"
 categories:
     - Tape
 images:
-    - /images/blank-record.svg
-thumbnailImage: /images/blank-record.svg
+    - /images/covers/estve-egyenes_labirintus.png
+thumbnailImage: /images/covers/estve-egyenes_labirintus-thumb.png
 actualPrice: $10.00
 inStock: true
 ---

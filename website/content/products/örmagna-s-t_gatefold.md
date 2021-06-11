@@ -7,8 +7,8 @@ album: "s/t Gatefold"
 categories:
     - Vinyl
 images:
-    - /images/blank-record.svg
-thumbnailImage: /images/blank-record.svg
+    - /images/covers/örmagna-s-t_gatefold.png
+thumbnailImage: /images/covers/örmagna-s-t_gatefold-thumb.png
 actualPrice: $25.00
 inStock: true
 ---

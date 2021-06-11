@@ -7,8 +7,8 @@ album: "Ye Last Ordeal"
 categories:
     - CD
 images:
-    - /images/blank-record.svg
-thumbnailImage: /images/blank-record.svg
+    - /images/covers/primogenorum-ye_last_ordeal.png
+thumbnailImage: /images/covers/primogenorum-ye_last_ordeal-thumb.png
 actualPrice: $6.00
 inStock: true
 ---

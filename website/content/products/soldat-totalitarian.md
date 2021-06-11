@@ -7,8 +7,8 @@ album: "Totalitarian"
 categories:
     - Vinyl
 images:
-    - /images/blank-record.svg
-thumbnailImage: /images/blank-record.svg
+    - /images/covers/soldat-totalitarian.png
+thumbnailImage: /images/covers/soldat-totalitarian-thumb.png
 actualPrice: $28.00
 inStock: true
 ---

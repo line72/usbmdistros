@@ -7,8 +7,8 @@ album: "Split"
 categories:
     - Vinyl
 images:
-    - /images/blank-record.svg
-thumbnailImage: /images/blank-record.svg
+    - /images/covers/abigail_-_terror_cross-split.png
+thumbnailImage: /images/covers/abigail_-_terror_cross-split-thumb.png
 actualPrice: $9.00
 inStock: true
 ---

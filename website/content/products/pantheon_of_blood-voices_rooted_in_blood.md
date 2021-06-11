@@ -7,8 +7,8 @@ album: "Voices Rooted in Blood"
 categories:
     - Vinyl
 images:
-    - /images/blank-record.svg
-thumbnailImage: /images/blank-record.svg
+    - /images/covers/pantheon_of_blood-voices_rooted_in_blood.png
+thumbnailImage: /images/covers/pantheon_of_blood-voices_rooted_in_blood-thumb.png
 actualPrice: $24.00
 inStock: true
 ---

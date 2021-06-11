@@ -7,8 +7,8 @@ album: "Ruins of Mysticism and Plague"
 categories:
     - Vinyl
 images:
-    - /images/blank-record.svg
-thumbnailImage: /images/blank-record.svg
+    - /images/covers/order_of_darkness-ruins_of_mysticism_and_plague.png
+thumbnailImage: /images/covers/order_of_darkness-ruins_of_mysticism_and_plague-thumb.png
 actualPrice: $19.00
 inStock: true
 ---

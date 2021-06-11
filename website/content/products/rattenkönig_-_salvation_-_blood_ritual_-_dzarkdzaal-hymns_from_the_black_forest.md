@@ -7,8 +7,8 @@ album: "Hymns from the Black Forest"
 categories:
     - CD
 images:
-    - /images/blank-record.svg
-thumbnailImage: /images/blank-record.svg
+    - /images/covers/rattenkönig_-_salvation_-_blood_ritual_-_dzarkdzaal-hymns_from_the_black_forest.png
+thumbnailImage: /images/covers/rattenkönig_-_salvation_-_blood_ritual_-_dzarkdzaal-hymns_from_the_black_forest-thumb.png
 actualPrice: $13.00
 inStock: true
 ---

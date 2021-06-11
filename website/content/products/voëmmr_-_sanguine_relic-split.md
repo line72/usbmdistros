@@ -7,8 +7,8 @@ album: "Split"
 categories:
     - Vinyl
 images:
-    - /images/blank-record.svg
-thumbnailImage: /images/blank-record.svg
+    - /images/covers/voëmmr_-_sanguine_relic-split.png
+thumbnailImage: /images/covers/voëmmr_-_sanguine_relic-split-thumb.png
 actualPrice: $23.00
 inStock: true
 ---

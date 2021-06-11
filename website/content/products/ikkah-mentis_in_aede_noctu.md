@@ -7,8 +7,8 @@ album: "Mentis in Aede Noctu"
 categories:
     - Tape
 images:
-    - /images/blank-record.svg
-thumbnailImage: /images/blank-record.svg
+    - /images/covers/ikkah-mentis_in_aede_noctu.png
+thumbnailImage: /images/covers/ikkah-mentis_in_aede_noctu-thumb.png
 actualPrice: $9.00
 inStock: true
 ---

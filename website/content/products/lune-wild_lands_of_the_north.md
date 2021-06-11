@@ -7,8 +7,8 @@ album: "Wild Lands of the North"
 categories:
     - Vinyl
 images:
-    - /images/blank-record.svg
-thumbnailImage: /images/blank-record.svg
+    - /images/covers/lune-wild_lands_of_the_north.png
+thumbnailImage: /images/covers/lune-wild_lands_of_the_north-thumb.png
 actualPrice: $28.00
 inStock: true
 ---

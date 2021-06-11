@@ -7,8 +7,8 @@ album: "Monte da Lua"
 categories:
     - Vinyl
 images:
-    - /images/blank-record.svg
-thumbnailImage: /images/blank-record.svg
+    - /images/covers/ordem_satânica-monte_da_lua.png
+thumbnailImage: /images/covers/ordem_satânica-monte_da_lua-thumb.png
 actualPrice: $23.00
 inStock: true
 ---

@@ -7,8 +7,8 @@ album: "Bewitched by Destiny's Gaze"
 categories:
     - CD
 images:
-    - /images/blank-record.svg
-thumbnailImage: /images/blank-record.svg
+    - /images/covers/midnight_betrothed-bewitched_by_destiny's_gaze.png
+thumbnailImage: /images/covers/midnight_betrothed-bewitched_by_destiny's_gaze-thumb.png
 actualPrice: $15.00
 inStock: true
 ---

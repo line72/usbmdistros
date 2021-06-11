@@ -7,8 +7,8 @@ album: "Pathways Through Flesh"
 categories:
     - Vinyl
 images:
-    - /images/blank-record.svg
-thumbnailImage: /images/blank-record.svg
+    - /images/covers/ruho-pathways_through_flesh.png
+thumbnailImage: /images/covers/ruho-pathways_through_flesh-thumb.png
 actualPrice: $18.00
 inStock: true
 ---

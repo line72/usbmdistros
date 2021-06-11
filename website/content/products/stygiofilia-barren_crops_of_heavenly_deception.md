@@ -7,8 +7,8 @@ album: "Barren Crops of Heavenly Deception"
 categories:
     - Tape
 images:
-    - /images/blank-record.svg
-thumbnailImage: /images/blank-record.svg
+    - /images/covers/stygiofilia-barren_crops_of_heavenly_deception.png
+thumbnailImage: /images/covers/stygiofilia-barren_crops_of_heavenly_deception-thumb.png
 actualPrice: $8.00
 inStock: true
 ---

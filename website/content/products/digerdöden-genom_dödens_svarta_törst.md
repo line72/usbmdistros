@@ -7,8 +7,8 @@ album: "Genom Dödens Svarta Törst"
 categories:
     - CD
 images:
-    - /images/blank-record.svg
-thumbnailImage: /images/blank-record.svg
+    - /images/covers/digerdöden-genom_dödens_svarta_törst.png
+thumbnailImage: /images/covers/digerdöden-genom_dödens_svarta_törst-thumb.png
 actualPrice: $15.00
 inStock: true
 ---

@@ -7,8 +7,8 @@ album: "Inzernznytazure"
 categories:
     - Tape
 images:
-    - /images/blank-record.svg
-thumbnailImage: /images/blank-record.svg
+    - /images/covers/azketem-inzernznytazure.png
+thumbnailImage: /images/covers/azketem-inzernznytazure-thumb.png
 actualPrice: $12.00
 inStock: true
 ---

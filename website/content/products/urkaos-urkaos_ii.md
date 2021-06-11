@@ -7,8 +7,8 @@ album: "Urkaos II"
 categories:
     - CD
 images:
-    - /images/blank-record.svg
-thumbnailImage: /images/blank-record.svg
+    - /images/covers/urkaos-urkaos_ii.png
+thumbnailImage: /images/covers/urkaos-urkaos_ii-thumb.png
 actualPrice: $12.00
 inStock: true
 ---

@@ -7,8 +7,8 @@ album: "Mistérios Satânicos Disformes Infernais"
 categories:
     - CD
 images:
-    - /images/blank-record.svg
-thumbnailImage: /images/blank-record.svg
+    - /images/covers/mons_veneris-mistérios_satânicos_disformes_infernais.png
+thumbnailImage: /images/covers/mons_veneris-mistérios_satânicos_disformes_infernais-thumb.png
 actualPrice: $13.00
 inStock: true
 ---

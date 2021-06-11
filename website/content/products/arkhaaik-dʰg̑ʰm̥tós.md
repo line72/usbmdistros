@@ -7,8 +7,8 @@ album: "*dʰg̑ʰm̥tós"
 categories:
     - Vinyl
 images:
-    - /images/blank-record.svg
-thumbnailImage: /images/blank-record.svg
+    - /images/covers/arkhaaik-dʰg̑ʰm̥tós.png
+thumbnailImage: /images/covers/arkhaaik-dʰg̑ʰm̥tós-thumb.png
 actualPrice: $18.00
 inStock: true
 ---

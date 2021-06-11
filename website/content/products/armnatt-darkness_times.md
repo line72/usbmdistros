@@ -7,8 +7,8 @@ album: "Darkness Times"
 categories:
     - Tape
 images:
-    - /images/blank-record.svg
-thumbnailImage: /images/blank-record.svg
+    - /images/covers/armnatt-darkness_times.png
+thumbnailImage: /images/covers/armnatt-darkness_times-thumb.png
 actualPrice: $10.00
 inStock: true
 ---

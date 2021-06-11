@@ -7,8 +7,8 @@ album: "s/t"
 categories:
     - CD
 images:
-    - /images/blank-record.svg
-thumbnailImage: /images/blank-record.svg
+    - /images/covers/heinous-s-t.png
+thumbnailImage: /images/covers/heinous-s-t-thumb.png
 actualPrice: $11.00
 inStock: true
 ---

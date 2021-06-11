@@ -7,8 +7,8 @@ album: "Obscene Promo MMXXI"
 categories:
     - Tape
 images:
-    - /images/blank-record.svg
-thumbnailImage: /images/blank-record.svg
+    - /images/covers/hexen_h-obscene_promo_mmxxi.png
+thumbnailImage: /images/covers/hexen_h-obscene_promo_mmxxi-thumb.png
 actualPrice: $10.00
 inStock: true
 ---

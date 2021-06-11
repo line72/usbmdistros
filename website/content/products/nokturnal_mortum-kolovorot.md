@@ -7,8 +7,8 @@ album: "Kolovorot"
 categories:
     - Vinyl
 images:
-    - /images/blank-record.svg
-thumbnailImage: /images/blank-record.svg
+    - /images/covers/nokturnal_mortum-kolovorot.png
+thumbnailImage: /images/covers/nokturnal_mortum-kolovorot-thumb.png
 actualPrice: $40.00
 inStock: true
 ---

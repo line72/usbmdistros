@@ -7,8 +7,8 @@ album: "Kad se slika iskrivi dovoljno"
 categories:
     - CD
 images:
-    - /images/blank-record.svg
-thumbnailImage: /images/blank-record.svg
+    - /images/covers/arjen-kad_se_slika_iskrivi_dovoljno.png
+thumbnailImage: /images/covers/arjen-kad_se_slika_iskrivi_dovoljno-thumb.png
 actualPrice: $13.00
 inStock: true
 ---

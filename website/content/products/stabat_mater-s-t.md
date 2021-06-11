@@ -7,8 +7,8 @@ album: "s/t"
 categories:
     - CD
 images:
-    - /images/blank-record.svg
-thumbnailImage: /images/blank-record.svg
+    - /images/covers/stabat_mater-s-t.png
+thumbnailImage: /images/covers/stabat_mater-s-t-thumb.png
 actualPrice: $12.00
 inStock: true
 ---

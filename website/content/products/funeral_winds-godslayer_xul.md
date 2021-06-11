@@ -8,8 +8,8 @@ categories:
     - Vinyl
     - Tape
 images:
-    - /images/blank-record.svg
-thumbnailImage: /images/blank-record.svg
+    - /images/covers/funeral_winds-godslayer_xul.png
+thumbnailImage: /images/covers/funeral_winds-godslayer_xul-thumb.png
 actualPrice: $10.00 - 25.00
 inStock: true
 ---

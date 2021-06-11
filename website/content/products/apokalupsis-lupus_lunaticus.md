@@ -7,8 +7,8 @@ album: "Lupus Lunaticus"
 categories:
     - Tape
 images:
-    - /images/blank-record.svg
-thumbnailImage: /images/blank-record.svg
+    - /images/covers/apokalupsis-lupus_lunaticus.png
+thumbnailImage: /images/covers/apokalupsis-lupus_lunaticus-thumb.png
 actualPrice: $9.00
 inStock: true
 ---

@@ -7,8 +7,8 @@ album: "2017"
 categories:
     - CD
 images:
-    - /images/covers/broken_spirit_‎–_demo_collection_2012-2017.jpg
-thumbnailImage: /images/covers/broken_spirit_‎–_demo_collection_2012-2017-thumb.jpg
+    - /images/covers/broken_spirit_‎–_demo_collection_2012-2017.png
+thumbnailImage: /images/covers/broken_spirit_‎–_demo_collection_2012-2017-thumb.png
 actualPrice: $13.00
 inStock: true
 ---

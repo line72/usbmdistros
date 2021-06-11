@@ -7,8 +7,8 @@ album: "Crude Magick 2x"
 categories:
     - Tape
 images:
-    - /images/blank-record.svg
-thumbnailImage: /images/blank-record.svg
+    - /images/covers/hail_conjurer-crude_magick_2x.png
+thumbnailImage: /images/covers/hail_conjurer-crude_magick_2x-thumb.png
 actualPrice: $19.00
 inStock: true
 ---

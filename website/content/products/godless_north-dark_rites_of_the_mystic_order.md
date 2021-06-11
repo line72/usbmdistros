@@ -7,8 +7,8 @@ album: "Dark Rites of the Mystic Order"
 categories:
     - Vinyl
 images:
-    - /images/covers/godless_north-dark_rites_of_the_mystic_order.jpg
-thumbnailImage: /images/covers/godless_north-dark_rites_of_the_mystic_order-thumb.jpg
+    - /images/covers/godless_north-dark_rites_of_the_mystic_order.png
+thumbnailImage: /images/covers/godless_north-dark_rites_of_the_mystic_order-thumb.png
 actualPrice: $25.00
 inStock: true
 ---

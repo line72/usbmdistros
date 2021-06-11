@@ -7,8 +7,8 @@ album: "s/t"
 categories:
     - CD
 images:
-    - /images/blank-record.svg
-thumbnailImage: /images/blank-record.svg
+    - /images/covers/capel_beulah-s-t.png
+thumbnailImage: /images/covers/capel_beulah-s-t-thumb.png
 actualPrice: $15.00
 inStock: true
 ---

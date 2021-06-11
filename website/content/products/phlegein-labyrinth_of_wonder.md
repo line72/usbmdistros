@@ -7,8 +7,8 @@ album: "Labyrinth of Wonder"
 categories:
     - CD
 images:
-    - /images/blank-record.svg
-thumbnailImage: /images/blank-record.svg
+    - /images/covers/phlegein-labyrinth_of_wonder.png
+thumbnailImage: /images/covers/phlegein-labyrinth_of_wonder-thumb.png
 actualPrice: $14.00
 inStock: true
 ---

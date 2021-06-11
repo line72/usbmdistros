@@ -8,8 +8,8 @@ categories:
     - Vinyl
     - Tape
 images:
-    - /images/blank-record.svg
-thumbnailImage: /images/blank-record.svg
+    - /images/covers/pestis_cultus-s-t.png
+thumbnailImage: /images/covers/pestis_cultus-s-t-thumb.png
 actualPrice: $10.00 - 28.00
 inStock: true
 ---

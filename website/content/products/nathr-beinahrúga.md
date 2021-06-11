@@ -8,8 +8,8 @@ categories:
     - Tape
     - CD
 images:
-    - /images/blank-record.svg
-thumbnailImage: /images/blank-record.svg
+    - /images/covers/nathr-beinahrúga.png
+thumbnailImage: /images/covers/nathr-beinahrúga-thumb.png
 actualPrice: $11.00 - 13.00
 inStock: true
 ---

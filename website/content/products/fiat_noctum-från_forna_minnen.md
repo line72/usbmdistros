@@ -7,8 +7,8 @@ album: "Från Forna Minnen"
 categories:
     - Vinyl
 images:
-    - /images/blank-record.svg
-thumbnailImage: /images/blank-record.svg
+    - /images/covers/fiat_noctum-från_forna_minnen.png
+thumbnailImage: /images/covers/fiat_noctum-från_forna_minnen-thumb.png
 actualPrice: $27.00
 inStock: true
 ---

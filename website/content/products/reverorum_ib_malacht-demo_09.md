@@ -7,8 +7,8 @@ album: "Demo 09"
 categories:
     - CD
 images:
-    - /images/blank-record.svg
-thumbnailImage: /images/blank-record.svg
+    - /images/covers/reverorum_ib_malacht-demo_09.png
+thumbnailImage: /images/covers/reverorum_ib_malacht-demo_09-thumb.png
 actualPrice: $12.00
 inStock: true
 ---

@@ -7,8 +7,8 @@ album: "Midgard, erwache!"
 categories:
     - CD
 images:
-    - /images/covers/mjölnir –_grabgesang_der_sonne-midgard,_erwache!.jpg
-thumbnailImage: /images/covers/mjölnir –_grabgesang_der_sonne-midgard,_erwache!-thumb.jpg
+    - /images/covers/mjölnir –_grabgesang_der_sonne-midgard,_erwache!.png
+thumbnailImage: /images/covers/mjölnir –_grabgesang_der_sonne-midgard,_erwache!-thumb.png
 actualPrice: $16.00
 inStock: true
 ---

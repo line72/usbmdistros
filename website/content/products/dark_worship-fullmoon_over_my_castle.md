@@ -7,8 +7,8 @@ album: "Fullmoon Over My Castle"
 categories:
     - Tape
 images:
-    - /images/blank-record.svg
-thumbnailImage: /images/blank-record.svg
+    - /images/covers/dark_worship-fullmoon_over_my_castle.png
+thumbnailImage: /images/covers/dark_worship-fullmoon_over_my_castle-thumb.png
 actualPrice: $9.00
 inStock: true
 ---

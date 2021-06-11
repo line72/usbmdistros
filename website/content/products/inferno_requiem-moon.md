@@ -7,8 +7,8 @@ album: "Moon"
 categories:
     - CD
 images:
-    - /images/blank-record.svg
-thumbnailImage: /images/blank-record.svg
+    - /images/covers/inferno_requiem-moon.png
+thumbnailImage: /images/covers/inferno_requiem-moon-thumb.png
 actualPrice: $11.00
 inStock: true
 ---

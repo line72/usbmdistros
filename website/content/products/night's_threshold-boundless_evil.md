@@ -8,8 +8,8 @@ categories:
     - Vinyl
     - CD
 images:
-    - /images/blank-record.svg
-thumbnailImage: /images/blank-record.svg
+    - /images/covers/night's_threshold-boundless_evil.png
+thumbnailImage: /images/covers/night's_threshold-boundless_evil-thumb.png
 actualPrice: $13.00 - 23.00
 inStock: true
 ---

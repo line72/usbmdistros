@@ -7,8 +7,8 @@ album: "Thron"
 categories:
     - CD
 images:
-    - /images/blank-record.svg
-thumbnailImage: /images/blank-record.svg
+    - /images/covers/hesychia-thron.png
+thumbnailImage: /images/covers/hesychia-thron-thumb.png
 actualPrice: $14.00
 inStock: true
 ---

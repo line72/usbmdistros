@@ -7,8 +7,8 @@ album: "Nord Hostile"
 categories:
     - Tape
 images:
-    - /images/blank-record.svg
-thumbnailImage: /images/blank-record.svg
+    - /images/covers/kenaz-nord_hostile.png
+thumbnailImage: /images/covers/kenaz-nord_hostile-thumb.png
 actualPrice: $8.50
 inStock: true
 ---

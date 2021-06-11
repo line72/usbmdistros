@@ -8,8 +8,8 @@ categories:
     - Vinyl
     - CD
 images:
-    - /images/blank-record.svg
-thumbnailImage: /images/blank-record.svg
+    - /images/covers/via_sinistra-silencioso_culto_do_abismo.png
+thumbnailImage: /images/covers/via_sinistra-silencioso_culto_do_abismo-thumb.png
 actualPrice: $13.00 - 26.00
 inStock: true
 ---

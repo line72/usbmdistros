@@ -7,8 +7,8 @@ album: "Split"
 categories:
     - Vinyl
 images:
-    - /images/blank-record.svg
-thumbnailImage: /images/blank-record.svg
+    - /images/covers/irae_-_mors_de_corpus-split.png
+thumbnailImage: /images/covers/irae_-_mors_de_corpus-split-thumb.png
 actualPrice: $22.00
 inStock: true
 ---

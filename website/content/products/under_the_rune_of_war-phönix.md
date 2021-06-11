@@ -7,8 +7,8 @@ album: "Phönix"
 categories:
     - Vinyl
 images:
-    - /images/covers/under_the_rune_of_war-phönix.jpg
-thumbnailImage: /images/covers/under_the_rune_of_war-phönix-thumb.jpg
+    - /images/covers/under_the_rune_of_war-phönix.png
+thumbnailImage: /images/covers/under_the_rune_of_war-phönix-thumb.png
 actualPrice: $30.00
 inStock: true
 ---
