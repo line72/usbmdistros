@@ -11,6 +11,7 @@ import libbmdistro
 stores = {
     'stovokor': libbmdistro.Store("Sto'Vo'Kor Records", "https://stovokor-records.com"),
     'arcane-altar': libbmdistro.Store("Arcane Altar", "https://arcanealtar.bigcartel.com"),
+    'debemur-morti': libbmdistro.Store('Debemur Morti', "https://debemurmorti.aisamerch.com/")
 }
 
 parsers = [
@@ -21,6 +22,7 @@ parsers = [
     libbmdistro.parsers.ArcaneAltar(stores['arcane-altar'], 'https://arcanealtar.bigcartel.com/category/7-vinyl.xml'),
     libbmdistro.parsers.ArcaneAltar(stores['arcane-altar'], 'https://arcanealtar.bigcartel.com/category/tapes.xml'),
     libbmdistro.parsers.ArcaneAltar(stores['arcane-altar'], 'https://arcanealtar.bigcartel.com/category/cds.xml'),
+    libbmdistro.parsers.DebemurMorti(stores['debemur-morti'], 'https://debemurmorti.aisamerch.com/c/music-video'),
 ]
 
 def go():
@@ -31,7 +33,7 @@ def go():
         products = parser.parse(db)
         for p in products:
             db.add_product(p)
-
+            
     # keys = sorted(db.items.keys())
     # for artist in keys:
     #     v = db.items[artist]

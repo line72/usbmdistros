@@ -4,5 +4,7 @@
 # Released under the GPLv3
 
 from .Parser import Parser
-from .StoVoKor import StoVoKor
+
 from .ArcaneAltar import ArcaneAltar
+from .DebemurMorti import DebemurMorti
+from .StoVoKor import StoVoKor

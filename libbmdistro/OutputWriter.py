@@ -100,6 +100,9 @@ class OutputWriter:
             print('Skipping...cover already exists')
             return (cover, cover_thumbnail)
 
+        cover = os.path.join('__cache__', name + '.jpg')
+        cover_thumbnail = os.path.join('__cache__', name + '-thumb.jpg')
+        
         params = {
             'query': f'artist:{artist} AND album:{album}'
         }
