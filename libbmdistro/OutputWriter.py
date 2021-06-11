@@ -33,7 +33,7 @@ class OutputWriter:
         for artist in keys:
             v = db.items[artist]
             for album, v2 in v.items():
-                variants = v2.keys()
+                variants = sorted(v2.keys(), reverse = True)
 
                 s = f'{artist}-{album}'
                 s = s.lower()
@@ -52,7 +52,7 @@ class OutputWriter:
                         for p in v3['products']:
                             prices.append(p.price)
 
-                    min_price, max_price = min(prices), max(prices)
+                    min_price, max_price = min(prices, key = float), max(prices, key = float)
                     if min_price != max_price:
                         return f'{min_price} - {max_price}'
                     
@@ -83,8 +83,9 @@ class OutputWriter:
                     f.write('inStock: true\n')
                     f.write('---\n')
                     f.write('\n')
-                
-                    for item_type, v3 in v2.items():
+
+                    for item_type in variants:
+                        v3 = v2[item_type]
                         f.write(f'## {item_type}\n')
                         for p in v3['products']:
                             f.write(f'* Purchase from [{p.store.name}]({p.link}) for ${p.price}\n')
@@ -168,4 +169,3 @@ class OutputWriter:
         self.generate_thumbnail(cover, thumb)
         
         return True
-
