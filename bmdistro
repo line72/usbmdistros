@@ -33,7 +33,7 @@ def go():
         products = parser.parse(db)
         for p in products:
             db.add_product(p)
-            
+
     # keys = sorted(db.items.keys())
     # for artist in keys:
     #     v = db.items[artist]
@@ -44,6 +44,8 @@ def go():
     #             print(f'    {item_type}')
     #             for p in v3['products']:
     #                 print(f'      {p}')
+
+                    
     o = libbmdistro.OutputWriter()
     o.write(db, 'website')
 

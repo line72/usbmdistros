@@ -11,13 +11,27 @@ from ..Product import Product
 
 class StoVoKor(Parser):
     def parse(self, db):
-        r = requests.get(self.feed)
-        r.raise_for_status()
-
-        products = r.json()['products']
+        # this only returns 30 products at a time.
+        # Unfortunately, there is no information about
+        #  the number of items or pages, so we'll
+        #  just have to paginate until there are no items
+        entries = []
         
-        entries = map(lambda e: self.parseItem(db, e), products)
-        return list(entries)
+        page = 1
+        while True:
+            r = requests.get(self.feed, params = {'page': page})
+            r.raise_for_status()
+            page += 1
+
+            products = r.json()['products']
+            if len(products) == 0:
+                # all done
+                break
+        
+            p = map(lambda e: self.parseItem(db, e), products)
+            entries.extend(list(p))
+
+        return entries
 
     def parseItem(self, db, entry):
         artist, album = entry['title'].split(sep = '-', maxsplit = 1)
