@@ -7,8 +7,8 @@ album: "Death Veneration"
 categories:
     - Vinyl
 images:
-    - /images/covers/sargeist-death_veneration.jpg
-thumbnailImage: /images/covers/sargeist-death_veneration-thumb.jpg
+    - "/images/covers/sargeist-death_veneration.jpg"
+thumbnailImage: "/images/covers/sargeist-death_veneration-thumb.jpg"
 actualPrice: $20.00
 inStock: true
 ---

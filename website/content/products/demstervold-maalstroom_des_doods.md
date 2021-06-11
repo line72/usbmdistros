@@ -7,8 +7,8 @@ album: "Maalstroom des Doods"
 categories:
     - Vinyl
 images:
-    - /images/covers/demstervold-maalstroom_des_doods.png
-thumbnailImage: /images/covers/demstervold-maalstroom_des_doods-thumb.png
+    - "/images/covers/demstervold-maalstroom_des_doods.png"
+thumbnailImage: "/images/covers/demstervold-maalstroom_des_doods-thumb.png"
 actualPrice: $27.00
 inStock: true
 ---

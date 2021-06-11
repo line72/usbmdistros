@@ -7,8 +7,8 @@ album: "Plus Une Main A Mordre"
 categories:
     - CD
 images:
-    - /images/covers/throane-plus_une_main_a_mordre.jpg
-thumbnailImage: /images/covers/throane-plus_une_main_a_mordre-thumb.jpg
+    - "/images/covers/throane-plus_une_main_a_mordre.jpg"
+thumbnailImage: "/images/covers/throane-plus_une_main_a_mordre-thumb.jpg"
 actualPrice: $9.99
 inStock: true
 ---

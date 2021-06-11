@@ -7,8 +7,8 @@ album: "Derrière-Nous, La Lumière"
 categories:
     - CD
 images:
-    - /images/covers/throane-derrière-nous,_la_lumière.jpg
-thumbnailImage: /images/covers/throane-derrière-nous,_la_lumière-thumb.jpg
+    - "/images/covers/throane-derrière-nous,_la_lumière.jpg"
+thumbnailImage: "/images/covers/throane-derrière-nous,_la_lumière-thumb.jpg"
 actualPrice: $9.99
 inStock: true
 ---

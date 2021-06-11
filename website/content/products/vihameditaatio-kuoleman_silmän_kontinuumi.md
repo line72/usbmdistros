@@ -7,8 +7,8 @@ album: "Kuoleman Silmän Kontinuumi"
 categories:
     - Tape
 images:
-    - /images/covers/vihameditaatio-kuoleman_silmän_kontinuumi.jpg
-thumbnailImage: /images/covers/vihameditaatio-kuoleman_silmän_kontinuumi-thumb.jpg
+    - "/images/covers/vihameditaatio-kuoleman_silmän_kontinuumi.jpg"
+thumbnailImage: "/images/covers/vihameditaatio-kuoleman_silmän_kontinuumi-thumb.jpg"
 actualPrice: $9.50
 inStock: true
 ---

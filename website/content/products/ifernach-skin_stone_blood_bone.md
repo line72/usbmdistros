@@ -7,8 +7,8 @@ album: "Skin Stone Blood Bone"
 categories:
     - CD
 images:
-    - /images/covers/ifernach-skin_stone_blood_bone.png
-thumbnailImage: /images/covers/ifernach-skin_stone_blood_bone-thumb.png
+    - "/images/covers/ifernach-skin_stone_blood_bone.png"
+thumbnailImage: "/images/covers/ifernach-skin_stone_blood_bone-thumb.png"
 actualPrice: $13.00
 inStock: true
 ---

@@ -7,8 +7,8 @@ album: "s/t"
 categories:
     - Vinyl
 images:
-    - /images/covers/pantheon_of_blood-s-t.jpg
-thumbnailImage: /images/covers/pantheon_of_blood-s-t-thumb.jpg
+    - "/images/covers/pantheon_of_blood-s-t.jpg"
+thumbnailImage: "/images/covers/pantheon_of_blood-s-t-thumb.jpg"
 actualPrice: $8.00
 inStock: true
 ---

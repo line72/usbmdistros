@@ -7,8 +7,8 @@ album: "Βιγλάτωρ"
 categories:
     - Vinyl
 images:
-    - /images/covers/darkthule-βιγλάτωρ.jpg
-thumbnailImage: /images/covers/darkthule-βιγλάτωρ-thumb.jpg
+    - "/images/covers/darkthule-βιγλάτωρ.jpg"
+thumbnailImage: "/images/covers/darkthule-βιγλάτωρ-thumb.jpg"
 actualPrice: $28.00
 inStock: true
 ---

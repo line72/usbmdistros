@@ -7,8 +7,8 @@ album: "Polterngeyst"
 categories:
     - CD
 images:
-    - /images/covers/revenant_marquis-polterngeyst.jpg
-thumbnailImage: /images/covers/revenant_marquis-polterngeyst-thumb.jpg
+    - "/images/covers/revenant_marquis-polterngeyst.jpg"
+thumbnailImage: "/images/covers/revenant_marquis-polterngeyst-thumb.jpg"
 actualPrice: $15.00
 inStock: true
 ---

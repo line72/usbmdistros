@@ -7,8 +7,8 @@ album: "Derej Najash"
 categories:
     - Tape
 images:
-    - /images/covers/ordo_cultum_serpentis-derej_najash.png
-thumbnailImage: /images/covers/ordo_cultum_serpentis-derej_najash-thumb.png
+    - "/images/covers/ordo_cultum_serpentis-derej_najash.png"
+thumbnailImage: "/images/covers/ordo_cultum_serpentis-derej_najash-thumb.png"
 actualPrice: $11.00
 inStock: true
 ---

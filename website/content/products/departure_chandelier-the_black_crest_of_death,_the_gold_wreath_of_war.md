@@ -7,8 +7,8 @@ album: "The Black Crest of Death, The Gold Wreath of War"
 categories:
     - Vinyl
 images:
-    - /images/covers/departure_chandelier-the_black_crest_of_death,_the_gold_wreath_of_war.jpg
-thumbnailImage: /images/covers/departure_chandelier-the_black_crest_of_death,_the_gold_wreath_of_war-thumb.jpg
+    - "/images/covers/departure_chandelier-the_black_crest_of_death,_the_gold_wreath_of_war.jpg"
+thumbnailImage: "/images/covers/departure_chandelier-the_black_crest_of_death,_the_gold_wreath_of_war-thumb.jpg"
 actualPrice: $20.00
 inStock: true
 ---

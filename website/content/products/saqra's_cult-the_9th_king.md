@@ -7,8 +7,8 @@ album: "The 9th King"
 categories:
     - Vinyl
 images:
-    - /images/covers/saqra's_cult-the_9th_king.jpg
-thumbnailImage: /images/covers/saqra's_cult-the_9th_king-thumb.jpg
+    - "/images/covers/saqra's_cult-the_9th_king.jpg"
+thumbnailImage: "/images/covers/saqra's_cult-the_9th_king-thumb.jpg"
 actualPrice: $20.00
 inStock: true
 ---

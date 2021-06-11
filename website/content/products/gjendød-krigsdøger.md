@@ -7,8 +7,8 @@ album: "Krigsdøger"
 categories:
     - Vinyl
 images:
-    - /images/covers/gjendød-krigsdøger.jpg
-thumbnailImage: /images/covers/gjendød-krigsdøger-thumb.jpg
+    - "/images/covers/gjendød-krigsdøger.jpg"
+thumbnailImage: "/images/covers/gjendød-krigsdøger-thumb.jpg"
 actualPrice: $25.00
 inStock: true
 ---

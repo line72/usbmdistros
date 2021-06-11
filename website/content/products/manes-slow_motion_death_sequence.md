@@ -7,8 +7,8 @@ album: "Slow Motion Death Sequence"
 categories:
     - CD
 images:
-    - /images/covers/manes-slow_motion_death_sequence.jpg
-thumbnailImage: /images/covers/manes-slow_motion_death_sequence-thumb.jpg
+    - "/images/covers/manes-slow_motion_death_sequence.jpg"
+thumbnailImage: "/images/covers/manes-slow_motion_death_sequence-thumb.jpg"
 actualPrice: $9.99
 inStock: true
 ---

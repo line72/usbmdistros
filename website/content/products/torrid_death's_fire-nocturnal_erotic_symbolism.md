@@ -7,8 +7,8 @@ album: "Nocturnal Erotic Symbolism"
 categories:
     - CD
 images:
-    - /images/covers/torrid_death's_fire-nocturnal_erotic_symbolism.jpg
-thumbnailImage: /images/covers/torrid_death's_fire-nocturnal_erotic_symbolism-thumb.jpg
+    - "/images/covers/torrid_death's_fire-nocturnal_erotic_symbolism.jpg"
+thumbnailImage: "/images/covers/torrid_death's_fire-nocturnal_erotic_symbolism-thumb.jpg"
 actualPrice: $14.00
 inStock: true
 ---

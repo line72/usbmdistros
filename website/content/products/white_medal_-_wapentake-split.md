@@ -7,8 +7,8 @@ album: "Split"
 categories:
     - Vinyl
 images:
-    - /images/covers/white_medal_-_wapentake-split.png
-thumbnailImage: /images/covers/white_medal_-_wapentake-split-thumb.png
+    - "/images/covers/white_medal_-_wapentake-split.png"
+thumbnailImage: "/images/covers/white_medal_-_wapentake-split-thumb.png"
 actualPrice: $24.00
 inStock: true
 ---

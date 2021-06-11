@@ -7,8 +7,8 @@ album: "Sepulchral Silence of Satan"
 categories:
     - Vinyl
 images:
-    - /images/covers/ordem_satânica_-_niteris-sepulchral_silence_of_satan.jpg
-thumbnailImage: /images/covers/ordem_satânica_-_niteris-sepulchral_silence_of_satan-thumb.jpg
+    - "/images/covers/ordem_satânica_-_niteris-sepulchral_silence_of_satan.jpg"
+thumbnailImage: "/images/covers/ordem_satânica_-_niteris-sepulchral_silence_of_satan-thumb.jpg"
 actualPrice: $25.00
 inStock: true
 ---

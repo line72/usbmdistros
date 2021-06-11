@@ -7,8 +7,8 @@ album: "Kältetod / Morning Mists in Blood"
 categories:
     - Vinyl
 images:
-    - /images/covers/gormanudr_-_fidelis-kältetod_-_morning_mists_in_blood.jpg
-thumbnailImage: /images/covers/gormanudr_-_fidelis-kältetod_-_morning_mists_in_blood-thumb.jpg
+    - "/images/covers/gormanudr_-_fidelis-kältetod_-_morning_mists_in_blood.jpg"
+thumbnailImage: "/images/covers/gormanudr_-_fidelis-kältetod_-_morning_mists_in_blood-thumb.jpg"
 actualPrice: $9.00
 inStock: true
 ---

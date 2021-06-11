@@ -7,8 +7,8 @@ album: "Age of Excuse"
 categories:
     - Vinyl
 images:
-    - /images/covers/mgła-age_of_excuse.jpg
-thumbnailImage: /images/covers/mgła-age_of_excuse-thumb.jpg
+    - "/images/covers/mgła-age_of_excuse.jpg"
+thumbnailImage: "/images/covers/mgła-age_of_excuse-thumb.jpg"
 actualPrice: $20.00
 inStock: true
 ---

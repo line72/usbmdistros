@@ -7,8 +7,8 @@ album: "Night of the Bloodmoon"
 categories:
     - Tape
 images:
-    - /images/covers/the_gloomy_radiance_of_the_moon-night_of_the_bloodmoon.jpg
-thumbnailImage: /images/covers/the_gloomy_radiance_of_the_moon-night_of_the_bloodmoon-thumb.jpg
+    - "/images/covers/the_gloomy_radiance_of_the_moon-night_of_the_bloodmoon.jpg"
+thumbnailImage: "/images/covers/the_gloomy_radiance_of_the_moon-night_of_the_bloodmoon-thumb.jpg"
 actualPrice: $10.00
 inStock: true
 ---

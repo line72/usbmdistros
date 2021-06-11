@@ -5,17 +5,17 @@ draft: false
 artist: "Yeruselem"
 album: "The Sublime"
 categories:
-    - CD
     - Vinyl
+    - CD
 images:
-    - /images/covers/yeruselem-the_sublime.jpg
-thumbnailImage: /images/covers/yeruselem-the_sublime-thumb.jpg
+    - "/images/covers/yeruselem-the_sublime.jpg"
+thumbnailImage: "/images/covers/yeruselem-the_sublime-thumb.jpg"
 actualPrice: $10.99 - 25.99
 inStock: true
 ---
 
-## CD
-* Purchase from [Debemur Morti](https://debemurmorti.aisamerch.com/item/67779) for $10.99
 ## Vinyl
 * Purchase from [Debemur Morti](https://debemurmorti.aisamerch.com/item/67781) for $25.99
 * Purchase from [Debemur Morti](https://debemurmorti.aisamerch.com/item/67780) for $22.99
+## CD
+* Purchase from [Debemur Morti](https://debemurmorti.aisamerch.com/item/67779) for $10.99

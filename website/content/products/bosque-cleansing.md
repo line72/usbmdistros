@@ -7,8 +7,8 @@ album: "Cleansing"
 categories:
     - CD
 images:
-    - /images/covers/bosque-cleansing.jpg
-thumbnailImage: /images/covers/bosque-cleansing-thumb.jpg
+    - "/images/covers/bosque-cleansing.jpg"
+thumbnailImage: "/images/covers/bosque-cleansing-thumb.jpg"
 actualPrice: $13.00
 inStock: true
 ---

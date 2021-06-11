@@ -7,8 +7,8 @@ album: "Eole Noir 10’’ MLP +"
 categories:
     - CD
 images:
-    - /images/covers/eole_noir-eole_noir_10’’_mlp_+.jpg
-thumbnailImage: /images/covers/eole_noir-eole_noir_10’’_mlp_+-thumb.jpg
+    - "/images/covers/eole_noir-eole_noir_10’’_mlp_+.jpg"
+thumbnailImage: "/images/covers/eole_noir-eole_noir_10’’_mlp_+-thumb.jpg"
 actualPrice: $27.00
 inStock: true
 ---

@@ -7,8 +7,8 @@ album: "Vol. I"
 categories:
     - Tape
 images:
-    - /images/covers/aos_si-vol._i.png
-thumbnailImage: /images/covers/aos_si-vol._i-thumb.png
+    - "/images/covers/aos_si-vol._i.png"
+thumbnailImage: "/images/covers/aos_si-vol._i-thumb.png"
 actualPrice: $9.00
 inStock: true
 ---

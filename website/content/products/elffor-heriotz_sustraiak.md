@@ -7,8 +7,8 @@ album: "Heriotz Sustraiak"
 categories:
     - CD
 images:
-    - /images/covers/elffor-heriotz_sustraiak.jpg
-thumbnailImage: /images/covers/elffor-heriotz_sustraiak-thumb.jpg
+    - "/images/covers/elffor-heriotz_sustraiak.jpg"
+thumbnailImage: "/images/covers/elffor-heriotz_sustraiak-thumb.jpg"
 actualPrice: $12.00
 inStock: true
 ---

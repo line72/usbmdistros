@@ -7,8 +7,8 @@ album: "Dancing Through the Ascetic Fire"
 categories:
     - Vinyl
 images:
-    - /images/covers/veštac_–_kolo-dancing_through_the_ascetic_fire.jpg
-thumbnailImage: /images/covers/veštac_–_kolo-dancing_through_the_ascetic_fire-thumb.jpg
+    - "/images/covers/veštac_–_kolo-dancing_through_the_ascetic_fire.jpg"
+thumbnailImage: "/images/covers/veštac_–_kolo-dancing_through_the_ascetic_fire-thumb.jpg"
 actualPrice: $16.00
 inStock: true
 ---

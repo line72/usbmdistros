@@ -7,8 +7,8 @@ album: "The Unwelcomed Ones"
 categories:
     - Vinyl
 images:
-    - /images/covers/attic_presence-the_unwelcomed_ones.jpg
-thumbnailImage: /images/covers/attic_presence-the_unwelcomed_ones-thumb.jpg
+    - "/images/covers/attic_presence-the_unwelcomed_ones.jpg"
+thumbnailImage: "/images/covers/attic_presence-the_unwelcomed_ones-thumb.jpg"
 actualPrice: $32.00
 inStock: true
 ---

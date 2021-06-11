@@ -7,8 +7,8 @@ album: "Triumph of Death"
 categories:
     - Vinyl
 images:
-    - /images/covers/digerdöden_-_k.f.r-triumph_of_death.jpg
-thumbnailImage: /images/covers/digerdöden_-_k.f.r-triumph_of_death-thumb.jpg
+    - "/images/covers/digerdöden_-_k.f.r-triumph_of_death.jpg"
+thumbnailImage: "/images/covers/digerdöden_-_k.f.r-triumph_of_death-thumb.jpg"
 actualPrice: $9.00
 inStock: true
 ---

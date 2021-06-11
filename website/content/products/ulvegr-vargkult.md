@@ -7,8 +7,8 @@ album: "Vargkult"
 categories:
     - Vinyl
 images:
-    - /images/covers/ulvegr-vargkult.jpg
-thumbnailImage: /images/covers/ulvegr-vargkult-thumb.jpg
+    - "/images/covers/ulvegr-vargkult.jpg"
+thumbnailImage: "/images/covers/ulvegr-vargkult-thumb.jpg"
 actualPrice: $27.00
 inStock: true
 ---

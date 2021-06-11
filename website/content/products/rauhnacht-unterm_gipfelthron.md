@@ -7,8 +7,8 @@ album: "Unterm Gipfelthron"
 categories:
     - CD
 images:
-    - /images/covers/rauhnacht-unterm_gipfelthron.jpg
-thumbnailImage: /images/covers/rauhnacht-unterm_gipfelthron-thumb.jpg
+    - "/images/covers/rauhnacht-unterm_gipfelthron.jpg"
+thumbnailImage: "/images/covers/rauhnacht-unterm_gipfelthron-thumb.jpg"
 actualPrice: $9.99
 inStock: true
 ---

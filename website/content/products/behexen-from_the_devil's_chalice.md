@@ -7,8 +7,8 @@ album: "From The Devil's Chalice"
 categories:
     - CD
 images:
-    - /images/covers/behexen-from_the_devil's_chalice.jpg
-thumbnailImage: /images/covers/behexen-from_the_devil's_chalice-thumb.jpg
+    - "/images/covers/behexen-from_the_devil's_chalice.jpg"
+thumbnailImage: "/images/covers/behexen-from_the_devil's_chalice-thumb.jpg"
 actualPrice: $10.99
 inStock: true
 ---

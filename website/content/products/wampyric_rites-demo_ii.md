@@ -7,8 +7,8 @@ album: "Demo II"
 categories:
     - CD
 images:
-    - /images/covers/wampyric_rites-demo_ii.png
-thumbnailImage: /images/covers/wampyric_rites-demo_ii-thumb.png
+    - "/images/covers/wampyric_rites-demo_ii.png"
+thumbnailImage: "/images/covers/wampyric_rites-demo_ii-thumb.png"
 actualPrice: $15.00
 inStock: true
 ---

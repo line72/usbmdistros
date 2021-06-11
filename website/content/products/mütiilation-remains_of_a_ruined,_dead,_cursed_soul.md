@@ -7,8 +7,8 @@ album: "Remains of a Ruined, Dead, Cursed Soul"
 categories:
     - Vinyl
 images:
-    - /images/covers/mütiilation-remains_of_a_ruined,_dead,_cursed_soul.jpg
-thumbnailImage: /images/covers/mütiilation-remains_of_a_ruined,_dead,_cursed_soul-thumb.jpg
+    - "/images/covers/mütiilation-remains_of_a_ruined,_dead,_cursed_soul.jpg"
+thumbnailImage: "/images/covers/mütiilation-remains_of_a_ruined,_dead,_cursed_soul-thumb.jpg"
 actualPrice: $23.00
 inStock: true
 ---

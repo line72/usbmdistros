@@ -8,8 +8,8 @@ categories:
     - Vinyl
     - CD
 images:
-    - /images/covers/essenz-manes_impetus.jpg
-thumbnailImage: /images/covers/essenz-manes_impetus-thumb.jpg
+    - "/images/covers/essenz-manes_impetus.jpg"
+thumbnailImage: "/images/covers/essenz-manes_impetus-thumb.jpg"
 actualPrice: $13.00 - 25.00
 inStock: true
 ---

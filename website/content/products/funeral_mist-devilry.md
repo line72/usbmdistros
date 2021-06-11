@@ -7,8 +7,8 @@ album: "Devilry"
 categories:
     - Vinyl
 images:
-    - /images/covers/funeral_mist-devilry.jpg
-thumbnailImage: /images/covers/funeral_mist-devilry-thumb.jpg
+    - "/images/covers/funeral_mist-devilry.jpg"
+thumbnailImage: "/images/covers/funeral_mist-devilry-thumb.jpg"
 actualPrice: $21.00
 inStock: true
 ---

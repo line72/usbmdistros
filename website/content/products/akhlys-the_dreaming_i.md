@@ -8,9 +8,9 @@ categories:
     - Vinyl
     - CD
 images:
-    - /images/covers/akhlys-the_dreaming_i.jpg
-thumbnailImage: /images/covers/akhlys-the_dreaming_i-thumb.jpg
-actualPrice: $31.99 - 9.99
+    - "/images/covers/akhlys-the_dreaming_i.jpg"
+thumbnailImage: "/images/covers/akhlys-the_dreaming_i-thumb.jpg"
+actualPrice: $9.99 - 31.99
 inStock: true
 ---
 

@@ -7,9 +7,9 @@ album: "The Poisonous Path"
 categories:
     - CD
 images:
-    - /images/covers/behexen-the_poisonous_path.jpg
-thumbnailImage: /images/covers/behexen-the_poisonous_path-thumb.jpg
-actualPrice: $13.00 - 9.99
+    - "/images/covers/behexen-the_poisonous_path.jpg"
+thumbnailImage: "/images/covers/behexen-the_poisonous_path-thumb.jpg"
+actualPrice: $9.99 - 13.00
 inStock: true
 ---
 

@@ -7,8 +7,8 @@ album: "Split"
 categories:
     - Vinyl
 images:
-    - /images/covers/black_citadel_-_bašmu-split.jpg
-thumbnailImage: /images/covers/black_citadel_-_bašmu-split-thumb.jpg
+    - "/images/covers/black_citadel_-_bašmu-split.jpg"
+thumbnailImage: "/images/covers/black_citadel_-_bašmu-split-thumb.jpg"
 actualPrice: $9.00
 inStock: true
 ---

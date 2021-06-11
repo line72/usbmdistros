@@ -8,14 +8,14 @@ categories:
     - Vinyl
     - CD
 images:
-    - /images/covers/ulcerate-stare_into_death_and_be_still.jpg
-thumbnailImage: /images/covers/ulcerate-stare_into_death_and_be_still-thumb.jpg
+    - "/images/covers/ulcerate-stare_into_death_and_be_still.jpg"
+thumbnailImage: "/images/covers/ulcerate-stare_into_death_and_be_still-thumb.jpg"
 actualPrice: $10.99 - 32.99
 inStock: true
 ---
 
 ## Vinyl
-* Purchase from [Debemur Morti](https://debemurmorti.aisamerch.com/item/98678) for $32.99
 * Purchase from [Debemur Morti](https://debemurmorti.aisamerch.com/item/83265) for $30.99
+* Purchase from [Debemur Morti](https://debemurmorti.aisamerch.com/item/98678) for $32.99
 ## CD
 * Purchase from [Debemur Morti](https://debemurmorti.aisamerch.com/item/83264) for $10.99

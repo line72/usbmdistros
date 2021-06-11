@@ -7,8 +7,8 @@ album: "Hostis Universi Generis"
 categories:
     - CD
 images:
-    - /images/covers/a.m.s.g.-hostis_universi_generis.jpg
-thumbnailImage: /images/covers/a.m.s.g.-hostis_universi_generis-thumb.jpg
+    - "/images/covers/a.m.s.g.-hostis_universi_generis.jpg"
+thumbnailImage: "/images/covers/a.m.s.g.-hostis_universi_generis-thumb.jpg"
 actualPrice: $15.00
 inStock: true
 ---

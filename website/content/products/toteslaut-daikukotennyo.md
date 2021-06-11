@@ -7,8 +7,8 @@ album: "Daikukotennyo"
 categories:
     - Vinyl
 images:
-    - /images/covers/toteslaut-daikukotennyo.png
-thumbnailImage: /images/covers/toteslaut-daikukotennyo-thumb.png
+    - "/images/covers/toteslaut-daikukotennyo.png"
+thumbnailImage: "/images/covers/toteslaut-daikukotennyo-thumb.png"
 actualPrice: $23.00
 inStock: true
 ---

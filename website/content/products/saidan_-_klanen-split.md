@@ -7,8 +7,8 @@ album: "Split"
 categories:
     - CD
 images:
-    - /images/covers/saidan_-_klanen-split.jpg
-thumbnailImage: /images/covers/saidan_-_klanen-split-thumb.jpg
+    - "/images/covers/saidan_-_klanen-split.jpg"
+thumbnailImage: "/images/covers/saidan_-_klanen-split-thumb.jpg"
 actualPrice: $15.00
 inStock: true
 ---

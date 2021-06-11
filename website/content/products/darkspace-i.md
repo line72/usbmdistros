@@ -7,8 +7,8 @@ album: "I"
 categories:
     - Vinyl
 images:
-    - /images/covers/darkspace-i.jpg
-thumbnailImage: /images/covers/darkspace-i-thumb.jpg
+    - "/images/covers/darkspace-i.jpg"
+thumbnailImage: "/images/covers/darkspace-i-thumb.jpg"
 actualPrice: $45.00
 inStock: true
 ---

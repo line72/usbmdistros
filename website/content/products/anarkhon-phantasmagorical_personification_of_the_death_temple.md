@@ -8,14 +8,14 @@ categories:
     - Vinyl
     - CD
 images:
-    - /images/covers/anarkhon-phantasmagorical_personification_of_the_death_temple.png
-thumbnailImage: /images/covers/anarkhon-phantasmagorical_personification_of_the_death_temple-thumb.png
-actualPrice: $22.99 - 9.99
+    - "/images/covers/anarkhon-phantasmagorical_personification_of_the_death_temple.png"
+thumbnailImage: "/images/covers/anarkhon-phantasmagorical_personification_of_the_death_temple-thumb.png"
+actualPrice: $9.99 - 25.99
 inStock: true
 ---
 
 ## Vinyl
-* Purchase from [Debemur Morti](https://debemurmorti.aisamerch.com/item/97130) for $22.99
 * Purchase from [Debemur Morti](https://debemurmorti.aisamerch.com/item/97131) for $25.99
+* Purchase from [Debemur Morti](https://debemurmorti.aisamerch.com/item/97130) for $22.99
 ## CD
 * Purchase from [Debemur Morti](https://debemurmorti.aisamerch.com/item/98669) for $9.99

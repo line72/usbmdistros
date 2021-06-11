@@ -8,9 +8,9 @@ categories:
     - Vinyl
     - CD
 images:
-    - /images/covers/aversio_humanitatis-behold_the_silent_dwellers.jpg
-thumbnailImage: /images/covers/aversio_humanitatis-behold_the_silent_dwellers-thumb.jpg
-actualPrice: $24.99 - 9.99
+    - "/images/covers/aversio_humanitatis-behold_the_silent_dwellers.jpg"
+thumbnailImage: "/images/covers/aversio_humanitatis-behold_the_silent_dwellers-thumb.jpg"
+actualPrice: $9.99 - 24.99
 inStock: true
 ---
 

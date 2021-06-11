@@ -7,8 +7,8 @@ album: "The Mystical Beast Of Rebellion"
 categories:
     - Tape
 images:
-    - /images/covers/blut_aus_nord-the_mystical_beast_of_rebellion.jpg
-thumbnailImage: /images/covers/blut_aus_nord-the_mystical_beast_of_rebellion-thumb.jpg
+    - "/images/covers/blut_aus_nord-the_mystical_beast_of_rebellion.jpg"
+thumbnailImage: "/images/covers/blut_aus_nord-the_mystical_beast_of_rebellion-thumb.jpg"
 actualPrice: $13.99
 inStock: true
 ---

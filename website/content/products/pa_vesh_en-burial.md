@@ -7,8 +7,8 @@ album: "Burial"
 categories:
     - Vinyl
 images:
-    - /images/covers/pa_vesh_en-burial.png
-thumbnailImage: /images/covers/pa_vesh_en-burial-thumb.png
+    - "/images/covers/pa_vesh_en-burial.png"
+thumbnailImage: "/images/covers/pa_vesh_en-burial-thumb.png"
 actualPrice: $17.00
 inStock: true
 ---

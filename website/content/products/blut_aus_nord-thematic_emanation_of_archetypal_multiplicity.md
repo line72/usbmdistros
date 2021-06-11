@@ -7,8 +7,8 @@ album: "Thematic Emanation Of Archetypal Multiplicity"
 categories:
     - Tape
 images:
-    - /images/covers/blut_aus_nord-thematic_emanation_of_archetypal_multiplicity.jpg
-thumbnailImage: /images/covers/blut_aus_nord-thematic_emanation_of_archetypal_multiplicity-thumb.jpg
+    - "/images/covers/blut_aus_nord-thematic_emanation_of_archetypal_multiplicity.jpg"
+thumbnailImage: "/images/covers/blut_aus_nord-thematic_emanation_of_archetypal_multiplicity-thumb.jpg"
 actualPrice: $13.99
 inStock: true
 ---

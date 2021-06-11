@@ -7,8 +7,8 @@ album: "We Disappear"
 categories:
     - CD
 images:
-    - /images/covers/hegemone-we_disappear.jpg
-thumbnailImage: /images/covers/hegemone-we_disappear-thumb.jpg
+    - "/images/covers/hegemone-we_disappear.jpg"
+thumbnailImage: "/images/covers/hegemone-we_disappear-thumb.jpg"
 actualPrice: $9.99
 inStock: true
 ---

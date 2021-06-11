@@ -7,8 +7,8 @@ album: "Split"
 categories:
     - CD
 images:
-    - /images/covers/múspellzheimr_-_aiwīgaz_unðergangaz-split.jpg
-thumbnailImage: /images/covers/múspellzheimr_-_aiwīgaz_unðergangaz-split-thumb.jpg
+    - "/images/covers/múspellzheimr_-_aiwīgaz_unðergangaz-split.jpg"
+thumbnailImage: "/images/covers/múspellzheimr_-_aiwīgaz_unðergangaz-split-thumb.jpg"
 actualPrice: $12.00
 inStock: true
 ---

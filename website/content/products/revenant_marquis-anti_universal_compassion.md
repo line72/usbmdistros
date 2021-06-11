@@ -7,8 +7,8 @@ album: "Anti Universal Compassion"
 categories:
     - CD
 images:
-    - /images/covers/revenant_marquis-anti_universal_compassion.jpg
-thumbnailImage: /images/covers/revenant_marquis-anti_universal_compassion-thumb.jpg
+    - "/images/covers/revenant_marquis-anti_universal_compassion.jpg"
+thumbnailImage: "/images/covers/revenant_marquis-anti_universal_compassion-thumb.jpg"
 actualPrice: $15.00
 inStock: true
 ---

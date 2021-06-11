@@ -7,8 +7,8 @@ album: "A Night Created by the Shadows... and the Resuscitation of Unspoken Ritu
 categories:
     - CD
 images:
-    - /images/covers/svartsyn-a_night_created_by_the_shadows..._and_the_resuscitation_of_unspoken_rituals.jpg
-thumbnailImage: /images/covers/svartsyn-a_night_created_by_the_shadows..._and_the_resuscitation_of_unspoken_rituals-thumb.jpg
+    - "/images/covers/svartsyn-a_night_created_by_the_shadows..._and_the_resuscitation_of_unspoken_rituals.jpg"
+thumbnailImage: "/images/covers/svartsyn-a_night_created_by_the_shadows..._and_the_resuscitation_of_unspoken_rituals-thumb.jpg"
 actualPrice: $13.00
 inStock: true
 ---

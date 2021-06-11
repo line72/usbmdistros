@@ -7,8 +7,8 @@ album: "Dor"
 categories:
     - CD
 images:
-    - /images/covers/turia-dor.jpg
-thumbnailImage: /images/covers/turia-dor-thumb.jpg
+    - "/images/covers/turia-dor.jpg"
+thumbnailImage: "/images/covers/turia-dor-thumb.jpg"
 actualPrice: $12.00
 inStock: true
 ---

@@ -8,8 +8,8 @@ categories:
     - Vinyl
     - CD
 images:
-    - /images/covers/taje_skal-s-t.jpg
-thumbnailImage: /images/covers/taje_skal-s-t-thumb.jpg
+    - "/images/covers/taje_skal-s-t.jpg"
+thumbnailImage: "/images/covers/taje_skal-s-t-thumb.jpg"
 actualPrice: $15.00 - 27.00
 inStock: true
 ---

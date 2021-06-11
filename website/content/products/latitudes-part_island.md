@@ -8,8 +8,8 @@ categories:
     - Vinyl
     - CD
 images:
-    - /images/covers/latitudes-part_island.jpg
-thumbnailImage: /images/covers/latitudes-part_island-thumb.jpg
+    - "/images/covers/latitudes-part_island.jpg"
+thumbnailImage: "/images/covers/latitudes-part_island-thumb.jpg"
 actualPrice: $10.99 - 22.99
 inStock: true
 ---

@@ -7,8 +7,8 @@ album: "Multiverse"
 categories:
     - Tape
 images:
-    - /images/covers/hexeth-multiverse.png
-thumbnailImage: /images/covers/hexeth-multiverse-thumb.png
+    - "/images/covers/hexeth-multiverse.png"
+thumbnailImage: "/images/covers/hexeth-multiverse-thumb.png"
 actualPrice: $8.00
 inStock: true
 ---

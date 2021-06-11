@@ -8,9 +8,9 @@ categories:
     - Vinyl
     - CD
 images:
-    - /images/covers/archgoat-the_luciferian_crown.jpg
-thumbnailImage: /images/covers/archgoat-the_luciferian_crown-thumb.jpg
-actualPrice: $23.99 - 9.99
+    - "/images/covers/archgoat-the_luciferian_crown.jpg"
+thumbnailImage: "/images/covers/archgoat-the_luciferian_crown-thumb.jpg"
+actualPrice: $9.99 - 23.99
 inStock: true
 ---
 

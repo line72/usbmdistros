@@ -7,8 +7,8 @@ album: "The Darkening Moon's Nightmares"
 categories:
     - Vinyl
 images:
-    - /images/covers/starlit_woods_-_winter_blackness-the_darkening_moon's_nightmares.jpg
-thumbnailImage: /images/covers/starlit_woods_-_winter_blackness-the_darkening_moon's_nightmares-thumb.jpg
+    - "/images/covers/starlit_woods_-_winter_blackness-the_darkening_moon's_nightmares.jpg"
+thumbnailImage: "/images/covers/starlit_woods_-_winter_blackness-the_darkening_moon's_nightmares-thumb.jpg"
 actualPrice: $8.00
 inStock: true
 ---

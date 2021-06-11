@@ -7,8 +7,8 @@ album: "To Await | To Expect"
 categories:
     - CD
 images:
-    - /images/covers/voidsphere-to_await_|_to_expect.jpg
-thumbnailImage: /images/covers/voidsphere-to_await_|_to_expect-thumb.jpg
+    - "/images/covers/voidsphere-to_await_|_to_expect.jpg"
+thumbnailImage: "/images/covers/voidsphere-to_await_|_to_expect-thumb.jpg"
 actualPrice: $12.00
 inStock: true
 ---

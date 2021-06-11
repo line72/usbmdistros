@@ -7,8 +7,8 @@ album: "Mustan Liekin Veljeskunta"
 categories:
     - Vinyl
 images:
-    - /images/covers/oath-mustan_liekin_veljeskunta.png
-thumbnailImage: /images/covers/oath-mustan_liekin_veljeskunta-thumb.png
+    - "/images/covers/oath-mustan_liekin_veljeskunta.png"
+thumbnailImage: "/images/covers/oath-mustan_liekin_veljeskunta-thumb.png"
 actualPrice: $20.00
 inStock: true
 ---

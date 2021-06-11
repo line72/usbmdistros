@@ -7,8 +7,8 @@ album: "Im Ra Distare Summum Soveris Seris Vas Innoble"
 categories:
     - Vinyl
 images:
-    - /images/covers/reverorum_ib_malacht-im_ra_distare_summum_soveris_seris_vas_innoble.jpg
-thumbnailImage: /images/covers/reverorum_ib_malacht-im_ra_distare_summum_soveris_seris_vas_innoble-thumb.jpg
+    - "/images/covers/reverorum_ib_malacht-im_ra_distare_summum_soveris_seris_vas_innoble.jpg"
+thumbnailImage: "/images/covers/reverorum_ib_malacht-im_ra_distare_summum_soveris_seris_vas_innoble-thumb.jpg"
 actualPrice: $22.00
 inStock: true
 ---

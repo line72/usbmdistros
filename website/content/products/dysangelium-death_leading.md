@@ -7,8 +7,8 @@ album: "Death Leading"
 categories:
     - Vinyl
 images:
-    - /images/covers/dysangelium-death_leading.jpg
-thumbnailImage: /images/covers/dysangelium-death_leading-thumb.jpg
+    - "/images/covers/dysangelium-death_leading.jpg"
+thumbnailImage: "/images/covers/dysangelium-death_leading-thumb.jpg"
 actualPrice: $22.00
 inStock: true
 ---

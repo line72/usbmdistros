@@ -7,8 +7,8 @@ album: "The Grandiose Return to the Void"
 categories:
     - Tape
 images:
-    - /images/covers/void_prayer-the_grandiose_return_to_the_void.jpg
-thumbnailImage: /images/covers/void_prayer-the_grandiose_return_to_the_void-thumb.jpg
+    - "/images/covers/void_prayer-the_grandiose_return_to_the_void.jpg"
+thumbnailImage: "/images/covers/void_prayer-the_grandiose_return_to_the_void-thumb.jpg"
 actualPrice: $10.00
 inStock: true
 ---

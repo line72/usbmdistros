@@ -7,8 +7,8 @@ album: "The Work Which Transforms God"
 categories:
     - Tape
 images:
-    - /images/covers/blut_aus_nord-the_work_which_transforms_god.jpg
-thumbnailImage: /images/covers/blut_aus_nord-the_work_which_transforms_god-thumb.jpg
+    - "/images/covers/blut_aus_nord-the_work_which_transforms_god.jpg"
+thumbnailImage: "/images/covers/blut_aus_nord-the_work_which_transforms_god-thumb.jpg"
 actualPrice: $13.99
 inStock: true
 ---

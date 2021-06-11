@@ -7,8 +7,8 @@ album: "Interequinox"
 categories:
     - Vinyl
 images:
-    - /images/covers/dødsengel-interequinox.jpg
-thumbnailImage: /images/covers/dødsengel-interequinox-thumb.jpg
+    - "/images/covers/dødsengel-interequinox.jpg"
+thumbnailImage: "/images/covers/dødsengel-interequinox-thumb.jpg"
 actualPrice: $26.00
 inStock: true
 ---

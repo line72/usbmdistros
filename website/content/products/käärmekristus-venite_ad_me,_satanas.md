@@ -7,8 +7,8 @@ album: "Venite ad me, Satanas"
 categories:
     - Tape
 images:
-    - /images/covers/käärmekristus-venite_ad_me,_satanas.png
-thumbnailImage: /images/covers/käärmekristus-venite_ad_me,_satanas-thumb.png
+    - "/images/covers/käärmekristus-venite_ad_me,_satanas.png"
+thumbnailImage: "/images/covers/käärmekristus-venite_ad_me,_satanas-thumb.png"
 actualPrice: $10.00
 inStock: true
 ---

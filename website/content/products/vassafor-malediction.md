@@ -7,8 +7,8 @@ album: "Malediction"
 categories:
     - CD
 images:
-    - /images/covers/vassafor-malediction.jpg
-thumbnailImage: /images/covers/vassafor-malediction-thumb.jpg
+    - "/images/covers/vassafor-malediction.jpg"
+thumbnailImage: "/images/covers/vassafor-malediction-thumb.jpg"
 actualPrice: $9.99
 inStock: true
 ---

@@ -7,8 +7,8 @@ album: "Ave Atque Vale"
 categories:
     - Vinyl
 images:
-    - /images/covers/decrepitude-ave_atque_vale.jpg
-thumbnailImage: /images/covers/decrepitude-ave_atque_vale-thumb.jpg
+    - "/images/covers/decrepitude-ave_atque_vale.jpg"
+thumbnailImage: "/images/covers/decrepitude-ave_atque_vale-thumb.jpg"
 actualPrice: $22.00
 inStock: true
 ---

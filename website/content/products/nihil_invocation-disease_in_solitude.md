@@ -7,8 +7,8 @@ album: "Disease in Solitude"
 categories:
     - Vinyl
 images:
-    - /images/covers/nihil_invocation-disease_in_solitude.png
-thumbnailImage: /images/covers/nihil_invocation-disease_in_solitude-thumb.png
+    - "/images/covers/nihil_invocation-disease_in_solitude.png"
+thumbnailImage: "/images/covers/nihil_invocation-disease_in_solitude-thumb.png"
 actualPrice: $28.00
 inStock: true
 ---

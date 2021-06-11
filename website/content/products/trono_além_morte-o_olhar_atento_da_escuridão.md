@@ -7,8 +7,8 @@ album: "O Olhar Atento da Escuridão"
 categories:
     - Vinyl
 images:
-    - /images/covers/trono_além_morte-o_olhar_atento_da_escuridão.jpg
-thumbnailImage: /images/covers/trono_além_morte-o_olhar_atento_da_escuridão-thumb.jpg
+    - "/images/covers/trono_além_morte-o_olhar_atento_da_escuridão.jpg"
+thumbnailImage: "/images/covers/trono_além_morte-o_olhar_atento_da_escuridão-thumb.jpg"
 actualPrice: $23.00
 inStock: true
 ---

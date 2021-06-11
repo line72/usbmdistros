@@ -7,8 +7,8 @@ album: "Nikada Nije Kasno da Propadneš"
 categories:
     - Vinyl
 images:
-    - /images/covers/arjen-nikada_nije_kasno_da_propadneš.png
-thumbnailImage: /images/covers/arjen-nikada_nije_kasno_da_propadneš-thumb.png
+    - "/images/covers/arjen-nikada_nije_kasno_da_propadneš.png"
+thumbnailImage: "/images/covers/arjen-nikada_nije_kasno_da_propadneš-thumb.png"
 actualPrice: $10.00
 inStock: true
 ---

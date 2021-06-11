@@ -7,8 +7,8 @@ album: "En Ergô Einai"
 categories:
     - CD
 images:
-    - /images/covers/aara-en_ergô_einai.png
-thumbnailImage: /images/covers/aara-en_ergô_einai-thumb.png
+    - "/images/covers/aara-en_ergô_einai.png"
+thumbnailImage: "/images/covers/aara-en_ergô_einai-thumb.png"
 actualPrice: $9.99
 inStock: true
 ---

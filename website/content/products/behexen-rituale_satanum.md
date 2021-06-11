@@ -7,8 +7,8 @@ album: "Rituale Satanum"
 categories:
     - CD
 images:
-    - /images/covers/behexen-rituale_satanum.jpg
-thumbnailImage: /images/covers/behexen-rituale_satanum-thumb.jpg
+    - "/images/covers/behexen-rituale_satanum.jpg"
+thumbnailImage: "/images/covers/behexen-rituale_satanum-thumb.jpg"
 actualPrice: $9.99
 inStock: true
 ---

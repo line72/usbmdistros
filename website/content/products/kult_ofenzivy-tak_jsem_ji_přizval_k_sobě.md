@@ -7,8 +7,8 @@ album: "Tak Jsem Ji Přizval K Sobě"
 categories:
     - Vinyl
 images:
-    - /images/covers/kult_ofenzivy-tak_jsem_ji_přizval_k_sobě.jpg
-thumbnailImage: /images/covers/kult_ofenzivy-tak_jsem_ji_přizval_k_sobě-thumb.jpg
+    - "/images/covers/kult_ofenzivy-tak_jsem_ji_přizval_k_sobě.jpg"
+thumbnailImage: "/images/covers/kult_ofenzivy-tak_jsem_ji_přizval_k_sobě-thumb.jpg"
 actualPrice: $24.00
 inStock: true
 ---

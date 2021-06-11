@@ -7,8 +7,8 @@ album: "Transfixion of Spirits"
 categories:
     - Vinyl
 images:
-    - /images/covers/black_cilice-transfixion_of_spirits.jpg
-thumbnailImage: /images/covers/black_cilice-transfixion_of_spirits-thumb.jpg
+    - "/images/covers/black_cilice-transfixion_of_spirits.jpg"
+thumbnailImage: "/images/covers/black_cilice-transfixion_of_spirits-thumb.jpg"
 actualPrice: $17.00 - 20.00
 inStock: true
 ---

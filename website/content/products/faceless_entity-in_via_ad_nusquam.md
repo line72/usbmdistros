@@ -7,8 +7,8 @@ album: "In Via ad Nusquam"
 categories:
     - CD
 images:
-    - /images/covers/faceless_entity-in_via_ad_nusquam.jpg
-thumbnailImage: /images/covers/faceless_entity-in_via_ad_nusquam-thumb.jpg
+    - "/images/covers/faceless_entity-in_via_ad_nusquam.jpg"
+thumbnailImage: "/images/covers/faceless_entity-in_via_ad_nusquam-thumb.jpg"
 actualPrice: $12.00
 inStock: true
 ---

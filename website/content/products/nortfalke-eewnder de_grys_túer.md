@@ -7,8 +7,8 @@ album: "Eewnder de Grys Túer"
 categories:
     - Vinyl
 images:
-    - /images/covers/nortfalke-eewnder de_grys_túer.png
-thumbnailImage: /images/covers/nortfalke-eewnder de_grys_túer-thumb.png
+    - "/images/covers/nortfalke-eewnder de_grys_túer.png"
+thumbnailImage: "/images/covers/nortfalke-eewnder de_grys_túer-thumb.png"
 actualPrice: $27.00
 inStock: true
 ---

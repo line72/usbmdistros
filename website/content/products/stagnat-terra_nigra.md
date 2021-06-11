@@ -7,8 +7,8 @@ album: "Terra Nigra"
 categories:
     - Vinyl
 images:
-    - /images/covers/stagnat-terra_nigra.jpg
-thumbnailImage: /images/covers/stagnat-terra_nigra-thumb.jpg
+    - "/images/covers/stagnat-terra_nigra.jpg"
+thumbnailImage: "/images/covers/stagnat-terra_nigra-thumb.jpg"
 actualPrice: $22.00
 inStock: true
 ---

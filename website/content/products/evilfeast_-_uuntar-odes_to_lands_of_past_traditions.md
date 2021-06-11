@@ -7,8 +7,8 @@ album: "Odes to Lands of Past Traditions"
 categories:
     - Vinyl
 images:
-    - /images/covers/evilfeast_-_uuntar-odes_to_lands_of_past_traditions.jpg
-thumbnailImage: /images/covers/evilfeast_-_uuntar-odes_to_lands_of_past_traditions-thumb.jpg
+    - "/images/covers/evilfeast_-_uuntar-odes_to_lands_of_past_traditions.jpg"
+thumbnailImage: "/images/covers/evilfeast_-_uuntar-odes_to_lands_of_past_traditions-thumb.jpg"
 actualPrice: $25.00
 inStock: true
 ---

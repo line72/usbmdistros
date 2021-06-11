@@ -7,8 +7,8 @@ album: "Nightfall of Humanity"
 categories:
     - Vinyl
 images:
-    - /images/covers/herjan-nightfall_of_humanity.png
-thumbnailImage: /images/covers/herjan-nightfall_of_humanity-thumb.png
+    - "/images/covers/herjan-nightfall_of_humanity.png"
+thumbnailImage: "/images/covers/herjan-nightfall_of_humanity-thumb.png"
 actualPrice: $27.00
 inStock: true
 ---

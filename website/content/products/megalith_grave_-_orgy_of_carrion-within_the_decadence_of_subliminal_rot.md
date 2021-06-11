@@ -7,8 +7,8 @@ album: "Within the Decadence of Subliminal Rot"
 categories:
     - Vinyl
 images:
-    - /images/covers/megalith_grave_-_orgy_of_carrion-within_the_decadence_of_subliminal_rot.jpg
-thumbnailImage: /images/covers/megalith_grave_-_orgy_of_carrion-within_the_decadence_of_subliminal_rot-thumb.jpg
+    - "/images/covers/megalith_grave_-_orgy_of_carrion-within_the_decadence_of_subliminal_rot.jpg"
+thumbnailImage: "/images/covers/megalith_grave_-_orgy_of_carrion-within_the_decadence_of_subliminal_rot-thumb.jpg"
 actualPrice: $15.00
 inStock: true
 ---

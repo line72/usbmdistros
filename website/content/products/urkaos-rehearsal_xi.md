@@ -7,8 +7,8 @@ album: "Rehearsal XI"
 categories:
     - CD
 images:
-    - /images/covers/urkaos-rehearsal_xi.jpg
-thumbnailImage: /images/covers/urkaos-rehearsal_xi-thumb.jpg
+    - "/images/covers/urkaos-rehearsal_xi.jpg"
+thumbnailImage: "/images/covers/urkaos-rehearsal_xi-thumb.jpg"
 actualPrice: $13.00
 inStock: true
 ---

@@ -7,8 +7,8 @@ album: "O ovnh intot adr Mordrb"
 categories:
     - Vinyl
 images:
-    - /images/covers/voëmmr-o_ovnh_intot_adr_mordrb.jpg
-thumbnailImage: /images/covers/voëmmr-o_ovnh_intot_adr_mordrb-thumb.jpg
+    - "/images/covers/voëmmr-o_ovnh_intot_adr_mordrb.jpg"
+thumbnailImage: "/images/covers/voëmmr-o_ovnh_intot_adr_mordrb-thumb.jpg"
 actualPrice: $23.00
 inStock: true
 ---

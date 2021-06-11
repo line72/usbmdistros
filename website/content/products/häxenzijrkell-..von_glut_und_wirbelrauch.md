@@ -7,8 +7,8 @@ album: "..von Glut und Wirbelrauch"
 categories:
     - Vinyl
 images:
-    - /images/covers/häxenzijrkell-..von_glut_und_wirbelrauch.jpg
-thumbnailImage: /images/covers/häxenzijrkell-..von_glut_und_wirbelrauch-thumb.jpg
+    - "/images/covers/häxenzijrkell-..von_glut_und_wirbelrauch.jpg"
+thumbnailImage: "/images/covers/häxenzijrkell-..von_glut_und_wirbelrauch-thumb.jpg"
 actualPrice: $17.00
 inStock: true
 ---

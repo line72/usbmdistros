@@ -7,8 +7,8 @@ album: "Esoteric Satanism"
 categories:
     - Vinyl
 images:
-    - /images/covers/order_of_darkness-esoteric_satanism.jpg
-thumbnailImage: /images/covers/order_of_darkness-esoteric_satanism-thumb.jpg
+    - "/images/covers/order_of_darkness-esoteric_satanism.jpg"
+thumbnailImage: "/images/covers/order_of_darkness-esoteric_satanism-thumb.jpg"
 actualPrice: $15.00
 inStock: true
 ---

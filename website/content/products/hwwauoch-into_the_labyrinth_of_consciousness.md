@@ -7,8 +7,8 @@ album: "Into The Labyrinth of Consciousness"
 categories:
     - Vinyl
 images:
-    - /images/covers/hwwauoch-into_the_labyrinth_of_consciousness.jpg
-thumbnailImage: /images/covers/hwwauoch-into_the_labyrinth_of_consciousness-thumb.jpg
+    - "/images/covers/hwwauoch-into_the_labyrinth_of_consciousness.jpg"
+thumbnailImage: "/images/covers/hwwauoch-into_the_labyrinth_of_consciousness-thumb.jpg"
 actualPrice: $20.00
 inStock: true
 ---

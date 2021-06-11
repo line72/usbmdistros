@@ -8,9 +8,9 @@ categories:
     - Vinyl
     - CD
 images:
-    - /images/covers/lychgate-thus_sprach_futura.png
-thumbnailImage: /images/covers/lychgate-thus_sprach_futura-thumb.png
-actualPrice: $20.99 - 8.88
+    - "/images/covers/lychgate-thus_sprach_futura.png"
+thumbnailImage: "/images/covers/lychgate-thus_sprach_futura-thumb.png"
+actualPrice: $8.88 - 20.99
 inStock: true
 ---
 

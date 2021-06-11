@@ -7,8 +7,8 @@ album: "Same"
 categories:
     - Vinyl
 images:
-    - /images/covers/pa_vesh_en_-_temple_moon-same.jpg
-thumbnailImage: /images/covers/pa_vesh_en_-_temple_moon-same-thumb.jpg
+    - "/images/covers/pa_vesh_en_-_temple_moon-same.jpg"
+thumbnailImage: "/images/covers/pa_vesh_en_-_temple_moon-same-thumb.jpg"
 actualPrice: $17.00
 inStock: true
 ---

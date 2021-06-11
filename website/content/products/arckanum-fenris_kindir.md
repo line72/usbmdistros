@@ -7,8 +7,8 @@ album: "Fenris Kindir"
 categories:
     - Vinyl
 images:
-    - /images/covers/arckanum-fenris_kindir.jpg
-thumbnailImage: /images/covers/arckanum-fenris_kindir-thumb.jpg
+    - "/images/covers/arckanum-fenris_kindir.jpg"
+thumbnailImage: "/images/covers/arckanum-fenris_kindir-thumb.jpg"
 actualPrice: $20.00
 inStock: true
 ---

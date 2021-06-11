@@ -7,8 +7,8 @@ album: "MoRT"
 categories:
     - Tape
 images:
-    - /images/covers/blut_aus_nord-mort.jpg
-thumbnailImage: /images/covers/blut_aus_nord-mort-thumb.jpg
+    - "/images/covers/blut_aus_nord-mort.jpg"
+thumbnailImage: "/images/covers/blut_aus_nord-mort-thumb.jpg"
 actualPrice: $13.99
 inStock: true
 ---

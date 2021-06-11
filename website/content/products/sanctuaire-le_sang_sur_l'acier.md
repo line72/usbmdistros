@@ -7,8 +7,8 @@ album: "Le Sang sur l'Acier"
 categories:
     - CD
 images:
-    - /images/covers/sanctuaire-le_sang_sur_l'acier.jpg
-thumbnailImage: /images/covers/sanctuaire-le_sang_sur_l'acier-thumb.jpg
+    - "/images/covers/sanctuaire-le_sang_sur_l'acier.jpg"
+thumbnailImage: "/images/covers/sanctuaire-le_sang_sur_l'acier-thumb.jpg"
 actualPrice: $10.00
 inStock: true
 ---

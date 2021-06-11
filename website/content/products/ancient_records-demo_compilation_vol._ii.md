@@ -7,8 +7,8 @@ album: "Demo Compilation Vol. II"
 categories:
     - CD
 images:
-    - /images/covers/ancient_records-demo_compilation_vol._ii.jpg
-thumbnailImage: /images/covers/ancient_records-demo_compilation_vol._ii-thumb.jpg
+    - "/images/covers/ancient_records-demo_compilation_vol._ii.jpg"
+thumbnailImage: "/images/covers/ancient_records-demo_compilation_vol._ii-thumb.jpg"
 actualPrice: $18.00
 inStock: true
 ---

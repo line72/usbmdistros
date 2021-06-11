@@ -7,8 +7,8 @@ album: "Sol Nox"
 categories:
     - Vinyl
 images:
-    - /images/covers/ofermod-sol_nox.jpg
-thumbnailImage: /images/covers/ofermod-sol_nox-thumb.jpg
+    - "/images/covers/ofermod-sol_nox.jpg"
+thumbnailImage: "/images/covers/ofermod-sol_nox-thumb.jpg"
 actualPrice: $24.00
 inStock: true
 ---

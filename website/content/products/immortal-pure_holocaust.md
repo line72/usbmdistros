@@ -7,8 +7,8 @@ album: "Pure Holocaust"
 categories:
     - Vinyl
 images:
-    - /images/covers/immortal-pure_holocaust.jpg
-thumbnailImage: /images/covers/immortal-pure_holocaust-thumb.jpg
+    - "/images/covers/immortal-pure_holocaust.jpg"
+thumbnailImage: "/images/covers/immortal-pure_holocaust-thumb.jpg"
 actualPrice: $24.00
 inStock: true
 ---

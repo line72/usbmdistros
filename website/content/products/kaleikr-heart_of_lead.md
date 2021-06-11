@@ -7,8 +7,8 @@ album: "Heart Of Lead"
 categories:
     - CD
 images:
-    - /images/covers/kaleikr-heart_of_lead.jpg
-thumbnailImage: /images/covers/kaleikr-heart_of_lead-thumb.jpg
+    - "/images/covers/kaleikr-heart_of_lead.jpg"
+thumbnailImage: "/images/covers/kaleikr-heart_of_lead-thumb.jpg"
 actualPrice: $10.99
 inStock: true
 ---

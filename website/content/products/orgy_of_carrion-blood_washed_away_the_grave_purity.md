@@ -7,8 +7,8 @@ album: "Blood Washed Away the Grave Purity"
 categories:
     - CD
 images:
-    - /images/covers/orgy_of_carrion-blood_washed_away_the_grave_purity.jpg
-thumbnailImage: /images/covers/orgy_of_carrion-blood_washed_away_the_grave_purity-thumb.jpg
+    - "/images/covers/orgy_of_carrion-blood_washed_away_the_grave_purity.jpg"
+thumbnailImage: "/images/covers/orgy_of_carrion-blood_washed_away_the_grave_purity-thumb.jpg"
 actualPrice: $15.00
 inStock: true
 ---

@@ -8,8 +8,8 @@ categories:
     - Vinyl
     - Tape
 images:
-    - /images/covers/kastijder-s-t.png
-thumbnailImage: /images/covers/kastijder-s-t-thumb.png
+    - "/images/covers/kastijder-s-t.png"
+thumbnailImage: "/images/covers/kastijder-s-t-thumb.png"
 actualPrice: $10.00 - 27.00
 inStock: true
 ---

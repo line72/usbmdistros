@@ -7,8 +7,8 @@ album: "Turso ‎– Storm Over Isengard"
 categories:
     - Vinyl
 images:
-    - /images/covers/iku-turso_‎–_storm_over_isengard.jpg
-thumbnailImage: /images/covers/iku-turso_‎–_storm_over_isengard-thumb.jpg
+    - "/images/covers/iku-turso_‎–_storm_over_isengard.jpg"
+thumbnailImage: "/images/covers/iku-turso_‎–_storm_over_isengard-thumb.jpg"
 actualPrice: $23.00
 inStock: true
 ---

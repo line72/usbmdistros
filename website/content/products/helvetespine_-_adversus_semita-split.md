@@ -7,8 +7,8 @@ album: "Split"
 categories:
     - Tape
 images:
-    - /images/covers/helvetespine_-_adversus_semita-split.jpg
-thumbnailImage: /images/covers/helvetespine_-_adversus_semita-split-thumb.jpg
+    - "/images/covers/helvetespine_-_adversus_semita-split.jpg"
+thumbnailImage: "/images/covers/helvetespine_-_adversus_semita-split-thumb.jpg"
 actualPrice: $9.00
 inStock: true
 ---

@@ -7,8 +7,8 @@ album: "Lost Empyrean"
 categories:
     - CD
 images:
-    - /images/covers/dirge-lost_empyrean.jpg
-thumbnailImage: /images/covers/dirge-lost_empyrean-thumb.jpg
+    - "/images/covers/dirge-lost_empyrean.jpg"
+thumbnailImage: "/images/covers/dirge-lost_empyrean-thumb.jpg"
 actualPrice: $10.99
 inStock: true
 ---

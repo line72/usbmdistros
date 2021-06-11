@@ -7,8 +7,8 @@ album: "Split"
 categories:
     - Vinyl
 images:
-    - /images/covers/grundhyrde_-_klagesturm-split.jpg
-thumbnailImage: /images/covers/grundhyrde_-_klagesturm-split-thumb.jpg
+    - "/images/covers/grundhyrde_-_klagesturm-split.jpg"
+thumbnailImage: "/images/covers/grundhyrde_-_klagesturm-split-thumb.jpg"
 actualPrice: $28.00
 inStock: true
 ---

@@ -7,8 +7,8 @@ album: "Split"
 categories:
     - Vinyl
 images:
-    - /images/covers/trono_além_morte_-_vetala-split.jpg
-thumbnailImage: /images/covers/trono_além_morte_-_vetala-split-thumb.jpg
+    - "/images/covers/trono_além_morte_-_vetala-split.jpg"
+thumbnailImage: "/images/covers/trono_além_morte_-_vetala-split-thumb.jpg"
 actualPrice: $22.00
 inStock: true
 ---

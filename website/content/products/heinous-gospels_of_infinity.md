@@ -7,8 +7,8 @@ album: "Gospels of Infinity"
 categories:
     - CD
 images:
-    - /images/covers/heinous-gospels_of_infinity.png
-thumbnailImage: /images/covers/heinous-gospels_of_infinity-thumb.png
+    - "/images/covers/heinous-gospels_of_infinity.png"
+thumbnailImage: "/images/covers/heinous-gospels_of_infinity-thumb.png"
 actualPrice: $13.00
 inStock: true
 ---

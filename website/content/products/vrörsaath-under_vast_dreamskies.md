@@ -8,8 +8,8 @@ categories:
     - Vinyl
     - CD
 images:
-    - /images/covers/vrörsaath-under_vast_dreamskies.jpg
-thumbnailImage: /images/covers/vrörsaath-under_vast_dreamskies-thumb.jpg
+    - "/images/covers/vrörsaath-under_vast_dreamskies.jpg"
+thumbnailImage: "/images/covers/vrörsaath-under_vast_dreamskies-thumb.jpg"
 actualPrice: $13.00 - 25.00
 inStock: true
 ---

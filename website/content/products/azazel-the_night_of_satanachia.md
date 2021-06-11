@@ -7,8 +7,8 @@ album: "The Night of Satanachia"
 categories:
     - CD
 images:
-    - /images/covers/azazel-the_night_of_satanachia.jpg
-thumbnailImage: /images/covers/azazel-the_night_of_satanachia-thumb.jpg
+    - "/images/covers/azazel-the_night_of_satanachia.jpg"
+thumbnailImage: "/images/covers/azazel-the_night_of_satanachia-thumb.jpg"
 actualPrice: $15.00
 inStock: true
 ---

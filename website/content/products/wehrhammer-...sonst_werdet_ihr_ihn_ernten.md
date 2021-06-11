@@ -7,8 +7,8 @@ album: "...sonst werdet ihr ihn ernten"
 categories:
     - Vinyl
 images:
-    - /images/covers/wehrhammer-...sonst_werdet_ihr_ihn_ernten.jpg
-thumbnailImage: /images/covers/wehrhammer-...sonst_werdet_ihr_ihn_ernten-thumb.jpg
+    - "/images/covers/wehrhammer-...sonst_werdet_ihr_ihn_ernten.jpg"
+thumbnailImage: "/images/covers/wehrhammer-...sonst_werdet_ihr_ihn_ernten-thumb.jpg"
 actualPrice: $27.00
 inStock: true
 ---

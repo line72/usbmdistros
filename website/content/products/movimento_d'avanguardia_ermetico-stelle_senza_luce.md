@@ -7,8 +7,8 @@ album: "Stelle Senza Luce"
 categories:
     - Vinyl
 images:
-    - /images/covers/movimento_d'avanguardia_ermetico-stelle_senza_luce.jpg
-thumbnailImage: /images/covers/movimento_d'avanguardia_ermetico-stelle_senza_luce-thumb.jpg
+    - "/images/covers/movimento_d'avanguardia_ermetico-stelle_senza_luce.jpg"
+thumbnailImage: "/images/covers/movimento_d'avanguardia_ermetico-stelle_senza_luce-thumb.jpg"
 actualPrice: $30.00
 inStock: true
 ---

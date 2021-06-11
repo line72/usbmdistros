@@ -7,8 +7,8 @@ album: "The Tunnels"
 categories:
     - CD
 images:
-    - /images/covers/terra_tenebrosa-the_tunnels.jpg
-thumbnailImage: /images/covers/terra_tenebrosa-the_tunnels-thumb.jpg
+    - "/images/covers/terra_tenebrosa-the_tunnels.jpg"
+thumbnailImage: "/images/covers/terra_tenebrosa-the_tunnels-thumb.jpg"
 actualPrice: $3.00
 inStock: true
 ---

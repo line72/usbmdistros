@@ -7,8 +7,8 @@ album: "Synagoga Satanæ"
 categories:
     - CD
 images:
-    - /images/covers/krüel_kömmando-synagoga_satanæ.jpg
-thumbnailImage: /images/covers/krüel_kömmando-synagoga_satanæ-thumb.jpg
+    - "/images/covers/krüel_kömmando-synagoga_satanæ.jpg"
+thumbnailImage: "/images/covers/krüel_kömmando-synagoga_satanæ-thumb.jpg"
 actualPrice: $10.00
 inStock: true
 ---

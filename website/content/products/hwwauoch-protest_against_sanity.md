@@ -7,8 +7,8 @@ album: "Protest Against Sanity"
 categories:
     - Vinyl
 images:
-    - /images/covers/hwwauoch-protest_against_sanity.jpg
-thumbnailImage: /images/covers/hwwauoch-protest_against_sanity-thumb.jpg
+    - "/images/covers/hwwauoch-protest_against_sanity.jpg"
+thumbnailImage: "/images/covers/hwwauoch-protest_against_sanity-thumb.jpg"
 actualPrice: $23.00
 inStock: true
 ---

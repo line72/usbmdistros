@@ -8,9 +8,9 @@ categories:
     - Vinyl
     - Tape
 images:
-    - /images/covers/black_vice-the_alchemist's_vision.png
-thumbnailImage: /images/covers/black_vice-the_alchemist's_vision-thumb.png
-actualPrice: $17.00 - 9.00
+    - "/images/covers/black_vice-the_alchemist's_vision.png"
+thumbnailImage: "/images/covers/black_vice-the_alchemist's_vision-thumb.png"
+actualPrice: $9.00 - 17.00
 inStock: true
 ---
 

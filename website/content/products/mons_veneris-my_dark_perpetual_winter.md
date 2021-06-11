@@ -7,8 +7,8 @@ album: "My Dark Perpetual Winter"
 categories:
     - Vinyl
 images:
-    - /images/covers/mons_veneris-my_dark_perpetual_winter.png
-thumbnailImage: /images/covers/mons_veneris-my_dark_perpetual_winter-thumb.png
+    - "/images/covers/mons_veneris-my_dark_perpetual_winter.png"
+thumbnailImage: "/images/covers/mons_veneris-my_dark_perpetual_winter-thumb.png"
 actualPrice: $30.00
 inStock: true
 ---

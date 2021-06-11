@@ -7,8 +7,8 @@ album: "The Baneful Choir"
 categories:
     - Vinyl
 images:
-    - /images/covers/teitanblood-the_baneful_choir.jpg
-thumbnailImage: /images/covers/teitanblood-the_baneful_choir-thumb.jpg
+    - "/images/covers/teitanblood-the_baneful_choir.jpg"
+thumbnailImage: "/images/covers/teitanblood-the_baneful_choir-thumb.jpg"
 actualPrice: $23.00
 inStock: true
 ---

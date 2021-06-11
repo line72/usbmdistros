@@ -7,8 +7,8 @@ album: "De Val"
 categories:
     - CD
 images:
-    - /images/covers/verwoed-de_val.jpg
-thumbnailImage: /images/covers/verwoed-de_val-thumb.jpg
+    - "/images/covers/verwoed-de_val.jpg"
+thumbnailImage: "/images/covers/verwoed-de_val-thumb.jpg"
 actualPrice: $12.00
 inStock: true
 ---

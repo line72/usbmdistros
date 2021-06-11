@@ -5,17 +5,17 @@ draft: false
 artist: "Forhist"
 album: "Forhist"
 categories:
-    - CD
     - Vinyl
+    - CD
 images:
-    - /images/covers/forhist-forhist.jpg
-thumbnailImage: /images/covers/forhist-forhist-thumb.jpg
-actualPrice: $22.99 - 9.99
+    - "/images/covers/forhist-forhist.jpg"
+thumbnailImage: "/images/covers/forhist-forhist-thumb.jpg"
+actualPrice: $9.99 - 24.99
 inStock: true
 ---
 
-## CD
-* Purchase from [Debemur Morti](https://debemurmorti.aisamerch.com/item/96245) for $9.99
 ## Vinyl
 * Purchase from [Debemur Morti](https://debemurmorti.aisamerch.com/item/96244) for $22.99
-* Purchase from [Debemur Morti](https://debemurmorti.aisamerch.com/item/98668) for $24.99
+* Purchase from [Debemur Morti](https://debemurmorti.aisamerch.com/item/98668) for $24.99 :: black/white merge
+## CD
+* Purchase from [Debemur Morti](https://debemurmorti.aisamerch.com/item/96245) for $9.99

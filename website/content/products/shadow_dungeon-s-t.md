@@ -7,8 +7,8 @@ album: "s/t"
 categories:
     - CD
 images:
-    - /images/covers/shadow_dungeon-s-t.jpg
-thumbnailImage: /images/covers/shadow_dungeon-s-t-thumb.jpg
+    - "/images/covers/shadow_dungeon-s-t.jpg"
+thumbnailImage: "/images/covers/shadow_dungeon-s-t-thumb.jpg"
 actualPrice: $15.00
 inStock: true
 ---

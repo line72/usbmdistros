@@ -7,8 +7,8 @@ album: "Endless Trails"
 categories:
     - Tape
 images:
-    - /images/covers/hollow_woods-endless_trails.jpg
-thumbnailImage: /images/covers/hollow_woods-endless_trails-thumb.jpg
+    - "/images/covers/hollow_woods-endless_trails.jpg"
+thumbnailImage: "/images/covers/hollow_woods-endless_trails-thumb.jpg"
 actualPrice: $9.00
 inStock: true
 ---

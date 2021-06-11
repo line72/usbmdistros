@@ -7,8 +7,8 @@ album: "Utter Nihil Worship"
 categories:
     - CD
 images:
-    - /images/covers/sad-utter_nihil_worship.jpg
-thumbnailImage: /images/covers/sad-utter_nihil_worship-thumb.jpg
+    - "/images/covers/sad-utter_nihil_worship.jpg"
+thumbnailImage: "/images/covers/sad-utter_nihil_worship-thumb.jpg"
 actualPrice: $8.00
 inStock: true
 ---

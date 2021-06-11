@@ -7,8 +7,8 @@ album: "En Ergo Einai"
 categories:
     - Vinyl
 images:
-    - /images/covers/aara-en_ergo_einai.png
-thumbnailImage: /images/covers/aara-en_ergo_einai-thumb.png
+    - "/images/covers/aara-en_ergo_einai.png"
+thumbnailImage: "/images/covers/aara-en_ergo_einai-thumb.png"
 actualPrice: $24.99
 inStock: true
 ---

@@ -7,8 +7,8 @@ album: "Wisdom Through Agony Into Illumination and Lunacy Vol. II"
 categories:
     - Vinyl
 images:
-    - /images/covers/w.a.i.l.-wisdom_through_agony_into_illumination_and_lunacy_vol._ii.jpg
-thumbnailImage: /images/covers/w.a.i.l.-wisdom_through_agony_into_illumination_and_lunacy_vol._ii-thumb.jpg
+    - "/images/covers/w.a.i.l.-wisdom_through_agony_into_illumination_and_lunacy_vol._ii.jpg"
+thumbnailImage: "/images/covers/w.a.i.l.-wisdom_through_agony_into_illumination_and_lunacy_vol._ii-thumb.jpg"
 actualPrice: $30.00
 inStock: true
 ---

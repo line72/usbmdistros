@@ -7,8 +7,8 @@ album: "Church of Bones"
 categories:
     - Vinyl
 images:
-    - /images/covers/pa_vesh_en-church_of_bones.jpg
-thumbnailImage: /images/covers/pa_vesh_en-church_of_bones-thumb.jpg
+    - "/images/covers/pa_vesh_en-church_of_bones.jpg"
+thumbnailImage: "/images/covers/pa_vesh_en-church_of_bones-thumb.jpg"
 actualPrice: $17.00
 inStock: true
 ---

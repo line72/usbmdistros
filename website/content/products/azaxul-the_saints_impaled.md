@@ -7,8 +7,8 @@ album: "The Saints Impaled"
 categories:
     - CD
 images:
-    - /images/covers/azaxul-the_saints_impaled.jpg
-thumbnailImage: /images/covers/azaxul-the_saints_impaled-thumb.jpg
+    - "/images/covers/azaxul-the_saints_impaled.jpg"
+thumbnailImage: "/images/covers/azaxul-the_saints_impaled-thumb.jpg"
 actualPrice: $13.00
 inStock: true
 ---

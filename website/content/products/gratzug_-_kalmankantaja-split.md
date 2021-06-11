@@ -7,8 +7,8 @@ album: "Split"
 categories:
     - CD
 images:
-    - /images/covers/gratzug_-_kalmankantaja-split.jpg
-thumbnailImage: /images/covers/gratzug_-_kalmankantaja-split-thumb.jpg
+    - "/images/covers/gratzug_-_kalmankantaja-split.jpg"
+thumbnailImage: "/images/covers/gratzug_-_kalmankantaja-split-thumb.jpg"
 actualPrice: $13.00
 inStock: true
 ---

@@ -7,8 +7,8 @@ album: "Ter Agios Numini"
 categories:
     - Vinyl
 images:
-    - /images/covers/reverorum_ib_malacht-ter_agios_numini.jpg
-thumbnailImage: /images/covers/reverorum_ib_malacht-ter_agios_numini-thumb.jpg
+    - "/images/covers/reverorum_ib_malacht-ter_agios_numini.jpg"
+thumbnailImage: "/images/covers/reverorum_ib_malacht-ter_agios_numini-thumb.jpg"
 actualPrice: $17.00
 inStock: true
 ---

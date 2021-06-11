@@ -7,8 +7,8 @@ album: "Manifestations of Sacrificial Macrocosms"
 categories:
     - Vinyl
 images:
-    - /images/covers/cosmic_void_ritual_-_fetid_zombie-manifestations_of_sacrificial_macrocosms.png
-thumbnailImage: /images/covers/cosmic_void_ritual_-_fetid_zombie-manifestations_of_sacrificial_macrocosms-thumb.png
+    - "/images/covers/cosmic_void_ritual_-_fetid_zombie-manifestations_of_sacrificial_macrocosms.png"
+thumbnailImage: "/images/covers/cosmic_void_ritual_-_fetid_zombie-manifestations_of_sacrificial_macrocosms-thumb.png"
 actualPrice: $10.00
 inStock: true
 ---

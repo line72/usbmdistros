@@ -7,8 +7,8 @@ album: "Om Kosmos och de Tolv Järtekn"
 categories:
     - CD
 images:
-    - /images/covers/wagner_ödegård-om_kosmos_och_de_tolv järtekn.jpg
-thumbnailImage: /images/covers/wagner_ödegård-om_kosmos_och_de_tolv järtekn-thumb.jpg
+    - "/images/covers/wagner_ödegård-om_kosmos_och_de_tolv järtekn.jpg"
+thumbnailImage: "/images/covers/wagner_ödegård-om_kosmos_och_de_tolv järtekn-thumb.jpg"
 actualPrice: $14.00
 inStock: true
 ---

@@ -7,8 +7,8 @@ album: "The Whole of the Law"
 categories:
     - Vinyl
 images:
-    - /images/covers/anaal_nathrakh-the_whole_of_the_law.jpg
-thumbnailImage: /images/covers/anaal_nathrakh-the_whole_of_the_law-thumb.jpg
+    - "/images/covers/anaal_nathrakh-the_whole_of_the_law.jpg"
+thumbnailImage: "/images/covers/anaal_nathrakh-the_whole_of_the_law-thumb.jpg"
 actualPrice: $22.00
 inStock: true
 ---

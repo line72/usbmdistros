@@ -7,8 +7,8 @@ album: "Lenience"
 categories:
     - Vinyl
 images:
-    - /images/covers/det_eviga_leendet-lenience.jpg
-thumbnailImage: /images/covers/det_eviga_leendet-lenience-thumb.jpg
+    - "/images/covers/det_eviga_leendet-lenience.jpg"
+thumbnailImage: "/images/covers/det_eviga_leendet-lenience-thumb.jpg"
 actualPrice: $20.00
 inStock: true
 ---

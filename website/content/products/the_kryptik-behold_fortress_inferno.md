@@ -7,8 +7,8 @@ album: "Behold Fortress Inferno"
 categories:
     - Vinyl
 images:
-    - /images/covers/the_kryptik-behold_fortress_inferno.png
-thumbnailImage: /images/covers/the_kryptik-behold_fortress_inferno-thumb.png
+    - "/images/covers/the_kryptik-behold_fortress_inferno.png"
+thumbnailImage: "/images/covers/the_kryptik-behold_fortress_inferno-thumb.png"
 actualPrice: $24.00
 inStock: true
 ---

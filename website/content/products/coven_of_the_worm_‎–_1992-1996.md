@@ -7,8 +7,8 @@ album: "1996"
 categories:
     - Vinyl
 images:
-    - /images/covers/coven_of_the_worm_‎–_1992-1996.png
-thumbnailImage: /images/covers/coven_of_the_worm_‎–_1992-1996-thumb.png
+    - "/images/covers/coven_of_the_worm_‎–_1992-1996.png"
+thumbnailImage: "/images/covers/coven_of_the_worm_‎–_1992-1996-thumb.png"
 actualPrice: $20.00
 inStock: true
 ---

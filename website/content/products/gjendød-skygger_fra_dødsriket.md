@@ -7,8 +7,8 @@ album: "Skygger fra dødsriket"
 categories:
     - Vinyl
 images:
-    - /images/covers/gjendød-skygger_fra_dødsriket.jpg
-thumbnailImage: /images/covers/gjendød-skygger_fra_dødsriket-thumb.jpg
+    - "/images/covers/gjendød-skygger_fra_dødsriket.jpg"
+thumbnailImage: "/images/covers/gjendød-skygger_fra_dødsriket-thumb.jpg"
 actualPrice: $25.00
 inStock: true
 ---

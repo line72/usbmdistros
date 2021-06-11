@@ -8,8 +8,8 @@ categories:
     - Vinyl
     - CD
 images:
-    - /images/covers/wampyric_rites-demo_iv.jpg
-thumbnailImage: /images/covers/wampyric_rites-demo_iv-thumb.jpg
+    - "/images/covers/wampyric_rites-demo_iv.jpg"
+thumbnailImage: "/images/covers/wampyric_rites-demo_iv-thumb.jpg"
 actualPrice: $15.00 - 35.00
 inStock: true
 ---

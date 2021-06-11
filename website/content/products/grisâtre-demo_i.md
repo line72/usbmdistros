@@ -7,8 +7,8 @@ album: "Demo I"
 categories:
     - Tape
 images:
-    - /images/covers/grisâtre-demo_i.png
-thumbnailImage: /images/covers/grisâtre-demo_i-thumb.png
+    - "/images/covers/grisâtre-demo_i.png"
+thumbnailImage: "/images/covers/grisâtre-demo_i-thumb.png"
 actualPrice: $7.00
 inStock: true
 ---

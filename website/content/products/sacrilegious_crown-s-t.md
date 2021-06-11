@@ -7,8 +7,8 @@ album: "s/t"
 categories:
     - Vinyl
 images:
-    - /images/covers/sacrilegious_crown-s-t.jpg
-thumbnailImage: /images/covers/sacrilegious_crown-s-t-thumb.jpg
+    - "/images/covers/sacrilegious_crown-s-t.jpg"
+thumbnailImage: "/images/covers/sacrilegious_crown-s-t-thumb.jpg"
 actualPrice: $23.00
 inStock: true
 ---

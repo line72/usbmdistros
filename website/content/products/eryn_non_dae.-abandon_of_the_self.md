@@ -7,8 +7,8 @@ album: "Abandon Of The Self"
 categories:
     - Vinyl
 images:
-    - /images/covers/eryn_non_dae.-abandon_of_the_self.jpg
-thumbnailImage: /images/covers/eryn_non_dae.-abandon_of_the_self-thumb.jpg
+    - "/images/covers/eryn_non_dae.-abandon_of_the_self.jpg"
+thumbnailImage: "/images/covers/eryn_non_dae.-abandon_of_the_self-thumb.jpg"
 actualPrice: $10.99
 inStock: true
 ---

@@ -7,8 +7,8 @@ album: "Veren Äänet"
 categories:
     - Vinyl
 images:
-    - /images/covers/sielunvihollinen-veren_äänet.png
-thumbnailImage: /images/covers/sielunvihollinen-veren_äänet-thumb.png
+    - "/images/covers/sielunvihollinen-veren_äänet.png"
+thumbnailImage: "/images/covers/sielunvihollinen-veren_äänet-thumb.png"
 actualPrice: $25.00
 inStock: true
 ---

@@ -7,8 +7,8 @@ album: "Death Clan OD"
 categories:
     - Vinyl
 images:
-    - /images/covers/serpent_noir-death_clan_od.jpg
-thumbnailImage: /images/covers/serpent_noir-death_clan_od-thumb.jpg
+    - "/images/covers/serpent_noir-death_clan_od.jpg"
+thumbnailImage: "/images/covers/serpent_noir-death_clan_od-thumb.jpg"
 actualPrice: $21.00
 inStock: true
 ---

@@ -7,8 +7,8 @@ album: "Devotion"
 categories:
     - CD
 images:
-    - /images/covers/phlegein-devotion.jpg
-thumbnailImage: /images/covers/phlegein-devotion-thumb.jpg
+    - "/images/covers/phlegein-devotion.jpg"
+thumbnailImage: "/images/covers/phlegein-devotion-thumb.jpg"
 actualPrice: $12.00
 inStock: true
 ---

@@ -7,8 +7,8 @@ album: "Voice of Opprobium"
 categories:
     - Vinyl
 images:
-    - /images/covers/runespell-voice_of_opprobium.jpg
-thumbnailImage: /images/covers/runespell-voice_of_opprobium-thumb.jpg
+    - "/images/covers/runespell-voice_of_opprobium.jpg"
+thumbnailImage: "/images/covers/runespell-voice_of_opprobium-thumb.jpg"
 actualPrice: $20.00
 inStock: true
 ---

@@ -7,8 +7,8 @@ album: "Split"
 categories:
     - Vinyl
 images:
-    - /images/covers/adytum_-_ordem_satânica-split.jpg
-thumbnailImage: /images/covers/adytum_-_ordem_satânica-split-thumb.jpg
+    - "/images/covers/adytum_-_ordem_satânica-split.jpg"
+thumbnailImage: "/images/covers/adytum_-_ordem_satânica-split-thumb.jpg"
 actualPrice: $22.00
 inStock: true
 ---

@@ -7,8 +7,8 @@ album: "Below the Landsker Line"
 categories:
     - CD
 images:
-    - /images/covers/revenant_marquis-below_the_landsker_line.jpg
-thumbnailImage: /images/covers/revenant_marquis-below_the_landsker_line-thumb.jpg
+    - "/images/covers/revenant_marquis-below_the_landsker_line.jpg"
+thumbnailImage: "/images/covers/revenant_marquis-below_the_landsker_line-thumb.jpg"
 actualPrice: $15.00
 inStock: true
 ---

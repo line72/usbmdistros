@@ -7,8 +7,8 @@ album: "Hyldest til Trolddommens Flamme / Demo Compilation"
 categories:
     - CD
 images:
-    - /images/covers/múspellzheimr-hyldest_til_trolddommens_flamme_-_demo_compilation.jpg
-thumbnailImage: /images/covers/múspellzheimr-hyldest_til_trolddommens_flamme_-_demo_compilation-thumb.jpg
+    - "/images/covers/múspellzheimr-hyldest_til_trolddommens_flamme_-_demo_compilation.jpg"
+thumbnailImage: "/images/covers/múspellzheimr-hyldest_til_trolddommens_flamme_-_demo_compilation-thumb.jpg"
 actualPrice: $14.00
 inStock: true
 ---

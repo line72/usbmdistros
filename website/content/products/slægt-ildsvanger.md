@@ -7,8 +7,8 @@ album: "Ildsvanger"
 categories:
     - CD
 images:
-    - /images/covers/slægt-ildsvanger.jpg
-thumbnailImage: /images/covers/slægt-ildsvanger-thumb.jpg
+    - "/images/covers/slægt-ildsvanger.jpg"
+thumbnailImage: "/images/covers/slægt-ildsvanger-thumb.jpg"
 actualPrice: $11.00
 inStock: true
 ---

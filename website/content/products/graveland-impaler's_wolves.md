@@ -7,8 +7,8 @@ album: "Impaler's Wolves"
 categories:
     - CD
 images:
-    - /images/covers/graveland-impaler's_wolves.png
-thumbnailImage: /images/covers/graveland-impaler's_wolves-thumb.png
+    - "/images/covers/graveland-impaler's_wolves.png"
+thumbnailImage: "/images/covers/graveland-impaler's_wolves-thumb.png"
 actualPrice: $15.00
 inStock: true
 ---

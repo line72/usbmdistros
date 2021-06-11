@@ -8,8 +8,8 @@ categories:
     - Vinyl
     - CD
 images:
-    - /images/covers/wulkanaz-haglanaudizeisaz.jpg
-thumbnailImage: /images/covers/wulkanaz-haglanaudizeisaz-thumb.jpg
+    - "/images/covers/wulkanaz-haglanaudizeisaz.jpg"
+thumbnailImage: "/images/covers/wulkanaz-haglanaudizeisaz-thumb.jpg"
 actualPrice: $13.00 - 27.00
 inStock: true
 ---

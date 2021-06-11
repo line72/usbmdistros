@@ -7,8 +7,8 @@ album: "Sotpuke A5 Digibook"
 categories:
     - CD
 images:
-    - /images/covers/myling-sotpuke_a5_digibook.png
-thumbnailImage: /images/covers/myling-sotpuke_a5_digibook-thumb.png
+    - "/images/covers/myling-sotpuke_a5_digibook.png"
+thumbnailImage: "/images/covers/myling-sotpuke_a5_digibook-thumb.png"
 actualPrice: $15.00
 inStock: true
 ---

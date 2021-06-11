@@ -7,8 +7,8 @@ album: "Perished Summonings"
 categories:
     - CD
 images:
-    - /images/covers/geheimnisvoll-perished_summonings.png
-thumbnailImage: /images/covers/geheimnisvoll-perished_summonings-thumb.png
+    - "/images/covers/geheimnisvoll-perished_summonings.png"
+thumbnailImage: "/images/covers/geheimnisvoll-perished_summonings-thumb.png"
 actualPrice: $15.00
 inStock: true
 ---

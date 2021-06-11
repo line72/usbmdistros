@@ -7,8 +7,8 @@ album: "Sacramentum Obscurus"
 categories:
     - CD
 images:
-    - /images/covers/cultus_profano-sacramentum_obscurus.png
-thumbnailImage: /images/covers/cultus_profano-sacramentum_obscurus-thumb.png
+    - "/images/covers/cultus_profano-sacramentum_obscurus.png"
+thumbnailImage: "/images/covers/cultus_profano-sacramentum_obscurus-thumb.png"
 actualPrice: $4.99
 inStock: true
 ---

@@ -7,8 +7,8 @@ album: "Antelux"
 categories:
     - CD
 images:
-    - /images/covers/mahr-antelux.jpg
-thumbnailImage: /images/covers/mahr-antelux-thumb.jpg
+    - "/images/covers/mahr-antelux.jpg"
+thumbnailImage: "/images/covers/mahr-antelux-thumb.jpg"
 actualPrice: $13.00
 inStock: true
 ---

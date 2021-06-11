@@ -7,8 +7,8 @@ album: "The Purging"
 categories:
     - CD
 images:
-    - /images/covers/terra_tenebrosa-the_purging.jpg
-thumbnailImage: /images/covers/terra_tenebrosa-the_purging-thumb.jpg
+    - "/images/covers/terra_tenebrosa-the_purging.jpg"
+thumbnailImage: "/images/covers/terra_tenebrosa-the_purging-thumb.jpg"
 actualPrice: $3.00
 inStock: true
 ---

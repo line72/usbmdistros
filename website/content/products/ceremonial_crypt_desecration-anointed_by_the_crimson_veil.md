@@ -7,8 +7,8 @@ album: "Anointed by the Crimson Veil"
 categories:
     - Vinyl
 images:
-    - /images/covers/ceremonial_crypt_desecration-anointed_by_the_crimson_veil.jpg
-thumbnailImage: /images/covers/ceremonial_crypt_desecration-anointed_by_the_crimson_veil-thumb.jpg
+    - "/images/covers/ceremonial_crypt_desecration-anointed_by_the_crimson_veil.jpg"
+thumbnailImage: "/images/covers/ceremonial_crypt_desecration-anointed_by_the_crimson_veil-thumb.jpg"
 actualPrice: $25.00
 inStock: true
 ---

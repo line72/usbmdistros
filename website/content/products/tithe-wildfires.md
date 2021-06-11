@@ -7,8 +7,8 @@ album: "Wildfires"
 categories:
     - Tape
 images:
-    - /images/covers/tithe-wildfires.png
-thumbnailImage: /images/covers/tithe-wildfires-thumb.png
+    - "/images/covers/tithe-wildfires.png"
+thumbnailImage: "/images/covers/tithe-wildfires-thumb.png"
 actualPrice: $9.00
 inStock: true
 ---

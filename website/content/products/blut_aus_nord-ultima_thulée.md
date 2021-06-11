@@ -7,8 +7,8 @@ album: "Ultima Thulée"
 categories:
     - Tape
 images:
-    - /images/covers/blut_aus_nord-ultima_thulée.jpg
-thumbnailImage: /images/covers/blut_aus_nord-ultima_thulée-thumb.jpg
+    - "/images/covers/blut_aus_nord-ultima_thulée.jpg"
+thumbnailImage: "/images/covers/blut_aus_nord-ultima_thulée-thumb.jpg"
 actualPrice: $13.99
 inStock: true
 ---

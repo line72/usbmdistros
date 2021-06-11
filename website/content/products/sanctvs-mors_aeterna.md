@@ -7,8 +7,8 @@ album: "Mors Aeterna"
 categories:
     - Tape
 images:
-    - /images/covers/sanctvs-mors_aeterna.jpg
-thumbnailImage: /images/covers/sanctvs-mors_aeterna-thumb.jpg
+    - "/images/covers/sanctvs-mors_aeterna.jpg"
+thumbnailImage: "/images/covers/sanctvs-mors_aeterna-thumb.jpg"
 actualPrice: $9.00
 inStock: true
 ---

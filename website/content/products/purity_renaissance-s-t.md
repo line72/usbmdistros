@@ -7,8 +7,8 @@ album: "s/t"
 categories:
     - CD
 images:
-    - /images/covers/purity_renaissance-s-t.jpg
-thumbnailImage: /images/covers/purity_renaissance-s-t-thumb.jpg
+    - "/images/covers/purity_renaissance-s-t.jpg"
+thumbnailImage: "/images/covers/purity_renaissance-s-t-thumb.jpg"
 actualPrice: $11.00
 inStock: true
 ---

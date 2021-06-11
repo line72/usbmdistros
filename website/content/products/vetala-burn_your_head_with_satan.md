@@ -7,8 +7,8 @@ album: "Burn Your Head with Satan"
 categories:
     - CD
 images:
-    - /images/covers/vetala-burn_your_head_with_satan.jpg
-thumbnailImage: /images/covers/vetala-burn_your_head_with_satan-thumb.jpg
+    - "/images/covers/vetala-burn_your_head_with_satan.jpg"
+thumbnailImage: "/images/covers/vetala-burn_your_head_with_satan-thumb.jpg"
 actualPrice: $13.00
 inStock: true
 ---

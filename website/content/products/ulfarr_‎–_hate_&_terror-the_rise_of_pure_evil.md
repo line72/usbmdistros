@@ -7,8 +7,8 @@ album: "The Rise of Pure Evil"
 categories:
     - Vinyl
 images:
-    - /images/covers/ulfarr_‎–_hate_&_terror-the_rise_of_pure_evil.jpg
-thumbnailImage: /images/covers/ulfarr_‎–_hate_&_terror-the_rise_of_pure_evil-thumb.jpg
+    - "/images/covers/ulfarr_‎–_hate_&_terror-the_rise_of_pure_evil.jpg"
+thumbnailImage: "/images/covers/ulfarr_‎–_hate_&_terror-the_rise_of_pure_evil-thumb.jpg"
 actualPrice: $25.00
 inStock: true
 ---

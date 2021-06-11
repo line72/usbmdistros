@@ -7,8 +7,8 @@ album: "Galactic Portals of the 7 Infernal Suns"
 categories:
     - Vinyl
 images:
-    - /images/covers/raio_negro-galactic_portals_of_the_7_infernal_suns.png
-thumbnailImage: /images/covers/raio_negro-galactic_portals_of_the_7_infernal_suns-thumb.png
+    - "/images/covers/raio_negro-galactic_portals_of_the_7_infernal_suns.png"
+thumbnailImage: "/images/covers/raio_negro-galactic_portals_of_the_7_infernal_suns-thumb.png"
 actualPrice: $27.00
 inStock: true
 ---

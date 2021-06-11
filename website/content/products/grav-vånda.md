@@ -7,8 +7,8 @@ album: "Vånda"
 categories:
     - CD
 images:
-    - /images/covers/grav-vånda.jpg
-thumbnailImage: /images/covers/grav-vånda-thumb.jpg
+    - "/images/covers/grav-vånda.jpg"
+thumbnailImage: "/images/covers/grav-vånda-thumb.jpg"
 actualPrice: $13.00
 inStock: true
 ---

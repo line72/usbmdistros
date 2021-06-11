@@ -7,8 +7,8 @@ album: "Bloody Aeon of Fullmoon Sacrifices"
 categories:
     - Vinyl
 images:
-    - /images/covers/ordo_sanguinis_noctis-bloody_aeon_of_fullmoon_sacrifices.png
-thumbnailImage: /images/covers/ordo_sanguinis_noctis-bloody_aeon_of_fullmoon_sacrifices-thumb.png
+    - "/images/covers/ordo_sanguinis_noctis-bloody_aeon_of_fullmoon_sacrifices.png"
+thumbnailImage: "/images/covers/ordo_sanguinis_noctis-bloody_aeon_of_fullmoon_sacrifices-thumb.png"
 actualPrice: $7.50
 inStock: true
 ---

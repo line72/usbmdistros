@@ -7,8 +7,8 @@ album: "Mainlining the Lugubrious"
 categories:
     - Vinyl
 images:
-    - /images/covers/murmur-mainlining_the_lugubrious.jpg
-thumbnailImage: /images/covers/murmur-mainlining_the_lugubrious-thumb.jpg
+    - "/images/covers/murmur-mainlining_the_lugubrious.jpg"
+thumbnailImage: "/images/covers/murmur-mainlining_the_lugubrious-thumb.jpg"
 actualPrice: $28.00
 inStock: true
 ---

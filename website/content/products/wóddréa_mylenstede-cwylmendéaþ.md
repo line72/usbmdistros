@@ -8,8 +8,8 @@ categories:
     - Vinyl
     - CD
 images:
-    - /images/covers/wóddréa_mylenstede-cwylmendéaþ.jpg
-thumbnailImage: /images/covers/wóddréa_mylenstede-cwylmendéaþ-thumb.jpg
+    - "/images/covers/wóddréa_mylenstede-cwylmendéaþ.jpg"
+thumbnailImage: "/images/covers/wóddréa_mylenstede-cwylmendéaþ-thumb.jpg"
 actualPrice: $15.00 - 25.00
 inStock: true
 ---

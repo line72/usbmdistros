@@ -7,8 +7,8 @@ album: "Knife Ritual / Dead Womb"
 categories:
     - Vinyl
 images:
-    - /images/covers/pa_vesh_en-knife_ritual_-_dead_womb.jpg
-thumbnailImage: /images/covers/pa_vesh_en-knife_ritual_-_dead_womb-thumb.jpg
+    - "/images/covers/pa_vesh_en-knife_ritual_-_dead_womb.jpg"
+thumbnailImage: "/images/covers/pa_vesh_en-knife_ritual_-_dead_womb-thumb.jpg"
 actualPrice: $17.00
 inStock: true
 ---

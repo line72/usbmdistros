@@ -7,8 +7,8 @@ album: "Invoco Domini Daemonium"
 categories:
     - CD
 images:
-    - /images/covers/summum-invoco_domini_daemonium.jpg
-thumbnailImage: /images/covers/summum-invoco_domini_daemonium-thumb.jpg
+    - "/images/covers/summum-invoco_domini_daemonium.jpg"
+thumbnailImage: "/images/covers/summum-invoco_domini_daemonium-thumb.jpg"
 actualPrice: $13.00
 inStock: true
 ---

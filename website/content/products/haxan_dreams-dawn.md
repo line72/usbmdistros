@@ -7,8 +7,8 @@ album: "Dawn"
 categories:
     - Vinyl
 images:
-    - /images/covers/haxan_dreams-dawn.jpg
-thumbnailImage: /images/covers/haxan_dreams-dawn-thumb.jpg
+    - "/images/covers/haxan_dreams-dawn.jpg"
+thumbnailImage: "/images/covers/haxan_dreams-dawn-thumb.jpg"
 actualPrice: $28.00
 inStock: true
 ---

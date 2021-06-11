@@ -7,8 +7,8 @@ album: "The Carpathian Plague"
 categories:
     - Vinyl
 images:
-    - /images/covers/orlok_-_wampyr_dungeon-the_carpathian_plague.jpg
-thumbnailImage: /images/covers/orlok_-_wampyr_dungeon-the_carpathian_plague-thumb.jpg
+    - "/images/covers/orlok_-_wampyr_dungeon-the_carpathian_plague.jpg"
+thumbnailImage: "/images/covers/orlok_-_wampyr_dungeon-the_carpathian_plague-thumb.jpg"
 actualPrice: $25.00
 inStock: true
 ---

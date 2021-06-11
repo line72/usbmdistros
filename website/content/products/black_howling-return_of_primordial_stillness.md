@@ -7,8 +7,8 @@ album: "Return of Primordial Stillness"
 categories:
     - CD
 images:
-    - /images/covers/black_howling-return_of_primordial_stillness.jpg
-thumbnailImage: /images/covers/black_howling-return_of_primordial_stillness-thumb.jpg
+    - "/images/covers/black_howling-return_of_primordial_stillness.jpg"
+thumbnailImage: "/images/covers/black_howling-return_of_primordial_stillness-thumb.jpg"
 actualPrice: $14.00
 inStock: true
 ---

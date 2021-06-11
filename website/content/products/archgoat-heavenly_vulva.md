@@ -7,11 +7,11 @@ album: "Heavenly Vulva"
 categories:
     - CD
 images:
-    - /images/covers/archgoat-heavenly_vulva.jpg
-thumbnailImage: /images/covers/archgoat-heavenly_vulva-thumb.jpg
+    - "/images/covers/archgoat-heavenly_vulva.jpg"
+thumbnailImage: "/images/covers/archgoat-heavenly_vulva-thumb.jpg"
 actualPrice: $6.66
 inStock: true
 ---
 
 ## CD
-* Purchase from [Debemur Morti](https://debemurmorti.aisamerch.com/item/74837) for $6.66
+* Purchase from [Debemur Morti](https://debemurmorti.aisamerch.com/item/74837) for $6.66 :: Christ's Last Rites

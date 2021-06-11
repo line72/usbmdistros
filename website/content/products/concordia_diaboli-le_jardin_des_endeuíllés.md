@@ -7,8 +7,8 @@ album: "Le Jardin des Endeuíllés"
 categories:
     - Tape
 images:
-    - /images/covers/concordia_diaboli-le_jardin_des_endeuíllés.jpg
-thumbnailImage: /images/covers/concordia_diaboli-le_jardin_des_endeuíllés-thumb.jpg
+    - "/images/covers/concordia_diaboli-le_jardin_des_endeuíllés.jpg"
+thumbnailImage: "/images/covers/concordia_diaboli-le_jardin_des_endeuíllés-thumb.jpg"
 actualPrice: $9.00
 inStock: true
 ---

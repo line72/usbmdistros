@@ -5,17 +5,17 @@ draft: false
 artist: "V/A"
 album: "Servants Of Chaos II"
 categories:
-    - CD
     - Vinyl
+    - CD
 images:
-    - /images/covers/v-a-servants_of_chaos_ii.jpg
-thumbnailImage: /images/covers/v-a-servants_of_chaos_ii-thumb.jpg
+    - "/images/covers/v-a-servants_of_chaos_ii.jpg"
+thumbnailImage: "/images/covers/v-a-servants_of_chaos_ii-thumb.jpg"
 actualPrice: $12.99 - 49.99
 inStock: true
 ---
 
+## Vinyl
+* Purchase from [Debemur Morti](https://debemurmorti.aisamerch.com/item/67782) for $49.99
+* Purchase from [Debemur Morti](https://debemurmorti.aisamerch.com/item/67783) for $29.99
 ## CD
 * Purchase from [Debemur Morti](https://debemurmorti.aisamerch.com/item/67784) for $12.99
-## Vinyl
-* Purchase from [Debemur Morti](https://debemurmorti.aisamerch.com/item/67783) for $29.99
-* Purchase from [Debemur Morti](https://debemurmorti.aisamerch.com/item/67782) for $49.99

@@ -7,8 +7,8 @@ album: "Synesthetic Pareidolia"
 categories:
     - Vinyl
 images:
-    - /images/covers/nornahetta-synesthetic_pareidolia.jpg
-thumbnailImage: /images/covers/nornahetta-synesthetic_pareidolia-thumb.jpg
+    - "/images/covers/nornahetta-synesthetic_pareidolia.jpg"
+thumbnailImage: "/images/covers/nornahetta-synesthetic_pareidolia-thumb.jpg"
 actualPrice: $22.00
 inStock: true
 ---

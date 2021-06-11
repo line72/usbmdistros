@@ -9,8 +9,8 @@ categories:
     - Tape
     - CD
 images:
-    - /images/covers/zalmoxis-a_nocturnal_emanation.jpg
-thumbnailImage: /images/covers/zalmoxis-a_nocturnal_emanation-thumb.jpg
+    - "/images/covers/zalmoxis-a_nocturnal_emanation.jpg"
+thumbnailImage: "/images/covers/zalmoxis-a_nocturnal_emanation-thumb.jpg"
 actualPrice: $10.00 - 22.00
 inStock: true
 ---

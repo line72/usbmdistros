@@ -7,8 +7,8 @@ album: "Arrows from Below"
 categories:
     - Vinyl
 images:
-    - /images/covers/israthoum-arrows_from_below.jpg
-thumbnailImage: /images/covers/israthoum-arrows_from_below-thumb.jpg
+    - "/images/covers/israthoum-arrows_from_below.jpg"
+thumbnailImage: "/images/covers/israthoum-arrows_from_below-thumb.jpg"
 actualPrice: $22.00
 inStock: true
 ---

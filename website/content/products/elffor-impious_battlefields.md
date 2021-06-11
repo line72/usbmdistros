@@ -7,8 +7,8 @@ album: "Impious Battlefields"
 categories:
     - CD
 images:
-    - /images/covers/elffor-impious_battlefields.jpg
-thumbnailImage: /images/covers/elffor-impious_battlefields-thumb.jpg
+    - "/images/covers/elffor-impious_battlefields.jpg"
+thumbnailImage: "/images/covers/elffor-impious_battlefields-thumb.jpg"
 actualPrice: $13.00
 inStock: true
 ---

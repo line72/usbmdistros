@@ -7,8 +7,8 @@ album: "s/t"
 categories:
     - Vinyl
 images:
-    - /images/covers/vananidr-s-t.png
-thumbnailImage: /images/covers/vananidr-s-t-thumb.png
+    - "/images/covers/vananidr-s-t.png"
+thumbnailImage: "/images/covers/vananidr-s-t-thumb.png"
 actualPrice: $21.00
 inStock: true
 ---

@@ -7,8 +7,8 @@ album: "Om Kosmos och de Tolv Järtekn"
 categories:
     - Vinyl
 images:
-    - /images/covers/wagner_ödegård-om_kosmos_och_de_tolv_järtekn.jpg
-thumbnailImage: /images/covers/wagner_ödegård-om_kosmos_och_de_tolv_järtekn-thumb.jpg
+    - "/images/covers/wagner_ödegård-om_kosmos_och_de_tolv_järtekn.jpg"
+thumbnailImage: "/images/covers/wagner_ödegård-om_kosmos_och_de_tolv_järtekn-thumb.jpg"
 actualPrice: $28.00
 inStock: true
 ---

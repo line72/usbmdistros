@@ -7,8 +7,8 @@ album: "Sky Over Giza"
 categories:
     - Vinyl
 images:
-    - /images/covers/la_morte_viene_dallo_spazio-sky_over_giza.jpg
-thumbnailImage: /images/covers/la_morte_viene_dallo_spazio-sky_over_giza-thumb.jpg
+    - "/images/covers/la_morte_viene_dallo_spazio-sky_over_giza.jpg"
+thumbnailImage: "/images/covers/la_morte_viene_dallo_spazio-sky_over_giza-thumb.jpg"
 actualPrice: $17.99
 inStock: true
 ---

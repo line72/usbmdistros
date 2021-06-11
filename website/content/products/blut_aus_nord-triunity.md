@@ -7,8 +7,8 @@ album: "Triunity"
 categories:
     - CD
 images:
-    - /images/covers/blut_aus_nord-triunity.jpg
-thumbnailImage: /images/covers/blut_aus_nord-triunity-thumb.jpg
+    - "/images/covers/blut_aus_nord-triunity.jpg"
+thumbnailImage: "/images/covers/blut_aus_nord-triunity-thumb.jpg"
 actualPrice: $9.99
 inStock: true
 ---

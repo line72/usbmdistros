@@ -7,8 +7,8 @@ album: "Whore Of Bethlehem"
 categories:
     - CD
 images:
-    - /images/covers/archgoat-whore_of_bethlehem.jpg
-thumbnailImage: /images/covers/archgoat-whore_of_bethlehem-thumb.jpg
+    - "/images/covers/archgoat-whore_of_bethlehem.jpg"
+thumbnailImage: "/images/covers/archgoat-whore_of_bethlehem-thumb.jpg"
 actualPrice: $9.99
 inStock: true
 ---

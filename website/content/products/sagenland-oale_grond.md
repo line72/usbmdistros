@@ -7,8 +7,8 @@ album: "Oale Grond"
 categories:
     - Vinyl
 images:
-    - /images/covers/sagenland-oale_grond.jpg
-thumbnailImage: /images/covers/sagenland-oale_grond-thumb.jpg
+    - "/images/covers/sagenland-oale_grond.jpg"
+thumbnailImage: "/images/covers/sagenland-oale_grond-thumb.jpg"
 actualPrice: $25.00
 inStock: true
 ---

@@ -7,8 +7,8 @@ album: "Mysterium Tremendum"
 categories:
     - CD
 images:
-    - /images/covers/nahtrunar-mysterium_tremendum.jpg
-thumbnailImage: /images/covers/nahtrunar-mysterium_tremendum-thumb.jpg
+    - "/images/covers/nahtrunar-mysterium_tremendum.jpg"
+thumbnailImage: "/images/covers/nahtrunar-mysterium_tremendum-thumb.jpg"
 actualPrice: $14.00
 inStock: true
 ---

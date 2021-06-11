@@ -8,9 +8,9 @@ categories:
     - Tape
     - CD
 images:
-    - /images/covers/cetus-khaosmos.png
-thumbnailImage: /images/covers/cetus-khaosmos-thumb.png
-actualPrice: $12.00 - 9.00
+    - "/images/covers/cetus-khaosmos.png"
+thumbnailImage: "/images/covers/cetus-khaosmos-thumb.png"
+actualPrice: $9.00 - 12.00
 inStock: true
 ---
 

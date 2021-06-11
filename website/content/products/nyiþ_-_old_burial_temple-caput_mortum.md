@@ -7,8 +7,8 @@ album: "Caput Mortum"
 categories:
     - Vinyl
 images:
-    - /images/covers/nyiþ_-_old_burial_temple-caput_mortum.jpg
-thumbnailImage: /images/covers/nyiþ_-_old_burial_temple-caput_mortum-thumb.jpg
+    - "/images/covers/nyiþ_-_old_burial_temple-caput_mortum.jpg"
+thumbnailImage: "/images/covers/nyiþ_-_old_burial_temple-caput_mortum-thumb.jpg"
 actualPrice: $23.00
 inStock: true
 ---

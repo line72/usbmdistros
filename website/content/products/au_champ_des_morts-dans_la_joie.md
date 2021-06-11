@@ -8,9 +8,9 @@ categories:
     - Vinyl
     - CD
 images:
-    - /images/covers/au_champ_des_morts-dans_la_joie.jpg
-thumbnailImage: /images/covers/au_champ_des_morts-dans_la_joie-thumb.jpg
-actualPrice: $30.99 - 9.99
+    - "/images/covers/au_champ_des_morts-dans_la_joie.jpg"
+thumbnailImage: "/images/covers/au_champ_des_morts-dans_la_joie-thumb.jpg"
+actualPrice: $9.99 - 30.99
 inStock: true
 ---
 

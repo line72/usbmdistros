@@ -7,8 +7,8 @@ album: "So fallen alle Tempel"
 categories:
     - Vinyl
 images:
-    - /images/covers/aara-so_fallen_alle_tempel.png
-thumbnailImage: /images/covers/aara-so_fallen_alle_tempel-thumb.png
+    - "/images/covers/aara-so_fallen_alle_tempel.png"
+thumbnailImage: "/images/covers/aara-so_fallen_alle_tempel-thumb.png"
 actualPrice: $24.99
 inStock: true
 ---

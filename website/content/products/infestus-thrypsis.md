@@ -5,16 +5,16 @@ draft: false
 artist: "Infestus"
 album: "Thrypsis"
 categories:
-    - CD
     - Vinyl
+    - CD
 images:
-    - /images/covers/infestus-thrypsis.jpg
-thumbnailImage: /images/covers/infestus-thrypsis-thumb.jpg
-actualPrice: $19.99 - 9.99
+    - "/images/covers/infestus-thrypsis.jpg"
+thumbnailImage: "/images/covers/infestus-thrypsis-thumb.jpg"
+actualPrice: $9.99 - 19.99
 inStock: true
 ---
 
-## CD
-* Purchase from [Debemur Morti](https://debemurmorti.aisamerch.com/item/72289) for $9.99
 ## Vinyl
 * Purchase from [Debemur Morti](https://debemurmorti.aisamerch.com/item/68181) for $19.99
+## CD
+* Purchase from [Debemur Morti](https://debemurmorti.aisamerch.com/item/72289) for $9.99

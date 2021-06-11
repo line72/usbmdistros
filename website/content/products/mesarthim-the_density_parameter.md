@@ -7,8 +7,8 @@ album: "The Density Parameter"
 categories:
     - Vinyl
 images:
-    - /images/covers/mesarthim-the_density_parameter.jpg
-thumbnailImage: /images/covers/mesarthim-the_density_parameter-thumb.jpg
+    - "/images/covers/mesarthim-the_density_parameter.jpg"
+thumbnailImage: "/images/covers/mesarthim-the_density_parameter-thumb.jpg"
 actualPrice: $21.00
 inStock: true
 ---

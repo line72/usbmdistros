@@ -7,8 +7,8 @@ album: "Pyrefication"
 categories:
     - Vinyl
 images:
-    - /images/covers/pa_vesh_en-pyrefication.jpg
-thumbnailImage: /images/covers/pa_vesh_en-pyrefication-thumb.jpg
+    - "/images/covers/pa_vesh_en-pyrefication.jpg"
+thumbnailImage: "/images/covers/pa_vesh_en-pyrefication-thumb.jpg"
 actualPrice: $18.00
 inStock: true
 ---

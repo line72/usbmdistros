@@ -7,8 +7,8 @@ album: "Anno MMXI"
 categories:
     - Tape
 images:
-    - /images/covers/gevurah-anno_mmxi.jpg
-thumbnailImage: /images/covers/gevurah-anno_mmxi-thumb.jpg
+    - "/images/covers/gevurah-anno_mmxi.jpg"
+thumbnailImage: "/images/covers/gevurah-anno_mmxi-thumb.jpg"
 actualPrice: $9.00
 inStock: true
 ---

@@ -7,8 +7,8 @@ album: "Demo VII"
 categories:
     - Tape
 images:
-    - /images/covers/blood_ritual-demo_vii.jpg
-thumbnailImage: /images/covers/blood_ritual-demo_vii-thumb.jpg
+    - "/images/covers/blood_ritual-demo_vii.jpg"
+thumbnailImage: "/images/covers/blood_ritual-demo_vii-thumb.jpg"
 actualPrice: $8.00
 inStock: true
 ---

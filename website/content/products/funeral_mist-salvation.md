@@ -7,8 +7,8 @@ album: "Salvation"
 categories:
     - Vinyl
 images:
-    - /images/covers/funeral_mist-salvation.jpg
-thumbnailImage: /images/covers/funeral_mist-salvation-thumb.jpg
+    - "/images/covers/funeral_mist-salvation.jpg"
+thumbnailImage: "/images/covers/funeral_mist-salvation-thumb.jpg"
 actualPrice: $24.00
 inStock: true
 ---

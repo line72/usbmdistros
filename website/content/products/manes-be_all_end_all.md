@@ -7,8 +7,8 @@ album: "Be All End All"
 categories:
     - CD
 images:
-    - /images/covers/manes-be_all_end_all.jpg
-thumbnailImage: /images/covers/manes-be_all_end_all-thumb.jpg
+    - "/images/covers/manes-be_all_end_all.jpg"
+thumbnailImage: "/images/covers/manes-be_all_end_all-thumb.jpg"
 actualPrice: $9.99
 inStock: true
 ---

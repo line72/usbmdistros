@@ -7,8 +7,8 @@ album: "Heldentod"
 categories:
     - Vinyl
 images:
-    - /images/covers/grabunhold-heldentod.jpg
-thumbnailImage: /images/covers/grabunhold-heldentod-thumb.jpg
+    - "/images/covers/grabunhold-heldentod.jpg"
+thumbnailImage: "/images/covers/grabunhold-heldentod-thumb.jpg"
 actualPrice: $17.00
 inStock: true
 ---

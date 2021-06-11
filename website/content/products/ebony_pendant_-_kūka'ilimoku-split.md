@@ -7,8 +7,8 @@ album: "Split"
 categories:
     - CD
 images:
-    - /images/covers/ebony_pendant_-_kūka'ilimoku-split.png
-thumbnailImage: /images/covers/ebony_pendant_-_kūka'ilimoku-split-thumb.png
+    - "/images/covers/ebony_pendant_-_kūka'ilimoku-split.png"
+thumbnailImage: "/images/covers/ebony_pendant_-_kūka'ilimoku-split-thumb.png"
 actualPrice: $15.00
 inStock: true
 ---

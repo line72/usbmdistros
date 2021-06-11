@@ -7,8 +7,8 @@ album: "Summoning the Night"
 categories:
     - Vinyl
 images:
-    - /images/covers/black_cilice-summoning_the_night.jpg
-thumbnailImage: /images/covers/black_cilice-summoning_the_night-thumb.jpg
+    - "/images/covers/black_cilice-summoning_the_night.jpg"
+thumbnailImage: "/images/covers/black_cilice-summoning_the_night-thumb.jpg"
 actualPrice: $25.00
 inStock: true
 ---

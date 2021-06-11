@@ -7,8 +7,8 @@ album: "Codex Obscura Nomina"
 categories:
     - CD
 images:
-    - /images/covers/blut_aus_nord-codex_obscura_nomina.jpg
-thumbnailImage: /images/covers/blut_aus_nord-codex_obscura_nomina-thumb.jpg
+    - "/images/covers/blut_aus_nord-codex_obscura_nomina.jpg"
+thumbnailImage: "/images/covers/blut_aus_nord-codex_obscura_nomina-thumb.jpg"
 actualPrice: $9.99
 inStock: true
 ---

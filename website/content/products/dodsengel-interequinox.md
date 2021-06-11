@@ -7,8 +7,8 @@ album: "Interequinox"
 categories:
     - CD
 images:
-    - /images/covers/dodsengel-interequinox.jpg
-thumbnailImage: /images/covers/dodsengel-interequinox-thumb.jpg
+    - "/images/covers/dodsengel-interequinox.jpg"
+thumbnailImage: "/images/covers/dodsengel-interequinox-thumb.jpg"
 actualPrice: $9.99
 inStock: true
 ---

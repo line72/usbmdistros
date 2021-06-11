@@ -7,8 +7,8 @@ album: "Ahrairah ‎– Split"
 categories:
     - Vinyl
 images:
-    - /images/covers/borda's_rope_-_el-ahrairah_‎–_split.png
-thumbnailImage: /images/covers/borda's_rope_-_el-ahrairah_‎–_split-thumb.png
+    - "/images/covers/borda's_rope_-_el-ahrairah_‎–_split.png"
+thumbnailImage: "/images/covers/borda's_rope_-_el-ahrairah_‎–_split-thumb.png"
 actualPrice: $22.00
 inStock: true
 ---

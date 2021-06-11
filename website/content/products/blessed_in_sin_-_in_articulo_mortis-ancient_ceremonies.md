@@ -7,8 +7,8 @@ album: "Ancient Ceremonies"
 categories:
     - Tape
 images:
-    - /images/covers/blessed_in_sin_-_in_articulo_mortis-ancient_ceremonies.jpg
-thumbnailImage: /images/covers/blessed_in_sin_-_in_articulo_mortis-ancient_ceremonies-thumb.jpg
+    - "/images/covers/blessed_in_sin_-_in_articulo_mortis-ancient_ceremonies.jpg"
+thumbnailImage: "/images/covers/blessed_in_sin_-_in_articulo_mortis-ancient_ceremonies-thumb.jpg"
 actualPrice: $10.00
 inStock: true
 ---

@@ -7,8 +7,8 @@ album: "Live at Recrucifying the Bastard 2019"
 categories:
     - Tape
 images:
-    - /images/covers/rattenkönig-live_at_recrucifying_the_bastard_2019.png
-thumbnailImage: /images/covers/rattenkönig-live_at_recrucifying_the_bastard_2019-thumb.png
+    - "/images/covers/rattenkönig-live_at_recrucifying_the_bastard_2019.png"
+thumbnailImage: "/images/covers/rattenkönig-live_at_recrucifying_the_bastard_2019-thumb.png"
 actualPrice: $8.00
 inStock: true
 ---

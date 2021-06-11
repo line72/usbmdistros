@@ -7,8 +7,8 @@ album: "Split"
 categories:
     - CD
 images:
-    - /images/covers/horna_-_behexen-split.jpg
-thumbnailImage: /images/covers/horna_-_behexen-split-thumb.jpg
+    - "/images/covers/horna_-_behexen-split.jpg"
+thumbnailImage: "/images/covers/horna_-_behexen-split-thumb.jpg"
 actualPrice: $10.99
 inStock: true
 ---

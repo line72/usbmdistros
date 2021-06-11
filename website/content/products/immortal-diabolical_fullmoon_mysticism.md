@@ -7,8 +7,8 @@ album: "Diabolical Fullmoon Mysticism"
 categories:
     - Vinyl
 images:
-    - /images/covers/immortal-diabolical_fullmoon_mysticism.jpg
-thumbnailImage: /images/covers/immortal-diabolical_fullmoon_mysticism-thumb.jpg
+    - "/images/covers/immortal-diabolical_fullmoon_mysticism.jpg"
+thumbnailImage: "/images/covers/immortal-diabolical_fullmoon_mysticism-thumb.jpg"
 actualPrice: $24.00
 inStock: true
 ---

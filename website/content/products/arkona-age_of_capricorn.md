@@ -8,9 +8,9 @@ categories:
     - Vinyl
     - CD
 images:
-    - /images/covers/arkona-age_of_capricorn.jpg
-thumbnailImage: /images/covers/arkona-age_of_capricorn-thumb.jpg
-actualPrice: $22.99 - 9.99
+    - "/images/covers/arkona-age_of_capricorn.jpg"
+thumbnailImage: "/images/covers/arkona-age_of_capricorn-thumb.jpg"
+actualPrice: $9.99 - 22.99
 inStock: true
 ---
 

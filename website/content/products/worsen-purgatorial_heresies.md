@@ -7,8 +7,8 @@ album: "Purgatorial Heresies"
 categories:
     - Tape
 images:
-    - /images/covers/worsen-purgatorial_heresies.jpg
-thumbnailImage: /images/covers/worsen-purgatorial_heresies-thumb.jpg
+    - "/images/covers/worsen-purgatorial_heresies.jpg"
+thumbnailImage: "/images/covers/worsen-purgatorial_heresies-thumb.jpg"
 actualPrice: $10.00
 inStock: true
 ---

@@ -7,8 +7,8 @@ album: "The Reverses"
 categories:
     - CD
 images:
-    - /images/covers/terra_tenebrosa-the_reverses.jpg
-thumbnailImage: /images/covers/terra_tenebrosa-the_reverses-thumb.jpg
+    - "/images/covers/terra_tenebrosa-the_reverses.jpg"
+thumbnailImage: "/images/covers/terra_tenebrosa-the_reverses-thumb.jpg"
 actualPrice: $9.99
 inStock: true
 ---

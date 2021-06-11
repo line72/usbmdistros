@@ -7,8 +7,8 @@ album: "Illuminate"
 categories:
     - Tape
 images:
-    - /images/covers/paulus-illuminate.png
-thumbnailImage: /images/covers/paulus-illuminate-thumb.png
+    - "/images/covers/paulus-illuminate.png"
+thumbnailImage: "/images/covers/paulus-illuminate-thumb.png"
 actualPrice: $9.00
 inStock: true
 ---

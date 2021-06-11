@@ -7,8 +7,8 @@ album: "Raukn"
 categories:
     - Vinyl
 images:
-    - /images/covers/múspellzheimr-raukn.png
-thumbnailImage: /images/covers/múspellzheimr-raukn-thumb.png
+    - "/images/covers/múspellzheimr-raukn.png"
+thumbnailImage: "/images/covers/múspellzheimr-raukn-thumb.png"
 actualPrice: $21.00
 inStock: true
 ---

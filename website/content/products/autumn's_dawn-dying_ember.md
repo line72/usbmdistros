@@ -7,8 +7,8 @@ album: "Dying Ember"
 categories:
     - CD
 images:
-    - /images/covers/autumn's_dawn-dying_ember.jpg
-thumbnailImage: /images/covers/autumn's_dawn-dying_ember-thumb.jpg
+    - "/images/covers/autumn's_dawn-dying_ember.jpg"
+thumbnailImage: "/images/covers/autumn's_dawn-dying_ember-thumb.jpg"
 actualPrice: $13.00
 inStock: true
 ---

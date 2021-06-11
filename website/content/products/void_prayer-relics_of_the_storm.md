@@ -8,8 +8,8 @@ categories:
     - Vinyl
     - CD
 images:
-    - /images/covers/void_prayer-relics_of_the_storm.jpg
-thumbnailImage: /images/covers/void_prayer-relics_of_the_storm-thumb.jpg
+    - "/images/covers/void_prayer-relics_of_the_storm.jpg"
+thumbnailImage: "/images/covers/void_prayer-relics_of_the_storm-thumb.jpg"
 actualPrice: $13.00 - 23.00
 inStock: true
 ---

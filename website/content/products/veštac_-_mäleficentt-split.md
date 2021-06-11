@@ -7,8 +7,8 @@ album: "Split"
 categories:
     - Vinyl
 images:
-    - /images/covers/veštac_-_mäleficentt-split.jpg
-thumbnailImage: /images/covers/veštac_-_mäleficentt-split-thumb.jpg
+    - "/images/covers/veštac_-_mäleficentt-split.jpg"
+thumbnailImage: "/images/covers/veštac_-_mäleficentt-split-thumb.jpg"
 actualPrice: $28.00
 inStock: true
 ---

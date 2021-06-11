@@ -8,8 +8,8 @@ categories:
     - Vinyl
     - CD
 images:
-    - /images/covers/numinous-bellum_in_terris.jpg
-thumbnailImage: /images/covers/numinous-bellum_in_terris-thumb.jpg
+    - "/images/covers/numinous-bellum_in_terris.jpg"
+thumbnailImage: "/images/covers/numinous-bellum_in_terris-thumb.jpg"
 actualPrice: $12.00 - 20.00
 inStock: true
 ---

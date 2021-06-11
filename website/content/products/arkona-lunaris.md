@@ -7,8 +7,8 @@ album: "Lunaris"
 categories:
     - CD
 images:
-    - /images/covers/arkona-lunaris.jpg
-thumbnailImage: /images/covers/arkona-lunaris-thumb.jpg
+    - "/images/covers/arkona-lunaris.jpg"
+thumbnailImage: "/images/covers/arkona-lunaris-thumb.jpg"
 actualPrice: $9.99
 inStock: true
 ---

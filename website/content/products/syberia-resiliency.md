@@ -7,8 +7,8 @@ album: "Resiliency"
 categories:
     - CD
 images:
-    - /images/covers/syberia-resiliency.jpg
-thumbnailImage: /images/covers/syberia-resiliency-thumb.jpg
+    - "/images/covers/syberia-resiliency.jpg"
+thumbnailImage: "/images/covers/syberia-resiliency-thumb.jpg"
 actualPrice: $4.99
 inStock: true
 ---

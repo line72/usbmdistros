@@ -7,8 +7,8 @@ album: "Monument to the Fading Tides"
 categories:
     - CD
 images:
-    - /images/covers/borda's_rope-monument_to_the_fading_tides.png
-thumbnailImage: /images/covers/borda's_rope-monument_to_the_fading_tides-thumb.png
+    - "/images/covers/borda's_rope-monument_to_the_fading_tides.png"
+thumbnailImage: "/images/covers/borda's_rope-monument_to_the_fading_tides-thumb.png"
 actualPrice: $15.00
 inStock: true
 ---

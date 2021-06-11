@@ -7,8 +7,8 @@ album: "Korona Winter Rehearsal of Darkness & Evil"
 categories:
     - Tape
 images:
-    - /images/covers/irae-korona_winter_rehearsal_of_darkness_&_evil.png
-thumbnailImage: /images/covers/irae-korona_winter_rehearsal_of_darkness_&_evil-thumb.png
+    - "/images/covers/irae-korona_winter_rehearsal_of_darkness_&_evil.png"
+thumbnailImage: "/images/covers/irae-korona_winter_rehearsal_of_darkness_&_evil-thumb.png"
 actualPrice: $10.00
 inStock: true
 ---

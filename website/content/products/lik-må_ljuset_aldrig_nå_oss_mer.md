@@ -7,8 +7,8 @@ album: "Må Ljuset Aldrig Nå Oss Mer"
 categories:
     - Vinyl
 images:
-    - /images/covers/lik-må_ljuset_aldrig_nå_oss_mer.jpg
-thumbnailImage: /images/covers/lik-må_ljuset_aldrig_nå_oss_mer-thumb.jpg
+    - "/images/covers/lik-må_ljuset_aldrig_nå_oss_mer.jpg"
+thumbnailImage: "/images/covers/lik-må_ljuset_aldrig_nå_oss_mer-thumb.jpg"
 actualPrice: $25.00
 inStock: true
 ---

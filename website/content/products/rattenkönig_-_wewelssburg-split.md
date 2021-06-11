@@ -7,8 +7,8 @@ album: "Split"
 categories:
     - Vinyl
 images:
-    - /images/covers/rattenkönig_-_wewelssburg-split.jpg
-thumbnailImage: /images/covers/rattenkönig_-_wewelssburg-split-thumb.jpg
+    - "/images/covers/rattenkönig_-_wewelssburg-split.jpg"
+thumbnailImage: "/images/covers/rattenkönig_-_wewelssburg-split-thumb.jpg"
 actualPrice: $13.00
 inStock: true
 ---

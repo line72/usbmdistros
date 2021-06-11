@@ -8,8 +8,8 @@ categories:
     - Vinyl
     - CD
 images:
-    - /images/covers/wóddréa_mylenstede-créda_beaducwealm.jpg
-thumbnailImage: /images/covers/wóddréa_mylenstede-créda_beaducwealm-thumb.jpg
+    - "/images/covers/wóddréa_mylenstede-créda_beaducwealm.jpg"
+thumbnailImage: "/images/covers/wóddréa_mylenstede-créda_beaducwealm-thumb.jpg"
 actualPrice: $15.00 - 23.00
 inStock: true
 ---

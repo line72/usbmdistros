@@ -7,8 +7,8 @@ album: "Helserkr"
 categories:
     - Vinyl
 images:
-    - /images/covers/sanctuaire-helserkr.jpg
-thumbnailImage: /images/covers/sanctuaire-helserkr-thumb.jpg
+    - "/images/covers/sanctuaire-helserkr.jpg"
+thumbnailImage: "/images/covers/sanctuaire-helserkr-thumb.jpg"
 actualPrice: $15.00
 inStock: true
 ---

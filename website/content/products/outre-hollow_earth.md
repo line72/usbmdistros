@@ -8,9 +8,9 @@ categories:
     - Vinyl
     - CD
 images:
-    - /images/covers/outre-hollow_earth.jpg
-thumbnailImage: /images/covers/outre-hollow_earth-thumb.jpg
-actualPrice: $22.99 - 9.99
+    - "/images/covers/outre-hollow_earth.jpg"
+thumbnailImage: "/images/covers/outre-hollow_earth-thumb.jpg"
+actualPrice: $9.99 - 22.99
 inStock: true
 ---
 

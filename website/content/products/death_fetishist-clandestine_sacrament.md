@@ -7,8 +7,8 @@ album: "Clandestine Sacrament"
 categories:
     - CD
 images:
-    - /images/covers/death_fetishist-clandestine_sacrament.jpg
-thumbnailImage: /images/covers/death_fetishist-clandestine_sacrament-thumb.jpg
+    - "/images/covers/death_fetishist-clandestine_sacrament.jpg"
+thumbnailImage: "/images/covers/death_fetishist-clandestine_sacrament-thumb.jpg"
 actualPrice: $9.99
 inStock: true
 ---

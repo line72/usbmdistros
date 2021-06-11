@@ -7,8 +7,8 @@ album: "Death from Above"
 categories:
     - Vinyl
 images:
-    - /images/covers/annihilatus-death_from_above.jpg
-thumbnailImage: /images/covers/annihilatus-death_from_above-thumb.jpg
+    - "/images/covers/annihilatus-death_from_above.jpg"
+thumbnailImage: "/images/covers/annihilatus-death_from_above-thumb.jpg"
 actualPrice: $20.00
 inStock: true
 ---

@@ -7,8 +7,8 @@ album: "Incantation of the Queen"
 categories:
     - Vinyl
 images:
-    - /images/covers/the_royal_blood-incantation_of_the_queen.jpg
-thumbnailImage: /images/covers/the_royal_blood-incantation_of_the_queen-thumb.jpg
+    - "/images/covers/the_royal_blood-incantation_of_the_queen.jpg"
+thumbnailImage: "/images/covers/the_royal_blood-incantation_of_the_queen-thumb.jpg"
 actualPrice: $23.00
 inStock: true
 ---

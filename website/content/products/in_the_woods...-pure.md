@@ -7,8 +7,8 @@ album: "Pure"
 categories:
     - CD
 images:
-    - /images/covers/in_the_woods...-pure.jpg
-thumbnailImage: /images/covers/in_the_woods...-pure-thumb.jpg
+    - "/images/covers/in_the_woods...-pure.jpg"
+thumbnailImage: "/images/covers/in_the_woods...-pure-thumb.jpg"
 actualPrice: $9.99
 inStock: true
 ---

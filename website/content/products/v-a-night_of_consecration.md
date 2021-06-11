@@ -7,8 +7,8 @@ album: "Night of Consecration"
 categories:
     - Tape
 images:
-    - /images/covers/v-a-night_of_consecration.jpg
-thumbnailImage: /images/covers/v-a-night_of_consecration-thumb.jpg
+    - "/images/covers/v-a-night_of_consecration.jpg"
+thumbnailImage: "/images/covers/v-a-night_of_consecration-thumb.jpg"
 actualPrice: $11.00
 inStock: true
 ---

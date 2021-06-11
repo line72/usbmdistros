@@ -7,8 +7,8 @@ album: "Memoria Vetusta II - Dialogue With The Stars"
 categories:
     - Tape
 images:
-    - /images/covers/blut_aus_nord-memoria_vetusta_ii_-_dialogue_with_the_stars.jpg
-thumbnailImage: /images/covers/blut_aus_nord-memoria_vetusta_ii_-_dialogue_with_the_stars-thumb.jpg
+    - "/images/covers/blut_aus_nord-memoria_vetusta_ii_-_dialogue_with_the_stars.jpg"
+thumbnailImage: "/images/covers/blut_aus_nord-memoria_vetusta_ii_-_dialogue_with_the_stars-thumb.jpg"
 actualPrice: $13.99
 inStock: true
 ---

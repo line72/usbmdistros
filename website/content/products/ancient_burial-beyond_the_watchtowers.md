@@ -7,8 +7,8 @@ album: "Beyond the Watchtowers"
 categories:
     - Vinyl
 images:
-    - /images/covers/ancient_burial-beyond_the_watchtowers.jpg
-thumbnailImage: /images/covers/ancient_burial-beyond_the_watchtowers-thumb.jpg
+    - "/images/covers/ancient_burial-beyond_the_watchtowers.jpg"
+thumbnailImage: "/images/covers/ancient_burial-beyond_the_watchtowers-thumb.jpg"
 actualPrice: $25.00
 inStock: true
 ---

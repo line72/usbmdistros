@@ -8,9 +8,9 @@ categories:
     - Vinyl
     - CD
 images:
-    - /images/covers/selbst-relatos_de_angustia.jpg
-thumbnailImage: /images/covers/selbst-relatos_de_angustia-thumb.jpg
-actualPrice: $23.99 - 9.99
+    - "/images/covers/selbst-relatos_de_angustia.jpg"
+thumbnailImage: "/images/covers/selbst-relatos_de_angustia-thumb.jpg"
+actualPrice: $9.99 - 23.99
 inStock: true
 ---
 

@@ -7,8 +7,8 @@ album: "What Once Was... Liber III"
 categories:
     - CD
 images:
-    - /images/covers/blut_aus_nord-what_once_was..._liber_iii.jpg
-thumbnailImage: /images/covers/blut_aus_nord-what_once_was..._liber_iii-thumb.jpg
+    - "/images/covers/blut_aus_nord-what_once_was..._liber_iii.jpg"
+thumbnailImage: "/images/covers/blut_aus_nord-what_once_was..._liber_iii-thumb.jpg"
 actualPrice: $9.99
 inStock: true
 ---

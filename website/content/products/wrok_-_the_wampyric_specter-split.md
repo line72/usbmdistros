@@ -7,8 +7,8 @@ album: "Split"
 categories:
     - Vinyl
 images:
-    - /images/covers/wrok_-_the_wampyric_specter-split.jpg
-thumbnailImage: /images/covers/wrok_-_the_wampyric_specter-split-thumb.jpg
+    - "/images/covers/wrok_-_the_wampyric_specter-split.jpg"
+thumbnailImage: "/images/covers/wrok_-_the_wampyric_specter-split-thumb.jpg"
 actualPrice: $11.00
 inStock: true
 ---

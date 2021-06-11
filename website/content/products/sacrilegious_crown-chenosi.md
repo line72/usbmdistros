@@ -7,8 +7,8 @@ album: "Chenosi"
 categories:
     - Vinyl
 images:
-    - /images/covers/sacrilegious_crown-chenosi.jpg
-thumbnailImage: /images/covers/sacrilegious_crown-chenosi-thumb.jpg
+    - "/images/covers/sacrilegious_crown-chenosi.jpg"
+thumbnailImage: "/images/covers/sacrilegious_crown-chenosi-thumb.jpg"
 actualPrice: $25.00
 inStock: true
 ---

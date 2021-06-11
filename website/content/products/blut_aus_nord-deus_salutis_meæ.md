@@ -7,8 +7,8 @@ album: "Deus Salutis Meæ"
 categories:
     - Vinyl
 images:
-    - /images/covers/blut_aus_nord-deus_salutis_meæ.jpg
-thumbnailImage: /images/covers/blut_aus_nord-deus_salutis_meæ-thumb.jpg
+    - "/images/covers/blut_aus_nord-deus_salutis_meæ.jpg"
+thumbnailImage: "/images/covers/blut_aus_nord-deus_salutis_meæ-thumb.jpg"
 actualPrice: $20.00
 inStock: true
 ---

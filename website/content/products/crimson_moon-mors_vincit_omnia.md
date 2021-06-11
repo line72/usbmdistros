@@ -8,8 +8,8 @@ categories:
     - Vinyl
     - CD
 images:
-    - /images/covers/crimson_moon-mors_vincit_omnia.png
-thumbnailImage: /images/covers/crimson_moon-mors_vincit_omnia-thumb.png
+    - "/images/covers/crimson_moon-mors_vincit_omnia.png"
+thumbnailImage: "/images/covers/crimson_moon-mors_vincit_omnia-thumb.png"
 actualPrice: $10.99 - 29.99
 inStock: true
 ---

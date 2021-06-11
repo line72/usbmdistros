@@ -7,8 +7,8 @@ album: "Disgust"
 categories:
     - Vinyl
 images:
-    - /images/covers/s.t.a.b._electronics_‎–_born_for_righteous_abuse_-_temple_of_self-disgust.png
-thumbnailImage: /images/covers/s.t.a.b._electronics_‎–_born_for_righteous_abuse_-_temple_of_self-disgust-thumb.png
+    - "/images/covers/s.t.a.b._electronics_‎–_born_for_righteous_abuse_-_temple_of_self-disgust.png"
+thumbnailImage: "/images/covers/s.t.a.b._electronics_‎–_born_for_righteous_abuse_-_temple_of_self-disgust-thumb.png"
 actualPrice: $38.00
 inStock: true
 ---

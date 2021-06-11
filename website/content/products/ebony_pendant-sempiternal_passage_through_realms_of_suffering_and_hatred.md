@@ -7,8 +7,8 @@ album: "Sempiternal Passage Through Realms of Suffering and Hatred"
 categories:
     - CD
 images:
-    - /images/covers/ebony_pendant-sempiternal_passage_through_realms_of_suffering_and_hatred.jpg
-thumbnailImage: /images/covers/ebony_pendant-sempiternal_passage_through_realms_of_suffering_and_hatred-thumb.jpg
+    - "/images/covers/ebony_pendant-sempiternal_passage_through_realms_of_suffering_and_hatred.jpg"
+thumbnailImage: "/images/covers/ebony_pendant-sempiternal_passage_through_realms_of_suffering_and_hatred-thumb.jpg"
 actualPrice: $13.00
 inStock: true
 ---

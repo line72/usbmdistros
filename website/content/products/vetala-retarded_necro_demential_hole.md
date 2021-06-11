@@ -7,8 +7,8 @@ album: "Retarded Necro Demential Hole"
 categories:
     - Vinyl
 images:
-    - /images/covers/vetala-retarded_necro_demential_hole.jpg
-thumbnailImage: /images/covers/vetala-retarded_necro_demential_hole-thumb.jpg
+    - "/images/covers/vetala-retarded_necro_demential_hole.jpg"
+thumbnailImage: "/images/covers/vetala-retarded_necro_demential_hole-thumb.jpg"
 actualPrice: $25.00
 inStock: true
 ---

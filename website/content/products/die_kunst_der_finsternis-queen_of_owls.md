@@ -8,8 +8,8 @@ categories:
     - Vinyl
     - CD
 images:
-    - /images/covers/die_kunst_der_finsternis-queen_of_owls.jpg
-thumbnailImage: /images/covers/die_kunst_der_finsternis-queen_of_owls-thumb.jpg
+    - "/images/covers/die_kunst_der_finsternis-queen_of_owls.jpg"
+thumbnailImage: "/images/covers/die_kunst_der_finsternis-queen_of_owls-thumb.jpg"
 actualPrice: $13.00 - 27.00
 inStock: true
 ---

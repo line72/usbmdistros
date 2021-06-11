@@ -7,8 +7,8 @@ album: "The Apocalyptic Triumphator"
 categories:
     - CD
 images:
-    - /images/covers/archgoat-the_apocalyptic_triumphator.jpg
-thumbnailImage: /images/covers/archgoat-the_apocalyptic_triumphator-thumb.jpg
+    - "/images/covers/archgoat-the_apocalyptic_triumphator.jpg"
+thumbnailImage: "/images/covers/archgoat-the_apocalyptic_triumphator-thumb.jpg"
 actualPrice: $9.99
 inStock: true
 ---

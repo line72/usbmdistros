@@ -8,9 +8,9 @@ categories:
     - Tape
     - CD
 images:
-    - /images/covers/blut_aus_nord-777_-_cosmosophy.jpg
-thumbnailImage: /images/covers/blut_aus_nord-777_-_cosmosophy-thumb.jpg
-actualPrice: $13.99 - 9.99
+    - "/images/covers/blut_aus_nord-777_-_cosmosophy.jpg"
+thumbnailImage: "/images/covers/blut_aus_nord-777_-_cosmosophy-thumb.jpg"
+actualPrice: $9.99 - 13.99
 inStock: true
 ---
 

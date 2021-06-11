@@ -7,8 +7,8 @@ album: "Hic Regnant Borbonii Manes"
 categories:
     - CD
 images:
-    - /images/covers/suhnopfer-hic_regnant_borbonii_manes.jpg
-thumbnailImage: /images/covers/suhnopfer-hic_regnant_borbonii_manes-thumb.jpg
+    - "/images/covers/suhnopfer-hic_regnant_borbonii_manes.jpg"
+thumbnailImage: "/images/covers/suhnopfer-hic_regnant_borbonii_manes-thumb.jpg"
 actualPrice: $10.99
 inStock: true
 ---

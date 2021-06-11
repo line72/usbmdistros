@@ -7,8 +7,8 @@ album: "Flammenlieder"
 categories:
     - Tape
 images:
-    - /images/covers/darkwood-flammenlieder.jpg
-thumbnailImage: /images/covers/darkwood-flammenlieder-thumb.jpg
+    - "/images/covers/darkwood-flammenlieder.jpg"
+thumbnailImage: "/images/covers/darkwood-flammenlieder-thumb.jpg"
 actualPrice: $10.00
 inStock: true
 ---

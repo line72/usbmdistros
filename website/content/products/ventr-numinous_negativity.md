@@ -7,8 +7,8 @@ album: "Numinous Negativity"
 categories:
     - Vinyl
 images:
-    - /images/covers/ventr-numinous_negativity.jpg
-thumbnailImage: /images/covers/ventr-numinous_negativity-thumb.jpg
+    - "/images/covers/ventr-numinous_negativity.jpg"
+thumbnailImage: "/images/covers/ventr-numinous_negativity-thumb.jpg"
 actualPrice: $23.00
 inStock: true
 ---

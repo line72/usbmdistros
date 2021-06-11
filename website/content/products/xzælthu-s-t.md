@@ -7,8 +7,8 @@ album: "s/t"
 categories:
     - CD
 images:
-    - /images/covers/xzælthu-s-t.png
-thumbnailImage: /images/covers/xzælthu-s-t-thumb.png
+    - "/images/covers/xzælthu-s-t.png"
+thumbnailImage: "/images/covers/xzælthu-s-t-thumb.png"
 actualPrice: $13.00
 inStock: true
 ---

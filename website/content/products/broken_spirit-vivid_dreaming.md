@@ -7,8 +7,8 @@ album: "Vivid Dreaming"
 categories:
     - Tape
 images:
-    - /images/covers/broken_spirit-vivid_dreaming.jpg
-thumbnailImage: /images/covers/broken_spirit-vivid_dreaming-thumb.jpg
+    - "/images/covers/broken_spirit-vivid_dreaming.jpg"
+thumbnailImage: "/images/covers/broken_spirit-vivid_dreaming-thumb.jpg"
 actualPrice: $10.00
 inStock: true
 ---

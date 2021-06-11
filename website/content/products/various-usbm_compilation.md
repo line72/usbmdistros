@@ -7,8 +7,8 @@ album: "USBM Compilation"
 categories:
     - CD
 images:
-    - /images/covers/various-usbm_compilation.jpg
-thumbnailImage: /images/covers/various-usbm_compilation-thumb.jpg
+    - "/images/covers/various-usbm_compilation.jpg"
+thumbnailImage: "/images/covers/various-usbm_compilation-thumb.jpg"
 actualPrice: $10.00
 inStock: true
 ---

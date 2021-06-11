@@ -7,8 +7,8 @@ album: "Fønix"
 categories:
     - Vinyl
 images:
-    - /images/covers/saligia-fønix.jpg
-thumbnailImage: /images/covers/saligia-fønix-thumb.jpg
+    - "/images/covers/saligia-fønix.jpg"
+thumbnailImage: "/images/covers/saligia-fønix-thumb.jpg"
 actualPrice: $19.00
 inStock: true
 ---

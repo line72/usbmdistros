@@ -7,8 +7,8 @@ album: "Par Le Sang"
 categories:
     - Vinyl
 images:
-    - /images/covers/k.f.r-par_le_sang.jpg
-thumbnailImage: /images/covers/k.f.r-par_le_sang-thumb.jpg
+    - "/images/covers/k.f.r-par_le_sang.jpg"
+thumbnailImage: "/images/covers/k.f.r-par_le_sang-thumb.jpg"
 actualPrice: $20.00
 inStock: true
 ---

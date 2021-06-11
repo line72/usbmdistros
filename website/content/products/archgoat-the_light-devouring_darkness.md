@@ -7,8 +7,8 @@ album: "The Light-Devouring Darkness"
 categories:
     - CD
 images:
-    - /images/covers/archgoat-the_light-devouring_darkness.jpg
-thumbnailImage: /images/covers/archgoat-the_light-devouring_darkness-thumb.jpg
+    - "/images/covers/archgoat-the_light-devouring_darkness.jpg"
+thumbnailImage: "/images/covers/archgoat-the_light-devouring_darkness-thumb.jpg"
 actualPrice: $9.99
 inStock: true
 ---

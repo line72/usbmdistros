@@ -7,8 +7,8 @@ album: "Pitiless Black Emphasis"
 categories:
     - CD
 images:
-    - /images/covers/revenant_marquis-pitiless_black_emphasis.jpg
-thumbnailImage: /images/covers/revenant_marquis-pitiless_black_emphasis-thumb.jpg
+    - "/images/covers/revenant_marquis-pitiless_black_emphasis.jpg"
+thumbnailImage: "/images/covers/revenant_marquis-pitiless_black_emphasis-thumb.jpg"
 actualPrice: $15.00
 inStock: true
 ---

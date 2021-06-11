@@ -7,8 +7,8 @@ album: "Dream An Evil Dream"
 categories:
     - CD
 images:
-    - /images/covers/aevangelist-dream_an_evil_dream.jpg
-thumbnailImage: /images/covers/aevangelist-dream_an_evil_dream-thumb.jpg
+    - "/images/covers/aevangelist-dream_an_evil_dream.jpg"
+thumbnailImage: "/images/covers/aevangelist-dream_an_evil_dream-thumb.jpg"
 actualPrice: $1.99
 inStock: true
 ---

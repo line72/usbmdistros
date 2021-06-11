@@ -7,8 +7,8 @@ album: "Demo I"
 categories:
     - Tape
 images:
-    - /images/covers/tropic_of_damned_spirits-demo_i.png
-thumbnailImage: /images/covers/tropic_of_damned_spirits-demo_i-thumb.png
+    - "/images/covers/tropic_of_damned_spirits-demo_i.png"
+thumbnailImage: "/images/covers/tropic_of_damned_spirits-demo_i-thumb.png"
 actualPrice: $9.00
 inStock: true
 ---

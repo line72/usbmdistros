@@ -7,8 +7,8 @@ album: "Animadverte"
 categories:
     - Vinyl
 images:
-    - /images/covers/adversam-animadverte.png
-thumbnailImage: /images/covers/adversam-animadverte-thumb.png
+    - "/images/covers/adversam-animadverte.png"
+thumbnailImage: "/images/covers/adversam-animadverte-thumb.png"
 actualPrice: $27.00
 inStock: true
 ---

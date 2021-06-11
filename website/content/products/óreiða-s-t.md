@@ -8,9 +8,9 @@ categories:
     - Vinyl
     - Tape
 images:
-    - /images/covers/óreiða-s-t.png
-thumbnailImage: /images/covers/óreiða-s-t-thumb.png
-actualPrice: $23.00 - 9.00
+    - "/images/covers/óreiða-s-t.png"
+thumbnailImage: "/images/covers/óreiða-s-t-thumb.png"
+actualPrice: $9.00 - 23.00
 inStock: true
 ---
 

@@ -7,8 +7,8 @@ album: "Morbus Invictus"
 categories:
     - CD
 images:
-    - /images/covers/schwarz_pest-morbus_invictus.png
-thumbnailImage: /images/covers/schwarz_pest-morbus_invictus-thumb.png
+    - "/images/covers/schwarz_pest-morbus_invictus.png"
+thumbnailImage: "/images/covers/schwarz_pest-morbus_invictus-thumb.png"
 actualPrice: $12.00
 inStock: true
 ---

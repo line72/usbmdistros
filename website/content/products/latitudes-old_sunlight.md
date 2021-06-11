@@ -7,8 +7,8 @@ album: "Old Sunlight"
 categories:
     - CD
 images:
-    - /images/covers/latitudes-old_sunlight.jpg
-thumbnailImage: /images/covers/latitudes-old_sunlight-thumb.jpg
+    - "/images/covers/latitudes-old_sunlight.jpg"
+thumbnailImage: "/images/covers/latitudes-old_sunlight-thumb.jpg"
 actualPrice: $3.00
 inStock: true
 ---

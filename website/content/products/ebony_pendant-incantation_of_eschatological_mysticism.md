@@ -7,8 +7,8 @@ album: "Incantation of Eschatological Mysticism"
 categories:
     - CD
 images:
-    - /images/covers/ebony_pendant-incantation_of_eschatological_mysticism.jpg
-thumbnailImage: /images/covers/ebony_pendant-incantation_of_eschatological_mysticism-thumb.jpg
+    - "/images/covers/ebony_pendant-incantation_of_eschatological_mysticism.jpg"
+thumbnailImage: "/images/covers/ebony_pendant-incantation_of_eschatological_mysticism-thumb.jpg"
 actualPrice: $13.00
 inStock: true
 ---

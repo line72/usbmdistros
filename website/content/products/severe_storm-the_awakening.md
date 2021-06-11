@@ -7,8 +7,8 @@ album: "The Awakening"
 categories:
     - Vinyl
 images:
-    - /images/covers/severe_storm-the_awakening.png
-thumbnailImage: /images/covers/severe_storm-the_awakening-thumb.png
+    - "/images/covers/severe_storm-the_awakening.png"
+thumbnailImage: "/images/covers/severe_storm-the_awakening-thumb.png"
 actualPrice: $28.00
 inStock: true
 ---

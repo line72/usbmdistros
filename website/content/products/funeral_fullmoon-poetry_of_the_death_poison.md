@@ -7,8 +7,8 @@ album: "Poetry of the Death Poison"
 categories:
     - Vinyl
 images:
-    - /images/covers/funeral_fullmoon-poetry_of_the_death_poison.png
-thumbnailImage: /images/covers/funeral_fullmoon-poetry_of_the_death_poison-thumb.png
+    - "/images/covers/funeral_fullmoon-poetry_of_the_death_poison.png"
+thumbnailImage: "/images/covers/funeral_fullmoon-poetry_of_the_death_poison-thumb.png"
 actualPrice: $32.00 - 35.00
 inStock: true
 ---

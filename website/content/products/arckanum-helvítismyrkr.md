@@ -7,8 +7,8 @@ album: "Helvítismyrkr"
 categories:
     - Vinyl
 images:
-    - /images/covers/arckanum-helvítismyrkr.jpg
-thumbnailImage: /images/covers/arckanum-helvítismyrkr-thumb.jpg
+    - "/images/covers/arckanum-helvítismyrkr.jpg"
+thumbnailImage: "/images/covers/arckanum-helvítismyrkr-thumb.jpg"
 actualPrice: $20.00
 inStock: true
 ---

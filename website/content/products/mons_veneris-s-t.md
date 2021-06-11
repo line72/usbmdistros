@@ -8,8 +8,8 @@ categories:
     - Vinyl
     - Tape
 images:
-    - /images/covers/mons_veneris-s-t.png
-thumbnailImage: /images/covers/mons_veneris-s-t-thumb.png
+    - "/images/covers/mons_veneris-s-t.png"
+thumbnailImage: "/images/covers/mons_veneris-s-t-thumb.png"
 actualPrice: $10.00 - 27.00
 inStock: true
 ---

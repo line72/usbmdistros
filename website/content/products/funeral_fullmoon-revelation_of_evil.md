@@ -7,8 +7,8 @@ album: "Revelation of Evil"
 categories:
     - Vinyl
 images:
-    - /images/covers/funeral_fullmoon-revelation_of_evil.png
-thumbnailImage: /images/covers/funeral_fullmoon-revelation_of_evil-thumb.png
+    - "/images/covers/funeral_fullmoon-revelation_of_evil.png"
+thumbnailImage: "/images/covers/funeral_fullmoon-revelation_of_evil-thumb.png"
 actualPrice: $35.00
 inStock: true
 ---

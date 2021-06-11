@@ -7,8 +7,8 @@ album: "Split"
 categories:
     - Vinyl
 images:
-    - /images/covers/vetala_-_vetëvrakh-split.png
-thumbnailImage: /images/covers/vetala_-_vetëvrakh-split-thumb.png
+    - "/images/covers/vetala_-_vetëvrakh-split.png"
+thumbnailImage: "/images/covers/vetala_-_vetëvrakh-split-thumb.png"
 actualPrice: $25.00
 inStock: true
 ---

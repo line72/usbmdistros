@@ -7,8 +7,8 @@ album: "The Forlorn Soldier"
 categories:
     - Vinyl
 images:
-    - /images/covers/pure_wrath-the_forlorn_soldier.jpg
-thumbnailImage: /images/covers/pure_wrath-the_forlorn_soldier-thumb.jpg
+    - "/images/covers/pure_wrath-the_forlorn_soldier.jpg"
+thumbnailImage: "/images/covers/pure_wrath-the_forlorn_soldier-thumb.jpg"
 actualPrice: $20.99
 inStock: true
 ---

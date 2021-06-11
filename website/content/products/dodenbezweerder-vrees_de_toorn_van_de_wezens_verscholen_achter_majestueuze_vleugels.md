@@ -7,8 +7,8 @@ album: "Vrees de toorn van de wezens verscholen achter majestueuze vleugels"
 categories:
     - Vinyl
 images:
-    - /images/covers/dodenbezweerder-vrees_de_toorn_van_de_wezens_verscholen_achter_majestueuze_vleugels.jpg
-thumbnailImage: /images/covers/dodenbezweerder-vrees_de_toorn_van_de_wezens_verscholen_achter_majestueuze_vleugels-thumb.jpg
+    - "/images/covers/dodenbezweerder-vrees_de_toorn_van_de_wezens_verscholen_achter_majestueuze_vleugels.jpg"
+thumbnailImage: "/images/covers/dodenbezweerder-vrees_de_toorn_van_de_wezens_verscholen_achter_majestueuze_vleugels-thumb.jpg"
 actualPrice: $18.00
 inStock: true
 ---

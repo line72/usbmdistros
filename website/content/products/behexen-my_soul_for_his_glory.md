@@ -7,8 +7,8 @@ album: "My Soul For His Glory"
 categories:
     - CD
 images:
-    - /images/covers/behexen-my_soul_for_his_glory.jpg
-thumbnailImage: /images/covers/behexen-my_soul_for_his_glory-thumb.jpg
+    - "/images/covers/behexen-my_soul_for_his_glory.jpg"
+thumbnailImage: "/images/covers/behexen-my_soul_for_his_glory-thumb.jpg"
 actualPrice: $9.99
 inStock: true
 ---

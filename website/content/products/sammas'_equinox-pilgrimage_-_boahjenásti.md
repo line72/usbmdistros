@@ -7,8 +7,8 @@ album: "Pilgrimage / Boahjenásti"
 categories:
     - Vinyl
 images:
-    - /images/covers/sammas'_equinox-pilgrimage_-_boahjenásti.png
-thumbnailImage: /images/covers/sammas'_equinox-pilgrimage_-_boahjenásti-thumb.png
+    - "/images/covers/sammas'_equinox-pilgrimage_-_boahjenásti.png"
+thumbnailImage: "/images/covers/sammas'_equinox-pilgrimage_-_boahjenásti-thumb.png"
 actualPrice: $23.00
 inStock: true
 ---

@@ -8,8 +8,8 @@ categories:
     - Vinyl
     - CD
 images:
-    - /images/covers/shores_of_ladon-lupercal.jpg
-thumbnailImage: /images/covers/shores_of_ladon-lupercal-thumb.jpg
+    - "/images/covers/shores_of_ladon-lupercal.jpg"
+thumbnailImage: "/images/covers/shores_of_ladon-lupercal-thumb.jpg"
 actualPrice: $12.00 - 25.00
 inStock: true
 ---

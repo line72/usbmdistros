@@ -7,8 +7,8 @@ album: "Démonologue"
 categories:
     - Vinyl
 images:
-    - /images/covers/k.f.r-démonologue.jpg
-thumbnailImage: /images/covers/k.f.r-démonologue-thumb.jpg
+    - "/images/covers/k.f.r-démonologue.jpg"
+thumbnailImage: "/images/covers/k.f.r-démonologue-thumb.jpg"
 actualPrice: $21.00
 inStock: true
 ---

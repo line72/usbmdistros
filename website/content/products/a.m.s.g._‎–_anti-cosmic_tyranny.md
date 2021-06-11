@@ -7,8 +7,8 @@ album: "Cosmic Tyranny"
 categories:
     - CD
 images:
-    - /images/covers/a.m.s.g._‎–_anti-cosmic_tyranny.jpg
-thumbnailImage: /images/covers/a.m.s.g._‎–_anti-cosmic_tyranny-thumb.jpg
+    - "/images/covers/a.m.s.g._‎–_anti-cosmic_tyranny.jpg"
+thumbnailImage: "/images/covers/a.m.s.g._‎–_anti-cosmic_tyranny-thumb.jpg"
 actualPrice: $15.00
 inStock: true
 ---

@@ -7,8 +7,8 @@ album: "At the Gates of Infernal Desecration"
 categories:
     - Vinyl
 images:
-    - /images/covers/artifact_of_skulls-at_the_gates_of_infernal_desecration.jpg
-thumbnailImage: /images/covers/artifact_of_skulls-at_the_gates_of_infernal_desecration-thumb.jpg
+    - "/images/covers/artifact_of_skulls-at_the_gates_of_infernal_desecration.jpg"
+thumbnailImage: "/images/covers/artifact_of_skulls-at_the_gates_of_infernal_desecration-thumb.jpg"
 actualPrice: $25.00
 inStock: true
 ---

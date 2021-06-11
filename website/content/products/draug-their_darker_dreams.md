@@ -7,8 +7,8 @@ album: "Their Darker Dreams"
 categories:
     - Vinyl
 images:
-    - /images/covers/draug-their_darker_dreams.png
-thumbnailImage: /images/covers/draug-their_darker_dreams-thumb.png
+    - "/images/covers/draug-their_darker_dreams.png"
+thumbnailImage: "/images/covers/draug-their_darker_dreams-thumb.png"
 actualPrice: $9.00
 inStock: true
 ---

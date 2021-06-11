@@ -7,8 +7,8 @@ album: "By The Blessing Of Satan"
 categories:
     - CD
 images:
-    - /images/covers/behexen-by_the_blessing_of_satan.jpg
-thumbnailImage: /images/covers/behexen-by_the_blessing_of_satan-thumb.jpg
+    - "/images/covers/behexen-by_the_blessing_of_satan.jpg"
+thumbnailImage: "/images/covers/behexen-by_the_blessing_of_satan-thumb.jpg"
 actualPrice: $10.99
 inStock: true
 ---

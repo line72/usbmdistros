@@ -7,8 +7,8 @@ album: "Not of This World"
 categories:
     - CD
 images:
-    - /images/covers/hatespirit-not_of_this_world.jpg
-thumbnailImage: /images/covers/hatespirit-not_of_this_world-thumb.jpg
+    - "/images/covers/hatespirit-not_of_this_world.jpg"
+thumbnailImage: "/images/covers/hatespirit-not_of_this_world-thumb.jpg"
 actualPrice: $10.00
 inStock: true
 ---

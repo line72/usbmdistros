@@ -7,8 +7,8 @@ album: "Blizzard Beasts"
 categories:
     - Vinyl
 images:
-    - /images/covers/immortal-blizzard_beasts.jpg
-thumbnailImage: /images/covers/immortal-blizzard_beasts-thumb.jpg
+    - "/images/covers/immortal-blizzard_beasts.jpg"
+thumbnailImage: "/images/covers/immortal-blizzard_beasts-thumb.jpg"
 actualPrice: $24.00
 inStock: true
 ---

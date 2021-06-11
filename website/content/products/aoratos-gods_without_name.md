@@ -8,8 +8,8 @@ categories:
     - Tape
     - CD
 images:
-    - /images/covers/aoratos-gods_without_name.jpg
-thumbnailImage: /images/covers/aoratos-gods_without_name-thumb.jpg
+    - "/images/covers/aoratos-gods_without_name.jpg"
+thumbnailImage: "/images/covers/aoratos-gods_without_name-thumb.jpg"
 actualPrice: $10.99 - 13.99
 inStock: true
 ---

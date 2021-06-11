@@ -7,8 +7,8 @@ album: "Wielding Malignity"
 categories:
     - CD
 images:
-    - /images/covers/burier-wielding_malignity.png
-thumbnailImage: /images/covers/burier-wielding_malignity-thumb.png
+    - "/images/covers/burier-wielding_malignity.png"
+thumbnailImage: "/images/covers/burier-wielding_malignity-thumb.png"
 actualPrice: $15.00
 inStock: true
 ---

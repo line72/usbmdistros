@@ -8,8 +8,8 @@ categories:
     - Vinyl
     - Tape
 images:
-    - /images/covers/idolatria-tetrabestiarchy.jpg
-thumbnailImage: /images/covers/idolatria-tetrabestiarchy-thumb.jpg
+    - "/images/covers/idolatria-tetrabestiarchy.jpg"
+thumbnailImage: "/images/covers/idolatria-tetrabestiarchy-thumb.jpg"
 actualPrice: $10.00 - 25.00
 inStock: true
 ---

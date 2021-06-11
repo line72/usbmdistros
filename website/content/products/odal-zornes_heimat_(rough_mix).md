@@ -8,8 +8,8 @@ categories:
     - Vinyl
     - CD
 images:
-    - /images/covers/odal-zornes_heimat_(rough_mix).jpg
-thumbnailImage: /images/covers/odal-zornes_heimat_(rough_mix)-thumb.jpg
+    - "/images/covers/odal-zornes_heimat_(rough_mix).jpg"
+thumbnailImage: "/images/covers/odal-zornes_heimat_(rough_mix)-thumb.jpg"
 actualPrice: $12.00 - 25.00
 inStock: true
 ---

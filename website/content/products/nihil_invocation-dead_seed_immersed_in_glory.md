@@ -7,8 +7,8 @@ album: "Dead Seed Immersed in Glory"
 categories:
     - Vinyl
 images:
-    - /images/covers/nihil_invocation-dead_seed_immersed_in_glory.png
-thumbnailImage: /images/covers/nihil_invocation-dead_seed_immersed_in_glory-thumb.png
+    - "/images/covers/nihil_invocation-dead_seed_immersed_in_glory.png"
+thumbnailImage: "/images/covers/nihil_invocation-dead_seed_immersed_in_glory-thumb.png"
 actualPrice: $27.00
 inStock: true
 ---

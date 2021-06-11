@@ -7,8 +7,8 @@ album: "Split"
 categories:
     - Vinyl
 images:
-    - /images/covers/óreiða_-_holocausto_em_chamas-split.png
-thumbnailImage: /images/covers/óreiða_-_holocausto_em_chamas-split-thumb.png
+    - "/images/covers/óreiða_-_holocausto_em_chamas-split.png"
+thumbnailImage: "/images/covers/óreiða_-_holocausto_em_chamas-split-thumb.png"
 actualPrice: $19.00
 inStock: true
 ---

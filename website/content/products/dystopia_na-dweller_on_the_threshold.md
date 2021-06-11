@@ -7,8 +7,8 @@ album: "Dweller On The Threshold"
 categories:
     - Vinyl
 images:
-    - /images/covers/dystopia_na-dweller_on_the_threshold.jpg
-thumbnailImage: /images/covers/dystopia_na-dweller_on_the_threshold-thumb.jpg
+    - "/images/covers/dystopia_na-dweller_on_the_threshold.jpg"
+thumbnailImage: "/images/covers/dystopia_na-dweller_on_the_threshold-thumb.jpg"
 actualPrice: $19.99
 inStock: true
 ---

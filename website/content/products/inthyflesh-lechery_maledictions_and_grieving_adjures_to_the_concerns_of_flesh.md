@@ -7,8 +7,8 @@ album: "Lechery Maledictions and Grieving Adjures to the Concerns of Flesh"
 categories:
     - Vinyl
 images:
-    - /images/covers/inthyflesh-lechery_maledictions_and_grieving_adjures_to_the_concerns_of_flesh.jpg
-thumbnailImage: /images/covers/inthyflesh-lechery_maledictions_and_grieving_adjures_to_the_concerns_of_flesh-thumb.jpg
+    - "/images/covers/inthyflesh-lechery_maledictions_and_grieving_adjures_to_the_concerns_of_flesh.jpg"
+thumbnailImage: "/images/covers/inthyflesh-lechery_maledictions_and_grieving_adjures_to_the_concerns_of_flesh-thumb.jpg"
 actualPrice: $24.00
 inStock: true
 ---

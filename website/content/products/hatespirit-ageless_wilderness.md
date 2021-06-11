@@ -7,8 +7,8 @@ album: "Ageless Wilderness"
 categories:
     - Vinyl
 images:
-    - /images/covers/hatespirit-ageless_wilderness.jpg
-thumbnailImage: /images/covers/hatespirit-ageless_wilderness-thumb.jpg
+    - "/images/covers/hatespirit-ageless_wilderness.jpg"
+thumbnailImage: "/images/covers/hatespirit-ageless_wilderness-thumb.jpg"
 actualPrice: $16.00
 inStock: true
 ---

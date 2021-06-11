@@ -8,8 +8,8 @@ categories:
     - Vinyl
     - CD
 images:
-    - /images/covers/nahtrunar_-_hesychia-split.jpg
-thumbnailImage: /images/covers/nahtrunar_-_hesychia-split-thumb.jpg
+    - "/images/covers/nahtrunar_-_hesychia-split.jpg"
+thumbnailImage: "/images/covers/nahtrunar_-_hesychia-split-thumb.jpg"
 actualPrice: $12.00 - 23.00
 inStock: true
 ---

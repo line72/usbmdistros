@@ -7,8 +7,8 @@ album: "Scourge of Lamashtu"
 categories:
     - Vinyl
 images:
-    - /images/covers/black_funeral-scourge_of_lamashtu.jpg
-thumbnailImage: /images/covers/black_funeral-scourge_of_lamashtu-thumb.jpg
+    - "/images/covers/black_funeral-scourge_of_lamashtu.jpg"
+thumbnailImage: "/images/covers/black_funeral-scourge_of_lamashtu-thumb.jpg"
 actualPrice: $18.00
 inStock: true
 ---

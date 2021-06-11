@@ -7,8 +7,8 @@ album: "Pimeyden Valtakunta"
 categories:
     - Vinyl
 images:
-    - /images/covers/hautakammio-pimeyden_valtakunta.jpg
-thumbnailImage: /images/covers/hautakammio-pimeyden_valtakunta-thumb.jpg
+    - "/images/covers/hautakammio-pimeyden_valtakunta.jpg"
+thumbnailImage: "/images/covers/hautakammio-pimeyden_valtakunta-thumb.jpg"
 actualPrice: $20.00
 inStock: true
 ---

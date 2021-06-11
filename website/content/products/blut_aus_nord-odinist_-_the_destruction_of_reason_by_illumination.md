@@ -7,8 +7,8 @@ album: "Odinist - The Destruction Of Reason By Illumination"
 categories:
     - Tape
 images:
-    - /images/covers/blut_aus_nord-odinist_-_the_destruction_of_reason_by_illumination.jpg
-thumbnailImage: /images/covers/blut_aus_nord-odinist_-_the_destruction_of_reason_by_illumination-thumb.jpg
+    - "/images/covers/blut_aus_nord-odinist_-_the_destruction_of_reason_by_illumination.jpg"
+thumbnailImage: "/images/covers/blut_aus_nord-odinist_-_the_destruction_of_reason_by_illumination-thumb.jpg"
 actualPrice: $13.99
 inStock: true
 ---

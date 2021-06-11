@@ -7,8 +7,8 @@ album: "Tradition"
 categories:
     - CD
 images:
-    - /images/covers/malus_votum-tradition.jpg
-thumbnailImage: /images/covers/malus_votum-tradition-thumb.jpg
+    - "/images/covers/malus_votum-tradition.jpg"
+thumbnailImage: "/images/covers/malus_votum-tradition-thumb.jpg"
 actualPrice: $15.00
 inStock: true
 ---

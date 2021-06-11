@@ -7,8 +7,8 @@ album: "Proclamation ov the Black Suns"
 categories:
     - Vinyl
 images:
-    - /images/covers/dkharmakhaoz-proclamation_ov_the_black_suns.jpg
-thumbnailImage: /images/covers/dkharmakhaoz-proclamation_ov_the_black_suns-thumb.jpg
+    - "/images/covers/dkharmakhaoz-proclamation_ov_the_black_suns.jpg"
+thumbnailImage: "/images/covers/dkharmakhaoz-proclamation_ov_the_black_suns-thumb.jpg"
 actualPrice: $19.00
 inStock: true
 ---

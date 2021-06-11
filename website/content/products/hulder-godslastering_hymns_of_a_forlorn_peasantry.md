@@ -7,8 +7,8 @@ album: "Godslastering Hymns of a Forlorn Peasantry"
 categories:
     - Vinyl
 images:
-    - /images/covers/hulder-godslastering_hymns_of_a_forlorn_peasantry.jpg
-thumbnailImage: /images/covers/hulder-godslastering_hymns_of_a_forlorn_peasantry-thumb.jpg
+    - "/images/covers/hulder-godslastering_hymns_of_a_forlorn_peasantry.jpg"
+thumbnailImage: "/images/covers/hulder-godslastering_hymns_of_a_forlorn_peasantry-thumb.jpg"
 actualPrice: $22.00
 inStock: true
 ---

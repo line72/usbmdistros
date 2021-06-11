@@ -7,8 +7,8 @@ album: "To Exist | To Breathe"
 categories:
     - Vinyl
 images:
-    - /images/covers/voidsphere-to_exist_|_to_breathe.jpg
-thumbnailImage: /images/covers/voidsphere-to_exist_|_to_breathe-thumb.jpg
+    - "/images/covers/voidsphere-to_exist_|_to_breathe.jpg"
+thumbnailImage: "/images/covers/voidsphere-to_exist_|_to_breathe-thumb.jpg"
 actualPrice: $20.00
 inStock: true
 ---

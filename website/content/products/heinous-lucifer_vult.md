@@ -7,8 +7,8 @@ album: "Lucifer Vult"
 categories:
     - Vinyl
 images:
-    - /images/covers/heinous-lucifer_vult.jpg
-thumbnailImage: /images/covers/heinous-lucifer_vult-thumb.jpg
+    - "/images/covers/heinous-lucifer_vult.jpg"
+thumbnailImage: "/images/covers/heinous-lucifer_vult-thumb.jpg"
 actualPrice: $10.00
 inStock: true
 ---
