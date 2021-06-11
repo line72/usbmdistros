@@ -3,5 +3,8 @@ languageCode = "en-us"
 title = "US Black Metal Distributors"
 theme = "bmstore"
 
+[author]
+    name = "U.S. Black Metal Distributor Index"
+
 [Params]
     paginate = 24

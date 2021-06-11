@@ -12,13 +12,16 @@
             <div class="d-none d-md-block">{{ .Content }}</div>
         </div>
         <div class="col-12 col-md-6 order-md-1">
-            {{ range .Params.images }}
-            <img class="b-lazy img-fluid text-center" data-src="{{ . | absURL }}" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /> 
-            {{ end }}
+          {{ range .Params.images }}
+          <div class="album-preview-container">
+            <img class="album-preview b-lazy img-fluid text-center" data-src="{{ . | absURL }}" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" />
+          </div>
+          {{ end }}
         </div>
         <div class="col-12 col-md-6 order-md-2 d-block d-md-none">
             <p>{{ .Content }}</p>
         </div>
     </div>
 </article>
+{{ partial "footer.html" . }}
 {{ end }}

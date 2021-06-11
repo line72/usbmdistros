@@ -11,6 +11,31 @@ body {
     color: $text;
 }
 
+a {
+    color: $text;
+    text-decoration: none;
+    border: none;
+    transition-property: color;
+    transition-duration: .4s;
+    transition-timing-function: ease-out;
+    
+    &:hover {
+        color: #fff;
+        text-shadow: 0 0 1px #fff;
+    }
+}
+
+hr {
+  opacity: .2;
+  border-width: 0 0 5px 0;
+  border-style: solid;
+  background: transparent;
+  color: $text;
+  width: 75%;
+  margin-bottom: 1.8em;
+}
+
+
 /* mobile default */
 
 .logo {
@@ -30,6 +55,17 @@ body {
     object-fit: cover;
 }
 
+.album-preview-container {
+    $s: calc(min(450px, 40vw));
+
+    max-width: $s;
+    overflow: hidden;
+}
+
+.album-preview {
+    object-fit: cover;
+}
+
 // fix the paginatino
 .pagination {
     justify-content: center;
@@ -39,8 +75,31 @@ body {
     color: $primary-button;
 }
 
+.navbar {
+}
+
 .nav-link {
     color: $heading !important;
+    transition-property: color;
+    transition-duration: .4s;
+    transition-timing-function: ease-out;
+    
+    &:hover {
+        color: #fff;
+        text-shadow: 0 0 1px #fff;
+        text-decoration: underline;
+    }
+}
+
+#site-footer {
+  text-align: center;
+  font-size: .9em;
+  margin-bottom: 96px;
+  margin-top: 64px;
+
+  p {
+    margin: 0;
+  }
 }
 
 /* large desktop */
@@ -49,4 +108,5 @@ body {
         width: 80%;
         margin: auto;
     }
+
 }
