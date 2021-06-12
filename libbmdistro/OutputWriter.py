@@ -8,6 +8,8 @@ import os
 import requests
 import shutil
 import subprocess
+import functools
+import itertools
 
 template = '''
 ---
@@ -29,70 +31,78 @@ class OutputWriter:
         try: os.makedirs(image_dir)
         except OSError: pass
 
-        keys = sorted(db.items.keys())
-        for artist in keys:
-            v = db.items[artist]
-            for album, v2 in v.items():
-                variants = sorted(v2.keys(), reverse = True)
+        for album in db.get_all_albums():
+            print('parsing', album)
 
-                s = f'{artist}-{album}'
-                s = s.lower()
-                s = s.replace('/', '-').replace('*', '').replace(' ', '_')
+            products = list(db.get_products_for_album(album))
+            grouped_products = itertools.groupby(sorted(products,
+                                                        key = lambda x: x.item_type),
+                                                 key = lambda x: x.item_type)
+            # make sure to turn iterators into lists!
+            product_dict = functools.reduce(lambda acc, v: dict(list(acc.items()) + [(v[0], list(v[1]))]), grouped_products, {})
+            variants = list(sorted(product_dict.keys(), reverse = True))
 
-                # check the cache or download the artwork
-                (cover, thumb) = self.download_artwork(artist, album, s)
+            s = f'{album.artist}-{album.title}'
+            s = s.lower()
+            s = s.replace('/', '-').replace('*', '').replace(' ', '_')
+            
+            # check the cache or download the artwork
+            (cover, thumb) = self.download_artwork(album.artist, album.title, s)
+            if cover:
+                shutil.copy(cover, os.path.join(image_dir, os.path.basename(cover)))
+            if thumb:
+                shutil.copy(thumb, os.path.join(image_dir, os.path.basename(thumb)))
+
+            def get_prices():
+                prices = [p.price for p in products]
+                min_price, max_price = min(prices), max(prices)
+                if min_price != max_price:
+                    return f'{self.format_price(min_price)} - {self.format_price(max_price)}'
+
+                return self.format_price(max_price)
+                
+            prices = get_prices()
+
+            # get the most recent modified date of any product
+            last_modified = max([p.updated_at for p in products])
+            
+
+            with open(os.path.join(base_directory, 'content', 'products', f'{s}.md'), 'w') as f:
+                f.write('---\n')
+                f.write(f'title: "{album.artist} - {album.title}"\n')
+                f.write(f'date: {last_modified.isoformat()}\n')
+                f.write('draft: false\n')
+                f.write(f'artist: "{album.artist}"\n')
+                f.write(f'album: "{album.title}"\n')
+                f.write('categories:\n')
+                for i in variants:
+                    f.write(f'    - {i}\n')
+                f.write('images:\n')
                 if cover:
-                    shutil.copy(cover, os.path.join(image_dir, os.path.basename(cover)))
+                    f.write(f'    - "/images/covers/{os.path.basename(cover)}"\n')
+                else:
+                    f.write(f'    - /images/blank-record.svg\n')
                 if thumb:
-                    shutil.copy(thumb, os.path.join(image_dir, os.path.basename(thumb)))
+                    f.write(f'thumbnailImage: "/images/covers/{os.path.basename(thumb)}"\n')
+                else:
+                    f.write(f'thumbnailImage: /images/blank-record.svg\n')
+                f.write(f'actualPrice: ${prices}\n')
+                f.write('inStock: true\n')
+                f.write('---\n')
+                f.write('\n')
 
-                def get_prices():
-                    prices = []
-                    for v3 in v2.values():
-                        for p in v3['products']:
-                            prices.append(p.price)
+                for item_type in variants:
+                    variant_products = list(product_dict[item_type])
+                    f.write(f'## {item_type}\n')
+                    for p in variant_products:
+                        if p.description:
+                            f.write(f'* Purchase from [{p.store.name}]({p.link}) for ${self.format_price(p.price)} :: {p.description}\n')
+                        else:
+                            f.write(f'* Purchase from [{p.store.name}]({p.link}) for ${self.format_price(p.price)}\n')
 
-                    min_price, max_price = min(prices, key = float), max(prices, key = float)
-                    if min_price != max_price:
-                        return f'{min_price} - {max_price}'
-                    
-                    return max_price
-
-                prices = get_prices()
-                    
-                with open(os.path.join(base_directory, 'content', 'products', f'{s}.md'), 'w') as f:
-                    f.write('---\n')
-                    f.write(f'title: "{artist} - {album}"\n')
-                    f.write('date: 2021-02-04T00:00:00-00:00\n')
-                    f.write('draft: false\n')
-                    f.write(f'artist: "{artist}"\n')
-                    f.write(f'album: "{album}"\n')
-                    f.write('categories:\n')
-                    for i in variants:
-                        f.write(f'    - {i}\n')
-                    f.write('images:\n')
-                    if cover:
-                        f.write(f'    - "/images/covers/{os.path.basename(cover)}"\n')
-                    else:
-                        f.write(f'    - /images/blank-record.svg\n')
-                    if thumb:
-                        f.write(f'thumbnailImage: "/images/covers/{os.path.basename(thumb)}"\n')
-                    else:
-                        f.write(f'thumbnailImage: /images/blank-record.svg\n')
-                    f.write(f'actualPrice: ${prices}\n')
-                    f.write('inStock: true\n')
-                    f.write('---\n')
-                    f.write('\n')
-
-                    for item_type in variants:
-                        v3 = v2[item_type]
-                        f.write(f'## {item_type}\n')
-                        for p in v3['products']:
-                            if p.description:
-                                f.write(f'* Purchase from [{p.store.name}]({p.link}) for ${p.price} :: {p.description}\n')
-                            else:
-                                f.write(f'* Purchase from [{p.store.name}]({p.link}) for ${p.price}\n')
-
+    def format_price(self, p):
+        return '{0:.2f}'.format(p / 100.)
+        
     def download_artwork(self, artist, album, name):
         print(f'Downloading artwork for {artist} - {album}')
         try: os.makedirs('__cache__')

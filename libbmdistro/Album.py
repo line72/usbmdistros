@@ -4,12 +4,8 @@
 # Released under the GPLv3
 
 class Album:
-    def __init__(self, artist, title, item_type):
+    def __init__(self, aId, artist, title):
+        self.aId = aId
         self.artist = artist
         self.title = title
-        self.item_type = item_type
-        self.image_links = set()
-
-    def add_image_link(self, link):
-        self.image_links.add(link)
         

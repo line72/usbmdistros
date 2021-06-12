@@ -4,7 +4,8 @@
 # Released under the GPLv3
 
 class Store:
-    def __init__(self, name, url):
+    def __init__(self, sId, name, url):
+        self.sId = sId
         self.name = name
         self.url = url
         

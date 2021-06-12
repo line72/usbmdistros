@@ -54,6 +54,7 @@ class ArcaneAltar(Parser):
         return list(filter(lambda x: x != None, entries))
 
     def parseItem(self, db, entry):
+        pId = entry['g_id']
         try:
             artist, rest = entry['g_title'].split(sep = '-', maxsplit = 1)
         except ValueError:
@@ -68,15 +69,15 @@ class ArcaneAltar(Parser):
         artist = artist.strip(string.whitespace + chr(8206) + chr(160))
         
         album, item_type = self.split_album_type(rest)
-        price = self.get_price(entry['g_price'])
+        price = int(float(self.get_price(entry['g_price'])) * 100)
         availability = entry['g_availability']
         #img_link = entry['g_image_link']
         
         in_stock = Product.STOCK_IN_STOCK if availability == 'in stock' else Product.STOCK_OUT_OF_STOCK
         
-        album = db.get_album(artist, album, item_type)
+        album = db.get_album(artist, album)
 
-        return Product(album, self.store, entry['g_link'], price, in_stock, -1)
+        return Product(None, pId, album, self.store, entry['g_link'], item_type, price, in_stock, -1)
 
     def split_album_type(self, s):
         for (i, t, r) in self.retests:

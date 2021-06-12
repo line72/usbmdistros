@@ -47,7 +47,7 @@ class DebemurMorti(Parser):
         artist = entry.find('div', 'p').strong.text
         album, description = self.parse_album(entry.find('div', 'p').find('a').text)
         category = entry.find('a', 'cat')['href']
-        price = self.parse_price(entry.find('div', 'price').strong.text)
+        price = int(float(self.parse_price(entry.find('div', 'price').strong.text)) * 100)
 
         link = entry.find('div', 'p').find('a')['href']
 
@@ -58,10 +58,12 @@ class DebemurMorti(Parser):
         quantity = -1
 
         item_type = self.get_item_type(category)
-        #print(artist, album, price, url, item_type)
+
+        # use the url as the id
+        pId = link
         
-        album = db.get_album(artist, album, item_type)
-        return Product(album, self.store, url, price, in_stock, quantity, description)
+        album = db.get_album(artist, album)
+        return Product(None, pId, album, self.store, url, item_type, price, in_stock, quantity, description)
 
     def parse_price(self, p):
         r = re.compile(r'^\s*\$(\d+\.\d+)\s*.*$')

@@ -8,32 +8,34 @@
 
 import libbmdistro
 
-stores = {
-    'stovokor': libbmdistro.Store("Sto'Vo'Kor Records", "https://stovokor-records.com"),
-    'arcane-altar': libbmdistro.Store("Arcane Altar", "https://arcanealtar.bigcartel.com"),
-    'debemur-morti': libbmdistro.Store('Debemur Morti', "https://debemurmorti.aisamerch.com/")
-}
-
-parsers = [
-    #libbmdistro.parsers.StoVoKor(stores['stovokor'], 'https://stovokor-records.com/collections/all.atom'),
-    libbmdistro.parsers.StoVoKor(stores['stovokor'], 'https://stovokor-records.com/products.json'),
-    libbmdistro.parsers.ArcaneAltar(stores['arcane-altar'], 'https://arcanealtar.bigcartel.com/category/12-vinyl.xml'),
-    libbmdistro.parsers.ArcaneAltar(stores['arcane-altar'], 'https://arcanealtar.bigcartel.com/category/10-vinyl.xml'),
-    libbmdistro.parsers.ArcaneAltar(stores['arcane-altar'], 'https://arcanealtar.bigcartel.com/category/7-vinyl.xml'),
-    libbmdistro.parsers.ArcaneAltar(stores['arcane-altar'], 'https://arcanealtar.bigcartel.com/category/tapes.xml'),
-    libbmdistro.parsers.ArcaneAltar(stores['arcane-altar'], 'https://arcanealtar.bigcartel.com/category/cds.xml'),
-    libbmdistro.parsers.DebemurMorti(stores['debemur-morti'], 'https://debemurmorti.aisamerch.com/c/music-video'),
-]
 
 def go():
     db = libbmdistro.DB()
+
+    stores = {
+        'stovokor': db.get_store(libbmdistro.Store(None, "Sto'Vo'Kor Records", "https://stovokor-records.com")),
+        'arcane-altar': db.get_store(libbmdistro.Store(None, "Arcane Altar", "https://arcanealtar.bigcartel.com")),
+        'debemur-morti': db.get_store(libbmdistro.Store(None, 'Debemur Morti', "https://debemurmorti.aisamerch.com/"))
+    }
+
+    parsers = [
+        #libbmdistro.parsers.StoVoKor(stores['stovokor'], 'https://stovokor-records.com/collections/all.atom'),
+        libbmdistro.parsers.StoVoKor(stores['stovokor'], 'https://stovokor-records.com/products.json'),
+        libbmdistro.parsers.ArcaneAltar(stores['arcane-altar'], 'https://arcanealtar.bigcartel.com/category/12-vinyl.xml'),
+        libbmdistro.parsers.ArcaneAltar(stores['arcane-altar'], 'https://arcanealtar.bigcartel.com/category/10-vinyl.xml'),
+        libbmdistro.parsers.ArcaneAltar(stores['arcane-altar'], 'https://arcanealtar.bigcartel.com/category/7-vinyl.xml'),
+        libbmdistro.parsers.ArcaneAltar(stores['arcane-altar'], 'https://arcanealtar.bigcartel.com/category/tapes.xml'),
+        libbmdistro.parsers.ArcaneAltar(stores['arcane-altar'], 'https://arcanealtar.bigcartel.com/category/cds.xml'),
+        libbmdistro.parsers.DebemurMorti(stores['debemur-morti'], 'https://debemurmorti.aisamerch.com/c/music-video'),
+    ]
+
     
     for parser in parsers:
         print('parsing', parser.store.name)
         products = parser.parse(db)
         for p in products:
             db.add_product(p)
-
+            
     # keys = sorted(db.items.keys())
     # for artist in keys:
     #     v = db.items[artist]

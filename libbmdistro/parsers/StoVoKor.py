@@ -35,19 +35,20 @@ class StoVoKor(Parser):
         return entries
 
     def parseItem(self, db, entry):
+        pId = entry['id']
         artist, album = entry['title'].split(sep = '-', maxsplit = 1)
         artist = artist.strip()
         album = self.split_album_type(album)
         item_type = entry['product_type']
-        price = entry['variants'][0]['price']
+        price = int(float(entry['variants'][0]['price']) * 100)
 
         handle = entry['handle']
         u = urllib.parse.urlparse(self.feed)
         link = f'{u.scheme}://{u.netloc}/products/{handle}'
 
-        album = db.get_album(artist, album, item_type)
+        album = db.get_album(artist, album)
         
-        return Product(album, self.store, link, price, Product.STOCK_UNKNOWN, -1)
+        return Product(None, pId, album, self.store, link, item_type, price, Product.STOCK_UNKNOWN, -1)
 
     def split_album_type(self, s):
         retests = [
