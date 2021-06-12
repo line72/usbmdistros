@@ -1,6 +1,6 @@
 ---
 title: "Via Sinistra - Silencioso Culto do Abismo"
-date: 2021-02-04T00:00:00-00:00
+date: 2021-06-12T14:07:58
 draft: false
 artist: "Via Sinistra"
 album: "Silencioso Culto do Abismo"

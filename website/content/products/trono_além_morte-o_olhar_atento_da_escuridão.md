@@ -1,6 +1,6 @@
 ---
 title: "Trono Além Morte - O Olhar Atento da Escuridão"
-date: 2021-02-04T00:00:00-00:00
+date: 2021-06-12T14:07:52
 draft: false
 artist: "Trono Além Morte"
 album: "O Olhar Atento da Escuridão"

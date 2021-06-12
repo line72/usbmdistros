@@ -1,6 +1,6 @@
 ---
 title: "Rattenkönig / Salvation / Blood Ritual / Dzarkdzaal - Hymns from the Black Forest"
-date: 2021-02-04T00:00:00-00:00
+date: 2021-06-12T14:07:59
 draft: false
 artist: "Rattenkönig / Salvation / Blood Ritual / Dzarkdzaal"
 album: "Hymns from the Black Forest"

@@ -1,6 +1,6 @@
 ---
 title: "V/A - Devastators of the Suns (A Tribute to KATHARSIS)"
-date: 2021-02-04T00:00:00-00:00
+date: 2021-06-12T14:07:58
 draft: false
 artist: "V/A"
 album: "Devastators of the Suns (A Tribute to KATHARSIS)"

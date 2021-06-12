@@ -1,6 +1,6 @@
 ---
 title: "Legion of Doom - Ceremony of Domination"
-date: 2021-02-04T00:00:00-00:00
+date: 2021-06-12T14:07:51
 draft: false
 artist: "Legion of Doom"
 album: "Ceremony of Domination"

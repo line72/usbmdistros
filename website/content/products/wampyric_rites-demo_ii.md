@@ -1,6 +1,6 @@
 ---
 title: "Wampyric Rites - Demo II"
-date: 2021-02-04T00:00:00-00:00
+date: 2021-06-12T14:07:58
 draft: false
 artist: "Wampyric Rites"
 album: "Demo II"

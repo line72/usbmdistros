@@ -1,6 +1,6 @@
 ---
 title: "Ātesh - Demo VI + Demo VII"
-date: 2021-02-04T00:00:00-00:00
+date: 2021-06-12T14:07:51
 draft: false
 artist: "Ātesh"
 album: "Demo VI + Demo VII"

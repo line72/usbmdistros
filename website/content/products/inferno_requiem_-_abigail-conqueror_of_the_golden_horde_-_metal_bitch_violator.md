@@ -1,6 +1,6 @@
 ---
 title: "Inferno Requiem / Abigail - Conqueror of the Golden Horde / Metal Bitch Violator"
-date: 2021-02-04T00:00:00-00:00
+date: 2021-06-12T14:07:59
 draft: false
 artist: "Inferno Requiem / Abigail"
 album: "Conqueror of the Golden Horde / Metal Bitch Violator"

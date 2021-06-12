@@ -1,6 +1,6 @@
 ---
 title: "Irae / Mors de Corpus - Split"
-date: 2021-02-04T00:00:00-00:00
+date: 2021-06-12T14:07:52
 draft: false
 artist: "Irae / Mors de Corpus"
 album: "Split"

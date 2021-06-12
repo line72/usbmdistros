@@ -1,6 +1,6 @@
 ---
 title: "Cosmic Void Ritual / Fetid Zombie - Manifestations of Sacrificial Macrocosms"
-date: 2021-02-04T00:00:00-00:00
+date: 2021-06-12T14:07:54
 draft: false
 artist: "Cosmic Void Ritual / Fetid Zombie"
 album: "Manifestations of Sacrificial Macrocosms"

@@ -1,6 +1,6 @@
 ---
 title: "Blackline - Simultaneous Pulsations"
-date: 2021-02-04T00:00:00-00:00
+date: 2021-06-12T14:07:53
 draft: false
 artist: "Blackline"
 album: "Simultaneous Pulsations"

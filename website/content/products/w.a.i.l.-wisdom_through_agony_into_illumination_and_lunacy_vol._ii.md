@@ -1,6 +1,6 @@
 ---
 title: "W.A.I.L. - Wisdom Through Agony Into Illumination and Lunacy Vol. II"
-date: 2021-02-04T00:00:00-00:00
+date: 2021-06-12T14:07:52
 draft: false
 artist: "W.A.I.L."
 album: "Wisdom Through Agony Into Illumination and Lunacy Vol. II"

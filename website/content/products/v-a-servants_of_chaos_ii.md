@@ -1,6 +1,6 @@
 ---
 title: "V/A - Servants Of Chaos II"
-date: 2021-02-04T00:00:00-00:00
+date: 2021-06-12T14:11:53
 draft: false
 artist: "V/A"
 album: "Servants Of Chaos II"
@@ -15,7 +15,7 @@ inStock: true
 ---
 
 ## Vinyl
-* Purchase from [Debemur Morti](https://debemurmorti.aisamerch.com/item/67782) for $49.99
 * Purchase from [Debemur Morti](https://debemurmorti.aisamerch.com/item/67783) for $29.99
+* Purchase from [Debemur Morti](https://debemurmorti.aisamerch.com/item/67782) for $49.99
 ## CD
 * Purchase from [Debemur Morti](https://debemurmorti.aisamerch.com/item/67784) for $12.99

@@ -1,6 +1,6 @@
 ---
 title: "Flooded Church of Asmodeus - Piss Soaked Church of the Wrong"
-date: 2021-02-04T00:00:00-00:00
+date: 2021-06-12T14:07:56
 draft: false
 artist: "Flooded Church of Asmodeus"
 album: "Piss Soaked Church of the Wrong"

@@ -1,6 +1,6 @@
 ---
 title: "Broken Spirit ‎– Demo Collection 2012 - 2017"
-date: 2021-02-04T00:00:00-00:00
+date: 2021-06-12T14:07:59
 draft: false
 artist: "Broken Spirit ‎– Demo Collection 2012"
 album: "2017"

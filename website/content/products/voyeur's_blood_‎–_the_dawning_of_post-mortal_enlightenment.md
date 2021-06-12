@@ -1,6 +1,6 @@
 ---
 title: "Voyeur's Blood ‎– The Dawning of Post - Mortal Enlightenment"
-date: 2021-02-04T00:00:00-00:00
+date: 2021-06-12T14:07:52
 draft: false
 artist: "Voyeur's Blood ‎– The Dawning of Post"
 album: "Mortal Enlightenment"

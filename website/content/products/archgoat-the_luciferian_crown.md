@@ -1,6 +1,6 @@
 ---
 title: "Archgoat - The Luciferian Crown"
-date: 2021-02-04T00:00:00-00:00
+date: 2021-06-12T14:11:52
 draft: false
 artist: "Archgoat"
 album: "The Luciferian Crown"

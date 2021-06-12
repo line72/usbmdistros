@@ -1,6 +1,6 @@
 ---
 title: "Hollow Woods - Endless Trails"
-date: 2021-02-04T00:00:00-00:00
+date: 2021-06-12T14:07:56
 draft: false
 artist: "Hollow Woods"
 album: "Endless Trails"

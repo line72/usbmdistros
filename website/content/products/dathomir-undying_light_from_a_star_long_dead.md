@@ -1,6 +1,6 @@
 ---
 title: "Dathomir - Undying Light from a Star Long Dead"
-date: 2021-02-04T00:00:00-00:00
+date: 2021-06-12T14:07:51
 draft: false
 artist: "Dathomir"
 album: "Undying Light from a Star Long Dead"

@@ -1,6 +1,6 @@
 ---
 title: "Ordo Sanguinis Noctis - Bloody Aeon of Fullmoon Sacrifices"
-date: 2021-02-04T00:00:00-00:00
+date: 2021-06-12T14:07:54
 draft: false
 artist: "Ordo Sanguinis Noctis"
 album: "Bloody Aeon of Fullmoon Sacrifices"

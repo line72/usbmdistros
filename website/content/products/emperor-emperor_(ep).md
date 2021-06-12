@@ -1,6 +1,6 @@
 ---
 title: "Emperor - Emperor (EP)"
-date: 2021-02-04T00:00:00-00:00
+date: 2021-06-12T14:04:39
 draft: false
 artist: "Emperor"
 album: "Emperor (EP)"

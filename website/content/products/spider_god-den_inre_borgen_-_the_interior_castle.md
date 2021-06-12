@@ -1,6 +1,6 @@
 ---
 title: "Spider God - Den Inre Borgen / The Interior Castle"
-date: 2021-02-04T00:00:00-00:00
+date: 2021-06-12T14:07:58
 draft: false
 artist: "Spider God"
 album: "Den Inre Borgen / The Interior Castle"

@@ -1,6 +1,6 @@
 ---
 title: "Nihil Invocation - Dead Seed Immersed in Glory"
-date: 2021-02-04T00:00:00-00:00
+date: 2021-06-12T14:07:51
 draft: false
 artist: "Nihil Invocation"
 album: "Dead Seed Immersed in Glory"

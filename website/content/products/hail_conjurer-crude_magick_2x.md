@@ -1,6 +1,6 @@
 ---
 title: "Hail Conjurer - Crude Magick 2x"
-date: 2021-02-04T00:00:00-00:00
+date: 2021-06-12T14:07:56
 draft: false
 artist: "Hail Conjurer"
 album: "Crude Magick 2x"

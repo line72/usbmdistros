@@ -1,6 +1,6 @@
 ---
 title: "Ceremonial Crypt Desecration - Anointed by the Crimson Veil"
-date: 2021-02-04T00:00:00-00:00
+date: 2021-06-12T14:07:51
 draft: false
 artist: "Ceremonial Crypt Desecration"
 album: "Anointed by the Crimson Veil"

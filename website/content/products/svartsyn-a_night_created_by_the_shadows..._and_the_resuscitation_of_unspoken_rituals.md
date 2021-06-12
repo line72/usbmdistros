@@ -1,6 +1,6 @@
 ---
 title: "Svartsyn - A Night Created by the Shadows... and the Resuscitation of Unspoken Rituals"
-date: 2021-02-04T00:00:00-00:00
+date: 2021-06-12T14:07:58
 draft: false
 artist: "Svartsyn"
 album: "A Night Created by the Shadows... and the Resuscitation of Unspoken Rituals"

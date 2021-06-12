@@ -1,6 +1,6 @@
 ---
 title: "Blessed in Sin / In Articulo Mortis - Ancient Ceremonies"
-date: 2021-02-04T00:00:00-00:00
+date: 2021-06-12T14:07:55
 draft: false
 artist: "Blessed in Sin / In Articulo Mortis"
 album: "Ancient Ceremonies"

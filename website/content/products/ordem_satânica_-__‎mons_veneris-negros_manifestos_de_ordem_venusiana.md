@@ -1,6 +1,6 @@
 ---
 title: "Ordem Satânica /  ‎Mons Veneris - Negros Manifestos de Ordem Venusiana"
-date: 2021-02-04T00:00:00-00:00
+date: 2021-06-12T14:07:52
 draft: false
 artist: "Ordem Satânica /  ‎Mons Veneris"
 album: "Negros Manifestos de Ordem Venusiana"

@@ -1,6 +1,6 @@
 ---
 title: "Blood Ritual - Demo VII"
-date: 2021-02-04T00:00:00-00:00
+date: 2021-06-12T14:07:56
 draft: false
 artist: "Blood Ritual"
 album: "Demo VII"
