@@ -15,7 +15,8 @@ def go():
     stores = {
         'stovokor': db.get_store(libbmdistro.Store(None, "Sto'Vo'Kor Records", "https://stovokor-records.com")),
         'arcane-altar': db.get_store(libbmdistro.Store(None, "Arcane Altar", "https://arcanealtar.bigcartel.com")),
-        'debemur-morti': db.get_store(libbmdistro.Store(None, 'Debemur Morti', "https://debemurmorti.aisamerch.com/"))
+        'debemur-morti': db.get_store(libbmdistro.Store(None, 'Debemur Morti', "https://debemurmorti.aisamerch.com/")),
+        'caligari': db.get_store(libbmdistro.Store(None, 'Caligari Records', "https://caligarirecords.storenvy.com/"))
     }
 
     parsers = [
@@ -27,6 +28,7 @@ def go():
         libbmdistro.parsers.ArcaneAltar(stores['arcane-altar'], 'https://arcanealtar.bigcartel.com/category/tapes.xml'),
         libbmdistro.parsers.ArcaneAltar(stores['arcane-altar'], 'https://arcanealtar.bigcartel.com/category/cds.xml'),
         libbmdistro.parsers.DebemurMorti(stores['debemur-morti'], 'https://debemurmorti.aisamerch.com/c/music-video'),
+        libbmdistro.parsers.Caligari(stores['caligari'], 'https://caligarirecords.storenvy.com/products.json'),
     ]
 
     
@@ -35,7 +37,7 @@ def go():
         products = parser.parse(db)
         for p in products:
             db.add_product(p)
-            
+
     # keys = sorted(db.items.keys())
     # for artist in keys:
     #     v = db.items[artist]

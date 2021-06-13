@@ -6,5 +6,6 @@
 from .Parser import Parser
 
 from .ArcaneAltar import ArcaneAltar
+from .Caligari import Caligari
 from .DebemurMorti import DebemurMorti
 from .StoVoKor import StoVoKor
