@@ -49,7 +49,7 @@ class Caligari(Parser):
                 return None
                 
         artist = artist.strip().title()
-        title = self.split_album(title).title()
+        (title, description) = self.split_album(title)
         item_type = self.parse_item_type(entry['marketplace_category'])
         price = int(float(entry['price']) * 100)
 
@@ -60,15 +60,38 @@ class Caligari(Parser):
 
         album = db.get_album(artist, title)
 
-        return Product(None, pId, album, self.store, link, item_type, price, Product.STOCK_UNKNOWN, -1)
+        return Product(None, pId, album, self.store, link, item_type, price, Product.STOCK_UNKNOWN, -1, description)
 
     def split_album(self, s):
-        r = re.compile(r'^\s*(.*?)(?:\s+\(Cal\-\d+\))?\s*$')
+        retests = [
+            re.compile(r'^\s*(.*?)(?:\s+\(Cal\-\d+\))(?:\s+\((.*?)\))\s*$'),
+            re.compile(r'^\s*(.*?)(?:\s+\(Cal\-\d+\))\s*$'),
+            re.compile(r'^\s*(.*?)(?:\s+\(Caligari\s+Records\))\s*$'),
+            re.compile(r'^\s*(.*?)(?:\s+\(Vinyl\s+Cal\-\d+\))\s*$'),
+            re.compile(r'^\s*(.*?)(?:\s+\(Vinyl\))\s*$'),
+            re.compile(r'^\s*(.*?)(?:\s+\(Cd\))\s*$'),
+            re.compile(r'^\s*(.*?)(?:\s+\(CD\))\s*$'),
+            re.compile(r'^\s*(.*?)(?:\s+\(Dvd\))\s*$'),
+            re.compile(r'^\s*(.*?)(?:\s+\(DVD\))\s*$'),
+            re.compile(r'^\s*(.*?)(?:\s+\(EP\))\s*$'),
+            re.compile(r'^\s*(.*?)(?:\s+\(Ep\s+Compilation\))\s*$'),
+            re.compile(r'^\s*(.*?)(?:\s+\(EP\s+Compilation\))\s*$'),
+            re.compile(r'^\s*(.*?)(?:\s+\(Vinyl\s+\+\s+Cassette\))\s*$'),
+        ]
 
-        if (match := re.match(r, s)) != None:
-            return match.group(1).strip()
+        for r in retests:
+            if (match := re.match(r, s)) != None:
+                album = match.group(1).strip()
+                if len(match.groups()) > 1:
+                    description = match.group(2)
+                    if not description:
+                        description = ''
+                else:
+                    description = ''
+            
+                return (album.title(), description)
 
-        return s.strip()
+        return (s.strip().title(), '')
     
     def parse_item_type(self, t):
         if t == 'music-cassette-tapes':
