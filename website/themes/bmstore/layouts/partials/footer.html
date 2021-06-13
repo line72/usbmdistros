@@ -1,3 +1,17 @@
 <footer id="site-footer">
+  <div class="container-fluid">
+    <div class="row">
+      <div class="col-12">
+        <hr />
+        <h4>Quick Links</h4>
+        <ul>
+          <li><a href="/distributors">Stores we catalogue</a></li>
+          <li><a href="https://github.com/line72/usbmdistros/issues" target="_blank">Report an Issue</a></li>
+          <li><a href="https://github.com/line72/usbmdistros/issues" target="_blank">Request a New Store</a></li>
+          <li><a href="https://github.com/line72/usbmdistros/" target="_blank">Source Code</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
   <p>&copy; {{ now.Format "2006" }} <a href="{{ .Site.BaseURL }}">{{ .Site.Author.name }}</a>{{ .Site.Params.footerCopyright | safeHTML }}</p>
 </footer>

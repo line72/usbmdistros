@@ -31,7 +31,7 @@ hr {
   border-style: solid;
   background: transparent;
   color: $text;
-  width: 75%;
+  /* width: 75%; */
   margin-bottom: 1.8em;
 }
 
@@ -95,13 +95,13 @@ hr {
 }
 
 #site-footer {
-  text-align: center;
   font-size: .9em;
   margin-bottom: 96px;
   margin-top: 64px;
 
   p {
-    margin: 0;
+      text-align: center;
+      margin: 0;
   }
 }
 

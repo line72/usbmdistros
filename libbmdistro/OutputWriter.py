@@ -31,6 +31,18 @@ class OutputWriter:
         try: os.makedirs(image_dir)
         except OSError: pass
 
+        # Write out the Stores
+        with open(os.path.join(base_directory, 'content', 'distributors.md'), 'w') as f:
+            f.write('---\n')
+            f.write('title: Distributors\n')
+            f.write('date: 2021-06-13T00:00:00-00:00\n')
+            f.write('draft: false\n')
+            f.write('---\n')
+            f.write('\n')
+            for store in db.get_all_stores():
+                f.write(f' * [{store.name}]({store.url})\n')
+
+        # Write out the products
         for album in db.get_all_albums():
             print('parsing', album)
 

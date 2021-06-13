@@ -20,6 +20,13 @@ class DB:
 
         self.create_verify_database()
 
+    def get_all_stores(self):
+        # a cursors iterator is shared
+        #  so create a new one
+        cur = self.conn.cursor()
+        resp = cur.execute('''SELECT * FROM stores ORDER BY name''')
+        return map(lambda i: Store(i['id'], i['name'], i['url']), resp)
+        
     def get_all_albums(self):
         # a cursors iterator is shared
         #  so create a new one
