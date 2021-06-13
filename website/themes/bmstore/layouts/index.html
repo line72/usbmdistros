@@ -7,9 +7,19 @@
         </div>
     </div>
     <div class="row">
+      <div class="col-12">
+        <h2 class="section-title">Recently Updated</h2>
+      </div>
+    </div>
+    <div class="row">
       {{- range first 24 .Site.RegularPages.ByDate.Reverse }}
         {{ partial "products/list/product-list-item.html" . }}
       {{- end }}
+    </div>
+    <div class="row">
+      <div class="col-12 align-center">
+        <a class="button-primary" href="/products" alt="View All">View All</a>
+      </div>
     </div>
 </article>
 {{ partial "footer.html" . }}
