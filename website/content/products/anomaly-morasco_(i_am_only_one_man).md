@@ -7,8 +7,8 @@ album: "Morasco (I Am Only One Man)"
 categories:
     - Tape
 images:
-    - "/images/covers/anomaly-morasco_(i_am_only_one_man).png"
-thumbnailImage: "/images/covers/anomaly-morasco_(i_am_only_one_man)-thumb.png"
+    - "/images/covers/anomaly-morasco_(i_am_only_one_man).jpg"
+thumbnailImage: "/images/covers/anomaly-morasco_(i_am_only_one_man)-thumb.jpg"
 actualPrice: $4.00
 inStock: true
 ---

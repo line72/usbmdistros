@@ -7,8 +7,8 @@ album: "Hammer ov Medieval Might"
 categories:
     - Tape
 images:
-    - "/images/covers/nightblood-hammer_ov_medieval_might.png"
-thumbnailImage: "/images/covers/nightblood-hammer_ov_medieval_might-thumb.png"
+    - "/images/covers/nightblood-hammer_ov_medieval_might.jpg"
+thumbnailImage: "/images/covers/nightblood-hammer_ov_medieval_might-thumb.jpg"
 actualPrice: $10.00
 inStock: true
 ---

@@ -7,8 +7,8 @@ album: "To Anabainon ek tes Abyssu"
 categories:
     - CD
 images:
-    - "/images/covers/bestia_arcana-to_anabainon_ek_tes_abyssu.png"
-thumbnailImage: "/images/covers/bestia_arcana-to_anabainon_ek_tes_abyssu-thumb.png"
+    - "/images/covers/bestia_arcana-to_anabainon_ek_tes_abyssu.jpg"
+thumbnailImage: "/images/covers/bestia_arcana-to_anabainon_ek_tes_abyssu-thumb.jpg"
 actualPrice: $4.99
 inStock: true
 ---

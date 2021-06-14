@@ -7,8 +7,8 @@ album: "The Chasm"
 categories:
     - Tape
 images:
-    - "/images/covers/herzegovinian-the_chasm.png"
-thumbnailImage: "/images/covers/herzegovinian-the_chasm-thumb.png"
+    - "/images/covers/herzegovinian-the_chasm.jpg"
+thumbnailImage: "/images/covers/herzegovinian-the_chasm-thumb.jpg"
 actualPrice: $4.00
 inStock: true
 ---

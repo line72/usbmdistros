@@ -7,8 +7,8 @@ album: "Self-Titled"
 categories:
     - Tape
 images:
-    - "/images/covers/falsehood-self-titled.png"
-thumbnailImage: "/images/covers/falsehood-self-titled-thumb.png"
+    - "/images/covers/falsehood-self-titled.jpg"
+thumbnailImage: "/images/covers/falsehood-self-titled-thumb.jpg"
 actualPrice: $5.00
 inStock: true
 ---

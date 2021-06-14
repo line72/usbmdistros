@@ -7,8 +7,8 @@ album: "Self-Titled"
 categories:
     - Tape
 images:
-    - "/images/covers/bifid_corpse-self-titled.png"
-thumbnailImage: "/images/covers/bifid_corpse-self-titled-thumb.png"
+    - "/images/covers/bifid_corpse-self-titled.jpg"
+thumbnailImage: "/images/covers/bifid_corpse-self-titled-thumb.jpg"
 actualPrice: $6.00
 inStock: true
 ---

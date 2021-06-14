@@ -7,8 +7,8 @@ album: "Morgue Sweet Home"
 categories:
     - Tape
 images:
-    - "/images/covers/haemorrhage-morgue_sweet_home.png"
-thumbnailImage: "/images/covers/haemorrhage-morgue_sweet_home-thumb.png"
+    - "/images/covers/haemorrhage-morgue_sweet_home.jpg"
+thumbnailImage: "/images/covers/haemorrhage-morgue_sweet_home-thumb.jpg"
 actualPrice: $7.50
 inStock: true
 ---

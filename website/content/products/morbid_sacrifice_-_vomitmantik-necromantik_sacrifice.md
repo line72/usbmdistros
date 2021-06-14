@@ -7,8 +7,8 @@ album: "Necromantik Sacrifice"
 categories:
     - Tape
 images:
-    - "/images/covers/morbid_sacrifice_-_vomitmantik-necromantik_sacrifice.png"
-thumbnailImage: "/images/covers/morbid_sacrifice_-_vomitmantik-necromantik_sacrifice-thumb.png"
+    - "/images/covers/morbid_sacrifice_-_vomitmantik-necromantik_sacrifice.jpg"
+thumbnailImage: "/images/covers/morbid_sacrifice_-_vomitmantik-necromantik_sacrifice-thumb.jpg"
 actualPrice: $7.50
 inStock: true
 ---

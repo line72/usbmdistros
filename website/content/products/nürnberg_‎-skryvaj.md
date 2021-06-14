@@ -7,8 +7,8 @@ album: "Skryvaj"
 categories:
     - Tape
 images:
-    - "/images/covers/nürnberg_‎-skryvaj.png"
-thumbnailImage: "/images/covers/nürnberg_‎-skryvaj-thumb.png"
+    - "/images/covers/nürnberg_‎-skryvaj.jpg"
+thumbnailImage: "/images/covers/nürnberg_‎-skryvaj-thumb.jpg"
 actualPrice: $8.50
 inStock: true
 ---

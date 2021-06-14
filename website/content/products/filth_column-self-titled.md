@@ -7,8 +7,8 @@ album: "Self-Titled"
 categories:
     - Tape
 images:
-    - "/images/covers/filth_column-self-titled.png"
-thumbnailImage: "/images/covers/filth_column-self-titled-thumb.png"
+    - "/images/covers/filth_column-self-titled.jpg"
+thumbnailImage: "/images/covers/filth_column-self-titled-thumb.jpg"
 actualPrice: $5.00
 inStock: true
 ---

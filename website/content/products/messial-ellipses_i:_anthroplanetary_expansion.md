@@ -7,8 +7,8 @@ album: "Ellipses I: Anthroplanetary Expansion"
 categories:
     - Tape
 images:
-    - "/images/covers/messial-ellipses_i:_anthroplanetary_expansion.png"
-thumbnailImage: "/images/covers/messial-ellipses_i:_anthroplanetary_expansion-thumb.png"
+    - "/images/covers/messial-ellipses_i:_anthroplanetary_expansion.jpg"
+thumbnailImage: "/images/covers/messial-ellipses_i:_anthroplanetary_expansion-thumb.jpg"
 actualPrice: $5.00
 inStock: true
 ---

@@ -7,8 +7,8 @@ album: "Feeble Psychotic Vortex"
 categories:
     - Tape
 images:
-    - "/images/covers/gaua-feeble_psychotic_vortex.png"
-thumbnailImage: "/images/covers/gaua-feeble_psychotic_vortex-thumb.png"
+    - "/images/covers/gaua-feeble_psychotic_vortex.jpg"
+thumbnailImage: "/images/covers/gaua-feeble_psychotic_vortex-thumb.jpg"
 actualPrice: $10.00
 inStock: true
 ---

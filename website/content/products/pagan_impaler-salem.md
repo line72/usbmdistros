@@ -7,8 +7,8 @@ album: "Salem"
 categories:
     - Tape
 images:
-    - "/images/covers/pagan_impaler-salem.png"
-thumbnailImage: "/images/covers/pagan_impaler-salem-thumb.png"
+    - "/images/covers/pagan_impaler-salem.jpg"
+thumbnailImage: "/images/covers/pagan_impaler-salem-thumb.jpg"
 actualPrice: $8.00
 inStock: true
 ---

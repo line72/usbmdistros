@@ -7,8 +7,8 @@ album: "Demo 2019"
 categories:
     - Tape
 images:
-    - "/images/covers/perinei-demo_2019.png"
-thumbnailImage: "/images/covers/perinei-demo_2019-thumb.png"
+    - "/images/covers/perinei-demo_2019.jpg"
+thumbnailImage: "/images/covers/perinei-demo_2019-thumb.jpg"
 actualPrice: $6.00
 inStock: true
 ---

@@ -7,8 +7,8 @@ album: "Documentary"
 categories:
     - CD
 images:
-    - "/images/covers/punk_attitude-documentary.png"
-thumbnailImage: "/images/covers/punk_attitude-documentary-thumb.png"
+    - "/images/covers/punk_attitude-documentary.jpg"
+thumbnailImage: "/images/covers/punk_attitude-documentary-thumb.jpg"
 actualPrice: $7.00
 inStock: true
 ---

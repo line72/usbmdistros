@@ -7,8 +7,8 @@ album: "Mysteries"
 categories:
     - Tape
 images:
-    - "/images/covers/de_umbra_ordo_infernalis-mysteries.png"
-thumbnailImage: "/images/covers/de_umbra_ordo_infernalis-mysteries-thumb.png"
+    - "/images/covers/de_umbra_ordo_infernalis-mysteries.jpg"
+thumbnailImage: "/images/covers/de_umbra_ordo_infernalis-mysteries-thumb.jpg"
 actualPrice: $7.50
 inStock: true
 ---

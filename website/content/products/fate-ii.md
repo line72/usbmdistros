@@ -7,8 +7,8 @@ album: "Ii"
 categories:
     - Tape
 images:
-    - "/images/covers/fate-ii.png"
-thumbnailImage: "/images/covers/fate-ii-thumb.png"
+    - "/images/covers/fate-ii.jpg"
+thumbnailImage: "/images/covers/fate-ii-thumb.jpg"
 actualPrice: $5.00
 inStock: true
 ---

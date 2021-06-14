@@ -7,8 +7,8 @@ album: "Demo Mmxx"
 categories:
     - Tape
 images:
-    - "/images/covers/awaketh-demo_mmxx.png"
-thumbnailImage: "/images/covers/awaketh-demo_mmxx-thumb.png"
+    - "/images/covers/awaketh-demo_mmxx.jpg"
+thumbnailImage: "/images/covers/awaketh-demo_mmxx-thumb.jpg"
 actualPrice: $8.50
 inStock: true
 ---

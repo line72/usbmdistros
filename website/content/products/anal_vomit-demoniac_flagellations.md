@@ -7,8 +7,8 @@ album: "Demoniac Flagellations"
 categories:
     - Tape
 images:
-    - "/images/covers/anal_vomit-demoniac_flagellations.png"
-thumbnailImage: "/images/covers/anal_vomit-demoniac_flagellations-thumb.png"
+    - "/images/covers/anal_vomit-demoniac_flagellations.jpg"
+thumbnailImage: "/images/covers/anal_vomit-demoniac_flagellations-thumb.jpg"
 actualPrice: $8.00
 inStock: true
 ---

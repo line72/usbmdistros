@@ -7,8 +7,8 @@ album: "Arisen from the Ashes"
 categories:
     - Vinyl
 images:
-    - "/images/covers/ondskapt-arisen_from_the_ashes.png"
-thumbnailImage: "/images/covers/ondskapt-arisen_from_the_ashes-thumb.png"
+    - "/images/covers/ondskapt-arisen_from_the_ashes.jpg"
+thumbnailImage: "/images/covers/ondskapt-arisen_from_the_ashes-thumb.jpg"
 actualPrice: $25.00
 inStock: true
 ---

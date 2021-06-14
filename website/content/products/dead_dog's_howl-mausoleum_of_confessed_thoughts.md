@@ -7,8 +7,8 @@ album: "Mausoleum Of Confessed Thoughts"
 categories:
     - Tape
 images:
-    - "/images/covers/dead_dog's_howl-mausoleum_of_confessed_thoughts.png"
-thumbnailImage: "/images/covers/dead_dog's_howl-mausoleum_of_confessed_thoughts-thumb.png"
+    - "/images/covers/dead_dog's_howl-mausoleum_of_confessed_thoughts.jpg"
+thumbnailImage: "/images/covers/dead_dog's_howl-mausoleum_of_confessed_thoughts-thumb.jpg"
 actualPrice: $7.00
 inStock: true
 ---

@@ -7,8 +7,8 @@ album: "Warlust"
 categories:
     - Tape
 images:
-    - "/images/covers/black_mass-warlust.png"
-thumbnailImage: "/images/covers/black_mass-warlust-thumb.png"
+    - "/images/covers/black_mass-warlust.jpg"
+thumbnailImage: "/images/covers/black_mass-warlust-thumb.jpg"
 actualPrice: $4.00
 inStock: true
 ---

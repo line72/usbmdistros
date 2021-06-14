@@ -7,8 +7,8 @@ album: "Live Promo Tape"
 categories:
     - Tape
 images:
-    - "/images/covers/hinterkaifek-live_promo_tape.png"
-thumbnailImage: "/images/covers/hinterkaifek-live_promo_tape-thumb.png"
+    - "/images/covers/hinterkaifek-live_promo_tape.jpg"
+thumbnailImage: "/images/covers/hinterkaifek-live_promo_tape-thumb.jpg"
 actualPrice: $5.00
 inStock: true
 ---

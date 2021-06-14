@@ -7,8 +7,8 @@ album: "Demo 2018"
 categories:
     - Tape
 images:
-    - "/images/covers/caassimolar-demo_2018.png"
-thumbnailImage: "/images/covers/caassimolar-demo_2018-thumb.png"
+    - "/images/covers/caassimolar-demo_2018.jpg"
+thumbnailImage: "/images/covers/caassimolar-demo_2018-thumb.jpg"
 actualPrice: $5.00
 inStock: true
 ---

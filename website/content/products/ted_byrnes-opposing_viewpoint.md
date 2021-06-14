@@ -7,8 +7,8 @@ album: "Opposing Viewpoint"
 categories:
     - Tape
 images:
-    - "/images/covers/ted_byrnes-opposing_viewpoint.png"
-thumbnailImage: "/images/covers/ted_byrnes-opposing_viewpoint-thumb.png"
+    - "/images/covers/ted_byrnes-opposing_viewpoint.jpg"
+thumbnailImage: "/images/covers/ted_byrnes-opposing_viewpoint-thumb.jpg"
 actualPrice: $8.00
 inStock: true
 ---

@@ -7,8 +7,8 @@ album: "Clerherético"
 categories:
     - Tape
 images:
-    - "/images/covers/coatl-clerherético.png"
-thumbnailImage: "/images/covers/coatl-clerherético-thumb.png"
+    - "/images/covers/coatl-clerherético.jpg"
+thumbnailImage: "/images/covers/coatl-clerherético-thumb.jpg"
 actualPrice: $6.50
 inStock: true
 ---

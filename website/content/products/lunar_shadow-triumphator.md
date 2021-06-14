@@ -7,8 +7,8 @@ album: "Triumphator"
 categories:
     - Tape
 images:
-    - "/images/covers/lunar_shadow-triumphator.png"
-thumbnailImage: "/images/covers/lunar_shadow-triumphator-thumb.png"
+    - "/images/covers/lunar_shadow-triumphator.jpg"
+thumbnailImage: "/images/covers/lunar_shadow-triumphator-thumb.jpg"
 actualPrice: $4.50
 inStock: true
 ---

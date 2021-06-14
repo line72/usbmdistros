@@ -7,8 +7,8 @@ album: "Pilgrimage"
 categories:
     - Tape
 images:
-    - "/images/covers/sammas'_equinox-pilgrimage.png"
-thumbnailImage: "/images/covers/sammas'_equinox-pilgrimage-thumb.png"
+    - "/images/covers/sammas'_equinox-pilgrimage.jpg"
+thumbnailImage: "/images/covers/sammas'_equinox-pilgrimage-thumb.jpg"
 actualPrice: $4.00
 inStock: true
 ---

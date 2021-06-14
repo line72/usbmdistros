@@ -7,8 +7,8 @@ album: "Moon of Characith"
 categories:
     - Vinyl
 images:
-    - "/images/covers/black_funeral-moon_of_characith.png"
-thumbnailImage: "/images/covers/black_funeral-moon_of_characith-thumb.png"
+    - "/images/covers/black_funeral-moon_of_characith.jpg"
+thumbnailImage: "/images/covers/black_funeral-moon_of_characith-thumb.jpg"
 actualPrice: $16.00
 inStock: true
 ---

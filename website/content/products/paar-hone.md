@@ -7,8 +7,8 @@ album: "Hone"
 categories:
     - Tape
 images:
-    - "/images/covers/paar-hone.png"
-thumbnailImage: "/images/covers/paar-hone-thumb.png"
+    - "/images/covers/paar-hone.jpg"
+thumbnailImage: "/images/covers/paar-hone-thumb.jpg"
 actualPrice: $6.00
 inStock: true
 ---

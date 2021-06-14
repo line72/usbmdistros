@@ -7,8 +7,8 @@ album: "Sinister Glorification"
 categories:
     - Tape
 images:
-    - "/images/covers/church_bizarre-sinister_glorification.png"
-thumbnailImage: "/images/covers/church_bizarre-sinister_glorification-thumb.png"
+    - "/images/covers/church_bizarre-sinister_glorification.jpg"
+thumbnailImage: "/images/covers/church_bizarre-sinister_glorification-thumb.jpg"
 actualPrice: $8.00
 inStock: true
 ---

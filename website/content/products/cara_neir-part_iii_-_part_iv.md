@@ -7,8 +7,8 @@ album: "Part Iii / Part Iv"
 categories:
     - Tape
 images:
-    - "/images/covers/cara_neir-part_iii_-_part_iv.png"
-thumbnailImage: "/images/covers/cara_neir-part_iii_-_part_iv-thumb.png"
+    - "/images/covers/cara_neir-part_iii_-_part_iv.jpg"
+thumbnailImage: "/images/covers/cara_neir-part_iii_-_part_iv-thumb.jpg"
 actualPrice: $6.00
 inStock: true
 ---

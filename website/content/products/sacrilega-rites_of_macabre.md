@@ -7,8 +7,8 @@ album: "Rites Of Macabre"
 categories:
     - Tape
 images:
-    - "/images/covers/sacrilega-rites_of_macabre.png"
-thumbnailImage: "/images/covers/sacrilega-rites_of_macabre-thumb.png"
+    - "/images/covers/sacrilega-rites_of_macabre.jpg"
+thumbnailImage: "/images/covers/sacrilega-rites_of_macabre-thumb.jpg"
 actualPrice: $7.00
 inStock: true
 ---

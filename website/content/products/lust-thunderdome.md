@@ -7,8 +7,8 @@ album: "Thunderdome"
 categories:
     - Tape
 images:
-    - "/images/covers/lust-thunderdome.png"
-thumbnailImage: "/images/covers/lust-thunderdome-thumb.png"
+    - "/images/covers/lust-thunderdome.jpg"
+thumbnailImage: "/images/covers/lust-thunderdome-thumb.jpg"
 actualPrice: $8.00
 inStock: true
 ---

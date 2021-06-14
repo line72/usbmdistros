@@ -7,8 +7,8 @@ album: "Shadow Mistress"
 categories:
     - Tape
 images:
-    - "/images/covers/leathürbitch-shadow_mistress.png"
-thumbnailImage: "/images/covers/leathürbitch-shadow_mistress-thumb.png"
+    - "/images/covers/leathürbitch-shadow_mistress.jpg"
+thumbnailImage: "/images/covers/leathürbitch-shadow_mistress-thumb.jpg"
 actualPrice: $7.00
 inStock: true
 ---

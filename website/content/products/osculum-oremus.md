@@ -7,8 +7,8 @@ album: "Oremus"
 categories:
     - Tape
 images:
-    - "/images/covers/osculum-oremus.png"
-thumbnailImage: "/images/covers/osculum-oremus-thumb.png"
+    - "/images/covers/osculum-oremus.jpg"
+thumbnailImage: "/images/covers/osculum-oremus-thumb.jpg"
 actualPrice: $4.00
 inStock: true
 ---

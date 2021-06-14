@@ -7,8 +7,8 @@ album: "Olde Gloom"
 categories:
     - Tape
 images:
-    - "/images/covers/reclvse-olde_gloom.png"
-thumbnailImage: "/images/covers/reclvse-olde_gloom-thumb.png"
+    - "/images/covers/reclvse-olde_gloom.jpg"
+thumbnailImage: "/images/covers/reclvse-olde_gloom-thumb.jpg"
 actualPrice: $3.00
 inStock: true
 ---

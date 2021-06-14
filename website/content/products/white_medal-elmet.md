@@ -9,8 +9,8 @@ categories:
     - Tape
     - CD
 images:
-    - "/images/covers/white_medal-elmet.png"
-thumbnailImage: "/images/covers/white_medal-elmet-thumb.png"
+    - "/images/covers/white_medal-elmet.jpg"
+thumbnailImage: "/images/covers/white_medal-elmet-thumb.jpg"
 actualPrice: $10.00 - 25.00
 inStock: true
 ---

@@ -7,8 +7,8 @@ album: "Incarnatie"
 categories:
     - Tape
 images:
-    - "/images/covers/icbrt-incarnatie.png"
-thumbnailImage: "/images/covers/icbrt-incarnatie-thumb.png"
+    - "/images/covers/icbrt-incarnatie.jpg"
+thumbnailImage: "/images/covers/icbrt-incarnatie-thumb.jpg"
 actualPrice: $6.00
 inStock: true
 ---

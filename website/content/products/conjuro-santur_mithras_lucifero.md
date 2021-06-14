@@ -7,8 +7,8 @@ album: "Santur Mithras Lucifero"
 categories:
     - Vinyl
 images:
-    - "/images/covers/conjuro-santur_mithras_lucifero.png"
-thumbnailImage: "/images/covers/conjuro-santur_mithras_lucifero-thumb.png"
+    - "/images/covers/conjuro-santur_mithras_lucifero.jpg"
+thumbnailImage: "/images/covers/conjuro-santur_mithras_lucifero-thumb.jpg"
 actualPrice: $30.00
 inStock: true
 ---

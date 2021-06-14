@@ -7,8 +7,8 @@ album: "Self-Titled"
 categories:
     - Tape
 images:
-    - "/images/covers/spear_of_teuta-self-titled.png"
-thumbnailImage: "/images/covers/spear_of_teuta-self-titled-thumb.png"
+    - "/images/covers/spear_of_teuta-self-titled.jpg"
+thumbnailImage: "/images/covers/spear_of_teuta-self-titled-thumb.jpg"
 actualPrice: $10.00
 inStock: true
 ---

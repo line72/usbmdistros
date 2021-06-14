@@ -7,8 +7,8 @@ album: "Corpse Dividing Holes"
 categories:
     - Tape
 images:
-    - "/images/covers/sepulcrum-corpse_dividing_holes.png"
-thumbnailImage: "/images/covers/sepulcrum-corpse_dividing_holes-thumb.png"
+    - "/images/covers/sepulcrum-corpse_dividing_holes.jpg"
+thumbnailImage: "/images/covers/sepulcrum-corpse_dividing_holes-thumb.jpg"
 actualPrice: $8.00
 inStock: true
 ---

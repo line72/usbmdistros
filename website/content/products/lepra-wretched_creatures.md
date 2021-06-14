@@ -7,8 +7,8 @@ album: "Wretched Creatures"
 categories:
     - Tape
 images:
-    - "/images/covers/lepra-wretched_creatures.png"
-thumbnailImage: "/images/covers/lepra-wretched_creatures-thumb.png"
+    - "/images/covers/lepra-wretched_creatures.jpg"
+thumbnailImage: "/images/covers/lepra-wretched_creatures-thumb.jpg"
 actualPrice: $8.00
 inStock: true
 ---

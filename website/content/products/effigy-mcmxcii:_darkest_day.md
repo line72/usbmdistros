@@ -7,8 +7,8 @@ album: "Mcmxcii: Darkest Day"
 categories:
     - Tape
 images:
-    - "/images/covers/effigy-mcmxcii:_darkest_day.png"
-thumbnailImage: "/images/covers/effigy-mcmxcii:_darkest_day-thumb.png"
+    - "/images/covers/effigy-mcmxcii:_darkest_day.jpg"
+thumbnailImage: "/images/covers/effigy-mcmxcii:_darkest_day-thumb.jpg"
 actualPrice: $7.50
 inStock: true
 ---

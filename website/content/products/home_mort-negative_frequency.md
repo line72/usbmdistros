@@ -7,8 +7,8 @@ album: "Negative Frequency"
 categories:
     - Tape
 images:
-    - "/images/covers/home_mort-negative_frequency.png"
-thumbnailImage: "/images/covers/home_mort-negative_frequency-thumb.png"
+    - "/images/covers/home_mort-negative_frequency.jpg"
+thumbnailImage: "/images/covers/home_mort-negative_frequency-thumb.jpg"
 actualPrice: $8.50
 inStock: true
 ---

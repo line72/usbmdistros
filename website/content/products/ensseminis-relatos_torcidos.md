@@ -7,8 +7,8 @@ album: "Relatos Torcidos"
 categories:
     - Tape
 images:
-    - "/images/covers/ensseminis-relatos_torcidos.png"
-thumbnailImage: "/images/covers/ensseminis-relatos_torcidos-thumb.png"
+    - "/images/covers/ensseminis-relatos_torcidos.jpg"
+thumbnailImage: "/images/covers/ensseminis-relatos_torcidos-thumb.jpg"
 actualPrice: $5.00
 inStock: true
 ---

@@ -7,8 +7,8 @@ album: "Waste Of Kings"
 categories:
     - Tape
 images:
-    - "/images/covers/bridegeist-waste_of_kings.png"
-thumbnailImage: "/images/covers/bridegeist-waste_of_kings-thumb.png"
+    - "/images/covers/bridegeist-waste_of_kings.jpg"
+thumbnailImage: "/images/covers/bridegeist-waste_of_kings-thumb.jpg"
 actualPrice: $6.50
 inStock: true
 ---

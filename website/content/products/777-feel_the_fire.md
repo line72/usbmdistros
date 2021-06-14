@@ -7,8 +7,8 @@ album: "Feel The Fire"
 categories:
     - Tape
 images:
-    - "/images/covers/777-feel_the_fire.png"
-thumbnailImage: "/images/covers/777-feel_the_fire-thumb.png"
+    - "/images/covers/777-feel_the_fire.jpg"
+thumbnailImage: "/images/covers/777-feel_the_fire-thumb.jpg"
 actualPrice: $4.00
 inStock: true
 ---

@@ -7,8 +7,8 @@ album: "Catharsis"
 categories:
     - Tape
 images:
-    - "/images/covers/incarceration-catharsis.png"
-thumbnailImage: "/images/covers/incarceration-catharsis-thumb.png"
+    - "/images/covers/incarceration-catharsis.jpg"
+thumbnailImage: "/images/covers/incarceration-catharsis-thumb.jpg"
 actualPrice: $8.50
 inStock: true
 ---

@@ -7,8 +7,8 @@ album: "Dying In The Darkness"
 categories:
     - Tape
 images:
-    - "/images/covers/persistence_in_mourning-dying_in_the_darkness.png"
-thumbnailImage: "/images/covers/persistence_in_mourning-dying_in_the_darkness-thumb.png"
+    - "/images/covers/persistence_in_mourning-dying_in_the_darkness.jpg"
+thumbnailImage: "/images/covers/persistence_in_mourning-dying_in_the_darkness-thumb.jpg"
 actualPrice: $7.50
 inStock: true
 ---

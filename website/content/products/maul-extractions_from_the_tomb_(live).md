@@ -7,8 +7,8 @@ album: "Extractions From The Tomb (Live)"
 categories:
     - Tape
 images:
-    - "/images/covers/maul-extractions_from_the_tomb_(live).png"
-thumbnailImage: "/images/covers/maul-extractions_from_the_tomb_(live)-thumb.png"
+    - "/images/covers/maul-extractions_from_the_tomb_(live).jpg"
+thumbnailImage: "/images/covers/maul-extractions_from_the_tomb_(live)-thumb.jpg"
 actualPrice: $7.00
 inStock: true
 ---

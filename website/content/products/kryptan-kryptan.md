@@ -8,8 +8,8 @@ categories:
     - Vinyl
     - CD
 images:
-    - "/images/covers/kryptan-kryptan.png"
-thumbnailImage: "/images/covers/kryptan-kryptan-thumb.png"
+    - "/images/covers/kryptan-kryptan.jpg"
+thumbnailImage: "/images/covers/kryptan-kryptan-thumb.jpg"
 actualPrice: $8.99 - 21.99
 inStock: true
 ---

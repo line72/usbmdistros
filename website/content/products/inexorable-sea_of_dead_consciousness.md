@@ -7,8 +7,8 @@ album: "Sea Of Dead Consciousness"
 categories:
     - CD
 images:
-    - "/images/covers/inexorable-sea_of_dead_consciousness.png"
-thumbnailImage: "/images/covers/inexorable-sea_of_dead_consciousness-thumb.png"
+    - "/images/covers/inexorable-sea_of_dead_consciousness.jpg"
+thumbnailImage: "/images/covers/inexorable-sea_of_dead_consciousness-thumb.jpg"
 actualPrice: $6.00
 inStock: true
 ---

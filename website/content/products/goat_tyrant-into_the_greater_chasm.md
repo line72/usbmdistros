@@ -7,8 +7,8 @@ album: "Into The Greater Chasm"
 categories:
     - CD
 images:
-    - "/images/covers/goat_tyrant-into_the_greater_chasm.png"
-thumbnailImage: "/images/covers/goat_tyrant-into_the_greater_chasm-thumb.png"
+    - "/images/covers/goat_tyrant-into_the_greater_chasm.jpg"
+thumbnailImage: "/images/covers/goat_tyrant-into_the_greater_chasm-thumb.jpg"
 actualPrice: $10.00
 inStock: true
 ---

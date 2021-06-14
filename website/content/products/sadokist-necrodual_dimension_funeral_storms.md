@@ -7,8 +7,8 @@ album: "Necrodual Dimension Funeral Storms"
 categories:
     - Tape
 images:
-    - "/images/covers/sadokist-necrodual_dimension_funeral_storms.png"
-thumbnailImage: "/images/covers/sadokist-necrodual_dimension_funeral_storms-thumb.png"
+    - "/images/covers/sadokist-necrodual_dimension_funeral_storms.jpg"
+thumbnailImage: "/images/covers/sadokist-necrodual_dimension_funeral_storms-thumb.jpg"
 actualPrice: $7.00
 inStock: true
 ---

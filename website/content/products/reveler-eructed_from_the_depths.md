@@ -7,8 +7,8 @@ album: "Eructed From The Depths"
 categories:
     - Tape
 images:
-    - "/images/covers/reveler-eructed_from_the_depths.png"
-thumbnailImage: "/images/covers/reveler-eructed_from_the_depths-thumb.png"
+    - "/images/covers/reveler-eructed_from_the_depths.jpg"
+thumbnailImage: "/images/covers/reveler-eructed_from_the_depths-thumb.jpg"
 actualPrice: $8.00
 inStock: true
 ---

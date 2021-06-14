@@ -7,8 +7,8 @@ album: "Chants Of Sublimation"
 categories:
     - CD
 images:
-    - "/images/covers/cultist-chants_of_sublimation.png"
-thumbnailImage: "/images/covers/cultist-chants_of_sublimation-thumb.png"
+    - "/images/covers/cultist-chants_of_sublimation.jpg"
+thumbnailImage: "/images/covers/cultist-chants_of_sublimation-thumb.jpg"
 actualPrice: $6.00
 inStock: true
 ---

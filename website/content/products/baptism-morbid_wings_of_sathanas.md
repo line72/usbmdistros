@@ -7,8 +7,8 @@ album: "Morbid Wings of Sathanas"
 categories:
     - Vinyl
 images:
-    - "/images/covers/baptism-morbid_wings_of_sathanas.png"
-thumbnailImage: "/images/covers/baptism-morbid_wings_of_sathanas-thumb.png"
+    - "/images/covers/baptism-morbid_wings_of_sathanas.jpg"
+thumbnailImage: "/images/covers/baptism-morbid_wings_of_sathanas-thumb.jpg"
 actualPrice: $27.00
 inStock: true
 ---

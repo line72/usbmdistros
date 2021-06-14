@@ -7,8 +7,8 @@ album: "War & Guilt"
 categories:
     - Tape
 images:
-    - "/images/covers/the_gauntlet-war_&_guilt.png"
-thumbnailImage: "/images/covers/the_gauntlet-war_&_guilt-thumb.png"
+    - "/images/covers/the_gauntlet-war_&_guilt.jpg"
+thumbnailImage: "/images/covers/the_gauntlet-war_&_guilt-thumb.jpg"
 actualPrice: $7.50
 inStock: true
 ---

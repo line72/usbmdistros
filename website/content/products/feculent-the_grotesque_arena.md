@@ -7,8 +7,8 @@ album: "The Grotesque Arena"
 categories:
     - Tape
 images:
-    - "/images/covers/feculent-the_grotesque_arena.png"
-thumbnailImage: "/images/covers/feculent-the_grotesque_arena-thumb.png"
+    - "/images/covers/feculent-the_grotesque_arena.jpg"
+thumbnailImage: "/images/covers/feculent-the_grotesque_arena-thumb.jpg"
 actualPrice: $6.50
 inStock: true
 ---

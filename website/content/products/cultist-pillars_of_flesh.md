@@ -7,8 +7,8 @@ album: "Pillars Of Flesh"
 categories:
     - Tape
 images:
-    - "/images/covers/cultist-pillars_of_flesh.png"
-thumbnailImage: "/images/covers/cultist-pillars_of_flesh-thumb.png"
+    - "/images/covers/cultist-pillars_of_flesh.jpg"
+thumbnailImage: "/images/covers/cultist-pillars_of_flesh-thumb.jpg"
 actualPrice: $4.00
 inStock: true
 ---

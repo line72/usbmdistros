@@ -7,8 +7,8 @@ album: "Putrid Womb"
 categories:
     - Tape
 images:
-    - "/images/covers/ritual_laceration-putrid_womb.png"
-thumbnailImage: "/images/covers/ritual_laceration-putrid_womb-thumb.png"
+    - "/images/covers/ritual_laceration-putrid_womb.jpg"
+thumbnailImage: "/images/covers/ritual_laceration-putrid_womb-thumb.jpg"
 actualPrice: $8.00
 inStock: true
 ---

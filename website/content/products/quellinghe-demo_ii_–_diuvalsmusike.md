@@ -7,8 +7,8 @@ album: "Demo Ii – Diuvalsmusike"
 categories:
     - Tape
 images:
-    - "/images/covers/quellinghe-demo_ii_–_diuvalsmusike.png"
-thumbnailImage: "/images/covers/quellinghe-demo_ii_–_diuvalsmusike-thumb.png"
+    - "/images/covers/quellinghe-demo_ii_–_diuvalsmusike.jpg"
+thumbnailImage: "/images/covers/quellinghe-demo_ii_–_diuvalsmusike-thumb.jpg"
 actualPrice: $7.50
 inStock: true
 ---

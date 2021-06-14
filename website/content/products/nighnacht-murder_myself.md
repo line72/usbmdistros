@@ -7,8 +7,8 @@ album: "Murder Myself"
 categories:
     - Tape
 images:
-    - "/images/covers/nighnacht-murder_myself.png"
-thumbnailImage: "/images/covers/nighnacht-murder_myself-thumb.png"
+    - "/images/covers/nighnacht-murder_myself.jpg"
+thumbnailImage: "/images/covers/nighnacht-murder_myself-thumb.jpg"
 actualPrice: $6.00
 inStock: true
 ---

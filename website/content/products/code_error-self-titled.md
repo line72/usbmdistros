@@ -7,8 +7,8 @@ album: "Self-Titled"
 categories:
     - Tape
 images:
-    - "/images/covers/code_error-self-titled.png"
-thumbnailImage: "/images/covers/code_error-self-titled-thumb.png"
+    - "/images/covers/code_error-self-titled.jpg"
+thumbnailImage: "/images/covers/code_error-self-titled-thumb.jpg"
 actualPrice: $4.00
 inStock: true
 ---

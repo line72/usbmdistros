@@ -7,8 +7,8 @@ album: "Abattoir"
 categories:
     - Tape
 images:
-    - "/images/covers/slaughterday-abattoir.png"
-thumbnailImage: "/images/covers/slaughterday-abattoir-thumb.png"
+    - "/images/covers/slaughterday-abattoir.jpg"
+thumbnailImage: "/images/covers/slaughterday-abattoir-thumb.jpg"
 actualPrice: $4.00
 inStock: true
 ---

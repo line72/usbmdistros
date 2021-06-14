@@ -7,8 +7,8 @@ album: "Youth"
 categories:
     - Tape
 images:
-    - "/images/covers/trite-youth.png"
-thumbnailImage: "/images/covers/trite-youth-thumb.png"
+    - "/images/covers/trite-youth.jpg"
+thumbnailImage: "/images/covers/trite-youth-thumb.jpg"
 actualPrice: $8.50
 inStock: true
 ---

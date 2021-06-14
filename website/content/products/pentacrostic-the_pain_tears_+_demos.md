@@ -7,8 +7,8 @@ album: "The Pain Tears + Demos"
 categories:
     - Tape
 images:
-    - "/images/covers/pentacrostic-the_pain_tears_+_demos.png"
-thumbnailImage: "/images/covers/pentacrostic-the_pain_tears_+_demos-thumb.png"
+    - "/images/covers/pentacrostic-the_pain_tears_+_demos.jpg"
+thumbnailImage: "/images/covers/pentacrostic-the_pain_tears_+_demos-thumb.jpg"
 actualPrice: $14.00
 inStock: true
 ---

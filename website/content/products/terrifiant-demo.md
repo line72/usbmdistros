@@ -7,8 +7,8 @@ album: "Demo"
 categories:
     - Tape
 images:
-    - "/images/covers/terrifiant-demo.png"
-thumbnailImage: "/images/covers/terrifiant-demo-thumb.png"
+    - "/images/covers/terrifiant-demo.jpg"
+thumbnailImage: "/images/covers/terrifiant-demo-thumb.jpg"
 actualPrice: $4.00
 inStock: true
 ---

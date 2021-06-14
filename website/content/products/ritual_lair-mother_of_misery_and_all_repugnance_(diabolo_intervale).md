@@ -7,8 +7,8 @@ album: "Mother Of Misery And All Repugnance (Diabolo Intervale)"
 categories:
     - Tape
 images:
-    - "/images/covers/ritual_lair-mother_of_misery_and_all_repugnance_(diabolo_intervale).png"
-thumbnailImage: "/images/covers/ritual_lair-mother_of_misery_and_all_repugnance_(diabolo_intervale)-thumb.png"
+    - "/images/covers/ritual_lair-mother_of_misery_and_all_repugnance_(diabolo_intervale).jpg"
+thumbnailImage: "/images/covers/ritual_lair-mother_of_misery_and_all_repugnance_(diabolo_intervale)-thumb.jpg"
 actualPrice: $4.00
 inStock: true
 ---

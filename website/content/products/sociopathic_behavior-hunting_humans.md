@@ -7,8 +7,8 @@ album: "Hunting Humans"
 categories:
     - Tape
 images:
-    - "/images/covers/sociopathic_behavior-hunting_humans.png"
-thumbnailImage: "/images/covers/sociopathic_behavior-hunting_humans-thumb.png"
+    - "/images/covers/sociopathic_behavior-hunting_humans.jpg"
+thumbnailImage: "/images/covers/sociopathic_behavior-hunting_humans-thumb.jpg"
 actualPrice: $9.00
 inStock: true
 ---

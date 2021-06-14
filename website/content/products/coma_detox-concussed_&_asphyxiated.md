@@ -7,8 +7,8 @@ album: "Concussed & Asphyxiated"
 categories:
     - Vinyl
 images:
-    - "/images/covers/coma_detox-concussed_&_asphyxiated.png"
-thumbnailImage: "/images/covers/coma_detox-concussed_&_asphyxiated-thumb.png"
+    - "/images/covers/coma_detox-concussed_&_asphyxiated.jpg"
+thumbnailImage: "/images/covers/coma_detox-concussed_&_asphyxiated-thumb.jpg"
 actualPrice: $30.00
 inStock: true
 ---

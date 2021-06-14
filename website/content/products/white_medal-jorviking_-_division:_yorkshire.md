@@ -8,8 +8,8 @@ categories:
     - Tape
     - CD
 images:
-    - "/images/covers/white_medal-jorviking_-_division:_yorkshire.png"
-thumbnailImage: "/images/covers/white_medal-jorviking_-_division:_yorkshire-thumb.png"
+    - "/images/covers/white_medal-jorviking_-_division:_yorkshire.jpg"
+thumbnailImage: "/images/covers/white_medal-jorviking_-_division:_yorkshire-thumb.jpg"
 actualPrice: $10.00 - 15.00
 inStock: true
 ---

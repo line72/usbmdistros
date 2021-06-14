@@ -7,8 +7,8 @@ album: "Self-Titled"
 categories:
     - Tape
 images:
-    - "/images/covers/o.t.s.-self-titled.png"
-thumbnailImage: "/images/covers/o.t.s.-self-titled-thumb.png"
+    - "/images/covers/o.t.s.-self-titled.jpg"
+thumbnailImage: "/images/covers/o.t.s.-self-titled-thumb.jpg"
 actualPrice: $5.00
 inStock: true
 ---

@@ -7,8 +7,8 @@ album: "As One With Death"
 categories:
     - Tape
 images:
-    - "/images/covers/morbosatan-as_one_with_death.png"
-thumbnailImage: "/images/covers/morbosatan-as_one_with_death-thumb.png"
+    - "/images/covers/morbosatan-as_one_with_death.jpg"
+thumbnailImage: "/images/covers/morbosatan-as_one_with_death-thumb.jpg"
 actualPrice: $8.50
 inStock: true
 ---

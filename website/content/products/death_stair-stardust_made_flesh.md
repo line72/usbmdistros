@@ -7,8 +7,8 @@ album: "Stardust Made Flesh"
 categories:
     - Tape
 images:
-    - "/images/covers/death_stair-stardust_made_flesh.png"
-thumbnailImage: "/images/covers/death_stair-stardust_made_flesh-thumb.png"
+    - "/images/covers/death_stair-stardust_made_flesh.jpg"
+thumbnailImage: "/images/covers/death_stair-stardust_made_flesh-thumb.jpg"
 actualPrice: $7.00
 inStock: true
 ---

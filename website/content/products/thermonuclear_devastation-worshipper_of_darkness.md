@@ -7,8 +7,8 @@ album: "Worshipper Of Darkness"
 categories:
     - Tape
 images:
-    - "/images/covers/thermonuclear_devastation-worshipper_of_darkness.png"
-thumbnailImage: "/images/covers/thermonuclear_devastation-worshipper_of_darkness-thumb.png"
+    - "/images/covers/thermonuclear_devastation-worshipper_of_darkness.jpg"
+thumbnailImage: "/images/covers/thermonuclear_devastation-worshipper_of_darkness-thumb.jpg"
 actualPrice: $6.50
 inStock: true
 ---

@@ -7,8 +7,8 @@ album: "Advance on Weakened Foes"
 categories:
     - Vinyl
 images:
-    - "/images/covers/nocturnal_prayer-advance_on_weakened_foes.png"
-thumbnailImage: "/images/covers/nocturnal_prayer-advance_on_weakened_foes-thumb.png"
+    - "/images/covers/nocturnal_prayer-advance_on_weakened_foes.jpg"
+thumbnailImage: "/images/covers/nocturnal_prayer-advance_on_weakened_foes-thumb.jpg"
 actualPrice: $30.00
 inStock: true
 ---

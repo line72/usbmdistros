@@ -7,8 +7,8 @@ album: "Reigning in the Sky of Fire"
 categories:
     - CD
 images:
-    - "/images/covers/abhartach-reigning_in_the_sky_of_fire.png"
-thumbnailImage: "/images/covers/abhartach-reigning_in_the_sky_of_fire-thumb.png"
+    - "/images/covers/abhartach-reigning_in_the_sky_of_fire.jpg"
+thumbnailImage: "/images/covers/abhartach-reigning_in_the_sky_of_fire-thumb.jpg"
 actualPrice: $14.00
 inStock: true
 ---

@@ -7,8 +7,8 @@ album: "Demo"
 categories:
     - Tape
 images:
-    - "/images/covers/deconsecration-demo.png"
-thumbnailImage: "/images/covers/deconsecration-demo-thumb.png"
+    - "/images/covers/deconsecration-demo.jpg"
+thumbnailImage: "/images/covers/deconsecration-demo-thumb.jpg"
 actualPrice: $5.00
 inStock: true
 ---

@@ -7,8 +7,8 @@ album: "Beyond The Iron Walls"
 categories:
     - Tape
 images:
-    - "/images/covers/sacred_few-beyond_the_iron_walls.png"
-thumbnailImage: "/images/covers/sacred_few-beyond_the_iron_walls-thumb.png"
+    - "/images/covers/sacred_few-beyond_the_iron_walls.jpg"
+thumbnailImage: "/images/covers/sacred_few-beyond_the_iron_walls-thumb.jpg"
 actualPrice: $7.50
 inStock: true
 ---

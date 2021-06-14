@@ -7,8 +7,8 @@ album: "Mouth of Extinction"
 categories:
     - Vinyl
 images:
-    - "/images/covers/ruho-mouth_of_extinction.png"
-thumbnailImage: "/images/covers/ruho-mouth_of_extinction-thumb.png"
+    - "/images/covers/ruho-mouth_of_extinction.jpg"
+thumbnailImage: "/images/covers/ruho-mouth_of_extinction-thumb.jpg"
 actualPrice: $17.00
 inStock: true
 ---

@@ -7,8 +7,8 @@ album: "(Нож)"
 categories:
     - Tape
 images:
-    - "/images/covers/noz-(нож).png"
-thumbnailImage: "/images/covers/noz-(нож)-thumb.png"
+    - "/images/covers/noz-(нож).jpg"
+thumbnailImage: "/images/covers/noz-(нож)-thumb.jpg"
 actualPrice: $4.00
 inStock: true
 ---

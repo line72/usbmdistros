@@ -7,8 +7,8 @@ album: "Chasm Of Perpetual Decay"
 categories:
     - Tape
 images:
-    - "/images/covers/defecatory-chasm_of_perpetual_decay.png"
-thumbnailImage: "/images/covers/defecatory-chasm_of_perpetual_decay-thumb.png"
+    - "/images/covers/defecatory-chasm_of_perpetual_decay.jpg"
+thumbnailImage: "/images/covers/defecatory-chasm_of_perpetual_decay-thumb.jpg"
 actualPrice: $7.50
 inStock: true
 ---

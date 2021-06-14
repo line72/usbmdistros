@@ -7,8 +7,8 @@ album: "Self-Titled"
 categories:
     - Tape
 images:
-    - "/images/covers/mead_thief-self-titled.png"
-thumbnailImage: "/images/covers/mead_thief-self-titled-thumb.png"
+    - "/images/covers/mead_thief-self-titled.jpg"
+thumbnailImage: "/images/covers/mead_thief-self-titled-thumb.jpg"
 actualPrice: $7.00
 inStock: true
 ---

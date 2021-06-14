@@ -7,8 +7,8 @@ album: "Emanation Of Hex"
 categories:
     - Tape
 images:
-    - "/images/covers/icon_of_curse-emanation_of_hex.png"
-thumbnailImage: "/images/covers/icon_of_curse-emanation_of_hex-thumb.png"
+    - "/images/covers/icon_of_curse-emanation_of_hex.jpg"
+thumbnailImage: "/images/covers/icon_of_curse-emanation_of_hex-thumb.jpg"
 actualPrice: $3.00
 inStock: true
 ---

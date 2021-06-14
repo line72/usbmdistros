@@ -7,8 +7,8 @@ album: "Xixmm"
 categories:
     - Tape
 images:
-    - "/images/covers/augur-xixmm.png"
-thumbnailImage: "/images/covers/augur-xixmm-thumb.png"
+    - "/images/covers/augur-xixmm.jpg"
+thumbnailImage: "/images/covers/augur-xixmm-thumb.jpg"
 actualPrice: $3.50
 inStock: true
 ---

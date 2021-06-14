@@ -7,8 +7,8 @@ album: "Self-Titled"
 categories:
     - Tape
 images:
-    - "/images/covers/master's_blood-self-titled.png"
-thumbnailImage: "/images/covers/master's_blood-self-titled-thumb.png"
+    - "/images/covers/master's_blood-self-titled.jpg"
+thumbnailImage: "/images/covers/master's_blood-self-titled-thumb.jpg"
 actualPrice: $8.00
 inStock: true
 ---

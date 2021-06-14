@@ -7,8 +7,8 @@ album: "Self-Titled"
 categories:
     - Tape
 images:
-    - "/images/covers/the_passing-self-titled.png"
-thumbnailImage: "/images/covers/the_passing-self-titled-thumb.png"
+    - "/images/covers/the_passing-self-titled.jpg"
+thumbnailImage: "/images/covers/the_passing-self-titled-thumb.jpg"
 actualPrice: $6.50
 inStock: true
 ---

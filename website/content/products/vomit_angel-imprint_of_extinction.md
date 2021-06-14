@@ -7,8 +7,8 @@ album: "Imprint Of Extinction"
 categories:
     - Tape
 images:
-    - "/images/covers/vomit_angel-imprint_of_extinction.png"
-thumbnailImage: "/images/covers/vomit_angel-imprint_of_extinction-thumb.png"
+    - "/images/covers/vomit_angel-imprint_of_extinction.jpg"
+thumbnailImage: "/images/covers/vomit_angel-imprint_of_extinction-thumb.jpg"
 actualPrice: $7.50
 inStock: true
 ---

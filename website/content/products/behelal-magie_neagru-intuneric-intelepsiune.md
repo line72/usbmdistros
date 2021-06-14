@@ -7,8 +7,8 @@ album: "Magie Neagru-Intuneric-Intelepsiune"
 categories:
     - Tape
 images:
-    - "/images/covers/behelal-magie_neagru-intuneric-intelepsiune.png"
-thumbnailImage: "/images/covers/behelal-magie_neagru-intuneric-intelepsiune-thumb.png"
+    - "/images/covers/behelal-magie_neagru-intuneric-intelepsiune.jpg"
+thumbnailImage: "/images/covers/behelal-magie_neagru-intuneric-intelepsiune-thumb.jpg"
 actualPrice: $6.50
 inStock: true
 ---

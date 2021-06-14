@@ -7,8 +7,8 @@ album: "L'Espoir Maishant"
 categories:
     - Tape
 images:
-    - "/images/covers/arzacq-l'espoir_maishant.png"
-thumbnailImage: "/images/covers/arzacq-l'espoir_maishant-thumb.png"
+    - "/images/covers/arzacq-l'espoir_maishant.jpg"
+thumbnailImage: "/images/covers/arzacq-l'espoir_maishant-thumb.jpg"
 actualPrice: $8.00
 inStock: true
 ---

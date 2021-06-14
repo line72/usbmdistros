@@ -7,8 +7,8 @@ album: "The Final March"
 categories:
     - Tape
 images:
-    - "/images/covers/massive_retaliation-the_final_march.png"
-thumbnailImage: "/images/covers/massive_retaliation-the_final_march-thumb.png"
+    - "/images/covers/massive_retaliation-the_final_march.jpg"
+thumbnailImage: "/images/covers/massive_retaliation-the_final_march-thumb.jpg"
 actualPrice: $7.50
 inStock: true
 ---

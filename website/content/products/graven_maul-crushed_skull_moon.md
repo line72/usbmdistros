@@ -7,8 +7,8 @@ album: "Crushed Skull Moon"
 categories:
     - Tape
 images:
-    - "/images/covers/graven_maul-crushed_skull_moon.png"
-thumbnailImage: "/images/covers/graven_maul-crushed_skull_moon-thumb.png"
+    - "/images/covers/graven_maul-crushed_skull_moon.jpg"
+thumbnailImage: "/images/covers/graven_maul-crushed_skull_moon-thumb.jpg"
 actualPrice: $6.50
 inStock: true
 ---

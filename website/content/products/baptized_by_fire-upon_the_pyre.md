@@ -7,8 +7,8 @@ album: "Upon The Pyre"
 categories:
     - Tape
 images:
-    - "/images/covers/baptized_by_fire-upon_the_pyre.png"
-thumbnailImage: "/images/covers/baptized_by_fire-upon_the_pyre-thumb.png"
+    - "/images/covers/baptized_by_fire-upon_the_pyre.jpg"
+thumbnailImage: "/images/covers/baptized_by_fire-upon_the_pyre-thumb.jpg"
 actualPrice: $5.00
 inStock: true
 ---

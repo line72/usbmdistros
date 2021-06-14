@@ -7,8 +7,8 @@ album: "Erosion Of The Catacombs"
 categories:
     - Tape
 images:
-    - "/images/covers/prism-erosion_of_the_catacombs.png"
-thumbnailImage: "/images/covers/prism-erosion_of_the_catacombs-thumb.png"
+    - "/images/covers/prism-erosion_of_the_catacombs.jpg"
+thumbnailImage: "/images/covers/prism-erosion_of_the_catacombs-thumb.jpg"
 actualPrice: $8.00
 inStock: true
 ---

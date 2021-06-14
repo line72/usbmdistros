@@ -7,8 +7,8 @@ album: "T.R.O.M.A."
 categories:
     - Tape
 images:
-    - "/images/covers/stinkupus-t.r.o.m.a..png"
-thumbnailImage: "/images/covers/stinkupus-t.r.o.m.a.-thumb.png"
+    - "/images/covers/stinkupus-t.r.o.m.a..jpg"
+thumbnailImage: "/images/covers/stinkupus-t.r.o.m.a.-thumb.jpg"
 actualPrice: $9.00
 inStock: true
 ---

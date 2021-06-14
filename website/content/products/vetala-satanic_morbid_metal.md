@@ -7,8 +7,8 @@ album: "Satanic Morbid Metal"
 categories:
     - Vinyl
 images:
-    - "/images/covers/vetala-satanic_morbid_metal.png"
-thumbnailImage: "/images/covers/vetala-satanic_morbid_metal-thumb.png"
+    - "/images/covers/vetala-satanic_morbid_metal.jpg"
+thumbnailImage: "/images/covers/vetala-satanic_morbid_metal-thumb.jpg"
 actualPrice: $23.00
 inStock: true
 ---

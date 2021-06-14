@@ -7,8 +7,8 @@ album: "Self-Titled"
 categories:
     - Tape
 images:
-    - "/images/covers/suicide_force-self-titled.png"
-thumbnailImage: "/images/covers/suicide_force-self-titled-thumb.png"
+    - "/images/covers/suicide_force-self-titled.jpg"
+thumbnailImage: "/images/covers/suicide_force-self-titled-thumb.jpg"
 actualPrice: $3.00
 inStock: true
 ---

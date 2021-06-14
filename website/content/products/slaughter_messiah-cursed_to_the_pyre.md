@@ -7,8 +7,8 @@ album: "Cursed To The Pyre"
 categories:
     - Tape
 images:
-    - "/images/covers/slaughter_messiah-cursed_to_the_pyre.png"
-thumbnailImage: "/images/covers/slaughter_messiah-cursed_to_the_pyre-thumb.png"
+    - "/images/covers/slaughter_messiah-cursed_to_the_pyre.jpg"
+thumbnailImage: "/images/covers/slaughter_messiah-cursed_to_the_pyre-thumb.jpg"
 actualPrice: $7.50
 inStock: true
 ---

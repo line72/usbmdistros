@@ -7,8 +7,8 @@ album: "Esophageal Mutilation"
 categories:
     - Tape
 images:
-    - "/images/covers/regurgitated_guts-esophageal_mutilation.png"
-thumbnailImage: "/images/covers/regurgitated_guts-esophageal_mutilation-thumb.png"
+    - "/images/covers/regurgitated_guts-esophageal_mutilation.jpg"
+thumbnailImage: "/images/covers/regurgitated_guts-esophageal_mutilation-thumb.jpg"
 actualPrice: $7.00
 inStock: true
 ---

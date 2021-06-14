@@ -7,8 +7,8 @@ album: "Pandemic Winds..."
 categories:
     - Tape
 images:
-    - "/images/covers/wald_krypta-pandemic_winds....png"
-thumbnailImage: "/images/covers/wald_krypta-pandemic_winds...-thumb.png"
+    - "/images/covers/wald_krypta-pandemic_winds....jpg"
+thumbnailImage: "/images/covers/wald_krypta-pandemic_winds...-thumb.jpg"
 actualPrice: $6.00
 inStock: true
 ---

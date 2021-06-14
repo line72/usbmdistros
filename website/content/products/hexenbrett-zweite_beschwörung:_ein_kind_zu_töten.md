@@ -7,8 +7,8 @@ album: "Zweite Beschwörung: Ein Kind Zu Töten"
 categories:
     - Tape
 images:
-    - "/images/covers/hexenbrett-zweite_beschwörung:_ein_kind_zu_töten.png"
-thumbnailImage: "/images/covers/hexenbrett-zweite_beschwörung:_ein_kind_zu_töten-thumb.png"
+    - "/images/covers/hexenbrett-zweite_beschwörung:_ein_kind_zu_töten.jpg"
+thumbnailImage: "/images/covers/hexenbrett-zweite_beschwörung:_ein_kind_zu_töten-thumb.jpg"
 actualPrice: $8.50
 inStock: true
 ---

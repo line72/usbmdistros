@@ -7,8 +7,8 @@ album: "Self-Titled"
 categories:
     - Tape
 images:
-    - "/images/covers/blattaria-self-titled.png"
-thumbnailImage: "/images/covers/blattaria-self-titled-thumb.png"
+    - "/images/covers/blattaria-self-titled.jpg"
+thumbnailImage: "/images/covers/blattaria-self-titled-thumb.jpg"
 actualPrice: $6.50
 inStock: true
 ---

@@ -7,8 +7,8 @@ album: "Self-Titled Ep"
 categories:
     - Tape
 images:
-    - "/images/covers/exsul-self-titled_ep.png"
-thumbnailImage: "/images/covers/exsul-self-titled_ep-thumb.png"
+    - "/images/covers/exsul-self-titled_ep.jpg"
+thumbnailImage: "/images/covers/exsul-self-titled_ep-thumb.jpg"
 actualPrice: $10.00
 inStock: true
 ---

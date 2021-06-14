@@ -7,8 +7,8 @@ album: "Our World Shrank"
 categories:
     - Tape
 images:
-    - "/images/covers/withering_herd-our_world_shrank.png"
-thumbnailImage: "/images/covers/withering_herd-our_world_shrank-thumb.png"
+    - "/images/covers/withering_herd-our_world_shrank.jpg"
+thumbnailImage: "/images/covers/withering_herd-our_world_shrank-thumb.jpg"
 actualPrice: $4.00
 inStock: true
 ---

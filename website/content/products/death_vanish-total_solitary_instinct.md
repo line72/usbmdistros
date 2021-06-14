@@ -7,8 +7,8 @@ album: "Total Solitary Instinct"
 categories:
     - Tape
 images:
-    - "/images/covers/death_vanish-total_solitary_instinct.png"
-thumbnailImage: "/images/covers/death_vanish-total_solitary_instinct-thumb.png"
+    - "/images/covers/death_vanish-total_solitary_instinct.jpg"
+thumbnailImage: "/images/covers/death_vanish-total_solitary_instinct-thumb.jpg"
 actualPrice: $6.50
 inStock: true
 ---

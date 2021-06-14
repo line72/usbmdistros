@@ -7,8 +7,8 @@ album: "Horizon Between The Eyes"
 categories:
     - Tape
 images:
-    - "/images/covers/the_other_sun-horizon_between_the_eyes.png"
-thumbnailImage: "/images/covers/the_other_sun-horizon_between_the_eyes-thumb.png"
+    - "/images/covers/the_other_sun-horizon_between_the_eyes.jpg"
+thumbnailImage: "/images/covers/the_other_sun-horizon_between_the_eyes-thumb.jpg"
 actualPrice: $5.00
 inStock: true
 ---

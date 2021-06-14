@@ -7,8 +7,8 @@ album: "Phantasmagoria"
 categories:
     - Tape
 images:
-    - "/images/covers/the_mist-phantasmagoria.png"
-thumbnailImage: "/images/covers/the_mist-phantasmagoria-thumb.png"
+    - "/images/covers/the_mist-phantasmagoria.jpg"
+thumbnailImage: "/images/covers/the_mist-phantasmagoria-thumb.jpg"
 actualPrice: $7.50
 inStock: true
 ---

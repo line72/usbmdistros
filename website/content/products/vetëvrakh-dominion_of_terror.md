@@ -7,8 +7,8 @@ album: "Dominion of Terror"
 categories:
     - Vinyl
 images:
-    - "/images/covers/vetëvrakh-dominion_of_terror.png"
-thumbnailImage: "/images/covers/vetëvrakh-dominion_of_terror-thumb.png"
+    - "/images/covers/vetëvrakh-dominion_of_terror.jpg"
+thumbnailImage: "/images/covers/vetëvrakh-dominion_of_terror-thumb.jpg"
 actualPrice: $25.00
 inStock: true
 ---

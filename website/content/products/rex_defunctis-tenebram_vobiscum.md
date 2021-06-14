@@ -7,8 +7,8 @@ album: "Tenebram Vobiscum"
 categories:
     - Tape
 images:
-    - "/images/covers/rex_defunctis-tenebram_vobiscum.png"
-thumbnailImage: "/images/covers/rex_defunctis-tenebram_vobiscum-thumb.png"
+    - "/images/covers/rex_defunctis-tenebram_vobiscum.jpg"
+thumbnailImage: "/images/covers/rex_defunctis-tenebram_vobiscum-thumb.jpg"
 actualPrice: $5.00
 inStock: true
 ---

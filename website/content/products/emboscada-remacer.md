@@ -7,8 +7,8 @@ album: "Remacer"
 categories:
     - Tape
 images:
-    - "/images/covers/emboscada-remacer.png"
-thumbnailImage: "/images/covers/emboscada-remacer-thumb.png"
+    - "/images/covers/emboscada-remacer.jpg"
+thumbnailImage: "/images/covers/emboscada-remacer-thumb.jpg"
 actualPrice: $8.50
 inStock: true
 ---

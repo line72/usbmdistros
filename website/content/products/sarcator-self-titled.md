@@ -7,8 +7,8 @@ album: "Self-Titled"
 categories:
     - Tape
 images:
-    - "/images/covers/sarcator-self-titled.png"
-thumbnailImage: "/images/covers/sarcator-self-titled-thumb.png"
+    - "/images/covers/sarcator-self-titled.jpg"
+thumbnailImage: "/images/covers/sarcator-self-titled-thumb.jpg"
 actualPrice: $8.00
 inStock: true
 ---

@@ -7,8 +7,8 @@ album: "Laments From The Dripstone Cave"
 categories:
     - CD
 images:
-    - "/images/covers/intolerance-laments_from_the_dripstone_cave.png"
-thumbnailImage: "/images/covers/intolerance-laments_from_the_dripstone_cave-thumb.png"
+    - "/images/covers/intolerance-laments_from_the_dripstone_cave.jpg"
+thumbnailImage: "/images/covers/intolerance-laments_from_the_dripstone_cave-thumb.jpg"
 actualPrice: $10.00
 inStock: true
 ---

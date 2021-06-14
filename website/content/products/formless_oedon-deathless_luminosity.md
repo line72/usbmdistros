@@ -7,8 +7,8 @@ album: "Deathless Luminosity"
 categories:
     - Tape
 images:
-    - "/images/covers/formless_oedon-deathless_luminosity.png"
-thumbnailImage: "/images/covers/formless_oedon-deathless_luminosity-thumb.png"
+    - "/images/covers/formless_oedon-deathless_luminosity.jpg"
+thumbnailImage: "/images/covers/formless_oedon-deathless_luminosity-thumb.jpg"
 actualPrice: $5.00
 inStock: true
 ---

@@ -7,8 +7,8 @@ album: "Demo"
 categories:
     - Tape
 images:
-    - "/images/covers/mourning-demo.png"
-thumbnailImage: "/images/covers/mourning-demo-thumb.png"
+    - "/images/covers/mourning-demo.jpg"
+thumbnailImage: "/images/covers/mourning-demo-thumb.jpg"
 actualPrice: $5.00
 inStock: true
 ---

@@ -7,8 +7,8 @@ album: "Genius of Victory LP"
 categories:
     - Vinyl
 images:
-    - "/images/covers/streicher-genius_of_victory_lp.png"
-thumbnailImage: "/images/covers/streicher-genius_of_victory_lp-thumb.png"
+    - "/images/covers/streicher-genius_of_victory_lp.jpg"
+thumbnailImage: "/images/covers/streicher-genius_of_victory_lp-thumb.jpg"
 actualPrice: $27.00
 inStock: true
 ---

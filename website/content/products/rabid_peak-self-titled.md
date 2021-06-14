@@ -7,8 +7,8 @@ album: "Self-Titled"
 categories:
     - Tape
 images:
-    - "/images/covers/rabid_peak-self-titled.png"
-thumbnailImage: "/images/covers/rabid_peak-self-titled-thumb.png"
+    - "/images/covers/rabid_peak-self-titled.jpg"
+thumbnailImage: "/images/covers/rabid_peak-self-titled-thumb.jpg"
 actualPrice: $5.00
 inStock: true
 ---

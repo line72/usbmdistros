@@ -7,8 +7,8 @@ album: "Demo"
 categories:
     - Tape
 images:
-    - "/images/covers/idolatrous-demo.png"
-thumbnailImage: "/images/covers/idolatrous-demo-thumb.png"
+    - "/images/covers/idolatrous-demo.jpg"
+thumbnailImage: "/images/covers/idolatrous-demo-thumb.jpg"
 actualPrice: $7.50
 inStock: true
 ---

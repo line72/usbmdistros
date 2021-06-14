@@ -7,8 +7,8 @@ album: "Unholy Hunger Demo"
 categories:
     - Tape
 images:
-    - "/images/covers/pustulous-unholy_hunger_demo.png"
-thumbnailImage: "/images/covers/pustulous-unholy_hunger_demo-thumb.png"
+    - "/images/covers/pustulous-unholy_hunger_demo.jpg"
+thumbnailImage: "/images/covers/pustulous-unholy_hunger_demo-thumb.jpg"
 actualPrice: $6.00
 inStock: true
 ---

@@ -7,8 +7,8 @@ album: "Bite Of Heavy Metal"
 categories:
     - Tape
 images:
-    - "/images/covers/hyena-bite_of_heavy_metal.png"
-thumbnailImage: "/images/covers/hyena-bite_of_heavy_metal-thumb.png"
+    - "/images/covers/hyena-bite_of_heavy_metal.jpg"
+thumbnailImage: "/images/covers/hyena-bite_of_heavy_metal-thumb.jpg"
 actualPrice: $5.00
 inStock: true
 ---

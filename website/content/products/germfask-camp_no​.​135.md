@@ -7,8 +7,8 @@ album: "Camp No​.​135"
 categories:
     - Tape
 images:
-    - "/images/covers/germfask-camp_no​.​135.png"
-thumbnailImage: "/images/covers/germfask-camp_no​.​135-thumb.png"
+    - "/images/covers/germfask-camp_no​.​135.jpg"
+thumbnailImage: "/images/covers/germfask-camp_no​.​135-thumb.jpg"
 actualPrice: $6.00
 inStock: true
 ---

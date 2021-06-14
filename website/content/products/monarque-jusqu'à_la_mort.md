@@ -7,8 +7,8 @@ album: "Jusqu'à la Mort"
 categories:
     - CD
 images:
-    - "/images/covers/monarque-jusqu'à_la_mort.png"
-thumbnailImage: "/images/covers/monarque-jusqu'à_la_mort-thumb.png"
+    - "/images/covers/monarque-jusqu'à_la_mort.jpg"
+thumbnailImage: "/images/covers/monarque-jusqu'à_la_mort-thumb.jpg"
 actualPrice: $12.00
 inStock: true
 ---

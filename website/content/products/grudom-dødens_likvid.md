@@ -7,8 +7,8 @@ album: "Dødens Likvid"
 categories:
     - Vinyl
 images:
-    - "/images/covers/grudom-dødens_likvid.png"
-thumbnailImage: "/images/covers/grudom-dødens_likvid-thumb.png"
+    - "/images/covers/grudom-dødens_likvid.jpg"
+thumbnailImage: "/images/covers/grudom-dødens_likvid-thumb.jpg"
 actualPrice: $18.50
 inStock: true
 ---

@@ -7,8 +7,8 @@ album: "Demo Ii"
 categories:
     - Tape
 images:
-    - "/images/covers/sores-demo_ii.png"
-thumbnailImage: "/images/covers/sores-demo_ii-thumb.png"
+    - "/images/covers/sores-demo_ii.jpg"
+thumbnailImage: "/images/covers/sores-demo_ii-thumb.jpg"
 actualPrice: $6.00
 inStock: true
 ---

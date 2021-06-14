@@ -7,8 +7,8 @@ album: "Self-Titled"
 categories:
     - Tape
 images:
-    - "/images/covers/tarkus-self-titled.png"
-thumbnailImage: "/images/covers/tarkus-self-titled-thumb.png"
+    - "/images/covers/tarkus-self-titled.jpg"
+thumbnailImage: "/images/covers/tarkus-self-titled-thumb.jpg"
 actualPrice: $8.50
 inStock: true
 ---

@@ -7,8 +7,8 @@ album: "The Chant Of The Black Prophecies"
 categories:
     - Tape
 images:
-    - "/images/covers/lethal_infection-the_chant_of_the_black_prophecies.png"
-thumbnailImage: "/images/covers/lethal_infection-the_chant_of_the_black_prophecies-thumb.png"
+    - "/images/covers/lethal_infection-the_chant_of_the_black_prophecies.jpg"
+thumbnailImage: "/images/covers/lethal_infection-the_chant_of_the_black_prophecies-thumb.jpg"
 actualPrice: $2.00
 inStock: true
 ---

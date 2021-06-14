@@ -7,8 +7,8 @@ album: "Ceremony of Domination"
 categories:
     - Vinyl
 images:
-    - "/images/covers/legion_of_doom-ceremony_of_domination.png"
-thumbnailImage: "/images/covers/legion_of_doom-ceremony_of_domination-thumb.png"
+    - "/images/covers/legion_of_doom-ceremony_of_domination.jpg"
+thumbnailImage: "/images/covers/legion_of_doom-ceremony_of_domination-thumb.jpg"
 actualPrice: $28.00
 inStock: true
 ---

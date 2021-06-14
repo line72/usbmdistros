@@ -7,8 +7,8 @@ album: "Consuming Death"
 categories:
     - Tape
 images:
-    - "/images/covers/bifid_corpse-consuming_death.png"
-thumbnailImage: "/images/covers/bifid_corpse-consuming_death-thumb.png"
+    - "/images/covers/bifid_corpse-consuming_death.jpg"
+thumbnailImage: "/images/covers/bifid_corpse-consuming_death-thumb.jpg"
 actualPrice: $5.50
 inStock: true
 ---

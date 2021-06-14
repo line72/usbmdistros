@@ -7,8 +7,8 @@ album: "Проклятие Над Сердика"
 categories:
     - Tape
 images:
-    - "/images/covers/infernal_curse-проклятие_над_сердика.png"
-thumbnailImage: "/images/covers/infernal_curse-проклятие_над_сердика-thumb.png"
+    - "/images/covers/infernal_curse-проклятие_над_сердика.jpg"
+thumbnailImage: "/images/covers/infernal_curse-проклятие_над_сердика-thumb.jpg"
 actualPrice: $8.00
 inStock: true
 ---

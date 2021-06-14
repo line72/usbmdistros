@@ -7,8 +7,8 @@ album: "Valley Of Algae"
 categories:
     - Tape
 images:
-    - "/images/covers/sarcomancy-valley_of_algae.png"
-thumbnailImage: "/images/covers/sarcomancy-valley_of_algae-thumb.png"
+    - "/images/covers/sarcomancy-valley_of_algae.jpg"
+thumbnailImage: "/images/covers/sarcomancy-valley_of_algae-thumb.jpg"
 actualPrice: $6.50
 inStock: true
 ---

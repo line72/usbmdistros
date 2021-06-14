@@ -7,8 +7,8 @@ album: "Sacrifice"
 categories:
     - Tape
 images:
-    - "/images/covers/incarceration-sacrifice.png"
-thumbnailImage: "/images/covers/incarceration-sacrifice-thumb.png"
+    - "/images/covers/incarceration-sacrifice.jpg"
+thumbnailImage: "/images/covers/incarceration-sacrifice-thumb.jpg"
 actualPrice: $8.50
 inStock: true
 ---

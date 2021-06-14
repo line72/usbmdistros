@@ -7,8 +7,8 @@ album: "Rise From Majestic Darkness"
 categories:
     - Tape
 images:
-    - "/images/covers/oldeath-rise_from_majestic_darkness.png"
-thumbnailImage: "/images/covers/oldeath-rise_from_majestic_darkness-thumb.png"
+    - "/images/covers/oldeath-rise_from_majestic_darkness.jpg"
+thumbnailImage: "/images/covers/oldeath-rise_from_majestic_darkness-thumb.jpg"
 actualPrice: $8.50
 inStock: true
 ---

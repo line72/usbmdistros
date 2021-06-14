@@ -7,8 +7,8 @@ album: "Guerra Total"
 categories:
     - Tape
 images:
-    - "/images/covers/holocausto-guerra_total.png"
-thumbnailImage: "/images/covers/holocausto-guerra_total-thumb.png"
+    - "/images/covers/holocausto-guerra_total.jpg"
+thumbnailImage: "/images/covers/holocausto-guerra_total-thumb.jpg"
 actualPrice: $7.50
 inStock: true
 ---

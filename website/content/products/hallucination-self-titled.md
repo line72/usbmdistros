@@ -7,8 +7,8 @@ album: "Self-Titled"
 categories:
     - Tape
 images:
-    - "/images/covers/hallucination-self-titled.png"
-thumbnailImage: "/images/covers/hallucination-self-titled-thumb.png"
+    - "/images/covers/hallucination-self-titled.jpg"
+thumbnailImage: "/images/covers/hallucination-self-titled-thumb.jpg"
 actualPrice: $8.00
 inStock: true
 ---

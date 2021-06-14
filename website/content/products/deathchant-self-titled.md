@@ -7,8 +7,8 @@ album: "Self-Titled"
 categories:
     - Tape
 images:
-    - "/images/covers/deathchant-self-titled.png"
-thumbnailImage: "/images/covers/deathchant-self-titled-thumb.png"
+    - "/images/covers/deathchant-self-titled.jpg"
+thumbnailImage: "/images/covers/deathchant-self-titled-thumb.jpg"
 actualPrice: $3.50
 inStock: true
 ---

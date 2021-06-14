@@ -7,8 +7,8 @@ album: "Du Bach"
 categories:
     - Tape
 images:
-    - "/images/covers/crymych-du_bach.png"
-thumbnailImage: "/images/covers/crymych-du_bach-thumb.png"
+    - "/images/covers/crymych-du_bach.jpg"
+thumbnailImage: "/images/covers/crymych-du_bach-thumb.jpg"
 actualPrice: $10.00
 inStock: true
 ---

@@ -7,8 +7,8 @@ album: "Syntiinlankeemus"
 categories:
     - Vinyl
 images:
-    - "/images/covers/förgjord-syntiinlankeemus.png"
-thumbnailImage: "/images/covers/förgjord-syntiinlankeemus-thumb.png"
+    - "/images/covers/förgjord-syntiinlankeemus.jpg"
+thumbnailImage: "/images/covers/förgjord-syntiinlankeemus-thumb.jpg"
 actualPrice: $10.00
 inStock: true
 ---

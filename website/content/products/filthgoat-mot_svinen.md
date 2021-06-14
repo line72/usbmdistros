@@ -7,8 +7,8 @@ album: "Mot Svinen"
 categories:
     - Tape
 images:
-    - "/images/covers/filthgoat-mot_svinen.png"
-thumbnailImage: "/images/covers/filthgoat-mot_svinen-thumb.png"
+    - "/images/covers/filthgoat-mot_svinen.jpg"
+thumbnailImage: "/images/covers/filthgoat-mot_svinen-thumb.jpg"
 actualPrice: $6.00
 inStock: true
 ---

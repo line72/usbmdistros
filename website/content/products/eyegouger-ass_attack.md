@@ -7,8 +7,8 @@ album: "Ass Attack"
 categories:
     - Tape
 images:
-    - "/images/covers/eyegouger-ass_attack.png"
-thumbnailImage: "/images/covers/eyegouger-ass_attack-thumb.png"
+    - "/images/covers/eyegouger-ass_attack.jpg"
+thumbnailImage: "/images/covers/eyegouger-ass_attack-thumb.jpg"
 actualPrice: $5.00
 inStock: true
 ---

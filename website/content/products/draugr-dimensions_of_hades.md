@@ -7,8 +7,8 @@ album: "Dimensions Of Hades"
 categories:
     - Tape
 images:
-    - "/images/covers/draugr-dimensions_of_hades.png"
-thumbnailImage: "/images/covers/draugr-dimensions_of_hades-thumb.png"
+    - "/images/covers/draugr-dimensions_of_hades.jpg"
+thumbnailImage: "/images/covers/draugr-dimensions_of_hades-thumb.jpg"
 actualPrice: $6.00
 inStock: true
 ---

@@ -7,8 +7,8 @@ album: "Demo"
 categories:
     - Tape
 images:
-    - "/images/covers/oči_vlka-demo.png"
-thumbnailImage: "/images/covers/oči_vlka-demo-thumb.png"
+    - "/images/covers/oči_vlka-demo.jpg"
+thumbnailImage: "/images/covers/oči_vlka-demo-thumb.jpg"
 actualPrice: $5.00
 inStock: true
 ---

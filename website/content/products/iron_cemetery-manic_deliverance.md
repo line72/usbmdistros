@@ -7,8 +7,8 @@ album: "Manic Deliverance"
 categories:
     - Tape
 images:
-    - "/images/covers/iron_cemetery-manic_deliverance.png"
-thumbnailImage: "/images/covers/iron_cemetery-manic_deliverance-thumb.png"
+    - "/images/covers/iron_cemetery-manic_deliverance.jpg"
+thumbnailImage: "/images/covers/iron_cemetery-manic_deliverance-thumb.jpg"
 actualPrice: $6.00
 inStock: true
 ---

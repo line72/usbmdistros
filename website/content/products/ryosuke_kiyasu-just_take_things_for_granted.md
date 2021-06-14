@@ -7,8 +7,8 @@ album: "Just Take Things For Granted"
 categories:
     - Tape
 images:
-    - "/images/covers/ryosuke_kiyasu-just_take_things_for_granted.png"
-thumbnailImage: "/images/covers/ryosuke_kiyasu-just_take_things_for_granted-thumb.png"
+    - "/images/covers/ryosuke_kiyasu-just_take_things_for_granted.jpg"
+thumbnailImage: "/images/covers/ryosuke_kiyasu-just_take_things_for_granted-thumb.jpg"
 actualPrice: $8.00
 inStock: true
 ---

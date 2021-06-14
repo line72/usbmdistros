@@ -7,8 +7,8 @@ album: "Inward"
 categories:
     - Tape
 images:
-    - "/images/covers/thaumiel-inward.png"
-thumbnailImage: "/images/covers/thaumiel-inward-thumb.png"
+    - "/images/covers/thaumiel-inward.jpg"
+thumbnailImage: "/images/covers/thaumiel-inward-thumb.jpg"
 actualPrice: $4.00
 inStock: true
 ---

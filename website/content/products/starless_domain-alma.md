@@ -7,8 +7,8 @@ album: "Alma"
 categories:
     - Tape
 images:
-    - "/images/covers/starless_domain-alma.png"
-thumbnailImage: "/images/covers/starless_domain-alma-thumb.png"
+    - "/images/covers/starless_domain-alma.jpg"
+thumbnailImage: "/images/covers/starless_domain-alma-thumb.jpg"
 actualPrice: $6.00
 inStock: true
 ---

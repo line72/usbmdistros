@@ -7,8 +7,8 @@ album: "Insurrection Or Submission"
 categories:
     - Tape
 images:
-    - "/images/covers/phantasmagore-insurrection_or_submission.png"
-thumbnailImage: "/images/covers/phantasmagore-insurrection_or_submission-thumb.png"
+    - "/images/covers/phantasmagore-insurrection_or_submission.jpg"
+thumbnailImage: "/images/covers/phantasmagore-insurrection_or_submission-thumb.jpg"
 actualPrice: $7.50
 inStock: true
 ---

@@ -7,8 +7,8 @@ album: "No Hope, No Light...Only Death"
 categories:
     - Tape
 images:
-    - "/images/covers/isolert-no_hope,_no_light...only_death.png"
-thumbnailImage: "/images/covers/isolert-no_hope,_no_light...only_death-thumb.png"
+    - "/images/covers/isolert-no_hope,_no_light...only_death.jpg"
+thumbnailImage: "/images/covers/isolert-no_hope,_no_light...only_death-thumb.jpg"
 actualPrice: $6.00
 inStock: true
 ---

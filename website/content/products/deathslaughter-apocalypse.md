@@ -7,8 +7,8 @@ album: "Apocalypse"
 categories:
     - Tape
 images:
-    - "/images/covers/deathslaughter-apocalypse.png"
-thumbnailImage: "/images/covers/deathslaughter-apocalypse-thumb.png"
+    - "/images/covers/deathslaughter-apocalypse.jpg"
+thumbnailImage: "/images/covers/deathslaughter-apocalypse-thumb.jpg"
 actualPrice: $7.00
 inStock: true
 ---

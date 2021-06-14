@@ -7,8 +7,8 @@ album: "The Unholy One"
 categories:
     - Tape
 images:
-    - "/images/covers/expulser-the_unholy_one.png"
-thumbnailImage: "/images/covers/expulser-the_unholy_one-thumb.png"
+    - "/images/covers/expulser-the_unholy_one.jpg"
+thumbnailImage: "/images/covers/expulser-the_unholy_one-thumb.jpg"
 actualPrice: $7.50
 inStock: true
 ---

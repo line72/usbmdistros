@@ -7,8 +7,8 @@ album: "Livewire Lounge - Dec 14Th, 2019"
 categories:
     - Tape
 images:
-    - "/images/covers/voimaton-livewire_lounge_-_dec_14th,_2019.png"
-thumbnailImage: "/images/covers/voimaton-livewire_lounge_-_dec_14th,_2019-thumb.png"
+    - "/images/covers/voimaton-livewire_lounge_-_dec_14th,_2019.jpg"
+thumbnailImage: "/images/covers/voimaton-livewire_lounge_-_dec_14th,_2019-thumb.jpg"
 actualPrice: $8.00
 inStock: true
 ---

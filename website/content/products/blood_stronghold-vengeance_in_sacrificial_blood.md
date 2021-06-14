@@ -7,8 +7,8 @@ album: "Vengeance in Sacrificial Blood"
 categories:
     - Tape
 images:
-    - "/images/covers/blood_stronghold-vengeance_in_sacrificial_blood.png"
-thumbnailImage: "/images/covers/blood_stronghold-vengeance_in_sacrificial_blood-thumb.png"
+    - "/images/covers/blood_stronghold-vengeance_in_sacrificial_blood.jpg"
+thumbnailImage: "/images/covers/blood_stronghold-vengeance_in_sacrificial_blood-thumb.jpg"
 actualPrice: $9.00
 inStock: true
 ---

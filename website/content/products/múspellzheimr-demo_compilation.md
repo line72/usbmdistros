@@ -7,8 +7,8 @@ album: "Demo Compilation"
 categories:
     - Vinyl
 images:
-    - "/images/covers/múspellzheimr-demo_compilation.png"
-thumbnailImage: "/images/covers/múspellzheimr-demo_compilation-thumb.png"
+    - "/images/covers/múspellzheimr-demo_compilation.jpg"
+thumbnailImage: "/images/covers/múspellzheimr-demo_compilation-thumb.jpg"
 actualPrice: $21.00
 inStock: true
 ---

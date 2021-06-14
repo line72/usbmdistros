@@ -7,8 +7,8 @@ album: "Shrouded Firmament / So Below"
 categories:
     - Tape
 images:
-    - "/images/covers/kveldriða-shrouded_firmament_-_so_below.png"
-thumbnailImage: "/images/covers/kveldriða-shrouded_firmament_-_so_below-thumb.png"
+    - "/images/covers/kveldriða-shrouded_firmament_-_so_below.jpg"
+thumbnailImage: "/images/covers/kveldriða-shrouded_firmament_-_so_below-thumb.jpg"
 actualPrice: $9.00
 inStock: true
 ---

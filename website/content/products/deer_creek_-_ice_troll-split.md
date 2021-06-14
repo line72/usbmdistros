@@ -7,8 +7,8 @@ album: "Split"
 categories:
     - Tape
 images:
-    - "/images/covers/deer_creek_-_ice_troll-split.png"
-thumbnailImage: "/images/covers/deer_creek_-_ice_troll-split-thumb.png"
+    - "/images/covers/deer_creek_-_ice_troll-split.jpg"
+thumbnailImage: "/images/covers/deer_creek_-_ice_troll-split-thumb.jpg"
 actualPrice: $6.50
 inStock: true
 ---

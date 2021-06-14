@@ -7,8 +7,8 @@ album: "Self-Titled Ep"
 categories:
     - Tape
 images:
-    - "/images/covers/predawn-self-titled_ep.png"
-thumbnailImage: "/images/covers/predawn-self-titled_ep-thumb.png"
+    - "/images/covers/predawn-self-titled_ep.jpg"
+thumbnailImage: "/images/covers/predawn-self-titled_ep-thumb.jpg"
 actualPrice: $5.00
 inStock: true
 ---

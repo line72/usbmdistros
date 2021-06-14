@@ -7,8 +7,8 @@ album: "Scars From Different Times"
 categories:
     - Tape
 images:
-    - "/images/covers/valium-scars_from_different_times.png"
-thumbnailImage: "/images/covers/valium-scars_from_different_times-thumb.png"
+    - "/images/covers/valium-scars_from_different_times.jpg"
+thumbnailImage: "/images/covers/valium-scars_from_different_times-thumb.jpg"
 actualPrice: $4.00
 inStock: true
 ---

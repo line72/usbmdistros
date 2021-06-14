@@ -7,8 +7,8 @@ album: "Madrigals"
 categories:
     - Tape
 images:
-    - "/images/covers/wapentake-madrigals.png"
-thumbnailImage: "/images/covers/wapentake-madrigals-thumb.png"
+    - "/images/covers/wapentake-madrigals.jpg"
+thumbnailImage: "/images/covers/wapentake-madrigals-thumb.jpg"
 actualPrice: $10.00
 inStock: true
 ---

@@ -7,8 +7,8 @@ album: "I"
 categories:
     - Tape
 images:
-    - "/images/covers/hexagon-i.png"
-thumbnailImage: "/images/covers/hexagon-i-thumb.png"
+    - "/images/covers/hexagon-i.jpg"
+thumbnailImage: "/images/covers/hexagon-i-thumb.jpg"
 actualPrice: $5.00
 inStock: true
 ---

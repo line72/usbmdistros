@@ -7,8 +7,8 @@ album: "Breathless Existence"
 categories:
     - Tape
 images:
-    - "/images/covers/omission-breathless_existence.png"
-thumbnailImage: "/images/covers/omission-breathless_existence-thumb.png"
+    - "/images/covers/omission-breathless_existence.jpg"
+thumbnailImage: "/images/covers/omission-breathless_existence-thumb.jpg"
 actualPrice: $4.00
 inStock: true
 ---

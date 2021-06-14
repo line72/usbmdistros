@@ -7,8 +7,8 @@ album: "Demo 2020"
 categories:
     - Tape
 images:
-    - "/images/covers/morgued-demo_2020.png"
-thumbnailImage: "/images/covers/morgued-demo_2020-thumb.png"
+    - "/images/covers/morgued-demo_2020.jpg"
+thumbnailImage: "/images/covers/morgued-demo_2020-thumb.jpg"
 actualPrice: $8.00
 inStock: true
 ---

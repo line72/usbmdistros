@@ -7,8 +7,8 @@ album: "Converge​.​Revenge."
 categories:
     - Tape
 images:
-    - "/images/covers/naillung-converge​.​revenge..png"
-thumbnailImage: "/images/covers/naillung-converge​.​revenge.-thumb.png"
+    - "/images/covers/naillung-converge​.​revenge..jpg"
+thumbnailImage: "/images/covers/naillung-converge​.​revenge.-thumb.jpg"
 actualPrice: $8.00
 inStock: true
 ---

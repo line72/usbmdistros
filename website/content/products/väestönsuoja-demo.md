@@ -7,8 +7,8 @@ album: "Demo"
 categories:
     - Tape
 images:
-    - "/images/covers/väestönsuoja-demo.png"
-thumbnailImage: "/images/covers/väestönsuoja-demo-thumb.png"
+    - "/images/covers/väestönsuoja-demo.jpg"
+thumbnailImage: "/images/covers/väestönsuoja-demo-thumb.jpg"
 actualPrice: $7.50
 inStock: true
 ---

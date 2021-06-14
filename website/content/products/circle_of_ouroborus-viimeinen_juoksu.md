@@ -7,8 +7,8 @@ album: "Viimeinen Juoksu"
 categories:
     - CD
 images:
-    - "/images/covers/circle_of_ouroborus-viimeinen_juoksu.png"
-thumbnailImage: "/images/covers/circle_of_ouroborus-viimeinen_juoksu-thumb.png"
+    - "/images/covers/circle_of_ouroborus-viimeinen_juoksu.jpg"
+thumbnailImage: "/images/covers/circle_of_ouroborus-viimeinen_juoksu-thumb.jpg"
 actualPrice: $15.00
 inStock: true
 ---

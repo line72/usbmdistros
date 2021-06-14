@@ -7,8 +7,8 @@ album: "The Psalms of Diabolus"
 categories:
     - CD
 images:
-    - "/images/covers/darkness_enshroud_‎–_maleficum-the_psalms_of_diabolus.png"
-thumbnailImage: "/images/covers/darkness_enshroud_‎–_maleficum-the_psalms_of_diabolus-thumb.png"
+    - "/images/covers/darkness_enshroud_‎–_maleficum-the_psalms_of_diabolus.jpg"
+thumbnailImage: "/images/covers/darkness_enshroud_‎–_maleficum-the_psalms_of_diabolus-thumb.jpg"
 actualPrice: $13.00
 inStock: true
 ---

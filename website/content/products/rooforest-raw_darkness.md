@@ -7,8 +7,8 @@ album: "Raw Darkness"
 categories:
     - Tape
 images:
-    - "/images/covers/rooforest-raw_darkness.png"
-thumbnailImage: "/images/covers/rooforest-raw_darkness-thumb.png"
+    - "/images/covers/rooforest-raw_darkness.jpg"
+thumbnailImage: "/images/covers/rooforest-raw_darkness-thumb.jpg"
 actualPrice: $8.00
 inStock: true
 ---

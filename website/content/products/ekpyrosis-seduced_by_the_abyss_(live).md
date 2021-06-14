@@ -7,8 +7,8 @@ album: "Seduced By The Abyss (Live)"
 categories:
     - Tape
 images:
-    - "/images/covers/ekpyrosis-seduced_by_the_abyss_(live).png"
-thumbnailImage: "/images/covers/ekpyrosis-seduced_by_the_abyss_(live)-thumb.png"
+    - "/images/covers/ekpyrosis-seduced_by_the_abyss_(live).jpg"
+thumbnailImage: "/images/covers/ekpyrosis-seduced_by_the_abyss_(live)-thumb.jpg"
 actualPrice: $6.00
 inStock: true
 ---

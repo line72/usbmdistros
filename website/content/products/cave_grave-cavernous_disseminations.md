@@ -7,8 +7,8 @@ album: "Cavernous Disseminations"
 categories:
     - Tape
 images:
-    - "/images/covers/cave_grave-cavernous_disseminations.png"
-thumbnailImage: "/images/covers/cave_grave-cavernous_disseminations-thumb.png"
+    - "/images/covers/cave_grave-cavernous_disseminations.jpg"
+thumbnailImage: "/images/covers/cave_grave-cavernous_disseminations-thumb.jpg"
 actualPrice: $8.00
 inStock: true
 ---

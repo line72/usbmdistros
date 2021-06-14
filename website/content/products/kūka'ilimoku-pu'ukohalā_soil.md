@@ -7,8 +7,8 @@ album: "Pu'Ukohalā Soil"
 categories:
     - Tape
 images:
-    - "/images/covers/kūka'ilimoku-pu'ukohalā_soil.png"
-thumbnailImage: "/images/covers/kūka'ilimoku-pu'ukohalā_soil-thumb.png"
+    - "/images/covers/kūka'ilimoku-pu'ukohalā_soil.jpg"
+thumbnailImage: "/images/covers/kūka'ilimoku-pu'ukohalā_soil-thumb.jpg"
 actualPrice: $8.50
 inStock: true
 ---

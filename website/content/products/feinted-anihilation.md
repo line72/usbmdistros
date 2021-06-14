@@ -7,8 +7,8 @@ album: "Anihilation"
 categories:
     - Tape
 images:
-    - "/images/covers/feinted-anihilation.png"
-thumbnailImage: "/images/covers/feinted-anihilation-thumb.png"
+    - "/images/covers/feinted-anihilation.jpg"
+thumbnailImage: "/images/covers/feinted-anihilation-thumb.jpg"
 actualPrice: $8.00
 inStock: true
 ---

@@ -7,8 +7,8 @@ album: "From Anal To Intestinal"
 categories:
     - Tape
 images:
-    - "/images/covers/shotgun_cock-from_anal_to_intestinal.png"
-thumbnailImage: "/images/covers/shotgun_cock-from_anal_to_intestinal-thumb.png"
+    - "/images/covers/shotgun_cock-from_anal_to_intestinal.jpg"
+thumbnailImage: "/images/covers/shotgun_cock-from_anal_to_intestinal-thumb.jpg"
 actualPrice: $6.00
 inStock: true
 ---

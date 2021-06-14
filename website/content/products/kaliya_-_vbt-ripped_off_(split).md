@@ -7,8 +7,8 @@ album: "Ripped Off (Split)"
 categories:
     - Tape
 images:
-    - "/images/covers/kaliya_-_vbt-ripped_off_(split).png"
-thumbnailImage: "/images/covers/kaliya_-_vbt-ripped_off_(split)-thumb.png"
+    - "/images/covers/kaliya_-_vbt-ripped_off_(split).jpg"
+thumbnailImage: "/images/covers/kaliya_-_vbt-ripped_off_(split)-thumb.jpg"
 actualPrice: $7.00
 inStock: true
 ---

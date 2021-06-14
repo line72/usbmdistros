@@ -7,8 +7,8 @@ album: "Eiswald"
 categories:
     - Vinyl
 images:
-    - "/images/covers/winterblood-eiswald.png"
-thumbnailImage: "/images/covers/winterblood-eiswald-thumb.png"
+    - "/images/covers/winterblood-eiswald.jpg"
+thumbnailImage: "/images/covers/winterblood-eiswald-thumb.jpg"
 actualPrice: $35.00
 inStock: true
 ---

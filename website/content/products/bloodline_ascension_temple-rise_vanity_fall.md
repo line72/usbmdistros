@@ -7,8 +7,8 @@ album: "Rise Vanity Fall"
 categories:
     - Tape
 images:
-    - "/images/covers/bloodline_ascension_temple-rise_vanity_fall.png"
-thumbnailImage: "/images/covers/bloodline_ascension_temple-rise_vanity_fall-thumb.png"
+    - "/images/covers/bloodline_ascension_temple-rise_vanity_fall.jpg"
+thumbnailImage: "/images/covers/bloodline_ascension_temple-rise_vanity_fall-thumb.jpg"
 actualPrice: $6.00
 inStock: true
 ---

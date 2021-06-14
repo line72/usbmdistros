@@ -7,8 +7,8 @@ album: "Self-Titled"
 categories:
     - Tape
 images:
-    - "/images/covers/turris_eburnea-self-titled.png"
-thumbnailImage: "/images/covers/turris_eburnea-self-titled-thumb.png"
+    - "/images/covers/turris_eburnea-self-titled.jpg"
+thumbnailImage: "/images/covers/turris_eburnea-self-titled-thumb.jpg"
 actualPrice: $7.00
 inStock: true
 ---

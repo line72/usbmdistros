@@ -7,8 +7,8 @@ album: "Heavy Metal Macht"
 categories:
     - Tape
 images:
-    - "/images/covers/spiker-heavy_metal_macht.png"
-thumbnailImage: "/images/covers/spiker-heavy_metal_macht-thumb.png"
+    - "/images/covers/spiker-heavy_metal_macht.jpg"
+thumbnailImage: "/images/covers/spiker-heavy_metal_macht-thumb.jpg"
 actualPrice: $4.50
 inStock: true
 ---

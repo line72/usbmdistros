@@ -7,8 +7,8 @@ album: "Final Bloody Master"
 categories:
     - Tape
 images:
-    - "/images/covers/metachrist-final_bloody_master.png"
-thumbnailImage: "/images/covers/metachrist-final_bloody_master-thumb.png"
+    - "/images/covers/metachrist-final_bloody_master.jpg"
+thumbnailImage: "/images/covers/metachrist-final_bloody_master-thumb.jpg"
 actualPrice: $6.00
 inStock: true
 ---

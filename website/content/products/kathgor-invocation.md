@@ -7,8 +7,8 @@ album: "Invocation"
 categories:
     - Tape
 images:
-    - "/images/covers/kathgor-invocation.png"
-thumbnailImage: "/images/covers/kathgor-invocation-thumb.png"
+    - "/images/covers/kathgor-invocation.jpg"
+thumbnailImage: "/images/covers/kathgor-invocation-thumb.jpg"
 actualPrice: $3.00
 inStock: true
 ---

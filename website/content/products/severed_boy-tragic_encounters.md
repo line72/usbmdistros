@@ -8,8 +8,8 @@ categories:
     - Tape
     - CD
 images:
-    - "/images/covers/severed_boy-tragic_encounters.png"
-thumbnailImage: "/images/covers/severed_boy-tragic_encounters-thumb.png"
+    - "/images/covers/severed_boy-tragic_encounters.jpg"
+thumbnailImage: "/images/covers/severed_boy-tragic_encounters-thumb.jpg"
 actualPrice: $7.00 - 10.00
 inStock: true
 ---

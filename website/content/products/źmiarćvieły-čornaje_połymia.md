@@ -7,8 +7,8 @@ album: "Čornaje Połymia"
 categories:
     - Tape
 images:
-    - "/images/covers/źmiarćvieły-čornaje_połymia.png"
-thumbnailImage: "/images/covers/źmiarćvieły-čornaje_połymia-thumb.png"
+    - "/images/covers/źmiarćvieły-čornaje_połymia.jpg"
+thumbnailImage: "/images/covers/źmiarćvieły-čornaje_połymia-thumb.jpg"
 actualPrice: $6.00
 inStock: true
 ---

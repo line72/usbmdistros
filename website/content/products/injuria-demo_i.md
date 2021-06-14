@@ -7,8 +7,8 @@ album: "Demo I"
 categories:
     - Tape
 images:
-    - "/images/covers/injuria-demo_i.png"
-thumbnailImage: "/images/covers/injuria-demo_i-thumb.png"
+    - "/images/covers/injuria-demo_i.jpg"
+thumbnailImage: "/images/covers/injuria-demo_i-thumb.jpg"
 actualPrice: $8.50 - 10.00
 inStock: true
 ---

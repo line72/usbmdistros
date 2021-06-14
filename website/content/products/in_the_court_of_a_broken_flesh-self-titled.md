@@ -7,8 +7,8 @@ album: "Self-Titled"
 categories:
     - Tape
 images:
-    - "/images/covers/in_the_court_of_a_broken_flesh-self-titled.png"
-thumbnailImage: "/images/covers/in_the_court_of_a_broken_flesh-self-titled-thumb.png"
+    - "/images/covers/in_the_court_of_a_broken_flesh-self-titled.jpg"
+thumbnailImage: "/images/covers/in_the_court_of_a_broken_flesh-self-titled-thumb.jpg"
 actualPrice: $8.00
 inStock: true
 ---

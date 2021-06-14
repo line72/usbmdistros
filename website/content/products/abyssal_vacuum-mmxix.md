@@ -7,8 +7,8 @@ album: "Mmxix"
 categories:
     - Tape
 images:
-    - "/images/covers/abyssal_vacuum-mmxix.png"
-thumbnailImage: "/images/covers/abyssal_vacuum-mmxix-thumb.png"
+    - "/images/covers/abyssal_vacuum-mmxix.jpg"
+thumbnailImage: "/images/covers/abyssal_vacuum-mmxix-thumb.jpg"
 actualPrice: $7.00
 inStock: true
 ---

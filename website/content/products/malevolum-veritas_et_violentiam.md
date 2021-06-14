@@ -7,8 +7,8 @@ album: "Veritas et Violentiam"
 categories:
     - Vinyl
 images:
-    - "/images/covers/malevolum-veritas_et_violentiam.png"
-thumbnailImage: "/images/covers/malevolum-veritas_et_violentiam-thumb.png"
+    - "/images/covers/malevolum-veritas_et_violentiam.jpg"
+thumbnailImage: "/images/covers/malevolum-veritas_et_violentiam-thumb.jpg"
 actualPrice: $25.00
 inStock: true
 ---

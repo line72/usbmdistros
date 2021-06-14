@@ -7,8 +7,8 @@ album: "Ep I"
 categories:
     - Tape
 images:
-    - "/images/covers/femme_de_venisse-ep_i.png"
-thumbnailImage: "/images/covers/femme_de_venisse-ep_i-thumb.png"
+    - "/images/covers/femme_de_venisse-ep_i.jpg"
+thumbnailImage: "/images/covers/femme_de_venisse-ep_i-thumb.jpg"
 actualPrice: $6.00
 inStock: true
 ---

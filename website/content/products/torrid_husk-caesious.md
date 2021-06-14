@@ -7,8 +7,8 @@ album: "Caesious"
 categories:
     - Tape
 images:
-    - "/images/covers/torrid_husk-caesious.png"
-thumbnailImage: "/images/covers/torrid_husk-caesious-thumb.png"
+    - "/images/covers/torrid_husk-caesious.jpg"
+thumbnailImage: "/images/covers/torrid_husk-caesious-thumb.jpg"
 actualPrice: $6.00
 inStock: true
 ---

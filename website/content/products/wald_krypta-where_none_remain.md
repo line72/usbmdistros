@@ -7,8 +7,8 @@ album: "Where None Remain"
 categories:
     - Tape
 images:
-    - "/images/covers/wald_krypta-where_none_remain.png"
-thumbnailImage: "/images/covers/wald_krypta-where_none_remain-thumb.png"
+    - "/images/covers/wald_krypta-where_none_remain.jpg"
+thumbnailImage: "/images/covers/wald_krypta-where_none_remain-thumb.jpg"
 actualPrice: $4.50
 inStock: true
 ---

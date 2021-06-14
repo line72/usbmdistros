@@ -7,8 +7,8 @@ album: "Animist"
 categories:
     - Tape
 images:
-    - "/images/covers/werian-animist.png"
-thumbnailImage: "/images/covers/werian-animist-thumb.png"
+    - "/images/covers/werian-animist.jpg"
+thumbnailImage: "/images/covers/werian-animist-thumb.jpg"
 actualPrice: $6.50
 inStock: true
 ---

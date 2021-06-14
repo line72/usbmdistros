@@ -7,8 +7,8 @@ album: "Void Of Infinite Horror"
 categories:
     - Tape
 images:
-    - "/images/covers/vessel_of_iniquity-void_of_infinite_horror.png"
-thumbnailImage: "/images/covers/vessel_of_iniquity-void_of_infinite_horror-thumb.png"
+    - "/images/covers/vessel_of_iniquity-void_of_infinite_horror.jpg"
+thumbnailImage: "/images/covers/vessel_of_iniquity-void_of_infinite_horror-thumb.jpg"
 actualPrice: $5.00
 inStock: true
 ---

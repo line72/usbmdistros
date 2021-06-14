@@ -7,8 +7,8 @@ album: "Condemnation"
 categories:
     - Tape
 images:
-    - "/images/covers/valgrind-condemnation.png"
-thumbnailImage: "/images/covers/valgrind-condemnation-thumb.png"
+    - "/images/covers/valgrind-condemnation.jpg"
+thumbnailImage: "/images/covers/valgrind-condemnation-thumb.jpg"
 actualPrice: $7.00
 inStock: true
 ---

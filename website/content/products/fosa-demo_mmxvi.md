@@ -7,8 +7,8 @@ album: "Demo Mmxvi"
 categories:
     - Tape
 images:
-    - "/images/covers/fosa-demo_mmxvi.png"
-thumbnailImage: "/images/covers/fosa-demo_mmxvi-thumb.png"
+    - "/images/covers/fosa-demo_mmxvi.jpg"
+thumbnailImage: "/images/covers/fosa-demo_mmxvi-thumb.jpg"
 actualPrice: $5.00
 inStock: true
 ---

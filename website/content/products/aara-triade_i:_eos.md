@@ -8,8 +8,8 @@ categories:
     - Vinyl
     - CD
 images:
-    - "/images/covers/aara-triade_i:_eos.png"
-thumbnailImage: "/images/covers/aara-triade_i:_eos-thumb.png"
+    - "/images/covers/aara-triade_i:_eos.jpg"
+thumbnailImage: "/images/covers/aara-triade_i:_eos-thumb.jpg"
 actualPrice: $9.99 - 39.99
 inStock: true
 ---

@@ -7,8 +7,8 @@ album: "A Stone Engraved In Red"
 categories:
     - Tape
 images:
-    - "/images/covers/ravensire-a_stone_engraved_in_red.png"
-thumbnailImage: "/images/covers/ravensire-a_stone_engraved_in_red-thumb.png"
+    - "/images/covers/ravensire-a_stone_engraved_in_red.jpg"
+thumbnailImage: "/images/covers/ravensire-a_stone_engraved_in_red-thumb.jpg"
 actualPrice: $5.50
 inStock: true
 ---

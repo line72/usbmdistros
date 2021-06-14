@@ -7,8 +7,8 @@ album: "Bliss"
 categories:
     - Tape
 images:
-    - "/images/covers/breastmilk-bliss.png"
-thumbnailImage: "/images/covers/breastmilk-bliss-thumb.png"
+    - "/images/covers/breastmilk-bliss.jpg"
+thumbnailImage: "/images/covers/breastmilk-bliss-thumb.jpg"
 actualPrice: $6.00
 inStock: true
 ---

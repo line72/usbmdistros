@@ -7,8 +7,8 @@ album: "Disdain for Humanity"
 categories:
     - CD
 images:
-    - "/images/covers/regnans-disdain_for_humanity.png"
-thumbnailImage: "/images/covers/regnans-disdain_for_humanity-thumb.png"
+    - "/images/covers/regnans-disdain_for_humanity.jpg"
+thumbnailImage: "/images/covers/regnans-disdain_for_humanity-thumb.jpg"
 actualPrice: $13.00
 inStock: true
 ---

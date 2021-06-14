@@ -7,8 +7,8 @@ album: "Demo"
 categories:
     - Tape
 images:
-    - "/images/covers/tired_lord-demo.png"
-thumbnailImage: "/images/covers/tired_lord-demo-thumb.png"
+    - "/images/covers/tired_lord-demo.jpg"
+thumbnailImage: "/images/covers/tired_lord-demo-thumb.jpg"
 actualPrice: $6.50
 inStock: true
 ---

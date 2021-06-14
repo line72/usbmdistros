@@ -7,8 +7,8 @@ album: "Into The Abyss (The Final Descent)"
 categories:
     - Tape
 images:
-    - "/images/covers/mortuus_sum-into_the_abyss_(the_final_descent).png"
-thumbnailImage: "/images/covers/mortuus_sum-into_the_abyss_(the_final_descent)-thumb.png"
+    - "/images/covers/mortuus_sum-into_the_abyss_(the_final_descent).jpg"
+thumbnailImage: "/images/covers/mortuus_sum-into_the_abyss_(the_final_descent)-thumb.jpg"
 actualPrice: $5.00
 inStock: true
 ---

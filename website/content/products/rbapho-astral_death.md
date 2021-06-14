@@ -7,8 +7,8 @@ album: "Astral Death"
 categories:
     - Tape
 images:
-    - "/images/covers/rbapho-astral_death.png"
-thumbnailImage: "/images/covers/rbapho-astral_death-thumb.png"
+    - "/images/covers/rbapho-astral_death.jpg"
+thumbnailImage: "/images/covers/rbapho-astral_death-thumb.jpg"
 actualPrice: $6.00
 inStock: true
 ---

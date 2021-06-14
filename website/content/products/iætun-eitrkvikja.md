@@ -8,8 +8,8 @@ categories:
     - Vinyl
     - CD
 images:
-    - "/images/covers/iætun-eitrkvikja.png"
-thumbnailImage: "/images/covers/iætun-eitrkvikja-thumb.png"
+    - "/images/covers/iætun-eitrkvikja.jpg"
+thumbnailImage: "/images/covers/iætun-eitrkvikja-thumb.jpg"
 actualPrice: $14.00 - 24.00
 inStock: true
 ---

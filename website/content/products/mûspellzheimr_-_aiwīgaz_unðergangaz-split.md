@@ -7,8 +7,8 @@ album: "Split"
 categories:
     - Vinyl
 images:
-    - "/images/covers/mûspellzheimr_-_aiwīgaz_unðergangaz-split.png"
-thumbnailImage: "/images/covers/mûspellzheimr_-_aiwīgaz_unðergangaz-split-thumb.png"
+    - "/images/covers/mûspellzheimr_-_aiwīgaz_unðergangaz-split.jpg"
+thumbnailImage: "/images/covers/mûspellzheimr_-_aiwīgaz_unðergangaz-split-thumb.jpg"
 actualPrice: $17.00
 inStock: true
 ---

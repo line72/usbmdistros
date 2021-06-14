@@ -7,8 +7,8 @@ album: "Rotting In Eternity'S Hell"
 categories:
     - Tape
 images:
-    - "/images/covers/mutilate-rotting_in_eternity's_hell.png"
-thumbnailImage: "/images/covers/mutilate-rotting_in_eternity's_hell-thumb.png"
+    - "/images/covers/mutilate-rotting_in_eternity's_hell.jpg"
+thumbnailImage: "/images/covers/mutilate-rotting_in_eternity's_hell-thumb.jpg"
 actualPrice: $8.00
 inStock: true
 ---

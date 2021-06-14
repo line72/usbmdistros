@@ -7,8 +7,8 @@ album: "Split"
 categories:
     - Tape
 images:
-    - "/images/covers/kūka'ilimoku_-_ebony_pendant-split.png"
-thumbnailImage: "/images/covers/kūka'ilimoku_-_ebony_pendant-split-thumb.png"
+    - "/images/covers/kūka'ilimoku_-_ebony_pendant-split.jpg"
+thumbnailImage: "/images/covers/kūka'ilimoku_-_ebony_pendant-split-thumb.jpg"
 actualPrice: $8.00
 inStock: true
 ---

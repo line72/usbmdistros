@@ -7,8 +7,8 @@ album: "MMXX"
 categories:
     - Tape
 images:
-    - "/images/covers/skinliv-mmxx.png"
-thumbnailImage: "/images/covers/skinliv-mmxx-thumb.png"
+    - "/images/covers/skinliv-mmxx.jpg"
+thumbnailImage: "/images/covers/skinliv-mmxx-thumb.jpg"
 actualPrice: $10.00
 inStock: true
 ---

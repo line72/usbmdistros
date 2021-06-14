@@ -7,8 +7,8 @@ album: "False Light"
 categories:
     - Tape
 images:
-    - "/images/covers/apollyon-false_light.png"
-thumbnailImage: "/images/covers/apollyon-false_light-thumb.png"
+    - "/images/covers/apollyon-false_light.jpg"
+thumbnailImage: "/images/covers/apollyon-false_light-thumb.jpg"
 actualPrice: $6.50
 inStock: true
 ---

@@ -7,8 +7,8 @@ album: "Als Vechten Tegen De Bierkaai"
 categories:
     - Tape
 images:
-    - "/images/covers/duyvelspecht-als_vechten_tegen_de_bierkaai.png"
-thumbnailImage: "/images/covers/duyvelspecht-als_vechten_tegen_de_bierkaai-thumb.png"
+    - "/images/covers/duyvelspecht-als_vechten_tegen_de_bierkaai.jpg"
+thumbnailImage: "/images/covers/duyvelspecht-als_vechten_tegen_de_bierkaai-thumb.jpg"
 actualPrice: $6.00
 inStock: true
 ---

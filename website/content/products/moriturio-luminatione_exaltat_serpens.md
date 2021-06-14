@@ -7,8 +7,8 @@ album: "Luminatione Exaltat Serpens"
 categories:
     - Tape
 images:
-    - "/images/covers/moriturio-luminatione_exaltat_serpens.png"
-thumbnailImage: "/images/covers/moriturio-luminatione_exaltat_serpens-thumb.png"
+    - "/images/covers/moriturio-luminatione_exaltat_serpens.jpg"
+thumbnailImage: "/images/covers/moriturio-luminatione_exaltat_serpens-thumb.jpg"
 actualPrice: $4.00
 inStock: true
 ---

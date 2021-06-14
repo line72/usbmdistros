@@ -7,8 +7,8 @@ album: "Demo 2017"
 categories:
     - Tape
 images:
-    - "/images/covers/radon_trench-demo_2017.png"
-thumbnailImage: "/images/covers/radon_trench-demo_2017-thumb.png"
+    - "/images/covers/radon_trench-demo_2017.jpg"
+thumbnailImage: "/images/covers/radon_trench-demo_2017-thumb.jpg"
 actualPrice: $5.00
 inStock: true
 ---

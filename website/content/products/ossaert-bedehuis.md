@@ -7,8 +7,8 @@ album: "Bedehuis"
 categories:
     - CD
 images:
-    - "/images/covers/ossaert-bedehuis.png"
-thumbnailImage: "/images/covers/ossaert-bedehuis-thumb.png"
+    - "/images/covers/ossaert-bedehuis.jpg"
+thumbnailImage: "/images/covers/ossaert-bedehuis-thumb.jpg"
 actualPrice: $12.00
 inStock: true
 ---

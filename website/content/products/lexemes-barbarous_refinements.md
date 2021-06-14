@@ -7,8 +7,8 @@ album: "Barbarous Refinements"
 categories:
     - Tape
 images:
-    - "/images/covers/lexemes-barbarous_refinements.png"
-thumbnailImage: "/images/covers/lexemes-barbarous_refinements-thumb.png"
+    - "/images/covers/lexemes-barbarous_refinements.jpg"
+thumbnailImage: "/images/covers/lexemes-barbarous_refinements-thumb.jpg"
 actualPrice: $4.00
 inStock: true
 ---

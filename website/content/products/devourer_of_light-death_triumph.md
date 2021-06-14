@@ -7,8 +7,8 @@ album: "Death Triumph"
 categories:
     - Tape
 images:
-    - "/images/covers/devourer_of_light-death_triumph.png"
-thumbnailImage: "/images/covers/devourer_of_light-death_triumph-thumb.png"
+    - "/images/covers/devourer_of_light-death_triumph.jpg"
+thumbnailImage: "/images/covers/devourer_of_light-death_triumph-thumb.jpg"
 actualPrice: $8.00
 inStock: true
 ---

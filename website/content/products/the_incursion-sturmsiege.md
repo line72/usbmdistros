@@ -7,8 +7,8 @@ album: "Sturmsiege"
 categories:
     - Tape
 images:
-    - "/images/covers/the_incursion-sturmsiege.png"
-thumbnailImage: "/images/covers/the_incursion-sturmsiege-thumb.png"
+    - "/images/covers/the_incursion-sturmsiege.jpg"
+thumbnailImage: "/images/covers/the_incursion-sturmsiege-thumb.jpg"
 actualPrice: $8.00
 inStock: true
 ---

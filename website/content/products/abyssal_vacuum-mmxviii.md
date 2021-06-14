@@ -7,8 +7,8 @@ album: "Mmxviii"
 categories:
     - Tape
 images:
-    - "/images/covers/abyssal_vacuum-mmxviii.png"
-thumbnailImage: "/images/covers/abyssal_vacuum-mmxviii-thumb.png"
+    - "/images/covers/abyssal_vacuum-mmxviii.jpg"
+thumbnailImage: "/images/covers/abyssal_vacuum-mmxviii-thumb.jpg"
 actualPrice: $7.50
 inStock: true
 ---

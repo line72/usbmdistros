@@ -7,8 +7,8 @@ album: "Advance Tape"
 categories:
     - Tape
 images:
-    - "/images/covers/evil_damn-advance_tape.png"
-thumbnailImage: "/images/covers/evil_damn-advance_tape-thumb.png"
+    - "/images/covers/evil_damn-advance_tape.jpg"
+thumbnailImage: "/images/covers/evil_damn-advance_tape-thumb.jpg"
 actualPrice: $7.50
 inStock: true
 ---

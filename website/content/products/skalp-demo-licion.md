@@ -7,8 +7,8 @@ album: "Demo-Licion"
 categories:
     - Tape
 images:
-    - "/images/covers/skalp-demo-licion.png"
-thumbnailImage: "/images/covers/skalp-demo-licion-thumb.png"
+    - "/images/covers/skalp-demo-licion.jpg"
+thumbnailImage: "/images/covers/skalp-demo-licion-thumb.jpg"
 actualPrice: $6.50
 inStock: true
 ---

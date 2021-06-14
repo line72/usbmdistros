@@ -7,8 +7,8 @@ album: "Deorum Mortis"
 categories:
     - Tape
 images:
-    - "/images/covers/paingiver-deorum_mortis.png"
-thumbnailImage: "/images/covers/paingiver-deorum_mortis-thumb.png"
+    - "/images/covers/paingiver-deorum_mortis.jpg"
+thumbnailImage: "/images/covers/paingiver-deorum_mortis-thumb.jpg"
 actualPrice: $6.00
 inStock: true
 ---

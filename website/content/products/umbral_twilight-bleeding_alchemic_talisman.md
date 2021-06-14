@@ -7,8 +7,8 @@ album: "Bleeding Alchemic Talisman"
 categories:
     - Tape
 images:
-    - "/images/covers/umbral_twilight-bleeding_alchemic_talisman.png"
-thumbnailImage: "/images/covers/umbral_twilight-bleeding_alchemic_talisman-thumb.png"
+    - "/images/covers/umbral_twilight-bleeding_alchemic_talisman.jpg"
+thumbnailImage: "/images/covers/umbral_twilight-bleeding_alchemic_talisman-thumb.jpg"
 actualPrice: $7.50
 inStock: true
 ---

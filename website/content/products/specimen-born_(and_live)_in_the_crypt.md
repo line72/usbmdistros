@@ -7,8 +7,8 @@ album: "Born (And Live) In The Crypt"
 categories:
     - Tape
 images:
-    - "/images/covers/specimen-born_(and_live)_in_the_crypt.png"
-thumbnailImage: "/images/covers/specimen-born_(and_live)_in_the_crypt-thumb.png"
+    - "/images/covers/specimen-born_(and_live)_in_the_crypt.jpg"
+thumbnailImage: "/images/covers/specimen-born_(and_live)_in_the_crypt-thumb.jpg"
 actualPrice: $7.00
 inStock: true
 ---

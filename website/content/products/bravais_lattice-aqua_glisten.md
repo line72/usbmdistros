@@ -7,8 +7,8 @@ album: "Aqua Glisten"
 categories:
     - Tape
 images:
-    - "/images/covers/bravais_lattice-aqua_glisten.png"
-thumbnailImage: "/images/covers/bravais_lattice-aqua_glisten-thumb.png"
+    - "/images/covers/bravais_lattice-aqua_glisten.jpg"
+thumbnailImage: "/images/covers/bravais_lattice-aqua_glisten-thumb.jpg"
 actualPrice: $8.00
 inStock: true
 ---

@@ -7,8 +7,8 @@ album: "Voracious Fields Of Famine"
 categories:
     - Tape
 images:
-    - "/images/covers/treacherous-voracious_fields_of_famine.png"
-thumbnailImage: "/images/covers/treacherous-voracious_fields_of_famine-thumb.png"
+    - "/images/covers/treacherous-voracious_fields_of_famine.jpg"
+thumbnailImage: "/images/covers/treacherous-voracious_fields_of_famine-thumb.jpg"
 actualPrice: $6.00
 inStock: true
 ---

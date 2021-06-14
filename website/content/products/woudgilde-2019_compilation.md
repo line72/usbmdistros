@@ -7,8 +7,8 @@ album: "2019 Compilation"
 categories:
     - Tape
 images:
-    - "/images/covers/woudgilde-2019_compilation.png"
-thumbnailImage: "/images/covers/woudgilde-2019_compilation-thumb.png"
+    - "/images/covers/woudgilde-2019_compilation.jpg"
+thumbnailImage: "/images/covers/woudgilde-2019_compilation-thumb.jpg"
 actualPrice: $6.00
 inStock: true
 ---

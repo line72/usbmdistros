@@ -7,8 +7,8 @@ album: "Torturous Omens of Blood and Candlewax"
 categories:
     - CD
 images:
-    - "/images/covers/vampirska-torturous_omens_of_blood_and_candlewax.png"
-thumbnailImage: "/images/covers/vampirska-torturous_omens_of_blood_and_candlewax-thumb.png"
+    - "/images/covers/vampirska-torturous_omens_of_blood_and_candlewax.jpg"
+thumbnailImage: "/images/covers/vampirska-torturous_omens_of_blood_and_candlewax-thumb.jpg"
 actualPrice: $15.00
 inStock: true
 ---

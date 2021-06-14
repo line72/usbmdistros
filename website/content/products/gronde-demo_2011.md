@@ -7,8 +7,8 @@ album: "Demo 2011"
 categories:
     - Tape
 images:
-    - "/images/covers/gronde-demo_2011.png"
-thumbnailImage: "/images/covers/gronde-demo_2011-thumb.png"
+    - "/images/covers/gronde-demo_2011.jpg"
+thumbnailImage: "/images/covers/gronde-demo_2011-thumb.jpg"
 actualPrice: $4.00
 inStock: true
 ---

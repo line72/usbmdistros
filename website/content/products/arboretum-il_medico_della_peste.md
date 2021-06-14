@@ -7,8 +7,8 @@ album: "Il Medico Della Peste"
 categories:
     - Tape
 images:
-    - "/images/covers/arboretum-il_medico_della_peste.png"
-thumbnailImage: "/images/covers/arboretum-il_medico_della_peste-thumb.png"
+    - "/images/covers/arboretum-il_medico_della_peste.jpg"
+thumbnailImage: "/images/covers/arboretum-il_medico_della_peste-thumb.jpg"
 actualPrice: $6.00
 inStock: true
 ---

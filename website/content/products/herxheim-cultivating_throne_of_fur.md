@@ -7,8 +7,8 @@ album: "Cultivating Throne Of Fur"
 categories:
     - Tape
 images:
-    - "/images/covers/herxheim-cultivating_throne_of_fur.png"
-thumbnailImage: "/images/covers/herxheim-cultivating_throne_of_fur-thumb.png"
+    - "/images/covers/herxheim-cultivating_throne_of_fur.jpg"
+thumbnailImage: "/images/covers/herxheim-cultivating_throne_of_fur-thumb.jpg"
 actualPrice: $4.00
 inStock: true
 ---

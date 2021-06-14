@@ -7,8 +7,8 @@ album: "Self-Titled"
 categories:
     - Tape
 images:
-    - "/images/covers/sadomizer-self-titled.png"
-thumbnailImage: "/images/covers/sadomizer-self-titled-thumb.png"
+    - "/images/covers/sadomizer-self-titled.jpg"
+thumbnailImage: "/images/covers/sadomizer-self-titled-thumb.jpg"
 actualPrice: $2.00
 inStock: true
 ---

@@ -7,8 +7,8 @@ album: "Articles Of The Faithless"
 categories:
     - Tape
 images:
-    - "/images/covers/spitlife-articles_of_the_faithless.png"
-thumbnailImage: "/images/covers/spitlife-articles_of_the_faithless-thumb.png"
+    - "/images/covers/spitlife-articles_of_the_faithless.jpg"
+thumbnailImage: "/images/covers/spitlife-articles_of_the_faithless-thumb.jpg"
 actualPrice: $6.50
 inStock: true
 ---

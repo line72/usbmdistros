@@ -7,8 +7,8 @@ album: "Neljän käärmeen Veljeskunta"
 categories:
     - Vinyl
 images:
-    - "/images/covers/nekrokrist_ss-neljän_käärmeen_veljeskunta.png"
-thumbnailImage: "/images/covers/nekrokrist_ss-neljän_käärmeen_veljeskunta-thumb.png"
+    - "/images/covers/nekrokrist_ss-neljän_käärmeen_veljeskunta.jpg"
+thumbnailImage: "/images/covers/nekrokrist_ss-neljän_käärmeen_veljeskunta-thumb.jpg"
 actualPrice: $23.00
 inStock: true
 ---

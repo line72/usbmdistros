@@ -7,8 +7,8 @@ album: "Split"
 categories:
     - Tape
 images:
-    - "/images/covers/hexeth_-_void_tendril-split.png"
-thumbnailImage: "/images/covers/hexeth_-_void_tendril-split-thumb.png"
+    - "/images/covers/hexeth_-_void_tendril-split.jpg"
+thumbnailImage: "/images/covers/hexeth_-_void_tendril-split-thumb.jpg"
 actualPrice: $8.00
 inStock: true
 ---

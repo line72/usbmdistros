@@ -7,8 +7,8 @@ album: "Dead Burning To Ashes"
 categories:
     - Tape
 images:
-    - "/images/covers/day_of_execution-dead_burning_to_ashes.png"
-thumbnailImage: "/images/covers/day_of_execution-dead_burning_to_ashes-thumb.png"
+    - "/images/covers/day_of_execution-dead_burning_to_ashes.jpg"
+thumbnailImage: "/images/covers/day_of_execution-dead_burning_to_ashes-thumb.jpg"
 actualPrice: $3.00
 inStock: true
 ---

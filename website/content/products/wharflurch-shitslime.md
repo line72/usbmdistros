@@ -7,8 +7,8 @@ album: "Shitslime"
 categories:
     - Tape
 images:
-    - "/images/covers/wharflurch-shitslime.png"
-thumbnailImage: "/images/covers/wharflurch-shitslime-thumb.png"
+    - "/images/covers/wharflurch-shitslime.jpg"
+thumbnailImage: "/images/covers/wharflurch-shitslime-thumb.jpg"
 actualPrice: $10.00
 inStock: true
 ---

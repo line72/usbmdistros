@@ -7,8 +7,8 @@ album: "Die Derwaert Gaen en Keeren Niet"
 categories:
     - Vinyl
 images:
-    - "/images/covers/walpurgisnacht-die_derwaert_gaen_en_keeren_niet.png"
-thumbnailImage: "/images/covers/walpurgisnacht-die_derwaert_gaen_en_keeren_niet-thumb.png"
+    - "/images/covers/walpurgisnacht-die_derwaert_gaen_en_keeren_niet.jpg"
+thumbnailImage: "/images/covers/walpurgisnacht-die_derwaert_gaen_en_keeren_niet-thumb.jpg"
 actualPrice: $27.00
 inStock: true
 ---

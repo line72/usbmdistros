@@ -7,8 +7,8 @@ album: "Blind Bird Of Prey"
 categories:
     - Tape
 images:
-    - "/images/covers/culver-blind_bird_of_prey.png"
-thumbnailImage: "/images/covers/culver-blind_bird_of_prey-thumb.png"
+    - "/images/covers/culver-blind_bird_of_prey.jpg"
+thumbnailImage: "/images/covers/culver-blind_bird_of_prey-thumb.jpg"
 actualPrice: $4.50
 inStock: true
 ---

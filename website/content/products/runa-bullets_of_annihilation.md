@@ -7,8 +7,8 @@ album: "Bullets Of Annihilation"
 categories:
     - Tape
 images:
-    - "/images/covers/runa-bullets_of_annihilation.png"
-thumbnailImage: "/images/covers/runa-bullets_of_annihilation-thumb.png"
+    - "/images/covers/runa-bullets_of_annihilation.jpg"
+thumbnailImage: "/images/covers/runa-bullets_of_annihilation-thumb.jpg"
 actualPrice: $7.00
 inStock: true
 ---

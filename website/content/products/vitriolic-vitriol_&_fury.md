@@ -7,8 +7,8 @@ album: "Vitriol & Fury"
 categories:
     - Tape
 images:
-    - "/images/covers/vitriolic-vitriol_&_fury.png"
-thumbnailImage: "/images/covers/vitriolic-vitriol_&_fury-thumb.png"
+    - "/images/covers/vitriolic-vitriol_&_fury.jpg"
+thumbnailImage: "/images/covers/vitriolic-vitriol_&_fury-thumb.jpg"
 actualPrice: $5.00
 inStock: true
 ---

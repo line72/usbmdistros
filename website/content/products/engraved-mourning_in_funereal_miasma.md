@@ -7,8 +7,8 @@ album: "Mourning In Funereal Miasma"
 categories:
     - Tape
 images:
-    - "/images/covers/engraved-mourning_in_funereal_miasma.png"
-thumbnailImage: "/images/covers/engraved-mourning_in_funereal_miasma-thumb.png"
+    - "/images/covers/engraved-mourning_in_funereal_miasma.jpg"
+thumbnailImage: "/images/covers/engraved-mourning_in_funereal_miasma-thumb.jpg"
 actualPrice: $9.00
 inStock: true
 ---

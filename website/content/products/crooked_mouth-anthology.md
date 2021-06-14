@@ -7,8 +7,8 @@ album: "Anthology"
 categories:
     - Tape
 images:
-    - "/images/covers/crooked_mouth-anthology.png"
-thumbnailImage: "/images/covers/crooked_mouth-anthology-thumb.png"
+    - "/images/covers/crooked_mouth-anthology.jpg"
+thumbnailImage: "/images/covers/crooked_mouth-anthology-thumb.jpg"
 actualPrice: $9.00
 inStock: true
 ---

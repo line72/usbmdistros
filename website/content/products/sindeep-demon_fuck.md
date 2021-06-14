@@ -7,8 +7,8 @@ album: "Demon Fuck"
 categories:
     - Tape
 images:
-    - "/images/covers/sindeep-demon_fuck.png"
-thumbnailImage: "/images/covers/sindeep-demon_fuck-thumb.png"
+    - "/images/covers/sindeep-demon_fuck.jpg"
+thumbnailImage: "/images/covers/sindeep-demon_fuck-thumb.jpg"
 actualPrice: $6.50
 inStock: true
 ---

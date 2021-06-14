@@ -7,8 +7,8 @@ album: "The Bleaking"
 categories:
     - Tape
 images:
-    - "/images/covers/haeiresis-the_bleaking.png"
-thumbnailImage: "/images/covers/haeiresis-the_bleaking-thumb.png"
+    - "/images/covers/haeiresis-the_bleaking.jpg"
+thumbnailImage: "/images/covers/haeiresis-the_bleaking-thumb.jpg"
 actualPrice: $4.00
 inStock: true
 ---

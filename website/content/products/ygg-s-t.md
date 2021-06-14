@@ -7,8 +7,8 @@ album: "s/t"
 categories:
     - Vinyl
 images:
-    - "/images/covers/ygg-s-t.png"
-thumbnailImage: "/images/covers/ygg-s-t-thumb.png"
+    - "/images/covers/ygg-s-t.jpg"
+thumbnailImage: "/images/covers/ygg-s-t-thumb.jpg"
 actualPrice: $25.00
 inStock: true
 ---

@@ -7,8 +7,8 @@ album: "Mundana Stercore"
 categories:
     - Vinyl
 images:
-    - "/images/covers/êxul-mundana_stercore.png"
-thumbnailImage: "/images/covers/êxul-mundana_stercore-thumb.png"
+    - "/images/covers/êxul-mundana_stercore.jpg"
+thumbnailImage: "/images/covers/êxul-mundana_stercore-thumb.jpg"
 actualPrice: $28.00
 inStock: true
 ---

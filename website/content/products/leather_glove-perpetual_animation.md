@@ -7,8 +7,8 @@ album: "Perpetual Animation"
 categories:
     - Tape
 images:
-    - "/images/covers/leather_glove-perpetual_animation.png"
-thumbnailImage: "/images/covers/leather_glove-perpetual_animation-thumb.png"
+    - "/images/covers/leather_glove-perpetual_animation.jpg"
+thumbnailImage: "/images/covers/leather_glove-perpetual_animation-thumb.jpg"
 actualPrice: $6.50
 inStock: true
 ---

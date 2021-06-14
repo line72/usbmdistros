@@ -7,8 +7,8 @@ album: "Jorviking / Division : Yorkshire"
 categories:
     - Vinyl
 images:
-    - "/images/covers/white_medal-jorviking_-_division_:_yorkshire.png"
-thumbnailImage: "/images/covers/white_medal-jorviking_-_division_:_yorkshire-thumb.png"
+    - "/images/covers/white_medal-jorviking_-_division_:_yorkshire.jpg"
+thumbnailImage: "/images/covers/white_medal-jorviking_-_division_:_yorkshire-thumb.jpg"
 actualPrice: $24.00
 inStock: true
 ---

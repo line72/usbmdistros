@@ -7,8 +7,8 @@ album: "Simultaneous Pulsations"
 categories:
     - Vinyl
 images:
-    - "/images/covers/blackline-simultaneous_pulsations.png"
-thumbnailImage: "/images/covers/blackline-simultaneous_pulsations-thumb.png"
+    - "/images/covers/blackline-simultaneous_pulsations.jpg"
+thumbnailImage: "/images/covers/blackline-simultaneous_pulsations-thumb.jpg"
 actualPrice: $38.00
 inStock: true
 ---

@@ -7,8 +7,8 @@ album: "Vengeance, Herald of My Despite"
 categories:
     - CD
 images:
-    - "/images/covers/nidernes-vengeance,_herald_of_my_despite.png"
-thumbnailImage: "/images/covers/nidernes-vengeance,_herald_of_my_despite-thumb.png"
+    - "/images/covers/nidernes-vengeance,_herald_of_my_despite.jpg"
+thumbnailImage: "/images/covers/nidernes-vengeance,_herald_of_my_despite-thumb.jpg"
 actualPrice: $12.00
 inStock: true
 ---

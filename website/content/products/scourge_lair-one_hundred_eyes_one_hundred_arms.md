@@ -7,8 +7,8 @@ album: "One Hundred Eyes One Hundred Arms"
 categories:
     - Tape
 images:
-    - "/images/covers/scourge_lair-one_hundred_eyes_one_hundred_arms.png"
-thumbnailImage: "/images/covers/scourge_lair-one_hundred_eyes_one_hundred_arms-thumb.png"
+    - "/images/covers/scourge_lair-one_hundred_eyes_one_hundred_arms.jpg"
+thumbnailImage: "/images/covers/scourge_lair-one_hundred_eyes_one_hundred_arms-thumb.jpg"
 actualPrice: $5.00
 inStock: true
 ---

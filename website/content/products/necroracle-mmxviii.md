@@ -7,8 +7,8 @@ album: "Mmxviii"
 categories:
     - Tape
 images:
-    - "/images/covers/necroracle-mmxviii.png"
-thumbnailImage: "/images/covers/necroracle-mmxviii-thumb.png"
+    - "/images/covers/necroracle-mmxviii.jpg"
+thumbnailImage: "/images/covers/necroracle-mmxviii-thumb.jpg"
 actualPrice: $5.50
 inStock: true
 ---

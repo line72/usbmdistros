@@ -7,8 +7,8 @@ album: "Divination"
 categories:
     - Tape
 images:
-    - "/images/covers/helslave-divination.png"
-thumbnailImage: "/images/covers/helslave-divination-thumb.png"
+    - "/images/covers/helslave-divination.jpg"
+thumbnailImage: "/images/covers/helslave-divination-thumb.jpg"
 actualPrice: $8.00
 inStock: true
 ---

@@ -7,8 +7,8 @@ album: "Anthropozän"
 categories:
     - Vinyl
 images:
-    - "/images/covers/aara-anthropozän.png"
-thumbnailImage: "/images/covers/aara-anthropozän-thumb.png"
+    - "/images/covers/aara-anthropozän.jpg"
+thumbnailImage: "/images/covers/aara-anthropozän-thumb.jpg"
 actualPrice: $13.99 - 14.99
 inStock: true
 ---

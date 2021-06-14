@@ -8,8 +8,8 @@ categories:
     - Vinyl
     - CD
 images:
-    - "/images/covers/arjen-kad_se_slika_iskrivi_dovoljno.png"
-thumbnailImage: "/images/covers/arjen-kad_se_slika_iskrivi_dovoljno-thumb.png"
+    - "/images/covers/arjen-kad_se_slika_iskrivi_dovoljno.jpg"
+thumbnailImage: "/images/covers/arjen-kad_se_slika_iskrivi_dovoljno-thumb.jpg"
 actualPrice: $13.00 - 25.00
 inStock: true
 ---

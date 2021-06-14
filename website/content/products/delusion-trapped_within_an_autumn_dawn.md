@@ -7,8 +7,8 @@ album: "Trapped Within An Autumn Dawn"
 categories:
     - Tape
 images:
-    - "/images/covers/delusion-trapped_within_an_autumn_dawn.png"
-thumbnailImage: "/images/covers/delusion-trapped_within_an_autumn_dawn-thumb.png"
+    - "/images/covers/delusion-trapped_within_an_autumn_dawn.jpg"
+thumbnailImage: "/images/covers/delusion-trapped_within_an_autumn_dawn-thumb.jpg"
 actualPrice: $8.50
 inStock: true
 ---

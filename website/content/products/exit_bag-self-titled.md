@@ -7,8 +7,8 @@ album: "Self-Titled"
 categories:
     - Tape
 images:
-    - "/images/covers/exit_bag-self-titled.png"
-thumbnailImage: "/images/covers/exit_bag-self-titled-thumb.png"
+    - "/images/covers/exit_bag-self-titled.jpg"
+thumbnailImage: "/images/covers/exit_bag-self-titled-thumb.jpg"
 actualPrice: $4.00
 inStock: true
 ---

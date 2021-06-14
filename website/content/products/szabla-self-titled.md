@@ -7,8 +7,8 @@ album: "Self-Titled"
 categories:
     - Tape
 images:
-    - "/images/covers/szabla-self-titled.png"
-thumbnailImage: "/images/covers/szabla-self-titled-thumb.png"
+    - "/images/covers/szabla-self-titled.jpg"
+thumbnailImage: "/images/covers/szabla-self-titled-thumb.jpg"
 actualPrice: $7.00
 inStock: true
 ---

@@ -7,8 +7,8 @@ album: "Nightmare Disturbances"
 categories:
     - Vinyl
 images:
-    - "/images/covers/ride_for_revenge-nightmare_disturbances.png"
-thumbnailImage: "/images/covers/ride_for_revenge-nightmare_disturbances-thumb.png"
+    - "/images/covers/ride_for_revenge-nightmare_disturbances.jpg"
+thumbnailImage: "/images/covers/ride_for_revenge-nightmare_disturbances-thumb.jpg"
 actualPrice: $20.00
 inStock: true
 ---

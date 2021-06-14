@@ -7,8 +7,8 @@ album: "Fúnebre"
 categories:
     - CD
 images:
-    - "/images/covers/morta-fúnebre.png"
-thumbnailImage: "/images/covers/morta-fúnebre-thumb.png"
+    - "/images/covers/morta-fúnebre.jpg"
+thumbnailImage: "/images/covers/morta-fúnebre-thumb.jpg"
 actualPrice: $13.00
 inStock: true
 ---

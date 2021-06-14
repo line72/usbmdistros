@@ -7,8 +7,8 @@ album: "Compilation"
 categories:
     - Tape
 images:
-    - "/images/covers/quaet_gespuys-compilation.png"
-thumbnailImage: "/images/covers/quaet_gespuys-compilation-thumb.png"
+    - "/images/covers/quaet_gespuys-compilation.jpg"
+thumbnailImage: "/images/covers/quaet_gespuys-compilation-thumb.jpg"
 actualPrice: $5.00
 inStock: true
 ---

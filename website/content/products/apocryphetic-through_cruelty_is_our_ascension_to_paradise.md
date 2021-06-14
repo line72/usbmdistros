@@ -7,8 +7,8 @@ album: "Through Cruelty Is Our Ascension To Paradise"
 categories:
     - Tape
 images:
-    - "/images/covers/apocryphetic-through_cruelty_is_our_ascension_to_paradise.png"
-thumbnailImage: "/images/covers/apocryphetic-through_cruelty_is_our_ascension_to_paradise-thumb.png"
+    - "/images/covers/apocryphetic-through_cruelty_is_our_ascension_to_paradise.jpg"
+thumbnailImage: "/images/covers/apocryphetic-through_cruelty_is_our_ascension_to_paradise-thumb.jpg"
 actualPrice: $7.00
 inStock: true
 ---

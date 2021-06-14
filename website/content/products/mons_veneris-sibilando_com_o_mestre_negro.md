@@ -8,8 +8,8 @@ categories:
     - Vinyl
     - Tape
 images:
-    - "/images/covers/mons_veneris-sibilando_com_o_mestre_negro.png"
-thumbnailImage: "/images/covers/mons_veneris-sibilando_com_o_mestre_negro-thumb.png"
+    - "/images/covers/mons_veneris-sibilando_com_o_mestre_negro.jpg"
+thumbnailImage: "/images/covers/mons_veneris-sibilando_com_o_mestre_negro-thumb.jpg"
 actualPrice: $9.00 - 25.00
 inStock: true
 ---

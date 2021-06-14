@@ -7,8 +7,8 @@ album: "Bit To Ewigen Daogen"
 categories:
     - Tape
 images:
-    - "/images/covers/toadeater-bit_to_ewigen_daogen.png"
-thumbnailImage: "/images/covers/toadeater-bit_to_ewigen_daogen-thumb.png"
+    - "/images/covers/toadeater-bit_to_ewigen_daogen.jpg"
+thumbnailImage: "/images/covers/toadeater-bit_to_ewigen_daogen-thumb.jpg"
 actualPrice: $6.50
 inStock: true
 ---

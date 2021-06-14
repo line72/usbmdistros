@@ -7,8 +7,8 @@ album: "Self-Titled"
 categories:
     - Tape
 images:
-    - "/images/covers/massive_obliteration-self-titled.png"
-thumbnailImage: "/images/covers/massive_obliteration-self-titled-thumb.png"
+    - "/images/covers/massive_obliteration-self-titled.jpg"
+thumbnailImage: "/images/covers/massive_obliteration-self-titled-thumb.jpg"
 actualPrice: $5.00
 inStock: true
 ---

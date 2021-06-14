@@ -7,8 +7,8 @@ album: "S/T"
 categories:
     - Tape
 images:
-    - "/images/covers/ubelkeit-s-t.png"
-thumbnailImage: "/images/covers/ubelkeit-s-t-thumb.png"
+    - "/images/covers/ubelkeit-s-t.jpg"
+thumbnailImage: "/images/covers/ubelkeit-s-t-thumb.jpg"
 actualPrice: $6.00
 inStock: true
 ---

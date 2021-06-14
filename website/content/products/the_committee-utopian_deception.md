@@ -7,8 +7,8 @@ album: "Utopian Deception"
 categories:
     - Vinyl
 images:
-    - "/images/covers/the_committee-utopian_deception.png"
-thumbnailImage: "/images/covers/the_committee-utopian_deception-thumb.png"
+    - "/images/covers/the_committee-utopian_deception.jpg"
+thumbnailImage: "/images/covers/the_committee-utopian_deception-thumb.jpg"
 actualPrice: $30.00
 inStock: true
 ---

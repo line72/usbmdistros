@@ -7,8 +7,8 @@ album: "Self-Titled"
 categories:
     - Tape
 images:
-    - "/images/covers/mons_veneris-self-titled.png"
-thumbnailImage: "/images/covers/mons_veneris-self-titled-thumb.png"
+    - "/images/covers/mons_veneris-self-titled.jpg"
+thumbnailImage: "/images/covers/mons_veneris-self-titled-thumb.jpg"
 actualPrice: $8.50
 inStock: true
 ---

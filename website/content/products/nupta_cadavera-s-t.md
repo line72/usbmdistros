@@ -7,8 +7,8 @@ album: "s/t"
 categories:
     - Vinyl
 images:
-    - "/images/covers/nupta_cadavera-s-t.png"
-thumbnailImage: "/images/covers/nupta_cadavera-s-t-thumb.png"
+    - "/images/covers/nupta_cadavera-s-t.jpg"
+thumbnailImage: "/images/covers/nupta_cadavera-s-t-thumb.jpg"
 actualPrice: $8.00
 inStock: true
 ---

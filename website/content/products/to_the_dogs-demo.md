@@ -7,8 +7,8 @@ album: "Demo"
 categories:
     - Tape
 images:
-    - "/images/covers/to_the_dogs-demo.png"
-thumbnailImage: "/images/covers/to_the_dogs-demo-thumb.png"
+    - "/images/covers/to_the_dogs-demo.jpg"
+thumbnailImage: "/images/covers/to_the_dogs-demo-thumb.jpg"
 actualPrice: $7.00
 inStock: true
 ---

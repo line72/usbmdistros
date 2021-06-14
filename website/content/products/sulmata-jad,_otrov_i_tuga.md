@@ -7,8 +7,8 @@ album: "Jad, Otrov I Tuga"
 categories:
     - Tape
 images:
-    - "/images/covers/sulmata-jad,_otrov_i_tuga.png"
-thumbnailImage: "/images/covers/sulmata-jad,_otrov_i_tuga-thumb.png"
+    - "/images/covers/sulmata-jad,_otrov_i_tuga.jpg"
+thumbnailImage: "/images/covers/sulmata-jad,_otrov_i_tuga-thumb.jpg"
 actualPrice: $9.50
 inStock: true
 ---

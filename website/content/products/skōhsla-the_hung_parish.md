@@ -7,8 +7,8 @@ album: "The Hung Parish"
 categories:
     - Tape
 images:
-    - "/images/covers/skōhsla-the_hung_parish.png"
-thumbnailImage: "/images/covers/skōhsla-the_hung_parish-thumb.png"
+    - "/images/covers/skōhsla-the_hung_parish.jpg"
+thumbnailImage: "/images/covers/skōhsla-the_hung_parish-thumb.jpg"
 actualPrice: $6.50
 inStock: true
 ---

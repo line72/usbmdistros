@@ -7,8 +7,8 @@ album: "Abhorrence To The Lambs Of God Iconoclast & Misery"
 categories:
     - Tape
 images:
-    - "/images/covers/austral-abhorrence_to_the_lambs_of_god_iconoclast_&_misery.png"
-thumbnailImage: "/images/covers/austral-abhorrence_to_the_lambs_of_god_iconoclast_&_misery-thumb.png"
+    - "/images/covers/austral-abhorrence_to_the_lambs_of_god_iconoclast_&_misery.jpg"
+thumbnailImage: "/images/covers/austral-abhorrence_to_the_lambs_of_god_iconoclast_&_misery-thumb.jpg"
 actualPrice: $4.00
 inStock: true
 ---

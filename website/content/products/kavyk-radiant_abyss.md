@@ -7,8 +7,8 @@ album: "Radiant Abyss"
 categories:
     - Tape
 images:
-    - "/images/covers/kavyk-radiant_abyss.png"
-thumbnailImage: "/images/covers/kavyk-radiant_abyss-thumb.png"
+    - "/images/covers/kavyk-radiant_abyss.jpg"
+thumbnailImage: "/images/covers/kavyk-radiant_abyss-thumb.jpg"
 actualPrice: $6.50
 inStock: true
 ---

@@ -7,8 +7,8 @@ album: "In The Hand Of The Reaper"
 categories:
     - CD
 images:
-    - "/images/covers/morbid_breath-in_the_hand_of_the_reaper.png"
-thumbnailImage: "/images/covers/morbid_breath-in_the_hand_of_the_reaper-thumb.png"
+    - "/images/covers/morbid_breath-in_the_hand_of_the_reaper.jpg"
+thumbnailImage: "/images/covers/morbid_breath-in_the_hand_of_the_reaper-thumb.jpg"
 actualPrice: $10.00
 inStock: true
 ---

@@ -7,8 +7,8 @@ album: "Ritual da Morte MMXVIII"
 categories:
     - Vinyl
 images:
-    - "/images/covers/tormentü-ritual_da_morte_mmxviii.png"
-thumbnailImage: "/images/covers/tormentü-ritual_da_morte_mmxviii-thumb.png"
+    - "/images/covers/tormentü-ritual_da_morte_mmxviii.jpg"
+thumbnailImage: "/images/covers/tormentü-ritual_da_morte_mmxviii-thumb.jpg"
 actualPrice: $10.00
 inStock: true
 ---

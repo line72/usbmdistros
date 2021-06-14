@@ -7,8 +7,8 @@ album: "Demo Ii"
 categories:
     - Tape
 images:
-    - "/images/covers/cvltist-demo_ii.png"
-thumbnailImage: "/images/covers/cvltist-demo_ii-thumb.png"
+    - "/images/covers/cvltist-demo_ii.jpg"
+thumbnailImage: "/images/covers/cvltist-demo_ii-thumb.jpg"
 actualPrice: $4.00
 inStock: true
 ---

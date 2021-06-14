@@ -7,8 +7,8 @@ album: "s/t"
 categories:
     - Vinyl
 images:
-    - "/images/covers/raksu-s-t.png"
-thumbnailImage: "/images/covers/raksu-s-t-thumb.png"
+    - "/images/covers/raksu-s-t.jpg"
+thumbnailImage: "/images/covers/raksu-s-t-thumb.jpg"
 actualPrice: $20.00
 inStock: true
 ---

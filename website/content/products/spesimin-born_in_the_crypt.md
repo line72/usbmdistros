@@ -7,8 +7,8 @@ album: "Born In The Crypt"
 categories:
     - Tape
 images:
-    - "/images/covers/spesimin-born_in_the_crypt.png"
-thumbnailImage: "/images/covers/spesimin-born_in_the_crypt-thumb.png"
+    - "/images/covers/spesimin-born_in_the_crypt.jpg"
+thumbnailImage: "/images/covers/spesimin-born_in_the_crypt-thumb.jpg"
 actualPrice: $7.00
 inStock: true
 ---

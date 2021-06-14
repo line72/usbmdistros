@@ -7,8 +7,8 @@ album: "The Repository Of Stolen Fire"
 categories:
     - Tape
 images:
-    - "/images/covers/akefal-the_repository_of_stolen_fire.png"
-thumbnailImage: "/images/covers/akefal-the_repository_of_stolen_fire-thumb.png"
+    - "/images/covers/akefal-the_repository_of_stolen_fire.jpg"
+thumbnailImage: "/images/covers/akefal-the_repository_of_stolen_fire-thumb.jpg"
 actualPrice: $7.00
 inStock: true
 ---

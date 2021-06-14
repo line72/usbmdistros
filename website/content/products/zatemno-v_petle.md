@@ -7,8 +7,8 @@ album: "V Petle"
 categories:
     - Tape
 images:
-    - "/images/covers/zatemno-v_petle.png"
-thumbnailImage: "/images/covers/zatemno-v_petle-thumb.png"
+    - "/images/covers/zatemno-v_petle.jpg"
+thumbnailImage: "/images/covers/zatemno-v_petle-thumb.jpg"
 actualPrice: $4.00
 inStock: true
 ---

@@ -7,8 +7,8 @@ album: "Split"
 categories:
     - Tape
 images:
-    - "/images/covers/death_vanish_-_misanthropos-split.png"
-thumbnailImage: "/images/covers/death_vanish_-_misanthropos-split-thumb.png"
+    - "/images/covers/death_vanish_-_misanthropos-split.jpg"
+thumbnailImage: "/images/covers/death_vanish_-_misanthropos-split-thumb.jpg"
 actualPrice: $5.00
 inStock: true
 ---

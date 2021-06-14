@@ -7,8 +7,8 @@ album: "Malevolent Mask"
 categories:
     - Tape
 images:
-    - "/images/covers/primordial_harvest-malevolent_mask.png"
-thumbnailImage: "/images/covers/primordial_harvest-malevolent_mask-thumb.png"
+    - "/images/covers/primordial_harvest-malevolent_mask.jpg"
+thumbnailImage: "/images/covers/primordial_harvest-malevolent_mask-thumb.jpg"
 actualPrice: $7.00
 inStock: true
 ---

@@ -7,8 +7,8 @@ album: "Christophilia"
 categories:
     - Tape
 images:
-    - "/images/covers/nighnacht-christophilia.png"
-thumbnailImage: "/images/covers/nighnacht-christophilia-thumb.png"
+    - "/images/covers/nighnacht-christophilia.jpg"
+thumbnailImage: "/images/covers/nighnacht-christophilia-thumb.jpg"
 actualPrice: $6.00
 inStock: true
 ---

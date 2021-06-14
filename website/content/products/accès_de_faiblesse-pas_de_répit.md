@@ -7,8 +7,8 @@ album: "Pas De Répit"
 categories:
     - Tape
 images:
-    - "/images/covers/accès_de_faiblesse-pas_de_répit.png"
-thumbnailImage: "/images/covers/accès_de_faiblesse-pas_de_répit-thumb.png"
+    - "/images/covers/accès_de_faiblesse-pas_de_répit.jpg"
+thumbnailImage: "/images/covers/accès_de_faiblesse-pas_de_répit-thumb.jpg"
 actualPrice: $5.00
 inStock: true
 ---

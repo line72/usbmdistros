@@ -7,8 +7,8 @@ album: "Demo 1"
 categories:
     - Tape
 images:
-    - "/images/covers/cataclysmic_events-demo_1.png"
-thumbnailImage: "/images/covers/cataclysmic_events-demo_1-thumb.png"
+    - "/images/covers/cataclysmic_events-demo_1.jpg"
+thumbnailImage: "/images/covers/cataclysmic_events-demo_1-thumb.jpg"
 actualPrice: $4.00
 inStock: true
 ---

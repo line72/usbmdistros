@@ -7,8 +7,8 @@ album: "Spawned From The Mortuarty"
 categories:
     - Tape
 images:
-    - "/images/covers/mortuary_spawn-spawned_from_the_mortuarty.png"
-thumbnailImage: "/images/covers/mortuary_spawn-spawned_from_the_mortuarty-thumb.png"
+    - "/images/covers/mortuary_spawn-spawned_from_the_mortuarty.jpg"
+thumbnailImage: "/images/covers/mortuary_spawn-spawned_from_the_mortuarty-thumb.jpg"
 actualPrice: $8.50
 inStock: true
 ---

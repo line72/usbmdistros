@@ -7,8 +7,8 @@ album: "Paúrpura Fræovíbôkôs"
 categories:
     - CD
 images:
-    - "/images/covers/wulkanaz-paúrpura_fræovíbôkôs.png"
-thumbnailImage: "/images/covers/wulkanaz-paúrpura_fræovíbôkôs-thumb.png"
+    - "/images/covers/wulkanaz-paúrpura_fræovíbôkôs.jpg"
+thumbnailImage: "/images/covers/wulkanaz-paúrpura_fræovíbôkôs-thumb.jpg"
 actualPrice: $13.00
 inStock: true
 ---

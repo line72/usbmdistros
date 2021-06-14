@@ -7,8 +7,8 @@ album: "Black Lake Ep"
 categories:
     - Tape
 images:
-    - "/images/covers/zoomonk-black_lake_ep.png"
-thumbnailImage: "/images/covers/zoomonk-black_lake_ep-thumb.png"
+    - "/images/covers/zoomonk-black_lake_ep.jpg"
+thumbnailImage: "/images/covers/zoomonk-black_lake_ep-thumb.jpg"
 actualPrice: $3.00
 inStock: true
 ---

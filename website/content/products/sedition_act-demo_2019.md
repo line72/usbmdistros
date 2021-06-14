@@ -7,8 +7,8 @@ album: "Demo 2019"
 categories:
     - Tape
 images:
-    - "/images/covers/sedition_act-demo_2019.png"
-thumbnailImage: "/images/covers/sedition_act-demo_2019-thumb.png"
+    - "/images/covers/sedition_act-demo_2019.jpg"
+thumbnailImage: "/images/covers/sedition_act-demo_2019-thumb.jpg"
 actualPrice: $4.00
 inStock: true
 ---

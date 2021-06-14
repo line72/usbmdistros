@@ -7,8 +7,8 @@ album: "Besmirch"
 categories:
     - Tape
 images:
-    - "/images/covers/offset-besmirch.png"
-thumbnailImage: "/images/covers/offset-besmirch-thumb.png"
+    - "/images/covers/offset-besmirch.jpg"
+thumbnailImage: "/images/covers/offset-besmirch-thumb.jpg"
 actualPrice: $5.00
 inStock: true
 ---

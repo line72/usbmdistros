@@ -7,8 +7,8 @@ album: "Dearly Departed"
 categories:
     - Tape
 images:
-    - "/images/covers/vigils-dearly_departed.png"
-thumbnailImage: "/images/covers/vigils-dearly_departed-thumb.png"
+    - "/images/covers/vigils-dearly_departed.jpg"
+thumbnailImage: "/images/covers/vigils-dearly_departed-thumb.jpg"
 actualPrice: $4.00
 inStock: true
 ---

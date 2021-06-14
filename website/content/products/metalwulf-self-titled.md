@@ -7,8 +7,8 @@ album: "Self-Titled"
 categories:
     - Tape
 images:
-    - "/images/covers/metalwulf-self-titled.png"
-thumbnailImage: "/images/covers/metalwulf-self-titled-thumb.png"
+    - "/images/covers/metalwulf-self-titled.jpg"
+thumbnailImage: "/images/covers/metalwulf-self-titled-thumb.jpg"
 actualPrice: $6.00
 inStock: true
 ---

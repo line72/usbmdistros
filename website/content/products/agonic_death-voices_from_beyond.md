@@ -7,8 +7,8 @@ album: "Voices From Beyond"
 categories:
     - Tape
 images:
-    - "/images/covers/agonic_death-voices_from_beyond.png"
-thumbnailImage: "/images/covers/agonic_death-voices_from_beyond-thumb.png"
+    - "/images/covers/agonic_death-voices_from_beyond.jpg"
+thumbnailImage: "/images/covers/agonic_death-voices_from_beyond-thumb.jpg"
 actualPrice: $4.50
 inStock: true
 ---

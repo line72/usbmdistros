@@ -7,8 +7,8 @@ album: "The Awakening Of Evil"
 categories:
     - Tape
 images:
-    - "/images/covers/elegos-the_awakening_of_evil.png"
-thumbnailImage: "/images/covers/elegos-the_awakening_of_evil-thumb.png"
+    - "/images/covers/elegos-the_awakening_of_evil.jpg"
+thumbnailImage: "/images/covers/elegos-the_awakening_of_evil-thumb.jpg"
 actualPrice: $7.50
 inStock: true
 ---

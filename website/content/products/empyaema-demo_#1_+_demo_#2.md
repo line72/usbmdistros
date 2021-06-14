@@ -7,8 +7,8 @@ album: "Demo #1 + Demo #2"
 categories:
     - Tape
 images:
-    - "/images/covers/empyaema-demo_#1_+_demo_#2.png"
-thumbnailImage: "/images/covers/empyaema-demo_#1_+_demo_#2-thumb.png"
+    - "/images/covers/empyaema-demo_#1_+_demo_#2.jpg"
+thumbnailImage: "/images/covers/empyaema-demo_#1_+_demo_#2-thumb.jpg"
 actualPrice: $6.00
 inStock: true
 ---

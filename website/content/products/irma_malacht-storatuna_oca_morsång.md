@@ -7,8 +7,8 @@ album: "Storatuna Oca Morsång"
 categories:
     - Tape
 images:
-    - "/images/covers/irma_malacht-storatuna_oca_morsång.png"
-thumbnailImage: "/images/covers/irma_malacht-storatuna_oca_morsång-thumb.png"
+    - "/images/covers/irma_malacht-storatuna_oca_morsång.jpg"
+thumbnailImage: "/images/covers/irma_malacht-storatuna_oca_morsång-thumb.jpg"
 actualPrice: $6.00
 inStock: true
 ---

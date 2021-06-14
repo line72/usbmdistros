@@ -7,8 +7,8 @@ album: "Self-Titled"
 categories:
     - Tape
 images:
-    - "/images/covers/waffenträger_luzifers-self-titled.png"
-thumbnailImage: "/images/covers/waffenträger_luzifers-self-titled-thumb.png"
+    - "/images/covers/waffenträger_luzifers-self-titled.jpg"
+thumbnailImage: "/images/covers/waffenträger_luzifers-self-titled-thumb.jpg"
 actualPrice: $3.00
 inStock: true
 ---

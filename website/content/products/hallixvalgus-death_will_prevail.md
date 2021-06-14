@@ -7,8 +7,8 @@ album: "Death Will Prevail"
 categories:
     - Tape
 images:
-    - "/images/covers/hallixvalgus-death_will_prevail.png"
-thumbnailImage: "/images/covers/hallixvalgus-death_will_prevail-thumb.png"
+    - "/images/covers/hallixvalgus-death_will_prevail.jpg"
+thumbnailImage: "/images/covers/hallixvalgus-death_will_prevail-thumb.jpg"
 actualPrice: $6.00
 inStock: true
 ---

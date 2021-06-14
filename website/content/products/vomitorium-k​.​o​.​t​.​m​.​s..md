@@ -7,8 +7,8 @@ album: "K​.​O​.​T​.​M​.​S."
 categories:
     - Tape
 images:
-    - "/images/covers/vomitorium-k​.​o​.​t​.​m​.​s..png"
-thumbnailImage: "/images/covers/vomitorium-k​.​o​.​t​.​m​.​s.-thumb.png"
+    - "/images/covers/vomitorium-k​.​o​.​t​.​m​.​s..jpg"
+thumbnailImage: "/images/covers/vomitorium-k​.​o​.​t​.​m​.​s.-thumb.jpg"
 actualPrice: $8.00
 inStock: true
 ---

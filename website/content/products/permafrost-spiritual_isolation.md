@@ -7,8 +7,8 @@ album: "Spiritual Isolation"
 categories:
     - Vinyl
 images:
-    - "/images/covers/permafrost-spiritual_isolation.png"
-thumbnailImage: "/images/covers/permafrost-spiritual_isolation-thumb.png"
+    - "/images/covers/permafrost-spiritual_isolation.jpg"
+thumbnailImage: "/images/covers/permafrost-spiritual_isolation-thumb.jpg"
 actualPrice: $18.00
 inStock: true
 ---

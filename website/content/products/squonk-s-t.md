@@ -7,8 +7,8 @@ album: "S/T"
 categories:
     - Tape
 images:
-    - "/images/covers/squonk-s-t.png"
-thumbnailImage: "/images/covers/squonk-s-t-thumb.png"
+    - "/images/covers/squonk-s-t.jpg"
+thumbnailImage: "/images/covers/squonk-s-t-thumb.jpg"
 actualPrice: $7.00
 inStock: true
 ---

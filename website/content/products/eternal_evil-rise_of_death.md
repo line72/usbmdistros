@@ -7,8 +7,8 @@ album: "Rise Of Death"
 categories:
     - Tape
 images:
-    - "/images/covers/eternal_evil-rise_of_death.png"
-thumbnailImage: "/images/covers/eternal_evil-rise_of_death-thumb.png"
+    - "/images/covers/eternal_evil-rise_of_death.jpg"
+thumbnailImage: "/images/covers/eternal_evil-rise_of_death-thumb.jpg"
 actualPrice: $8.00
 inStock: true
 ---

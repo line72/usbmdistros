@@ -7,8 +7,8 @@ album: "Souls Of Charon"
 categories:
     - Tape
 images:
-    - "/images/covers/relentless-souls_of_charon.png"
-thumbnailImage: "/images/covers/relentless-souls_of_charon-thumb.png"
+    - "/images/covers/relentless-souls_of_charon.jpg"
+thumbnailImage: "/images/covers/relentless-souls_of_charon-thumb.jpg"
 actualPrice: $4.00
 inStock: true
 ---

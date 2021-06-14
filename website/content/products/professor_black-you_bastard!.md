@@ -7,8 +7,8 @@ album: "You Bastard!"
 categories:
     - Tape
 images:
-    - "/images/covers/professor_black-you_bastard!.png"
-thumbnailImage: "/images/covers/professor_black-you_bastard!-thumb.png"
+    - "/images/covers/professor_black-you_bastard!.jpg"
+thumbnailImage: "/images/covers/professor_black-you_bastard!-thumb.jpg"
 actualPrice: $6.00
 inStock: true
 ---

@@ -7,8 +7,8 @@ album: "Prologue"
 categories:
     - Tape
 images:
-    - "/images/covers/naillung-prologue.png"
-thumbnailImage: "/images/covers/naillung-prologue-thumb.png"
+    - "/images/covers/naillung-prologue.jpg"
+thumbnailImage: "/images/covers/naillung-prologue-thumb.jpg"
 actualPrice: $8.00
 inStock: true
 ---

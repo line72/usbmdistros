@@ -7,8 +7,8 @@ album: "Burning Dawn of Vengeance"
 categories:
     - CD
 images:
-    - "/images/covers/valac-burning_dawn_of_vengeance.png"
-thumbnailImage: "/images/covers/valac-burning_dawn_of_vengeance-thumb.png"
+    - "/images/covers/valac-burning_dawn_of_vengeance.jpg"
+thumbnailImage: "/images/covers/valac-burning_dawn_of_vengeance-thumb.jpg"
 actualPrice: $15.00
 inStock: true
 ---

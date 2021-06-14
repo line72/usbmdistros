@@ -7,8 +7,8 @@ album: "Hell Torment"
 categories:
     - Tape
 images:
-    - "/images/covers/necroabbot-hell_torment.png"
-thumbnailImage: "/images/covers/necroabbot-hell_torment-thumb.png"
+    - "/images/covers/necroabbot-hell_torment.jpg"
+thumbnailImage: "/images/covers/necroabbot-hell_torment-thumb.jpg"
 actualPrice: $6.00
 inStock: true
 ---

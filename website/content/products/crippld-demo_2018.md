@@ -7,8 +7,8 @@ album: "Demo 2018"
 categories:
     - Tape
 images:
-    - "/images/covers/crippld-demo_2018.png"
-thumbnailImage: "/images/covers/crippld-demo_2018-thumb.png"
+    - "/images/covers/crippld-demo_2018.jpg"
+thumbnailImage: "/images/covers/crippld-demo_2018-thumb.jpg"
 actualPrice: $3.50
 inStock: true
 ---

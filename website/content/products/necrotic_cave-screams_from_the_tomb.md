@@ -7,8 +7,8 @@ album: "Screams From The Tomb"
 categories:
     - Tape
 images:
-    - "/images/covers/necrotic_cave-screams_from_the_tomb.png"
-thumbnailImage: "/images/covers/necrotic_cave-screams_from_the_tomb-thumb.png"
+    - "/images/covers/necrotic_cave-screams_from_the_tomb.jpg"
+thumbnailImage: "/images/covers/necrotic_cave-screams_from_the_tomb-thumb.jpg"
 actualPrice: $8.50
 inStock: true
 ---

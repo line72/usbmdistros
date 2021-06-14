@@ -7,8 +7,8 @@ album: "Bad News, Bad Habits"
 categories:
     - Tape
 images:
-    - "/images/covers/soot-bad_news,_bad_habits.png"
-thumbnailImage: "/images/covers/soot-bad_news,_bad_habits-thumb.png"
+    - "/images/covers/soot-bad_news,_bad_habits.jpg"
+thumbnailImage: "/images/covers/soot-bad_news,_bad_habits-thumb.jpg"
 actualPrice: $5.50
 inStock: true
 ---

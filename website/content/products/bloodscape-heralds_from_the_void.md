@@ -7,8 +7,8 @@ album: "Heralds From The Void"
 categories:
     - Tape
 images:
-    - "/images/covers/bloodscape-heralds_from_the_void.png"
-thumbnailImage: "/images/covers/bloodscape-heralds_from_the_void-thumb.png"
+    - "/images/covers/bloodscape-heralds_from_the_void.jpg"
+thumbnailImage: "/images/covers/bloodscape-heralds_from_the_void-thumb.jpg"
 actualPrice: $4.00
 inStock: true
 ---

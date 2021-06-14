@@ -7,8 +7,8 @@ album: "Temazcal Perverso"
 categories:
     - Tape
 images:
-    - "/images/covers/musgo-temazcal_perverso.png"
-thumbnailImage: "/images/covers/musgo-temazcal_perverso-thumb.png"
+    - "/images/covers/musgo-temazcal_perverso.jpg"
+thumbnailImage: "/images/covers/musgo-temazcal_perverso-thumb.jpg"
 actualPrice: $7.50
 inStock: true
 ---

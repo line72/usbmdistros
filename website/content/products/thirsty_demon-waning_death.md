@@ -7,8 +7,8 @@ album: "Waning Death"
 categories:
     - Tape
 images:
-    - "/images/covers/thirsty_demon-waning_death.png"
-thumbnailImage: "/images/covers/thirsty_demon-waning_death-thumb.png"
+    - "/images/covers/thirsty_demon-waning_death.jpg"
+thumbnailImage: "/images/covers/thirsty_demon-waning_death-thumb.jpg"
 actualPrice: $8.50
 inStock: true
 ---

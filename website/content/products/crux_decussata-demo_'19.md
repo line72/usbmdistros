@@ -7,8 +7,8 @@ album: "Demo '19"
 categories:
     - Tape
 images:
-    - "/images/covers/crux_decussata-demo_'19.png"
-thumbnailImage: "/images/covers/crux_decussata-demo_'19-thumb.png"
+    - "/images/covers/crux_decussata-demo_'19.jpg"
+thumbnailImage: "/images/covers/crux_decussata-demo_'19-thumb.jpg"
 actualPrice: $4.00
 inStock: true
 ---

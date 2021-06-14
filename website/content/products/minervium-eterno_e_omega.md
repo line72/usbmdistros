@@ -7,8 +7,8 @@ album: "Eterno E Omega"
 categories:
     - Tape
 images:
-    - "/images/covers/minervium-eterno_e_omega.png"
-thumbnailImage: "/images/covers/minervium-eterno_e_omega-thumb.png"
+    - "/images/covers/minervium-eterno_e_omega.jpg"
+thumbnailImage: "/images/covers/minervium-eterno_e_omega-thumb.jpg"
 actualPrice: $3.00
 inStock: true
 ---

@@ -7,8 +7,8 @@ album: "Necrotic Symbiosis (Split)"
 categories:
     - Tape
 images:
-    - "/images/covers/podridao_-_sepulchral_whore-necrotic_symbiosis_(split).png"
-thumbnailImage: "/images/covers/podridao_-_sepulchral_whore-necrotic_symbiosis_(split)-thumb.png"
+    - "/images/covers/podridao_-_sepulchral_whore-necrotic_symbiosis_(split).jpg"
+thumbnailImage: "/images/covers/podridao_-_sepulchral_whore-necrotic_symbiosis_(split)-thumb.jpg"
 actualPrice: $4.00
 inStock: true
 ---

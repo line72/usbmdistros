@@ -8,8 +8,8 @@ categories:
     - Vinyl
     - CD
 images:
-    - "/images/covers/svartrit-ii.png"
-thumbnailImage: "/images/covers/svartrit-ii-thumb.png"
+    - "/images/covers/svartrit-ii.jpg"
+thumbnailImage: "/images/covers/svartrit-ii-thumb.jpg"
 actualPrice: $14.00 - 30.00
 inStock: true
 ---

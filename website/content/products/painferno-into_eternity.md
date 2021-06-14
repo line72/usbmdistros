@@ -7,8 +7,8 @@ album: "Into Eternity"
 categories:
     - Tape
 images:
-    - "/images/covers/painferno-into_eternity.png"
-thumbnailImage: "/images/covers/painferno-into_eternity-thumb.png"
+    - "/images/covers/painferno-into_eternity.jpg"
+thumbnailImage: "/images/covers/painferno-into_eternity-thumb.jpg"
 actualPrice: $4.00
 inStock: true
 ---

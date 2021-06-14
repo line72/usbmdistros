@@ -7,8 +7,8 @@ album: "Lenitive Seizure"
 categories:
     - Tape
 images:
-    - "/images/covers/s!ck-lenitive_seizure.png"
-thumbnailImage: "/images/covers/s!ck-lenitive_seizure-thumb.png"
+    - "/images/covers/s!ck-lenitive_seizure.jpg"
+thumbnailImage: "/images/covers/s!ck-lenitive_seizure-thumb.jpg"
 actualPrice: $7.00
 inStock: true
 ---

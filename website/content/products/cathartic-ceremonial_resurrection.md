@@ -7,8 +7,8 @@ album: "Ceremonial Resurrection"
 categories:
     - Tape
 images:
-    - "/images/covers/cathartic-ceremonial_resurrection.png"
-thumbnailImage: "/images/covers/cathartic-ceremonial_resurrection-thumb.png"
+    - "/images/covers/cathartic-ceremonial_resurrection.jpg"
+thumbnailImage: "/images/covers/cathartic-ceremonial_resurrection-thumb.jpg"
 actualPrice: $7.50
 inStock: true
 ---

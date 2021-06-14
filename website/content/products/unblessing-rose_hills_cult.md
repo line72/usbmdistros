@@ -7,8 +7,8 @@ album: "Rose Hills Cult"
 categories:
     - Tape
 images:
-    - "/images/covers/unblessing-rose_hills_cult.png"
-thumbnailImage: "/images/covers/unblessing-rose_hills_cult-thumb.png"
+    - "/images/covers/unblessing-rose_hills_cult.jpg"
+thumbnailImage: "/images/covers/unblessing-rose_hills_cult-thumb.jpg"
 actualPrice: $7.50
 inStock: true
 ---

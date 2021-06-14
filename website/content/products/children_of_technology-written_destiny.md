@@ -7,8 +7,8 @@ album: "Written Destiny"
 categories:
     - Tape
 images:
-    - "/images/covers/children_of_technology-written_destiny.png"
-thumbnailImage: "/images/covers/children_of_technology-written_destiny-thumb.png"
+    - "/images/covers/children_of_technology-written_destiny.jpg"
+thumbnailImage: "/images/covers/children_of_technology-written_destiny-thumb.jpg"
 actualPrice: $7.00
 inStock: true
 ---

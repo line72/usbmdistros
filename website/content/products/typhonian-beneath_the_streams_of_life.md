@@ -7,8 +7,8 @@ album: "Beneath The Streams Of Life"
 categories:
     - Tape
 images:
-    - "/images/covers/typhonian-beneath_the_streams_of_life.png"
-thumbnailImage: "/images/covers/typhonian-beneath_the_streams_of_life-thumb.png"
+    - "/images/covers/typhonian-beneath_the_streams_of_life.jpg"
+thumbnailImage: "/images/covers/typhonian-beneath_the_streams_of_life-thumb.jpg"
 actualPrice: $7.50
 inStock: true
 ---

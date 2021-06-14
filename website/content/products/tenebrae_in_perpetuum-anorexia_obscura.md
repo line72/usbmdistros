@@ -8,8 +8,8 @@ categories:
     - Vinyl
     - CD
 images:
-    - "/images/covers/tenebrae_in_perpetuum-anorexia_obscura.png"
-thumbnailImage: "/images/covers/tenebrae_in_perpetuum-anorexia_obscura-thumb.png"
+    - "/images/covers/tenebrae_in_perpetuum-anorexia_obscura.jpg"
+thumbnailImage: "/images/covers/tenebrae_in_perpetuum-anorexia_obscura-thumb.jpg"
 actualPrice: $10.99 - 39.99
 inStock: true
 ---

@@ -7,8 +7,8 @@ album: "Self-Titled"
 categories:
     - Tape
 images:
-    - "/images/covers/trepanation-self-titled.png"
-thumbnailImage: "/images/covers/trepanation-self-titled-thumb.png"
+    - "/images/covers/trepanation-self-titled.jpg"
+thumbnailImage: "/images/covers/trepanation-self-titled-thumb.jpg"
 actualPrice: $8.50
 inStock: true
 ---

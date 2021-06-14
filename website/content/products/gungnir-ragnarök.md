@@ -7,8 +7,8 @@ album: "Ragnarök"
 categories:
     - Tape
 images:
-    - "/images/covers/gungnir-ragnarök.png"
-thumbnailImage: "/images/covers/gungnir-ragnarök-thumb.png"
+    - "/images/covers/gungnir-ragnarök.jpg"
+thumbnailImage: "/images/covers/gungnir-ragnarök-thumb.jpg"
 actualPrice: $4.00
 inStock: true
 ---

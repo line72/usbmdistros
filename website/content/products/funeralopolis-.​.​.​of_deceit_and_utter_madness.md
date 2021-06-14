@@ -7,8 +7,8 @@ album: ".​.​.​Of Deceit And Utter Madness"
 categories:
     - CD
 images:
-    - "/images/covers/funeralopolis-.​.​.​of_deceit_and_utter_madness.png"
-thumbnailImage: "/images/covers/funeralopolis-.​.​.​of_deceit_and_utter_madness-thumb.png"
+    - "/images/covers/funeralopolis-.​.​.​of_deceit_and_utter_madness.jpg"
+thumbnailImage: "/images/covers/funeralopolis-.​.​.​of_deceit_and_utter_madness-thumb.jpg"
 actualPrice: $11.00
 inStock: true
 ---

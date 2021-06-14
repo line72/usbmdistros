@@ -7,8 +7,8 @@ album: "...Of Death / ...Of Prevailing Chaos"
 categories:
     - CD
 images:
-    - "/images/covers/funeralopolis-...of_death_-_...of_prevailing_chaos.png"
-thumbnailImage: "/images/covers/funeralopolis-...of_death_-_...of_prevailing_chaos-thumb.png"
+    - "/images/covers/funeralopolis-...of_death_-_...of_prevailing_chaos.jpg"
+thumbnailImage: "/images/covers/funeralopolis-...of_death_-_...of_prevailing_chaos-thumb.jpg"
 actualPrice: $11.00
 inStock: true
 ---

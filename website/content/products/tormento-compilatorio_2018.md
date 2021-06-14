@@ -7,8 +7,8 @@ album: "Compilatorio 2018"
 categories:
     - Tape
 images:
-    - "/images/covers/tormento-compilatorio_2018.png"
-thumbnailImage: "/images/covers/tormento-compilatorio_2018-thumb.png"
+    - "/images/covers/tormento-compilatorio_2018.jpg"
+thumbnailImage: "/images/covers/tormento-compilatorio_2018-thumb.jpg"
 actualPrice: $5.00
 inStock: true
 ---

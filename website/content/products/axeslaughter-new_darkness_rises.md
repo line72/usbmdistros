@@ -7,8 +7,8 @@ album: "New Darkness Rises"
 categories:
     - Tape
 images:
-    - "/images/covers/axeslaughter-new_darkness_rises.png"
-thumbnailImage: "/images/covers/axeslaughter-new_darkness_rises-thumb.png"
+    - "/images/covers/axeslaughter-new_darkness_rises.jpg"
+thumbnailImage: "/images/covers/axeslaughter-new_darkness_rises-thumb.jpg"
 actualPrice: $6.50
 inStock: true
 ---

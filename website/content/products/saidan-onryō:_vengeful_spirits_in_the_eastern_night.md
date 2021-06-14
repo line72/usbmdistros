@@ -7,8 +7,8 @@ album: "Onryō: Vengeful Spirits In The Eastern Night"
 categories:
     - Tape
 images:
-    - "/images/covers/saidan-onryō:_vengeful_spirits_in_the_eastern_night.png"
-thumbnailImage: "/images/covers/saidan-onryō:_vengeful_spirits_in_the_eastern_night-thumb.png"
+    - "/images/covers/saidan-onryō:_vengeful_spirits_in_the_eastern_night.jpg"
+thumbnailImage: "/images/covers/saidan-onryō:_vengeful_spirits_in_the_eastern_night-thumb.jpg"
 actualPrice: $11.00
 inStock: true
 ---

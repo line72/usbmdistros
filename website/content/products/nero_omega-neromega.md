@@ -7,8 +7,8 @@ album: "Neromega"
 categories:
     - Tape
 images:
-    - "/images/covers/nero_omega-neromega.png"
-thumbnailImage: "/images/covers/nero_omega-neromega-thumb.png"
+    - "/images/covers/nero_omega-neromega.jpg"
+thumbnailImage: "/images/covers/nero_omega-neromega-thumb.jpg"
 actualPrice: $8.00
 inStock: true
 ---

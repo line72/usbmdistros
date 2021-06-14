@@ -7,8 +7,8 @@ album: "Lunar Ep"
 categories:
     - Tape
 images:
-    - "/images/covers/piotr_csak-lunar_ep.png"
-thumbnailImage: "/images/covers/piotr_csak-lunar_ep-thumb.png"
+    - "/images/covers/piotr_csak-lunar_ep.jpg"
+thumbnailImage: "/images/covers/piotr_csak-lunar_ep-thumb.jpg"
 actualPrice: $8.50
 inStock: true
 ---

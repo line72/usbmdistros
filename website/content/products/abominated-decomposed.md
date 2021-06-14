@@ -7,8 +7,8 @@ album: "Decomposed"
 categories:
     - Tape
 images:
-    - "/images/covers/abominated-decomposed.png"
-thumbnailImage: "/images/covers/abominated-decomposed-thumb.png"
+    - "/images/covers/abominated-decomposed.jpg"
+thumbnailImage: "/images/covers/abominated-decomposed-thumb.jpg"
 actualPrice: $8.00
 inStock: true
 ---

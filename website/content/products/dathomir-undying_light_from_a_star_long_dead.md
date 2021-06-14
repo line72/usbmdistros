@@ -7,8 +7,8 @@ album: "Undying Light from a Star Long Dead"
 categories:
     - Vinyl
 images:
-    - "/images/covers/dathomir-undying_light_from_a_star_long_dead.png"
-thumbnailImage: "/images/covers/dathomir-undying_light_from_a_star_long_dead-thumb.png"
+    - "/images/covers/dathomir-undying_light_from_a_star_long_dead.jpg"
+thumbnailImage: "/images/covers/dathomir-undying_light_from_a_star_long_dead-thumb.jpg"
 actualPrice: $28.00
 inStock: true
 ---

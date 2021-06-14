@@ -7,8 +7,8 @@ album: "Procès De Sorcellerie"
 categories:
     - Tape
 images:
-    - "/images/covers/profundae_libidines-procès_de_sorcellerie.png"
-thumbnailImage: "/images/covers/profundae_libidines-procès_de_sorcellerie-thumb.png"
+    - "/images/covers/profundae_libidines-procès_de_sorcellerie.jpg"
+thumbnailImage: "/images/covers/profundae_libidines-procès_de_sorcellerie-thumb.jpg"
 actualPrice: $3.00
 inStock: true
 ---

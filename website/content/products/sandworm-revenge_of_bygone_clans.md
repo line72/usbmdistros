@@ -7,8 +7,8 @@ album: "Revenge of Bygone Clans"
 categories:
     - Vinyl
 images:
-    - "/images/covers/sandworm-revenge_of_bygone_clans.png"
-thumbnailImage: "/images/covers/sandworm-revenge_of_bygone_clans-thumb.png"
+    - "/images/covers/sandworm-revenge_of_bygone_clans.jpg"
+thumbnailImage: "/images/covers/sandworm-revenge_of_bygone_clans-thumb.jpg"
 actualPrice: $25.00
 inStock: true
 ---

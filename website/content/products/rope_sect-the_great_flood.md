@@ -7,8 +7,8 @@ album: "The Great Flood"
 categories:
     - CD
 images:
-    - "/images/covers/rope_sect-the_great_flood.png"
-thumbnailImage: "/images/covers/rope_sect-the_great_flood-thumb.png"
+    - "/images/covers/rope_sect-the_great_flood.jpg"
+thumbnailImage: "/images/covers/rope_sect-the_great_flood-thumb.jpg"
 actualPrice: $9.50
 inStock: true
 ---

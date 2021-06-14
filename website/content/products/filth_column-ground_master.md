@@ -7,8 +7,8 @@ album: "Ground Master"
 categories:
     - Tape
 images:
-    - "/images/covers/filth_column-ground_master.png"
-thumbnailImage: "/images/covers/filth_column-ground_master-thumb.png"
+    - "/images/covers/filth_column-ground_master.jpg"
+thumbnailImage: "/images/covers/filth_column-ground_master-thumb.jpg"
 actualPrice: $6.00
 inStock: true
 ---

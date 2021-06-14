@@ -7,8 +7,8 @@ album: "Various Artists - Cr015"
 categories:
     - Tape
 images:
-    - "/images/covers/chicago_research-various_artists_-_cr015.png"
-thumbnailImage: "/images/covers/chicago_research-various_artists_-_cr015-thumb.png"
+    - "/images/covers/chicago_research-various_artists_-_cr015.jpg"
+thumbnailImage: "/images/covers/chicago_research-various_artists_-_cr015-thumb.jpg"
 actualPrice: $5.50
 inStock: true
 ---

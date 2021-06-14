@@ -7,8 +7,8 @@ album: "Goat Demo(N)"
 categories:
     - Tape
 images:
-    - "/images/covers/ziegenhorn-goat_demo(n).png"
-thumbnailImage: "/images/covers/ziegenhorn-goat_demo(n)-thumb.png"
+    - "/images/covers/ziegenhorn-goat_demo(n).jpg"
+thumbnailImage: "/images/covers/ziegenhorn-goat_demo(n)-thumb.jpg"
 actualPrice: $3.50
 inStock: true
 ---

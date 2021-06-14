@@ -7,8 +7,8 @@ album: "Vultures Will Gather"
 categories:
     - Tape
 images:
-    - "/images/covers/rancorous-vultures_will_gather.png"
-thumbnailImage: "/images/covers/rancorous-vultures_will_gather-thumb.png"
+    - "/images/covers/rancorous-vultures_will_gather.jpg"
+thumbnailImage: "/images/covers/rancorous-vultures_will_gather-thumb.jpg"
 actualPrice: $5.00
 inStock: true
 ---

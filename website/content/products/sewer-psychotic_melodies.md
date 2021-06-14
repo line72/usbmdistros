@@ -7,8 +7,8 @@ album: "Psychotic Melodies"
 categories:
     - Tape
 images:
-    - "/images/covers/sewer-psychotic_melodies.png"
-thumbnailImage: "/images/covers/sewer-psychotic_melodies-thumb.png"
+    - "/images/covers/sewer-psychotic_melodies.jpg"
+thumbnailImage: "/images/covers/sewer-psychotic_melodies-thumb.jpg"
 actualPrice: $8.00
 inStock: true
 ---

@@ -7,8 +7,8 @@ album: "Työn Orjat Paholaisten Yöstä Nouskaa"
 categories:
     - Tape
 images:
-    - "/images/covers/oksennus-työn_orjat_paholaisten_yöstä_nouskaa.png"
-thumbnailImage: "/images/covers/oksennus-työn_orjat_paholaisten_yöstä_nouskaa-thumb.png"
+    - "/images/covers/oksennus-työn_orjat_paholaisten_yöstä_nouskaa.jpg"
+thumbnailImage: "/images/covers/oksennus-työn_orjat_paholaisten_yöstä_nouskaa-thumb.jpg"
 actualPrice: $8.00
 inStock: true
 ---

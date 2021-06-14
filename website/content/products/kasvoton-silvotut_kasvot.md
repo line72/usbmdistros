@@ -7,8 +7,8 @@ album: "Silvotut Kasvot"
 categories:
     - Tape
 images:
-    - "/images/covers/kasvoton-silvotut_kasvot.png"
-thumbnailImage: "/images/covers/kasvoton-silvotut_kasvot-thumb.png"
+    - "/images/covers/kasvoton-silvotut_kasvot.jpg"
+thumbnailImage: "/images/covers/kasvoton-silvotut_kasvot-thumb.jpg"
 actualPrice: $5.00
 inStock: true
 ---

@@ -7,8 +7,8 @@ album: "Enthroned By Persecution"
 categories:
     - Tape
 images:
-    - "/images/covers/hegemony-enthroned_by_persecution.png"
-thumbnailImage: "/images/covers/hegemony-enthroned_by_persecution-thumb.png"
+    - "/images/covers/hegemony-enthroned_by_persecution.jpg"
+thumbnailImage: "/images/covers/hegemony-enthroned_by_persecution-thumb.jpg"
 actualPrice: $8.00
 inStock: true
 ---

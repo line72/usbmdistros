@@ -7,8 +7,8 @@ album: "Demo 2020"
 categories:
     - Tape
 images:
-    - "/images/covers/witches_dance-demo_2020.png"
-thumbnailImage: "/images/covers/witches_dance-demo_2020-thumb.png"
+    - "/images/covers/witches_dance-demo_2020.jpg"
+thumbnailImage: "/images/covers/witches_dance-demo_2020-thumb.jpg"
 actualPrice: $6.00
 inStock: true
 ---

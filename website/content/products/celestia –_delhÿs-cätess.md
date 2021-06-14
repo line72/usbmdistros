@@ -7,8 +7,8 @@ album: "cätess"
 categories:
     - Vinyl
 images:
-    - "/images/covers/celestia –_delhÿs-cätess.png"
-thumbnailImage: "/images/covers/celestia –_delhÿs-cätess-thumb.png"
+    - "/images/covers/celestia –_delhÿs-cätess.jpg"
+thumbnailImage: "/images/covers/celestia –_delhÿs-cätess-thumb.jpg"
 actualPrice: $23.00
 inStock: true
 ---

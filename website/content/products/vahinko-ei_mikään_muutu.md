@@ -7,8 +7,8 @@ album: "Ei Mikään Muutu"
 categories:
     - Tape
 images:
-    - "/images/covers/vahinko-ei_mikään_muutu.png"
-thumbnailImage: "/images/covers/vahinko-ei_mikään_muutu-thumb.png"
+    - "/images/covers/vahinko-ei_mikään_muutu.jpg"
+thumbnailImage: "/images/covers/vahinko-ei_mikään_muutu-thumb.jpg"
 actualPrice: $3.50
 inStock: true
 ---

@@ -7,8 +7,8 @@ album: "s/t"
 categories:
     - Vinyl
 images:
-    - "/images/covers/lichtzehrer-s-t.png"
-thumbnailImage: "/images/covers/lichtzehrer-s-t-thumb.png"
+    - "/images/covers/lichtzehrer-s-t.jpg"
+thumbnailImage: "/images/covers/lichtzehrer-s-t-thumb.jpg"
 actualPrice: $10.00
 inStock: true
 ---

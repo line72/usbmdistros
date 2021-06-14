@@ -7,8 +7,8 @@ album: "Execration Of Cruel Bestiality"
 categories:
     - Tape
 images:
-    - "/images/covers/proclamation-execration_of_cruel_bestiality.png"
-thumbnailImage: "/images/covers/proclamation-execration_of_cruel_bestiality-thumb.png"
+    - "/images/covers/proclamation-execration_of_cruel_bestiality.jpg"
+thumbnailImage: "/images/covers/proclamation-execration_of_cruel_bestiality-thumb.jpg"
 actualPrice: $10.00
 inStock: true
 ---

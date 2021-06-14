@@ -7,8 +7,8 @@ album: "With Ardour And Joy Through The Incommensurable Path"
 categories:
     - Tape
 images:
-    - "/images/covers/hadit-with_ardour_and_joy_through_the_incommensurable_path.png"
-thumbnailImage: "/images/covers/hadit-with_ardour_and_joy_through_the_incommensurable_path-thumb.png"
+    - "/images/covers/hadit-with_ardour_and_joy_through_the_incommensurable_path.jpg"
+thumbnailImage: "/images/covers/hadit-with_ardour_and_joy_through_the_incommensurable_path-thumb.jpg"
 actualPrice: $6.00
 inStock: true
 ---

@@ -7,8 +7,8 @@ album: "The Preacher'S Wife"
 categories:
     - Tape
 images:
-    - "/images/covers/rats-the_preacher's_wife.png"
-thumbnailImage: "/images/covers/rats-the_preacher's_wife-thumb.png"
+    - "/images/covers/rats-the_preacher's_wife.jpg"
+thumbnailImage: "/images/covers/rats-the_preacher's_wife-thumb.jpg"
 actualPrice: $6.00
 inStock: true
 ---

@@ -7,8 +7,8 @@ album: "Know The Way To Embrace The Darkness"
 categories:
     - Tape
 images:
-    - "/images/covers/vashna-know_the_way_to_embrace_the_darkness.png"
-thumbnailImage: "/images/covers/vashna-know_the_way_to_embrace_the_darkness-thumb.png"
+    - "/images/covers/vashna-know_the_way_to_embrace_the_darkness.jpg"
+thumbnailImage: "/images/covers/vashna-know_the_way_to_embrace_the_darkness-thumb.jpg"
 actualPrice: $4.00
 inStock: true
 ---

@@ -7,8 +7,8 @@ album: "Dawn Of Obliteration"
 categories:
     - Tape
 images:
-    - "/images/covers/dawn_of_obliteration-dawn_of_obliteration.png"
-thumbnailImage: "/images/covers/dawn_of_obliteration-dawn_of_obliteration-thumb.png"
+    - "/images/covers/dawn_of_obliteration-dawn_of_obliteration.jpg"
+thumbnailImage: "/images/covers/dawn_of_obliteration-dawn_of_obliteration-thumb.jpg"
 actualPrice: $8.50
 inStock: true
 ---

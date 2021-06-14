@@ -7,8 +7,8 @@ album: "Tail-Tied Hearts"
 categories:
     - CD
 images:
-    - "/images/covers/dunwich-tail-tied_hearts.png"
-thumbnailImage: "/images/covers/dunwich-tail-tied_hearts-thumb.png"
+    - "/images/covers/dunwich-tail-tied_hearts.jpg"
+thumbnailImage: "/images/covers/dunwich-tail-tied_hearts-thumb.jpg"
 actualPrice: $10.00
 inStock: true
 ---

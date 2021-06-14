@@ -7,8 +7,8 @@ album: "Prodigy Of The Grotesque"
 categories:
     - Tape
 images:
-    - "/images/covers/goreworm-prodigy_of_the_grotesque.png"
-thumbnailImage: "/images/covers/goreworm-prodigy_of_the_grotesque-thumb.png"
+    - "/images/covers/goreworm-prodigy_of_the_grotesque.jpg"
+thumbnailImage: "/images/covers/goreworm-prodigy_of_the_grotesque-thumb.jpg"
 actualPrice: $8.00
 inStock: true
 ---

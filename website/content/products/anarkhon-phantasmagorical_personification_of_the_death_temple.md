@@ -8,8 +8,8 @@ categories:
     - Vinyl
     - CD
 images:
-    - "/images/covers/anarkhon-phantasmagorical_personification_of_the_death_temple.png"
-thumbnailImage: "/images/covers/anarkhon-phantasmagorical_personification_of_the_death_temple-thumb.png"
+    - "/images/covers/anarkhon-phantasmagorical_personification_of_the_death_temple.jpg"
+thumbnailImage: "/images/covers/anarkhon-phantasmagorical_personification_of_the_death_temple-thumb.jpg"
 actualPrice: $9.99 - 25.99
 inStock: true
 ---

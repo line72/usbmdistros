@@ -7,8 +7,8 @@ album: "Into The Ritual Chamber"
 categories:
     - Tape
 images:
-    - "/images/covers/impurity-into_the_ritual_chamber.png"
-thumbnailImage: "/images/covers/impurity-into_the_ritual_chamber-thumb.png"
+    - "/images/covers/impurity-into_the_ritual_chamber.jpg"
+thumbnailImage: "/images/covers/impurity-into_the_ritual_chamber-thumb.jpg"
 actualPrice: $8.50
 inStock: true
 ---

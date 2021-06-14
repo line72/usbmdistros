@@ -7,8 +7,8 @@ album: "Der alte Thron, siechend im Schatten"
 categories:
     - Vinyl
 images:
-    - "/images/covers/schattenthron-der_alte_thron,_siechend_im_schatten.png"
-thumbnailImage: "/images/covers/schattenthron-der_alte_thron,_siechend_im_schatten-thumb.png"
+    - "/images/covers/schattenthron-der_alte_thron,_siechend_im_schatten.jpg"
+thumbnailImage: "/images/covers/schattenthron-der_alte_thron,_siechend_im_schatten-thumb.jpg"
 actualPrice: $27.00
 inStock: true
 ---

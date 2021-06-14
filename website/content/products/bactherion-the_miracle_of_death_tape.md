@@ -7,8 +7,8 @@ album: "The Miracle Of Death Tape"
 categories:
     - Tape
 images:
-    - "/images/covers/bactherion-the_miracle_of_death_tape.png"
-thumbnailImage: "/images/covers/bactherion-the_miracle_of_death_tape-thumb.png"
+    - "/images/covers/bactherion-the_miracle_of_death_tape.jpg"
+thumbnailImage: "/images/covers/bactherion-the_miracle_of_death_tape-thumb.jpg"
 actualPrice: $8.50
 inStock: true
 ---

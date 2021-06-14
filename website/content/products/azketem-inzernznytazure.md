@@ -7,8 +7,8 @@ album: "Inzernznytazure"
 categories:
     - Tape
 images:
-    - "/images/covers/azketem-inzernznytazure.png"
-thumbnailImage: "/images/covers/azketem-inzernznytazure-thumb.png"
+    - "/images/covers/azketem-inzernznytazure.jpg"
+thumbnailImage: "/images/covers/azketem-inzernznytazure-thumb.jpg"
 actualPrice: $7.00 - 12.00
 inStock: true
 ---

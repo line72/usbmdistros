@@ -7,8 +7,8 @@ album: "Voices Demo 2020"
 categories:
     - Tape
 images:
-    - "/images/covers/herelith-voices_demo_2020.png"
-thumbnailImage: "/images/covers/herelith-voices_demo_2020-thumb.png"
+    - "/images/covers/herelith-voices_demo_2020.jpg"
+thumbnailImage: "/images/covers/herelith-voices_demo_2020-thumb.jpg"
 actualPrice: $7.50
 inStock: true
 ---

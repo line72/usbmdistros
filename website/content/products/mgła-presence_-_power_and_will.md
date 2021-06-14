@@ -7,8 +7,8 @@ album: "Presence / Power And Will"
 categories:
     - Vinyl
 images:
-    - "/images/covers/mgła-presence_-_power_and_will.png"
-thumbnailImage: "/images/covers/mgła-presence_-_power_and_will-thumb.png"
+    - "/images/covers/mgła-presence_-_power_and_will.jpg"
+thumbnailImage: "/images/covers/mgła-presence_-_power_and_will-thumb.jpg"
 actualPrice: $24.00
 inStock: true
 ---

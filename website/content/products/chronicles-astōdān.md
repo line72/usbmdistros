@@ -7,8 +7,8 @@ album: "Astōdān"
 categories:
     - Tape
 images:
-    - "/images/covers/chronicles-astōdān.png"
-thumbnailImage: "/images/covers/chronicles-astōdān-thumb.png"
+    - "/images/covers/chronicles-astōdān.jpg"
+thumbnailImage: "/images/covers/chronicles-astōdān-thumb.jpg"
 actualPrice: $7.50
 inStock: true
 ---

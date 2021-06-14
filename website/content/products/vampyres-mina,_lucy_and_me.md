@@ -7,8 +7,8 @@ album: "Mina, Lucy And Me"
 categories:
     - Tape
 images:
-    - "/images/covers/vampyres-mina,_lucy_and_me.png"
-thumbnailImage: "/images/covers/vampyres-mina,_lucy_and_me-thumb.png"
+    - "/images/covers/vampyres-mina,_lucy_and_me.jpg"
+thumbnailImage: "/images/covers/vampyres-mina,_lucy_and_me-thumb.jpg"
 actualPrice: $8.50
 inStock: true
 ---

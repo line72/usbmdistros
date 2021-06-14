@@ -7,8 +7,8 @@ album: "Evaluate​​.​​Execute."
 categories:
     - Tape
 images:
-    - "/images/covers/naillung-evaluate​​.​​execute..png"
-thumbnailImage: "/images/covers/naillung-evaluate​​.​​execute.-thumb.png"
+    - "/images/covers/naillung-evaluate​​.​​execute..jpg"
+thumbnailImage: "/images/covers/naillung-evaluate​​.​​execute.-thumb.jpg"
 actualPrice: $8.00
 inStock: true
 ---

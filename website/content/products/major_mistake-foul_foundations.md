@@ -7,8 +7,8 @@ album: "Foul Foundations"
 categories:
     - Tape
 images:
-    - "/images/covers/major_mistake-foul_foundations.png"
-thumbnailImage: "/images/covers/major_mistake-foul_foundations-thumb.png"
+    - "/images/covers/major_mistake-foul_foundations.jpg"
+thumbnailImage: "/images/covers/major_mistake-foul_foundations-thumb.jpg"
 actualPrice: $6.00
 inStock: true
 ---

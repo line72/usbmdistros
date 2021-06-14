@@ -7,8 +7,8 @@ album: "Self-Titled"
 categories:
     - Tape
 images:
-    - "/images/covers/pissing_contest-self-titled.png"
-thumbnailImage: "/images/covers/pissing_contest-self-titled-thumb.png"
+    - "/images/covers/pissing_contest-self-titled.jpg"
+thumbnailImage: "/images/covers/pissing_contest-self-titled-thumb.jpg"
 actualPrice: $7.00
 inStock: true
 ---

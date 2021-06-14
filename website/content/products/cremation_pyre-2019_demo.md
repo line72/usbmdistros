@@ -7,8 +7,8 @@ album: "2019 Demo"
 categories:
     - Tape
 images:
-    - "/images/covers/cremation_pyre-2019_demo.png"
-thumbnailImage: "/images/covers/cremation_pyre-2019_demo-thumb.png"
+    - "/images/covers/cremation_pyre-2019_demo.jpg"
+thumbnailImage: "/images/covers/cremation_pyre-2019_demo-thumb.jpg"
 actualPrice: $6.00
 inStock: true
 ---

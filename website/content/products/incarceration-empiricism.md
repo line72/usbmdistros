@@ -7,8 +7,8 @@ album: "Empiricism"
 categories:
     - Tape
 images:
-    - "/images/covers/incarceration-empiricism.png"
-thumbnailImage: "/images/covers/incarceration-empiricism-thumb.png"
+    - "/images/covers/incarceration-empiricism.jpg"
+thumbnailImage: "/images/covers/incarceration-empiricism-thumb.jpg"
 actualPrice: $8.50
 inStock: true
 ---

@@ -7,8 +7,8 @@ album: "In Cold Blood"
 categories:
     - Tape
 images:
-    - "/images/covers/bloodphemy-in_cold_blood.png"
-thumbnailImage: "/images/covers/bloodphemy-in_cold_blood-thumb.png"
+    - "/images/covers/bloodphemy-in_cold_blood.jpg"
+thumbnailImage: "/images/covers/bloodphemy-in_cold_blood-thumb.jpg"
 actualPrice: $4.00
 inStock: true
 ---

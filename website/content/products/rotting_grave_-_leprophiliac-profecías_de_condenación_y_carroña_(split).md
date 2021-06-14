@@ -7,8 +7,8 @@ album: "Profecías De Condenación Y Carroña (Split)"
 categories:
     - Tape
 images:
-    - "/images/covers/rotting_grave_-_leprophiliac-profecías_de_condenación_y_carroña_(split).png"
-thumbnailImage: "/images/covers/rotting_grave_-_leprophiliac-profecías_de_condenación_y_carroña_(split)-thumb.png"
+    - "/images/covers/rotting_grave_-_leprophiliac-profecías_de_condenación_y_carroña_(split).jpg"
+thumbnailImage: "/images/covers/rotting_grave_-_leprophiliac-profecías_de_condenación_y_carroña_(split)-thumb.jpg"
 actualPrice: $7.50
 inStock: true
 ---

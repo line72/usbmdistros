@@ -7,8 +7,8 @@ album: "Abyssal Menace"
 categories:
     - Tape
 images:
-    - "/images/covers/haunted_cenotaph-abyssal_menace.png"
-thumbnailImage: "/images/covers/haunted_cenotaph-abyssal_menace-thumb.png"
+    - "/images/covers/haunted_cenotaph-abyssal_menace.jpg"
+thumbnailImage: "/images/covers/haunted_cenotaph-abyssal_menace-thumb.jpg"
 actualPrice: $8.00
 inStock: true
 ---

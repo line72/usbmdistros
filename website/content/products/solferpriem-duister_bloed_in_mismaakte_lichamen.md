@@ -7,8 +7,8 @@ album: "Duister Bloed In Mismaakte Lichamen"
 categories:
     - Tape
 images:
-    - "/images/covers/solferpriem-duister_bloed_in_mismaakte_lichamen.png"
-thumbnailImage: "/images/covers/solferpriem-duister_bloed_in_mismaakte_lichamen-thumb.png"
+    - "/images/covers/solferpriem-duister_bloed_in_mismaakte_lichamen.jpg"
+thumbnailImage: "/images/covers/solferpriem-duister_bloed_in_mismaakte_lichamen-thumb.jpg"
 actualPrice: $4.00
 inStock: true
 ---

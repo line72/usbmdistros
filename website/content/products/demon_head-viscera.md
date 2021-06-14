@@ -7,8 +7,8 @@ album: "Viscera"
 categories:
     - Tape
 images:
-    - "/images/covers/demon_head-viscera.png"
-thumbnailImage: "/images/covers/demon_head-viscera-thumb.png"
+    - "/images/covers/demon_head-viscera.jpg"
+thumbnailImage: "/images/covers/demon_head-viscera-thumb.jpg"
 actualPrice: $7.50
 inStock: true
 ---

@@ -7,8 +7,8 @@ album: "Self-Titled"
 categories:
     - Tape
 images:
-    - "/images/covers/voland-self-titled.png"
-thumbnailImage: "/images/covers/voland-self-titled-thumb.png"
+    - "/images/covers/voland-self-titled.jpg"
+thumbnailImage: "/images/covers/voland-self-titled-thumb.jpg"
 actualPrice: $3.00
 inStock: true
 ---

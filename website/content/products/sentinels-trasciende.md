@@ -7,8 +7,8 @@ album: "Trasciende"
 categories:
     - Tape
 images:
-    - "/images/covers/sentinels-trasciende.png"
-thumbnailImage: "/images/covers/sentinels-trasciende-thumb.png"
+    - "/images/covers/sentinels-trasciende.jpg"
+thumbnailImage: "/images/covers/sentinels-trasciende-thumb.jpg"
 actualPrice: $6.00
 inStock: true
 ---

@@ -7,8 +7,8 @@ album: "Self-Titled"
 categories:
     - Tape
 images:
-    - "/images/covers/kryptograf-self-titled.png"
-thumbnailImage: "/images/covers/kryptograf-self-titled-thumb.png"
+    - "/images/covers/kryptograf-self-titled.jpg"
+thumbnailImage: "/images/covers/kryptograf-self-titled-thumb.jpg"
 actualPrice: $7.50
 inStock: true
 ---

@@ -7,8 +7,8 @@ album: "Nocturnal Wampyric Terror"
 categories:
     - Vinyl
 images:
-    - "/images/covers/lycanthropic_winter_moon-nocturnal_wampyric_terror.png"
-thumbnailImage: "/images/covers/lycanthropic_winter_moon-nocturnal_wampyric_terror-thumb.png"
+    - "/images/covers/lycanthropic_winter_moon-nocturnal_wampyric_terror.jpg"
+thumbnailImage: "/images/covers/lycanthropic_winter_moon-nocturnal_wampyric_terror-thumb.jpg"
 actualPrice: $23.00
 inStock: true
 ---

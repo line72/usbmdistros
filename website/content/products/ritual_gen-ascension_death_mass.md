@@ -7,8 +7,8 @@ album: "Ascension Death Mass"
 categories:
     - Vinyl
 images:
-    - "/images/covers/ritual_gen-ascension_death_mass.png"
-thumbnailImage: "/images/covers/ritual_gen-ascension_death_mass-thumb.png"
+    - "/images/covers/ritual_gen-ascension_death_mass.jpg"
+thumbnailImage: "/images/covers/ritual_gen-ascension_death_mass-thumb.jpg"
 actualPrice: $18.00
 inStock: true
 ---

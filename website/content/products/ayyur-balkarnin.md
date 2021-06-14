@@ -7,8 +7,8 @@ album: "Balkarnin"
 categories:
     - Tape
 images:
-    - "/images/covers/ayyur-balkarnin.png"
-thumbnailImage: "/images/covers/ayyur-balkarnin-thumb.png"
+    - "/images/covers/ayyur-balkarnin.jpg"
+thumbnailImage: "/images/covers/ayyur-balkarnin-thumb.jpg"
 actualPrice: $5.50
 inStock: true
 ---

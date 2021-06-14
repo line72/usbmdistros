@@ -7,8 +7,8 @@ album: "Self-Titled"
 categories:
     - Tape
 images:
-    - "/images/covers/sadistik_forest-self-titled.png"
-thumbnailImage: "/images/covers/sadistik_forest-self-titled-thumb.png"
+    - "/images/covers/sadistik_forest-self-titled.jpg"
+thumbnailImage: "/images/covers/sadistik_forest-self-titled-thumb.jpg"
 actualPrice: $4.00
 inStock: true
 ---

@@ -7,8 +7,8 @@ album: "Carpe Verpa"
 categories:
     - Tape
 images:
-    - "/images/covers/headless_pez-carpe_verpa.png"
-thumbnailImage: "/images/covers/headless_pez-carpe_verpa-thumb.png"
+    - "/images/covers/headless_pez-carpe_verpa.jpg"
+thumbnailImage: "/images/covers/headless_pez-carpe_verpa-thumb.jpg"
 actualPrice: $5.00
 inStock: true
 ---

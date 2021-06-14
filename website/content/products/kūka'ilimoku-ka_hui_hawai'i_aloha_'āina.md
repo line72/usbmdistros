@@ -7,8 +7,8 @@ album: "Ka Hui Hawai'I Aloha 'Āina"
 categories:
     - Tape
 images:
-    - "/images/covers/kūka'ilimoku-ka_hui_hawai'i_aloha_'āina.png"
-thumbnailImage: "/images/covers/kūka'ilimoku-ka_hui_hawai'i_aloha_'āina-thumb.png"
+    - "/images/covers/kūka'ilimoku-ka_hui_hawai'i_aloha_'āina.jpg"
+thumbnailImage: "/images/covers/kūka'ilimoku-ka_hui_hawai'i_aloha_'āina-thumb.jpg"
 actualPrice: $8.50
 inStock: true
 ---

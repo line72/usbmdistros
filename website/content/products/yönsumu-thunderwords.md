@@ -7,8 +7,8 @@ album: "Thunderwords"
 categories:
     - Tape
 images:
-    - "/images/covers/yönsumu-thunderwords.png"
-thumbnailImage: "/images/covers/yönsumu-thunderwords-thumb.png"
+    - "/images/covers/yönsumu-thunderwords.jpg"
+thumbnailImage: "/images/covers/yönsumu-thunderwords-thumb.jpg"
 actualPrice: $8.00
 inStock: true
 ---

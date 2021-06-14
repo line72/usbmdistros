@@ -7,8 +7,8 @@ album: "Unholy Prayers In Moscow 2015"
 categories:
     - Tape
 images:
-    - "/images/covers/rienaus-unholy_prayers_in_moscow_2015.png"
-thumbnailImage: "/images/covers/rienaus-unholy_prayers_in_moscow_2015-thumb.png"
+    - "/images/covers/rienaus-unholy_prayers_in_moscow_2015.jpg"
+thumbnailImage: "/images/covers/rienaus-unholy_prayers_in_moscow_2015-thumb.jpg"
 actualPrice: $6.50
 inStock: true
 ---

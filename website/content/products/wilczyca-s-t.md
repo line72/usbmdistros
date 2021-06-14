@@ -7,8 +7,8 @@ album: "s/t"
 categories:
     - Tape
 images:
-    - "/images/covers/wilczyca-s-t.png"
-thumbnailImage: "/images/covers/wilczyca-s-t-thumb.png"
+    - "/images/covers/wilczyca-s-t.jpg"
+thumbnailImage: "/images/covers/wilczyca-s-t-thumb.jpg"
 actualPrice: $9.00
 inStock: true
 ---

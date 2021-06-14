@@ -7,8 +7,8 @@ album: "Gore​-​Met"
 categories:
     - Tape
 images:
-    - "/images/covers/cartilage-gore​-​met.png"
-thumbnailImage: "/images/covers/cartilage-gore​-​met-thumb.png"
+    - "/images/covers/cartilage-gore​-​met.jpg"
+thumbnailImage: "/images/covers/cartilage-gore​-​met-thumb.jpg"
 actualPrice: $8.50
 inStock: true
 ---

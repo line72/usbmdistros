@@ -7,8 +7,8 @@ album: "Lyrids: Warning From The Reign Of The Untold"
 categories:
     - Tape
 images:
-    - "/images/covers/vultures_vengeance-lyrids:_warning_from_the_reign_of_the_untold.png"
-thumbnailImage: "/images/covers/vultures_vengeance-lyrids:_warning_from_the_reign_of_the_untold-thumb.png"
+    - "/images/covers/vultures_vengeance-lyrids:_warning_from_the_reign_of_the_untold.jpg"
+thumbnailImage: "/images/covers/vultures_vengeance-lyrids:_warning_from_the_reign_of_the_untold-thumb.jpg"
 actualPrice: $7.00
 inStock: true
 ---

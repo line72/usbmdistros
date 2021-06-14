@@ -7,8 +7,8 @@ album: "Sin Piedad"
 categories:
     - CD
 images:
-    - "/images/covers/masacre-sin_piedad.png"
-thumbnailImage: "/images/covers/masacre-sin_piedad-thumb.png"
+    - "/images/covers/masacre-sin_piedad.jpg"
+thumbnailImage: "/images/covers/masacre-sin_piedad-thumb.jpg"
 actualPrice: $10.00
 inStock: true
 ---

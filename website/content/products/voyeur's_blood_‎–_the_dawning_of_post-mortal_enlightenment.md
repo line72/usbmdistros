@@ -7,8 +7,8 @@ album: "Mortal Enlightenment"
 categories:
     - Vinyl
 images:
-    - "/images/covers/voyeur's_blood_‎–_the_dawning_of_post-mortal_enlightenment.png"
-thumbnailImage: "/images/covers/voyeur's_blood_‎–_the_dawning_of_post-mortal_enlightenment-thumb.png"
+    - "/images/covers/voyeur's_blood_‎–_the_dawning_of_post-mortal_enlightenment.jpg"
+thumbnailImage: "/images/covers/voyeur's_blood_‎–_the_dawning_of_post-mortal_enlightenment-thumb.jpg"
 actualPrice: $20.00
 inStock: true
 ---

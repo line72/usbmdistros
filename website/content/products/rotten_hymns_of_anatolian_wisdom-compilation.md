@@ -7,8 +7,8 @@ album: "Compilation"
 categories:
     - Tape
 images:
-    - "/images/covers/rotten_hymns_of_anatolian_wisdom-compilation.png"
-thumbnailImage: "/images/covers/rotten_hymns_of_anatolian_wisdom-compilation-thumb.png"
+    - "/images/covers/rotten_hymns_of_anatolian_wisdom-compilation.jpg"
+thumbnailImage: "/images/covers/rotten_hymns_of_anatolian_wisdom-compilation-thumb.jpg"
 actualPrice: $9.50
 inStock: true
 ---

@@ -7,8 +7,8 @@ album: "Anomalia"
 categories:
     - Tape
 images:
-    - "/images/covers/kauhu-anomalia.png"
-thumbnailImage: "/images/covers/kauhu-anomalia-thumb.png"
+    - "/images/covers/kauhu-anomalia.jpg"
+thumbnailImage: "/images/covers/kauhu-anomalia-thumb.jpg"
 actualPrice: $6.50
 inStock: true
 ---

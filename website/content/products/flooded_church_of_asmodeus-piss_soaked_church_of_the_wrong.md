@@ -7,8 +7,8 @@ album: "Piss Soaked Church of the Wrong"
 categories:
     - Tape
 images:
-    - "/images/covers/flooded_church_of_asmodeus-piss_soaked_church_of_the_wrong.png"
-thumbnailImage: "/images/covers/flooded_church_of_asmodeus-piss_soaked_church_of_the_wrong-thumb.png"
+    - "/images/covers/flooded_church_of_asmodeus-piss_soaked_church_of_the_wrong.jpg"
+thumbnailImage: "/images/covers/flooded_church_of_asmodeus-piss_soaked_church_of_the_wrong-thumb.jpg"
 actualPrice: $9.00
 inStock: true
 ---

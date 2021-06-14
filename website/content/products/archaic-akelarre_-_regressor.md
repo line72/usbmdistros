@@ -7,8 +7,8 @@ album: "Akelarre / Regressor"
 categories:
     - Tape
 images:
-    - "/images/covers/archaic-akelarre_-_regressor.png"
-thumbnailImage: "/images/covers/archaic-akelarre_-_regressor-thumb.png"
+    - "/images/covers/archaic-akelarre_-_regressor.jpg"
+thumbnailImage: "/images/covers/archaic-akelarre_-_regressor-thumb.jpg"
 actualPrice: $6.00
 inStock: true
 ---

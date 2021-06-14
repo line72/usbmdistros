@@ -7,8 +7,8 @@ album: "Foul Length"
 categories:
     - Tape
 images:
-    - "/images/covers/seance_of-foul_length.png"
-thumbnailImage: "/images/covers/seance_of-foul_length-thumb.png"
+    - "/images/covers/seance_of-foul_length.jpg"
+thumbnailImage: "/images/covers/seance_of-foul_length-thumb.jpg"
 actualPrice: $9.50
 inStock: true
 ---

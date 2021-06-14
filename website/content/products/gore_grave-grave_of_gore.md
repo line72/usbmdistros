@@ -7,8 +7,8 @@ album: "Grave Of Gore"
 categories:
     - CD
 images:
-    - "/images/covers/gore_grave-grave_of_gore.png"
-thumbnailImage: "/images/covers/gore_grave-grave_of_gore-thumb.png"
+    - "/images/covers/gore_grave-grave_of_gore.jpg"
+thumbnailImage: "/images/covers/gore_grave-grave_of_gore-thumb.jpg"
 actualPrice: $10.00
 inStock: true
 ---

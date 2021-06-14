@@ -7,8 +7,8 @@ album: ".​.​.​Darkness​.​.​."
 categories:
     - Tape
 images:
-    - "/images/covers/thirst-.​.​.​darkness​.​.​..png"
-thumbnailImage: "/images/covers/thirst-.​.​.​darkness​.​.​.-thumb.png"
+    - "/images/covers/thirst-.​.​.​darkness​.​.​..jpg"
+thumbnailImage: "/images/covers/thirst-.​.​.​darkness​.​.​.-thumb.jpg"
 actualPrice: $8.00
 inStock: true
 ---

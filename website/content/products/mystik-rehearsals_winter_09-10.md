@@ -7,8 +7,8 @@ album: "Rehearsals Winter 09/10"
 categories:
     - Vinyl
 images:
-    - "/images/covers/mystik-rehearsals_winter_09-10.png"
-thumbnailImage: "/images/covers/mystik-rehearsals_winter_09-10-thumb.png"
+    - "/images/covers/mystik-rehearsals_winter_09-10.jpg"
+thumbnailImage: "/images/covers/mystik-rehearsals_winter_09-10-thumb.jpg"
 actualPrice: $27.00
 inStock: true
 ---

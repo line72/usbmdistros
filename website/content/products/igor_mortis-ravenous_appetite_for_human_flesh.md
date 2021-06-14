@@ -7,8 +7,8 @@ album: "Ravenous Appetite For Human Flesh"
 categories:
     - Tape
 images:
-    - "/images/covers/igor_mortis-ravenous_appetite_for_human_flesh.png"
-thumbnailImage: "/images/covers/igor_mortis-ravenous_appetite_for_human_flesh-thumb.png"
+    - "/images/covers/igor_mortis-ravenous_appetite_for_human_flesh.jpg"
+thumbnailImage: "/images/covers/igor_mortis-ravenous_appetite_for_human_flesh-thumb.jpg"
 actualPrice: $7.00
 inStock: true
 ---

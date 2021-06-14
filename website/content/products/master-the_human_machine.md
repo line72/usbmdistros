@@ -7,8 +7,8 @@ album: "The Human Machine"
 categories:
     - Tape
 images:
-    - "/images/covers/master-the_human_machine.png"
-thumbnailImage: "/images/covers/master-the_human_machine-thumb.png"
+    - "/images/covers/master-the_human_machine.jpg"
+thumbnailImage: "/images/covers/master-the_human_machine-thumb.jpg"
 actualPrice: $8.00
 inStock: true
 ---

@@ -7,8 +7,8 @@ album: "s/t"
 categories:
     - Vinyl
 images:
-    - "/images/covers/haat-s-t.png"
-thumbnailImage: "/images/covers/haat-s-t-thumb.png"
+    - "/images/covers/haat-s-t.jpg"
+thumbnailImage: "/images/covers/haat-s-t-thumb.jpg"
 actualPrice: $23.00
 inStock: true
 ---

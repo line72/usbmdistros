@@ -7,8 +7,8 @@ album: "Eradication"
 categories:
     - Tape
 images:
-    - "/images/covers/archaic_thorn-eradication.png"
-thumbnailImage: "/images/covers/archaic_thorn-eradication-thumb.png"
+    - "/images/covers/archaic_thorn-eradication.jpg"
+thumbnailImage: "/images/covers/archaic_thorn-eradication-thumb.jpg"
 actualPrice: $7.50
 inStock: true
 ---

@@ -7,8 +7,8 @@ album: "Split"
 categories:
     - Vinyl
 images:
-    - "/images/covers/roman_cross_-_verglas-split.png"
-thumbnailImage: "/images/covers/roman_cross_-_verglas-split-thumb.png"
+    - "/images/covers/roman_cross_-_verglas-split.jpg"
+thumbnailImage: "/images/covers/roman_cross_-_verglas-split-thumb.jpg"
 actualPrice: $9.00
 inStock: true
 ---

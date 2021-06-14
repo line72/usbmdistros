@@ -7,8 +7,8 @@ album: "Black Tusk Malignancy"
 categories:
     - Tape
 images:
-    - "/images/covers/illkuln-black_tusk_malignancy.png"
-thumbnailImage: "/images/covers/illkuln-black_tusk_malignancy-thumb.png"
+    - "/images/covers/illkuln-black_tusk_malignancy.jpg"
+thumbnailImage: "/images/covers/illkuln-black_tusk_malignancy-thumb.jpg"
 actualPrice: $8.50
 inStock: true
 ---

@@ -7,8 +7,8 @@ album: "Demo I"
 categories:
     - Tape
 images:
-    - "/images/covers/the_gnosis-demo_i.png"
-thumbnailImage: "/images/covers/the_gnosis-demo_i-thumb.png"
+    - "/images/covers/the_gnosis-demo_i.jpg"
+thumbnailImage: "/images/covers/the_gnosis-demo_i-thumb.jpg"
 actualPrice: $6.50
 inStock: true
 ---

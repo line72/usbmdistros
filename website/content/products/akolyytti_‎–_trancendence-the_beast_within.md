@@ -7,8 +7,8 @@ album: "The Beast Within"
 categories:
     - Vinyl
 images:
-    - "/images/covers/akolyytti_‎–_trancendence-the_beast_within.png"
-thumbnailImage: "/images/covers/akolyytti_‎–_trancendence-the_beast_within-thumb.png"
+    - "/images/covers/akolyytti_‎–_trancendence-the_beast_within.jpg"
+thumbnailImage: "/images/covers/akolyytti_‎–_trancendence-the_beast_within-thumb.jpg"
 actualPrice: $10.00
 inStock: true
 ---

@@ -7,8 +7,8 @@ album: "First Loop"
 categories:
     - Tape
 images:
-    - "/images/covers/boredom_knife-first_loop.png"
-thumbnailImage: "/images/covers/boredom_knife-first_loop-thumb.png"
+    - "/images/covers/boredom_knife-first_loop.jpg"
+thumbnailImage: "/images/covers/boredom_knife-first_loop-thumb.jpg"
 actualPrice: $9.00
 inStock: true
 ---

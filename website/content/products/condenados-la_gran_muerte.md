@@ -7,8 +7,8 @@ album: "La Gran Muerte"
 categories:
     - Tape
 images:
-    - "/images/covers/condenados-la_gran_muerte.png"
-thumbnailImage: "/images/covers/condenados-la_gran_muerte-thumb.png"
+    - "/images/covers/condenados-la_gran_muerte.jpg"
+thumbnailImage: "/images/covers/condenados-la_gran_muerte-thumb.jpg"
 actualPrice: $4.00
 inStock: true
 ---

@@ -7,8 +7,8 @@ album: "Self-Titled"
 categories:
     - Tape
 images:
-    - "/images/covers/macerated_stillbirth-self-titled.png"
-thumbnailImage: "/images/covers/macerated_stillbirth-self-titled-thumb.png"
+    - "/images/covers/macerated_stillbirth-self-titled.jpg"
+thumbnailImage: "/images/covers/macerated_stillbirth-self-titled-thumb.jpg"
 actualPrice: $8.00
 inStock: true
 ---

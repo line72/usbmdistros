@@ -7,8 +7,8 @@ album: "Golden Stream From The Summerlands"
 categories:
     - Tape
 images:
-    - "/images/covers/black_mass_pervertor-golden_stream_from_the_summerlands.png"
-thumbnailImage: "/images/covers/black_mass_pervertor-golden_stream_from_the_summerlands-thumb.png"
+    - "/images/covers/black_mass_pervertor-golden_stream_from_the_summerlands.jpg"
+thumbnailImage: "/images/covers/black_mass_pervertor-golden_stream_from_the_summerlands-thumb.jpg"
 actualPrice: $5.00
 inStock: true
 ---

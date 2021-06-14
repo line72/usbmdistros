@@ -8,8 +8,8 @@ categories:
     - Vinyl
     - Tape
 images:
-    - "/images/covers/human_failure-crown_on_the_head_of_a_king_of_mud.png"
-thumbnailImage: "/images/covers/human_failure-crown_on_the_head_of_a_king_of_mud-thumb.png"
+    - "/images/covers/human_failure-crown_on_the_head_of_a_king_of_mud.jpg"
+thumbnailImage: "/images/covers/human_failure-crown_on_the_head_of_a_king_of_mud-thumb.jpg"
 actualPrice: $6.00 - 20.00
 inStock: true
 ---

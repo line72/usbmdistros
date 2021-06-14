@@ -7,8 +7,8 @@ album: "Charnel Ground"
 categories:
     - Tape
 images:
-    - "/images/covers/mroz-charnel_ground.png"
-thumbnailImage: "/images/covers/mroz-charnel_ground-thumb.png"
+    - "/images/covers/mroz-charnel_ground.jpg"
+thumbnailImage: "/images/covers/mroz-charnel_ground-thumb.jpg"
 actualPrice: $7.00
 inStock: true
 ---

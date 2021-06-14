@@ -7,8 +7,8 @@ album: "Self-Titled"
 categories:
     - Tape
 images:
-    - "/images/covers/de_ontkoppeling-self-titled.png"
-thumbnailImage: "/images/covers/de_ontkoppeling-self-titled-thumb.png"
+    - "/images/covers/de_ontkoppeling-self-titled.jpg"
+thumbnailImage: "/images/covers/de_ontkoppeling-self-titled-thumb.jpg"
 actualPrice: $6.00
 inStock: true
 ---

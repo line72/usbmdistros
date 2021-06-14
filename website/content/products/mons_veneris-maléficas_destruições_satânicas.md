@@ -7,8 +7,8 @@ album: "Maléficas Destruições Satânicas"
 categories:
     - Vinyl
 images:
-    - "/images/covers/mons_veneris-maléficas_destruições_satânicas.png"
-thumbnailImage: "/images/covers/mons_veneris-maléficas_destruições_satânicas-thumb.png"
+    - "/images/covers/mons_veneris-maléficas_destruições_satânicas.jpg"
+thumbnailImage: "/images/covers/mons_veneris-maléficas_destruições_satânicas-thumb.jpg"
 actualPrice: $12.00
 inStock: true
 ---

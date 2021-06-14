@@ -7,8 +7,8 @@ album: "Blight Of Sempiternal Putrefaction"
 categories:
     - CD
 images:
-    - "/images/covers/filtheater-blight_of_sempiternal_putrefaction.png"
-thumbnailImage: "/images/covers/filtheater-blight_of_sempiternal_putrefaction-thumb.png"
+    - "/images/covers/filtheater-blight_of_sempiternal_putrefaction.jpg"
+thumbnailImage: "/images/covers/filtheater-blight_of_sempiternal_putrefaction-thumb.jpg"
 actualPrice: $8.00
 inStock: true
 ---

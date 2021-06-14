@@ -7,8 +7,8 @@ album: "Death'S Formulas Fatal"
 categories:
     - Tape
 images:
-    - "/images/covers/infesticide-death's_formulas_fatal.png"
-thumbnailImage: "/images/covers/infesticide-death's_formulas_fatal-thumb.png"
+    - "/images/covers/infesticide-death's_formulas_fatal.jpg"
+thumbnailImage: "/images/covers/infesticide-death's_formulas_fatal-thumb.jpg"
 actualPrice: $5.00
 inStock: true
 ---

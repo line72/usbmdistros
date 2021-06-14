@@ -7,8 +7,8 @@ album: "Hammerwych Ep"
 categories:
     - Tape
 images:
-    - "/images/covers/symbel-hammerwych_ep.png"
-thumbnailImage: "/images/covers/symbel-hammerwych_ep-thumb.png"
+    - "/images/covers/symbel-hammerwych_ep.jpg"
+thumbnailImage: "/images/covers/symbel-hammerwych_ep-thumb.jpg"
 actualPrice: $8.00
 inStock: true
 ---

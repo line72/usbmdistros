@@ -7,8 +7,8 @@ album: "Intercurse - Ep"
 categories:
     - Tape
 images:
-    - "/images/covers/venerexation-intercurse_-_ep.png"
-thumbnailImage: "/images/covers/venerexation-intercurse_-_ep-thumb.png"
+    - "/images/covers/venerexation-intercurse_-_ep.jpg"
+thumbnailImage: "/images/covers/venerexation-intercurse_-_ep-thumb.jpg"
 actualPrice: $8.50
 inStock: true
 ---

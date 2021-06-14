@@ -7,8 +7,8 @@ album: "Demo"
 categories:
     - Tape
 images:
-    - "/images/covers/guillatine-demo.png"
-thumbnailImage: "/images/covers/guillatine-demo-thumb.png"
+    - "/images/covers/guillatine-demo.jpg"
+thumbnailImage: "/images/covers/guillatine-demo-thumb.jpg"
 actualPrice: $7.00
 inStock: true
 ---

@@ -7,8 +7,8 @@ album: "Who Controls?"
 categories:
     - Tape
 images:
-    - "/images/covers/renmin_fribao-who_controls?.png"
-thumbnailImage: "/images/covers/renmin_fribao-who_controls?-thumb.png"
+    - "/images/covers/renmin_fribao-who_controls?.jpg"
+thumbnailImage: "/images/covers/renmin_fribao-who_controls?-thumb.jpg"
 actualPrice: $6.50
 inStock: true
 ---

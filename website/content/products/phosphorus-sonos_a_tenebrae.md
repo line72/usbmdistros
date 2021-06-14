@@ -7,8 +7,8 @@ album: "Sonos A Tenebrae"
 categories:
     - Tape
 images:
-    - "/images/covers/phosphorus-sonos_a_tenebrae.png"
-thumbnailImage: "/images/covers/phosphorus-sonos_a_tenebrae-thumb.png"
+    - "/images/covers/phosphorus-sonos_a_tenebrae.jpg"
+thumbnailImage: "/images/covers/phosphorus-sonos_a_tenebrae-thumb.jpg"
 actualPrice: $7.50
 inStock: true
 ---

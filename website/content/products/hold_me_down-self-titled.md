@@ -7,8 +7,8 @@ album: "Self-Titled"
 categories:
     - Tape
 images:
-    - "/images/covers/hold_me_down-self-titled.png"
-thumbnailImage: "/images/covers/hold_me_down-self-titled-thumb.png"
+    - "/images/covers/hold_me_down-self-titled.jpg"
+thumbnailImage: "/images/covers/hold_me_down-self-titled-thumb.jpg"
 actualPrice: $5.00
 inStock: true
 ---

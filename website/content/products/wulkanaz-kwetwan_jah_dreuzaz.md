@@ -8,8 +8,8 @@ categories:
     - Vinyl
     - CD
 images:
-    - "/images/covers/wulkanaz-kwetwan_jah_dreuzaz.png"
-thumbnailImage: "/images/covers/wulkanaz-kwetwan_jah_dreuzaz-thumb.png"
+    - "/images/covers/wulkanaz-kwetwan_jah_dreuzaz.jpg"
+thumbnailImage: "/images/covers/wulkanaz-kwetwan_jah_dreuzaz-thumb.jpg"
 actualPrice: $13.00 - 27.00
 inStock: true
 ---

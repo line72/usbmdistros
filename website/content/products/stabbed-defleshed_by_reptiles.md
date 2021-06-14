@@ -7,8 +7,8 @@ album: "Defleshed By Reptiles"
 categories:
     - Tape
 images:
-    - "/images/covers/stabbed-defleshed_by_reptiles.png"
-thumbnailImage: "/images/covers/stabbed-defleshed_by_reptiles-thumb.png"
+    - "/images/covers/stabbed-defleshed_by_reptiles.jpg"
+thumbnailImage: "/images/covers/stabbed-defleshed_by_reptiles-thumb.jpg"
 actualPrice: $8.00
 inStock: true
 ---

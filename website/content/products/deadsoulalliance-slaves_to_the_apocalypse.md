@@ -7,8 +7,8 @@ album: "Slaves To The Apocalypse"
 categories:
     - Tape
 images:
-    - "/images/covers/deadsoulalliance-slaves_to_the_apocalypse.png"
-thumbnailImage: "/images/covers/deadsoulalliance-slaves_to_the_apocalypse-thumb.png"
+    - "/images/covers/deadsoulalliance-slaves_to_the_apocalypse.jpg"
+thumbnailImage: "/images/covers/deadsoulalliance-slaves_to_the_apocalypse-thumb.jpg"
 actualPrice: $6.00
 inStock: true
 ---

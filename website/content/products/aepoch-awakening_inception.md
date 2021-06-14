@@ -7,8 +7,8 @@ album: "Awakening Inception"
 categories:
     - Tape
 images:
-    - "/images/covers/aepoch-awakening_inception.png"
-thumbnailImage: "/images/covers/aepoch-awakening_inception-thumb.png"
+    - "/images/covers/aepoch-awakening_inception.jpg"
+thumbnailImage: "/images/covers/aepoch-awakening_inception-thumb.jpg"
 actualPrice: $6.00
 inStock: true
 ---

@@ -7,8 +7,8 @@ album: "Self-Titled"
 categories:
     - CD
 images:
-    - "/images/covers/sanctifying_ritual-self-titled.png"
-thumbnailImage: "/images/covers/sanctifying_ritual-self-titled-thumb.png"
+    - "/images/covers/sanctifying_ritual-self-titled.jpg"
+thumbnailImage: "/images/covers/sanctifying_ritual-self-titled-thumb.jpg"
 actualPrice: $9.50
 inStock: true
 ---

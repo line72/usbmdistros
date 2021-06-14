@@ -7,8 +7,8 @@ album: "Bless The Witch"
 categories:
     - Tape
 images:
-    - "/images/covers/dark_as_death-bless_the_witch.png"
-thumbnailImage: "/images/covers/dark_as_death-bless_the_witch-thumb.png"
+    - "/images/covers/dark_as_death-bless_the_witch.jpg"
+thumbnailImage: "/images/covers/dark_as_death-bless_the_witch-thumb.jpg"
 actualPrice: $4.00
 inStock: true
 ---

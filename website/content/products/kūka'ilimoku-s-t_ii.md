@@ -7,8 +7,8 @@ album: "S/T Ii"
 categories:
     - Tape
 images:
-    - "/images/covers/kūka'ilimoku-s-t_ii.png"
-thumbnailImage: "/images/covers/kūka'ilimoku-s-t_ii-thumb.png"
+    - "/images/covers/kūka'ilimoku-s-t_ii.jpg"
+thumbnailImage: "/images/covers/kūka'ilimoku-s-t_ii-thumb.jpg"
 actualPrice: $8.50
 inStock: true
 ---

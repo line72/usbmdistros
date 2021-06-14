@@ -7,8 +7,8 @@ album: "Ravenous Storm Of Piss"
 categories:
     - Tape
 images:
-    - "/images/covers/reaper-ravenous_storm_of_piss.png"
-thumbnailImage: "/images/covers/reaper-ravenous_storm_of_piss-thumb.png"
+    - "/images/covers/reaper-ravenous_storm_of_piss.jpg"
+thumbnailImage: "/images/covers/reaper-ravenous_storm_of_piss-thumb.jpg"
 actualPrice: $5.50
 inStock: true
 ---

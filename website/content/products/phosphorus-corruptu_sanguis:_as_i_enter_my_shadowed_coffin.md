@@ -7,8 +7,8 @@ album: "Corruptu Sanguis: As I Enter My Shadowed Coffin"
 categories:
     - Tape
 images:
-    - "/images/covers/phosphorus-corruptu_sanguis:_as_i_enter_my_shadowed_coffin.png"
-thumbnailImage: "/images/covers/phosphorus-corruptu_sanguis:_as_i_enter_my_shadowed_coffin-thumb.png"
+    - "/images/covers/phosphorus-corruptu_sanguis:_as_i_enter_my_shadowed_coffin.jpg"
+thumbnailImage: "/images/covers/phosphorus-corruptu_sanguis:_as_i_enter_my_shadowed_coffin-thumb.jpg"
 actualPrice: $7.50
 inStock: true
 ---

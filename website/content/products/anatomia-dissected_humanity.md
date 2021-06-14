@@ -7,8 +7,8 @@ album: "Dissected Humanity"
 categories:
     - Tape
 images:
-    - "/images/covers/anatomia-dissected_humanity.png"
-thumbnailImage: "/images/covers/anatomia-dissected_humanity-thumb.png"
+    - "/images/covers/anatomia-dissected_humanity.jpg"
+thumbnailImage: "/images/covers/anatomia-dissected_humanity-thumb.jpg"
 actualPrice: $10.00
 inStock: true
 ---

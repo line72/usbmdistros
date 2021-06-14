@@ -7,8 +7,8 @@ album: "The Birth Of The Beginning Before The Inception Of The End"
 categories:
     - Tape
 images:
-    - "/images/covers/pustilence-the_birth_of_the_beginning_before_the_inception_of_the_end.png"
-thumbnailImage: "/images/covers/pustilence-the_birth_of_the_beginning_before_the_inception_of_the_end-thumb.png"
+    - "/images/covers/pustilence-the_birth_of_the_beginning_before_the_inception_of_the_end.jpg"
+thumbnailImage: "/images/covers/pustilence-the_birth_of_the_beginning_before_the_inception_of_the_end-thumb.jpg"
 actualPrice: $10.00
 inStock: true
 ---

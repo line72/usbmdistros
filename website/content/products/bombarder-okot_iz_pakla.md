@@ -7,8 +7,8 @@ album: "Okot Iz Pakla"
 categories:
     - Tape
 images:
-    - "/images/covers/bombarder-okot_iz_pakla.png"
-thumbnailImage: "/images/covers/bombarder-okot_iz_pakla-thumb.png"
+    - "/images/covers/bombarder-okot_iz_pakla.jpg"
+thumbnailImage: "/images/covers/bombarder-okot_iz_pakla-thumb.jpg"
 actualPrice: $8.00
 inStock: true
 ---

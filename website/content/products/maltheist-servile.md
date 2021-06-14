@@ -7,8 +7,8 @@ album: "Servile"
 categories:
     - Tape
 images:
-    - "/images/covers/maltheist-servile.png"
-thumbnailImage: "/images/covers/maltheist-servile-thumb.png"
+    - "/images/covers/maltheist-servile.jpg"
+thumbnailImage: "/images/covers/maltheist-servile-thumb.jpg"
 actualPrice: $6.00
 inStock: true
 ---

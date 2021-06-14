@@ -7,8 +7,8 @@ album: "Self-Titled"
 categories:
     - Tape
 images:
-    - "/images/covers/divine_ecstasy-self-titled.png"
-thumbnailImage: "/images/covers/divine_ecstasy-self-titled-thumb.png"
+    - "/images/covers/divine_ecstasy-self-titled.jpg"
+thumbnailImage: "/images/covers/divine_ecstasy-self-titled-thumb.jpg"
 actualPrice: $4.00
 inStock: true
 ---

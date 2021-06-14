@@ -7,8 +7,8 @@ album: "Carnal Ooze / Excrescence Odium"
 categories:
     - Tape
 images:
-    - "/images/covers/saccular_-_sarcosium-carnal_ooze_-_excrescence_odium.png"
-thumbnailImage: "/images/covers/saccular_-_sarcosium-carnal_ooze_-_excrescence_odium-thumb.png"
+    - "/images/covers/saccular_-_sarcosium-carnal_ooze_-_excrescence_odium.jpg"
+thumbnailImage: "/images/covers/saccular_-_sarcosium-carnal_ooze_-_excrescence_odium-thumb.jpg"
 actualPrice: $6.00
 inStock: true
 ---

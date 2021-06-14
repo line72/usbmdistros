@@ -7,8 +7,8 @@ album: "Buried And Forgotten"
 categories:
     - Tape
 images:
-    - "/images/covers/vulgar_dissection-buried_and_forgotten.png"
-thumbnailImage: "/images/covers/vulgar_dissection-buried_and_forgotten-thumb.png"
+    - "/images/covers/vulgar_dissection-buried_and_forgotten.jpg"
+thumbnailImage: "/images/covers/vulgar_dissection-buried_and_forgotten-thumb.jpg"
 actualPrice: $8.00
 inStock: true
 ---

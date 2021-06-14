@@ -7,8 +7,8 @@ album: "Shitslime + Lurking Doom"
 categories:
     - Tape
 images:
-    - "/images/covers/wharflurch-shitslime_+_lurking_doom.png"
-thumbnailImage: "/images/covers/wharflurch-shitslime_+_lurking_doom-thumb.png"
+    - "/images/covers/wharflurch-shitslime_+_lurking_doom.jpg"
+thumbnailImage: "/images/covers/wharflurch-shitslime_+_lurking_doom-thumb.jpg"
 actualPrice: $9.00
 inStock: true
 ---

@@ -7,8 +7,8 @@ album: "Sombre Doom"
 categories:
     - CD
 images:
-    - "/images/covers/dead_congregation-sombre_doom.png"
-thumbnailImage: "/images/covers/dead_congregation-sombre_doom-thumb.png"
+    - "/images/covers/dead_congregation-sombre_doom.jpg"
+thumbnailImage: "/images/covers/dead_congregation-sombre_doom-thumb.jpg"
 actualPrice: $9.00
 inStock: true
 ---

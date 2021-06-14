@@ -7,8 +7,8 @@ album: "Ancient Womb Of Mercury"
 categories:
     - Tape
 images:
-    - "/images/covers/fayenne-ancient_womb_of_mercury.png"
-thumbnailImage: "/images/covers/fayenne-ancient_womb_of_mercury-thumb.png"
+    - "/images/covers/fayenne-ancient_womb_of_mercury.jpg"
+thumbnailImage: "/images/covers/fayenne-ancient_womb_of_mercury-thumb.jpg"
 actualPrice: $4.00
 inStock: true
 ---

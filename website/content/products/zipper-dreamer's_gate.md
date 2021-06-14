@@ -7,8 +7,8 @@ album: "Dreamer'S Gate"
 categories:
     - Tape
 images:
-    - "/images/covers/zipper-dreamer's_gate.png"
-thumbnailImage: "/images/covers/zipper-dreamer's_gate-thumb.png"
+    - "/images/covers/zipper-dreamer's_gate.jpg"
+thumbnailImage: "/images/covers/zipper-dreamer's_gate-thumb.jpg"
 actualPrice: $8.00
 inStock: true
 ---

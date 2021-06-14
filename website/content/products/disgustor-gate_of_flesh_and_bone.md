@@ -7,8 +7,8 @@ album: "Gate Of Flesh And Bone"
 categories:
     - Tape
 images:
-    - "/images/covers/disgustor-gate_of_flesh_and_bone.png"
-thumbnailImage: "/images/covers/disgustor-gate_of_flesh_and_bone-thumb.png"
+    - "/images/covers/disgustor-gate_of_flesh_and_bone.jpg"
+thumbnailImage: "/images/covers/disgustor-gate_of_flesh_and_bone-thumb.jpg"
 actualPrice: $4.50
 inStock: true
 ---

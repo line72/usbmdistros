@@ -7,8 +7,8 @@ album: "Demo"
 categories:
     - Tape
 images:
-    - "/images/covers/sepharvites-demo.png"
-thumbnailImage: "/images/covers/sepharvites-demo-thumb.png"
+    - "/images/covers/sepharvites-demo.jpg"
+thumbnailImage: "/images/covers/sepharvites-demo-thumb.jpg"
 actualPrice: $3.00
 inStock: true
 ---

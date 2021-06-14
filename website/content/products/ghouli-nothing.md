@@ -7,8 +7,8 @@ album: "Nothing"
 categories:
     - Tape
 images:
-    - "/images/covers/ghouli-nothing.png"
-thumbnailImage: "/images/covers/ghouli-nothing-thumb.png"
+    - "/images/covers/ghouli-nothing.jpg"
+thumbnailImage: "/images/covers/ghouli-nothing-thumb.jpg"
 actualPrice: $5.50
 inStock: true
 ---

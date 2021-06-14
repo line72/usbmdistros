@@ -7,8 +7,8 @@ album: "Contorted Dioramic Palette"
 categories:
     - Tape
 images:
-    - "/images/covers/dr._shrinker-contorted_dioramic_palette.png"
-thumbnailImage: "/images/covers/dr._shrinker-contorted_dioramic_palette-thumb.png"
+    - "/images/covers/dr._shrinker-contorted_dioramic_palette.jpg"
+thumbnailImage: "/images/covers/dr._shrinker-contorted_dioramic_palette-thumb.jpg"
 actualPrice: $4.50
 inStock: true
 ---

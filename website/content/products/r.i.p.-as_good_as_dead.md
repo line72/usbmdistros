@@ -7,8 +7,8 @@ album: "As Good As Dead"
 categories:
     - Tape
 images:
-    - "/images/covers/r.i.p.-as_good_as_dead.png"
-thumbnailImage: "/images/covers/r.i.p.-as_good_as_dead-thumb.png"
+    - "/images/covers/r.i.p.-as_good_as_dead.jpg"
+thumbnailImage: "/images/covers/r.i.p.-as_good_as_dead-thumb.jpg"
 actualPrice: $8.00
 inStock: true
 ---

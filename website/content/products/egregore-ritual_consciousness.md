@@ -7,8 +7,8 @@ album: "Ritual Consciousness"
 categories:
     - Tape
 images:
-    - "/images/covers/egregore-ritual_consciousness.png"
-thumbnailImage: "/images/covers/egregore-ritual_consciousness-thumb.png"
+    - "/images/covers/egregore-ritual_consciousness.jpg"
+thumbnailImage: "/images/covers/egregore-ritual_consciousness-thumb.jpg"
 actualPrice: $8.00
 inStock: true
 ---

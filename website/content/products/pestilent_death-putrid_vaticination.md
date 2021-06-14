@@ -7,8 +7,8 @@ album: "Putrid Vaticination"
 categories:
     - Tape
 images:
-    - "/images/covers/pestilent_death-putrid_vaticination.png"
-thumbnailImage: "/images/covers/pestilent_death-putrid_vaticination-thumb.png"
+    - "/images/covers/pestilent_death-putrid_vaticination.jpg"
+thumbnailImage: "/images/covers/pestilent_death-putrid_vaticination-thumb.jpg"
 actualPrice: $7.50
 inStock: true
 ---

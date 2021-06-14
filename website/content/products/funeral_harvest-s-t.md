@@ -8,8 +8,8 @@ categories:
     - Vinyl
     - Tape
 images:
-    - "/images/covers/funeral_harvest-s-t.png"
-thumbnailImage: "/images/covers/funeral_harvest-s-t-thumb.png"
+    - "/images/covers/funeral_harvest-s-t.jpg"
+thumbnailImage: "/images/covers/funeral_harvest-s-t-thumb.jpg"
 actualPrice: $10.00 - 23.00
 inStock: true
 ---

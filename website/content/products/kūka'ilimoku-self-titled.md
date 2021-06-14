@@ -7,8 +7,8 @@ album: "Self-Titled"
 categories:
     - Tape
 images:
-    - "/images/covers/kūka'ilimoku-self-titled.png"
-thumbnailImage: "/images/covers/kūka'ilimoku-self-titled-thumb.png"
+    - "/images/covers/kūka'ilimoku-self-titled.jpg"
+thumbnailImage: "/images/covers/kūka'ilimoku-self-titled-thumb.jpg"
 actualPrice: $8.50
 inStock: true
 ---

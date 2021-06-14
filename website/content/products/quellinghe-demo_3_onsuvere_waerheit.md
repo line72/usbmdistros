@@ -7,8 +7,8 @@ album: "Demo 3 Onsuvere Waerheit"
 categories:
     - Tape
 images:
-    - "/images/covers/quellinghe-demo_3_onsuvere_waerheit.png"
-thumbnailImage: "/images/covers/quellinghe-demo_3_onsuvere_waerheit-thumb.png"
+    - "/images/covers/quellinghe-demo_3_onsuvere_waerheit.jpg"
+thumbnailImage: "/images/covers/quellinghe-demo_3_onsuvere_waerheit-thumb.jpg"
 actualPrice: $6.50
 inStock: true
 ---

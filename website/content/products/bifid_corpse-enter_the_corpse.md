@@ -7,8 +7,8 @@ album: "Enter The Corpse"
 categories:
     - Tape
 images:
-    - "/images/covers/bifid_corpse-enter_the_corpse.png"
-thumbnailImage: "/images/covers/bifid_corpse-enter_the_corpse-thumb.png"
+    - "/images/covers/bifid_corpse-enter_the_corpse.jpg"
+thumbnailImage: "/images/covers/bifid_corpse-enter_the_corpse-thumb.jpg"
 actualPrice: $5.50
 inStock: true
 ---

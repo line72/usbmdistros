@@ -7,8 +7,8 @@ album: "Proverbial Lambs To The Ultimate Slaughter"
 categories:
     - Tape
 images:
-    - "/images/covers/faithxtractor-proverbial_lambs_to_the_ultimate_slaughter.png"
-thumbnailImage: "/images/covers/faithxtractor-proverbial_lambs_to_the_ultimate_slaughter-thumb.png"
+    - "/images/covers/faithxtractor-proverbial_lambs_to_the_ultimate_slaughter.jpg"
+thumbnailImage: "/images/covers/faithxtractor-proverbial_lambs_to_the_ultimate_slaughter-thumb.jpg"
 actualPrice: $4.50
 inStock: true
 ---

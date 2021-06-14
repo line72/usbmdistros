@@ -7,8 +7,8 @@ album: "Ersatz"
 categories:
     - Tape
 images:
-    - "/images/covers/khragkh-ersatz.png"
-thumbnailImage: "/images/covers/khragkh-ersatz-thumb.png"
+    - "/images/covers/khragkh-ersatz.jpg"
+thumbnailImage: "/images/covers/khragkh-ersatz-thumb.jpg"
 actualPrice: $4.00
 inStock: true
 ---

@@ -7,8 +7,8 @@ album: "Northern Forge / A.E.T.T.F"
 categories:
     - Tape
 images:
-    - "/images/covers/arnor-northern_forge_-_a.e.t.t.f.png"
-thumbnailImage: "/images/covers/arnor-northern_forge_-_a.e.t.t.f-thumb.png"
+    - "/images/covers/arnor-northern_forge_-_a.e.t.t.f.jpg"
+thumbnailImage: "/images/covers/arnor-northern_forge_-_a.e.t.t.f-thumb.jpg"
 actualPrice: $7.50
 inStock: true
 ---

@@ -7,8 +7,8 @@ album: "Ancient Woods Of Darkness"
 categories:
     - Tape
 images:
-    - "/images/covers/forest_of_doom-ancient_woods_of_darkness.png"
-thumbnailImage: "/images/covers/forest_of_doom-ancient_woods_of_darkness-thumb.png"
+    - "/images/covers/forest_of_doom-ancient_woods_of_darkness.jpg"
+thumbnailImage: "/images/covers/forest_of_doom-ancient_woods_of_darkness-thumb.jpg"
 actualPrice: $5.00
 inStock: true
 ---

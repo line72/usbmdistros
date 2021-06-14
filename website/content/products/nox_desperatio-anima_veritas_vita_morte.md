@@ -7,8 +7,8 @@ album: "Anima Veritas Vita Morte"
 categories:
     - Tape
 images:
-    - "/images/covers/nox_desperatio-anima_veritas_vita_morte.png"
-thumbnailImage: "/images/covers/nox_desperatio-anima_veritas_vita_morte-thumb.png"
+    - "/images/covers/nox_desperatio-anima_veritas_vita_morte.jpg"
+thumbnailImage: "/images/covers/nox_desperatio-anima_veritas_vita_morte-thumb.jpg"
 actualPrice: $5.00
 inStock: true
 ---

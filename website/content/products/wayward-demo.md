@@ -7,8 +7,8 @@ album: "Demo"
 categories:
     - Tape
 images:
-    - "/images/covers/wayward-demo.png"
-thumbnailImage: "/images/covers/wayward-demo-thumb.png"
+    - "/images/covers/wayward-demo.jpg"
+thumbnailImage: "/images/covers/wayward-demo-thumb.jpg"
 actualPrice: $4.00
 inStock: true
 ---

@@ -7,8 +7,8 @@ album: "The First And The Forgotten"
 categories:
     - Tape
 images:
-    - "/images/covers/caricature-the_first_and_the_forgotten.png"
-thumbnailImage: "/images/covers/caricature-the_first_and_the_forgotten-thumb.png"
+    - "/images/covers/caricature-the_first_and_the_forgotten.jpg"
+thumbnailImage: "/images/covers/caricature-the_first_and_the_forgotten-thumb.jpg"
 actualPrice: $6.00
 inStock: true
 ---

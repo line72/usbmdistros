@@ -7,8 +7,8 @@ album: "Cervix Remnants In Diocese"
 categories:
     - Tape
 images:
-    - "/images/covers/filth_column-cervix_remnants_in_diocese.png"
-thumbnailImage: "/images/covers/filth_column-cervix_remnants_in_diocese-thumb.png"
+    - "/images/covers/filth_column-cervix_remnants_in_diocese.jpg"
+thumbnailImage: "/images/covers/filth_column-cervix_remnants_in_diocese-thumb.jpg"
 actualPrice: $6.50
 inStock: true
 ---

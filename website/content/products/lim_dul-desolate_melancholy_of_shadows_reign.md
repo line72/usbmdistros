@@ -7,8 +7,8 @@ album: "Desolate Melancholy of Shadows Reign"
 categories:
     - Tape
 images:
-    - "/images/covers/lim_dul-desolate_melancholy_of_shadows_reign.png"
-thumbnailImage: "/images/covers/lim_dul-desolate_melancholy_of_shadows_reign-thumb.png"
+    - "/images/covers/lim_dul-desolate_melancholy_of_shadows_reign.jpg"
+thumbnailImage: "/images/covers/lim_dul-desolate_melancholy_of_shadows_reign-thumb.jpg"
 actualPrice: $10.00
 inStock: true
 ---

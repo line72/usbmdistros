@@ -7,8 +7,8 @@ album: "The Razors Edge"
 categories:
     - Tape
 images:
-    - "/images/covers/deglaver-the_razors_edge.png"
-thumbnailImage: "/images/covers/deglaver-the_razors_edge-thumb.png"
+    - "/images/covers/deglaver-the_razors_edge.jpg"
+thumbnailImage: "/images/covers/deglaver-the_razors_edge-thumb.jpg"
 actualPrice: $5.00
 inStock: true
 ---

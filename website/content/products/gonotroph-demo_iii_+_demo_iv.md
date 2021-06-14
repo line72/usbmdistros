@@ -7,8 +7,8 @@ album: "Demo III + Demo IV"
 categories:
     - Tape
 images:
-    - "/images/covers/gonotroph-demo_iii_+_demo_iv.png"
-thumbnailImage: "/images/covers/gonotroph-demo_iii_+_demo_iv-thumb.png"
+    - "/images/covers/gonotroph-demo_iii_+_demo_iv.jpg"
+thumbnailImage: "/images/covers/gonotroph-demo_iii_+_demo_iv-thumb.jpg"
 actualPrice: $10.00
 inStock: true
 ---

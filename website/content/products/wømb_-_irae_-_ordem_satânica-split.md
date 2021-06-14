@@ -7,8 +7,8 @@ album: "Split"
 categories:
     - Vinyl
 images:
-    - "/images/covers/wømb_-_irae_-_ordem_satânica-split.png"
-thumbnailImage: "/images/covers/wømb_-_irae_-_ordem_satânica-split-thumb.png"
+    - "/images/covers/wømb_-_irae_-_ordem_satânica-split.jpg"
+thumbnailImage: "/images/covers/wømb_-_irae_-_ordem_satânica-split-thumb.jpg"
 actualPrice: $27.00
 inStock: true
 ---

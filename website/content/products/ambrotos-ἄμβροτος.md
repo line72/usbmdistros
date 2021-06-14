@@ -7,8 +7,8 @@ album: "Ἄμβροτος"
 categories:
     - Tape
 images:
-    - "/images/covers/ambrotos-ἄμβροτος.png"
-thumbnailImage: "/images/covers/ambrotos-ἄμβροτος-thumb.png"
+    - "/images/covers/ambrotos-ἄμβροτος.jpg"
+thumbnailImage: "/images/covers/ambrotos-ἄμβροτος-thumb.jpg"
 actualPrice: $5.00
 inStock: true
 ---

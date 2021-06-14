@@ -7,8 +7,8 @@ album: "Schisma / The Cosmic Whore"
 categories:
     - Tape
 images:
-    - "/images/covers/vestibulum_vacuui_-_disequilibrium-schisma_-_the_cosmic_whore.png"
-thumbnailImage: "/images/covers/vestibulum_vacuui_-_disequilibrium-schisma_-_the_cosmic_whore-thumb.png"
+    - "/images/covers/vestibulum_vacuui_-_disequilibrium-schisma_-_the_cosmic_whore.jpg"
+thumbnailImage: "/images/covers/vestibulum_vacuui_-_disequilibrium-schisma_-_the_cosmic_whore-thumb.jpg"
 actualPrice: $6.00
 inStock: true
 ---

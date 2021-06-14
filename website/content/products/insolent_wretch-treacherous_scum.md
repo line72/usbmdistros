@@ -7,8 +7,8 @@ album: "Treacherous Scum"
 categories:
     - Tape
 images:
-    - "/images/covers/insolent_wretch-treacherous_scum.png"
-thumbnailImage: "/images/covers/insolent_wretch-treacherous_scum-thumb.png"
+    - "/images/covers/insolent_wretch-treacherous_scum.jpg"
+thumbnailImage: "/images/covers/insolent_wretch-treacherous_scum-thumb.jpg"
 actualPrice: $6.00
 inStock: true
 ---

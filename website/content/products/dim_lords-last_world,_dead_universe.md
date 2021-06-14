@@ -7,8 +7,8 @@ album: "Last World, Dead Universe"
 categories:
     - Tape
 images:
-    - "/images/covers/dim_lords-last_world,_dead_universe.png"
-thumbnailImage: "/images/covers/dim_lords-last_world,_dead_universe-thumb.png"
+    - "/images/covers/dim_lords-last_world,_dead_universe.jpg"
+thumbnailImage: "/images/covers/dim_lords-last_world,_dead_universe-thumb.jpg"
 actualPrice: $6.00
 inStock: true
 ---

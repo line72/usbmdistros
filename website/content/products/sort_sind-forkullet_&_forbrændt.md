@@ -7,8 +7,8 @@ album: "Forkullet & Forbrændt"
 categories:
     - Tape
 images:
-    - "/images/covers/sort_sind-forkullet_&_forbrændt.png"
-thumbnailImage: "/images/covers/sort_sind-forkullet_&_forbrændt-thumb.png"
+    - "/images/covers/sort_sind-forkullet_&_forbrændt.jpg"
+thumbnailImage: "/images/covers/sort_sind-forkullet_&_forbrændt-thumb.jpg"
 actualPrice: $8.50
 inStock: true
 ---

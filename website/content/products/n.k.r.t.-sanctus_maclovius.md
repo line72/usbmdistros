@@ -7,8 +7,8 @@ album: "Sanctus Maclovius"
 categories:
     - Vinyl
 images:
-    - "/images/covers/n.k.r.t.-sanctus_maclovius.png"
-thumbnailImage: "/images/covers/n.k.r.t.-sanctus_maclovius-thumb.png"
+    - "/images/covers/n.k.r.t.-sanctus_maclovius.jpg"
+thumbnailImage: "/images/covers/n.k.r.t.-sanctus_maclovius-thumb.jpg"
 actualPrice: $4.50
 inStock: true
 ---

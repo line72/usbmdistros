@@ -7,8 +7,8 @@ album: "Mutual Overkill Deterrence"
 categories:
     - Tape
 images:
-    - "/images/covers/eraser-mutual_overkill_deterrence.png"
-thumbnailImage: "/images/covers/eraser-mutual_overkill_deterrence-thumb.png"
+    - "/images/covers/eraser-mutual_overkill_deterrence.jpg"
+thumbnailImage: "/images/covers/eraser-mutual_overkill_deterrence-thumb.jpg"
 actualPrice: $7.50
 inStock: true
 ---

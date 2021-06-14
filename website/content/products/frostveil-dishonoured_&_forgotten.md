@@ -7,8 +7,8 @@ album: "Dishonoured & Forgotten"
 categories:
     - CD
 images:
-    - "/images/covers/frostveil-dishonoured_&_forgotten.png"
-thumbnailImage: "/images/covers/frostveil-dishonoured_&_forgotten-thumb.png"
+    - "/images/covers/frostveil-dishonoured_&_forgotten.jpg"
+thumbnailImage: "/images/covers/frostveil-dishonoured_&_forgotten-thumb.jpg"
 actualPrice: $13.00
 inStock: true
 ---

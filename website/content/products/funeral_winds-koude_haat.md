@@ -9,8 +9,8 @@ categories:
     - Tape
     - CD
 images:
-    - "/images/covers/funeral_winds-koude_haat.png"
-thumbnailImage: "/images/covers/funeral_winds-koude_haat-thumb.png"
+    - "/images/covers/funeral_winds-koude_haat.jpg"
+thumbnailImage: "/images/covers/funeral_winds-koude_haat-thumb.jpg"
 actualPrice: $10.00 - 25.00
 inStock: true
 ---

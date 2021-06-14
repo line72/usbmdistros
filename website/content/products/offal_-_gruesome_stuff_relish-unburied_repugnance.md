@@ -7,8 +7,8 @@ album: "Unburied Repugnance"
 categories:
     - Tape
 images:
-    - "/images/covers/offal_-_gruesome_stuff_relish-unburied_repugnance.png"
-thumbnailImage: "/images/covers/offal_-_gruesome_stuff_relish-unburied_repugnance-thumb.png"
+    - "/images/covers/offal_-_gruesome_stuff_relish-unburied_repugnance.jpg"
+thumbnailImage: "/images/covers/offal_-_gruesome_stuff_relish-unburied_repugnance-thumb.jpg"
 actualPrice: $7.50
 inStock: true
 ---

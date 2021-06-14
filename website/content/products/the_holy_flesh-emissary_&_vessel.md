@@ -7,8 +7,8 @@ album: "Emissary & Vessel"
 categories:
     - Tape
 images:
-    - "/images/covers/the_holy_flesh-emissary_&_vessel.png"
-thumbnailImage: "/images/covers/the_holy_flesh-emissary_&_vessel-thumb.png"
+    - "/images/covers/the_holy_flesh-emissary_&_vessel.jpg"
+thumbnailImage: "/images/covers/the_holy_flesh-emissary_&_vessel-thumb.jpg"
 actualPrice: $6.00
 inStock: true
 ---

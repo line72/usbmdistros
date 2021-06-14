@@ -7,8 +7,8 @@ album: "Blood Oath"
 categories:
     - CD
 images:
-    - "/images/covers/rituals_of_the_dead_hand-blood_oath.png"
-thumbnailImage: "/images/covers/rituals_of_the_dead_hand-blood_oath-thumb.png"
+    - "/images/covers/rituals_of_the_dead_hand-blood_oath.jpg"
+thumbnailImage: "/images/covers/rituals_of_the_dead_hand-blood_oath-thumb.jpg"
 actualPrice: $8.00
 inStock: true
 ---

@@ -7,8 +7,8 @@ album: "Self-Titled Ep"
 categories:
     - Tape
 images:
-    - "/images/covers/ritual_clearing-self-titled_ep.png"
-thumbnailImage: "/images/covers/ritual_clearing-self-titled_ep-thumb.png"
+    - "/images/covers/ritual_clearing-self-titled_ep.jpg"
+thumbnailImage: "/images/covers/ritual_clearing-self-titled_ep-thumb.jpg"
 actualPrice: $6.50
 inStock: true
 ---

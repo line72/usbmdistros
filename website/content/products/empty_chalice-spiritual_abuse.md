@@ -7,8 +7,8 @@ album: "Spiritual Abuse"
 categories:
     - Tape
 images:
-    - "/images/covers/empty_chalice-spiritual_abuse.png"
-thumbnailImage: "/images/covers/empty_chalice-spiritual_abuse-thumb.png"
+    - "/images/covers/empty_chalice-spiritual_abuse.jpg"
+thumbnailImage: "/images/covers/empty_chalice-spiritual_abuse-thumb.jpg"
 actualPrice: $8.00
 inStock: true
 ---

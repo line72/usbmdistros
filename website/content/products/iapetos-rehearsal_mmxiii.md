@@ -7,8 +7,8 @@ album: "Rehearsal Mmxiii"
 categories:
     - Tape
 images:
-    - "/images/covers/iapetos-rehearsal_mmxiii.png"
-thumbnailImage: "/images/covers/iapetos-rehearsal_mmxiii-thumb.png"
+    - "/images/covers/iapetos-rehearsal_mmxiii.jpg"
+thumbnailImage: "/images/covers/iapetos-rehearsal_mmxiii-thumb.jpg"
 actualPrice: $3.00
 inStock: true
 ---

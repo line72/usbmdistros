@@ -7,8 +7,8 @@ album: "Ascensión Omnisciente Del Eter"
 categories:
     - Tape
 images:
-    - "/images/covers/coffin_rags-ascensión_omnisciente_del_eter.png"
-thumbnailImage: "/images/covers/coffin_rags-ascensión_omnisciente_del_eter-thumb.png"
+    - "/images/covers/coffin_rags-ascensión_omnisciente_del_eter.jpg"
+thumbnailImage: "/images/covers/coffin_rags-ascensión_omnisciente_del_eter-thumb.jpg"
 actualPrice: $8.00
 inStock: true
 ---

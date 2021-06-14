@@ -7,8 +7,8 @@ album: "Perdition Cult"
 categories:
     - Vinyl
 images:
-    - "/images/covers/act_of_impalement-perdition_cult.png"
-thumbnailImage: "/images/covers/act_of_impalement-perdition_cult-thumb.png"
+    - "/images/covers/act_of_impalement-perdition_cult.jpg"
+thumbnailImage: "/images/covers/act_of_impalement-perdition_cult-thumb.jpg"
 actualPrice: $8.50
 inStock: true
 ---

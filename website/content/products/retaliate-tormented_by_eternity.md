@@ -7,8 +7,8 @@ album: "Tormented By Eternity"
 categories:
     - Tape
 images:
-    - "/images/covers/retaliate-tormented_by_eternity.png"
-thumbnailImage: "/images/covers/retaliate-tormented_by_eternity-thumb.png"
+    - "/images/covers/retaliate-tormented_by_eternity.jpg"
+thumbnailImage: "/images/covers/retaliate-tormented_by_eternity-thumb.jpg"
 actualPrice: $5.00
 inStock: true
 ---

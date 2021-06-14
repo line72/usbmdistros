@@ -7,8 +7,8 @@ album: "The Enslavement Conquest"
 categories:
     - Tape
 images:
-    - "/images/covers/begrime_exemious-the_enslavement_conquest.png"
-thumbnailImage: "/images/covers/begrime_exemious-the_enslavement_conquest-thumb.png"
+    - "/images/covers/begrime_exemious-the_enslavement_conquest.jpg"
+thumbnailImage: "/images/covers/begrime_exemious-the_enslavement_conquest-thumb.jpg"
 actualPrice: $5.00
 inStock: true
 ---

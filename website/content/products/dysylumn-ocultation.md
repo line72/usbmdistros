@@ -7,8 +7,8 @@ album: "Ocultation"
 categories:
     - Vinyl
 images:
-    - "/images/covers/dysylumn-ocultation.png"
-thumbnailImage: "/images/covers/dysylumn-ocultation-thumb.png"
+    - "/images/covers/dysylumn-ocultation.jpg"
+thumbnailImage: "/images/covers/dysylumn-ocultation-thumb.jpg"
 actualPrice: $25.00
 inStock: true
 ---

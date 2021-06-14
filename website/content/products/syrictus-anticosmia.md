@@ -7,8 +7,8 @@ album: "Anticosmia"
 categories:
     - Tape
 images:
-    - "/images/covers/syrictus-anticosmia.png"
-thumbnailImage: "/images/covers/syrictus-anticosmia-thumb.png"
+    - "/images/covers/syrictus-anticosmia.jpg"
+thumbnailImage: "/images/covers/syrictus-anticosmia-thumb.jpg"
 actualPrice: $4.50
 inStock: true
 ---

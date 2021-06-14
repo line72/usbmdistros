@@ -7,8 +7,8 @@ album: "Tri"
 categories:
     - CD
 images:
-    - "/images/covers/molog-tri.png"
-thumbnailImage: "/images/covers/molog-tri-thumb.png"
+    - "/images/covers/molog-tri.jpg"
+thumbnailImage: "/images/covers/molog-tri-thumb.jpg"
 actualPrice: $13.00
 inStock: true
 ---

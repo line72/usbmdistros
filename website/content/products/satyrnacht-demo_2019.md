@@ -7,8 +7,8 @@ album: "Demo 2019"
 categories:
     - Tape
 images:
-    - "/images/covers/satyrnacht-demo_2019.png"
-thumbnailImage: "/images/covers/satyrnacht-demo_2019-thumb.png"
+    - "/images/covers/satyrnacht-demo_2019.jpg"
+thumbnailImage: "/images/covers/satyrnacht-demo_2019-thumb.jpg"
 actualPrice: $5.00
 inStock: true
 ---

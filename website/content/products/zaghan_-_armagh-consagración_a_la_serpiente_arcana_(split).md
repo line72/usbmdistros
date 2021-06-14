@@ -7,8 +7,8 @@ album: "Consagración A La Serpiente Arcana (Split)"
 categories:
     - Tape
 images:
-    - "/images/covers/zaghan_-_armagh-consagración_a_la_serpiente_arcana_(split).png"
-thumbnailImage: "/images/covers/zaghan_-_armagh-consagración_a_la_serpiente_arcana_(split)-thumb.png"
+    - "/images/covers/zaghan_-_armagh-consagración_a_la_serpiente_arcana_(split).jpg"
+thumbnailImage: "/images/covers/zaghan_-_armagh-consagración_a_la_serpiente_arcana_(split)-thumb.jpg"
 actualPrice: $6.00
 inStock: true
 ---

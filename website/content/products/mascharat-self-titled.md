@@ -7,8 +7,8 @@ album: "Self-Titled"
 categories:
     - Tape
 images:
-    - "/images/covers/mascharat-self-titled.png"
-thumbnailImage: "/images/covers/mascharat-self-titled-thumb.png"
+    - "/images/covers/mascharat-self-titled.jpg"
+thumbnailImage: "/images/covers/mascharat-self-titled-thumb.jpg"
 actualPrice: $5.50
 inStock: true
 ---

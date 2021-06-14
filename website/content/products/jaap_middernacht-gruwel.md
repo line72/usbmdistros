@@ -7,8 +7,8 @@ album: "Gruwel"
 categories:
     - Tape
 images:
-    - "/images/covers/jaap_middernacht-gruwel.png"
-thumbnailImage: "/images/covers/jaap_middernacht-gruwel-thumb.png"
+    - "/images/covers/jaap_middernacht-gruwel.jpg"
+thumbnailImage: "/images/covers/jaap_middernacht-gruwel-thumb.jpg"
 actualPrice: $5.00
 inStock: true
 ---

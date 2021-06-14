@@ -7,8 +7,8 @@ album: "s/t"
 categories:
     - CD
 images:
-    - "/images/covers/poccolus-s-t.png"
-thumbnailImage: "/images/covers/poccolus-s-t-thumb.png"
+    - "/images/covers/poccolus-s-t.jpg"
+thumbnailImage: "/images/covers/poccolus-s-t-thumb.jpg"
 actualPrice: $15.00
 inStock: true
 ---

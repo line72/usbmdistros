@@ -7,8 +7,8 @@ album: "Sonic  Physical Chants Of Deprecation"
 categories:
     - Tape
 images:
-    - "/images/covers/vitreous-sonic__physical_chants_of_deprecation.png"
-thumbnailImage: "/images/covers/vitreous-sonic__physical_chants_of_deprecation-thumb.png"
+    - "/images/covers/vitreous-sonic__physical_chants_of_deprecation.jpg"
+thumbnailImage: "/images/covers/vitreous-sonic__physical_chants_of_deprecation-thumb.jpg"
 actualPrice: $4.00
 inStock: true
 ---

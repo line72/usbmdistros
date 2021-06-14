@@ -7,8 +7,8 @@ album: "Demo VI + Demo VII"
 categories:
     - Vinyl
 images:
-    - "/images/covers/ātesh-demo_vi_+_demo_vii.png"
-thumbnailImage: "/images/covers/ātesh-demo_vi_+_demo_vii-thumb.png"
+    - "/images/covers/ātesh-demo_vi_+_demo_vii.jpg"
+thumbnailImage: "/images/covers/ātesh-demo_vi_+_demo_vii-thumb.jpg"
 actualPrice: $40.00
 inStock: true
 ---

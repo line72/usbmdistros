@@ -7,8 +7,8 @@ album: "Rehearsal Ensayo De Muerte"
 categories:
     - Tape
 images:
-    - "/images/covers/macabro_genocidio-rehearsal_ensayo_de_muerte.png"
-thumbnailImage: "/images/covers/macabro_genocidio-rehearsal_ensayo_de_muerte-thumb.png"
+    - "/images/covers/macabro_genocidio-rehearsal_ensayo_de_muerte.jpg"
+thumbnailImage: "/images/covers/macabro_genocidio-rehearsal_ensayo_de_muerte-thumb.jpg"
 actualPrice: $5.00
 inStock: true
 ---

@@ -7,8 +7,8 @@ album: "Tulisilma Sünd"
 categories:
     - Tape
 images:
-    - "/images/covers/loits-tulisilma_sünd.png"
-thumbnailImage: "/images/covers/loits-tulisilma_sünd-thumb.png"
+    - "/images/covers/loits-tulisilma_sünd.jpg"
+thumbnailImage: "/images/covers/loits-tulisilma_sünd-thumb.jpg"
 actualPrice: $7.00
 inStock: true
 ---

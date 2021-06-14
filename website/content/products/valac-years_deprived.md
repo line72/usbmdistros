@@ -7,8 +7,8 @@ album: "Years Deprived"
 categories:
     - CD
 images:
-    - "/images/covers/valac-years_deprived.png"
-thumbnailImage: "/images/covers/valac-years_deprived-thumb.png"
+    - "/images/covers/valac-years_deprived.jpg"
+thumbnailImage: "/images/covers/valac-years_deprived-thumb.jpg"
 actualPrice: $14.00
 inStock: true
 ---

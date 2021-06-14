@@ -7,8 +7,8 @@ album: "Chivalry Of Death"
 categories:
     - CD
 images:
-    - "/images/covers/boia-chivalry_of_death.png"
-thumbnailImage: "/images/covers/boia-chivalry_of_death-thumb.png"
+    - "/images/covers/boia-chivalry_of_death.jpg"
+thumbnailImage: "/images/covers/boia-chivalry_of_death-thumb.jpg"
 actualPrice: $6.00
 inStock: true
 ---

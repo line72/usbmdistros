@@ -7,8 +7,8 @@ album: "Gyddigg - Possessed By The Fury Of Wod"
 categories:
     - Tape
 images:
-    - "/images/covers/symbel-gyddigg_-_possessed_by_the_fury_of_wod.png"
-thumbnailImage: "/images/covers/symbel-gyddigg_-_possessed_by_the_fury_of_wod-thumb.png"
+    - "/images/covers/symbel-gyddigg_-_possessed_by_the_fury_of_wod.jpg"
+thumbnailImage: "/images/covers/symbel-gyddigg_-_possessed_by_the_fury_of_wod-thumb.jpg"
 actualPrice: $7.00
 inStock: true
 ---

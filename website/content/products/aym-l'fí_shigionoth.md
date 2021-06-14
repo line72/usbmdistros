@@ -7,8 +7,8 @@ album: "L'fí Shigionoth"
 categories:
     - CD
 images:
-    - "/images/covers/aym-l'fí_shigionoth.png"
-thumbnailImage: "/images/covers/aym-l'fí_shigionoth-thumb.png"
+    - "/images/covers/aym-l'fí_shigionoth.jpg"
+thumbnailImage: "/images/covers/aym-l'fí_shigionoth-thumb.jpg"
 actualPrice: $12.00
 inStock: true
 ---

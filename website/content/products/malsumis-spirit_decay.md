@@ -7,8 +7,8 @@ album: "Spirit Decay"
 categories:
     - Tape
 images:
-    - "/images/covers/malsumis-spirit_decay.png"
-thumbnailImage: "/images/covers/malsumis-spirit_decay-thumb.png"
+    - "/images/covers/malsumis-spirit_decay.jpg"
+thumbnailImage: "/images/covers/malsumis-spirit_decay-thumb.jpg"
 actualPrice: $5.00
 inStock: true
 ---

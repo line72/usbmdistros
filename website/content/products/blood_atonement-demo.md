@@ -7,8 +7,8 @@ album: "Demo"
 categories:
     - Tape
 images:
-    - "/images/covers/blood_atonement-demo.png"
-thumbnailImage: "/images/covers/blood_atonement-demo-thumb.png"
+    - "/images/covers/blood_atonement-demo.jpg"
+thumbnailImage: "/images/covers/blood_atonement-demo-thumb.jpg"
 actualPrice: $4.00
 inStock: true
 ---

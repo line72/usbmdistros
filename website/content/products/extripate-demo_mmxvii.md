@@ -7,8 +7,8 @@ album: "Demo MMXVII"
 categories:
     - Tape
 images:
-    - "/images/covers/extripate-demo_mmxvii.png"
-thumbnailImage: "/images/covers/extripate-demo_mmxvii-thumb.png"
+    - "/images/covers/extripate-demo_mmxvii.jpg"
+thumbnailImage: "/images/covers/extripate-demo_mmxvii-thumb.jpg"
 actualPrice: $8.00
 inStock: true
 ---

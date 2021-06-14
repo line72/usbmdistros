@@ -7,8 +7,8 @@ album: "Apathy"
 categories:
     - CD
 images:
-    - "/images/covers/smelling_fetid_corpse_(sxfxcx)-apathy.png"
-thumbnailImage: "/images/covers/smelling_fetid_corpse_(sxfxcx)-apathy-thumb.png"
+    - "/images/covers/smelling_fetid_corpse_(sxfxcx)-apathy.jpg"
+thumbnailImage: "/images/covers/smelling_fetid_corpse_(sxfxcx)-apathy-thumb.jpg"
 actualPrice: $7.00
 inStock: true
 ---

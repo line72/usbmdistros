@@ -7,8 +7,8 @@ album: "Basileus"
 categories:
     - Tape
 images:
-    - "/images/covers/nigajyo-basileus.png"
-thumbnailImage: "/images/covers/nigajyo-basileus-thumb.png"
+    - "/images/covers/nigajyo-basileus.jpg"
+thumbnailImage: "/images/covers/nigajyo-basileus-thumb.jpg"
 actualPrice: $4.50
 inStock: true
 ---

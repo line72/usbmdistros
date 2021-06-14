@@ -7,8 +7,8 @@ album: "Ready To Kill"
 categories:
     - Tape
 images:
-    - "/images/covers/maze__of_terror-ready_to_kill.png"
-thumbnailImage: "/images/covers/maze__of_terror-ready_to_kill-thumb.png"
+    - "/images/covers/maze__of_terror-ready_to_kill.jpg"
+thumbnailImage: "/images/covers/maze__of_terror-ready_to_kill-thumb.jpg"
 actualPrice: $8.00
 inStock: true
 ---

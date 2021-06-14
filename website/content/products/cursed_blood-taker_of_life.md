@@ -7,8 +7,8 @@ album: "Taker Of Life"
 categories:
     - Tape
 images:
-    - "/images/covers/cursed_blood-taker_of_life.png"
-thumbnailImage: "/images/covers/cursed_blood-taker_of_life-thumb.png"
+    - "/images/covers/cursed_blood-taker_of_life.jpg"
+thumbnailImage: "/images/covers/cursed_blood-taker_of_life-thumb.jpg"
 actualPrice: $3.00
 inStock: true
 ---

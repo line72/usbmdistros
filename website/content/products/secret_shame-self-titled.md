@@ -7,8 +7,8 @@ album: "Self-Titled"
 categories:
     - Tape
 images:
-    - "/images/covers/secret_shame-self-titled.png"
-thumbnailImage: "/images/covers/secret_shame-self-titled-thumb.png"
+    - "/images/covers/secret_shame-self-titled.jpg"
+thumbnailImage: "/images/covers/secret_shame-self-titled-thumb.jpg"
 actualPrice: $6.00
 inStock: true
 ---

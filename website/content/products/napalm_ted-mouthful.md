@@ -7,8 +7,8 @@ album: "Mouthful"
 categories:
     - Tape
 images:
-    - "/images/covers/napalm_ted-mouthful.png"
-thumbnailImage: "/images/covers/napalm_ted-mouthful-thumb.png"
+    - "/images/covers/napalm_ted-mouthful.jpg"
+thumbnailImage: "/images/covers/napalm_ted-mouthful-thumb.jpg"
 actualPrice: $4.00
 inStock: true
 ---

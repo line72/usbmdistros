@@ -7,8 +7,8 @@ album: "Delve Into The Mysteries Of Transcendence"
 categories:
     - Tape
 images:
-    - "/images/covers/suspiral-delve_into_the_mysteries_of_transcendence.png"
-thumbnailImage: "/images/covers/suspiral-delve_into_the_mysteries_of_transcendence-thumb.png"
+    - "/images/covers/suspiral-delve_into_the_mysteries_of_transcendence.jpg"
+thumbnailImage: "/images/covers/suspiral-delve_into_the_mysteries_of_transcendence-thumb.jpg"
 actualPrice: $8.00
 inStock: true
 ---

@@ -7,8 +7,8 @@ album: "Take This Torch"
 categories:
     - Vinyl
 images:
-    - "/images/covers/nuclear_devastation-take_this_torch.png"
-thumbnailImage: "/images/covers/nuclear_devastation-take_this_torch-thumb.png"
+    - "/images/covers/nuclear_devastation-take_this_torch.jpg"
+thumbnailImage: "/images/covers/nuclear_devastation-take_this_torch-thumb.jpg"
 actualPrice: $4.00
 inStock: true
 ---

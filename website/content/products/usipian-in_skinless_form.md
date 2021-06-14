@@ -7,8 +7,8 @@ album: "In Skinless Form"
 categories:
     - Tape
 images:
-    - "/images/covers/usipian-in_skinless_form.png"
-thumbnailImage: "/images/covers/usipian-in_skinless_form-thumb.png"
+    - "/images/covers/usipian-in_skinless_form.jpg"
+thumbnailImage: "/images/covers/usipian-in_skinless_form-thumb.jpg"
 actualPrice: $8.00
 inStock: true
 ---

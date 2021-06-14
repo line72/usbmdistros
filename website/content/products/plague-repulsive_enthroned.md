@@ -7,8 +7,8 @@ album: "Repulsive Enthroned"
 categories:
     - Tape
 images:
-    - "/images/covers/plague-repulsive_enthroned.png"
-thumbnailImage: "/images/covers/plague-repulsive_enthroned-thumb.png"
+    - "/images/covers/plague-repulsive_enthroned.jpg"
+thumbnailImage: "/images/covers/plague-repulsive_enthroned-thumb.jpg"
 actualPrice: $7.00
 inStock: true
 ---

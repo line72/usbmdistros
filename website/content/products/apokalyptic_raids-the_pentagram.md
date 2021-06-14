@@ -7,8 +7,8 @@ album: "The Pentagram"
 categories:
     - Tape
 images:
-    - "/images/covers/apokalyptic_raids-the_pentagram.png"
-thumbnailImage: "/images/covers/apokalyptic_raids-the_pentagram-thumb.png"
+    - "/images/covers/apokalyptic_raids-the_pentagram.jpg"
+thumbnailImage: "/images/covers/apokalyptic_raids-the_pentagram-thumb.jpg"
 actualPrice: $7.50
 inStock: true
 ---

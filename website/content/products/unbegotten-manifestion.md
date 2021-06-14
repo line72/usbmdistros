@@ -7,8 +7,8 @@ album: "Manifestion"
 categories:
     - Tape
 images:
-    - "/images/covers/unbegotten-manifestion.png"
-thumbnailImage: "/images/covers/unbegotten-manifestion-thumb.png"
+    - "/images/covers/unbegotten-manifestion.jpg"
+thumbnailImage: "/images/covers/unbegotten-manifestion-thumb.jpg"
 actualPrice: $6.00
 inStock: true
 ---

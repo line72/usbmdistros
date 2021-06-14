@@ -7,8 +7,8 @@ album: "Мёртвая Голова"
 categories:
     - Tape
 images:
-    - "/images/covers/спидвич_(spidvich)-мёртвая_голова.png"
-thumbnailImage: "/images/covers/спидвич_(spidvich)-мёртвая_голова-thumb.png"
+    - "/images/covers/спидвич_(spidvich)-мёртвая_голова.jpg"
+thumbnailImage: "/images/covers/спидвич_(spidvich)-мёртвая_голова-thumb.jpg"
 actualPrice: $7.00
 inStock: true
 ---

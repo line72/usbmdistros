@@ -7,8 +7,8 @@ album: "Satanic Fortification Overbalance"
 categories:
     - Tape
 images:
-    - "/images/covers/yxxan-satanic_fortification_overbalance.png"
-thumbnailImage: "/images/covers/yxxan-satanic_fortification_overbalance-thumb.png"
+    - "/images/covers/yxxan-satanic_fortification_overbalance.jpg"
+thumbnailImage: "/images/covers/yxxan-satanic_fortification_overbalance-thumb.jpg"
 actualPrice: $10.00
 inStock: true
 ---

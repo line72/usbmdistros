@@ -7,8 +7,8 @@ album: "Conqueror of the Golden Horde / Metal Bitch Violator"
 categories:
     - CD
 images:
-    - "/images/covers/inferno_requiem_-_abigail-conqueror_of_the_golden_horde_-_metal_bitch_violator.png"
-thumbnailImage: "/images/covers/inferno_requiem_-_abigail-conqueror_of_the_golden_horde_-_metal_bitch_violator-thumb.png"
+    - "/images/covers/inferno_requiem_-_abigail-conqueror_of_the_golden_horde_-_metal_bitch_violator.jpg"
+thumbnailImage: "/images/covers/inferno_requiem_-_abigail-conqueror_of_the_golden_horde_-_metal_bitch_violator-thumb.jpg"
 actualPrice: $11.00
 inStock: true
 ---

@@ -7,8 +7,8 @@ album: "Demo 2017"
 categories:
     - Tape
 images:
-    - "/images/covers/noose-demo_2017.png"
-thumbnailImage: "/images/covers/noose-demo_2017-thumb.png"
+    - "/images/covers/noose-demo_2017.jpg"
+thumbnailImage: "/images/covers/noose-demo_2017-thumb.jpg"
 actualPrice: $4.00
 inStock: true
 ---

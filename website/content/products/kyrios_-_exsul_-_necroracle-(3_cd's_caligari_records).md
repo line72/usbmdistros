@@ -7,8 +7,8 @@ album: "(3 Cd'S Caligari Records)"
 categories:
     - CD
 images:
-    - "/images/covers/kyrios_-_exsul_-_necroracle-(3_cd's_caligari_records).png"
-thumbnailImage: "/images/covers/kyrios_-_exsul_-_necroracle-(3_cd's_caligari_records)-thumb.png"
+    - "/images/covers/kyrios_-_exsul_-_necroracle-(3_cd's_caligari_records).jpg"
+thumbnailImage: "/images/covers/kyrios_-_exsul_-_necroracle-(3_cd's_caligari_records)-thumb.jpg"
 actualPrice: $20.00
 inStock: true
 ---
