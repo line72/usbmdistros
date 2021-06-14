@@ -4,6 +4,7 @@
 # Released under the GPLv3
 
 from .Album import Album
+from .Cover import Cover
 from .DB import DB
 from .OutputWriter import OutputWriter
 from .Product import Product

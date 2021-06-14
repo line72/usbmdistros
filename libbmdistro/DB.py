@@ -7,11 +7,12 @@ import datetime
 import sqlite3
 
 from .Album import Album
+from .Cover import Cover
 from .Product import Product
 from .Store import Store
 
 class DB:
-    VERSION = 1
+    VERSION = 2
     
     def __init__(self):
         self.conn = sqlite3.connect('bmdistro.db', detect_types = sqlite3.PARSE_DECLTYPES | sqlite3.PARSE_COLNAMES)
@@ -27,12 +28,23 @@ class DB:
         resp = cur.execute('''SELECT * FROM stores ORDER BY name''')
         return map(lambda i: Store(i['id'], i['name'], i['url']), resp)
         
-    def get_all_albums(self):
+    def get_all_albums(self, preload_covers = False):
         # a cursors iterator is shared
         #  so create a new one
         cur = self.conn.cursor()
         resp = cur.execute('''SELECT * FROM albums ORDER BY id''')
-        return map(lambda i: Album(i['id'], i['artist'], i['title']), resp)
+
+        def load_covers(i):
+            a = Album(i['id'], i['artist'], i['title'])
+            
+            if preload_covers:
+                cur2 = self.conn.cursor()
+                resp = cur2.execute('''SELECT * from covers WHERE album_id = ? ORDER BY id''', (i['id'],))
+                a.covers = list(map(lambda c: Cover(c['id'], c['url'], c['official']), resp))
+
+            return a
+        
+        return map(load_covers, resp)
 
     def get_products_for_album(self, album):
         # a cursors iterator is shared
@@ -166,17 +178,57 @@ class DB:
             
         return True
 
-        
+    def add_cover(self, album, url, official = False):
+        def fetchone():
+            resp = self.cursor.execute(
+                '''
+                SELECT * FROM covers
+                WHERE
+                  album_id = ? AND
+                  url = ?
+                LIMIT 1
+                ''', (album.aId, url))
+            return resp.fetchone()
+
+        p = fetchone()
+        if not p:
+            self.cursor.execute(
+                '''
+                INSERT INTO covers
+                  (album_id, url, official)
+                VALUES (?, ?, ?)
+                ''', (album.aId, url, official))
+            self.conn.commit()
+
+        return True
+    
     ## Private ##
     def create_verify_database(self):
+        self.cursor.execute(
+            '''
+            CREATE TABLE IF NOT EXISTS version (
+              version INTEGER default %s
+            );
+            ''' % DB.VERSION)
+
+        self.conn.commit()
+
+        # verify the version
+        e = self.cursor.execute('''SELECT version from version LIMIT 1''')
+        r = e.fetchone()
+        if r is None:
+            # first time, set the version
+            self.cursor.execute('''INSERT INTO version VALUES (?)''', (DB.VERSION,))
+            self.conn.commit()
+        elif r[0] != DB.VERSION:
+            raise Exception('Database is out of date. Please migrate or remove')
+
         self.cursor.execute(
             '''
             CREATE TABLE IF NOT EXISTS albums (
               id INTEGER PRIMARY KEY AUTOINCREMENT,
               artist TEXT,
               title TEXT,
-              cover TEXT,
-              thumbnail TEXT,
               inserted_at TEXT default (datetime(current_timestamp)),
               updated_at TEXT default (datetime(current_timestamp))
             )
@@ -215,25 +267,19 @@ class DB:
             )
             ''')
 
-        self.cursor.execute('''CREATE INDEX IF NOT EXISTS sku_index ON products(sku)''')
-        
         self.cursor.execute(
             '''
-            CREATE TABLE IF NOT EXISTS version (
-              version INTEGER default 1
-            );
+            CREATE TABLE IF NOT EXISTS covers (
+              id INTEGER PRIMARY KEY AUTOINCREMENT,
+              album_id INTEGER,
+              url TEXT,
+              official INTEGER,
+              inserted_at TEXT default (datetime(current_timestamp)),
+              updated_at TEXT default (datetime(current_timestamp)),
+              FOREIGN KEY(album_id) REFERENCES albums(id)
+            )
             ''')
 
-        self.conn.commit()
-
-        # verify the version
-        e = self.cursor.execute('''SELECT version from version LIMIT 1''')
-        r = e.fetchone()
-        if r is None:
-            # first time, set the version
-            self.cursor.execute('''INSERT INTO version VALUES (?)''', (DB.VERSION,))
-            self.conn.commit()
-        elif r[0] != DB.VERSION:
-            raise Exception('Database is out of date. Please migrate or remove')
+        self.cursor.execute('''CREATE INDEX IF NOT EXISTS sku_index ON products(sku)''')        
 
         return True

@@ -8,6 +8,7 @@ class Album:
         self.aId = aId
         self.artist = artist
         self.title = title
+        self.covers = []
 
     def __str__(self):
         return f"<Album::{self.artist}-{self.title}>"

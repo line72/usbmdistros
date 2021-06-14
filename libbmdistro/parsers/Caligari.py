@@ -58,7 +58,10 @@ class Caligari(Parser):
         if item_type == None:
             return None
 
+        
         album = db.get_album(artist, title)
+        for img in entry['photos']:
+            db.add_cover(album, f"https:{img['photo']['original']}")
 
         return Product(None, pId, album, self.store, link, item_type, price, Product.STOCK_UNKNOWN, -1, description)
 

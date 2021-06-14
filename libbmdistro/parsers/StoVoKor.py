@@ -36,9 +36,9 @@ class StoVoKor(Parser):
 
     def parseItem(self, db, entry):
         pId = entry['id']
-        artist, album = entry['title'].split(sep = '-', maxsplit = 1)
+        artist, title = entry['title'].split(sep = '-', maxsplit = 1)
         artist = artist.strip()
-        album = self.split_album_type(album)
+        title = self.split_album_type(title)
         item_type = entry['product_type']
         price = int(float(entry['variants'][0]['price']) * 100)
 
@@ -46,7 +46,11 @@ class StoVoKor(Parser):
         u = urllib.parse.urlparse(self.feed)
         link = f'{u.scheme}://{u.netloc}/products/{handle}'
 
-        album = db.get_album(artist, album)
+        images = [i['src'] for i in entry['images']]
+        
+        album = db.get_album(artist, title)
+        for img in images:
+            db.add_cover(album, img)
         
         return Product(None, pId, album, self.store, link, item_type, price, Product.STOCK_UNKNOWN, -1)
 

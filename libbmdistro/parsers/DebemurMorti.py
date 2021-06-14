@@ -54,6 +54,8 @@ class DebemurMorti(Parser):
         u = urllib.parse.urlparse(self.feed)
         url = f'{u.scheme}://{u.netloc}{link}'
 
+        img_url = entry.find('a', 'pImg').find('img')['src']
+        
         in_stock = Product.STOCK_UNKNOWN
         quantity = -1
 
@@ -63,6 +65,8 @@ class DebemurMorti(Parser):
         pId = link
         
         album = db.get_album(artist, album)
+        db.add_cover(album, img_url)
+        
         return Product(None, pId, album, self.store, url, item_type, price, in_stock, quantity, description)
 
     def parse_price(self, p):

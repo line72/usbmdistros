@@ -71,11 +71,12 @@ class ArcaneAltar(Parser):
         album, item_type = self.split_album_type(rest)
         price = int(float(self.get_price(entry['g_price'])) * 100)
         availability = entry['g_availability']
-        #img_link = entry['g_image_link']
+        img_link = entry['g_image_link']
         
         in_stock = Product.STOCK_IN_STOCK if availability == 'in stock' else Product.STOCK_OUT_OF_STOCK
         
         album = db.get_album(artist, album)
+        db.add_cover(album, img_link)
 
         return Product(None, pId, album, self.store, entry['g_link'], item_type, price, in_stock, -1)
 

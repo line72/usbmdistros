@@ -43,8 +43,8 @@ class OutputWriter:
                 f.write(f' * [{store.name}]({store.url})\n')
 
         # Write out the products
-        for album in db.get_all_albums():
-            print('parsing', album)
+        for album in db.get_all_albums(True):
+            print('parsing', album, album.covers)
 
             products = list(db.get_products_for_album(album))
             grouped_products = itertools.groupby(sorted(products,
@@ -59,7 +59,7 @@ class OutputWriter:
             s = s.replace('/', '-').replace('*', '').replace(' ', '_')
             
             # check the cache or download the artwork
-            (cover, thumb) = self.download_artwork(album.artist, album.title, s)
+            (cover, thumb) = self.download_artwork(db, album, s)
             if cover:
                 shutil.copy(cover, os.path.join(image_dir, os.path.basename(cover)))
             if thumb:
@@ -115,8 +115,8 @@ class OutputWriter:
     def format_price(self, p):
         return '{0:.2f}'.format(p / 100.)
         
-    def download_artwork(self, artist, album, name):
-        print(f'Downloading artwork for {artist} - {album}')
+    def download_artwork(self, db, album, name):
+        print(f'Downloading artwork for {album.artist} - {album.title}')
         try: os.makedirs('__cache__')
         except OSError: pass
         
@@ -129,8 +129,18 @@ class OutputWriter:
         cover = os.path.join('__cache__', name + '.jpg')
         cover_thumbnail = os.path.join('__cache__', name + '-thumb.jpg')
         
+
+        # check if we have an official one our database
+        officials = filter(lambda c: c.official, album.covers)
+        for o in officials:
+            try:
+                return self.do_download(o.url, cover, cover_thumbnail)
+            except requests.exceptions.HTTPError as e:
+                pass
+
+        # move on to downloading from music brainz
         params = {
-            'query': f'artist:{artist} AND album:{album}'
+            'query': f'artist:{album.artist} AND album:{album.title}'
         }
         r = requests.get('https://musicbrainz.org/ws/2/release/',
                          params = params,
@@ -140,7 +150,7 @@ class OutputWriter:
         try:
             releases = r.json()['releases']
 
-            while True:
+            while len(releases) > 0:
                 release = releases.pop()
                 if release['score'] < 100:
                     continue
@@ -149,21 +159,26 @@ class OutputWriter:
 
                 print('Downloading', rid)
                 try:
-                    r = requests.get(f'https://coverartarchive.org/release/{rid}/front')
-                    r.raise_for_status()
+                    url = f'https://coverartarchive.org/release/{rid}/front'
+                    result = self.do_download(url, cover, cover_thumbnail)
 
-                    with open(cover, 'wb') as f:
-                        f.write(r.content)
+                    # save this to the DB as the official
+                    db.add_cover(album, url, True)
 
-                    # generate the thumbnail
-                    self.generate_thumbnail(cover, cover_thumbnail)
-
-                    return (cover, cover_thumbnail)
+                    return result
                 except requests.exceptions.HTTPError as e:
                     print('Error', e)
                     pass
 
+            # check if we have any un-official one our database
+            unofficials = filter(lambda c: not c.official, album.covers)
+            for o in unofficials:
+                try:
+                    return self.do_download(o.url, cover, cover_thumbnail)
+                except requests.exceptions.HTTPError as e:
+                    pass
 
+            raise Exception('No covers found')
         except Exception as e:
             print('Exception', e)
             c = os.path.join('__cache__', name + '.png')
@@ -171,6 +186,19 @@ class OutputWriter:
             self.copy_default(c, t)
             return (c, t)
 
+    def do_download(self, url, cover, cover_thumbnail):
+        print(f'Downloading {url}')
+        r = requests.get(url)
+        r.raise_for_status()
+
+        with open(cover, 'wb') as f:
+            f.write(r.content)
+
+        # generate the thumbnail
+        self.generate_thumbnail(cover, cover_thumbnail)
+
+        return (cover, cover_thumbnail)
+        
     def get_covers(self, name):
         covers = glob.glob(os.path.join('__cache__', name + '.*'))
         thumbs = glob.glob(os.path.join('__cache__', name + '-thumb.*'))
