@@ -16,7 +16,8 @@ def go():
         'stovokor': db.get_store(libbmdistro.Store(None, "Sto'Vo'Kor Records", "https://stovokor-records.com")),
         'arcane-altar': db.get_store(libbmdistro.Store(None, "Arcane Altar", "https://arcanealtar.bigcartel.com")),
         'debemur-morti': db.get_store(libbmdistro.Store(None, 'Debemur Morti', "https://debemurmorti.aisamerch.com/")),
-        'caligari': db.get_store(libbmdistro.Store(None, 'Caligari Records', "https://caligarirecords.storenvy.com/"))
+        'caligari': db.get_store(libbmdistro.Store(None, 'Caligari Records', "https://caligarirecords.storenvy.com/")),
+        'nwn': db.get_store(libbmdistro.Store(None, 'NWN Productions', 'https://shop.nwnprod.com'))
     }
 
     parsers = [
@@ -29,6 +30,7 @@ def go():
         libbmdistro.parsers.ArcaneAltar(stores['arcane-altar'], 'https://arcanealtar.bigcartel.com/category/cds.xml'),
         libbmdistro.parsers.DebemurMorti(stores['debemur-morti'], 'https://debemurmorti.aisamerch.com/c/music-video'),
         libbmdistro.parsers.Caligari(stores['caligari'], 'https://caligarirecords.storenvy.com/products.json'),
+        libbmdistro.parsers.NWN(stores['nwn'], 'https://shop.nwnprod.com/index.php'),
     ]
 
     

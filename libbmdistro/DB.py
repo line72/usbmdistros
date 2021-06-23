@@ -144,10 +144,11 @@ class DB:
                 '''
                 INSERT INTO products 
                   (sku, album_id, store_id, item_type, link, price,
-                   in_stock, quantity, description)
-                VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)
+                   in_stock, quantity, description, last_seen_at)
+                VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
                 ''', (product.sku, product.album.aId, product.store.sId, product.item_type,
-                      product.link, product.price, product.in_stock, product.quantity, product.description))
+                      product.link, product.price, product.in_stock, product.quantity, product.description,
+                      datetime.datetime.utcnow()))
             self.conn.commit()
         else:
             # potentially update
@@ -259,7 +260,7 @@ class DB:
               in_stock INTEGER DEFAULT -1,
               quantity INTEGER DEFAULT 0,
               description TEXT DEFAULT '',
-              last_seen_at TEXT default (date(current_timestamp)),
+              last_seen_at TEXT default (datetime(current_timestamp)),
               inserted_at TEXT default (datetime(current_timestamp)),
               updated_at TEXT default (datetime(current_timestamp)),
               FOREIGN KEY(album_id) REFERENCES albums(id),

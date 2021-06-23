@@ -47,6 +47,10 @@ class OutputWriter:
             print('parsing', album, album.covers)
 
             products = list(db.get_products_for_album(album))
+            if len(products) == 0:
+                print('Album has no available products, skipping...')
+                continue
+                
             grouped_products = itertools.groupby(sorted(products,
                                                         key = lambda x: x.item_type),
                                                  key = lambda x: x.item_type)
