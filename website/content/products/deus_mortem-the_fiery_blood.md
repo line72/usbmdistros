@@ -1,0 +1,17 @@
+---
+title: "Deus Mortem - The Fiery Blood"
+date: 2021-06-22T16:40:36
+draft: false
+artist: "Deus Mortem"
+album: "The Fiery Blood"
+categories:
+    - Vinyl
+images:
+    - "/images/covers/deus_mortem-the_fiery_blood.jpg"
+thumbnailImage: "/images/covers/deus_mortem-the_fiery_blood-thumb.jpg"
+actualPrice: $27.00
+inStock: true
+---
+
+## Vinyl
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=14612&sort=pd.name&order=ASC) for $27.00

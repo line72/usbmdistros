@@ -1,17 +1,20 @@
 ---
 title: "Lethal Infection - The Chant Of The Black Prophecies"
-date: 2021-06-13T12:22:22
+date: 2021-06-22T16:41:11
 draft: false
 artist: "Lethal Infection"
 album: "The Chant Of The Black Prophecies"
 categories:
     - Tape
+    - Cassette
 images:
     - "/images/covers/lethal_infection-the_chant_of_the_black_prophecies.jpg"
 thumbnailImage: "/images/covers/lethal_infection-the_chant_of_the_black_prophecies-thumb.jpg"
-actualPrice: $2.00
+actualPrice: $2.00 - 7.00
 inStock: true
 ---
 
 ## Tape
 * Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/25853217-lethal-infection-the-chant-of-the-black-prophecies) for $2.00
+## Cassette
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=5415&sort=pd.name&order=ASC) for $7.00

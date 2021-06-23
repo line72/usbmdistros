@@ -1,6 +1,6 @@
 ---
 title: "Black Cilice - Summoning the Night"
-date: 2021-06-12T14:07:51
+date: 2021-06-22T16:40:33
 draft: false
 artist: "Black Cilice"
 album: "Summoning the Night"
@@ -15,3 +15,4 @@ inStock: true
 
 ## Vinyl
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/black-cilice-summoning-the-night-12-lp) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=16178&sort=pd.name&order=ASC) for $25.00
