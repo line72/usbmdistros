@@ -7,12 +7,13 @@ import datetime
 import sqlite3
 
 from .Album import Album
+from .Artist import Artist
 from .Cover import Cover
 from .Product import Product
 from .Store import Store
 
 class DB:
-    VERSION = 2
+    VERSION = 3
     
     def __init__(self):
         self.conn = sqlite3.connect('bmdistro.db', detect_types = sqlite3.PARSE_DECLTYPES | sqlite3.PARSE_COLNAMES)
@@ -27,19 +28,41 @@ class DB:
         cur = self.conn.cursor()
         resp = cur.execute('''SELECT * FROM stores ORDER BY name''')
         return map(lambda i: Store(i['id'], i['name'], i['url']), resp)
-        
+
+    def get_all_artists(self):
+        # a cursors iterator is shared
+        #  so create a new one
+        cur = self.conn.cursor()
+        resp = cur.execute('''SELECT * FROM artists ORDER BY id''')
+        return map(lambda i: Artist(i['id'], i['name']), resp)
+    
     def get_all_albums(self, preload_covers = False):
         # a cursors iterator is shared
         #  so create a new one
         cur = self.conn.cursor()
-        resp = cur.execute('''SELECT * FROM albums ORDER BY id''')
+        resp = cur.execute(
+            '''
+            SELECT
+              a.id AS artist_id,
+              a.name AS name,
+              al.id AS album_id,
+              al.title AS title
+            FROM
+              albums AS al,
+              artists AS a
+            WHERE
+              al.artist_id = a.id
+            ORDER BY 
+              al.id
+            ''')
 
         def load_covers(i):
-            a = Album(i['id'], i['artist'], i['title'])
+            artist = Artist(i['artist_id'], i['name'])
+            a = Album(i['album_id'], artist, i['title'])
             
             if preload_covers:
                 cur2 = self.conn.cursor()
-                resp = cur2.execute('''SELECT * from covers WHERE album_id = ? ORDER BY id''', (i['id'],))
+                resp = cur2.execute('''SELECT * from covers WHERE album_id = ? ORDER BY id''', (i['album_id'],))
                 a.covers = list(map(lambda c: Cover(c['id'], c['url'], c['official']), resp))
 
             return a
@@ -84,28 +107,49 @@ class DB:
         
         
     def get_album(self, artist, title):
-        def fetchone():
+        def fetch_artist():
+            resp = self.cursor.execute(
+                '''
+                SELECT * FROM artists
+                WHERE
+                  LOWER(name) = LOWER(?)
+                ''', (artist,))
+
+            return resp.fetchone()
+        
+        def fetch_album(artist_id):
             resp = self.cursor.execute(
                 '''
                 SELECT * FROM albums
                 WHERE
-                  LOWER(artist) = LOWER(?) AND
+                  artist_id = ? AND
                   LOWER(title) = LOWER(?)
-                ''', (artist, title))
+                ''', (artist_id, title))
 
             return resp.fetchone()
+
+        a = fetch_artist()
+        if not a:
+            self.cursor.execute(
+                '''
+                INSERT INTO artists (name)
+                VALUES (?)
+                ''', (artist,))
+            self.conn.commit()
+            a = fetch_artist()
         
-        e = fetchone()
+        e = fetch_album(a['id'])
         if not e:
             self.cursor.execute(
                 '''
-                INSERT INTO albums (artist, title)
+                INSERT INTO albums (artist_id, title)
                 VALUES (?, ?)
-                ''', (artist, title))
+                ''', (a['id'], title))
             self.conn.commit()
-            e = fetchone()
+            e = fetch_album(a['id'])
 
-        return Album(e['id'], e['artist'], e['title'])
+        art = Artist(a['id'], a['name'])
+        return Album(e['id'], art, e['title'])
 
     def get_store(self, store):
         def fetchone():
@@ -226,12 +270,46 @@ class DB:
 
         self.cursor.execute(
             '''
-            CREATE TABLE IF NOT EXISTS albums (
+            CREATE TABLE IF NOT EXISTS artists (
               id INTEGER PRIMARY KEY AUTOINCREMENT,
-              artist TEXT,
-              title TEXT,
+              name TEXT,
               inserted_at TEXT default (datetime(current_timestamp)),
               updated_at TEXT default (datetime(current_timestamp))
+            )
+            ''')
+        
+        self.cursor.execute(
+            '''
+            CREATE TABLE IF NOT EXISTS albums (
+              id INTEGER PRIMARY KEY AUTOINCREMENT,
+              artist_id INTEGER,
+              title TEXT,
+              inserted_at TEXT default (datetime(current_timestamp)),
+              updated_at TEXT default (datetime(current_timestamp)),
+              FOREIGN KEY(artist_id) REFERENCES artists(id)
+            )
+            ''')
+        
+        self.cursor.execute(
+            '''
+            CREATE TABLE IF NOT EXISTS genres (
+              id INTEGER PRIMARY KEY AUTOINCREMENT,
+              name TEXT,
+              inserted_at TEXT default (datetime(current_timestamp)),
+              updated_at TEXT default (datetime(current_timestamp))
+            )
+            ''')
+        
+        self.cursor.execute(
+            '''
+            CREATE TABLE IF NOT EXISTS artists_genres (
+              id INTEGER PRIMARY KEY AUTOINCREMENT,
+              artist_id INTEGER,
+              genre_id INTEGER
+              inserted_at TEXT default (datetime(current_timestamp)),
+              updated_at TEXT default (datetime(current_timestamp)),
+              FOREIGN KEY(artist_id) REFERENCES artists(id),
+              FOREIGN KEY(genre_id) REFERENCES genres(id)
             )
             ''')
         
@@ -264,7 +342,7 @@ class DB:
               inserted_at TEXT default (datetime(current_timestamp)),
               updated_at TEXT default (datetime(current_timestamp)),
               FOREIGN KEY(album_id) REFERENCES albums(id),
-              FOREIGN KEY(store_id) REFERENCES store(id)
+              FOREIGN KEY(store_id) REFERENCES stores(id)
             )
             ''')
 
