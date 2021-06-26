@@ -25,6 +25,7 @@ class ArcaneAltar(Parser):
         self.retests = [
             ('12', 'Vinyl', re.compile(r'^\s*(.*?)\s+12"$')),
             ('12lp', 'Vinyl', re.compile(r'^\s*(.*?)\s+12"\s+LP$')),
+            ('12lp with booklet', 'Vinyl', re.compile(r'^\s*(.*?)\s+12"\s+LP\s+\+\s+Booklet$')),
             ('12lp with extra', 'Vinyl', re.compile(r'^\s*(.*?)\s+12"\s+LP\s+\(.*?\)$')),
             ('12sslp', 'Vinyl', re.compile(r'^\s*(.*?)\s+SS12"\s+LP$')),
             ('lp', 'Vinyl', re.compile(r'^\s*(.*?)\s+LP$')),

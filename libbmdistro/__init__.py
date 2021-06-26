@@ -7,6 +7,7 @@ from .Album import Album
 from .Artist import Artist
 from .Cover import Cover
 from .DB import DB
+from .GenreFinder import GenreFinder
 from .OutputWriter import OutputWriter
 from .Product import Product
 from .Store import Store

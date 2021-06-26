@@ -45,12 +45,17 @@ class OutputWriter:
         # Write out the products
         for album in db.get_all_albums(True):
             print('parsing', album, album.covers)
+            artist = db.get_artist(album.artist.name, True)
 
             products = list(db.get_products_for_album(album))
             if len(products) == 0:
                 print('Album has no available products, skipping...')
                 continue
-                
+
+            if len(artist.genres) > 0 and not self.is_black_metal(artist.genres):
+                print(f'Skipping non-black metal artist: {artist}')
+                continue
+            
             grouped_products = itertools.groupby(sorted(products,
                                                         key = lambda x: x.item_type),
                                                  key = lambda x: x.item_type)
@@ -58,7 +63,7 @@ class OutputWriter:
             product_dict = functools.reduce(lambda acc, v: dict(list(acc.items()) + [(v[0], list(v[1]))]), grouped_products, {})
             variants = list(sorted(product_dict.keys(), reverse = True))
 
-            s = f'{album.artist}-{album.title}'
+            s = f'{album.artist.name}-{album.title}'
             s = s.lower()
             s = s.replace('/', '-').replace('*', '').replace(' ', '_')
             
@@ -85,10 +90,10 @@ class OutputWriter:
 
             with open(os.path.join(base_directory, 'content', 'products', f'{s}.md'), 'w') as f:
                 f.write('---\n')
-                f.write(f'title: "{album.artist} - {album.title}"\n')
+                f.write(f'title: "{album.artist.name} - {album.title}"\n')
                 f.write(f'date: {last_modified.isoformat()}\n')
                 f.write('draft: false\n')
-                f.write(f'artist: "{album.artist}"\n')
+                f.write(f'artist: "{album.artist.name}"\n')
                 f.write(f'album: "{album.title}"\n')
                 f.write('categories:\n')
                 for i in variants:
@@ -120,7 +125,7 @@ class OutputWriter:
         return '{0:.2f}'.format(p / 100.)
         
     def download_artwork(self, db, album, name):
-        print(f'Downloading artwork for {album.artist} - {album.title}')
+        print(f'Downloading artwork for {album.artist.name} - {album.title}')
         try: os.makedirs('__cache__')
         except OSError: pass
         
@@ -144,7 +149,7 @@ class OutputWriter:
 
         # move on to downloading from music brainz
         params = {
-            'query': f'artist:{album.artist} AND album:{album.title}'
+            'query': f'artist:{album.artist.name} AND album:{album.title}'
         }
         r = requests.get('https://musicbrainz.org/ws/2/release/',
                          params = params,
@@ -226,3 +231,10 @@ class OutputWriter:
         self.generate_thumbnail(cover, thumb)
         
         return True
+    
+    def is_black_metal(self, genres):
+        for genre in genres:
+            if 'black metal' in genre.lower():
+                return True
+
+        return False

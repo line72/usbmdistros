@@ -29,12 +29,36 @@ class DB:
         resp = cur.execute('''SELECT * FROM stores ORDER BY name''')
         return map(lambda i: Store(i['id'], i['name'], i['url']), resp)
 
-    def get_all_artists(self):
+    def get_all_artists(self, preload_genres = False):
         # a cursors iterator is shared
         #  so create a new one
         cur = self.conn.cursor()
         resp = cur.execute('''SELECT * FROM artists ORDER BY id''')
-        return map(lambda i: Artist(i['id'], i['name']), resp)
+
+        def load_genres(i):
+            artist = Artist(i['id'], i['name'], i['genre_updated_at'])
+
+            if preload_genres:
+                cur2 = self.conn.cursor()
+                resp = cur2.execute(
+                    '''
+                    SELECT 
+                      g.name AS name
+                    FROM
+                      genres AS g,
+                      artists AS a,
+                      artists_genres as ag
+                    WHERE
+                      a.id = ? AND
+                      ag.artist_id = a.id AND
+                      ag.genre_id = g.id
+                    ''', (artist.aId,))
+                
+                artist.genres = list(x['name'] for x in resp)
+                
+            return artist
+        
+        return map(load_genres, resp)
     
     def get_all_albums(self, preload_covers = False):
         # a cursors iterator is shared
@@ -45,6 +69,7 @@ class DB:
             SELECT
               a.id AS artist_id,
               a.name AS name,
+              a.genre_updated_at AS genre_updated_at,
               al.id AS album_id,
               al.title AS title
             FROM
@@ -57,7 +82,7 @@ class DB:
             ''')
 
         def load_covers(i):
-            artist = Artist(i['artist_id'], i['name'])
+            artist = Artist(i['artist_id'], i['name'],i['genre_updated_at'])
             a = Album(i['album_id'], artist, i['title'])
             
             if preload_covers:
@@ -105,7 +130,44 @@ class DB:
                                      i['quantity'], i['description'], i['last_seen_at'],
                                      i['updated_at']), resp)
         
+
+    def get_artist(self, name, preload_genres = False):
+        def load_genres(i):
+            artist = Artist(i['id'], i['name'], i['genre_updated_at'])
+
+            if preload_genres:
+                cur2 = self.conn.cursor()
+                resp = cur2.execute(
+                    '''
+                    SELECT 
+                      g.name AS name
+                    FROM
+                      genres AS g,
+                      artists AS a,
+                      artists_genres as ag
+                    WHERE
+                      a.id = ? AND
+                      ag.artist_id = a.id AND
+                      ag.genre_id = g.id
+                    ''', (artist.aId,))
+                
+                artist.genres = list(x['name'] for x in resp)
+                
+            return artist
         
+        r = self.cursor.execute(
+            '''
+            SELECT * FROM artists
+            WHERE
+              LOWER(name) = LOWER(?)
+            ''', (name,))
+        a = r.fetchone()
+        if a:
+            artist = load_genres(a)
+            return artist
+        else:
+            return None
+    
     def get_album(self, artist, title):
         def fetch_artist():
             resp = self.cursor.execute(
@@ -148,7 +210,7 @@ class DB:
             self.conn.commit()
             e = fetch_album(a['id'])
 
-        art = Artist(a['id'], a['name'])
+        art = Artist(a['id'], a['name'], a['genre_updated_at'])
         return Album(e['id'], art, e['title'])
 
     def get_store(self, store):
@@ -246,6 +308,50 @@ class DB:
             self.conn.commit()
 
         return True
+
+    def add_genre(self, artist, genre):
+        def fetchone():
+            resp = self.cursor.execute(
+                '''SELECT * FROM genres WHERE name = ?''', (genre,))
+            return resp.fetchone()
+
+        g = fetchone()
+        if not g:
+            self.cursor.execute(
+                '''
+                INSERT INTO genres
+                  (name)
+                VALUES (?)
+                ''', (genre,))
+            self.conn.commit()
+            g = fetchone()
+
+        try:
+            self.cursor.execute(
+                '''
+                INSERT INTO artists_genres
+                  (artist_id, genre_id)
+                VALUES (?, ?)
+                ''', (artist.aId, g['id']))
+            self.conn.commit()
+        except sqlite3.IntegrityError:
+            # We already have this inserted
+            #  and are getting an error due to
+            #  the unique index.
+            pass
+
+        return True
+
+    def artist_update_genre_timestamp(self, artist):
+        self.cursor.execute(
+            '''
+            UPDATE artists
+            SET
+              genre_updated_at = (datetime(current_timestamp))
+            WHERE
+              id = ?
+            ''', (artist.aId,))
+        self.conn.commit()
     
     ## Private ##
     def create_verify_database(self):
@@ -273,8 +379,9 @@ class DB:
             CREATE TABLE IF NOT EXISTS artists (
               id INTEGER PRIMARY KEY AUTOINCREMENT,
               name TEXT,
-              inserted_at TEXT default (datetime(current_timestamp)),
-              updated_at TEXT default (datetime(current_timestamp))
+              genre_updated_at timestamp default (datetime(0, 'unixepoch')),
+              inserted_at timestamp default (datetime(current_timestamp)),
+              updated_at timestamp default (datetime(current_timestamp))
             )
             ''')
         
@@ -284,8 +391,8 @@ class DB:
               id INTEGER PRIMARY KEY AUTOINCREMENT,
               artist_id INTEGER,
               title TEXT,
-              inserted_at TEXT default (datetime(current_timestamp)),
-              updated_at TEXT default (datetime(current_timestamp)),
+              inserted_at timestamp default (datetime(current_timestamp)),
+              updated_at timestamp default (datetime(current_timestamp)),
               FOREIGN KEY(artist_id) REFERENCES artists(id)
             )
             ''')
@@ -295,8 +402,8 @@ class DB:
             CREATE TABLE IF NOT EXISTS genres (
               id INTEGER PRIMARY KEY AUTOINCREMENT,
               name TEXT,
-              inserted_at TEXT default (datetime(current_timestamp)),
-              updated_at TEXT default (datetime(current_timestamp))
+              inserted_at timestamp default (datetime(current_timestamp)),
+              updated_at timestamp default (datetime(current_timestamp))
             )
             ''')
         
@@ -305,9 +412,9 @@ class DB:
             CREATE TABLE IF NOT EXISTS artists_genres (
               id INTEGER PRIMARY KEY AUTOINCREMENT,
               artist_id INTEGER,
-              genre_id INTEGER
-              inserted_at TEXT default (datetime(current_timestamp)),
-              updated_at TEXT default (datetime(current_timestamp)),
+              genre_id INTEGER,
+              inserted_at timestamp default (datetime(current_timestamp)),
+              updated_at timestamp default (datetime(current_timestamp)),
               FOREIGN KEY(artist_id) REFERENCES artists(id),
               FOREIGN KEY(genre_id) REFERENCES genres(id)
             )
@@ -319,8 +426,8 @@ class DB:
               id INTEGER PRIMARY KEY AUTOINCREMENT,
               name TEXT,
               url TEXT,
-              inserted_at TEXT default (datetime(current_timestamp)),
-              updated_at TEXT default (datetime(current_timestamp))
+              inserted_at timestamp default (datetime(current_timestamp)),
+              updated_at timestamp default (datetime(current_timestamp))
             )
             ''')
 
@@ -338,9 +445,9 @@ class DB:
               in_stock INTEGER DEFAULT -1,
               quantity INTEGER DEFAULT 0,
               description TEXT DEFAULT '',
-              last_seen_at TEXT default (datetime(current_timestamp)),
-              inserted_at TEXT default (datetime(current_timestamp)),
-              updated_at TEXT default (datetime(current_timestamp)),
+              last_seen_at timestamp default (datetime(current_timestamp)),
+              inserted_at timestamp default (datetime(current_timestamp)),
+              updated_at timestamp default (datetime(current_timestamp)),
               FOREIGN KEY(album_id) REFERENCES albums(id),
               FOREIGN KEY(store_id) REFERENCES stores(id)
             )
@@ -353,12 +460,17 @@ class DB:
               album_id INTEGER,
               url TEXT,
               official INTEGER,
-              inserted_at TEXT default (datetime(current_timestamp)),
-              updated_at TEXT default (datetime(current_timestamp)),
+              inserted_at timestamp default (datetime(current_timestamp)),
+              updated_at timestamp default (datetime(current_timestamp)),
               FOREIGN KEY(album_id) REFERENCES albums(id)
             )
             ''')
 
-        self.cursor.execute('''CREATE INDEX IF NOT EXISTS sku_index ON products(sku)''')        
+        self.cursor.execute('''CREATE INDEX IF NOT EXISTS sku_index ON products(sku)''')
+        self.cursor.execute('''CREATE UNIQUE INDEX IF NOT EXISTS artists_index on artists(name)''')
+        self.cursor.execute('''CREATE UNIQUE INDEX IF NOT EXISTS genres_index on genres(name)''')
+        self.cursor.execute('''CREATE UNIQUE INDEX IF NOT EXISTS artists_genres_index on artists_genres(artist_id,genre_id)''')
 
+        self.conn.commit()
+        
         return True
