@@ -15,12 +15,13 @@ from .Store import Store
 class DB:
     VERSION = 3
     
-    def __init__(self):
+    def __init__(self, verify = True):
         self.conn = sqlite3.connect('bmdistro.db', detect_types = sqlite3.PARSE_DECLTYPES | sqlite3.PARSE_COLNAMES)
         self.conn.row_factory = sqlite3.Row # allow using dictionary for access
         self.cursor = self.conn.cursor()
 
-        self.create_verify_database()
+        if verify:
+            self.create_verify_database()
 
     def get_all_stores(self):
         # a cursors iterator is shared
