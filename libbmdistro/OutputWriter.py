@@ -10,6 +10,7 @@ import shutil
 import subprocess
 import functools
 import itertools
+import yaml
 
 template = '''
 ---
@@ -89,26 +90,33 @@ class OutputWriter:
             
 
             with open(os.path.join(base_directory, 'content', 'products', f'{s}.md'), 'w') as f:
+                def get_cover():
+                    if cover:
+                        return f"/images/covers/{os.path.basename(cover)}"
+                    else:
+                        return '/images/blank-record.svg'
+
+                def get_thumbnail():
+                    if thumb:
+                        return f"/images/covers/{os.path.basename(thumb)}"
+                    else:
+                        return '/images/blank-record.svg'
+                
+                front_matter = {
+                    'title': f'{album.artist.name} - {album.title}',
+                    'date': last_modified.isoformat(),
+                    'draft': False,
+                    'artist': album.artist.name,
+                    'album': album.title,
+                    'categories': [x for x in variants],
+                    'images': [get_cover()],
+                    'thumbnailImage': get_thumbnail(),
+                    'actualPrice': f'${prices}',
+                    'inStock': True
+                }
+                
                 f.write('---\n')
-                f.write(f'title: "{album.artist.name} - {album.title}"\n')
-                f.write(f'date: {last_modified.isoformat()}\n')
-                f.write('draft: false\n')
-                f.write(f'artist: "{album.artist.name}"\n')
-                f.write(f'album: "{album.title}"\n')
-                f.write('categories:\n')
-                for i in variants:
-                    f.write(f'    - {i}\n')
-                f.write('images:\n')
-                if cover:
-                    f.write(f'    - "/images/covers/{os.path.basename(cover)}"\n')
-                else:
-                    f.write(f'    - /images/blank-record.svg\n')
-                if thumb:
-                    f.write(f'thumbnailImage: "/images/covers/{os.path.basename(thumb)}"\n')
-                else:
-                    f.write(f'thumbnailImage: /images/blank-record.svg\n')
-                f.write(f'actualPrice: ${prices}\n')
-                f.write('inStock: true\n')
+                yaml.dump(front_matter, f)
                 f.write('---\n')
                 f.write('\n')
 
