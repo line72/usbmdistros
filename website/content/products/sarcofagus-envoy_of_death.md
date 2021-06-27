@@ -7,9 +7,9 @@ categories:
 date: '2021-06-26T15:23:23'
 draft: false
 images:
-- /images/covers/sarcofagus-envoy_of_death.png
+- /images/covers/sarcofagus-envoy_of_death.jpg
 inStock: true
-thumbnailImage: /images/covers/sarcofagus-envoy_of_death-thumb.png
+thumbnailImage: /images/covers/sarcofagus-envoy_of_death-thumb.jpg
 title: Sarcofagus - Envoy of Death
 ---
 

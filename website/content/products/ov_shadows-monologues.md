@@ -7,9 +7,9 @@ categories:
 date: '2021-06-26T15:23:22'
 draft: false
 images:
-- /images/covers/ov_shadows-monologues.png
+- /images/covers/ov_shadows-monologues.jpg
 inStock: true
-thumbnailImage: /images/covers/ov_shadows-monologues-thumb.png
+thumbnailImage: /images/covers/ov_shadows-monologues-thumb.jpg
 title: Ov Shadows - Monologues
 ---
 

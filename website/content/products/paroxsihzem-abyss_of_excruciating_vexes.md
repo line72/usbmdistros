@@ -7,9 +7,9 @@ categories:
 date: '2021-06-26T15:23:22'
 draft: false
 images:
-- /images/covers/paroxsihzem-abyss_of_excruciating_vexes.png
+- /images/covers/paroxsihzem-abyss_of_excruciating_vexes.jpg
 inStock: true
-thumbnailImage: /images/covers/paroxsihzem-abyss_of_excruciating_vexes-thumb.png
+thumbnailImage: /images/covers/paroxsihzem-abyss_of_excruciating_vexes-thumb.jpg
 title: Paroxsihzem - Abyss of Excruciating Vexes
 ---
 

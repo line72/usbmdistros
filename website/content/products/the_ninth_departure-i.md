@@ -7,9 +7,9 @@ categories:
 date: '2021-06-26T15:23:24'
 draft: false
 images:
-- /images/covers/the_ninth_departure-i.png
+- /images/covers/the_ninth_departure-i.jpg
 inStock: true
-thumbnailImage: /images/covers/the_ninth_departure-i-thumb.png
+thumbnailImage: /images/covers/the_ninth_departure-i-thumb.jpg
 title: The Ninth Departure - I
 ---
 

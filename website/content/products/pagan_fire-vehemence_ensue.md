@@ -7,9 +7,9 @@ categories:
 date: '2021-06-26T15:23:22'
 draft: false
 images:
-- /images/covers/pagan_fire-vehemence_ensue.png
+- /images/covers/pagan_fire-vehemence_ensue.jpg
 inStock: true
-thumbnailImage: /images/covers/pagan_fire-vehemence_ensue-thumb.png
+thumbnailImage: /images/covers/pagan_fire-vehemence_ensue-thumb.jpg
 title: Pagan Fire - Vehemence Ensue
 ---
 

@@ -7,9 +7,9 @@ categories:
 date: '2021-06-26T15:23:22'
 draft: false
 images:
-- /images/covers/mercyless-the_mother_of_all_plagues.png
+- /images/covers/mercyless-the_mother_of_all_plagues.jpg
 inStock: true
-thumbnailImage: /images/covers/mercyless-the_mother_of_all_plagues-thumb.png
+thumbnailImage: /images/covers/mercyless-the_mother_of_all_plagues-thumb.jpg
 title: Mercyless - The Mother Of All Plagues
 ---
 

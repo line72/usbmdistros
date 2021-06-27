@@ -7,9 +7,9 @@ categories:
 date: '2021-06-26T15:23:23'
 draft: false
 images:
-- /images/covers/satan's_god-the_weird_age_that_i've_created.png
+- /images/covers/satan's_god-the_weird_age_that_i've_created.jpg
 inStock: true
-thumbnailImage: /images/covers/satan's_god-the_weird_age_that_i've_created-thumb.png
+thumbnailImage: /images/covers/satan's_god-the_weird_age_that_i've_created-thumb.jpg
 title: Satan's God - The Weird Age That I've Created
 ---
 

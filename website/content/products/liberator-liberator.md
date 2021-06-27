@@ -7,9 +7,9 @@ categories:
 date: '2021-06-26T15:23:21'
 draft: false
 images:
-- /images/covers/liberator-liberator.png
+- /images/covers/liberator-liberator.jpg
 inStock: true
-thumbnailImage: /images/covers/liberator-liberator-thumb.png
+thumbnailImage: /images/covers/liberator-liberator-thumb.jpg
 title: Liberator - Liberator
 ---
 

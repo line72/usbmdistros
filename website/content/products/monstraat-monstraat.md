@@ -7,9 +7,9 @@ categories:
 date: '2021-06-26T15:23:22'
 draft: false
 images:
-- /images/covers/monstraat-monstraat.png
+- /images/covers/monstraat-monstraat.jpg
 inStock: true
-thumbnailImage: /images/covers/monstraat-monstraat-thumb.png
+thumbnailImage: /images/covers/monstraat-monstraat-thumb.jpg
 title: Monstraat - Monstraat
 ---
 

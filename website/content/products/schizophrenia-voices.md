@@ -7,9 +7,9 @@ categories:
 date: '2021-06-26T15:23:23'
 draft: false
 images:
-- /images/covers/schizophrenia-voices.png
+- /images/covers/schizophrenia-voices.jpg
 inStock: true
-thumbnailImage: /images/covers/schizophrenia-voices-thumb.png
+thumbnailImage: /images/covers/schizophrenia-voices-thumb.jpg
 title: Schizophrenia - Voices
 ---
 

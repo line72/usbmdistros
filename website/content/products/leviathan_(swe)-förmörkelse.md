@@ -7,9 +7,9 @@ categories:
 date: '2021-06-26T15:23:21'
 draft: false
 images:
-- "/images/covers/leviathan_(swe)-f\xF6rm\xF6rkelse.png"
+- "/images/covers/leviathan_(swe)-f\xF6rm\xF6rkelse.jpg"
 inStock: true
-thumbnailImage: "/images/covers/leviathan_(swe)-f\xF6rm\xF6rkelse-thumb.png"
+thumbnailImage: "/images/covers/leviathan_(swe)-f\xF6rm\xF6rkelse-thumb.jpg"
 title: "Leviathan (Swe) - F\xF6rm\xF6rkelse"
 ---
 
