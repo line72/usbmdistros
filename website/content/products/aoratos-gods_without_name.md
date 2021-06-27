@@ -1,17 +1,17 @@
 ---
-title: "Aoratos - Gods Without Name"
-date: 2021-06-12T14:11:52
-draft: false
-artist: "Aoratos"
-album: "Gods Without Name"
-categories:
-    - Tape
-    - CD
-images:
-    - "/images/covers/aoratos-gods_without_name.jpg"
-thumbnailImage: "/images/covers/aoratos-gods_without_name-thumb.jpg"
 actualPrice: $10.99 - 13.99
+album: Gods Without Name
+artist: Aoratos
+categories:
+- Tape
+- CD
+date: '2021-06-26T15:15:51'
+draft: false
+images:
+- /images/covers/aoratos-gods_without_name.jpg
 inStock: true
+thumbnailImage: /images/covers/aoratos-gods_without_name-thumb.jpg
+title: Aoratos - Gods Without Name
 ---
 
 ## Tape

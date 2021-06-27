@@ -1,16 +1,17 @@
 ---
-title: "Mons Veneris - Maléficas Destruições Satânicas"
-date: 2021-06-12T14:07:54
-draft: false
-artist: "Mons Veneris"
-album: "Maléficas Destruições Satânicas"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/mons_veneris-maléficas_destruições_satânicas.jpg"
-thumbnailImage: "/images/covers/mons_veneris-maléficas_destruições_satânicas-thumb.jpg"
 actualPrice: $12.00
+album: "Mal\xE9ficas Destrui\xE7\xF5es Sat\xE2nicas"
+artist: Mons Veneris
+categories:
+- Vinyl
+date: '2021-06-26T15:02:58'
+draft: false
+images:
+- "/images/covers/mons_veneris-mal\xE9ficas_destrui\xE7\xF5es_sat\xE2nicas.jpg"
 inStock: true
+thumbnailImage: "/images/covers/mons_veneris-mal\xE9ficas_destrui\xE7\xF5es_sat\xE2\
+  nicas-thumb.jpg"
+title: "Mons Veneris - Mal\xE9ficas Destrui\xE7\xF5es Sat\xE2nicas"
 ---
 
 ## Vinyl

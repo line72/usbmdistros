@@ -1,16 +1,16 @@
 ---
-title: "Larvae - Grave Descent"
-date: 2021-06-22T16:40:40
-draft: false
-artist: "Larvae"
-album: "Grave Descent"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/larvae-grave_descent.jpg"
-thumbnailImage: "/images/covers/larvae-grave_descent-thumb.jpg"
 actualPrice: $10.00
+album: Grave Descent
+artist: Larvae
+categories:
+- Vinyl
+date: '2021-06-26T15:22:50'
+draft: false
+images:
+- /images/covers/larvae-grave_descent.jpg
 inStock: true
+thumbnailImage: /images/covers/larvae-grave_descent-thumb.jpg
+title: Larvae - Grave Descent
 ---
 
 ## Vinyl

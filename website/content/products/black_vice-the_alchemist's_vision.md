@@ -1,18 +1,18 @@
 ---
-title: "Black Vice - The Alchemist's Vision"
-date: 2021-06-22T16:41:09
-draft: false
-artist: "Black Vice"
-album: "The Alchemist's Vision"
-categories:
-    - Vinyl
-    - Tape
-    - Cassette
-images:
-    - "/images/covers/black_vice-the_alchemist's_vision.jpg"
-thumbnailImage: "/images/covers/black_vice-the_alchemist's_vision-thumb.jpg"
 actualPrice: $9.00 - 20.00
+album: The Alchemist's Vision
+artist: Black Vice
+categories:
+- Vinyl
+- Tape
+- Cassette
+date: '2021-06-26T15:23:19'
+draft: false
+images:
+- /images/covers/black_vice-the_alchemist's_vision.jpg
 inStock: true
+thumbnailImage: /images/covers/black_vice-the_alchemist's_vision-thumb.jpg
+title: Black Vice - The Alchemist's Vision
 ---
 
 ## Vinyl

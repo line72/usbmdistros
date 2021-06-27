@@ -1,16 +1,16 @@
 ---
-title: "Murg - Gudatall"
-date: 2021-06-22T16:40:41
-draft: false
-artist: "Murg"
-album: "Gudatall"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/murg-gudatall.jpg"
-thumbnailImage: "/images/covers/murg-gudatall-thumb.jpg"
 actualPrice: $22.00
+album: Gudatall
+artist: Murg
+categories:
+- Vinyl
+date: '2021-06-26T15:22:51'
+draft: false
+images:
+- /images/covers/murg-gudatall.jpg
 inStock: true
+thumbnailImage: /images/covers/murg-gudatall-thumb.jpg
+title: Murg - Gudatall
 ---
 
 ## Vinyl

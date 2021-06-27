@@ -1,16 +1,16 @@
 ---
-title: "Voreus - The Proclamation"
-date: 2021-06-13T12:22:20
-draft: false
-artist: "Voreus"
-album: "The Proclamation"
-categories:
-    - Tape
-images:
-    - "/images/covers/voreus-the_proclamation.jpg"
-thumbnailImage: "/images/covers/voreus-the_proclamation-thumb.jpg"
 actualPrice: $8.00
+album: The Proclamation
+artist: Voreus
+categories:
+- Tape
+date: '2021-06-26T15:16:23'
+draft: false
+images:
+- /images/covers/voreus-the_proclamation.jpg
 inStock: true
+thumbnailImage: /images/covers/voreus-the_proclamation-thumb.jpg
+title: Voreus - The Proclamation
 ---
 
 ## Tape

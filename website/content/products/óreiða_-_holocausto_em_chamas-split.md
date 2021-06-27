@@ -1,16 +1,16 @@
 ---
-title: "Óreiða / Holocausto em Chamas - Split"
-date: 2021-06-12T14:07:53
-draft: false
-artist: "Óreiða / Holocausto em Chamas"
-album: "Split"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/óreiða_-_holocausto_em_chamas-split.jpg"
-thumbnailImage: "/images/covers/óreiða_-_holocausto_em_chamas-split-thumb.jpg"
 actualPrice: $19.00
+album: Split
+artist: "\xD3rei\xF0a / Holocausto em Chamas"
+categories:
+- Vinyl
+date: '2021-06-26T15:02:56'
+draft: false
+images:
+- "/images/covers/\xF3rei\xF0a_-_holocausto_em_chamas-split.jpg"
 inStock: true
+thumbnailImage: "/images/covers/\xF3rei\xF0a_-_holocausto_em_chamas-split-thumb.jpg"
+title: "\xD3rei\xF0a / Holocausto em Chamas - Split"
 ---
 
 ## Vinyl

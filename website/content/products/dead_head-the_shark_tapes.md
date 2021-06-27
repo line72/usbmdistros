@@ -1,16 +1,16 @@
 ---
-title: "Dead Head - The Shark Tapes"
-date: 2021-06-22T16:40:35
-draft: false
-artist: "Dead Head"
-album: "The Shark Tapes"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/dead_head-the_shark_tapes.jpg"
-thumbnailImage: "/images/covers/dead_head-the_shark_tapes-thumb.jpg"
 actualPrice: $22.00
+album: The Shark Tapes
+artist: Dead Head
+categories:
+- Vinyl
+date: '2021-06-26T15:22:45'
+draft: false
+images:
+- /images/covers/dead_head-the_shark_tapes.jpg
 inStock: true
+thumbnailImage: /images/covers/dead_head-the_shark_tapes-thumb.jpg
+title: Dead Head - The Shark Tapes
 ---
 
 ## Vinyl

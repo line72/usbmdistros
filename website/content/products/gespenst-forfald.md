@@ -1,16 +1,16 @@
 ---
-title: "Gespenst - Forfald"
-date: 2021-06-22T16:40:38
-draft: false
-artist: "Gespenst"
-album: "Forfald"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/gespenst-forfald.jpg"
-thumbnailImage: "/images/covers/gespenst-forfald-thumb.jpg"
 actualPrice: $17.00
+album: Forfald
+artist: Gespenst
+categories:
+- Vinyl
+date: '2021-06-26T15:22:47'
+draft: false
+images:
+- /images/covers/gespenst-forfald.jpg
 inStock: true
+thumbnailImage: /images/covers/gespenst-forfald-thumb.jpg
+title: Gespenst - Forfald
 ---
 
 ## Vinyl

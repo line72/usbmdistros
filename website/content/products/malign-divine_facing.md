@@ -1,16 +1,16 @@
 ---
-title: "Malign - Divine Facing"
-date: 2021-06-22T16:40:40
-draft: false
-artist: "Malign"
-album: "Divine Facing"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/malign-divine_facing.jpg"
-thumbnailImage: "/images/covers/malign-divine_facing-thumb.jpg"
 actualPrice: $70.00
+album: Divine Facing
+artist: Malign
+categories:
+- Vinyl
+date: '2021-06-26T15:22:50'
+draft: false
+images:
+- /images/covers/malign-divine_facing.jpg
 inStock: true
+thumbnailImage: /images/covers/malign-divine_facing-thumb.jpg
+title: Malign - Divine Facing
 ---
 
 ## Vinyl

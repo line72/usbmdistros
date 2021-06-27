@@ -1,16 +1,16 @@
 ---
-title: "Czort - Czarna Ewangelia"
-date: 2021-06-22T16:40:35
-draft: false
-artist: "Czort"
-album: "Czarna Ewangelia"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/czort-czarna_ewangelia.jpg"
-thumbnailImage: "/images/covers/czort-czarna_ewangelia-thumb.jpg"
 actualPrice: $20.00
+album: Czarna Ewangelia
+artist: Czort
+categories:
+- Vinyl
+date: '2021-06-26T15:22:44'
+draft: false
+images:
+- /images/covers/czort-czarna_ewangelia.jpg
 inStock: true
+thumbnailImage: /images/covers/czort-czarna_ewangelia-thumb.jpg
+title: Czort - Czarna Ewangelia
 ---
 
 ## Vinyl

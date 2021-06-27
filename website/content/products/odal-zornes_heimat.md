@@ -1,17 +1,17 @@
 ---
-title: "Odal - Zornes Heimat"
-date: 2021-06-22T16:41:02
-draft: false
-artist: "Odal"
-album: "Zornes Heimat"
-categories:
-    - Vinyl
-    - CD
-images:
-    - "/images/covers/odal-zornes_heimat.jpg"
-thumbnailImage: "/images/covers/odal-zornes_heimat-thumb.jpg"
 actualPrice: $10.00 - 25.00
+album: Zornes Heimat
+artist: Odal
+categories:
+- Vinyl
+- CD
+date: '2021-06-26T15:23:12'
+draft: false
+images:
+- /images/covers/odal-zornes_heimat.jpg
 inStock: true
+thumbnailImage: /images/covers/odal-zornes_heimat-thumb.jpg
+title: Odal - Zornes Heimat
 ---
 
 ## Vinyl

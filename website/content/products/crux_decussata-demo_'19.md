@@ -1,16 +1,16 @@
 ---
-title: "Crux Decussata - Demo '19"
-date: 2021-06-13T12:22:23
-draft: false
-artist: "Crux Decussata"
-album: "Demo '19"
-categories:
-    - Tape
-images:
-    - "/images/covers/crux_decussata-demo_'19.jpg"
-thumbnailImage: "/images/covers/crux_decussata-demo_'19-thumb.jpg"
 actualPrice: $4.00
+album: Demo '19
+artist: Crux Decussata
+categories:
+- Tape
+date: '2021-06-26T15:16:26'
+draft: false
+images:
+- /images/covers/crux_decussata-demo_'19.jpg
 inStock: true
+thumbnailImage: /images/covers/crux_decussata-demo_'19-thumb.jpg
+title: Crux Decussata - Demo '19
 ---
 
 ## Tape

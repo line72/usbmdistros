@@ -1,16 +1,16 @@
 ---
-title: "Orgy of Carrion - Blood Washed Away the Grave Purity"
-date: 2021-06-12T14:07:59
-draft: false
-artist: "Orgy of Carrion"
-album: "Blood Washed Away the Grave Purity"
-categories:
-    - CD
-images:
-    - "/images/covers/orgy_of_carrion-blood_washed_away_the_grave_purity.jpg"
-thumbnailImage: "/images/covers/orgy_of_carrion-blood_washed_away_the_grave_purity-thumb.jpg"
 actualPrice: $15.00
+album: Blood Washed Away the Grave Purity
+artist: Orgy of Carrion
+categories:
+- CD
+date: '2021-06-26T15:03:08'
+draft: false
+images:
+- /images/covers/orgy_of_carrion-blood_washed_away_the_grave_purity.jpg
 inStock: true
+thumbnailImage: /images/covers/orgy_of_carrion-blood_washed_away_the_grave_purity-thumb.jpg
+title: Orgy of Carrion - Blood Washed Away the Grave Purity
 ---
 
 ## CD

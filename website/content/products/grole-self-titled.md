@@ -1,16 +1,16 @@
 ---
-title: "Grole - Self-Titled"
-date: 2021-06-13T12:22:20
-draft: false
-artist: "Grole"
-album: "Self-Titled"
-categories:
-    - Tape
-images:
-    - "/images/covers/grole-self-titled.jpg"
-thumbnailImage: "/images/covers/grole-self-titled-thumb.jpg"
 actualPrice: $8.50
+album: Self-Titled
+artist: Grole
+categories:
+- Tape
+date: '2021-06-26T15:16:23'
+draft: false
+images:
+- /images/covers/grole-self-titled.jpg
 inStock: true
+thumbnailImage: /images/covers/grole-self-titled-thumb.jpg
+title: Grole - Self-Titled
 ---
 
 ## Tape

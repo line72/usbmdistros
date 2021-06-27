@@ -1,16 +1,16 @@
 ---
-title: "Väestönsuoja - Demo"
-date: 2021-06-13T12:22:19
-draft: false
-artist: "Väestönsuoja"
-album: "Demo"
-categories:
-    - Tape
-images:
-    - "/images/covers/väestönsuoja-demo.jpg"
-thumbnailImage: "/images/covers/väestönsuoja-demo-thumb.jpg"
 actualPrice: $7.50
+album: Demo
+artist: "V\xE4est\xF6nsuoja"
+categories:
+- Tape
+date: '2021-06-26T15:16:22'
+draft: false
+images:
+- "/images/covers/v\xE4est\xF6nsuoja-demo.jpg"
 inStock: true
+thumbnailImage: "/images/covers/v\xE4est\xF6nsuoja-demo-thumb.jpg"
+title: "V\xE4est\xF6nsuoja - Demo"
 ---
 
 ## Tape

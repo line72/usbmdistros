@@ -1,17 +1,17 @@
 ---
-title: "House By The Cemetery -  Rise Of The Rotten"
-date: 2021-06-22T16:40:59
-draft: false
-artist: "House By The Cemetery"
-album: " Rise Of The Rotten"
-categories:
-    - Vinyl
-    - CD
-images:
-    - "/images/covers/house_by_the_cemetery-_rise_of_the_rotten.jpg"
-thumbnailImage: "/images/covers/house_by_the_cemetery-_rise_of_the_rotten-thumb.jpg"
 actualPrice: $12.00 - 22.00
+album: ' Rise Of The Rotten'
+artist: House By The Cemetery
+categories:
+- Vinyl
+- CD
+date: '2021-06-26T15:23:09'
+draft: false
+images:
+- /images/covers/house_by_the_cemetery-_rise_of_the_rotten.jpg
 inStock: true
+thumbnailImage: /images/covers/house_by_the_cemetery-_rise_of_the_rotten-thumb.jpg
+title: House By The Cemetery -  Rise Of The Rotten
 ---
 
 ## Vinyl

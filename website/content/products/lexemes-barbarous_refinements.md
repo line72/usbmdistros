@@ -1,16 +1,16 @@
 ---
-title: "Lexemes - Barbarous Refinements"
-date: 2021-06-13T12:22:22
-draft: false
-artist: "Lexemes"
-album: "Barbarous Refinements"
-categories:
-    - Tape
-images:
-    - "/images/covers/lexemes-barbarous_refinements.jpg"
-thumbnailImage: "/images/covers/lexemes-barbarous_refinements-thumb.jpg"
 actualPrice: $4.00
+album: Barbarous Refinements
+artist: Lexemes
+categories:
+- Tape
+date: '2021-06-26T15:16:25'
+draft: false
+images:
+- /images/covers/lexemes-barbarous_refinements.jpg
 inStock: true
+thumbnailImage: /images/covers/lexemes-barbarous_refinements-thumb.jpg
+title: Lexemes - Barbarous Refinements
 ---
 
 ## Tape

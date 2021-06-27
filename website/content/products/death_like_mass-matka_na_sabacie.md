@@ -1,16 +1,16 @@
 ---
-title: "Death Like Mass - Matka Na Sabacie"
-date: 2021-06-22T16:40:35
-draft: false
-artist: "Death Like Mass"
-album: "Matka Na Sabacie"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/death_like_mass-matka_na_sabacie.jpg"
-thumbnailImage: "/images/covers/death_like_mass-matka_na_sabacie-thumb.jpg"
 actualPrice: $25.00
+album: Matka Na Sabacie
+artist: Death Like Mass
+categories:
+- Vinyl
+date: '2021-06-26T15:22:45'
+draft: false
+images:
+- /images/covers/death_like_mass-matka_na_sabacie.jpg
 inStock: true
+thumbnailImage: /images/covers/death_like_mass-matka_na_sabacie-thumb.jpg
+title: Death Like Mass - Matka Na Sabacie
 ---
 
 ## Vinyl

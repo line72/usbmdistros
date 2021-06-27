@@ -1,16 +1,16 @@
 ---
-title: "Wald Krypta - Pandemic Winds..."
-date: 2021-06-13T12:22:24
-draft: false
-artist: "Wald Krypta"
-album: "Pandemic Winds..."
-categories:
-    - Tape
-images:
-    - "/images/covers/wald_krypta-pandemic_winds....jpg"
-thumbnailImage: "/images/covers/wald_krypta-pandemic_winds...-thumb.jpg"
 actualPrice: $6.00
+album: Pandemic Winds...
+artist: Wald Krypta
+categories:
+- Tape
+date: '2021-06-26T15:16:26'
+draft: false
+images:
+- /images/covers/wald_krypta-pandemic_winds....jpg
 inStock: true
+thumbnailImage: /images/covers/wald_krypta-pandemic_winds...-thumb.jpg
+title: Wald Krypta - Pandemic Winds...
 ---
 
 ## Tape

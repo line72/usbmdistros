@@ -1,17 +1,17 @@
 ---
-title: "Sabbat - The Dwelling"
-date: 2021-06-22T16:41:04
-draft: false
-artist: "Sabbat"
-album: "The Dwelling"
-categories:
-    - Tape
-    - CD
-images:
-    - "/images/covers/sabbat-the_dwelling.jpg"
-thumbnailImage: "/images/covers/sabbat-the_dwelling-thumb.jpg"
 actualPrice: $7.50 - 10.00
+album: The Dwelling
+artist: Sabbat
+categories:
+- Tape
+- CD
+date: '2021-06-26T15:23:14'
+draft: false
+images:
+- /images/covers/sabbat-the_dwelling.jpg
 inStock: true
+thumbnailImage: /images/covers/sabbat-the_dwelling-thumb.jpg
+title: Sabbat - The Dwelling
 ---
 
 ## Tape

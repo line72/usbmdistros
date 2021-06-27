@@ -1,16 +1,16 @@
 ---
-title: "Funeralopolis - .​.​.​Of Deceit And Utter Madness"
-date: 2021-06-13T12:22:19
-draft: false
-artist: "Funeralopolis"
-album: ".​.​.​Of Deceit And Utter Madness"
-categories:
-    - CD
-images:
-    - "/images/covers/funeralopolis-.​.​.​of_deceit_and_utter_madness.jpg"
-thumbnailImage: "/images/covers/funeralopolis-.​.​.​of_deceit_and_utter_madness-thumb.jpg"
 actualPrice: $11.00
+album: ".\u200B.\u200B.\u200BOf Deceit And Utter Madness"
+artist: Funeralopolis
+categories:
+- CD
+date: '2021-06-26T15:16:22'
+draft: false
+images:
+- "/images/covers/funeralopolis-.\u200B.\u200B.\u200Bof_deceit_and_utter_madness.jpg"
 inStock: true
+thumbnailImage: "/images/covers/funeralopolis-.\u200B.\u200B.\u200Bof_deceit_and_utter_madness-thumb.jpg"
+title: "Funeralopolis - .\u200B.\u200B.\u200BOf Deceit And Utter Madness"
 ---
 
 ## CD

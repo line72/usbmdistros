@@ -1,17 +1,17 @@
 ---
-title: "Rites of Thy Degringolade - The Blade Philosophical"
-date: 2021-06-22T16:41:04
-draft: false
-artist: "Rites of Thy Degringolade"
-album: "The Blade Philosophical"
-categories:
-    - Vinyl
-    - CD
-images:
-    - "/images/covers/rites_of_thy_degringolade-the_blade_philosophical.png"
-thumbnailImage: "/images/covers/rites_of_thy_degringolade-the_blade_philosophical-thumb.png"
 actualPrice: $10.00 - 17.00
+album: The Blade Philosophical
+artist: Rites of Thy Degringolade
+categories:
+- Vinyl
+- CD
+date: '2021-06-26T15:23:14'
+draft: false
+images:
+- /images/covers/rites_of_thy_degringolade-the_blade_philosophical.png
 inStock: true
+thumbnailImage: /images/covers/rites_of_thy_degringolade-the_blade_philosophical-thumb.png
+title: Rites of Thy Degringolade - The Blade Philosophical
 ---
 
 ## Vinyl

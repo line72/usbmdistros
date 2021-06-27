@@ -1,16 +1,16 @@
 ---
-title: "Enucleacion - Demo 2020"
-date: 2021-06-13T12:22:19
-draft: false
-artist: "Enucleacion"
-album: "Demo 2020"
-categories:
-    - Tape
-images:
-    - "/images/covers/enucleacion-demo_2020.jpg"
-thumbnailImage: "/images/covers/enucleacion-demo_2020-thumb.jpg"
 actualPrice: $6.50
+album: Demo 2020
+artist: Enucleacion
+categories:
+- Tape
+date: '2021-06-26T15:16:22'
+draft: false
+images:
+- /images/covers/enucleacion-demo_2020.jpg
 inStock: true
+thumbnailImage: /images/covers/enucleacion-demo_2020-thumb.jpg
+title: Enucleacion - Demo 2020
 ---
 
 ## Tape

@@ -1,16 +1,16 @@
 ---
-title: "Druadan Forest - Dismal Spells from the Dragonrealm"
-date: 2021-06-22T16:40:36
-draft: false
-artist: "Druadan Forest"
-album: "Dismal Spells from the Dragonrealm"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/druadan_forest-dismal_spells_from_the_dragonrealm.jpg"
-thumbnailImage: "/images/covers/druadan_forest-dismal_spells_from_the_dragonrealm-thumb.jpg"
 actualPrice: $25.00
+album: Dismal Spells from the Dragonrealm
+artist: Druadan Forest
+categories:
+- Vinyl
+date: '2021-06-26T15:22:46'
+draft: false
+images:
+- /images/covers/druadan_forest-dismal_spells_from_the_dragonrealm.jpg
 inStock: true
+thumbnailImage: /images/covers/druadan_forest-dismal_spells_from_the_dragonrealm-thumb.jpg
+title: Druadan Forest - Dismal Spells from the Dragonrealm
 ---
 
 ## Vinyl

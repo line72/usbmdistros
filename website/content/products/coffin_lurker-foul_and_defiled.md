@@ -1,16 +1,16 @@
 ---
-title: "Coffin Lurker - Foul And Defiled"
-date: 2021-06-13T12:22:18
-draft: false
-artist: "Coffin Lurker"
-album: "Foul And Defiled"
-categories:
-    - Tape
-images:
-    - "/images/covers/coffin_lurker-foul_and_defiled.jpg"
-thumbnailImage: "/images/covers/coffin_lurker-foul_and_defiled-thumb.jpg"
 actualPrice: $8.50
+album: Foul And Defiled
+artist: Coffin Lurker
+categories:
+- Tape
+date: '2021-06-26T15:16:21'
+draft: false
+images:
+- /images/covers/coffin_lurker-foul_and_defiled.jpg
 inStock: true
+thumbnailImage: /images/covers/coffin_lurker-foul_and_defiled-thumb.jpg
+title: Coffin Lurker - Foul And Defiled
 ---
 
 ## Tape

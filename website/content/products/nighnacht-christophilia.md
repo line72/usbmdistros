@@ -1,16 +1,16 @@
 ---
-title: "Nighnacht - Christophilia"
-date: 2021-06-13T12:22:20
-draft: false
-artist: "Nighnacht"
-album: "Christophilia"
-categories:
-    - Tape
-images:
-    - "/images/covers/nighnacht-christophilia.jpg"
-thumbnailImage: "/images/covers/nighnacht-christophilia-thumb.jpg"
 actualPrice: $6.00
+album: Christophilia
+artist: Nighnacht
+categories:
+- Tape
+date: '2021-06-26T15:16:23'
+draft: false
+images:
+- /images/covers/nighnacht-christophilia.jpg
 inStock: true
+thumbnailImage: /images/covers/nighnacht-christophilia-thumb.jpg
+title: Nighnacht - Christophilia
 ---
 
 ## Tape

@@ -1,16 +1,16 @@
 ---
-title: "Lust - Thunderdome"
-date: 2021-06-13T12:22:18
-draft: false
-artist: "Lust"
-album: "Thunderdome"
-categories:
-    - Tape
-images:
-    - "/images/covers/lust-thunderdome.jpg"
-thumbnailImage: "/images/covers/lust-thunderdome-thumb.jpg"
 actualPrice: $8.00
+album: Thunderdome
+artist: Lust
+categories:
+- Tape
+date: '2021-06-26T15:16:21'
+draft: false
+images:
+- /images/covers/lust-thunderdome.jpg
 inStock: true
+thumbnailImage: /images/covers/lust-thunderdome-thumb.jpg
+title: Lust - Thunderdome
 ---
 
 ## Tape

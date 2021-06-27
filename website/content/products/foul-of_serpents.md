@@ -1,18 +1,18 @@
 ---
-title: "Foul - Of Serpents"
-date: 2021-06-22T16:41:10
-draft: false
-artist: "Foul"
-album: "Of Serpents"
-categories:
-    - Vinyl
-    - Cassette
-    - CD
-images:
-    - "/images/covers/foul-of_serpents.jpg"
-thumbnailImage: "/images/covers/foul-of_serpents-thumb.jpg"
 actualPrice: $8.00 - 20.00
+album: Of Serpents
+artist: Foul
+categories:
+- Vinyl
+- Cassette
+- CD
+date: '2021-06-26T15:23:20'
+draft: false
+images:
+- /images/covers/foul-of_serpents.jpg
 inStock: true
+thumbnailImage: /images/covers/foul-of_serpents-thumb.jpg
+title: Foul - Of Serpents
 ---
 
 ## Vinyl

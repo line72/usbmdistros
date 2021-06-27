@@ -1,17 +1,17 @@
 ---
-title: "Bhleg - Ödhin"
-date: 2021-06-22T16:40:54
-draft: false
-artist: "Bhleg"
-album: "Ödhin"
-categories:
-    - Vinyl
-    - CD
-images:
-    - "/images/covers/bhleg-ödhin.jpg"
-thumbnailImage: "/images/covers/bhleg-ödhin-thumb.jpg"
 actualPrice: $12.00 - 22.00
+album: "\xD6dhin"
+artist: Bhleg
+categories:
+- Vinyl
+- CD
+date: '2021-06-26T15:23:04'
+draft: false
+images:
+- "/images/covers/bhleg-\xF6dhin.jpg"
 inStock: true
+thumbnailImage: "/images/covers/bhleg-\xF6dhin-thumb.jpg"
+title: "Bhleg - \xD6dhin"
 ---
 
 ## Vinyl

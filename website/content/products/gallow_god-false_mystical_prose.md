@@ -1,16 +1,16 @@
 ---
-title: "Gallow God - False Mystical Prose"
-date: 2021-06-22T16:40:38
-draft: false
-artist: "Gallow God"
-album: "False Mystical Prose"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/gallow_god-false_mystical_prose.jpg"
-thumbnailImage: "/images/covers/gallow_god-false_mystical_prose-thumb.jpg"
 actualPrice: $15.00
+album: False Mystical Prose
+artist: Gallow God
+categories:
+- Vinyl
+date: '2021-06-26T15:22:47'
+draft: false
+images:
+- /images/covers/gallow_god-false_mystical_prose.jpg
 inStock: true
+thumbnailImage: /images/covers/gallow_god-false_mystical_prose-thumb.jpg
+title: Gallow God - False Mystical Prose
 ---
 
 ## Vinyl

@@ -1,16 +1,16 @@
 ---
-title: "Katechon - MMXI - MMXIV"
-date: 2021-06-22T16:40:40
-draft: false
-artist: "Katechon"
-album: "MMXI - MMXIV"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/katechon-mmxi_-_mmxiv.jpg"
-thumbnailImage: "/images/covers/katechon-mmxi_-_mmxiv-thumb.jpg"
 actualPrice: $17.00
+album: MMXI - MMXIV
+artist: Katechon
+categories:
+- Vinyl
+date: '2021-06-26T15:22:49'
+draft: false
+images:
+- /images/covers/katechon-mmxi_-_mmxiv.jpg
 inStock: true
+thumbnailImage: /images/covers/katechon-mmxi_-_mmxiv-thumb.jpg
+title: Katechon - MMXI - MMXIV
 ---
 
 ## Vinyl

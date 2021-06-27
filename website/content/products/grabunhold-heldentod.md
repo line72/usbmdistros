@@ -1,17 +1,17 @@
 ---
-title: "Grabunhold - Heldentod"
-date: 2021-06-22T16:40:58
-draft: false
-artist: "Grabunhold"
-album: "Heldentod"
-categories:
-    - Vinyl
-    - CD
-images:
-    - "/images/covers/grabunhold-heldentod.jpg"
-thumbnailImage: "/images/covers/grabunhold-heldentod-thumb.jpg"
 actualPrice: $10.00 - 20.00
+album: Heldentod
+artist: Grabunhold
+categories:
+- Vinyl
+- CD
+date: '2021-06-26T15:23:08'
+draft: false
+images:
+- /images/covers/grabunhold-heldentod.jpg
 inStock: true
+thumbnailImage: /images/covers/grabunhold-heldentod-thumb.jpg
+title: Grabunhold - Heldentod
 ---
 
 ## Vinyl

@@ -1,16 +1,16 @@
 ---
-title: "Havohej - Tungkat Blood Wand"
-date: 2021-06-22T16:40:38
-draft: false
-artist: "Havohej"
-album: "Tungkat Blood Wand"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/havohej-tungkat_blood_wand.jpg"
-thumbnailImage: "/images/covers/havohej-tungkat_blood_wand-thumb.jpg"
 actualPrice: $45.00
+album: Tungkat Blood Wand
+artist: Havohej
+categories:
+- Vinyl
+date: '2021-06-26T15:22:48'
+draft: false
+images:
+- /images/covers/havohej-tungkat_blood_wand.jpg
 inStock: true
+thumbnailImage: /images/covers/havohej-tungkat_blood_wand-thumb.jpg
+title: Havohej - Tungkat Blood Wand
 ---
 
 ## Vinyl

@@ -1,16 +1,16 @@
 ---
-title: "Devourer Of Light - Death Triumph"
-date: 2021-06-13T12:22:22
-draft: false
-artist: "Devourer Of Light"
-album: "Death Triumph"
-categories:
-    - Tape
-images:
-    - "/images/covers/devourer_of_light-death_triumph.jpg"
-thumbnailImage: "/images/covers/devourer_of_light-death_triumph-thumb.jpg"
 actualPrice: $8.00
+album: Death Triumph
+artist: Devourer Of Light
+categories:
+- Tape
+date: '2021-06-26T15:16:24'
+draft: false
+images:
+- /images/covers/devourer_of_light-death_triumph.jpg
 inStock: true
+thumbnailImage: /images/covers/devourer_of_light-death_triumph-thumb.jpg
+title: Devourer Of Light - Death Triumph
 ---
 
 ## Tape

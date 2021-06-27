@@ -1,17 +1,17 @@
 ---
-title: "Headless Pez - Carpe Verpa"
-date: 2021-06-22T16:41:10
-draft: false
-artist: "Headless Pez"
-album: "Carpe Verpa"
-categories:
-    - Tape
-    - Cassette
-images:
-    - "/images/covers/headless_pez-carpe_verpa.jpg"
-thumbnailImage: "/images/covers/headless_pez-carpe_verpa-thumb.jpg"
 actualPrice: $5.00 - 7.00
+album: Carpe Verpa
+artist: Headless Pez
+categories:
+- Tape
+- Cassette
+date: '2021-06-26T15:23:21'
+draft: false
+images:
+- /images/covers/headless_pez-carpe_verpa.jpg
 inStock: true
+thumbnailImage: /images/covers/headless_pez-carpe_verpa-thumb.jpg
+title: Headless Pez - Carpe Verpa
 ---
 
 ## Tape

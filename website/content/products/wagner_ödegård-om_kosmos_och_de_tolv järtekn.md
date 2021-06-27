@@ -1,16 +1,17 @@
 ---
-title: "Wagner Ödegård - Om Kosmos och de Tolv Järtekn"
-date: 2021-06-12T14:07:58
-draft: false
-artist: "Wagner Ödegård"
-album: "Om Kosmos och de Tolv Järtekn"
-categories:
-    - CD
-images:
-    - "/images/covers/wagner_ödegård-om_kosmos_och_de_tolv järtekn.jpg"
-thumbnailImage: "/images/covers/wagner_ödegård-om_kosmos_och_de_tolv järtekn-thumb.jpg"
 actualPrice: $14.00
+album: "Om Kosmos och de Tolv\_J\xE4rtekn"
+artist: "Wagner \xD6deg\xE5rd"
+categories:
+- CD
+date: '2021-06-26T15:03:08'
+draft: false
+images:
+- "/images/covers/wagner_\xF6deg\xE5rd-om_kosmos_och_de_tolv\_j\xE4rtekn.jpg"
 inStock: true
+thumbnailImage: "/images/covers/wagner_\xF6deg\xE5rd-om_kosmos_och_de_tolv\_j\xE4\
+  rtekn-thumb.jpg"
+title: "Wagner \xD6deg\xE5rd - Om Kosmos och de Tolv\_J\xE4rtekn"
 ---
 
 ## CD

@@ -1,17 +1,17 @@
 ---
-title: "Deathroner - Death To All"
-date: 2021-06-22T16:40:55
-draft: false
-artist: "Deathroner"
-album: "Death To All"
-categories:
-    - Vinyl
-    - CD
-images:
-    - "/images/covers/deathroner-death_to_all.jpg"
-thumbnailImage: "/images/covers/deathroner-death_to_all-thumb.jpg"
 actualPrice: $10.00 - 20.00
+album: Death To All
+artist: Deathroner
+categories:
+- Vinyl
+- CD
+date: '2021-06-26T15:23:05'
+draft: false
+images:
+- /images/covers/deathroner-death_to_all.jpg
 inStock: true
+thumbnailImage: /images/covers/deathroner-death_to_all-thumb.jpg
+title: Deathroner - Death To All
 ---
 
 ## Vinyl

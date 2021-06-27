@@ -1,16 +1,16 @@
 ---
-title: "Ancient Moon / Prosternatur - Secretum Secretorum"
-date: 2021-06-22T16:40:32
-draft: false
-artist: "Ancient Moon / Prosternatur"
-album: "Secretum Secretorum"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/ancient_moon_-_prosternatur-secretum_secretorum.jpg"
-thumbnailImage: "/images/covers/ancient_moon_-_prosternatur-secretum_secretorum-thumb.jpg"
 actualPrice: $10.00 - 17.00
+album: Secretum Secretorum
+artist: Ancient Moon / Prosternatur
+categories:
+- Vinyl
+date: '2021-06-26T15:22:41'
+draft: false
+images:
+- /images/covers/ancient_moon_-_prosternatur-secretum_secretorum.jpg
 inStock: true
+thumbnailImage: /images/covers/ancient_moon_-_prosternatur-secretum_secretorum-thumb.jpg
+title: Ancient Moon / Prosternatur - Secretum Secretorum
 ---
 
 ## Vinyl

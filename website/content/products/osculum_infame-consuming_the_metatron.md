@@ -1,17 +1,17 @@
 ---
-title: "Osculum Infame - Consuming the Metatron"
-date: 2021-06-22T16:41:12
-draft: false
-artist: "Osculum Infame"
-album: "Consuming the Metatron"
-categories:
-    - Vinyl
-    - Cassette
-images:
-    - "/images/covers/osculum_infame-consuming_the_metatron.jpg"
-thumbnailImage: "/images/covers/osculum_infame-consuming_the_metatron-thumb.jpg"
 actualPrice: $10.00 - 17.00
+album: Consuming the Metatron
+artist: Osculum Infame
+categories:
+- Vinyl
+- Cassette
+date: '2021-06-26T15:23:22'
+draft: false
+images:
+- /images/covers/osculum_infame-consuming_the_metatron.jpg
 inStock: true
+thumbnailImage: /images/covers/osculum_infame-consuming_the_metatron-thumb.jpg
+title: Osculum Infame - Consuming the Metatron
 ---
 
 ## Vinyl

@@ -1,17 +1,17 @@
 ---
-title: "Aere Aeternus - Humanity Needs No Funeral"
-date: 2021-06-22T16:40:52
-draft: false
-artist: "Aere Aeternus"
-album: "Humanity Needs No Funeral"
-categories:
-    - Vinyl
-    - CD
-images:
-    - "/images/covers/aere_aeternus-humanity_needs_no_funeral.jpg"
-thumbnailImage: "/images/covers/aere_aeternus-humanity_needs_no_funeral-thumb.jpg"
 actualPrice: $5.00 - 17.00
+album: Humanity Needs No Funeral
+artist: Aere Aeternus
+categories:
+- Vinyl
+- CD
+date: '2021-06-26T15:23:02'
+draft: false
+images:
+- /images/covers/aere_aeternus-humanity_needs_no_funeral.jpg
 inStock: true
+thumbnailImage: /images/covers/aere_aeternus-humanity_needs_no_funeral-thumb.jpg
+title: Aere Aeternus - Humanity Needs No Funeral
 ---
 
 ## Vinyl

@@ -1,16 +1,16 @@
 ---
-title: "Behemoth - Pandemonic Incantations"
-date: 2021-06-22T16:40:33
-draft: false
-artist: "Behemoth"
-album: "Pandemonic Incantations"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/behemoth-pandemonic_incantations.jpg"
-thumbnailImage: "/images/covers/behemoth-pandemonic_incantations-thumb.jpg"
 actualPrice: $25.00
+album: Pandemonic Incantations
+artist: Behemoth
+categories:
+- Vinyl
+date: '2021-06-26T15:22:43'
+draft: false
+images:
+- /images/covers/behemoth-pandemonic_incantations.jpg
 inStock: true
+thumbnailImage: /images/covers/behemoth-pandemonic_incantations-thumb.jpg
+title: Behemoth - Pandemonic Incantations
 ---
 
 ## Vinyl

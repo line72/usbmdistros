@@ -1,17 +1,17 @@
 ---
-title: "TheNightTimeProject - Pale Season"
-date: 2021-06-12T14:11:53
-draft: false
-artist: "TheNightTimeProject"
-album: "Pale Season"
-categories:
-    - Vinyl
-    - CD
-images:
-    - "/images/covers/thenighttimeproject-pale_season.jpg"
-thumbnailImage: "/images/covers/thenighttimeproject-pale_season-thumb.jpg"
 actualPrice: $9.99 - 22.99
+album: Pale Season
+artist: TheNightTimeProject
+categories:
+- Vinyl
+- CD
+date: '2021-06-26T15:15:52'
+draft: false
+images:
+- /images/covers/thenighttimeproject-pale_season.jpg
 inStock: true
+thumbnailImage: /images/covers/thenighttimeproject-pale_season-thumb.jpg
+title: TheNightTimeProject - Pale Season
 ---
 
 ## Vinyl

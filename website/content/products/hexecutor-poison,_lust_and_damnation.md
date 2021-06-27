@@ -1,16 +1,16 @@
 ---
-title: "Hexecutor - Poison, Lust and Damnation"
-date: 2021-06-22T16:40:39
-draft: false
-artist: "Hexecutor"
-album: "Poison, Lust and Damnation"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/hexecutor-poison,_lust_and_damnation.jpg"
-thumbnailImage: "/images/covers/hexecutor-poison,_lust_and_damnation-thumb.jpg"
 actualPrice: $20.00
+album: Poison, Lust and Damnation
+artist: Hexecutor
+categories:
+- Vinyl
+date: '2021-06-26T15:22:48'
+draft: false
+images:
+- /images/covers/hexecutor-poison,_lust_and_damnation.jpg
 inStock: true
+thumbnailImage: /images/covers/hexecutor-poison,_lust_and_damnation-thumb.jpg
+title: Hexecutor - Poison, Lust and Damnation
 ---
 
 ## Vinyl

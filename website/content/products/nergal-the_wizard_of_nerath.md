@@ -1,17 +1,17 @@
 ---
-title: "Nergal - The Wizard of Nerath"
-date: 2021-06-22T16:41:02
-draft: false
-artist: "Nergal"
-album: "The Wizard of Nerath"
-categories:
-    - Vinyl
-    - CD
-images:
-    - "/images/covers/nergal-the_wizard_of_nerath.jpg"
-thumbnailImage: "/images/covers/nergal-the_wizard_of_nerath-thumb.jpg"
 actualPrice: $10.00 - 25.00
+album: The Wizard of Nerath
+artist: Nergal
+categories:
+- Vinyl
+- CD
+date: '2021-06-26T15:23:12'
+draft: false
+images:
+- /images/covers/nergal-the_wizard_of_nerath.jpg
 inStock: true
+thumbnailImage: /images/covers/nergal-the_wizard_of_nerath-thumb.jpg
+title: Nergal - The Wizard of Nerath
 ---
 
 ## Vinyl

@@ -1,16 +1,16 @@
 ---
-title: "ANGUISH - Under The Influence"
-date: 2021-06-22T16:40:32
-draft: false
-artist: "ANGUISH"
-album: "Under The Influence"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/anguish-under_the_influence.jpg"
-thumbnailImage: "/images/covers/anguish-under_the_influence-thumb.jpg"
 actualPrice: $22.00
+album: Under The Influence
+artist: Anguish
+categories:
+- Vinyl
+date: '2021-06-26T15:22:42'
+draft: false
+images:
+- /images/covers/anguish-under_the_influence.jpg
 inStock: true
+thumbnailImage: /images/covers/anguish-under_the_influence-thumb.jpg
+title: Anguish - Under The Influence
 ---
 
 ## Vinyl

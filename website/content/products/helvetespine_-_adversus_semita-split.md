@@ -1,16 +1,16 @@
 ---
-title: "Helvetespine / Adversus Semita - Split"
-date: 2021-06-12T14:07:56
-draft: false
-artist: "Helvetespine / Adversus Semita"
-album: "Split"
-categories:
-    - Tape
-images:
-    - "/images/covers/helvetespine_-_adversus_semita-split.jpg"
-thumbnailImage: "/images/covers/helvetespine_-_adversus_semita-split-thumb.jpg"
 actualPrice: $9.00
+album: Split
+artist: Helvetespine / Adversus Semita
+categories:
+- Tape
+date: '2021-06-26T15:03:02'
+draft: false
+images:
+- /images/covers/helvetespine_-_adversus_semita-split.jpg
 inStock: true
+thumbnailImage: /images/covers/helvetespine_-_adversus_semita-split-thumb.jpg
+title: Helvetespine / Adversus Semita - Split
 ---
 
 ## Tape

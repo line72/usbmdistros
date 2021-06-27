@@ -1,16 +1,16 @@
 ---
-title: "Blut Aus Nord - MoRT"
-date: 2021-06-12T14:11:53
-draft: false
-artist: "Blut Aus Nord"
-album: "MoRT"
-categories:
-    - Tape
-images:
-    - "/images/covers/blut_aus_nord-mort.jpg"
-thumbnailImage: "/images/covers/blut_aus_nord-mort-thumb.jpg"
 actualPrice: $13.99
+album: MoRT
+artist: Blut Aus Nord
+categories:
+- Tape
+date: '2021-06-26T15:15:52'
+draft: false
+images:
+- /images/covers/blut_aus_nord-mort.jpg
 inStock: true
+thumbnailImage: /images/covers/blut_aus_nord-mort-thumb.jpg
+title: Blut Aus Nord - MoRT
 ---
 
 ## Tape

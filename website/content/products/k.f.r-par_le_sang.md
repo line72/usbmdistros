@@ -1,16 +1,16 @@
 ---
-title: "K.F.R - Par Le Sang"
-date: 2021-06-12T14:07:52
-draft: false
-artist: "K.F.R"
-album: "Par Le Sang"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/k.f.r-par_le_sang.jpg"
-thumbnailImage: "/images/covers/k.f.r-par_le_sang-thumb.jpg"
 actualPrice: $20.00
+album: Par Le Sang
+artist: K.F.R
+categories:
+- Vinyl
+date: '2021-06-26T15:02:55'
+draft: false
+images:
+- /images/covers/k.f.r-par_le_sang.jpg
 inStock: true
+thumbnailImage: /images/covers/k.f.r-par_le_sang-thumb.jpg
+title: K.F.R - Par Le Sang
 ---
 
 ## Vinyl

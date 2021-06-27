@@ -1,16 +1,16 @@
 ---
-title: "Embalmed - Unholy Torment"
-date: 2021-06-22T16:40:36
-draft: false
-artist: "Embalmed"
-album: "Unholy Torment"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/embalmed-unholy_torment.jpg"
-thumbnailImage: "/images/covers/embalmed-unholy_torment-thumb.jpg"
 actualPrice: $15.00
+album: Unholy Torment
+artist: Embalmed
+categories:
+- Vinyl
+date: '2021-06-26T15:22:46'
+draft: false
+images:
+- /images/covers/embalmed-unholy_torment.jpg
 inStock: true
+thumbnailImage: /images/covers/embalmed-unholy_torment-thumb.jpg
+title: Embalmed - Unholy Torment
 ---
 
 ## Vinyl

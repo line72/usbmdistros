@@ -1,16 +1,16 @@
 ---
-title: "Furia - Halny"
-date: 2021-06-22T16:40:38
-draft: false
-artist: "Furia"
-album: "Halny"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/furia-halny.jpg"
-thumbnailImage: "/images/covers/furia-halny-thumb.jpg"
 actualPrice: $20.00
+album: Halny
+artist: Furia
+categories:
+- Vinyl
+date: '2021-06-26T15:22:47'
+draft: false
+images:
+- /images/covers/furia-halny.jpg
 inStock: true
+thumbnailImage: /images/covers/furia-halny-thumb.jpg
+title: Furia - Halny
 ---
 
 ## Vinyl

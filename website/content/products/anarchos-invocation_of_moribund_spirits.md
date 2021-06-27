@@ -1,16 +1,16 @@
 ---
-title: "Anarchos - Invocation Of Moribund Spirits"
-date: 2021-06-22T16:40:32
-draft: false
-artist: "Anarchos"
-album: "Invocation Of Moribund Spirits"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/anarchos-invocation_of_moribund_spirits.jpg"
-thumbnailImage: "/images/covers/anarchos-invocation_of_moribund_spirits-thumb.jpg"
 actualPrice: $17.00
+album: Invocation Of Moribund Spirits
+artist: Anarchos
+categories:
+- Vinyl
+date: '2021-06-26T15:22:41'
+draft: false
+images:
+- /images/covers/anarchos-invocation_of_moribund_spirits.jpg
 inStock: true
+thumbnailImage: /images/covers/anarchos-invocation_of_moribund_spirits-thumb.jpg
+title: Anarchos - Invocation Of Moribund Spirits
 ---
 
 ## Vinyl

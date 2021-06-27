@@ -1,16 +1,16 @@
 ---
-title: "Necroabbot - Hell Torment"
-date: 2021-06-13T12:22:23
-draft: false
-artist: "Necroabbot"
-album: "Hell Torment"
-categories:
-    - Tape
-images:
-    - "/images/covers/necroabbot-hell_torment.jpg"
-thumbnailImage: "/images/covers/necroabbot-hell_torment-thumb.jpg"
 actualPrice: $6.00
+album: Hell Torment
+artist: Necroabbot
+categories:
+- Tape
+date: '2021-06-26T15:16:26'
+draft: false
+images:
+- /images/covers/necroabbot-hell_torment.jpg
 inStock: true
+thumbnailImage: /images/covers/necroabbot-hell_torment-thumb.jpg
+title: Necroabbot - Hell Torment
 ---
 
 ## Tape

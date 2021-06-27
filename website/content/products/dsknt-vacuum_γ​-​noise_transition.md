@@ -1,17 +1,17 @@
 ---
-title: "Dsknt - Vacuum Γ​-​Noise Transition"
-date: 2021-06-13T12:22:19
-draft: false
-artist: "Dsknt"
-album: "Vacuum Γ​-​Noise Transition"
-categories:
-    - Tape
-    - CD
-images:
-    - "/images/covers/dsknt-vacuum_γ​-​noise_transition.jpg"
-thumbnailImage: "/images/covers/dsknt-vacuum_γ​-​noise_transition-thumb.jpg"
 actualPrice: $8.00 - 13.00
+album: "Vacuum \u0393\u200B-\u200BNoise Transition"
+artist: Dsknt
+categories:
+- Tape
+- CD
+date: '2021-06-26T15:16:22'
+draft: false
+images:
+- "/images/covers/dsknt-vacuum_\u03B3\u200B-\u200Bnoise_transition.jpg"
 inStock: true
+thumbnailImage: "/images/covers/dsknt-vacuum_\u03B3\u200B-\u200Bnoise_transition-thumb.jpg"
+title: "Dsknt - Vacuum \u0393\u200B-\u200BNoise Transition"
 ---
 
 ## Tape

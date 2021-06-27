@@ -1,17 +1,17 @@
 ---
-title: "Possession / Venefixion - Passio Christi - Part II / Necrophagous Abandon"
-date: 2021-06-22T16:41:03
-draft: false
-artist: "Possession / Venefixion"
-album: "Passio Christi - Part II / Necrophagous Abandon"
-categories:
-    - Vinyl
-    - CD
-images:
-    - "/images/covers/possession_-_venefixion-passio_christi_-_part_ii_-_necrophagous_abandon.jpg"
-thumbnailImage: "/images/covers/possession_-_venefixion-passio_christi_-_part_ii_-_necrophagous_abandon-thumb.jpg"
 actualPrice: $10.00 - 17.00
+album: Passio Christi - Part II / Necrophagous Abandon
+artist: Possession / Venefixion
+categories:
+- Vinyl
+- CD
+date: '2021-06-26T15:23:13'
+draft: false
+images:
+- /images/covers/possession_-_venefixion-passio_christi_-_part_ii_-_necrophagous_abandon.jpg
 inStock: true
+thumbnailImage: /images/covers/possession_-_venefixion-passio_christi_-_part_ii_-_necrophagous_abandon-thumb.jpg
+title: Possession / Venefixion - Passio Christi - Part II / Necrophagous Abandon
 ---
 
 ## Vinyl

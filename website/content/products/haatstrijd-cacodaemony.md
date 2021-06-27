@@ -1,16 +1,16 @@
 ---
-title: "Haatstrijd - Cacodaemony"
-date: 2021-06-22T16:40:38
-draft: false
-artist: "Haatstrijd"
-album: "Cacodaemony"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/haatstrijd-cacodaemony.jpg"
-thumbnailImage: "/images/covers/haatstrijd-cacodaemony-thumb.jpg"
 actualPrice: $10.00
+album: Cacodaemony
+artist: Haatstrijd
+categories:
+- Vinyl
+date: '2021-06-26T15:22:48'
+draft: false
+images:
+- /images/covers/haatstrijd-cacodaemony.jpg
 inStock: true
+thumbnailImage: /images/covers/haatstrijd-cacodaemony-thumb.jpg
+title: Haatstrijd - Cacodaemony
 ---
 
 ## Vinyl

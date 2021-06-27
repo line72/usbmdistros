@@ -1,16 +1,16 @@
 ---
-title: "Herelith - Voices Demo 2020"
-date: 2021-06-13T12:22:21
-draft: false
-artist: "Herelith"
-album: "Voices Demo 2020"
-categories:
-    - Tape
-images:
-    - "/images/covers/herelith-voices_demo_2020.jpg"
-thumbnailImage: "/images/covers/herelith-voices_demo_2020-thumb.jpg"
 actualPrice: $7.50
+album: Voices Demo 2020
+artist: Herelith
+categories:
+- Tape
+date: '2021-06-26T15:16:24'
+draft: false
+images:
+- /images/covers/herelith-voices_demo_2020.jpg
 inStock: true
+thumbnailImage: /images/covers/herelith-voices_demo_2020-thumb.jpg
+title: Herelith - Voices Demo 2020
 ---
 
 ## Tape

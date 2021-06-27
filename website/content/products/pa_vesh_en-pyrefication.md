@@ -1,16 +1,16 @@
 ---
-title: "Pa Vesh En - Pyrefication"
-date: 2021-06-12T14:04:39
-draft: false
-artist: "Pa Vesh En"
-album: "Pyrefication"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/pa_vesh_en-pyrefication.jpg"
-thumbnailImage: "/images/covers/pa_vesh_en-pyrefication-thumb.jpg"
 actualPrice: $18.00
+album: Pyrefication
+artist: Pa Vesh En
+categories:
+- Vinyl
+date: '2021-06-26T14:49:52'
+draft: false
+images:
+- /images/covers/pa_vesh_en-pyrefication.jpg
 inStock: true
+thumbnailImage: /images/covers/pa_vesh_en-pyrefication-thumb.jpg
+title: Pa Vesh En - Pyrefication
 ---
 
 ## Vinyl

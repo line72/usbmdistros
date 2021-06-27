@@ -1,16 +1,16 @@
 ---
-title: "Voëmmr - O ovnh intot adr Mordrb"
-date: 2021-06-12T14:07:52
-draft: false
-artist: "Voëmmr"
-album: "O ovnh intot adr Mordrb"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/voëmmr-o_ovnh_intot_adr_mordrb.jpg"
-thumbnailImage: "/images/covers/voëmmr-o_ovnh_intot_adr_mordrb-thumb.jpg"
 actualPrice: $23.00
+album: O ovnh intot adr Mordrb
+artist: "Vo\xEBmmr"
+categories:
+- Vinyl
+date: '2021-06-26T15:02:55'
+draft: false
+images:
+- "/images/covers/vo\xEBmmr-o_ovnh_intot_adr_mordrb.jpg"
 inStock: true
+thumbnailImage: "/images/covers/vo\xEBmmr-o_ovnh_intot_adr_mordrb-thumb.jpg"
+title: "Vo\xEBmmr - O ovnh intot adr Mordrb"
 ---
 
 ## Vinyl

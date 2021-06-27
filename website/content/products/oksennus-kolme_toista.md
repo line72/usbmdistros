@@ -1,17 +1,17 @@
 ---
-title: "Oksennus - Kolme Toista"
-date: 2021-06-22T16:41:02
-draft: false
-artist: "Oksennus"
-album: "Kolme Toista"
-categories:
-    - Vinyl
-    - CD
-images:
-    - "/images/covers/oksennus-kolme_toista.jpg"
-thumbnailImage: "/images/covers/oksennus-kolme_toista-thumb.jpg"
 actualPrice: $10.00 - 25.00
+album: Kolme Toista
+artist: Oksennus
+categories:
+- Vinyl
+- CD
+date: '2021-06-26T15:23:12'
+draft: false
+images:
+- /images/covers/oksennus-kolme_toista.jpg
 inStock: true
+thumbnailImage: /images/covers/oksennus-kolme_toista-thumb.jpg
+title: Oksennus - Kolme Toista
 ---
 
 ## Vinyl

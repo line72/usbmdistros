@@ -1,16 +1,16 @@
 ---
-title: "Lvthn / Häxenzijrkell - Split"
-date: 2021-06-12T14:07:53
-draft: false
-artist: "Lvthn / Häxenzijrkell"
-album: "Split"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/lvthn_-_häxenzijrkell-split.jpg"
-thumbnailImage: "/images/covers/lvthn_-_häxenzijrkell-split-thumb.jpg"
 actualPrice: $17.00
+album: Split
+artist: "Lvthn / H\xE4xenzijrkell"
+categories:
+- Vinyl
+date: '2021-06-26T15:02:56'
+draft: false
+images:
+- "/images/covers/lvthn_-_h\xE4xenzijrkell-split.jpg"
 inStock: true
+thumbnailImage: "/images/covers/lvthn_-_h\xE4xenzijrkell-split-thumb.jpg"
+title: "Lvthn / H\xE4xenzijrkell - Split"
 ---
 
 ## Vinyl

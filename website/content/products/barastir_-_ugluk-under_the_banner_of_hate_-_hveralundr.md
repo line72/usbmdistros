@@ -1,16 +1,16 @@
 ---
-title: "Barastir / Ugluk - Under The Banner Of Hate / Hveralundr"
-date: 2021-06-22T16:40:33
-draft: false
-artist: "Barastir / Ugluk"
-album: "Under The Banner Of Hate / Hveralundr"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/barastir_-_ugluk-under_the_banner_of_hate_-_hveralundr.jpg"
-thumbnailImage: "/images/covers/barastir_-_ugluk-under_the_banner_of_hate_-_hveralundr-thumb.jpg"
 actualPrice: $20.00
+album: Under The Banner Of Hate / Hveralundr
+artist: Barastir / Ugluk
+categories:
+- Vinyl
+date: '2021-06-26T15:22:42'
+draft: false
+images:
+- /images/covers/barastir_-_ugluk-under_the_banner_of_hate_-_hveralundr.jpg
 inStock: true
+thumbnailImage: /images/covers/barastir_-_ugluk-under_the_banner_of_hate_-_hveralundr-thumb.jpg
+title: Barastir / Ugluk - Under The Banner Of Hate / Hveralundr
 ---
 
 ## Vinyl

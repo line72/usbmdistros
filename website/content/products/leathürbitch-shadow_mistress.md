@@ -1,16 +1,16 @@
 ---
-title: "Leathürbitch - Shadow Mistress"
-date: 2021-06-13T12:22:19
-draft: false
-artist: "Leathürbitch"
-album: "Shadow Mistress"
-categories:
-    - Tape
-images:
-    - "/images/covers/leathürbitch-shadow_mistress.jpg"
-thumbnailImage: "/images/covers/leathürbitch-shadow_mistress-thumb.jpg"
 actualPrice: $7.00
+album: Shadow Mistress
+artist: "Leath\xFCrbitch"
+categories:
+- Tape
+date: '2021-06-26T15:16:22'
+draft: false
+images:
+- "/images/covers/leath\xFCrbitch-shadow_mistress.jpg"
 inStock: true
+thumbnailImage: "/images/covers/leath\xFCrbitch-shadow_mistress-thumb.jpg"
+title: "Leath\xFCrbitch - Shadow Mistress"
 ---
 
 ## Tape

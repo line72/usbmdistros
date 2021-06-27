@@ -1,16 +1,16 @@
 ---
-title: "Abigail / Vulcan Tyrant - Split"
-date: 2021-06-22T16:40:52
-draft: false
-artist: "Abigail / Vulcan Tyrant"
-album: "Split"
-categories:
-    - CD
-images:
-    - "/images/covers/abigail_-_vulcan_tyrant-split.jpg"
-thumbnailImage: "/images/covers/abigail_-_vulcan_tyrant-split-thumb.jpg"
 actualPrice: $10.00
+album: Split
+artist: Abigail / Vulcan Tyrant
+categories:
+- CD
+date: '2021-06-26T15:23:02'
+draft: false
+images:
+- /images/covers/abigail_-_vulcan_tyrant-split.jpg
 inStock: true
+thumbnailImage: /images/covers/abigail_-_vulcan_tyrant-split-thumb.jpg
+title: Abigail / Vulcan Tyrant - Split
 ---
 
 ## CD

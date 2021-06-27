@@ -1,16 +1,16 @@
 ---
-title: "Injuria - Demo I"
-date: 2021-06-13T12:22:19
-draft: false
-artist: "Injuria"
-album: "Demo I"
-categories:
-    - Tape
-images:
-    - "/images/covers/injuria-demo_i.jpg"
-thumbnailImage: "/images/covers/injuria-demo_i-thumb.jpg"
 actualPrice: $8.50 - 10.00
+album: Demo I
+artist: Injuria
+categories:
+- Tape
+date: '2021-06-26T15:16:22'
+draft: false
+images:
+- /images/covers/injuria-demo_i.jpg
 inStock: true
+thumbnailImage: /images/covers/injuria-demo_i-thumb.jpg
+title: Injuria - Demo I
 ---
 
 ## Tape

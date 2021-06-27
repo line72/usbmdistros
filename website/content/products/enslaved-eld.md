@@ -1,16 +1,16 @@
 ---
-title: "Enslaved - Eld"
-date: 2021-06-22T16:40:37
-draft: false
-artist: "Enslaved"
-album: "Eld"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/enslaved-eld.jpg"
-thumbnailImage: "/images/covers/enslaved-eld-thumb.jpg"
 actualPrice: $27.00
+album: Eld
+artist: Enslaved
+categories:
+- Vinyl
+date: '2021-06-26T15:22:46'
+draft: false
+images:
+- /images/covers/enslaved-eld.jpg
 inStock: true
+thumbnailImage: /images/covers/enslaved-eld-thumb.jpg
+title: Enslaved - Eld
 ---
 
 ## Vinyl

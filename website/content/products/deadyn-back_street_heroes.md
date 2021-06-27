@@ -1,16 +1,16 @@
 ---
-title: "Deadyn - Back Street Heroes"
-date: 2021-06-22T16:40:35
-draft: false
-artist: "Deadyn"
-album: "Back Street Heroes"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/deadyn-back_street_heroes.jpg"
-thumbnailImage: "/images/covers/deadyn-back_street_heroes-thumb.jpg"
 actualPrice: $20.00
+album: Back Street Heroes
+artist: Deadyn
+categories:
+- Vinyl
+date: '2021-06-26T15:22:45'
+draft: false
+images:
+- /images/covers/deadyn-back_street_heroes.jpg
 inStock: true
+thumbnailImage: /images/covers/deadyn-back_street_heroes-thumb.jpg
+title: Deadyn - Back Street Heroes
 ---
 
 ## Vinyl

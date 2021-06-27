@@ -1,16 +1,16 @@
 ---
-title: "Ashencult / Mephorash - Opus Serpens"
-date: 2021-06-22T16:40:33
-draft: false
-artist: "Ashencult / Mephorash"
-album: "Opus Serpens"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/ashencult_-_mephorash-opus_serpens.jpg"
-thumbnailImage: "/images/covers/ashencult_-_mephorash-opus_serpens-thumb.jpg"
 actualPrice: $15.00
+album: Opus Serpens
+artist: Ashencult / Mephorash
+categories:
+- Vinyl
+date: '2021-06-26T15:22:42'
+draft: false
+images:
+- /images/covers/ashencult_-_mephorash-opus_serpens.jpg
 inStock: true
+thumbnailImage: /images/covers/ashencult_-_mephorash-opus_serpens-thumb.jpg
+title: Ashencult / Mephorash - Opus Serpens
 ---
 
 ## Vinyl

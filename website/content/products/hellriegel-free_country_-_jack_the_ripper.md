@@ -1,16 +1,16 @@
 ---
-title: "Hellriegel - Free Country / Jack The Ripper"
-date: 2021-06-13T12:22:21
-draft: false
-artist: "Hellriegel"
-album: "Free Country / Jack The Ripper"
-categories:
-    - Tape
-images:
-    - "/images/covers/hellriegel-free_country_-_jack_the_ripper.jpg"
-thumbnailImage: "/images/covers/hellriegel-free_country_-_jack_the_ripper-thumb.jpg"
 actualPrice: $6.50
+album: Free Country / Jack The Ripper
+artist: Hellriegel
+categories:
+- Tape
+date: '2021-06-26T15:16:24'
+draft: false
+images:
+- /images/covers/hellriegel-free_country_-_jack_the_ripper.jpg
 inStock: true
+thumbnailImage: /images/covers/hellriegel-free_country_-_jack_the_ripper-thumb.jpg
+title: Hellriegel - Free Country / Jack The Ripper
 ---
 
 ## Tape

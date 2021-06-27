@@ -1,16 +1,16 @@
 ---
-title: "Profanal - Black Chaos"
-date: 2021-06-22T16:40:43
-draft: false
-artist: "Profanal"
-album: "Black Chaos"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/profanal-black_chaos.jpg"
-thumbnailImage: "/images/covers/profanal-black_chaos-thumb.jpg"
 actualPrice: $17.00
+album: Black Chaos
+artist: Profanal
+categories:
+- Vinyl
+date: '2021-06-26T15:22:53'
+draft: false
+images:
+- /images/covers/profanal-black_chaos.jpg
 inStock: true
+thumbnailImage: /images/covers/profanal-black_chaos-thumb.jpg
+title: Profanal - Black Chaos
 ---
 
 ## Vinyl

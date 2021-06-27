@@ -1,16 +1,16 @@
 ---
-title: "In The Court Of A Broken Flesh - Self-Titled"
-date: 2021-06-13T12:22:21
-draft: false
-artist: "In The Court Of A Broken Flesh"
-album: "Self-Titled"
-categories:
-    - Tape
-images:
-    - "/images/covers/in_the_court_of_a_broken_flesh-self-titled.jpg"
-thumbnailImage: "/images/covers/in_the_court_of_a_broken_flesh-self-titled-thumb.jpg"
 actualPrice: $8.00
+album: Self-Titled
+artist: In The Court Of A Broken Flesh
+categories:
+- Tape
+date: '2021-06-26T15:16:24'
+draft: false
+images:
+- /images/covers/in_the_court_of_a_broken_flesh-self-titled.jpg
 inStock: true
+thumbnailImage: /images/covers/in_the_court_of_a_broken_flesh-self-titled-thumb.jpg
+title: In The Court Of A Broken Flesh - Self-Titled
 ---
 
 ## Tape

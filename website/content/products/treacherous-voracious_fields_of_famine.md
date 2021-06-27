@@ -1,17 +1,17 @@
 ---
-title: "Treacherous - Voracious Fields Of Famine"
-date: 2021-06-22T16:41:14
-draft: false
-artist: "Treacherous"
-album: "Voracious Fields Of Famine"
-categories:
-    - Tape
-    - Cassette
-images:
-    - "/images/covers/treacherous-voracious_fields_of_famine.jpg"
-thumbnailImage: "/images/covers/treacherous-voracious_fields_of_famine-thumb.jpg"
 actualPrice: $6.00 - 7.00
+album: Voracious Fields Of Famine
+artist: Treacherous
+categories:
+- Tape
+- Cassette
+date: '2021-06-26T15:23:24'
+draft: false
+images:
+- /images/covers/treacherous-voracious_fields_of_famine.jpg
 inStock: true
+thumbnailImage: /images/covers/treacherous-voracious_fields_of_famine-thumb.jpg
+title: Treacherous - Voracious Fields Of Famine
 ---
 
 ## Tape

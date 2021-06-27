@@ -1,16 +1,16 @@
 ---
-title: "Mercy - Mercy"
-date: 2021-06-22T16:40:41
-draft: false
-artist: "Mercy"
-album: "Mercy"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/mercy-mercy.jpg"
-thumbnailImage: "/images/covers/mercy-mercy-thumb.jpg"
 actualPrice: $25.00
+album: Mercy
+artist: Mercy
+categories:
+- Vinyl
+date: '2021-06-26T15:22:51'
+draft: false
+images:
+- /images/covers/mercy-mercy.jpg
 inStock: true
+thumbnailImage: /images/covers/mercy-mercy-thumb.jpg
+title: Mercy - Mercy
 ---
 
 ## Vinyl

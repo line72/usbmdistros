@@ -1,17 +1,17 @@
 ---
-title: "Havohej - Table Of Uncreation"
-date: 2021-06-13T12:22:19
-draft: false
-artist: "Havohej"
-album: "Table Of Uncreation"
+actualPrice: $5.00
+album: Table Of Uncreation
+artist: Havohej
 categories:
-    - Tape
+- Tape
+date: '2021-06-26T15:16:20'
+draft: false
 images:
-    - "/images/covers/havohej-table_of_uncreation.jpg"
-thumbnailImage: "/images/covers/havohej-table_of_uncreation-thumb.jpg"
-actualPrice: $7.00
+- /images/covers/havohej-table_of_uncreation.jpg
 inStock: true
+thumbnailImage: /images/covers/havohej-table_of_uncreation-thumb.jpg
+title: Havohej - Table Of Uncreation
 ---
 
 ## Tape
-* Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/31922515-havohej-table-of-uncreation) for $7.00
+* Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/31922515-havohej-table-of-uncreation) for $5.00

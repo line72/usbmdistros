@@ -1,16 +1,16 @@
 ---
-title: "A.M.S.G. - The Principle Of Evil Becomes The Ideal Of The Promethean"
-date: 2021-06-22T16:40:52
-draft: false
-artist: "A.M.S.G."
-album: "The Principle Of Evil Becomes The Ideal Of The Promethean"
-categories:
-    - CD
-images:
-    - "/images/covers/a.m.s.g.-the_principle_of_evil_becomes_the_ideal_of_the_promethean.jpg"
-thumbnailImage: "/images/covers/a.m.s.g.-the_principle_of_evil_becomes_the_ideal_of_the_promethean-thumb.jpg"
 actualPrice: $10.00
+album: The Principle Of Evil Becomes The Ideal Of The Promethean
+artist: A.M.S.G.
+categories:
+- CD
+date: '2021-06-26T15:23:02'
+draft: false
+images:
+- /images/covers/a.m.s.g.-the_principle_of_evil_becomes_the_ideal_of_the_promethean.jpg
 inStock: true
+thumbnailImage: /images/covers/a.m.s.g.-the_principle_of_evil_becomes_the_ideal_of_the_promethean-thumb.jpg
+title: A.M.S.G. - The Principle Of Evil Becomes The Ideal Of The Promethean
 ---
 
 ## CD

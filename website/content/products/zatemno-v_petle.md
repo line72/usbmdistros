@@ -1,17 +1,17 @@
 ---
-title: "Zatemno - V Petle"
-date: 2021-06-22T16:41:14
-draft: false
-artist: "Zatemno"
-album: "V Petle"
-categories:
-    - Tape
-    - Cassette
-images:
-    - "/images/covers/zatemno-v_petle.jpg"
-thumbnailImage: "/images/covers/zatemno-v_petle-thumb.jpg"
 actualPrice: $4.00 - 7.00
+album: V Petle
+artist: Zatemno
+categories:
+- Tape
+- Cassette
+date: '2021-06-26T15:23:25'
+draft: false
+images:
+- /images/covers/zatemno-v_petle.jpg
 inStock: true
+thumbnailImage: /images/covers/zatemno-v_petle-thumb.jpg
+title: Zatemno - V Petle
 ---
 
 ## Tape

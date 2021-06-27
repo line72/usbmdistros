@@ -1,16 +1,16 @@
 ---
-title: "Cave Grave - Cavernous Disseminations"
-date: 2021-06-13T12:22:18
-draft: false
-artist: "Cave Grave"
-album: "Cavernous Disseminations"
-categories:
-    - Tape
-images:
-    - "/images/covers/cave_grave-cavernous_disseminations.jpg"
-thumbnailImage: "/images/covers/cave_grave-cavernous_disseminations-thumb.jpg"
 actualPrice: $8.00
+album: Cavernous Disseminations
+artist: Cave Grave
+categories:
+- Tape
+date: '2021-06-26T15:16:22'
+draft: false
+images:
+- /images/covers/cave_grave-cavernous_disseminations.jpg
 inStock: true
+thumbnailImage: /images/covers/cave_grave-cavernous_disseminations-thumb.jpg
+title: Cave Grave - Cavernous Disseminations
 ---
 
 ## Tape

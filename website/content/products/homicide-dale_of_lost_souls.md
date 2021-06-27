@@ -1,16 +1,16 @@
 ---
-title: "Homicide - Dale of Lost Souls"
-date: 2021-06-22T16:40:39
-draft: false
-artist: "Homicide"
-album: "Dale of Lost Souls"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/homicide-dale_of_lost_souls.jpg"
-thumbnailImage: "/images/covers/homicide-dale_of_lost_souls-thumb.jpg"
 actualPrice: $15.00
+album: Dale of Lost Souls
+artist: Homicide
+categories:
+- Vinyl
+date: '2021-06-26T15:22:49'
+draft: false
+images:
+- /images/covers/homicide-dale_of_lost_souls.jpg
 inStock: true
+thumbnailImage: /images/covers/homicide-dale_of_lost_souls-thumb.jpg
+title: Homicide - Dale of Lost Souls
 ---
 
 ## Vinyl

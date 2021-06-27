@@ -1,16 +1,16 @@
 ---
-title: "Cenotafio - Larvae Tedeum Teratos"
-date: 2021-06-22T16:40:35
-draft: false
-artist: "Cenotafio"
-album: "Larvae Tedeum Teratos"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/cenotafio-larvae_tedeum_teratos.jpg"
-thumbnailImage: "/images/covers/cenotafio-larvae_tedeum_teratos-thumb.jpg"
 actualPrice: $22.00
+album: Larvae Tedeum Teratos
+artist: Cenotafio
+categories:
+- Vinyl
+date: '2021-06-26T15:22:44'
+draft: false
+images:
+- /images/covers/cenotafio-larvae_tedeum_teratos.jpg
 inStock: true
+thumbnailImage: /images/covers/cenotafio-larvae_tedeum_teratos-thumb.jpg
+title: Cenotafio - Larvae Tedeum Teratos
 ---
 
 ## Vinyl

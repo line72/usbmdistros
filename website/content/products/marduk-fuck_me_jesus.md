@@ -1,16 +1,16 @@
 ---
-title: "Marduk - Fuck Me Jesus"
-date: 2021-06-22T16:40:41
-draft: false
-artist: "Marduk"
-album: "Fuck Me Jesus"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/marduk-fuck_me_jesus.jpg"
-thumbnailImage: "/images/covers/marduk-fuck_me_jesus-thumb.jpg"
 actualPrice: $20.00
+album: Fuck Me Jesus
+artist: Marduk
+categories:
+- Vinyl
+date: '2021-06-26T15:22:50'
+draft: false
+images:
+- /images/covers/marduk-fuck_me_jesus.jpg
 inStock: true
+thumbnailImage: /images/covers/marduk-fuck_me_jesus-thumb.jpg
+title: Marduk - Fuck Me Jesus
 ---
 
 ## Vinyl

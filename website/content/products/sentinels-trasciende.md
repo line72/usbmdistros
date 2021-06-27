@@ -1,16 +1,16 @@
 ---
-title: "Sentinels - Trasciende"
-date: 2021-06-13T12:22:18
-draft: false
-artist: "Sentinels"
-album: "Trasciende"
-categories:
-    - Tape
-images:
-    - "/images/covers/sentinels-trasciende.jpg"
-thumbnailImage: "/images/covers/sentinels-trasciende-thumb.jpg"
 actualPrice: $6.00
+album: Trasciende
+artist: Sentinels
+categories:
+- Tape
+date: '2021-06-26T15:16:22'
+draft: false
+images:
+- /images/covers/sentinels-trasciende.jpg
 inStock: true
+thumbnailImage: /images/covers/sentinels-trasciende-thumb.jpg
+title: Sentinels - Trasciende
 ---
 
 ## Tape

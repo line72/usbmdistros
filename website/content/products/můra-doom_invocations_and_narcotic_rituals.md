@@ -1,16 +1,16 @@
 ---
-title: "Můra - Doom Invocations And Narcotic Rituals"
-date: 2021-06-13T12:22:18
-draft: false
-artist: "Můra"
-album: "Doom Invocations And Narcotic Rituals"
-categories:
-    - Tape
-images:
-    - "/images/covers/můra-doom_invocations_and_narcotic_rituals.jpg"
-thumbnailImage: "/images/covers/můra-doom_invocations_and_narcotic_rituals-thumb.jpg"
 actualPrice: $6.50
+album: Doom Invocations And Narcotic Rituals
+artist: "M\u016Fra"
+categories:
+- Tape
+date: '2021-06-26T15:16:21'
+draft: false
+images:
+- "/images/covers/m\u016Fra-doom_invocations_and_narcotic_rituals.jpg"
 inStock: true
+thumbnailImage: "/images/covers/m\u016Fra-doom_invocations_and_narcotic_rituals-thumb.jpg"
+title: "M\u016Fra - Doom Invocations And Narcotic Rituals"
 ---
 
 ## Tape

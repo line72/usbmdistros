@@ -1,16 +1,16 @@
 ---
-title: "Tarkus - Self-Titled"
-date: 2021-06-13T12:22:24
-draft: false
-artist: "Tarkus"
-album: "Self-Titled"
-categories:
-    - Tape
-images:
-    - "/images/covers/tarkus-self-titled.jpg"
-thumbnailImage: "/images/covers/tarkus-self-titled-thumb.jpg"
 actualPrice: $8.50
+album: Self-Titled
+artist: Tarkus
+categories:
+- Tape
+date: '2021-06-26T15:16:27'
+draft: false
+images:
+- /images/covers/tarkus-self-titled.jpg
 inStock: true
+thumbnailImage: /images/covers/tarkus-self-titled-thumb.jpg
+title: Tarkus - Self-Titled
 ---
 
 ## Tape

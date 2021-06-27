@@ -1,16 +1,16 @@
 ---
-title: "Perversifier - Perverting the Masses"
-date: 2021-06-22T16:40:43
-draft: false
-artist: "Perversifier"
-album: "Perverting the Masses"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/perversifier-perverting_the_masses.jpg"
-thumbnailImage: "/images/covers/perversifier-perverting_the_masses-thumb.jpg"
 actualPrice: $17.00
+album: Perverting the Masses
+artist: Perversifier
+categories:
+- Vinyl
+date: '2021-06-26T15:22:53'
+draft: false
+images:
+- /images/covers/perversifier-perverting_the_masses.jpg
 inStock: true
+thumbnailImage: /images/covers/perversifier-perverting_the_masses-thumb.jpg
+title: Perversifier - Perverting the Masses
 ---
 
 ## Vinyl

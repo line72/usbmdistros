@@ -1,16 +1,16 @@
 ---
-title: "Conjüratör - Erosplattered"
-date: 2021-06-22T16:40:35
-draft: false
-artist: "Conjüratör"
-album: "Erosplattered"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/conjüratör-erosplattered.jpg"
-thumbnailImage: "/images/covers/conjüratör-erosplattered-thumb.jpg"
 actualPrice: $15.00 - 17.00
+album: Erosplattered
+artist: "Conj\xFCrat\xF6r"
+categories:
+- Vinyl
+date: '2021-06-26T15:22:44'
+draft: false
+images:
+- "/images/covers/conj\xFCrat\xF6r-erosplattered.jpg"
 inStock: true
+thumbnailImage: "/images/covers/conj\xFCrat\xF6r-erosplattered-thumb.jpg"
+title: "Conj\xFCrat\xF6r - Erosplattered"
 ---
 
 ## Vinyl

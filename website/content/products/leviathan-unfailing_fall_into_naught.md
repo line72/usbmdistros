@@ -1,16 +1,16 @@
 ---
-title: "Leviathan - Unfailing Fall into Naught"
-date: 2021-06-22T16:40:40
-draft: false
-artist: "Leviathan"
-album: "Unfailing Fall into Naught"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/leviathan-unfailing_fall_into_naught.jpg"
-thumbnailImage: "/images/covers/leviathan-unfailing_fall_into_naught-thumb.jpg"
 actualPrice: $66.00
+album: Unfailing Fall into Naught
+artist: Leviathan
+categories:
+- Vinyl
+date: '2021-06-26T15:22:50'
+draft: false
+images:
+- /images/covers/leviathan-unfailing_fall_into_naught.jpg
 inStock: true
+thumbnailImage: /images/covers/leviathan-unfailing_fall_into_naught-thumb.jpg
+title: Leviathan - Unfailing Fall into Naught
 ---
 
 ## Vinyl

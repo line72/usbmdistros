@@ -1,16 +1,16 @@
 ---
-title: "Darkthrone - Goatlord"
-date: 2021-06-22T16:40:35
-draft: false
-artist: "Darkthrone"
-album: "Goatlord"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/darkthrone-goatlord.jpg"
-thumbnailImage: "/images/covers/darkthrone-goatlord-thumb.jpg"
 actualPrice: $25.00
+album: Goatlord
+artist: Darkthrone
+categories:
+- Vinyl
+date: '2021-06-26T15:22:44'
+draft: false
+images:
+- /images/covers/darkthrone-goatlord.jpg
 inStock: true
+thumbnailImage: /images/covers/darkthrone-goatlord-thumb.jpg
+title: Darkthrone - Goatlord
 ---
 
 ## Vinyl

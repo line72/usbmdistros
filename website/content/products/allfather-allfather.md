@@ -1,16 +1,16 @@
 ---
-title: "Allfather - Allfather"
-date: 2021-06-22T16:40:32
-draft: false
-artist: "Allfather"
-album: "Allfather"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/allfather-allfather.jpg"
-thumbnailImage: "/images/covers/allfather-allfather-thumb.jpg"
 actualPrice: $15.00
+album: Allfather
+artist: Allfather
+categories:
+- Vinyl
+date: '2021-06-26T15:22:41'
+draft: false
+images:
+- /images/covers/allfather-allfather.jpg
 inStock: true
+thumbnailImage: /images/covers/allfather-allfather-thumb.jpg
+title: Allfather - Allfather
 ---
 
 ## Vinyl

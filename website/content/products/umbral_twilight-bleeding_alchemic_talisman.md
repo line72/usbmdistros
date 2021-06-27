@@ -1,16 +1,16 @@
 ---
-title: "Umbral Twilight - Bleeding Alchemic Talisman"
-date: 2021-06-13T12:22:19
-draft: false
-artist: "Umbral Twilight"
-album: "Bleeding Alchemic Talisman"
-categories:
-    - Tape
-images:
-    - "/images/covers/umbral_twilight-bleeding_alchemic_talisman.jpg"
-thumbnailImage: "/images/covers/umbral_twilight-bleeding_alchemic_talisman-thumb.jpg"
 actualPrice: $7.50
+album: Bleeding Alchemic Talisman
+artist: Umbral Twilight
+categories:
+- Tape
+date: '2021-06-26T15:16:22'
+draft: false
+images:
+- /images/covers/umbral_twilight-bleeding_alchemic_talisman.jpg
 inStock: true
+thumbnailImage: /images/covers/umbral_twilight-bleeding_alchemic_talisman-thumb.jpg
+title: Umbral Twilight - Bleeding Alchemic Talisman
 ---
 
 ## Tape

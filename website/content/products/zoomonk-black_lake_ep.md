@@ -1,16 +1,16 @@
 ---
-title: "Zoomonk - Black Lake Ep"
-date: 2021-06-13T12:22:23
-draft: false
-artist: "Zoomonk"
-album: "Black Lake Ep"
-categories:
-    - Tape
-images:
-    - "/images/covers/zoomonk-black_lake_ep.jpg"
-thumbnailImage: "/images/covers/zoomonk-black_lake_ep-thumb.jpg"
 actualPrice: $3.00
+album: Black Lake Ep
+artist: Zoomonk
+categories:
+- Tape
+date: '2021-06-26T15:16:25'
+draft: false
+images:
+- /images/covers/zoomonk-black_lake_ep.jpg
 inStock: true
+thumbnailImage: /images/covers/zoomonk-black_lake_ep-thumb.jpg
+title: Zoomonk - Black Lake Ep
 ---
 
 ## Tape

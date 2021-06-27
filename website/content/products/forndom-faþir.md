@@ -1,17 +1,17 @@
 ---
-title: "Forndom - Faþir"
-date: 2021-06-22T16:40:57
-draft: false
-artist: "Forndom"
-album: "Faþir"
-categories:
-    - Vinyl
-    - CD
-images:
-    - "/images/covers/forndom-faþir.jpg"
-thumbnailImage: "/images/covers/forndom-faþir-thumb.jpg"
 actualPrice: $12.00 - 22.00
+album: "Fa\xFEir"
+artist: Forndom
+categories:
+- Vinyl
+- CD
+date: '2021-06-26T15:23:07'
+draft: false
+images:
+- "/images/covers/forndom-fa\xFEir.jpg"
 inStock: true
+thumbnailImage: "/images/covers/forndom-fa\xFEir-thumb.jpg"
+title: "Forndom - Fa\xFEir"
 ---
 
 ## Vinyl

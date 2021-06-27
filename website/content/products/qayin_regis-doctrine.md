@@ -1,16 +1,16 @@
 ---
-title: "Qayin Regis - Doctrine"
-date: 2021-06-22T16:40:44
-draft: false
-artist: "Qayin Regis"
-album: "Doctrine"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/qayin_regis-doctrine.jpg"
-thumbnailImage: "/images/covers/qayin_regis-doctrine-thumb.jpg"
 actualPrice: $20.00
+album: Doctrine
+artist: Qayin Regis
+categories:
+- Vinyl
+date: '2021-06-26T15:22:53'
+draft: false
+images:
+- /images/covers/qayin_regis-doctrine.jpg
 inStock: true
+thumbnailImage: /images/covers/qayin_regis-doctrine-thumb.jpg
+title: Qayin Regis - Doctrine
 ---
 
 ## Vinyl

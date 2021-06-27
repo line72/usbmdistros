@@ -1,16 +1,16 @@
 ---
-title: "Hexen H - Obscene Promo MMXXI"
-date: 2021-06-12T14:07:55
-draft: false
-artist: "Hexen H"
-album: "Obscene Promo MMXXI"
-categories:
-    - Tape
-images:
-    - "/images/covers/hexen_h-obscene_promo_mmxxi.jpg"
-thumbnailImage: "/images/covers/hexen_h-obscene_promo_mmxxi-thumb.jpg"
 actualPrice: $10.00
+album: Obscene Promo MMXXI
+artist: Hexen H
+categories:
+- Tape
+date: '2021-06-26T15:03:02'
+draft: false
+images:
+- /images/covers/hexen_h-obscene_promo_mmxxi.jpg
 inStock: true
+thumbnailImage: /images/covers/hexen_h-obscene_promo_mmxxi-thumb.jpg
+title: Hexen H - Obscene Promo MMXXI
 ---
 
 ## Tape

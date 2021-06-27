@@ -1,16 +1,16 @@
 ---
-title: "Sewer - Psychotic Melodies"
-date: 2021-06-13T12:22:18
-draft: false
-artist: "Sewer"
-album: "Psychotic Melodies"
-categories:
-    - Tape
-images:
-    - "/images/covers/sewer-psychotic_melodies.jpg"
-thumbnailImage: "/images/covers/sewer-psychotic_melodies-thumb.jpg"
 actualPrice: $8.00
+album: Psychotic Melodies
+artist: Sewer
+categories:
+- Tape
+date: '2021-06-26T15:16:21'
+draft: false
+images:
+- /images/covers/sewer-psychotic_melodies.jpg
 inStock: true
+thumbnailImage: /images/covers/sewer-psychotic_melodies-thumb.jpg
+title: Sewer - Psychotic Melodies
 ---
 
 ## Tape

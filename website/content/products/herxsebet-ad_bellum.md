@@ -1,16 +1,16 @@
 ---
-title: "Herxsebet - Ad Bellum"
-date: 2021-06-12T14:07:58
-draft: false
-artist: "Herxsebet"
-album: "Ad Bellum"
-categories:
-    - CD
-images:
-    - "/images/covers/herxsebet-ad_bellum.jpg"
-thumbnailImage: "/images/covers/herxsebet-ad_bellum-thumb.jpg"
 actualPrice: $12.00
+album: Ad Bellum
+artist: Herxsebet
+categories:
+- CD
+date: '2021-06-26T15:03:08'
+draft: false
+images:
+- /images/covers/herxsebet-ad_bellum.jpg
 inStock: true
+thumbnailImage: /images/covers/herxsebet-ad_bellum-thumb.jpg
+title: Herxsebet - Ad Bellum
 ---
 
 ## CD

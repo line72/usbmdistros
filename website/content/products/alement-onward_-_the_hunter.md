@@ -1,17 +1,17 @@
 ---
-title: "Alement - Onward / The Hunter"
-date: 2021-06-22T16:41:08
-draft: false
-artist: "Alement"
-album: "Onward / The Hunter"
-categories:
-    - Tape
-    - Cassette
-images:
-    - "/images/covers/alement-onward_-_the_hunter.jpg"
-thumbnailImage: "/images/covers/alement-onward_-_the_hunter-thumb.jpg"
 actualPrice: $6.50 - 8.00
+album: Onward / The Hunter
+artist: Alement
+categories:
+- Tape
+- Cassette
+date: '2021-06-26T15:23:19'
+draft: false
+images:
+- /images/covers/alement-onward_-_the_hunter.jpg
 inStock: true
+thumbnailImage: /images/covers/alement-onward_-_the_hunter-thumb.jpg
+title: Alement - Onward / The Hunter
 ---
 
 ## Tape

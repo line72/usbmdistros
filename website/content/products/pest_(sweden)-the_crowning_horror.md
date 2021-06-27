@@ -1,16 +1,16 @@
 ---
-title: "Pest (Sweden) - The Crowning Horror"
-date: 2021-06-22T16:40:43
-draft: false
-artist: "Pest (Sweden)"
-album: "The Crowning Horror"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/pest_(sweden)-the_crowning_horror.jpg"
-thumbnailImage: "/images/covers/pest_(sweden)-the_crowning_horror-thumb.jpg"
 actualPrice: $20.00
+album: The Crowning Horror
+artist: Pest (Sweden)
+categories:
+- Vinyl
+date: '2021-06-26T15:22:53'
+draft: false
+images:
+- /images/covers/pest_(sweden)-the_crowning_horror.jpg
 inStock: true
+thumbnailImage: /images/covers/pest_(sweden)-the_crowning_horror-thumb.jpg
+title: Pest (Sweden) - The Crowning Horror
 ---
 
 ## Vinyl

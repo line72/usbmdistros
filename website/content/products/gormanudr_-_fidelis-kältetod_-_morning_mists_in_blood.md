@@ -1,16 +1,16 @@
 ---
-title: "Gormanudr / Fidelis - Kältetod / Morning Mists in Blood"
-date: 2021-06-12T14:07:54
-draft: false
-artist: "Gormanudr / Fidelis"
-album: "Kältetod / Morning Mists in Blood"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/gormanudr_-_fidelis-kältetod_-_morning_mists_in_blood.jpg"
-thumbnailImage: "/images/covers/gormanudr_-_fidelis-kältetod_-_morning_mists_in_blood-thumb.jpg"
 actualPrice: $9.00
+album: "K\xE4ltetod / Morning Mists in Blood"
+artist: Gormanudr / Fidelis
+categories:
+- Vinyl
+date: '2021-06-26T15:02:58'
+draft: false
+images:
+- "/images/covers/gormanudr_-_fidelis-k\xE4ltetod_-_morning_mists_in_blood.jpg"
 inStock: true
+thumbnailImage: "/images/covers/gormanudr_-_fidelis-k\xE4ltetod_-_morning_mists_in_blood-thumb.jpg"
+title: "Gormanudr / Fidelis - K\xE4ltetod / Morning Mists in Blood"
 ---
 
 ## Vinyl

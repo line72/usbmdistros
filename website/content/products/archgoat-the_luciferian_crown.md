@@ -1,17 +1,17 @@
 ---
-title: "Archgoat - The Luciferian Crown"
-date: 2021-06-22T16:40:32
-draft: false
-artist: "Archgoat"
-album: "The Luciferian Crown"
-categories:
-    - Vinyl
-    - CD
-images:
-    - "/images/covers/archgoat-the_luciferian_crown.jpg"
-thumbnailImage: "/images/covers/archgoat-the_luciferian_crown-thumb.jpg"
 actualPrice: $9.99 - 25.00
+album: The Luciferian Crown
+artist: Archgoat
+categories:
+- Vinyl
+- CD
+date: '2021-06-26T15:22:42'
+draft: false
+images:
+- /images/covers/archgoat-the_luciferian_crown.jpg
 inStock: true
+thumbnailImage: /images/covers/archgoat-the_luciferian_crown-thumb.jpg
+title: Archgoat - The Luciferian Crown
 ---
 
 ## Vinyl

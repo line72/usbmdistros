@@ -1,16 +1,16 @@
 ---
-title: "Leviathan - The First Sublevel of Suicide"
-date: 2021-06-22T16:40:40
-draft: false
-artist: "Leviathan"
-album: "The First Sublevel of Suicide"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/leviathan-the_first_sublevel_of_suicide.jpg"
-thumbnailImage: "/images/covers/leviathan-the_first_sublevel_of_suicide-thumb.jpg"
 actualPrice: $66.00
+album: The First Sublevel of Suicide
+artist: Leviathan
+categories:
+- Vinyl
+date: '2021-06-26T15:22:50'
+draft: false
+images:
+- /images/covers/leviathan-the_first_sublevel_of_suicide.jpg
 inStock: true
+thumbnailImage: /images/covers/leviathan-the_first_sublevel_of_suicide-thumb.jpg
+title: Leviathan - The First Sublevel of Suicide
 ---
 
 ## Vinyl

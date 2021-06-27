@@ -1,17 +1,17 @@
 ---
-title: "Herzegovinian - The Chasm"
-date: 2021-06-22T16:41:10
-draft: false
-artist: "Herzegovinian"
-album: "The Chasm"
-categories:
-    - Tape
-    - Cassette
-images:
-    - "/images/covers/herzegovinian-the_chasm.jpg"
-thumbnailImage: "/images/covers/herzegovinian-the_chasm-thumb.jpg"
 actualPrice: $4.00 - 9.00
+album: The Chasm
+artist: Herzegovinian
+categories:
+- Tape
+- Cassette
+date: '2021-06-26T15:23:21'
+draft: false
+images:
+- /images/covers/herzegovinian-the_chasm.jpg
 inStock: true
+thumbnailImage: /images/covers/herzegovinian-the_chasm-thumb.jpg
+title: Herzegovinian - The Chasm
 ---
 
 ## Tape

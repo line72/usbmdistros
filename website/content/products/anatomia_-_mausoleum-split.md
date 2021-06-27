@@ -1,16 +1,16 @@
 ---
-title: "Anatomia / Mausoleum - Split"
-date: 2021-06-22T16:40:32
-draft: false
-artist: "Anatomia / Mausoleum"
-album: "Split"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/anatomia_-_mausoleum-split.jpg"
-thumbnailImage: "/images/covers/anatomia_-_mausoleum-split-thumb.jpg"
 actualPrice: $20.00
+album: Split
+artist: Anatomia / Mausoleum
+categories:
+- Vinyl
+date: '2021-06-26T15:22:41'
+draft: false
+images:
+- /images/covers/anatomia_-_mausoleum-split.jpg
 inStock: true
+thumbnailImage: /images/covers/anatomia_-_mausoleum-split-thumb.jpg
+title: Anatomia / Mausoleum - Split
 ---
 
 ## Vinyl

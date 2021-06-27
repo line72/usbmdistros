@@ -1,17 +1,17 @@
 ---
-title: "White Ward - Futility Report"
-date: 2021-06-12T14:11:53
-draft: false
-artist: "White Ward"
-album: "Futility Report"
-categories:
-    - Vinyl
-    - CD
-images:
-    - "/images/covers/white_ward-futility_report.jpg"
-thumbnailImage: "/images/covers/white_ward-futility_report-thumb.jpg"
 actualPrice: $9.99 - 25.99
+album: Futility Report
+artist: White Ward
+categories:
+- Vinyl
+- CD
+date: '2021-06-26T15:15:53'
+draft: false
+images:
+- /images/covers/white_ward-futility_report.jpg
 inStock: true
+thumbnailImage: /images/covers/white_ward-futility_report-thumb.jpg
+title: White Ward - Futility Report
 ---
 
 ## Vinyl

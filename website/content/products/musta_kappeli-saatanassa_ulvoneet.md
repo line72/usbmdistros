@@ -1,17 +1,17 @@
 ---
-title: "Musta Kappeli - Saatanassa Ulvoneet"
-date: 2021-06-22T16:41:01
-draft: false
-artist: "Musta Kappeli"
-album: "Saatanassa Ulvoneet"
-categories:
-    - Vinyl
-    - CD
-images:
-    - "/images/covers/musta_kappeli-saatanassa_ulvoneet.jpg"
-thumbnailImage: "/images/covers/musta_kappeli-saatanassa_ulvoneet-thumb.jpg"
 actualPrice: $10.00 - 15.00
+album: Saatanassa Ulvoneet
+artist: Musta Kappeli
+categories:
+- Vinyl
+- CD
+date: '2021-06-26T15:23:11'
+draft: false
+images:
+- /images/covers/musta_kappeli-saatanassa_ulvoneet.jpg
 inStock: true
+thumbnailImage: /images/covers/musta_kappeli-saatanassa_ulvoneet-thumb.jpg
+title: Musta Kappeli - Saatanassa Ulvoneet
 ---
 
 ## Vinyl

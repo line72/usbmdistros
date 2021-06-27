@@ -1,16 +1,16 @@
 ---
-title: "Khors - The Flame Of Eternity’s Decline"
-date: 2021-06-22T16:40:40
-draft: false
-artist: "Khors"
-album: "The Flame Of Eternity’s Decline"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/khors-the_flame_of_eternity’s_decline.jpg"
-thumbnailImage: "/images/covers/khors-the_flame_of_eternity’s_decline-thumb.jpg"
 actualPrice: $17.00
+album: "The Flame Of Eternity\u2019s Decline"
+artist: Khors
+categories:
+- Vinyl
+date: '2021-06-26T15:22:50'
+draft: false
+images:
+- "/images/covers/khors-the_flame_of_eternity\u2019s_decline.jpg"
 inStock: true
+thumbnailImage: "/images/covers/khors-the_flame_of_eternity\u2019s_decline-thumb.jpg"
+title: "Khors - The Flame Of Eternity\u2019s Decline"
 ---
 
 ## Vinyl

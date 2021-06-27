@@ -1,16 +1,16 @@
 ---
-title: "Hegemony - Enthroned By Persecution"
-date: 2021-06-13T12:22:21
-draft: false
-artist: "Hegemony"
-album: "Enthroned By Persecution"
-categories:
-    - Tape
-images:
-    - "/images/covers/hegemony-enthroned_by_persecution.jpg"
-thumbnailImage: "/images/covers/hegemony-enthroned_by_persecution-thumb.jpg"
 actualPrice: $8.00
+album: Enthroned By Persecution
+artist: Hegemony
+categories:
+- Tape
+date: '2021-06-26T15:16:24'
+draft: false
+images:
+- /images/covers/hegemony-enthroned_by_persecution.jpg
 inStock: true
+thumbnailImage: /images/covers/hegemony-enthroned_by_persecution-thumb.jpg
+title: Hegemony - Enthroned By Persecution
 ---
 
 ## Tape

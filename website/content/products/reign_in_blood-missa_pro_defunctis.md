@@ -1,17 +1,17 @@
 ---
-title: "Reign In Blood - Missa Pro Defunctis"
-date: 2021-06-22T16:41:04
-draft: false
-artist: "Reign In Blood"
-album: "Missa Pro Defunctis"
-categories:
-    - Vinyl
-    - CD
-images:
-    - "/images/covers/reign_in_blood-missa_pro_defunctis.jpg"
-thumbnailImage: "/images/covers/reign_in_blood-missa_pro_defunctis-thumb.jpg"
 actualPrice: $10.00 - 20.00
+album: Missa Pro Defunctis
+artist: Reign In Blood
+categories:
+- Vinyl
+- CD
+date: '2021-06-26T15:23:14'
+draft: false
+images:
+- /images/covers/reign_in_blood-missa_pro_defunctis.jpg
 inStock: true
+thumbnailImage: /images/covers/reign_in_blood-missa_pro_defunctis-thumb.jpg
+title: Reign In Blood - Missa Pro Defunctis
 ---
 
 ## Vinyl

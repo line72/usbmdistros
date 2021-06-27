@@ -1,16 +1,16 @@
 ---
-title: "Messiah Death - Invocated Unholy Tracks"
-date: 2021-06-22T16:40:41
-draft: false
-artist: "Messiah Death"
-album: "Invocated Unholy Tracks"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/messiah_death-invocated_unholy_tracks.jpg"
-thumbnailImage: "/images/covers/messiah_death-invocated_unholy_tracks-thumb.jpg"
 actualPrice: $27.00
+album: Invocated Unholy Tracks
+artist: Messiah Death
+categories:
+- Vinyl
+date: '2021-06-26T15:22:51'
+draft: false
+images:
+- /images/covers/messiah_death-invocated_unholy_tracks.jpg
 inStock: true
+thumbnailImage: /images/covers/messiah_death-invocated_unholy_tracks-thumb.jpg
+title: Messiah Death - Invocated Unholy Tracks
 ---
 
 ## Vinyl

@@ -1,17 +1,17 @@
 ---
-title: "Quo Vadis - Quo Vadis"
-date: 2021-06-22T16:41:03
-draft: false
-artist: "Quo Vadis"
-album: "Quo Vadis"
-categories:
-    - Vinyl
-    - CD
-images:
-    - "/images/covers/quo_vadis-quo_vadis.jpg"
-thumbnailImage: "/images/covers/quo_vadis-quo_vadis-thumb.jpg"
 actualPrice: $10.00 - 20.00
+album: Quo Vadis
+artist: Quo Vadis
+categories:
+- Vinyl
+- CD
+date: '2021-06-26T15:23:13'
+draft: false
+images:
+- /images/covers/quo_vadis-quo_vadis.jpg
 inStock: true
+thumbnailImage: /images/covers/quo_vadis-quo_vadis-thumb.jpg
+title: Quo Vadis - Quo Vadis
 ---
 
 ## Vinyl

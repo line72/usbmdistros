@@ -1,16 +1,16 @@
 ---
-title: "Pneuma Hagion - Trinity"
-date: 2021-06-22T16:40:43
-draft: false
-artist: "Pneuma Hagion"
-album: "Trinity"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/pneuma_hagion-trinity.jpg"
-thumbnailImage: "/images/covers/pneuma_hagion-trinity-thumb.jpg"
 actualPrice: $25.00
+album: Trinity
+artist: Pneuma Hagion
+categories:
+- Vinyl
+date: '2021-06-26T15:22:53'
+draft: false
+images:
+- /images/covers/pneuma_hagion-trinity.jpg
 inStock: true
+thumbnailImage: /images/covers/pneuma_hagion-trinity-thumb.jpg
+title: Pneuma Hagion - Trinity
 ---
 
 ## Vinyl

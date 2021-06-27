@@ -1,17 +1,17 @@
 ---
-title: "Disharmony - Messe de Minuit"
-date: 2021-06-22T16:40:56
-draft: false
-artist: "Disharmony"
-album: "Messe de Minuit"
-categories:
-    - Vinyl
-    - CD
-images:
-    - "/images/covers/disharmony-messe_de_minuit.jpg"
-thumbnailImage: "/images/covers/disharmony-messe_de_minuit-thumb.jpg"
 actualPrice: $10.00 - 17.00
+album: Messe de Minuit
+artist: Disharmony
+categories:
+- Vinyl
+- CD
+date: '2021-06-26T15:23:06'
+draft: false
+images:
+- /images/covers/disharmony-messe_de_minuit.jpg
 inStock: true
+thumbnailImage: /images/covers/disharmony-messe_de_minuit-thumb.jpg
+title: Disharmony - Messe de Minuit
 ---
 
 ## Vinyl

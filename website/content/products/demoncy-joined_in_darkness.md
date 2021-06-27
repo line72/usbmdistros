@@ -1,16 +1,16 @@
 ---
-title: "Demoncy - Joined In Darkness"
-date: 2021-06-22T16:40:36
-draft: false
-artist: "Demoncy"
-album: "Joined In Darkness"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/demoncy-joined_in_darkness.jpg"
-thumbnailImage: "/images/covers/demoncy-joined_in_darkness-thumb.jpg"
 actualPrice: $25.00
+album: Joined In Darkness
+artist: Demoncy
+categories:
+- Vinyl
+date: '2021-06-26T15:22:45'
+draft: false
+images:
+- /images/covers/demoncy-joined_in_darkness.jpg
 inStock: true
+thumbnailImage: /images/covers/demoncy-joined_in_darkness-thumb.jpg
+title: Demoncy - Joined In Darkness
 ---
 
 ## Vinyl

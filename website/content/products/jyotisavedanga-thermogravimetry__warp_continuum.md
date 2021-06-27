@@ -1,16 +1,16 @@
 ---
-title: "JYOTISAVEDANGA - Thermogravimetry  Warp Continuum"
-date: 2021-06-22T16:40:40
-draft: false
-artist: "JYOTISAVEDANGA"
-album: "Thermogravimetry  Warp Continuum"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/jyotisavedanga-thermogravimetry__warp_continuum.jpg"
-thumbnailImage: "/images/covers/jyotisavedanga-thermogravimetry__warp_continuum-thumb.jpg"
 actualPrice: $17.00
+album: Thermogravimetry  Warp Continuum
+artist: JYOTISAVEDANGA
+categories:
+- Vinyl
+date: '2021-06-26T15:22:49'
+draft: false
+images:
+- /images/covers/jyotisavedanga-thermogravimetry__warp_continuum.jpg
 inStock: true
+thumbnailImage: /images/covers/jyotisavedanga-thermogravimetry__warp_continuum-thumb.jpg
+title: JYOTISAVEDANGA - Thermogravimetry  Warp Continuum
 ---
 
 ## Vinyl

@@ -1,16 +1,16 @@
 ---
-title: "Barbatos / Blizzard - United Metal Punks"
-date: 2021-06-22T16:40:33
-draft: false
-artist: "Barbatos / Blizzard"
-album: "United Metal Punks"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/barbatos_-_blizzard-united_metal_punks.jpg"
-thumbnailImage: "/images/covers/barbatos_-_blizzard-united_metal_punks-thumb.jpg"
 actualPrice: $20.00
+album: United Metal Punks
+artist: Barbatos / Blizzard
+categories:
+- Vinyl
+date: '2021-06-26T15:22:42'
+draft: false
+images:
+- /images/covers/barbatos_-_blizzard-united_metal_punks.jpg
 inStock: true
+thumbnailImage: /images/covers/barbatos_-_blizzard-united_metal_punks-thumb.jpg
+title: Barbatos / Blizzard - United Metal Punks
 ---
 
 ## Vinyl

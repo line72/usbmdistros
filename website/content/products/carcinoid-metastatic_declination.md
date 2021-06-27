@@ -1,16 +1,16 @@
 ---
-title: "Carcinoid - Metastatic Declination"
-date: 2021-06-22T16:40:34
-draft: false
-artist: "Carcinoid"
-album: "Metastatic Declination"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/carcinoid-metastatic_declination.jpg"
-thumbnailImage: "/images/covers/carcinoid-metastatic_declination-thumb.jpg"
 actualPrice: $22.00
+album: Metastatic Declination
+artist: Carcinoid
+categories:
+- Vinyl
+date: '2021-06-26T15:22:44'
+draft: false
+images:
+- /images/covers/carcinoid-metastatic_declination.jpg
 inStock: true
+thumbnailImage: /images/covers/carcinoid-metastatic_declination-thumb.jpg
+title: Carcinoid - Metastatic Declination
 ---
 
 ## Vinyl

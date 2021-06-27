@@ -1,16 +1,16 @@
 ---
-title: "Cultist - Pillars Of Flesh"
-date: 2021-06-13T12:22:24
-draft: false
-artist: "Cultist"
-album: "Pillars Of Flesh"
-categories:
-    - Tape
-images:
-    - "/images/covers/cultist-pillars_of_flesh.jpg"
-thumbnailImage: "/images/covers/cultist-pillars_of_flesh-thumb.jpg"
 actualPrice: $4.00
+album: Pillars Of Flesh
+artist: Cultist
+categories:
+- Tape
+date: '2021-06-26T15:16:27'
+draft: false
+images:
+- /images/covers/cultist-pillars_of_flesh.jpg
 inStock: true
+thumbnailImage: /images/covers/cultist-pillars_of_flesh-thumb.jpg
+title: Cultist - Pillars Of Flesh
 ---
 
 ## Tape

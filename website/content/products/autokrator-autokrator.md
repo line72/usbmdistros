@@ -1,16 +1,16 @@
 ---
-title: "Autokrator - Autokrator"
-date: 2021-06-22T16:40:33
-draft: false
-artist: "Autokrator"
-album: "Autokrator"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/autokrator-autokrator.jpg"
-thumbnailImage: "/images/covers/autokrator-autokrator-thumb.jpg"
 actualPrice: $17.00
+album: Autokrator
+artist: Autokrator
+categories:
+- Vinyl
+date: '2021-06-26T15:22:42'
+draft: false
+images:
+- /images/covers/autokrator-autokrator.jpg
 inStock: true
+thumbnailImage: /images/covers/autokrator-autokrator-thumb.jpg
+title: Autokrator - Autokrator
 ---
 
 ## Vinyl

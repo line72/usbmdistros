@@ -1,16 +1,16 @@
 ---
-title: "Pestilentia - Where the Light Dies"
-date: 2021-06-22T16:40:43
-draft: false
-artist: "Pestilentia"
-album: "Where the Light Dies"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/pestilentia-where_the_light_dies.jpg"
-thumbnailImage: "/images/covers/pestilentia-where_the_light_dies-thumb.jpg"
 actualPrice: $17.00
+album: Where the Light Dies
+artist: Pestilentia
+categories:
+- Vinyl
+date: '2021-06-26T15:22:53'
+draft: false
+images:
+- /images/covers/pestilentia-where_the_light_dies.jpg
 inStock: true
+thumbnailImage: /images/covers/pestilentia-where_the_light_dies-thumb.jpg
+title: Pestilentia - Where the Light Dies
 ---
 
 ## Vinyl

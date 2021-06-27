@@ -1,16 +1,16 @@
 ---
-title: "Allochiria - Throes"
-date: 2021-06-22T16:40:32
-draft: false
-artist: "Allochiria"
-album: "Throes"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/allochiria-throes.jpg"
-thumbnailImage: "/images/covers/allochiria-throes-thumb.jpg"
 actualPrice: $17.00
+album: Throes
+artist: Allochiria
+categories:
+- Vinyl
+date: '2021-06-26T15:22:41'
+draft: false
+images:
+- /images/covers/allochiria-throes.jpg
 inStock: true
+thumbnailImage: /images/covers/allochiria-throes-thumb.jpg
+title: Allochiria - Throes
 ---
 
 ## Vinyl

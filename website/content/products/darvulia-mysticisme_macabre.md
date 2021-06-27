@@ -1,16 +1,16 @@
 ---
-title: "Darvulia - Mysticisme Macabre"
-date: 2021-06-22T16:40:35
-draft: false
-artist: "Darvulia"
-album: "Mysticisme Macabre"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/darvulia-mysticisme_macabre.jpg"
-thumbnailImage: "/images/covers/darvulia-mysticisme_macabre-thumb.jpg"
 actualPrice: $17.00
+album: Mysticisme Macabre
+artist: Darvulia
+categories:
+- Vinyl
+date: '2021-06-26T15:22:45'
+draft: false
+images:
+- /images/covers/darvulia-mysticisme_macabre.jpg
 inStock: true
+thumbnailImage: /images/covers/darvulia-mysticisme_macabre-thumb.jpg
+title: Darvulia - Mysticisme Macabre
 ---
 
 ## Vinyl

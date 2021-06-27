@@ -1,16 +1,16 @@
 ---
-title: "The Chosen One - Demo 2019"
-date: 2021-06-13T12:22:22
-draft: false
-artist: "The Chosen One"
-album: "Demo 2019"
-categories:
-    - Tape
-images:
-    - "/images/covers/the_chosen_one-demo_2019.jpg"
-thumbnailImage: "/images/covers/the_chosen_one-demo_2019-thumb.jpg"
 actualPrice: $6.00
+album: Demo 2019
+artist: The Chosen One
+categories:
+- Tape
+date: '2021-06-26T15:16:25'
+draft: false
+images:
+- /images/covers/the_chosen_one-demo_2019.jpg
 inStock: true
+thumbnailImage: /images/covers/the_chosen_one-demo_2019-thumb.jpg
+title: The Chosen One - Demo 2019
 ---
 
 ## Tape

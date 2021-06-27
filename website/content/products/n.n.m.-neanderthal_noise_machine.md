@@ -1,16 +1,16 @@
 ---
-title: "N.N.M. - Neanderthal Noise Machine"
-date: 2021-06-22T16:40:42
-draft: false
-artist: "N.N.M."
-album: "Neanderthal Noise Machine"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/n.n.m.-neanderthal_noise_machine.jpg"
-thumbnailImage: "/images/covers/n.n.m.-neanderthal_noise_machine-thumb.jpg"
 actualPrice: $20.00
+album: Neanderthal Noise Machine
+artist: N.N.M.
+categories:
+- Vinyl
+date: '2021-06-26T15:22:52'
+draft: false
+images:
+- /images/covers/n.n.m.-neanderthal_noise_machine.jpg
 inStock: true
+thumbnailImage: /images/covers/n.n.m.-neanderthal_noise_machine-thumb.jpg
+title: N.N.M. - Neanderthal Noise Machine
 ---
 
 ## Vinyl

@@ -1,16 +1,16 @@
 ---
-title: "Exsul - Self-Titled Ep"
-date: 2021-06-13T12:22:18
-draft: false
-artist: "Exsul"
-album: "Self-Titled Ep"
-categories:
-    - Tape
-images:
-    - "/images/covers/exsul-self-titled_ep.jpg"
-thumbnailImage: "/images/covers/exsul-self-titled_ep-thumb.jpg"
 actualPrice: $10.00
+album: Self-Titled Ep
+artist: Exsul
+categories:
+- Tape
+date: '2021-06-26T15:16:22'
+draft: false
+images:
+- /images/covers/exsul-self-titled_ep.jpg
 inStock: true
+thumbnailImage: /images/covers/exsul-self-titled_ep-thumb.jpg
+title: Exsul - Self-Titled Ep
 ---
 
 ## Tape

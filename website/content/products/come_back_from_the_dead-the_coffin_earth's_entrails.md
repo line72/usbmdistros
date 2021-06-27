@@ -1,16 +1,16 @@
 ---
-title: "Come Back From the Dead - The Coffin Earth's Entrails"
-date: 2021-06-22T16:40:35
-draft: false
-artist: "Come Back From the Dead"
-album: "The Coffin Earth's Entrails"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/come_back_from_the_dead-the_coffin_earth's_entrails.jpg"
-thumbnailImage: "/images/covers/come_back_from_the_dead-the_coffin_earth's_entrails-thumb.jpg"
 actualPrice: $17.00
+album: The Coffin Earth's Entrails
+artist: Come Back From the Dead
+categories:
+- Vinyl
+date: '2021-06-26T15:22:44'
+draft: false
+images:
+- /images/covers/come_back_from_the_dead-the_coffin_earth's_entrails.jpg
 inStock: true
+thumbnailImage: /images/covers/come_back_from_the_dead-the_coffin_earth's_entrails-thumb.jpg
+title: Come Back From the Dead - The Coffin Earth's Entrails
 ---
 
 ## Vinyl

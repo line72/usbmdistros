@@ -1,16 +1,16 @@
 ---
-title: "Fleshpress - Wörm Dirges"
-date: 2021-06-22T16:40:37
-draft: false
-artist: "Fleshpress"
-album: "Wörm Dirges"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/fleshpress-wörm_dirges.jpg"
-thumbnailImage: "/images/covers/fleshpress-wörm_dirges-thumb.jpg"
 actualPrice: $17.00
+album: "W\xF6rm Dirges"
+artist: Fleshpress
+categories:
+- Vinyl
+date: '2021-06-26T15:22:47'
+draft: false
+images:
+- "/images/covers/fleshpress-w\xF6rm_dirges.jpg"
 inStock: true
+thumbnailImage: "/images/covers/fleshpress-w\xF6rm_dirges-thumb.jpg"
+title: "Fleshpress - W\xF6rm Dirges"
 ---
 
 ## Vinyl

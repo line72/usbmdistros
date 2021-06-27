@@ -1,16 +1,16 @@
 ---
-title: "Damghar - Exordiri"
-date: 2021-06-22T16:40:35
-draft: false
-artist: "Damghar"
-album: "Exordiri"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/damghar-exordiri.jpg"
-thumbnailImage: "/images/covers/damghar-exordiri-thumb.jpg"
 actualPrice: $25.00
+album: Exordiri
+artist: Damghar
+categories:
+- Vinyl
+date: '2021-06-26T15:22:44'
+draft: false
+images:
+- /images/covers/damghar-exordiri.jpg
 inStock: true
+thumbnailImage: /images/covers/damghar-exordiri-thumb.jpg
+title: Damghar - Exordiri
 ---
 
 ## Vinyl

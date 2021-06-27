@@ -1,16 +1,16 @@
 ---
-title: "Moonblood - Taste Our German Steel"
-date: 2021-06-22T16:40:41
-draft: false
-artist: "Moonblood"
-album: "Taste Our German Steel"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/moonblood-taste_our_german_steel.jpg"
-thumbnailImage: "/images/covers/moonblood-taste_our_german_steel-thumb.jpg"
 actualPrice: $20.00
+album: Taste Our German Steel
+artist: Moonblood
+categories:
+- Vinyl
+date: '2021-06-26T15:22:51'
+draft: false
+images:
+- /images/covers/moonblood-taste_our_german_steel.jpg
 inStock: true
+thumbnailImage: /images/covers/moonblood-taste_our_german_steel-thumb.jpg
+title: Moonblood - Taste Our German Steel
 ---
 
 ## Vinyl

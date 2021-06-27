@@ -1,16 +1,16 @@
 ---
-title: "Murmur - Mainlining the Lugubrious"
-date: 2021-06-12T14:04:38
-draft: false
-artist: "Murmur"
-album: "Mainlining the Lugubrious"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/murmur-mainlining_the_lugubrious.jpg"
-thumbnailImage: "/images/covers/murmur-mainlining_the_lugubrious-thumb.jpg"
 actualPrice: $28.00
+album: Mainlining the Lugubrious
+artist: Murmur
+categories:
+- Vinyl
+date: '2021-06-26T14:49:52'
+draft: false
+images:
+- /images/covers/murmur-mainlining_the_lugubrious.jpg
 inStock: true
+thumbnailImage: /images/covers/murmur-mainlining_the_lugubrious-thumb.jpg
+title: Murmur - Mainlining the Lugubrious
 ---
 
 ## Vinyl

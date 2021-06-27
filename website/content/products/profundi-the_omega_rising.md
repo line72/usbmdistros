@@ -1,16 +1,16 @@
 ---
-title: "Profundi - The Omega Rising"
-date: 2021-06-22T16:40:43
-draft: false
-artist: "Profundi"
-album: "The Omega Rising"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/profundi-the_omega_rising.jpg"
-thumbnailImage: "/images/covers/profundi-the_omega_rising-thumb.jpg"
 actualPrice: $17.00
+album: The Omega Rising
+artist: Profundi
+categories:
+- Vinyl
+date: '2021-06-26T15:22:53'
+draft: false
+images:
+- /images/covers/profundi-the_omega_rising.jpg
 inStock: true
+thumbnailImage: /images/covers/profundi-the_omega_rising-thumb.jpg
+title: Profundi - The Omega Rising
 ---
 
 ## Vinyl

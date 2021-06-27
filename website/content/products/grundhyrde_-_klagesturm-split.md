@@ -1,16 +1,16 @@
 ---
-title: "Grundhyrde / Klagesturm - Split"
-date: 2021-06-12T14:07:51
-draft: false
-artist: "Grundhyrde / Klagesturm"
-album: "Split"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/grundhyrde_-_klagesturm-split.jpg"
-thumbnailImage: "/images/covers/grundhyrde_-_klagesturm-split-thumb.jpg"
 actualPrice: $28.00
+album: Split
+artist: Grundhyrde / Klagesturm
+categories:
+- Vinyl
+date: '2021-06-26T15:02:54'
+draft: false
+images:
+- /images/covers/grundhyrde_-_klagesturm-split.jpg
 inStock: true
+thumbnailImage: /images/covers/grundhyrde_-_klagesturm-split-thumb.jpg
+title: Grundhyrde / Klagesturm - Split
 ---
 
 ## Vinyl

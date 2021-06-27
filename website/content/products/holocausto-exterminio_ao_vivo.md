@@ -1,16 +1,16 @@
 ---
-title: "Holocausto - Exterminio Ao Vivo"
-date: 2021-06-22T16:40:39
-draft: false
-artist: "Holocausto"
-album: "Exterminio Ao Vivo"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/holocausto-exterminio_ao_vivo.jpg"
-thumbnailImage: "/images/covers/holocausto-exterminio_ao_vivo-thumb.jpg"
 actualPrice: $20.00
+album: Exterminio Ao Vivo
+artist: Holocausto
+categories:
+- Vinyl
+date: '2021-06-26T15:22:49'
+draft: false
+images:
+- /images/covers/holocausto-exterminio_ao_vivo.jpg
 inStock: true
+thumbnailImage: /images/covers/holocausto-exterminio_ao_vivo-thumb.jpg
+title: Holocausto - Exterminio Ao Vivo
 ---
 
 ## Vinyl

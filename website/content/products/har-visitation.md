@@ -1,16 +1,16 @@
 ---
-title: "Har - Visitation"
-date: 2021-06-22T16:40:38
-draft: false
-artist: "Har"
-album: "Visitation"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/har-visitation.jpg"
-thumbnailImage: "/images/covers/har-visitation-thumb.jpg"
 actualPrice: $17.00
+album: Visitation
+artist: Har
+categories:
+- Vinyl
+date: '2021-06-26T15:22:48'
+draft: false
+images:
+- /images/covers/har-visitation.jpg
 inStock: true
+thumbnailImage: /images/covers/har-visitation-thumb.jpg
+title: Har - Visitation
 ---
 
 ## Vinyl

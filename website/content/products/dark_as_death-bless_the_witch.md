@@ -1,16 +1,16 @@
 ---
-title: "Dark As Death - Bless The Witch"
-date: 2021-06-13T12:22:23
-draft: false
-artist: "Dark As Death"
-album: "Bless The Witch"
-categories:
-    - Tape
-images:
-    - "/images/covers/dark_as_death-bless_the_witch.jpg"
-thumbnailImage: "/images/covers/dark_as_death-bless_the_witch-thumb.jpg"
 actualPrice: $4.00
+album: Bless The Witch
+artist: Dark As Death
+categories:
+- Tape
+date: '2021-06-26T15:16:25'
+draft: false
+images:
+- /images/covers/dark_as_death-bless_the_witch.jpg
 inStock: true
+thumbnailImage: /images/covers/dark_as_death-bless_the_witch-thumb.jpg
+title: Dark As Death - Bless The Witch
 ---
 
 ## Tape

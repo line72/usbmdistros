@@ -1,16 +1,16 @@
 ---
-title: "Concordia Diaboli - Le Jardin des Endeuíllés"
-date: 2021-06-12T14:07:56
-draft: false
-artist: "Concordia Diaboli"
-album: "Le Jardin des Endeuíllés"
-categories:
-    - Tape
-images:
-    - "/images/covers/concordia_diaboli-le_jardin_des_endeuíllés.jpg"
-thumbnailImage: "/images/covers/concordia_diaboli-le_jardin_des_endeuíllés-thumb.jpg"
 actualPrice: $9.00
+album: "Le Jardin des Endeu\xEDll\xE9s"
+artist: Concordia Diaboli
+categories:
+- Tape
+date: '2021-06-26T15:03:02'
+draft: false
+images:
+- "/images/covers/concordia_diaboli-le_jardin_des_endeu\xEDll\xE9s.jpg"
 inStock: true
+thumbnailImage: "/images/covers/concordia_diaboli-le_jardin_des_endeu\xEDll\xE9s-thumb.jpg"
+title: "Concordia Diaboli - Le Jardin des Endeu\xEDll\xE9s"
 ---
 
 ## Tape

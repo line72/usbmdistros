@@ -1,16 +1,16 @@
 ---
-title: "Abhor - Occulta religiO"
-date: 2021-06-22T16:40:52
-draft: false
-artist: "Abhor"
-album: "Occulta religiO"
-categories:
-    - CD
-images:
-    - "/images/covers/abhor-occulta_religio.jpg"
-thumbnailImage: "/images/covers/abhor-occulta_religio-thumb.jpg"
 actualPrice: $10.00
+album: Occulta religiO
+artist: Abhor
+categories:
+- CD
+date: '2021-06-26T15:23:02'
+draft: false
+images:
+- /images/covers/abhor-occulta_religio.jpg
 inStock: true
+thumbnailImage: /images/covers/abhor-occulta_religio-thumb.jpg
+title: Abhor - Occulta religiO
 ---
 
 ## CD

@@ -1,16 +1,16 @@
 ---
-title: "Mütiilation - Remains of a Ruined, Dead, Cursed Soul"
-date: 2021-06-22T16:40:42
-draft: false
-artist: "Mütiilation"
-album: "Remains of a Ruined, Dead, Cursed Soul"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/mütiilation-remains_of_a_ruined,_dead,_cursed_soul.jpg"
-thumbnailImage: "/images/covers/mütiilation-remains_of_a_ruined,_dead,_cursed_soul-thumb.jpg"
 actualPrice: $20.00 - 23.00
+album: Remains of a Ruined, Dead, Cursed Soul
+artist: "M\xFCtiilation"
+categories:
+- Vinyl
+date: '2021-06-26T15:22:51'
+draft: false
+images:
+- "/images/covers/m\xFCtiilation-remains_of_a_ruined,_dead,_cursed_soul.jpg"
 inStock: true
+thumbnailImage: "/images/covers/m\xFCtiilation-remains_of_a_ruined,_dead,_cursed_soul-thumb.jpg"
+title: "M\xFCtiilation - Remains of a Ruined, Dead, Cursed Soul"
 ---
 
 ## Vinyl

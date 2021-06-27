@@ -1,17 +1,17 @@
 ---
-title: "Inferno - Paradeigma"
-date: 2021-06-12T14:11:53
-draft: false
-artist: "Inferno"
-album: "Paradeigma"
-categories:
-    - Vinyl
-    - CD
-images:
-    - "/images/covers/inferno-paradeigma.jpg"
-thumbnailImage: "/images/covers/inferno-paradeigma-thumb.jpg"
 actualPrice: $10.99 - 29.99
+album: Paradeigma
+artist: Inferno
+categories:
+- Vinyl
+- CD
+date: '2021-06-26T15:15:52'
+draft: false
+images:
+- /images/covers/inferno-paradeigma.jpg
 inStock: true
+thumbnailImage: /images/covers/inferno-paradeigma-thumb.jpg
+title: Inferno - Paradeigma
 ---
 
 ## Vinyl

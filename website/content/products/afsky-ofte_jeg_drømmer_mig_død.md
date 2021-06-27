@@ -1,16 +1,16 @@
 ---
-title: "Afsky - Ofte Jeg Drømmer Mig Død"
-date: 2021-06-12T14:04:39
-draft: false
-artist: "Afsky"
-album: "Ofte Jeg Drømmer Mig Død"
-categories:
-    - CD
-images:
-    - "/images/covers/afsky-ofte_jeg_drømmer_mig_død.jpg"
-thumbnailImage: "/images/covers/afsky-ofte_jeg_drømmer_mig_død-thumb.jpg"
 actualPrice: $18.00
+album: "Ofte Jeg Dr\xF8mmer Mig D\xF8d"
+artist: Afsky
+categories:
+- CD
+date: '2021-06-26T14:49:53'
+draft: false
+images:
+- "/images/covers/afsky-ofte_jeg_dr\xF8mmer_mig_d\xF8d.jpg"
 inStock: true
+thumbnailImage: "/images/covers/afsky-ofte_jeg_dr\xF8mmer_mig_d\xF8d-thumb.jpg"
+title: "Afsky - Ofte Jeg Dr\xF8mmer Mig D\xF8d"
 ---
 
 ## CD

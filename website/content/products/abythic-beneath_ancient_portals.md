@@ -1,17 +1,17 @@
 ---
-title: "Abythic - Beneath Ancient Portals"
-date: 2021-06-22T16:40:52
-draft: false
-artist: "Abythic"
-album: "Beneath Ancient Portals"
-categories:
-    - Vinyl
-    - CD
-images:
-    - "/images/covers/abythic-beneath_ancient_portals.jpg"
-thumbnailImage: "/images/covers/abythic-beneath_ancient_portals-thumb.jpg"
 actualPrice: $12.00 - 17.00
+album: Beneath Ancient Portals
+artist: Abythic
+categories:
+- Vinyl
+- CD
+date: '2021-06-26T15:23:02'
+draft: false
+images:
+- /images/covers/abythic-beneath_ancient_portals.jpg
 inStock: true
+thumbnailImage: /images/covers/abythic-beneath_ancient_portals-thumb.jpg
+title: Abythic - Beneath Ancient Portals
 ---
 
 ## Vinyl

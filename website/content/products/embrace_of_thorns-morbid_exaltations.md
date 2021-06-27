@@ -1,17 +1,17 @@
 ---
-title: "Embrace Of Thorns - Morbid Exaltations"
-date: 2021-06-22T16:40:56
-draft: false
-artist: "Embrace Of Thorns"
-album: "Morbid Exaltations"
-categories:
-    - Vinyl
-    - CD
-images:
-    - "/images/covers/embrace_of_thorns-morbid_exaltations.jpg"
-thumbnailImage: "/images/covers/embrace_of_thorns-morbid_exaltations-thumb.jpg"
 actualPrice: $10.00 - 25.00
+album: Morbid Exaltations
+artist: Embrace of Thorns
+categories:
+- Vinyl
+- CD
+date: '2021-06-26T15:23:06'
+draft: false
+images:
+- /images/covers/embrace_of_thorns-morbid_exaltations.jpg
 inStock: true
+thumbnailImage: /images/covers/embrace_of_thorns-morbid_exaltations-thumb.jpg
+title: Embrace of Thorns - Morbid Exaltations
 ---
 
 ## Vinyl

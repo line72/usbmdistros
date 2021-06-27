@@ -1,16 +1,16 @@
 ---
-title: "Extripate - Demo MMXVII"
-date: 2021-06-12T14:07:56
-draft: false
-artist: "Extripate"
-album: "Demo MMXVII"
-categories:
-    - Tape
-images:
-    - "/images/covers/extripate-demo_mmxvii.jpg"
-thumbnailImage: "/images/covers/extripate-demo_mmxvii-thumb.jpg"
 actualPrice: $8.00
+album: Demo MMXVII
+artist: Extripate
+categories:
+- Tape
+date: '2021-06-26T15:03:02'
+draft: false
+images:
+- /images/covers/extripate-demo_mmxvii.jpg
 inStock: true
+thumbnailImage: /images/covers/extripate-demo_mmxvii-thumb.jpg
+title: Extripate - Demo MMXVII
 ---
 
 ## Tape

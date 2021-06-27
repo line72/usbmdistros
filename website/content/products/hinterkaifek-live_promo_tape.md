@@ -1,16 +1,16 @@
 ---
-title: "Hinterkaifek - Live Promo Tape"
-date: 2021-06-13T12:22:22
-draft: false
-artist: "Hinterkaifek"
-album: "Live Promo Tape"
-categories:
-    - Tape
-images:
-    - "/images/covers/hinterkaifek-live_promo_tape.jpg"
-thumbnailImage: "/images/covers/hinterkaifek-live_promo_tape-thumb.jpg"
 actualPrice: $5.00
+album: Live Promo Tape
+artist: Hinterkaifek
+categories:
+- Tape
+date: '2021-06-26T15:16:24'
+draft: false
+images:
+- /images/covers/hinterkaifek-live_promo_tape.jpg
 inStock: true
+thumbnailImage: /images/covers/hinterkaifek-live_promo_tape-thumb.jpg
+title: Hinterkaifek - Live Promo Tape
 ---
 
 ## Tape

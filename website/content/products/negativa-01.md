@@ -1,16 +1,16 @@
 ---
-title: "Negativa - 01"
-date: 2021-06-22T16:40:42
-draft: false
-artist: "Negativa"
-album: "01"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/negativa-01.jpg"
-thumbnailImage: "/images/covers/negativa-01-thumb.jpg"
 actualPrice: $25.00
+album: '01'
+artist: Negativa
+categories:
+- Vinyl
+date: '2021-06-26T15:22:52'
+draft: false
+images:
+- /images/covers/negativa-01.jpg
 inStock: true
+thumbnailImage: /images/covers/negativa-01-thumb.jpg
+title: Negativa - 01
 ---
 
 ## Vinyl

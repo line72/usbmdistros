@@ -1,16 +1,16 @@
 ---
-title: "Trono Além Morte / Vetala - Split"
-date: 2021-06-12T14:07:52
-draft: false
-artist: "Trono Além Morte / Vetala"
-album: "Split"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/trono_além_morte_-_vetala-split.jpg"
-thumbnailImage: "/images/covers/trono_além_morte_-_vetala-split-thumb.jpg"
 actualPrice: $22.00
+album: Split
+artist: "Trono Al\xE9m Morte / Vetala"
+categories:
+- Vinyl
+date: '2021-06-26T15:02:55'
+draft: false
+images:
+- "/images/covers/trono_al\xE9m_morte_-_vetala-split.jpg"
 inStock: true
+thumbnailImage: "/images/covers/trono_al\xE9m_morte_-_vetala-split-thumb.jpg"
+title: "Trono Al\xE9m Morte / Vetala - Split"
 ---
 
 ## Vinyl

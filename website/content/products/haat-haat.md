@@ -1,16 +1,16 @@
 ---
-title: "Haat - Haat"
-date: 2021-06-22T16:40:38
-draft: false
-artist: "Haat"
-album: "Haat"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/haat-haat.jpg"
-thumbnailImage: "/images/covers/haat-haat-thumb.jpg"
 actualPrice: $17.00
+album: Haat
+artist: Haat
+categories:
+- Vinyl
+date: '2021-06-26T15:22:48'
+draft: false
+images:
+- /images/covers/haat-haat.jpg
 inStock: true
+thumbnailImage: /images/covers/haat-haat-thumb.jpg
+title: Haat - Haat
 ---
 
 ## Vinyl

@@ -1,16 +1,16 @@
 ---
-title: "Guillatine - Demo"
-date: 2021-06-13T12:22:20
-draft: false
-artist: "Guillatine"
-album: "Demo"
-categories:
-    - Tape
-images:
-    - "/images/covers/guillatine-demo.jpg"
-thumbnailImage: "/images/covers/guillatine-demo-thumb.jpg"
 actualPrice: $7.00
+album: Demo
+artist: Guillatine
+categories:
+- Tape
+date: '2021-06-26T15:16:23'
+draft: false
+images:
+- /images/covers/guillatine-demo.jpg
 inStock: true
+thumbnailImage: /images/covers/guillatine-demo-thumb.jpg
+title: Guillatine - Demo
 ---
 
 ## Tape

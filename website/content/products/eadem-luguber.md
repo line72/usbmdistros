@@ -1,17 +1,17 @@
 ---
-title: "Eadem - Luguber"
-date: 2021-06-22T16:40:56
-draft: false
-artist: "Eadem"
-album: "Luguber"
-categories:
-    - Vinyl
-    - CD
-images:
-    - "/images/covers/eadem-luguber.jpg"
-thumbnailImage: "/images/covers/eadem-luguber-thumb.jpg"
 actualPrice: $10.00 - 17.00
+album: Luguber
+artist: Eadem
+categories:
+- Vinyl
+- CD
+date: '2021-06-26T15:23:06'
+draft: false
+images:
+- /images/covers/eadem-luguber.jpg
 inStock: true
+thumbnailImage: /images/covers/eadem-luguber-thumb.jpg
+title: Eadem - Luguber
 ---
 
 ## Vinyl

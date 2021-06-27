@@ -1,16 +1,16 @@
 ---
-title: "Ond Tro - Self-Titled"
-date: 2021-06-13T12:22:23
-draft: false
-artist: "Ond Tro"
-album: "Self-Titled"
-categories:
-    - Tape
-images:
-    - "/images/covers/ond_tro-self-titled.jpg"
-thumbnailImage: "/images/covers/ond_tro-self-titled-thumb.jpg"
 actualPrice: $4.00
+album: Self-Titled
+artist: Ond Tro
+categories:
+- Tape
+date: '2021-06-26T15:16:26'
+draft: false
+images:
+- /images/covers/ond_tro-self-titled.jpg
 inStock: true
+thumbnailImage: /images/covers/ond_tro-self-titled-thumb.jpg
+title: Ond Tro - Self-Titled
 ---
 
 ## Tape

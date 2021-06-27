@@ -1,16 +1,16 @@
 ---
-title: "Inthyflesh - Lechery Maledictions and Grieving Adjures to the Concerns of Flesh"
-date: 2021-06-22T16:40:39
-draft: false
-artist: "Inthyflesh"
-album: "Lechery Maledictions and Grieving Adjures to the Concerns of Flesh"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/inthyflesh-lechery_maledictions_and_grieving_adjures_to_the_concerns_of_flesh.jpg"
-thumbnailImage: "/images/covers/inthyflesh-lechery_maledictions_and_grieving_adjures_to_the_concerns_of_flesh-thumb.jpg"
 actualPrice: $24.00 - 25.00
+album: Lechery Maledictions and Grieving Adjures to the Concerns of Flesh
+artist: Inthyflesh
+categories:
+- Vinyl
+date: '2021-06-26T15:22:49'
+draft: false
+images:
+- /images/covers/inthyflesh-lechery_maledictions_and_grieving_adjures_to_the_concerns_of_flesh.jpg
 inStock: true
+thumbnailImage: /images/covers/inthyflesh-lechery_maledictions_and_grieving_adjures_to_the_concerns_of_flesh-thumb.jpg
+title: Inthyflesh - Lechery Maledictions and Grieving Adjures to the Concerns of Flesh
 ---
 
 ## Vinyl

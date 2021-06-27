@@ -1,17 +1,17 @@
 ---
-title: "Necrophile - Awakening Those Oppressed"
-date: 2021-06-22T16:41:12
-draft: false
-artist: "Necrophile"
-album: "Awakening Those Oppressed"
-categories:
-    - Vinyl
-    - Cassette
-images:
-    - "/images/covers/necrophile-awakening_those_oppressed.jpg"
-thumbnailImage: "/images/covers/necrophile-awakening_those_oppressed-thumb.jpg"
 actualPrice: $7.00 - 17.00
+album: Awakening Those Oppressed
+artist: Necrophile
+categories:
+- Vinyl
+- Cassette
+date: '2021-06-26T15:23:22'
+draft: false
+images:
+- /images/covers/necrophile-awakening_those_oppressed.jpg
 inStock: true
+thumbnailImage: /images/covers/necrophile-awakening_those_oppressed-thumb.jpg
+title: Necrophile - Awakening Those Oppressed
 ---
 
 ## Vinyl

@@ -1,16 +1,16 @@
 ---
-title: "AEREKÆR - MMXVII"
-date: 2021-06-22T16:40:32
-draft: false
-artist: "AEREKÆR"
-album: "MMXVII"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/aerekær-mmxvii.jpg"
-thumbnailImage: "/images/covers/aerekær-mmxvii-thumb.jpg"
 actualPrice: $25.00
+album: MMXVII
+artist: "AEREK\xC6R"
+categories:
+- Vinyl
+date: '2021-06-26T15:22:41'
+draft: false
+images:
+- "/images/covers/aerek\xE6r-mmxvii.jpg"
 inStock: true
+thumbnailImage: "/images/covers/aerek\xE6r-mmxvii-thumb.jpg"
+title: "AEREK\xC6R - MMXVII"
 ---
 
 ## Vinyl

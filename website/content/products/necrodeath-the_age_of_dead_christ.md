@@ -1,16 +1,16 @@
 ---
-title: "Necrodeath - The Age of Dead Christ"
-date: 2021-06-22T16:40:42
-draft: false
-artist: "Necrodeath"
-album: "The Age of Dead Christ"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/necrodeath-the_age_of_dead_christ.jpg"
-thumbnailImage: "/images/covers/necrodeath-the_age_of_dead_christ-thumb.jpg"
 actualPrice: $17.00
+album: The Age of Dead Christ
+artist: Necrodeath
+categories:
+- Vinyl
+date: '2021-06-26T15:22:52'
+draft: false
+images:
+- /images/covers/necrodeath-the_age_of_dead_christ.jpg
 inStock: true
+thumbnailImage: /images/covers/necrodeath-the_age_of_dead_christ-thumb.jpg
+title: Necrodeath - The Age of Dead Christ
 ---
 
 ## Vinyl

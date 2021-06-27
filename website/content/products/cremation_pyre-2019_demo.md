@@ -1,16 +1,16 @@
 ---
-title: "Cremation Pyre - 2019 Demo"
-date: 2021-06-13T12:22:22
-draft: false
-artist: "Cremation Pyre"
-album: "2019 Demo"
-categories:
-    - Tape
-images:
-    - "/images/covers/cremation_pyre-2019_demo.jpg"
-thumbnailImage: "/images/covers/cremation_pyre-2019_demo-thumb.jpg"
 actualPrice: $6.00
+album: 2019 Demo
+artist: Cremation Pyre
+categories:
+- Tape
+date: '2021-06-26T15:16:25'
+draft: false
+images:
+- /images/covers/cremation_pyre-2019_demo.jpg
 inStock: true
+thumbnailImage: /images/covers/cremation_pyre-2019_demo-thumb.jpg
+title: Cremation Pyre - 2019 Demo
 ---
 
 ## Tape

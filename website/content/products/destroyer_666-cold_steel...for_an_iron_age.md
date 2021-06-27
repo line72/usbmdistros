@@ -1,16 +1,16 @@
 ---
-title: "Destroyer 666 - Cold Steel...For An Iron Age"
-date: 2021-06-22T16:40:36
-draft: false
-artist: "Destroyer 666"
-album: "Cold Steel...For An Iron Age"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/destroyer_666-cold_steel...for_an_iron_age.jpg"
-thumbnailImage: "/images/covers/destroyer_666-cold_steel...for_an_iron_age-thumb.jpg"
 actualPrice: $25.00
+album: Cold Steel...For An Iron Age
+artist: Destroyer 666
+categories:
+- Vinyl
+date: '2021-06-26T15:22:45'
+draft: false
+images:
+- /images/covers/destroyer_666-cold_steel...for_an_iron_age.jpg
 inStock: true
+thumbnailImage: /images/covers/destroyer_666-cold_steel...for_an_iron_age-thumb.jpg
+title: Destroyer 666 - Cold Steel...For An Iron Age
 ---
 
 ## Vinyl

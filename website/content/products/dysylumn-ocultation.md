@@ -1,16 +1,16 @@
 ---
-title: "Dysylumn - Ocultation"
-date: 2021-06-12T14:07:52
-draft: false
-artist: "Dysylumn"
-album: "Ocultation"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/dysylumn-ocultation.jpg"
-thumbnailImage: "/images/covers/dysylumn-ocultation-thumb.jpg"
 actualPrice: $25.00
+album: Ocultation
+artist: Dysylumn
+categories:
+- Vinyl
+date: '2021-06-26T15:02:54'
+draft: false
+images:
+- /images/covers/dysylumn-ocultation.jpg
 inStock: true
+thumbnailImage: /images/covers/dysylumn-ocultation-thumb.jpg
+title: Dysylumn - Ocultation
 ---
 
 ## Vinyl

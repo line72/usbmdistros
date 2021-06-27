@@ -1,16 +1,16 @@
 ---
-title: "Eraser - Mutual Overkill Deterrence"
-date: 2021-06-13T12:22:21
-draft: false
-artist: "Eraser"
-album: "Mutual Overkill Deterrence"
-categories:
-    - Tape
-images:
-    - "/images/covers/eraser-mutual_overkill_deterrence.jpg"
-thumbnailImage: "/images/covers/eraser-mutual_overkill_deterrence-thumb.jpg"
 actualPrice: $7.50
+album: Mutual Overkill Deterrence
+artist: Eraser
+categories:
+- Tape
+date: '2021-06-26T15:16:24'
+draft: false
+images:
+- /images/covers/eraser-mutual_overkill_deterrence.jpg
 inStock: true
+thumbnailImage: /images/covers/eraser-mutual_overkill_deterrence-thumb.jpg
+title: Eraser - Mutual Overkill Deterrence
 ---
 
 ## Tape

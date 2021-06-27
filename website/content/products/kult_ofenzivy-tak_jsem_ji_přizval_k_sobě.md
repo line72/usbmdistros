@@ -1,16 +1,17 @@
 ---
-title: "Kult Ofenzivy - Tak Jsem Ji Přizval K Sobě"
-date: 2021-06-12T14:07:51
-draft: false
-artist: "Kult Ofenzivy"
-album: "Tak Jsem Ji Přizval K Sobě"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/kult_ofenzivy-tak_jsem_ji_přizval_k_sobě.jpg"
-thumbnailImage: "/images/covers/kult_ofenzivy-tak_jsem_ji_přizval_k_sobě-thumb.jpg"
 actualPrice: $24.00
+album: "Tak Jsem Ji P\u0159izval K Sob\u011B"
+artist: Kult Ofenzivy
+categories:
+- Vinyl
+date: '2021-06-26T15:02:54'
+draft: false
+images:
+- "/images/covers/kult_ofenzivy-tak_jsem_ji_p\u0159izval_k_sob\u011B.jpg"
 inStock: true
+thumbnailImage: "/images/covers/kult_ofenzivy-tak_jsem_ji_p\u0159izval_k_sob\u011B\
+  -thumb.jpg"
+title: "Kult Ofenzivy - Tak Jsem Ji P\u0159izval K Sob\u011B"
 ---
 
 ## Vinyl

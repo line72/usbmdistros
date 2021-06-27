@@ -1,16 +1,16 @@
 ---
-title: "Cremation - Black Death Cult"
-date: 2021-06-22T16:40:35
-draft: false
-artist: "Cremation"
-album: "Black Death Cult"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/cremation-black_death_cult.jpg"
-thumbnailImage: "/images/covers/cremation-black_death_cult-thumb.jpg"
 actualPrice: $25.00
+album: Black Death Cult
+artist: Cremation
+categories:
+- Vinyl
+date: '2021-06-26T15:22:44'
+draft: false
+images:
+- /images/covers/cremation-black_death_cult.jpg
 inStock: true
+thumbnailImage: /images/covers/cremation-black_death_cult-thumb.jpg
+title: Cremation - Black Death Cult
 ---
 
 ## Vinyl

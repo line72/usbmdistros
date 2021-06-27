@@ -1,16 +1,16 @@
 ---
-title: "Armnatt - Dense Fog"
-date: 2021-06-22T16:40:33
-draft: false
-artist: "Armnatt"
-album: "Dense Fog"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/armnatt-dense_fog.jpg"
-thumbnailImage: "/images/covers/armnatt-dense_fog-thumb.jpg"
 actualPrice: $20.00
+album: Dense Fog
+artist: Armnatt
+categories:
+- Vinyl
+date: '2021-06-26T15:22:42'
+draft: false
+images:
+- /images/covers/armnatt-dense_fog.jpg
 inStock: true
+thumbnailImage: /images/covers/armnatt-dense_fog-thumb.jpg
+title: Armnatt - Dense Fog
 ---
 
 ## Vinyl

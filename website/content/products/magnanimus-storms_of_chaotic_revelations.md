@@ -1,16 +1,16 @@
 ---
-title: "Magnanimus - Storms of Chaotic Revelations"
-date: 2021-06-22T16:40:40
-draft: false
-artist: "Magnanimus"
-album: "Storms of Chaotic Revelations"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/magnanimus-storms_of_chaotic_revelations.jpg"
-thumbnailImage: "/images/covers/magnanimus-storms_of_chaotic_revelations-thumb.jpg"
 actualPrice: $30.00
+album: Storms of Chaotic Revelations
+artist: Magnanimus
+categories:
+- Vinyl
+date: '2021-06-26T15:22:50'
+draft: false
+images:
+- /images/covers/magnanimus-storms_of_chaotic_revelations.jpg
 inStock: true
+thumbnailImage: /images/covers/magnanimus-storms_of_chaotic_revelations-thumb.jpg
+title: Magnanimus - Storms of Chaotic Revelations
 ---
 
 ## Vinyl

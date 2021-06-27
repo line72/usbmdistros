@@ -1,16 +1,16 @@
 ---
-title: "No Quarter - Songs in Circles"
-date: 2021-06-22T16:40:42
-draft: false
-artist: "No Quarter"
-album: "Songs in Circles"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/no_quarter-songs_in_circles.jpg"
-thumbnailImage: "/images/covers/no_quarter-songs_in_circles-thumb.jpg"
 actualPrice: $25.00
+album: Songs in Circles
+artist: No Quarter
+categories:
+- Vinyl
+date: '2021-06-26T15:22:52'
+draft: false
+images:
+- /images/covers/no_quarter-songs_in_circles.jpg
 inStock: true
+thumbnailImage: /images/covers/no_quarter-songs_in_circles-thumb.jpg
+title: No Quarter - Songs in Circles
 ---
 
 ## Vinyl

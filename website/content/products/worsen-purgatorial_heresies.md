@@ -1,16 +1,16 @@
 ---
-title: "Worsen - Purgatorial Heresies"
-date: 2021-06-12T14:07:56
-draft: false
-artist: "Worsen"
-album: "Purgatorial Heresies"
-categories:
-    - Tape
-images:
-    - "/images/covers/worsen-purgatorial_heresies.jpg"
-thumbnailImage: "/images/covers/worsen-purgatorial_heresies-thumb.jpg"
 actualPrice: $10.00
+album: Purgatorial Heresies
+artist: Worsen
+categories:
+- Tape
+date: '2021-06-26T15:03:02'
+draft: false
+images:
+- /images/covers/worsen-purgatorial_heresies.jpg
 inStock: true
+thumbnailImage: /images/covers/worsen-purgatorial_heresies-thumb.jpg
+title: Worsen - Purgatorial Heresies
 ---
 
 ## Tape

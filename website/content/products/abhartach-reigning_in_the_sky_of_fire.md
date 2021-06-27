@@ -1,16 +1,16 @@
 ---
-title: "Abhartach - Reigning in the Sky of Fire"
-date: 2021-06-12T14:07:58
-draft: false
-artist: "Abhartach"
-album: "Reigning in the Sky of Fire"
-categories:
-    - CD
-images:
-    - "/images/covers/abhartach-reigning_in_the_sky_of_fire.jpg"
-thumbnailImage: "/images/covers/abhartach-reigning_in_the_sky_of_fire-thumb.jpg"
 actualPrice: $14.00
+album: Reigning in the Sky of Fire
+artist: Abhartach
+categories:
+- CD
+date: '2021-06-26T15:03:07'
+draft: false
+images:
+- /images/covers/abhartach-reigning_in_the_sky_of_fire.jpg
 inStock: true
+thumbnailImage: /images/covers/abhartach-reigning_in_the_sky_of_fire-thumb.jpg
+title: Abhartach - Reigning in the Sky of Fire
 ---
 
 ## CD

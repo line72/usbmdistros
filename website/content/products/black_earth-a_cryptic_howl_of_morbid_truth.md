@@ -1,16 +1,16 @@
 ---
-title: "Black Earth - A Cryptic Howl of Morbid Truth"
-date: 2021-06-22T16:40:34
-draft: false
-artist: "Black Earth"
-album: "A Cryptic Howl of Morbid Truth"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/black_earth-a_cryptic_howl_of_morbid_truth.jpg"
-thumbnailImage: "/images/covers/black_earth-a_cryptic_howl_of_morbid_truth-thumb.jpg"
 actualPrice: $17.00
+album: A Cryptic Howl of Morbid Truth
+artist: Black Earth
+categories:
+- Vinyl
+date: '2021-06-26T15:22:43'
+draft: false
+images:
+- /images/covers/black_earth-a_cryptic_howl_of_morbid_truth.jpg
 inStock: true
+thumbnailImage: /images/covers/black_earth-a_cryptic_howl_of_morbid_truth-thumb.jpg
+title: Black Earth - A Cryptic Howl of Morbid Truth
 ---
 
 ## Vinyl

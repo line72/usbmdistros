@@ -1,16 +1,16 @@
 ---
-title: "Assaulter - Salvation like Destruction"
-date: 2021-06-22T16:40:33
-draft: false
-artist: "Assaulter"
-album: "Salvation like Destruction"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/assaulter-salvation_like_destruction.jpg"
-thumbnailImage: "/images/covers/assaulter-salvation_like_destruction-thumb.jpg"
 actualPrice: $20.00
+album: Salvation like Destruction
+artist: Assaulter
+categories:
+- Vinyl
+date: '2021-06-26T15:22:42'
+draft: false
+images:
+- /images/covers/assaulter-salvation_like_destruction.jpg
 inStock: true
+thumbnailImage: /images/covers/assaulter-salvation_like_destruction-thumb.jpg
+title: Assaulter - Salvation like Destruction
 ---
 
 ## Vinyl

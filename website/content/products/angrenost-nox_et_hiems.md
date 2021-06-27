@@ -1,16 +1,16 @@
 ---
-title: "Angrenost - Nox et Hiems"
-date: 2021-06-22T16:40:32
-draft: false
-artist: "Angrenost"
-album: "Nox et Hiems"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/angrenost-nox_et_hiems.jpg"
-thumbnailImage: "/images/covers/angrenost-nox_et_hiems-thumb.jpg"
 actualPrice: $27.00
+album: Nox et Hiems
+artist: Angrenost
+categories:
+- Vinyl
+date: '2021-06-26T15:22:42'
+draft: false
+images:
+- /images/covers/angrenost-nox_et_hiems.jpg
 inStock: true
+thumbnailImage: /images/covers/angrenost-nox_et_hiems-thumb.jpg
+title: Angrenost - Nox et Hiems
 ---
 
 ## Vinyl

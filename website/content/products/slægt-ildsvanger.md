@@ -1,16 +1,16 @@
 ---
-title: "Slægt - Ildsvanger"
-date: 2021-06-12T14:07:58
-draft: false
-artist: "Slægt"
-album: "Ildsvanger"
-categories:
-    - CD
-images:
-    - "/images/covers/slægt-ildsvanger.jpg"
-thumbnailImage: "/images/covers/slægt-ildsvanger-thumb.jpg"
 actualPrice: $11.00
+album: Ildsvanger
+artist: "Sl\xE6gt"
+categories:
+- CD
+date: '2021-06-26T15:03:08'
+draft: false
+images:
+- "/images/covers/sl\xE6gt-ildsvanger.jpg"
 inStock: true
+thumbnailImage: "/images/covers/sl\xE6gt-ildsvanger-thumb.jpg"
+title: "Sl\xE6gt - Ildsvanger"
 ---
 
 ## CD

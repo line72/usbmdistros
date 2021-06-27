@@ -1,16 +1,16 @@
 ---
-title: "Cultist - Chants Of Sublimation"
-date: 2021-06-13T12:22:23
-draft: false
-artist: "Cultist"
-album: "Chants Of Sublimation"
-categories:
-    - CD
-images:
-    - "/images/covers/cultist-chants_of_sublimation.jpg"
-thumbnailImage: "/images/covers/cultist-chants_of_sublimation-thumb.jpg"
 actualPrice: $6.00
+album: Chants Of Sublimation
+artist: Cultist
+categories:
+- CD
+date: '2021-06-26T15:16:26'
+draft: false
+images:
+- /images/covers/cultist-chants_of_sublimation.jpg
 inStock: true
+thumbnailImage: /images/covers/cultist-chants_of_sublimation-thumb.jpg
+title: Cultist - Chants Of Sublimation
 ---
 
 ## CD

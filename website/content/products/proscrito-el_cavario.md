@@ -1,17 +1,17 @@
 ---
-title: "Proscrito - El Cavario"
-date: 2021-06-22T16:41:03
-draft: false
-artist: "Proscrito"
-album: "El Cavario"
-categories:
-    - Vinyl
-    - CD
-images:
-    - "/images/covers/proscrito-el_cavario.jpg"
-thumbnailImage: "/images/covers/proscrito-el_cavario-thumb.jpg"
 actualPrice: $8.00 - 17.00
+album: El Cavario
+artist: Proscrito
+categories:
+- Vinyl
+- CD
+date: '2021-06-26T15:23:13'
+draft: false
+images:
+- /images/covers/proscrito-el_cavario.jpg
 inStock: true
+thumbnailImage: /images/covers/proscrito-el_cavario-thumb.jpg
+title: Proscrito - El Cavario
 ---
 
 ## Vinyl

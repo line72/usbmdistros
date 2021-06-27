@@ -1,16 +1,16 @@
 ---
-title: "Master / Dehuman - Decay into Inferior Conditions"
-date: 2021-06-22T16:40:41
-draft: false
-artist: "Master / Dehuman"
-album: "Decay into Inferior Conditions"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/master_-_dehuman-decay_into_inferior_conditions.jpg"
-thumbnailImage: "/images/covers/master_-_dehuman-decay_into_inferior_conditions-thumb.jpg"
 actualPrice: $22.00
+album: Decay into Inferior Conditions
+artist: Master / Dehuman
+categories:
+- Vinyl
+date: '2021-06-26T15:22:51'
+draft: false
+images:
+- /images/covers/master_-_dehuman-decay_into_inferior_conditions.jpg
 inStock: true
+thumbnailImage: /images/covers/master_-_dehuman-decay_into_inferior_conditions-thumb.jpg
+title: Master / Dehuman - Decay into Inferior Conditions
 ---
 
 ## Vinyl

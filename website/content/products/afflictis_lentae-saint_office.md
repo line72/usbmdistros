@@ -1,16 +1,16 @@
 ---
-title: "Afflictis Lentae - Saint Office"
-date: 2021-06-22T16:40:32
-draft: false
-artist: "Afflictis Lentae"
-album: "Saint Office"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/afflictis_lentae-saint_office.jpg"
-thumbnailImage: "/images/covers/afflictis_lentae-saint_office-thumb.jpg"
 actualPrice: $15.00
+album: Saint Office
+artist: Afflictis Lentae
+categories:
+- Vinyl
+date: '2021-06-26T15:22:41'
+draft: false
+images:
+- /images/covers/afflictis_lentae-saint_office.jpg
 inStock: true
+thumbnailImage: /images/covers/afflictis_lentae-saint_office-thumb.jpg
+title: Afflictis Lentae - Saint Office
 ---
 
 ## Vinyl

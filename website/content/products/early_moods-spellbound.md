@@ -1,17 +1,17 @@
 ---
-title: "Early Moods - Spellbound"
-date: 2021-06-22T16:40:56
-draft: false
-artist: "Early Moods"
-album: "Spellbound"
-categories:
-    - Vinyl
-    - CD
-images:
-    - "/images/covers/early_moods-spellbound.jpg"
-thumbnailImage: "/images/covers/early_moods-spellbound-thumb.jpg"
 actualPrice: $10.00 - 20.00
+album: Spellbound
+artist: Early Moods
+categories:
+- Vinyl
+- CD
+date: '2021-06-26T15:23:06'
+draft: false
+images:
+- /images/covers/early_moods-spellbound.jpg
 inStock: true
+thumbnailImage: /images/covers/early_moods-spellbound-thumb.jpg
+title: Early Moods - Spellbound
 ---
 
 ## Vinyl

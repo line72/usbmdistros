@@ -1,16 +1,16 @@
 ---
-title: "Abyssion - Karhun lähde / Siniaaltoja ja singulariteetteja"
-date: 2021-06-22T16:40:32
-draft: false
-artist: "Abyssion"
-album: "Karhun lähde / Siniaaltoja ja singulariteetteja"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/abyssion-karhun_lähde_-_siniaaltoja_ja_singulariteetteja.jpg"
-thumbnailImage: "/images/covers/abyssion-karhun_lähde_-_siniaaltoja_ja_singulariteetteja-thumb.jpg"
 actualPrice: $17.00
+album: "Karhun l\xE4hde / Siniaaltoja ja singulariteetteja"
+artist: Abyssion
+categories:
+- Vinyl
+date: '2021-06-26T15:22:41'
+draft: false
+images:
+- "/images/covers/abyssion-karhun_l\xE4hde_-_siniaaltoja_ja_singulariteetteja.jpg"
 inStock: true
+thumbnailImage: "/images/covers/abyssion-karhun_l\xE4hde_-_siniaaltoja_ja_singulariteetteja-thumb.jpg"
+title: "Abyssion - Karhun l\xE4hde / Siniaaltoja ja singulariteetteja"
 ---
 
 ## Vinyl

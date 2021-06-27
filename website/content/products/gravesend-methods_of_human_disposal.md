@@ -1,16 +1,16 @@
 ---
-title: "Gravesend - Methods Of Human Disposal"
-date: 2021-06-13T12:22:18
-draft: false
-artist: "Gravesend"
-album: "Methods Of Human Disposal"
-categories:
-    - CD
-images:
-    - "/images/covers/gravesend-methods_of_human_disposal.jpg"
-thumbnailImage: "/images/covers/gravesend-methods_of_human_disposal-thumb.jpg"
 actualPrice: $11.50
+album: Methods Of Human Disposal
+artist: Gravesend
+categories:
+- CD
+date: '2021-06-26T15:16:22'
+draft: false
+images:
+- /images/covers/gravesend-methods_of_human_disposal.jpg
 inStock: true
+thumbnailImage: /images/covers/gravesend-methods_of_human_disposal-thumb.jpg
+title: Gravesend - Methods Of Human Disposal
 ---
 
 ## CD

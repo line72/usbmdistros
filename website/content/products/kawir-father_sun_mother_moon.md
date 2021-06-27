@@ -1,16 +1,16 @@
 ---
-title: "Kawir - Father Sun Mother Moon"
-date: 2021-06-22T16:40:40
-draft: false
-artist: "Kawir"
-album: "Father Sun Mother Moon"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/kawir-father_sun_mother_moon.jpg"
-thumbnailImage: "/images/covers/kawir-father_sun_mother_moon-thumb.jpg"
 actualPrice: $25.00
+album: Father Sun Mother Moon
+artist: KAWIR
+categories:
+- Vinyl
+date: '2021-06-26T15:22:50'
+draft: false
+images:
+- /images/covers/kawir-father_sun_mother_moon.jpg
 inStock: true
+thumbnailImage: /images/covers/kawir-father_sun_mother_moon-thumb.jpg
+title: KAWIR - Father Sun Mother Moon
 ---
 
 ## Vinyl

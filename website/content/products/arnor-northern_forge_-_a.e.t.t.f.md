@@ -1,16 +1,16 @@
 ---
-title: "Arnor - Northern Forge / A.E.T.T.F"
-date: 2021-06-13T12:22:18
-draft: false
-artist: "Arnor"
-album: "Northern Forge / A.E.T.T.F"
-categories:
-    - Tape
-images:
-    - "/images/covers/arnor-northern_forge_-_a.e.t.t.f.jpg"
-thumbnailImage: "/images/covers/arnor-northern_forge_-_a.e.t.t.f-thumb.jpg"
 actualPrice: $7.50
+album: Northern Forge / A.E.T.T.F
+artist: Arnor
+categories:
+- Tape
+date: '2021-06-26T15:16:21'
+draft: false
+images:
+- /images/covers/arnor-northern_forge_-_a.e.t.t.f.jpg
 inStock: true
+thumbnailImage: /images/covers/arnor-northern_forge_-_a.e.t.t.f-thumb.jpg
+title: Arnor - Northern Forge / A.E.T.T.F
 ---
 
 ## Tape

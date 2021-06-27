@@ -1,17 +1,17 @@
 ---
-title: "Forndom - Flykt"
-date: 2021-06-22T16:40:57
-draft: false
-artist: "Forndom"
-album: "Flykt"
-categories:
-    - Vinyl
-    - CD
-images:
-    - "/images/covers/forndom-flykt.jpg"
-thumbnailImage: "/images/covers/forndom-flykt-thumb.jpg"
 actualPrice: $12.00 - 22.00
+album: Flykt
+artist: Forndom
+categories:
+- Vinyl
+- CD
+date: '2021-06-26T15:23:07'
+draft: false
+images:
+- /images/covers/forndom-flykt.jpg
 inStock: true
+thumbnailImage: /images/covers/forndom-flykt-thumb.jpg
+title: Forndom - Flykt
 ---
 
 ## Vinyl

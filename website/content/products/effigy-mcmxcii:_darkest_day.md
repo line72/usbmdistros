@@ -1,16 +1,16 @@
 ---
-title: "Effigy - Mcmxcii: Darkest Day"
-date: 2021-06-13T12:22:22
-draft: false
-artist: "Effigy"
-album: "Mcmxcii: Darkest Day"
-categories:
-    - Tape
-images:
-    - "/images/covers/effigy-mcmxcii:_darkest_day.jpg"
-thumbnailImage: "/images/covers/effigy-mcmxcii:_darkest_day-thumb.jpg"
 actualPrice: $7.50
+album: 'Mcmxcii: Darkest Day'
+artist: Effigy
+categories:
+- Tape
+date: '2021-06-26T15:16:25'
+draft: false
+images:
+- /images/covers/effigy-mcmxcii:_darkest_day.jpg
 inStock: true
+thumbnailImage: /images/covers/effigy-mcmxcii:_darkest_day-thumb.jpg
+title: 'Effigy - Mcmxcii: Darkest Day'
 ---
 
 ## Tape

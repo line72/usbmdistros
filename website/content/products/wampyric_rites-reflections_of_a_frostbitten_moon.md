@@ -1,17 +1,17 @@
 ---
-title: "Wampyric Rites - Reflections Of A Frostbitten Moon"
-date: 2021-06-12T14:07:58
-draft: false
-artist: "Wampyric Rites"
-album: "Reflections Of A Frostbitten Moon"
-categories:
-    - Vinyl
-    - CD
-images:
-    - "/images/covers/wampyric_rites-reflections_of_a_frostbitten_moon.jpg"
-thumbnailImage: "/images/covers/wampyric_rites-reflections_of_a_frostbitten_moon-thumb.jpg"
 actualPrice: $15.00 - 32.00
+album: Reflections Of A Frostbitten Moon
+artist: Wampyric Rites
+categories:
+- Vinyl
+- CD
+date: '2021-06-26T15:03:07'
+draft: false
+images:
+- /images/covers/wampyric_rites-reflections_of_a_frostbitten_moon.jpg
 inStock: true
+thumbnailImage: /images/covers/wampyric_rites-reflections_of_a_frostbitten_moon-thumb.jpg
+title: Wampyric Rites - Reflections Of A Frostbitten Moon
 ---
 
 ## Vinyl

@@ -1,16 +1,16 @@
 ---
-title: "Gjendød - Skygger fra dødsriket"
-date: 2021-06-12T14:07:51
-draft: false
-artist: "Gjendød"
-album: "Skygger fra dødsriket"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/gjendød-skygger_fra_dødsriket.jpg"
-thumbnailImage: "/images/covers/gjendød-skygger_fra_dødsriket-thumb.jpg"
 actualPrice: $25.00
+album: "Skygger fra d\xF8dsriket"
+artist: "Gjend\xF8d"
+categories:
+- Vinyl
+date: '2021-06-26T15:02:53'
+draft: false
+images:
+- "/images/covers/gjend\xF8d-skygger_fra_d\xF8dsriket.jpg"
 inStock: true
+thumbnailImage: "/images/covers/gjend\xF8d-skygger_fra_d\xF8dsriket-thumb.jpg"
+title: "Gjend\xF8d - Skygger fra d\xF8dsriket"
 ---
 
 ## Vinyl

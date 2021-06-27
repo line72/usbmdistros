@@ -1,17 +1,17 @@
 ---
-title: "Suspiral - Delve Into The Mysteries Of Transcendence"
-date: 2021-06-22T16:40:46
-draft: false
-artist: "Suspiral"
-album: "Delve Into The Mysteries Of Transcendence"
-categories:
-    - Vinyl
-    - Tape
-images:
-    - "/images/covers/suspiral-delve_into_the_mysteries_of_transcendence.jpg"
-thumbnailImage: "/images/covers/suspiral-delve_into_the_mysteries_of_transcendence-thumb.jpg"
 actualPrice: $8.00 - 17.00
+album: Delve Into The Mysteries Of Transcendence
+artist: Suspiral
+categories:
+- Vinyl
+- Tape
+date: '2021-06-26T15:22:56'
+draft: false
+images:
+- /images/covers/suspiral-delve_into_the_mysteries_of_transcendence.jpg
 inStock: true
+thumbnailImage: /images/covers/suspiral-delve_into_the_mysteries_of_transcendence-thumb.jpg
+title: Suspiral - Delve Into The Mysteries Of Transcendence
 ---
 
 ## Vinyl

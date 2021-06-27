@@ -1,16 +1,16 @@
 ---
-title: "Mgła - Age of Excuse"
-date: 2021-06-12T14:07:52
-draft: false
-artist: "Mgła"
-album: "Age of Excuse"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/mgła-age_of_excuse.jpg"
-thumbnailImage: "/images/covers/mgła-age_of_excuse-thumb.jpg"
 actualPrice: $20.00
+album: Age of Excuse
+artist: "Mg\u0142a"
+categories:
+- Vinyl
+date: '2021-06-26T15:02:55'
+draft: false
+images:
+- "/images/covers/mg\u0142a-age_of_excuse.jpg"
 inStock: true
+thumbnailImage: "/images/covers/mg\u0142a-age_of_excuse-thumb.jpg"
+title: "Mg\u0142a - Age of Excuse"
 ---
 
 ## Vinyl

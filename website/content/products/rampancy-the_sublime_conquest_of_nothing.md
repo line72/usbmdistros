@@ -1,16 +1,16 @@
 ---
-title: "Rampancy - The Sublime Conquest Of Nothing"
-date: 2021-06-13T12:22:24
-draft: false
-artist: "Rampancy"
-album: "The Sublime Conquest Of Nothing"
-categories:
-    - Tape
-images:
-    - "/images/covers/rampancy-the_sublime_conquest_of_nothing.jpg"
-thumbnailImage: "/images/covers/rampancy-the_sublime_conquest_of_nothing-thumb.jpg"
 actualPrice: $3.00
+album: The Sublime Conquest Of Nothing
+artist: Rampancy
+categories:
+- Tape
+date: '2021-06-26T15:16:26'
+draft: false
+images:
+- /images/covers/rampancy-the_sublime_conquest_of_nothing.jpg
 inStock: true
+thumbnailImage: /images/covers/rampancy-the_sublime_conquest_of_nothing-thumb.jpg
+title: Rampancy - The Sublime Conquest Of Nothing
 ---
 
 ## Tape

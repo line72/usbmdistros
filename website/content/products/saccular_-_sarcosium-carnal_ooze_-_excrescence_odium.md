@@ -1,16 +1,16 @@
 ---
-title: "Saccular / Sarcosium - Carnal Ooze / Excrescence Odium"
-date: 2021-06-13T12:22:21
-draft: false
-artist: "Saccular / Sarcosium"
-album: "Carnal Ooze / Excrescence Odium"
-categories:
-    - Tape
-images:
-    - "/images/covers/saccular_-_sarcosium-carnal_ooze_-_excrescence_odium.jpg"
-thumbnailImage: "/images/covers/saccular_-_sarcosium-carnal_ooze_-_excrescence_odium-thumb.jpg"
 actualPrice: $6.00
+album: Carnal Ooze / Excrescence Odium
+artist: Saccular / Sarcosium
+categories:
+- Tape
+date: '2021-06-26T15:16:24'
+draft: false
+images:
+- /images/covers/saccular_-_sarcosium-carnal_ooze_-_excrescence_odium.jpg
 inStock: true
+thumbnailImage: /images/covers/saccular_-_sarcosium-carnal_ooze_-_excrescence_odium-thumb.jpg
+title: Saccular / Sarcosium - Carnal Ooze / Excrescence Odium
 ---
 
 ## Tape

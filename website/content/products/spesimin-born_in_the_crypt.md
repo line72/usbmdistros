@@ -1,16 +1,16 @@
 ---
-title: "Spesimin - Born In The Crypt"
-date: 2021-06-13T12:22:21
-draft: false
-artist: "Spesimin"
-album: "Born In The Crypt"
-categories:
-    - Tape
-images:
-    - "/images/covers/spesimin-born_in_the_crypt.jpg"
-thumbnailImage: "/images/covers/spesimin-born_in_the_crypt-thumb.jpg"
 actualPrice: $7.00
+album: Born In The Crypt
+artist: Spesimin
+categories:
+- Tape
+date: '2021-06-26T15:16:24'
+draft: false
+images:
+- /images/covers/spesimin-born_in_the_crypt.jpg
 inStock: true
+thumbnailImage: /images/covers/spesimin-born_in_the_crypt-thumb.jpg
+title: Spesimin - Born In The Crypt
 ---
 
 ## Tape

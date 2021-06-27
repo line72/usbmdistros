@@ -1,17 +1,17 @@
 ---
-title: "Ikkah - Mentis in Aede Noctu"
-date: 2021-06-22T16:41:10
-draft: false
-artist: "Ikkah"
-album: "Mentis in Aede Noctu"
-categories:
-    - Tape
-    - Cassette
-images:
-    - "/images/covers/ikkah-mentis_in_aede_noctu.jpg"
-thumbnailImage: "/images/covers/ikkah-mentis_in_aede_noctu-thumb.jpg"
 actualPrice: $9.00 - 10.00
+album: Mentis in Aede Noctu
+artist: Ikkah
+categories:
+- Tape
+- Cassette
+date: '2021-06-26T15:23:21'
+draft: false
+images:
+- /images/covers/ikkah-mentis_in_aede_noctu.jpg
 inStock: true
+thumbnailImage: /images/covers/ikkah-mentis_in_aede_noctu-thumb.jpg
+title: Ikkah - Mentis in Aede Noctu
 ---
 
 ## Tape

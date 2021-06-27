@@ -1,16 +1,16 @@
 ---
-title: "Heretic Cult Redeemer - Heretic Cult Redeemer"
-date: 2021-06-22T16:40:39
-draft: false
-artist: "Heretic Cult Redeemer"
-album: "Heretic Cult Redeemer"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/heretic_cult_redeemer-heretic_cult_redeemer.jpg"
-thumbnailImage: "/images/covers/heretic_cult_redeemer-heretic_cult_redeemer-thumb.jpg"
 actualPrice: $17.00
+album: Heretic Cult Redeemer
+artist: Heretic Cult Redeemer
+categories:
+- Vinyl
+date: '2021-06-26T15:22:48'
+draft: false
+images:
+- /images/covers/heretic_cult_redeemer-heretic_cult_redeemer.jpg
 inStock: true
+thumbnailImage: /images/covers/heretic_cult_redeemer-heretic_cult_redeemer-thumb.jpg
+title: Heretic Cult Redeemer - Heretic Cult Redeemer
 ---
 
 ## Vinyl

@@ -1,17 +1,17 @@
 ---
-title: "Diarrhea - Anal Torture Grind"
-date: 2021-06-22T16:40:56
-draft: false
-artist: "Diarrhea"
-album: "Anal Torture Grind"
-categories:
-    - Tape
-    - CD
-images:
-    - "/images/covers/diarrhea-anal_torture_grind.jpg"
-thumbnailImage: "/images/covers/diarrhea-anal_torture_grind-thumb.jpg"
 actualPrice: $7.00 - 10.00
+album: Anal Torture Grind
+artist: Diarrhea
+categories:
+- Tape
+- CD
+date: '2021-06-26T15:23:06'
+draft: false
+images:
+- /images/covers/diarrhea-anal_torture_grind.jpg
 inStock: true
+thumbnailImage: /images/covers/diarrhea-anal_torture_grind-thumb.jpg
+title: Diarrhea - Anal Torture Grind
 ---
 
 ## Tape

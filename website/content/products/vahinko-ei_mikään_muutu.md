@@ -1,16 +1,16 @@
 ---
-title: "Vahinko - Ei Mikään Muutu"
-date: 2021-06-13T12:22:23
-draft: false
-artist: "Vahinko"
-album: "Ei Mikään Muutu"
-categories:
-    - Tape
-images:
-    - "/images/covers/vahinko-ei_mikään_muutu.jpg"
-thumbnailImage: "/images/covers/vahinko-ei_mikään_muutu-thumb.jpg"
 actualPrice: $3.50
+album: "Ei Mik\xE4\xE4n Muutu"
+artist: Vahinko
+categories:
+- Tape
+date: '2021-06-26T15:16:25'
+draft: false
+images:
+- "/images/covers/vahinko-ei_mik\xE4\xE4n_muutu.jpg"
 inStock: true
+thumbnailImage: "/images/covers/vahinko-ei_mik\xE4\xE4n_muutu-thumb.jpg"
+title: "Vahinko - Ei Mik\xE4\xE4n Muutu"
 ---
 
 ## Tape

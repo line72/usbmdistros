@@ -1,16 +1,16 @@
 ---
-title: "Khashm - Asmodeus Rising"
-date: 2021-06-22T16:40:40
-draft: false
-artist: "Khashm"
-album: "Asmodeus Rising"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/khashm-asmodeus_rising.jpg"
-thumbnailImage: "/images/covers/khashm-asmodeus_rising-thumb.jpg"
 actualPrice: $20.00
+album: Asmodeus Rising
+artist: Khashm
+categories:
+- Vinyl
+date: '2021-06-26T15:22:50'
+draft: false
+images:
+- /images/covers/khashm-asmodeus_rising.jpg
 inStock: true
+thumbnailImage: /images/covers/khashm-asmodeus_rising-thumb.jpg
+title: Khashm - Asmodeus Rising
 ---
 
 ## Vinyl

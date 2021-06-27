@@ -1,16 +1,16 @@
 ---
-title: "Procreation - Incantations of Demonic Lust..."
-date: 2021-06-22T16:40:43
-draft: false
-artist: "Procreation"
-album: "Incantations of Demonic Lust..."
-categories:
-    - Vinyl
-images:
-    - "/images/covers/procreation-incantations_of_demonic_lust....jpg"
-thumbnailImage: "/images/covers/procreation-incantations_of_demonic_lust...-thumb.jpg"
 actualPrice: $20.00 - 25.00
+album: Incantations of Demonic Lust...
+artist: Procreation
+categories:
+- Vinyl
+date: '2021-06-26T15:22:53'
+draft: false
+images:
+- /images/covers/procreation-incantations_of_demonic_lust....jpg
 inStock: true
+thumbnailImage: /images/covers/procreation-incantations_of_demonic_lust...-thumb.jpg
+title: Procreation - Incantations of Demonic Lust...
 ---
 
 ## Vinyl

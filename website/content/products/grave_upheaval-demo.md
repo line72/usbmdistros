@@ -1,16 +1,16 @@
 ---
-title: "Grave Upheaval - Demo"
-date: 2021-06-22T16:40:38
-draft: false
-artist: "Grave Upheaval"
-album: "Demo"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/grave_upheaval-demo.jpg"
-thumbnailImage: "/images/covers/grave_upheaval-demo-thumb.jpg"
 actualPrice: $20.00
+album: Demo
+artist: Grave Upheaval
+categories:
+- Vinyl
+date: '2021-06-26T15:22:48'
+draft: false
+images:
+- /images/covers/grave_upheaval-demo.jpg
 inStock: true
+thumbnailImage: /images/covers/grave_upheaval-demo-thumb.jpg
+title: Grave Upheaval - Demo
 ---
 
 ## Vinyl

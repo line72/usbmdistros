@@ -1,16 +1,16 @@
 ---
-title: "Phlegein - Labyrinth of Wonder"
-date: 2021-06-12T14:07:58
-draft: false
-artist: "Phlegein"
-album: "Labyrinth of Wonder"
-categories:
-    - CD
-images:
-    - "/images/covers/phlegein-labyrinth_of_wonder.jpg"
-thumbnailImage: "/images/covers/phlegein-labyrinth_of_wonder-thumb.jpg"
 actualPrice: $14.00
+album: Labyrinth of Wonder
+artist: Phlegein
+categories:
+- CD
+date: '2021-06-26T15:03:07'
+draft: false
+images:
+- /images/covers/phlegein-labyrinth_of_wonder.jpg
 inStock: true
+thumbnailImage: /images/covers/phlegein-labyrinth_of_wonder-thumb.jpg
+title: Phlegein - Labyrinth of Wonder
 ---
 
 ## CD

@@ -1,16 +1,16 @@
 ---
-title: "Bergraven - Dödsvisioner"
-date: 2021-06-22T16:40:33
-draft: false
-artist: "Bergraven"
-album: "Dödsvisioner"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/bergraven-dödsvisioner.jpg"
-thumbnailImage: "/images/covers/bergraven-dödsvisioner-thumb.jpg"
 actualPrice: $22.00
+album: "D\xF6dsvisioner"
+artist: Bergraven
+categories:
+- Vinyl
+date: '2021-06-26T15:22:43'
+draft: false
+images:
+- "/images/covers/bergraven-d\xF6dsvisioner.jpg"
 inStock: true
+thumbnailImage: "/images/covers/bergraven-d\xF6dsvisioner-thumb.jpg"
+title: "Bergraven - D\xF6dsvisioner"
 ---
 
 ## Vinyl

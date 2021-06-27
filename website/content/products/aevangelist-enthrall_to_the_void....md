@@ -1,16 +1,16 @@
 ---
-title: "Aevangelist - Enthrall to the Void..."
-date: 2021-06-22T16:40:32
-draft: false
-artist: "Aevangelist"
-album: "Enthrall to the Void..."
-categories:
-    - Vinyl
-images:
-    - "/images/covers/aevangelist-enthrall_to_the_void....jpg"
-thumbnailImage: "/images/covers/aevangelist-enthrall_to_the_void...-thumb.jpg"
 actualPrice: $17.00
+album: Enthrall to the Void...
+artist: Aevangelist
+categories:
+- Vinyl
+date: '2021-06-26T15:22:41'
+draft: false
+images:
+- /images/covers/aevangelist-enthrall_to_the_void....jpg
 inStock: true
+thumbnailImage: /images/covers/aevangelist-enthrall_to_the_void...-thumb.jpg
+title: Aevangelist - Enthrall to the Void...
 ---
 
 ## Vinyl

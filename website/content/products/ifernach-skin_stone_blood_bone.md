@@ -1,16 +1,16 @@
 ---
-title: "Ifernach - Skin Stone Blood Bone"
-date: 2021-06-22T16:40:59
-draft: false
-artist: "Ifernach"
-album: "Skin Stone Blood Bone"
-categories:
-    - CD
-images:
-    - "/images/covers/ifernach-skin_stone_blood_bone.jpg"
-thumbnailImage: "/images/covers/ifernach-skin_stone_blood_bone-thumb.jpg"
 actualPrice: $13.00 - 15.00
+album: Skin Stone Blood Bone
+artist: Ifernach
+categories:
+- CD
+date: '2021-06-26T15:23:09'
+draft: false
+images:
+- /images/covers/ifernach-skin_stone_blood_bone.jpg
 inStock: true
+thumbnailImage: /images/covers/ifernach-skin_stone_blood_bone-thumb.jpg
+title: Ifernach - Skin Stone Blood Bone
 ---
 
 ## CD

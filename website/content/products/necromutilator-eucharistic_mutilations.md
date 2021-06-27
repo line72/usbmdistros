@@ -1,16 +1,16 @@
 ---
-title: "NECROMUTILATOR - Eucharistic Mutilations"
-date: 2021-06-22T16:40:42
-draft: false
-artist: "NECROMUTILATOR"
-album: "Eucharistic Mutilations"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/necromutilator-eucharistic_mutilations.jpg"
-thumbnailImage: "/images/covers/necromutilator-eucharistic_mutilations-thumb.jpg"
 actualPrice: $17.00
+album: Eucharistic Mutilations
+artist: NECROMUTILATOR
+categories:
+- Vinyl
+date: '2021-06-26T15:22:52'
+draft: false
+images:
+- /images/covers/necromutilator-eucharistic_mutilations.jpg
 inStock: true
+thumbnailImage: /images/covers/necromutilator-eucharistic_mutilations-thumb.jpg
+title: NECROMUTILATOR - Eucharistic Mutilations
 ---
 
 ## Vinyl

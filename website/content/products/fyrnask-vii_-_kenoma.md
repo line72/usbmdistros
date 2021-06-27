@@ -1,16 +1,16 @@
 ---
-title: "Fyrnask - VII - Kenoma"
-date: 2021-06-22T16:40:38
-draft: false
-artist: "Fyrnask"
-album: "VII - Kenoma"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/fyrnask-vii_-_kenoma.jpg"
-thumbnailImage: "/images/covers/fyrnask-vii_-_kenoma-thumb.jpg"
 actualPrice: $30.00
+album: VII - Kenoma
+artist: Fyrnask
+categories:
+- Vinyl
+date: '2021-06-26T15:22:47'
+draft: false
+images:
+- /images/covers/fyrnask-vii_-_kenoma.jpg
 inStock: true
+thumbnailImage: /images/covers/fyrnask-vii_-_kenoma-thumb.jpg
+title: Fyrnask - VII - Kenoma
 ---
 
 ## Vinyl

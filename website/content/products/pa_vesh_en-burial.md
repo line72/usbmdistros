@@ -1,16 +1,16 @@
 ---
-title: "Pa Vesh En - Burial"
-date: 2021-06-12T14:04:39
-draft: false
-artist: "Pa Vesh En"
-album: "Burial"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/pa_vesh_en-burial.jpg"
-thumbnailImage: "/images/covers/pa_vesh_en-burial-thumb.jpg"
 actualPrice: $17.00
+album: Burial
+artist: Pa Vesh En
+categories:
+- Vinyl
+date: '2021-06-26T14:49:52'
+draft: false
+images:
+- /images/covers/pa_vesh_en-burial.jpg
 inStock: true
+thumbnailImage: /images/covers/pa_vesh_en-burial-thumb.jpg
+title: Pa Vesh En - Burial
 ---
 
 ## Vinyl

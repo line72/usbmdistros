@@ -1,16 +1,16 @@
 ---
-title: "Deadsoulalliance - Slaves To The Apocalypse"
-date: 2021-06-13T12:22:22
-draft: false
-artist: "Deadsoulalliance"
-album: "Slaves To The Apocalypse"
-categories:
-    - Tape
-images:
-    - "/images/covers/deadsoulalliance-slaves_to_the_apocalypse.jpg"
-thumbnailImage: "/images/covers/deadsoulalliance-slaves_to_the_apocalypse-thumb.jpg"
 actualPrice: $6.00
+album: Slaves To The Apocalypse
+artist: Deadsoulalliance
+categories:
+- Tape
+date: '2021-06-26T15:16:24'
+draft: false
+images:
+- /images/covers/deadsoulalliance-slaves_to_the_apocalypse.jpg
 inStock: true
+thumbnailImage: /images/covers/deadsoulalliance-slaves_to_the_apocalypse-thumb.jpg
+title: Deadsoulalliance - Slaves To The Apocalypse
 ---
 
 ## Tape

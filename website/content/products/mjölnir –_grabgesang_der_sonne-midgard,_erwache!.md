@@ -1,16 +1,16 @@
 ---
-title: "Mjölnir – Grabgesang der Sonne - Midgard, erwache!"
-date: 2021-06-12T14:07:58
-draft: false
-artist: "Mjölnir – Grabgesang der Sonne"
-album: "Midgard, erwache!"
-categories:
-    - CD
-images:
-    - "/images/covers/mjölnir –_grabgesang_der_sonne-midgard,_erwache!.jpg"
-thumbnailImage: "/images/covers/mjölnir –_grabgesang_der_sonne-midgard,_erwache!-thumb.jpg"
 actualPrice: $16.00
+album: Midgard, erwache!
+artist: "Mj\xF6lnir\_\u2013 Grabgesang der Sonne"
+categories:
+- CD
+date: '2021-06-26T15:03:07'
+draft: false
+images:
+- "/images/covers/mj\xF6lnir\_\u2013_grabgesang_der_sonne-midgard,_erwache!.jpg"
 inStock: true
+thumbnailImage: "/images/covers/mj\xF6lnir\_\u2013_grabgesang_der_sonne-midgard,_erwache!-thumb.jpg"
+title: "Mj\xF6lnir\_\u2013 Grabgesang der Sonne - Midgard, erwache!"
 ---
 
 ## CD

@@ -1,16 +1,16 @@
 ---
-title: "Belus - Apophenia"
-date: 2021-06-13T12:22:23
-draft: false
-artist: "Belus"
-album: "Apophenia"
-categories:
-    - Tape
-images:
-    - "/images/covers/belus-apophenia.jpg"
-thumbnailImage: "/images/covers/belus-apophenia-thumb.jpg"
 actualPrice: $6.00
+album: Apophenia
+artist: Belus
+categories:
+- Tape
+date: '2021-06-26T15:16:26'
+draft: false
+images:
+- /images/covers/belus-apophenia.jpg
 inStock: true
+thumbnailImage: /images/covers/belus-apophenia-thumb.jpg
+title: Belus - Apophenia
 ---
 
 ## Tape

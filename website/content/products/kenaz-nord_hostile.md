@@ -1,16 +1,16 @@
 ---
-title: "Kenaz - Nord Hostile"
-date: 2021-06-12T14:07:56
-draft: false
-artist: "Kenaz"
-album: "Nord Hostile"
-categories:
-    - Tape
-images:
-    - "/images/covers/kenaz-nord_hostile.jpg"
-thumbnailImage: "/images/covers/kenaz-nord_hostile-thumb.jpg"
 actualPrice: $8.50
+album: Nord Hostile
+artist: Kenaz
+categories:
+- Tape
+date: '2021-06-26T15:03:02'
+draft: false
+images:
+- /images/covers/kenaz-nord_hostile.jpg
 inStock: true
+thumbnailImage: /images/covers/kenaz-nord_hostile-thumb.jpg
+title: Kenaz - Nord Hostile
 ---
 
 ## Tape

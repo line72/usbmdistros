@@ -1,16 +1,16 @@
 ---
-title: "Hellgoat - Death Conquers All"
-date: 2021-06-22T16:40:39
-draft: false
-artist: "Hellgoat"
-album: "Death Conquers All"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/hellgoat-death_conquers_all.jpg"
-thumbnailImage: "/images/covers/hellgoat-death_conquers_all-thumb.jpg"
 actualPrice: $17.00
+album: Death Conquers All
+artist: Hellgoat
+categories:
+- Vinyl
+date: '2021-06-26T15:22:48'
+draft: false
+images:
+- /images/covers/hellgoat-death_conquers_all.jpg
 inStock: true
+thumbnailImage: /images/covers/hellgoat-death_conquers_all-thumb.jpg
+title: Hellgoat - Death Conquers All
 ---
 
 ## Vinyl

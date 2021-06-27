@@ -1,16 +1,16 @@
 ---
-title: "Mastery - Valis"
-date: 2021-06-22T16:40:41
-draft: false
-artist: "Mastery"
-album: "Valis"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/mastery-valis.jpg"
-thumbnailImage: "/images/covers/mastery-valis-thumb.jpg"
 actualPrice: $17.00
+album: Valis
+artist: Mastery
+categories:
+- Vinyl
+date: '2021-06-26T15:22:51'
+draft: false
+images:
+- /images/covers/mastery-valis.jpg
 inStock: true
+thumbnailImage: /images/covers/mastery-valis-thumb.jpg
+title: Mastery - Valis
 ---
 
 ## Vinyl

@@ -1,18 +1,18 @@
 ---
-title: "Balmog - Svmma Fide"
-date: 2021-06-22T16:41:09
-draft: false
-artist: "Balmog"
-album: "Svmma Fide"
-categories:
-    - Vinyl
-    - Cassette
-    - CD
-images:
-    - "/images/covers/balmog-svmma_fide.jpg"
-thumbnailImage: "/images/covers/balmog-svmma_fide-thumb.jpg"
 actualPrice: $8.00 - 17.00
+album: Svmma Fide
+artist: Balmog
+categories:
+- Vinyl
+- Cassette
+- CD
+date: '2021-06-26T15:23:19'
+draft: false
+images:
+- /images/covers/balmog-svmma_fide.jpg
 inStock: true
+thumbnailImage: /images/covers/balmog-svmma_fide-thumb.jpg
+title: Balmog - Svmma Fide
 ---
 
 ## Vinyl

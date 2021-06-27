@@ -1,16 +1,16 @@
 ---
-title: "Dark Opera - The Day of Pariah"
-date: 2021-06-22T16:40:35
-draft: false
-artist: "Dark Opera"
-album: "The Day of Pariah"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/dark_opera-the_day_of_pariah.jpg"
-thumbnailImage: "/images/covers/dark_opera-the_day_of_pariah-thumb.jpg"
 actualPrice: $20.00
+album: The Day of Pariah
+artist: Dark Opera
+categories:
+- Vinyl
+date: '2021-06-26T15:22:44'
+draft: false
+images:
+- /images/covers/dark_opera-the_day_of_pariah.jpg
 inStock: true
+thumbnailImage: /images/covers/dark_opera-the_day_of_pariah-thumb.jpg
+title: Dark Opera - The Day of Pariah
 ---
 
 ## Vinyl

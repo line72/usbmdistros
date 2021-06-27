@@ -1,16 +1,16 @@
 ---
-title: "Filth Column - Cervix Remnants In Diocese"
-date: 2021-06-13T12:22:22
-draft: false
-artist: "Filth Column"
-album: "Cervix Remnants In Diocese"
-categories:
-    - Tape
-images:
-    - "/images/covers/filth_column-cervix_remnants_in_diocese.jpg"
-thumbnailImage: "/images/covers/filth_column-cervix_remnants_in_diocese-thumb.jpg"
 actualPrice: $6.50
+album: Cervix Remnants In Diocese
+artist: Filth Column
+categories:
+- Tape
+date: '2021-06-26T15:16:25'
+draft: false
+images:
+- /images/covers/filth_column-cervix_remnants_in_diocese.jpg
 inStock: true
+thumbnailImage: /images/covers/filth_column-cervix_remnants_in_diocese-thumb.jpg
+title: Filth Column - Cervix Remnants In Diocese
 ---
 
 ## Tape

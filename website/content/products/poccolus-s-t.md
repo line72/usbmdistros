@@ -1,16 +1,16 @@
 ---
-title: "Poccolus - s/t"
-date: 2021-06-12T14:07:58
-draft: false
-artist: "Poccolus"
-album: "s/t"
-categories:
-    - CD
-images:
-    - "/images/covers/poccolus-s-t.jpg"
-thumbnailImage: "/images/covers/poccolus-s-t-thumb.jpg"
 actualPrice: $15.00
+album: s/t
+artist: Poccolus
+categories:
+- CD
+date: '2021-06-26T15:03:07'
+draft: false
+images:
+- /images/covers/poccolus-s-t.jpg
 inStock: true
+thumbnailImage: /images/covers/poccolus-s-t-thumb.jpg
+title: Poccolus - s/t
 ---
 
 ## CD

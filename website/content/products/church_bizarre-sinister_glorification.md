@@ -1,16 +1,16 @@
 ---
-title: "Church Bizarre - Sinister Glorification"
-date: 2021-06-13T12:22:20
-draft: false
-artist: "Church Bizarre"
-album: "Sinister Glorification"
-categories:
-    - Tape
-images:
-    - "/images/covers/church_bizarre-sinister_glorification.jpg"
-thumbnailImage: "/images/covers/church_bizarre-sinister_glorification-thumb.jpg"
 actualPrice: $8.00
+album: Sinister Glorification
+artist: Church Bizarre
+categories:
+- Tape
+date: '2021-06-26T15:16:23'
+draft: false
+images:
+- /images/covers/church_bizarre-sinister_glorification.jpg
 inStock: true
+thumbnailImage: /images/covers/church_bizarre-sinister_glorification-thumb.jpg
+title: Church Bizarre - Sinister Glorification
 ---
 
 ## Tape

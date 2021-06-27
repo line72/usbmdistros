@@ -1,16 +1,16 @@
 ---
-title: "Nachtmystium - Live at Roadburn MMX"
-date: 2021-06-22T16:40:42
-draft: false
-artist: "Nachtmystium"
-album: "Live at Roadburn MMX"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/nachtmystium-live_at_roadburn_mmx.jpg"
-thumbnailImage: "/images/covers/nachtmystium-live_at_roadburn_mmx-thumb.jpg"
 actualPrice: $17.00
+album: Live at Roadburn MMX
+artist: Nachtmystium
+categories:
+- Vinyl
+date: '2021-06-26T15:22:52'
+draft: false
+images:
+- /images/covers/nachtmystium-live_at_roadburn_mmx.jpg
 inStock: true
+thumbnailImage: /images/covers/nachtmystium-live_at_roadburn_mmx-thumb.jpg
+title: Nachtmystium - Live at Roadburn MMX
 ---
 
 ## Vinyl

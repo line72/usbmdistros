@@ -1,16 +1,16 @@
 ---
-title: "Accès De Faiblesse - Pas De Répit"
-date: 2021-06-13T12:22:22
-draft: false
-artist: "Accès De Faiblesse"
-album: "Pas De Répit"
-categories:
-    - Tape
-images:
-    - "/images/covers/accès_de_faiblesse-pas_de_répit.jpg"
-thumbnailImage: "/images/covers/accès_de_faiblesse-pas_de_répit-thumb.jpg"
 actualPrice: $5.00
+album: "Pas De R\xE9pit"
+artist: "Acc\xE8s De Faiblesse"
+categories:
+- Tape
+date: '2021-06-26T15:16:24'
+draft: false
+images:
+- "/images/covers/acc\xE8s_de_faiblesse-pas_de_r\xE9pit.jpg"
 inStock: true
+thumbnailImage: "/images/covers/acc\xE8s_de_faiblesse-pas_de_r\xE9pit-thumb.jpg"
+title: "Acc\xE8s De Faiblesse - Pas De R\xE9pit"
 ---
 
 ## Tape

@@ -1,16 +1,16 @@
 ---
-title: "Death Invoker - Necromancy, Damnation, Revenge"
-date: 2021-06-13T12:22:20
-draft: false
-artist: "Death Invoker"
-album: "Necromancy, Damnation, Revenge"
-categories:
-    - Tape
-images:
-    - "/images/covers/death_invoker-necromancy,_damnation,_revenge.jpg"
-thumbnailImage: "/images/covers/death_invoker-necromancy,_damnation,_revenge-thumb.jpg"
 actualPrice: $8.00
+album: Necromancy, Damnation, Revenge
+artist: Death Invoker
+categories:
+- Tape
+date: '2021-06-26T15:16:23'
+draft: false
+images:
+- /images/covers/death_invoker-necromancy,_damnation,_revenge.jpg
 inStock: true
+thumbnailImage: /images/covers/death_invoker-necromancy,_damnation,_revenge-thumb.jpg
+title: Death Invoker - Necromancy, Damnation, Revenge
 ---
 
 ## Tape

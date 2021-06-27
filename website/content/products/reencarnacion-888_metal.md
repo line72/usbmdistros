@@ -1,17 +1,17 @@
 ---
-title: "Reencarnacion - 888 Metal"
-date: 2021-06-22T16:41:04
-draft: false
-artist: "Reencarnacion"
-album: "888 Metal"
-categories:
-    - Vinyl
-    - CD
-images:
-    - "/images/covers/reencarnacion-888_metal.jpg"
-thumbnailImage: "/images/covers/reencarnacion-888_metal-thumb.jpg"
 actualPrice: $6.00 - 45.00
+album: 888 Metal
+artist: Reencarnacion
+categories:
+- Vinyl
+- CD
+date: '2021-06-26T15:23:14'
+draft: false
+images:
+- /images/covers/reencarnacion-888_metal.jpg
 inStock: true
+thumbnailImage: /images/covers/reencarnacion-888_metal-thumb.jpg
+title: Reencarnacion - 888 Metal
 ---
 
 ## Vinyl

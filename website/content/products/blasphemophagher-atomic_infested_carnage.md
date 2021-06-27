@@ -1,16 +1,16 @@
 ---
-title: "Blasphemophagher - Atomic Infested Carnage"
-date: 2021-06-22T16:40:34
-draft: false
-artist: "Blasphemophagher"
-album: "Atomic Infested Carnage"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/blasphemophagher-atomic_infested_carnage.jpg"
-thumbnailImage: "/images/covers/blasphemophagher-atomic_infested_carnage-thumb.jpg"
 actualPrice: $20.00
+album: Atomic Infested Carnage
+artist: Blasphemophagher
+categories:
+- Vinyl
+date: '2021-06-26T15:22:43'
+draft: false
+images:
+- /images/covers/blasphemophagher-atomic_infested_carnage.jpg
 inStock: true
+thumbnailImage: /images/covers/blasphemophagher-atomic_infested_carnage-thumb.jpg
+title: Blasphemophagher - Atomic Infested Carnage
 ---
 
 ## Vinyl

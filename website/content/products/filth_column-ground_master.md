@@ -1,16 +1,16 @@
 ---
-title: "Filth Column - Ground Master"
-date: 2021-06-13T12:22:22
-draft: false
-artist: "Filth Column"
-album: "Ground Master"
-categories:
-    - Tape
-images:
-    - "/images/covers/filth_column-ground_master.jpg"
-thumbnailImage: "/images/covers/filth_column-ground_master-thumb.jpg"
 actualPrice: $6.00
+album: Ground Master
+artist: Filth Column
+categories:
+- Tape
+date: '2021-06-26T15:16:25'
+draft: false
+images:
+- /images/covers/filth_column-ground_master.jpg
 inStock: true
+thumbnailImage: /images/covers/filth_column-ground_master-thumb.jpg
+title: Filth Column - Ground Master
 ---
 
 ## Tape

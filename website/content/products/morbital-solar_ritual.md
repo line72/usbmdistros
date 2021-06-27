@@ -1,16 +1,16 @@
 ---
-title: "Morbital - Solar Ritual"
-date: 2021-06-13T12:22:18
-draft: false
-artist: "Morbital"
-album: "Solar Ritual"
-categories:
-    - Tape
-images:
-    - "/images/covers/morbital-solar_ritual.jpg"
-thumbnailImage: "/images/covers/morbital-solar_ritual-thumb.jpg"
 actualPrice: $8.50
+album: Solar Ritual
+artist: Morbital
+categories:
+- Tape
+date: '2021-06-26T15:16:22'
+draft: false
+images:
+- /images/covers/morbital-solar_ritual.jpg
 inStock: true
+thumbnailImage: /images/covers/morbital-solar_ritual-thumb.jpg
+title: Morbital - Solar Ritual
 ---
 
 ## Tape

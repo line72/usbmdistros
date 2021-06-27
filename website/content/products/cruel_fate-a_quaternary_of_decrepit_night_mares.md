@@ -1,16 +1,16 @@
 ---
-title: "Cruel Fate - A Quaternary Of Decrepit Night Mares"
-date: 2021-06-13T12:22:20
-draft: false
-artist: "Cruel Fate"
-album: "A Quaternary Of Decrepit Night Mares"
-categories:
-    - Tape
-images:
-    - "/images/covers/cruel_fate-a_quaternary_of_decrepit_night_mares.jpg"
-thumbnailImage: "/images/covers/cruel_fate-a_quaternary_of_decrepit_night_mares-thumb.jpg"
 actualPrice: $4.00
+album: A Quaternary Of Decrepit Night Mares
+artist: Cruel Fate
+categories:
+- Tape
+date: '2021-06-26T15:16:23'
+draft: false
+images:
+- /images/covers/cruel_fate-a_quaternary_of_decrepit_night_mares.jpg
 inStock: true
+thumbnailImage: /images/covers/cruel_fate-a_quaternary_of_decrepit_night_mares-thumb.jpg
+title: Cruel Fate - A Quaternary Of Decrepit Night Mares
 ---
 
 ## Tape

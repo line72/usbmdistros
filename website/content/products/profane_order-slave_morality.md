@@ -1,17 +1,17 @@
 ---
-title: "Profane Order - Slave Morality"
-date: 2021-06-22T16:41:03
-draft: false
-artist: "Profane Order"
-album: "Slave Morality"
-categories:
-    - Vinyl
-    - CD
-images:
-    - "/images/covers/profane_order-slave_morality.jpg"
-thumbnailImage: "/images/covers/profane_order-slave_morality-thumb.jpg"
 actualPrice: $10.00 - 20.00
+album: Slave Morality
+artist: Profane Order
+categories:
+- Vinyl
+- CD
+date: '2021-06-26T15:23:13'
+draft: false
+images:
+- /images/covers/profane_order-slave_morality.jpg
 inStock: true
+thumbnailImage: /images/covers/profane_order-slave_morality-thumb.jpg
+title: Profane Order - Slave Morality
 ---
 
 ## Vinyl

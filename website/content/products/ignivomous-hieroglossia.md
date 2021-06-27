@@ -1,17 +1,17 @@
 ---
-title: "Ignivomous - Hieroglossia"
-date: 2021-06-22T16:40:59
-draft: false
-artist: "Ignivomous"
-album: "Hieroglossia"
-categories:
-    - Vinyl
-    - CD
-images:
-    - "/images/covers/ignivomous-hieroglossia.jpg"
-thumbnailImage: "/images/covers/ignivomous-hieroglossia-thumb.jpg"
 actualPrice: $10.00 - 25.00
+album: Hieroglossia
+artist: Ignivomous
+categories:
+- Vinyl
+- CD
+date: '2021-06-26T15:23:09'
+draft: false
+images:
+- /images/covers/ignivomous-hieroglossia.jpg
 inStock: true
+thumbnailImage: /images/covers/ignivomous-hieroglossia-thumb.jpg
+title: Ignivomous - Hieroglossia
 ---
 
 ## Vinyl

@@ -1,16 +1,16 @@
 ---
-title: "CAEDES - Seelenharmonie"
-date: 2021-06-22T16:40:34
-draft: false
-artist: "CAEDES"
-album: "Seelenharmonie"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/caedes-seelenharmonie.jpg"
-thumbnailImage: "/images/covers/caedes-seelenharmonie-thumb.jpg"
 actualPrice: $17.00
+album: Seelenharmonie
+artist: CAEDES
+categories:
+- Vinyl
+date: '2021-06-26T15:22:43'
+draft: false
+images:
+- /images/covers/caedes-seelenharmonie.jpg
 inStock: true
+thumbnailImage: /images/covers/caedes-seelenharmonie-thumb.jpg
+title: CAEDES - Seelenharmonie
 ---
 
 ## Vinyl

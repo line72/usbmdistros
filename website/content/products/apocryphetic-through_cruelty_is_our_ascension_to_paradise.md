@@ -1,16 +1,16 @@
 ---
-title: "Apocryphetic - Through Cruelty Is Our Ascension To Paradise"
-date: 2021-06-13T12:22:21
-draft: false
-artist: "Apocryphetic"
-album: "Through Cruelty Is Our Ascension To Paradise"
-categories:
-    - Tape
-images:
-    - "/images/covers/apocryphetic-through_cruelty_is_our_ascension_to_paradise.jpg"
-thumbnailImage: "/images/covers/apocryphetic-through_cruelty_is_our_ascension_to_paradise-thumb.jpg"
 actualPrice: $7.00
+album: Through Cruelty Is Our Ascension To Paradise
+artist: Apocryphetic
+categories:
+- Tape
+date: '2021-06-26T15:16:24'
+draft: false
+images:
+- /images/covers/apocryphetic-through_cruelty_is_our_ascension_to_paradise.jpg
 inStock: true
+thumbnailImage: /images/covers/apocryphetic-through_cruelty_is_our_ascension_to_paradise-thumb.jpg
+title: Apocryphetic - Through Cruelty Is Our Ascension To Paradise
 ---
 
 ## Tape

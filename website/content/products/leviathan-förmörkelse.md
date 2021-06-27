@@ -1,16 +1,16 @@
 ---
-title: "Leviathan - Förmörkelse"
-date: 2021-06-13T12:22:20
-draft: false
-artist: "Leviathan"
-album: "Förmörkelse"
-categories:
-    - Tape
-images:
-    - "/images/covers/leviathan-förmörkelse.jpg"
-thumbnailImage: "/images/covers/leviathan-förmörkelse-thumb.jpg"
 actualPrice: $8.50
+album: "F\xF6rm\xF6rkelse"
+artist: Leviathan
+categories:
+- Tape
+date: '2021-06-26T15:16:23'
+draft: false
+images:
+- "/images/covers/leviathan-f\xF6rm\xF6rkelse.jpg"
 inStock: true
+thumbnailImage: "/images/covers/leviathan-f\xF6rm\xF6rkelse-thumb.jpg"
+title: "Leviathan - F\xF6rm\xF6rkelse"
 ---
 
 ## Tape

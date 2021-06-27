@@ -1,16 +1,16 @@
 ---
-title: "Chasmal Mire - Self-Titled"
-date: 2021-06-13T12:22:19
-draft: false
-artist: "Chasmal Mire"
-album: "Self-Titled"
-categories:
-    - Tape
-images:
-    - "/images/covers/chasmal_mire-self-titled.jpg"
-thumbnailImage: "/images/covers/chasmal_mire-self-titled-thumb.jpg"
 actualPrice: $10.00
+album: Self-Titled
+artist: Chasmal Mire
+categories:
+- Tape
+date: '2021-06-26T15:16:22'
+draft: false
+images:
+- /images/covers/chasmal_mire-self-titled.jpg
 inStock: true
+thumbnailImage: /images/covers/chasmal_mire-self-titled-thumb.jpg
+title: Chasmal Mire - Self-Titled
 ---
 
 ## Tape

@@ -1,17 +1,17 @@
 ---
-title: "Grift - Budet"
-date: 2021-06-22T16:40:58
-draft: false
-artist: "Grift"
-album: "Budet"
-categories:
-    - Vinyl
-    - CD
-images:
-    - "/images/covers/grift-budet.jpg"
-thumbnailImage: "/images/covers/grift-budet-thumb.jpg"
 actualPrice: $12.00 - 22.00
+album: Budet
+artist: Grift
+categories:
+- Vinyl
+- CD
+date: '2021-06-26T15:23:08'
+draft: false
+images:
+- /images/covers/grift-budet.jpg
 inStock: true
+thumbnailImage: /images/covers/grift-budet-thumb.jpg
+title: Grift - Budet
 ---
 
 ## Vinyl

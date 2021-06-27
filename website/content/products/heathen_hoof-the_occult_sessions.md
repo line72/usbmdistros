@@ -1,16 +1,16 @@
 ---
-title: "Heathen Hoof - The Occult Sessions"
-date: 2021-06-22T16:40:38
-draft: false
-artist: "Heathen Hoof"
-album: "The Occult Sessions"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/heathen_hoof-the_occult_sessions.jpg"
-thumbnailImage: "/images/covers/heathen_hoof-the_occult_sessions-thumb.jpg"
 actualPrice: $27.00
+album: The Occult Sessions
+artist: Heathen Hoof
+categories:
+- Vinyl
+date: '2021-06-26T15:22:48'
+draft: false
+images:
+- /images/covers/heathen_hoof-the_occult_sessions.jpg
 inStock: true
+thumbnailImage: /images/covers/heathen_hoof-the_occult_sessions-thumb.jpg
+title: Heathen Hoof - The Occult Sessions
 ---
 
 ## Vinyl

@@ -1,16 +1,16 @@
 ---
-title: "A.M.S.G. ‎– Anti - Cosmic Tyranny"
-date: 2021-06-12T14:07:58
-draft: false
-artist: "A.M.S.G. ‎– Anti"
-album: "Cosmic Tyranny"
-categories:
-    - CD
-images:
-    - "/images/covers/a.m.s.g._‎–_anti-cosmic_tyranny.jpg"
-thumbnailImage: "/images/covers/a.m.s.g._‎–_anti-cosmic_tyranny-thumb.jpg"
 actualPrice: $15.00
+album: Cosmic Tyranny
+artist: "A.M.S.G. \u200E\u2013 Anti"
+categories:
+- CD
+date: '2021-06-26T15:03:07'
+draft: false
+images:
+- "/images/covers/a.m.s.g._\u200E\u2013_anti-cosmic_tyranny.jpg"
 inStock: true
+thumbnailImage: "/images/covers/a.m.s.g._\u200E\u2013_anti-cosmic_tyranny-thumb.jpg"
+title: "A.M.S.G. \u200E\u2013 Anti - Cosmic Tyranny"
 ---
 
 ## CD

@@ -1,16 +1,16 @@
 ---
-title: "Disembowel - Plagues and Ancient Rites"
-date: 2021-06-22T16:40:36
-draft: false
-artist: "Disembowel"
-album: "Plagues and Ancient Rites"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/disembowel-plagues_and_ancient_rites.jpg"
-thumbnailImage: "/images/covers/disembowel-plagues_and_ancient_rites-thumb.jpg"
 actualPrice: $20.00
+album: Plagues and Ancient Rites
+artist: Disembowel
+categories:
+- Vinyl
+date: '2021-06-26T15:22:45'
+draft: false
+images:
+- /images/covers/disembowel-plagues_and_ancient_rites.jpg
 inStock: true
+thumbnailImage: /images/covers/disembowel-plagues_and_ancient_rites-thumb.jpg
+title: Disembowel - Plagues and Ancient Rites
 ---
 
 ## Vinyl

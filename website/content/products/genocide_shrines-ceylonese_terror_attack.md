@@ -1,16 +1,16 @@
 ---
-title: "Genocide Shrines - Ceylonese Terror Attack"
-date: 2021-06-22T16:40:38
-draft: false
-artist: "Genocide Shrines"
-album: "Ceylonese Terror Attack"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/genocide_shrines-ceylonese_terror_attack.jpg"
-thumbnailImage: "/images/covers/genocide_shrines-ceylonese_terror_attack-thumb.jpg"
 actualPrice: $17.00
+album: Ceylonese Terror Attack
+artist: Genocide Shrines
+categories:
+- Vinyl
+date: '2021-06-26T15:22:47'
+draft: false
+images:
+- /images/covers/genocide_shrines-ceylonese_terror_attack.jpg
 inStock: true
+thumbnailImage: /images/covers/genocide_shrines-ceylonese_terror_attack-thumb.jpg
+title: Genocide Shrines - Ceylonese Terror Attack
 ---
 
 ## Vinyl

@@ -1,16 +1,16 @@
 ---
-title: "Heinous - Gospels of Infinity"
-date: 2021-06-12T14:07:58
-draft: false
-artist: "Heinous"
-album: "Gospels of Infinity"
-categories:
-    - CD
-images:
-    - "/images/covers/heinous-gospels_of_infinity.jpg"
-thumbnailImage: "/images/covers/heinous-gospels_of_infinity-thumb.jpg"
 actualPrice: $13.00
+album: Gospels of Infinity
+artist: Heinous
+categories:
+- CD
+date: '2021-06-26T15:03:08'
+draft: false
+images:
+- /images/covers/heinous-gospels_of_infinity.jpg
 inStock: true
+thumbnailImage: /images/covers/heinous-gospels_of_infinity-thumb.jpg
+title: Heinous - Gospels of Infinity
 ---
 
 ## CD

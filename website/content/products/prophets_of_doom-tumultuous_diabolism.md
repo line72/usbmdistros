@@ -1,16 +1,16 @@
 ---
-title: "Prophets Of Doom - Tumultuous Diabolism"
-date: 2021-06-22T16:40:43
-draft: false
-artist: "Prophets Of Doom"
-album: "Tumultuous Diabolism"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/prophets_of_doom-tumultuous_diabolism.jpg"
-thumbnailImage: "/images/covers/prophets_of_doom-tumultuous_diabolism-thumb.jpg"
 actualPrice: $17.00
+album: Tumultuous Diabolism
+artist: Prophets Of Doom
+categories:
+- Vinyl
+date: '2021-06-26T15:22:53'
+draft: false
+images:
+- /images/covers/prophets_of_doom-tumultuous_diabolism.jpg
 inStock: true
+thumbnailImage: /images/covers/prophets_of_doom-tumultuous_diabolism-thumb.jpg
+title: Prophets Of Doom - Tumultuous Diabolism
 ---
 
 ## Vinyl

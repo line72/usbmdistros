@@ -1,18 +1,18 @@
 ---
-title: "Goatpenis - Decapitation Philosophy"
-date: 2021-06-22T16:40:57
-draft: false
-artist: "Goatpenis"
-album: "Decapitation Philosophy"
-categories:
-    - Vinyl
-    - Tape
-    - CD
-images:
-    - "/images/covers/goatpenis-decapitation_philosophy.jpg"
-thumbnailImage: "/images/covers/goatpenis-decapitation_philosophy-thumb.jpg"
 actualPrice: $7.50 - 30.00
+album: Decapitation Philosophy
+artist: Goatpenis
+categories:
+- Vinyl
+- Tape
+- CD
+date: '2021-06-26T15:23:07'
+draft: false
+images:
+- /images/covers/goatpenis-decapitation_philosophy.jpg
 inStock: true
+thumbnailImage: /images/covers/goatpenis-decapitation_philosophy-thumb.jpg
+title: Goatpenis - Decapitation Philosophy
 ---
 
 ## Vinyl

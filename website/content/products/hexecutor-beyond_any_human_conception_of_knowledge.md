@@ -1,17 +1,17 @@
 ---
-title: "Hexecutor - Beyond Any Human Conception Of Knowledge"
-date: 2021-06-22T16:40:59
-draft: false
-artist: "Hexecutor"
-album: "Beyond Any Human Conception Of Knowledge"
-categories:
-    - Tape
-    - CD
-images:
-    - "/images/covers/hexecutor-beyond_any_human_conception_of_knowledge.jpg"
-thumbnailImage: "/images/covers/hexecutor-beyond_any_human_conception_of_knowledge-thumb.jpg"
 actualPrice: $8.50 - 10.00
+album: Beyond Any Human Conception Of Knowledge
+artist: Hexecutor
+categories:
+- Tape
+- CD
+date: '2021-06-26T15:23:09'
+draft: false
+images:
+- /images/covers/hexecutor-beyond_any_human_conception_of_knowledge.jpg
 inStock: true
+thumbnailImage: /images/covers/hexecutor-beyond_any_human_conception_of_knowledge-thumb.jpg
+title: Hexecutor - Beyond Any Human Conception Of Knowledge
 ---
 
 ## Tape

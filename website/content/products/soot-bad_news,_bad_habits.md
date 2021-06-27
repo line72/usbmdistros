@@ -1,16 +1,16 @@
 ---
-title: "Soot - Bad News, Bad Habits"
-date: 2021-06-13T12:22:18
-draft: false
-artist: "Soot"
-album: "Bad News, Bad Habits"
-categories:
-    - Tape
-images:
-    - "/images/covers/soot-bad_news,_bad_habits.jpg"
-thumbnailImage: "/images/covers/soot-bad_news,_bad_habits-thumb.jpg"
 actualPrice: $5.50
+album: Bad News, Bad Habits
+artist: Soot
+categories:
+- Tape
+date: '2021-06-26T15:16:21'
+draft: false
+images:
+- /images/covers/soot-bad_news,_bad_habits.jpg
 inStock: true
+thumbnailImage: /images/covers/soot-bad_news,_bad_habits-thumb.jpg
+title: Soot - Bad News, Bad Habits
 ---
 
 ## Tape

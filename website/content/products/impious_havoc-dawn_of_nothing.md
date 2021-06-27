@@ -1,16 +1,16 @@
 ---
-title: "Impious Havoc - Dawn of Nothing"
-date: 2021-06-22T16:40:39
-draft: false
-artist: "Impious Havoc"
-album: "Dawn of Nothing"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/impious_havoc-dawn_of_nothing.jpg"
-thumbnailImage: "/images/covers/impious_havoc-dawn_of_nothing-thumb.jpg"
 actualPrice: $17.00
+album: Dawn of Nothing
+artist: Impious Havoc
+categories:
+- Vinyl
+date: '2021-06-26T15:22:49'
+draft: false
+images:
+- /images/covers/impious_havoc-dawn_of_nothing.jpg
 inStock: true
+thumbnailImage: /images/covers/impious_havoc-dawn_of_nothing-thumb.jpg
+title: Impious Havoc - Dawn of Nothing
 ---
 
 ## Vinyl

@@ -1,16 +1,16 @@
 ---
-title: "Lugubrum - Plage Chômage"
-date: 2021-06-22T16:40:40
-draft: false
-artist: "Lugubrum"
-album: "Plage Chômage"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/lugubrum-plage_chômage.jpg"
-thumbnailImage: "/images/covers/lugubrum-plage_chômage-thumb.jpg"
 actualPrice: $17.00
+album: "Plage Ch\xF4mage"
+artist: Lugubrum
+categories:
+- Vinyl
+date: '2021-06-26T15:22:50'
+draft: false
+images:
+- "/images/covers/lugubrum-plage_ch\xF4mage.jpg"
 inStock: true
+thumbnailImage: "/images/covers/lugubrum-plage_ch\xF4mage-thumb.jpg"
+title: "Lugubrum - Plage Ch\xF4mage"
 ---
 
 ## Vinyl

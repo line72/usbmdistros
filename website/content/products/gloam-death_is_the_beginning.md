@@ -1,16 +1,16 @@
 ---
-title: "Gloam - Death Is The Beginning"
-date: 2021-06-22T16:40:38
-draft: false
-artist: "Gloam"
-album: "Death Is The Beginning"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/gloam-death_is_the_beginning.jpg"
-thumbnailImage: "/images/covers/gloam-death_is_the_beginning-thumb.jpg"
 actualPrice: $22.00
+album: Death Is The Beginning
+artist: Gloam
+categories:
+- Vinyl
+date: '2021-06-26T15:22:47'
+draft: false
+images:
+- /images/covers/gloam-death_is_the_beginning.jpg
 inStock: true
+thumbnailImage: /images/covers/gloam-death_is_the_beginning-thumb.jpg
+title: Gloam - Death Is The Beginning
 ---
 
 ## Vinyl

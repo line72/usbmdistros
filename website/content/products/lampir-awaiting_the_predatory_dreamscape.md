@@ -1,17 +1,17 @@
 ---
-title: "Lampir - Awaiting the Predatory Dreamscape"
-date: 2021-06-22T16:41:00
-draft: false
-artist: "Lampir"
-album: "Awaiting the Predatory Dreamscape"
-categories:
-    - Vinyl
-    - CD
-images:
-    - "/images/covers/lampir-awaiting_the_predatory_dreamscape.jpg"
-thumbnailImage: "/images/covers/lampir-awaiting_the_predatory_dreamscape-thumb.jpg"
 actualPrice: $15.00 - 25.00
+album: Awaiting the Predatory Dreamscape
+artist: Lampir
+categories:
+- Vinyl
+- CD
+date: '2021-06-26T15:23:10'
+draft: false
+images:
+- /images/covers/lampir-awaiting_the_predatory_dreamscape.jpg
 inStock: true
+thumbnailImage: /images/covers/lampir-awaiting_the_predatory_dreamscape-thumb.jpg
+title: Lampir - Awaiting the Predatory Dreamscape
 ---
 
 ## Vinyl

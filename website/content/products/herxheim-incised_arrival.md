@@ -1,17 +1,17 @@
 ---
-title: "Herxheim - Incised Arrival"
-date: 2021-06-22T16:40:59
-draft: false
-artist: "Herxheim"
-album: "Incised Arrival"
-categories:
-    - Vinyl
-    - CD
-images:
-    - "/images/covers/herxheim-incised_arrival.jpg"
-thumbnailImage: "/images/covers/herxheim-incised_arrival-thumb.jpg"
 actualPrice: $10.00 - 20.00
+album: Incised Arrival
+artist: Herxheim
+categories:
+- Vinyl
+- CD
+date: '2021-06-26T15:23:09'
+draft: false
+images:
+- /images/covers/herxheim-incised_arrival.jpg
 inStock: true
+thumbnailImage: /images/covers/herxheim-incised_arrival-thumb.jpg
+title: Herxheim - Incised Arrival
 ---
 
 ## Vinyl

@@ -1,16 +1,16 @@
 ---
-title: "Decrepitaph - Profane Doctrines Unburied"
-date: 2021-06-13T12:22:19
-draft: false
-artist: "Decrepitaph"
-album: "Profane Doctrines Unburied"
-categories:
-    - Tape
-images:
-    - "/images/covers/decrepitaph-profane_doctrines_unburied.jpg"
-thumbnailImage: "/images/covers/decrepitaph-profane_doctrines_unburied-thumb.jpg"
 actualPrice: $7.00
+album: Profane Doctrines Unburied
+artist: Decrepitaph
+categories:
+- Tape
+date: '2021-06-26T15:16:22'
+draft: false
+images:
+- /images/covers/decrepitaph-profane_doctrines_unburied.jpg
 inStock: true
+thumbnailImage: /images/covers/decrepitaph-profane_doctrines_unburied-thumb.jpg
+title: Decrepitaph - Profane Doctrines Unburied
 ---
 
 ## Tape

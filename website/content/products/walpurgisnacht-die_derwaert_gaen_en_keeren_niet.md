@@ -1,16 +1,16 @@
 ---
-title: "Walpurgisnacht - Die Derwaert Gaen en Keeren Niet"
-date: 2021-06-12T14:07:51
-draft: false
-artist: "Walpurgisnacht"
-album: "Die Derwaert Gaen en Keeren Niet"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/walpurgisnacht-die_derwaert_gaen_en_keeren_niet.jpg"
-thumbnailImage: "/images/covers/walpurgisnacht-die_derwaert_gaen_en_keeren_niet-thumb.jpg"
 actualPrice: $27.00
+album: Die Derwaert Gaen en Keeren Niet
+artist: Walpurgisnacht
+categories:
+- Vinyl
+date: '2021-06-26T15:02:54'
+draft: false
+images:
+- /images/covers/walpurgisnacht-die_derwaert_gaen_en_keeren_niet.jpg
 inStock: true
+thumbnailImage: /images/covers/walpurgisnacht-die_derwaert_gaen_en_keeren_niet-thumb.jpg
+title: Walpurgisnacht - Die Derwaert Gaen en Keeren Niet
 ---
 
 ## Vinyl

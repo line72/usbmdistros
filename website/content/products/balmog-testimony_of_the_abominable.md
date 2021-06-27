@@ -1,16 +1,16 @@
 ---
-title: "Balmog - Testimony of the Abominable"
-date: 2021-06-22T16:40:33
-draft: false
-artist: "Balmog"
-album: "Testimony of the Abominable"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/balmog-testimony_of_the_abominable.jpg"
-thumbnailImage: "/images/covers/balmog-testimony_of_the_abominable-thumb.jpg"
 actualPrice: $17.00
+album: Testimony of the Abominable
+artist: Balmog
+categories:
+- Vinyl
+date: '2021-06-26T15:22:42'
+draft: false
+images:
+- /images/covers/balmog-testimony_of_the_abominable.jpg
 inStock: true
+thumbnailImage: /images/covers/balmog-testimony_of_the_abominable-thumb.jpg
+title: Balmog - Testimony of the Abominable
 ---
 
 ## Vinyl

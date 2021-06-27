@@ -1,16 +1,16 @@
 ---
-title: "Fyrnask - Forn"
-date: 2021-06-22T16:40:38
-draft: false
-artist: "Fyrnask"
-album: "Forn"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/fyrnask-forn.jpg"
-thumbnailImage: "/images/covers/fyrnask-forn-thumb.jpg"
 actualPrice: $30.00
+album: Forn
+artist: Fyrnask
+categories:
+- Vinyl
+date: '2021-06-26T15:22:47'
+draft: false
+images:
+- /images/covers/fyrnask-forn.jpg
 inStock: true
+thumbnailImage: /images/covers/fyrnask-forn-thumb.jpg
+title: Fyrnask - Forn
 ---
 
 ## Vinyl

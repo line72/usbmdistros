@@ -1,17 +1,17 @@
 ---
-title: "Moss upon the Skull - The Scourge of Ages"
-date: 2021-06-22T16:41:01
-draft: false
-artist: "Moss upon the Skull"
-album: "The Scourge of Ages"
-categories:
-    - Vinyl
-    - CD
-images:
-    - "/images/covers/moss_upon_the_skull-the_scourge_of_ages.jpg"
-thumbnailImage: "/images/covers/moss_upon_the_skull-the_scourge_of_ages-thumb.jpg"
 actualPrice: $8.00 - 17.00
+album: The Scourge of Ages
+artist: Moss upon the Skull
+categories:
+- Vinyl
+- CD
+date: '2021-06-26T15:23:11'
+draft: false
+images:
+- /images/covers/moss_upon_the_skull-the_scourge_of_ages.jpg
 inStock: true
+thumbnailImage: /images/covers/moss_upon_the_skull-the_scourge_of_ages-thumb.jpg
+title: Moss upon the Skull - The Scourge of Ages
 ---
 
 ## Vinyl

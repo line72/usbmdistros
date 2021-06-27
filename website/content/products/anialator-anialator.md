@@ -1,16 +1,16 @@
 ---
-title: "Anialator - Anialator"
-date: 2021-06-22T16:40:32
-draft: false
-artist: "Anialator"
-album: "Anialator"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/anialator-anialator.jpg"
-thumbnailImage: "/images/covers/anialator-anialator-thumb.jpg"
 actualPrice: $20.00
+album: Anialator
+artist: Anialator
+categories:
+- Vinyl
+date: '2021-06-26T15:22:42'
+draft: false
+images:
+- /images/covers/anialator-anialator.jpg
 inStock: true
+thumbnailImage: /images/covers/anialator-anialator-thumb.jpg
+title: Anialator - Anialator
 ---
 
 ## Vinyl

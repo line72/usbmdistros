@@ -1,17 +1,17 @@
 ---
-title: "Maniac Butcher - Černá Krev"
-date: 2021-06-22T16:41:01
-draft: false
-artist: "Maniac Butcher"
-album: "Černá Krev"
-categories:
-    - Vinyl
-    - CD
-images:
-    - "/images/covers/maniac_butcher-černá_krev.jpg"
-thumbnailImage: "/images/covers/maniac_butcher-černá_krev-thumb.jpg"
 actualPrice: $10.00 - 20.00
+album: "\u010Cern\xE1 Krev"
+artist: Maniac Butcher
+categories:
+- Vinyl
+- CD
+date: '2021-06-26T15:23:11'
+draft: false
+images:
+- "/images/covers/maniac_butcher-\u010Dern\xE1_krev.jpg"
 inStock: true
+thumbnailImage: "/images/covers/maniac_butcher-\u010Dern\xE1_krev-thumb.jpg"
+title: "Maniac Butcher - \u010Cern\xE1 Krev"
 ---
 
 ## Vinyl

@@ -1,16 +1,16 @@
 ---
-title: "Aenaon / Virus of Koch - Ultima Momentum/ Voro:Forma Mentis"
-date: 2021-06-22T16:40:49
-draft: false
-artist: "Aenaon / Virus of Koch"
-album: "Ultima Momentum/ Voro:Forma Mentis"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/aenaon_-_virus_of_koch-ultima_momentum-_voro:forma_mentis.jpg"
-thumbnailImage: "/images/covers/aenaon_-_virus_of_koch-ultima_momentum-_voro:forma_mentis-thumb.jpg"
 actualPrice: $7.00
+album: Ultima Momentum/ Voro:Forma Mentis
+artist: Aenaon / Virus of Koch
+categories:
+- Vinyl
+date: '2021-06-26T15:22:59'
+draft: false
+images:
+- /images/covers/aenaon_-_virus_of_koch-ultima_momentum-_voro:forma_mentis.jpg
 inStock: true
+thumbnailImage: /images/covers/aenaon_-_virus_of_koch-ultima_momentum-_voro:forma_mentis-thumb.jpg
+title: Aenaon / Virus of Koch - Ultima Momentum/ Voro:Forma Mentis
 ---
 
 ## Vinyl

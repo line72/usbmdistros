@@ -1,16 +1,16 @@
 ---
-title: "Nocternity - Crucify Him"
-date: 2021-06-22T16:40:42
-draft: false
-artist: "Nocternity"
-album: "Crucify Him"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/nocternity-crucify_him.jpg"
-thumbnailImage: "/images/covers/nocternity-crucify_him-thumb.jpg"
 actualPrice: $25.00
+album: Crucify Him
+artist: Nocternity
+categories:
+- Vinyl
+date: '2021-06-26T15:22:52'
+draft: false
+images:
+- /images/covers/nocternity-crucify_him.jpg
 inStock: true
+thumbnailImage: /images/covers/nocternity-crucify_him-thumb.jpg
+title: Nocternity - Crucify Him
 ---
 
 ## Vinyl

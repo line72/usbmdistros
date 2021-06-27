@@ -1,16 +1,16 @@
 ---
-title: "Lost Life - The Curse Of Karma"
-date: 2021-06-22T16:40:40
-draft: false
-artist: "Lost Life"
-album: "The Curse Of Karma"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/lost_life-the_curse_of_karma.jpg"
-thumbnailImage: "/images/covers/lost_life-the_curse_of_karma-thumb.jpg"
 actualPrice: $17.00
+album: The Curse Of Karma
+artist: Lost Life
+categories:
+- Vinyl
+date: '2021-06-26T15:22:50'
+draft: false
+images:
+- /images/covers/lost_life-the_curse_of_karma.jpg
 inStock: true
+thumbnailImage: /images/covers/lost_life-the_curse_of_karma-thumb.jpg
+title: Lost Life - The Curse Of Karma
 ---
 
 ## Vinyl

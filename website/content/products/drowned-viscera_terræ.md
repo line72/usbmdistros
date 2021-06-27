@@ -1,16 +1,16 @@
 ---
-title: "Drowned - Viscera Terræ"
-date: 2021-06-22T16:40:36
-draft: false
-artist: "Drowned"
-album: "Viscera Terræ"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/drowned-viscera_terræ.jpg"
-thumbnailImage: "/images/covers/drowned-viscera_terræ-thumb.jpg"
 actualPrice: $40.00
+album: "Viscera Terr\xE6"
+artist: drowned
+categories:
+- Vinyl
+date: '2021-06-26T15:22:46'
+draft: false
+images:
+- "/images/covers/drowned-viscera_terr\xE6.jpg"
 inStock: true
+thumbnailImage: "/images/covers/drowned-viscera_terr\xE6-thumb.jpg"
+title: "drowned - Viscera Terr\xE6"
 ---
 
 ## Vinyl

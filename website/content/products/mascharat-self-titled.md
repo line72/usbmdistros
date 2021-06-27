@@ -1,16 +1,16 @@
 ---
-title: "Mascharat - Self-Titled"
-date: 2021-06-13T12:22:24
-draft: false
-artist: "Mascharat"
-album: "Self-Titled"
-categories:
-    - Tape
-images:
-    - "/images/covers/mascharat-self-titled.jpg"
-thumbnailImage: "/images/covers/mascharat-self-titled-thumb.jpg"
 actualPrice: $5.50
+album: Self-Titled
+artist: Mascharat
+categories:
+- Tape
+date: '2021-06-26T15:16:26'
+draft: false
+images:
+- /images/covers/mascharat-self-titled.jpg
 inStock: true
+thumbnailImage: /images/covers/mascharat-self-titled-thumb.jpg
+title: Mascharat - Self-Titled
 ---
 
 ## Tape

@@ -1,16 +1,16 @@
 ---
-title: "Thaumiel - Inward"
-date: 2021-06-13T12:22:23
-draft: false
-artist: "Thaumiel"
-album: "Inward"
-categories:
-    - Tape
-images:
-    - "/images/covers/thaumiel-inward.jpg"
-thumbnailImage: "/images/covers/thaumiel-inward-thumb.jpg"
 actualPrice: $4.00
+album: Inward
+artist: Thaumiel
+categories:
+- Tape
+date: '2021-06-26T15:16:26'
+draft: false
+images:
+- /images/covers/thaumiel-inward.jpg
 inStock: true
+thumbnailImage: /images/covers/thaumiel-inward-thumb.jpg
+title: Thaumiel - Inward
 ---
 
 ## Tape

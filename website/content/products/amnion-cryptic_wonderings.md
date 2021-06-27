@@ -1,16 +1,16 @@
 ---
-title: "Amnion - Cryptic Wonderings"
-date: 2021-06-22T16:40:32
-draft: false
-artist: "Amnion"
-album: "Cryptic Wonderings"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/amnion-cryptic_wonderings.jpg"
-thumbnailImage: "/images/covers/amnion-cryptic_wonderings-thumb.jpg"
 actualPrice: $17.00
+album: Cryptic Wonderings
+artist: Amnion
+categories:
+- Vinyl
+date: '2021-06-26T15:22:41'
+draft: false
+images:
+- /images/covers/amnion-cryptic_wonderings.jpg
 inStock: true
+thumbnailImage: /images/covers/amnion-cryptic_wonderings-thumb.jpg
+title: Amnion - Cryptic Wonderings
 ---
 
 ## Vinyl

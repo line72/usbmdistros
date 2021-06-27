@@ -1,16 +1,16 @@
 ---
-title: "Escarnium - Excruciating Existence"
-date: 2021-06-22T16:40:37
-draft: false
-artist: "Escarnium"
-album: "Excruciating Existence"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/escarnium-excruciating_existence.jpg"
-thumbnailImage: "/images/covers/escarnium-excruciating_existence-thumb.jpg"
 actualPrice: $17.00
+album: Excruciating Existence
+artist: Escarnium
+categories:
+- Vinyl
+date: '2021-06-26T15:22:46'
+draft: false
+images:
+- /images/covers/escarnium-excruciating_existence.jpg
 inStock: true
+thumbnailImage: /images/covers/escarnium-excruciating_existence-thumb.jpg
+title: Escarnium - Excruciating Existence
 ---
 
 ## Vinyl

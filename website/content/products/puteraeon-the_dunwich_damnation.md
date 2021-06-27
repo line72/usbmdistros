@@ -1,16 +1,16 @@
 ---
-title: "Puteraeon - The Dunwich damnation"
-date: 2021-06-22T16:40:44
-draft: false
-artist: "Puteraeon"
-album: "The Dunwich damnation"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/puteraeon-the_dunwich_damnation.jpg"
-thumbnailImage: "/images/covers/puteraeon-the_dunwich_damnation-thumb.jpg"
 actualPrice: $17.00
+album: The Dunwich damnation
+artist: Puteraeon
+categories:
+- Vinyl
+date: '2021-06-26T15:22:53'
+draft: false
+images:
+- /images/covers/puteraeon-the_dunwich_damnation.jpg
 inStock: true
+thumbnailImage: /images/covers/puteraeon-the_dunwich_damnation-thumb.jpg
+title: Puteraeon - The Dunwich damnation
 ---
 
 ## Vinyl

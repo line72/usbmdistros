@@ -1,16 +1,16 @@
 ---
-title: "Brocas Helm - Demonstration of Might"
-date: 2021-06-22T16:40:34
-draft: false
-artist: "Brocas Helm"
-album: "Demonstration of Might"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/brocas_helm-demonstration_of_might.jpg"
-thumbnailImage: "/images/covers/brocas_helm-demonstration_of_might-thumb.jpg"
 actualPrice: $28.00
+album: Demonstration of Might
+artist: Brocas Helm
+categories:
+- Vinyl
+date: '2021-06-26T15:22:43'
+draft: false
+images:
+- /images/covers/brocas_helm-demonstration_of_might.jpg
 inStock: true
+thumbnailImage: /images/covers/brocas_helm-demonstration_of_might-thumb.jpg
+title: Brocas Helm - Demonstration of Might
 ---
 
 ## Vinyl

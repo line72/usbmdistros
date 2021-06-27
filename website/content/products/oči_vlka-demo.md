@@ -1,16 +1,16 @@
 ---
-title: "Oči Vlka - Demo"
-date: 2021-06-13T12:22:19
-draft: false
-artist: "Oči Vlka"
-album: "Demo"
-categories:
-    - Tape
-images:
-    - "/images/covers/oči_vlka-demo.jpg"
-thumbnailImage: "/images/covers/oči_vlka-demo-thumb.jpg"
 actualPrice: $5.00
+album: Demo
+artist: "O\u010Di Vlka"
+categories:
+- Tape
+date: '2021-06-26T15:16:21'
+draft: false
+images:
+- "/images/covers/o\u010Di_vlka-demo.jpg"
 inStock: true
+thumbnailImage: "/images/covers/o\u010Di_vlka-demo-thumb.jpg"
+title: "O\u010Di Vlka - Demo"
 ---
 
 ## Tape

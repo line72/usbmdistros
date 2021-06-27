@@ -1,17 +1,17 @@
 ---
-title: "Scourge Lair - One Hundred Eyes One Hundred Arms"
-date: 2021-06-22T16:41:13
-draft: false
-artist: "Scourge Lair"
-album: "One Hundred Eyes One Hundred Arms"
-categories:
-    - Tape
-    - Cassette
-images:
-    - "/images/covers/scourge_lair-one_hundred_eyes_one_hundred_arms.jpg"
-thumbnailImage: "/images/covers/scourge_lair-one_hundred_eyes_one_hundred_arms-thumb.jpg"
 actualPrice: $5.00 - 8.00
+album: One Hundred Eyes One Hundred Arms
+artist: Scourge Lair
+categories:
+- Tape
+- Cassette
+date: '2021-06-26T15:23:23'
+draft: false
+images:
+- /images/covers/scourge_lair-one_hundred_eyes_one_hundred_arms.jpg
 inStock: true
+thumbnailImage: /images/covers/scourge_lair-one_hundred_eyes_one_hundred_arms-thumb.jpg
+title: Scourge Lair - One Hundred Eyes One Hundred Arms
 ---
 
 ## Tape

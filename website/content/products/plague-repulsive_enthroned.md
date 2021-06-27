@@ -1,16 +1,16 @@
 ---
-title: "Plague - Repulsive Enthroned"
-date: 2021-06-13T12:22:21
-draft: false
-artist: "Plague"
-album: "Repulsive Enthroned"
-categories:
-    - Tape
-images:
-    - "/images/covers/plague-repulsive_enthroned.jpg"
-thumbnailImage: "/images/covers/plague-repulsive_enthroned-thumb.jpg"
 actualPrice: $7.00
+album: Repulsive Enthroned
+artist: Plague
+categories:
+- Tape
+date: '2021-06-26T15:16:24'
+draft: false
+images:
+- /images/covers/plague-repulsive_enthroned.jpg
 inStock: true
+thumbnailImage: /images/covers/plague-repulsive_enthroned-thumb.jpg
+title: Plague - Repulsive Enthroned
 ---
 
 ## Tape

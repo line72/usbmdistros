@@ -1,16 +1,16 @@
 ---
-title: "The Gnosis - Demo I"
-date: 2021-06-13T12:22:19
-draft: false
-artist: "The Gnosis"
-album: "Demo I"
-categories:
-    - Tape
-images:
-    - "/images/covers/the_gnosis-demo_i.jpg"
-thumbnailImage: "/images/covers/the_gnosis-demo_i-thumb.jpg"
 actualPrice: $6.50
+album: Demo I
+artist: The Gnosis
+categories:
+- Tape
+date: '2021-06-26T15:16:22'
+draft: false
+images:
+- /images/covers/the_gnosis-demo_i.jpg
 inStock: true
+thumbnailImage: /images/covers/the_gnosis-demo_i-thumb.jpg
+title: The Gnosis - Demo I
 ---
 
 ## Tape

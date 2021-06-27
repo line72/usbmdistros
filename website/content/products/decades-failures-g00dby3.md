@@ -1,16 +1,16 @@
 ---
-title: "Decades/Failures - G00DBY3"
-date: 2021-06-22T16:40:36
-draft: false
-artist: "Decades/Failures"
-album: "G00DBY3"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/decades-failures-g00dby3.jpg"
-thumbnailImage: "/images/covers/decades-failures-g00dby3-thumb.jpg"
 actualPrice: $15.00
+album: G00DBY3
+artist: Decades/Failures
+categories:
+- Vinyl
+date: '2021-06-26T15:22:45'
+draft: false
+images:
+- /images/covers/decades-failures-g00dby3.jpg
 inStock: true
+thumbnailImage: /images/covers/decades-failures-g00dby3-thumb.jpg
+title: Decades/Failures - G00DBY3
 ---
 
 ## Vinyl

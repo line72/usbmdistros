@@ -1,17 +1,17 @@
 ---
-title: "Light of the Morningstar - Cemetery Glow"
-date: 2021-06-22T16:41:00
-draft: false
-artist: "Light of the Morningstar"
-album: "Cemetery Glow"
-categories:
-    - Vinyl
-    - CD
-images:
-    - "/images/covers/light_of_the_morningstar-cemetery_glow.jpg"
-thumbnailImage: "/images/covers/light_of_the_morningstar-cemetery_glow-thumb.jpg"
 actualPrice: $8.00 - 17.00
+album: Cemetery Glow
+artist: Light of the Morningstar
+categories:
+- Vinyl
+- CD
+date: '2021-06-26T15:23:10'
+draft: false
+images:
+- /images/covers/light_of_the_morningstar-cemetery_glow.jpg
 inStock: true
+thumbnailImage: /images/covers/light_of_the_morningstar-cemetery_glow-thumb.jpg
+title: Light of the Morningstar - Cemetery Glow
 ---
 
 ## Vinyl

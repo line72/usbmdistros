@@ -1,17 +1,17 @@
 ---
-title: "Auroch - From Forgotten Worlds"
-date: 2021-06-22T16:40:53
-draft: false
-artist: "Auroch"
-album: "From Forgotten Worlds"
-categories:
-    - Vinyl
-    - CD
-images:
-    - "/images/covers/auroch-from_forgotten_worlds.jpg"
-thumbnailImage: "/images/covers/auroch-from_forgotten_worlds-thumb.jpg"
 actualPrice: $7.00 - 17.00
+album: From Forgotten Worlds
+artist: Auroch
+categories:
+- Vinyl
+- CD
+date: '2021-06-26T15:23:03'
+draft: false
+images:
+- /images/covers/auroch-from_forgotten_worlds.jpg
 inStock: true
+thumbnailImage: /images/covers/auroch-from_forgotten_worlds-thumb.jpg
+title: Auroch - From Forgotten Worlds
 ---
 
 ## Vinyl

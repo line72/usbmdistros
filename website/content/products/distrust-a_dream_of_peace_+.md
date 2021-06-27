@@ -1,16 +1,16 @@
 ---
-title: "Distrust - A dream of peace +"
-date: 2021-06-22T16:40:36
-draft: false
-artist: "Distrust"
-album: "A dream of peace +"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/distrust-a_dream_of_peace_+.jpg"
-thumbnailImage: "/images/covers/distrust-a_dream_of_peace_+-thumb.jpg"
 actualPrice: $25.00
+album: A dream of peace +
+artist: Distrust
+categories:
+- Vinyl
+date: '2021-06-26T15:22:45'
+draft: false
+images:
+- /images/covers/distrust-a_dream_of_peace_+.jpg
 inStock: true
+thumbnailImage: /images/covers/distrust-a_dream_of_peace_+-thumb.jpg
+title: Distrust - A dream of peace +
 ---
 
 ## Vinyl

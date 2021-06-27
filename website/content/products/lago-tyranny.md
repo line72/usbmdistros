@@ -1,16 +1,16 @@
 ---
-title: "Lago - Tyranny"
-date: 2021-06-22T16:40:40
-draft: false
-artist: "Lago"
-album: "Tyranny"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/lago-tyranny.jpg"
-thumbnailImage: "/images/covers/lago-tyranny-thumb.jpg"
 actualPrice: $17.00
+album: Tyranny
+artist: Lago
+categories:
+- Vinyl
+date: '2021-06-26T15:22:50'
+draft: false
+images:
+- /images/covers/lago-tyranny.jpg
 inStock: true
+thumbnailImage: /images/covers/lago-tyranny-thumb.jpg
+title: Lago - Tyranny
 ---
 
 ## Vinyl

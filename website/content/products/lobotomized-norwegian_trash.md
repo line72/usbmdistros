@@ -1,16 +1,16 @@
 ---
-title: "Lobotomized - Norwegian Trash"
-date: 2021-06-22T16:40:40
-draft: false
-artist: "Lobotomized"
-album: "Norwegian Trash"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/lobotomized-norwegian_trash.jpg"
-thumbnailImage: "/images/covers/lobotomized-norwegian_trash-thumb.jpg"
 actualPrice: $17.00
+album: Norwegian Trash
+artist: Lobotomized
+categories:
+- Vinyl
+date: '2021-06-26T15:22:50'
+draft: false
+images:
+- /images/covers/lobotomized-norwegian_trash.jpg
 inStock: true
+thumbnailImage: /images/covers/lobotomized-norwegian_trash-thumb.jpg
+title: Lobotomized - Norwegian Trash
 ---
 
 ## Vinyl

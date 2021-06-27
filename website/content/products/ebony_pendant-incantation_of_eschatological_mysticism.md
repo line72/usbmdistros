@@ -1,16 +1,16 @@
 ---
-title: "Ebony Pendant - Incantation of Eschatological Mysticism"
-date: 2021-06-12T14:07:58
-draft: false
-artist: "Ebony Pendant"
-album: "Incantation of Eschatological Mysticism"
-categories:
-    - CD
-images:
-    - "/images/covers/ebony_pendant-incantation_of_eschatological_mysticism.jpg"
-thumbnailImage: "/images/covers/ebony_pendant-incantation_of_eschatological_mysticism-thumb.jpg"
 actualPrice: $13.00
+album: Incantation of Eschatological Mysticism
+artist: Ebony Pendant
+categories:
+- CD
+date: '2021-06-26T15:03:08'
+draft: false
+images:
+- /images/covers/ebony_pendant-incantation_of_eschatological_mysticism.jpg
 inStock: true
+thumbnailImage: /images/covers/ebony_pendant-incantation_of_eschatological_mysticism-thumb.jpg
+title: Ebony Pendant - Incantation of Eschatological Mysticism
 ---
 
 ## CD

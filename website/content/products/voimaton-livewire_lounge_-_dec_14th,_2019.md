@@ -1,16 +1,16 @@
 ---
-title: "Voimaton - Livewire Lounge - Dec 14Th, 2019"
-date: 2021-06-13T12:22:18
-draft: false
-artist: "Voimaton"
-album: "Livewire Lounge - Dec 14Th, 2019"
-categories:
-    - Tape
-images:
-    - "/images/covers/voimaton-livewire_lounge_-_dec_14th,_2019.jpg"
-thumbnailImage: "/images/covers/voimaton-livewire_lounge_-_dec_14th,_2019-thumb.jpg"
 actualPrice: $8.00
+album: Livewire Lounge - Dec 14Th, 2019
+artist: Voimaton
+categories:
+- Tape
+date: '2021-06-26T15:16:21'
+draft: false
+images:
+- /images/covers/voimaton-livewire_lounge_-_dec_14th,_2019.jpg
 inStock: true
+thumbnailImage: /images/covers/voimaton-livewire_lounge_-_dec_14th,_2019-thumb.jpg
+title: Voimaton - Livewire Lounge - Dec 14Th, 2019
 ---
 
 ## Tape

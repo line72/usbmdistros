@@ -1,18 +1,18 @@
 ---
-title: "Intellect Devourer - Demons Of The Skull"
-date: 2021-06-22T16:41:11
-draft: false
-artist: "Intellect Devourer"
-album: "Demons Of The Skull"
-categories:
-    - Vinyl
-    - Tape
-    - Cassette
-images:
-    - "/images/covers/intellect_devourer-demons_of_the_skull.jpg"
-thumbnailImage: "/images/covers/intellect_devourer-demons_of_the_skull-thumb.jpg"
 actualPrice: $6.50 - 20.00
+album: Demons Of The Skull
+artist: Intellect Devourer
+categories:
+- Vinyl
+- Tape
+- Cassette
+date: '2021-06-26T15:23:21'
+draft: false
+images:
+- /images/covers/intellect_devourer-demons_of_the_skull.jpg
 inStock: true
+thumbnailImage: /images/covers/intellect_devourer-demons_of_the_skull-thumb.jpg
+title: Intellect Devourer - Demons Of The Skull
 ---
 
 ## Vinyl

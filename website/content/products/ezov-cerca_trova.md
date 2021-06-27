@@ -1,16 +1,16 @@
 ---
-title: "Ezov - Cerca Trova"
-date: 2021-06-13T12:22:23
-draft: false
-artist: "Ezov"
-album: "Cerca Trova"
-categories:
-    - Tape
-images:
-    - "/images/covers/ezov-cerca_trova.jpg"
-thumbnailImage: "/images/covers/ezov-cerca_trova-thumb.jpg"
 actualPrice: $6.00
+album: Cerca Trova
+artist: Ezov
+categories:
+- Tape
+date: '2021-06-26T15:16:26'
+draft: false
+images:
+- /images/covers/ezov-cerca_trova.jpg
 inStock: true
+thumbnailImage: /images/covers/ezov-cerca_trova-thumb.jpg
+title: Ezov - Cerca Trova
 ---
 
 ## Tape

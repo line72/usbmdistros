@@ -1,16 +1,16 @@
 ---
-title: "Death Vanish / Misanthropos - Split"
-date: 2021-06-13T12:22:24
-draft: false
-artist: "Death Vanish / Misanthropos"
-album: "Split"
-categories:
-    - Tape
-images:
-    - "/images/covers/death_vanish_-_misanthropos-split.jpg"
-thumbnailImage: "/images/covers/death_vanish_-_misanthropos-split-thumb.jpg"
 actualPrice: $5.00
+album: Split
+artist: Death Vanish / Misanthropos
+categories:
+- Tape
+date: '2021-06-26T15:16:27'
+draft: false
+images:
+- /images/covers/death_vanish_-_misanthropos-split.jpg
 inStock: true
+thumbnailImage: /images/covers/death_vanish_-_misanthropos-split-thumb.jpg
+title: Death Vanish / Misanthropos - Split
 ---
 
 ## Tape

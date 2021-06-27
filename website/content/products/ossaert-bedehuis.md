@@ -1,16 +1,16 @@
 ---
-title: "Ossaert - Bedehuis"
-date: 2021-06-12T14:07:58
-draft: false
-artist: "Ossaert"
-album: "Bedehuis"
-categories:
-    - CD
-images:
-    - "/images/covers/ossaert-bedehuis.jpg"
-thumbnailImage: "/images/covers/ossaert-bedehuis-thumb.jpg"
 actualPrice: $12.00
+album: Bedehuis
+artist: Ossaert
+categories:
+- CD
+date: '2021-06-26T15:03:08'
+draft: false
+images:
+- /images/covers/ossaert-bedehuis.jpg
 inStock: true
+thumbnailImage: /images/covers/ossaert-bedehuis-thumb.jpg
+title: Ossaert - Bedehuis
 ---
 
 ## CD

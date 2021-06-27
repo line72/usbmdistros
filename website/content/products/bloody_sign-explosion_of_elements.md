@@ -1,16 +1,16 @@
 ---
-title: "Bloody Sign - Explosion of Elements"
-date: 2021-06-22T16:40:34
-draft: false
-artist: "Bloody Sign"
-album: "Explosion of Elements"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/bloody_sign-explosion_of_elements.jpg"
-thumbnailImage: "/images/covers/bloody_sign-explosion_of_elements-thumb.jpg"
 actualPrice: $17.00
+album: Explosion of Elements
+artist: Bloody Sign
+categories:
+- Vinyl
+date: '2021-06-26T15:22:43'
+draft: false
+images:
+- /images/covers/bloody_sign-explosion_of_elements.jpg
 inStock: true
+thumbnailImage: /images/covers/bloody_sign-explosion_of_elements-thumb.jpg
+title: Bloody Sign - Explosion of Elements
 ---
 
 ## Vinyl

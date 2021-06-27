@@ -1,16 +1,16 @@
 ---
-title: "Wharflurch - Shitslime + Lurking Doom"
-date: 2021-06-13T12:22:18
-draft: false
-artist: "Wharflurch"
-album: "Shitslime + Lurking Doom"
-categories:
-    - Tape
-images:
-    - "/images/covers/wharflurch-shitslime_+_lurking_doom.jpg"
-thumbnailImage: "/images/covers/wharflurch-shitslime_+_lurking_doom-thumb.jpg"
 actualPrice: $9.00
+album: Shitslime + Lurking Doom
+artist: Wharflurch
+categories:
+- Tape
+date: '2021-06-26T15:16:21'
+draft: false
+images:
+- /images/covers/wharflurch-shitslime_+_lurking_doom.jpg
 inStock: true
+thumbnailImage: /images/covers/wharflurch-shitslime_+_lurking_doom-thumb.jpg
+title: Wharflurch - Shitslime + Lurking Doom
 ---
 
 ## Tape

@@ -1,16 +1,16 @@
 ---
-title: "Deceso Por Causa Desconocida - Confidencial+Demo"
-date: 2021-06-22T16:40:36
-draft: false
-artist: "Deceso Por Causa Desconocida"
-album: "Confidencial+Demo"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/deceso_por_causa_desconocida-confidencial+demo.jpg"
-thumbnailImage: "/images/covers/deceso_por_causa_desconocida-confidencial+demo-thumb.jpg"
 actualPrice: $20.00
+album: Confidencial+Demo
+artist: Deceso Por Causa Desconocida
+categories:
+- Vinyl
+date: '2021-06-26T15:22:45'
+draft: false
+images:
+- /images/covers/deceso_por_causa_desconocida-confidencial+demo.jpg
 inStock: true
+thumbnailImage: /images/covers/deceso_por_causa_desconocida-confidencial+demo-thumb.jpg
+title: Deceso Por Causa Desconocida - Confidencial+Demo
 ---
 
 ## Vinyl

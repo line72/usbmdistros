@@ -1,16 +1,16 @@
 ---
-title: "Bone Sickness - Theater Of Morbidity Cassette / L T-Shirt Bundle"
-date: 2021-06-14T13:17:45
-draft: false
-artist: "Bone Sickness"
-album: "Theater Of Morbidity Cassette / L T-Shirt Bundle"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/bone_sickness-theater_of_morbidity_cassette_-_l_t-shirt_bundle.jpg"
-thumbnailImage: "/images/covers/bone_sickness-theater_of_morbidity_cassette_-_l_t-shirt_bundle-thumb.jpg"
 actualPrice: $16.00
+album: Theater Of Morbidity Cassette / L T-Shirt Bundle
+artist: Bone Sickness
+categories:
+- Vinyl
+date: '2021-06-26T15:16:20'
+draft: false
+images:
+- /images/covers/bone_sickness-theater_of_morbidity_cassette_-_l_t-shirt_bundle.jpg
 inStock: true
+thumbnailImage: /images/covers/bone_sickness-theater_of_morbidity_cassette_-_l_t-shirt_bundle-thumb.jpg
+title: Bone Sickness - Theater Of Morbidity Cassette / L T-Shirt Bundle
 ---
 
 ## Vinyl

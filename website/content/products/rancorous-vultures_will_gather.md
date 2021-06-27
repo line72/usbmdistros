@@ -1,16 +1,16 @@
 ---
-title: "Rancorous - Vultures Will Gather"
-date: 2021-06-13T12:22:20
-draft: false
-artist: "Rancorous"
-album: "Vultures Will Gather"
-categories:
-    - Tape
-images:
-    - "/images/covers/rancorous-vultures_will_gather.jpg"
-thumbnailImage: "/images/covers/rancorous-vultures_will_gather-thumb.jpg"
 actualPrice: $5.00
+album: Vultures Will Gather
+artist: Rancorous
+categories:
+- Tape
+date: '2021-06-26T15:16:23'
+draft: false
+images:
+- /images/covers/rancorous-vultures_will_gather.jpg
 inStock: true
+thumbnailImage: /images/covers/rancorous-vultures_will_gather-thumb.jpg
+title: Rancorous - Vultures Will Gather
 ---
 
 ## Tape

@@ -1,17 +1,17 @@
 ---
-title: "Einsamtod - S/T"
-date: 2021-06-22T16:40:56
-draft: false
-artist: "Einsamtod"
-album: "S/T"
-categories:
-    - Vinyl
-    - CD
-images:
-    - "/images/covers/einsamtod-s-t.jpg"
-thumbnailImage: "/images/covers/einsamtod-s-t-thumb.jpg"
 actualPrice: $10.00 - 20.00
+album: S/T
+artist: Einsamtod
+categories:
+- Vinyl
+- CD
+date: '2021-06-26T15:23:06'
+draft: false
+images:
+- /images/covers/einsamtod-s-t.jpg
 inStock: true
+thumbnailImage: /images/covers/einsamtod-s-t-thumb.jpg
+title: Einsamtod - S/T
 ---
 
 ## Vinyl

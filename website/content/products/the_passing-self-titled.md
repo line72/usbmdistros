@@ -1,16 +1,16 @@
 ---
-title: "The Passing - Self-Titled"
-date: 2021-06-13T12:22:19
-draft: false
-artist: "The Passing"
-album: "Self-Titled"
-categories:
-    - Tape
-images:
-    - "/images/covers/the_passing-self-titled.jpg"
-thumbnailImage: "/images/covers/the_passing-self-titled-thumb.jpg"
 actualPrice: $6.50
+album: Self-Titled
+artist: The Passing
+categories:
+- Tape
+date: '2021-06-26T15:16:22'
+draft: false
+images:
+- /images/covers/the_passing-self-titled.jpg
 inStock: true
+thumbnailImage: /images/covers/the_passing-self-titled-thumb.jpg
+title: The Passing - Self-Titled
 ---
 
 ## Tape

@@ -1,16 +1,16 @@
 ---
-title: "Lim Dul - Desolate Melancholy of Shadows Reign"
-date: 2021-06-12T14:07:56
-draft: false
-artist: "Lim Dul"
-album: "Desolate Melancholy of Shadows Reign"
-categories:
-    - Tape
-images:
-    - "/images/covers/lim_dul-desolate_melancholy_of_shadows_reign.jpg"
-thumbnailImage: "/images/covers/lim_dul-desolate_melancholy_of_shadows_reign-thumb.jpg"
 actualPrice: $10.00
+album: Desolate Melancholy of Shadows Reign
+artist: Lim Dul
+categories:
+- Tape
+date: '2021-06-26T15:03:02'
+draft: false
+images:
+- /images/covers/lim_dul-desolate_melancholy_of_shadows_reign.jpg
 inStock: true
+thumbnailImage: /images/covers/lim_dul-desolate_melancholy_of_shadows_reign-thumb.jpg
+title: Lim Dul - Desolate Melancholy of Shadows Reign
 ---
 
 ## Tape

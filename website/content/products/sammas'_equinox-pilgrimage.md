@@ -1,16 +1,16 @@
 ---
-title: "Sammas' Equinox - Pilgrimage"
-date: 2021-06-13T12:22:22
-draft: false
-artist: "Sammas' Equinox"
-album: "Pilgrimage"
-categories:
-    - Tape
-images:
-    - "/images/covers/sammas'_equinox-pilgrimage.jpg"
-thumbnailImage: "/images/covers/sammas'_equinox-pilgrimage-thumb.jpg"
 actualPrice: $4.00
+album: Pilgrimage
+artist: Sammas' Equinox
+categories:
+- Tape
+date: '2021-06-26T15:16:25'
+draft: false
+images:
+- /images/covers/sammas'_equinox-pilgrimage.jpg
 inStock: true
+thumbnailImage: /images/covers/sammas'_equinox-pilgrimage-thumb.jpg
+title: Sammas' Equinox - Pilgrimage
 ---
 
 ## Tape

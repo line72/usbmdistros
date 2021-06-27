@@ -1,16 +1,16 @@
 ---
-title: "Massive Retaliation - The Final March"
-date: 2021-06-13T12:22:18
-draft: false
-artist: "Massive Retaliation"
-album: "The Final March"
-categories:
-    - Tape
-images:
-    - "/images/covers/massive_retaliation-the_final_march.jpg"
-thumbnailImage: "/images/covers/massive_retaliation-the_final_march-thumb.jpg"
 actualPrice: $7.50
+album: The Final March
+artist: Massive Retaliation
+categories:
+- Tape
+date: '2021-06-26T15:16:21'
+draft: false
+images:
+- /images/covers/massive_retaliation-the_final_march.jpg
 inStock: true
+thumbnailImage: /images/covers/massive_retaliation-the_final_march-thumb.jpg
+title: Massive Retaliation - The Final March
 ---
 
 ## Tape

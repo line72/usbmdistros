@@ -1,16 +1,16 @@
 ---
-title: "Arckanum - Fran Marder"
-date: 2021-06-22T16:40:32
-draft: false
-artist: "Arckanum"
-album: "Fran Marder"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/arckanum-fran_marder.jpg"
-thumbnailImage: "/images/covers/arckanum-fran_marder-thumb.jpg"
 actualPrice: $27.00
+album: Fran Marder
+artist: Arckanum
+categories:
+- Vinyl
+date: '2021-06-26T15:22:42'
+draft: false
+images:
+- /images/covers/arckanum-fran_marder.jpg
 inStock: true
+thumbnailImage: /images/covers/arckanum-fran_marder-thumb.jpg
+title: Arckanum - Fran Marder
 ---
 
 ## Vinyl

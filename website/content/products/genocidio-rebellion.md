@@ -1,16 +1,16 @@
 ---
-title: "Genocidio - Rebellion"
-date: 2021-06-22T16:40:38
-draft: false
-artist: "Genocidio"
-album: "Rebellion"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/genocidio-rebellion.jpg"
-thumbnailImage: "/images/covers/genocidio-rebellion-thumb.jpg"
 actualPrice: $17.00
+album: Rebellion
+artist: Genocidio
+categories:
+- Vinyl
+date: '2021-06-26T15:22:47'
+draft: false
+images:
+- /images/covers/genocidio-rebellion.jpg
 inStock: true
+thumbnailImage: /images/covers/genocidio-rebellion-thumb.jpg
+title: Genocidio - Rebellion
 ---
 
 ## Vinyl

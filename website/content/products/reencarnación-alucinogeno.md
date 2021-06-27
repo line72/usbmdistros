@@ -1,16 +1,16 @@
 ---
-title: "Reencarnación - Alucinogeno"
-date: 2021-06-22T16:40:44
-draft: false
-artist: "Reencarnación"
-album: "Alucinogeno"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/reencarnación-alucinogeno.jpg"
-thumbnailImage: "/images/covers/reencarnación-alucinogeno-thumb.jpg"
 actualPrice: $20.00
+album: Alucinogeno
+artist: "Reencarnaci\xF3n"
+categories:
+- Vinyl
+date: '2021-06-26T15:22:54'
+draft: false
+images:
+- "/images/covers/reencarnaci\xF3n-alucinogeno.jpg"
 inStock: true
+thumbnailImage: "/images/covers/reencarnaci\xF3n-alucinogeno-thumb.jpg"
+title: "Reencarnaci\xF3n - Alucinogeno"
 ---
 
 ## Vinyl

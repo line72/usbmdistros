@@ -1,17 +1,17 @@
 ---
-title: "Beherit - The Oath of Black Blood"
-date: 2021-06-22T16:40:53
-draft: false
-artist: "Beherit"
-album: "The Oath of Black Blood"
-categories:
-    - Vinyl
-    - CD
-images:
-    - "/images/covers/beherit-the_oath_of_black_blood.jpg"
-thumbnailImage: "/images/covers/beherit-the_oath_of_black_blood-thumb.jpg"
 actualPrice: $13.00 - 30.00
+album: The Oath of Black Blood
+artist: Beherit
+categories:
+- Vinyl
+- CD
+date: '2021-06-26T15:23:03'
+draft: false
+images:
+- /images/covers/beherit-the_oath_of_black_blood.jpg
 inStock: true
+thumbnailImage: /images/covers/beherit-the_oath_of_black_blood-thumb.jpg
+title: Beherit - The Oath of Black Blood
 ---
 
 ## Vinyl

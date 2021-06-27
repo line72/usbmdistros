@@ -1,16 +1,16 @@
 ---
-title: "Rex Defunctis - Tenebram Vobiscum"
-date: 2021-06-13T12:22:23
-draft: false
-artist: "Rex Defunctis"
-album: "Tenebram Vobiscum"
-categories:
-    - Tape
-images:
-    - "/images/covers/rex_defunctis-tenebram_vobiscum.jpg"
-thumbnailImage: "/images/covers/rex_defunctis-tenebram_vobiscum-thumb.jpg"
 actualPrice: $5.00
+album: Tenebram Vobiscum
+artist: Rex Defunctis
+categories:
+- Tape
+date: '2021-06-26T15:16:26'
+draft: false
+images:
+- /images/covers/rex_defunctis-tenebram_vobiscum.jpg
 inStock: true
+thumbnailImage: /images/covers/rex_defunctis-tenebram_vobiscum-thumb.jpg
+title: Rex Defunctis - Tenebram Vobiscum
 ---
 
 ## Tape

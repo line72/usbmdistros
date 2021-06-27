@@ -1,16 +1,16 @@
 ---
-title: "Deglaver - The Razors Edge"
-date: 2021-06-13T12:22:24
-draft: false
-artist: "Deglaver"
-album: "The Razors Edge"
-categories:
-    - Tape
-images:
-    - "/images/covers/deglaver-the_razors_edge.jpg"
-thumbnailImage: "/images/covers/deglaver-the_razors_edge-thumb.jpg"
 actualPrice: $5.00
+album: The Razors Edge
+artist: Deglaver
+categories:
+- Tape
+date: '2021-06-26T15:16:26'
+draft: false
+images:
+- /images/covers/deglaver-the_razors_edge.jpg
 inStock: true
+thumbnailImage: /images/covers/deglaver-the_razors_edge-thumb.jpg
+title: Deglaver - The Razors Edge
 ---
 
 ## Tape

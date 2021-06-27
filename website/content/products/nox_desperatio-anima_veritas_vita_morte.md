@@ -1,16 +1,16 @@
 ---
-title: "Nox Desperatio - Anima Veritas Vita Morte"
-date: 2021-06-13T12:22:23
-draft: false
-artist: "Nox Desperatio"
-album: "Anima Veritas Vita Morte"
-categories:
-    - Tape
-images:
-    - "/images/covers/nox_desperatio-anima_veritas_vita_morte.jpg"
-thumbnailImage: "/images/covers/nox_desperatio-anima_veritas_vita_morte-thumb.jpg"
 actualPrice: $5.00
+album: Anima Veritas Vita Morte
+artist: Nox Desperatio
+categories:
+- Tape
+date: '2021-06-26T15:16:25'
+draft: false
+images:
+- /images/covers/nox_desperatio-anima_veritas_vita_morte.jpg
 inStock: true
+thumbnailImage: /images/covers/nox_desperatio-anima_veritas_vita_morte-thumb.jpg
+title: Nox Desperatio - Anima Veritas Vita Morte
 ---
 
 ## Tape

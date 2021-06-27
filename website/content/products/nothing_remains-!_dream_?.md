@@ -1,16 +1,16 @@
 ---
-title: "Nothing Remains - ! Dream ?"
-date: 2021-06-22T16:40:42
-draft: false
-artist: "Nothing Remains"
-album: "! Dream ?"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/nothing_remains-!_dream_?.jpg"
-thumbnailImage: "/images/covers/nothing_remains-!_dream_?-thumb.jpg"
 actualPrice: $5.00
+album: '! Dream ?'
+artist: Nothing Remains
+categories:
+- Vinyl
+date: '2021-06-26T15:22:52'
+draft: false
+images:
+- /images/covers/nothing_remains-!_dream_?.jpg
 inStock: true
+thumbnailImage: /images/covers/nothing_remains-!_dream_?-thumb.jpg
+title: Nothing Remains - ! Dream ?
 ---
 
 ## Vinyl

@@ -1,18 +1,18 @@
 ---
-title: "Evoker - Evil Torment"
-date: 2021-06-22T16:41:10
-draft: false
-artist: "Evoker"
-album: "Evil Torment"
-categories:
-    - Vinyl
-    - Cassette
-    - CD
-images:
-    - "/images/covers/evoker-evil_torment.jpg"
-thumbnailImage: "/images/covers/evoker-evil_torment-thumb.jpg"
 actualPrice: $8.00 - 22.00
+album: Evil Torment
+artist: Evoker
+categories:
+- Vinyl
+- Cassette
+- CD
+date: '2021-06-26T15:23:20'
+draft: false
+images:
+- /images/covers/evoker-evil_torment.jpg
 inStock: true
+thumbnailImage: /images/covers/evoker-evil_torment-thumb.jpg
+title: Evoker - Evil Torment
 ---
 
 ## Vinyl

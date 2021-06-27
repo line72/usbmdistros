@@ -1,16 +1,16 @@
 ---
-title: "Cosmic Putrefaction - At The Threshold Of The Greatest Chasm"
-date: 2021-06-13T12:22:19
-draft: false
-artist: "Cosmic Putrefaction"
-album: "At The Threshold Of The Greatest Chasm"
-categories:
-    - Tape
-images:
-    - "/images/covers/cosmic_putrefaction-at_the_threshold_of_the_greatest_chasm.jpg"
-thumbnailImage: "/images/covers/cosmic_putrefaction-at_the_threshold_of_the_greatest_chasm-thumb.jpg"
 actualPrice: $6.50
+album: At The Threshold Of The Greatest Chasm
+artist: Cosmic Putrefaction
+categories:
+- Tape
+date: '2021-06-26T15:16:22'
+draft: false
+images:
+- /images/covers/cosmic_putrefaction-at_the_threshold_of_the_greatest_chasm.jpg
 inStock: true
+thumbnailImage: /images/covers/cosmic_putrefaction-at_the_threshold_of_the_greatest_chasm-thumb.jpg
+title: Cosmic Putrefaction - At The Threshold Of The Greatest Chasm
 ---
 
 ## Tape

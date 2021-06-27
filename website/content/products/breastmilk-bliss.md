@@ -1,16 +1,16 @@
 ---
-title: "Breastmilk - Bliss"
-date: 2021-06-13T12:22:22
-draft: false
-artist: "Breastmilk"
-album: "Bliss"
-categories:
-    - Tape
-images:
-    - "/images/covers/breastmilk-bliss.jpg"
-thumbnailImage: "/images/covers/breastmilk-bliss-thumb.jpg"
 actualPrice: $6.00
+album: Bliss
+artist: Breastmilk
+categories:
+- Tape
+date: '2021-06-26T15:16:25'
+draft: false
+images:
+- /images/covers/breastmilk-bliss.jpg
 inStock: true
+thumbnailImage: /images/covers/breastmilk-bliss-thumb.jpg
+title: Breastmilk - Bliss
 ---
 
 ## Tape

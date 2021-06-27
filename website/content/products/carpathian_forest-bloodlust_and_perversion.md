@@ -1,16 +1,16 @@
 ---
-title: "Carpathian Forest - Bloodlust and Perversion"
-date: 2021-06-22T16:40:34
-draft: false
-artist: "Carpathian Forest"
-album: "Bloodlust and Perversion"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/carpathian_forest-bloodlust_and_perversion.jpg"
-thumbnailImage: "/images/covers/carpathian_forest-bloodlust_and_perversion-thumb.jpg"
 actualPrice: $25.00
+album: Bloodlust and Perversion
+artist: Carpathian Forest
+categories:
+- Vinyl
+date: '2021-06-26T15:22:44'
+draft: false
+images:
+- /images/covers/carpathian_forest-bloodlust_and_perversion.jpg
 inStock: true
+thumbnailImage: /images/covers/carpathian_forest-bloodlust_and_perversion-thumb.jpg
+title: Carpathian Forest - Bloodlust and Perversion
 ---
 
 ## Vinyl

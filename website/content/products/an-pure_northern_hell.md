@@ -1,16 +1,16 @@
 ---
-title: "AN - Pure Northern Hell"
-date: 2021-06-22T16:40:49
-draft: false
-artist: "AN"
-album: "Pure Northern Hell"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/an-pure_northern_hell.jpg"
-thumbnailImage: "/images/covers/an-pure_northern_hell-thumb.jpg"
 actualPrice: $10.00
+album: Pure Northern Hell
+artist: AN
+categories:
+- Vinyl
+date: '2021-06-26T15:22:59'
+draft: false
+images:
+- /images/covers/an-pure_northern_hell.jpg
 inStock: true
+thumbnailImage: /images/covers/an-pure_northern_hell-thumb.jpg
+title: AN - Pure Northern Hell
 ---
 
 ## Vinyl

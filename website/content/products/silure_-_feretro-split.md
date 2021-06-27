@@ -1,16 +1,16 @@
 ---
-title: "Silure / Feretro - Split"
-date: 2021-06-13T12:22:21
-draft: false
-artist: "Silure / Feretro"
-album: "Split"
-categories:
-    - Tape
-images:
-    - "/images/covers/silure_-_feretro-split.jpg"
-thumbnailImage: "/images/covers/silure_-_feretro-split-thumb.jpg"
 actualPrice: $6.00
+album: Split
+artist: Silure / Feretro
+categories:
+- Tape
+date: '2021-06-26T15:16:24'
+draft: false
+images:
+- /images/covers/silure_-_feretro-split.jpg
 inStock: true
+thumbnailImage: /images/covers/silure_-_feretro-split-thumb.jpg
+title: Silure / Feretro - Split
 ---
 
 ## Tape

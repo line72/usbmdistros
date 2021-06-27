@@ -1,16 +1,16 @@
 ---
-title: "Hell United -  Aura Damage"
-date: 2021-06-22T16:40:39
-draft: false
-artist: "Hell United"
-album: " Aura Damage"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/hell_united-_aura_damage.jpg"
-thumbnailImage: "/images/covers/hell_united-_aura_damage-thumb.jpg"
 actualPrice: $17.00
+album: ' Aura Damage'
+artist: Hell United
+categories:
+- Vinyl
+date: '2021-06-26T15:22:48'
+draft: false
+images:
+- /images/covers/hell_united-_aura_damage.jpg
 inStock: true
+thumbnailImage: /images/covers/hell_united-_aura_damage-thumb.jpg
+title: Hell United -  Aura Damage
 ---
 
 ## Vinyl

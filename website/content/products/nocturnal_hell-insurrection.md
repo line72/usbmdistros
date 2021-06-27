@@ -1,16 +1,16 @@
 ---
-title: "Nocturnal Hell - Insurrection"
-date: 2021-06-22T16:40:42
-draft: false
-artist: "Nocturnal Hell"
-album: "Insurrection"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/nocturnal_hell-insurrection.jpg"
-thumbnailImage: "/images/covers/nocturnal_hell-insurrection-thumb.jpg"
 actualPrice: $15.00
+album: Insurrection
+artist: Nocturnal Hell
+categories:
+- Vinyl
+date: '2021-06-26T15:22:52'
+draft: false
+images:
+- /images/covers/nocturnal_hell-insurrection.jpg
 inStock: true
+thumbnailImage: /images/covers/nocturnal_hell-insurrection-thumb.jpg
+title: Nocturnal Hell - Insurrection
 ---
 
 ## Vinyl

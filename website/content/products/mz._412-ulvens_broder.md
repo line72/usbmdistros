@@ -1,16 +1,16 @@
 ---
-title: "MZ. 412 - Ulvens Broder"
-date: 2021-06-22T16:40:42
-draft: false
-artist: "MZ. 412"
-album: "Ulvens Broder"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/mz._412-ulvens_broder.jpg"
-thumbnailImage: "/images/covers/mz._412-ulvens_broder-thumb.jpg"
 actualPrice: $17.00
+album: Ulvens Broder
+artist: MZ. 412
+categories:
+- Vinyl
+date: '2021-06-26T15:22:52'
+draft: false
+images:
+- /images/covers/mz._412-ulvens_broder.jpg
 inStock: true
+thumbnailImage: /images/covers/mz._412-ulvens_broder-thumb.jpg
+title: MZ. 412 - Ulvens Broder
 ---
 
 ## Vinyl

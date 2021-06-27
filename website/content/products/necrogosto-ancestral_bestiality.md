@@ -1,16 +1,16 @@
 ---
-title: "Necrogosto - Ancestral Bestiality"
-date: 2021-06-22T16:40:42
-draft: false
-artist: "Necrogosto"
-album: "Ancestral Bestiality"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/necrogosto-ancestral_bestiality.jpg"
-thumbnailImage: "/images/covers/necrogosto-ancestral_bestiality-thumb.jpg"
 actualPrice: $17.00
+album: Ancestral Bestiality
+artist: Necrogosto
+categories:
+- Vinyl
+date: '2021-06-26T15:22:52'
+draft: false
+images:
+- /images/covers/necrogosto-ancestral_bestiality.jpg
 inStock: true
+thumbnailImage: /images/covers/necrogosto-ancestral_bestiality-thumb.jpg
+title: Necrogosto - Ancestral Bestiality
 ---
 
 ## Vinyl

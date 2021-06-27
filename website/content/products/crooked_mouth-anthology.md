@@ -1,16 +1,16 @@
 ---
-title: "Crooked Mouth - Anthology"
-date: 2021-06-12T14:07:56
-draft: false
-artist: "Crooked Mouth"
-album: "Anthology"
-categories:
-    - Tape
-images:
-    - "/images/covers/crooked_mouth-anthology.jpg"
-thumbnailImage: "/images/covers/crooked_mouth-anthology-thumb.jpg"
 actualPrice: $9.00
+album: Anthology
+artist: Crooked Mouth
+categories:
+- Tape
+date: '2021-06-26T15:03:02'
+draft: false
+images:
+- /images/covers/crooked_mouth-anthology.jpg
 inStock: true
+thumbnailImage: /images/covers/crooked_mouth-anthology-thumb.jpg
+title: Crooked Mouth - Anthology
 ---
 
 ## Tape

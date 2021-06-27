@@ -1,16 +1,16 @@
 ---
-title: "Altarage - Succumb"
-date: 2021-06-13T12:22:18
-draft: false
-artist: "Altarage"
-album: "Succumb"
-categories:
-    - Tape
-images:
-    - "/images/covers/altarage-succumb.jpg"
-thumbnailImage: "/images/covers/altarage-succumb-thumb.jpg"
 actualPrice: $13.00
+album: Succumb
+artist: Altarage
+categories:
+- Tape
+date: '2021-06-26T15:16:21'
+draft: false
+images:
+- /images/covers/altarage-succumb.jpg
 inStock: true
+thumbnailImage: /images/covers/altarage-succumb-thumb.jpg
+title: Altarage - Succumb
 ---
 
 ## Tape

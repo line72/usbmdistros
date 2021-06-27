@@ -1,16 +1,16 @@
 ---
-title: "Shadow Dungeon - s/t"
-date: 2021-06-12T14:07:59
-draft: false
-artist: "Shadow Dungeon"
-album: "s/t"
-categories:
-    - CD
-images:
-    - "/images/covers/shadow_dungeon-s-t.jpg"
-thumbnailImage: "/images/covers/shadow_dungeon-s-t-thumb.jpg"
 actualPrice: $15.00
+album: s/t
+artist: Shadow Dungeon
+categories:
+- CD
+date: '2021-06-26T15:03:08'
+draft: false
+images:
+- /images/covers/shadow_dungeon-s-t.jpg
 inStock: true
+thumbnailImage: /images/covers/shadow_dungeon-s-t-thumb.jpg
+title: Shadow Dungeon - s/t
 ---
 
 ## CD

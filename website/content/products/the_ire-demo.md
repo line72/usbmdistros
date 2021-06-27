@@ -1,16 +1,16 @@
 ---
-title: "The Ire - Demo"
-date: 2021-06-13T12:22:24
-draft: false
-artist: "The Ire"
-album: "Demo"
-categories:
-    - Tape
-images:
-    - "/images/covers/the_ire-demo.jpg"
-thumbnailImage: "/images/covers/the_ire-demo-thumb.jpg"
 actualPrice: $4.00
+album: Demo
+artist: The Ire
+categories:
+- Tape
+date: '2021-06-26T15:16:27'
+draft: false
+images:
+- /images/covers/the_ire-demo.jpg
 inStock: true
+thumbnailImage: /images/covers/the_ire-demo-thumb.jpg
+title: The Ire - Demo
 ---
 
 ## Tape

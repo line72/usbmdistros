@@ -1,16 +1,16 @@
 ---
-title: "Capel Beulah - s/t"
-date: 2021-06-12T14:07:58
-draft: false
-artist: "Capel Beulah"
-album: "s/t"
-categories:
-    - CD
-images:
-    - "/images/covers/capel_beulah-s-t.jpg"
-thumbnailImage: "/images/covers/capel_beulah-s-t-thumb.jpg"
 actualPrice: $15.00
+album: s/t
+artist: Capel Beulah
+categories:
+- CD
+date: '2021-06-26T15:03:08'
+draft: false
+images:
+- /images/covers/capel_beulah-s-t.jpg
 inStock: true
+thumbnailImage: /images/covers/capel_beulah-s-t-thumb.jpg
+title: Capel Beulah - s/t
 ---
 
 ## CD

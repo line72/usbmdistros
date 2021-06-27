@@ -1,17 +1,17 @@
 ---
-title: "Adzalaan - Into Vermillion Mirrors"
-date: 2021-06-22T16:40:52
-draft: false
-artist: "Adzalaan"
-album: "Into Vermillion Mirrors"
-categories:
-    - Vinyl
-    - CD
-images:
-    - "/images/covers/adzalaan-into_vermillion_mirrors.jpg"
-thumbnailImage: "/images/covers/adzalaan-into_vermillion_mirrors-thumb.jpg"
 actualPrice: $10.00 - 20.00
+album: Into Vermillion Mirrors
+artist: Adzalaan
+categories:
+- Vinyl
+- CD
+date: '2021-06-26T15:23:02'
+draft: false
+images:
+- /images/covers/adzalaan-into_vermillion_mirrors.jpg
 inStock: true
+thumbnailImage: /images/covers/adzalaan-into_vermillion_mirrors-thumb.jpg
+title: Adzalaan - Into Vermillion Mirrors
 ---
 
 ## Vinyl

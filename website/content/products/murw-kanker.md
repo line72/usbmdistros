@@ -1,16 +1,16 @@
 ---
-title: "Murw - Kanker"
-date: 2021-06-22T16:40:41
-draft: false
-artist: "Murw"
-album: "Kanker"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/murw-kanker.jpg"
-thumbnailImage: "/images/covers/murw-kanker-thumb.jpg"
 actualPrice: $17.00
+album: Kanker
+artist: Murw
+categories:
+- Vinyl
+date: '2021-06-26T15:22:51'
+draft: false
+images:
+- /images/covers/murw-kanker.jpg
 inStock: true
+thumbnailImage: /images/covers/murw-kanker-thumb.jpg
+title: Murw - Kanker
 ---
 
 ## Vinyl

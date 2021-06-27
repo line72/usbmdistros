@@ -1,17 +1,17 @@
 ---
-title: "Mutilate - Tormentium"
-date: 2021-06-22T16:41:01
-draft: false
-artist: "Mutilate"
-album: "Tormentium"
-categories:
-    - Vinyl
-    - CD
-images:
-    - "/images/covers/mutilate-tormentium.jpg"
-thumbnailImage: "/images/covers/mutilate-tormentium-thumb.jpg"
 actualPrice: $10.00 - 17.00
+album: Tormentium
+artist: Mutilate
+categories:
+- Vinyl
+- CD
+date: '2021-06-26T15:23:11'
+draft: false
+images:
+- /images/covers/mutilate-tormentium.jpg
 inStock: true
+thumbnailImage: /images/covers/mutilate-tormentium-thumb.jpg
+title: Mutilate - Tormentium
 ---
 
 ## Vinyl

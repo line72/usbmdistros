@@ -1,16 +1,16 @@
 ---
-title: "Crypts of Wallachia / Effroi - Split"
-date: 2021-06-12T14:07:54
-draft: false
-artist: "Crypts of Wallachia / Effroi"
-album: "Split"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/crypts_of_wallachia_-_effroi-split.jpg"
-thumbnailImage: "/images/covers/crypts_of_wallachia_-_effroi-split-thumb.jpg"
 actualPrice: $10.00
+album: Split
+artist: Crypts of Wallachia / Effroi
+categories:
+- Vinyl
+date: '2021-06-26T15:02:58'
+draft: false
+images:
+- /images/covers/crypts_of_wallachia_-_effroi-split.jpg
 inStock: true
+thumbnailImage: /images/covers/crypts_of_wallachia_-_effroi-split-thumb.jpg
+title: Crypts of Wallachia / Effroi - Split
 ---
 
 ## Vinyl

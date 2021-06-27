@@ -1,20 +1,17 @@
 ---
-title: "Vrörsaath - Under Vast Dreamskies"
-date: 2021-06-12T14:07:58
-draft: false
-artist: "Vrörsaath"
-album: "Under Vast Dreamskies"
+actualPrice: $25.00
+album: Under Vast Dreamskies
+artist: "Vr\xF6rsaath"
 categories:
-    - Vinyl
-    - CD
+- Vinyl
+date: '2021-06-26T15:02:54'
+draft: false
 images:
-    - "/images/covers/vrörsaath-under_vast_dreamskies.jpg"
-thumbnailImage: "/images/covers/vrörsaath-under_vast_dreamskies-thumb.jpg"
-actualPrice: $13.00 - 25.00
+- "/images/covers/vr\xF6rsaath-under_vast_dreamskies.jpg"
 inStock: true
+thumbnailImage: "/images/covers/vr\xF6rsaath-under_vast_dreamskies-thumb.jpg"
+title: "Vr\xF6rsaath - Under Vast Dreamskies"
 ---
 
 ## Vinyl
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/vrorsaath-under-vast-dreamskies-12-lp) for $25.00
-## CD
-* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/vrorsaath-under-vast-dreamskies-cd) for $13.00

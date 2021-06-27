@@ -1,16 +1,16 @@
 ---
-title: "Omission - Breathless Existence"
-date: 2021-06-13T12:22:23
-draft: false
-artist: "Omission"
-album: "Breathless Existence"
-categories:
-    - Tape
-images:
-    - "/images/covers/omission-breathless_existence.jpg"
-thumbnailImage: "/images/covers/omission-breathless_existence-thumb.jpg"
 actualPrice: $4.00
+album: Breathless Existence
+artist: Omission
+categories:
+- Tape
+date: '2021-06-26T15:16:26'
+draft: false
+images:
+- /images/covers/omission-breathless_existence.jpg
 inStock: true
+thumbnailImage: /images/covers/omission-breathless_existence-thumb.jpg
+title: Omission - Breathless Existence
 ---
 
 ## Tape

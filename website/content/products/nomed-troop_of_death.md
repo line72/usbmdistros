@@ -1,16 +1,16 @@
 ---
-title: "Nomed - Troop of Death"
-date: 2021-06-22T16:40:42
-draft: false
-artist: "Nomed"
-album: "Troop of Death"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/nomed-troop_of_death.jpg"
-thumbnailImage: "/images/covers/nomed-troop_of_death-thumb.jpg"
 actualPrice: $10.00
+album: Troop of Death
+artist: Nomed
+categories:
+- Vinyl
+date: '2021-06-26T15:22:52'
+draft: false
+images:
+- /images/covers/nomed-troop_of_death.jpg
 inStock: true
+thumbnailImage: /images/covers/nomed-troop_of_death-thumb.jpg
+title: Nomed - Troop of Death
 ---
 
 ## Vinyl

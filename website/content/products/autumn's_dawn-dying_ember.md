@@ -1,16 +1,16 @@
 ---
-title: "Autumn's Dawn - Dying Ember"
-date: 2021-06-12T14:07:58
-draft: false
-artist: "Autumn's Dawn"
-album: "Dying Ember"
-categories:
-    - CD
-images:
-    - "/images/covers/autumn's_dawn-dying_ember.jpg"
-thumbnailImage: "/images/covers/autumn's_dawn-dying_ember-thumb.jpg"
 actualPrice: $13.00
+album: Dying Ember
+artist: Autumn's Dawn
+categories:
+- CD
+date: '2021-06-26T15:03:08'
+draft: false
+images:
+- /images/covers/autumn's_dawn-dying_ember.jpg
 inStock: true
+thumbnailImage: /images/covers/autumn's_dawn-dying_ember-thumb.jpg
+title: Autumn's Dawn - Dying Ember
 ---
 
 ## CD

@@ -1,16 +1,16 @@
 ---
-title: "Blood Atonement - Demo"
-date: 2021-06-13T12:22:23
-draft: false
-artist: "Blood Atonement"
-album: "Demo"
-categories:
-    - Tape
-images:
-    - "/images/covers/blood_atonement-demo.jpg"
-thumbnailImage: "/images/covers/blood_atonement-demo-thumb.jpg"
 actualPrice: $4.00
+album: Demo
+artist: Blood Atonement
+categories:
+- Tape
+date: '2021-06-26T15:16:26'
+draft: false
+images:
+- /images/covers/blood_atonement-demo.jpg
 inStock: true
+thumbnailImage: /images/covers/blood_atonement-demo-thumb.jpg
+title: Blood Atonement - Demo
 ---
 
 ## Tape

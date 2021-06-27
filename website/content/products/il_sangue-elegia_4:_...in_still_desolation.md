@@ -1,16 +1,16 @@
 ---
-title: "Il Sangue - Elegia 4: ...In Still Desolation"
-date: 2021-06-22T16:40:39
-draft: false
-artist: "Il Sangue"
-album: "Elegia 4: ...In Still Desolation"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/il_sangue-elegia_4:_...in_still_desolation.jpg"
-thumbnailImage: "/images/covers/il_sangue-elegia_4:_...in_still_desolation-thumb.jpg"
 actualPrice: $18.00
+album: 'Elegia 4: ...In Still Desolation'
+artist: Il Sangue
+categories:
+- Vinyl
+date: '2021-06-26T15:22:49'
+draft: false
+images:
+- /images/covers/il_sangue-elegia_4:_...in_still_desolation.jpg
 inStock: true
+thumbnailImage: /images/covers/il_sangue-elegia_4:_...in_still_desolation-thumb.jpg
+title: 'Il Sangue - Elegia 4: ...In Still Desolation'
 ---
 
 ## Vinyl

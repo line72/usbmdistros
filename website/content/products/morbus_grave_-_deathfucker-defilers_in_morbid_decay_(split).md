@@ -1,16 +1,16 @@
 ---
-title: "Morbus Grave / Deathfucker - Defilers In Morbid Decay (Split)"
-date: 2021-06-13T12:22:21
-draft: false
-artist: "Morbus Grave / Deathfucker"
-album: "Defilers In Morbid Decay (Split)"
-categories:
-    - Tape
-images:
-    - "/images/covers/morbus_grave_-_deathfucker-defilers_in_morbid_decay_(split).jpg"
-thumbnailImage: "/images/covers/morbus_grave_-_deathfucker-defilers_in_morbid_decay_(split)-thumb.jpg"
 actualPrice: $5.00 - 7.00
+album: Defilers In Morbid Decay (Split)
+artist: Morbus Grave / Deathfucker
+categories:
+- Tape
+date: '2021-06-26T15:16:24'
+draft: false
+images:
+- /images/covers/morbus_grave_-_deathfucker-defilers_in_morbid_decay_(split).jpg
 inStock: true
+thumbnailImage: /images/covers/morbus_grave_-_deathfucker-defilers_in_morbid_decay_(split)-thumb.jpg
+title: Morbus Grave / Deathfucker - Defilers In Morbid Decay (Split)
 ---
 
 ## Tape

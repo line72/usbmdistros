@@ -1,17 +1,17 @@
 ---
-title: "Bergraven - Det Framlidna Minnet"
-date: 2021-06-22T16:40:54
-draft: false
-artist: "Bergraven"
-album: "Det Framlidna Minnet"
-categories:
-    - Vinyl
-    - CD
-images:
-    - "/images/covers/bergraven-det_framlidna_minnet.jpg"
-thumbnailImage: "/images/covers/bergraven-det_framlidna_minnet-thumb.jpg"
 actualPrice: $12.00 - 20.00
+album: Det Framlidna Minnet
+artist: Bergraven
+categories:
+- Vinyl
+- CD
+date: '2021-06-26T15:23:04'
+draft: false
+images:
+- /images/covers/bergraven-det_framlidna_minnet.jpg
 inStock: true
+thumbnailImage: /images/covers/bergraven-det_framlidna_minnet-thumb.jpg
+title: Bergraven - Det Framlidna Minnet
 ---
 
 ## Vinyl

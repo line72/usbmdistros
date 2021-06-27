@@ -1,16 +1,16 @@
 ---
-title: "Moriturio - Luminatione Exaltat Serpens"
-date: 2021-06-13T12:22:23
-draft: false
-artist: "Moriturio"
-album: "Luminatione Exaltat Serpens"
-categories:
-    - Tape
-images:
-    - "/images/covers/moriturio-luminatione_exaltat_serpens.jpg"
-thumbnailImage: "/images/covers/moriturio-luminatione_exaltat_serpens-thumb.jpg"
 actualPrice: $4.00
+album: Luminatione Exaltat Serpens
+artist: Moriturio
+categories:
+- Tape
+date: '2021-06-26T15:16:26'
+draft: false
+images:
+- /images/covers/moriturio-luminatione_exaltat_serpens.jpg
 inStock: true
+thumbnailImage: /images/covers/moriturio-luminatione_exaltat_serpens-thumb.jpg
+title: Moriturio - Luminatione Exaltat Serpens
 ---
 
 ## Tape

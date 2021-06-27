@@ -1,16 +1,16 @@
 ---
-title: "Sammas' Equinox - Pilgrimage / Boahjenásti"
-date: 2021-06-22T16:40:44
-draft: false
-artist: "Sammas' Equinox"
-album: "Pilgrimage / Boahjenásti"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/sammas'_equinox-pilgrimage_-_boahjenásti.jpg"
-thumbnailImage: "/images/covers/sammas'_equinox-pilgrimage_-_boahjenásti-thumb.jpg"
 actualPrice: $20.00 - 23.00
+album: "Pilgrimage / Boahjen\xE1sti"
+artist: Sammas' Equinox
+categories:
+- Vinyl
+date: '2021-06-26T15:22:54'
+draft: false
+images:
+- "/images/covers/sammas'_equinox-pilgrimage_-_boahjen\xE1sti.jpg"
 inStock: true
+thumbnailImage: "/images/covers/sammas'_equinox-pilgrimage_-_boahjen\xE1sti-thumb.jpg"
+title: "Sammas' Equinox - Pilgrimage / Boahjen\xE1sti"
 ---
 
 ## Vinyl

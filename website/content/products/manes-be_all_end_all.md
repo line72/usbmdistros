@@ -1,16 +1,16 @@
 ---
-title: "Manes - Be All End All"
-date: 2021-06-12T14:11:53
-draft: false
-artist: "Manes"
-album: "Be All End All"
-categories:
-    - CD
-images:
-    - "/images/covers/manes-be_all_end_all.jpg"
-thumbnailImage: "/images/covers/manes-be_all_end_all-thumb.jpg"
 actualPrice: $9.99
+album: Be All End All
+artist: Manes
+categories:
+- CD
+date: '2021-06-26T15:15:52'
+draft: false
+images:
+- /images/covers/manes-be_all_end_all.jpg
 inStock: true
+thumbnailImage: /images/covers/manes-be_all_end_all-thumb.jpg
+title: Manes - Be All End All
 ---
 
 ## CD

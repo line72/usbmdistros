@@ -1,16 +1,16 @@
 ---
-title: "Intellect Devourer - Demons Of The Skull Cd"
-date: 2021-06-13T12:22:19
-draft: false
-artist: "Intellect Devourer"
-album: "Demons Of The Skull Cd"
-categories:
-    - CD
-images:
-    - "/images/covers/intellect_devourer-demons_of_the_skull_cd.jpg"
-thumbnailImage: "/images/covers/intellect_devourer-demons_of_the_skull_cd-thumb.jpg"
 actualPrice: $10.00
+album: Demons Of The Skull Cd
+artist: Intellect Devourer
+categories:
+- CD
+date: '2021-06-26T15:16:22'
+draft: false
+images:
+- /images/covers/intellect_devourer-demons_of_the_skull_cd.jpg
 inStock: true
+thumbnailImage: /images/covers/intellect_devourer-demons_of_the_skull_cd-thumb.jpg
+title: Intellect Devourer - Demons Of The Skull Cd
 ---
 
 ## CD

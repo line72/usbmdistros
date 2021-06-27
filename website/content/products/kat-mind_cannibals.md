@@ -1,16 +1,16 @@
 ---
-title: "Kat - Mind Cannibals"
-date: 2021-06-22T16:40:40
-draft: false
-artist: "Kat"
-album: "Mind Cannibals"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/kat-mind_cannibals.jpg"
-thumbnailImage: "/images/covers/kat-mind_cannibals-thumb.jpg"
 actualPrice: $5.00
+album: Mind Cannibals
+artist: Kat
+categories:
+- Vinyl
+date: '2021-06-26T15:22:49'
+draft: false
+images:
+- /images/covers/kat-mind_cannibals.jpg
 inStock: true
+thumbnailImage: /images/covers/kat-mind_cannibals-thumb.jpg
+title: Kat - Mind Cannibals
 ---
 
 ## Vinyl

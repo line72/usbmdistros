@@ -1,16 +1,16 @@
 ---
-title: "Deer Creek / Ice Troll - Split"
-date: 2021-06-13T12:22:21
-draft: false
-artist: "Deer Creek / Ice Troll"
-album: "Split"
-categories:
-    - Tape
-images:
-    - "/images/covers/deer_creek_-_ice_troll-split.jpg"
-thumbnailImage: "/images/covers/deer_creek_-_ice_troll-split-thumb.jpg"
 actualPrice: $6.50
+album: Split
+artist: Deer Creek / Ice Troll
+categories:
+- Tape
+date: '2021-06-26T15:16:24'
+draft: false
+images:
+- /images/covers/deer_creek_-_ice_troll-split.jpg
 inStock: true
+thumbnailImage: /images/covers/deer_creek_-_ice_troll-split-thumb.jpg
+title: Deer Creek / Ice Troll - Split
 ---
 
 ## Tape

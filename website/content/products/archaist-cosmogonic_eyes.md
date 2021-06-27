@@ -1,17 +1,17 @@
 ---
-title: "Archaist - Cosmogonic Eyes"
-date: 2021-06-22T16:40:32
-draft: false
-artist: "Archaist"
-album: "Cosmogonic Eyes"
-categories:
-    - Vinyl
-    - CD
-images:
-    - "/images/covers/archaist-cosmogonic_eyes.jpg"
-thumbnailImage: "/images/covers/archaist-cosmogonic_eyes-thumb.jpg"
 actualPrice: $13.00 - 25.00
+album: Cosmogonic Eyes
+artist: Archaist
+categories:
+- Vinyl
+- CD
+date: '2021-06-26T15:22:42'
+draft: false
+images:
+- /images/covers/archaist-cosmogonic_eyes.jpg
 inStock: true
+thumbnailImage: /images/covers/archaist-cosmogonic_eyes-thumb.jpg
+title: Archaist - Cosmogonic Eyes
 ---
 
 ## Vinyl

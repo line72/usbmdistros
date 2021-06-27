@@ -1,16 +1,16 @@
 ---
-title: "Hexeth - Multiverse"
-date: 2021-06-12T14:07:56
-draft: false
-artist: "Hexeth"
-album: "Multiverse"
-categories:
-    - Tape
-images:
-    - "/images/covers/hexeth-multiverse.jpg"
-thumbnailImage: "/images/covers/hexeth-multiverse-thumb.jpg"
 actualPrice: $8.00
+album: Multiverse
+artist: Hexeth
+categories:
+- Tape
+date: '2021-06-26T15:03:02'
+draft: false
+images:
+- /images/covers/hexeth-multiverse.jpg
 inStock: true
+thumbnailImage: /images/covers/hexeth-multiverse-thumb.jpg
+title: Hexeth - Multiverse
 ---
 
 ## Tape

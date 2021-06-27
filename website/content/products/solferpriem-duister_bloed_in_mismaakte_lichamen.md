@@ -1,16 +1,16 @@
 ---
-title: "Solferpriem - Duister Bloed In Mismaakte Lichamen"
-date: 2021-06-13T12:22:24
-draft: false
-artist: "Solferpriem"
-album: "Duister Bloed In Mismaakte Lichamen"
-categories:
-    - Tape
-images:
-    - "/images/covers/solferpriem-duister_bloed_in_mismaakte_lichamen.jpg"
-thumbnailImage: "/images/covers/solferpriem-duister_bloed_in_mismaakte_lichamen-thumb.jpg"
 actualPrice: $4.00
+album: Duister Bloed In Mismaakte Lichamen
+artist: Solferpriem
+categories:
+- Tape
+date: '2021-06-26T15:16:26'
+draft: false
+images:
+- /images/covers/solferpriem-duister_bloed_in_mismaakte_lichamen.jpg
 inStock: true
+thumbnailImage: /images/covers/solferpriem-duister_bloed_in_mismaakte_lichamen-thumb.jpg
+title: Solferpriem - Duister Bloed In Mismaakte Lichamen
 ---
 
 ## Tape

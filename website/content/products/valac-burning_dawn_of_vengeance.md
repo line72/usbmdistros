@@ -1,16 +1,16 @@
 ---
-title: "Valac - Burning Dawn of Vengeance"
-date: 2021-06-12T14:07:58
-draft: false
-artist: "Valac"
-album: "Burning Dawn of Vengeance"
-categories:
-    - CD
-images:
-    - "/images/covers/valac-burning_dawn_of_vengeance.jpg"
-thumbnailImage: "/images/covers/valac-burning_dawn_of_vengeance-thumb.jpg"
 actualPrice: $15.00
+album: Burning Dawn of Vengeance
+artist: Valac
+categories:
+- CD
+date: '2021-06-26T15:03:07'
+draft: false
+images:
+- /images/covers/valac-burning_dawn_of_vengeance.jpg
 inStock: true
+thumbnailImage: /images/covers/valac-burning_dawn_of_vengeance-thumb.jpg
+title: Valac - Burning Dawn of Vengeance
 ---
 
 ## CD

@@ -1,16 +1,16 @@
 ---
-title: "NIGHTFELL - THE LIVING EVER MOURN"
-date: 2021-06-22T16:40:42
-draft: false
-artist: "NIGHTFELL"
-album: "THE LIVING EVER MOURN"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/nightfell-the_living_ever_mourn.jpg"
-thumbnailImage: "/images/covers/nightfell-the_living_ever_mourn-thumb.jpg"
 actualPrice: $17.00
+album: THE LIVING EVER MOURN
+artist: NIGHTFELL
+categories:
+- Vinyl
+date: '2021-06-26T15:22:52'
+draft: false
+images:
+- /images/covers/nightfell-the_living_ever_mourn.jpg
 inStock: true
+thumbnailImage: /images/covers/nightfell-the_living_ever_mourn-thumb.jpg
+title: NIGHTFELL - THE LIVING EVER MOURN
 ---
 
 ## Vinyl

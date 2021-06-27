@@ -1,16 +1,16 @@
 ---
-title: "Paria - Blut & Knochenstaub"
-date: 2021-06-22T16:40:43
-draft: false
-artist: "Paria"
-album: "Blut & Knochenstaub"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/paria-blut_&_knochenstaub.jpg"
-thumbnailImage: "/images/covers/paria-blut_&_knochenstaub-thumb.jpg"
 actualPrice: $17.00
+album: Blut & Knochenstaub
+artist: Paria
+categories:
+- Vinyl
+date: '2021-06-26T15:22:53'
+draft: false
+images:
+- /images/covers/paria-blut_&_knochenstaub.jpg
 inStock: true
+thumbnailImage: /images/covers/paria-blut_&_knochenstaub-thumb.jpg
+title: Paria - Blut & Knochenstaub
 ---
 
 ## Vinyl

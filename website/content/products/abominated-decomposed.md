@@ -1,16 +1,16 @@
 ---
-title: "Abominated - Decomposed"
-date: 2021-06-13T12:22:19
-draft: false
-artist: "Abominated"
-album: "Decomposed"
-categories:
-    - Tape
-images:
-    - "/images/covers/abominated-decomposed.jpg"
-thumbnailImage: "/images/covers/abominated-decomposed-thumb.jpg"
 actualPrice: $8.00
+album: Decomposed
+artist: Abominated
+categories:
+- Tape
+date: '2021-06-26T15:16:22'
+draft: false
+images:
+- /images/covers/abominated-decomposed.jpg
 inStock: true
+thumbnailImage: /images/covers/abominated-decomposed-thumb.jpg
+title: Abominated - Decomposed
 ---
 
 ## Tape

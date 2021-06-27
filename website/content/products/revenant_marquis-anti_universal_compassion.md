@@ -1,16 +1,16 @@
 ---
-title: "Revenant Marquis - Anti Universal Compassion"
-date: 2021-06-12T14:07:58
-draft: false
-artist: "Revenant Marquis"
-album: "Anti Universal Compassion"
-categories:
-    - CD
-images:
-    - "/images/covers/revenant_marquis-anti_universal_compassion.jpg"
-thumbnailImage: "/images/covers/revenant_marquis-anti_universal_compassion-thumb.jpg"
 actualPrice: $15.00
+album: Anti Universal Compassion
+artist: Revenant Marquis
+categories:
+- CD
+date: '2021-06-26T15:03:08'
+draft: false
+images:
+- /images/covers/revenant_marquis-anti_universal_compassion.jpg
 inStock: true
+thumbnailImage: /images/covers/revenant_marquis-anti_universal_compassion-thumb.jpg
+title: Revenant Marquis - Anti Universal Compassion
 ---
 
 ## CD

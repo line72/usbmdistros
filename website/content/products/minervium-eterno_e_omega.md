@@ -1,16 +1,16 @@
 ---
-title: "Minervium - Eterno E Omega"
-date: 2021-06-13T12:22:23
-draft: false
-artist: "Minervium"
-album: "Eterno E Omega"
-categories:
-    - Tape
-images:
-    - "/images/covers/minervium-eterno_e_omega.jpg"
-thumbnailImage: "/images/covers/minervium-eterno_e_omega-thumb.jpg"
 actualPrice: $3.00
+album: Eterno E Omega
+artist: Minervium
+categories:
+- Tape
+date: '2021-06-26T15:16:25'
+draft: false
+images:
+- /images/covers/minervium-eterno_e_omega.jpg
 inStock: true
+thumbnailImage: /images/covers/minervium-eterno_e_omega-thumb.jpg
+title: Minervium - Eterno E Omega
 ---
 
 ## Tape

@@ -1,17 +1,17 @@
 ---
-title: "GRIBBERIKET - Knefall"
-date: 2021-06-22T16:40:58
-draft: false
-artist: "GRIBBERIKET"
-album: "Knefall"
-categories:
-    - Vinyl
-    - CD
-images:
-    - "/images/covers/gribberiket-knefall.jpg"
-thumbnailImage: "/images/covers/gribberiket-knefall-thumb.jpg"
 actualPrice: $10.00 - 17.00
+album: Knefall
+artist: GRIBBERIKET
+categories:
+- Vinyl
+- CD
+date: '2021-06-26T15:23:08'
+draft: false
+images:
+- /images/covers/gribberiket-knefall.jpg
 inStock: true
+thumbnailImage: /images/covers/gribberiket-knefall-thumb.jpg
+title: GRIBBERIKET - Knefall
 ---
 
 ## Vinyl

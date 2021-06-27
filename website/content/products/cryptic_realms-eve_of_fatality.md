@@ -1,17 +1,17 @@
 ---
-title: "Cryptic Realms - Eve Of Fatality"
-date: 2021-06-22T16:40:49
-draft: false
-artist: "Cryptic Realms"
-album: "Eve Of Fatality"
-categories:
-    - Vinyl
-    - Tape
-images:
-    - "/images/covers/cryptic_realms-eve_of_fatality.jpg"
-thumbnailImage: "/images/covers/cryptic_realms-eve_of_fatality-thumb.jpg"
 actualPrice: $4.00 - 7.00
+album: Eve Of Fatality
+artist: Cryptic Realms
+categories:
+- Vinyl
+- Tape
+date: '2021-06-26T15:22:59'
+draft: false
+images:
+- /images/covers/cryptic_realms-eve_of_fatality.jpg
 inStock: true
+thumbnailImage: /images/covers/cryptic_realms-eve_of_fatality-thumb.jpg
+title: Cryptic Realms - Eve Of Fatality
 ---
 
 ## Vinyl

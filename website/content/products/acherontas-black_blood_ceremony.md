@@ -1,16 +1,16 @@
 ---
-title: "Acherontas - Black Blood Ceremony"
-date: 2021-06-22T16:40:32
-draft: false
-artist: "Acherontas"
-album: "Black Blood Ceremony"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/acherontas-black_blood_ceremony.jpg"
-thumbnailImage: "/images/covers/acherontas-black_blood_ceremony-thumb.jpg"
 actualPrice: $17.00
+album: Black Blood Ceremony
+artist: Acherontas
+categories:
+- Vinyl
+date: '2021-06-26T15:22:41'
+draft: false
+images:
+- /images/covers/acherontas-black_blood_ceremony.jpg
 inStock: true
+thumbnailImage: /images/covers/acherontas-black_blood_ceremony-thumb.jpg
+title: Acherontas - Black Blood Ceremony
 ---
 
 ## Vinyl

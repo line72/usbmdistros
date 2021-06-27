@@ -1,16 +1,16 @@
 ---
-title: "Fornicus / Ofstigan - Split"
-date: 2021-06-13T12:22:18
-draft: false
-artist: "Fornicus / Ofstigan"
-album: "Split"
-categories:
-    - Tape
-images:
-    - "/images/covers/fornicus_-_ofstigan-split.jpg"
-thumbnailImage: "/images/covers/fornicus_-_ofstigan-split-thumb.jpg"
 actualPrice: $8.00
+album: Split
+artist: Fornicus / Ofstigan
+categories:
+- Tape
+date: '2021-06-26T15:16:21'
+draft: false
+images:
+- /images/covers/fornicus_-_ofstigan-split.jpg
 inStock: true
+thumbnailImage: /images/covers/fornicus_-_ofstigan-split-thumb.jpg
+title: Fornicus / Ofstigan - Split
 ---
 
 ## Tape

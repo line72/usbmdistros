@@ -1,16 +1,16 @@
 ---
-title: "Pa Vesh En - Church of Bones"
-date: 2021-06-12T14:04:39
-draft: false
-artist: "Pa Vesh En"
-album: "Church of Bones"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/pa_vesh_en-church_of_bones.jpg"
-thumbnailImage: "/images/covers/pa_vesh_en-church_of_bones-thumb.jpg"
 actualPrice: $17.00
+album: Church of Bones
+artist: Pa Vesh En
+categories:
+- Vinyl
+date: '2021-06-26T14:49:52'
+draft: false
+images:
+- /images/covers/pa_vesh_en-church_of_bones.jpg
 inStock: true
+thumbnailImage: /images/covers/pa_vesh_en-church_of_bones-thumb.jpg
+title: Pa Vesh En - Church of Bones
 ---
 
 ## Vinyl

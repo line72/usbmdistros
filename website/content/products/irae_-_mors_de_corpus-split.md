@@ -1,16 +1,16 @@
 ---
-title: "Irae / Mors de Corpus - Split"
-date: 2021-06-12T14:07:52
-draft: false
-artist: "Irae / Mors de Corpus"
-album: "Split"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/irae_-_mors_de_corpus-split.jpg"
-thumbnailImage: "/images/covers/irae_-_mors_de_corpus-split-thumb.jpg"
 actualPrice: $22.00
+album: Split
+artist: Irae / Mors de Corpus
+categories:
+- Vinyl
+date: '2021-06-26T15:02:55'
+draft: false
+images:
+- /images/covers/irae_-_mors_de_corpus-split.jpg
 inStock: true
+thumbnailImage: /images/covers/irae_-_mors_de_corpus-split-thumb.jpg
+title: Irae / Mors de Corpus - Split
 ---
 
 ## Vinyl

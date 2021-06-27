@@ -1,16 +1,16 @@
 ---
-title: "Disgustor - Gate Of Flesh And Bone"
-date: 2021-06-13T12:22:24
-draft: false
-artist: "Disgustor"
-album: "Gate Of Flesh And Bone"
-categories:
-    - Tape
-images:
-    - "/images/covers/disgustor-gate_of_flesh_and_bone.jpg"
-thumbnailImage: "/images/covers/disgustor-gate_of_flesh_and_bone-thumb.jpg"
 actualPrice: $4.50
+album: Gate Of Flesh And Bone
+artist: Disgustor
+categories:
+- Tape
+date: '2021-06-26T15:16:26'
+draft: false
+images:
+- /images/covers/disgustor-gate_of_flesh_and_bone.jpg
 inStock: true
+thumbnailImage: /images/covers/disgustor-gate_of_flesh_and_bone-thumb.jpg
+title: Disgustor - Gate Of Flesh And Bone
 ---
 
 ## Tape

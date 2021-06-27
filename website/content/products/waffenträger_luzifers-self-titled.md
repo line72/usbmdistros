@@ -1,16 +1,16 @@
 ---
-title: "Waffenträger Luzifers - Self-Titled"
-date: 2021-06-13T12:22:23
-draft: false
-artist: "Waffenträger Luzifers"
-album: "Self-Titled"
-categories:
-    - Tape
-images:
-    - "/images/covers/waffenträger_luzifers-self-titled.jpg"
-thumbnailImage: "/images/covers/waffenträger_luzifers-self-titled-thumb.jpg"
 actualPrice: $3.00
+album: Self-Titled
+artist: "Waffentr\xE4ger Luzifers"
+categories:
+- Tape
+date: '2021-06-26T15:16:26'
+draft: false
+images:
+- "/images/covers/waffentr\xE4ger_luzifers-self-titled.jpg"
 inStock: true
+thumbnailImage: "/images/covers/waffentr\xE4ger_luzifers-self-titled-thumb.jpg"
+title: "Waffentr\xE4ger Luzifers - Self-Titled"
 ---
 
 ## Tape

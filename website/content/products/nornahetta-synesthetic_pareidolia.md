@@ -1,16 +1,16 @@
 ---
-title: "Nornahetta - Synesthetic Pareidolia"
-date: 2021-06-22T16:40:42
-draft: false
-artist: "Nornahetta"
-album: "Synesthetic Pareidolia"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/nornahetta-synesthetic_pareidolia.jpg"
-thumbnailImage: "/images/covers/nornahetta-synesthetic_pareidolia-thumb.jpg"
 actualPrice: $20.00 - 22.00
+album: Synesthetic Pareidolia
+artist: Nornahetta
+categories:
+- Vinyl
+date: '2021-06-26T15:22:52'
+draft: false
+images:
+- /images/covers/nornahetta-synesthetic_pareidolia.jpg
 inStock: true
+thumbnailImage: /images/covers/nornahetta-synesthetic_pareidolia-thumb.jpg
+title: Nornahetta - Synesthetic Pareidolia
 ---
 
 ## Vinyl

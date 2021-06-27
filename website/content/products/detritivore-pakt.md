@@ -1,16 +1,16 @@
 ---
-title: "Detritivore - Pakt"
-date: 2021-06-22T16:40:36
-draft: false
-artist: "Detritivore"
-album: "Pakt"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/detritivore-pakt.jpg"
-thumbnailImage: "/images/covers/detritivore-pakt-thumb.jpg"
 actualPrice: $17.00
+album: Pakt
+artist: Detritivore
+categories:
+- Vinyl
+date: '2021-06-26T15:22:45'
+draft: false
+images:
+- /images/covers/detritivore-pakt.jpg
 inStock: true
+thumbnailImage: /images/covers/detritivore-pakt-thumb.jpg
+title: Detritivore - Pakt
 ---
 
 ## Vinyl

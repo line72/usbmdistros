@@ -1,16 +1,16 @@
 ---
-title: "Slaughter Messiah - Cursed To The Pyre"
-date: 2021-06-13T12:22:20
-draft: false
-artist: "Slaughter Messiah"
-album: "Cursed To The Pyre"
-categories:
-    - Tape
-images:
-    - "/images/covers/slaughter_messiah-cursed_to_the_pyre.jpg"
-thumbnailImage: "/images/covers/slaughter_messiah-cursed_to_the_pyre-thumb.jpg"
 actualPrice: $7.50
+album: Cursed To The Pyre
+artist: Slaughter Messiah
+categories:
+- Tape
+date: '2021-06-26T15:16:23'
+draft: false
+images:
+- /images/covers/slaughter_messiah-cursed_to_the_pyre.jpg
 inStock: true
+thumbnailImage: /images/covers/slaughter_messiah-cursed_to_the_pyre-thumb.jpg
+title: Slaughter Messiah - Cursed To The Pyre
 ---
 
 ## Tape

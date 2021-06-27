@@ -1,16 +1,19 @@
 ---
-title: "Frostrike - Ett Ödelagt Rike I Ruiner Av Hat... (Slutet Av Allt Vi Drömde)"
-date: 2021-06-22T16:40:37
-draft: false
-artist: "Frostrike"
-album: "Ett Ödelagt Rike I Ruiner Av Hat... (Slutet Av Allt Vi Drömde)"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/frostrike-ett_ödelagt_rike_i_ruiner_av_hat..._(slutet_av_allt_vi_drömde).jpg"
-thumbnailImage: "/images/covers/frostrike-ett_ödelagt_rike_i_ruiner_av_hat..._(slutet_av_allt_vi_drömde)-thumb.jpg"
 actualPrice: $25.00
+album: "Ett \xD6delagt Rike I Ruiner Av Hat... (Slutet Av Allt Vi Dr\xF6mde)"
+artist: Frostrike
+categories:
+- Vinyl
+date: '2021-06-26T15:22:47'
+draft: false
+images:
+- "/images/covers/frostrike-ett_\xF6delagt_rike_i_ruiner_av_hat..._(slutet_av_allt_vi_dr\xF6\
+  mde).jpg"
 inStock: true
+thumbnailImage: "/images/covers/frostrike-ett_\xF6delagt_rike_i_ruiner_av_hat..._(slutet_av_allt_vi_dr\xF6\
+  mde)-thumb.jpg"
+title: "Frostrike - Ett \xD6delagt Rike I Ruiner Av Hat... (Slutet Av Allt Vi Dr\xF6\
+  mde)"
 ---
 
 ## Vinyl

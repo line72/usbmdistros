@@ -1,16 +1,16 @@
 ---
-title: "Attic Presence - The Unwelcomed Ones"
-date: 2021-06-12T14:04:39
-draft: false
-artist: "Attic Presence"
-album: "The Unwelcomed Ones"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/attic_presence-the_unwelcomed_ones.jpg"
-thumbnailImage: "/images/covers/attic_presence-the_unwelcomed_ones-thumb.jpg"
 actualPrice: $32.00
+album: The Unwelcomed Ones
+artist: Attic Presence
+categories:
+- Vinyl
+date: '2021-06-26T14:49:52'
+draft: false
+images:
+- /images/covers/attic_presence-the_unwelcomed_ones.jpg
 inStock: true
+thumbnailImage: /images/covers/attic_presence-the_unwelcomed_ones-thumb.jpg
+title: Attic Presence - The Unwelcomed Ones
 ---
 
 ## Vinyl

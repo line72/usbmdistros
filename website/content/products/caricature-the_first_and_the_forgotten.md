@@ -1,16 +1,16 @@
 ---
-title: "Caricature - The First And The Forgotten"
-date: 2021-06-13T12:22:21
-draft: false
-artist: "Caricature"
-album: "The First And The Forgotten"
-categories:
-    - Tape
-images:
-    - "/images/covers/caricature-the_first_and_the_forgotten.jpg"
-thumbnailImage: "/images/covers/caricature-the_first_and_the_forgotten-thumb.jpg"
 actualPrice: $6.00
+album: The First And The Forgotten
+artist: Caricature
+categories:
+- Tape
+date: '2021-06-26T15:16:24'
+draft: false
+images:
+- /images/covers/caricature-the_first_and_the_forgotten.jpg
 inStock: true
+thumbnailImage: /images/covers/caricature-the_first_and_the_forgotten-thumb.jpg
+title: Caricature - The First And The Forgotten
 ---
 
 ## Tape

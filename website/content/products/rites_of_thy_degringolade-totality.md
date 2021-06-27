@@ -1,16 +1,16 @@
 ---
-title: "Rites Of Thy Degringolade - Totality"
-date: 2021-06-22T16:40:44
-draft: false
-artist: "Rites Of Thy Degringolade"
-album: "Totality"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/rites_of_thy_degringolade-totality.jpg"
-thumbnailImage: "/images/covers/rites_of_thy_degringolade-totality-thumb.jpg"
 actualPrice: $25.00
+album: Totality
+artist: Rites of Thy Degringolade
+categories:
+- Vinyl
+date: '2021-06-26T15:22:54'
+draft: false
+images:
+- /images/covers/rites_of_thy_degringolade-totality.jpg
 inStock: true
+thumbnailImage: /images/covers/rites_of_thy_degringolade-totality-thumb.jpg
+title: Rites of Thy Degringolade - Totality
 ---
 
 ## Vinyl

@@ -1,16 +1,16 @@
 ---
-title: "Lek - Shadows of Black Souls"
-date: 2021-06-22T16:40:40
-draft: false
-artist: "Lek"
-album: "Shadows of Black Souls"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/lek-shadows_of_black_souls.jpg"
-thumbnailImage: "/images/covers/lek-shadows_of_black_souls-thumb.jpg"
 actualPrice: $25.00
+album: Shadows of Black Souls
+artist: Lek
+categories:
+- Vinyl
+date: '2021-06-26T15:22:50'
+draft: false
+images:
+- /images/covers/lek-shadows_of_black_souls.jpg
 inStock: true
+thumbnailImage: /images/covers/lek-shadows_of_black_souls-thumb.jpg
+title: Lek - Shadows of Black Souls
 ---
 
 ## Vinyl

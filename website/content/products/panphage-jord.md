@@ -1,17 +1,17 @@
 ---
-title: "Panphage - Jord"
-date: 2021-06-22T16:41:03
-draft: false
-artist: "Panphage"
-album: "Jord"
-categories:
-    - Vinyl
-    - CD
-images:
-    - "/images/covers/panphage-jord.jpg"
-thumbnailImage: "/images/covers/panphage-jord-thumb.jpg"
 actualPrice: $12.00 - 22.00
+album: Jord
+artist: Panphage
+categories:
+- Vinyl
+- CD
+date: '2021-06-26T15:23:13'
+draft: false
+images:
+- /images/covers/panphage-jord.jpg
 inStock: true
+thumbnailImage: /images/covers/panphage-jord-thumb.jpg
+title: Panphage - Jord
 ---
 
 ## Vinyl

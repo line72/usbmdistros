@@ -1,16 +1,16 @@
 ---
-title: "Act Of Impalement - Perdition Cult"
-date: 2021-06-13T12:22:17
-draft: false
-artist: "Act Of Impalement"
-album: "Perdition Cult"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/act_of_impalement-perdition_cult.jpg"
-thumbnailImage: "/images/covers/act_of_impalement-perdition_cult-thumb.jpg"
 actualPrice: $8.50
+album: Perdition Cult
+artist: Act Of Impalement
+categories:
+- Vinyl
+date: '2021-06-26T15:16:21'
+draft: false
+images:
+- /images/covers/act_of_impalement-perdition_cult.jpg
 inStock: true
+thumbnailImage: /images/covers/act_of_impalement-perdition_cult-thumb.jpg
+title: Act Of Impalement - Perdition Cult
 ---
 
 ## Vinyl

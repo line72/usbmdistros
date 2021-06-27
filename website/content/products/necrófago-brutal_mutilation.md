@@ -1,16 +1,16 @@
 ---
-title: "Necrófago - Brutal Mutilation"
-date: 2021-06-22T16:40:42
-draft: false
-artist: "Necrófago"
-album: "Brutal Mutilation"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/necrófago-brutal_mutilation.jpg"
-thumbnailImage: "/images/covers/necrófago-brutal_mutilation-thumb.jpg"
 actualPrice: $20.00 - 30.00
+album: Brutal Mutilation
+artist: "Necr\xF3fago"
+categories:
+- Vinyl
+date: '2021-06-26T15:22:52'
+draft: false
+images:
+- "/images/covers/necr\xF3fago-brutal_mutilation.jpg"
 inStock: true
+thumbnailImage: "/images/covers/necr\xF3fago-brutal_mutilation-thumb.jpg"
+title: "Necr\xF3fago - Brutal Mutilation"
 ---
 
 ## Vinyl

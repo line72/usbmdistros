@@ -1,16 +1,16 @@
 ---
-title: "Go Go's - Vacation"
-date: 2021-06-22T16:40:38
-draft: false
-artist: "Go Go's"
-album: "Vacation"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/go_go's-vacation.jpg"
-thumbnailImage: "/images/covers/go_go's-vacation-thumb.jpg"
 actualPrice: $10.00
+album: Vacation
+artist: Go Go's
+categories:
+- Vinyl
+date: '2021-06-26T15:22:47'
+draft: false
+images:
+- /images/covers/go_go's-vacation.jpg
 inStock: true
+thumbnailImage: /images/covers/go_go's-vacation-thumb.jpg
+title: Go Go's - Vacation
 ---
 
 ## Vinyl

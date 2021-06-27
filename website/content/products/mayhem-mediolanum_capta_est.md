@@ -1,16 +1,16 @@
 ---
-title: "Mayhem - Mediolanum Capta Est"
-date: 2021-06-22T16:40:41
-draft: false
-artist: "Mayhem"
-album: "Mediolanum Capta Est"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/mayhem-mediolanum_capta_est.jpg"
-thumbnailImage: "/images/covers/mayhem-mediolanum_capta_est-thumb.jpg"
 actualPrice: $30.00
+album: Mediolanum Capta Est
+artist: Mayhem
+categories:
+- Vinyl
+date: '2021-06-26T15:22:51'
+draft: false
+images:
+- /images/covers/mayhem-mediolanum_capta_est.jpg
 inStock: true
+thumbnailImage: /images/covers/mayhem-mediolanum_capta_est-thumb.jpg
+title: Mayhem - Mediolanum Capta Est
 ---
 
 ## Vinyl

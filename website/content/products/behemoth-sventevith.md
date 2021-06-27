@@ -1,16 +1,16 @@
 ---
-title: "Behemoth - Sventevith"
-date: 2021-06-22T16:40:33
-draft: false
-artist: "Behemoth"
-album: "Sventevith"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/behemoth-sventevith.jpg"
-thumbnailImage: "/images/covers/behemoth-sventevith-thumb.jpg"
 actualPrice: $25.00
+album: Sventevith
+artist: Behemoth
+categories:
+- Vinyl
+date: '2021-06-26T15:22:43'
+draft: false
+images:
+- /images/covers/behemoth-sventevith.jpg
 inStock: true
+thumbnailImage: /images/covers/behemoth-sventevith-thumb.jpg
+title: Behemoth - Sventevith
 ---
 
 ## Vinyl

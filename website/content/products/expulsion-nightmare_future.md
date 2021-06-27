@@ -1,16 +1,16 @@
 ---
-title: "Expulsion - Nightmare Future"
-date: 2021-06-22T16:40:37
-draft: false
-artist: "Expulsion"
-album: "Nightmare Future"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/expulsion-nightmare_future.jpg"
-thumbnailImage: "/images/covers/expulsion-nightmare_future-thumb.jpg"
 actualPrice: $20.00
+album: Nightmare Future
+artist: Expulsion
+categories:
+- Vinyl
+date: '2021-06-26T15:22:47'
+draft: false
+images:
+- /images/covers/expulsion-nightmare_future.jpg
 inStock: true
+thumbnailImage: /images/covers/expulsion-nightmare_future-thumb.jpg
+title: Expulsion - Nightmare Future
 ---
 
 ## Vinyl

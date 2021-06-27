@@ -1,16 +1,16 @@
 ---
-title: "Even Vast - Where the Trees Still Speak"
-date: 2021-06-22T16:40:37
-draft: false
-artist: "Even Vast"
-album: "Where the Trees Still Speak"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/even_vast-where_the_trees_still_speak.jpg"
-thumbnailImage: "/images/covers/even_vast-where_the_trees_still_speak-thumb.jpg"
 actualPrice: $10.00
+album: Where the Trees Still Speak
+artist: Even Vast
+categories:
+- Vinyl
+date: '2021-06-26T15:22:46'
+draft: false
+images:
+- /images/covers/even_vast-where_the_trees_still_speak.jpg
 inStock: true
+thumbnailImage: /images/covers/even_vast-where_the_trees_still_speak-thumb.jpg
+title: Even Vast - Where the Trees Still Speak
 ---
 
 ## Vinyl

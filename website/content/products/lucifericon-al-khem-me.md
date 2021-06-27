@@ -1,17 +1,17 @@
 ---
-title: "Lucifericon - Al-Khem-Me"
-date: 2021-06-22T16:41:11
-draft: false
-artist: "Lucifericon"
-album: "Al-Khem-Me"
-categories:
-    - Tape
-    - Cassette
-images:
-    - "/images/covers/lucifericon-al-khem-me.jpg"
-thumbnailImage: "/images/covers/lucifericon-al-khem-me-thumb.jpg"
 actualPrice: $5.00 - 7.00
+album: Al-Khem-Me
+artist: Lucifericon
+categories:
+- Tape
+- Cassette
+date: '2021-06-26T15:23:21'
+draft: false
+images:
+- /images/covers/lucifericon-al-khem-me.jpg
 inStock: true
+thumbnailImage: /images/covers/lucifericon-al-khem-me-thumb.jpg
+title: Lucifericon - Al-Khem-Me
 ---
 
 ## Tape

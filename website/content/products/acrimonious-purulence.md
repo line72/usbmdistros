@@ -1,16 +1,16 @@
 ---
-title: "Acrimonious - Purulence"
-date: 2021-06-22T16:40:32
-draft: false
-artist: "Acrimonious"
-album: "Purulence"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/acrimonious-purulence.jpg"
-thumbnailImage: "/images/covers/acrimonious-purulence-thumb.jpg"
 actualPrice: $25.00
+album: Purulence
+artist: Acrimonious
+categories:
+- Vinyl
+date: '2021-06-26T15:22:41'
+draft: false
+images:
+- /images/covers/acrimonious-purulence.jpg
 inStock: true
+thumbnailImage: /images/covers/acrimonious-purulence-thumb.jpg
+title: Acrimonious - Purulence
 ---
 
 ## Vinyl

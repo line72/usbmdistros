@@ -1,16 +1,16 @@
 ---
-title: "Múspellzheimr - I & II"
-date: 2021-06-12T14:07:59
-draft: false
-artist: "Múspellzheimr"
-album: "I & II"
-categories:
-    - CD
-images:
-    - "/images/covers/múspellzheimr-i_&_ii.jpg"
-thumbnailImage: "/images/covers/múspellzheimr-i_&_ii-thumb.jpg"
 actualPrice: $17.00
+album: I & II
+artist: "M\xFAspellzheimr"
+categories:
+- CD
+date: '2021-06-26T15:03:08'
+draft: false
+images:
+- "/images/covers/m\xFAspellzheimr-i_&_ii.jpg"
 inStock: true
+thumbnailImage: "/images/covers/m\xFAspellzheimr-i_&_ii-thumb.jpg"
+title: "M\xFAspellzheimr - I & II"
 ---
 
 ## CD

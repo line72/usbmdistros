@@ -1,17 +1,17 @@
 ---
-title: "Wóddréa Mylenstede - Cwylmendéaþ"
-date: 2021-06-22T16:41:07
-draft: false
-artist: "Wóddréa Mylenstede"
-album: "Cwylmendéaþ"
-categories:
-    - Vinyl
-    - CD
-images:
-    - "/images/covers/wóddréa_mylenstede-cwylmendéaþ.jpg"
-thumbnailImage: "/images/covers/wóddréa_mylenstede-cwylmendéaþ-thumb.jpg"
 actualPrice: $15.00 - 25.00
+album: "Cwylmend\xE9a\xFE"
+artist: "W\xF3ddr\xE9a Mylenstede"
+categories:
+- Vinyl
+- CD
+date: '2021-06-26T15:23:18'
+draft: false
+images:
+- "/images/covers/w\xF3ddr\xE9a_mylenstede-cwylmend\xE9a\xFE.jpg"
 inStock: true
+thumbnailImage: "/images/covers/w\xF3ddr\xE9a_mylenstede-cwylmend\xE9a\xFE-thumb.jpg"
+title: "W\xF3ddr\xE9a Mylenstede - Cwylmend\xE9a\xFE"
 ---
 
 ## Vinyl

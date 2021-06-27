@@ -1,16 +1,16 @@
 ---
-title: "Inferno Requiem - Moon"
-date: 2021-06-12T14:07:59
-draft: false
-artist: "Inferno Requiem"
-album: "Moon"
-categories:
-    - CD
-images:
-    - "/images/covers/inferno_requiem-moon.jpg"
-thumbnailImage: "/images/covers/inferno_requiem-moon-thumb.jpg"
 actualPrice: $11.00
+album: Moon
+artist: Inferno Requiem
+categories:
+- CD
+date: '2021-06-26T15:03:08'
+draft: false
+images:
+- /images/covers/inferno_requiem-moon.jpg
 inStock: true
+thumbnailImage: /images/covers/inferno_requiem-moon-thumb.jpg
+title: Inferno Requiem - Moon
 ---
 
 ## CD

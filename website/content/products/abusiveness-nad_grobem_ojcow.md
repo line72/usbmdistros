@@ -1,16 +1,16 @@
 ---
-title: "Abusiveness - Nad Grobem Ojcow"
-date: 2021-06-22T16:40:49
-draft: false
-artist: "Abusiveness"
-album: "Nad Grobem Ojcow"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/abusiveness-nad_grobem_ojcow.jpg"
-thumbnailImage: "/images/covers/abusiveness-nad_grobem_ojcow-thumb.jpg"
 actualPrice: $9.00
+album: Nad Grobem Ojcow
+artist: Abusiveness
+categories:
+- Vinyl
+date: '2021-06-26T15:22:59'
+draft: false
+images:
+- /images/covers/abusiveness-nad_grobem_ojcow.jpg
 inStock: true
+thumbnailImage: /images/covers/abusiveness-nad_grobem_ojcow-thumb.jpg
+title: Abusiveness - Nad Grobem Ojcow
 ---
 
 ## Vinyl

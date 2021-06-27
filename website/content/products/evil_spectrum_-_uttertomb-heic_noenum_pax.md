@@ -1,17 +1,17 @@
 ---
-title: "Evil Spectrum / Uttertomb - Heic Noenum Pax"
-date: 2021-06-22T16:40:57
-draft: false
-artist: "Evil Spectrum / Uttertomb"
-album: "Heic Noenum Pax"
-categories:
-    - Vinyl
-    - CD
-images:
-    - "/images/covers/evil_spectrum_-_uttertomb-heic_noenum_pax.jpg"
-thumbnailImage: "/images/covers/evil_spectrum_-_uttertomb-heic_noenum_pax-thumb.jpg"
 actualPrice: $10.00 - 17.00
+album: Heic Noenum Pax
+artist: Evil Spectrum / Uttertomb
+categories:
+- Vinyl
+- CD
+date: '2021-06-26T15:23:07'
+draft: false
+images:
+- /images/covers/evil_spectrum_-_uttertomb-heic_noenum_pax.jpg
 inStock: true
+thumbnailImage: /images/covers/evil_spectrum_-_uttertomb-heic_noenum_pax-thumb.jpg
+title: Evil Spectrum / Uttertomb - Heic Noenum Pax
 ---
 
 ## Vinyl

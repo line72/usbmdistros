@@ -1,17 +1,17 @@
 ---
-title: "Dikasterion - MMXVIII"
-date: 2021-06-22T16:40:56
-draft: false
-artist: "Dikasterion"
-album: "MMXVIII"
-categories:
-    - Vinyl
-    - CD
-images:
-    - "/images/covers/dikasterion-mmxviii.jpg"
-thumbnailImage: "/images/covers/dikasterion-mmxviii-thumb.jpg"
 actualPrice: $10.00 - 17.00
+album: MMXVIII
+artist: Dikasterion
+categories:
+- Vinyl
+- CD
+date: '2021-06-26T15:23:06'
+draft: false
+images:
+- /images/covers/dikasterion-mmxviii.jpg
 inStock: true
+thumbnailImage: /images/covers/dikasterion-mmxviii-thumb.jpg
+title: Dikasterion - MMXVIII
 ---
 
 ## Vinyl

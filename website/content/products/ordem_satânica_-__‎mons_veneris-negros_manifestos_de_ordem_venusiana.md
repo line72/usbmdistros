@@ -1,16 +1,16 @@
 ---
-title: "Ordem Satânica /  ‎Mons Veneris - Negros Manifestos de Ordem Venusiana"
-date: 2021-06-12T14:07:52
-draft: false
-artist: "Ordem Satânica /  ‎Mons Veneris"
-album: "Negros Manifestos de Ordem Venusiana"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/ordem_satânica_-__‎mons_veneris-negros_manifestos_de_ordem_venusiana.jpg"
-thumbnailImage: "/images/covers/ordem_satânica_-__‎mons_veneris-negros_manifestos_de_ordem_venusiana-thumb.jpg"
 actualPrice: $24.00
+album: Negros Manifestos de Ordem Venusiana
+artist: "Ordem Sat\xE2nica /  \u200EMons Veneris"
+categories:
+- Vinyl
+date: '2021-06-26T15:02:55'
+draft: false
+images:
+- "/images/covers/ordem_sat\xE2nica_-__\u200Emons_veneris-negros_manifestos_de_ordem_venusiana.jpg"
 inStock: true
+thumbnailImage: "/images/covers/ordem_sat\xE2nica_-__\u200Emons_veneris-negros_manifestos_de_ordem_venusiana-thumb.jpg"
+title: "Ordem Sat\xE2nica /  \u200EMons Veneris - Negros Manifestos de Ordem Venusiana"
 ---
 
 ## Vinyl

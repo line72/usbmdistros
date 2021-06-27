@@ -1,16 +1,16 @@
 ---
-title: "Death Scepter - Spiritual Metamorphosis"
-date: 2021-06-22T16:40:35
-draft: false
-artist: "Death Scepter"
-album: "Spiritual Metamorphosis"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/death_scepter-spiritual_metamorphosis.jpg"
-thumbnailImage: "/images/covers/death_scepter-spiritual_metamorphosis-thumb.jpg"
 actualPrice: $25.00
+album: Spiritual Metamorphosis
+artist: Death Scepter
+categories:
+- Vinyl
+date: '2021-06-26T15:22:45'
+draft: false
+images:
+- /images/covers/death_scepter-spiritual_metamorphosis.jpg
 inStock: true
+thumbnailImage: /images/covers/death_scepter-spiritual_metamorphosis-thumb.jpg
+title: Death Scepter - Spiritual Metamorphosis
 ---
 
 ## Vinyl

@@ -1,16 +1,16 @@
 ---
-title: "Heinous - Demo"
-date: 2021-06-22T16:40:38
-draft: false
-artist: "Heinous"
-album: "Demo"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/heinous-demo.jpg"
-thumbnailImage: "/images/covers/heinous-demo-thumb.jpg"
 actualPrice: $17.00
+album: Demo
+artist: Heinous
+categories:
+- Vinyl
+date: '2021-06-26T15:22:48'
+draft: false
+images:
+- /images/covers/heinous-demo.jpg
 inStock: true
+thumbnailImage: /images/covers/heinous-demo-thumb.jpg
+title: Heinous - Demo
 ---
 
 ## Vinyl

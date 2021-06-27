@@ -1,16 +1,16 @@
 ---
-title: "Empyaema - Demo #1 + Demo #2"
-date: 2021-06-13T12:22:19
-draft: false
-artist: "Empyaema"
-album: "Demo #1 + Demo #2"
-categories:
-    - Tape
-images:
-    - "/images/covers/empyaema-demo_#1_+_demo_#2.jpg"
-thumbnailImage: "/images/covers/empyaema-demo_#1_+_demo_#2-thumb.jpg"
 actualPrice: $6.00
+album: 'Demo #1 + Demo #2'
+artist: Empyaema
+categories:
+- Tape
+date: '2021-06-26T15:16:22'
+draft: false
+images:
+- /images/covers/empyaema-demo_#1_+_demo_#2.jpg
 inStock: true
+thumbnailImage: /images/covers/empyaema-demo_#1_+_demo_#2-thumb.jpg
+title: 'Empyaema - Demo #1 + Demo #2'
 ---
 
 ## Tape

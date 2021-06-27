@@ -1,16 +1,16 @@
 ---
-title: "Leather Glove - Perpetual Animation"
-date: 2021-06-13T12:22:19
-draft: false
-artist: "Leather Glove"
-album: "Perpetual Animation"
-categories:
-    - Tape
-images:
-    - "/images/covers/leather_glove-perpetual_animation.jpg"
-thumbnailImage: "/images/covers/leather_glove-perpetual_animation-thumb.jpg"
 actualPrice: $6.50
+album: Perpetual Animation
+artist: Leather Glove
+categories:
+- Tape
+date: '2021-06-26T15:16:22'
+draft: false
+images:
+- /images/covers/leather_glove-perpetual_animation.jpg
 inStock: true
+thumbnailImage: /images/covers/leather_glove-perpetual_animation-thumb.jpg
+title: Leather Glove - Perpetual Animation
 ---
 
 ## Tape

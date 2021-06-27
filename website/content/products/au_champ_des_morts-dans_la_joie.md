@@ -1,17 +1,17 @@
 ---
-title: "Au Champ Des Morts - Dans La Joie"
-date: 2021-06-12T14:11:52
-draft: false
-artist: "Au Champ Des Morts"
-album: "Dans La Joie"
-categories:
-    - Vinyl
-    - CD
-images:
-    - "/images/covers/au_champ_des_morts-dans_la_joie.jpg"
-thumbnailImage: "/images/covers/au_champ_des_morts-dans_la_joie-thumb.jpg"
 actualPrice: $9.99 - 30.99
+album: Dans La Joie
+artist: Au Champ Des Morts
+categories:
+- Vinyl
+- CD
+date: '2021-06-26T15:15:51'
+draft: false
+images:
+- /images/covers/au_champ_des_morts-dans_la_joie.jpg
 inStock: true
+thumbnailImage: /images/covers/au_champ_des_morts-dans_la_joie-thumb.jpg
+title: Au Champ Des Morts - Dans La Joie
 ---
 
 ## Vinyl

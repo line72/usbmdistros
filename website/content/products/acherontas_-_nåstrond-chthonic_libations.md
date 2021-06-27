@@ -1,16 +1,16 @@
 ---
-title: "Acherontas / Nåstrond - Chthonic Libations"
-date: 2021-06-22T16:40:32
-draft: false
-artist: "Acherontas / Nåstrond"
-album: "Chthonic Libations"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/acherontas_-_nåstrond-chthonic_libations.jpg"
-thumbnailImage: "/images/covers/acherontas_-_nåstrond-chthonic_libations-thumb.jpg"
 actualPrice: $25.00
+album: Chthonic Libations
+artist: "Acherontas / N\xE5strond"
+categories:
+- Vinyl
+date: '2021-06-26T15:22:41'
+draft: false
+images:
+- "/images/covers/acherontas_-_n\xE5strond-chthonic_libations.jpg"
 inStock: true
+thumbnailImage: "/images/covers/acherontas_-_n\xE5strond-chthonic_libations-thumb.jpg"
+title: "Acherontas / N\xE5strond - Chthonic Libations"
 ---
 
 ## Vinyl

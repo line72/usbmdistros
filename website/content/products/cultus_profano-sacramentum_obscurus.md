@@ -1,16 +1,16 @@
 ---
-title: "Cultus Profano - Sacramentum Obscurus"
-date: 2021-06-12T14:11:53
-draft: false
-artist: "Cultus Profano"
-album: "Sacramentum Obscurus"
-categories:
-    - CD
-images:
-    - "/images/covers/cultus_profano-sacramentum_obscurus.jpg"
-thumbnailImage: "/images/covers/cultus_profano-sacramentum_obscurus-thumb.jpg"
 actualPrice: $4.99
+album: Sacramentum Obscurus
+artist: Cultus Profano
+categories:
+- CD
+date: '2021-06-26T15:15:52'
+draft: false
+images:
+- /images/covers/cultus_profano-sacramentum_obscurus.jpg
 inStock: true
+thumbnailImage: /images/covers/cultus_profano-sacramentum_obscurus-thumb.jpg
+title: Cultus Profano - Sacramentum Obscurus
 ---
 
 ## CD

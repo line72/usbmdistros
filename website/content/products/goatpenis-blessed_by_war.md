@@ -1,16 +1,16 @@
 ---
-title: "Goatpenis - Blessed by War"
-date: 2021-06-22T16:40:38
-draft: false
-artist: "Goatpenis"
-album: "Blessed by War"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/goatpenis-blessed_by_war.jpg"
-thumbnailImage: "/images/covers/goatpenis-blessed_by_war-thumb.jpg"
 actualPrice: $17.00
+album: Blessed by War
+artist: Goatpenis
+categories:
+- Vinyl
+date: '2021-06-26T15:22:48'
+draft: false
+images:
+- /images/covers/goatpenis-blessed_by_war.jpg
 inStock: true
+thumbnailImage: /images/covers/goatpenis-blessed_by_war-thumb.jpg
+title: Goatpenis - Blessed by War
 ---
 
 ## Vinyl

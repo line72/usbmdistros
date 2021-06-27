@@ -1,16 +1,16 @@
 ---
-title: "Atsushi Yokozeki - Jet Finger"
-date: 2021-06-22T16:40:33
-draft: false
-artist: "Atsushi Yokozeki"
-album: "Jet Finger"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/atsushi_yokozeki-jet_finger.jpg"
-thumbnailImage: "/images/covers/atsushi_yokozeki-jet_finger-thumb.jpg"
 actualPrice: $20.00
+album: Jet Finger
+artist: Atsushi Yokozeki
+categories:
+- Vinyl
+date: '2021-06-26T15:22:42'
+draft: false
+images:
+- /images/covers/atsushi_yokozeki-jet_finger.jpg
 inStock: true
+thumbnailImage: /images/covers/atsushi_yokozeki-jet_finger-thumb.jpg
+title: Atsushi Yokozeki - Jet Finger
 ---
 
 ## Vinyl

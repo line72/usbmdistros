@@ -1,16 +1,16 @@
 ---
-title: "Intolerance - Laments From The Dripstone Cave"
-date: 2021-06-13T12:22:19
-draft: false
-artist: "Intolerance"
-album: "Laments From The Dripstone Cave"
-categories:
-    - CD
-images:
-    - "/images/covers/intolerance-laments_from_the_dripstone_cave.jpg"
-thumbnailImage: "/images/covers/intolerance-laments_from_the_dripstone_cave-thumb.jpg"
 actualPrice: $10.00
+album: Laments From The Dripstone Cave
+artist: Intolerance
+categories:
+- CD
+date: '2021-06-26T15:16:22'
+draft: false
+images:
+- /images/covers/intolerance-laments_from_the_dripstone_cave.jpg
 inStock: true
+thumbnailImage: /images/covers/intolerance-laments_from_the_dripstone_cave-thumb.jpg
+title: Intolerance - Laments From The Dripstone Cave
 ---
 
 ## CD

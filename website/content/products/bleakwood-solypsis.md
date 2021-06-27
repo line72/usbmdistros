@@ -1,16 +1,16 @@
 ---
-title: "Bleakwood - Solypsis"
-date: 2021-06-22T16:40:34
-draft: false
-artist: "Bleakwood"
-album: "Solypsis"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/bleakwood-solypsis.jpg"
-thumbnailImage: "/images/covers/bleakwood-solypsis-thumb.jpg"
 actualPrice: $10.00
+album: Solypsis
+artist: Bleakwood
+categories:
+- Vinyl
+date: '2021-06-26T15:22:43'
+draft: false
+images:
+- /images/covers/bleakwood-solypsis.jpg
 inStock: true
+thumbnailImage: /images/covers/bleakwood-solypsis-thumb.jpg
+title: Bleakwood - Solypsis
 ---
 
 ## Vinyl

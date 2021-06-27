@@ -1,16 +1,16 @@
 ---
-title: "Sepulcrum - Corpse Dividing Holes"
-date: 2021-06-13T12:22:21
-draft: false
-artist: "Sepulcrum"
-album: "Corpse Dividing Holes"
-categories:
-    - Tape
-images:
-    - "/images/covers/sepulcrum-corpse_dividing_holes.jpg"
-thumbnailImage: "/images/covers/sepulcrum-corpse_dividing_holes-thumb.jpg"
 actualPrice: $8.00
+album: Corpse Dividing Holes
+artist: Sepulcrum
+categories:
+- Tape
+date: '2021-06-26T15:16:23'
+draft: false
+images:
+- /images/covers/sepulcrum-corpse_dividing_holes.jpg
 inStock: true
+thumbnailImage: /images/covers/sepulcrum-corpse_dividing_holes-thumb.jpg
+title: Sepulcrum - Corpse Dividing Holes
 ---
 
 ## Tape

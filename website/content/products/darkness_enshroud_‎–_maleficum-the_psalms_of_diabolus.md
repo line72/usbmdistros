@@ -1,16 +1,16 @@
 ---
-title: "Darkness Enshroud ‎– MALEFICUM - The Psalms of Diabolus"
-date: 2021-06-12T14:07:59
-draft: false
-artist: "Darkness Enshroud ‎– MALEFICUM"
-album: "The Psalms of Diabolus"
-categories:
-    - CD
-images:
-    - "/images/covers/darkness_enshroud_‎–_maleficum-the_psalms_of_diabolus.jpg"
-thumbnailImage: "/images/covers/darkness_enshroud_‎–_maleficum-the_psalms_of_diabolus-thumb.jpg"
 actualPrice: $13.00
+album: The Psalms of Diabolus
+artist: "Darkness Enshroud \u200E\u2013 MALEFICUM"
+categories:
+- CD
+date: '2021-06-26T15:03:08'
+draft: false
+images:
+- "/images/covers/darkness_enshroud_\u200E\u2013_maleficum-the_psalms_of_diabolus.jpg"
 inStock: true
+thumbnailImage: "/images/covers/darkness_enshroud_\u200E\u2013_maleficum-the_psalms_of_diabolus-thumb.jpg"
+title: "Darkness Enshroud \u200E\u2013 MALEFICUM - The Psalms of Diabolus"
 ---
 
 ## CD

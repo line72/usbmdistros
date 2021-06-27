@@ -1,18 +1,18 @@
 ---
-title: "Necroracle - Mmxviii"
-date: 2021-06-22T16:41:12
-draft: false
-artist: "Necroracle"
-album: "Mmxviii"
-categories:
-    - Tape
-    - Cassette
-    - CD
-images:
-    - "/images/covers/necroracle-mmxviii.jpg"
-thumbnailImage: "/images/covers/necroracle-mmxviii-thumb.jpg"
 actualPrice: $5.50 - 10.00
+album: Mmxviii
+artist: Necroracle
+categories:
+- Tape
+- Cassette
+- CD
+date: '2021-06-26T15:23:22'
+draft: false
+images:
+- /images/covers/necroracle-mmxviii.jpg
 inStock: true
+thumbnailImage: /images/covers/necroracle-mmxviii-thumb.jpg
+title: Necroracle - Mmxviii
 ---
 
 ## Tape

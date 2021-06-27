@@ -1,16 +1,16 @@
 ---
-title: "Manes - Slow Motion Death Sequence"
-date: 2021-06-12T14:11:53
-draft: false
-artist: "Manes"
-album: "Slow Motion Death Sequence"
-categories:
-    - CD
-images:
-    - "/images/covers/manes-slow_motion_death_sequence.jpg"
-thumbnailImage: "/images/covers/manes-slow_motion_death_sequence-thumb.jpg"
 actualPrice: $9.99
+album: Slow Motion Death Sequence
+artist: Manes
+categories:
+- CD
+date: '2021-06-26T15:15:52'
+draft: false
+images:
+- /images/covers/manes-slow_motion_death_sequence.jpg
 inStock: true
+thumbnailImage: /images/covers/manes-slow_motion_death_sequence-thumb.jpg
+title: Manes - Slow Motion Death Sequence
 ---
 
 ## CD

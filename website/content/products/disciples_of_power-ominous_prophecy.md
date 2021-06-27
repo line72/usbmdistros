@@ -1,16 +1,16 @@
 ---
-title: "Disciples of Power - Ominous Prophecy"
-date: 2021-06-22T16:40:36
-draft: false
-artist: "Disciples of Power"
-album: "Ominous Prophecy"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/disciples_of_power-ominous_prophecy.jpg"
-thumbnailImage: "/images/covers/disciples_of_power-ominous_prophecy-thumb.jpg"
 actualPrice: $17.00
+album: Ominous Prophecy
+artist: Disciples of Power
+categories:
+- Vinyl
+date: '2021-06-26T15:22:45'
+draft: false
+images:
+- /images/covers/disciples_of_power-ominous_prophecy.jpg
 inStock: true
+thumbnailImage: /images/covers/disciples_of_power-ominous_prophecy-thumb.jpg
+title: Disciples of Power - Ominous Prophecy
 ---
 
 ## Vinyl

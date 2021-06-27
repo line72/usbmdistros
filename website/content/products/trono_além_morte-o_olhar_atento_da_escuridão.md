@@ -1,16 +1,17 @@
 ---
-title: "Trono Além Morte - O Olhar Atento da Escuridão"
-date: 2021-06-12T14:07:52
-draft: false
-artist: "Trono Além Morte"
-album: "O Olhar Atento da Escuridão"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/trono_além_morte-o_olhar_atento_da_escuridão.jpg"
-thumbnailImage: "/images/covers/trono_além_morte-o_olhar_atento_da_escuridão-thumb.jpg"
 actualPrice: $23.00
+album: "O Olhar Atento da Escurid\xE3o"
+artist: "Trono Al\xE9m Morte"
+categories:
+- Vinyl
+date: '2021-06-26T15:02:54'
+draft: false
+images:
+- "/images/covers/trono_al\xE9m_morte-o_olhar_atento_da_escurid\xE3o.jpg"
 inStock: true
+thumbnailImage: "/images/covers/trono_al\xE9m_morte-o_olhar_atento_da_escurid\xE3\
+  o-thumb.jpg"
+title: "Trono Al\xE9m Morte - O Olhar Atento da Escurid\xE3o"
 ---
 
 ## Vinyl

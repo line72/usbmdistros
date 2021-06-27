@@ -1,16 +1,16 @@
 ---
-title: "To The Dogs - Demo"
-date: 2021-06-13T12:22:18
-draft: false
-artist: "To The Dogs"
-album: "Demo"
-categories:
-    - Tape
-images:
-    - "/images/covers/to_the_dogs-demo.jpg"
-thumbnailImage: "/images/covers/to_the_dogs-demo-thumb.jpg"
 actualPrice: $7.00
+album: Demo
+artist: To The Dogs
+categories:
+- Tape
+date: '2021-06-26T15:16:21'
+draft: false
+images:
+- /images/covers/to_the_dogs-demo.jpg
 inStock: true
+thumbnailImage: /images/covers/to_the_dogs-demo-thumb.jpg
+title: To The Dogs - Demo
 ---
 
 ## Tape

@@ -1,17 +1,17 @@
 ---
-title: "Ascendency - Birth Of An Eternal Empire"
-date: 2021-06-22T16:40:33
-draft: false
-artist: "Ascendency"
-album: "Birth Of An Eternal Empire"
-categories:
-    - Vinyl
-    - CD
-images:
-    - "/images/covers/ascendency-birth_of_an_eternal_empire.jpg"
-thumbnailImage: "/images/covers/ascendency-birth_of_an_eternal_empire-thumb.jpg"
 actualPrice: $8.00 - 20.00
+album: Birth Of An Eternal Empire
+artist: Ascendency
+categories:
+- Vinyl
+- CD
+date: '2021-06-26T15:22:42'
+draft: false
+images:
+- /images/covers/ascendency-birth_of_an_eternal_empire.jpg
 inStock: true
+thumbnailImage: /images/covers/ascendency-birth_of_an_eternal_empire-thumb.jpg
+title: Ascendency - Birth Of An Eternal Empire
 ---
 
 ## Vinyl

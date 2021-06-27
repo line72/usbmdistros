@@ -1,16 +1,16 @@
 ---
-title: "Lucifera - La Cacería De Brujas"
-date: 2021-06-22T16:40:40
-draft: false
-artist: "Lucifera"
-album: "La Cacería De Brujas"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/lucifera-la_cacería_de_brujas.jpg"
-thumbnailImage: "/images/covers/lucifera-la_cacería_de_brujas-thumb.jpg"
 actualPrice: $17.00
+album: "La Cacer\xEDa De Brujas"
+artist: Lucifera
+categories:
+- Vinyl
+date: '2021-06-26T15:22:50'
+draft: false
+images:
+- "/images/covers/lucifera-la_cacer\xEDa_de_brujas.jpg"
 inStock: true
+thumbnailImage: "/images/covers/lucifera-la_cacer\xEDa_de_brujas-thumb.jpg"
+title: "Lucifera - La Cacer\xEDa De Brujas"
 ---
 
 ## Vinyl

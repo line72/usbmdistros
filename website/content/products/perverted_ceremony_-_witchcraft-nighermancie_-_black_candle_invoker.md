@@ -1,18 +1,18 @@
 ---
-title: "Perverted Ceremony / Witchcraft - Nighermancie / Black Candle Invoker"
-date: 2021-06-22T16:41:12
-draft: false
-artist: "Perverted Ceremony / Witchcraft"
-album: "Nighermancie / Black Candle Invoker"
-categories:
-    - Vinyl
-    - Cassette
-    - CD
-images:
-    - "/images/covers/perverted_ceremony_-_witchcraft-nighermancie_-_black_candle_invoker.jpg"
-thumbnailImage: "/images/covers/perverted_ceremony_-_witchcraft-nighermancie_-_black_candle_invoker-thumb.jpg"
 actualPrice: $7.00 - 20.00
+album: Nighermancie / Black Candle Invoker
+artist: Perverted Ceremony / Witchcraft
+categories:
+- Vinyl
+- Cassette
+- CD
+date: '2021-06-26T15:23:22'
+draft: false
+images:
+- /images/covers/perverted_ceremony_-_witchcraft-nighermancie_-_black_candle_invoker.jpg
 inStock: true
+thumbnailImage: /images/covers/perverted_ceremony_-_witchcraft-nighermancie_-_black_candle_invoker-thumb.jpg
+title: Perverted Ceremony / Witchcraft - Nighermancie / Black Candle Invoker
 ---
 
 ## Vinyl

@@ -1,16 +1,16 @@
 ---
-title: "Duellist & Kenny Campbell - Addiction Machine Ep"
-date: 2021-06-13T12:22:20
-draft: false
-artist: "Duellist & Kenny Campbell"
-album: "Addiction Machine Ep"
-categories:
-    - Tape
-images:
-    - "/images/covers/duellist_&_kenny_campbell-addiction_machine_ep.jpg"
-thumbnailImage: "/images/covers/duellist_&_kenny_campbell-addiction_machine_ep-thumb.jpg"
 actualPrice: $6.50
+album: Addiction Machine Ep
+artist: Duellist & Kenny Campbell
+categories:
+- Tape
+date: '2021-06-26T15:16:23'
+draft: false
+images:
+- /images/covers/duellist_&_kenny_campbell-addiction_machine_ep.jpg
 inStock: true
+thumbnailImage: /images/covers/duellist_&_kenny_campbell-addiction_machine_ep-thumb.jpg
+title: Duellist & Kenny Campbell - Addiction Machine Ep
 ---
 
 ## Tape

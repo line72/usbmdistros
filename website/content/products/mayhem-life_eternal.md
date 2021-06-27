@@ -1,16 +1,16 @@
 ---
-title: "MAYHEM - Life Eternal"
-date: 2021-06-22T16:40:41
-draft: false
-artist: "MAYHEM"
-album: "Life Eternal"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/mayhem-life_eternal.jpg"
-thumbnailImage: "/images/covers/mayhem-life_eternal-thumb.jpg"
 actualPrice: $25.00
+album: Life Eternal
+artist: Mayhem
+categories:
+- Vinyl
+date: '2021-06-26T15:22:51'
+draft: false
+images:
+- /images/covers/mayhem-life_eternal.jpg
 inStock: true
+thumbnailImage: /images/covers/mayhem-life_eternal-thumb.jpg
+title: Mayhem - Life Eternal
 ---
 
 ## Vinyl

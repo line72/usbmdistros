@@ -1,16 +1,16 @@
 ---
-title: "Dødsengel - Interequinox"
-date: 2021-06-12T14:07:52
-draft: false
-artist: "Dødsengel"
-album: "Interequinox"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/dødsengel-interequinox.jpg"
-thumbnailImage: "/images/covers/dødsengel-interequinox-thumb.jpg"
 actualPrice: $26.00
+album: Interequinox
+artist: "D\xF8dsengel"
+categories:
+- Vinyl
+date: '2021-06-26T15:02:55'
+draft: false
+images:
+- "/images/covers/d\xF8dsengel-interequinox.jpg"
 inStock: true
+thumbnailImage: "/images/covers/d\xF8dsengel-interequinox-thumb.jpg"
+title: "D\xF8dsengel - Interequinox"
 ---
 
 ## Vinyl

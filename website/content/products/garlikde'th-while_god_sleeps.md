@@ -1,16 +1,16 @@
 ---
-title: "Garlikde'th - While God Sleeps"
-date: 2021-06-22T16:40:38
-draft: false
-artist: "Garlikde'th"
-album: "While God Sleeps"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/garlikde'th-while_god_sleeps.jpg"
-thumbnailImage: "/images/covers/garlikde'th-while_god_sleeps-thumb.jpg"
 actualPrice: $20.00
+album: While God Sleeps
+artist: Garlikde'th
+categories:
+- Vinyl
+date: '2021-06-26T15:22:47'
+draft: false
+images:
+- /images/covers/garlikde'th-while_god_sleeps.jpg
 inStock: true
+thumbnailImage: /images/covers/garlikde'th-while_god_sleeps-thumb.jpg
+title: Garlikde'th - While God Sleeps
 ---
 
 ## Vinyl

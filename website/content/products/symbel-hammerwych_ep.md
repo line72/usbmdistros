@@ -1,16 +1,16 @@
 ---
-title: "Symbel - Hammerwych Ep"
-date: 2021-06-13T12:22:20
-draft: false
-artist: "Symbel"
-album: "Hammerwych Ep"
-categories:
-    - Tape
-images:
-    - "/images/covers/symbel-hammerwych_ep.jpg"
-thumbnailImage: "/images/covers/symbel-hammerwych_ep-thumb.jpg"
 actualPrice: $8.00
+album: Hammerwych Ep
+artist: Symbel
+categories:
+- Tape
+date: '2021-06-26T15:16:23'
+draft: false
+images:
+- /images/covers/symbel-hammerwych_ep.jpg
 inStock: true
+thumbnailImage: /images/covers/symbel-hammerwych_ep-thumb.jpg
+title: Symbel - Hammerwych Ep
 ---
 
 ## Tape

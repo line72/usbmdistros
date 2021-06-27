@@ -1,16 +1,16 @@
 ---
-title: "Beast of Revelation - Beast of Revelation"
-date: 2021-06-22T16:40:33
-draft: false
-artist: "Beast of Revelation"
-album: "Beast of Revelation"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/beast_of_revelation-beast_of_revelation.jpg"
-thumbnailImage: "/images/covers/beast_of_revelation-beast_of_revelation-thumb.jpg"
 actualPrice: $17.00
+album: Beast of Revelation
+artist: Beast of Revelation
+categories:
+- Vinyl
+date: '2021-06-26T15:22:43'
+draft: false
+images:
+- /images/covers/beast_of_revelation-beast_of_revelation.jpg
 inStock: true
+thumbnailImage: /images/covers/beast_of_revelation-beast_of_revelation-thumb.jpg
+title: Beast of Revelation - Beast of Revelation
 ---
 
 ## Vinyl

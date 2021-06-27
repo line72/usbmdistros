@@ -1,16 +1,16 @@
 ---
-title: "Marduk - Opus Nocturne"
-date: 2021-06-22T16:40:41
-draft: false
-artist: "Marduk"
-album: "Opus Nocturne"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/marduk-opus_nocturne.jpg"
-thumbnailImage: "/images/covers/marduk-opus_nocturne-thumb.jpg"
 actualPrice: $25.00 - 26.00
+album: Opus Nocturne
+artist: Marduk
+categories:
+- Vinyl
+date: '2021-06-26T15:22:51'
+draft: false
+images:
+- /images/covers/marduk-opus_nocturne.jpg
 inStock: true
+thumbnailImage: /images/covers/marduk-opus_nocturne-thumb.jpg
+title: Marduk - Opus Nocturne
 ---
 
 ## Vinyl

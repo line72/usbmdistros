@@ -1,16 +1,16 @@
 ---
-title: "Gjendød - Krigsdøger"
-date: 2021-06-12T14:07:51
-draft: false
-artist: "Gjendød"
-album: "Krigsdøger"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/gjendød-krigsdøger.jpg"
-thumbnailImage: "/images/covers/gjendød-krigsdøger-thumb.jpg"
 actualPrice: $25.00
+album: "Krigsd\xF8ger"
+artist: "Gjend\xF8d"
+categories:
+- Vinyl
+date: '2021-06-26T15:02:53'
+draft: false
+images:
+- "/images/covers/gjend\xF8d-krigsd\xF8ger.jpg"
 inStock: true
+thumbnailImage: "/images/covers/gjend\xF8d-krigsd\xF8ger-thumb.jpg"
+title: "Gjend\xF8d - Krigsd\xF8ger"
 ---
 
 ## Vinyl

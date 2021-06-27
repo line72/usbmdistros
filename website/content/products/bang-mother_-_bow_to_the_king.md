@@ -1,17 +1,17 @@
 ---
-title: "Bang - Mother / Bow to the King"
-date: 2021-06-22T16:40:53
-draft: false
-artist: "Bang"
-album: "Mother / Bow to the King"
-categories:
-    - Vinyl
-    - CD
-images:
-    - "/images/covers/bang-mother_-_bow_to_the_king.jpg"
-thumbnailImage: "/images/covers/bang-mother_-_bow_to_the_king-thumb.jpg"
 actualPrice: $12.00 - 25.00
+album: Mother / Bow to the King
+artist: Bang
+categories:
+- Vinyl
+- CD
+date: '2021-06-26T15:23:03'
+draft: false
+images:
+- /images/covers/bang-mother_-_bow_to_the_king.jpg
 inStock: true
+thumbnailImage: /images/covers/bang-mother_-_bow_to_the_king-thumb.jpg
+title: Bang - Mother / Bow to the King
 ---
 
 ## Vinyl

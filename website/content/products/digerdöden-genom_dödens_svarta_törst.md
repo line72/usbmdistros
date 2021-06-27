@@ -1,17 +1,17 @@
 ---
-title: "Digerdöden - Genom Dödens Svarta Törst"
-date: 2021-06-22T16:40:36
-draft: false
-artist: "Digerdöden"
-album: "Genom Dödens Svarta Törst"
-categories:
-    - Vinyl
-    - CD
-images:
-    - "/images/covers/digerdöden-genom_dödens_svarta_törst.jpg"
-thumbnailImage: "/images/covers/digerdöden-genom_dödens_svarta_törst-thumb.jpg"
 actualPrice: $15.00 - 25.00
+album: "Genom D\xF6dens Svarta T\xF6rst"
+artist: "Digerd\xF6den"
+categories:
+- Vinyl
+- CD
+date: '2021-06-26T15:22:45'
+draft: false
+images:
+- "/images/covers/digerd\xF6den-genom_d\xF6dens_svarta_t\xF6rst.jpg"
 inStock: true
+thumbnailImage: "/images/covers/digerd\xF6den-genom_d\xF6dens_svarta_t\xF6rst-thumb.jpg"
+title: "Digerd\xF6den - Genom D\xF6dens Svarta T\xF6rst"
 ---
 
 ## Vinyl

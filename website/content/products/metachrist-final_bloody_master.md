@@ -1,16 +1,16 @@
 ---
-title: "Metachrist - Final Bloody Master"
-date: 2021-06-13T12:22:22
-draft: false
-artist: "Metachrist"
-album: "Final Bloody Master"
-categories:
-    - Tape
-images:
-    - "/images/covers/metachrist-final_bloody_master.jpg"
-thumbnailImage: "/images/covers/metachrist-final_bloody_master-thumb.jpg"
 actualPrice: $6.00
+album: Final Bloody Master
+artist: Metachrist
+categories:
+- Tape
+date: '2021-06-26T15:16:24'
+draft: false
+images:
+- /images/covers/metachrist-final_bloody_master.jpg
 inStock: true
+thumbnailImage: /images/covers/metachrist-final_bloody_master-thumb.jpg
+title: Metachrist - Final Bloody Master
 ---
 
 ## Tape

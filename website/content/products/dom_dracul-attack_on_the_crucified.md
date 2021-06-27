@@ -1,16 +1,16 @@
 ---
-title: "Dom Dracul - Attack On The Crucified"
-date: 2021-06-22T16:40:36
-draft: false
-artist: "Dom Dracul"
-album: "Attack On The Crucified"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/dom_dracul-attack_on_the_crucified.jpg"
-thumbnailImage: "/images/covers/dom_dracul-attack_on_the_crucified-thumb.jpg"
 actualPrice: $17.00
+album: Attack On The Crucified
+artist: Dom Dracul
+categories:
+- Vinyl
+date: '2021-06-26T15:22:46'
+draft: false
+images:
+- /images/covers/dom_dracul-attack_on_the_crucified.jpg
 inStock: true
+thumbnailImage: /images/covers/dom_dracul-attack_on_the_crucified-thumb.jpg
+title: Dom Dracul - Attack On The Crucified
 ---
 
 ## Vinyl

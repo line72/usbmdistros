@@ -1,16 +1,16 @@
 ---
-title: "Thermonuclear Devastation - Worshipper Of Darkness"
-date: 2021-06-13T12:22:19
-draft: false
-artist: "Thermonuclear Devastation"
-album: "Worshipper Of Darkness"
-categories:
-    - Tape
-images:
-    - "/images/covers/thermonuclear_devastation-worshipper_of_darkness.jpg"
-thumbnailImage: "/images/covers/thermonuclear_devastation-worshipper_of_darkness-thumb.jpg"
 actualPrice: $6.50
+album: Worshipper Of Darkness
+artist: Thermonuclear Devastation
+categories:
+- Tape
+date: '2021-06-26T15:16:22'
+draft: false
+images:
+- /images/covers/thermonuclear_devastation-worshipper_of_darkness.jpg
 inStock: true
+thumbnailImage: /images/covers/thermonuclear_devastation-worshipper_of_darkness-thumb.jpg
+title: Thermonuclear Devastation - Worshipper Of Darkness
 ---
 
 ## Tape

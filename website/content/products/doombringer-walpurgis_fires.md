@@ -1,17 +1,17 @@
 ---
-title: "Doombringer - Walpurgis Fires"
-date: 2021-06-22T16:40:56
-draft: false
-artist: "Doombringer"
-album: "Walpurgis Fires"
-categories:
-    - Vinyl
-    - CD
-images:
-    - "/images/covers/doombringer-walpurgis_fires.jpg"
-thumbnailImage: "/images/covers/doombringer-walpurgis_fires-thumb.jpg"
 actualPrice: $10.00 - 25.00
+album: Walpurgis Fires
+artist: Doombringer
+categories:
+- Vinyl
+- CD
+date: '2021-06-26T15:23:06'
+draft: false
+images:
+- /images/covers/doombringer-walpurgis_fires.jpg
 inStock: true
+thumbnailImage: /images/covers/doombringer-walpurgis_fires-thumb.jpg
+title: Doombringer - Walpurgis Fires
 ---
 
 ## Vinyl

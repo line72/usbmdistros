@@ -1,16 +1,16 @@
 ---
-title: "Graveland - Impaler's Wolves"
-date: 2021-06-12T14:07:58
-draft: false
-artist: "Graveland"
-album: "Impaler's Wolves"
-categories:
-    - CD
-images:
-    - "/images/covers/graveland-impaler's_wolves.jpg"
-thumbnailImage: "/images/covers/graveland-impaler's_wolves-thumb.jpg"
 actualPrice: $15.00
+album: Impaler's Wolves
+artist: Graveland
+categories:
+- CD
+date: '2021-06-26T15:03:07'
+draft: false
+images:
+- /images/covers/graveland-impaler's_wolves.jpg
 inStock: true
+thumbnailImage: /images/covers/graveland-impaler's_wolves-thumb.jpg
+title: Graveland - Impaler's Wolves
 ---
 
 ## CD

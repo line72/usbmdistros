@@ -1,16 +1,16 @@
 ---
-title: "Kūka'Ilimoku / Ebony Pendant - Split"
-date: 2021-06-13T12:22:18
-draft: false
-artist: "Kūka'Ilimoku / Ebony Pendant"
-album: "Split"
-categories:
-    - Tape
-images:
-    - "/images/covers/kūka'ilimoku_-_ebony_pendant-split.jpg"
-thumbnailImage: "/images/covers/kūka'ilimoku_-_ebony_pendant-split-thumb.jpg"
 actualPrice: $8.00
+album: Split
+artist: "K\u016Bka'Ilimoku / Ebony Pendant"
+categories:
+- Tape
+date: '2021-06-26T15:16:21'
+draft: false
+images:
+- "/images/covers/k\u016Bka'ilimoku_-_ebony_pendant-split.jpg"
 inStock: true
+thumbnailImage: "/images/covers/k\u016Bka'ilimoku_-_ebony_pendant-split-thumb.jpg"
+title: "K\u016Bka'Ilimoku / Ebony Pendant - Split"
 ---
 
 ## Tape

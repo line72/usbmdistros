@@ -1,16 +1,16 @@
 ---
-title: "FCDN Tormentor - Dungeon Days 1982 - 1985"
-date: 2021-06-22T16:40:37
-draft: false
-artist: "FCDN Tormentor"
-album: "Dungeon Days 1982 - 1985"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/fcdn_tormentor-dungeon_days_1982_-_1985.jpg"
-thumbnailImage: "/images/covers/fcdn_tormentor-dungeon_days_1982_-_1985-thumb.jpg"
 actualPrice: $22.00
+album: Dungeon Days 1982 - 1985
+artist: FCDN Tormentor
+categories:
+- Vinyl
+date: '2021-06-26T15:22:47'
+draft: false
+images:
+- /images/covers/fcdn_tormentor-dungeon_days_1982_-_1985.jpg
 inStock: true
+thumbnailImage: /images/covers/fcdn_tormentor-dungeon_days_1982_-_1985-thumb.jpg
+title: FCDN Tormentor - Dungeon Days 1982 - 1985
 ---
 
 ## Vinyl

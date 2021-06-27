@@ -1,17 +1,17 @@
 ---
-title: "Batushka - Hospodi"
-date: 2021-06-22T16:40:53
-draft: false
-artist: "Batushka"
-album: "Hospodi"
-categories:
-    - Vinyl
-    - CD
-images:
-    - "/images/covers/batushka-hospodi.jpg"
-thumbnailImage: "/images/covers/batushka-hospodi-thumb.jpg"
 actualPrice: $10.00 - 20.00
+album: Hospodi
+artist: Batushka
+categories:
+- Vinyl
+- CD
+date: '2021-06-26T15:23:03'
+draft: false
+images:
+- /images/covers/batushka-hospodi.jpg
 inStock: true
+thumbnailImage: /images/covers/batushka-hospodi-thumb.jpg
+title: Batushka - Hospodi
 ---
 
 ## Vinyl

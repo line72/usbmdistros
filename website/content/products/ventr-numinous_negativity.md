@@ -1,16 +1,16 @@
 ---
-title: "Ventr - Numinous Negativity"
-date: 2021-06-12T14:07:53
-draft: false
-artist: "Ventr"
-album: "Numinous Negativity"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/ventr-numinous_negativity.jpg"
-thumbnailImage: "/images/covers/ventr-numinous_negativity-thumb.jpg"
 actualPrice: $23.00
+album: Numinous Negativity
+artist: Ventr
+categories:
+- Vinyl
+date: '2021-06-26T15:02:56'
+draft: false
+images:
+- /images/covers/ventr-numinous_negativity.jpg
 inStock: true
+thumbnailImage: /images/covers/ventr-numinous_negativity-thumb.jpg
+title: Ventr - Numinous Negativity
 ---
 
 ## Vinyl

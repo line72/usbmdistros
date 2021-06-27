@@ -1,16 +1,16 @@
 ---
-title: "Martire - Martire"
-date: 2021-06-22T16:40:41
-draft: false
-artist: "Martire"
-album: "Martire"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/martire-martire.jpg"
-thumbnailImage: "/images/covers/martire-martire-thumb.jpg"
 actualPrice: $17.00 - 25.00
+album: Martire
+artist: Martire
+categories:
+- Vinyl
+date: '2021-06-26T15:22:51'
+draft: false
+images:
+- /images/covers/martire-martire.jpg
 inStock: true
+thumbnailImage: /images/covers/martire-martire-thumb.jpg
+title: Martire - Martire
 ---
 
 ## Vinyl

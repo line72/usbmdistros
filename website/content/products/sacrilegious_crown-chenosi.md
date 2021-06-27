@@ -1,16 +1,16 @@
 ---
-title: "Sacrilegious Crown - Chenosi"
-date: 2021-06-12T14:07:52
-draft: false
-artist: "Sacrilegious Crown"
-album: "Chenosi"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/sacrilegious_crown-chenosi.jpg"
-thumbnailImage: "/images/covers/sacrilegious_crown-chenosi-thumb.jpg"
 actualPrice: $25.00
+album: Chenosi
+artist: Sacrilegious Crown
+categories:
+- Vinyl
+date: '2021-06-26T15:02:55'
+draft: false
+images:
+- /images/covers/sacrilegious_crown-chenosi.jpg
 inStock: true
+thumbnailImage: /images/covers/sacrilegious_crown-chenosi-thumb.jpg
+title: Sacrilegious Crown - Chenosi
 ---
 
 ## Vinyl

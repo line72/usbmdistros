@@ -1,16 +1,16 @@
 ---
-title: "Terra Tenebrosa - The Tunnels"
-date: 2021-06-12T14:11:53
-draft: false
-artist: "Terra Tenebrosa"
-album: "The Tunnels"
-categories:
-    - CD
-images:
-    - "/images/covers/terra_tenebrosa-the_tunnels.jpg"
-thumbnailImage: "/images/covers/terra_tenebrosa-the_tunnels-thumb.jpg"
 actualPrice: $3.00
+album: The Tunnels
+artist: Terra Tenebrosa
+categories:
+- CD
+date: '2021-06-26T15:15:52'
+draft: false
+images:
+- /images/covers/terra_tenebrosa-the_tunnels.jpg
 inStock: true
+thumbnailImage: /images/covers/terra_tenebrosa-the_tunnels-thumb.jpg
+title: Terra Tenebrosa - The Tunnels
 ---
 
 ## CD

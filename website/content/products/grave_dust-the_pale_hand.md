@@ -1,16 +1,16 @@
 ---
-title: "Grave Dust - The Pale Hand"
-date: 2021-06-22T16:40:38
-draft: false
-artist: "Grave Dust"
-album: "The Pale Hand"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/grave_dust-the_pale_hand.jpg"
-thumbnailImage: "/images/covers/grave_dust-the_pale_hand-thumb.jpg"
 actualPrice: $17.00
+album: The Pale Hand
+artist: Grave Dust
+categories:
+- Vinyl
+date: '2021-06-26T15:22:48'
+draft: false
+images:
+- /images/covers/grave_dust-the_pale_hand.jpg
 inStock: true
+thumbnailImage: /images/covers/grave_dust-the_pale_hand-thumb.jpg
+title: Grave Dust - The Pale Hand
 ---
 
 ## Vinyl

@@ -1,16 +1,16 @@
 ---
-title: "Skōhsla - The Hung Parish"
-date: 2021-06-13T12:22:19
-draft: false
-artist: "Skōhsla"
-album: "The Hung Parish"
-categories:
-    - Tape
-images:
-    - "/images/covers/skōhsla-the_hung_parish.jpg"
-thumbnailImage: "/images/covers/skōhsla-the_hung_parish-thumb.jpg"
 actualPrice: $6.50
+album: The Hung Parish
+artist: "Sk\u014Dhsla"
+categories:
+- Tape
+date: '2021-06-26T15:16:22'
+draft: false
+images:
+- "/images/covers/sk\u014Dhsla-the_hung_parish.jpg"
 inStock: true
+thumbnailImage: "/images/covers/sk\u014Dhsla-the_hung_parish-thumb.jpg"
+title: "Sk\u014Dhsla - The Hung Parish"
 ---
 
 ## Tape

@@ -1,16 +1,16 @@
 ---
-title: "Mystruin - Gånget äro Ljuset"
-date: 2021-06-22T16:40:42
-draft: false
-artist: "Mystruin"
-album: "Gånget äro Ljuset"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/mystruin-gånget_äro_ljuset.jpg"
-thumbnailImage: "/images/covers/mystruin-gånget_äro_ljuset-thumb.jpg"
 actualPrice: $17.00
+album: "G\xE5nget \xE4ro Ljuset"
+artist: Mystruin
+categories:
+- Vinyl
+date: '2021-06-26T15:22:52'
+draft: false
+images:
+- "/images/covers/mystruin-g\xE5nget_\xE4ro_ljuset.jpg"
 inStock: true
+thumbnailImage: "/images/covers/mystruin-g\xE5nget_\xE4ro_ljuset-thumb.jpg"
+title: "Mystruin - G\xE5nget \xE4ro Ljuset"
 ---
 
 ## Vinyl

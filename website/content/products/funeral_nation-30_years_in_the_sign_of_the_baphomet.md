@@ -1,16 +1,16 @@
 ---
-title: "Funeral Nation - 30 Years in the Sign of the Baphomet"
-date: 2021-06-22T16:40:37
-draft: false
-artist: "Funeral Nation"
-album: "30 Years in the Sign of the Baphomet"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/funeral_nation-30_years_in_the_sign_of_the_baphomet.jpg"
-thumbnailImage: "/images/covers/funeral_nation-30_years_in_the_sign_of_the_baphomet-thumb.jpg"
 actualPrice: $27.00
+album: 30 Years in the Sign of the Baphomet
+artist: Funeral Nation
+categories:
+- Vinyl
+date: '2021-06-26T15:22:47'
+draft: false
+images:
+- /images/covers/funeral_nation-30_years_in_the_sign_of_the_baphomet.jpg
 inStock: true
+thumbnailImage: /images/covers/funeral_nation-30_years_in_the_sign_of_the_baphomet-thumb.jpg
+title: Funeral Nation - 30 Years in the Sign of the Baphomet
 ---
 
 ## Vinyl

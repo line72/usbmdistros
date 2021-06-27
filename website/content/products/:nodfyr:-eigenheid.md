@@ -1,16 +1,16 @@
 ---
-title: ":NODFYR: - Eigenheid"
-date: 2021-06-22T16:40:31
-draft: false
-artist: ":NODFYR:"
-album: "Eigenheid"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/:nodfyr:-eigenheid.jpg"
-thumbnailImage: "/images/covers/:nodfyr:-eigenheid-thumb.jpg"
 actualPrice: $27.00
+album: Eigenheid
+artist: ':NODFYR:'
+categories:
+- Vinyl
+date: '2021-06-26T15:22:41'
+draft: false
+images:
+- /images/covers/:nodfyr:-eigenheid.jpg
 inStock: true
+thumbnailImage: /images/covers/:nodfyr:-eigenheid-thumb.jpg
+title: ':NODFYR: - Eigenheid'
 ---
 
 ## Vinyl

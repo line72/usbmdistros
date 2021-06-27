@@ -1,16 +1,16 @@
 ---
-title: "Jaap Middernacht - Gruwel"
-date: 2021-06-13T12:22:23
-draft: false
-artist: "Jaap Middernacht"
-album: "Gruwel"
-categories:
-    - Tape
-images:
-    - "/images/covers/jaap_middernacht-gruwel.jpg"
-thumbnailImage: "/images/covers/jaap_middernacht-gruwel-thumb.jpg"
 actualPrice: $5.00
+album: Gruwel
+artist: Jaap Middernacht
+categories:
+- Tape
+date: '2021-06-26T15:16:25'
+draft: false
+images:
+- /images/covers/jaap_middernacht-gruwel.jpg
 inStock: true
+thumbnailImage: /images/covers/jaap_middernacht-gruwel-thumb.jpg
+title: Jaap Middernacht - Gruwel
 ---
 
 ## Tape

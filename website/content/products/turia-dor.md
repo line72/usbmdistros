@@ -1,17 +1,17 @@
 ---
-title: "Turia - Dor"
-date: 2021-06-22T16:40:47
-draft: false
-artist: "Turia"
-album: "Dor"
-categories:
-    - Vinyl
-    - CD
-images:
-    - "/images/covers/turia-dor.jpg"
-thumbnailImage: "/images/covers/turia-dor-thumb.jpg"
 actualPrice: $12.00 - 25.00
+album: Dor
+artist: Turia
+categories:
+- Vinyl
+- CD
+date: '2021-06-26T15:22:57'
+draft: false
+images:
+- /images/covers/turia-dor.jpg
 inStock: true
+thumbnailImage: /images/covers/turia-dor-thumb.jpg
+title: Turia - Dor
 ---
 
 ## Vinyl

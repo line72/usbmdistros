@@ -1,17 +1,17 @@
 ---
-title: "Israthoum - Arrows from Below"
-date: 2021-06-22T16:40:59
-draft: false
-artist: "Israthoum"
-album: "Arrows from Below"
-categories:
-    - Vinyl
-    - CD
-images:
-    - "/images/covers/israthoum-arrows_from_below.jpg"
-thumbnailImage: "/images/covers/israthoum-arrows_from_below-thumb.jpg"
 actualPrice: $10.00 - 22.00
+album: Arrows from Below
+artist: Israthoum
+categories:
+- Vinyl
+- CD
+date: '2021-06-26T15:23:09'
+draft: false
+images:
+- /images/covers/israthoum-arrows_from_below.jpg
 inStock: true
+thumbnailImage: /images/covers/israthoum-arrows_from_below-thumb.jpg
+title: Israthoum - Arrows from Below
 ---
 
 ## Vinyl

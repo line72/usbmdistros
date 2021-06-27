@@ -1,16 +1,16 @@
 ---
-title: "Demoncy - within the sylvan realms of frost"
-date: 2021-06-22T16:40:36
-draft: false
-artist: "Demoncy"
-album: "within the sylvan realms of frost"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/demoncy-within_the_sylvan_realms_of_frost.jpg"
-thumbnailImage: "/images/covers/demoncy-within_the_sylvan_realms_of_frost-thumb.jpg"
 actualPrice: $30.00
+album: within the sylvan realms of frost
+artist: Demoncy
+categories:
+- Vinyl
+date: '2021-06-26T15:22:45'
+draft: false
+images:
+- /images/covers/demoncy-within_the_sylvan_realms_of_frost.jpg
 inStock: true
+thumbnailImage: /images/covers/demoncy-within_the_sylvan_realms_of_frost-thumb.jpg
+title: Demoncy - within the sylvan realms of frost
 ---
 
 ## Vinyl

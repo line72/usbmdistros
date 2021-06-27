@@ -1,17 +1,17 @@
 ---
-title: "Blasfemia - Guerra Total"
-date: 2021-06-22T16:40:54
-draft: false
-artist: "Blasfemia"
-album: "Guerra Total"
-categories:
-    - Vinyl
-    - CD
-images:
-    - "/images/covers/blasfemia-guerra_total.jpg"
-thumbnailImage: "/images/covers/blasfemia-guerra_total-thumb.jpg"
 actualPrice: $10.00 - 25.00
+album: Guerra Total
+artist: Blasfemia
+categories:
+- Vinyl
+- CD
+date: '2021-06-26T15:23:04'
+draft: false
+images:
+- /images/covers/blasfemia-guerra_total.jpg
 inStock: true
+thumbnailImage: /images/covers/blasfemia-guerra_total-thumb.jpg
+title: Blasfemia - Guerra Total
 ---
 
 ## Vinyl

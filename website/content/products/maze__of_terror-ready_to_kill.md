@@ -1,16 +1,16 @@
 ---
-title: "Maze  Of Terror - Ready To Kill"
-date: 2021-06-13T12:22:21
-draft: false
-artist: "Maze  Of Terror"
-album: "Ready To Kill"
-categories:
-    - Tape
-images:
-    - "/images/covers/maze__of_terror-ready_to_kill.jpg"
-thumbnailImage: "/images/covers/maze__of_terror-ready_to_kill-thumb.jpg"
 actualPrice: $8.00
+album: Ready To Kill
+artist: Maze  Of Terror
+categories:
+- Tape
+date: '2021-06-26T15:16:24'
+draft: false
+images:
+- /images/covers/maze__of_terror-ready_to_kill.jpg
 inStock: true
+thumbnailImage: /images/covers/maze__of_terror-ready_to_kill-thumb.jpg
+title: Maze  Of Terror - Ready To Kill
 ---
 
 ## Tape

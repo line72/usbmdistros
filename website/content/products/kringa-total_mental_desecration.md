@@ -1,16 +1,16 @@
 ---
-title: "Kringa - Total Mental Desecration"
-date: 2021-06-22T16:40:40
-draft: false
-artist: "Kringa"
-album: "Total Mental Desecration"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/kringa-total_mental_desecration.jpg"
-thumbnailImage: "/images/covers/kringa-total_mental_desecration-thumb.jpg"
 actualPrice: $25.00
+album: Total Mental Desecration
+artist: Kringa
+categories:
+- Vinyl
+date: '2021-06-26T15:22:50'
+draft: false
+images:
+- /images/covers/kringa-total_mental_desecration.jpg
 inStock: true
+thumbnailImage: /images/covers/kringa-total_mental_desecration-thumb.jpg
+title: Kringa - Total Mental Desecration
 ---
 
 ## Vinyl

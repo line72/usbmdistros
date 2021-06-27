@@ -1,16 +1,16 @@
 ---
-title: "Behalf Fiend - The Eternal Legacy of Behalf Fiend"
-date: 2021-06-22T16:40:33
-draft: false
-artist: "Behalf Fiend"
-album: "The Eternal Legacy of Behalf Fiend"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/behalf_fiend-the_eternal_legacy_of_behalf_fiend.jpg"
-thumbnailImage: "/images/covers/behalf_fiend-the_eternal_legacy_of_behalf_fiend-thumb.jpg"
 actualPrice: $17.00
+album: The Eternal Legacy of Behalf Fiend
+artist: Behalf Fiend
+categories:
+- Vinyl
+date: '2021-06-26T15:22:43'
+draft: false
+images:
+- /images/covers/behalf_fiend-the_eternal_legacy_of_behalf_fiend.jpg
 inStock: true
+thumbnailImage: /images/covers/behalf_fiend-the_eternal_legacy_of_behalf_fiend-thumb.jpg
+title: Behalf Fiend - The Eternal Legacy of Behalf Fiend
 ---
 
 ## Vinyl

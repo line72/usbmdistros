@@ -1,16 +1,16 @@
 ---
-title: "DeathSlaüghter - The Last Great War of Humanity"
-date: 2021-06-22T16:40:35
-draft: false
-artist: "DeathSlaüghter"
-album: "The Last Great War of Humanity"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/deathslaüghter-the_last_great_war_of_humanity.jpg"
-thumbnailImage: "/images/covers/deathslaüghter-the_last_great_war_of_humanity-thumb.jpg"
 actualPrice: $20.00
+album: The Last Great War of Humanity
+artist: "DeathSla\xFCghter"
+categories:
+- Vinyl
+date: '2021-06-26T15:22:45'
+draft: false
+images:
+- "/images/covers/deathsla\xFCghter-the_last_great_war_of_humanity.jpg"
 inStock: true
+thumbnailImage: "/images/covers/deathsla\xFCghter-the_last_great_war_of_humanity-thumb.jpg"
+title: "DeathSla\xFCghter - The Last Great War of Humanity"
 ---
 
 ## Vinyl

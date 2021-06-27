@@ -1,16 +1,16 @@
 ---
-title: "Face First - Demo & Demo Ii"
-date: 2021-06-13T12:22:18
-draft: false
-artist: "Face First"
-album: "Demo & Demo Ii"
-categories:
-    - Tape
-images:
-    - "/images/covers/face_first-demo_&_demo_ii.jpg"
-thumbnailImage: "/images/covers/face_first-demo_&_demo_ii-thumb.jpg"
 actualPrice: $6.00
+album: Demo & Demo Ii
+artist: Face First
+categories:
+- Tape
+date: '2021-06-26T15:16:21'
+draft: false
+images:
+- /images/covers/face_first-demo_&_demo_ii.jpg
 inStock: true
+thumbnailImage: /images/covers/face_first-demo_&_demo_ii-thumb.jpg
+title: Face First - Demo & Demo Ii
 ---
 
 ## Tape

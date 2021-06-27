@@ -1,17 +1,17 @@
 ---
-title: "Blut Aus Nord - 777 - The Desanctification"
-date: 2021-06-12T14:11:53
-draft: false
-artist: "Blut Aus Nord"
-album: "777 - The Desanctification"
-categories:
-    - Tape
-    - CD
-images:
-    - "/images/covers/blut_aus_nord-777_-_the_desanctification.jpg"
-thumbnailImage: "/images/covers/blut_aus_nord-777_-_the_desanctification-thumb.jpg"
 actualPrice: $9.99 - 13.99
+album: 777 - The Desanctification
+artist: Blut Aus Nord
+categories:
+- Tape
+- CD
+date: '2021-06-26T15:15:52'
+draft: false
+images:
+- /images/covers/blut_aus_nord-777_-_the_desanctification.jpg
 inStock: true
+thumbnailImage: /images/covers/blut_aus_nord-777_-_the_desanctification-thumb.jpg
+title: Blut Aus Nord - 777 - The Desanctification
 ---
 
 ## Tape

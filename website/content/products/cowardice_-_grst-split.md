@@ -1,16 +1,16 @@
 ---
-title: "Cowardice / Grst - Split"
-date: 2021-06-13T12:22:23
-draft: false
-artist: "Cowardice / Grst"
-album: "Split"
-categories:
-    - Tape
-images:
-    - "/images/covers/cowardice_-_grst-split.jpg"
-thumbnailImage: "/images/covers/cowardice_-_grst-split-thumb.jpg"
 actualPrice: $3.50
+album: Split
+artist: Cowardice / Grst
+categories:
+- Tape
+date: '2021-06-26T15:16:26'
+draft: false
+images:
+- /images/covers/cowardice_-_grst-split.jpg
 inStock: true
+thumbnailImage: /images/covers/cowardice_-_grst-split-thumb.jpg
+title: Cowardice / Grst - Split
 ---
 
 ## Tape

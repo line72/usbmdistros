@@ -1,16 +1,16 @@
 ---
-title: "Cemetery Lights - The Church On The Island"
-date: 2021-06-22T16:40:34
-draft: false
-artist: "Cemetery Lights"
-album: "The Church On The Island"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/cemetery_lights-the_church_on_the_island.jpg"
-thumbnailImage: "/images/covers/cemetery_lights-the_church_on_the_island-thumb.jpg"
 actualPrice: $20.00
+album: The Church On The Island
+artist: Cemetery Lights
+categories:
+- Vinyl
+date: '2021-06-26T15:22:44'
+draft: false
+images:
+- /images/covers/cemetery_lights-the_church_on_the_island.jpg
 inStock: true
+thumbnailImage: /images/covers/cemetery_lights-the_church_on_the_island-thumb.jpg
+title: Cemetery Lights - The Church On The Island
 ---
 
 ## Vinyl

@@ -1,17 +1,17 @@
 ---
-title: "Infestus - Thrypsis"
-date: 2021-06-12T14:11:53
-draft: false
-artist: "Infestus"
-album: "Thrypsis"
-categories:
-    - Vinyl
-    - CD
-images:
-    - "/images/covers/infestus-thrypsis.jpg"
-thumbnailImage: "/images/covers/infestus-thrypsis-thumb.jpg"
 actualPrice: $9.99 - 19.98
+album: Thrypsis
+artist: Infestus
+categories:
+- Vinyl
+- CD
+date: '2021-06-26T15:15:52'
+draft: false
+images:
+- /images/covers/infestus-thrypsis.jpg
 inStock: true
+thumbnailImage: /images/covers/infestus-thrypsis-thumb.jpg
+title: Infestus - Thrypsis
 ---
 
 ## Vinyl

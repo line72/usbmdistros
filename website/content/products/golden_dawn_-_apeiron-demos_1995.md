@@ -1,16 +1,16 @@
 ---
-title: "Golden Dawn / Apeiron - Demos 1995"
-date: 2021-06-22T16:40:38
-draft: false
-artist: "Golden Dawn / Apeiron"
-album: "Demos 1995"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/golden_dawn_-_apeiron-demos_1995.jpg"
-thumbnailImage: "/images/covers/golden_dawn_-_apeiron-demos_1995-thumb.jpg"
 actualPrice: $25.00
+album: Demos 1995
+artist: Golden Dawn / Apeiron
+categories:
+- Vinyl
+date: '2021-06-26T15:22:48'
+draft: false
+images:
+- /images/covers/golden_dawn_-_apeiron-demos_1995.jpg
 inStock: true
+thumbnailImage: /images/covers/golden_dawn_-_apeiron-demos_1995-thumb.jpg
+title: Golden Dawn / Apeiron - Demos 1995
 ---
 
 ## Vinyl

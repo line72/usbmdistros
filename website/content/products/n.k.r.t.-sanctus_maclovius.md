@@ -1,16 +1,16 @@
 ---
-title: "N.K.R.T. - Sanctus Maclovius"
-date: 2021-06-13T12:22:23
-draft: false
-artist: "N.K.R.T."
-album: "Sanctus Maclovius"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/n.k.r.t.-sanctus_maclovius.jpg"
-thumbnailImage: "/images/covers/n.k.r.t.-sanctus_maclovius-thumb.jpg"
 actualPrice: $4.50
+album: Sanctus Maclovius
+artist: N.K.R.T.
+categories:
+- Vinyl
+date: '2021-06-26T15:16:26'
+draft: false
+images:
+- /images/covers/n.k.r.t.-sanctus_maclovius.jpg
 inStock: true
+thumbnailImage: /images/covers/n.k.r.t.-sanctus_maclovius-thumb.jpg
+title: N.K.R.T. - Sanctus Maclovius
 ---
 
 ## Vinyl

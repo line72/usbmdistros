@@ -1,16 +1,16 @@
 ---
-title: "Winter Blackness - De Sepulcris Venit Lunarem"
-date: 2021-06-12T14:07:56
-draft: false
-artist: "Winter Blackness"
-album: "De Sepulcris Venit Lunarem"
-categories:
-    - Tape
-images:
-    - "/images/covers/winter_blackness-de_sepulcris venit_lunarem.jpg"
-thumbnailImage: "/images/covers/winter_blackness-de_sepulcris venit_lunarem-thumb.jpg"
 actualPrice: $10.00
+album: "De Sepulcris\_Venit Lunarem"
+artist: Winter Blackness
+categories:
+- Tape
+date: '2021-06-26T15:03:02'
+draft: false
+images:
+- "/images/covers/winter_blackness-de_sepulcris\_venit_lunarem.jpg"
 inStock: true
+thumbnailImage: "/images/covers/winter_blackness-de_sepulcris\_venit_lunarem-thumb.jpg"
+title: "Winter Blackness - De Sepulcris\_Venit Lunarem"
 ---
 
 ## Tape

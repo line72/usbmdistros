@@ -1,16 +1,16 @@
 ---
-title: "Revenge - Behold.Total.Rejection"
-date: 2021-06-22T16:40:44
-draft: false
-artist: "Revenge"
-album: "Behold.Total.Rejection"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/revenge-behold.total.rejection.jpg"
-thumbnailImage: "/images/covers/revenge-behold.total.rejection-thumb.jpg"
 actualPrice: $27.00
+album: Behold.Total.Rejection
+artist: Revenge
+categories:
+- Vinyl
+date: '2021-06-26T15:22:54'
+draft: false
+images:
+- /images/covers/revenge-behold.total.rejection.jpg
 inStock: true
+thumbnailImage: /images/covers/revenge-behold.total.rejection-thumb.jpg
+title: Revenge - Behold.Total.Rejection
 ---
 
 ## Vinyl

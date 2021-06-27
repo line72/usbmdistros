@@ -1,16 +1,16 @@
 ---
-title: "Usipian - In Skinless Form"
-date: 2021-06-13T12:22:20
-draft: false
-artist: "Usipian"
-album: "In Skinless Form"
-categories:
-    - Tape
-images:
-    - "/images/covers/usipian-in_skinless_form.jpg"
-thumbnailImage: "/images/covers/usipian-in_skinless_form-thumb.jpg"
 actualPrice: $8.00
+album: In Skinless Form
+artist: Usipian
+categories:
+- Tape
+date: '2021-06-26T15:16:23'
+draft: false
+images:
+- /images/covers/usipian-in_skinless_form.jpg
 inStock: true
+thumbnailImage: /images/covers/usipian-in_skinless_form-thumb.jpg
+title: Usipian - In Skinless Form
 ---
 
 ## Tape

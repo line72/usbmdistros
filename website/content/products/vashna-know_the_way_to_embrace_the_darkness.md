@@ -1,16 +1,16 @@
 ---
-title: "Vashna - Know The Way To Embrace The Darkness"
-date: 2021-06-13T12:22:23
-draft: false
-artist: "Vashna"
-album: "Know The Way To Embrace The Darkness"
-categories:
-    - Tape
-images:
-    - "/images/covers/vashna-know_the_way_to_embrace_the_darkness.jpg"
-thumbnailImage: "/images/covers/vashna-know_the_way_to_embrace_the_darkness-thumb.jpg"
 actualPrice: $4.00
+album: Know The Way To Embrace The Darkness
+artist: Vashna
+categories:
+- Tape
+date: '2021-06-26T15:16:26'
+draft: false
+images:
+- /images/covers/vashna-know_the_way_to_embrace_the_darkness.jpg
 inStock: true
+thumbnailImage: /images/covers/vashna-know_the_way_to_embrace_the_darkness-thumb.jpg
+title: Vashna - Know The Way To Embrace The Darkness
 ---
 
 ## Tape

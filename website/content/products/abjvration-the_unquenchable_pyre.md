@@ -1,16 +1,16 @@
 ---
-title: "Abjvration - The Unquenchable Pyre"
-date: 2021-06-22T16:40:31
-draft: false
-artist: "Abjvration"
-album: "The Unquenchable Pyre"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/abjvration-the_unquenchable_pyre.jpg"
-thumbnailImage: "/images/covers/abjvration-the_unquenchable_pyre-thumb.jpg"
 actualPrice: $17.00
+album: The Unquenchable Pyre
+artist: Abjvration
+categories:
+- Vinyl
+date: '2021-06-26T15:22:41'
+draft: false
+images:
+- /images/covers/abjvration-the_unquenchable_pyre.jpg
 inStock: true
+thumbnailImage: /images/covers/abjvration-the_unquenchable_pyre-thumb.jpg
+title: Abjvration - The Unquenchable Pyre
 ---
 
 ## Vinyl

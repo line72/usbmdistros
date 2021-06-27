@@ -1,16 +1,16 @@
 ---
-title: "Trest - Ordalium"
-date: 2021-06-13T12:22:22
-draft: false
-artist: "Trest"
-album: "Ordalium"
-categories:
-    - Tape
-images:
-    - "/images/covers/trest-ordalium.jpg"
-thumbnailImage: "/images/covers/trest-ordalium-thumb.jpg"
 actualPrice: $4.00
+album: Ordalium
+artist: Trest
+categories:
+- Tape
+date: '2021-06-26T15:16:24'
+draft: false
+images:
+- /images/covers/trest-ordalium.jpg
 inStock: true
+thumbnailImage: /images/covers/trest-ordalium-thumb.jpg
+title: Trest - Ordalium
 ---
 
 ## Tape

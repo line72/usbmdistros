@@ -1,16 +1,16 @@
 ---
-title: "Fayenne - Ancient Womb Of Mercury"
-date: 2021-06-13T12:22:22
-draft: false
-artist: "Fayenne"
-album: "Ancient Womb Of Mercury"
-categories:
-    - Tape
-images:
-    - "/images/covers/fayenne-ancient_womb_of_mercury.jpg"
-thumbnailImage: "/images/covers/fayenne-ancient_womb_of_mercury-thumb.jpg"
 actualPrice: $4.00
+album: Ancient Womb Of Mercury
+artist: Fayenne
+categories:
+- Tape
+date: '2021-06-26T15:16:25'
+draft: false
+images:
+- /images/covers/fayenne-ancient_womb_of_mercury.jpg
 inStock: true
+thumbnailImage: /images/covers/fayenne-ancient_womb_of_mercury-thumb.jpg
+title: Fayenne - Ancient Womb Of Mercury
 ---
 
 ## Tape

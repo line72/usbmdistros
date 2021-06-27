@@ -1,16 +1,16 @@
 ---
-title: "Goreworm - Prodigy Of The Grotesque"
-date: 2021-06-13T12:22:18
-draft: false
-artist: "Goreworm"
-album: "Prodigy Of The Grotesque"
-categories:
-    - Tape
-images:
-    - "/images/covers/goreworm-prodigy_of_the_grotesque.jpg"
-thumbnailImage: "/images/covers/goreworm-prodigy_of_the_grotesque-thumb.jpg"
 actualPrice: $8.00
+album: Prodigy Of The Grotesque
+artist: Goreworm
+categories:
+- Tape
+date: '2021-06-26T15:16:21'
+draft: false
+images:
+- /images/covers/goreworm-prodigy_of_the_grotesque.jpg
 inStock: true
+thumbnailImage: /images/covers/goreworm-prodigy_of_the_grotesque-thumb.jpg
+title: Goreworm - Prodigy Of The Grotesque
 ---
 
 ## Tape

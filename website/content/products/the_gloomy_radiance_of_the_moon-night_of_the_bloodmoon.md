@@ -1,16 +1,16 @@
 ---
-title: "The Gloomy Radiance of the Moon - Night of the Bloodmoon"
-date: 2021-06-12T14:07:55
-draft: false
-artist: "The Gloomy Radiance of the Moon"
-album: "Night of the Bloodmoon"
-categories:
-    - Tape
-images:
-    - "/images/covers/the_gloomy_radiance_of_the_moon-night_of_the_bloodmoon.jpg"
-thumbnailImage: "/images/covers/the_gloomy_radiance_of_the_moon-night_of_the_bloodmoon-thumb.jpg"
 actualPrice: $10.00
+album: Night of the Bloodmoon
+artist: The Gloomy Radiance of the Moon
+categories:
+- Tape
+date: '2021-06-26T15:03:02'
+draft: false
+images:
+- /images/covers/the_gloomy_radiance_of_the_moon-night_of_the_bloodmoon.jpg
 inStock: true
+thumbnailImage: /images/covers/the_gloomy_radiance_of_the_moon-night_of_the_bloodmoon-thumb.jpg
+title: The Gloomy Radiance of the Moon - Night of the Bloodmoon
 ---
 
 ## Tape

@@ -1,16 +1,16 @@
 ---
-title: "Bloodline Ascension Temple - Rise Vanity Fall"
-date: 2021-06-13T12:22:22
-draft: false
-artist: "Bloodline Ascension Temple"
-album: "Rise Vanity Fall"
-categories:
-    - Tape
-images:
-    - "/images/covers/bloodline_ascension_temple-rise_vanity_fall.jpg"
-thumbnailImage: "/images/covers/bloodline_ascension_temple-rise_vanity_fall-thumb.jpg"
 actualPrice: $6.00
+album: Rise Vanity Fall
+artist: Bloodline Ascension Temple
+categories:
+- Tape
+date: '2021-06-26T15:16:25'
+draft: false
+images:
+- /images/covers/bloodline_ascension_temple-rise_vanity_fall.jpg
 inStock: true
+thumbnailImage: /images/covers/bloodline_ascension_temple-rise_vanity_fall-thumb.jpg
+title: Bloodline Ascension Temple - Rise Vanity Fall
 ---
 
 ## Tape

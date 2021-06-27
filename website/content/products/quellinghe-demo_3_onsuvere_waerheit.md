@@ -1,16 +1,16 @@
 ---
-title: "Quellinghe - Demo 3 Onsuvere Waerheit"
-date: 2021-06-13T12:22:22
-draft: false
-artist: "Quellinghe"
-album: "Demo 3 Onsuvere Waerheit"
-categories:
-    - Tape
-images:
-    - "/images/covers/quellinghe-demo_3_onsuvere_waerheit.jpg"
-thumbnailImage: "/images/covers/quellinghe-demo_3_onsuvere_waerheit-thumb.jpg"
 actualPrice: $6.50
+album: Demo 3 Onsuvere Waerheit
+artist: Quellinghe
+categories:
+- Tape
+date: '2021-06-26T15:16:25'
+draft: false
+images:
+- /images/covers/quellinghe-demo_3_onsuvere_waerheit.jpg
 inStock: true
+thumbnailImage: /images/covers/quellinghe-demo_3_onsuvere_waerheit-thumb.jpg
+title: Quellinghe - Demo 3 Onsuvere Waerheit
 ---
 
 ## Tape

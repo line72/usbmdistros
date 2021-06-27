@@ -1,16 +1,16 @@
 ---
-title: "Mayhem - Daemon"
-date: 2021-06-22T16:40:41
-draft: false
-artist: "Mayhem"
-album: "Daemon"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/mayhem-daemon.jpg"
-thumbnailImage: "/images/covers/mayhem-daemon-thumb.jpg"
 actualPrice: $25.00
+album: Daemon
+artist: Mayhem
+categories:
+- Vinyl
+date: '2021-06-26T15:22:51'
+draft: false
+images:
+- /images/covers/mayhem-daemon.jpg
 inStock: true
+thumbnailImage: /images/covers/mayhem-daemon-thumb.jpg
+title: Mayhem - Daemon
 ---
 
 ## Vinyl

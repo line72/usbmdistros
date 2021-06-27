@@ -1,16 +1,16 @@
 ---
-title: "Reverorum ib Malacht - Ter Agios Numini"
-date: 2021-06-12T14:07:52
-draft: false
-artist: "Reverorum ib Malacht"
-album: "Ter Agios Numini"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/reverorum_ib_malacht-ter_agios_numini.jpg"
-thumbnailImage: "/images/covers/reverorum_ib_malacht-ter_agios_numini-thumb.jpg"
 actualPrice: $17.00
+album: Ter Agios Numini
+artist: Reverorum ib Malacht
+categories:
+- Vinyl
+date: '2021-06-26T15:02:55'
+draft: false
+images:
+- /images/covers/reverorum_ib_malacht-ter_agios_numini.jpg
 inStock: true
+thumbnailImage: /images/covers/reverorum_ib_malacht-ter_agios_numini-thumb.jpg
+title: Reverorum ib Malacht - Ter Agios Numini
 ---
 
 ## Vinyl

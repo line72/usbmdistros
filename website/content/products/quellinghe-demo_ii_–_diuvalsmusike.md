@@ -1,16 +1,16 @@
 ---
-title: "Quellinghe - Demo Ii – Diuvalsmusike"
-date: 2021-06-13T12:22:24
-draft: false
-artist: "Quellinghe"
-album: "Demo Ii – Diuvalsmusike"
-categories:
-    - Tape
-images:
-    - "/images/covers/quellinghe-demo_ii_–_diuvalsmusike.jpg"
-thumbnailImage: "/images/covers/quellinghe-demo_ii_–_diuvalsmusike-thumb.jpg"
 actualPrice: $7.50
+album: "Demo Ii \u2013 Diuvalsmusike"
+artist: Quellinghe
+categories:
+- Tape
+date: '2021-06-26T15:16:26'
+draft: false
+images:
+- "/images/covers/quellinghe-demo_ii_\u2013_diuvalsmusike.jpg"
 inStock: true
+thumbnailImage: "/images/covers/quellinghe-demo_ii_\u2013_diuvalsmusike-thumb.jpg"
+title: "Quellinghe - Demo Ii \u2013 Diuvalsmusike"
 ---
 
 ## Tape

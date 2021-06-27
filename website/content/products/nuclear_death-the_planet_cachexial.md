@@ -1,16 +1,16 @@
 ---
-title: "Nuclear Death - The Planet Cachexial"
-date: 2021-06-22T16:40:42
-draft: false
-artist: "Nuclear Death"
-album: "The Planet Cachexial"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/nuclear_death-the_planet_cachexial.jpg"
-thumbnailImage: "/images/covers/nuclear_death-the_planet_cachexial-thumb.jpg"
 actualPrice: $22.00
+album: The Planet Cachexial
+artist: Nuclear Death
+categories:
+- Vinyl
+date: '2021-06-26T15:22:52'
+draft: false
+images:
+- /images/covers/nuclear_death-the_planet_cachexial.jpg
 inStock: true
+thumbnailImage: /images/covers/nuclear_death-the_planet_cachexial-thumb.jpg
+title: Nuclear Death - The Planet Cachexial
 ---
 
 ## Vinyl

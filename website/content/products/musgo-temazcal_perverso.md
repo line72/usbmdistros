@@ -1,16 +1,16 @@
 ---
-title: "Musgo - Temazcal Perverso"
-date: 2021-06-13T12:22:19
-draft: false
-artist: "Musgo"
-album: "Temazcal Perverso"
-categories:
-    - Tape
-images:
-    - "/images/covers/musgo-temazcal_perverso.jpg"
-thumbnailImage: "/images/covers/musgo-temazcal_perverso-thumb.jpg"
 actualPrice: $7.50
+album: Temazcal Perverso
+artist: Musgo
+categories:
+- Tape
+date: '2021-06-26T15:16:22'
+draft: false
+images:
+- /images/covers/musgo-temazcal_perverso.jpg
 inStock: true
+thumbnailImage: /images/covers/musgo-temazcal_perverso-thumb.jpg
+title: Musgo - Temazcal Perverso
 ---
 
 ## Tape

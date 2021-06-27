@@ -1,16 +1,16 @@
 ---
-title: "Annihilatus - Death from Above"
-date: 2021-06-22T16:40:32
-draft: false
-artist: "Annihilatus"
-album: "Death from Above"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/annihilatus-death_from_above.jpg"
-thumbnailImage: "/images/covers/annihilatus-death_from_above-thumb.jpg"
 actualPrice: $17.00 - 20.00
+album: Death from Above
+artist: Annihilatus
+categories:
+- Vinyl
+date: '2021-06-26T15:22:42'
+draft: false
+images:
+- /images/covers/annihilatus-death_from_above.jpg
 inStock: true
+thumbnailImage: /images/covers/annihilatus-death_from_above-thumb.jpg
+title: Annihilatus - Death from Above
 ---
 
 ## Vinyl

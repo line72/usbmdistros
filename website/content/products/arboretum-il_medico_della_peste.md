@@ -1,16 +1,16 @@
 ---
-title: "Arboretum - Il Medico Della Peste"
-date: 2021-06-13T12:22:20
-draft: false
-artist: "Arboretum"
-album: "Il Medico Della Peste"
-categories:
-    - Tape
-images:
-    - "/images/covers/arboretum-il_medico_della_peste.jpg"
-thumbnailImage: "/images/covers/arboretum-il_medico_della_peste-thumb.jpg"
 actualPrice: $6.00
+album: Il Medico Della Peste
+artist: Arboretum
+categories:
+- Tape
+date: '2021-06-26T15:16:23'
+draft: false
+images:
+- /images/covers/arboretum-il_medico_della_peste.jpg
 inStock: true
+thumbnailImage: /images/covers/arboretum-il_medico_della_peste-thumb.jpg
+title: Arboretum - Il Medico Della Peste
 ---
 
 ## Tape

@@ -1,16 +1,16 @@
 ---
-title: "Abigail - Black Mass Prayer"
-date: 2021-06-22T16:40:31
-draft: false
-artist: "Abigail"
-album: "Black Mass Prayer"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/abigail-black_mass_prayer.jpg"
-thumbnailImage: "/images/covers/abigail-black_mass_prayer-thumb.jpg"
 actualPrice: $5.00
+album: Black Mass Prayer
+artist: Abigail
+categories:
+- Vinyl
+date: '2021-06-26T15:22:41'
+draft: false
+images:
+- /images/covers/abigail-black_mass_prayer.jpg
 inStock: true
+thumbnailImage: /images/covers/abigail-black_mass_prayer-thumb.jpg
+title: Abigail - Black Mass Prayer
 ---
 
 ## Vinyl

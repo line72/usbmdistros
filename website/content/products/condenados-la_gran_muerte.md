@@ -1,16 +1,16 @@
 ---
-title: "Condenados - La Gran Muerte"
-date: 2021-06-13T12:22:24
-draft: false
-artist: "Condenados"
-album: "La Gran Muerte"
-categories:
-    - Tape
-images:
-    - "/images/covers/condenados-la_gran_muerte.jpg"
-thumbnailImage: "/images/covers/condenados-la_gran_muerte-thumb.jpg"
 actualPrice: $4.00
+album: La Gran Muerte
+artist: Condenados
+categories:
+- Tape
+date: '2021-06-26T15:16:26'
+draft: false
+images:
+- /images/covers/condenados-la_gran_muerte.jpg
 inStock: true
+thumbnailImage: /images/covers/condenados-la_gran_muerte-thumb.jpg
+title: Condenados - La Gran Muerte
 ---
 
 ## Tape

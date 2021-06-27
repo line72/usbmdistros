@@ -1,17 +1,17 @@
 ---
-title: "Revenge - Scum.Collapse.Eradication"
-date: 2021-06-22T16:41:04
-draft: false
-artist: "Revenge"
-album: "Scum.Collapse.Eradication"
-categories:
-    - Vinyl
-    - CD
-images:
-    - "/images/covers/revenge-scum.collapse.eradication.jpg"
-thumbnailImage: "/images/covers/revenge-scum.collapse.eradication-thumb.jpg"
 actualPrice: $10.00 - 28.00
+album: Scum.Collapse.Eradication
+artist: Revenge
+categories:
+- Vinyl
+- CD
+date: '2021-06-26T15:23:14'
+draft: false
+images:
+- /images/covers/revenge-scum.collapse.eradication.jpg
 inStock: true
+thumbnailImage: /images/covers/revenge-scum.collapse.eradication-thumb.jpg
+title: Revenge - Scum.Collapse.Eradication
 ---
 
 ## Vinyl

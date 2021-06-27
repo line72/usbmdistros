@@ -1,16 +1,16 @@
 ---
-title: "Fields of Mildew - II"
-date: 2021-06-22T16:40:37
-draft: false
-artist: "Fields of Mildew"
-album: "II"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/fields_of_mildew-ii.jpg"
-thumbnailImage: "/images/covers/fields_of_mildew-ii-thumb.jpg"
 actualPrice: $25.00
+album: II
+artist: Fields of Mildew
+categories:
+- Vinyl
+date: '2021-06-26T15:22:47'
+draft: false
+images:
+- /images/covers/fields_of_mildew-ii.jpg
 inStock: true
+thumbnailImage: /images/covers/fields_of_mildew-ii-thumb.jpg
+title: Fields of Mildew - II
 ---
 
 ## Vinyl

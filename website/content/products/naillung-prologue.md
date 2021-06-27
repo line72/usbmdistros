@@ -1,16 +1,16 @@
 ---
-title: "Naillung - Prologue"
-date: 2021-06-13T12:22:20
-draft: false
-artist: "Naillung"
-album: "Prologue"
-categories:
-    - Tape
-images:
-    - "/images/covers/naillung-prologue.jpg"
-thumbnailImage: "/images/covers/naillung-prologue-thumb.jpg"
 actualPrice: $8.00
+album: Prologue
+artist: Naillung
+categories:
+- Tape
+date: '2021-06-26T15:16:23'
+draft: false
+images:
+- /images/covers/naillung-prologue.jpg
 inStock: true
+thumbnailImage: /images/covers/naillung-prologue-thumb.jpg
+title: Naillung - Prologue
 ---
 
 ## Tape

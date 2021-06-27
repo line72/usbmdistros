@@ -1,16 +1,16 @@
 ---
-title: "Caina - The Heart of the Master"
-date: 2021-06-22T16:40:34
-draft: false
-artist: "Caina"
-album: "The Heart of the Master"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/caina-the_heart_of_the_master.jpg"
-thumbnailImage: "/images/covers/caina-the_heart_of_the_master-thumb.jpg"
 actualPrice: $17.00
+album: The Heart of the Master
+artist: Caina
+categories:
+- Vinyl
+date: '2021-06-26T15:22:43'
+draft: false
+images:
+- /images/covers/caina-the_heart_of_the_master.jpg
 inStock: true
+thumbnailImage: /images/covers/caina-the_heart_of_the_master-thumb.jpg
+title: Caina - The Heart of the Master
 ---
 
 ## Vinyl

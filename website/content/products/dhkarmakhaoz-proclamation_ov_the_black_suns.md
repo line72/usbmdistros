@@ -1,17 +1,17 @@
 ---
-title: "Dhkarmakhaoz - Proclamation ov the Black Suns"
-date: 2021-06-22T16:40:56
-draft: false
-artist: "Dhkarmakhaoz"
-album: "Proclamation ov the Black Suns"
-categories:
-    - Vinyl
-    - CD
-images:
-    - "/images/covers/dhkarmakhaoz-proclamation_ov_the_black_suns.jpg"
-thumbnailImage: "/images/covers/dhkarmakhaoz-proclamation_ov_the_black_suns-thumb.jpg"
 actualPrice: $10.00 - 20.00
+album: Proclamation ov the Black Suns
+artist: Dhkarmakhaoz
+categories:
+- Vinyl
+- CD
+date: '2021-06-26T15:23:06'
+draft: false
+images:
+- /images/covers/dhkarmakhaoz-proclamation_ov_the_black_suns.jpg
 inStock: true
+thumbnailImage: /images/covers/dhkarmakhaoz-proclamation_ov_the_black_suns-thumb.jpg
+title: Dhkarmakhaoz - Proclamation ov the Black Suns
 ---
 
 ## Vinyl

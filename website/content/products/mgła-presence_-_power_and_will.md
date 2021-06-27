@@ -1,16 +1,16 @@
 ---
-title: "Mgła - Presence / Power And Will"
-date: 2021-06-12T14:04:39
-draft: false
-artist: "Mgła"
-album: "Presence / Power And Will"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/mgła-presence_-_power_and_will.jpg"
-thumbnailImage: "/images/covers/mgła-presence_-_power_and_will-thumb.jpg"
 actualPrice: $24.00
+album: Presence / Power And Will
+artist: "Mg\u0142a"
+categories:
+- Vinyl
+date: '2021-06-26T14:49:53'
+draft: false
+images:
+- "/images/covers/mg\u0142a-presence_-_power_and_will.jpg"
 inStock: true
+thumbnailImage: "/images/covers/mg\u0142a-presence_-_power_and_will-thumb.jpg"
+title: "Mg\u0142a - Presence / Power And Will"
 ---
 
 ## Vinyl

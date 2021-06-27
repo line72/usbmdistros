@@ -1,16 +1,16 @@
 ---
-title: "Malaphar - The Tapes 1991​-​1996"
-date: 2021-06-22T16:40:40
-draft: false
-artist: "Malaphar"
-album: "The Tapes 1991​-​1996"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/malaphar-the_tapes_1991​-​1996.jpg"
-thumbnailImage: "/images/covers/malaphar-the_tapes_1991​-​1996-thumb.jpg"
 actualPrice: $30.00
+album: "The Tapes 1991\u200B-\u200B1996"
+artist: Malaphar
+categories:
+- Vinyl
+date: '2021-06-26T15:22:50'
+draft: false
+images:
+- "/images/covers/malaphar-the_tapes_1991\u200B-\u200B1996.jpg"
 inStock: true
+thumbnailImage: "/images/covers/malaphar-the_tapes_1991\u200B-\u200B1996-thumb.jpg"
+title: "Malaphar - The Tapes 1991\u200B-\u200B1996"
 ---
 
 ## Vinyl

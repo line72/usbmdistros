@@ -1,16 +1,16 @@
 ---
-title: "Naillung - Converge​.​Revenge."
-date: 2021-06-13T12:22:20
-draft: false
-artist: "Naillung"
-album: "Converge​.​Revenge."
-categories:
-    - Tape
-images:
-    - "/images/covers/naillung-converge​.​revenge..jpg"
-thumbnailImage: "/images/covers/naillung-converge​.​revenge.-thumb.jpg"
 actualPrice: $8.00
+album: "Converge\u200B.\u200BRevenge."
+artist: Naillung
+categories:
+- Tape
+date: '2021-06-26T15:16:23'
+draft: false
+images:
+- "/images/covers/naillung-converge\u200B.\u200Brevenge..jpg"
 inStock: true
+thumbnailImage: "/images/covers/naillung-converge\u200B.\u200Brevenge.-thumb.jpg"
+title: "Naillung - Converge\u200B.\u200BRevenge."
 ---
 
 ## Tape

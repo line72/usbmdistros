@@ -1,16 +1,16 @@
 ---
-title: "Urkaos - Rehearsal XI"
-date: 2021-06-12T14:07:59
-draft: false
-artist: "Urkaos"
-album: "Rehearsal XI"
-categories:
-    - CD
-images:
-    - "/images/covers/urkaos-rehearsal_xi.jpg"
-thumbnailImage: "/images/covers/urkaos-rehearsal_xi-thumb.jpg"
 actualPrice: $13.00
+album: Rehearsal XI
+artist: Urkaos
+categories:
+- CD
+date: '2021-06-26T15:03:08'
+draft: false
+images:
+- /images/covers/urkaos-rehearsal_xi.jpg
 inStock: true
+thumbnailImage: /images/covers/urkaos-rehearsal_xi-thumb.jpg
+title: Urkaos - Rehearsal XI
 ---
 
 ## CD

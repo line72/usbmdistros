@@ -1,18 +1,18 @@
 ---
-title: "Proclamation - Nether Tombs of Abaddon"
-date: 2021-06-22T16:41:12
-draft: false
-artist: "Proclamation"
-album: "Nether Tombs of Abaddon"
-categories:
-    - Vinyl
-    - Cassette
-    - CD
-images:
-    - "/images/covers/proclamation-nether_tombs_of_abaddon.jpg"
-thumbnailImage: "/images/covers/proclamation-nether_tombs_of_abaddon-thumb.jpg"
 actualPrice: $9.00 - 25.00
+album: Nether Tombs of Abaddon
+artist: Proclamation
+categories:
+- Vinyl
+- Cassette
+- CD
+date: '2021-06-26T15:23:22'
+draft: false
+images:
+- /images/covers/proclamation-nether_tombs_of_abaddon.jpg
 inStock: true
+thumbnailImage: /images/covers/proclamation-nether_tombs_of_abaddon-thumb.jpg
+title: Proclamation - Nether Tombs of Abaddon
 ---
 
 ## Vinyl

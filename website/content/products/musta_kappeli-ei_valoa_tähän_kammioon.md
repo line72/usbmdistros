@@ -1,17 +1,17 @@
 ---
-title: "Musta Kappeli - Ei Valoa Tähän Kammioon"
-date: 2021-06-22T16:41:01
-draft: false
-artist: "Musta Kappeli"
-album: "Ei Valoa Tähän Kammioon"
-categories:
-    - Vinyl
-    - CD
-images:
-    - "/images/covers/musta_kappeli-ei_valoa_tähän_kammioon.jpg"
-thumbnailImage: "/images/covers/musta_kappeli-ei_valoa_tähän_kammioon-thumb.jpg"
 actualPrice: $10.00 - 17.00
+album: "Ei Valoa T\xE4h\xE4n Kammioon"
+artist: Musta Kappeli
+categories:
+- Vinyl
+- CD
+date: '2021-06-26T15:23:11'
+draft: false
+images:
+- "/images/covers/musta_kappeli-ei_valoa_t\xE4h\xE4n_kammioon.jpg"
 inStock: true
+thumbnailImage: "/images/covers/musta_kappeli-ei_valoa_t\xE4h\xE4n_kammioon-thumb.jpg"
+title: "Musta Kappeli - Ei Valoa T\xE4h\xE4n Kammioon"
 ---
 
 ## Vinyl

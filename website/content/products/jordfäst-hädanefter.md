@@ -1,17 +1,17 @@
 ---
-title: "Jordfäst - Hädanefter"
-date: 2021-06-22T16:41:00
-draft: false
-artist: "Jordfäst"
-album: "Hädanefter"
-categories:
-    - Vinyl
-    - CD
-images:
-    - "/images/covers/jordfäst-hädanefter.jpg"
-thumbnailImage: "/images/covers/jordfäst-hädanefter-thumb.jpg"
 actualPrice: $12.00 - 22.00
+album: "H\xE4danefter"
+artist: "Jordf\xE4st"
+categories:
+- Vinyl
+- CD
+date: '2021-06-26T15:23:10'
+draft: false
+images:
+- "/images/covers/jordf\xE4st-h\xE4danefter.jpg"
 inStock: true
+thumbnailImage: "/images/covers/jordf\xE4st-h\xE4danefter-thumb.jpg"
+title: "Jordf\xE4st - H\xE4danefter"
 ---
 
 ## Vinyl

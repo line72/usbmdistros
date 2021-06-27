@@ -1,16 +1,16 @@
 ---
-title: "Immortal - Damned in Black"
-date: 2021-06-22T16:40:39
-draft: false
-artist: "Immortal"
-album: "Damned in Black"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/immortal-damned_in_black.jpg"
-thumbnailImage: "/images/covers/immortal-damned_in_black-thumb.jpg"
 actualPrice: $22.00
+album: Damned in Black
+artist: Immortal
+categories:
+- Vinyl
+date: '2021-06-26T15:22:49'
+draft: false
+images:
+- /images/covers/immortal-damned_in_black.jpg
 inStock: true
+thumbnailImage: /images/covers/immortal-damned_in_black-thumb.jpg
+title: Immortal - Damned in Black
 ---
 
 ## Vinyl

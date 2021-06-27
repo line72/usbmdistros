@@ -1,17 +1,17 @@
 ---
-title: "Monstraat - The One Eternal"
-date: 2021-06-22T16:41:11
-draft: false
-artist: "Monstraat"
-album: "The One Eternal"
-categories:
-    - Tape
-    - Cassette
-images:
-    - "/images/covers/monstraat-the_one_eternal.jpg"
-thumbnailImage: "/images/covers/monstraat-the_one_eternal-thumb.jpg"
 actualPrice: $7.00
+album: The One Eternal
+artist: Monstraat
+categories:
+- Tape
+- Cassette
+date: '2021-06-26T15:23:22'
+draft: false
+images:
+- /images/covers/monstraat-the_one_eternal.jpg
 inStock: true
+thumbnailImage: /images/covers/monstraat-the_one_eternal-thumb.jpg
+title: Monstraat - The One Eternal
 ---
 
 ## Tape

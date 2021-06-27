@@ -1,16 +1,16 @@
 ---
-title: "Ravencult - Temples of Torment"
-date: 2021-06-22T16:40:44
-draft: false
-artist: "Ravencult"
-album: "Temples of Torment"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/ravencult-temples_of_torment.jpg"
-thumbnailImage: "/images/covers/ravencult-temples_of_torment-thumb.jpg"
 actualPrice: $17.00
+album: Temples of Torment
+artist: Ravencult
+categories:
+- Vinyl
+date: '2021-06-26T15:22:54'
+draft: false
+images:
+- /images/covers/ravencult-temples_of_torment.jpg
 inStock: true
+thumbnailImage: /images/covers/ravencult-temples_of_torment-thumb.jpg
+title: Ravencult - Temples of Torment
 ---
 
 ## Vinyl

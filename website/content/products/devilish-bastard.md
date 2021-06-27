@@ -1,16 +1,16 @@
 ---
-title: "Devilish - Bastard"
-date: 2021-06-22T16:40:36
-draft: false
-artist: "Devilish"
-album: "Bastard"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/devilish-bastard.jpg"
-thumbnailImage: "/images/covers/devilish-bastard-thumb.jpg"
 actualPrice: $20.00
+album: Bastard
+artist: Devilish
+categories:
+- Vinyl
+date: '2021-06-26T15:22:45'
+draft: false
+images:
+- /images/covers/devilish-bastard.jpg
 inStock: true
+thumbnailImage: /images/covers/devilish-bastard-thumb.jpg
+title: Devilish - Bastard
 ---
 
 ## Vinyl

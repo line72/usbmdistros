@@ -1,16 +1,16 @@
 ---
-title: "Inexorable - Sea Of Dead Consciousness"
-date: 2021-06-13T12:22:23
-draft: false
-artist: "Inexorable"
-album: "Sea Of Dead Consciousness"
-categories:
-    - CD
-images:
-    - "/images/covers/inexorable-sea_of_dead_consciousness.jpg"
-thumbnailImage: "/images/covers/inexorable-sea_of_dead_consciousness-thumb.jpg"
 actualPrice: $6.00
+album: Sea Of Dead Consciousness
+artist: Inexorable
+categories:
+- CD
+date: '2021-06-26T15:16:26'
+draft: false
+images:
+- /images/covers/inexorable-sea_of_dead_consciousness.jpg
 inStock: true
+thumbnailImage: /images/covers/inexorable-sea_of_dead_consciousness-thumb.jpg
+title: Inexorable - Sea Of Dead Consciousness
 ---
 
 ## CD

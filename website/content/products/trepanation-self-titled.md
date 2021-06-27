@@ -1,16 +1,16 @@
 ---
-title: "Trepanation - Self-Titled"
-date: 2021-06-13T12:22:19
-draft: false
-artist: "Trepanation"
-album: "Self-Titled"
-categories:
-    - Tape
-images:
-    - "/images/covers/trepanation-self-titled.jpg"
-thumbnailImage: "/images/covers/trepanation-self-titled-thumb.jpg"
 actualPrice: $8.50
+album: Self-Titled
+artist: Trepanation
+categories:
+- Tape
+date: '2021-06-26T15:16:22'
+draft: false
+images:
+- /images/covers/trepanation-self-titled.jpg
 inStock: true
+thumbnailImage: /images/covers/trepanation-self-titled-thumb.jpg
+title: Trepanation - Self-Titled
 ---
 
 ## Tape

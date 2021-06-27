@@ -1,16 +1,16 @@
 ---
-title: "Kult Mogil - K+M+B 2015"
-date: 2021-06-22T16:40:40
-draft: false
-artist: "Kult Mogil"
-album: "K+M+B 2015"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/kult_mogil-k+m+b_2015.jpg"
-thumbnailImage: "/images/covers/kult_mogil-k+m+b_2015-thumb.jpg"
 actualPrice: $17.00
+album: K+M+B 2015
+artist: Kult Mogil
+categories:
+- Vinyl
+date: '2021-06-26T15:22:50'
+draft: false
+images:
+- /images/covers/kult_mogil-k+m+b_2015.jpg
 inStock: true
+thumbnailImage: /images/covers/kult_mogil-k+m+b_2015-thumb.jpg
+title: Kult Mogil - K+M+B 2015
 ---
 
 ## Vinyl

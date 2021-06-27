@@ -1,16 +1,16 @@
 ---
-title: "Vilkacis / Turia - Split"
-date: 2021-06-12T14:07:52
-draft: false
-artist: "Vilkacis / Turia"
-album: "Split"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/vilkacis_-_turia-split.jpg"
-thumbnailImage: "/images/covers/vilkacis_-_turia-split-thumb.jpg"
 actualPrice: $22.00
+album: Split
+artist: Vilkacis / Turia
+categories:
+- Vinyl
+date: '2021-06-26T15:02:55'
+draft: false
+images:
+- /images/covers/vilkacis_-_turia-split.jpg
 inStock: true
+thumbnailImage: /images/covers/vilkacis_-_turia-split-thumb.jpg
+title: Vilkacis / Turia - Split
 ---
 
 ## Vinyl

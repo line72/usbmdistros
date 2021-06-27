@@ -1,16 +1,16 @@
 ---
-title: "Helheim - Jormundgand"
-date: 2021-06-13T12:22:19
-draft: false
-artist: "Helheim"
-album: "Jormundgand"
-categories:
-    - Tape
-images:
-    - "/images/covers/helheim-jormundgand.jpg"
-thumbnailImage: "/images/covers/helheim-jormundgand-thumb.jpg"
 actualPrice: $9.00
+album: Jormundgand
+artist: Helheim
+categories:
+- Tape
+date: '2021-06-26T15:16:22'
+draft: false
+images:
+- /images/covers/helheim-jormundgand.jpg
 inStock: true
+thumbnailImage: /images/covers/helheim-jormundgand-thumb.jpg
+title: Helheim - Jormundgand
 ---
 
 ## Tape

@@ -1,16 +1,16 @@
 ---
-title: "Babies In The Bardo - Self-Titled"
-date: 2021-06-13T12:22:20
-draft: false
-artist: "Babies In The Bardo"
-album: "Self-Titled"
-categories:
-    - Tape
-images:
-    - "/images/covers/babies_in_the_bardo-self-titled.jpg"
-thumbnailImage: "/images/covers/babies_in_the_bardo-self-titled-thumb.jpg"
 actualPrice: $8.00
+album: Self-Titled
+artist: Babies In The Bardo
+categories:
+- Tape
+date: '2021-06-26T15:16:23'
+draft: false
+images:
+- /images/covers/babies_in_the_bardo-self-titled.jpg
 inStock: true
+thumbnailImage: /images/covers/babies_in_the_bardo-self-titled-thumb.jpg
+title: Babies In The Bardo - Self-Titled
 ---
 
 ## Tape

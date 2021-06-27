@@ -1,16 +1,16 @@
 ---
-title: "Symbel - Gyddigg - Possessed By The Fury Of Wod"
-date: 2021-06-13T12:22:21
-draft: false
-artist: "Symbel"
-album: "Gyddigg - Possessed By The Fury Of Wod"
-categories:
-    - Tape
-images:
-    - "/images/covers/symbel-gyddigg_-_possessed_by_the_fury_of_wod.jpg"
-thumbnailImage: "/images/covers/symbel-gyddigg_-_possessed_by_the_fury_of_wod-thumb.jpg"
 actualPrice: $7.00
+album: Gyddigg - Possessed By The Fury Of Wod
+artist: Symbel
+categories:
+- Tape
+date: '2021-06-26T15:16:23'
+draft: false
+images:
+- /images/covers/symbel-gyddigg_-_possessed_by_the_fury_of_wod.jpg
 inStock: true
+thumbnailImage: /images/covers/symbel-gyddigg_-_possessed_by_the_fury_of_wod-thumb.jpg
+title: Symbel - Gyddigg - Possessed By The Fury Of Wod
 ---
 
 ## Tape

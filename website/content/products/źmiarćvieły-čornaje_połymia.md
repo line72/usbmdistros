@@ -1,16 +1,16 @@
 ---
-title: "Źmiarćvieły - Čornaje Połymia"
-date: 2021-06-13T12:22:18
-draft: false
-artist: "Źmiarćvieły"
-album: "Čornaje Połymia"
-categories:
-    - Tape
-images:
-    - "/images/covers/źmiarćvieły-čornaje_połymia.jpg"
-thumbnailImage: "/images/covers/źmiarćvieły-čornaje_połymia-thumb.jpg"
 actualPrice: $6.00
+album: "\u010Cornaje Po\u0142ymia"
+artist: "\u0179miar\u0107vie\u0142y"
+categories:
+- Tape
+date: '2021-06-26T15:16:20'
+draft: false
+images:
+- "/images/covers/\u017Amiar\u0107vie\u0142y-\u010Dornaje_po\u0142ymia.jpg"
 inStock: true
+thumbnailImage: "/images/covers/\u017Amiar\u0107vie\u0142y-\u010Dornaje_po\u0142ymia-thumb.jpg"
+title: "\u0179miar\u0107vie\u0142y - \u010Cornaje Po\u0142ymia"
 ---
 
 ## Tape

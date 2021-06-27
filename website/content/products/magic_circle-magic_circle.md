@@ -1,16 +1,16 @@
 ---
-title: "Magic Circle - Magic Circle"
-date: 2021-06-22T16:40:40
-draft: false
-artist: "Magic Circle"
-album: "Magic Circle"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/magic_circle-magic_circle.jpg"
-thumbnailImage: "/images/covers/magic_circle-magic_circle-thumb.jpg"
 actualPrice: $17.00
+album: Magic Circle
+artist: Magic Circle
+categories:
+- Vinyl
+date: '2021-06-26T15:22:50'
+draft: false
+images:
+- /images/covers/magic_circle-magic_circle.jpg
 inStock: true
+thumbnailImage: /images/covers/magic_circle-magic_circle-thumb.jpg
+title: Magic Circle - Magic Circle
 ---
 
 ## Vinyl

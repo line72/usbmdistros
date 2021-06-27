@@ -1,16 +1,16 @@
 ---
-title: "Abhor - Ritualia Stramonium"
-date: 2021-06-22T16:40:31
-draft: false
-artist: "Abhor"
-album: "Ritualia Stramonium"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/abhor-ritualia_stramonium.jpg"
-thumbnailImage: "/images/covers/abhor-ritualia_stramonium-thumb.jpg"
 actualPrice: $20.00
+album: Ritualia Stramonium
+artist: Abhor
+categories:
+- Vinyl
+date: '2021-06-26T15:22:41'
+draft: false
+images:
+- /images/covers/abhor-ritualia_stramonium.jpg
 inStock: true
+thumbnailImage: /images/covers/abhor-ritualia_stramonium-thumb.jpg
+title: Abhor - Ritualia Stramonium
 ---
 
 ## Vinyl

@@ -1,16 +1,16 @@
 ---
-title: "Embrace Of Thorns - Atonement Ritual"
-date: 2021-06-22T16:40:36
-draft: false
-artist: "Embrace Of Thorns"
-album: "Atonement Ritual"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/embrace_of_thorns-atonement_ritual.jpg"
-thumbnailImage: "/images/covers/embrace_of_thorns-atonement_ritual-thumb.jpg"
 actualPrice: $20.00
+album: Atonement Ritual
+artist: Embrace of Thorns
+categories:
+- Vinyl
+date: '2021-06-26T15:22:46'
+draft: false
+images:
+- /images/covers/embrace_of_thorns-atonement_ritual.jpg
 inStock: true
+thumbnailImage: /images/covers/embrace_of_thorns-atonement_ritual-thumb.jpg
+title: Embrace of Thorns - Atonement Ritual
 ---
 
 ## Vinyl

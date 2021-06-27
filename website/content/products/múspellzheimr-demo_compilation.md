@@ -1,16 +1,16 @@
 ---
-title: "Múspellzheimr - Demo Compilation"
-date: 2021-06-12T14:07:52
-draft: false
-artist: "Múspellzheimr"
-album: "Demo Compilation"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/múspellzheimr-demo_compilation.jpg"
-thumbnailImage: "/images/covers/múspellzheimr-demo_compilation-thumb.jpg"
 actualPrice: $21.00
+album: Demo Compilation
+artist: "M\xFAspellzheimr"
+categories:
+- Vinyl
+date: '2021-06-26T15:02:55'
+draft: false
+images:
+- "/images/covers/m\xFAspellzheimr-demo_compilation.jpg"
 inStock: true
+thumbnailImage: "/images/covers/m\xFAspellzheimr-demo_compilation-thumb.jpg"
+title: "M\xFAspellzheimr - Demo Compilation"
 ---
 
 ## Vinyl

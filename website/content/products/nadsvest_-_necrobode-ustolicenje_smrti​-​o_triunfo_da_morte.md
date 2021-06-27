@@ -1,17 +1,18 @@
 ---
-title: "Nadsvest / Necrobode - Ustolicenje smrti​/​O triunfo da morte"
-date: 2021-06-22T16:41:02
-draft: false
-artist: "Nadsvest / Necrobode"
-album: "Ustolicenje smrti​/​O triunfo da morte"
-categories:
-    - Vinyl
-    - CD
-images:
-    - "/images/covers/nadsvest_-_necrobode-ustolicenje_smrti​-​o_triunfo_da_morte.jpg"
-thumbnailImage: "/images/covers/nadsvest_-_necrobode-ustolicenje_smrti​-​o_triunfo_da_morte-thumb.jpg"
 actualPrice: $10.00 - 20.00
+album: "Ustolicenje smrti\u200B/\u200BO triunfo da morte"
+artist: Nadsvest / Necrobode
+categories:
+- Vinyl
+- CD
+date: '2021-06-26T15:23:12'
+draft: false
+images:
+- "/images/covers/nadsvest_-_necrobode-ustolicenje_smrti\u200B-\u200Bo_triunfo_da_morte.jpg"
 inStock: true
+thumbnailImage: "/images/covers/nadsvest_-_necrobode-ustolicenje_smrti\u200B-\u200B\
+  o_triunfo_da_morte-thumb.jpg"
+title: "Nadsvest / Necrobode - Ustolicenje smrti\u200B/\u200BO triunfo da morte"
 ---
 
 ## Vinyl

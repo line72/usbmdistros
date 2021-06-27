@@ -1,17 +1,17 @@
 ---
-title: "Idolatria - Tetrabestiarchy"
-date: 2021-06-12T14:07:56
-draft: false
-artist: "Idolatria"
-album: "Tetrabestiarchy"
-categories:
-    - Vinyl
-    - Tape
-images:
-    - "/images/covers/idolatria-tetrabestiarchy.jpg"
-thumbnailImage: "/images/covers/idolatria-tetrabestiarchy-thumb.jpg"
 actualPrice: $10.00 - 25.00
+album: Tetrabestiarchy
+artist: Idolatria
+categories:
+- Vinyl
+- Tape
+date: '2021-06-26T15:03:02'
+draft: false
+images:
+- /images/covers/idolatria-tetrabestiarchy.jpg
 inStock: true
+thumbnailImage: /images/covers/idolatria-tetrabestiarchy-thumb.jpg
+title: Idolatria - Tetrabestiarchy
 ---
 
 ## Vinyl

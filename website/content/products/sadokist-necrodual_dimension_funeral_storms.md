@@ -1,17 +1,17 @@
 ---
-title: "Sadokist - Necrodual Dimension Funeral Storms"
-date: 2021-06-22T16:41:04
-draft: false
-artist: "Sadokist"
-album: "Necrodual Dimension Funeral Storms"
-categories:
-    - Tape
-    - CD
-images:
-    - "/images/covers/sadokist-necrodual_dimension_funeral_storms.jpg"
-thumbnailImage: "/images/covers/sadokist-necrodual_dimension_funeral_storms-thumb.jpg"
 actualPrice: $7.00 - 10.00
+album: Necrodual Dimension Funeral Storms
+artist: Sadokist
+categories:
+- Tape
+- CD
+date: '2021-06-26T15:23:14'
+draft: false
+images:
+- /images/covers/sadokist-necrodual_dimension_funeral_storms.jpg
 inStock: true
+thumbnailImage: /images/covers/sadokist-necrodual_dimension_funeral_storms-thumb.jpg
+title: Sadokist - Necrodual Dimension Funeral Storms
 ---
 
 ## Tape

@@ -1,16 +1,16 @@
 ---
-title: "Spear Of Teuta - Self-Titled"
-date: 2021-06-13T12:22:18
-draft: false
-artist: "Spear Of Teuta"
-album: "Self-Titled"
-categories:
-    - Tape
-images:
-    - "/images/covers/spear_of_teuta-self-titled.jpg"
-thumbnailImage: "/images/covers/spear_of_teuta-self-titled-thumb.jpg"
 actualPrice: $10.00
+album: Self-Titled
+artist: Spear Of Teuta
+categories:
+- Tape
+date: '2021-06-26T15:16:21'
+draft: false
+images:
+- /images/covers/spear_of_teuta-self-titled.jpg
 inStock: true
+thumbnailImage: /images/covers/spear_of_teuta-self-titled-thumb.jpg
+title: Spear Of Teuta - Self-Titled
 ---
 
 ## Tape

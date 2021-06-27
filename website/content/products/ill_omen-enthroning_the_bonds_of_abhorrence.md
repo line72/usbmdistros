@@ -1,16 +1,16 @@
 ---
-title: "Ill Omen - Enthroning the Bonds of Abhorrence"
-date: 2021-06-22T16:40:39
-draft: false
-artist: "Ill Omen"
-album: "Enthroning the Bonds of Abhorrence"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/ill_omen-enthroning_the_bonds_of_abhorrence.jpg"
-thumbnailImage: "/images/covers/ill_omen-enthroning_the_bonds_of_abhorrence-thumb.jpg"
 actualPrice: $25.00
+album: Enthroning the Bonds of Abhorrence
+artist: Ill Omen
+categories:
+- Vinyl
+date: '2021-06-26T15:22:49'
+draft: false
+images:
+- /images/covers/ill_omen-enthroning_the_bonds_of_abhorrence.jpg
 inStock: true
+thumbnailImage: /images/covers/ill_omen-enthroning_the_bonds_of_abhorrence-thumb.jpg
+title: Ill Omen - Enthroning the Bonds of Abhorrence
 ---
 
 ## Vinyl

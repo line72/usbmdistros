@@ -1,16 +1,16 @@
 ---
-title: "Primogenorum - Damned Hearts in the Abyss of Madness"
-date: 2021-06-22T16:40:43
-draft: false
-artist: "Primogenorum"
-album: "Damned Hearts in the Abyss of Madness"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/primogenorum-damned_hearts_in_the_abyss_of_madness.jpg"
-thumbnailImage: "/images/covers/primogenorum-damned_hearts_in_the_abyss_of_madness-thumb.jpg"
 actualPrice: $16.00
+album: Damned Hearts in the Abyss of Madness
+artist: Primogenorum
+categories:
+- Vinyl
+date: '2021-06-26T15:22:53'
+draft: false
+images:
+- /images/covers/primogenorum-damned_hearts_in_the_abyss_of_madness.jpg
 inStock: true
+thumbnailImage: /images/covers/primogenorum-damned_hearts_in_the_abyss_of_madness-thumb.jpg
+title: Primogenorum - Damned Hearts in the Abyss of Madness
 ---
 
 ## Vinyl

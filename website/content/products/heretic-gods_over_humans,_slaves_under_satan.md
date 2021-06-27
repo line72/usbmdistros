@@ -1,16 +1,16 @@
 ---
-title: "Heretic - Gods Over Humans, Slaves Under Satan"
-date: 2021-06-22T16:40:39
-draft: false
-artist: "Heretic"
-album: "Gods Over Humans, Slaves Under Satan"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/heretic-gods_over_humans,_slaves_under_satan.jpg"
-thumbnailImage: "/images/covers/heretic-gods_over_humans,_slaves_under_satan-thumb.jpg"
 actualPrice: $35.00
+album: Gods Over Humans, Slaves Under Satan
+artist: Heretic
+categories:
+- Vinyl
+date: '2021-06-26T15:22:48'
+draft: false
+images:
+- /images/covers/heretic-gods_over_humans,_slaves_under_satan.jpg
 inStock: true
+thumbnailImage: /images/covers/heretic-gods_over_humans,_slaves_under_satan-thumb.jpg
+title: Heretic - Gods Over Humans, Slaves Under Satan
 ---
 
 ## Vinyl

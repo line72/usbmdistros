@@ -1,16 +1,16 @@
 ---
-title: "Múspellzheimr / Aiwīgaz Unðergangaz - Split"
-date: 2021-06-12T14:07:59
-draft: false
-artist: "Múspellzheimr / Aiwīgaz Unðergangaz"
-album: "Split"
-categories:
-    - CD
-images:
-    - "/images/covers/múspellzheimr_-_aiwīgaz_unðergangaz-split.jpg"
-thumbnailImage: "/images/covers/múspellzheimr_-_aiwīgaz_unðergangaz-split-thumb.jpg"
 actualPrice: $12.00
+album: Split
+artist: "M\xFAspellzheimr / Aiw\u012Bgaz Un\xF0ergangaz"
+categories:
+- CD
+date: '2021-06-26T15:03:08'
+draft: false
+images:
+- "/images/covers/m\xFAspellzheimr_-_aiw\u012Bgaz_un\xF0ergangaz-split.jpg"
 inStock: true
+thumbnailImage: "/images/covers/m\xFAspellzheimr_-_aiw\u012Bgaz_un\xF0ergangaz-split-thumb.jpg"
+title: "M\xFAspellzheimr / Aiw\u012Bgaz Un\xF0ergangaz - Split"
 ---
 
 ## CD

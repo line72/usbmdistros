@@ -1,16 +1,16 @@
 ---
-title: "JoDöden - Cellskräcksmemoarer"
-date: 2021-06-22T16:40:40
-draft: false
-artist: "JoDöden"
-album: "Cellskräcksmemoarer"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/jodöden-cellskräcksmemoarer.jpg"
-thumbnailImage: "/images/covers/jodöden-cellskräcksmemoarer-thumb.jpg"
 actualPrice: $25.00
+album: "Cellskr\xE4cksmemoarer"
+artist: "JoD\xF6den"
+categories:
+- Vinyl
+date: '2021-06-26T15:22:49'
+draft: false
+images:
+- "/images/covers/jod\xF6den-cellskr\xE4cksmemoarer.jpg"
 inStock: true
+thumbnailImage: "/images/covers/jod\xF6den-cellskr\xE4cksmemoarer-thumb.jpg"
+title: "JoD\xF6den - Cellskr\xE4cksmemoarer"
 ---
 
 ## Vinyl

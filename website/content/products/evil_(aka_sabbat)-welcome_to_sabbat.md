@@ -1,16 +1,16 @@
 ---
-title: "Evil (AKA Sabbat) - Welcome to Sabbat"
-date: 2021-06-22T16:40:37
-draft: false
-artist: "Evil (AKA Sabbat)"
-album: "Welcome to Sabbat"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/evil_(aka_sabbat)-welcome_to_sabbat.jpg"
-thumbnailImage: "/images/covers/evil_(aka_sabbat)-welcome_to_sabbat-thumb.jpg"
 actualPrice: $20.00
+album: Welcome to Sabbat
+artist: Evil (AKA Sabbat)
+categories:
+- Vinyl
+date: '2021-06-26T15:22:46'
+draft: false
+images:
+- /images/covers/evil_(aka_sabbat)-welcome_to_sabbat.jpg
 inStock: true
+thumbnailImage: /images/covers/evil_(aka_sabbat)-welcome_to_sabbat-thumb.jpg
+title: Evil (AKA Sabbat) - Welcome to Sabbat
 ---
 
 ## Vinyl

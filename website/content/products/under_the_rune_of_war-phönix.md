@@ -1,16 +1,16 @@
 ---
-title: "Under the Rune of War - Phönix"
-date: 2021-06-12T14:07:52
-draft: false
-artist: "Under the Rune of War"
-album: "Phönix"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/under_the_rune_of_war-phönix.jpg"
-thumbnailImage: "/images/covers/under_the_rune_of_war-phönix-thumb.jpg"
 actualPrice: $30.00
+album: "Ph\xF6nix"
+artist: Under the Rune of War
+categories:
+- Vinyl
+date: '2021-06-26T15:02:54'
+draft: false
+images:
+- "/images/covers/under_the_rune_of_war-ph\xF6nix.jpg"
 inStock: true
+thumbnailImage: "/images/covers/under_the_rune_of_war-ph\xF6nix-thumb.jpg"
+title: "Under the Rune of War - Ph\xF6nix"
 ---
 
 ## Vinyl

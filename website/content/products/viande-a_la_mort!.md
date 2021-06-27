@@ -1,16 +1,16 @@
 ---
-title: "Viande - A La Mort!"
-date: 2021-06-13T12:22:24
-draft: false
-artist: "Viande"
-album: "A La Mort!"
-categories:
-    - Tape
-images:
-    - "/images/covers/viande-a_la_mort!.jpg"
-thumbnailImage: "/images/covers/viande-a_la_mort!-thumb.jpg"
 actualPrice: $4.00
+album: A La Mort!
+artist: Viande
+categories:
+- Tape
+date: '2021-06-26T15:16:26'
+draft: false
+images:
+- /images/covers/viande-a_la_mort!.jpg
 inStock: true
+thumbnailImage: /images/covers/viande-a_la_mort!-thumb.jpg
+title: Viande - A La Mort!
 ---
 
 ## Tape

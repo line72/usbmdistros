@@ -1,16 +1,16 @@
 ---
-title: "Darkthrone - Fuck off and Die"
-date: 2021-06-22T16:40:35
-draft: false
-artist: "Darkthrone"
-album: "Fuck off and Die"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/darkthrone-fuck_off_and_die.jpg"
-thumbnailImage: "/images/covers/darkthrone-fuck_off_and_die-thumb.jpg"
 actualPrice: $25.00
+album: Fuck off and Die
+artist: Darkthrone
+categories:
+- Vinyl
+date: '2021-06-26T15:22:44'
+draft: false
+images:
+- /images/covers/darkthrone-fuck_off_and_die.jpg
 inStock: true
+thumbnailImage: /images/covers/darkthrone-fuck_off_and_die-thumb.jpg
+title: Darkthrone - Fuck off and Die
 ---
 
 ## Vinyl

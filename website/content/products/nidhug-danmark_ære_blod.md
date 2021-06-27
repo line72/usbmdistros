@@ -1,16 +1,16 @@
 ---
-title: "Nidhug - Danmark Ære Blod"
-date: 2021-06-22T16:40:42
-draft: false
-artist: "Nidhug"
-album: "Danmark Ære Blod"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/nidhug-danmark_ære_blod.jpg"
-thumbnailImage: "/images/covers/nidhug-danmark_ære_blod-thumb.jpg"
 actualPrice: $17.00
+album: "Danmark \xC6re Blod"
+artist: Nidhug
+categories:
+- Vinyl
+date: '2021-06-26T15:22:52'
+draft: false
+images:
+- "/images/covers/nidhug-danmark_\xE6re_blod.jpg"
 inStock: true
+thumbnailImage: "/images/covers/nidhug-danmark_\xE6re_blod-thumb.jpg"
+title: "Nidhug - Danmark \xC6re Blod"
 ---
 
 ## Vinyl

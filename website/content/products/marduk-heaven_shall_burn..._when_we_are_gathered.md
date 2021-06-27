@@ -1,16 +1,16 @@
 ---
-title: "Marduk - Heaven Shall Burn... When we are Gathered"
-date: 2021-06-22T16:40:41
-draft: false
-artist: "Marduk"
-album: "Heaven Shall Burn... When we are Gathered"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/marduk-heaven_shall_burn..._when_we_are_gathered.jpg"
-thumbnailImage: "/images/covers/marduk-heaven_shall_burn..._when_we_are_gathered-thumb.jpg"
 actualPrice: $22.00
+album: Heaven Shall Burn... When we are Gathered
+artist: Marduk
+categories:
+- Vinyl
+date: '2021-06-26T15:22:50'
+draft: false
+images:
+- /images/covers/marduk-heaven_shall_burn..._when_we_are_gathered.jpg
 inStock: true
+thumbnailImage: /images/covers/marduk-heaven_shall_burn..._when_we_are_gathered-thumb.jpg
+title: Marduk - Heaven Shall Burn... When we are Gathered
 ---
 
 ## Vinyl

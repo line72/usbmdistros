@@ -1,16 +1,16 @@
 ---
-title: "Hatespirit - Ageless Wilderness"
-date: 2021-06-22T16:40:38
-draft: false
-artist: "Hatespirit"
-album: "Ageless Wilderness"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/hatespirit-ageless_wilderness.jpg"
-thumbnailImage: "/images/covers/hatespirit-ageless_wilderness-thumb.jpg"
 actualPrice: $16.00 - 20.00
+album: Ageless Wilderness
+artist: Hatespirit
+categories:
+- Vinyl
+date: '2021-06-26T15:22:48'
+draft: false
+images:
+- /images/covers/hatespirit-ageless_wilderness.jpg
 inStock: true
+thumbnailImage: /images/covers/hatespirit-ageless_wilderness-thumb.jpg
+title: Hatespirit - Ageless Wilderness
 ---
 
 ## Vinyl

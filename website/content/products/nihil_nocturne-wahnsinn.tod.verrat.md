@@ -1,16 +1,16 @@
 ---
-title: "Nihil Nocturne - Wahnsinn.tod.verrat"
-date: 2021-06-22T16:40:42
-draft: false
-artist: "Nihil Nocturne"
-album: "Wahnsinn.tod.verrat"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/nihil_nocturne-wahnsinn.tod.verrat.jpg"
-thumbnailImage: "/images/covers/nihil_nocturne-wahnsinn.tod.verrat-thumb.jpg"
 actualPrice: $25.00
+album: Wahnsinn.tod.verrat
+artist: Nihil Nocturne
+categories:
+- Vinyl
+date: '2021-06-26T15:22:52'
+draft: false
+images:
+- /images/covers/nihil_nocturne-wahnsinn.tod.verrat.jpg
 inStock: true
+thumbnailImage: /images/covers/nihil_nocturne-wahnsinn.tod.verrat-thumb.jpg
+title: Nihil Nocturne - Wahnsinn.tod.verrat
 ---
 
 ## Vinyl

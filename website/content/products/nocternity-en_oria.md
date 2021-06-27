@@ -1,16 +1,16 @@
 ---
-title: "Nocternity - En Oria"
-date: 2021-06-22T16:40:42
-draft: false
-artist: "Nocternity"
-album: "En Oria"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/nocternity-en_oria.jpg"
-thumbnailImage: "/images/covers/nocternity-en_oria-thumb.jpg"
 actualPrice: $25.00
+album: En Oria
+artist: Nocternity
+categories:
+- Vinyl
+date: '2021-06-26T15:22:52'
+draft: false
+images:
+- /images/covers/nocternity-en_oria.jpg
 inStock: true
+thumbnailImage: /images/covers/nocternity-en_oria-thumb.jpg
+title: Nocternity - En Oria
 ---
 
 ## Vinyl

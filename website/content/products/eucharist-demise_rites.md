@@ -1,16 +1,16 @@
 ---
-title: "Eucharist - Demise Rites"
-date: 2021-06-22T16:40:37
-draft: false
-artist: "Eucharist"
-album: "Demise Rites"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/eucharist-demise_rites.jpg"
-thumbnailImage: "/images/covers/eucharist-demise_rites-thumb.jpg"
 actualPrice: $17.00
+album: Demise Rites
+artist: Eucharist
+categories:
+- Vinyl
+date: '2021-06-26T15:22:46'
+draft: false
+images:
+- /images/covers/eucharist-demise_rites.jpg
 inStock: true
+thumbnailImage: /images/covers/eucharist-demise_rites-thumb.jpg
+title: Eucharist - Demise Rites
 ---
 
 ## Vinyl

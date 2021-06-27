@@ -1,16 +1,16 @@
 ---
-title: "Nachtgeist - Nocturnal Abstractions"
-date: 2021-06-22T16:40:42
-draft: false
-artist: "Nachtgeist"
-album: "Nocturnal Abstractions"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/nachtgeist-nocturnal_abstractions.jpg"
-thumbnailImage: "/images/covers/nachtgeist-nocturnal_abstractions-thumb.jpg"
 actualPrice: $25.00
+album: Nocturnal Abstractions
+artist: Nachtgeist
+categories:
+- Vinyl
+date: '2021-06-26T15:22:52'
+draft: false
+images:
+- /images/covers/nachtgeist-nocturnal_abstractions.jpg
 inStock: true
+thumbnailImage: /images/covers/nachtgeist-nocturnal_abstractions-thumb.jpg
+title: Nachtgeist - Nocturnal Abstractions
 ---
 
 ## Vinyl

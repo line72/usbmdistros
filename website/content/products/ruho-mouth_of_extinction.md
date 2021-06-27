@@ -1,16 +1,16 @@
 ---
-title: "Ruho - Mouth of Extinction"
-date: 2021-06-12T14:07:52
-draft: false
-artist: "Ruho"
-album: "Mouth of Extinction"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/ruho-mouth_of_extinction.jpg"
-thumbnailImage: "/images/covers/ruho-mouth_of_extinction-thumb.jpg"
 actualPrice: $17.00
+album: Mouth of Extinction
+artist: Ruho
+categories:
+- Vinyl
+date: '2021-06-26T15:02:55'
+draft: false
+images:
+- /images/covers/ruho-mouth_of_extinction.jpg
 inStock: true
+thumbnailImage: /images/covers/ruho-mouth_of_extinction-thumb.jpg
+title: Ruho - Mouth of Extinction
 ---
 
 ## Vinyl

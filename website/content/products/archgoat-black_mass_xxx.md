@@ -1,17 +1,17 @@
 ---
-title: "Archgoat - Black Mass XXX"
-date: 2021-06-12T14:11:52
-draft: false
-artist: "Archgoat"
-album: "Black Mass XXX"
-categories:
-    - Vinyl
-    - CD
-images:
-    - "/images/covers/archgoat-black_mass_xxx.jpg"
-thumbnailImage: "/images/covers/archgoat-black_mass_xxx-thumb.jpg"
 actualPrice: $10.99 - 33.99
+album: Black Mass XXX
+artist: Archgoat
+categories:
+- Vinyl
+- CD
+date: '2021-06-26T15:15:51'
+draft: false
+images:
+- /images/covers/archgoat-black_mass_xxx.jpg
 inStock: true
+thumbnailImage: /images/covers/archgoat-black_mass_xxx-thumb.jpg
+title: Archgoat - Black Mass XXX
 ---
 
 ## Vinyl

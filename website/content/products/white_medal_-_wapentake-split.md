@@ -1,18 +1,18 @@
 ---
-title: "White Medal / Wapentake - Split"
-date: 2021-06-22T16:41:14
-draft: false
-artist: "White Medal / Wapentake"
-album: "Split"
-categories:
-    - Vinyl
-    - Cassette
-    - CD
-images:
-    - "/images/covers/white_medal_-_wapentake-split.jpg"
-thumbnailImage: "/images/covers/white_medal_-_wapentake-split-thumb.jpg"
 actualPrice: $10.00 - 25.00
+album: Split
+artist: White Medal / Wapentake
+categories:
+- Vinyl
+- Cassette
+- CD
+date: '2021-06-26T15:23:24'
+draft: false
+images:
+- /images/covers/white_medal_-_wapentake-split.jpg
 inStock: true
+thumbnailImage: /images/covers/white_medal_-_wapentake-split-thumb.jpg
+title: White Medal / Wapentake - Split
 ---
 
 ## Vinyl

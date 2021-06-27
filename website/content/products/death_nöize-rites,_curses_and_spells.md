@@ -1,16 +1,16 @@
 ---
-title: "Death Nöize - Rites, Curses and Spells"
-date: 2021-06-22T16:40:35
-draft: false
-artist: "Death Nöize"
-album: "Rites, Curses and Spells"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/death_nöize-rites,_curses_and_spells.jpg"
-thumbnailImage: "/images/covers/death_nöize-rites,_curses_and_spells-thumb.jpg"
 actualPrice: $20.00
+album: Rites, Curses and Spells
+artist: "Death N\xF6ize"
+categories:
+- Vinyl
+date: '2021-06-26T15:22:45'
+draft: false
+images:
+- "/images/covers/death_n\xF6ize-rites,_curses_and_spells.jpg"
 inStock: true
+thumbnailImage: "/images/covers/death_n\xF6ize-rites,_curses_and_spells-thumb.jpg"
+title: "Death N\xF6ize - Rites, Curses and Spells"
 ---
 
 ## Vinyl

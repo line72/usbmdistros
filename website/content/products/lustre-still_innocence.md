@@ -1,16 +1,16 @@
 ---
-title: "Lustre - Still Innocence"
-date: 2021-06-22T16:40:40
-draft: false
-artist: "Lustre"
-album: "Still Innocence"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/lustre-still_innocence.jpg"
-thumbnailImage: "/images/covers/lustre-still_innocence-thumb.jpg"
 actualPrice: $22.00
+album: Still Innocence
+artist: Lustre
+categories:
+- Vinyl
+date: '2021-06-26T15:22:50'
+draft: false
+images:
+- /images/covers/lustre-still_innocence.jpg
 inStock: true
+thumbnailImage: /images/covers/lustre-still_innocence-thumb.jpg
+title: Lustre - Still Innocence
 ---
 
 ## Vinyl

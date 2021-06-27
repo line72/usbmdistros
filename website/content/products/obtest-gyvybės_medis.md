@@ -1,16 +1,16 @@
 ---
-title: "Obtest - Gyvybės Medis"
-date: 2021-06-22T16:40:42
-draft: false
-artist: "Obtest"
-album: "Gyvybės Medis"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/obtest-gyvybės_medis.jpg"
-thumbnailImage: "/images/covers/obtest-gyvybės_medis-thumb.jpg"
 actualPrice: $15.00
+album: "Gyvyb\u0117s Medis"
+artist: Obtest
+categories:
+- Vinyl
+date: '2021-06-26T15:22:52'
+draft: false
+images:
+- "/images/covers/obtest-gyvyb\u0117s_medis.jpg"
 inStock: true
+thumbnailImage: "/images/covers/obtest-gyvyb\u0117s_medis-thumb.jpg"
+title: "Obtest - Gyvyb\u0117s Medis"
 ---
 
 ## Vinyl

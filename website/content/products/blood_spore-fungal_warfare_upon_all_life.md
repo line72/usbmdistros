@@ -1,17 +1,17 @@
 ---
-title: "Blood Spore - Fungal Warfare Upon All Life"
-date: 2021-06-22T16:40:54
-draft: false
-artist: "Blood Spore"
-album: "Fungal Warfare Upon All Life"
-categories:
-    - Vinyl
-    - CD
-images:
-    - "/images/covers/blood_spore-fungal_warfare_upon_all_life.jpg"
-thumbnailImage: "/images/covers/blood_spore-fungal_warfare_upon_all_life-thumb.jpg"
 actualPrice: $12.00 - 20.00
+album: Fungal Warfare Upon All Life
+artist: Blood Spore
+categories:
+- Vinyl
+- CD
+date: '2021-06-26T15:23:04'
+draft: false
+images:
+- /images/covers/blood_spore-fungal_warfare_upon_all_life.jpg
 inStock: true
+thumbnailImage: /images/covers/blood_spore-fungal_warfare_upon_all_life-thumb.jpg
+title: Blood Spore - Fungal Warfare Upon All Life
 ---
 
 ## Vinyl

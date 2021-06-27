@@ -1,16 +1,16 @@
 ---
-title: "Dagger Lust - Siege Bondage Adverse to the Godhead"
-date: 2021-06-22T16:40:35
-draft: false
-artist: "Dagger Lust"
-album: "Siege Bondage Adverse to the Godhead"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/dagger_lust-siege_bondage_adverse_to_the_godhead.jpg"
-thumbnailImage: "/images/covers/dagger_lust-siege_bondage_adverse_to_the_godhead-thumb.jpg"
 actualPrice: $20.00
+album: Siege Bondage Adverse to the Godhead
+artist: Dagger Lust
+categories:
+- Vinyl
+date: '2021-06-26T15:22:44'
+draft: false
+images:
+- /images/covers/dagger_lust-siege_bondage_adverse_to_the_godhead.jpg
 inStock: true
+thumbnailImage: /images/covers/dagger_lust-siege_bondage_adverse_to_the_godhead-thumb.jpg
+title: Dagger Lust - Siege Bondage Adverse to the Godhead
 ---
 
 ## Vinyl

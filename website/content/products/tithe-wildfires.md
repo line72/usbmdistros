@@ -1,16 +1,16 @@
 ---
-title: "Tithe - Wildfires"
-date: 2021-06-12T14:07:56
-draft: false
-artist: "Tithe"
-album: "Wildfires"
-categories:
-    - Tape
-images:
-    - "/images/covers/tithe-wildfires.jpg"
-thumbnailImage: "/images/covers/tithe-wildfires-thumb.jpg"
 actualPrice: $9.00
+album: Wildfires
+artist: Tithe
+categories:
+- Tape
+date: '2021-06-26T15:03:02'
+draft: false
+images:
+- /images/covers/tithe-wildfires.jpg
 inStock: true
+thumbnailImage: /images/covers/tithe-wildfires-thumb.jpg
+title: Tithe - Wildfires
 ---
 
 ## Tape

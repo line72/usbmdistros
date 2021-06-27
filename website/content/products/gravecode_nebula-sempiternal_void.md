@@ -1,18 +1,18 @@
 ---
-title: "Gravecode Nebula - Sempiternal Void"
-date: 2021-06-22T16:41:10
-draft: false
-artist: "Gravecode Nebula"
-album: "Sempiternal Void"
-categories:
-    - Vinyl
-    - Cassette
-    - CD
-images:
-    - "/images/covers/gravecode_nebula-sempiternal_void.jpg"
-thumbnailImage: "/images/covers/gravecode_nebula-sempiternal_void-thumb.jpg"
 actualPrice: $6.00 - 22.00
+album: Sempiternal Void
+artist: Gravecode Nebula
+categories:
+- Vinyl
+- Cassette
+- CD
+date: '2021-06-26T15:23:20'
+draft: false
+images:
+- /images/covers/gravecode_nebula-sempiternal_void.jpg
 inStock: true
+thumbnailImage: /images/covers/gravecode_nebula-sempiternal_void-thumb.jpg
+title: Gravecode Nebula - Sempiternal Void
 ---
 
 ## Vinyl

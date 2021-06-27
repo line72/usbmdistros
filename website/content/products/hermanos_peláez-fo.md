@@ -1,16 +1,16 @@
 ---
-title: "Hermanos Peláez - FO"
-date: 2021-06-22T16:40:39
-draft: false
-artist: "Hermanos Peláez"
-album: "FO"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/hermanos_peláez-fo.jpg"
-thumbnailImage: "/images/covers/hermanos_peláez-fo-thumb.jpg"
 actualPrice: $17.00
+album: FO
+artist: "Hermanos Pel\xE1ez"
+categories:
+- Vinyl
+date: '2021-06-26T15:22:48'
+draft: false
+images:
+- "/images/covers/hermanos_pel\xE1ez-fo.jpg"
 inStock: true
+thumbnailImage: "/images/covers/hermanos_pel\xE1ez-fo-thumb.jpg"
+title: "Hermanos Pel\xE1ez - FO"
 ---
 
 ## Vinyl

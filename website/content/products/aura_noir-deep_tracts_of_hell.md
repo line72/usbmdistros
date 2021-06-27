@@ -1,16 +1,16 @@
 ---
-title: "Aura Noir - Deep Tracts Of Hell"
-date: 2021-06-22T16:40:33
-draft: false
-artist: "Aura Noir"
-album: "Deep Tracts Of Hell"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/aura_noir-deep_tracts_of_hell.jpg"
-thumbnailImage: "/images/covers/aura_noir-deep_tracts_of_hell-thumb.jpg"
 actualPrice: $25.00
+album: Deep Tracts Of Hell
+artist: Aura Noir
+categories:
+- Vinyl
+date: '2021-06-26T15:22:42'
+draft: false
+images:
+- /images/covers/aura_noir-deep_tracts_of_hell.jpg
 inStock: true
+thumbnailImage: /images/covers/aura_noir-deep_tracts_of_hell-thumb.jpg
+title: Aura Noir - Deep Tracts Of Hell
 ---
 
 ## Vinyl

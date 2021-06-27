@@ -1,17 +1,17 @@
 ---
-title: "Blut Aus Nord - Thematic Emanation of Archetypal Multiplicity"
-date: 2021-06-12T14:11:53
-draft: false
-artist: "Blut Aus Nord"
-album: "Thematic Emanation of Archetypal Multiplicity"
-categories:
-    - Vinyl
-    - Tape
-images:
-    - "/images/covers/blut_aus_nord-thematic_emanation_of_archetypal_multiplicity.jpg"
-thumbnailImage: "/images/covers/blut_aus_nord-thematic_emanation_of_archetypal_multiplicity-thumb.jpg"
 actualPrice: $13.99 - 20.00
+album: Thematic Emanation of Archetypal Multiplicity
+artist: Blut Aus Nord
+categories:
+- Vinyl
+- Tape
+date: '2021-06-26T15:15:52'
+draft: false
+images:
+- /images/covers/blut_aus_nord-thematic_emanation_of_archetypal_multiplicity.jpg
 inStock: true
+thumbnailImage: /images/covers/blut_aus_nord-thematic_emanation_of_archetypal_multiplicity-thumb.jpg
+title: Blut Aus Nord - Thematic Emanation of Archetypal Multiplicity
 ---
 
 ## Vinyl

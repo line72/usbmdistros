@@ -1,16 +1,16 @@
 ---
-title: "Megiddo - The Devil And The Whore"
-date: 2021-06-22T16:40:41
-draft: false
-artist: "Megiddo"
-album: "The Devil And The Whore"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/megiddo-the_devil_and_the_whore.jpg"
-thumbnailImage: "/images/covers/megiddo-the_devil_and_the_whore-thumb.jpg"
 actualPrice: $25.00
+album: The Devil And The Whore
+artist: Megiddo
+categories:
+- Vinyl
+date: '2021-06-26T15:22:51'
+draft: false
+images:
+- /images/covers/megiddo-the_devil_and_the_whore.jpg
 inStock: true
+thumbnailImage: /images/covers/megiddo-the_devil_and_the_whore-thumb.jpg
+title: Megiddo - The Devil And The Whore
 ---
 
 ## Vinyl

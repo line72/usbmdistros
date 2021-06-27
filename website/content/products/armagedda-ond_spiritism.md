@@ -1,17 +1,17 @@
 ---
-title: "Armagedda - Ond Spiritism"
-date: 2021-06-22T16:41:08
-draft: false
-artist: "Armagedda"
-album: "Ond Spiritism"
-categories:
-    - Vinyl
-    - Cassette
-images:
-    - "/images/covers/armagedda-ond_spiritism.jpg"
-thumbnailImage: "/images/covers/armagedda-ond_spiritism-thumb.jpg"
 actualPrice: $10.00 - 22.00
+album: Ond Spiritism
+artist: Armagedda
+categories:
+- Vinyl
+- Cassette
+date: '2021-06-26T15:23:19'
+draft: false
+images:
+- /images/covers/armagedda-ond_spiritism.jpg
 inStock: true
+thumbnailImage: /images/covers/armagedda-ond_spiritism-thumb.jpg
+title: Armagedda - Ond Spiritism
 ---
 
 ## Vinyl

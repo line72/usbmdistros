@@ -1,16 +1,16 @@
 ---
-title: "Geheimnisvoll - Perished Summonings"
-date: 2021-06-12T14:07:58
-draft: false
-artist: "Geheimnisvoll"
-album: "Perished Summonings"
-categories:
-    - CD
-images:
-    - "/images/covers/geheimnisvoll-perished_summonings.jpg"
-thumbnailImage: "/images/covers/geheimnisvoll-perished_summonings-thumb.jpg"
 actualPrice: $15.00
+album: Perished Summonings
+artist: Geheimnisvoll
+categories:
+- CD
+date: '2021-06-26T15:03:08'
+draft: false
+images:
+- /images/covers/geheimnisvoll-perished_summonings.jpg
 inStock: true
+thumbnailImage: /images/covers/geheimnisvoll-perished_summonings-thumb.jpg
+title: Geheimnisvoll - Perished Summonings
 ---
 
 ## CD

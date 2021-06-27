@@ -1,16 +1,16 @@
 ---
-title: "The Howling Wind - Shadow Tentacles"
-date: 2021-06-13T12:22:22
-draft: false
-artist: "The Howling Wind"
-album: "Shadow Tentacles"
-categories:
-    - Tape
-images:
-    - "/images/covers/the_howling_wind-shadow_tentacles.jpg"
-thumbnailImage: "/images/covers/the_howling_wind-shadow_tentacles-thumb.jpg"
 actualPrice: $4.50
+album: Shadow Tentacles
+artist: The Howling Wind
+categories:
+- Tape
+date: '2021-06-26T15:16:25'
+draft: false
+images:
+- /images/covers/the_howling_wind-shadow_tentacles.jpg
 inStock: true
+thumbnailImage: /images/covers/the_howling_wind-shadow_tentacles-thumb.jpg
+title: The Howling Wind - Shadow Tentacles
 ---
 
 ## Tape

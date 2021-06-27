@@ -1,17 +1,17 @@
 ---
-title: "Goatpenis / Demonic Apparition - United in Demonic Warfare"
-date: 2021-06-22T16:40:57
-draft: false
-artist: "Goatpenis / Demonic Apparition"
-album: "United in Demonic Warfare"
-categories:
-    - Vinyl
-    - CD
-images:
-    - "/images/covers/goatpenis_-_demonic_apparition-united_in_demonic_warfare.jpg"
-thumbnailImage: "/images/covers/goatpenis_-_demonic_apparition-united_in_demonic_warfare-thumb.jpg"
 actualPrice: $10.00 - 25.00
+album: United in Demonic Warfare
+artist: Goatpenis / Demonic Apparition
+categories:
+- Vinyl
+- CD
+date: '2021-06-26T15:23:08'
+draft: false
+images:
+- /images/covers/goatpenis_-_demonic_apparition-united_in_demonic_warfare.jpg
 inStock: true
+thumbnailImage: /images/covers/goatpenis_-_demonic_apparition-united_in_demonic_warfare-thumb.jpg
+title: Goatpenis / Demonic Apparition - United in Demonic Warfare
 ---
 
 ## Vinyl

@@ -1,16 +1,16 @@
 ---
-title: "Aske - Goatfuck / Saatan Legio"
-date: 2021-06-22T16:40:33
-draft: false
-artist: "Aske"
-album: "Goatfuck / Saatan Legio"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/aske-goatfuck_-_saatan_legio.jpg"
-thumbnailImage: "/images/covers/aske-goatfuck_-_saatan_legio-thumb.jpg"
 actualPrice: $20.00
+album: Goatfuck / Saatan Legio
+artist: Aske
+categories:
+- Vinyl
+date: '2021-06-26T15:22:42'
+draft: false
+images:
+- /images/covers/aske-goatfuck_-_saatan_legio.jpg
 inStock: true
+thumbnailImage: /images/covers/aske-goatfuck_-_saatan_legio-thumb.jpg
+title: Aske - Goatfuck / Saatan Legio
 ---
 
 ## Vinyl

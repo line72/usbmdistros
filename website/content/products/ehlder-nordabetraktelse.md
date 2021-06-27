@@ -1,17 +1,17 @@
 ---
-title: "Ehlder - Nordabetraktelse"
-date: 2021-06-22T16:40:56
-draft: false
-artist: "Ehlder"
-album: "Nordabetraktelse"
-categories:
-    - Vinyl
-    - CD
-images:
-    - "/images/covers/ehlder-nordabetraktelse.jpg"
-thumbnailImage: "/images/covers/ehlder-nordabetraktelse-thumb.jpg"
 actualPrice: $10.00 - 22.00
+album: Nordabetraktelse
+artist: Ehlder
+categories:
+- Vinyl
+- CD
+date: '2021-06-26T15:23:06'
+draft: false
+images:
+- /images/covers/ehlder-nordabetraktelse.jpg
 inStock: true
+thumbnailImage: /images/covers/ehlder-nordabetraktelse-thumb.jpg
+title: Ehlder - Nordabetraktelse
 ---
 
 ## Vinyl

@@ -1,16 +1,16 @@
 ---
-title: "Fiat Noctum - Från Forna Minnen"
-date: 2021-06-12T14:07:51
-draft: false
-artist: "Fiat Noctum"
-album: "Från Forna Minnen"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/fiat_noctum-från_forna_minnen.jpg"
-thumbnailImage: "/images/covers/fiat_noctum-från_forna_minnen-thumb.jpg"
 actualPrice: $27.00
+album: "Fr\xE5n Forna Minnen"
+artist: Fiat Noctum
+categories:
+- Vinyl
+date: '2021-06-26T15:02:54'
+draft: false
+images:
+- "/images/covers/fiat_noctum-fr\xE5n_forna_minnen.jpg"
 inStock: true
+thumbnailImage: "/images/covers/fiat_noctum-fr\xE5n_forna_minnen-thumb.jpg"
+title: "Fiat Noctum - Fr\xE5n Forna Minnen"
 ---
 
 ## Vinyl

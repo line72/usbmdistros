@@ -1,17 +1,17 @@
 ---
-title: "Black Funeral - Scourge of Lamashtu"
-date: 2021-06-22T16:40:54
-draft: false
-artist: "Black Funeral"
-album: "Scourge of Lamashtu"
-categories:
-    - Vinyl
-    - CD
-images:
-    - "/images/covers/black_funeral-scourge_of_lamashtu.jpg"
-thumbnailImage: "/images/covers/black_funeral-scourge_of_lamashtu-thumb.jpg"
 actualPrice: $10.00 - 20.00
+album: Scourge of Lamashtu
+artist: Black Funeral
+categories:
+- Vinyl
+- CD
+date: '2021-06-26T15:23:04'
+draft: false
+images:
+- /images/covers/black_funeral-scourge_of_lamashtu.jpg
 inStock: true
+thumbnailImage: /images/covers/black_funeral-scourge_of_lamashtu-thumb.jpg
+title: Black Funeral - Scourge of Lamashtu
 ---
 
 ## Vinyl

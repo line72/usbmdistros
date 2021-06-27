@@ -1,16 +1,16 @@
 ---
-title: "Future Tense - Crossing The Swords ...Again"
-date: 2021-06-22T16:40:38
-draft: false
-artist: "Future Tense"
-album: "Crossing The Swords ...Again"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/future_tense-crossing_the_swords_...again.jpg"
-thumbnailImage: "/images/covers/future_tense-crossing_the_swords_...again-thumb.jpg"
 actualPrice: $30.00
+album: Crossing The Swords ...Again
+artist: Future Tense
+categories:
+- Vinyl
+date: '2021-06-26T15:22:47'
+draft: false
+images:
+- /images/covers/future_tense-crossing_the_swords_...again.jpg
 inStock: true
+thumbnailImage: /images/covers/future_tense-crossing_the_swords_...again-thumb.jpg
+title: Future Tense - Crossing The Swords ...Again
 ---
 
 ## Vinyl

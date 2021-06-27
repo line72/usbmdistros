@@ -1,16 +1,16 @@
 ---
-title: "Swan Wash - The Upstairs Museum"
-date: 2021-06-13T12:22:20
-draft: false
-artist: "Swan Wash"
-album: "The Upstairs Museum"
-categories:
-    - Tape
-images:
-    - "/images/covers/swan_wash-the_upstairs_museum.jpg"
-thumbnailImage: "/images/covers/swan_wash-the_upstairs_museum-thumb.jpg"
 actualPrice: $7.50
+album: The Upstairs Museum
+artist: Swan Wash
+categories:
+- Tape
+date: '2021-06-26T15:16:23'
+draft: false
+images:
+- /images/covers/swan_wash-the_upstairs_museum.jpg
 inStock: true
+thumbnailImage: /images/covers/swan_wash-the_upstairs_museum-thumb.jpg
+title: Swan Wash - The Upstairs Museum
 ---
 
 ## Tape

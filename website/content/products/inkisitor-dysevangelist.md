@@ -1,16 +1,16 @@
 ---
-title: "Inkisitor - Dysevangelist"
-date: 2021-06-22T16:40:39
-draft: false
-artist: "Inkisitor"
-album: "Dysevangelist"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/inkisitor-dysevangelist.jpg"
-thumbnailImage: "/images/covers/inkisitor-dysevangelist-thumb.jpg"
 actualPrice: $17.00
+album: Dysevangelist
+artist: Inkisitor
+categories:
+- Vinyl
+date: '2021-06-26T15:22:49'
+draft: false
+images:
+- /images/covers/inkisitor-dysevangelist.jpg
 inStock: true
+thumbnailImage: /images/covers/inkisitor-dysevangelist-thumb.jpg
+title: Inkisitor - Dysevangelist
 ---
 
 ## Vinyl

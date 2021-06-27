@@ -1,17 +1,17 @@
 ---
-title: "Knelt Rote - Alterity"
-date: 2021-06-22T16:41:00
-draft: false
-artist: "Knelt Rote"
-album: "Alterity"
-categories:
-    - Vinyl
-    - CD
-images:
-    - "/images/covers/knelt_rote-alterity.jpg"
-thumbnailImage: "/images/covers/knelt_rote-alterity-thumb.jpg"
 actualPrice: $10.00 - 25.00
+album: Alterity
+artist: Knelt Rote
+categories:
+- Vinyl
+- CD
+date: '2021-06-26T15:23:10'
+draft: false
+images:
+- /images/covers/knelt_rote-alterity.jpg
 inStock: true
+thumbnailImage: /images/covers/knelt_rote-alterity-thumb.jpg
+title: Knelt Rote - Alterity
 ---
 
 ## Vinyl

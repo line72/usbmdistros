@@ -1,16 +1,16 @@
 ---
-title: "Loits - Furor Aesticus"
-date: 2021-06-22T16:40:40
-draft: false
-artist: "Loits"
-album: "Furor Aesticus"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/loits-furor_aesticus.jpg"
-thumbnailImage: "/images/covers/loits-furor_aesticus-thumb.jpg"
 actualPrice: $20.00
+album: Furor Aesticus
+artist: Loits
+categories:
+- Vinyl
+date: '2021-06-26T15:22:50'
+draft: false
+images:
+- /images/covers/loits-furor_aesticus.jpg
 inStock: true
+thumbnailImage: /images/covers/loits-furor_aesticus-thumb.jpg
+title: Loits - Furor Aesticus
 ---
 
 ## Vinyl

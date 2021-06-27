@@ -1,16 +1,16 @@
 ---
-title: "Infernüs - Eclipse Perpétuo"
-date: 2021-06-22T16:40:39
-draft: false
-artist: "Infernüs"
-album: "Eclipse Perpétuo"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/infernüs-eclipse_perpétuo.jpg"
-thumbnailImage: "/images/covers/infernüs-eclipse_perpétuo-thumb.jpg"
 actualPrice: $25.00
+album: "Eclipse Perp\xE9tuo"
+artist: "Infern\xFCs"
+categories:
+- Vinyl
+date: '2021-06-26T15:22:49'
+draft: false
+images:
+- "/images/covers/infern\xFCs-eclipse_perp\xE9tuo.jpg"
 inStock: true
+thumbnailImage: "/images/covers/infern\xFCs-eclipse_perp\xE9tuo-thumb.jpg"
+title: "Infern\xFCs - Eclipse Perp\xE9tuo"
 ---
 
 ## Vinyl

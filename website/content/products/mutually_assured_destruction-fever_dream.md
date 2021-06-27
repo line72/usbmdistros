@@ -1,16 +1,16 @@
 ---
-title: "Mutually Assured Destruction - FEVER DREAM"
-date: 2021-06-22T16:40:42
-draft: false
-artist: "Mutually Assured Destruction"
-album: "FEVER DREAM"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/mutually_assured_destruction-fever_dream.jpg"
-thumbnailImage: "/images/covers/mutually_assured_destruction-fever_dream-thumb.jpg"
 actualPrice: $15.00
+album: FEVER DREAM
+artist: Mutually Assured Destruction
+categories:
+- Vinyl
+date: '2021-06-26T15:22:51'
+draft: false
+images:
+- /images/covers/mutually_assured_destruction-fever_dream.jpg
 inStock: true
+thumbnailImage: /images/covers/mutually_assured_destruction-fever_dream-thumb.jpg
+title: Mutually Assured Destruction - FEVER DREAM
 ---
 
 ## Vinyl

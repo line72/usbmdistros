@@ -1,16 +1,16 @@
 ---
-title: "Elffor - Heriotz Sustraiak"
-date: 2021-06-12T14:07:58
-draft: false
-artist: "Elffor"
-album: "Heriotz Sustraiak"
-categories:
-    - CD
-images:
-    - "/images/covers/elffor-heriotz_sustraiak.jpg"
-thumbnailImage: "/images/covers/elffor-heriotz_sustraiak-thumb.jpg"
 actualPrice: $12.00
+album: Heriotz Sustraiak
+artist: Elffor
+categories:
+- CD
+date: '2021-06-26T15:03:08'
+draft: false
+images:
+- /images/covers/elffor-heriotz_sustraiak.jpg
 inStock: true
+thumbnailImage: /images/covers/elffor-heriotz_sustraiak-thumb.jpg
+title: Elffor - Heriotz Sustraiak
 ---
 
 ## CD

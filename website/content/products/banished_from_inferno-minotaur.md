@@ -1,16 +1,16 @@
 ---
-title: "Banished From Inferno - Minotaur"
-date: 2021-06-22T16:40:33
-draft: false
-artist: "Banished From Inferno"
-album: "Minotaur"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/banished_from_inferno-minotaur.jpg"
-thumbnailImage: "/images/covers/banished_from_inferno-minotaur-thumb.jpg"
 actualPrice: $17.00
+album: Minotaur
+artist: Banished From Inferno
+categories:
+- Vinyl
+date: '2021-06-26T15:22:42'
+draft: false
+images:
+- /images/covers/banished_from_inferno-minotaur.jpg
 inStock: true
+thumbnailImage: /images/covers/banished_from_inferno-minotaur-thumb.jpg
+title: Banished From Inferno - Minotaur
 ---
 
 ## Vinyl

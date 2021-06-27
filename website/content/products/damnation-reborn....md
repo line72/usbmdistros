@@ -1,16 +1,16 @@
 ---
-title: "Damnation - Reborn..."
-date: 2021-06-22T16:40:35
-draft: false
-artist: "Damnation"
-album: "Reborn..."
-categories:
-    - Vinyl
-images:
-    - "/images/covers/damnation-reborn....jpg"
-thumbnailImage: "/images/covers/damnation-reborn...-thumb.jpg"
 actualPrice: $17.00
+album: Reborn...
+artist: Damnation
+categories:
+- Vinyl
+date: '2021-06-26T15:22:44'
+draft: false
+images:
+- /images/covers/damnation-reborn....jpg
 inStock: true
+thumbnailImage: /images/covers/damnation-reborn...-thumb.jpg
+title: Damnation - Reborn...
 ---
 
 ## Vinyl

@@ -1,16 +1,16 @@
 ---
-title: "Flooded Church of Asmodeus - Piss Soaked Church of the Wrong"
-date: 2021-06-12T14:07:56
-draft: false
-artist: "Flooded Church of Asmodeus"
-album: "Piss Soaked Church of the Wrong"
-categories:
-    - Tape
-images:
-    - "/images/covers/flooded_church_of_asmodeus-piss_soaked_church_of_the_wrong.jpg"
-thumbnailImage: "/images/covers/flooded_church_of_asmodeus-piss_soaked_church_of_the_wrong-thumb.jpg"
 actualPrice: $9.00
+album: Piss Soaked Church of the Wrong
+artist: Flooded Church of Asmodeus
+categories:
+- Tape
+date: '2021-06-26T15:03:02'
+draft: false
+images:
+- /images/covers/flooded_church_of_asmodeus-piss_soaked_church_of_the_wrong.jpg
 inStock: true
+thumbnailImage: /images/covers/flooded_church_of_asmodeus-piss_soaked_church_of_the_wrong-thumb.jpg
+title: Flooded Church of Asmodeus - Piss Soaked Church of the Wrong
 ---
 
 ## Tape

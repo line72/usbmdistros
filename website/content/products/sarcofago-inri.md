@@ -1,16 +1,16 @@
 ---
-title: "Sarcofago - Inri"
-date: 2021-06-13T12:22:20
-draft: false
-artist: "Sarcofago"
-album: "Inri"
-categories:
-    - Tape
-images:
-    - "/images/covers/sarcofago-inri.jpg"
-thumbnailImage: "/images/covers/sarcofago-inri-thumb.jpg"
 actualPrice: $8.00
+album: Inri
+artist: Sarcofago
+categories:
+- Tape
+date: '2021-06-26T15:16:23'
+draft: false
+images:
+- /images/covers/sarcofago-inri.jpg
 inStock: true
+thumbnailImage: /images/covers/sarcofago-inri-thumb.jpg
+title: Sarcofago - Inri
 ---
 
 ## Tape

@@ -1,16 +1,16 @@
 ---
-title: "Antaeus - Satanic Audio Violence 2013 - Live at Wolf Throne"
-date: 2021-06-22T16:40:32
-draft: false
-artist: "Antaeus"
-album: "Satanic Audio Violence 2013 - Live at Wolf Throne"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/antaeus-satanic_audio_violence_2013_-_live_at_wolf_throne.jpg"
-thumbnailImage: "/images/covers/antaeus-satanic_audio_violence_2013_-_live_at_wolf_throne-thumb.jpg"
 actualPrice: $17.00
+album: Satanic Audio Violence 2013 - Live at Wolf Throne
+artist: Antaeus
+categories:
+- Vinyl
+date: '2021-06-26T15:22:42'
+draft: false
+images:
+- /images/covers/antaeus-satanic_audio_violence_2013_-_live_at_wolf_throne.jpg
 inStock: true
+thumbnailImage: /images/covers/antaeus-satanic_audio_violence_2013_-_live_at_wolf_throne-thumb.jpg
+title: Antaeus - Satanic Audio Violence 2013 - Live at Wolf Throne
 ---
 
 ## Vinyl

@@ -1,16 +1,16 @@
 ---
-title: "Cénotaphe - La Larve Exulte"
-date: 2021-06-22T16:40:35
-draft: false
-artist: "Cénotaphe"
-album: "La Larve Exulte"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/cénotaphe-la_larve_exulte.jpg"
-thumbnailImage: "/images/covers/cénotaphe-la_larve_exulte-thumb.jpg"
 actualPrice: $17.00
+album: La Larve Exulte
+artist: "C\xE9notaphe"
+categories:
+- Vinyl
+date: '2021-06-26T15:22:44'
+draft: false
+images:
+- "/images/covers/c\xE9notaphe-la_larve_exulte.jpg"
 inStock: true
+thumbnailImage: "/images/covers/c\xE9notaphe-la_larve_exulte-thumb.jpg"
+title: "C\xE9notaphe - La Larve Exulte"
 ---
 
 ## Vinyl

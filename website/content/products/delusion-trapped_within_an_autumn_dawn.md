@@ -1,16 +1,16 @@
 ---
-title: "Delusion - Trapped Within An Autumn Dawn"
-date: 2021-06-13T12:22:17
-draft: false
-artist: "Delusion"
-album: "Trapped Within An Autumn Dawn"
-categories:
-    - Tape
-images:
-    - "/images/covers/delusion-trapped_within_an_autumn_dawn.jpg"
-thumbnailImage: "/images/covers/delusion-trapped_within_an_autumn_dawn-thumb.jpg"
 actualPrice: $8.50
+album: Trapped Within An Autumn Dawn
+artist: Delusion
+categories:
+- Tape
+date: '2021-06-26T15:16:21'
+draft: false
+images:
+- /images/covers/delusion-trapped_within_an_autumn_dawn.jpg
 inStock: true
+thumbnailImage: /images/covers/delusion-trapped_within_an_autumn_dawn-thumb.jpg
+title: Delusion - Trapped Within An Autumn Dawn
 ---
 
 ## Tape

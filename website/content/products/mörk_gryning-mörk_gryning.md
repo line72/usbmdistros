@@ -1,16 +1,16 @@
 ---
-title: "Mörk Gryning - Mörk Gryning"
-date: 2021-06-22T16:40:41
-draft: false
-artist: "Mörk Gryning"
-album: "Mörk Gryning"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/mörk_gryning-mörk_gryning.jpg"
-thumbnailImage: "/images/covers/mörk_gryning-mörk_gryning-thumb.jpg"
 actualPrice: $25.00
+album: "M\xF6rk Gryning"
+artist: "M\xF6rk Gryning"
+categories:
+- Vinyl
+date: '2021-06-26T15:22:51'
+draft: false
+images:
+- "/images/covers/m\xF6rk_gryning-m\xF6rk_gryning.jpg"
 inStock: true
+thumbnailImage: "/images/covers/m\xF6rk_gryning-m\xF6rk_gryning-thumb.jpg"
+title: "M\xF6rk Gryning - M\xF6rk Gryning"
 ---
 
 ## Vinyl

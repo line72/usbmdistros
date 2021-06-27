@@ -1,16 +1,16 @@
 ---
-title: ":Nodfyr: - In een andere tijd"
-date: 2021-06-22T16:40:49
-draft: false
-artist: ":Nodfyr:"
-album: "In een andere tijd"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/:nodfyr:-in_een_andere_tijd.jpg"
-thumbnailImage: "/images/covers/:nodfyr:-in_een_andere_tijd-thumb.jpg"
 actualPrice: $10.00
+album: In een andere tijd
+artist: ':NODFYR:'
+categories:
+- Vinyl
+date: '2021-06-26T15:22:59'
+draft: false
+images:
+- /images/covers/:nodfyr:-in_een_andere_tijd.jpg
 inStock: true
+thumbnailImage: /images/covers/:nodfyr:-in_een_andere_tijd-thumb.jpg
+title: ':NODFYR: - In een andere tijd'
 ---
 
 ## Vinyl

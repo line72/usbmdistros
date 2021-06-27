@@ -1,16 +1,16 @@
 ---
-title: "Nidernes - Vengeance, Herald of My Despite"
-date: 2021-06-22T16:41:02
-draft: false
-artist: "Nidernes"
-album: "Vengeance, Herald of My Despite"
-categories:
-    - CD
-images:
-    - "/images/covers/nidernes-vengeance,_herald_of_my_despite.jpg"
-thumbnailImage: "/images/covers/nidernes-vengeance,_herald_of_my_despite-thumb.jpg"
 actualPrice: $12.00 - 15.00
+album: Vengeance, Herald of My Despite
+artist: Nidernes
+categories:
+- CD
+date: '2021-06-26T15:23:12'
+draft: false
+images:
+- /images/covers/nidernes-vengeance,_herald_of_my_despite.jpg
 inStock: true
+thumbnailImage: /images/covers/nidernes-vengeance,_herald_of_my_despite-thumb.jpg
+title: Nidernes - Vengeance, Herald of My Despite
 ---
 
 ## CD

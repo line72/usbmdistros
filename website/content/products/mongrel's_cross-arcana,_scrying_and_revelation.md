@@ -1,16 +1,16 @@
 ---
-title: "Mongrel'S Cross - Arcana, Scrying And Revelation"
-date: 2021-06-13T12:22:19
-draft: false
-artist: "Mongrel'S Cross"
-album: "Arcana, Scrying And Revelation"
-categories:
-    - Tape
-images:
-    - "/images/covers/mongrel's_cross-arcana,_scrying_and_revelation.jpg"
-thumbnailImage: "/images/covers/mongrel's_cross-arcana,_scrying_and_revelation-thumb.jpg"
 actualPrice: $7.00
+album: Arcana, Scrying And Revelation
+artist: Mongrel'S Cross
+categories:
+- Tape
+date: '2021-06-26T15:16:22'
+draft: false
+images:
+- /images/covers/mongrel's_cross-arcana,_scrying_and_revelation.jpg
 inStock: true
+thumbnailImage: /images/covers/mongrel's_cross-arcana,_scrying_and_revelation-thumb.jpg
+title: Mongrel'S Cross - Arcana, Scrying And Revelation
 ---
 
 ## Tape

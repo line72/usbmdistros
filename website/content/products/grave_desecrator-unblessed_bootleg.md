@@ -1,16 +1,16 @@
 ---
-title: "Grave Desecrator - Unblessed Bootleg"
-date: 2021-06-22T16:40:38
-draft: false
-artist: "Grave Desecrator"
-album: "Unblessed Bootleg"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/grave_desecrator-unblessed_bootleg.jpg"
-thumbnailImage: "/images/covers/grave_desecrator-unblessed_bootleg-thumb.jpg"
 actualPrice: $17.00 - 20.00
+album: Unblessed Bootleg
+artist: Grave Desecrator
+categories:
+- Vinyl
+date: '2021-06-26T15:22:48'
+draft: false
+images:
+- /images/covers/grave_desecrator-unblessed_bootleg.jpg
 inStock: true
+thumbnailImage: /images/covers/grave_desecrator-unblessed_bootleg-thumb.jpg
+title: Grave Desecrator - Unblessed Bootleg
 ---
 
 ## Vinyl

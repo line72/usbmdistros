@@ -1,16 +1,16 @@
 ---
-title: "Haemorrhage - Morgue Sweet Home"
-date: 2021-06-13T12:22:19
-draft: false
-artist: "Haemorrhage"
-album: "Morgue Sweet Home"
-categories:
-    - Tape
-images:
-    - "/images/covers/haemorrhage-morgue_sweet_home.jpg"
-thumbnailImage: "/images/covers/haemorrhage-morgue_sweet_home-thumb.jpg"
 actualPrice: $7.50
+album: Morgue Sweet Home
+artist: Haemorrhage
+categories:
+- Tape
+date: '2021-06-26T15:16:22'
+draft: false
+images:
+- /images/covers/haemorrhage-morgue_sweet_home.jpg
 inStock: true
+thumbnailImage: /images/covers/haemorrhage-morgue_sweet_home-thumb.jpg
+title: Haemorrhage - Morgue Sweet Home
 ---
 
 ## Tape

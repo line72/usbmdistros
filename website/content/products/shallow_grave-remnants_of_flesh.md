@@ -1,16 +1,16 @@
 ---
-title: "Shallow Grave - Remnants Of Flesh"
-date: 2021-06-13T12:22:19
-draft: false
-artist: "Shallow Grave"
-album: "Remnants Of Flesh"
-categories:
-    - Tape
-images:
-    - "/images/covers/shallow_grave-remnants_of_flesh.jpg"
-thumbnailImage: "/images/covers/shallow_grave-remnants_of_flesh-thumb.jpg"
 actualPrice: $4.00
+album: Remnants Of Flesh
+artist: Shallow Grave
+categories:
+- Tape
+date: '2021-06-26T15:16:22'
+draft: false
+images:
+- /images/covers/shallow_grave-remnants_of_flesh.jpg
 inStock: true
+thumbnailImage: /images/covers/shallow_grave-remnants_of_flesh-thumb.jpg
+title: Shallow Grave - Remnants Of Flesh
 ---
 
 ## Tape

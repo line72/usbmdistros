@@ -1,16 +1,16 @@
 ---
-title: "Filtheater - Blight Of Sempiternal Putrefaction"
-date: 2021-06-13T12:22:24
-draft: false
-artist: "Filtheater"
-album: "Blight Of Sempiternal Putrefaction"
-categories:
-    - CD
-images:
-    - "/images/covers/filtheater-blight_of_sempiternal_putrefaction.jpg"
-thumbnailImage: "/images/covers/filtheater-blight_of_sempiternal_putrefaction-thumb.jpg"
 actualPrice: $8.00
+album: Blight Of Sempiternal Putrefaction
+artist: Filtheater
+categories:
+- CD
+date: '2021-06-26T15:16:26'
+draft: false
+images:
+- /images/covers/filtheater-blight_of_sempiternal_putrefaction.jpg
 inStock: true
+thumbnailImage: /images/covers/filtheater-blight_of_sempiternal_putrefaction-thumb.jpg
+title: Filtheater - Blight Of Sempiternal Putrefaction
 ---
 
 ## CD

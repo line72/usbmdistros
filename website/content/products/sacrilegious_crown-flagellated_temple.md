@@ -1,16 +1,16 @@
 ---
-title: "Sacrilegious Crown - Flagellated Temple"
-date: 2021-06-13T12:22:23
-draft: false
-artist: "Sacrilegious Crown"
-album: "Flagellated Temple"
-categories:
-    - Tape
-images:
-    - "/images/covers/sacrilegious_crown-flagellated_temple.jpg"
-thumbnailImage: "/images/covers/sacrilegious_crown-flagellated_temple-thumb.jpg"
 actualPrice: $6.00
+album: Flagellated Temple
+artist: Sacrilegious Crown
+categories:
+- Tape
+date: '2021-06-26T15:16:26'
+draft: false
+images:
+- /images/covers/sacrilegious_crown-flagellated_temple.jpg
 inStock: true
+thumbnailImage: /images/covers/sacrilegious_crown-flagellated_temple-thumb.jpg
+title: Sacrilegious Crown - Flagellated Temple
 ---
 
 ## Tape

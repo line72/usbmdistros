@@ -1,17 +1,17 @@
 ---
-title: "Lurker Of Chalice - Tellurian Slaked Furnace"
-date: 2021-06-22T16:41:00
-draft: false
-artist: "Lurker Of Chalice"
-album: "Tellurian Slaked Furnace"
-categories:
-    - Vinyl
-    - CD
-images:
-    - "/images/covers/lurker_of_chalice-tellurian_slaked_furnace.jpg"
-thumbnailImage: "/images/covers/lurker_of_chalice-tellurian_slaked_furnace-thumb.jpg"
 actualPrice: $12.00 - 30.00
+album: Tellurian Slaked Furnace
+artist: Lurker Of Chalice
+categories:
+- Vinyl
+- CD
+date: '2021-06-26T15:23:10'
+draft: false
+images:
+- /images/covers/lurker_of_chalice-tellurian_slaked_furnace.jpg
 inStock: true
+thumbnailImage: /images/covers/lurker_of_chalice-tellurian_slaked_furnace-thumb.jpg
+title: Lurker Of Chalice - Tellurian Slaked Furnace
 ---
 
 ## Vinyl

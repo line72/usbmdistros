@@ -1,16 +1,16 @@
 ---
-title: "Sociopathic Behavior - Hunting Humans"
-date: 2021-06-13T12:22:18
-draft: false
-artist: "Sociopathic Behavior"
-album: "Hunting Humans"
-categories:
-    - Tape
-images:
-    - "/images/covers/sociopathic_behavior-hunting_humans.jpg"
-thumbnailImage: "/images/covers/sociopathic_behavior-hunting_humans-thumb.jpg"
 actualPrice: $9.00
+album: Hunting Humans
+artist: Sociopathic Behavior
+categories:
+- Tape
+date: '2021-06-26T15:16:21'
+draft: false
+images:
+- /images/covers/sociopathic_behavior-hunting_humans.jpg
 inStock: true
+thumbnailImage: /images/covers/sociopathic_behavior-hunting_humans-thumb.jpg
+title: Sociopathic Behavior - Hunting Humans
 ---
 
 ## Tape

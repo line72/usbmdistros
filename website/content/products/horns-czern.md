@@ -1,16 +1,16 @@
 ---
-title: "Horns - Czern"
-date: 2021-06-22T16:40:39
-draft: false
-artist: "Horns"
-album: "Czern"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/horns-czern.jpg"
-thumbnailImage: "/images/covers/horns-czern-thumb.jpg"
 actualPrice: $17.00
+album: Czern
+artist: Horns
+categories:
+- Vinyl
+date: '2021-06-26T15:22:49'
+draft: false
+images:
+- /images/covers/horns-czern.jpg
 inStock: true
+thumbnailImage: /images/covers/horns-czern-thumb.jpg
+title: Horns - Czern
 ---
 
 ## Vinyl

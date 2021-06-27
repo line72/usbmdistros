@@ -1,16 +1,16 @@
 ---
-title: "Exit 13 - Smoking Songs"
-date: 2021-06-22T16:40:37
-draft: false
-artist: "Exit 13"
-album: "Smoking Songs"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/exit_13-smoking_songs.jpg"
-thumbnailImage: "/images/covers/exit_13-smoking_songs-thumb.jpg"
 actualPrice: $17.00
+album: Smoking Songs
+artist: Exit 13
+categories:
+- Vinyl
+date: '2021-06-26T15:22:46'
+draft: false
+images:
+- /images/covers/exit_13-smoking_songs.jpg
 inStock: true
+thumbnailImage: /images/covers/exit_13-smoking_songs-thumb.jpg
+title: Exit 13 - Smoking Songs
 ---
 
 ## Vinyl

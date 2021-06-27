@@ -1,16 +1,16 @@
 ---
-title: "Glorification / Evil Spectrum - Mystical Dimension Of The Almighty Serpent"
-date: 2021-06-22T16:40:38
-draft: false
-artist: "Glorification / Evil Spectrum"
-album: "Mystical Dimension Of The Almighty Serpent"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/glorification_-_evil_spectrum-mystical_dimension_of_the_almighty_serpent.jpg"
-thumbnailImage: "/images/covers/glorification_-_evil_spectrum-mystical_dimension_of_the_almighty_serpent-thumb.jpg"
 actualPrice: $17.00
+album: Mystical Dimension Of The Almighty Serpent
+artist: Glorification / Evil Spectrum
+categories:
+- Vinyl
+date: '2021-06-26T15:22:47'
+draft: false
+images:
+- /images/covers/glorification_-_evil_spectrum-mystical_dimension_of_the_almighty_serpent.jpg
 inStock: true
+thumbnailImage: /images/covers/glorification_-_evil_spectrum-mystical_dimension_of_the_almighty_serpent-thumb.jpg
+title: Glorification / Evil Spectrum - Mystical Dimension Of The Almighty Serpent
 ---
 
 ## Vinyl

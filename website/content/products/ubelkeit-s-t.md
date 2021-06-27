@@ -1,16 +1,16 @@
 ---
-title: "Ubelkeit - S/T"
-date: 2021-06-13T12:22:22
-draft: false
-artist: "Ubelkeit"
-album: "S/T"
-categories:
-    - Tape
-images:
-    - "/images/covers/ubelkeit-s-t.jpg"
-thumbnailImage: "/images/covers/ubelkeit-s-t-thumb.jpg"
 actualPrice: $6.00
+album: S/T
+artist: Ubelkeit
+categories:
+- Tape
+date: '2021-06-26T15:16:25'
+draft: false
+images:
+- /images/covers/ubelkeit-s-t.jpg
 inStock: true
+thumbnailImage: /images/covers/ubelkeit-s-t-thumb.jpg
+title: Ubelkeit - S/T
 ---
 
 ## Tape

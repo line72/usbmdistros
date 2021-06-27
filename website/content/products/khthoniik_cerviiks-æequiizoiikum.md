@@ -1,16 +1,16 @@
 ---
-title: "Khthoniik Cerviiks - Æequiizoiikum"
-date: 2021-06-22T16:40:40
-draft: false
-artist: "Khthoniik Cerviiks"
-album: "Æequiizoiikum"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/khthoniik_cerviiks-æequiizoiikum.jpg"
-thumbnailImage: "/images/covers/khthoniik_cerviiks-æequiizoiikum-thumb.jpg"
 actualPrice: $20.00
+album: "\xC6equiizoiikum"
+artist: Khthoniik Cerviiks
+categories:
+- Vinyl
+date: '2021-06-26T15:22:50'
+draft: false
+images:
+- "/images/covers/khthoniik_cerviiks-\xE6equiizoiikum.jpg"
 inStock: true
+thumbnailImage: "/images/covers/khthoniik_cerviiks-\xE6equiizoiikum-thumb.jpg"
+title: "Khthoniik Cerviiks - \xC6equiizoiikum"
 ---
 
 ## Vinyl

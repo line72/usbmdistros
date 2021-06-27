@@ -1,16 +1,16 @@
 ---
-title: "Loits - Ei Kahetse Midagi"
-date: 2021-06-22T16:40:40
-draft: false
-artist: "Loits"
-album: "Ei Kahetse Midagi"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/loits-ei_kahetse_midagi.jpg"
-thumbnailImage: "/images/covers/loits-ei_kahetse_midagi-thumb.jpg"
 actualPrice: $17.00
+album: Ei Kahetse Midagi
+artist: Loits
+categories:
+- Vinyl
+date: '2021-06-26T15:22:50'
+draft: false
+images:
+- /images/covers/loits-ei_kahetse_midagi.jpg
 inStock: true
+thumbnailImage: /images/covers/loits-ei_kahetse_midagi-thumb.jpg
+title: Loits - Ei Kahetse Midagi
 ---
 
 ## Vinyl

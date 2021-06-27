@@ -1,16 +1,16 @@
 ---
-title: "EMPEROR - PROMETHEUS DISCIPLINE OF FIRE & DEMISE"
-date: 2021-06-22T16:40:37
-draft: false
-artist: "EMPEROR"
-album: "PROMETHEUS DISCIPLINE OF FIRE & DEMISE"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/emperor-prometheus_discipline_of_fire_&_demise.jpg"
-thumbnailImage: "/images/covers/emperor-prometheus_discipline_of_fire_&_demise-thumb.jpg"
 actualPrice: $27.00
+album: PROMETHEUS DISCIPLINE OF FIRE & DEMISE
+artist: Emperor
+categories:
+- Vinyl
+date: '2021-06-26T15:22:46'
+draft: false
+images:
+- /images/covers/emperor-prometheus_discipline_of_fire_&_demise.jpg
 inStock: true
+thumbnailImage: /images/covers/emperor-prometheus_discipline_of_fire_&_demise-thumb.jpg
+title: Emperor - PROMETHEUS DISCIPLINE OF FIRE & DEMISE
 ---
 
 ## Vinyl

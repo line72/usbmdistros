@@ -1,16 +1,16 @@
 ---
-title: "Infernüs - Invicta Requiem Mass I"
-date: 2021-06-22T16:40:39
-draft: false
-artist: "Infernüs"
-album: "Invicta Requiem Mass I"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/infernüs-invicta_requiem_mass_i.jpg"
-thumbnailImage: "/images/covers/infernüs-invicta_requiem_mass_i-thumb.jpg"
 actualPrice: $17.00
+album: Invicta Requiem Mass I
+artist: "Infern\xFCs"
+categories:
+- Vinyl
+date: '2021-06-26T15:22:49'
+draft: false
+images:
+- "/images/covers/infern\xFCs-invicta_requiem_mass_i.jpg"
 inStock: true
+thumbnailImage: "/images/covers/infern\xFCs-invicta_requiem_mass_i-thumb.jpg"
+title: "Infern\xFCs - Invicta Requiem Mass I"
 ---
 
 ## Vinyl

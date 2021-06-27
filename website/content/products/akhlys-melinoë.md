@@ -1,17 +1,17 @@
 ---
-title: "Akhlys - Melinoë"
-date: 2021-06-12T14:11:52
-draft: false
-artist: "Akhlys"
-album: "Melinoë"
-categories:
-    - Vinyl
-    - CD
-images:
-    - "/images/covers/akhlys-melinoë.jpg"
-thumbnailImage: "/images/covers/akhlys-melinoë-thumb.jpg"
 actualPrice: $9.99 - 25.99
+album: "Melino\xEB"
+artist: Akhlys
+categories:
+- Vinyl
+- CD
+date: '2021-06-26T15:15:51'
+draft: false
+images:
+- "/images/covers/akhlys-melino\xEB.jpg"
 inStock: true
+thumbnailImage: "/images/covers/akhlys-melino\xEB-thumb.jpg"
+title: "Akhlys - Melino\xEB"
 ---
 
 ## Vinyl

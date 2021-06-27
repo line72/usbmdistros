@@ -1,16 +1,16 @@
 ---
-title: "Runespell - Voice of Opprobium"
-date: 2021-06-12T14:07:52
-draft: false
-artist: "Runespell"
-album: "Voice of Opprobium"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/runespell-voice_of_opprobium.jpg"
-thumbnailImage: "/images/covers/runespell-voice_of_opprobium-thumb.jpg"
 actualPrice: $20.00
+album: Voice of Opprobium
+artist: Runespell
+categories:
+- Vinyl
+date: '2021-06-26T15:02:55'
+draft: false
+images:
+- /images/covers/runespell-voice_of_opprobium.jpg
 inStock: true
+thumbnailImage: /images/covers/runespell-voice_of_opprobium-thumb.jpg
+title: Runespell - Voice of Opprobium
 ---
 
 ## Vinyl

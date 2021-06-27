@@ -1,16 +1,16 @@
 ---
-title: "Grav - Vånda"
-date: 2021-06-12T14:07:59
-draft: false
-artist: "Grav"
-album: "Vånda"
-categories:
-    - CD
-images:
-    - "/images/covers/grav-vånda.jpg"
-thumbnailImage: "/images/covers/grav-vånda-thumb.jpg"
 actualPrice: $13.00
+album: "V\xE5nda"
+artist: Grav
+categories:
+- CD
+date: '2021-06-26T15:03:08'
+draft: false
+images:
+- "/images/covers/grav-v\xE5nda.jpg"
 inStock: true
+thumbnailImage: "/images/covers/grav-v\xE5nda-thumb.jpg"
+title: "Grav - V\xE5nda"
 ---
 
 ## CD

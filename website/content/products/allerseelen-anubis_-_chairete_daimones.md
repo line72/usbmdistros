@@ -1,16 +1,16 @@
 ---
-title: "Allerseelen - Anubis / Chairete Daimones"
-date: 2021-06-22T16:40:49
-draft: false
-artist: "Allerseelen"
-album: "Anubis / Chairete Daimones"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/allerseelen-anubis_-_chairete_daimones.jpg"
-thumbnailImage: "/images/covers/allerseelen-anubis_-_chairete_daimones-thumb.jpg"
 actualPrice: $7.00
+album: Anubis / Chairete Daimones
+artist: Allerseelen
+categories:
+- Vinyl
+date: '2021-06-26T15:22:59'
+draft: false
+images:
+- /images/covers/allerseelen-anubis_-_chairete_daimones.jpg
 inStock: true
+thumbnailImage: /images/covers/allerseelen-anubis_-_chairete_daimones-thumb.jpg
+title: Allerseelen - Anubis / Chairete Daimones
 ---
 
 ## Vinyl

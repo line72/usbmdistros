@@ -1,17 +1,17 @@
 ---
-title: "Nathr - Beinahrúga"
-date: 2021-06-13T12:22:19
-draft: false
-artist: "Nathr"
-album: "Beinahrúga"
-categories:
-    - Tape
-    - CD
-images:
-    - "/images/covers/nathr-beinahrúga.jpg"
-thumbnailImage: "/images/covers/nathr-beinahrúga-thumb.jpg"
 actualPrice: $8.50 - 13.00
+album: "Beinahr\xFAga"
+artist: Nathr
+categories:
+- Tape
+- CD
+date: '2021-06-26T15:16:22'
+draft: false
+images:
+- "/images/covers/nathr-beinahr\xFAga.jpg"
 inStock: true
+thumbnailImage: "/images/covers/nathr-beinahr\xFAga-thumb.jpg"
+title: "Nathr - Beinahr\xFAga"
 ---
 
 ## Tape

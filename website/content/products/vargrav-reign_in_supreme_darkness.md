@@ -1,16 +1,16 @@
 ---
-title: "Vargrav - Reign In Supreme Darkness"
-date: 2021-06-13T12:22:19
-draft: false
-artist: "Vargrav"
-album: "Reign In Supreme Darkness"
-categories:
-    - Tape
-images:
-    - "/images/covers/vargrav-reign_in_supreme_darkness.jpg"
-thumbnailImage: "/images/covers/vargrav-reign_in_supreme_darkness-thumb.jpg"
 actualPrice: $7.50
+album: Reign In Supreme Darkness
+artist: Vargrav
+categories:
+- Tape
+date: '2021-06-26T15:16:22'
+draft: false
+images:
+- /images/covers/vargrav-reign_in_supreme_darkness.jpg
 inStock: true
+thumbnailImage: /images/covers/vargrav-reign_in_supreme_darkness-thumb.jpg
+title: Vargrav - Reign In Supreme Darkness
 ---
 
 ## Tape

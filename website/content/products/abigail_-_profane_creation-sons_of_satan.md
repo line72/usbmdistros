@@ -1,16 +1,16 @@
 ---
-title: "Abigail / Profane Creation - Sons of Satan"
-date: 2021-06-22T16:40:31
-draft: false
-artist: "Abigail / Profane Creation"
-album: "Sons of Satan"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/abigail_-_profane_creation-sons_of_satan.jpg"
-thumbnailImage: "/images/covers/abigail_-_profane_creation-sons_of_satan-thumb.jpg"
 actualPrice: $20.00
+album: Sons of Satan
+artist: Abigail / Profane Creation
+categories:
+- Vinyl
+date: '2021-06-26T15:22:41'
+draft: false
+images:
+- /images/covers/abigail_-_profane_creation-sons_of_satan.jpg
 inStock: true
+thumbnailImage: /images/covers/abigail_-_profane_creation-sons_of_satan-thumb.jpg
+title: Abigail / Profane Creation - Sons of Satan
 ---
 
 ## Vinyl

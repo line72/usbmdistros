@@ -1,16 +1,16 @@
 ---
-title: "Sedition Act - Demo 2019"
-date: 2021-06-13T12:22:21
-draft: false
-artist: "Sedition Act"
-album: "Demo 2019"
-categories:
-    - Tape
-images:
-    - "/images/covers/sedition_act-demo_2019.jpg"
-thumbnailImage: "/images/covers/sedition_act-demo_2019-thumb.jpg"
 actualPrice: $4.00
+album: Demo 2019
+artist: Sedition Act
+categories:
+- Tape
+date: '2021-06-26T15:16:24'
+draft: false
+images:
+- /images/covers/sedition_act-demo_2019.jpg
 inStock: true
+thumbnailImage: /images/covers/sedition_act-demo_2019-thumb.jpg
+title: Sedition Act - Demo 2019
 ---
 
 ## Tape

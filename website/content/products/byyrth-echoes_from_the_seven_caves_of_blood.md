@@ -1,16 +1,16 @@
 ---
-title: "Byyrth - Echoes from the Seven Caves of Blood"
-date: 2021-06-22T16:40:34
-draft: false
-artist: "Byyrth"
-album: "Echoes from the Seven Caves of Blood"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/byyrth-echoes_from_the_seven_caves_of_blood.jpg"
-thumbnailImage: "/images/covers/byyrth-echoes_from_the_seven_caves_of_blood-thumb.jpg"
 actualPrice: $18.00
+album: Echoes from the Seven Caves of Blood
+artist: Byyrth
+categories:
+- Vinyl
+date: '2021-06-26T15:22:43'
+draft: false
+images:
+- /images/covers/byyrth-echoes_from_the_seven_caves_of_blood.jpg
 inStock: true
+thumbnailImage: /images/covers/byyrth-echoes_from_the_seven_caves_of_blood-thumb.jpg
+title: Byyrth - Echoes from the Seven Caves of Blood
 ---
 
 ## Vinyl

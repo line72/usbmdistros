@@ -1,16 +1,16 @@
 ---
-title: "Hold Me Down - Self-Titled"
-date: 2021-06-13T12:22:23
-draft: false
-artist: "Hold Me Down"
-album: "Self-Titled"
-categories:
-    - Tape
-images:
-    - "/images/covers/hold_me_down-self-titled.jpg"
-thumbnailImage: "/images/covers/hold_me_down-self-titled-thumb.jpg"
 actualPrice: $5.00
+album: Self-Titled
+artist: Hold Me Down
+categories:
+- Tape
+date: '2021-06-26T15:16:25'
+draft: false
+images:
+- /images/covers/hold_me_down-self-titled.jpg
 inStock: true
+thumbnailImage: /images/covers/hold_me_down-self-titled-thumb.jpg
+title: Hold Me Down - Self-Titled
 ---
 
 ## Tape

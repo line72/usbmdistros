@@ -1,16 +1,16 @@
 ---
-title: "Raio Negro - Galactic Portals of the 7 Infernal Suns"
-date: 2021-06-12T14:07:52
-draft: false
-artist: "Raio Negro"
-album: "Galactic Portals of the 7 Infernal Suns"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/raio_negro-galactic_portals_of_the_7_infernal_suns.jpg"
-thumbnailImage: "/images/covers/raio_negro-galactic_portals_of_the_7_infernal_suns-thumb.jpg"
 actualPrice: $27.00
+album: Galactic Portals of the 7 Infernal Suns
+artist: Raio Negro
+categories:
+- Vinyl
+date: '2021-06-26T15:02:54'
+draft: false
+images:
+- /images/covers/raio_negro-galactic_portals_of_the_7_infernal_suns.jpg
 inStock: true
+thumbnailImage: /images/covers/raio_negro-galactic_portals_of_the_7_infernal_suns-thumb.jpg
+title: Raio Negro - Galactic Portals of the 7 Infernal Suns
 ---
 
 ## Vinyl

@@ -1,16 +1,16 @@
 ---
-title: "Revenant Marquis - Pitiless Black Emphasis"
-date: 2021-06-12T14:07:58
-draft: false
-artist: "Revenant Marquis"
-album: "Pitiless Black Emphasis"
-categories:
-    - CD
-images:
-    - "/images/covers/revenant_marquis-pitiless_black_emphasis.jpg"
-thumbnailImage: "/images/covers/revenant_marquis-pitiless_black_emphasis-thumb.jpg"
 actualPrice: $15.00
+album: Pitiless Black Emphasis
+artist: Revenant Marquis
+categories:
+- CD
+date: '2021-06-26T15:03:08'
+draft: false
+images:
+- /images/covers/revenant_marquis-pitiless_black_emphasis.jpg
 inStock: true
+thumbnailImage: /images/covers/revenant_marquis-pitiless_black_emphasis-thumb.jpg
+title: Revenant Marquis - Pitiless Black Emphasis
 ---
 
 ## CD

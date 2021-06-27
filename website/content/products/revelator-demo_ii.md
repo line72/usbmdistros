@@ -1,16 +1,16 @@
 ---
-title: "Revelator - Demo Ii"
-date: 2021-06-13T12:22:20
-draft: false
-artist: "Revelator"
-album: "Demo Ii"
-categories:
-    - Tape
-images:
-    - "/images/covers/revelator-demo_ii.jpg"
-thumbnailImage: "/images/covers/revelator-demo_ii-thumb.jpg"
 actualPrice: $5.00
+album: Demo Ii
+artist: Revelator
+categories:
+- Tape
+date: '2021-06-26T15:16:23'
+draft: false
+images:
+- /images/covers/revelator-demo_ii.jpg
 inStock: true
+thumbnailImage: /images/covers/revelator-demo_ii-thumb.jpg
+title: Revelator - Demo Ii
 ---
 
 ## Tape

@@ -1,16 +1,16 @@
 ---
-title: "Industrial Suicide - 1989-2019"
-date: 2021-06-22T16:40:39
-draft: false
-artist: "Industrial Suicide"
-album: "1989-2019"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/industrial_suicide-1989-2019.jpg"
-thumbnailImage: "/images/covers/industrial_suicide-1989-2019-thumb.jpg"
 actualPrice: $20.00
+album: 1989-2019
+artist: Industrial Suicide
+categories:
+- Vinyl
+date: '2021-06-26T15:22:49'
+draft: false
+images:
+- /images/covers/industrial_suicide-1989-2019.jpg
 inStock: true
+thumbnailImage: /images/covers/industrial_suicide-1989-2019-thumb.jpg
+title: Industrial Suicide - 1989-2019
 ---
 
 ## Vinyl

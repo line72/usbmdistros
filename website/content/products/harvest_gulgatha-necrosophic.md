@@ -1,16 +1,16 @@
 ---
-title: "Harvest Gulgatha - Necrosophic"
-date: 2021-06-22T16:40:38
-draft: false
-artist: "Harvest Gulgatha"
-album: "Necrosophic"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/harvest_gulgatha-necrosophic.jpg"
-thumbnailImage: "/images/covers/harvest_gulgatha-necrosophic-thumb.jpg"
 actualPrice: $17.00
+album: Necrosophic
+artist: Harvest Gulgatha
+categories:
+- Vinyl
+date: '2021-06-26T15:22:48'
+draft: false
+images:
+- /images/covers/harvest_gulgatha-necrosophic.jpg
 inStock: true
+thumbnailImage: /images/covers/harvest_gulgatha-necrosophic-thumb.jpg
+title: Harvest Gulgatha - Necrosophic
 ---
 
 ## Vinyl

@@ -1,16 +1,16 @@
 ---
-title: "Insulter - Blood Spits, Violences, and Insults"
-date: 2021-06-22T16:40:39
-draft: false
-artist: "Insulter"
-album: "Blood Spits, Violences, and Insults"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/insulter-blood_spits,_violences,_and_insults.jpg"
-thumbnailImage: "/images/covers/insulter-blood_spits,_violences,_and_insults-thumb.jpg"
 actualPrice: $10.00
+album: Blood Spits, Violences, and Insults
+artist: Insulter
+categories:
+- Vinyl
+date: '2021-06-26T15:22:49'
+draft: false
+images:
+- /images/covers/insulter-blood_spits,_violences,_and_insults.jpg
 inStock: true
+thumbnailImage: /images/covers/insulter-blood_spits,_violences,_and_insults-thumb.jpg
+title: Insulter - Blood Spits, Violences, and Insults
 ---
 
 ## Vinyl

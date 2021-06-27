@@ -1,16 +1,16 @@
 ---
-title: "Abruptum - Orchestra of Dark"
-date: 2021-06-22T16:40:32
-draft: false
-artist: "Abruptum"
-album: "Orchestra of Dark"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/abruptum-orchestra_of_dark.jpg"
-thumbnailImage: "/images/covers/abruptum-orchestra_of_dark-thumb.jpg"
 actualPrice: $25.00
+album: Orchestra of Dark
+artist: Abruptum
+categories:
+- Vinyl
+date: '2021-06-26T15:22:41'
+draft: false
+images:
+- /images/covers/abruptum-orchestra_of_dark.jpg
 inStock: true
+thumbnailImage: /images/covers/abruptum-orchestra_of_dark-thumb.jpg
+title: Abruptum - Orchestra of Dark
 ---
 
 ## Vinyl

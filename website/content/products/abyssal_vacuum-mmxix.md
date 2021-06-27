@@ -1,16 +1,16 @@
 ---
-title: "Abyssal Vacuum - Mmxix"
-date: 2021-06-13T12:22:21
-draft: false
-artist: "Abyssal Vacuum"
-album: "Mmxix"
-categories:
-    - Tape
-images:
-    - "/images/covers/abyssal_vacuum-mmxix.jpg"
-thumbnailImage: "/images/covers/abyssal_vacuum-mmxix-thumb.jpg"
 actualPrice: $7.00
+album: Mmxix
+artist: Abyssal Vacuum
+categories:
+- Tape
+date: '2021-06-26T15:16:24'
+draft: false
+images:
+- /images/covers/abyssal_vacuum-mmxix.jpg
 inStock: true
+thumbnailImage: /images/covers/abyssal_vacuum-mmxix-thumb.jpg
+title: Abyssal Vacuum - Mmxix
 ---
 
 ## Tape

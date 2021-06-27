@@ -1,16 +1,16 @@
 ---
-title: "Armnatt - Darkness Times"
-date: 2021-06-12T14:07:56
-draft: false
-artist: "Armnatt"
-album: "Darkness Times"
-categories:
-    - Tape
-images:
-    - "/images/covers/armnatt-darkness_times.jpg"
-thumbnailImage: "/images/covers/armnatt-darkness_times-thumb.jpg"
 actualPrice: $10.00
+album: Darkness Times
+artist: Armnatt
+categories:
+- Tape
+date: '2021-06-26T15:03:02'
+draft: false
+images:
+- /images/covers/armnatt-darkness_times.jpg
 inStock: true
+thumbnailImage: /images/covers/armnatt-darkness_times-thumb.jpg
+title: Armnatt - Darkness Times
 ---
 
 ## Tape

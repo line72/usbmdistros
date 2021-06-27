@@ -1,16 +1,16 @@
 ---
-title: "Scumripper - All Veins Blazing"
-date: 2021-06-13T12:22:22
-draft: false
-artist: "Scumripper"
-album: "All Veins Blazing"
-categories:
-    - Tape
-images:
-    - "/images/covers/scumripper-all_veins_blazing.jpg"
-thumbnailImage: "/images/covers/scumripper-all_veins_blazing-thumb.jpg"
 actualPrice: $4.50
+album: All Veins Blazing
+artist: Scumripper
+categories:
+- Tape
+date: '2021-06-26T15:16:25'
+draft: false
+images:
+- /images/covers/scumripper-all_veins_blazing.jpg
 inStock: true
+thumbnailImage: /images/covers/scumripper-all_veins_blazing-thumb.jpg
+title: Scumripper - All Veins Blazing
 ---
 
 ## Tape

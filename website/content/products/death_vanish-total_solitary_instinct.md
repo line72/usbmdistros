@@ -1,16 +1,16 @@
 ---
-title: "Death Vanish - Total Solitary Instinct"
-date: 2021-06-13T12:22:22
-draft: false
-artist: "Death Vanish"
-album: "Total Solitary Instinct"
-categories:
-    - Tape
-images:
-    - "/images/covers/death_vanish-total_solitary_instinct.jpg"
-thumbnailImage: "/images/covers/death_vanish-total_solitary_instinct-thumb.jpg"
 actualPrice: $6.50
+album: Total Solitary Instinct
+artist: Death Vanish
+categories:
+- Tape
+date: '2021-06-26T15:16:24'
+draft: false
+images:
+- /images/covers/death_vanish-total_solitary_instinct.jpg
 inStock: true
+thumbnailImage: /images/covers/death_vanish-total_solitary_instinct-thumb.jpg
+title: Death Vanish - Total Solitary Instinct
 ---
 
 ## Tape

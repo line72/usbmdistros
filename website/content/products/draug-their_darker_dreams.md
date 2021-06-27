@@ -1,16 +1,16 @@
 ---
-title: "Draug - Their Darker Dreams"
-date: 2021-06-12T14:07:54
-draft: false
-artist: "Draug"
-album: "Their Darker Dreams"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/draug-their_darker_dreams.jpg"
-thumbnailImage: "/images/covers/draug-their_darker_dreams-thumb.jpg"
 actualPrice: $9.00
+album: Their Darker Dreams
+artist: Draug
+categories:
+- Vinyl
+date: '2021-06-26T15:02:58'
+draft: false
+images:
+- /images/covers/draug-their_darker_dreams.jpg
 inStock: true
+thumbnailImage: /images/covers/draug-their_darker_dreams-thumb.jpg
+title: Draug - Their Darker Dreams
 ---
 
 ## Vinyl

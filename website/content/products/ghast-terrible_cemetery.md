@@ -1,17 +1,17 @@
 ---
-title: "Ghast - Terrible Cemetery"
-date: 2021-06-22T16:40:57
-draft: false
-artist: "Ghast"
-album: "Terrible Cemetery"
-categories:
-    - Vinyl
-    - CD
-images:
-    - "/images/covers/ghast-terrible_cemetery.jpg"
-thumbnailImage: "/images/covers/ghast-terrible_cemetery-thumb.jpg"
 actualPrice: $8.00 - 17.00
+album: Terrible Cemetery
+artist: Ghast
+categories:
+- Vinyl
+- CD
+date: '2021-06-26T15:23:07'
+draft: false
+images:
+- /images/covers/ghast-terrible_cemetery.jpg
 inStock: true
+thumbnailImage: /images/covers/ghast-terrible_cemetery-thumb.jpg
+title: Ghast - Terrible Cemetery
 ---
 
 ## Vinyl

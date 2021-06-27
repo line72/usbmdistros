@@ -1,17 +1,17 @@
 ---
-title: "DungeönHammer - Infernal Moon"
-date: 2021-06-22T16:40:56
-draft: false
-artist: "DungeönHammer"
-album: "Infernal Moon"
-categories:
-    - Vinyl
-    - CD
-images:
-    - "/images/covers/dungeönhammer-infernal_moon.jpg"
-thumbnailImage: "/images/covers/dungeönhammer-infernal_moon-thumb.jpg"
 actualPrice: $12.00 - 17.00
+album: Infernal Moon
+artist: "Dunge\xF6nHammer"
+categories:
+- Vinyl
+- CD
+date: '2021-06-26T15:23:06'
+draft: false
+images:
+- "/images/covers/dunge\xF6nhammer-infernal_moon.jpg"
 inStock: true
+thumbnailImage: "/images/covers/dunge\xF6nhammer-infernal_moon-thumb.jpg"
+title: "Dunge\xF6nHammer - Infernal Moon"
 ---
 
 ## Vinyl

@@ -1,16 +1,16 @@
 ---
-title: "Corpus Christii - The Torment Continues"
-date: 2021-06-22T16:40:35
-draft: false
-artist: "Corpus Christii"
-album: "The Torment Continues"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/corpus_christii-the_torment_continues.jpg"
-thumbnailImage: "/images/covers/corpus_christii-the_torment_continues-thumb.jpg"
 actualPrice: $17.00
+album: The Torment Continues
+artist: Corpus Christii
+categories:
+- Vinyl
+date: '2021-06-26T15:22:44'
+draft: false
+images:
+- /images/covers/corpus_christii-the_torment_continues.jpg
 inStock: true
+thumbnailImage: /images/covers/corpus_christii-the_torment_continues-thumb.jpg
+title: Corpus Christii - The Torment Continues
 ---
 
 ## Vinyl

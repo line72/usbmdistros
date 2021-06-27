@@ -1,16 +1,16 @@
 ---
-title: "Degial - Death's Striking Wings"
-date: 2021-06-22T16:40:36
-draft: false
-artist: "Degial"
-album: "Death's Striking Wings"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/degial-death's_striking_wings.jpg"
-thumbnailImage: "/images/covers/degial-death's_striking_wings-thumb.jpg"
 actualPrice: $25.00
+album: Death's Striking Wings
+artist: Degial
+categories:
+- Vinyl
+date: '2021-06-26T15:22:45'
+draft: false
+images:
+- /images/covers/degial-death's_striking_wings.jpg
 inStock: true
+thumbnailImage: /images/covers/degial-death's_striking_wings-thumb.jpg
+title: Degial - Death's Striking Wings
 ---
 
 ## Vinyl

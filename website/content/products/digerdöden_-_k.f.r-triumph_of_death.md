@@ -1,16 +1,16 @@
 ---
-title: "Digerdöden / K.F.R - Triumph of Death"
-date: 2021-06-12T14:07:54
-draft: false
-artist: "Digerdöden / K.F.R"
-album: "Triumph of Death"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/digerdöden_-_k.f.r-triumph_of_death.jpg"
-thumbnailImage: "/images/covers/digerdöden_-_k.f.r-triumph_of_death-thumb.jpg"
 actualPrice: $9.00
+album: Triumph of Death
+artist: "Digerd\xF6den / K.F.R"
+categories:
+- Vinyl
+date: '2021-06-26T15:02:58'
+draft: false
+images:
+- "/images/covers/digerd\xF6den_-_k.f.r-triumph_of_death.jpg"
 inStock: true
+thumbnailImage: "/images/covers/digerd\xF6den_-_k.f.r-triumph_of_death-thumb.jpg"
+title: "Digerd\xF6den / K.F.R - Triumph of Death"
 ---
 
 ## Vinyl

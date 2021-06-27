@@ -1,16 +1,16 @@
 ---
-title: "Caladan Brood - Echoes Of Battle"
-date: 2021-06-12T14:04:39
-draft: false
-artist: "Caladan Brood"
-album: "Echoes Of Battle"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/caladan_brood-echoes_of_battle.jpg"
-thumbnailImage: "/images/covers/caladan_brood-echoes_of_battle-thumb.jpg"
 actualPrice: $42.00
+album: Echoes Of Battle
+artist: Caladan Brood
+categories:
+- Vinyl
+date: '2021-06-26T14:49:53'
+draft: false
+images:
+- /images/covers/caladan_brood-echoes_of_battle.jpg
 inStock: true
+thumbnailImage: /images/covers/caladan_brood-echoes_of_battle-thumb.jpg
+title: Caladan Brood - Echoes Of Battle
 ---
 
 ## Vinyl

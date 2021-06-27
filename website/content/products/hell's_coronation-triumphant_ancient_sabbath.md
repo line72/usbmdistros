@@ -1,16 +1,16 @@
 ---
-title: "Hell's Coronation - Triumphant Ancient Sabbath"
-date: 2021-06-22T16:40:39
-draft: false
-artist: "Hell's Coronation"
-album: "Triumphant Ancient Sabbath"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/hell's_coronation-triumphant_ancient_sabbath.jpg"
-thumbnailImage: "/images/covers/hell's_coronation-triumphant_ancient_sabbath-thumb.jpg"
 actualPrice: $25.00
+album: Triumphant Ancient Sabbath
+artist: Hell's Coronation
+categories:
+- Vinyl
+date: '2021-06-26T15:22:48'
+draft: false
+images:
+- /images/covers/hell's_coronation-triumphant_ancient_sabbath.jpg
 inStock: true
+thumbnailImage: /images/covers/hell's_coronation-triumphant_ancient_sabbath-thumb.jpg
+title: Hell's Coronation - Triumphant Ancient Sabbath
 ---
 
 ## Vinyl

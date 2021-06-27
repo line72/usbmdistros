@@ -1,17 +1,17 @@
 ---
-title: "Galaxy - Lost from the Start"
-date: 2021-06-22T16:40:57
-draft: false
-artist: "Galaxy"
-album: "Lost from the Start"
-categories:
-    - Vinyl
-    - CD
-images:
-    - "/images/covers/galaxy-lost_from_the_start.jpg"
-thumbnailImage: "/images/covers/galaxy-lost_from_the_start-thumb.jpg"
 actualPrice: $10.00 - 20.00
+album: Lost from the Start
+artist: Galaxy
+categories:
+- Vinyl
+- CD
+date: '2021-06-26T15:23:07'
+draft: false
+images:
+- /images/covers/galaxy-lost_from_the_start.jpg
 inStock: true
+thumbnailImage: /images/covers/galaxy-lost_from_the_start-thumb.jpg
+title: Galaxy - Lost from the Start
 ---
 
 ## Vinyl

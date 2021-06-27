@@ -1,16 +1,16 @@
 ---
-title: "Ritual Laceration - Putrid Womb"
-date: 2021-06-13T12:22:18
-draft: false
-artist: "Ritual Laceration"
-album: "Putrid Womb"
-categories:
-    - Tape
-images:
-    - "/images/covers/ritual_laceration-putrid_womb.jpg"
-thumbnailImage: "/images/covers/ritual_laceration-putrid_womb-thumb.jpg"
 actualPrice: $8.00
+album: Putrid Womb
+artist: Ritual Laceration
+categories:
+- Tape
+date: '2021-06-26T15:16:21'
+draft: false
+images:
+- /images/covers/ritual_laceration-putrid_womb.jpg
 inStock: true
+thumbnailImage: /images/covers/ritual_laceration-putrid_womb-thumb.jpg
+title: Ritual Laceration - Putrid Womb
 ---
 
 ## Tape

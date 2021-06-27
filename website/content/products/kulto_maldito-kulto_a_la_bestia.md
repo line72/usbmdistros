@@ -1,16 +1,16 @@
 ---
-title: "Kulto Maldito - Kulto a La Bestia"
-date: 2021-06-22T16:40:40
-draft: false
-artist: "Kulto Maldito"
-album: "Kulto a La Bestia"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/kulto_maldito-kulto_a_la_bestia.jpg"
-thumbnailImage: "/images/covers/kulto_maldito-kulto_a_la_bestia-thumb.jpg"
 actualPrice: $17.00
+album: Kulto a La Bestia
+artist: Kulto Maldito
+categories:
+- Vinyl
+date: '2021-06-26T15:22:50'
+draft: false
+images:
+- /images/covers/kulto_maldito-kulto_a_la_bestia.jpg
 inStock: true
+thumbnailImage: /images/covers/kulto_maldito-kulto_a_la_bestia-thumb.jpg
+title: Kulto Maldito - Kulto a La Bestia
 ---
 
 ## Vinyl

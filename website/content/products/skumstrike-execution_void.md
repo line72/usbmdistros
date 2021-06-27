@@ -1,17 +1,17 @@
 ---
-title: "Skumstrike - Execution Void"
-date: 2021-06-22T16:41:13
-draft: false
-artist: "Skumstrike"
-album: "Execution Void"
-categories:
-    - Tape
-    - Cassette
-images:
-    - "/images/covers/skumstrike-execution_void.jpg"
-thumbnailImage: "/images/covers/skumstrike-execution_void-thumb.jpg"
 actualPrice: $6.50 - 7.00
+album: Execution Void
+artist: Skumstrike
+categories:
+- Tape
+- Cassette
+date: '2021-06-26T15:23:23'
+draft: false
+images:
+- /images/covers/skumstrike-execution_void.jpg
 inStock: true
+thumbnailImage: /images/covers/skumstrike-execution_void-thumb.jpg
+title: Skumstrike - Execution Void
 ---
 
 ## Tape

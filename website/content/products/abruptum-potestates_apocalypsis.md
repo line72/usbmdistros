@@ -1,16 +1,16 @@
 ---
-title: "Abruptum - Potestates Apocalypsis"
-date: 2021-06-22T16:40:32
-draft: false
-artist: "Abruptum"
-album: "Potestates Apocalypsis"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/abruptum-potestates_apocalypsis.jpg"
-thumbnailImage: "/images/covers/abruptum-potestates_apocalypsis-thumb.jpg"
 actualPrice: $20.00
+album: Potestates Apocalypsis
+artist: Abruptum
+categories:
+- Vinyl
+date: '2021-06-26T15:22:41'
+draft: false
+images:
+- /images/covers/abruptum-potestates_apocalypsis.jpg
 inStock: true
+thumbnailImage: /images/covers/abruptum-potestates_apocalypsis-thumb.jpg
+title: Abruptum - Potestates Apocalypsis
 ---
 
 ## Vinyl

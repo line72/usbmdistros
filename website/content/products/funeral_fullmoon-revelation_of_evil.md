@@ -1,16 +1,16 @@
 ---
-title: "Funeral Fullmoon - Revelation of Evil"
-date: 2021-06-12T14:07:51
-draft: false
-artist: "Funeral Fullmoon"
-album: "Revelation of Evil"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/funeral_fullmoon-revelation_of_evil.jpg"
-thumbnailImage: "/images/covers/funeral_fullmoon-revelation_of_evil-thumb.jpg"
 actualPrice: $35.00
+album: Revelation of Evil
+artist: Funeral Fullmoon
+categories:
+- Vinyl
+date: '2021-06-26T15:02:54'
+draft: false
+images:
+- /images/covers/funeral_fullmoon-revelation_of_evil.jpg
 inStock: true
+thumbnailImage: /images/covers/funeral_fullmoon-revelation_of_evil-thumb.jpg
+title: Funeral Fullmoon - Revelation of Evil
 ---
 
 ## Vinyl

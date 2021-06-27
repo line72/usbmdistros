@@ -1,16 +1,16 @@
 ---
-title: "Ifernach / Victime Quelconque - Vestiges Gaspésiens"
-date: 2021-06-22T16:40:39
-draft: false
-artist: "Ifernach / Victime Quelconque"
-album: "Vestiges Gaspésiens"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/ifernach_-_victime_quelconque-vestiges_gaspésiens.jpg"
-thumbnailImage: "/images/covers/ifernach_-_victime_quelconque-vestiges_gaspésiens-thumb.jpg"
 actualPrice: $27.00
+album: "Vestiges Gasp\xE9siens"
+artist: Ifernach / Victime Quelconque
+categories:
+- Vinyl
+date: '2021-06-26T15:22:49'
+draft: false
+images:
+- "/images/covers/ifernach_-_victime_quelconque-vestiges_gasp\xE9siens.jpg"
 inStock: true
+thumbnailImage: "/images/covers/ifernach_-_victime_quelconque-vestiges_gasp\xE9siens-thumb.jpg"
+title: "Ifernach / Victime Quelconque - Vestiges Gasp\xE9siens"
 ---
 
 ## Vinyl

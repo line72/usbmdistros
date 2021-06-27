@@ -1,17 +1,17 @@
 ---
-title: "White Ward - Love Exchange Failure"
-date: 2021-06-12T14:11:53
-draft: false
-artist: "White Ward"
-album: "Love Exchange Failure"
-categories:
-    - Vinyl
-    - CD
-images:
-    - "/images/covers/white_ward-love_exchange_failure.jpg"
-thumbnailImage: "/images/covers/white_ward-love_exchange_failure-thumb.jpg"
 actualPrice: $10.99 - 32.99
+album: Love Exchange Failure
+artist: White Ward
+categories:
+- Vinyl
+- CD
+date: '2021-06-26T15:15:53'
+draft: false
+images:
+- /images/covers/white_ward-love_exchange_failure.jpg
 inStock: true
+thumbnailImage: /images/covers/white_ward-love_exchange_failure-thumb.jpg
+title: White Ward - Love Exchange Failure
 ---
 
 ## Vinyl

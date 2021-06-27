@@ -1,17 +1,17 @@
 ---
-title: "Feculent - The Grotesque Arena"
-date: 2021-06-22T16:41:10
-draft: false
-artist: "Feculent"
-album: "The Grotesque Arena"
-categories:
-    - Tape
-    - Cassette
-images:
-    - "/images/covers/feculent-the_grotesque_arena.jpg"
-thumbnailImage: "/images/covers/feculent-the_grotesque_arena-thumb.jpg"
 actualPrice: $6.50 - 10.00
+album: The Grotesque Arena
+artist: Feculent
+categories:
+- Tape
+- Cassette
+date: '2021-06-26T15:23:20'
+draft: false
+images:
+- /images/covers/feculent-the_grotesque_arena.jpg
 inStock: true
+thumbnailImage: /images/covers/feculent-the_grotesque_arena-thumb.jpg
+title: Feculent - The Grotesque Arena
 ---
 
 ## Tape

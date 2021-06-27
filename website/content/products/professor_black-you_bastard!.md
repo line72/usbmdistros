@@ -1,17 +1,17 @@
 ---
-title: "Professor Black - You Bastard!"
-date: 2021-06-22T16:40:43
-draft: false
-artist: "Professor Black"
-album: "You Bastard!"
-categories:
-    - Vinyl
-    - Tape
-images:
-    - "/images/covers/professor_black-you_bastard!.jpg"
-thumbnailImage: "/images/covers/professor_black-you_bastard!-thumb.jpg"
 actualPrice: $6.00 - 17.00
+album: You Bastard!
+artist: Professor Black
+categories:
+- Vinyl
+- Tape
+date: '2021-06-26T15:22:53'
+draft: false
+images:
+- /images/covers/professor_black-you_bastard!.jpg
 inStock: true
+thumbnailImage: /images/covers/professor_black-you_bastard!-thumb.jpg
+title: Professor Black - You Bastard!
 ---
 
 ## Vinyl

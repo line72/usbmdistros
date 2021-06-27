@@ -1,17 +1,17 @@
 ---
-title: "Midnight Prey - Uncertain Times"
-date: 2021-06-22T16:41:01
-draft: false
-artist: "Midnight Prey"
-album: "Uncertain Times"
-categories:
-    - Vinyl
-    - CD
-images:
-    - "/images/covers/midnight_prey-uncertain_times.jpg"
-thumbnailImage: "/images/covers/midnight_prey-uncertain_times-thumb.jpg"
 actualPrice: $10.00 - 20.00
+album: Uncertain Times
+artist: Midnight Prey
+categories:
+- Vinyl
+- CD
+date: '2021-06-26T15:23:11'
+draft: false
+images:
+- /images/covers/midnight_prey-uncertain_times.jpg
 inStock: true
+thumbnailImage: /images/covers/midnight_prey-uncertain_times-thumb.jpg
+title: Midnight Prey - Uncertain Times
 ---
 
 ## Vinyl

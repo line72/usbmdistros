@@ -1,16 +1,16 @@
 ---
-title: "Empty Chalice - Spiritual Abuse"
-date: 2021-06-13T12:22:20
-draft: false
-artist: "Empty Chalice"
-album: "Spiritual Abuse"
-categories:
-    - Tape
-images:
-    - "/images/covers/empty_chalice-spiritual_abuse.jpg"
-thumbnailImage: "/images/covers/empty_chalice-spiritual_abuse-thumb.jpg"
 actualPrice: $8.00
+album: Spiritual Abuse
+artist: Empty Chalice
+categories:
+- Tape
+date: '2021-06-26T15:16:23'
+draft: false
+images:
+- /images/covers/empty_chalice-spiritual_abuse.jpg
 inStock: true
+thumbnailImage: /images/covers/empty_chalice-spiritual_abuse-thumb.jpg
+title: Empty Chalice - Spiritual Abuse
 ---
 
 ## Tape

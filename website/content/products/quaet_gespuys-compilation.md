@@ -1,16 +1,16 @@
 ---
-title: "Quaet Gespuys - Compilation"
-date: 2021-06-13T12:22:23
-draft: false
-artist: "Quaet Gespuys"
-album: "Compilation"
-categories:
-    - Tape
-images:
-    - "/images/covers/quaet_gespuys-compilation.jpg"
-thumbnailImage: "/images/covers/quaet_gespuys-compilation-thumb.jpg"
 actualPrice: $5.00
+album: Compilation
+artist: Quaet Gespuys
+categories:
+- Tape
+date: '2021-06-26T15:16:26'
+draft: false
+images:
+- /images/covers/quaet_gespuys-compilation.jpg
 inStock: true
+thumbnailImage: /images/covers/quaet_gespuys-compilation-thumb.jpg
+title: Quaet Gespuys - Compilation
 ---
 
 ## Tape

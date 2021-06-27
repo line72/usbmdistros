@@ -1,18 +1,18 @@
 ---
-title: "Nekus - Death Nova Upon The Barren Harvest"
-date: 2021-06-22T16:41:12
-draft: false
-artist: "Nekus"
-album: "Death Nova Upon The Barren Harvest"
-categories:
-    - Vinyl
-    - Cassette
-    - CD
-images:
-    - "/images/covers/nekus-death_nova_upon_the_barren_harvest.jpg"
-thumbnailImage: "/images/covers/nekus-death_nova_upon_the_barren_harvest-thumb.jpg"
 actualPrice: $8.00 - 22.00
+album: Death Nova Upon The Barren Harvest
+artist: Nekus
+categories:
+- Vinyl
+- Cassette
+- CD
+date: '2021-06-26T15:23:22'
+draft: false
+images:
+- /images/covers/nekus-death_nova_upon_the_barren_harvest.jpg
 inStock: true
+thumbnailImage: /images/covers/nekus-death_nova_upon_the_barren_harvest-thumb.jpg
+title: Nekus - Death Nova Upon The Barren Harvest
 ---
 
 ## Vinyl

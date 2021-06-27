@@ -1,17 +1,17 @@
 ---
-title: "Necrosadist - Abstract Satan"
-date: 2021-06-22T16:41:02
-draft: false
-artist: "Necrosadist"
-album: "Abstract Satan"
-categories:
-    - Vinyl
-    - CD
-images:
-    - "/images/covers/necrosadist-abstract_satan.jpg"
-thumbnailImage: "/images/covers/necrosadist-abstract_satan-thumb.jpg"
 actualPrice: $6.00 - 17.00
+album: Abstract Satan
+artist: Necrosadist
+categories:
+- Vinyl
+- CD
+date: '2021-06-26T15:23:12'
+draft: false
+images:
+- /images/covers/necrosadist-abstract_satan.jpg
 inStock: true
+thumbnailImage: /images/covers/necrosadist-abstract_satan-thumb.jpg
+title: Necrosadist - Abstract Satan
 ---
 
 ## Vinyl

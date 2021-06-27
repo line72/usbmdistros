@@ -1,16 +1,16 @@
 ---
-title: "Hermóðr - Forest Sky"
-date: 2021-06-22T16:40:39
-draft: false
-artist: "Hermóðr"
-album: "Forest Sky"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/hermóðr-forest_sky.jpg"
-thumbnailImage: "/images/covers/hermóðr-forest_sky-thumb.jpg"
 actualPrice: $30.00
+album: Forest Sky
+artist: "Herm\xF3\xF0r"
+categories:
+- Vinyl
+date: '2021-06-26T15:22:48'
+draft: false
+images:
+- "/images/covers/herm\xF3\xF0r-forest_sky.jpg"
 inStock: true
+thumbnailImage: "/images/covers/herm\xF3\xF0r-forest_sky-thumb.jpg"
+title: "Herm\xF3\xF0r - Forest Sky"
 ---
 
 ## Vinyl

@@ -1,16 +1,16 @@
 ---
-title: "Ritual Abuse Hysteria - Le Satanisme Et La Magie"
-date: 2021-06-13T12:22:18
-draft: false
-artist: "Ritual Abuse Hysteria"
-album: "Le Satanisme Et La Magie"
-categories:
-    - Tape
-images:
-    - "/images/covers/ritual_abuse_hysteria-le_satanisme_et_la_magie.jpg"
-thumbnailImage: "/images/covers/ritual_abuse_hysteria-le_satanisme_et_la_magie-thumb.jpg"
 actualPrice: $6.50
+album: Le Satanisme Et La Magie
+artist: Ritual Abuse Hysteria
+categories:
+- Tape
+date: '2021-06-26T15:16:21'
+draft: false
+images:
+- /images/covers/ritual_abuse_hysteria-le_satanisme_et_la_magie.jpg
 inStock: true
+thumbnailImage: /images/covers/ritual_abuse_hysteria-le_satanisme_et_la_magie-thumb.jpg
+title: Ritual Abuse Hysteria - Le Satanisme Et La Magie
 ---
 
 ## Tape

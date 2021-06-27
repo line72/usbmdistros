@@ -1,16 +1,16 @@
 ---
-title: "Mayhem - Live in Jessheim"
-date: 2021-06-22T16:40:41
-draft: false
-artist: "Mayhem"
-album: "Live in Jessheim"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/mayhem-live_in_jessheim.jpg"
-thumbnailImage: "/images/covers/mayhem-live_in_jessheim-thumb.jpg"
 actualPrice: $25.00
+album: Live in Jessheim
+artist: Mayhem
+categories:
+- Vinyl
+date: '2021-06-26T15:22:51'
+draft: false
+images:
+- /images/covers/mayhem-live_in_jessheim.jpg
 inStock: true
+thumbnailImage: /images/covers/mayhem-live_in_jessheim-thumb.jpg
+title: Mayhem - Live in Jessheim
 ---
 
 ## Vinyl

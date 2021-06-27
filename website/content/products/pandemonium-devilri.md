@@ -1,17 +1,17 @@
 ---
-title: "Pandemonium - Devilri"
-date: 2021-06-22T16:41:03
-draft: false
-artist: "Pandemonium"
-album: "Devilri"
-categories:
-    - Vinyl
-    - CD
-images:
-    - "/images/covers/pandemonium-devilri.jpg"
-thumbnailImage: "/images/covers/pandemonium-devilri-thumb.jpg"
 actualPrice: $8.00 - 20.00
+album: Devilri
+artist: Pandemonium
+categories:
+- Vinyl
+- CD
+date: '2021-06-26T15:23:13'
+draft: false
+images:
+- /images/covers/pandemonium-devilri.jpg
 inStock: true
+thumbnailImage: /images/covers/pandemonium-devilri-thumb.jpg
+title: Pandemonium - Devilri
 ---
 
 ## Vinyl

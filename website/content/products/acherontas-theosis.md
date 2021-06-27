@@ -1,16 +1,16 @@
 ---
-title: "Acherontas - Theosis"
-date: 2021-06-22T16:40:32
-draft: false
-artist: "Acherontas"
-album: "Theosis"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/acherontas-theosis.jpg"
-thumbnailImage: "/images/covers/acherontas-theosis-thumb.jpg"
 actualPrice: $27.00
+album: Theosis
+artist: Acherontas
+categories:
+- Vinyl
+date: '2021-06-26T15:22:41'
+draft: false
+images:
+- /images/covers/acherontas-theosis.jpg
 inStock: true
+thumbnailImage: /images/covers/acherontas-theosis-thumb.jpg
+title: Acherontas - Theosis
 ---
 
 ## Vinyl

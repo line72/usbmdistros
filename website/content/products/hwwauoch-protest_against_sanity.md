@@ -1,16 +1,16 @@
 ---
-title: "Hwwauoch - Protest Against Sanity"
-date: 2021-06-12T14:04:39
-draft: false
-artist: "Hwwauoch"
-album: "Protest Against Sanity"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/hwwauoch-protest_against_sanity.jpg"
-thumbnailImage: "/images/covers/hwwauoch-protest_against_sanity-thumb.jpg"
 actualPrice: $23.00
+album: Protest Against Sanity
+artist: Hwwauoch
+categories:
+- Vinyl
+date: '2021-06-26T14:49:52'
+draft: false
+images:
+- /images/covers/hwwauoch-protest_against_sanity.jpg
 inStock: true
+thumbnailImage: /images/covers/hwwauoch-protest_against_sanity-thumb.jpg
+title: Hwwauoch - Protest Against Sanity
 ---
 
 ## Vinyl

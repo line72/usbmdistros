@@ -1,16 +1,16 @@
 ---
-title: "Black Funeral - Moon of Characith"
-date: 2021-06-12T14:04:39
-draft: false
-artist: "Black Funeral"
-album: "Moon of Characith"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/black_funeral-moon_of_characith.jpg"
-thumbnailImage: "/images/covers/black_funeral-moon_of_characith-thumb.jpg"
 actualPrice: $16.00
+album: Moon of Characith
+artist: Black Funeral
+categories:
+- Vinyl
+date: '2021-06-26T14:49:52'
+draft: false
+images:
+- /images/covers/black_funeral-moon_of_characith.jpg
 inStock: true
+thumbnailImage: /images/covers/black_funeral-moon_of_characith-thumb.jpg
+title: Black Funeral - Moon of Characith
 ---
 
 ## Vinyl

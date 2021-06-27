@@ -1,16 +1,16 @@
 ---
-title: "Hellthrasher - Windrot"
-date: 2021-06-22T16:40:39
-draft: false
-artist: "Hellthrasher"
-album: "Windrot"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/hellthrasher-windrot.jpg"
-thumbnailImage: "/images/covers/hellthrasher-windrot-thumb.jpg"
 actualPrice: $15.00
+album: Windrot
+artist: Hellthrasher
+categories:
+- Vinyl
+date: '2021-06-26T15:22:48'
+draft: false
+images:
+- /images/covers/hellthrasher-windrot.jpg
 inStock: true
+thumbnailImage: /images/covers/hellthrasher-windrot-thumb.jpg
+title: Hellthrasher - Windrot
 ---
 
 ## Vinyl

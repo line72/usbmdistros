@@ -1,16 +1,16 @@
 ---
-title: "Yönsumu - Thunderwords"
-date: 2021-06-13T12:22:20
-draft: false
-artist: "Yönsumu"
-album: "Thunderwords"
-categories:
-    - Tape
-images:
-    - "/images/covers/yönsumu-thunderwords.jpg"
-thumbnailImage: "/images/covers/yönsumu-thunderwords-thumb.jpg"
 actualPrice: $8.00
+album: Thunderwords
+artist: "Y\xF6nsumu"
+categories:
+- Tape
+date: '2021-06-26T15:16:23'
+draft: false
+images:
+- "/images/covers/y\xF6nsumu-thunderwords.jpg"
 inStock: true
+thumbnailImage: "/images/covers/y\xF6nsumu-thunderwords-thumb.jpg"
+title: "Y\xF6nsumu - Thunderwords"
 ---
 
 ## Tape

@@ -1,16 +1,16 @@
 ---
-title: "Permafrost - Spiritual Isolation"
-date: 2021-06-12T14:07:52
-draft: false
-artist: "Permafrost"
-album: "Spiritual Isolation"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/permafrost-spiritual_isolation.jpg"
-thumbnailImage: "/images/covers/permafrost-spiritual_isolation-thumb.jpg"
 actualPrice: $18.00
+album: Spiritual Isolation
+artist: Permafrost
+categories:
+- Vinyl
+date: '2021-06-26T15:02:54'
+draft: false
+images:
+- /images/covers/permafrost-spiritual_isolation.jpg
 inStock: true
+thumbnailImage: /images/covers/permafrost-spiritual_isolation-thumb.jpg
+title: Permafrost - Spiritual Isolation
 ---
 
 ## Vinyl

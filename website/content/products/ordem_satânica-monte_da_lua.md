@@ -1,16 +1,16 @@
 ---
-title: "Ordem Satânica - Monte da Lua"
-date: 2021-06-22T16:40:43
-draft: false
-artist: "Ordem Satânica"
-album: "Monte da Lua"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/ordem_satânica-monte_da_lua.jpg"
-thumbnailImage: "/images/covers/ordem_satânica-monte_da_lua-thumb.jpg"
 actualPrice: $20.00 - 23.00
+album: Monte da Lua
+artist: "Ordem Sat\xE2nica"
+categories:
+- Vinyl
+date: '2021-06-26T15:22:53'
+draft: false
+images:
+- "/images/covers/ordem_sat\xE2nica-monte_da_lua.jpg"
 inStock: true
+thumbnailImage: "/images/covers/ordem_sat\xE2nica-monte_da_lua-thumb.jpg"
+title: "Ordem Sat\xE2nica - Monte da Lua"
 ---
 
 ## Vinyl

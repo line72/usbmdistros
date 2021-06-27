@@ -1,16 +1,16 @@
 ---
-title: "Hermetic Self Destruction Ritual - Kaos above, love below"
-date: 2021-06-22T16:40:39
-draft: false
-artist: "Hermetic Self Destruction Ritual"
-album: "Kaos above, love below"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/hermetic_self_destruction_ritual-kaos_above,_love_below.jpg"
-thumbnailImage: "/images/covers/hermetic_self_destruction_ritual-kaos_above,_love_below-thumb.jpg"
 actualPrice: $17.00
+album: Kaos above, love below
+artist: Hermetic Self Destruction Ritual
+categories:
+- Vinyl
+date: '2021-06-26T15:22:48'
+draft: false
+images:
+- /images/covers/hermetic_self_destruction_ritual-kaos_above,_love_below.jpg
 inStock: true
+thumbnailImage: /images/covers/hermetic_self_destruction_ritual-kaos_above,_love_below-thumb.jpg
+title: Hermetic Self Destruction Ritual - Kaos above, love below
 ---
 
 ## Vinyl

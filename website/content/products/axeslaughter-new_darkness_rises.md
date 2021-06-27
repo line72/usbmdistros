@@ -1,16 +1,16 @@
 ---
-title: "Axeslaughter - New Darkness Rises"
-date: 2021-06-13T12:22:19
-draft: false
-artist: "Axeslaughter"
-album: "New Darkness Rises"
-categories:
-    - Tape
-images:
-    - "/images/covers/axeslaughter-new_darkness_rises.jpg"
-thumbnailImage: "/images/covers/axeslaughter-new_darkness_rises-thumb.jpg"
 actualPrice: $6.50
+album: New Darkness Rises
+artist: Axeslaughter
+categories:
+- Tape
+date: '2021-06-26T15:16:22'
+draft: false
+images:
+- /images/covers/axeslaughter-new_darkness_rises.jpg
 inStock: true
+thumbnailImage: /images/covers/axeslaughter-new_darkness_rises-thumb.jpg
+title: Axeslaughter - New Darkness Rises
 ---
 
 ## Tape

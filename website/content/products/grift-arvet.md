@@ -1,16 +1,16 @@
 ---
-title: "Grift - Arvet"
-date: 2021-06-22T16:40:38
-draft: false
-artist: "Grift"
-album: "Arvet"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/grift-arvet.jpg"
-thumbnailImage: "/images/covers/grift-arvet-thumb.jpg"
 actualPrice: $22.00
+album: Arvet
+artist: Grift
+categories:
+- Vinyl
+date: '2021-06-26T15:22:48'
+draft: false
+images:
+- /images/covers/grift-arvet.jpg
 inStock: true
+thumbnailImage: /images/covers/grift-arvet-thumb.jpg
+title: Grift - Arvet
 ---
 
 ## Vinyl

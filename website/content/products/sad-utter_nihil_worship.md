@@ -1,16 +1,16 @@
 ---
-title: "SAD - Utter Nihil Worship"
-date: 2021-06-12T14:07:59
-draft: false
-artist: "SAD"
-album: "Utter Nihil Worship"
-categories:
-    - CD
-images:
-    - "/images/covers/sad-utter_nihil_worship.jpg"
-thumbnailImage: "/images/covers/sad-utter_nihil_worship-thumb.jpg"
 actualPrice: $8.00
+album: Utter Nihil Worship
+artist: SAD
+categories:
+- CD
+date: '2021-06-26T15:03:08'
+draft: false
+images:
+- /images/covers/sad-utter_nihil_worship.jpg
 inStock: true
+thumbnailImage: /images/covers/sad-utter_nihil_worship-thumb.jpg
+title: SAD - Utter Nihil Worship
 ---
 
 ## CD

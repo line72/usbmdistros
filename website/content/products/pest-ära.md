@@ -1,16 +1,16 @@
 ---
-title: "Pest - Ära"
-date: 2021-06-22T16:40:43
-draft: false
-artist: "Pest"
-album: "Ära"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/pest-ära.jpg"
-thumbnailImage: "/images/covers/pest-ära-thumb.jpg"
 actualPrice: $20.00
+album: "\xC4ra"
+artist: Pest
+categories:
+- Vinyl
+date: '2021-06-26T15:22:53'
+draft: false
+images:
+- "/images/covers/pest-\xE4ra.jpg"
 inStock: true
+thumbnailImage: "/images/covers/pest-\xE4ra-thumb.jpg"
+title: "Pest - \xC4ra"
 ---
 
 ## Vinyl

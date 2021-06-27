@@ -1,16 +1,16 @@
 ---
-title: "Code Error - Self-Titled"
-date: 2021-06-13T12:22:22
-draft: false
-artist: "Code Error"
-album: "Self-Titled"
-categories:
-    - Tape
-images:
-    - "/images/covers/code_error-self-titled.jpg"
-thumbnailImage: "/images/covers/code_error-self-titled-thumb.jpg"
 actualPrice: $4.00
+album: Self-Titled
+artist: Code Error
+categories:
+- Tape
+date: '2021-06-26T15:16:25'
+draft: false
+images:
+- /images/covers/code_error-self-titled.jpg
 inStock: true
+thumbnailImage: /images/covers/code_error-self-titled-thumb.jpg
+title: Code Error - Self-Titled
 ---
 
 ## Tape

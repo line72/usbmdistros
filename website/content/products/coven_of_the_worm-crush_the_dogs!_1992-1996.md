@@ -1,16 +1,16 @@
 ---
-title: "Coven of the Worm - Crush the Dogs! 1992-1996"
-date: 2021-06-22T16:40:35
-draft: false
-artist: "Coven of the Worm"
-album: "Crush the Dogs! 1992-1996"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/coven_of_the_worm-crush_the_dogs!_1992-1996.jpg"
-thumbnailImage: "/images/covers/coven_of_the_worm-crush_the_dogs!_1992-1996-thumb.jpg"
 actualPrice: $25.00
+album: Crush the Dogs! 1992-1996
+artist: Coven of the Worm
+categories:
+- Vinyl
+date: '2021-06-26T15:22:44'
+draft: false
+images:
+- /images/covers/coven_of_the_worm-crush_the_dogs!_1992-1996.jpg
 inStock: true
+thumbnailImage: /images/covers/coven_of_the_worm-crush_the_dogs!_1992-1996-thumb.jpg
+title: Coven of the Worm - Crush the Dogs! 1992-1996
 ---
 
 ## Vinyl

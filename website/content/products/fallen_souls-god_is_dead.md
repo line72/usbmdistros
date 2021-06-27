@@ -1,16 +1,16 @@
 ---
-title: "Fallen Souls - God Is Dead"
-date: 2021-06-22T16:40:37
-draft: false
-artist: "Fallen Souls"
-album: "God Is Dead"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/fallen_souls-god_is_dead.jpg"
-thumbnailImage: "/images/covers/fallen_souls-god_is_dead-thumb.jpg"
 actualPrice: $20.00
+album: God Is Dead
+artist: Fallen Souls
+categories:
+- Vinyl
+date: '2021-06-26T15:22:47'
+draft: false
+images:
+- /images/covers/fallen_souls-god_is_dead.jpg
 inStock: true
+thumbnailImage: /images/covers/fallen_souls-god_is_dead-thumb.jpg
+title: Fallen Souls - God Is Dead
 ---
 
 ## Vinyl

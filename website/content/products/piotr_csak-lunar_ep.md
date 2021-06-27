@@ -1,16 +1,16 @@
 ---
-title: "Piotr Csak - Lunar Ep"
-date: 2021-06-13T12:22:20
-draft: false
-artist: "Piotr Csak"
-album: "Lunar Ep"
-categories:
-    - Tape
-images:
-    - "/images/covers/piotr_csak-lunar_ep.jpg"
-thumbnailImage: "/images/covers/piotr_csak-lunar_ep-thumb.jpg"
 actualPrice: $8.50
+album: Lunar Ep
+artist: Piotr Csak
+categories:
+- Tape
+date: '2021-06-26T15:16:23'
+draft: false
+images:
+- /images/covers/piotr_csak-lunar_ep.jpg
 inStock: true
+thumbnailImage: /images/covers/piotr_csak-lunar_ep-thumb.jpg
+title: Piotr Csak - Lunar Ep
 ---
 
 ## Tape

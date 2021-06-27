@@ -1,17 +1,17 @@
 ---
-title: "Bastard Grave - Diorama Of Human Suffering"
-date: 2021-06-22T16:40:53
-draft: false
-artist: "Bastard Grave"
-album: "Diorama Of Human Suffering"
-categories:
-    - Vinyl
-    - CD
-images:
-    - "/images/covers/bastard_grave-diorama_of_human_suffering.jpg"
-thumbnailImage: "/images/covers/bastard_grave-diorama_of_human_suffering-thumb.jpg"
 actualPrice: $12.00 - 20.00
+album: Diorama Of Human Suffering
+artist: Bastard Grave
+categories:
+- Vinyl
+- CD
+date: '2021-06-26T15:23:03'
+draft: false
+images:
+- /images/covers/bastard_grave-diorama_of_human_suffering.jpg
 inStock: true
+thumbnailImage: /images/covers/bastard_grave-diorama_of_human_suffering-thumb.jpg
+title: Bastard Grave - Diorama Of Human Suffering
 ---
 
 ## Vinyl

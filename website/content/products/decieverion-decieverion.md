@@ -1,16 +1,16 @@
 ---
-title: "Decieverion - Decieverion"
-date: 2021-06-22T16:40:36
-draft: false
-artist: "Decieverion"
-album: "Decieverion"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/decieverion-decieverion.jpg"
-thumbnailImage: "/images/covers/decieverion-decieverion-thumb.jpg"
 actualPrice: $17.00
+album: Decieverion
+artist: Decieverion
+categories:
+- Vinyl
+date: '2021-06-26T15:22:45'
+draft: false
+images:
+- /images/covers/decieverion-decieverion.jpg
 inStock: true
+thumbnailImage: /images/covers/decieverion-decieverion-thumb.jpg
+title: Decieverion - Decieverion
 ---
 
 ## Vinyl

@@ -1,16 +1,16 @@
 ---
-title: "Pissing Contest - Self-Titled"
-date: 2021-06-13T12:22:20
-draft: false
-artist: "Pissing Contest"
-album: "Self-Titled"
-categories:
-    - Tape
-images:
-    - "/images/covers/pissing_contest-self-titled.jpg"
-thumbnailImage: "/images/covers/pissing_contest-self-titled-thumb.jpg"
 actualPrice: $7.00
+album: Self-Titled
+artist: Pissing Contest
+categories:
+- Tape
+date: '2021-06-26T15:16:23'
+draft: false
+images:
+- /images/covers/pissing_contest-self-titled.jpg
 inStock: true
+thumbnailImage: /images/covers/pissing_contest-self-titled-thumb.jpg
+title: Pissing Contest - Self-Titled
 ---
 
 ## Tape

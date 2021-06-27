@@ -1,16 +1,16 @@
 ---
-title: "Explosicum - Conflict"
-date: 2021-06-22T16:40:37
-draft: false
-artist: "Explosicum"
-album: "Conflict"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/explosicum-conflict.jpg"
-thumbnailImage: "/images/covers/explosicum-conflict-thumb.jpg"
 actualPrice: $17.00
+album: Conflict
+artist: Explosicum
+categories:
+- Vinyl
+date: '2021-06-26T15:22:47'
+draft: false
+images:
+- /images/covers/explosicum-conflict.jpg
 inStock: true
+thumbnailImage: /images/covers/explosicum-conflict-thumb.jpg
+title: Explosicum - Conflict
 ---
 
 ## Vinyl

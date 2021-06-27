@@ -1,16 +1,16 @@
 ---
-title: "Ofermod - Mystérion Tés Anomias"
-date: 2021-06-22T16:40:43
-draft: false
-artist: "Ofermod"
-album: "Mystérion Tés Anomias"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/ofermod-mystérion_tés_anomias.jpg"
-thumbnailImage: "/images/covers/ofermod-mystérion_tés_anomias-thumb.jpg"
 actualPrice: $20.00
+album: "Myst\xE9rion T\xE9s Anomias"
+artist: Ofermod
+categories:
+- Vinyl
+date: '2021-06-26T15:22:52'
+draft: false
+images:
+- "/images/covers/ofermod-myst\xE9rion_t\xE9s_anomias.jpg"
 inStock: true
+thumbnailImage: "/images/covers/ofermod-myst\xE9rion_t\xE9s_anomias-thumb.jpg"
+title: "Ofermod - Myst\xE9rion T\xE9s Anomias"
 ---
 
 ## Vinyl

@@ -1,16 +1,16 @@
 ---
-title: "Rattenkönig - Live at Recrucifying the Bastard 2019"
-date: 2021-06-12T14:07:56
-draft: false
-artist: "Rattenkönig"
-album: "Live at Recrucifying the Bastard 2019"
-categories:
-    - Tape
-images:
-    - "/images/covers/rattenkönig-live_at_recrucifying_the_bastard_2019.jpg"
-thumbnailImage: "/images/covers/rattenkönig-live_at_recrucifying_the_bastard_2019-thumb.jpg"
 actualPrice: $8.00
+album: Live at Recrucifying the Bastard 2019
+artist: "Rattenk\xF6nig"
+categories:
+- Tape
+date: '2021-06-26T15:03:02'
+draft: false
+images:
+- "/images/covers/rattenk\xF6nig-live_at_recrucifying_the_bastard_2019.jpg"
 inStock: true
+thumbnailImage: "/images/covers/rattenk\xF6nig-live_at_recrucifying_the_bastard_2019-thumb.jpg"
+title: "Rattenk\xF6nig - Live at Recrucifying the Bastard 2019"
 ---
 
 ## Tape

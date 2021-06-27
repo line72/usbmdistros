@@ -1,16 +1,16 @@
 ---
-title: "Black Citadel / Bašmu - Split"
-date: 2021-06-12T14:07:54
-draft: false
-artist: "Black Citadel / Bašmu"
-album: "Split"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/black_citadel_-_bašmu-split.jpg"
-thumbnailImage: "/images/covers/black_citadel_-_bašmu-split-thumb.jpg"
 actualPrice: $9.00
+album: Split
+artist: "Black Citadel / Ba\u0161mu"
+categories:
+- Vinyl
+date: '2021-06-26T15:02:58'
+draft: false
+images:
+- "/images/covers/black_citadel_-_ba\u0161mu-split.jpg"
 inStock: true
+thumbnailImage: "/images/covers/black_citadel_-_ba\u0161mu-split-thumb.jpg"
+title: "Black Citadel / Ba\u0161mu - Split"
 ---
 
 ## Vinyl

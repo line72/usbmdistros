@@ -1,17 +1,17 @@
 ---
-title: "Ride for Revenge - Nightmare Disturbances"
-date: 2021-06-22T16:41:04
-draft: false
-artist: "Ride for Revenge"
-album: "Nightmare Disturbances"
-categories:
-    - Vinyl
-    - CD
-images:
-    - "/images/covers/ride_for_revenge-nightmare_disturbances.jpg"
-thumbnailImage: "/images/covers/ride_for_revenge-nightmare_disturbances-thumb.jpg"
 actualPrice: $12.00 - 20.00
+album: Nightmare Disturbances
+artist: Ride for Revenge
+categories:
+- Vinyl
+- CD
+date: '2021-06-26T15:23:14'
+draft: false
+images:
+- /images/covers/ride_for_revenge-nightmare_disturbances.jpg
 inStock: true
+thumbnailImage: /images/covers/ride_for_revenge-nightmare_disturbances-thumb.jpg
+title: Ride for Revenge - Nightmare Disturbances
 ---
 
 ## Vinyl

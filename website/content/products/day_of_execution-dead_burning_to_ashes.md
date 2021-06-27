@@ -1,16 +1,16 @@
 ---
-title: "Day Of Execution - Dead Burning To Ashes"
-date: 2021-06-13T12:22:21
-draft: false
-artist: "Day Of Execution"
-album: "Dead Burning To Ashes"
-categories:
-    - Tape
-images:
-    - "/images/covers/day_of_execution-dead_burning_to_ashes.jpg"
-thumbnailImage: "/images/covers/day_of_execution-dead_burning_to_ashes-thumb.jpg"
 actualPrice: $3.00
+album: Dead Burning To Ashes
+artist: Day Of Execution
+categories:
+- Tape
+date: '2021-06-26T15:16:24'
+draft: false
+images:
+- /images/covers/day_of_execution-dead_burning_to_ashes.jpg
 inStock: true
+thumbnailImage: /images/covers/day_of_execution-dead_burning_to_ashes-thumb.jpg
+title: Day Of Execution - Dead Burning To Ashes
 ---
 
 ## Tape

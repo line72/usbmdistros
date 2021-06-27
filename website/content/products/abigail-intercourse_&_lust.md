@@ -1,16 +1,16 @@
 ---
-title: "Abigail - Intercourse & Lust"
-date: 2021-06-22T16:40:52
-draft: false
-artist: "Abigail"
-album: "Intercourse & Lust"
-categories:
-    - CD
-images:
-    - "/images/covers/abigail-intercourse_&_lust.jpg"
-thumbnailImage: "/images/covers/abigail-intercourse_&_lust-thumb.jpg"
 actualPrice: $10.00
+album: Intercourse & Lust
+artist: Abigail
+categories:
+- CD
+date: '2021-06-26T15:23:02'
+draft: false
+images:
+- /images/covers/abigail-intercourse_&_lust.jpg
 inStock: true
+thumbnailImage: /images/covers/abigail-intercourse_&_lust-thumb.jpg
+title: Abigail - Intercourse & Lust
 ---
 
 ## CD

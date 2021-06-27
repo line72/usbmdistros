@@ -1,16 +1,16 @@
 ---
-title: "Beherit - Drawing Down the Moon"
-date: 2021-06-22T16:40:33
-draft: false
-artist: "Beherit"
-album: "Drawing Down the Moon"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/beherit-drawing_down_the_moon.jpg"
-thumbnailImage: "/images/covers/beherit-drawing_down_the_moon-thumb.jpg"
 actualPrice: $25.00
+album: Drawing Down the Moon
+artist: Beherit
+categories:
+- Vinyl
+date: '2021-06-26T15:22:43'
+draft: false
+images:
+- /images/covers/beherit-drawing_down_the_moon.jpg
 inStock: true
+thumbnailImage: /images/covers/beherit-drawing_down_the_moon-thumb.jpg
+title: Beherit - Drawing Down the Moon
 ---
 
 ## Vinyl

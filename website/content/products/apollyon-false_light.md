@@ -1,16 +1,16 @@
 ---
-title: "Apollyon - False Light"
-date: 2021-06-13T12:22:21
-draft: false
-artist: "Apollyon"
-album: "False Light"
-categories:
-    - Tape
-images:
-    - "/images/covers/apollyon-false_light.jpg"
-thumbnailImage: "/images/covers/apollyon-false_light-thumb.jpg"
 actualPrice: $6.50
+album: False Light
+artist: Apollyon
+categories:
+- Tape
+date: '2021-06-26T15:16:24'
+draft: false
+images:
+- /images/covers/apollyon-false_light.jpg
 inStock: true
+thumbnailImage: /images/covers/apollyon-false_light-thumb.jpg
+title: Apollyon - False Light
 ---
 
 ## Tape

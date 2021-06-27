@@ -1,16 +1,16 @@
 ---
-title: "Seven Chains - Self-Titled"
-date: 2021-06-13T12:22:23
-draft: false
-artist: "Seven Chains"
-album: "Self-Titled"
-categories:
-    - Tape
-images:
-    - "/images/covers/seven_chains-self-titled.jpg"
-thumbnailImage: "/images/covers/seven_chains-self-titled-thumb.jpg"
 actualPrice: $6.00
+album: Self-Titled
+artist: Seven Chains
+categories:
+- Tape
+date: '2021-06-26T15:16:25'
+draft: false
+images:
+- /images/covers/seven_chains-self-titled.jpg
 inStock: true
+thumbnailImage: /images/covers/seven_chains-self-titled-thumb.jpg
+title: Seven Chains - Self-Titled
 ---
 
 ## Tape

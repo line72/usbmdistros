@@ -1,16 +1,16 @@
 ---
-title: "Ledge - All I Hope For"
-date: 2021-06-13T12:22:22
-draft: false
-artist: "Ledge"
-album: "All I Hope For"
-categories:
-    - Tape
-images:
-    - "/images/covers/ledge-all_i_hope_for.jpg"
-thumbnailImage: "/images/covers/ledge-all_i_hope_for-thumb.jpg"
 actualPrice: $7.00
+album: All I Hope For
+artist: Ledge
+categories:
+- Tape
+date: '2021-06-26T15:16:25'
+draft: false
+images:
+- /images/covers/ledge-all_i_hope_for.jpg
 inStock: true
+thumbnailImage: /images/covers/ledge-all_i_hope_for-thumb.jpg
+title: Ledge - All I Hope For
 ---
 
 ## Tape

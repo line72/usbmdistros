@@ -1,16 +1,16 @@
 ---
-title: "CNTMPT - Für nichts außer Asche"
-date: 2021-06-22T16:40:35
-draft: false
-artist: "CNTMPT"
-album: "Für nichts außer Asche"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/cntmpt-für_nichts_außer_asche.jpg"
-thumbnailImage: "/images/covers/cntmpt-für_nichts_außer_asche-thumb.jpg"
 actualPrice: $17.00
+album: "F\xFCr nichts au\xDFer Asche"
+artist: CNTMPT
+categories:
+- Vinyl
+date: '2021-06-26T15:22:44'
+draft: false
+images:
+- "/images/covers/cntmpt-f\xFCr_nichts_au\xDFer_asche.jpg"
 inStock: true
+thumbnailImage: "/images/covers/cntmpt-f\xFCr_nichts_au\xDFer_asche-thumb.jpg"
+title: "CNTMPT - F\xFCr nichts au\xDFer Asche"
 ---
 
 ## Vinyl

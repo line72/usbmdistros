@@ -1,18 +1,18 @@
 ---
-title: "Osculum - Oremus"
-date: 2021-06-22T16:41:12
-draft: false
-artist: "Osculum"
-album: "Oremus"
-categories:
-    - Tape
-    - Cassette
-    - CD
-images:
-    - "/images/covers/osculum-oremus.jpg"
-thumbnailImage: "/images/covers/osculum-oremus-thumb.jpg"
 actualPrice: $4.00 - 10.00
+album: Oremus
+artist: Osculum
+categories:
+- Tape
+- Cassette
+- CD
+date: '2021-06-26T15:23:22'
+draft: false
+images:
+- /images/covers/osculum-oremus.jpg
 inStock: true
+thumbnailImage: /images/covers/osculum-oremus-thumb.jpg
+title: Osculum - Oremus
 ---
 
 ## Tape

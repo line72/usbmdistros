@@ -1,16 +1,16 @@
 ---
-title: "Darkthrone - Too Old Too Cold"
-date: 2021-06-22T16:40:35
-draft: false
-artist: "Darkthrone"
-album: "Too Old Too Cold"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/darkthrone-too_old_too_cold.jpg"
-thumbnailImage: "/images/covers/darkthrone-too_old_too_cold-thumb.jpg"
 actualPrice: $25.00
+album: Too Old Too Cold
+artist: Darkthrone
+categories:
+- Vinyl
+date: '2021-06-26T15:22:44'
+draft: false
+images:
+- /images/covers/darkthrone-too_old_too_cold.jpg
 inStock: true
+thumbnailImage: /images/covers/darkthrone-too_old_too_cold-thumb.jpg
+title: Darkthrone - Too Old Too Cold
 ---
 
 ## Vinyl

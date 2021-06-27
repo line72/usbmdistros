@@ -1,17 +1,17 @@
 ---
-title: "Black Cilice - Transfixion of Spirits"
-date: 2021-06-22T16:40:54
-draft: false
-artist: "Black Cilice"
-album: "Transfixion of Spirits"
-categories:
-    - Vinyl
-    - CD
-images:
-    - "/images/covers/black_cilice-transfixion_of_spirits.jpg"
-thumbnailImage: "/images/covers/black_cilice-transfixion_of_spirits-thumb.jpg"
 actualPrice: $10.00 - 20.00
+album: Transfixion of Spirits
+artist: Black Cilice
+categories:
+- Vinyl
+- CD
+date: '2021-06-26T15:23:04'
+draft: false
+images:
+- /images/covers/black_cilice-transfixion_of_spirits.jpg
 inStock: true
+thumbnailImage: /images/covers/black_cilice-transfixion_of_spirits-thumb.jpg
+title: Black Cilice - Transfixion of Spirits
 ---
 
 ## Vinyl

@@ -1,17 +1,17 @@
 ---
-title: "Horripilant - Embrace The Obsession"
-date: 2021-06-22T16:40:59
-draft: false
-artist: "Horripilant"
-album: "Embrace The Obsession"
-categories:
-    - Vinyl
-    - CD
-images:
-    - "/images/covers/horripilant-embrace_the_obsession.jpg"
-thumbnailImage: "/images/covers/horripilant-embrace_the_obsession-thumb.jpg"
 actualPrice: $10.00 - 20.00
+album: Embrace The Obsession
+artist: Horripilant
+categories:
+- Vinyl
+- CD
+date: '2021-06-26T15:23:09'
+draft: false
+images:
+- /images/covers/horripilant-embrace_the_obsession.jpg
 inStock: true
+thumbnailImage: /images/covers/horripilant-embrace_the_obsession-thumb.jpg
+title: Horripilant - Embrace The Obsession
 ---
 
 ## Vinyl

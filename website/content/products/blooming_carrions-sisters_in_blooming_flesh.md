@@ -1,17 +1,17 @@
 ---
-title: "Blooming Carrions - Sisters in Blooming Flesh"
-date: 2021-06-22T16:40:54
-draft: false
-artist: "Blooming Carrions"
-album: "Sisters in Blooming Flesh"
-categories:
-    - Vinyl
-    - CD
-images:
-    - "/images/covers/blooming_carrions-sisters_in_blooming_flesh.jpg"
-thumbnailImage: "/images/covers/blooming_carrions-sisters_in_blooming_flesh-thumb.jpg"
 actualPrice: $10.00 - 17.00
+album: Sisters in Blooming Flesh
+artist: Blooming Carrions
+categories:
+- Vinyl
+- CD
+date: '2021-06-26T15:23:04'
+draft: false
+images:
+- /images/covers/blooming_carrions-sisters_in_blooming_flesh.jpg
 inStock: true
+thumbnailImage: /images/covers/blooming_carrions-sisters_in_blooming_flesh-thumb.jpg
+title: Blooming Carrions - Sisters in Blooming Flesh
 ---
 
 ## Vinyl

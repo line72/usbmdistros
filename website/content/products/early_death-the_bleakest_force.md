@@ -1,16 +1,16 @@
 ---
-title: "Early Death - The Bleakest Force"
-date: 2021-06-22T16:40:36
-draft: false
-artist: "Early Death"
-album: "The Bleakest Force"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/early_death-the_bleakest_force.jpg"
-thumbnailImage: "/images/covers/early_death-the_bleakest_force-thumb.jpg"
 actualPrice: $17.00
+album: The Bleakest Force
+artist: Early Death
+categories:
+- Vinyl
+date: '2021-06-26T15:22:46'
+draft: false
+images:
+- /images/covers/early_death-the_bleakest_force.jpg
 inStock: true
+thumbnailImage: /images/covers/early_death-the_bleakest_force-thumb.jpg
+title: Early Death - The Bleakest Force
 ---
 
 ## Vinyl

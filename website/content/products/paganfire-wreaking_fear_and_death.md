@@ -1,16 +1,16 @@
 ---
-title: "Paganfire - Wreaking Fear and Death"
-date: 2021-06-22T16:40:43
-draft: false
-artist: "Paganfire"
-album: "Wreaking Fear and Death"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/paganfire-wreaking_fear_and_death.jpg"
-thumbnailImage: "/images/covers/paganfire-wreaking_fear_and_death-thumb.jpg"
 actualPrice: $17.00
+album: Wreaking Fear and Death
+artist: Paganfire
+categories:
+- Vinyl
+date: '2021-06-26T15:22:53'
+draft: false
+images:
+- /images/covers/paganfire-wreaking_fear_and_death.jpg
 inStock: true
+thumbnailImage: /images/covers/paganfire-wreaking_fear_and_death-thumb.jpg
+title: Paganfire - Wreaking Fear and Death
 ---
 
 ## Vinyl

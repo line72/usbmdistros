@@ -1,16 +1,16 @@
 ---
-title: "Animus Mortis - Atrabilis (Residues from Verb & Flesh)"
-date: 2021-06-22T16:40:32
-draft: false
-artist: "Animus Mortis"
-album: "Atrabilis (Residues from Verb & Flesh)"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/animus_mortis-atrabilis_(residues_from_verb_&_flesh).jpg"
-thumbnailImage: "/images/covers/animus_mortis-atrabilis_(residues_from_verb_&_flesh)-thumb.jpg"
 actualPrice: $17.00
+album: Atrabilis (Residues from Verb & Flesh)
+artist: Animus Mortis
+categories:
+- Vinyl
+date: '2021-06-26T15:22:42'
+draft: false
+images:
+- /images/covers/animus_mortis-atrabilis_(residues_from_verb_&_flesh).jpg
 inStock: true
+thumbnailImage: /images/covers/animus_mortis-atrabilis_(residues_from_verb_&_flesh)-thumb.jpg
+title: Animus Mortis - Atrabilis (Residues from Verb & Flesh)
 ---
 
 ## Vinyl

@@ -1,17 +1,17 @@
 ---
-title: "Inisans - Transition"
-date: 2021-06-22T16:40:59
-draft: false
-artist: "Inisans"
-album: "Transition"
-categories:
-    - Vinyl
-    - CD
-images:
-    - "/images/covers/inisans-transition.jpg"
-thumbnailImage: "/images/covers/inisans-transition-thumb.jpg"
 actualPrice: $10.00 - 22.00
+album: Transition
+artist: Inisans
+categories:
+- Vinyl
+- CD
+date: '2021-06-26T15:23:09'
+draft: false
+images:
+- /images/covers/inisans-transition.jpg
 inStock: true
+thumbnailImage: /images/covers/inisans-transition-thumb.jpg
+title: Inisans - Transition
 ---
 
 ## Vinyl

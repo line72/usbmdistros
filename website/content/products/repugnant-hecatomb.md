@@ -1,16 +1,16 @@
 ---
-title: "Repugnant - Hecatomb"
-date: 2021-06-22T16:40:44
-draft: false
-artist: "Repugnant"
-album: "Hecatomb"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/repugnant-hecatomb.jpg"
-thumbnailImage: "/images/covers/repugnant-hecatomb-thumb.jpg"
 actualPrice: $25.00
+album: Hecatomb
+artist: Repugnant
+categories:
+- Vinyl
+date: '2021-06-26T15:22:54'
+draft: false
+images:
+- /images/covers/repugnant-hecatomb.jpg
 inStock: true
+thumbnailImage: /images/covers/repugnant-hecatomb-thumb.jpg
+title: Repugnant - Hecatomb
 ---
 
 ## Vinyl

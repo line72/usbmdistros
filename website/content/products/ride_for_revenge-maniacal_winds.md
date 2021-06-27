@@ -1,17 +1,17 @@
 ---
-title: "Ride for Revenge - Maniacal Winds"
-date: 2021-06-22T16:41:04
-draft: false
-artist: "Ride for Revenge"
-album: "Maniacal Winds"
-categories:
-    - Vinyl
-    - CD
-images:
-    - "/images/covers/ride_for_revenge-maniacal_winds.jpg"
-thumbnailImage: "/images/covers/ride_for_revenge-maniacal_winds-thumb.jpg"
 actualPrice: $12.00 - 20.00
+album: Maniacal Winds
+artist: Ride for Revenge
+categories:
+- Vinyl
+- CD
+date: '2021-06-26T15:23:14'
+draft: false
+images:
+- /images/covers/ride_for_revenge-maniacal_winds.jpg
 inStock: true
+thumbnailImage: /images/covers/ride_for_revenge-maniacal_winds-thumb.jpg
+title: Ride for Revenge - Maniacal Winds
 ---
 
 ## Vinyl

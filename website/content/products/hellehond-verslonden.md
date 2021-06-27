@@ -1,17 +1,17 @@
 ---
-title: "Hellehond - Verslonden"
-date: 2021-06-22T16:40:58
-draft: false
-artist: "Hellehond"
-album: "Verslonden"
-categories:
-    - Vinyl
-    - CD
-images:
-    - "/images/covers/hellehond-verslonden.jpg"
-thumbnailImage: "/images/covers/hellehond-verslonden-thumb.jpg"
 actualPrice: $10.00 - 17.00
+album: Verslonden
+artist: Hellehond
+categories:
+- Vinyl
+- CD
+date: '2021-06-26T15:23:08'
+draft: false
+images:
+- /images/covers/hellehond-verslonden.jpg
 inStock: true
+thumbnailImage: /images/covers/hellehond-verslonden-thumb.jpg
+title: Hellehond - Verslonden
 ---
 
 ## Vinyl

@@ -1,17 +1,17 @@
 ---
-title: "Wald Krypta - Where None Remain"
-date: 2021-06-22T16:41:14
-draft: false
-artist: "Wald Krypta"
-album: "Where None Remain"
-categories:
-    - Tape
-    - Cassette
-images:
-    - "/images/covers/wald_krypta-where_none_remain.jpg"
-thumbnailImage: "/images/covers/wald_krypta-where_none_remain-thumb.jpg"
 actualPrice: $4.50 - 7.00
+album: Where None Remain
+artist: Wald Krypta
+categories:
+- Tape
+- Cassette
+date: '2021-06-26T15:23:24'
+draft: false
+images:
+- /images/covers/wald_krypta-where_none_remain.jpg
 inStock: true
+thumbnailImage: /images/covers/wald_krypta-where_none_remain-thumb.jpg
+title: Wald Krypta - Where None Remain
 ---
 
 ## Tape

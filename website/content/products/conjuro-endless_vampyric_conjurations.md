@@ -1,16 +1,16 @@
 ---
-title: "Conjuro - Endless Vampyric Conjurations"
-date: 2021-06-12T14:07:51
-draft: false
-artist: "Conjuro"
-album: "Endless Vampyric Conjurations"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/conjuro-endless_vampyric_conjurations.jpg"
-thumbnailImage: "/images/covers/conjuro-endless_vampyric_conjurations-thumb.jpg"
 actualPrice: $28.00
+album: Endless Vampyric Conjurations
+artist: Conjuro
+categories:
+- Vinyl
+date: '2021-06-26T15:02:54'
+draft: false
+images:
+- /images/covers/conjuro-endless_vampyric_conjurations.jpg
 inStock: true
+thumbnailImage: /images/covers/conjuro-endless_vampyric_conjurations-thumb.jpg
+title: Conjuro - Endless Vampyric Conjurations
 ---
 
 ## Vinyl

@@ -1,16 +1,16 @@
 ---
-title: "Horrendous - Sweet Blasphemies"
-date: 2021-06-22T16:40:39
-draft: false
-artist: "Horrendous"
-album: "Sweet Blasphemies"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/horrendous-sweet_blasphemies.jpg"
-thumbnailImage: "/images/covers/horrendous-sweet_blasphemies-thumb.jpg"
 actualPrice: $17.00
+album: Sweet Blasphemies
+artist: Horrendous
+categories:
+- Vinyl
+date: '2021-06-26T15:22:49'
+draft: false
+images:
+- /images/covers/horrendous-sweet_blasphemies.jpg
 inStock: true
+thumbnailImage: /images/covers/horrendous-sweet_blasphemies-thumb.jpg
+title: Horrendous - Sweet Blasphemies
 ---
 
 ## Vinyl

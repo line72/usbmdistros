@@ -1,16 +1,16 @@
 ---
-title: "8th Sin - Angelseed and Demonmilk"
-date: 2021-06-22T16:40:52
-draft: false
-artist: "8th Sin"
-album: "Angelseed and Demonmilk"
-categories:
-    - CD
-images:
-    - "/images/covers/8th_sin-angelseed_and_demonmilk.jpg"
-thumbnailImage: "/images/covers/8th_sin-angelseed_and_demonmilk-thumb.jpg"
 actualPrice: $5.00
+album: Angelseed and Demonmilk
+artist: 8th Sin
+categories:
+- CD
+date: '2021-06-26T15:23:02'
+draft: false
+images:
+- /images/covers/8th_sin-angelseed_and_demonmilk.jpg
 inStock: true
+thumbnailImage: /images/covers/8th_sin-angelseed_and_demonmilk-thumb.jpg
+title: 8th Sin - Angelseed and Demonmilk
 ---
 
 ## CD

@@ -1,16 +1,16 @@
 ---
-title: "Wrok / The Wampyric Specter - Split"
-date: 2021-06-12T14:07:54
-draft: false
-artist: "Wrok / The Wampyric Specter"
-album: "Split"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/wrok_-_the_wampyric_specter-split.jpg"
-thumbnailImage: "/images/covers/wrok_-_the_wampyric_specter-split-thumb.jpg"
 actualPrice: $11.00
+album: Split
+artist: Wrok / The Wampyric Specter
+categories:
+- Vinyl
+date: '2021-06-26T15:02:58'
+draft: false
+images:
+- /images/covers/wrok_-_the_wampyric_specter-split.jpg
 inStock: true
+thumbnailImage: /images/covers/wrok_-_the_wampyric_specter-split-thumb.jpg
+title: Wrok / The Wampyric Specter - Split
 ---
 
 ## Vinyl

@@ -1,17 +1,17 @@
 ---
-title: "Mayhem - Deathcrush"
-date: 2021-06-22T16:41:01
-draft: false
-artist: "Mayhem"
-album: "Deathcrush"
-categories:
-    - Vinyl
-    - CD
-images:
-    - "/images/covers/mayhem-deathcrush.jpg"
-thumbnailImage: "/images/covers/mayhem-deathcrush-thumb.jpg"
 actualPrice: $10.00 - 25.00
+album: Deathcrush
+artist: Mayhem
+categories:
+- Vinyl
+- CD
+date: '2021-06-26T15:23:11'
+draft: false
+images:
+- /images/covers/mayhem-deathcrush.jpg
 inStock: true
+thumbnailImage: /images/covers/mayhem-deathcrush-thumb.jpg
+title: Mayhem - Deathcrush
 ---
 
 ## Vinyl

@@ -1,17 +1,17 @@
 ---
-title: "Gonotroph - Demo III + Demo IV"
-date: 2021-06-22T16:41:10
-draft: false
-artist: "Gonotroph"
-album: "Demo III + Demo IV"
-categories:
-    - Tape
-    - Cassette
-images:
-    - "/images/covers/gonotroph-demo_iii_+_demo_iv.jpg"
-thumbnailImage: "/images/covers/gonotroph-demo_iii_+_demo_iv-thumb.jpg"
 actualPrice: $10.00
+album: Demo III + Demo IV
+artist: Gonotroph
+categories:
+- Tape
+- Cassette
+date: '2021-06-26T15:23:20'
+draft: false
+images:
+- /images/covers/gonotroph-demo_iii_+_demo_iv.jpg
 inStock: true
+thumbnailImage: /images/covers/gonotroph-demo_iii_+_demo_iv-thumb.jpg
+title: Gonotroph - Demo III + Demo IV
 ---
 
 ## Tape

@@ -1,17 +1,17 @@
 ---
-title: "Numinous - Bellum in Terris"
-date: 2021-06-12T14:07:59
-draft: false
-artist: "Numinous"
-album: "Bellum in Terris"
-categories:
-    - Vinyl
-    - CD
-images:
-    - "/images/covers/numinous-bellum_in_terris.jpg"
-thumbnailImage: "/images/covers/numinous-bellum_in_terris-thumb.jpg"
 actualPrice: $12.00 - 20.00
+album: Bellum in Terris
+artist: Numinous
+categories:
+- Vinyl
+- CD
+date: '2021-06-26T15:03:08'
+draft: false
+images:
+- /images/covers/numinous-bellum_in_terris.jpg
 inStock: true
+thumbnailImage: /images/covers/numinous-bellum_in_terris-thumb.jpg
+title: Numinous - Bellum in Terris
 ---
 
 ## Vinyl

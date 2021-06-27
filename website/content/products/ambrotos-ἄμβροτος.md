@@ -1,16 +1,17 @@
 ---
-title: "Ambrotos - Ἄμβροτος"
-date: 2021-06-13T12:22:23
-draft: false
-artist: "Ambrotos"
-album: "Ἄμβροτος"
-categories:
-    - Tape
-images:
-    - "/images/covers/ambrotos-ἄμβροτος.jpg"
-thumbnailImage: "/images/covers/ambrotos-ἄμβροτος-thumb.jpg"
 actualPrice: $5.00
+album: "\u1F0C\u03BC\u03B2\u03C1\u03BF\u03C4\u03BF\u03C2"
+artist: Ambrotos
+categories:
+- Tape
+date: '2021-06-26T15:16:26'
+draft: false
+images:
+- "/images/covers/ambrotos-\u1F04\u03BC\u03B2\u03C1\u03BF\u03C4\u03BF\u03C2.jpg"
 inStock: true
+thumbnailImage: "/images/covers/ambrotos-\u1F04\u03BC\u03B2\u03C1\u03BF\u03C4\u03BF\
+  \u03C2-thumb.jpg"
+title: "Ambrotos - \u1F0C\u03BC\u03B2\u03C1\u03BF\u03C4\u03BF\u03C2"
 ---
 
 ## Tape

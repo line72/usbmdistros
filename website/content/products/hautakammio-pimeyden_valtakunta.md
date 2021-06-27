@@ -1,16 +1,16 @@
 ---
-title: "Hautakammio - Pimeyden Valtakunta"
-date: 2021-06-22T16:40:38
-draft: false
-artist: "Hautakammio"
-album: "Pimeyden Valtakunta"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/hautakammio-pimeyden_valtakunta.jpg"
-thumbnailImage: "/images/covers/hautakammio-pimeyden_valtakunta-thumb.jpg"
 actualPrice: $20.00
+album: Pimeyden Valtakunta
+artist: Hautakammio
+categories:
+- Vinyl
+date: '2021-06-26T15:22:48'
+draft: false
+images:
+- /images/covers/hautakammio-pimeyden_valtakunta.jpg
 inStock: true
+thumbnailImage: /images/covers/hautakammio-pimeyden_valtakunta-thumb.jpg
+title: Hautakammio - Pimeyden Valtakunta
 ---
 
 ## Vinyl

@@ -1,16 +1,16 @@
 ---
-title: "Occult - The Enemy Within"
-date: 2021-06-22T16:40:42
-draft: false
-artist: "Occult"
-album: "The Enemy Within"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/occult-the_enemy_within.jpg"
-thumbnailImage: "/images/covers/occult-the_enemy_within-thumb.jpg"
 actualPrice: $25.00
+album: The Enemy Within
+artist: Occult
+categories:
+- Vinyl
+date: '2021-06-26T15:22:52'
+draft: false
+images:
+- /images/covers/occult-the_enemy_within.jpg
 inStock: true
+thumbnailImage: /images/covers/occult-the_enemy_within-thumb.jpg
+title: Occult - The Enemy Within
 ---
 
 ## Vinyl

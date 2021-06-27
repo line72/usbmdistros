@@ -1,16 +1,16 @@
 ---
-title: "Darkstorm - Voices From the Vast Void"
-date: 2021-06-12T14:07:54
-draft: false
-artist: "Darkstorm"
-album: "Voices From the Vast Void"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/darkstorm-voices_from_the_vast_void.jpg"
-thumbnailImage: "/images/covers/darkstorm-voices_from_the_vast_void-thumb.jpg"
 actualPrice: $9.00
+album: Voices From the Vast Void
+artist: Darkstorm
+categories:
+- Vinyl
+date: '2021-06-26T15:02:58'
+draft: false
+images:
+- /images/covers/darkstorm-voices_from_the_vast_void.jpg
 inStock: true
+thumbnailImage: /images/covers/darkstorm-voices_from_the_vast_void-thumb.jpg
+title: Darkstorm - Voices From the Vast Void
 ---
 
 ## Vinyl

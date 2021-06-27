@@ -1,16 +1,16 @@
 ---
-title: "Fleurety - Min Tid Skal Komme"
-date: 2021-06-22T16:40:37
-draft: false
-artist: "Fleurety"
-album: "Min Tid Skal Komme"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/fleurety-min_tid_skal_komme.jpg"
-thumbnailImage: "/images/covers/fleurety-min_tid_skal_komme-thumb.jpg"
 actualPrice: $25.00
+album: Min Tid Skal Komme
+artist: Fleurety
+categories:
+- Vinyl
+date: '2021-06-26T15:22:47'
+draft: false
+images:
+- /images/covers/fleurety-min_tid_skal_komme.jpg
 inStock: true
+thumbnailImage: /images/covers/fleurety-min_tid_skal_komme-thumb.jpg
+title: Fleurety - Min Tid Skal Komme
 ---
 
 ## Vinyl

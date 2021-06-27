@@ -1,16 +1,16 @@
 ---
-title: "Paingiver - Deorum Mortis"
-date: 2021-06-13T12:22:21
-draft: false
-artist: "Paingiver"
-album: "Deorum Mortis"
-categories:
-    - Tape
-images:
-    - "/images/covers/paingiver-deorum_mortis.jpg"
-thumbnailImage: "/images/covers/paingiver-deorum_mortis-thumb.jpg"
 actualPrice: $6.00
+album: Deorum Mortis
+artist: Paingiver
+categories:
+- Tape
+date: '2021-06-26T15:16:24'
+draft: false
+images:
+- /images/covers/paingiver-deorum_mortis.jpg
 inStock: true
+thumbnailImage: /images/covers/paingiver-deorum_mortis-thumb.jpg
+title: Paingiver - Deorum Mortis
 ---
 
 ## Tape

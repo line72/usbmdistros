@@ -1,17 +1,17 @@
 ---
-title: "Pentacle - Spectre Of The Eight Ropes"
-date: 2021-06-22T16:40:43
-draft: false
-artist: "Pentacle"
-album: "Spectre Of The Eight Ropes"
-categories:
-    - Vinyl
-    - Tape
-images:
-    - "/images/covers/pentacle-spectre_of_the_eight_ropes.jpg"
-thumbnailImage: "/images/covers/pentacle-spectre_of_the_eight_ropes-thumb.jpg"
 actualPrice: $8.00 - 25.00
+album: Spectre Of The Eight Ropes
+artist: Pentacle
+categories:
+- Vinyl
+- Tape
+date: '2021-06-26T15:22:53'
+draft: false
+images:
+- /images/covers/pentacle-spectre_of_the_eight_ropes.jpg
 inStock: true
+thumbnailImage: /images/covers/pentacle-spectre_of_the_eight_ropes-thumb.jpg
+title: Pentacle - Spectre Of The Eight Ropes
 ---
 
 ## Vinyl

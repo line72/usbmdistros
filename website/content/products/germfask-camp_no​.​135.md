@@ -1,16 +1,16 @@
 ---
-title: "Germfask - Camp No​.​135"
-date: 2021-06-13T12:22:21
-draft: false
-artist: "Germfask"
-album: "Camp No​.​135"
-categories:
-    - Tape
-images:
-    - "/images/covers/germfask-camp_no​.​135.jpg"
-thumbnailImage: "/images/covers/germfask-camp_no​.​135-thumb.jpg"
 actualPrice: $6.00
+album: "Camp No\u200B.\u200B135"
+artist: Germfask
+categories:
+- Tape
+date: '2021-06-26T15:16:24'
+draft: false
+images:
+- "/images/covers/germfask-camp_no\u200B.\u200B135.jpg"
 inStock: true
+thumbnailImage: "/images/covers/germfask-camp_no\u200B.\u200B135-thumb.jpg"
+title: "Germfask - Camp No\u200B.\u200B135"
 ---
 
 ## Tape

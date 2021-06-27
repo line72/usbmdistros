@@ -1,17 +1,17 @@
 ---
-title: "Blot & Bod - Ormekongens Argelist"
-date: 2021-06-22T16:40:54
-draft: false
-artist: "Blot & Bod"
-album: "Ormekongens Argelist"
-categories:
-    - Vinyl
-    - CD
-images:
-    - "/images/covers/blot_&_bod-ormekongens_argelist.jpg"
-thumbnailImage: "/images/covers/blot_&_bod-ormekongens_argelist-thumb.jpg"
 actualPrice: $10.00 - 17.00
+album: Ormekongens Argelist
+artist: Blot & Bod
+categories:
+- Vinyl
+- CD
+date: '2021-06-26T15:23:04'
+draft: false
+images:
+- /images/covers/blot_&_bod-ormekongens_argelist.jpg
 inStock: true
+thumbnailImage: /images/covers/blot_&_bod-ormekongens_argelist-thumb.jpg
+title: Blot & Bod - Ormekongens Argelist
 ---
 
 ## Vinyl

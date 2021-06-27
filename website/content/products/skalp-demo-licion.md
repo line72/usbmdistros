@@ -1,16 +1,16 @@
 ---
-title: "Skalp - Demo-Licion"
-date: 2021-06-13T12:22:21
-draft: false
-artist: "Skalp"
-album: "Demo-Licion"
-categories:
-    - Tape
-images:
-    - "/images/covers/skalp-demo-licion.jpg"
-thumbnailImage: "/images/covers/skalp-demo-licion-thumb.jpg"
 actualPrice: $6.50
+album: Demo-Licion
+artist: Skalp
+categories:
+- Tape
+date: '2021-06-26T15:16:24'
+draft: false
+images:
+- /images/covers/skalp-demo-licion.jpg
 inStock: true
+thumbnailImage: /images/covers/skalp-demo-licion-thumb.jpg
+title: Skalp - Demo-Licion
 ---
 
 ## Tape

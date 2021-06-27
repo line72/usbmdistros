@@ -1,16 +1,16 @@
 ---
-title: "Mylingar - Doda Sjalar"
-date: 2021-06-22T16:40:42
-draft: false
-artist: "Mylingar"
-album: "Doda Sjalar"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/mylingar-doda_sjalar.jpg"
-thumbnailImage: "/images/covers/mylingar-doda_sjalar-thumb.jpg"
 actualPrice: $20.00
+album: Doda Sjalar
+artist: Mylingar
+categories:
+- Vinyl
+date: '2021-06-26T15:22:51'
+draft: false
+images:
+- /images/covers/mylingar-doda_sjalar.jpg
 inStock: true
+thumbnailImage: /images/covers/mylingar-doda_sjalar-thumb.jpg
+title: Mylingar - Doda Sjalar
 ---
 
 ## Vinyl

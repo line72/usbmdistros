@@ -1,17 +1,17 @@
 ---
-title: "The Holy Flesh - Emissary & Vessel"
-date: 2021-06-22T16:41:13
-draft: false
-artist: "The Holy Flesh"
-album: "Emissary & Vessel"
-categories:
-    - Tape
-    - Cassette
-images:
-    - "/images/covers/the_holy_flesh-emissary_&_vessel.jpg"
-thumbnailImage: "/images/covers/the_holy_flesh-emissary_&_vessel-thumb.jpg"
 actualPrice: $6.00 - 7.00
+album: Emissary & Vessel
+artist: The Holy Flesh
+categories:
+- Tape
+- Cassette
+date: '2021-06-26T15:23:24'
+draft: false
+images:
+- /images/covers/the_holy_flesh-emissary_&_vessel.jpg
 inStock: true
+thumbnailImage: /images/covers/the_holy_flesh-emissary_&_vessel-thumb.jpg
+title: The Holy Flesh - Emissary & Vessel
 ---
 
 ## Tape

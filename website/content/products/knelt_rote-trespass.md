@@ -1,16 +1,16 @@
 ---
-title: "Knelt Rote - Trespass"
-date: 2021-06-22T16:40:40
-draft: false
-artist: "Knelt Rote"
-album: "Trespass"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/knelt_rote-trespass.jpg"
-thumbnailImage: "/images/covers/knelt_rote-trespass-thumb.jpg"
 actualPrice: $35.00
+album: Trespass
+artist: Knelt Rote
+categories:
+- Vinyl
+date: '2021-06-26T15:22:50'
+draft: false
+images:
+- /images/covers/knelt_rote-trespass.jpg
 inStock: true
+thumbnailImage: /images/covers/knelt_rote-trespass-thumb.jpg
+title: Knelt Rote - Trespass
 ---
 
 ## Vinyl

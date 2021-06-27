@@ -1,18 +1,18 @@
 ---
-title: "Wapentake - Madrigals"
-date: 2021-06-22T16:41:14
-draft: false
-artist: "Wapentake"
-album: "Madrigals"
-categories:
-    - Tape
-    - Cassette
-    - CD
-images:
-    - "/images/covers/wapentake-madrigals.jpg"
-thumbnailImage: "/images/covers/wapentake-madrigals-thumb.jpg"
 actualPrice: $10.00
+album: Madrigals
+artist: Wapentake
+categories:
+- Tape
+- Cassette
+- CD
+date: '2021-06-26T15:23:24'
+draft: false
+images:
+- /images/covers/wapentake-madrigals.jpg
 inStock: true
+thumbnailImage: /images/covers/wapentake-madrigals-thumb.jpg
+title: Wapentake - Madrigals
 ---
 
 ## Tape

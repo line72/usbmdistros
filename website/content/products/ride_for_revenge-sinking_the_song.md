@@ -1,19 +1,19 @@
 ---
-title: "Ride For Revenge - Sinking The Song"
-date: 2021-06-22T16:41:12
-draft: false
-artist: "Ride For Revenge"
-album: "Sinking The Song"
-categories:
-    - Vinyl
-    - Tape
-    - Cassette
-    - CD
-images:
-    - "/images/covers/ride_for_revenge-sinking_the_song.jpg"
-thumbnailImage: "/images/covers/ride_for_revenge-sinking_the_song-thumb.jpg"
 actualPrice: $9.00 - 25.00
+album: Sinking The Song
+artist: Ride for Revenge
+categories:
+- Vinyl
+- Tape
+- Cassette
+- CD
+date: '2021-06-26T15:23:23'
+draft: false
+images:
+- /images/covers/ride_for_revenge-sinking_the_song.jpg
 inStock: true
+thumbnailImage: /images/covers/ride_for_revenge-sinking_the_song-thumb.jpg
+title: Ride for Revenge - Sinking The Song
 ---
 
 ## Vinyl

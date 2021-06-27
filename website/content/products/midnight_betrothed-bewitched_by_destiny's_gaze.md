@@ -1,16 +1,16 @@
 ---
-title: "Midnight Betrothed - Bewitched by Destiny's Gaze"
-date: 2021-06-12T14:07:58
-draft: false
-artist: "Midnight Betrothed"
-album: "Bewitched by Destiny's Gaze"
-categories:
-    - CD
-images:
-    - "/images/covers/midnight_betrothed-bewitched_by_destiny's_gaze.jpg"
-thumbnailImage: "/images/covers/midnight_betrothed-bewitched_by_destiny's_gaze-thumb.jpg"
 actualPrice: $15.00
+album: Bewitched by Destiny's Gaze
+artist: Midnight Betrothed
+categories:
+- CD
+date: '2021-06-26T15:03:08'
+draft: false
+images:
+- /images/covers/midnight_betrothed-bewitched_by_destiny's_gaze.jpg
 inStock: true
+thumbnailImage: /images/covers/midnight_betrothed-bewitched_by_destiny's_gaze-thumb.jpg
+title: Midnight Betrothed - Bewitched by Destiny's Gaze
 ---
 
 ## CD

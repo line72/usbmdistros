@@ -1,16 +1,16 @@
 ---
-title: "Intellect Devourer - Demons Of The Skull (Cal-189) Cd+Cassette"
-date: 2021-06-13T12:22:20
-draft: false
-artist: "Intellect Devourer"
-album: "Demons Of The Skull (Cal-189) Cd+Cassette"
-categories:
-    - Tape
-images:
-    - "/images/covers/intellect_devourer-demons_of_the_skull_(cal-189)_cd+cassette.jpg"
-thumbnailImage: "/images/covers/intellect_devourer-demons_of_the_skull_(cal-189)_cd+cassette-thumb.jpg"
 actualPrice: $12.50
+album: Demons Of The Skull (Cal-189) Cd+Cassette
+artist: Intellect Devourer
+categories:
+- Tape
+date: '2021-06-26T15:16:23'
+draft: false
+images:
+- /images/covers/intellect_devourer-demons_of_the_skull_(cal-189)_cd+cassette.jpg
 inStock: true
+thumbnailImage: /images/covers/intellect_devourer-demons_of_the_skull_(cal-189)_cd+cassette-thumb.jpg
+title: Intellect Devourer - Demons Of The Skull (Cal-189) Cd+Cassette
 ---
 
 ## Tape

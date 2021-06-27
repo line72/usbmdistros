@@ -1,16 +1,16 @@
 ---
-title: "AYM - L'fí Shigionoth"
-date: 2021-06-12T14:07:59
-draft: false
-artist: "AYM"
-album: "L'fí Shigionoth"
-categories:
-    - CD
-images:
-    - "/images/covers/aym-l'fí_shigionoth.jpg"
-thumbnailImage: "/images/covers/aym-l'fí_shigionoth-thumb.jpg"
 actualPrice: $12.00
+album: "L'f\xED Shigionoth"
+artist: AYM
+categories:
+- CD
+date: '2021-06-26T15:03:08'
+draft: false
+images:
+- "/images/covers/aym-l'f\xED_shigionoth.jpg"
 inStock: true
+thumbnailImage: "/images/covers/aym-l'f\xED_shigionoth-thumb.jpg"
+title: "AYM - L'f\xED Shigionoth"
 ---
 
 ## CD

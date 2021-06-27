@@ -1,17 +1,17 @@
 ---
-title: "Seventh Circle - Cycle Of Violence"
-date: 2021-06-22T16:41:05
-draft: false
-artist: "Seventh Circle"
-album: "Cycle Of Violence"
-categories:
-    - Tape
-    - CD
-images:
-    - "/images/covers/seventh_circle-cycle_of_violence.jpg"
-thumbnailImage: "/images/covers/seventh_circle-cycle_of_violence-thumb.jpg"
 actualPrice: $7.50 - 10.00
+album: Cycle Of Violence
+artist: Seventh Circle
+categories:
+- Tape
+- CD
+date: '2021-06-26T15:23:15'
+draft: false
+images:
+- /images/covers/seventh_circle-cycle_of_violence.jpg
 inStock: true
+thumbnailImage: /images/covers/seventh_circle-cycle_of_violence-thumb.jpg
+title: Seventh Circle - Cycle Of Violence
 ---
 
 ## Tape

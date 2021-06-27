@@ -1,16 +1,16 @@
 ---
-title: "Impaled Nazarene - Suomi Finland Perkele"
-date: 2021-06-22T16:40:39
-draft: false
-artist: "Impaled Nazarene"
-album: "Suomi Finland Perkele"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/impaled_nazarene-suomi_finland_perkele.jpg"
-thumbnailImage: "/images/covers/impaled_nazarene-suomi_finland_perkele-thumb.jpg"
 actualPrice: $22.00
+album: Suomi Finland Perkele
+artist: Impaled Nazarene
+categories:
+- Vinyl
+date: '2021-06-26T15:22:49'
+draft: false
+images:
+- /images/covers/impaled_nazarene-suomi_finland_perkele.jpg
 inStock: true
+thumbnailImage: /images/covers/impaled_nazarene-suomi_finland_perkele-thumb.jpg
+title: Impaled Nazarene - Suomi Finland Perkele
 ---
 
 ## Vinyl

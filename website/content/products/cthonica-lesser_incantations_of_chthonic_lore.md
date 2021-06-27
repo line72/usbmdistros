@@ -1,16 +1,16 @@
 ---
-title: "Cthonica - Lesser Incantations Of Chthonic Lore"
-date: 2021-06-13T12:22:18
-draft: false
-artist: "Cthonica"
-album: "Lesser Incantations Of Chthonic Lore"
-categories:
-    - Tape
-images:
-    - "/images/covers/cthonica-lesser_incantations_of_chthonic_lore.jpg"
-thumbnailImage: "/images/covers/cthonica-lesser_incantations_of_chthonic_lore-thumb.jpg"
 actualPrice: $6.50
+album: Lesser Incantations Of Chthonic Lore
+artist: Cthonica
+categories:
+- Tape
+date: '2021-06-26T15:16:21'
+draft: false
+images:
+- /images/covers/cthonica-lesser_incantations_of_chthonic_lore.jpg
 inStock: true
+thumbnailImage: /images/covers/cthonica-lesser_incantations_of_chthonic_lore-thumb.jpg
+title: Cthonica - Lesser Incantations Of Chthonic Lore
 ---
 
 ## Tape

@@ -1,16 +1,16 @@
 ---
-title: "Wømb / Irae / Ordem Satânica - Split"
-date: 2021-06-12T14:07:51
-draft: false
-artist: "Wømb / Irae / Ordem Satânica"
-album: "Split"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/wømb_-_irae_-_ordem_satânica-split.jpg"
-thumbnailImage: "/images/covers/wømb_-_irae_-_ordem_satânica-split-thumb.jpg"
 actualPrice: $27.00
+album: Split
+artist: "W\xF8mb / Irae / Ordem Sat\xE2nica"
+categories:
+- Vinyl
+date: '2021-06-26T15:02:54'
+draft: false
+images:
+- "/images/covers/w\xF8mb_-_irae_-_ordem_sat\xE2nica-split.jpg"
 inStock: true
+thumbnailImage: "/images/covers/w\xF8mb_-_irae_-_ordem_sat\xE2nica-split-thumb.jpg"
+title: "W\xF8mb / Irae / Ordem Sat\xE2nica - Split"
 ---
 
 ## Vinyl

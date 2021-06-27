@@ -1,16 +1,16 @@
 ---
-title: "O.T.S. - Self-Titled"
-date: 2021-06-13T12:22:22
-draft: false
-artist: "O.T.S."
-album: "Self-Titled"
-categories:
-    - Tape
-images:
-    - "/images/covers/o.t.s.-self-titled.jpg"
-thumbnailImage: "/images/covers/o.t.s.-self-titled-thumb.jpg"
 actualPrice: $5.00
+album: Self-Titled
+artist: O.T.S.
+categories:
+- Tape
+date: '2021-06-26T15:16:25'
+draft: false
+images:
+- /images/covers/o.t.s.-self-titled.jpg
 inStock: true
+thumbnailImage: /images/covers/o.t.s.-self-titled-thumb.jpg
+title: O.T.S. - Self-Titled
 ---
 
 ## Tape

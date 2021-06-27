@@ -1,16 +1,16 @@
 ---
-title: "Feinted - Anihilation"
-date: 2021-06-13T12:22:20
-draft: false
-artist: "Feinted"
-album: "Anihilation"
-categories:
-    - Tape
-images:
-    - "/images/covers/feinted-anihilation.jpg"
-thumbnailImage: "/images/covers/feinted-anihilation-thumb.jpg"
 actualPrice: $8.00
+album: Anihilation
+artist: Feinted
+categories:
+- Tape
+date: '2021-06-26T15:16:23'
+draft: false
+images:
+- /images/covers/feinted-anihilation.jpg
 inStock: true
+thumbnailImage: /images/covers/feinted-anihilation-thumb.jpg
+title: Feinted - Anihilation
 ---
 
 ## Tape

@@ -1,16 +1,16 @@
 ---
-title: "777 - Feel The Fire"
-date: 2021-06-13T12:22:22
-draft: false
-artist: "777"
-album: "Feel The Fire"
-categories:
-    - Tape
-images:
-    - "/images/covers/777-feel_the_fire.jpg"
-thumbnailImage: "/images/covers/777-feel_the_fire-thumb.jpg"
 actualPrice: $4.00
+album: Feel The Fire
+artist: '777'
+categories:
+- Tape
+date: '2021-06-26T15:16:25'
+draft: false
+images:
+- /images/covers/777-feel_the_fire.jpg
 inStock: true
+thumbnailImage: /images/covers/777-feel_the_fire-thumb.jpg
+title: 777 - Feel The Fire
 ---
 
 ## Tape

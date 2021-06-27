@@ -1,16 +1,16 @@
 ---
-title: "Noose - Demo 2017"
-date: 2021-06-13T12:22:18
-draft: false
-artist: "Noose"
-album: "Demo 2017"
-categories:
-    - Tape
-images:
-    - "/images/covers/noose-demo_2017.jpg"
-thumbnailImage: "/images/covers/noose-demo_2017-thumb.jpg"
 actualPrice: $4.00
+album: Demo 2017
+artist: Noose
+categories:
+- Tape
+date: '2021-06-26T15:16:21'
+draft: false
+images:
+- /images/covers/noose-demo_2017.jpg
 inStock: true
+thumbnailImage: /images/covers/noose-demo_2017-thumb.jpg
+title: Noose - Demo 2017
 ---
 
 ## Tape

@@ -1,16 +1,16 @@
 ---
-title: "Alloxylon - Flammeum I"
-date: 2021-06-13T12:22:20
-draft: false
-artist: "Alloxylon"
-album: "Flammeum I"
-categories:
-    - Tape
-images:
-    - "/images/covers/alloxylon-flammeum_i.jpg"
-thumbnailImage: "/images/covers/alloxylon-flammeum_i-thumb.jpg"
 actualPrice: $8.50
+album: Flammeum I
+artist: Alloxylon
+categories:
+- Tape
+date: '2021-06-26T15:16:23'
+draft: false
+images:
+- /images/covers/alloxylon-flammeum_i.jpg
 inStock: true
+thumbnailImage: /images/covers/alloxylon-flammeum_i-thumb.jpg
+title: Alloxylon - Flammeum I
 ---
 
 ## Tape

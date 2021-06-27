@@ -1,16 +1,16 @@
 ---
-title: "Goatspell - Ascension Of The Drakonian Beast"
-date: 2021-06-22T16:40:38
-draft: false
-artist: "Goatspell"
-album: "Ascension Of The Drakonian Beast"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/goatspell-ascension_of_the_drakonian_beast.jpg"
-thumbnailImage: "/images/covers/goatspell-ascension_of_the_drakonian_beast-thumb.jpg"
 actualPrice: $17.00
+album: Ascension Of The Drakonian Beast
+artist: Goatspell
+categories:
+- Vinyl
+date: '2021-06-26T15:22:48'
+draft: false
+images:
+- /images/covers/goatspell-ascension_of_the_drakonian_beast.jpg
 inStock: true
+thumbnailImage: /images/covers/goatspell-ascension_of_the_drakonian_beast-thumb.jpg
+title: Goatspell - Ascension Of The Drakonian Beast
 ---
 
 ## Vinyl

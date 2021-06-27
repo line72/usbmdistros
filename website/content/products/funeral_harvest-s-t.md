@@ -1,17 +1,17 @@
 ---
-title: "Funeral Harvest - s/t"
-date: 2021-06-12T14:07:56
-draft: false
-artist: "Funeral Harvest"
-album: "s/t"
-categories:
-    - Vinyl
-    - Tape
-images:
-    - "/images/covers/funeral_harvest-s-t.jpg"
-thumbnailImage: "/images/covers/funeral_harvest-s-t-thumb.jpg"
 actualPrice: $10.00 - 23.00
+album: s/t
+artist: Funeral Harvest
+categories:
+- Vinyl
+- Tape
+date: '2021-06-26T15:03:02'
+draft: false
+images:
+- /images/covers/funeral_harvest-s-t.jpg
 inStock: true
+thumbnailImage: /images/covers/funeral_harvest-s-t-thumb.jpg
+title: Funeral Harvest - s/t
 ---
 
 ## Vinyl

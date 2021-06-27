@@ -1,16 +1,16 @@
 ---
-title: "Thaetas - Shrines To Absurdity"
-date: 2021-06-13T12:22:20
-draft: false
-artist: "Thaetas"
-album: "Shrines To Absurdity"
-categories:
-    - Tape
-images:
-    - "/images/covers/thaetas-shrines_to_absurdity.jpg"
-thumbnailImage: "/images/covers/thaetas-shrines_to_absurdity-thumb.jpg"
 actualPrice: $7.00 - 8.00
+album: Shrines To Absurdity
+artist: Thaetas
+categories:
+- Tape
+date: '2021-06-26T15:16:23'
+draft: false
+images:
+- /images/covers/thaetas-shrines_to_absurdity.jpg
 inStock: true
+thumbnailImage: /images/covers/thaetas-shrines_to_absurdity-thumb.jpg
+title: Thaetas - Shrines To Absurdity
 ---
 
 ## Tape

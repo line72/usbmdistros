@@ -1,16 +1,16 @@
 ---
-title: "Kyrios / Exsul / Dunwich - (3 Cd'S Caligari Records)"
-date: 2021-06-13T12:22:18
-draft: false
-artist: "Kyrios / Exsul / Dunwich"
-album: "(3 Cd'S Caligari Records)"
-categories:
-    - CD
-images:
-    - "/images/covers/kyrios_-_exsul_-_dunwich-(3_cd's_caligari_records).jpg"
-thumbnailImage: "/images/covers/kyrios_-_exsul_-_dunwich-(3_cd's_caligari_records)-thumb.jpg"
 actualPrice: $20.00
+album: (3 Cd'S Caligari Records)
+artist: Kyrios / Exsul / Dunwich
+categories:
+- CD
+date: '2021-06-26T15:16:21'
+draft: false
+images:
+- /images/covers/kyrios_-_exsul_-_dunwich-(3_cd's_caligari_records).jpg
 inStock: true
+thumbnailImage: /images/covers/kyrios_-_exsul_-_dunwich-(3_cd's_caligari_records)-thumb.jpg
+title: Kyrios / Exsul / Dunwich - (3 Cd'S Caligari Records)
 ---
 
 ## CD

@@ -1,17 +1,17 @@
 ---
-title: "Blood And Sun - Love & Ashes"
-date: 2021-06-22T16:40:54
-draft: false
-artist: "Blood And Sun"
-album: "Love & Ashes"
-categories:
-    - Vinyl
-    - CD
-images:
-    - "/images/covers/blood_and_sun-love_&_ashes.jpg"
-thumbnailImage: "/images/covers/blood_and_sun-love_&_ashes-thumb.jpg"
 actualPrice: $12.00 - 25.00
+album: Love & Ashes
+artist: Blood And Sun
+categories:
+- Vinyl
+- CD
+date: '2021-06-26T15:23:04'
+draft: false
+images:
+- /images/covers/blood_and_sun-love_&_ashes.jpg
 inStock: true
+thumbnailImage: /images/covers/blood_and_sun-love_&_ashes-thumb.jpg
+title: Blood And Sun - Love & Ashes
 ---
 
 ## Vinyl

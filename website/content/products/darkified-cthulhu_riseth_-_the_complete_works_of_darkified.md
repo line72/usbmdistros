@@ -1,16 +1,16 @@
 ---
-title: "Darkified - Cthulhu Riseth - The Complete Works of Darkified"
-date: 2021-06-22T16:40:35
-draft: false
-artist: "Darkified"
-album: "Cthulhu Riseth - The Complete Works of Darkified"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/darkified-cthulhu_riseth_-_the_complete_works_of_darkified.jpg"
-thumbnailImage: "/images/covers/darkified-cthulhu_riseth_-_the_complete_works_of_darkified-thumb.jpg"
 actualPrice: $17.00
+album: Cthulhu Riseth - The Complete Works of Darkified
+artist: Darkified
+categories:
+- Vinyl
+date: '2021-06-26T15:22:44'
+draft: false
+images:
+- /images/covers/darkified-cthulhu_riseth_-_the_complete_works_of_darkified.jpg
 inStock: true
+thumbnailImage: /images/covers/darkified-cthulhu_riseth_-_the_complete_works_of_darkified-thumb.jpg
+title: Darkified - Cthulhu Riseth - The Complete Works of Darkified
 ---
 
 ## Vinyl

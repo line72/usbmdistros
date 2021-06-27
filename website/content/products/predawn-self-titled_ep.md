@@ -1,16 +1,16 @@
 ---
-title: "Predawn - Self-Titled Ep"
-date: 2021-06-13T12:22:23
-draft: false
-artist: "Predawn"
-album: "Self-Titled Ep"
-categories:
-    - Tape
-images:
-    - "/images/covers/predawn-self-titled_ep.jpg"
-thumbnailImage: "/images/covers/predawn-self-titled_ep-thumb.jpg"
 actualPrice: $5.00
+album: Self-Titled Ep
+artist: Predawn
+categories:
+- Tape
+date: '2021-06-26T15:16:26'
+draft: false
+images:
+- /images/covers/predawn-self-titled_ep.jpg
 inStock: true
+thumbnailImage: /images/covers/predawn-self-titled_ep-thumb.jpg
+title: Predawn - Self-Titled Ep
 ---
 
 ## Tape

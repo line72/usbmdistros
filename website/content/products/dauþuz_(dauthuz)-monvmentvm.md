@@ -1,16 +1,16 @@
 ---
-title: "Dauþuz (Dauthuz) - Monvmentvm"
-date: 2021-06-22T16:40:35
-draft: false
-artist: "Dauþuz (Dauthuz)"
-album: "Monvmentvm"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/dauþuz_(dauthuz)-monvmentvm.jpg"
-thumbnailImage: "/images/covers/dauþuz_(dauthuz)-monvmentvm-thumb.jpg"
 actualPrice: $25.00
+album: Monvmentvm
+artist: "Dau\xFEuz (Dauthuz)"
+categories:
+- Vinyl
+date: '2021-06-26T15:22:45'
+draft: false
+images:
+- "/images/covers/dau\xFEuz_(dauthuz)-monvmentvm.jpg"
 inStock: true
+thumbnailImage: "/images/covers/dau\xFEuz_(dauthuz)-monvmentvm-thumb.jpg"
+title: "Dau\xFEuz (Dauthuz) - Monvmentvm"
 ---
 
 ## Vinyl

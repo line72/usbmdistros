@@ -1,17 +1,17 @@
 ---
-title: "Malhkebre - Prostration"
-date: 2021-06-22T16:41:01
-draft: false
-artist: "Malhkebre"
-album: "Prostration"
-categories:
-    - Vinyl
-    - CD
-images:
-    - "/images/covers/malhkebre-prostration.jpg"
-thumbnailImage: "/images/covers/malhkebre-prostration-thumb.jpg"
 actualPrice: $6.00 - 20.00
+album: Prostration
+artist: Malhkebre
+categories:
+- Vinyl
+- CD
+date: '2021-06-26T15:23:11'
+draft: false
+images:
+- /images/covers/malhkebre-prostration.jpg
 inStock: true
+thumbnailImage: /images/covers/malhkebre-prostration-thumb.jpg
+title: Malhkebre - Prostration
 ---
 
 ## Vinyl

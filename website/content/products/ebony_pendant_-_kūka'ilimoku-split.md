@@ -1,16 +1,16 @@
 ---
-title: "Ebony Pendant / Kūka'ilimoku - Split"
-date: 2021-06-12T14:07:58
-draft: false
-artist: "Ebony Pendant / Kūka'ilimoku"
-album: "Split"
-categories:
-    - CD
-images:
-    - "/images/covers/ebony_pendant_-_kūka'ilimoku-split.jpg"
-thumbnailImage: "/images/covers/ebony_pendant_-_kūka'ilimoku-split-thumb.jpg"
 actualPrice: $15.00
+album: Split
+artist: "Ebony Pendant / K\u016Bka'ilimoku"
+categories:
+- CD
+date: '2021-06-26T15:03:07'
+draft: false
+images:
+- "/images/covers/ebony_pendant_-_k\u016Bka'ilimoku-split.jpg"
 inStock: true
+thumbnailImage: "/images/covers/ebony_pendant_-_k\u016Bka'ilimoku-split-thumb.jpg"
+title: "Ebony Pendant / K\u016Bka'ilimoku - Split"
 ---
 
 ## CD

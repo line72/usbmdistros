@@ -1,16 +1,16 @@
 ---
-title: "Metalwulf - Self-Titled"
-date: 2021-06-13T12:22:21
-draft: false
-artist: "Metalwulf"
-album: "Self-Titled"
-categories:
-    - Tape
-images:
-    - "/images/covers/metalwulf-self-titled.jpg"
-thumbnailImage: "/images/covers/metalwulf-self-titled-thumb.jpg"
 actualPrice: $6.00
+album: Self-Titled
+artist: Metalwulf
+categories:
+- Tape
+date: '2021-06-26T15:16:23'
+draft: false
+images:
+- /images/covers/metalwulf-self-titled.jpg
 inStock: true
+thumbnailImage: /images/covers/metalwulf-self-titled-thumb.jpg
+title: Metalwulf - Self-Titled
 ---
 
 ## Tape

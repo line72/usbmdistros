@@ -1,17 +1,17 @@
 ---
-title: "Void Prayer - Relics of the Storm"
-date: 2021-06-22T16:40:48
-draft: false
-artist: "Void Prayer"
-album: "Relics of the Storm"
-categories:
-    - Vinyl
-    - CD
-images:
-    - "/images/covers/void_prayer-relics_of_the_storm.jpg"
-thumbnailImage: "/images/covers/void_prayer-relics_of_the_storm-thumb.jpg"
 actualPrice: $13.00 - 25.00
+album: Relics of the Storm
+artist: Void Prayer
+categories:
+- Vinyl
+- CD
+date: '2021-06-26T15:22:58'
+draft: false
+images:
+- /images/covers/void_prayer-relics_of_the_storm.jpg
 inStock: true
+thumbnailImage: /images/covers/void_prayer-relics_of_the_storm-thumb.jpg
+title: Void Prayer - Relics of the Storm
 ---
 
 ## Vinyl

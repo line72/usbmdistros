@@ -1,16 +1,16 @@
 ---
-title: "Ruin Lust - Choir Of Babel"
-date: 2021-06-13T12:22:21
-draft: false
-artist: "Ruin Lust"
-album: "Choir Of Babel"
-categories:
-    - Tape
-images:
-    - "/images/covers/ruin_lust-choir_of_babel.jpg"
-thumbnailImage: "/images/covers/ruin_lust-choir_of_babel-thumb.jpg"
 actualPrice: $7.00
+album: Choir Of Babel
+artist: Ruin Lust
+categories:
+- Tape
+date: '2021-06-26T15:16:24'
+draft: false
+images:
+- /images/covers/ruin_lust-choir_of_babel.jpg
 inStock: true
+thumbnailImage: /images/covers/ruin_lust-choir_of_babel-thumb.jpg
+title: Ruin Lust - Choir Of Babel
 ---
 
 ## Tape

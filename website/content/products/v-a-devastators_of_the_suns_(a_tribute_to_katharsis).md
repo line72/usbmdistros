@@ -1,16 +1,16 @@
 ---
-title: "V/A - Devastators of the Suns (A Tribute to KATHARSIS)"
-date: 2021-06-22T16:41:06
-draft: false
-artist: "V/A"
-album: "Devastators of the Suns (A Tribute to KATHARSIS)"
-categories:
-    - CD
-images:
-    - "/images/covers/v-a-devastators_of_the_suns_(a_tribute_to_katharsis).jpg"
-thumbnailImage: "/images/covers/v-a-devastators_of_the_suns_(a_tribute_to_katharsis)-thumb.jpg"
 actualPrice: $15.00
+album: Devastators of the Suns (A Tribute to KATHARSIS)
+artist: V/A
+categories:
+- CD
+date: '2021-06-26T15:23:17'
+draft: false
+images:
+- /images/covers/v-a-devastators_of_the_suns_(a_tribute_to_katharsis).jpg
 inStock: true
+thumbnailImage: /images/covers/v-a-devastators_of_the_suns_(a_tribute_to_katharsis)-thumb.jpg
+title: V/A - Devastators of the Suns (A Tribute to KATHARSIS)
 ---
 
 ## CD

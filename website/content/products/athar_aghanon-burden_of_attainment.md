@@ -1,16 +1,16 @@
 ---
-title: "Athar Aghanon - Burden Of Attainment"
-date: 2021-06-22T16:40:33
-draft: false
-artist: "Athar Aghanon"
-album: "Burden Of Attainment"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/athar_aghanon-burden_of_attainment.jpg"
-thumbnailImage: "/images/covers/athar_aghanon-burden_of_attainment-thumb.jpg"
 actualPrice: $25.00
+album: Burden Of Attainment
+artist: Athar Aghanon
+categories:
+- Vinyl
+date: '2021-06-26T15:22:42'
+draft: false
+images:
+- /images/covers/athar_aghanon-burden_of_attainment.jpg
 inStock: true
+thumbnailImage: /images/covers/athar_aghanon-burden_of_attainment-thumb.jpg
+title: Athar Aghanon - Burden Of Attainment
 ---
 
 ## Vinyl

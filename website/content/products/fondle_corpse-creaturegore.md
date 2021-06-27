@@ -1,16 +1,16 @@
 ---
-title: "Fondle Corpse - Creaturegore"
-date: 2021-06-22T16:40:37
-draft: false
-artist: "Fondle Corpse"
-album: "Creaturegore"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/fondle_corpse-creaturegore.jpg"
-thumbnailImage: "/images/covers/fondle_corpse-creaturegore-thumb.jpg"
 actualPrice: $13.00
+album: Creaturegore
+artist: Fondle Corpse
+categories:
+- Vinyl
+date: '2021-06-26T15:22:47'
+draft: false
+images:
+- /images/covers/fondle_corpse-creaturegore.jpg
 inStock: true
+thumbnailImage: /images/covers/fondle_corpse-creaturegore-thumb.jpg
+title: Fondle Corpse - Creaturegore
 ---
 
 ## Vinyl

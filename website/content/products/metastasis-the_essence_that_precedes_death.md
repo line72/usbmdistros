@@ -1,16 +1,16 @@
 ---
-title: "Metastasis - The Essence That Precedes Death"
-date: 2021-06-22T16:40:41
-draft: false
-artist: "Metastasis"
-album: "The Essence That Precedes Death"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/metastasis-the_essence_that_precedes_death.jpg"
-thumbnailImage: "/images/covers/metastasis-the_essence_that_precedes_death-thumb.jpg"
 actualPrice: $17.00
+album: The Essence That Precedes Death
+artist: Metastasis
+categories:
+- Vinyl
+date: '2021-06-26T15:22:51'
+draft: false
+images:
+- /images/covers/metastasis-the_essence_that_precedes_death.jpg
 inStock: true
+thumbnailImage: /images/covers/metastasis-the_essence_that_precedes_death-thumb.jpg
+title: Metastasis - The Essence That Precedes Death
 ---
 
 ## Vinyl

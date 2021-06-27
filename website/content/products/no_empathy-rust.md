@@ -1,16 +1,16 @@
 ---
-title: "No Empathy - Rust"
-date: 2021-06-22T16:40:42
-draft: false
-artist: "No Empathy"
-album: "Rust"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/no_empathy-rust.jpg"
-thumbnailImage: "/images/covers/no_empathy-rust-thumb.jpg"
 actualPrice: $17.00
+album: Rust
+artist: No Empathy
+categories:
+- Vinyl
+date: '2021-06-26T15:22:52'
+draft: false
+images:
+- /images/covers/no_empathy-rust.jpg
 inStock: true
+thumbnailImage: /images/covers/no_empathy-rust-thumb.jpg
+title: No Empathy - Rust
 ---
 
 ## Vinyl

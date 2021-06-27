@@ -1,17 +1,17 @@
 ---
-title: "Finis - Visions of Doom"
-date: 2021-06-22T16:40:57
-draft: false
-artist: "Finis"
-album: "Visions of Doom"
-categories:
-    - Vinyl
-    - CD
-images:
-    - "/images/covers/finis-visions_of_doom.jpg"
-thumbnailImage: "/images/covers/finis-visions_of_doom-thumb.jpg"
 actualPrice: $10.00 - 20.00
+album: Visions of Doom
+artist: Finis
+categories:
+- Vinyl
+- CD
+date: '2021-06-26T15:23:07'
+draft: false
+images:
+- /images/covers/finis-visions_of_doom.jpg
 inStock: true
+thumbnailImage: /images/covers/finis-visions_of_doom-thumb.jpg
+title: Finis - Visions of Doom
 ---
 
 ## Vinyl

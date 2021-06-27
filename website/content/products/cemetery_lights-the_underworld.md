@@ -1,17 +1,17 @@
 ---
-title: "Cemetery Lights - The Underworld"
-date: 2021-06-22T16:40:54
-draft: false
-artist: "Cemetery Lights"
-album: "The Underworld"
-categories:
-    - Vinyl
-    - CD
-images:
-    - "/images/covers/cemetery_lights-the_underworld.jpg"
-thumbnailImage: "/images/covers/cemetery_lights-the_underworld-thumb.jpg"
 actualPrice: $10.00 - 28.00
+album: The Underworld
+artist: Cemetery Lights
+categories:
+- Vinyl
+- CD
+date: '2021-06-26T15:23:04'
+draft: false
+images:
+- /images/covers/cemetery_lights-the_underworld.jpg
 inStock: true
+thumbnailImage: /images/covers/cemetery_lights-the_underworld-thumb.jpg
+title: Cemetery Lights - The Underworld
 ---
 
 ## Vinyl

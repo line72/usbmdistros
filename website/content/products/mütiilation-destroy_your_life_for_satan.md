@@ -1,16 +1,16 @@
 ---
-title: "Mütiilation - Destroy Your Life For Satan"
-date: 2021-06-12T14:04:39
-draft: false
-artist: "Mütiilation"
-album: "Destroy Your Life For Satan"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/mütiilation-destroy_your_life_for_satan.jpg"
-thumbnailImage: "/images/covers/mütiilation-destroy_your_life_for_satan-thumb.jpg"
 actualPrice: $22.00
+album: Destroy Your Life For Satan
+artist: "M\xFCtiilation"
+categories:
+- Vinyl
+date: '2021-06-26T14:49:53'
+draft: false
+images:
+- "/images/covers/m\xFCtiilation-destroy_your_life_for_satan.jpg"
 inStock: true
+thumbnailImage: "/images/covers/m\xFCtiilation-destroy_your_life_for_satan-thumb.jpg"
+title: "M\xFCtiilation - Destroy Your Life For Satan"
 ---
 
 ## Vinyl

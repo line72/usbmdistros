@@ -1,16 +1,16 @@
 ---
-title: "Ysengrin / Sartegos - Resvrrezionespiritval"
-date: 2021-06-13T12:22:24
-draft: false
-artist: "Ysengrin / Sartegos"
-album: "Resvrrezionespiritval"
-categories:
-    - Tape
-images:
-    - "/images/covers/ysengrin_-_sartegos-resvrrezionespiritval.jpg"
-thumbnailImage: "/images/covers/ysengrin_-_sartegos-resvrrezionespiritval-thumb.jpg"
 actualPrice: $7.00
+album: Resvrrezionespiritval
+artist: Ysengrin / Sartegos
+categories:
+- Tape
+date: '2021-06-26T15:16:26'
+draft: false
+images:
+- /images/covers/ysengrin_-_sartegos-resvrrezionespiritval.jpg
 inStock: true
+thumbnailImage: /images/covers/ysengrin_-_sartegos-resvrrezionespiritval-thumb.jpg
+title: Ysengrin / Sartegos - Resvrrezionespiritval
 ---
 
 ## Tape

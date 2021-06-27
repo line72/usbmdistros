@@ -1,17 +1,17 @@
 ---
-title: "Hermh - COLD+BLOOD+MESSIAH"
-date: 2021-06-22T16:40:59
-draft: false
-artist: "Hermh"
-album: "COLD+BLOOD+MESSIAH"
-categories:
-    - Vinyl
-    - CD
-images:
-    - "/images/covers/hermh-cold+blood+messiah.jpg"
-thumbnailImage: "/images/covers/hermh-cold+blood+messiah-thumb.jpg"
 actualPrice: $7.00 - 17.00
+album: COLD+BLOOD+MESSIAH
+artist: Hermh
+categories:
+- Vinyl
+- CD
+date: '2021-06-26T15:23:09'
+draft: false
+images:
+- /images/covers/hermh-cold+blood+messiah.jpg
 inStock: true
+thumbnailImage: /images/covers/hermh-cold+blood+messiah-thumb.jpg
+title: Hermh - COLD+BLOOD+MESSIAH
 ---
 
 ## Vinyl

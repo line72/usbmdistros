@@ -1,16 +1,16 @@
 ---
-title: "Hellbound / Ensamhet - Bullet 666 / Regrets"
-date: 2021-06-22T16:40:39
-draft: false
-artist: "Hellbound / Ensamhet"
-album: "Bullet 666 / Regrets"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/hellbound_-_ensamhet-bullet_666_-_regrets.jpg"
-thumbnailImage: "/images/covers/hellbound_-_ensamhet-bullet_666_-_regrets-thumb.jpg"
 actualPrice: $17.00
+album: Bullet 666 / Regrets
+artist: Hellbound / Ensamhet
+categories:
+- Vinyl
+date: '2021-06-26T15:22:48'
+draft: false
+images:
+- /images/covers/hellbound_-_ensamhet-bullet_666_-_regrets.jpg
 inStock: true
+thumbnailImage: /images/covers/hellbound_-_ensamhet-bullet_666_-_regrets-thumb.jpg
+title: Hellbound / Ensamhet - Bullet 666 / Regrets
 ---
 
 ## Vinyl

@@ -1,16 +1,16 @@
 ---
-title: "Form Hunter - Form Hunter"
-date: 2021-06-22T16:40:37
-draft: false
-artist: "Form Hunter"
-album: "Form Hunter"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/form_hunter-form_hunter.jpg"
-thumbnailImage: "/images/covers/form_hunter-form_hunter-thumb.jpg"
 actualPrice: $17.00
+album: Form Hunter
+artist: Form Hunter
+categories:
+- Vinyl
+date: '2021-06-26T15:22:47'
+draft: false
+images:
+- /images/covers/form_hunter-form_hunter.jpg
 inStock: true
+thumbnailImage: /images/covers/form_hunter-form_hunter-thumb.jpg
+title: Form Hunter - Form Hunter
 ---
 
 ## Vinyl

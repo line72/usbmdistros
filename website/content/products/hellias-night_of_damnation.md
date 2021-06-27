@@ -1,16 +1,16 @@
 ---
-title: "Hellias - Night of Damnation"
-date: 2021-06-22T16:40:39
-draft: false
-artist: "Hellias"
-album: "Night of Damnation"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/hellias-night_of_damnation.jpg"
-thumbnailImage: "/images/covers/hellias-night_of_damnation-thumb.jpg"
 actualPrice: $10.00
+album: Night of Damnation
+artist: Hellias
+categories:
+- Vinyl
+date: '2021-06-26T15:22:48'
+draft: false
+images:
+- /images/covers/hellias-night_of_damnation.jpg
 inStock: true
+thumbnailImage: /images/covers/hellias-night_of_damnation-thumb.jpg
+title: Hellias - Night of Damnation
 ---
 
 ## Vinyl

@@ -1,16 +1,16 @@
 ---
-title: "Neutron Hammer - Extermination Kommand"
-date: 2021-06-22T16:40:42
-draft: false
-artist: "Neutron Hammer"
-album: "Extermination Kommand"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/neutron_hammer-extermination_kommand.jpg"
-thumbnailImage: "/images/covers/neutron_hammer-extermination_kommand-thumb.jpg"
 actualPrice: $15.00
+album: Extermination Kommand
+artist: Neutron Hammer
+categories:
+- Vinyl
+date: '2021-06-26T15:22:52'
+draft: false
+images:
+- /images/covers/neutron_hammer-extermination_kommand.jpg
 inStock: true
+thumbnailImage: /images/covers/neutron_hammer-extermination_kommand-thumb.jpg
+title: Neutron Hammer - Extermination Kommand
 ---
 
 ## Vinyl

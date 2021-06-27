@@ -1,17 +1,17 @@
 ---
-title: "Byyrth - Cold Autumn Shadows"
-date: 2021-06-22T16:40:54
-draft: false
-artist: "Byyrth"
-album: "Cold Autumn Shadows"
-categories:
-    - Vinyl
-    - CD
-images:
-    - "/images/covers/byyrth-cold_autumn_shadows.jpg"
-thumbnailImage: "/images/covers/byyrth-cold_autumn_shadows-thumb.jpg"
 actualPrice: $10.00 - 17.00
+album: Cold Autumn Shadows
+artist: Byyrth
+categories:
+- Vinyl
+- CD
+date: '2021-06-26T15:23:04'
+draft: false
+images:
+- /images/covers/byyrth-cold_autumn_shadows.jpg
 inStock: true
+thumbnailImage: /images/covers/byyrth-cold_autumn_shadows-thumb.jpg
+title: Byyrth - Cold Autumn Shadows
 ---
 
 ## Vinyl

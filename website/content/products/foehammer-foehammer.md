@@ -1,16 +1,16 @@
 ---
-title: "Foehammer - Foehammer"
-date: 2021-06-22T16:40:37
-draft: false
-artist: "Foehammer"
-album: "Foehammer"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/foehammer-foehammer.jpg"
-thumbnailImage: "/images/covers/foehammer-foehammer-thumb.jpg"
 actualPrice: $15.00
+album: Foehammer
+artist: Foehammer
+categories:
+- Vinyl
+date: '2021-06-26T15:22:47'
+draft: false
+images:
+- /images/covers/foehammer-foehammer.jpg
 inStock: true
+thumbnailImage: /images/covers/foehammer-foehammer-thumb.jpg
+title: Foehammer - Foehammer
 ---
 
 ## Vinyl

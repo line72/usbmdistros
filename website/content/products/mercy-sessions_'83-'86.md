@@ -1,16 +1,16 @@
 ---
-title: "Mercy - Sessions '83-'86"
-date: 2021-06-22T16:40:41
-draft: false
-artist: "Mercy"
-album: "Sessions '83-'86"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/mercy-sessions_'83-'86.jpg"
-thumbnailImage: "/images/covers/mercy-sessions_'83-'86-thumb.jpg"
 actualPrice: $25.00
+album: Sessions '83-'86
+artist: Mercy
+categories:
+- Vinyl
+date: '2021-06-26T15:22:51'
+draft: false
+images:
+- /images/covers/mercy-sessions_'83-'86.jpg
 inStock: true
+thumbnailImage: /images/covers/mercy-sessions_'83-'86-thumb.jpg
+title: Mercy - Sessions '83-'86
 ---
 
 ## Vinyl

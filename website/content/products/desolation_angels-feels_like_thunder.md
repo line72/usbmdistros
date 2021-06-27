@@ -1,16 +1,16 @@
 ---
-title: "Desolation Angels - Feels Like Thunder"
-date: 2021-06-22T16:40:36
-draft: false
-artist: "Desolation Angels"
-album: "Feels Like Thunder"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/desolation_angels-feels_like_thunder.jpg"
-thumbnailImage: "/images/covers/desolation_angels-feels_like_thunder-thumb.jpg"
 actualPrice: $120.00
+album: Feels Like Thunder
+artist: Desolation Angels
+categories:
+- Vinyl
+date: '2021-06-26T15:22:45'
+draft: false
+images:
+- /images/covers/desolation_angels-feels_like_thunder.jpg
 inStock: true
+thumbnailImage: /images/covers/desolation_angels-feels_like_thunder-thumb.jpg
+title: Desolation Angels - Feels Like Thunder
 ---
 
 ## Vinyl

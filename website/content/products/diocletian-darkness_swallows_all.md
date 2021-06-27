@@ -1,17 +1,17 @@
 ---
-title: "Diocletian - Darkness Swallows All"
-date: 2021-06-22T16:40:56
-draft: false
-artist: "Diocletian"
-album: "Darkness Swallows All"
-categories:
-    - Vinyl
-    - CD
-images:
-    - "/images/covers/diocletian-darkness_swallows_all.jpg"
-thumbnailImage: "/images/covers/diocletian-darkness_swallows_all-thumb.jpg"
 actualPrice: $10.00 - 20.00
+album: Darkness Swallows All
+artist: Diocletian
+categories:
+- Vinyl
+- CD
+date: '2021-06-26T15:23:06'
+draft: false
+images:
+- /images/covers/diocletian-darkness_swallows_all.jpg
 inStock: true
+thumbnailImage: /images/covers/diocletian-darkness_swallows_all-thumb.jpg
+title: Diocletian - Darkness Swallows All
 ---
 
 ## Vinyl

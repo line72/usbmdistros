@@ -1,16 +1,16 @@
 ---
-title: "Infamy - The Blood Shall Flow"
-date: 2021-06-22T16:40:39
-draft: false
-artist: "Infamy"
-album: "The Blood Shall Flow"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/infamy-the_blood_shall_flow.jpg"
-thumbnailImage: "/images/covers/infamy-the_blood_shall_flow-thumb.jpg"
 actualPrice: $17.00
+album: The Blood Shall Flow
+artist: Infamy
+categories:
+- Vinyl
+date: '2021-06-26T15:22:49'
+draft: false
+images:
+- /images/covers/infamy-the_blood_shall_flow.jpg
 inStock: true
+thumbnailImage: /images/covers/infamy-the_blood_shall_flow-thumb.jpg
+title: Infamy - The Blood Shall Flow
 ---
 
 ## Vinyl

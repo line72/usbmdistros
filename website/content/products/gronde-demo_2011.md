@@ -1,16 +1,16 @@
 ---
-title: "Gronde - Demo 2011"
-date: 2021-06-13T12:22:22
-draft: false
-artist: "Gronde"
-album: "Demo 2011"
-categories:
-    - Tape
-images:
-    - "/images/covers/gronde-demo_2011.jpg"
-thumbnailImage: "/images/covers/gronde-demo_2011-thumb.jpg"
 actualPrice: $4.00
+album: Demo 2011
+artist: Gronde
+categories:
+- Tape
+date: '2021-06-26T15:16:25'
+draft: false
+images:
+- /images/covers/gronde-demo_2011.jpg
 inStock: true
+thumbnailImage: /images/covers/gronde-demo_2011-thumb.jpg
+title: Gronde - Demo 2011
 ---
 
 ## Tape

@@ -1,16 +1,16 @@
 ---
-title: "Black Cilice - Banished From Time"
-date: 2021-06-22T16:40:33
-draft: false
-artist: "Black Cilice"
-album: "Banished From Time"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/black_cilice-banished_from_time.jpg"
-thumbnailImage: "/images/covers/black_cilice-banished_from_time-thumb.jpg"
 actualPrice: $20.00
+album: Banished From Time
+artist: Black Cilice
+categories:
+- Vinyl
+date: '2021-06-26T15:22:43'
+draft: false
+images:
+- /images/covers/black_cilice-banished_from_time.jpg
 inStock: true
+thumbnailImage: /images/covers/black_cilice-banished_from_time-thumb.jpg
+title: Black Cilice - Banished From Time
 ---
 
 ## Vinyl

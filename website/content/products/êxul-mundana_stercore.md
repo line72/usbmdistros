@@ -1,16 +1,16 @@
 ---
-title: "Êxul - Mundana Stercore"
-date: 2021-06-12T14:07:51
-draft: false
-artist: "Êxul"
-album: "Mundana Stercore"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/êxul-mundana_stercore.jpg"
-thumbnailImage: "/images/covers/êxul-mundana_stercore-thumb.jpg"
 actualPrice: $28.00
+album: Mundana Stercore
+artist: "\xCAxul"
+categories:
+- Vinyl
+date: '2021-06-26T15:02:54'
+draft: false
+images:
+- "/images/covers/\xEAxul-mundana_stercore.jpg"
 inStock: true
+thumbnailImage: "/images/covers/\xEAxul-mundana_stercore-thumb.jpg"
+title: "\xCAxul - Mundana Stercore"
 ---
 
 ## Vinyl

@@ -1,17 +1,17 @@
 ---
-title: "Funeral Winds - Godslayer XUL"
-date: 2021-06-22T16:40:37
-draft: false
-artist: "Funeral Winds"
-album: "Godslayer XUL"
-categories:
-    - Vinyl
-    - Tape
-images:
-    - "/images/covers/funeral_winds-godslayer_xul.jpg"
-thumbnailImage: "/images/covers/funeral_winds-godslayer_xul-thumb.jpg"
 actualPrice: $10.00 - 25.00
+album: Godslayer XUL
+artist: Funeral Winds
+categories:
+- Vinyl
+- Tape
+date: '2021-06-26T15:22:47'
+draft: false
+images:
+- /images/covers/funeral_winds-godslayer_xul.jpg
 inStock: true
+thumbnailImage: /images/covers/funeral_winds-godslayer_xul-thumb.jpg
+title: Funeral Winds - Godslayer XUL
 ---
 
 ## Vinyl

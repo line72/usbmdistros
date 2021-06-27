@@ -1,16 +1,16 @@
 ---
-title: "Agos - Irkalla Transcendence"
-date: 2021-06-22T16:40:32
-draft: false
-artist: "Agos"
-album: "Irkalla Transcendence"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/agos-irkalla_transcendence.jpg"
-thumbnailImage: "/images/covers/agos-irkalla_transcendence-thumb.jpg"
 actualPrice: $17.00
+album: Irkalla Transcendence
+artist: Agos
+categories:
+- Vinyl
+date: '2021-06-26T15:22:41'
+draft: false
+images:
+- /images/covers/agos-irkalla_transcendence.jpg
 inStock: true
+thumbnailImage: /images/covers/agos-irkalla_transcendence-thumb.jpg
+title: Agos - Irkalla Transcendence
 ---
 
 ## Vinyl

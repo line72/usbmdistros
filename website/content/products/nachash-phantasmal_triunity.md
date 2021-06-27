@@ -1,16 +1,16 @@
 ---
-title: "Nachash - Phantasmal Triunity"
-date: 2021-06-13T12:22:23
-draft: false
-artist: "Nachash"
-album: "Phantasmal Triunity"
-categories:
-    - Tape
-images:
-    - "/images/covers/nachash-phantasmal_triunity.jpg"
-thumbnailImage: "/images/covers/nachash-phantasmal_triunity-thumb.jpg"
 actualPrice: $7.00
+album: Phantasmal Triunity
+artist: Nachash
+categories:
+- Tape
+date: '2021-06-26T15:16:26'
+draft: false
+images:
+- /images/covers/nachash-phantasmal_triunity.jpg
 inStock: true
+thumbnailImage: /images/covers/nachash-phantasmal_triunity-thumb.jpg
+title: Nachash - Phantasmal Triunity
 ---
 
 ## Tape

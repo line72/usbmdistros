@@ -1,16 +1,16 @@
 ---
-title: "Rienaus - Unholy Prayers In Moscow 2015"
-date: 2021-06-13T12:22:23
-draft: false
-artist: "Rienaus"
-album: "Unholy Prayers In Moscow 2015"
-categories:
-    - Tape
-images:
-    - "/images/covers/rienaus-unholy_prayers_in_moscow_2015.jpg"
-thumbnailImage: "/images/covers/rienaus-unholy_prayers_in_moscow_2015-thumb.jpg"
 actualPrice: $6.50
+album: Unholy Prayers In Moscow 2015
+artist: Rienaus
+categories:
+- Tape
+date: '2021-06-26T15:16:25'
+draft: false
+images:
+- /images/covers/rienaus-unholy_prayers_in_moscow_2015.jpg
 inStock: true
+thumbnailImage: /images/covers/rienaus-unholy_prayers_in_moscow_2015-thumb.jpg
+title: Rienaus - Unholy Prayers In Moscow 2015
 ---
 
 ## Tape

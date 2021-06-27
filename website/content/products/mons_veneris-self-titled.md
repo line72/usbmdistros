@@ -1,16 +1,16 @@
 ---
-title: "Mons Veneris - Self-Titled"
-date: 2021-06-13T12:22:19
-draft: false
-artist: "Mons Veneris"
-album: "Self-Titled"
-categories:
-    - Tape
-images:
-    - "/images/covers/mons_veneris-self-titled.jpg"
-thumbnailImage: "/images/covers/mons_veneris-self-titled-thumb.jpg"
 actualPrice: $8.50
+album: Self-Titled
+artist: Mons Veneris
+categories:
+- Tape
+date: '2021-06-26T15:16:22'
+draft: false
+images:
+- /images/covers/mons_veneris-self-titled.jpg
 inStock: true
+thumbnailImage: /images/covers/mons_veneris-self-titled-thumb.jpg
+title: Mons Veneris - Self-Titled
 ---
 
 ## Tape

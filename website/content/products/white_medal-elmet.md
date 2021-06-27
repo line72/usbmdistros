@@ -1,19 +1,19 @@
 ---
-title: "White Medal - Elmet"
-date: 2021-06-22T16:41:14
-draft: false
-artist: "White Medal"
-album: "Elmet"
-categories:
-    - Vinyl
-    - Tape
-    - Cassette
-    - CD
-images:
-    - "/images/covers/white_medal-elmet.jpg"
-thumbnailImage: "/images/covers/white_medal-elmet-thumb.jpg"
 actualPrice: $10.00 - 25.00
+album: Elmet
+artist: White Medal
+categories:
+- Vinyl
+- Tape
+- Cassette
+- CD
+date: '2021-06-26T15:23:24'
+draft: false
+images:
+- /images/covers/white_medal-elmet.jpg
 inStock: true
+thumbnailImage: /images/covers/white_medal-elmet-thumb.jpg
+title: White Medal - Elmet
 ---
 
 ## Vinyl

@@ -1,16 +1,16 @@
 ---
-title: "Vampyres - Mina, Lucy And Me"
-date: 2021-06-13T12:22:20
-draft: false
-artist: "Vampyres"
-album: "Mina, Lucy And Me"
-categories:
-    - Tape
-images:
-    - "/images/covers/vampyres-mina,_lucy_and_me.jpg"
-thumbnailImage: "/images/covers/vampyres-mina,_lucy_and_me-thumb.jpg"
 actualPrice: $8.50
+album: Mina, Lucy And Me
+artist: Vampyres
+categories:
+- Tape
+date: '2021-06-26T15:16:23'
+draft: false
+images:
+- /images/covers/vampyres-mina,_lucy_and_me.jpg
 inStock: true
+thumbnailImage: /images/covers/vampyres-mina,_lucy_and_me-thumb.jpg
+title: Vampyres - Mina, Lucy And Me
 ---
 
 ## Tape

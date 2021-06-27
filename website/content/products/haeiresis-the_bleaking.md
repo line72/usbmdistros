@@ -1,16 +1,16 @@
 ---
-title: "Haeiresis - The Bleaking"
-date: 2021-06-13T12:22:24
-draft: false
-artist: "Haeiresis"
-album: "The Bleaking"
-categories:
-    - Tape
-images:
-    - "/images/covers/haeiresis-the_bleaking.jpg"
-thumbnailImage: "/images/covers/haeiresis-the_bleaking-thumb.jpg"
 actualPrice: $4.00
+album: The Bleaking
+artist: Haeiresis
+categories:
+- Tape
+date: '2021-06-26T15:16:27'
+draft: false
+images:
+- /images/covers/haeiresis-the_bleaking.jpg
 inStock: true
+thumbnailImage: /images/covers/haeiresis-the_bleaking-thumb.jpg
+title: Haeiresis - The Bleaking
 ---
 
 ## Tape

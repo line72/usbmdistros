@@ -1,16 +1,16 @@
 ---
-title: "Major Mistake - Foul Foundations"
-date: 2021-06-13T12:22:22
-draft: false
-artist: "Major Mistake"
-album: "Foul Foundations"
-categories:
-    - Tape
-images:
-    - "/images/covers/major_mistake-foul_foundations.jpg"
-thumbnailImage: "/images/covers/major_mistake-foul_foundations-thumb.jpg"
 actualPrice: $6.00
+album: Foul Foundations
+artist: Major Mistake
+categories:
+- Tape
+date: '2021-06-26T15:16:25'
+draft: false
+images:
+- /images/covers/major_mistake-foul_foundations.jpg
 inStock: true
+thumbnailImage: /images/covers/major_mistake-foul_foundations-thumb.jpg
+title: Major Mistake - Foul Foundations
 ---
 
 ## Tape

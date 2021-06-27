@@ -1,16 +1,16 @@
 ---
-title: "Human Bodies / Leather Chalice - Split"
-date: 2021-06-13T12:22:19
-draft: false
-artist: "Human Bodies / Leather Chalice"
-album: "Split"
-categories:
-    - Tape
-images:
-    - "/images/covers/human_bodies_-_leather_chalice-split.jpg"
-thumbnailImage: "/images/covers/human_bodies_-_leather_chalice-split-thumb.jpg"
 actualPrice: $6.50
+album: Split
+artist: Human Bodies / Leather Chalice
+categories:
+- Tape
+date: '2021-06-26T15:16:22'
+draft: false
+images:
+- /images/covers/human_bodies_-_leather_chalice-split.jpg
 inStock: true
+thumbnailImage: /images/covers/human_bodies_-_leather_chalice-split-thumb.jpg
+title: Human Bodies / Leather Chalice - Split
 ---
 
 ## Tape

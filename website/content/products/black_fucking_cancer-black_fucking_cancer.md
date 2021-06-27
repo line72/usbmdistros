@@ -1,16 +1,16 @@
 ---
-title: "Black Fucking Cancer - Black Fucking Cancer"
-date: 2021-06-22T16:40:34
-draft: false
-artist: "Black Fucking Cancer"
-album: "Black Fucking Cancer"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/black_fucking_cancer-black_fucking_cancer.jpg"
-thumbnailImage: "/images/covers/black_fucking_cancer-black_fucking_cancer-thumb.jpg"
 actualPrice: $25.00
+album: Black Fucking Cancer
+artist: Black Fucking Cancer
+categories:
+- Vinyl
+date: '2021-06-26T15:22:43'
+draft: false
+images:
+- /images/covers/black_fucking_cancer-black_fucking_cancer.jpg
 inStock: true
+thumbnailImage: /images/covers/black_fucking_cancer-black_fucking_cancer-thumb.jpg
+title: Black Fucking Cancer - Black Fucking Cancer
 ---
 
 ## Vinyl

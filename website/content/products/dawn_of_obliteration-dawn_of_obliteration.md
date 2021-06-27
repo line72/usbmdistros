@@ -1,17 +1,17 @@
 ---
-title: "Dawn Of Obliteration - Dawn Of Obliteration"
-date: 2021-06-13T12:22:18
-draft: false
-artist: "Dawn Of Obliteration"
-album: "Dawn Of Obliteration"
+actualPrice: $7.50
+album: Dawn Of Obliteration
+artist: Dawn Of Obliteration
 categories:
-    - Tape
+- Tape
+date: '2021-06-26T15:16:21'
+draft: false
 images:
-    - "/images/covers/dawn_of_obliteration-dawn_of_obliteration.jpg"
-thumbnailImage: "/images/covers/dawn_of_obliteration-dawn_of_obliteration-thumb.jpg"
-actualPrice: $8.50
+- /images/covers/dawn_of_obliteration-dawn_of_obliteration.jpg
 inStock: true
+thumbnailImage: /images/covers/dawn_of_obliteration-dawn_of_obliteration-thumb.jpg
+title: Dawn Of Obliteration - Dawn Of Obliteration
 ---
 
 ## Tape
-* Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/32144305-dawn-of-obliteration-dawn-of-obliteration) for $8.50
+* Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/32144305-dawn-of-obliteration-dawn-of-obliteration) for $7.50

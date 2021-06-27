@@ -1,16 +1,16 @@
 ---
-title: "Labored Breath - Dyspnea"
-date: 2021-06-13T12:22:18
-draft: false
-artist: "Labored Breath"
-album: "Dyspnea"
-categories:
-    - Tape
-images:
-    - "/images/covers/labored_breath-dyspnea.jpg"
-thumbnailImage: "/images/covers/labored_breath-dyspnea-thumb.jpg"
 actualPrice: $8.00
+album: Dyspnea
+artist: Labored Breath
+categories:
+- Tape
+date: '2021-06-26T15:16:21'
+draft: false
+images:
+- /images/covers/labored_breath-dyspnea.jpg
 inStock: true
+thumbnailImage: /images/covers/labored_breath-dyspnea-thumb.jpg
+title: Labored Breath - Dyspnea
 ---
 
 ## Tape

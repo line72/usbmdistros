@@ -1,16 +1,16 @@
 ---
-title: "Darkthrone - Dark Thrones and Black Flags"
-date: 2021-06-22T16:40:35
-draft: false
-artist: "Darkthrone"
-album: "Dark Thrones and Black Flags"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/darkthrone-dark_thrones_and_black_flags.jpg"
-thumbnailImage: "/images/covers/darkthrone-dark_thrones_and_black_flags-thumb.jpg"
 actualPrice: $25.00
+album: Dark Thrones and Black Flags
+artist: Darkthrone
+categories:
+- Vinyl
+date: '2021-06-26T15:22:44'
+draft: false
+images:
+- /images/covers/darkthrone-dark_thrones_and_black_flags.jpg
 inStock: true
+thumbnailImage: /images/covers/darkthrone-dark_thrones_and_black_flags-thumb.jpg
+title: Darkthrone - Dark Thrones and Black Flags
 ---
 
 ## Vinyl

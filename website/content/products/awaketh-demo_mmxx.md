@@ -1,16 +1,16 @@
 ---
-title: "Awaketh - Demo Mmxx"
-date: 2021-06-13T12:22:20
-draft: false
-artist: "Awaketh"
-album: "Demo Mmxx"
-categories:
-    - Tape
-images:
-    - "/images/covers/awaketh-demo_mmxx.jpg"
-thumbnailImage: "/images/covers/awaketh-demo_mmxx-thumb.jpg"
 actualPrice: $8.50
+album: Demo Mmxx
+artist: Awaketh
+categories:
+- Tape
+date: '2021-06-26T15:16:23'
+draft: false
+images:
+- /images/covers/awaketh-demo_mmxx.jpg
 inStock: true
+thumbnailImage: /images/covers/awaketh-demo_mmxx-thumb.jpg
+title: Awaketh - Demo Mmxx
 ---
 
 ## Tape

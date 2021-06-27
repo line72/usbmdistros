@@ -1,16 +1,16 @@
 ---
-title: "Iapetos - Rehearsal Mmxiii"
-date: 2021-06-13T12:22:22
-draft: false
-artist: "Iapetos"
-album: "Rehearsal Mmxiii"
-categories:
-    - Tape
-images:
-    - "/images/covers/iapetos-rehearsal_mmxiii.jpg"
-thumbnailImage: "/images/covers/iapetos-rehearsal_mmxiii-thumb.jpg"
 actualPrice: $3.00
+album: Rehearsal Mmxiii
+artist: Iapetos
+categories:
+- Tape
+date: '2021-06-26T15:16:25'
+draft: false
+images:
+- /images/covers/iapetos-rehearsal_mmxiii.jpg
 inStock: true
+thumbnailImage: /images/covers/iapetos-rehearsal_mmxiii-thumb.jpg
+title: Iapetos - Rehearsal Mmxiii
 ---
 
 ## Tape

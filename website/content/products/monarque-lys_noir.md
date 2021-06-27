@@ -1,17 +1,17 @@
 ---
-title: "Monarque - Lys Noir"
-date: 2021-06-22T16:41:01
-draft: false
-artist: "Monarque"
-album: "Lys Noir"
-categories:
-    - Vinyl
-    - CD
-images:
-    - "/images/covers/monarque-lys_noir.jpg"
-thumbnailImage: "/images/covers/monarque-lys_noir-thumb.jpg"
 actualPrice: $10.00 - 17.00
+album: Lys Noir
+artist: Monarque
+categories:
+- Vinyl
+- CD
+date: '2021-06-26T15:23:11'
+draft: false
+images:
+- /images/covers/monarque-lys_noir.jpg
 inStock: true
+thumbnailImage: /images/covers/monarque-lys_noir-thumb.jpg
+title: Monarque - Lys Noir
 ---
 
 ## Vinyl

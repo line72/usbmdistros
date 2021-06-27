@@ -1,16 +1,16 @@
 ---
-title: "Morbosidad / Ungod - Manifestacion del Anticristo"
-date: 2021-06-22T16:40:41
-draft: false
-artist: "Morbosidad / Ungod"
-album: "Manifestacion del Anticristo"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/morbosidad_-_ungod-manifestacion_del_anticristo.jpg"
-thumbnailImage: "/images/covers/morbosidad_-_ungod-manifestacion_del_anticristo-thumb.jpg"
 actualPrice: $20.00
+album: Manifestacion del Anticristo
+artist: Morbosidad / Ungod
+categories:
+- Vinyl
+date: '2021-06-26T15:22:51'
+draft: false
+images:
+- /images/covers/morbosidad_-_ungod-manifestacion_del_anticristo.jpg
 inStock: true
+thumbnailImage: /images/covers/morbosidad_-_ungod-manifestacion_del_anticristo-thumb.jpg
+title: Morbosidad / Ungod - Manifestacion del Anticristo
 ---
 
 ## Vinyl

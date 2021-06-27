@@ -1,16 +1,16 @@
 ---
-title: "Funerary Torch - Self-Titled"
-date: 2021-06-13T12:22:23
-draft: false
-artist: "Funerary Torch"
-album: "Self-Titled"
-categories:
-    - Tape
-images:
-    - "/images/covers/funerary_torch-self-titled.jpg"
-thumbnailImage: "/images/covers/funerary_torch-self-titled-thumb.jpg"
 actualPrice: $4.00
+album: Self-Titled
+artist: Funerary Torch
+categories:
+- Tape
+date: '2021-06-26T15:16:25'
+draft: false
+images:
+- /images/covers/funerary_torch-self-titled.jpg
 inStock: true
+thumbnailImage: /images/covers/funerary_torch-self-titled-thumb.jpg
+title: Funerary Torch - Self-Titled
 ---
 
 ## Tape

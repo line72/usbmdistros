@@ -1,16 +1,16 @@
 ---
-title: "Irae - Korona Winter Rehearsal of Darkness & Evil"
-date: 2021-06-12T14:07:56
-draft: false
-artist: "Irae"
-album: "Korona Winter Rehearsal of Darkness & Evil"
-categories:
-    - Tape
-images:
-    - "/images/covers/irae-korona_winter_rehearsal_of_darkness_&_evil.jpg"
-thumbnailImage: "/images/covers/irae-korona_winter_rehearsal_of_darkness_&_evil-thumb.jpg"
 actualPrice: $10.00
+album: Korona Winter Rehearsal of Darkness & Evil
+artist: Irae
+categories:
+- Tape
+date: '2021-06-26T15:03:02'
+draft: false
+images:
+- /images/covers/irae-korona_winter_rehearsal_of_darkness_&_evil.jpg
 inStock: true
+thumbnailImage: /images/covers/irae-korona_winter_rehearsal_of_darkness_&_evil-thumb.jpg
+title: Irae - Korona Winter Rehearsal of Darkness & Evil
 ---
 
 ## Tape

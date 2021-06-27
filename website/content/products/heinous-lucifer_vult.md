@@ -1,16 +1,16 @@
 ---
-title: "Heinous - Lucifer Vult"
-date: 2021-06-22T16:40:50
-draft: false
-artist: "Heinous"
-album: "Lucifer Vult"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/heinous-lucifer_vult.jpg"
-thumbnailImage: "/images/covers/heinous-lucifer_vult-thumb.jpg"
 actualPrice: $8.00 - 10.00
+album: Lucifer Vult
+artist: Heinous
+categories:
+- Vinyl
+date: '2021-06-26T15:23:00'
+draft: false
+images:
+- /images/covers/heinous-lucifer_vult.jpg
 inStock: true
+thumbnailImage: /images/covers/heinous-lucifer_vult-thumb.jpg
+title: Heinous - Lucifer Vult
 ---
 
 ## Vinyl

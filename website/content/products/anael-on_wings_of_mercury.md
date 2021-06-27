@@ -1,16 +1,16 @@
 ---
-title: "Anael - On Wings Of Mercury"
-date: 2021-06-22T16:40:32
-draft: false
-artist: "Anael"
-album: "On Wings Of Mercury"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/anael-on_wings_of_mercury.jpg"
-thumbnailImage: "/images/covers/anael-on_wings_of_mercury-thumb.jpg"
 actualPrice: $17.00 - 25.00
+album: On Wings Of Mercury
+artist: Anael
+categories:
+- Vinyl
+date: '2021-06-26T15:22:41'
+draft: false
+images:
+- /images/covers/anael-on_wings_of_mercury.jpg
 inStock: true
+thumbnailImage: /images/covers/anael-on_wings_of_mercury-thumb.jpg
+title: Anael - On Wings Of Mercury
 ---
 
 ## Vinyl

@@ -1,16 +1,16 @@
 ---
-title: "Athar Aghanon - Fidelitas"
-date: 2021-06-22T16:40:33
-draft: false
-artist: "Athar Aghanon"
-album: "Fidelitas"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/athar_aghanon-fidelitas.jpg"
-thumbnailImage: "/images/covers/athar_aghanon-fidelitas-thumb.jpg"
 actualPrice: $25.00
+album: Fidelitas
+artist: Athar Aghanon
+categories:
+- Vinyl
+date: '2021-06-26T15:22:42'
+draft: false
+images:
+- /images/covers/athar_aghanon-fidelitas.jpg
 inStock: true
+thumbnailImage: /images/covers/athar_aghanon-fidelitas-thumb.jpg
+title: Athar Aghanon - Fidelitas
 ---
 
 ## Vinyl

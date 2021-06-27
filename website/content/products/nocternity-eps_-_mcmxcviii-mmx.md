@@ -1,17 +1,17 @@
 ---
-title: "Nocternity - EPs - MCMXCVIII-MMX"
-date: 2021-06-22T16:41:02
-draft: false
-artist: "Nocternity"
-album: "EPs - MCMXCVIII-MMX"
-categories:
-    - Vinyl
-    - CD
-images:
-    - "/images/covers/nocternity-eps_-_mcmxcviii-mmx.jpg"
-thumbnailImage: "/images/covers/nocternity-eps_-_mcmxcviii-mmx-thumb.jpg"
 actualPrice: $17.00 - 25.00
+album: EPs - MCMXCVIII-MMX
+artist: Nocternity
+categories:
+- Vinyl
+- CD
+date: '2021-06-26T15:23:12'
+draft: false
+images:
+- /images/covers/nocternity-eps_-_mcmxcviii-mmx.jpg
 inStock: true
+thumbnailImage: /images/covers/nocternity-eps_-_mcmxcviii-mmx-thumb.jpg
+title: Nocternity - EPs - MCMXCVIII-MMX
 ---
 
 ## Vinyl

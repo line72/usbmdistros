@@ -1,16 +1,16 @@
 ---
-title: "Panphage / Jarnvidr - Gøthalandom"
-date: 2021-06-22T16:40:43
-draft: false
-artist: "Panphage / Jarnvidr"
-album: "Gøthalandom"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/panphage_-_jarnvidr-gøthalandom.jpg"
-thumbnailImage: "/images/covers/panphage_-_jarnvidr-gøthalandom-thumb.jpg"
 actualPrice: $25.00
+album: "G\xF8thalandom"
+artist: Panphage / Jarnvidr
+categories:
+- Vinyl
+date: '2021-06-26T15:22:53'
+draft: false
+images:
+- "/images/covers/panphage_-_jarnvidr-g\xF8thalandom.jpg"
 inStock: true
+thumbnailImage: "/images/covers/panphage_-_jarnvidr-g\xF8thalandom-thumb.jpg"
+title: "Panphage / Jarnvidr - G\xF8thalandom"
 ---
 
 ## Vinyl

@@ -1,16 +1,16 @@
 ---
-title: "Vetala / Mons Veneris - The Nines of Satanantichrist"
-date: 2021-06-22T16:41:07
-draft: false
-artist: "Vetala / Mons Veneris"
-album: "The Nines of Satanantichrist"
-categories:
-    - CD
-images:
-    - "/images/covers/vetala_-_mons_veneris-the_nines_of_satanantichrist.jpg"
-thumbnailImage: "/images/covers/vetala_-_mons_veneris-the_nines_of_satanantichrist-thumb.jpg"
 actualPrice: $12.00 - 13.00
+album: The Nines of Satanantichrist
+artist: Vetala / Mons Veneris
+categories:
+- CD
+date: '2021-06-26T15:23:17'
+draft: false
+images:
+- /images/covers/vetala_-_mons_veneris-the_nines_of_satanantichrist.jpg
 inStock: true
+thumbnailImage: /images/covers/vetala_-_mons_veneris-the_nines_of_satanantichrist-thumb.jpg
+title: Vetala / Mons Veneris - The Nines of Satanantichrist
 ---
 
 ## CD

@@ -1,16 +1,16 @@
 ---
-title: "Blut Aus Nord - Deus Salutis Meæ"
-date: 2021-06-12T14:07:52
-draft: false
-artist: "Blut Aus Nord"
-album: "Deus Salutis Meæ"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/blut_aus_nord-deus_salutis_meæ.jpg"
-thumbnailImage: "/images/covers/blut_aus_nord-deus_salutis_meæ-thumb.jpg"
 actualPrice: $20.00
+album: "Deus Salutis Me\xE6"
+artist: Blut Aus Nord
+categories:
+- Vinyl
+date: '2021-06-26T15:02:55'
+draft: false
+images:
+- "/images/covers/blut_aus_nord-deus_salutis_me\xE6.jpg"
 inStock: true
+thumbnailImage: "/images/covers/blut_aus_nord-deus_salutis_me\xE6-thumb.jpg"
+title: "Blut Aus Nord - Deus Salutis Me\xE6"
 ---
 
 ## Vinyl

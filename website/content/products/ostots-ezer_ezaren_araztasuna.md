@@ -1,16 +1,16 @@
 ---
-title: "Ostots - Ezer Ezaren Araztasuna"
-date: 2021-06-22T16:40:43
-draft: false
-artist: "Ostots"
-album: "Ezer Ezaren Araztasuna"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/ostots-ezer_ezaren_araztasuna.jpg"
-thumbnailImage: "/images/covers/ostots-ezer_ezaren_araztasuna-thumb.jpg"
 actualPrice: $25.00
+album: Ezer Ezaren Araztasuna
+artist: Ostots
+categories:
+- Vinyl
+date: '2021-06-26T15:22:53'
+draft: false
+images:
+- /images/covers/ostots-ezer_ezaren_araztasuna.jpg
 inStock: true
+thumbnailImage: /images/covers/ostots-ezer_ezaren_araztasuna-thumb.jpg
+title: Ostots - Ezer Ezaren Araztasuna
 ---
 
 ## Vinyl

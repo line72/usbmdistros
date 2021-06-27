@@ -1,17 +1,17 @@
 ---
-title: "Pestis Cultus - s/t"
-date: 2021-06-12T14:07:56
-draft: false
-artist: "Pestis Cultus"
-album: "s/t"
-categories:
-    - Vinyl
-    - Tape
-images:
-    - "/images/covers/pestis_cultus-s-t.jpg"
-thumbnailImage: "/images/covers/pestis_cultus-s-t-thumb.jpg"
 actualPrice: $10.00 - 28.00
+album: s/t
+artist: Pestis Cultus
+categories:
+- Vinyl
+- Tape
+date: '2021-06-26T15:03:02'
+draft: false
+images:
+- /images/covers/pestis_cultus-s-t.jpg
 inStock: true
+thumbnailImage: /images/covers/pestis_cultus-s-t-thumb.jpg
+title: Pestis Cultus - s/t
 ---
 
 ## Vinyl

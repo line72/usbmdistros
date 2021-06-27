@@ -1,16 +1,16 @@
 ---
-title: "Necrophobic - Darkside"
-date: 2021-06-22T16:40:42
-draft: false
-artist: "Necrophobic"
-album: "Darkside"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/necrophobic-darkside.jpg"
-thumbnailImage: "/images/covers/necrophobic-darkside-thumb.jpg"
 actualPrice: $25.00
+album: Darkside
+artist: Necrophobic
+categories:
+- Vinyl
+date: '2021-06-26T15:22:52'
+draft: false
+images:
+- /images/covers/necrophobic-darkside.jpg
 inStock: true
+thumbnailImage: /images/covers/necrophobic-darkside-thumb.jpg
+title: Necrophobic - Darkside
 ---
 
 ## Vinyl

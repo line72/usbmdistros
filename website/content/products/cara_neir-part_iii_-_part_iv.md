@@ -1,16 +1,16 @@
 ---
-title: "Cara Neir - Part Iii / Part Iv"
-date: 2021-06-13T12:22:21
-draft: false
-artist: "Cara Neir"
-album: "Part Iii / Part Iv"
-categories:
-    - Tape
-images:
-    - "/images/covers/cara_neir-part_iii_-_part_iv.jpg"
-thumbnailImage: "/images/covers/cara_neir-part_iii_-_part_iv-thumb.jpg"
 actualPrice: $6.00
+album: Part Iii / Part Iv
+artist: Cara Neir
+categories:
+- Tape
+date: '2021-06-26T15:16:24'
+draft: false
+images:
+- /images/covers/cara_neir-part_iii_-_part_iv.jpg
 inStock: true
+thumbnailImage: /images/covers/cara_neir-part_iii_-_part_iv-thumb.jpg
+title: Cara Neir - Part Iii / Part Iv
 ---
 
 ## Tape

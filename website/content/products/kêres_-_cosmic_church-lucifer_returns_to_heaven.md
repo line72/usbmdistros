@@ -1,16 +1,16 @@
 ---
-title: "Kêres / Cosmic Church - Lucifer Returns To Heaven"
-date: 2021-06-22T16:40:40
-draft: false
-artist: "Kêres / Cosmic Church"
-album: "Lucifer Returns To Heaven"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/kêres_-_cosmic_church-lucifer_returns_to_heaven.jpg"
-thumbnailImage: "/images/covers/kêres_-_cosmic_church-lucifer_returns_to_heaven-thumb.jpg"
 actualPrice: $17.00
+album: Lucifer Returns To Heaven
+artist: "K\xEAres / Cosmic Church"
+categories:
+- Vinyl
+date: '2021-06-26T15:22:50'
+draft: false
+images:
+- "/images/covers/k\xEAres_-_cosmic_church-lucifer_returns_to_heaven.jpg"
 inStock: true
+thumbnailImage: "/images/covers/k\xEAres_-_cosmic_church-lucifer_returns_to_heaven-thumb.jpg"
+title: "K\xEAres / Cosmic Church - Lucifer Returns To Heaven"
 ---
 
 ## Vinyl

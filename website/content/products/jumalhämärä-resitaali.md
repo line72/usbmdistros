@@ -1,16 +1,16 @@
 ---
-title: "Jumalhämärä - Resitaali"
-date: 2021-06-22T16:40:40
-draft: false
-artist: "Jumalhämärä"
-album: "Resitaali"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/jumalhämärä-resitaali.jpg"
-thumbnailImage: "/images/covers/jumalhämärä-resitaali-thumb.jpg"
 actualPrice: $17.00
+album: Resitaali
+artist: "Jumalh\xE4m\xE4r\xE4"
+categories:
+- Vinyl
+date: '2021-06-26T15:22:49'
+draft: false
+images:
+- "/images/covers/jumalh\xE4m\xE4r\xE4-resitaali.jpg"
 inStock: true
+thumbnailImage: "/images/covers/jumalh\xE4m\xE4r\xE4-resitaali-thumb.jpg"
+title: "Jumalh\xE4m\xE4r\xE4 - Resitaali"
 ---
 
 ## Vinyl

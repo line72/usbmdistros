@@ -1,16 +1,16 @@
 ---
-title: "Saligia - Fønix"
-date: 2021-06-12T14:07:52
-draft: false
-artist: "Saligia"
-album: "Fønix"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/saligia-fønix.jpg"
-thumbnailImage: "/images/covers/saligia-fønix-thumb.jpg"
 actualPrice: $19.00
+album: "F\xF8nix"
+artist: Saligia
+categories:
+- Vinyl
+date: '2021-06-26T15:02:55'
+draft: false
+images:
+- "/images/covers/saligia-f\xF8nix.jpg"
 inStock: true
+thumbnailImage: "/images/covers/saligia-f\xF8nix-thumb.jpg"
+title: "Saligia - F\xF8nix"
 ---
 
 ## Vinyl

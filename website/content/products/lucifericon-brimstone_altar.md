@@ -1,16 +1,16 @@
 ---
-title: "Lucifericon - Brimstone Altar"
-date: 2021-06-22T16:40:40
-draft: false
-artist: "Lucifericon"
-album: "Brimstone Altar"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/lucifericon-brimstone_altar.jpg"
-thumbnailImage: "/images/covers/lucifericon-brimstone_altar-thumb.jpg"
 actualPrice: $17.00
+album: Brimstone Altar
+artist: Lucifericon
+categories:
+- Vinyl
+date: '2021-06-26T15:22:50'
+draft: false
+images:
+- /images/covers/lucifericon-brimstone_altar.jpg
 inStock: true
+thumbnailImage: /images/covers/lucifericon-brimstone_altar-thumb.jpg
+title: Lucifericon - Brimstone Altar
 ---
 
 ## Vinyl

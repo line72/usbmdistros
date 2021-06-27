@@ -1,17 +1,17 @@
 ---
-title: "Deconsecration - Demo"
-date: 2021-06-22T16:41:09
-draft: false
-artist: "Deconsecration"
-album: "Demo"
-categories:
-    - Tape
-    - Cassette
-images:
-    - "/images/covers/deconsecration-demo.jpg"
-thumbnailImage: "/images/covers/deconsecration-demo-thumb.jpg"
 actualPrice: $5.00 - 8.00
+album: Demo
+artist: Deconsecration
+categories:
+- Tape
+- Cassette
+date: '2021-06-26T15:23:20'
+draft: false
+images:
+- /images/covers/deconsecration-demo.jpg
 inStock: true
+thumbnailImage: /images/covers/deconsecration-demo-thumb.jpg
+title: Deconsecration - Demo
 ---
 
 ## Tape

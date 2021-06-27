@@ -1,17 +1,17 @@
 ---
-title: "Panphage - Drengskapr"
-date: 2021-06-22T16:41:03
-draft: false
-artist: "Panphage"
-album: "Drengskapr"
-categories:
-    - Vinyl
-    - CD
-images:
-    - "/images/covers/panphage-drengskapr.jpg"
-thumbnailImage: "/images/covers/panphage-drengskapr-thumb.jpg"
 actualPrice: $12.00 - 22.00
+album: Drengskapr
+artist: Panphage
+categories:
+- Vinyl
+- CD
+date: '2021-06-26T15:23:13'
+draft: false
+images:
+- /images/covers/panphage-drengskapr.jpg
 inStock: true
+thumbnailImage: /images/covers/panphage-drengskapr-thumb.jpg
+title: Panphage - Drengskapr
 ---
 
 ## Vinyl

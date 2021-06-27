@@ -1,16 +1,16 @@
 ---
-title: "Deus Mortem - The Fiery Blood"
-date: 2021-06-22T16:40:36
-draft: false
-artist: "Deus Mortem"
-album: "The Fiery Blood"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/deus_mortem-the_fiery_blood.jpg"
-thumbnailImage: "/images/covers/deus_mortem-the_fiery_blood-thumb.jpg"
 actualPrice: $27.00
+album: The Fiery Blood
+artist: Deus Mortem
+categories:
+- Vinyl
+date: '2021-06-26T15:22:45'
+draft: false
+images:
+- /images/covers/deus_mortem-the_fiery_blood.jpg
 inStock: true
+thumbnailImage: /images/covers/deus_mortem-the_fiery_blood-thumb.jpg
+title: Deus Mortem - The Fiery Blood
 ---
 
 ## Vinyl

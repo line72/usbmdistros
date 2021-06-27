@@ -1,16 +1,16 @@
 ---
-title: "Mütiilation - The Lost Tapes"
-date: 2021-06-12T14:04:39
-draft: false
-artist: "Mütiilation"
-album: "The Lost Tapes"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/mütiilation-the_lost_tapes.jpg"
-thumbnailImage: "/images/covers/mütiilation-the_lost_tapes-thumb.jpg"
 actualPrice: $23.00
+album: The Lost Tapes
+artist: "M\xFCtiilation"
+categories:
+- Vinyl
+date: '2021-06-26T14:49:53'
+draft: false
+images:
+- "/images/covers/m\xFCtiilation-the_lost_tapes.jpg"
 inStock: true
+thumbnailImage: "/images/covers/m\xFCtiilation-the_lost_tapes-thumb.jpg"
+title: "M\xFCtiilation - The Lost Tapes"
 ---
 
 ## Vinyl

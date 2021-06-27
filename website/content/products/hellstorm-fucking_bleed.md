@@ -1,16 +1,16 @@
 ---
-title: "Hellstorm - Fucking Bleed"
-date: 2021-06-22T16:40:39
-draft: false
-artist: "Hellstorm"
-album: "Fucking Bleed"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/hellstorm-fucking_bleed.jpg"
-thumbnailImage: "/images/covers/hellstorm-fucking_bleed-thumb.jpg"
 actualPrice: $18.00
+album: Fucking Bleed
+artist: Hellstorm
+categories:
+- Vinyl
+date: '2021-06-26T15:22:48'
+draft: false
+images:
+- /images/covers/hellstorm-fucking_bleed.jpg
 inStock: true
+thumbnailImage: /images/covers/hellstorm-fucking_bleed-thumb.jpg
+title: Hellstorm - Fucking Bleed
 ---
 
 ## Vinyl

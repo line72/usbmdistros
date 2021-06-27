@@ -1,16 +1,16 @@
 ---
-title: "Bræ - A Thousand Ways to End it All"
-date: 2021-06-22T16:40:34
-draft: false
-artist: "Bræ"
-album: "A Thousand Ways to End it All"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/bræ-a_thousand_ways_to_end_it_all.jpg"
-thumbnailImage: "/images/covers/bræ-a_thousand_ways_to_end_it_all-thumb.jpg"
 actualPrice: $25.00
+album: A Thousand Ways to End it All
+artist: "Br\xE6"
+categories:
+- Vinyl
+date: '2021-06-26T15:22:43'
+draft: false
+images:
+- "/images/covers/br\xE6-a_thousand_ways_to_end_it_all.jpg"
 inStock: true
+thumbnailImage: "/images/covers/br\xE6-a_thousand_ways_to_end_it_all-thumb.jpg"
+title: "Br\xE6 - A Thousand Ways to End it All"
 ---
 
 ## Vinyl

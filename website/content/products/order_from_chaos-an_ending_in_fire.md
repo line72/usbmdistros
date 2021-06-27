@@ -1,16 +1,16 @@
 ---
-title: "Order From Chaos - An Ending in Fire"
-date: 2021-06-22T16:40:43
-draft: false
-artist: "Order From Chaos"
-album: "An Ending in Fire"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/order_from_chaos-an_ending_in_fire.jpg"
-thumbnailImage: "/images/covers/order_from_chaos-an_ending_in_fire-thumb.jpg"
 actualPrice: $50.00
+album: An Ending in Fire
+artist: Order From Chaos
+categories:
+- Vinyl
+date: '2021-06-26T15:22:53'
+draft: false
+images:
+- /images/covers/order_from_chaos-an_ending_in_fire.jpg
 inStock: true
+thumbnailImage: /images/covers/order_from_chaos-an_ending_in_fire-thumb.jpg
+title: Order From Chaos - An Ending in Fire
 ---
 
 ## Vinyl

@@ -1,16 +1,16 @@
 ---
-title: "Frostveil - Dishonoured & Forgotten"
-date: 2021-06-12T14:07:58
-draft: false
-artist: "Frostveil"
-album: "Dishonoured & Forgotten"
-categories:
-    - CD
-images:
-    - "/images/covers/frostveil-dishonoured_&_forgotten.jpg"
-thumbnailImage: "/images/covers/frostveil-dishonoured_&_forgotten-thumb.jpg"
 actualPrice: $13.00
+album: Dishonoured & Forgotten
+artist: Frostveil
+categories:
+- CD
+date: '2021-06-26T15:03:07'
+draft: false
+images:
+- /images/covers/frostveil-dishonoured_&_forgotten.jpg
 inStock: true
+thumbnailImage: /images/covers/frostveil-dishonoured_&_forgotten-thumb.jpg
+title: Frostveil - Dishonoured & Forgotten
 ---
 
 ## CD

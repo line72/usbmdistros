@@ -1,17 +1,17 @@
 ---
-title: "Master of Cruelty - Archaic Visions of the Underworld"
-date: 2021-06-22T16:41:01
-draft: false
-artist: "Master of Cruelty"
-album: "Archaic Visions of the Underworld"
-categories:
-    - Vinyl
-    - CD
-images:
-    - "/images/covers/master_of_cruelty-archaic_visions_of_the_underworld.jpg"
-thumbnailImage: "/images/covers/master_of_cruelty-archaic_visions_of_the_underworld-thumb.jpg"
 actualPrice: $10.00 - 17.00
+album: Archaic Visions of the Underworld
+artist: Master of Cruelty
+categories:
+- Vinyl
+- CD
+date: '2021-06-26T15:23:11'
+draft: false
+images:
+- /images/covers/master_of_cruelty-archaic_visions_of_the_underworld.jpg
 inStock: true
+thumbnailImage: /images/covers/master_of_cruelty-archaic_visions_of_the_underworld-thumb.jpg
+title: Master of Cruelty - Archaic Visions of the Underworld
 ---
 
 ## Vinyl

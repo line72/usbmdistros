@@ -1,16 +1,16 @@
 ---
-title: "Blasphemous Noise Torment - Ancient Insignias"
-date: 2021-06-22T16:40:34
-draft: false
-artist: "Blasphemous Noise Torment"
-album: "Ancient Insignias"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/blasphemous_noise_torment-ancient_insignias.jpg"
-thumbnailImage: "/images/covers/blasphemous_noise_torment-ancient_insignias-thumb.jpg"
 actualPrice: $17.00
+album: Ancient Insignias
+artist: Blasphemous Noise Torment
+categories:
+- Vinyl
+date: '2021-06-26T15:22:43'
+draft: false
+images:
+- /images/covers/blasphemous_noise_torment-ancient_insignias.jpg
 inStock: true
+thumbnailImage: /images/covers/blasphemous_noise_torment-ancient_insignias-thumb.jpg
+title: Blasphemous Noise Torment - Ancient Insignias
 ---
 
 ## Vinyl

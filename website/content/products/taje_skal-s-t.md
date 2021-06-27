@@ -1,17 +1,17 @@
 ---
-title: "Taje Skal - s/t"
-date: 2021-06-12T14:07:58
-draft: false
-artist: "Taje Skal"
-album: "s/t"
-categories:
-    - Vinyl
-    - CD
-images:
-    - "/images/covers/taje_skal-s-t.jpg"
-thumbnailImage: "/images/covers/taje_skal-s-t-thumb.jpg"
 actualPrice: $15.00 - 27.00
+album: s/t
+artist: Taje Skal
+categories:
+- Vinyl
+- CD
+date: '2021-06-26T15:03:07'
+draft: false
+images:
+- /images/covers/taje_skal-s-t.jpg
 inStock: true
+thumbnailImage: /images/covers/taje_skal-s-t-thumb.jpg
+title: Taje Skal - s/t
 ---
 
 ## Vinyl

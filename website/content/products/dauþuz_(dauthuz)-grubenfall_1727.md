@@ -1,16 +1,16 @@
 ---
-title: "Dauþuz (Dauthuz) - Grubenfall 1727"
-date: 2021-06-22T16:40:35
-draft: false
-artist: "Dauþuz (Dauthuz)"
-album: "Grubenfall 1727"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/dauþuz_(dauthuz)-grubenfall_1727.jpg"
-thumbnailImage: "/images/covers/dauþuz_(dauthuz)-grubenfall_1727-thumb.jpg"
 actualPrice: $25.00
+album: Grubenfall 1727
+artist: "Dau\xFEuz (Dauthuz)"
+categories:
+- Vinyl
+date: '2021-06-26T15:22:45'
+draft: false
+images:
+- "/images/covers/dau\xFEuz_(dauthuz)-grubenfall_1727.jpg"
 inStock: true
+thumbnailImage: "/images/covers/dau\xFEuz_(dauthuz)-grubenfall_1727-thumb.jpg"
+title: "Dau\xFEuz (Dauthuz) - Grubenfall 1727"
 ---
 
 ## Vinyl

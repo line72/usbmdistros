@@ -1,16 +1,16 @@
 ---
-title: "Draugsol - Volada Land"
-date: 2021-06-22T16:40:36
-draft: false
-artist: "Draugsol"
-album: "Volada Land"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/draugsol-volada_land.jpg"
-thumbnailImage: "/images/covers/draugsol-volada_land-thumb.jpg"
 actualPrice: $17.00
+album: Volada Land
+artist: Draugsol
+categories:
+- Vinyl
+date: '2021-06-26T15:22:46'
+draft: false
+images:
+- /images/covers/draugsol-volada_land.jpg
 inStock: true
+thumbnailImage: /images/covers/draugsol-volada_land-thumb.jpg
+title: Draugsol - Volada Land
 ---
 
 ## Vinyl

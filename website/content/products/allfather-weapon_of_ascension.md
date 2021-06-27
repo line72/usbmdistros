@@ -1,16 +1,16 @@
 ---
-title: "Allfather - Weapon of Ascension"
-date: 2021-06-22T16:40:32
-draft: false
-artist: "Allfather"
-album: "Weapon of Ascension"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/allfather-weapon_of_ascension.jpg"
-thumbnailImage: "/images/covers/allfather-weapon_of_ascension-thumb.jpg"
 actualPrice: $17.00
+album: Weapon of Ascension
+artist: Allfather
+categories:
+- Vinyl
+date: '2021-06-26T15:22:41'
+draft: false
+images:
+- /images/covers/allfather-weapon_of_ascension.jpg
 inStock: true
+thumbnailImage: /images/covers/allfather-weapon_of_ascension-thumb.jpg
+title: Allfather - Weapon of Ascension
 ---
 
 ## Vinyl

@@ -1,16 +1,16 @@
 ---
-title: "Krypta Nicestwa - Sarkofagi nocnych zjaw"
-date: 2021-06-22T16:40:40
-draft: false
-artist: "Krypta Nicestwa"
-album: "Sarkofagi nocnych zjaw"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/krypta_nicestwa-sarkofagi_nocnych_zjaw.jpg"
-thumbnailImage: "/images/covers/krypta_nicestwa-sarkofagi_nocnych_zjaw-thumb.jpg"
 actualPrice: $20.00
+album: Sarkofagi nocnych zjaw
+artist: Krypta Nicestwa
+categories:
+- Vinyl
+date: '2021-06-26T15:22:50'
+draft: false
+images:
+- /images/covers/krypta_nicestwa-sarkofagi_nocnych_zjaw.jpg
 inStock: true
+thumbnailImage: /images/covers/krypta_nicestwa-sarkofagi_nocnych_zjaw-thumb.jpg
+title: Krypta Nicestwa - Sarkofagi nocnych zjaw
 ---
 
 ## Vinyl

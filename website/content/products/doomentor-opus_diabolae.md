@@ -1,16 +1,16 @@
 ---
-title: "Doomentor - Opus Diabolae"
-date: 2021-06-13T12:22:23
-draft: false
-artist: "Doomentor"
-album: "Opus Diabolae"
-categories:
-    - Tape
-images:
-    - "/images/covers/doomentor-opus_diabolae.jpg"
-thumbnailImage: "/images/covers/doomentor-opus_diabolae-thumb.jpg"
 actualPrice: $6.00
+album: Opus Diabolae
+artist: Doomentor
+categories:
+- Tape
+date: '2021-06-26T15:16:25'
+draft: false
+images:
+- /images/covers/doomentor-opus_diabolae.jpg
 inStock: true
+thumbnailImage: /images/covers/doomentor-opus_diabolae-thumb.jpg
+title: Doomentor - Opus Diabolae
 ---
 
 ## Tape

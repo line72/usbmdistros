@@ -1,16 +1,16 @@
 ---
-title: "Abigail / Terror Cross - Split"
-date: 2021-06-12T14:07:54
-draft: false
-artist: "Abigail / Terror Cross"
-album: "Split"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/abigail_-_terror_cross-split.jpg"
-thumbnailImage: "/images/covers/abigail_-_terror_cross-split-thumb.jpg"
 actualPrice: $9.00
+album: Split
+artist: Abigail / Terror Cross
+categories:
+- Vinyl
+date: '2021-06-26T15:02:58'
+draft: false
+images:
+- /images/covers/abigail_-_terror_cross-split.jpg
 inStock: true
+thumbnailImage: /images/covers/abigail_-_terror_cross-split-thumb.jpg
+title: Abigail / Terror Cross - Split
 ---
 
 ## Vinyl

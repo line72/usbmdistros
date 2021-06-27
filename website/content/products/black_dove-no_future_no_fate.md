@@ -1,16 +1,16 @@
 ---
-title: "Black Dove - No Future No Fate"
-date: 2021-06-22T16:40:33
-draft: false
-artist: "Black Dove"
-album: "No Future No Fate"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/black_dove-no_future_no_fate.jpg"
-thumbnailImage: "/images/covers/black_dove-no_future_no_fate-thumb.jpg"
 actualPrice: $17.00
+album: No Future No Fate
+artist: Black Dove
+categories:
+- Vinyl
+date: '2021-06-26T15:22:43'
+draft: false
+images:
+- /images/covers/black_dove-no_future_no_fate.jpg
 inStock: true
+thumbnailImage: /images/covers/black_dove-no_future_no_fate-thumb.jpg
+title: Black Dove - No Future No Fate
 ---
 
 ## Vinyl

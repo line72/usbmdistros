@@ -1,16 +1,16 @@
 ---
-title: "Faithxtractor - Proverbial Lambs To The Ultimate Slaughter"
-date: 2021-06-13T12:22:24
-draft: false
-artist: "Faithxtractor"
-album: "Proverbial Lambs To The Ultimate Slaughter"
-categories:
-    - Tape
-images:
-    - "/images/covers/faithxtractor-proverbial_lambs_to_the_ultimate_slaughter.jpg"
-thumbnailImage: "/images/covers/faithxtractor-proverbial_lambs_to_the_ultimate_slaughter-thumb.jpg"
 actualPrice: $4.50
+album: Proverbial Lambs To The Ultimate Slaughter
+artist: Faithxtractor
+categories:
+- Tape
+date: '2021-06-26T15:16:26'
+draft: false
+images:
+- /images/covers/faithxtractor-proverbial_lambs_to_the_ultimate_slaughter.jpg
 inStock: true
+thumbnailImage: /images/covers/faithxtractor-proverbial_lambs_to_the_ultimate_slaughter-thumb.jpg
+title: Faithxtractor - Proverbial Lambs To The Ultimate Slaughter
 ---
 
 ## Tape

@@ -1,16 +1,16 @@
 ---
-title: "Bolzer - Aura"
-date: 2021-06-22T16:40:34
-draft: false
-artist: "Bolzer"
-album: "Aura"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/bolzer-aura.jpg"
-thumbnailImage: "/images/covers/bolzer-aura-thumb.jpg"
 actualPrice: $20.00
+album: Aura
+artist: Bolzer
+categories:
+- Vinyl
+date: '2021-06-26T15:22:43'
+draft: false
+images:
+- /images/covers/bolzer-aura.jpg
 inStock: true
+thumbnailImage: /images/covers/bolzer-aura-thumb.jpg
+title: Bolzer - Aura
 ---
 
 ## Vinyl

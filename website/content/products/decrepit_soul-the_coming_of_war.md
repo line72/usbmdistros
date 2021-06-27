@@ -1,17 +1,17 @@
 ---
-title: "Decrepit Soul - The Coming of War"
-date: 2021-06-22T16:40:55
-draft: false
-artist: "Decrepit Soul"
-album: "The Coming of War"
-categories:
-    - Vinyl
-    - CD
-images:
-    - "/images/covers/decrepit_soul-the_coming_of_war.jpg"
-thumbnailImage: "/images/covers/decrepit_soul-the_coming_of_war-thumb.jpg"
 actualPrice: $7.00 - 17.00
+album: The Coming of War
+artist: Decrepit Soul
+categories:
+- Vinyl
+- CD
+date: '2021-06-26T15:23:05'
+draft: false
+images:
+- /images/covers/decrepit_soul-the_coming_of_war.jpg
 inStock: true
+thumbnailImage: /images/covers/decrepit_soul-the_coming_of_war-thumb.jpg
+title: Decrepit Soul - The Coming of War
 ---
 
 ## Vinyl

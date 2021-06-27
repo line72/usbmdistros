@@ -1,18 +1,18 @@
 ---
-title: "Dead Dog'S Howl - Mausoleum Of Confessed Thoughts"
-date: 2021-06-22T16:41:09
-draft: false
-artist: "Dead Dog'S Howl"
-album: "Mausoleum Of Confessed Thoughts"
-categories:
-    - Tape
-    - Cassette
-    - CD
-images:
-    - "/images/covers/dead_dog's_howl-mausoleum_of_confessed_thoughts.jpg"
-thumbnailImage: "/images/covers/dead_dog's_howl-mausoleum_of_confessed_thoughts-thumb.jpg"
 actualPrice: $7.00 - 10.00
+album: Mausoleum Of Confessed Thoughts
+artist: Dead Dog's Howl
+categories:
+- Tape
+- Cassette
+- CD
+date: '2021-06-26T15:23:20'
+draft: false
+images:
+- /images/covers/dead_dog's_howl-mausoleum_of_confessed_thoughts.jpg
 inStock: true
+thumbnailImage: /images/covers/dead_dog's_howl-mausoleum_of_confessed_thoughts-thumb.jpg
+title: Dead Dog's Howl - Mausoleum Of Confessed Thoughts
 ---
 
 ## Tape

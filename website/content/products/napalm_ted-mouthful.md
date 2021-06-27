@@ -1,16 +1,16 @@
 ---
-title: "Napalm Ted - Mouthful"
-date: 2021-06-13T12:22:23
-draft: false
-artist: "Napalm Ted"
-album: "Mouthful"
-categories:
-    - Tape
-images:
-    - "/images/covers/napalm_ted-mouthful.jpg"
-thumbnailImage: "/images/covers/napalm_ted-mouthful-thumb.jpg"
 actualPrice: $4.00
+album: Mouthful
+artist: Napalm Ted
+categories:
+- Tape
+date: '2021-06-26T15:16:25'
+draft: false
+images:
+- /images/covers/napalm_ted-mouthful.jpg
 inStock: true
+thumbnailImage: /images/covers/napalm_ted-mouthful-thumb.jpg
+title: Napalm Ted - Mouthful
 ---
 
 ## Tape

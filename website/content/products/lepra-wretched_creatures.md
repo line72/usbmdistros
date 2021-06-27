@@ -1,16 +1,16 @@
 ---
-title: "Lepra - Wretched Creatures"
-date: 2021-06-13T12:22:21
-draft: false
-artist: "Lepra"
-album: "Wretched Creatures"
-categories:
-    - Tape
-images:
-    - "/images/covers/lepra-wretched_creatures.jpg"
-thumbnailImage: "/images/covers/lepra-wretched_creatures-thumb.jpg"
 actualPrice: $8.00
+album: Wretched Creatures
+artist: Lepra
+categories:
+- Tape
+date: '2021-06-26T15:16:24'
+draft: false
+images:
+- /images/covers/lepra-wretched_creatures.jpg
 inStock: true
+thumbnailImage: /images/covers/lepra-wretched_creatures-thumb.jpg
+title: Lepra - Wretched Creatures
 ---
 
 ## Tape

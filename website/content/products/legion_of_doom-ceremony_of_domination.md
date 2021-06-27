@@ -1,16 +1,16 @@
 ---
-title: "Legion of Doom - Ceremony of Domination"
-date: 2021-06-12T14:07:51
-draft: false
-artist: "Legion of Doom"
-album: "Ceremony of Domination"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/legion_of_doom-ceremony_of_domination.jpg"
-thumbnailImage: "/images/covers/legion_of_doom-ceremony_of_domination-thumb.jpg"
 actualPrice: $28.00
+album: Ceremony of Domination
+artist: Legion of Doom
+categories:
+- Vinyl
+date: '2021-06-26T15:02:54'
+draft: false
+images:
+- /images/covers/legion_of_doom-ceremony_of_domination.jpg
 inStock: true
+thumbnailImage: /images/covers/legion_of_doom-ceremony_of_domination-thumb.jpg
+title: Legion of Doom - Ceremony of Domination
 ---
 
 ## Vinyl

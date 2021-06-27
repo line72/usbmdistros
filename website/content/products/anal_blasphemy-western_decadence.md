@@ -1,17 +1,17 @@
 ---
-title: "Anal Blasphemy - Western Decadence"
-date: 2021-06-22T16:40:52
-draft: false
-artist: "Anal Blasphemy"
-album: "Western Decadence"
-categories:
-    - Vinyl
-    - CD
-images:
-    - "/images/covers/anal_blasphemy-western_decadence.jpg"
-thumbnailImage: "/images/covers/anal_blasphemy-western_decadence-thumb.jpg"
 actualPrice: $10.00 - 17.00
+album: Western Decadence
+artist: Anal Blasphemy
+categories:
+- Vinyl
+- CD
+date: '2021-06-26T15:23:02'
+draft: false
+images:
+- /images/covers/anal_blasphemy-western_decadence.jpg
 inStock: true
+thumbnailImage: /images/covers/anal_blasphemy-western_decadence-thumb.jpg
+title: Anal Blasphemy - Western Decadence
 ---
 
 ## Vinyl

@@ -1,18 +1,18 @@
 ---
-title: "Evoke - Seeds Of Death"
-date: 2021-06-22T16:40:57
-draft: false
-artist: "Evoke"
-album: "Seeds Of Death"
-categories:
-    - Vinyl
-    - Tape
-    - CD
-images:
-    - "/images/covers/evoke-seeds_of_death.jpg"
-thumbnailImage: "/images/covers/evoke-seeds_of_death-thumb.jpg"
 actualPrice: $8.50 - 22.00
+album: Seeds Of Death
+artist: Evoke
+categories:
+- Vinyl
+- Tape
+- CD
+date: '2021-06-26T15:23:07'
+draft: false
+images:
+- /images/covers/evoke-seeds_of_death.jpg
 inStock: true
+thumbnailImage: /images/covers/evoke-seeds_of_death-thumb.jpg
+title: Evoke - Seeds Of Death
 ---
 
 ## Vinyl

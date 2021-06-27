@@ -1,17 +1,17 @@
 ---
-title: "Cultus Profano - Accursed Possession"
-date: 2021-06-12T14:11:53
-draft: false
-artist: "Cultus Profano"
-album: "Accursed Possession"
-categories:
-    - Vinyl
-    - CD
-images:
-    - "/images/covers/cultus_profano-accursed_possession.jpg"
-thumbnailImage: "/images/covers/cultus_profano-accursed_possession-thumb.jpg"
 actualPrice: $9.99 - 24.99
+album: Accursed Possession
+artist: Cultus Profano
+categories:
+- Vinyl
+- CD
+date: '2021-06-26T15:15:52'
+draft: false
+images:
+- /images/covers/cultus_profano-accursed_possession.jpg
 inStock: true
+thumbnailImage: /images/covers/cultus_profano-accursed_possession-thumb.jpg
+title: Cultus Profano - Accursed Possession
 ---
 
 ## Vinyl

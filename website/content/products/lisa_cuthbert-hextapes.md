@@ -1,16 +1,16 @@
 ---
-title: "Lisa Cuthbert - Hextapes"
-date: 2021-06-22T16:40:40
-draft: false
-artist: "Lisa Cuthbert"
-album: "Hextapes"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/lisa_cuthbert-hextapes.jpg"
-thumbnailImage: "/images/covers/lisa_cuthbert-hextapes-thumb.jpg"
 actualPrice: $17.00
+album: Hextapes
+artist: Lisa Cuthbert
+categories:
+- Vinyl
+date: '2021-06-26T15:22:50'
+draft: false
+images:
+- /images/covers/lisa_cuthbert-hextapes.jpg
 inStock: true
+thumbnailImage: /images/covers/lisa_cuthbert-hextapes-thumb.jpg
+title: Lisa Cuthbert - Hextapes
 ---
 
 ## Vinyl

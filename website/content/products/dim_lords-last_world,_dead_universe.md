@@ -1,16 +1,16 @@
 ---
-title: "Dim Lords - Last World, Dead Universe"
-date: 2021-06-13T12:22:22
-draft: false
-artist: "Dim Lords"
-album: "Last World, Dead Universe"
-categories:
-    - Tape
-images:
-    - "/images/covers/dim_lords-last_world,_dead_universe.jpg"
-thumbnailImage: "/images/covers/dim_lords-last_world,_dead_universe-thumb.jpg"
 actualPrice: $6.00
+album: Last World, Dead Universe
+artist: Dim Lords
+categories:
+- Tape
+date: '2021-06-26T15:16:25'
+draft: false
+images:
+- /images/covers/dim_lords-last_world,_dead_universe.jpg
 inStock: true
+thumbnailImage: /images/covers/dim_lords-last_world,_dead_universe-thumb.jpg
+title: Dim Lords - Last World, Dead Universe
 ---
 
 ## Tape

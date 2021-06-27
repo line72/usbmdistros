@@ -1,16 +1,16 @@
 ---
-title: "Predatory Light - MMXIV"
-date: 2021-06-22T16:40:43
-draft: false
-artist: "Predatory Light"
-album: "MMXIV"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/predatory_light-mmxiv.jpg"
-thumbnailImage: "/images/covers/predatory_light-mmxiv-thumb.jpg"
 actualPrice: $20.00
+album: MMXIV
+artist: Predatory Light
+categories:
+- Vinyl
+date: '2021-06-26T15:22:53'
+draft: false
+images:
+- /images/covers/predatory_light-mmxiv.jpg
 inStock: true
+thumbnailImage: /images/covers/predatory_light-mmxiv-thumb.jpg
+title: Predatory Light - MMXIV
 ---
 
 ## Vinyl

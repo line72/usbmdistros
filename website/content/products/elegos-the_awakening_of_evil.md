@@ -1,16 +1,16 @@
 ---
-title: "Elegos - The Awakening Of Evil"
-date: 2021-06-13T12:22:20
-draft: false
-artist: "Elegos"
-album: "The Awakening Of Evil"
-categories:
-    - Tape
-images:
-    - "/images/covers/elegos-the_awakening_of_evil.jpg"
-thumbnailImage: "/images/covers/elegos-the_awakening_of_evil-thumb.jpg"
 actualPrice: $7.50
+album: The Awakening Of Evil
+artist: Elegos
+categories:
+- Tape
+date: '2021-06-26T15:16:23'
+draft: false
+images:
+- /images/covers/elegos-the_awakening_of_evil.jpg
 inStock: true
+thumbnailImage: /images/covers/elegos-the_awakening_of_evil-thumb.jpg
+title: Elegos - The Awakening Of Evil
 ---
 
 ## Tape

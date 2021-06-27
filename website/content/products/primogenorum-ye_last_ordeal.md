@@ -1,16 +1,16 @@
 ---
-title: "Primogenorum - Ye Last Ordeal"
-date: 2021-06-12T14:07:59
-draft: false
-artist: "Primogenorum"
-album: "Ye Last Ordeal"
-categories:
-    - CD
-images:
-    - "/images/covers/primogenorum-ye_last_ordeal.jpg"
-thumbnailImage: "/images/covers/primogenorum-ye_last_ordeal-thumb.jpg"
 actualPrice: $6.00
+album: Ye Last Ordeal
+artist: Primogenorum
+categories:
+- CD
+date: '2021-06-26T15:03:08'
+draft: false
+images:
+- /images/covers/primogenorum-ye_last_ordeal.jpg
 inStock: true
+thumbnailImage: /images/covers/primogenorum-ye_last_ordeal-thumb.jpg
+title: Primogenorum - Ye Last Ordeal
 ---
 
 ## CD

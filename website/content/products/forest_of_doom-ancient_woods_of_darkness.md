@@ -1,16 +1,16 @@
 ---
-title: "Forest Of Doom - Ancient Woods Of Darkness"
-date: 2021-06-13T12:22:22
-draft: false
-artist: "Forest Of Doom"
-album: "Ancient Woods Of Darkness"
-categories:
-    - Tape
-images:
-    - "/images/covers/forest_of_doom-ancient_woods_of_darkness.jpg"
-thumbnailImage: "/images/covers/forest_of_doom-ancient_woods_of_darkness-thumb.jpg"
 actualPrice: $5.00
+album: Ancient Woods Of Darkness
+artist: Forest Of Doom
+categories:
+- Tape
+date: '2021-06-26T15:16:25'
+draft: false
+images:
+- /images/covers/forest_of_doom-ancient_woods_of_darkness.jpg
 inStock: true
+thumbnailImage: /images/covers/forest_of_doom-ancient_woods_of_darkness-thumb.jpg
+title: Forest Of Doom - Ancient Woods Of Darkness
 ---
 
 ## Tape

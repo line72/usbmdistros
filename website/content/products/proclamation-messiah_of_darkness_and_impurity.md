@@ -1,17 +1,17 @@
 ---
-title: "Proclamation - Messiah of Darkness and Impurity"
-date: 2021-06-22T16:41:03
-draft: false
-artist: "Proclamation"
-album: "Messiah of Darkness and Impurity"
-categories:
-    - Vinyl
-    - CD
-images:
-    - "/images/covers/proclamation-messiah_of_darkness_and_impurity.jpg"
-thumbnailImage: "/images/covers/proclamation-messiah_of_darkness_and_impurity-thumb.jpg"
 actualPrice: $12.00 - 25.00
+album: Messiah of Darkness and Impurity
+artist: Proclamation
+categories:
+- Vinyl
+- CD
+date: '2021-06-26T15:23:13'
+draft: false
+images:
+- /images/covers/proclamation-messiah_of_darkness_and_impurity.jpg
 inStock: true
+thumbnailImage: /images/covers/proclamation-messiah_of_darkness_and_impurity-thumb.jpg
+title: Proclamation - Messiah of Darkness and Impurity
 ---
 
 ## Vinyl

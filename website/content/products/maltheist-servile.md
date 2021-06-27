@@ -1,16 +1,16 @@
 ---
-title: "Maltheist - Servile"
-date: 2021-06-13T12:22:22
-draft: false
-artist: "Maltheist"
-album: "Servile"
-categories:
-    - Tape
-images:
-    - "/images/covers/maltheist-servile.jpg"
-thumbnailImage: "/images/covers/maltheist-servile-thumb.jpg"
 actualPrice: $6.00
+album: Servile
+artist: Maltheist
+categories:
+- Tape
+date: '2021-06-26T15:16:25'
+draft: false
+images:
+- /images/covers/maltheist-servile.jpg
 inStock: true
+thumbnailImage: /images/covers/maltheist-servile-thumb.jpg
+title: Maltheist - Servile
 ---
 
 ## Tape

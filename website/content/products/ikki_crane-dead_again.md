@@ -1,16 +1,16 @@
 ---
-title: "Ikki Crane - Dead Again"
-date: 2021-06-22T16:40:39
-draft: false
-artist: "Ikki Crane"
-album: "Dead Again"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/ikki_crane-dead_again.jpg"
-thumbnailImage: "/images/covers/ikki_crane-dead_again-thumb.jpg"
 actualPrice: $20.00
+album: Dead Again
+artist: Ikki Crane
+categories:
+- Vinyl
+date: '2021-06-26T15:22:49'
+draft: false
+images:
+- /images/covers/ikki_crane-dead_again.jpg
 inStock: true
+thumbnailImage: /images/covers/ikki_crane-dead_again-thumb.jpg
+title: Ikki Crane - Dead Again
 ---
 
 ## Vinyl

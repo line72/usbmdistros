@@ -1,16 +1,16 @@
 ---
-title: "Pustulous - Unholy Hunger Demo"
-date: 2021-06-13T12:22:23
-draft: false
-artist: "Pustulous"
-album: "Unholy Hunger Demo"
-categories:
-    - Tape
-images:
-    - "/images/covers/pustulous-unholy_hunger_demo.jpg"
-thumbnailImage: "/images/covers/pustulous-unholy_hunger_demo-thumb.jpg"
 actualPrice: $6.00
+album: Unholy Hunger Demo
+artist: Pustulous
+categories:
+- Tape
+date: '2021-06-26T15:16:26'
+draft: false
+images:
+- /images/covers/pustulous-unholy_hunger_demo.jpg
 inStock: true
+thumbnailImage: /images/covers/pustulous-unholy_hunger_demo-thumb.jpg
+title: Pustulous - Unholy Hunger Demo
 ---
 
 ## Tape

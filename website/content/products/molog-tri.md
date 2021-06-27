@@ -1,17 +1,17 @@
 ---
-title: "Molog - Tri"
-date: 2021-06-22T16:40:41
-draft: false
-artist: "Molog"
-album: "Tri"
-categories:
-    - Vinyl
-    - CD
-images:
-    - "/images/covers/molog-tri.jpg"
-thumbnailImage: "/images/covers/molog-tri-thumb.jpg"
 actualPrice: $13.00 - 17.00
+album: Tri
+artist: Molog
+categories:
+- Vinyl
+- CD
+date: '2021-06-26T15:22:51'
+draft: false
+images:
+- /images/covers/molog-tri.jpg
 inStock: true
+thumbnailImage: /images/covers/molog-tri-thumb.jpg
+title: Molog - Tri
 ---
 
 ## Vinyl

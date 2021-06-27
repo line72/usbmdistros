@@ -1,16 +1,16 @@
 ---
-title: "Eyegouger - Ass Attack"
-date: 2021-06-13T12:22:21
-draft: false
-artist: "Eyegouger"
-album: "Ass Attack"
-categories:
-    - Tape
-images:
-    - "/images/covers/eyegouger-ass_attack.jpg"
-thumbnailImage: "/images/covers/eyegouger-ass_attack-thumb.jpg"
 actualPrice: $5.00
+album: Ass Attack
+artist: Eyegouger
+categories:
+- Tape
+date: '2021-06-26T15:16:24'
+draft: false
+images:
+- /images/covers/eyegouger-ass_attack.jpg
 inStock: true
+thumbnailImage: /images/covers/eyegouger-ass_attack-thumb.jpg
+title: Eyegouger - Ass Attack
 ---
 
 ## Tape

@@ -1,16 +1,16 @@
 ---
-title: "Falsehood - Self-Titled"
-date: 2021-06-13T12:22:23
-draft: false
-artist: "Falsehood"
-album: "Self-Titled"
-categories:
-    - Tape
-images:
-    - "/images/covers/falsehood-self-titled.jpg"
-thumbnailImage: "/images/covers/falsehood-self-titled-thumb.jpg"
 actualPrice: $5.00
+album: Self-Titled
+artist: Falsehood
+categories:
+- Tape
+date: '2021-06-26T15:16:26'
+draft: false
+images:
+- /images/covers/falsehood-self-titled.jpg
 inStock: true
+thumbnailImage: /images/covers/falsehood-self-titled-thumb.jpg
+title: Falsehood - Self-Titled
 ---
 
 ## Tape

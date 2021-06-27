@@ -1,16 +1,16 @@
 ---
-title: "Iron Cemetery - Manic Deliverance"
-date: 2021-06-13T12:22:19
-draft: false
-artist: "Iron Cemetery"
-album: "Manic Deliverance"
-categories:
-    - Tape
-images:
-    - "/images/covers/iron_cemetery-manic_deliverance.jpg"
-thumbnailImage: "/images/covers/iron_cemetery-manic_deliverance-thumb.jpg"
 actualPrice: $6.00
+album: Manic Deliverance
+artist: Iron Cemetery
+categories:
+- Tape
+date: '2021-06-26T15:16:22'
+draft: false
+images:
+- /images/covers/iron_cemetery-manic_deliverance.jpg
 inStock: true
+thumbnailImage: /images/covers/iron_cemetery-manic_deliverance-thumb.jpg
+title: Iron Cemetery - Manic Deliverance
 ---
 
 ## Tape

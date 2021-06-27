@@ -1,16 +1,16 @@
 ---
-title: "Gen Ather / Obscest - Split"
-date: 2021-06-13T12:22:23
-draft: false
-artist: "Gen Ather / Obscest"
-album: "Split"
-categories:
-    - Tape
-images:
-    - "/images/covers/gen_ather_-_obscest-split.jpg"
-thumbnailImage: "/images/covers/gen_ather_-_obscest-split-thumb.jpg"
 actualPrice: $6.50
+album: Split
+artist: Gen Ather / Obscest
+categories:
+- Tape
+date: '2021-06-26T15:16:25'
+draft: false
+images:
+- /images/covers/gen_ather_-_obscest-split.jpg
 inStock: true
+thumbnailImage: /images/covers/gen_ather_-_obscest-split-thumb.jpg
+title: Gen Ather / Obscest - Split
 ---
 
 ## Tape

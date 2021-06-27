@@ -1,17 +1,17 @@
 ---
-title: "Celestial Grave - Secular Flesh"
-date: 2021-06-22T16:40:54
-draft: false
-artist: "Celestial Grave"
-album: "Secular Flesh"
-categories:
-    - Vinyl
-    - CD
-images:
-    - "/images/covers/celestial_grave-secular_flesh.jpg"
-thumbnailImage: "/images/covers/celestial_grave-secular_flesh-thumb.jpg"
 actualPrice: $10.00 - 20.00
+album: Secular Flesh
+artist: Celestial Grave
+categories:
+- Vinyl
+- CD
+date: '2021-06-26T15:23:04'
+draft: false
+images:
+- /images/covers/celestial_grave-secular_flesh.jpg
 inStock: true
+thumbnailImage: /images/covers/celestial_grave-secular_flesh-thumb.jpg
+title: Celestial Grave - Secular Flesh
 ---
 
 ## Vinyl

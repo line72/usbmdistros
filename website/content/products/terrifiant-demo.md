@@ -1,17 +1,17 @@
 ---
-title: "Terrifiant - Demo"
-date: 2021-06-22T16:40:51
-draft: false
-artist: "Terrifiant"
-album: "Demo"
-categories:
-    - Vinyl
-    - Tape
-images:
-    - "/images/covers/terrifiant-demo.jpg"
-thumbnailImage: "/images/covers/terrifiant-demo-thumb.jpg"
 actualPrice: $4.00 - 8.00
+album: Demo
+artist: Terrifiant
+categories:
+- Vinyl
+- Tape
+date: '2021-06-26T15:23:01'
+draft: false
+images:
+- /images/covers/terrifiant-demo.jpg
 inStock: true
+thumbnailImage: /images/covers/terrifiant-demo-thumb.jpg
+title: Terrifiant - Demo
 ---
 
 ## Vinyl

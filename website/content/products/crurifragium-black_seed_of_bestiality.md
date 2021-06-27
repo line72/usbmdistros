@@ -1,16 +1,16 @@
 ---
-title: "CRURIFRAGIUM - Black Seed of Bestiality"
-date: 2021-06-22T16:40:35
-draft: false
-artist: "CRURIFRAGIUM"
-album: "Black Seed of Bestiality"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/crurifragium-black_seed_of_bestiality.jpg"
-thumbnailImage: "/images/covers/crurifragium-black_seed_of_bestiality-thumb.jpg"
 actualPrice: $17.00
+album: Black Seed of Bestiality
+artist: CRURIFRAGIUM
+categories:
+- Vinyl
+date: '2021-06-26T15:22:44'
+draft: false
+images:
+- /images/covers/crurifragium-black_seed_of_bestiality.jpg
 inStock: true
+thumbnailImage: /images/covers/crurifragium-black_seed_of_bestiality-thumb.jpg
+title: CRURIFRAGIUM - Black Seed of Bestiality
 ---
 
 ## Vinyl

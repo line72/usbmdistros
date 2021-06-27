@@ -1,16 +1,16 @@
 ---
-title: "Manipulator - Voidbound"
-date: 2021-06-22T16:40:41
-draft: false
-artist: "Manipulator"
-album: "Voidbound"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/manipulator-voidbound.jpg"
-thumbnailImage: "/images/covers/manipulator-voidbound-thumb.jpg"
 actualPrice: $17.00
+album: Voidbound
+artist: Manipulator
+categories:
+- Vinyl
+date: '2021-06-26T15:22:50'
+draft: false
+images:
+- /images/covers/manipulator-voidbound.jpg
 inStock: true
+thumbnailImage: /images/covers/manipulator-voidbound-thumb.jpg
+title: Manipulator - Voidbound
 ---
 
 ## Vinyl

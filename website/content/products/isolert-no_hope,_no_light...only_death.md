@@ -1,16 +1,16 @@
 ---
-title: "Isolert - No Hope, No Light...Only Death"
-date: 2021-06-13T12:22:24
-draft: false
-artist: "Isolert"
-album: "No Hope, No Light...Only Death"
-categories:
-    - Tape
-images:
-    - "/images/covers/isolert-no_hope,_no_light...only_death.jpg"
-thumbnailImage: "/images/covers/isolert-no_hope,_no_light...only_death-thumb.jpg"
 actualPrice: $6.00
+album: No Hope, No Light...Only Death
+artist: Isolert
+categories:
+- Tape
+date: '2021-06-26T15:16:27'
+draft: false
+images:
+- /images/covers/isolert-no_hope,_no_light...only_death.jpg
 inStock: true
+thumbnailImage: /images/covers/isolert-no_hope,_no_light...only_death-thumb.jpg
+title: Isolert - No Hope, No Light...Only Death
 ---
 
 ## Tape

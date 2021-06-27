@@ -1,16 +1,16 @@
 ---
-title: "Helcaraxë - The Last Battle"
-date: 2021-06-22T16:40:39
-draft: false
-artist: "Helcaraxë"
-album: "The Last Battle"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/helcaraxë-the_last_battle.jpg"
-thumbnailImage: "/images/covers/helcaraxë-the_last_battle-thumb.jpg"
 actualPrice: $17.00
+album: The Last Battle
+artist: "Helcarax\xEB"
+categories:
+- Vinyl
+date: '2021-06-26T15:22:48'
+draft: false
+images:
+- "/images/covers/helcarax\xEB-the_last_battle.jpg"
 inStock: true
+thumbnailImage: "/images/covers/helcarax\xEB-the_last_battle-thumb.jpg"
+title: "Helcarax\xEB - The Last Battle"
 ---
 
 ## Vinyl

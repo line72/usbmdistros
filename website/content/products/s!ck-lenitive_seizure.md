@@ -1,16 +1,16 @@
 ---
-title: "S!Ck - Lenitive Seizure"
-date: 2021-06-13T12:22:20
-draft: false
-artist: "S!Ck"
-album: "Lenitive Seizure"
-categories:
-    - Tape
-images:
-    - "/images/covers/s!ck-lenitive_seizure.jpg"
-thumbnailImage: "/images/covers/s!ck-lenitive_seizure-thumb.jpg"
 actualPrice: $7.00
+album: Lenitive Seizure
+artist: S!Ck
+categories:
+- Tape
+date: '2021-06-26T15:16:23'
+draft: false
+images:
+- /images/covers/s!ck-lenitive_seizure.jpg
 inStock: true
+thumbnailImage: /images/covers/s!ck-lenitive_seizure-thumb.jpg
+title: S!Ck - Lenitive Seizure
 ---
 
 ## Tape

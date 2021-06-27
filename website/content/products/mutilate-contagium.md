@@ -1,17 +1,17 @@
 ---
-title: "Mutilate - Contagium"
-date: 2021-06-22T16:41:01
-draft: false
-artist: "Mutilate"
-album: "Contagium"
-categories:
-    - Vinyl
-    - CD
-images:
-    - "/images/covers/mutilate-contagium.jpg"
-thumbnailImage: "/images/covers/mutilate-contagium-thumb.jpg"
 actualPrice: $10.00 - 17.00
+album: Contagium
+artist: Mutilate
+categories:
+- Vinyl
+- CD
+date: '2021-06-26T15:23:11'
+draft: false
+images:
+- /images/covers/mutilate-contagium.jpg
 inStock: true
+thumbnailImage: /images/covers/mutilate-contagium-thumb.jpg
+title: Mutilate - Contagium
 ---
 
 ## Vinyl

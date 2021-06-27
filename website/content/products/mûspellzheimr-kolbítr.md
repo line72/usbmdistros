@@ -1,17 +1,17 @@
 ---
-title: "Mûspellzheimr - Kolbítr"
-date: 2021-06-12T14:07:59
-draft: false
-artist: "Mûspellzheimr"
-album: "Kolbítr"
-categories:
-    - Vinyl
-    - CD
-images:
-    - "/images/covers/mûspellzheimr-kolbítr.jpg"
-thumbnailImage: "/images/covers/mûspellzheimr-kolbítr-thumb.jpg"
 actualPrice: $12.00 - 20.00
+album: "Kolb\xEDtr"
+artist: "M\xFBspellzheimr"
+categories:
+- Vinyl
+- CD
+date: '2021-06-26T15:03:08'
+draft: false
+images:
+- "/images/covers/m\xFBspellzheimr-kolb\xEDtr.jpg"
 inStock: true
+thumbnailImage: "/images/covers/m\xFBspellzheimr-kolb\xEDtr-thumb.jpg"
+title: "M\xFBspellzheimr - Kolb\xEDtr"
 ---
 
 ## Vinyl

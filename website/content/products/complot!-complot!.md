@@ -1,16 +1,16 @@
 ---
-title: "Complot! - Complot!"
-date: 2021-06-22T16:40:35
-draft: false
-artist: "Complot!"
-album: "Complot!"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/complot!-complot!.jpg"
-thumbnailImage: "/images/covers/complot!-complot!-thumb.jpg"
 actualPrice: $20.00
+album: Complot!
+artist: Complot!
+categories:
+- Vinyl
+date: '2021-06-26T15:22:44'
+draft: false
+images:
+- /images/covers/complot!-complot!.jpg
 inStock: true
+thumbnailImage: /images/covers/complot!-complot!-thumb.jpg
+title: Complot! - Complot!
 ---
 
 ## Vinyl

@@ -1,17 +1,17 @@
 ---
-title: "Impurity - Satanic Metal Kingdom"
-date: 2021-06-22T16:40:59
-draft: false
-artist: "Impurity"
-album: "Satanic Metal Kingdom"
-categories:
-    - Vinyl
-    - CD
-images:
-    - "/images/covers/impurity-satanic_metal_kingdom.jpg"
-thumbnailImage: "/images/covers/impurity-satanic_metal_kingdom-thumb.jpg"
 actualPrice: $10.00 - 17.00
+album: Satanic Metal Kingdom
+artist: Impurity
+categories:
+- Vinyl
+- CD
+date: '2021-06-26T15:23:09'
+draft: false
+images:
+- /images/covers/impurity-satanic_metal_kingdom.jpg
 inStock: true
+thumbnailImage: /images/covers/impurity-satanic_metal_kingdom-thumb.jpg
+title: Impurity - Satanic Metal Kingdom
 ---
 
 ## Vinyl

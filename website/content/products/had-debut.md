@@ -1,16 +1,16 @@
 ---
-title: "HAD - Debut"
-date: 2021-06-22T16:40:38
-draft: false
-artist: "HAD"
-album: "Debut"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/had-debut.jpg"
-thumbnailImage: "/images/covers/had-debut-thumb.jpg"
 actualPrice: $20.00
+album: Debut
+artist: HAD
+categories:
+- Vinyl
+date: '2021-06-26T15:22:48'
+draft: false
+images:
+- /images/covers/had-debut.jpg
 inStock: true
+thumbnailImage: /images/covers/had-debut-thumb.jpg
+title: HAD - Debut
 ---
 
 ## Vinyl

@@ -1,16 +1,16 @@
 ---
-title: "Avenger II - Killer Elite"
-date: 2021-06-22T16:40:33
-draft: false
-artist: "Avenger II"
-album: "Killer Elite"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/avenger_ii-killer_elite.jpg"
-thumbnailImage: "/images/covers/avenger_ii-killer_elite-thumb.jpg"
 actualPrice: $50.00
+album: Killer Elite
+artist: Avenger II
+categories:
+- Vinyl
+date: '2021-06-26T15:22:42'
+draft: false
+images:
+- /images/covers/avenger_ii-killer_elite.jpg
 inStock: true
+thumbnailImage: /images/covers/avenger_ii-killer_elite-thumb.jpg
+title: Avenger II - Killer Elite
 ---
 
 ## Vinyl

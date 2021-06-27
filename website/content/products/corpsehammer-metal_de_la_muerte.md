@@ -1,16 +1,16 @@
 ---
-title: "Corpsehammer - Metal de La Muerte"
-date: 2021-06-22T16:40:35
-draft: false
-artist: "Corpsehammer"
-album: "Metal de La Muerte"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/corpsehammer-metal_de_la_muerte.jpg"
-thumbnailImage: "/images/covers/corpsehammer-metal_de_la_muerte-thumb.jpg"
 actualPrice: $20.00
+album: Metal de La Muerte
+artist: Corpsehammer
+categories:
+- Vinyl
+date: '2021-06-26T15:22:44'
+draft: false
+images:
+- /images/covers/corpsehammer-metal_de_la_muerte.jpg
 inStock: true
+thumbnailImage: /images/covers/corpsehammer-metal_de_la_muerte-thumb.jpg
+title: Corpsehammer - Metal de La Muerte
 ---
 
 ## Vinyl

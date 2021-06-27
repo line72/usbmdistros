@@ -1,16 +1,16 @@
 ---
-title: "Khragkh - Ersatz"
-date: 2021-06-13T12:22:23
-draft: false
-artist: "Khragkh"
-album: "Ersatz"
-categories:
-    - Tape
-images:
-    - "/images/covers/khragkh-ersatz.jpg"
-thumbnailImage: "/images/covers/khragkh-ersatz-thumb.jpg"
 actualPrice: $4.00
+album: Ersatz
+artist: Khragkh
+categories:
+- Tape
+date: '2021-06-26T15:16:26'
+draft: false
+images:
+- /images/covers/khragkh-ersatz.jpg
 inStock: true
+thumbnailImage: /images/covers/khragkh-ersatz-thumb.jpg
+title: Khragkh - Ersatz
 ---
 
 ## Tape

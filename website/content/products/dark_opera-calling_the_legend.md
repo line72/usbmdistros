@@ -1,16 +1,16 @@
 ---
-title: "Dark Opera - Calling the Legend"
-date: 2021-06-22T16:40:35
-draft: false
-artist: "Dark Opera"
-album: "Calling the Legend"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/dark_opera-calling_the_legend.jpg"
-thumbnailImage: "/images/covers/dark_opera-calling_the_legend-thumb.jpg"
 actualPrice: $20.00
+album: Calling the Legend
+artist: Dark Opera
+categories:
+- Vinyl
+date: '2021-06-26T15:22:44'
+draft: false
+images:
+- /images/covers/dark_opera-calling_the_legend.jpg
 inStock: true
+thumbnailImage: /images/covers/dark_opera-calling_the_legend-thumb.jpg
+title: Dark Opera - Calling the Legend
 ---
 
 ## Vinyl

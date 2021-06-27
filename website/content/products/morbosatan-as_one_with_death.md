@@ -1,16 +1,16 @@
 ---
-title: "Morbosatan - As One With Death"
-date: 2021-06-13T12:22:18
-draft: false
-artist: "Morbosatan"
-album: "As One With Death"
-categories:
-    - Tape
-images:
-    - "/images/covers/morbosatan-as_one_with_death.jpg"
-thumbnailImage: "/images/covers/morbosatan-as_one_with_death-thumb.jpg"
 actualPrice: $8.50
+album: As One With Death
+artist: Morbosatan
+categories:
+- Tape
+date: '2021-06-26T15:16:22'
+draft: false
+images:
+- /images/covers/morbosatan-as_one_with_death.jpg
 inStock: true
+thumbnailImage: /images/covers/morbosatan-as_one_with_death-thumb.jpg
+title: Morbosatan - As One With Death
 ---
 
 ## Tape

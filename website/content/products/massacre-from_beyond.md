@@ -1,16 +1,16 @@
 ---
-title: "Massacre - From Beyond"
-date: 2021-06-22T16:40:41
-draft: false
-artist: "Massacre"
-album: "From Beyond"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/massacre-from_beyond.jpg"
-thumbnailImage: "/images/covers/massacre-from_beyond-thumb.jpg"
 actualPrice: $27.00
+album: From Beyond
+artist: Massacre
+categories:
+- Vinyl
+date: '2021-06-26T15:22:51'
+draft: false
+images:
+- /images/covers/massacre-from_beyond.jpg
 inStock: true
+thumbnailImage: /images/covers/massacre-from_beyond-thumb.jpg
+title: Massacre - From Beyond
 ---
 
 ## Vinyl

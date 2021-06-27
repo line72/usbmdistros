@@ -1,16 +1,16 @@
 ---
-title: "Evil Warriors - Schattenbringer"
-date: 2021-06-22T16:40:37
-draft: false
-artist: "Evil Warriors"
-album: "Schattenbringer"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/evil_warriors-schattenbringer.jpg"
-thumbnailImage: "/images/covers/evil_warriors-schattenbringer-thumb.jpg"
 actualPrice: $17.00
+album: Schattenbringer
+artist: Evil Warriors
+categories:
+- Vinyl
+date: '2021-06-26T15:22:46'
+draft: false
+images:
+- /images/covers/evil_warriors-schattenbringer.jpg
 inStock: true
+thumbnailImage: /images/covers/evil_warriors-schattenbringer-thumb.jpg
+title: Evil Warriors - Schattenbringer
 ---
 
 ## Vinyl

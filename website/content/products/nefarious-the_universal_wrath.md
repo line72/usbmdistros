@@ -1,16 +1,16 @@
 ---
-title: "Nefarious - The Universal Wrath"
-date: 2021-06-22T16:40:42
-draft: false
-artist: "Nefarious"
-album: "The Universal Wrath"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/nefarious-the_universal_wrath.jpg"
-thumbnailImage: "/images/covers/nefarious-the_universal_wrath-thumb.jpg"
 actualPrice: $17.00
+album: The Universal Wrath
+artist: Nefarious
+categories:
+- Vinyl
+date: '2021-06-26T15:22:52'
+draft: false
+images:
+- /images/covers/nefarious-the_universal_wrath.jpg
 inStock: true
+thumbnailImage: /images/covers/nefarious-the_universal_wrath-thumb.jpg
+title: Nefarious - The Universal Wrath
 ---
 
 ## Vinyl

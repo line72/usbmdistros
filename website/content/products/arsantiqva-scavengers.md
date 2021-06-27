@@ -1,16 +1,16 @@
 ---
-title: "Arsantiqva - Scavengers"
-date: 2021-06-22T16:40:33
-draft: false
-artist: "Arsantiqva"
-album: "Scavengers"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/arsantiqva-scavengers.jpg"
-thumbnailImage: "/images/covers/arsantiqva-scavengers-thumb.jpg"
 actualPrice: $20.00
+album: Scavengers
+artist: Arsantiqva
+categories:
+- Vinyl
+date: '2021-06-26T15:22:42'
+draft: false
+images:
+- /images/covers/arsantiqva-scavengers.jpg
 inStock: true
+thumbnailImage: /images/covers/arsantiqva-scavengers-thumb.jpg
+title: Arsantiqva - Scavengers
 ---
 
 ## Vinyl

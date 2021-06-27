@@ -1,16 +1,16 @@
 ---
-title: "Forward - Against Their Insanity"
-date: 2021-06-22T16:40:37
-draft: false
-artist: "Forward"
-album: "Against Their Insanity"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/forward-against_their_insanity.jpg"
-thumbnailImage: "/images/covers/forward-against_their_insanity-thumb.jpg"
 actualPrice: $17.00
+album: Against Their Insanity
+artist: Forward
+categories:
+- Vinyl
+date: '2021-06-26T15:22:47'
+draft: false
+images:
+- /images/covers/forward-against_their_insanity.jpg
 inStock: true
+thumbnailImage: /images/covers/forward-against_their_insanity-thumb.jpg
+title: Forward - Against Their Insanity
 ---
 
 ## Vinyl

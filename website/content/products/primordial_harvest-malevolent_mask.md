@@ -1,16 +1,16 @@
 ---
-title: "Primordial Harvest - Malevolent Mask"
-date: 2021-06-13T12:22:21
-draft: false
-artist: "Primordial Harvest"
-album: "Malevolent Mask"
-categories:
-    - Tape
-images:
-    - "/images/covers/primordial_harvest-malevolent_mask.jpg"
-thumbnailImage: "/images/covers/primordial_harvest-malevolent_mask-thumb.jpg"
 actualPrice: $7.00
+album: Malevolent Mask
+artist: Primordial Harvest
+categories:
+- Tape
+date: '2021-06-26T15:16:24'
+draft: false
+images:
+- /images/covers/primordial_harvest-malevolent_mask.jpg
 inStock: true
+thumbnailImage: /images/covers/primordial_harvest-malevolent_mask-thumb.jpg
+title: Primordial Harvest - Malevolent Mask
 ---
 
 ## Tape

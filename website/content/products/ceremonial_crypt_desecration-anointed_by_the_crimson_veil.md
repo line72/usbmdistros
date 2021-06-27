@@ -1,16 +1,16 @@
 ---
-title: "Ceremonial Crypt Desecration - Anointed by the Crimson Veil"
-date: 2021-06-12T14:07:51
-draft: false
-artist: "Ceremonial Crypt Desecration"
-album: "Anointed by the Crimson Veil"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/ceremonial_crypt_desecration-anointed_by_the_crimson_veil.jpg"
-thumbnailImage: "/images/covers/ceremonial_crypt_desecration-anointed_by_the_crimson_veil-thumb.jpg"
 actualPrice: $25.00
+album: Anointed by the Crimson Veil
+artist: Ceremonial Crypt Desecration
+categories:
+- Vinyl
+date: '2021-06-26T15:02:54'
+draft: false
+images:
+- /images/covers/ceremonial_crypt_desecration-anointed_by_the_crimson_veil.jpg
 inStock: true
+thumbnailImage: /images/covers/ceremonial_crypt_desecration-anointed_by_the_crimson_veil-thumb.jpg
+title: Ceremonial Crypt Desecration - Anointed by the Crimson Veil
 ---
 
 ## Vinyl

@@ -1,16 +1,16 @@
 ---
-title: "Ab Imo Pectore - The Dissociative Path"
-date: 2021-06-22T16:40:31
-draft: false
-artist: "Ab Imo Pectore"
-album: "The Dissociative Path"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/ab_imo_pectore-the_dissociative_path.jpg"
-thumbnailImage: "/images/covers/ab_imo_pectore-the_dissociative_path-thumb.jpg"
 actualPrice: $17.00
+album: The Dissociative Path
+artist: Ab Imo Pectore
+categories:
+- Vinyl
+date: '2021-06-26T15:22:41'
+draft: false
+images:
+- /images/covers/ab_imo_pectore-the_dissociative_path.jpg
 inStock: true
+thumbnailImage: /images/covers/ab_imo_pectore-the_dissociative_path-thumb.jpg
+title: Ab Imo Pectore - The Dissociative Path
 ---
 
 ## Vinyl

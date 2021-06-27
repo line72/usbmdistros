@@ -1,16 +1,16 @@
 ---
-title: "Cultes Des Ghoules - Angel Of Poison And Death"
-date: 2021-06-22T16:40:35
-draft: false
-artist: "Cultes Des Ghoules"
-album: "Angel Of Poison And Death"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/cultes_des_ghoules-angel_of_poison_and_death.jpg"
-thumbnailImage: "/images/covers/cultes_des_ghoules-angel_of_poison_and_death-thumb.jpg"
 actualPrice: $20.00
+album: Angel Of Poison And Death
+artist: Cultes Des Ghoules
+categories:
+- Vinyl
+date: '2021-06-26T15:22:44'
+draft: false
+images:
+- /images/covers/cultes_des_ghoules-angel_of_poison_and_death.jpg
 inStock: true
+thumbnailImage: /images/covers/cultes_des_ghoules-angel_of_poison_and_death-thumb.jpg
+title: Cultes Des Ghoules - Angel Of Poison And Death
 ---
 
 ## Vinyl

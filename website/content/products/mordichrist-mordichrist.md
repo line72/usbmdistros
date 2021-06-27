@@ -1,16 +1,16 @@
 ---
-title: "Mordichrist - Mordichrist"
-date: 2021-06-22T16:40:41
-draft: false
-artist: "Mordichrist"
-album: "Mordichrist"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/mordichrist-mordichrist.jpg"
-thumbnailImage: "/images/covers/mordichrist-mordichrist-thumb.jpg"
 actualPrice: $15.00
+album: Mordichrist
+artist: Mordichrist
+categories:
+- Vinyl
+date: '2021-06-26T15:22:51'
+draft: false
+images:
+- /images/covers/mordichrist-mordichrist.jpg
 inStock: true
+thumbnailImage: /images/covers/mordichrist-mordichrist-thumb.jpg
+title: Mordichrist - Mordichrist
 ---
 
 ## Vinyl

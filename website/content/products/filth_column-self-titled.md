@@ -1,16 +1,16 @@
 ---
-title: "Filth Column - Self-Titled"
-date: 2021-06-13T12:22:23
-draft: false
-artist: "Filth Column"
-album: "Self-Titled"
-categories:
-    - Tape
-images:
-    - "/images/covers/filth_column-self-titled.jpg"
-thumbnailImage: "/images/covers/filth_column-self-titled-thumb.jpg"
 actualPrice: $5.00
+album: Self-Titled
+artist: Filth Column
+categories:
+- Tape
+date: '2021-06-26T15:16:26'
+draft: false
+images:
+- /images/covers/filth_column-self-titled.jpg
 inStock: true
+thumbnailImage: /images/covers/filth_column-self-titled-thumb.jpg
+title: Filth Column - Self-Titled
 ---
 
 ## Tape

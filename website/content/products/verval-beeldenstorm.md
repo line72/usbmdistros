@@ -1,20 +1,17 @@
 ---
-title: "Verval - Beeldenstorm"
-date: 2021-06-22T16:41:14
-draft: false
-artist: "Verval"
-album: "Beeldenstorm"
+actualPrice: $8.00
+album: BEELDENSTORM
+artist: Verval
 categories:
-    - Tape
-    - Cassette
+- Cassette
+date: '2021-06-26T15:23:24'
+draft: false
 images:
-    - "/images/covers/verval-beeldenstorm.jpg"
-thumbnailImage: "/images/covers/verval-beeldenstorm-thumb.jpg"
-actualPrice: $7.50 - 8.00
+- /images/covers/verval-beeldenstorm.jpg
 inStock: true
+thumbnailImage: /images/covers/verval-beeldenstorm-thumb.jpg
+title: Verval - BEELDENSTORM
 ---
 
-## Tape
-* Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/30869773-verval-beeldenstorm) for $7.50
 ## Cassette
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=10566&sort=pd.name&order=ASC) for $8.00

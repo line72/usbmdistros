@@ -1,17 +1,17 @@
 ---
-title: "LUSTRE - The Ashes of Light"
-date: 2021-06-22T16:41:00
-draft: false
-artist: "LUSTRE"
-album: "The Ashes of Light"
-categories:
-    - Vinyl
-    - CD
-images:
-    - "/images/covers/lustre-the_ashes_of_light.jpg"
-thumbnailImage: "/images/covers/lustre-the_ashes_of_light-thumb.jpg"
 actualPrice: $12.00 - 22.00
+album: The Ashes of Light
+artist: Lustre
+categories:
+- Vinyl
+- CD
+date: '2021-06-26T15:23:10'
+draft: false
+images:
+- /images/covers/lustre-the_ashes_of_light.jpg
 inStock: true
+thumbnailImage: /images/covers/lustre-the_ashes_of_light-thumb.jpg
+title: Lustre - The Ashes of Light
 ---
 
 ## Vinyl

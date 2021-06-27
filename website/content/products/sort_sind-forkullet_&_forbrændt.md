@@ -1,16 +1,16 @@
 ---
-title: "Sort Sind - Forkullet & Forbrændt"
-date: 2021-06-13T12:22:20
-draft: false
-artist: "Sort Sind"
-album: "Forkullet & Forbrændt"
-categories:
-    - Tape
-images:
-    - "/images/covers/sort_sind-forkullet_&_forbrændt.jpg"
-thumbnailImage: "/images/covers/sort_sind-forkullet_&_forbrændt-thumb.jpg"
 actualPrice: $8.50
+album: "Forkullet & Forbr\xE6ndt"
+artist: Sort Sind
+categories:
+- Tape
+date: '2021-06-26T15:16:23'
+draft: false
+images:
+- "/images/covers/sort_sind-forkullet_&_forbr\xE6ndt.jpg"
 inStock: true
+thumbnailImage: "/images/covers/sort_sind-forkullet_&_forbr\xE6ndt-thumb.jpg"
+title: "Sort Sind - Forkullet & Forbr\xE6ndt"
 ---
 
 ## Tape

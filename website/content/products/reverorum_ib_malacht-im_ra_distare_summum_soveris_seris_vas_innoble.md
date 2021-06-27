@@ -1,16 +1,16 @@
 ---
-title: "Reverorum ib Malacht - Im Ra Distare Summum Soveris Seris Vas Innoble"
-date: 2021-06-22T16:40:44
-draft: false
-artist: "Reverorum ib Malacht"
-album: "Im Ra Distare Summum Soveris Seris Vas Innoble"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/reverorum_ib_malacht-im_ra_distare_summum_soveris_seris_vas_innoble.jpg"
-thumbnailImage: "/images/covers/reverorum_ib_malacht-im_ra_distare_summum_soveris_seris_vas_innoble-thumb.jpg"
 actualPrice: $22.00 - 25.00
+album: Im Ra Distare Summum Soveris Seris Vas Innoble
+artist: Reverorum ib Malacht
+categories:
+- Vinyl
+date: '2021-06-26T15:22:54'
+draft: false
+images:
+- /images/covers/reverorum_ib_malacht-im_ra_distare_summum_soveris_seris_vas_innoble.jpg
 inStock: true
+thumbnailImage: /images/covers/reverorum_ib_malacht-im_ra_distare_summum_soveris_seris_vas_innoble-thumb.jpg
+title: Reverorum ib Malacht - Im Ra Distare Summum Soveris Seris Vas Innoble
 ---
 
 ## Vinyl

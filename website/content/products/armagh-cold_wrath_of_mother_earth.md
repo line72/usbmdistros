@@ -1,17 +1,17 @@
 ---
-title: "Armagh - Cold Wrath Of Mother Earth"
-date: 2021-06-22T16:41:08
-draft: false
-artist: "Armagh"
-album: "Cold Wrath Of Mother Earth"
-categories:
-    - Tape
-    - Cassette
-images:
-    - "/images/covers/armagh-cold_wrath_of_mother_earth.jpg"
-thumbnailImage: "/images/covers/armagh-cold_wrath_of_mother_earth-thumb.jpg"
 actualPrice: $6.00 - 9.00
+album: Cold Wrath Of Mother Earth
+artist: Armagh
+categories:
+- Tape
+- Cassette
+date: '2021-06-26T15:23:19'
+draft: false
+images:
+- /images/covers/armagh-cold_wrath_of_mother_earth.jpg
 inStock: true
+thumbnailImage: /images/covers/armagh-cold_wrath_of_mother_earth-thumb.jpg
+title: Armagh - Cold Wrath Of Mother Earth
 ---
 
 ## Tape

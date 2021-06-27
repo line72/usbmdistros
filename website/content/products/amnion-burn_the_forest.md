@@ -1,16 +1,16 @@
 ---
-title: "Amnion - Burn The Forest"
-date: 2021-06-22T16:40:49
-draft: false
-artist: "Amnion"
-album: "Burn The Forest"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/amnion-burn_the_forest.jpg"
-thumbnailImage: "/images/covers/amnion-burn_the_forest-thumb.jpg"
 actualPrice: $6.00
+album: Burn The Forest
+artist: Amnion
+categories:
+- Vinyl
+date: '2021-06-26T15:22:59'
+draft: false
+images:
+- /images/covers/amnion-burn_the_forest.jpg
 inStock: true
+thumbnailImage: /images/covers/amnion-burn_the_forest-thumb.jpg
+title: Amnion - Burn The Forest
 ---
 
 ## Vinyl

@@ -1,16 +1,16 @@
 ---
-title: "Absorption / Odockh - Split"
-date: 2021-06-13T12:22:22
-draft: false
-artist: "Absorption / Odockh"
-album: "Split"
-categories:
-    - Tape
-images:
-    - "/images/covers/absorption_-_odockh-split.jpg"
-thumbnailImage: "/images/covers/absorption_-_odockh-split-thumb.jpg"
 actualPrice: $5.50
+album: Split
+artist: Absorption / Odockh
+categories:
+- Tape
+date: '2021-06-26T15:16:25'
+draft: false
+images:
+- /images/covers/absorption_-_odockh-split.jpg
 inStock: true
+thumbnailImage: /images/covers/absorption_-_odockh-split-thumb.jpg
+title: Absorption / Odockh - Split
 ---
 
 ## Tape

@@ -1,16 +1,16 @@
 ---
-title: "Naillung - Evaluate​​.​​Execute."
-date: 2021-06-13T12:22:20
-draft: false
-artist: "Naillung"
-album: "Evaluate​​.​​Execute."
-categories:
-    - Tape
-images:
-    - "/images/covers/naillung-evaluate​​.​​execute..jpg"
-thumbnailImage: "/images/covers/naillung-evaluate​​.​​execute.-thumb.jpg"
 actualPrice: $8.00
+album: "Evaluate\u200B\u200B.\u200B\u200BExecute."
+artist: Naillung
+categories:
+- Tape
+date: '2021-06-26T15:16:23'
+draft: false
+images:
+- "/images/covers/naillung-evaluate\u200B\u200B.\u200B\u200Bexecute..jpg"
 inStock: true
+thumbnailImage: "/images/covers/naillung-evaluate\u200B\u200B.\u200B\u200Bexecute.-thumb.jpg"
+title: "Naillung - Evaluate\u200B\u200B.\u200B\u200BExecute."
 ---
 
 ## Tape

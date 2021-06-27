@@ -1,16 +1,16 @@
 ---
-title: "EKG - Doom"
-date: 2021-06-22T16:40:36
-draft: false
-artist: "EKG"
-album: "Doom"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/ekg-doom.jpg"
-thumbnailImage: "/images/covers/ekg-doom-thumb.jpg"
 actualPrice: $25.00
+album: Doom
+artist: EKG
+categories:
+- Vinyl
+date: '2021-06-26T15:22:46'
+draft: false
+images:
+- /images/covers/ekg-doom.jpg
 inStock: true
+thumbnailImage: /images/covers/ekg-doom-thumb.jpg
+title: EKG - Doom
 ---
 
 ## Vinyl

@@ -1,16 +1,16 @@
 ---
-title: "Marduk - Nightwing"
-date: 2021-06-22T16:40:41
-draft: false
-artist: "Marduk"
-album: "Nightwing"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/marduk-nightwing.jpg"
-thumbnailImage: "/images/covers/marduk-nightwing-thumb.jpg"
 actualPrice: $20.00
+album: Nightwing
+artist: Marduk
+categories:
+- Vinyl
+date: '2021-06-26T15:22:51'
+draft: false
+images:
+- /images/covers/marduk-nightwing.jpg
 inStock: true
+thumbnailImage: /images/covers/marduk-nightwing-thumb.jpg
+title: Marduk - Nightwing
 ---
 
 ## Vinyl

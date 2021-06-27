@@ -1,18 +1,18 @@
 ---
-title: "Spiker - Heavy Metal Macht"
-date: 2021-06-22T16:41:05
-draft: false
-artist: "Spiker"
-album: "Heavy Metal Macht"
-categories:
-    - Vinyl
-    - Tape
-    - CD
-images:
-    - "/images/covers/spiker-heavy_metal_macht.jpg"
-thumbnailImage: "/images/covers/spiker-heavy_metal_macht-thumb.jpg"
 actualPrice: $4.50 - 20.00
+album: Heavy Metal Macht
+artist: Spiker
+categories:
+- Vinyl
+- Tape
+- CD
+date: '2021-06-26T15:23:15'
+draft: false
+images:
+- /images/covers/spiker-heavy_metal_macht.jpg
 inStock: true
+thumbnailImage: /images/covers/spiker-heavy_metal_macht-thumb.jpg
+title: Spiker - Heavy Metal Macht
 ---
 
 ## Vinyl

@@ -1,16 +1,16 @@
 ---
-title: "Black Mass Pervertor - Golden Stream From The Summerlands"
-date: 2021-06-13T12:22:22
-draft: false
-artist: "Black Mass Pervertor"
-album: "Golden Stream From The Summerlands"
-categories:
-    - Tape
-images:
-    - "/images/covers/black_mass_pervertor-golden_stream_from_the_summerlands.jpg"
-thumbnailImage: "/images/covers/black_mass_pervertor-golden_stream_from_the_summerlands-thumb.jpg"
 actualPrice: $5.00
+album: Golden Stream From The Summerlands
+artist: Black Mass Pervertor
+categories:
+- Tape
+date: '2021-06-26T15:16:25'
+draft: false
+images:
+- /images/covers/black_mass_pervertor-golden_stream_from_the_summerlands.jpg
 inStock: true
+thumbnailImage: /images/covers/black_mass_pervertor-golden_stream_from_the_summerlands-thumb.jpg
+title: Black Mass Pervertor - Golden Stream From The Summerlands
 ---
 
 ## Tape

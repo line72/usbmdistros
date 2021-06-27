@@ -1,17 +1,17 @@
 ---
-title: "Arkona - Age Of Capricorn"
-date: 2021-06-12T14:11:52
-draft: false
-artist: "Arkona"
-album: "Age Of Capricorn"
-categories:
-    - Vinyl
-    - CD
-images:
-    - "/images/covers/arkona-age_of_capricorn.jpg"
-thumbnailImage: "/images/covers/arkona-age_of_capricorn-thumb.jpg"
 actualPrice: $9.99 - 22.99
+album: Age Of Capricorn
+artist: Arkona
+categories:
+- Vinyl
+- CD
+date: '2021-06-26T15:15:51'
+draft: false
+images:
+- /images/covers/arkona-age_of_capricorn.jpg
 inStock: true
+thumbnailImage: /images/covers/arkona-age_of_capricorn-thumb.jpg
+title: Arkona - Age Of Capricorn
 ---
 
 ## Vinyl

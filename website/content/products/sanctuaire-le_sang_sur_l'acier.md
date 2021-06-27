@@ -1,16 +1,16 @@
 ---
-title: "Sanctuaire - Le Sang sur l'Acier"
-date: 2021-06-22T16:41:04
-draft: false
-artist: "Sanctuaire"
-album: "Le Sang sur l'Acier"
-categories:
-    - CD
-images:
-    - "/images/covers/sanctuaire-le_sang_sur_l'acier.jpg"
-thumbnailImage: "/images/covers/sanctuaire-le_sang_sur_l'acier-thumb.jpg"
 actualPrice: $10.00 - 12.00
+album: Le Sang sur l'Acier
+artist: Sanctuaire
+categories:
+- CD
+date: '2021-06-26T15:23:14'
+draft: false
+images:
+- /images/covers/sanctuaire-le_sang_sur_l'acier.jpg
 inStock: true
+thumbnailImage: /images/covers/sanctuaire-le_sang_sur_l'acier-thumb.jpg
+title: Sanctuaire - Le Sang sur l'Acier
 ---
 
 ## CD

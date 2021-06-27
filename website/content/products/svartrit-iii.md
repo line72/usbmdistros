@@ -1,17 +1,17 @@
 ---
-title: "Svartrit - III"
-date: 2021-06-12T14:07:58
-draft: false
-artist: "Svartrit"
-album: "III"
-categories:
-    - Vinyl
-    - CD
-images:
-    - "/images/covers/svartrit-iii.jpg"
-thumbnailImage: "/images/covers/svartrit-iii-thumb.jpg"
 actualPrice: $14.00 - 30.00
+album: III
+artist: Svartrit
+categories:
+- Vinyl
+- CD
+date: '2021-06-26T15:03:08'
+draft: false
+images:
+- /images/covers/svartrit-iii.jpg
 inStock: true
+thumbnailImage: /images/covers/svartrit-iii-thumb.jpg
+title: Svartrit - III
 ---
 
 ## Vinyl

@@ -1,16 +1,16 @@
 ---
-title: "Grift / Saiva - Skarprättaren / Sjiedvárre"
-date: 2021-06-22T16:40:38
-draft: false
-artist: "Grift / Saiva"
-album: "Skarprättaren / Sjiedvárre"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/grift_-_saiva-skarprättaren_-_sjiedvárre.jpg"
-thumbnailImage: "/images/covers/grift_-_saiva-skarprättaren_-_sjiedvárre-thumb.jpg"
 actualPrice: $17.00
+album: "Skarpr\xE4ttaren / Sjiedv\xE1rre"
+artist: Grift / Saiva
+categories:
+- Vinyl
+date: '2021-06-26T15:22:48'
+draft: false
+images:
+- "/images/covers/grift_-_saiva-skarpr\xE4ttaren_-_sjiedv\xE1rre.jpg"
 inStock: true
+thumbnailImage: "/images/covers/grift_-_saiva-skarpr\xE4ttaren_-_sjiedv\xE1rre-thumb.jpg"
+title: "Grift / Saiva - Skarpr\xE4ttaren / Sjiedv\xE1rre"
 ---
 
 ## Vinyl

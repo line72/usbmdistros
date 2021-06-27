@@ -1,16 +1,16 @@
 ---
-title: "Infernal Body - Barren Land"
-date: 2021-06-13T12:22:24
-draft: false
-artist: "Infernal Body"
-album: "Barren Land"
-categories:
-    - Tape
-images:
-    - "/images/covers/infernal_body-barren_land.jpg"
-thumbnailImage: "/images/covers/infernal_body-barren_land-thumb.jpg"
 actualPrice: $4.00
+album: Barren Land
+artist: Infernal Body
+categories:
+- Tape
+date: '2021-06-26T15:16:26'
+draft: false
+images:
+- /images/covers/infernal_body-barren_land.jpg
 inStock: true
+thumbnailImage: /images/covers/infernal_body-barren_land-thumb.jpg
+title: Infernal Body - Barren Land
 ---
 
 ## Tape

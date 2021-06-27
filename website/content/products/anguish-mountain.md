@@ -1,16 +1,16 @@
 ---
-title: "Anguish - Mountain"
-date: 2021-06-22T16:40:32
-draft: false
-artist: "Anguish"
-album: "Mountain"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/anguish-mountain.jpg"
-thumbnailImage: "/images/covers/anguish-mountain-thumb.jpg"
 actualPrice: $17.00
+album: Mountain
+artist: Anguish
+categories:
+- Vinyl
+date: '2021-06-26T15:22:42'
+draft: false
+images:
+- /images/covers/anguish-mountain.jpg
 inStock: true
+thumbnailImage: /images/covers/anguish-mountain-thumb.jpg
+title: Anguish - Mountain
 ---
 
 ## Vinyl

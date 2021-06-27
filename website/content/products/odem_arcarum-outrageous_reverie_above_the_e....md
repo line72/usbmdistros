@@ -1,16 +1,16 @@
 ---
-title: "Odem Arcarum - Outrageous Reverie Above the E..."
-date: 2021-06-22T16:40:43
-draft: false
-artist: "Odem Arcarum"
-album: "Outrageous Reverie Above the E..."
-categories:
-    - Vinyl
-images:
-    - "/images/covers/odem_arcarum-outrageous_reverie_above_the_e....jpg"
-thumbnailImage: "/images/covers/odem_arcarum-outrageous_reverie_above_the_e...-thumb.jpg"
 actualPrice: $15.00
+album: Outrageous Reverie Above the E...
+artist: Odem Arcarum
+categories:
+- Vinyl
+date: '2021-06-26T15:22:52'
+draft: false
+images:
+- /images/covers/odem_arcarum-outrageous_reverie_above_the_e....jpg
 inStock: true
+thumbnailImage: /images/covers/odem_arcarum-outrageous_reverie_above_the_e...-thumb.jpg
+title: Odem Arcarum - Outrageous Reverie Above the E...
 ---
 
 ## Vinyl

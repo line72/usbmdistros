@@ -1,16 +1,16 @@
 ---
-title: "Pulsations - Self-Titled"
-date: 2021-06-13T12:22:20
-draft: false
-artist: "Pulsations"
-album: "Self-Titled"
-categories:
-    - Tape
-images:
-    - "/images/covers/pulsations-self-titled.jpg"
-thumbnailImage: "/images/covers/pulsations-self-titled-thumb.jpg"
 actualPrice: $8.50
+album: Self-Titled
+artist: Pulsations
+categories:
+- Tape
+date: '2021-06-26T15:16:23'
+draft: false
+images:
+- /images/covers/pulsations-self-titled.jpg
 inStock: true
+thumbnailImage: /images/covers/pulsations-self-titled-thumb.jpg
+title: Pulsations - Self-Titled
 ---
 
 ## Tape

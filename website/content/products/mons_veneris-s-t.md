@@ -1,17 +1,17 @@
 ---
-title: "Mons Veneris - s/t"
-date: 2021-06-12T14:07:56
-draft: false
-artist: "Mons Veneris"
-album: "s/t"
-categories:
-    - Vinyl
-    - Tape
-images:
-    - "/images/covers/mons_veneris-s-t.jpg"
-thumbnailImage: "/images/covers/mons_veneris-s-t-thumb.jpg"
 actualPrice: $10.00 - 27.00
+album: s/t
+artist: Mons Veneris
+categories:
+- Vinyl
+- Tape
+date: '2021-06-26T15:03:02'
+draft: false
+images:
+- /images/covers/mons_veneris-s-t.jpg
 inStock: true
+thumbnailImage: /images/covers/mons_veneris-s-t-thumb.jpg
+title: Mons Veneris - s/t
 ---
 
 ## Vinyl

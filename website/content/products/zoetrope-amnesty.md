@@ -1,0 +1,17 @@
+---
+actualPrice: $25.00
+album: Amnesty
+artist: Zoetrope
+categories:
+- Vinyl
+date: '2021-06-26T15:22:59'
+draft: false
+images:
+- /images/covers/zoetrope-amnesty.jpg
+inStock: true
+thumbnailImage: /images/covers/zoetrope-amnesty-thumb.jpg
+title: Zoetrope - Amnesty
+---
+
+## Vinyl
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=4700&sort=pd.name&order=ASC) for $25.00

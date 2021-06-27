@@ -1,17 +1,17 @@
 ---
-title: "Tenebrae In Perpetuum - Anorexia Obscura"
-date: 2021-06-12T14:11:53
-draft: false
-artist: "Tenebrae In Perpetuum"
-album: "Anorexia Obscura"
-categories:
-    - Vinyl
-    - CD
-images:
-    - "/images/covers/tenebrae_in_perpetuum-anorexia_obscura.jpg"
-thumbnailImage: "/images/covers/tenebrae_in_perpetuum-anorexia_obscura-thumb.jpg"
 actualPrice: $10.99 - 39.99
+album: Anorexia Obscura
+artist: Tenebrae In Perpetuum
+categories:
+- Vinyl
+- CD
+date: '2021-06-26T15:15:52'
+draft: false
+images:
+- /images/covers/tenebrae_in_perpetuum-anorexia_obscura.jpg
 inStock: true
+thumbnailImage: /images/covers/tenebrae_in_perpetuum-anorexia_obscura-thumb.jpg
+title: Tenebrae In Perpetuum - Anorexia Obscura
 ---
 
 ## Vinyl

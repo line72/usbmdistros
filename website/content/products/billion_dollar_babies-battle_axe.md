@@ -1,16 +1,16 @@
 ---
-title: "Billion Dollar Babies - Battle Axe"
-date: 2021-06-22T16:40:33
-draft: false
-artist: "Billion Dollar Babies"
-album: "Battle Axe"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/billion_dollar_babies-battle_axe.jpg"
-thumbnailImage: "/images/covers/billion_dollar_babies-battle_axe-thumb.jpg"
 actualPrice: $17.00
+album: Battle Axe
+artist: Billion Dollar Babies
+categories:
+- Vinyl
+date: '2021-06-26T15:22:43'
+draft: false
+images:
+- /images/covers/billion_dollar_babies-battle_axe.jpg
 inStock: true
+thumbnailImage: /images/covers/billion_dollar_babies-battle_axe-thumb.jpg
+title: Billion Dollar Babies - Battle Axe
 ---
 
 ## Vinyl

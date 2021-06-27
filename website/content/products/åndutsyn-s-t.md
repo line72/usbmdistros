@@ -1,16 +1,16 @@
 ---
-title: "Åndutsyn - s/t"
-date: 2021-06-12T14:07:51
-draft: false
-artist: "Åndutsyn"
-album: "s/t"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/åndutsyn-s-t.jpg"
-thumbnailImage: "/images/covers/åndutsyn-s-t-thumb.jpg"
 actualPrice: $28.00
+album: s/t
+artist: "\xC5ndutsyn"
+categories:
+- Vinyl
+date: '2021-06-26T15:02:54'
+draft: false
+images:
+- "/images/covers/\xE5ndutsyn-s-t.jpg"
 inStock: true
+thumbnailImage: "/images/covers/\xE5ndutsyn-s-t-thumb.jpg"
+title: "\xC5ndutsyn - s/t"
 ---
 
 ## Vinyl

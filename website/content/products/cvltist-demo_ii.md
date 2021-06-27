@@ -1,16 +1,16 @@
 ---
-title: "Cvltist - Demo Ii"
-date: 2021-06-13T12:22:23
-draft: false
-artist: "Cvltist"
-album: "Demo Ii"
-categories:
-    - Tape
-images:
-    - "/images/covers/cvltist-demo_ii.jpg"
-thumbnailImage: "/images/covers/cvltist-demo_ii-thumb.jpg"
 actualPrice: $4.00
+album: Demo Ii
+artist: Cvltist
+categories:
+- Tape
+date: '2021-06-26T15:16:26'
+draft: false
+images:
+- /images/covers/cvltist-demo_ii.jpg
 inStock: true
+thumbnailImage: /images/covers/cvltist-demo_ii-thumb.jpg
+title: Cvltist - Demo Ii
 ---
 
 ## Tape

@@ -1,16 +1,16 @@
 ---
-title: "Behexen - By The Blessing Of Satan"
-date: 2021-06-12T14:11:52
-draft: false
-artist: "Behexen"
-album: "By The Blessing Of Satan"
-categories:
-    - CD
-images:
-    - "/images/covers/behexen-by_the_blessing_of_satan.jpg"
-thumbnailImage: "/images/covers/behexen-by_the_blessing_of_satan-thumb.jpg"
 actualPrice: $10.99
+album: By The Blessing Of Satan
+artist: Behexen
+categories:
+- CD
+date: '2021-06-26T15:15:52'
+draft: false
+images:
+- /images/covers/behexen-by_the_blessing_of_satan.jpg
 inStock: true
+thumbnailImage: /images/covers/behexen-by_the_blessing_of_satan-thumb.jpg
+title: Behexen - By The Blessing Of Satan
 ---
 
 ## CD

@@ -1,16 +1,16 @@
 ---
-title: "Dauþuz (Dauthuz) - In finstrer Teufe"
-date: 2021-06-22T16:40:35
-draft: false
-artist: "Dauþuz (Dauthuz)"
-album: "In finstrer Teufe"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/dauþuz_(dauthuz)-in_finstrer_teufe.jpg"
-thumbnailImage: "/images/covers/dauþuz_(dauthuz)-in_finstrer_teufe-thumb.jpg"
 actualPrice: $25.00
+album: In finstrer Teufe
+artist: "Dau\xFEuz (Dauthuz)"
+categories:
+- Vinyl
+date: '2021-06-26T15:22:45'
+draft: false
+images:
+- "/images/covers/dau\xFEuz_(dauthuz)-in_finstrer_teufe.jpg"
 inStock: true
+thumbnailImage: "/images/covers/dau\xFEuz_(dauthuz)-in_finstrer_teufe-thumb.jpg"
+title: "Dau\xFEuz (Dauthuz) - In finstrer Teufe"
 ---
 
 ## Vinyl

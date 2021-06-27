@@ -1,17 +1,17 @@
 ---
-title: "Dråpsnatt - I Denna Skog"
-date: 2021-06-22T16:40:56
-draft: false
-artist: "Dråpsnatt"
-album: "I Denna Skog"
-categories:
-    - Vinyl
-    - CD
-images:
-    - "/images/covers/dråpsnatt-i_denna_skog.jpg"
-thumbnailImage: "/images/covers/dråpsnatt-i_denna_skog-thumb.jpg"
 actualPrice: $12.00 - 22.00
+album: I Denna Skog
+artist: "Dr\xE5psnatt"
+categories:
+- Vinyl
+- CD
+date: '2021-06-26T15:23:06'
+draft: false
+images:
+- "/images/covers/dr\xE5psnatt-i_denna_skog.jpg"
 inStock: true
+thumbnailImage: "/images/covers/dr\xE5psnatt-i_denna_skog-thumb.jpg"
+title: "Dr\xE5psnatt - I Denna Skog"
 ---
 
 ## Vinyl

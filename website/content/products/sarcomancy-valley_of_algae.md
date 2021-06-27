@@ -1,16 +1,16 @@
 ---
-title: "Sarcomancy - Valley Of Algae"
-date: 2021-06-13T12:22:23
-draft: false
-artist: "Sarcomancy"
-album: "Valley Of Algae"
-categories:
-    - Tape
-images:
-    - "/images/covers/sarcomancy-valley_of_algae.jpg"
-thumbnailImage: "/images/covers/sarcomancy-valley_of_algae-thumb.jpg"
 actualPrice: $6.50
+album: Valley Of Algae
+artist: Sarcomancy
+categories:
+- Tape
+date: '2021-06-26T15:16:26'
+draft: false
+images:
+- /images/covers/sarcomancy-valley_of_algae.jpg
 inStock: true
+thumbnailImage: /images/covers/sarcomancy-valley_of_algae-thumb.jpg
+title: Sarcomancy - Valley Of Algae
 ---
 
 ## Tape

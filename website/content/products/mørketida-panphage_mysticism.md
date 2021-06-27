@@ -1,16 +1,16 @@
 ---
-title: "Mørketida - Panphage Mysticism"
-date: 2021-06-22T16:40:42
-draft: false
-artist: "Mørketida"
-album: "Panphage Mysticism"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/mørketida-panphage_mysticism.jpg"
-thumbnailImage: "/images/covers/mørketida-panphage_mysticism-thumb.jpg"
 actualPrice: $20.00
+album: Panphage Mysticism
+artist: "M\xF8rketida"
+categories:
+- Vinyl
+date: '2021-06-26T15:22:52'
+draft: false
+images:
+- "/images/covers/m\xF8rketida-panphage_mysticism.jpg"
 inStock: true
+thumbnailImage: "/images/covers/m\xF8rketida-panphage_mysticism-thumb.jpg"
+title: "M\xF8rketida - Panphage Mysticism"
 ---
 
 ## Vinyl

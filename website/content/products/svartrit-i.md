@@ -1,17 +1,17 @@
 ---
-title: "Svartrit - I"
-date: 2021-06-12T14:07:58
-draft: false
-artist: "Svartrit"
-album: "I"
-categories:
-    - Vinyl
-    - CD
-images:
-    - "/images/covers/svartrit-i.jpg"
-thumbnailImage: "/images/covers/svartrit-i-thumb.jpg"
 actualPrice: $14.00 - 30.00
+album: I
+artist: Svartrit
+categories:
+- Vinyl
+- CD
+date: '2021-06-26T15:03:08'
+draft: false
+images:
+- /images/covers/svartrit-i.jpg
 inStock: true
+thumbnailImage: /images/covers/svartrit-i-thumb.jpg
+title: Svartrit - I
 ---
 
 ## Vinyl

@@ -1,16 +1,16 @@
 ---
-title: "Ordem Satânica / Niteris - Sepulchral Silence of Satan"
-date: 2021-06-12T14:07:52
-draft: false
-artist: "Ordem Satânica / Niteris"
-album: "Sepulchral Silence of Satan"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/ordem_satânica_-_niteris-sepulchral_silence_of_satan.jpg"
-thumbnailImage: "/images/covers/ordem_satânica_-_niteris-sepulchral_silence_of_satan-thumb.jpg"
 actualPrice: $25.00
+album: Sepulchral Silence of Satan
+artist: "Ordem Sat\xE2nica / Niteris"
+categories:
+- Vinyl
+date: '2021-06-26T15:02:55'
+draft: false
+images:
+- "/images/covers/ordem_sat\xE2nica_-_niteris-sepulchral_silence_of_satan.jpg"
 inStock: true
+thumbnailImage: "/images/covers/ordem_sat\xE2nica_-_niteris-sepulchral_silence_of_satan-thumb.jpg"
+title: "Ordem Sat\xE2nica / Niteris - Sepulchral Silence of Satan"
 ---
 
 ## Vinyl

@@ -1,16 +1,16 @@
 ---
-title: "Horn - Turm am Hang"
-date: 2021-06-22T16:40:39
-draft: false
-artist: "Horn"
-album: "Turm am Hang"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/horn-turm_am_hang.jpg"
-thumbnailImage: "/images/covers/horn-turm_am_hang-thumb.jpg"
 actualPrice: $20.00
+album: Turm am Hang
+artist: Horn
+categories:
+- Vinyl
+date: '2021-06-26T15:22:49'
+draft: false
+images:
+- /images/covers/horn-turm_am_hang.jpg
 inStock: true
+thumbnailImage: /images/covers/horn-turm_am_hang-thumb.jpg
+title: Horn - Turm am Hang
 ---
 
 ## Vinyl

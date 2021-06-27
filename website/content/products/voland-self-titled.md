@@ -1,16 +1,16 @@
 ---
-title: "Voland - Self-Titled"
-date: 2021-06-13T12:22:23
-draft: false
-artist: "Voland"
-album: "Self-Titled"
-categories:
-    - Tape
-images:
-    - "/images/covers/voland-self-titled.jpg"
-thumbnailImage: "/images/covers/voland-self-titled-thumb.jpg"
 actualPrice: $3.00
+album: Self-Titled
+artist: Voland
+categories:
+- Tape
+date: '2021-06-26T15:16:25'
+draft: false
+images:
+- /images/covers/voland-self-titled.jpg
 inStock: true
+thumbnailImage: /images/covers/voland-self-titled-thumb.jpg
+title: Voland - Self-Titled
 ---
 
 ## Tape

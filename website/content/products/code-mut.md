@@ -1,16 +1,16 @@
 ---
-title: "Code - MUT"
-date: 2021-06-22T16:40:35
-draft: false
-artist: "Code"
-album: "MUT"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/code-mut.jpg"
-thumbnailImage: "/images/covers/code-mut-thumb.jpg"
 actualPrice: $17.00
+album: MUT
+artist: Code
+categories:
+- Vinyl
+date: '2021-06-26T15:22:44'
+draft: false
+images:
+- /images/covers/code-mut.jpg
 inStock: true
+thumbnailImage: /images/covers/code-mut-thumb.jpg
+title: Code - MUT
 ---
 
 ## Vinyl

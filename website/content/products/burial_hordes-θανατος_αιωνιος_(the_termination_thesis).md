@@ -1,16 +1,20 @@
 ---
-title: "Burial Hordes - ΘΑΝΑΤΟΣ ΑΙΩΝΙΟΣ (The Termination Thesis)"
-date: 2021-06-22T16:40:34
-draft: false
-artist: "Burial Hordes"
-album: "ΘΑΝΑΤΟΣ ΑΙΩΝΙΟΣ (The Termination Thesis)"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/burial_hordes-θανατος_αιωνιος_(the_termination_thesis).jpg"
-thumbnailImage: "/images/covers/burial_hordes-θανατος_αιωνιος_(the_termination_thesis)-thumb.jpg"
 actualPrice: $17.00
+album: "\u0398\u0391\u039D\u0391\u03A4\u039F\u03A3 \u0391\u0399\u03A9\u039D\u0399\u039F\
+  \u03A3 (The Termination Thesis)"
+artist: Burial Hordes
+categories:
+- Vinyl
+date: '2021-06-26T15:22:43'
+draft: false
+images:
+- "/images/covers/burial_hordes-\u03B8\u03B1\u03BD\u03B1\u03C4\u03BF\u03C2_\u03B1\u03B9\
+  \u03C9\u03BD\u03B9\u03BF\u03C2_(the_termination_thesis).jpg"
 inStock: true
+thumbnailImage: "/images/covers/burial_hordes-\u03B8\u03B1\u03BD\u03B1\u03C4\u03BF\
+  \u03C2_\u03B1\u03B9\u03C9\u03BD\u03B9\u03BF\u03C2_(the_termination_thesis)-thumb.jpg"
+title: "Burial Hordes - \u0398\u0391\u039D\u0391\u03A4\u039F\u03A3 \u0391\u0399\u03A9\
+  \u039D\u0399\u039F\u03A3 (The Termination Thesis)"
 ---
 
 ## Vinyl

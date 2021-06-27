@@ -1,16 +1,16 @@
 ---
-title: "Engraved - Mourning In Funereal Miasma"
-date: 2021-06-13T12:22:18
-draft: false
-artist: "Engraved"
-album: "Mourning In Funereal Miasma"
-categories:
-    - Tape
-images:
-    - "/images/covers/engraved-mourning_in_funereal_miasma.jpg"
-thumbnailImage: "/images/covers/engraved-mourning_in_funereal_miasma-thumb.jpg"
 actualPrice: $9.00
+album: Mourning In Funereal Miasma
+artist: Engraved
+categories:
+- Tape
+date: '2021-06-26T15:16:21'
+draft: false
+images:
+- /images/covers/engraved-mourning_in_funereal_miasma.jpg
 inStock: true
+thumbnailImage: /images/covers/engraved-mourning_in_funereal_miasma-thumb.jpg
+title: Engraved - Mourning In Funereal Miasma
 ---
 
 ## Tape

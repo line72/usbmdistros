@@ -1,16 +1,16 @@
 ---
-title: "Gloria Diaboli - Libation Unto He..."
-date: 2021-06-22T16:40:38
-draft: false
-artist: "Gloria Diaboli"
-album: "Libation Unto He..."
-categories:
-    - Vinyl
-images:
-    - "/images/covers/gloria_diaboli-libation_unto_he....jpg"
-thumbnailImage: "/images/covers/gloria_diaboli-libation_unto_he...-thumb.jpg"
 actualPrice: $20.00
+album: Libation Unto He...
+artist: Gloria Diaboli
+categories:
+- Vinyl
+date: '2021-06-26T15:22:47'
+draft: false
+images:
+- /images/covers/gloria_diaboli-libation_unto_he....jpg
 inStock: true
+thumbnailImage: /images/covers/gloria_diaboli-libation_unto_he...-thumb.jpg
+title: Gloria Diaboli - Libation Unto He...
 ---
 
 ## Vinyl

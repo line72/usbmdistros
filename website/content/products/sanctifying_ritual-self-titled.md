@@ -1,16 +1,16 @@
 ---
-title: "Sanctifying Ritual - Self-Titled"
-date: 2021-06-13T12:22:19
-draft: false
-artist: "Sanctifying Ritual"
-album: "Self-Titled"
-categories:
-    - CD
-images:
-    - "/images/covers/sanctifying_ritual-self-titled.jpg"
-thumbnailImage: "/images/covers/sanctifying_ritual-self-titled-thumb.jpg"
 actualPrice: $9.50
+album: Self-Titled
+artist: Sanctifying Ritual
+categories:
+- CD
+date: '2021-06-26T15:16:22'
+draft: false
+images:
+- /images/covers/sanctifying_ritual-self-titled.jpg
 inStock: true
+thumbnailImage: /images/covers/sanctifying_ritual-self-titled-thumb.jpg
+title: Sanctifying Ritual - Self-Titled
 ---
 
 ## CD

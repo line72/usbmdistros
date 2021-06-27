@@ -1,17 +1,17 @@
 ---
-title: "Blackosh - Kurvy, Chlast, Black Metal"
-date: 2021-06-22T16:41:09
-draft: false
-artist: "Blackosh"
-album: "Kurvy, Chlast, Black Metal"
-categories:
-    - Vinyl
-    - Cassette
-images:
-    - "/images/covers/blackosh-kurvy,_chlast,_black_metal.jpg"
-thumbnailImage: "/images/covers/blackosh-kurvy,_chlast,_black_metal-thumb.jpg"
 actualPrice: $6.00 - 17.00
+album: Kurvy, Chlast, Black Metal
+artist: Blackosh
+categories:
+- Vinyl
+- Cassette
+date: '2021-06-26T15:23:19'
+draft: false
+images:
+- /images/covers/blackosh-kurvy,_chlast,_black_metal.jpg
 inStock: true
+thumbnailImage: /images/covers/blackosh-kurvy,_chlast,_black_metal-thumb.jpg
+title: Blackosh - Kurvy, Chlast, Black Metal
 ---
 
 ## Vinyl

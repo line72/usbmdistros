@@ -1,16 +1,16 @@
 ---
-title: "Axis of Advance - Landline"
-date: 2021-06-22T16:40:33
-draft: false
-artist: "Axis of Advance"
-album: "Landline"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/axis_of_advance-landline.jpg"
-thumbnailImage: "/images/covers/axis_of_advance-landline-thumb.jpg"
 actualPrice: $17.00
+album: Landline
+artist: Axis of Advance
+categories:
+- Vinyl
+date: '2021-06-26T15:22:42'
+draft: false
+images:
+- /images/covers/axis_of_advance-landline.jpg
 inStock: true
+thumbnailImage: /images/covers/axis_of_advance-landline-thumb.jpg
+title: Axis of Advance - Landline
 ---
 
 ## Vinyl

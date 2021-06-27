@@ -1,16 +1,16 @@
 ---
-title: "Abruptum - Evil Genius"
-date: 2021-06-22T16:40:32
-draft: false
-artist: "Abruptum"
-album: "Evil Genius"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/abruptum-evil_genius.jpg"
-thumbnailImage: "/images/covers/abruptum-evil_genius-thumb.jpg"
 actualPrice: $25.00
+album: Evil Genius
+artist: Abruptum
+categories:
+- Vinyl
+date: '2021-06-26T15:22:41'
+draft: false
+images:
+- /images/covers/abruptum-evil_genius.jpg
 inStock: true
+thumbnailImage: /images/covers/abruptum-evil_genius-thumb.jpg
+title: Abruptum - Evil Genius
 ---
 
 ## Vinyl

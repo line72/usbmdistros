@@ -1,16 +1,16 @@
 ---
-title: "Outface - Friendly Green"
-date: 2021-06-22T16:40:43
-draft: false
-artist: "Outface"
-album: "Friendly Green"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/outface-friendly_green.jpg"
-thumbnailImage: "/images/covers/outface-friendly_green-thumb.jpg"
 actualPrice: $10.00
+album: Friendly Green
+artist: Outface
+categories:
+- Vinyl
+date: '2021-06-26T15:22:53'
+draft: false
+images:
+- /images/covers/outface-friendly_green.jpg
 inStock: true
+thumbnailImage: /images/covers/outface-friendly_green-thumb.jpg
+title: Outface - Friendly Green
 ---
 
 ## Vinyl

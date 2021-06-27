@@ -1,16 +1,16 @@
 ---
-title: "Nocternity - A Fallen Unicorn"
-date: 2021-06-22T16:40:42
-draft: false
-artist: "Nocternity"
-album: "A Fallen Unicorn"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/nocternity-a_fallen_unicorn.jpg"
-thumbnailImage: "/images/covers/nocternity-a_fallen_unicorn-thumb.jpg"
 actualPrice: $25.00
+album: A Fallen Unicorn
+artist: Nocternity
+categories:
+- Vinyl
+date: '2021-06-26T15:22:52'
+draft: false
+images:
+- /images/covers/nocternity-a_fallen_unicorn.jpg
 inStock: true
+thumbnailImage: /images/covers/nocternity-a_fallen_unicorn-thumb.jpg
+title: Nocternity - A Fallen Unicorn
 ---
 
 ## Vinyl

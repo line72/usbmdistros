@@ -1,17 +1,17 @@
 ---
-title: "Vihameditaatio - Kuoleman Silmän Kontinuumi"
-date: 2021-06-22T16:41:14
-draft: false
-artist: "Vihameditaatio"
-album: "Kuoleman Silmän Kontinuumi"
-categories:
-    - Tape
-    - Cassette
-images:
-    - "/images/covers/vihameditaatio-kuoleman_silmän_kontinuumi.jpg"
-thumbnailImage: "/images/covers/vihameditaatio-kuoleman_silmän_kontinuumi-thumb.jpg"
 actualPrice: $8.00 - 9.50
+album: "Kuoleman Silm\xE4n Kontinuumi"
+artist: Vihameditaatio
+categories:
+- Tape
+- Cassette
+date: '2021-06-26T15:23:24'
+draft: false
+images:
+- "/images/covers/vihameditaatio-kuoleman_silm\xE4n_kontinuumi.jpg"
 inStock: true
+thumbnailImage: "/images/covers/vihameditaatio-kuoleman_silm\xE4n_kontinuumi-thumb.jpg"
+title: "Vihameditaatio - Kuoleman Silm\xE4n Kontinuumi"
 ---
 
 ## Tape

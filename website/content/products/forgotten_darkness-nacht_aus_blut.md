@@ -1,17 +1,17 @@
 ---
-title: "Forgotten Darkness - Nacht Aus Blut"
-date: 2021-06-22T16:40:57
-draft: false
-artist: "Forgotten Darkness"
-album: "Nacht Aus Blut"
-categories:
-    - Vinyl
-    - CD
-images:
-    - "/images/covers/forgotten_darkness-nacht_aus_blut.jpg"
-thumbnailImage: "/images/covers/forgotten_darkness-nacht_aus_blut-thumb.jpg"
 actualPrice: $8.00 - 20.00
+album: Nacht Aus Blut
+artist: Forgotten Darkness
+categories:
+- Vinyl
+- CD
+date: '2021-06-26T15:23:07'
+draft: false
+images:
+- /images/covers/forgotten_darkness-nacht_aus_blut.jpg
 inStock: true
+thumbnailImage: /images/covers/forgotten_darkness-nacht_aus_blut-thumb.jpg
+title: Forgotten Darkness - Nacht Aus Blut
 ---
 
 ## Vinyl

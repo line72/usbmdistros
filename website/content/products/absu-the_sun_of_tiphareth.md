@@ -1,16 +1,16 @@
 ---
-title: "Absu - The Sun of Tiphareth"
-date: 2021-06-22T16:40:32
-draft: false
-artist: "Absu"
-album: "The Sun of Tiphareth"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/absu-the_sun_of_tiphareth.jpg"
-thumbnailImage: "/images/covers/absu-the_sun_of_tiphareth-thumb.jpg"
 actualPrice: $20.00
+album: The Sun of Tiphareth
+artist: Absu
+categories:
+- Vinyl
+date: '2021-06-26T15:22:41'
+draft: false
+images:
+- /images/covers/absu-the_sun_of_tiphareth.jpg
 inStock: true
+thumbnailImage: /images/covers/absu-the_sun_of_tiphareth-thumb.jpg
+title: Absu - The Sun of Tiphareth
 ---
 
 ## Vinyl

@@ -1,17 +1,17 @@
 ---
-title: "Saqra's Cult - The 9th King"
-date: 2021-06-22T16:41:04
-draft: false
-artist: "Saqra's Cult"
-album: "The 9th King"
-categories:
-    - Vinyl
-    - CD
-images:
-    - "/images/covers/saqra's_cult-the_9th_king.jpg"
-thumbnailImage: "/images/covers/saqra's_cult-the_9th_king-thumb.jpg"
 actualPrice: $10.00 - 20.00
+album: The 9th King
+artist: Saqra's Cult
+categories:
+- Vinyl
+- CD
+date: '2021-06-26T15:23:14'
+draft: false
+images:
+- /images/covers/saqra's_cult-the_9th_king.jpg
 inStock: true
+thumbnailImage: /images/covers/saqra's_cult-the_9th_king-thumb.jpg
+title: Saqra's Cult - The 9th King
 ---
 
 ## Vinyl

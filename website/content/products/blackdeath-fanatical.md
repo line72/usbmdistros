@@ -1,16 +1,16 @@
 ---
-title: "Blackdeath - Fanatical"
-date: 2021-06-13T12:22:18
-draft: false
-artist: "Blackdeath"
-album: "Fanatical"
-categories:
-    - Tape
-images:
-    - "/images/covers/blackdeath-fanatical.jpg"
-thumbnailImage: "/images/covers/blackdeath-fanatical-thumb.jpg"
 actualPrice: $5.00
+album: Fanatical
+artist: Blackdeath
+categories:
+- Tape
+date: '2021-06-26T15:16:21'
+draft: false
+images:
+- /images/covers/blackdeath-fanatical.jpg
 inStock: true
+thumbnailImage: /images/covers/blackdeath-fanatical-thumb.jpg
+title: Blackdeath - Fanatical
 ---
 
 ## Tape

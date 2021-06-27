@@ -1,16 +1,16 @@
 ---
-title: "Nortfalke - Eewnder de Grys Túer"
-date: 2021-06-12T14:07:51
-draft: false
-artist: "Nortfalke"
-album: "Eewnder de Grys Túer"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/nortfalke-eewnder de_grys_túer.jpg"
-thumbnailImage: "/images/covers/nortfalke-eewnder de_grys_túer-thumb.jpg"
 actualPrice: $27.00
+album: "Eewnder\_de Grys T\xFAer"
+artist: Nortfalke
+categories:
+- Vinyl
+date: '2021-06-26T15:02:54'
+draft: false
+images:
+- "/images/covers/nortfalke-eewnder\_de_grys_t\xFAer.jpg"
 inStock: true
+thumbnailImage: "/images/covers/nortfalke-eewnder\_de_grys_t\xFAer-thumb.jpg"
+title: "Nortfalke - Eewnder\_de Grys T\xFAer"
 ---
 
 ## Vinyl

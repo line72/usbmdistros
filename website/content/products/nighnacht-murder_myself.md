@@ -1,16 +1,16 @@
 ---
-title: "Nighnacht - Murder Myself"
-date: 2021-06-13T12:22:20
-draft: false
-artist: "Nighnacht"
-album: "Murder Myself"
-categories:
-    - Tape
-images:
-    - "/images/covers/nighnacht-murder_myself.jpg"
-thumbnailImage: "/images/covers/nighnacht-murder_myself-thumb.jpg"
 actualPrice: $6.00
+album: Murder Myself
+artist: Nighnacht
+categories:
+- Tape
+date: '2021-06-26T15:16:23'
+draft: false
+images:
+- /images/covers/nighnacht-murder_myself.jpg
 inStock: true
+thumbnailImage: /images/covers/nighnacht-murder_myself-thumb.jpg
+title: Nighnacht - Murder Myself
 ---
 
 ## Tape

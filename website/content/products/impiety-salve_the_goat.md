@@ -1,16 +1,16 @@
 ---
-title: "Impiety - Salve the Goat"
-date: 2021-06-22T16:40:39
-draft: false
-artist: "Impiety"
-album: "Salve the Goat"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/impiety-salve_the_goat.jpg"
-thumbnailImage: "/images/covers/impiety-salve_the_goat-thumb.jpg"
 actualPrice: $25.00
+album: Salve the Goat
+artist: Impiety
+categories:
+- Vinyl
+date: '2021-06-26T15:22:49'
+draft: false
+images:
+- /images/covers/impiety-salve_the_goat.jpg
 inStock: true
+thumbnailImage: /images/covers/impiety-salve_the_goat-thumb.jpg
+title: Impiety - Salve the Goat
 ---
 
 ## Vinyl

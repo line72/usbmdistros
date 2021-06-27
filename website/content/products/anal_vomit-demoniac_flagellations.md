@@ -1,16 +1,16 @@
 ---
-title: "Anal Vomit - Demoniac Flagellations"
-date: 2021-06-13T12:22:18
-draft: false
-artist: "Anal Vomit"
-album: "Demoniac Flagellations"
-categories:
-    - Tape
-images:
-    - "/images/covers/anal_vomit-demoniac_flagellations.jpg"
-thumbnailImage: "/images/covers/anal_vomit-demoniac_flagellations-thumb.jpg"
 actualPrice: $8.00
+album: Demoniac Flagellations
+artist: Anal Vomit
+categories:
+- Tape
+date: '2021-06-26T15:16:22'
+draft: false
+images:
+- /images/covers/anal_vomit-demoniac_flagellations.jpg
 inStock: true
+thumbnailImage: /images/covers/anal_vomit-demoniac_flagellations-thumb.jpg
+title: Anal Vomit - Demoniac Flagellations
 ---
 
 ## Tape

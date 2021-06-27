@@ -1,16 +1,16 @@
 ---
-title: "The Mist - Phantasmagoria"
-date: 2021-06-13T12:22:20
-draft: false
-artist: "The Mist"
-album: "Phantasmagoria"
-categories:
-    - Tape
-images:
-    - "/images/covers/the_mist-phantasmagoria.jpg"
-thumbnailImage: "/images/covers/the_mist-phantasmagoria-thumb.jpg"
 actualPrice: $7.50
+album: Phantasmagoria
+artist: The Mist
+categories:
+- Tape
+date: '2021-06-26T15:16:23'
+draft: false
+images:
+- /images/covers/the_mist-phantasmagoria.jpg
 inStock: true
+thumbnailImage: /images/covers/the_mist-phantasmagoria-thumb.jpg
+title: The Mist - Phantasmagoria
 ---
 
 ## Tape

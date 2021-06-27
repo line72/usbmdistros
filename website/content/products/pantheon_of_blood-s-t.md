@@ -1,16 +1,16 @@
 ---
-title: "Pantheon of Blood - s/t"
-date: 2021-06-12T14:07:54
-draft: false
-artist: "Pantheon of Blood"
-album: "s/t"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/pantheon_of_blood-s-t.jpg"
-thumbnailImage: "/images/covers/pantheon_of_blood-s-t-thumb.jpg"
 actualPrice: $8.00
+album: s/t
+artist: Pantheon of Blood
+categories:
+- Vinyl
+date: '2021-06-26T15:02:58'
+draft: false
+images:
+- /images/covers/pantheon_of_blood-s-t.jpg
 inStock: true
+thumbnailImage: /images/covers/pantheon_of_blood-s-t-thumb.jpg
+title: Pantheon of Blood - s/t
 ---
 
 ## Vinyl

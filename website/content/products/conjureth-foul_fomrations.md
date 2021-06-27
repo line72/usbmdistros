@@ -1,16 +1,16 @@
 ---
-title: "Conjureth - Foul Fomrations"
-date: 2021-06-13T12:22:19
-draft: false
-artist: "Conjureth"
-album: "Foul Fomrations"
-categories:
-    - Tape
-images:
-    - "/images/covers/conjureth-foul_fomrations.jpg"
-thumbnailImage: "/images/covers/conjureth-foul_fomrations-thumb.jpg"
 actualPrice: $6.50
+album: Foul Fomrations
+artist: Conjureth
+categories:
+- Tape
+date: '2021-06-26T15:16:22'
+draft: false
+images:
+- /images/covers/conjureth-foul_fomrations.jpg
 inStock: true
+thumbnailImage: /images/covers/conjureth-foul_fomrations-thumb.jpg
+title: Conjureth - Foul Fomrations
 ---
 
 ## Tape

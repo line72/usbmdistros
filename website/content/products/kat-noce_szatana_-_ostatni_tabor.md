@@ -1,16 +1,16 @@
 ---
-title: "Kat - Noce Szatana / Ostatni Tabor"
-date: 2021-06-22T16:40:40
-draft: false
-artist: "Kat"
-album: "Noce Szatana / Ostatni Tabor"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/kat-noce_szatana_-_ostatni_tabor.jpg"
-thumbnailImage: "/images/covers/kat-noce_szatana_-_ostatni_tabor-thumb.jpg"
 actualPrice: $50.00
+album: Noce Szatana / Ostatni Tabor
+artist: Kat
+categories:
+- Vinyl
+date: '2021-06-26T15:22:49'
+draft: false
+images:
+- /images/covers/kat-noce_szatana_-_ostatni_tabor.jpg
 inStock: true
+thumbnailImage: /images/covers/kat-noce_szatana_-_ostatni_tabor-thumb.jpg
+title: Kat - Noce Szatana / Ostatni Tabor
 ---
 
 ## Vinyl

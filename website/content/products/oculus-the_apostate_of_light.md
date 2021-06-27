@@ -1,17 +1,17 @@
 ---
-title: "Oculus - The Apostate Of Light"
-date: 2021-06-22T16:41:02
-draft: false
-artist: "Oculus"
-album: "The Apostate Of Light"
-categories:
-    - Vinyl
-    - CD
-images:
-    - "/images/covers/oculus-the_apostate_of_light.jpg"
-thumbnailImage: "/images/covers/oculus-the_apostate_of_light-thumb.jpg"
 actualPrice: $10.00 - 17.00
+album: The Apostate Of Light
+artist: Oculus
+categories:
+- Vinyl
+- CD
+date: '2021-06-26T15:23:12'
+draft: false
+images:
+- /images/covers/oculus-the_apostate_of_light.jpg
 inStock: true
+thumbnailImage: /images/covers/oculus-the_apostate_of_light-thumb.jpg
+title: Oculus - The Apostate Of Light
 ---
 
 ## Vinyl

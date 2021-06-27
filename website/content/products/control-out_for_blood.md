@@ -1,16 +1,16 @@
 ---
-title: "Control - Out for Blood"
-date: 2021-06-22T16:40:35
-draft: false
-artist: "Control"
-album: "Out for Blood"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/control-out_for_blood.jpg"
-thumbnailImage: "/images/covers/control-out_for_blood-thumb.jpg"
 actualPrice: $17.00
+album: Out for Blood
+artist: Control
+categories:
+- Vinyl
+date: '2021-06-26T15:22:44'
+draft: false
+images:
+- /images/covers/control-out_for_blood.jpg
 inStock: true
+thumbnailImage: /images/covers/control-out_for_blood-thumb.jpg
+title: Control - Out for Blood
 ---
 
 ## Vinyl

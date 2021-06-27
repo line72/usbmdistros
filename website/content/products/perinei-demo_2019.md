@@ -1,16 +1,16 @@
 ---
-title: "Perinei - Demo 2019"
-date: 2021-06-13T12:22:20
-draft: false
-artist: "Perinei"
-album: "Demo 2019"
-categories:
-    - Tape
-images:
-    - "/images/covers/perinei-demo_2019.jpg"
-thumbnailImage: "/images/covers/perinei-demo_2019-thumb.jpg"
 actualPrice: $6.00
+album: Demo 2019
+artist: Perinei
+categories:
+- Tape
+date: '2021-06-26T15:16:23'
+draft: false
+images:
+- /images/covers/perinei-demo_2019.jpg
 inStock: true
+thumbnailImage: /images/covers/perinei-demo_2019-thumb.jpg
+title: Perinei - Demo 2019
 ---
 
 ## Tape

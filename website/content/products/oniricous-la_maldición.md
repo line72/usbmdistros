@@ -1,16 +1,16 @@
 ---
-title: "Oniricous - La Maldición"
-date: 2021-06-22T16:40:43
-draft: false
-artist: "Oniricous"
-album: "La Maldición"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/oniricous-la_maldición.jpg"
-thumbnailImage: "/images/covers/oniricous-la_maldición-thumb.jpg"
 actualPrice: $17.00
+album: "La Maldici\xF3n"
+artist: Oniricous
+categories:
+- Vinyl
+date: '2021-06-26T15:22:53'
+draft: false
+images:
+- "/images/covers/oniricous-la_maldici\xF3n.jpg"
 inStock: true
+thumbnailImage: "/images/covers/oniricous-la_maldici\xF3n-thumb.jpg"
+title: "Oniricous - La Maldici\xF3n"
 ---
 
 ## Vinyl

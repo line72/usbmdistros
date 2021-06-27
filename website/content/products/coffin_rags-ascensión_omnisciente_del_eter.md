@@ -1,16 +1,16 @@
 ---
-title: "Coffin Rags - Ascensión Omnisciente Del Eter"
-date: 2021-06-13T12:22:20
-draft: false
-artist: "Coffin Rags"
-album: "Ascensión Omnisciente Del Eter"
-categories:
-    - Tape
-images:
-    - "/images/covers/coffin_rags-ascensión_omnisciente_del_eter.jpg"
-thumbnailImage: "/images/covers/coffin_rags-ascensión_omnisciente_del_eter-thumb.jpg"
 actualPrice: $8.00
+album: "Ascensi\xF3n Omnisciente Del Eter"
+artist: Coffin Rags
+categories:
+- Tape
+date: '2021-06-26T15:16:23'
+draft: false
+images:
+- "/images/covers/coffin_rags-ascensi\xF3n_omnisciente_del_eter.jpg"
 inStock: true
+thumbnailImage: "/images/covers/coffin_rags-ascensi\xF3n_omnisciente_del_eter-thumb.jpg"
+title: "Coffin Rags - Ascensi\xF3n Omnisciente Del Eter"
 ---
 
 ## Tape

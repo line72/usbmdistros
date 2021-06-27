@@ -1,16 +1,16 @@
 ---
-title: "Marduk - Panzer Division Marduk"
-date: 2021-06-12T14:04:39
-draft: false
-artist: "Marduk"
-album: "Panzer Division Marduk"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/marduk-panzer_division_marduk.jpg"
-thumbnailImage: "/images/covers/marduk-panzer_division_marduk-thumb.jpg"
 actualPrice: $24.00
+album: Panzer Division Marduk
+artist: Marduk
+categories:
+- Vinyl
+date: '2021-06-26T14:49:53'
+draft: false
+images:
+- /images/covers/marduk-panzer_division_marduk.jpg
 inStock: true
+thumbnailImage: /images/covers/marduk-panzer_division_marduk-thumb.jpg
+title: Marduk - Panzer Division Marduk
 ---
 
 ## Vinyl

@@ -1,17 +1,17 @@
 ---
-title: "Rituals Of The Dead Hand - Blood Oath"
-date: 2021-06-22T16:41:04
-draft: false
-artist: "Rituals Of The Dead Hand"
-album: "Blood Oath"
-categories:
-    - Vinyl
-    - CD
-images:
-    - "/images/covers/rituals_of_the_dead_hand-blood_oath.jpg"
-thumbnailImage: "/images/covers/rituals_of_the_dead_hand-blood_oath-thumb.jpg"
 actualPrice: $8.00 - 17.00
+album: Blood Oath
+artist: Rituals Of The Dead Hand
+categories:
+- Vinyl
+- CD
+date: '2021-06-26T15:23:14'
+draft: false
+images:
+- /images/covers/rituals_of_the_dead_hand-blood_oath.jpg
 inStock: true
+thumbnailImage: /images/covers/rituals_of_the_dead_hand-blood_oath-thumb.jpg
+title: Rituals Of The Dead Hand - Blood Oath
 ---
 
 ## Vinyl

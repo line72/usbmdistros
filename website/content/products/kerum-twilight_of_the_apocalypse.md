@@ -1,16 +1,16 @@
 ---
-title: "Kerum - Twilight Of The Apocalypse"
-date: 2021-06-22T16:40:40
-draft: false
-artist: "Kerum"
-album: "Twilight Of The Apocalypse"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/kerum-twilight_of_the_apocalypse.jpg"
-thumbnailImage: "/images/covers/kerum-twilight_of_the_apocalypse-thumb.jpg"
 actualPrice: $8.00 - 10.00
+album: Twilight Of The Apocalypse
+artist: Kerum
+categories:
+- Vinyl
+date: '2021-06-26T15:22:50'
+draft: false
+images:
+- /images/covers/kerum-twilight_of_the_apocalypse.jpg
 inStock: true
+thumbnailImage: /images/covers/kerum-twilight_of_the_apocalypse-thumb.jpg
+title: Kerum - Twilight Of The Apocalypse
 ---
 
 ## Vinyl

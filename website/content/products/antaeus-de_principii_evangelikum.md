@@ -1,16 +1,16 @@
 ---
-title: "Antaeus - De Principii Evangelikum"
-date: 2021-06-22T16:40:32
-draft: false
-artist: "Antaeus"
-album: "De Principii Evangelikum"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/antaeus-de_principii_evangelikum.jpg"
-thumbnailImage: "/images/covers/antaeus-de_principii_evangelikum-thumb.jpg"
 actualPrice: $22.00
+album: De Principii Evangelikum
+artist: Antaeus
+categories:
+- Vinyl
+date: '2021-06-26T15:22:42'
+draft: false
+images:
+- /images/covers/antaeus-de_principii_evangelikum.jpg
 inStock: true
+thumbnailImage: /images/covers/antaeus-de_principii_evangelikum-thumb.jpg
+title: Antaeus - De Principii Evangelikum
 ---
 
 ## Vinyl

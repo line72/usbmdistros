@@ -1,16 +1,16 @@
 ---
-title: "Naglfar - Principium"
-date: 2021-06-22T16:40:42
-draft: false
-artist: "Naglfar"
-album: "Principium"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/naglfar-principium.jpg"
-thumbnailImage: "/images/covers/naglfar-principium-thumb.jpg"
 actualPrice: $17.00
+album: Principium
+artist: Naglfar
+categories:
+- Vinyl
+date: '2021-06-26T15:22:52'
+draft: false
+images:
+- /images/covers/naglfar-principium.jpg
 inStock: true
+thumbnailImage: /images/covers/naglfar-principium-thumb.jpg
+title: Naglfar - Principium
 ---
 
 ## Vinyl

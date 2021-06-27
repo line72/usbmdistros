@@ -1,17 +1,17 @@
 ---
-title: "Naudiz - Wulfasa Kunja"
-date: 2021-06-22T16:41:02
-draft: false
-artist: "Naudiz"
-album: "Wulfasa Kunja"
-categories:
-    - Vinyl
-    - CD
-images:
-    - "/images/covers/naudiz-wulfasa_kunja.jpg"
-thumbnailImage: "/images/covers/naudiz-wulfasa_kunja-thumb.jpg"
 actualPrice: $8.00 - 17.00
+album: Wulfasa Kunja
+artist: Naudiz
+categories:
+- Vinyl
+- CD
+date: '2021-06-26T15:23:12'
+draft: false
+images:
+- /images/covers/naudiz-wulfasa_kunja.jpg
 inStock: true
+thumbnailImage: /images/covers/naudiz-wulfasa_kunja-thumb.jpg
+title: Naudiz - Wulfasa Kunja
 ---
 
 ## Vinyl

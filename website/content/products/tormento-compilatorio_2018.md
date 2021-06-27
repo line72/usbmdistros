@@ -1,16 +1,16 @@
 ---
-title: "Tormento - Compilatorio 2018"
-date: 2021-06-13T12:22:24
-draft: false
-artist: "Tormento"
-album: "Compilatorio 2018"
-categories:
-    - Tape
-images:
-    - "/images/covers/tormento-compilatorio_2018.jpg"
-thumbnailImage: "/images/covers/tormento-compilatorio_2018-thumb.jpg"
 actualPrice: $5.00
+album: Compilatorio 2018
+artist: Tormento
+categories:
+- Tape
+date: '2021-06-26T15:16:26'
+draft: false
+images:
+- /images/covers/tormento-compilatorio_2018.jpg
 inStock: true
+thumbnailImage: /images/covers/tormento-compilatorio_2018-thumb.jpg
+title: Tormento - Compilatorio 2018
 ---
 
 ## Tape

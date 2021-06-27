@@ -1,17 +1,17 @@
 ---
-title: "Ghoul Cult - Ghoul Cult"
-date: 2021-06-22T16:40:57
-draft: false
-artist: "Ghoul Cult"
-album: "Ghoul Cult"
-categories:
-    - Vinyl
-    - CD
-images:
-    - "/images/covers/ghoul_cult-ghoul_cult.jpg"
-thumbnailImage: "/images/covers/ghoul_cult-ghoul_cult-thumb.jpg"
 actualPrice: $12.00 - 20.00
+album: Ghoul Cult
+artist: Ghoul Cult
+categories:
+- Vinyl
+- CD
+date: '2021-06-26T15:23:07'
+draft: false
+images:
+- /images/covers/ghoul_cult-ghoul_cult.jpg
 inStock: true
+thumbnailImage: /images/covers/ghoul_cult-ghoul_cult-thumb.jpg
+title: Ghoul Cult - Ghoul Cult
 ---
 
 ## Vinyl

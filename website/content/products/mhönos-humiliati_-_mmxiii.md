@@ -1,16 +1,16 @@
 ---
-title: "Mhönos - Humiliati - MMXIII"
-date: 2021-06-22T16:40:41
-draft: false
-artist: "Mhönos"
-album: "Humiliati - MMXIII"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/mhönos-humiliati_-_mmxiii.jpg"
-thumbnailImage: "/images/covers/mhönos-humiliati_-_mmxiii-thumb.jpg"
 actualPrice: $22.00
+album: Humiliati - MMXIII
+artist: "Mh\xF6nos"
+categories:
+- Vinyl
+date: '2021-06-26T15:22:51'
+draft: false
+images:
+- "/images/covers/mh\xF6nos-humiliati_-_mmxiii.jpg"
 inStock: true
+thumbnailImage: "/images/covers/mh\xF6nos-humiliati_-_mmxiii-thumb.jpg"
+title: "Mh\xF6nos - Humiliati - MMXIII"
 ---
 
 ## Vinyl

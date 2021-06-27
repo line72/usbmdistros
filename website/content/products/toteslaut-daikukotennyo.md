@@ -1,16 +1,16 @@
 ---
-title: "Toteslaut - Daikukotennyo"
-date: 2021-06-12T14:07:53
-draft: false
-artist: "Toteslaut"
-album: "Daikukotennyo"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/toteslaut-daikukotennyo.jpg"
-thumbnailImage: "/images/covers/toteslaut-daikukotennyo-thumb.jpg"
 actualPrice: $23.00
+album: Daikukotennyo
+artist: Toteslaut
+categories:
+- Vinyl
+date: '2021-06-26T15:02:56'
+draft: false
+images:
+- /images/covers/toteslaut-daikukotennyo.jpg
 inStock: true
+thumbnailImage: /images/covers/toteslaut-daikukotennyo-thumb.jpg
+title: Toteslaut - Daikukotennyo
 ---
 
 ## Vinyl

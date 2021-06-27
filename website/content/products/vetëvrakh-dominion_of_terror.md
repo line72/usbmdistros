@@ -1,16 +1,16 @@
 ---
-title: "Vetëvrakh - Dominion of Terror"
-date: 2021-06-12T14:07:51
-draft: false
-artist: "Vetëvrakh"
-album: "Dominion of Terror"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/vetëvrakh-dominion_of_terror.jpg"
-thumbnailImage: "/images/covers/vetëvrakh-dominion_of_terror-thumb.jpg"
 actualPrice: $25.00
+album: Dominion of Terror
+artist: "Vet\xEBvrakh"
+categories:
+- Vinyl
+date: '2021-06-26T15:02:54'
+draft: false
+images:
+- "/images/covers/vet\xEBvrakh-dominion_of_terror.jpg"
 inStock: true
+thumbnailImage: "/images/covers/vet\xEBvrakh-dominion_of_terror-thumb.jpg"
+title: "Vet\xEBvrakh - Dominion of Terror"
 ---
 
 ## Vinyl

@@ -1,16 +1,16 @@
 ---
-title: "Nuclear Devastation - Take This Torch"
-date: 2021-06-13T12:22:21
-draft: false
-artist: "Nuclear Devastation"
-album: "Take This Torch"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/nuclear_devastation-take_this_torch.jpg"
-thumbnailImage: "/images/covers/nuclear_devastation-take_this_torch-thumb.jpg"
 actualPrice: $4.00
+album: Take This Torch
+artist: Nuclear Devastation
+categories:
+- Vinyl
+date: '2021-06-26T15:16:24'
+draft: false
+images:
+- /images/covers/nuclear_devastation-take_this_torch.jpg
 inStock: true
+thumbnailImage: /images/covers/nuclear_devastation-take_this_torch-thumb.jpg
+title: Nuclear Devastation - Take This Torch
 ---
 
 ## Vinyl

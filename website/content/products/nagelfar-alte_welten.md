@@ -1,16 +1,16 @@
 ---
-title: "Nagelfar - Alte Welten"
-date: 2021-06-22T16:40:42
-draft: false
-artist: "Nagelfar"
-album: "Alte Welten"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/nagelfar-alte_welten.jpg"
-thumbnailImage: "/images/covers/nagelfar-alte_welten-thumb.jpg"
 actualPrice: $35.00
+album: Alte Welten
+artist: Nagelfar
+categories:
+- Vinyl
+date: '2021-06-26T15:22:52'
+draft: false
+images:
+- /images/covers/nagelfar-alte_welten.jpg
 inStock: true
+thumbnailImage: /images/covers/nagelfar-alte_welten-thumb.jpg
+title: Nagelfar - Alte Welten
 ---
 
 ## Vinyl

@@ -1,16 +1,16 @@
 ---
-title: "Hatespirit - Not of This World"
-date: 2021-06-22T16:40:58
-draft: false
-artist: "Hatespirit"
-album: "Not of This World"
-categories:
-    - CD
-images:
-    - "/images/covers/hatespirit-not_of_this_world.jpg"
-thumbnailImage: "/images/covers/hatespirit-not_of_this_world-thumb.jpg"
 actualPrice: $10.00 - 15.00
+album: Not of This World
+artist: Hatespirit
+categories:
+- CD
+date: '2021-06-26T15:23:08'
+draft: false
+images:
+- /images/covers/hatespirit-not_of_this_world.jpg
 inStock: true
+thumbnailImage: /images/covers/hatespirit-not_of_this_world-thumb.jpg
+title: Hatespirit - Not of This World
 ---
 
 ## CD

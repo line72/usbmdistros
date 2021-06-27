@@ -1,16 +1,16 @@
 ---
-title: "Draugr - Dimensions Of Hades"
-date: 2021-06-13T12:22:23
-draft: false
-artist: "Draugr"
-album: "Dimensions Of Hades"
-categories:
-    - Tape
-images:
-    - "/images/covers/draugr-dimensions_of_hades.jpg"
-thumbnailImage: "/images/covers/draugr-dimensions_of_hades-thumb.jpg"
 actualPrice: $6.00
+album: Dimensions Of Hades
+artist: Draugr
+categories:
+- Tape
+date: '2021-06-26T15:16:26'
+draft: false
+images:
+- /images/covers/draugr-dimensions_of_hades.jpg
 inStock: true
+thumbnailImage: /images/covers/draugr-dimensions_of_hades-thumb.jpg
+title: Draugr - Dimensions Of Hades
 ---
 
 ## Tape

@@ -1,16 +1,16 @@
 ---
-title: "Cavity - Human Abjection"
-date: 2021-06-22T16:40:34
-draft: false
-artist: "Cavity"
-album: "Human Abjection"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/cavity-human_abjection.jpg"
-thumbnailImage: "/images/covers/cavity-human_abjection-thumb.jpg"
 actualPrice: $40.00
+album: Human Abjection
+artist: Cavity
+categories:
+- Vinyl
+date: '2021-06-26T15:22:44'
+draft: false
+images:
+- /images/covers/cavity-human_abjection.jpg
 inStock: true
+thumbnailImage: /images/covers/cavity-human_abjection-thumb.jpg
+title: Cavity - Human Abjection
 ---
 
 ## Vinyl

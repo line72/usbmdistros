@@ -1,17 +1,17 @@
 ---
-title: "Suffering Sights - Existential Realism"
-date: 2021-06-13T12:22:19
-draft: false
-artist: "Suffering Sights"
-album: "Existential Realism"
-categories:
-    - Tape
-    - CD
-images:
-    - "/images/covers/suffering_sights-existential_realism.jpg"
-thumbnailImage: "/images/covers/suffering_sights-existential_realism-thumb.jpg"
 actualPrice: $8.00 - 9.50
+album: Existential Realism
+artist: Suffering Sights
+categories:
+- Tape
+- CD
+date: '2021-06-26T15:16:22'
+draft: false
+images:
+- /images/covers/suffering_sights-existential_realism.jpg
 inStock: true
+thumbnailImage: /images/covers/suffering_sights-existential_realism-thumb.jpg
+title: Suffering Sights - Existential Realism
 ---
 
 ## Tape

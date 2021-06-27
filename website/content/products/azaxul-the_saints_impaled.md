@@ -1,16 +1,16 @@
 ---
-title: "Azaxul - The Saints Impaled"
-date: 2021-06-12T14:07:59
-draft: false
-artist: "Azaxul"
-album: "The Saints Impaled"
-categories:
-    - CD
-images:
-    - "/images/covers/azaxul-the_saints_impaled.jpg"
-thumbnailImage: "/images/covers/azaxul-the_saints_impaled-thumb.jpg"
 actualPrice: $13.00
+album: The Saints Impaled
+artist: Azaxul
+categories:
+- CD
+date: '2021-06-26T15:03:08'
+draft: false
+images:
+- /images/covers/azaxul-the_saints_impaled.jpg
 inStock: true
+thumbnailImage: /images/covers/azaxul-the_saints_impaled-thumb.jpg
+title: Azaxul - The Saints Impaled
 ---
 
 ## CD

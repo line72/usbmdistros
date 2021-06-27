@@ -1,16 +1,16 @@
 ---
-title: "Irkallian Oracle - Apollyon"
-date: 2021-06-22T16:40:39
-draft: false
-artist: "Irkallian Oracle"
-album: "Apollyon"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/irkallian_oracle-apollyon.jpg"
-thumbnailImage: "/images/covers/irkallian_oracle-apollyon-thumb.jpg"
 actualPrice: $25.00 - 35.00
+album: Apollyon
+artist: Irkallian Oracle
+categories:
+- Vinyl
+date: '2021-06-26T15:22:49'
+draft: false
+images:
+- /images/covers/irkallian_oracle-apollyon.jpg
 inStock: true
+thumbnailImage: /images/covers/irkallian_oracle-apollyon-thumb.jpg
+title: Irkallian Oracle - Apollyon
 ---
 
 ## Vinyl

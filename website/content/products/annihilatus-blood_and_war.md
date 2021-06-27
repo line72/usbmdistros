@@ -1,16 +1,16 @@
 ---
-title: "Annihilatus - Blood and War"
-date: 2021-06-22T16:40:32
-draft: false
-artist: "Annihilatus"
-album: "Blood and War"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/annihilatus-blood_and_war.jpg"
-thumbnailImage: "/images/covers/annihilatus-blood_and_war-thumb.jpg"
 actualPrice: $25.00
+album: Blood and War
+artist: Annihilatus
+categories:
+- Vinyl
+date: '2021-06-26T15:22:42'
+draft: false
+images:
+- /images/covers/annihilatus-blood_and_war.jpg
 inStock: true
+thumbnailImage: /images/covers/annihilatus-blood_and_war-thumb.jpg
+title: Annihilatus - Blood and War
 ---
 
 ## Vinyl

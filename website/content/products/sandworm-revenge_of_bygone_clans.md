@@ -1,17 +1,17 @@
 ---
-title: "Sandworm - Revenge of Bygone Clans"
-date: 2021-06-22T16:41:13
-draft: false
-artist: "Sandworm"
-album: "Revenge of Bygone Clans"
-categories:
-    - Vinyl
-    - Cassette
-images:
-    - "/images/covers/sandworm-revenge_of_bygone_clans.jpg"
-thumbnailImage: "/images/covers/sandworm-revenge_of_bygone_clans-thumb.jpg"
 actualPrice: $12.00 - 25.00
+album: Revenge of Bygone Clans
+artist: Sandworm
+categories:
+- Vinyl
+- Cassette
+date: '2021-06-26T15:23:23'
+draft: false
+images:
+- /images/covers/sandworm-revenge_of_bygone_clans.jpg
 inStock: true
+thumbnailImage: /images/covers/sandworm-revenge_of_bygone_clans-thumb.jpg
+title: Sandworm - Revenge of Bygone Clans
 ---
 
 ## Vinyl

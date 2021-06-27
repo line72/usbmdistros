@@ -1,16 +1,16 @@
 ---
-title: "Reverorum Ib Malacht - Demo 09"
-date: 2021-06-12T14:07:59
-draft: false
-artist: "Reverorum Ib Malacht"
-album: "Demo 09"
-categories:
-    - CD
-images:
-    - "/images/covers/reverorum_ib_malacht-demo_09.jpg"
-thumbnailImage: "/images/covers/reverorum_ib_malacht-demo_09-thumb.jpg"
 actualPrice: $12.00
+album: Demo 09
+artist: Reverorum ib Malacht
+categories:
+- CD
+date: '2021-06-26T15:03:08'
+draft: false
+images:
+- /images/covers/reverorum_ib_malacht-demo_09.jpg
 inStock: true
+thumbnailImage: /images/covers/reverorum_ib_malacht-demo_09-thumb.jpg
+title: Reverorum ib Malacht - Demo 09
 ---
 
 ## CD

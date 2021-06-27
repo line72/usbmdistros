@@ -1,16 +1,16 @@
 ---
-title: "Bactherion - The Miracle Of Death Tape"
-date: 2021-06-13T12:22:18
-draft: false
-artist: "Bactherion"
-album: "The Miracle Of Death Tape"
-categories:
-    - Tape
-images:
-    - "/images/covers/bactherion-the_miracle_of_death_tape.jpg"
-thumbnailImage: "/images/covers/bactherion-the_miracle_of_death_tape-thumb.jpg"
 actualPrice: $8.50
+album: The Miracle Of Death Tape
+artist: Bactherion
+categories:
+- Tape
+date: '2021-06-26T15:16:21'
+draft: false
+images:
+- /images/covers/bactherion-the_miracle_of_death_tape.jpg
 inStock: true
+thumbnailImage: /images/covers/bactherion-the_miracle_of_death_tape-thumb.jpg
+title: Bactherion - The Miracle Of Death Tape
 ---
 
 ## Tape

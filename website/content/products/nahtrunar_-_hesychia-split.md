@@ -1,17 +1,17 @@
 ---
-title: "Nahtrunar / Hesychia - Split"
-date: 2021-06-12T14:07:59
-draft: false
-artist: "Nahtrunar / Hesychia"
-album: "Split"
-categories:
-    - Vinyl
-    - CD
-images:
-    - "/images/covers/nahtrunar_-_hesychia-split.jpg"
-thumbnailImage: "/images/covers/nahtrunar_-_hesychia-split-thumb.jpg"
 actualPrice: $12.00 - 23.00
+album: Split
+artist: Nahtrunar / Hesychia
+categories:
+- Vinyl
+- CD
+date: '2021-06-26T15:03:08'
+draft: false
+images:
+- /images/covers/nahtrunar_-_hesychia-split.jpg
 inStock: true
+thumbnailImage: /images/covers/nahtrunar_-_hesychia-split-thumb.jpg
+title: Nahtrunar / Hesychia - Split
 ---
 
 ## Vinyl

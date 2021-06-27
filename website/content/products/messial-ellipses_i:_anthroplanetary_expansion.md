@@ -1,16 +1,16 @@
 ---
-title: "Messial - Ellipses I: Anthroplanetary Expansion"
-date: 2021-06-13T12:22:21
-draft: false
-artist: "Messial"
-album: "Ellipses I: Anthroplanetary Expansion"
-categories:
-    - Tape
-images:
-    - "/images/covers/messial-ellipses_i:_anthroplanetary_expansion.jpg"
-thumbnailImage: "/images/covers/messial-ellipses_i:_anthroplanetary_expansion-thumb.jpg"
 actualPrice: $5.00
+album: 'Ellipses I: Anthroplanetary Expansion'
+artist: Messial
+categories:
+- Tape
+date: '2021-06-26T15:16:24'
+draft: false
+images:
+- /images/covers/messial-ellipses_i:_anthroplanetary_expansion.jpg
 inStock: true
+thumbnailImage: /images/covers/messial-ellipses_i:_anthroplanetary_expansion-thumb.jpg
+title: 'Messial - Ellipses I: Anthroplanetary Expansion'
 ---
 
 ## Tape

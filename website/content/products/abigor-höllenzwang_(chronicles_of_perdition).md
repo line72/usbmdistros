@@ -1,16 +1,16 @@
 ---
-title: "Abigor - Höllenzwang (Chronicles of Perdition)"
-date: 2021-06-22T16:40:31
-draft: false
-artist: "Abigor"
-album: "Höllenzwang (Chronicles of Perdition)"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/abigor-höllenzwang_(chronicles_of_perdition).jpg"
-thumbnailImage: "/images/covers/abigor-höllenzwang_(chronicles_of_perdition)-thumb.jpg"
 actualPrice: $17.00
+album: "H\xF6llenzwang (Chronicles of Perdition)"
+artist: Abigor
+categories:
+- Vinyl
+date: '2021-06-26T15:22:41'
+draft: false
+images:
+- "/images/covers/abigor-h\xF6llenzwang_(chronicles_of_perdition).jpg"
 inStock: true
+thumbnailImage: "/images/covers/abigor-h\xF6llenzwang_(chronicles_of_perdition)-thumb.jpg"
+title: "Abigor - H\xF6llenzwang (Chronicles of Perdition)"
 ---
 
 ## Vinyl

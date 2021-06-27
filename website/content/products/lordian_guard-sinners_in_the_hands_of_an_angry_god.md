@@ -1,16 +1,16 @@
 ---
-title: "Lordian Guard - Sinners In The Hands Of An Angry God"
-date: 2021-06-22T16:40:40
-draft: false
-artist: "Lordian Guard"
-album: "Sinners In The Hands Of An Angry God"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/lordian_guard-sinners_in_the_hands_of_an_angry_god.jpg"
-thumbnailImage: "/images/covers/lordian_guard-sinners_in_the_hands_of_an_angry_god-thumb.jpg"
 actualPrice: $25.00
+album: Sinners In The Hands Of An Angry God
+artist: Lordian Guard
+categories:
+- Vinyl
+date: '2021-06-26T15:22:50'
+draft: false
+images:
+- /images/covers/lordian_guard-sinners_in_the_hands_of_an_angry_god.jpg
 inStock: true
+thumbnailImage: /images/covers/lordian_guard-sinners_in_the_hands_of_an_angry_god-thumb.jpg
+title: Lordian Guard - Sinners In The Hands Of An Angry God
 ---
 
 ## Vinyl

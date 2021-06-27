@@ -1,17 +1,17 @@
 ---
-title: "Obscene - The Inhabitable Dark"
-date: 2021-06-22T16:41:02
-draft: false
-artist: "Obscene"
-album: "The Inhabitable Dark"
-categories:
-    - Vinyl
-    - CD
-images:
-    - "/images/covers/obscene-the_inhabitable_dark.jpg"
-thumbnailImage: "/images/covers/obscene-the_inhabitable_dark-thumb.jpg"
 actualPrice: $12.00 - 22.00
+album: The Inhabitable Dark
+artist: Obscene
+categories:
+- Vinyl
+- CD
+date: '2021-06-26T15:23:12'
+draft: false
+images:
+- /images/covers/obscene-the_inhabitable_dark.jpg
 inStock: true
+thumbnailImage: /images/covers/obscene-the_inhabitable_dark-thumb.jpg
+title: Obscene - The Inhabitable Dark
 ---
 
 ## Vinyl

@@ -1,16 +1,16 @@
 ---
-title: "Mania - Revel"
-date: 2021-06-22T16:40:40
-draft: false
-artist: "Mania"
-album: "Revel"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/mania-revel.jpg"
-thumbnailImage: "/images/covers/mania-revel-thumb.jpg"
 actualPrice: $17.00
+album: Revel
+artist: Mania
+categories:
+- Vinyl
+date: '2021-06-26T15:22:50'
+draft: false
+images:
+- /images/covers/mania-revel.jpg
 inStock: true
+thumbnailImage: /images/covers/mania-revel-thumb.jpg
+title: Mania - Revel
 ---
 
 ## Vinyl

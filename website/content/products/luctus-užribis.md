@@ -1,16 +1,16 @@
 ---
-title: "Luctus - Užribis"
-date: 2021-06-12T14:07:58
-draft: false
-artist: "Luctus"
-album: "Užribis"
-categories:
-    - CD
-images:
-    - "/images/covers/luctus-užribis.jpg"
-thumbnailImage: "/images/covers/luctus-užribis-thumb.jpg"
 actualPrice: $13.00
+album: "U\u017Eribis"
+artist: Luctus
+categories:
+- CD
+date: '2021-06-26T15:03:08'
+draft: false
+images:
+- "/images/covers/luctus-u\u017Eribis.jpg"
 inStock: true
+thumbnailImage: "/images/covers/luctus-u\u017Eribis-thumb.jpg"
+title: "Luctus - U\u017Eribis"
 ---
 
 ## CD

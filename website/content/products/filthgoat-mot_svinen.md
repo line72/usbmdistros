@@ -1,16 +1,16 @@
 ---
-title: "Filthgoat - Mot Svinen"
-date: 2021-06-13T12:22:24
-draft: false
-artist: "Filthgoat"
-album: "Mot Svinen"
-categories:
-    - Tape
-images:
-    - "/images/covers/filthgoat-mot_svinen.jpg"
-thumbnailImage: "/images/covers/filthgoat-mot_svinen-thumb.jpg"
 actualPrice: $6.00
+album: Mot Svinen
+artist: Filthgoat
+categories:
+- Tape
+date: '2021-06-26T15:16:26'
+draft: false
+images:
+- /images/covers/filthgoat-mot_svinen.jpg
 inStock: true
+thumbnailImage: /images/covers/filthgoat-mot_svinen-thumb.jpg
+title: Filthgoat - Mot Svinen
 ---
 
 ## Tape

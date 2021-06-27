@@ -1,16 +1,16 @@
 ---
-title: "Vampirska - Torturous Omens of Blood and Candlewax"
-date: 2021-06-12T14:07:58
-draft: false
-artist: "Vampirska"
-album: "Torturous Omens of Blood and Candlewax"
-categories:
-    - CD
-images:
-    - "/images/covers/vampirska-torturous_omens_of_blood_and_candlewax.jpg"
-thumbnailImage: "/images/covers/vampirska-torturous_omens_of_blood_and_candlewax-thumb.jpg"
 actualPrice: $15.00
+album: Torturous Omens of Blood and Candlewax
+artist: Vampirska
+categories:
+- CD
+date: '2021-06-26T15:03:07'
+draft: false
+images:
+- /images/covers/vampirska-torturous_omens_of_blood_and_candlewax.jpg
 inStock: true
+thumbnailImage: /images/covers/vampirska-torturous_omens_of_blood_and_candlewax-thumb.jpg
+title: Vampirska - Torturous Omens of Blood and Candlewax
 ---
 
 ## CD

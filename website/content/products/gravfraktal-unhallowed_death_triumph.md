@@ -1,16 +1,16 @@
 ---
-title: "Gravfraktal - Unhallowed Death Triumph"
-date: 2021-06-22T16:40:38
-draft: false
-artist: "Gravfraktal"
-album: "Unhallowed Death Triumph"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/gravfraktal-unhallowed_death_triumph.jpg"
-thumbnailImage: "/images/covers/gravfraktal-unhallowed_death_triumph-thumb.jpg"
 actualPrice: $20.00
+album: Unhallowed Death Triumph
+artist: Gravfraktal
+categories:
+- Vinyl
+date: '2021-06-26T15:22:48'
+draft: false
+images:
+- /images/covers/gravfraktal-unhallowed_death_triumph.jpg
 inStock: true
+thumbnailImage: /images/covers/gravfraktal-unhallowed_death_triumph-thumb.jpg
+title: Gravfraktal - Unhallowed Death Triumph
 ---
 
 ## Vinyl

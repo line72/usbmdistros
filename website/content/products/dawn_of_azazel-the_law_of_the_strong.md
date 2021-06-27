@@ -1,16 +1,16 @@
 ---
-title: "Dawn of Azazel - The Law Of The Strong"
-date: 2021-06-22T16:40:35
-draft: false
-artist: "Dawn of Azazel"
-album: "The Law Of The Strong"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/dawn_of_azazel-the_law_of_the_strong.jpg"
-thumbnailImage: "/images/covers/dawn_of_azazel-the_law_of_the_strong-thumb.jpg"
 actualPrice: $20.00
+album: The Law Of The Strong
+artist: Dawn of Azazel
+categories:
+- Vinyl
+date: '2021-06-26T15:22:45'
+draft: false
+images:
+- /images/covers/dawn_of_azazel-the_law_of_the_strong.jpg
 inStock: true
+thumbnailImage: /images/covers/dawn_of_azazel-the_law_of_the_strong-thumb.jpg
+title: Dawn of Azazel - The Law Of The Strong
 ---
 
 ## Vinyl

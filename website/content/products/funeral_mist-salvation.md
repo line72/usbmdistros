@@ -1,16 +1,16 @@
 ---
-title: "Funeral Mist - Salvation"
-date: 2021-06-12T14:07:52
-draft: false
-artist: "Funeral Mist"
-album: "Salvation"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/funeral_mist-salvation.jpg"
-thumbnailImage: "/images/covers/funeral_mist-salvation-thumb.jpg"
 actualPrice: $24.00
+album: Salvation
+artist: Funeral Mist
+categories:
+- Vinyl
+date: '2021-06-26T15:02:55'
+draft: false
+images:
+- /images/covers/funeral_mist-salvation.jpg
 inStock: true
+thumbnailImage: /images/covers/funeral_mist-salvation-thumb.jpg
+title: Funeral Mist - Salvation
 ---
 
 ## Vinyl

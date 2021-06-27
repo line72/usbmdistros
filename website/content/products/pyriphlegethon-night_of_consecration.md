@@ -1,16 +1,16 @@
 ---
-title: "Pyriphlegethon - Night of Consecration"
-date: 2021-06-22T16:40:44
-draft: false
-artist: "Pyriphlegethon"
-album: "Night of Consecration"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/pyriphlegethon-night_of_consecration.jpg"
-thumbnailImage: "/images/covers/pyriphlegethon-night_of_consecration-thumb.jpg"
 actualPrice: $17.00
+album: Night of Consecration
+artist: Pyriphlegethon
+categories:
+- Vinyl
+date: '2021-06-26T15:22:53'
+draft: false
+images:
+- /images/covers/pyriphlegethon-night_of_consecration.jpg
 inStock: true
+thumbnailImage: /images/covers/pyriphlegethon-night_of_consecration-thumb.jpg
+title: Pyriphlegethon - Night of Consecration
 ---
 
 ## Vinyl

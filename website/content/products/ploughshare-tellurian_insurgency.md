@@ -1,16 +1,16 @@
 ---
-title: "Ploughshare - Tellurian Insurgency"
-date: 2021-06-22T16:40:43
-draft: false
-artist: "Ploughshare"
-album: "Tellurian Insurgency"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/ploughshare-tellurian_insurgency.jpg"
-thumbnailImage: "/images/covers/ploughshare-tellurian_insurgency-thumb.jpg"
 actualPrice: $25.00
+album: Tellurian Insurgency
+artist: Ploughshare
+categories:
+- Vinyl
+date: '2021-06-26T15:22:53'
+draft: false
+images:
+- /images/covers/ploughshare-tellurian_insurgency.jpg
 inStock: true
+thumbnailImage: /images/covers/ploughshare-tellurian_insurgency-thumb.jpg
+title: Ploughshare - Tellurian Insurgency
 ---
 
 ## Vinyl

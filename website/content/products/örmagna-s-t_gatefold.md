@@ -1,16 +1,16 @@
 ---
-title: "Örmagna - s/t Gatefold"
-date: 2021-06-12T14:07:51
-draft: false
-artist: "Örmagna"
-album: "s/t Gatefold"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/örmagna-s-t_gatefold.jpg"
-thumbnailImage: "/images/covers/örmagna-s-t_gatefold-thumb.jpg"
 actualPrice: $25.00
+album: s/t Gatefold
+artist: "\xD6rmagna"
+categories:
+- Vinyl
+date: '2021-06-26T15:02:54'
+draft: false
+images:
+- "/images/covers/\xF6rmagna-s-t_gatefold.jpg"
 inStock: true
+thumbnailImage: "/images/covers/\xF6rmagna-s-t_gatefold-thumb.jpg"
+title: "\xD6rmagna - s/t Gatefold"
 ---
 
 ## Vinyl

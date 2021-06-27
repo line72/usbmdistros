@@ -1,16 +1,16 @@
 ---
-title: "Absolute Key - The Lost Gesture"
-date: 2021-06-22T16:41:08
-draft: false
-artist: "Absolute Key"
-album: "The Lost Gesture"
-categories:
-    - Cassette
-images:
-    - "/images/covers/absolute_key-the_lost_gesture.jpg"
-thumbnailImage: "/images/covers/absolute_key-the_lost_gesture-thumb.jpg"
 actualPrice: $9.00
+album: The Lost Gesture
+artist: Absolute Key
+categories:
+- Cassette
+date: '2021-06-26T15:23:18'
+draft: false
+images:
+- /images/covers/absolute_key-the_lost_gesture.jpg
 inStock: true
+thumbnailImage: /images/covers/absolute_key-the_lost_gesture-thumb.jpg
+title: Absolute Key - The Lost Gesture
 ---
 
 ## Cassette

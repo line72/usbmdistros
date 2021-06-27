@@ -1,16 +1,16 @@
 ---
-title: "Óreiða / Holocausto Em Chamas - Óreiða / Holocausto Em Chamas"
-date: 2021-06-22T16:40:43
-draft: false
-artist: "Óreiða / Holocausto Em Chamas"
-album: "Óreiða / Holocausto Em Chamas"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/óreiða_-_holocausto_em_chamas-óreiða_-_holocausto_em_chamas.jpg"
-thumbnailImage: "/images/covers/óreiða_-_holocausto_em_chamas-óreiða_-_holocausto_em_chamas-thumb.jpg"
 actualPrice: $20.00
+album: "\xD3rei\xF0a / Holocausto Em Chamas"
+artist: "\xD3rei\xF0a / Holocausto em Chamas"
+categories:
+- Vinyl
+date: '2021-06-26T15:22:53'
+draft: false
+images:
+- "/images/covers/\xF3rei\xF0a_-_holocausto_em_chamas-\xF3rei\xF0a_-_holocausto_em_chamas.jpg"
 inStock: true
+thumbnailImage: "/images/covers/\xF3rei\xF0a_-_holocausto_em_chamas-\xF3rei\xF0a_-_holocausto_em_chamas-thumb.jpg"
+title: "\xD3rei\xF0a / Holocausto em Chamas - \xD3rei\xF0a / Holocausto Em Chamas"
 ---
 
 ## Vinyl

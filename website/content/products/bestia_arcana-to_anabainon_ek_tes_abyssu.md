@@ -1,16 +1,16 @@
 ---
-title: "Bestia Arcana - To Anabainon ek tes Abyssu"
-date: 2021-06-12T14:11:52
-draft: false
-artist: "Bestia Arcana"
-album: "To Anabainon ek tes Abyssu"
-categories:
-    - CD
-images:
-    - "/images/covers/bestia_arcana-to_anabainon_ek_tes_abyssu.jpg"
-thumbnailImage: "/images/covers/bestia_arcana-to_anabainon_ek_tes_abyssu-thumb.jpg"
 actualPrice: $4.99
+album: To Anabainon ek tes Abyssu
+artist: Bestia Arcana
+categories:
+- CD
+date: '2021-06-26T15:15:52'
+draft: false
+images:
+- /images/covers/bestia_arcana-to_anabainon_ek_tes_abyssu.jpg
 inStock: true
+thumbnailImage: /images/covers/bestia_arcana-to_anabainon_ek_tes_abyssu-thumb.jpg
+title: Bestia Arcana - To Anabainon ek tes Abyssu
 ---
 
 ## CD

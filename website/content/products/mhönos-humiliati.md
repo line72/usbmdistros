@@ -1,16 +1,16 @@
 ---
-title: "Mhönos - Humiliati"
-date: 2021-06-22T16:40:41
-draft: false
-artist: "Mhönos"
-album: "Humiliati"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/mhönos-humiliati.jpg"
-thumbnailImage: "/images/covers/mhönos-humiliati-thumb.jpg"
 actualPrice: $22.00
+album: Humiliati
+artist: "Mh\xF6nos"
+categories:
+- Vinyl
+date: '2021-06-26T15:22:51'
+draft: false
+images:
+- "/images/covers/mh\xF6nos-humiliati.jpg"
 inStock: true
+thumbnailImage: "/images/covers/mh\xF6nos-humiliati-thumb.jpg"
+title: "Mh\xF6nos - Humiliati"
 ---
 
 ## Vinyl

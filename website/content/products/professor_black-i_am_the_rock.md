@@ -1,16 +1,16 @@
 ---
-title: "Professor Black - I am the Rock"
-date: 2021-06-22T16:40:43
-draft: false
-artist: "Professor Black"
-album: "I am the Rock"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/professor_black-i_am_the_rock.jpg"
-thumbnailImage: "/images/covers/professor_black-i_am_the_rock-thumb.jpg"
 actualPrice: $17.00
+album: I am the Rock
+artist: Professor Black
+categories:
+- Vinyl
+date: '2021-06-26T15:22:53'
+draft: false
+images:
+- /images/covers/professor_black-i_am_the_rock.jpg
 inStock: true
+thumbnailImage: /images/covers/professor_black-i_am_the_rock-thumb.jpg
+title: Professor Black - I am the Rock
 ---
 
 ## Vinyl

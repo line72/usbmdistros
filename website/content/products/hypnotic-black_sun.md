@@ -1,16 +1,16 @@
 ---
-title: "Hypnotic - Black Sun"
-date: 2021-06-22T16:40:39
-draft: false
-artist: "Hypnotic"
-album: "Black Sun"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/hypnotic-black_sun.jpg"
-thumbnailImage: "/images/covers/hypnotic-black_sun-thumb.jpg"
 actualPrice: $17.00
+album: Black Sun
+artist: Hypnotic
+categories:
+- Vinyl
+date: '2021-06-26T15:22:49'
+draft: false
+images:
+- /images/covers/hypnotic-black_sun.jpg
 inStock: true
+thumbnailImage: /images/covers/hypnotic-black_sun-thumb.jpg
+title: Hypnotic - Black Sun
 ---
 
 ## Vinyl

@@ -1,16 +1,16 @@
 ---
-title: "Malsumis - Spirit Decay"
-date: 2021-06-13T12:22:23
-draft: false
-artist: "Malsumis"
-album: "Spirit Decay"
-categories:
-    - Tape
-images:
-    - "/images/covers/malsumis-spirit_decay.jpg"
-thumbnailImage: "/images/covers/malsumis-spirit_decay-thumb.jpg"
 actualPrice: $5.00
+album: Spirit Decay
+artist: Malsumis
+categories:
+- Tape
+date: '2021-06-26T15:16:25'
+draft: false
+images:
+- /images/covers/malsumis-spirit_decay.jpg
 inStock: true
+thumbnailImage: /images/covers/malsumis-spirit_decay-thumb.jpg
+title: Malsumis - Spirit Decay
 ---
 
 ## Tape

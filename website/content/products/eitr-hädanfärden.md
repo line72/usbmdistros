@@ -1,16 +1,16 @@
 ---
-title: "EITR - Hädanfärden"
-date: 2021-06-22T16:40:36
-draft: false
-artist: "EITR"
-album: "Hädanfärden"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/eitr-hädanfärden.jpg"
-thumbnailImage: "/images/covers/eitr-hädanfärden-thumb.jpg"
 actualPrice: $22.00
+album: "H\xE4danf\xE4rden"
+artist: EITR
+categories:
+- Vinyl
+date: '2021-06-26T15:22:46'
+draft: false
+images:
+- "/images/covers/eitr-h\xE4danf\xE4rden.jpg"
 inStock: true
+thumbnailImage: "/images/covers/eitr-h\xE4danf\xE4rden-thumb.jpg"
+title: "EITR - H\xE4danf\xE4rden"
 ---
 
 ## Vinyl

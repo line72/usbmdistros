@@ -1,16 +1,16 @@
 ---
-title: "Baptism - Morbid Wings of Sathanas"
-date: 2021-06-12T14:07:51
-draft: false
-artist: "Baptism"
-album: "Morbid Wings of Sathanas"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/baptism-morbid_wings_of_sathanas.jpg"
-thumbnailImage: "/images/covers/baptism-morbid_wings_of_sathanas-thumb.jpg"
 actualPrice: $27.00
+album: Morbid Wings of Sathanas
+artist: Baptism
+categories:
+- Vinyl
+date: '2021-06-26T15:02:54'
+draft: false
+images:
+- /images/covers/baptism-morbid_wings_of_sathanas.jpg
 inStock: true
+thumbnailImage: /images/covers/baptism-morbid_wings_of_sathanas-thumb.jpg
+title: Baptism - Morbid Wings of Sathanas
 ---
 
 ## Vinyl

@@ -1,17 +1,17 @@
 ---
-title: "Do Skonu - Cold Streams of Death"
-date: 2021-06-22T16:40:56
-draft: false
-artist: "Do Skonu"
-album: "Cold Streams of Death"
-categories:
-    - Vinyl
-    - CD
-images:
-    - "/images/covers/do_skonu-cold_streams_of_death.jpg"
-thumbnailImage: "/images/covers/do_skonu-cold_streams_of_death-thumb.jpg"
 actualPrice: $8.00 - 17.00
+album: Cold Streams of Death
+artist: Do Skonu
+categories:
+- Vinyl
+- CD
+date: '2021-06-26T15:23:06'
+draft: false
+images:
+- /images/covers/do_skonu-cold_streams_of_death.jpg
 inStock: true
+thumbnailImage: /images/covers/do_skonu-cold_streams_of_death-thumb.jpg
+title: Do Skonu - Cold Streams of Death
 ---
 
 ## Vinyl

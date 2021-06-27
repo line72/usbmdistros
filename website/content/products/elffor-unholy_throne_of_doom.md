@@ -1,16 +1,16 @@
 ---
-title: "Elffor - Unholy Throne of Doom"
-date: 2021-06-22T16:40:36
-draft: false
-artist: "Elffor"
-album: "Unholy Throne of Doom"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/elffor-unholy_throne_of_doom.jpg"
-thumbnailImage: "/images/covers/elffor-unholy_throne_of_doom-thumb.jpg"
 actualPrice: $20.00
+album: Unholy Throne of Doom
+artist: Elffor
+categories:
+- Vinyl
+date: '2021-06-26T15:22:46'
+draft: false
+images:
+- /images/covers/elffor-unholy_throne_of_doom.jpg
 inStock: true
+thumbnailImage: /images/covers/elffor-unholy_throne_of_doom-thumb.jpg
+title: Elffor - Unholy Throne of Doom
 ---
 
 ## Vinyl

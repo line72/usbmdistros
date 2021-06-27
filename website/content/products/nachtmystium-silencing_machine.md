@@ -1,16 +1,16 @@
 ---
-title: "Nachtmystium - Silencing Machine"
-date: 2021-06-22T16:40:42
-draft: false
-artist: "Nachtmystium"
-album: "Silencing Machine"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/nachtmystium-silencing_machine.jpg"
-thumbnailImage: "/images/covers/nachtmystium-silencing_machine-thumb.jpg"
 actualPrice: $25.00
+album: Silencing Machine
+artist: Nachtmystium
+categories:
+- Vinyl
+date: '2021-06-26T15:22:52'
+draft: false
+images:
+- /images/covers/nachtmystium-silencing_machine.jpg
 inStock: true
+thumbnailImage: /images/covers/nachtmystium-silencing_machine-thumb.jpg
+title: Nachtmystium - Silencing Machine
 ---
 
 ## Vinyl

@@ -1,17 +1,17 @@
 ---
-title: "Essenz - Manes Impetus"
-date: 2021-06-22T16:40:56
-draft: false
-artist: "Essenz"
-album: "Manes Impetus"
-categories:
-    - Vinyl
-    - CD
-images:
-    - "/images/covers/essenz-manes_impetus.jpg"
-thumbnailImage: "/images/covers/essenz-manes_impetus-thumb.jpg"
 actualPrice: $10.00 - 25.00
+album: Manes Impetus
+artist: Essenz
+categories:
+- Vinyl
+- CD
+date: '2021-06-26T15:23:06'
+draft: false
+images:
+- /images/covers/essenz-manes_impetus.jpg
 inStock: true
+thumbnailImage: /images/covers/essenz-manes_impetus-thumb.jpg
+title: Essenz - Manes Impetus
 ---
 
 ## Vinyl

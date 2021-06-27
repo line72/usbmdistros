@@ -1,16 +1,16 @@
 ---
-title: "Dodsferd - The Parasitic Survival Of The Human Race"
-date: 2021-06-22T16:40:36
-draft: false
-artist: "Dodsferd"
-album: "The Parasitic Survival Of The Human Race"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/dodsferd-the_parasitic_survival_of_the_human_race.jpg"
-thumbnailImage: "/images/covers/dodsferd-the_parasitic_survival_of_the_human_race-thumb.jpg"
 actualPrice: $17.00
+album: The Parasitic Survival Of The Human Race
+artist: Dodsferd
+categories:
+- Vinyl
+date: '2021-06-26T15:22:45'
+draft: false
+images:
+- /images/covers/dodsferd-the_parasitic_survival_of_the_human_race.jpg
 inStock: true
+thumbnailImage: /images/covers/dodsferd-the_parasitic_survival_of_the_human_race-thumb.jpg
+title: Dodsferd - The Parasitic Survival Of The Human Race
 ---
 
 ## Vinyl

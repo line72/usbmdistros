@@ -1,16 +1,16 @@
 ---
-title: "Gehenna - First Spell/Black Seared Heart"
-date: 2021-06-22T16:40:38
-draft: false
-artist: "Gehenna"
-album: "First Spell/Black Seared Heart"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/gehenna-first_spell-black_seared_heart.jpg"
-thumbnailImage: "/images/covers/gehenna-first_spell-black_seared_heart-thumb.jpg"
 actualPrice: $30.00
+album: First Spell/Black Seared Heart
+artist: Gehenna
+categories:
+- Vinyl
+date: '2021-06-26T15:22:47'
+draft: false
+images:
+- /images/covers/gehenna-first_spell-black_seared_heart.jpg
 inStock: true
+thumbnailImage: /images/covers/gehenna-first_spell-black_seared_heart-thumb.jpg
+title: Gehenna - First Spell/Black Seared Heart
 ---
 
 ## Vinyl

@@ -1,16 +1,16 @@
 ---
-title: "Contrepoison - I Keep On Searching"
-date: 2021-06-22T16:40:35
-draft: false
-artist: "Contrepoison"
-album: "I Keep On Searching"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/contrepoison-i_keep_on_searching.jpg"
-thumbnailImage: "/images/covers/contrepoison-i_keep_on_searching-thumb.jpg"
 actualPrice: $17.00
+album: I Keep On Searching
+artist: Contrepoison
+categories:
+- Vinyl
+date: '2021-06-26T15:22:44'
+draft: false
+images:
+- /images/covers/contrepoison-i_keep_on_searching.jpg
 inStock: true
+thumbnailImage: /images/covers/contrepoison-i_keep_on_searching-thumb.jpg
+title: Contrepoison - I Keep On Searching
 ---
 
 ## Vinyl

@@ -1,16 +1,16 @@
 ---
-title: "Venerexation - Intercurse - Ep"
-date: 2021-06-13T12:22:20
-draft: false
-artist: "Venerexation"
-album: "Intercurse - Ep"
-categories:
-    - Tape
-images:
-    - "/images/covers/venerexation-intercurse_-_ep.jpg"
-thumbnailImage: "/images/covers/venerexation-intercurse_-_ep-thumb.jpg"
 actualPrice: $8.50
+album: Intercurse - Ep
+artist: Venerexation
+categories:
+- Tape
+date: '2021-06-26T15:16:23'
+draft: false
+images:
+- /images/covers/venerexation-intercurse_-_ep.jpg
 inStock: true
+thumbnailImage: /images/covers/venerexation-intercurse_-_ep-thumb.jpg
+title: Venerexation - Intercurse - Ep
 ---
 
 ## Tape

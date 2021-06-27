@@ -1,16 +1,16 @@
 ---
-title: "Destroyer 666 - Terror Abraxas"
-date: 2021-06-22T16:40:36
-draft: false
-artist: "Destroyer 666"
-album: "Terror Abraxas"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/destroyer_666-terror_abraxas.jpg"
-thumbnailImage: "/images/covers/destroyer_666-terror_abraxas-thumb.jpg"
 actualPrice: $20.00
+album: Terror Abraxas
+artist: Destroyer 666
+categories:
+- Vinyl
+date: '2021-06-26T15:22:45'
+draft: false
+images:
+- /images/covers/destroyer_666-terror_abraxas.jpg
 inStock: true
+thumbnailImage: /images/covers/destroyer_666-terror_abraxas-thumb.jpg
+title: Destroyer 666 - Terror Abraxas
 ---
 
 ## Vinyl

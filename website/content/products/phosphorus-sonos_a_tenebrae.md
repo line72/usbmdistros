@@ -1,16 +1,16 @@
 ---
-title: "Phosphorus - Sonos A Tenebrae"
-date: 2021-06-13T12:22:22
-draft: false
-artist: "Phosphorus"
-album: "Sonos A Tenebrae"
-categories:
-    - Tape
-images:
-    - "/images/covers/phosphorus-sonos_a_tenebrae.jpg"
-thumbnailImage: "/images/covers/phosphorus-sonos_a_tenebrae-thumb.jpg"
 actualPrice: $7.50
+album: Sonos A Tenebrae
+artist: Phosphorus
+categories:
+- Tape
+date: '2021-06-26T15:16:24'
+draft: false
+images:
+- /images/covers/phosphorus-sonos_a_tenebrae.jpg
 inStock: true
+thumbnailImage: /images/covers/phosphorus-sonos_a_tenebrae-thumb.jpg
+title: Phosphorus - Sonos A Tenebrae
 ---
 
 ## Tape

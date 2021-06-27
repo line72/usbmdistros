@@ -1,17 +1,17 @@
 ---
-title: "Anatomia - Dissected Humanity"
-date: 2021-06-22T16:40:52
-draft: false
-artist: "Anatomia"
-album: "Dissected Humanity"
-categories:
-    - Tape
-    - CD
-images:
-    - "/images/covers/anatomia-dissected_humanity.jpg"
-thumbnailImage: "/images/covers/anatomia-dissected_humanity-thumb.jpg"
 actualPrice: $10.00
+album: Dissected Humanity
+artist: Anatomia
+categories:
+- Tape
+- CD
+date: '2021-06-26T15:23:02'
+draft: false
+images:
+- /images/covers/anatomia-dissected_humanity.jpg
 inStock: true
+thumbnailImage: /images/covers/anatomia-dissected_humanity-thumb.jpg
+title: Anatomia - Dissected Humanity
 ---
 
 ## Tape

@@ -1,18 +1,18 @@
 ---
-title: "Det Eviga Leendet - Lenience"
-date: 2021-06-22T16:40:55
-draft: false
-artist: "Det Eviga Leendet"
-album: "Lenience"
-categories:
-    - Vinyl
-    - Tape
-    - CD
-images:
-    - "/images/covers/det_eviga_leendet-lenience.jpg"
-thumbnailImage: "/images/covers/det_eviga_leendet-lenience-thumb.jpg"
 actualPrice: $6.00 - 20.00
+album: Lenience
+artist: Det Eviga Leendet
+categories:
+- Vinyl
+- Tape
+- CD
+date: '2021-06-26T15:23:05'
+draft: false
+images:
+- /images/covers/det_eviga_leendet-lenience.jpg
 inStock: true
+thumbnailImage: /images/covers/det_eviga_leendet-lenience-thumb.jpg
+title: Det Eviga Leendet - Lenience
 ---
 
 ## Vinyl

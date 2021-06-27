@@ -1,16 +1,16 @@
 ---
-title: "Aara - En Ergô Einai"
-date: 2021-06-12T14:11:52
-draft: false
-artist: "Aara"
-album: "En Ergô Einai"
-categories:
-    - CD
-images:
-    - "/images/covers/aara-en_ergô_einai.jpg"
-thumbnailImage: "/images/covers/aara-en_ergô_einai-thumb.jpg"
 actualPrice: $9.99
+album: "En Erg\xF4 Einai"
+artist: Aara
+categories:
+- CD
+date: '2021-06-26T15:15:51'
+draft: false
+images:
+- "/images/covers/aara-en_erg\xF4_einai.jpg"
 inStock: true
+thumbnailImage: "/images/covers/aara-en_erg\xF4_einai-thumb.jpg"
+title: "Aara - En Erg\xF4 Einai"
 ---
 
 ## CD

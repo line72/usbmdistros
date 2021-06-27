@@ -1,16 +1,16 @@
 ---
-title: "Heinous - s/t"
-date: 2021-06-12T14:07:59
-draft: false
-artist: "Heinous"
-album: "s/t"
-categories:
-    - CD
-images:
-    - "/images/covers/heinous-s-t.jpg"
-thumbnailImage: "/images/covers/heinous-s-t-thumb.jpg"
 actualPrice: $11.00
+album: s/t
+artist: Heinous
+categories:
+- CD
+date: '2021-06-26T15:03:08'
+draft: false
+images:
+- /images/covers/heinous-s-t.jpg
 inStock: true
+thumbnailImage: /images/covers/heinous-s-t-thumb.jpg
+title: Heinous - s/t
 ---
 
 ## CD

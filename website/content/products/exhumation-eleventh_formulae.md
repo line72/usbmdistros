@@ -1,17 +1,17 @@
 ---
-title: "EXHUMATION - ELEVENTH FORMULAE"
-date: 2021-06-22T16:40:57
-draft: false
-artist: "EXHUMATION"
-album: "ELEVENTH FORMULAE"
-categories:
-    - Vinyl
-    - CD
-images:
-    - "/images/covers/exhumation-eleventh_formulae.jpg"
-thumbnailImage: "/images/covers/exhumation-eleventh_formulae-thumb.jpg"
 actualPrice: $12.00 - 22.00
+album: ELEVENTH FORMULAE
+artist: EXHUMATION
+categories:
+- Vinyl
+- CD
+date: '2021-06-26T15:23:07'
+draft: false
+images:
+- /images/covers/exhumation-eleventh_formulae.jpg
 inStock: true
+thumbnailImage: /images/covers/exhumation-eleventh_formulae-thumb.jpg
+title: EXHUMATION - ELEVENTH FORMULAE
 ---
 
 ## Vinyl

@@ -1,16 +1,16 @@
 ---
-title: "Abigail - Ultimate Unholy Death"
-date: 2021-06-22T16:40:31
-draft: false
-artist: "Abigail"
-album: "Ultimate Unholy Death"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/abigail-ultimate_unholy_death.jpg"
-thumbnailImage: "/images/covers/abigail-ultimate_unholy_death-thumb.jpg"
 actualPrice: $25.00
+album: Ultimate Unholy Death
+artist: Abigail
+categories:
+- Vinyl
+date: '2021-06-26T15:22:41'
+draft: false
+images:
+- /images/covers/abigail-ultimate_unholy_death.jpg
 inStock: true
+thumbnailImage: /images/covers/abigail-ultimate_unholy_death-thumb.jpg
+title: Abigail - Ultimate Unholy Death
 ---
 
 ## Vinyl

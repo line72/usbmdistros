@@ -1,16 +1,16 @@
 ---
-title: "Napalm Death - Scum"
-date: 2021-06-22T16:40:42
-draft: false
-artist: "Napalm Death"
-album: "Scum"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/napalm_death-scum.jpg"
-thumbnailImage: "/images/covers/napalm_death-scum-thumb.jpg"
 actualPrice: $27.00
+album: Scum
+artist: Napalm Death
+categories:
+- Vinyl
+date: '2021-06-26T15:22:52'
+draft: false
+images:
+- /images/covers/napalm_death-scum.jpg
 inStock: true
+thumbnailImage: /images/covers/napalm_death-scum-thumb.jpg
+title: Napalm Death - Scum
 ---
 
 ## Vinyl

@@ -1,16 +1,16 @@
 ---
-title: "Ossuary Insane - Part III: Decimation of the Flesh"
-date: 2021-06-22T16:40:43
-draft: false
-artist: "Ossuary Insane"
-album: "Part III: Decimation of the Flesh"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/ossuary_insane-part_iii:_decimation_of_the_flesh.jpg"
-thumbnailImage: "/images/covers/ossuary_insane-part_iii:_decimation_of_the_flesh-thumb.jpg"
 actualPrice: $17.00
+album: 'Part III: Decimation of the Flesh'
+artist: Ossuary Insane
+categories:
+- Vinyl
+date: '2021-06-26T15:22:53'
+draft: false
+images:
+- /images/covers/ossuary_insane-part_iii:_decimation_of_the_flesh.jpg
 inStock: true
+thumbnailImage: /images/covers/ossuary_insane-part_iii:_decimation_of_the_flesh-thumb.jpg
+title: 'Ossuary Insane - Part III: Decimation of the Flesh'
 ---
 
 ## Vinyl

@@ -1,16 +1,16 @@
 ---
-title: "Katechon - Man God Giant"
-date: 2021-06-22T16:40:40
-draft: false
-artist: "Katechon"
-album: "Man God Giant"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/katechon-man_god_giant.jpg"
-thumbnailImage: "/images/covers/katechon-man_god_giant-thumb.jpg"
 actualPrice: $17.00
+album: Man God Giant
+artist: Katechon
+categories:
+- Vinyl
+date: '2021-06-26T15:22:49'
+draft: false
+images:
+- /images/covers/katechon-man_god_giant.jpg
 inStock: true
+thumbnailImage: /images/covers/katechon-man_god_giant-thumb.jpg
+title: Katechon - Man God Giant
 ---
 
 ## Vinyl

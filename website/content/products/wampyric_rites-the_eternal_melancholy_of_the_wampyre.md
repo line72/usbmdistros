@@ -1,16 +1,16 @@
 ---
-title: "Wampyric Rites - The Eternal Melancholy of the Wampyre"
-date: 2021-06-12T14:07:51
-draft: false
-artist: "Wampyric Rites"
-album: "The Eternal Melancholy of the Wampyre"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/wampyric_rites-the_eternal_melancholy_of_the_wampyre.jpg"
-thumbnailImage: "/images/covers/wampyric_rites-the_eternal_melancholy_of_the_wampyre-thumb.jpg"
 actualPrice: $35.00
+album: The Eternal Melancholy of the Wampyre
+artist: Wampyric Rites
+categories:
+- Vinyl
+date: '2021-06-26T15:02:54'
+draft: false
+images:
+- /images/covers/wampyric_rites-the_eternal_melancholy_of_the_wampyre.jpg
 inStock: true
+thumbnailImage: /images/covers/wampyric_rites-the_eternal_melancholy_of_the_wampyre-thumb.jpg
+title: Wampyric Rites - The Eternal Melancholy of the Wampyre
 ---
 
 ## Vinyl

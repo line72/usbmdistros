@@ -1,16 +1,16 @@
 ---
-title: "Gasmask Terror - Chape De Plomb"
-date: 2021-06-22T16:40:38
-draft: false
-artist: "Gasmask Terror"
-album: "Chape De Plomb"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/gasmask_terror-chape_de_plomb.jpg"
-thumbnailImage: "/images/covers/gasmask_terror-chape_de_plomb-thumb.jpg"
 actualPrice: $17.00
+album: Chape De Plomb
+artist: Gasmask Terror
+categories:
+- Vinyl
+date: '2021-06-26T15:22:47'
+draft: false
+images:
+- /images/covers/gasmask_terror-chape_de_plomb.jpg
 inStock: true
+thumbnailImage: /images/covers/gasmask_terror-chape_de_plomb-thumb.jpg
+title: Gasmask Terror - Chape De Plomb
 ---
 
 ## Vinyl

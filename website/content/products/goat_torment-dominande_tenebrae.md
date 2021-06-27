@@ -1,17 +1,17 @@
 ---
-title: "Goat Torment - Dominande Tenebrae"
-date: 2021-06-22T16:40:57
-draft: false
-artist: "Goat Torment"
-album: "Dominande Tenebrae"
-categories:
-    - Vinyl
-    - CD
-images:
-    - "/images/covers/goat_torment-dominande_tenebrae.jpg"
-thumbnailImage: "/images/covers/goat_torment-dominande_tenebrae-thumb.jpg"
 actualPrice: $8.00 - 17.00
+album: Dominande Tenebrae
+artist: Goat Torment
+categories:
+- Vinyl
+- CD
+date: '2021-06-26T15:23:07'
+draft: false
+images:
+- /images/covers/goat_torment-dominande_tenebrae.jpg
 inStock: true
+thumbnailImage: /images/covers/goat_torment-dominande_tenebrae-thumb.jpg
+title: Goat Torment - Dominande Tenebrae
 ---
 
 ## Vinyl

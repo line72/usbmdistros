@@ -1,16 +1,16 @@
 ---
-title: "Heresiarch / Antediluvian - Defleshing the Serpent Infinity"
-date: 2021-06-22T16:40:39
-draft: false
-artist: "Heresiarch / Antediluvian"
-album: "Defleshing the Serpent Infinity"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/heresiarch_-_antediluvian-defleshing_the_serpent_infinity.jpg"
-thumbnailImage: "/images/covers/heresiarch_-_antediluvian-defleshing_the_serpent_infinity-thumb.jpg"
 actualPrice: $20.00
+album: Defleshing the Serpent Infinity
+artist: Heresiarch / Antediluvian
+categories:
+- Vinyl
+date: '2021-06-26T15:22:48'
+draft: false
+images:
+- /images/covers/heresiarch_-_antediluvian-defleshing_the_serpent_infinity.jpg
 inStock: true
+thumbnailImage: /images/covers/heresiarch_-_antediluvian-defleshing_the_serpent_infinity-thumb.jpg
+title: Heresiarch / Antediluvian - Defleshing the Serpent Infinity
 ---
 
 ## Vinyl

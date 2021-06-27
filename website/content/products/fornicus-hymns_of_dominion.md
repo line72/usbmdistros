@@ -1,16 +1,16 @@
 ---
-title: "Fornicus - Hymns of Dominion"
-date: 2021-06-22T16:40:37
-draft: false
-artist: "Fornicus"
-album: "Hymns of Dominion"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/fornicus-hymns_of_dominion.jpg"
-thumbnailImage: "/images/covers/fornicus-hymns_of_dominion-thumb.jpg"
 actualPrice: $20.00
+album: Hymns of Dominion
+artist: Fornicus
+categories:
+- Vinyl
+date: '2021-06-26T15:22:47'
+draft: false
+images:
+- /images/covers/fornicus-hymns_of_dominion.jpg
 inStock: true
+thumbnailImage: /images/covers/fornicus-hymns_of_dominion-thumb.jpg
+title: Fornicus - Hymns of Dominion
 ---
 
 ## Vinyl

@@ -1,17 +1,17 @@
 ---
-title: "Óreiða - s/t"
-date: 2021-06-12T14:07:56
-draft: false
-artist: "Óreiða"
-album: "s/t"
-categories:
-    - Vinyl
-    - Tape
-images:
-    - "/images/covers/óreiða-s-t.jpg"
-thumbnailImage: "/images/covers/óreiða-s-t-thumb.jpg"
 actualPrice: $9.00 - 23.00
+album: s/t
+artist: "\xD3rei\xF0a"
+categories:
+- Vinyl
+- Tape
+date: '2021-06-26T15:03:02'
+draft: false
+images:
+- "/images/covers/\xF3rei\xF0a-s-t.jpg"
 inStock: true
+thumbnailImage: "/images/covers/\xF3rei\xF0a-s-t-thumb.jpg"
+title: "\xD3rei\xF0a - s/t"
 ---
 
 ## Vinyl

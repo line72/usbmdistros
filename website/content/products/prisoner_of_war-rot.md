@@ -1,16 +1,16 @@
 ---
-title: "Prisoner of War - Rot"
-date: 2021-06-22T16:40:43
-draft: false
-artist: "Prisoner of War"
-album: "Rot"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/prisoner_of_war-rot.jpg"
-thumbnailImage: "/images/covers/prisoner_of_war-rot-thumb.jpg"
 actualPrice: $17.00
+album: Rot
+artist: Prisoner of War
+categories:
+- Vinyl
+date: '2021-06-26T15:22:53'
+draft: false
+images:
+- /images/covers/prisoner_of_war-rot.jpg
 inStock: true
+thumbnailImage: /images/covers/prisoner_of_war-rot-thumb.jpg
+title: Prisoner of War - Rot
 ---
 
 ## Vinyl

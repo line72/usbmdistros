@@ -1,17 +1,17 @@
 ---
-title: "Abominablood - Abomination Continues"
-date: 2021-06-22T16:41:08
-draft: false
-artist: "Abominablood"
-album: "Abomination Continues"
-categories:
-    - Cassette
-    - CD
-images:
-    - "/images/covers/abominablood-abomination_continues.jpg"
-thumbnailImage: "/images/covers/abominablood-abomination_continues-thumb.jpg"
 actualPrice: $7.00 - 10.00
+album: Abomination Continues
+artist: Abominablood
+categories:
+- Cassette
+- CD
+date: '2021-06-26T15:23:18'
+draft: false
+images:
+- /images/covers/abominablood-abomination_continues.jpg
 inStock: true
+thumbnailImage: /images/covers/abominablood-abomination_continues-thumb.jpg
+title: Abominablood - Abomination Continues
 ---
 
 ## Cassette

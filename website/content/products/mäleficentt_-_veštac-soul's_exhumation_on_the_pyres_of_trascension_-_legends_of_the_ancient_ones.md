@@ -1,16 +1,17 @@
 ---
-title: "Mäleficentt / Veštac - Soul's Exhumation on the Pyres of Trascension / Legends of the Ancient Ones"
-date: 2021-06-22T16:40:40
-draft: false
-artist: "Mäleficentt / Veštac"
-album: "Soul's Exhumation on the Pyres of Trascension / Legends of the Ancient Ones"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/mäleficentt_-_veštac-soul's_exhumation_on_the_pyres_of_trascension_-_legends_of_the_ancient_ones.jpg"
-thumbnailImage: "/images/covers/mäleficentt_-_veštac-soul's_exhumation_on_the_pyres_of_trascension_-_legends_of_the_ancient_ones-thumb.jpg"
 actualPrice: $30.00
+album: Soul's Exhumation on the Pyres of Trascension / Legends of the Ancient Ones
+artist: "M\xE4leficentt / Ve\u0161tac"
+categories:
+- Vinyl
+date: '2021-06-26T15:22:50'
+draft: false
+images:
+- "/images/covers/m\xE4leficentt_-_ve\u0161tac-soul's_exhumation_on_the_pyres_of_trascension_-_legends_of_the_ancient_ones.jpg"
 inStock: true
+thumbnailImage: "/images/covers/m\xE4leficentt_-_ve\u0161tac-soul's_exhumation_on_the_pyres_of_trascension_-_legends_of_the_ancient_ones-thumb.jpg"
+title: "M\xE4leficentt / Ve\u0161tac - Soul's Exhumation on the Pyres of Trascension\
+  \ / Legends of the Ancient Ones"
 ---
 
 ## Vinyl

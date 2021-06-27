@@ -1,16 +1,16 @@
 ---
-title: "Sarcator - Self-Titled"
-date: 2021-06-13T12:22:19
-draft: false
-artist: "Sarcator"
-album: "Self-Titled"
-categories:
-    - Tape
-images:
-    - "/images/covers/sarcator-self-titled.jpg"
-thumbnailImage: "/images/covers/sarcator-self-titled-thumb.jpg"
 actualPrice: $8.00
+album: Self-Titled
+artist: Sarcator
+categories:
+- Tape
+date: '2021-06-26T15:16:22'
+draft: false
+images:
+- /images/covers/sarcator-self-titled.jpg
 inStock: true
+thumbnailImage: /images/covers/sarcator-self-titled-thumb.jpg
+title: Sarcator - Self-Titled
 ---
 
 ## Tape

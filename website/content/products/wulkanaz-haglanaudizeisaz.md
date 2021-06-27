@@ -1,17 +1,17 @@
 ---
-title: "Wulkanaz - HaglaNaudizEisaz"
-date: 2021-06-22T16:41:08
-draft: false
-artist: "Wulkanaz"
-album: "HaglaNaudizEisaz"
-categories:
-    - Vinyl
-    - CD
-images:
-    - "/images/covers/wulkanaz-haglanaudizeisaz.jpg"
-thumbnailImage: "/images/covers/wulkanaz-haglanaudizeisaz-thumb.jpg"
 actualPrice: $12.00 - 27.00
+album: HaglaNaudizEisaz
+artist: Wulkanaz
+categories:
+- Vinyl
+- CD
+date: '2021-06-26T15:23:18'
+draft: false
+images:
+- /images/covers/wulkanaz-haglanaudizeisaz.jpg
 inStock: true
+thumbnailImage: /images/covers/wulkanaz-haglanaudizeisaz-thumb.jpg
+title: Wulkanaz - HaglaNaudizEisaz
 ---
 
 ## Vinyl

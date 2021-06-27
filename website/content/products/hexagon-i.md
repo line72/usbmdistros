@@ -1,17 +1,17 @@
 ---
-title: "Hexagon - I"
-date: 2021-06-22T16:41:10
-draft: false
-artist: "Hexagon"
-album: "I"
-categories:
-    - Tape
-    - Cassette
-images:
-    - "/images/covers/hexagon-i.jpg"
-thumbnailImage: "/images/covers/hexagon-i-thumb.jpg"
 actualPrice: $5.00 - 7.00
+album: I
+artist: Hexagon
+categories:
+- Tape
+- Cassette
+date: '2021-06-26T15:23:21'
+draft: false
+images:
+- /images/covers/hexagon-i.jpg
 inStock: true
+thumbnailImage: /images/covers/hexagon-i-thumb.jpg
+title: Hexagon - I
 ---
 
 ## Tape

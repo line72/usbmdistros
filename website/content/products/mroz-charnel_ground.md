@@ -1,16 +1,16 @@
 ---
-title: "Mroz - Charnel Ground"
-date: 2021-06-13T12:22:22
-draft: false
-artist: "Mroz"
-album: "Charnel Ground"
-categories:
-    - Tape
-images:
-    - "/images/covers/mroz-charnel_ground.jpg"
-thumbnailImage: "/images/covers/mroz-charnel_ground-thumb.jpg"
 actualPrice: $7.00
+album: Charnel Ground
+artist: Mroz
+categories:
+- Tape
+date: '2021-06-26T15:16:25'
+draft: false
+images:
+- /images/covers/mroz-charnel_ground.jpg
 inStock: true
+thumbnailImage: /images/covers/mroz-charnel_ground-thumb.jpg
+title: Mroz - Charnel Ground
 ---
 
 ## Tape

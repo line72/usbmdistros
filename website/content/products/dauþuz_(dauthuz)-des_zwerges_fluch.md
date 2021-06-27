@@ -1,16 +1,16 @@
 ---
-title: "Dauþuz (Dauthuz) - Des Zwerges Fluch"
-date: 2021-06-22T16:40:35
-draft: false
-artist: "Dauþuz (Dauthuz)"
-album: "Des Zwerges Fluch"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/dauþuz_(dauthuz)-des_zwerges_fluch.jpg"
-thumbnailImage: "/images/covers/dauþuz_(dauthuz)-des_zwerges_fluch-thumb.jpg"
 actualPrice: $25.00
+album: Des Zwerges Fluch
+artist: "Dau\xFEuz (Dauthuz)"
+categories:
+- Vinyl
+date: '2021-06-26T15:22:45'
+draft: false
+images:
+- "/images/covers/dau\xFEuz_(dauthuz)-des_zwerges_fluch.jpg"
 inStock: true
+thumbnailImage: "/images/covers/dau\xFEuz_(dauthuz)-des_zwerges_fluch-thumb.jpg"
+title: "Dau\xFEuz (Dauthuz) - Des Zwerges Fluch"
 ---
 
 ## Vinyl

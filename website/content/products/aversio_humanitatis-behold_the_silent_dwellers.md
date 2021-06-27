@@ -1,17 +1,17 @@
 ---
-title: "Aversio Humanitatis - Behold The Silent Dwellers"
-date: 2021-06-12T14:11:52
-draft: false
-artist: "Aversio Humanitatis"
-album: "Behold The Silent Dwellers"
-categories:
-    - Vinyl
-    - CD
-images:
-    - "/images/covers/aversio_humanitatis-behold_the_silent_dwellers.jpg"
-thumbnailImage: "/images/covers/aversio_humanitatis-behold_the_silent_dwellers-thumb.jpg"
 actualPrice: $9.99 - 24.99
+album: Behold The Silent Dwellers
+artist: Aversio Humanitatis
+categories:
+- Vinyl
+- CD
+date: '2021-06-26T15:15:52'
+draft: false
+images:
+- /images/covers/aversio_humanitatis-behold_the_silent_dwellers.jpg
 inStock: true
+thumbnailImage: /images/covers/aversio_humanitatis-behold_the_silent_dwellers-thumb.jpg
+title: Aversio Humanitatis - Behold The Silent Dwellers
 ---
 
 ## Vinyl

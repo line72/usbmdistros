@@ -1,16 +1,16 @@
 ---
-title: "Dodheimsgard - Satanic Art"
-date: 2021-06-22T16:40:36
-draft: false
-artist: "Dodheimsgard"
-album: "Satanic Art"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/dodheimsgard-satanic_art.jpg"
-thumbnailImage: "/images/covers/dodheimsgard-satanic_art-thumb.jpg"
 actualPrice: $25.00
+album: Satanic Art
+artist: Dodheimsgard
+categories:
+- Vinyl
+date: '2021-06-26T15:22:45'
+draft: false
+images:
+- /images/covers/dodheimsgard-satanic_art.jpg
 inStock: true
+thumbnailImage: /images/covers/dodheimsgard-satanic_art-thumb.jpg
+title: Dodheimsgard - Satanic Art
 ---
 
 ## Vinyl

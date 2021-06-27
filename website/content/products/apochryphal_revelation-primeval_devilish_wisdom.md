@@ -1,17 +1,17 @@
 ---
-title: "Apochryphal Revelation - Primeval Devilish Wisdom"
-date: 2021-06-22T16:40:53
-draft: false
-artist: "Apochryphal Revelation"
-album: "Primeval Devilish Wisdom"
-categories:
-    - Vinyl
-    - CD
-images:
-    - "/images/covers/apochryphal_revelation-primeval_devilish_wisdom.jpg"
-thumbnailImage: "/images/covers/apochryphal_revelation-primeval_devilish_wisdom-thumb.jpg"
 actualPrice: $10.00 - 30.00
+album: Primeval Devilish Wisdom
+artist: Apochryphal Revelation
+categories:
+- Vinyl
+- CD
+date: '2021-06-26T15:23:03'
+draft: false
+images:
+- /images/covers/apochryphal_revelation-primeval_devilish_wisdom.jpg
 inStock: true
+thumbnailImage: /images/covers/apochryphal_revelation-primeval_devilish_wisdom-thumb.jpg
+title: Apochryphal Revelation - Primeval Devilish Wisdom
 ---
 
 ## Vinyl

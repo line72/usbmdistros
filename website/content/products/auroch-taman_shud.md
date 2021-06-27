@@ -1,16 +1,16 @@
 ---
-title: "Auroch - Taman Shud"
-date: 2021-06-22T16:40:33
-draft: false
-artist: "Auroch"
-album: "Taman Shud"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/auroch-taman_shud.jpg"
-thumbnailImage: "/images/covers/auroch-taman_shud-thumb.jpg"
 actualPrice: $17.00
+album: Taman Shud
+artist: Auroch
+categories:
+- Vinyl
+date: '2021-06-26T15:22:42'
+draft: false
+images:
+- /images/covers/auroch-taman_shud.jpg
 inStock: true
+thumbnailImage: /images/covers/auroch-taman_shud-thumb.jpg
+title: Auroch - Taman Shud
 ---
 
 ## Vinyl

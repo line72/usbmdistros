@@ -1,16 +1,16 @@
 ---
-title: "As Sahar - Primitively Eastern Winds"
-date: 2021-06-22T16:40:33
-draft: false
-artist: "As Sahar"
-album: "Primitively Eastern Winds"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/as_sahar-primitively_eastern_winds.jpg"
-thumbnailImage: "/images/covers/as_sahar-primitively_eastern_winds-thumb.jpg"
 actualPrice: $25.00
+album: Primitively Eastern Winds
+artist: As Sahar
+categories:
+- Vinyl
+date: '2021-06-26T15:22:42'
+draft: false
+images:
+- /images/covers/as_sahar-primitively_eastern_winds.jpg
 inStock: true
+thumbnailImage: /images/covers/as_sahar-primitively_eastern_winds-thumb.jpg
+title: As Sahar - Primitively Eastern Winds
 ---
 
 ## Vinyl

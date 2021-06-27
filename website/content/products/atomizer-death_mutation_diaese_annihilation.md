@@ -1,16 +1,16 @@
 ---
-title: "Atomizer - Death Mutation Diaese Annihilation"
-date: 2021-06-22T16:40:33
-draft: false
-artist: "Atomizer"
-album: "Death Mutation Diaese Annihilation"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/atomizer-death_mutation_diaese_annihilation.jpg"
-thumbnailImage: "/images/covers/atomizer-death_mutation_diaese_annihilation-thumb.jpg"
 actualPrice: $20.00
+album: Death Mutation Diaese Annihilation
+artist: Atomizer
+categories:
+- Vinyl
+date: '2021-06-26T15:22:42'
+draft: false
+images:
+- /images/covers/atomizer-death_mutation_diaese_annihilation.jpg
 inStock: true
+thumbnailImage: /images/covers/atomizer-death_mutation_diaese_annihilation-thumb.jpg
+title: Atomizer - Death Mutation Diaese Annihilation
 ---
 
 ## Vinyl

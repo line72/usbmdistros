@@ -1,17 +1,17 @@
 ---
-title: "Schattenthron - Der alte Thron, siechend im Schatten"
-date: 2021-06-22T16:41:04
-draft: false
-artist: "Schattenthron"
-album: "Der alte Thron, siechend im Schatten"
-categories:
-    - Vinyl
-    - CD
-images:
-    - "/images/covers/schattenthron-der_alte_thron,_siechend_im_schatten.jpg"
-thumbnailImage: "/images/covers/schattenthron-der_alte_thron,_siechend_im_schatten-thumb.jpg"
 actualPrice: $6.00 - 27.00
+album: Der alte Thron, siechend im Schatten
+artist: Schattenthron
+categories:
+- Vinyl
+- CD
+date: '2021-06-26T15:23:14'
+draft: false
+images:
+- /images/covers/schattenthron-der_alte_thron,_siechend_im_schatten.jpg
 inStock: true
+thumbnailImage: /images/covers/schattenthron-der_alte_thron,_siechend_im_schatten-thumb.jpg
+title: Schattenthron - Der alte Thron, siechend im Schatten
 ---
 
 ## Vinyl

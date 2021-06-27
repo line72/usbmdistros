@@ -1,16 +1,16 @@
 ---
-title: "Bloodfiend - Evil Mass Of Putrid Decay"
-date: 2021-06-13T12:22:23
-draft: false
-artist: "Bloodfiend"
-album: "Evil Mass Of Putrid Decay"
-categories:
-    - Tape
-images:
-    - "/images/covers/bloodfiend-evil_mass_of_putrid_decay.jpg"
-thumbnailImage: "/images/covers/bloodfiend-evil_mass_of_putrid_decay-thumb.jpg"
 actualPrice: $6.00
+album: Evil Mass Of Putrid Decay
+artist: Bloodfiend
+categories:
+- Tape
+date: '2021-06-26T15:16:26'
+draft: false
+images:
+- /images/covers/bloodfiend-evil_mass_of_putrid_decay.jpg
 inStock: true
+thumbnailImage: /images/covers/bloodfiend-evil_mass_of_putrid_decay-thumb.jpg
+title: Bloodfiend - Evil Mass Of Putrid Decay
 ---
 
 ## Tape

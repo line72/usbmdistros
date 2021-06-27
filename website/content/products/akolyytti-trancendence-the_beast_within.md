@@ -1,16 +1,16 @@
 ---
-title: "Akolyytti - Trancendence-The Beast Within"
-date: 2021-06-22T16:40:49
-draft: false
-artist: "Akolyytti"
-album: "Trancendence-The Beast Within"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/akolyytti-trancendence-the_beast_within.jpg"
-thumbnailImage: "/images/covers/akolyytti-trancendence-the_beast_within-thumb.jpg"
 actualPrice: $10.00
+album: Trancendence-The Beast Within
+artist: Akolyytti
+categories:
+- Vinyl
+date: '2021-06-26T15:22:59'
+draft: false
+images:
+- /images/covers/akolyytti-trancendence-the_beast_within.jpg
 inStock: true
+thumbnailImage: /images/covers/akolyytti-trancendence-the_beast_within-thumb.jpg
+title: Akolyytti - Trancendence-The Beast Within
 ---
 
 ## Vinyl

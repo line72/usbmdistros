@@ -1,16 +1,16 @@
 ---
-title: "Death.Void.Terror - To the Great Monolith II"
-date: 2021-06-22T16:40:35
-draft: false
-artist: "Death.Void.Terror"
-album: "To the Great Monolith II"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/death.void.terror-to_the_great_monolith_ii.jpg"
-thumbnailImage: "/images/covers/death.void.terror-to_the_great_monolith_ii-thumb.jpg"
 actualPrice: $20.00
+album: To the Great Monolith II
+artist: Death.Void.Terror
+categories:
+- Vinyl
+date: '2021-06-26T15:22:45'
+draft: false
+images:
+- /images/covers/death.void.terror-to_the_great_monolith_ii.jpg
 inStock: true
+thumbnailImage: /images/covers/death.void.terror-to_the_great_monolith_ii-thumb.jpg
+title: Death.Void.Terror - To the Great Monolith II
 ---
 
 ## Vinyl

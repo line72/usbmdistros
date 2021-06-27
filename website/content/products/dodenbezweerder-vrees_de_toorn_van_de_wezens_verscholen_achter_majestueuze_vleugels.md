@@ -1,16 +1,17 @@
 ---
-title: "Dodenbezweerder - Vrees de toorn van de wezens verscholen achter majestueuze vleugels"
-date: 2021-06-12T14:04:39
-draft: false
-artist: "Dodenbezweerder"
-album: "Vrees de toorn van de wezens verscholen achter majestueuze vleugels"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/dodenbezweerder-vrees_de_toorn_van_de_wezens_verscholen_achter_majestueuze_vleugels.jpg"
-thumbnailImage: "/images/covers/dodenbezweerder-vrees_de_toorn_van_de_wezens_verscholen_achter_majestueuze_vleugels-thumb.jpg"
 actualPrice: $18.00
+album: Vrees de toorn van de wezens verscholen achter majestueuze vleugels
+artist: Dodenbezweerder
+categories:
+- Vinyl
+date: '2021-06-26T14:49:52'
+draft: false
+images:
+- /images/covers/dodenbezweerder-vrees_de_toorn_van_de_wezens_verscholen_achter_majestueuze_vleugels.jpg
 inStock: true
+thumbnailImage: /images/covers/dodenbezweerder-vrees_de_toorn_van_de_wezens_verscholen_achter_majestueuze_vleugels-thumb.jpg
+title: Dodenbezweerder - Vrees de toorn van de wezens verscholen achter majestueuze
+  vleugels
 ---
 
 ## Vinyl

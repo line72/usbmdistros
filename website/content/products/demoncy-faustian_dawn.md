@@ -1,16 +1,16 @@
 ---
-title: "Demoncy - Faustian Dawn"
-date: 2021-06-22T16:40:36
-draft: false
-artist: "Demoncy"
-album: "Faustian Dawn"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/demoncy-faustian_dawn.jpg"
-thumbnailImage: "/images/covers/demoncy-faustian_dawn-thumb.jpg"
 actualPrice: $17.00 - 25.00
+album: Faustian Dawn
+artist: Demoncy
+categories:
+- Vinyl
+date: '2021-06-26T15:22:45'
+draft: false
+images:
+- /images/covers/demoncy-faustian_dawn.jpg
 inStock: true
+thumbnailImage: /images/covers/demoncy-faustian_dawn-thumb.jpg
+title: Demoncy - Faustian Dawn
 ---
 
 ## Vinyl

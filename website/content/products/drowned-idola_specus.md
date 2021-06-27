@@ -1,16 +1,16 @@
 ---
-title: "drowned - Idola Specus"
-date: 2021-06-22T16:40:36
-draft: false
-artist: "drowned"
-album: "Idola Specus"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/drowned-idola_specus.jpg"
-thumbnailImage: "/images/covers/drowned-idola_specus-thumb.jpg"
 actualPrice: $25.00
+album: Idola Specus
+artist: drowned
+categories:
+- Vinyl
+date: '2021-06-26T15:22:46'
+draft: false
+images:
+- /images/covers/drowned-idola_specus.jpg
 inStock: true
+thumbnailImage: /images/covers/drowned-idola_specus-thumb.jpg
+title: drowned - Idola Specus
 ---
 
 ## Vinyl

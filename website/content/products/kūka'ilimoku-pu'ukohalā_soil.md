@@ -1,16 +1,16 @@
 ---
-title: "Kūka'Ilimoku - Pu'Ukohalā Soil"
-date: 2021-06-13T12:22:17
-draft: false
-artist: "Kūka'Ilimoku"
-album: "Pu'Ukohalā Soil"
-categories:
-    - Tape
-images:
-    - "/images/covers/kūka'ilimoku-pu'ukohalā_soil.jpg"
-thumbnailImage: "/images/covers/kūka'ilimoku-pu'ukohalā_soil-thumb.jpg"
 actualPrice: $8.50
+album: "Pu'Ukohal\u0101 Soil"
+artist: "K\u016Bka'Ilimoku"
+categories:
+- Tape
+date: '2021-06-26T15:16:21'
+draft: false
+images:
+- "/images/covers/k\u016Bka'ilimoku-pu'ukohal\u0101_soil.jpg"
 inStock: true
+thumbnailImage: "/images/covers/k\u016Bka'ilimoku-pu'ukohal\u0101_soil-thumb.jpg"
+title: "K\u016Bka'Ilimoku - Pu'Ukohal\u0101 Soil"
 ---
 
 ## Tape

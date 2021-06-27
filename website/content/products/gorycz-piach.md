@@ -1,17 +1,17 @@
 ---
-title: "Gorycz - Piach"
-date: 2021-06-22T16:41:10
-draft: false
-artist: "Gorycz"
-album: "Piach"
-categories:
-    - Tape
-    - Cassette
-images:
-    - "/images/covers/gorycz-piach.jpg"
-thumbnailImage: "/images/covers/gorycz-piach-thumb.jpg"
 actualPrice: $5.00 - 9.00
+album: Piach
+artist: Gorycz
+categories:
+- Tape
+- Cassette
+date: '2021-06-26T15:23:20'
+draft: false
+images:
+- /images/covers/gorycz-piach.jpg
 inStock: true
+thumbnailImage: /images/covers/gorycz-piach-thumb.jpg
+title: Gorycz - Piach
 ---
 
 ## Tape

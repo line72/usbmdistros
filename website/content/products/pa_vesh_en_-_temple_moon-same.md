@@ -1,16 +1,16 @@
 ---
-title: "Pa Vesh En / Temple Moon - Same"
-date: 2021-06-12T14:04:39
-draft: false
-artist: "Pa Vesh En / Temple Moon"
-album: "Same"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/pa_vesh_en_-_temple_moon-same.jpg"
-thumbnailImage: "/images/covers/pa_vesh_en_-_temple_moon-same-thumb.jpg"
 actualPrice: $17.00
+album: Same
+artist: Pa Vesh En / Temple Moon
+categories:
+- Vinyl
+date: '2021-06-26T14:49:52'
+draft: false
+images:
+- /images/covers/pa_vesh_en_-_temple_moon-same.jpg
 inStock: true
+thumbnailImage: /images/covers/pa_vesh_en_-_temple_moon-same-thumb.jpg
+title: Pa Vesh En / Temple Moon - Same
 ---
 
 ## Vinyl

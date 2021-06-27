@@ -1,16 +1,16 @@
 ---
-title: "HellHunter - now... you are his"
-date: 2021-06-22T16:40:39
-draft: false
-artist: "HellHunter"
-album: "now... you are his"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/hellhunter-now..._you_are_his.jpg"
-thumbnailImage: "/images/covers/hellhunter-now..._you_are_his-thumb.jpg"
 actualPrice: $17.00
+album: now... you are his
+artist: HellHunter
+categories:
+- Vinyl
+date: '2021-06-26T15:22:48'
+draft: false
+images:
+- /images/covers/hellhunter-now..._you_are_his.jpg
 inStock: true
+thumbnailImage: /images/covers/hellhunter-now..._you_are_his-thumb.jpg
+title: HellHunter - now... you are his
 ---
 
 ## Vinyl

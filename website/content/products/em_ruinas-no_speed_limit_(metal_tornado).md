@@ -1,16 +1,16 @@
 ---
-title: "Em Ruinas - No Speed Limit (Metal Tornado)"
-date: 2021-06-22T16:40:36
-draft: false
-artist: "Em Ruinas"
-album: "No Speed Limit (Metal Tornado)"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/em_ruinas-no_speed_limit_(metal_tornado).jpg"
-thumbnailImage: "/images/covers/em_ruinas-no_speed_limit_(metal_tornado)-thumb.jpg"
 actualPrice: $25.00
+album: No Speed Limit (Metal Tornado)
+artist: Em Ruinas
+categories:
+- Vinyl
+date: '2021-06-26T15:22:46'
+draft: false
+images:
+- /images/covers/em_ruinas-no_speed_limit_(metal_tornado).jpg
 inStock: true
+thumbnailImage: /images/covers/em_ruinas-no_speed_limit_(metal_tornado)-thumb.jpg
+title: Em Ruinas - No Speed Limit (Metal Tornado)
 ---
 
 ## Vinyl

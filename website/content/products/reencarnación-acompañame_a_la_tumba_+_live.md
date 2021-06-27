@@ -1,16 +1,16 @@
 ---
-title: "Reencarnación - Acompañame a la Tumba + Live"
-date: 2021-06-22T16:40:44
-draft: false
-artist: "Reencarnación"
-album: "Acompañame a la Tumba + Live"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/reencarnación-acompañame_a_la_tumba_+_live.jpg"
-thumbnailImage: "/images/covers/reencarnación-acompañame_a_la_tumba_+_live-thumb.jpg"
 actualPrice: $35.00
+album: "Acompa\xF1ame a la Tumba + Live"
+artist: "Reencarnaci\xF3n"
+categories:
+- Vinyl
+date: '2021-06-26T15:22:54'
+draft: false
+images:
+- "/images/covers/reencarnaci\xF3n-acompa\xF1ame_a_la_tumba_+_live.jpg"
 inStock: true
+thumbnailImage: "/images/covers/reencarnaci\xF3n-acompa\xF1ame_a_la_tumba_+_live-thumb.jpg"
+title: "Reencarnaci\xF3n - Acompa\xF1ame a la Tumba + Live"
 ---
 
 ## Vinyl

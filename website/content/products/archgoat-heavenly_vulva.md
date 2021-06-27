@@ -1,16 +1,16 @@
 ---
-title: "Archgoat - Heavenly Vulva"
-date: 2021-06-12T14:11:52
-draft: false
-artist: "Archgoat"
-album: "Heavenly Vulva"
-categories:
-    - CD
-images:
-    - "/images/covers/archgoat-heavenly_vulva.jpg"
-thumbnailImage: "/images/covers/archgoat-heavenly_vulva-thumb.jpg"
 actualPrice: $6.66
+album: Heavenly Vulva
+artist: Archgoat
+categories:
+- CD
+date: '2021-06-26T15:15:51'
+draft: false
+images:
+- /images/covers/archgoat-heavenly_vulva.jpg
 inStock: true
+thumbnailImage: /images/covers/archgoat-heavenly_vulva-thumb.jpg
+title: Archgoat - Heavenly Vulva
 ---
 
 ## CD

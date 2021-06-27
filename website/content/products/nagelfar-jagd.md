@@ -1,16 +1,16 @@
 ---
-title: "Nagelfar - Jagd"
-date: 2021-06-22T16:40:42
-draft: false
-artist: "Nagelfar"
-album: "Jagd"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/nagelfar-jagd.jpg"
-thumbnailImage: "/images/covers/nagelfar-jagd-thumb.jpg"
 actualPrice: $25.00
+album: Jagd
+artist: Nagelfar
+categories:
+- Vinyl
+date: '2021-06-26T15:22:52'
+draft: false
+images:
+- /images/covers/nagelfar-jagd.jpg
 inStock: true
+thumbnailImage: /images/covers/nagelfar-jagd-thumb.jpg
+title: Nagelfar - Jagd
 ---
 
 ## Vinyl

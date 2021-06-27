@@ -1,16 +1,16 @@
 ---
-title: "Pokolgep - Pokoli Színjáték"
-date: 2021-06-22T16:40:43
-draft: false
-artist: "Pokolgep"
-album: "Pokoli Színjáték"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/pokolgep-pokoli_színjáték.jpg"
-thumbnailImage: "/images/covers/pokolgep-pokoli_színjáték-thumb.jpg"
 actualPrice: $25.00
+album: "Pokoli Sz\xEDnj\xE1t\xE9k"
+artist: Pokolgep
+categories:
+- Vinyl
+date: '2021-06-26T15:22:53'
+draft: false
+images:
+- "/images/covers/pokolgep-pokoli_sz\xEDnj\xE1t\xE9k.jpg"
 inStock: true
+thumbnailImage: "/images/covers/pokolgep-pokoli_sz\xEDnj\xE1t\xE9k-thumb.jpg"
+title: "Pokolgep - Pokoli Sz\xEDnj\xE1t\xE9k"
 ---
 
 ## Vinyl

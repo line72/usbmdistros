@@ -1,16 +1,16 @@
 ---
-title: "Immortallity - Born in a Casket"
-date: 2021-06-22T16:40:39
-draft: false
-artist: "Immortallity"
-album: "Born in a Casket"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/immortallity-born_in_a_casket.jpg"
-thumbnailImage: "/images/covers/immortallity-born_in_a_casket-thumb.jpg"
 actualPrice: $25.00
+album: Born in a Casket
+artist: Immortallity
+categories:
+- Vinyl
+date: '2021-06-26T15:22:49'
+draft: false
+images:
+- /images/covers/immortallity-born_in_a_casket.jpg
 inStock: true
+thumbnailImage: /images/covers/immortallity-born_in_a_casket-thumb.jpg
+title: Immortallity - Born in a Casket
 ---
 
 ## Vinyl

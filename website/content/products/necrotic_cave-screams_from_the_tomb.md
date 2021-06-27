@@ -1,16 +1,16 @@
 ---
-title: "Necrotic Cave - Screams From The Tomb"
-date: 2021-06-13T12:22:18
-draft: false
-artist: "Necrotic Cave"
-album: "Screams From The Tomb"
-categories:
-    - Tape
-images:
-    - "/images/covers/necrotic_cave-screams_from_the_tomb.jpg"
-thumbnailImage: "/images/covers/necrotic_cave-screams_from_the_tomb-thumb.jpg"
 actualPrice: $8.50
+album: Screams From The Tomb
+artist: Necrotic Cave
+categories:
+- Tape
+date: '2021-06-26T15:16:22'
+draft: false
+images:
+- /images/covers/necrotic_cave-screams_from_the_tomb.jpg
 inStock: true
+thumbnailImage: /images/covers/necrotic_cave-screams_from_the_tomb-thumb.jpg
+title: Necrotic Cave - Screams From The Tomb
 ---
 
 ## Tape

@@ -1,16 +1,16 @@
 ---
-title: "Kavyk - Radiant Abyss"
-date: 2021-06-13T12:22:20
-draft: false
-artist: "Kavyk"
-album: "Radiant Abyss"
-categories:
-    - Tape
-images:
-    - "/images/covers/kavyk-radiant_abyss.jpg"
-thumbnailImage: "/images/covers/kavyk-radiant_abyss-thumb.jpg"
 actualPrice: $6.50
+album: Radiant Abyss
+artist: Kavyk
+categories:
+- Tape
+date: '2021-06-26T15:16:23'
+draft: false
+images:
+- /images/covers/kavyk-radiant_abyss.jpg
 inStock: true
+thumbnailImage: /images/covers/kavyk-radiant_abyss-thumb.jpg
+title: Kavyk - Radiant Abyss
 ---
 
 ## Tape

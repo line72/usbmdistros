@@ -1,17 +1,17 @@
 ---
-title: "Kauhu - Anomalia"
-date: 2021-06-22T16:41:11
-draft: false
-artist: "Kauhu"
-album: "Anomalia"
-categories:
-    - Tape
-    - Cassette
-images:
-    - "/images/covers/kauhu-anomalia.jpg"
-thumbnailImage: "/images/covers/kauhu-anomalia-thumb.jpg"
 actualPrice: $6.50 - 7.00
+album: Anomalia
+artist: Kauhu
+categories:
+- Tape
+- Cassette
+date: '2021-06-26T15:23:21'
+draft: false
+images:
+- /images/covers/kauhu-anomalia.jpg
 inStock: true
+thumbnailImage: /images/covers/kauhu-anomalia-thumb.jpg
+title: Kauhu - Anomalia
 ---
 
 ## Tape

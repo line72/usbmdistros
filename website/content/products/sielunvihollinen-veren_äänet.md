@@ -1,16 +1,16 @@
 ---
-title: "Sielunvihollinen - Veren Äänet"
-date: 2021-06-12T14:07:51
-draft: false
-artist: "Sielunvihollinen"
-album: "Veren Äänet"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/sielunvihollinen-veren_äänet.jpg"
-thumbnailImage: "/images/covers/sielunvihollinen-veren_äänet-thumb.jpg"
 actualPrice: $25.00
+album: "Veren \xC4\xE4net"
+artist: Sielunvihollinen
+categories:
+- Vinyl
+date: '2021-06-26T15:02:54'
+draft: false
+images:
+- "/images/covers/sielunvihollinen-veren_\xE4\xE4net.jpg"
 inStock: true
+thumbnailImage: "/images/covers/sielunvihollinen-veren_\xE4\xE4net-thumb.jpg"
+title: "Sielunvihollinen - Veren \xC4\xE4net"
 ---
 
 ## Vinyl

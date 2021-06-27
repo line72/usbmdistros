@@ -1,16 +1,16 @@
 ---
-title: "Macerated Stillbirth - Self-Titled"
-date: 2021-06-13T12:22:21
-draft: false
-artist: "Macerated Stillbirth"
-album: "Self-Titled"
-categories:
-    - Tape
-images:
-    - "/images/covers/macerated_stillbirth-self-titled.jpg"
-thumbnailImage: "/images/covers/macerated_stillbirth-self-titled-thumb.jpg"
 actualPrice: $8.00
+album: Self-Titled
+artist: Macerated Stillbirth
+categories:
+- Tape
+date: '2021-06-26T15:16:24'
+draft: false
+images:
+- /images/covers/macerated_stillbirth-self-titled.jpg
 inStock: true
+thumbnailImage: /images/covers/macerated_stillbirth-self-titled-thumb.jpg
+title: Macerated Stillbirth - Self-Titled
 ---
 
 ## Tape

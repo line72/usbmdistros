@@ -1,16 +1,16 @@
 ---
-title: "Cataclysmic Events - Demo 1"
-date: 2021-06-13T12:22:23
-draft: false
-artist: "Cataclysmic Events"
-album: "Demo 1"
-categories:
-    - Tape
-images:
-    - "/images/covers/cataclysmic_events-demo_1.jpg"
-thumbnailImage: "/images/covers/cataclysmic_events-demo_1-thumb.jpg"
 actualPrice: $4.00
+album: Demo 1
+artist: Cataclysmic Events
+categories:
+- Tape
+date: '2021-06-26T15:16:25'
+draft: false
+images:
+- /images/covers/cataclysmic_events-demo_1.jpg
 inStock: true
+thumbnailImage: /images/covers/cataclysmic_events-demo_1-thumb.jpg
+title: Cataclysmic Events - Demo 1
 ---
 
 ## Tape

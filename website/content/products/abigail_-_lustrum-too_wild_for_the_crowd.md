@@ -1,16 +1,16 @@
 ---
-title: "Abigail / Lustrum - Too Wild for the Crowd"
-date: 2021-06-22T16:40:49
-draft: false
-artist: "Abigail / Lustrum"
-album: "Too Wild for the Crowd"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/abigail_-_lustrum-too_wild_for_the_crowd.jpg"
-thumbnailImage: "/images/covers/abigail_-_lustrum-too_wild_for_the_crowd-thumb.jpg"
 actualPrice: $8.00
+album: Too Wild for the Crowd
+artist: Abigail / Lustrum
+categories:
+- Vinyl
+date: '2021-06-26T15:22:59'
+draft: false
+images:
+- /images/covers/abigail_-_lustrum-too_wild_for_the_crowd.jpg
 inStock: true
+thumbnailImage: /images/covers/abigail_-_lustrum-too_wild_for_the_crowd-thumb.jpg
+title: Abigail / Lustrum - Too Wild for the Crowd
 ---
 
 ## Vinyl

@@ -1,17 +1,17 @@
 ---
-title: "Proclamation - Advent of the Black Omen"
-date: 2021-06-22T16:41:03
-draft: false
-artist: "Proclamation"
-album: "Advent of the Black Omen"
-categories:
-    - Vinyl
-    - CD
-images:
-    - "/images/covers/proclamation-advent_of_the_black_omen.jpg"
-thumbnailImage: "/images/covers/proclamation-advent_of_the_black_omen-thumb.jpg"
 actualPrice: $12.00 - 25.00
+album: Advent of the Black Omen
+artist: Proclamation
+categories:
+- Vinyl
+- CD
+date: '2021-06-26T15:23:13'
+draft: false
+images:
+- /images/covers/proclamation-advent_of_the_black_omen.jpg
 inStock: true
+thumbnailImage: /images/covers/proclamation-advent_of_the_black_omen-thumb.jpg
+title: Proclamation - Advent of the Black Omen
 ---
 
 ## Vinyl

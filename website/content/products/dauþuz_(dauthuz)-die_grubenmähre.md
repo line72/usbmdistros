@@ -1,16 +1,16 @@
 ---
-title: "Dauþuz (Dauthuz) - Die Grubenmähre"
-date: 2021-06-22T16:40:35
-draft: false
-artist: "Dauþuz (Dauthuz)"
-album: "Die Grubenmähre"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/dauþuz_(dauthuz)-die_grubenmähre.jpg"
-thumbnailImage: "/images/covers/dauþuz_(dauthuz)-die_grubenmähre-thumb.jpg"
 actualPrice: $25.00
+album: "Die Grubenm\xE4hre"
+artist: "Dau\xFEuz (Dauthuz)"
+categories:
+- Vinyl
+date: '2021-06-26T15:22:45'
+draft: false
+images:
+- "/images/covers/dau\xFEuz_(dauthuz)-die_grubenm\xE4hre.jpg"
 inStock: true
+thumbnailImage: "/images/covers/dau\xFEuz_(dauthuz)-die_grubenm\xE4hre-thumb.jpg"
+title: "Dau\xFEuz (Dauthuz) - Die Grubenm\xE4hre"
 ---
 
 ## Vinyl

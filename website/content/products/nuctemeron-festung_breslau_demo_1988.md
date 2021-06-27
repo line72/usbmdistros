@@ -1,16 +1,16 @@
 ---
-title: "Nuctemeron - Festung Breslau Demo 1988"
-date: 2021-06-22T16:40:42
-draft: false
-artist: "Nuctemeron"
-album: "Festung Breslau Demo 1988"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/nuctemeron-festung_breslau_demo_1988.jpg"
-thumbnailImage: "/images/covers/nuctemeron-festung_breslau_demo_1988-thumb.jpg"
 actualPrice: $17.00
+album: Festung Breslau Demo 1988
+artist: Nuctemeron
+categories:
+- Vinyl
+date: '2021-06-26T15:22:52'
+draft: false
+images:
+- /images/covers/nuctemeron-festung_breslau_demo_1988.jpg
 inStock: true
+thumbnailImage: /images/covers/nuctemeron-festung_breslau_demo_1988-thumb.jpg
+title: Nuctemeron - Festung Breslau Demo 1988
 ---
 
 ## Vinyl

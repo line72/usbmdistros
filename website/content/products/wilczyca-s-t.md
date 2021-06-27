@@ -1,16 +1,16 @@
 ---
-title: "Wilczyca - s/t"
-date: 2021-06-12T14:07:56
-draft: false
-artist: "Wilczyca"
-album: "s/t"
-categories:
-    - Tape
-images:
-    - "/images/covers/wilczyca-s-t.jpg"
-thumbnailImage: "/images/covers/wilczyca-s-t-thumb.jpg"
 actualPrice: $9.00
+album: s/t
+artist: Wilczyca
+categories:
+- Tape
+date: '2021-06-26T15:03:02'
+draft: false
+images:
+- /images/covers/wilczyca-s-t.jpg
 inStock: true
+thumbnailImage: /images/covers/wilczyca-s-t-thumb.jpg
+title: Wilczyca - s/t
 ---
 
 ## Tape

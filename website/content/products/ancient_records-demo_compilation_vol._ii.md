@@ -1,16 +1,16 @@
 ---
-title: "Ancient Records - Demo Compilation Vol. II"
-date: 2021-06-12T14:07:59
-draft: false
-artist: "Ancient Records"
-album: "Demo Compilation Vol. II"
-categories:
-    - CD
-images:
-    - "/images/covers/ancient_records-demo_compilation_vol._ii.jpg"
-thumbnailImage: "/images/covers/ancient_records-demo_compilation_vol._ii-thumb.jpg"
 actualPrice: $18.00
+album: Demo Compilation Vol. II
+artist: Ancient Records
+categories:
+- CD
+date: '2021-06-26T15:03:08'
+draft: false
+images:
+- /images/covers/ancient_records-demo_compilation_vol._ii.jpg
 inStock: true
+thumbnailImage: /images/covers/ancient_records-demo_compilation_vol._ii-thumb.jpg
+title: Ancient Records - Demo Compilation Vol. II
 ---
 
 ## CD

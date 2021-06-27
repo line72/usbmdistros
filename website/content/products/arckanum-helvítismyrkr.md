@@ -1,16 +1,16 @@
 ---
-title: "Arckanum - Helvítismyrkr"
-date: 2021-06-12T14:07:52
-draft: false
-artist: "Arckanum"
-album: "Helvítismyrkr"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/arckanum-helvítismyrkr.jpg"
-thumbnailImage: "/images/covers/arckanum-helvítismyrkr-thumb.jpg"
 actualPrice: $20.00
+album: "Helv\xEDtismyrkr"
+artist: Arckanum
+categories:
+- Vinyl
+date: '2021-06-26T15:02:55'
+draft: false
+images:
+- "/images/covers/arckanum-helv\xEDtismyrkr.jpg"
 inStock: true
+thumbnailImage: "/images/covers/arckanum-helv\xEDtismyrkr-thumb.jpg"
+title: "Arckanum - Helv\xEDtismyrkr"
 ---
 
 ## Vinyl

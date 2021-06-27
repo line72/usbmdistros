@@ -1,16 +1,16 @@
 ---
-title: "Antaeus / Aosoth - Wrath Of The Evangelikum"
-date: 2021-06-22T16:40:32
-draft: false
-artist: "Antaeus / Aosoth"
-album: "Wrath Of The Evangelikum"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/antaeus_-_aosoth-wrath_of_the_evangelikum.jpg"
-thumbnailImage: "/images/covers/antaeus_-_aosoth-wrath_of_the_evangelikum-thumb.jpg"
 actualPrice: $30.00
+album: Wrath Of The Evangelikum
+artist: Antaeus / Aosoth
+categories:
+- Vinyl
+date: '2021-06-26T15:22:42'
+draft: false
+images:
+- /images/covers/antaeus_-_aosoth-wrath_of_the_evangelikum.jpg
 inStock: true
+thumbnailImage: /images/covers/antaeus_-_aosoth-wrath_of_the_evangelikum-thumb.jpg
+title: Antaeus / Aosoth - Wrath Of The Evangelikum
 ---
 
 ## Vinyl

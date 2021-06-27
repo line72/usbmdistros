@@ -1,16 +1,16 @@
 ---
-title: "End / Vacantfield / Awe Split - Moerae"
-date: 2021-06-22T16:40:37
-draft: false
-artist: "End / Vacantfield / Awe Split"
-album: "Moerae"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/end_-_vacantfield_-_awe_split-moerae.jpg"
-thumbnailImage: "/images/covers/end_-_vacantfield_-_awe_split-moerae-thumb.jpg"
 actualPrice: $25.00
+album: Moerae
+artist: End / Vacantfield / Awe Split
+categories:
+- Vinyl
+date: '2021-06-26T15:22:46'
+draft: false
+images:
+- /images/covers/end_-_vacantfield_-_awe_split-moerae.jpg
 inStock: true
+thumbnailImage: /images/covers/end_-_vacantfield_-_awe_split-moerae-thumb.jpg
+title: End / Vacantfield / Awe Split - Moerae
 ---
 
 ## Vinyl

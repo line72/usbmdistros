@@ -1,16 +1,16 @@
 ---
-title: "Darkspace - I"
-date: 2021-06-12T14:04:39
-draft: false
-artist: "Darkspace"
-album: "I"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/darkspace-i.jpg"
-thumbnailImage: "/images/covers/darkspace-i-thumb.jpg"
 actualPrice: $45.00
+album: I
+artist: Darkspace
+categories:
+- Vinyl
+date: '2021-06-26T14:49:52'
+draft: false
+images:
+- /images/covers/darkspace-i.jpg
 inStock: true
+thumbnailImage: /images/covers/darkspace-i-thumb.jpg
+title: Darkspace - I
 ---
 
 ## Vinyl

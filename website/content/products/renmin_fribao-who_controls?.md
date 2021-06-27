@@ -1,16 +1,16 @@
 ---
-title: "Renmin Fribao - Who Controls?"
-date: 2021-06-13T12:22:21
-draft: false
-artist: "Renmin Fribao"
-album: "Who Controls?"
-categories:
-    - Tape
-images:
-    - "/images/covers/renmin_fribao-who_controls?.jpg"
-thumbnailImage: "/images/covers/renmin_fribao-who_controls?-thumb.jpg"
 actualPrice: $6.50
+album: Who Controls?
+artist: Renmin Fribao
+categories:
+- Tape
+date: '2021-06-26T15:16:23'
+draft: false
+images:
+- /images/covers/renmin_fribao-who_controls?.jpg
 inStock: true
+thumbnailImage: /images/covers/renmin_fribao-who_controls?-thumb.jpg
+title: Renmin Fribao - Who Controls?
 ---
 
 ## Tape

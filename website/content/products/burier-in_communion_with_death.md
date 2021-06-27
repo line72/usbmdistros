@@ -1,16 +1,16 @@
 ---
-title: "Burier - In Communion With Death"
-date: 2021-06-22T16:40:54
-draft: false
-artist: "Burier"
-album: "In Communion With Death"
-categories:
-    - CD
-images:
-    - "/images/covers/burier-in_communion_with_death.jpg"
-thumbnailImage: "/images/covers/burier-in_communion_with_death-thumb.jpg"
 actualPrice: $10.00 - 15.00
+album: In Communion With Death
+artist: Burier
+categories:
+- CD
+date: '2021-06-26T15:23:04'
+draft: false
+images:
+- /images/covers/burier-in_communion_with_death.jpg
 inStock: true
+thumbnailImage: /images/covers/burier-in_communion_with_death-thumb.jpg
+title: Burier - In Communion With Death
 ---
 
 ## CD

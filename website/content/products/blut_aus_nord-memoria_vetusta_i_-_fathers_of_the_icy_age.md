@@ -1,16 +1,16 @@
 ---
-title: "Blut Aus Nord - Memoria Vetusta I - Fathers Of The Icy Age"
-date: 2021-06-12T14:11:53
-draft: false
-artist: "Blut Aus Nord"
-album: "Memoria Vetusta I - Fathers Of The Icy Age"
-categories:
-    - Tape
-images:
-    - "/images/covers/blut_aus_nord-memoria_vetusta_i_-_fathers_of_the_icy_age.jpg"
-thumbnailImage: "/images/covers/blut_aus_nord-memoria_vetusta_i_-_fathers_of_the_icy_age-thumb.jpg"
 actualPrice: $13.99
+album: Memoria Vetusta I - Fathers Of The Icy Age
+artist: Blut Aus Nord
+categories:
+- Tape
+date: '2021-06-26T15:15:52'
+draft: false
+images:
+- /images/covers/blut_aus_nord-memoria_vetusta_i_-_fathers_of_the_icy_age.jpg
 inStock: true
+thumbnailImage: /images/covers/blut_aus_nord-memoria_vetusta_i_-_fathers_of_the_icy_age-thumb.jpg
+title: Blut Aus Nord - Memoria Vetusta I - Fathers Of The Icy Age
 ---
 
 ## Tape

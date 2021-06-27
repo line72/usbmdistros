@@ -1,16 +1,16 @@
 ---
-title: "Borda's Rope - Monument to the Fading Tides"
-date: 2021-06-12T14:07:58
-draft: false
-artist: "Borda's Rope"
-album: "Monument to the Fading Tides"
-categories:
-    - CD
-images:
-    - "/images/covers/borda's_rope-monument_to_the_fading_tides.jpg"
-thumbnailImage: "/images/covers/borda's_rope-monument_to_the_fading_tides-thumb.jpg"
 actualPrice: $15.00
+album: Monument to the Fading Tides
+artist: Borda's Rope
+categories:
+- CD
+date: '2021-06-26T15:03:07'
+draft: false
+images:
+- /images/covers/borda's_rope-monument_to_the_fading_tides.jpg
 inStock: true
+thumbnailImage: /images/covers/borda's_rope-monument_to_the_fading_tides-thumb.jpg
+title: Borda's Rope - Monument to the Fading Tides
 ---
 
 ## CD

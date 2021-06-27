@@ -1,17 +1,17 @@
 ---
-title: "Vomit Angel - Imprint Of Extinction"
-date: 2021-06-22T16:40:48
-draft: false
-artist: "Vomit Angel"
-album: "Imprint Of Extinction"
-categories:
-    - Vinyl
-    - Tape
-images:
-    - "/images/covers/vomit_angel-imprint_of_extinction.jpg"
-thumbnailImage: "/images/covers/vomit_angel-imprint_of_extinction-thumb.jpg"
 actualPrice: $7.50 - 17.00
+album: Imprint Of Extinction
+artist: Vomit Angel
+categories:
+- Vinyl
+- Tape
+date: '2021-06-26T15:22:58'
+draft: false
+images:
+- /images/covers/vomit_angel-imprint_of_extinction.jpg
 inStock: true
+thumbnailImage: /images/covers/vomit_angel-imprint_of_extinction-thumb.jpg
+title: Vomit Angel - Imprint Of Extinction
 ---
 
 ## Vinyl

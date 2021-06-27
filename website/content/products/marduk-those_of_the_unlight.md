@@ -1,16 +1,16 @@
 ---
-title: "Marduk - Those of the Unlight"
-date: 2021-06-22T16:40:41
-draft: false
-artist: "Marduk"
-album: "Those of the Unlight"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/marduk-those_of_the_unlight.jpg"
-thumbnailImage: "/images/covers/marduk-those_of_the_unlight-thumb.jpg"
 actualPrice: $25.00
+album: Those of the Unlight
+artist: Marduk
+categories:
+- Vinyl
+date: '2021-06-26T15:22:51'
+draft: false
+images:
+- /images/covers/marduk-those_of_the_unlight.jpg
 inStock: true
+thumbnailImage: /images/covers/marduk-those_of_the_unlight-thumb.jpg
+title: Marduk - Those of the Unlight
 ---
 
 ## Vinyl

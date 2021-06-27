@@ -1,16 +1,16 @@
 ---
-title: "Vessel Of Iniquity - Void Of Infinite Horror"
-date: 2021-06-13T12:22:24
-draft: false
-artist: "Vessel Of Iniquity"
-album: "Void Of Infinite Horror"
-categories:
-    - Tape
-images:
-    - "/images/covers/vessel_of_iniquity-void_of_infinite_horror.jpg"
-thumbnailImage: "/images/covers/vessel_of_iniquity-void_of_infinite_horror-thumb.jpg"
 actualPrice: $5.00
+album: Void Of Infinite Horror
+artist: Vessel Of Iniquity
+categories:
+- Tape
+date: '2021-06-26T15:16:26'
+draft: false
+images:
+- /images/covers/vessel_of_iniquity-void_of_infinite_horror.jpg
 inStock: true
+thumbnailImage: /images/covers/vessel_of_iniquity-void_of_infinite_horror-thumb.jpg
+title: Vessel Of Iniquity - Void Of Infinite Horror
 ---
 
 ## Tape

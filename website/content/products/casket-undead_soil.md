@@ -1,16 +1,16 @@
 ---
-title: "Casket - Undead Soil"
-date: 2021-06-22T16:40:34
-draft: false
-artist: "Casket"
-album: "Undead Soil"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/casket-undead_soil.jpg"
-thumbnailImage: "/images/covers/casket-undead_soil-thumb.jpg"
 actualPrice: $17.00
+album: Undead Soil
+artist: Casket
+categories:
+- Vinyl
+date: '2021-06-26T15:22:44'
+draft: false
+images:
+- /images/covers/casket-undead_soil.jpg
 inStock: true
+thumbnailImage: /images/covers/casket-undead_soil-thumb.jpg
+title: Casket - Undead Soil
 ---
 
 ## Vinyl

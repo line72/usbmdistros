@@ -1,16 +1,16 @@
 ---
-title: "Doom Snake Cult - Love Sorrow Doom"
-date: 2021-06-22T16:40:36
-draft: false
-artist: "Doom Snake Cult"
-album: "Love Sorrow Doom"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/doom_snake_cult-love_sorrow_doom.jpg"
-thumbnailImage: "/images/covers/doom_snake_cult-love_sorrow_doom-thumb.jpg"
 actualPrice: $16.00 - 45.00
+album: Love Sorrow Doom
+artist: Doom Snake Cult
+categories:
+- Vinyl
+date: '2021-06-26T15:22:46'
+draft: false
+images:
+- /images/covers/doom_snake_cult-love_sorrow_doom.jpg
 inStock: true
+thumbnailImage: /images/covers/doom_snake_cult-love_sorrow_doom-thumb.jpg
+title: Doom Snake Cult - Love Sorrow Doom
 ---
 
 ## Vinyl

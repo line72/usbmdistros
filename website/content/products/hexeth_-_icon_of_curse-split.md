@@ -1,16 +1,16 @@
 ---
-title: "Hexeth / Icon Of Curse - Split"
-date: 2021-06-13T12:22:22
-draft: false
-artist: "Hexeth / Icon Of Curse"
-album: "Split"
-categories:
-    - Tape
-images:
-    - "/images/covers/hexeth_-_icon_of_curse-split.jpg"
-thumbnailImage: "/images/covers/hexeth_-_icon_of_curse-split-thumb.jpg"
 actualPrice: $4.00
+album: Split
+artist: Hexeth / Icon Of Curse
+categories:
+- Tape
+date: '2021-06-26T15:16:25'
+draft: false
+images:
+- /images/covers/hexeth_-_icon_of_curse-split.jpg
 inStock: true
+thumbnailImage: /images/covers/hexeth_-_icon_of_curse-split-thumb.jpg
+title: Hexeth / Icon Of Curse - Split
 ---
 
 ## Tape

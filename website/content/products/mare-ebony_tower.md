@@ -1,16 +1,16 @@
 ---
-title: "Mare - Ebony Tower"
-date: 2021-06-22T16:40:41
-draft: false
-artist: "Mare"
-album: "Ebony Tower"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/mare-ebony_tower.jpg"
-thumbnailImage: "/images/covers/mare-ebony_tower-thumb.jpg"
 actualPrice: $27.00
+album: Ebony Tower
+artist: Mare
+categories:
+- Vinyl
+date: '2021-06-26T15:22:51'
+draft: false
+images:
+- /images/covers/mare-ebony_tower.jpg
 inStock: true
+thumbnailImage: /images/covers/mare-ebony_tower-thumb.jpg
+title: Mare - Ebony Tower
 ---
 
 ## Vinyl

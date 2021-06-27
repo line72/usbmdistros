@@ -1,16 +1,16 @@
 ---
-title: "Acheborn - The Demon Love EP"
-date: 2021-06-22T16:40:49
-draft: false
-artist: "Acheborn"
-album: "The Demon Love EP"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/acheborn-the_demon_love_ep.jpg"
-thumbnailImage: "/images/covers/acheborn-the_demon_love_ep-thumb.jpg"
 actualPrice: $5.00
+album: The Demon Love EP
+artist: Acheborn
+categories:
+- Vinyl
+date: '2021-06-26T15:22:59'
+draft: false
+images:
+- /images/covers/acheborn-the_demon_love_ep.jpg
 inStock: true
+thumbnailImage: /images/covers/acheborn-the_demon_love_ep-thumb.jpg
+title: Acheborn - The Demon Love EP
 ---
 
 ## Vinyl

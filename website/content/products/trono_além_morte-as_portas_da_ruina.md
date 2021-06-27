@@ -1,16 +1,16 @@
 ---
-title: "Trono Além Morte - As Portas da Ruina"
-date: 2021-06-12T14:07:54
-draft: false
-artist: "Trono Além Morte"
-album: "As Portas da Ruina"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/trono_além_morte-as_portas_da_ruina.jpg"
-thumbnailImage: "/images/covers/trono_além_morte-as_portas_da_ruina-thumb.jpg"
 actualPrice: $11.00
+album: As Portas da Ruina
+artist: "Trono Al\xE9m Morte"
+categories:
+- Vinyl
+date: '2021-06-26T15:02:58'
+draft: false
+images:
+- "/images/covers/trono_al\xE9m_morte-as_portas_da_ruina.jpg"
 inStock: true
+thumbnailImage: "/images/covers/trono_al\xE9m_morte-as_portas_da_ruina-thumb.jpg"
+title: "Trono Al\xE9m Morte - As Portas da Ruina"
 ---
 
 ## Vinyl

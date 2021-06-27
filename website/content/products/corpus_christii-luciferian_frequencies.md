@@ -1,16 +1,16 @@
 ---
-title: "Corpus Christii - Luciferian Frequencies"
-date: 2021-06-22T16:40:35
-draft: false
-artist: "Corpus Christii"
-album: "Luciferian Frequencies"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/corpus_christii-luciferian_frequencies.jpg"
-thumbnailImage: "/images/covers/corpus_christii-luciferian_frequencies-thumb.jpg"
 actualPrice: $17.00
+album: Luciferian Frequencies
+artist: Corpus Christii
+categories:
+- Vinyl
+date: '2021-06-26T15:22:44'
+draft: false
+images:
+- /images/covers/corpus_christii-luciferian_frequencies.jpg
 inStock: true
+thumbnailImage: /images/covers/corpus_christii-luciferian_frequencies-thumb.jpg
+title: Corpus Christii - Luciferian Frequencies
 ---
 
 ## Vinyl

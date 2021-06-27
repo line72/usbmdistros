@@ -1,16 +1,16 @@
 ---
-title: "Ragnarok - Chaos and Insanity Between 1994-2004"
-date: 2021-06-22T16:40:44
-draft: false
-artist: "Ragnarok"
-album: "Chaos and Insanity Between 1994-2004"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/ragnarok-chaos_and_insanity_between_1994-2004.jpg"
-thumbnailImage: "/images/covers/ragnarok-chaos_and_insanity_between_1994-2004-thumb.jpg"
 actualPrice: $20.00
+album: Chaos and Insanity Between 1994-2004
+artist: Ragnarok
+categories:
+- Vinyl
+date: '2021-06-26T15:22:54'
+draft: false
+images:
+- /images/covers/ragnarok-chaos_and_insanity_between_1994-2004.jpg
 inStock: true
+thumbnailImage: /images/covers/ragnarok-chaos_and_insanity_between_1994-2004-thumb.jpg
+title: Ragnarok - Chaos and Insanity Between 1994-2004
 ---
 
 ## Vinyl

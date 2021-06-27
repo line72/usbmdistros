@@ -1,16 +1,16 @@
 ---
-title: "Murmur - Mainlining the Lugubrus"
-date: 2021-06-12T14:07:51
-draft: false
-artist: "Murmur"
-album: "Mainlining the Lugubrus"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/murmur-mainlining_the_lugubrus.jpg"
-thumbnailImage: "/images/covers/murmur-mainlining_the_lugubrus-thumb.jpg"
 actualPrice: $28.00
+album: Mainlining the Lugubrus
+artist: Murmur
+categories:
+- Vinyl
+date: '2021-06-26T15:02:54'
+draft: false
+images:
+- /images/covers/murmur-mainlining_the_lugubrus.jpg
 inStock: true
+thumbnailImage: /images/covers/murmur-mainlining_the_lugubrus-thumb.jpg
+title: Murmur - Mainlining the Lugubrus
 ---
 
 ## Vinyl

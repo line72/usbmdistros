@@ -1,16 +1,16 @@
 ---
-title: "Abysmal - Carbonized"
-date: 2021-06-22T16:40:32
-draft: false
-artist: "Abysmal"
-album: "Carbonized"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/abysmal-carbonized.jpg"
-thumbnailImage: "/images/covers/abysmal-carbonized-thumb.jpg"
 actualPrice: $17.00
+album: Carbonized
+artist: Abysmal
+categories:
+- Vinyl
+date: '2021-06-26T15:22:41'
+draft: false
+images:
+- /images/covers/abysmal-carbonized.jpg
 inStock: true
+thumbnailImage: /images/covers/abysmal-carbonized-thumb.jpg
+title: Abysmal - Carbonized
 ---
 
 ## Vinyl

@@ -1,17 +1,17 @@
 ---
-title: "Iætun - Eitrkvikja"
-date: 2021-06-22T16:40:59
-draft: false
-artist: "Iætun"
-album: "Eitrkvikja"
-categories:
-    - Vinyl
-    - CD
-images:
-    - "/images/covers/iætun-eitrkvikja.jpg"
-thumbnailImage: "/images/covers/iætun-eitrkvikja-thumb.jpg"
 actualPrice: $12.00 - 25.00
+album: Eitrkvikja
+artist: "I\xE6tun"
+categories:
+- Vinyl
+- CD
+date: '2021-06-26T15:23:10'
+draft: false
+images:
+- "/images/covers/i\xE6tun-eitrkvikja.jpg"
 inStock: true
+thumbnailImage: "/images/covers/i\xE6tun-eitrkvikja-thumb.jpg"
+title: "I\xE6tun - Eitrkvikja"
 ---
 
 ## Vinyl

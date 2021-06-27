@@ -1,16 +1,16 @@
 ---
-title: "Blackline - Simultaneous Pulsations"
-date: 2021-06-12T14:07:53
-draft: false
-artist: "Blackline"
-album: "Simultaneous Pulsations"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/blackline-simultaneous_pulsations.jpg"
-thumbnailImage: "/images/covers/blackline-simultaneous_pulsations-thumb.jpg"
 actualPrice: $38.00
+album: Simultaneous Pulsations
+artist: Blackline
+categories:
+- Vinyl
+date: '2021-06-26T15:02:56'
+draft: false
+images:
+- /images/covers/blackline-simultaneous_pulsations.jpg
 inStock: true
+thumbnailImage: /images/covers/blackline-simultaneous_pulsations-thumb.jpg
+title: Blackline - Simultaneous Pulsations
 ---
 
 ## Vinyl

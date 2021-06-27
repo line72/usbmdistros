@@ -1,16 +1,16 @@
 ---
-title: "Voyeur's Blood ‎– The Dawning of Post - Mortal Enlightenment"
-date: 2021-06-12T14:07:52
-draft: false
-artist: "Voyeur's Blood ‎– The Dawning of Post"
-album: "Mortal Enlightenment"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/voyeur's_blood_‎–_the_dawning_of_post-mortal_enlightenment.jpg"
-thumbnailImage: "/images/covers/voyeur's_blood_‎–_the_dawning_of_post-mortal_enlightenment-thumb.jpg"
 actualPrice: $20.00
+album: Mortal Enlightenment
+artist: "Voyeur's Blood \u200E\u2013 The Dawning of Post"
+categories:
+- Vinyl
+date: '2021-06-26T15:02:54'
+draft: false
+images:
+- "/images/covers/voyeur's_blood_\u200E\u2013_the_dawning_of_post-mortal_enlightenment.jpg"
 inStock: true
+thumbnailImage: "/images/covers/voyeur's_blood_\u200E\u2013_the_dawning_of_post-mortal_enlightenment-thumb.jpg"
+title: "Voyeur's Blood \u200E\u2013 The Dawning of Post - Mortal Enlightenment"
 ---
 
 ## Vinyl

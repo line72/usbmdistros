@@ -1,16 +1,16 @@
 ---
-title: "Outrage - From nightmares and myhts..."
-date: 2021-06-22T16:40:43
-draft: false
-artist: "Outrage"
-album: "From nightmares and myhts..."
-categories:
-    - Vinyl
-images:
-    - "/images/covers/outrage-from_nightmares_and_myhts....jpg"
-thumbnailImage: "/images/covers/outrage-from_nightmares_and_myhts...-thumb.jpg"
 actualPrice: $17.00
+album: From nightmares and myhts...
+artist: Outrage
+categories:
+- Vinyl
+date: '2021-06-26T15:22:53'
+draft: false
+images:
+- /images/covers/outrage-from_nightmares_and_myhts....jpg
 inStock: true
+thumbnailImage: /images/covers/outrage-from_nightmares_and_myhts...-thumb.jpg
+title: Outrage - From nightmares and myhts...
 ---
 
 ## Vinyl

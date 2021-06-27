@@ -1,16 +1,16 @@
 ---
-title: "Kathgor - Invocation"
-date: 2021-06-13T12:22:23
-draft: false
-artist: "Kathgor"
-album: "Invocation"
-categories:
-    - Tape
-images:
-    - "/images/covers/kathgor-invocation.jpg"
-thumbnailImage: "/images/covers/kathgor-invocation-thumb.jpg"
 actualPrice: $3.00
+album: Invocation
+artist: Kathgor
+categories:
+- Tape
+date: '2021-06-26T15:16:26'
+draft: false
+images:
+- /images/covers/kathgor-invocation.jpg
 inStock: true
+thumbnailImage: /images/covers/kathgor-invocation-thumb.jpg
+title: Kathgor - Invocation
 ---
 
 ## Tape

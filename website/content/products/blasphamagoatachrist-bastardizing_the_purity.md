@@ -1,17 +1,17 @@
 ---
-title: "Blasphamagoatachrist - Bastardizing the Purity"
-date: 2021-06-22T16:40:54
-draft: false
-artist: "Blasphamagoatachrist"
-album: "Bastardizing the Purity"
-categories:
-    - Vinyl
-    - CD
-images:
-    - "/images/covers/blasphamagoatachrist-bastardizing_the_purity.jpg"
-thumbnailImage: "/images/covers/blasphamagoatachrist-bastardizing_the_purity-thumb.jpg"
 actualPrice: $12.00 - 20.00
+album: Bastardizing the Purity
+artist: Blasphamagoatachrist
+categories:
+- Vinyl
+- CD
+date: '2021-06-26T15:23:04'
+draft: false
+images:
+- /images/covers/blasphamagoatachrist-bastardizing_the_purity.jpg
 inStock: true
+thumbnailImage: /images/covers/blasphamagoatachrist-bastardizing_the_purity-thumb.jpg
+title: Blasphamagoatachrist - Bastardizing the Purity
 ---
 
 ## Vinyl

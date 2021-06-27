@@ -1,16 +1,16 @@
 ---
-title: "CRUCIFORM - Atavism / Paradox"
-date: 2021-06-22T16:40:35
-draft: false
-artist: "CRUCIFORM"
-album: "Atavism / Paradox"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/cruciform-atavism_-_paradox.jpg"
-thumbnailImage: "/images/covers/cruciform-atavism_-_paradox-thumb.jpg"
 actualPrice: $22.00
+album: Atavism / Paradox
+artist: CRUCIFORM
+categories:
+- Vinyl
+date: '2021-06-26T15:22:44'
+draft: false
+images:
+- /images/covers/cruciform-atavism_-_paradox.jpg
 inStock: true
+thumbnailImage: /images/covers/cruciform-atavism_-_paradox-thumb.jpg
+title: CRUCIFORM - Atavism / Paradox
 ---
 
 ## Vinyl

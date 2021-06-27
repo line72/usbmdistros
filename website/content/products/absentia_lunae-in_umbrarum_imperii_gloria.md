@@ -1,16 +1,16 @@
 ---
-title: "Absentia Lunae - In Umbrarum Imperii Gloria"
-date: 2021-06-22T16:40:32
-draft: false
-artist: "Absentia Lunae"
-album: "In Umbrarum Imperii Gloria"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/absentia_lunae-in_umbrarum_imperii_gloria.jpg"
-thumbnailImage: "/images/covers/absentia_lunae-in_umbrarum_imperii_gloria-thumb.jpg"
 actualPrice: $15.00 - 17.00
+album: In Umbrarum Imperii Gloria
+artist: Absentia Lunae
+categories:
+- Vinyl
+date: '2021-06-26T15:22:41'
+draft: false
+images:
+- /images/covers/absentia_lunae-in_umbrarum_imperii_gloria.jpg
 inStock: true
+thumbnailImage: /images/covers/absentia_lunae-in_umbrarum_imperii_gloria-thumb.jpg
+title: Absentia Lunae - In Umbrarum Imperii Gloria
 ---
 
 ## Vinyl

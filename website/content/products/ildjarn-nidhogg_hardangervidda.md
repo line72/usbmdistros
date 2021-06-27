@@ -1,16 +1,16 @@
 ---
-title: "iLDjARN - NiDHOGG Hardangervidda"
-date: 2021-06-22T16:40:39
-draft: false
-artist: "iLDjARN"
-album: "NiDHOGG Hardangervidda"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/ildjarn-nidhogg_hardangervidda.jpg"
-thumbnailImage: "/images/covers/ildjarn-nidhogg_hardangervidda-thumb.jpg"
 actualPrice: $80.00
+album: NiDHOGG Hardangervidda
+artist: iLDjARN
+categories:
+- Vinyl
+date: '2021-06-26T15:22:49'
+draft: false
+images:
+- /images/covers/ildjarn-nidhogg_hardangervidda.jpg
 inStock: true
+thumbnailImage: /images/covers/ildjarn-nidhogg_hardangervidda-thumb.jpg
+title: iLDjARN - NiDHOGG Hardangervidda
 ---
 
 ## Vinyl

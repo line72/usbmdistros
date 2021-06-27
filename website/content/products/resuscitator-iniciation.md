@@ -1,17 +1,17 @@
 ---
-title: "Resuscitator - Iniciation"
-date: 2021-06-22T16:41:04
-draft: false
-artist: "Resuscitator"
-album: "Iniciation"
-categories:
-    - Vinyl
-    - CD
-images:
-    - "/images/covers/resuscitator-iniciation.jpg"
-thumbnailImage: "/images/covers/resuscitator-iniciation-thumb.jpg"
 actualPrice: $10.00
+album: Iniciation
+artist: Resuscitator
+categories:
+- Vinyl
+- CD
+date: '2021-06-26T15:23:14'
+draft: false
+images:
+- /images/covers/resuscitator-iniciation.jpg
 inStock: true
+thumbnailImage: /images/covers/resuscitator-iniciation-thumb.jpg
+title: Resuscitator - Iniciation
 ---
 
 ## Vinyl

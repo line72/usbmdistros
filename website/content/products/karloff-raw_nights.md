@@ -1,16 +1,16 @@
 ---
-title: "Karloff - Raw Nights"
-date: 2021-06-22T16:40:40
-draft: false
-artist: "Karloff"
-album: "Raw Nights"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/karloff-raw_nights.jpg"
-thumbnailImage: "/images/covers/karloff-raw_nights-thumb.jpg"
 actualPrice: $20.00
+album: Raw Nights
+artist: Karloff
+categories:
+- Vinyl
+date: '2021-06-26T15:22:49'
+draft: false
+images:
+- /images/covers/karloff-raw_nights.jpg
 inStock: true
+thumbnailImage: /images/covers/karloff-raw_nights-thumb.jpg
+title: Karloff - Raw Nights
 ---
 
 ## Vinyl

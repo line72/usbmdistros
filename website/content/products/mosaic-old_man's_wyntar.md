@@ -1,16 +1,16 @@
 ---
-title: "Mosaic - Old Man's Wyntar"
-date: 2021-06-22T16:40:41
-draft: false
-artist: "Mosaic"
-album: "Old Man's Wyntar"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/mosaic-old_man's_wyntar.jpg"
-thumbnailImage: "/images/covers/mosaic-old_man's_wyntar-thumb.jpg"
 actualPrice: $17.00
+album: Old Man's Wyntar
+artist: Mosaic
+categories:
+- Vinyl
+date: '2021-06-26T15:22:51'
+draft: false
+images:
+- /images/covers/mosaic-old_man's_wyntar.jpg
 inStock: true
+thumbnailImage: /images/covers/mosaic-old_man's_wyntar-thumb.jpg
+title: Mosaic - Old Man's Wyntar
 ---
 
 ## Vinyl

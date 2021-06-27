@@ -1,16 +1,16 @@
 ---
-title: "Assfactor 4 - S/T"
-date: 2021-06-22T16:40:33
-draft: false
-artist: "Assfactor 4"
-album: "S/T"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/assfactor_4-s-t.jpg"
-thumbnailImage: "/images/covers/assfactor_4-s-t-thumb.jpg"
 actualPrice: $15.00
+album: S/T
+artist: Assfactor 4
+categories:
+- Vinyl
+date: '2021-06-26T15:22:42'
+draft: false
+images:
+- /images/covers/assfactor_4-s-t.jpg
 inStock: true
+thumbnailImage: /images/covers/assfactor_4-s-t-thumb.jpg
+title: Assfactor 4 - S/T
 ---
 
 ## Vinyl

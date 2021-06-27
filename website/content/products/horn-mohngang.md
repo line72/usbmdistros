@@ -1,16 +1,16 @@
 ---
-title: "Horn - Mohngang"
-date: 2021-06-22T16:40:39
-draft: false
-artist: "Horn"
-album: "Mohngang"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/horn-mohngang.jpg"
-thumbnailImage: "/images/covers/horn-mohngang-thumb.jpg"
 actualPrice: $20.00
+album: Mohngang
+artist: Horn
+categories:
+- Vinyl
+date: '2021-06-26T15:22:49'
+draft: false
+images:
+- /images/covers/horn-mohngang.jpg
 inStock: true
+thumbnailImage: /images/covers/horn-mohngang-thumb.jpg
+title: Horn - Mohngang
 ---
 
 ## Vinyl

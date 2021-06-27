@@ -1,16 +1,16 @@
 ---
-title: "Kūka'Ilimoku - S/T Ii"
-date: 2021-06-13T12:22:17
-draft: false
-artist: "Kūka'Ilimoku"
-album: "S/T Ii"
-categories:
-    - Tape
-images:
-    - "/images/covers/kūka'ilimoku-s-t_ii.jpg"
-thumbnailImage: "/images/covers/kūka'ilimoku-s-t_ii-thumb.jpg"
 actualPrice: $8.50
+album: S/T Ii
+artist: "K\u016Bka'Ilimoku"
+categories:
+- Tape
+date: '2021-06-26T15:16:21'
+draft: false
+images:
+- "/images/covers/k\u016Bka'ilimoku-s-t_ii.jpg"
 inStock: true
+thumbnailImage: "/images/covers/k\u016Bka'ilimoku-s-t_ii-thumb.jpg"
+title: "K\u016Bka'Ilimoku - S/T Ii"
 ---
 
 ## Tape

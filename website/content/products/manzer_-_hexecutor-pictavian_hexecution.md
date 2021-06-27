@@ -1,16 +1,16 @@
 ---
-title: "Manzer / Hexecutor - Pictavian Hexecution"
-date: 2021-06-22T16:40:41
-draft: false
-artist: "Manzer / Hexecutor"
-album: "Pictavian Hexecution"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/manzer_-_hexecutor-pictavian_hexecution.jpg"
-thumbnailImage: "/images/covers/manzer_-_hexecutor-pictavian_hexecution-thumb.jpg"
 actualPrice: $15.00
+album: Pictavian Hexecution
+artist: Manzer / Hexecutor
+categories:
+- Vinyl
+date: '2021-06-26T15:22:50'
+draft: false
+images:
+- /images/covers/manzer_-_hexecutor-pictavian_hexecution.jpg
 inStock: true
+thumbnailImage: /images/covers/manzer_-_hexecutor-pictavian_hexecution-thumb.jpg
+title: Manzer / Hexecutor - Pictavian Hexecution
 ---
 
 ## Vinyl

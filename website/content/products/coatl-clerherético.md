@@ -1,17 +1,17 @@
 ---
-title: "Coatl - Clerherético"
-date: 2021-06-22T16:41:09
-draft: false
-artist: "Coatl"
-album: "Clerherético"
-categories:
-    - Tape
-    - Cassette
-images:
-    - "/images/covers/coatl-clerherético.jpg"
-thumbnailImage: "/images/covers/coatl-clerherético-thumb.jpg"
 actualPrice: $6.50 - 7.00
+album: "Clerher\xE9tico"
+artist: Coatl
+categories:
+- Tape
+- Cassette
+date: '2021-06-26T15:23:19'
+draft: false
+images:
+- "/images/covers/coatl-clerher\xE9tico.jpg"
 inStock: true
+thumbnailImage: "/images/covers/coatl-clerher\xE9tico-thumb.jpg"
+title: "Coatl - Clerher\xE9tico"
 ---
 
 ## Tape

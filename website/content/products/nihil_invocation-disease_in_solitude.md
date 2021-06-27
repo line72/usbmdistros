@@ -1,16 +1,16 @@
 ---
-title: "Nihil Invocation - Disease in Solitude"
-date: 2021-06-12T14:07:51
-draft: false
-artist: "Nihil Invocation"
-album: "Disease in Solitude"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/nihil_invocation-disease_in_solitude.jpg"
-thumbnailImage: "/images/covers/nihil_invocation-disease_in_solitude-thumb.jpg"
 actualPrice: $28.00
+album: Disease in Solitude
+artist: Nihil Invocation
+categories:
+- Vinyl
+date: '2021-06-26T15:02:54'
+draft: false
+images:
+- /images/covers/nihil_invocation-disease_in_solitude.jpg
 inStock: true
+thumbnailImage: /images/covers/nihil_invocation-disease_in_solitude-thumb.jpg
+title: Nihil Invocation - Disease in Solitude
 ---
 
 ## Vinyl

@@ -1,16 +1,16 @@
 ---
-title: "Necrosemen - And All Shall be Smitten by Fyre"
-date: 2021-06-22T16:40:42
-draft: false
-artist: "Necrosemen"
-album: "And All Shall be Smitten by Fyre"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/necrosemen-and_all_shall_be_smitten_by_fyre.jpg"
-thumbnailImage: "/images/covers/necrosemen-and_all_shall_be_smitten_by_fyre-thumb.jpg"
 actualPrice: $17.00
+album: And All Shall be Smitten by Fyre
+artist: Necrosemen
+categories:
+- Vinyl
+date: '2021-06-26T15:22:52'
+draft: false
+images:
+- /images/covers/necrosemen-and_all_shall_be_smitten_by_fyre.jpg
 inStock: true
+thumbnailImage: /images/covers/necrosemen-and_all_shall_be_smitten_by_fyre-thumb.jpg
+title: Necrosemen - And All Shall be Smitten by Fyre
 ---
 
 ## Vinyl

@@ -1,16 +1,16 @@
 ---
-title: "Destructor - Maximum Destruction"
-date: 2021-06-13T12:22:19
-draft: false
-artist: "Destructor"
-album: "Maximum Destruction"
-categories:
-    - Tape
-images:
-    - "/images/covers/destructor-maximum_destruction.jpg"
-thumbnailImage: "/images/covers/destructor-maximum_destruction-thumb.jpg"
 actualPrice: $7.50
+album: Maximum Destruction
+artist: Destructor
+categories:
+- Tape
+date: '2021-06-26T15:16:22'
+draft: false
+images:
+- /images/covers/destructor-maximum_destruction.jpg
 inStock: true
+thumbnailImage: /images/covers/destructor-maximum_destruction-thumb.jpg
+title: Destructor - Maximum Destruction
 ---
 
 ## Tape

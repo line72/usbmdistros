@@ -1,16 +1,16 @@
 ---
-title: "Deathcult - Beasts of Faith"
-date: 2021-06-22T16:40:35
-draft: false
-artist: "Deathcult"
-album: "Beasts of Faith"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/deathcult-beasts_of_faith.jpg"
-thumbnailImage: "/images/covers/deathcult-beasts_of_faith-thumb.jpg"
 actualPrice: $17.00
+album: Beasts of Faith
+artist: Deathcult
+categories:
+- Vinyl
+date: '2021-06-26T15:22:45'
+draft: false
+images:
+- /images/covers/deathcult-beasts_of_faith.jpg
 inStock: true
+thumbnailImage: /images/covers/deathcult-beasts_of_faith-thumb.jpg
+title: Deathcult - Beasts of Faith
 ---
 
 ## Vinyl

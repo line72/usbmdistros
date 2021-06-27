@@ -1,16 +1,16 @@
 ---
-title: "Psychotomimetic - Delirio Dimensional"
-date: 2021-06-22T16:40:43
-draft: false
-artist: "Psychotomimetic"
-album: "Delirio Dimensional"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/psychotomimetic-delirio_dimensional.jpg"
-thumbnailImage: "/images/covers/psychotomimetic-delirio_dimensional-thumb.jpg"
 actualPrice: $17.00
+album: Delirio Dimensional
+artist: Psychotomimetic
+categories:
+- Vinyl
+date: '2021-06-26T15:22:53'
+draft: false
+images:
+- /images/covers/psychotomimetic-delirio_dimensional.jpg
 inStock: true
+thumbnailImage: /images/covers/psychotomimetic-delirio_dimensional-thumb.jpg
+title: Psychotomimetic - Delirio Dimensional
 ---
 
 ## Vinyl

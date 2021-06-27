@@ -1,16 +1,16 @@
 ---
-title: "Absentation - The Intellectual Darkness"
-date: 2021-06-22T16:40:52
-draft: false
-artist: "Absentation"
-album: "The Intellectual Darkness"
-categories:
-    - CD
-images:
-    - "/images/covers/absentation-the_intellectual_darkness.jpg"
-thumbnailImage: "/images/covers/absentation-the_intellectual_darkness-thumb.jpg"
 actualPrice: $10.00
+album: The Intellectual Darkness
+artist: Absentation
+categories:
+- CD
+date: '2021-06-26T15:23:02'
+draft: false
+images:
+- /images/covers/absentation-the_intellectual_darkness.jpg
 inStock: true
+thumbnailImage: /images/covers/absentation-the_intellectual_darkness-thumb.jpg
+title: Absentation - The Intellectual Darkness
 ---
 
 ## CD

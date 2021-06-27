@@ -1,16 +1,16 @@
 ---
-title: "Voidsphere - To Await | To Expect"
-date: 2021-06-22T16:41:07
-draft: false
-artist: "Voidsphere"
-album: "To Await | To Expect"
-categories:
-    - CD
-images:
-    - "/images/covers/voidsphere-to_await_|_to_expect.jpg"
-thumbnailImage: "/images/covers/voidsphere-to_await_|_to_expect-thumb.jpg"
 actualPrice: $10.00 - 12.00
+album: To Await | To Expect
+artist: Voidsphere
+categories:
+- CD
+date: '2021-06-26T15:23:17'
+draft: false
+images:
+- /images/covers/voidsphere-to_await_|_to_expect.jpg
 inStock: true
+thumbnailImage: /images/covers/voidsphere-to_await_|_to_expect-thumb.jpg
+title: Voidsphere - To Await | To Expect
 ---
 
 ## CD

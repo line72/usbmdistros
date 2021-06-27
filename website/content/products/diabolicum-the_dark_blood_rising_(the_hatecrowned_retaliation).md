@@ -1,16 +1,16 @@
 ---
-title: "Diabolicum - The Dark Blood Rising (The Hatecrowned Retaliation)"
-date: 2021-06-22T16:40:36
-draft: false
-artist: "Diabolicum"
-album: "The Dark Blood Rising (The Hatecrowned Retaliation)"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/diabolicum-the_dark_blood_rising_(the_hatecrowned_retaliation).jpg"
-thumbnailImage: "/images/covers/diabolicum-the_dark_blood_rising_(the_hatecrowned_retaliation)-thumb.jpg"
 actualPrice: $25.00
+album: The Dark Blood Rising (The Hatecrowned Retaliation)
+artist: Diabolicum
+categories:
+- Vinyl
+date: '2021-06-26T15:22:45'
+draft: false
+images:
+- /images/covers/diabolicum-the_dark_blood_rising_(the_hatecrowned_retaliation).jpg
 inStock: true
+thumbnailImage: /images/covers/diabolicum-the_dark_blood_rising_(the_hatecrowned_retaliation)-thumb.jpg
+title: Diabolicum - The Dark Blood Rising (The Hatecrowned Retaliation)
 ---
 
 ## Vinyl

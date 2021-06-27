@@ -1,16 +1,16 @@
 ---
-title: "Pyriphlegethon - The Murky Black of Eternal Night"
-date: 2021-06-22T16:40:44
-draft: false
-artist: "Pyriphlegethon"
-album: "The Murky Black of Eternal Night"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/pyriphlegethon-the_murky_black_of_eternal_night.jpg"
-thumbnailImage: "/images/covers/pyriphlegethon-the_murky_black_of_eternal_night-thumb.jpg"
 actualPrice: $17.00
+album: The Murky Black of Eternal Night
+artist: Pyriphlegethon
+categories:
+- Vinyl
+date: '2021-06-26T15:22:53'
+draft: false
+images:
+- /images/covers/pyriphlegethon-the_murky_black_of_eternal_night.jpg
 inStock: true
+thumbnailImage: /images/covers/pyriphlegethon-the_murky_black_of_eternal_night-thumb.jpg
+title: Pyriphlegethon - The Murky Black of Eternal Night
 ---
 
 ## Vinyl

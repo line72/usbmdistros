@@ -1,16 +1,16 @@
 ---
-title: "Mayhem - Live in Zeitz"
-date: 2021-06-22T16:40:41
-draft: false
-artist: "Mayhem"
-album: "Live in Zeitz"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/mayhem-live_in_zeitz.jpg"
-thumbnailImage: "/images/covers/mayhem-live_in_zeitz-thumb.jpg"
 actualPrice: $25.00
+album: Live in Zeitz
+artist: Mayhem
+categories:
+- Vinyl
+date: '2021-06-26T15:22:51'
+draft: false
+images:
+- /images/covers/mayhem-live_in_zeitz.jpg
 inStock: true
+thumbnailImage: /images/covers/mayhem-live_in_zeitz-thumb.jpg
+title: Mayhem - Live in Zeitz
 ---
 
 ## Vinyl

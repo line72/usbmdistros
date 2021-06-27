@@ -1,17 +1,17 @@
 ---
-title: "Fallen Angel - All Salvation Lost"
-date: 2021-06-22T16:41:10
-draft: false
-artist: "Fallen Angel"
-album: "All Salvation Lost"
-categories:
-    - Tape
-    - Cassette
-images:
-    - "/images/covers/fallen_angel-all_salvation_lost.jpg"
-thumbnailImage: "/images/covers/fallen_angel-all_salvation_lost-thumb.jpg"
 actualPrice: $6.00 - 8.00
+album: All Salvation Lost
+artist: Fallen Angel
+categories:
+- Tape
+- Cassette
+date: '2021-06-26T15:23:20'
+draft: false
+images:
+- /images/covers/fallen_angel-all_salvation_lost.jpg
 inStock: true
+thumbnailImage: /images/covers/fallen_angel-all_salvation_lost-thumb.jpg
+title: Fallen Angel - All Salvation Lost
 ---
 
 ## Tape

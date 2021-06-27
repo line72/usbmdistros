@@ -1,16 +1,16 @@
 ---
-title: "Lifelover - Dekadens"
-date: 2021-06-22T16:40:40
-draft: false
-artist: "Lifelover"
-album: "Dekadens"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/lifelover-dekadens.jpg"
-thumbnailImage: "/images/covers/lifelover-dekadens-thumb.jpg"
 actualPrice: $22.00
+album: Dekadens
+artist: Lifelover
+categories:
+- Vinyl
+date: '2021-06-26T15:22:50'
+draft: false
+images:
+- /images/covers/lifelover-dekadens.jpg
 inStock: true
+thumbnailImage: /images/covers/lifelover-dekadens-thumb.jpg
+title: Lifelover - Dekadens
 ---
 
 ## Vinyl

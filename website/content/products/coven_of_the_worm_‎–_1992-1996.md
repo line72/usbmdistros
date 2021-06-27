@@ -1,16 +1,16 @@
 ---
-title: "Coven of the Worm ‎– 1992 - 1996"
-date: 2021-06-12T14:07:52
-draft: false
-artist: "Coven of the Worm ‎– 1992"
-album: "1996"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/coven_of_the_worm_‎–_1992-1996.jpg"
-thumbnailImage: "/images/covers/coven_of_the_worm_‎–_1992-1996-thumb.jpg"
 actualPrice: $20.00
+album: '1996'
+artist: "Coven of the Worm \u200E\u2013 1992"
+categories:
+- Vinyl
+date: '2021-06-26T15:02:54'
+draft: false
+images:
+- "/images/covers/coven_of_the_worm_\u200E\u2013_1992-1996.jpg"
 inStock: true
+thumbnailImage: "/images/covers/coven_of_the_worm_\u200E\u2013_1992-1996-thumb.jpg"
+title: "Coven of the Worm \u200E\u2013 1992 - 1996"
 ---
 
 ## Vinyl

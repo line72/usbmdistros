@@ -1,16 +1,16 @@
 ---
-title: "Pa Vesh En - Cryptic Rights of Necromancy"
-date: 2021-06-12T14:04:39
-draft: false
-artist: "Pa Vesh En"
-album: "Cryptic Rights of Necromancy"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/pa_vesh_en-cryptic_rights_of_necromancy.jpg"
-thumbnailImage: "/images/covers/pa_vesh_en-cryptic_rights_of_necromancy-thumb.jpg"
 actualPrice: $11.00
+album: Cryptic Rights of Necromancy
+artist: Pa Vesh En
+categories:
+- Vinyl
+date: '2021-06-26T14:49:52'
+draft: false
+images:
+- /images/covers/pa_vesh_en-cryptic_rights_of_necromancy.jpg
 inStock: true
+thumbnailImage: /images/covers/pa_vesh_en-cryptic_rights_of_necromancy-thumb.jpg
+title: Pa Vesh En - Cryptic Rights of Necromancy
 ---
 
 ## Vinyl

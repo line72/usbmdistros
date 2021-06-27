@@ -1,16 +1,16 @@
 ---
-title: "Squonk - S/T"
-date: 2021-06-13T12:22:20
-draft: false
-artist: "Squonk"
-album: "S/T"
-categories:
-    - Tape
-images:
-    - "/images/covers/squonk-s-t.jpg"
-thumbnailImage: "/images/covers/squonk-s-t-thumb.jpg"
 actualPrice: $7.00
+album: S/T
+artist: Squonk
+categories:
+- Tape
+date: '2021-06-26T15:16:23'
+draft: false
+images:
+- /images/covers/squonk-s-t.jpg
 inStock: true
+thumbnailImage: /images/covers/squonk-s-t-thumb.jpg
+title: Squonk - S/T
 ---
 
 ## Tape

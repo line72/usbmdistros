@@ -1,16 +1,16 @@
 ---
-title: "Krüel Kömmando - Synagoga Satanæ"
-date: 2021-06-22T16:41:00
-draft: false
-artist: "Krüel Kömmando"
-album: "Synagoga Satanæ"
-categories:
-    - CD
-images:
-    - "/images/covers/krüel_kömmando-synagoga_satanæ.jpg"
-thumbnailImage: "/images/covers/krüel_kömmando-synagoga_satanæ-thumb.jpg"
 actualPrice: $10.00
+album: "Synagoga Satan\xE6"
+artist: "Kr\xFCel K\xF6mmando"
+categories:
+- CD
+date: '2021-06-26T15:23:10'
+draft: false
+images:
+- "/images/covers/kr\xFCel_k\xF6mmando-synagoga_satan\xE6.jpg"
 inStock: true
+thumbnailImage: "/images/covers/kr\xFCel_k\xF6mmando-synagoga_satan\xE6-thumb.jpg"
+title: "Kr\xFCel K\xF6mmando - Synagoga Satan\xE6"
 ---
 
 ## CD

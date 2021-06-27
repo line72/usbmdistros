@@ -1,16 +1,16 @@
 ---
-title: "Marduk - Plague Angel"
-date: 2021-06-22T16:40:41
-draft: false
-artist: "Marduk"
-album: "Plague Angel"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/marduk-plague_angel.jpg"
-thumbnailImage: "/images/covers/marduk-plague_angel-thumb.jpg"
 actualPrice: $25.00
+album: Plague Angel
+artist: Marduk
+categories:
+- Vinyl
+date: '2021-06-26T15:22:51'
+draft: false
+images:
+- /images/covers/marduk-plague_angel.jpg
 inStock: true
+thumbnailImage: /images/covers/marduk-plague_angel-thumb.jpg
+title: Marduk - Plague Angel
 ---
 
 ## Vinyl

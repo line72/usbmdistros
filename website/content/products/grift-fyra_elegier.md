@@ -1,17 +1,17 @@
 ---
-title: "Grift - Fyra Elegier"
-date: 2021-06-22T16:40:58
-draft: false
-artist: "Grift"
-album: "Fyra Elegier"
-categories:
-    - Vinyl
-    - CD
-images:
-    - "/images/covers/grift-fyra_elegier.jpg"
-thumbnailImage: "/images/covers/grift-fyra_elegier-thumb.jpg"
 actualPrice: $10.00 - 22.00
+album: Fyra Elegier
+artist: Grift
+categories:
+- Vinyl
+- CD
+date: '2021-06-26T15:23:08'
+draft: false
+images:
+- /images/covers/grift-fyra_elegier.jpg
 inStock: true
+thumbnailImage: /images/covers/grift-fyra_elegier-thumb.jpg
+title: Grift - Fyra Elegier
 ---
 
 ## Vinyl

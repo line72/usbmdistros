@@ -1,18 +1,18 @@
 ---
-title: "The Amenta - Revelator"
-date: 2021-06-12T14:11:53
-draft: false
-artist: "The Amenta"
-album: "Revelator"
-categories:
-    - Vinyl
-    - Tape
-    - CD
-images:
-    - "/images/covers/the_amenta-revelator.jpg"
-thumbnailImage: "/images/covers/the_amenta-revelator-thumb.jpg"
 actualPrice: $9.99 - 32.99
+album: Revelator
+artist: The Amenta
+categories:
+- Vinyl
+- Tape
+- CD
+date: '2021-06-26T15:15:52'
+draft: false
+images:
+- /images/covers/the_amenta-revelator.jpg
 inStock: true
+thumbnailImage: /images/covers/the_amenta-revelator-thumb.jpg
+title: The Amenta - Revelator
 ---
 
 ## Vinyl

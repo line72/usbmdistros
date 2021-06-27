@@ -1,16 +1,16 @@
 ---
-title: "Toadeater - Bit To Ewigen Daogen"
-date: 2021-06-13T12:22:19
-draft: false
-artist: "Toadeater"
-album: "Bit To Ewigen Daogen"
-categories:
-    - Tape
-images:
-    - "/images/covers/toadeater-bit_to_ewigen_daogen.jpg"
-thumbnailImage: "/images/covers/toadeater-bit_to_ewigen_daogen-thumb.jpg"
 actualPrice: $6.50
+album: Bit To Ewigen Daogen
+artist: Toadeater
+categories:
+- Tape
+date: '2021-06-26T15:16:22'
+draft: false
+images:
+- /images/covers/toadeater-bit_to_ewigen_daogen.jpg
 inStock: true
+thumbnailImage: /images/covers/toadeater-bit_to_ewigen_daogen-thumb.jpg
+title: Toadeater - Bit To Ewigen Daogen
 ---
 
 ## Tape

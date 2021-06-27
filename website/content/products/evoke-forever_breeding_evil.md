@@ -1,16 +1,16 @@
 ---
-title: "Evoke - Forever Breeding Evil"
-date: 2021-06-22T16:40:37
-draft: false
-artist: "Evoke"
-album: "Forever Breeding Evil"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/evoke-forever_breeding_evil.jpg"
-thumbnailImage: "/images/covers/evoke-forever_breeding_evil-thumb.jpg"
 actualPrice: $10.00 - 12.00
+album: Forever Breeding Evil
+artist: Evoke
+categories:
+- Vinyl
+date: '2021-06-26T15:22:46'
+draft: false
+images:
+- /images/covers/evoke-forever_breeding_evil.jpg
 inStock: true
+thumbnailImage: /images/covers/evoke-forever_breeding_evil-thumb.jpg
+title: Evoke - Forever Breeding Evil
 ---
 
 ## Vinyl

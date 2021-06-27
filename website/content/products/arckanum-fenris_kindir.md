@@ -1,16 +1,16 @@
 ---
-title: "Arckanum - Fenris Kindir"
-date: 2021-06-12T14:07:52
-draft: false
-artist: "Arckanum"
-album: "Fenris Kindir"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/arckanum-fenris_kindir.jpg"
-thumbnailImage: "/images/covers/arckanum-fenris_kindir-thumb.jpg"
 actualPrice: $20.00
+album: Fenris Kindir
+artist: Arckanum
+categories:
+- Vinyl
+date: '2021-06-26T15:02:55'
+draft: false
+images:
+- /images/covers/arckanum-fenris_kindir.jpg
 inStock: true
+thumbnailImage: /images/covers/arckanum-fenris_kindir-thumb.jpg
+title: Arckanum - Fenris Kindir
 ---
 
 ## Vinyl

@@ -1,16 +1,16 @@
 ---
-title: "Saidan / Klanen - Split"
-date: 2021-06-12T14:07:58
-draft: false
-artist: "Saidan / Klanen"
-album: "Split"
-categories:
-    - CD
-images:
-    - "/images/covers/saidan_-_klanen-split.jpg"
-thumbnailImage: "/images/covers/saidan_-_klanen-split-thumb.jpg"
 actualPrice: $15.00
+album: Split
+artist: Saidan / Klanen
+categories:
+- CD
+date: '2021-06-26T15:03:07'
+draft: false
+images:
+- /images/covers/saidan_-_klanen-split.jpg
 inStock: true
+thumbnailImage: /images/covers/saidan_-_klanen-split-thumb.jpg
+title: Saidan / Klanen - Split
 ---
 
 ## CD

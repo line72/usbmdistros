@@ -1,16 +1,16 @@
 ---
-title: "Valium - Scars From Different Times"
-date: 2021-06-13T12:22:22
-draft: false
-artist: "Valium"
-album: "Scars From Different Times"
-categories:
-    - Tape
-images:
-    - "/images/covers/valium-scars_from_different_times.jpg"
-thumbnailImage: "/images/covers/valium-scars_from_different_times-thumb.jpg"
 actualPrice: $4.00
+album: Scars From Different Times
+artist: Valium
+categories:
+- Tape
+date: '2021-06-26T15:16:24'
+draft: false
+images:
+- /images/covers/valium-scars_from_different_times.jpg
 inStock: true
+thumbnailImage: /images/covers/valium-scars_from_different_times-thumb.jpg
+title: Valium - Scars From Different Times
 ---
 
 ## Tape

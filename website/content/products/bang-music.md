@@ -1,17 +1,17 @@
 ---
-title: "Bang - Music"
-date: 2021-06-22T16:40:53
-draft: false
-artist: "Bang"
-album: "Music"
-categories:
-    - Vinyl
-    - CD
-images:
-    - "/images/covers/bang-music.jpg"
-thumbnailImage: "/images/covers/bang-music-thumb.jpg"
 actualPrice: $12.00 - 27.00
+album: Music
+artist: Bang
+categories:
+- Vinyl
+- CD
+date: '2021-06-26T15:23:03'
+draft: false
+images:
+- /images/covers/bang-music.jpg
 inStock: true
+thumbnailImage: /images/covers/bang-music-thumb.jpg
+title: Bang - Music
 ---
 
 ## Vinyl

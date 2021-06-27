@@ -1,16 +1,16 @@
 ---
-title: "Megalith Grave / Nihil Invocation - Malicious Curses Reached In Drawing Night"
-date: 2021-06-22T16:40:41
-draft: false
-artist: "Megalith Grave / Nihil Invocation"
-album: "Malicious Curses Reached In Drawing Night"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/megalith_grave_-_nihil_invocation-malicious_curses_reached_in_drawing_night.jpg"
-thumbnailImage: "/images/covers/megalith_grave_-_nihil_invocation-malicious_curses_reached_in_drawing_night-thumb.jpg"
 actualPrice: $27.00
+album: Malicious Curses Reached In Drawing Night
+artist: Megalith Grave / Nihil Invocation
+categories:
+- Vinyl
+date: '2021-06-26T15:22:51'
+draft: false
+images:
+- /images/covers/megalith_grave_-_nihil_invocation-malicious_curses_reached_in_drawing_night.jpg
 inStock: true
+thumbnailImage: /images/covers/megalith_grave_-_nihil_invocation-malicious_curses_reached_in_drawing_night-thumb.jpg
+title: Megalith Grave / Nihil Invocation - Malicious Curses Reached In Drawing Night
 ---
 
 ## Vinyl

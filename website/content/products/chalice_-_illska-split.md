@@ -1,17 +1,17 @@
 ---
-title: "Chalice / Illska - Split"
-date: 2021-06-22T16:40:54
-draft: false
-artist: "Chalice / Illska"
-album: "Split"
-categories:
-    - Vinyl
-    - CD
-images:
-    - "/images/covers/chalice_-_illska-split.jpg"
-thumbnailImage: "/images/covers/chalice_-_illska-split-thumb.jpg"
 actualPrice: $12.00 - 25.00
+album: Split
+artist: Chalice / Illska
+categories:
+- Vinyl
+- CD
+date: '2021-06-26T15:23:04'
+draft: false
+images:
+- /images/covers/chalice_-_illska-split.jpg
 inStock: true
+thumbnailImage: /images/covers/chalice_-_illska-split-thumb.jpg
+title: Chalice / Illska - Split
 ---
 
 ## Vinyl

@@ -1,16 +1,16 @@
 ---
-title: "Teitanblood - The Baneful Choir"
-date: 2021-06-22T16:40:46
-draft: false
-artist: "Teitanblood"
-album: "The Baneful Choir"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/teitanblood-the_baneful_choir.jpg"
-thumbnailImage: "/images/covers/teitanblood-the_baneful_choir-thumb.jpg"
 actualPrice: $23.00 - 25.00
+album: The Baneful Choir
+artist: Teitanblood
+categories:
+- Vinyl
+date: '2021-06-26T15:22:56'
+draft: false
+images:
+- /images/covers/teitanblood-the_baneful_choir.jpg
 inStock: true
+thumbnailImage: /images/covers/teitanblood-the_baneful_choir-thumb.jpg
+title: Teitanblood - The Baneful Choir
 ---
 
 ## Vinyl

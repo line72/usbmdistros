@@ -1,16 +1,16 @@
 ---
-title: "Minotaur - God May Show You Mercy... We Will Not"
-date: 2021-06-22T16:40:41
-draft: false
-artist: "Minotaur"
-album: "God May Show You Mercy... We Will Not"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/minotaur-god_may_show_you_mercy..._we_will_not.jpg"
-thumbnailImage: "/images/covers/minotaur-god_may_show_you_mercy..._we_will_not-thumb.jpg"
 actualPrice: $17.00
+album: God May Show You Mercy... We Will Not
+artist: Minotaur
+categories:
+- Vinyl
+date: '2021-06-26T15:22:51'
+draft: false
+images:
+- /images/covers/minotaur-god_may_show_you_mercy..._we_will_not.jpg
 inStock: true
+thumbnailImage: /images/covers/minotaur-god_may_show_you_mercy..._we_will_not-thumb.jpg
+title: Minotaur - God May Show You Mercy... We Will Not
 ---
 
 ## Vinyl

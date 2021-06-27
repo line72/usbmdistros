@@ -1,16 +1,16 @@
 ---
-title: "Wulkanaz - Paúrpura Fræovíbôkôs"
-date: 2021-06-22T16:41:08
-draft: false
-artist: "Wulkanaz"
-album: "Paúrpura Fræovíbôkôs"
-categories:
-    - CD
-images:
-    - "/images/covers/wulkanaz-paúrpura_fræovíbôkôs.jpg"
-thumbnailImage: "/images/covers/wulkanaz-paúrpura_fræovíbôkôs-thumb.jpg"
 actualPrice: $12.00 - 13.00
+album: "Pa\xFArpura Fr\xE6ov\xEDb\xF4k\xF4s"
+artist: Wulkanaz
+categories:
+- CD
+date: '2021-06-26T15:23:18'
+draft: false
+images:
+- "/images/covers/wulkanaz-pa\xFArpura_fr\xE6ov\xEDb\xF4k\xF4s.jpg"
 inStock: true
+thumbnailImage: "/images/covers/wulkanaz-pa\xFArpura_fr\xE6ov\xEDb\xF4k\xF4s-thumb.jpg"
+title: "Wulkanaz - Pa\xFArpura Fr\xE6ov\xEDb\xF4k\xF4s"
 ---
 
 ## CD

@@ -1,16 +1,16 @@
 ---
-title: "Hertogenwald - Esprit Tellurique Primitif"
-date: 2021-06-22T16:40:39
-draft: false
-artist: "Hertogenwald"
-album: "Esprit Tellurique Primitif"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/hertogenwald-esprit_tellurique_primitif.jpg"
-thumbnailImage: "/images/covers/hertogenwald-esprit_tellurique_primitif-thumb.jpg"
 actualPrice: $25.00
+album: Esprit Tellurique Primitif
+artist: Hertogenwald
+categories:
+- Vinyl
+date: '2021-06-26T15:22:48'
+draft: false
+images:
+- /images/covers/hertogenwald-esprit_tellurique_primitif.jpg
 inStock: true
+thumbnailImage: /images/covers/hertogenwald-esprit_tellurique_primitif-thumb.jpg
+title: Hertogenwald - Esprit Tellurique Primitif
 ---
 
 ## Vinyl

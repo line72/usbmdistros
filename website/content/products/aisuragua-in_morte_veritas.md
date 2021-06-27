@@ -1,17 +1,17 @@
 ---
-title: "Aisuragua - In Morte Veritas"
-date: 2021-06-22T16:41:08
-draft: false
-artist: "Aisuragua"
-album: "In Morte Veritas"
-categories:
-    - Tape
-    - Cassette
-images:
-    - "/images/covers/aisuragua-in_morte_veritas.jpg"
-thumbnailImage: "/images/covers/aisuragua-in_morte_veritas-thumb.jpg"
 actualPrice: $5.00 - 7.00
+album: In Morte Veritas
+artist: Aisuragua
+categories:
+- Tape
+- Cassette
+date: '2021-06-26T15:23:19'
+draft: false
+images:
+- /images/covers/aisuragua-in_morte_veritas.jpg
 inStock: true
+thumbnailImage: /images/covers/aisuragua-in_morte_veritas-thumb.jpg
+title: Aisuragua - In Morte Veritas
 ---
 
 ## Tape

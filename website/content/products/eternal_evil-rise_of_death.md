@@ -1,16 +1,16 @@
 ---
-title: "Eternal Evil - Rise Of Death"
-date: 2021-06-13T12:22:20
-draft: false
-artist: "Eternal Evil"
-album: "Rise Of Death"
-categories:
-    - Tape
-images:
-    - "/images/covers/eternal_evil-rise_of_death.jpg"
-thumbnailImage: "/images/covers/eternal_evil-rise_of_death-thumb.jpg"
 actualPrice: $8.00
+album: Rise Of Death
+artist: Eternal Evil
+categories:
+- Tape
+date: '2021-06-26T15:16:23'
+draft: false
+images:
+- /images/covers/eternal_evil-rise_of_death.jpg
 inStock: true
+thumbnailImage: /images/covers/eternal_evil-rise_of_death-thumb.jpg
+title: Eternal Evil - Rise Of Death
 ---
 
 ## Tape

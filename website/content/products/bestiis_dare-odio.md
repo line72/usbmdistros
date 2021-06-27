@@ -1,16 +1,16 @@
 ---
-title: "Bestiis Dare - Odio"
-date: 2021-06-22T16:40:33
-draft: false
-artist: "Bestiis Dare"
-album: "Odio"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/bestiis_dare-odio.jpg"
-thumbnailImage: "/images/covers/bestiis_dare-odio-thumb.jpg"
 actualPrice: $17.00
+album: Odio
+artist: Bestiis Dare
+categories:
+- Vinyl
+date: '2021-06-26T15:22:43'
+draft: false
+images:
+- /images/covers/bestiis_dare-odio.jpg
 inStock: true
+thumbnailImage: /images/covers/bestiis_dare-odio-thumb.jpg
+title: Bestiis Dare - Odio
 ---
 
 ## Vinyl

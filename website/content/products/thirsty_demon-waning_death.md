@@ -1,16 +1,16 @@
 ---
-title: "Thirsty Demon - Waning Death"
-date: 2021-06-13T12:22:21
-draft: false
-artist: "Thirsty Demon"
-album: "Waning Death"
-categories:
-    - Tape
-images:
-    - "/images/covers/thirsty_demon-waning_death.jpg"
-thumbnailImage: "/images/covers/thirsty_demon-waning_death-thumb.jpg"
 actualPrice: $8.50
+album: Waning Death
+artist: Thirsty Demon
+categories:
+- Tape
+date: '2021-06-26T15:16:24'
+draft: false
+images:
+- /images/covers/thirsty_demon-waning_death.jpg
 inStock: true
+thumbnailImage: /images/covers/thirsty_demon-waning_death-thumb.jpg
+title: Thirsty Demon - Waning Death
 ---
 
 ## Tape

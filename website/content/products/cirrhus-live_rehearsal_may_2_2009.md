@@ -1,16 +1,16 @@
 ---
-title: "Cirrhus - Live Rehearsal May 2 2009"
-date: 2021-06-22T16:40:35
-draft: false
-artist: "Cirrhus"
-album: "Live Rehearsal May 2 2009"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/cirrhus-live_rehearsal_may_2_2009.jpg"
-thumbnailImage: "/images/covers/cirrhus-live_rehearsal_may_2_2009-thumb.jpg"
 actualPrice: $17.00
+album: Live Rehearsal May 2 2009
+artist: Cirrhus
+categories:
+- Vinyl
+date: '2021-06-26T15:22:44'
+draft: false
+images:
+- /images/covers/cirrhus-live_rehearsal_may_2_2009.jpg
 inStock: true
+thumbnailImage: /images/covers/cirrhus-live_rehearsal_may_2_2009-thumb.jpg
+title: Cirrhus - Live Rehearsal May 2 2009
 ---
 
 ## Vinyl

@@ -1,17 +1,17 @@
 ---
-title: "Wombripper - Macabre Melodies"
-date: 2021-06-22T16:41:08
-draft: false
-artist: "Wombripper"
-album: "Macabre Melodies"
-categories:
-    - Tape
-    - CD
-images:
-    - "/images/covers/wombripper-macabre_melodies.jpg"
-thumbnailImage: "/images/covers/wombripper-macabre_melodies-thumb.jpg"
 actualPrice: $10.00 - 11.00
+album: Macabre Melodies
+artist: Wombripper
+categories:
+- Tape
+- CD
+date: '2021-06-26T15:23:18'
+draft: false
+images:
+- /images/covers/wombripper-macabre_melodies.jpg
 inStock: true
+thumbnailImage: /images/covers/wombripper-macabre_melodies-thumb.jpg
+title: Wombripper - Macabre Melodies
 ---
 
 ## Tape

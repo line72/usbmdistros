@@ -1,16 +1,16 @@
 ---
-title: "NYIÞ / Old Burial Temple - Caput Mortum"
-date: 2021-06-22T16:40:42
-draft: false
-artist: "NYIÞ / Old Burial Temple"
-album: "Caput Mortum"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/nyiþ_-_old_burial_temple-caput_mortum.jpg"
-thumbnailImage: "/images/covers/nyiþ_-_old_burial_temple-caput_mortum-thumb.jpg"
 actualPrice: $20.00 - 23.00
+album: Caput Mortum
+artist: "NYI\xDE / Old Burial Temple"
+categories:
+- Vinyl
+date: '2021-06-26T15:22:52'
+draft: false
+images:
+- "/images/covers/nyi\xFE_-_old_burial_temple-caput_mortum.jpg"
 inStock: true
+thumbnailImage: "/images/covers/nyi\xFE_-_old_burial_temple-caput_mortum-thumb.jpg"
+title: "NYI\xDE / Old Burial Temple - Caput Mortum"
 ---
 
 ## Vinyl

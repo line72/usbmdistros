@@ -1,16 +1,16 @@
 ---
-title: "Heretic - Black Metal Holocaust"
-date: 2021-06-22T16:40:39
-draft: false
-artist: "Heretic"
-album: "Black Metal Holocaust"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/heretic-black_metal_holocaust.jpg"
-thumbnailImage: "/images/covers/heretic-black_metal_holocaust-thumb.jpg"
 actualPrice: $100.00
+album: Black Metal Holocaust
+artist: Heretic
+categories:
+- Vinyl
+date: '2021-06-26T15:22:48'
+draft: false
+images:
+- /images/covers/heretic-black_metal_holocaust.jpg
 inStock: true
+thumbnailImage: /images/covers/heretic-black_metal_holocaust-thumb.jpg
+title: Heretic - Black Metal Holocaust
 ---
 
 ## Vinyl

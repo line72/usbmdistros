@@ -1,16 +1,16 @@
 ---
-title: "Aos Si - Vol. I"
-date: 2021-06-12T14:07:56
-draft: false
-artist: "Aos Si"
-album: "Vol. I"
-categories:
-    - Tape
-images:
-    - "/images/covers/aos_si-vol._i.jpg"
-thumbnailImage: "/images/covers/aos_si-vol._i-thumb.jpg"
 actualPrice: $9.00
+album: Vol. I
+artist: Aos Si
+categories:
+- Tape
+date: '2021-06-26T15:03:02'
+draft: false
+images:
+- /images/covers/aos_si-vol._i.jpg
 inStock: true
+thumbnailImage: /images/covers/aos_si-vol._i-thumb.jpg
+title: Aos Si - Vol. I
 ---
 
 ## Tape

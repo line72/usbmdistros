@@ -1,16 +1,16 @@
 ---
-title: "Impurity - Into The Ritual Chamber"
-date: 2021-06-13T12:22:20
-draft: false
-artist: "Impurity"
-album: "Into The Ritual Chamber"
-categories:
-    - Tape
-images:
-    - "/images/covers/impurity-into_the_ritual_chamber.jpg"
-thumbnailImage: "/images/covers/impurity-into_the_ritual_chamber-thumb.jpg"
 actualPrice: $8.50
+album: Into The Ritual Chamber
+artist: Impurity
+categories:
+- Tape
+date: '2021-06-26T15:16:23'
+draft: false
+images:
+- /images/covers/impurity-into_the_ritual_chamber.jpg
 inStock: true
+thumbnailImage: /images/covers/impurity-into_the_ritual_chamber-thumb.jpg
+title: Impurity - Into The Ritual Chamber
 ---
 
 ## Tape

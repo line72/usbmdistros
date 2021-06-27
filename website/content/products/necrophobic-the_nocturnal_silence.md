@@ -1,16 +1,16 @@
 ---
-title: "Necrophobic - The Nocturnal Silence"
-date: 2021-06-22T16:40:42
-draft: false
-artist: "Necrophobic"
-album: "The Nocturnal Silence"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/necrophobic-the_nocturnal_silence.jpg"
-thumbnailImage: "/images/covers/necrophobic-the_nocturnal_silence-thumb.jpg"
 actualPrice: $25.00
+album: The Nocturnal Silence
+artist: Necrophobic
+categories:
+- Vinyl
+date: '2021-06-26T15:22:52'
+draft: false
+images:
+- /images/covers/necrophobic-the_nocturnal_silence.jpg
 inStock: true
+thumbnailImage: /images/covers/necrophobic-the_nocturnal_silence-thumb.jpg
+title: Necrophobic - The Nocturnal Silence
 ---
 
 ## Vinyl

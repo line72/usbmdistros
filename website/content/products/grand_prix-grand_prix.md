@@ -1,16 +1,16 @@
 ---
-title: "Grand Prix - Grand Prix"
-date: 2021-06-22T16:40:38
-draft: false
-artist: "Grand Prix"
-album: "Grand Prix"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/grand_prix-grand_prix.jpg"
-thumbnailImage: "/images/covers/grand_prix-grand_prix-thumb.jpg"
 actualPrice: $15.00
+album: Grand Prix
+artist: Grand Prix
+categories:
+- Vinyl
+date: '2021-06-26T15:22:48'
+draft: false
+images:
+- /images/covers/grand_prix-grand_prix.jpg
 inStock: true
+thumbnailImage: /images/covers/grand_prix-grand_prix-thumb.jpg
+title: Grand Prix - Grand Prix
 ---
 
 ## Vinyl

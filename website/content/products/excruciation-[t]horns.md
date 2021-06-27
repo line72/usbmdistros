@@ -1,16 +1,16 @@
 ---
-title: "Excruciation - [T]horns"
-date: 2021-06-22T16:40:37
-draft: false
-artist: "Excruciation"
-album: "[T]horns"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/excruciation-[t]horns.jpg"
-thumbnailImage: "/images/covers/excruciation-[t]horns-thumb.jpg"
 actualPrice: $17.00
+album: '[T]horns'
+artist: Excruciation
+categories:
+- Vinyl
+date: '2021-06-26T15:22:46'
+draft: false
+images:
+- /images/covers/excruciation-[t]horns.jpg
 inStock: true
+thumbnailImage: /images/covers/excruciation-[t]horns-thumb.jpg
+title: Excruciation - [T]horns
 ---
 
 ## Vinyl

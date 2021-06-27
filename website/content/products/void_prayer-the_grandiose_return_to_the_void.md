@@ -1,18 +1,18 @@
 ---
-title: "Void Prayer - The Grandiose Return to the Void"
-date: 2021-06-22T16:41:14
-draft: false
-artist: "Void Prayer"
-album: "The Grandiose Return to the Void"
-categories:
-    - Vinyl
-    - Tape
-    - Cassette
-images:
-    - "/images/covers/void_prayer-the_grandiose_return_to_the_void.jpg"
-thumbnailImage: "/images/covers/void_prayer-the_grandiose_return_to_the_void-thumb.jpg"
 actualPrice: $10.00 - 25.00
+album: The Grandiose Return to the Void
+artist: Void Prayer
+categories:
+- Vinyl
+- Tape
+- Cassette
+date: '2021-06-26T15:23:24'
+draft: false
+images:
+- /images/covers/void_prayer-the_grandiose_return_to_the_void.jpg
 inStock: true
+thumbnailImage: /images/covers/void_prayer-the_grandiose_return_to_the_void-thumb.jpg
+title: Void Prayer - The Grandiose Return to the Void
 ---
 
 ## Vinyl

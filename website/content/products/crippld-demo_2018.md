@@ -1,16 +1,16 @@
 ---
-title: "Crippld - Demo 2018"
-date: 2021-06-13T12:22:24
-draft: false
-artist: "Crippld"
-album: "Demo 2018"
-categories:
-    - Tape
-images:
-    - "/images/covers/crippld-demo_2018.jpg"
-thumbnailImage: "/images/covers/crippld-demo_2018-thumb.jpg"
 actualPrice: $3.50
+album: Demo 2018
+artist: Crippld
+categories:
+- Tape
+date: '2021-06-26T15:16:26'
+draft: false
+images:
+- /images/covers/crippld-demo_2018.jpg
 inStock: true
+thumbnailImage: /images/covers/crippld-demo_2018-thumb.jpg
+title: Crippld - Demo 2018
 ---
 
 ## Tape

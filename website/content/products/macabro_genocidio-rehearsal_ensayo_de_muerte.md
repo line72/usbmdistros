@@ -1,16 +1,16 @@
 ---
-title: "Macabro Genocidio - Rehearsal Ensayo De Muerte"
-date: 2021-06-13T12:22:22
-draft: false
-artist: "Macabro Genocidio"
-album: "Rehearsal Ensayo De Muerte"
-categories:
-    - Tape
-images:
-    - "/images/covers/macabro_genocidio-rehearsal_ensayo_de_muerte.jpg"
-thumbnailImage: "/images/covers/macabro_genocidio-rehearsal_ensayo_de_muerte-thumb.jpg"
 actualPrice: $5.00
+album: Rehearsal Ensayo De Muerte
+artist: Macabro Genocidio
+categories:
+- Tape
+date: '2021-06-26T15:16:25'
+draft: false
+images:
+- /images/covers/macabro_genocidio-rehearsal_ensayo_de_muerte.jpg
 inStock: true
+thumbnailImage: /images/covers/macabro_genocidio-rehearsal_ensayo_de_muerte-thumb.jpg
+title: Macabro Genocidio - Rehearsal Ensayo De Muerte
 ---
 
 ## Tape

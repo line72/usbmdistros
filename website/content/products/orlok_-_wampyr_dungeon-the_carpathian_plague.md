@@ -1,16 +1,16 @@
 ---
-title: "Orlok / Wampyr Dungeon - The Carpathian Plague"
-date: 2021-06-22T16:40:43
-draft: false
-artist: "Orlok / Wampyr Dungeon"
-album: "The Carpathian Plague"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/orlok_-_wampyr_dungeon-the_carpathian_plague.jpg"
-thumbnailImage: "/images/covers/orlok_-_wampyr_dungeon-the_carpathian_plague-thumb.jpg"
 actualPrice: $25.00
+album: The Carpathian Plague
+artist: Orlok / Wampyr Dungeon
+categories:
+- Vinyl
+date: '2021-06-26T15:22:53'
+draft: false
+images:
+- /images/covers/orlok_-_wampyr_dungeon-the_carpathian_plague.jpg
 inStock: true
+thumbnailImage: /images/covers/orlok_-_wampyr_dungeon-the_carpathian_plague-thumb.jpg
+title: Orlok / Wampyr Dungeon - The Carpathian Plague
 ---
 
 ## Vinyl

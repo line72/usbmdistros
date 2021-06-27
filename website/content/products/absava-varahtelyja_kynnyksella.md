@@ -1,16 +1,16 @@
 ---
-title: "Absava - Varahtelyja Kynnyksella"
-date: 2021-06-22T16:41:08
-draft: false
-artist: "Absava"
-album: "Varahtelyja Kynnyksella"
-categories:
-    - Cassette
-images:
-    - "/images/covers/absava-varahtelyja_kynnyksella.jpg"
-thumbnailImage: "/images/covers/absava-varahtelyja_kynnyksella-thumb.jpg"
 actualPrice: $10.00
+album: Varahtelyja Kynnyksella
+artist: Absava
+categories:
+- Cassette
+date: '2021-06-26T15:23:18'
+draft: false
+images:
+- /images/covers/absava-varahtelyja_kynnyksella.jpg
 inStock: true
+thumbnailImage: /images/covers/absava-varahtelyja_kynnyksella-thumb.jpg
+title: Absava - Varahtelyja Kynnyksella
 ---
 
 ## Cassette

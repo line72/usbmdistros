@@ -1,16 +1,16 @@
 ---
-title: "Trite - Youth"
-date: 2021-06-13T12:22:20
-draft: false
-artist: "Trite"
-album: "Youth"
-categories:
-    - Tape
-images:
-    - "/images/covers/trite-youth.jpg"
-thumbnailImage: "/images/covers/trite-youth-thumb.jpg"
 actualPrice: $8.50
+album: Youth
+artist: Trite
+categories:
+- Tape
+date: '2021-06-26T15:16:23'
+draft: false
+images:
+- /images/covers/trite-youth.jpg
 inStock: true
+thumbnailImage: /images/covers/trite-youth-thumb.jpg
+title: Trite - Youth
 ---
 
 ## Tape

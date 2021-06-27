@@ -1,16 +1,16 @@
 ---
-title: "Zaghan / Armagh - Consagración A La Serpiente Arcana (Split)"
-date: 2021-06-13T12:22:22
-draft: false
-artist: "Zaghan / Armagh"
-album: "Consagración A La Serpiente Arcana (Split)"
-categories:
-    - Tape
-images:
-    - "/images/covers/zaghan_-_armagh-consagración_a_la_serpiente_arcana_(split).jpg"
-thumbnailImage: "/images/covers/zaghan_-_armagh-consagración_a_la_serpiente_arcana_(split)-thumb.jpg"
 actualPrice: $6.00
+album: "Consagraci\xF3n A La Serpiente Arcana (Split)"
+artist: Zaghan / Armagh
+categories:
+- Tape
+date: '2021-06-26T15:16:25'
+draft: false
+images:
+- "/images/covers/zaghan_-_armagh-consagraci\xF3n_a_la_serpiente_arcana_(split).jpg"
 inStock: true
+thumbnailImage: "/images/covers/zaghan_-_armagh-consagraci\xF3n_a_la_serpiente_arcana_(split)-thumb.jpg"
+title: "Zaghan / Armagh - Consagraci\xF3n A La Serpiente Arcana (Split)"
 ---
 
 ## Tape

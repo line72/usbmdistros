@@ -1,16 +1,16 @@
 ---
-title: "Lordes Werre - Canticles of Armageddon"
-date: 2021-06-22T16:40:40
-draft: false
-artist: "Lordes Werre"
-album: "Canticles of Armageddon"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/lordes_werre-canticles_of_armageddon.jpg"
-thumbnailImage: "/images/covers/lordes_werre-canticles_of_armageddon-thumb.jpg"
 actualPrice: $13.00
+album: Canticles of Armageddon
+artist: Lordes Werre
+categories:
+- Vinyl
+date: '2021-06-26T15:22:50'
+draft: false
+images:
+- /images/covers/lordes_werre-canticles_of_armageddon.jpg
 inStock: true
+thumbnailImage: /images/covers/lordes_werre-canticles_of_armageddon-thumb.jpg
+title: Lordes Werre - Canticles of Armageddon
 ---
 
 ## Vinyl

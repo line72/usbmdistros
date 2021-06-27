@@ -1,16 +1,16 @@
 ---
-title: "Adytum / Ordem Satânica - Split"
-date: 2021-06-12T14:07:51
-draft: false
-artist: "Adytum / Ordem Satânica"
-album: "Split"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/adytum_-_ordem_satânica-split.jpg"
-thumbnailImage: "/images/covers/adytum_-_ordem_satânica-split-thumb.jpg"
 actualPrice: $22.00
+album: Split
+artist: "Adytum / Ordem Sat\xE2nica"
+categories:
+- Vinyl
+date: '2021-06-26T15:02:54'
+draft: false
+images:
+- "/images/covers/adytum_-_ordem_sat\xE2nica-split.jpg"
 inStock: true
+thumbnailImage: "/images/covers/adytum_-_ordem_sat\xE2nica-split-thumb.jpg"
+title: "Adytum / Ordem Sat\xE2nica - Split"
 ---
 
 ## Vinyl

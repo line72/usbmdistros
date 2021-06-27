@@ -1,16 +1,16 @@
 ---
-title: "Loits - Vere Kutse Kohustab"
-date: 2021-06-22T16:40:40
-draft: false
-artist: "Loits"
-album: "Vere Kutse Kohustab"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/loits-vere_kutse_kohustab.jpg"
-thumbnailImage: "/images/covers/loits-vere_kutse_kohustab-thumb.jpg"
 actualPrice: $17.00
+album: Vere Kutse Kohustab
+artist: Loits
+categories:
+- Vinyl
+date: '2021-06-26T15:22:50'
+draft: false
+images:
+- /images/covers/loits-vere_kutse_kohustab.jpg
 inStock: true
+thumbnailImage: /images/covers/loits-vere_kutse_kohustab-thumb.jpg
+title: Loits - Vere Kutse Kohustab
 ---
 
 ## Vinyl

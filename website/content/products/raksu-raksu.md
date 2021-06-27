@@ -1,17 +1,17 @@
 ---
-title: "Raksu - Raksu"
-date: 2021-06-22T16:41:03
-draft: false
-artist: "Raksu"
-album: "Raksu"
-categories:
-    - Vinyl
-    - CD
-images:
-    - "/images/covers/raksu-raksu.jpg"
-thumbnailImage: "/images/covers/raksu-raksu-thumb.jpg"
 actualPrice: $10.00 - 12.00
+album: Raksu
+artist: Raksu
+categories:
+- Vinyl
+- CD
+date: '2021-06-26T15:23:13'
+draft: false
+images:
+- /images/covers/raksu-raksu.jpg
 inStock: true
+thumbnailImage: /images/covers/raksu-raksu-thumb.jpg
+title: Raksu - Raksu
 ---
 
 ## Vinyl

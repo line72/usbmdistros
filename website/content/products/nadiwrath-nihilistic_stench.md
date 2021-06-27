@@ -1,16 +1,16 @@
 ---
-title: "Nadiwrath - Nihilistic Stench"
-date: 2021-06-22T16:40:42
-draft: false
-artist: "Nadiwrath"
-album: "Nihilistic Stench"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/nadiwrath-nihilistic_stench.jpg"
-thumbnailImage: "/images/covers/nadiwrath-nihilistic_stench-thumb.jpg"
 actualPrice: $17.00
+album: Nihilistic Stench
+artist: Nadiwrath
+categories:
+- Vinyl
+date: '2021-06-26T15:22:52'
+draft: false
+images:
+- /images/covers/nadiwrath-nihilistic_stench.jpg
 inStock: true
+thumbnailImage: /images/covers/nadiwrath-nihilistic_stench-thumb.jpg
+title: Nadiwrath - Nihilistic Stench
 ---
 
 ## Vinyl

@@ -1,16 +1,16 @@
 ---
-title: "Auroboros - Auroboros"
-date: 2021-06-22T16:40:33
-draft: false
-artist: "Auroboros"
-album: "Auroboros"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/auroboros-auroboros.jpg"
-thumbnailImage: "/images/covers/auroboros-auroboros-thumb.jpg"
 actualPrice: $15.00
+album: Auroboros
+artist: Auroboros
+categories:
+- Vinyl
+date: '2021-06-26T15:22:42'
+draft: false
+images:
+- /images/covers/auroboros-auroboros.jpg
 inStock: true
+thumbnailImage: /images/covers/auroboros-auroboros-thumb.jpg
+title: Auroboros - Auroboros
 ---
 
 ## Vinyl

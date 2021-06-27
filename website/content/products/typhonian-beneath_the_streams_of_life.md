@@ -1,17 +1,17 @@
 ---
-title: "Typhonian - Beneath The Streams Of Life"
-date: 2021-06-22T16:41:14
-draft: false
-artist: "Typhonian"
-album: "Beneath The Streams Of Life"
-categories:
-    - Tape
-    - Cassette
-images:
-    - "/images/covers/typhonian-beneath_the_streams_of_life.jpg"
-thumbnailImage: "/images/covers/typhonian-beneath_the_streams_of_life-thumb.jpg"
 actualPrice: $7.50 - 8.00
+album: Beneath The Streams Of Life
+artist: Typhonian
+categories:
+- Tape
+- Cassette
+date: '2021-06-26T15:23:24'
+draft: false
+images:
+- /images/covers/typhonian-beneath_the_streams_of_life.jpg
 inStock: true
+thumbnailImage: /images/covers/typhonian-beneath_the_streams_of_life-thumb.jpg
+title: Typhonian - Beneath The Streams Of Life
 ---
 
 ## Tape

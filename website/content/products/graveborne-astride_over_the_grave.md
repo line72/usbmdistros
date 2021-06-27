@@ -1,16 +1,16 @@
 ---
-title: "Graveborne - Astride Over the Grave"
-date: 2021-06-22T16:40:38
-draft: false
-artist: "Graveborne"
-album: "Astride Over the Grave"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/graveborne-astride_over_the_grave.jpg"
-thumbnailImage: "/images/covers/graveborne-astride_over_the_grave-thumb.jpg"
 actualPrice: $15.00
+album: Astride Over the Grave
+artist: Graveborne
+categories:
+- Vinyl
+date: '2021-06-26T15:22:48'
+draft: false
+images:
+- /images/covers/graveborne-astride_over_the_grave.jpg
 inStock: true
+thumbnailImage: /images/covers/graveborne-astride_over_the_grave-thumb.jpg
+title: Graveborne - Astride Over the Grave
 ---
 
 ## Vinyl

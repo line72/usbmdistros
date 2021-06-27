@@ -1,16 +1,16 @@
 ---
-title: "Celestia - Delhÿs-cätess"
-date: 2021-06-22T16:40:34
-draft: false
-artist: "Celestia"
-album: "Delhÿs-cätess"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/celestia-delhÿs-cätess.jpg"
-thumbnailImage: "/images/covers/celestia-delhÿs-cätess-thumb.jpg"
 actualPrice: $20.00
+album: "Delh\xFFs-c\xE4tess"
+artist: Celestia
+categories:
+- Vinyl
+date: '2021-06-26T15:22:44'
+draft: false
+images:
+- "/images/covers/celestia-delh\xFFs-c\xE4tess.jpg"
 inStock: true
+thumbnailImage: "/images/covers/celestia-delh\xFFs-c\xE4tess-thumb.jpg"
+title: "Celestia - Delh\xFFs-c\xE4tess"
 ---
 
 ## Vinyl

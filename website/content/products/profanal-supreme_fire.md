@@ -1,17 +1,17 @@
 ---
-title: "Profanal - Supreme Fire"
-date: 2021-06-22T16:41:03
-draft: false
-artist: "Profanal"
-album: "Supreme Fire"
-categories:
-    - Vinyl
-    - CD
-images:
-    - "/images/covers/profanal-supreme_fire.jpg"
-thumbnailImage: "/images/covers/profanal-supreme_fire-thumb.jpg"
 actualPrice: $8.00 - 17.00
+album: Supreme Fire
+artist: Profanal
+categories:
+- Vinyl
+- CD
+date: '2021-06-26T15:23:13'
+draft: false
+images:
+- /images/covers/profanal-supreme_fire.jpg
 inStock: true
+thumbnailImage: /images/covers/profanal-supreme_fire-thumb.jpg
+title: Profanal - Supreme Fire
 ---
 
 ## Vinyl

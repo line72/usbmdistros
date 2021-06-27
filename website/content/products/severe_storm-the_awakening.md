@@ -1,16 +1,16 @@
 ---
-title: "Severe Storm - The Awakening"
-date: 2021-06-12T14:07:51
-draft: false
-artist: "Severe Storm"
-album: "The Awakening"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/severe_storm-the_awakening.jpg"
-thumbnailImage: "/images/covers/severe_storm-the_awakening-thumb.jpg"
 actualPrice: $28.00
+album: The Awakening
+artist: Severe Storm
+categories:
+- Vinyl
+date: '2021-06-26T15:02:54'
+draft: false
+images:
+- /images/covers/severe_storm-the_awakening.jpg
 inStock: true
+thumbnailImage: /images/covers/severe_storm-the_awakening-thumb.jpg
+title: Severe Storm - The Awakening
 ---
 
 ## Vinyl

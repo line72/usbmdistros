@@ -1,16 +1,16 @@
 ---
-title: "Lustration - Psymbolik"
-date: 2021-06-22T16:40:40
-draft: false
-artist: "Lustration"
-album: "Psymbolik"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/lustration-psymbolik.jpg"
-thumbnailImage: "/images/covers/lustration-psymbolik-thumb.jpg"
 actualPrice: $17.00
+album: Psymbolik
+artist: Lustration
+categories:
+- Vinyl
+date: '2021-06-26T15:22:50'
+draft: false
+images:
+- /images/covers/lustration-psymbolik.jpg
 inStock: true
+thumbnailImage: /images/covers/lustration-psymbolik-thumb.jpg
+title: Lustration - Psymbolik
 ---
 
 ## Vinyl

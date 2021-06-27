@@ -1,17 +1,17 @@
 ---
-title: "Ysengrin / Stargazer - D.A.V.V.N."
-date: 2021-06-22T16:40:48
-draft: false
-artist: "Ysengrin / Stargazer"
-album: "D.A.V.V.N."
-categories:
-    - Vinyl
-    - Tape
-images:
-    - "/images/covers/ysengrin_-_stargazer-d.a.v.v.n..jpg"
-thumbnailImage: "/images/covers/ysengrin_-_stargazer-d.a.v.v.n.-thumb.jpg"
 actualPrice: $8.00 - 17.00
+album: D.A.V.V.N.
+artist: Ysengrin / Stargazer
+categories:
+- Vinyl
+- Tape
+date: '2021-06-26T15:22:58'
+draft: false
+images:
+- /images/covers/ysengrin_-_stargazer-d.a.v.v.n..jpg
 inStock: true
+thumbnailImage: /images/covers/ysengrin_-_stargazer-d.a.v.v.n.-thumb.jpg
+title: Ysengrin / Stargazer - D.A.V.V.N.
 ---
 
 ## Vinyl

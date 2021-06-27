@@ -1,16 +1,16 @@
 ---
-title: "Anaal Nathrakh - The Whole of the Law"
-date: 2021-06-12T14:04:39
-draft: false
-artist: "Anaal Nathrakh"
-album: "The Whole of the Law"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/anaal_nathrakh-the_whole_of_the_law.jpg"
-thumbnailImage: "/images/covers/anaal_nathrakh-the_whole_of_the_law-thumb.jpg"
 actualPrice: $22.00
+album: The Whole of the Law
+artist: Anaal Nathrakh
+categories:
+- Vinyl
+date: '2021-06-26T14:49:52'
+draft: false
+images:
+- /images/covers/anaal_nathrakh-the_whole_of_the_law.jpg
 inStock: true
+thumbnailImage: /images/covers/anaal_nathrakh-the_whole_of_the_law-thumb.jpg
+title: Anaal Nathrakh - The Whole of the Law
 ---
 
 ## Vinyl

@@ -1,18 +1,18 @@
 ---
-title: "Atrament - Scum Sect"
-date: 2021-06-22T16:41:09
-draft: false
-artist: "Atrament"
-album: "Scum Sect"
-categories:
-    - Vinyl
-    - Cassette
-    - CD
-images:
-    - "/images/covers/atrament-scum_sect.jpg"
-thumbnailImage: "/images/covers/atrament-scum_sect-thumb.jpg"
 actualPrice: $7.00 - 17.00
+album: Scum Sect
+artist: Atrament
+categories:
+- Vinyl
+- Cassette
+- CD
+date: '2021-06-26T15:23:19'
+draft: false
+images:
+- /images/covers/atrament-scum_sect.jpg
 inStock: true
+thumbnailImage: /images/covers/atrament-scum_sect-thumb.jpg
+title: Atrament - Scum Sect
 ---
 
 ## Vinyl

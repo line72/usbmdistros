@@ -1,16 +1,16 @@
 ---
-title: "Cartilage - Gore​-​Met"
-date: 2021-06-13T12:22:18
-draft: false
-artist: "Cartilage"
-album: "Gore​-​Met"
-categories:
-    - Tape
-images:
-    - "/images/covers/cartilage-gore​-​met.jpg"
-thumbnailImage: "/images/covers/cartilage-gore​-​met-thumb.jpg"
 actualPrice: $8.50
+album: "Gore\u200B-\u200BMet"
+artist: Cartilage
+categories:
+- Tape
+date: '2021-06-26T15:16:22'
+draft: false
+images:
+- "/images/covers/cartilage-gore\u200B-\u200Bmet.jpg"
 inStock: true
+thumbnailImage: "/images/covers/cartilage-gore\u200B-\u200Bmet-thumb.jpg"
+title: "Cartilage - Gore\u200B-\u200BMet"
 ---
 
 ## Tape

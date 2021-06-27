@@ -1,16 +1,16 @@
 ---
-title: "Cancerbero - Malevolence"
-date: 2021-06-22T16:40:34
-draft: false
-artist: "Cancerbero"
-album: "Malevolence"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/cancerbero-malevolence.jpg"
-thumbnailImage: "/images/covers/cancerbero-malevolence-thumb.jpg"
 actualPrice: $17.00
+album: Malevolence
+artist: Cancerbero
+categories:
+- Vinyl
+date: '2021-06-26T15:22:43'
+draft: false
+images:
+- /images/covers/cancerbero-malevolence.jpg
 inStock: true
+thumbnailImage: /images/covers/cancerbero-malevolence-thumb.jpg
+title: Cancerbero - Malevolence
 ---
 
 ## Vinyl

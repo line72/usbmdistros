@@ -1,16 +1,16 @@
 ---
-title: "Rope Sect - The Great Flood"
-date: 2021-06-13T12:22:19
-draft: false
-artist: "Rope Sect"
-album: "The Great Flood"
-categories:
-    - CD
-images:
-    - "/images/covers/rope_sect-the_great_flood.jpg"
-thumbnailImage: "/images/covers/rope_sect-the_great_flood-thumb.jpg"
 actualPrice: $9.50
+album: The Great Flood
+artist: Rope Sect
+categories:
+- CD
+date: '2021-06-26T15:16:22'
+draft: false
+images:
+- /images/covers/rope_sect-the_great_flood.jpg
 inStock: true
+thumbnailImage: /images/covers/rope_sect-the_great_flood-thumb.jpg
+title: Rope Sect - The Great Flood
 ---
 
 ## CD

@@ -1,16 +1,16 @@
 ---
-title: "Mesarthim - The Density Parameter"
-date: 2021-06-12T14:04:39
-draft: false
-artist: "Mesarthim"
-album: "The Density Parameter"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/mesarthim-the_density_parameter.jpg"
-thumbnailImage: "/images/covers/mesarthim-the_density_parameter-thumb.jpg"
 actualPrice: $21.00
+album: The Density Parameter
+artist: Mesarthim
+categories:
+- Vinyl
+date: '2021-06-26T14:49:52'
+draft: false
+images:
+- /images/covers/mesarthim-the_density_parameter.jpg
 inStock: true
+thumbnailImage: /images/covers/mesarthim-the_density_parameter-thumb.jpg
+title: Mesarthim - The Density Parameter
 ---
 
 ## Vinyl

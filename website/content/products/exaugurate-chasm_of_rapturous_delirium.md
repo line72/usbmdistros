@@ -1,16 +1,16 @@
 ---
-title: "Exaugurate - Chasm Of Rapturous Delirium"
-date: 2021-06-22T16:40:57
-draft: false
-artist: "Exaugurate"
-album: "Chasm Of Rapturous Delirium"
-categories:
-    - CD
-images:
-    - "/images/covers/exaugurate-chasm_of_rapturous_delirium.jpg"
-thumbnailImage: "/images/covers/exaugurate-chasm_of_rapturous_delirium-thumb.jpg"
 actualPrice: $10.00 - 10.50
+album: Chasm Of Rapturous Delirium
+artist: Exaugurate
+categories:
+- CD
+date: '2021-06-26T15:23:07'
+draft: false
+images:
+- /images/covers/exaugurate-chasm_of_rapturous_delirium.jpg
 inStock: true
+thumbnailImage: /images/covers/exaugurate-chasm_of_rapturous_delirium-thumb.jpg
+title: Exaugurate - Chasm Of Rapturous Delirium
 ---
 
 ## CD

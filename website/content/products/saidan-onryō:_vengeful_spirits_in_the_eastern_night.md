@@ -1,16 +1,16 @@
 ---
-title: "Saidan - Onryō: Vengeful Spirits In The Eastern Night"
-date: 2021-06-13T12:22:18
-draft: false
-artist: "Saidan"
-album: "Onryō: Vengeful Spirits In The Eastern Night"
-categories:
-    - Tape
-images:
-    - "/images/covers/saidan-onryō:_vengeful_spirits_in_the_eastern_night.jpg"
-thumbnailImage: "/images/covers/saidan-onryō:_vengeful_spirits_in_the_eastern_night-thumb.jpg"
 actualPrice: $11.00
+album: "Onry\u014D: Vengeful Spirits In The Eastern Night"
+artist: Saidan
+categories:
+- Tape
+date: '2021-06-26T15:16:21'
+draft: false
+images:
+- "/images/covers/saidan-onry\u014D:_vengeful_spirits_in_the_eastern_night.jpg"
 inStock: true
+thumbnailImage: "/images/covers/saidan-onry\u014D:_vengeful_spirits_in_the_eastern_night-thumb.jpg"
+title: "Saidan - Onry\u014D: Vengeful Spirits In The Eastern Night"
 ---
 
 ## Tape

@@ -1,16 +1,16 @@
 ---
-title: "Nightshift - Winter Within"
-date: 2021-06-22T16:40:42
-draft: false
-artist: "Nightshift"
-album: "Winter Within"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/nightshift-winter_within.jpg"
-thumbnailImage: "/images/covers/nightshift-winter_within-thumb.jpg"
 actualPrice: $20.00
+album: Winter Within
+artist: Nightshift
+categories:
+- Vinyl
+date: '2021-06-26T15:22:52'
+draft: false
+images:
+- /images/covers/nightshift-winter_within.jpg
 inStock: true
+thumbnailImage: /images/covers/nightshift-winter_within-thumb.jpg
+title: Nightshift - Winter Within
 ---
 
 ## Vinyl

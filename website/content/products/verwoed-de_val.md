@@ -1,16 +1,16 @@
 ---
-title: "Verwoed - De Val"
-date: 2021-06-12T14:07:59
-draft: false
-artist: "Verwoed"
-album: "De Val"
-categories:
-    - CD
-images:
-    - "/images/covers/verwoed-de_val.jpg"
-thumbnailImage: "/images/covers/verwoed-de_val-thumb.jpg"
 actualPrice: $12.00
+album: De Val
+artist: Verwoed
+categories:
+- CD
+date: '2021-06-26T15:03:08'
+draft: false
+images:
+- /images/covers/verwoed-de_val.jpg
 inStock: true
+thumbnailImage: /images/covers/verwoed-de_val-thumb.jpg
+title: Verwoed - De Val
 ---
 
 ## CD

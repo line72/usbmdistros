@@ -1,16 +1,16 @@
 ---
-title: "Famulus ab Satanas - Sacred Assembly Beneath Unholy Secrecy"
-date: 2021-06-22T16:40:37
-draft: false
-artist: "Famulus ab Satanas"
-album: "Sacred Assembly Beneath Unholy Secrecy"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/famulus_ab_satanas-sacred_assembly_beneath_unholy_secrecy.jpg"
-thumbnailImage: "/images/covers/famulus_ab_satanas-sacred_assembly_beneath_unholy_secrecy-thumb.jpg"
 actualPrice: $20.00
+album: Sacred Assembly Beneath Unholy Secrecy
+artist: Famulus ab Satanas
+categories:
+- Vinyl
+date: '2021-06-26T15:22:47'
+draft: false
+images:
+- /images/covers/famulus_ab_satanas-sacred_assembly_beneath_unholy_secrecy.jpg
 inStock: true
+thumbnailImage: /images/covers/famulus_ab_satanas-sacred_assembly_beneath_unholy_secrecy-thumb.jpg
+title: Famulus ab Satanas - Sacred Assembly Beneath Unholy Secrecy
 ---
 
 ## Vinyl

@@ -1,16 +1,16 @@
 ---
-title: "Ill Omen - Æ.Thy.Rift"
-date: 2021-06-22T16:40:39
-draft: false
-artist: "Ill Omen"
-album: "Æ.Thy.Rift"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/ill_omen-æ.thy.rift.jpg"
-thumbnailImage: "/images/covers/ill_omen-æ.thy.rift-thumb.jpg"
 actualPrice: $10.00
+album: "\xC6.Thy.Rift"
+artist: Ill Omen
+categories:
+- Vinyl
+date: '2021-06-26T15:22:49'
+draft: false
+images:
+- "/images/covers/ill_omen-\xE6.thy.rift.jpg"
 inStock: true
+thumbnailImage: "/images/covers/ill_omen-\xE6.thy.rift-thumb.jpg"
+title: "Ill Omen - \xC6.Thy.Rift"
 ---
 
 ## Vinyl

@@ -1,16 +1,16 @@
 ---
-title: "Folteraar - Vexatie"
-date: 2021-06-12T14:07:52
-draft: false
-artist: "Folteraar"
-album: "Vexatie"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/folteraar-vexatie.jpg"
-thumbnailImage: "/images/covers/folteraar-vexatie-thumb.jpg"
 actualPrice: $23.00
+album: Vexatie
+artist: Folteraar
+categories:
+- Vinyl
+date: '2021-06-26T15:02:55'
+draft: false
+images:
+- /images/covers/folteraar-vexatie.jpg
 inStock: true
+thumbnailImage: /images/covers/folteraar-vexatie-thumb.jpg
+title: Folteraar - Vexatie
 ---
 
 ## Vinyl

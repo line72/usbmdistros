@@ -1,16 +1,16 @@
 ---
-title: "Horns - Czerń"
-date: 2021-06-22T16:40:39
-draft: false
-artist: "Horns"
-album: "Czerń"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/horns-czerń.jpg"
-thumbnailImage: "/images/covers/horns-czerń-thumb.jpg"
 actualPrice: $10.00
+album: "Czer\u0144"
+artist: Horns
+categories:
+- Vinyl
+date: '2021-06-26T15:22:49'
+draft: false
+images:
+- "/images/covers/horns-czer\u0144.jpg"
 inStock: true
+thumbnailImage: "/images/covers/horns-czer\u0144-thumb.jpg"
+title: "Horns - Czer\u0144"
 ---
 
 ## Vinyl

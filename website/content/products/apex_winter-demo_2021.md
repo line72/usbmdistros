@@ -1,16 +1,16 @@
 ---
-title: "Apex Winter - Demo 2021"
-date: 2021-06-13T12:22:18
-draft: false
-artist: "Apex Winter"
-album: "Demo 2021"
-categories:
-    - Tape
-images:
-    - "/images/covers/apex_winter-demo_2021.jpg"
-thumbnailImage: "/images/covers/apex_winter-demo_2021-thumb.jpg"
 actualPrice: $7.50
+album: Demo 2021
+artist: Apex Winter
+categories:
+- Tape
+date: '2021-06-26T15:16:21'
+draft: false
+images:
+- /images/covers/apex_winter-demo_2021.jpg
 inStock: true
+thumbnailImage: /images/covers/apex_winter-demo_2021-thumb.jpg
+title: Apex Winter - Demo 2021
 ---
 
 ## Tape

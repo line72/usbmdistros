@@ -1,16 +1,16 @@
 ---
-title: "Filii Nigrantium Infernalium / Bactherion - Inmunditia Odii Plena"
-date: 2021-06-22T16:40:37
-draft: false
-artist: "Filii Nigrantium Infernalium / Bactherion"
-album: "Inmunditia Odii Plena"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/filii_nigrantium_infernalium_-_bactherion-inmunditia_odii_plena.jpg"
-thumbnailImage: "/images/covers/filii_nigrantium_infernalium_-_bactherion-inmunditia_odii_plena-thumb.jpg"
 actualPrice: $17.00
+album: Inmunditia Odii Plena
+artist: Filii Nigrantium Infernalium / Bactherion
+categories:
+- Vinyl
+date: '2021-06-26T15:22:47'
+draft: false
+images:
+- /images/covers/filii_nigrantium_infernalium_-_bactherion-inmunditia_odii_plena.jpg
 inStock: true
+thumbnailImage: /images/covers/filii_nigrantium_infernalium_-_bactherion-inmunditia_odii_plena-thumb.jpg
+title: Filii Nigrantium Infernalium / Bactherion - Inmunditia Odii Plena
 ---
 
 ## Vinyl

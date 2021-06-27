@@ -1,16 +1,16 @@
 ---
-title: "Burning Wind - Demo"
-date: 2021-06-13T12:22:19
-draft: false
-artist: "Burning Wind"
-album: "Demo"
-categories:
-    - Tape
-images:
-    - "/images/covers/burning_wind-demo.jpg"
-thumbnailImage: "/images/covers/burning_wind-demo-thumb.jpg"
 actualPrice: $6.00
+album: Demo
+artist: Burning Wind
+categories:
+- Tape
+date: '2021-06-26T15:16:22'
+draft: false
+images:
+- /images/covers/burning_wind-demo.jpg
 inStock: true
+thumbnailImage: /images/covers/burning_wind-demo-thumb.jpg
+title: Burning Wind - Demo
 ---
 
 ## Tape

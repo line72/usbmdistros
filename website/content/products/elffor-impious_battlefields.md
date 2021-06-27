@@ -1,16 +1,16 @@
 ---
-title: "Elffor - Impious Battlefields"
-date: 2021-06-12T14:07:58
-draft: false
-artist: "Elffor"
-album: "Impious Battlefields"
-categories:
-    - CD
-images:
-    - "/images/covers/elffor-impious_battlefields.jpg"
-thumbnailImage: "/images/covers/elffor-impious_battlefields-thumb.jpg"
 actualPrice: $13.00
+album: Impious Battlefields
+artist: Elffor
+categories:
+- CD
+date: '2021-06-26T15:03:08'
+draft: false
+images:
+- /images/covers/elffor-impious_battlefields.jpg
 inStock: true
+thumbnailImage: /images/covers/elffor-impious_battlefields-thumb.jpg
+title: Elffor - Impious Battlefields
 ---
 
 ## CD

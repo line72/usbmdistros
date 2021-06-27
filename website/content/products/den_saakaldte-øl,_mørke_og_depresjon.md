@@ -1,16 +1,16 @@
 ---
-title: "Den Saakaldte - Øl, Mørke Og Depresjon"
-date: 2021-06-22T16:40:36
-draft: false
-artist: "Den Saakaldte"
-album: "Øl, Mørke Og Depresjon"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/den_saakaldte-øl,_mørke_og_depresjon.jpg"
-thumbnailImage: "/images/covers/den_saakaldte-øl,_mørke_og_depresjon-thumb.jpg"
 actualPrice: $25.00
+album: "\xD8l, M\xF8rke Og Depresjon"
+artist: Den Saakaldte
+categories:
+- Vinyl
+date: '2021-06-26T15:22:45'
+draft: false
+images:
+- "/images/covers/den_saakaldte-\xF8l,_m\xF8rke_og_depresjon.jpg"
 inStock: true
+thumbnailImage: "/images/covers/den_saakaldte-\xF8l,_m\xF8rke_og_depresjon-thumb.jpg"
+title: "Den Saakaldte - \xD8l, M\xF8rke Og Depresjon"
 ---
 
 ## Vinyl

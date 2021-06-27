@@ -1,16 +1,16 @@
 ---
-title: "Obscurae - To Walk The Path Of Sorrows"
-date: 2021-06-13T12:22:19
-draft: false
-artist: "Obscurae"
-album: "To Walk The Path Of Sorrows"
-categories:
-    - Tape
-images:
-    - "/images/covers/obscurae-to_walk_the_path_of_sorrows.jpg"
-thumbnailImage: "/images/covers/obscurae-to_walk_the_path_of_sorrows-thumb.jpg"
 actualPrice: $8.00
+album: To Walk The Path Of Sorrows
+artist: Obscurae
+categories:
+- Tape
+date: '2021-06-26T15:16:22'
+draft: false
+images:
+- /images/covers/obscurae-to_walk_the_path_of_sorrows.jpg
 inStock: true
+thumbnailImage: /images/covers/obscurae-to_walk_the_path_of_sorrows-thumb.jpg
+title: Obscurae - To Walk The Path Of Sorrows
 ---
 
 ## Tape

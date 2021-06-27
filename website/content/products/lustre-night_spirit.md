@@ -1,17 +1,17 @@
 ---
-title: "Lustre - Night Spirit"
-date: 2021-06-22T16:41:00
-draft: false
-artist: "Lustre"
-album: "Night Spirit"
-categories:
-    - Vinyl
-    - CD
-images:
-    - "/images/covers/lustre-night_spirit.jpg"
-thumbnailImage: "/images/covers/lustre-night_spirit-thumb.jpg"
 actualPrice: $12.00 - 22.00
+album: Night Spirit
+artist: Lustre
+categories:
+- Vinyl
+- CD
+date: '2021-06-26T15:23:10'
+draft: false
+images:
+- /images/covers/lustre-night_spirit.jpg
 inStock: true
+thumbnailImage: /images/covers/lustre-night_spirit-thumb.jpg
+title: Lustre - Night Spirit
 ---
 
 ## Vinyl

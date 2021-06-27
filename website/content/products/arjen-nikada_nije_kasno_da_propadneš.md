@@ -1,16 +1,16 @@
 ---
-title: "Arjen - Nikada Nije Kasno da Propadneš"
-date: 2021-06-12T14:07:54
-draft: false
-artist: "Arjen"
-album: "Nikada Nije Kasno da Propadneš"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/arjen-nikada_nije_kasno_da_propadneš.jpg"
-thumbnailImage: "/images/covers/arjen-nikada_nije_kasno_da_propadneš-thumb.jpg"
 actualPrice: $10.00
+album: "Nikada Nije Kasno da Propadne\u0161"
+artist: Arjen
+categories:
+- Vinyl
+date: '2021-06-26T15:02:58'
+draft: false
+images:
+- "/images/covers/arjen-nikada_nije_kasno_da_propadne\u0161.jpg"
 inStock: true
+thumbnailImage: "/images/covers/arjen-nikada_nije_kasno_da_propadne\u0161-thumb.jpg"
+title: "Arjen - Nikada Nije Kasno da Propadne\u0161"
 ---
 
 ## Vinyl

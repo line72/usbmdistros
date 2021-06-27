@@ -1,17 +1,17 @@
 ---
-title: "Bolzer - Soma"
-date: 2021-06-22T16:40:54
-draft: false
-artist: "Bolzer"
-album: "Soma"
-categories:
-    - Vinyl
-    - CD
-images:
-    - "/images/covers/bolzer-soma.jpg"
-thumbnailImage: "/images/covers/bolzer-soma-thumb.jpg"
 actualPrice: $10.00 - 17.00
+album: Soma
+artist: Bolzer
+categories:
+- Vinyl
+- CD
+date: '2021-06-26T15:23:04'
+draft: false
+images:
+- /images/covers/bolzer-soma.jpg
 inStock: true
+thumbnailImage: /images/covers/bolzer-soma-thumb.jpg
+title: Bolzer - Soma
 ---
 
 ## Vinyl

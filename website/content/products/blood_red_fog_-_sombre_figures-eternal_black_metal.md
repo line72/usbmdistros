@@ -1,16 +1,16 @@
 ---
-title: "Blood Red Fog / Sombre Figures - Eternal Black Metal"
-date: 2021-06-22T16:40:34
-draft: false
-artist: "Blood Red Fog / Sombre Figures"
-album: "Eternal Black Metal"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/blood_red_fog_-_sombre_figures-eternal_black_metal.jpg"
-thumbnailImage: "/images/covers/blood_red_fog_-_sombre_figures-eternal_black_metal-thumb.jpg"
 actualPrice: $25.00
+album: Eternal Black Metal
+artist: Blood Red Fog / Sombre Figures
+categories:
+- Vinyl
+date: '2021-06-26T15:22:43'
+draft: false
+images:
+- /images/covers/blood_red_fog_-_sombre_figures-eternal_black_metal.jpg
 inStock: true
+thumbnailImage: /images/covers/blood_red_fog_-_sombre_figures-eternal_black_metal-thumb.jpg
+title: Blood Red Fog / Sombre Figures - Eternal Black Metal
 ---
 
 ## Vinyl

@@ -1,16 +1,16 @@
 ---
-title: "Sepharvites - Demo"
-date: 2021-06-13T12:22:22
-draft: false
-artist: "Sepharvites"
-album: "Demo"
-categories:
-    - Tape
-images:
-    - "/images/covers/sepharvites-demo.jpg"
-thumbnailImage: "/images/covers/sepharvites-demo-thumb.jpg"
 actualPrice: $3.00
+album: Demo
+artist: Sepharvites
+categories:
+- Tape
+date: '2021-06-26T15:16:25'
+draft: false
+images:
+- /images/covers/sepharvites-demo.jpg
 inStock: true
+thumbnailImage: /images/covers/sepharvites-demo-thumb.jpg
+title: Sepharvites - Demo
 ---
 
 ## Tape

@@ -1,16 +1,16 @@
 ---
-title: "Corpse Garden - IAO 269"
-date: 2021-06-22T16:40:35
-draft: false
-artist: "Corpse Garden"
-album: "IAO 269"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/corpse_garden-iao_269.jpg"
-thumbnailImage: "/images/covers/corpse_garden-iao_269-thumb.jpg"
 actualPrice: $17.00
+album: IAO 269
+artist: Corpse Garden
+categories:
+- Vinyl
+date: '2021-06-26T15:22:44'
+draft: false
+images:
+- /images/covers/corpse_garden-iao_269.jpg
 inStock: true
+thumbnailImage: /images/covers/corpse_garden-iao_269-thumb.jpg
+title: Corpse Garden - IAO 269
 ---
 
 ## Vinyl

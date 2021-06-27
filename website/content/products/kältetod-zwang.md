@@ -1,17 +1,17 @@
 ---
-title: "Kältetod - Zwang"
-date: 2021-06-22T16:41:11
-draft: false
-artist: "Kältetod"
-album: "Zwang"
-categories:
-    - Vinyl
-    - Cassette
-images:
-    - "/images/covers/kältetod-zwang.jpg"
-thumbnailImage: "/images/covers/kältetod-zwang-thumb.jpg"
 actualPrice: $6.00 - 20.00
+album: Zwang
+artist: "K\xE4ltetod"
+categories:
+- Vinyl
+- Cassette
+date: '2021-06-26T15:23:21'
+draft: false
+images:
+- "/images/covers/k\xE4ltetod-zwang.jpg"
 inStock: true
+thumbnailImage: "/images/covers/k\xE4ltetod-zwang-thumb.jpg"
+title: "K\xE4ltetod - Zwang"
 ---
 
 ## Vinyl

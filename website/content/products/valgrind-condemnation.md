@@ -1,17 +1,17 @@
 ---
-title: "Valgrind - Condemnation"
-date: 2021-06-22T16:41:07
-draft: false
-artist: "Valgrind"
-album: "Condemnation"
-categories:
-    - Tape
-    - CD
-images:
-    - "/images/covers/valgrind-condemnation.jpg"
-thumbnailImage: "/images/covers/valgrind-condemnation-thumb.jpg"
 actualPrice: $7.00 - 10.00
+album: Condemnation
+artist: Valgrind
+categories:
+- Tape
+- CD
+date: '2021-06-26T15:23:17'
+draft: false
+images:
+- /images/covers/valgrind-condemnation.jpg
 inStock: true
+thumbnailImage: /images/covers/valgrind-condemnation-thumb.jpg
+title: Valgrind - Condemnation
 ---
 
 ## Tape

@@ -1,17 +1,17 @@
 ---
-title: "Ravensire - A Stone Engraved In Red"
-date: 2021-06-22T16:41:12
-draft: false
-artist: "Ravensire"
-album: "A Stone Engraved In Red"
-categories:
-    - Tape
-    - Cassette
-images:
-    - "/images/covers/ravensire-a_stone_engraved_in_red.jpg"
-thumbnailImage: "/images/covers/ravensire-a_stone_engraved_in_red-thumb.jpg"
 actualPrice: $5.50 - 9.00
+album: A Stone Engraved In Red
+artist: Ravensire
+categories:
+- Tape
+- Cassette
+date: '2021-06-26T15:23:23'
+draft: false
+images:
+- /images/covers/ravensire-a_stone_engraved_in_red.jpg
 inStock: true
+thumbnailImage: /images/covers/ravensire-a_stone_engraved_in_red-thumb.jpg
+title: Ravensire - A Stone Engraved In Red
 ---
 
 ## Tape

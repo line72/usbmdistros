@@ -1,16 +1,16 @@
 ---
-title: "Behalf Fiend - Nossas Homenagens"
-date: 2021-06-13T12:22:24
-draft: false
-artist: "Behalf Fiend"
-album: "Nossas Homenagens"
-categories:
-    - Tape
-images:
-    - "/images/covers/behalf_fiend-nossas_homenagens.jpg"
-thumbnailImage: "/images/covers/behalf_fiend-nossas_homenagens-thumb.jpg"
 actualPrice: $4.00
+album: Nossas Homenagens
+artist: Behalf Fiend
+categories:
+- Tape
+date: '2021-06-26T15:16:26'
+draft: false
+images:
+- /images/covers/behalf_fiend-nossas_homenagens.jpg
 inStock: true
+thumbnailImage: /images/covers/behalf_fiend-nossas_homenagens-thumb.jpg
+title: Behalf Fiend - Nossas Homenagens
 ---
 
 ## Tape

@@ -1,16 +1,16 @@
 ---
-title: "Pantheon of Blood - Voices Rooted in Blood"
-date: 2021-06-12T14:07:52
-draft: false
-artist: "Pantheon of Blood"
-album: "Voices Rooted in Blood"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/pantheon_of_blood-voices_rooted_in_blood.jpg"
-thumbnailImage: "/images/covers/pantheon_of_blood-voices_rooted_in_blood-thumb.jpg"
 actualPrice: $24.00
+album: Voices Rooted in Blood
+artist: Pantheon of Blood
+categories:
+- Vinyl
+date: '2021-06-26T15:02:54'
+draft: false
+images:
+- /images/covers/pantheon_of_blood-voices_rooted_in_blood.jpg
 inStock: true
+thumbnailImage: /images/covers/pantheon_of_blood-voices_rooted_in_blood-thumb.jpg
+title: Pantheon of Blood - Voices Rooted in Blood
 ---
 
 ## Vinyl

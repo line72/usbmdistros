@@ -1,16 +1,16 @@
 ---
-title: "Borda's Rope / El - Ahrairah ‎– Split"
-date: 2021-06-12T14:07:53
-draft: false
-artist: "Borda's Rope / El"
-album: "Ahrairah ‎– Split"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/borda's_rope_-_el-ahrairah_‎–_split.jpg"
-thumbnailImage: "/images/covers/borda's_rope_-_el-ahrairah_‎–_split-thumb.jpg"
 actualPrice: $22.00
+album: "Ahrairah \u200E\u2013 Split"
+artist: Borda's Rope / El
+categories:
+- Vinyl
+date: '2021-06-26T15:02:56'
+draft: false
+images:
+- "/images/covers/borda's_rope_-_el-ahrairah_\u200E\u2013_split.jpg"
 inStock: true
+thumbnailImage: "/images/covers/borda's_rope_-_el-ahrairah_\u200E\u2013_split-thumb.jpg"
+title: "Borda's Rope / El - Ahrairah \u200E\u2013 Split"
 ---
 
 ## Vinyl

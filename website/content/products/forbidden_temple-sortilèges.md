@@ -1,16 +1,16 @@
 ---
-title: "Forbidden Temple - Sortilèges"
-date: 2021-06-22T16:40:37
-draft: false
-artist: "Forbidden Temple"
-album: "Sortilèges"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/forbidden_temple-sortilèges.jpg"
-thumbnailImage: "/images/covers/forbidden_temple-sortilèges-thumb.jpg"
 actualPrice: $25.00
+album: "Sortil\xE8ges"
+artist: Forbidden Temple
+categories:
+- Vinyl
+date: '2021-06-26T15:22:47'
+draft: false
+images:
+- "/images/covers/forbidden_temple-sortil\xE8ges.jpg"
 inStock: true
+thumbnailImage: "/images/covers/forbidden_temple-sortil\xE8ges-thumb.jpg"
+title: "Forbidden Temple - Sortil\xE8ges"
 ---
 
 ## Vinyl

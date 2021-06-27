@@ -1,17 +1,17 @@
 ---
-title: "AZAVATAR - AZAVATAR"
-date: 2021-06-22T16:40:53
-draft: false
-artist: "AZAVATAR"
-album: "AZAVATAR"
-categories:
-    - Vinyl
-    - CD
-images:
-    - "/images/covers/azavatar-azavatar.jpg"
-thumbnailImage: "/images/covers/azavatar-azavatar-thumb.jpg"
 actualPrice: $8.00 - 17.00
+album: AZAVATAR
+artist: AZAVATAR
+categories:
+- Vinyl
+- CD
+date: '2021-06-26T15:23:03'
+draft: false
+images:
+- /images/covers/azavatar-azavatar.jpg
 inStock: true
+thumbnailImage: /images/covers/azavatar-azavatar-thumb.jpg
+title: AZAVATAR - AZAVATAR
 ---
 
 ## Vinyl

@@ -1,16 +1,16 @@
 ---
-title: "Putrid Offal - Mature Necropsy"
-date: 2021-06-22T16:40:44
-draft: false
-artist: "Putrid Offal"
-album: "Mature Necropsy"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/putrid_offal-mature_necropsy.jpg"
-thumbnailImage: "/images/covers/putrid_offal-mature_necropsy-thumb.jpg"
 actualPrice: $22.00
+album: Mature Necropsy
+artist: Putrid Offal
+categories:
+- Vinyl
+date: '2021-06-26T15:22:53'
+draft: false
+images:
+- /images/covers/putrid_offal-mature_necropsy.jpg
 inStock: true
+thumbnailImage: /images/covers/putrid_offal-mature_necropsy-thumb.jpg
+title: Putrid Offal - Mature Necropsy
 ---
 
 ## Vinyl

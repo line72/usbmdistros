@@ -1,16 +1,16 @@
 ---
-title: "Horn - Feldpost"
-date: 2021-06-22T16:40:39
-draft: false
-artist: "Horn"
-album: "Feldpost"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/horn-feldpost.jpg"
-thumbnailImage: "/images/covers/horn-feldpost-thumb.jpg"
 actualPrice: $20.00
+album: Feldpost
+artist: Horn
+categories:
+- Vinyl
+date: '2021-06-26T15:22:49'
+draft: false
+images:
+- /images/covers/horn-feldpost.jpg
 inStock: true
+thumbnailImage: /images/covers/horn-feldpost-thumb.jpg
+title: Horn - Feldpost
 ---
 
 ## Vinyl

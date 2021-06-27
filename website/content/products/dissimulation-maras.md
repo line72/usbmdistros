@@ -1,16 +1,16 @@
 ---
-title: "Dissimulation - Maras"
-date: 2021-06-22T16:40:36
-draft: false
-artist: "Dissimulation"
-album: "Maras"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/dissimulation-maras.jpg"
-thumbnailImage: "/images/covers/dissimulation-maras-thumb.jpg"
 actualPrice: $17.00
+album: Maras
+artist: Dissimulation
+categories:
+- Vinyl
+date: '2021-06-26T15:22:45'
+draft: false
+images:
+- /images/covers/dissimulation-maras.jpg
 inStock: true
+thumbnailImage: /images/covers/dissimulation-maras-thumb.jpg
+title: Dissimulation - Maras
 ---
 
 ## Vinyl

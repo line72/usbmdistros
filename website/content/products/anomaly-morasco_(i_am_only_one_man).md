@@ -1,16 +1,16 @@
 ---
-title: "Anomaly - Morasco (I Am Only One Man)"
-date: 2021-06-13T12:22:23
-draft: false
-artist: "Anomaly"
-album: "Morasco (I Am Only One Man)"
-categories:
-    - Tape
-images:
-    - "/images/covers/anomaly-morasco_(i_am_only_one_man).jpg"
-thumbnailImage: "/images/covers/anomaly-morasco_(i_am_only_one_man)-thumb.jpg"
 actualPrice: $4.00
+album: Morasco (I Am Only One Man)
+artist: Anomaly
+categories:
+- Tape
+date: '2021-06-26T15:16:25'
+draft: false
+images:
+- /images/covers/anomaly-morasco_(i_am_only_one_man).jpg
 inStock: true
+thumbnailImage: /images/covers/anomaly-morasco_(i_am_only_one_man)-thumb.jpg
+title: Anomaly - Morasco (I Am Only One Man)
 ---
 
 ## Tape

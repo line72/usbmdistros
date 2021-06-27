@@ -1,17 +1,17 @@
 ---
-title: "White Ward - Debemur Morti"
-date: 2021-06-12T14:11:53
-draft: false
-artist: "White Ward"
-album: "Debemur Morti"
-categories:
-    - Vinyl
-    - CD
-images:
-    - "/images/covers/white_ward-debemur_morti.jpg"
-thumbnailImage: "/images/covers/white_ward-debemur_morti-thumb.jpg"
 actualPrice: $6.66 - 37.99
+album: Debemur Morti
+artist: White Ward
+categories:
+- Vinyl
+- CD
+date: '2021-06-26T15:15:53'
+draft: false
+images:
+- /images/covers/white_ward-debemur_morti.jpg
 inStock: true
+thumbnailImage: /images/covers/white_ward-debemur_morti-thumb.jpg
+title: White Ward - Debemur Morti
 ---
 
 ## Vinyl

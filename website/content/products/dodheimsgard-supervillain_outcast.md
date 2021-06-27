@@ -1,16 +1,16 @@
 ---
-title: "Dodheimsgard - Supervillain Outcast"
-date: 2021-06-22T16:40:36
-draft: false
-artist: "Dodheimsgard"
-album: "Supervillain Outcast"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/dodheimsgard-supervillain_outcast.jpg"
-thumbnailImage: "/images/covers/dodheimsgard-supervillain_outcast-thumb.jpg"
 actualPrice: $30.00
+album: Supervillain Outcast
+artist: Dodheimsgard
+categories:
+- Vinyl
+date: '2021-06-26T15:22:45'
+draft: false
+images:
+- /images/covers/dodheimsgard-supervillain_outcast.jpg
 inStock: true
+thumbnailImage: /images/covers/dodheimsgard-supervillain_outcast-thumb.jpg
+title: Dodheimsgard - Supervillain Outcast
 ---
 
 ## Vinyl

@@ -1,16 +1,16 @@
 ---
-title: "Bulletbelt - Down Into the Cold of the Grave"
-date: 2021-06-22T16:40:34
-draft: false
-artist: "Bulletbelt"
-album: "Down Into the Cold of the Grave"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/bulletbelt-down_into_the_cold_of_the_grave.jpg"
-thumbnailImage: "/images/covers/bulletbelt-down_into_the_cold_of_the_grave-thumb.jpg"
 actualPrice: $17.00
+album: Down Into the Cold of the Grave
+artist: Bulletbelt
+categories:
+- Vinyl
+date: '2021-06-26T15:22:43'
+draft: false
+images:
+- /images/covers/bulletbelt-down_into_the_cold_of_the_grave.jpg
 inStock: true
+thumbnailImage: /images/covers/bulletbelt-down_into_the_cold_of_the_grave-thumb.jpg
+title: Bulletbelt - Down Into the Cold of the Grave
 ---
 
 ## Vinyl

@@ -1,17 +1,17 @@
 ---
-title: "Hadez - Aquelarre"
-date: 2021-06-22T16:40:58
-draft: false
-artist: "Hadez"
-album: "Aquelarre"
-categories:
-    - Tape
-    - CD
-images:
-    - "/images/covers/hadez-aquelarre.jpg"
-thumbnailImage: "/images/covers/hadez-aquelarre-thumb.jpg"
 actualPrice: $8.50 - 10.00
+album: Aquelarre
+artist: Hadez
+categories:
+- Tape
+- CD
+date: '2021-06-26T15:23:08'
+draft: false
+images:
+- /images/covers/hadez-aquelarre.jpg
 inStock: true
+thumbnailImage: /images/covers/hadez-aquelarre-thumb.jpg
+title: Hadez - Aquelarre
 ---
 
 ## Tape

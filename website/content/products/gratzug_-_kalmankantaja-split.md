@@ -1,16 +1,16 @@
 ---
-title: "Gratzug / Kalmankantaja - Split"
-date: 2021-06-12T14:07:59
-draft: false
-artist: "Gratzug / Kalmankantaja"
-album: "Split"
-categories:
-    - CD
-images:
-    - "/images/covers/gratzug_-_kalmankantaja-split.jpg"
-thumbnailImage: "/images/covers/gratzug_-_kalmankantaja-split-thumb.jpg"
 actualPrice: $13.00
+album: Split
+artist: Gratzug / Kalmankantaja
+categories:
+- CD
+date: '2021-06-26T15:03:08'
+draft: false
+images:
+- /images/covers/gratzug_-_kalmankantaja-split.jpg
 inStock: true
+thumbnailImage: /images/covers/gratzug_-_kalmankantaja-split-thumb.jpg
+title: Gratzug / Kalmankantaja - Split
 ---
 
 ## CD

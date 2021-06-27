@@ -1,17 +1,17 @@
 ---
-title: "CRYPTIC SHIFT - Visitations From Enceladus"
-date: 2021-06-22T16:40:55
-draft: false
-artist: "CRYPTIC SHIFT"
-album: "Visitations From Enceladus"
-categories:
-    - Vinyl
-    - CD
-images:
-    - "/images/covers/cryptic_shift-visitations_from_enceladus.jpg"
-thumbnailImage: "/images/covers/cryptic_shift-visitations_from_enceladus-thumb.jpg"
 actualPrice: $12.00 - 22.00
+album: Visitations From Enceladus
+artist: CRYPTIC SHIFT
+categories:
+- Vinyl
+- CD
+date: '2021-06-26T15:23:05'
+draft: false
+images:
+- /images/covers/cryptic_shift-visitations_from_enceladus.jpg
 inStock: true
+thumbnailImage: /images/covers/cryptic_shift-visitations_from_enceladus-thumb.jpg
+title: CRYPTIC SHIFT - Visitations From Enceladus
 ---
 
 ## Vinyl

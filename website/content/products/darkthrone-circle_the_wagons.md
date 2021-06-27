@@ -1,16 +1,16 @@
 ---
-title: "Darkthrone - Circle The Wagons"
-date: 2021-06-22T16:40:35
-draft: false
-artist: "Darkthrone"
-album: "Circle The Wagons"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/darkthrone-circle_the_wagons.jpg"
-thumbnailImage: "/images/covers/darkthrone-circle_the_wagons-thumb.jpg"
 actualPrice: $25.00
+album: Circle The Wagons
+artist: Darkthrone
+categories:
+- Vinyl
+date: '2021-06-26T15:22:44'
+draft: false
+images:
+- /images/covers/darkthrone-circle_the_wagons.jpg
 inStock: true
+thumbnailImage: /images/covers/darkthrone-circle_the_wagons-thumb.jpg
+title: Darkthrone - Circle The Wagons
 ---
 
 ## Vinyl

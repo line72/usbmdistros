@@ -1,16 +1,16 @@
 ---
-title: "Must Missa - Martyr Of Wrath"
-date: 2021-06-22T16:40:42
-draft: false
-artist: "Must Missa"
-album: "Martyr Of Wrath"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/must_missa-martyr_of_wrath.jpg"
-thumbnailImage: "/images/covers/must_missa-martyr_of_wrath-thumb.jpg"
 actualPrice: $18.00
+album: Martyr Of Wrath
+artist: Must Missa
+categories:
+- Vinyl
+date: '2021-06-26T15:22:51'
+draft: false
+images:
+- /images/covers/must_missa-martyr_of_wrath.jpg
 inStock: true
+thumbnailImage: /images/covers/must_missa-martyr_of_wrath-thumb.jpg
+title: Must Missa - Martyr Of Wrath
 ---
 
 ## Vinyl

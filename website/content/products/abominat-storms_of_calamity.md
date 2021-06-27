@@ -1,16 +1,16 @@
 ---
-title: "Abominat - Storms of Calamity"
-date: 2021-06-22T16:40:49
-draft: false
-artist: "Abominat"
-album: "Storms of Calamity"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/abominat-storms_of_calamity.jpg"
-thumbnailImage: "/images/covers/abominat-storms_of_calamity-thumb.jpg"
 actualPrice: $9.00
+album: Storms of Calamity
+artist: Abominat
+categories:
+- Vinyl
+date: '2021-06-26T15:22:59'
+draft: false
+images:
+- /images/covers/abominat-storms_of_calamity.jpg
 inStock: true
+thumbnailImage: /images/covers/abominat-storms_of_calamity-thumb.jpg
+title: Abominat - Storms of Calamity
 ---
 
 ## Vinyl

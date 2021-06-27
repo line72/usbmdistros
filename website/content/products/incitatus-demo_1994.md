@@ -1,16 +1,16 @@
 ---
-title: "Incitatus - Demo 1994"
-date: 2021-06-22T16:40:39
-draft: false
-artist: "Incitatus"
-album: "Demo 1994"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/incitatus-demo_1994.jpg"
-thumbnailImage: "/images/covers/incitatus-demo_1994-thumb.jpg"
 actualPrice: $25.00
+album: Demo 1994
+artist: Incitatus
+categories:
+- Vinyl
+date: '2021-06-26T15:22:49'
+draft: false
+images:
+- /images/covers/incitatus-demo_1994.jpg
 inStock: true
+thumbnailImage: /images/covers/incitatus-demo_1994-thumb.jpg
+title: Incitatus - Demo 1994
 ---
 
 ## Vinyl

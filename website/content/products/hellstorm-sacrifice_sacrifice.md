@@ -1,16 +1,16 @@
 ---
-title: "Hellstorm - Sacrifice Sacrifice"
-date: 2021-06-22T16:40:39
-draft: false
-artist: "Hellstorm"
-album: "Sacrifice Sacrifice"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/hellstorm-sacrifice_sacrifice.jpg"
-thumbnailImage: "/images/covers/hellstorm-sacrifice_sacrifice-thumb.jpg"
 actualPrice: $17.00
+album: Sacrifice Sacrifice
+artist: Hellstorm
+categories:
+- Vinyl
+date: '2021-06-26T15:22:48'
+draft: false
+images:
+- /images/covers/hellstorm-sacrifice_sacrifice.jpg
 inStock: true
+thumbnailImage: /images/covers/hellstorm-sacrifice_sacrifice-thumb.jpg
+title: Hellstorm - Sacrifice Sacrifice
 ---
 
 ## Vinyl

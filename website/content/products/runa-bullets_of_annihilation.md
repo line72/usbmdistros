@@ -1,16 +1,16 @@
 ---
-title: "Runa - Bullets Of Annihilation"
-date: 2021-06-13T12:22:18
-draft: false
-artist: "Runa"
-album: "Bullets Of Annihilation"
-categories:
-    - Tape
-images:
-    - "/images/covers/runa-bullets_of_annihilation.jpg"
-thumbnailImage: "/images/covers/runa-bullets_of_annihilation-thumb.jpg"
 actualPrice: $7.00
+album: Bullets Of Annihilation
+artist: Runa
+categories:
+- Tape
+date: '2021-06-26T15:16:22'
+draft: false
+images:
+- /images/covers/runa-bullets_of_annihilation.jpg
 inStock: true
+thumbnailImage: /images/covers/runa-bullets_of_annihilation-thumb.jpg
+title: Runa - Bullets Of Annihilation
 ---
 
 ## Tape

@@ -1,16 +1,16 @@
 ---
-title: "Abhorior / Sadistik Goathammer - Hierophanic Sigils ov the Poison and Death"
-date: 2021-06-22T16:40:52
-draft: false
-artist: "Abhorior / Sadistik Goathammer"
-album: "Hierophanic Sigils ov the Poison and Death"
-categories:
-    - CD
-images:
-    - "/images/covers/abhorior_-_sadistik_goathammer-hierophanic_sigils_ov_the_poison_and_death.jpg"
-thumbnailImage: "/images/covers/abhorior_-_sadistik_goathammer-hierophanic_sigils_ov_the_poison_and_death-thumb.jpg"
 actualPrice: $10.00
+album: Hierophanic Sigils ov the Poison and Death
+artist: Abhorior / Sadistik Goathammer
+categories:
+- CD
+date: '2021-06-26T15:23:02'
+draft: false
+images:
+- /images/covers/abhorior_-_sadistik_goathammer-hierophanic_sigils_ov_the_poison_and_death.jpg
 inStock: true
+thumbnailImage: /images/covers/abhorior_-_sadistik_goathammer-hierophanic_sigils_ov_the_poison_and_death-thumb.jpg
+title: Abhorior / Sadistik Goathammer - Hierophanic Sigils ov the Poison and Death
 ---
 
 ## CD

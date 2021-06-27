@@ -1,17 +1,17 @@
 ---
-title: "Amnutseba - Emanatism"
-date: 2021-06-22T16:40:52
-draft: false
-artist: "Amnutseba"
-album: "Emanatism"
-categories:
-    - Vinyl
-    - CD
-images:
-    - "/images/covers/amnutseba-emanatism.jpg"
-thumbnailImage: "/images/covers/amnutseba-emanatism-thumb.jpg"
 actualPrice: $10.00 - 20.00
+album: Emanatism
+artist: Amnutseba
+categories:
+- Vinyl
+- CD
+date: '2021-06-26T15:23:02'
+draft: false
+images:
+- /images/covers/amnutseba-emanatism.jpg
 inStock: true
+thumbnailImage: /images/covers/amnutseba-emanatism-thumb.jpg
+title: Amnutseba - Emanatism
 ---
 
 ## Vinyl

@@ -1,16 +1,16 @@
 ---
-title: "Blackhorned - Lost in a Twilight World"
-date: 2021-06-22T16:40:34
-draft: false
-artist: "Blackhorned"
-album: "Lost in a Twilight World"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/blackhorned-lost_in_a_twilight_world.jpg"
-thumbnailImage: "/images/covers/blackhorned-lost_in_a_twilight_world-thumb.jpg"
 actualPrice: $17.00
+album: Lost in a Twilight World
+artist: Blackhorned
+categories:
+- Vinyl
+date: '2021-06-26T15:22:43'
+draft: false
+images:
+- /images/covers/blackhorned-lost_in_a_twilight_world.jpg
 inStock: true
+thumbnailImage: /images/covers/blackhorned-lost_in_a_twilight_world-thumb.jpg
+title: Blackhorned - Lost in a Twilight World
 ---
 
 ## Vinyl

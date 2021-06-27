@@ -1,16 +1,16 @@
 ---
-title: "Abazagorath - Disciples of Sacrilege"
-date: 2021-06-22T16:41:08
-draft: false
-artist: "Abazagorath"
-album: "Disciples of Sacrilege"
-categories:
-    - Cassette
-images:
-    - "/images/covers/abazagorath-disciples_of_sacrilege.jpg"
-thumbnailImage: "/images/covers/abazagorath-disciples_of_sacrilege-thumb.jpg"
 actualPrice: $6.00
+album: Disciples of Sacrilege
+artist: Abazagorath
+categories:
+- Cassette
+date: '2021-06-26T15:23:18'
+draft: false
+images:
+- /images/covers/abazagorath-disciples_of_sacrilege.jpg
 inStock: true
+thumbnailImage: /images/covers/abazagorath-disciples_of_sacrilege-thumb.jpg
+title: Abazagorath - Disciples of Sacrilege
 ---
 
 ## Cassette

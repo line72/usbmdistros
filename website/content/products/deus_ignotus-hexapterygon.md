@@ -1,18 +1,18 @@
 ---
-title: "Deus Ignotus - Hexapterygon"
-date: 2021-06-22T16:41:09
-draft: false
-artist: "Deus Ignotus"
-album: "Hexapterygon"
-categories:
-    - Vinyl
-    - Cassette
-    - CD
-images:
-    - "/images/covers/deus_ignotus-hexapterygon.jpg"
-thumbnailImage: "/images/covers/deus_ignotus-hexapterygon-thumb.jpg"
 actualPrice: $6.00 - 20.00
+album: Hexapterygon
+artist: Deus Ignotus
+categories:
+- Vinyl
+- Cassette
+- CD
+date: '2021-06-26T15:23:20'
+draft: false
+images:
+- /images/covers/deus_ignotus-hexapterygon.jpg
 inStock: true
+thumbnailImage: /images/covers/deus_ignotus-hexapterygon-thumb.jpg
+title: Deus Ignotus - Hexapterygon
 ---
 
 ## Vinyl

@@ -1,16 +1,16 @@
 ---
-title: "Corpus Rottus - Rituals Of Silence"
-date: 2021-06-22T16:40:35
-draft: false
-artist: "Corpus Rottus"
-album: "Rituals Of Silence"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/corpus_rottus-rituals_of_silence.jpg"
-thumbnailImage: "/images/covers/corpus_rottus-rituals_of_silence-thumb.jpg"
 actualPrice: $25.00
+album: Rituals Of Silence
+artist: Corpus Rottus
+categories:
+- Vinyl
+date: '2021-06-26T15:22:44'
+draft: false
+images:
+- /images/covers/corpus_rottus-rituals_of_silence.jpg
 inStock: true
+thumbnailImage: /images/covers/corpus_rottus-rituals_of_silence-thumb.jpg
+title: Corpus Rottus - Rituals Of Silence
 ---
 
 ## Vinyl

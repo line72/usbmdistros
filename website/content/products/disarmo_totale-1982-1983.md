@@ -1,16 +1,16 @@
 ---
-title: "DISARMO TOTALE - 1982/1983"
-date: 2021-06-22T16:40:36
-draft: false
-artist: "DISARMO TOTALE"
-album: "1982/1983"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/disarmo_totale-1982-1983.jpg"
-thumbnailImage: "/images/covers/disarmo_totale-1982-1983-thumb.jpg"
 actualPrice: $20.00
+album: 1982/1983
+artist: DISARMO TOTALE
+categories:
+- Vinyl
+date: '2021-06-26T15:22:45'
+draft: false
+images:
+- /images/covers/disarmo_totale-1982-1983.jpg
 inStock: true
+thumbnailImage: /images/covers/disarmo_totale-1982-1983-thumb.jpg
+title: DISARMO TOTALE - 1982/1983
 ---
 
 ## Vinyl

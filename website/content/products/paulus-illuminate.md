@@ -1,16 +1,16 @@
 ---
-title: "Paulus - Illuminate"
-date: 2021-06-12T14:07:56
-draft: false
-artist: "Paulus"
-album: "Illuminate"
-categories:
-    - Tape
-images:
-    - "/images/covers/paulus-illuminate.jpg"
-thumbnailImage: "/images/covers/paulus-illuminate-thumb.jpg"
 actualPrice: $9.00
+album: Illuminate
+artist: Paulus
+categories:
+- Tape
+date: '2021-06-26T15:03:02'
+draft: false
+images:
+- /images/covers/paulus-illuminate.jpg
 inStock: true
+thumbnailImage: /images/covers/paulus-illuminate-thumb.jpg
+title: Paulus - Illuminate
 ---
 
 ## Tape

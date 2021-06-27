@@ -1,16 +1,16 @@
 ---
-title: "Paramnesia - Ce Que Dit La Bouche D'Ombre"
-date: 2021-06-13T12:22:23
-draft: false
-artist: "Paramnesia"
-album: "Ce Que Dit La Bouche D'Ombre"
-categories:
-    - Tape
-images:
-    - "/images/covers/paramnesia-ce_que_dit_la_bouche_d'ombre.jpg"
-thumbnailImage: "/images/covers/paramnesia-ce_que_dit_la_bouche_d'ombre-thumb.jpg"
 actualPrice: $7.50
+album: Ce Que Dit La Bouche D'Ombre
+artist: Paramnesia
+categories:
+- Tape
+date: '2021-06-26T15:16:25'
+draft: false
+images:
+- /images/covers/paramnesia-ce_que_dit_la_bouche_d'ombre.jpg
 inStock: true
+thumbnailImage: /images/covers/paramnesia-ce_que_dit_la_bouche_d'ombre-thumb.jpg
+title: Paramnesia - Ce Que Dit La Bouche D'Ombre
 ---
 
 ## Tape

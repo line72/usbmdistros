@@ -1,16 +1,16 @@
 ---
-title: "Black Knife - Spell Caster"
-date: 2021-06-22T16:40:34
-draft: false
-artist: "Black Knife"
-album: "Spell Caster"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/black_knife-spell_caster.jpg"
-thumbnailImage: "/images/covers/black_knife-spell_caster-thumb.jpg"
 actualPrice: $17.00
+album: Spell Caster
+artist: Black Knife
+categories:
+- Vinyl
+date: '2021-06-26T15:22:43'
+draft: false
+images:
+- /images/covers/black_knife-spell_caster.jpg
 inStock: true
+thumbnailImage: /images/covers/black_knife-spell_caster-thumb.jpg
+title: Black Knife - Spell Caster
 ---
 
 ## Vinyl

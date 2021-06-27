@@ -1,16 +1,16 @@
 ---
-title: "Assumption - The Three Appearances"
-date: 2021-06-13T12:22:18
-draft: false
-artist: "Assumption"
-album: "The Three Appearances"
-categories:
-    - Tape
-images:
-    - "/images/covers/assumption-the_three_appearances.jpg"
-thumbnailImage: "/images/covers/assumption-the_three_appearances-thumb.jpg"
 actualPrice: $8.00
+album: The Three Appearances
+artist: Assumption
+categories:
+- Tape
+date: '2021-06-26T15:16:21'
+draft: false
+images:
+- /images/covers/assumption-the_three_appearances.jpg
 inStock: true
+thumbnailImage: /images/covers/assumption-the_three_appearances-thumb.jpg
+title: Assumption - The Three Appearances
 ---
 
 ## Tape

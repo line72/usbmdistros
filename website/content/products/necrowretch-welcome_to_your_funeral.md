@@ -1,16 +1,16 @@
 ---
-title: "Necrowretch - Welcome To Your Funeral"
-date: 2021-06-22T16:40:42
-draft: false
-artist: "Necrowretch"
-album: "Welcome To Your Funeral"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/necrowretch-welcome_to_your_funeral.jpg"
-thumbnailImage: "/images/covers/necrowretch-welcome_to_your_funeral-thumb.jpg"
 actualPrice: $17.00
+album: Welcome To Your Funeral
+artist: Necrowretch
+categories:
+- Vinyl
+date: '2021-06-26T15:22:52'
+draft: false
+images:
+- /images/covers/necrowretch-welcome_to_your_funeral.jpg
 inStock: true
+thumbnailImage: /images/covers/necrowretch-welcome_to_your_funeral-thumb.jpg
+title: Necrowretch - Welcome To Your Funeral
 ---
 
 ## Vinyl

@@ -1,16 +1,16 @@
 ---
-title: "Funerary Box - Hell-hammered Horror"
-date: 2021-06-22T16:40:38
-draft: false
-artist: "Funerary Box"
-album: "Hell-hammered Horror"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/funerary_box-hell-hammered_horror.jpg"
-thumbnailImage: "/images/covers/funerary_box-hell-hammered_horror-thumb.jpg"
 actualPrice: $17.00
+album: Hell-hammered Horror
+artist: Funerary Box
+categories:
+- Vinyl
+date: '2021-06-26T15:22:47'
+draft: false
+images:
+- /images/covers/funerary_box-hell-hammered_horror.jpg
 inStock: true
+thumbnailImage: /images/covers/funerary_box-hell-hammered_horror-thumb.jpg
+title: Funerary Box - Hell-hammered Horror
 ---
 
 ## Vinyl

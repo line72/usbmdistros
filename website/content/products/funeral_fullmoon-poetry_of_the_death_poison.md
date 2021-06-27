@@ -1,16 +1,16 @@
 ---
-title: "Funeral Fullmoon - Poetry of the Death Poison"
-date: 2021-06-12T14:07:51
-draft: false
-artist: "Funeral Fullmoon"
-album: "Poetry of the Death Poison"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/funeral_fullmoon-poetry_of_the_death_poison.jpg"
-thumbnailImage: "/images/covers/funeral_fullmoon-poetry_of_the_death_poison-thumb.jpg"
 actualPrice: $32.00 - 35.00
+album: Poetry of the Death Poison
+artist: Funeral Fullmoon
+categories:
+- Vinyl
+date: '2021-06-26T15:02:54'
+draft: false
+images:
+- /images/covers/funeral_fullmoon-poetry_of_the_death_poison.jpg
 inStock: true
+thumbnailImage: /images/covers/funeral_fullmoon-poetry_of_the_death_poison-thumb.jpg
+title: Funeral Fullmoon - Poetry of the Death Poison
 ---
 
 ## Vinyl

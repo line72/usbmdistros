@@ -1,16 +1,16 @@
 ---
-title: "Kaabalh - Kåabalh"
-date: 2021-06-22T16:40:40
-draft: false
-artist: "Kaabalh"
-album: "Kåabalh"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/kaabalh-kåabalh.jpg"
-thumbnailImage: "/images/covers/kaabalh-kåabalh-thumb.jpg"
 actualPrice: $20.00
+album: "K\xE5abalh"
+artist: Kaabalh
+categories:
+- Vinyl
+date: '2021-06-26T15:22:49'
+draft: false
+images:
+- "/images/covers/kaabalh-k\xE5abalh.jpg"
 inStock: true
+thumbnailImage: "/images/covers/kaabalh-k\xE5abalh-thumb.jpg"
+title: "Kaabalh - K\xE5abalh"
 ---
 
 ## Vinyl

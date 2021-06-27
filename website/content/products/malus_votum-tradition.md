@@ -1,16 +1,16 @@
 ---
-title: "Malus Votum - Tradition"
-date: 2021-06-22T16:41:01
-draft: false
-artist: "Malus Votum"
-album: "Tradition"
-categories:
-    - CD
-images:
-    - "/images/covers/malus_votum-tradition.jpg"
-thumbnailImage: "/images/covers/malus_votum-tradition-thumb.jpg"
 actualPrice: $15.00
+album: Tradition
+artist: Malus Votum
+categories:
+- CD
+date: '2021-06-26T15:23:11'
+draft: false
+images:
+- /images/covers/malus_votum-tradition.jpg
 inStock: true
+thumbnailImage: /images/covers/malus_votum-tradition-thumb.jpg
+title: Malus Votum - Tradition
 ---
 
 ## CD

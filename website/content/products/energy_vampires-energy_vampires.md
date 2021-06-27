@@ -1,16 +1,16 @@
 ---
-title: "Energy Vampires - Energy Vampires"
-date: 2021-06-22T16:40:37
-draft: false
-artist: "Energy Vampires"
-album: "Energy Vampires"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/energy_vampires-energy_vampires.jpg"
-thumbnailImage: "/images/covers/energy_vampires-energy_vampires-thumb.jpg"
 actualPrice: $25.00
+album: Energy Vampires
+artist: Energy Vampires
+categories:
+- Vinyl
+date: '2021-06-26T15:22:46'
+draft: false
+images:
+- /images/covers/energy_vampires-energy_vampires.jpg
 inStock: true
+thumbnailImage: /images/covers/energy_vampires-energy_vampires-thumb.jpg
+title: Energy Vampires - Energy Vampires
 ---
 
 ## Vinyl

@@ -1,16 +1,16 @@
 ---
-title: "Ad Arma / Purbawisesa - Coalition ov Morbid..."
-date: 2021-06-22T16:40:32
-draft: false
-artist: "Ad Arma / Purbawisesa"
-album: "Coalition ov Morbid..."
-categories:
-    - Vinyl
-images:
-    - "/images/covers/ad_arma_-_purbawisesa-coalition_ov_morbid....jpg"
-thumbnailImage: "/images/covers/ad_arma_-_purbawisesa-coalition_ov_morbid...-thumb.jpg"
 actualPrice: $17.00
+album: Coalition ov Morbid...
+artist: Ad Arma / Purbawisesa
+categories:
+- Vinyl
+date: '2021-06-26T15:22:41'
+draft: false
+images:
+- /images/covers/ad_arma_-_purbawisesa-coalition_ov_morbid....jpg
 inStock: true
+thumbnailImage: /images/covers/ad_arma_-_purbawisesa-coalition_ov_morbid...-thumb.jpg
+title: Ad Arma / Purbawisesa - Coalition ov Morbid...
 ---
 
 ## Vinyl

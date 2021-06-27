@@ -1,16 +1,16 @@
 ---
-title: "Judaswiege - Ashes Of The Heretic"
-date: 2021-06-13T12:22:23
-draft: false
-artist: "Judaswiege"
-album: "Ashes Of The Heretic"
-categories:
-    - CD
-images:
-    - "/images/covers/judaswiege-ashes_of_the_heretic.jpg"
-thumbnailImage: "/images/covers/judaswiege-ashes_of_the_heretic-thumb.jpg"
 actualPrice: $4.00
+album: Ashes Of The Heretic
+artist: Judaswiege
+categories:
+- CD
+date: '2021-06-26T15:16:25'
+draft: false
+images:
+- /images/covers/judaswiege-ashes_of_the_heretic.jpg
 inStock: true
+thumbnailImage: /images/covers/judaswiege-ashes_of_the_heretic-thumb.jpg
+title: Judaswiege - Ashes Of The Heretic
 ---
 
 ## CD

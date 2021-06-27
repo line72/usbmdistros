@@ -1,16 +1,16 @@
 ---
-title: "Sindeep - Demon Fuck"
-date: 2021-06-13T12:22:22
-draft: false
-artist: "Sindeep"
-album: "Demon Fuck"
-categories:
-    - Tape
-images:
-    - "/images/covers/sindeep-demon_fuck.jpg"
-thumbnailImage: "/images/covers/sindeep-demon_fuck-thumb.jpg"
 actualPrice: $6.50
+album: Demon Fuck
+artist: Sindeep
+categories:
+- Tape
+date: '2021-06-26T15:16:24'
+draft: false
+images:
+- /images/covers/sindeep-demon_fuck.jpg
 inStock: true
+thumbnailImage: /images/covers/sindeep-demon_fuck-thumb.jpg
+title: Sindeep - Demon Fuck
 ---
 
 ## Tape

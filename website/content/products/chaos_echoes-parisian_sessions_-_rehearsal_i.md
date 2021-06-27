@@ -1,16 +1,16 @@
 ---
-title: "Chaos Echoes - Parisian Sessions / Rehearsal I"
-date: 2021-06-22T16:40:35
-draft: false
-artist: "Chaos Echoes"
-album: "Parisian Sessions / Rehearsal I"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/chaos_echoes-parisian_sessions_-_rehearsal_i.jpg"
-thumbnailImage: "/images/covers/chaos_echoes-parisian_sessions_-_rehearsal_i-thumb.jpg"
 actualPrice: $15.00
+album: Parisian Sessions / Rehearsal I
+artist: Chaos Echoes
+categories:
+- Vinyl
+date: '2021-06-26T15:22:44'
+draft: false
+images:
+- /images/covers/chaos_echoes-parisian_sessions_-_rehearsal_i.jpg
 inStock: true
+thumbnailImage: /images/covers/chaos_echoes-parisian_sessions_-_rehearsal_i-thumb.jpg
+title: Chaos Echoes - Parisian Sessions / Rehearsal I
 ---
 
 ## Vinyl

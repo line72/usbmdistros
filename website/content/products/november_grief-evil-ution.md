@@ -1,16 +1,16 @@
 ---
-title: "November Grief - Evil-ution"
-date: 2021-06-22T16:40:42
-draft: false
-artist: "November Grief"
-album: "Evil-ution"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/november_grief-evil-ution.jpg"
-thumbnailImage: "/images/covers/november_grief-evil-ution-thumb.jpg"
 actualPrice: $20.00
+album: Evil-ution
+artist: November Grief
+categories:
+- Vinyl
+date: '2021-06-26T15:22:52'
+draft: false
+images:
+- /images/covers/november_grief-evil-ution.jpg
 inStock: true
+thumbnailImage: /images/covers/november_grief-evil-ution-thumb.jpg
+title: November Grief - Evil-ution
 ---
 
 ## Vinyl

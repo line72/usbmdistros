@@ -1,16 +1,16 @@
 ---
-title: "Mágoa - Mágoa"
-date: 2021-06-22T16:40:40
-draft: false
-artist: "Mágoa"
-album: "Mágoa"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/mágoa-mágoa.jpg"
-thumbnailImage: "/images/covers/mágoa-mágoa-thumb.jpg"
 actualPrice: $25.00
+album: "M\xE1goa"
+artist: "M\xE1goa"
+categories:
+- Vinyl
+date: '2021-06-26T15:22:50'
+draft: false
+images:
+- "/images/covers/m\xE1goa-m\xE1goa.jpg"
 inStock: true
+thumbnailImage: "/images/covers/m\xE1goa-m\xE1goa-thumb.jpg"
+title: "M\xE1goa - M\xE1goa"
 ---
 
 ## Vinyl

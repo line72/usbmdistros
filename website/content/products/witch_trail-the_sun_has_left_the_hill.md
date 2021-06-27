@@ -1,16 +1,16 @@
 ---
-title: "Witch Trail - The Sun Has Left The Hill"
-date: 2021-06-13T12:22:21
-draft: false
-artist: "Witch Trail"
-album: "The Sun Has Left The Hill"
-categories:
-    - Tape
-images:
-    - "/images/covers/witch_trail-the_sun_has_left_the_hill.jpg"
-thumbnailImage: "/images/covers/witch_trail-the_sun_has_left_the_hill-thumb.jpg"
 actualPrice: $3.00
+album: The Sun Has Left The Hill
+artist: Witch Trail
+categories:
+- Tape
+date: '2021-06-26T15:16:23'
+draft: false
+images:
+- /images/covers/witch_trail-the_sun_has_left_the_hill.jpg
 inStock: true
+thumbnailImage: /images/covers/witch_trail-the_sun_has_left_the_hill-thumb.jpg
+title: Witch Trail - The Sun Has Left The Hill
 ---
 
 ## Tape

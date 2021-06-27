@@ -1,16 +1,16 @@
 ---
-title: "Goatcraft - Olethros"
-date: 2021-06-22T16:40:38
-draft: false
-artist: "Goatcraft"
-album: "Olethros"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/goatcraft-olethros.jpg"
-thumbnailImage: "/images/covers/goatcraft-olethros-thumb.jpg"
 actualPrice: $17.00
+album: Olethros
+artist: Goatcraft
+categories:
+- Vinyl
+date: '2021-06-26T15:22:48'
+draft: false
+images:
+- /images/covers/goatcraft-olethros.jpg
 inStock: true
+thumbnailImage: /images/covers/goatcraft-olethros-thumb.jpg
+title: Goatcraft - Olethros
 ---
 
 ## Vinyl

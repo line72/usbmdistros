@@ -1,16 +1,16 @@
 ---
-title: "Barrowlands - Thane"
-date: 2021-06-22T16:40:33
-draft: false
-artist: "Barrowlands"
-album: "Thane"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/barrowlands-thane.jpg"
-thumbnailImage: "/images/covers/barrowlands-thane-thumb.jpg"
 actualPrice: $17.00
+album: Thane
+artist: Barrowlands
+categories:
+- Vinyl
+date: '2021-06-26T15:22:42'
+draft: false
+images:
+- /images/covers/barrowlands-thane.jpg
 inStock: true
+thumbnailImage: /images/covers/barrowlands-thane-thumb.jpg
+title: Barrowlands - Thane
 ---
 
 ## Vinyl

@@ -1,16 +1,16 @@
 ---
-title: "Rooforest - Raw Darkness"
-date: 2021-06-13T12:22:21
-draft: false
-artist: "Rooforest"
-album: "Raw Darkness"
-categories:
-    - Tape
-images:
-    - "/images/covers/rooforest-raw_darkness.jpg"
-thumbnailImage: "/images/covers/rooforest-raw_darkness-thumb.jpg"
 actualPrice: $8.00
+album: Raw Darkness
+artist: Rooforest
+categories:
+- Tape
+date: '2021-06-26T15:16:24'
+draft: false
+images:
+- /images/covers/rooforest-raw_darkness.jpg
 inStock: true
+thumbnailImage: /images/covers/rooforest-raw_darkness-thumb.jpg
+title: Rooforest - Raw Darkness
 ---
 
 ## Tape

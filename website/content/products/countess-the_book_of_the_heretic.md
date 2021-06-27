@@ -1,16 +1,16 @@
 ---
-title: "Countess - The Book of the Heretic"
-date: 2021-06-22T16:40:35
-draft: false
-artist: "Countess"
-album: "The Book of the Heretic"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/countess-the_book_of_the_heretic.jpg"
-thumbnailImage: "/images/covers/countess-the_book_of_the_heretic-thumb.jpg"
 actualPrice: $30.00
+album: The Book of the Heretic
+artist: Countess
+categories:
+- Vinyl
+date: '2021-06-26T15:22:44'
+draft: false
+images:
+- /images/covers/countess-the_book_of_the_heretic.jpg
 inStock: true
+thumbnailImage: /images/covers/countess-the_book_of_the_heretic-thumb.jpg
+title: Countess - The Book of the Heretic
 ---
 
 ## Vinyl

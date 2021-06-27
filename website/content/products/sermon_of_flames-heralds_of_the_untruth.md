@@ -1,16 +1,16 @@
 ---
-title: "Sermon Of Flames - Heralds Of The Untruth"
-date: 2021-06-13T12:22:23
-draft: false
-artist: "Sermon Of Flames"
-album: "Heralds Of The Untruth"
-categories:
-    - Tape
-images:
-    - "/images/covers/sermon_of_flames-heralds_of_the_untruth.jpg"
-thumbnailImage: "/images/covers/sermon_of_flames-heralds_of_the_untruth-thumb.jpg"
 actualPrice: $5.00 - 6.50
+album: Heralds Of The Untruth
+artist: Sermon Of Flames
+categories:
+- Tape
+date: '2021-06-26T15:16:26'
+draft: false
+images:
+- /images/covers/sermon_of_flames-heralds_of_the_untruth.jpg
 inStock: true
+thumbnailImage: /images/covers/sermon_of_flames-heralds_of_the_untruth-thumb.jpg
+title: Sermon Of Flames - Heralds Of The Untruth
 ---
 
 ## Tape

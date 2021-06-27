@@ -1,16 +1,16 @@
 ---
-title: "Necroplasma - Sit Gloria Domini In Sæcvlvm"
-date: 2021-06-22T16:40:42
-draft: false
-artist: "Necroplasma"
-album: "Sit Gloria Domini In Sæcvlvm"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/necroplasma-sit_gloria_domini_in_sæcvlvm.jpg"
-thumbnailImage: "/images/covers/necroplasma-sit_gloria_domini_in_sæcvlvm-thumb.jpg"
 actualPrice: $17.00
+album: "Sit Gloria Domini In S\xE6cvlvm"
+artist: Necroplasma
+categories:
+- Vinyl
+date: '2021-06-26T15:22:52'
+draft: false
+images:
+- "/images/covers/necroplasma-sit_gloria_domini_in_s\xE6cvlvm.jpg"
 inStock: true
+thumbnailImage: "/images/covers/necroplasma-sit_gloria_domini_in_s\xE6cvlvm-thumb.jpg"
+title: "Necroplasma - Sit Gloria Domini In S\xE6cvlvm"
 ---
 
 ## Vinyl

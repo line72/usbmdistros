@@ -1,16 +1,16 @@
 ---
-title: "Ritual Suicide - Dirges At Carrion Dawn"
-date: 2021-06-22T16:40:44
-draft: false
-artist: "Ritual Suicide"
-album: "Dirges At Carrion Dawn"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/ritual_suicide-dirges_at_carrion_dawn.jpg"
-thumbnailImage: "/images/covers/ritual_suicide-dirges_at_carrion_dawn-thumb.jpg"
 actualPrice: $15.00
+album: Dirges At Carrion Dawn
+artist: Ritual Suicide
+categories:
+- Vinyl
+date: '2021-06-26T15:22:54'
+draft: false
+images:
+- /images/covers/ritual_suicide-dirges_at_carrion_dawn.jpg
 inStock: true
+thumbnailImage: /images/covers/ritual_suicide-dirges_at_carrion_dawn-thumb.jpg
+title: Ritual Suicide - Dirges At Carrion Dawn
 ---
 
 ## Vinyl

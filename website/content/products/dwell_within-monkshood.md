@@ -1,16 +1,16 @@
 ---
-title: "Dwell Within - Monkshood"
-date: 2021-06-22T16:40:36
-draft: false
-artist: "Dwell Within"
-album: "Monkshood"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/dwell_within-monkshood.jpg"
-thumbnailImage: "/images/covers/dwell_within-monkshood-thumb.jpg"
 actualPrice: $17.00
+album: Monkshood
+artist: Dwell Within
+categories:
+- Vinyl
+date: '2021-06-26T15:22:46'
+draft: false
+images:
+- /images/covers/dwell_within-monkshood.jpg
 inStock: true
+thumbnailImage: /images/covers/dwell_within-monkshood-thumb.jpg
+title: Dwell Within - Monkshood
 ---
 
 ## Vinyl

@@ -1,17 +1,17 @@
 ---
-title: "Hellias - Revenge of Hellias"
-date: 2021-06-22T16:40:58
-draft: false
-artist: "Hellias"
-album: "Revenge of Hellias"
-categories:
-    - Vinyl
-    - CD
-images:
-    - "/images/covers/hellias-revenge_of_hellias.jpg"
-thumbnailImage: "/images/covers/hellias-revenge_of_hellias-thumb.jpg"
 actualPrice: $6.00 - 10.00
+album: Revenge of Hellias
+artist: Hellias
+categories:
+- Vinyl
+- CD
+date: '2021-06-26T15:23:08'
+draft: false
+images:
+- /images/covers/hellias-revenge_of_hellias.jpg
 inStock: true
+thumbnailImage: /images/covers/hellias-revenge_of_hellias-thumb.jpg
+title: Hellias - Revenge of Hellias
 ---
 
 ## Vinyl

@@ -1,16 +1,16 @@
 ---
-title: "Drencrom - Permanent Living Death"
-date: 2021-06-22T16:40:36
-draft: false
-artist: "Drencrom"
-album: "Permanent Living Death"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/drencrom-permanent_living_death.jpg"
-thumbnailImage: "/images/covers/drencrom-permanent_living_death-thumb.jpg"
 actualPrice: $20.00
+album: Permanent Living Death
+artist: Drencrom
+categories:
+- Vinyl
+date: '2021-06-26T15:22:46'
+draft: false
+images:
+- /images/covers/drencrom-permanent_living_death.jpg
 inStock: true
+thumbnailImage: /images/covers/drencrom-permanent_living_death-thumb.jpg
+title: Drencrom - Permanent Living Death
 ---
 
 ## Vinyl

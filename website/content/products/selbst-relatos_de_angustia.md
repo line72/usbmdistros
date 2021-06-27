@@ -1,17 +1,17 @@
 ---
-title: "Selbst - Relatos De Angustia"
-date: 2021-06-12T14:11:53
-draft: false
-artist: "Selbst"
-album: "Relatos De Angustia"
-categories:
-    - Vinyl
-    - CD
-images:
-    - "/images/covers/selbst-relatos_de_angustia.jpg"
-thumbnailImage: "/images/covers/selbst-relatos_de_angustia-thumb.jpg"
 actualPrice: $9.99 - 23.99
+album: Relatos De Angustia
+artist: Selbst
+categories:
+- Vinyl
+- CD
+date: '2021-06-26T15:15:52'
+draft: false
+images:
+- /images/covers/selbst-relatos_de_angustia.jpg
 inStock: true
+thumbnailImage: /images/covers/selbst-relatos_de_angustia-thumb.jpg
+title: Selbst - Relatos De Angustia
 ---
 
 ## Vinyl

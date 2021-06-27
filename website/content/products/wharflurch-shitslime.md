@@ -1,16 +1,16 @@
 ---
-title: "Wharflurch - Shitslime"
-date: 2021-06-13T12:22:18
-draft: false
-artist: "Wharflurch"
-album: "Shitslime"
-categories:
-    - Tape
-images:
-    - "/images/covers/wharflurch-shitslime.jpg"
-thumbnailImage: "/images/covers/wharflurch-shitslime-thumb.jpg"
 actualPrice: $10.00
+album: Shitslime
+artist: Wharflurch
+categories:
+- Tape
+date: '2021-06-26T15:16:22'
+draft: false
+images:
+- /images/covers/wharflurch-shitslime.jpg
 inStock: true
+thumbnailImage: /images/covers/wharflurch-shitslime-thumb.jpg
+title: Wharflurch - Shitslime
 ---
 
 ## Tape

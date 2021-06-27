@@ -1,16 +1,16 @@
 ---
-title: "FCDN Tormentor - Demonic Thereafter"
-date: 2021-06-22T16:40:37
-draft: false
-artist: "FCDN Tormentor"
-album: "Demonic Thereafter"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/fcdn_tormentor-demonic_thereafter.jpg"
-thumbnailImage: "/images/covers/fcdn_tormentor-demonic_thereafter-thumb.jpg"
 actualPrice: $17.00
+album: Demonic Thereafter
+artist: FCDN Tormentor
+categories:
+- Vinyl
+date: '2021-06-26T15:22:47'
+draft: false
+images:
+- /images/covers/fcdn_tormentor-demonic_thereafter.jpg
 inStock: true
+thumbnailImage: /images/covers/fcdn_tormentor-demonic_thereafter-thumb.jpg
+title: FCDN Tormentor - Demonic Thereafter
 ---
 
 ## Vinyl

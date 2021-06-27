@@ -1,16 +1,16 @@
 ---
-title: "Coma Detox - Concussed & Asphyxiated"
-date: 2021-06-12T14:07:52
-draft: false
-artist: "Coma Detox"
-album: "Concussed & Asphyxiated"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/coma_detox-concussed_&_asphyxiated.jpg"
-thumbnailImage: "/images/covers/coma_detox-concussed_&_asphyxiated-thumb.jpg"
 actualPrice: $30.00
+album: Concussed & Asphyxiated
+artist: Coma Detox
+categories:
+- Vinyl
+date: '2021-06-26T15:02:54'
+draft: false
+images:
+- /images/covers/coma_detox-concussed_&_asphyxiated.jpg
 inStock: true
+thumbnailImage: /images/covers/coma_detox-concussed_&_asphyxiated-thumb.jpg
+title: Coma Detox - Concussed & Asphyxiated
 ---
 
 ## Vinyl

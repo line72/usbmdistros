@@ -1,16 +1,16 @@
 ---
-title: "Ignivomous - Path Of Attrition"
-date: 2021-06-22T16:40:39
-draft: false
-artist: "Ignivomous"
-album: "Path Of Attrition"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/ignivomous-path_of_attrition.jpg"
-thumbnailImage: "/images/covers/ignivomous-path_of_attrition-thumb.jpg"
 actualPrice: $15.00
+album: Path Of Attrition
+artist: Ignivomous
+categories:
+- Vinyl
+date: '2021-06-26T15:22:49'
+draft: false
+images:
+- /images/covers/ignivomous-path_of_attrition.jpg
 inStock: true
+thumbnailImage: /images/covers/ignivomous-path_of_attrition-thumb.jpg
+title: Ignivomous - Path Of Attrition
 ---
 
 ## Vinyl

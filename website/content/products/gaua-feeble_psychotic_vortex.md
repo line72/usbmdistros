@@ -1,16 +1,16 @@
 ---
-title: "Gaua - Feeble Psychotic Vortex"
-date: 2021-06-12T14:07:56
-draft: false
-artist: "Gaua"
-album: "Feeble Psychotic Vortex"
-categories:
-    - Tape
-images:
-    - "/images/covers/gaua-feeble_psychotic_vortex.jpg"
-thumbnailImage: "/images/covers/gaua-feeble_psychotic_vortex-thumb.jpg"
 actualPrice: $10.00
+album: Feeble Psychotic Vortex
+artist: Gaua
+categories:
+- Tape
+date: '2021-06-26T15:03:02'
+draft: false
+images:
+- /images/covers/gaua-feeble_psychotic_vortex.jpg
 inStock: true
+thumbnailImage: /images/covers/gaua-feeble_psychotic_vortex-thumb.jpg
+title: Gaua - Feeble Psychotic Vortex
 ---
 
 ## Tape

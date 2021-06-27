@@ -1,16 +1,16 @@
 ---
-title: "Shotgun Cock - From Anal To Intestinal"
-date: 2021-06-13T12:22:20
-draft: false
-artist: "Shotgun Cock"
-album: "From Anal To Intestinal"
-categories:
-    - Tape
-images:
-    - "/images/covers/shotgun_cock-from_anal_to_intestinal.jpg"
-thumbnailImage: "/images/covers/shotgun_cock-from_anal_to_intestinal-thumb.jpg"
 actualPrice: $6.00
+album: From Anal To Intestinal
+artist: Shotgun Cock
+categories:
+- Tape
+date: '2021-06-26T15:16:23'
+draft: false
+images:
+- /images/covers/shotgun_cock-from_anal_to_intestinal.jpg
 inStock: true
+thumbnailImage: /images/covers/shotgun_cock-from_anal_to_intestinal-thumb.jpg
+title: Shotgun Cock - From Anal To Intestinal
 ---
 
 ## Tape

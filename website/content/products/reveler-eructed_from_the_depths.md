@@ -1,16 +1,16 @@
 ---
-title: "Reveler - Eructed From The Depths"
-date: 2021-06-13T12:22:17
-draft: false
-artist: "Reveler"
-album: "Eructed From The Depths"
-categories:
-    - Tape
-images:
-    - "/images/covers/reveler-eructed_from_the_depths.jpg"
-thumbnailImage: "/images/covers/reveler-eructed_from_the_depths-thumb.jpg"
 actualPrice: $8.00
+album: Eructed From The Depths
+artist: Reveler
+categories:
+- Tape
+date: '2021-06-26T15:16:21'
+draft: false
+images:
+- /images/covers/reveler-eructed_from_the_depths.jpg
 inStock: true
+thumbnailImage: /images/covers/reveler-eructed_from_the_depths-thumb.jpg
+title: Reveler - Eructed From The Depths
 ---
 
 ## Tape

@@ -1,16 +1,16 @@
 ---
-title: "Arroganz - Primitiv"
-date: 2021-06-13T12:22:23
-draft: false
-artist: "Arroganz"
-album: "Primitiv"
-categories:
-    - Tape
-images:
-    - "/images/covers/arroganz-primitiv.jpg"
-thumbnailImage: "/images/covers/arroganz-primitiv-thumb.jpg"
 actualPrice: $4.00
+album: Primitiv
+artist: Arroganz
+categories:
+- Tape
+date: '2021-06-26T15:16:26'
+draft: false
+images:
+- /images/covers/arroganz-primitiv.jpg
 inStock: true
+thumbnailImage: /images/covers/arroganz-primitiv-thumb.jpg
+title: Arroganz - Primitiv
 ---
 
 ## Tape

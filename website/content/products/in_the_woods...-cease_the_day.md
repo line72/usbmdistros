@@ -1,17 +1,17 @@
 ---
-title: "In The Woods... - Cease The Day"
-date: 2021-06-22T16:40:59
-draft: false
-artist: "In The Woods..."
-album: "Cease The Day"
-categories:
-    - Vinyl
-    - CD
-images:
-    - "/images/covers/in_the_woods...-cease_the_day.jpg"
-thumbnailImage: "/images/covers/in_the_woods...-cease_the_day-thumb.jpg"
 actualPrice: $9.99 - 27.99
+album: Cease The Day
+artist: In The Woods...
+categories:
+- Vinyl
+- CD
+date: '2021-06-26T15:23:09'
+draft: false
+images:
+- /images/covers/in_the_woods...-cease_the_day.jpg
 inStock: true
+thumbnailImage: /images/covers/in_the_woods...-cease_the_day-thumb.jpg
+title: In The Woods... - Cease The Day
 ---
 
 ## Vinyl

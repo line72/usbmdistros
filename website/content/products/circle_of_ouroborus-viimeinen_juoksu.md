@@ -1,16 +1,16 @@
 ---
-title: "Circle of Ouroborus - Viimeinen Juoksu"
-date: 2021-06-12T14:07:58
-draft: false
-artist: "Circle of Ouroborus"
-album: "Viimeinen Juoksu"
-categories:
-    - CD
-images:
-    - "/images/covers/circle_of_ouroborus-viimeinen_juoksu.jpg"
-thumbnailImage: "/images/covers/circle_of_ouroborus-viimeinen_juoksu-thumb.jpg"
 actualPrice: $15.00
+album: Viimeinen Juoksu
+artist: Circle of Ouroborus
+categories:
+- CD
+date: '2021-06-26T15:03:08'
+draft: false
+images:
+- /images/covers/circle_of_ouroborus-viimeinen_juoksu.jpg
 inStock: true
+thumbnailImage: /images/covers/circle_of_ouroborus-viimeinen_juoksu-thumb.jpg
+title: Circle of Ouroborus - Viimeinen Juoksu
 ---
 
 ## CD

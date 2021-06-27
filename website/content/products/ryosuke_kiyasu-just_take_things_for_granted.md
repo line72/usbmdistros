@@ -1,16 +1,16 @@
 ---
-title: "Ryosuke Kiyasu - Just Take Things For Granted"
-date: 2021-06-13T12:22:18
-draft: false
-artist: "Ryosuke Kiyasu"
-album: "Just Take Things For Granted"
-categories:
-    - Tape
-images:
-    - "/images/covers/ryosuke_kiyasu-just_take_things_for_granted.jpg"
-thumbnailImage: "/images/covers/ryosuke_kiyasu-just_take_things_for_granted-thumb.jpg"
 actualPrice: $8.00
+album: Just Take Things For Granted
+artist: Ryosuke Kiyasu
+categories:
+- Tape
+date: '2021-06-26T15:16:21'
+draft: false
+images:
+- /images/covers/ryosuke_kiyasu-just_take_things_for_granted.jpg
 inStock: true
+thumbnailImage: /images/covers/ryosuke_kiyasu-just_take_things_for_granted-thumb.jpg
+title: Ryosuke Kiyasu - Just Take Things For Granted
 ---
 
 ## Tape

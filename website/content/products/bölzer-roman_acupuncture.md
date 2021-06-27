@@ -1,17 +1,17 @@
 ---
-title: "Bölzer - Roman Acupuncture"
-date: 2021-06-22T16:40:54
-draft: false
-artist: "Bölzer"
-album: "Roman Acupuncture"
-categories:
-    - Vinyl
-    - CD
-images:
-    - "/images/covers/bölzer-roman_acupuncture.jpg"
-thumbnailImage: "/images/covers/bölzer-roman_acupuncture-thumb.jpg"
 actualPrice: $10.00 - 20.00
+album: Roman Acupuncture
+artist: "B\xF6lzer"
+categories:
+- Vinyl
+- CD
+date: '2021-06-26T15:23:04'
+draft: false
+images:
+- "/images/covers/b\xF6lzer-roman_acupuncture.jpg"
 inStock: true
+thumbnailImage: "/images/covers/b\xF6lzer-roman_acupuncture-thumb.jpg"
+title: "B\xF6lzer - Roman Acupuncture"
 ---
 
 ## Vinyl

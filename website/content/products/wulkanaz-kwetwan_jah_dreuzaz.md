@@ -1,17 +1,17 @@
 ---
-title: "Wulkanaz - Kwetwan jah Dreuzaz"
-date: 2021-06-22T16:41:08
-draft: false
-artist: "Wulkanaz"
-album: "Kwetwan jah Dreuzaz"
-categories:
-    - Vinyl
-    - CD
-images:
-    - "/images/covers/wulkanaz-kwetwan_jah_dreuzaz.jpg"
-thumbnailImage: "/images/covers/wulkanaz-kwetwan_jah_dreuzaz-thumb.jpg"
 actualPrice: $12.00 - 27.00
+album: Kwetwan jah Dreuzaz
+artist: Wulkanaz
+categories:
+- Vinyl
+- CD
+date: '2021-06-26T15:23:18'
+draft: false
+images:
+- /images/covers/wulkanaz-kwetwan_jah_dreuzaz.jpg
 inStock: true
+thumbnailImage: /images/covers/wulkanaz-kwetwan_jah_dreuzaz-thumb.jpg
+title: Wulkanaz - Kwetwan jah Dreuzaz
 ---
 
 ## Vinyl

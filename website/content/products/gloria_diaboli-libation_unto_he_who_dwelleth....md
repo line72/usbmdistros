@@ -1,16 +1,16 @@
 ---
-title: "Gloria Diaboli - Libation unto he who dwelleth..."
-date: 2021-06-22T16:40:38
-draft: false
-artist: "Gloria Diaboli"
-album: "Libation unto he who dwelleth..."
-categories:
-    - Vinyl
-images:
-    - "/images/covers/gloria_diaboli-libation_unto_he_who_dwelleth....jpg"
-thumbnailImage: "/images/covers/gloria_diaboli-libation_unto_he_who_dwelleth...-thumb.jpg"
 actualPrice: $15.00
+album: Libation unto he who dwelleth...
+artist: Gloria Diaboli
+categories:
+- Vinyl
+date: '2021-06-26T15:22:47'
+draft: false
+images:
+- /images/covers/gloria_diaboli-libation_unto_he_who_dwelleth....jpg
 inStock: true
+thumbnailImage: /images/covers/gloria_diaboli-libation_unto_he_who_dwelleth...-thumb.jpg
+title: Gloria Diaboli - Libation unto he who dwelleth...
 ---
 
 ## Vinyl

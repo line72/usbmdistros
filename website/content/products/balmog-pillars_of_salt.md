@@ -1,16 +1,16 @@
 ---
-title: "Balmog - Pillars Of Salt"
-date: 2021-06-22T16:40:33
-draft: false
-artist: "Balmog"
-album: "Pillars Of Salt"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/balmog-pillars_of_salt.jpg"
-thumbnailImage: "/images/covers/balmog-pillars_of_salt-thumb.jpg"
 actualPrice: $20.00
+album: Pillars Of Salt
+artist: Balmog
+categories:
+- Vinyl
+date: '2021-06-26T15:22:42'
+draft: false
+images:
+- /images/covers/balmog-pillars_of_salt.jpg
 inStock: true
+thumbnailImage: /images/covers/balmog-pillars_of_salt-thumb.jpg
+title: Balmog - Pillars Of Salt
 ---
 
 ## Vinyl

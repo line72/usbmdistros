@@ -1,16 +1,16 @@
 ---
-title: "Arcane Art - Arcane Art"
-date: 2021-06-22T16:40:32
-draft: false
-artist: "Arcane Art"
-album: "Arcane Art"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/arcane_art-arcane_art.jpg"
-thumbnailImage: "/images/covers/arcane_art-arcane_art-thumb.jpg"
 actualPrice: $15.00
+album: Arcane Art
+artist: Arcane Art
+categories:
+- Vinyl
+date: '2021-06-26T15:22:42'
+draft: false
+images:
+- /images/covers/arcane_art-arcane_art.jpg
 inStock: true
+thumbnailImage: /images/covers/arcane_art-arcane_art-thumb.jpg
+title: Arcane Art - Arcane Art
 ---
 
 ## Vinyl

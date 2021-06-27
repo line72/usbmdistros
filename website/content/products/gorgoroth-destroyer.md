@@ -1,16 +1,16 @@
 ---
-title: "Gorgoroth - Destroyer"
-date: 2021-06-22T16:40:38
-draft: false
-artist: "Gorgoroth"
-album: "Destroyer"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/gorgoroth-destroyer.jpg"
-thumbnailImage: "/images/covers/gorgoroth-destroyer-thumb.jpg"
 actualPrice: $25.00
+album: Destroyer
+artist: Gorgoroth
+categories:
+- Vinyl
+date: '2021-06-26T15:22:48'
+draft: false
+images:
+- /images/covers/gorgoroth-destroyer.jpg
 inStock: true
+thumbnailImage: /images/covers/gorgoroth-destroyer-thumb.jpg
+title: Gorgoroth - Destroyer
 ---
 
 ## Vinyl

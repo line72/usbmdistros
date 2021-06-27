@@ -1,16 +1,16 @@
 ---
-title: "Blindfold - Restrain The Thought"
-date: 2021-06-22T16:40:34
-draft: false
-artist: "Blindfold"
-album: "Restrain The Thought"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/blindfold-restrain_the_thought.jpg"
-thumbnailImage: "/images/covers/blindfold-restrain_the_thought-thumb.jpg"
 actualPrice: $15.00
+album: Restrain The Thought
+artist: Blindfold
+categories:
+- Vinyl
+date: '2021-06-26T15:22:43'
+draft: false
+images:
+- /images/covers/blindfold-restrain_the_thought.jpg
 inStock: true
+thumbnailImage: /images/covers/blindfold-restrain_the_thought-thumb.jpg
+title: Blindfold - Restrain The Thought
 ---
 
 ## Vinyl

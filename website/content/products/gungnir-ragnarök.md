@@ -1,16 +1,16 @@
 ---
-title: "Gungnir - Ragnarök"
-date: 2021-06-13T12:22:22
-draft: false
-artist: "Gungnir"
-album: "Ragnarök"
-categories:
-    - Tape
-images:
-    - "/images/covers/gungnir-ragnarök.jpg"
-thumbnailImage: "/images/covers/gungnir-ragnarök-thumb.jpg"
 actualPrice: $4.00
+album: "Ragnar\xF6k"
+artist: Gungnir
+categories:
+- Tape
+date: '2021-06-26T15:16:25'
+draft: false
+images:
+- "/images/covers/gungnir-ragnar\xF6k.jpg"
 inStock: true
+thumbnailImage: "/images/covers/gungnir-ragnar\xF6k-thumb.jpg"
+title: "Gungnir - Ragnar\xF6k"
 ---
 
 ## Tape

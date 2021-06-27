@@ -1,16 +1,16 @@
 ---
-title: "Disharmony - Vade Retro Satana"
-date: 2021-06-22T16:40:36
-draft: false
-artist: "Disharmony"
-album: "Vade Retro Satana"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/disharmony-vade_retro_satana.jpg"
-thumbnailImage: "/images/covers/disharmony-vade_retro_satana-thumb.jpg"
 actualPrice: $25.00
+album: Vade Retro Satana
+artist: Disharmony
+categories:
+- Vinyl
+date: '2021-06-26T15:22:45'
+draft: false
+images:
+- /images/covers/disharmony-vade_retro_satana.jpg
 inStock: true
+thumbnailImage: /images/covers/disharmony-vade_retro_satana-thumb.jpg
+title: Disharmony - Vade Retro Satana
 ---
 
 ## Vinyl

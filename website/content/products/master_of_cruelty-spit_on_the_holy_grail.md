@@ -1,16 +1,16 @@
 ---
-title: "Master of Cruelty - Spit on the Holy Grail"
-date: 2021-06-22T16:40:41
-draft: false
-artist: "Master of Cruelty"
-album: "Spit on the Holy Grail"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/master_of_cruelty-spit_on_the_holy_grail.jpg"
-thumbnailImage: "/images/covers/master_of_cruelty-spit_on_the_holy_grail-thumb.jpg"
 actualPrice: $17.00
+album: Spit on the Holy Grail
+artist: Master of Cruelty
+categories:
+- Vinyl
+date: '2021-06-26T15:22:51'
+draft: false
+images:
+- /images/covers/master_of_cruelty-spit_on_the_holy_grail.jpg
 inStock: true
+thumbnailImage: /images/covers/master_of_cruelty-spit_on_the_holy_grail-thumb.jpg
+title: Master of Cruelty - Spit on the Holy Grail
 ---
 
 ## Vinyl

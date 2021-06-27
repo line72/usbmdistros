@@ -1,17 +1,17 @@
 ---
-title: "Käärmekristus - Venite ad me, Satanas"
-date: 2021-06-22T16:41:11
-draft: false
-artist: "Käärmekristus"
-album: "Venite ad me, Satanas"
-categories:
-    - Tape
-    - Cassette
-images:
-    - "/images/covers/käärmekristus-venite_ad_me,_satanas.jpg"
-thumbnailImage: "/images/covers/käärmekristus-venite_ad_me,_satanas-thumb.jpg"
 actualPrice: $10.00
+album: Venite ad me, Satanas
+artist: "K\xE4\xE4rmekristus"
+categories:
+- Tape
+- Cassette
+date: '2021-06-26T15:23:21'
+draft: false
+images:
+- "/images/covers/k\xE4\xE4rmekristus-venite_ad_me,_satanas.jpg"
 inStock: true
+thumbnailImage: "/images/covers/k\xE4\xE4rmekristus-venite_ad_me,_satanas-thumb.jpg"
+title: "K\xE4\xE4rmekristus - Venite ad me, Satanas"
 ---
 
 ## Tape

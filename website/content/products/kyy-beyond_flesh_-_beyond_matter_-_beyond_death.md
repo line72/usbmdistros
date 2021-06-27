@@ -1,16 +1,16 @@
 ---
-title: "Kyy - Beyond Flesh - Beyond Matter - Beyond Death"
-date: 2021-06-22T16:40:40
-draft: false
-artist: "Kyy"
-album: "Beyond Flesh - Beyond Matter - Beyond Death"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/kyy-beyond_flesh_-_beyond_matter_-_beyond_death.jpg"
-thumbnailImage: "/images/covers/kyy-beyond_flesh_-_beyond_matter_-_beyond_death-thumb.jpg"
 actualPrice: $17.00
+album: Beyond Flesh - Beyond Matter - Beyond Death
+artist: Kyy
+categories:
+- Vinyl
+date: '2021-06-26T15:22:50'
+draft: false
+images:
+- /images/covers/kyy-beyond_flesh_-_beyond_matter_-_beyond_death.jpg
 inStock: true
+thumbnailImage: /images/covers/kyy-beyond_flesh_-_beyond_matter_-_beyond_death-thumb.jpg
+title: Kyy - Beyond Flesh - Beyond Matter - Beyond Death
 ---
 
 ## Vinyl

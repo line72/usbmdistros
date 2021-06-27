@@ -1,17 +1,17 @@
 ---
-title: "GRIBBERIKET - Sluket"
-date: 2021-06-22T16:40:58
-draft: false
-artist: "GRIBBERIKET"
-album: "Sluket"
-categories:
-    - Vinyl
-    - CD
-images:
-    - "/images/covers/gribberiket-sluket.jpg"
-thumbnailImage: "/images/covers/gribberiket-sluket-thumb.jpg"
 actualPrice: $10.00 - 17.00
+album: Sluket
+artist: GRIBBERIKET
+categories:
+- Vinyl
+- CD
+date: '2021-06-26T15:23:08'
+draft: false
+images:
+- /images/covers/gribberiket-sluket.jpg
 inStock: true
+thumbnailImage: /images/covers/gribberiket-sluket-thumb.jpg
+title: GRIBBERIKET - Sluket
 ---
 
 ## Vinyl

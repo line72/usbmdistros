@@ -1,16 +1,16 @@
 ---
-title: "Ancient Burial - Beyond the Watchtowers"
-date: 2021-06-22T16:40:32
-draft: false
-artist: "Ancient Burial"
-album: "Beyond the Watchtowers"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/ancient_burial-beyond_the_watchtowers.jpg"
-thumbnailImage: "/images/covers/ancient_burial-beyond_the_watchtowers-thumb.jpg"
 actualPrice: $20.00 - 25.00
+album: Beyond the Watchtowers
+artist: Ancient Burial
+categories:
+- Vinyl
+date: '2021-06-26T15:22:41'
+draft: false
+images:
+- /images/covers/ancient_burial-beyond_the_watchtowers.jpg
 inStock: true
+thumbnailImage: /images/covers/ancient_burial-beyond_the_watchtowers-thumb.jpg
+title: Ancient Burial - Beyond the Watchtowers
 ---
 
 ## Vinyl

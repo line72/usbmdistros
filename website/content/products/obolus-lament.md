@@ -1,16 +1,16 @@
 ---
-title: "Obolus - Lament"
-date: 2021-06-22T16:40:42
-draft: false
-artist: "Obolus"
-album: "Lament"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/obolus-lament.jpg"
-thumbnailImage: "/images/covers/obolus-lament-thumb.jpg"
 actualPrice: $15.00
+album: Lament
+artist: Obolus
+categories:
+- Vinyl
+date: '2021-06-26T15:22:52'
+draft: false
+images:
+- /images/covers/obolus-lament.jpg
 inStock: true
+thumbnailImage: /images/covers/obolus-lament-thumb.jpg
+title: Obolus - Lament
 ---
 
 ## Vinyl

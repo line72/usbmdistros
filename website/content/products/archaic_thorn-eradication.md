@@ -1,17 +1,17 @@
 ---
-title: "Archaic Thorn - Eradication"
-date: 2021-06-22T16:40:32
-draft: false
-artist: "Archaic Thorn"
-album: "Eradication"
-categories:
-    - Vinyl
-    - Tape
-images:
-    - "/images/covers/archaic_thorn-eradication.jpg"
-thumbnailImage: "/images/covers/archaic_thorn-eradication-thumb.jpg"
 actualPrice: $7.50 - 25.00
+album: Eradication
+artist: Archaic Thorn
+categories:
+- Vinyl
+- Tape
+date: '2021-06-26T15:22:42'
+draft: false
+images:
+- /images/covers/archaic_thorn-eradication.jpg
 inStock: true
+thumbnailImage: /images/covers/archaic_thorn-eradication-thumb.jpg
+title: Archaic Thorn - Eradication
 ---
 
 ## Vinyl

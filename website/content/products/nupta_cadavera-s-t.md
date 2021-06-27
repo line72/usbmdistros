@@ -1,16 +1,16 @@
 ---
-title: "Nupta Cadavera - s/t"
-date: 2021-06-12T14:07:54
-draft: false
-artist: "Nupta Cadavera"
-album: "s/t"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/nupta_cadavera-s-t.jpg"
-thumbnailImage: "/images/covers/nupta_cadavera-s-t-thumb.jpg"
 actualPrice: $8.00
+album: s/t
+artist: Nupta Cadavera
+categories:
+- Vinyl
+date: '2021-06-26T15:02:58'
+draft: false
+images:
+- /images/covers/nupta_cadavera-s-t.jpg
 inStock: true
+thumbnailImage: /images/covers/nupta_cadavera-s-t-thumb.jpg
+title: Nupta Cadavera - s/t
 ---
 
 ## Vinyl

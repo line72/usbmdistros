@@ -1,17 +1,17 @@
 ---
-title: "Heretical Sect - Rapturous Flesh Consumed"
-date: 2021-06-13T12:22:20
-draft: false
-artist: "Heretical Sect"
-album: "Rapturous Flesh Consumed"
-categories:
-    - Tape
-    - CD
-images:
-    - "/images/covers/heretical_sect-rapturous_flesh_consumed.jpg"
-thumbnailImage: "/images/covers/heretical_sect-rapturous_flesh_consumed-thumb.jpg"
 actualPrice: $7.00 - 11.50
+album: Rapturous Flesh Consumed
+artist: Heretical Sect
+categories:
+- Tape
+- CD
+date: '2021-06-26T15:16:23'
+draft: false
+images:
+- /images/covers/heretical_sect-rapturous_flesh_consumed.jpg
 inStock: true
+thumbnailImage: /images/covers/heretical_sect-rapturous_flesh_consumed-thumb.jpg
+title: Heretical Sect - Rapturous Flesh Consumed
 ---
 
 ## Tape

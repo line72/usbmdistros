@@ -1,16 +1,16 @@
 ---
-title: "Industrial Resistance - light from deep darkness"
-date: 2021-06-22T16:40:39
-draft: false
-artist: "Industrial Resistance"
-album: "light from deep darkness"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/industrial_resistance-light_from_deep_darkness.jpg"
-thumbnailImage: "/images/covers/industrial_resistance-light_from_deep_darkness-thumb.jpg"
 actualPrice: $17.00
+album: light from deep darkness
+artist: Industrial Resistance
+categories:
+- Vinyl
+date: '2021-06-26T15:22:49'
+draft: false
+images:
+- /images/covers/industrial_resistance-light_from_deep_darkness.jpg
 inStock: true
+thumbnailImage: /images/covers/industrial_resistance-light_from_deep_darkness-thumb.jpg
+title: Industrial Resistance - light from deep darkness
 ---
 
 ## Vinyl

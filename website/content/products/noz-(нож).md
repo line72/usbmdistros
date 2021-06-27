@@ -1,16 +1,16 @@
 ---
-title: "Noz - (Нож)"
-date: 2021-06-13T12:22:23
-draft: false
-artist: "Noz"
-album: "(Нож)"
-categories:
-    - Tape
-images:
-    - "/images/covers/noz-(нож).jpg"
-thumbnailImage: "/images/covers/noz-(нож)-thumb.jpg"
 actualPrice: $4.00
+album: "(\u041D\u043E\u0436)"
+artist: Noz
+categories:
+- Tape
+date: '2021-06-26T15:16:26'
+draft: false
+images:
+- "/images/covers/noz-(\u043D\u043E\u0436).jpg"
 inStock: true
+thumbnailImage: "/images/covers/noz-(\u043D\u043E\u0436)-thumb.jpg"
+title: "Noz - (\u041D\u043E\u0436)"
 ---
 
 ## Tape

@@ -1,16 +1,16 @@
 ---
-title: "Handful of Hate - Qliphothic"
-date: 2021-06-12T14:07:51
-draft: false
-artist: "Handful of Hate"
-album: "Qliphothic"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/handful_of_hate-qliphothic.jpg"
-thumbnailImage: "/images/covers/handful_of_hate-qliphothic-thumb.jpg"
 actualPrice: $28.00
+album: Qliphothic
+artist: Handful of Hate
+categories:
+- Vinyl
+date: '2021-06-26T15:02:54'
+draft: false
+images:
+- /images/covers/handful_of_hate-qliphothic.jpg
 inStock: true
+thumbnailImage: /images/covers/handful_of_hate-qliphothic-thumb.jpg
+title: Handful of Hate - Qliphothic
 ---
 
 ## Vinyl

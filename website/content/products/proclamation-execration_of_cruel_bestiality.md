@@ -1,18 +1,18 @@
 ---
-title: "Proclamation - Execration Of Cruel Bestiality"
-date: 2021-06-22T16:41:03
-draft: false
-artist: "Proclamation"
-album: "Execration Of Cruel Bestiality"
-categories:
-    - Vinyl
-    - Tape
-    - CD
-images:
-    - "/images/covers/proclamation-execration_of_cruel_bestiality.jpg"
-thumbnailImage: "/images/covers/proclamation-execration_of_cruel_bestiality-thumb.jpg"
 actualPrice: $10.00 - 25.00
+album: Execration Of Cruel Bestiality
+artist: Proclamation
+categories:
+- Vinyl
+- Tape
+- CD
+date: '2021-06-26T15:23:13'
+draft: false
+images:
+- /images/covers/proclamation-execration_of_cruel_bestiality.jpg
 inStock: true
+thumbnailImage: /images/covers/proclamation-execration_of_cruel_bestiality-thumb.jpg
+title: Proclamation - Execration Of Cruel Bestiality
 ---
 
 ## Vinyl

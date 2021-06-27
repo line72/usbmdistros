@@ -1,16 +1,16 @@
 ---
-title: "Necromass - Calix. Utero. Babalon."
-date: 2021-06-22T16:40:42
-draft: false
-artist: "Necromass"
-album: "Calix. Utero. Babalon."
-categories:
-    - Vinyl
-images:
-    - "/images/covers/necromass-calix._utero._babalon..jpg"
-thumbnailImage: "/images/covers/necromass-calix._utero._babalon.-thumb.jpg"
 actualPrice: $17.00
+album: Calix. Utero. Babalon.
+artist: Necromass
+categories:
+- Vinyl
+date: '2021-06-26T15:22:52'
+draft: false
+images:
+- /images/covers/necromass-calix._utero._babalon..jpg
 inStock: true
+thumbnailImage: /images/covers/necromass-calix._utero._babalon.-thumb.jpg
+title: Necromass - Calix. Utero. Babalon.
 ---
 
 ## Vinyl

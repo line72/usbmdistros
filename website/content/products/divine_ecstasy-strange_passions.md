@@ -1,16 +1,16 @@
 ---
-title: "Divine Ecstasy - Strange Passions"
-date: 2021-06-22T16:40:36
-draft: false
-artist: "Divine Ecstasy"
-album: "Strange Passions"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/divine_ecstasy-strange_passions.jpg"
-thumbnailImage: "/images/covers/divine_ecstasy-strange_passions-thumb.jpg"
 actualPrice: $17.00
+album: Strange Passions
+artist: Divine Ecstasy
+categories:
+- Vinyl
+date: '2021-06-26T15:22:45'
+draft: false
+images:
+- /images/covers/divine_ecstasy-strange_passions.jpg
 inStock: true
+thumbnailImage: /images/covers/divine_ecstasy-strange_passions-thumb.jpg
+title: Divine Ecstasy - Strange Passions
 ---
 
 ## Vinyl

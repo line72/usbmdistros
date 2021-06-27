@@ -1,16 +1,16 @@
 ---
-title: "Ulvegr - Vargkult"
-date: 2021-06-12T14:07:51
-draft: false
-artist: "Ulvegr"
-album: "Vargkult"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/ulvegr-vargkult.jpg"
-thumbnailImage: "/images/covers/ulvegr-vargkult-thumb.jpg"
 actualPrice: $27.00
+album: Vargkult
+artist: Ulvegr
+categories:
+- Vinyl
+date: '2021-06-26T15:02:54'
+draft: false
+images:
+- /images/covers/ulvegr-vargkult.jpg
 inStock: true
+thumbnailImage: /images/covers/ulvegr-vargkult-thumb.jpg
+title: Ulvegr - Vargkult
 ---
 
 ## Vinyl

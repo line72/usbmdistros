@@ -1,16 +1,16 @@
 ---
-title: "Hail Conjurer - Crude Magick 2x"
-date: 2021-06-12T14:07:56
-draft: false
-artist: "Hail Conjurer"
-album: "Crude Magick 2x"
-categories:
-    - Tape
-images:
-    - "/images/covers/hail_conjurer-crude_magick_2x.jpg"
-thumbnailImage: "/images/covers/hail_conjurer-crude_magick_2x-thumb.jpg"
 actualPrice: $19.00
+album: Crude Magick 2x
+artist: Hail Conjurer
+categories:
+- Tape
+date: '2021-06-26T15:03:02'
+draft: false
+images:
+- /images/covers/hail_conjurer-crude_magick_2x.jpg
 inStock: true
+thumbnailImage: /images/covers/hail_conjurer-crude_magick_2x-thumb.jpg
+title: Hail Conjurer - Crude Magick 2x
 ---
 
 ## Tape

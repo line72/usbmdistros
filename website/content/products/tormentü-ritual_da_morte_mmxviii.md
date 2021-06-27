@@ -1,16 +1,16 @@
 ---
-title: "Tormentü - Ritual da Morte MMXVIII"
-date: 2021-06-12T14:07:54
-draft: false
-artist: "Tormentü"
-album: "Ritual da Morte MMXVIII"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/tormentü-ritual_da_morte_mmxviii.jpg"
-thumbnailImage: "/images/covers/tormentü-ritual_da_morte_mmxviii-thumb.jpg"
 actualPrice: $10.00
+album: Ritual da Morte MMXVIII
+artist: "Torment\xFC"
+categories:
+- Vinyl
+date: '2021-06-26T15:02:58'
+draft: false
+images:
+- "/images/covers/torment\xFC-ritual_da_morte_mmxviii.jpg"
 inStock: true
+thumbnailImage: "/images/covers/torment\xFC-ritual_da_morte_mmxviii-thumb.jpg"
+title: "Torment\xFC - Ritual da Morte MMXVIII"
 ---
 
 ## Vinyl

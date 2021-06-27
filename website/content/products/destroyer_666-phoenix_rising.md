@@ -1,16 +1,16 @@
 ---
-title: "Destroyer 666 - Phoenix Rising"
-date: 2021-06-22T16:40:36
-draft: false
-artist: "Destroyer 666"
-album: "Phoenix Rising"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/destroyer_666-phoenix_rising.jpg"
-thumbnailImage: "/images/covers/destroyer_666-phoenix_rising-thumb.jpg"
 actualPrice: $25.00
+album: Phoenix Rising
+artist: Destroyer 666
+categories:
+- Vinyl
+date: '2021-06-26T15:22:45'
+draft: false
+images:
+- /images/covers/destroyer_666-phoenix_rising.jpg
 inStock: true
+thumbnailImage: /images/covers/destroyer_666-phoenix_rising-thumb.jpg
+title: Destroyer 666 - Phoenix Rising
 ---
 
 ## Vinyl

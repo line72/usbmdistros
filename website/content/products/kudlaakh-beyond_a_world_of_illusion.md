@@ -1,16 +1,16 @@
 ---
-title: "Kudlaakh - Beyond a World of Illusion"
-date: 2021-06-12T14:07:54
-draft: false
-artist: "Kudlaakh"
-album: "Beyond a World of Illusion"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/kudlaakh-beyond_a_world_of_illusion.jpg"
-thumbnailImage: "/images/covers/kudlaakh-beyond_a_world_of_illusion-thumb.jpg"
 actualPrice: $12.00
+album: Beyond a World of Illusion
+artist: Kudlaakh
+categories:
+- Vinyl
+date: '2021-06-26T15:02:58'
+draft: false
+images:
+- /images/covers/kudlaakh-beyond_a_world_of_illusion.jpg
 inStock: true
+thumbnailImage: /images/covers/kudlaakh-beyond_a_world_of_illusion-thumb.jpg
+title: Kudlaakh - Beyond a World of Illusion
 ---
 
 ## Vinyl

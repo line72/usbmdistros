@@ -1,16 +1,16 @@
 ---
-title: "Adversarial / Paroxsihzem - Warpit of Coiling Atrocities"
-date: 2021-06-22T16:40:32
-draft: false
-artist: "Adversarial / Paroxsihzem"
-album: "Warpit of Coiling Atrocities"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/adversarial_-_paroxsihzem-warpit_of_coiling_atrocities.jpg"
-thumbnailImage: "/images/covers/adversarial_-_paroxsihzem-warpit_of_coiling_atrocities-thumb.jpg"
 actualPrice: $17.00
+album: Warpit of Coiling Atrocities
+artist: Adversarial / Paroxsihzem
+categories:
+- Vinyl
+date: '2021-06-26T15:22:41'
+draft: false
+images:
+- /images/covers/adversarial_-_paroxsihzem-warpit_of_coiling_atrocities.jpg
 inStock: true
+thumbnailImage: /images/covers/adversarial_-_paroxsihzem-warpit_of_coiling_atrocities-thumb.jpg
+title: Adversarial / Paroxsihzem - Warpit of Coiling Atrocities
 ---
 
 ## Vinyl

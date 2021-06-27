@@ -1,16 +1,16 @@
 ---
-title: "Reeking Aura - Beneath The Canopy Of Compost"
-date: 2021-06-13T12:22:21
-draft: false
-artist: "Reeking Aura"
-album: "Beneath The Canopy Of Compost"
-categories:
-    - Tape
-images:
-    - "/images/covers/reeking_aura-beneath_the_canopy_of_compost.jpg"
-thumbnailImage: "/images/covers/reeking_aura-beneath_the_canopy_of_compost-thumb.jpg"
 actualPrice: $7.00
+album: Beneath The Canopy Of Compost
+artist: Reeking Aura
+categories:
+- Tape
+date: '2021-06-26T15:16:24'
+draft: false
+images:
+- /images/covers/reeking_aura-beneath_the_canopy_of_compost.jpg
 inStock: true
+thumbnailImage: /images/covers/reeking_aura-beneath_the_canopy_of_compost-thumb.jpg
+title: Reeking Aura - Beneath The Canopy Of Compost
 ---
 
 ## Tape

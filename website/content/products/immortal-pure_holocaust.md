@@ -1,16 +1,16 @@
 ---
-title: "Immortal - Pure Holocaust"
-date: 2021-06-12T14:04:39
-draft: false
-artist: "Immortal"
-album: "Pure Holocaust"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/immortal-pure_holocaust.jpg"
-thumbnailImage: "/images/covers/immortal-pure_holocaust-thumb.jpg"
 actualPrice: $24.00
+album: Pure Holocaust
+artist: Immortal
+categories:
+- Vinyl
+date: '2021-06-26T14:49:52'
+draft: false
+images:
+- /images/covers/immortal-pure_holocaust.jpg
 inStock: true
+thumbnailImage: /images/covers/immortal-pure_holocaust-thumb.jpg
+title: Immortal - Pure Holocaust
 ---
 
 ## Vinyl

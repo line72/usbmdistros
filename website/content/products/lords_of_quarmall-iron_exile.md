@@ -1,20 +1,17 @@
 ---
-title: "Lords Of Quarmall - Iron Exile"
-date: 2021-06-13T12:22:19
-draft: false
-artist: "Lords Of Quarmall"
-album: "Iron Exile"
+actualPrice: $11.00
+album: Iron Exile
+artist: Lords Of Quarmall
 categories:
-    - Tape
-    - CD
+- CD
+date: '2021-06-26T15:16:22'
+draft: false
 images:
-    - "/images/covers/lords_of_quarmall-iron_exile.jpg"
-thumbnailImage: "/images/covers/lords_of_quarmall-iron_exile-thumb.jpg"
-actualPrice: $7.00 - 11.00
+- /images/covers/lords_of_quarmall-iron_exile.jpg
 inStock: true
+thumbnailImage: /images/covers/lords_of_quarmall-iron_exile-thumb.jpg
+title: Lords Of Quarmall - Iron Exile
 ---
 
-## Tape
-* Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/31912720-lords-of-quarmall-iron-exile) for $7.00
 ## CD
 * Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/31912717-lords-of-quarmall-iron-exile-cd) for $11.00

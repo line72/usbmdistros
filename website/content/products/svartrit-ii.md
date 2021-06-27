@@ -1,17 +1,17 @@
 ---
-title: "Svartrit - II"
-date: 2021-06-12T14:07:58
-draft: false
-artist: "Svartrit"
-album: "II"
-categories:
-    - Vinyl
-    - CD
-images:
-    - "/images/covers/svartrit-ii.jpg"
-thumbnailImage: "/images/covers/svartrit-ii-thumb.jpg"
 actualPrice: $14.00 - 30.00
+album: II
+artist: Svartrit
+categories:
+- Vinyl
+- CD
+date: '2021-06-26T15:03:08'
+draft: false
+images:
+- /images/covers/svartrit-ii.jpg
 inStock: true
+thumbnailImage: /images/covers/svartrit-ii-thumb.jpg
+title: Svartrit - II
 ---
 
 ## Vinyl

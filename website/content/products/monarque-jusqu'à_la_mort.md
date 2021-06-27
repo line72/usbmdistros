@@ -1,16 +1,16 @@
 ---
-title: "Monarque - Jusqu'à la Mort"
-date: 2021-06-12T14:07:58
-draft: false
-artist: "Monarque"
-album: "Jusqu'à la Mort"
-categories:
-    - CD
-images:
-    - "/images/covers/monarque-jusqu'à_la_mort.jpg"
-thumbnailImage: "/images/covers/monarque-jusqu'à_la_mort-thumb.jpg"
 actualPrice: $12.00
+album: "Jusqu'\xE0 la Mort"
+artist: Monarque
+categories:
+- CD
+date: '2021-06-26T15:03:07'
+draft: false
+images:
+- "/images/covers/monarque-jusqu'\xE0_la_mort.jpg"
 inStock: true
+thumbnailImage: "/images/covers/monarque-jusqu'\xE0_la_mort-thumb.jpg"
+title: "Monarque - Jusqu'\xE0 la Mort"
 ---
 
 ## CD

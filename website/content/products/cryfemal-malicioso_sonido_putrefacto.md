@@ -1,16 +1,16 @@
 ---
-title: "Cryfemal - Malicioso Sonido Putrefacto"
-date: 2021-06-22T16:40:35
-draft: false
-artist: "Cryfemal"
-album: "Malicioso Sonido Putrefacto"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/cryfemal-malicioso_sonido_putrefacto.jpg"
-thumbnailImage: "/images/covers/cryfemal-malicioso_sonido_putrefacto-thumb.jpg"
 actualPrice: $17.00
+album: Malicioso Sonido Putrefacto
+artist: Cryfemal
+categories:
+- Vinyl
+date: '2021-06-26T15:22:44'
+draft: false
+images:
+- /images/covers/cryfemal-malicioso_sonido_putrefacto.jpg
 inStock: true
+thumbnailImage: /images/covers/cryfemal-malicioso_sonido_putrefacto-thumb.jpg
+title: Cryfemal - Malicioso Sonido Putrefacto
 ---
 
 ## Vinyl

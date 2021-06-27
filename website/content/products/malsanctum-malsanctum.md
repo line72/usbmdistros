@@ -1,16 +1,16 @@
 ---
-title: "Malsanctum - Malsanctum"
-date: 2021-06-22T16:40:40
-draft: false
-artist: "Malsanctum"
-album: "Malsanctum"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/malsanctum-malsanctum.jpg"
-thumbnailImage: "/images/covers/malsanctum-malsanctum-thumb.jpg"
 actualPrice: $22.00
+album: Malsanctum
+artist: Malsanctum
+categories:
+- Vinyl
+date: '2021-06-26T15:22:50'
+draft: false
+images:
+- /images/covers/malsanctum-malsanctum.jpg
 inStock: true
+thumbnailImage: /images/covers/malsanctum-malsanctum-thumb.jpg
+title: Malsanctum - Malsanctum
 ---
 
 ## Vinyl

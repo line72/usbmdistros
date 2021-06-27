@@ -1,16 +1,16 @@
 ---
-title: "Old Man's Child - Born of the Flickering"
-date: 2021-06-22T16:40:43
-draft: false
-artist: "Old Man's Child"
-album: "Born of the Flickering"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/old_man's_child-born_of_the_flickering.jpg"
-thumbnailImage: "/images/covers/old_man's_child-born_of_the_flickering-thumb.jpg"
 actualPrice: $30.00
+album: Born of the Flickering
+artist: Old Man's Child
+categories:
+- Vinyl
+date: '2021-06-26T15:22:53'
+draft: false
+images:
+- /images/covers/old_man's_child-born_of_the_flickering.jpg
 inStock: true
+thumbnailImage: /images/covers/old_man's_child-born_of_the_flickering-thumb.jpg
+title: Old Man's Child - Born of the Flickering
 ---
 
 ## Vinyl

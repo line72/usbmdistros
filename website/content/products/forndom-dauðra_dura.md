@@ -1,17 +1,17 @@
 ---
-title: "Forndom - Dauðra Dura"
-date: 2021-06-22T16:40:57
-draft: false
-artist: "Forndom"
-album: "Dauðra Dura"
-categories:
-    - Vinyl
-    - CD
-images:
-    - "/images/covers/forndom-dauðra_dura.jpg"
-thumbnailImage: "/images/covers/forndom-dauðra_dura-thumb.jpg"
 actualPrice: $10.00 - 22.00
+album: "Dau\xF0ra Dura"
+artist: Forndom
+categories:
+- Vinyl
+- CD
+date: '2021-06-26T15:23:07'
+draft: false
+images:
+- "/images/covers/forndom-dau\xF0ra_dura.jpg"
 inStock: true
+thumbnailImage: "/images/covers/forndom-dau\xF0ra_dura-thumb.jpg"
+title: "Forndom - Dau\xF0ra Dura"
 ---
 
 ## Vinyl

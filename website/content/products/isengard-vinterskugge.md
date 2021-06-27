@@ -1,16 +1,16 @@
 ---
-title: "Isengard - Vinterskugge"
-date: 2021-06-22T16:40:40
-draft: false
-artist: "Isengard"
-album: "Vinterskugge"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/isengard-vinterskugge.jpg"
-thumbnailImage: "/images/covers/isengard-vinterskugge-thumb.jpg"
 actualPrice: $30.00
+album: Vinterskugge
+artist: Isengard
+categories:
+- Vinyl
+date: '2021-06-26T15:22:49'
+draft: false
+images:
+- /images/covers/isengard-vinterskugge.jpg
 inStock: true
+thumbnailImage: /images/covers/isengard-vinterskugge-thumb.jpg
+title: Isengard - Vinterskugge
 ---
 
 ## Vinyl

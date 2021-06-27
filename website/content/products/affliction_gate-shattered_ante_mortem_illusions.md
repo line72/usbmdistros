@@ -1,16 +1,16 @@
 ---
-title: "Affliction Gate - Shattered Ante Mortem Illusions"
-date: 2021-06-22T16:40:32
-draft: false
-artist: "Affliction Gate"
-album: "Shattered Ante Mortem Illusions"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/affliction_gate-shattered_ante_mortem_illusions.jpg"
-thumbnailImage: "/images/covers/affliction_gate-shattered_ante_mortem_illusions-thumb.jpg"
 actualPrice: $15.00
+album: Shattered Ante Mortem Illusions
+artist: Affliction Gate
+categories:
+- Vinyl
+date: '2021-06-26T15:22:41'
+draft: false
+images:
+- /images/covers/affliction_gate-shattered_ante_mortem_illusions.jpg
 inStock: true
+thumbnailImage: /images/covers/affliction_gate-shattered_ante_mortem_illusions-thumb.jpg
+title: Affliction Gate - Shattered Ante Mortem Illusions
 ---
 
 ## Vinyl

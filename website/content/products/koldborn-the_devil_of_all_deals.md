@@ -1,16 +1,16 @@
 ---
-title: "Koldborn - The Devil of All Deals"
-date: 2021-06-22T16:40:40
-draft: false
-artist: "Koldborn"
-album: "The Devil of All Deals"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/koldborn-the_devil_of_all_deals.jpg"
-thumbnailImage: "/images/covers/koldborn-the_devil_of_all_deals-thumb.jpg"
 actualPrice: $10.00
+album: The Devil of All Deals
+artist: Koldborn
+categories:
+- Vinyl
+date: '2021-06-26T15:22:50'
+draft: false
+images:
+- /images/covers/koldborn-the_devil_of_all_deals.jpg
 inStock: true
+thumbnailImage: /images/covers/koldborn-the_devil_of_all_deals-thumb.jpg
+title: Koldborn - The Devil of All Deals
 ---
 
 ## Vinyl

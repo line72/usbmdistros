@@ -1,16 +1,16 @@
 ---
-title: "Anael - From Arcane Fires"
-date: 2021-06-22T16:40:32
-draft: false
-artist: "Anael"
-album: "From Arcane Fires"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/anael-from_arcane_fires.jpg"
-thumbnailImage: "/images/covers/anael-from_arcane_fires-thumb.jpg"
 actualPrice: $17.00
+album: From Arcane Fires
+artist: Anael
+categories:
+- Vinyl
+date: '2021-06-26T15:22:41'
+draft: false
+images:
+- /images/covers/anael-from_arcane_fires.jpg
 inStock: true
+thumbnailImage: /images/covers/anael-from_arcane_fires-thumb.jpg
+title: Anael - From Arcane Fires
 ---
 
 ## Vinyl

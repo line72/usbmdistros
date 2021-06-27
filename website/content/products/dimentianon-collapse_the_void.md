@@ -1,16 +1,16 @@
 ---
-title: "Dimentianon - Collapse the Void"
-date: 2021-06-22T16:40:36
-draft: false
-artist: "Dimentianon"
-album: "Collapse the Void"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/dimentianon-collapse_the_void.jpg"
-thumbnailImage: "/images/covers/dimentianon-collapse_the_void-thumb.jpg"
 actualPrice: $17.00 - 20.00
+album: Collapse the Void
+artist: Dimentianon
+categories:
+- Vinyl
+date: '2021-06-26T15:22:45'
+draft: false
+images:
+- /images/covers/dimentianon-collapse_the_void.jpg
 inStock: true
+thumbnailImage: /images/covers/dimentianon-collapse_the_void-thumb.jpg
+title: Dimentianon - Collapse the Void
 ---
 
 ## Vinyl

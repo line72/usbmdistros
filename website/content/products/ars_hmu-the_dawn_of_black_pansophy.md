@@ -1,16 +1,16 @@
 ---
-title: "Ars Hmu - The Dawn Of Black Pansophy"
-date: 2021-06-22T16:40:33
-draft: false
-artist: "Ars Hmu"
-album: "The Dawn Of Black Pansophy"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/ars_hmu-the_dawn_of_black_pansophy.jpg"
-thumbnailImage: "/images/covers/ars_hmu-the_dawn_of_black_pansophy-thumb.jpg"
 actualPrice: $25.00
+album: The Dawn Of Black Pansophy
+artist: Ars Hmu
+categories:
+- Vinyl
+date: '2021-06-26T15:22:42'
+draft: false
+images:
+- /images/covers/ars_hmu-the_dawn_of_black_pansophy.jpg
 inStock: true
+thumbnailImage: /images/covers/ars_hmu-the_dawn_of_black_pansophy-thumb.jpg
+title: Ars Hmu - The Dawn Of Black Pansophy
 ---
 
 ## Vinyl

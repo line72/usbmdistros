@@ -1,17 +1,17 @@
 ---
-title: "Die Kunst der Finsternis - Queen of Owls"
-date: 2021-06-12T14:07:59
-draft: false
-artist: "Die Kunst der Finsternis"
-album: "Queen of Owls"
-categories:
-    - Vinyl
-    - CD
-images:
-    - "/images/covers/die_kunst_der_finsternis-queen_of_owls.jpg"
-thumbnailImage: "/images/covers/die_kunst_der_finsternis-queen_of_owls-thumb.jpg"
 actualPrice: $13.00 - 27.00
+album: Queen of Owls
+artist: Die Kunst der Finsternis
+categories:
+- Vinyl
+- CD
+date: '2021-06-26T15:03:08'
+draft: false
+images:
+- /images/covers/die_kunst_der_finsternis-queen_of_owls.jpg
 inStock: true
+thumbnailImage: /images/covers/die_kunst_der_finsternis-queen_of_owls-thumb.jpg
+title: Die Kunst der Finsternis - Queen of Owls
 ---
 
 ## Vinyl

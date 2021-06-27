@@ -1,16 +1,16 @@
 ---
-title: "Pyre - Chained To Ossuaries"
-date: 2021-06-22T16:41:03
-draft: false
-artist: "Pyre"
-album: "Chained To Ossuaries"
-categories:
-    - CD
-images:
-    - "/images/covers/pyre-chained_to_ossuaries.jpg"
-thumbnailImage: "/images/covers/pyre-chained_to_ossuaries-thumb.jpg"
 actualPrice: $9.50 - 10.00
+album: Chained To Ossuaries
+artist: Pyre
+categories:
+- CD
+date: '2021-06-26T15:23:13'
+draft: false
+images:
+- /images/covers/pyre-chained_to_ossuaries.jpg
 inStock: true
+thumbnailImage: /images/covers/pyre-chained_to_ossuaries-thumb.jpg
+title: Pyre - Chained To Ossuaries
 ---
 
 ## CD

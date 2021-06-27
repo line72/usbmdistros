@@ -1,17 +1,17 @@
 ---
-title: "Ayyur - Balkarnin"
-date: 2021-06-22T16:41:09
-draft: false
-artist: "Ayyur"
-album: "Balkarnin"
-categories:
-    - Tape
-    - Cassette
-images:
-    - "/images/covers/ayyur-balkarnin.jpg"
-thumbnailImage: "/images/covers/ayyur-balkarnin-thumb.jpg"
 actualPrice: $5.50 - 8.00
+album: Balkarnin
+artist: Ayyur
+categories:
+- Tape
+- Cassette
+date: '2021-06-26T15:23:19'
+draft: false
+images:
+- /images/covers/ayyur-balkarnin.jpg
 inStock: true
+thumbnailImage: /images/covers/ayyur-balkarnin-thumb.jpg
+title: Ayyur - Balkarnin
 ---
 
 ## Tape

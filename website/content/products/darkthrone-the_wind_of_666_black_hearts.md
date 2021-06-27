@@ -1,16 +1,16 @@
 ---
-title: "Darkthrone - The Wind of 666 Black Hearts"
-date: 2021-06-22T16:40:35
-draft: false
-artist: "Darkthrone"
-album: "The Wind of 666 Black Hearts"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/darkthrone-the_wind_of_666_black_hearts.jpg"
-thumbnailImage: "/images/covers/darkthrone-the_wind_of_666_black_hearts-thumb.jpg"
 actualPrice: $30.00
+album: The Wind of 666 Black Hearts
+artist: Darkthrone
+categories:
+- Vinyl
+date: '2021-06-26T15:22:44'
+draft: false
+images:
+- /images/covers/darkthrone-the_wind_of_666_black_hearts.jpg
 inStock: true
+thumbnailImage: /images/covers/darkthrone-the_wind_of_666_black_hearts-thumb.jpg
+title: Darkthrone - The Wind of 666 Black Hearts
 ---
 
 ## Vinyl

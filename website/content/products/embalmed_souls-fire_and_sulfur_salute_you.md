@@ -1,16 +1,16 @@
 ---
-title: "Embalmed Souls - Fire And Sulfur Salute You"
-date: 2021-06-13T12:22:22
-draft: false
-artist: "Embalmed Souls"
-album: "Fire And Sulfur Salute You"
-categories:
-    - Tape
-images:
-    - "/images/covers/embalmed_souls-fire_and_sulfur_salute_you.jpg"
-thumbnailImage: "/images/covers/embalmed_souls-fire_and_sulfur_salute_you-thumb.jpg"
 actualPrice: $7.00
+album: Fire And Sulfur Salute You
+artist: Embalmed Souls
+categories:
+- Tape
+date: '2021-06-26T15:16:25'
+draft: false
+images:
+- /images/covers/embalmed_souls-fire_and_sulfur_salute_you.jpg
 inStock: true
+thumbnailImage: /images/covers/embalmed_souls-fire_and_sulfur_salute_you-thumb.jpg
+title: Embalmed Souls - Fire And Sulfur Salute You
 ---
 
 ## Tape

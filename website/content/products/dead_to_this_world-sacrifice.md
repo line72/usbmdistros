@@ -1,16 +1,16 @@
 ---
-title: "Dead to This World - Sacrifice"
-date: 2021-06-22T16:40:35
-draft: false
-artist: "Dead to This World"
-album: "Sacrifice"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/dead_to_this_world-sacrifice.jpg"
-thumbnailImage: "/images/covers/dead_to_this_world-sacrifice-thumb.jpg"
 actualPrice: $17.00
+album: Sacrifice
+artist: Dead to This World
+categories:
+- Vinyl
+date: '2021-06-26T15:22:45'
+draft: false
+images:
+- /images/covers/dead_to_this_world-sacrifice.jpg
 inStock: true
+thumbnailImage: /images/covers/dead_to_this_world-sacrifice-thumb.jpg
+title: Dead to This World - Sacrifice
 ---
 
 ## Vinyl

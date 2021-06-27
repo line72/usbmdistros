@@ -1,16 +1,16 @@
 ---
-title: "Serpent Noir - Death Clan OD"
-date: 2021-06-12T14:07:52
-draft: false
-artist: "Serpent Noir"
-album: "Death Clan OD"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/serpent_noir-death_clan_od.jpg"
-thumbnailImage: "/images/covers/serpent_noir-death_clan_od-thumb.jpg"
 actualPrice: $21.00
+album: Death Clan OD
+artist: Serpent Noir
+categories:
+- Vinyl
+date: '2021-06-26T15:02:54'
+draft: false
+images:
+- /images/covers/serpent_noir-death_clan_od.jpg
 inStock: true
+thumbnailImage: /images/covers/serpent_noir-death_clan_od-thumb.jpg
+title: Serpent Noir - Death Clan OD
 ---
 
 ## Vinyl

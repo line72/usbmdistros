@@ -1,16 +1,16 @@
 ---
-title: "Diocletian - Live in Leipzig"
-date: 2021-06-22T16:40:36
-draft: false
-artist: "Diocletian"
-album: "Live in Leipzig"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/diocletian-live_in_leipzig.jpg"
-thumbnailImage: "/images/covers/diocletian-live_in_leipzig-thumb.jpg"
 actualPrice: $20.00
+album: Live in Leipzig
+artist: Diocletian
+categories:
+- Vinyl
+date: '2021-06-26T15:22:45'
+draft: false
+images:
+- /images/covers/diocletian-live_in_leipzig.jpg
 inStock: true
+thumbnailImage: /images/covers/diocletian-live_in_leipzig-thumb.jpg
+title: Diocletian - Live in Leipzig
 ---
 
 ## Vinyl

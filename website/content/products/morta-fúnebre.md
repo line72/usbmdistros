@@ -1,16 +1,16 @@
 ---
-title: "Morta - Fúnebre"
-date: 2021-06-12T14:07:58
-draft: false
-artist: "Morta"
-album: "Fúnebre"
-categories:
-    - CD
-images:
-    - "/images/covers/morta-fúnebre.jpg"
-thumbnailImage: "/images/covers/morta-fúnebre-thumb.jpg"
 actualPrice: $13.00
+album: "F\xFAnebre"
+artist: Morta
+categories:
+- CD
+date: '2021-06-26T15:03:08'
+draft: false
+images:
+- "/images/covers/morta-f\xFAnebre.jpg"
 inStock: true
+thumbnailImage: "/images/covers/morta-f\xFAnebre-thumb.jpg"
+title: "Morta - F\xFAnebre"
 ---
 
 ## CD

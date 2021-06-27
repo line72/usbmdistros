@@ -1,17 +1,17 @@
 ---
-title: "Black Funeral - The Dust & Darkness"
-date: 2021-06-22T16:40:54
-draft: false
-artist: "Black Funeral"
-album: "The Dust & Darkness"
-categories:
-    - Vinyl
-    - CD
-images:
-    - "/images/covers/black_funeral-the_dust_&_darkness.jpg"
-thumbnailImage: "/images/covers/black_funeral-the_dust_&_darkness-thumb.jpg"
 actualPrice: $10.00 - 17.00
+album: The Dust & Darkness
+artist: Black Funeral
+categories:
+- Vinyl
+- CD
+date: '2021-06-26T15:23:04'
+draft: false
+images:
+- /images/covers/black_funeral-the_dust_&_darkness.jpg
 inStock: true
+thumbnailImage: /images/covers/black_funeral-the_dust_&_darkness-thumb.jpg
+title: Black Funeral - The Dust & Darkness
 ---
 
 ## Vinyl

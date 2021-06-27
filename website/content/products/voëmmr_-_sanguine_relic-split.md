@@ -1,16 +1,16 @@
 ---
-title: "Voëmmr / Sanguine Relic - Split"
-date: 2021-06-12T14:07:52
-draft: false
-artist: "Voëmmr / Sanguine Relic"
-album: "Split"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/voëmmr_-_sanguine_relic-split.jpg"
-thumbnailImage: "/images/covers/voëmmr_-_sanguine_relic-split-thumb.jpg"
 actualPrice: $23.00
+album: Split
+artist: "Vo\xEBmmr / Sanguine Relic"
+categories:
+- Vinyl
+date: '2021-06-26T15:02:55'
+draft: false
+images:
+- "/images/covers/vo\xEBmmr_-_sanguine_relic-split.jpg"
 inStock: true
+thumbnailImage: "/images/covers/vo\xEBmmr_-_sanguine_relic-split-thumb.jpg"
+title: "Vo\xEBmmr / Sanguine Relic - Split"
 ---
 
 ## Vinyl

@@ -1,17 +1,17 @@
 ---
-title: "Diskord - Oscillations"
-date: 2021-06-22T16:40:56
-draft: false
-artist: "Diskord"
-album: "Oscillations"
-categories:
-    - Vinyl
-    - CD
-images:
-    - "/images/covers/diskord-oscillations.jpg"
-thumbnailImage: "/images/covers/diskord-oscillations-thumb.jpg"
 actualPrice: $10.00 - 12.00
+album: Oscillations
+artist: Diskord
+categories:
+- Vinyl
+- CD
+date: '2021-06-26T15:23:06'
+draft: false
+images:
+- /images/covers/diskord-oscillations.jpg
 inStock: true
+thumbnailImage: /images/covers/diskord-oscillations-thumb.jpg
+title: Diskord - Oscillations
 ---
 
 ## Vinyl

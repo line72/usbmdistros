@@ -1,17 +1,17 @@
 ---
-title: "Via Sinistra - Silencioso Culto do Abismo"
-date: 2021-06-22T16:41:07
-draft: false
-artist: "Via Sinistra"
-album: "Silencioso Culto do Abismo"
-categories:
-    - Vinyl
-    - CD
-images:
-    - "/images/covers/via_sinistra-silencioso_culto_do_abismo.jpg"
-thumbnailImage: "/images/covers/via_sinistra-silencioso_culto_do_abismo-thumb.jpg"
 actualPrice: $10.00 - 26.00
+album: Silencioso Culto do Abismo
+artist: Via Sinistra
+categories:
+- Vinyl
+- CD
+date: '2021-06-26T15:23:17'
+draft: false
+images:
+- /images/covers/via_sinistra-silencioso_culto_do_abismo.jpg
 inStock: true
+thumbnailImage: /images/covers/via_sinistra-silencioso_culto_do_abismo-thumb.jpg
+title: Via Sinistra - Silencioso Culto do Abismo
 ---
 
 ## Vinyl

@@ -1,16 +1,16 @@
 ---
-title: "Pest - Pest"
-date: 2021-06-22T16:40:43
-draft: false
-artist: "Pest"
-album: "Pest"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/pest-pest.jpg"
-thumbnailImage: "/images/covers/pest-pest-thumb.jpg"
 actualPrice: $15.00
+album: Pest
+artist: Pest
+categories:
+- Vinyl
+date: '2021-06-26T15:22:53'
+draft: false
+images:
+- /images/covers/pest-pest.jpg
 inStock: true
+thumbnailImage: /images/covers/pest-pest-thumb.jpg
+title: Pest - Pest
 ---
 
 ## Vinyl

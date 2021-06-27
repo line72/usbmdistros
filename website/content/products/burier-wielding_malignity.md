@@ -1,16 +1,16 @@
 ---
-title: "Burier - Wielding Malignity"
-date: 2021-06-22T16:40:54
-draft: false
-artist: "Burier"
-album: "Wielding Malignity"
-categories:
-    - CD
-images:
-    - "/images/covers/burier-wielding_malignity.jpg"
-thumbnailImage: "/images/covers/burier-wielding_malignity-thumb.jpg"
 actualPrice: $10.00 - 15.00
+album: Wielding Malignity
+artist: Burier
+categories:
+- CD
+date: '2021-06-26T15:23:04'
+draft: false
+images:
+- /images/covers/burier-wielding_malignity.jpg
 inStock: true
+thumbnailImage: /images/covers/burier-wielding_malignity-thumb.jpg
+title: Burier - Wielding Malignity
 ---
 
 ## CD

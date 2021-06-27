@@ -1,16 +1,16 @@
 ---
-title: "Lord of Doubts - Lord of Doubts"
-date: 2021-06-22T16:40:40
-draft: false
-artist: "Lord of Doubts"
-album: "Lord of Doubts"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/lord_of_doubts-lord_of_doubts.jpg"
-thumbnailImage: "/images/covers/lord_of_doubts-lord_of_doubts-thumb.jpg"
 actualPrice: $17.00
+album: Lord of Doubts
+artist: Lord of Doubts
+categories:
+- Vinyl
+date: '2021-06-26T15:22:50'
+draft: false
+images:
+- /images/covers/lord_of_doubts-lord_of_doubts.jpg
 inStock: true
+thumbnailImage: /images/covers/lord_of_doubts-lord_of_doubts-thumb.jpg
+title: Lord of Doubts - Lord of Doubts
 ---
 
 ## Vinyl

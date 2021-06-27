@@ -1,16 +1,16 @@
 ---
-title: "Funeral Storm - Arcane Mysteries"
-date: 2021-06-13T12:22:22
-draft: false
-artist: "Funeral Storm"
-album: "Arcane Mysteries"
-categories:
-    - Tape
-images:
-    - "/images/covers/funeral_storm-arcane_mysteries.jpg"
-thumbnailImage: "/images/covers/funeral_storm-arcane_mysteries-thumb.jpg"
 actualPrice: $7.00
+album: Arcane Mysteries
+artist: Funeral Storm
+categories:
+- Tape
+date: '2021-06-26T15:16:25'
+draft: false
+images:
+- /images/covers/funeral_storm-arcane_mysteries.jpg
 inStock: true
+thumbnailImage: /images/covers/funeral_storm-arcane_mysteries-thumb.jpg
+title: Funeral Storm - Arcane Mysteries
 ---
 
 ## Tape

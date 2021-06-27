@@ -1,18 +1,18 @@
 ---
-title: "Funeral Winds - Koude Haat"
-date: 2021-06-22T16:40:37
-draft: false
-artist: "Funeral Winds"
-album: "Koude Haat"
-categories:
-    - Vinyl
-    - Tape
-    - CD
-images:
-    - "/images/covers/funeral_winds-koude_haat.jpg"
-thumbnailImage: "/images/covers/funeral_winds-koude_haat-thumb.jpg"
 actualPrice: $10.00 - 25.00
+album: Koude Haat
+artist: Funeral Winds
+categories:
+- Vinyl
+- Tape
+- CD
+date: '2021-06-26T15:22:47'
+draft: false
+images:
+- /images/covers/funeral_winds-koude_haat.jpg
 inStock: true
+thumbnailImage: /images/covers/funeral_winds-koude_haat-thumb.jpg
+title: Funeral Winds - Koude Haat
 ---
 
 ## Vinyl

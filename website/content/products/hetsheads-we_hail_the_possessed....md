@@ -1,16 +1,16 @@
 ---
-title: "Hetsheads - We Hail The Possessed..."
-date: 2021-06-22T16:40:39
-draft: false
-artist: "Hetsheads"
-album: "We Hail The Possessed..."
-categories:
-    - Vinyl
-images:
-    - "/images/covers/hetsheads-we_hail_the_possessed....jpg"
-thumbnailImage: "/images/covers/hetsheads-we_hail_the_possessed...-thumb.jpg"
 actualPrice: $25.00
+album: We Hail The Possessed...
+artist: Hetsheads
+categories:
+- Vinyl
+date: '2021-06-26T15:22:48'
+draft: false
+images:
+- /images/covers/hetsheads-we_hail_the_possessed....jpg
 inStock: true
+thumbnailImage: /images/covers/hetsheads-we_hail_the_possessed...-thumb.jpg
+title: Hetsheads - We Hail The Possessed...
 ---
 
 ## Vinyl

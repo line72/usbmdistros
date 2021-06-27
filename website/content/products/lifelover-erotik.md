@@ -1,16 +1,16 @@
 ---
-title: "Lifelover - Erotik"
-date: 2021-06-22T16:40:40
-draft: false
-artist: "Lifelover"
-album: "Erotik"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/lifelover-erotik.jpg"
-thumbnailImage: "/images/covers/lifelover-erotik-thumb.jpg"
 actualPrice: $22.00
+album: Erotik
+artist: Lifelover
+categories:
+- Vinyl
+date: '2021-06-26T15:22:50'
+draft: false
+images:
+- /images/covers/lifelover-erotik.jpg
 inStock: true
+thumbnailImage: /images/covers/lifelover-erotik-thumb.jpg
+title: Lifelover - Erotik
 ---
 
 ## Vinyl

@@ -1,16 +1,16 @@
 ---
-title: "Haxan Dreams - Dawn"
-date: 2021-06-12T14:07:51
-draft: false
-artist: "Haxan Dreams"
-album: "Dawn"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/haxan_dreams-dawn.jpg"
-thumbnailImage: "/images/covers/haxan_dreams-dawn-thumb.jpg"
 actualPrice: $28.00
+album: Dawn
+artist: Haxan Dreams
+categories:
+- Vinyl
+date: '2021-06-26T15:02:54'
+draft: false
+images:
+- /images/covers/haxan_dreams-dawn.jpg
 inStock: true
+thumbnailImage: /images/covers/haxan_dreams-dawn-thumb.jpg
+title: Haxan Dreams - Dawn
 ---
 
 ## Vinyl

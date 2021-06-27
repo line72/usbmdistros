@@ -1,18 +1,18 @@
 ---
-title: "Zalmoxis - A Nocturnal Emanation"
-date: 2021-06-12T14:07:58
-draft: false
-artist: "Zalmoxis"
-album: "A Nocturnal Emanation"
-categories:
-    - Vinyl
-    - Tape
-    - CD
-images:
-    - "/images/covers/zalmoxis-a_nocturnal_emanation.jpg"
-thumbnailImage: "/images/covers/zalmoxis-a_nocturnal_emanation-thumb.jpg"
 actualPrice: $10.00 - 22.00
+album: A Nocturnal Emanation
+artist: Zalmoxis
+categories:
+- Vinyl
+- Tape
+- CD
+date: '2021-06-26T15:03:08'
+draft: false
+images:
+- /images/covers/zalmoxis-a_nocturnal_emanation.jpg
 inStock: true
+thumbnailImage: /images/covers/zalmoxis-a_nocturnal_emanation-thumb.jpg
+title: Zalmoxis - A Nocturnal Emanation
 ---
 
 ## Vinyl

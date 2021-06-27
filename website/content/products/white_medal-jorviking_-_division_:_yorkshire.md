@@ -1,17 +1,17 @@
 ---
-title: "White Medal - Jorviking / Division : Yorkshire"
-date: 2021-06-22T16:41:14
-draft: false
-artist: "White Medal"
-album: "Jorviking / Division : Yorkshire"
-categories:
-    - Vinyl
-    - Cassette
-images:
-    - "/images/covers/white_medal-jorviking_-_division_:_yorkshire.jpg"
-thumbnailImage: "/images/covers/white_medal-jorviking_-_division_:_yorkshire-thumb.jpg"
 actualPrice: $10.00 - 25.00
+album: 'Jorviking / Division : Yorkshire'
+artist: White Medal
+categories:
+- Vinyl
+- Cassette
+date: '2021-06-26T15:23:24'
+draft: false
+images:
+- /images/covers/white_medal-jorviking_-_division_:_yorkshire.jpg
 inStock: true
+thumbnailImage: /images/covers/white_medal-jorviking_-_division_:_yorkshire-thumb.jpg
+title: 'White Medal - Jorviking / Division : Yorkshire'
 ---
 
 ## Vinyl

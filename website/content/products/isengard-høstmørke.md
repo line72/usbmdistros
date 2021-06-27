@@ -1,16 +1,16 @@
 ---
-title: "Isengard - Høstmørke"
-date: 2021-06-22T16:40:40
-draft: false
-artist: "Isengard"
-album: "Høstmørke"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/isengard-høstmørke.jpg"
-thumbnailImage: "/images/covers/isengard-høstmørke-thumb.jpg"
 actualPrice: $25.00
+album: "H\xF8stm\xF8rke"
+artist: Isengard
+categories:
+- Vinyl
+date: '2021-06-26T15:22:49'
+draft: false
+images:
+- "/images/covers/isengard-h\xF8stm\xF8rke.jpg"
 inStock: true
+thumbnailImage: "/images/covers/isengard-h\xF8stm\xF8rke-thumb.jpg"
+title: "Isengard - H\xF8stm\xF8rke"
 ---
 
 ## Vinyl

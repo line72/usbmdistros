@@ -1,16 +1,16 @@
 ---
-title: "Mitochondrion - Arcaeaeon"
-date: 2021-06-22T16:40:41
-draft: false
-artist: "Mitochondrion"
-album: "Arcaeaeon"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/mitochondrion-arcaeaeon.jpg"
-thumbnailImage: "/images/covers/mitochondrion-arcaeaeon-thumb.jpg"
 actualPrice: $27.00
+album: Arcaeaeon
+artist: Mitochondrion
+categories:
+- Vinyl
+date: '2021-06-26T15:22:51'
+draft: false
+images:
+- /images/covers/mitochondrion-arcaeaeon.jpg
 inStock: true
+thumbnailImage: /images/covers/mitochondrion-arcaeaeon-thumb.jpg
+title: Mitochondrion - Arcaeaeon
 ---
 
 ## Vinyl

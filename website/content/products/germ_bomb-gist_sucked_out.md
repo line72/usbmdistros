@@ -1,16 +1,16 @@
 ---
-title: "Germ Bomb - Gist Sucked Out"
-date: 2021-06-22T16:40:38
-draft: false
-artist: "Germ Bomb"
-album: "Gist Sucked Out"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/germ_bomb-gist_sucked_out.jpg"
-thumbnailImage: "/images/covers/germ_bomb-gist_sucked_out-thumb.jpg"
 actualPrice: $17.00
+album: Gist Sucked Out
+artist: Germ Bomb
+categories:
+- Vinyl
+date: '2021-06-26T15:22:47'
+draft: false
+images:
+- /images/covers/germ_bomb-gist_sucked_out.jpg
 inStock: true
+thumbnailImage: /images/covers/germ_bomb-gist_sucked_out-thumb.jpg
+title: Germ Bomb - Gist Sucked Out
 ---
 
 ## Vinyl

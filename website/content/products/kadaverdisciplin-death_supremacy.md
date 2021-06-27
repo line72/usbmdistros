@@ -1,16 +1,16 @@
 ---
-title: "Kadaverdisciplin - Death Supremacy"
-date: 2021-06-22T16:40:40
-draft: false
-artist: "Kadaverdisciplin"
-album: "Death Supremacy"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/kadaverdisciplin-death_supremacy.jpg"
-thumbnailImage: "/images/covers/kadaverdisciplin-death_supremacy-thumb.jpg"
 actualPrice: $17.00
+album: Death Supremacy
+artist: Kadaverdisciplin
+categories:
+- Vinyl
+date: '2021-06-26T15:22:49'
+draft: false
+images:
+- /images/covers/kadaverdisciplin-death_supremacy.jpg
 inStock: true
+thumbnailImage: /images/covers/kadaverdisciplin-death_supremacy-thumb.jpg
+title: Kadaverdisciplin - Death Supremacy
 ---
 
 ## Vinyl

@@ -1,17 +1,17 @@
 ---
-title: "LVTHN - Eradication of Nescience"
-date: 2021-06-22T16:41:00
-draft: false
-artist: "LVTHN"
-album: "Eradication of Nescience"
-categories:
-    - Vinyl
-    - CD
-images:
-    - "/images/covers/lvthn-eradication_of_nescience.jpg"
-thumbnailImage: "/images/covers/lvthn-eradication_of_nescience-thumb.jpg"
 actualPrice: $10.00 - 25.00
+album: Eradication of Nescience
+artist: LVTHN
+categories:
+- Vinyl
+- CD
+date: '2021-06-26T15:23:11'
+draft: false
+images:
+- /images/covers/lvthn-eradication_of_nescience.jpg
 inStock: true
+thumbnailImage: /images/covers/lvthn-eradication_of_nescience-thumb.jpg
+title: LVTHN - Eradication of Nescience
 ---
 
 ## Vinyl

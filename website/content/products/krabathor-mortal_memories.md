@@ -1,16 +1,16 @@
 ---
-title: "Krabathor - Mortal Memories"
-date: 2021-06-22T16:40:40
-draft: false
-artist: "Krabathor"
-album: "Mortal Memories"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/krabathor-mortal_memories.jpg"
-thumbnailImage: "/images/covers/krabathor-mortal_memories-thumb.jpg"
 actualPrice: $17.00
+album: Mortal Memories
+artist: Krabathor
+categories:
+- Vinyl
+date: '2021-06-26T15:22:50'
+draft: false
+images:
+- /images/covers/krabathor-mortal_memories.jpg
 inStock: true
+thumbnailImage: /images/covers/krabathor-mortal_memories-thumb.jpg
+title: Krabathor - Mortal Memories
 ---
 
 ## Vinyl

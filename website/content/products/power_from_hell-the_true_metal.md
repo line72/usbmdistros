@@ -1,17 +1,17 @@
 ---
-title: "Power From Hell - The True Metal"
-date: 2021-06-22T16:41:03
-draft: false
-artist: "Power From Hell"
-album: "The True Metal"
-categories:
-    - Vinyl
-    - CD
-images:
-    - "/images/covers/power_from_hell-the_true_metal.jpg"
-thumbnailImage: "/images/covers/power_from_hell-the_true_metal-thumb.jpg"
 actualPrice: $10.00 - 80.00
+album: The True Metal
+artist: Power From Hell
+categories:
+- Vinyl
+- CD
+date: '2021-06-26T15:23:13'
+draft: false
+images:
+- /images/covers/power_from_hell-the_true_metal.jpg
 inStock: true
+thumbnailImage: /images/covers/power_from_hell-the_true_metal-thumb.jpg
+title: Power From Hell - The True Metal
 ---
 
 ## Vinyl

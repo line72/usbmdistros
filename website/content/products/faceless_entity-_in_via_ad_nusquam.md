@@ -1,16 +1,16 @@
 ---
-title: "Faceless Entity -  In Via Ad Nusquam"
-date: 2021-06-22T16:40:37
-draft: false
-artist: "Faceless Entity"
-album: " In Via Ad Nusquam"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/faceless_entity-_in_via_ad_nusquam.jpg"
-thumbnailImage: "/images/covers/faceless_entity-_in_via_ad_nusquam-thumb.jpg"
 actualPrice: $25.00
+album: ' In Via Ad Nusquam'
+artist: Faceless Entity
+categories:
+- Vinyl
+date: '2021-06-26T15:22:47'
+draft: false
+images:
+- /images/covers/faceless_entity-_in_via_ad_nusquam.jpg
 inStock: true
+thumbnailImage: /images/covers/faceless_entity-_in_via_ad_nusquam-thumb.jpg
+title: Faceless Entity -  In Via Ad Nusquam
 ---
 
 ## Vinyl

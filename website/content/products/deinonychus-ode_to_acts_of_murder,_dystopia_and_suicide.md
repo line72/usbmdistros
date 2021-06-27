@@ -1,16 +1,16 @@
 ---
-title: "DEINONYCHUS - Ode To Acts Of Murder, Dystopia And Suicide"
-date: 2021-06-22T16:40:36
-draft: false
-artist: "DEINONYCHUS"
-album: "Ode To Acts Of Murder, Dystopia And Suicide"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/deinonychus-ode_to_acts_of_murder,_dystopia_and_suicide.jpg"
-thumbnailImage: "/images/covers/deinonychus-ode_to_acts_of_murder,_dystopia_and_suicide-thumb.jpg"
 actualPrice: $25.00
+album: Ode To Acts Of Murder, Dystopia And Suicide
+artist: DEINONYCHUS
+categories:
+- Vinyl
+date: '2021-06-26T15:22:45'
+draft: false
+images:
+- /images/covers/deinonychus-ode_to_acts_of_murder,_dystopia_and_suicide.jpg
 inStock: true
+thumbnailImage: /images/covers/deinonychus-ode_to_acts_of_murder,_dystopia_and_suicide-thumb.jpg
+title: DEINONYCHUS - Ode To Acts Of Murder, Dystopia And Suicide
 ---
 
 ## Vinyl

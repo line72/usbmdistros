@@ -1,16 +1,16 @@
 ---
-title: "Rattenkönig / Wewelssburg - Split"
-date: 2021-06-12T14:07:54
-draft: false
-artist: "Rattenkönig / Wewelssburg"
-album: "Split"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/rattenkönig_-_wewelssburg-split.jpg"
-thumbnailImage: "/images/covers/rattenkönig_-_wewelssburg-split-thumb.jpg"
 actualPrice: $13.00
+album: Split
+artist: "Rattenk\xF6nig / Wewelssburg"
+categories:
+- Vinyl
+date: '2021-06-26T15:02:58'
+draft: false
+images:
+- "/images/covers/rattenk\xF6nig_-_wewelssburg-split.jpg"
 inStock: true
+thumbnailImage: "/images/covers/rattenk\xF6nig_-_wewelssburg-split-thumb.jpg"
+title: "Rattenk\xF6nig / Wewelssburg - Split"
 ---
 
 ## Vinyl

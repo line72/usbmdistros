@@ -1,16 +1,16 @@
 ---
-title: "Holocausto - Diario de Guerra"
-date: 2021-06-22T16:40:39
-draft: false
-artist: "Holocausto"
-album: "Diario de Guerra"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/holocausto-diario_de_guerra.jpg"
-thumbnailImage: "/images/covers/holocausto-diario_de_guerra-thumb.jpg"
 actualPrice: $20.00 - 35.00
+album: Diario de Guerra
+artist: Holocausto
+categories:
+- Vinyl
+date: '2021-06-26T15:22:49'
+draft: false
+images:
+- /images/covers/holocausto-diario_de_guerra.jpg
 inStock: true
+thumbnailImage: /images/covers/holocausto-diario_de_guerra-thumb.jpg
+title: Holocausto - Diario de Guerra
 ---
 
 ## Vinyl

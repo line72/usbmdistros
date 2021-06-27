@@ -1,16 +1,16 @@
 ---
-title: "Gorgoroth - Pentagram"
-date: 2021-06-22T16:40:38
-draft: false
-artist: "Gorgoroth"
-album: "Pentagram"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/gorgoroth-pentagram.jpg"
-thumbnailImage: "/images/covers/gorgoroth-pentagram-thumb.jpg"
 actualPrice: $25.00
+album: Pentagram
+artist: Gorgoroth
+categories:
+- Vinyl
+date: '2021-06-26T15:22:48'
+draft: false
+images:
+- /images/covers/gorgoroth-pentagram.jpg
 inStock: true
+thumbnailImage: /images/covers/gorgoroth-pentagram-thumb.jpg
+title: Gorgoroth - Pentagram
 ---
 
 ## Vinyl

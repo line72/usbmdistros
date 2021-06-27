@@ -1,16 +1,16 @@
 ---
-title: "Vigils - Dearly Departed"
-date: 2021-06-13T12:22:23
-draft: false
-artist: "Vigils"
-album: "Dearly Departed"
-categories:
-    - Tape
-images:
-    - "/images/covers/vigils-dearly_departed.jpg"
-thumbnailImage: "/images/covers/vigils-dearly_departed-thumb.jpg"
 actualPrice: $4.00
+album: Dearly Departed
+artist: Vigils
+categories:
+- Tape
+date: '2021-06-26T15:16:26'
+draft: false
+images:
+- /images/covers/vigils-dearly_departed.jpg
 inStock: true
+thumbnailImage: /images/covers/vigils-dearly_departed-thumb.jpg
+title: Vigils - Dearly Departed
 ---
 
 ## Tape

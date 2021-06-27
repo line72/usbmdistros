@@ -1,16 +1,16 @@
 ---
-title: "Ritual Chamber - The Pits of Tentacled Screams"
-date: 2021-06-22T16:40:44
-draft: false
-artist: "Ritual Chamber"
-album: "The Pits of Tentacled Screams"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/ritual_chamber-the_pits_of_tentacled_screams.jpg"
-thumbnailImage: "/images/covers/ritual_chamber-the_pits_of_tentacled_screams-thumb.jpg"
 actualPrice: $20.00
+album: The Pits of Tentacled Screams
+artist: Ritual Chamber
+categories:
+- Vinyl
+date: '2021-06-26T15:22:54'
+draft: false
+images:
+- /images/covers/ritual_chamber-the_pits_of_tentacled_screams.jpg
 inStock: true
+thumbnailImage: /images/covers/ritual_chamber-the_pits_of_tentacled_screams-thumb.jpg
+title: Ritual Chamber - The Pits of Tentacled Screams
 ---
 
 ## Vinyl

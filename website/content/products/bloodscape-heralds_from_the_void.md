@@ -1,16 +1,16 @@
 ---
-title: "Bloodscape - Heralds From The Void"
-date: 2021-06-13T12:22:24
-draft: false
-artist: "Bloodscape"
-album: "Heralds From The Void"
-categories:
-    - Tape
-images:
-    - "/images/covers/bloodscape-heralds_from_the_void.jpg"
-thumbnailImage: "/images/covers/bloodscape-heralds_from_the_void-thumb.jpg"
 actualPrice: $4.00
+album: Heralds From The Void
+artist: Bloodscape
+categories:
+- Tape
+date: '2021-06-26T15:16:26'
+draft: false
+images:
+- /images/covers/bloodscape-heralds_from_the_void.jpg
 inStock: true
+thumbnailImage: /images/covers/bloodscape-heralds_from_the_void-thumb.jpg
+title: Bloodscape - Heralds From The Void
 ---
 
 ## Tape

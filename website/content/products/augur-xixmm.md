@@ -1,17 +1,17 @@
 ---
-title: "Augur - Xixmm"
-date: 2021-06-22T16:41:09
-draft: false
-artist: "Augur"
-album: "Xixmm"
-categories:
-    - Tape
-    - Cassette
-images:
-    - "/images/covers/augur-xixmm.jpg"
-thumbnailImage: "/images/covers/augur-xixmm-thumb.jpg"
 actualPrice: $3.50 - 7.00
+album: Xixmm
+artist: Augur
+categories:
+- Tape
+- Cassette
+date: '2021-06-26T15:23:19'
+draft: false
+images:
+- /images/covers/augur-xixmm.jpg
 inStock: true
+thumbnailImage: /images/covers/augur-xixmm-thumb.jpg
+title: Augur - Xixmm
 ---
 
 ## Tape

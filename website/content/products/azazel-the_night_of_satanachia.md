@@ -1,16 +1,16 @@
 ---
-title: "Azazel - The Night of Satanachia"
-date: 2021-06-12T14:07:58
-draft: false
-artist: "Azazel"
-album: "The Night of Satanachia"
-categories:
-    - CD
-images:
-    - "/images/covers/azazel-the_night_of_satanachia.jpg"
-thumbnailImage: "/images/covers/azazel-the_night_of_satanachia-thumb.jpg"
 actualPrice: $15.00
+album: The Night of Satanachia
+artist: Azazel
+categories:
+- CD
+date: '2021-06-26T15:03:07'
+draft: false
+images:
+- /images/covers/azazel-the_night_of_satanachia.jpg
 inStock: true
+thumbnailImage: /images/covers/azazel-the_night_of_satanachia-thumb.jpg
+title: Azazel - The Night of Satanachia
 ---
 
 ## CD

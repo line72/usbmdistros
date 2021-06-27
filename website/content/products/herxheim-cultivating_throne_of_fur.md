@@ -1,16 +1,16 @@
 ---
-title: "Herxheim - Cultivating Throne Of Fur"
-date: 2021-06-13T12:22:24
-draft: false
-artist: "Herxheim"
-album: "Cultivating Throne Of Fur"
-categories:
-    - Tape
-images:
-    - "/images/covers/herxheim-cultivating_throne_of_fur.jpg"
-thumbnailImage: "/images/covers/herxheim-cultivating_throne_of_fur-thumb.jpg"
 actualPrice: $4.00
+album: Cultivating Throne Of Fur
+artist: Herxheim
+categories:
+- Tape
+date: '2021-06-26T15:16:27'
+draft: false
+images:
+- /images/covers/herxheim-cultivating_throne_of_fur.jpg
 inStock: true
+thumbnailImage: /images/covers/herxheim-cultivating_throne_of_fur-thumb.jpg
+title: Herxheim - Cultivating Throne Of Fur
 ---
 
 ## Tape

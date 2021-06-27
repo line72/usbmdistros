@@ -1,16 +1,16 @@
 ---
-title: "Revenant Marquis - Below the Landsker Line"
-date: 2021-06-12T14:07:58
-draft: false
-artist: "Revenant Marquis"
-album: "Below the Landsker Line"
-categories:
-    - CD
-images:
-    - "/images/covers/revenant_marquis-below_the_landsker_line.jpg"
-thumbnailImage: "/images/covers/revenant_marquis-below_the_landsker_line-thumb.jpg"
 actualPrice: $15.00
+album: Below the Landsker Line
+artist: Revenant Marquis
+categories:
+- CD
+date: '2021-06-26T15:03:07'
+draft: false
+images:
+- /images/covers/revenant_marquis-below_the_landsker_line.jpg
 inStock: true
+thumbnailImage: /images/covers/revenant_marquis-below_the_landsker_line-thumb.jpg
+title: Revenant Marquis - Below the Landsker Line
 ---
 
 ## CD

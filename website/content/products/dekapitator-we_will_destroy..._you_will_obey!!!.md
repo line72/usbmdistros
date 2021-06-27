@@ -1,16 +1,16 @@
 ---
-title: "Dekapitator - We Will Destroy... You Will Obey!!!"
-date: 2021-06-22T16:40:36
-draft: false
-artist: "Dekapitator"
-album: "We Will Destroy... You Will Obey!!!"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/dekapitator-we_will_destroy..._you_will_obey!!!.jpg"
-thumbnailImage: "/images/covers/dekapitator-we_will_destroy..._you_will_obey!!!-thumb.jpg"
 actualPrice: $20.00
+album: We Will Destroy... You Will Obey!!!
+artist: Dekapitator
+categories:
+- Vinyl
+date: '2021-06-26T15:22:45'
+draft: false
+images:
+- /images/covers/dekapitator-we_will_destroy..._you_will_obey!!!.jpg
 inStock: true
+thumbnailImage: /images/covers/dekapitator-we_will_destroy..._you_will_obey!!!-thumb.jpg
+title: Dekapitator - We Will Destroy... You Will Obey!!!
 ---
 
 ## Vinyl

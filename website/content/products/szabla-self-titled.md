@@ -1,16 +1,16 @@
 ---
-title: "Szabla - Self-Titled"
-date: 2021-06-13T12:22:21
-draft: false
-artist: "Szabla"
-album: "Self-Titled"
-categories:
-    - Tape
-images:
-    - "/images/covers/szabla-self-titled.jpg"
-thumbnailImage: "/images/covers/szabla-self-titled-thumb.jpg"
 actualPrice: $7.00
+album: Self-Titled
+artist: Szabla
+categories:
+- Tape
+date: '2021-06-26T15:16:24'
+draft: false
+images:
+- /images/covers/szabla-self-titled.jpg
 inStock: true
+thumbnailImage: /images/covers/szabla-self-titled-thumb.jpg
+title: Szabla - Self-Titled
 ---
 
 ## Tape

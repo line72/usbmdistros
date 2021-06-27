@@ -1,17 +1,17 @@
 ---
-title: "Mutilate - Rotting In Eternity'S Hell"
-date: 2021-06-22T16:40:42
-draft: false
-artist: "Mutilate"
-album: "Rotting In Eternity'S Hell"
-categories:
-    - Vinyl
-    - Tape
-images:
-    - "/images/covers/mutilate-rotting_in_eternity's_hell.jpg"
-thumbnailImage: "/images/covers/mutilate-rotting_in_eternity's_hell-thumb.jpg"
 actualPrice: $8.00 - 20.00
+album: Rotting In Eternity'S Hell
+artist: Mutilate
+categories:
+- Vinyl
+- Tape
+date: '2021-06-26T15:22:51'
+draft: false
+images:
+- /images/covers/mutilate-rotting_in_eternity's_hell.jpg
 inStock: true
+thumbnailImage: /images/covers/mutilate-rotting_in_eternity's_hell-thumb.jpg
+title: Mutilate - Rotting In Eternity'S Hell
 ---
 
 ## Vinyl

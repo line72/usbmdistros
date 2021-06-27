@@ -1,16 +1,16 @@
 ---
-title: "Infernal Manes - Infernal Manes"
-date: 2021-06-22T16:40:39
-draft: false
-artist: "Infernal Manes"
-album: "Infernal Manes"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/infernal_manes-infernal_manes.jpg"
-thumbnailImage: "/images/covers/infernal_manes-infernal_manes-thumb.jpg"
 actualPrice: $17.00
+album: Infernal Manes
+artist: Infernal Manes
+categories:
+- Vinyl
+date: '2021-06-26T15:22:49'
+draft: false
+images:
+- /images/covers/infernal_manes-infernal_manes.jpg
 inStock: true
+thumbnailImage: /images/covers/infernal_manes-infernal_manes-thumb.jpg
+title: Infernal Manes - Infernal Manes
 ---
 
 ## Vinyl

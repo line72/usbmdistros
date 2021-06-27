@@ -1,16 +1,16 @@
 ---
-title: "Blood Red Fog - Harvest"
-date: 2021-06-22T16:40:34
-draft: false
-artist: "Blood Red Fog"
-album: "Harvest"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/blood_red_fog-harvest.jpg"
-thumbnailImage: "/images/covers/blood_red_fog-harvest-thumb.jpg"
 actualPrice: $25.00
+album: Harvest
+artist: Blood Red Fog
+categories:
+- Vinyl
+date: '2021-06-26T15:22:43'
+draft: false
+images:
+- /images/covers/blood_red_fog-harvest.jpg
 inStock: true
+thumbnailImage: /images/covers/blood_red_fog-harvest-thumb.jpg
+title: Blood Red Fog - Harvest
 ---
 
 ## Vinyl

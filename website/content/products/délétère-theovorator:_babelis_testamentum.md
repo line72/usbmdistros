@@ -1,16 +1,16 @@
 ---
-title: "Délétère - Theovorator: Babelis Testamentum"
-date: 2021-06-22T16:40:55
-draft: false
-artist: "Délétère"
-album: "Theovorator: Babelis Testamentum"
-categories:
-    - CD
-images:
-    - "/images/covers/délétère-theovorator:_babelis_testamentum.jpg"
-thumbnailImage: "/images/covers/délétère-theovorator:_babelis_testamentum-thumb.jpg"
 actualPrice: $10.00 - 12.00
+album: 'Theovorator: Babelis Testamentum'
+artist: "D\xE9l\xE9t\xE8re"
+categories:
+- CD
+date: '2021-06-26T15:23:05'
+draft: false
+images:
+- "/images/covers/d\xE9l\xE9t\xE8re-theovorator:_babelis_testamentum.jpg"
 inStock: true
+thumbnailImage: "/images/covers/d\xE9l\xE9t\xE8re-theovorator:_babelis_testamentum-thumb.jpg"
+title: "D\xE9l\xE9t\xE8re - Theovorator: Babelis Testamentum"
 ---
 
 ## CD

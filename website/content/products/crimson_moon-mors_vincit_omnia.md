@@ -1,17 +1,17 @@
 ---
-title: "Crimson Moon - Mors Vincit Omnia"
-date: 2021-06-12T14:11:53
-draft: false
-artist: "Crimson Moon"
-album: "Mors Vincit Omnia"
-categories:
-    - Vinyl
-    - CD
-images:
-    - "/images/covers/crimson_moon-mors_vincit_omnia.jpg"
-thumbnailImage: "/images/covers/crimson_moon-mors_vincit_omnia-thumb.jpg"
 actualPrice: $10.99 - 29.99
+album: Mors Vincit Omnia
+artist: Crimson Moon
+categories:
+- Vinyl
+- CD
+date: '2021-06-26T15:15:52'
+draft: false
+images:
+- /images/covers/crimson_moon-mors_vincit_omnia.jpg
 inStock: true
+thumbnailImage: /images/covers/crimson_moon-mors_vincit_omnia-thumb.jpg
+title: Crimson Moon - Mors Vincit Omnia
 ---
 
 ## Vinyl

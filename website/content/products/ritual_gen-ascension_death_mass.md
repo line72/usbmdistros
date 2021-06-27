@@ -1,16 +1,16 @@
 ---
-title: "Ritual Gen - Ascension Death Mass"
-date: 2021-06-12T14:07:51
-draft: false
-artist: "Ritual Gen"
-album: "Ascension Death Mass"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/ritual_gen-ascension_death_mass.jpg"
-thumbnailImage: "/images/covers/ritual_gen-ascension_death_mass-thumb.jpg"
 actualPrice: $18.00
+album: Ascension Death Mass
+artist: Ritual Gen
+categories:
+- Vinyl
+date: '2021-06-26T15:02:54'
+draft: false
+images:
+- /images/covers/ritual_gen-ascension_death_mass.jpg
 inStock: true
+thumbnailImage: /images/covers/ritual_gen-ascension_death_mass-thumb.jpg
+title: Ritual Gen - Ascension Death Mass
 ---
 
 ## Vinyl

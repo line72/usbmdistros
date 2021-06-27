@@ -1,16 +1,16 @@
 ---
-title: "Podridao / Sepulchral Whore - Necrotic Symbiosis (Split)"
-date: 2021-06-13T12:22:21
-draft: false
-artist: "Podridao / Sepulchral Whore"
-album: "Necrotic Symbiosis (Split)"
-categories:
-    - Tape
-images:
-    - "/images/covers/podridao_-_sepulchral_whore-necrotic_symbiosis_(split).jpg"
-thumbnailImage: "/images/covers/podridao_-_sepulchral_whore-necrotic_symbiosis_(split)-thumb.jpg"
 actualPrice: $4.00
+album: Necrotic Symbiosis (Split)
+artist: Podridao / Sepulchral Whore
+categories:
+- Tape
+date: '2021-06-26T15:16:24'
+draft: false
+images:
+- /images/covers/podridao_-_sepulchral_whore-necrotic_symbiosis_(split).jpg
 inStock: true
+thumbnailImage: /images/covers/podridao_-_sepulchral_whore-necrotic_symbiosis_(split)-thumb.jpg
+title: Podridao / Sepulchral Whore - Necrotic Symbiosis (Split)
 ---
 
 ## Tape

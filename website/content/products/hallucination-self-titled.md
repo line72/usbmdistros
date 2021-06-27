@@ -1,16 +1,16 @@
 ---
-title: "Hallucination - Self-Titled"
-date: 2021-06-13T12:22:19
-draft: false
-artist: "Hallucination"
-album: "Self-Titled"
-categories:
-    - Tape
-images:
-    - "/images/covers/hallucination-self-titled.jpg"
-thumbnailImage: "/images/covers/hallucination-self-titled-thumb.jpg"
 actualPrice: $8.00
+album: Self-Titled
+artist: Hallucination
+categories:
+- Tape
+date: '2021-06-26T15:16:22'
+draft: false
+images:
+- /images/covers/hallucination-self-titled.jpg
 inStock: true
+thumbnailImage: /images/covers/hallucination-self-titled-thumb.jpg
+title: Hallucination - Self-Titled
 ---
 
 ## Tape

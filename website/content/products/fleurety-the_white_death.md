@@ -1,16 +1,16 @@
 ---
-title: "Fleurety - The White Death"
-date: 2021-06-22T16:40:37
-draft: false
-artist: "Fleurety"
-album: "The White Death"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/fleurety-the_white_death.jpg"
-thumbnailImage: "/images/covers/fleurety-the_white_death-thumb.jpg"
 actualPrice: $25.00
+album: The White Death
+artist: Fleurety
+categories:
+- Vinyl
+date: '2021-06-26T15:22:47'
+draft: false
+images:
+- /images/covers/fleurety-the_white_death.jpg
 inStock: true
+thumbnailImage: /images/covers/fleurety-the_white_death-thumb.jpg
+title: Fleurety - The White Death
 ---
 
 ## Vinyl

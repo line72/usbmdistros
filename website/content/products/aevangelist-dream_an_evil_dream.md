@@ -1,16 +1,16 @@
 ---
-title: "Aevangelist - Dream An Evil Dream"
-date: 2021-06-12T14:11:52
-draft: false
-artist: "Aevangelist"
-album: "Dream An Evil Dream"
-categories:
-    - CD
-images:
-    - "/images/covers/aevangelist-dream_an_evil_dream.jpg"
-thumbnailImage: "/images/covers/aevangelist-dream_an_evil_dream-thumb.jpg"
 actualPrice: $1.99
+album: Dream An Evil Dream
+artist: Aevangelist
+categories:
+- CD
+date: '2021-06-26T15:15:51'
+draft: false
+images:
+- /images/covers/aevangelist-dream_an_evil_dream.jpg
 inStock: true
+thumbnailImage: /images/covers/aevangelist-dream_an_evil_dream-thumb.jpg
+title: Aevangelist - Dream An Evil Dream
 ---
 
 ## CD

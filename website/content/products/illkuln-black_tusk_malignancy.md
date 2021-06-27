@@ -1,16 +1,16 @@
 ---
-title: "Illkuln - Black Tusk Malignancy"
-date: 2021-06-13T12:22:18
-draft: false
-artist: "Illkuln"
-album: "Black Tusk Malignancy"
-categories:
-    - Tape
-images:
-    - "/images/covers/illkuln-black_tusk_malignancy.jpg"
-thumbnailImage: "/images/covers/illkuln-black_tusk_malignancy-thumb.jpg"
 actualPrice: $8.50
+album: Black Tusk Malignancy
+artist: Illkuln
+categories:
+- Tape
+date: '2021-06-26T15:16:21'
+draft: false
+images:
+- /images/covers/illkuln-black_tusk_malignancy.jpg
 inStock: true
+thumbnailImage: /images/covers/illkuln-black_tusk_malignancy-thumb.jpg
+title: Illkuln - Black Tusk Malignancy
 ---
 
 ## Tape

@@ -1,16 +1,16 @@
 ---
-title: "Clamor in Tenebris - Spiritus Liberum"
-date: 2021-06-22T16:40:35
-draft: false
-artist: "Clamor in Tenebris"
-album: "Spiritus Liberum"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/clamor_in_tenebris-spiritus_liberum.jpg"
-thumbnailImage: "/images/covers/clamor_in_tenebris-spiritus_liberum-thumb.jpg"
 actualPrice: $17.00
+album: Spiritus Liberum
+artist: Clamor in Tenebris
+categories:
+- Vinyl
+date: '2021-06-26T15:22:44'
+draft: false
+images:
+- /images/covers/clamor_in_tenebris-spiritus_liberum.jpg
 inStock: true
+thumbnailImage: /images/covers/clamor_in_tenebris-spiritus_liberum-thumb.jpg
+title: Clamor in Tenebris - Spiritus Liberum
 ---
 
 ## Vinyl

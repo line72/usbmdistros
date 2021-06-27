@@ -1,16 +1,17 @@
 ---
-title: "Oes Galliath - Avant que notre mémoire ne se flétrisse"
-date: 2021-06-22T16:40:43
-draft: false
-artist: "Oes Galliath"
-album: "Avant que notre mémoire ne se flétrisse"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/oes_galliath-avant_que_notre_mémoire_ne_se_flétrisse.jpg"
-thumbnailImage: "/images/covers/oes_galliath-avant_que_notre_mémoire_ne_se_flétrisse-thumb.jpg"
 actualPrice: $30.00
+album: "Avant que notre m\xE9moire ne se fl\xE9trisse"
+artist: Oes Galliath
+categories:
+- Vinyl
+date: '2021-06-26T15:22:52'
+draft: false
+images:
+- "/images/covers/oes_galliath-avant_que_notre_m\xE9moire_ne_se_fl\xE9trisse.jpg"
 inStock: true
+thumbnailImage: "/images/covers/oes_galliath-avant_que_notre_m\xE9moire_ne_se_fl\xE9\
+  trisse-thumb.jpg"
+title: "Oes Galliath - Avant que notre m\xE9moire ne se fl\xE9trisse"
 ---
 
 ## Vinyl

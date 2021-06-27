@@ -1,16 +1,16 @@
 ---
-title: "Blasphemophagher - Nuclear Empire Of Apocalypse"
-date: 2021-06-22T16:40:34
-draft: false
-artist: "Blasphemophagher"
-album: "Nuclear Empire Of Apocalypse"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/blasphemophagher-nuclear_empire_of_apocalypse.jpg"
-thumbnailImage: "/images/covers/blasphemophagher-nuclear_empire_of_apocalypse-thumb.jpg"
 actualPrice: $40.00
+album: Nuclear Empire Of Apocalypse
+artist: Blasphemophagher
+categories:
+- Vinyl
+date: '2021-06-26T15:22:43'
+draft: false
+images:
+- /images/covers/blasphemophagher-nuclear_empire_of_apocalypse.jpg
 inStock: true
+thumbnailImage: /images/covers/blasphemophagher-nuclear_empire_of_apocalypse-thumb.jpg
+title: Blasphemophagher - Nuclear Empire Of Apocalypse
 ---
 
 ## Vinyl

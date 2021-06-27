@@ -1,16 +1,16 @@
 ---
-title: "Deathchant - Self-Titled"
-date: 2021-06-13T12:22:23
-draft: false
-artist: "Deathchant"
-album: "Self-Titled"
-categories:
-    - Tape
-images:
-    - "/images/covers/deathchant-self-titled.jpg"
-thumbnailImage: "/images/covers/deathchant-self-titled-thumb.jpg"
 actualPrice: $3.50
+album: Self-Titled
+artist: Deathchant
+categories:
+- Tape
+date: '2021-06-26T15:16:25'
+draft: false
+images:
+- /images/covers/deathchant-self-titled.jpg
 inStock: true
+thumbnailImage: /images/covers/deathchant-self-titled-thumb.jpg
+title: Deathchant - Self-Titled
 ---
 
 ## Tape

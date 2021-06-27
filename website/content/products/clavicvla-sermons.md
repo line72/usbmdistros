@@ -1,16 +1,16 @@
 ---
-title: "Clavicvla - Sermons"
-date: 2021-06-22T16:40:35
-draft: false
-artist: "Clavicvla"
-album: "Sermons"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/clavicvla-sermons.jpg"
-thumbnailImage: "/images/covers/clavicvla-sermons-thumb.jpg"
 actualPrice: $17.00
+album: Sermons
+artist: Clavicvla
+categories:
+- Vinyl
+date: '2021-06-26T15:22:44'
+draft: false
+images:
+- /images/covers/clavicvla-sermons.jpg
 inStock: true
+thumbnailImage: /images/covers/clavicvla-sermons-thumb.jpg
+title: Clavicvla - Sermons
 ---
 
 ## Vinyl

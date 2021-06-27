@@ -1,17 +1,17 @@
 ---
-title: "Popiel - Undying Insurmountable Chaos"
-date: 2021-06-22T16:41:12
-draft: false
-artist: "Popiel"
-album: "Undying Insurmountable Chaos"
-categories:
-    - Tape
-    - Cassette
-images:
-    - "/images/covers/popiel-undying_insurmountable_chaos.jpg"
-thumbnailImage: "/images/covers/popiel-undying_insurmountable_chaos-thumb.jpg"
 actualPrice: $4.00 - 7.00
+album: Undying Insurmountable Chaos
+artist: Popiel
+categories:
+- Tape
+- Cassette
+date: '2021-06-26T15:23:22'
+draft: false
+images:
+- /images/covers/popiel-undying_insurmountable_chaos.jpg
 inStock: true
+thumbnailImage: /images/covers/popiel-undying_insurmountable_chaos-thumb.jpg
+title: Popiel - Undying Insurmountable Chaos
 ---
 
 ## Tape

@@ -1,16 +1,16 @@
 ---
-title: "Norilsk - The Idea of North"
-date: 2021-06-22T16:40:42
-draft: false
-artist: "Norilsk"
-album: "The Idea of North"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/norilsk-the_idea_of_north.jpg"
-thumbnailImage: "/images/covers/norilsk-the_idea_of_north-thumb.jpg"
 actualPrice: $17.00
+album: The Idea of North
+artist: Norilsk
+categories:
+- Vinyl
+date: '2021-06-26T15:22:52'
+draft: false
+images:
+- /images/covers/norilsk-the_idea_of_north.jpg
 inStock: true
+thumbnailImage: /images/covers/norilsk-the_idea_of_north-thumb.jpg
+title: Norilsk - The Idea of North
 ---
 
 ## Vinyl

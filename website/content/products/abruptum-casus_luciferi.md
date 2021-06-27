@@ -1,16 +1,16 @@
 ---
-title: "Abruptum - Casus Luciferi"
-date: 2021-06-22T16:40:52
-draft: false
-artist: "Abruptum"
-album: "Casus Luciferi"
-categories:
-    - CD
-images:
-    - "/images/covers/abruptum-casus_luciferi.jpg"
-thumbnailImage: "/images/covers/abruptum-casus_luciferi-thumb.jpg"
 actualPrice: $10.00
+album: Casus Luciferi
+artist: Abruptum
+categories:
+- CD
+date: '2021-06-26T15:23:02'
+draft: false
+images:
+- /images/covers/abruptum-casus_luciferi.jpg
 inStock: true
+thumbnailImage: /images/covers/abruptum-casus_luciferi-thumb.jpg
+title: Abruptum - Casus Luciferi
 ---
 
 ## CD

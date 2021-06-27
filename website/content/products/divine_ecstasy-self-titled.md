@@ -1,16 +1,16 @@
 ---
-title: "Divine Ecstasy - Self-Titled"
-date: 2021-06-13T12:22:24
-draft: false
-artist: "Divine Ecstasy"
-album: "Self-Titled"
-categories:
-    - Tape
-images:
-    - "/images/covers/divine_ecstasy-self-titled.jpg"
-thumbnailImage: "/images/covers/divine_ecstasy-self-titled-thumb.jpg"
 actualPrice: $4.00
+album: Self-Titled
+artist: Divine Ecstasy
+categories:
+- Tape
+date: '2021-06-26T15:16:26'
+draft: false
+images:
+- /images/covers/divine_ecstasy-self-titled.jpg
 inStock: true
+thumbnailImage: /images/covers/divine_ecstasy-self-titled-thumb.jpg
+title: Divine Ecstasy - Self-Titled
 ---
 
 ## Tape

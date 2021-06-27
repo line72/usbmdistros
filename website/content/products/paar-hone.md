@@ -1,16 +1,16 @@
 ---
-title: "Paar - Hone"
-date: 2021-06-13T12:22:24
-draft: false
-artist: "Paar"
-album: "Hone"
-categories:
-    - Tape
-images:
-    - "/images/covers/paar-hone.jpg"
-thumbnailImage: "/images/covers/paar-hone-thumb.jpg"
 actualPrice: $6.00
+album: Hone
+artist: Paar
+categories:
+- Tape
+date: '2021-06-26T15:16:27'
+draft: false
+images:
+- /images/covers/paar-hone.jpg
 inStock: true
+thumbnailImage: /images/covers/paar-hone-thumb.jpg
+title: Paar - Hone
 ---
 
 ## Tape

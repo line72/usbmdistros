@@ -1,16 +1,16 @@
 ---
-title: "Primigenium - Faith Through Anguish"
-date: 2021-06-22T16:40:43
-draft: false
-artist: "Primigenium"
-album: "Faith Through Anguish"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/primigenium-faith_through_anguish.jpg"
-thumbnailImage: "/images/covers/primigenium-faith_through_anguish-thumb.jpg"
 actualPrice: $17.00
+album: Faith Through Anguish
+artist: Primigenium
+categories:
+- Vinyl
+date: '2021-06-26T15:22:53'
+draft: false
+images:
+- /images/covers/primigenium-faith_through_anguish.jpg
 inStock: true
+thumbnailImage: /images/covers/primigenium-faith_through_anguish-thumb.jpg
+title: Primigenium - Faith Through Anguish
 ---
 
 ## Vinyl

@@ -1,16 +1,16 @@
 ---
-title: "Ziegenhorn - Goat Demo(N)"
-date: 2021-06-13T12:22:22
-draft: false
-artist: "Ziegenhorn"
-album: "Goat Demo(N)"
-categories:
-    - Tape
-images:
-    - "/images/covers/ziegenhorn-goat_demo(n).jpg"
-thumbnailImage: "/images/covers/ziegenhorn-goat_demo(n)-thumb.jpg"
 actualPrice: $3.50
+album: Goat Demo(N)
+artist: Ziegenhorn
+categories:
+- Tape
+date: '2021-06-26T15:16:25'
+draft: false
+images:
+- /images/covers/ziegenhorn-goat_demo(n).jpg
 inStock: true
+thumbnailImage: /images/covers/ziegenhorn-goat_demo(n)-thumb.jpg
+title: Ziegenhorn - Goat Demo(N)
 ---
 
 ## Tape

@@ -1,16 +1,16 @@
 ---
-title: "Chaos Echoes - A Voiceless Ritual"
-date: 2021-06-22T16:40:35
-draft: false
-artist: "Chaos Echoes"
-album: "A Voiceless Ritual"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/chaos_echoes-a_voiceless_ritual.jpg"
-thumbnailImage: "/images/covers/chaos_echoes-a_voiceless_ritual-thumb.jpg"
 actualPrice: $15.00
+album: A Voiceless Ritual
+artist: Chaos Echoes
+categories:
+- Vinyl
+date: '2021-06-26T15:22:44'
+draft: false
+images:
+- /images/covers/chaos_echoes-a_voiceless_ritual.jpg
 inStock: true
+thumbnailImage: /images/covers/chaos_echoes-a_voiceless_ritual-thumb.jpg
+title: Chaos Echoes - A Voiceless Ritual
 ---
 
 ## Vinyl

@@ -1,16 +1,16 @@
 ---
-title: "Mareridt - Mors Angelorum"
-date: 2021-06-22T16:40:41
-draft: false
-artist: "Mareridt"
-album: "Mors Angelorum"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/mareridt-mors_angelorum.jpg"
-thumbnailImage: "/images/covers/mareridt-mors_angelorum-thumb.jpg"
 actualPrice: $17.00
+album: Mors Angelorum
+artist: Mareridt
+categories:
+- Vinyl
+date: '2021-06-26T15:22:51'
+draft: false
+images:
+- /images/covers/mareridt-mors_angelorum.jpg
 inStock: true
+thumbnailImage: /images/covers/mareridt-mors_angelorum-thumb.jpg
+title: Mareridt - Mors Angelorum
 ---
 
 ## Vinyl

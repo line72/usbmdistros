@@ -1,16 +1,16 @@
 ---
-title: "Drudkh - Anti Urban"
-date: 2021-06-22T16:40:36
-draft: false
-artist: "Drudkh"
-album: "Anti Urban"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/drudkh-anti_urban.jpg"
-thumbnailImage: "/images/covers/drudkh-anti_urban-thumb.jpg"
 actualPrice: $22.00
+album: Anti Urban
+artist: Drudkh
+categories:
+- Vinyl
+date: '2021-06-26T15:22:46'
+draft: false
+images:
+- /images/covers/drudkh-anti_urban.jpg
 inStock: true
+thumbnailImage: /images/covers/drudkh-anti_urban-thumb.jpg
+title: Drudkh - Anti Urban
 ---
 
 ## Vinyl

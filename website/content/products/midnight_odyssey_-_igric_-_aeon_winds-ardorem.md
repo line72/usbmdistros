@@ -1,16 +1,16 @@
 ---
-title: "Midnight Odyssey / Igric / Aeon Winds - Ardorem"
-date: 2021-06-22T16:40:41
-draft: false
-artist: "Midnight Odyssey / Igric / Aeon Winds"
-album: "Ardorem"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/midnight_odyssey_-_igric_-_aeon_winds-ardorem.jpg"
-thumbnailImage: "/images/covers/midnight_odyssey_-_igric_-_aeon_winds-ardorem-thumb.jpg"
 actualPrice: $20.00
+album: Ardorem
+artist: Midnight Odyssey / Igric / Aeon Winds
+categories:
+- Vinyl
+date: '2021-06-26T15:22:51'
+draft: false
+images:
+- /images/covers/midnight_odyssey_-_igric_-_aeon_winds-ardorem.jpg
 inStock: true
+thumbnailImage: /images/covers/midnight_odyssey_-_igric_-_aeon_winds-ardorem-thumb.jpg
+title: Midnight Odyssey / Igric / Aeon Winds - Ardorem
 ---
 
 ## Vinyl

@@ -1,16 +1,16 @@
 ---
-title: "Hesychia - Thron"
-date: 2021-06-22T16:40:59
-draft: false
-artist: "Hesychia"
-album: "Thron"
-categories:
-    - CD
-images:
-    - "/images/covers/hesychia-thron.jpg"
-thumbnailImage: "/images/covers/hesychia-thron-thumb.jpg"
 actualPrice: $12.00 - 14.00
+album: Thron
+artist: Hesychia
+categories:
+- CD
+date: '2021-06-26T15:23:09'
+draft: false
+images:
+- /images/covers/hesychia-thron.jpg
 inStock: true
+thumbnailImage: /images/covers/hesychia-thron-thumb.jpg
+title: Hesychia - Thron
 ---
 
 ## CD

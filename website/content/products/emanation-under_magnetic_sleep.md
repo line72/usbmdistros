@@ -1,16 +1,16 @@
 ---
-title: "Emanation - Under Magnetic Sleep"
-date: 2021-06-22T16:40:36
-draft: false
-artist: "Emanation"
-album: "Under Magnetic Sleep"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/emanation-under_magnetic_sleep.jpg"
-thumbnailImage: "/images/covers/emanation-under_magnetic_sleep-thumb.jpg"
 actualPrice: $17.00
+album: Under Magnetic Sleep
+artist: Emanation
+categories:
+- Vinyl
+date: '2021-06-26T15:22:46'
+draft: false
+images:
+- /images/covers/emanation-under_magnetic_sleep.jpg
 inStock: true
+thumbnailImage: /images/covers/emanation-under_magnetic_sleep-thumb.jpg
+title: Emanation - Under Magnetic Sleep
 ---
 
 ## Vinyl

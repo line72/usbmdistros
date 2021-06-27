@@ -1,16 +1,16 @@
 ---
-title: "Shores of Ladon / Wolfsschrei - Split"
-date: 2021-06-12T14:07:51
-draft: false
-artist: "Shores of Ladon / Wolfsschrei"
-album: "Split"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/shores_of_ladon_-_wolfsschrei-split.jpg"
-thumbnailImage: "/images/covers/shores_of_ladon_-_wolfsschrei-split-thumb.jpg"
 actualPrice: $25.00
+album: Split
+artist: Shores of Ladon / Wolfsschrei
+categories:
+- Vinyl
+date: '2021-06-26T15:02:53'
+draft: false
+images:
+- /images/covers/shores_of_ladon_-_wolfsschrei-split.jpg
 inStock: true
+thumbnailImage: /images/covers/shores_of_ladon_-_wolfsschrei-split-thumb.jpg
+title: Shores of Ladon / Wolfsschrei - Split
 ---
 
 ## Vinyl

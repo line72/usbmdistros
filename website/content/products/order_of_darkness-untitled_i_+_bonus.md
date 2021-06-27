@@ -1,16 +1,16 @@
 ---
-title: "Order Of Darkness - Untitled I + Bonus"
-date: 2021-06-22T16:40:43
-draft: false
-artist: "Order Of Darkness"
-album: "Untitled I + Bonus"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/order_of_darkness-untitled_i_+_bonus.jpg"
-thumbnailImage: "/images/covers/order_of_darkness-untitled_i_+_bonus-thumb.jpg"
 actualPrice: $16.00
+album: Untitled I + Bonus
+artist: Order of Darkness
+categories:
+- Vinyl
+date: '2021-06-26T15:22:53'
+draft: false
+images:
+- /images/covers/order_of_darkness-untitled_i_+_bonus.jpg
 inStock: true
+thumbnailImage: /images/covers/order_of_darkness-untitled_i_+_bonus-thumb.jpg
+title: Order of Darkness - Untitled I + Bonus
 ---
 
 ## Vinyl

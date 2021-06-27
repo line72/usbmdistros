@@ -1,16 +1,16 @@
 ---
-title: "Dagorath - Evil is the Spirit"
-date: 2021-06-22T16:40:35
-draft: false
-artist: "Dagorath"
-album: "Evil is the Spirit"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/dagorath-evil_is_the_spirit.jpg"
-thumbnailImage: "/images/covers/dagorath-evil_is_the_spirit-thumb.jpg"
 actualPrice: $20.00
+album: Evil is the Spirit
+artist: Dagorath
+categories:
+- Vinyl
+date: '2021-06-26T15:22:44'
+draft: false
+images:
+- /images/covers/dagorath-evil_is_the_spirit.jpg
 inStock: true
+thumbnailImage: /images/covers/dagorath-evil_is_the_spirit-thumb.jpg
+title: Dagorath - Evil is the Spirit
 ---
 
 ## Vinyl

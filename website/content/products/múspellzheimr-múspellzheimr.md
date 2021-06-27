@@ -1,16 +1,16 @@
 ---
-title: "Múspellzheimr - Múspellzheimr"
-date: 2021-06-22T16:40:41
-draft: false
-artist: "Múspellzheimr"
-album: "Múspellzheimr"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/múspellzheimr-múspellzheimr.jpg"
-thumbnailImage: "/images/covers/múspellzheimr-múspellzheimr-thumb.jpg"
 actualPrice: $25.00
+album: "M\xFAspellzheimr"
+artist: "M\xFAspellzheimr"
+categories:
+- Vinyl
+date: '2021-06-26T15:22:51'
+draft: false
+images:
+- "/images/covers/m\xFAspellzheimr-m\xFAspellzheimr.jpg"
 inStock: true
+thumbnailImage: "/images/covers/m\xFAspellzheimr-m\xFAspellzheimr-thumb.jpg"
+title: "M\xFAspellzheimr - M\xFAspellzheimr"
 ---
 
 ## Vinyl

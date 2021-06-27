@@ -1,17 +1,17 @@
 ---
-title: "Inferno Requiem - Primitive Outburst"
-date: 2021-06-22T16:40:39
-draft: false
-artist: "Inferno Requiem"
-album: "Primitive Outburst"
-categories:
-    - Vinyl
-    - CD
-images:
-    - "/images/covers/inferno_requiem-primitive_outburst.jpg"
-thumbnailImage: "/images/covers/inferno_requiem-primitive_outburst-thumb.jpg"
 actualPrice: $11.00 - 28.00
+album: Primitive Outburst
+artist: Inferno Requiem
+categories:
+- Vinyl
+- CD
+date: '2021-06-26T15:22:49'
+draft: false
+images:
+- /images/covers/inferno_requiem-primitive_outburst.jpg
 inStock: true
+thumbnailImage: /images/covers/inferno_requiem-primitive_outburst-thumb.jpg
+title: Inferno Requiem - Primitive Outburst
 ---
 
 ## Vinyl

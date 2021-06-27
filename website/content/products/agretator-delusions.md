@@ -1,16 +1,16 @@
 ---
-title: "Agretator - Delusions"
-date: 2021-06-22T16:40:32
-draft: false
-artist: "Agretator"
-album: "Delusions"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/agretator-delusions.jpg"
-thumbnailImage: "/images/covers/agretator-delusions-thumb.jpg"
 actualPrice: $20.00
+album: Delusions
+artist: Agretator
+categories:
+- Vinyl
+date: '2021-06-26T15:22:41'
+draft: false
+images:
+- /images/covers/agretator-delusions.jpg
 inStock: true
+thumbnailImage: /images/covers/agretator-delusions-thumb.jpg
+title: Agretator - Delusions
 ---
 
 ## Vinyl

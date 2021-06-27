@@ -1,16 +1,16 @@
 ---
-title: "Musta Kappeli - Kun Väistyy Aika Ihmisen"
-date: 2021-06-22T16:40:42
-draft: false
-artist: "Musta Kappeli"
-album: "Kun Väistyy Aika Ihmisen"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/musta_kappeli-kun_väistyy_aika_ihmisen.jpg"
-thumbnailImage: "/images/covers/musta_kappeli-kun_väistyy_aika_ihmisen-thumb.jpg"
 actualPrice: $17.00
+album: "Kun V\xE4istyy Aika Ihmisen"
+artist: Musta Kappeli
+categories:
+- Vinyl
+date: '2021-06-26T15:22:51'
+draft: false
+images:
+- "/images/covers/musta_kappeli-kun_v\xE4istyy_aika_ihmisen.jpg"
 inStock: true
+thumbnailImage: "/images/covers/musta_kappeli-kun_v\xE4istyy_aika_ihmisen-thumb.jpg"
+title: "Musta Kappeli - Kun V\xE4istyy Aika Ihmisen"
 ---
 
 ## Vinyl

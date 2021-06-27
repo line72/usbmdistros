@@ -1,16 +1,16 @@
 ---
-title: "Manslaughter - Infernal Madness"
-date: 2021-06-22T16:40:41
-draft: false
-artist: "Manslaughter"
-album: "Infernal Madness"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/manslaughter-infernal_madness.jpg"
-thumbnailImage: "/images/covers/manslaughter-infernal_madness-thumb.jpg"
 actualPrice: $20.00
+album: Infernal Madness
+artist: Manslaughter
+categories:
+- Vinyl
+date: '2021-06-26T15:22:50'
+draft: false
+images:
+- /images/covers/manslaughter-infernal_madness.jpg
 inStock: true
+thumbnailImage: /images/covers/manslaughter-infernal_madness-thumb.jpg
+title: Manslaughter - Infernal Madness
 ---
 
 ## Vinyl

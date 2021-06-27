@@ -1,16 +1,16 @@
 ---
-title: "Holocausto - War Metal Massacre"
-date: 2021-06-22T16:40:39
-draft: false
-artist: "Holocausto"
-album: "War Metal Massacre"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/holocausto-war_metal_massacre.jpg"
-thumbnailImage: "/images/covers/holocausto-war_metal_massacre-thumb.jpg"
 actualPrice: $25.00
+album: War Metal Massacre
+artist: Holocausto
+categories:
+- Vinyl
+date: '2021-06-26T15:22:49'
+draft: false
+images:
+- /images/covers/holocausto-war_metal_massacre.jpg
 inStock: true
+thumbnailImage: /images/covers/holocausto-war_metal_massacre-thumb.jpg
+title: Holocausto - War Metal Massacre
 ---
 
 ## Vinyl

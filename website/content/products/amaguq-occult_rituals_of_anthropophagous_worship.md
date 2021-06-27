@@ -1,16 +1,16 @@
 ---
-title: "Amaguq - Occult Rituals of Anthropophagous Worship"
-date: 2021-06-22T16:40:32
-draft: false
-artist: "Amaguq"
-album: "Occult Rituals of Anthropophagous Worship"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/amaguq-occult_rituals_of_anthropophagous_worship.jpg"
-thumbnailImage: "/images/covers/amaguq-occult_rituals_of_anthropophagous_worship-thumb.jpg"
 actualPrice: $17.00
+album: Occult Rituals of Anthropophagous Worship
+artist: Amaguq
+categories:
+- Vinyl
+date: '2021-06-26T15:22:41'
+draft: false
+images:
+- /images/covers/amaguq-occult_rituals_of_anthropophagous_worship.jpg
 inStock: true
+thumbnailImage: /images/covers/amaguq-occult_rituals_of_anthropophagous_worship-thumb.jpg
+title: Amaguq - Occult Rituals of Anthropophagous Worship
 ---
 
 ## Vinyl

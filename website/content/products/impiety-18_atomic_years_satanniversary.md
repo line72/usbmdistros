@@ -1,16 +1,16 @@
 ---
-title: "Impiety - 18 Atomic Years Satanniversary"
-date: 2021-06-22T16:40:39
-draft: false
-artist: "Impiety"
-album: "18 Atomic Years Satanniversary"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/impiety-18_atomic_years_satanniversary.jpg"
-thumbnailImage: "/images/covers/impiety-18_atomic_years_satanniversary-thumb.jpg"
 actualPrice: $25.00
+album: 18 Atomic Years Satanniversary
+artist: Impiety
+categories:
+- Vinyl
+date: '2021-06-26T15:22:49'
+draft: false
+images:
+- /images/covers/impiety-18_atomic_years_satanniversary.jpg
 inStock: true
+thumbnailImage: /images/covers/impiety-18_atomic_years_satanniversary-thumb.jpg
+title: Impiety - 18 Atomic Years Satanniversary
 ---
 
 ## Vinyl

@@ -1,16 +1,16 @@
 ---
-title: "Sadistik Forest - Self-Titled"
-date: 2021-06-13T12:22:22
-draft: false
-artist: "Sadistik Forest"
-album: "Self-Titled"
-categories:
-    - Tape
-images:
-    - "/images/covers/sadistik_forest-self-titled.jpg"
-thumbnailImage: "/images/covers/sadistik_forest-self-titled-thumb.jpg"
 actualPrice: $4.00
+album: Self-Titled
+artist: Sadistik Forest
+categories:
+- Tape
+date: '2021-06-26T15:16:25'
+draft: false
+images:
+- /images/covers/sadistik_forest-self-titled.jpg
 inStock: true
+thumbnailImage: /images/covers/sadistik_forest-self-titled-thumb.jpg
+title: Sadistik Forest - Self-Titled
 ---
 
 ## Tape

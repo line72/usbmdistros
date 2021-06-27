@@ -1,16 +1,16 @@
 ---
-title: "Decrepitude - Ave Atque Vale"
-date: 2021-06-22T16:40:36
-draft: false
-artist: "Decrepitude"
-album: "Ave Atque Vale"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/decrepitude-ave_atque_vale.jpg"
-thumbnailImage: "/images/covers/decrepitude-ave_atque_vale-thumb.jpg"
 actualPrice: $22.00 - 25.00
+album: Ave Atque Vale
+artist: Decrepitude
+categories:
+- Vinyl
+date: '2021-06-26T15:22:45'
+draft: false
+images:
+- /images/covers/decrepitude-ave_atque_vale.jpg
 inStock: true
+thumbnailImage: /images/covers/decrepitude-ave_atque_vale-thumb.jpg
+title: Decrepitude - Ave Atque Vale
 ---
 
 ## Vinyl

@@ -1,16 +1,16 @@
 ---
-title: "Torrid Husk - Caesious"
-date: 2021-06-13T12:22:22
-draft: false
-artist: "Torrid Husk"
-album: "Caesious"
-categories:
-    - Tape
-images:
-    - "/images/covers/torrid_husk-caesious.jpg"
-thumbnailImage: "/images/covers/torrid_husk-caesious-thumb.jpg"
 actualPrice: $6.00
+album: Caesious
+artist: Torrid Husk
+categories:
+- Tape
+date: '2021-06-26T15:16:24'
+draft: false
+images:
+- /images/covers/torrid_husk-caesious.jpg
 inStock: true
+thumbnailImage: /images/covers/torrid_husk-caesious-thumb.jpg
+title: Torrid Husk - Caesious
 ---
 
 ## Tape

@@ -1,16 +1,16 @@
 ---
-title: "Death Worship - Extermination Mass - Demo"
-date: 2021-06-22T16:40:35
-draft: false
-artist: "Death Worship"
-album: "Extermination Mass - Demo"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/death_worship-extermination_mass_-_demo.jpg"
-thumbnailImage: "/images/covers/death_worship-extermination_mass_-_demo-thumb.jpg"
 actualPrice: $17.00 - 40.00
+album: Extermination Mass - Demo
+artist: Death Worship
+categories:
+- Vinyl
+date: '2021-06-26T15:22:45'
+draft: false
+images:
+- /images/covers/death_worship-extermination_mass_-_demo.jpg
 inStock: true
+thumbnailImage: /images/covers/death_worship-extermination_mass_-_demo-thumb.jpg
+title: Death Worship - Extermination Mass - Demo
 ---
 
 ## Vinyl

@@ -1,17 +1,17 @@
 ---
-title: "Dråpsnatt - Skelepht"
-date: 2021-06-22T16:40:56
-draft: false
-artist: "Dråpsnatt"
-album: "Skelepht"
-categories:
-    - Vinyl
-    - CD
-images:
-    - "/images/covers/dråpsnatt-skelepht.jpg"
-thumbnailImage: "/images/covers/dråpsnatt-skelepht-thumb.jpg"
 actualPrice: $12.00 - 22.00
+album: Skelepht
+artist: "Dr\xE5psnatt"
+categories:
+- Vinyl
+- CD
+date: '2021-06-26T15:23:06'
+draft: false
+images:
+- "/images/covers/dr\xE5psnatt-skelepht.jpg"
 inStock: true
+thumbnailImage: "/images/covers/dr\xE5psnatt-skelepht-thumb.jpg"
+title: "Dr\xE5psnatt - Skelepht"
 ---
 
 ## Vinyl

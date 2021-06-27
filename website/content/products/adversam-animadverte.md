@@ -1,16 +1,16 @@
 ---
-title: "Adversam - Animadverte"
-date: 2021-06-12T14:07:52
-draft: false
-artist: "Adversam"
-album: "Animadverte"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/adversam-animadverte.jpg"
-thumbnailImage: "/images/covers/adversam-animadverte-thumb.jpg"
 actualPrice: $27.00
+album: Animadverte
+artist: Adversam
+categories:
+- Vinyl
+date: '2021-06-26T15:02:54'
+draft: false
+images:
+- /images/covers/adversam-animadverte.jpg
 inStock: true
+thumbnailImage: /images/covers/adversam-animadverte-thumb.jpg
+title: Adversam - Animadverte
 ---
 
 ## Vinyl

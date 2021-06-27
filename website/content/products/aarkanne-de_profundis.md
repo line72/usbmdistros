@@ -1,16 +1,16 @@
 ---
-title: "Aarkanne - De Profundis"
-date: 2021-06-22T16:41:08
-draft: false
-artist: "Aarkanne"
-album: "De Profundis"
-categories:
-    - Cassette
-images:
-    - "/images/covers/aarkanne-de_profundis.jpg"
-thumbnailImage: "/images/covers/aarkanne-de_profundis-thumb.jpg"
 actualPrice: $10.00
+album: De Profundis
+artist: Aarkanne
+categories:
+- Cassette
+date: '2021-06-26T15:23:18'
+draft: false
+images:
+- /images/covers/aarkanne-de_profundis.jpg
 inStock: true
+thumbnailImage: /images/covers/aarkanne-de_profundis-thumb.jpg
+title: Aarkanne - De Profundis
 ---
 
 ## Cassette

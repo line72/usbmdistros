@@ -1,16 +1,16 @@
 ---
-title: "Phosphorus - Corruptu Sanguis: As I Enter My Shadowed Coffin"
-date: 2021-06-13T12:22:22
-draft: false
-artist: "Phosphorus"
-album: "Corruptu Sanguis: As I Enter My Shadowed Coffin"
-categories:
-    - Tape
-images:
-    - "/images/covers/phosphorus-corruptu_sanguis:_as_i_enter_my_shadowed_coffin.jpg"
-thumbnailImage: "/images/covers/phosphorus-corruptu_sanguis:_as_i_enter_my_shadowed_coffin-thumb.jpg"
 actualPrice: $7.50
+album: 'Corruptu Sanguis: As I Enter My Shadowed Coffin'
+artist: Phosphorus
+categories:
+- Tape
+date: '2021-06-26T15:16:24'
+draft: false
+images:
+- /images/covers/phosphorus-corruptu_sanguis:_as_i_enter_my_shadowed_coffin.jpg
 inStock: true
+thumbnailImage: /images/covers/phosphorus-corruptu_sanguis:_as_i_enter_my_shadowed_coffin-thumb.jpg
+title: 'Phosphorus - Corruptu Sanguis: As I Enter My Shadowed Coffin'
 ---
 
 ## Tape

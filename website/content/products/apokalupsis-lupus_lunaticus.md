@@ -1,16 +1,16 @@
 ---
-title: "Apokalupsis - Lupus Lunaticus"
-date: 2021-06-12T14:07:56
-draft: false
-artist: "Apokalupsis"
-album: "Lupus Lunaticus"
-categories:
-    - Tape
-images:
-    - "/images/covers/apokalupsis-lupus_lunaticus.jpg"
-thumbnailImage: "/images/covers/apokalupsis-lupus_lunaticus-thumb.jpg"
 actualPrice: $9.00
+album: Lupus Lunaticus
+artist: Apokalupsis
+categories:
+- Tape
+date: '2021-06-26T15:03:02'
+draft: false
+images:
+- /images/covers/apokalupsis-lupus_lunaticus.jpg
 inStock: true
+thumbnailImage: /images/covers/apokalupsis-lupus_lunaticus-thumb.jpg
+title: Apokalupsis - Lupus Lunaticus
 ---
 
 ## Tape

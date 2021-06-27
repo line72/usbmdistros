@@ -1,16 +1,16 @@
 ---
-title: "Horned Almighty - Live Ersanguination"
-date: 2021-06-22T16:40:39
-draft: false
-artist: "Horned Almighty"
-album: "Live Ersanguination"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/horned_almighty-live_ersanguination.jpg"
-thumbnailImage: "/images/covers/horned_almighty-live_ersanguination-thumb.jpg"
 actualPrice: $12.00
+album: Live Ersanguination
+artist: Horned Almighty
+categories:
+- Vinyl
+date: '2021-06-26T15:22:49'
+draft: false
+images:
+- /images/covers/horned_almighty-live_ersanguination.jpg
 inStock: true
+thumbnailImage: /images/covers/horned_almighty-live_ersanguination-thumb.jpg
+title: Horned Almighty - Live Ersanguination
 ---
 
 ## Vinyl

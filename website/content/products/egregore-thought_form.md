@@ -1,16 +1,16 @@
 ---
-title: "Egregore - Thought Form"
-date: 2021-06-13T12:22:21
-draft: false
-artist: "Egregore"
-album: "Thought Form"
-categories:
-    - Tape
-images:
-    - "/images/covers/egregore-thought_form.jpg"
-thumbnailImage: "/images/covers/egregore-thought_form-thumb.jpg"
 actualPrice: $8.00
+album: Thought Form
+artist: Egregore
+categories:
+- Tape
+date: '2021-06-26T15:16:24'
+draft: false
+images:
+- /images/covers/egregore-thought_form.jpg
 inStock: true
+thumbnailImage: /images/covers/egregore-thought_form-thumb.jpg
+title: Egregore - Thought Form
 ---
 
 ## Tape

@@ -1,17 +1,17 @@
 ---
-title: "Graves - Liturgia da Blasfemia"
-date: 2021-06-22T16:40:58
-draft: false
-artist: "Graves"
-album: "Liturgia da Blasfemia"
-categories:
-    - Vinyl
-    - CD
-images:
-    - "/images/covers/graves-liturgia_da_blasfemia.jpg"
-thumbnailImage: "/images/covers/graves-liturgia_da_blasfemia-thumb.jpg"
 actualPrice: $10.00 - 17.00
+album: Liturgia da Blasfemia
+artist: Graves
+categories:
+- Vinyl
+- CD
+date: '2021-06-26T15:23:08'
+draft: false
+images:
+- /images/covers/graves-liturgia_da_blasfemia.jpg
 inStock: true
+thumbnailImage: /images/covers/graves-liturgia_da_blasfemia-thumb.jpg
+title: Graves - Liturgia da Blasfemia
 ---
 
 ## Vinyl

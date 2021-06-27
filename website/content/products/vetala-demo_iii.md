@@ -1,16 +1,16 @@
 ---
-title: "Vetala - Demo III"
-date: 2021-06-12T14:07:56
-draft: false
-artist: "Vetala"
-album: "Demo III"
-categories:
-    - Tape
-images:
-    - "/images/covers/vetala-demo_iii.jpg"
-thumbnailImage: "/images/covers/vetala-demo_iii-thumb.jpg"
 actualPrice: $10.00
+album: Demo III
+artist: Vetala
+categories:
+- Tape
+date: '2021-06-26T15:03:02'
+draft: false
+images:
+- /images/covers/vetala-demo_iii.jpg
 inStock: true
+thumbnailImage: /images/covers/vetala-demo_iii-thumb.jpg
+title: Vetala - Demo III
 ---
 
 ## Tape

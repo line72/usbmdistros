@@ -1,16 +1,16 @@
 ---
-title: "Nokturnal Mortum - Kolovorot"
-date: 2021-06-12T14:07:52
-draft: false
-artist: "Nokturnal Mortum"
-album: "Kolovorot"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/nokturnal_mortum-kolovorot.jpg"
-thumbnailImage: "/images/covers/nokturnal_mortum-kolovorot-thumb.jpg"
 actualPrice: $40.00
+album: Kolovorot
+artist: Nokturnal Mortum
+categories:
+- Vinyl
+date: '2021-06-26T15:02:54'
+draft: false
+images:
+- /images/covers/nokturnal_mortum-kolovorot.jpg
 inStock: true
+thumbnailImage: /images/covers/nokturnal_mortum-kolovorot-thumb.jpg
+title: Nokturnal Mortum - Kolovorot
 ---
 
 ## Vinyl

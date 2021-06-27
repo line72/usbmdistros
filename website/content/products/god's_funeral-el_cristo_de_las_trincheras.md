@@ -1,16 +1,16 @@
 ---
-title: "God'S Funeral - El Cristo De Las Trincheras"
-date: 2021-06-13T12:22:24
-draft: false
-artist: "God'S Funeral"
-album: "El Cristo De Las Trincheras"
-categories:
-    - Tape
-images:
-    - "/images/covers/god's_funeral-el_cristo_de_las_trincheras.jpg"
-thumbnailImage: "/images/covers/god's_funeral-el_cristo_de_las_trincheras-thumb.jpg"
 actualPrice: $6.00
+album: El Cristo De Las Trincheras
+artist: God'S Funeral
+categories:
+- Tape
+date: '2021-06-26T15:16:26'
+draft: false
+images:
+- /images/covers/god's_funeral-el_cristo_de_las_trincheras.jpg
 inStock: true
+thumbnailImage: /images/covers/god's_funeral-el_cristo_de_las_trincheras-thumb.jpg
+title: God'S Funeral - El Cristo De Las Trincheras
 ---
 
 ## Tape

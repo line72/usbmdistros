@@ -1,16 +1,16 @@
 ---
-title: "Toxik Death - Sepulchral Demons"
-date: 2021-06-13T12:22:19
-draft: false
-artist: "Toxik Death"
-album: "Sepulchral Demons"
-categories:
-    - Tape
-images:
-    - "/images/covers/toxik_death-sepulchral_demons.jpg"
-thumbnailImage: "/images/covers/toxik_death-sepulchral_demons-thumb.jpg"
 actualPrice: $8.50
+album: Sepulchral Demons
+artist: Toxik Death
+categories:
+- Tape
+date: '2021-06-26T15:16:22'
+draft: false
+images:
+- /images/covers/toxik_death-sepulchral_demons.jpg
 inStock: true
+thumbnailImage: /images/covers/toxik_death-sepulchral_demons-thumb.jpg
+title: Toxik Death - Sepulchral Demons
 ---
 
 ## Tape

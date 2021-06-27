@@ -1,20 +1,17 @@
 ---
-title: "Kastijder - s/t"
-date: 2021-06-12T14:07:55
-draft: false
-artist: "Kastijder"
-album: "s/t"
+actualPrice: $10.00
+album: s/t
+artist: Kastijder
 categories:
-    - Vinyl
-    - Tape
+- Tape
+date: '2021-06-26T15:03:01'
+draft: false
 images:
-    - "/images/covers/kastijder-s-t.jpg"
-thumbnailImage: "/images/covers/kastijder-s-t-thumb.jpg"
-actualPrice: $10.00 - 27.00
+- /images/covers/kastijder-s-t.jpg
 inStock: true
+thumbnailImage: /images/covers/kastijder-s-t-thumb.jpg
+title: Kastijder - s/t
 ---
 
-## Vinyl
-* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/kastijder-s-t-12-lp) for $27.00
 ## Tape
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/kastijder-s-t-tape) for $10.00

@@ -1,16 +1,16 @@
 ---
-title: "Abigail - Tribute to Gorgon Part 3"
-date: 2021-06-22T16:40:49
-draft: false
-artist: "Abigail"
-album: "Tribute to Gorgon Part 3"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/abigail-tribute_to_gorgon_part_3.jpg"
-thumbnailImage: "/images/covers/abigail-tribute_to_gorgon_part_3-thumb.jpg"
 actualPrice: $30.00 - 50.00
+album: Tribute to Gorgon Part 3
+artist: Abigail
+categories:
+- Vinyl
+date: '2021-06-26T15:22:59'
+draft: false
+images:
+- /images/covers/abigail-tribute_to_gorgon_part_3.jpg
 inStock: true
+thumbnailImage: /images/covers/abigail-tribute_to_gorgon_part_3-thumb.jpg
+title: Abigail - Tribute to Gorgon Part 3
 ---
 
 ## Vinyl

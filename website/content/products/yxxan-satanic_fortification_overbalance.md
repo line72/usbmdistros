@@ -1,17 +1,17 @@
 ---
-title: "Yxxan - Satanic Fortification Overbalance"
-date: 2021-06-22T16:41:14
-draft: false
-artist: "Yxxan"
-album: "Satanic Fortification Overbalance"
-categories:
-    - Tape
-    - Cassette
-images:
-    - "/images/covers/yxxan-satanic_fortification_overbalance.jpg"
-thumbnailImage: "/images/covers/yxxan-satanic_fortification_overbalance-thumb.jpg"
 actualPrice: $8.00 - 10.00
+album: Satanic Fortification Overbalance
+artist: Yxxan
+categories:
+- Tape
+- Cassette
+date: '2021-06-26T15:23:25'
+draft: false
+images:
+- /images/covers/yxxan-satanic_fortification_overbalance.jpg
 inStock: true
+thumbnailImage: /images/covers/yxxan-satanic_fortification_overbalance-thumb.jpg
+title: Yxxan - Satanic Fortification Overbalance
 ---
 
 ## Tape

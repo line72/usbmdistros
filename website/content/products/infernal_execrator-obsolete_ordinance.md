@@ -1,17 +1,17 @@
 ---
-title: "INFERNAL EXECRATOR - OBSOLETE ORDINANCE"
-date: 2021-06-22T16:40:59
-draft: false
-artist: "INFERNAL EXECRATOR"
-album: "OBSOLETE ORDINANCE"
-categories:
-    - Vinyl
-    - CD
-images:
-    - "/images/covers/infernal_execrator-obsolete_ordinance.jpg"
-thumbnailImage: "/images/covers/infernal_execrator-obsolete_ordinance-thumb.jpg"
 actualPrice: $12.00 - 22.00
+album: OBSOLETE ORDINANCE
+artist: INFERNAL EXECRATOR
+categories:
+- Vinyl
+- CD
+date: '2021-06-26T15:23:09'
+draft: false
+images:
+- /images/covers/infernal_execrator-obsolete_ordinance.jpg
 inStock: true
+thumbnailImage: /images/covers/infernal_execrator-obsolete_ordinance-thumb.jpg
+title: INFERNAL EXECRATOR - OBSOLETE ORDINANCE
 ---
 
 ## Vinyl

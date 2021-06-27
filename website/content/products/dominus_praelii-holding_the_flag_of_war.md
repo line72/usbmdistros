@@ -1,16 +1,16 @@
 ---
-title: "Dominus Praelii - Holding The Flag Of War"
-date: 2021-06-22T16:40:36
-draft: false
-artist: "Dominus Praelii"
-album: "Holding The Flag Of War"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/dominus_praelii-holding_the_flag_of_war.jpg"
-thumbnailImage: "/images/covers/dominus_praelii-holding_the_flag_of_war-thumb.jpg"
 actualPrice: $25.00
+album: Holding The Flag Of War
+artist: Dominus Praelii
+categories:
+- Vinyl
+date: '2021-06-26T15:22:46'
+draft: false
+images:
+- /images/covers/dominus_praelii-holding_the_flag_of_war.jpg
 inStock: true
+thumbnailImage: /images/covers/dominus_praelii-holding_the_flag_of_war-thumb.jpg
+title: Dominus Praelii - Holding The Flag Of War
 ---
 
 ## Vinyl

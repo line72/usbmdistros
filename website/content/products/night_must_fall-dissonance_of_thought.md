@@ -1,17 +1,17 @@
 ---
-title: "Night Must Fall - Dissonance of Thought"
-date: 2021-06-22T16:41:02
-draft: false
-artist: "Night Must Fall"
-album: "Dissonance of Thought"
-categories:
-    - Vinyl
-    - CD
-images:
-    - "/images/covers/night_must_fall-dissonance_of_thought.jpg"
-thumbnailImage: "/images/covers/night_must_fall-dissonance_of_thought-thumb.jpg"
 actualPrice: $5.00 - 15.00
+album: Dissonance of Thought
+artist: Night Must Fall
+categories:
+- Vinyl
+- CD
+date: '2021-06-26T15:23:12'
+draft: false
+images:
+- /images/covers/night_must_fall-dissonance_of_thought.jpg
 inStock: true
+thumbnailImage: /images/covers/night_must_fall-dissonance_of_thought-thumb.jpg
+title: Night Must Fall - Dissonance of Thought
 ---
 
 ## Vinyl

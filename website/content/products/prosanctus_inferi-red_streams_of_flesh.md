@@ -1,16 +1,16 @@
 ---
-title: "Prosanctus Inferi - Red Streams of Flesh"
-date: 2021-06-22T16:40:43
-draft: false
-artist: "Prosanctus Inferi"
-album: "Red Streams of Flesh"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/prosanctus_inferi-red_streams_of_flesh.jpg"
-thumbnailImage: "/images/covers/prosanctus_inferi-red_streams_of_flesh-thumb.jpg"
 actualPrice: $12.00
+album: Red Streams of Flesh
+artist: Prosanctus Inferi
+categories:
+- Vinyl
+date: '2021-06-26T15:22:53'
+draft: false
+images:
+- /images/covers/prosanctus_inferi-red_streams_of_flesh.jpg
 inStock: true
+thumbnailImage: /images/covers/prosanctus_inferi-red_streams_of_flesh-thumb.jpg
+title: Prosanctus Inferi - Red Streams of Flesh
 ---
 
 ## Vinyl

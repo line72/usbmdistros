@@ -1,16 +1,16 @@
 ---
-title: "Furia - Martwa Polska Jesień"
-date: 2021-06-22T16:40:38
-draft: false
-artist: "Furia"
-album: "Martwa Polska Jesień"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/furia-martwa_polska_jesień.jpg"
-thumbnailImage: "/images/covers/furia-martwa_polska_jesień-thumb.jpg"
 actualPrice: $10.00
+album: "Martwa Polska Jesie\u0144"
+artist: Furia
+categories:
+- Vinyl
+date: '2021-06-26T15:22:47'
+draft: false
+images:
+- "/images/covers/furia-martwa_polska_jesie\u0144.jpg"
 inStock: true
+thumbnailImage: "/images/covers/furia-martwa_polska_jesie\u0144-thumb.jpg"
+title: "Furia - Martwa Polska Jesie\u0144"
 ---
 
 ## Vinyl

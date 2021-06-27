@@ -1,16 +1,16 @@
 ---
-title: "Inquisition - Black Mass For A Mass Grave"
-date: 2021-06-22T16:40:39
-draft: false
-artist: "Inquisition"
-album: "Black Mass For A Mass Grave"
-categories:
-    - Vinyl
-images:
-    - "/images/covers/inquisition-black_mass_for_a_mass_grave.jpg"
-thumbnailImage: "/images/covers/inquisition-black_mass_for_a_mass_grave-thumb.jpg"
 actualPrice: $30.00
+album: Black Mass For A Mass Grave
+artist: Inquisition
+categories:
+- Vinyl
+date: '2021-06-26T15:22:49'
+draft: false
+images:
+- /images/covers/inquisition-black_mass_for_a_mass_grave.jpg
 inStock: true
+thumbnailImage: /images/covers/inquisition-black_mass_for_a_mass_grave-thumb.jpg
+title: Inquisition - Black Mass For A Mass Grave
 ---
 
 ## Vinyl
