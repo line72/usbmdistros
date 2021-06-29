@@ -7,4 +7,4 @@ theme = "bmstore"
     name = "U.S. Black Metal Distributor Index"
 
 [Params]
-    paginate = 24
+    paginate = 48
