@@ -1,10 +1,10 @@
 ---
-actualPrice: $10.00 - 15.00
+actualPrice: $7.50 - 11.25
 album: Darkside
 artist: Christ Agony
 categories:
 - CD
-date: '2021-06-26T15:23:04'
+date: '2021-06-29T15:06:19'
 draft: false
 images:
 - /images/covers/christ_agony-darkside.jpg
@@ -14,5 +14,5 @@ title: Christ Agony - Darkside
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=6041&sort=pd.name&order=ASC) for $10.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=5907&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=6041&sort=pd.name&order=ASC) for $7.50
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=5907&sort=pd.name&order=ASC) for $11.25

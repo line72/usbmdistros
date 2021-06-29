@@ -1,10 +1,10 @@
 ---
-actualPrice: $5.00
+actualPrice: $3.75
 album: Curse Man's Blame
 artist: Arathyr
 categories:
 - CD
-date: '2021-06-26T15:23:03'
+date: '2021-06-29T15:06:16'
 draft: false
 images:
 - /images/covers/arathyr-curse_man's_blame.jpg
@@ -14,4 +14,4 @@ title: Arathyr - Curse Man's Blame
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=458&sort=pd.name&order=ASC) for $5.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=458&sort=pd.name&order=ASC) for $3.75

@@ -1,10 +1,10 @@
 ---
-actualPrice: $8.00
+actualPrice: $6.00
 album: Hidden Horizon
 artist: Bonestorm
 categories:
 - CD
-date: '2021-06-26T15:23:04'
+date: '2021-06-29T15:06:18'
 draft: false
 images:
 - /images/covers/bonestorm-hidden_horizon.jpg
@@ -14,4 +14,4 @@ title: Bonestorm - Hidden Horizon
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=1427&sort=pd.name&order=ASC) for $8.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=1427&sort=pd.name&order=ASC) for $6.00

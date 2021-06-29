@@ -1,10 +1,10 @@
 ---
-actualPrice: $5.00
+actualPrice: $3.75
 album: As the End of a Journey
 artist: Skon
 categories:
 - CD
-date: '2021-06-26T15:23:15'
+date: '2021-06-29T15:06:33'
 draft: false
 images:
 - /images/covers/skon-as_the_end_of_a_journey.png
@@ -14,4 +14,4 @@ title: Skon - As the End of a Journey
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=1536&sort=pd.name&order=ASC) for $5.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=1536&sort=pd.name&order=ASC) for $3.75

@@ -1,10 +1,10 @@
 ---
-actualPrice: $7.00
+actualPrice: $5.25
 album: Mission One
 artist: Planet Hell
 categories:
 - CD
-date: '2021-06-26T15:23:13'
+date: '2021-06-29T15:06:31'
 draft: false
 images:
 - /images/covers/planet_hell-mission_one.jpg
@@ -14,4 +14,4 @@ title: Planet Hell - Mission One
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=1965&sort=pd.name&order=ASC) for $7.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=1965&sort=pd.name&order=ASC) for $5.25

@@ -6,7 +6,7 @@ categories:
 - Vinyl
 - Tape
 - CD
-date: '2021-06-26T15:23:05'
+date: '2021-06-29T15:06:20'
 draft: false
 images:
 - /images/covers/det_eviga_leendet-lenience.jpg
@@ -20,4 +20,4 @@ title: Det Eviga Leendet - Lenience
 ## Tape
 * Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/25965066-det-eviga-leendet-lenience) for $6.00
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=5338&sort=pd.name&order=ASC) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=5338&sort=pd.name&order=ASC) for $7.50

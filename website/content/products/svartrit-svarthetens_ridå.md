@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00
+actualPrice: $9.00
 album: "Svarthetens Rid\xE5"
 artist: Svartrit
 categories:
 - CD
-date: '2021-06-26T15:23:15'
+date: '2021-06-29T15:06:34'
 draft: false
 images:
 - "/images/covers/svartrit-svarthetens_rid\xE5.jpg"
@@ -14,4 +14,4 @@ title: "Svartrit - Svarthetens Rid\xE5"
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=4378&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=4378&sort=pd.name&order=ASC) for $9.00

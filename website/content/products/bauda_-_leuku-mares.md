@@ -1,10 +1,10 @@
 ---
-actualPrice: $5.00
+actualPrice: $3.75
 album: Mares
 artist: Bauda / Leuku
 categories:
 - CD
-date: '2021-06-26T15:23:03'
+date: '2021-06-29T15:06:17'
 draft: false
 images:
 - /images/covers/bauda_-_leuku-mares.jpg
@@ -14,4 +14,4 @@ title: Bauda / Leuku - Mares
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=1746&sort=pd.name&order=ASC) for $5.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=1746&sort=pd.name&order=ASC) for $3.75

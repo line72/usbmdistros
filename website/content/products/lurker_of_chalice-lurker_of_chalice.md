@@ -1,11 +1,11 @@
 ---
-actualPrice: $12.00 - 30.00
+actualPrice: $9.00 - 30.00
 album: Lurker of Chalice
 artist: Lurker Of Chalice
 categories:
 - Vinyl
 - CD
-date: '2021-06-26T15:23:10'
+date: '2021-06-29T15:06:27'
 draft: false
 images:
 - /images/covers/lurker_of_chalice-lurker_of_chalice.jpg
@@ -17,4 +17,4 @@ title: Lurker Of Chalice - Lurker of Chalice
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=16342&sort=pd.name&order=ASC) for $30.00
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=3441&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=3441&sort=pd.name&order=ASC) for $9.00

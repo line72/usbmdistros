@@ -1,10 +1,10 @@
 ---
-actualPrice: $25.00
+actualPrice: $18.75
 album: Tellurian Insurgency
 artist: Ploughshare
 categories:
 - Vinyl
-date: '2021-06-26T15:22:53'
+date: '2021-06-29T15:06:04'
 draft: false
 images:
 - /images/covers/ploughshare-tellurian_insurgency.jpg
@@ -14,4 +14,4 @@ title: Ploughshare - Tellurian Insurgency
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=7072&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=7072&sort=pd.name&order=ASC) for $18.75

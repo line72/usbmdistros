@@ -1,10 +1,10 @@
 ---
-actualPrice: $7.00
+actualPrice: $5.25
 album: Violent Raging Abyss
 artist: Bloodtomb
 categories:
 - Cassette
-date: '2021-06-26T15:23:19'
+date: '2021-06-29T15:06:38'
 draft: false
 images:
 - /images/covers/bloodtomb-violent_raging_abyss.png
@@ -14,4 +14,4 @@ title: Bloodtomb - Violent Raging Abyss
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=5189&sort=pd.name&order=ASC) for $7.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=5189&sort=pd.name&order=ASC) for $5.25

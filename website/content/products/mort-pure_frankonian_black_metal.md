@@ -1,10 +1,10 @@
 ---
-actualPrice: $5.00
+actualPrice: $3.75
 album: Pure Frankonian Black Metal
 artist: Mort
 categories:
 - CD
-date: '2021-06-26T15:23:11'
+date: '2021-06-29T15:06:28'
 draft: false
 images:
 - /images/covers/mort-pure_frankonian_black_metal.jpg
@@ -14,4 +14,4 @@ title: Mort - Pure Frankonian Black Metal
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=679&sort=pd.name&order=ASC) for $5.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=679&sort=pd.name&order=ASC) for $3.75

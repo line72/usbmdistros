@@ -1,10 +1,10 @@
 ---
-actualPrice: $5.00
+actualPrice: $3.75
 album: Skryti v Mlze
 artist: Trollech
 categories:
 - CD
-date: '2021-06-26T15:23:16'
+date: '2021-06-29T15:06:35'
 draft: false
 images:
 - /images/covers/trollech-skryti_v_mlze.png
@@ -14,4 +14,4 @@ title: Trollech - Skryti v Mlze
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=1160&sort=pd.name&order=ASC) for $5.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=1160&sort=pd.name&order=ASC) for $3.75

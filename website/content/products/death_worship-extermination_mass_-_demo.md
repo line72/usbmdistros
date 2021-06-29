@@ -1,10 +1,10 @@
 ---
-actualPrice: $17.00 - 40.00
+actualPrice: $12.75 - 40.00
 album: Extermination Mass - Demo
 artist: Death Worship
 categories:
 - Vinyl
-date: '2021-06-26T15:22:45'
+date: '2021-06-29T15:05:55'
 draft: false
 images:
 - /images/covers/death_worship-extermination_mass_-_demo.jpg
@@ -15,4 +15,4 @@ title: Death Worship - Extermination Mass - Demo
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=11280&sort=pd.name&order=ASC) for $40.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=4274&sort=pd.name&order=ASC) for $17.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=4274&sort=pd.name&order=ASC) for $12.75

@@ -1,10 +1,10 @@
 ---
-actualPrice: $5.00
+actualPrice: $3.75
 album: The Seed
 artist: Elimi
 categories:
 - CD
-date: '2021-06-26T15:23:06'
+date: '2021-06-29T15:06:21'
 draft: false
 images:
 - /images/covers/elimi-the_seed.jpg
@@ -14,4 +14,4 @@ title: Elimi - The Seed
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=1328&sort=pd.name&order=ASC) for $5.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=1328&sort=pd.name&order=ASC) for $3.75

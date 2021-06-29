@@ -1,11 +1,11 @@
 ---
-actualPrice: $10.00 - 20.00
+actualPrice: $7.50 - 20.00
 album: Emanatism
 artist: Amnutseba
 categories:
 - Vinyl
 - CD
-date: '2021-06-26T15:23:02'
+date: '2021-06-29T15:06:16'
 draft: false
 images:
 - /images/covers/amnutseba-emanatism.jpg
@@ -17,4 +17,4 @@ title: Amnutseba - Emanatism
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=13837&sort=pd.name&order=ASC) for $20.00
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=8060&sort=pd.name&order=ASC) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=8060&sort=pd.name&order=ASC) for $7.50

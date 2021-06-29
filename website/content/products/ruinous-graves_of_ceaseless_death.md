@@ -1,11 +1,11 @@
 ---
-actualPrice: $8.00 - 17.00
+actualPrice: $6.00 - 12.75
 album: Graves of Ceaseless Death
 artist: Ruinous
 categories:
 - Vinyl
 - CD
-date: '2021-06-26T15:23:14'
+date: '2021-06-29T15:06:32'
 draft: false
 images:
 - /images/covers/ruinous-graves_of_ceaseless_death.jpg
@@ -15,6 +15,6 @@ title: Ruinous - Graves of Ceaseless Death
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=2042&sort=pd.name&order=ASC) for $17.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=2042&sort=pd.name&order=ASC) for $12.75
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=1824&sort=pd.name&order=ASC) for $8.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=1824&sort=pd.name&order=ASC) for $6.00

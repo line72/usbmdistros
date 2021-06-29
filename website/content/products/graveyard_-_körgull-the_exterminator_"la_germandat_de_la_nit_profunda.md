@@ -1,10 +1,10 @@
 ---
-actualPrice: $10.00
+actualPrice: $7.50
 album: The Exterminator "La Germandat De La Nit Profunda
 artist: "Graveyard / K\xF6rgull"
 categories:
 - CD
-date: '2021-06-26T15:23:08'
+date: '2021-06-29T15:06:23'
 draft: false
 images:
 - "/images/covers/graveyard_-_k\xF6rgull-the_exterminator_\"la_germandat_de_la_nit_profunda.jpg"
@@ -14,4 +14,4 @@ title: "Graveyard / K\xF6rgull - The Exterminator \"La Germandat De La Nit Profu
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=3794&sort=pd.name&order=ASC) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=3794&sort=pd.name&order=ASC) for $7.50

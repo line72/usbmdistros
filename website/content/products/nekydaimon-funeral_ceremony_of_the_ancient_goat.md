@@ -1,10 +1,10 @@
 ---
-actualPrice: $7.00
+actualPrice: $5.25
 album: Funeral Ceremony of the Ancient Goat
 artist: Nekydaimon
 categories:
 - Cassette
-date: '2021-06-26T15:23:22'
+date: '2021-06-29T15:06:42'
 draft: false
 images:
 - /images/covers/nekydaimon-funeral_ceremony_of_the_ancient_goat.png
@@ -14,4 +14,4 @@ title: Nekydaimon - Funeral Ceremony of the Ancient Goat
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=5764&sort=pd.name&order=ASC) for $7.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=5764&sort=pd.name&order=ASC) for $5.25

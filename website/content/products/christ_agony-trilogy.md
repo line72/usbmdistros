@@ -1,10 +1,10 @@
 ---
-actualPrice: $10.00
+actualPrice: $7.50
 album: Trilogy
 artist: Christ Agony
 categories:
 - CD
-date: '2021-06-26T15:23:04'
+date: '2021-06-29T15:06:19'
 draft: false
 images:
 - /images/covers/christ_agony-trilogy.jpg
@@ -14,4 +14,4 @@ title: Christ Agony - Trilogy
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=5722&sort=pd.name&order=ASC) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=5722&sort=pd.name&order=ASC) for $7.50

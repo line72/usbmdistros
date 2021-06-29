@@ -1,10 +1,10 @@
 ---
-actualPrice: $10.00
+actualPrice: $7.50
 album: Mysteria Mystica Calvus Mons
 artist: Shadows Ground
 categories:
 - CD
-date: '2021-06-26T15:23:15'
+date: '2021-06-29T15:06:33'
 draft: false
 images:
 - /images/covers/shadows_ground-mysteria_mystica_calvus_mons.png
@@ -14,4 +14,4 @@ title: Shadows Ground - Mysteria Mystica Calvus Mons
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=5168&sort=pd.name&order=ASC) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=5168&sort=pd.name&order=ASC) for $7.50

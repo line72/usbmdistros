@@ -1,11 +1,11 @@
 ---
-actualPrice: $10.00
+actualPrice: $7.50
 album: "\u0422\u044A\u0442\u0435\u043D\u0438 \u041E\u0433\u043B\u0430\u0441\u044F\u0442\
   \ \u0422\u0438\u0448\u0438\u043D\u0430\u0442\u0430"
 artist: "\u041F\u043E\u043B\u0443\u0432\u0440\u0430\u043A (Poluvrak)"
 categories:
 - CD
-date: '2021-06-26T15:23:18'
+date: '2021-06-29T15:06:37'
 draft: false
 images:
 - "/images/covers/\u043F\u043E\u043B\u0443\u0432\u0440\u0430\u043A_(poluvrak)-\u0442\
@@ -21,4 +21,4 @@ title: "\u041F\u043E\u043B\u0443\u0432\u0440\u0430\u043A (Poluvrak) - \u0422\u04
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=5241&sort=pd.name&order=ASC) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=5241&sort=pd.name&order=ASC) for $7.50

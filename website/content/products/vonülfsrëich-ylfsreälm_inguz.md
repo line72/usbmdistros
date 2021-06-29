@@ -1,10 +1,10 @@
 ---
-actualPrice: $10.00
+actualPrice: $7.50
 album: "Ylfsre\xE4lm Inguz"
 artist: "Von\xFClfsr\xEBich"
 categories:
 - CD
-date: '2021-06-26T15:23:17'
+date: '2021-06-29T15:06:36'
 draft: false
 images:
 - "/images/covers/von\xFClfsr\xEBich-ylfsre\xE4lm_inguz.png"
@@ -14,4 +14,4 @@ title: "Von\xFClfsr\xEBich - Ylfsre\xE4lm Inguz"
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=6286&sort=pd.name&order=ASC) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=6286&sort=pd.name&order=ASC) for $7.50

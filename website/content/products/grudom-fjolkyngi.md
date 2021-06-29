@@ -1,10 +1,10 @@
 ---
-actualPrice: $8.00
+actualPrice: $6.00
 album: Fjolkyngi
 artist: Grudom
 categories:
 - CD
-date: '2021-06-26T15:23:08'
+date: '2021-06-29T15:06:24'
 draft: false
 images:
 - /images/covers/grudom-fjolkyngi.jpg
@@ -14,4 +14,4 @@ title: Grudom - Fjolkyngi
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=2676&sort=pd.name&order=ASC) for $8.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=2676&sort=pd.name&order=ASC) for $6.00

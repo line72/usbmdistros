@@ -1,10 +1,10 @@
 ---
-actualPrice: $18.00
+actualPrice: $13.50
 album: Memorious
 artist: Vex
 categories:
 - Vinyl
-date: '2021-06-26T15:22:57'
+date: '2021-06-29T15:06:09'
 draft: false
 images:
 - /images/covers/vex-memorious.jpg
@@ -14,4 +14,4 @@ title: Vex - Memorious
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=1749&sort=pd.name&order=ASC) for $18.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=1749&sort=pd.name&order=ASC) for $13.50

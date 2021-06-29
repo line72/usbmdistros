@@ -1,10 +1,10 @@
 ---
-actualPrice: $7.00
+actualPrice: $5.25
 album: A Ticket to Nowhere
 artist: Frostmoon Eclipse
 categories:
 - Vinyl
-date: '2021-06-26T15:23:00'
+date: '2021-06-29T15:06:12'
 draft: false
 images:
 - /images/covers/frostmoon_eclipse-a_ticket_to_nowhere.jpg
@@ -14,4 +14,4 @@ title: Frostmoon Eclipse - A Ticket to Nowhere
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=691&sort=pd.name&order=ASC) for $7.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=691&sort=pd.name&order=ASC) for $5.25

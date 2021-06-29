@@ -1,11 +1,11 @@
 ---
-actualPrice: $12.00 - 30.00
+actualPrice: $9.00 - 30.00
 album: Tellurian Slaked Furnace
 artist: Lurker Of Chalice
 categories:
 - Vinyl
 - CD
-date: '2021-06-26T15:23:10'
+date: '2021-06-29T15:06:27'
 draft: false
 images:
 - /images/covers/lurker_of_chalice-tellurian_slaked_furnace.jpg
@@ -17,4 +17,4 @@ title: Lurker Of Chalice - Tellurian Slaked Furnace
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=16341&sort=pd.name&order=ASC) for $30.00
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=6579&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=6579&sort=pd.name&order=ASC) for $9.00

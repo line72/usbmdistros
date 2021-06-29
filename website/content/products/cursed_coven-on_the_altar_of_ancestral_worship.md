@@ -1,10 +1,10 @@
 ---
-actualPrice: $8.00
+actualPrice: $6.00
 album: On the Altar of Ancestral Worship
 artist: Cursed Coven
 categories:
 - Cassette
-date: '2021-06-26T15:23:20'
+date: '2021-06-29T15:06:39'
 draft: false
 images:
 - /images/covers/cursed_coven-on_the_altar_of_ancestral_worship.png
@@ -14,4 +14,4 @@ title: Cursed Coven - On the Altar of Ancestral Worship
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=8725&sort=pd.name&order=ASC) for $8.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=8725&sort=pd.name&order=ASC) for $6.00

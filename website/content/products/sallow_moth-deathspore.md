@@ -1,10 +1,10 @@
 ---
-actualPrice: $10.00
+actualPrice: $7.50
 album: Deathspore
 artist: Sallow Moth
 categories:
 - CD
-date: '2021-06-26T15:23:14'
+date: '2021-06-29T15:06:32'
 draft: false
 images:
 - /images/covers/sallow_moth-deathspore.png
@@ -14,4 +14,4 @@ title: Sallow Moth - Deathspore
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=3721&sort=pd.name&order=ASC) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=3721&sort=pd.name&order=ASC) for $7.50

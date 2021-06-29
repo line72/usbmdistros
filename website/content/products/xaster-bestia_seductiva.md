@@ -1,10 +1,10 @@
 ---
-actualPrice: $5.00
+actualPrice: $3.75
 album: Bestia Seductiva
 artist: Xaster
 categories:
 - Cassette
-date: '2021-06-26T15:23:24'
+date: '2021-06-29T15:06:46'
 draft: false
 images:
 - /images/covers/xaster-bestia_seductiva.png
@@ -14,4 +14,4 @@ title: Xaster - Bestia Seductiva
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=1192&sort=pd.name&order=ASC) for $5.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=1192&sort=pd.name&order=ASC) for $3.75

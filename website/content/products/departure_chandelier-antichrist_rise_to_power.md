@@ -1,10 +1,10 @@
 ---
-actualPrice: $10.00
+actualPrice: $7.50
 album: Antichrist Rise To Power
 artist: Departure Chandelier
 categories:
 - CD
-date: '2021-06-26T15:23:05'
+date: '2021-06-29T15:06:20'
 draft: false
 images:
 - /images/covers/departure_chandelier-antichrist_rise_to_power.jpg
@@ -14,4 +14,4 @@ title: Departure Chandelier - Antichrist Rise To Power
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=6811&sort=pd.name&order=ASC) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=6811&sort=pd.name&order=ASC) for $7.50

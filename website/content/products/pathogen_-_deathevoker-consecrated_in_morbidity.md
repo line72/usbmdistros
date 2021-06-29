@@ -1,10 +1,10 @@
 ---
-actualPrice: $7.00
+actualPrice: $5.25
 album: Consecrated in Morbidity
 artist: Pathogen / Deathevoker
 categories:
 - CD
-date: '2021-06-26T15:23:13'
+date: '2021-06-29T15:06:31'
 draft: false
 images:
 - /images/covers/pathogen_-_deathevoker-consecrated_in_morbidity.jpg
@@ -14,4 +14,4 @@ title: Pathogen / Deathevoker - Consecrated in Morbidity
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=2281&sort=pd.name&order=ASC) for $7.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=2281&sort=pd.name&order=ASC) for $5.25

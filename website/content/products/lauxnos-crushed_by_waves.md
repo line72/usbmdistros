@@ -1,10 +1,10 @@
 ---
-actualPrice: $10.00
+actualPrice: $7.50
 album: Crushed by Waves
 artist: Lauxnos
 categories:
 - CD
-date: '2021-06-26T15:23:10'
+date: '2021-06-29T15:06:27'
 draft: false
 images:
 - /images/covers/lauxnos-crushed_by_waves.jpg
@@ -14,4 +14,4 @@ title: Lauxnos - Crushed by Waves
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=8261&sort=pd.name&order=ASC) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=8261&sort=pd.name&order=ASC) for $7.50

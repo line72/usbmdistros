@@ -1,10 +1,10 @@
 ---
-actualPrice: $10.00
+actualPrice: $7.50
 album: Supremacy / Nema
 artist: Profane Creation
 categories:
 - CD
-date: '2021-06-26T15:23:13'
+date: '2021-06-29T15:06:31'
 draft: false
 images:
 - /images/covers/profane_creation-supremacy_-_nema.png
@@ -14,4 +14,4 @@ title: Profane Creation - Supremacy / Nema
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=3075&sort=pd.name&order=ASC) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=3075&sort=pd.name&order=ASC) for $7.50

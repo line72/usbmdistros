@@ -1,10 +1,10 @@
 ---
-actualPrice: $6.00
+actualPrice: $4.50
 album: Harbingers of Hatred
 artist: Taggarik
 categories:
 - Cassette
-date: '2021-06-26T15:23:23'
+date: '2021-06-29T15:06:44'
 draft: false
 images:
 - /images/covers/taggarik-harbingers_of_hatred.png
@@ -14,4 +14,4 @@ title: Taggarik - Harbingers of Hatred
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=2714&sort=pd.name&order=ASC) for $6.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=2714&sort=pd.name&order=ASC) for $4.50

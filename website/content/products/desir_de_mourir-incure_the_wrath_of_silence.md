@@ -1,10 +1,10 @@
 ---
-actualPrice: $5.00
+actualPrice: $3.75
 album: Incure the Wrath of Silence
 artist: Desir de Mourir
 categories:
 - CD
-date: '2021-06-26T15:23:05'
+date: '2021-06-29T15:06:20'
 draft: false
 images:
 - /images/covers/desir_de_mourir-incure_the_wrath_of_silence.jpg
@@ -14,4 +14,4 @@ title: Desir de Mourir - Incure the Wrath of Silence
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=2177&sort=pd.name&order=ASC) for $5.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=2177&sort=pd.name&order=ASC) for $3.75

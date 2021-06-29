@@ -1,10 +1,10 @@
 ---
-actualPrice: $10.00
+actualPrice: $7.50
 album: El Legado de la Serpiente
 artist: Edipus
 categories:
 - CD
-date: '2021-06-26T15:23:06'
+date: '2021-06-29T15:06:21'
 draft: false
 images:
 - /images/covers/edipus-el_legado_de_la_serpiente.jpg
@@ -14,4 +14,4 @@ title: Edipus - El Legado de la Serpiente
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=6855&sort=pd.name&order=ASC) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=6855&sort=pd.name&order=ASC) for $7.50

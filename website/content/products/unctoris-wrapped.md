@@ -1,10 +1,10 @@
 ---
-actualPrice: $6.00
+actualPrice: $4.50
 album: Wrapped
 artist: Unctoris
 categories:
 - CD
-date: '2021-06-26T15:23:17'
+date: '2021-06-29T15:06:35'
 draft: false
 images:
 - /images/covers/unctoris-wrapped.png
@@ -14,4 +14,4 @@ title: Unctoris - Wrapped
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=1748&sort=pd.name&order=ASC) for $6.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=1748&sort=pd.name&order=ASC) for $4.50
