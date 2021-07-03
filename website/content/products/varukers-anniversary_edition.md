@@ -4,7 +4,7 @@ album: Anniversary Edition
 artist: Varukers
 categories:
 - CD
-date: '2021-06-26T15:23:17'
+date: '2021-07-03T15:02:29'
 draft: false
 images:
 - /images/covers/varukers-anniversary_edition.png
@@ -15,3 +15,4 @@ title: Varukers - Anniversary Edition
 
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=11318&sort=pd.name&order=ASC) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=16527&sort=pd.name&order=ASC) for $10.00
