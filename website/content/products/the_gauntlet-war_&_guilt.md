@@ -1,10 +1,10 @@
 ---
-actualPrice: $7.50
+actualPrice: $6.50
 album: War & Guilt
 artist: The Gauntlet
 categories:
 - Tape
-date: '2021-06-26T15:16:24'
+date: '2021-07-06T12:57:20'
 draft: false
 images:
 - /images/covers/the_gauntlet-war_&_guilt.jpg
@@ -14,4 +14,4 @@ title: The Gauntlet - War & Guilt
 ---
 
 ## Tape
-* Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/31068595-the-gauntlet-war-guilt) for $7.50
+* Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/31068595-the-gauntlet-war-guilt) for $6.50

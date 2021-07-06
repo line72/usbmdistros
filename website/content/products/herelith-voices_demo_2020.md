@@ -1,10 +1,10 @@
 ---
-actualPrice: $7.50
+actualPrice: $6.50
 album: Voices Demo 2020
 artist: Herelith
 categories:
 - Tape
-date: '2021-06-26T15:16:24'
+date: '2021-07-06T12:57:20'
 draft: false
 images:
 - /images/covers/herelith-voices_demo_2020.jpg
@@ -14,4 +14,4 @@ title: Herelith - Voices Demo 2020
 ---
 
 ## Tape
-* Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/31111837-herelith-voices-demo-2020) for $7.50
+* Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/31111837-herelith-voices-demo-2020) for $6.50

@@ -1,10 +1,10 @@
 ---
-actualPrice: $8.00
+actualPrice: $6.00
 album: Angel Slaughter
 artist: Goatkraft
 categories:
 - Tape
-date: '2021-06-26T15:16:21'
+date: '2021-07-06T12:57:17'
 draft: false
 images:
 - /images/covers/goatkraft-angel_slaughter.jpg
@@ -14,4 +14,4 @@ title: Goatkraft - Angel Slaughter
 ---
 
 ## Tape
-* Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/32339695-goatkraft-angel-slaughter) for $8.00
+* Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/32339695-goatkraft-angel-slaughter) for $6.00

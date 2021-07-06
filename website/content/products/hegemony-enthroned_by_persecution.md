@@ -1,10 +1,10 @@
 ---
-actualPrice: $8.00
+actualPrice: $6.50
 album: Enthroned By Persecution
 artist: Hegemony
 categories:
 - Tape
-date: '2021-06-26T15:16:24'
+date: '2021-07-06T12:57:20'
 draft: false
 images:
 - /images/covers/hegemony-enthroned_by_persecution.jpg
@@ -14,4 +14,4 @@ title: Hegemony - Enthroned By Persecution
 ---
 
 ## Tape
-* Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/30926524-hegemony-enthroned-by-persecution) for $8.00
+* Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/30926524-hegemony-enthroned-by-persecution) for $6.50

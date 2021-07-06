@@ -38,6 +38,7 @@ class ArcaneAltar(Parser):
             ('7ep', 'Vinyl', re.compile(r'^\s*(.*?)\s+7″\s+EP$')),
             ('7ep', 'Vinyl', re.compile(r'^\s*(.*?)\s+7”\s+EP$')),
             ('2xlp', 'Vinyl', re.compile(r'^\s*(.*?)\s+\dxLP$')),
+            ('5xlp', 'Vinyl', re.compile(r'^\s*(.*?)\s+\dxLP\s+Box\s+Set$')),
             ('2xmlp', 'Vinyl', re.compile(r'^\s*(.*?)\s+2x10"\s+MLP$')),
             ('2xmlp', 'Vinyl', re.compile(r'^\s*(.*?)\s+2x10’’\s+MLP$')),
             ('cd', 'CD', re.compile(r'^\s*(.*?)\s+CD$')),
