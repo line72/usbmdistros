@@ -95,7 +95,7 @@ class DB:
         
         return map(load_covers, resp)
 
-    def get_products_for_album(self, album):
+    def get_products_for_album(self, album, last_seen_at):
         # a cursors iterator is shared
         #  so create a new one
         cur = self.conn.cursor()
@@ -120,10 +120,11 @@ class DB:
               stores AS s
             WHERE
               p.album_id = ? AND
-              p.store_id = s.id
+              p.store_id = s.id AND
+              p.last_seen_at > ?
             ORDER BY
               p.id
-            ''', (album.aId,))
+            ''', (album.aId, last_seen_at))
         
         return map(lambda i: Product(i['id'], i['sku'], album,
                                      Store(i['store_id'], i['store_name'], i['store_url']),

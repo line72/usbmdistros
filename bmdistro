@@ -7,10 +7,11 @@
 #
 
 import libbmdistro
-
+import datetime
 
 def go():
     db = libbmdistro.DB()
+    now = datetime.datetime.utcnow()
 
     stores = {
         'stovokor': db.get_store(libbmdistro.Store(None, "Sto'Vo'Kor Records", "https://stovokor-records.com")),
@@ -56,7 +57,7 @@ def go():
     gf.go(db)
                     
     o = libbmdistro.OutputWriter()
-    o.write(db, 'website')
+    o.write(db, 'website', now)
 
 if __name__ == '__main__':
     go()

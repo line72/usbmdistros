@@ -31,7 +31,7 @@ actualPrice: $24.00
 '''
 
 class OutputWriter:
-    def write(self, db, base_directory):
+    def write(self, db, base_directory, last_seen_at):
         image_dir = os.path.join(base_directory, 'static', 'images', 'covers')
         try: os.makedirs(image_dir)
         except OSError: pass
@@ -54,7 +54,7 @@ class OutputWriter:
                 print(f'parsing {i}', album)
                 artist = db.get_artist(album.artist.name, True)
 
-                products = list(db.get_products_for_album(album))
+                products = list(db.get_products_for_album(album, last_seen_at))
 
                 futures.append(executor.submit(self.write_product_for_album,
                                                base_directory, image_dir,
