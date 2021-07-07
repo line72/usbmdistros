@@ -4,7 +4,7 @@ album: Mortal Enlightenment
 artist: "Voyeur's Blood \u200E\u2013 The Dawning of Post"
 categories:
 - Vinyl
-date: '2021-06-26T15:02:54'
+date: '2021-07-07T15:33:11'
 draft: false
 images:
 - "/images/covers/voyeur's_blood_\u200E\u2013_the_dawning_of_post-mortal_enlightenment.jpg"

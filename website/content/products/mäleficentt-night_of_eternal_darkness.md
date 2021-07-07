@@ -4,7 +4,7 @@ album: Night of Eternal Darkness
 artist: "M\xE4leficentt"
 categories:
 - Vinyl
-date: '2021-06-26T15:22:50'
+date: '2021-07-07T15:33:10'
 draft: false
 images:
 - "/images/covers/m\xE4leficentt-night_of_eternal_darkness.jpg"
