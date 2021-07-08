@@ -4,7 +4,7 @@ album: Sol Nox
 artist: Ofermod
 categories:
 - Vinyl
-date: '2021-06-26T15:02:54'
+date: '2021-07-08T21:43:05'
 draft: false
 images:
 - /images/covers/ofermod-sol_nox.jpg
