@@ -4,7 +4,7 @@ album: Split
 artist: Calling of Phasmic Presence / Ceremonial Crypt Desecration
 categories:
 - Vinyl
-date: '2021-07-10T16:58:01'
+date: '2021-07-10T19:51:08'
 draft: false
 images:
 - /images/covers/calling_of_phasmic_presence_-_ceremonial_crypt_desecration-split.jpg

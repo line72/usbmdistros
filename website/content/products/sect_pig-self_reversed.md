@@ -5,7 +5,7 @@ artist: Sect Pig
 categories:
 - Vinyl
 - CD
-date: '2021-06-29T15:06:33'
+date: '2021-07-10T19:58:26'
 draft: false
 images:
 - /images/covers/sect_pig-self_reversed.jpg
@@ -18,3 +18,4 @@ title: Sect Pig - Self Reversed
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=3005&sort=pd.name&order=ASC) for $12.75
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=2400&sort=pd.name&order=ASC) for $5.25
+* Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/sect-pig-self-reversed-cd/) for $8.00
