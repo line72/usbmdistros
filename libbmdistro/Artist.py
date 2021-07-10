@@ -11,4 +11,4 @@ class Artist:
         self.genres = []
 
     def __str__(self):
-        return f"<Aritst::{self.name}>"
+        return f"<Artist::{self.name}>"

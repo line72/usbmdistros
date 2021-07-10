@@ -8,5 +8,6 @@ from .Parser import Parser
 from .ArcaneAltar import ArcaneAltar
 from .Caligari import Caligari
 from .DebemurMorti import DebemurMorti
+from .MetalToTheCore1986 import MetalToTheCore1986
 from .NWN import NWN
 from .StoVoKor import StoVoKor
