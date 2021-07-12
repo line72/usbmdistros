@@ -7,10 +7,10 @@ categories:
 date: '2021-07-10T19:58:25'
 draft: false
 images:
-- "/images/covers/morbital-\u043C\u0435\u0447_\u043C\u0438\u0440\u0443.png"
+- "/images/covers/morbital-\u043C\u0435\u0447_\u043C\u0438\u0440\u0443.jpg"
 inStock: true
 thumbnailImage: "/images/covers/morbital-\u043C\u0435\u0447_\u043C\u0438\u0440\u0443\
-  -thumb.png"
+  -thumb.jpg"
 title: "Morbital - \u041C\u0435\u0447 \u043C\u0438\u0440\u0443"
 ---
 

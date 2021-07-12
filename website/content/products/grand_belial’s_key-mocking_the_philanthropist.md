@@ -7,9 +7,9 @@ categories:
 date: '2021-07-10T19:58:26'
 draft: false
 images:
-- "/images/covers/grand_belial\u2019s_key-mocking_the_philanthropist.png"
+- "/images/covers/grand_belial\u2019s_key-mocking_the_philanthropist.jpg"
 inStock: true
-thumbnailImage: "/images/covers/grand_belial\u2019s_key-mocking_the_philanthropist-thumb.png"
+thumbnailImage: "/images/covers/grand_belial\u2019s_key-mocking_the_philanthropist-thumb.jpg"
 title: "Grand Belial\u2019S Key - Mocking the Philanthropist"
 ---
 

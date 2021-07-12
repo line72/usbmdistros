@@ -7,9 +7,9 @@ categories:
 date: '2021-07-10T19:58:25'
 draft: false
 images:
-- /images/covers/hate_forest-sorrow.png
+- /images/covers/hate_forest-sorrow.jpg
 inStock: true
-thumbnailImage: /images/covers/hate_forest-sorrow-thumb.png
+thumbnailImage: /images/covers/hate_forest-sorrow-thumb.jpg
 title: Hate Forest - Sorrow
 ---
 

@@ -7,9 +7,9 @@ categories:
 date: '2021-07-10T19:58:25'
 draft: false
 images:
-- /images/covers/perverted_ceremony-sabbat_of_behezael.png
+- /images/covers/perverted_ceremony-sabbat_of_behezael.jpg
 inStock: true
-thumbnailImage: /images/covers/perverted_ceremony-sabbat_of_behezael-thumb.png
+thumbnailImage: /images/covers/perverted_ceremony-sabbat_of_behezael-thumb.jpg
 title: Perverted Ceremony - Sabbat of Behezael
 ---
 

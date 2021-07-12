@@ -7,9 +7,9 @@ categories:
 date: '2021-07-10T19:58:25'
 draft: false
 images:
-- /images/covers/emperor-wrath_of_the_tyrant.png
+- /images/covers/emperor-wrath_of_the_tyrant.jpg
 inStock: true
-thumbnailImage: /images/covers/emperor-wrath_of_the_tyrant-thumb.png
+thumbnailImage: /images/covers/emperor-wrath_of_the_tyrant-thumb.jpg
 title: Emperor - Wrath of the Tyrant
 ---
 

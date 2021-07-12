@@ -7,9 +7,9 @@ categories:
 date: '2021-07-10T19:58:25'
 draft: false
 images:
-- /images/covers/mutiilation-sorrow_galaxies.png
+- /images/covers/mutiilation-sorrow_galaxies.jpg
 inStock: true
-thumbnailImage: /images/covers/mutiilation-sorrow_galaxies-thumb.png
+thumbnailImage: /images/covers/mutiilation-sorrow_galaxies-thumb.jpg
 title: Mutiilation - Sorrow Galaxies
 ---
 

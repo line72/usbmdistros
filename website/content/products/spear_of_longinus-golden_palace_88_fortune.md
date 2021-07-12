@@ -7,9 +7,9 @@ categories:
 date: '2021-07-10T19:58:25'
 draft: false
 images:
-- /images/covers/spear_of_longinus-golden_palace_88_fortune.png
+- /images/covers/spear_of_longinus-golden_palace_88_fortune.jpg
 inStock: true
-thumbnailImage: /images/covers/spear_of_longinus-golden_palace_88_fortune-thumb.png
+thumbnailImage: /images/covers/spear_of_longinus-golden_palace_88_fortune-thumb.jpg
 title: Spear Of Longinus - Golden Palace 88 Fortune
 ---
 

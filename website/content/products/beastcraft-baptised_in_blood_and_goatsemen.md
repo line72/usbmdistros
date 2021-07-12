@@ -7,9 +7,9 @@ categories:
 date: '2021-07-10T19:58:25'
 draft: false
 images:
-- /images/covers/beastcraft-baptised_in_blood_and_goatsemen.png
+- /images/covers/beastcraft-baptised_in_blood_and_goatsemen.jpg
 inStock: true
-thumbnailImage: /images/covers/beastcraft-baptised_in_blood_and_goatsemen-thumb.png
+thumbnailImage: /images/covers/beastcraft-baptised_in_blood_and_goatsemen-thumb.jpg
 title: Beastcraft - Baptised in Blood and Goatsemen
 ---
 

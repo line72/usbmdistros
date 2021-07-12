@@ -7,9 +7,9 @@ categories:
 date: '2021-07-10T19:58:25'
 draft: false
 images:
-- "/images/covers/ungfell-t\xF4tbring\xE6re.png"
+- "/images/covers/ungfell-t\xF4tbring\xE6re.jpg"
 inStock: true
-thumbnailImage: "/images/covers/ungfell-t\xF4tbring\xE6re-thumb.png"
+thumbnailImage: "/images/covers/ungfell-t\xF4tbring\xE6re-thumb.jpg"
 title: "Ungfell - T\xF4tbring\xE6re"
 ---
 

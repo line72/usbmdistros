@@ -7,9 +7,9 @@ categories:
 date: '2021-07-10T19:58:25'
 draft: false
 images:
-- /images/covers/mayhem-de_mysteriis_dom_sathanas.png
+- /images/covers/mayhem-de_mysteriis_dom_sathanas.jpg
 inStock: true
-thumbnailImage: /images/covers/mayhem-de_mysteriis_dom_sathanas-thumb.png
+thumbnailImage: /images/covers/mayhem-de_mysteriis_dom_sathanas-thumb.jpg
 title: Mayhem - De Mysteriis Dom Sathanas
 ---
 

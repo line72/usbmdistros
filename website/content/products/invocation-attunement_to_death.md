@@ -1,12 +1,13 @@
 ---
-actualPrice: $8.00 - 10.00
+actualPrice: $8.00 - 27.00
 album: Attunement To Death
 artist: Invocation
 categories:
+- Vinyl
 - Tape
 - Cassette
 - CD
-date: '2021-06-26T15:23:21'
+date: '2021-07-11T20:52:16'
 draft: false
 images:
 - /images/covers/invocation-attunement_to_death.jpg
@@ -15,6 +16,8 @@ thumbnailImage: /images/covers/invocation-attunement_to_death-thumb.jpg
 title: Invocation - Attunement To Death
 ---
 
+## Vinyl
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/invocation-attunement-to-death) for $27.00 :: Black 1st press vinyl
 ## Tape
 * Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/32362381-invocation-attunement-to-death) for $9.50
 ## Cassette

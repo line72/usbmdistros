@@ -7,9 +7,9 @@ categories:
 date: '2021-07-10T19:58:25'
 draft: false
 images:
-- /images/covers/burzum-aske.png
+- /images/covers/burzum-aske.jpg
 inStock: true
-thumbnailImage: /images/covers/burzum-aske-thumb.png
+thumbnailImage: /images/covers/burzum-aske-thumb.jpg
 title: Burzum - Aske
 ---
 

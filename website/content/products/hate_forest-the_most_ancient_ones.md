@@ -7,9 +7,9 @@ categories:
 date: '2021-07-10T19:58:25'
 draft: false
 images:
-- /images/covers/hate_forest-the_most_ancient_ones.png
+- /images/covers/hate_forest-the_most_ancient_ones.jpg
 inStock: true
-thumbnailImage: /images/covers/hate_forest-the_most_ancient_ones-thumb.png
+thumbnailImage: /images/covers/hate_forest-the_most_ancient_ones-thumb.jpg
 title: Hate Forest - The Most Ancient Ones
 ---
 

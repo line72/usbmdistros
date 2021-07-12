@@ -1,10 +1,10 @@
 ---
-actualPrice: $24.99
+actualPrice: $24.99 - 29.00
 album: So fallen alle Tempel
 artist: Aara
 categories:
 - Vinyl
-date: '2021-06-26T15:15:51'
+date: '2021-07-11T20:52:26'
 draft: false
 images:
 - /images/covers/aara-so_fallen_alle_tempel.jpg
@@ -15,3 +15,5 @@ title: Aara - So fallen alle Tempel
 
 ## Vinyl
 * Purchase from [Debemur Morti](https://debemurmorti.aisamerch.com/item/99579) for $24.99
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/aara-so-fallen-alle-tempel) for $25.00 :: Tri-color w/ Splatter 1st press
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/aara-so-fallen-alle-tempel) for $29.00 :: Purple/White Galaxy 2021 press vinyl

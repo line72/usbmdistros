@@ -7,9 +7,9 @@ categories:
 date: '2021-07-10T19:58:25'
 draft: false
 images:
-- /images/covers/odium_totus-in_inceptum_finis_est.png
+- /images/covers/odium_totus-in_inceptum_finis_est.jpg
 inStock: true
-thumbnailImage: /images/covers/odium_totus-in_inceptum_finis_est-thumb.png
+thumbnailImage: /images/covers/odium_totus-in_inceptum_finis_est-thumb.jpg
 title: Odium Totus - In Inceptum Finis Est
 ---
 

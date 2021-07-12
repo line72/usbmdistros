@@ -7,9 +7,9 @@ categories:
 date: '2021-07-10T19:58:26'
 draft: false
 images:
-- /images/covers/crucifier-trampled_under_cloven_hooves.png
+- /images/covers/crucifier-trampled_under_cloven_hooves.jpg
 inStock: true
-thumbnailImage: /images/covers/crucifier-trampled_under_cloven_hooves-thumb.png
+thumbnailImage: /images/covers/crucifier-trampled_under_cloven_hooves-thumb.jpg
 title: Crucifier - Trampled Under Cloven Hooves
 ---
 

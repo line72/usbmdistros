@@ -1,10 +1,10 @@
 ---
-actualPrice: $25.00
+actualPrice: $23.00 - 25.00
 album: Henholdsvis
 artist: Taake / Helheim
 categories:
 - Vinyl
-date: '2021-06-26T15:22:56'
+date: '2021-07-11T20:52:14'
 draft: false
 images:
 - /images/covers/taake_-_helheim-henholdsvis.jpg
@@ -15,3 +15,7 @@ title: Taake / Helheim - Henholdsvis
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=15308&sort=pd.name&order=ASC) for $25.00
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/taake-henholdsvis-10) for $23.00 :: Black 1st press vinyl
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/taake-henholdsvis-10) for $25.00 :: White 1st press vinyl
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/taake-henholdsvis-10) for $25.00 :: Blue 1st press vinyl
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/taake-henholdsvis-10) for $25.00 :: Red 1st press vinyl

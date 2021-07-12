@@ -7,9 +7,9 @@ categories:
 date: '2021-07-10T19:58:25'
 draft: false
 images:
-- /images/covers/hate_forest-purity.png
+- /images/covers/hate_forest-purity.jpg
 inStock: true
-thumbnailImage: /images/covers/hate_forest-purity-thumb.png
+thumbnailImage: /images/covers/hate_forest-purity-thumb.jpg
 title: Hate Forest - Purity
 ---
 

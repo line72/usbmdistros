@@ -7,9 +7,9 @@ categories:
 date: '2021-07-10T19:58:25'
 draft: false
 images:
-- /images/covers/emperor-emperor.png
+- /images/covers/emperor-emperor.jpg
 inStock: true
-thumbnailImage: /images/covers/emperor-emperor-thumb.png
+thumbnailImage: /images/covers/emperor-emperor-thumb.jpg
 title: Emperor - Emperor
 ---
 

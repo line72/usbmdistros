@@ -7,9 +7,9 @@ categories:
 date: '2021-07-10T19:58:25'
 draft: false
 images:
-- /images/covers/mayhem-live_in_leipzig.png
+- /images/covers/mayhem-live_in_leipzig.jpg
 inStock: true
-thumbnailImage: /images/covers/mayhem-live_in_leipzig-thumb.png
+thumbnailImage: /images/covers/mayhem-live_in_leipzig-thumb.jpg
 title: Mayhem - Live in Leipzig
 ---
 

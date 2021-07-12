@@ -7,9 +7,9 @@ categories:
 date: '2021-07-10T19:58:26'
 draft: false
 images:
-- /images/covers/runespell-unhallowed_blood_oath.png
+- /images/covers/runespell-unhallowed_blood_oath.jpg
 inStock: true
-thumbnailImage: /images/covers/runespell-unhallowed_blood_oath-thumb.png
+thumbnailImage: /images/covers/runespell-unhallowed_blood_oath-thumb.jpg
 title: Runespell - Unhallowed Blood Oath
 ---
 
