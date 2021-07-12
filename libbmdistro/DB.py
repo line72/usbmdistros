@@ -5,6 +5,8 @@
 
 import datetime
 import sqlite3
+import random
+import time
 
 from .Album import Album
 from .Artist import Artist
@@ -18,11 +20,27 @@ class DB:
     def __init__(self, verify = True):
         self.conn = sqlite3.connect('bmdistro.db', detect_types = sqlite3.PARSE_DECLTYPES | sqlite3.PARSE_COLNAMES)
         self.conn.row_factory = sqlite3.Row # allow using dictionary for access
-        self.cursor = self.conn.cursor()
 
         if verify:
             self.create_verify_database()
 
+    def retry(f):
+        '''
+        Retry the database after an operationalError
+        '''
+        def wrapper(*args, **kwargs):
+            ntries = 1
+            while ntries <= 100:
+                ntries += 1
+                try:
+                    return f(*args, **kwargs)
+                except sqlite3.OperationalError as e:
+                    print('retrying db...', e, f, *args)
+                    delay = random.uniform(0.9, 1.1)
+                    time.sleep(delay)
+
+        return wrapper
+            
     def get_all_stores(self):
         # a cursors iterator is shared
         #  so create a new one
@@ -134,6 +152,7 @@ class DB:
         
 
     def get_artist(self, name, preload_genres = False):
+        cursor = self.conn.cursor()
         def load_genres(i):
             artist = Artist(i['id'], i['name'], i['genre_updated_at'])
 
@@ -157,7 +176,7 @@ class DB:
                 
             return artist
         
-        r = self.cursor.execute(
+        r = cursor.execute(
             '''
             SELECT * FROM artists
             WHERE
@@ -171,8 +190,9 @@ class DB:
             return None
     
     def get_album(self, artist, title):
+        cursor = self.conn.cursor()
         def fetch_artist():
-            resp = self.cursor.execute(
+            resp = cursor.execute(
                 '''
                 SELECT * FROM artists
                 WHERE
@@ -182,7 +202,7 @@ class DB:
             return resp.fetchone()
         
         def fetch_album(artist_id):
-            resp = self.cursor.execute(
+            resp = cursor.execute(
                 '''
                 SELECT * FROM albums
                 WHERE
@@ -194,7 +214,7 @@ class DB:
 
         a = fetch_artist()
         if not a:
-            self.cursor.execute(
+            cursor.execute(
                 '''
                 INSERT INTO artists (name)
                 VALUES (?)
@@ -204,7 +224,7 @@ class DB:
         
         e = fetch_album(a['id'])
         if not e:
-            self.cursor.execute(
+            cursor.execute(
                 '''
                 INSERT INTO albums (artist_id, title)
                 VALUES (?, ?)
@@ -216,13 +236,14 @@ class DB:
         return Album(e['id'], art, e['title'])
 
     def get_store(self, store):
+        cursor = self.conn.cursor()
         def fetchone():
-            resp = self.cursor.execute('''SELECT * from stores WHERE name = ? LIMIT 1''', (store.name,))
+            resp = cursor.execute('''SELECT * from stores WHERE name = ? LIMIT 1''', (store.name,))
             return resp.fetchone()
 
         e = fetchone()
         if not e:
-            self.cursor.execute(
+            cursor.execute(
                 '''
                 INSERT INTO stores (name, url)
                 VALUES (?, ?)
@@ -233,8 +254,9 @@ class DB:
         return Store(e['id'], e['name'], e['url'])
     
     def add_product(self, product):
+        cursor = self.conn.cursor()
         def fetchone():
-            resp = self.cursor.execute(
+            resp = cursor.execute(
                 '''
                 SELECT * FROM products 
                 WHERE
@@ -248,7 +270,7 @@ class DB:
 
         p = fetchone()
         if not p:
-            self.cursor.execute(
+            cursor.execute(
                 '''
                 INSERT INTO products 
                   (sku, album_id, store_id, item_type, link, price,
@@ -265,7 +287,7 @@ class DB:
                product.in_stock != p['in_stock'] or \
                product.quantity != p['quantity'] or \
                product.description != p['description']:
-                self.cursor.execute(
+                cursor.execute(
                     '''
                     UPDATE products
                     SET
@@ -281,15 +303,16 @@ class DB:
                           product.quantity, product.description, p['id']))
             else:
                 # definitely set the last_seen_at
-                self.cursor.execute('''UPDATE products SET last_seen_at = (datetime(current_timestamp))''')
+                cursor.execute('''UPDATE products SET last_seen_at = (datetime(current_timestamp))''')
 
             self.conn.commit()
             
         return True
 
     def add_cover(self, album, url, official = False):
+        cursor = self.conn.cursor()
         def fetchone():
-            resp = self.cursor.execute(
+            resp = cursor.execute(
                 '''
                 SELECT * FROM covers
                 WHERE
@@ -301,7 +324,7 @@ class DB:
 
         p = fetchone()
         if not p:
-            self.cursor.execute(
+            cursor.execute(
                 '''
                 INSERT INTO covers
                   (album_id, url, official)
@@ -311,15 +334,17 @@ class DB:
 
         return True
 
+    @retry
     def add_genre(self, artist, genre):
+        cursor = self.conn.cursor()
         def fetchone():
-            resp = self.cursor.execute(
+            resp = cursor.execute(
                 '''SELECT * FROM genres WHERE name = ?''', (genre,))
             return resp.fetchone()
 
         g = fetchone()
         if not g:
-            self.cursor.execute(
+            cursor.execute(
                 '''
                 INSERT INTO genres
                   (name)
@@ -329,7 +354,7 @@ class DB:
             g = fetchone()
 
         try:
-            self.cursor.execute(
+            cursor.execute(
                 '''
                 INSERT INTO artists_genres
                   (artist_id, genre_id)
@@ -344,8 +369,10 @@ class DB:
 
         return True
 
+    @retry
     def artist_update_genre_timestamp(self, artist):
-        self.cursor.execute(
+        cursor = self.conn.cursor()
+        cursor.execute(
             '''
             UPDATE artists
             SET
@@ -357,7 +384,8 @@ class DB:
     
     ## Private ##
     def create_verify_database(self):
-        self.cursor.execute(
+        cursor = self.conn.cursor()
+        cursor.execute(
             '''
             CREATE TABLE IF NOT EXISTS version (
               version INTEGER default %s
@@ -367,16 +395,16 @@ class DB:
         self.conn.commit()
 
         # verify the version
-        e = self.cursor.execute('''SELECT version from version LIMIT 1''')
+        e = cursor.execute('''SELECT version from version LIMIT 1''')
         r = e.fetchone()
         if r is None:
             # first time, set the version
-            self.cursor.execute('''INSERT INTO version VALUES (?)''', (DB.VERSION,))
+            cursor.execute('''INSERT INTO version VALUES (?)''', (DB.VERSION,))
             self.conn.commit()
         elif r[0] != DB.VERSION:
             raise Exception('Database is out of date. Please migrate or remove')
 
-        self.cursor.execute(
+        cursor.execute(
             '''
             CREATE TABLE IF NOT EXISTS artists (
               id INTEGER PRIMARY KEY AUTOINCREMENT,
@@ -387,7 +415,7 @@ class DB:
             )
             ''')
         
-        self.cursor.execute(
+        cursor.execute(
             '''
             CREATE TABLE IF NOT EXISTS albums (
               id INTEGER PRIMARY KEY AUTOINCREMENT,
@@ -399,7 +427,7 @@ class DB:
             )
             ''')
         
-        self.cursor.execute(
+        cursor.execute(
             '''
             CREATE TABLE IF NOT EXISTS genres (
               id INTEGER PRIMARY KEY AUTOINCREMENT,
@@ -409,7 +437,7 @@ class DB:
             )
             ''')
         
-        self.cursor.execute(
+        cursor.execute(
             '''
             CREATE TABLE IF NOT EXISTS artists_genres (
               id INTEGER PRIMARY KEY AUTOINCREMENT,
@@ -422,7 +450,7 @@ class DB:
             )
             ''')
         
-        self.cursor.execute(
+        cursor.execute(
             '''
             CREATE TABLE IF NOT EXISTS stores (
               id INTEGER PRIMARY KEY AUTOINCREMENT,
@@ -434,7 +462,7 @@ class DB:
             ''')
 
         
-        self.cursor.execute(
+        cursor.execute(
             '''
             CREATE TABLE IF NOT EXISTS products (
               id INTEGER PRIMARY KEY AUTOINCREMENT,
@@ -455,7 +483,7 @@ class DB:
             )
             ''')
 
-        self.cursor.execute(
+        cursor.execute(
             '''
             CREATE TABLE IF NOT EXISTS covers (
               id INTEGER PRIMARY KEY AUTOINCREMENT,
@@ -468,10 +496,10 @@ class DB:
             )
             ''')
 
-        self.cursor.execute('''CREATE INDEX IF NOT EXISTS sku_index ON products(sku)''')
-        self.cursor.execute('''CREATE UNIQUE INDEX IF NOT EXISTS artists_index on artists(name)''')
-        self.cursor.execute('''CREATE UNIQUE INDEX IF NOT EXISTS genres_index on genres(name)''')
-        self.cursor.execute('''CREATE UNIQUE INDEX IF NOT EXISTS artists_genres_index on artists_genres(artist_id,genre_id)''')
+        cursor.execute('''CREATE INDEX IF NOT EXISTS sku_index ON products(sku)''')
+        cursor.execute('''CREATE UNIQUE INDEX IF NOT EXISTS artists_index on artists(name)''')
+        cursor.execute('''CREATE UNIQUE INDEX IF NOT EXISTS genres_index on genres(name)''')
+        cursor.execute('''CREATE UNIQUE INDEX IF NOT EXISTS artists_genres_index on artists_genres(artist_id,genre_id)''')
 
         self.conn.commit()
         

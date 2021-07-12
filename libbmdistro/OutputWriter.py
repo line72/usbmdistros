@@ -69,7 +69,7 @@ class OutputWriter:
             print(f'{album}: Album has no available products, skipping...')
             return
 
-        if len(artist.genres) > 0 and not self.is_black_metal(artist.genres):
+        if len(artist.genres) == 0 or not self.is_black_metal(artist.genres):
             print(f'{album}: Skipping non-black metal artist: {artist}')
             return
 

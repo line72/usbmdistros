@@ -6,19 +6,76 @@
 import datetime
 import requests
 import time
+import concurrent.futures
+
+from .DB import DB
 
 class GenreFinder:
+    LAST_FM_API_KEY = '88465cb34653ed17ec3755f1e4179ffd'
+    
     def go(self, db):
-        for artist in db.get_all_artists(True):
-            if len(artist.genres) == 0:
-                self.fetch_genres(db, artist)
+        futures = []
+        with concurrent.futures.ThreadPoolExecutor(max_workers = 5) as executor:
+            for artist in db.get_all_artists(True):
+                if len(artist.genres) == 0:
+                    print('fetch_genres', artist)
 
-    def fetch_genres(self, db, artist):
-        print('fetch_genres', artist)
+                    if datetime.datetime.utcnow() - artist.genre_updated_at < datetime.timedelta(days = 7):
+                        print('Skipping, recently updated...')
+                        continue
 
-        if datetime.datetime.utcnow() - artist.genre_updated_at < datetime.timedelta(days = 7):
-            print('Skipping, recently updated...')
-            return True
+                    futures.append(executor.submit(self.fetch_genres_lastfm, None, artist))
+
+        # wait until all futures complete
+        for f in futures:
+            f.result()
+            
+    def fetch_genres_lastfm(self, db, artist):
+        if db is None:
+            # create a new DB for this thread
+            db = DB(False)
+        
+        try:
+            params = {
+                'method': 'artist.gettoptags',
+                'artist': artist.name,
+                'autocorrect': 0,
+                'api_key': GenreFinder.LAST_FM_API_KEY,
+                'format': 'json'
+            }
+            r = requests.get('https://ws.audioscrobbler.com/2.0/',
+                             params = params,
+                             headers = {'accept': 'application/json'})
+            r.raise_for_status()
+
+            resp = r.json()
+            if 'error' in resp:
+                if resp['error'] == 29:
+                    # rate limit exceeded
+                    print('Backing off...')
+                    time.sleep(.1)
+                    return self.fetch_genres_lastfm(db, artist)
+                else:
+                    print('Exception', resp)
+            else:
+                for tag in resp['toptags']['tag']:
+                    if tag['count'] > 30:
+                        db.add_genre(artist, tag['name'].lower())
+
+            # update the artist
+            db.artist_update_genre_timestamp(artist)
+                        
+        except requests.exceptions.HTTPError:
+            # back-off
+            print('Backing off...')
+            time.sleep(.1)
+            return self.fetch_genres_lastfm(db, artist)
+            
+                
+    def fetch_genres_musicbrainz(self, db, artist):
+        if db is None:
+            # create a new DB for this thread
+            db = DB(False)
         
         try:
             params = {
@@ -63,4 +120,4 @@ class GenreFinder:
             # back-off
             print('Backing off...')
             time.sleep(.1)
-            return self.fetch_genres(db, artist)
+            return self.fetch_genres_musicbrainz(db, artist)
