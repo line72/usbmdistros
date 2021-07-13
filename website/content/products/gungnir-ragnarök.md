@@ -1,0 +1,17 @@
+---
+actualPrice: $4.00
+album: "Ragnar\xF6k"
+artist: Gungnir
+categories:
+- Tape
+date: '2021-06-26T15:16:25'
+draft: false
+images:
+- "/images/covers/gungnir-ragnar\xF6k.jpg"
+inStock: true
+thumbnailImage: "/images/covers/gungnir-ragnar\xF6k-thumb.jpg"
+title: "Gungnir - Ragnar\xF6k"
+---
+
+## Tape
+* Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/28336709-gungnir-ragnarok) for $4.00
