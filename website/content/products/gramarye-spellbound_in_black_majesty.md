@@ -4,7 +4,7 @@ album: Spellbound in Black Majesty
 artist: Gramarye
 categories:
 - Tape
-date: '2021-06-26T15:03:01'
+date: '2021-07-13T15:19:11'
 draft: false
 images:
 - /images/covers/gramarye-spellbound_in_black_majesty.jpg
