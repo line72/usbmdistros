@@ -4,7 +4,7 @@ album: Demo Compilation Vol. II
 artist: Ancient Records
 categories:
 - CD
-date: '2021-06-26T15:03:08'
+date: '2021-07-15T05:00:47'
 draft: false
 images:
 - /images/covers/ancient_records-demo_compilation_vol._ii.jpg

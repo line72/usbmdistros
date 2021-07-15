@@ -4,7 +4,7 @@ album: Rehearsal MMXX
 artist: Wampyric Rites
 categories:
 - Tape
-date: '2021-06-26T15:16:20'
+date: '2021-07-15T05:00:36'
 draft: false
 images:
 - /images/covers/wampyric_rites-rehearsal_mmxx.jpg
