@@ -105,5 +105,7 @@ class Caligari(Parser):
             return 'Vinyl'
         elif t == 'home-art-prints-posters':
             return None
+        elif t == 'music-band-merch-posters':
+            return None
 
         raise Exception(f'Unknown item type {t}')
