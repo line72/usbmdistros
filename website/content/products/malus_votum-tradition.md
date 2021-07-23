@@ -4,7 +4,7 @@ album: Tradition
 artist: Malus Votum
 categories:
 - CD
-date: '2021-06-26T15:23:11'
+date: '2021-07-23T05:00:45'
 draft: false
 images:
 - /images/covers/malus_votum-tradition.jpg
