@@ -1,11 +1,12 @@
 ---
-actualPrice: $13.99 - 14.00
+actualPrice: $13.99 - 30.00
 album: "Ultima Thul\xE9e"
 artist: Blut Aus Nord
 categories:
+- Vinyl
 - Tape
 - Cassette
-date: '2021-07-11T20:52:13'
+date: '2021-07-25T05:06:32'
 draft: false
 images:
 - "/images/covers/blut_aus_nord-ultima_thul\xE9e.jpg"
@@ -14,6 +15,8 @@ thumbnailImage: "/images/covers/blut_aus_nord-ultima_thul\xE9e-thumb.jpg"
 title: "Blut Aus Nord - Ultima Thul\xE9e"
 ---
 
+## Vinyl
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=16707&sort=pd.name&order=ASC) for $30.00
 ## Tape
 * Purchase from [Debemur Morti](https://debemurmorti.aisamerch.com/item/99593) for $13.99
 ## Cassette
