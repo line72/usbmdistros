@@ -4,7 +4,7 @@ album: The Night of Satanachia
 artist: Azazel
 categories:
 - CD
-date: '2021-06-26T15:03:07'
+date: '2021-07-27T05:00:47'
 draft: false
 images:
 - /images/covers/azazel-the_night_of_satanachia.jpg

@@ -5,7 +5,8 @@ artist: Voreus
 categories:
 - Vinyl
 - Tape
-date: '2021-07-11T20:52:29'
+- Cassette
+date: '2021-07-27T05:09:13'
 draft: false
 images:
 - /images/covers/voreus-the_proclamation.jpg
@@ -18,3 +19,5 @@ title: Voreus - The Proclamation
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/voreus-the-proclamation) for $20.00 :: Black 1st press vinyl
 ## Tape
 * Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/31277848-voreus-the-proclamation) for $8.00
+## Cassette
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/voreus-the-proclamation-cassette) for $10.00 :: Cassette Tape 1st press

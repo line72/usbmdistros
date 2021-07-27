@@ -5,7 +5,8 @@ artist: Labored Breath
 categories:
 - Vinyl
 - Tape
-date: '2021-07-11T20:52:17'
+- Cassette
+date: '2021-07-27T05:09:13'
 draft: false
 images:
 - /images/covers/labored_breath-dyspnea.jpg
@@ -19,3 +20,5 @@ title: Labored Breath - Dyspnea
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/labored-breath-dyspnea-12) for $32.00 :: Red/Purple/Black Marbled 1st press vinyl
 ## Tape
 * Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/32057842-labored-breath-dyspnea) for $8.00
+## Cassette
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/labored-breath-dyspnea-cassette) for $9.00 :: Cassette Tape 1st press
