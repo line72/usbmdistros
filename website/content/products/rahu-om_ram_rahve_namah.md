@@ -4,7 +4,7 @@ album: Om Ram Rahve Namah
 artist: Rahu
 categories:
 - Vinyl
-date: '2021-07-29T05:09:26'
+date: '2021-07-30T05:09:01'
 draft: false
 images:
 - /images/covers/rahu-om_ram_rahve_namah.jpg
@@ -15,4 +15,4 @@ title: Rahu - Om Ram Rahve Namah
 
 ## Vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/rahu-om-ram-rahve-namah-lp) for $27.00 :: Black 1st press vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/rahu-om-ram-rahve-namah-lp) for $35.00 :: Black/White 1st press vinyl
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/rahu-om-ram-rahve-namah-lp) for $35.00 :: Black/White 1st press vinyl (SOLD OUT)
