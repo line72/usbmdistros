@@ -4,7 +4,7 @@ album: Dangoswch Eich Darnau Gwyn i Mi
 artist: Martwi
 categories:
 - Vinyl
-date: '2021-07-15T05:00:16'
+date: '2021-07-31T05:00:16'
 draft: false
 images:
 - /images/covers/martwi-dangoswch_eich_darnau_gwyn_i_mi.jpg
