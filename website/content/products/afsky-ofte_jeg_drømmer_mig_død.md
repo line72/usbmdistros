@@ -1,11 +1,11 @@
 ---
-actualPrice: $18.00 - 20.00
+actualPrice: $18.00 - 21.00
 album: "Ofte Jeg Dr\xF8mmer Mig D\xF8d"
 artist: Afsky
 categories:
 - Vinyl
 - CD
-date: '2021-08-01T06:50:36'
+date: '2021-08-02T06:50:56'
 draft: false
 images:
 - "/images/covers/afsky-ofte_jeg_dr\xF8mmer_mig_d\xF8d.jpg"
@@ -15,6 +15,6 @@ title: "Afsky - Ofte Jeg Dr\xF8mmer Mig D\xF8d"
 ---
 
 ## Vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/afsky-ofte-jeg-drommer-mig-dod-lp) for $20.00 :: Black 2021 press vinyl
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/afsky-ofte-jeg-drommer-mig-dod-lp) for $21.00 :: Black 2021 press vinyl
 ## CD
 * Purchase from [Sto'Vo'Kor Records](https://stovokor-records.com/products/afsky-ofte-jeg-drommer-mig-dod) for $18.00

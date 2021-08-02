@@ -5,7 +5,7 @@ artist: Torrid Death's Fire
 categories:
 - Vinyl
 - CD
-date: '2021-07-29T05:00:16'
+date: '2021-08-02T05:08:43'
 draft: false
 images:
 - /images/covers/torrid_death's_fire-nocturnal_erotic_symbolism.jpg
