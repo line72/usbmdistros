@@ -1,10 +1,10 @@
 ---
-actualPrice: $29.00
+actualPrice: $32.00
 album: Cairn
 artist: Mizmor
 categories:
 - Vinyl
-date: '2021-08-01T06:50:36'
+date: '2021-08-04T06:52:14'
 draft: false
 images:
 - /images/covers/mizmor-cairn.jpg
@@ -14,4 +14,4 @@ title: Mizmor - Cairn
 ---
 
 ## Vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/mizmor-cairn-2xlp) for $29.00 :: Color 2020 press vinyl
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/mizmor-cairn-2xlp) for $32.00 :: Fiery Red Translucent 2020 press vinyl
