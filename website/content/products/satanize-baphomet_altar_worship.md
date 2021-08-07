@@ -5,7 +5,7 @@ artist: Satanize
 categories:
 - Tape
 - Cassette
-date: '2021-08-05T06:52:40'
+date: '2021-08-07T05:34:15'
 draft: false
 images:
 - /images/covers/satanize-baphomet_altar_worship.jpg
