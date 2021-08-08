@@ -5,7 +5,7 @@ artist: Sarkrista
 categories:
 - Vinyl
 - CD
-date: '2021-06-29T15:00:46'
+date: '2021-08-08T05:42:49'
 draft: false
 images:
 - /images/covers/sarkrista-sworn_to_profound_heresy.jpg

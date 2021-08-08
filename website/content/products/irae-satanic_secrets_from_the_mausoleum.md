@@ -4,7 +4,7 @@ album: Satanic Secrets from the Mausoleum
 artist: Irae
 categories:
 - Vinyl
-date: '2021-08-07T05:08:40'
+date: '2021-08-08T05:08:40'
 draft: false
 images:
 - /images/covers/irae-satanic_secrets_from_the_mausoleum.jpg

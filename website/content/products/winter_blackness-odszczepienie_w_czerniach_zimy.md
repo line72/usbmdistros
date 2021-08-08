@@ -5,7 +5,7 @@ artist: Winter Blackness
 categories:
 - Tape
 - CD
-date: '2021-08-07T05:34:15'
+date: '2021-08-08T05:34:15'
 draft: false
 images:
 - /images/covers/winter_blackness-odszczepienie_w_czerniach_zimy.png
