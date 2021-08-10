@@ -1,10 +1,10 @@
 ---
-actualPrice: $39.00
+actualPrice: $29.00 - 39.00
 album: "S\xF3knardalr"
 artist: Windir
 categories:
 - Vinyl
-date: '2021-07-11T20:52:11'
+date: '2021-08-10T05:00:10'
 draft: false
 images:
 - "/images/covers/windir-s\xF3knardalr.jpg"
@@ -15,3 +15,4 @@ title: "Windir - S\xF3knardalr"
 
 ## Vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/windir-soknardalr-2xlp) for $39.00 :: Red/Black Marbled 2021 press vinyl
+* Purchase from [Sto'Vo'Kor Records](https://stovokor-records.com/products/windir-soknardalr) for $29.00

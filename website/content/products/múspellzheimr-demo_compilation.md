@@ -4,7 +4,7 @@ album: Demo Compilation
 artist: "M\xFAspellzheimr"
 categories:
 - Vinyl
-date: '2021-06-26T15:02:55'
+date: '2021-08-10T05:08:49'
 draft: false
 images:
 - "/images/covers/m\xFAspellzheimr-demo_compilation.jpg"
