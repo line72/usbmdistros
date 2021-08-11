@@ -4,7 +4,7 @@ album: Unholy Throne of Doom
 artist: Elffor
 categories:
 - Vinyl
-date: '2021-07-11T20:52:15'
+date: '2021-08-11T06:50:58'
 draft: false
 images:
 - /images/covers/elffor-unholy_throne_of_doom.jpg
@@ -17,3 +17,4 @@ title: Elffor - Unholy Throne of Doom
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=13022&sort=pd.name&order=ASC) for $20.00
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/elffor-unholy-throne-of-doom-lp) for $27.00 :: Black 1st press vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/elffor-unholy-throne-of-doom-lp) for $29.00 :: Galaxy 1st press vinyl
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=16900&sort=pd.name&order=ASC) for $20.00
