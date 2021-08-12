@@ -1,10 +1,10 @@
 ---
-actualPrice: $35.00
+actualPrice: $39.00
 album: Wildhoney
 artist: Tiamat
 categories:
 - Vinyl
-date: '2021-07-11T20:52:23'
+date: '2021-08-12T06:55:32'
 draft: false
 images:
 - /images/covers/tiamat-wildhoney.jpg
@@ -14,4 +14,4 @@ title: Tiamat - Wildhoney
 ---
 
 ## Vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/tiamat-wildhoney) for $35.00 :: Splatter 2020 press vinyl
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/tiamat-wildhoney) for $39.00 :: Splatter 2021 press vinyl
