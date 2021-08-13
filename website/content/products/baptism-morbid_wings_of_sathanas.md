@@ -4,7 +4,7 @@ album: Morbid Wings of Sathanas
 artist: Baptism
 categories:
 - Vinyl
-date: '2021-06-26T15:02:54'
+date: '2021-08-13T05:08:45'
 draft: false
 images:
 - /images/covers/baptism-morbid_wings_of_sathanas.jpg

@@ -4,7 +4,7 @@ album: La fin de Tour les Chants
 artist: Caverne
 categories:
 - CD
-date: '2021-08-04T05:42:49'
+date: '2021-08-13T05:42:52'
 draft: false
 images:
 - /images/covers/caverne-la_fin_de_tour_les_chants.jpg
