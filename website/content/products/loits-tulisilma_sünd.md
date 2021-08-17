@@ -4,7 +4,7 @@ album: "Tulisilma S\xFCnd"
 artist: Loits
 categories:
 - Cassette
-date: '2021-06-26T15:23:21'
+date: '2021-08-17T13:15:24'
 draft: false
 images:
 - "/images/covers/loits-tulisilma_s\xFCnd.jpg"
@@ -15,3 +15,4 @@ title: "Loits - Tulisilma S\xFCnd"
 
 ## Cassette
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=14783&sort=pd.name&order=ASC) for $7.00
+* Purchase from [CW Productions](https://shop.cwproductions.net/products/loits) for $7.00

@@ -6,7 +6,7 @@ categories:
 - Vinyl
 - Tape
 - CD
-date: '2021-06-27T14:42:01'
+date: '2021-08-17T13:15:22'
 draft: false
 images:
 - /images/covers/sabbat-the_dwelling.jpg
@@ -21,3 +21,4 @@ title: Sabbat - The Dwelling
 * Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/31981162-sabbat-the-dwelling) for $7.50
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=11253&sort=pd.name&order=ASC) for $10.00
+* Purchase from [CW Productions](https://shop.cwproductions.net/products/sabbat-the-dwelling-cd) for $10.00
