@@ -8,9 +8,9 @@ categories:
 date: '2021-08-17T06:52:55'
 draft: false
 images:
-- /images/covers/opera_ix-the_call_of_the_wood.png
+- /images/covers/opera_ix-the_call_of_the_wood.jpg
 inStock: true
-thumbnailImage: /images/covers/opera_ix-the_call_of_the_wood-thumb.png
+thumbnailImage: /images/covers/opera_ix-the_call_of_the_wood-thumb.jpg
 title: Opera IX - The Call of the Wood
 ---
 

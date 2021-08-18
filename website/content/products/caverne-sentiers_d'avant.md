@@ -7,9 +7,9 @@ categories:
 date: '2021-08-17T13:15:22'
 draft: false
 images:
-- /images/covers/caverne-sentiers_d'avant.png
+- /images/covers/caverne-sentiers_d'avant.jpg
 inStock: true
-thumbnailImage: /images/covers/caverne-sentiers_d'avant-thumb.png
+thumbnailImage: /images/covers/caverne-sentiers_d'avant-thumb.jpg
 title: Caverne - Sentiers D'Avant
 ---
 

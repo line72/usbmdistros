@@ -7,9 +7,9 @@ categories:
 date: '2021-08-17T13:15:22'
 draft: false
 images:
-- /images/covers/caverne-omphalos.png
+- /images/covers/caverne-omphalos.jpg
 inStock: true
-thumbnailImage: /images/covers/caverne-omphalos-thumb.png
+thumbnailImage: /images/covers/caverne-omphalos-thumb.jpg
 title: Caverne - Omphalos
 ---
 

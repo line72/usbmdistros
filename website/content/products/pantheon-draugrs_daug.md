@@ -7,9 +7,9 @@ categories:
 date: '2021-08-17T13:15:21'
 draft: false
 images:
-- /images/covers/pantheon-draugrs_daug.png
+- /images/covers/pantheon-draugrs_daug.jpg
 inStock: true
-thumbnailImage: /images/covers/pantheon-draugrs_daug-thumb.png
+thumbnailImage: /images/covers/pantheon-draugrs_daug-thumb.jpg
 title: Pantheon - Draugrs Daug
 ---
 

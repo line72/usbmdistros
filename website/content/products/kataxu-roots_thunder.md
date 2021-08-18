@@ -7,9 +7,9 @@ categories:
 date: '2021-08-17T13:15:21'
 draft: false
 images:
-- /images/covers/kataxu-roots_thunder.png
+- /images/covers/kataxu-roots_thunder.jpg
 inStock: true
-thumbnailImage: /images/covers/kataxu-roots_thunder-thumb.png
+thumbnailImage: /images/covers/kataxu-roots_thunder-thumb.jpg
 title: Kataxu - Roots Thunder
 ---
 

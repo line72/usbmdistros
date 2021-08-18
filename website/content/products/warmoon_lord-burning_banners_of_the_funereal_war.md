@@ -7,9 +7,9 @@ categories:
 date: '2021-08-17T13:15:21'
 draft: false
 images:
-- /images/covers/warmoon_lord-burning_banners_of_the_funereal_war.png
+- /images/covers/warmoon_lord-burning_banners_of_the_funereal_war.jpg
 inStock: true
-thumbnailImage: /images/covers/warmoon_lord-burning_banners_of_the_funereal_war-thumb.png
+thumbnailImage: /images/covers/warmoon_lord-burning_banners_of_the_funereal_war-thumb.jpg
 title: Warmoon Lord - Burning Banners Of The Funereal War
 ---
 

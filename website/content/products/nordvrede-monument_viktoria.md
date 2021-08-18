@@ -7,9 +7,9 @@ categories:
 date: '2021-08-17T13:15:22'
 draft: false
 images:
-- /images/covers/nordvrede-monument_viktoria.png
+- /images/covers/nordvrede-monument_viktoria.jpg
 inStock: true
-thumbnailImage: /images/covers/nordvrede-monument_viktoria-thumb.png
+thumbnailImage: /images/covers/nordvrede-monument_viktoria-thumb.jpg
 title: Nordvrede - Monument Viktoria
 ---
 

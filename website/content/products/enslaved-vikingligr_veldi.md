@@ -7,9 +7,9 @@ categories:
 date: '2021-08-17T13:13:03'
 draft: false
 images:
-- /images/covers/enslaved-vikingligr_veldi.png
+- /images/covers/enslaved-vikingligr_veldi.jpg
 inStock: true
-thumbnailImage: /images/covers/enslaved-vikingligr_veldi-thumb.png
+thumbnailImage: /images/covers/enslaved-vikingligr_veldi-thumb.jpg
 title: Enslaved - Vikingligr Veldi
 ---
 

@@ -7,9 +7,9 @@ categories:
 date: '2021-08-17T13:15:21'
 draft: false
 images:
-- /images/covers/kataxu-hunger_of_elements.png
+- /images/covers/kataxu-hunger_of_elements.jpg
 inStock: true
-thumbnailImage: /images/covers/kataxu-hunger_of_elements-thumb.png
+thumbnailImage: /images/covers/kataxu-hunger_of_elements-thumb.jpg
 title: Kataxu - Hunger of Elements
 ---
 

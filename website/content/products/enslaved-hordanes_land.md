@@ -7,9 +7,9 @@ categories:
 date: '2021-08-17T13:13:03'
 draft: false
 images:
-- /images/covers/enslaved-hordanes_land.png
+- /images/covers/enslaved-hordanes_land.jpg
 inStock: true
-thumbnailImage: /images/covers/enslaved-hordanes_land-thumb.png
+thumbnailImage: /images/covers/enslaved-hordanes_land-thumb.jpg
 title: Enslaved - Hordanes Land
 ---
 

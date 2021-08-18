@@ -7,9 +7,9 @@ categories:
 date: '2021-08-17T06:52:07'
 draft: false
 images:
-- /images/covers/mortuary_drape-spiritual_independence.png
+- /images/covers/mortuary_drape-spiritual_independence.jpg
 inStock: true
-thumbnailImage: /images/covers/mortuary_drape-spiritual_independence-thumb.png
+thumbnailImage: /images/covers/mortuary_drape-spiritual_independence-thumb.jpg
 title: Mortuary Drape - Spiritual Independence
 ---
 

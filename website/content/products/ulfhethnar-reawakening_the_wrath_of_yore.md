@@ -7,9 +7,9 @@ categories:
 date: '2021-08-17T13:15:22'
 draft: false
 images:
-- /images/covers/ulfhethnar-reawakening_the_wrath_of_yore.png
+- /images/covers/ulfhethnar-reawakening_the_wrath_of_yore.jpg
 inStock: true
-thumbnailImage: /images/covers/ulfhethnar-reawakening_the_wrath_of_yore-thumb.png
+thumbnailImage: /images/covers/ulfhethnar-reawakening_the_wrath_of_yore-thumb.jpg
 title: Ulfhethnar - Reawakening the Wrath of Yore
 ---
 

@@ -7,9 +7,9 @@ categories:
 date: '2021-08-17T13:13:03'
 draft: false
 images:
-- /images/covers/burzum-det_som_engang_var.png
+- /images/covers/burzum-det_som_engang_var.jpg
 inStock: true
-thumbnailImage: /images/covers/burzum-det_som_engang_var-thumb.png
+thumbnailImage: /images/covers/burzum-det_som_engang_var-thumb.jpg
 title: Burzum - Det Som Engang Var
 ---
 
