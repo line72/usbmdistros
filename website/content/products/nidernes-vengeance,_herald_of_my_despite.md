@@ -4,7 +4,7 @@ album: Vengeance, Herald of My Despite
 artist: Nidernes
 categories:
 - CD
-date: '2021-06-26T15:23:12'
+date: '2021-08-19T05:42:56'
 draft: false
 images:
 - /images/covers/nidernes-vengeance,_herald_of_my_despite.jpg

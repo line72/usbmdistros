@@ -5,7 +5,7 @@ artist: The Gloomy Radiance of the Moon
 categories:
 - Tape
 - Cassette
-date: '2021-08-17T13:15:23'
+date: '2021-08-19T05:34:21'
 draft: false
 images:
 - /images/covers/the_gloomy_radiance_of_the_moon-night_of_the_bloodmoon.jpg
