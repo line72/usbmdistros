@@ -4,7 +4,7 @@ album: Tanker Som Rir Natten
 artist: Djevel
 categories:
 - Tape
-date: '2021-07-20T05:00:34'
+date: '2021-08-20T05:34:18'
 draft: false
 images:
 - /images/covers/djevel-tanker_som_rir_natten.jpg
