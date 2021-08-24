@@ -4,7 +4,7 @@ album: Geist Ist Teufel
 artist: Urfaust
 categories:
 - Vinyl
-date: '2021-06-26T15:22:57'
+date: '2021-08-24T06:51:57'
 draft: false
 images:
 - /images/covers/urfaust-geist_ist_teufel.jpg
@@ -15,3 +15,4 @@ title: Urfaust - Geist Ist Teufel
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=15041&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=17023&sort=pd.name&order=ASC) for $25.00
