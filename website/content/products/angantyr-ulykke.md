@@ -1,10 +1,10 @@
 ---
-actualPrice: $29.00
+actualPrice: $32.00
 album: Ulykke
 artist: Angantyr
 categories:
 - Vinyl
-date: '2021-07-15T05:08:49'
+date: '2021-08-10T06:53:47'
 draft: false
 images:
 - /images/covers/angantyr-ulykke.jpg
@@ -14,4 +14,4 @@ title: Angantyr - Ulykke
 ---
 
 ## Vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/angantyr-ulykke-2xlp) for $29.00 :: Red 1st press vinyl
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/angantyr-ulykke-2xlp) for $32.00 :: Red 1st press vinyl

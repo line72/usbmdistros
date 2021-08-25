@@ -4,7 +4,7 @@ album: "Nikada Nije Kasno da Propadne\u0161"
 artist: Arjen
 categories:
 - Vinyl
-date: '2021-06-26T15:02:58'
+date: '2021-08-12T05:25:48'
 draft: false
 images:
 - "/images/covers/arjen-nikada_nije_kasno_da_propadne\u0161.jpg"

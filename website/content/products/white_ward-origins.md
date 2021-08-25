@@ -5,8 +5,9 @@ artist: White Ward
 categories:
 - Vinyl
 - Tape
+- Cassette
 - CD
-date: '2021-07-11T20:52:31'
+date: '2021-07-22T05:08:46'
 draft: false
 images:
 - /images/covers/white_ward-origins.jpg
@@ -22,5 +23,7 @@ title: White Ward - Origins
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/white-ward-origins) for $59.00 :: Black w/ Silver Splatter DMP Special Edition 1st press vinyl
 ## Tape
 * Purchase from [Debemur Morti](https://debemurmorti.aisamerch.com/item/96098) for $13.99
+## Cassette
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/white-ward-origins-cassette) for $14.00 :: Cassette Tape 1st press
 ## CD
 * Purchase from [Debemur Morti](https://debemurmorti.aisamerch.com/item/96096) for $9.99

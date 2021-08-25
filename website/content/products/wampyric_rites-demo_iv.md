@@ -5,7 +5,7 @@ artist: Wampyric Rites
 categories:
 - Vinyl
 - CD
-date: '2021-07-11T20:52:19'
+date: '2021-07-20T05:00:15'
 draft: false
 images:
 - /images/covers/wampyric_rites-demo_iv.jpg

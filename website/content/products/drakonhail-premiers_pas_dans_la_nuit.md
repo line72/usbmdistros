@@ -4,7 +4,7 @@ album: Premiers pas dans la nuit
 artist: Drakonhail
 categories:
 - Vinyl
-date: '2021-07-07T15:33:11'
+date: '2021-07-26T05:00:17'
 draft: false
 images:
 - /images/covers/drakonhail-premiers_pas_dans_la_nuit.jpg

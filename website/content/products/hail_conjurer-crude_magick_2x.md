@@ -4,7 +4,7 @@ album: Crude Magick 2x
 artist: Hail Conjurer
 categories:
 - Tape
-date: '2021-06-26T15:03:02'
+date: '2021-07-20T05:00:35'
 draft: false
 images:
 - /images/covers/hail_conjurer-crude_magick_2x.jpg

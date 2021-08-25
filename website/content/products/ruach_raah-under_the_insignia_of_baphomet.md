@@ -4,7 +4,7 @@ album: Under the Insignia of Baphomet
 artist: Ruach Raah
 categories:
 - Vinyl
-date: '2021-07-10T19:51:08'
+date: '2021-07-23T05:00:15'
 draft: false
 images:
 - /images/covers/ruach_raah-under_the_insignia_of_baphomet.jpg

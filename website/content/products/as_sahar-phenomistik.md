@@ -4,7 +4,7 @@ album: Phenomistik
 artist: As Sahar
 categories:
 - CD
-date: '2021-06-26T15:23:03'
+date: '2021-07-25T05:07:15'
 draft: false
 images:
 - /images/covers/as_sahar-phenomistik.jpg
@@ -15,3 +15,4 @@ title: As Sahar - Phenomistik
 
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=12038&sort=pd.name&order=ASC) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=16724&sort=pd.name&order=ASC) for $10.00

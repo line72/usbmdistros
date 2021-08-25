@@ -5,7 +5,7 @@ artist: "Digerd\xF6den"
 categories:
 - Vinyl
 - CD
-date: '2021-06-26T15:22:45'
+date: '2021-07-31T05:00:46'
 draft: false
 images:
 - "/images/covers/digerd\xF6den-genom_d\xF6dens_svarta_t\xF6rst.jpg"

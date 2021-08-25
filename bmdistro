@@ -20,7 +20,8 @@ def go():
         'caligari': db.get_store(libbmdistro.Store(None, 'Caligari Records', "https://caligarirecords.storenvy.com/")),
         'nwn': db.get_store(libbmdistro.Store(None, 'NWN Productions', 'https://shop.nwnprod.com')),
         'metal-to-the-core-1986': db.get_store(libbmdistro.Store(None, 'Metal To The Core 1986', 'https://metaltothecore1986.com')),
-        'meteor-gem': db.get_store(libbmdistro.Store(None, 'Meteor Gem', 'https://meteor-gem.com'))
+        'meteor-gem': db.get_store(libbmdistro.Store(None, 'Meteor Gem', 'https://meteor-gem.com')),
+        'cw-productions': db.get_store(libbmdistro.Store(None, 'CW Productions', 'https://shop.cwproductions.net'))
     }
 
     parsers = [
@@ -35,7 +36,8 @@ def go():
         libbmdistro.parsers.Caligari(stores['caligari'], 'https://caligarirecords.storenvy.com/products.json'),
         libbmdistro.parsers.NWN(stores['nwn'], 'https://shop.nwnprod.com/index.php'),
         libbmdistro.parsers.MetalToTheCore1986(stores['metal-to-the-core-1986'], 'https://metaltothecore1986.com/wp-json/wc/store/products'),
-        libbmdistro.parsers.MeteorGem(stores['meteor-gem'], 'https://meteor-gem.com/products.json')
+        libbmdistro.parsers.MeteorGem(stores['meteor-gem'], 'https://meteor-gem.com/products.json'),
+        libbmdistro.parsers.CWProductions(stores['cw-productions'], 'https://shop.cwproductions.net/products.json'),
     ]
 
     

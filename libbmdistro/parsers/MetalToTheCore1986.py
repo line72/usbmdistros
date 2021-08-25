@@ -64,6 +64,7 @@ class MetalToTheCore1986(Parser):
             re.compile(r'^(.*?)\s+CASSETTE\s*$'),
             re.compile(r'^(.*?)\s+d+"\s+EP\s*$'),
             re.compile(r'^(.*?)\s+\d+″\s+EP\s*$'),
+            re.compile(r'^(.*?)\s+\d+″\s+GATEFOLD\s+DOUBLE\s+LP\s+[A-Z]+\s*$'),
             re.compile(r'^(.*?)\s+\d+"\s+LP\s+[A-Z]+\s*$'),
             re.compile(r'^(.*?)\s+\d+″\s+LP\s*[A-Z]+\s*$'),
             re.compile(r'^(.*?)\s+\d+″\s+[A-Z\s]+\s+LP\s*$'),

@@ -1,10 +1,11 @@
 ---
-actualPrice: $10.00
+actualPrice: $10.00 - 14.00
 album: s/t
 artist: Kastijder
 categories:
 - Tape
-date: '2021-06-26T15:03:01'
+- CD
+date: '2021-07-23T05:00:43'
 draft: false
 images:
 - /images/covers/kastijder-s-t.jpg
@@ -15,3 +16,5 @@ title: Kastijder - s/t
 
 ## Tape
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/kastijder-s-t-tape) for $10.00
+## CD
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/kastijder-s-t-cd) for $14.00

@@ -1,10 +1,11 @@
 ---
-actualPrice: $39.00
+actualPrice: $13.00 - 39.00
 album: Likferd
 artist: Windir
 categories:
 - Vinyl
-date: '2021-07-11T20:52:12'
+- Cassette
+date: '2021-07-27T05:09:13'
 draft: false
 images:
 - /images/covers/windir-likferd.jpg
@@ -15,3 +16,5 @@ title: Windir - Likferd
 
 ## Vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/windir-likferd-2xlp) for $39.00 :: Green/Silver Marbled 2021 press vinyl
+## Cassette
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/windir-likferd-cassette) for $13.00 :: Cassette Tape 1st press

@@ -5,7 +5,7 @@ artist: Armnatt
 categories:
 - Vinyl
 - Tape
-date: '2021-06-26T15:16:20'
+date: '2021-08-08T05:34:16'
 draft: false
 images:
 - /images/covers/armnatt-eternal_flame.jpg
