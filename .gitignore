@@ -5,3 +5,5 @@ __cache__
 bmdistro.db
 *.db
 *.db.*
+*.db-journal
+node_modules
