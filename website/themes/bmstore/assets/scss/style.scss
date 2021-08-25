@@ -138,3 +138,16 @@ a[class="button-primary"]:hover {
     }
 
 }
+
+#search-container {
+    width: 100%;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+#search-box {
+    background-color: $background;
+    color: $text;
+    width: 100%;
+    padding: 5px;
+}
