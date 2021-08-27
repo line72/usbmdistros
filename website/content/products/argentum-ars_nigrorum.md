@@ -1,10 +1,10 @@
 ---
-actualPrice: $8.00
+actualPrice: $8.00 - 10.00
 album: Ars Nigrorum
 artist: Argentum
 categories:
 - CD
-date: '2021-07-10T19:58:25'
+date: '2021-08-27T19:33:53'
 draft: false
 images:
 - /images/covers/argentum-ars_nigrorum.jpg
@@ -15,3 +15,4 @@ title: Argentum - Ars Nigrorum
 
 ## CD
 * Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/argentum-ars-nigrorum-cd/) for $8.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=17105&sort=pd.name&order=ASC) for $10.00
