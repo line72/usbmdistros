@@ -151,3 +151,19 @@ a[class="button-primary"]:hover {
     width: 100%;
     padding: 5px;
 }
+
+.modal-dialog {
+    border: solid 2px $text;
+    max-width: 99vw;
+    //height: 100vh;
+}
+
+.modal-content {
+    //height: 80vh;
+    background-color: $background;
+    color: $text;
+}
+
+#search-results-close {
+    color: $text;
+}
