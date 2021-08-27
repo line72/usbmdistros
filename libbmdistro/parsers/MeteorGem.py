@@ -58,7 +58,12 @@ class MeteorGem(Parser):
         artist = artist.strip()
         title = self.split_album_type(title)
         print(f' --> {artist} | {title}')
-        item_type = self.get_product_type(entry['product_type'])
+        try:
+            item_type = self.get_product_type(entry['product_type'])
+        except Exception as e:
+            print(e)
+            return []
+        
         images = [i['src'] for i in entry['images']]
 
         handle = entry['handle']
