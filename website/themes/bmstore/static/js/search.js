@@ -83,7 +83,7 @@ function render(results) {
             let d = document.createElement('div');
             d.classList.add('album-list-preview-container');
             let img = document.createElement('img');
-            img.classList.add('img-fluid', 'text-center', 'album-list-previs');
+            img.classList.add('img-fluid', 'text-center', 'album-list-preview');
             img.setAttribute('src', r.thumbnail);
             d.appendChild(img);
             a.appendChild(d);
