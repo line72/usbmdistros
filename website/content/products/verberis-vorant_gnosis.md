@@ -4,7 +4,7 @@ album: VORANT GNOSIS
 artist: Verberis
 categories:
 - CD
-date: '2021-06-26T15:23:17'
+date: '2021-08-19T06:52:47'
 draft: false
 images:
 - /images/covers/verberis-vorant_gnosis.png
@@ -15,3 +15,4 @@ title: Verberis - VORANT GNOSIS
 
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=12101&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=16949&sort=pd.name&order=ASC) for $12.00

@@ -1,11 +1,11 @@
 ---
-actualPrice: $12.75 - 13.00
+actualPrice: $12.75 - 16.00
 album: Tri
 artist: Molog
 categories:
 - Vinyl
 - CD
-date: '2021-06-29T15:06:02'
+date: '2021-08-17T13:15:24'
 draft: false
 images:
 - /images/covers/molog-tri.jpg
@@ -16,5 +16,6 @@ title: Molog - Tri
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=6820&sort=pd.name&order=ASC) for $12.75
+* Purchase from [CW Productions](https://shop.cwproductions.net/products/molog-tri-lp) for $16.00
 ## CD
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/molog-tri-cd) for $13.00

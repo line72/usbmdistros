@@ -4,7 +4,7 @@ album: L'Astre Mort
 artist: Amargura
 categories:
 - Tape
-date: '2021-08-04T05:34:15'
+date: '2021-08-19T05:34:20'
 draft: false
 images:
 - /images/covers/amargura-l'astre_mort.jpg
