@@ -7,9 +7,9 @@ categories:
 date: '2021-08-17T13:15:22'
 draft: false
 images:
-- /images/covers/bone_awl-the_lowest_road.png
+- /images/covers/bone_awl-the_lowest_road.jpg
 inStock: true
-thumbnailImage: /images/covers/bone_awl-the_lowest_road-thumb.png
+thumbnailImage: /images/covers/bone_awl-the_lowest_road-thumb.jpg
 title: Bone Awl - The Lowest Road
 ---
 

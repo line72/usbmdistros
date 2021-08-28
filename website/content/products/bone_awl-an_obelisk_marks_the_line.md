@@ -7,9 +7,9 @@ categories:
 date: '2021-08-17T13:15:22'
 draft: false
 images:
-- /images/covers/bone_awl-an_obelisk_marks_the_line.png
+- /images/covers/bone_awl-an_obelisk_marks_the_line.jpg
 inStock: true
-thumbnailImage: /images/covers/bone_awl-an_obelisk_marks_the_line-thumb.png
+thumbnailImage: /images/covers/bone_awl-an_obelisk_marks_the_line-thumb.jpg
 title: Bone Awl - An Obelisk Marks The Line
 ---
 
