@@ -4,7 +4,7 @@ album: Mors Aeterna
 artist: Sanctvs
 categories:
 - Tape
-date: '2021-06-26T15:03:02'
+date: '2021-08-30T13:37:59'
 draft: false
 images:
 - /images/covers/sanctvs-mors_aeterna.jpg

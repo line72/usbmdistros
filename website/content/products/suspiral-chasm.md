@@ -4,7 +4,7 @@ album: Chasm
 artist: Suspiral
 categories:
 - Vinyl
-date: '2021-07-11T20:52:28'
+date: '2021-08-30T06:57:14'
 draft: false
 images:
 - /images/covers/suspiral-chasm.jpg
@@ -14,4 +14,4 @@ title: Suspiral - Chasm
 ---
 
 ## Vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/suspiral-chasm) for $20.00 :: Black
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/suspiral-chasm) for $20.00 :: Black 1st press vinyl
