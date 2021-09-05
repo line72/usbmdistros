@@ -4,7 +4,7 @@ album: Southern Darkness
 artist: Mardraum
 categories:
 - Vinyl
-date: '2021-09-03T05:08:43'
+date: '2021-09-05T05:08:44'
 draft: false
 images:
 - /images/covers/mardraum-southern_darkness.jpg
