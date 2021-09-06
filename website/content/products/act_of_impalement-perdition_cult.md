@@ -1,10 +1,10 @@
 ---
-actualPrice: $8.50
+actualPrice: $11.00
 album: Perdition Cult
 artist: Act Of Impalement
 categories:
 - Vinyl
-date: '2021-06-26T15:16:21'
+date: '2021-09-06T06:47:18'
 draft: false
 images:
 - /images/covers/act_of_impalement-perdition_cult.jpg
@@ -14,4 +14,4 @@ title: Act Of Impalement - Perdition Cult
 ---
 
 ## Vinyl
-* Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/24814011-act-of-impalement-perdition-cult-vinyl-cal-100) for $8.50
+* Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/24814011-act-of-impalement-perdition-cult-vinyl-cal-100) for $11.00

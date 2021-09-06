@@ -1,10 +1,11 @@
 ---
-actualPrice: $7.50
+actualPrice: $7.50 - 20.00
 album: Eens Weer Prevaleert Het Heidens Hart
 artist: Mordaehoth
 categories:
+- Vinyl
 - CD
-date: '2021-06-29T15:06:28'
+date: '2021-09-06T06:52:45'
 draft: false
 images:
 - /images/covers/mordaehoth-eens_weer_prevaleert_het_heidens_hart.jpg
@@ -13,5 +14,8 @@ thumbnailImage: /images/covers/mordaehoth-eens_weer_prevaleert_het_heidens_hart-
 title: Mordaehoth - Eens Weer Prevaleert Het Heidens Hart
 ---
 
+## Vinyl
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=17298&sort=pd.name&order=ASC) for $20.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=6647&sort=pd.name&order=ASC) for $7.50
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=17297&sort=pd.name&order=ASC) for $10.00
