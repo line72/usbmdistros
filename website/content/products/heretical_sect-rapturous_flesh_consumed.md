@@ -6,7 +6,7 @@ categories:
 - Vinyl
 - Tape
 - CD
-date: '2021-08-19T06:54:49'
+date: '2021-09-08T05:01:03'
 draft: false
 images:
 - /images/covers/heretical_sect-rapturous_flesh_consumed.jpg
@@ -20,4 +20,4 @@ title: Heretical Sect - Rapturous Flesh Consumed
 ## Tape
 * Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/31253032-heretical-sect-rapturous-flesh-consumed) for $7.00
 ## CD
-* Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/31430698-heretical-sect-rapturous-flesh-consumed) for $11.50
+* Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/31430698-heretical-sect-rapturous-flesh-consumed) for $7.50

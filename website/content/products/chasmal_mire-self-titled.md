@@ -1,10 +1,10 @@
 ---
-actualPrice: $10.00
+actualPrice: $8.50
 album: Self-Titled
 artist: Chasmal Mire
 categories:
 - Tape
-date: '2021-06-26T15:16:22'
+date: '2021-09-08T05:01:00'
 draft: false
 images:
 - /images/covers/chasmal_mire-self-titled.jpg
@@ -14,4 +14,4 @@ title: Chasmal Mire - Self-Titled
 ---
 
 ## Tape
-* Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/31886227-chasmal-mire-self-titled-cd) for $10.00
+* Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/31886227-chasmal-mire-self-titled-cd) for $8.50
