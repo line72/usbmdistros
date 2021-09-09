@@ -1,10 +1,11 @@
 ---
-actualPrice: $25.00
+actualPrice: $12.00 - 35.00
 album: Bathory
 artist: Bathory
 categories:
 - Vinyl
-date: '2021-07-03T15:01:57'
+- Cassette
+date: '2021-09-09T05:07:59'
 draft: false
 images:
 - /images/covers/bathory-bathory.jpg
@@ -15,3 +16,6 @@ title: Bathory - Bathory
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=16545&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=17504&sort=pd.name&order=ASC) for $35.00
+## Cassette
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=17529&sort=pd.name&order=ASC) for $12.00

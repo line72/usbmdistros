@@ -7,9 +7,9 @@ categories:
 date: '2021-09-08T05:06:02'
 draft: false
 images:
-- /images/covers/diocletian-amongst_the_flames_of_a_burning_god.png
+- /images/covers/diocletian-amongst_the_flames_of_a_burning_god.jpg
 inStock: true
-thumbnailImage: /images/covers/diocletian-amongst_the_flames_of_a_burning_god-thumb.png
+thumbnailImage: /images/covers/diocletian-amongst_the_flames_of_a_burning_god-thumb.jpg
 title: Diocletian - Amongst the Flames of a Burning God
 ---
 

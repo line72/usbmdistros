@@ -1,10 +1,10 @@
 ---
-actualPrice: $15.00
+actualPrice: $10.00
 album: Emptiness
 artist: Ohtar
 categories:
 - CD
-date: '2021-07-10T19:58:26'
+date: '2021-09-09T05:08:42'
 draft: false
 images:
 - /images/covers/ohtar-emptiness.png
@@ -14,4 +14,4 @@ title: Ohtar - Emptiness
 ---
 
 ## CD
-* Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/ohtar-emptiness-cd/) for $15.00
+* Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/ohtar-emptiness-cd/) for $10.00

@@ -4,7 +4,7 @@ album: Arrival of the Plague Bearer
 artist: Order of Nosferat
 categories:
 - CD
-date: '2021-06-29T15:00:46'
+date: '2021-09-09T05:00:29'
 draft: false
 images:
 - /images/covers/order_of_nosferat-arrival_of_the_plague_bearer.jpg

@@ -8,9 +8,9 @@ categories:
 date: '2021-09-08T05:07:09'
 draft: false
 images:
-- "/images/covers/malokarpatan-strid\u017Eie_dni.png"
+- "/images/covers/malokarpatan-strid\u017Eie_dni.jpg"
 inStock: true
-thumbnailImage: "/images/covers/malokarpatan-strid\u017Eie_dni-thumb.png"
+thumbnailImage: "/images/covers/malokarpatan-strid\u017Eie_dni-thumb.jpg"
 title: "Malokarpatan - Strid\u017Eie dni"
 ---
 
