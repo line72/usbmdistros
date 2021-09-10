@@ -4,7 +4,7 @@ album: s/t
 artist: "Gr\xF3galdr"
 categories:
 - CD
-date: '2021-08-07T05:42:49'
+date: '2021-09-10T05:00:30'
 draft: false
 images:
 - "/images/covers/gr\xF3galdr-s-t.jpg"

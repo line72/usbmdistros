@@ -1,10 +1,10 @@
 ---
-actualPrice: $10.00
+actualPrice: $8.00
 album: Unbroken Spirit
 artist: Lascowiec
 categories:
 - CD
-date: '2021-07-10T19:58:26'
+date: '2021-09-10T05:08:15'
 draft: false
 images:
 - /images/covers/lascowiec-unbroken_spirit.jpg
@@ -14,4 +14,4 @@ title: Lascowiec - Unbroken Spirit
 ---
 
 ## CD
-* Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/lascowiec-unbroken-spirit-cd/) for $10.00
+* Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/lascowiec-unbroken-spirit-cd/) for $8.00
