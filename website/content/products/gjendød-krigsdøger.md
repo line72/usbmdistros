@@ -4,7 +4,7 @@ album: "Krigsd\xF8ger"
 artist: "Gjend\xF8d"
 categories:
 - Vinyl
-date: '2021-06-26T15:02:53'
+date: '2021-09-12T05:00:14'
 draft: false
 images:
 - "/images/covers/gjend\xF8d-krigsd\xF8ger.jpg"

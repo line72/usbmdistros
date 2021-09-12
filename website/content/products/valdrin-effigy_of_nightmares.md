@@ -6,7 +6,7 @@ categories:
 - Vinyl
 - Cassette
 - CD
-date: '2021-08-24T06:54:44'
+date: '2021-09-12T05:07:33'
 draft: false
 images:
 - /images/covers/valdrin-effigy_of_nightmares.jpg
@@ -18,6 +18,7 @@ title: Valdrin - Effigy of Nightmares
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=9317&sort=pd.name&order=ASC) for $22.00
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/valdrin-effigy-of-nightmares-lp) for $22.00 :: Black 1st press vinyl
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=17598&sort=pd.name&order=ASC) for $22.00
 ## Cassette
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=9321&sort=pd.name&order=ASC) for $8.00
 ## CD
