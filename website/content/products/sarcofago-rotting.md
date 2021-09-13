@@ -1,10 +1,11 @@
 ---
-actualPrice: $15.00
+actualPrice: $15.00 - 25.00
 album: Rotting
 artist: Sarcofago
 categories:
+- Vinyl
 - CD
-date: '2021-06-26T15:23:14'
+date: '2021-09-13T05:06:53'
 draft: false
 images:
 - /images/covers/sarcofago-rotting.png
@@ -13,5 +14,7 @@ thumbnailImage: /images/covers/sarcofago-rotting-thumb.png
 title: Sarcofago - Rotting
 ---
 
+## Vinyl
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=17620&sort=pd.name&order=ASC) for $25.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=11430&sort=pd.name&order=ASC) for $15.00
