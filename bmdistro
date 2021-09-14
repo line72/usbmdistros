@@ -37,7 +37,7 @@ def go():
         libbmdistro.parsers.NWN(stores['nwn'], 'https://shop.nwnprod.com/index.php'),
         libbmdistro.parsers.MetalToTheCore1986(stores['metal-to-the-core-1986'], 'https://metaltothecore1986.com/wp-json/wc/store/products'),
         libbmdistro.parsers.MeteorGem(stores['meteor-gem'], 'https://meteor-gem.com/products.json'),
-        # libbmdistro.parsers.CWProductions(stores['cw-productions'], 'https://shop.cwproductions.net/products.json'),
+        libbmdistro.parsers.CWProductions(stores['cw-productions'], 'https://shop.cwproductions.net/products.json'),
     ]
 
     
