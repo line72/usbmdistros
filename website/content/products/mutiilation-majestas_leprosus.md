@@ -1,10 +1,10 @@
 ---
-actualPrice: $26.00
+actualPrice: $18.00
 album: Majestas Leprosus
 artist: Mutiilation
 categories:
 - Vinyl
-date: '2021-09-10T05:08:12'
+date: '2021-09-14T05:08:27'
 draft: false
 images:
 - /images/covers/mutiilation-majestas_leprosus.jpg
@@ -14,4 +14,4 @@ title: Mutiilation - Majestas Leprosus
 ---
 
 ## Vinyl
-* Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/mutiilation-majestas-leprosus-12-lp/) for $26.00
+* Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/mutiilation-majestas-leprosus-12-lp/) for $18.00

@@ -1,10 +1,10 @@
 ---
-actualPrice: $30.00
+actualPrice: $20.00
 album: Seven Chalices
 artist: Teitanblood
 categories:
 - Vinyl
-date: '2021-08-27T06:54:01'
+date: '2021-09-14T05:08:26'
 draft: false
 images:
 - /images/covers/teitanblood-seven_chalices.jpg
@@ -14,4 +14,4 @@ title: Teitanblood - Seven Chalices
 ---
 
 ## Vinyl
-* Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/teitanblood-seven-chalices-12-double-lp/) for $30.00
+* Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/teitanblood-seven-chalices-12-double-lp/) for $20.00

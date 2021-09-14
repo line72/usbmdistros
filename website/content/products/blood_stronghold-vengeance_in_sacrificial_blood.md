@@ -6,7 +6,7 @@ categories:
 - Vinyl
 - Tape
 - CD
-date: '2021-08-17T13:15:24'
+date: '2021-09-14T05:00:29'
 draft: false
 images:
 - /images/covers/blood_stronghold-vengeance_in_sacrificial_blood.jpg

@@ -4,7 +4,7 @@ album: Nocte Venari
 artist: Oppressive Descent
 categories:
 - Vinyl
-date: '2021-08-23T05:08:45'
+date: '2021-09-14T05:00:17'
 draft: false
 images:
 - /images/covers/oppressive_descent-nocte_venari.jpg
