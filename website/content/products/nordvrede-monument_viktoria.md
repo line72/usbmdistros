@@ -4,7 +4,7 @@ album: Monument Viktoria
 artist: Nordvrede
 categories:
 - CD
-date: '2021-08-17T13:15:22'
+date: '2021-09-15T05:10:45'
 draft: false
 images:
 - /images/covers/nordvrede-monument_viktoria.jpg
@@ -15,3 +15,4 @@ title: Nordvrede - Monument Viktoria
 
 ## CD
 * Purchase from [CW Productions](https://shop.cwproductions.net/products/nordvrede-monument-viktoria-cd) for $13.00
+* Purchase from [CW Productions](https://shop.cwproductions.net/products/nordvrede-monument-viktoria-cd-1) for $13.00

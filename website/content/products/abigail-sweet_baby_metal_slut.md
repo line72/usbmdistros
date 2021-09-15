@@ -1,11 +1,12 @@
 ---
-actualPrice: $9.00 - 10.50
+actualPrice: $9.00 - 20.00
 album: Sweet Baby Metal Slut
 artist: Abigail
 categories:
+- Vinyl
 - Tape
 - Cassette
-date: '2021-09-13T05:01:03'
+date: '2021-09-15T05:05:58'
 draft: false
 images:
 - /images/covers/abigail-sweet_baby_metal_slut.png
@@ -14,6 +15,8 @@ thumbnailImage: /images/covers/abigail-sweet_baby_metal_slut-thumb.png
 title: Abigail - Sweet Baby Metal Slut
 ---
 
+## Vinyl
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=17643&sort=pd.name&order=ASC) for $20.00
 ## Tape
 * Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/33512137-abigail-sweet-baby-metal-slut) for $10.50
 ## Cassette
