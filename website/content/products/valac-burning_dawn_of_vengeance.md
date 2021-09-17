@@ -4,7 +4,7 @@ album: Burning Dawn of Vengeance
 artist: Valac
 categories:
 - CD
-date: '2021-06-26T15:03:07'
+date: '2021-09-17T05:00:33'
 draft: false
 images:
 - /images/covers/valac-burning_dawn_of_vengeance.jpg
