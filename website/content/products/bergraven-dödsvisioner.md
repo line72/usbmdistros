@@ -1,10 +1,10 @@
 ---
-actualPrice: $16.50
+actualPrice: $22.00
 album: "D\xF6dsvisioner"
 artist: Bergraven
 categories:
 - Vinyl
-date: '2021-06-29T15:05:52'
+date: '2021-09-18T05:05:55'
 draft: false
 images:
 - "/images/covers/bergraven-d\xF6dsvisioner.jpg"
@@ -14,4 +14,4 @@ title: "Bergraven - D\xF6dsvisioner"
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=8863&sort=pd.name&order=ASC) for $16.50
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=8863&sort=pd.name&order=ASC) for $22.00
