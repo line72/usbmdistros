@@ -1,10 +1,10 @@
 ---
-actualPrice: $16.00
+actualPrice: $18.00
 album: Via Negativa
 artist: Teratism
 categories:
 - Vinyl
-date: '2021-09-10T05:08:16'
+date: '2021-09-20T05:09:33'
 draft: false
 images:
 - /images/covers/teratism-via_negativa.jpg
@@ -14,4 +14,4 @@ title: Teratism - Via Negativa
 ---
 
 ## Vinyl
-* Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/teratism-via-negativa-12-double-lp/) for $16.00
+* Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/teratism-via-negativa-12-double-lp/) for $18.00
