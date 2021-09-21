@@ -5,7 +5,7 @@ artist: Windir
 categories:
 - Vinyl
 - Cassette
-date: '2021-08-20T06:54:36'
+date: '2021-09-21T05:11:46'
 draft: false
 images:
 - /images/covers/windir-1184.jpg
@@ -17,5 +17,6 @@ title: Windir - 1184
 ## Vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/windir-1184-2xlp) for $39.00 :: Clear/Black Marbled 2021 press vinyl
 * Purchase from [Sto'Vo'Kor Records](https://stovokor-records.com/products/windir-1184) for $29.00
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/windir-1184-2xlp) for $32.00 :: Silver 2nd press vinyl
 ## Cassette
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/windir-1184-cassette) for $13.00 :: Cassette Tape 2021 press
