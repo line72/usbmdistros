@@ -4,7 +4,7 @@ album: Apostoli Infernum
 artist: Abruptum
 categories:
 - Vinyl
-date: '2021-06-26T15:22:59'
+date: '2021-09-30T05:07:20'
 draft: false
 images:
 - /images/covers/abruptum-apostoli_infernum.jpg
@@ -15,3 +15,4 @@ title: Abruptum - Apostoli Infernum
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=14462&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=17991&sort=pd.name&order=ASC) for $25.00

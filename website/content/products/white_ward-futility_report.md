@@ -5,7 +5,7 @@ artist: White Ward
 categories:
 - Vinyl
 - CD
-date: '2021-07-11T20:52:13'
+date: '2021-09-28T05:10:14'
 draft: false
 images:
 - /images/covers/white_ward-futility_report.jpg
@@ -18,6 +18,6 @@ title: White Ward - Futility Report
 * Purchase from [Debemur Morti](https://debemurmorti.aisamerch.com/item/99581) for $25.99 :: camo green
 * Purchase from [Debemur Morti](https://debemurmorti.aisamerch.com/item/99583) for $25.99 :: green pigment
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/white-ward-futility-report-lp) for $32.00 :: Camo Green 2021 press vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/white-ward-futility-report-lp) for $32.00 :: Clear w/ Green Swirl 2021 press vinyl
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/white-ward-futility-report-lp) for $29.00 :: Clear w/ Green Swirl 2021 press vinyl
 ## CD
 * Purchase from [Debemur Morti](https://debemurmorti.aisamerch.com/item/74790) for $9.99

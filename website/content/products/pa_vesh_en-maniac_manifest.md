@@ -1,10 +1,11 @@
 ---
-actualPrice: $10.00
+actualPrice: $10.00 - 20.00
 album: Maniac Manifest
 artist: Pa Vesh En
 categories:
+- Vinyl
 - CD
-date: '2021-09-11T05:07:16'
+date: '2021-10-01T05:06:50'
 draft: false
 images:
 - /images/covers/pa_vesh_en-maniac_manifest.jpg
@@ -13,5 +14,7 @@ thumbnailImage: /images/covers/pa_vesh_en-maniac_manifest-thumb.jpg
 title: Pa Vesh En - Maniac Manifest
 ---
 
+## Vinyl
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=17998&sort=pd.name&order=ASC) for $20.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=17582&sort=pd.name&order=ASC) for $10.00

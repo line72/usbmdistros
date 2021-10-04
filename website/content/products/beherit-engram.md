@@ -1,11 +1,12 @@
 ---
-actualPrice: $12.00
+actualPrice: $12.00 - 27.00
 album: Engram
 artist: Beherit
 categories:
+- Vinyl
 - Cassette
 - CD
-date: '2021-09-21T05:07:55'
+date: '2021-09-29T05:06:17'
 draft: false
 images:
 - /images/covers/beherit-engram.jpg
@@ -14,6 +15,8 @@ thumbnailImage: /images/covers/beherit-engram-thumb.jpg
 title: Beherit - Engram
 ---
 
+## Vinyl
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=17953&sort=pd.name&order=ASC) for $27.00
 ## Cassette
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=17803&sort=pd.name&order=ASC) for $12.00
 ## CD

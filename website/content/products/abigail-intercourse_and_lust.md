@@ -1,11 +1,12 @@
 ---
-actualPrice: $9.00 - 11.00
+actualPrice: $9.00 - 20.00
 album: Intercourse and Lust
 artist: Abigail
 categories:
+- Vinyl
 - Tape
 - Cassette
-date: '2021-09-12T05:01:08'
+date: '2021-09-29T05:06:12'
 draft: false
 images:
 - /images/covers/abigail-intercourse_and_lust.png
@@ -14,6 +15,9 @@ thumbnailImage: /images/covers/abigail-intercourse_and_lust-thumb.png
 title: Abigail - Intercourse and Lust
 ---
 
+## Vinyl
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=17916&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=17937&sort=pd.name&order=ASC) for $20.00
 ## Tape
 * Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/33511999-abigail-intercourse-and-lust) for $11.00
 ## Cassette

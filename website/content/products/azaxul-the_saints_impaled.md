@@ -4,7 +4,7 @@ album: The Saints Impaled
 artist: Azaxul
 categories:
 - CD
-date: '2021-06-26T15:03:08'
+date: '2021-10-04T05:00:47'
 draft: false
 images:
 - /images/covers/azaxul-the_saints_impaled.jpg

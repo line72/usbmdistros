@@ -5,7 +5,8 @@ artist: Disimperium
 categories:
 - Vinyl
 - Tape
-date: '2021-08-15T06:47:12'
+- Cassette
+date: '2021-09-27T05:12:15'
 draft: false
 images:
 - /images/covers/disimperium-malefic_obliteration.jpg
@@ -19,3 +20,5 @@ title: Disimperium - Malefic Obliteration
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/disimperium-malefic-obliteration-7) for $14.00 :: Black 1st press vinyl
 ## Tape
 * Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/33164062-disimperium-malefic-obliteration) for $8.00
+## Cassette
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/disimperium-malefic-obliteration-cassette) for $9.00 :: Cassette Tape 1st press

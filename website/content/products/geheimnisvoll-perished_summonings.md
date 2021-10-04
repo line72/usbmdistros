@@ -4,7 +4,7 @@ album: Perished Summonings
 artist: Geheimnisvoll
 categories:
 - CD
-date: '2021-06-26T15:03:08'
+date: '2021-09-27T05:02:06'
 draft: false
 images:
 - /images/covers/geheimnisvoll-perished_summonings.jpg

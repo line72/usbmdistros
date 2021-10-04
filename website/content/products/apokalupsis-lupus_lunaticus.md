@@ -4,7 +4,7 @@ album: Lupus Lunaticus
 artist: Apokalupsis
 categories:
 - Tape
-date: '2021-06-26T15:03:02'
+date: '2021-09-27T05:01:59'
 draft: false
 images:
 - /images/covers/apokalupsis-lupus_lunaticus.jpg

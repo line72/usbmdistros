@@ -1,10 +1,10 @@
 ---
-actualPrice: $8.00
+actualPrice: $6.00
 album: Raw Darkness
 artist: Rooforest
 categories:
 - Tape
-date: '2021-06-26T15:16:24'
+date: '2021-09-25T05:01:33'
 draft: false
 images:
 - /images/covers/rooforest-raw_darkness.jpg
@@ -14,4 +14,4 @@ title: Rooforest - Raw Darkness
 ---
 
 ## Tape
-* Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/31086703-rooforest-raw-darkness) for $8.00
+* Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/31086703-rooforest-raw-darkness) for $6.00
