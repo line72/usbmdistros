@@ -7,9 +7,9 @@ categories:
 date: '2021-09-24T05:08:46'
 draft: false
 images:
-- "/images/covers/w\xF3ddr\xE9a_mylenstede-i_&_ii.png"
+- "/images/covers/w\xF3ddr\xE9a_mylenstede-i_&_ii.jpg"
 inStock: true
-thumbnailImage: "/images/covers/w\xF3ddr\xE9a_mylenstede-i_&_ii-thumb.png"
+thumbnailImage: "/images/covers/w\xF3ddr\xE9a_mylenstede-i_&_ii-thumb.jpg"
 title: "W\xF3ddr\xE9a Mylenstede - I & II"
 ---
 

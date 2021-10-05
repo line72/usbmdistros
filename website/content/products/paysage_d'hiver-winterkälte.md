@@ -7,9 +7,9 @@ categories:
 date: '2021-09-27T05:12:15'
 draft: false
 images:
-- "/images/covers/paysage_d'hiver-winterk\xE4lte.png"
+- "/images/covers/paysage_d'hiver-winterk\xE4lte.jpg"
 inStock: true
-thumbnailImage: "/images/covers/paysage_d'hiver-winterk\xE4lte-thumb.png"
+thumbnailImage: "/images/covers/paysage_d'hiver-winterk\xE4lte-thumb.jpg"
 title: "Paysage d'Hiver - Winterk\xE4lte"
 ---
 

@@ -7,9 +7,9 @@ categories:
 date: '2021-09-24T05:06:30'
 draft: false
 images:
-- /images/covers/enthroned-armoured_bestial_hell.png
+- /images/covers/enthroned-armoured_bestial_hell.jpg
 inStock: true
-thumbnailImage: /images/covers/enthroned-armoured_bestial_hell-thumb.png
+thumbnailImage: /images/covers/enthroned-armoured_bestial_hell-thumb.jpg
 title: Enthroned - Armoured Bestial Hell
 ---
 

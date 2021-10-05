@@ -7,9 +7,9 @@ categories:
 date: '2021-09-26T05:08:54'
 draft: false
 images:
-- /images/covers/ravenbanner-and_ravens_sing_our_glorious_past_digipak.png
+- /images/covers/ravenbanner-and_ravens_sing_our_glorious_past_digipak.jpg
 inStock: true
-thumbnailImage: /images/covers/ravenbanner-and_ravens_sing_our_glorious_past_digipak-thumb.png
+thumbnailImage: /images/covers/ravenbanner-and_ravens_sing_our_glorious_past_digipak-thumb.jpg
 title: Ravenbanner - And Ravens Sing Our Glorious Past DIGIPAK
 ---
 

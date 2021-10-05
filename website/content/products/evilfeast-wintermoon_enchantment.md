@@ -8,9 +8,9 @@ categories:
 date: '2021-09-29T05:07:29'
 draft: false
 images:
-- /images/covers/evilfeast-wintermoon_enchantment.png
+- /images/covers/evilfeast-wintermoon_enchantment.jpg
 inStock: true
-thumbnailImage: /images/covers/evilfeast-wintermoon_enchantment-thumb.png
+thumbnailImage: /images/covers/evilfeast-wintermoon_enchantment-thumb.jpg
 title: Evilfeast - Wintermoon Enchantment
 ---
 

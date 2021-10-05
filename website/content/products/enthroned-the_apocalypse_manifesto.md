@@ -7,9 +7,9 @@ categories:
 date: '2021-09-29T05:06:27'
 draft: false
 images:
-- /images/covers/enthroned-the_apocalypse_manifesto.png
+- /images/covers/enthroned-the_apocalypse_manifesto.jpg
 inStock: true
-thumbnailImage: /images/covers/enthroned-the_apocalypse_manifesto-thumb.png
+thumbnailImage: /images/covers/enthroned-the_apocalypse_manifesto-thumb.jpg
 title: Enthroned - The Apocalypse Manifesto
 ---
 

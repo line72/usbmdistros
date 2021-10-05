@@ -7,9 +7,9 @@ categories:
 date: '2021-09-29T05:07:20'
 draft: false
 images:
-- /images/covers/beherit-h418ov21.c.png
+- /images/covers/beherit-h418ov21.c.jpg
 inStock: true
-thumbnailImage: /images/covers/beherit-h418ov21.c-thumb.png
+thumbnailImage: /images/covers/beherit-h418ov21.c-thumb.jpg
 title: Beherit - H418ov21.C
 ---
 

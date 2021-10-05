@@ -7,9 +7,9 @@ categories:
 date: '2021-09-27T05:12:15'
 draft: false
 images:
-- /images/covers/lychgate-the_contagion_in_nine_steps.png
+- /images/covers/lychgate-the_contagion_in_nine_steps.jpg
 inStock: true
-thumbnailImage: /images/covers/lychgate-the_contagion_in_nine_steps-thumb.png
+thumbnailImage: /images/covers/lychgate-the_contagion_in_nine_steps-thumb.jpg
 title: Lychgate - The Contagion In Nine Steps
 ---
 

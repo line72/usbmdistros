@@ -7,9 +7,9 @@ categories:
 date: '2021-09-24T05:08:04'
 draft: false
 images:
-- "/images/covers/ringar\xEB-thrall_of_winter's_majesty.png"
+- "/images/covers/ringar\xEB-thrall_of_winter's_majesty.jpg"
 inStock: true
-thumbnailImage: "/images/covers/ringar\xEB-thrall_of_winter's_majesty-thumb.png"
+thumbnailImage: "/images/covers/ringar\xEB-thrall_of_winter's_majesty-thumb.jpg"
 title: "Ringar\xEB - Thrall of Winter's Majesty"
 ---
 

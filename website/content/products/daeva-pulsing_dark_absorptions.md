@@ -7,9 +7,9 @@ categories:
 date: '2021-09-27T05:12:15'
 draft: false
 images:
-- /images/covers/daeva-pulsing_dark_absorptions.png
+- /images/covers/daeva-pulsing_dark_absorptions.jpg
 inStock: true
-thumbnailImage: /images/covers/daeva-pulsing_dark_absorptions-thumb.png
+thumbnailImage: /images/covers/daeva-pulsing_dark_absorptions-thumb.jpg
 title: Daeva - Pulsing Dark Absorptions
 ---
 

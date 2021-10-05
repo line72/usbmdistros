@@ -7,9 +7,9 @@ categories:
 date: '2021-09-25T05:08:07'
 draft: false
 images:
-- /images/covers/tormentor-anno_daemoni:_hungarian_black_metal_night.png
+- /images/covers/tormentor-anno_daemoni:_hungarian_black_metal_night.jpg
 inStock: true
-thumbnailImage: /images/covers/tormentor-anno_daemoni:_hungarian_black_metal_night-thumb.png
+thumbnailImage: /images/covers/tormentor-anno_daemoni:_hungarian_black_metal_night-thumb.jpg
 title: 'Tormentor - Anno Daemoni: Hungarian Black Metal Night'
 ---
 

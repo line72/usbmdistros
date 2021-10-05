@@ -7,9 +7,9 @@ categories:
 date: '2021-09-30T05:01:26'
 draft: false
 images:
-- /images/covers/kvltmor-xiii_ritual.png
+- /images/covers/kvltmor-xiii_ritual.jpg
 inStock: true
-thumbnailImage: /images/covers/kvltmor-xiii_ritual-thumb.png
+thumbnailImage: /images/covers/kvltmor-xiii_ritual-thumb.jpg
 title: Kvltmor - Xiii Ritual
 ---
 

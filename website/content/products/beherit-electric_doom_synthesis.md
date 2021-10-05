@@ -7,9 +7,9 @@ categories:
 date: '2021-09-29T05:07:20'
 draft: false
 images:
-- /images/covers/beherit-electric_doom_synthesis.png
+- /images/covers/beherit-electric_doom_synthesis.jpg
 inStock: true
-thumbnailImage: /images/covers/beherit-electric_doom_synthesis-thumb.png
+thumbnailImage: /images/covers/beherit-electric_doom_synthesis-thumb.jpg
 title: Beherit - Electric Doom Synthesis
 ---
 

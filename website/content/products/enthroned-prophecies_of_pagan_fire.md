@@ -7,9 +7,9 @@ categories:
 date: '2021-09-29T05:06:27'
 draft: false
 images:
-- /images/covers/enthroned-prophecies_of_pagan_fire.png
+- /images/covers/enthroned-prophecies_of_pagan_fire.jpg
 inStock: true
-thumbnailImage: /images/covers/enthroned-prophecies_of_pagan_fire-thumb.png
+thumbnailImage: /images/covers/enthroned-prophecies_of_pagan_fire-thumb.jpg
 title: Enthroned - Prophecies of Pagan Fire
 ---
 

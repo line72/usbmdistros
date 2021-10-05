@@ -7,9 +7,9 @@ categories:
 date: '2021-09-24T05:10:24'
 draft: false
 images:
-- /images/covers/doedsvangr-satan_ov_suns.png
+- /images/covers/doedsvangr-satan_ov_suns.jpg
 inStock: true
-thumbnailImage: /images/covers/doedsvangr-satan_ov_suns-thumb.png
+thumbnailImage: /images/covers/doedsvangr-satan_ov_suns-thumb.jpg
 title: Doedsvangr - Satan Ov Suns
 ---
 

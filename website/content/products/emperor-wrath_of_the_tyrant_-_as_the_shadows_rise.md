@@ -7,9 +7,9 @@ categories:
 date: '2021-09-24T05:06:30'
 draft: false
 images:
-- /images/covers/emperor-wrath_of_the_tyrant_-_as_the_shadows_rise.png
+- /images/covers/emperor-wrath_of_the_tyrant_-_as_the_shadows_rise.jpg
 inStock: true
-thumbnailImage: /images/covers/emperor-wrath_of_the_tyrant_-_as_the_shadows_rise-thumb.png
+thumbnailImage: /images/covers/emperor-wrath_of_the_tyrant_-_as_the_shadows_rise-thumb.jpg
 title: Emperor - Wrath of the Tyrant / As the Shadows Rise
 ---
 
