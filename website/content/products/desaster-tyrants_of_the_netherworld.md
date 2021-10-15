@@ -1,0 +1,17 @@
+---
+actualPrice: $25.00
+album: Tyrants Of The Netherworld
+artist: Desaster
+categories:
+- Vinyl
+date: '2021-10-14T18:51:18'
+draft: false
+images:
+- /images/covers/desaster-tyrants_of_the_netherworld.png
+inStock: true
+thumbnailImage: /images/covers/desaster-tyrants_of_the_netherworld-thumb.png
+title: Desaster - Tyrants Of The Netherworld
+---
+
+## Vinyl
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=18140&sort=pd.name&order=ASC) for $25.00

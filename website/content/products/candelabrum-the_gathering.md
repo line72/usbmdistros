@@ -1,11 +1,11 @@
 ---
-actualPrice: $13.00 - 28.00
+actualPrice: $11.00 - 28.00
 album: The Gathering
 artist: Candelabrum
 categories:
 - Vinyl
 - CD
-date: '2021-09-02T05:08:43'
+date: '2021-10-14T18:54:11'
 draft: false
 images:
 - /images/covers/candelabrum-the_gathering.jpg
@@ -18,3 +18,4 @@ title: Candelabrum - The Gathering
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/candelabrum-the-gathering-2xlp) for $28.00
 ## CD
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/candelabrum-the-gathering-cd) for $13.00
+* Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/candelabrum-the-gathering-cd/) for $11.00

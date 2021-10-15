@@ -1,10 +1,11 @@
 ---
-actualPrice: $20.00
+actualPrice: $13.00 - 20.00
 album: Banished From Time
 artist: Black Cilice
 categories:
 - Vinyl
-date: '2021-08-10T05:00:10'
+- CD
+date: '2021-10-14T18:54:11'
 draft: false
 images:
 - /images/covers/black_cilice-banished_from_time.jpg
@@ -16,3 +17,6 @@ title: Black Cilice - Banished From Time
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=16179&sort=pd.name&order=ASC) for $20.00
 * Purchase from [Sto'Vo'Kor Records](https://stovokor-records.com/products/black-cilice-banished-from-time) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=18223&sort=pd.name&order=ASC) for $20.00
+## CD
+* Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/black-cilice-banished-from-time-cd/) for $13.00

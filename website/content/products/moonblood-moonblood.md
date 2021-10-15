@@ -5,7 +5,7 @@ artist: Moonblood
 categories:
 - Vinyl
 - CD
-date: '2021-09-26T05:06:44'
+date: '2021-10-14T18:52:47'
 draft: false
 images:
 - /images/covers/moonblood-moonblood.jpg
@@ -19,3 +19,4 @@ title: Moonblood - Moonblood
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=17908&sort=pd.name&order=ASC) for $30.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=17716&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=18171&sort=pd.name&order=ASC) for $15.00

@@ -4,7 +4,7 @@ album: "Dangerovz Magick Zpells\_from the Mesziah\_of Death"
 artist: Irae
 categories:
 - CD
-date: '2021-08-19T05:42:54'
+date: '2021-10-14T18:45:02'
 draft: false
 images:
 - "/images/covers/irae-dangerovz_magick_zpells\_from_the_mesziah\_of_death.jpg"

@@ -4,7 +4,7 @@ album: s/t
 artist: Shestopyor
 categories:
 - Vinyl
-date: '2021-07-10T16:58:01'
+date: '2021-10-14T18:44:44'
 draft: false
 images:
 - /images/covers/shestopyor-s-t.jpg

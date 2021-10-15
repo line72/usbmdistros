@@ -4,7 +4,7 @@ album: Unlock The Shrine
 artist: The Ruins Of Beverast
 categories:
 - Vinyl
-date: '2021-10-05T05:07:02'
+date: '2021-10-14T18:55:27'
 draft: false
 images:
 - /images/covers/the_ruins_of_beverast-unlock_the_shrine.jpg
@@ -19,3 +19,4 @@ title: The Ruins Of Beverast - Unlock The Shrine
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/the-ruins-of-beverast-unlock-the-shrine) for $29.00 :: Black 2nd press vinyl (SOLD OUT)
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/the-ruins-of-beverast-unlock-the-shrine-2xlp) for $35.00 :: Black/White 2021 press vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=18065&sort=pd.name&order=ASC) for $30.00
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/the-ruins-of-beverast-unlock-the-shrine-2xlp-1) for $35.00 :: Black/White 2021 press vinyl

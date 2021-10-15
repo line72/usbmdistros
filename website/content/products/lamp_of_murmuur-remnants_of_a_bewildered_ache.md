@@ -1,0 +1,17 @@
+---
+actualPrice: $20.00
+album: Remnants Of A Bewildered Ache
+artist: Lamp of Murmuur
+categories:
+- CD
+date: '2021-10-14T18:52:44'
+draft: false
+images:
+- /images/covers/lamp_of_murmuur-remnants_of_a_bewildered_ache.jpg
+inStock: true
+thumbnailImage: /images/covers/lamp_of_murmuur-remnants_of_a_bewildered_ache-thumb.jpg
+title: Lamp of Murmuur - Remnants Of A Bewildered Ache
+---
+
+## CD
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=18291&sort=pd.name&order=ASC) for $20.00
