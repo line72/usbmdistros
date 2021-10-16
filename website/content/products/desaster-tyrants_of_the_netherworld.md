@@ -7,9 +7,9 @@ categories:
 date: '2021-10-14T18:51:18'
 draft: false
 images:
-- /images/covers/desaster-tyrants_of_the_netherworld.png
+- /images/covers/desaster-tyrants_of_the_netherworld.jpg
 inStock: true
-thumbnailImage: /images/covers/desaster-tyrants_of_the_netherworld-thumb.png
+thumbnailImage: /images/covers/desaster-tyrants_of_the_netherworld-thumb.jpg
 title: Desaster - Tyrants Of The Netherworld
 ---
 

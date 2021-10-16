@@ -7,9 +7,9 @@ categories:
 date: '2021-10-14T18:51:11'
 draft: false
 images:
-- /images/covers/bathory-jubileum_volume_iii.png
+- /images/covers/bathory-jubileum_volume_iii.jpg
 inStock: true
-thumbnailImage: /images/covers/bathory-jubileum_volume_iii-thumb.png
+thumbnailImage: /images/covers/bathory-jubileum_volume_iii-thumb.jpg
 title: Bathory - Jubileum Volume III
 ---
 

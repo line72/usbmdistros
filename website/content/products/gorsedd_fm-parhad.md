@@ -7,9 +7,9 @@ categories:
 date: '2021-10-14T18:44:37'
 draft: false
 images:
-- /images/covers/gorsedd_fm-parhad.png
+- /images/covers/gorsedd_fm-parhad.jpg
 inStock: true
-thumbnailImage: /images/covers/gorsedd_fm-parhad-thumb.png
+thumbnailImage: /images/covers/gorsedd_fm-parhad-thumb.jpg
 title: Gorsedd FM - Parhad
 ---
 

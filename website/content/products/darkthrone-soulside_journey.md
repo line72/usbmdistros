@@ -7,9 +7,9 @@ categories:
 date: '2021-10-14T18:51:16'
 draft: false
 images:
-- /images/covers/darkthrone-soulside_journey.png
+- /images/covers/darkthrone-soulside_journey.jpg
 inStock: true
-thumbnailImage: /images/covers/darkthrone-soulside_journey-thumb.png
+thumbnailImage: /images/covers/darkthrone-soulside_journey-thumb.jpg
 title: Darkthrone - Soulside Journey
 ---
 

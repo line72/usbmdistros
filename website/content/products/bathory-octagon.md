@@ -7,9 +7,9 @@ categories:
 date: '2021-10-14T18:51:11'
 draft: false
 images:
-- /images/covers/bathory-octagon.png
+- /images/covers/bathory-octagon.jpg
 inStock: true
-thumbnailImage: /images/covers/bathory-octagon-thumb.png
+thumbnailImage: /images/covers/bathory-octagon-thumb.jpg
 title: Bathory - Octagon
 ---
 

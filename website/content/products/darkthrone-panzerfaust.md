@@ -7,9 +7,9 @@ categories:
 date: '2021-10-14T18:51:16'
 draft: false
 images:
-- /images/covers/darkthrone-panzerfaust.png
+- /images/covers/darkthrone-panzerfaust.jpg
 inStock: true
-thumbnailImage: /images/covers/darkthrone-panzerfaust-thumb.png
+thumbnailImage: /images/covers/darkthrone-panzerfaust-thumb.jpg
 title: Darkthrone - Panzerfaust
 ---
 

@@ -7,9 +7,9 @@ categories:
 date: '2021-10-14T18:45:02'
 draft: false
 images:
-- /images/covers/nigrum_tenebris-i_am_the_serpent.png
+- /images/covers/nigrum_tenebris-i_am_the_serpent.jpg
 inStock: true
-thumbnailImage: /images/covers/nigrum_tenebris-i_am_the_serpent-thumb.png
+thumbnailImage: /images/covers/nigrum_tenebris-i_am_the_serpent-thumb.jpg
 title: Nigrum Tenebris - I am the Serpent
 ---
 

@@ -7,9 +7,9 @@ categories:
 date: '2021-10-14T18:51:49'
 draft: false
 images:
-- /images/covers/sabbat-...for_satan_and_sacrifice....png
+- /images/covers/sabbat-...for_satan_and_sacrifice....jpg
 inStock: true
-thumbnailImage: /images/covers/sabbat-...for_satan_and_sacrifice...-thumb.png
+thumbnailImage: /images/covers/sabbat-...for_satan_and_sacrifice...-thumb.jpg
 title: Sabbat - ...For Satan And Sacrifice...
 ---
 

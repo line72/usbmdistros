@@ -7,9 +7,9 @@ categories:
 date: '2021-10-14T18:44:43'
 draft: false
 images:
-- /images/covers/cold_earth-your_misery,_my_triumph.png
+- /images/covers/cold_earth-your_misery,_my_triumph.jpg
 inStock: true
-thumbnailImage: /images/covers/cold_earth-your_misery,_my_triumph-thumb.png
+thumbnailImage: /images/covers/cold_earth-your_misery,_my_triumph-thumb.jpg
 title: Cold Earth - Your Misery, My Triumph
 ---
 

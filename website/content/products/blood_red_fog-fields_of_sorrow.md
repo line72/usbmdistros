@@ -7,9 +7,9 @@ categories:
 date: '2021-10-14T18:44:43'
 draft: false
 images:
-- /images/covers/blood_red_fog-fields_of_sorrow.png
+- /images/covers/blood_red_fog-fields_of_sorrow.jpg
 inStock: true
-thumbnailImage: /images/covers/blood_red_fog-fields_of_sorrow-thumb.png
+thumbnailImage: /images/covers/blood_red_fog-fields_of_sorrow-thumb.jpg
 title: Blood Red Fog - Fields of Sorrow
 ---
 

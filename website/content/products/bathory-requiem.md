@@ -7,9 +7,9 @@ categories:
 date: '2021-10-14T18:51:11'
 draft: false
 images:
-- /images/covers/bathory-requiem.png
+- /images/covers/bathory-requiem.jpg
 inStock: true
-thumbnailImage: /images/covers/bathory-requiem-thumb.png
+thumbnailImage: /images/covers/bathory-requiem-thumb.jpg
 title: Bathory - Requiem
 ---
 
