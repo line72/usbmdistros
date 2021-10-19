@@ -1,10 +1,11 @@
 ---
-actualPrice: $12.00
+actualPrice: $12.00 - 30.00
 album: Vampires Of Black Imperial Blood
 artist: "M\xFCtiilation"
 categories:
+- Vinyl
 - CD
-date: '2021-07-07T15:40:20'
+date: '2021-10-19T05:07:09'
 draft: false
 images:
 - "/images/covers/m\xFCtiilation-vampires_of_black_imperial_blood.png"
@@ -13,5 +14,7 @@ thumbnailImage: "/images/covers/m\xFCtiilation-vampires_of_black_imperial_blood-
 title: "M\xFCtiilation - Vampires Of Black Imperial Blood"
 ---
 
+## Vinyl
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=18395&sort=pd.name&order=ASC) for $30.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=16647&sort=pd.name&order=ASC) for $12.00

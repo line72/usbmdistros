@@ -5,7 +5,7 @@ artist: Antichrist Siege Machine
 categories:
 - Vinyl
 - Cassette
-date: '2021-10-06T05:10:28'
+date: '2021-10-19T05:10:33'
 draft: false
 images:
 - /images/covers/antichrist_siege_machine-purifying_blade.png
@@ -20,3 +20,4 @@ title: Antichrist Siege Machine - Purifying Blade
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/antichrist-siege-machine-purifying-blade-lp) for $32.00 :: Red/Black/Blue Merge 1st press vinyl
 ## Cassette
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/antichrist-siege-machine-purifying-blade-cassette) for $15.00 :: Cassette Tape 1st press
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/antichrist-siege-machine-purifying-blade-cassette-1) for $15.00 :: Cassette Tape 1st press

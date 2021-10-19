@@ -5,7 +5,7 @@ artist: Immortal
 categories:
 - Vinyl
 - CD
-date: '2021-09-09T05:10:19'
+date: '2021-10-19T05:08:08'
 draft: false
 images:
 - /images/covers/immortal-battles_in_the_north.png
@@ -19,3 +19,4 @@ title: Immortal - Battles In The North
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/immortal-battles-in-the-north) for $27.00 :: White 2021 press vinyl
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=16644&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=18386&sort=pd.name&order=ASC) for $12.00
