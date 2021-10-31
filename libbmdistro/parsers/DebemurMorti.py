@@ -47,7 +47,12 @@ class DebemurMorti(Parser):
         artist = entry.find('div', 'p').strong.text
         album, description = self.parse_album(entry.find('div', 'p').find('a').text)
         category = entry.find('a', 'cat')['href']
-        price = int(float(self.parse_price(entry.find('div', 'price').strong.text)) * 100)
+
+        # sometimes the price is in a <strong></strong>, sometimes it isn't
+        if entry.find('div', 'price').strong:
+            price = int(float(self.parse_price(entry.find('div', 'price').strong.text)) * 100)
+        else:
+            price = int(float(self.parse_price(entry.find('div', 'price').text)) * 100)
 
         link = entry.find('div', 'p').find('a')['href']
 
