@@ -37,26 +37,32 @@ class CWProductions(Parser):
     def parseItem(self, db, entry):
         pId = entry['id']
 
-        # Format is:
-        # Artist "Album" Format
-        # remove any function whitespace, and funky quotes
-        e = entry['title'].replace(chr(8206), ' ').replace(chr(8220), '"').replace(chr(8221), '"')
-        r = re.compile(r'^\s*(.*?)\s+"(.*?)"\s+(.*?)\s*$')
-        if (match := re.match(r, e)) != None:
-            artist = match.group(1).strip()
-            title = match.group(2).strip()
-            item_type, description = self.parse_item_type(match.group(3).strip())
-        else:
-            print((f'Unable to parse |{e}| {list(ord(x) for x in e)}'))
-            return None
-        
-        price = int(float(entry['variants'][0]['price']) * 100)
+        try:
+            # Format is:
+            # Artist "Album" Format
+            # remove any function whitespace, and funky quotes
+            e = entry['title'].replace(chr(8206), ' ').replace(chr(8220), '"').replace(chr(8221), '"')
+            r = re.compile(r'^\s*(.*?)\s+"(.*?)"\s+(.*?)\s*$')
+            if (match := re.match(r, e)) != None:
+                artist = match.group(1).strip()
+                title = match.group(2).strip()
+                item_type, description = self.parse_item_type(match.group(3).strip())
+            else:
+                print((f'Unable to parse |{e}| {list(ord(x) for x in e)}'))
+                return None
 
-        handle = entry['handle']
-        u = urllib.parse.urlparse(self.feed)
-        link = f'{u.scheme}://{u.netloc}/products/{handle}'
+            price = int(float(entry['variants'][0]['price']) * 100)
 
-        images = [i['src'] for i in entry['images']]
+            handle = entry['handle']
+            u = urllib.parse.urlparse(self.feed)
+            link = f'{u.scheme}://{u.netloc}/products/{handle}'
+
+            images = [i['src'] for i in entry['images']]
+        except Exception as e:
+            print('CWProduction::parseItem: Exception parsing', entry)
+            import traceback
+            traceback.print_exc()
+            raise e
         
         album = db.get_album(artist, title)
         for img in images:
@@ -76,5 +82,10 @@ class CWProductions(Parser):
             return ('Vinyl', match.group(1).strip())
         elif (match := re.match(re.compile(r'^LP\s+\+\s+\d+"\s+\((.*?)\)\s*$'), s)) != None:
             return ('Vinyl', match.group(1).strip())
+        elif (match := re.match(re.compile(r'^\(.*?\)\s+(.*?)\s*$'), s)) != None:
+            # some goofy ones have an extra translations in () before the actual type,
+            # strip it out and recurse.
+            print('CWProductions:parse_item_type: Warning, recursing on', match.group(1))
+            return self.parse_item_type(match.group(1))
         else:
             raise Exception(f'Unknown item type {s}')
