@@ -4,7 +4,7 @@ album: Transilvanian Hunger
 artist: Darkthrone
 categories:
 - Vinyl
-date: '2021-10-14T18:51:16'
+date: '2021-10-31T11:38:51'
 draft: false
 images:
 - /images/covers/darkthrone-transilvanian_hunger.jpg
@@ -15,3 +15,4 @@ title: Darkthrone - Transilvanian Hunger
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=18184&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=18607&sort=pd.name&order=ASC) for $25.00

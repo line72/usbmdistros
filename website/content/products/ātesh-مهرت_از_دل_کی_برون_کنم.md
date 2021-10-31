@@ -6,7 +6,7 @@ artist: "\u0100tesh"
 categories:
 - Vinyl
 - CD
-date: '2021-10-15T05:00:43'
+date: '2021-10-25T05:00:42'
 draft: false
 images:
 - "/images/covers/\u0101tesh-\u0645\u0647\u0631\u062A_\u0627\u0632_\u062F\u0644_\u06A9\

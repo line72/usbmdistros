@@ -5,7 +5,7 @@ artist: Beherit
 categories:
 - Cassette
 - CD
-date: '2021-06-26T15:23:19'
+date: '2021-10-31T11:40:16'
 draft: false
 images:
 - /images/covers/beherit-beast_of_beherit.jpg
@@ -18,3 +18,4 @@ title: Beherit - Beast of Beherit
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=16449&sort=pd.name&order=ASC) for $12.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=10515&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=18672&sort=pd.name&order=ASC) for $15.00

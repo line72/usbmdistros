@@ -4,7 +4,7 @@ album: Dishonoured & Forgotten
 artist: Frostveil
 categories:
 - CD
-date: '2021-06-26T15:03:07'
+date: '2021-10-23T05:00:33'
 draft: false
 images:
 - /images/covers/frostveil-dishonoured_&_forgotten.jpg

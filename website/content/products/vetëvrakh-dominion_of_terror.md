@@ -4,7 +4,7 @@ album: Dominion of Terror
 artist: "Vet\xEBvrakh"
 categories:
 - Vinyl
-date: '2021-06-26T15:02:54'
+date: '2021-10-24T05:00:18'
 draft: false
 images:
 - "/images/covers/vet\xEBvrakh-dominion_of_terror.jpg"

@@ -4,7 +4,7 @@ album: Blood of Dead God
 artist: Azothyst
 categories:
 - Vinyl
-date: '2021-09-13T05:10:17'
+date: '2021-10-31T11:43:47'
 draft: false
 images:
 - /images/covers/azothyst-blood_of_dead_god.jpg
@@ -17,3 +17,6 @@ title: Azothyst - Blood of Dead God
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/azothyst-blood-of-dead-god-lp) for $23.00 :: Black 1st press vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/azothyst-blood-of-dead-god-lp) for $23.00 :: White 1st press vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/azothyst-blood-of-dead-god-lp) for $29.00 :: Black Ice 1st press vinyl
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/azothyst-blood-of-dead-god-lp-1) for $23.00 :: Black 1st press vinyl
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/azothyst-blood-of-dead-god-lp-1) for $23.00 :: White 1st press vinyl
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/azothyst-blood-of-dead-god-lp-1) for $29.00 :: Black Ice 1st press vinyl

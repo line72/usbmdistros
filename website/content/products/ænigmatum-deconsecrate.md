@@ -5,7 +5,7 @@ artist: "\xC6NIGMATUM"
 categories:
 - Vinyl
 - Cassette
-date: '2021-08-27T19:36:21'
+date: '2021-10-31T11:43:47'
 draft: false
 images:
 - "/images/covers/\xE6nigmatum-deconsecrate.jpg"
@@ -19,3 +19,4 @@ title: "\xC6NIGMATUM - Deconsecrate"
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/aenigmatum-deconsecrate-lp) for $22.00 :: Color-In-Color w/ Splatter 1st press vinyl
 ## Cassette
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/aenigmatum-deconsecrate-cassette) for $10.00 :: Cassette Tape 1st press
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/aenigmatum-deconsecrate-cassette-1) for $10.00 :: Cassette Tape 1st press

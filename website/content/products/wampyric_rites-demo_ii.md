@@ -1,10 +1,11 @@
 ---
-actualPrice: $15.00
+actualPrice: $13.00 - 15.00
 album: Demo II
 artist: Wampyric Rites
 categories:
+- Tape
 - CD
-date: '2021-06-26T15:03:07'
+date: '2021-10-26T05:00:36'
 draft: false
 images:
 - /images/covers/wampyric_rites-demo_ii.jpg
@@ -13,5 +14,7 @@ thumbnailImage: /images/covers/wampyric_rites-demo_ii-thumb.jpg
 title: Wampyric Rites - Demo II
 ---
 
+## Tape
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/wampyric-rites-demo-ii-tape) for $13.00
 ## CD
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/wampyric-rites-demo-ii-cd) for $15.00

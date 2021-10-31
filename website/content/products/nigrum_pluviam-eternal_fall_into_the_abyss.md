@@ -1,10 +1,11 @@
 ---
-actualPrice: $10.00
+actualPrice: $10.00 - 25.00
 album: Eternal Fall into the Abyss
 artist: Nigrum Pluviam
 categories:
+- Vinyl
 - Tape
-date: '2021-10-14T18:44:37'
+date: '2021-10-26T05:00:23'
 draft: false
 images:
 - /images/covers/nigrum_pluviam-eternal_fall_into_the_abyss.jpg
@@ -13,5 +14,7 @@ thumbnailImage: /images/covers/nigrum_pluviam-eternal_fall_into_the_abyss-thumb.
 title: Nigrum Pluviam - Eternal Fall into the Abyss
 ---
 
+## Vinyl
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/nigrum-pluviam-eternal-fall-into-the-abyss-12-lp) for $25.00
 ## Tape
 * Purchase from [Sto'Vo'Kor Records](https://stovokor-records.com/products/nigrum-pluviam-eternal-fall-into-the-abyss) for $10.00

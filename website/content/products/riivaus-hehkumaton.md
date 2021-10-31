@@ -5,7 +5,7 @@ artist: Riivaus
 categories:
 - Vinyl
 - CD
-date: '2021-10-14T18:44:43'
+date: '2021-10-28T05:00:42'
 draft: false
 images:
 - /images/covers/riivaus-hehkumaton.jpg

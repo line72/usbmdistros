@@ -4,7 +4,7 @@ album: Forbidden Knowledge and Ancient Wisdom
 artist: Grand Celestial Nightmare
 categories:
 - Vinyl
-date: '2021-09-09T05:06:30'
+date: '2021-10-31T05:00:24'
 draft: false
 images:
 - /images/covers/grand_celestial_nightmare-forbidden_knowledge_and_ancient_wisdom.jpg
