@@ -8,9 +8,9 @@ categories:
 date: '2021-10-31T11:40:53'
 draft: false
 images:
-- /images/covers/ofermod-pentagrammaton.png
+- /images/covers/ofermod-pentagrammaton.jpg
 inStock: true
-thumbnailImage: /images/covers/ofermod-pentagrammaton-thumb.png
+thumbnailImage: /images/covers/ofermod-pentagrammaton-thumb.jpg
 title: Ofermod - Pentagrammaton
 ---
 

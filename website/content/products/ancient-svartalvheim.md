@@ -7,9 +7,9 @@ categories:
 date: '2021-10-31T11:38:39'
 draft: false
 images:
-- /images/covers/ancient-svartalvheim.png
+- /images/covers/ancient-svartalvheim.jpg
 inStock: true
-thumbnailImage: /images/covers/ancient-svartalvheim-thumb.png
+thumbnailImage: /images/covers/ancient-svartalvheim-thumb.jpg
 title: Ancient - Svartalvheim
 ---
 

@@ -7,9 +7,9 @@ categories:
 date: '2021-10-26T05:00:36'
 draft: false
 images:
-- /images/covers/diabolical_fullmoon-the_pagan_wolves_will_rise_again.png
+- /images/covers/diabolical_fullmoon-the_pagan_wolves_will_rise_again.jpg
 inStock: true
-thumbnailImage: /images/covers/diabolical_fullmoon-the_pagan_wolves_will_rise_again-thumb.png
+thumbnailImage: /images/covers/diabolical_fullmoon-the_pagan_wolves_will_rise_again-thumb.jpg
 title: Diabolical Fullmoon - The Pagan Wolves Will Rise Again
 ---
 

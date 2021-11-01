@@ -7,9 +7,9 @@ categories:
 date: '2021-10-31T11:39:19'
 draft: false
 images:
-- /images/covers/mephorash-1557:_the_rites_of_nullification.png
+- /images/covers/mephorash-1557:_the_rites_of_nullification.jpg
 inStock: true
-thumbnailImage: /images/covers/mephorash-1557:_the_rites_of_nullification-thumb.png
+thumbnailImage: /images/covers/mephorash-1557:_the_rites_of_nullification-thumb.jpg
 title: 'Mephorash - 1557: The Rites of Nullification'
 ---
 

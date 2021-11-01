@@ -7,9 +7,9 @@ categories:
 date: '2021-10-31T11:38:52'
 draft: false
 images:
-- "/images/covers/death_wolf-liksj\xF6ns_drickare.png"
+- "/images/covers/death_wolf-liksj\xF6ns_drickare.jpg"
 inStock: true
-thumbnailImage: "/images/covers/death_wolf-liksj\xF6ns_drickare-thumb.png"
+thumbnailImage: "/images/covers/death_wolf-liksj\xF6ns_drickare-thumb.jpg"
 title: "Death Wolf - Liksj\xF6ns Drickare"
 ---
 

@@ -7,9 +7,9 @@ categories:
 date: '2021-10-31T11:39:16'
 draft: false
 images:
-- /images/covers/majestic_mass-savage_empire_of_death.png
+- /images/covers/majestic_mass-savage_empire_of_death.jpg
 inStock: true
-thumbnailImage: /images/covers/majestic_mass-savage_empire_of_death-thumb.png
+thumbnailImage: /images/covers/majestic_mass-savage_empire_of_death-thumb.jpg
 title: Majestic Mass - Savage Empire of Death
 ---
 

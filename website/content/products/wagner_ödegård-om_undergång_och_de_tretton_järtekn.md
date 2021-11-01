@@ -9,10 +9,10 @@ categories:
 date: '2021-10-31T11:41:49'
 draft: false
 images:
-- "/images/covers/wagner_\xF6deg\xE5rd-om_underg\xE5ng_och_de_tretton_j\xE4rtekn.png"
+- "/images/covers/wagner_\xF6deg\xE5rd-om_underg\xE5ng_och_de_tretton_j\xE4rtekn.jpg"
 inStock: true
 thumbnailImage: "/images/covers/wagner_\xF6deg\xE5rd-om_underg\xE5ng_och_de_tretton_j\xE4\
-  rtekn-thumb.png"
+  rtekn-thumb.jpg"
 title: "Wagner \xD6deg\xE5rd - Om Underg\xE5ng Och De Tretton J\xE4rtekn"
 ---
 

@@ -7,9 +7,9 @@ categories:
 date: '2021-10-31T11:39:07'
 draft: false
 images:
-- /images/covers/hate_manifesto-to_those_who_glorified_death.png
+- /images/covers/hate_manifesto-to_those_who_glorified_death.jpg
 inStock: true
-thumbnailImage: /images/covers/hate_manifesto-to_those_who_glorified_death-thumb.png
+thumbnailImage: /images/covers/hate_manifesto-to_those_who_glorified_death-thumb.jpg
 title: Hate Manifesto - To Those who Glorified Death
 ---
 

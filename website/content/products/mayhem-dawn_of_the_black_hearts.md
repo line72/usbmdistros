@@ -7,9 +7,9 @@ categories:
 date: '2021-10-31T11:40:45'
 draft: false
 images:
-- /images/covers/mayhem-dawn_of_the_black_hearts.png
+- /images/covers/mayhem-dawn_of_the_black_hearts.jpg
 inStock: true
-thumbnailImage: /images/covers/mayhem-dawn_of_the_black_hearts-thumb.png
+thumbnailImage: /images/covers/mayhem-dawn_of_the_black_hearts-thumb.jpg
 title: Mayhem - Dawn of the Black Hearts
 ---
 

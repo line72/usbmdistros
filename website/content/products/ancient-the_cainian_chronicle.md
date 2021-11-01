@@ -7,9 +7,9 @@ categories:
 date: '2021-10-31T11:38:39'
 draft: false
 images:
-- /images/covers/ancient-the_cainian_chronicle.png
+- /images/covers/ancient-the_cainian_chronicle.jpg
 inStock: true
-thumbnailImage: /images/covers/ancient-the_cainian_chronicle-thumb.png
+thumbnailImage: /images/covers/ancient-the_cainian_chronicle-thumb.jpg
 title: Ancient - The Cainian Chronicle
 ---
 

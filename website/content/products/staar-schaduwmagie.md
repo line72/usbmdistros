@@ -7,9 +7,9 @@ categories:
 date: '2021-10-28T05:00:41'
 draft: false
 images:
-- /images/covers/staar-schaduwmagie.png
+- /images/covers/staar-schaduwmagie.jpg
 inStock: true
-thumbnailImage: /images/covers/staar-schaduwmagie-thumb.png
+thumbnailImage: /images/covers/staar-schaduwmagie-thumb.jpg
 title: Staar - Schaduwmagie
 ---
 

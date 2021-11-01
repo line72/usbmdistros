@@ -7,9 +7,9 @@ categories:
 date: '2021-10-26T05:00:36'
 draft: false
 images:
-- /images/covers/wampyric_rites-demo_vi.png
+- /images/covers/wampyric_rites-demo_vi.jpg
 inStock: true
-thumbnailImage: /images/covers/wampyric_rites-demo_vi-thumb.png
+thumbnailImage: /images/covers/wampyric_rites-demo_vi-thumb.jpg
 title: Wampyric Rites - Demo VI
 ---
 

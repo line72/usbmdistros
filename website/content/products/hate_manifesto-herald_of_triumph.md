@@ -7,9 +7,9 @@ categories:
 date: '2021-10-31T11:39:07'
 draft: false
 images:
-- /images/covers/hate_manifesto-herald_of_triumph.png
+- /images/covers/hate_manifesto-herald_of_triumph.jpg
 inStock: true
-thumbnailImage: /images/covers/hate_manifesto-herald_of_triumph-thumb.png
+thumbnailImage: /images/covers/hate_manifesto-herald_of_triumph-thumb.jpg
 title: Hate Manifesto - Herald of Triumph
 ---
 
