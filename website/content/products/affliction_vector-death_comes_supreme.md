@@ -4,7 +4,7 @@ album: Death Comes Supreme
 artist: Affliction Vector
 categories:
 - Vinyl
-date: '2021-07-11T20:52:27'
+date: '2021-11-04T05:11:07'
 draft: false
 images:
 - /images/covers/affliction_vector-death_comes_supreme.png
@@ -15,3 +15,4 @@ title: Affliction Vector - Death Comes Supreme
 
 ## Vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/affliction-vector-death-comes-supreme) for $20.00 :: Black 1st press vinyl
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/affliction-vector-death-comes-supreme-12) for $20.00 :: Black 1st press vinyl

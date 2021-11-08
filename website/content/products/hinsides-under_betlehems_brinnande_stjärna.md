@@ -1,10 +1,12 @@
 ---
-actualPrice: $10.00
+actualPrice: $10.00 - 25.00
 album: "Under Betlehems Brinnande Stj\xE4rna"
 artist: Hinsides
 categories:
+- Vinyl
 - Cassette
-date: '2021-10-31T11:41:33'
+- CD
+date: '2021-11-06T05:08:23'
 draft: false
 images:
 - "/images/covers/hinsides-under_betlehems_brinnande_stj\xE4rna.png"
@@ -13,5 +15,9 @@ thumbnailImage: "/images/covers/hinsides-under_betlehems_brinnande_stj\xE4rna-th
 title: "Hinsides - Under Betlehems Brinnande Stj\xE4rna"
 ---
 
+## Vinyl
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=18871&sort=pd.name&order=ASC) for $25.00
 ## Cassette
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=18458&sort=pd.name&order=ASC) for $10.00
+## CD
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=18872&sort=pd.name&order=ASC) for $15.00

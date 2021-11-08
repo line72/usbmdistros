@@ -1,10 +1,11 @@
 ---
-actualPrice: $7.00
+actualPrice: $7.00 - 30.00
 album: Oneironaut
 artist: Crimson Moon
 categories:
+- Vinyl
 - Tape
-date: '2021-09-14T05:00:11'
+date: '2021-11-03T05:06:58'
 draft: false
 images:
 - /images/covers/crimson_moon-oneironaut.jpg
@@ -13,5 +14,7 @@ thumbnailImage: /images/covers/crimson_moon-oneironaut-thumb.jpg
 title: Crimson Moon - Oneironaut
 ---
 
+## Vinyl
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=18795&sort=pd.name&order=ASC) for $30.00
 ## Tape
 * Purchase from [Sto'Vo'Kor Records](https://stovokor-records.com/products/crimson-moon-oneironaut) for $7.00

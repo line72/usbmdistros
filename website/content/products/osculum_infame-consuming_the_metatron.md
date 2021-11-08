@@ -5,7 +5,7 @@ artist: Osculum Infame
 categories:
 - Vinyl
 - Cassette
-date: '2021-06-29T15:06:03'
+date: '2021-11-03T05:09:20'
 draft: false
 images:
 - /images/covers/osculum_infame-consuming_the_metatron.jpg
@@ -18,3 +18,4 @@ title: Osculum Infame - Consuming the Metatron
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=6989&sort=pd.name&order=ASC) for $12.75
 ## Cassette
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=15687&sort=pd.name&order=ASC) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=18792&sort=pd.name&order=ASC) for $10.00

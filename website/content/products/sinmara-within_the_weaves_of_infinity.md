@@ -4,7 +4,7 @@ album: Within the Weaves of Infinity
 artist: Sinmara
 categories:
 - Vinyl
-date: '2021-07-11T20:52:13'
+date: '2021-11-06T05:11:34'
 draft: false
 images:
 - /images/covers/sinmara-within_the_weaves_of_infinity.jpg
@@ -16,3 +16,4 @@ title: Sinmara - Within the Weaves of Infinity
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=15901&sort=pd.name&order=ASC) for $22.00
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/sinmara-within-the-weaves-of-infinity-ep) for $22.00 :: Black 1st press vinyl
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/sinmara-within-the-weaves-of-infinity-ep) for $22.00 :: Smoke 1st press vinyl

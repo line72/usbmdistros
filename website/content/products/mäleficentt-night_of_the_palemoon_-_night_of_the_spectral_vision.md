@@ -5,7 +5,7 @@ artist: "M\xE4leficentt"
 categories:
 - Vinyl
 - CD
-date: '2021-10-31T05:00:43'
+date: '2021-11-05T05:00:26'
 draft: false
 images:
 - "/images/covers/m\xE4leficentt-night_of_the_palemoon_-_night_of_the_spectral_vision.jpg"

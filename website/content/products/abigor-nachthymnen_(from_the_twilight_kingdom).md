@@ -1,10 +1,10 @@
 ---
-actualPrice: $16.00
+actualPrice: $15.00 - 16.00
 album: Nachthymnen (From the Twilight Kingdom)
 artist: Abigor
 categories:
 - CD
-date: '2021-08-19T06:55:28'
+date: '2021-11-04T05:08:03'
 draft: false
 images:
 - /images/covers/abigor-nachthymnen_(from_the_twilight_kingdom).png
@@ -15,3 +15,4 @@ title: Abigor - Nachthymnen (From the Twilight Kingdom)
 
 ## CD
 * Purchase from [CW Productions](https://shop.cwproductions.net/products/abigor-nachthymnen-from-the-twilight-kingdom-cd) for $16.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=18803&sort=pd.name&order=ASC) for $15.00

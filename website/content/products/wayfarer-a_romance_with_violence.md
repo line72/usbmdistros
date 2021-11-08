@@ -4,7 +4,7 @@ album: A Romance With Violence
 artist: Wayfarer
 categories:
 - Vinyl
-date: '2021-07-11T20:52:31'
+date: '2021-11-04T05:11:07'
 draft: false
 images:
 - /images/covers/wayfarer-a_romance_with_violence.jpg
@@ -19,3 +19,4 @@ title: Wayfarer - A Romance With Violence
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/wayfarer-a-romance-with-violence-profound-lore) for $29.00 :: Red w/ Black Spinner 2nd press vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/wayfarer-a-romance-with-violence-profound-lore) for $22.00 :: Black 1st press vinyl (SOLD OUT)
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/wayfarer-a-romance-with-violence-profound-lore) for $29.00 :: Gold 1st press vinyl (SOLD OUT)
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/wayfarer-a-romance-with-violence-lp) for $25.00 :: Red w/ Gold Galaxy 2nd press vinyl

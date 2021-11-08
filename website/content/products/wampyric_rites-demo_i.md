@@ -4,7 +4,7 @@ album: Demo I
 artist: Wampyric Rites
 categories:
 - Tape
-date: '2021-10-26T05:00:36'
+date: '2021-11-04T05:00:37'
 draft: false
 images:
 - /images/covers/wampyric_rites-demo_i.jpg
