@@ -4,7 +4,7 @@ album: The Approaching Roar
 artist: Altarage
 categories:
 - Vinyl
-date: '2021-07-11T20:52:28'
+date: '2021-11-11T14:31:08'
 draft: false
 images:
 - /images/covers/altarage-the_approaching_roar.jpg
@@ -16,3 +16,4 @@ title: Altarage - The Approaching Roar
 ## Vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/altarage-the-approaching-roar) for $22.00 :: Black 1st press vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/altarage-the-approaching-roar) for $25.00 :: Silver 1st press vinyl
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/altarage-the-approaching-roar-lp) for $25.00 :: Silver 1st press vinyl

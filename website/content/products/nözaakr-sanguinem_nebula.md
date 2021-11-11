@@ -4,7 +4,8 @@ album: Sanguinem Nebula
 artist: "N\xF6zaakr"
 categories:
 - Tape
-date: '2021-08-07T05:34:15'
+- Cassette
+date: '2021-11-11T14:29:22'
 draft: false
 images:
 - "/images/covers/n\xF6zaakr-sanguinem_nebula.jpg"
@@ -15,3 +16,5 @@ title: "N\xF6zaakr - Sanguinem Nebula"
 
 ## Tape
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/nozaakr-sanguinem-nebula-tape) for $12.00
+## Cassette
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=18917&sort=pd.name&order=ASC) for $12.00

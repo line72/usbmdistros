@@ -4,7 +4,7 @@ album: De Oproeping Van Middeleeuwse Duisternis
 artist: Hulder
 categories:
 - Vinyl
-date: '2021-10-01T05:06:38'
+date: '2021-11-11T14:27:19'
 draft: false
 images:
 - /images/covers/hulder-de_oproeping_van_middeleeuwse_duisternis.png
@@ -18,3 +18,4 @@ title: Hulder - De Oproeping Van Middeleeuwse Duisternis
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/hulder-de-oproeping-van-middeleeuwse-duisternis-lp) for $25.00 :: Green w/ Black Splatter 2021 press vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=17859&sort=pd.name&order=ASC) for $20.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=17999&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=18898&sort=pd.name&order=ASC) for $20.00

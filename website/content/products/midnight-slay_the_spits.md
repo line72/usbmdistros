@@ -7,9 +7,9 @@ categories:
 date: '2021-11-02T05:07:49'
 draft: false
 images:
-- /images/covers/midnight-slay_the_spits.png
+- /images/covers/midnight-slay_the_spits.jpg
 inStock: true
-thumbnailImage: /images/covers/midnight-slay_the_spits-thumb.png
+thumbnailImage: /images/covers/midnight-slay_the_spits-thumb.jpg
 title: Midnight - Slay the Spits
 ---
 

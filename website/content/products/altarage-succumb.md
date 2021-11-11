@@ -6,7 +6,7 @@ categories:
 - Vinyl
 - Tape
 - Cassette
-date: '2021-10-19T05:11:11'
+date: '2021-11-11T14:31:08'
 draft: false
 images:
 - /images/covers/altarage-succumb.jpg
@@ -18,6 +18,8 @@ title: Altarage - Succumb
 ## Vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/altarage-succumb-2xlp) for $35.00 :: Black 1st press vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/altarage-succumb-2xlp) for $39.00 :: Gold 1st press vinyl
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/altarage-succumb-2xlp-1) for $35.00 :: Black 1st press vinyl
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/altarage-succumb-2xlp-1) for $39.00 :: Gold 1st press vinyl
 ## Tape
 * Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/32219833-altarage-succumb) for $13.00
 ## Cassette

@@ -7,9 +7,9 @@ categories:
 date: '2021-11-02T05:07:49'
 draft: false
 images:
-- /images/covers/malicious_secrets-apostle_of_him.png
+- /images/covers/malicious_secrets-apostle_of_him.jpg
 inStock: true
-thumbnailImage: /images/covers/malicious_secrets-apostle_of_him-thumb.png
+thumbnailImage: /images/covers/malicious_secrets-apostle_of_him-thumb.jpg
 title: Malicious Secrets - Apostle Of Him
 ---
 

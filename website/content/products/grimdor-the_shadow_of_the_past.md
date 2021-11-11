@@ -7,9 +7,9 @@ categories:
 date: '2021-11-02T05:08:19'
 draft: false
 images:
-- /images/covers/grimdor-the_shadow_of_the_past.png
+- /images/covers/grimdor-the_shadow_of_the_past.jpg
 inStock: true
-thumbnailImage: /images/covers/grimdor-the_shadow_of_the_past-thumb.png
+thumbnailImage: /images/covers/grimdor-the_shadow_of_the_past-thumb.jpg
 title: Grimdor - The Shadow of the Past
 ---
 

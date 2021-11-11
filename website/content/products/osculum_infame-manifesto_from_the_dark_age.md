@@ -7,9 +7,9 @@ categories:
 date: '2021-11-03T05:07:26'
 draft: false
 images:
-- /images/covers/osculum_infame-manifesto_from_the_dark_age.png
+- /images/covers/osculum_infame-manifesto_from_the_dark_age.jpg
 inStock: true
-thumbnailImage: /images/covers/osculum_infame-manifesto_from_the_dark_age-thumb.png
+thumbnailImage: /images/covers/osculum_infame-manifesto_from_the_dark_age-thumb.jpg
 title: Osculum Infame - Manifesto from the Dark Age
 ---
 

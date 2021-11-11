@@ -7,9 +7,9 @@ categories:
 date: '2021-11-02T05:06:49'
 draft: false
 images:
-- /images/covers/blut_aus_nord-fathers_of_the_icy_ages.png
+- /images/covers/blut_aus_nord-fathers_of_the_icy_ages.jpg
 inStock: true
-thumbnailImage: /images/covers/blut_aus_nord-fathers_of_the_icy_ages-thumb.png
+thumbnailImage: /images/covers/blut_aus_nord-fathers_of_the_icy_ages-thumb.jpg
 title: Blut Aus Nord - Fathers Of The Icy Ages
 ---
 

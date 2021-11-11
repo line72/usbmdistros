@@ -4,7 +4,7 @@ album: s/t
 artist: Gharmelicht
 categories:
 - CD
-date: '2021-09-12T05:00:31'
+date: '2021-11-11T14:20:59'
 draft: false
 images:
 - /images/covers/gharmelicht-s-t.jpg

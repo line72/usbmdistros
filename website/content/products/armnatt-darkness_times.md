@@ -4,7 +4,7 @@ album: Darkness Times
 artist: Armnatt
 categories:
 - Tape
-date: '2021-06-26T15:03:02'
+date: '2021-11-11T14:20:54'
 draft: false
 images:
 - /images/covers/armnatt-darkness_times.jpg
