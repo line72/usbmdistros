@@ -6,7 +6,7 @@ categories:
 - Vinyl
 - Tape
 - Cassette
-date: '2021-11-11T14:31:08'
+date: '2021-11-16T14:07:13'
 draft: false
 images:
 - /images/covers/altarage-succumb.jpg
@@ -24,3 +24,4 @@ title: Altarage - Succumb
 * Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/32219833-altarage-succumb) for $13.00
 ## Cassette
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/altarage-succumb-cassette) for $13.00 :: Cassette Tape 1st press
+* Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/32219833-altarage-succumb) for $13.00

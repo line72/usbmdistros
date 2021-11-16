@@ -4,7 +4,8 @@ album: Flora Of Evil
 artist: Mrtva Vod
 categories:
 - Tape
-date: '2021-10-31T11:32:45'
+- Cassette
+date: '2021-11-16T14:07:10'
 draft: false
 images:
 - /images/covers/mrtva_vod-flora_of_evil.jpg
@@ -14,4 +15,6 @@ title: Mrtva Vod - Flora Of Evil
 ---
 
 ## Tape
+* Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/33893467-mrtva-vod-flora-of-evil) for $9.00
+## Cassette
 * Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/33893467-mrtva-vod-flora-of-evil) for $9.00

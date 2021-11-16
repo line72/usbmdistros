@@ -4,7 +4,8 @@ album: Christophilia
 artist: Nighnacht
 categories:
 - Tape
-date: '2021-06-26T15:16:23'
+- Cassette
+date: '2021-11-16T14:07:16'
 draft: false
 images:
 - /images/covers/nighnacht-christophilia.jpg
@@ -14,4 +15,6 @@ title: Nighnacht - Christophilia
 ---
 
 ## Tape
+* Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/31332316-nighnacht-christophilia) for $6.00
+## Cassette
 * Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/31332316-nighnacht-christophilia) for $6.00

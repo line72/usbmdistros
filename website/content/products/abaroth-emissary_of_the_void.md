@@ -4,7 +4,8 @@ album: Emissary Of The Void
 artist: Abaroth
 categories:
 - Tape
-date: '2021-06-26T15:16:24'
+- Cassette
+date: '2021-11-16T14:07:16'
 draft: false
 images:
 - /images/covers/abaroth-emissary_of_the_void.jpg
@@ -14,4 +15,6 @@ title: Abaroth - Emissary Of The Void
 ---
 
 ## Tape
+* Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/31111816-abaroth-emissary-of-the-void) for $7.00
+## Cassette
 * Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/31111816-abaroth-emissary-of-the-void) for $7.00

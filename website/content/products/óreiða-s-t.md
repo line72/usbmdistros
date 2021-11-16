@@ -5,7 +5,8 @@ artist: "\xD3rei\xF0a"
 categories:
 - Vinyl
 - Tape
-date: '2021-06-26T15:03:02'
+- Cassette
+date: '2021-11-16T14:05:09'
 draft: false
 images:
 - "/images/covers/\xF3rei\xF0a-s-t.jpg"
@@ -17,4 +18,6 @@ title: "\xD3rei\xF0a - s/t"
 ## Vinyl
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/oreida-s-t-12-lp) for $23.00
 ## Tape
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/oreida-s-t-tape) for $9.00
+## Cassette
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/oreida-s-t-tape) for $9.00

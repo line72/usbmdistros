@@ -4,7 +4,8 @@ album: Pandemic Winds...
 artist: Wald Krypta
 categories:
 - Tape
-date: '2021-06-26T15:16:26'
+- Cassette
+date: '2021-11-16T14:07:20'
 draft: false
 images:
 - /images/covers/wald_krypta-pandemic_winds....jpg
@@ -14,4 +15,6 @@ title: Wald Krypta - Pandemic Winds...
 ---
 
 ## Tape
+* Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/22734024-wald-krypta-pandemic-winds) for $6.00
+## Cassette
 * Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/22734024-wald-krypta-pandemic-winds) for $6.00

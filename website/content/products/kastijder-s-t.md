@@ -4,8 +4,9 @@ album: s/t
 artist: Kastijder
 categories:
 - Tape
+- Cassette
 - CD
-date: '2021-07-23T05:00:43'
+date: '2021-11-16T14:05:08'
 draft: false
 images:
 - /images/covers/kastijder-s-t.jpg
@@ -15,6 +16,8 @@ title: Kastijder - s/t
 ---
 
 ## Tape
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/kastijder-s-t-tape) for $10.00
+## Cassette
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/kastijder-s-t-tape) for $10.00
 ## CD
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/kastijder-s-t-cd) for $14.00

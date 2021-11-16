@@ -4,7 +4,8 @@ album: Waning Death
 artist: Thirsty Demon
 categories:
 - Tape
-date: '2021-06-26T15:16:24'
+- Cassette
+date: '2021-11-16T14:07:17'
 draft: false
 images:
 - /images/covers/thirsty_demon-waning_death.jpg
@@ -14,4 +15,6 @@ title: Thirsty Demon - Waning Death
 ---
 
 ## Tape
+* Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/29793061-thirsty-demon-waning-death) for $8.50
+## Cassette
 * Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/29793061-thirsty-demon-waning-death) for $8.50

@@ -4,7 +4,7 @@ album: Live Ersanguination
 artist: Horned Almighty
 categories:
 - Vinyl
-date: '2021-06-29T15:05:59'
+date: '2021-11-14T06:06:58'
 draft: false
 images:
 - /images/covers/horned_almighty-live_ersanguination.jpg
@@ -15,3 +15,4 @@ title: Horned Almighty - Live Ersanguination
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=1119&sort=pd.name&order=ASC) for $9.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=19033&sort=pd.name&order=ASC) for $9.00

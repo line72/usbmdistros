@@ -4,7 +4,8 @@ album: Self-Titled
 artist: Seven Chains
 categories:
 - Tape
-date: '2021-06-26T15:16:25'
+- Cassette
+date: '2021-11-16T14:07:19'
 draft: false
 images:
 - /images/covers/seven_chains-self-titled.jpg
@@ -14,4 +15,6 @@ title: Seven Chains - Self-Titled
 ---
 
 ## Tape
+* Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/22925361-seven-chains-self-titled) for $6.00
+## Cassette
 * Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/22925361-seven-chains-self-titled) for $6.00

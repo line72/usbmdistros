@@ -1,11 +1,12 @@
 ---
-actualPrice: $6.00 - 10.00
+actualPrice: $6.00 - 125.00
 album: Aggressor
 artist: Nocturnal Breed
 categories:
+- Vinyl
 - Cassette
 - CD
-date: '2021-07-03T15:02:34'
+date: '2021-11-12T06:09:12'
 draft: false
 images:
 - /images/covers/nocturnal_breed-aggressor.jpg
@@ -14,6 +15,8 @@ thumbnailImage: /images/covers/nocturnal_breed-aggressor-thumb.jpg
 title: Nocturnal Breed - Aggressor
 ---
 
+## Vinyl
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=18977&sort=pd.name&order=ASC) for $125.00
 ## Cassette
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=16564&sort=pd.name&order=ASC) for $9.00
 ## CD

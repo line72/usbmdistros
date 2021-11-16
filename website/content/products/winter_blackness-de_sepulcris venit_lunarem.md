@@ -4,7 +4,8 @@ album: "De Sepulcris\_Venit Lunarem"
 artist: Winter Blackness
 categories:
 - Tape
-date: '2021-06-26T15:03:02'
+- Cassette
+date: '2021-11-16T14:05:08'
 draft: false
 images:
 - "/images/covers/winter_blackness-de_sepulcris\_venit_lunarem.jpg"
@@ -14,4 +15,6 @@ title: "Winter Blackness - De Sepulcris\_Venit Lunarem"
 ---
 
 ## Tape
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/winter-blackness-de-sepulcris-venit-lunarem-tape) for $10.00
+## Cassette
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/winter-blackness-de-sepulcris-venit-lunarem-tape) for $10.00

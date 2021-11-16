@@ -4,7 +4,8 @@ album: The Bleaking
 artist: Haeiresis
 categories:
 - Tape
-date: '2021-06-26T15:16:27'
+- Cassette
+date: '2021-11-16T14:07:20'
 draft: false
 images:
 - /images/covers/haeiresis-the_bleaking.jpg
@@ -14,4 +15,6 @@ title: Haeiresis - The Bleaking
 ---
 
 ## Tape
+* Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/24928023-haeiresis-the-bleaking) for $4.00
+## Cassette
 * Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/24928023-haeiresis-the-bleaking) for $4.00

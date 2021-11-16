@@ -4,7 +4,8 @@ album: Sonos A Tenebrae
 artist: Phosphorus
 categories:
 - Tape
-date: '2021-06-26T15:16:24'
+- Cassette
+date: '2021-11-16T14:07:17'
 draft: false
 images:
 - /images/covers/phosphorus-sonos_a_tenebrae.jpg
@@ -14,4 +15,6 @@ title: Phosphorus - Sonos A Tenebrae
 ---
 
 ## Tape
+* Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/29262685-phosphorus-sonos-a-tenebrae) for $7.50
+## Cassette
 * Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/29262685-phosphorus-sonos-a-tenebrae) for $7.50

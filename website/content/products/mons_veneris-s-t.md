@@ -5,7 +5,8 @@ artist: Mons Veneris
 categories:
 - Vinyl
 - Tape
-date: '2021-06-26T15:03:02'
+- Cassette
+date: '2021-11-16T14:05:08'
 draft: false
 images:
 - /images/covers/mons_veneris-s-t.jpg
@@ -17,4 +18,6 @@ title: Mons Veneris - s/t
 ## Vinyl
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/mons-veneris-s-t-10-mlp) for $27.00
 ## Tape
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/mons-veneris-s-t-tape) for $10.00
+## Cassette
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/mons-veneris-s-t-tape) for $10.00

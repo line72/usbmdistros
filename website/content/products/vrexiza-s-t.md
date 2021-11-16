@@ -4,7 +4,8 @@ album: s/t
 artist: Vrexiza
 categories:
 - Tape
-date: '2021-08-19T05:34:20'
+- Cassette
+date: '2021-11-16T14:05:08'
 draft: false
 images:
 - /images/covers/vrexiza-s-t.jpg
@@ -14,4 +15,6 @@ title: Vrexiza - s/t
 ---
 
 ## Tape
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/vrexiza-s-t-tape) for $11.00
+## Cassette
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/vrexiza-s-t-tape) for $11.00

@@ -4,7 +4,8 @@ album: Ersatz
 artist: Khragkh
 categories:
 - Tape
-date: '2021-06-26T15:16:26'
+- Cassette
+date: '2021-11-16T14:07:20'
 draft: false
 images:
 - /images/covers/khragkh-ersatz.jpg
@@ -14,4 +15,6 @@ title: Khragkh - Ersatz
 ---
 
 ## Tape
+* Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/22734015-khragkh-ersatz) for $4.00
+## Cassette
 * Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/22734015-khragkh-ersatz) for $4.00

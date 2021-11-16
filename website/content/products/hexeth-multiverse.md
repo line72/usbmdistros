@@ -4,7 +4,8 @@ album: Multiverse
 artist: Hexeth
 categories:
 - Tape
-date: '2021-06-26T15:03:02'
+- Cassette
+date: '2021-11-16T14:05:09'
 draft: false
 images:
 - /images/covers/hexeth-multiverse.jpg
@@ -14,4 +15,6 @@ title: Hexeth - Multiverse
 ---
 
 ## Tape
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/hexeth-multiverse-tape) for $8.00
+## Cassette
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/hexeth-multiverse-tape) for $8.00

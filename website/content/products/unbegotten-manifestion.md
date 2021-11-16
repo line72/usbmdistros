@@ -4,7 +4,8 @@ album: Manifestion
 artist: Unbegotten
 categories:
 - Tape
-date: '2021-06-26T15:16:24'
+- Cassette
+date: '2021-11-16T14:07:17'
 draft: false
 images:
 - /images/covers/unbegotten-manifestion.jpg
@@ -14,4 +15,6 @@ title: Unbegotten - Manifestion
 ---
 
 ## Tape
+* Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/29299744-unbegotten-manifestion) for $6.00
+## Cassette
 * Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/29299744-unbegotten-manifestion) for $6.00

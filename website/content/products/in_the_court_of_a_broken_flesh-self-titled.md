@@ -4,7 +4,8 @@ album: Self-Titled
 artist: In The Court Of A Broken Flesh
 categories:
 - Tape
-date: '2021-06-26T15:16:24'
+- Cassette
+date: '2021-11-16T14:07:17'
 draft: false
 images:
 - /images/covers/in_the_court_of_a_broken_flesh-self-titled.jpg
@@ -14,4 +15,6 @@ title: In The Court Of A Broken Flesh - Self-Titled
 ---
 
 ## Tape
+* Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/29839984-in-the-court-of-a-broken-flesh-self-titled) for $8.00
+## Cassette
 * Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/29839984-in-the-court-of-a-broken-flesh-self-titled) for $8.00

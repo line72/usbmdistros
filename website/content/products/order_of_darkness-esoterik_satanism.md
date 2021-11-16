@@ -1,10 +1,10 @@
 ---
-actualPrice: $15.00
+actualPrice: $15.00 - 17.00
 album: Esoterik Satanism
 artist: Order of Darkness
 categories:
 - Vinyl
-date: '2021-06-26T15:22:53'
+date: '2021-11-15T06:07:46'
 draft: false
 images:
 - /images/covers/order_of_darkness-esoterik_satanism.jpg
@@ -15,3 +15,4 @@ title: Order of Darkness - Esoterik Satanism
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=11055&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=19052&sort=pd.name&order=ASC) for $17.00

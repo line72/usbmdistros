@@ -4,7 +4,8 @@ album: Rehearsal Mmxiii
 artist: Iapetos
 categories:
 - Tape
-date: '2021-06-26T15:16:25'
+- Cassette
+date: '2021-11-16T14:07:18'
 draft: false
 images:
 - /images/covers/iapetos-rehearsal_mmxiii.jpg
@@ -14,4 +15,6 @@ title: Iapetos - Rehearsal Mmxiii
 ---
 
 ## Tape
+* Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/28464530-iapetos-rehearsal-mmxiii) for $3.00
+## Cassette
 * Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/28464530-iapetos-rehearsal-mmxiii) for $3.00

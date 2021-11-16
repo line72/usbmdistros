@@ -4,7 +4,8 @@ album: Cervix Remnants In Diocese
 artist: Filth Column
 categories:
 - Tape
-date: '2021-09-19T05:01:44'
+- Cassette
+date: '2021-11-16T14:07:18'
 draft: false
 images:
 - /images/covers/filth_column-cervix_remnants_in_diocese.jpg
@@ -14,4 +15,6 @@ title: Filth Column - Cervix Remnants In Diocese
 ---
 
 ## Tape
+* Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/28334231-filth-column-cervix-remnants-in-diocese) for $4.00
+## Cassette
 * Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/28334231-filth-column-cervix-remnants-in-diocese) for $4.00

@@ -4,8 +4,9 @@ album: Khaosmos
 artist: Cetus
 categories:
 - Tape
+- Cassette
 - CD
-date: '2021-06-26T15:03:08'
+date: '2021-11-16T14:05:08'
 draft: false
 images:
 - /images/covers/cetus-khaosmos.jpg
@@ -15,6 +16,8 @@ title: Cetus - Khaosmos
 ---
 
 ## Tape
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/cetus-khaosmos-tape) for $9.00
+## Cassette
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/cetus-khaosmos-tape) for $9.00
 ## CD
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/cetus-khaosmos-cd) for $12.00

@@ -4,7 +4,8 @@ album: Cerca Trova
 artist: Ezov
 categories:
 - Tape
-date: '2021-06-26T15:16:26'
+- Cassette
+date: '2021-11-16T14:07:19'
 draft: false
 images:
 - /images/covers/ezov-cerca_trova.jpg
@@ -14,4 +15,6 @@ title: Ezov - Cerca Trova
 ---
 
 ## Tape
+* Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/24677454-ezov-cerca-trova) for $6.00
+## Cassette
 * Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/24677454-ezov-cerca-trova) for $6.00

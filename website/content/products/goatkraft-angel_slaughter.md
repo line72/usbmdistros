@@ -4,7 +4,8 @@ album: Angel Slaughter
 artist: Goatkraft
 categories:
 - Tape
-date: '2021-07-06T12:57:17'
+- Cassette
+date: '2021-11-16T14:07:12'
 draft: false
 images:
 - /images/covers/goatkraft-angel_slaughter.jpg
@@ -14,4 +15,6 @@ title: Goatkraft - Angel Slaughter
 ---
 
 ## Tape
+* Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/32339695-goatkraft-angel-slaughter) for $6.00
+## Cassette
 * Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/32339695-goatkraft-angel-slaughter) for $6.00

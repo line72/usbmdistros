@@ -5,7 +5,7 @@ artist: "K\xE4\xE4rmekristus"
 categories:
 - Tape
 - Cassette
-date: '2021-06-26T15:23:21'
+date: '2021-11-16T14:05:09'
 draft: false
 images:
 - "/images/covers/k\xE4\xE4rmekristus-venite_ad_me,_satanas.jpg"
@@ -18,3 +18,4 @@ title: "K\xE4\xE4rmekristus - Venite ad me, Satanas"
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/kaarmekristus-venite-ad-me-satanas-tape) for $10.00
 ## Cassette
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=11476&sort=pd.name&order=ASC) for $10.00
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/kaarmekristus-venite-ad-me-satanas-tape) for $10.00

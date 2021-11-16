@@ -6,7 +6,7 @@ categories:
 - Vinyl
 - Tape
 - Cassette
-date: '2021-07-07T15:40:28'
+date: '2021-11-16T14:07:15'
 draft: false
 images:
 - /images/covers/ceremonial_curse-flames_turned_to_ashes.jpg
@@ -21,3 +21,4 @@ title: Ceremonial Curse - Flames Turned To Ashes
 * Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/31674175-ceremonial-curse-flames-turned-to-ashes) for $5.50
 ## Cassette
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=16648&sort=pd.name&order=ASC) for $9.00
+* Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/31674175-ceremonial-curse-flames-turned-to-ashes) for $5.50

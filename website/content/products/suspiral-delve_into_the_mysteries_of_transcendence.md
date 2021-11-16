@@ -6,7 +6,7 @@ categories:
 - Vinyl
 - Tape
 - Cassette
-date: '2021-07-27T05:09:13'
+date: '2021-11-16T14:07:13'
 draft: false
 images:
 - /images/covers/suspiral-delve_into_the_mysteries_of_transcendence.jpg
@@ -21,3 +21,4 @@ title: Suspiral - Delve Into The Mysteries Of Transcendence
 * Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/32057851-suspiral-delve-into-the-mysteries-of-transcendence) for $8.00
 ## Cassette
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/suspiral-delve-into-the-mysteries-of-transcendence-cassette) for $9.00 :: Cassette Tape 1st press
+* Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/32057851-suspiral-delve-into-the-mysteries-of-transcendence) for $8.00

@@ -4,7 +4,7 @@ album: The Synarchy of Molten Bones
 artist: Deathspell Omega
 categories:
 - Vinyl
-date: '2021-06-26T15:22:45'
+date: '2021-11-16T06:06:51'
 draft: false
 images:
 - /images/covers/deathspell_omega-the_synarchy_of_molten_bones.jpg
@@ -15,3 +15,4 @@ title: Deathspell Omega - The Synarchy of Molten Bones
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=15179&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=19075&sort=pd.name&order=ASC) for $25.00

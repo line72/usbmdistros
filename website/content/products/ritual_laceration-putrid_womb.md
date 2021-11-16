@@ -4,7 +4,8 @@ album: Putrid Womb
 artist: Ritual Laceration
 categories:
 - Tape
-date: '2021-06-26T15:16:21'
+- Cassette
+date: '2021-11-16T14:07:13'
 draft: false
 images:
 - /images/covers/ritual_laceration-putrid_womb.jpg
@@ -14,4 +15,6 @@ title: Ritual Laceration - Putrid Womb
 ---
 
 ## Tape
+* Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/32266000-ritual-laceration-putrid-womb) for $8.00
+## Cassette
 * Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/32266000-ritual-laceration-putrid-womb) for $8.00

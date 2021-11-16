@@ -4,7 +4,8 @@ album: Basileus
 artist: Nigajyo
 categories:
 - Tape
-date: '2021-06-26T15:16:26'
+- Cassette
+date: '2021-11-16T14:07:20'
 draft: false
 images:
 - /images/covers/nigajyo-basileus.jpg
@@ -14,4 +15,6 @@ title: Nigajyo - Basileus
 ---
 
 ## Tape
+* Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/25370076-nigajyo-basileus) for $4.50
+## Cassette
 * Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/25370076-nigajyo-basileus) for $4.50

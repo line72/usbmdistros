@@ -4,7 +4,8 @@ album: Wallachian Tyrannic Madness
 artist: Wendol
 categories:
 - Tape
-date: '2021-10-01T05:00:35'
+- Cassette
+date: '2021-11-16T14:05:08'
 draft: false
 images:
 - /images/covers/wendol-wallachian_tyrannic_madness.jpg
@@ -14,4 +15,6 @@ title: Wendol - Wallachian Tyrannic Madness
 ---
 
 ## Tape
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/wendol-wallachian-tyrannic-madness-tape) for $12.00
+## Cassette
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/wendol-wallachian-tyrannic-madness-tape) for $12.00

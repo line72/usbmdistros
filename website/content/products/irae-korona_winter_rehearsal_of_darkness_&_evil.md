@@ -4,7 +4,8 @@ album: Korona Winter Rehearsal of Darkness & Evil
 artist: Irae
 categories:
 - Tape
-date: '2021-06-26T15:03:02'
+- Cassette
+date: '2021-11-16T14:05:08'
 draft: false
 images:
 - /images/covers/irae-korona_winter_rehearsal_of_darkness_&_evil.jpg
@@ -14,4 +15,6 @@ title: Irae - Korona Winter Rehearsal of Darkness & Evil
 ---
 
 ## Tape
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/irae-korona-winter-rehearsal-of-darkness-evil-tape) for $10.00
+## Cassette
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/irae-korona-winter-rehearsal-of-darkness-evil-tape) for $10.00

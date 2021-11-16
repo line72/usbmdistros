@@ -4,7 +4,8 @@ album: Dimensions Of Hades
 artist: Draugr
 categories:
 - Tape
-date: '2021-06-26T15:16:26'
+- Cassette
+date: '2021-11-16T14:07:20'
 draft: false
 images:
 - /images/covers/draugr-dimensions_of_hades.jpg
@@ -14,4 +15,6 @@ title: Draugr - Dimensions Of Hades
 ---
 
 ## Tape
+* Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/23174313-draugr-dimensions-of-hades) for $6.00
+## Cassette
 * Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/23174313-draugr-dimensions-of-hades) for $6.00

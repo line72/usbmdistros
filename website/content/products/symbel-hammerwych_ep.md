@@ -4,7 +4,8 @@ album: Hammerwych Ep
 artist: Symbel
 categories:
 - Tape
-date: '2021-06-26T15:16:23'
+- Cassette
+date: '2021-11-16T14:07:15'
 draft: false
 images:
 - /images/covers/symbel-hammerwych_ep.jpg
@@ -14,4 +15,6 @@ title: Symbel - Hammerwych Ep
 ---
 
 ## Tape
+* Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/31576333-symbel-hammerwych-ep) for $8.00
+## Cassette
 * Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/31576333-symbel-hammerwych-ep) for $8.00

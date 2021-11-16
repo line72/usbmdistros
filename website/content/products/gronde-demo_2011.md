@@ -4,7 +4,8 @@ album: Demo 2011
 artist: Gronde
 categories:
 - Tape
-date: '2021-06-26T15:16:25'
+- Cassette
+date: '2021-11-16T14:07:18'
 draft: false
 images:
 - /images/covers/gronde-demo_2011.jpg
@@ -14,4 +15,6 @@ title: Gronde - Demo 2011
 ---
 
 ## Tape
+* Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/29211565-gronde-demo-2011) for $4.00
+## Cassette
 * Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/29211565-gronde-demo-2011) for $4.00

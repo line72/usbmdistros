@@ -6,7 +6,7 @@ categories:
 - Vinyl
 - Tape
 - Cassette
-date: '2021-06-29T15:06:38'
+date: '2021-11-16T14:05:09'
 draft: false
 images:
 - /images/covers/black_vice-the_alchemist's_vision.jpg
@@ -22,3 +22,4 @@ title: Black Vice - The Alchemist's Vision
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/black-vice-the-alchemist-s-vision-tape) for $9.00
 ## Cassette
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=8499&sort=pd.name&order=ASC) for $6.75
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/black-vice-the-alchemist-s-vision-tape) for $9.00

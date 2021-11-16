@@ -4,7 +4,8 @@ album: Hammer ov Medieval Might
 artist: Nightblood
 categories:
 - Tape
-date: '2021-06-26T15:03:02'
+- Cassette
+date: '2021-11-16T14:05:08'
 draft: false
 images:
 - /images/covers/nightblood-hammer_ov_medieval_might.jpg
@@ -14,4 +15,6 @@ title: Nightblood - Hammer ov Medieval Might
 ---
 
 ## Tape
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/nightblood-hammer-ov-medieval-might-tape) for $10.00
+## Cassette
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/nightblood-hammer-ov-medieval-might-tape) for $10.00

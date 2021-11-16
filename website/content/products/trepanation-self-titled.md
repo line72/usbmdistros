@@ -4,7 +4,8 @@ album: Self-Titled
 artist: Trepanation
 categories:
 - Tape
-date: '2021-09-25T05:01:29'
+- Cassette
+date: '2021-11-16T14:07:15'
 draft: false
 images:
 - /images/covers/trepanation-self-titled.jpg
@@ -14,4 +15,6 @@ title: Trepanation - Self-Titled
 ---
 
 ## Tape
+* Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/31762669-trepanation-self-titled) for $5.00
+## Cassette
 * Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/31762669-trepanation-self-titled) for $5.00

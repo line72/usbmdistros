@@ -4,7 +4,8 @@ album: Bit To Ewigen Daogen
 artist: Toadeater
 categories:
 - Tape
-date: '2021-06-26T15:16:22'
+- Cassette
+date: '2021-11-16T14:07:15'
 draft: false
 images:
 - /images/covers/toadeater-bit_to_ewigen_daogen.jpg
@@ -14,4 +15,6 @@ title: Toadeater - Bit To Ewigen Daogen
 ---
 
 ## Tape
+* Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/31707574-toadeater-bit-to-ewigen-daogen) for $6.50
+## Cassette
 * Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/31707574-toadeater-bit-to-ewigen-daogen) for $6.50

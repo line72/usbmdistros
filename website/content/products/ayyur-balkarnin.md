@@ -5,7 +5,7 @@ artist: Ayyur
 categories:
 - Tape
 - Cassette
-date: '2021-06-26T15:23:19'
+date: '2021-11-16T14:07:17'
 draft: false
 images:
 - /images/covers/ayyur-balkarnin.jpg
@@ -18,3 +18,4 @@ title: Ayyur - Balkarnin
 * Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/30563155-ayyur-balkarnin) for $5.50
 ## Cassette
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=9885&sort=pd.name&order=ASC) for $8.00
+* Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/30563155-ayyur-balkarnin) for $5.50

@@ -6,7 +6,7 @@ categories:
 - Tape
 - Cassette
 - CD
-date: '2021-06-29T15:06:42'
+date: '2021-11-16T14:07:20'
 draft: false
 images:
 - /images/covers/osculum-oremus.jpg
@@ -19,5 +19,6 @@ title: Osculum - Oremus
 * Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/26483187-osculum-oremus) for $4.00
 ## Cassette
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=4426&sort=pd.name&order=ASC) for $5.25
+* Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/26483187-osculum-oremus) for $4.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=4420&sort=pd.name&order=ASC) for $7.50

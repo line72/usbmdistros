@@ -4,7 +4,8 @@ album: Black Tusk Malignancy
 artist: Illkuln
 categories:
 - Tape
-date: '2021-06-26T15:16:21'
+- Cassette
+date: '2021-11-16T14:07:13'
 draft: false
 images:
 - /images/covers/illkuln-black_tusk_malignancy.jpg
@@ -14,4 +15,6 @@ title: Illkuln - Black Tusk Malignancy
 ---
 
 ## Tape
+* Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/32281357-illkuln-black-tusk-malignancy) for $8.50
+## Cassette
 * Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/32281357-illkuln-black-tusk-malignancy) for $8.50

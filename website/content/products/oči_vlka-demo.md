@@ -4,7 +4,8 @@ album: Demo
 artist: "O\u010Di Vlka"
 categories:
 - Tape
-date: '2021-06-26T15:16:21'
+- Cassette
+date: '2021-11-16T14:07:11'
 draft: false
 images:
 - "/images/covers/o\u010Di_vlka-demo.jpg"
@@ -14,4 +15,6 @@ title: "O\u010Di Vlka - Demo"
 ---
 
 ## Tape
+* Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/30719125-oci-vlka-demo-cal-174) for $5.00
+## Cassette
 * Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/30719125-oci-vlka-demo-cal-174) for $5.00

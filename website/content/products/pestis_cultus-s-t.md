@@ -5,7 +5,8 @@ artist: Pestis Cultus
 categories:
 - Vinyl
 - Tape
-date: '2021-06-26T15:03:02'
+- Cassette
+date: '2021-11-16T14:05:08'
 draft: false
 images:
 - /images/covers/pestis_cultus-s-t.jpg
@@ -17,4 +18,6 @@ title: Pestis Cultus - s/t
 ## Vinyl
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/pestis-cultus-s-t-12-lp) for $28.00
 ## Tape
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/pestis-cultus-s-t-tape) for $10.00
+## Cassette
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/pestis-cultus-s-t-tape) for $10.00

@@ -4,7 +4,8 @@ album: Rise From Majestic Darkness
 artist: Oldeath
 categories:
 - Tape
-date: '2021-06-26T15:16:23'
+- Cassette
+date: '2021-11-16T14:07:15'
 draft: false
 images:
 - /images/covers/oldeath-rise_from_majestic_darkness.jpg
@@ -14,4 +15,6 @@ title: Oldeath - Rise From Majestic Darkness
 ---
 
 ## Tape
+* Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/31674088-oldeath-rise-from-majestic-darkness) for $8.50
+## Cassette
 * Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/31674088-oldeath-rise-from-majestic-darkness) for $8.50

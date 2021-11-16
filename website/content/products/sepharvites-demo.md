@@ -4,7 +4,8 @@ album: Demo
 artist: Sepharvites
 categories:
 - Tape
-date: '2021-06-26T15:16:25'
+- Cassette
+date: '2021-11-16T14:07:18'
 draft: false
 images:
 - /images/covers/sepharvites-demo.jpg
@@ -14,4 +15,6 @@ title: Sepharvites - Demo
 ---
 
 ## Tape
+* Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/23909412-sepharvites-demo-cal-093) for $3.00
+## Cassette
 * Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/23909412-sepharvites-demo-cal-093) for $3.00

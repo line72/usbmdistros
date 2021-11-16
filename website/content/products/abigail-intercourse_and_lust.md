@@ -6,7 +6,7 @@ categories:
 - Vinyl
 - Tape
 - Cassette
-date: '2021-09-29T05:06:12'
+date: '2021-11-16T14:07:11'
 draft: false
 images:
 - /images/covers/abigail-intercourse_and_lust.png
@@ -22,3 +22,4 @@ title: Abigail - Intercourse and Lust
 * Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/33511999-abigail-intercourse-and-lust) for $11.00
 ## Cassette
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=16669&sort=pd.name&order=ASC) for $9.00
+* Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/33511999-abigail-intercourse-and-lust) for $11.00

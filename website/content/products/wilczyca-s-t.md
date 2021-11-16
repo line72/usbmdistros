@@ -4,7 +4,8 @@ album: s/t
 artist: Wilczyca
 categories:
 - Tape
-date: '2021-06-26T15:03:02'
+- Cassette
+date: '2021-11-16T14:05:08'
 draft: false
 images:
 - /images/covers/wilczyca-s-t.jpg
@@ -14,4 +15,6 @@ title: Wilczyca - s/t
 ---
 
 ## Tape
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/wilczyca-s-t-tape) for $9.00
+## Cassette
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/wilczyca-s-t-tape) for $9.00

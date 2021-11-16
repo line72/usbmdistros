@@ -7,7 +7,7 @@ categories:
 - Tape
 - Cassette
 - CD
-date: '2021-07-22T05:08:46'
+date: '2021-11-16T14:06:52'
 draft: false
 images:
 - /images/covers/white_ward-origins.jpg
@@ -25,5 +25,6 @@ title: White Ward - Origins
 * Purchase from [Debemur Morti](https://debemurmorti.aisamerch.com/item/96098) for $13.99
 ## Cassette
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/white-ward-origins-cassette) for $14.00 :: Cassette Tape 1st press
+* Purchase from [Debemur Morti](https://debemurmorti.aisamerch.com/item/96098) for $13.99
 ## CD
 * Purchase from [Debemur Morti](https://debemurmorti.aisamerch.com/item/96096) for $9.99
