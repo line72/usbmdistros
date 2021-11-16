@@ -71,6 +71,7 @@ class MetalToTheCore1986(Parser):
             re.compile(r'^(.*?)\s+\d+"\s+LP\s*$'),
             re.compile(r'^(.*?)\s+\d+″\s+LP\s*$'),
             re.compile(r'^(.*?)\s+CD\s+/\s+DVD\s*$'),
+            re.compile(r'^(.*?)\s+CD\s+IN\s+DVD\s+CASE\s*$'),
         ]
         
         if (match := re.match(r, t)) != None:
