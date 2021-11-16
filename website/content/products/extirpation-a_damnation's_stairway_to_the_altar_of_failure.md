@@ -3,7 +3,6 @@ actualPrice: $5.50
 album: A Damnation'S Stairway To The Altar Of Failure
 artist: Extirpation
 categories:
-- Tape
 - Cassette
 date: '2021-11-16T14:07:15'
 draft: false
@@ -14,7 +13,5 @@ thumbnailImage: /images/covers/extirpation-a_damnation's_stairway_to_the_altar_o
 title: Extirpation - A Damnation'S Stairway To The Altar Of Failure
 ---
 
-## Tape
-* Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/31458568-extirpation-a-damnations-stairway-to-the-altar-of-failure) for $5.50
 ## Cassette
 * Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/31458568-extirpation-a-damnations-stairway-to-the-altar-of-failure) for $5.50

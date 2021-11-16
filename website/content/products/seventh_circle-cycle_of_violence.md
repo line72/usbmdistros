@@ -3,7 +3,6 @@ actualPrice: $6.50 - 7.50
 album: Cycle Of Violence
 artist: Seventh Circle
 categories:
-- Tape
 - Cassette
 - CD
 date: '2021-11-16T14:07:16'
@@ -15,8 +14,6 @@ thumbnailImage: /images/covers/seventh_circle-cycle_of_violence-thumb.jpg
 title: Seventh Circle - Cycle Of Violence
 ---
 
-## Tape
-* Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/29154283-seventh-circle-cycle-of-violence-cal-139-cd) for $6.50 :: CD
 ## Cassette
 * Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/29154283-seventh-circle-cycle-of-violence-cal-139-cd) for $6.50 :: CD
 ## CD

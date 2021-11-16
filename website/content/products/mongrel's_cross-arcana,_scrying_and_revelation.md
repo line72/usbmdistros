@@ -3,7 +3,6 @@ actualPrice: $7.00
 album: Arcana, Scrying And Revelation
 artist: Mongrel'S Cross
 categories:
-- Tape
 - Cassette
 date: '2021-11-16T14:07:14'
 draft: false
@@ -14,7 +13,5 @@ thumbnailImage: /images/covers/mongrel's_cross-arcana,_scrying_and_revelation-th
 title: Mongrel'S Cross - Arcana, Scrying And Revelation
 ---
 
-## Tape
-* Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/31922509-mongrels-cross-arcana-scrying-and-revelation) for $7.00
 ## Cassette
 * Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/31922509-mongrels-cross-arcana-scrying-and-revelation) for $7.00

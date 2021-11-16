@@ -3,7 +3,6 @@ actualPrice: $9.00
 album: Piss Soaked Church of the Wrong
 artist: Flooded Church of Asmodeus
 categories:
-- Tape
 - Cassette
 date: '2021-11-16T14:05:09'
 draft: false
@@ -14,7 +13,5 @@ thumbnailImage: /images/covers/flooded_church_of_asmodeus-piss_soaked_church_of_
 title: Flooded Church of Asmodeus - Piss Soaked Church of the Wrong
 ---
 
-## Tape
-* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/flooded-church-of-asmodeus-piss-soaked-church-of-the-wrong-tape) for $9.00
 ## Cassette
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/flooded-church-of-asmodeus-piss-soaked-church-of-the-wrong-tape) for $9.00

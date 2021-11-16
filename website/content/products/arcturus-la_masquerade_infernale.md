@@ -7,9 +7,9 @@ categories:
 date: '2021-11-12T06:08:35'
 draft: false
 images:
-- /images/covers/arcturus-la_masquerade_infernale.png
+- /images/covers/arcturus-la_masquerade_infernale.jpg
 inStock: true
-thumbnailImage: /images/covers/arcturus-la_masquerade_infernale-thumb.png
+thumbnailImage: /images/covers/arcturus-la_masquerade_infernale-thumb.jpg
 title: Arcturus - La Masquerade Infernale
 ---
 

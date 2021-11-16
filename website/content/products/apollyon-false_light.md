@@ -3,7 +3,6 @@ actualPrice: $6.50
 album: False Light
 artist: Apollyon
 categories:
-- Tape
 - Cassette
 date: '2021-11-16T14:07:17'
 draft: false
@@ -14,7 +13,5 @@ thumbnailImage: /images/covers/apollyon-false_light-thumb.jpg
 title: Apollyon - False Light
 ---
 
-## Tape
-* Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/30690190-apollyon-false-light) for $6.50
 ## Cassette
 * Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/30690190-apollyon-false-light) for $6.50

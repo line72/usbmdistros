@@ -3,7 +3,6 @@ actualPrice: $4.00
 album: The Bleaking
 artist: Haeiresis
 categories:
-- Tape
 - Cassette
 date: '2021-11-16T14:07:20'
 draft: false
@@ -14,7 +13,5 @@ thumbnailImage: /images/covers/haeiresis-the_bleaking-thumb.jpg
 title: Haeiresis - The Bleaking
 ---
 
-## Tape
-* Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/24928023-haeiresis-the-bleaking) for $4.00
 ## Cassette
 * Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/24928023-haeiresis-the-bleaking) for $4.00

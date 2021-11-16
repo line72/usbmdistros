@@ -4,7 +4,6 @@ album: Infernum Et Necromantium
 artist: Illum Adora
 categories:
 - Vinyl
-- Tape
 - Cassette
 - CD
 date: '2021-11-16T14:07:12'
@@ -18,8 +17,6 @@ title: Illum Adora - Infernum Et Necromantium
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=10611&sort=pd.name&order=ASC) for $20.00
-## Tape
-* Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/33096514-illum-adora-infernum-et-necromantium) for $8.50
 ## Cassette
 * Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/33096514-illum-adora-infernum-et-necromantium) for $8.50
 ## CD

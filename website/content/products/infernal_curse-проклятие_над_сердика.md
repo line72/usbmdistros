@@ -4,7 +4,6 @@ album: "\u041F\u0440\u043E\u043A\u043B\u044F\u0442\u0438\u0435 \u041D\u0430\u043
   \ \u0421\u0435\u0440\u0434\u0438\u043A\u0430"
 artist: Infernal Curse
 categories:
-- Tape
 - Cassette
 date: '2021-11-16T14:07:14'
 draft: false
@@ -19,7 +18,5 @@ title: "Infernal Curse - \u041F\u0440\u043E\u043A\u043B\u044F\u0442\u0438\u0435 
   \u0430\u0434 \u0421\u0435\u0440\u0434\u0438\u043A\u0430"
 ---
 
-## Tape
-* Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/31870915-infernal-curse) for $8.00
 ## Cassette
 * Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/31870915-infernal-curse) for $8.00

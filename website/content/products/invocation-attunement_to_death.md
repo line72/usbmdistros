@@ -4,7 +4,6 @@ album: Attunement To Death
 artist: Invocation
 categories:
 - Vinyl
-- Tape
 - Cassette
 - CD
 date: '2021-11-16T14:07:12'
@@ -18,8 +17,6 @@ title: Invocation - Attunement To Death
 
 ## Vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/invocation-attunement-to-death) for $27.00 :: Black 1st press vinyl
-## Tape
-* Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/32362381-invocation-attunement-to-death) for $9.50
 ## Cassette
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=16423&sort=pd.name&order=ASC) for $8.00
 * Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/32362381-invocation-attunement-to-death) for $9.50

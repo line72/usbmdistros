@@ -3,7 +3,6 @@ actualPrice: $6.00
 album: "Evaluate\u200B\u200B.\u200B\u200BExecute."
 artist: Naillung
 categories:
-- Tape
 - Cassette
 date: '2021-11-16T14:07:15'
 draft: false
@@ -14,7 +13,5 @@ thumbnailImage: "/images/covers/naillung-evaluate\u200B\u200B.\u200B\u200Bexecut
 title: "Naillung - Evaluate\u200B\u200B.\u200B\u200BExecute."
 ---
 
-## Tape
-* Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/31530418-naillung-evaluate-execute) for $6.00
 ## Cassette
 * Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/31530418-naillung-evaluate-execute) for $6.00

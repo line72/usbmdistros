@@ -3,7 +3,6 @@ actualPrice: $4.00
 album: Self-Titled
 artist: Divine Ecstasy
 categories:
-- Tape
 - Cassette
 date: '2021-11-16T14:07:20'
 draft: false
@@ -14,7 +13,5 @@ thumbnailImage: /images/covers/divine_ecstasy-self-titled-thumb.jpg
 title: Divine Ecstasy - Self-Titled
 ---
 
-## Tape
-* Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/25250040-divine-ecstasy-self-titled) for $4.00
 ## Cassette
 * Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/25250040-divine-ecstasy-self-titled) for $4.00

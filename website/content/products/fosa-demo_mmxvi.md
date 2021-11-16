@@ -3,7 +3,6 @@ actualPrice: $5.00
 album: Demo Mmxvi
 artist: Fosa
 categories:
-- Tape
 - Cassette
 date: '2021-11-16T14:07:19'
 draft: false
@@ -14,7 +13,5 @@ thumbnailImage: /images/covers/fosa-demo_mmxvi-thumb.jpg
 title: Fosa - Demo Mmxvi
 ---
 
-## Tape
-* Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/24819756-fosa-demo-mmxvi) for $5.00
 ## Cassette
 * Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/24819756-fosa-demo-mmxvi) for $5.00

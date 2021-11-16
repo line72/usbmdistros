@@ -1,10 +1,9 @@
 ---
-actualPrice: $9.00 - 25.00
+actualPrice: $10.00 - 25.00
 album: Sinking The Song
 artist: Ride for Revenge
 categories:
 - Vinyl
-- Tape
 - Cassette
 - CD
 date: '2021-06-26T15:23:23'
@@ -18,8 +17,6 @@ title: Ride for Revenge - Sinking The Song
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=10381&sort=pd.name&order=ASC) for $25.00
-## Tape
-* Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/32264107-ride-for-revenge-sinking-the-song) for $9.00
 ## Cassette
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=14424&sort=pd.name&order=ASC) for $10.00
 ## CD

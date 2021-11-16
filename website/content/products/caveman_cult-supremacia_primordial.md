@@ -7,9 +7,9 @@ categories:
 date: '2021-11-13T06:06:45'
 draft: false
 images:
-- /images/covers/caveman_cult-supremacia_primordial.png
+- /images/covers/caveman_cult-supremacia_primordial.jpg
 inStock: true
-thumbnailImage: /images/covers/caveman_cult-supremacia_primordial-thumb.png
+thumbnailImage: /images/covers/caveman_cult-supremacia_primordial-thumb.jpg
 title: Caveman Cult - Supremacia Primordial
 ---
 

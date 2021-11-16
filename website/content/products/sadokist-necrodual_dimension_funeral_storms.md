@@ -3,7 +3,6 @@ actualPrice: $7.00 - 7.50
 album: Necrodual Dimension Funeral Storms
 artist: Sadokist
 categories:
-- Tape
 - Cassette
 - CD
 date: '2021-11-16T14:07:14'
@@ -15,8 +14,6 @@ thumbnailImage: /images/covers/sadokist-necrodual_dimension_funeral_storms-thumb
 title: Sadokist - Necrodual Dimension Funeral Storms
 ---
 
-## Tape
-* Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/31921903-sadokist-necrodual-dimension-funeral-storms) for $7.00
 ## Cassette
 * Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/31921903-sadokist-necrodual-dimension-funeral-storms) for $7.00
 ## CD

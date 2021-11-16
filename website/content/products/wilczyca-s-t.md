@@ -3,7 +3,6 @@ actualPrice: $9.00
 album: s/t
 artist: Wilczyca
 categories:
-- Tape
 - Cassette
 date: '2021-11-16T14:05:08'
 draft: false
@@ -14,7 +13,5 @@ thumbnailImage: /images/covers/wilczyca-s-t-thumb.jpg
 title: Wilczyca - s/t
 ---
 
-## Tape
-* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/wilczyca-s-t-tape) for $9.00
 ## Cassette
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/wilczyca-s-t-tape) for $9.00

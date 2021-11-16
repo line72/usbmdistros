@@ -3,7 +3,6 @@ actualPrice: $9.00
 album: Self-Titled
 artist: Wilczyca
 categories:
-- Tape
 - Cassette
 date: '2021-11-16T14:07:12'
 draft: false
@@ -14,7 +13,5 @@ thumbnailImage: /images/covers/wilczyca-self-titled-thumb.jpg
 title: Wilczyca - Self-Titled
 ---
 
-## Tape
-* Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/32339689-wilczyca-self-titled) for $9.00
 ## Cassette
 * Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/32339689-wilczyca-self-titled) for $9.00

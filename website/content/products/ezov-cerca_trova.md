@@ -3,7 +3,6 @@ actualPrice: $6.00
 album: Cerca Trova
 artist: Ezov
 categories:
-- Tape
 - Cassette
 date: '2021-11-16T14:07:19'
 draft: false
@@ -14,7 +13,5 @@ thumbnailImage: /images/covers/ezov-cerca_trova-thumb.jpg
 title: Ezov - Cerca Trova
 ---
 
-## Tape
-* Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/24677454-ezov-cerca-trova) for $6.00
 ## Cassette
 * Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/24677454-ezov-cerca-trova) for $6.00

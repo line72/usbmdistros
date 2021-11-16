@@ -7,9 +7,9 @@ categories:
 date: '2021-11-15T06:00:19'
 draft: false
 images:
-- /images/covers/elffor-unblessed_woods.png
+- /images/covers/elffor-unblessed_woods.jpg
 inStock: true
-thumbnailImage: /images/covers/elffor-unblessed_woods-thumb.png
+thumbnailImage: /images/covers/elffor-unblessed_woods-thumb.jpg
 title: Elffor - Unblessed Woods
 ---
 

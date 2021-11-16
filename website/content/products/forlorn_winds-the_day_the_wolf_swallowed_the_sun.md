@@ -7,9 +7,9 @@ categories:
 date: '2021-11-16T14:15:20'
 draft: false
 images:
-- /images/covers/forlorn_winds-the_day_the_wolf_swallowed_the_sun.png
+- /images/covers/forlorn_winds-the_day_the_wolf_swallowed_the_sun.jpg
 inStock: true
-thumbnailImage: /images/covers/forlorn_winds-the_day_the_wolf_swallowed_the_sun-thumb.png
+thumbnailImage: /images/covers/forlorn_winds-the_day_the_wolf_swallowed_the_sun-thumb.jpg
 title: Forlorn Winds - The Day the Wolf Swallowed the Sun
 ---
 

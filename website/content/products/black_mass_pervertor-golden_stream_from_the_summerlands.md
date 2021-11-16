@@ -3,7 +3,6 @@ actualPrice: $5.00
 album: Golden Stream From The Summerlands
 artist: Black Mass Pervertor
 categories:
-- Tape
 - Cassette
 date: '2021-11-16T14:07:18'
 draft: false
@@ -14,7 +13,5 @@ thumbnailImage: /images/covers/black_mass_pervertor-golden_stream_from_the_summe
 title: Black Mass Pervertor - Golden Stream From The Summerlands
 ---
 
-## Tape
-* Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/28810351-black-mass-pervertor-golden-stream-from-the-summerlands) for $5.00
 ## Cassette
 * Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/28810351-black-mass-pervertor-golden-stream-from-the-summerlands) for $5.00

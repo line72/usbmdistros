@@ -4,7 +4,6 @@ album: Elmet
 artist: White Medal
 categories:
 - Vinyl
-- Tape
 - Cassette
 - CD
 date: '2021-11-16T14:05:08'
@@ -18,8 +17,6 @@ title: White Medal - Elmet
 
 ## Vinyl
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/white-medal-elmet-12-lp) for $25.00
-## Tape
-* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/white-medal-elmet-tape) for $10.00
 ## Cassette
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=14419&sort=pd.name&order=ASC) for $10.00
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/white-medal-elmet-tape) for $10.00

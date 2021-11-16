@@ -4,7 +4,6 @@ album: s/t
 artist: Funeral Harvest
 categories:
 - Vinyl
-- Tape
 - Cassette
 date: '2021-11-16T14:05:09'
 draft: false
@@ -17,7 +16,5 @@ title: Funeral Harvest - s/t
 
 ## Vinyl
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/funeral-harvest-s-t-10) for $23.00
-## Tape
-* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/funeral-harvest-s-t-tape) for $10.00
 ## Cassette
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/funeral-harvest-s-t-tape) for $10.00

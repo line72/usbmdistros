@@ -4,7 +4,6 @@ album: Worship The Eternal Darkness
 artist: Archgoat
 categories:
 - Vinyl
-- Tape
 - Cassette
 - CD
 date: '2021-11-16T14:06:48'
@@ -23,8 +22,6 @@ title: Archgoat - Worship The Eternal Darkness
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/archgoat-worship-the-eternal-darkness-lp) for $29.00 :: Black 1st press vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/archgoat-worship-the-eternal-darkness-lp) for $32.00 :: Red/Black Spinner 1st press vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=19143&sort=pd.name&order=ASC) for $25.00
-## Tape
-* Purchase from [Debemur Morti](https://debemurmorti.aisamerch.com/item/102487) for $12.99
 ## Cassette
 * Purchase from [Debemur Morti](https://debemurmorti.aisamerch.com/item/102487) for $12.99
 ## CD

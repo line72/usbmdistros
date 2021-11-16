@@ -3,7 +3,6 @@ actualPrice: $12.00
 album: Demo III
 artist: Moribund
 categories:
-- Tape
 - Cassette
 date: '2021-11-16T14:05:08'
 draft: false
@@ -14,7 +13,5 @@ thumbnailImage: /images/covers/moribund-demo_iii-thumb.jpg
 title: Moribund - Demo III
 ---
 
-## Tape
-* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/moribund-demo-iii-tape) for $12.00
 ## Cassette
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/moribund-demo-iii-tape) for $12.00

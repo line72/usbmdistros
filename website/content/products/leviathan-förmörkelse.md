@@ -3,7 +3,6 @@ actualPrice: $8.50
 album: "F\xF6rm\xF6rkelse"
 artist: Leviathan
 categories:
-- Tape
 - Cassette
 date: '2021-11-16T14:07:16'
 draft: false
@@ -14,7 +13,5 @@ thumbnailImage: "/images/covers/leviathan-f\xF6rm\xF6rkelse-thumb.jpg"
 title: "Leviathan - F\xF6rm\xF6rkelse"
 ---
 
-## Tape
-* Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/31231423-leviathan-formorkelse) for $8.50
 ## Cassette
 * Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/31231423-leviathan-formorkelse) for $8.50

@@ -3,7 +3,6 @@ actualPrice: $5.00
 album: "\u1F0C\u03BC\u03B2\u03C1\u03BF\u03C4\u03BF\u03C2"
 artist: Ambrotos
 categories:
-- Tape
 - Cassette
 date: '2021-11-16T14:07:19'
 draft: false
@@ -15,7 +14,5 @@ thumbnailImage: "/images/covers/ambrotos-\u1F04\u03BC\u03B2\u03C1\u03BF\u03C4\u0
 title: "Ambrotos - \u1F0C\u03BC\u03B2\u03C1\u03BF\u03C4\u03BF\u03C2"
 ---
 
-## Tape
-* Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/25249914-ambrotos) for $5.00
 ## Cassette
 * Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/25249914-ambrotos) for $5.00

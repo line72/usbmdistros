@@ -3,7 +3,6 @@ actualPrice: $6.50
 album: Bit To Ewigen Daogen
 artist: Toadeater
 categories:
-- Tape
 - Cassette
 date: '2021-11-16T14:07:15'
 draft: false
@@ -14,7 +13,5 @@ thumbnailImage: /images/covers/toadeater-bit_to_ewigen_daogen-thumb.jpg
 title: Toadeater - Bit To Ewigen Daogen
 ---
 
-## Tape
-* Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/31707574-toadeater-bit-to-ewigen-daogen) for $6.50
 ## Cassette
 * Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/31707574-toadeater-bit-to-ewigen-daogen) for $6.50

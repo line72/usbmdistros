@@ -7,9 +7,9 @@ categories:
 date: '2021-11-13T06:00:18'
 draft: false
 images:
-- "/images/covers/mulla-\u0645\u064E\u0648\u0652\u0644\u064E\u0649.png"
+- "/images/covers/mulla-\u0645\u064E\u0648\u0652\u0644\u064E\u0649.jpg"
 inStock: true
-thumbnailImage: "/images/covers/mulla-\u0645\u064E\u0648\u0652\u0644\u064E\u0649-thumb.png"
+thumbnailImage: "/images/covers/mulla-\u0645\u064E\u0648\u0652\u0644\u064E\u0649-thumb.jpg"
 title: "Mulla - \u0645\u064E\u0648\u0652\u0644\u064E\u0649"
 ---
 

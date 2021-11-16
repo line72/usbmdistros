@@ -3,7 +3,6 @@ actualPrice: $8.50
 album: What Lies Beneath Gravel & Soot
 artist: Shades of Vrsaj'kett
 categories:
-- Tape
 - Cassette
 date: '2021-11-16T14:05:08'
 draft: false
@@ -14,7 +13,5 @@ thumbnailImage: /images/covers/shades_of_vrsaj'kett-what_lies_beneath_gravel_&_s
 title: Shades of Vrsaj'kett - What Lies Beneath Gravel & Soot
 ---
 
-## Tape
-* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/shades-of-vrsaj-kett-what-lies-beneath-gravel-soot-tape) for $8.50
 ## Cassette
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/shades-of-vrsaj-kett-what-lies-beneath-gravel-soot-tape) for $8.50

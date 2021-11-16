@@ -4,7 +4,7 @@ album: "Genealog\xEDa Del Eterno Desasosiego"
 artist: Velo Misere
 categories:
 - Tape
-date: '2021-09-14T05:00:11'
+date: '2021-11-16T14:28:59'
 draft: false
 images:
 - "/images/covers/velo_misere-genealog\xEDa_del_eterno_desasosiego.jpg"

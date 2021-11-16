@@ -3,7 +3,6 @@ actualPrice: $8.00 - 8.50
 album: A Necromancy Lore
 artist: Drama Noir
 categories:
-- Tape
 - Cassette
 date: '2021-11-16T14:07:11'
 draft: false
@@ -14,8 +13,6 @@ thumbnailImage: /images/covers/drama_noir-a_necromancy_lore-thumb.png
 title: Drama Noir - A Necromancy Lore
 ---
 
-## Tape
-* Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/33495118-drama-noir-a-necromancy-lore) for $8.50
 ## Cassette
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=13694&sort=pd.name&order=ASC) for $8.00
 * Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/33495118-drama-noir-a-necromancy-lore) for $8.50

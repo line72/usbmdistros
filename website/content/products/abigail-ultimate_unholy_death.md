@@ -4,7 +4,6 @@ album: Ultimate Unholy Death
 artist: Abigail
 categories:
 - Vinyl
-- Tape
 - Cassette
 date: '2021-11-16T14:07:11'
 draft: false
@@ -19,8 +18,6 @@ title: Abigail - Ultimate Unholy Death
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=11938&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=17917&sort=pd.name&order=ASC) for $20.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=17939&sort=pd.name&order=ASC) for $20.00
-## Tape
-* Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/33512077-abigail-ultimate-unholy-death) for $10.50
 ## Cassette
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=16675&sort=pd.name&order=ASC) for $9.00
 * Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/33512077-abigail-ultimate-unholy-death) for $10.50

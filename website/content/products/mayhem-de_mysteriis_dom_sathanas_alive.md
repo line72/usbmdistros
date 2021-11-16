@@ -7,9 +7,9 @@ categories:
 date: '2021-11-12T06:09:06'
 draft: false
 images:
-- /images/covers/mayhem-de_mysteriis_dom_sathanas_alive.png
+- /images/covers/mayhem-de_mysteriis_dom_sathanas_alive.jpg
 inStock: true
-thumbnailImage: /images/covers/mayhem-de_mysteriis_dom_sathanas_alive-thumb.png
+thumbnailImage: /images/covers/mayhem-de_mysteriis_dom_sathanas_alive-thumb.jpg
 title: Mayhem - De Mysteriis Dom Sathanas Alive
 ---
 

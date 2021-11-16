@@ -4,7 +4,6 @@ album: Thematic Emanation of Archetypal Multiplicity
 artist: Blut Aus Nord
 categories:
 - Vinyl
-- Tape
 - Cassette
 date: '2021-11-16T14:06:49'
 draft: false
@@ -17,8 +16,6 @@ title: Blut Aus Nord - Thematic Emanation of Archetypal Multiplicity
 
 ## Vinyl
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/blut-aus-nord-thematic-emanation-of-archetypal-multiplicity-12-lp) for $20.00
-## Tape
-* Purchase from [Debemur Morti](https://debemurmorti.aisamerch.com/item/99598) for $13.99
 ## Cassette
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/blut-aus-nord-thematic-emanation-of-archetypal-multiplicity-cassette) for $14.00 :: Cassette Tape 2021 press
 * Purchase from [Debemur Morti](https://debemurmorti.aisamerch.com/item/99598) for $13.99

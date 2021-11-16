@@ -3,7 +3,6 @@ actualPrice: $3.00
 album: "Proc\xE8s De Sorcellerie"
 artist: Profundae Libidines
 categories:
-- Tape
 - Cassette
 date: '2021-11-16T14:07:19'
 draft: false
@@ -14,7 +13,5 @@ thumbnailImage: "/images/covers/profundae_libidines-proc\xE8s_de_sorcellerie-thu
 title: "Profundae Libidines - Proc\xE8s De Sorcellerie"
 ---
 
-## Tape
-* Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/25949550-profundae-libidines-proces-de-sorcellerie) for $3.00
 ## Cassette
 * Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/25949550-profundae-libidines-proces-de-sorcellerie) for $3.00

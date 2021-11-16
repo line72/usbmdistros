@@ -3,7 +3,6 @@ actualPrice: $7.50 - 9.00
 album: Ghoul
 artist: Erupted Evil
 categories:
-- Tape
 - Cassette
 - CD
 date: '2021-11-16T14:07:11'
@@ -15,8 +14,6 @@ thumbnailImage: /images/covers/erupted_evil-ghoul-thumb.jpg
 title: Erupted Evil - Ghoul
 ---
 
-## Tape
-* Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/33495055-erupted-evil-ghoul) for $9.00
 ## Cassette
 * Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/33495055-erupted-evil-ghoul) for $9.00
 ## CD

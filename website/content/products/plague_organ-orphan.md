@@ -4,7 +4,6 @@ album: Orphan
 artist: Plague Organ
 categories:
 - Vinyl
-- Tape
 - Cassette
 date: '2021-11-16T14:07:12'
 draft: false
@@ -18,7 +17,5 @@ title: Plague Organ - Orphan
 ## Vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/plague-organ-orphan) for $20.00 :: Black 1st press vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/plague-organ-orphan) for $29.00 :: Blue 1st press vinyl (SOLD OUT)
-## Tape
-* Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/32484271-plague-organ-orphan) for $12.00
 ## Cassette
 * Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/32484271-plague-organ-orphan) for $12.00

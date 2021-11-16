@@ -3,7 +3,6 @@ actualPrice: $9.00
 album: Botsplinters en Weefselscheuren
 artist: Urnenzuil
 categories:
-- Tape
 - Cassette
 date: '2021-11-16T14:05:09'
 draft: false
@@ -14,7 +13,5 @@ thumbnailImage: /images/covers/urnenzuil-botsplinters_en_weefselscheuren-thumb.j
 title: Urnenzuil - Botsplinters en Weefselscheuren
 ---
 
-## Tape
-* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/urnenzuil-botsplinters-en-weefselscheuren-tape) for $9.00
 ## Cassette
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/urnenzuil-botsplinters-en-weefselscheuren-tape) for $9.00

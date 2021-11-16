@@ -3,7 +3,6 @@ actualPrice: $6.00
 album: Apophenia
 artist: Belus
 categories:
-- Tape
 - Cassette
 date: '2021-11-16T14:07:20'
 draft: false
@@ -14,7 +13,5 @@ thumbnailImage: /images/covers/belus-apophenia-thumb.jpg
 title: Belus - Apophenia
 ---
 
-## Tape
-* Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/22092182-belus-apophenia) for $6.00
 ## Cassette
 * Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/22092182-belus-apophenia) for $6.00

@@ -3,7 +3,6 @@ actualPrice: $5.00
 album: Self-Titled
 artist: Trepanation
 categories:
-- Tape
 - Cassette
 date: '2021-11-16T14:07:15'
 draft: false
@@ -14,7 +13,5 @@ thumbnailImage: /images/covers/trepanation-self-titled-thumb.jpg
 title: Trepanation - Self-Titled
 ---
 
-## Tape
-* Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/31762669-trepanation-self-titled) for $5.00
 ## Cassette
 * Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/31762669-trepanation-self-titled) for $5.00

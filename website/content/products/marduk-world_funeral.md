@@ -7,9 +7,9 @@ categories:
 date: '2021-11-12T06:09:06'
 draft: false
 images:
-- /images/covers/marduk-world_funeral.png
+- /images/covers/marduk-world_funeral.jpg
 inStock: true
-thumbnailImage: /images/covers/marduk-world_funeral-thumb.png
+thumbnailImage: /images/covers/marduk-world_funeral-thumb.jpg
 title: Marduk - World Funeral
 ---
 

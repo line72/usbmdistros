@@ -3,7 +3,6 @@ actualPrice: $4.00 - 7.50
 album: Mother Of Misery And All Repugnance (Diabolo Intervale)
 artist: Ritual Lair
 categories:
-- Tape
 - Cassette
 - CD
 date: '2021-11-16T14:07:19'
@@ -15,8 +14,6 @@ thumbnailImage: /images/covers/ritual_lair-mother_of_misery_and_all_repugnance_(
 title: Ritual Lair - Mother Of Misery And All Repugnance (Diabolo Intervale)
 ---
 
-## Tape
-* Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/20290922-ritual-lair-mother-of-misery-and-all-repugnance-diabolo-intervale) for $4.00
 ## Cassette
 * Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/20290922-ritual-lair-mother-of-misery-and-all-repugnance-diabolo-intervale) for $4.00
 ## CD

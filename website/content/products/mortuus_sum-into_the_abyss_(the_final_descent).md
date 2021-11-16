@@ -3,7 +3,6 @@ actualPrice: $5.00
 album: Into The Abyss (The Final Descent)
 artist: Mortuus Sum
 categories:
-- Tape
 - Cassette
 date: '2021-11-16T14:07:20'
 draft: false
@@ -14,7 +13,5 @@ thumbnailImage: /images/covers/mortuus_sum-into_the_abyss_(the_final_descent)-th
 title: Mortuus Sum - Into The Abyss (The Final Descent)
 ---
 
-## Tape
-* Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/26302200-mortuus-sum-into-the-abyss-the-final-descent) for $5.00
 ## Cassette
 * Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/26302200-mortuus-sum-into-the-abyss-the-final-descent) for $5.00

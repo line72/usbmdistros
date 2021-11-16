@@ -4,7 +4,7 @@ album: Demo I
 artist: "M\xFCrmurio"
 categories:
 - Tape
-date: '2021-10-14T18:44:37'
+date: '2021-11-16T14:28:59'
 draft: false
 images:
 - "/images/covers/m\xFCrmurio-demo_i.jpg"

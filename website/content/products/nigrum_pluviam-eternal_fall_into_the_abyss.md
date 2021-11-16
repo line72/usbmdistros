@@ -5,7 +5,7 @@ artist: Nigrum Pluviam
 categories:
 - Vinyl
 - Tape
-date: '2021-10-26T05:00:23'
+date: '2021-11-16T14:28:59'
 draft: false
 images:
 - /images/covers/nigrum_pluviam-eternal_fall_into_the_abyss.jpg

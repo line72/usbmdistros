@@ -3,7 +3,6 @@ actualPrice: $8.00
 album: Thunderdome
 artist: Lust
 categories:
-- Tape
 - Cassette
 date: '2021-11-16T14:07:13'
 draft: false
@@ -14,7 +13,5 @@ thumbnailImage: /images/covers/lust-thunderdome-thumb.jpg
 title: Lust - Thunderdome
 ---
 
-## Tape
-* Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/32175667-lust-thunderdome) for $8.00
 ## Cassette
 * Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/32175667-lust-thunderdome) for $8.00

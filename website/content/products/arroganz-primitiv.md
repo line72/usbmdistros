@@ -3,7 +3,6 @@ actualPrice: $4.00
 album: Primitiv
 artist: Arroganz
 categories:
-- Tape
 - Cassette
 date: '2021-11-16T14:07:19'
 draft: false
@@ -14,7 +13,5 @@ thumbnailImage: /images/covers/arroganz-primitiv-thumb.jpg
 title: Arroganz - Primitiv
 ---
 
-## Tape
-* Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/24024951-arroganz-primitiv) for $4.00
 ## Cassette
 * Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/24024951-arroganz-primitiv) for $4.00

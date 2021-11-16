@@ -3,7 +3,6 @@ actualPrice: $8.00
 album: Hammerwych Ep
 artist: Symbel
 categories:
-- Tape
 - Cassette
 date: '2021-11-16T14:07:15'
 draft: false
@@ -14,7 +13,5 @@ thumbnailImage: /images/covers/symbel-hammerwych_ep-thumb.jpg
 title: Symbel - Hammerwych Ep
 ---
 
-## Tape
-* Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/31576333-symbel-hammerwych-ep) for $8.00
 ## Cassette
 * Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/31576333-symbel-hammerwych-ep) for $8.00

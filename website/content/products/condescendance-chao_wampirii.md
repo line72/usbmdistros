@@ -4,7 +4,7 @@ album: Chao Wampirii
 artist: Condescendance
 categories:
 - Tape
-date: '2021-10-14T18:44:37'
+date: '2021-11-16T14:28:59'
 draft: false
 images:
 - /images/covers/condescendance-chao_wampirii.jpg

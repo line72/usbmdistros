@@ -3,7 +3,6 @@ actualPrice: $3.00
 album: Self-Titled
 artist: Voland
 categories:
-- Tape
 - Cassette
 date: '2021-11-16T14:07:19'
 draft: false
@@ -14,7 +13,5 @@ thumbnailImage: /images/covers/voland-self-titled-thumb.jpg
 title: Voland - Self-Titled
 ---
 
-## Tape
-* Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/24166200-voland-self-titled) for $3.00
 ## Cassette
 * Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/24166200-voland-self-titled) for $3.00

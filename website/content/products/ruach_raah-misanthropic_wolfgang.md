@@ -4,7 +4,6 @@ album: Misanthropic Wolfgang
 artist: Ruach Raah
 categories:
 - Vinyl
-- Tape
 - Cassette
 date: '2021-11-16T14:05:08'
 draft: false
@@ -17,7 +16,5 @@ title: Ruach Raah - Misanthropic Wolfgang
 
 ## Vinyl
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/ruach-raah-misanthropic-wolfgang-12-lp) for $25.00
-## Tape
-* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/ruach-raah-misanthropic-wolfgang-tape) for $11.00
 ## Cassette
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/ruach-raah-misanthropic-wolfgang-tape) for $11.00
