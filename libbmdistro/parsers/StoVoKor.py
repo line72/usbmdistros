@@ -39,7 +39,8 @@ class StoVoKor(Parser):
         artist, title = entry['title'].split(sep = '-', maxsplit = 1)
         artist = artist.strip()
         title = self.split_album_type(title)
-        item_type = entry['product_type']
+        item_type = self.parse_item_type(entry)
+            
         price = int(float(entry['variants'][0]['price']) * 100)
 
         handle = entry['handle']
@@ -66,3 +67,10 @@ class StoVoKor(Parser):
 
         # No matches, probably doesn't have extra junk in it
         return s.strip()
+
+    def parse_item_type(self, entry):
+        item_type = entry['product_type']
+        if item_type == 'Tape':
+            item_type = 'Cassette'
+
+        return item_type
