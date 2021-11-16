@@ -98,7 +98,7 @@ class Caligari(Parser):
     
     def parse_item_type(self, t):
         if t == 'music-cassette-tapes':
-            return 'Tape'
+            return 'Cassette'
         elif t == 'music-cds':
             return 'CD'
         elif t == 'music-vinyl':

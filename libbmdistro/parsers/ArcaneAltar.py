@@ -46,7 +46,7 @@ class ArcaneAltar(Parser):
             ('cd', 'CD', re.compile(r'^\s*(.*?)\s+CD\s\+.*$')),
             ('2cd', 'CD', re.compile(r'^\s*(.*?)\s+2CD$')),
             ('3xcd', 'CD', re.compile(r'^\s*(.*?)\s+3xCD$')),
-            ('tape', 'Tape', re.compile(r'^\s*(.*?)\s+Tape$')),
+            ('tape', 'Cassette', re.compile(r'^\s*(.*?)\s+Tape$')),
         ]
         
     def parse(self, db):

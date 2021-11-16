@@ -108,6 +108,6 @@ class DebemurMorti(Parser):
         elif category == '/category/263':
             return 'Vinyl'
         elif category == '/category/303':
-            return 'Tape'
+            return 'Cassette'
         else:
             raise Exception(f'Unknown category type {category}')
