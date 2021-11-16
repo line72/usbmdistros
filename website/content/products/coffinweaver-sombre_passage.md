@@ -3,7 +3,7 @@ actualPrice: $10.00
 album: Sombre Passage
 artist: Coffinweaver
 categories:
-- Tape
+- Cassette
 date: '2021-11-16T14:28:59'
 draft: false
 images:
@@ -13,5 +13,5 @@ thumbnailImage: /images/covers/coffinweaver-sombre_passage-thumb.jpg
 title: Coffinweaver - Sombre Passage
 ---
 
-## Tape
+## Cassette
 * Purchase from [Sto'Vo'Kor Records](https://stovokor-records.com/products/coffinweaver-sombre-passage) for $10.00
