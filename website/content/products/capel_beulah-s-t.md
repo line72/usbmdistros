@@ -1,10 +1,11 @@
 ---
-actualPrice: $15.00
+actualPrice: $11.00 - 15.00
 album: s/t
 artist: Capel Beulah
 categories:
+- Cassette
 - CD
-date: '2021-06-26T15:03:08'
+date: '2021-11-17T06:00:31'
 draft: false
 images:
 - /images/covers/capel_beulah-s-t.jpg
@@ -13,5 +14,7 @@ thumbnailImage: /images/covers/capel_beulah-s-t-thumb.jpg
 title: Capel Beulah - s/t
 ---
 
+## Cassette
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/capel-beulah-s-t-tape) for $11.00
 ## CD
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/capel-beulah-s-t-cd) for $15.00
