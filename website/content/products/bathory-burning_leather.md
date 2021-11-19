@@ -4,7 +4,7 @@ album: Burning Leather
 artist: Bathory
 categories:
 - CD
-date: '2021-11-16T06:07:58'
+date: '2021-11-19T06:08:08'
 draft: false
 images:
 - /images/covers/bathory-burning_leather.jpg
@@ -17,3 +17,4 @@ title: Bathory - Burning Leather
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=17465&sort=pd.name&order=ASC) for $10.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=17904&sort=pd.name&order=ASC) for $10.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=19083&sort=pd.name&order=ASC) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=19180&sort=pd.name&order=ASC) for $10.00
