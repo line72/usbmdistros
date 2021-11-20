@@ -1,10 +1,10 @@
 ---
-actualPrice: $8.00
+actualPrice: $6.00
 album: Salem
 artist: Pagan Impaler
 categories:
 - Cassette
-date: '2021-11-16T14:07:16'
+date: '2021-11-20T06:01:46'
 draft: false
 images:
 - /images/covers/pagan_impaler-salem.jpg
@@ -14,4 +14,4 @@ title: Pagan Impaler - Salem
 ---
 
 ## Cassette
-* Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/31366381-pagan-impaler-salem) for $8.00
+* Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/31366381-pagan-impaler-salem) for $6.00
