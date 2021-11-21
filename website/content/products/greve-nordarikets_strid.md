@@ -4,7 +4,7 @@ album: Nordarikets Strid
 artist: Greve
 categories:
 - Vinyl
-date: '2021-11-12T06:08:56'
+date: '2021-11-21T06:07:02'
 draft: false
 images:
 - /images/covers/greve-nordarikets_strid.jpg
@@ -18,3 +18,4 @@ title: Greve - Nordarikets Strid
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=16620&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=18095&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=18961&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=19240&sort=pd.name&order=ASC) for $25.00

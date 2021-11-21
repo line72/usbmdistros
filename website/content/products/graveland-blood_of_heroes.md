@@ -4,7 +4,7 @@ album: Blood of Heroes
 artist: Graveland
 categories:
 - Vinyl
-date: '2021-11-20T06:00:30'
+date: '2021-11-21T06:00:28'
 draft: false
 images:
 - /images/covers/graveland-blood_of_heroes.jpg
