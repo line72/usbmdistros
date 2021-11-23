@@ -1,10 +1,10 @@
 ---
-actualPrice: $8.50
+actualPrice: $6.50
 album: Execration
 artist: Orbyssmal
 categories:
 - Cassette
-date: '2021-11-16T14:07:12'
+date: '2021-11-23T06:01:34'
 draft: false
 images:
 - /images/covers/orbyssmal-execration.jpg
@@ -14,4 +14,4 @@ title: Orbyssmal - Execration
 ---
 
 ## Cassette
-* Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/32982421-orbyssmal-execration) for $8.50
+* Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/32982421-orbyssmal-execration) for $6.50
