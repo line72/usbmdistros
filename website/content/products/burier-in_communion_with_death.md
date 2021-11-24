@@ -4,7 +4,7 @@ album: In Communion With Death
 artist: Burier
 categories:
 - CD
-date: '2021-06-26T15:23:04'
+date: '2021-11-24T06:00:40'
 draft: false
 images:
 - /images/covers/burier-in_communion_with_death.jpg
