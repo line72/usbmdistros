@@ -1,10 +1,10 @@
 ---
-actualPrice: $18.75
+actualPrice: $17.50
 album: Morbosidad
 artist: Morbosidad
 categories:
 - Vinyl
-date: '2021-11-22T06:07:55'
+date: '2021-11-25T06:07:52'
 draft: false
 images:
 - /images/covers/morbosidad-morbosidad.jpg
@@ -14,4 +14,4 @@ title: Morbosidad - Morbosidad
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=4362&sort=pd.name&order=ASC) for $18.75
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=4362&sort=pd.name&order=ASC) for $17.50

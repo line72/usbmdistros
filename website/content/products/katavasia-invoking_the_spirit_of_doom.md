@@ -1,10 +1,10 @@
 ---
-actualPrice: $8.00
+actualPrice: $6.40
 album: Invoking the Spirit of Doom
 artist: Katavasia
 categories:
 - Vinyl
-date: '2021-10-14T18:52:11'
+date: '2021-11-25T06:08:02'
 draft: false
 images:
 - /images/covers/katavasia-invoking_the_spirit_of_doom.jpg
@@ -14,4 +14,4 @@ title: Katavasia - Invoking the Spirit of Doom
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=18250&sort=pd.name&order=ASC) for $8.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=18250&sort=pd.name&order=ASC) for $6.40

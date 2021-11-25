@@ -1,10 +1,10 @@
 ---
-actualPrice: $7.00
+actualPrice: $4.90 - 7.00
 album: The One Eternal
 artist: Monstraat
 categories:
 - Cassette
-date: '2021-11-16T14:07:20'
+date: '2021-11-25T06:08:28'
 draft: false
 images:
 - /images/covers/monstraat-the_one_eternal.jpg
@@ -14,5 +14,5 @@ title: Monstraat - The One Eternal
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=11525&sort=pd.name&order=ASC) for $7.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=11525&sort=pd.name&order=ASC) for $4.90
 * Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/25784052-monstraat-the-one-eternal) for $7.00

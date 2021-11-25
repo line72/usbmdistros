@@ -1,10 +1,10 @@
 ---
-actualPrice: $10.00
+actualPrice: $7.00
 album: "Dit Inget Ljus Kan N\xE5"
 artist: Grav
 categories:
 - CD
-date: '2021-06-26T15:23:08'
+date: '2021-11-25T06:08:11'
 draft: false
 images:
 - "/images/covers/grav-dit_inget_ljus_kan_n\xE5.jpg"
@@ -14,4 +14,4 @@ title: "Grav - Dit Inget Ljus Kan N\xE5"
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=16406&sort=pd.name&order=ASC) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=16406&sort=pd.name&order=ASC) for $7.00

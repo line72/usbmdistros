@@ -1,10 +1,10 @@
 ---
-actualPrice: $25.00
+actualPrice: $20.00 - 25.00
 album: I.O. Creator / I.O. Destroyer
 artist: Ibex Angel Order
 categories:
 - Vinyl
-date: '2021-11-14T06:06:58'
+date: '2021-11-25T06:07:49'
 draft: false
 images:
 - /images/covers/ibex_angel_order-i.o._creator_-_i.o._destroyer.jpg
@@ -15,4 +15,4 @@ title: Ibex Angel Order - I.O. Creator / I.O. Destroyer
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=9803&sort=pd.name&order=ASC) for $25.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=19032&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=19032&sort=pd.name&order=ASC) for $20.00

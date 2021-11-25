@@ -1,10 +1,10 @@
 ---
-actualPrice: $15.00
+actualPrice: $14.00
 album: Ritual Euthanasia
 artist: Serpent Crest
 categories:
 - Vinyl
-date: '2021-06-29T15:06:06'
+date: '2021-11-25T06:07:56'
 draft: false
 images:
 - /images/covers/serpent_crest-ritual_euthanasia.jpg
@@ -14,4 +14,4 @@ title: Serpent Crest - Ritual Euthanasia
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=8144&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=8144&sort=pd.name&order=ASC) for $14.00

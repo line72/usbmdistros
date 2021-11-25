@@ -1,10 +1,10 @@
 ---
-actualPrice: $230.00
+actualPrice: $184.00 - 230.00
 album: Shadows of Iconoclasm
 artist: Darkthrone
 categories:
 - Vinyl
-date: '2021-11-19T06:06:59'
+date: '2021-11-25T06:07:45'
 draft: false
 images:
 - /images/covers/darkthrone-shadows_of_iconoclasm.jpg
@@ -20,3 +20,4 @@ title: Darkthrone - Shadows of Iconoclasm
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=18609&sort=pd.name&order=ASC) for $230.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=18773&sort=pd.name&order=ASC) for $230.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=19192&sort=pd.name&order=ASC) for $230.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=19411&sort=pd.name&order=ASC) for $184.00

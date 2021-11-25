@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.75
+actualPrice: $8.50
 album: "D\xE9routes Sans Fin"
 artist: Saison de Rouille
 categories:
 - Vinyl
-date: '2021-06-29T15:06:06'
+date: '2021-11-25T06:07:55'
 draft: false
 images:
 - "/images/covers/saison_de_rouille-d\xE9routes_sans_fin.jpg"
@@ -14,4 +14,4 @@ title: "Saison de Rouille - D\xE9routes Sans Fin"
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=991&sort=pd.name&order=ASC) for $12.75
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=991&sort=pd.name&order=ASC) for $8.50

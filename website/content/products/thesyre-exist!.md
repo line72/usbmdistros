@@ -1,10 +1,10 @@
 ---
-actualPrice: $10.00
+actualPrice: $7.00
 album: Exist!
 artist: TheSyre
 categories:
 - Vinyl
-date: '2021-06-26T15:22:56'
+date: '2021-11-25T06:07:58'
 draft: false
 images:
 - /images/covers/thesyre-exist!.jpg
@@ -14,4 +14,4 @@ title: TheSyre - Exist!
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=10973&sort=pd.name&order=ASC) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=10973&sort=pd.name&order=ASC) for $7.00

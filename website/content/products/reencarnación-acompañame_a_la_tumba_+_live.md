@@ -1,10 +1,10 @@
 ---
-actualPrice: $35.00
+actualPrice: $24.50
 album: "Acompa\xF1ame a la Tumba + Live"
 artist: "Reencarnaci\xF3n"
 categories:
 - Vinyl
-date: '2021-06-26T15:22:54'
+date: '2021-11-25T06:07:55'
 draft: false
 images:
 - "/images/covers/reencarnaci\xF3n-acompa\xF1ame_a_la_tumba_+_live.jpg"
@@ -14,4 +14,4 @@ title: "Reencarnaci\xF3n - Acompa\xF1ame a la Tumba + Live"
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=12785&sort=pd.name&order=ASC) for $35.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=12785&sort=pd.name&order=ASC) for $24.50

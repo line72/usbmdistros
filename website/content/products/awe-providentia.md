@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00
+actualPrice: $8.40
 album: Providentia
 artist: Awe
 categories:
 - CD
-date: '2021-08-19T06:52:13'
+date: '2021-11-25T06:08:06'
 draft: false
 images:
 - /images/covers/awe-providentia.jpg
@@ -14,4 +14,4 @@ title: Awe - Providentia
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=16945&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=16945&sort=pd.name&order=ASC) for $8.40

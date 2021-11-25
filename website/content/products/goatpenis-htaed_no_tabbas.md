@@ -1,10 +1,10 @@
 ---
-actualPrice: $17.00
+actualPrice: $11.90
 album: htaeD no tabbaS
 artist: Goatpenis
 categories:
 - Vinyl
-date: '2021-06-26T15:22:48'
+date: '2021-11-25T06:07:48'
 draft: false
 images:
 - /images/covers/goatpenis-htaed_no_tabbas.jpg
@@ -14,4 +14,4 @@ title: Goatpenis - htaeD no tabbaS
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=12712&sort=pd.name&order=ASC) for $17.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=12712&sort=pd.name&order=ASC) for $11.90

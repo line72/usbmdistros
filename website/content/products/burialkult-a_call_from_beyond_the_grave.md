@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.75
+actualPrice: $8.50
 album: A Call From Beyond the Grave
 artist: Burialkult
 categories:
 - Vinyl
-date: '2021-06-29T15:05:53'
+date: '2021-11-25T06:07:44'
 draft: false
 images:
 - /images/covers/burialkult-a_call_from_beyond_the_grave.jpg
@@ -14,4 +14,4 @@ title: Burialkult - A Call From Beyond the Grave
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=1955&sort=pd.name&order=ASC) for $12.75
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=1955&sort=pd.name&order=ASC) for $8.50

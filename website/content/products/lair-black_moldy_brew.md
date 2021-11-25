@@ -1,10 +1,10 @@
 ---
-actualPrice: $4.50
+actualPrice: $3.00
 album: Black Moldy Brew
 artist: Lair
 categories:
 - CD
-date: '2021-06-29T15:06:27'
+date: '2021-11-25T06:08:13'
 draft: false
 images:
 - /images/covers/lair-black_moldy_brew.jpg
@@ -14,4 +14,4 @@ title: Lair - Black Moldy Brew
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=2210&sort=pd.name&order=ASC) for $4.50
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=2210&sort=pd.name&order=ASC) for $3.00

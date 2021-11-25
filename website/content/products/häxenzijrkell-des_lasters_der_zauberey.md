@@ -1,10 +1,10 @@
 ---
-actualPrice: $5.25
+actualPrice: $3.50
 album: Des Lasters der Zauberey
 artist: "H\xE4xenzijrkell"
 categories:
 - CD
-date: '2021-06-29T15:06:24'
+date: '2021-11-25T06:08:11'
 draft: false
 images:
 - "/images/covers/h\xE4xenzijrkell-des_lasters_der_zauberey.jpg"
@@ -14,4 +14,4 @@ title: "H\xE4xenzijrkell - Des Lasters der Zauberey"
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=1815&sort=pd.name&order=ASC) for $5.25
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=1815&sort=pd.name&order=ASC) for $3.50

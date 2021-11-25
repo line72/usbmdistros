@@ -1,10 +1,10 @@
 ---
-actualPrice: $25.00
+actualPrice: $20.00
 album: Hengen Tulet
 artist: Horna
 categories:
 - Vinyl
-date: '2021-11-11T14:27:19'
+date: '2021-11-25T06:07:49'
 draft: false
 images:
 - /images/covers/horna-hengen_tulet.jpg
@@ -14,4 +14,4 @@ title: Horna - Hengen Tulet
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=18883&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=18883&sort=pd.name&order=ASC) for $20.00

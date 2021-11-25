@@ -1,10 +1,10 @@
 ---
-actualPrice: $7.50
+actualPrice: $5.00
 album: Ce Que Dit La Bouche D'Ombre
 artist: Paramnesia
 categories:
 - Cassette
-date: '2021-11-16T14:07:19'
+date: '2021-11-25T06:02:10'
 draft: false
 images:
 - /images/covers/paramnesia-ce_que_dit_la_bouche_d'ombre.jpg
@@ -14,4 +14,4 @@ title: Paramnesia - Ce Que Dit La Bouche D'Ombre
 ---
 
 ## Cassette
-* Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/25911081-paramnesia-ce-que-dit-la-bouche-dombre) for $7.50
+* Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/25911081-paramnesia-ce-que-dit-la-bouche-dombre) for $5.00

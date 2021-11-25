@@ -1,10 +1,10 @@
 ---
-actualPrice: $15.00
+actualPrice: $10.50
 album: The Flaming Death
 artist: Inthyflesh
 categories:
 - Cassette
-date: '2021-06-26T15:23:21'
+date: '2021-11-25T06:08:27'
 draft: false
 images:
 - /images/covers/inthyflesh-the_flaming_death.png
@@ -14,4 +14,4 @@ title: Inthyflesh - The Flaming Death
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=10652&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=10652&sort=pd.name&order=ASC) for $10.50

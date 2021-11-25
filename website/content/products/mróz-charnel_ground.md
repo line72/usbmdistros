@@ -1,10 +1,10 @@
 ---
-actualPrice: $7.50
+actualPrice: $7.00
 album: Charnel Ground
 artist: "Mr\xF3z"
 categories:
 - Cassette
-date: '2021-06-29T15:06:42'
+date: '2021-11-25T06:08:28'
 draft: false
 images:
 - "/images/covers/mr\xF3z-charnel_ground.jpg"
@@ -14,4 +14,4 @@ title: "Mr\xF3z - Charnel Ground"
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=8464&sort=pd.name&order=ASC) for $7.50
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=8464&sort=pd.name&order=ASC) for $7.00

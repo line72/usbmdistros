@@ -1,10 +1,10 @@
 ---
-actualPrice: $7.50
+actualPrice: $5.00
 album: A Ritual of Blood, A Pact of Ashes
 artist: Initiation
 categories:
 - CD
-date: '2021-06-29T15:06:26'
+date: '2021-11-25T06:08:12'
 draft: false
 images:
 - /images/covers/initiation-a_ritual_of_blood,_a_pact_of_ashes.jpg
@@ -14,4 +14,4 @@ title: Initiation - A Ritual of Blood, A Pact of Ashes
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=3399&sort=pd.name&order=ASC) for $7.50
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=3399&sort=pd.name&order=ASC) for $5.00

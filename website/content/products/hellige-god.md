@@ -1,10 +1,10 @@
 ---
-actualPrice: $7.00
+actualPrice: $4.90
 album: God
 artist: Hellige
 categories:
 - Cassette
-date: '2021-06-26T15:23:21'
+date: '2021-11-25T06:08:27'
 draft: false
 images:
 - /images/covers/hellige-god.png
@@ -14,4 +14,4 @@ title: Hellige - God
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=11378&sort=pd.name&order=ASC) for $7.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=11378&sort=pd.name&order=ASC) for $4.90

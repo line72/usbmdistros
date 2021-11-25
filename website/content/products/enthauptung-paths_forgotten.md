@@ -1,10 +1,10 @@
 ---
-actualPrice: $8.00
+actualPrice: $6.40
 album: Paths Forgotten
 artist: Enthauptung
 categories:
 - Cassette
-date: '2021-09-08T05:07:39'
+date: '2021-11-25T06:08:26'
 draft: false
 images:
 - /images/covers/enthauptung-paths_forgotten.png
@@ -14,4 +14,4 @@ title: Enthauptung - Paths Forgotten
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=17363&sort=pd.name&order=ASC) for $8.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=17363&sort=pd.name&order=ASC) for $6.40

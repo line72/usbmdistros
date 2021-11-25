@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00
+actualPrice: $9.60
 album: White Mountain Oath
 artist: Vanyar
 categories:
 - Cassette
-date: '2021-09-24T05:08:45'
+date: '2021-11-25T06:08:31'
 draft: false
 images:
 - /images/covers/vanyar-white_mountain_oath.jpg
@@ -14,4 +14,4 @@ title: Vanyar - White Mountain Oath
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=17849&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=17849&sort=pd.name&order=ASC) for $9.60

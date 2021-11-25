@@ -1,11 +1,11 @@
 ---
-actualPrice: $7.50
+actualPrice: $5.00
 album: "\u041F\u0440\u0435\u0432\u043E\u0437\u043C\u043E\u0433\u0430\u044F \u0412\u0430\
   \u0432\u0438\u043B\u043E\u043D (Overcoming Babel)"
 artist: Lutomysl
 categories:
 - CD
-date: '2021-06-29T15:06:27'
+date: '2021-11-25T06:08:14'
 draft: false
 images:
 - "/images/covers/lutomysl-\u043F\u0440\u0435\u0432\u043E\u0437\u043C\u043E\u0433\u0430\
@@ -18,4 +18,4 @@ title: "Lutomysl - \u041F\u0440\u0435\u0432\u043E\u0437\u043C\u043E\u0433\u0430\
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=5220&sort=pd.name&order=ASC) for $7.50
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=5220&sort=pd.name&order=ASC) for $5.00

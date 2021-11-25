@@ -1,10 +1,10 @@
 ---
-actualPrice: $10.00
+actualPrice: $7.00
 album: The End Upon Us / Ceilanic Exhumations
 artist: Infernal Curse
 categories:
 - CD
-date: '2021-06-26T15:23:09'
+date: '2021-11-25T06:08:12'
 draft: false
 images:
 - /images/covers/infernal_curse-the_end_upon_us_-_ceilanic_exhumations.jpg
@@ -14,4 +14,4 @@ title: Infernal Curse - The End Upon Us / Ceilanic Exhumations
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=15816&sort=pd.name&order=ASC) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=15816&sort=pd.name&order=ASC) for $7.00

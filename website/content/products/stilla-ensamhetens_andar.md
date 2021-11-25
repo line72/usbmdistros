@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00
+actualPrice: $9.60
 album: Ensamhetens Andar
 artist: Stilla
 categories:
 - CD
-date: '2021-09-18T05:07:30'
+date: '2021-11-25T06:08:19'
 draft: false
 images:
 - /images/covers/stilla-ensamhetens_andar.jpg
@@ -14,4 +14,4 @@ title: Stilla - Ensamhetens Andar
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=17735&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=17735&sort=pd.name&order=ASC) for $9.60

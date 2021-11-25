@@ -1,10 +1,10 @@
 ---
-actualPrice: $11.25
+actualPrice: $7.50
 album: Opus Serpens
 artist: Ashencult / Mephorash
 categories:
 - Vinyl
-date: '2021-06-29T15:05:52'
+date: '2021-11-25T06:07:42'
 draft: false
 images:
 - /images/covers/ashencult_-_mephorash-opus_serpens.jpg
@@ -14,4 +14,4 @@ title: Ashencult / Mephorash - Opus Serpens
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=1640&sort=pd.name&order=ASC) for $11.25
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=1640&sort=pd.name&order=ASC) for $7.50

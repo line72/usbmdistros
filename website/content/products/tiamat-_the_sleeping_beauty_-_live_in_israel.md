@@ -1,10 +1,10 @@
 ---
-actualPrice: $25.00
+actualPrice: $17.50
 album: ' The sleeping beauty - Live in Israel'
 artist: Tiamat
 categories:
 - Vinyl
-date: '2021-06-26T15:22:56'
+date: '2021-11-25T06:07:58'
 draft: false
 images:
 - /images/covers/tiamat-_the_sleeping_beauty_-_live_in_israel.jpg
@@ -14,4 +14,4 @@ title: Tiamat -  The sleeping beauty - Live in Israel
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=10315&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=10315&sort=pd.name&order=ASC) for $17.50

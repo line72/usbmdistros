@@ -1,10 +1,10 @@
 ---
-actualPrice: $60.00 - 75.00
+actualPrice: $52.50 - 60.00
 album: Sins of Sodom
 artist: Sodom
 categories:
 - Vinyl
-date: '2021-06-26T15:22:55'
+date: '2021-11-25T06:07:56'
 draft: false
 images:
 - /images/covers/sodom-sins_of_sodom.jpg
@@ -14,5 +14,5 @@ title: Sodom - Sins of Sodom
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=14020&sort=pd.name&order=ASC) for $75.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=14020&sort=pd.name&order=ASC) for $52.50
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=14021&sort=pd.name&order=ASC) for $60.00

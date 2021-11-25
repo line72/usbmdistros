@@ -1,10 +1,10 @@
 ---
-actualPrice: $9.00 - 10.00
+actualPrice: $7.00 - 9.00
 album: "Gr\xF3galdr"
 artist: "Gr\xF3galdr"
 categories:
 - CD
-date: '2021-09-14T05:00:11'
+date: '2021-11-25T06:08:11'
 draft: false
 images:
 - "/images/covers/gr\xF3galdr-gr\xF3galdr.jpg"
@@ -14,5 +14,5 @@ title: "Gr\xF3galdr - Gr\xF3galdr"
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=11241&sort=pd.name&order=ASC) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=11241&sort=pd.name&order=ASC) for $7.00
 * Purchase from [Sto'Vo'Kor Records](https://stovokor-records.com/products/grogaldr-grogaldr) for $9.00

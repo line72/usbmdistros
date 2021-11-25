@@ -1,10 +1,10 @@
 ---
-actualPrice: $6.00
+actualPrice: $4.00
 album: 'Doomsday: The Death Rides'
 artist: Hadez
 categories:
 - CD
-date: '2021-06-29T15:06:24'
+date: '2021-11-25T06:08:11'
 draft: false
 images:
 - /images/covers/hadez-doomsday:_the_death_rides.jpg
@@ -14,5 +14,5 @@ title: 'Hadez - Doomsday: The Death Rides'
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=1289&sort=pd.name&order=ASC) for $6.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=1614&sort=pd.name&order=ASC) for $6.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=1289&sort=pd.name&order=ASC) for $4.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=1614&sort=pd.name&order=ASC) for $4.00

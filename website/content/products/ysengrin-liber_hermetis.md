@@ -1,10 +1,10 @@
 ---
-actualPrice: $5.00 - 20.00
+actualPrice: $3.50 - 15.00
 album: Liber Hermetis
 artist: Ysengrin
 categories:
 - Vinyl
-date: '2021-10-31T11:39:52'
+date: '2021-11-25T06:08:00'
 draft: false
 images:
 - /images/covers/ysengrin-liber_hermetis.jpg
@@ -15,5 +15,5 @@ title: Ysengrin - Liber Hermetis
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=14985&sort=pd.name&order=ASC) for $15.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=14984&sort=pd.name&order=ASC) for $20.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=18468&sort=pd.name&order=ASC) for $5.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=14984&sort=pd.name&order=ASC) for $14.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=18468&sort=pd.name&order=ASC) for $3.50

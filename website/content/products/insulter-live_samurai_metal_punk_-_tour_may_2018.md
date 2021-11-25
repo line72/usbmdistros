@@ -1,10 +1,10 @@
 ---
-actualPrice: $5.25
+actualPrice: $4.90
 album: Live Samurai Metal Punk - Tour May 2018
 artist: Insulter
 categories:
 - Cassette
-date: '2021-06-29T15:06:41'
+date: '2021-11-25T06:08:27'
 draft: false
 images:
 - /images/covers/insulter-live_samurai_metal_punk_-_tour_may_2018.png
@@ -14,4 +14,4 @@ title: Insulter - Live Samurai Metal Punk - Tour May 2018
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=6675&sort=pd.name&order=ASC) for $5.25
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=6675&sort=pd.name&order=ASC) for $4.90

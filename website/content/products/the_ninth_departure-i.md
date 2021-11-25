@@ -1,10 +1,10 @@
 ---
-actualPrice: $10.00
+actualPrice: $7.00
 album: I
 artist: The Ninth Departure
 categories:
 - Cassette
-date: '2021-06-26T15:23:24'
+date: '2021-11-25T06:08:30'
 draft: false
 images:
 - /images/covers/the_ninth_departure-i.jpg
@@ -14,4 +14,4 @@ title: The Ninth Departure - I
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=13654&sort=pd.name&order=ASC) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=13654&sort=pd.name&order=ASC) for $7.00

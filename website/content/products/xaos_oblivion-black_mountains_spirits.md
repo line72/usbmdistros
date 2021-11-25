@@ -1,10 +1,10 @@
 ---
-actualPrice: $4.50
+actualPrice: $3.00
 album: Black Mountains Spirits
 artist: Xaos Oblivion
 categories:
 - CD
-date: '2021-06-29T15:06:37'
+date: '2021-11-25T06:08:23'
 draft: false
 images:
 - /images/covers/xaos_oblivion-black_mountains_spirits.jpg
@@ -14,4 +14,4 @@ title: Xaos Oblivion - Black Mountains Spirits
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=1005&sort=pd.name&order=ASC) for $4.50
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=1005&sort=pd.name&order=ASC) for $3.00

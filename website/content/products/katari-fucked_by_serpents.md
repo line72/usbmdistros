@@ -1,10 +1,10 @@
 ---
-actualPrice: $8.00
+actualPrice: $5.60
 album: Fucked By Serpents
 artist: Katari
 categories:
 - Cassette
-date: '2021-06-26T15:23:21'
+date: '2021-11-25T06:08:27'
 draft: false
 images:
 - /images/covers/katari-fucked_by_serpents.png
@@ -14,4 +14,4 @@ title: Katari - Fucked By Serpents
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=15186&sort=pd.name&order=ASC) for $8.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=15186&sort=pd.name&order=ASC) for $5.60

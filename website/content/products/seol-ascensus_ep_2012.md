@@ -1,10 +1,10 @@
 ---
-actualPrice: $4.50
+actualPrice: $3.00
 album: Ascensus EP 2012
 artist: Seol
 categories:
 - CD
-date: '2021-06-29T15:06:33'
+date: '2021-11-25T06:08:19'
 draft: false
 images:
 - /images/covers/seol-ascensus_ep_2012.png
@@ -14,4 +14,4 @@ title: Seol - Ascensus EP 2012
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=4719&sort=pd.name&order=ASC) for $4.50
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=4719&sort=pd.name&order=ASC) for $3.00

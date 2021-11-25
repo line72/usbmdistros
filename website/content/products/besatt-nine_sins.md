@@ -1,10 +1,10 @@
 ---
-actualPrice: $10.00
+actualPrice: $8.00
 album: Nine Sins
 artist: Besatt
 categories:
 - CD
-date: '2021-11-16T06:07:59'
+date: '2021-11-25T06:08:06'
 draft: false
 images:
 - /images/covers/besatt-nine_sins.png
@@ -14,4 +14,4 @@ title: Besatt - Nine Sins
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=19158&sort=pd.name&order=ASC) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=19158&sort=pd.name&order=ASC) for $8.00

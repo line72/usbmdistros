@@ -1,10 +1,10 @@
 ---
-actualPrice: $15.00
+actualPrice: $10.50
 album: The Burning Warpath to Hell
 artist: Nifelheim
 categories:
 - Vinyl
-date: '2021-06-26T15:23:00'
+date: '2021-11-25T06:08:03'
 draft: false
 images:
 - /images/covers/nifelheim-the_burning_warpath_to_hell.jpg
@@ -14,4 +14,4 @@ title: Nifelheim - The Burning Warpath to Hell
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=9522&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=9522&sort=pd.name&order=ASC) for $10.50

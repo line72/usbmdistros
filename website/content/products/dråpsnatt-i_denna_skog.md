@@ -1,11 +1,11 @@
 ---
-actualPrice: $9.00 - 16.50
+actualPrice: $9.00 - 15.40
 album: I Denna Skog
 artist: "Dr\xE5psnatt"
 categories:
 - Vinyl
 - CD
-date: '2021-06-29T15:06:21'
+date: '2021-11-25T06:07:46'
 draft: false
 images:
 - "/images/covers/dr\xE5psnatt-i_denna_skog.jpg"
@@ -15,6 +15,6 @@ title: "Dr\xE5psnatt - I Denna Skog"
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=6596&sort=pd.name&order=ASC) for $16.50
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=6596&sort=pd.name&order=ASC) for $15.40
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=6862&sort=pd.name&order=ASC) for $9.00

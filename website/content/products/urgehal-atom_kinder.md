@@ -1,10 +1,10 @@
 ---
-actualPrice: $20.00
+actualPrice: $14.00
 album: Atom Kinder
 artist: Urgehal
 categories:
 - Vinyl
-date: '2021-08-10T06:51:27'
+date: '2021-11-25T06:07:58'
 draft: false
 images:
 - /images/covers/urgehal-atom_kinder.jpg
@@ -14,4 +14,4 @@ title: Urgehal - Atom Kinder
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=13627&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=13627&sort=pd.name&order=ASC) for $14.00

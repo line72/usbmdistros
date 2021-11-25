@@ -1,10 +1,10 @@
 ---
-actualPrice: $6.00
+actualPrice: $5.60
 album: Atmosphere
 artist: Kladovest
 categories:
 - Cassette
-date: '2021-06-29T15:06:41'
+date: '2021-11-25T06:08:27'
 draft: false
 images:
 - /images/covers/kladovest-atmosphere.png
@@ -14,4 +14,4 @@ title: Kladovest - Atmosphere
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=8724&sort=pd.name&order=ASC) for $6.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=8724&sort=pd.name&order=ASC) for $5.60

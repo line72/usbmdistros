@@ -1,10 +1,10 @@
 ---
-actualPrice: $7.50
+actualPrice: $5.00
 album: Sudamerican Worship To Sathanas
 artist: Nihil Domination
 categories:
 - CD
-date: '2021-06-29T15:06:30'
+date: '2021-11-25T06:08:16'
 draft: false
 images:
 - /images/covers/nihil_domination-sudamerican_worship_to_sathanas.jpg
@@ -14,4 +14,4 @@ title: Nihil Domination - Sudamerican Worship To Sathanas
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=4326&sort=pd.name&order=ASC) for $7.50
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=4326&sort=pd.name&order=ASC) for $5.00

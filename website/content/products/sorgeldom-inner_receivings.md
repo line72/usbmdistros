@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00
+actualPrice: $8.40
 album: Inner Receivings
 artist: Sorgeldom
 categories:
 - CD
-date: '2021-06-26T15:23:15'
+date: '2021-11-25T06:08:19'
 draft: false
 images:
 - /images/covers/sorgeldom-inner_receivings.png
@@ -14,4 +14,4 @@ title: Sorgeldom - Inner Receivings
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=15736&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=15736&sort=pd.name&order=ASC) for $8.40

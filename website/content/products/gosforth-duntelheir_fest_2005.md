@@ -1,10 +1,10 @@
 ---
-actualPrice: $7.00
+actualPrice: $4.90
 album: Duntelheir Fest 2005
 artist: Gosforth
 categories:
 - Cassette
-date: '2021-06-26T15:23:20'
+date: '2021-11-25T06:08:26'
 draft: false
 images:
 - /images/covers/gosforth-duntelheir_fest_2005.png
@@ -14,4 +14,4 @@ title: Gosforth - Duntelheir Fest 2005
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=11356&sort=pd.name&order=ASC) for $7.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=11356&sort=pd.name&order=ASC) for $4.90

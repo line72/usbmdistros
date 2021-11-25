@@ -1,10 +1,10 @@
 ---
-actualPrice: $5.25
+actualPrice: $3.50
 album: Contortia
 artist: Sythe
 categories:
 - Cassette
-date: '2021-06-29T15:06:44'
+date: '2021-11-25T06:08:30'
 draft: false
 images:
 - /images/covers/sythe-contortia.png
@@ -14,4 +14,4 @@ title: Sythe - Contortia
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=5188&sort=pd.name&order=ASC) for $5.25
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=5188&sort=pd.name&order=ASC) for $3.50

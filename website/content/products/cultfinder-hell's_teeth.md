@@ -1,10 +1,10 @@
 ---
-actualPrice: $7.50
+actualPrice: $5.00
 album: Hell's Teeth
 artist: Cultfinder
 categories:
 - CD
-date: '2021-06-29T15:06:19'
+date: '2021-11-25T06:08:08'
 draft: false
 images:
 - /images/covers/cultfinder-hell's_teeth.jpg
@@ -14,4 +14,4 @@ title: Cultfinder - Hell's Teeth
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=3059&sort=pd.name&order=ASC) for $7.50
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=3059&sort=pd.name&order=ASC) for $5.00

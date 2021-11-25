@@ -1,12 +1,12 @@
 ---
-actualPrice: $6.00 - 25.00
+actualPrice: $6.00 - 17.50
 album: Execration Of Cruel Bestiality
 artist: Proclamation
 categories:
 - Vinyl
 - Cassette
 - CD
-date: '2021-11-20T06:01:47'
+date: '2021-11-25T06:08:17'
 draft: false
 images:
 - /images/covers/proclamation-execration_of_cruel_bestiality.jpg
@@ -16,9 +16,9 @@ title: Proclamation - Execration Of Cruel Bestiality
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=11915&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=11915&sort=pd.name&order=ASC) for $17.50
 ## Cassette
 * Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/31094950-proclamation-execration-of-cruel-bestiality-cd) for $8.00
 * Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/34143352-proclamation-execration-of-cruel-bestiality) for $6.00
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=10210&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=10210&sort=pd.name&order=ASC) for $8.40

@@ -1,10 +1,10 @@
 ---
-actualPrice: $4.50
+actualPrice: $3.00
 album: Sintemptation
 artist: Kosa
 categories:
 - CD
-date: '2021-06-29T15:06:26'
+date: '2021-11-25T06:08:13'
 draft: false
 images:
 - /images/covers/kosa-sintemptation.jpg
@@ -14,4 +14,4 @@ title: Kosa - Sintemptation
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=1654&sort=pd.name&order=ASC) for $4.50
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=1654&sort=pd.name&order=ASC) for $3.00

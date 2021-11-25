@@ -1,10 +1,10 @@
 ---
-actualPrice: $25.00
+actualPrice: $17.50
 album: Nocturnal Abstractions
 artist: Nachtgeist
 categories:
 - Vinyl
-date: '2021-06-26T15:22:52'
+date: '2021-11-25T06:07:53'
 draft: false
 images:
 - /images/covers/nachtgeist-nocturnal_abstractions.jpg
@@ -14,4 +14,4 @@ title: Nachtgeist - Nocturnal Abstractions
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=15850&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=15850&sort=pd.name&order=ASC) for $17.50

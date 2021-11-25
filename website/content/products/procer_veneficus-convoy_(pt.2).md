@@ -1,10 +1,10 @@
 ---
-actualPrice: $3.75
+actualPrice: $2.50
 album: Convoy (Pt.2)
 artist: Procer Veneficus
 categories:
 - CD
-date: '2021-06-29T15:06:31'
+date: '2021-11-25T06:08:17'
 draft: false
 images:
 - /images/covers/procer_veneficus-convoy_(pt.2).jpg
@@ -14,4 +14,4 @@ title: Procer Veneficus - Convoy (Pt.2)
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=1308&sort=pd.name&order=ASC) for $3.75
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=1308&sort=pd.name&order=ASC) for $2.50

@@ -1,11 +1,11 @@
 ---
-actualPrice: $9.00 - 10.00
+actualPrice: $7.20 - 10.00
 album: Morgulduin
 artist: Andracca
 categories:
 - Cassette
 - CD
-date: '2021-10-02T05:08:32'
+date: '2021-11-25T06:08:24'
 draft: false
 images:
 - /images/covers/andracca-morgulduin.jpg
@@ -15,6 +15,6 @@ title: Andracca - Morgulduin
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=18020&sort=pd.name&order=ASC) for $9.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=18020&sort=pd.name&order=ASC) for $7.20
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=18005&sort=pd.name&order=ASC) for $10.00

@@ -1,10 +1,10 @@
 ---
-actualPrice: $22.00
+actualPrice: $15.40
 album: Death Is The Beginning
 artist: Gloam
 categories:
 - Vinyl
-date: '2021-06-26T15:22:47'
+date: '2021-11-25T06:07:48'
 draft: false
 images:
 - /images/covers/gloam-death_is_the_beginning.jpg
@@ -14,4 +14,4 @@ title: Gloam - Death Is The Beginning
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=10009&sort=pd.name&order=ASC) for $22.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=10009&sort=pd.name&order=ASC) for $15.40

@@ -1,12 +1,12 @@
 ---
-actualPrice: $10.00 - 27.00
+actualPrice: $7.00 - 27.00
 album: Forlorn And Forsaken
 artist: Kurnugia
 categories:
 - Vinyl
 - Cassette
 - CD
-date: '2021-07-11T20:52:09'
+date: '2021-11-25T06:08:13'
 draft: false
 images:
 - /images/covers/kurnugia-forlorn_and_forsaken.jpg
@@ -20,4 +20,4 @@ title: Kurnugia - Forlorn And Forsaken
 ## Cassette
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/kurnugia-forlorn-and-forsaken-cassette) for $15.00 :: Cassette Tape 1st press
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=13991&sort=pd.name&order=ASC) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=13991&sort=pd.name&order=ASC) for $7.00

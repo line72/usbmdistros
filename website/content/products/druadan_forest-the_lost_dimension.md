@@ -1,10 +1,10 @@
 ---
-actualPrice: $10.00
+actualPrice: $8.00
 album: The Lost Dimension
 artist: Druadan Forest
 categories:
 - CD
-date: '2021-10-05T05:07:34'
+date: '2021-11-25T06:08:09'
 draft: false
 images:
 - /images/covers/druadan_forest-the_lost_dimension.jpg
@@ -14,4 +14,4 @@ title: Druadan Forest - The Lost Dimension
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=18043&sort=pd.name&order=ASC) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=18043&sort=pd.name&order=ASC) for $8.00

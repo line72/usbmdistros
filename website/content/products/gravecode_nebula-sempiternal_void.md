@@ -1,12 +1,12 @@
 ---
-actualPrice: $4.50 - 16.50
+actualPrice: $3.00 - 11.00
 album: Sempiternal Void
 artist: Gravecode Nebula
 categories:
 - Vinyl
 - Cassette
 - CD
-date: '2021-06-29T15:06:40'
+date: '2021-11-25T06:08:26'
 draft: false
 images:
 - /images/covers/gravecode_nebula-sempiternal_void.jpg
@@ -16,8 +16,8 @@ title: Gravecode Nebula - Sempiternal Void
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=1925&sort=pd.name&order=ASC) for $16.50
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=1925&sort=pd.name&order=ASC) for $11.00
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=1059&sort=pd.name&order=ASC) for $4.50
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=1059&sort=pd.name&order=ASC) for $3.00
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=1922&sort=pd.name&order=ASC) for $5.25
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=1922&sort=pd.name&order=ASC) for $3.50

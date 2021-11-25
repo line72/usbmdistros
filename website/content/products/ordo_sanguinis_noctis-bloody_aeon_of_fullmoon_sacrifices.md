@@ -1,11 +1,11 @@
 ---
-actualPrice: $7.50 - 8.00
+actualPrice: $5.60 - 7.50
 album: Bloody Aeon of Fullmoon Sacrifices
 artist: Ordo Sanguinis Noctis
 categories:
 - Vinyl
 - Cassette
-date: '2021-06-26T15:23:22'
+date: '2021-11-25T06:08:28'
 draft: false
 images:
 - /images/covers/ordo_sanguinis_noctis-bloody_aeon_of_fullmoon_sacrifices.jpg
@@ -17,4 +17,4 @@ title: Ordo Sanguinis Noctis - Bloody Aeon of Fullmoon Sacrifices
 ## Vinyl
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/ordo-sanguinis-noctis-bloody-aeon-of-fullmoon-sacrifices-7) for $7.50
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=10558&sort=pd.name&order=ASC) for $8.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=10558&sort=pd.name&order=ASC) for $5.60

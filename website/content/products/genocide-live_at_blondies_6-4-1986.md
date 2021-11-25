@@ -1,10 +1,10 @@
 ---
-actualPrice: $75.00
+actualPrice: $52.50
 album: Live at Blondies 6/4/1986
 artist: Genocide
 categories:
 - Vinyl
-date: '2021-06-26T15:22:47'
+date: '2021-11-25T06:07:48'
 draft: false
 images:
 - /images/covers/genocide-live_at_blondies_6-4-1986.jpg
@@ -14,4 +14,4 @@ title: Genocide - Live at Blondies 6/4/1986
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=13144&sort=pd.name&order=ASC) for $75.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=13144&sort=pd.name&order=ASC) for $52.50

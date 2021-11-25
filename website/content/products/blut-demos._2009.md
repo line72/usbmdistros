@@ -1,10 +1,10 @@
 ---
-actualPrice: $10.00
+actualPrice: $7.00
 album: Demos. 2009
 artist: Blut
 categories:
 - Cassette
-date: '2021-06-26T15:23:19'
+date: '2021-11-25T06:08:25'
 draft: false
 images:
 - /images/covers/blut-demos._2009.png
@@ -14,4 +14,4 @@ title: Blut - Demos. 2009
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=10197&sort=pd.name&order=ASC) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=10197&sort=pd.name&order=ASC) for $7.00

@@ -1,10 +1,10 @@
 ---
-actualPrice: $6.00
+actualPrice: $4.00
 album: Malekhamoves
 artist: Malekhamoves
 categories:
 - Vinyl
-date: '2021-06-29T15:06:13'
+date: '2021-11-25T06:08:02'
 draft: false
 images:
 - /images/covers/malekhamoves-malekhamoves.jpg
@@ -14,4 +14,4 @@ title: Malekhamoves - Malekhamoves
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=5458&sort=pd.name&order=ASC) for $6.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=5458&sort=pd.name&order=ASC) for $4.00

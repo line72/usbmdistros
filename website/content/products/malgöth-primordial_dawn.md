@@ -5,7 +5,7 @@ artist: "Malg\xF6th"
 categories:
 - Vinyl
 - Cassette
-date: '2021-11-16T14:07:10'
+date: '2021-11-25T06:07:51'
 draft: false
 images:
 - "/images/covers/malg\xF6th-primordial_dawn.jpg"
@@ -16,6 +16,6 @@ title: "Malg\xF6th - Primordial Dawn"
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=16465&sort=pd.name&order=ASC) for $20.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=16485&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=16485&sort=pd.name&order=ASC) for $14.00
 ## Cassette
 * Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/33792748-malgoth-primordial-dawn) for $8.00
