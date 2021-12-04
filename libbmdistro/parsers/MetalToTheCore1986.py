@@ -61,7 +61,9 @@ class MetalToTheCore1986(Parser):
 
         known_types = [
             re.compile(r'^(.*?)\s+CD\s*$'),
+            re.compile(r'^(.*?)\s+CD\s+\[.*\]\s*$'),
             re.compile(r'^(.*?)\s+CASSETTE\s*$'),
+            re.compile(r'^(.*?)\s+CASSETTE\s+\[.*\]\s*$'),
             re.compile(r'^(.*?)\s+d+"\s+EP\s*$'),
             re.compile(r'^(.*?)\s+\d+″\s+EP\s*$'),
             re.compile(r'^(.*?)\s+\d+″\s+GATEFOLD\s+DOUBLE\s+LP\s+[A-Z]+\s*$'),
