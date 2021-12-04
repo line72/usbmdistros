@@ -1,11 +1,11 @@
 ---
-actualPrice: $9.60 - 27.00
+actualPrice: $12.00 - 27.00
 album: Battles In The North
 artist: Immortal
 categories:
 - Vinyl
 - CD
-date: '2021-11-25T06:08:12'
+date: '2021-11-30T13:35:40'
 draft: false
 images:
 - /images/covers/immortal-battles_in_the_north.png
@@ -19,4 +19,4 @@ title: Immortal - Battles In The North
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/immortal-battles-in-the-north) for $27.00 :: White 2021 press vinyl
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=16644&sort=pd.name&order=ASC) for $12.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=18386&sort=pd.name&order=ASC) for $9.60
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=18386&sort=pd.name&order=ASC) for $12.00

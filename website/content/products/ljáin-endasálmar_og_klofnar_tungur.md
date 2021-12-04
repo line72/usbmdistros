@@ -1,10 +1,10 @@
 ---
-actualPrice: $7.00
+actualPrice: $10.00
 album: "Endas\xE1lmar og klofnar tungur"
 artist: "Lj\xE1in"
 categories:
 - CD
-date: '2021-11-25T06:08:14'
+date: '2021-11-30T13:35:42'
 draft: false
 images:
 - "/images/covers/lj\xE1in-endas\xE1lmar_og_klofnar_tungur.jpg"
@@ -14,4 +14,4 @@ title: "Lj\xE1in - Endas\xE1lmar og klofnar tungur"
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=8973&sort=pd.name&order=ASC) for $7.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=8973&sort=pd.name&order=ASC) for $10.00

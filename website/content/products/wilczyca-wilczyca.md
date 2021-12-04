@@ -1,10 +1,10 @@
 ---
-actualPrice: $7.00
+actualPrice: $10.00
 album: Wilczyca
 artist: Wilczyca
 categories:
 - Cassette
-date: '2021-11-25T06:08:31'
+date: '2021-11-30T13:35:58'
 draft: false
 images:
 - /images/covers/wilczyca-wilczyca.png
@@ -14,4 +14,4 @@ title: Wilczyca - Wilczyca
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=14804&sort=pd.name&order=ASC) for $7.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=14804&sort=pd.name&order=ASC) for $10.00

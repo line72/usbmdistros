@@ -1,11 +1,11 @@
 ---
-actualPrice: $7.00 - 8.40
+actualPrice: $10.00 - 12.00
 album: The Divine Punishment
 artist: Antediluvian
 categories:
 - Cassette
 - CD
-date: '2021-11-25T06:08:24'
+date: '2021-11-30T13:35:51'
 draft: false
 images:
 - /images/covers/antediluvian-the_divine_punishment.jpg
@@ -15,6 +15,6 @@ title: Antediluvian - The Divine Punishment
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=17644&sort=pd.name&order=ASC) for $7.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=17644&sort=pd.name&order=ASC) for $10.00
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=16920&sort=pd.name&order=ASC) for $8.40
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=16920&sort=pd.name&order=ASC) for $12.00

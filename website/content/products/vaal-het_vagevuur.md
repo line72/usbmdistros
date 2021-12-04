@@ -1,10 +1,10 @@
 ---
-actualPrice: $17.50
+actualPrice: $25.00
 album: Het Vagevuur
 artist: Vaal
 categories:
 - Vinyl
-date: '2021-11-25T06:07:58'
+date: '2021-11-30T13:35:28'
 draft: false
 images:
 - /images/covers/vaal-het_vagevuur.jpg
@@ -14,4 +14,4 @@ title: Vaal - Het Vagevuur
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=16286&sort=pd.name&order=ASC) for $17.50
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=16286&sort=pd.name&order=ASC) for $25.00

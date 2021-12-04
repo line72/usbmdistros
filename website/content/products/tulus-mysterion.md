@@ -1,10 +1,10 @@
 ---
-actualPrice: $17.50
+actualPrice: $25.00
 album: Mysterion
 artist: Tulus
 categories:
 - Vinyl
-date: '2021-11-25T06:07:58'
+date: '2021-11-30T13:35:28'
 draft: false
 images:
 - /images/covers/tulus-mysterion.jpg
@@ -14,4 +14,4 @@ title: Tulus - Mysterion
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=9074&sort=pd.name&order=ASC) for $17.50
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=9074&sort=pd.name&order=ASC) for $25.00

@@ -1,10 +1,10 @@
 ---
-actualPrice: $2.50
+actualPrice: $5.00
 album: "Zur sp\xE4ten Stunde | Zeitr\xE4ume"
 artist: Total Negation
 categories:
 - Cassette
-date: '2021-11-25T06:08:30'
+date: '2021-11-30T13:35:57'
 draft: false
 images:
 - "/images/covers/total_negation-zur_sp\xE4ten_stunde_|_zeitr\xE4ume.png"
@@ -14,4 +14,4 @@ title: "Total Negation - Zur sp\xE4ten Stunde | Zeitr\xE4ume"
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=950&sort=pd.name&order=ASC) for $2.50
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=950&sort=pd.name&order=ASC) for $5.00

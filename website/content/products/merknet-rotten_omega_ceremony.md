@@ -1,10 +1,10 @@
 ---
-actualPrice: $5.00
+actualPrice: $10.00
 album: Rotten Omega Ceremony
 artist: Merknet
 categories:
 - CD
-date: '2021-11-25T06:08:14'
+date: '2021-11-30T13:35:42'
 draft: false
 images:
 - /images/covers/merknet-rotten_omega_ceremony.jpg
@@ -14,4 +14,4 @@ title: Merknet - Rotten Omega Ceremony
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=720&sort=pd.name&order=ASC) for $5.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=720&sort=pd.name&order=ASC) for $10.00

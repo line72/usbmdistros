@@ -1,10 +1,10 @@
 ---
-actualPrice: $4.20
+actualPrice: $6.00
 album: Forest of Blitzkrieg
 artist: Winter coffin
 categories:
 - Vinyl
-date: '2021-11-25T06:08:04'
+date: '2021-11-30T13:35:33'
 draft: false
 images:
 - /images/covers/winter_coffin-forest_of_blitzkrieg.jpg
@@ -14,4 +14,4 @@ title: Winter coffin - Forest of Blitzkrieg
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=14974&sort=pd.name&order=ASC) for $4.20
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=14974&sort=pd.name&order=ASC) for $6.00

@@ -1,11 +1,11 @@
 ---
-actualPrice: $7.00 - 19.60
+actualPrice: $10.00 - 28.00
 album: The Underworld
 artist: Cemetery Lights
 categories:
 - Vinyl
 - CD
-date: '2021-11-25T06:08:07'
+date: '2021-11-30T13:35:36'
 draft: false
 images:
 - /images/covers/cemetery_lights-the_underworld.jpg
@@ -15,8 +15,8 @@ title: Cemetery Lights - The Underworld
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=11409&sort=pd.name&order=ASC) for $19.60
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=11409&sort=pd.name&order=ASC) for $28.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=11410&sort=pd.name&order=ASC) for $17.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=17963&sort=pd.name&order=ASC) for $11.90
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=17963&sort=pd.name&order=ASC) for $17.00
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=8850&sort=pd.name&order=ASC) for $7.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=8850&sort=pd.name&order=ASC) for $10.00

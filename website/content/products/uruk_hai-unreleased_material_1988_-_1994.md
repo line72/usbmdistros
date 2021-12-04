@@ -1,10 +1,10 @@
 ---
-actualPrice: $24.00
+actualPrice: $24.00 - 30.00
 album: Unreleased Material 1988 - 1994
 artist: URUK HAI
 categories:
 - Vinyl
-date: '2021-11-25T06:07:58'
+date: '2021-11-30T13:35:28'
 draft: false
 images:
 - /images/covers/uruk_hai-unreleased_material_1988_-_1994.jpg
@@ -15,3 +15,4 @@ title: URUK HAI - Unreleased Material 1988 - 1994
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=19416&sort=pd.name&order=ASC) for $24.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=19431&sort=pd.name&order=ASC) for $30.00

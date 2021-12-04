@@ -1,10 +1,10 @@
 ---
-actualPrice: $3.50
+actualPrice: $7.00
 album: Eternal Nuklear Violation
 artist: Acral Necrosis
 categories:
 - CD
-date: '2021-11-25T06:08:04'
+date: '2021-11-30T13:35:33'
 draft: false
 images:
 - /images/covers/acral_necrosis-eternal_nuklear_violation.jpg
@@ -14,4 +14,4 @@ title: Acral Necrosis - Eternal Nuklear Violation
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=3266&sort=pd.name&order=ASC) for $3.50
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=3266&sort=pd.name&order=ASC) for $7.00

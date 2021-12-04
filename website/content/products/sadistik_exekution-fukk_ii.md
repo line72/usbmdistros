@@ -4,7 +4,7 @@ album: Fukk II
 artist: Sadistik Exekution
 categories:
 - Vinyl
-date: '2021-11-25T06:07:55'
+date: '2021-11-30T13:35:26'
 draft: false
 images:
 - /images/covers/sadistik_exekution-fukk_ii.jpg
@@ -16,4 +16,4 @@ title: Sadistik Exekution - Fukk II
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=12593&sort=pd.name&order=ASC) for $20.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=18369&sort=pd.name&order=ASC) for $25.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=19360&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=19360&sort=pd.name&order=ASC) for $25.00

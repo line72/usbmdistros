@@ -1,10 +1,10 @@
 ---
-actualPrice: $6.40
+actualPrice: $8.00
 album: Tysk Svart Metall!
 artist: Thyrgrim
 categories:
 - Cassette
-date: '2021-11-25T06:08:30'
+date: '2021-11-30T13:35:57'
 draft: false
 images:
 - /images/covers/thyrgrim-tysk_svart_metall!.jpg
@@ -14,4 +14,4 @@ title: Thyrgrim - Tysk Svart Metall!
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=17362&sort=pd.name&order=ASC) for $6.40
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=17362&sort=pd.name&order=ASC) for $8.00

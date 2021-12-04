@@ -4,7 +4,7 @@ album: Of Celtic Blood & Satanic Pride
 artist: Drowning The Light
 categories:
 - CD
-date: '2021-09-12T05:00:31'
+date: '2021-11-29T20:11:18'
 draft: false
 images:
 - /images/covers/drowning_the_light-of_celtic_blood_&_satanic_pride.jpg

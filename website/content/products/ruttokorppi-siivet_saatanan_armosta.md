@@ -1,10 +1,10 @@
 ---
-actualPrice: $2.50
+actualPrice: $5.00
 album: Siivet Saatanan Armosta
 artist: Ruttokorppi
 categories:
 - Cassette
-date: '2021-11-25T06:08:29'
+date: '2021-11-30T13:35:56'
 draft: false
 images:
 - /images/covers/ruttokorppi-siivet_saatanan_armosta.jpg
@@ -14,4 +14,4 @@ title: Ruttokorppi - Siivet Saatanan Armosta
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=1123&sort=pd.name&order=ASC) for $2.50
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=1123&sort=pd.name&order=ASC) for $5.00

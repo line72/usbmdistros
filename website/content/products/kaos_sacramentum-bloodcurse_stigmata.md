@@ -1,10 +1,10 @@
 ---
-actualPrice: $5.00 - 8.40
+actualPrice: $10.00 - 12.00
 album: Bloodcurse Stigmata
 artist: Kaos Sacramentum
 categories:
 - CD
-date: '2021-11-25T06:08:13'
+date: '2021-11-30T13:35:41'
 draft: false
 images:
 - /images/covers/kaos_sacramentum-bloodcurse_stigmata.jpg
@@ -14,5 +14,5 @@ title: Kaos Sacramentum - Bloodcurse Stigmata
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=9917&sort=pd.name&order=ASC) for $8.40
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=4671&sort=pd.name&order=ASC) for $5.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=9917&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=4671&sort=pd.name&order=ASC) for $10.00

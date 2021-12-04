@@ -1,10 +1,10 @@
 ---
-actualPrice: $17.50
+actualPrice: $25.00
 album: A Fallen Unicorn
 artist: Nocternity
 categories:
 - Vinyl
-date: '2021-11-25T06:07:53'
+date: '2021-11-30T13:35:23'
 draft: false
 images:
 - /images/covers/nocternity-a_fallen_unicorn.jpg
@@ -14,4 +14,4 @@ title: Nocternity - A Fallen Unicorn
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=13800&sort=pd.name&order=ASC) for $17.50
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=13800&sort=pd.name&order=ASC) for $25.00

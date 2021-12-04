@@ -1,11 +1,11 @@
 ---
-actualPrice: $16.00 - 30.00
+actualPrice: $20.00 - 30.00
 album: Worshippers of the Grim Sepulchral Moon
 artist: Moonblood
 categories:
 - Vinyl
 - CD
-date: '2021-11-25T06:08:15'
+date: '2021-11-30T13:35:43'
 draft: false
 images:
 - /images/covers/moonblood-worshippers_of_the_grim_sepulchral_moon.jpg
@@ -19,4 +19,4 @@ title: Moonblood - Worshippers of the Grim Sepulchral Moon
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=17720&sort=pd.name&order=ASC) for $20.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=18174&sort=pd.name&order=ASC) for $20.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=18345&sort=pd.name&order=ASC) for $16.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=18345&sort=pd.name&order=ASC) for $20.00

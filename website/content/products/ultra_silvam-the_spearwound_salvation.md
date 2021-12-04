@@ -1,11 +1,11 @@
 ---
-actualPrice: $12.00 - 20.00
+actualPrice: $15.00 - 25.00
 album: The Spearwound Salvation
 artist: Ultra Silvam
 categories:
 - Vinyl
 - CD
-date: '2021-11-25T06:08:21'
+date: '2021-11-30T13:35:48'
 draft: false
 images:
 - /images/covers/ultra_silvam-the_spearwound_salvation.png
@@ -15,6 +15,6 @@ title: Ultra Silvam - The Spearwound Salvation
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=18536&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=18536&sort=pd.name&order=ASC) for $25.00
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=18522&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=18522&sort=pd.name&order=ASC) for $15.00

@@ -1,10 +1,10 @@
 ---
-actualPrice: $20.00
+actualPrice: $25.00
 album: Llyfr Coch Hergest
 artist: Oferwintran
 categories:
 - Vinyl
-date: '2021-11-25T06:07:53'
+date: '2021-11-30T13:35:24'
 draft: false
 images:
 - /images/covers/oferwintran-llyfr_coch_hergest.jpg
@@ -14,4 +14,4 @@ title: Oferwintran - Llyfr Coch Hergest
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=19346&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=19346&sort=pd.name&order=ASC) for $25.00

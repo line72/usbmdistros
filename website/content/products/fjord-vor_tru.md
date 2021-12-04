@@ -1,10 +1,10 @@
 ---
-actualPrice: $3.00
+actualPrice: $6.00
 album: Vor Tru
 artist: Fjord
 categories:
 - CD
-date: '2021-11-25T06:08:10'
+date: '2021-11-30T13:35:39'
 draft: false
 images:
 - /images/covers/fjord-vor_tru.jpg
@@ -14,4 +14,4 @@ title: Fjord - Vor Tru
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=1563&sort=pd.name&order=ASC) for $3.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=1563&sort=pd.name&order=ASC) for $6.00

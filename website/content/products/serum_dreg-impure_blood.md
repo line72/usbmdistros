@@ -1,10 +1,10 @@
 ---
-actualPrice: $11.90
+actualPrice: $17.00
 album: Impure Blood
 artist: Serum Dreg
 categories:
 - Vinyl
-date: '2021-11-25T06:07:56'
+date: '2021-11-30T13:35:26'
 draft: false
 images:
 - /images/covers/serum_dreg-impure_blood.jpg
@@ -14,4 +14,4 @@ title: Serum Dreg - Impure Blood
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=8098&sort=pd.name&order=ASC) for $11.90
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=8098&sort=pd.name&order=ASC) for $17.00

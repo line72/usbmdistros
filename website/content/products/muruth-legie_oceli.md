@@ -1,10 +1,10 @@
 ---
-actualPrice: $5.00
+actualPrice: $10.00
 album: Legie Oceli
 artist: Muruth
 categories:
 - CD
-date: '2021-11-25T06:08:15'
+date: '2021-11-30T13:35:43'
 draft: false
 images:
 - /images/covers/muruth-legie_oceli.jpg
@@ -14,4 +14,4 @@ title: Muruth - Legie Oceli
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=5225&sort=pd.name&order=ASC) for $5.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=5225&sort=pd.name&order=ASC) for $10.00

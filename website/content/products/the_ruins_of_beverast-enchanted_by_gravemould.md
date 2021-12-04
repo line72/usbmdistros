@@ -1,10 +1,10 @@
 ---
-actualPrice: $20.00 - 27.00
+actualPrice: $25.00 - 27.00
 album: Enchanted By Gravemould
 artist: The Ruins Of Beverast
 categories:
 - Vinyl
-date: '2021-11-25T06:07:57'
+date: '2021-11-30T13:35:27'
 draft: false
 images:
 - /images/covers/the_ruins_of_beverast-enchanted_by_gravemould.jpg
@@ -20,4 +20,4 @@ title: The Ruins Of Beverast - Enchanted By Gravemould
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=16767&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=18058&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=18418&sort=pd.name&order=ASC) for $25.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=19304&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=19304&sort=pd.name&order=ASC) for $25.00

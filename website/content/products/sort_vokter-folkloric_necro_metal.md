@@ -1,11 +1,11 @@
 ---
-actualPrice: $12.00 - 29.00
+actualPrice: $15.00 - 29.00
 album: Folkloric Necro Metal
 artist: Sort Vokter
 categories:
 - Vinyl
 - CD
-date: '2021-11-25T06:08:19'
+date: '2021-11-30T13:35:47'
 draft: false
 images:
 - /images/covers/sort_vokter-folkloric_necro_metal.jpg
@@ -20,6 +20,6 @@ title: Sort Vokter - Folkloric Necro Metal
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=17197&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=17766&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=18641&sort=pd.name&order=ASC) for $25.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=19311&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=19311&sort=pd.name&order=ASC) for $25.00
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=17201&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=17201&sort=pd.name&order=ASC) for $15.00

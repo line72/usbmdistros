@@ -1,10 +1,10 @@
 ---
-actualPrice: $9.60
+actualPrice: $12.00
 album: Eldhymner
 artist: "H\xE4xkapell"
 categories:
 - CD
-date: '2021-11-25T06:08:11'
+date: '2021-11-30T13:35:40'
 draft: false
 images:
 - "/images/covers/h\xE4xkapell-eldhymner.jpg"
@@ -14,4 +14,4 @@ title: "H\xE4xkapell - Eldhymner"
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=18757&sort=pd.name&order=ASC) for $9.60
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=18757&sort=pd.name&order=ASC) for $12.00

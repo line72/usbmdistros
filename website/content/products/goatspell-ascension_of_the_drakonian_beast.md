@@ -1,10 +1,10 @@
 ---
-actualPrice: $8.50
+actualPrice: $17.00
 album: Ascension Of The Drakonian Beast
 artist: Goatspell
 categories:
 - Vinyl
-date: '2021-11-25T06:07:48'
+date: '2021-11-30T13:35:19'
 draft: false
 images:
 - /images/covers/goatspell-ascension_of_the_drakonian_beast.jpg
@@ -14,4 +14,4 @@ title: Goatspell - Ascension Of The Drakonian Beast
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=5303&sort=pd.name&order=ASC) for $8.50
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=5303&sort=pd.name&order=ASC) for $17.00

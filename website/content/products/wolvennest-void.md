@@ -1,10 +1,10 @@
 ---
-actualPrice: $24.00 - 29.00
+actualPrice: $29.00 - 30.00
 album: VOID
 artist: Wolvennest
 categories:
 - Vinyl
-date: '2021-11-25T06:08:00'
+date: '2021-11-30T13:35:29'
 draft: false
 images:
 - /images/covers/wolvennest-void.png
@@ -15,4 +15,4 @@ title: Wolvennest - VOID
 
 ## Vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/wolvennest-void) for $29.00 :: Clear 2021 press vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=18061&sort=pd.name&order=ASC) for $24.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=18061&sort=pd.name&order=ASC) for $30.00

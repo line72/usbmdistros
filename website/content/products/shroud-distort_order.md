@@ -1,10 +1,10 @@
 ---
-actualPrice: $6.30
+actualPrice: $9.00
 album: Distort Order
 artist: SHROUD
 categories:
 - Vinyl
-date: '2021-11-25T06:08:03'
+date: '2021-11-30T13:35:32'
 draft: false
 images:
 - /images/covers/shroud-distort_order.jpg
@@ -14,4 +14,4 @@ title: SHROUD - Distort Order
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=13074&sort=pd.name&order=ASC) for $6.30
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=13074&sort=pd.name&order=ASC) for $9.00

@@ -1,11 +1,11 @@
 ---
-actualPrice: $7.00 - 11.90
+actualPrice: $10.00 - 17.00
 album: Seance Part. I
 artist: Invocation
 categories:
 - Vinyl
 - CD
-date: '2021-11-25T06:08:13'
+date: '2021-11-30T13:35:41'
 draft: false
 images:
 - /images/covers/invocation-seance_part._i.jpg
@@ -15,6 +15,6 @@ title: Invocation - Seance Part. I
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=6934&sort=pd.name&order=ASC) for $11.90
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=6934&sort=pd.name&order=ASC) for $17.00
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=8367&sort=pd.name&order=ASC) for $7.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=8367&sort=pd.name&order=ASC) for $10.00

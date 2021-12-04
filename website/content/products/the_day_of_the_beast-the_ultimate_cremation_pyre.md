@@ -1,10 +1,10 @@
 ---
-actualPrice: $3.50
+actualPrice: $7.00
 album: The Ultimate Cremation Pyre
 artist: The Day Of The Beast
 categories:
 - Cassette
-date: '2021-11-25T06:08:30'
+date: '2021-11-30T13:35:57'
 draft: false
 images:
 - /images/covers/the_day_of_the_beast-the_ultimate_cremation_pyre.png
@@ -14,4 +14,4 @@ title: The Day Of The Beast - The Ultimate Cremation Pyre
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=3311&sort=pd.name&order=ASC) for $3.50
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=3311&sort=pd.name&order=ASC) for $7.00

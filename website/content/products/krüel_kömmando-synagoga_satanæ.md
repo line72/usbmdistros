@@ -1,10 +1,10 @@
 ---
-actualPrice: $5.00 - 10.00
+actualPrice: $10.00
 album: "Synagoga Satan\xE6"
 artist: "Kr\xFCel K\xF6mmando"
 categories:
 - CD
-date: '2021-11-25T06:08:13'
+date: '2021-11-30T13:35:42'
 draft: false
 images:
 - "/images/covers/kr\xFCel_k\xF6mmando-synagoga_satan\xE6.jpg"
@@ -15,4 +15,4 @@ title: "Kr\xFCel K\xF6mmando - Synagoga Satan\xE6"
 
 ## CD
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/kruel-kommando-synagoga-satanae-cd) for $10.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=6122&sort=pd.name&order=ASC) for $5.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=6122&sort=pd.name&order=ASC) for $10.00

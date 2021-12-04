@@ -4,7 +4,7 @@ album: Exterminate
 artist: Angelcorpse
 categories:
 - Vinyl
-date: '2021-07-11T20:52:15'
+date: '2021-12-04T15:44:11'
 draft: false
 images:
 - /images/covers/angelcorpse-exterminate.jpg
@@ -16,3 +16,4 @@ title: Angelcorpse - Exterminate
 ## Vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/angelcorpse-exterminate-lp) for $25.00 :: Black 2021 press vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/angelcorpse-exterminate-lp) for $27.00 :: Red Marble 2021 press vinyl
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/angelcorpse-exterminate-lp) for $25.00 :: Red Marbled 2021 press vinyl

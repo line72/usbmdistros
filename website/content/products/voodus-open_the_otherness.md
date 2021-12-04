@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00
+actualPrice: $15.00
 album: Open the Otherness
 artist: Voodus
 categories:
 - CD
-date: '2021-11-25T06:08:22'
+date: '2021-11-30T13:35:49'
 draft: false
 images:
 - /images/covers/voodus-open_the_otherness.jpg
@@ -14,4 +14,4 @@ title: Voodus - Open the Otherness
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=18520&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=18520&sort=pd.name&order=ASC) for $15.00

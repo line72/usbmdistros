@@ -1,10 +1,10 @@
 ---
-actualPrice: $17.50
+actualPrice: $25.00
 album: Ezer Ezaren Araztasuna
 artist: Ostots
 categories:
 - Vinyl
-date: '2021-11-25T06:07:54'
+date: '2021-11-30T13:35:24'
 draft: false
 images:
 - /images/covers/ostots-ezer_ezaren_araztasuna.jpg
@@ -14,4 +14,4 @@ title: Ostots - Ezer Ezaren Araztasuna
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=9053&sort=pd.name&order=ASC) for $17.50
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=9053&sort=pd.name&order=ASC) for $25.00

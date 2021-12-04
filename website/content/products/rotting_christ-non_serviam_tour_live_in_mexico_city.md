@@ -1,10 +1,10 @@
 ---
-actualPrice: $4.00 - 10.00
+actualPrice: $8.00 - 10.00
 album: Non Serviam Tour Live in Mexico City
 artist: Rotting Christ
 categories:
 - CD
-date: '2021-11-25T06:08:18'
+date: '2021-11-30T13:35:46'
 draft: false
 images:
 - /images/covers/rotting_christ-non_serviam_tour_live_in_mexico_city.png
@@ -14,5 +14,5 @@ title: Rotting Christ - Non Serviam Tour Live in Mexico City
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=2283&sort=pd.name&order=ASC) for $4.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=2283&sort=pd.name&order=ASC) for $8.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=11718&sort=pd.name&order=ASC) for $10.00

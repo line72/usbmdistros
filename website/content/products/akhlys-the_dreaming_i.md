@@ -5,7 +5,7 @@ artist: Akhlys
 categories:
 - Vinyl
 - CD
-date: '2021-07-11T20:52:25'
+date: '2021-12-04T15:44:09'
 draft: false
 images:
 - /images/covers/akhlys-the_dreaming_i.jpg
@@ -17,5 +17,6 @@ title: Akhlys - The Dreaming I
 ## Vinyl
 * Purchase from [Debemur Morti](https://debemurmorti.aisamerch.com/item/93981) for $31.99
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/akhlys-dreaming) for $35.00 :: Swamp Green/Bone Merge w/ Splatter 2020 press
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/akhlys-the-dreaming-i-2xlp) for $35.00 :: Swamp Green/Bone Merge w/ Splatter 2020 press
 ## CD
 * Purchase from [Debemur Morti](https://debemurmorti.aisamerch.com/item/73299) for $9.99

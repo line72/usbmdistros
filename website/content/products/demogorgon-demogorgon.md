@@ -1,10 +1,10 @@
 ---
-actualPrice: $8.00
+actualPrice: $10.00
 album: Demogorgon
 artist: Demogorgon
 categories:
 - CD
-date: '2021-11-25T06:08:08'
+date: '2021-11-30T13:35:37'
 draft: false
 images:
 - /images/covers/demogorgon-demogorgon.jpg
@@ -14,4 +14,4 @@ title: Demogorgon - Demogorgon
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=17291&sort=pd.name&order=ASC) for $8.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=17291&sort=pd.name&order=ASC) for $10.00

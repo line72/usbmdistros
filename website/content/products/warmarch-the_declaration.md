@@ -1,10 +1,10 @@
 ---
-actualPrice: $6.00 - 11.90
+actualPrice: $12.00 - 17.00
 album: The Declaration
 artist: Warmarch
 categories:
 - Vinyl
-date: '2021-11-25T06:08:00'
+date: '2021-11-30T13:35:29'
 draft: false
 images:
 - /images/covers/warmarch-the_declaration.jpg
@@ -14,5 +14,5 @@ title: Warmarch - The Declaration
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=1976&sort=pd.name&order=ASC) for $6.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=14024&sort=pd.name&order=ASC) for $11.90
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=1976&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=14024&sort=pd.name&order=ASC) for $17.00

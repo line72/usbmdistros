@@ -1,12 +1,12 @@
 ---
-actualPrice: $5.60 - 14.00
+actualPrice: $8.00 - 20.00
 album: Zornvlouch
 artist: YounA
 categories:
 - Vinyl
 - Cassette
 - CD
-date: '2021-11-25T06:08:31'
+date: '2021-11-30T13:35:58'
 draft: false
 images:
 - /images/covers/youna-zornvlouch.jpg
@@ -16,8 +16,8 @@ title: YounA - Zornvlouch
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=10236&sort=pd.name&order=ASC) for $14.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=10236&sort=pd.name&order=ASC) for $20.00
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=10243&sort=pd.name&order=ASC) for $5.60
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=10243&sort=pd.name&order=ASC) for $8.00
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=16265&sort=pd.name&order=ASC) for $10.50
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=16265&sort=pd.name&order=ASC) for $15.00

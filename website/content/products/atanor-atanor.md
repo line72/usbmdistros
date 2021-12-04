@@ -1,10 +1,10 @@
 ---
-actualPrice: $7.00
+actualPrice: $10.00
 album: Atanor
 artist: Atanor
 categories:
 - Vinyl
-date: '2021-11-25T06:07:43'
+date: '2021-11-30T13:35:14'
 draft: false
 images:
 - /images/covers/atanor-atanor.jpg
@@ -14,4 +14,4 @@ title: Atanor - Atanor
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=15917&sort=pd.name&order=ASC) for $7.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=15917&sort=pd.name&order=ASC) for $10.00

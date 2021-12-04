@@ -1,10 +1,10 @@
 ---
-actualPrice: $14.00
+actualPrice: $20.00
 album: Angel Of Poison And Death
 artist: Cultes Des Ghoules
 categories:
 - Vinyl
-date: '2021-11-25T06:07:45'
+date: '2021-11-30T13:35:16'
 draft: false
 images:
 - /images/covers/cultes_des_ghoules-angel_of_poison_and_death.jpg
@@ -14,4 +14,4 @@ title: Cultes Des Ghoules - Angel Of Poison And Death
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=15316&sort=pd.name&order=ASC) for $14.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=15316&sort=pd.name&order=ASC) for $20.00

@@ -1,11 +1,11 @@
 ---
-actualPrice: $3.50 - 4.00
+actualPrice: $4.00 - 7.00
 album: Eve Of Fatality
 artist: Cryptic Realms
 categories:
 - Vinyl
 - Cassette
-date: '2021-11-25T06:08:01'
+date: '2021-11-30T13:35:31'
 draft: false
 images:
 - /images/covers/cryptic_realms-eve_of_fatality.jpg
@@ -15,6 +15,6 @@ title: Cryptic Realms - Eve Of Fatality
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=1446&sort=pd.name&order=ASC) for $3.50
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=1446&sort=pd.name&order=ASC) for $7.00
 ## Cassette
 * Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/15571611-cryptic-realms-eve-of-fatality) for $4.00

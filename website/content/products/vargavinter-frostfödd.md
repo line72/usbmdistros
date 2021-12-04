@@ -6,7 +6,7 @@ categories:
 - Vinyl
 - Cassette
 - CD
-date: '2021-11-25T06:08:31'
+date: '2021-11-30T13:35:49'
 draft: false
 images:
 - "/images/covers/vargavinter-frostf\xF6dd.png"
@@ -21,4 +21,4 @@ title: "Vargavinter - Frostf\xF6dd"
 ## Cassette
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=14595&sort=pd.name&order=ASC) for $7.00
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=14624&sort=pd.name&order=ASC) for $10.50
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=14624&sort=pd.name&order=ASC) for $15.00

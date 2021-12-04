@@ -1,10 +1,10 @@
 ---
-actualPrice: $5.60
+actualPrice: $8.00
 album: A halal es az iranytu
 artist: Siculicidium
 categories:
 - Vinyl
-date: '2021-11-25T06:08:03'
+date: '2021-11-30T13:35:32'
 draft: false
 images:
 - /images/covers/siculicidium-a_halal_es_az_iranytu.jpg
@@ -14,4 +14,4 @@ title: Siculicidium - A halal es az iranytu
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=8808&sort=pd.name&order=ASC) for $5.60
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=8808&sort=pd.name&order=ASC) for $8.00

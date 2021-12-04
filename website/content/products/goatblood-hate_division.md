@@ -4,7 +4,7 @@ album: Hate Division
 artist: Goatblood
 categories:
 - CD
-date: '2021-07-23T05:00:43'
+date: '2021-12-01T06:00:54'
 draft: false
 images:
 - /images/covers/goatblood-hate_division.jpg

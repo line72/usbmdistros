@@ -1,10 +1,10 @@
 ---
-actualPrice: $9.60
+actualPrice: $12.00
 album: Capel Beulah
 artist: Capel Beulah
 categories:
 - Cassette
-date: '2021-11-25T06:08:25'
+date: '2021-11-30T13:35:52'
 draft: false
 images:
 - /images/covers/capel_beulah-capel_beulah.jpg
@@ -14,4 +14,4 @@ title: Capel Beulah - Capel Beulah
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=18919&sort=pd.name&order=ASC) for $9.60
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=18919&sort=pd.name&order=ASC) for $12.00
