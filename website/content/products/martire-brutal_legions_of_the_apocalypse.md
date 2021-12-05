@@ -1,10 +1,10 @@
 ---
-actualPrice: $8.00
+actualPrice: $10.00
 album: Brutal Legions of the Apocalypse
 artist: Martire
 categories:
 - Vinyl
-date: '2021-08-17T13:15:24'
+date: '2021-12-05T06:12:35'
 draft: false
 images:
 - /images/covers/martire-brutal_legions_of_the_apocalypse.png
@@ -14,4 +14,4 @@ title: Martire - Brutal Legions of the Apocalypse
 ---
 
 ## Vinyl
-* Purchase from [CW Productions](https://shop.cwproductions.net/products/martire-brutal-legions-of-the-apocalypse-lp) for $8.00
+* Purchase from [CW Productions](https://shop.cwproductions.net/products/martire-brutal-legions-of-the-apocalypse-lp) for $10.00

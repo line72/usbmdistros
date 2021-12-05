@@ -7,9 +7,9 @@ categories:
 date: '2021-11-29T20:11:17'
 draft: false
 images:
-- /images/covers/drowning_the_light-through_the_noose_of_existence.png
+- /images/covers/drowning_the_light-through_the_noose_of_existence.jpg
 inStock: true
-thumbnailImage: /images/covers/drowning_the_light-through_the_noose_of_existence-thumb.png
+thumbnailImage: /images/covers/drowning_the_light-through_the_noose_of_existence-thumb.jpg
 title: Drowning The Light - Through the Noose of Existence
 ---
 

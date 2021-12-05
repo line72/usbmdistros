@@ -7,9 +7,9 @@ categories:
 date: '2021-12-04T15:42:45'
 draft: false
 images:
-- /images/covers/denial_of_god-klabautermanden.png
+- /images/covers/denial_of_god-klabautermanden.jpg
 inStock: true
-thumbnailImage: /images/covers/denial_of_god-klabautermanden-thumb.png
+thumbnailImage: /images/covers/denial_of_god-klabautermanden-thumb.jpg
 title: Denial of God - Klabautermanden
 ---
 

@@ -7,9 +7,9 @@ categories:
 date: '2021-12-04T15:42:45'
 draft: false
 images:
-- /images/covers/chamber_of_unlight-chamber_of_unlight.png
+- /images/covers/chamber_of_unlight-chamber_of_unlight.jpg
 inStock: true
-thumbnailImage: /images/covers/chamber_of_unlight-chamber_of_unlight-thumb.png
+thumbnailImage: /images/covers/chamber_of_unlight-chamber_of_unlight-thumb.jpg
 title: Chamber Of Unlight - Chamber of Unlight
 ---
 
