@@ -5,7 +5,7 @@ artist: Windir
 categories:
 - Vinyl
 - Cassette
-date: '2021-11-11T14:31:09'
+date: '2021-12-06T06:10:52'
 draft: false
 images:
 - "/images/covers/windir-s\xF3knardalr.jpg"
@@ -19,7 +19,7 @@ title: "Windir - S\xF3knardalr"
 * Purchase from [Sto'Vo'Kor Records](https://stovokor-records.com/products/windir-soknardalr) for $29.00
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/windir-soknardalr-2xlp) for $32.00 :: Red 2nd press
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/windir-soknardalr-2xlp) for $35.00 :: Yellow/Green Marbled 2nd press
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/windir-soknardalr-2xlp-1) for $32.00 :: Red 2nd press
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/windir-soknardalr-2xlp-1) for $32.00 :: Red 2nd press vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/windir-soknardalr-2xlp-1) for $39.00 :: Red/Black Marbled 1st press vinyl
 ## Cassette
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/windir-soknardalr-cassette) for $13.00 :: Cassette Tape 2021 press

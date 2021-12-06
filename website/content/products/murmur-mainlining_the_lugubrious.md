@@ -4,7 +4,7 @@ album: Mainlining the Lugubrious
 artist: Murmur
 categories:
 - Vinyl
-date: '2021-11-30T13:35:23'
+date: '2021-12-06T06:10:40'
 draft: false
 images:
 - /images/covers/murmur-mainlining_the_lugubrious.jpg
@@ -18,3 +18,5 @@ title: Murmur - Mainlining the Lugubrious
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=16607&sort=pd.name&order=ASC) for $20.00
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/murmur-mainlining-the-lugubrious-lp) for $29.00 :: Black 1st press vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/murmur-mainlining-the-lugubrious-lp) for $32.00 :: Red/Black Splatter 1st press vinyl
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/murmur-mainlining-the-lugubrious-lp-1) for $20.00 :: Black 1st press vinyl
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/murmur-mainlining-the-lugubrious-lp-1) for $22.00 :: Red/Black Splatter 1st press vinyl
