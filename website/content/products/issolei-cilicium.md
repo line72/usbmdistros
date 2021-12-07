@@ -4,8 +4,9 @@ album: Cilicium
 artist: Issolei
 categories:
 - Vinyl
+- Cassette
 - CD
-date: '2021-11-30T13:35:21'
+date: '2021-12-07T06:10:50'
 draft: false
 images:
 - /images/covers/issolei-cilicium.jpg
@@ -18,5 +19,7 @@ title: Issolei - Cilicium
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/issolei-cilicium-lp) for $27.00 :: Black 1st press vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/issolei-cilicium-lp) for $39.00 :: Purple Smoke 1st press vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=17482&sort=pd.name&order=ASC) for $27.00
+## Cassette
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/issolei-cilicium-cassette) for $16.00 :: Cassette Tape 2021 press
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=17489&sort=pd.name&order=ASC) for $15.00

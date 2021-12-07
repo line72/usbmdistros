@@ -1,0 +1,17 @@
+---
+actualPrice: $12.00
+album: Demos I-II
+artist: Pyre of Black Roses
+categories:
+- Cassette
+date: '2021-12-07T06:08:55'
+draft: false
+images:
+- /images/covers/pyre_of_black_roses-demos_i-ii.png
+inStock: true
+thumbnailImage: /images/covers/pyre_of_black_roses-demos_i-ii-thumb.png
+title: Pyre of Black Roses - Demos I-II
+---
+
+## Cassette
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=19519&sort=pd.name&order=ASC) for $12.00

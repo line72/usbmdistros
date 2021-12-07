@@ -6,7 +6,7 @@ categories:
 - Vinyl
 - Cassette
 - CD
-date: '2021-11-30T13:35:55'
+date: '2021-12-07T06:06:57'
 draft: false
 images:
 - /images/covers/nocturnal_breed-aggressor.jpg
@@ -17,6 +17,8 @@ title: Nocturnal Breed - Aggressor
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=18977&sort=pd.name&order=ASC) for $125.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=19467&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=19468&sort=pd.name&order=ASC) for $125.00
 ## Cassette
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=16564&sort=pd.name&order=ASC) for $9.00
 ## CD

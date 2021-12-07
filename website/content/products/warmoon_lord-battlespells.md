@@ -4,7 +4,7 @@ album: Battlespells
 artist: Warmoon Lord
 categories:
 - CD
-date: '2021-06-29T15:06:36'
+date: '2021-12-07T06:08:32'
 draft: false
 images:
 - /images/covers/warmoon_lord-battlespells.png
@@ -15,3 +15,4 @@ title: Warmoon Lord - Battlespells
 
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=16499&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=19529&sort=pd.name&order=ASC) for $12.00
