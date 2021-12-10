@@ -1,10 +1,10 @@
 ---
-actualPrice: $25.00
+actualPrice: $23.00
 album: Ageless Fire
 artist: Vanum
 categories:
 - Vinyl
-date: '2021-07-11T20:52:26'
+date: '2021-12-10T06:12:05'
 draft: false
 images:
 - /images/covers/vanum-ageless_fire.jpg
@@ -14,4 +14,4 @@ title: Vanum - Ageless Fire
 ---
 
 ## Vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/vanum-ageless-fire) for $25.00 :: Cloudy Clear w/ Galaxy Swirl
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/vanum-ageless-fire) for $23.00 :: Cloudy Clear w/ Galaxy Swirl
