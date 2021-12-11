@@ -1,10 +1,10 @@
 ---
-actualPrice: $25.00
+actualPrice: $27.00
 album: Vacuum Solution
 artist: Mesarthim
 categories:
 - Vinyl
-date: '2021-11-17T06:11:16'
+date: '2021-12-11T06:11:13'
 draft: false
 images:
 - /images/covers/mesarthim-vacuum_solution.jpg
@@ -14,4 +14,4 @@ title: Mesarthim - Vacuum Solution
 ---
 
 ## Vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/mesarthim-vacuum-solution-lp) for $25.00 :: Purple/Cyan Galaxy 2021 press vinyl
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/mesarthim-vacuum-solution-lp) for $27.00 :: Purple/Cyan Galaxy 2021 press vinyl

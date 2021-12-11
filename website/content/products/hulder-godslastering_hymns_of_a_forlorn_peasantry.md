@@ -6,7 +6,7 @@ categories:
 - Vinyl
 - Cassette
 - CD
-date: '2021-11-30T13:35:53'
+date: '2021-12-11T06:07:47'
 draft: false
 images:
 - /images/covers/hulder-godslastering_hymns_of_a_forlorn_peasantry.jpg
@@ -35,3 +35,4 @@ title: Hulder - Godslastering Hymns of a Forlorn Peasantry
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=15243&sort=pd.name&order=ASC) for $12.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=16472&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=19608&sort=pd.name&order=ASC) for $12.00
