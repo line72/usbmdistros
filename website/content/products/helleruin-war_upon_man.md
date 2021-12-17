@@ -5,7 +5,7 @@ artist: Helleruin
 categories:
 - Vinyl
 - CD
-date: '2021-09-14T05:06:19'
+date: '2021-12-17T06:00:49'
 draft: false
 images:
 - /images/covers/helleruin-war_upon_man.jpg
