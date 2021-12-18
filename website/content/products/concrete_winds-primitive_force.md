@@ -1,10 +1,10 @@
 ---
-actualPrice: $27.00
+actualPrice: $29.00
 album: Primitive Force
 artist: Concrete Winds
 categories:
 - Vinyl
-date: '2021-07-11T20:52:21'
+date: '2021-12-18T06:11:45'
 draft: false
 images:
 - /images/covers/concrete_winds-primitive_force.jpg
@@ -14,4 +14,4 @@ title: Concrete Winds - Primitive Force
 ---
 
 ## Vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/concrete-winds-primitive-force) for $27.00 :: Black 1st press vinyl
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/concrete-winds-primitive-force) for $29.00 :: Black 1st press vinyl
