@@ -5,7 +5,7 @@ artist: Odal
 categories:
 - Vinyl
 - CD
-date: '2021-06-26T15:03:07'
+date: '2021-12-19T06:00:25'
 draft: false
 images:
 - /images/covers/odal-zornes_heimat_(rough_mix).jpg

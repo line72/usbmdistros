@@ -1,11 +1,11 @@
 ---
-actualPrice: $7.00 - 20.00
+actualPrice: $5.00 - 20.00
 album: Lustful Vengeance
 artist: Serum Dreg
 categories:
 - Vinyl
 - CD
-date: '2021-11-30T13:35:26'
+date: '2021-12-19T06:01:38'
 draft: false
 images:
 - /images/covers/serum_dreg-lustful_vengeance.jpg
@@ -18,3 +18,4 @@ title: Serum Dreg - Lustful Vengeance
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=8390&sort=pd.name&order=ASC) for $20.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=15391&sort=pd.name&order=ASC) for $7.00
+* Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/34371898-serum-dreg-lustful-vengeance-cd) for $5.00
