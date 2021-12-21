@@ -4,7 +4,7 @@ album: Abatement Of The Sun
 artist: Charnel Altar
 categories:
 - Cassette
-date: '2021-12-17T06:11:32'
+date: '2021-12-21T06:11:01'
 draft: false
 images:
 - /images/covers/charnel_altar-abatement_of_the_sun.jpg
@@ -15,3 +15,4 @@ title: Charnel Altar - Abatement Of The Sun
 
 ## Cassette
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/charnel-altar-abatement-of-the-sun-cassette) for $11.00 :: Cassette Tape 1st press
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/charnel-altar-abatement-of-the-sun-cassette-1) for $11.00 :: Cassette Tape 1st press

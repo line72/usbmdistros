@@ -4,7 +4,7 @@ album: Hyldest til Trolddommens Flamme / Demo Compilation
 artist: "M\xFAspellzheimr"
 categories:
 - CD
-date: '2021-12-19T06:00:49'
+date: '2021-12-21T06:00:47'
 draft: false
 images:
 - "/images/covers/m\xFAspellzheimr-hyldest_til_trolddommens_flamme_-_demo_compilation.jpg"

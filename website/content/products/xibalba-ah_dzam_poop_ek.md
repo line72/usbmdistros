@@ -6,7 +6,7 @@ categories:
 - Vinyl
 - Cassette
 - CD
-date: '2021-11-30T13:35:50'
+date: '2021-12-21T06:09:16'
 draft: false
 images:
 - /images/covers/xibalba-ah_dzam_poop_ek.jpg
@@ -21,6 +21,7 @@ title: Xibalba - Ah Dzam Poop Ek
 ## Cassette
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=14305&sort=pd.name&order=ASC) for $9.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=16687&sort=pd.name&order=ASC) for $9.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=19740&sort=pd.name&order=ASC) for $9.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=16191&sort=pd.name&order=ASC) for $15.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=16688&sort=pd.name&order=ASC) for $15.00

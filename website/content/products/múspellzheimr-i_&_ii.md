@@ -4,7 +4,7 @@ album: I & II
 artist: "M\xFAspellzheimr"
 categories:
 - CD
-date: '2021-08-17T13:15:25'
+date: '2021-12-21T06:00:47'
 draft: false
 images:
 - "/images/covers/m\xFAspellzheimr-i_&_ii.jpg"

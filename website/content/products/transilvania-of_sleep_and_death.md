@@ -6,7 +6,7 @@ categories:
 - Vinyl
 - Cassette
 - CD
-date: '2021-12-16T06:01:53'
+date: '2021-12-21T06:01:34'
 draft: false
 images:
 - /images/covers/transilvania-of_sleep_and_death.jpg
@@ -22,4 +22,4 @@ title: Transilvania - Of Sleep And Death
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=17501&sort=pd.name&order=ASC) for $8.00
 * Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/34326061-transilvania-of-sleep-and-death) for $8.00
 ## CD
-* Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/34326091-transilvania-of-sleep-and-death-cd) for $13.00
+* Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/34326091-transilvania-of-sleep-and-death-cd) for $11.00

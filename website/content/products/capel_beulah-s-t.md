@@ -5,7 +5,7 @@ artist: Capel Beulah
 categories:
 - Cassette
 - CD
-date: '2021-11-17T06:00:31'
+date: '2021-12-21T06:00:35'
 draft: false
 images:
 - /images/covers/capel_beulah-s-t.jpg
