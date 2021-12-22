@@ -5,7 +5,7 @@ artist: Ossaert
 categories:
 - Vinyl
 - CD
-date: '2021-11-04T05:11:07'
+date: '2021-12-22T06:00:47'
 draft: false
 images:
 - /images/covers/ossaert-bedehuis.jpg
