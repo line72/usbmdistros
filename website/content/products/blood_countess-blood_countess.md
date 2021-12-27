@@ -7,9 +7,9 @@ categories:
 date: '2021-11-30T13:35:51'
 draft: false
 images:
-- /images/covers/blood_countess-blood_countess.png
+- /images/covers/blood_countess-blood_countess.jpg
 inStock: true
-thumbnailImage: /images/covers/blood_countess-blood_countess-thumb.png
+thumbnailImage: /images/covers/blood_countess-blood_countess-thumb.jpg
 title: Blood Countess - Blood Countess
 ---
 
