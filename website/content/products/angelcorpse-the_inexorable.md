@@ -4,7 +4,7 @@ album: The Inexorable
 artist: Angelcorpse
 categories:
 - Vinyl
-date: '2021-12-21T06:11:01'
+date: '2021-12-28T06:11:17'
 draft: false
 images:
 - /images/covers/angelcorpse-the_inexorable.jpg
@@ -17,3 +17,4 @@ title: Angelcorpse - The Inexorable
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=16637&sort=pd.name&order=ASC) for $25.00
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/angelcorpse-the-inexorable-lp) for $29.00 :: Black 2021 press vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/angelcorpse-the-inexorable-lp) for $27.00 :: Orange Marble 2021 press vinyl
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/angelcorpse-the-inexorable-lp-1) for $29.00 :: Black 2021 press vinyl
