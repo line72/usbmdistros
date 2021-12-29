@@ -1,10 +1,10 @@
 ---
-actualPrice: $25.00
+actualPrice: $25.00 - 27.00
 album: Reysa
 artist: Asarhaddon
 categories:
 - Vinyl
-date: '2021-12-16T06:11:32'
+date: '2021-12-29T06:11:26'
 draft: false
 images:
 - /images/covers/asarhaddon-reysa.png
@@ -15,3 +15,4 @@ title: Asarhaddon - Reysa
 
 ## Vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/asarhaddon-reysa-2xlp) for $25.00 :: Black 2021 press vinyl
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/asarhaddon-reysa-2xlp-1) for $27.00 :: Black 2021 press vinyl

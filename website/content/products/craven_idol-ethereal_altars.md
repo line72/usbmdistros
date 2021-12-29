@@ -1,10 +1,10 @@
 ---
-actualPrice: $23.00
+actualPrice: $25.00
 album: Ethereal Altars
 artist: Craven Idol
 categories:
 - Vinyl
-date: '2021-12-24T06:10:52'
+date: '2021-12-29T06:11:29'
 draft: false
 images:
 - /images/covers/craven_idol-ethereal_altars.jpg
@@ -14,4 +14,4 @@ title: Craven Idol - Ethereal Altars
 ---
 
 ## Vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/craven-idol-ethereal-altars-lp) for $23.00 :: Black 1st press vinyl
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/craven-idol-ethereal-altars-lp) for $25.00 :: Black 1st press vinyl
