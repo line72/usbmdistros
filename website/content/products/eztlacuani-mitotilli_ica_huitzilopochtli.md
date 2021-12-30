@@ -1,10 +1,11 @@
 ---
-actualPrice: $15.00
+actualPrice: $15.00 - 28.00
 album: Mitotilli Ica Huitzilopochtli
 artist: Eztlacuani
 categories:
+- Vinyl
 - CD
-date: '2021-08-17T13:15:21'
+date: '2021-12-30T06:07:26'
 draft: false
 images:
 - /images/covers/eztlacuani-mitotilli_ica_huitzilopochtli.jpg
@@ -13,5 +14,7 @@ thumbnailImage: /images/covers/eztlacuani-mitotilli_ica_huitzilopochtli-thumb.jp
 title: Eztlacuani - Mitotilli Ica Huitzilopochtli
 ---
 
+## Vinyl
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=20084&sort=pd.name&order=ASC) for $28.00
 ## CD
 * Purchase from [CW Productions](https://shop.cwproductions.net/products/eztlacuani-mitotilli-ica-huitzilopochtli-cd) for $15.00

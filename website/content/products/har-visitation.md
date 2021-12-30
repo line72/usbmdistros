@@ -1,10 +1,11 @@
 ---
-actualPrice: $17.00
+actualPrice: $15.00 - 17.00
 album: Visitation
 artist: Har
 categories:
 - Vinyl
-date: '2021-11-30T13:35:19'
+- CD
+date: '2021-12-30T06:08:57'
 draft: false
 images:
 - /images/covers/har-visitation.jpg
@@ -15,3 +16,5 @@ title: Har - Visitation
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=5653&sort=pd.name&order=ASC) for $17.00
+## CD
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=19939&sort=pd.name&order=ASC) for $15.00

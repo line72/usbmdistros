@@ -4,7 +4,7 @@ album: Submission And Slavery
 artist: Lamp of Murmuur
 categories:
 - CD
-date: '2021-11-30T13:35:42'
+date: '2021-12-30T06:09:06'
 draft: false
 images:
 - /images/covers/lamp_of_murmuur-submission_and_slavery.png
@@ -16,3 +16,4 @@ title: Lamp of Murmuur - Submission And Slavery
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=18289&sort=pd.name&order=ASC) for $15.00
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/lamp-of-murmuur-submission-and-slavery-cd) for $14.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=20097&sort=pd.name&order=ASC) for $15.00

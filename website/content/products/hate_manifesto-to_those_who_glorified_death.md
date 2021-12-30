@@ -1,10 +1,11 @@
 ---
-actualPrice: $25.00
+actualPrice: $15.00 - 25.00
 album: To Those who Glorified Death
 artist: Hate Manifesto
 categories:
 - Vinyl
-date: '2021-11-30T13:35:19'
+- CD
+date: '2021-12-30T06:08:58'
 draft: false
 images:
 - /images/covers/hate_manifesto-to_those_who_glorified_death.jpg
@@ -15,3 +16,5 @@ title: Hate Manifesto - To Those who Glorified Death
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=18537&sort=pd.name&order=ASC) for $25.00
+## CD
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=19941&sort=pd.name&order=ASC) for $15.00

@@ -4,7 +4,7 @@ album: Procreation of the Wicked
 artist: Celtic Frost
 categories:
 - Vinyl
-date: '2021-08-10T06:51:00'
+date: '2021-12-30T06:07:17'
 draft: false
 images:
 - /images/covers/celtic_frost-procreation_of_the_wicked.jpg
@@ -17,3 +17,4 @@ title: Celtic Frost - Procreation of the Wicked
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=16458&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=16526&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=16870&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=20058&sort=pd.name&order=ASC) for $25.00

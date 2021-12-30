@@ -1,10 +1,11 @@
 ---
-actualPrice: $20.00
+actualPrice: $15.00 - 20.00
 album: Herald of Triumph
 artist: Hate Manifesto
 categories:
 - Vinyl
-date: '2021-11-30T13:35:19'
+- CD
+date: '2021-12-30T06:08:58'
 draft: false
 images:
 - /images/covers/hate_manifesto-herald_of_triumph.jpg
@@ -15,3 +16,5 @@ title: Hate Manifesto - Herald of Triumph
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=18538&sort=pd.name&order=ASC) for $20.00
+## CD
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=19942&sort=pd.name&order=ASC) for $15.00

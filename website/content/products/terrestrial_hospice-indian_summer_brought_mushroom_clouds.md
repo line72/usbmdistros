@@ -1,10 +1,11 @@
 ---
-actualPrice: $15.00
+actualPrice: $15.00 - 25.00
 album: Indian Summer Brought Mushroom Clouds
 artist: Terrestrial Hospice
 categories:
+- Vinyl
 - CD
-date: '2021-11-30T13:35:47'
+date: '2021-12-30T06:08:05'
 draft: false
 images:
 - /images/covers/terrestrial_hospice-indian_summer_brought_mushroom_clouds.jpg
@@ -13,5 +14,7 @@ thumbnailImage: /images/covers/terrestrial_hospice-indian_summer_brought_mushroo
 title: Terrestrial Hospice - Indian Summer Brought Mushroom Clouds
 ---
 
+## Vinyl
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=20041&sort=pd.name&order=ASC) for $25.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=18505&sort=pd.name&order=ASC) for $15.00
