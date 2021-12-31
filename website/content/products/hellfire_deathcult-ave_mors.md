@@ -7,9 +7,9 @@ categories:
 date: '2021-12-30T06:07:32'
 draft: false
 images:
-- /images/covers/hellfire_deathcult-ave_mors.png
+- /images/covers/hellfire_deathcult-ave_mors.jpg
 inStock: true
-thumbnailImage: /images/covers/hellfire_deathcult-ave_mors-thumb.png
+thumbnailImage: /images/covers/hellfire_deathcult-ave_mors-thumb.jpg
 title: Hellfire Deathcult - Ave Mors
 ---
 

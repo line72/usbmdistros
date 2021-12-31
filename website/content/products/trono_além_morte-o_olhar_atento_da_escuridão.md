@@ -4,7 +4,7 @@ album: "O Olhar Atento da Escurid\xE3o"
 artist: "Trono Al\xE9m Morte"
 categories:
 - Vinyl
-date: '2021-06-26T15:02:54'
+date: '2021-12-31T06:00:24'
 draft: false
 images:
 - "/images/covers/trono_al\xE9m_morte-o_olhar_atento_da_escurid\xE3o.jpg"

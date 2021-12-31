@@ -7,9 +7,9 @@ categories:
 date: '2021-12-30T06:07:56'
 draft: false
 images:
-- /images/covers/raza_solar-el_lugar_de_los_dioses_antiguos.png
+- /images/covers/raza_solar-el_lugar_de_los_dioses_antiguos.jpg
 inStock: true
-thumbnailImage: /images/covers/raza_solar-el_lugar_de_los_dioses_antiguos-thumb.png
+thumbnailImage: /images/covers/raza_solar-el_lugar_de_los_dioses_antiguos-thumb.jpg
 title: Raza Solar - El Lugar de Los Dioses Antiguos
 ---
 

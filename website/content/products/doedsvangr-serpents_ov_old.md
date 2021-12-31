@@ -5,7 +5,7 @@ artist: Doedsvangr
 categories:
 - Vinyl
 - CD
-date: '2021-09-08T05:09:21'
+date: '2021-12-31T06:11:30'
 draft: false
 images:
 - /images/covers/doedsvangr-serpents_ov_old.jpg
@@ -18,5 +18,6 @@ title: Doedsvangr - Serpents Ov Old
 * Purchase from [Debemur Morti](https://debemurmorti.aisamerch.com/item/102480) for $22.99
 * Purchase from [Debemur Morti](https://debemurmorti.aisamerch.com/item/102481) for $40.99 :: special edition
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/doedsvangr-serpents-of-old-lp) for $29.00 :: Black 1st press vinyl
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/doedsvangr-serpents-ov-old-lp) for $32.00 :: Black 1st press vinyl
 ## CD
 * Purchase from [Debemur Morti](https://debemurmorti.aisamerch.com/item/102479) for $15.99
