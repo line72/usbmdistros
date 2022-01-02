@@ -4,7 +4,7 @@ album: Krig Og Kamp
 artist: Forhatt
 categories:
 - Cassette
-date: '2021-08-17T13:15:22'
+date: '2022-01-02T06:13:54'
 draft: false
 images:
 - /images/covers/forhatt-krig_og_kamp.png
@@ -15,3 +15,4 @@ title: Forhatt - Krig Og Kamp
 
 ## Cassette
 * Purchase from [CW Productions](https://shop.cwproductions.net/products/forhatt-krig-og-kamp-tape) for $5.00
+* Purchase from [CW Productions](https://shop.cwproductions.net/products/forhatt-krig-og-kamp-tape-1) for $5.00
