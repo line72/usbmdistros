@@ -5,7 +5,7 @@ artist: Sulphuric Night
 categories:
 - Vinyl
 - CD
-date: '2021-12-07T06:07:08'
+date: '2022-01-04T06:09:15'
 draft: false
 images:
 - /images/covers/sulphuric_night-arcane_monoliths_of_triumphant_death.jpg
@@ -18,3 +18,4 @@ title: Sulphuric Night - Arcane Monoliths of Triumphant Death
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=19463&sort=pd.name&order=ASC) for $30.00
 ## CD
 * Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/sulphuric-night-arcane-monoliths-of-triumphant-death-cd/) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=20129&sort=pd.name&order=ASC) for $15.00

@@ -1,10 +1,10 @@
 ---
-actualPrice: $22.00
+actualPrice: $32.00
 album: Netherstorm
 artist: Vargrav
 categories:
 - Vinyl
-date: '2021-10-31T11:45:04'
+date: '2022-01-04T06:13:37'
 draft: false
 images:
 - /images/covers/vargrav-netherstorm.jpg
@@ -14,4 +14,4 @@ title: Vargrav - Netherstorm
 ---
 
 ## Vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/vargrav-netherstorm-lp) for $22.00 :: Purple 2nd press
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/vargrav-netherstorm-lp) for $32.00 :: Purple 2nd press vinyl

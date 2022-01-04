@@ -4,7 +4,7 @@ album: Shimmering Lair of Depraved Moonlight
 artist: Solemn Imagist
 categories:
 - Vinyl
-date: '2021-12-30T06:00:24'
+date: '2022-01-04T06:00:30'
 draft: false
 images:
 - /images/covers/solemn_imagist-shimmering_lair_of_depraved_moonlight.jpg
