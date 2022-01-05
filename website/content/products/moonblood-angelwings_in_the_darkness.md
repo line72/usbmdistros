@@ -4,7 +4,7 @@ album: Angelwings in the Darkness
 artist: Moonblood
 categories:
 - CD
-date: '2021-11-30T13:35:43'
+date: '2022-01-05T06:08:29'
 draft: false
 images:
 - /images/covers/moonblood-angelwings_in_the_darkness.jpg
@@ -17,3 +17,4 @@ title: Moonblood - Angelwings in the Darkness
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=17719&sort=pd.name&order=ASC) for $20.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=18168&sort=pd.name&order=ASC) for $20.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=18339&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=20132&sort=pd.name&order=ASC) for $20.00

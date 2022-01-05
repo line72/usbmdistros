@@ -4,7 +4,7 @@ album: The Garden of Strangling Roots
 artist: Ebony Pendant
 categories:
 - CD
-date: '2021-06-26T15:03:08'
+date: '2022-01-05T06:00:50'
 draft: false
 images:
 - /images/covers/ebony_pendant-the_garden_of_strangling_roots.jpg

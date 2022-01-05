@@ -1,10 +1,10 @@
 ---
-actualPrice: $7.00
+actualPrice: $4.00
 album: Mmxix
 artist: Abyssal Vacuum
 categories:
 - Cassette
-date: '2021-11-16T14:07:17'
+date: '2022-01-05T06:02:06'
 draft: false
 images:
 - /images/covers/abyssal_vacuum-mmxix.jpg
@@ -14,4 +14,4 @@ title: Abyssal Vacuum - Mmxix
 ---
 
 ## Cassette
-* Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/29693398-abyssal-vacuum-mmxix) for $7.00
+* Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/29693398-abyssal-vacuum-mmxix) for $4.00

@@ -4,7 +4,7 @@ album: Wolf's Lair Abyss
 artist: Mayhem
 categories:
 - Vinyl
-date: '2021-11-30T13:35:22'
+date: '2022-01-05T06:06:59'
 draft: false
 images:
 - /images/covers/mayhem-wolf's_lair_abyss.jpg
@@ -19,3 +19,4 @@ title: Mayhem - Wolf's Lair Abyss
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=18831&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=19012&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=19393&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=20131&sort=pd.name&order=ASC) for $25.00

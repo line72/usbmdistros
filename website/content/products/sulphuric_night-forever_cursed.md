@@ -1,10 +1,11 @@
 ---
-actualPrice: $25.00
+actualPrice: $13.00 - 25.00
 album: Forever Cursed
 artist: Sulphuric Night
 categories:
 - Vinyl
-date: '2021-12-07T06:07:08'
+- CD
+date: '2022-01-05T06:00:46'
 draft: false
 images:
 - /images/covers/sulphuric_night-forever_cursed.jpg
@@ -15,3 +16,5 @@ title: Sulphuric Night - Forever Cursed
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=19461&sort=pd.name&order=ASC) for $25.00
+## CD
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/sulphuric-night-forever-cursed-cd) for $13.00

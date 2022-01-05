@@ -1,10 +1,10 @@
 ---
-actualPrice: $29.00
+actualPrice: $27.00
 album: Isolate
 artist: Mesarthim
 categories:
 - Vinyl
-date: '2021-09-16T05:09:13'
+date: '2022-01-05T06:11:56'
 draft: false
 images:
 - /images/covers/mesarthim-isolate.jpg
@@ -14,4 +14,4 @@ title: Mesarthim - Isolate
 ---
 
 ## Vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/mesarthim-isolate-lp) for $29.00 :: Red Marble 2021 press vinyl
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/mesarthim-isolate-lp) for $27.00 :: Red Marble 2021 press vinyl
