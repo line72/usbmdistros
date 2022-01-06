@@ -1,10 +1,10 @@
 ---
-actualPrice: $10.00
+actualPrice: $9.00
 album: Morbid Metal
 artist: Necromaniac
 categories:
 - Cassette
-date: '2021-12-16T06:01:54'
+date: '2022-01-06T06:01:27'
 draft: false
 images:
 - /images/covers/necromaniac-morbid_metal.jpg
@@ -14,4 +14,4 @@ title: Necromaniac - Morbid Metal
 ---
 
 ## Cassette
-* Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/34325968-necromaniac-morbid-metal) for $10.00
+* Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/34325968-necromaniac-morbid-metal) for $9.00
