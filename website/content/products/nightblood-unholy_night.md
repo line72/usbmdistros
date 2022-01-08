@@ -4,7 +4,7 @@ album: Unholy Night
 artist: Nightblood
 categories:
 - Cassette
-date: '2021-11-16T14:05:08'
+date: '2022-01-08T06:00:47'
 draft: false
 images:
 - /images/covers/nightblood-unholy_night.jpg

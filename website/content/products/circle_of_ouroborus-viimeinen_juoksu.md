@@ -4,7 +4,7 @@ album: Viimeinen Juoksu
 artist: Circle of Ouroborus
 categories:
 - CD
-date: '2021-06-26T15:03:08'
+date: '2022-01-08T06:00:58'
 draft: false
 images:
 - /images/covers/circle_of_ouroborus-viimeinen_juoksu.jpg
