@@ -5,7 +5,7 @@ artist: Durazis
 categories:
 - Vinyl
 - Cassette
-date: '2021-12-04T15:44:10'
+date: '2022-01-09T06:15:03'
 draft: false
 images:
 - /images/covers/durazis-demo_2020.png
@@ -18,5 +18,6 @@ title: Durazis - Demo 2020
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=18071&sort=pd.name&order=ASC) for $25.00
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/durazis-demo-2020-12-lp) for $25.00
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/durazis-demo-2020-lp) for $23.00 :: Black 1st press vinyl
+* Purchase from [CW Productions](https://shop.cwproductions.net/products/durazis-demo-2020-lp) for $20.00
 ## Cassette
 * Purchase from [CW Productions](https://shop.cwproductions.net/products/durazis-demo-2020) for $9.00
