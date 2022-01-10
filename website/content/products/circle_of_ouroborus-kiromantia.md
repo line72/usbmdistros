@@ -4,7 +4,7 @@ album: Kiromantia
 artist: Circle of Ouroborus
 categories:
 - CD
-date: '2022-01-08T06:00:52'
+date: '2022-01-10T06:00:39'
 draft: false
 images:
 - /images/covers/circle_of_ouroborus-kiromantia.jpg
