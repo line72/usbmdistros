@@ -4,7 +4,7 @@ album: Het Vagevuur
 artist: Vaal
 categories:
 - Vinyl
-date: '2021-11-30T13:35:28'
+date: '2022-01-11T06:08:11'
 draft: false
 images:
 - /images/covers/vaal-het_vagevuur.jpg
@@ -15,3 +15,4 @@ title: Vaal - Het Vagevuur
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=16286&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=20220&sort=pd.name&order=ASC) for $25.00

@@ -5,7 +5,7 @@ artist: Blot & Bod
 categories:
 - Vinyl
 - CD
-date: '2021-11-30T13:35:35'
+date: '2022-01-11T06:07:01'
 draft: false
 images:
 - /images/covers/blot_&_bod-ormekongens_argelist.jpg
@@ -16,5 +16,6 @@ title: Blot & Bod - Ormekongens Argelist
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=6673&sort=pd.name&order=ASC) for $17.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=20217&sort=pd.name&order=ASC) for $17.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=6703&sort=pd.name&order=ASC) for $10.00
