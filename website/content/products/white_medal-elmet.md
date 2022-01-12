@@ -6,7 +6,7 @@ categories:
 - Vinyl
 - Cassette
 - CD
-date: '2021-11-30T13:35:50'
+date: '2022-01-12T06:00:44'
 draft: false
 images:
 - /images/covers/white_medal-elmet.jpg

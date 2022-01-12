@@ -1,10 +1,10 @@
 ---
-actualPrice: $25.00
+actualPrice: $25.00 - 28.00
 album: Emissary and Vessel
 artist: The Holy Flesh
 categories:
 - Vinyl
-date: '2021-11-30T13:35:27'
+date: '2022-01-12T06:07:45'
 draft: false
 images:
 - /images/covers/the_holy_flesh-emissary_and_vessel.jpg
@@ -15,4 +15,4 @@ title: The Holy Flesh - Emissary and Vessel
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=12174&sort=pd.name&order=ASC) for $25.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=19105&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=19105&sort=pd.name&order=ASC) for $28.00

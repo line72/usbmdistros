@@ -4,7 +4,7 @@ album: Ildjarn
 artist: iLDjARN
 categories:
 - Vinyl
-date: '2021-11-30T13:35:20'
+date: '2022-01-12T06:07:15'
 draft: false
 images:
 - /images/covers/ildjarn-ildjarn.jpg
@@ -17,3 +17,4 @@ title: iLDjARN - Ildjarn
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/ildjarn-ildjarn-2xlp) for $32.00 :: Clear 2021 press vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=16758&sort=pd.name&order=ASC) for $30.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=16857&sort=pd.name&order=ASC) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=20230&sort=pd.name&order=ASC) for $30.00
