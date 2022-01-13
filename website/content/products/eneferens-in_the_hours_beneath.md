@@ -1,10 +1,10 @@
 ---
-actualPrice: $29.00
+actualPrice: $32.00
 album: In The Hours Beneath
 artist: Eneferens
 categories:
 - Vinyl
-date: '2021-07-11T20:52:21'
+date: '2022-01-13T06:14:54'
 draft: false
 images:
 - /images/covers/eneferens-in_the_hours_beneath.png
@@ -14,4 +14,4 @@ title: Eneferens - In The Hours Beneath
 ---
 
 ## Vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/eneferens-in-the-hours-beneath) for $29.00 :: Transparent Gray Smoke 1st press vinyl
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/eneferens-in-the-hours-beneath) for $32.00 :: Transparent Gray Smoke 1st press vinyl

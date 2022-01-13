@@ -1,10 +1,11 @@
 ---
-actualPrice: $20.00
+actualPrice: $10.00 - 20.00
 album: Voice of Opprobrium
 artist: Runespell
 categories:
 - Vinyl
-date: '2021-11-30T13:35:25'
+- CD
+date: '2022-01-13T06:10:12'
 draft: false
 images:
 - /images/covers/runespell-voice_of_opprobrium.jpg
@@ -15,3 +16,5 @@ title: Runespell - Voice of Opprobrium
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=15908&sort=pd.name&order=ASC) for $20.00
+## CD
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=20261&sort=pd.name&order=ASC) for $10.00
