@@ -5,7 +5,8 @@ artist: Nocturnal
 categories:
 - Vinyl
 - Cassette
-date: '2022-01-14T06:09:44'
+- CD
+date: '2022-01-15T06:09:23'
 draft: false
 images:
 - /images/covers/nocturnal-serpent_death.jpg
@@ -18,3 +19,5 @@ title: Nocturnal - Serpent Death
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=20300&sort=pd.name&order=ASC) for $25.00
 ## Cassette
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=20298&sort=pd.name&order=ASC) for $10.00
+## CD
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=20310&sort=pd.name&order=ASC) for $12.00
