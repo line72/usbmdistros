@@ -5,7 +5,7 @@ artist: Herxheim
 categories:
 - Vinyl
 - CD
-date: '2021-11-30T13:35:40'
+date: '2022-01-16T06:07:26'
 draft: false
 images:
 - /images/covers/herxheim-incised_arrival.jpg
@@ -16,5 +16,6 @@ title: Herxheim - Incised Arrival
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=16189&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=20323&sort=pd.name&order=ASC) for $20.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=9840&sort=pd.name&order=ASC) for $10.00
