@@ -4,7 +4,7 @@ album: The Black Crest of Death, The Gold Wreath of War
 artist: Departure Chandelier
 categories:
 - Vinyl
-date: '2021-08-27T19:36:17'
+date: '2022-01-18T06:00:38'
 draft: false
 images:
 - /images/covers/departure_chandelier-the_black_crest_of_death,_the_gold_wreath_of_war.jpg
