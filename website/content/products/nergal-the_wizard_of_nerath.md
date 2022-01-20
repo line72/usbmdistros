@@ -5,7 +5,7 @@ artist: Nergal
 categories:
 - Vinyl
 - CD
-date: '2021-11-30T13:35:44'
+date: '2022-01-20T06:08:58'
 draft: false
 images:
 - /images/covers/nergal-the_wizard_of_nerath.jpg
@@ -18,5 +18,7 @@ title: Nergal - The Wizard of Nerath
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=14878&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=16792&sort=pd.name&order=ASC) for $20.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=16903&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=20439&sort=pd.name&order=ASC) for $20.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=11883&sort=pd.name&order=ASC) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=20438&sort=pd.name&order=ASC) for $10.00
