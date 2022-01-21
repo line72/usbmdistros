@@ -4,7 +4,7 @@ album: Rehearsal
 artist: Order of Darkness
 categories:
 - Cassette
-date: '2022-01-08T06:00:45'
+date: '2022-01-21T06:00:45'
 draft: false
 images:
 - /images/covers/order_of_darkness-rehearsal.jpg

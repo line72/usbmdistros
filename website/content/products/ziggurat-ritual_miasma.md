@@ -4,7 +4,7 @@ album: Ritual Miasma
 artist: Ziggurat
 categories:
 - Vinyl
-date: '2021-11-30T13:35:30'
+date: '2022-01-21T06:13:39'
 draft: false
 images:
 - /images/covers/ziggurat-ritual_miasma.jpg
@@ -15,5 +15,5 @@ title: Ziggurat - Ritual Miasma
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=5947&sort=pd.name&order=ASC) for $17.00
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/ziggurat-ritual-miasma) for $18.00 :: Black 1st press
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/ziggurat-ritual-miasma) for $19.00 :: Black 1st press
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/ziggurat-ritual-miasma) for $20.00 :: Bronze/Grey 1st press
