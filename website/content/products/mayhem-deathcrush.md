@@ -6,7 +6,7 @@ categories:
 - Vinyl
 - Cassette
 - CD
-date: '2022-01-05T06:06:59'
+date: '2022-01-22T06:09:36'
 draft: false
 images:
 - /images/covers/mayhem-deathcrush.jpg
@@ -25,5 +25,6 @@ title: Mayhem - Deathcrush
 * Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/mayhem-deathcrush-cassette/) for $11.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=17549&sort=pd.name&order=ASC) for $12.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=19406&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=20493&sort=pd.name&order=ASC) for $12.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=13681&sort=pd.name&order=ASC) for $10.00

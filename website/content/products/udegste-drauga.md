@@ -1,10 +1,10 @@
 ---
-actualPrice: $11.00
+actualPrice: $11.00 - 12.00
 album: Drauga
 artist: Udegste
 categories:
 - Cassette
-date: '2022-01-16T06:00:45'
+date: '2022-01-22T06:09:48'
 draft: false
 images:
 - /images/covers/udegste-drauga.jpg
@@ -15,3 +15,4 @@ title: Udegste - Drauga
 
 ## Cassette
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/udegste-drauga-tape) for $11.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=20483&sort=pd.name&order=ASC) for $12.00
