@@ -5,7 +5,7 @@ artist: Windir
 categories:
 - Vinyl
 - Cassette
-date: '2021-12-24T06:10:52'
+date: '2022-01-23T06:12:00'
 draft: false
 images:
 - /images/covers/windir-arntor.jpg
@@ -19,7 +19,7 @@ title: Windir - Arntor
 * Purchase from [Sto'Vo'Kor Records](https://stovokor-records.com/products/windir-arntor) for $29.00
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/windir-arntor-2xlp) for $27.00 :: Black 2nd press vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/windir-arntor-2xlp) for $32.00 :: Gold 2nd press vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/windir-arntor-2xlp-1) for $27.00 :: Black 2nd press vinyl
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/windir-arntor-2xlp-1) for $29.00 :: Black 2nd press vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/windir-arntor-2xlp-1) for $49.00 :: Gold 2nd press vinyl
 ## Cassette
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/windir-arntor-cassette) for $13.00 :: Cassette Tape 2021 press

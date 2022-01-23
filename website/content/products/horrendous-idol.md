@@ -1,10 +1,10 @@
 ---
-actualPrice: $22.00
+actualPrice: $25.00
 album: Idol
 artist: Horrendous
 categories:
 - Vinyl
-date: '2021-07-27T05:09:29'
+date: '2022-01-23T06:13:03'
 draft: false
 images:
 - /images/covers/horrendous-idol.jpg
@@ -14,4 +14,4 @@ title: Horrendous - Idol
 ---
 
 ## Vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/horrendous-idol-lp) for $22.00 :: Coke Bottle Green 2021 press vinyl
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/horrendous-idol-lp) for $25.00 :: Coke Bottle Green 2021 press vinyl
