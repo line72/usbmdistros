@@ -5,7 +5,7 @@ artist: Dark Funeral
 categories:
 - Vinyl
 - CD
-date: '2021-12-30T06:08:44'
+date: '2022-01-25T06:08:43'
 draft: false
 images:
 - /images/covers/dark_funeral-the_secrets_of_the_black_arts.jpg
@@ -19,3 +19,4 @@ title: Dark Funeral - The Secrets Of The Black Arts
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/dark-funeral-the-secrets-of-the-black-arts-lp) for $27.00 :: Marble 2021 press vinyl
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=20099&sort=pd.name&order=ASC) for $17.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=20543&sort=pd.name&order=ASC) for $17.00

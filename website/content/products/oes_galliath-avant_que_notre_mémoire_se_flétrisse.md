@@ -4,7 +4,7 @@ album: "Avant Que Notre M\xE9moire Se Fl\xE9trisse"
 artist: Oes Galliath
 categories:
 - Vinyl
-date: '2021-10-01T05:00:24'
+date: '2022-01-24T06:00:19'
 draft: false
 images:
 - "/images/covers/oes_galliath-avant_que_notre_m\xE9moire_se_fl\xE9trisse.png"

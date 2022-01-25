@@ -4,7 +4,7 @@ album: Rites of Murder and Sacrifice
 artist: Werewolf Bloodorder
 categories:
 - CD
-date: '2021-06-26T15:03:08'
+date: '2022-01-24T06:00:45'
 draft: false
 images:
 - /images/covers/werewolf_bloodorder-rites_of_murder_and_sacrifice.jpg

@@ -4,7 +4,7 @@ album: Runebomme
 artist: Noaidi
 categories:
 - Vinyl
-date: '2022-01-11T06:07:46'
+date: '2022-01-24T06:00:18'
 draft: false
 images:
 - /images/covers/noaidi-runebomme.jpg
