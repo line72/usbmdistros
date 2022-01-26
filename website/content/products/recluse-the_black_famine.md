@@ -1,11 +1,11 @@
 ---
-actualPrice: $5.00 - 10.00
+actualPrice: $5.00 - 12.00
 album: The Black Famine
 artist: Recluse
 categories:
 - Cassette
 - CD
-date: '2021-11-30T13:35:45'
+date: '2022-01-26T06:08:48'
 draft: false
 images:
 - /images/covers/recluse-the_black_famine.png
@@ -18,3 +18,4 @@ title: Recluse - The Black Famine
 * Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/recluse-the-black-famine-cassette/) for $5.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=15393&sort=pd.name&order=ASC) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=20584&sort=pd.name&order=ASC) for $12.00

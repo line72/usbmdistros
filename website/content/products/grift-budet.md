@@ -5,7 +5,7 @@ artist: Grift
 categories:
 - Vinyl
 - CD
-date: '2021-11-30T13:35:19'
+date: '2022-01-26T06:08:21'
 draft: false
 images:
 - /images/covers/grift-budet.jpg
@@ -18,3 +18,4 @@ title: Grift - Budet
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=14963&sort=pd.name&order=ASC) for $22.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=7667&sort=pd.name&order=ASC) for $9.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=20574&sort=pd.name&order=ASC) for $12.00

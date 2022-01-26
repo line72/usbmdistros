@@ -1,11 +1,11 @@
 ---
-actualPrice: $10.00 - 29.00
+actualPrice: $12.00 - 29.00
 album: The Tides of Blood
 artist: Ceremonial Bloodbath
 categories:
 - Vinyl
 - CD
-date: '2021-07-11T20:52:29'
+date: '2022-01-26T06:08:02'
 draft: false
 images:
 - /images/covers/ceremonial_bloodbath-the_tides_of_blood.jpg
@@ -18,4 +18,4 @@ title: Ceremonial Bloodbath - The Tides of Blood
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/ceremonial-bloodbath-the-tides-of-blood-lp) for $25.00 :: Black 1st press vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/ceremonial-bloodbath-the-tides-of-blood-lp) for $29.00 :: Red w/ Black Marble 1st press vinyl
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=15400&sort=pd.name&order=ASC) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=15400&sort=pd.name&order=ASC) for $12.00

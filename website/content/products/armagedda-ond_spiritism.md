@@ -5,7 +5,8 @@ artist: Armagedda
 categories:
 - Vinyl
 - Cassette
-date: '2021-11-30T13:35:51'
+- CD
+date: '2022-01-26T06:07:55'
 draft: false
 images:
 - /images/covers/armagedda-ond_spiritism.jpg
@@ -18,3 +19,5 @@ title: Armagedda - Ond Spiritism
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=9996&sort=pd.name&order=ASC) for $22.00
 ## Cassette
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=14583&sort=pd.name&order=ASC) for $10.00
+## CD
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=20581&sort=pd.name&order=ASC) for $12.00
