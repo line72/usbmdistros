@@ -5,7 +5,7 @@ artist: Valac
 categories:
 - Vinyl
 - CD
-date: '2021-11-30T13:35:28'
+date: '2022-01-29T06:00:24'
 draft: false
 images:
 - /images/covers/valac-burning_dawn_of_vengeance.jpg
