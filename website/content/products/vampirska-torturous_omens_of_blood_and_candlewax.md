@@ -1,10 +1,11 @@
 ---
-actualPrice: $15.00
+actualPrice: $15.00 - 35.00
 album: Torturous Omens of Blood and Candlewax
 artist: Vampirska
 categories:
+- Vinyl
 - CD
-date: '2021-06-26T15:03:07'
+date: '2022-02-02T06:00:25'
 draft: false
 images:
 - /images/covers/vampirska-torturous_omens_of_blood_and_candlewax.jpg
@@ -13,5 +14,7 @@ thumbnailImage: /images/covers/vampirska-torturous_omens_of_blood_and_candlewax-
 title: Vampirska - Torturous Omens of Blood and Candlewax
 ---
 
+## Vinyl
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/vampirska-torturous-omens-of-blood-and-candlewax-12-lp) for $35.00
 ## CD
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/vampirska-torturous-omens-of-blood-and-candlewax-cd) for $15.00
