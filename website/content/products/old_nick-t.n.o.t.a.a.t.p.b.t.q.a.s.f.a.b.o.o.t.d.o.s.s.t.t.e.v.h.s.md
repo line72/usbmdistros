@@ -4,7 +4,7 @@ album: T.N.O.T.A.A.T.P.B.T.Q.A.S.F.A.B.O.O.T.D.O.S.S.T.T.E.V.H.S
 artist: Old Nick
 categories:
 - Vinyl
-date: '2022-01-12T06:00:25'
+date: '2022-02-04T06:00:19'
 draft: false
 images:
 - /images/covers/old_nick-t.n.o.t.a.a.t.p.b.t.q.a.s.f.a.b.o.o.t.d.o.s.s.t.t.e.v.h.s.jpg
