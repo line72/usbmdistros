@@ -4,7 +4,7 @@ album: Under a Funeral Moon
 artist: Darkthrone
 categories:
 - Vinyl
-date: '2021-11-25T06:07:45'
+date: '2022-02-08T06:07:40'
 draft: false
 images:
 - /images/covers/darkthrone-under_a_funeral_moon.jpg
@@ -19,3 +19,4 @@ title: Darkthrone - Under a Funeral Moon
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=18772&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=19194&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=19413&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=20727&sort=pd.name&order=ASC) for $25.00

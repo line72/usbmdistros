@@ -4,7 +4,7 @@ album: Svartalvheim
 artist: Ancient
 categories:
 - Vinyl
-date: '2022-01-22T06:06:45'
+date: '2022-02-08T06:07:27'
 draft: false
 images:
 - /images/covers/ancient-svartalvheim.jpg
@@ -18,3 +18,4 @@ title: Ancient - Svartalvheim
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=18858&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=20236&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=20485&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=20740&sort=pd.name&order=ASC) for $25.00

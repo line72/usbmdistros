@@ -4,7 +4,7 @@ album: Seven Oracles
 artist: Nexion
 categories:
 - Vinyl
-date: '2022-01-27T06:11:48'
+date: '2022-02-08T06:12:31'
 draft: false
 images:
 - /images/covers/nexion-seven_oracles.jpg
@@ -14,4 +14,4 @@ title: Nexion - Seven Oracles
 ---
 
 ## Vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/nexion-seven-oracles-lp) for $25.00 :: White/Black Marble 2020 press vinyl
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/nexion-seven-oracles-lp) for $25.00 :: Marble 2020 press vinyl

@@ -4,7 +4,7 @@ album: Voices From the Vast Void
 artist: Darkstorm
 categories:
 - Vinyl
-date: '2021-06-26T15:02:58'
+date: '2022-02-08T06:00:57'
 draft: false
 images:
 - /images/covers/darkstorm-voices_from_the_vast_void.jpg

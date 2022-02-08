@@ -5,7 +5,7 @@ artist: Blut Aus Nord
 categories:
 - Vinyl
 - Cassette
-date: '2021-11-16T14:06:49'
+date: '2022-02-08T06:00:53'
 draft: false
 images:
 - /images/covers/blut_aus_nord-thematic_emanation_of_archetypal_multiplicity.jpg
