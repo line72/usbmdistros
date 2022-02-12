@@ -1,10 +1,11 @@
 ---
-actualPrice: $14.00
+actualPrice: $12.00 - 14.00
 album: The Black Temple of Omniscient Manipulation
 artist: Virulent Specter
 categories:
+- Cassette
 - CD
-date: '2022-02-09T06:01:09'
+date: '2022-02-12T06:10:19'
 draft: false
 images:
 - /images/covers/virulent_specter-the_black_temple_of_omniscient_manipulation.jpg
@@ -13,5 +14,7 @@ thumbnailImage: /images/covers/virulent_specter-the_black_temple_of_omniscient_m
 title: Virulent Specter - The Black Temple of Omniscient Manipulation
 ---
 
+## Cassette
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=20843&sort=pd.name&order=ASC) for $12.00
 ## CD
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/virulent-specter-the-black-temple-of-omniscient-manipulation-cd) for $14.00

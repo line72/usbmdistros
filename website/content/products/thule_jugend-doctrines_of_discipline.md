@@ -7,9 +7,9 @@ categories:
 date: '2021-08-17T13:15:22'
 draft: false
 images:
-- /images/covers/thule_jugend-doctrines_of_discipline.png
+- /images/covers/thule_jugend-doctrines_of_discipline.jpg
 inStock: true
-thumbnailImage: /images/covers/thule_jugend-doctrines_of_discipline-thumb.png
+thumbnailImage: /images/covers/thule_jugend-doctrines_of_discipline-thumb.jpg
 title: Thule Jugend - Doctrines of Discipline
 ---
 

@@ -6,7 +6,7 @@ categories:
 - Vinyl
 - Cassette
 - CD
-date: '2021-11-16T14:07:14'
+date: '2022-02-12T06:07:28'
 draft: false
 images:
 - /images/covers/goatpenis-decapitation_philosophy.jpg
@@ -17,6 +17,7 @@ title: Goatpenis - Decapitation Philosophy
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=11936&sort=pd.name&order=ASC) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=20831&sort=pd.name&order=ASC) for $25.00
 ## Cassette
 * Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/31981177-goatpenis-decapitation-philosophy) for $7.50
 ## CD

@@ -6,7 +6,7 @@ categories:
 - Vinyl
 - Cassette
 - CD
-date: '2022-01-08T06:00:52'
+date: '2022-02-12T06:08:57'
 draft: false
 images:
 - "/images/covers/g\xE4rg\xE4ntu\xE4h-urmystyk.jpg"
@@ -22,3 +22,4 @@ title: "G\xE4rg\xE4ntu\xE4h - Urmystyk"
 ## CD
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/gargantuah-urmystyk-cd) for $14.00
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/gargantuah-urmystyk-cd) for $14.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=20823&sort=pd.name&order=ASC) for $12.00
