@@ -4,7 +4,7 @@ album: Remains of a Ruined, Dead, Cursed Soul
 artist: "M\xFCtiilation"
 categories:
 - Vinyl
-date: '2021-12-28T06:00:30'
+date: '2022-02-14T06:00:51'
 draft: false
 images:
 - "/images/covers/m\xFCtiilation-remains_of_a_ruined,_dead,_cursed_soul.jpg"
