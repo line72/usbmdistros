@@ -4,7 +4,7 @@ album: Gift of the Night
 artist: Nocturnal Wanderer
 categories:
 - Vinyl
-date: '2022-02-08T06:08:11'
+date: '2022-02-15T06:08:01'
 draft: false
 images:
 - /images/covers/nocturnal_wanderer-gift_of_the_night.png
@@ -15,3 +15,4 @@ title: Nocturnal Wanderer - Gift of the Night
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=20745&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=20859&sort=pd.name&order=ASC) for $25.00
