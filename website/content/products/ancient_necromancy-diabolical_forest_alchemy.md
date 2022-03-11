@@ -4,7 +4,7 @@ album: Diabolical Forest Alchemy
 artist: Ancient Necromancy
 categories:
 - Cassette
-date: '2021-12-24T06:08:42'
+date: '2022-02-22T06:09:34'
 draft: false
 images:
 - /images/covers/ancient_necromancy-diabolical_forest_alchemy.jpg
@@ -15,3 +15,4 @@ title: Ancient Necromancy - Diabolical Forest Alchemy
 
 ## Cassette
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=19855&sort=pd.name&order=ASC) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=13930&sort=pd.name&order=ASC) for $10.00

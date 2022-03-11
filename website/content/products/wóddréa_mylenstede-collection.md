@@ -4,7 +4,7 @@ album: Collection
 artist: "W\xF3ddr\xE9a Mylenstede"
 categories:
 - CD
-date: '2021-06-26T15:23:18'
+date: '2022-03-02T06:00:56'
 draft: false
 images:
 - "/images/covers/w\xF3ddr\xE9a_mylenstede-collection.jpg"

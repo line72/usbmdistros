@@ -1,10 +1,11 @@
 ---
-actualPrice: $17.00
+actualPrice: $12.00 - 25.00
 album: "Utols\xF3 V\xE1gta az Univerzumban"
 artist: Siculicidium
 categories:
 - Vinyl
-date: '2021-11-30T13:35:26'
+- CD
+date: '2022-03-02T06:09:50'
 draft: false
 images:
 - "/images/covers/siculicidium-utols\xF3_v\xE1gta_az_univerzumban.jpg"
@@ -15,3 +16,6 @@ title: "Siculicidium - Utols\xF3 V\xE1gta az Univerzumban"
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=8806&sort=pd.name&order=ASC) for $17.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=21150&sort=pd.name&order=ASC) for $25.00
+## CD
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=21163&sort=pd.name&order=ASC) for $12.00

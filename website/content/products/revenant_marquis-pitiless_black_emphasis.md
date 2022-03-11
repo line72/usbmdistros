@@ -1,10 +1,11 @@
 ---
-actualPrice: $15.00
+actualPrice: $15.00 - 30.00
 album: Pitiless Black Emphasis
 artist: Revenant Marquis
 categories:
+- Vinyl
 - CD
-date: '2021-06-26T15:03:08'
+date: '2022-03-05T06:00:30'
 draft: false
 images:
 - /images/covers/revenant_marquis-pitiless_black_emphasis.jpg
@@ -13,5 +14,7 @@ thumbnailImage: /images/covers/revenant_marquis-pitiless_black_emphasis-thumb.jp
 title: Revenant Marquis - Pitiless Black Emphasis
 ---
 
+## Vinyl
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/revenant-marquis-pitiless-black-emphasis-12-lp) for $30.00
 ## CD
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/revenant-marquis-pitiless-black-emphasis-cd) for $15.00

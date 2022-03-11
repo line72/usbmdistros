@@ -6,7 +6,7 @@ categories:
 - Vinyl
 - Cassette
 - CD
-date: '2021-12-10T06:07:02'
+date: '2022-03-02T06:08:33'
 draft: false
 images:
 - "/images/covers/wagner_\xF6deg\xE5rd-om_underg\xE5ng_och_de_tretton_j\xE4rtekn.jpg"
@@ -20,6 +20,8 @@ title: "Wagner \xD6deg\xE5rd - Om Underg\xE5ng Och De Tretton J\xE4rtekn"
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=18575&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=19397&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=19597&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=21172&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=21173&sort=pd.name&order=ASC) for $25.00
 ## Cassette
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=18452&sort=pd.name&order=ASC) for $12.00
 ## CD

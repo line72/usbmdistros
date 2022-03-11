@@ -4,7 +4,7 @@ album: Hammerheart
 artist: Bathory
 categories:
 - Vinyl
-date: '2021-07-07T15:39:53'
+date: '2022-03-01T06:06:45'
 draft: false
 images:
 - /images/covers/bathory-hammerheart.jpg
@@ -15,3 +15,4 @@ title: Bathory - Hammerheart
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=16595&sort=pd.name&order=ASC) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=21125&sort=pd.name&order=ASC) for $30.00

@@ -5,7 +5,7 @@ artist: (DOLCH)
 categories:
 - Vinyl
 - CD
-date: '2022-01-12T06:06:46'
+date: '2022-02-18T06:08:20'
 draft: false
 images:
 - /images/covers/(dolch)-tonight.jpg
@@ -17,5 +17,7 @@ title: (DOLCH) - Tonight
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=18852&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=20240&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=20929&sort=pd.name&order=ASC) for $25.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=18855&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=20930&sort=pd.name&order=ASC) for $15.00

@@ -4,7 +4,8 @@ album: Mouth of Extinction
 artist: Ruho
 categories:
 - Vinyl
-date: '2021-08-17T13:15:24'
+- CD
+date: '2022-03-11T16:59:56'
 draft: false
 images:
 - /images/covers/ruho-mouth_of_extinction.jpg
@@ -16,3 +17,5 @@ title: Ruho - Mouth of Extinction
 ## Vinyl
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/ruho-mouth-of-extinction-12-mlp) for $17.00
 * Purchase from [CW Productions](https://shop.cwproductions.net/products/ruho-mouth-of-extinction-lp) for $10.00
+## CD
+* Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/ruho-mouth-of-extinction-cd-in-cloth-bag/) for $10.00

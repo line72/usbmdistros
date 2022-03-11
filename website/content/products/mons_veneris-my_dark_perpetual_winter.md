@@ -5,7 +5,7 @@ artist: Mons Veneris
 categories:
 - Vinyl
 - CD
-date: '2021-06-26T15:03:07'
+date: '2022-03-03T06:00:39'
 draft: false
 images:
 - /images/covers/mons_veneris-my_dark_perpetual_winter.jpg

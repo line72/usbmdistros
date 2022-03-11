@@ -4,7 +4,7 @@ album: Split
 artist: Crypts of Wallachia / Effroi
 categories:
 - Vinyl
-date: '2021-06-26T15:02:58'
+date: '2022-02-25T06:00:41'
 draft: false
 images:
 - /images/covers/crypts_of_wallachia_-_effroi-split.jpg

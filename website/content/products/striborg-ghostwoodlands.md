@@ -5,7 +5,7 @@ artist: Striborg
 categories:
 - Vinyl
 - Cassette
-date: '2021-11-30T13:35:56'
+date: '2022-03-06T06:00:31'
 draft: false
 images:
 - /images/covers/striborg-ghostwoodlands.png

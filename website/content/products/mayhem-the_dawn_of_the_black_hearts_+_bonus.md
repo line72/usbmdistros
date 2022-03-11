@@ -1,10 +1,10 @@
 ---
-actualPrice: $10.00
+actualPrice: $10.00 - 12.00
 album: The Dawn of the Black Hearts + Bonus
 artist: Mayhem
 categories:
 - CD
-date: '2021-09-08T05:07:10'
+date: '2022-02-28T06:09:04'
 draft: false
 images:
 - /images/covers/mayhem-the_dawn_of_the_black_hearts_+_bonus.jpg
@@ -15,3 +15,5 @@ title: Mayhem - The Dawn of the Black Hearts + Bonus
 
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=17464&sort=pd.name&order=ASC) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=21053&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=21093&sort=pd.name&order=ASC) for $12.00

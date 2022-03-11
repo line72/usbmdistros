@@ -5,7 +5,7 @@ artist: Vetala
 categories:
 - Vinyl
 - Cassette
-date: '2021-10-14T18:54:12'
+date: '2022-03-04T06:00:38'
 draft: false
 images:
 - /images/covers/vetala-satanic_morbid_metal.jpg

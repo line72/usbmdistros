@@ -4,7 +4,7 @@ album: Awakening a New Era of Darkness
 artist: Baal Gadrial
 categories:
 - CD
-date: '2021-11-29T20:11:17'
+date: '2022-03-04T06:00:53'
 draft: false
 images:
 - /images/covers/baal_gadrial-awakening_a_new_era_of_darkness.jpg

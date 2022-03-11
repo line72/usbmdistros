@@ -5,7 +5,7 @@ artist: Malokarpatan
 categories:
 - Vinyl
 - CD
-date: '2021-11-25T06:08:14'
+date: '2022-02-17T06:09:09'
 draft: false
 images:
 - "/images/covers/malokarpatan-strid\u017Eie_dni.jpg"
@@ -20,3 +20,4 @@ title: "Malokarpatan - Strid\u017Eie dni"
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=17478&sort=pd.name&order=ASC) for $10.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=17634&sort=pd.name&order=ASC) for $8.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=20919&sort=pd.name&order=ASC) for $15.00

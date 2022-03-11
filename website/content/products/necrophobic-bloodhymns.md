@@ -4,7 +4,7 @@ album: Bloodhymns
 artist: Necrophobic
 categories:
 - Vinyl
-date: '2022-01-19T06:07:39'
+date: '2022-03-08T06:08:15'
 draft: false
 images:
 - /images/covers/necrophobic-bloodhymns.jpg
@@ -17,3 +17,4 @@ title: Necrophobic - Bloodhymns
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=18315&sort=pd.name&order=ASC) for $25.00
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/necrophobic-bloodhymns-lp) for $29.00 :: Black 2018 press vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=20409&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=21348&sort=pd.name&order=ASC) for $25.00

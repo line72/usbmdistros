@@ -4,7 +4,7 @@ album: Demo II
 artist: Mors Atra Crucis
 categories:
 - Cassette
-date: '2021-11-16T14:05:09'
+date: '2022-02-19T06:00:41'
 draft: false
 images:
 - /images/covers/mors_atra_crucis-demo_ii.jpg

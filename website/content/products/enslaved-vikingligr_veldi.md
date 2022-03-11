@@ -1,10 +1,10 @@
 ---
-actualPrice: $20.00
+actualPrice: $20.00 - 35.00
 album: Vikingligr Veldi
 artist: Enslaved
 categories:
 - Vinyl
-date: '2021-09-14T05:08:26'
+date: '2022-03-11T06:07:30'
 draft: false
 images:
 - /images/covers/enslaved-vikingligr_veldi.jpg
@@ -15,3 +15,5 @@ title: Enslaved - Vikingligr Veldi
 
 ## Vinyl
 * Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/enslaved-vikingligr-veldi-12-gatefold-double-lp-silver/) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=21431&sort=pd.name&order=ASC) for $35.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=21445&sort=pd.name&order=ASC) for $35.00

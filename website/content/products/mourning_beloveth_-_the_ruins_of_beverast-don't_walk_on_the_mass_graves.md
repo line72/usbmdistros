@@ -1,10 +1,10 @@
 ---
-actualPrice: $22.00
+actualPrice: $23.00
 album: Don't Walk On The Mass Graves
 artist: Mourning Beloveth / The Ruins Of Beverast
 categories:
 - Vinyl
-date: '2021-07-11T20:52:21'
+date: '2022-03-11T17:03:04'
 draft: false
 images:
 - /images/covers/mourning_beloveth_-_the_ruins_of_beverast-don't_walk_on_the_mass_graves.png
@@ -14,4 +14,4 @@ title: Mourning Beloveth / The Ruins Of Beverast - Don't Walk On The Mass Graves
 ---
 
 ## Vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/mourning-beverast-mass-graves) for $22.00 :: Dark Red 2020 press vinyl
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/mourning-beverast-mass-graves) for $23.00 :: Dark Red 2020 press vinyl
