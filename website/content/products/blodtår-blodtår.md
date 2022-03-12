@@ -5,7 +5,7 @@ artist: "Blodt\xE5r"
 categories:
 - Vinyl
 - CD
-date: '2022-02-13T06:08:50'
+date: '2022-03-12T06:07:23'
 draft: false
 images:
 - "/images/covers/blodt\xE5r-blodt\xE5r.jpg"
@@ -16,5 +16,6 @@ title: "Blodt\xE5r - Blodt\xE5r"
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=20852&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=21490&sort=pd.name&order=ASC) for $25.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=20851&sort=pd.name&order=ASC) for $12.00

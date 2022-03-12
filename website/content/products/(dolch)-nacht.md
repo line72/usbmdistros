@@ -7,9 +7,9 @@ categories:
 date: '2022-02-18T06:06:57'
 draft: false
 images:
-- /images/covers/(dolch)-nacht.png
+- /images/covers/(dolch)-nacht.jpg
 inStock: true
-thumbnailImage: /images/covers/(dolch)-nacht-thumb.png
+thumbnailImage: /images/covers/(dolch)-nacht-thumb.jpg
 title: (DOLCH) - Nacht
 ---
 

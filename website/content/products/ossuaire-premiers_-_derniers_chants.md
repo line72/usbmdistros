@@ -7,9 +7,9 @@ categories:
 date: '2022-02-28T06:10:00'
 draft: false
 images:
-- /images/covers/ossuaire-premiers_-_derniers_chants.png
+- /images/covers/ossuaire-premiers_-_derniers_chants.jpg
 inStock: true
-thumbnailImage: /images/covers/ossuaire-premiers_-_derniers_chants-thumb.png
+thumbnailImage: /images/covers/ossuaire-premiers_-_derniers_chants-thumb.jpg
 title: Ossuaire - Premiers / Derniers Chants
 ---
 

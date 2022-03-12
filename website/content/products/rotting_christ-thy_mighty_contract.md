@@ -7,9 +7,9 @@ categories:
 date: '2022-03-11T06:08:01'
 draft: false
 images:
-- /images/covers/rotting_christ-thy_mighty_contract.png
+- /images/covers/rotting_christ-thy_mighty_contract.jpg
 inStock: true
-thumbnailImage: /images/covers/rotting_christ-thy_mighty_contract-thumb.png
+thumbnailImage: /images/covers/rotting_christ-thy_mighty_contract-thumb.jpg
 title: Rotting Christ - Thy Mighty Contract
 ---
 

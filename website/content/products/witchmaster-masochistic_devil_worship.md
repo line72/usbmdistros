@@ -7,9 +7,9 @@ categories:
 date: '2022-03-11T16:59:56'
 draft: false
 images:
-- /images/covers/witchmaster-masochistic_devil_worship.png
+- /images/covers/witchmaster-masochistic_devil_worship.jpg
 inStock: true
-thumbnailImage: /images/covers/witchmaster-masochistic_devil_worship-thumb.png
+thumbnailImage: /images/covers/witchmaster-masochistic_devil_worship-thumb.jpg
 title: Witchmaster - Masochistic Devil Worship
 ---
 

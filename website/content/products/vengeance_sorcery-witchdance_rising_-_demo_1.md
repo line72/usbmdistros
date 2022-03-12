@@ -7,9 +7,9 @@ categories:
 date: '2022-03-04T06:10:08'
 draft: false
 images:
-- /images/covers/vengeance_sorcery-witchdance_rising_-_demo_1.png
+- /images/covers/vengeance_sorcery-witchdance_rising_-_demo_1.jpg
 inStock: true
-thumbnailImage: /images/covers/vengeance_sorcery-witchdance_rising_-_demo_1-thumb.png
+thumbnailImage: /images/covers/vengeance_sorcery-witchdance_rising_-_demo_1-thumb.jpg
 title: Vengeance Sorcery - Witchdance Rising - Demo 1
 ---
 

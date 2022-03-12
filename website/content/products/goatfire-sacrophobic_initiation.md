@@ -7,9 +7,9 @@ categories:
 date: '2022-03-11T16:59:56'
 draft: false
 images:
-- /images/covers/goatfire-sacrophobic_initiation.png
+- /images/covers/goatfire-sacrophobic_initiation.jpg
 inStock: true
-thumbnailImage: /images/covers/goatfire-sacrophobic_initiation-thumb.png
+thumbnailImage: /images/covers/goatfire-sacrophobic_initiation-thumb.jpg
 title: Goatfire - Sacrophobic Initiation
 ---
 

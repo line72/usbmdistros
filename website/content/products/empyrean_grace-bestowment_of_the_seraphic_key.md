@@ -7,9 +7,9 @@ categories:
 date: '2022-02-27T06:00:31'
 draft: false
 images:
-- /images/covers/empyrean_grace-bestowment_of_the_seraphic_key.png
+- /images/covers/empyrean_grace-bestowment_of_the_seraphic_key.jpg
 inStock: true
-thumbnailImage: /images/covers/empyrean_grace-bestowment_of_the_seraphic_key-thumb.png
+thumbnailImage: /images/covers/empyrean_grace-bestowment_of_the_seraphic_key-thumb.jpg
 title: Empyrean Grace - Bestowment of the Seraphic Key
 ---
 

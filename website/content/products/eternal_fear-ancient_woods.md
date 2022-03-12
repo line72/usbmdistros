@@ -7,9 +7,9 @@ categories:
 date: '2022-03-05T06:00:29'
 draft: false
 images:
-- /images/covers/eternal_fear-ancient_woods.png
+- /images/covers/eternal_fear-ancient_woods.jpg
 inStock: true
-thumbnailImage: /images/covers/eternal_fear-ancient_woods-thumb.png
+thumbnailImage: /images/covers/eternal_fear-ancient_woods-thumb.jpg
 title: Eternal Fear - Ancient Woods
 ---
 

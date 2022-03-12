@@ -7,9 +7,9 @@ categories:
 date: '2022-03-11T16:59:56'
 draft: false
 images:
-- /images/covers/gravecode_nebula-sempiternal_void_digipak.png
+- /images/covers/gravecode_nebula-sempiternal_void_digipak.jpg
 inStock: true
-thumbnailImage: /images/covers/gravecode_nebula-sempiternal_void_digipak-thumb.png
+thumbnailImage: /images/covers/gravecode_nebula-sempiternal_void_digipak-thumb.jpg
 title: Gravecode Nebula - Sempiternal Void DIGIPAK
 ---
 

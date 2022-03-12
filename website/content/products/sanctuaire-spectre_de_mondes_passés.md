@@ -7,9 +7,9 @@ categories:
 date: '2022-02-28T06:10:03'
 draft: false
 images:
-- "/images/covers/sanctuaire-spectre_de_mondes_pass\xE9s.png"
+- "/images/covers/sanctuaire-spectre_de_mondes_pass\xE9s.jpg"
 inStock: true
-thumbnailImage: "/images/covers/sanctuaire-spectre_de_mondes_pass\xE9s-thumb.png"
+thumbnailImage: "/images/covers/sanctuaire-spectre_de_mondes_pass\xE9s-thumb.jpg"
 title: "Sanctuaire - Spectre de Mondes Pass\xE9s"
 ---
 

@@ -7,9 +7,9 @@ categories:
 date: '2022-03-08T06:07:44'
 draft: false
 images:
-- /images/covers/diabolical_masquerade-ravendusk_in_my_heart.png
+- /images/covers/diabolical_masquerade-ravendusk_in_my_heart.jpg
 inStock: true
-thumbnailImage: /images/covers/diabolical_masquerade-ravendusk_in_my_heart-thumb.png
+thumbnailImage: /images/covers/diabolical_masquerade-ravendusk_in_my_heart-thumb.jpg
 title: Diabolical Masquerade - Ravendusk in My Heart
 ---
 

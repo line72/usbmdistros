@@ -7,9 +7,9 @@ categories:
 date: '2022-03-02T06:09:38'
 draft: false
 images:
-- /images/covers/nocturnal_depression-nostalgia.png
+- /images/covers/nocturnal_depression-nostalgia.jpg
 inStock: true
-thumbnailImage: /images/covers/nocturnal_depression-nostalgia-thumb.png
+thumbnailImage: /images/covers/nocturnal_depression-nostalgia-thumb.jpg
 title: Nocturnal Depression - Nostalgia
 ---
 

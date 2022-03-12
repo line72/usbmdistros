@@ -7,9 +7,9 @@ categories:
 date: '2022-02-23T06:08:32'
 draft: false
 images:
-- /images/covers/wolvennest-temple.png
+- /images/covers/wolvennest-temple.jpg
 inStock: true
-thumbnailImage: /images/covers/wolvennest-temple-thumb.png
+thumbnailImage: /images/covers/wolvennest-temple-thumb.jpg
 title: Wolvennest - Temple
 ---
 

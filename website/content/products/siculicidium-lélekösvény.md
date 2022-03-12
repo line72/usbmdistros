@@ -7,9 +7,9 @@ categories:
 date: '2022-03-02T06:09:50'
 draft: false
 images:
-- "/images/covers/siculicidium-l\xE9lek\xF6sv\xE9ny.png"
+- "/images/covers/siculicidium-l\xE9lek\xF6sv\xE9ny.jpg"
 inStock: true
-thumbnailImage: "/images/covers/siculicidium-l\xE9lek\xF6sv\xE9ny-thumb.png"
+thumbnailImage: "/images/covers/siculicidium-l\xE9lek\xF6sv\xE9ny-thumb.jpg"
 title: "Siculicidium - L\xE9lek\xF6sv\xE9ny"
 ---
 

@@ -7,9 +7,9 @@ categories:
 date: '2022-03-02T06:09:50'
 draft: false
 images:
-- "/images/covers/siculicidium-a_rothad\xF3_vir\xE1gok_sz\xEDn\xFCket_vesztik.png"
+- "/images/covers/siculicidium-a_rothad\xF3_vir\xE1gok_sz\xEDn\xFCket_vesztik.jpg"
 inStock: true
-thumbnailImage: "/images/covers/siculicidium-a_rothad\xF3_vir\xE1gok_sz\xEDn\xFCket_vesztik-thumb.png"
+thumbnailImage: "/images/covers/siculicidium-a_rothad\xF3_vir\xE1gok_sz\xEDn\xFCket_vesztik-thumb.jpg"
 title: "Siculicidium - A Rothad\xF3 Vir\xE1gok Sz\xEDn\xFCket Vesztik"
 ---
 

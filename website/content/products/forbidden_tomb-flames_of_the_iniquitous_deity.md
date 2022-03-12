@@ -7,7 +7,7 @@ categories:
 date: '2022-03-11T16:47:40'
 draft: false
 images:
-- /images/covers/forbidden_tomb-flames_of_the_iniquitous_deity.png
+- /images/covers/forbidden_tomb-flames_of_the_iniquitous_deity.jpg
 inStock: true
 thumbnailImage: /images/covers/forbidden_tomb-flames_of_the_iniquitous_deity-thumb.png
 title: Forbidden Tomb - Flames of the Iniquitous Deity

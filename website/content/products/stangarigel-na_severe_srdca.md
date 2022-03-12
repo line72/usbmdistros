@@ -7,9 +7,9 @@ categories:
 date: '2022-02-17T06:09:31'
 draft: false
 images:
-- /images/covers/stangarigel-na_severe_srdca.png
+- /images/covers/stangarigel-na_severe_srdca.jpg
 inStock: true
-thumbnailImage: /images/covers/stangarigel-na_severe_srdca-thumb.png
+thumbnailImage: /images/covers/stangarigel-na_severe_srdca-thumb.jpg
 title: Stangarigel - Na Severe Srdca
 ---
 

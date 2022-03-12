@@ -7,9 +7,9 @@ categories:
 date: '2022-02-27T06:00:53'
 draft: false
 images:
-- /images/covers/ostots-hil_argi.png
+- /images/covers/ostots-hil_argi.jpg
 inStock: true
-thumbnailImage: /images/covers/ostots-hil_argi-thumb.png
+thumbnailImage: /images/covers/ostots-hil_argi-thumb.jpg
 title: Ostots - Hil Argi
 ---
 

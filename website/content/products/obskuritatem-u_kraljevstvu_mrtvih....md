@@ -7,9 +7,9 @@ categories:
 date: '2022-03-10T06:00:50'
 draft: false
 images:
-- /images/covers/obskuritatem-u_kraljevstvu_mrtvih....png
+- /images/covers/obskuritatem-u_kraljevstvu_mrtvih....jpg
 inStock: true
-thumbnailImage: /images/covers/obskuritatem-u_kraljevstvu_mrtvih...-thumb.png
+thumbnailImage: /images/covers/obskuritatem-u_kraljevstvu_mrtvih...-thumb.jpg
 title: Obskuritatem - U Kraljevstvu Mrtvih...
 ---
 

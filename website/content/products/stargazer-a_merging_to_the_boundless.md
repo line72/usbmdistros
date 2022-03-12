@@ -7,9 +7,9 @@ categories:
 date: '2022-03-01T06:07:39'
 draft: false
 images:
-- /images/covers/stargazer-a_merging_to_the_boundless.png
+- /images/covers/stargazer-a_merging_to_the_boundless.jpg
 inStock: true
-thumbnailImage: /images/covers/stargazer-a_merging_to_the_boundless-thumb.png
+thumbnailImage: /images/covers/stargazer-a_merging_to_the_boundless-thumb.jpg
 title: StarGazer - A Merging To The Boundless
 ---
 

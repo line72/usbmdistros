@@ -8,9 +8,9 @@ categories:
 date: '2022-03-11T17:01:28'
 draft: false
 images:
-- /images/covers/darvaza-ascending_into_perdition.png
+- /images/covers/darvaza-ascending_into_perdition.jpg
 inStock: true
-thumbnailImage: /images/covers/darvaza-ascending_into_perdition-thumb.png
+thumbnailImage: /images/covers/darvaza-ascending_into_perdition-thumb.jpg
 title: Darvaza - Ascending Into Perdition
 ---
 

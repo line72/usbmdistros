@@ -7,9 +7,9 @@ categories:
 date: '2022-03-03T06:10:10'
 draft: false
 images:
-- /images/covers/morbid_sphere-arcana.png
+- /images/covers/morbid_sphere-arcana.jpg
 inStock: true
-thumbnailImage: /images/covers/morbid_sphere-arcana-thumb.png
+thumbnailImage: /images/covers/morbid_sphere-arcana-thumb.jpg
 title: Morbid Sphere - Arcana
 ---
 

@@ -7,9 +7,9 @@ categories:
 date: '2022-03-01T06:09:29'
 draft: false
 images:
-- /images/covers/blasphemy-fallen_angel_of_doom.....png
+- /images/covers/blasphemy-fallen_angel_of_doom.....jpg
 inStock: true
-thumbnailImage: /images/covers/blasphemy-fallen_angel_of_doom....-thumb.png
+thumbnailImage: /images/covers/blasphemy-fallen_angel_of_doom....-thumb.jpg
 title: Blasphemy - Fallen Angel of Doom....
 ---
 

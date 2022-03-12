@@ -7,9 +7,9 @@ categories:
 date: '2022-02-17T06:10:01'
 draft: false
 images:
-- /images/covers/krolok-funeral_winds_&_crimson_sky.png
+- /images/covers/krolok-funeral_winds_&_crimson_sky.jpg
 inStock: true
-thumbnailImage: /images/covers/krolok-funeral_winds_&_crimson_sky-thumb.png
+thumbnailImage: /images/covers/krolok-funeral_winds_&_crimson_sky-thumb.jpg
 title: Krolok - Funeral Winds & Crimson Sky
 ---
 

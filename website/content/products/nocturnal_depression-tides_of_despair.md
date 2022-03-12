@@ -7,9 +7,9 @@ categories:
 date: '2022-03-02T06:09:38'
 draft: false
 images:
-- /images/covers/nocturnal_depression-tides_of_despair.png
+- /images/covers/nocturnal_depression-tides_of_despair.jpg
 inStock: true
-thumbnailImage: /images/covers/nocturnal_depression-tides_of_despair-thumb.png
+thumbnailImage: /images/covers/nocturnal_depression-tides_of_despair-thumb.jpg
 title: Nocturnal Depression - Tides of Despair
 ---
 

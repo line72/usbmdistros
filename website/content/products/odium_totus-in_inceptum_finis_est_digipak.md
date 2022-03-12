@@ -7,9 +7,9 @@ categories:
 date: '2022-03-11T16:59:56'
 draft: false
 images:
-- /images/covers/odium_totus-in_inceptum_finis_est_digipak.png
+- /images/covers/odium_totus-in_inceptum_finis_est_digipak.jpg
 inStock: true
-thumbnailImage: /images/covers/odium_totus-in_inceptum_finis_est_digipak-thumb.png
+thumbnailImage: /images/covers/odium_totus-in_inceptum_finis_est_digipak-thumb.jpg
 title: Odium Totus - In Inceptum Finis Est DIGIPAK
 ---
 

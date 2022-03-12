@@ -7,9 +7,9 @@ categories:
 date: '2022-03-11T16:59:56'
 draft: false
 images:
-- /images/covers/vonulfsreich-spell_of_thunder_digipak.png
+- /images/covers/vonulfsreich-spell_of_thunder_digipak.jpg
 inStock: true
-thumbnailImage: /images/covers/vonulfsreich-spell_of_thunder_digipak-thumb.png
+thumbnailImage: /images/covers/vonulfsreich-spell_of_thunder_digipak-thumb.jpg
 title: Vonulfsreich - Spell of Thunder DIGIPAK
 ---
 

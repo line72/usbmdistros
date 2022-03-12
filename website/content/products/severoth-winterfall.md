@@ -7,9 +7,9 @@ categories:
 date: '2022-03-11T16:59:56'
 draft: false
 images:
-- /images/covers/severoth-winterfall.png
+- /images/covers/severoth-winterfall.jpg
 inStock: true
-thumbnailImage: /images/covers/severoth-winterfall-thumb.png
+thumbnailImage: /images/covers/severoth-winterfall-thumb.jpg
 title: Severoth - Winterfall
 ---
 

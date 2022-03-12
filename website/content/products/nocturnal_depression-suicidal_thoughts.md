@@ -7,9 +7,9 @@ categories:
 date: '2022-03-02T06:09:38'
 draft: false
 images:
-- /images/covers/nocturnal_depression-suicidal_thoughts.png
+- /images/covers/nocturnal_depression-suicidal_thoughts.jpg
 inStock: true
-thumbnailImage: /images/covers/nocturnal_depression-suicidal_thoughts-thumb.png
+thumbnailImage: /images/covers/nocturnal_depression-suicidal_thoughts-thumb.jpg
 title: Nocturnal Depression - Suicidal Thoughts
 ---
 

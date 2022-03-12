@@ -7,9 +7,9 @@ categories:
 date: '2022-03-04T06:10:08'
 draft: false
 images:
-- /images/covers/vengeance_sorcery-forbidden_doctrine_of_the_youthful_gate_-_demo_3.png
+- /images/covers/vengeance_sorcery-forbidden_doctrine_of_the_youthful_gate_-_demo_3.jpg
 inStock: true
-thumbnailImage: /images/covers/vengeance_sorcery-forbidden_doctrine_of_the_youthful_gate_-_demo_3-thumb.png
+thumbnailImage: /images/covers/vengeance_sorcery-forbidden_doctrine_of_the_youthful_gate_-_demo_3-thumb.jpg
 title: Vengeance Sorcery - Forbidden Doctrine of the Youthful Gate - Demo 3
 ---
 

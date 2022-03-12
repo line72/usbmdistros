@@ -7,9 +7,9 @@ categories:
 date: '2022-03-11T16:59:56'
 draft: false
 images:
-- /images/covers/frangar-trincerocrazia.png
+- /images/covers/frangar-trincerocrazia.jpg
 inStock: true
-thumbnailImage: /images/covers/frangar-trincerocrazia-thumb.png
+thumbnailImage: /images/covers/frangar-trincerocrazia-thumb.jpg
 title: Frangar - Trincerocrazia
 ---
 

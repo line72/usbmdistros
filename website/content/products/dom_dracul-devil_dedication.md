@@ -7,9 +7,9 @@ categories:
 date: '2022-03-02T06:09:09'
 draft: false
 images:
-- /images/covers/dom_dracul-devil_dedication.png
+- /images/covers/dom_dracul-devil_dedication.jpg
 inStock: true
-thumbnailImage: /images/covers/dom_dracul-devil_dedication-thumb.png
+thumbnailImage: /images/covers/dom_dracul-devil_dedication-thumb.jpg
 title: Dom Dracul - Devil Dedication
 ---
 

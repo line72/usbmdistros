@@ -7,9 +7,9 @@ categories:
 date: '2022-03-10T06:08:24'
 draft: false
 images:
-- /images/covers/barathrum-devilry.png
+- /images/covers/barathrum-devilry.jpg
 inStock: true
-thumbnailImage: /images/covers/barathrum-devilry-thumb.png
+thumbnailImage: /images/covers/barathrum-devilry-thumb.jpg
 title: Barathrum - Devilry
 ---
 

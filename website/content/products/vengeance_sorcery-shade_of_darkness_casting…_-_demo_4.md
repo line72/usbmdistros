@@ -7,10 +7,10 @@ categories:
 date: '2022-03-04T06:10:08'
 draft: false
 images:
-- "/images/covers/vengeance_sorcery-shade_of_darkness_casting\u2026_-_demo_4.png"
+- "/images/covers/vengeance_sorcery-shade_of_darkness_casting\u2026_-_demo_4.jpg"
 inStock: true
 thumbnailImage: "/images/covers/vengeance_sorcery-shade_of_darkness_casting\u2026\
-  _-_demo_4-thumb.png"
+  _-_demo_4-thumb.jpg"
 title: "Vengeance Sorcery - Shade of Darkness Casting\u2026 - Demo 4"
 ---
 

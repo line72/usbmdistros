@@ -7,9 +7,9 @@ categories:
 date: '2022-03-11T17:01:28'
 draft: false
 images:
-- /images/covers/urfaust-teufelsgeist.png
+- /images/covers/urfaust-teufelsgeist.jpg
 inStock: true
-thumbnailImage: /images/covers/urfaust-teufelsgeist-thumb.png
+thumbnailImage: /images/covers/urfaust-teufelsgeist-thumb.jpg
 title: Urfaust - Teufelsgeist
 ---
 

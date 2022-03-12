@@ -7,9 +7,9 @@ categories:
 date: '2022-03-09T06:08:41'
 draft: false
 images:
-- /images/covers/dai-the_advent.png
+- /images/covers/dai-the_advent.jpg
 inStock: true
-thumbnailImage: /images/covers/dai-the_advent-thumb.png
+thumbnailImage: /images/covers/dai-the_advent-thumb.jpg
 title: Dai - The Advent
 ---
 

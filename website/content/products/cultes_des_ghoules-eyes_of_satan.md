@@ -7,9 +7,9 @@ categories:
 date: '2022-02-28T06:08:36'
 draft: false
 images:
-- /images/covers/cultes_des_ghoules-eyes_of_satan.png
+- /images/covers/cultes_des_ghoules-eyes_of_satan.jpg
 inStock: true
-thumbnailImage: /images/covers/cultes_des_ghoules-eyes_of_satan-thumb.png
+thumbnailImage: /images/covers/cultes_des_ghoules-eyes_of_satan-thumb.jpg
 title: Cultes Des Ghoules - Eyes of Satan
 ---
 

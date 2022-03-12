@@ -7,9 +7,9 @@ categories:
 date: '2022-02-17T06:08:41'
 draft: false
 images:
-- /images/covers/caveman_cult-savage_war_is_destiny.png
+- /images/covers/caveman_cult-savage_war_is_destiny.jpg
 inStock: true
-thumbnailImage: /images/covers/caveman_cult-savage_war_is_destiny-thumb.png
+thumbnailImage: /images/covers/caveman_cult-savage_war_is_destiny-thumb.jpg
 title: Caveman Cult - Savage War is Destiny
 ---
 

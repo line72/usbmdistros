@@ -7,9 +7,9 @@ categories:
 date: '2022-02-17T06:07:38'
 draft: false
 images:
-- /images/covers/krolok-flying_above_ancient_ruins.png
+- /images/covers/krolok-flying_above_ancient_ruins.jpg
 inStock: true
-thumbnailImage: /images/covers/krolok-flying_above_ancient_ruins-thumb.png
+thumbnailImage: /images/covers/krolok-flying_above_ancient_ruins-thumb.jpg
 title: Krolok - Flying Above Ancient Ruins
 ---
 

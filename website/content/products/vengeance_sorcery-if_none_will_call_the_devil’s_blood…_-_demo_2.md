@@ -8,10 +8,10 @@ date: '2022-03-04T06:10:08'
 draft: false
 images:
 - "/images/covers/vengeance_sorcery-if_none_will_call_the_devil\u2019s_blood\u2026\
-  _-_demo_2.png"
+  _-_demo_2.jpg"
 inStock: true
 thumbnailImage: "/images/covers/vengeance_sorcery-if_none_will_call_the_devil\u2019\
-  s_blood\u2026_-_demo_2-thumb.png"
+  s_blood\u2026_-_demo_2-thumb.jpg"
 title: "Vengeance Sorcery - If None Will Call the Devil\u2019s Blood\u2026 - Demo\
   \ 2"
 ---

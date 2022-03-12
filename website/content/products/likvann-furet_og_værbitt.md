@@ -7,9 +7,9 @@ categories:
 date: '2022-03-11T16:59:56'
 draft: false
 images:
-- "/images/covers/likvann-furet_og_v\xE6rbitt.png"
+- "/images/covers/likvann-furet_og_v\xE6rbitt.jpg"
 inStock: true
-thumbnailImage: "/images/covers/likvann-furet_og_v\xE6rbitt-thumb.png"
+thumbnailImage: "/images/covers/likvann-furet_og_v\xE6rbitt-thumb.jpg"
 title: "Likvann - Furet og v\xE6rbitt"
 ---
 

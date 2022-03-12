@@ -8,9 +8,9 @@ categories:
 date: '2022-03-02T06:09:50'
 draft: false
 images:
-- "/images/covers/siculicidium-az_al\xE1mer\xFCl\xE9s_l\xE1rv\xE1i.png"
+- "/images/covers/siculicidium-az_al\xE1mer\xFCl\xE9s_l\xE1rv\xE1i.jpg"
 inStock: true
-thumbnailImage: "/images/covers/siculicidium-az_al\xE1mer\xFCl\xE9s_l\xE1rv\xE1i-thumb.png"
+thumbnailImage: "/images/covers/siculicidium-az_al\xE1mer\xFCl\xE9s_l\xE1rv\xE1i-thumb.jpg"
 title: "Siculicidium - Az Al\xE1mer\xFCl\xE9s L\xE1rv\xE1i"
 ---
 

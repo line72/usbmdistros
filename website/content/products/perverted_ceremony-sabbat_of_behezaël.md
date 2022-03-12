@@ -8,9 +8,9 @@ categories:
 date: '2022-03-09T06:10:11'
 draft: false
 images:
-- "/images/covers/perverted_ceremony-sabbat_of_beheza\xEBl.png"
+- "/images/covers/perverted_ceremony-sabbat_of_beheza\xEBl.jpg"
 inStock: true
-thumbnailImage: "/images/covers/perverted_ceremony-sabbat_of_beheza\xEBl-thumb.png"
+thumbnailImage: "/images/covers/perverted_ceremony-sabbat_of_beheza\xEBl-thumb.jpg"
 title: "Perverted Ceremony - Sabbat of Beheza\xEBl"
 ---
 

@@ -7,9 +7,9 @@ categories:
 date: '2022-03-11T16:59:57'
 draft: false
 images:
-- /images/covers/eternal_majesty-unholy_chants_of_darkness.png
+- /images/covers/eternal_majesty-unholy_chants_of_darkness.jpg
 inStock: true
-thumbnailImage: /images/covers/eternal_majesty-unholy_chants_of_darkness-thumb.png
+thumbnailImage: /images/covers/eternal_majesty-unholy_chants_of_darkness-thumb.jpg
 title: Eternal Majesty - Unholy Chants of Darkness
 ---
 

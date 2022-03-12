@@ -7,9 +7,9 @@ categories:
 date: '2022-02-23T06:09:50'
 draft: false
 images:
-- /images/covers/stormkeep-tales_othertime.png
+- /images/covers/stormkeep-tales_othertime.jpg
 inStock: true
-thumbnailImage: /images/covers/stormkeep-tales_othertime-thumb.png
+thumbnailImage: /images/covers/stormkeep-tales_othertime-thumb.jpg
 title: Stormkeep - Tales Othertime
 ---
 

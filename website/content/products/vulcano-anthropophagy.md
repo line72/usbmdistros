@@ -7,9 +7,9 @@ categories:
 date: '2022-02-23T06:10:00'
 draft: false
 images:
-- /images/covers/vulcano-anthropophagy.png
+- /images/covers/vulcano-anthropophagy.jpg
 inStock: true
-thumbnailImage: /images/covers/vulcano-anthropophagy-thumb.png
+thumbnailImage: /images/covers/vulcano-anthropophagy-thumb.jpg
 title: Vulcano - Anthropophagy
 ---
 

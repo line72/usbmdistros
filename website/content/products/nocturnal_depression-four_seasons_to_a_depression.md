@@ -7,9 +7,9 @@ categories:
 date: '2022-03-02T06:09:38'
 draft: false
 images:
-- /images/covers/nocturnal_depression-four_seasons_to_a_depression.png
+- /images/covers/nocturnal_depression-four_seasons_to_a_depression.jpg
 inStock: true
-thumbnailImage: /images/covers/nocturnal_depression-four_seasons_to_a_depression-thumb.png
+thumbnailImage: /images/covers/nocturnal_depression-four_seasons_to_a_depression-thumb.jpg
 title: Nocturnal Depression - Four Seasons to A Depression
 ---
 
