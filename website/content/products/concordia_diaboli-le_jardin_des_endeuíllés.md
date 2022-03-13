@@ -4,7 +4,7 @@ album: "Le Jardin des Endeu\xEDll\xE9s"
 artist: Concordia Diaboli
 categories:
 - Cassette
-date: '2021-11-16T14:05:09'
+date: '2022-03-13T06:00:50'
 draft: false
 images:
 - "/images/covers/concordia_diaboli-le_jardin_des_endeu\xEDll\xE9s.jpg"
