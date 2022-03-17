@@ -5,7 +5,7 @@ artist: Aara
 categories:
 - Vinyl
 - CD
-date: '2021-07-11T20:52:27'
+date: '2022-03-17T13:34:00'
 draft: false
 images:
 - /images/covers/aara-triade_i:_eos.jpg
@@ -20,6 +20,7 @@ title: 'Aara - Triade I: Eos'
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/aara-triade-i-eos) for $27.00 :: Black 1st press vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/aara-triade-i-eos) for $29.00 :: Orange w/ Black Splatter 1st press vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/aara-triade-i-eos) for $49.00 :: DMP Edition Orange/Brown split w/ Splatter 1st press vinyl
+* Purchase from [Debemur Morti](https://debemurmorti.aisamerch.com/item/107239) for $25.99
 ## CD
 * Purchase from [Debemur Morti](https://debemurmorti.aisamerch.com/item/96825) for $9.99
 * Purchase from [Debemur Morti](https://debemurmorti.aisamerch.com/item/96826) for $15.99 :: special edition

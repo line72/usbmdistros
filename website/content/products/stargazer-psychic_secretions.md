@@ -5,7 +5,8 @@ artist: StarGazer
 categories:
 - Vinyl
 - Cassette
-date: '2022-03-11T16:57:05'
+- CD
+date: '2022-03-15T05:09:45'
 draft: false
 images:
 - /images/covers/stargazer-psychic_secretions.png
@@ -19,3 +20,5 @@ title: StarGazer - Psychic Secretions
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=21460&sort=pd.name&order=ASC) for $30.00
 ## Cassette
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=14465&sort=pd.name&order=ASC) for $8.00
+## CD
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=21548&sort=pd.name&order=ASC) for $12.00
