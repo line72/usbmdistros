@@ -5,7 +5,7 @@ artist: Commander Agares
 categories:
 - Vinyl
 - CD
-date: '2021-11-24T06:00:37'
+date: '2022-03-18T05:01:38'
 draft: false
 images:
 - /images/covers/commander_agares-legions_of_descending_twilight.jpg

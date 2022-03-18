@@ -5,7 +5,7 @@ artist: Revenant Marquis
 categories:
 - Vinyl
 - CD
-date: '2022-03-05T06:00:30'
+date: '2022-03-18T05:01:14'
 draft: false
 images:
 - /images/covers/revenant_marquis-pitiless_black_emphasis.jpg
