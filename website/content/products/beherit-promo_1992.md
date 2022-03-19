@@ -4,7 +4,7 @@ album: Promo 1992
 artist: Beherit
 categories:
 - Cassette
-date: '2022-03-18T05:10:42'
+date: '2022-03-19T05:10:23'
 draft: false
 images:
 - /images/covers/beherit-promo_1992.jpg
@@ -19,3 +19,4 @@ title: Beherit - Promo 1992
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=21476&sort=pd.name&order=ASC) for $0.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=21573&sort=pd.name&order=ASC) for $0.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=21614&sort=pd.name&order=ASC) for $0.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=21691&sort=pd.name&order=ASC) for $0.00

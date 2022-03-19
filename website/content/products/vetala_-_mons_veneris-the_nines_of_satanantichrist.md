@@ -4,7 +4,7 @@ album: The Nines of Satanantichrist
 artist: Vetala / Mons Veneris
 categories:
 - CD
-date: '2021-11-30T13:35:49'
+date: '2022-03-19T05:01:12'
 draft: false
 images:
 - /images/covers/vetala_-_mons_veneris-the_nines_of_satanantichrist.jpg

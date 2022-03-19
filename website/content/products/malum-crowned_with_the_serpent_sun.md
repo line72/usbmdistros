@@ -4,7 +4,7 @@ album: Crowned with the Serpent Sun
 artist: Malum
 categories:
 - Vinyl
-date: '2021-12-30T06:07:42'
+date: '2022-03-19T05:08:02'
 draft: false
 images:
 - /images/covers/malum-crowned_with_the_serpent_sun.png
@@ -15,3 +15,4 @@ title: Malum - Crowned with the Serpent Sun
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=20001&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=21690&sort=pd.name&order=ASC) for $25.00

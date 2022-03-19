@@ -5,7 +5,7 @@ artist: Funeral Mist
 categories:
 - Vinyl
 - CD
-date: '2022-01-12T06:08:35'
+date: '2022-03-19T05:00:51'
 draft: false
 images:
 - /images/covers/funeral_mist-devilry.jpg
