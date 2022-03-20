@@ -7,9 +7,9 @@ categories:
 date: '2021-12-22T06:01:39'
 draft: false
 images:
-- /images/covers/blood_artillery-radioactive_utopia.png
+- /images/covers/blood_artillery-radioactive_utopia.jpg
 inStock: true
-thumbnailImage: /images/covers/blood_artillery-radioactive_utopia-thumb.png
+thumbnailImage: /images/covers/blood_artillery-radioactive_utopia-thumb.jpg
 title: Blood Artillery - Radioactive Utopia
 ---
 

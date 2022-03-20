@@ -4,7 +4,7 @@ album: "Hejd\xE5"
 artist: Woods of Infinity
 categories:
 - Vinyl
-date: '2022-03-17T13:47:18'
+date: '2022-03-20T05:00:31'
 draft: false
 images:
 - "/images/covers/woods_of_infinity-hejd\xE5.jpg"
