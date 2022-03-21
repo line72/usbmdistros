@@ -1,10 +1,10 @@
 ---
-actualPrice: $15.00
+actualPrice: $10.00
 album: Lusitania
 artist: Lusitania
 categories:
 - Vinyl
-date: '2021-07-11T20:52:16'
+date: '2022-03-21T05:13:51'
 draft: false
 images:
 - /images/covers/lusitania-lusitania.jpg
@@ -14,4 +14,4 @@ title: Lusitania - Lusitania
 ---
 
 ## Vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/used-lusitania-lusitania) for $15.00 :: Black 1st press vinyl
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/used-lusitania-lusitania) for $10.00 :: Black 1st press vinyl

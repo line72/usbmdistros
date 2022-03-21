@@ -1,10 +1,10 @@
 ---
-actualPrice: $8.50
+actualPrice: $7.50
 album: Demo Mmxx
 artist: Awaketh
 categories:
 - Cassette
-date: '2021-11-16T14:07:16'
+date: '2022-03-21T05:02:16'
 draft: false
 images:
 - /images/covers/awaketh-demo_mmxx.jpg
@@ -14,4 +14,4 @@ title: Awaketh - Demo Mmxx
 ---
 
 ## Cassette
-* Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/31421311-awaketh-demo-mmxx) for $8.50
+* Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/31421311-awaketh-demo-mmxx) for $7.50

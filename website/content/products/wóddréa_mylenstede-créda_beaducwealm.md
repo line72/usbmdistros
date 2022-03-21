@@ -5,7 +5,7 @@ artist: "W\xF3ddr\xE9a Mylenstede"
 categories:
 - Vinyl
 - CD
-date: '2021-09-24T05:08:19'
+date: '2022-03-21T05:00:40'
 draft: false
 images:
 - "/images/covers/w\xF3ddr\xE9a_mylenstede-cr\xE9da_beaducwealm.jpg"
