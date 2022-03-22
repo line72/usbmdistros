@@ -1,11 +1,11 @@
 ---
-actualPrice: $13.00 - 23.00
+actualPrice: $13.00 - 25.00
 album: Handful Of Stars
 artist: Drudkh
 categories:
 - Vinyl
 - Cassette
-date: '2022-01-23T06:12:33'
+date: '2022-03-22T05:07:47'
 draft: false
 images:
 - /images/covers/drudkh-handful_of_stars.png
@@ -16,5 +16,6 @@ title: Drudkh - Handful Of Stars
 
 ## Vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/drudkh-handful-of-stars-lp) for $23.00 :: Black 4th press vinyl
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=21715&sort=pd.name&order=ASC) for $25.00
 ## Cassette
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/drudkh-handful-of-stars-cassette) for $13.00 :: Cassette Tape 2021 press

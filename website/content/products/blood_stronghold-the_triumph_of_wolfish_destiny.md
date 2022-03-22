@@ -1,10 +1,11 @@
 ---
-actualPrice: $8.00
+actualPrice: $8.00 - 25.00
 album: The Triumph of Wolfish Destiny
 artist: Blood Stronghold
 categories:
+- Vinyl
 - CD
-date: '2021-07-10T19:58:26'
+date: '2022-03-22T05:00:41'
 draft: false
 images:
 - /images/covers/blood_stronghold-the_triumph_of_wolfish_destiny.png
@@ -13,5 +14,7 @@ thumbnailImage: /images/covers/blood_stronghold-the_triumph_of_wolfish_destiny-t
 title: Blood Stronghold - The Triumph of Wolfish Destiny
 ---
 
+## Vinyl
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/blood-stronghold-the-triumph-of-wolfish-destiny-12-lp) for $25.00
 ## CD
 * Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/blood-stronghold-the-triumph-of-wolfish-destiny-cd/) for $8.00

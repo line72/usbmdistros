@@ -1,10 +1,11 @@
 ---
-actualPrice: $11.00
+actualPrice: $11.00 - 27.00
 album: They Often See Dreams About the Spring
 artist: Drudkh
 categories:
+- Vinyl
 - Cassette
-date: '2021-09-27T05:12:15'
+date: '2022-03-22T05:07:47'
 draft: false
 images:
 - /images/covers/drudkh-they_often_see_dreams_about_the_spring.jpg
@@ -13,5 +14,7 @@ thumbnailImage: /images/covers/drudkh-they_often_see_dreams_about_the_spring-thu
 title: Drudkh - They Often See Dreams About the Spring
 ---
 
+## Vinyl
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=21718&sort=pd.name&order=ASC) for $27.00
 ## Cassette
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/drudkh-they-often-see-dreams-about-the-spring-cassette) for $11.00 :: Cassette Tape 2021 press

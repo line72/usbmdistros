@@ -4,7 +4,7 @@ album: Awakening of the Boreal Juggernauts
 artist: Orkblut
 categories:
 - Vinyl
-date: '2022-02-23T06:08:41'
+date: '2022-03-22T05:08:58'
 draft: false
 images:
 - /images/covers/orkblut-awakening_of_the_boreal_juggernauts.jpg
@@ -16,3 +16,4 @@ title: Orkblut - Awakening of the Boreal Juggernauts
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=20691&sort=pd.name&order=ASC) for $12.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=21027&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=21713&sort=pd.name&order=ASC) for $12.00
