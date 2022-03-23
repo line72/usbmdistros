@@ -1,10 +1,11 @@
 ---
-actualPrice: $11.00 - 12.00
+actualPrice: $11.00 - 25.00
 album: Live in Leipzig
 artist: Mayhem
 categories:
+- Vinyl
 - Cassette
-date: '2022-02-28T06:09:56'
+date: '2022-03-23T05:08:17'
 draft: false
 images:
 - /images/covers/mayhem-live_in_leipzig.jpg
@@ -13,6 +14,8 @@ thumbnailImage: /images/covers/mayhem-live_in_leipzig-thumb.jpg
 title: Mayhem - Live in Leipzig
 ---
 
+## Vinyl
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=21796&sort=pd.name&order=ASC) for $25.00
 ## Cassette
 * Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/mayhem-live-in-leipzig-cassette/) for $11.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=17552&sort=pd.name&order=ASC) for $12.00
