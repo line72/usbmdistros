@@ -1,10 +1,11 @@
 ---
-actualPrice: $5.00
+actualPrice: $5.00 - 25.00
 album: Blood Upon the Face of Creation
 artist: Grimfaug
 categories:
+- Vinyl
 - Cassette
-date: '2021-12-04T15:42:45'
+date: '2022-03-25T05:08:28'
 draft: false
 images:
 - /images/covers/grimfaug-blood_upon_the_face_of_creation.jpg
@@ -13,5 +14,7 @@ thumbnailImage: /images/covers/grimfaug-blood_upon_the_face_of_creation-thumb.jp
 title: Grimfaug - Blood Upon the Face of Creation
 ---
 
+## Vinyl
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=21889&sort=pd.name&order=ASC) for $25.00
 ## Cassette
 * Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/grimfaug-blood-upon-the-face-of-creation-cassette/) for $5.00

@@ -4,7 +4,7 @@ album: Anointed by the Crimson Veil
 artist: Ceremonial Crypt Desecration
 categories:
 - Vinyl
-date: '2021-06-26T15:02:54'
+date: '2022-03-25T05:00:56'
 draft: false
 images:
 - /images/covers/ceremonial_crypt_desecration-anointed_by_the_crimson_veil.jpg

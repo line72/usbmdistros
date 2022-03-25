@@ -4,7 +4,7 @@ album: Panzerfaust
 artist: Darkthrone
 categories:
 - Vinyl
-date: '2022-03-23T05:07:48'
+date: '2022-03-24T05:07:17'
 draft: false
 images:
 - /images/covers/darkthrone-panzerfaust.jpg
@@ -17,3 +17,4 @@ title: Darkthrone - Panzerfaust
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=18186&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=18606&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=21790&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=21859&sort=pd.name&order=ASC) for $25.00

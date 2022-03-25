@@ -4,7 +4,7 @@ album: "Sous l'Oeil Ferm\xE9 des Paradis"
 artist: Oes Galliath
 categories:
 - Vinyl
-date: '2022-03-22T05:00:42'
+date: '2022-03-24T05:00:32'
 draft: false
 images:
 - "/images/covers/oes_galliath-sous_l'oeil_ferm\xE9_des_paradis.jpg"

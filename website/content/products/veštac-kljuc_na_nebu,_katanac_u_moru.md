@@ -4,7 +4,7 @@ album: Kljuc na nebu, Katanac u moru
 artist: "Ve\u0161tac"
 categories:
 - Vinyl
-date: '2022-03-11T16:47:40'
+date: '2022-03-24T05:00:32'
 draft: false
 images:
 - "/images/covers/ve\u0161tac-kljuc_na_nebu,_katanac_u_moru.jpg"

@@ -1,11 +1,11 @@
 ---
-actualPrice: $12.00 - 20.00
+actualPrice: $12.00 - 25.00
 album: Dor
 artist: Turia
 categories:
 - Vinyl
 - CD
-date: '2021-11-30T13:35:28'
+date: '2022-03-25T05:09:12'
 draft: false
 images:
 - /images/covers/turia-dor.jpg
@@ -16,5 +16,6 @@ title: Turia - Dor
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=9055&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=21901&sort=pd.name&order=ASC) for $25.00
 ## CD
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/turia-dor-cd) for $12.00

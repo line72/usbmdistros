@@ -1,11 +1,11 @@
 ---
-actualPrice: $6.00 - 20.00
+actualPrice: $6.00 - 25.00
 album: Zwang
 artist: "K\xE4ltetod"
 categories:
 - Vinyl
 - Cassette
-date: '2021-11-30T13:35:54'
+date: '2022-03-24T05:07:40'
 draft: false
 images:
 - "/images/covers/k\xE4ltetod-zwang.jpg"
@@ -16,5 +16,6 @@ title: "K\xE4ltetod - Zwang"
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=16198&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=21843&sort=pd.name&order=ASC) for $25.00
 ## Cassette
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=11478&sort=pd.name&order=ASC) for $6.00

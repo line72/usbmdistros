@@ -4,7 +4,7 @@ album: Ng'Ambu
 artist: Mehenet
 categories:
 - Cassette
-date: '2021-12-29T06:01:51'
+date: '2022-03-25T05:02:27'
 draft: false
 images:
 - /images/covers/mehenet-ng'ambu.jpg
@@ -15,4 +15,4 @@ title: Mehenet - Ng'Ambu
 
 ## Cassette
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=18464&sort=pd.name&order=ASC) for $9.00
-* Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/33893479-mehenet-ngambu) for $7.00
+* Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/33893479-mehenet-ng-ambu) for $7.00

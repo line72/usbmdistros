@@ -4,7 +4,7 @@ album: Ce Que Dit La Bouche D'Ombre
 artist: Paramnesia
 categories:
 - Cassette
-date: '2021-11-25T06:02:10'
+date: '2022-03-25T05:02:47'
 draft: false
 images:
 - /images/covers/paramnesia-ce_que_dit_la_bouche_d'ombre.jpg
@@ -14,4 +14,4 @@ title: Paramnesia - Ce Que Dit La Bouche D'Ombre
 ---
 
 ## Cassette
-* Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/25911081-paramnesia-ce-que-dit-la-bouche-dombre) for $5.00
+* Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/25911081-paramnesia-ce-que-dit-la-bouche-d-ombre) for $5.00

@@ -4,7 +4,7 @@ album: Pestilential Rites of Infernal Fornication
 artist: Weregoat
 categories:
 - CD
-date: '2022-01-26T06:09:06'
+date: '2022-03-24T05:10:03'
 draft: false
 images:
 - /images/covers/weregoat-pestilential_rites_of_infernal_fornication.png
@@ -16,3 +16,4 @@ title: Weregoat - Pestilential Rites of Infernal Fornication
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=15402&sort=pd.name&order=ASC) for $10.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=20582&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=21828&sort=pd.name&order=ASC) for $12.00
