@@ -1,10 +1,10 @@
 ---
-actualPrice: $20.00
+actualPrice: $20.00 - 25.00
 album: Taste Our German Steel
 artist: Moonblood
 categories:
 - Vinyl
-date: '2021-06-26T15:22:51'
+date: '2022-03-26T05:08:07'
 draft: false
 images:
 - /images/covers/moonblood-taste_our_german_steel.jpg
@@ -15,3 +15,4 @@ title: Moonblood - Taste Our German Steel
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=13932&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=21931&sort=pd.name&order=ASC) for $25.00

@@ -1,11 +1,11 @@
 ---
-actualPrice: $13.00 - 25.00
+actualPrice: $13.00 - 30.00
 album: Portals
 artist: Candelabrum
 categories:
 - Vinyl
 - CD
-date: '2021-08-30T05:42:57'
+date: '2022-03-26T05:07:31'
 draft: false
 images:
 - /images/covers/candelabrum-portals.jpg
@@ -16,5 +16,6 @@ title: Candelabrum - Portals
 
 ## Vinyl
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/candelabrum-portals-12-lp) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=21976&sort=pd.name&order=ASC) for $30.00
 ## CD
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/candelabrum-portals-cd) for $13.00

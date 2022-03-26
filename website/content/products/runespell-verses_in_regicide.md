@@ -1,11 +1,11 @@
 ---
-actualPrice: $10.00 - 20.00
+actualPrice: $10.00 - 25.00
 album: Verses in Regicide
 artist: Runespell
 categories:
 - Vinyl
 - CD
-date: '2022-01-17T06:09:28'
+date: '2022-03-26T05:08:22'
 draft: false
 images:
 - /images/covers/runespell-verses_in_regicide.jpg
@@ -16,6 +16,7 @@ title: Runespell - Verses in Regicide
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=17861&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=21987&sort=pd.name&order=ASC) for $25.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=17581&sort=pd.name&order=ASC) for $10.00
 * Purchase from [CW Productions](https://shop.cwproductions.net/products/runespell-verses-in-regicide-cd) for $11.00

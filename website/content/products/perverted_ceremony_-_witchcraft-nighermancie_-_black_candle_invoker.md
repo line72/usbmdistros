@@ -6,7 +6,7 @@ categories:
 - Vinyl
 - Cassette
 - CD
-date: '2021-11-30T13:35:55'
+date: '2022-03-26T05:10:01'
 draft: false
 images:
 - /images/covers/perverted_ceremony_-_witchcraft-nighermancie_-_black_candle_invoker.jpg
@@ -21,3 +21,4 @@ title: Perverted Ceremony / Witchcraft - Nighermancie / Black Candle Invoker
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=6006&sort=pd.name&order=ASC) for $7.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=6004&sort=pd.name&order=ASC) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=21925&sort=pd.name&order=ASC) for $10.00

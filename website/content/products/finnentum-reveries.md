@@ -7,9 +7,9 @@ categories:
 date: '2022-03-24T05:07:27'
 draft: false
 images:
-- /images/covers/finnentum-reveries.png
+- /images/covers/finnentum-reveries.jpg
 inStock: true
-thumbnailImage: /images/covers/finnentum-reveries-thumb.png
+thumbnailImage: /images/covers/finnentum-reveries-thumb.jpg
 title: Finnentum - Reveries
 ---
 

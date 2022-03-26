@@ -7,9 +7,9 @@ categories:
 date: '2022-03-24T05:07:40'
 draft: false
 images:
-- "/images/covers/k\xE4ltetod-talpfade.png"
+- "/images/covers/k\xE4ltetod-talpfade.jpg"
 inStock: true
-thumbnailImage: "/images/covers/k\xE4ltetod-talpfade-thumb.png"
+thumbnailImage: "/images/covers/k\xE4ltetod-talpfade-thumb.jpg"
 title: "K\xE4ltetod - Talpfade"
 ---
 

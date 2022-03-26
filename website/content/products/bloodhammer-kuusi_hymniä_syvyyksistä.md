@@ -7,9 +7,9 @@ categories:
 date: '2022-03-24T05:07:12'
 draft: false
 images:
-- "/images/covers/bloodhammer-kuusi_hymni\xE4_syvyyksist\xE4.png"
+- "/images/covers/bloodhammer-kuusi_hymni\xE4_syvyyksist\xE4.jpg"
 inStock: true
-thumbnailImage: "/images/covers/bloodhammer-kuusi_hymni\xE4_syvyyksist\xE4-thumb.png"
+thumbnailImage: "/images/covers/bloodhammer-kuusi_hymni\xE4_syvyyksist\xE4-thumb.jpg"
 title: "Bloodhammer - Kuusi Hymni\xE4 Syvyyksist\xE4"
 ---
 

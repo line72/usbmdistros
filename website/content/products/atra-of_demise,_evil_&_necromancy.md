@@ -4,7 +4,7 @@ album: Of Demise, Evil & Necromancy
 artist: Atra
 categories:
 - Vinyl
-date: '2022-03-22T05:00:41'
+date: '2022-03-26T05:00:41'
 draft: false
 images:
 - /images/covers/atra-of_demise,_evil_&_necromancy.jpg

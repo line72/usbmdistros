@@ -7,9 +7,9 @@ categories:
 date: '2022-03-24T05:07:25'
 draft: false
 images:
-- /images/covers/eternum-the_devouring_descent.png
+- /images/covers/eternum-the_devouring_descent.jpg
 inStock: true
-thumbnailImage: /images/covers/eternum-the_devouring_descent-thumb.png
+thumbnailImage: /images/covers/eternum-the_devouring_descent-thumb.jpg
 title: Eternum - The Devouring Descent
 ---
 

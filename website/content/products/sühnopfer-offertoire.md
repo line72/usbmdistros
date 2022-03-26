@@ -4,7 +4,7 @@ album: Offertoire
 artist: "S\xFChnopfer"
 categories:
 - Vinyl
-date: '2021-11-30T13:35:27'
+date: '2022-03-26T05:08:31'
 draft: false
 images:
 - "/images/covers/s\xFChnopfer-offertoire.jpg"
@@ -15,3 +15,4 @@ title: "S\xFChnopfer - Offertoire"
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=11569&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=22027&sort=pd.name&order=ASC) for $25.00

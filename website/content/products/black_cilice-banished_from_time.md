@@ -5,7 +5,7 @@ artist: Black Cilice
 categories:
 - Vinyl
 - CD
-date: '2022-03-25T05:08:04'
+date: '2022-03-26T05:07:27'
 draft: false
 images:
 - /images/covers/black_cilice-banished_from_time.jpg
@@ -20,6 +20,7 @@ title: Black Cilice - Banished From Time
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=18223&sort=pd.name&order=ASC) for $20.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=21805&sort=pd.name&order=ASC) for $20.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=21912&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=21963&sort=pd.name&order=ASC) for $20.00
 ## CD
 * Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/black-cilice-banished-from-time-cd/) for $13.00
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/black-cilice-banished-from-time-cd) for $13.00

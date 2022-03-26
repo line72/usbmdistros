@@ -4,7 +4,7 @@ album: Pimeyden Valtakunta
 artist: Hautakammio
 categories:
 - Vinyl
-date: '2021-11-30T13:35:19'
+date: '2022-03-26T05:07:51'
 draft: false
 images:
 - /images/covers/hautakammio-pimeyden_valtakunta.jpg
@@ -17,3 +17,4 @@ title: Hautakammio - Pimeyden Valtakunta
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/hautakammio-pimeyden-valtakunta-12-lp) for $20.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=3203&sort=pd.name&order=ASC) for $20.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=16624&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=22020&sort=pd.name&order=ASC) for $25.00

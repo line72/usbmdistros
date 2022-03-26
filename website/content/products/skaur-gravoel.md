@@ -7,9 +7,9 @@ categories:
 date: '2022-03-24T05:08:08'
 draft: false
 images:
-- /images/covers/skaur-gravoel.png
+- /images/covers/skaur-gravoel.jpg
 inStock: true
-thumbnailImage: /images/covers/skaur-gravoel-thumb.png
+thumbnailImage: /images/covers/skaur-gravoel-thumb.jpg
 title: Skaur - Gravoel
 ---
 

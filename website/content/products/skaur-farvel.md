@@ -7,9 +7,9 @@ categories:
 date: '2022-03-24T05:08:08'
 draft: false
 images:
-- /images/covers/skaur-farvel.png
+- /images/covers/skaur-farvel.jpg
 inStock: true
-thumbnailImage: /images/covers/skaur-farvel-thumb.png
+thumbnailImage: /images/covers/skaur-farvel-thumb.jpg
 title: Skaur - Farvel
 ---
 

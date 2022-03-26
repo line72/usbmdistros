@@ -1,10 +1,11 @@
 ---
-actualPrice: $10.00 - 12.00
+actualPrice: $10.00 - 25.00
 album: Order of Vengeance
 artist: Runespell
 categories:
+- Vinyl
 - CD
-date: '2022-01-17T06:09:28'
+date: '2022-03-26T05:08:22'
 draft: false
 images:
 - /images/covers/runespell-order_of_vengeance.png
@@ -13,6 +14,8 @@ thumbnailImage: /images/covers/runespell-order_of_vengeance-thumb.png
 title: Runespell - Order of Vengeance
 ---
 
+## Vinyl
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=21984&sort=pd.name&order=ASC) for $25.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=14698&sort=pd.name&order=ASC) for $10.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=20262&sort=pd.name&order=ASC) for $10.00

@@ -7,9 +7,9 @@ categories:
 date: '2022-03-24T05:07:40'
 draft: false
 images:
-- /images/covers/kadotus-vaienneet_temppelit.png
+- /images/covers/kadotus-vaienneet_temppelit.jpg
 inStock: true
-thumbnailImage: /images/covers/kadotus-vaienneet_temppelit-thumb.png
+thumbnailImage: /images/covers/kadotus-vaienneet_temppelit-thumb.jpg
 title: Kadotus - Vaienneet Temppelit
 ---
 

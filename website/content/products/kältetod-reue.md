@@ -7,9 +7,9 @@ categories:
 date: '2022-03-24T05:07:40'
 draft: false
 images:
-- "/images/covers/k\xE4ltetod-reue.png"
+- "/images/covers/k\xE4ltetod-reue.jpg"
 inStock: true
-thumbnailImage: "/images/covers/k\xE4ltetod-reue-thumb.png"
+thumbnailImage: "/images/covers/k\xE4ltetod-reue-thumb.jpg"
 title: "K\xE4ltetod - Reue"
 ---
 

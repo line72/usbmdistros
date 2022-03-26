@@ -7,9 +7,9 @@ categories:
 date: '2022-03-24T05:07:49'
 draft: false
 images:
-- /images/covers/mons_veneris-mons_veneris.png
+- /images/covers/mons_veneris-mons_veneris.jpg
 inStock: true
-thumbnailImage: /images/covers/mons_veneris-mons_veneris-thumb.png
+thumbnailImage: /images/covers/mons_veneris-mons_veneris-thumb.jpg
 title: Mons Veneris - Mons Veneris
 ---
 

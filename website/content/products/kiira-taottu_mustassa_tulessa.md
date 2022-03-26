@@ -7,9 +7,9 @@ categories:
 date: '2022-03-24T05:07:41'
 draft: false
 images:
-- /images/covers/kiira-taottu_mustassa_tulessa.png
+- /images/covers/kiira-taottu_mustassa_tulessa.jpg
 inStock: true
-thumbnailImage: /images/covers/kiira-taottu_mustassa_tulessa-thumb.png
+thumbnailImage: /images/covers/kiira-taottu_mustassa_tulessa-thumb.jpg
 title: Kiira - Taottu Mustassa Tulessa
 ---
 
