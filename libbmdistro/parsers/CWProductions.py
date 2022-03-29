@@ -76,7 +76,7 @@ class CWProductions(Parser):
         elif s in ('CD', 'split CD', '2CD', 'DCD', 'CDr'):
             return ('CD', '')
         elif s in ('LP', 'split LP', 'DLP', '2LP', '10"', 'LP (2nd press)', '7"', 'LP + 7"', '7" EP', 'pic LP',\
-                   '12" EP', 'split 7"', 'split 10"', 'DLP + DVD', 'Rehearsal 10"', "3LP"):
+                   '12" EP', 'split 7"', 'split 10"', 'DLP + DVD', 'Rehearsal 10"', "3LP", 'LP + 10"'):
             return ('Vinyl', '')
         elif (match := re.match(re.compile(r'^LP\s+\((.*?)\)\s*$'), s)) != None:
             return ('Vinyl', match.group(1).strip())
