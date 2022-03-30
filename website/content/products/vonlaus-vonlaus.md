@@ -1,10 +1,10 @@
 ---
-actualPrice: $23.00
+actualPrice: $17.00
 album: Vonlaus
 artist: Vonlaus
 categories:
 - Vinyl
-date: '2021-07-11T20:52:24'
+date: '2022-03-29T05:14:38'
 draft: false
 images:
 - /images/covers/vonlaus-vonlaus.jpg
@@ -14,4 +14,4 @@ title: Vonlaus - Vonlaus
 ---
 
 ## Vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/vonlaus-vonlaus) for $23.00 :: Black 1st press vinyl
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/vonlaus-vonlaus) for $17.00 :: Black 1st press vinyl

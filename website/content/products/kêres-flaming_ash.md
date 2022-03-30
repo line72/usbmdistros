@@ -4,7 +4,7 @@ album: Flaming Ash
 artist: "K\xEAres"
 categories:
 - Vinyl
-date: '2021-12-24T06:10:52'
+date: '2022-03-28T05:13:14'
 draft: false
 images:
 - "/images/covers/k\xEAres-flaming_ash.png"
@@ -17,3 +17,4 @@ title: "K\xEAres - Flaming Ash"
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/keres-flaming-ash-lp) for $25.00 :: Black 1st press vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/keres-flaming-ash-lp-1) for $35.00 :: Black 1st press vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/keres-flaming-ash-lp) for $49.00 :: Black 1st press vinyl
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/keres-flaming-ash-lp) for $27.00 :: Black 2nd press vinyl

@@ -1,10 +1,10 @@
 ---
-actualPrice: $41.00
+actualPrice: $42.00
 album: Limbo 2xLP +
 artist: Gaerea
 categories:
 - Vinyl
-date: '2022-01-15T06:12:16'
+date: '2022-03-28T05:13:13'
 draft: false
 images:
 - /images/covers/gaerea-limbo_2xlp_+.jpg
@@ -14,4 +14,4 @@ title: Gaerea - Limbo 2xLP +
 ---
 
 ## Vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/gaerea-limbo-2xlp-cassette) for $41.00 :: 2xLP + Cassette
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/gaerea-limbo-2xlp-cassette) for $42.00 :: 2xLP + Cassette
