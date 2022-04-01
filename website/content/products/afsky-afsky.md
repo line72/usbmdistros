@@ -4,7 +4,7 @@ album: Afsky
 artist: Afsky
 categories:
 - Vinyl
-date: '2022-03-20T05:12:48'
+date: '2022-04-01T14:21:37'
 draft: false
 images:
 - /images/covers/afsky-afsky.jpg
@@ -17,3 +17,4 @@ title: Afsky - Afsky
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/afsky-afsky-lp) for $20.00 :: Green 2021 press vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/afsky-afsky-12) for $20.00 :: Green 2021 press vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/afsky-afsky-12) for $20.00 :: Green 2022 press vinyl
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/afsky-afsky-12) for $20.00 :: Black 2022 press vinyl

@@ -1,10 +1,10 @@
 ---
-actualPrice: $21.00
+actualPrice: $20.00
 album: Omnes Nihil
 artist: Vukari
 categories:
 - Vinyl
-date: '2022-03-20T05:12:48'
+date: '2022-04-01T14:21:38'
 draft: false
 images:
 - /images/covers/vukari-omnes_nihil.jpg
@@ -14,4 +14,4 @@ title: Vukari - Omnes Nihil
 ---
 
 ## Vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/vukari-omnes-nihil-lp) for $21.00 :: Black 1st press vinyl
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/vukari-omnes-nihil-lp) for $20.00 :: Black 1st press vinyl
