@@ -4,7 +4,7 @@ album: Ezer Ezaren Araztasuna
 artist: Ostots
 categories:
 - Vinyl
-date: '2022-02-27T06:00:31'
+date: '2022-04-02T05:00:31'
 draft: false
 images:
 - /images/covers/ostots-ezer_ezaren_araztasuna.jpg
