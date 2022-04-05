@@ -7,9 +7,9 @@ categories:
 date: '2021-11-30T13:35:57'
 draft: false
 images:
-- /images/covers/void_of_autumn-sanctuary_of_bones.png
+- /images/covers/void_of_autumn-sanctuary_of_bones.jpg
 inStock: true
-thumbnailImage: /images/covers/void_of_autumn-sanctuary_of_bones-thumb.png
+thumbnailImage: /images/covers/void_of_autumn-sanctuary_of_bones-thumb.jpg
 title: Void Of Autumn - Sanctuary Of Bones
 ---
 
