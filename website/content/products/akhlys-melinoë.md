@@ -5,7 +5,7 @@ artist: Akhlys
 categories:
 - Vinyl
 - CD
-date: '2021-12-04T15:44:09'
+date: '2022-04-07T05:07:08'
 draft: false
 images:
 - "/images/covers/akhlys-melino\xEB.jpg"
@@ -22,6 +22,7 @@ title: "Akhlys - Melino\xEB"
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/akhlys-melinoe) for $29.00 :: Mustard/Beer w/ Splatter 2021 press vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/akhlys-melinoe) for $29.00 :: Tri-Color w/ Splatter 1st press vinyl (SOLD OUT)
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/akhlys-melinoe-lp) for $27.00 :: Black 2021 press vinyl
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=22226&sort=pd.name&order=ASC) for $25.00
 ## CD
 * Purchase from [Debemur Morti](https://debemurmorti.aisamerch.com/item/93978) for $9.99
 * Purchase from [Debemur Morti](https://debemurmorti.aisamerch.com/item/93979) for $15.99 :: special edition
