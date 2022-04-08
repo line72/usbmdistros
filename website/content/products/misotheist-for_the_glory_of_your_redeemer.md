@@ -5,7 +5,7 @@ artist: Misotheist
 categories:
 - Vinyl
 - CD
-date: '2021-11-25T06:07:52'
+date: '2022-04-08T05:07:44'
 draft: false
 images:
 - /images/covers/misotheist-for_the_glory_of_your_redeemer.jpg
@@ -20,5 +20,6 @@ title: Misotheist - For The Glory Of Your Redeemer
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/misotheist-for-the-glory-of-your-redeemer) for $35.00 :: Smoke 1st press (SOLD OUT)
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/misotheist-for-the-glory-of-your-redeemer) for $29.00 :: Black 3rd press vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=17496&sort=pd.name&order=ASC) for $21.60
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=22262&sort=pd.name&order=ASC) for $27.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=17491&sort=pd.name&order=ASC) for $15.00

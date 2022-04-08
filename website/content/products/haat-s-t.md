@@ -1,10 +1,10 @@
 ---
-actualPrice: $23.00
+actualPrice: $20.00
 album: s/t
 artist: Haat
 categories:
 - Vinyl
-date: '2021-06-26T15:02:55'
+date: '2022-04-08T05:00:29'
 draft: false
 images:
 - /images/covers/haat-s-t.jpg
@@ -14,4 +14,4 @@ title: Haat - s/t
 ---
 
 ## Vinyl
-* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/haat-s-t-12-lp) for $23.00
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/haat-s-t-12-lp) for $20.00

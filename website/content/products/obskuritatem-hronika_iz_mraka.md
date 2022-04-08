@@ -4,7 +4,7 @@ album: Hronika Iz Mraka
 artist: Obskuritatem
 categories:
 - Vinyl
-date: '2022-03-31T05:00:36'
+date: '2022-04-08T05:00:20'
 draft: false
 images:
 - /images/covers/obskuritatem-hronika_iz_mraka.jpg

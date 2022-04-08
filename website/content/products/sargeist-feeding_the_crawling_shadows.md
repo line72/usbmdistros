@@ -4,7 +4,7 @@ album: Feeding the Crawling Shadows
 artist: Sargeist
 categories:
 - Vinyl
-date: '2022-02-15T06:00:44'
+date: '2022-04-08T05:00:21'
 draft: false
 images:
 - /images/covers/sargeist-feeding_the_crawling_shadows.jpg
