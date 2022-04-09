@@ -5,7 +5,7 @@ artist: Misotheist
 categories:
 - Vinyl
 - CD
-date: '2022-04-08T05:07:44'
+date: '2022-04-09T05:08:26'
 draft: false
 images:
 - /images/covers/misotheist-misotheist.png
@@ -18,5 +18,6 @@ title: Misotheist - Misotheist
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/misotheist-misotheist-lp) for $29.00 :: Black 2021 press vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=17476&sort=pd.name&order=ASC) for $27.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=22261&sort=pd.name&order=ASC) for $27.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=22321&sort=pd.name&order=ASC) for $27.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=17490&sort=pd.name&order=ASC) for $12.00

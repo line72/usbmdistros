@@ -1,10 +1,10 @@
 ---
-actualPrice: $29.00
+actualPrice: $27.00 - 29.00
 album: Jeg Begraver
 artist: Knokkelklang
 categories:
 - Vinyl
-date: '2022-03-28T05:13:14'
+date: '2022-04-09T05:08:18'
 draft: false
 images:
 - /images/covers/knokkelklang-jeg_begraver.jpg
@@ -15,3 +15,4 @@ title: Knokkelklang - Jeg Begraver
 
 ## Vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/knokkelklang-jeg-begraver-lp) for $29.00 :: Bone White 2022 press vinyl
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=22322&sort=pd.name&order=ASC) for $27.00
