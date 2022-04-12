@@ -5,7 +5,7 @@ artist: Abigor
 categories:
 - Vinyl
 - CD
-date: '2022-04-10T05:15:15'
+date: '2022-04-12T05:08:59'
 draft: false
 images:
 - /images/covers/abigor-supreme_immortal_art.jpg
@@ -19,3 +19,4 @@ title: Abigor - Supreme Immortal Art
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=22203&sort=pd.name&order=ASC) for $35.00
 ## CD
 * Purchase from [CW Productions](https://shop.cwproductions.net/products/abigor-supreme-immortal-art-cd) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=22354&sort=pd.name&order=ASC) for $15.00
