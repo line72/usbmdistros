@@ -1,10 +1,10 @@
 ---
-actualPrice: $6.00
+actualPrice: $4.00
 album: Manifestion
 artist: Unbegotten
 categories:
 - Cassette
-date: '2021-11-16T14:07:17'
+date: '2022-04-13T05:02:25'
 draft: false
 images:
 - /images/covers/unbegotten-manifestion.jpg
@@ -14,4 +14,4 @@ title: Unbegotten - Manifestion
 ---
 
 ## Cassette
-* Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/29299744-unbegotten-manifestion) for $6.00
+* Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/29299744-unbegotten-manifestion) for $4.00

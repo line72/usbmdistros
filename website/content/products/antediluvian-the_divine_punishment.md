@@ -6,7 +6,7 @@ categories:
 - Vinyl
 - Cassette
 - CD
-date: '2022-03-29T05:10:21'
+date: '2022-04-13T05:09:21'
 draft: false
 images:
 - /images/covers/antediluvian-the_divine_punishment.jpg
@@ -24,3 +24,4 @@ title: Antediluvian - The Divine Punishment
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=16920&sort=pd.name&order=ASC) for $12.00
 * Purchase from [CW Productions](https://shop.cwproductions.net/products/antediluvian-the-divine-punishment-cd) for $10.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=22067&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=22370&sort=pd.name&order=ASC) for $12.00
