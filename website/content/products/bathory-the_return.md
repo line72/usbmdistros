@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00
+actualPrice: $12.00 - 15.00
 album: The Return
 artist: Bathory
 categories:
 - Cassette
-date: '2022-01-22T06:09:22'
+date: '2022-04-15T05:10:31'
 draft: false
 images:
 - /images/covers/bathory-the_return.jpg
@@ -18,3 +18,4 @@ title: Bathory - The Return
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=19186&sort=pd.name&order=ASC) for $12.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=19357&sort=pd.name&order=ASC) for $12.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=20490&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=22489&sort=pd.name&order=ASC) for $15.00

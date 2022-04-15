@@ -4,7 +4,7 @@ album: Jubileum Volume III
 artist: Bathory
 categories:
 - Vinyl
-date: '2022-03-22T05:07:33'
+date: '2022-04-14T05:07:03'
 draft: false
 images:
 - /images/covers/bathory-jubileum_volume_iii.jpg
@@ -22,3 +22,4 @@ title: Bathory - Jubileum Volume III
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=20966&sort=pd.name&order=ASC) for $30.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=21129&sort=pd.name&order=ASC) for $30.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=21739&sort=pd.name&order=ASC) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=22423&sort=pd.name&order=ASC) for $30.00

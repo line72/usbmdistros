@@ -5,7 +5,7 @@ artist: Paysage d'Hiver
 categories:
 - Vinyl
 - CD
-date: '2021-11-30T13:35:45'
+date: '2022-04-15T05:09:56'
 draft: false
 images:
 - /images/covers/paysage_d'hiver-im_traum.jpg
@@ -18,3 +18,4 @@ title: Paysage d'Hiver - Im Traum
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=16841&sort=pd.name&order=ASC) for $25.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=14406&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=22468&sort=pd.name&order=ASC) for $20.00
