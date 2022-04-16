@@ -5,7 +5,7 @@ artist: "M\xFCtiilation"
 categories:
 - Vinyl
 - CD
-date: '2022-03-26T05:08:09'
+date: '2022-04-16T05:00:54'
 draft: false
 images:
 - "/images/covers/m\xFCtiilation-vampires_of_black_imperial_blood.png"
@@ -24,3 +24,4 @@ title: "M\xFCtiilation - Vampires Of Black Imperial Blood"
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=22004&sort=pd.name&order=ASC) for $80.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=16647&sort=pd.name&order=ASC) for $12.00
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/mutiilation-vampires-of-black-imperial-blood-cd) for $13.00

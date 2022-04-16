@@ -4,7 +4,7 @@ album: Black Sun Shall Rise
 artist: Wind of the Black Mountains
 categories:
 - Vinyl
-date: '2022-03-12T06:08:31'
+date: '2022-04-16T05:08:53'
 draft: false
 images:
 - /images/covers/wind_of_the_black_mountains-black_sun_shall_rise.jpg
@@ -18,3 +18,4 @@ title: Wind of the Black Mountains - Black Sun Shall Rise
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=20212&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=20760&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=21473&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=22540&sort=pd.name&order=ASC) for $25.00
