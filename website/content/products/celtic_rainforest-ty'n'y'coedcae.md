@@ -7,9 +7,9 @@ categories:
 date: '2022-03-17T05:10:23'
 draft: false
 images:
-- /images/covers/celtic_rainforest-ty'n'y'coedcae.png
+- /images/covers/celtic_rainforest-ty'n'y'coedcae.jpg
 inStock: true
-thumbnailImage: /images/covers/celtic_rainforest-ty'n'y'coedcae-thumb.png
+thumbnailImage: /images/covers/celtic_rainforest-ty'n'y'coedcae-thumb.jpg
 title: Celtic Rainforest - Ty'n'y'coedcae
 ---
 
