@@ -5,7 +5,7 @@ artist: "M\xFCtiilation"
 categories:
 - Vinyl
 - CD
-date: '2022-04-16T05:00:54'
+date: '2022-04-19T05:00:54'
 draft: false
 images:
 - "/images/covers/m\xFCtiilation-remains_of_a_ruined,_dead,_cursed_soul.jpg"

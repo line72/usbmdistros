@@ -4,7 +4,7 @@ album: Possessed
 artist: Esoteric Ritual
 categories:
 - Cassette
-date: '2022-02-12T06:09:57'
+date: '2022-04-19T05:00:47'
 draft: false
 images:
 - /images/covers/esoteric_ritual-possessed.jpg
@@ -15,3 +15,4 @@ title: Esoteric Ritual - Possessed
 
 ## Cassette
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=20840&sort=pd.name&order=ASC) for $12.00
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/esoteric-ritual-possessed-tape) for $12.00
