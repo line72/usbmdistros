@@ -4,7 +4,7 @@ album: Eclipsing Through The Womb Of Twilight And Dementia
 artist: Glemt
 categories:
 - Vinyl
-date: '2022-01-19T06:00:25'
+date: '2022-04-21T05:00:34'
 draft: false
 images:
 - /images/covers/glemt-eclipsing_through_the_womb_of_twilight_and_dementia.png
