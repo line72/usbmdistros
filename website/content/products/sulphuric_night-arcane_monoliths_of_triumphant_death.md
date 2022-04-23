@@ -5,7 +5,7 @@ artist: Sulphuric Night
 categories:
 - Vinyl
 - CD
-date: '2022-04-17T05:10:29'
+date: '2022-04-23T05:00:58'
 draft: false
 images:
 - /images/covers/sulphuric_night-arcane_monoliths_of_triumphant_death.jpg
