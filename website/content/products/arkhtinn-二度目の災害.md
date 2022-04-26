@@ -1,10 +1,11 @@
 ---
-actualPrice: $15.00
+actualPrice: $15.00 - 32.00
 album: "\u4E8C\u5EA6\u76EE\u306E\u707D\u5BB3"
 artist: Arkhtinn
 categories:
+- Vinyl
 - CD
-date: '2021-12-22T06:08:07'
+date: '2022-04-26T05:14:45'
 draft: false
 images:
 - "/images/covers/arkhtinn-\u4E8C\u5EA6\u76EE\u306E\u707D\u5BB3.jpg"
@@ -13,5 +14,7 @@ thumbnailImage: "/images/covers/arkhtinn-\u4E8C\u5EA6\u76EE\u306E\u707D\u5BB3-th
 title: "Arkhtinn - \u4E8C\u5EA6\u76EE\u306E\u707D\u5BB3"
 ---
 
+## Vinyl
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/arkhtinn-二度目の災害-lp) for $32.00 :: Black w/ Yellow Galaxy 2022 press vinyl
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=19779&sort=pd.name&order=ASC) for $15.00

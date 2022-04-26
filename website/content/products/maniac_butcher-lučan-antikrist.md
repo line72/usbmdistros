@@ -4,7 +4,7 @@ album: "Lu\u010Dan-antikrist"
 artist: Maniac Butcher
 categories:
 - Vinyl
-date: '2022-03-12T06:07:54'
+date: '2022-04-26T05:09:10'
 draft: false
 images:
 - "/images/covers/maniac_butcher-lu\u010Dan-antikrist.jpg"
@@ -16,3 +16,4 @@ title: "Maniac Butcher - Lu\u010Dan-antikrist"
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=18090&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=21479&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=22795&sort=pd.name&order=ASC) for $25.00
