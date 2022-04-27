@@ -4,7 +4,7 @@ album: Let the Demon Speak
 artist: "Destr\xF6yer 666"
 categories:
 - Vinyl
-date: '2022-04-21T05:00:31'
+date: '2022-04-27T05:00:25'
 draft: false
 images:
 - "/images/covers/destr\xF6yer_666-let_the_demon_speak.jpg"
