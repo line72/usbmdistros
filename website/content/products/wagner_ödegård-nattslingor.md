@@ -4,7 +4,7 @@ album: Nattslingor
 artist: "Wagner \xD6deg\xE5rd"
 categories:
 - Vinyl
-date: '2022-03-02T06:08:33'
+date: '2022-04-29T05:09:27'
 draft: false
 images:
 - "/images/covers/wagner_\xF6deg\xE5rd-nattslingor.jpg"
@@ -19,3 +19,4 @@ title: "Wagner \xD6deg\xE5rd - Nattslingor"
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=20197&sort=pd.name&order=ASC) for $50.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=21072&sort=pd.name&order=ASC) for $50.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=21170&sort=pd.name&order=ASC) for $50.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=22883&sort=pd.name&order=ASC) for $35.00

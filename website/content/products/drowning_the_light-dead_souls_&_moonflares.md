@@ -1,0 +1,17 @@
+---
+actualPrice: $14.00
+album: Dead Souls & Moonflares
+artist: Drowning The Light
+categories:
+- CD
+date: '2022-04-29T05:00:56'
+draft: false
+images:
+- /images/covers/drowning_the_light-dead_souls_&_moonflares.jpg
+inStock: true
+thumbnailImage: /images/covers/drowning_the_light-dead_souls_&_moonflares-thumb.jpg
+title: Drowning The Light - Dead Souls & Moonflares
+---
+
+## CD
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/drowning-the-light-dead-souls-moonflares-cd) for $14.00

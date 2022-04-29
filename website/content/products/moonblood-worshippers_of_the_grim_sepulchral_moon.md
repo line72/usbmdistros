@@ -5,7 +5,7 @@ artist: Moonblood
 categories:
 - Vinyl
 - CD
-date: '2022-04-08T05:07:44'
+date: '2022-04-29T05:10:40'
 draft: false
 images:
 - /images/covers/moonblood-worshippers_of_the_grim_sepulchral_moon.jpg
@@ -25,3 +25,4 @@ title: Moonblood - Worshippers of the Grim Sepulchral Moon
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=20702&sort=pd.name&order=ASC) for $20.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=21277&sort=pd.name&order=ASC) for $20.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=21637&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=22926&sort=pd.name&order=ASC) for $20.00
