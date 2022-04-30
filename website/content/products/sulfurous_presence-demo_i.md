@@ -4,7 +4,7 @@ album: Demo I
 artist: Sulfurous Presence
 categories:
 - Cassette
-date: '2022-03-01T06:00:43'
+date: '2022-04-30T05:00:49'
 draft: false
 images:
 - /images/covers/sulfurous_presence-demo_i.png
