@@ -1,10 +1,10 @@
 ---
-actualPrice: $35.00
+actualPrice: $21.00 - 35.00
 album: Kristall & Isa
 artist: Paysage d'Hiver
 categories:
 - Vinyl
-date: '2021-08-04T06:47:33'
+date: '2022-05-01T05:32:18'
 draft: false
 images:
 - /images/covers/paysage_d'hiver-kristall_&_isa.jpg
@@ -15,3 +15,4 @@ title: Paysage d'Hiver - Kristall & Isa
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=16831&sort=pd.name&order=ASC) for $35.00
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/paysage-dhiver-kristall-isa) for $21.00 :: Black 1st press vinyl
