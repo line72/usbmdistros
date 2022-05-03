@@ -4,7 +4,7 @@ album: "Ur T\xF6rnedjupen"
 artist: "Wagner \xD6deg\xE5rd"
 categories:
 - Vinyl
-date: '2022-04-29T05:09:27'
+date: '2022-05-03T05:09:33'
 draft: false
 images:
 - "/images/covers/wagner_\xF6deg\xE5rd-ur_t\xF6rnedjupen.jpg"
@@ -19,3 +19,4 @@ title: "Wagner \xD6deg\xE5rd - Ur T\xF6rnedjupen"
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=21074&sort=pd.name&order=ASC) for $50.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=21174&sort=pd.name&order=ASC) for $50.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=22882&sort=pd.name&order=ASC) for $35.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=22941&sort=pd.name&order=ASC) for $35.00

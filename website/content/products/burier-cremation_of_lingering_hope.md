@@ -1,10 +1,11 @@
 ---
-actualPrice: $15.00
+actualPrice: $12.00 - 15.00
 album: Cremation Of Lingering Hope
 artist: Burier
 categories:
 - Cassette
-date: '2022-02-10T06:09:43'
+- CD
+date: '2022-05-03T05:10:09'
 draft: false
 images:
 - /images/covers/burier-cremation_of_lingering_hope.jpg
@@ -15,3 +16,5 @@ title: Burier - Cremation Of Lingering Hope
 
 ## Cassette
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=20801&sort=pd.name&order=ASC) for $15.00
+## CD
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=22947&sort=pd.name&order=ASC) for $12.00
