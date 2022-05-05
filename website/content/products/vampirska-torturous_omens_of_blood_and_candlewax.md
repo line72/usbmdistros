@@ -5,7 +5,7 @@ artist: Vampirska
 categories:
 - Vinyl
 - CD
-date: '2022-03-18T05:01:37'
+date: '2022-05-04T05:00:58'
 draft: false
 images:
 - /images/covers/vampirska-torturous_omens_of_blood_and_candlewax.jpg

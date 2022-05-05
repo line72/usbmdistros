@@ -5,7 +5,7 @@ artist: Goat Disciple
 categories:
 - Vinyl
 - CD
-date: '2021-11-30T13:35:39'
+date: '2022-05-04T05:10:20'
 draft: false
 images:
 - /images/covers/goat_disciple-wolfcult_domination.jpg
@@ -19,3 +19,4 @@ title: Goat Disciple - Wolfcult Domination
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/goat-disciple-wolfcult-domination) for $18.00 :: Black 1st press vinyl
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=6029&sort=pd.name&order=ASC) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=22975&sort=pd.name&order=ASC) for $12.00

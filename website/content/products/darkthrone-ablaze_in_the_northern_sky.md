@@ -1,0 +1,17 @@
+---
+actualPrice: $15.00
+album: Ablaze in the Northern Sky
+artist: Darkthrone
+categories:
+- Cassette
+date: '2022-05-05T05:13:13'
+draft: false
+images:
+- /images/covers/darkthrone-ablaze_in_the_northern_sky.jpg
+inStock: true
+thumbnailImage: /images/covers/darkthrone-ablaze_in_the_northern_sky-thumb.jpg
+title: Darkthrone - Ablaze in the Northern Sky
+---
+
+## Cassette
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=23044&sort=pd.name&order=ASC) for $15.00

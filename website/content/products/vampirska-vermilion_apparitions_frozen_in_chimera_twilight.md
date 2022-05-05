@@ -5,7 +5,7 @@ artist: Vampirska
 categories:
 - Vinyl
 - CD
-date: '2022-03-25T05:00:48'
+date: '2022-05-04T05:00:58'
 draft: false
 images:
 - /images/covers/vampirska-vermilion_apparitions_frozen_in_chimera_twilight.jpg

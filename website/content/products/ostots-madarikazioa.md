@@ -6,7 +6,7 @@ categories:
 - Vinyl
 - Cassette
 - CD
-date: '2022-04-13T05:11:14'
+date: '2022-05-04T05:00:31'
 draft: false
 images:
 - /images/covers/ostots-madarikazioa.png
@@ -19,6 +19,7 @@ title: Ostots - Madarikazioa
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=20744&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=21040&sort=pd.name&order=ASC) for $25.00
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/ostots-madarikazioa-12-lp) for $26.00
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/ostots-madarikazioa-12-lp) for $25.00
 ## Cassette
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/ostots-madarikazioa-tape) for $10.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=22411&sort=pd.name&order=ASC) for $12.00
