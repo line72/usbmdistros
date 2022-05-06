@@ -5,7 +5,7 @@ artist: Ejecutor
 categories:
 - Cassette
 - CD
-date: '2021-11-30T13:35:38'
+date: '2022-05-06T05:11:28'
 draft: false
 images:
 - /images/covers/ejecutor-metal_venenoso.jpg
@@ -16,5 +16,6 @@ title: Ejecutor - Metal Venenoso
 
 ## Cassette
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=16664&sort=pd.name&order=ASC) for $8.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=23077&sort=pd.name&order=ASC) for $10.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=14186&sort=pd.name&order=ASC) for $10.00

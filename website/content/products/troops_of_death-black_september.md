@@ -1,10 +1,10 @@
 ---
-actualPrice: $6.00
+actualPrice: $6.00 - 10.00
 album: Black September
 artist: Troops of Death
 categories:
 - Cassette
-date: '2021-06-26T15:23:24'
+date: '2022-05-06T05:12:01'
 draft: false
 images:
 - /images/covers/troops_of_death-black_september.png
@@ -15,3 +15,4 @@ title: Troops of Death - Black September
 
 ## Cassette
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=11077&sort=pd.name&order=ASC) for $6.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=23113&sort=pd.name&order=ASC) for $10.00

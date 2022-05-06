@@ -1,10 +1,10 @@
 ---
-actualPrice: $21.00
+actualPrice: $20.00
 album: Awakening
 artist: Scitalis
 categories:
 - Vinyl
-date: '2022-01-21T06:11:50'
+date: '2022-05-06T05:14:43'
 draft: false
 images:
 - /images/covers/scitalis-awakening.jpg
@@ -14,4 +14,4 @@ title: Scitalis - Awakening
 ---
 
 ## Vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/scitalis-awakening-lp) for $21.00 :: Black 2022 press vinyl
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/scitalis-awakening-lp) for $20.00 :: Black 2022 press vinyl
