@@ -6,7 +6,7 @@ categories:
 - Vinyl
 - Cassette
 - CD
-date: '2022-04-15T05:11:37'
+date: '2022-05-07T05:11:42'
 draft: false
 images:
 - /images/covers/bathory-twilight_of_the_gods.jpg
@@ -26,5 +26,6 @@ title: Bathory - Twilight Of The Gods
 * Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/bathory-twilight-of-the-gods-12/) for $30.00
 ## Cassette
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=22476&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=23156&sort=pd.name&order=ASC) for $15.00
 ## CD
 * Purchase from [CW Productions](https://shop.cwproductions.net/products/bathory-twilight-of-the-gods-cd) for $14.00

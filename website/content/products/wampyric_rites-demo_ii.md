@@ -5,7 +5,7 @@ artist: Wampyric Rites
 categories:
 - Cassette
 - CD
-date: '2022-05-04T05:01:01'
+date: '2022-05-07T05:00:53'
 draft: false
 images:
 - /images/covers/wampyric_rites-demo_ii.jpg

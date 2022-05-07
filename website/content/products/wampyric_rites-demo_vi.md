@@ -4,7 +4,7 @@ album: Demo VI
 artist: Wampyric Rites
 categories:
 - Cassette
-date: '2021-11-16T14:05:08'
+date: '2022-05-07T05:00:53'
 draft: false
 images:
 - /images/covers/wampyric_rites-demo_vi.jpg
