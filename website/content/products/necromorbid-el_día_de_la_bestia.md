@@ -1,10 +1,11 @@
 ---
-actualPrice: $15.00
+actualPrice: $15.00 - 25.00
 album: "El D\xEDa de la Bestia"
 artist: Necromorbid
 categories:
+- Vinyl
 - CD
-date: '2022-03-22T05:09:52'
+date: '2022-05-10T05:09:11'
 draft: false
 images:
 - "/images/covers/necromorbid-el_d\xEDa_de_la_bestia.jpg"
@@ -13,5 +14,7 @@ thumbnailImage: "/images/covers/necromorbid-el_d\xEDa_de_la_bestia-thumb.jpg"
 title: "Necromorbid - El D\xEDa de la Bestia"
 ---
 
+## Vinyl
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=23206&sort=pd.name&order=ASC) for $25.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=21733&sort=pd.name&order=ASC) for $15.00

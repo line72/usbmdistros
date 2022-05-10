@@ -4,7 +4,7 @@ album: Laments of Eriu
 artist: Ifernach
 categories:
 - CD
-date: '2022-05-07T05:00:58'
+date: '2022-05-09T05:01:03'
 draft: false
 images:
 - /images/covers/ifernach-laments_of_eriu.jpg

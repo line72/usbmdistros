@@ -5,7 +5,7 @@ artist: Bathory
 categories:
 - Vinyl
 - Cassette
-date: '2022-05-04T05:08:06'
+date: '2022-05-10T05:08:20'
 draft: false
 images:
 - /images/covers/bathory-blood_fire_death.jpg
@@ -21,5 +21,6 @@ title: Bathory - Blood Fire Death
 * Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/bathory-blood-fire-death-12-lp/) for $28.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=22856&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=22971&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=23210&sort=pd.name&order=ASC) for $25.00
 ## Cassette
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=22477&sort=pd.name&order=ASC) for $15.00
