@@ -4,7 +4,7 @@ album: Descent into Beyond
 artist: Lucifer's Hammer
 categories:
 - Vinyl
-date: '2022-04-23T05:09:36'
+date: '2022-05-15T05:08:57'
 draft: false
 images:
 - /images/covers/lucifer's_hammer-descent_into_beyond.jpg
@@ -22,3 +22,5 @@ title: Lucifer's Hammer - Descent into Beyond
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=22772&sort=pd.name&order=ASC) for $20.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=22785&sort=pd.name&order=ASC) for $20.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=22786&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=23327&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=23328&sort=pd.name&order=ASC) for $25.00
