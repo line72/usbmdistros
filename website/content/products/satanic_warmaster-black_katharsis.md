@@ -4,7 +4,7 @@ album: Black Katharsis
 artist: Satanic Warmaster
 categories:
 - Vinyl
-date: '2022-05-12T05:00:31'
+date: '2022-05-16T05:00:27'
 draft: false
 images:
 - /images/covers/satanic_warmaster-black_katharsis.jpg

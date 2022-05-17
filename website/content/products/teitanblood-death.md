@@ -1,10 +1,11 @@
 ---
-actualPrice: $20.00
+actualPrice: $15.00 - 30.00
 album: Death
 artist: Teitanblood
 categories:
 - Vinyl
-date: '2021-09-14T05:08:26'
+- CD
+date: '2022-05-17T05:12:00'
 draft: false
 images:
 - /images/covers/teitanblood-death.jpg
@@ -15,3 +16,6 @@ title: Teitanblood - Death
 
 ## Vinyl
 * Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/teitanblood-death-12-double-lp/) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=23356&sort=pd.name&order=ASC) for $30.00
+## CD
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=23365&sort=pd.name&order=ASC) for $15.00
