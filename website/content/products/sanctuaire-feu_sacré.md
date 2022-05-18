@@ -4,7 +4,7 @@ album: "Feu Sacr\xE9"
 artist: Sanctuaire
 categories:
 - Vinyl
-date: '2021-12-25T06:06:54'
+date: '2022-05-18T05:09:22'
 draft: false
 images:
 - "/images/covers/sanctuaire-feu_sacr\xE9.jpg"
@@ -15,3 +15,4 @@ title: "Sanctuaire - Feu Sacr\xE9"
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=19861&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=23374&sort=pd.name&order=ASC) for $25.00

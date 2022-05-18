@@ -1,10 +1,11 @@
 ---
-actualPrice: $39.00
+actualPrice: $10.00 - 39.00
 album: Sarcator
 artist: Sarcator
 categories:
 - Vinyl
-date: '2021-11-16T14:16:31'
+- Cassette
+date: '2022-05-18T05:12:29'
 draft: false
 images:
 - /images/covers/sarcator-sarcator.png
@@ -16,3 +17,5 @@ title: Sarcator - Sarcator
 ## Vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/sarcator-sarcator) for $39.00 :: Deicidal Black/Red 2nd press vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/sarcator-sarcator) for $39.00 :: Circle Of Impurity Orange 2nd press vinyl
+## Cassette
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=23384&sort=pd.name&order=ASC) for $10.00
