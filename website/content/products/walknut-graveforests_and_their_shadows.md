@@ -4,7 +4,7 @@ album: Graveforests and Their Shadows
 artist: Walknut
 categories:
 - Vinyl
-date: '2022-05-17T05:10:13'
+date: '2022-05-19T05:00:38'
 draft: false
 images:
 - /images/covers/walknut-graveforests_and_their_shadows.jpg
@@ -16,3 +16,4 @@ title: Walknut - Graveforests and Their Shadows
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=23178&sort=pd.name&order=ASC) for $35.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=23366&sort=pd.name&order=ASC) for $35.00
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/walknut-graveforests-and-their-shadows-12-lp) for $35.00

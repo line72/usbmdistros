@@ -5,7 +5,7 @@ artist: Ebony Pendant
 categories:
 - Vinyl
 - CD
-date: '2022-05-02T05:00:34'
+date: '2022-05-19T05:00:37'
 draft: false
 images:
 - /images/covers/ebony_pendant-incantation_of_eschatological_mysticism.jpg
@@ -18,5 +18,6 @@ title: Ebony Pendant - Incantation of Eschatological Mysticism
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/ebony-pendant-incantation-of-eschatological-mysticism-12-lp) for $30.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=21355&sort=pd.name&order=ASC) for $28.00
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/ebony-pendant-incantation-of-eschatological-mysticism-12-lp) for $28.00
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/ebony-pendant-incantation-of-eschatological-mysticism-12-lp) for $29.00
 ## CD
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/ebony-pendant-incantation-of-eschatological-mysticism-cd) for $13.00
