@@ -4,7 +4,7 @@ album: Tomb Emanations
 artist: Black Cilice
 categories:
 - Vinyl
-date: '2022-04-13T05:00:46'
+date: '2022-05-21T05:10:05'
 draft: false
 images:
 - /images/covers/black_cilice-tomb_emanations.jpg
@@ -19,3 +19,4 @@ title: Black Cilice - Tomb Emanations
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/black-cilice-tomb-emanations-7-ep) for $11.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=21808&sort=pd.name&order=ASC) for $10.00
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/black-cilice-tomb-emanations-7-ep) for $11.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=23515&sort=pd.name&order=ASC) for $10.00

@@ -5,7 +5,7 @@ artist: "Caix\xE3o"
 categories:
 - Vinyl
 - Cassette
-date: '2022-05-04T05:08:12'
+date: '2022-05-21T05:08:34'
 draft: false
 images:
 - "/images/covers/caix\xE3o-demo_2020.png"
@@ -17,5 +17,6 @@ title: "Caix\xE3o - Demo 2020"
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=22162&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=22970&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=23595&sort=pd.name&order=ASC) for $25.00
 ## Cassette
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=16454&sort=pd.name&order=ASC) for $8.00
