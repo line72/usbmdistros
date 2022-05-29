@@ -69,8 +69,13 @@ class ArcaneAltar(Parser):
                 return None
 
         artist = artist.strip(string.whitespace + chr(8206) + chr(160))
+
+        try:
+            album, item_type = self.split_album_type(rest)
+        except Exception as e:
+            print(e)
+            return None
         
-        album, item_type = self.split_album_type(rest)
         price = int(float(self.get_price(entry['g_price'])) * 100)
         availability = entry['g_availability']
         img_link = entry['g_image_link']
