@@ -5,7 +5,7 @@ artist: Mayhem
 categories:
 - Vinyl
 - Cassette
-date: '2022-04-20T05:08:31'
+date: '2022-05-29T12:39:30'
 draft: false
 images:
 - /images/covers/mayhem-live_in_leipzig.jpg
@@ -18,6 +18,7 @@ title: Mayhem - Live in Leipzig
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=21796&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=21856&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=22740&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=23897&sort=pd.name&order=ASC) for $25.00
 ## Cassette
 * Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/mayhem-live-in-leipzig-cassette/) for $11.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=17552&sort=pd.name&order=ASC) for $12.00

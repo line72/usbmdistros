@@ -4,7 +4,7 @@ album: Live in Sarpsborg
 artist: Mayhem
 categories:
 - Vinyl
-date: '2022-04-20T05:08:31'
+date: '2022-05-29T12:39:30'
 draft: false
 images:
 - /images/covers/mayhem-live_in_sarpsborg.jpg
@@ -19,3 +19,4 @@ title: Mayhem - Live in Sarpsborg
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=19010&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=21092&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=22741&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=23898&sort=pd.name&order=ASC) for $25.00

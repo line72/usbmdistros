@@ -6,7 +6,7 @@ album: "\u0633\u0631\u0632\u0645\u06CC\u0646 \u0628\u0686\u0647 \u0647\u0627\u06
 artist: "\u0100tesh"
 categories:
 - Vinyl
-date: '2022-05-19T05:00:36'
+date: '2022-05-26T05:00:31'
 draft: false
 images:
 - "/images/covers/\u0101tesh-\u0633\u0631\u0632\u0645\u06CC\u0646_\u0628\u0686\u0647\
@@ -22,4 +22,5 @@ title: "\u0100tesh - \u0633\u0631\u0632\u0645\u06CC\u0646 \u0628\u0686\u0647 \u0
 ---
 
 ## Vinyl
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/atesh-lp) for $29.00
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/atesh-lp) for $29.00

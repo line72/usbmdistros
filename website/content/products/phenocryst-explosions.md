@@ -1,11 +1,12 @@
 ---
-actualPrice: $10.00 - 15.00
+actualPrice: $10.00 - 20.00
 album: Explosions
 artist: Phenocryst
 categories:
+- Vinyl
 - Cassette
 - CD
-date: '2022-05-04T05:10:53'
+date: '2022-05-29T12:46:37'
 draft: false
 images:
 - /images/covers/phenocryst-explosions.jpg
@@ -14,6 +15,8 @@ thumbnailImage: /images/covers/phenocryst-explosions-thumb.jpg
 title: Phenocryst - Explosions
 ---
 
+## Vinyl
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/phenocryst-explosions-lp) for $20.00 :: Black 1st press vinyl
 ## Cassette
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/phenocryst-explosions-cassette) for $10.00 :: Cassette Tape 1st press
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/phenocryst-explosions-cassette-1) for $10.00 :: Cassette Tape 1st press

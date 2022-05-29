@@ -4,7 +4,7 @@ album: Disease in Solitude
 artist: Nihil Invocation
 categories:
 - Vinyl
-date: '2021-06-26T15:02:54'
+date: '2022-05-29T05:00:40'
 draft: false
 images:
 - /images/covers/nihil_invocation-disease_in_solitude.jpg
