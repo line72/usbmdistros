@@ -7,9 +7,9 @@ categories:
 date: '2022-05-29T12:31:22'
 draft: false
 images:
-- /images/covers/candelabrum-nocturnal_trance.png
+- /images/covers/candelabrum-nocturnal_trance.jpg
 inStock: true
-thumbnailImage: /images/covers/candelabrum-nocturnal_trance-thumb.png
+thumbnailImage: /images/covers/candelabrum-nocturnal_trance-thumb.jpg
 title: Candelabrum - Nocturnal Trance
 ---
 

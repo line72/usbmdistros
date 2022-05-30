@@ -7,9 +7,9 @@ categories:
 date: '2022-05-29T12:39:48'
 draft: false
 images:
-- /images/covers/paysage_d'hiver-einsamkeit.png
+- /images/covers/paysage_d'hiver-einsamkeit.jpg
 inStock: true
-thumbnailImage: /images/covers/paysage_d'hiver-einsamkeit-thumb.png
+thumbnailImage: /images/covers/paysage_d'hiver-einsamkeit-thumb.jpg
 title: Paysage d'Hiver - Einsamkeit
 ---
 

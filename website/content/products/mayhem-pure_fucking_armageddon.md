@@ -7,9 +7,9 @@ categories:
 date: '2022-05-29T12:39:30'
 draft: false
 images:
-- /images/covers/mayhem-pure_fucking_armageddon.png
+- /images/covers/mayhem-pure_fucking_armageddon.jpg
 inStock: true
-thumbnailImage: /images/covers/mayhem-pure_fucking_armageddon-thumb.png
+thumbnailImage: /images/covers/mayhem-pure_fucking_armageddon-thumb.jpg
 title: Mayhem - Pure Fucking Armageddon
 ---
 

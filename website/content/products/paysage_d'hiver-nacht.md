@@ -7,9 +7,9 @@ categories:
 date: '2022-05-29T12:39:48'
 draft: false
 images:
-- /images/covers/paysage_d'hiver-nacht.png
+- /images/covers/paysage_d'hiver-nacht.jpg
 inStock: true
-thumbnailImage: /images/covers/paysage_d'hiver-nacht-thumb.png
+thumbnailImage: /images/covers/paysage_d'hiver-nacht-thumb.jpg
 title: Paysage d'Hiver - Nacht
 ---
 

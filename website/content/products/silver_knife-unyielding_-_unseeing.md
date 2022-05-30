@@ -7,9 +7,9 @@ categories:
 date: '2022-05-29T12:46:37'
 draft: false
 images:
-- /images/covers/silver_knife-unyielding_-_unseeing.png
+- /images/covers/silver_knife-unyielding_-_unseeing.jpg
 inStock: true
-thumbnailImage: /images/covers/silver_knife-unyielding_-_unseeing-thumb.png
+thumbnailImage: /images/covers/silver_knife-unyielding_-_unseeing-thumb.jpg
 title: Silver Knife - Unyielding / Unseeing
 ---
 

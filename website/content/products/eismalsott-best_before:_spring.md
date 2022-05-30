@@ -7,9 +7,9 @@ categories:
 date: '2022-05-29T12:40:38'
 draft: false
 images:
-- /images/covers/eismalsott-best_before:_spring.png
+- /images/covers/eismalsott-best_before:_spring.jpg
 inStock: true
-thumbnailImage: /images/covers/eismalsott-best_before:_spring-thumb.png
+thumbnailImage: /images/covers/eismalsott-best_before:_spring-thumb.jpg
 title: 'Eismalsott - Best Before: Spring'
 ---
 

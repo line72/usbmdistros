@@ -5,7 +5,7 @@ artist: Gauntlet Ring
 categories:
 - Vinyl
 - CD
-date: '2022-05-21T05:00:56'
+date: '2022-05-30T05:01:06'
 draft: false
 images:
 - /images/covers/gauntlet_ring-upon_the_wings_of_the_black_eagle.jpg
