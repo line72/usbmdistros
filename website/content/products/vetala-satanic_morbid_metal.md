@@ -5,7 +5,8 @@ artist: Vetala
 categories:
 - Vinyl
 - Cassette
-date: '2022-03-04T06:00:38'
+- CD
+date: '2022-06-01T05:01:02'
 draft: false
 images:
 - /images/covers/vetala-satanic_morbid_metal.jpg
@@ -19,3 +20,5 @@ title: Vetala - Satanic Morbid Metal
 * Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/vetala-satanic-morbid-metal-12-lp/) for $19.00
 ## Cassette
 * Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/vetala-satanic-morbid-metal-cassette/) for $9.00
+## CD
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/vetala-satanic-morbid-metal-cd) for $13.00

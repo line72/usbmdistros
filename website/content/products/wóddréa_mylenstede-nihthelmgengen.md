@@ -5,7 +5,7 @@ artist: "W\xF3ddr\xE9a Mylenstede"
 categories:
 - Vinyl
 - Cassette
-date: '2021-11-30T13:35:58'
+date: '2022-06-01T05:13:17'
 draft: false
 images:
 - "/images/covers/w\xF3ddr\xE9a_mylenstede-nihthelmgengen.jpg"
@@ -20,3 +20,4 @@ title: "W\xF3ddr\xE9a Mylenstede - Nihthelmgengen"
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=17844&sort=pd.name&order=ASC) for $20.00
 ## Cassette
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=17839&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=24013&sort=pd.name&order=ASC) for $12.00
