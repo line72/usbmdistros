@@ -6,7 +6,7 @@ categories:
 - Vinyl
 - Cassette
 - CD
-date: '2022-06-01T05:09:35'
+date: '2022-06-02T05:15:40'
 draft: false
 images:
 - /images/covers/phenocryst-explosions.jpg
@@ -18,6 +18,7 @@ title: Phenocryst - Explosions
 ## Vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/phenocryst-explosions-lp) for $20.00 :: Black 1st press vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=24006&sort=pd.name&order=ASC) for $25.00
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/phenocryst-explosions-lp) for $22.00 :: Orange 1st press vinyl
 ## Cassette
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/phenocryst-explosions-cassette) for $10.00 :: Cassette Tape 1st press
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/phenocryst-explosions-cassette-1) for $10.00 :: Cassette Tape 1st press

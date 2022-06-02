@@ -1,10 +1,10 @@
 ---
-actualPrice: $8.50
+actualPrice: $3.50
 album: Waning Death
 artist: Thirsty Demon
 categories:
 - Cassette
-date: '2021-11-16T14:07:17'
+date: '2022-06-02T05:02:43'
 draft: false
 images:
 - /images/covers/thirsty_demon-waning_death.jpg
@@ -14,4 +14,4 @@ title: Thirsty Demon - Waning Death
 ---
 
 ## Cassette
-* Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/29793061-thirsty-demon-waning-death) for $8.50
+* Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/29793061-thirsty-demon-waning-death) for $3.50
