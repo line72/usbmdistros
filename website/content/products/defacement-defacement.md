@@ -1,11 +1,11 @@
 ---
-actualPrice: $17.00 - 25.00
+actualPrice: $17.00 - 27.00
 album: Defacement
 artist: Defacement
 categories:
 - Vinyl
 - Cassette
-date: '2021-09-08T05:09:21'
+date: '2022-06-03T05:17:13'
 draft: false
 images:
 - /images/covers/defacement-defacement.png
@@ -15,6 +15,6 @@ title: Defacement - Defacement
 ---
 
 ## Vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/defacement-defacement-lp) for $25.00 :: Black 1st press vinyl
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/defacement-defacement-lp) for $27.00 :: Black 2nd press vinyl
 ## Cassette
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/defacement-defacement-cassette) for $17.00 :: Cassette Tape 1st press

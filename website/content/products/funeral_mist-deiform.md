@@ -5,7 +5,7 @@ artist: Funeral Mist
 categories:
 - Vinyl
 - CD
-date: '2022-01-12T06:08:35'
+date: '2022-06-03T05:09:00'
 draft: false
 images:
 - /images/covers/funeral_mist-deiform.jpg
@@ -16,5 +16,6 @@ title: Funeral Mist - Deiform
 
 ## Vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/funeral-mist-deiform-2xlp) for $39.00 :: Black 1st press vinyl
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=24111&sort=pd.name&order=ASC) for $30.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=20252&sort=pd.name&order=ASC) for $15.00
