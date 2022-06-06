@@ -5,7 +5,7 @@ artist: Order of Nosferat
 categories:
 - Vinyl
 - CD
-date: '2022-06-02T05:00:32'
+date: '2022-06-06T05:00:29'
 draft: false
 images:
 - /images/covers/order_of_nosferat-arrival_of_the_plague_bearer.jpg

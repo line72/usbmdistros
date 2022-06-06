@@ -5,7 +5,7 @@ artist: Antaeus
 categories:
 - Vinyl
 - CD
-date: '2021-11-30T13:35:14'
+date: '2022-06-06T05:08:57'
 draft: false
 images:
 - /images/covers/antaeus-de_principii_evangelikum.jpg
@@ -19,5 +19,6 @@ title: Antaeus - De Principii Evangelikum
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/antaeus-de-principii) for $25.00 :: Black 2019 press vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/antaeus-de-principii) for $35.00 :: Red w/ Black Splatter 2021 press vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/antaeus-de-principii) for $32.00 :: White w/ Red Splatter 2015 press vinyl
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=24213&sort=pd.name&order=ASC) for $22.00
 ## CD
 * Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/antaeus-de-principii-evangelikum-cd/) for $8.00
