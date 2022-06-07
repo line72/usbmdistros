@@ -8,9 +8,9 @@ categories:
 date: '2022-05-29T12:41:16'
 draft: false
 images:
-- /images/covers/cadaver_coils-offerings_of_rapture_and_decay.png
+- /images/covers/cadaver_coils-offerings_of_rapture_and_decay.jpg
 inStock: true
-thumbnailImage: /images/covers/cadaver_coils-offerings_of_rapture_and_decay-thumb.png
+thumbnailImage: /images/covers/cadaver_coils-offerings_of_rapture_and_decay-thumb.jpg
 title: Cadaver Coils - Offerings of Rapture and Decay
 ---
 
