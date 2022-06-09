@@ -1,11 +1,11 @@
 ---
-actualPrice: $10.00 - 32.00
+actualPrice: $8.00 - 32.00
 album: Abyss of Wrathful Deities
 artist: Grave Miasma
 categories:
 - Vinyl
 - Cassette
-date: '2021-09-08T05:09:51'
+date: '2022-06-09T05:15:49'
 draft: false
 images:
 - /images/covers/grave_miasma-abyss_of_wrathful_deities.png
@@ -19,3 +19,4 @@ title: Grave Miasma - Abyss of Wrathful Deities
 ## Cassette
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=15594&sort=pd.name&order=ASC) for $10.00
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/grave-miasma-abyss-of-wrathful-deities-cassette) for $10.00 :: Cassette Tape 1st press
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/used-grave-miasma-abyss-of-wrathful-deities-cassette) for $8.00 :: Cassette Tape 2021

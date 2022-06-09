@@ -4,7 +4,7 @@ album: Feed on the Dead
 artist: Ancient Stone
 categories:
 - Vinyl
-date: '2022-04-14T05:06:59'
+date: '2022-06-08T05:07:56'
 draft: false
 images:
 - /images/covers/ancient_stone-feed_on_the_dead.jpg
@@ -16,3 +16,4 @@ title: Ancient Stone - Feed on the Dead
 ## Vinyl
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/ancient-stone-feed-on-the-dead-12-lp) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=22442&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=24250&sort=pd.name&order=ASC) for $25.00

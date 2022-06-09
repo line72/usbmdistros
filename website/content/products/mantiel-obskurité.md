@@ -5,7 +5,7 @@ artist: Mantiel
 categories:
 - Vinyl
 - CD
-date: '2022-04-14T05:00:29'
+date: '2022-06-08T05:00:56'
 draft: false
 images:
 - "/images/covers/mantiel-obskurit\xE9.jpg"

@@ -5,7 +5,7 @@ artist: "V\xF8idwomb"
 categories:
 - Vinyl
 - Cassette
-date: '2022-03-25T05:02:28'
+date: '2022-06-09T05:15:49'
 draft: false
 images:
 - "/images/covers/v\xF8idwomb-altars_of_cosmic_devotion.jpg"
@@ -20,3 +20,4 @@ title: "V\xF8idwomb - Altars of Cosmic Devotion"
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/voidwomb-altars-of-cosmic-devotion) for $27.00 :: Blue/White Marble 1st press vinyl
 ## Cassette
 * Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/33607294-voidwomb-altars-of-cosmic-devotion) for $8.00
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/used-voidwomb-altars-of-cosmic-devotion-cassette) for $8.00 :: Cassette Tape 2021
