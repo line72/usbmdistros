@@ -4,7 +4,7 @@ album: The First Sublevel of Suicide
 artist: Leviathan
 categories:
 - Vinyl
-date: '2021-12-27T06:06:59'
+date: '2022-06-10T05:09:05'
 draft: false
 images:
 - /images/covers/leviathan-the_first_sublevel_of_suicide.jpg
@@ -17,3 +17,4 @@ title: Leviathan - The First Sublevel of Suicide
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=11271&sort=pd.name&order=ASC) for $66.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=17967&sort=pd.name&order=ASC) for $30.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=19870&sort=pd.name&order=ASC) for $40.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=24302&sort=pd.name&order=ASC) for $30.00
