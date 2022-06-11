@@ -5,7 +5,7 @@ artist: Cosmic Church
 categories:
 - Vinyl
 - CD
-date: '2022-05-13T05:10:08'
+date: '2022-06-11T05:08:32'
 draft: false
 images:
 - "/images/covers/cosmic_church-absoluutin_l\xE4vist\xE4m\xE4.jpg"
@@ -20,6 +20,7 @@ title: "Cosmic Church - Absoluutin L\xE4vist\xE4m\xE4"
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=21659&sort=pd.name&order=ASC) for $27.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=22705&sort=pd.name&order=ASC) for $27.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=23317&sort=pd.name&order=ASC) for $27.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=24326&sort=pd.name&order=ASC) for $27.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=20787&sort=pd.name&order=ASC) for $15.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=23316&sort=pd.name&order=ASC) for $15.00

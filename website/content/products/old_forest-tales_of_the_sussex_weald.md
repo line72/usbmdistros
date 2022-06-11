@@ -4,7 +4,7 @@ album: Tales of the Sussex Weald
 artist: Old Forest
 categories:
 - Vinyl
-date: '2022-04-19T05:08:37'
+date: '2022-06-11T05:09:26'
 draft: false
 images:
 - /images/covers/old_forest-tales_of_the_sussex_weald.jpg
@@ -16,3 +16,4 @@ title: Old Forest - Tales of the Sussex Weald
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=20897&sort=pd.name&order=ASC) for $30.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=22704&sort=pd.name&order=ASC) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=24323&sort=pd.name&order=ASC) for $30.00

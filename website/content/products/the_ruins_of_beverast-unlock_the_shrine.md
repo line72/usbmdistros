@@ -4,7 +4,7 @@ album: Unlock The Shrine
 artist: The Ruins Of Beverast
 categories:
 - Vinyl
-date: '2022-02-23T06:08:22'
+date: '2022-06-11T05:09:53'
 draft: false
 images:
 - /images/covers/the_ruins_of_beverast-unlock_the_shrine.jpg
@@ -23,3 +23,4 @@ title: The Ruins Of Beverast - Unlock The Shrine
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=18422&sort=pd.name&order=ASC) for $30.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=19310&sort=pd.name&order=ASC) for $30.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=20983&sort=pd.name&order=ASC) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=24339&sort=pd.name&order=ASC) for $30.00
