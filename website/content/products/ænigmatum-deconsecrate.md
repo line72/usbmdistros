@@ -1,11 +1,11 @@
 ---
-actualPrice: $10.00 - 25.00
+actualPrice: $8.00 - 25.00
 album: Deconsecrate
 artist: "\xC6NIGMATUM"
 categories:
 - Vinyl
 - Cassette
-date: '2021-12-04T15:44:45'
+date: '2022-06-12T05:16:15'
 draft: false
 images:
 - "/images/covers/\xE6nigmatum-deconsecrate.jpg"
@@ -20,3 +20,4 @@ title: "\xC6NIGMATUM - Deconsecrate"
 ## Cassette
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/aenigmatum-deconsecrate-cassette) for $10.00 :: Cassette Tape 1st press
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/aenigmatum-deconsecrate-cassette-1) for $10.00 :: Cassette Tape 1st press
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/used-aenigmatum-deconsecrate-cassette) for $8.00 :: Cassette Tape 1st press
