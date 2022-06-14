@@ -1,11 +1,11 @@
 ---
-actualPrice: $10.00 - 27.00
+actualPrice: $8.00 - 27.00
 album: Forked Tongues
 artist: Craven Idol
 categories:
 - Vinyl
 - Cassette
-date: '2021-11-11T14:31:09'
+date: '2022-06-14T05:32:19'
 draft: false
 images:
 - /images/covers/craven_idol-forked_tongues.jpg
@@ -20,3 +20,4 @@ title: Craven Idol - Forked Tongues
 ## Cassette
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/craven-idol-forked-tongues-cassette) for $10.00 :: Cassette Tape 1st press
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/craven-idol-forked-tongues-cassette-1) for $10.00 :: Cassette Tape 1st press
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/used-craven-idol-forked-tongues-cassette) for $8.00 :: Cassette Tape 1st press

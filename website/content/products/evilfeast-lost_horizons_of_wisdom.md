@@ -4,7 +4,7 @@ album: Lost Horizons of Wisdom
 artist: Evilfeast
 categories:
 - Vinyl
-date: '2022-06-11T05:08:46'
+date: '2022-06-13T05:00:35'
 draft: false
 images:
 - /images/covers/evilfeast-lost_horizons_of_wisdom.jpg

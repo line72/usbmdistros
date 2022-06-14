@@ -6,7 +6,7 @@ categories:
 - Vinyl
 - Cassette
 - CD
-date: '2021-11-25T06:08:13'
+date: '2022-06-13T05:17:20'
 draft: false
 images:
 - /images/covers/kurnugia-forlorn_and_forsaken.jpg
@@ -19,5 +19,6 @@ title: Kurnugia - Forlorn And Forsaken
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/kurnugia-forlorn-and-forsaken-lp) for $27.00 :: Electric Blue w/ Splatter 1st press vinyl
 ## Cassette
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/kurnugia-forlorn-and-forsaken-cassette) for $15.00 :: Cassette Tape 1st press
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/used-kurnugia-forlorn-and-forsaken-cassette) for $14.00 :: Cassette Tape 2020
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=13991&sort=pd.name&order=ASC) for $7.00
