@@ -6,7 +6,7 @@ categories:
 - Vinyl
 - Cassette
 - CD
-date: '2022-04-07T05:12:49'
+date: '2022-06-15T05:01:14'
 draft: false
 images:
 - /images/covers/blut_aus_nord-hallucinogen.jpg
@@ -21,6 +21,7 @@ title: Blut Aus Nord - Hallucinogen
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/blut-aus-nord-hallucinogen) for $35.00 :: Black 2021 press vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/blut-aus-nord-hallucinogen) for $45.00 :: Neon Violet/White Merge 2021 press vinyl
 * Purchase from [Debemur Morti](https://debemurmorti.aisamerch.com/item/105707) for $36.99 :: Picture Disc
+* Purchase from [Debemur Morti](https://debemurmorti.aisamerch.com/item/113468) for $38.99 :: purple w/ pink swirl
 ## Cassette
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/blut-aus-nord-hallucinogen-cassette) for $14.00 :: Cassette Tape 2021 press
 ## CD

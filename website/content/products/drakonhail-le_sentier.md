@@ -4,7 +4,7 @@ album: Le Sentier
 artist: Drakonhail
 categories:
 - Vinyl
-date: '2022-06-11T05:00:26'
+date: '2022-06-15T05:00:25'
 draft: false
 images:
 - /images/covers/drakonhail-le_sentier.jpg

@@ -5,7 +5,7 @@ artist: Recluse
 categories:
 - Cassette
 - CD
-date: '2022-01-26T06:08:48'
+date: '2022-06-15T05:11:46'
 draft: false
 images:
 - /images/covers/recluse-the_black_famine.png
@@ -19,3 +19,4 @@ title: Recluse - The Black Famine
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=15393&sort=pd.name&order=ASC) for $10.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=20584&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=24414&sort=pd.name&order=ASC) for $12.00
