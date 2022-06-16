@@ -5,7 +5,7 @@ artist: Baxaxaxa
 categories:
 - Vinyl
 - CD
-date: '2022-01-24T06:06:32'
+date: '2022-06-16T05:16:44'
 draft: false
 images:
 - /images/covers/baxaxaxa-catacomb_cult.jpg
@@ -20,3 +20,4 @@ title: Baxaxaxa - Catacomb Cult
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=20518&sort=pd.name&order=ASC) for $25.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=17090&sort=pd.name&order=ASC) for $13.00
+* Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/baxaxaxa-catacomb-cult-cd/) for $13.00
