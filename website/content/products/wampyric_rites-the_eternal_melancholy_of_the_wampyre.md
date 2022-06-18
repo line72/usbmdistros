@@ -5,7 +5,7 @@ artist: Wampyric Rites
 categories:
 - Vinyl
 - CD
-date: '2021-11-24T06:00:38'
+date: '2022-06-18T05:00:24'
 draft: false
 images:
 - /images/covers/wampyric_rites-the_eternal_melancholy_of_the_wampyre.jpg
@@ -16,5 +16,6 @@ title: Wampyric Rites - The Eternal Melancholy of the Wampyre
 
 ## Vinyl
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/wampyric-rites-the-eternal-melancholy-of-the-wampyre-12-lp) for $35.00
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/wampyric-rites-the-eternal-melancholy-of-the-wampyre-12-lp) for $30.00
 ## CD
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/wampyric-rites-the-eternal-melancholy-of-the-wampyre-cd) for $15.00

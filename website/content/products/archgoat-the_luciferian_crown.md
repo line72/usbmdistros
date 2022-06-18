@@ -5,7 +5,7 @@ artist: Archgoat
 categories:
 - Vinyl
 - CD
-date: '2021-12-24T06:06:24'
+date: '2022-06-17T05:08:38'
 draft: false
 images:
 - /images/covers/archgoat-the_luciferian_crown.jpg
@@ -21,5 +21,6 @@ title: Archgoat - The Luciferian Crown
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/archgoat-the-luciferian-crown) for $25.00 :: Tricolor w/ Splatter
 * Purchase from [Debemur Morti](https://debemurmorti.aisamerch.com/item/104642) for $25.99
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=19851&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=24473&sort=pd.name&order=ASC) for $25.00
 ## CD
 * Purchase from [Debemur Morti](https://debemurmorti.aisamerch.com/item/72311) for $9.99

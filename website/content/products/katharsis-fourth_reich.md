@@ -4,7 +4,7 @@ album: Fourth Reich
 artist: Katharsis
 categories:
 - Vinyl
-date: '2022-03-24T05:07:41'
+date: '2022-06-17T05:09:27'
 draft: false
 images:
 - /images/covers/katharsis-fourth_reich.jpg
@@ -16,3 +16,4 @@ title: Katharsis - Fourth Reich
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=18080&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=21841&sort=pd.name&order=ASC) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=24539&sort=pd.name&order=ASC) for $25.00

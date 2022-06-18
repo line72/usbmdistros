@@ -5,7 +5,7 @@ artist: Barathrum
 categories:
 - Vinyl
 - CD
-date: '2022-06-06T05:11:40'
+date: '2022-06-17T05:11:06'
 draft: false
 images:
 - /images/covers/barathrum-demo(no)s.jpg
@@ -22,3 +22,4 @@ title: Barathrum - Demo(no)s
 * Purchase from [CW Productions](https://shop.cwproductions.net/products/barathrum-demonos-2cd) for $16.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=24151&sort=pd.name&order=ASC) for $17.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=24223&sort=pd.name&order=ASC) for $17.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=24533&sort=pd.name&order=ASC) for $17.00

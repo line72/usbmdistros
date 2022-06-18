@@ -4,7 +4,7 @@ album: Exterminio Ao Vivo
 artist: Holocausto
 categories:
 - Vinyl
-date: '2021-11-30T13:35:20'
+date: '2022-06-17T05:09:19'
 draft: false
 images:
 - /images/covers/holocausto-exterminio_ao_vivo.jpg
@@ -15,3 +15,4 @@ title: Holocausto - Exterminio Ao Vivo
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=10286&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=24518&sort=pd.name&order=ASC) for $20.00

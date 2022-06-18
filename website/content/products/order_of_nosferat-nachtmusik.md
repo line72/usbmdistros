@@ -4,7 +4,7 @@ album: Nachtmusik
 artist: Order of Nosferat
 categories:
 - CD
-date: '2022-06-02T05:01:00'
+date: '2022-06-18T05:00:55'
 draft: false
 images:
 - /images/covers/order_of_nosferat-nachtmusik.jpg

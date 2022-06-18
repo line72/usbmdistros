@@ -5,7 +5,7 @@ artist: Katharsis
 categories:
 - Vinyl
 - CD
-date: '2021-11-30T13:35:21'
+date: '2022-06-17T05:09:27'
 draft: false
 images:
 - /images/covers/katharsis-kruzifixxion.jpg
@@ -17,5 +17,6 @@ title: Katharsis - Kruzifixxion
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=15168&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=18567&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=24540&sort=pd.name&order=ASC) for $25.00
 ## CD
 * Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/katharsis-kruzifixxion-cd/) for $12.00

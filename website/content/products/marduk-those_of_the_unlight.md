@@ -4,7 +4,7 @@ album: Those of the Unlight
 artist: Marduk
 categories:
 - Vinyl
-date: '2021-07-11T20:52:26'
+date: '2022-06-17T05:09:36'
 draft: false
 images:
 - /images/covers/marduk-those_of_the_unlight.jpg
@@ -16,3 +16,4 @@ title: Marduk - Those of the Unlight
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=10961&sort=pd.name&order=ASC) for $25.00
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/marduk-those-of-the-unlight) for $29.00 :: Silver/Red Merge 2020 press
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=24552&sort=pd.name&order=ASC) for $25.00
