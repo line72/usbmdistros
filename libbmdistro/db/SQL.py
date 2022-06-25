@@ -8,13 +8,15 @@ import sqlite3
 import random
 import time
 
-from .Album import Album
-from .Artist import Artist
-from .Cover import Cover
-from .Product import Product
-from .Store import Store
+from .DB import DB
 
-class DB:
+from ..Album import Album
+from ..Artist import Artist
+from ..Cover import Cover
+from ..Product import Product
+from ..Store import Store
+
+class SQL(DB):
     VERSION = 3
     
     def __init__(self, verify = True):

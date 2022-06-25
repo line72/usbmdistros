@@ -10,7 +10,7 @@ import libbmdistro
 import datetime
 
 def go():
-    db = libbmdistro.DB()
+    db = libbmdistro.db.SQL()
     now = datetime.datetime.utcnow()
 
     stores = {

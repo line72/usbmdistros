@@ -12,4 +12,5 @@ from .OutputWriter import OutputWriter
 from .Product import Product
 from .Store import Store
 
+import libbmdistro.db
 import libbmdistro.parsers
