@@ -76,8 +76,10 @@ class MetalToTheCore1986(Parser):
             re.compile(r'^(.*?)\s+CD\s+IN\s+DVD\s+CASE\s*$'),
             re.compile(r'^(.*?)\s+CD\s+IN\s+CLOTH\s+BAG\s*$'),
             re.compile(r'^(.*?)\s+CASSETTE\s+IN\s+BAG\s*$'),
+            re.compile(r'^(.*?)\s+2014\s*$'),
         ]
         
+        print('artist/title', t)
         if (match := re.match(r, t)) != None:
             artist = match.group(1).strip()
             artist = html.unescape(artist)
