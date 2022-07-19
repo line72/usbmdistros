@@ -4,7 +4,7 @@ album: "Imut\xE1vel Sufoco"
 artist: "Negr\xFCme"
 categories:
 - Cassette
-date: '2022-05-04T05:00:49'
+date: '2022-07-15T05:01:02'
 draft: false
 images:
 - "/images/covers/negr\xFCme-imut\xE1vel_sufoco.jpg"

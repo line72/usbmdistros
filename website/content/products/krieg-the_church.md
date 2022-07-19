@@ -4,7 +4,7 @@ album: The Church
 artist: Krieg
 categories:
 - CD
-date: '2021-11-30T13:35:42'
+date: '2022-06-21T05:11:29'
 draft: false
 images:
 - /images/covers/krieg-the_church.jpg
@@ -15,3 +15,4 @@ title: Krieg - The Church
 
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=19161&sort=pd.name&order=ASC) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=24680&sort=pd.name&order=ASC) for $10.00

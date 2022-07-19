@@ -5,7 +5,7 @@ artist: Moonblood
 categories:
 - Vinyl
 - CD
-date: '2022-05-12T05:12:48'
+date: '2022-06-28T05:09:00'
 draft: false
 images:
 - /images/covers/moonblood-angelwings_in_the_darkness.jpg
@@ -21,6 +21,8 @@ title: Moonblood - Angelwings in the Darkness
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=22599&sort=pd.name&order=ASC) for $30.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=22915&sort=pd.name&order=ASC) for $30.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=23294&sort=pd.name&order=ASC) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=24628&sort=pd.name&order=ASC) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=24959&sort=pd.name&order=ASC) for $30.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=17719&sort=pd.name&order=ASC) for $20.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=18168&sort=pd.name&order=ASC) for $20.00

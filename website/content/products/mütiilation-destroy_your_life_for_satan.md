@@ -5,7 +5,7 @@ artist: "M\xFCtiilation"
 categories:
 - Vinyl
 - CD
-date: '2022-04-19T05:00:54'
+date: '2022-06-29T05:11:36'
 draft: false
 images:
 - "/images/covers/m\xFCtiilation-destroy_your_life_for_satan.jpg"
@@ -19,3 +19,4 @@ title: "M\xFCtiilation - Destroy Your Life For Satan"
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/mutiilation-destroy-your-life-for-satan-10) for $20.00
 ## CD
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/mutiilation-destroy-your-life-for-satan-cd) for $11.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=25018&sort=pd.name&order=ASC) for $12.00

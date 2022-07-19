@@ -5,7 +5,7 @@ artist: Hate Forest
 categories:
 - Vinyl
 - CD
-date: '2021-11-17T06:11:05'
+date: '2022-07-01T05:09:09'
 draft: false
 images:
 - /images/covers/hate_forest-sorrow.jpg
@@ -16,5 +16,6 @@ title: Hate Forest - Sorrow
 
 ## Vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/hate-forest-sorrow-lp) for $25.00 :: Mustard 2021 press vinyl
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=25060&sort=pd.name&order=ASC) for $25.00
 ## CD
 * Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/hate-forest-sorrow-cd/) for $10.00

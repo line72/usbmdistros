@@ -1,11 +1,12 @@
 ---
-actualPrice: $9.50 - 12.00
+actualPrice: $9.50 - 20.00
 album: Misanthropic Forest
 artist: "N\xF6ldr"
 categories:
+- Vinyl
 - Cassette
 - CD
-date: '2021-12-14T06:08:19'
+date: '2022-06-22T05:25:36'
 draft: false
 images:
 - "/images/covers/n\xF6ldr-misanthropic_forest.jpg"
@@ -14,6 +15,8 @@ thumbnailImage: "/images/covers/n\xF6ldr-misanthropic_forest-thumb.jpg"
 title: "N\xF6ldr - Misanthropic Forest"
 ---
 
+## Vinyl
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=24803&sort=pd.name&order=ASC) for $20.00
 ## Cassette
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=19656&sort=pd.name&order=ASC) for $12.00
 ## CD

@@ -4,7 +4,7 @@ album: Trilogy
 artist: Christ Agony
 categories:
 - CD
-date: '2021-11-30T13:35:36'
+date: '2022-06-24T05:10:43'
 draft: false
 images:
 - /images/covers/christ_agony-trilogy.jpg
@@ -15,3 +15,4 @@ title: Christ Agony - Trilogy
 
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=5722&sort=pd.name&order=ASC) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=24892&sort=pd.name&order=ASC) for $10.00

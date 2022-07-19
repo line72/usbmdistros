@@ -4,7 +4,7 @@ album: Rehearsal '89 / Promo 1991
 artist: Beheaded Nasrani
 categories:
 - Cassette
-date: '2022-06-14T05:29:02'
+date: '2022-06-19T05:12:32'
 draft: false
 images:
 - /images/covers/beheaded_nasrani-rehearsal_'89_-_promo_1991.png
@@ -15,3 +15,4 @@ title: Beheaded Nasrani - Rehearsal '89 / Promo 1991
 
 ## Cassette
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=24370&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=24585&sort=pd.name&order=ASC) for $15.00

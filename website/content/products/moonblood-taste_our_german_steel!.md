@@ -1,10 +1,10 @@
 ---
-actualPrice: $26.00
+actualPrice: $25.00 - 26.00
 album: Taste Our German Steel!
 artist: Moonblood
 categories:
 - Vinyl
-date: '2022-04-08T05:00:20'
+date: '2022-07-17T05:00:35'
 draft: false
 images:
 - /images/covers/moonblood-taste_our_german_steel!.jpg
@@ -15,3 +15,4 @@ title: Moonblood - Taste Our German Steel!
 
 ## Vinyl
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/moonblood-taste-our-german-steel-12-lp) for $26.00
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/moonblood-taste-our-german-steel-12-lp) for $25.00

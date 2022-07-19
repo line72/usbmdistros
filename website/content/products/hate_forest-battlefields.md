@@ -5,7 +5,7 @@ artist: Hate Forest
 categories:
 - Vinyl
 - CD
-date: '2022-04-04T05:12:49'
+date: '2022-07-01T05:09:09'
 draft: false
 images:
 - /images/covers/hate_forest-battlefields.jpg
@@ -16,5 +16,6 @@ title: Hate Forest - Battlefields
 
 ## Vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/hate-forest-battlefields-lp) for $27.00 :: Bone 2021 press vinyl
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=25059&sort=pd.name&order=ASC) for $25.00
 ## CD
 * Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/hate-forest-battlefields-cd/) for $10.00

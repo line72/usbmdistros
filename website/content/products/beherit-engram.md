@@ -6,7 +6,7 @@ categories:
 - Vinyl
 - Cassette
 - CD
-date: '2022-06-17T05:08:43'
+date: '2022-07-08T05:08:27'
 draft: false
 images:
 - /images/covers/beherit-engram.jpg
@@ -24,6 +24,7 @@ title: Beherit - Engram
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=22456&sort=pd.name&order=ASC) for $27.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=23975&sort=pd.name&order=ASC) for $27.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=24498&sort=pd.name&order=ASC) for $27.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=25174&sort=pd.name&order=ASC) for $27.00
 ## Cassette
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=17803&sort=pd.name&order=ASC) for $12.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=18669&sort=pd.name&order=ASC) for $12.00

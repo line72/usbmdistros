@@ -4,7 +4,7 @@ album: "Moonlight\u2019s Wrath"
 artist: "Vr\xF6rsaath"
 categories:
 - Vinyl
-date: '2022-05-07T05:00:32'
+date: '2022-07-17T05:00:39'
 draft: false
 images:
 - "/images/covers/vr\xF6rsaath-moonlight\u2019s_wrath.jpg"

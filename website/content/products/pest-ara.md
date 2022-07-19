@@ -5,7 +5,7 @@ artist: Pest
 categories:
 - Cassette
 - CD
-date: '2022-05-04T05:11:53'
+date: '2022-07-14T05:11:44'
 draft: false
 images:
 - /images/covers/pest-ara.jpg
@@ -18,3 +18,4 @@ title: Pest - Ara
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=23010&sort=pd.name&order=ASC) for $15.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=21654&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=25392&sort=pd.name&order=ASC) for $12.00

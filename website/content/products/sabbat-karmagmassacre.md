@@ -1,10 +1,11 @@
 ---
-actualPrice: $10.00
+actualPrice: $10.00 - 25.00
 album: Karmagmassacre
 artist: Sabbat
 categories:
+- Vinyl
 - Cassette
-date: '2021-11-30T13:35:56'
+date: '2022-07-01T05:09:55'
 draft: false
 images:
 - /images/covers/sabbat-karmagmassacre.png
@@ -13,5 +14,7 @@ thumbnailImage: /images/covers/sabbat-karmagmassacre-thumb.png
 title: Sabbat - Karmagmassacre
 ---
 
+## Vinyl
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=25039&sort=pd.name&order=ASC) for $25.00
 ## Cassette
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=15759&sort=pd.name&order=ASC) for $10.00

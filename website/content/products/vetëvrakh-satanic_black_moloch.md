@@ -4,7 +4,7 @@ album: Satanic Black Moloch
 artist: "Vet\xEBvrakh"
 categories:
 - Vinyl
-date: '2022-04-14T05:08:09'
+date: '2022-07-17T05:00:35'
 draft: false
 images:
 - "/images/covers/vet\xEBvrakh-satanic_black_moloch.jpg"
@@ -15,3 +15,4 @@ title: "Vet\xEBvrakh - Satanic Black Moloch"
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=22439&sort=pd.name&order=ASC) for $25.00
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/vetevrakh-satanic-black-moloch-12-lp) for $25.00

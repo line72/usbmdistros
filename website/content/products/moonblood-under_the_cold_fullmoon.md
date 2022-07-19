@@ -1,10 +1,11 @@
 ---
-actualPrice: $15.00
+actualPrice: $15.00 - 25.00
 album: Under the Cold Fullmoon
 artist: Moonblood
 categories:
+- Vinyl
 - CD
-date: '2022-06-12T05:19:13'
+date: '2022-06-28T05:09:00'
 draft: false
 images:
 - /images/covers/moonblood-under_the_cold_fullmoon.jpg
@@ -13,6 +14,9 @@ thumbnailImage: /images/covers/moonblood-under_the_cold_fullmoon-thumb.jpg
 title: Moonblood - Under the Cold Fullmoon
 ---
 
+## Vinyl
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=24667&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=24967&sort=pd.name&order=ASC) for $25.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=24218&sort=pd.name&order=ASC) for $15.00
 * Purchase from [CW Productions](https://shop.cwproductions.net/products/moonblood-under-the-cold-fullmoon-cd) for $15.00

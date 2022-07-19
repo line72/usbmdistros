@@ -5,7 +5,7 @@ artist: Wodulf
 categories:
 - Vinyl
 - CD
-date: '2022-06-16T05:16:44'
+date: '2022-07-19T15:43:38'
 draft: false
 images:
 - /images/covers/wodulf-from_the_corpsegates.jpg
@@ -18,4 +18,4 @@ title: Wodulf - From the Corpsegates
 * Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/wodulf-from-the-corpsegates-12-lp-red/) for $24.00
 ## CD
 * Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/wodulf-from-the-corpsegates-cd/) for $13.00
-* Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/wodulf-from-the-corpsegates-cd/) for $15.00
+* Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/wodulf-from-the-corpsegates-cd/) for $13.00

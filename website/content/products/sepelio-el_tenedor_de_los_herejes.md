@@ -1,10 +1,10 @@
 ---
-actualPrice: $8.50
+actualPrice: $3.50
 album: El Tenedor De Los Herejes
 artist: Sepelio
 categories:
 - Cassette
-date: '2021-11-16T14:07:10'
+date: '2022-07-18T05:02:45'
 draft: false
 images:
 - /images/covers/sepelio-el_tenedor_de_los_herejes.jpg
@@ -14,4 +14,4 @@ title: Sepelio - El Tenedor De Los Herejes
 ---
 
 ## Cassette
-* Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/33826549-sepelio-el-tenedor-de-los-herejes) for $8.50
+* Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/33826549-sepelio-el-tenedor-de-los-herejes) for $3.50

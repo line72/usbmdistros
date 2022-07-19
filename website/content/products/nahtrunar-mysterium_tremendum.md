@@ -5,7 +5,7 @@ artist: Nahtrunar
 categories:
 - Vinyl
 - CD
-date: '2022-02-09T06:01:13'
+date: '2022-07-10T05:09:30'
 draft: false
 images:
 - /images/covers/nahtrunar-mysterium_tremendum.jpg
@@ -16,5 +16,6 @@ title: Nahtrunar - Mysterium Tremendum
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=5293&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=25267&sort=pd.name&order=ASC) for $25.00
 ## CD
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/nahtrunar-mysterium-tremendum-cd) for $14.00

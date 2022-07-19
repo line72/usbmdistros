@@ -1,11 +1,11 @@
 ---
-actualPrice: $11.00 - 22.00
+actualPrice: $8.00 - 22.00
 album: The Broken Seal
 artist: Lvcifyre
 categories:
 - Vinyl
 - Cassette
-date: '2021-11-11T14:31:09'
+date: '2022-06-19T05:01:52'
 draft: false
 images:
 - /images/covers/lvcifyre-the_broken_seal.png
@@ -19,3 +19,4 @@ title: Lvcifyre - The Broken Seal
 ## Cassette
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/lvcifyre-the-broken-seal-cassette) for $11.00 :: Cassette Tape 1st press
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/lvcifyre-the-broken-seal-cassette-1) for $11.00 :: Cassette Tape 1st press
+* Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/35865565-lvcifyre-the-broken-seal) for $8.00
