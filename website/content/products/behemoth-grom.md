@@ -5,7 +5,7 @@ artist: Behemoth
 categories:
 - Vinyl
 - CD
-date: '2022-07-14T05:08:02'
+date: '2022-07-20T05:08:08'
 draft: false
 images:
 - /images/covers/behemoth-grom.jpg
@@ -20,5 +20,6 @@ title: Behemoth - Grom
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=20622&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=24495&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=25342&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=25483&sort=pd.name&order=ASC) for $25.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=25288&sort=pd.name&order=ASC) for $20.00

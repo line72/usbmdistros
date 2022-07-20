@@ -7,9 +7,9 @@ categories:
 date: '2022-07-14T05:11:44'
 draft: false
 images:
-- /images/covers/pest-vado_mori.png
+- /images/covers/pest-vado_mori.jpg
 inStock: true
-thumbnailImage: /images/covers/pest-vado_mori-thumb.png
+thumbnailImage: /images/covers/pest-vado_mori-thumb.jpg
 title: Pest - Vado Mori
 ---
 

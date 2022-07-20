@@ -7,9 +7,9 @@ categories:
 date: '2022-07-19T15:45:44'
 draft: false
 images:
-- /images/covers/kommodus-will_to_dominate_all_life_c.png
+- /images/covers/kommodus-will_to_dominate_all_life_c.jpg
 inStock: true
-thumbnailImage: /images/covers/kommodus-will_to_dominate_all_life_c-thumb.png
+thumbnailImage: /images/covers/kommodus-will_to_dominate_all_life_c-thumb.jpg
 title: Kommodus - Will To Dominate All Life C
 ---
 

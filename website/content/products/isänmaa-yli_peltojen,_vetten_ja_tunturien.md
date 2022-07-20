@@ -7,9 +7,9 @@ categories:
 date: '2022-06-21T05:10:18'
 draft: false
 images:
-- "/images/covers/is\xE4nmaa-yli_peltojen,_vetten_ja_tunturien.png"
+- "/images/covers/is\xE4nmaa-yli_peltojen,_vetten_ja_tunturien.jpg"
 inStock: true
-thumbnailImage: "/images/covers/is\xE4nmaa-yli_peltojen,_vetten_ja_tunturien-thumb.png"
+thumbnailImage: "/images/covers/is\xE4nmaa-yli_peltojen,_vetten_ja_tunturien-thumb.jpg"
 title: "Is\xE4nmaa - Yli Peltojen, Vetten Ja Tunturien"
 ---
 

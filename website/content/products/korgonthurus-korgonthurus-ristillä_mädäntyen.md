@@ -7,9 +7,9 @@ categories:
 date: '2022-06-22T05:27:44'
 draft: false
 images:
-- "/images/covers/korgonthurus-korgonthurus-ristill\xE4_m\xE4d\xE4ntyen.png"
+- "/images/covers/korgonthurus-korgonthurus-ristill\xE4_m\xE4d\xE4ntyen.jpg"
 inStock: true
-thumbnailImage: "/images/covers/korgonthurus-korgonthurus-ristill\xE4_m\xE4d\xE4ntyen-thumb.png"
+thumbnailImage: "/images/covers/korgonthurus-korgonthurus-ristill\xE4_m\xE4d\xE4ntyen-thumb.jpg"
 title: "Korgonthurus - Korgonthurus/Ristill\xE4 M\xE4d\xE4ntyen"
 ---
 

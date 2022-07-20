@@ -8,9 +8,9 @@ categories:
 date: '2022-06-25T05:12:24'
 draft: false
 images:
-- /images/covers/theriomorph-diabolical_bloodswords.png
+- /images/covers/theriomorph-diabolical_bloodswords.jpg
 inStock: true
-thumbnailImage: /images/covers/theriomorph-diabolical_bloodswords-thumb.png
+thumbnailImage: /images/covers/theriomorph-diabolical_bloodswords-thumb.jpg
 title: Theriomorph - Diabolical Bloodswords
 ---
 

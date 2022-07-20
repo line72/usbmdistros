@@ -7,9 +7,9 @@ categories:
 date: '2022-07-17T05:08:17'
 draft: false
 images:
-- /images/covers/cosmic_church-vigilia.png
+- /images/covers/cosmic_church-vigilia.jpg
 inStock: true
-thumbnailImage: /images/covers/cosmic_church-vigilia-thumb.png
+thumbnailImage: /images/covers/cosmic_church-vigilia-thumb.jpg
 title: Cosmic Church - Vigilia
 ---
 

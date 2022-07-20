@@ -8,9 +8,9 @@ categories:
 date: '2022-06-29T05:01:28'
 draft: false
 images:
-- /images/covers/power_from_hell-shadows_devouring_light.png
+- /images/covers/power_from_hell-shadows_devouring_light.jpg
 inStock: true
-thumbnailImage: /images/covers/power_from_hell-shadows_devouring_light-thumb.png
+thumbnailImage: /images/covers/power_from_hell-shadows_devouring_light-thumb.jpg
 title: Power From Hell - Shadows Devouring Light
 ---
 

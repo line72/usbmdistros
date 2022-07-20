@@ -7,9 +7,9 @@ categories:
 date: '2022-06-20T05:11:14'
 draft: false
 images:
-- "/images/covers/nuit_noire-del\xEFrant_fant\xE4esy.png"
+- "/images/covers/nuit_noire-del\xEFrant_fant\xE4esy.jpg"
 inStock: true
-thumbnailImage: "/images/covers/nuit_noire-del\xEFrant_fant\xE4esy-thumb.png"
+thumbnailImage: "/images/covers/nuit_noire-del\xEFrant_fant\xE4esy-thumb.jpg"
 title: "Nuit Noire - Del\xEFrant Fant\xE4esy"
 ---
 

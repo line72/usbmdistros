@@ -7,9 +7,9 @@ categories:
 date: '2022-06-20T05:11:19'
 draft: false
 images:
-- /images/covers/sesso_violento-sesso_violento.png
+- /images/covers/sesso_violento-sesso_violento.jpg
 inStock: true
-thumbnailImage: /images/covers/sesso_violento-sesso_violento-thumb.png
+thumbnailImage: /images/covers/sesso_violento-sesso_violento-thumb.jpg
 title: Sesso Violento - Sesso Violento
 ---
 

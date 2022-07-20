@@ -7,9 +7,9 @@ categories:
 date: '2022-07-19T15:45:44'
 draft: false
 images:
-- /images/covers/torrid_death's_fire-nocturnal_erotic_symbolism_c.png
+- /images/covers/torrid_death's_fire-nocturnal_erotic_symbolism_c.jpg
 inStock: true
-thumbnailImage: /images/covers/torrid_death's_fire-nocturnal_erotic_symbolism_c-thumb.png
+thumbnailImage: /images/covers/torrid_death's_fire-nocturnal_erotic_symbolism_c-thumb.jpg
 title: Torrid Death's Fire - Nocturnal Erotic Symbolism C
 ---
 

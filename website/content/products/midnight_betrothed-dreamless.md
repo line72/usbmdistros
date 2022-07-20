@@ -7,9 +7,9 @@ categories:
 date: '2022-07-15T05:01:11'
 draft: false
 images:
-- /images/covers/midnight_betrothed-dreamless.png
+- /images/covers/midnight_betrothed-dreamless.jpg
 inStock: true
-thumbnailImage: /images/covers/midnight_betrothed-dreamless-thumb.png
+thumbnailImage: /images/covers/midnight_betrothed-dreamless-thumb.jpg
 title: Midnight Betrothed - Dreamless
 ---
 

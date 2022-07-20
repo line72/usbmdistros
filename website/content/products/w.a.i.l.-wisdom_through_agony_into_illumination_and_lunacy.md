@@ -7,9 +7,9 @@ categories:
 date: '2022-06-20T05:11:24'
 draft: false
 images:
-- /images/covers/w.a.i.l.-wisdom_through_agony_into_illumination_and_lunacy.png
+- /images/covers/w.a.i.l.-wisdom_through_agony_into_illumination_and_lunacy.jpg
 inStock: true
-thumbnailImage: /images/covers/w.a.i.l.-wisdom_through_agony_into_illumination_and_lunacy-thumb.png
+thumbnailImage: /images/covers/w.a.i.l.-wisdom_through_agony_into_illumination_and_lunacy-thumb.jpg
 title: W.A.I.L. - Wisdom Through Agony Into Illumination And Lunacy
 ---
 

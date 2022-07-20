@@ -7,9 +7,9 @@ categories:
 date: '2022-04-19T05:00:47'
 draft: false
 images:
-- /images/covers/ignis_serpentis-ad_chao_:_i.png
+- /images/covers/ignis_serpentis-ad_chao_:_i.jpg
 inStock: true
-thumbnailImage: /images/covers/ignis_serpentis-ad_chao_:_i-thumb.png
+thumbnailImage: /images/covers/ignis_serpentis-ad_chao_:_i-thumb.jpg
 title: 'Ignis Serpentis - Ad Chao : I'
 ---
 

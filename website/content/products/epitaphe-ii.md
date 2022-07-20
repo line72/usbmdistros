@@ -7,9 +7,9 @@ categories:
 date: '2022-07-09T05:13:28'
 draft: false
 images:
-- /images/covers/epitaphe-ii.png
+- /images/covers/epitaphe-ii.jpg
 inStock: true
-thumbnailImage: /images/covers/epitaphe-ii-thumb.png
+thumbnailImage: /images/covers/epitaphe-ii-thumb.jpg
 title: Epitaphe - II
 ---
 

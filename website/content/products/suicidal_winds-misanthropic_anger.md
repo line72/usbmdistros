@@ -7,9 +7,9 @@ categories:
 date: '2022-06-22T05:26:45'
 draft: false
 images:
-- /images/covers/suicidal_winds-misanthropic_anger.png
+- /images/covers/suicidal_winds-misanthropic_anger.jpg
 inStock: true
-thumbnailImage: /images/covers/suicidal_winds-misanthropic_anger-thumb.png
+thumbnailImage: /images/covers/suicidal_winds-misanthropic_anger-thumb.jpg
 title: Suicidal Winds - Misanthropic Anger
 ---
 

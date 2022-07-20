@@ -7,9 +7,9 @@ categories:
 date: '2022-06-29T05:00:51'
 draft: false
 images:
-- "/images/covers/dobhar_ch\xFA-geasa_dubha_an_chogaidh.png"
+- "/images/covers/dobhar_ch\xFA-geasa_dubha_an_chogaidh.jpg"
 inStock: true
-thumbnailImage: "/images/covers/dobhar_ch\xFA-geasa_dubha_an_chogaidh-thumb.png"
+thumbnailImage: "/images/covers/dobhar_ch\xFA-geasa_dubha_an_chogaidh-thumb.jpg"
 title: "Dobhar Ch\xFA - Geasa Dubha An Chogaidh"
 ---
 

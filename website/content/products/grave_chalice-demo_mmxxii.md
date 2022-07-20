@@ -7,9 +7,9 @@ categories:
 date: '2022-05-23T05:02:12'
 draft: false
 images:
-- /images/covers/grave_chalice-demo_mmxxii.png
+- /images/covers/grave_chalice-demo_mmxxii.jpg
 inStock: true
-thumbnailImage: /images/covers/grave_chalice-demo_mmxxii-thumb.png
+thumbnailImage: /images/covers/grave_chalice-demo_mmxxii-thumb.jpg
 title: Grave Chalice - Demo Mmxxii
 ---
 

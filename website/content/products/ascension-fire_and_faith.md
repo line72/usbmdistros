@@ -7,9 +7,9 @@ categories:
 date: '2022-07-08T05:08:22'
 draft: false
 images:
-- /images/covers/ascension-fire_and_faith.png
+- /images/covers/ascension-fire_and_faith.jpg
 inStock: true
-thumbnailImage: /images/covers/ascension-fire_and_faith-thumb.png
+thumbnailImage: /images/covers/ascension-fire_and_faith-thumb.jpg
 title: Ascension - Fire and Faith
 ---
 

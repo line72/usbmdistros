@@ -7,10 +7,10 @@ categories:
 date: '2022-07-12T05:11:07'
 draft: false
 images:
-- "/images/covers/bethlehem-sardonischer_untergang_im_zeichen_irreligi\xF6ser_darbietung.png"
+- "/images/covers/bethlehem-sardonischer_untergang_im_zeichen_irreligi\xF6ser_darbietung.jpg"
 inStock: true
 thumbnailImage: "/images/covers/bethlehem-sardonischer_untergang_im_zeichen_irreligi\xF6\
-  ser_darbietung-thumb.png"
+  ser_darbietung-thumb.jpg"
 title: "Bethlehem - Sardonischer Untergang Im Zeichen Irreligi\xF6ser Darbietung"
 ---
 

@@ -7,9 +7,9 @@ categories:
 date: '2022-06-21T05:10:29'
 draft: false
 images:
-- /images/covers/uncreation's_dawn-uncelestial.png
+- /images/covers/uncreation's_dawn-uncelestial.jpg
 inStock: true
-thumbnailImage: /images/covers/uncreation's_dawn-uncelestial-thumb.png
+thumbnailImage: /images/covers/uncreation's_dawn-uncelestial-thumb.jpg
 title: Uncreation's Dawn - Uncelestial
 ---
 

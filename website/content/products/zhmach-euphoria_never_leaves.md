@@ -7,9 +7,9 @@ categories:
 date: '2022-07-06T05:10:36'
 draft: false
 images:
-- /images/covers/zhmach-euphoria_never_leaves.png
+- /images/covers/zhmach-euphoria_never_leaves.jpg
 inStock: true
-thumbnailImage: /images/covers/zhmach-euphoria_never_leaves-thumb.png
+thumbnailImage: /images/covers/zhmach-euphoria_never_leaves-thumb.jpg
 title: Zhmach - Euphoria Never Leaves
 ---
 

@@ -7,9 +7,9 @@ categories:
 date: '2022-07-14T05:09:07'
 draft: false
 images:
-- /images/covers/night_gaunt-the_room.png
+- /images/covers/night_gaunt-the_room.jpg
 inStock: true
-thumbnailImage: /images/covers/night_gaunt-the_room-thumb.png
+thumbnailImage: /images/covers/night_gaunt-the_room-thumb.jpg
 title: Night Gaunt - The Room
 ---
 

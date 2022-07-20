@@ -7,9 +7,9 @@ categories:
 date: '2022-07-08T05:08:31'
 draft: false
 images:
-- /images/covers/blut_aus_nord-m.o.r.t..png
+- /images/covers/blut_aus_nord-m.o.r.t..jpg
 inStock: true
-thumbnailImage: /images/covers/blut_aus_nord-m.o.r.t.-thumb.png
+thumbnailImage: /images/covers/blut_aus_nord-m.o.r.t.-thumb.jpg
 title: Blut Aus Nord - M.o.R.T.
 ---
 

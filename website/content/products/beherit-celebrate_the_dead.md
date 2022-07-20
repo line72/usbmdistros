@@ -7,9 +7,9 @@ categories:
 date: '2022-07-08T05:08:27'
 draft: false
 images:
-- /images/covers/beherit-celebrate_the_dead.png
+- /images/covers/beherit-celebrate_the_dead.jpg
 inStock: true
-thumbnailImage: /images/covers/beherit-celebrate_the_dead-thumb.png
+thumbnailImage: /images/covers/beherit-celebrate_the_dead-thumb.jpg
 title: Beherit - Celebrate the Dead
 ---
 

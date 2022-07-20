@@ -9,9 +9,9 @@ categories:
 date: '2022-07-19T05:12:24'
 draft: false
 images:
-- /images/covers/black_cilice-esoteric_atavism.png
+- /images/covers/black_cilice-esoteric_atavism.jpg
 inStock: true
-thumbnailImage: /images/covers/black_cilice-esoteric_atavism-thumb.png
+thumbnailImage: /images/covers/black_cilice-esoteric_atavism-thumb.jpg
 title: Black Cilice - Esoteric Atavism
 ---
 

@@ -7,9 +7,9 @@ categories:
 date: '2022-06-30T05:08:28'
 draft: false
 images:
-- /images/covers/dead_christ-calling_forth_the_black_heart_of_damnation.png
+- /images/covers/dead_christ-calling_forth_the_black_heart_of_damnation.jpg
 inStock: true
-thumbnailImage: /images/covers/dead_christ-calling_forth_the_black_heart_of_damnation-thumb.png
+thumbnailImage: /images/covers/dead_christ-calling_forth_the_black_heart_of_damnation-thumb.jpg
 title: Dead Christ - Calling Forth the Black Heart of Damnation
 ---
 

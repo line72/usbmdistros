@@ -7,9 +7,9 @@ categories:
 date: '2022-06-20T05:11:03'
 draft: false
 images:
-- /images/covers/doombringer-sevenfold_pestilence.png
+- /images/covers/doombringer-sevenfold_pestilence.jpg
 inStock: true
-thumbnailImage: /images/covers/doombringer-sevenfold_pestilence-thumb.png
+thumbnailImage: /images/covers/doombringer-sevenfold_pestilence-thumb.jpg
 title: Doombringer - Sevenfold Pestilence
 ---
 

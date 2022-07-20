@@ -7,9 +7,9 @@ categories:
 date: '2022-06-22T05:27:01'
 draft: false
 images:
-- "/images/covers/bek\xEBth_nex\xEBhm\xFC-de_dunklas_sorgeakt.png"
+- "/images/covers/bek\xEBth_nex\xEBhm\xFC-de_dunklas_sorgeakt.jpg"
 inStock: true
-thumbnailImage: "/images/covers/bek\xEBth_nex\xEBhm\xFC-de_dunklas_sorgeakt-thumb.png"
+thumbnailImage: "/images/covers/bek\xEBth_nex\xEBhm\xFC-de_dunklas_sorgeakt-thumb.jpg"
 title: "Bek\xEBth Nex\xEBhm\xFC - De Dunklas Sorgeakt"
 ---
 

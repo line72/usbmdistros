@@ -7,9 +7,9 @@ categories:
 date: '2022-06-21T05:10:32'
 draft: false
 images:
-- /images/covers/wulkanaz-wulkana.png
+- /images/covers/wulkanaz-wulkana.jpg
 inStock: true
-thumbnailImage: /images/covers/wulkanaz-wulkana-thumb.png
+thumbnailImage: /images/covers/wulkanaz-wulkana-thumb.jpg
 title: Wulkanaz - Wulkana
 ---
 

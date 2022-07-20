@@ -7,9 +7,9 @@ categories:
 date: '2022-06-21T05:10:31'
 draft: false
 images:
-- /images/covers/watain-the_essence_of_black_purity.png
+- /images/covers/watain-the_essence_of_black_purity.jpg
 inStock: true
-thumbnailImage: /images/covers/watain-the_essence_of_black_purity-thumb.png
+thumbnailImage: /images/covers/watain-the_essence_of_black_purity-thumb.jpg
 title: Watain - The Essence Of Black Purity
 ---
 

@@ -7,9 +7,9 @@ categories:
 date: '2022-07-12T05:11:06'
 draft: false
 images:
-- /images/covers/behemoth-sventevith_(storming_near_the_baltic).png
+- /images/covers/behemoth-sventevith_(storming_near_the_baltic).jpg
 inStock: true
-thumbnailImage: /images/covers/behemoth-sventevith_(storming_near_the_baltic)-thumb.png
+thumbnailImage: /images/covers/behemoth-sventevith_(storming_near_the_baltic)-thumb.jpg
 title: Behemoth - Sventevith (Storming Near The Baltic)
 ---
 

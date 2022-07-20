@@ -7,9 +7,9 @@ categories:
 date: '2022-06-29T05:01:02'
 draft: false
 images:
-- /images/covers/drowning_the_light-sacrifice_for_the_darkness.png
+- /images/covers/drowning_the_light-sacrifice_for_the_darkness.jpg
 inStock: true
-thumbnailImage: /images/covers/drowning_the_light-sacrifice_for_the_darkness-thumb.png
+thumbnailImage: /images/covers/drowning_the_light-sacrifice_for_the_darkness-thumb.jpg
 title: Drowning The Light - Sacrifice for the Darkness
 ---
 

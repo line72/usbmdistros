@@ -7,9 +7,9 @@ categories:
 date: '2022-07-08T05:10:20'
 draft: false
 images:
-- /images/covers/weapon-drakonian_paradigm.png
+- /images/covers/weapon-drakonian_paradigm.jpg
 inStock: true
-thumbnailImage: /images/covers/weapon-drakonian_paradigm-thumb.png
+thumbnailImage: /images/covers/weapon-drakonian_paradigm-thumb.jpg
 title: Weapon - Drakonian Paradigm
 ---
 

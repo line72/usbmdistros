@@ -7,9 +7,9 @@ categories:
 date: '2022-06-22T05:27:47'
 draft: false
 images:
-- /images/covers/labyrinthine_haze-descending_into_the_deep.png
+- /images/covers/labyrinthine_haze-descending_into_the_deep.jpg
 inStock: true
-thumbnailImage: /images/covers/labyrinthine_haze-descending_into_the_deep-thumb.png
+thumbnailImage: /images/covers/labyrinthine_haze-descending_into_the_deep-thumb.jpg
 title: Labyrinthine Haze - Descending Into The Deep
 ---
 

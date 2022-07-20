@@ -7,9 +7,9 @@ categories:
 date: '2022-07-17T05:08:17'
 draft: false
 images:
-- /images/covers/cosmic_church-ylistys.png
+- /images/covers/cosmic_church-ylistys.jpg
 inStock: true
-thumbnailImage: /images/covers/cosmic_church-ylistys-thumb.png
+thumbnailImage: /images/covers/cosmic_church-ylistys-thumb.jpg
 title: Cosmic Church - Ylistys
 ---
 

@@ -4,7 +4,7 @@ album: Death Veneration
 artist: Sargeist
 categories:
 - Vinyl
-date: '2022-06-22T05:25:51'
+date: '2022-07-20T05:09:38'
 draft: false
 images:
 - /images/covers/sargeist-death_veneration.jpg
@@ -19,3 +19,4 @@ title: Sargeist - Death Veneration
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=19361&sort=pd.name&order=ASC) for $20.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=22158&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=24753&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=25509&sort=pd.name&order=ASC) for $25.00

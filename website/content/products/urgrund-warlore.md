@@ -7,9 +7,9 @@ categories:
 date: '2022-06-22T05:26:47'
 draft: false
 images:
-- /images/covers/urgrund-warlore.png
+- /images/covers/urgrund-warlore.jpg
 inStock: true
-thumbnailImage: /images/covers/urgrund-warlore-thumb.png
+thumbnailImage: /images/covers/urgrund-warlore-thumb.jpg
 title: Urgrund - Warlore
 ---
 

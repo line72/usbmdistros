@@ -9,9 +9,9 @@ categories:
 date: '2022-07-09T05:13:19'
 draft: false
 images:
-- /images/covers/bulldozer-the_day_of_wrath.png
+- /images/covers/bulldozer-the_day_of_wrath.jpg
 inStock: true
-thumbnailImage: /images/covers/bulldozer-the_day_of_wrath-thumb.png
+thumbnailImage: /images/covers/bulldozer-the_day_of_wrath-thumb.jpg
 title: Bulldozer - The Day of Wrath
 ---
 

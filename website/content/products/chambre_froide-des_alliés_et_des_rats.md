@@ -7,9 +7,9 @@ categories:
 date: '2022-06-20T05:11:01'
 draft: false
 images:
-- "/images/covers/chambre_froide-des_alli\xE9s_et_des_rats.png"
+- "/images/covers/chambre_froide-des_alli\xE9s_et_des_rats.jpg"
 inStock: true
-thumbnailImage: "/images/covers/chambre_froide-des_alli\xE9s_et_des_rats-thumb.png"
+thumbnailImage: "/images/covers/chambre_froide-des_alli\xE9s_et_des_rats-thumb.jpg"
 title: "Chambre Froide - Des Alli\xE9s Et Des Rats"
 ---
 

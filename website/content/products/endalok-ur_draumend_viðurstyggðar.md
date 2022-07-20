@@ -7,9 +7,9 @@ categories:
 date: '2022-07-15T05:00:22'
 draft: false
 images:
-- "/images/covers/endalok-ur_draumend_vi\xF0urstygg\xF0ar.png"
+- "/images/covers/endalok-ur_draumend_vi\xF0urstygg\xF0ar.jpg"
 inStock: true
-thumbnailImage: "/images/covers/endalok-ur_draumend_vi\xF0urstygg\xF0ar-thumb.png"
+thumbnailImage: "/images/covers/endalok-ur_draumend_vi\xF0urstygg\xF0ar-thumb.jpg"
 title: "Endalok - Ur Draumend Vi\xF0urstygg\xF0ar"
 ---
 

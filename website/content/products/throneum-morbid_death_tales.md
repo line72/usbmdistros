@@ -7,9 +7,9 @@ categories:
 date: '2022-07-09T05:12:53'
 draft: false
 images:
-- /images/covers/throneum-morbid_death_tales.png
+- /images/covers/throneum-morbid_death_tales.jpg
 inStock: true
-thumbnailImage: /images/covers/throneum-morbid_death_tales-thumb.png
+thumbnailImage: /images/covers/throneum-morbid_death_tales-thumb.jpg
 title: Throneum - Morbid Death Tales
 ---
 

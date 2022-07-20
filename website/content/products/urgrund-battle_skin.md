@@ -7,9 +7,9 @@ categories:
 date: '2022-06-21T05:10:29'
 draft: false
 images:
-- /images/covers/urgrund-battle_skin.png
+- /images/covers/urgrund-battle_skin.jpg
 inStock: true
-thumbnailImage: /images/covers/urgrund-battle_skin-thumb.png
+thumbnailImage: /images/covers/urgrund-battle_skin-thumb.jpg
 title: Urgrund - Battle Skin
 ---
 

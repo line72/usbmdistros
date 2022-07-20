@@ -7,9 +7,9 @@ categories:
 date: '2022-06-29T05:00:51'
 draft: false
 images:
-- "/images/covers/dobhar_ch\xFA-aislingi_an_gheimhridh.png"
+- "/images/covers/dobhar_ch\xFA-aislingi_an_gheimhridh.jpg"
 inStock: true
-thumbnailImage: "/images/covers/dobhar_ch\xFA-aislingi_an_gheimhridh-thumb.png"
+thumbnailImage: "/images/covers/dobhar_ch\xFA-aislingi_an_gheimhridh-thumb.jpg"
 title: "Dobhar Ch\xFA - AisLingi An Gheimhridh"
 ---
 

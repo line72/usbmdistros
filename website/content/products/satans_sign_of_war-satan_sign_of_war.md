@@ -7,9 +7,9 @@ categories:
 date: '2022-06-22T05:26:41'
 draft: false
 images:
-- /images/covers/satans_sign_of_war-satan_sign_of_war.png
+- /images/covers/satans_sign_of_war-satan_sign_of_war.jpg
 inStock: true
-thumbnailImage: /images/covers/satans_sign_of_war-satan_sign_of_war-thumb.png
+thumbnailImage: /images/covers/satans_sign_of_war-satan_sign_of_war-thumb.jpg
 title: Satans Sign Of War - Satan Sign Of War
 ---
 

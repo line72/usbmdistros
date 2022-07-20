@@ -7,9 +7,9 @@ categories:
 date: '2022-07-08T05:08:22'
 draft: false
 images:
-- /images/covers/ascension-consolamentum.png
+- /images/covers/ascension-consolamentum.jpg
 inStock: true
-thumbnailImage: /images/covers/ascension-consolamentum-thumb.png
+thumbnailImage: /images/covers/ascension-consolamentum-thumb.jpg
 title: Ascension - Consolamentum
 ---
 

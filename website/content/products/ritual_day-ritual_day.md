@@ -7,9 +7,9 @@ categories:
 date: '2022-06-22T05:26:41'
 draft: false
 images:
-- /images/covers/ritual_day-ritual_day.png
+- /images/covers/ritual_day-ritual_day.jpg
 inStock: true
-thumbnailImage: /images/covers/ritual_day-ritual_day-thumb.png
+thumbnailImage: /images/covers/ritual_day-ritual_day-thumb.jpg
 title: Ritual Day - Ritual Day
 ---
 

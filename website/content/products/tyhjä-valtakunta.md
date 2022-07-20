@@ -7,9 +7,9 @@ categories:
 date: '2022-06-22T05:28:32'
 draft: false
 images:
-- "/images/covers/tyhj\xE4-valtakunta.png"
+- "/images/covers/tyhj\xE4-valtakunta.jpg"
 inStock: true
-thumbnailImage: "/images/covers/tyhj\xE4-valtakunta-thumb.png"
+thumbnailImage: "/images/covers/tyhj\xE4-valtakunta-thumb.jpg"
 title: "Tyhj\xE4 - Valtakunta"
 ---
 

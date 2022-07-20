@@ -7,9 +7,9 @@ categories:
 date: '2022-07-12T05:00:33'
 draft: false
 images:
-- /images/covers/carved_cross-demo_iv.png
+- /images/covers/carved_cross-demo_iv.jpg
 inStock: true
-thumbnailImage: /images/covers/carved_cross-demo_iv-thumb.png
+thumbnailImage: /images/covers/carved_cross-demo_iv-thumb.jpg
 title: Carved Cross - Demo IV
 ---
 

@@ -7,9 +7,9 @@ categories:
 date: '2022-07-12T05:08:21'
 draft: false
 images:
-- /images/covers/ancestors_blood-hyperborea.png
+- /images/covers/ancestors_blood-hyperborea.jpg
 inStock: true
-thumbnailImage: /images/covers/ancestors_blood-hyperborea-thumb.png
+thumbnailImage: /images/covers/ancestors_blood-hyperborea-thumb.jpg
 title: Ancestors Blood - Hyperborea
 ---
 

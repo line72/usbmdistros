@@ -7,9 +7,9 @@ categories:
 date: '2022-07-09T05:12:37'
 draft: false
 images:
-- /images/covers/sadomator-sadomatic_goat_cult.png
+- /images/covers/sadomator-sadomatic_goat_cult.jpg
 inStock: true
-thumbnailImage: /images/covers/sadomator-sadomatic_goat_cult-thumb.png
+thumbnailImage: /images/covers/sadomator-sadomatic_goat_cult-thumb.jpg
 title: Sadomator - Sadomatic Goat Cult
 ---
 

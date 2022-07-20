@@ -7,9 +7,9 @@ categories:
 date: '2022-07-19T05:00:35'
 draft: false
 images:
-- "/images/covers/ba\u0161mu-the_encircling.png"
+- "/images/covers/ba\u0161mu-the_encircling.jpg"
 inStock: true
-thumbnailImage: "/images/covers/ba\u0161mu-the_encircling-thumb.png"
+thumbnailImage: "/images/covers/ba\u0161mu-the_encircling-thumb.jpg"
 title: "Ba\u0161mu - The Encircling"
 ---
 

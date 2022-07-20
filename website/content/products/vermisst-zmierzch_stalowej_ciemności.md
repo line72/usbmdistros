@@ -7,9 +7,9 @@ categories:
 date: '2022-07-15T05:00:22'
 draft: false
 images:
-- "/images/covers/vermisst-zmierzch_stalowej_ciemno\u015Bci.png"
+- "/images/covers/vermisst-zmierzch_stalowej_ciemno\u015Bci.jpg"
 inStock: true
-thumbnailImage: "/images/covers/vermisst-zmierzch_stalowej_ciemno\u015Bci-thumb.png"
+thumbnailImage: "/images/covers/vermisst-zmierzch_stalowej_ciemno\u015Bci-thumb.jpg"
 title: "Vermisst - Zmierzch Stalowej Ciemno\u015Bci"
 ---
 

@@ -7,9 +7,9 @@ categories:
 date: '2022-06-29T05:08:59'
 draft: false
 images:
-- /images/covers/lifelover-pulver.png
+- /images/covers/lifelover-pulver.jpg
 inStock: true
-thumbnailImage: /images/covers/lifelover-pulver-thumb.png
+thumbnailImage: /images/covers/lifelover-pulver-thumb.jpg
 title: Lifelover - Pulver
 ---
 

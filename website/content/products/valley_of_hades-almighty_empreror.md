@@ -7,9 +7,9 @@ categories:
 date: '2022-06-22T05:28:35'
 draft: false
 images:
-- /images/covers/valley_of_hades-almighty_empreror.png
+- /images/covers/valley_of_hades-almighty_empreror.jpg
 inStock: true
-thumbnailImage: /images/covers/valley_of_hades-almighty_empreror-thumb.png
+thumbnailImage: /images/covers/valley_of_hades-almighty_empreror-thumb.jpg
 title: Valley of Hades - Almighty Empreror
 ---
 

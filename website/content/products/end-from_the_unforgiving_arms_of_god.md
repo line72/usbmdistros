@@ -7,9 +7,9 @@ categories:
 date: '2022-07-19T15:45:46'
 draft: false
 images:
-- /images/covers/end-from_the_unforgiving_arms_of_god.png
+- /images/covers/end-from_the_unforgiving_arms_of_god.jpg
 inStock: true
-thumbnailImage: /images/covers/end-from_the_unforgiving_arms_of_god-thumb.png
+thumbnailImage: /images/covers/end-from_the_unforgiving_arms_of_god-thumb.jpg
 title: END - From The Unforgiving Arms Of God
 ---
 

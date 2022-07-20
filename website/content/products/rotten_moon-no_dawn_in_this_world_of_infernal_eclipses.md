@@ -8,9 +8,9 @@ categories:
 date: '2022-07-12T05:00:33'
 draft: false
 images:
-- /images/covers/rotten_moon-no_dawn_in_this_world_of_infernal_eclipses.png
+- /images/covers/rotten_moon-no_dawn_in_this_world_of_infernal_eclipses.jpg
 inStock: true
-thumbnailImage: /images/covers/rotten_moon-no_dawn_in_this_world_of_infernal_eclipses-thumb.png
+thumbnailImage: /images/covers/rotten_moon-no_dawn_in_this_world_of_infernal_eclipses-thumb.jpg
 title: Rotten Moon - No Dawn in This World of Infernal Eclipses
 ---
 

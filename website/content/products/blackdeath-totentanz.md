@@ -7,9 +7,9 @@ categories:
 date: '2022-07-12T05:11:08'
 draft: false
 images:
-- /images/covers/blackdeath-totentanz.png
+- /images/covers/blackdeath-totentanz.jpg
 inStock: true
-thumbnailImage: /images/covers/blackdeath-totentanz-thumb.png
+thumbnailImage: /images/covers/blackdeath-totentanz-thumb.jpg
 title: Blackdeath - Totentanz
 ---
 

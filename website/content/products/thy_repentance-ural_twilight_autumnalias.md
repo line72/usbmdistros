@@ -7,9 +7,9 @@ categories:
 date: '2022-06-20T05:11:22'
 draft: false
 images:
-- /images/covers/thy_repentance-ural_twilight_autumnalias.png
+- /images/covers/thy_repentance-ural_twilight_autumnalias.jpg
 inStock: true
-thumbnailImage: /images/covers/thy_repentance-ural_twilight_autumnalias-thumb.png
+thumbnailImage: /images/covers/thy_repentance-ural_twilight_autumnalias-thumb.jpg
 title: Thy Repentance - Ural Twilight Autumnalias
 ---
 

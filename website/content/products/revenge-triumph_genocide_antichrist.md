@@ -7,9 +7,9 @@ categories:
 date: '2022-06-29T05:09:30'
 draft: false
 images:
-- /images/covers/revenge-triumph_genocide_antichrist.png
+- /images/covers/revenge-triumph_genocide_antichrist.jpg
 inStock: true
-thumbnailImage: /images/covers/revenge-triumph_genocide_antichrist-thumb.png
+thumbnailImage: /images/covers/revenge-triumph_genocide_antichrist-thumb.jpg
 title: Revenge - Triumph Genocide Antichrist
 ---
 

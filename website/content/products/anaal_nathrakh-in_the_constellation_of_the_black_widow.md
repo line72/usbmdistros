@@ -7,9 +7,9 @@ categories:
 date: '2022-07-19T15:45:44'
 draft: false
 images:
-- /images/covers/anaal_nathrakh-in_the_constellation_of_the_black_widow.png
+- /images/covers/anaal_nathrakh-in_the_constellation_of_the_black_widow.jpg
 inStock: true
-thumbnailImage: /images/covers/anaal_nathrakh-in_the_constellation_of_the_black_widow-thumb.png
+thumbnailImage: /images/covers/anaal_nathrakh-in_the_constellation_of_the_black_widow-thumb.jpg
 title: Anaal Nathrakh - In The Constellation Of The Black Widow
 ---
 

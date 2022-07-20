@@ -7,9 +7,9 @@ categories:
 date: '2022-06-20T05:11:10'
 draft: false
 images:
-- /images/covers/lvcifyre-the_calling_depths.png
+- /images/covers/lvcifyre-the_calling_depths.jpg
 inStock: true
-thumbnailImage: /images/covers/lvcifyre-the_calling_depths-thumb.png
+thumbnailImage: /images/covers/lvcifyre-the_calling_depths-thumb.jpg
 title: Lvcifyre - The Calling Depths
 ---
 

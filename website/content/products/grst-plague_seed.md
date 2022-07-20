@@ -7,9 +7,9 @@ categories:
 date: '2022-06-20T05:11:07'
 draft: false
 images:
-- /images/covers/grst-plague_seed.png
+- /images/covers/grst-plague_seed.jpg
 inStock: true
-thumbnailImage: /images/covers/grst-plague_seed-thumb.png
+thumbnailImage: /images/covers/grst-plague_seed-thumb.jpg
 title: Grst - Plague Seed
 ---
 

@@ -7,9 +7,9 @@ categories:
 date: '2022-07-12T05:00:33'
 draft: false
 images:
-- "/images/covers/ba\u0161mu-infernal_circles_of_the_sabbat.png"
+- "/images/covers/ba\u0161mu-infernal_circles_of_the_sabbat.jpg"
 inStock: true
-thumbnailImage: "/images/covers/ba\u0161mu-infernal_circles_of_the_sabbat-thumb.png"
+thumbnailImage: "/images/covers/ba\u0161mu-infernal_circles_of_the_sabbat-thumb.jpg"
 title: "Ba\u0161mu - Infernal Circles of the Sabbat"
 ---
 

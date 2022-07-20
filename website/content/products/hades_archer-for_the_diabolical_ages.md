@@ -7,9 +7,9 @@ categories:
 date: '2022-06-22T05:27:32'
 draft: false
 images:
-- /images/covers/hades_archer-for_the_diabolical_ages.png
+- /images/covers/hades_archer-for_the_diabolical_ages.jpg
 inStock: true
-thumbnailImage: /images/covers/hades_archer-for_the_diabolical_ages-thumb.png
+thumbnailImage: /images/covers/hades_archer-for_the_diabolical_ages-thumb.jpg
 title: Hades Archer - For the Diabolical Ages
 ---
 

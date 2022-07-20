@@ -7,9 +7,9 @@ categories:
 date: '2022-07-08T05:08:22'
 draft: false
 images:
-- /images/covers/ascension-with_burning_tongues.png
+- /images/covers/ascension-with_burning_tongues.jpg
 inStock: true
-thumbnailImage: /images/covers/ascension-with_burning_tongues-thumb.png
+thumbnailImage: /images/covers/ascension-with_burning_tongues-thumb.jpg
 title: Ascension - With Burning Tongues
 ---
 

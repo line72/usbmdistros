@@ -7,7 +7,7 @@ categories:
 date: '2022-06-20T05:11:26'
 draft: false
 images:
-- /images/covers/witch_in_her_tomb-maleficus_maleficarum.png
+- /images/covers/witch_in_her_tomb-maleficus_maleficarum.jpg
 inStock: true
 thumbnailImage: /images/covers/witch_in_her_tomb-maleficus_maleficarum-thumb.png
 title: Witch In Her Tomb - Maleficus Maleficarum
