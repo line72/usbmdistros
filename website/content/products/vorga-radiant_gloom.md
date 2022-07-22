@@ -1,10 +1,10 @@
 ---
-actualPrice: $22.00
+actualPrice: $21.00
 album: Radiant Gloom
 artist: Vorga
 categories:
 - Vinyl
-date: '2021-07-11T20:52:22'
+date: '2022-07-22T05:16:24'
 draft: false
 images:
 - /images/covers/vorga-radiant_gloom.png
@@ -14,4 +14,4 @@ title: Vorga - Radiant Gloom
 ---
 
 ## Vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/vorga-radiant-gloom) for $22.00 :: Black 1st press vinyl
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/vorga-radiant-gloom) for $21.00 :: Black 1st press vinyl

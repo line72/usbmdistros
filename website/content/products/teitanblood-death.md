@@ -5,7 +5,7 @@ artist: Teitanblood
 categories:
 - Vinyl
 - CD
-date: '2022-07-20T05:16:19'
+date: '2022-07-22T05:16:25'
 draft: false
 images:
 - /images/covers/teitanblood-death.jpg
@@ -19,6 +19,7 @@ title: Teitanblood - Death
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=23356&sort=pd.name&order=ASC) for $30.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=24647&sort=pd.name&order=ASC) for $30.00
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/used-teitanblood-death-2xlp) for $20.00 :: Black 2014 press vinyl
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/used-teitanblood-death-2xlp-1) for $20.00 :: Black 2014 press vinyl
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=23365&sort=pd.name&order=ASC) for $15.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=24646&sort=pd.name&order=ASC) for $15.00

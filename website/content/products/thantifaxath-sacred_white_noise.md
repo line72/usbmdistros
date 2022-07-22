@@ -4,7 +4,7 @@ album: Sacred White Noise
 artist: Thantifaxath
 categories:
 - Vinyl
-date: '2022-07-20T05:16:19'
+date: '2022-07-22T05:16:25'
 draft: false
 images:
 - /images/covers/thantifaxath-sacred_white_noise.jpg
@@ -17,3 +17,4 @@ title: Thantifaxath - Sacred White Noise
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/thantixafath-sacred) for $20.00 :: Black 2020 press vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/thantixafath-sacred) for $23.00 :: Clear 2020 press vinyl (SOLD OUT)
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/used-thantifaxath-sacred-white-noise-lp) for $18.00 :: Black 2014 press vinyl
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/used-thantifaxath-sacred-white-noise-lp-1) for $18.00 :: Black 2014 press vinyl

@@ -4,7 +4,7 @@ album: The Demon Tapes ... Anno Mortui Domini 1959-1961
 artist: Summoning
 categories:
 - Cassette
-date: '2022-03-17T05:10:48'
+date: '2022-07-22T05:13:43'
 draft: false
 images:
 - /images/covers/summoning-the_demon_tapes_..._anno_mortui_domini_1959-1961.png
@@ -15,3 +15,4 @@ title: Summoning - The Demon Tapes ... Anno Mortui Domini 1959-1961
 
 ## Cassette
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=21583&sort=pd.name&order=ASC) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=25591&sort=pd.name&order=ASC) for $30.00
