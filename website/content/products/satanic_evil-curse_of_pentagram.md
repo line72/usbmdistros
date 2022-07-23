@@ -4,7 +4,7 @@ album: Curse of Pentagram
 artist: Satanic Evil
 categories:
 - Vinyl
-date: '2021-11-30T13:35:26'
+date: '2022-07-23T05:10:04'
 draft: false
 images:
 - /images/covers/satanic_evil-curse_of_pentagram.jpg
@@ -16,3 +16,5 @@ title: Satanic Evil - Curse of Pentagram
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=12521&sort=pd.name&order=ASC) for $20.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=14860&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=25600&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=25601&sort=pd.name&order=ASC) for $25.00

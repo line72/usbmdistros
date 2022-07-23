@@ -5,7 +5,7 @@ artist: Volksraad
 categories:
 - Vinyl
 - CD
-date: '2022-05-10T05:00:29'
+date: '2022-07-23T05:00:47'
 draft: false
 images:
 - /images/covers/volksraad-philosophische_grondslag_(demo_i).jpg
