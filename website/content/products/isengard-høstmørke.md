@@ -4,7 +4,7 @@ album: "H\xF8stm\xF8rke"
 artist: Isengard
 categories:
 - Vinyl
-date: '2022-07-23T05:09:20'
+date: '2022-07-24T05:09:12'
 draft: false
 images:
 - "/images/covers/isengard-h\xF8stm\xF8rke.jpg"
@@ -17,3 +17,4 @@ title: "Isengard - H\xF8stm\xF8rke"
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=11811&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=17520&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=25605&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=25626&sort=pd.name&order=ASC) for $25.00

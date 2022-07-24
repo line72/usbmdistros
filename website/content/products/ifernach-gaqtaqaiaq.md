@@ -5,7 +5,7 @@ artist: Ifernach
 categories:
 - Vinyl
 - CD
-date: '2022-07-14T05:08:40'
+date: '2022-07-24T05:00:43'
 draft: false
 images:
 - /images/covers/ifernach-gaqtaqaiaq.jpg

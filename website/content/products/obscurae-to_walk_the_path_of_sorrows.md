@@ -1,10 +1,10 @@
 ---
-actualPrice: $8.00
+actualPrice: $6.00
 album: To Walk The Path Of Sorrows
 artist: Obscurae
 categories:
 - Cassette
-date: '2021-11-16T14:07:15'
+date: '2022-07-24T05:02:52'
 draft: false
 images:
 - /images/covers/obscurae-to_walk_the_path_of_sorrows.jpg
@@ -14,4 +14,4 @@ title: Obscurae - To Walk The Path Of Sorrows
 ---
 
 ## Cassette
-* Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/31740334-obscurae-to-walk-the-path-of-sorrows) for $8.00
+* Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/31740334-obscurae-to-walk-the-path-of-sorrows) for $6.00

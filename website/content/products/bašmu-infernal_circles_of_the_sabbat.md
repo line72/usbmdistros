@@ -4,7 +4,7 @@ album: Infernal Circles of the Sabbat
 artist: "Ba\u0161mu"
 categories:
 - Vinyl
-date: '2022-07-12T05:00:33'
+date: '2022-07-24T05:00:41'
 draft: false
 images:
 - "/images/covers/ba\u0161mu-infernal_circles_of_the_sabbat.jpg"
