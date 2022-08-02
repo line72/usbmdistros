@@ -4,7 +4,7 @@ album: "Von Den Pflichten, Sch\xF6nes Zu Vernichten"
 artist: Winterblut
 categories:
 - Vinyl
-date: '2021-11-30T13:35:29'
+date: '2022-07-28T05:10:06'
 draft: false
 images:
 - "/images/covers/winterblut-von_den_pflichten,_sch\xF6nes_zu_vernichten.jpg"

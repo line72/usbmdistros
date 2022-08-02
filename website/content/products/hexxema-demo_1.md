@@ -4,7 +4,7 @@ album: Demo 1
 artist: Hexxema
 categories:
 - Cassette
-date: '2022-03-18T05:10:53'
+date: '2022-07-28T05:13:09'
 draft: false
 images:
 - /images/covers/hexxema-demo_1.jpg

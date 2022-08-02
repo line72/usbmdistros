@@ -5,7 +5,7 @@ artist: Vassago
 categories:
 - Vinyl
 - CD
-date: '2022-05-21T05:09:52'
+date: '2022-07-28T05:09:58'
 draft: false
 images:
 - /images/covers/vassago-storm_of_satan.jpg

@@ -4,7 +4,7 @@ album: Arcana
 artist: Morbid Sphere
 categories:
 - Cassette
-date: '2022-06-12T05:02:15'
+date: '2022-07-28T05:13:20'
 draft: false
 images:
 - /images/covers/morbid_sphere-arcana.jpg

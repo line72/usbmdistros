@@ -4,7 +4,7 @@ album: Sangue
 artist: Sangue
 categories:
 - Vinyl
-date: '2021-11-30T13:35:32'
+date: '2022-07-28T05:10:30'
 draft: false
 images:
 - /images/covers/sangue-sangue.jpg

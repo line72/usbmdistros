@@ -4,7 +4,7 @@ album: Blood Upon the Altar
 artist: Blasphemy
 categories:
 - Cassette
-date: '2022-07-20T05:12:53'
+date: '2022-07-28T05:12:50'
 draft: false
 images:
 - /images/covers/blasphemy-blood_upon_the_altar.png

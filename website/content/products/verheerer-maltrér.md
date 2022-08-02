@@ -1,10 +1,11 @@
 ---
-actualPrice: $21.00 - 23.00
+actualPrice: $10.00 - 23.00
 album: "Maltr\xE9r"
 artist: Verheerer
 categories:
 - Vinyl
-date: '2022-07-23T05:16:39'
+- CD
+date: '2022-08-02T13:18:06'
 draft: false
 images:
 - "/images/covers/verheerer-maltr\xE9r.jpg"
@@ -17,3 +18,5 @@ title: "Verheerer - Maltr\xE9r"
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/verheerer-maltrer) for $23.00 :: Black 1st press vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/verheerer-maltrer-lp) for $21.00 :: Black 1st press vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/verheerer-maltrer-lp-1) for $21.00 :: Black 1st press vinyl
+## CD
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/verheerer-maltrer-cd) for $10.00 :: CD 2018

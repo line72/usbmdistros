@@ -5,7 +5,7 @@ artist: Pseudogod
 categories:
 - Vinyl
 - CD
-date: '2021-11-30T13:35:25'
+date: '2022-07-28T05:09:30'
 draft: false
 images:
 - /images/covers/pseudogod-sepulchral_chants.jpg

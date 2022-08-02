@@ -6,7 +6,7 @@ categories:
 - Vinyl
 - Cassette
 - CD
-date: '2022-02-23T06:09:44'
+date: '2022-07-28T05:13:32'
 draft: false
 images:
 - /images/covers/sabbat-fetishism.png

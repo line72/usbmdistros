@@ -6,7 +6,7 @@ categories:
 - Vinyl
 - Cassette
 - CD
-date: '2022-06-15T05:09:19'
+date: '2022-07-28T05:09:19'
 draft: false
 images:
 - /images/covers/nergal-the_wizard_of_nerath.jpg

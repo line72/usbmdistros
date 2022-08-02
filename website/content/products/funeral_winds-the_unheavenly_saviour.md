@@ -5,7 +5,7 @@ artist: Funeral Winds
 categories:
 - Vinyl
 - Cassette
-date: '2022-03-08T06:10:39'
+date: '2022-07-28T05:08:41'
 draft: false
 images:
 - /images/covers/funeral_winds-the_unheavenly_saviour.jpg

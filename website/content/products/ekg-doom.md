@@ -4,7 +4,7 @@ album: Doom
 artist: EKG
 categories:
 - Vinyl
-date: '2022-02-06T06:14:00'
+date: '2022-07-28T05:08:33'
 draft: false
 images:
 - /images/covers/ekg-doom.jpg

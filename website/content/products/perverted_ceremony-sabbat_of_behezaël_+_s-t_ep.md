@@ -4,7 +4,7 @@ album: "Sabbat of Beheza\xEBl + S/T EP"
 artist: Perverted Ceremony
 categories:
 - CD
-date: '2022-06-21T05:11:51'
+date: '2022-07-28T05:12:01'
 draft: false
 images:
 - "/images/covers/perverted_ceremony-sabbat_of_beheza\xEBl_+_s-t_ep.png"

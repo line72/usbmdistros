@@ -4,7 +4,7 @@ album: Forbidden Doctrine of the Youthful Gate - Demo 3
 artist: Vengeance Sorcery
 categories:
 - Cassette
-date: '2022-03-04T06:10:08'
+date: '2022-07-28T05:13:47'
 draft: false
 images:
 - /images/covers/vengeance_sorcery-forbidden_doctrine_of_the_youthful_gate_-_demo_3.jpg

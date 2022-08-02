@@ -5,7 +5,7 @@ artist: StarGazer
 categories:
 - Vinyl
 - CD
-date: '2022-03-15T05:09:45'
+date: '2022-07-28T05:12:17'
 draft: false
 images:
 - /images/covers/stargazer-a_merging_to_the_boundless.jpg

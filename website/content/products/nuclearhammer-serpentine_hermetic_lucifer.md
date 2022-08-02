@@ -4,7 +4,7 @@ album: Serpentine Hermetic Lucifer
 artist: Nuclearhammer
 categories:
 - Vinyl
-date: '2021-12-29T06:07:28'
+date: '2022-07-28T05:09:22'
 draft: false
 images:
 - /images/covers/nuclearhammer-serpentine_hermetic_lucifer.jpg

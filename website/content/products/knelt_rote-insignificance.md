@@ -4,7 +4,7 @@ album: Insignificance
 artist: Knelt Rote
 categories:
 - CD
-date: '2022-07-24T05:11:56'
+date: '2022-07-28T05:11:36'
 draft: false
 images:
 - /images/covers/knelt_rote-insignificance.jpg

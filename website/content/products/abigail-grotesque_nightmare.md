@@ -5,7 +5,7 @@ artist: Abigail
 categories:
 - Vinyl
 - Cassette
-date: '2022-05-21T05:08:17'
+date: '2022-07-28T05:07:55'
 draft: false
 images:
 - /images/covers/abigail-grotesque_nightmare.png

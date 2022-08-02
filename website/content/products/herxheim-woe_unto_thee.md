@@ -4,7 +4,7 @@ album: Woe Unto Thee
 artist: Herxheim
 categories:
 - Vinyl
-date: '2022-07-15T05:25:19'
+date: '2022-07-28T05:08:49'
 draft: false
 images:
 - /images/covers/herxheim-woe_unto_thee.jpg

@@ -5,7 +5,7 @@ artist: Sabbat
 categories:
 - Vinyl
 - CD
-date: '2021-11-30T13:35:46'
+date: '2022-07-28T05:12:08'
 draft: false
 images:
 - /images/covers/sabbat-the_dwelling.jpg

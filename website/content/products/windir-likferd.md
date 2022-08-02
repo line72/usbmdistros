@@ -5,7 +5,8 @@ artist: Windir
 categories:
 - Vinyl
 - Cassette
-date: '2022-01-23T06:11:59'
+- CD
+date: '2022-08-02T13:15:49'
 draft: false
 images:
 - /images/covers/windir-likferd.jpg
@@ -24,3 +25,5 @@ title: Windir - Likferd
 ## Cassette
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/windir-likferd-cassette) for $13.00 :: Cassette Tape 1st press
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/windir-likferd-cassette-1) for $14.00 :: Cassette Tape 2021 press
+## CD
+* Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/windir-likferd-cd/) for $15.00

@@ -5,7 +5,7 @@ artist: Mystifier
 categories:
 - Vinyl
 - CD
-date: '2022-05-29T12:42:10'
+date: '2022-07-28T05:11:49'
 draft: false
 images:
 - /images/covers/mystifier-goetia.jpg

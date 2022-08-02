@@ -5,7 +5,7 @@ artist: Beherit
 categories:
 - Vinyl
 - CD
-date: '2022-07-08T05:08:27'
+date: '2022-08-02T13:09:24'
 draft: false
 images:
 - /images/covers/beherit-the_oath_of_black_blood.jpg
@@ -35,5 +35,7 @@ title: Beherit - The Oath of Black Blood
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=23977&sort=pd.name&order=ASC) for $30.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=25175&sort=pd.name&order=ASC) for $30.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=25176&sort=pd.name&order=ASC) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=25837&sort=pd.name&order=ASC) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=25838&sort=pd.name&order=ASC) for $30.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=11729&sort=pd.name&order=ASC) for $13.00

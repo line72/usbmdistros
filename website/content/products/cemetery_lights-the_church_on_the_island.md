@@ -1,10 +1,10 @@
 ---
-actualPrice: $20.00
+actualPrice: $14.00 - 20.00
 album: The Church On The Island
 artist: Cemetery Lights
 categories:
 - Vinyl
-date: '2021-11-30T13:35:15'
+date: '2022-07-27T05:08:27'
 draft: false
 images:
 - /images/covers/cemetery_lights-the_church_on_the_island.jpg
@@ -15,4 +15,4 @@ title: Cemetery Lights - The Church On The Island
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=11411&sort=pd.name&order=ASC) for $20.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=17964&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=17964&sort=pd.name&order=ASC) for $14.00

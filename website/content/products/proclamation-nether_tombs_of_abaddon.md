@@ -6,7 +6,7 @@ categories:
 - Vinyl
 - Cassette
 - CD
-date: '2021-11-30T13:35:45'
+date: '2022-07-28T05:12:03'
 draft: false
 images:
 - /images/covers/proclamation-nether_tombs_of_abaddon.jpg

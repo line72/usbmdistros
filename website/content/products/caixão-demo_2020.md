@@ -5,7 +5,7 @@ artist: "Caix\xE3o"
 categories:
 - Vinyl
 - Cassette
-date: '2022-07-15T05:24:49'
+date: '2022-07-28T05:08:17'
 draft: false
 images:
 - "/images/covers/caix\xE3o-demo_2020.png"

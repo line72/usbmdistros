@@ -1,11 +1,12 @@
 ---
-actualPrice: $11.00 - 21.00
+actualPrice: $10.00 - 21.00
 album: Doomed Before Time
 artist: Scitalis
 categories:
 - Vinyl
 - Cassette
-date: '2022-04-28T05:14:46'
+- CD
+date: '2022-08-02T13:18:06'
 draft: false
 images:
 - /images/covers/scitalis-doomed_before_time.jpg
@@ -18,3 +19,5 @@ title: Scitalis - Doomed Before Time
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/scitalis-doomed-before-time-lp) for $21.00 :: Black 1st press vinyl
 ## Cassette
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/scitalis-doomed-before-time-cassette) for $11.00 :: Cassette Tape 1st press
+## CD
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/scitalis-doomed-before-time-cd) for $10.00 :: CD 2022

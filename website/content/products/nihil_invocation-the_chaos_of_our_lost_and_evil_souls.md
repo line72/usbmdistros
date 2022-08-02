@@ -4,7 +4,7 @@ album: The Chaos of Our Lost and Evil Souls
 artist: Nihil Invocation
 categories:
 - Cassette
-date: '2022-03-04T06:09:57'
+date: '2022-07-28T05:13:23'
 draft: false
 images:
 - /images/covers/nihil_invocation-the_chaos_of_our_lost_and_evil_souls.jpg

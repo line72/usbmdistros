@@ -4,7 +4,7 @@ album: Order Of Doom
 artist: Bestial Raids
 categories:
 - Vinyl
-date: '2022-06-17T05:10:35'
+date: '2022-07-28T05:10:13'
 draft: false
 images:
 - /images/covers/bestial_raids-order_of_doom.jpg

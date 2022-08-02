@@ -5,7 +5,7 @@ artist: Sabbat
 categories:
 - Vinyl
 - CD
-date: '2022-01-20T06:07:37'
+date: '2022-07-28T05:12:08'
 draft: false
 images:
 - /images/covers/sabbat-envenom.jpg

@@ -5,7 +5,7 @@ artist: Conqueror
 categories:
 - Cassette
 - CD
-date: '2022-01-25T06:09:48'
+date: '2022-07-28T05:12:54'
 draft: false
 images:
 - /images/covers/conqueror-nuclear.cult.supremacy.jpg

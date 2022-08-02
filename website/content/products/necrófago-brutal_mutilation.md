@@ -4,7 +4,7 @@ album: Brutal Mutilation
 artist: "Necr\xF3fago"
 categories:
 - Vinyl
-date: '2022-05-30T05:10:14'
+date: '2022-07-28T05:09:17'
 draft: false
 images:
 - "/images/covers/necr\xF3fago-brutal_mutilation.jpg"

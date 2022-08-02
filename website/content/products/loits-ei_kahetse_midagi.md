@@ -4,7 +4,7 @@ album: Ei Kahetse Midagi
 artist: Loits
 categories:
 - Vinyl
-date: '2022-03-08T06:08:05'
+date: '2022-07-28T05:09:02'
 draft: false
 images:
 - /images/covers/loits-ei_kahetse_midagi.jpg

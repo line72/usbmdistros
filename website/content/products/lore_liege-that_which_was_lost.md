@@ -4,7 +4,7 @@ album: That Which Was Lost
 artist: Lore Liege
 categories:
 - Vinyl
-date: '2022-07-02T05:00:30'
+date: '2022-07-26T05:00:41'
 draft: false
 images:
 - /images/covers/lore_liege-that_which_was_lost.png

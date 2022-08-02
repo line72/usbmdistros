@@ -4,7 +4,7 @@ album: Praying For Absolution
 artist: Embrace of Thorns
 categories:
 - Vinyl
-date: '2022-06-05T05:08:45'
+date: '2022-07-28T05:08:33'
 draft: false
 images:
 - /images/covers/embrace_of_thorns-praying_for_absolution.jpg

@@ -4,7 +4,7 @@ album: "Shade of Darkness Casting\u2026 - Demo 4"
 artist: Vengeance Sorcery
 categories:
 - Cassette
-date: '2022-03-04T06:10:08'
+date: '2022-07-28T05:13:47'
 draft: false
 images:
 - "/images/covers/vengeance_sorcery-shade_of_darkness_casting\u2026_-_demo_4.jpg"

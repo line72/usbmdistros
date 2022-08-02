@@ -4,7 +4,7 @@ album: Omens from the Dead Realm
 artist: Gnosis
 categories:
 - Vinyl
-date: '2022-06-04T05:08:51'
+date: '2022-07-28T05:08:43'
 draft: false
 images:
 - /images/covers/gnosis-omens_from_the_dead_realm.jpg

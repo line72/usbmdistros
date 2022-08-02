@@ -6,7 +6,7 @@ categories:
 - Vinyl
 - Cassette
 - CD
-date: '2022-01-23T06:07:06'
+date: '2022-07-28T05:12:57'
 draft: false
 images:
 - /images/covers/death_worship-end_times.jpg

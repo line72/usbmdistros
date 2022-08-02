@@ -5,7 +5,7 @@ artist: Gnosis
 categories:
 - Vinyl
 - CD
-date: '2022-07-24T05:11:37'
+date: '2022-07-28T05:11:19'
 draft: false
 images:
 - /images/covers/gnosis-the_third_eye_gate.jpg

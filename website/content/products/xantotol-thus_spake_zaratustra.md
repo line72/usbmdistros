@@ -5,7 +5,7 @@ artist: Xantotol
 categories:
 - Vinyl
 - Cassette
-date: '2022-06-17T05:10:30'
+date: '2022-07-28T05:10:08'
 draft: false
 images:
 - /images/covers/xantotol-thus_spake_zaratustra.jpg

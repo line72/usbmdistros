@@ -4,7 +4,7 @@ album: Septentrional Theophany
 artist: Antediluvian
 categories:
 - Vinyl
-date: '2022-07-19T15:45:44'
+date: '2022-07-28T05:10:12'
 draft: false
 images:
 - /images/covers/antediluvian-septentrional_theophany.jpg

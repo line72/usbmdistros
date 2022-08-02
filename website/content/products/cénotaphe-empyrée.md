@@ -5,7 +5,7 @@ artist: "C\xE9notaphe"
 categories:
 - Vinyl
 - CD
-date: '2022-01-20T06:06:56'
+date: '2022-07-28T05:08:18'
 draft: false
 images:
 - "/images/covers/c\xE9notaphe-empyr\xE9e.jpg"

@@ -4,7 +4,7 @@ album: "M\xE9phistophallique"
 artist: Tombeau
 categories:
 - Vinyl
-date: '2022-03-14T05:07:58'
+date: '2022-07-28T05:09:52'
 draft: false
 images:
 - "/images/covers/tombeau-m\xE9phistophallique.jpg"

@@ -4,7 +4,7 @@ album: Urkraft
 artist: "Br\xE5nd"
 categories:
 - Vinyl
-date: '2022-04-02T05:07:43'
+date: '2022-07-28T05:08:15'
 draft: false
 images:
 - "/images/covers/br\xE5nd-urkraft.jpg"

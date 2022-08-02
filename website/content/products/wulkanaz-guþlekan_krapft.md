@@ -4,7 +4,7 @@ album: "Gu\xFElekan Krapft"
 artist: Wulkanaz
 categories:
 - Vinyl
-date: '2022-06-12T05:10:36'
+date: '2022-08-02T13:11:24'
 draft: false
 images:
 - "/images/covers/wulkanaz-gu\xFElekan_krapft.jpg"
@@ -23,3 +23,4 @@ title: "Wulkanaz - Gu\xFElekan Krapft"
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=21803&sort=pd.name&order=ASC) for $100.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=22930&sort=pd.name&order=ASC) for $100.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=24353&sort=pd.name&order=ASC) for $100.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=25878&sort=pd.name&order=ASC) for $100.00

@@ -6,7 +6,7 @@ categories:
 - Vinyl
 - Cassette
 - CD
-date: '2022-03-15T05:09:45'
+date: '2022-07-28T05:12:17'
 draft: false
 images:
 - /images/covers/stargazer-psychic_secretions.png

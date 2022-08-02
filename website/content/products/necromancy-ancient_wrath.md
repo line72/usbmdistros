@@ -4,7 +4,7 @@ album: Ancient Wrath
 artist: Necromancy
 categories:
 - CD
-date: '2022-07-24T05:12:12'
+date: '2022-07-28T05:11:51'
 draft: false
 images:
 - /images/covers/necromancy-ancient_wrath.jpg

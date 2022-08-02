@@ -4,7 +4,7 @@ album: Born in a Casket
 artist: Immortallity
 categories:
 - Vinyl
-date: '2022-02-06T06:14:00'
+date: '2022-07-28T05:08:52'
 draft: false
 images:
 - /images/covers/immortallity-born_in_a_casket.jpg

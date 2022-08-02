@@ -1,10 +1,11 @@
 ---
-actualPrice: $28.00
+actualPrice: $10.50 - 28.00
 album: Sigma Octantis
 artist: Vrildom
 categories:
 - Vinyl
-date: '2022-05-29T12:44:41'
+- Cassette
+date: '2022-08-02T13:15:49'
 draft: false
 images:
 - /images/covers/vrildom-sigma_octantis.jpg
@@ -15,3 +16,5 @@ title: Vrildom - Sigma Octantis
 
 ## Vinyl
 * Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/vrildom-sigma-lp/) for $28.00
+## Cassette
+* Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/vrildom-sigma-octantis-cassette-pre-order/) for $10.50

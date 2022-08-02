@@ -4,7 +4,7 @@ album: "Satanic Fortification Overbalance / Inverterat Korst\xE5g"
 artist: Yxxan
 categories:
 - Vinyl
-date: '2022-07-15T05:26:39'
+date: '2022-07-28T05:10:09'
 draft: false
 images:
 - "/images/covers/yxxan-satanic_fortification_overbalance_-_inverterat_korst\xE5g.jpg"

@@ -4,7 +4,7 @@ album: Reverence for the Kings of Hell
 artist: Apochryphal Revelation
 categories:
 - Vinyl
-date: '2022-04-13T05:07:37'
+date: '2022-07-28T05:08:02'
 draft: false
 images:
 - /images/covers/apochryphal_revelation-reverence_for_the_kings_of_hell.jpg

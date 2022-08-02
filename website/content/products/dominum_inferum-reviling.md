@@ -4,7 +4,7 @@ album: Reviling
 artist: Dominum Inferum
 categories:
 - Cassette
-date: '2021-11-30T13:35:52'
+date: '2022-07-28T05:12:59'
 draft: false
 images:
 - /images/covers/dominum_inferum-reviling.png

@@ -4,7 +4,7 @@ album: Dripping Papal Blood
 artist: Departure Chandelier
 categories:
 - CD
-date: '2022-06-21T05:10:56'
+date: '2022-07-28T05:11:04'
 draft: false
 images:
 - /images/covers/departure_chandelier-dripping_papal_blood.jpg

@@ -5,7 +5,7 @@ artist: Proclamation
 categories:
 - Vinyl
 - CD
-date: '2021-11-30T13:35:45'
+date: '2022-07-28T05:12:03'
 draft: false
 images:
 - /images/covers/proclamation-messiah_of_darkness_and_impurity.jpg

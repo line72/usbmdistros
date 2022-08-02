@@ -4,7 +4,7 @@ album: Calling the Legend
 artist: Dark Opera
 categories:
 - Vinyl
-date: '2022-06-08T05:08:15'
+date: '2022-07-28T05:08:24'
 draft: false
 images:
 - /images/covers/dark_opera-calling_the_legend.jpg

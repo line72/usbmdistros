@@ -4,7 +4,7 @@ album: Martire
 artist: Martire
 categories:
 - Vinyl
-date: '2021-11-30T13:35:22'
+date: '2022-07-28T05:09:08'
 draft: false
 images:
 - /images/covers/martire-martire.jpg

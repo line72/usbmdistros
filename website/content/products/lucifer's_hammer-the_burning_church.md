@@ -5,7 +5,7 @@ artist: Lucifer's Hammer
 categories:
 - Vinyl
 - CD
-date: '2022-07-20T05:09:03'
+date: '2022-07-28T05:09:03'
 draft: false
 images:
 - /images/covers/lucifer's_hammer-the_burning_church.jpg

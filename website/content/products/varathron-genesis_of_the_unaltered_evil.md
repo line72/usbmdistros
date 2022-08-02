@@ -5,7 +5,7 @@ artist: Varathron
 categories:
 - Vinyl
 - CD
-date: '2022-07-15T05:26:28'
+date: '2022-07-28T05:09:58'
 draft: false
 images:
 - /images/covers/varathron-genesis_of_the_unaltered_evil.jpg

@@ -5,7 +5,8 @@ artist: Windir
 categories:
 - Vinyl
 - Cassette
-date: '2021-12-25T06:11:06'
+- CD
+date: '2022-08-02T13:15:49'
 draft: false
 images:
 - "/images/covers/windir-s\xF3knardalr.jpg"
@@ -24,3 +25,5 @@ title: "Windir - S\xF3knardalr"
 ## Cassette
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/windir-soknardalr-cassette) for $13.00 :: Cassette Tape 2021 press
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/windir-soknardalr-cassette-1) for $14.00 :: Cassette Tape 2021 press
+## CD
+* Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/windir-soknardalr-cd/) for $15.00

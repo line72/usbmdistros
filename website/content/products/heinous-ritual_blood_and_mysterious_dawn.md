@@ -4,7 +4,7 @@ album: Ritual Blood and Mysterious Dawn
 artist: Heinous
 categories:
 - CD
-date: '2022-04-01T14:18:03'
+date: '2022-07-28T05:11:25'
 draft: false
 images:
 - /images/covers/heinous-ritual_blood_and_mysterious_dawn.jpg

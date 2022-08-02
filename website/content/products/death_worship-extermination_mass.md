@@ -6,7 +6,7 @@ categories:
 - Vinyl
 - Cassette
 - CD
-date: '2022-05-30T05:09:23'
+date: '2022-07-28T05:08:26'
 draft: false
 images:
 - /images/covers/death_worship-extermination_mass.jpg

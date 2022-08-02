@@ -6,7 +6,7 @@ categories:
 - Vinyl
 - Cassette
 - CD
-date: '2022-07-25T05:28:57'
+date: '2022-07-28T05:11:20'
 draft: false
 images:
 - /images/covers/goatpenis-decapitation_philosophy.jpg

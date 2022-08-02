@@ -5,7 +5,7 @@ artist: Sabbat
 categories:
 - Vinyl
 - Cassette
-date: '2022-07-15T05:26:05'
+date: '2022-07-28T05:09:35'
 draft: false
 images:
 - /images/covers/sabbat-sabbaticurse.jpg

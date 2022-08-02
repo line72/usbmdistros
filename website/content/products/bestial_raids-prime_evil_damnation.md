@@ -4,7 +4,7 @@ album: Prime Evil Damnation
 artist: Bestial Raids
 categories:
 - Vinyl
-date: '2021-11-30T13:35:15'
+date: '2022-07-28T05:08:10'
 draft: false
 images:
 - /images/covers/bestial_raids-prime_evil_damnation.png

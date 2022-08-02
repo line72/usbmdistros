@@ -4,7 +4,7 @@ album: "\u0391\u03C0\u03BF\u03BA\u03B1\u03B8\u03AE\u03BB\u03C9\u03C3\u03B9\u03C2
 artist: Rotting Christ
 categories:
 - Vinyl
-date: '2021-11-30T13:35:32'
+date: '2022-07-28T05:10:29'
 draft: false
 images:
 - "/images/covers/rotting_christ-\u03B1\u03C0\u03BF\u03BA\u03B1\u03B8\u03AE\u03BB\u03C9\

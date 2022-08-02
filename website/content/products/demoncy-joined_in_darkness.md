@@ -5,7 +5,7 @@ artist: Demoncy
 categories:
 - Vinyl
 - CD
-date: '2022-03-01T06:06:57'
+date: '2022-07-28T05:08:28'
 draft: false
 images:
 - /images/covers/demoncy-joined_in_darkness.jpg

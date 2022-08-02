@@ -5,7 +5,7 @@ artist: Dai
 categories:
 - Cassette
 - CD
-date: '2022-06-12T05:02:15'
+date: '2022-07-28T05:12:56'
 draft: false
 images:
 - /images/covers/dai-the_advent.jpg

@@ -4,7 +4,7 @@ album: Forn
 artist: Fyrnask
 categories:
 - Vinyl
-date: '2021-11-30T13:35:18'
+date: '2022-08-02T13:09:58'
 draft: false
 images:
 - /images/covers/fyrnask-forn.jpg
@@ -15,3 +15,4 @@ title: Fyrnask - Forn
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=15608&sort=pd.name&order=ASC) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=25852&sort=pd.name&order=ASC) for $30.00

@@ -4,7 +4,7 @@ album: Savage War is Destiny
 artist: Caveman Cult
 categories:
 - CD
-date: '2022-04-16T05:11:05'
+date: '2022-08-02T13:12:13'
 draft: false
 images:
 - /images/covers/caveman_cult-savage_war_is_destiny.jpg
@@ -16,3 +16,4 @@ title: Caveman Cult - Savage War is Destiny
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=20910&sort=pd.name&order=ASC) for $12.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=22534&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=25969&sort=pd.name&order=ASC) for $12.00

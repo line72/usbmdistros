@@ -4,7 +4,7 @@ album: Hymns to the Moon
 artist: Lucifer's Hammer
 categories:
 - Vinyl
-date: '2022-07-20T05:09:03'
+date: '2022-07-28T05:09:03'
 draft: false
 images:
 - /images/covers/lucifer's_hammer-hymns_to_the_moon.jpg

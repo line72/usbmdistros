@@ -4,7 +4,7 @@ album: Drenched in the Poisos
 artist: Villains
 categories:
 - Vinyl
-date: '2021-11-30T13:35:29'
+date: '2022-07-28T05:10:00'
 draft: false
 images:
 - /images/covers/villains-drenched_in_the_poisos.jpg

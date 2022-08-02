@@ -1,10 +1,11 @@
 ---
-actualPrice: $21.00 - 23.00
+actualPrice: $10.00 - 23.00
 album: Unavngivet
 artist: Glemsel
 categories:
 - Vinyl
-date: '2022-05-07T05:16:10'
+- CD
+date: '2022-08-02T13:18:06'
 draft: false
 images:
 - /images/covers/glemsel-unavngivet.png
@@ -17,3 +18,5 @@ title: Glemsel - Unavngivet
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/glemsel-unavngivet) for $23.00 :: Black 1st press vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/glemsel-unavngivet) for $21.00 :: Black 2022 press vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/glemsel-unavngivet) for $23.00 :: Black 1st press vinyl
+## CD
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/glemsel-unavngivet-cd) for $10.00 :: CD 2020
