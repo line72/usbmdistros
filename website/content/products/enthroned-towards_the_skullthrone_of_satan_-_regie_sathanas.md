@@ -4,7 +4,7 @@ album: Towards The Skullthrone of Satan / Regie Sathanas
 artist: Enthroned
 categories:
 - Vinyl
-date: '2022-02-01T06:06:52'
+date: '2022-07-20T05:08:33'
 draft: false
 images:
 - /images/covers/enthroned-towards_the_skullthrone_of_satan_-_regie_sathanas.jpg
@@ -16,3 +16,4 @@ title: Enthroned - Towards The Skullthrone of Satan / Regie Sathanas
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=17951&sort=pd.name&order=ASC) for $30.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=20626&sort=pd.name&order=ASC) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=25489&sort=pd.name&order=ASC) for $30.00

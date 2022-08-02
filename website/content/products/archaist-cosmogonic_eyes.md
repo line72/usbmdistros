@@ -5,7 +5,7 @@ artist: Archaist
 categories:
 - Vinyl
 - CD
-date: '2021-11-30T13:35:14'
+date: '2022-07-10T05:08:20'
 draft: false
 images:
 - /images/covers/archaist-cosmogonic_eyes.jpg
@@ -18,5 +18,7 @@ title: Archaist - Cosmogonic Eyes
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/archaist-cosmogonic-eyes-12-lp) for $24.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=9350&sort=pd.name&order=ASC) for $15.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=9349&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=25265&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=25266&sort=pd.name&order=ASC) for $25.00
 ## CD
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/archaist-cosmogonic-eyes-cd) for $13.00

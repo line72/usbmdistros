@@ -4,7 +4,7 @@ album: Return by Fire
 artist: Werewolf Bloodorder
 categories:
 - Vinyl
-date: '2022-06-01T05:00:48'
+date: '2022-06-29T05:00:47'
 draft: false
 images:
 - /images/covers/werewolf_bloodorder-return_by_fire.jpg

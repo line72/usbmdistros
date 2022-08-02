@@ -1,10 +1,10 @@
 ---
-actualPrice: $11.00
+actualPrice: $11.00 - 12.00
 album: Rehearsal MMXX
 artist: Wampyric Rites
 categories:
 - Cassette
-date: '2022-01-24T06:00:34'
+date: '2022-07-15T05:00:22'
 draft: false
 images:
 - /images/covers/wampyric_rites-rehearsal_mmxx.jpg
@@ -15,3 +15,4 @@ title: Wampyric Rites - Rehearsal MMXX
 
 ## Cassette
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/wampyric-rites-rehearsal-mmxx-tape) for $11.00
+* Purchase from [Sto'Vo'Kor Records](https://stovokor-records.com/products/wampyric-rites-rehearsal-mmxx-cassette) for $12.00

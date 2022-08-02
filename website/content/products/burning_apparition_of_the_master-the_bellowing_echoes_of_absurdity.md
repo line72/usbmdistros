@@ -4,7 +4,7 @@ album: The Bellowing Echoes of Absurdity
 artist: Burning Apparition Of The Master
 categories:
 - Vinyl
-date: '2022-05-04T05:00:31'
+date: '2022-07-16T05:00:39'
 draft: false
 images:
 - /images/covers/burning_apparition_of_the_master-the_bellowing_echoes_of_absurdity.jpg

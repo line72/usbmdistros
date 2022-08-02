@@ -4,7 +4,7 @@ album: Evighetens Cirkel...
 artist: Muvitium
 categories:
 - Vinyl
-date: '2022-06-11T05:00:26'
+date: '2022-06-21T05:00:33'
 draft: false
 images:
 - /images/covers/muvitium-evighetens_cirkel....jpg

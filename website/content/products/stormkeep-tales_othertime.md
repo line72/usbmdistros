@@ -4,7 +4,7 @@ album: Tales Othertime
 artist: Stormkeep
 categories:
 - CD
-date: '2022-05-07T05:11:21'
+date: '2022-06-25T05:12:19'
 draft: false
 images:
 - /images/covers/stormkeep-tales_othertime.jpg
@@ -17,3 +17,4 @@ title: Stormkeep - Tales Othertime
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=21003&sort=pd.name&order=ASC) for $15.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=21642&sort=pd.name&order=ASC) for $15.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=23146&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=24936&sort=pd.name&order=ASC) for $15.00

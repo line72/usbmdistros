@@ -4,7 +4,7 @@ album: Woe Unto Thee
 artist: Herxheim
 categories:
 - Vinyl
-date: '2022-06-15T05:08:53'
+date: '2022-07-15T05:25:19'
 draft: false
 images:
 - /images/covers/herxheim-woe_unto_thee.jpg
@@ -18,3 +18,4 @@ title: Herxheim - Woe Unto Thee
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=23602&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=23971&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=24417&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=25436&sort=pd.name&order=ASC) for $25.00

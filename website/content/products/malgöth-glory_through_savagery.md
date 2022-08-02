@@ -1,11 +1,11 @@
 ---
-actualPrice: $10.00 - 25.00
+actualPrice: $6.50 - 25.00
 album: Glory Through Savagery
 artist: "Malg\xF6th"
 categories:
 - Vinyl
 - CD
-date: '2021-12-22T06:07:20'
+date: '2022-07-18T05:02:40'
 draft: false
 images:
 - "/images/covers/malg\xF6th-glory_through_savagery.jpg"
@@ -18,5 +18,5 @@ title: "Malg\xF6th - Glory Through Savagery"
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=19840&sort=pd.name&order=ASC) for $25.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=18284&sort=pd.name&order=ASC) for $12.00
-* Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/34258108-malgoth-glory-through-savagery-cd) for $10.00
+* Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/34258108-malgoth-glory-through-savagery-cd) for $6.50
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=19668&sort=pd.name&order=ASC) for $12.00

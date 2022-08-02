@@ -5,7 +5,7 @@ artist: Ildjarn-Nidhogg
 categories:
 - Vinyl
 - CD
-date: '2022-06-17T05:09:21'
+date: '2022-07-24T05:09:09'
 draft: false
 images:
 - /images/covers/ildjarn-nidhogg-hardangervidda_part_i.jpg
@@ -20,5 +20,6 @@ title: Ildjarn-Nidhogg - Hardangervidda Part I
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=20735&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=24433&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=24505&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=25619&sort=pd.name&order=ASC) for $25.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=17207&sort=pd.name&order=ASC) for $15.00

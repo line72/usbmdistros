@@ -5,7 +5,7 @@ artist: Candelabrum
 categories:
 - Vinyl
 - CD
-date: '2022-03-26T05:07:31'
+date: '2022-06-26T05:00:39'
 draft: false
 images:
 - /images/covers/candelabrum-portals.jpg

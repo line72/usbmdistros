@@ -4,7 +4,7 @@ album: Behold.Total.Rejection
 artist: Revenge
 categories:
 - Vinyl
-date: '2021-11-30T13:35:25'
+date: '2022-06-29T05:09:30'
 draft: false
 images:
 - /images/covers/revenge-behold.total.rejection.jpg
@@ -15,3 +15,4 @@ title: Revenge - Behold.Total.Rejection
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=2425&sort=pd.name&order=ASC) for $27.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=24997&sort=pd.name&order=ASC) for $27.00

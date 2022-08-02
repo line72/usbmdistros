@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.75
+actualPrice: $12.75 - 25.00
 album: The Age of Dead Christ
 artist: Necrodeath
 categories:
 - Vinyl
-date: '2021-06-29T15:06:02'
+date: '2022-07-14T05:09:05'
 draft: false
 images:
 - /images/covers/necrodeath-the_age_of_dead_christ.jpg
@@ -15,3 +15,4 @@ title: Necrodeath - The Age of Dead Christ
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=8406&sort=pd.name&order=ASC) for $12.75
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=25369&sort=pd.name&order=ASC) for $25.00

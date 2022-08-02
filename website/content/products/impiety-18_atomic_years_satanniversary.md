@@ -4,7 +4,7 @@ album: 18 Atomic Years Satanniversary
 artist: Impiety
 categories:
 - Vinyl
-date: '2021-06-26T15:22:49'
+date: '2022-07-08T05:09:09'
 draft: false
 images:
 - /images/covers/impiety-18_atomic_years_satanniversary.jpg
@@ -15,3 +15,4 @@ title: Impiety - 18 Atomic Years Satanniversary
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=15962&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=25135&sort=pd.name&order=ASC) for $25.00

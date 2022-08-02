@@ -4,7 +4,7 @@ album: Cojete a Dios Por el Culo
 artist: Morbosidad
 categories:
 - CD
-date: '2021-11-30T13:35:43'
+date: '2022-07-22T05:11:50'
 draft: false
 images:
 - /images/covers/morbosidad-cojete_a_dios_por_el_culo.jpg
@@ -15,3 +15,4 @@ title: Morbosidad - Cojete a Dios Por el Culo
 
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=17907&sort=pd.name&order=ASC) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=25567&sort=pd.name&order=ASC) for $10.00

@@ -4,7 +4,7 @@ album: From Bereavement to Ruin
 artist: Megalith Grave
 categories:
 - Vinyl
-date: '2022-06-14T05:00:32'
+date: '2022-06-19T05:00:30'
 draft: false
 images:
 - /images/covers/megalith_grave-from_bereavement_to_ruin.jpg

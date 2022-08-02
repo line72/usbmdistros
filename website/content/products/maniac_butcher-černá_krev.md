@@ -5,7 +5,7 @@ artist: Maniac Butcher
 categories:
 - Vinyl
 - CD
-date: '2022-05-29T12:39:28'
+date: '2022-07-19T15:38:26'
 draft: false
 images:
 - "/images/covers/maniac_butcher-\u010Dern\xE1_krev.jpg"
@@ -19,5 +19,6 @@ title: "Maniac Butcher - \u010Cern\xE1 Krev"
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=17222&sort=pd.name&order=ASC) for $20.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=21478&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=23739&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=25475&sort=pd.name&order=ASC) for $25.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=13843&sort=pd.name&order=ASC) for $10.00

@@ -1,12 +1,12 @@
 ---
-actualPrice: $13.99 - 44.99
+actualPrice: $10.99 - 44.99
 album: Aeternum
 artist: Hexis
 categories:
 - Vinyl
 - Cassette
 - CD
-date: '2022-06-03T05:01:25'
+date: '2022-07-19T15:30:51'
 draft: false
 images:
 - /images/covers/hexis-aeternum.jpg
@@ -24,3 +24,4 @@ title: Hexis - Aeternum
 * Purchase from [Debemur Morti](https://debemurmorti.aisamerch.com/item/113453) for $13.99 :: gold shell
 ## CD
 * Purchase from [Debemur Morti](https://debemurmorti.aisamerch.com/item/113451) for $19.98 :: DMP exclusive
+* Purchase from [Debemur Morti](https://debemurmorti.aisamerch.com/item/113450) for $10.99

@@ -1,10 +1,11 @@
 ---
-actualPrice: $26.00 - 35.00
+actualPrice: $12.00 - 35.00
 album: Demo III
 artist: Wampyric Rites
 categories:
 - Vinyl
-date: '2022-01-19T06:00:25'
+- Cassette
+date: '2022-07-15T05:00:22'
 draft: false
 images:
 - /images/covers/wampyric_rites-demo_iii.jpg
@@ -16,3 +17,5 @@ title: Wampyric Rites - Demo III
 ## Vinyl
 * Purchase from [Sto'Vo'Kor Records](https://stovokor-records.com/products/wampyric-rites-demo-iii) for $26.00
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/wampyric-rites-demo-iii-12-lp) for $35.00
+## Cassette
+* Purchase from [Sto'Vo'Kor Records](https://stovokor-records.com/products/wampyric-rites-demo-iii-cassette) for $12.00

@@ -1,10 +1,11 @@
 ---
-actualPrice: $24.00 - 27.00
+actualPrice: $12.00 - 27.00
 album: Diabolical Fullmoon Mysticism
 artist: Immortal
 categories:
 - Vinyl
-date: '2021-10-31T11:45:21'
+- CD
+date: '2022-06-29T05:11:18'
 draft: false
 images:
 - /images/covers/immortal-diabolical_fullmoon_mysticism.jpg
@@ -19,3 +20,5 @@ title: Immortal - Diabolical Fullmoon Mysticism
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/immortal-diabolican-fullmoon-mysticism) for $25.00 :: Black 2020 press vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/immortal-diabolican-fullmoon-mysticism) for $27.00 :: Red/Yellow 2021 press vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=18388&sort=pd.name&order=ASC) for $25.00
+## CD
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=25010&sort=pd.name&order=ASC) for $12.00

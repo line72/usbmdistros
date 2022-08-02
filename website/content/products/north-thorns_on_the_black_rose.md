@@ -1,10 +1,11 @@
 ---
-actualPrice: $15.00
+actualPrice: $12.00 - 15.00
 album: Thorns On The Black Rose
 artist: North
 categories:
 - Cassette
-date: '2022-05-29T12:43:42'
+- CD
+date: '2022-06-25T05:11:56'
 draft: false
 images:
 - /images/covers/north-thorns_on_the_black_rose.jpg
@@ -15,3 +16,5 @@ title: North - Thorns On The Black Rose
 
 ## Cassette
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=23927&sort=pd.name&order=ASC) for $15.00
+## CD
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=24931&sort=pd.name&order=ASC) for $12.00

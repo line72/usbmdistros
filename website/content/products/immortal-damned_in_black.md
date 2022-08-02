@@ -1,10 +1,11 @@
 ---
-actualPrice: $15.40 - 25.00
+actualPrice: $12.00 - 25.00
 album: Damned in Black
 artist: Immortal
 categories:
 - Vinyl
-date: '2022-06-17T05:09:21'
+- CD
+date: '2022-06-29T05:11:18'
 draft: false
 images:
 - /images/covers/immortal-damned_in_black.jpg
@@ -18,3 +19,5 @@ title: Immortal - Damned in Black
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=16641&sort=pd.name&order=ASC) for $15.40
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/immortal-damned-in-black) for $25.00 :: Alternate Cover 2021 press vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=24543&sort=pd.name&order=ASC) for $22.00
+## CD
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=25011&sort=pd.name&order=ASC) for $12.00
