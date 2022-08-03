@@ -7,9 +7,9 @@ categories:
 date: '2022-08-02T13:18:06'
 draft: false
 images:
-- /images/covers/false-untitled.png
+- /images/covers/false-untitled.jpg
 inStock: true
-thumbnailImage: /images/covers/false-untitled-thumb.png
+thumbnailImage: /images/covers/false-untitled-thumb.jpg
 title: False - Untitled
 ---
 

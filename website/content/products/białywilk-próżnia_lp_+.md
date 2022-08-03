@@ -7,9 +7,9 @@ categories:
 date: '2022-08-02T13:18:05'
 draft: false
 images:
-- "/images/covers/bia\u0142ywilk-pr\xF3\u017Cnia_lp_+.png"
+- "/images/covers/bia\u0142ywilk-pr\xF3\u017Cnia_lp_+.jpg"
 inStock: true
-thumbnailImage: "/images/covers/bia\u0142ywilk-pr\xF3\u017Cnia_lp_+-thumb.png"
+thumbnailImage: "/images/covers/bia\u0142ywilk-pr\xF3\u017Cnia_lp_+-thumb.jpg"
 title: "Bia\u0142ywilk - Pr\xF3\u017Cnia LP +"
 ---
 

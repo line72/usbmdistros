@@ -5,7 +5,7 @@ artist: Drudkh
 categories:
 - Vinyl
 - Cassette
-date: '2022-08-02T13:09:48'
+date: '2022-08-03T05:08:52'
 draft: false
 images:
 - /images/covers/drudkh-handful_of_stars.png
@@ -20,5 +20,6 @@ title: Drudkh - Handful Of Stars
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=24007&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=24987&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=25864&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=25991&sort=pd.name&order=ASC) for $25.00
 ## Cassette
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/drudkh-handful-of-stars-cassette) for $13.00 :: Cassette Tape 2021 press

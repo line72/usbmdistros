@@ -1,10 +1,10 @@
 ---
-actualPrice: $9.00
+actualPrice: $9.00 - 12.00
 album: Blood Upon the Soundspace
 artist: Blasphemy
 categories:
 - Cassette
-date: '2021-11-30T13:35:51'
+date: '2022-08-03T05:13:28'
 draft: false
 images:
 - /images/covers/blasphemy-blood_upon_the_soundspace.png
@@ -15,3 +15,4 @@ title: Blasphemy - Blood Upon the Soundspace
 
 ## Cassette
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=15491&sort=pd.name&order=ASC) for $9.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=26001&sort=pd.name&order=ASC) for $12.00

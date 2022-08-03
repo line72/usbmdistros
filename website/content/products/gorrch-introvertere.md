@@ -8,9 +8,9 @@ categories:
 date: '2022-07-30T05:11:44'
 draft: false
 images:
-- /images/covers/gorrch-introvertere.png
+- /images/covers/gorrch-introvertere.jpg
 inStock: true
-thumbnailImage: /images/covers/gorrch-introvertere-thumb.png
+thumbnailImage: /images/covers/gorrch-introvertere-thumb.jpg
 title: Gorrch - Introvertere
 ---
 

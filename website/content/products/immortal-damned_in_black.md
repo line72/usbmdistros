@@ -5,7 +5,7 @@ artist: Immortal
 categories:
 - Vinyl
 - CD
-date: '2022-06-29T05:11:18'
+date: '2022-08-03T05:12:03'
 draft: false
 images:
 - /images/covers/immortal-damned_in_black.jpg
@@ -21,3 +21,4 @@ title: Immortal - Damned in Black
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=24543&sort=pd.name&order=ASC) for $22.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=25011&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=25983&sort=pd.name&order=ASC) for $12.00

@@ -7,9 +7,9 @@ categories:
 date: '2022-07-30T05:11:48'
 draft: false
 images:
-- /images/covers/harakiri_for_the_sky-iii:_trauma.png
+- /images/covers/harakiri_for_the_sky-iii:_trauma.jpg
 inStock: true
-thumbnailImage: /images/covers/harakiri_for_the_sky-iii:_trauma-thumb.png
+thumbnailImage: /images/covers/harakiri_for_the_sky-iii:_trauma-thumb.jpg
 title: 'Harakiri For The Sky - III: Trauma'
 ---
 

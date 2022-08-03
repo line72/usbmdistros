@@ -7,9 +7,9 @@ categories:
 date: '2022-08-02T13:18:05'
 draft: false
 images:
-- /images/covers/godless-sic_luceat_vacuum_nostrum.png
+- /images/covers/godless-sic_luceat_vacuum_nostrum.jpg
 inStock: true
-thumbnailImage: /images/covers/godless-sic_luceat_vacuum_nostrum-thumb.png
+thumbnailImage: /images/covers/godless-sic_luceat_vacuum_nostrum-thumb.jpg
 title: Godless - Sic Luceat Vacuum Nostrum
 ---
 

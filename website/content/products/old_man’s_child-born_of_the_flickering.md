@@ -7,9 +7,9 @@ categories:
 date: '2022-08-02T13:15:49'
 draft: false
 images:
-- "/images/covers/old_man\u2019s_child-born_of_the_flickering.png"
+- "/images/covers/old_man\u2019s_child-born_of_the_flickering.jpg"
 inStock: true
-thumbnailImage: "/images/covers/old_man\u2019s_child-born_of_the_flickering-thumb.png"
+thumbnailImage: "/images/covers/old_man\u2019s_child-born_of_the_flickering-thumb.jpg"
 title: "Old Man\u2019S Child - Born of the Flickering"
 ---
 

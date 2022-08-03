@@ -5,7 +5,7 @@ artist: Blasphemy
 categories:
 - Vinyl
 - Cassette
-date: '2022-03-01T06:09:29'
+date: '2022-08-03T05:13:28'
 draft: false
 images:
 - /images/covers/blasphemy-live_ritual_-_friday_the_13th.jpg
@@ -20,3 +20,4 @@ title: Blasphemy - Live Ritual - Friday the 13th
 ## Cassette
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=15473&sort=pd.name&order=ASC) for $9.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=21118&sort=pd.name&order=ASC) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=26004&sort=pd.name&order=ASC) for $12.00

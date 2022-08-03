@@ -7,9 +7,9 @@ categories:
 date: '2022-07-28T05:00:35'
 draft: false
 images:
-- /images/covers/trembling_void-demo_i.png
+- /images/covers/trembling_void-demo_i.jpg
 inStock: true
-thumbnailImage: /images/covers/trembling_void-demo_i-thumb.png
+thumbnailImage: /images/covers/trembling_void-demo_i-thumb.jpg
 title: Trembling Void - Demo I
 ---
 

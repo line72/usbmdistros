@@ -7,9 +7,9 @@ categories:
 date: '2022-07-26T05:09:48'
 draft: false
 images:
-- /images/covers/harakiri_for_the_sky-arson.png
+- /images/covers/harakiri_for_the_sky-arson.jpg
 inStock: true
-thumbnailImage: /images/covers/harakiri_for_the_sky-arson-thumb.png
+thumbnailImage: /images/covers/harakiri_for_the_sky-arson-thumb.jpg
 title: Harakiri For The Sky - Arson
 ---
 

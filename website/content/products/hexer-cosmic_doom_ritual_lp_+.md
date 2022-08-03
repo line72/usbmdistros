@@ -7,9 +7,9 @@ categories:
 date: '2022-08-02T13:18:05'
 draft: false
 images:
-- /images/covers/hexer-cosmic_doom_ritual_lp_+.png
+- /images/covers/hexer-cosmic_doom_ritual_lp_+.jpg
 inStock: true
-thumbnailImage: /images/covers/hexer-cosmic_doom_ritual_lp_+-thumb.png
+thumbnailImage: /images/covers/hexer-cosmic_doom_ritual_lp_+-thumb.jpg
 title: Hexer - Cosmic Doom Ritual LP +
 ---
 

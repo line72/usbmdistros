@@ -7,9 +7,9 @@ categories:
 date: '2022-08-02T13:18:05'
 draft: false
 images:
-- "/images/covers/friisk-\u2026un_tor\xFCgg_bleev_blot_sand_lp_+.png"
+- "/images/covers/friisk-\u2026un_tor\xFCgg_bleev_blot_sand_lp_+.jpg"
 inStock: true
-thumbnailImage: "/images/covers/friisk-\u2026un_tor\xFCgg_bleev_blot_sand_lp_+-thumb.png"
+thumbnailImage: "/images/covers/friisk-\u2026un_tor\xFCgg_bleev_blot_sand_lp_+-thumb.jpg"
 title: "Friisk - \u2026un tor\xFCgg bleev blot Sand LP +"
 ---
 

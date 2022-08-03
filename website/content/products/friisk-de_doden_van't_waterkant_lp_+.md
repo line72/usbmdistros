@@ -7,9 +7,9 @@ categories:
 date: '2022-08-02T13:18:05'
 draft: false
 images:
-- /images/covers/friisk-de_doden_van't_waterkant_lp_+.png
+- /images/covers/friisk-de_doden_van't_waterkant_lp_+.jpg
 inStock: true
-thumbnailImage: /images/covers/friisk-de_doden_van't_waterkant_lp_+-thumb.png
+thumbnailImage: /images/covers/friisk-de_doden_van't_waterkant_lp_+-thumb.jpg
 title: Friisk - De Doden Van't Waterkant LP +
 ---
 
