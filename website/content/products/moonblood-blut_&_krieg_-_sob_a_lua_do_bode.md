@@ -5,7 +5,7 @@ artist: Moonblood
 categories:
 - Vinyl
 - CD
-date: '2022-07-17T05:00:35'
+date: '2022-08-10T14:10:39'
 draft: false
 images:
 - /images/covers/moonblood-blut_&_krieg_-_sob_a_lua_do_bode.jpg
@@ -25,3 +25,4 @@ title: Moonblood - Blut & Krieg / Sob A Lua Do Bode
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=21630&sort=pd.name&order=ASC) for $15.00
 * Purchase from [CW Productions](https://shop.cwproductions.net/products/moonblood-blut-krieg-sob-a-lua-do-bode-cd) for $15.00
 * Purchase from [CW Productions](https://shop.cwproductions.net/products/moonblood-blut-krieg-sob-a-lua-do-bode-cd-1) for $15.00
+* Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/moonblood-blut-krieg-sob-a-lua-do-bode-cd/) for $15.00

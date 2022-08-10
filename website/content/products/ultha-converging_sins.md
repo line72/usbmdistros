@@ -1,10 +1,10 @@
 ---
-actualPrice: $27.00
+actualPrice: $25.00
 album: Converging Sins
 artist: Ultha
 categories:
 - Vinyl
-date: '2021-07-11T20:52:22'
+date: '2022-08-10T14:15:41'
 draft: false
 images:
 - /images/covers/ultha-converging_sins.jpg
@@ -14,4 +14,4 @@ title: Ultha - Converging Sins
 ---
 
 ## Vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/ultha-converging-sins-lp) for $27.00 :: Gold 3rd press vinyl
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/ultha-converging-sins-lp) for $25.00 :: Gold 3rd press vinyl

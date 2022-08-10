@@ -4,7 +4,7 @@ album: Usurping The Hall Of Might And Splendour
 artist: Silent Thunder
 categories:
 - Cassette
-date: '2022-05-21T05:00:47'
+date: '2022-08-10T13:38:41'
 draft: false
 images:
 - /images/covers/silent_thunder-usurping_the_hall_of_might_and_splendour.jpg

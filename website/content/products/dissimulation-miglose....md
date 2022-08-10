@@ -4,7 +4,7 @@ album: Miglose...
 artist: Dissimulation
 categories:
 - Vinyl
-date: '2022-06-20T05:11:03'
+date: '2022-08-10T13:48:34'
 draft: false
 images:
 - /images/covers/dissimulation-miglose....jpg
@@ -15,3 +15,4 @@ title: Dissimulation - Miglose...
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=24598&sort=pd.name&order=ASC) for $8.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=26270&sort=pd.name&order=ASC) for $8.00

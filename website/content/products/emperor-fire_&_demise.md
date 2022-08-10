@@ -4,7 +4,7 @@ album: Fire & Demise
 artist: Emperor
 categories:
 - Cassette
-date: '2022-07-22T05:13:06'
+date: '2022-08-05T05:13:52'
 draft: false
 images:
 - /images/covers/emperor-fire_&_demise.jpg
@@ -22,3 +22,4 @@ title: Emperor - Fire & Demise
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=24728&sort=pd.name&order=ASC) for $270.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=24956&sort=pd.name&order=ASC) for $270.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=25569&sort=pd.name&order=ASC) for $270.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=26053&sort=pd.name&order=ASC) for $270.00

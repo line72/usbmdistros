@@ -4,7 +4,7 @@ album: Hostis Universi Generis
 artist: A.M.S.G.
 categories:
 - CD
-date: '2021-06-26T15:03:07'
+date: '2022-08-05T05:01:24'
 draft: false
 images:
 - /images/covers/a.m.s.g.-hostis_universi_generis.jpg
