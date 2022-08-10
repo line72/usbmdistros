@@ -36,7 +36,7 @@ class StoVoKor(Parser):
 
     def parseItem(self, db, entry):
         pId = entry['id']
-        artist, title = entry['title'].split(sep = '-', maxsplit = 1)
+        artist, title = entry['title'].split(sep = ' - ', maxsplit = 1)
         artist = artist.strip()
         title = self.split_album_type(title)
         item_type = self.parse_item_type(entry)
