@@ -7,9 +7,9 @@ categories:
 date: '2022-08-10T14:10:39'
 draft: false
 images:
-- /images/covers/moonblood-dusk_woerot_-_taste_our_german_steel.png
+- /images/covers/moonblood-dusk_woerot_-_taste_our_german_steel.jpg
 inStock: true
-thumbnailImage: /images/covers/moonblood-dusk_woerot_-_taste_our_german_steel-thumb.png
+thumbnailImage: /images/covers/moonblood-dusk_woerot_-_taste_our_german_steel-thumb.jpg
 title: Moonblood - Dusk Woerot / Taste Our German Steel
 ---
 

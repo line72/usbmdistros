@@ -7,9 +7,9 @@ categories:
 date: '2022-08-10T13:48:29'
 draft: false
 images:
-- /images/covers/bone_awl-lindow_man.png
+- /images/covers/bone_awl-lindow_man.jpg
 inStock: true
-thumbnailImage: /images/covers/bone_awl-lindow_man-thumb.png
+thumbnailImage: /images/covers/bone_awl-lindow_man-thumb.jpg
 title: Bone Awl - Lindow Man
 ---
 

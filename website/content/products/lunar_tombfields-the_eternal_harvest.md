@@ -7,9 +7,9 @@ categories:
 date: '2022-08-10T13:37:54'
 draft: false
 images:
-- /images/covers/lunar_tombfields-the_eternal_harvest.png
+- /images/covers/lunar_tombfields-the_eternal_harvest.jpg
 inStock: true
-thumbnailImage: /images/covers/lunar_tombfields-the_eternal_harvest-thumb.png
+thumbnailImage: /images/covers/lunar_tombfields-the_eternal_harvest-thumb.jpg
 title: Lunar Tombfields - The Eternal Harvest
 ---
 

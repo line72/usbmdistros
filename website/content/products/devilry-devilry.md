@@ -7,9 +7,9 @@ categories:
 date: '2022-08-10T13:48:34'
 draft: false
 images:
-- /images/covers/devilry-devilry.png
+- /images/covers/devilry-devilry.jpg
 inStock: true
-thumbnailImage: /images/covers/devilry-devilry-thumb.png
+thumbnailImage: /images/covers/devilry-devilry-thumb.jpg
 title: Devilry - Devilry
 ---
 

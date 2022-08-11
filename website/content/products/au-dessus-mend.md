@@ -7,9 +7,9 @@ categories:
 date: '2022-08-10T13:37:54'
 draft: false
 images:
-- /images/covers/au-dessus-mend.png
+- /images/covers/au-dessus-mend.jpg
 inStock: true
-thumbnailImage: /images/covers/au-dessus-mend-thumb.png
+thumbnailImage: /images/covers/au-dessus-mend-thumb.jpg
 title: Au-Dessus - Mend
 ---
 

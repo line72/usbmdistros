@@ -8,9 +8,9 @@ categories:
 date: '2022-08-10T13:52:15'
 draft: false
 images:
-- /images/covers/tormentador-morte_negra.png
+- /images/covers/tormentador-morte_negra.jpg
 inStock: true
-thumbnailImage: /images/covers/tormentador-morte_negra-thumb.png
+thumbnailImage: /images/covers/tormentador-morte_negra-thumb.jpg
 title: Tormentador - Morte Negra
 ---
 

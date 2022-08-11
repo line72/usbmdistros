@@ -7,9 +7,9 @@ categories:
 date: '2022-08-10T13:38:14'
 draft: false
 images:
-- /images/covers/funeral_fullmoon-under_the_fullmoon_night.png
+- /images/covers/funeral_fullmoon-under_the_fullmoon_night.jpg
 inStock: true
-thumbnailImage: /images/covers/funeral_fullmoon-under_the_fullmoon_night-thumb.png
+thumbnailImage: /images/covers/funeral_fullmoon-under_the_fullmoon_night-thumb.jpg
 title: Funeral Fullmoon - Under the Fullmoon Night
 ---
 

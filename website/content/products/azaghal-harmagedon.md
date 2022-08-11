@@ -7,9 +7,9 @@ categories:
 date: '2022-08-10T13:48:27'
 draft: false
 images:
-- /images/covers/azaghal-harmagedon.png
+- /images/covers/azaghal-harmagedon.jpg
 inStock: true
-thumbnailImage: /images/covers/azaghal-harmagedon-thumb.png
+thumbnailImage: /images/covers/azaghal-harmagedon-thumb.jpg
 title: Azaghal - Harmagedon
 ---
 

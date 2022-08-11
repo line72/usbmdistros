@@ -4,7 +4,7 @@ album: He Who Whispers Across All Dimensions
 artist: Shapeless
 categories:
 - Vinyl
-date: '2022-08-10T13:38:14'
+date: '2022-08-11T05:00:41'
 draft: false
 images:
 - /images/covers/shapeless-he_who_whispers_across_all_dimensions.png

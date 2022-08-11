@@ -7,9 +7,9 @@ categories:
 date: '2022-08-10T13:37:54'
 draft: false
 images:
-- /images/covers/hyrgal-hyrgal.png
+- /images/covers/hyrgal-hyrgal.jpg
 inStock: true
-thumbnailImage: /images/covers/hyrgal-hyrgal-thumb.png
+thumbnailImage: /images/covers/hyrgal-hyrgal-thumb.jpg
 title: Hyrgal - Hyrgal
 ---
 

@@ -7,9 +7,9 @@ categories:
 date: '2022-08-10T13:37:54'
 draft: false
 images:
-- "/images/covers/cepheide-les_echapp\xE9es.png"
+- "/images/covers/cepheide-les_echapp\xE9es.jpg"
 inStock: true
-thumbnailImage: "/images/covers/cepheide-les_echapp\xE9es-thumb.png"
+thumbnailImage: "/images/covers/cepheide-les_echapp\xE9es-thumb.jpg"
 title: "Cepheide - Les Echapp\xE9es"
 ---
 

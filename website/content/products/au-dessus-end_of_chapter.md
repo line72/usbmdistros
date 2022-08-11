@@ -7,9 +7,9 @@ categories:
 date: '2022-08-10T13:37:58'
 draft: false
 images:
-- /images/covers/au-dessus-end_of_chapter.png
+- /images/covers/au-dessus-end_of_chapter.jpg
 inStock: true
-thumbnailImage: /images/covers/au-dessus-end_of_chapter-thumb.png
+thumbnailImage: /images/covers/au-dessus-end_of_chapter-thumb.jpg
 title: Au-Dessus - End of chapter
 ---
 

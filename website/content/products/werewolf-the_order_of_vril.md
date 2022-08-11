@@ -7,9 +7,9 @@ categories:
 date: '2022-08-10T14:10:39'
 draft: false
 images:
-- /images/covers/werewolf-the_order_of_vril.png
+- /images/covers/werewolf-the_order_of_vril.jpg
 inStock: true
-thumbnailImage: /images/covers/werewolf-the_order_of_vril-thumb.png
+thumbnailImage: /images/covers/werewolf-the_order_of_vril-thumb.jpg
 title: Werewolf - The Order of Vril
 ---
 

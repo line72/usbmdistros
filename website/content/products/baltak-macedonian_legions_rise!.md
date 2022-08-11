@@ -7,9 +7,9 @@ categories:
 date: '2022-08-10T13:48:27'
 draft: false
 images:
-- /images/covers/baltak-macedonian_legions_rise!.png
+- /images/covers/baltak-macedonian_legions_rise!.jpg
 inStock: true
-thumbnailImage: /images/covers/baltak-macedonian_legions_rise!-thumb.png
+thumbnailImage: /images/covers/baltak-macedonian_legions_rise!-thumb.jpg
 title: Baltak - Macedonian Legions Rise!
 ---
 

@@ -7,9 +7,9 @@ categories:
 date: '2022-08-10T13:37:58'
 draft: false
 images:
-- /images/covers/au-dessus-au-dessus.png
+- /images/covers/au-dessus-au-dessus.jpg
 inStock: true
-thumbnailImage: /images/covers/au-dessus-au-dessus-thumb.png
+thumbnailImage: /images/covers/au-dessus-au-dessus-thumb.jpg
 title: Au-Dessus - Au-Dessus
 ---
 

@@ -7,9 +7,9 @@ categories:
 date: '2022-08-10T13:37:54'
 draft: false
 images:
-- /images/covers/wesenwille-i:_wesenwille_&_live_at_roadburn.png
+- /images/covers/wesenwille-i:_wesenwille_&_live_at_roadburn.jpg
 inStock: true
-thumbnailImage: /images/covers/wesenwille-i:_wesenwille_&_live_at_roadburn-thumb.png
+thumbnailImage: /images/covers/wesenwille-i:_wesenwille_&_live_at_roadburn-thumb.jpg
 title: 'Wesenwille - I: Wesenwille & Live at Roadburn'
 ---
 

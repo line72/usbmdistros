@@ -7,9 +7,9 @@ categories:
 date: '2022-08-10T13:37:54'
 draft: false
 images:
-- /images/covers/miasmes-vermines.png
+- /images/covers/miasmes-vermines.jpg
 inStock: true
-thumbnailImage: /images/covers/miasmes-vermines-thumb.png
+thumbnailImage: /images/covers/miasmes-vermines-thumb.jpg
 title: Miasmes - Vermines
 ---
 

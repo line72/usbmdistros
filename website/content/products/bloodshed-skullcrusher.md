@@ -7,9 +7,9 @@ categories:
 date: '2022-08-10T13:48:28'
 draft: false
 images:
-- /images/covers/bloodshed-skullcrusher.png
+- /images/covers/bloodshed-skullcrusher.jpg
 inStock: true
-thumbnailImage: /images/covers/bloodshed-skullcrusher-thumb.png
+thumbnailImage: /images/covers/bloodshed-skullcrusher-thumb.jpg
 title: Bloodshed - Skullcrusher
 ---
 

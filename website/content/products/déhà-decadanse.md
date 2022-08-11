@@ -7,9 +7,9 @@ categories:
 date: '2022-08-10T13:37:54'
 draft: false
 images:
-- "/images/covers/d\xE9h\xE0-decadanse.png"
+- "/images/covers/d\xE9h\xE0-decadanse.jpg"
 inStock: true
-thumbnailImage: "/images/covers/d\xE9h\xE0-decadanse-thumb.png"
+thumbnailImage: "/images/covers/d\xE9h\xE0-decadanse-thumb.jpg"
 title: "D\xE9h\xE0 - Decadanse"
 ---
 

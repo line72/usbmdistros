@@ -7,9 +7,9 @@ categories:
 date: '2022-08-10T13:48:34'
 draft: false
 images:
-- /images/covers/diaboli-descent_into_hell.png
+- /images/covers/diaboli-descent_into_hell.jpg
 inStock: true
-thumbnailImage: /images/covers/diaboli-descent_into_hell-thumb.png
+thumbnailImage: /images/covers/diaboli-descent_into_hell-thumb.jpg
 title: Diaboli - Descent Into Hell
 ---
 

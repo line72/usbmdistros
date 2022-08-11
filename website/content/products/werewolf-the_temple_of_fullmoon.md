@@ -7,9 +7,9 @@ categories:
 date: '2022-08-10T14:10:39'
 draft: false
 images:
-- /images/covers/werewolf-the_temple_of_fullmoon.png
+- /images/covers/werewolf-the_temple_of_fullmoon.jpg
 inStock: true
-thumbnailImage: /images/covers/werewolf-the_temple_of_fullmoon-thumb.png
+thumbnailImage: /images/covers/werewolf-the_temple_of_fullmoon-thumb.jpg
 title: Werewolf - The Temple of Fullmoon
 ---
 
