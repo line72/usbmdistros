@@ -5,7 +5,7 @@ artist: Void Prayer
 categories:
 - Vinyl
 - Cassette
-date: '2021-11-30T13:35:57'
+date: '2022-08-12T05:15:03'
 draft: false
 images:
 - /images/covers/void_prayer-the_grandiose_return_to_the_void.jpg
@@ -19,3 +19,4 @@ title: Void Prayer - The Grandiose Return to the Void
 ## Cassette
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=10144&sort=pd.name&order=ASC) for $10.00
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/void-prayer-the-grandiose-return-to-the-void-tape) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=26426&sort=pd.name&order=ASC) for $10.00

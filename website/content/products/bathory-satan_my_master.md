@@ -6,7 +6,7 @@ categories:
 - Vinyl
 - Cassette
 - CD
-date: '2022-06-01T05:12:26'
+date: '2022-08-12T05:13:58'
 draft: false
 images:
 - /images/covers/bathory-satan_my_master.jpg
@@ -28,5 +28,6 @@ title: Bathory - Satan My Master
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=23154&sort=pd.name&order=ASC) for $15.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=23728&sort=pd.name&order=ASC) for $15.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=24044&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=26372&sort=pd.name&order=ASC) for $15.00
 ## CD
 * Purchase from [CW Productions](https://shop.cwproductions.net/products/bathory-satan-my-master-cd) for $13.00

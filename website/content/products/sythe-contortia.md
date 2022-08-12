@@ -4,7 +4,7 @@ album: Contortia
 artist: Sythe
 categories:
 - Cassette
-date: '2021-11-30T13:35:56'
+date: '2022-08-12T05:14:53'
 draft: false
 images:
 - /images/covers/sythe-contortia.png
@@ -15,3 +15,4 @@ title: Sythe - Contortia
 
 ## Cassette
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=5188&sort=pd.name&order=ASC) for $7.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=26451&sort=pd.name&order=ASC) for $7.00

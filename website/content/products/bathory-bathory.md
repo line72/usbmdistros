@@ -5,7 +5,7 @@ artist: Bathory
 categories:
 - Vinyl
 - Cassette
-date: '2022-08-02T13:15:49'
+date: '2022-08-12T05:13:58'
 draft: false
 images:
 - /images/covers/bathory-bathory.jpg
@@ -41,3 +41,6 @@ title: Bathory - Bathory
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=24049&sort=pd.name&order=ASC) for $15.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=24056&sort=pd.name&order=ASC) for $15.00
 * Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/bathory-bathory-cassette/) for $13.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=26364&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=26365&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=26366&sort=pd.name&order=ASC) for $15.00

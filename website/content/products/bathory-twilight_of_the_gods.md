@@ -6,7 +6,7 @@ categories:
 - Vinyl
 - Cassette
 - CD
-date: '2022-06-17T05:08:43'
+date: '2022-08-12T05:13:59'
 draft: false
 images:
 - /images/covers/bathory-twilight_of_the_gods.jpg
@@ -30,5 +30,6 @@ title: Bathory - Twilight Of The Gods
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=23156&sort=pd.name&order=ASC) for $15.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=23729&sort=pd.name&order=ASC) for $15.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=24041&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=26375&sort=pd.name&order=ASC) for $15.00
 ## CD
 * Purchase from [CW Productions](https://shop.cwproductions.net/products/bathory-twilight-of-the-gods-cd) for $14.00

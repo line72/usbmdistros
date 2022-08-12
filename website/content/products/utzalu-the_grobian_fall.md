@@ -4,7 +4,7 @@ album: The Grobian Fall
 artist: Utzalu
 categories:
 - CD
-date: '2022-08-10T13:50:59'
+date: '2022-08-12T05:13:38'
 draft: false
 images:
 - /images/covers/utzalu-the_grobian_fall.jpg
@@ -15,3 +15,4 @@ title: Utzalu - The Grobian Fall
 
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=26137&sort=pd.name&order=ASC) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=26403&sort=pd.name&order=ASC) for $10.00
