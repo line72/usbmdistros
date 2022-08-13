@@ -4,7 +4,7 @@ album: Rotting In The Aftermath
 artist: Begrime Exemious
 categories:
 - Vinyl
-date: '2022-08-03T05:17:07'
+date: '2022-08-13T05:17:44'
 draft: false
 images:
 - /images/covers/begrime_exemious-rotting_in_the_aftermath.jpg
@@ -15,4 +15,4 @@ title: Begrime Exemious - Rotting In The Aftermath
 
 ## Vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/begrime-exemious-rotting-in-the-aftermath-lp) for $23.00 :: Black 2022 press vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/begrime-exemious-rotting-in-the-aftermath-lp) for $25.00 :: Color 2022 press vinyl
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/begrime-exemious-rotting-in-the-aftermath-lp) for $25.00 :: Merge 2022 press vinyl
