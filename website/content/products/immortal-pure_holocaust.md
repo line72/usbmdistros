@@ -5,7 +5,7 @@ artist: Immortal
 categories:
 - Vinyl
 - CD
-date: '2022-08-03T05:12:03'
+date: '2022-08-14T05:12:32'
 draft: false
 images:
 - /images/covers/immortal-pure_holocaust.jpg
@@ -27,3 +27,4 @@ title: Immortal - Pure Holocaust
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=18390&sort=pd.name&order=ASC) for $12.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=25009&sort=pd.name&order=ASC) for $12.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=25985&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=26599&sort=pd.name&order=ASC) for $12.00

@@ -1,11 +1,11 @@
 ---
-actualPrice: $7.00 - 20.00
+actualPrice: $7.00 - 25.00
 album: "Drti\u010Di Kac\xED\u0159sk\xFDch Pohlav\xED"
 artist: Satanchist
 categories:
 - Vinyl
 - Cassette
-date: '2021-11-30T13:35:56'
+date: '2022-08-14T05:10:15'
 draft: false
 images:
 - "/images/covers/satanchist-drti\u010Di_kac\xED\u0159sk\xFDch_pohlav\xED.png"
@@ -17,6 +17,8 @@ title: "Satanchist - Drti\u010Di Kac\xED\u0159sk\xFDch Pohlav\xED"
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=16697&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=26545&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=26546&sort=pd.name&order=ASC) for $25.00
 ## Cassette
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=13601&sort=pd.name&order=ASC) for $8.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=16696&sort=pd.name&order=ASC) for $8.00

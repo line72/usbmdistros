@@ -5,7 +5,7 @@ artist: Samael
 categories:
 - Vinyl
 - CD
-date: '2022-08-03T05:12:45'
+date: '2022-08-14T05:13:16'
 draft: false
 images:
 - /images/covers/samael-blood_ritual.jpg
@@ -27,3 +27,4 @@ title: Samael - Blood Ritual
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=20904&sort=pd.name&order=ASC) for $15.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=21453&sort=pd.name&order=ASC) for $15.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=25987&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=26570&sort=pd.name&order=ASC) for $15.00

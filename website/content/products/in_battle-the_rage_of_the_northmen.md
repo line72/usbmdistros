@@ -4,7 +4,7 @@ album: The Rage Of The Northmen
 artist: In Battle
 categories:
 - Vinyl
-date: '2022-07-14T05:08:42'
+date: '2022-08-14T05:09:27'
 draft: false
 images:
 - /images/covers/in_battle-the_rage_of_the_northmen.jpg
@@ -19,3 +19,4 @@ title: In Battle - The Rage Of The Northmen
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=22160&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=24393&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=25400&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=26584&sort=pd.name&order=ASC) for $25.00

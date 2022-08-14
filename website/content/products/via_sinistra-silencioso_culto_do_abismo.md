@@ -5,7 +5,7 @@ artist: Via Sinistra
 categories:
 - Vinyl
 - CD
-date: '2021-11-30T13:35:29'
+date: '2022-08-14T05:10:41'
 draft: false
 images:
 - /images/covers/via_sinistra-silencioso_culto_do_abismo.jpg
@@ -17,6 +17,7 @@ title: Via Sinistra - Silencioso Culto do Abismo
 ## Vinyl
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/via-sinistra-silencioso-culto-do-abismo-12-lp) for $26.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=11735&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=26627&sort=pd.name&order=ASC) for $25.00
 ## CD
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/via-sinistra-silencioso-culto-do-abismo-cd) for $13.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=15897&sort=pd.name&order=ASC) for $10.00

@@ -5,7 +5,7 @@ artist: Immortal
 categories:
 - Vinyl
 - CD
-date: '2022-08-03T05:12:03'
+date: '2022-08-14T05:12:31'
 draft: false
 images:
 - /images/covers/immortal-battles_in_the_north.png
@@ -27,3 +27,4 @@ title: Immortal - Battles In The North
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=23054&sort=pd.name&order=ASC) for $12.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=25008&sort=pd.name&order=ASC) for $12.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=25981&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=26658&sort=pd.name&order=ASC) for $12.00
