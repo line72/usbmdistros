@@ -4,7 +4,7 @@ album: Knights from Hell
 artist: Vassago
 categories:
 - Vinyl
-date: '2022-07-28T05:09:58'
+date: '2022-08-17T05:11:18'
 draft: false
 images:
 - /images/covers/vassago-knights_from_hell.jpg
@@ -17,3 +17,4 @@ title: Vassago - Knights from Hell
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=11297&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=15976&sort=pd.name&order=ASC) for $20.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=23545&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=26772&sort=pd.name&order=ASC) for $20.00

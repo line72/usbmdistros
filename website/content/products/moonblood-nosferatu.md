@@ -5,7 +5,7 @@ artist: Moonblood
 categories:
 - Vinyl
 - CD
-date: '2022-07-17T05:00:35'
+date: '2022-08-17T05:13:32'
 draft: false
 images:
 - /images/covers/moonblood-nosferatu.jpg
@@ -27,3 +27,4 @@ title: Moonblood - Nosferatu
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=18346&sort=pd.name&order=ASC) for $12.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=20699&sort=pd.name&order=ASC) for $15.00
 * Purchase from [CW Productions](https://shop.cwproductions.net/products/moonblood-nosferatu-cd-1) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=26786&sort=pd.name&order=ASC) for $15.00

@@ -4,7 +4,7 @@ album: Shining Nagas Territory
 artist: Brulvahnatu
 categories:
 - Vinyl
-date: '2022-03-06T06:07:13'
+date: '2022-08-17T05:09:20'
 draft: false
 images:
 - /images/covers/brulvahnatu-shining_nagas_territory.jpg
@@ -19,3 +19,4 @@ title: Brulvahnatu - Shining Nagas Territory
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=18777&sort=pd.name&order=ASC) for $52.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=19676&sort=pd.name&order=ASC) for $65.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=21308&sort=pd.name&order=ASC) for $65.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=26810&sort=pd.name&order=ASC) for $60.00

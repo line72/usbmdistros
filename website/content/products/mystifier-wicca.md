@@ -5,7 +5,7 @@ artist: Mystifier
 categories:
 - Vinyl
 - CD
-date: '2021-12-22T06:07:24'
+date: '2022-08-17T05:13:36'
 draft: false
 images:
 - /images/covers/mystifier-wicca.jpg
@@ -19,3 +19,4 @@ title: Mystifier - Wicca
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=19835&sort=pd.name&order=ASC) for $30.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=15235&sort=pd.name&order=ASC) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=26820&sort=pd.name&order=ASC) for $10.00

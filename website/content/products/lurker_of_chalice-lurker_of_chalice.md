@@ -5,7 +5,7 @@ artist: Lurker Of Chalice
 categories:
 - Vinyl
 - CD
-date: '2022-07-28T05:09:04'
+date: '2022-08-17T05:10:15'
 draft: false
 images:
 - /images/covers/lurker_of_chalice-lurker_of_chalice.jpg
@@ -17,5 +17,6 @@ title: Lurker Of Chalice - Lurker of Chalice
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=16342&sort=pd.name&order=ASC) for $30.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=24305&sort=pd.name&order=ASC) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=26832&sort=pd.name&order=ASC) for $30.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=3441&sort=pd.name&order=ASC) for $9.00

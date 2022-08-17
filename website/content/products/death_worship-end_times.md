@@ -6,7 +6,7 @@ categories:
 - Vinyl
 - Cassette
 - CD
-date: '2022-07-28T05:12:57'
+date: '2022-08-17T05:12:41'
 draft: false
 images:
 - /images/covers/death_worship-end_times.jpg
@@ -23,3 +23,4 @@ title: Death Worship - End Times
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=19734&sort=pd.name&order=ASC) for $9.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=5822&sort=pd.name&order=ASC) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=26818&sort=pd.name&order=ASC) for $10.00
