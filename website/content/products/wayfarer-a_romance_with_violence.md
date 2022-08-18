@@ -1,10 +1,11 @@
 ---
-actualPrice: $22.00 - 29.00
+actualPrice: $15.00 - 29.00
 album: A Romance With Violence
 artist: Wayfarer
 categories:
 - Vinyl
-date: '2021-12-11T06:10:50'
+- CD
+date: '2022-08-18T05:20:32'
 draft: false
 images:
 - /images/covers/wayfarer-a_romance_with_violence.jpg
@@ -19,5 +20,7 @@ title: Wayfarer - A Romance With Violence
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/wayfarer-a-romance-with-violence-profound-lore) for $29.00 :: Red w/ Black Spinner 2nd press vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/wayfarer-a-romance-with-violence-profound-lore) for $22.00 :: Black 1st press vinyl (SOLD OUT)
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/wayfarer-a-romance-with-violence-profound-lore) for $29.00 :: Gold 1st press vinyl (SOLD OUT)
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/wayfarer-a-romance-with-violence-lp) for $25.00 :: Red w/ Gold Galaxy 2nd press vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/wayfarer-a-romance-with-violence-lp) for $25.00 :: Clear w/ Splatter 2nd press vinyl
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/wayfarer-a-romance-with-violence-lp) for $23.00 :: Red w/ Gold Galaxy 2nd press vinyl
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/wayfarer-a-romance-with-violence-lp) for $23.00 :: Clear w/ Splatter 2nd press vinyl
+## CD
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/wayfarer-a-romance-with-violence-cd) for $15.00 :: CD 2020

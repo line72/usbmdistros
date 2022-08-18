@@ -1,10 +1,11 @@
 ---
-actualPrice: $20.00 - 25.00
+actualPrice: $14.00 - 25.00
 album: De Oproeping Van Middeleeuwse Duisternis
 artist: Hulder
 categories:
 - Vinyl
-date: '2021-11-30T13:35:20'
+- CD
+date: '2022-08-18T05:18:29'
 draft: false
 images:
 - /images/covers/hulder-de_oproeping_van_middeleeuwse_duisternis.png
@@ -20,3 +21,5 @@ title: Hulder - De Oproeping Van Middeleeuwse Duisternis
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=17999&sort=pd.name&order=ASC) for $20.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=18898&sort=pd.name&order=ASC) for $20.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=19230&sort=pd.name&order=ASC) for $20.00
+## CD
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/hulder-de-oproeping-van-middeleeuwse-duisternis-cd) for $14.00 :: CD 2022
