@@ -1,10 +1,10 @@
 ---
-actualPrice: $10.00
+actualPrice: $10.00 - 12.00
 album: Apocalyptic Raids A.D
 artist: Hellhammer
 categories:
 - CD
-date: '2021-11-30T13:35:40'
+date: '2022-08-20T05:12:38'
 draft: false
 images:
 - /images/covers/hellhammer-apocalyptic_raids_a.d.jpg
@@ -15,3 +15,4 @@ title: Hellhammer - Apocalyptic Raids A.D
 
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=13674&sort=pd.name&order=ASC) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=26939&sort=pd.name&order=ASC) for $12.00

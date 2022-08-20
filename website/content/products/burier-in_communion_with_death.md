@@ -4,7 +4,7 @@ album: In Communion With Death
 artist: Burier
 categories:
 - CD
-date: '2021-11-30T13:35:35'
+date: '2022-08-20T05:12:00'
 draft: false
 images:
 - /images/covers/burier-in_communion_with_death.jpg
@@ -16,3 +16,4 @@ title: Burier - In Communion With Death
 ## CD
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/burier-in-communion-with-death-cd) for $15.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=14471&sort=pd.name&order=ASC) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=26975&sort=pd.name&order=ASC) for $10.00

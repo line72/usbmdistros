@@ -1,10 +1,10 @@
 ---
-actualPrice: $15.00
+actualPrice: $13.00
 album: Werwolfthron
 artist: Absurd
 categories:
 - Cassette
-date: '2022-08-18T05:16:14'
+date: '2022-08-20T05:15:51'
 draft: false
 images:
 - /images/covers/absurd-werwolfthron.jpg
@@ -14,4 +14,4 @@ title: Absurd - Werwolfthron
 ---
 
 ## Cassette
-* Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/absurd-werwolfthron-cassette/) for $15.00
+* Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/absurd-werwolfthron-cassette/) for $13.00

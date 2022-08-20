@@ -4,7 +4,7 @@ album: Summoning the Night
 artist: Black Cilice
 categories:
 - Vinyl
-date: '2022-08-10T13:38:14'
+date: '2022-08-20T05:00:39'
 draft: false
 images:
 - /images/covers/black_cilice-summoning_the_night.jpg

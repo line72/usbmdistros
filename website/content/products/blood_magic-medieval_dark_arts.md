@@ -4,7 +4,7 @@ album: Medieval Dark Arts
 artist: Blood Magic
 categories:
 - Vinyl
-date: '2022-07-15T05:24:46'
+date: '2022-08-19T05:08:50'
 draft: false
 images:
 - /images/covers/blood_magic-medieval_dark_arts.jpg
@@ -19,3 +19,4 @@ title: Blood Magic - Medieval Dark Arts
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=24653&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=25032&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=25413&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=26898&sort=pd.name&order=ASC) for $25.00

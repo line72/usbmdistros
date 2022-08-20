@@ -5,7 +5,7 @@ artist: Burier
 categories:
 - Cassette
 - CD
-date: '2022-05-03T05:10:09'
+date: '2022-08-20T05:12:00'
 draft: false
 images:
 - /images/covers/burier-cremation_of_lingering_hope.jpg
@@ -18,3 +18,4 @@ title: Burier - Cremation Of Lingering Hope
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=20801&sort=pd.name&order=ASC) for $15.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=22947&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=26972&sort=pd.name&order=ASC) for $12.00

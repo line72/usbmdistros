@@ -5,7 +5,7 @@ artist: Pest
 categories:
 - Vinyl
 - CD
-date: '2022-08-10T13:50:30'
+date: '2022-08-19T05:13:12'
 draft: false
 images:
 - /images/covers/pest-buried.jpg
@@ -20,3 +20,4 @@ title: Pest - Buried
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=21652&sort=pd.name&order=ASC) for $12.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=25393&sort=pd.name&order=ASC) for $12.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=26075&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=26870&sort=pd.name&order=ASC) for $12.00

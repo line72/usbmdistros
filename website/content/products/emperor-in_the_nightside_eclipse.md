@@ -4,7 +4,7 @@ album: In The Nightside Eclipse
 artist: Emperor
 categories:
 - Vinyl
-date: '2022-08-05T05:09:05'
+date: '2022-08-19T05:09:13'
 draft: false
 images:
 - /images/covers/emperor-in_the_nightside_eclipse.png
@@ -18,3 +18,4 @@ title: Emperor - In The Nightside Eclipse
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=17867&sort=pd.name&order=ASC) for $35.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=26019&sort=pd.name&order=ASC) for $30.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=26048&sort=pd.name&order=ASC) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=26886&sort=pd.name&order=ASC) for $30.00

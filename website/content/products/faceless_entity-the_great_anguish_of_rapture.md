@@ -6,7 +6,7 @@ categories:
 - Vinyl
 - Cassette
 - CD
-date: '2022-08-04T05:01:10'
+date: '2022-08-19T05:00:37'
 draft: false
 images:
 - /images/covers/faceless_entity-the_great_anguish_of_rapture.jpg

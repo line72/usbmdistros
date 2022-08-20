@@ -4,7 +4,7 @@ album: Suicide
 artist: Flauros
 categories:
 - Vinyl
-date: '2022-08-02T13:11:36'
+date: '2022-08-19T05:11:12'
 draft: false
 images:
 - /images/covers/flauros-suicide.png
@@ -15,3 +15,4 @@ title: Flauros - Suicide
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=25946&sort=pd.name&order=ASC) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=26917&sort=pd.name&order=ASC) for $10.00

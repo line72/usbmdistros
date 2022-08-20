@@ -1,10 +1,11 @@
 ---
-actualPrice: $24.00
+actualPrice: $8.00 - 24.00
 album: And Ravens Sing Our Glorious Past
 artist: Ravenbanner
 categories:
 - Vinyl
-date: '2021-09-26T05:08:54'
+- Cassette
+date: '2022-08-20T05:15:51'
 draft: false
 images:
 - /images/covers/ravenbanner-and_ravens_sing_our_glorious_past.jpg
@@ -15,3 +16,5 @@ title: Ravenbanner - And Ravens Sing Our Glorious Past
 
 ## Vinyl
 * Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/ravenbanner-and-ravens-sing-our-glorious-past-12-lp/) for $24.00
+## Cassette
+* Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/ravenbanner-and-ravens-sing-our-glorious-past-cassette/) for $8.00

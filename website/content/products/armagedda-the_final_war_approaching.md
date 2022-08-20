@@ -5,7 +5,7 @@ artist: Armagedda
 categories:
 - Vinyl
 - CD
-date: '2022-03-13T06:07:07'
+date: '2022-08-20T05:08:39'
 draft: false
 images:
 - /images/covers/armagedda-the_final_war_approaching.jpg
@@ -18,6 +18,7 @@ title: Armagedda - The Final War Approaching
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=20564&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=20835&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=21493&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=26963&sort=pd.name&order=ASC) for $25.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=9552&sort=pd.name&order=ASC) for $12.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=10412&sort=pd.name&order=ASC) for $10.00
