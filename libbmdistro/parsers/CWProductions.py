@@ -82,6 +82,8 @@ class CWProductions(Parser):
             return ('Vinyl', match.group(1).strip())
         elif (match := re.match(re.compile(r'^LP\s+\+\s+\d+"\s+\((.*?)\)\s*$'), s)) != None:
             return ('Vinyl', match.group(1).strip())
+        elif (match := re.match(re.compile(r'^tape\s+\((.*?)\)\s*$'), s)) != None:
+            return ('Cassette', match.group(1).strip())
         elif (match := re.match(re.compile(r'^\(.*?\)\s+(.*?)\s*$'), s)) != None:
             # some goofy ones have an extra translations in () before the actual type,
             # strip it out and recurse.
