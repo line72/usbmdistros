@@ -4,7 +4,7 @@ album: Alive In Sappolo
 artist: Abigail
 categories:
 - Vinyl
-date: '2022-08-14T05:08:23'
+date: '2022-08-25T05:08:52'
 draft: false
 images:
 - /images/covers/abigail-alive_in_sappolo.jpg
@@ -16,3 +16,4 @@ title: Abigail - Alive In Sappolo
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=26528&sort=pd.name&order=ASC) for $100.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=26527&sort=pd.name&order=ASC) for $300.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=27050&sort=pd.name&order=ASC) for $100.00

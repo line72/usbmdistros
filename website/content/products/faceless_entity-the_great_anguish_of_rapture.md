@@ -6,7 +6,7 @@ categories:
 - Vinyl
 - Cassette
 - CD
-date: '2022-08-19T05:00:37'
+date: '2022-08-31T18:34:03'
 draft: false
 images:
 - /images/covers/faceless_entity-the_great_anguish_of_rapture.jpg
@@ -16,6 +16,7 @@ title: Faceless Entity - The Great Anguish of Rapture
 ---
 
 ## Vinyl
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/faceless-entity-the-great-anguish-of-rapture-12-lp) for $25.00
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/faceless-entity-the-great-anguish-of-rapture-12-lp) for $25.00
 ## Cassette
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/faceless-entity-the-great-anguish-of-rapture-tape) for $10.00

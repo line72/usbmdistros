@@ -4,7 +4,7 @@ album: Demo I
 artist: Aurae Lunae
 categories:
 - Cassette
-date: '2022-08-13T05:00:58'
+date: '2022-08-31T18:34:32'
 draft: false
 images:
 - /images/covers/aurae_lunae-demo_i.jpg

@@ -4,7 +4,7 @@ album: Trolskust
 artist: Fafner
 categories:
 - Vinyl
-date: '2022-08-14T05:09:09'
+date: '2022-08-25T05:09:40'
 draft: false
 images:
 - /images/covers/fafner-trolskust.png
@@ -17,3 +17,4 @@ title: Fafner - Trolskust
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=25254&sort=pd.name&order=ASC) for $30.00
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/fafner-trolskust-12-lp) for $29.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=26653&sort=pd.name&order=ASC) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=27123&sort=pd.name&order=ASC) for $30.00

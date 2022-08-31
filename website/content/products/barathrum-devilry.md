@@ -4,7 +4,7 @@ album: Devilry
 artist: Barathrum
 categories:
 - CD
-date: '2022-07-13T05:10:52'
+date: '2022-08-25T05:12:15'
 draft: false
 images:
 - /images/covers/barathrum-devilry.jpg
@@ -21,3 +21,4 @@ title: Barathrum - Devilry
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=24534&sort=pd.name&order=ASC) for $12.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=24915&sort=pd.name&order=ASC) for $12.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=25318&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=27082&sort=pd.name&order=ASC) for $12.00

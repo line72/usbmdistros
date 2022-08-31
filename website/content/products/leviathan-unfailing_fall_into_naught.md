@@ -4,7 +4,7 @@ album: Unfailing Fall into Naught
 artist: Leviathan
 categories:
 - Vinyl
-date: '2022-07-25T05:26:15'
+date: '2022-08-27T05:10:32'
 draft: false
 images:
 - /images/covers/leviathan-unfailing_fall_into_naught.jpg
@@ -25,3 +25,5 @@ title: Leviathan - Unfailing Fall into Naught
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=25331&sort=pd.name&order=ASC) for $30.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=25506&sort=pd.name&order=ASC) for $30.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=25654&sort=pd.name&order=ASC) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=27009&sort=pd.name&order=ASC) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=27190&sort=pd.name&order=ASC) for $30.00

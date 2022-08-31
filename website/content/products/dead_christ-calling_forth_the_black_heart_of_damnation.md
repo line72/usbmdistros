@@ -4,7 +4,7 @@ album: Calling Forth the Black Heart of Damnation
 artist: Dead Christ
 categories:
 - Vinyl
-date: '2022-08-02T13:09:40'
+date: '2022-08-25T05:09:25'
 draft: false
 images:
 - /images/covers/dead_christ-calling_forth_the_black_heart_of_damnation.jpg
@@ -16,3 +16,4 @@ title: Dead Christ - Calling Forth the Black Heart of Damnation
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=25023&sort=pd.name&order=ASC) for $30.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=25967&sort=pd.name&order=ASC) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=27089&sort=pd.name&order=ASC) for $30.00

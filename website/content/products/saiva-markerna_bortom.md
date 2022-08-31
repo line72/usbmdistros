@@ -5,7 +5,7 @@ artist: Saiva
 categories:
 - Vinyl
 - CD
-date: '2022-08-10T13:47:43'
+date: '2022-08-23T05:11:06'
 draft: false
 images:
 - /images/covers/saiva-markerna_bortom.png
@@ -16,5 +16,6 @@ title: Saiva - Markerna Bortom
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=7659&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=27028&sort=pd.name&order=ASC) for $25.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=8288&sort=pd.name&order=ASC) for $7.00

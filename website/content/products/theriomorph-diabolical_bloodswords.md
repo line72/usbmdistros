@@ -5,7 +5,7 @@ artist: Theriomorph
 categories:
 - Vinyl
 - CD
-date: '2022-06-25T05:12:24'
+date: '2022-08-25T05:11:04'
 draft: false
 images:
 - /images/covers/theriomorph-diabolical_bloodswords.jpg
@@ -18,5 +18,6 @@ title: Theriomorph - Diabolical Bloodswords
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/theriomorph-diabolical-bloodswords-lp) for $29.00 :: Black 1st press vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/theriomorph-diabolical-bloodswords-lp) for $35.00 :: Smoke 1st press vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=24928&sort=pd.name&order=ASC) for $28.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=27104&sort=pd.name&order=ASC) for $28.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=24938&sort=pd.name&order=ASC) for $15.00

@@ -4,7 +4,7 @@ album: Henholdsvis
 artist: Taake / Helheim
 categories:
 - Vinyl
-date: '2022-08-14T05:10:26'
+date: '2022-08-26T05:28:16'
 draft: false
 images:
 - /images/covers/taake_-_helheim-henholdsvis.jpg
@@ -22,3 +22,5 @@ title: Taake / Helheim - Henholdsvis
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=19027&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=19195&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=26634&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=27018&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=27154&sort=pd.name&order=ASC) for $25.00
