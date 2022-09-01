@@ -5,7 +5,7 @@ artist: Armagedda
 categories:
 - Vinyl
 - CD
-date: '2021-11-30T13:35:34'
+date: '2022-09-01T05:09:08'
 draft: false
 images:
 - /images/covers/armagedda-only_true_believers.jpg
@@ -16,5 +16,6 @@ title: Armagedda - Only True Believers
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=17713&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=27290&sort=pd.name&order=ASC) for $25.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=17731&sort=pd.name&order=ASC) for $12.00

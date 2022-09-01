@@ -7,9 +7,9 @@ categories:
 date: '2022-08-14T05:08:26'
 draft: false
 images:
-- /images/covers/aerdryk-met_de_drietand_op_mijn_huid.png
+- /images/covers/aerdryk-met_de_drietand_op_mijn_huid.jpg
 inStock: true
-thumbnailImage: /images/covers/aerdryk-met_de_drietand_op_mijn_huid-thumb.png
+thumbnailImage: /images/covers/aerdryk-met_de_drietand_op_mijn_huid-thumb.jpg
 title: Aerdryk - Met de Drietand op Mijn Huid
 ---
 

@@ -4,7 +4,7 @@ album: Exist!
 artist: TheSyre
 categories:
 - Vinyl
-date: '2021-11-30T13:35:27'
+date: '2022-09-01T05:11:14'
 draft: false
 images:
 - /images/covers/thesyre-exist!.jpg
@@ -15,3 +15,4 @@ title: TheSyre - Exist!
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=10973&sort=pd.name&order=ASC) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=27333&sort=pd.name&order=ASC) for $10.00
