@@ -1,10 +1,10 @@
 ---
-actualPrice: $11.00
+actualPrice: $11.00 - 12.00
 album: Heimliche Acht
 artist: Pure
 categories:
 - Cassette
-date: '2022-01-09T06:15:03'
+date: '2022-09-02T05:15:54'
 draft: false
 images:
 - /images/covers/pure-heimliche_acht.jpg
@@ -15,3 +15,4 @@ title: Pure - Heimliche Acht
 
 ## Cassette
 * Purchase from [CW Productions](https://shop.cwproductions.net/products/pure-heimliche-acht-tape) for $11.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=27372&sort=pd.name&order=ASC) for $12.00
