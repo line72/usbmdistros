@@ -4,7 +4,7 @@ album: Von der Hexe Gesammelte Werke
 artist: Hexenschuss
 categories:
 - Vinyl
-date: '2022-03-05T06:00:30'
+date: '2022-09-04T05:00:44'
 draft: false
 images:
 - /images/covers/hexenschuss-von_der_hexe_gesammelte_werke.jpg
