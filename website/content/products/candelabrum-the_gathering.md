@@ -5,7 +5,7 @@ artist: Candelabrum
 categories:
 - Vinyl
 - CD
-date: '2022-04-13T05:00:32'
+date: '2022-09-05T05:14:40'
 draft: false
 images:
 - /images/covers/candelabrum-the_gathering.jpg
@@ -21,3 +21,4 @@ title: Candelabrum - The Gathering
 ## CD
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/candelabrum-the-gathering-cd) for $13.00
 * Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/candelabrum-the-gathering-cd/) for $11.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=27442&sort=pd.name&order=ASC) for $12.00

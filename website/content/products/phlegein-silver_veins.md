@@ -4,7 +4,7 @@ album: Silver Veins
 artist: Phlegein
 categories:
 - Vinyl
-date: '2022-03-29T05:08:09'
+date: '2022-09-06T05:11:15'
 draft: false
 images:
 - /images/covers/phlegein-silver_veins.jpg
@@ -15,3 +15,4 @@ title: Phlegein - Silver Veins
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=22110&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=27485&sort=pd.name&order=ASC) for $25.00

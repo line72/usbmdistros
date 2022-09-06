@@ -4,7 +4,7 @@ album: Befouled by Flies
 artist: Befouled by Flies
 categories:
 - Vinyl
-date: '2021-11-30T13:35:30'
+date: '2022-09-06T05:12:10'
 draft: false
 images:
 - /images/covers/befouled_by_flies-befouled_by_flies.jpg
@@ -15,3 +15,4 @@ title: Befouled by Flies - Befouled by Flies
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=17646&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=27467&sort=pd.name&order=ASC) for $15.00

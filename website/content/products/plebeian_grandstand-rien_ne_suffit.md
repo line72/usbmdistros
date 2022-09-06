@@ -6,7 +6,7 @@ categories:
 - Vinyl
 - Cassette
 - CD
-date: '2021-12-17T06:12:03'
+date: '2022-09-06T05:21:32'
 draft: false
 images:
 - /images/covers/plebeian_grandstand-rien_ne_suffit.jpg
@@ -21,8 +21,8 @@ title: Plebeian Grandstand - Rien ne suffit
 * Purchase from [Debemur Morti](https://debemurmorti.aisamerch.com/item/102769) for $45.99 :: special edition
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/plebeian-grandstand-rien-ne-suffit-2xlp) for $33.00 :: Purple/Black Galaxy 1st press vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/plebeian-grandstand-rien-ne-suffit-2xlp) for $33.00 :: Purple/Black Merge 1st press vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/plebeian-grandstand-rien-ne-suffit-2xlp-1) for $33.00 :: Purple/Black Galaxy 1st press vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/plebeian-grandstand-rien-ne-suffit-2xlp-1) for $33.00 :: Purple/Black Merge 1st press vinyl
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/plebeian-grandstand-rien-ne-suffit-2xlp-1) for $35.00 :: Purple/Black Galaxy 1st press vinyl
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/plebeian-grandstand-rien-ne-suffit-2xlp-1) for $35.00 :: Purple/Black Merge 1st press vinyl
 ## Cassette
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/plebeian-grandstand-rien-ne-suffit-cassette) for $23.00 :: Cassette Tape 1st press
 ## CD

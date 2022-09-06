@@ -5,7 +5,7 @@ artist: Ebony Pendant
 categories:
 - Vinyl
 - CD
-date: '2022-08-31T18:34:08'
+date: '2022-09-05T05:00:49'
 draft: false
 images:
 - /images/covers/ebony_pendant-incantation_of_eschatological_mysticism.jpg

@@ -1,10 +1,11 @@
 ---
-actualPrice: $45.00
+actualPrice: $12.00 - 45.00
 album: Nordnorsk Svartmetall
 artist: Skaur
 categories:
 - Vinyl
-date: '2022-03-26T05:08:27'
+- CD
+date: '2022-09-05T05:16:34'
 draft: false
 images:
 - /images/covers/skaur-nordnorsk_svartmetall.png
@@ -15,3 +16,5 @@ title: Skaur - Nordnorsk Svartmetall
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=22005&sort=pd.name&order=ASC) for $45.00
+## CD
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=27431&sort=pd.name&order=ASC) for $12.00
