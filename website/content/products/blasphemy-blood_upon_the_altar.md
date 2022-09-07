@@ -4,7 +4,7 @@ album: Blood Upon the Altar
 artist: Blasphemy
 categories:
 - Cassette
-date: '2022-08-03T05:13:28'
+date: '2022-09-07T05:15:11'
 draft: false
 images:
 - /images/covers/blasphemy-blood_upon_the_altar.png
@@ -18,3 +18,4 @@ title: Blasphemy - Blood Upon the Altar
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=21116&sort=pd.name&order=ASC) for $10.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=25480&sort=pd.name&order=ASC) for $10.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=26000&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=27536&sort=pd.name&order=ASC) for $12.00

@@ -1,10 +1,10 @@
 ---
-actualPrice: $20.00 - 30.00
+actualPrice: $20.00 - 40.00
 album: Drawing Down the Moon
 artist: Beherit
 categories:
 - Vinyl
-date: '2022-04-14T05:07:04'
+date: '2022-09-07T05:09:38'
 draft: false
 images:
 - /images/covers/beherit-drawing_down_the_moon.jpg
@@ -18,3 +18,4 @@ title: Beherit - Drawing Down the Moon
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/beherit-drawing-down-the-moon-lp) for $27.00 :: Black 2019 press vinyl
 * Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/beherit-drawing-down-the-moon-12-lp/) for $20.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=22455&sort=pd.name&order=ASC) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=27526&sort=pd.name&order=ASC) for $40.00

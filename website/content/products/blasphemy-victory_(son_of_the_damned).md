@@ -4,7 +4,7 @@ album: Victory (Son of the Damned)
 artist: Blasphemy
 categories:
 - Cassette
-date: '2022-08-03T05:13:28'
+date: '2022-09-07T05:15:11'
 draft: false
 images:
 - /images/covers/blasphemy-victory_(son_of_the_damned).png
@@ -16,3 +16,4 @@ title: Blasphemy - Victory (Son of the Damned)
 ## Cassette
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=15474&sort=pd.name&order=ASC) for $9.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=26005&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=27542&sort=pd.name&order=ASC) for $12.00

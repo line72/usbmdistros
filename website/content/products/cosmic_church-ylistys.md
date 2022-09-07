@@ -4,7 +4,7 @@ album: Ylistys
 artist: Cosmic Church
 categories:
 - Vinyl
-date: '2022-08-12T05:09:02'
+date: '2022-09-07T05:09:52'
 draft: false
 images:
 - /images/covers/cosmic_church-ylistys.jpg
@@ -17,3 +17,4 @@ title: Cosmic Church - Ylistys
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=25443&sort=pd.name&order=ASC) for $30.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=25961&sort=pd.name&order=ASC) for $30.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=26492&sort=pd.name&order=ASC) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=27514&sort=pd.name&order=ASC) for $30.00
