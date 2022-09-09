@@ -5,7 +5,7 @@ artist: Inferno Requiem
 categories:
 - Vinyl
 - Cassette
-date: '2021-12-22T06:07:15'
+date: '2022-09-09T05:19:35'
 draft: false
 images:
 - /images/covers/inferno_requiem-nuwa.jpg
@@ -18,3 +18,4 @@ title: Inferno Requiem - Nuwa
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=19827&sort=pd.name&order=ASC) for $33.00
 ## Cassette
 * Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/inferno-requiem-nuwa-cassette/) for $8.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=27579&sort=pd.name&order=ASC) for $10.00
