@@ -1,10 +1,10 @@
 ---
-actualPrice: $20.00
+actualPrice: $20.00 - 25.00
 album: "F\xEBanturi"
 artist: Myotis Sodalis
 categories:
 - Vinyl
-date: '2022-06-15T05:15:47'
+date: '2022-09-13T05:10:54'
 draft: false
 images:
 - "/images/covers/myotis_sodalis-f\xEBanturi.jpg"
@@ -15,3 +15,4 @@ title: "Myotis Sodalis - F\xEBanturi"
 
 ## Vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/used-myotis-sodalis-feanturi-lp) for $20.00 :: Black 1st press vinyl
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=27680&sort=pd.name&order=ASC) for $25.00

@@ -4,7 +4,7 @@ album: Welcome All Hell Fuckers
 artist: Abigail
 categories:
 - Vinyl
-date: '2022-08-26T05:26:07'
+date: '2022-09-13T05:09:24'
 draft: false
 images:
 - /images/covers/abigail-welcome_all_hell_fuckers.jpg
@@ -20,3 +20,4 @@ title: Abigail - Welcome All Hell Fuckers
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=24468&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=27054&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=27148&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=27683&sort=pd.name&order=ASC) for $25.00

@@ -4,7 +4,8 @@ album: Fallen Angel of Doom....
 artist: Blasphemy
 categories:
 - Cassette
-date: '2022-09-07T05:15:11'
+- CD
+date: '2022-09-13T05:12:57'
 draft: false
 images:
 - /images/covers/blasphemy-fallen_angel_of_doom.....jpg
@@ -19,3 +20,5 @@ title: Blasphemy - Fallen Angel of Doom....
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=26007&sort=pd.name&order=ASC) for $12.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=27538&sort=pd.name&order=ASC) for $12.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=27539&sort=pd.name&order=ASC) for $12.00
+## CD
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=27694&sort=pd.name&order=ASC) for $12.00
