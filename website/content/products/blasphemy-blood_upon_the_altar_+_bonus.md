@@ -4,7 +4,7 @@ album: Blood Upon the Altar + Bonus
 artist: Blasphemy
 categories:
 - CD
-date: '2022-09-13T05:12:57'
+date: '2022-09-14T05:13:24'
 draft: false
 images:
 - /images/covers/blasphemy-blood_upon_the_altar_+_bonus.jpg
@@ -15,3 +15,4 @@ title: Blasphemy - Blood Upon the Altar + Bonus
 
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=27693&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=27701&sort=pd.name&order=ASC) for $12.00
