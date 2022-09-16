@@ -4,7 +4,7 @@ album: At The Behest Of Time
 artist: Shroud Of Satan
 categories:
 - CD
-date: '2022-06-14T05:28:31'
+date: '2022-09-15T05:14:33'
 draft: false
 images:
 - /images/covers/shroud_of_satan-at_the_behest_of_time.jpg
@@ -15,3 +15,4 @@ title: Shroud Of Satan - At The Behest Of Time
 
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=24386&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=27759&sort=pd.name&order=ASC) for $12.00

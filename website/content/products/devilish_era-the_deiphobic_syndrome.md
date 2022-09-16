@@ -1,10 +1,10 @@
 ---
-actualPrice: $6.00
+actualPrice: $6.00 - 8.00
 album: The Deiphobic Syndrome
 artist: Devilish Era
 categories:
 - CD
-date: '2021-11-30T13:35:37'
+date: '2022-09-16T05:13:19'
 draft: false
 images:
 - /images/covers/devilish_era-the_deiphobic_syndrome.jpg
@@ -15,3 +15,4 @@ title: Devilish Era - The Deiphobic Syndrome
 
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=1991&sort=pd.name&order=ASC) for $6.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=27835&sort=pd.name&order=ASC) for $8.00
