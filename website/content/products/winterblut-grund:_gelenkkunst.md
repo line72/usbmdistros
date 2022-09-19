@@ -1,10 +1,10 @@
 ---
-actualPrice: $10.00
+actualPrice: $10.00 - 12.00
 album: 'Grund: Gelenkkunst'
 artist: Winterblut
 categories:
 - CD
-date: '2021-11-30T13:35:50'
+date: '2022-09-19T05:15:13'
 draft: false
 images:
 - /images/covers/winterblut-grund:_gelenkkunst.png
@@ -15,3 +15,4 @@ title: 'Winterblut - Grund: Gelenkkunst'
 
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=1739&sort=pd.name&order=ASC) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=27924&sort=pd.name&order=ASC) for $12.00
