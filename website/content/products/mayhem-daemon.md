@@ -4,7 +4,7 @@ album: Daemon
 artist: Mayhem
 categories:
 - Vinyl
-date: '2021-11-25T06:07:51'
+date: '2022-09-20T05:10:44'
 draft: false
 images:
 - /images/covers/mayhem-daemon.jpg
@@ -18,3 +18,4 @@ title: Mayhem - Daemon
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=18195&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=19007&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=19376&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=27948&sort=pd.name&order=ASC) for $25.00

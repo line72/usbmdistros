@@ -4,7 +4,7 @@ album: Eternal Turn Of The Wheel
 artist: Drudkh
 categories:
 - Vinyl
-date: '2022-09-17T05:09:57'
+date: '2022-09-20T05:10:00'
 draft: false
 images:
 - /images/covers/drudkh-eternal_turn_of_the_wheel.jpg
@@ -21,3 +21,4 @@ title: Drudkh - Eternal Turn Of The Wheel
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=25863&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=25990&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=27854&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=27941&sort=pd.name&order=ASC) for $25.00
