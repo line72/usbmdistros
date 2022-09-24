@@ -4,7 +4,7 @@ album: Opus IV
 artist: Abigor
 categories:
 - CD
-date: '2022-04-12T05:08:59'
+date: '2022-09-23T05:13:19'
 draft: false
 images:
 - /images/covers/abigor-opus_iv.jpg
@@ -16,3 +16,4 @@ title: Abigor - Opus IV
 ## CD
 * Purchase from [CW Productions](https://shop.cwproductions.net/products/abigor-opus-iv-cd) for $15.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=22355&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=28050&sort=pd.name&order=ASC) for $15.00

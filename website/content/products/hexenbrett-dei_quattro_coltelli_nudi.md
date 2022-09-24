@@ -1,12 +1,12 @@
 ---
-actualPrice: $6.50 - 15.00
+actualPrice: $3.50 - 15.00
 album: Dei Quattro Coltelli Nudi
 artist: Hexenbrett
 categories:
 - Vinyl
 - Cassette
 - CD
-date: '2022-07-18T05:02:40'
+date: '2022-09-24T05:02:49'
 draft: false
 images:
 - /images/covers/hexenbrett-dei_quattro_coltelli_nudi.jpg
@@ -20,4 +20,4 @@ title: Hexenbrett - Dei Quattro Coltelli Nudi
 ## Cassette
 * Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/34262455-hexenbrett-dei-quattro-coltelli-nudi) for $6.50
 ## CD
-* Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/34262404-hexenbrett-dei-quattro-coltelli-nudi-cd) for $7.50
+* Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/34262404-hexenbrett-dei-quattro-coltelli-nudi-cd) for $3.50

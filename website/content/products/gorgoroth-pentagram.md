@@ -1,10 +1,10 @@
 ---
-actualPrice: $25.00
+actualPrice: $25.00 - 27.00
 album: Pentagram
 artist: Gorgoroth
 categories:
 - Vinyl
-date: '2021-11-30T13:35:19'
+date: '2022-09-24T05:10:16'
 draft: false
 images:
 - /images/covers/gorgoroth-pentagram.jpg
@@ -15,3 +15,5 @@ title: Gorgoroth - Pentagram
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=15926&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=28035&sort=pd.name&order=ASC) for $27.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=28118&sort=pd.name&order=ASC) for $27.00

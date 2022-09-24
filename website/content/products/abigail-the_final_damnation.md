@@ -1,11 +1,11 @@
 ---
-actualPrice: $9.00 - 30.00
+actualPrice: $8.00 - 30.00
 album: The Final Damnation
 artist: Abigail
 categories:
 - Vinyl
 - Cassette
-date: '2022-07-28T05:12:40'
+date: '2022-09-24T05:02:54'
 draft: false
 images:
 - /images/covers/abigail-the_final_damnation.jpg
@@ -19,4 +19,4 @@ title: Abigail - The Final Damnation
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=11334&sort=pd.name&order=ASC) for $30.00
 ## Cassette
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=16673&sort=pd.name&order=ASC) for $9.00
-* Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/33512086-abigail-the-final-damnation) for $10.50
+* Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/33512086-abigail-the-final-damnation) for $8.00

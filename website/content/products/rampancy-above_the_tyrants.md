@@ -1,10 +1,10 @@
 ---
-actualPrice: $7.00
+actualPrice: $3.00
 album: Above The Tyrants
 artist: Rampancy
 categories:
 - Cassette
-date: '2021-11-16T14:07:11'
+date: '2022-09-24T05:02:55'
 draft: false
 images:
 - /images/covers/rampancy-above_the_tyrants.jpg
@@ -14,4 +14,4 @@ title: Rampancy - Above The Tyrants
 ---
 
 ## Cassette
-* Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/33607285-rampancy-above-the-tyrants) for $7.00
+* Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/33607285-rampancy-above-the-tyrants) for $3.00

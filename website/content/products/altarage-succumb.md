@@ -1,11 +1,11 @@
 ---
-actualPrice: $13.00 - 39.00
+actualPrice: $9.00 - 39.00
 album: Succumb
 artist: Altarage
 categories:
 - Vinyl
 - Cassette
-date: '2021-12-06T06:10:40'
+date: '2022-09-24T05:03:00'
 draft: false
 images:
 - /images/covers/altarage-succumb.jpg
@@ -23,4 +23,4 @@ title: Altarage - Succumb
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/altarage-succumb-2xlp) for $37.00 :: Orange/Gold 2nd press vinyl
 ## Cassette
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/altarage-succumb-cassette) for $13.00 :: Cassette Tape 1st press
-* Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/32219833-altarage-succumb) for $13.00
+* Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/32219833-altarage-succumb) for $9.00

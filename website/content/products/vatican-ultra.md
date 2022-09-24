@@ -1,10 +1,11 @@
 ---
-actualPrice: $45.00
+actualPrice: $12.00 - 45.00
 album: Ultra
 artist: Vatican
 categories:
 - Vinyl
-date: '2022-04-25T05:15:26'
+- Cassette
+date: '2022-09-23T05:20:24'
 draft: false
 images:
 - /images/covers/vatican-ultra.jpg
@@ -15,3 +16,5 @@ title: Vatican - Ultra
 
 ## Vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/vatican-ultra-lp) for $45.00 :: Black w/ Gold Splatter 1st press vinyl
+## Cassette
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/vatican-ultra-cassette) for $12.00 :: Gold Shell 2022 press
