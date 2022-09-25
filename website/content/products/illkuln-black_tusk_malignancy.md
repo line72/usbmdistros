@@ -1,10 +1,10 @@
 ---
-actualPrice: $8.50
+actualPrice: $3.00
 album: Black Tusk Malignancy
 artist: Illkuln
 categories:
 - Cassette
-date: '2021-11-16T14:07:13'
+date: '2022-09-25T05:02:56'
 draft: false
 images:
 - /images/covers/illkuln-black_tusk_malignancy.jpg
@@ -14,4 +14,4 @@ title: Illkuln - Black Tusk Malignancy
 ---
 
 ## Cassette
-* Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/32281357-illkuln-black-tusk-malignancy) for $8.50
+* Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/32281357-illkuln-black-tusk-malignancy) for $3.00

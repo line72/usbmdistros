@@ -1,10 +1,10 @@
 ---
-actualPrice: $6.00
+actualPrice: $2.00
 album: Murder Myself
 artist: Nighnacht
 categories:
 - Cassette
-date: '2021-11-16T14:07:16'
+date: '2022-09-25T05:03:07'
 draft: false
 images:
 - /images/covers/nighnacht-murder_myself.jpg
@@ -14,4 +14,4 @@ title: Nighnacht - Murder Myself
 ---
 
 ## Cassette
-* Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/31332328-nighnacht-murder-myself) for $6.00
+* Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/31332328-nighnacht-murder-myself) for $2.00
