@@ -1,10 +1,10 @@
 ---
-actualPrice: $8.00
+actualPrice: $2.50
 album: Self-Titled
 artist: In The Court Of A Broken Flesh
 categories:
 - Cassette
-date: '2021-11-16T14:07:17'
+date: '2022-09-26T05:03:16'
 draft: false
 images:
 - /images/covers/in_the_court_of_a_broken_flesh-self-titled.jpg
@@ -14,4 +14,4 @@ title: In The Court Of A Broken Flesh - Self-Titled
 ---
 
 ## Cassette
-* Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/29839984-in-the-court-of-a-broken-flesh-self-titled) for $8.00
+* Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/29839984-in-the-court-of-a-broken-flesh-self-titled) for $2.50

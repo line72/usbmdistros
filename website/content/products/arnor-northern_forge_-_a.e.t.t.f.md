@@ -1,10 +1,10 @@
 ---
-actualPrice: $7.50
+actualPrice: $4.00
 album: Northern Forge / A.E.T.T.F
 artist: Arnor
 categories:
 - Cassette
-date: '2021-11-16T14:07:13'
+date: '2022-09-26T05:03:04'
 draft: false
 images:
 - /images/covers/arnor-northern_forge_-_a.e.t.t.f.jpg
@@ -14,4 +14,4 @@ title: Arnor - Northern Forge / A.E.T.T.F
 ---
 
 ## Cassette
-* Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/32265721-arnor-northern-forge-a-e-t-t-f) for $7.50
+* Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/32265721-arnor-northern-forge-a-e-t-t-f) for $4.00

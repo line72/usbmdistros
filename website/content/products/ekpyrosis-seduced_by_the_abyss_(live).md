@@ -1,10 +1,10 @@
 ---
-actualPrice: $6.00
+actualPrice: $1.50
 album: Seduced By The Abyss (Live)
 artist: Ekpyrosis
 categories:
 - Cassette
-date: '2021-11-16T14:07:20'
+date: '2022-09-26T05:03:26'
 draft: false
 images:
 - /images/covers/ekpyrosis-seduced_by_the_abyss_(live).jpg
@@ -14,4 +14,4 @@ title: Ekpyrosis - Seduced By The Abyss (Live)
 ---
 
 ## Cassette
-* Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/27438333-ekpyrosis-seduced-by-the-abyss-live) for $6.00
+* Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/27438333-ekpyrosis-seduced-by-the-abyss-live) for $1.50
