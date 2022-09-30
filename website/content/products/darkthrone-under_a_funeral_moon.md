@@ -1,11 +1,11 @@
 ---
-actualPrice: $15.00 - 28.00
+actualPrice: $15.00 - 27.00
 album: Under a Funeral Moon
 artist: Darkthrone
 categories:
 - Vinyl
 - Cassette
-date: '2022-09-20T05:09:50'
+date: '2022-09-30T05:15:59'
 draft: false
 images:
 - /images/covers/darkthrone-under_a_funeral_moon.jpg
@@ -30,7 +30,7 @@ title: Darkthrone - Under a Funeral Moon
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=24624&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=25348&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=25833&sort=pd.name&order=ASC) for $25.00
-* Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/darkthrone-under-a-funeral-moon-12-gatefold-lp/) for $28.00
+* Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/darkthrone-under-a-funeral-moon-12-gatefold-lp/) for $20.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=27079&sort=pd.name&order=ASC) for $27.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=27972&sort=pd.name&order=ASC) for $27.00
 ## Cassette

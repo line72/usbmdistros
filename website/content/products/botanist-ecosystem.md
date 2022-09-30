@@ -1,10 +1,10 @@
 ---
-actualPrice: $22.00
+actualPrice: $10.00
 album: Ecosystem
 artist: Botanist
 categories:
 - Vinyl
-date: '2021-07-11T20:52:13'
+date: '2022-09-30T05:18:19'
 draft: false
 images:
 - /images/covers/botanist-ecosystem.jpg
@@ -14,4 +14,4 @@ title: Botanist - Ecosystem
 ---
 
 ## Vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/botanist-ecosystem-lp) for $22.00 :: Red 1st press vinyl
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/botanist-ecosystem-lp) for $10.00 :: Redwood 2019 press vinyl

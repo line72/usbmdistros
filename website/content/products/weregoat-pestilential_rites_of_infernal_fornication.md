@@ -1,10 +1,11 @@
 ---
-actualPrice: $10.00 - 12.00
+actualPrice: $10.00 - 25.00
 album: Pestilential Rites of Infernal Fornication
 artist: Weregoat
 categories:
+- Vinyl
 - CD
-date: '2022-08-17T05:14:27'
+date: '2022-09-30T05:11:22'
 draft: false
 images:
 - /images/covers/weregoat-pestilential_rites_of_infernal_fornication.png
@@ -13,6 +14,8 @@ thumbnailImage: /images/covers/weregoat-pestilential_rites_of_infernal_fornicati
 title: Weregoat - Pestilential Rites of Infernal Fornication
 ---
 
+## Vinyl
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=28170&sort=pd.name&order=ASC) for $25.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=15402&sort=pd.name&order=ASC) for $10.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=20582&sort=pd.name&order=ASC) for $12.00

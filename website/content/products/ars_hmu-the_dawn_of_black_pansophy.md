@@ -4,7 +4,7 @@ album: The Dawn Of Black Pansophy
 artist: Ars Hmu
 categories:
 - Vinyl
-date: '2022-07-14T05:07:56'
+date: '2022-09-27T05:00:51'
 draft: false
 images:
 - /images/covers/ars_hmu-the_dawn_of_black_pansophy.jpg
