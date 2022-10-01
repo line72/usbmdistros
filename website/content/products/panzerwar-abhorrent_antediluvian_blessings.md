@@ -4,7 +4,7 @@ album: Abhorrent Antediluvian Blessings
 artist: Panzerwar
 categories:
 - Vinyl
-date: '2022-08-21T05:26:30'
+date: '2022-10-01T05:00:43'
 draft: false
 images:
 - /images/covers/panzerwar-abhorrent_antediluvian_blessings.png

@@ -4,7 +4,7 @@ album: Revelation of Evil
 artist: Funeral Fullmoon
 categories:
 - Vinyl
-date: '2021-06-26T15:02:54'
+date: '2022-10-01T05:00:52'
 draft: false
 images:
 - /images/covers/funeral_fullmoon-revelation_of_evil.jpg
