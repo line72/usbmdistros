@@ -1,10 +1,10 @@
 ---
-actualPrice: $7.00
+actualPrice: $3.00
 album: Arcane Mysteries
 artist: Funeral Storm
 categories:
 - Cassette
-date: '2021-11-16T14:07:18'
+date: '2022-10-02T05:03:02'
 draft: false
 images:
 - /images/covers/funeral_storm-arcane_mysteries.jpg
@@ -14,4 +14,4 @@ title: Funeral Storm - Arcane Mysteries
 ---
 
 ## Cassette
-* Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/28880128-funeral-storm-arcane-mysteries) for $7.00
+* Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/28880128-funeral-storm-arcane-mysteries) for $3.00
