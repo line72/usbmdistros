@@ -5,7 +5,7 @@ artist: Bhleg
 categories:
 - Vinyl
 - CD
-date: '2022-01-26T06:06:35'
+date: '2022-10-05T05:29:15'
 draft: false
 images:
 - "/images/covers/bhleg-draumr_\xE0st.jpg"
@@ -18,3 +18,4 @@ title: "Bhleg - Draumr \xC0st"
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=20562&sort=pd.name&order=ASC) for $25.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=12411&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=28197&sort=pd.name&order=ASC) for $12.00
