@@ -4,7 +4,7 @@ album: "V\xF6llig Aussichtslos"
 artist: Aussichtslos
 categories:
 - Vinyl
-date: '2022-08-25T05:09:05'
+date: '2022-10-08T05:09:15'
 draft: false
 images:
 - "/images/covers/aussichtslos-v\xF6llig_aussichtslos.png"
@@ -16,3 +16,4 @@ title: "Aussichtslos - V\xF6llig Aussichtslos"
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=25465&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=27142&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=28241&sort=pd.name&order=ASC) for $25.00

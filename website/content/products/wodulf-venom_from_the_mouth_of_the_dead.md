@@ -1,12 +1,12 @@
 ---
-actualPrice: $9.00 - 28.00
+actualPrice: $9.00 - 24.00
 album: Venom From the Mouth of the Dead
 artist: Wodulf
 categories:
 - Vinyl
 - Cassette
 - CD
-date: '2022-07-19T15:43:39'
+date: '2022-10-08T05:16:10'
 draft: false
 images:
 - /images/covers/wodulf-venom_from_the_mouth_of_the_dead.png
@@ -17,7 +17,7 @@ title: Wodulf - Venom From the Mouth of the Dead
 
 ## Vinyl
 * Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/wodulf-venom-from-the-mouth-of-the-dead-12-lp/) for $24.00
-* Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/wodulf-venom-from-the-mouth-of-the-dead-12-lp/) for $28.00
+* Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/wodulf-venom-from-the-mouth-of-the-dead-12-lp/) for $20.00
 ## Cassette
 * Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/wodulf-venom-from-the-mouth-of-the-dead-cassette/) for $9.00
 ## CD

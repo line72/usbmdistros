@@ -1,10 +1,10 @@
 ---
-actualPrice: $17.00
+actualPrice: $17.00 - 20.00
 album: Jesus Coward
 artist: Goatpenis
 categories:
 - Vinyl
-date: '2021-06-26T15:22:48'
+date: '2022-10-08T05:16:06'
 draft: false
 images:
 - /images/covers/goatpenis-jesus_coward.jpg
@@ -15,3 +15,4 @@ title: Goatpenis - Jesus Coward
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=12713&sort=pd.name&order=ASC) for $17.00
+* Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/goatpenis-jesus-coward-12-lp/) for $20.00
