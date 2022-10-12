@@ -1,12 +1,12 @@
 ---
-actualPrice: $8.00 - 30.00
+actualPrice: $5.00 - 30.00
 album: End Times
 artist: Death Worship
 categories:
 - Vinyl
 - Cassette
 - CD
-date: '2022-08-17T05:12:41'
+date: '2022-10-12T05:02:17'
 draft: false
 images:
 - /images/covers/death_worship-end_times.jpg
@@ -21,6 +21,7 @@ title: Death Worship - End Times
 ## Cassette
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=7284&sort=pd.name&order=ASC) for $8.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=19734&sort=pd.name&order=ASC) for $9.00
+* Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/36174790-death-worship-end-times) for $5.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=5822&sort=pd.name&order=ASC) for $10.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=26818&sort=pd.name&order=ASC) for $10.00

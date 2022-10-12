@@ -1,10 +1,12 @@
 ---
-actualPrice: $7.00
+actualPrice: $7.00 - 25.00
 album: Bloodline
 artist: Svartsyn
 categories:
+- Vinyl
+- Cassette
 - CD
-date: '2021-11-30T13:35:47'
+date: '2022-10-12T05:15:33'
 draft: false
 images:
 - /images/covers/svartsyn-bloodline.jpg
@@ -13,5 +15,9 @@ thumbnailImage: /images/covers/svartsyn-bloodline-thumb.jpg
 title: Svartsyn - Bloodline
 ---
 
+## Vinyl
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=28301&sort=pd.name&order=ASC) for $25.00
+## Cassette
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=28313&sort=pd.name&order=ASC) for $15.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=2307&sort=pd.name&order=ASC) for $7.00

@@ -4,7 +4,7 @@ album: In Battle
 artist: In Battle
 categories:
 - Vinyl
-date: '2022-07-14T05:08:42'
+date: '2022-10-12T05:10:05'
 draft: false
 images:
 - /images/covers/in_battle-in_battle.jpg
@@ -18,3 +18,4 @@ title: In Battle - In Battle
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=22159&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=24392&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=25399&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=28310&sort=pd.name&order=ASC) for $25.00

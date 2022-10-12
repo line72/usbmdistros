@@ -5,7 +5,7 @@ artist: Valac
 categories:
 - Cassette
 - CD
-date: '2022-10-04T05:01:14'
+date: '2022-10-12T05:01:11'
 draft: false
 images:
 - /images/covers/valac-howls_of_infinite_horror.png
