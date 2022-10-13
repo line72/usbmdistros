@@ -1,10 +1,11 @@
 ---
-actualPrice: $15.00
+actualPrice: $15.00 - 22.00
 album: Apologetica
 artist: Patristic
 categories:
+- Vinyl
 - CD
-date: '2022-05-11T05:11:38'
+date: '2022-10-13T05:10:41'
 draft: false
 images:
 - /images/covers/patristic-apologetica.jpg
@@ -13,5 +14,7 @@ thumbnailImage: /images/covers/patristic-apologetica-thumb.jpg
 title: Patristic - Apologetica
 ---
 
+## Vinyl
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=28355&sort=pd.name&order=ASC) for $22.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=23268&sort=pd.name&order=ASC) for $15.00
