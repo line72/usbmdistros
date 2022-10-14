@@ -1,10 +1,11 @@
 ---
-actualPrice: $20.00 - 28.00
+actualPrice: $12.00 - 28.00
 album: Hypnotic Blood Art
 artist: Prosanctus Inferi
 categories:
 - Vinyl
-date: '2022-07-28T05:09:30'
+- CD
+date: '2022-10-14T05:13:57'
 draft: false
 images:
 - /images/covers/prosanctus_inferi-hypnotic_blood_art.jpg
@@ -16,3 +17,6 @@ title: Prosanctus Inferi - Hypnotic Blood Art
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=9394&sort=pd.name&order=ASC) for $20.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=9499&sort=pd.name&order=ASC) for $28.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=28382&sort=pd.name&order=ASC) for $20.00
+## CD
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=28383&sort=pd.name&order=ASC) for $12.00
