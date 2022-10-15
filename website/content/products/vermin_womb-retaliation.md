@@ -1,11 +1,11 @@
 ---
-actualPrice: $12.00 - 25.00
+actualPrice: $12.00 - 45.00
 album: Retaliation
 artist: Vermin Womb
 categories:
 - Vinyl
 - CD
-date: '2022-10-12T05:18:36'
+date: '2022-10-15T05:20:31'
 draft: false
 images:
 - /images/covers/vermin_womb-retaliation.png
@@ -17,5 +17,6 @@ title: Vermin Womb - Retaliation
 ## Vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/vermin-womb-retaliation-lp) for $25.00 :: Red w/ Smoke 2022 press vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/vermin-womb-retaliation-lp) for $25.00 :: Red, White, & Black Merge 2022 press vinyl
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/vermin-womb-retaliation-lp) for $45.00 :: Pinwheel 2022 press vinyl
 ## CD
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/vermin-womb-retaliation-cd) for $12.00 :: CD 2022

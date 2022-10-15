@@ -4,7 +4,7 @@ album: Satanasword
 artist: Sabbat
 categories:
 - CD
-date: '2022-10-09T05:13:14'
+date: '2022-10-15T05:15:52'
 draft: false
 images:
 - /images/covers/sabbat-satanasword.jpg
@@ -16,3 +16,4 @@ title: Sabbat - Satanasword
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=28223&sort=pd.name&order=ASC) for $10.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=28283&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=28393&sort=pd.name&order=ASC) for $12.00
