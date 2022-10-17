@@ -1,10 +1,10 @@
 ---
-actualPrice: $9.00
+actualPrice: $5.00
 album: Do krwi
 artist: Nawia
 categories:
 - CD
-date: '2021-08-17T13:15:22'
+date: '2022-10-17T05:24:39'
 draft: false
 images:
 - /images/covers/nawia-do_krwi.jpg
@@ -14,4 +14,4 @@ title: Nawia - Do krwi
 ---
 
 ## CD
-* Purchase from [CW Productions](https://shop.cwproductions.net/products/nawia-do-krwi-cd) for $9.00
+* Purchase from [CW Productions](https://shop.cwproductions.net/products/nawia-do-krwi-cd) for $5.00

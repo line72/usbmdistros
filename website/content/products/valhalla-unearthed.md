@@ -1,10 +1,10 @@
 ---
-actualPrice: $22.00
+actualPrice: $16.00
 album: Unearthed
 artist: Valhalla
 categories:
 - Vinyl
-date: '2021-08-17T13:15:24'
+date: '2022-10-17T05:24:45'
 draft: false
 images:
 - /images/covers/valhalla-unearthed.jpg
@@ -14,4 +14,4 @@ title: Valhalla - Unearthed
 ---
 
 ## Vinyl
-* Purchase from [CW Productions](https://shop.cwproductions.net/products/valhalla-unearthed-lp) for $22.00
+* Purchase from [CW Productions](https://shop.cwproductions.net/products/valhalla-unearthed-lp) for $16.00

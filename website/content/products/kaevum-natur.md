@@ -4,7 +4,7 @@ album: Natur
 artist: Kaevum
 categories:
 - Vinyl
-date: '2022-09-30T05:22:22'
+date: '2022-10-17T05:24:26'
 draft: false
 images:
 - /images/covers/kaevum-natur.png
@@ -15,3 +15,4 @@ title: Kaevum - Natur
 
 ## Vinyl
 * Purchase from [CW Productions](https://shop.cwproductions.net/products/kaevum-natur-lp-1) for $30.00
+* Purchase from [CW Productions](https://shop.cwproductions.net/products/kaevum-natur-lp) for $30.00

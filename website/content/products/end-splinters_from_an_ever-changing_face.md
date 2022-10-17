@@ -5,7 +5,7 @@ artist: END
 categories:
 - Vinyl
 - CD
-date: '2022-10-12T05:18:52'
+date: '2022-10-17T05:20:29'
 draft: false
 images:
 - /images/covers/end-splinters_from_an_ever-changing_face.jpg
@@ -19,5 +19,7 @@ title: END - Splinters From An Ever-Changing Face
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/end-splinters) for $25.00 :: Black In Clear w/ Splatter 3rd press vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/end-splinters) for $39.00 :: Mint/Silver Pinwheel w/ Splatter 2nd press
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/end-splinters) for $25.00 :: Merge w/ Splatter 2022 press
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/end-splinters-from-an-ever-changing-face-lp) for $25.00 :: Merge w/ Splatter 2022 press
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/end-splinters-from-an-ever-changing-face-lp) for $39.00 :: Mint/Silver Pinwheel w/ Splatter 2nd press
 ## CD
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/end-splinters-from-an-ever-changing-face-cd) for $12.00 :: CD 2020
