@@ -5,7 +5,7 @@ artist: Abigail
 categories:
 - Vinyl
 - Cassette
-date: '2022-09-13T05:09:23'
+date: '2022-10-18T05:08:53'
 draft: false
 images:
 - /images/covers/abigail-grotesque_nightmare.png
@@ -22,6 +22,7 @@ title: Abigail - Grotesque Nightmare
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=27051&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=27145&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=27687&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=28478&sort=pd.name&order=ASC) for $25.00
 ## Cassette
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=16670&sort=pd.name&order=ASC) for $9.00
 * Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/33512080-abigail-grotesque-nightmare) for $10.50
