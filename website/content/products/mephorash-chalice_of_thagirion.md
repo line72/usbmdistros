@@ -5,7 +5,8 @@ artist: Mephorash
 categories:
 - Vinyl
 - Cassette
-date: '2022-03-19T05:08:05'
+- CD
+date: '2022-10-19T05:13:21'
 draft: false
 images:
 - /images/covers/mephorash-chalice_of_thagirion.jpg
@@ -20,3 +21,5 @@ title: Mephorash - Chalice Of Thagirion
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=21682&sort=pd.name&order=ASC) for $25.00
 ## Cassette
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=18466&sort=pd.name&order=ASC) for $10.00
+## CD
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=28557&sort=pd.name&order=ASC) for $15.00

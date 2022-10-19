@@ -5,7 +5,7 @@ artist: Mephorash
 categories:
 - Cassette
 - CD
-date: '2021-12-30T06:09:11'
+date: '2022-10-19T05:13:21'
 draft: false
 images:
 - /images/covers/mephorash-shem_ha_mephorash.jpg
@@ -19,3 +19,4 @@ title: Mephorash - Shem Ha Mephorash
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=18539&sort=pd.name&order=ASC) for $15.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=20024&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=28561&sort=pd.name&order=ASC) for $15.00

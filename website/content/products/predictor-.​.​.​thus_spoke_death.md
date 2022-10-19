@@ -4,7 +4,7 @@ album: ".\u200B.\u200B.\u200Bthus spoke death"
 artist: Predictor
 categories:
 - Cassette
-date: '2021-12-11T06:08:41'
+date: '2022-10-19T05:15:14'
 draft: false
 images:
 - "/images/covers/predictor-.\u200B.\u200B.\u200Bthus_spoke_death.jpg"
@@ -15,3 +15,4 @@ title: "Predictor - .\u200B.\u200B.\u200Bthus spoke death"
 
 ## Cassette
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=19616&sort=pd.name&order=ASC) for $9.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=28574&sort=pd.name&order=ASC) for $9.00

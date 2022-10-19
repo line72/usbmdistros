@@ -5,7 +5,7 @@ artist: Ofermod
 categories:
 - Vinyl
 - CD
-date: '2022-10-16T05:10:55'
+date: '2022-10-19T05:13:36'
 draft: false
 images:
 - /images/covers/ofermod-pentagrammaton.jpg
@@ -21,3 +21,4 @@ title: Ofermod - Pentagrammaton
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=18500&sort=pd.name&order=ASC) for $13.60
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=20046&sort=pd.name&order=ASC) for $17.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=28521&sort=pd.name&order=ASC) for $17.00

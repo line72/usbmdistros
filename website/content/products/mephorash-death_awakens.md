@@ -5,7 +5,8 @@ artist: Mephorash
 categories:
 - Vinyl
 - Cassette
-date: '2021-12-30T06:07:44'
+- CD
+date: '2022-10-19T05:13:21'
 draft: false
 images:
 - /images/covers/mephorash-death_awakens.jpg
@@ -19,3 +20,5 @@ title: Mephorash - Death Awakens
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=20029&sort=pd.name&order=ASC) for $25.00
 ## Cassette
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=18461&sort=pd.name&order=ASC) for $10.00
+## CD
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=28553&sort=pd.name&order=ASC) for $15.00

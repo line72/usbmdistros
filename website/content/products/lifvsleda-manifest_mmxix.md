@@ -4,7 +4,7 @@ album: Manifest MMXIX
 artist: Lifvsleda
 categories:
 - CD
-date: '2021-11-30T13:35:42'
+date: '2022-10-19T05:13:14'
 draft: false
 images:
 - /images/covers/lifvsleda-manifest_mmxix.jpg
@@ -15,3 +15,4 @@ title: Lifvsleda - Manifest MMXIX
 
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=18543&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=28549&sort=pd.name&order=ASC) for $15.00
