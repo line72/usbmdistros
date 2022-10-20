@@ -6,7 +6,7 @@ categories:
 - Vinyl
 - Cassette
 - CD
-date: '2022-09-02T05:15:44'
+date: '2022-10-20T05:00:48'
 draft: false
 images:
 - "/images/covers/n\xE4chtlich-satanas_solum_initium_est.jpg"

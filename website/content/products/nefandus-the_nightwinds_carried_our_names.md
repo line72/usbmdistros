@@ -6,7 +6,7 @@ categories:
 - Vinyl
 - Cassette
 - CD
-date: '2022-10-16T05:10:49'
+date: '2022-10-20T05:14:01'
 draft: false
 images:
 - /images/covers/nefandus-the_nightwinds_carried_our_names.png
@@ -26,3 +26,4 @@ title: Nefandus - The Nightwinds Carried our Names
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=20038&sort=pd.name&order=ASC) for $15.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=21750&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=28600&sort=pd.name&order=ASC) for $15.00
