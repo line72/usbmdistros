@@ -5,7 +5,7 @@ artist: Behexen
 categories:
 - Vinyl
 - CD
-date: '2022-07-08T05:08:27'
+date: '2022-10-21T05:01:43'
 draft: false
 images:
 - /images/covers/behexen-rituale_satanum.jpg
@@ -16,6 +16,7 @@ title: Behexen - Rituale Satanum
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=25162&sort=pd.name&order=ASC) for $90.00
+* Purchase from [Debemur Morti](https://debemurmorti.aisamerch.com/item/127651) for $25.99
 ## CD
 * Purchase from [Debemur Morti](https://debemurmorti.aisamerch.com/item/93559) for $9.99
 * Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/behexen-rituale-satanum-cd/) for $8.00

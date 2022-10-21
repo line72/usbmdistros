@@ -6,7 +6,7 @@ categories:
 - Vinyl
 - Cassette
 - CD
-date: '2022-10-16T05:11:10'
+date: '2022-10-21T05:14:06'
 draft: false
 images:
 - /images/covers/satanize-baphomet_altar_worship.jpg
@@ -23,3 +23,4 @@ title: Satanize - Baphomet Altar Worship
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=18502&sort=pd.name&order=ASC) for $15.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=20056&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=28664&sort=pd.name&order=ASC) for $15.00

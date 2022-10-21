@@ -6,7 +6,7 @@ categories:
 - Vinyl
 - Cassette
 - CD
-date: '2021-12-30T06:09:49'
+date: '2022-10-21T05:12:35'
 draft: false
 images:
 - /images/covers/caedes_cruenta-of_ritual_necrophagia_and_mysterious_ghoul_cults.png
@@ -23,3 +23,4 @@ title: Caedes Cruenta - Of Ritual Necrophagia and Mysterious Ghoul Cults
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=18501&sort=pd.name&order=ASC) for $15.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=19919&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=28670&sort=pd.name&order=ASC) for $15.00
