@@ -6,7 +6,7 @@ categories:
 - Vinyl
 - Cassette
 - CD
-date: '2022-06-01T05:01:20'
+date: '2022-10-25T05:25:50'
 draft: false
 images:
 - /images/covers/blut_aus_nord-disharmonium_-_undreamable_abysses.png
@@ -21,6 +21,7 @@ title: Blut Aus Nord - Disharmonium - Undreamable Abysses
 * Purchase from [Debemur Morti](https://debemurmorti.aisamerch.com/item/107236) for $26.99 :: half/half effect
 * Purchase from [Debemur Morti](https://debemurmorti.aisamerch.com/item/107235) for $26.99 :: ultra clear w/ splatters
 * Purchase from [Debemur Morti](https://debemurmorti.aisamerch.com/item/113436) for $26.99 :: purple vinyl
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=28722&sort=pd.name&order=ASC) for $25.00
 ## Cassette
 * Purchase from [Debemur Morti](https://debemurmorti.aisamerch.com/item/107238) for $13.99
 ## CD

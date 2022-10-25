@@ -8,9 +8,9 @@ categories:
 date: '2022-09-24T05:15:55'
 draft: false
 images:
-- /images/covers/necropolissebeht-ttccclxxx.png
+- /images/covers/necropolissebeht-ttccclxxx.jpg
 inStock: true
-thumbnailImage: /images/covers/necropolissebeht-ttccclxxx-thumb.png
+thumbnailImage: /images/covers/necropolissebeht-ttccclxxx-thumb.jpg
 title: Necropolissebeht - TTCCCLXXX
 ---
 

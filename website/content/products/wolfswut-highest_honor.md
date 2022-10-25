@@ -1,10 +1,11 @@
 ---
-actualPrice: $12.00
+actualPrice: $12.00 - 13.00
 album: Highest Honor
 artist: Wolfswut
 categories:
 - Cassette
-date: '2022-07-15T05:01:01'
+- CD
+date: '2022-10-25T05:01:15'
 draft: false
 images:
 - /images/covers/wolfswut-highest_honor.jpg
@@ -15,3 +16,5 @@ title: Wolfswut - Highest Honor
 
 ## Cassette
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/wolfswut-highest-honor-tape) for $12.00
+## CD
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/wolfswut-highest-honor-cd) for $13.00
