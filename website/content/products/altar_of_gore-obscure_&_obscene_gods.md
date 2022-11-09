@@ -1,10 +1,10 @@
 ---
-actualPrice: $10.00
+actualPrice: $10.00 - 12.00
 album: Obscure & Obscene Gods
 artist: Altar of Gore
 categories:
 - CD
-date: '2021-11-30T13:35:34'
+date: '2022-10-30T05:12:03'
 draft: false
 images:
 - /images/covers/altar_of_gore-obscure_&_obscene_gods.jpg
@@ -15,3 +15,5 @@ title: Altar of Gore - Obscure & Obscene Gods
 
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=15380&sort=pd.name&order=ASC) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=28870&sort=pd.name&order=ASC) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=28899&sort=pd.name&order=ASC) for $12.00

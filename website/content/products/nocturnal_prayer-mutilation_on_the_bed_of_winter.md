@@ -4,7 +4,7 @@ album: Mutilation on the Bed of Winter
 artist: Nocturnal Prayer
 categories:
 - Vinyl
-date: '2022-05-21T05:00:29'
+date: '2022-11-02T05:00:45'
 draft: false
 images:
 - /images/covers/nocturnal_prayer-mutilation_on_the_bed_of_winter.jpg

@@ -1,11 +1,12 @@
 ---
-actualPrice: $12.75 - 20.00
+actualPrice: $12.00 - 25.00
 album: Demonized
 artist: Sodom
 categories:
 - Vinyl
 - Cassette
-date: '2022-01-19T06:10:01'
+- CD
+date: '2022-10-30T05:15:19'
 draft: false
 images:
 - /images/covers/sodom-demonized.jpg
@@ -19,3 +20,6 @@ title: Sodom - Demonized
 ## Cassette
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=20383&sort=pd.name&order=ASC) for $20.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=20418&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=28883&sort=pd.name&order=ASC) for $25.00
+## CD
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=28885&sort=pd.name&order=ASC) for $12.00

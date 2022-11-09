@@ -5,7 +5,7 @@ artist: "Reencarnaci\xF3n"
 categories:
 - Vinyl
 - CD
-date: '2022-07-28T05:09:32'
+date: '2022-11-06T05:10:51'
 draft: false
 images:
 - "/images/covers/reencarnaci\xF3n-alucinogeno.jpg"
@@ -18,5 +18,6 @@ title: "Reencarnaci\xF3n - Alucinogeno"
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=9650&sort=pd.name&order=ASC) for $20.00
 * Purchase from [CW Productions](https://shop.cwproductions.net/products/reencarnacion-alucinogeno-lp) for $18.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=24016&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29046&sort=pd.name&order=ASC) for $20.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=17888&sort=pd.name&order=ASC) for $10.00

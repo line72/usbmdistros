@@ -6,7 +6,7 @@ categories:
 - Vinyl
 - Cassette
 - CD
-date: '2022-08-21T05:25:20'
+date: '2022-11-03T05:00:40'
 draft: false
 images:
 - /images/covers/circle_of_ouroborus-kiromantia.jpg
@@ -19,6 +19,7 @@ title: Circle of Ouroborus - Kiromantia
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/circle-of-ouroborus-kiromantia-12-lp) for $27.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=26331&sort=pd.name&order=ASC) for $27.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=26989&sort=pd.name&order=ASC) for $27.00
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/circle-of-ouroborus-kiromantia-12-lp) for $26.00
 ## Cassette
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/circle-of-ouroborus-kiromantia-tape) for $12.00
 ## CD

@@ -4,7 +4,7 @@ album: Siegfried
 artist: Moonblood
 categories:
 - CD
-date: '2022-09-16T05:14:08'
+date: '2022-10-28T05:13:31'
 draft: false
 images:
 - /images/covers/moonblood-siegfried.jpg
@@ -17,3 +17,4 @@ title: Moonblood - Siegfried
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=20700&sort=pd.name&order=ASC) for $15.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=21274&sort=pd.name&order=ASC) for $15.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=27831&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=28816&sort=pd.name&order=ASC) for $15.00

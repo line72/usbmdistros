@@ -6,7 +6,7 @@ categories:
 - Vinyl
 - Cassette
 - CD
-date: '2022-08-13T05:01:11'
+date: '2022-11-09T06:00:52'
 draft: false
 images:
 - "/images/covers/r\xFCndgard-stronghold_of_majestic_ruins.jpg"

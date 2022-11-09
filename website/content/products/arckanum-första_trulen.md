@@ -4,7 +4,7 @@ album: "F\xF6rsta Trulen"
 artist: Arckanum
 categories:
 - Vinyl
-date: '2022-08-21T05:25:03'
+date: '2022-10-31T05:09:07'
 draft: false
 images:
 - "/images/covers/arckanum-f\xF6rsta_trulen.jpg"
@@ -17,3 +17,4 @@ title: "Arckanum - F\xF6rsta Trulen"
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=19563&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=25183&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=26981&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=28945&sort=pd.name&order=ASC) for $25.00

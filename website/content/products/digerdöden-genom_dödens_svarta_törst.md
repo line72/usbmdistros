@@ -6,7 +6,7 @@ categories:
 - Vinyl
 - Cassette
 - CD
-date: '2022-03-23T05:00:57'
+date: '2022-11-09T18:40:12'
 draft: false
 images:
 - "/images/covers/digerd\xF6den-genom_d\xF6dens_svarta_t\xF6rst.jpg"
@@ -23,3 +23,4 @@ title: "Digerd\xF6den - Genom D\xF6dens Svarta T\xF6rst"
 ## CD
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/digerdoden-genom-dodens-svarta-torst-cd) for $15.00
 * Purchase from [CW Productions](https://shop.cwproductions.net/products/digerdoden-genom-dodens-svarta-torst-cd) for $13.00
+* Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/digerdoden-genom-dodens-svarta-torst-cd/) for $13.00

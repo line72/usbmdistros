@@ -5,7 +5,7 @@ artist: Moonblood
 categories:
 - Vinyl
 - CD
-date: '2022-09-16T05:14:08'
+date: '2022-10-28T05:13:31'
 draft: false
 images:
 - /images/covers/moonblood-kingdom_of_forgotten_dreams.jpg
@@ -18,6 +18,7 @@ title: Moonblood - Kingdom Of Forgotten Dreams
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=23304&sort=pd.name&order=ASC) for $30.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=24631&sort=pd.name&order=ASC) for $30.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=24962&sort=pd.name&order=ASC) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=28802&sort=pd.name&order=ASC) for $30.00
 ## CD
 * Purchase from [CW Productions](https://shop.cwproductions.net/products/moonblood-kingdom-of-forgotten-dreams-cd) for $15.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=17718&sort=pd.name&order=ASC) for $15.00
@@ -31,3 +32,4 @@ title: Moonblood - Kingdom Of Forgotten Dreams
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=22923&sort=pd.name&order=ASC) for $15.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=26779&sort=pd.name&order=ASC) for $15.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=27829&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=28814&sort=pd.name&order=ASC) for $15.00

@@ -1,10 +1,10 @@
 ---
-actualPrice: $25.00
+actualPrice: $25.00 - 27.00
 album: Destroyer
 artist: Gorgoroth
 categories:
 - Vinyl
-date: '2022-08-02T13:10:00'
+date: '2022-11-08T06:10:41'
 draft: false
 images:
 - /images/covers/gorgoroth-destroyer.jpg
@@ -16,3 +16,4 @@ title: Gorgoroth - Destroyer
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=14960&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=25845&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29063&sort=pd.name&order=ASC) for $27.00

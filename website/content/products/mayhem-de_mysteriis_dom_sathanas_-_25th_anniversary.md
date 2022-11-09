@@ -4,7 +4,7 @@ album: De Mysteriis Dom Sathanas - 25th Anniversary
 artist: Mayhem
 categories:
 - CD
-date: '2022-08-05T05:12:31'
+date: '2022-10-29T05:13:34'
 draft: false
 images:
 - /images/covers/mayhem-de_mysteriis_dom_sathanas_-_25th_anniversary.jpg
@@ -23,3 +23,4 @@ title: Mayhem - De Mysteriis Dom Sathanas - 25th Anniversary
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=25349&sort=pd.name&order=ASC) for $90.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=25570&sort=pd.name&order=ASC) for $90.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=26026&sort=pd.name&order=ASC) for $90.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=28853&sort=pd.name&order=ASC) for $90.00

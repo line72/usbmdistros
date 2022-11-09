@@ -4,7 +4,7 @@ album: Pentagram
 artist: Gorgoroth
 categories:
 - Vinyl
-date: '2022-09-24T05:10:16'
+date: '2022-11-08T06:10:41'
 draft: false
 images:
 - /images/covers/gorgoroth-pentagram.jpg
@@ -17,3 +17,4 @@ title: Gorgoroth - Pentagram
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=15926&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=28035&sort=pd.name&order=ASC) for $27.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=28118&sort=pd.name&order=ASC) for $27.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29061&sort=pd.name&order=ASC) for $27.00

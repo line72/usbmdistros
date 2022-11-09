@@ -1,10 +1,11 @@
 ---
-actualPrice: $24.00
+actualPrice: $12.00 - 24.00
 album: Hiidentorni
 artist: Horna
 categories:
 - Vinyl
-date: '2022-03-17T13:47:18'
+- CD
+date: '2022-11-08T06:14:15'
 draft: false
 images:
 - /images/covers/horna-hiidentorni.jpg
@@ -15,3 +16,5 @@ title: Horna - Hiidentorni
 
 ## Vinyl
 * Purchase from [CW Productions](https://shop.cwproductions.net/products/horna-hiidentorni-lp) for $24.00
+## CD
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=29072&sort=pd.name&order=ASC) for $12.00

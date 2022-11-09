@@ -1,10 +1,10 @@
 ---
-actualPrice: $30.00
+actualPrice: $30.00 - 45.00
 album: Somberlain
 artist: Dissection
 categories:
 - Vinyl
-date: '2022-06-28T05:08:22'
+date: '2022-11-04T05:10:00'
 draft: false
 images:
 - /images/covers/dissection-somberlain.jpg
@@ -21,3 +21,4 @@ title: Dissection - Somberlain
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=24411&sort=pd.name&order=ASC) for $30.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=24532&sort=pd.name&order=ASC) for $30.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=24954&sort=pd.name&order=ASC) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29003&sort=pd.name&order=ASC) for $45.00

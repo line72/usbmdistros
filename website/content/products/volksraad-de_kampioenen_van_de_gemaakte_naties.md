@@ -4,7 +4,7 @@ album: De Kampioenen Van De Gemaakte Naties
 artist: Volksraad
 categories:
 - Vinyl
-date: '2022-10-12T05:00:36'
+date: '2022-11-07T06:00:52'
 draft: false
 images:
 - /images/covers/volksraad-de_kampioenen_van_de_gemaakte_naties.jpg

@@ -6,7 +6,7 @@ categories:
 - Vinyl
 - Cassette
 - CD
-date: '2022-07-08T05:09:01'
+date: '2022-11-09T18:40:12'
 draft: false
 images:
 - /images/covers/hail_conjurer-erotic_hell.jpg
@@ -21,3 +21,4 @@ title: Hail Conjurer - Erotic Hell
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=9109&sort=pd.name&order=ASC) for $8.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=15425&sort=pd.name&order=ASC) for $12.00
+* Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/hail-conjurer-erotic-hell-cd/) for $13.00

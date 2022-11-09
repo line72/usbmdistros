@@ -5,7 +5,7 @@ artist: Archgoat
 categories:
 - Vinyl
 - CD
-date: '2022-10-25T05:25:37'
+date: '2022-10-31T05:09:07'
 draft: false
 images:
 - /images/covers/archgoat-the_luciferian_crown.jpg
@@ -24,5 +24,6 @@ title: Archgoat - The Luciferian Crown
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=24473&sort=pd.name&order=ASC) for $25.00
 * Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/archgoat-the-luciferian-crown-12-gatefold-red-black-splatter-lp/) for $16.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=28704&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=28952&sort=pd.name&order=ASC) for $25.00
 ## CD
 * Purchase from [Debemur Morti](https://debemurmorti.aisamerch.com/item/72311) for $9.99

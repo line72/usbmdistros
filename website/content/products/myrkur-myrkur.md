@@ -1,10 +1,10 @@
 ---
-actualPrice: $15.00
+actualPrice: $15.00 - 25.00
 album: Myrkur
 artist: Myrkur
 categories:
 - Vinyl
-date: '2022-05-20T05:15:09'
+date: '2022-11-09T18:43:13'
 draft: false
 images:
 - /images/covers/myrkur-myrkur.jpg
@@ -14,4 +14,5 @@ title: Myrkur - Myrkur
 ---
 
 ## Vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/used-myrkur-myrkur-ep) for $15.00 :: Black 1st press vinyl
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/used-myrkur-myrkur-ep) for $15.00 :: Black 2014 press vinyl
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/used-myrkur-myrkur-ep) for $25.00 :: Mint/Bone Merge 2014 press

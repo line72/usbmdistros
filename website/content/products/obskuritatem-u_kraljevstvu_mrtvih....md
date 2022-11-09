@@ -5,7 +5,7 @@ artist: Obskuritatem
 categories:
 - Vinyl
 - CD
-date: '2022-09-14T05:14:41'
+date: '2022-10-26T05:13:33'
 draft: false
 images:
 - /images/covers/obskuritatem-u_kraljevstvu_mrtvih....jpg
@@ -20,3 +20,4 @@ title: Obskuritatem - U Kraljevstvu Mrtvih...
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/obskuritatem-u-kraljevstvu-mrtvih-cd) for $15.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=21298&sort=pd.name&order=ASC) for $15.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=27744&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=28727&sort=pd.name&order=ASC) for $15.00

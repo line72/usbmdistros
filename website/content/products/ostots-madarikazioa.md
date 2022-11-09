@@ -6,7 +6,7 @@ categories:
 - Vinyl
 - Cassette
 - CD
-date: '2022-05-04T05:00:31'
+date: '2022-10-30T05:01:06'
 draft: false
 images:
 - /images/covers/ostots-madarikazioa.png

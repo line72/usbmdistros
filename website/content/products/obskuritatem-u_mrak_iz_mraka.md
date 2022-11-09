@@ -5,7 +5,7 @@ artist: Obskuritatem
 categories:
 - Cassette
 - CD
-date: '2022-10-19T05:15:10'
+date: '2022-10-26T05:15:09'
 draft: false
 images:
 - /images/covers/obskuritatem-u_mrak_iz_mraka.png
@@ -20,7 +20,9 @@ title: Obskuritatem - U Mrak iz Mraka
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=26394&sort=pd.name&order=ASC) for $15.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=27746&sort=pd.name&order=ASC) for $15.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=28572&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=28729&sort=pd.name&order=ASC) for $15.00
 ## CD
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/obskuritatem-u-mrak-iz-mraka-cd) for $15.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=21297&sort=pd.name&order=ASC) for $15.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=27745&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=28728&sort=pd.name&order=ASC) for $15.00

@@ -4,7 +4,7 @@ album: "T\xE4yttymys"
 artist: Cosmic Church
 categories:
 - Vinyl
-date: '2022-09-24T05:09:50'
+date: '2022-10-29T05:09:38'
 draft: false
 images:
 - "/images/covers/cosmic_church-t\xE4yttymys.jpg"
@@ -26,3 +26,4 @@ title: "Cosmic Church - T\xE4yttymys"
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=27512&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=27663&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=28101&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=28834&sort=pd.name&order=ASC) for $25.00

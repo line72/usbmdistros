@@ -4,7 +4,7 @@ album: Dripping Papal Blood
 artist: Departure Chandelier
 categories:
 - CD
-date: '2022-07-28T05:11:04'
+date: '2022-11-03T05:12:42'
 draft: false
 images:
 - /images/covers/departure_chandelier-dripping_papal_blood.jpg
@@ -16,3 +16,5 @@ title: Departure Chandelier - Dripping Papal Blood
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=23143&sort=pd.name&order=ASC) for $10.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=24682&sort=pd.name&order=ASC) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=28976&sort=pd.name&order=ASC) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=28988&sort=pd.name&order=ASC) for $10.00

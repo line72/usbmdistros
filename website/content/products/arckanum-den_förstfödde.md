@@ -5,7 +5,7 @@ artist: Arckanum
 categories:
 - Vinyl
 - CD
-date: '2022-08-21T05:25:03'
+date: '2022-10-31T05:09:07'
 draft: false
 images:
 - "/images/covers/arckanum-den_f\xF6rstf\xF6dde.jpg"
@@ -18,5 +18,6 @@ title: "Arckanum - Den f\xF6rstf\xF6dde"
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=19564&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=25182&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=26980&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=28944&sort=pd.name&order=ASC) for $25.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=4382&sort=pd.name&order=ASC) for $5.00

@@ -4,7 +4,7 @@ album: "M\xE4ltr\xE9kzi\xF6nh\xEBxtr\xE9"
 artist: "Vr\xE4ztr\xE9br\xEBzkr\xE9"
 categories:
 - Cassette
-date: '2022-07-02T05:00:53'
+date: '2022-10-30T05:01:05'
 draft: false
 images:
 - "/images/covers/vr\xE4ztr\xE9br\xEBzkr\xE9-m\xE4ltr\xE9kzi\xF6nh\xEBxtr\xE9.png"
