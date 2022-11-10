@@ -7,9 +7,9 @@ categories:
 date: '2022-10-29T05:01:14'
 draft: false
 images:
-- /images/covers/drowning_the_light-catacombs_of_blood.png
+- /images/covers/drowning_the_light-catacombs_of_blood.jpg
 inStock: true
-thumbnailImage: /images/covers/drowning_the_light-catacombs_of_blood-thumb.png
+thumbnailImage: /images/covers/drowning_the_light-catacombs_of_blood-thumb.jpg
 title: Drowning The Light - Catacombs of Blood
 ---
 

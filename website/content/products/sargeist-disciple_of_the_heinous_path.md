@@ -7,9 +7,9 @@ categories:
 date: '2022-11-08T06:15:11'
 draft: false
 images:
-- /images/covers/sargeist-disciple_of_the_heinous_path.png
+- /images/covers/sargeist-disciple_of_the_heinous_path.jpg
 inStock: true
-thumbnailImage: /images/covers/sargeist-disciple_of_the_heinous_path-thumb.png
+thumbnailImage: /images/covers/sargeist-disciple_of_the_heinous_path-thumb.jpg
 title: Sargeist - Disciple of the Heinous Path
 ---
 

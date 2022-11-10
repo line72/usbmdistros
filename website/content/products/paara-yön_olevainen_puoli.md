@@ -7,9 +7,9 @@ categories:
 date: '2022-11-02T05:10:53'
 draft: false
 images:
-- "/images/covers/paara-y\xF6n_olevainen_puoli.png"
+- "/images/covers/paara-y\xF6n_olevainen_puoli.jpg"
 inStock: true
-thumbnailImage: "/images/covers/paara-y\xF6n_olevainen_puoli-thumb.png"
+thumbnailImage: "/images/covers/paara-y\xF6n_olevainen_puoli-thumb.jpg"
 title: "Paara - Y\xF6n olevainen puoli"
 ---
 

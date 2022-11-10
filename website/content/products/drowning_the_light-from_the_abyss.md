@@ -7,9 +7,9 @@ categories:
 date: '2022-10-29T05:01:14'
 draft: false
 images:
-- /images/covers/drowning_the_light-from_the_abyss.png
+- /images/covers/drowning_the_light-from_the_abyss.jpg
 inStock: true
-thumbnailImage: /images/covers/drowning_the_light-from_the_abyss-thumb.png
+thumbnailImage: /images/covers/drowning_the_light-from_the_abyss-thumb.jpg
 title: Drowning The Light - From the Abyss
 ---
 

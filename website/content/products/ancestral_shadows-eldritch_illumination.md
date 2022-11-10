@@ -7,9 +7,9 @@ categories:
 date: '2022-10-29T05:01:14'
 draft: false
 images:
-- /images/covers/ancestral_shadows-eldritch_illumination.png
+- /images/covers/ancestral_shadows-eldritch_illumination.jpg
 inStock: true
-thumbnailImage: /images/covers/ancestral_shadows-eldritch_illumination-thumb.png
+thumbnailImage: /images/covers/ancestral_shadows-eldritch_illumination-thumb.jpg
 title: Ancestral Shadows - Eldritch Illumination
 ---
 

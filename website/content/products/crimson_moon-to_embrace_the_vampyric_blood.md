@@ -7,9 +7,9 @@ categories:
 date: '2022-10-29T05:01:14'
 draft: false
 images:
-- /images/covers/crimson_moon-to_embrace_the_vampyric_blood.png
+- /images/covers/crimson_moon-to_embrace_the_vampyric_blood.jpg
 inStock: true
-thumbnailImage: /images/covers/crimson_moon-to_embrace_the_vampyric_blood-thumb.png
+thumbnailImage: /images/covers/crimson_moon-to_embrace_the_vampyric_blood-thumb.jpg
 title: Crimson Moon - To Embrace the Vampyric Blood
 ---
 

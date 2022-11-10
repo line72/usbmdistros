@@ -7,9 +7,9 @@ categories:
 date: '2022-10-26T05:14:50'
 draft: false
 images:
-- /images/covers/grave_circles-tome_i.png
+- /images/covers/grave_circles-tome_i.jpg
 inStock: true
-thumbnailImage: /images/covers/grave_circles-tome_i-thumb.png
+thumbnailImage: /images/covers/grave_circles-tome_i-thumb.jpg
 title: Grave Circles - Tome I
 ---
 

@@ -7,9 +7,9 @@ categories:
 date: '2022-11-09T18:40:12'
 draft: false
 images:
-- /images/covers/heresiarch-incursions.png
+- /images/covers/heresiarch-incursions.jpg
 inStock: true
-thumbnailImage: /images/covers/heresiarch-incursions-thumb.png
+thumbnailImage: /images/covers/heresiarch-incursions-thumb.jpg
 title: Heresiarch - Incursions
 ---
 

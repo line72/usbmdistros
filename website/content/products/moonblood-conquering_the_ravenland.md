@@ -7,9 +7,9 @@ categories:
 date: '2022-10-28T05:13:31'
 draft: false
 images:
-- /images/covers/moonblood-conquering_the_ravenland.png
+- /images/covers/moonblood-conquering_the_ravenland.jpg
 inStock: true
-thumbnailImage: /images/covers/moonblood-conquering_the_ravenland-thumb.png
+thumbnailImage: /images/covers/moonblood-conquering_the_ravenland-thumb.jpg
 title: Moonblood - Conquering the Ravenland
 ---
 

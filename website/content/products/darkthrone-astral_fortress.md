@@ -7,9 +7,9 @@ categories:
 date: '2022-11-05T01:08:20'
 draft: false
 images:
-- /images/covers/darkthrone-astral_fortress.png
+- /images/covers/darkthrone-astral_fortress.jpg
 inStock: true
-thumbnailImage: /images/covers/darkthrone-astral_fortress-thumb.png
+thumbnailImage: /images/covers/darkthrone-astral_fortress-thumb.jpg
 title: Darkthrone - Astral Fortress
 ---
 

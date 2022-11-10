@@ -7,9 +7,9 @@ categories:
 date: '2022-11-09T18:40:11'
 draft: false
 images:
-- /images/covers/legion_of_doom-for_those_of_the_blood.png
+- /images/covers/legion_of_doom-for_those_of_the_blood.jpg
 inStock: true
-thumbnailImage: /images/covers/legion_of_doom-for_those_of_the_blood-thumb.png
+thumbnailImage: /images/covers/legion_of_doom-for_those_of_the_blood-thumb.jpg
 title: Legion of Doom - For Those of the Blood
 ---
 

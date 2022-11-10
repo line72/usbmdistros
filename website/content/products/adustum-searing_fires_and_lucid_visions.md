@@ -7,9 +7,9 @@ categories:
 date: '2022-10-30T05:12:01'
 draft: false
 images:
-- /images/covers/adustum-searing_fires_and_lucid_visions.png
+- /images/covers/adustum-searing_fires_and_lucid_visions.jpg
 inStock: true
-thumbnailImage: /images/covers/adustum-searing_fires_and_lucid_visions-thumb.png
+thumbnailImage: /images/covers/adustum-searing_fires_and_lucid_visions-thumb.jpg
 title: Adustum - Searing Fires and Lucid Visions
 ---
 

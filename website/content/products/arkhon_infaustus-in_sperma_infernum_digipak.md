@@ -7,9 +7,9 @@ categories:
 date: '2022-11-09T18:40:12'
 draft: false
 images:
-- /images/covers/arkhon_infaustus-in_sperma_infernum_digipak.png
+- /images/covers/arkhon_infaustus-in_sperma_infernum_digipak.jpg
 inStock: true
-thumbnailImage: /images/covers/arkhon_infaustus-in_sperma_infernum_digipak-thumb.png
+thumbnailImage: /images/covers/arkhon_infaustus-in_sperma_infernum_digipak-thumb.jpg
 title: Arkhon Infaustus - In Sperma Infernum DIGIPAK
 ---
 

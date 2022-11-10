@@ -7,9 +7,9 @@ categories:
 date: '2022-11-02T05:11:09'
 draft: false
 images:
-- /images/covers/sepulchral_triumph-saturnian_mysticism.png
+- /images/covers/sepulchral_triumph-saturnian_mysticism.jpg
 inStock: true
-thumbnailImage: /images/covers/sepulchral_triumph-saturnian_mysticism-thumb.png
+thumbnailImage: /images/covers/sepulchral_triumph-saturnian_mysticism-thumb.jpg
 title: Sepulchral Triumph - Saturnian Mysticism
 ---
 

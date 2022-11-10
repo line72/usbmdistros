@@ -7,9 +7,9 @@ categories:
 date: '2022-11-02T05:09:12'
 draft: false
 images:
-- /images/covers/ages_of_blood-vestiges_of_a_fallen_empire.png
+- /images/covers/ages_of_blood-vestiges_of_a_fallen_empire.jpg
 inStock: true
-thumbnailImage: /images/covers/ages_of_blood-vestiges_of_a_fallen_empire-thumb.png
+thumbnailImage: /images/covers/ages_of_blood-vestiges_of_a_fallen_empire-thumb.jpg
 title: Ages of Blood - Vestiges of a Fallen Empire
 ---
 

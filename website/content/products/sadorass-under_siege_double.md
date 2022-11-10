@@ -7,9 +7,9 @@ categories:
 date: '2022-11-09T18:40:11'
 draft: false
 images:
-- /images/covers/sadorass-under_siege_double.png
+- /images/covers/sadorass-under_siege_double.jpg
 inStock: true
-thumbnailImage: /images/covers/sadorass-under_siege_double-thumb.png
+thumbnailImage: /images/covers/sadorass-under_siege_double-thumb.jpg
 title: Sadorass - Under Siege DOUBLE
 ---
 

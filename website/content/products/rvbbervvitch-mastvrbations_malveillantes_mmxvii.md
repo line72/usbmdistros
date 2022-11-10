@@ -7,9 +7,9 @@ categories:
 date: '2022-11-09T18:40:11'
 draft: false
 images:
-- /images/covers/rvbbervvitch-mastvrbations_malveillantes_mmxvii.png
+- /images/covers/rvbbervvitch-mastvrbations_malveillantes_mmxvii.jpg
 inStock: true
-thumbnailImage: /images/covers/rvbbervvitch-mastvrbations_malveillantes_mmxvii-thumb.png
+thumbnailImage: /images/covers/rvbbervvitch-mastvrbations_malveillantes_mmxvii-thumb.jpg
 title: Rvbbervvitch - Mastvrbations Malveillantes MMXVII
 ---
 

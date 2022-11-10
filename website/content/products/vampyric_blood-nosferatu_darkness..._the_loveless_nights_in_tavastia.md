@@ -7,9 +7,9 @@ categories:
 date: '2022-11-07T06:01:35'
 draft: false
 images:
-- /images/covers/vampyric_blood-nosferatu_darkness..._the_loveless_nights_in_tavastia.png
+- /images/covers/vampyric_blood-nosferatu_darkness..._the_loveless_nights_in_tavastia.jpg
 inStock: true
-thumbnailImage: /images/covers/vampyric_blood-nosferatu_darkness..._the_loveless_nights_in_tavastia-thumb.png
+thumbnailImage: /images/covers/vampyric_blood-nosferatu_darkness..._the_loveless_nights_in_tavastia-thumb.jpg
 title: Vampyric Blood - Nosferatu Darkness... the Loveless Nights in Tavastia
 ---
 

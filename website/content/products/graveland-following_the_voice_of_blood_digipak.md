@@ -7,9 +7,9 @@ categories:
 date: '2022-11-09T18:40:12'
 draft: false
 images:
-- /images/covers/graveland-following_the_voice_of_blood_digipak.png
+- /images/covers/graveland-following_the_voice_of_blood_digipak.jpg
 inStock: true
-thumbnailImage: /images/covers/graveland-following_the_voice_of_blood_digipak-thumb.png
+thumbnailImage: /images/covers/graveland-following_the_voice_of_blood_digipak-thumb.jpg
 title: Graveland - Following the Voice of Blood DIGIPAK
 ---
 

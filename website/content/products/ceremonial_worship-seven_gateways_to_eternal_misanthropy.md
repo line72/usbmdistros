@@ -7,9 +7,9 @@ categories:
 date: '2022-11-09T06:27:03'
 draft: false
 images:
-- /images/covers/ceremonial_worship-seven_gateways_to_eternal_misanthropy.png
+- /images/covers/ceremonial_worship-seven_gateways_to_eternal_misanthropy.jpg
 inStock: true
-thumbnailImage: /images/covers/ceremonial_worship-seven_gateways_to_eternal_misanthropy-thumb.png
+thumbnailImage: /images/covers/ceremonial_worship-seven_gateways_to_eternal_misanthropy-thumb.jpg
 title: Ceremonial Worship - Seven Gateways to Eternal Misanthropy
 ---
 

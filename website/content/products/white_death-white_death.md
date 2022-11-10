@@ -7,9 +7,9 @@ categories:
 date: '2022-11-09T18:40:11'
 draft: false
 images:
-- /images/covers/white_death-white_death.png
+- /images/covers/white_death-white_death.jpg
 inStock: true
-thumbnailImage: /images/covers/white_death-white_death-thumb.png
+thumbnailImage: /images/covers/white_death-white_death-thumb.jpg
 title: White Death - White Death
 ---
 

@@ -7,9 +7,9 @@ categories:
 date: '2022-10-30T05:12:15'
 draft: false
 images:
-- /images/covers/bloodhammer-ancient_kings.png
+- /images/covers/bloodhammer-ancient_kings.jpg
 inStock: true
-thumbnailImage: /images/covers/bloodhammer-ancient_kings-thumb.png
+thumbnailImage: /images/covers/bloodhammer-ancient_kings-thumb.jpg
 title: Bloodhammer - Ancient Kings
 ---
 

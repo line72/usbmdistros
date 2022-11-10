@@ -7,9 +7,9 @@ categories:
 date: '2022-10-27T05:11:53'
 draft: false
 images:
-- /images/covers/invunche-sacrificio.png
+- /images/covers/invunche-sacrificio.jpg
 inStock: true
-thumbnailImage: /images/covers/invunche-sacrificio-thumb.png
+thumbnailImage: /images/covers/invunche-sacrificio-thumb.jpg
 title: Invunche - Sacrificio
 ---
 

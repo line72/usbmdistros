@@ -7,9 +7,9 @@ categories:
 date: '2022-11-08T06:14:34'
 draft: false
 images:
-- "/images/covers/maniac_butcher-lu\u010Dan_-_antikrist.png"
+- "/images/covers/maniac_butcher-lu\u010Dan_-_antikrist.jpg"
 inStock: true
-thumbnailImage: "/images/covers/maniac_butcher-lu\u010Dan_-_antikrist-thumb.png"
+thumbnailImage: "/images/covers/maniac_butcher-lu\u010Dan_-_antikrist-thumb.jpg"
 title: "Maniac Butcher - Lu\u010Dan - Antikrist"
 ---
 

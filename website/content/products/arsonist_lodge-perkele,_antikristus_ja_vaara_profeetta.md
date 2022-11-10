@@ -7,9 +7,9 @@ categories:
 date: '2022-10-30T05:12:07'
 draft: false
 images:
-- /images/covers/arsonist_lodge-perkele,_antikristus_ja_vaara_profeetta.png
+- /images/covers/arsonist_lodge-perkele,_antikristus_ja_vaara_profeetta.jpg
 inStock: true
-thumbnailImage: /images/covers/arsonist_lodge-perkele,_antikristus_ja_vaara_profeetta-thumb.png
+thumbnailImage: /images/covers/arsonist_lodge-perkele,_antikristus_ja_vaara_profeetta-thumb.jpg
 title: Arsonist Lodge - Perkele, Antikristus Ja Vaara Profeetta
 ---
 

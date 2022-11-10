@@ -7,9 +7,9 @@ categories:
 date: '2022-11-02T05:00:40'
 draft: false
 images:
-- "/images/covers/cantique_l\xE9preux-sectes_12\"_lp_+.png"
+- "/images/covers/cantique_l\xE9preux-sectes_12\"_lp_+.jpg"
 inStock: true
-thumbnailImage: "/images/covers/cantique_l\xE9preux-sectes_12\"_lp_+-thumb.png"
+thumbnailImage: "/images/covers/cantique_l\xE9preux-sectes_12\"_lp_+-thumb.jpg"
 title: "Cantique L\xE9preux - Sectes 12\" LP +"
 ---
 
