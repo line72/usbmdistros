@@ -4,7 +4,7 @@ album: Forever Night
 artist: Nachtmaar
 categories:
 - Vinyl
-date: '2022-06-29T05:09:15'
+date: '2022-11-11T06:11:53'
 draft: false
 images:
 - /images/covers/nachtmaar-forever_night.jpg
@@ -16,3 +16,4 @@ title: Nachtmaar - Forever Night
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=23367&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=24972&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29157&sort=pd.name&order=ASC) for $25.00

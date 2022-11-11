@@ -5,7 +5,7 @@ artist: Nexul
 categories:
 - Vinyl
 - CD
-date: '2022-10-19T05:10:34'
+date: '2022-11-11T06:11:58'
 draft: false
 images:
 - /images/covers/nexul-scythed_wings_of_poisonous_decay.jpg
@@ -20,6 +20,7 @@ title: Nexul - Scythed Wings of Poisonous Decay
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/nexul-scythed-wings-of-poisonous-decay) for $27.00 :: Gold 1st press vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=18957&sort=pd.name&order=ASC) for $20.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=28582&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29160&sort=pd.name&order=ASC) for $20.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=13608&sort=pd.name&order=ASC) for $10.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=18958&sort=pd.name&order=ASC) for $10.00

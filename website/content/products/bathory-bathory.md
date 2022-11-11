@@ -5,7 +5,7 @@ artist: Bathory
 categories:
 - Vinyl
 - Cassette
-date: '2022-08-12T05:13:58'
+date: '2022-11-11T06:10:23'
 draft: false
 images:
 - /images/covers/bathory-bathory.jpg
@@ -29,6 +29,7 @@ title: Bathory - Bathory
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=23211&sort=pd.name&order=ASC) for $35.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=23209&sort=pd.name&order=ASC) for $27.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=23342&sort=pd.name&order=ASC) for $35.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29168&sort=pd.name&order=ASC) for $27.00
 ## Cassette
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=17529&sort=pd.name&order=ASC) for $12.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=19179&sort=pd.name&order=ASC) for $12.00
