@@ -1,11 +1,12 @@
 ---
-actualPrice: $10.00 - 15.00
+actualPrice: $10.00 - 30.00
 album: Shem Ha Mephorash
 artist: Mephorash
 categories:
+- Vinyl
 - Cassette
 - CD
-date: '2022-10-19T05:13:21'
+date: '2022-11-12T06:11:32'
 draft: false
 images:
 - /images/covers/mephorash-shem_ha_mephorash.jpg
@@ -14,6 +15,8 @@ thumbnailImage: /images/covers/mephorash-shem_ha_mephorash-thumb.jpg
 title: Mephorash - Shem Ha Mephorash
 ---
 
+## Vinyl
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29180&sort=pd.name&order=ASC) for $30.00
 ## Cassette
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=18460&sort=pd.name&order=ASC) for $10.00
 ## CD
