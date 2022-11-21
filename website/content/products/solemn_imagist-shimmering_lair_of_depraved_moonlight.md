@@ -4,7 +4,7 @@ album: Shimmering Lair of Depraved Moonlight
 artist: Solemn Imagist
 categories:
 - Vinyl
-date: '2022-10-08T05:11:02'
+date: '2022-11-18T06:12:38'
 draft: false
 images:
 - /images/covers/solemn_imagist-shimmering_lair_of_depraved_moonlight.jpg
@@ -18,3 +18,4 @@ title: Solemn Imagist - Shimmering Lair of Depraved Moonlight
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=20151&sort=pd.name&order=ASC) for $28.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=20258&sort=pd.name&order=ASC) for $28.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=28244&sort=pd.name&order=ASC) for $28.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29318&sort=pd.name&order=ASC) for $28.00

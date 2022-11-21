@@ -1,12 +1,12 @@
 ---
-actualPrice: $11.50 - 29.00
+actualPrice: $9.00 - 29.00
 album: Methods Of Human Disposal
 artist: Gravesend
 categories:
 - Vinyl
 - Cassette
 - CD
-date: '2022-08-27T05:18:58'
+date: '2022-11-20T06:03:10'
 draft: false
 images:
 - /images/covers/gravesend-methods_of_human_disposal.jpg
@@ -24,4 +24,4 @@ title: Gravesend - Methods Of Human Disposal
 ## Cassette
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/gravesend-methods-of-human-disposal-cassette) for $14.00 :: Cassette Tape 2021 press
 ## CD
-* Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/31998265-gravesend-methods-of-human-disposal-cd) for $11.50
+* Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/31998265-gravesend-methods-of-human-disposal-cd) for $9.00

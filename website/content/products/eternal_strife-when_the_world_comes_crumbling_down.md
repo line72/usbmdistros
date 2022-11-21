@@ -5,7 +5,7 @@ artist: Eternal Strife
 categories:
 - Vinyl
 - CD
-date: '2022-07-19T15:43:37'
+date: '2022-11-20T06:18:36'
 draft: false
 images:
 - /images/covers/eternal_strife-when_the_world_comes_crumbling_down.jpg
@@ -18,3 +18,4 @@ title: Eternal Strife - When the World Comes Crumbling Down
 * Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/eternal-strife-when-the-world-comes-crumbling-down-12/) for $30.00
 ## CD
 * Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/eternal-strife-when-the-world-comes-crumbling-down-cd/) for $10.00
+* Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/eternal-strife-when-the-world-comes-crumbling-down-cd/) for $12.00

@@ -4,7 +4,7 @@ album: Waqan / Wastow
 artist: Ifernach
 categories:
 - Vinyl
-date: '2021-08-10T05:08:47'
+date: '2022-11-21T06:01:11'
 draft: false
 images:
 - /images/covers/ifernach-waqan_-_wastow.jpg

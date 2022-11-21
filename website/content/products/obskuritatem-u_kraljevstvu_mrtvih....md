@@ -5,7 +5,7 @@ artist: Obskuritatem
 categories:
 - Vinyl
 - CD
-date: '2022-11-12T06:15:19'
+date: '2022-11-18T06:15:49'
 draft: false
 images:
 - /images/covers/obskuritatem-u_kraljevstvu_mrtvih....jpg
@@ -22,3 +22,4 @@ title: Obskuritatem - U Kraljevstvu Mrtvih...
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=27744&sort=pd.name&order=ASC) for $15.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=28727&sort=pd.name&order=ASC) for $15.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=29197&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=29346&sort=pd.name&order=ASC) for $15.00

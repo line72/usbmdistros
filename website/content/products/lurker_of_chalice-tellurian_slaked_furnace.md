@@ -5,7 +5,7 @@ artist: Lurker Of Chalice
 categories:
 - Vinyl
 - CD
-date: '2022-08-17T05:10:15'
+date: '2022-11-18T06:11:42'
 draft: false
 images:
 - /images/covers/lurker_of_chalice-tellurian_slaked_furnace.jpg
@@ -20,5 +20,6 @@ title: Lurker Of Chalice - Tellurian Slaked Furnace
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=24306&sort=pd.name&order=ASC) for $30.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=25437&sort=pd.name&order=ASC) for $30.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=26833&sort=pd.name&order=ASC) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29333&sort=pd.name&order=ASC) for $30.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=6579&sort=pd.name&order=ASC) for $9.00

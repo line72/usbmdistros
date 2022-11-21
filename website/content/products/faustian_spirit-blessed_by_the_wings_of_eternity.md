@@ -1,10 +1,11 @@
 ---
-actualPrice: $15.00
+actualPrice: $15.00 - 33.00
 album: Blessed by the Wings of Eternity
 artist: Faustian Spirit
 categories:
+- Vinyl
 - CD
-date: '2022-06-18T05:00:54'
+date: '2022-11-18T06:00:41'
 draft: false
 images:
 - /images/covers/faustian_spirit-blessed_by_the_wings_of_eternity.jpg
@@ -13,5 +14,7 @@ thumbnailImage: /images/covers/faustian_spirit-blessed_by_the_wings_of_eternity-
 title: Faustian Spirit - Blessed by the Wings of Eternity
 ---
 
+## Vinyl
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/faustian-spirit-blessed-by-the-wings-of-eternity-12-lp) for $33.00
 ## CD
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/faustian-spirit-blessed-by-the-wings-of-eternity-cd) for $15.00

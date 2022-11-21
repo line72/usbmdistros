@@ -4,7 +4,7 @@ album: Vilsna Andars Utmark
 artist: Grift
 categories:
 - Vinyl
-date: '2022-11-09T06:29:50'
+date: '2022-11-17T06:13:56'
 draft: false
 images:
 - /images/covers/grift-vilsna_andars_utmark.jpg
@@ -15,3 +15,4 @@ title: Grift - Vilsna Andars Utmark
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=29109&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=29276&sort=pd.name&order=ASC) for $12.00

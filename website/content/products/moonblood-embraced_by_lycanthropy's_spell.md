@@ -5,7 +5,7 @@ artist: Moonblood
 categories:
 - Vinyl
 - CD
-date: '2022-10-28T05:10:31'
+date: '2022-11-17T06:12:19'
 draft: false
 images:
 - /images/covers/moonblood-embraced_by_lycanthropy's_spell.jpg
@@ -17,6 +17,7 @@ title: Moonblood - Embraced by Lycanthropy's Spell
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=24969&sort=pd.name&order=ASC) for $30.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=28801&sort=pd.name&order=ASC) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29295&sort=pd.name&order=ASC) for $30.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=18348&sort=pd.name&order=ASC) for $20.00
 * Purchase from [CW Productions](https://shop.cwproductions.net/products/moonblood-embraced-by-lycanthropys-spell-2cd) for $18.00
