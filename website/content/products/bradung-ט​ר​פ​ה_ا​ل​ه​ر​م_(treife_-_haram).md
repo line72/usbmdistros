@@ -10,10 +10,10 @@ date: '2022-11-17T06:14:44'
 draft: false
 images:
 - "/images/covers/bradung-\u05D8\u200B\u05E8\u200B\u05E4\u200B\u05D4_\u0627\u200B\u0644\
-  \u200B\u0647\u200B\u0631\u200B\u0645_(treife_-_haram).png"
+  \u200B\u0647\u200B\u0631\u200B\u0645_(treife_-_haram).jpg"
 inStock: true
 thumbnailImage: "/images/covers/bradung-\u05D8\u200B\u05E8\u200B\u05E4\u200B\u05D4\
-  _\u0627\u200B\u0644\u200B\u0647\u200B\u0631\u200B\u0645_(treife_-_haram)-thumb.png"
+  _\u0627\u200B\u0644\u200B\u0647\u200B\u0631\u200B\u0645_(treife_-_haram)-thumb.jpg"
 title: "Bradung - \u05D8\u200B\u05E8\u200B\u05E4\u200B\u05D4 \u0627\u200B\u0644\u200B\
   \u0647\u200B\u0631\u200B\u0645 (Treife / Haram)"
 ---

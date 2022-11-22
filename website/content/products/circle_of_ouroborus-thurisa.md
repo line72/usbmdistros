@@ -7,9 +7,9 @@ categories:
 date: '2022-11-17T06:14:49'
 draft: false
 images:
-- /images/covers/circle_of_ouroborus-thurisa.png
+- /images/covers/circle_of_ouroborus-thurisa.jpg
 inStock: true
-thumbnailImage: /images/covers/circle_of_ouroborus-thurisa-thumb.png
+thumbnailImage: /images/covers/circle_of_ouroborus-thurisa-thumb.jpg
 title: Circle of Ouroborus - Thurisa
 ---
 

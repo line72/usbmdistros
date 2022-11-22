@@ -4,7 +4,7 @@ album: Antichrist
 artist: Gorgoroth
 categories:
 - Vinyl
-date: '2022-11-08T06:10:41'
+date: '2022-11-22T06:11:53'
 draft: false
 images:
 - /images/covers/gorgoroth-antichrist.jpg
@@ -17,3 +17,4 @@ title: Gorgoroth - Antichrist
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=28033&sort=pd.name&order=ASC) for $27.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=28116&sort=pd.name&order=ASC) for $27.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29059&sort=pd.name&order=ASC) for $27.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29406&sort=pd.name&order=ASC) for $27.00

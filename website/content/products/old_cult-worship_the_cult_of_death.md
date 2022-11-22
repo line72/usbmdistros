@@ -7,9 +7,9 @@ categories:
 date: '2022-11-18T06:15:50'
 draft: false
 images:
-- /images/covers/old_cult-worship_the_cult_of_death.png
+- /images/covers/old_cult-worship_the_cult_of_death.jpg
 inStock: true
-thumbnailImage: /images/covers/old_cult-worship_the_cult_of_death-thumb.png
+thumbnailImage: /images/covers/old_cult-worship_the_cult_of_death-thumb.jpg
 title: Old Cult - Worship the Cult of Death
 ---
 

@@ -4,7 +4,7 @@ album: Cast in Dark Grandeur
 artist: Nither
 categories:
 - CD
-date: '2022-10-29T05:01:14'
+date: '2022-11-22T06:01:58'
 draft: false
 images:
 - /images/covers/nither-cast_in_dark_grandeur.jpg
