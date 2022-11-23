@@ -4,7 +4,7 @@ album: Sventevith
 artist: Behemoth
 categories:
 - Vinyl
-date: '2022-07-20T05:08:08'
+date: '2022-11-23T06:10:42'
 draft: false
 images:
 - /images/covers/behemoth-sventevith.jpg
@@ -18,3 +18,4 @@ title: Behemoth - Sventevith
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=18624&sort=pd.name&order=ASC) for $20.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=20631&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=25484&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29512&sort=pd.name&order=ASC) for $25.00

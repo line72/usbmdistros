@@ -4,7 +4,7 @@ album: Astral Sleep
 artist: Tiamat
 categories:
 - Vinyl
-date: '2022-05-21T05:09:48'
+date: '2022-11-23T06:13:16'
 draft: false
 images:
 - /images/covers/tiamat-astral_sleep.jpg
@@ -15,3 +15,4 @@ title: Tiamat - Astral Sleep
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=23527&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29568&sort=pd.name&order=ASC) for $25.00

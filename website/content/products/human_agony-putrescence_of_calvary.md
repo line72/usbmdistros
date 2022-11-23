@@ -6,7 +6,7 @@ categories:
 - Vinyl
 - Cassette
 - CD
-date: '2022-06-17T05:09:20'
+date: '2022-11-23T06:11:44'
 draft: false
 images:
 - /images/covers/human_agony-putrescence_of_calvary.png
@@ -19,6 +19,7 @@ title: Human Agony - Putrescence of Calvary
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=17639&sort=pd.name&order=ASC) for $20.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=23978&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=24514&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29514&sort=pd.name&order=ASC) for $25.00
 ## Cassette
 * Purchase from [CW Productions](https://shop.cwproductions.net/products/human-agony-putrescence-of-calvary-tape) for $8.00
 ## CD

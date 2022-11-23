@@ -5,7 +5,7 @@ artist: Striborg
 categories:
 - Vinyl
 - Cassette
-date: '2022-08-21T05:26:53'
+date: '2022-11-23T06:18:32'
 draft: false
 images:
 - /images/covers/striborg-ghostwoodlands.png
@@ -19,3 +19,4 @@ title: Striborg - Ghostwoodlands
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=26998&sort=pd.name&order=ASC) for $27.00
 ## Cassette
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=17804&sort=pd.name&order=ASC) for $8.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=29544&sort=pd.name&order=ASC) for $10.00

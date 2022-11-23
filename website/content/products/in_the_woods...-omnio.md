@@ -4,7 +4,7 @@ album: Omnio
 artist: In The Woods...
 categories:
 - Vinyl
-date: '2022-08-12T05:09:34'
+date: '2022-11-23T06:11:48'
 draft: false
 images:
 - /images/covers/in_the_woods...-omnio.jpg
@@ -17,3 +17,4 @@ title: In The Woods... - Omnio
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=21226&sort=pd.name&order=ASC) for $30.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=24246&sort=pd.name&order=ASC) for $30.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=26487&sort=pd.name&order=ASC) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29460&sort=pd.name&order=ASC) for $30.00

@@ -4,7 +4,7 @@ album: The Grand Torturers Of Hell
 artist: Cult Of Daath
 categories:
 - Vinyl
-date: '2022-04-29T05:08:14'
+date: '2022-11-23T06:11:02'
 draft: false
 images:
 - /images/covers/cult_of_daath-the_grand_torturers_of_hell.jpg
@@ -17,3 +17,4 @@ title: Cult Of Daath - The Grand Torturers Of Hell
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=16742&sort=pd.name&order=ASC) for $28.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=20617&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=22887&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29527&sort=pd.name&order=ASC) for $25.00

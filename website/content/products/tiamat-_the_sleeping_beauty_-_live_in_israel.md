@@ -4,7 +4,7 @@ album: ' The sleeping beauty - Live in Israel'
 artist: Tiamat
 categories:
 - Vinyl
-date: '2021-11-30T13:35:28'
+date: '2022-11-23T06:13:16'
 draft: false
 images:
 - /images/covers/tiamat-_the_sleeping_beauty_-_live_in_israel.jpg
@@ -15,3 +15,4 @@ title: Tiamat -  The sleeping beauty - Live in Israel
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=10315&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29567&sort=pd.name&order=ASC) for $25.00

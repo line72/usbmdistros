@@ -4,7 +4,7 @@ album: The Seventh Day Of Doom
 artist: Tormentor
 categories:
 - Vinyl
-date: '2022-01-18T06:08:22'
+date: '2022-11-23T06:13:17'
 draft: false
 images:
 - /images/covers/tormentor-the_seventh_day_of_doom.jpg
@@ -18,3 +18,4 @@ title: Tormentor - The Seventh Day Of Doom
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=18761&sort=pd.name&order=ASC) for $45.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=19389&sort=pd.name&order=ASC) for $45.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=20356&sort=pd.name&order=ASC) for $45.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29571&sort=pd.name&order=ASC) for $45.00
