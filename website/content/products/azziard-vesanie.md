@@ -1,10 +1,10 @@
 ---
-actualPrice: $6.00
+actualPrice: $3.60
 album: Vesanie
 artist: Azziard
 categories:
 - CD
-date: '2021-11-30T13:35:34'
+date: '2022-11-24T06:10:48'
 draft: false
 images:
 - /images/covers/azziard-vesanie.jpg
@@ -14,4 +14,4 @@ title: Azziard - Vesanie
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=1870&sort=pd.name&order=ASC) for $6.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=1870&sort=pd.name&order=ASC) for $3.60

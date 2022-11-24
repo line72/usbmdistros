@@ -1,10 +1,10 @@
 ---
-actualPrice: $5.00
+actualPrice: $3.50
 album: Neurotransmissions
 artist: Code
 categories:
 - CD
-date: '2021-11-30T13:35:36'
+date: '2022-11-24T06:10:50'
 draft: false
 images:
 - /images/covers/code-neurotransmissions.jpg
@@ -14,4 +14,4 @@ title: Code - Neurotransmissions
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=16668&sort=pd.name&order=ASC) for $5.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=16668&sort=pd.name&order=ASC) for $3.50

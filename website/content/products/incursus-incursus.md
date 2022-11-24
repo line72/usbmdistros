@@ -1,10 +1,10 @@
 ---
-actualPrice: $8.00
+actualPrice: $6.40
 album: Incursus
 artist: Incursus
 categories:
 - Vinyl
-date: '2022-08-10T13:48:40'
+date: '2022-11-24T06:10:43'
 draft: false
 images:
 - /images/covers/incursus-incursus.png
@@ -14,4 +14,4 @@ title: Incursus - Incursus
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=26177&sort=pd.name&order=ASC) for $8.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=26177&sort=pd.name&order=ASC) for $6.40

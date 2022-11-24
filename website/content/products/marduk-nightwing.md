@@ -5,7 +5,7 @@ artist: Marduk
 categories:
 - Vinyl
 - CD
-date: '2022-10-20T05:13:49'
+date: '2022-11-24T06:10:58'
 draft: false
 images:
 - /images/covers/marduk-nightwing.jpg
@@ -19,4 +19,4 @@ title: Marduk - Nightwing
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=24553&sort=pd.name&order=ASC) for $25.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=20013&sort=pd.name&order=ASC) for $17.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=28598&sort=pd.name&order=ASC) for $17.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=28598&sort=pd.name&order=ASC) for $13.60

@@ -1,10 +1,10 @@
 ---
-actualPrice: $8.00 - 10.00
+actualPrice: $6.00 - 8.00
 album: Cold Moon Blasphemies
 artist: Spiritwood
 categories:
 - CD
-date: '2021-11-30T13:35:47'
+date: '2022-11-24T06:11:05'
 draft: false
 images:
 - /images/covers/spiritwood-cold_moon_blasphemies.png
@@ -14,5 +14,5 @@ title: Spiritwood - Cold Moon Blasphemies
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=5229&sort=pd.name&order=ASC) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=5229&sort=pd.name&order=ASC) for $6.00
 * Purchase from [Sto'Vo'Kor Records](https://stovokor-records.com/products/spiritwood-cold-moon-blasphemies) for $8.00

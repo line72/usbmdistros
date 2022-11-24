@@ -1,11 +1,11 @@
 ---
-actualPrice: $8.00 - 30.00
+actualPrice: $6.40 - 30.00
 album: De Grote Sterfte
 artist: Gevlerkt
 categories:
 - Vinyl
 - CD
-date: '2022-09-15T05:13:27'
+date: '2022-11-24T06:10:53'
 draft: false
 images:
 - /images/covers/gevlerkt-de_grote_sterfte.jpg
@@ -18,4 +18,4 @@ title: Gevlerkt - De Grote Sterfte
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=22026&sort=pd.name&order=ASC) for $30.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=3074&sort=pd.name&order=ASC) for $10.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=27767&sort=pd.name&order=ASC) for $8.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=27767&sort=pd.name&order=ASC) for $6.40

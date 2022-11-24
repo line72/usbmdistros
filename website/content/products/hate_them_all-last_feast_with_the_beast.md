@@ -1,10 +1,10 @@
 ---
-actualPrice: $7.00
+actualPrice: $4.20
 album: Last Feast with the Beast
 artist: Hate Them All
 categories:
 - CD
-date: '2021-11-30T13:35:40'
+date: '2022-11-24T06:10:55'
 draft: false
 images:
 - /images/covers/hate_them_all-last_feast_with_the_beast.jpg
@@ -14,4 +14,4 @@ title: Hate Them All - Last Feast with the Beast
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=1596&sort=pd.name&order=ASC) for $7.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=1596&sort=pd.name&order=ASC) for $4.20

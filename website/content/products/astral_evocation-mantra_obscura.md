@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00
+actualPrice: $8.40
 album: Mantra Obscura
 artist: Astral Evocation
 categories:
 - Cassette
-date: '2021-12-14T06:08:05'
+date: '2022-11-24T06:11:10'
 draft: false
 images:
 - /images/covers/astral_evocation-mantra_obscura.jpg
@@ -14,4 +14,4 @@ title: Astral Evocation - Mantra Obscura
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=19661&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=19661&sort=pd.name&order=ASC) for $8.40

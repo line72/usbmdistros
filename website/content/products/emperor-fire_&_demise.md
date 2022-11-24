@@ -1,10 +1,10 @@
 ---
-actualPrice: $270.00
+actualPrice: $216.00 - 270.00
 album: Fire & Demise
 artist: Emperor
 categories:
 - Cassette
-date: '2022-11-22T06:17:50'
+date: '2022-11-24T06:11:12'
 draft: false
 images:
 - /images/covers/emperor-fire_&_demise.jpg
@@ -24,4 +24,4 @@ title: Emperor - Fire & Demise
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=25569&sort=pd.name&order=ASC) for $270.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=26053&sort=pd.name&order=ASC) for $270.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=27255&sort=pd.name&order=ASC) for $270.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=29396&sort=pd.name&order=ASC) for $270.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=29396&sort=pd.name&order=ASC) for $216.00

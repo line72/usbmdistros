@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00
+actualPrice: $9.60
 album: Complete Studio Collection
 artist: Syphilitic Vaginas
 categories:
 - CD
-date: '2022-05-03T05:11:21'
+date: '2022-11-24T06:11:05'
 draft: false
 images:
 - /images/covers/syphilitic_vaginas-complete_studio_collection.jpg
@@ -14,4 +14,4 @@ title: Syphilitic Vaginas - Complete Studio Collection
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=22952&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=22952&sort=pd.name&order=ASC) for $9.60

@@ -1,10 +1,10 @@
 ---
-actualPrice: $25.00
+actualPrice: $20.00 - 25.00
 album: In The Eyes Of Death
 artist: Necromancy
 categories:
 - Vinyl
-date: '2022-07-20T05:09:18'
+date: '2022-11-24T06:10:31'
 draft: false
 images:
 - /images/covers/necromancy-in_the_eyes_of_death.jpg
@@ -15,4 +15,4 @@ title: Necromancy - In The Eyes Of Death
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=19881&sort=pd.name&order=ASC) for $25.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=25532&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=25532&sort=pd.name&order=ASC) for $20.00

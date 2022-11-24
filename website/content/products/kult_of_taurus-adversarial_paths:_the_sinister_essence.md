@@ -1,10 +1,10 @@
 ---
-actualPrice: $17.00
+actualPrice: $10.19
 album: 'Adversarial Paths: The Sinister Essence'
 artist: Kult of Taurus
 categories:
 - Vinyl
-date: '2021-11-30T13:35:21'
+date: '2022-11-24T06:10:27'
 draft: false
 images:
 - /images/covers/kult_of_taurus-adversarial_paths:_the_sinister_essence.jpg
@@ -14,4 +14,4 @@ title: 'Kult of Taurus - Adversarial Paths: The Sinister Essence'
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=2112&sort=pd.name&order=ASC) for $17.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=2112&sort=pd.name&order=ASC) for $10.19

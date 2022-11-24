@@ -1,10 +1,10 @@
 ---
-actualPrice: $5.00
+actualPrice: $3.00
 album: Thy Kingdom Crushed
 artist: Scorched Earth
 categories:
 - Cassette
-date: '2021-11-30T13:35:56'
+date: '2022-11-24T06:11:19'
 draft: false
 images:
 - /images/covers/scorched_earth-thy_kingdom_crushed.jpg
@@ -14,4 +14,4 @@ title: Scorched Earth - Thy Kingdom Crushed
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=1333&sort=pd.name&order=ASC) for $5.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=1333&sort=pd.name&order=ASC) for $3.00

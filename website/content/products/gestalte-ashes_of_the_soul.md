@@ -1,10 +1,10 @@
 ---
-actualPrice: $10.00
+actualPrice: $6.00
 album: Ashes of the Soul
 artist: Gestalte
 categories:
 - CD
-date: '2021-11-30T13:35:39'
+date: '2022-11-24T06:10:53'
 draft: false
 images:
 - /images/covers/gestalte-ashes_of_the_soul.jpg
@@ -14,4 +14,4 @@ title: Gestalte - Ashes of the Soul
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=5708&sort=pd.name&order=ASC) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=5708&sort=pd.name&order=ASC) for $6.00

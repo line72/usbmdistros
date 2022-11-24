@@ -1,11 +1,11 @@
 ---
-actualPrice: $10.00 - 12.00
+actualPrice: $6.00 - 12.00
 album: The Grande Usurper
 artist: Ill Omen
 categories:
 - Vinyl
 - CD
-date: '2022-07-19T15:45:44'
+date: '2022-11-24T06:10:55'
 draft: false
 images:
 - /images/covers/ill_omen-the_grande_usurper.jpg
@@ -17,4 +17,4 @@ title: Ill Omen - The Grande Usurper
 ## Vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/used-ill-omen-the-grande-usurper-lp) for $12.00 :: Black 2018 press vinyl
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=14696&sort=pd.name&order=ASC) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=14696&sort=pd.name&order=ASC) for $6.00

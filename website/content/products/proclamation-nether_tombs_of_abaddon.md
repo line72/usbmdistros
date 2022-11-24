@@ -1,12 +1,12 @@
 ---
-actualPrice: $6.30 - 25.00
+actualPrice: $6.30 - 12.50
 album: Nether Tombs of Abaddon
 artist: Proclamation
 categories:
 - Vinyl
 - Cassette
 - CD
-date: '2022-07-28T05:12:03'
+date: '2022-11-24T06:10:33'
 draft: false
 images:
 - /images/covers/proclamation-nether_tombs_of_abaddon.jpg
@@ -16,7 +16,7 @@ title: Proclamation - Nether Tombs of Abaddon
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=11912&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=11912&sort=pd.name&order=ASC) for $12.50
 ## Cassette
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=10213&sort=pd.name&order=ASC) for $6.30
 ## CD

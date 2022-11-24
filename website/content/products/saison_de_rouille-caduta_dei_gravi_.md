@@ -1,10 +1,10 @@
 ---
-actualPrice: $17.00
+actualPrice: $10.19
 album: 'Caduta Dei Gravi '
 artist: Saison de Rouille
 categories:
 - Vinyl
-date: '2021-11-30T13:35:26'
+date: '2022-11-24T06:10:34'
 draft: false
 images:
 - /images/covers/saison_de_rouille-caduta_dei_gravi_.jpg
@@ -14,4 +14,4 @@ title: 'Saison de Rouille - Caduta Dei Gravi '
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=773&sort=pd.name&order=ASC) for $17.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=773&sort=pd.name&order=ASC) for $10.19

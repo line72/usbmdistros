@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00
+actualPrice: $7.20
 album: Viddernas Tolv Kapitel
 artist: "L\xD6NNDOM"
 categories:
 - CD
-date: '2021-11-30T13:35:42'
+date: '2022-11-24T06:10:57'
 draft: false
 images:
 - "/images/covers/l\xF6nndom-viddernas_tolv_kapitel.jpg"
@@ -14,4 +14,4 @@ title: "L\xD6NNDOM - Viddernas Tolv Kapitel"
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=11687&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=11687&sort=pd.name&order=ASC) for $7.20

@@ -1,10 +1,10 @@
 ---
-actualPrice: $8.00
+actualPrice: $4.80
 album: The Wind of Hate Arises...
 artist: Danaknernacht
 categories:
 - Cassette
-date: '2021-11-30T13:35:52'
+date: '2022-11-24T06:11:11'
 draft: false
 images:
 - /images/covers/danaknernacht-the_wind_of_hate_arises....png
@@ -14,4 +14,4 @@ title: Danaknernacht - The Wind of Hate Arises...
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=3741&sort=pd.name&order=ASC) for $8.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=3741&sort=pd.name&order=ASC) for $4.80

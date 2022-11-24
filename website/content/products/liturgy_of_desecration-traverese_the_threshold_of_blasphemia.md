@@ -1,10 +1,10 @@
 ---
-actualPrice: $10.00
+actualPrice: $8.00
 album: Traverese the Threshold of Blasphemia
 artist: Liturgy Of Desecration
 categories:
 - Cassette
-date: '2022-04-13T05:11:08'
+date: '2022-11-24T06:11:16'
 draft: false
 images:
 - /images/covers/liturgy_of_desecration-traverese_the_threshold_of_blasphemia.png
@@ -14,4 +14,4 @@ title: Liturgy Of Desecration - Traverese the Threshold of Blasphemia
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=22402&sort=pd.name&order=ASC) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=22402&sort=pd.name&order=ASC) for $8.00

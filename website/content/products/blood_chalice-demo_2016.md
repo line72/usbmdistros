@@ -1,11 +1,11 @@
 ---
-actualPrice: $15.00 - 20.00
+actualPrice: $10.50 - 20.00
 album: Demo 2016
 artist: Blood Chalice
 categories:
 - Vinyl
 - CD
-date: '2021-12-30T06:07:14'
+date: '2022-11-24T06:10:49'
 draft: false
 images:
 - /images/covers/blood_chalice-demo_2016.png
@@ -18,4 +18,4 @@ title: Blood Chalice - Demo 2016
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=18542&sort=pd.name&order=ASC) for $20.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=19958&sort=pd.name&order=ASC) for $20.00
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=18496&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=18496&sort=pd.name&order=ASC) for $10.50

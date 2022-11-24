@@ -1,11 +1,11 @@
 ---
-actualPrice: $15.00 - 30.00
+actualPrice: $12.00 - 30.00
 album: Hammerheart
 artist: Bathory
 categories:
 - Vinyl
 - Cassette
-date: '2022-09-20T05:09:32'
+date: '2022-11-24T06:11:10'
 draft: false
 images:
 - /images/covers/bathory-hammerheart.jpg
@@ -26,4 +26,4 @@ title: Bathory - Hammerheart
 ## Cassette
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=22487&sort=pd.name&order=ASC) for $15.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=24036&sort=pd.name&order=ASC) for $15.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=26369&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=26369&sort=pd.name&order=ASC) for $12.00

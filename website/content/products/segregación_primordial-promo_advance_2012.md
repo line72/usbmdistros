@@ -1,10 +1,10 @@
 ---
-actualPrice: $6.00
+actualPrice: $3.60
 album: Promo Advance 2012
 artist: "Segregaci\xF3n Primordial"
 categories:
 - Cassette
-date: '2021-11-30T13:35:56'
+date: '2022-11-24T06:11:19'
 draft: false
 images:
 - "/images/covers/segregaci\xF3n_primordial-promo_advance_2012.jpg"
@@ -14,4 +14,4 @@ title: "Segregaci\xF3n Primordial - Promo Advance 2012"
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=1946&sort=pd.name&order=ASC) for $6.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=1946&sort=pd.name&order=ASC) for $3.60

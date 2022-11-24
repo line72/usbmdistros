@@ -5,7 +5,7 @@ artist: Hexella
 categories:
 - Cassette
 - CD
-date: '2022-04-18T05:12:38'
+date: '2022-11-24T06:11:13'
 draft: false
 images:
 - /images/covers/hexella-a_road_in_hell.jpg
@@ -17,6 +17,6 @@ title: Hexella - A Road In Hell
 ## Cassette
 * Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/35148457-hexella-a-road-in-hell) for $8.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=22416&sort=pd.name&order=ASC) for $10.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=22691&sort=pd.name&order=ASC) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=22691&sort=pd.name&order=ASC) for $8.00
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=22692&sort=pd.name&order=ASC) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=22692&sort=pd.name&order=ASC) for $8.00

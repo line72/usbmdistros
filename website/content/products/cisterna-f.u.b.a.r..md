@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00
+actualPrice: $9.60
 album: F.U.B.A.R.
 artist: Cisterna
 categories:
 - Cassette
-date: '2022-03-08T06:10:33'
+date: '2022-11-24T06:11:11'
 draft: false
 images:
 - /images/covers/cisterna-f.u.b.a.r..jpg
@@ -14,4 +14,4 @@ title: Cisterna - F.U.B.A.R.
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=21405&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=21405&sort=pd.name&order=ASC) for $9.60

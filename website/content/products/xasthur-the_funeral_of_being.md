@@ -1,10 +1,10 @@
 ---
-actualPrice: $25.00 - 39.00
+actualPrice: $20.00 - 39.00
 album: The Funeral Of Being
 artist: Xasthur
 categories:
 - Vinyl
-date: '2022-10-25T05:28:00'
+date: '2022-11-24T06:10:40'
 draft: false
 images:
 - /images/covers/xasthur-the_funeral_of_being.jpg
@@ -18,4 +18,4 @@ title: Xasthur - The Funeral Of Being
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=20806&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=20922&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=28294&sort=pd.name&order=ASC) for $25.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=28726&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=28726&sort=pd.name&order=ASC) for $20.00

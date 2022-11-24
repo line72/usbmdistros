@@ -1,10 +1,10 @@
 ---
-actualPrice: $7.00
+actualPrice: $4.20
 album: Bestial Division / Live In Izhevsk
 artist: Bestial
 categories:
 - Cassette
-date: '2021-11-30T13:35:51'
+date: '2022-11-24T06:11:10'
 draft: false
 images:
 - /images/covers/bestial-bestial_division_-_live_in_izhevsk.png
@@ -14,4 +14,4 @@ title: Bestial - Bestial Division / Live In Izhevsk
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=11148&sort=pd.name&order=ASC) for $7.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=11148&sort=pd.name&order=ASC) for $4.20

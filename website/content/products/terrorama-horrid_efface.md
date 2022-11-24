@@ -1,10 +1,10 @@
 ---
-actualPrice: $20.00 - 25.00
+actualPrice: $10.00 - 12.50
 album: Horrid Efface
 artist: Terrorama
 categories:
 - Vinyl
-date: '2022-07-28T05:09:48'
+date: '2022-11-24T06:10:36'
 draft: false
 images:
 - /images/covers/terrorama-horrid_efface.jpg
@@ -14,5 +14,5 @@ title: Terrorama - Horrid Efface
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=8006&sort=pd.name&order=ASC) for $25.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=8005&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=8006&sort=pd.name&order=ASC) for $12.50
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=8005&sort=pd.name&order=ASC) for $10.00

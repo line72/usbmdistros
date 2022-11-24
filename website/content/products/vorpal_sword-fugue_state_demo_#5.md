@@ -1,10 +1,10 @@
 ---
-actualPrice: $10.00
+actualPrice: $8.00
 album: 'Fugue State Demo #5'
 artist: Vorpal Sword
 categories:
 - Cassette
-date: '2022-04-08T05:10:44'
+date: '2022-11-24T06:11:21'
 draft: false
 images:
 - /images/covers/vorpal_sword-fugue_state_demo_#5.jpg
@@ -14,4 +14,4 @@ title: 'Vorpal Sword - Fugue State Demo #5'
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=22272&sort=pd.name&order=ASC) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=22272&sort=pd.name&order=ASC) for $8.00

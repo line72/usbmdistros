@@ -1,10 +1,10 @@
 ---
-actualPrice: $7.00
+actualPrice: $4.20
 album: In Obscure Darkness
 artist: Skogr
 categories:
 - CD
-date: '2021-11-30T13:35:47'
+date: '2022-11-24T06:11:04'
 draft: false
 images:
 - /images/covers/skogr-in_obscure_darkness.png
@@ -14,4 +14,4 @@ title: Skogr - In Obscure Darkness
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=1072&sort=pd.name&order=ASC) for $7.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=1072&sort=pd.name&order=ASC) for $4.20

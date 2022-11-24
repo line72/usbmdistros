@@ -1,10 +1,10 @@
 ---
-actualPrice: $25.00
+actualPrice: $20.00 - 25.00
 album: Astral Sleep
 artist: Tiamat
 categories:
 - Vinyl
-date: '2022-11-23T06:13:16'
+date: '2022-11-24T06:10:37'
 draft: false
 images:
 - /images/covers/tiamat-astral_sleep.jpg
@@ -15,4 +15,4 @@ title: Tiamat - Astral Sleep
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=23527&sort=pd.name&order=ASC) for $25.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29568&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29568&sort=pd.name&order=ASC) for $20.00

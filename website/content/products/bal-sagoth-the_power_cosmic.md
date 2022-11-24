@@ -1,10 +1,10 @@
 ---
-actualPrice: $27.00
+actualPrice: $21.60 - 27.00
 album: The Power Cosmic
 artist: Bal-Sagoth
 categories:
 - Vinyl
-date: '2022-08-25T05:09:06'
+date: '2022-11-24T06:10:18'
 draft: false
 images:
 - /images/covers/bal-sagoth-the_power_cosmic.jpg
@@ -17,4 +17,4 @@ title: Bal-Sagoth - The Power Cosmic
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=23172&sort=pd.name&order=ASC) for $27.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=24276&sort=pd.name&order=ASC) for $27.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=26062&sort=pd.name&order=ASC) for $27.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=27109&sort=pd.name&order=ASC) for $27.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=27109&sort=pd.name&order=ASC) for $21.60

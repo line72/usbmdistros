@@ -1,10 +1,10 @@
 ---
-actualPrice: $8.00
+actualPrice: $4.80
 album: T.R.I.A.D.E
 artist: Ysengrin
 categories:
 - CD
-date: '2021-11-30T13:35:50'
+date: '2022-11-24T06:11:08'
 draft: false
 images:
 - /images/covers/ysengrin-t.r.i.a.d.e.png
@@ -14,4 +14,4 @@ title: Ysengrin - T.R.I.A.D.E
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=1723&sort=pd.name&order=ASC) for $8.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=1723&sort=pd.name&order=ASC) for $4.80

@@ -4,7 +4,7 @@ album: Vikingligr Veldi
 artist: Enslaved
 categories:
 - Vinyl
-date: '2022-08-02T13:09:51'
+date: '2022-11-24T06:10:23'
 draft: false
 images:
 - /images/covers/enslaved-vikingligr_veldi.jpg
@@ -21,4 +21,4 @@ title: Enslaved - Vikingligr Veldi
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=23959&sort=pd.name&order=ASC) for $35.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=24284&sort=pd.name&order=ASC) for $35.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=25339&sort=pd.name&order=ASC) for $35.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=25860&sort=pd.name&order=ASC) for $35.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=25860&sort=pd.name&order=ASC) for $28.00

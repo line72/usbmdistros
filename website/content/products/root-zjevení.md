@@ -1,11 +1,11 @@
 ---
-actualPrice: $12.00 - 25.00
+actualPrice: $9.60 - 20.00
 album: "Zjeven\xED"
 artist: Root
 categories:
 - Vinyl
 - CD
-date: '2022-02-26T06:09:18'
+date: '2022-11-24T06:11:03'
 draft: false
 images:
 - "/images/covers/root-zjeven\xED.png"
@@ -15,6 +15,6 @@ title: "Root - Zjeven\xED"
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=21052&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=21052&sort=pd.name&order=ASC) for $20.00
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=21058&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=21058&sort=pd.name&order=ASC) for $9.60

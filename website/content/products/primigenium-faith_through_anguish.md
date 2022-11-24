@@ -1,10 +1,10 @@
 ---
-actualPrice: $17.00
+actualPrice: $10.19
 album: Faith Through Anguish
 artist: Primigenium
 categories:
 - Vinyl
-date: '2021-11-30T13:35:24'
+date: '2022-11-24T06:10:33'
 draft: false
 images:
 - /images/covers/primigenium-faith_through_anguish.jpg
@@ -14,4 +14,4 @@ title: Primigenium - Faith Through Anguish
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=1744&sort=pd.name&order=ASC) for $17.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=1744&sort=pd.name&order=ASC) for $10.19

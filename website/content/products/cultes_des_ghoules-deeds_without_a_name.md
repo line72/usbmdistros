@@ -1,11 +1,11 @@
 ---
-actualPrice: $10.00 - 20.00
+actualPrice: $8.00 - 20.00
 album: Deeds Without a Name
 artist: Cultes Des Ghoules
 categories:
 - Vinyl
 - CD
-date: '2022-08-17T05:12:39'
+date: '2022-11-24T06:10:50'
 draft: false
 images:
 - /images/covers/cultes_des_ghoules-deeds_without_a_name.jpg
@@ -23,4 +23,4 @@ title: Cultes Des Ghoules - Deeds Without a Name
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=21102&sort=pd.name&order=ASC) for $10.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=25470&sort=pd.name&order=ASC) for $10.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=26751&sort=pd.name&order=ASC) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=26751&sort=pd.name&order=ASC) for $8.00

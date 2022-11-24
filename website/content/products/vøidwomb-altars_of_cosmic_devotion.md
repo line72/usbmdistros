@@ -5,7 +5,7 @@ artist: "V\xF8idwomb"
 categories:
 - Vinyl
 - Cassette
-date: '2022-06-09T05:15:49'
+date: '2022-11-24T06:10:39'
 draft: false
 images:
 - "/images/covers/v\xF8idwomb-altars_of_cosmic_devotion.jpg"
@@ -15,7 +15,7 @@ title: "V\xF8idwomb - Altars of Cosmic Devotion"
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=13030&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=13030&sort=pd.name&order=ASC) for $12.00
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/voidwomb-altars-of-cosmic-devotion) for $23.00 :: Black 1st press vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/voidwomb-altars-of-cosmic-devotion) for $27.00 :: Blue/White Marble 1st press vinyl
 ## Cassette

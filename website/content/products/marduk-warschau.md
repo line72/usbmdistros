@@ -1,10 +1,10 @@
 ---
-actualPrice: $17.00
+actualPrice: $11.90
 album: Warschau
 artist: Marduk
 categories:
 - CD
-date: '2021-12-30T06:09:09'
+date: '2022-11-24T06:10:58'
 draft: false
 images:
 - /images/covers/marduk-warschau.png
@@ -14,4 +14,4 @@ title: Marduk - Warschau
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=20007&sort=pd.name&order=ASC) for $17.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=20007&sort=pd.name&order=ASC) for $11.90

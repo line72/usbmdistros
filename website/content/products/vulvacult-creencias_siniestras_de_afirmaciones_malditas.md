@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00
+actualPrice: $9.60
 album: Creencias Siniestras de Afirmaciones Malditas
 artist: Vulvacult
 categories:
 - Cassette
-date: '2022-01-22T06:09:50'
+date: '2022-11-24T06:11:22'
 draft: false
 images:
 - /images/covers/vulvacult-creencias_siniestras_de_afirmaciones_malditas.jpg
@@ -14,4 +14,4 @@ title: Vulvacult - Creencias Siniestras de Afirmaciones Malditas
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=20464&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=20464&sort=pd.name&order=ASC) for $9.60

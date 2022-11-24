@@ -1,11 +1,11 @@
 ---
-actualPrice: $12.00 - 18.00
+actualPrice: $8.40 - 18.00
 album: Dwell
 artist: Suffering Hour
 categories:
 - Vinyl
 - CD
-date: '2022-06-01T05:12:03'
+date: '2022-11-24T06:11:05'
 draft: false
 images:
 - /images/covers/suffering_hour-dwell.jpg
@@ -18,4 +18,4 @@ title: Suffering Hour - Dwell
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=13896&sort=pd.name&order=ASC) for $14.00
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/suffering-hour-dwell) for $18.00 :: Black
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=16381&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=16381&sort=pd.name&order=ASC) for $8.40

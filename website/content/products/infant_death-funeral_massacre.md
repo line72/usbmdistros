@@ -1,10 +1,10 @@
 ---
-actualPrice: $7.00
+actualPrice: $4.20
 album: Funeral Massacre
 artist: Infant Death
 categories:
 - Vinyl
-date: '2021-11-30T13:35:31'
+date: '2022-11-24T06:10:43'
 draft: false
 images:
 - /images/covers/infant_death-funeral_massacre.jpg
@@ -14,4 +14,4 @@ title: Infant Death - Funeral Massacre
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=2216&sort=pd.name&order=ASC) for $7.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=2216&sort=pd.name&order=ASC) for $4.20

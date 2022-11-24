@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00
+actualPrice: $9.60
 album: Napalm Nights
 artist: Nocturnal Breed
 categories:
 - CD
-date: '2022-04-05T05:09:52'
+date: '2022-11-24T06:11:00'
 draft: false
 images:
 - /images/covers/nocturnal_breed-napalm_nights.jpg
@@ -14,4 +14,4 @@ title: Nocturnal Breed - Napalm Nights
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=22179&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=22179&sort=pd.name&order=ASC) for $9.60

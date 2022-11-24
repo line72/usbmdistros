@@ -5,7 +5,7 @@ artist: Necrosadist
 categories:
 - Vinyl
 - CD
-date: '2021-11-30T13:35:23'
+date: '2022-11-24T06:10:31'
 draft: false
 images:
 - /images/covers/necrosadist-abstract_satan.jpg
@@ -15,7 +15,7 @@ title: Necrosadist - Abstract Satan
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=2072&sort=pd.name&order=ASC) for $17.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=2072&sort=pd.name&order=ASC) for $10.19
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/necrosadist-abstract-satan-lp) for $18.00 :: Black 1st press vinyl
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=1339&sort=pd.name&order=ASC) for $3.00

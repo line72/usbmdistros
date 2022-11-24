@@ -1,10 +1,10 @@
 ---
-actualPrice: $7.00
+actualPrice: $4.20
 album: Stay Close to the Fire
 artist: Voidkush
 categories:
 - CD
-date: '2021-11-30T13:35:49'
+date: '2022-11-24T06:11:07'
 draft: false
 images:
 - /images/covers/voidkush-stay_close_to_the_fire.png
@@ -14,4 +14,4 @@ title: Voidkush - Stay Close to the Fire
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=2155&sort=pd.name&order=ASC) for $7.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=2155&sort=pd.name&order=ASC) for $4.20

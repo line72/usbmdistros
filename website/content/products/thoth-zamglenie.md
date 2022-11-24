@@ -1,10 +1,10 @@
 ---
-actualPrice: $8.00
+actualPrice: $4.80
 album: Zamglenie
 artist: Thoth
 categories:
 - CD
-date: '2021-11-30T13:35:48'
+date: '2022-11-24T06:11:06'
 draft: false
 images:
 - /images/covers/thoth-zamglenie.png
@@ -14,5 +14,5 @@ title: Thoth - Zamglenie
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=1428&sort=pd.name&order=ASC) for $8.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=2309&sort=pd.name&order=ASC) for $8.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=1428&sort=pd.name&order=ASC) for $4.80
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=2309&sort=pd.name&order=ASC) for $4.80

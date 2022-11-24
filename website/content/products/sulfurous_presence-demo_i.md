@@ -4,7 +4,7 @@ album: Demo I
 artist: Sulfurous Presence
 categories:
 - Cassette
-date: '2022-10-19T05:15:26'
+date: '2022-11-24T06:11:20'
 draft: false
 images:
 - /images/covers/sulfurous_presence-demo_i.png
@@ -16,4 +16,4 @@ title: Sulfurous Presence - Demo I
 ## Cassette
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=19524&sort=pd.name&order=ASC) for $15.00
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/sulfurous-presence-demo-i-tape) for $12.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=28568&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=28568&sort=pd.name&order=ASC) for $12.00

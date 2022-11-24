@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00
+actualPrice: $9.60
 album: Perkele, Antikristus Ja Vaara Profeetta
 artist: Arsonist Lodge
 categories:
 - CD
-date: '2022-10-30T05:12:07'
+date: '2022-11-24T06:10:48'
 draft: false
 images:
 - /images/covers/arsonist_lodge-perkele,_antikristus_ja_vaara_profeetta.jpg
@@ -14,4 +14,4 @@ title: Arsonist Lodge - Perkele, Antikristus Ja Vaara Profeetta
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=28906&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=28906&sort=pd.name&order=ASC) for $9.60

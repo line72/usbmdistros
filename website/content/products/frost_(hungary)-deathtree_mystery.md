@@ -1,10 +1,10 @@
 ---
-actualPrice: $10.00 - 12.00
+actualPrice: $9.60 - 10.00
 album: Deathtree Mystery
 artist: Frost (Hungary)
 categories:
 - CD
-date: '2022-01-07T06:08:28'
+date: '2022-11-24T06:10:53'
 draft: false
 images:
 - /images/covers/frost_(hungary)-deathtree_mystery.jpg
@@ -15,4 +15,4 @@ title: Frost (Hungary) - Deathtree Mystery
 
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=4967&sort=pd.name&order=ASC) for $10.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=20161&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=20161&sort=pd.name&order=ASC) for $9.60

@@ -1,10 +1,10 @@
 ---
-actualPrice: $15.00
+actualPrice: $12.00
 album: Ov Rapist's Endless Torment
 artist: "\xD6rd\xF6g"
 categories:
 - Cassette
-date: '2022-05-05T05:13:35'
+date: '2022-11-24T06:11:17'
 draft: false
 images:
 - "/images/covers/\xF6rd\xF6g-ov_rapist's_endless_torment.jpg"
@@ -14,4 +14,4 @@ title: "\xD6rd\xF6g - Ov Rapist's Endless Torment"
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=23033&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=23033&sort=pd.name&order=ASC) for $12.00

@@ -1,10 +1,10 @@
 ---
-actualPrice: $7.00
+actualPrice: $4.20
 album: Eigenwelt
 artist: Pandiscordian Necrogenesis
 categories:
 - Cassette
-date: '2021-11-30T13:35:55'
+date: '2022-11-24T06:11:18'
 draft: false
 images:
 - /images/covers/pandiscordian_necrogenesis-eigenwelt.jpg
@@ -14,4 +14,4 @@ title: Pandiscordian Necrogenesis - Eigenwelt
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=6674&sort=pd.name&order=ASC) for $7.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=6674&sort=pd.name&order=ASC) for $4.20

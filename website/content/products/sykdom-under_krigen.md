@@ -1,10 +1,10 @@
 ---
-actualPrice: $5.00
+actualPrice: $4.00
 album: Under Krigen
 artist: Sykdom
 categories:
 - CD
-date: '2022-09-19T05:14:53'
+date: '2022-11-24T06:11:05'
 draft: false
 images:
 - /images/covers/sykdom-under_krigen.jpg
@@ -14,4 +14,4 @@ title: Sykdom - Under Krigen
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=27890&sort=pd.name&order=ASC) for $5.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=27890&sort=pd.name&order=ASC) for $4.00

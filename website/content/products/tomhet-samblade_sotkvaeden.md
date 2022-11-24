@@ -1,10 +1,10 @@
 ---
-actualPrice: $20.00
+actualPrice: $14.00 - 20.00
 album: Samblade Sotkvaeden
 artist: Tomhet
 categories:
 - CD
-date: '2021-11-30T13:35:48'
+date: '2022-11-24T06:11:06'
 draft: false
 images:
 - /images/covers/tomhet-samblade_sotkvaeden.jpg
@@ -15,4 +15,4 @@ title: Tomhet - Samblade Sotkvaeden
 
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=18214&sort=pd.name&order=ASC) for $20.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=19129&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=19129&sort=pd.name&order=ASC) for $14.00

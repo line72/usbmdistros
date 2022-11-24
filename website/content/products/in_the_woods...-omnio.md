@@ -1,10 +1,10 @@
 ---
-actualPrice: $30.00
+actualPrice: $24.00 - 30.00
 album: Omnio
 artist: In The Woods...
 categories:
 - Vinyl
-date: '2022-11-23T06:11:48'
+date: '2022-11-24T06:10:26'
 draft: false
 images:
 - /images/covers/in_the_woods...-omnio.jpg
@@ -18,3 +18,4 @@ title: In The Woods... - Omnio
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=24246&sort=pd.name&order=ASC) for $30.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=26487&sort=pd.name&order=ASC) for $30.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29460&sort=pd.name&order=ASC) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29652&sort=pd.name&order=ASC) for $24.00

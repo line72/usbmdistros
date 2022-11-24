@@ -1,10 +1,10 @@
 ---
-actualPrice: $10.00
+actualPrice: $6.00
 album: Blasphemer
 artist: Neglektum
 categories:
 - CD
-date: '2021-11-30T13:35:44'
+date: '2022-11-24T06:11:00'
 draft: false
 images:
 - /images/covers/neglektum-blasphemer.jpg
@@ -14,4 +14,4 @@ title: Neglektum - Blasphemer
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=3606&sort=pd.name&order=ASC) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=3606&sort=pd.name&order=ASC) for $6.00

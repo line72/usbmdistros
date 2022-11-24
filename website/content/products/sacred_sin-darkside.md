@@ -1,10 +1,10 @@
 ---
-actualPrice: $25.00
+actualPrice: $17.50
 album: Darkside
 artist: Sacred Sin
 categories:
 - Vinyl
-date: '2021-11-30T13:35:25'
+date: '2022-11-24T06:10:34'
 draft: false
 images:
 - /images/covers/sacred_sin-darkside.jpg
@@ -14,4 +14,4 @@ title: Sacred Sin - Darkside
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=17688&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=17688&sort=pd.name&order=ASC) for $17.50

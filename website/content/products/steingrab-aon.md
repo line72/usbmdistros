@@ -1,10 +1,10 @@
 ---
-actualPrice: $6.00
+actualPrice: $3.60
 album: Aon
 artist: Steingrab
 categories:
 - CD
-date: '2021-11-30T13:35:47'
+date: '2022-11-24T06:11:05'
 draft: false
 images:
 - /images/covers/steingrab-aon.png
@@ -14,4 +14,4 @@ title: Steingrab - Aon
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=1886&sort=pd.name&order=ASC) for $6.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=1886&sort=pd.name&order=ASC) for $3.60

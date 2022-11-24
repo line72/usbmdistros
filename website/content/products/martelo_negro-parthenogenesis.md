@@ -1,10 +1,10 @@
 ---
-actualPrice: $10.00
+actualPrice: $6.00
 album: Parthenogenesis
 artist: Martelo Negro
 categories:
 - CD
-date: '2021-11-30T13:35:42'
+date: '2022-11-24T06:10:58'
 draft: false
 images:
 - /images/covers/martelo_negro-parthenogenesis.jpg
@@ -14,4 +14,4 @@ title: Martelo Negro - Parthenogenesis
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=6120&sort=pd.name&order=ASC) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=6120&sort=pd.name&order=ASC) for $6.00

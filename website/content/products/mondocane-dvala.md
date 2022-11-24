@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00
+actualPrice: $9.60
 album: Dvala
 artist: Mondocane
 categories:
 - CD
-date: '2022-04-13T05:10:09'
+date: '2022-11-24T06:10:59'
 draft: false
 images:
 - /images/covers/mondocane-dvala.jpg
@@ -14,4 +14,4 @@ title: Mondocane - Dvala
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=22380&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=22380&sort=pd.name&order=ASC) for $9.60

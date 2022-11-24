@@ -1,10 +1,10 @@
 ---
-actualPrice: $10.00
+actualPrice: $7.00
 album: Knivdrab
 artist: Sturmtiger
 categories:
 - Vinyl
-date: '2021-11-30T13:35:27'
+date: '2022-11-24T06:10:36'
 draft: false
 images:
 - /images/covers/sturmtiger-knivdrab.png
@@ -14,4 +14,4 @@ title: Sturmtiger - Knivdrab
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=19062&sort=pd.name&order=ASC) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=19062&sort=pd.name&order=ASC) for $7.00

@@ -1,10 +1,10 @@
 ---
-actualPrice: $27.00
+actualPrice: $21.60 - 27.00
 album: Whoredom Rife
 artist: Whoredom Rife
 categories:
 - Vinyl
-date: '2022-09-01T05:11:30'
+date: '2022-11-24T06:10:40'
 draft: false
 images:
 - /images/covers/whoredom_rife-whoredom_rife.png
@@ -16,4 +16,4 @@ title: Whoredom Rife - Whoredom Rife
 ## Vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/whoredom-rife) for $27.00 :: Black 2021 press vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=19470&sort=pd.name&order=ASC) for $27.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=27331&sort=pd.name&order=ASC) for $27.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=27331&sort=pd.name&order=ASC) for $21.60

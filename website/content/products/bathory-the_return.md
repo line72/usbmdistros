@@ -4,7 +4,7 @@ album: The Return
 artist: Bathory
 categories:
 - Cassette
-date: '2022-08-12T05:13:59'
+date: '2022-11-24T06:11:10'
 draft: false
 images:
 - /images/covers/bathory-the_return.jpg
@@ -24,5 +24,5 @@ title: Bathory - The Return
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=24046&sort=pd.name&order=ASC) for $15.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=24057&sort=pd.name&order=ASC) for $15.00
 * Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/bathory-the-return-cassette/) for $13.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=26373&sort=pd.name&order=ASC) for $15.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=26374&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=26373&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=26374&sort=pd.name&order=ASC) for $12.00

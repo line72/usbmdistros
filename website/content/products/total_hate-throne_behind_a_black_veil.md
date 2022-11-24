@@ -1,10 +1,10 @@
 ---
-actualPrice: $20.00
+actualPrice: $12.00
 album: Throne Behind A Black Veil
 artist: Total Hate
 categories:
 - Vinyl
-date: '2021-11-30T13:35:28'
+date: '2022-11-24T06:10:37'
 draft: false
 images:
 - /images/covers/total_hate-throne_behind_a_black_veil.jpg
@@ -14,4 +14,4 @@ title: Total Hate - Throne Behind A Black Veil
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=10519&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=10519&sort=pd.name&order=ASC) for $12.00

@@ -1,10 +1,10 @@
 ---
-actualPrice: $5.00
+actualPrice: $3.00
 album: Nathicana
 artist: Magan
 categories:
 - CD
-date: '2021-11-30T13:35:42'
+date: '2022-11-24T06:10:58'
 draft: false
 images:
 - /images/covers/magan-nathicana.jpg
@@ -14,4 +14,4 @@ title: Magan - Nathicana
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=15216&sort=pd.name&order=ASC) for $5.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=15216&sort=pd.name&order=ASC) for $3.00

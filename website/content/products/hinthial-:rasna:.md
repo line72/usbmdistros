@@ -1,10 +1,10 @@
 ---
-actualPrice: $20.00
+actualPrice: $16.00 - 20.00
 album: ':Rasna:'
 artist: Hinthial
 categories:
 - Vinyl
-date: '2022-07-22T05:08:51'
+date: '2022-11-24T06:10:25'
 draft: false
 images:
 - /images/covers/hinthial-:rasna:.png
@@ -15,4 +15,4 @@ title: 'Hinthial - :Rasna:'
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=24896&sort=pd.name&order=ASC) for $20.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=25592&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=25592&sort=pd.name&order=ASC) for $16.00

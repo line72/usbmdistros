@@ -1,11 +1,11 @@
 ---
-actualPrice: $10.00
+actualPrice: $7.00 - 10.00
 album: The Temples of Offal / Return of the Ancients
 artist: Absu
 categories:
 - Cassette
 - CD
-date: '2021-11-30T13:35:50'
+date: '2022-11-24T06:10:46'
 draft: false
 images:
 - /images/covers/absu-the_temples_of_offal_-_return_of_the_ancients.jpg
@@ -17,4 +17,4 @@ title: Absu - The Temples of Offal / Return of the Ancients
 ## Cassette
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=17469&sort=pd.name&order=ASC) for $10.00
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=17468&sort=pd.name&order=ASC) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=17468&sort=pd.name&order=ASC) for $7.00

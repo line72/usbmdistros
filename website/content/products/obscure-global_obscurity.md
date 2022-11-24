@@ -1,10 +1,10 @@
 ---
-actualPrice: $5.00
+actualPrice: $4.00
 album: Global Obscurity
 artist: Obscure
 categories:
 - Vinyl
-date: '2022-06-22T05:26:38'
+date: '2022-11-24T06:10:44'
 draft: false
 images:
 - /images/covers/obscure-global_obscurity.jpg
@@ -14,4 +14,4 @@ title: Obscure - Global Obscurity
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=24762&sort=pd.name&order=ASC) for $5.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=24762&sort=pd.name&order=ASC) for $4.00

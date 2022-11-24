@@ -1,10 +1,10 @@
 ---
-actualPrice: $8.00
+actualPrice: $5.60
 album: "Beast of the Foulest Depths\u200B/\u200BBolt of Satanic Might"
 artist: Pious Levus
 categories:
 - Cassette
-date: '2021-11-30T13:35:55'
+date: '2022-11-24T06:11:18'
 draft: false
 images:
 - "/images/covers/pious_levus-beast_of_the_foulest_depths\u200B-\u200Bbolt_of_satanic_might.jpg"
@@ -15,4 +15,4 @@ title: "Pious Levus - Beast of the Foulest Depths\u200B/\u200BBolt of Satanic Mi
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=15422&sort=pd.name&order=ASC) for $8.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=15422&sort=pd.name&order=ASC) for $5.60

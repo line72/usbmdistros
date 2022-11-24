@@ -1,11 +1,11 @@
 ---
-actualPrice: $11.00 - 27.00
+actualPrice: $9.60 - 27.00
 album: Live in Leipzig
 artist: Mayhem
 categories:
 - Vinyl
 - Cassette
-date: '2022-11-23T06:18:04'
+date: '2022-11-24T06:11:16'
 draft: false
 images:
 - /images/covers/mayhem-live_in_leipzig.jpg
@@ -29,4 +29,4 @@ title: Mayhem - Live in Leipzig
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=21091&sort=pd.name&order=ASC) for $12.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=24141&sort=pd.name&order=ASC) for $12.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=27152&sort=pd.name&order=ASC) for $12.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=29553&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=29553&sort=pd.name&order=ASC) for $9.60

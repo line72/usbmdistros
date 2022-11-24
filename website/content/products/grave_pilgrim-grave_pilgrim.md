@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00
+actualPrice: $9.60 - 12.00
 album: Grave Pilgrim
 artist: Grave Pilgrim
 categories:
 - CD
-date: '2022-04-07T05:15:05'
+date: '2022-11-24T06:10:54'
 draft: false
 images:
 - /images/covers/grave_pilgrim-grave_pilgrim.png
@@ -14,5 +14,5 @@ title: Grave Pilgrim - Grave Pilgrim
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=21922&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=21922&sort=pd.name&order=ASC) for $9.60
 * Purchase from [CW Productions](https://shop.cwproductions.net/products/grave-pilgrim-grave-pilgrim-cd) for $12.00

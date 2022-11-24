@@ -1,11 +1,11 @@
 ---
-actualPrice: $15.00 - 25.00
+actualPrice: $10.50 - 17.50
 album: Serpent Seducer Saviour
 artist: Voodus
 categories:
 - Vinyl
 - CD
-date: '2021-12-30T06:09:40'
+date: '2022-11-24T06:11:08'
 draft: false
 images:
 - /images/covers/voodus-serpent_seducer_saviour.png
@@ -15,6 +15,6 @@ title: Voodus - Serpent Seducer Saviour
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=20008&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=20008&sort=pd.name&order=ASC) for $17.50
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=20000&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=20000&sort=pd.name&order=ASC) for $10.50

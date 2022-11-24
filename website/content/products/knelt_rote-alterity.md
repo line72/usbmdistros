@@ -1,11 +1,11 @@
 ---
-actualPrice: $4.00 - 25.00
+actualPrice: $2.60 - 12.75
 album: Alterity
 artist: Knelt Rote
 categories:
 - Vinyl
 - CD
-date: '2022-07-28T05:11:36'
+date: '2022-11-24T06:10:57'
 draft: false
 images:
 - /images/covers/knelt_rote-alterity.jpg
@@ -15,8 +15,8 @@ title: Knelt Rote - Alterity
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=11093&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=11093&sort=pd.name&order=ASC) for $12.50
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=3596&sort=pd.name&order=ASC) for $12.75
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=3043&sort=pd.name&order=ASC) for $10.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=25639&sort=pd.name&order=ASC) for $4.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=25639&sort=pd.name&order=ASC) for $2.60

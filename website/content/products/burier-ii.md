@@ -1,10 +1,10 @@
 ---
-actualPrice: $10.00
+actualPrice: $8.00 - 10.00
 album: II
 artist: Burier
 categories:
 - CD
-date: '2022-08-20T05:12:00'
+date: '2022-11-24T06:10:49'
 draft: false
 images:
 - /images/covers/burier-ii.jpg
@@ -15,4 +15,4 @@ title: Burier - II
 
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=13105&sort=pd.name&order=ASC) for $10.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=26974&sort=pd.name&order=ASC) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=26974&sort=pd.name&order=ASC) for $8.00

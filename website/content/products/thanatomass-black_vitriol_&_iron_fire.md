@@ -5,7 +5,7 @@ artist: Thanatomass
 categories:
 - Vinyl
 - Cassette
-date: '2022-10-21T05:11:19'
+date: '2022-11-24T06:10:36'
 draft: false
 images:
 - /images/covers/thanatomass-black_vitriol_&_iron_fire.jpg
@@ -20,6 +20,6 @@ title: Thanatomass - Black Vitriol & Iron Fire
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=25396&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=27325&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=28298&sort=pd.name&order=ASC) for $25.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=28616&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=28616&sort=pd.name&order=ASC) for $20.00
 ## Cassette
 * Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/32325649-thanatomass-black-vitriol-iron-fire) for $8.50

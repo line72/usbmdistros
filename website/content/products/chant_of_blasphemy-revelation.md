@@ -1,10 +1,10 @@
 ---
-actualPrice: $5.00
+actualPrice: $4.00
 album: Revelation
 artist: Chant Of Blasphemy
 categories:
 - Vinyl
-date: '2022-08-10T13:48:30'
+date: '2022-11-24T06:10:42'
 draft: false
 images:
 - /images/covers/chant_of_blasphemy-revelation.jpg
@@ -14,4 +14,4 @@ title: Chant Of Blasphemy - Revelation
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=26173&sort=pd.name&order=ASC) for $5.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=26173&sort=pd.name&order=ASC) for $4.00

@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00
+actualPrice: $9.60
 album: Morbid Death Tales
 artist: Throneum
 categories:
 - CD
-date: '2022-07-09T05:12:53'
+date: '2022-11-24T06:11:06'
 draft: false
 images:
 - /images/covers/throneum-morbid_death_tales.jpg
@@ -14,4 +14,4 @@ title: Throneum - Morbid Death Tales
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=25218&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=25218&sort=pd.name&order=ASC) for $9.60

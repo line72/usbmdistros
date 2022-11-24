@@ -1,10 +1,10 @@
 ---
-actualPrice: $10.00
+actualPrice: $6.00
 album: Kastijder
 artist: Kastijder
 categories:
 - Cassette
-date: '2021-11-30T13:35:54'
+date: '2022-11-24T06:11:14'
 draft: false
 images:
 - /images/covers/kastijder-kastijder.png
@@ -14,4 +14,4 @@ title: Kastijder - Kastijder
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=14821&sort=pd.name&order=ASC) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=14821&sort=pd.name&order=ASC) for $6.00

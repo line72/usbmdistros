@@ -1,10 +1,10 @@
 ---
-actualPrice: $9.00
+actualPrice: $6.30
 album: Nyctophilia
 artist: Ispenss
 categories:
 - Cassette
-date: '2021-11-30T13:35:54'
+date: '2022-11-24T06:11:14'
 draft: false
 images:
 - /images/covers/ispenss-nyctophilia.jpg
@@ -14,4 +14,4 @@ title: Ispenss - Nyctophilia
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=17253&sort=pd.name&order=ASC) for $9.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=17253&sort=pd.name&order=ASC) for $6.30

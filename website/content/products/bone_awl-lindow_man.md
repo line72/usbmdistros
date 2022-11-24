@@ -1,10 +1,10 @@
 ---
-actualPrice: $40.00
+actualPrice: $32.00
 album: Lindow Man
 artist: Bone Awl
 categories:
 - Vinyl
-date: '2022-08-10T13:48:29'
+date: '2022-11-24T06:10:41'
 draft: false
 images:
 - /images/covers/bone_awl-lindow_man.jpg
@@ -14,4 +14,4 @@ title: Bone Awl - Lindow Man
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=26279&sort=pd.name&order=ASC) for $40.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=26279&sort=pd.name&order=ASC) for $32.00

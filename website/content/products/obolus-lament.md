@@ -1,10 +1,10 @@
 ---
-actualPrice: $15.00
+actualPrice: $9.00
 album: Lament
 artist: Obolus
 categories:
 - Vinyl
-date: '2021-11-30T13:35:24'
+date: '2022-11-24T06:10:31'
 draft: false
 images:
 - /images/covers/obolus-lament.jpg
@@ -14,4 +14,4 @@ title: Obolus - Lament
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=1686&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=1686&sort=pd.name&order=ASC) for $9.00

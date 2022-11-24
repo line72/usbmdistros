@@ -1,10 +1,10 @@
 ---
-actualPrice: $15.00
+actualPrice: $12.00 - 15.00
 album: Apokalypse
 artist: Abigor
 categories:
 - CD
-date: '2022-09-23T05:13:19'
+date: '2022-11-24T06:10:46'
 draft: false
 images:
 - /images/covers/abigor-apokalypse.jpg
@@ -16,4 +16,4 @@ title: Abigor - Apokalypse
 ## CD
 * Purchase from [CW Productions](https://shop.cwproductions.net/products/abigor-apokalypse-cd) for $15.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=22353&sort=pd.name&order=ASC) for $15.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=28046&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=28046&sort=pd.name&order=ASC) for $12.00

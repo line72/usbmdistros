@@ -5,7 +5,7 @@ artist: Mayhem
 categories:
 - Vinyl
 - Cassette
-date: '2022-11-22T06:12:26'
+date: '2022-11-24T06:10:28'
 draft: false
 images:
 - /images/covers/mayhem-de_mysteriis_dom_sathanas.jpg
@@ -26,7 +26,7 @@ title: Mayhem - De Mysteriis Dom Sathanas
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=26482&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29007&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29326&sort=pd.name&order=ASC) for $25.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29388&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29388&sort=pd.name&order=ASC) for $20.00
 ## Cassette
 * Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/mayhem-de-mysteriis-dom-sathanas-cassette/) for $11.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=17551&sort=pd.name&order=ASC) for $12.00

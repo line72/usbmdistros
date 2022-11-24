@@ -1,10 +1,10 @@
 ---
-actualPrice: $8.00
+actualPrice: $4.80
 album: XX Years Of Consecrated Black Metal ~ 1992-2012
 artist: Hiborym
 categories:
 - CD
-date: '2021-11-30T13:35:40'
+date: '2022-11-24T06:10:55'
 draft: false
 images:
 - /images/covers/hiborym-xx_years_of_consecrated_black_metal_~_1992-2012.jpg
@@ -14,4 +14,4 @@ title: Hiborym - XX Years Of Consecrated Black Metal ~ 1992-2012
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=2700&sort=pd.name&order=ASC) for $8.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=2700&sort=pd.name&order=ASC) for $4.80

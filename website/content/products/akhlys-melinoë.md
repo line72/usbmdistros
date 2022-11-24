@@ -5,7 +5,7 @@ artist: Akhlys
 categories:
 - Vinyl
 - CD
-date: '2022-10-25T05:25:32'
+date: '2022-11-24T06:10:16'
 draft: false
 images:
 - "/images/covers/akhlys-melino\xEB.jpg"
@@ -25,7 +25,7 @@ title: "Akhlys - Melino\xEB"
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=22226&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=23393&sort=pd.name&order=ASC) for $25.00
 * Purchase from [Debemur Morti](https://debemurmorti.aisamerch.com/item/126900) for $25.99
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=28714&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=28714&sort=pd.name&order=ASC) for $20.00
 ## CD
 * Purchase from [Debemur Morti](https://debemurmorti.aisamerch.com/item/93978) for $9.99
 * Purchase from [Debemur Morti](https://debemurmorti.aisamerch.com/item/93979) for $15.99 :: special edition

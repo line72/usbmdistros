@@ -1,10 +1,10 @@
 ---
-actualPrice: $25.00
+actualPrice: $20.00
 album: "Dj\u200B\xE4\u200Bvulens Musik"
 artist: Tyrann
 categories:
 - Vinyl
-date: '2022-09-13T05:11:42'
+date: '2022-11-24T06:10:38'
 draft: false
 images:
 - "/images/covers/tyrann-dj\u200B\xE4\u200Bvulens_musik.jpg"
@@ -14,4 +14,4 @@ title: "Tyrann - Dj\u200B\xE4\u200Bvulens Musik"
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=27700&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=27700&sort=pd.name&order=ASC) for $20.00

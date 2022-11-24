@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00
+actualPrice: $9.60
 album: Canticle Bound In Spirit The Faith In Vampyric Blood
 artist: Unholy Vampyric Slaughter Sect
 categories:
 - Cassette
-date: '2022-04-09T05:11:27'
+date: '2022-11-24T06:11:21'
 draft: false
 images:
 - /images/covers/unholy_vampyric_slaughter_sect-canticle_bound_in_spirit_the_faith_in_vampyric_blood.jpg
@@ -15,4 +15,4 @@ title: Unholy Vampyric Slaughter Sect - Canticle Bound In Spirit The Faith In Va
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=22328&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=22328&sort=pd.name&order=ASC) for $9.60

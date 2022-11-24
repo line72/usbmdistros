@@ -1,10 +1,10 @@
 ---
-actualPrice: $25.00
+actualPrice: $16.25 - 25.00
 album: "Satanic Fortification Overbalance / Inverterat Korst\xE5g"
 artist: Yxxan
 categories:
 - Vinyl
-date: '2022-07-28T05:10:09'
+date: '2022-11-24T06:10:40'
 draft: false
 images:
 - "/images/covers/yxxan-satanic_fortification_overbalance_-_inverterat_korst\xE5g.jpg"
@@ -18,4 +18,4 @@ title: "Yxxan - Satanic Fortification Overbalance / Inverterat Korst\xE5g"
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=24419&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=24529&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=24835&sort=pd.name&order=ASC) for $25.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=25434&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=25434&sort=pd.name&order=ASC) for $16.25

@@ -1,10 +1,10 @@
 ---
-actualPrice: $85.00
+actualPrice: $68.00
 album: "Il Etait Une For\xEAt..."
 artist: Gris
 categories:
 - Vinyl
-date: '2022-04-18T05:08:50'
+date: '2022-11-24T06:10:25'
 draft: false
 images:
 - "/images/covers/gris-il_etait_une_for\xEAt....jpg"
@@ -14,4 +14,4 @@ title: "Gris - Il Etait Une For\xEAt..."
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=22657&sort=pd.name&order=ASC) for $85.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=22657&sort=pd.name&order=ASC) for $68.00

@@ -1,10 +1,10 @@
 ---
-actualPrice: $10.00
+actualPrice: $8.00
 album: Sevenfold Pestilence
 artist: Doombringer
 categories:
 - Vinyl
-date: '2022-06-20T05:11:03'
+date: '2022-11-24T06:10:42'
 draft: false
 images:
 - /images/covers/doombringer-sevenfold_pestilence.jpg
@@ -14,4 +14,4 @@ title: Doombringer - Sevenfold Pestilence
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=24597&sort=pd.name&order=ASC) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=24597&sort=pd.name&order=ASC) for $8.00

@@ -1,10 +1,10 @@
 ---
-actualPrice: $20.00
+actualPrice: $16.00
 album: "Muerte, Perdici\xF3n, Destrucci\xF3n y Dolor"
 artist: Atonement
 categories:
 - Vinyl
-date: '2022-08-20T05:08:40'
+date: '2022-11-24T06:10:17'
 draft: false
 images:
 - "/images/covers/atonement-muerte,_perdici\xF3n,_destrucci\xF3n_y_dolor.jpg"
@@ -14,4 +14,4 @@ title: "Atonement - Muerte, Perdici\xF3n, Destrucci\xF3n y Dolor"
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=26961&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=26961&sort=pd.name&order=ASC) for $16.00

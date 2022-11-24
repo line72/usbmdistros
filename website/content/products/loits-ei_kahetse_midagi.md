@@ -1,10 +1,10 @@
 ---
-actualPrice: $17.00
+actualPrice: $11.05 - 17.00
 album: Ei Kahetse Midagi
 artist: Loits
 categories:
 - Vinyl
-date: '2022-07-28T05:09:02'
+date: '2022-11-24T06:10:27'
 draft: false
 images:
 - /images/covers/loits-ei_kahetse_midagi.jpg
@@ -15,4 +15,4 @@ title: Loits - Ei Kahetse Midagi
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=6571&sort=pd.name&order=ASC) for $17.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=21372&sort=pd.name&order=ASC) for $17.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=21372&sort=pd.name&order=ASC) for $11.05

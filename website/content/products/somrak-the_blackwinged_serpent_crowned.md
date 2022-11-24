@@ -1,10 +1,10 @@
 ---
-actualPrice: $6.00
+actualPrice: $3.60
 album: The Blackwinged Serpent Crowned
 artist: Somrak
 categories:
 - CD
-date: '2021-11-30T13:35:47'
+date: '2022-11-24T06:11:04'
 draft: false
 images:
 - /images/covers/somrak-the_blackwinged_serpent_crowned.png
@@ -14,4 +14,4 @@ title: Somrak - The Blackwinged Serpent Crowned
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=1912&sort=pd.name&order=ASC) for $6.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=1912&sort=pd.name&order=ASC) for $3.60

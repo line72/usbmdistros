@@ -1,10 +1,10 @@
 ---
-actualPrice: $7.00
+actualPrice: $4.20
 album: Murmurios/Turva Lucidez
 artist: Ars Diavoli
 categories:
 - Vinyl
-date: '2021-11-30T13:35:30'
+date: '2022-11-24T06:10:41'
 draft: false
 images:
 - /images/covers/ars_diavoli-murmurios-turva_lucidez.jpg
@@ -14,4 +14,4 @@ title: Ars Diavoli - Murmurios/Turva Lucidez
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=539&sort=pd.name&order=ASC) for $7.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=539&sort=pd.name&order=ASC) for $4.20

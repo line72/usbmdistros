@@ -1,11 +1,11 @@
 ---
-actualPrice: $7.00 - 7.50
+actualPrice: $4.20 - 7.50
 album: Abomination Continues
 artist: Abominablood
 categories:
 - Cassette
 - CD
-date: '2021-11-30T13:35:50'
+date: '2022-11-24T06:11:09'
 draft: false
 images:
 - /images/covers/abominablood-abomination_continues.jpg
@@ -15,6 +15,6 @@ title: Abominablood - Abomination Continues
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=4937&sort=pd.name&order=ASC) for $7.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=4937&sort=pd.name&order=ASC) for $4.20
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=4068&sort=pd.name&order=ASC) for $7.50

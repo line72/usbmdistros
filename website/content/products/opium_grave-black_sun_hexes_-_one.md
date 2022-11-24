@@ -1,10 +1,10 @@
 ---
-actualPrice: $25.00
+actualPrice: $20.00
 album: Black Sun Hexes - One
 artist: Opium Grave
 categories:
 - Vinyl
-date: '2022-09-01T05:10:39'
+date: '2022-11-24T06:10:32'
 draft: false
 images:
 - /images/covers/opium_grave-black_sun_hexes_-_one.jpg
@@ -14,4 +14,4 @@ title: Opium Grave - Black Sun Hexes - One
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=27296&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=27296&sort=pd.name&order=ASC) for $20.00

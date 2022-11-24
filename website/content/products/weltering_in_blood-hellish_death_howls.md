@@ -1,10 +1,10 @@
 ---
-actualPrice: $15.00
+actualPrice: $12.00
 album: Hellish Death Howls
 artist: Weltering In Blood
 categories:
 - CD
-date: '2022-01-09T06:09:51'
+date: '2022-11-24T06:11:08'
 draft: false
 images:
 - /images/covers/weltering_in_blood-hellish_death_howls.jpg
@@ -14,4 +14,4 @@ title: Weltering In Blood - Hellish Death Howls
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=20194&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=20194&sort=pd.name&order=ASC) for $12.00

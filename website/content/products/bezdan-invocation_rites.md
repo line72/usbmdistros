@@ -1,10 +1,10 @@
 ---
-actualPrice: $10.00
+actualPrice: $8.00
 album: Invocation Rites
 artist: Bezdan
 categories:
 - Vinyl
-date: '2022-02-07T06:08:11'
+date: '2022-11-24T06:10:41'
 draft: false
 images:
 - /images/covers/bezdan-invocation_rites.jpg
@@ -14,4 +14,4 @@ title: Bezdan - Invocation Rites
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=20710&sort=pd.name&order=ASC) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=20710&sort=pd.name&order=ASC) for $8.00

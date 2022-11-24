@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00
+actualPrice: $8.40
 album: Schmerz Aus Licht
 artist: Funeral Procession
 categories:
 - CD
-date: '2021-12-16T06:08:21'
+date: '2022-11-24T06:10:53'
 draft: false
 images:
 - /images/covers/funeral_procession-schmerz_aus_licht.jpg
@@ -14,4 +14,4 @@ title: Funeral Procession - Schmerz Aus Licht
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=19695&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=19695&sort=pd.name&order=ASC) for $8.40

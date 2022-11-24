@@ -1,10 +1,10 @@
 ---
-actualPrice: $10.00
+actualPrice: $8.00
 album: S/T
 artist: Torch of Decaying Log
 categories:
 - Vinyl
-date: '2022-07-30T05:10:55'
+date: '2022-11-24T06:10:45'
 draft: false
 images:
 - /images/covers/torch_of_decaying_log-s-t.jpg
@@ -14,4 +14,4 @@ title: Torch of Decaying Log - S/T
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=25756&sort=pd.name&order=ASC) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=25756&sort=pd.name&order=ASC) for $8.00

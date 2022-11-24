@@ -1,10 +1,10 @@
 ---
-actualPrice: $25.00 - 27.00
+actualPrice: $21.60 - 25.00
 album: "H\xF8stm\xF8rke"
 artist: Isengard
 categories:
 - Vinyl
-date: '2022-09-20T05:10:29'
+date: '2022-11-24T06:10:26'
 draft: false
 images:
 - "/images/covers/isengard-h\xF8stm\xF8rke.jpg"
@@ -18,4 +18,4 @@ title: "Isengard - H\xF8stm\xF8rke"
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=17520&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=25605&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=25626&sort=pd.name&order=ASC) for $25.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=27979&sort=pd.name&order=ASC) for $27.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=27979&sort=pd.name&order=ASC) for $21.60

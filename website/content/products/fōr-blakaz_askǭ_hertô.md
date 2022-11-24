@@ -1,10 +1,10 @@
 ---
-actualPrice: $17.00
+actualPrice: $13.60
 album: "Blakaz Ask\u01ED Hert\xF4"
 artist: "F\u014CR"
 categories:
 - Vinyl
-date: '2022-03-25T05:08:24'
+date: '2022-11-24T06:10:23'
 draft: false
 images:
 - "/images/covers/f\u014Dr-blakaz_ask\u01ED_hert\xF4.jpg"
@@ -14,4 +14,4 @@ title: "F\u014CR - Blakaz Ask\u01ED Hert\xF4"
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=21885&sort=pd.name&order=ASC) for $17.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=21885&sort=pd.name&order=ASC) for $13.60

@@ -1,10 +1,10 @@
 ---
-actualPrice: $10.00
+actualPrice: $7.00
 album: MMII-MMIV
 artist: Volkolak
 categories:
 - CD
-date: '2021-11-30T13:35:49'
+date: '2022-11-24T06:11:07'
 draft: false
 images:
 - /images/covers/volkolak-mmii-mmiv.jpg
@@ -14,4 +14,4 @@ title: Volkolak - MMII-MMIV
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=17831&sort=pd.name&order=ASC) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=17831&sort=pd.name&order=ASC) for $7.00

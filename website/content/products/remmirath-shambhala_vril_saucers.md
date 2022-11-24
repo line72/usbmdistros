@@ -1,10 +1,10 @@
 ---
-actualPrice: $10.00
+actualPrice: $6.00
 album: Shambhala Vril Saucers
 artist: Remmirath
 categories:
 - Cassette
-date: '2021-11-30T13:35:56'
+date: '2022-11-24T06:11:18'
 draft: false
 images:
 - /images/covers/remmirath-shambhala_vril_saucers.png
@@ -14,4 +14,4 @@ title: Remmirath - Shambhala Vril Saucers
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=13981&sort=pd.name&order=ASC) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=13981&sort=pd.name&order=ASC) for $6.00

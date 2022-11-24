@@ -1,10 +1,10 @@
 ---
-actualPrice: $17.00 - 25.00
+actualPrice: $17.00 - 20.00
 album: "G\xE5nget \xE4ro Ljuset"
 artist: Mystruin
 categories:
 - Vinyl
-date: '2022-03-28T05:08:24'
+date: '2022-11-24T06:10:30'
 draft: false
 images:
 - "/images/covers/mystruin-g\xE5nget_\xE4ro_ljuset.jpg"
@@ -15,4 +15,4 @@ title: "Mystruin - G\xE5nget \xE4ro Ljuset"
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=1546&sort=pd.name&order=ASC) for $17.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=22037&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=22037&sort=pd.name&order=ASC) for $20.00

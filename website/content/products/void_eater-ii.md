@@ -1,10 +1,10 @@
 ---
-actualPrice: $20.00
+actualPrice: $12.00
 album: II
 artist: Void Eater
 categories:
 - Vinyl
-date: '2021-11-30T13:35:29'
+date: '2022-11-24T06:10:39'
 draft: false
 images:
 - /images/covers/void_eater-ii.jpg
@@ -14,4 +14,4 @@ title: Void Eater - II
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=11454&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=11454&sort=pd.name&order=ASC) for $12.00

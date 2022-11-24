@@ -1,11 +1,11 @@
 ---
-actualPrice: $10.00 - 18.00
+actualPrice: $8.00 - 18.00
 album: Satanic Secrets from the Mausoleum
 artist: Irae
 categories:
 - Vinyl
 - CD
-date: '2022-06-22T05:27:41'
+date: '2022-11-24T06:10:56'
 draft: false
 images:
 - /images/covers/irae-satanic_secrets_from_the_mausoleum.jpg
@@ -17,4 +17,4 @@ title: Irae - Satanic Secrets from the Mausoleum
 ## Vinyl
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/irae-satanic-secrets-from-the-mausoleum-12-lp) for $18.00
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=24816&sort=pd.name&order=ASC) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=24816&sort=pd.name&order=ASC) for $8.00

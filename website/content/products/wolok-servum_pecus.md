@@ -1,11 +1,11 @@
 ---
-actualPrice: $12.00 - 17.00
+actualPrice: $9.60 - 10.19
 album: Servum Pecus
 artist: Wolok
 categories:
 - Vinyl
 - CD
-date: '2022-09-19T05:15:14'
+date: '2022-11-24T06:11:08'
 draft: false
 images:
 - /images/covers/wolok-servum_pecus.jpg
@@ -15,6 +15,6 @@ title: Wolok - Servum Pecus
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=13507&sort=pd.name&order=ASC) for $17.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=13507&sort=pd.name&order=ASC) for $10.19
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=27887&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=27887&sort=pd.name&order=ASC) for $9.60

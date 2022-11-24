@@ -1,11 +1,11 @@
 ---
-actualPrice: $9.00 - 20.00
+actualPrice: $9.00 - 10.00
 album: Bastardizing the Purity
 artist: Blasphamagoatachrist
 categories:
 - Vinyl
 - CD
-date: '2022-07-28T05:08:12'
+date: '2022-11-24T06:10:18'
 draft: false
 images:
 - /images/covers/blasphamagoatachrist-bastardizing_the_purity.jpg
@@ -15,6 +15,6 @@ title: Blasphamagoatachrist - Bastardizing the Purity
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=12710&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=12710&sort=pd.name&order=ASC) for $10.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=8476&sort=pd.name&order=ASC) for $9.00

@@ -1,10 +1,10 @@
 ---
-actualPrice: $9.00
+actualPrice: $6.30
 album: The Flesh Domain / Thanatophobia
 artist: Repulsive
 categories:
 - Cassette
-date: '2021-11-30T13:35:56'
+date: '2022-11-24T06:11:18'
 draft: false
 images:
 - /images/covers/repulsive-the_flesh_domain_-_thanatophobia.jpg
@@ -14,4 +14,4 @@ title: Repulsive - The Flesh Domain / Thanatophobia
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=18010&sort=pd.name&order=ASC) for $9.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=18010&sort=pd.name&order=ASC) for $6.30

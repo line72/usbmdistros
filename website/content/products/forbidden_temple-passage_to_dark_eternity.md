@@ -1,10 +1,10 @@
 ---
-actualPrice: $15.00
+actualPrice: $12.00 - 15.00
 album: Passage to Dark Eternity
 artist: Forbidden Temple
 categories:
 - Vinyl
-date: '2022-11-22T06:14:07'
+date: '2022-11-24T06:10:43'
 draft: false
 images:
 - /images/covers/forbidden_temple-passage_to_dark_eternity.jpg
@@ -18,4 +18,4 @@ title: Forbidden Temple - Passage to Dark Eternity
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=27203&sort=pd.name&order=ASC) for $15.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=28027&sort=pd.name&order=ASC) for $15.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=28473&sort=pd.name&order=ASC) for $15.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=29411&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=29411&sort=pd.name&order=ASC) for $12.00

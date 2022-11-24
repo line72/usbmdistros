@@ -1,10 +1,10 @@
 ---
-actualPrice: $20.00
+actualPrice: $16.00 - 20.00
 album: Sons of Satan
 artist: Abigail / Profane Creation
 categories:
 - Vinyl
-date: '2022-10-22T05:09:01'
+date: '2022-11-24T06:10:15'
 draft: false
 images:
 - /images/covers/abigail_-_profane_creation-sons_of_satan.jpg
@@ -18,4 +18,4 @@ title: Abigail / Profane Creation - Sons of Satan
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=27055&sort=pd.name&order=ASC) for $20.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=27684&sort=pd.name&order=ASC) for $20.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=28482&sort=pd.name&order=ASC) for $20.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=28689&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=28689&sort=pd.name&order=ASC) for $16.00

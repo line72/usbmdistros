@@ -1,11 +1,11 @@
 ---
-actualPrice: $4.50 - 10.00
+actualPrice: $4.50 - 8.00
 album: Prodigal Wound
 artist: KURSE RELIC
 categories:
 - Cassette
 - CD
-date: '2022-08-17T05:02:58'
+date: '2022-11-24T06:11:16'
 draft: false
 images:
 - /images/covers/kurse_relic-prodigal_wound.jpg
@@ -15,8 +15,8 @@ title: KURSE RELIC - Prodigal Wound
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=13646&sort=pd.name&order=ASC) for $8.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=13646&sort=pd.name&order=ASC) for $4.80
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/kurse-relic-prodigal-wound-cassette) for $8.00 :: Cassette Tape 1st press
 * Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/33175513-kurse-relic-prodigal-wound) for $4.50
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=13648&sort=pd.name&order=ASC) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=13648&sort=pd.name&order=ASC) for $6.00

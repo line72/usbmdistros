@@ -1,10 +1,10 @@
 ---
-actualPrice: $25.00
+actualPrice: $20.00 - 25.00
 album: OPPRESSION MMXVIII
 artist: Shining
 categories:
 - Vinyl
-date: '2022-08-14T05:10:19'
+date: '2022-11-24T06:10:35'
 draft: false
 images:
 - /images/covers/shining-oppression_mmxviii.jpg
@@ -16,4 +16,4 @@ title: Shining - OPPRESSION MMXVIII
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=11751&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=19023&sort=pd.name&order=ASC) for $25.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=26617&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=26617&sort=pd.name&order=ASC) for $20.00

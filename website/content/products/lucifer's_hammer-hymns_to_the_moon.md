@@ -1,10 +1,10 @@
 ---
-actualPrice: $25.00
+actualPrice: $16.25 - 25.00
 album: Hymns to the Moon
 artist: Lucifer's Hammer
 categories:
 - Vinyl
-date: '2022-07-28T05:09:03'
+date: '2022-11-24T06:10:28'
 draft: false
 images:
 - /images/covers/lucifer's_hammer-hymns_to_the_moon.jpg
@@ -18,4 +18,4 @@ title: Lucifer's Hammer - Hymns to the Moon
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=22787&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=23329&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=24244&sort=pd.name&order=ASC) for $25.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=25503&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=25503&sort=pd.name&order=ASC) for $16.25

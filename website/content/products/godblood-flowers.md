@@ -1,10 +1,10 @@
 ---
-actualPrice: $20.00
+actualPrice: $13.00 - 20.00
 album: Flowers
 artist: Godblood
 categories:
 - Vinyl
-date: '2022-07-28T05:08:44'
+date: '2022-11-24T06:10:24'
 draft: false
 images:
 - /images/covers/godblood-flowers.jpg
@@ -14,5 +14,5 @@ title: Godblood - Flowers
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=15276&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=15276&sort=pd.name&order=ASC) for $13.00
 * Purchase from [CW Productions](https://shop.cwproductions.net/products/godblood-flowers-lp) for $20.00

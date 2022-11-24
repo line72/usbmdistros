@@ -1,10 +1,10 @@
 ---
-actualPrice: $17.00 - 20.00
+actualPrice: $16.00 - 17.00
 album: Beastificate
 artist: Valoton
 categories:
 - Vinyl
-date: '2022-03-24T05:08:18'
+date: '2022-11-24T06:10:38'
 draft: false
 images:
 - /images/covers/valoton-beastificate.jpg
@@ -15,4 +15,4 @@ title: Valoton - Beastificate
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=1324&sort=pd.name&order=ASC) for $17.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=21835&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=21835&sort=pd.name&order=ASC) for $16.00

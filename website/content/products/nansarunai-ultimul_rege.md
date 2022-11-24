@@ -1,11 +1,11 @@
 ---
-actualPrice: $14.00 - 25.00
+actualPrice: $12.00 - 25.00
 album: Ultimul Rege
 artist: Nansarunai
 categories:
 - Vinyl
 - CD
-date: '2022-07-23T05:00:44'
+date: '2022-11-24T06:10:59'
 draft: false
 images:
 - /images/covers/nansarunai-ultimul_rege.jpg
@@ -18,4 +18,4 @@ title: Nansarunai - Ultimul Rege
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/nansarunai-ultimul-rege-12-lp) for $25.00
 ## CD
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/nansarunai-ultimul-rege-cd) for $14.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=20775&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=20775&sort=pd.name&order=ASC) for $12.00

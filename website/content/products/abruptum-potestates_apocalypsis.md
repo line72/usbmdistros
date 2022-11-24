@@ -4,7 +4,7 @@ album: Potestates Apocalypsis
 artist: Abruptum
 categories:
 - Vinyl
-date: '2022-10-16T05:09:19'
+date: '2022-11-24T06:10:15'
 draft: false
 images:
 - /images/covers/abruptum-potestates_apocalypsis.jpg
@@ -16,4 +16,4 @@ title: Abruptum - Potestates Apocalypsis
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=5794&sort=pd.name&order=ASC) for $15.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=17995&sort=pd.name&order=ASC) for $25.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=28428&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=28428&sort=pd.name&order=ASC) for $20.00

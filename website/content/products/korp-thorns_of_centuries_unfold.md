@@ -1,10 +1,10 @@
 ---
-actualPrice: $10.00
+actualPrice: $6.00
 album: Thorns of Centuries Unfold
 artist: Korp
 categories:
 - CD
-date: '2021-11-30T13:35:41'
+date: '2022-11-24T06:10:57'
 draft: false
 images:
 - /images/covers/korp-thorns_of_centuries_unfold.jpg
@@ -14,4 +14,4 @@ title: Korp - Thorns of Centuries Unfold
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=5547&sort=pd.name&order=ASC) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=5547&sort=pd.name&order=ASC) for $6.00

@@ -1,10 +1,10 @@
 ---
-actualPrice: $13.00 - 15.00
+actualPrice: $12.00 - 15.00
 album: Euphoria Never Leaves
 artist: Zhmach
 categories:
 - Vinyl
-date: '2022-11-03T05:12:10'
+date: '2022-11-24T06:10:46'
 draft: false
 images:
 - /images/covers/zhmach-euphoria_never_leaves.jpg
@@ -18,4 +18,4 @@ title: Zhmach - Euphoria Never Leaves
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=25092&sort=pd.name&order=ASC) for $15.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=27409&sort=pd.name&order=ASC) for $15.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=28880&sort=pd.name&order=ASC) for $15.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=28978&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=28978&sort=pd.name&order=ASC) for $12.00

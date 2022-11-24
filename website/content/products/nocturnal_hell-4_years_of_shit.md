@@ -1,10 +1,10 @@
 ---
-actualPrice: $6.00
+actualPrice: $3.60
 album: 4 Years of Shit
 artist: Nocturnal Hell
 categories:
 - CD
-date: '2021-11-30T13:35:44'
+date: '2022-11-24T06:11:00'
 draft: false
 images:
 - /images/covers/nocturnal_hell-4_years_of_shit.jpg
@@ -14,4 +14,4 @@ title: Nocturnal Hell - 4 Years of Shit
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=1389&sort=pd.name&order=ASC) for $6.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=1389&sort=pd.name&order=ASC) for $3.60

@@ -1,10 +1,10 @@
 ---
-actualPrice: $45.00 - 50.00
+actualPrice: $36.00 - 50.00
 album: Borknagar + Bonus Tracks
 artist: Borknagar
 categories:
 - Vinyl
-date: '2022-11-23T06:10:50'
+date: '2022-11-24T06:10:19'
 draft: false
 images:
 - /images/covers/borknagar-borknagar_+_bonus_tracks.jpg
@@ -20,4 +20,4 @@ title: Borknagar - Borknagar + Bonus Tracks
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=25614&sort=pd.name&order=ASC) for $45.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=28031&sort=pd.name&order=ASC) for $45.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=28485&sort=pd.name&order=ASC) for $45.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29506&sort=pd.name&order=ASC) for $45.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29506&sort=pd.name&order=ASC) for $36.00

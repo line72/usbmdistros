@@ -1,10 +1,10 @@
 ---
-actualPrice: $10.00
+actualPrice: $8.00
 album: The Fifth Fulmination
 artist: Goatfire
 categories:
 - Vinyl
-date: '2022-08-12T05:11:12'
+date: '2022-11-24T06:10:43'
 draft: false
 images:
 - /images/covers/goatfire-the_fifth_fulmination.jpg
@@ -14,4 +14,4 @@ title: Goatfire - The Fifth Fulmination
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=26438&sort=pd.name&order=ASC) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=26438&sort=pd.name&order=ASC) for $8.00

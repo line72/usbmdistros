@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00
+actualPrice: $9.60 - 12.00
 album: The Witches of Hoia Baciu - Demo 2
 artist: Crypts Of Wallachia
 categories:
 - Cassette
-date: '2022-08-26T05:31:59'
+date: '2022-11-24T06:11:11'
 draft: false
 images:
 - /images/covers/crypts_of_wallachia-the_witches_of_hoia_baciu_-_demo_2.jpg
@@ -17,4 +17,4 @@ title: Crypts Of Wallachia - The Witches of Hoia Baciu - Demo 2
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=20812&sort=pd.name&order=ASC) for $12.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=21114&sort=pd.name&order=ASC) for $12.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=26396&sort=pd.name&order=ASC) for $12.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=27168&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=27168&sort=pd.name&order=ASC) for $9.60

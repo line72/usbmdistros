@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00
+actualPrice: $9.60
 album: Ingentes Atque Decorii Vexilliferi Apokalypsis
 artist: Fleurety
 categories:
 - Vinyl
-date: '2022-05-21T05:10:10'
+date: '2022-11-24T06:10:43'
 draft: false
 images:
 - /images/covers/fleurety-ingentes_atque_decorii_vexilliferi_apokalypsis.png
@@ -14,4 +14,4 @@ title: Fleurety - Ingentes Atque Decorii Vexilliferi Apokalypsis
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=23566&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=23566&sort=pd.name&order=ASC) for $9.60

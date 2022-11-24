@@ -1,11 +1,11 @@
 ---
-actualPrice: $7.00 - 7.50
+actualPrice: $4.20 - 7.50
 album: "\u0938\u0902\u0938\u093E\u0930 \u0915\u093E \u092A\u0925"
 artist: Pyreficativm
 categories:
 - Cassette
 - CD
-date: '2021-11-30T13:35:55'
+date: '2022-11-24T06:11:18'
 draft: false
 images:
 - "/images/covers/pyreficativm-\u0938\u0902\u0938\u093E\u0930_\u0915\u093E_\u092A\u0925\
@@ -17,6 +17,6 @@ title: "Pyreficativm - \u0938\u0902\u0938\u093E\u0930 \u0915\u093E \u092A\u0925"
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=4099&sort=pd.name&order=ASC) for $7.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=4099&sort=pd.name&order=ASC) for $4.20
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=4112&sort=pd.name&order=ASC) for $7.50

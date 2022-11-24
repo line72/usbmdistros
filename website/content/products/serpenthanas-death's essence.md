@@ -1,10 +1,10 @@
 ---
-actualPrice: $25.00
+actualPrice: $17.50
 album: "Death's\_Essence"
 artist: Serpenthanas
 categories:
 - Vinyl
-date: '2021-11-30T13:35:26'
+date: '2022-11-24T06:10:34'
 draft: false
 images:
 - "/images/covers/serpenthanas-death's\_essence.jpg"
@@ -14,4 +14,4 @@ title: "Serpenthanas - Death's\_Essence"
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=18222&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=18222&sort=pd.name&order=ASC) for $17.50

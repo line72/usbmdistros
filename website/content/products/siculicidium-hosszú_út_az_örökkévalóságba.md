@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00
+actualPrice: $9.60
 album: "Hossz\xFA \xDAt Az \xD6r\xF6kk\xE9val\xF3s\xE1gba"
 artist: Siculicidium
 categories:
 - CD
-date: '2022-03-02T06:09:50'
+date: '2022-11-24T06:11:04'
 draft: false
 images:
 - "/images/covers/siculicidium-hossz\xFA_\xFAt_az_\xF6r\xF6kk\xE9val\xF3s\xE1gba.jpg"
@@ -15,4 +15,4 @@ title: "Siculicidium - Hossz\xFA \xDAt Az \xD6r\xF6kk\xE9val\xF3s\xE1gba"
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=21162&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=21162&sort=pd.name&order=ASC) for $9.60

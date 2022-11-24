@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00
+actualPrice: $9.60
 album: Mrakobesje ili Smrt
 artist: Godcider
 categories:
 - CD
-date: '2022-06-25T05:11:22'
+date: '2022-11-24T06:10:54'
 draft: false
 images:
 - /images/covers/godcider-mrakobesje_ili_smrt.jpg
@@ -14,4 +14,4 @@ title: Godcider - Mrakobesje ili Smrt
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=24934&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=24934&sort=pd.name&order=ASC) for $9.60

@@ -6,7 +6,7 @@ categories:
 - Vinyl
 - Cassette
 - CD
-date: '2022-07-17T05:02:19'
+date: '2022-11-24T06:10:56'
 draft: false
 images:
 - /images/covers/illum_adora-infernum_et_necromantium.jpg
@@ -20,4 +20,4 @@ title: Illum Adora - Infernum Et Necromantium
 ## Cassette
 * Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/33096514-illum-adora-infernum-et-necromantium) for $3.50
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=10612&sort=pd.name&order=ASC) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=10612&sort=pd.name&order=ASC) for $6.00

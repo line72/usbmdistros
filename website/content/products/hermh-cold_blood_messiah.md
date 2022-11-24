@@ -1,10 +1,10 @@
 ---
-actualPrice: $17.00
+actualPrice: $11.90
 album: Cold Blood Messiah
 artist: Hermh
 categories:
 - CD
-date: '2021-12-30T06:08:59'
+date: '2022-11-24T06:10:55'
 draft: false
 images:
 - /images/covers/hermh-cold_blood_messiah.jpg
@@ -14,4 +14,4 @@ title: Hermh - Cold Blood Messiah
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=19949&sort=pd.name&order=ASC) for $17.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=19949&sort=pd.name&order=ASC) for $11.90

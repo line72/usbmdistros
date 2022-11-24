@@ -1,10 +1,10 @@
 ---
-actualPrice: $20.00
+actualPrice: $12.00
 album: Unholy Exaltation of Fullmoon Perversity
 artist: Weregoat
 categories:
 - Vinyl
-date: '2022-09-30T05:11:22'
+date: '2022-11-24T06:10:40'
 draft: false
 images:
 - /images/covers/weregoat-unholy_exaltation_of_fullmoon_perversity.jpg
@@ -14,4 +14,4 @@ title: Weregoat - Unholy Exaltation of Fullmoon Perversity
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=10014&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=10014&sort=pd.name&order=ASC) for $12.00

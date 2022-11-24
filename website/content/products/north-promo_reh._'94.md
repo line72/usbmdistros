@@ -1,10 +1,10 @@
 ---
-actualPrice: $15.00
+actualPrice: $12.00
 album: Promo Reh. '94
 artist: North
 categories:
 - Cassette
-date: '2022-05-29T12:43:42'
+date: '2022-11-24T06:11:17'
 draft: false
 images:
 - /images/covers/north-promo_reh._'94.jpg
@@ -14,4 +14,4 @@ title: North - Promo Reh. '94
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=23930&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=23930&sort=pd.name&order=ASC) for $12.00

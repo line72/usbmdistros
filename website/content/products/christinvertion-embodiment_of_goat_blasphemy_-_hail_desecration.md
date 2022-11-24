@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00
+actualPrice: $9.60
 album: Embodiment of Goat Blasphemy / Hail Desecration
 artist: ChristInvertion
 categories:
 - Cassette
-date: '2022-01-22T06:09:24'
+date: '2022-11-24T06:11:11'
 draft: false
 images:
 - /images/covers/christinvertion-embodiment_of_goat_blasphemy_-_hail_desecration.jpg
@@ -14,4 +14,4 @@ title: ChristInvertion - Embodiment of Goat Blasphemy / Hail Desecration
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=20467&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=20467&sort=pd.name&order=ASC) for $9.60

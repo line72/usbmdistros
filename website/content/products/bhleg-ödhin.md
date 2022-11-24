@@ -1,12 +1,12 @@
 ---
-actualPrice: $10.00 - 22.00
+actualPrice: $7.20 - 13.20
 album: "\xD6dhin"
 artist: Bhleg
 categories:
 - Vinyl
 - Cassette
 - CD
-date: '2021-11-30T13:35:35'
+date: '2022-11-24T06:10:48'
 draft: false
 images:
 - "/images/covers/bhleg-\xF6dhin.jpg"
@@ -16,8 +16,8 @@ title: "Bhleg - \xD6dhin"
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=12022&sort=pd.name&order=ASC) for $22.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=12022&sort=pd.name&order=ASC) for $13.20
 ## Cassette
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/bhleg-odhin-tape) for $10.00
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=12023&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=12023&sort=pd.name&order=ASC) for $7.20

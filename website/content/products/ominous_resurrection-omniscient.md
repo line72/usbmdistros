@@ -1,12 +1,12 @@
 ---
-actualPrice: $10.00 - 25.00
+actualPrice: $6.00 - 25.00
 album: Omniscient
 artist: Ominous Resurrection
 categories:
 - Vinyl
 - Cassette
 - CD
-date: '2022-06-13T05:17:19'
+date: '2022-11-24T06:11:01'
 draft: false
 images:
 - /images/covers/ominous_resurrection-omniscient.jpg
@@ -20,4 +20,4 @@ title: Ominous Resurrection - Omniscient
 ## Cassette
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/ominous-resurrection-omniscient-cassette) for $16.00 :: Cassette Tape 1st press
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=5434&sort=pd.name&order=ASC) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=5434&sort=pd.name&order=ASC) for $6.00

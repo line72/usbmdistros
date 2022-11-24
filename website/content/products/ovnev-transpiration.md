@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00
+actualPrice: $7.20
 album: Transpiration
 artist: Ovnev
 categories:
 - CD
-date: '2021-11-30T13:35:44'
+date: '2022-11-24T06:11:01'
 draft: false
 images:
 - /images/covers/ovnev-transpiration.jpg
@@ -14,4 +14,4 @@ title: Ovnev - Transpiration
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=11223&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=11223&sort=pd.name&order=ASC) for $7.20

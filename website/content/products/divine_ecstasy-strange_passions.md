@@ -1,10 +1,10 @@
 ---
-actualPrice: $17.00
+actualPrice: $10.19
 album: Strange Passions
 artist: Divine Ecstasy
 categories:
 - Vinyl
-date: '2021-11-30T13:35:17'
+date: '2022-11-24T06:10:22'
 draft: false
 images:
 - /images/covers/divine_ecstasy-strange_passions.jpg
@@ -14,4 +14,4 @@ title: Divine Ecstasy - Strange Passions
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=3908&sort=pd.name&order=ASC) for $17.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=3908&sort=pd.name&order=ASC) for $10.19

@@ -1,10 +1,10 @@
 ---
-actualPrice: $15.00
+actualPrice: $12.00
 album: Misanthropic Genius
 artist: Terrorama
 categories:
 - Cassette
-date: '2022-05-04T05:12:01'
+date: '2022-11-24T06:11:20'
 draft: false
 images:
 - /images/covers/terrorama-misanthropic_genius.jpg
@@ -14,4 +14,4 @@ title: Terrorama - Misanthropic Genius
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=23015&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=23015&sort=pd.name&order=ASC) for $12.00

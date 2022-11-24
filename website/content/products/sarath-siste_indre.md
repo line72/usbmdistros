@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00
+actualPrice: $9.60
 album: Siste Indre
 artist: Sarath
 categories:
 - CD
-date: '2022-09-14T05:14:57'
+date: '2022-11-24T06:11:03'
 draft: false
 images:
 - /images/covers/sarath-siste_indre.jpg
@@ -14,4 +14,4 @@ title: Sarath - Siste Indre
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=27734&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=27734&sort=pd.name&order=ASC) for $9.60

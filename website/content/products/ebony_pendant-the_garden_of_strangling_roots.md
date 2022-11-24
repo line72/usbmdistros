@@ -5,7 +5,7 @@ artist: Ebony Pendant
 categories:
 - Vinyl
 - CD
-date: '2022-11-18T06:10:58'
+date: '2022-11-24T06:10:22'
 draft: false
 images:
 - /images/covers/ebony_pendant-the_garden_of_strangling_roots.jpg
@@ -18,6 +18,6 @@ title: Ebony Pendant - The Garden of Strangling Roots
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=20780&sort=pd.name&order=ASC) for $50.00
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/ebony-pendant-the-garden-of-strangling-roots-12-lp) for $30.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=28329&sort=pd.name&order=ASC) for $28.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29319&sort=pd.name&order=ASC) for $28.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29319&sort=pd.name&order=ASC) for $22.40
 ## CD
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/ebony-pendant-the-garden-of-strangling-roots-cd) for $13.00

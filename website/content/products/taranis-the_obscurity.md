@@ -1,10 +1,10 @@
 ---
-actualPrice: $25.00 - 150.00
+actualPrice: $20.00 - 150.00
 album: The Obscurity
 artist: Taranis
 categories:
 - Vinyl
-date: '2022-09-02T05:11:22'
+date: '2022-11-24T06:10:36'
 draft: false
 images:
 - /images/covers/taranis-the_obscurity.jpg
@@ -20,5 +20,5 @@ title: Taranis - The Obscurity
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=23938&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=23939&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=24344&sort=pd.name&order=ASC) for $130.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=27336&sort=pd.name&order=ASC) for $130.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=27337&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=27336&sort=pd.name&order=ASC) for $104.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=27337&sort=pd.name&order=ASC) for $20.00

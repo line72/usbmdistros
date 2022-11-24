@@ -5,7 +5,7 @@ artist: Archgoat
 categories:
 - Vinyl
 - CD
-date: '2022-11-23T06:10:33'
+date: '2022-11-24T06:10:17'
 draft: false
 images:
 - /images/covers/archgoat-black_mass_xxx.jpg
@@ -21,6 +21,6 @@ title: Archgoat - Black Mass XXX
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/archgoat-black-mass-xxx) for $39.00 :: Tri-Color w/ Splatter 1st press vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=28710&sort=pd.name&order=ASC) for $30.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=28950&sort=pd.name&order=ASC) for $30.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29491&sort=pd.name&order=ASC) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29491&sort=pd.name&order=ASC) for $24.00
 ## CD
 * Purchase from [Debemur Morti](https://debemurmorti.aisamerch.com/item/83269) for $10.99

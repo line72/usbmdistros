@@ -1,10 +1,10 @@
 ---
-actualPrice: $10.00
+actualPrice: $6.00
 album: Sounds for Armageddon
 artist: Miserycore
 categories:
 - CD
-date: '2021-11-30T13:35:43'
+date: '2022-11-24T06:10:59'
 draft: false
 images:
 - /images/covers/miserycore-sounds_for_armageddon.jpg
@@ -14,4 +14,4 @@ title: Miserycore - Sounds for Armageddon
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=14689&sort=pd.name&order=ASC) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=14689&sort=pd.name&order=ASC) for $6.00

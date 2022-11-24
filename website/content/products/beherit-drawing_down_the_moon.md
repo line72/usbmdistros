@@ -4,7 +4,7 @@ album: Drawing Down the Moon
 artist: Beherit
 categories:
 - Vinyl
-date: '2022-11-23T06:10:42'
+date: '2022-11-24T06:10:18'
 draft: false
 images:
 - /images/covers/beherit-drawing_down_the_moon.jpg
@@ -20,4 +20,4 @@ title: Beherit - Drawing Down the Moon
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=22455&sort=pd.name&order=ASC) for $30.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=27526&sort=pd.name&order=ASC) for $40.00
 * Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/beherit-drawing-down-the-moon-12-lp/) for $20.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29580&sort=pd.name&order=ASC) for $40.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29580&sort=pd.name&order=ASC) for $32.00

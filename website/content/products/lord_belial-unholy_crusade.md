@@ -1,10 +1,10 @@
 ---
-actualPrice: $25.00
+actualPrice: $20.00 - 25.00
 album: Unholy Crusade
 artist: Lord Belial
 categories:
 - Vinyl
-date: '2022-10-30T05:10:07'
+date: '2022-11-24T06:10:27'
 draft: false
 images:
 - /images/covers/lord_belial-unholy_crusade.jpg
@@ -18,4 +18,4 @@ title: Lord Belial - Unholy Crusade
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=24563&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=25819&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=28439&sort=pd.name&order=ASC) for $25.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=28889&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=28889&sort=pd.name&order=ASC) for $20.00

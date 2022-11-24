@@ -1,10 +1,10 @@
 ---
-actualPrice: $17.00
+actualPrice: $10.19
 album: Yersinia Pestis
 artist: Pestis
 categories:
 - Vinyl
-date: '2021-11-30T13:35:24'
+date: '2022-11-24T06:10:32'
 draft: false
 images:
 - /images/covers/pestis-yersinia_pestis.jpg
@@ -14,4 +14,4 @@ title: Pestis - Yersinia Pestis
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=10808&sort=pd.name&order=ASC) for $17.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=10808&sort=pd.name&order=ASC) for $10.19

@@ -1,10 +1,10 @@
 ---
-actualPrice: $17.00
+actualPrice: $10.19
 album: Occult Rituals of Anthropophagous Worship
 artist: Amaguq
 categories:
 - Vinyl
-date: '2021-11-30T13:35:13'
+date: '2022-11-24T06:10:16'
 draft: false
 images:
 - /images/covers/amaguq-occult_rituals_of_anthropophagous_worship.jpg
@@ -14,4 +14,4 @@ title: Amaguq - Occult Rituals of Anthropophagous Worship
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=2579&sort=pd.name&order=ASC) for $17.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=2579&sort=pd.name&order=ASC) for $10.19

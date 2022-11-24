@@ -1,10 +1,10 @@
 ---
-actualPrice: $7.00
+actualPrice: $4.20
 album: "Tills d\xF6den skiljer oss \xE5t"
 artist: Acacia
 categories:
 - CD
-date: '2021-11-30T13:35:33'
+date: '2022-11-24T06:10:46'
 draft: false
 images:
 - "/images/covers/acacia-tills_d\xF6den_skiljer_oss_\xE5t.jpg"
@@ -14,4 +14,4 @@ title: "Acacia - Tills d\xF6den skiljer oss \xE5t"
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=1416&sort=pd.name&order=ASC) for $7.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=1416&sort=pd.name&order=ASC) for $4.20

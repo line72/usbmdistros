@@ -1,11 +1,11 @@
 ---
-actualPrice: $10.00 - 35.00
+actualPrice: $6.50 - 35.00
 album: Goetia
 artist: Mystifier
 categories:
 - Vinyl
 - CD
-date: '2022-08-18T05:10:24'
+date: '2022-11-24T06:10:59'
 draft: false
 images:
 - /images/covers/mystifier-goetia.jpg
@@ -21,4 +21,4 @@ title: Mystifier - Goetia
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=15232&sort=pd.name&order=ASC) for $10.00
 * Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/mystifier-goetia-cd/) for $10.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=23924&sort=pd.name&order=ASC) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=23924&sort=pd.name&order=ASC) for $6.50

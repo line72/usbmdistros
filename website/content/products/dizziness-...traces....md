@@ -1,10 +1,10 @@
 ---
-actualPrice: $10.00
+actualPrice: $6.00
 album: '...Traces...'
 artist: DIZZINESS
 categories:
 - CD
-date: '2021-11-30T13:35:37'
+date: '2022-11-24T06:10:51'
 draft: false
 images:
 - /images/covers/dizziness-...traces....jpg
@@ -14,4 +14,4 @@ title: DIZZINESS - ...Traces...
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=3489&sort=pd.name&order=ASC) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=3489&sort=pd.name&order=ASC) for $6.00

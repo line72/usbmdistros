@@ -1,10 +1,10 @@
 ---
-actualPrice: $22.00 - 28.00
+actualPrice: $17.60 - 28.00
 album: Runebomme
 artist: Noaidi
 categories:
 - Vinyl
-date: '2022-08-14T05:09:55'
+date: '2022-11-24T06:10:31'
 draft: false
 images:
 - /images/covers/noaidi-runebomme.jpg
@@ -17,4 +17,4 @@ title: Noaidi - Runebomme
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/noaidi-runebomme-12-lp) for $28.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=20150&sort=pd.name&order=ASC) for $28.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=20227&sort=pd.name&order=ASC) for $28.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=26601&sort=pd.name&order=ASC) for $22.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=26601&sort=pd.name&order=ASC) for $17.60

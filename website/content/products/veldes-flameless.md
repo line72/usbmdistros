@@ -1,10 +1,10 @@
 ---
-actualPrice: $25.00
+actualPrice: $17.50
 album: Flameless
 artist: Veldes
 categories:
 - Vinyl
-date: '2021-11-30T13:35:28'
+date: '2022-11-24T06:10:39'
 draft: false
 images:
 - /images/covers/veldes-flameless.jpg
@@ -14,4 +14,4 @@ title: Veldes - Flameless
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=18052&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=18052&sort=pd.name&order=ASC) for $17.50

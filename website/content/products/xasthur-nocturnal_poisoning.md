@@ -1,10 +1,10 @@
 ---
-actualPrice: $25.00 - 30.00
+actualPrice: $24.00 - 30.00
 album: Nocturnal Poisoning
 artist: Xasthur
 categories:
 - Vinyl
-date: '2022-10-25T05:28:00'
+date: '2022-11-24T06:10:40'
 draft: false
 images:
 - /images/covers/xasthur-nocturnal_poisoning.jpg
@@ -18,4 +18,4 @@ title: Xasthur - Nocturnal Poisoning
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/xasthur-nocturnal-poisoning-lp) for $29.00 :: Black 2019 press vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=20807&sort=pd.name&order=ASC) for $30.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=20923&sort=pd.name&order=ASC) for $30.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=28725&sort=pd.name&order=ASC) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=28725&sort=pd.name&order=ASC) for $24.00

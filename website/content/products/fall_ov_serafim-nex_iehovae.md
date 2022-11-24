@@ -1,10 +1,10 @@
 ---
-actualPrice: $15.00
+actualPrice: $10.50
 album: Nex Iehovae
 artist: Fall Ov Serafim
 categories:
 - CD
-date: '2021-12-30T06:08:52'
+date: '2022-11-24T06:10:53'
 draft: false
 images:
 - /images/covers/fall_ov_serafim-nex_iehovae.jpg
@@ -14,4 +14,4 @@ title: Fall Ov Serafim - Nex Iehovae
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=19932&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=19932&sort=pd.name&order=ASC) for $10.50

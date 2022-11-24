@@ -1,10 +1,10 @@
 ---
-actualPrice: $10.00
+actualPrice: $8.00
 album: Avernus
 artist: Nefarium
 categories:
 - Vinyl
-date: '2022-05-21T05:10:16'
+date: '2022-11-24T06:10:44'
 draft: false
 images:
 - /images/covers/nefarium-avernus.png
@@ -14,4 +14,4 @@ title: Nefarium - Avernus
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=23587&sort=pd.name&order=ASC) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=23587&sort=pd.name&order=ASC) for $8.00

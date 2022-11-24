@@ -1,10 +1,10 @@
 ---
-actualPrice: $22.00
+actualPrice: $13.20
 album: Malsanctum
 artist: Malsanctum
 categories:
 - Vinyl
-date: '2021-11-30T13:35:22'
+date: '2022-11-24T06:10:28'
 draft: false
 images:
 - /images/covers/malsanctum-malsanctum.jpg
@@ -14,4 +14,4 @@ title: Malsanctum - Malsanctum
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=4222&sort=pd.name&order=ASC) for $22.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=4222&sort=pd.name&order=ASC) for $13.20

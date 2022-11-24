@@ -1,10 +1,10 @@
 ---
-actualPrice: $25.00
+actualPrice: $20.00
 album: Ascension
 artist: Serpents Oath
 categories:
 - Vinyl
-date: '2022-06-25T05:09:48'
+date: '2022-11-24T06:10:35'
 draft: false
 images:
 - /images/covers/serpents_oath-ascension.png
@@ -14,4 +14,4 @@ title: Serpents Oath - Ascension
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=24913&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=24913&sort=pd.name&order=ASC) for $20.00

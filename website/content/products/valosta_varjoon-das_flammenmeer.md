@@ -1,10 +1,10 @@
 ---
-actualPrice: $25.00
+actualPrice: $17.50
 album: Das Flammenmeer
 artist: Valosta Varjoon
 categories:
 - Vinyl
-date: '2021-11-30T13:35:28'
+date: '2022-11-24T06:10:38'
 draft: false
 images:
 - /images/covers/valosta_varjoon-das_flammenmeer.png
@@ -14,4 +14,4 @@ title: Valosta Varjoon - Das Flammenmeer
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=18104&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=18104&sort=pd.name&order=ASC) for $17.50

@@ -5,7 +5,7 @@ artist: Sabbat
 categories:
 - Vinyl
 - Cassette
-date: '2022-07-28T05:09:35'
+date: '2022-11-24T06:10:34'
 draft: false
 images:
 - /images/covers/sabbat-sabbaticurse.jpg
@@ -18,7 +18,7 @@ title: Sabbat - Sabbaticurse
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=24905&sort=pd.name&order=ASC) for $30.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=25041&sort=pd.name&order=ASC) for $30.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=25363&sort=pd.name&order=ASC) for $30.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=25424&sort=pd.name&order=ASC) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=25424&sort=pd.name&order=ASC) for $19.50
 ## Cassette
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=20530&sort=pd.name&order=ASC) for $10.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=20681&sort=pd.name&order=ASC) for $10.00

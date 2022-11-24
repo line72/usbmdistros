@@ -1,10 +1,10 @@
 ---
-actualPrice: $5.00
+actualPrice: $3.00
 album: Transparent Vibrant Shadows
 artist: Haeiresis
 categories:
 - CD
-date: '2021-11-30T13:35:40'
+date: '2022-11-24T06:10:54'
 draft: false
 images:
 - /images/covers/haeiresis-transparent_vibrant_shadows.jpg
@@ -14,4 +14,4 @@ title: Haeiresis - Transparent Vibrant Shadows
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=698&sort=pd.name&order=ASC) for $5.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=698&sort=pd.name&order=ASC) for $3.00

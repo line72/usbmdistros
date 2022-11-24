@@ -1,10 +1,10 @@
 ---
-actualPrice: $25.00
+actualPrice: $16.25
 album: Serpentine Hermetic Lucifer
 artist: Nuclearhammer
 categories:
 - Vinyl
-date: '2022-07-28T05:09:22'
+date: '2022-11-24T06:10:31'
 draft: false
 images:
 - /images/covers/nuclearhammer-serpentine_hermetic_lucifer.jpg
@@ -14,4 +14,4 @@ title: Nuclearhammer - Serpentine Hermetic Lucifer
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=19878&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=19878&sort=pd.name&order=ASC) for $16.25

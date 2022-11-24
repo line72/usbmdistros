@@ -1,10 +1,10 @@
 ---
-actualPrice: $10.00 - 12.75
+actualPrice: $7.00 - 12.75
 album: Erosplattered
 artist: "Conj\xFCrat\xF6r"
 categories:
 - Vinyl
-date: '2022-03-27T05:07:34'
+date: '2022-11-24T06:10:20'
 draft: false
 images:
 - "/images/covers/conj\xFCrat\xF6r-erosplattered.jpg"
@@ -16,4 +16,4 @@ title: "Conj\xFCrat\xF6r - Erosplattered"
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=1779&sort=pd.name&order=ASC) for $11.25
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=1556&sort=pd.name&order=ASC) for $12.75
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=19038&sort=pd.name&order=ASC) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=19038&sort=pd.name&order=ASC) for $7.00

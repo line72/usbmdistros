@@ -5,7 +5,7 @@ artist: Demoniac
 categories:
 - Vinyl
 - CD
-date: '2022-09-16T05:13:17'
+date: '2022-11-24T06:10:51'
 draft: false
 images:
 - /images/covers/demoniac-malleus_christianitatis.jpg
@@ -19,4 +19,4 @@ title: Demoniac - Malleus Christianitatis
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=2474&sort=pd.name&order=ASC) for $11.25
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=26800&sort=pd.name&order=ASC) for $15.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=27823&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=27823&sort=pd.name&order=ASC) for $12.00

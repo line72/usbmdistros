@@ -1,10 +1,10 @@
 ---
-actualPrice: $10.00
+actualPrice: $8.00 - 10.00
 album: Chance (Rebirth) / Northern Mist
 artist: White Medal
 categories:
 - Vinyl
-date: '2022-06-22T05:26:49'
+date: '2022-11-24T06:10:46'
 draft: false
 images:
 - /images/covers/white_medal-chance_(rebirth)_-_northern_mist.jpg
@@ -15,4 +15,4 @@ title: White Medal - Chance (Rebirth) / Northern Mist
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=17124&sort=pd.name&order=ASC) for $10.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=24788&sort=pd.name&order=ASC) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=24788&sort=pd.name&order=ASC) for $8.00

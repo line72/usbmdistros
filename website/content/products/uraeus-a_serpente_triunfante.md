@@ -1,10 +1,10 @@
 ---
-actualPrice: $5.00
+actualPrice: $3.00
 album: A Serpente Triunfante
 artist: Uraeus
 categories:
 - CD
-date: '2021-11-30T13:35:48'
+date: '2022-11-24T06:11:07'
 draft: false
 images:
 - /images/covers/uraeus-a_serpente_triunfante.png
@@ -14,4 +14,4 @@ title: Uraeus - A Serpente Triunfante
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=1879&sort=pd.name&order=ASC) for $5.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=1879&sort=pd.name&order=ASC) for $3.00

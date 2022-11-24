@@ -1,10 +1,10 @@
 ---
-actualPrice: $7.00
+actualPrice: $4.20
 album: My Dying Breath
 artist: Demonic Cremator
 categories:
 - Vinyl
-date: '2021-11-30T13:35:31'
+date: '2022-11-24T06:10:42'
 draft: false
 images:
 - /images/covers/demonic_cremator-my_dying_breath.jpg
@@ -14,4 +14,4 @@ title: Demonic Cremator - My Dying Breath
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=1315&sort=pd.name&order=ASC) for $7.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=1315&sort=pd.name&order=ASC) for $4.20

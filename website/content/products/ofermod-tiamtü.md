@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00
+actualPrice: $9.60
 album: "Tiamt\xFC"
 artist: Ofermod
 categories:
 - Cassette
-date: '2022-03-23T05:10:59'
+date: '2022-11-24T06:11:17'
 draft: false
 images:
 - "/images/covers/ofermod-tiamt\xFC.png"
@@ -14,4 +14,4 @@ title: "Ofermod - Tiamt\xFC"
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=21798&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=21798&sort=pd.name&order=ASC) for $9.60

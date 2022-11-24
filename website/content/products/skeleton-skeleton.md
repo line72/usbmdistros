@@ -6,7 +6,7 @@ categories:
 - Vinyl
 - Cassette
 - CD
-date: '2022-08-18T05:18:29'
+date: '2022-11-24T06:10:35'
 draft: false
 images:
 - /images/covers/skeleton-skeleton.jpg
@@ -17,7 +17,7 @@ title: Skeleton - Skeleton
 
 ## Vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/skeleton-skeleton-lp) for $29.00 :: Silver/Gold Merge w/ Black/White Splatter 1st press vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=17031&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=17031&sort=pd.name&order=ASC) for $14.00
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/skeleton-skeleton-lp) for $20.00 :: Black 2022 press vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/skeleton-skeleton-lp) for $23.00 :: Cloudy Beer 2022 press vinyl
 ## Cassette

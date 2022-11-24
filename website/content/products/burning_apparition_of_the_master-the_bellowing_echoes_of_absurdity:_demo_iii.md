@@ -1,10 +1,10 @@
 ---
-actualPrice: $25.00
+actualPrice: $20.00
 album: 'The Bellowing Echoes Of Absurdity: Demo III'
 artist: Burning Apparition Of The Master
 categories:
 - Vinyl
-date: '2022-04-13T05:07:46'
+date: '2022-11-24T06:10:19'
 draft: false
 images:
 - /images/covers/burning_apparition_of_the_master-the_bellowing_echoes_of_absurdity:_demo_iii.jpg
@@ -15,4 +15,4 @@ title: 'Burning Apparition Of The Master - The Bellowing Echoes Of Absurdity: De
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=22408&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=22408&sort=pd.name&order=ASC) for $20.00

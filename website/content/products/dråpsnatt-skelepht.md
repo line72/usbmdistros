@@ -1,11 +1,11 @@
 ---
-actualPrice: $12.00 - 22.00
+actualPrice: $7.20 - 13.20
 album: Skelepht
 artist: "Dr\xE5psnatt"
 categories:
 - Vinyl
 - CD
-date: '2021-11-30T13:35:37'
+date: '2022-11-24T06:10:52'
 draft: false
 images:
 - "/images/covers/dr\xE5psnatt-skelepht.jpg"
@@ -15,6 +15,6 @@ title: "Dr\xE5psnatt - Skelepht"
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=8862&sort=pd.name&order=ASC) for $22.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=8862&sort=pd.name&order=ASC) for $13.20
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=8884&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=8884&sort=pd.name&order=ASC) for $7.20

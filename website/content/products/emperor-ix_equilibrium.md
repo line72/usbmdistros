@@ -4,7 +4,7 @@ album: IX EQUILIBRIUM
 artist: Emperor
 categories:
 - Vinyl
-date: '2022-11-19T06:10:58'
+date: '2022-11-24T06:10:22'
 draft: false
 images:
 - /images/covers/emperor-ix_equilibrium.jpg
@@ -21,4 +21,4 @@ title: Emperor - IX EQUILIBRIUM
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=26049&sort=pd.name&order=ASC) for $30.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=26887&sort=pd.name&order=ASC) for $30.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=27252&sort=pd.name&order=ASC) for $30.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29365&sort=pd.name&order=ASC) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29365&sort=pd.name&order=ASC) for $24.00

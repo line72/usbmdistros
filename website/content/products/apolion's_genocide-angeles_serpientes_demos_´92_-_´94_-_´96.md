@@ -1,10 +1,10 @@
 ---
-actualPrice: $8.00
+actualPrice: $4.80
 album: "Angeles Serpientes Demos \xB492 - \xB494 - \xB496"
 artist: Apolion's Genocide
 categories:
 - CD
-date: '2021-11-30T13:35:34'
+date: '2022-11-24T06:10:47'
 draft: false
 images:
 - "/images/covers/apolion's_genocide-angeles_serpientes_demos_\xB492_-_\xB494_-_\xB4\
@@ -16,4 +16,4 @@ title: "Apolion's Genocide - Angeles Serpientes Demos \xB492 - \xB494 - \xB496"
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=1970&sort=pd.name&order=ASC) for $8.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=1970&sort=pd.name&order=ASC) for $4.80

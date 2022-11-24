@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00
+actualPrice: $9.60
 album: Totentanz
 artist: Blackdeath
 categories:
 - CD
-date: '2022-07-12T05:11:08'
+date: '2022-11-24T06:10:49'
 draft: false
 images:
 - /images/covers/blackdeath-totentanz.jpg
@@ -14,4 +14,4 @@ title: Blackdeath - Totentanz
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=25297&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=25297&sort=pd.name&order=ASC) for $9.60

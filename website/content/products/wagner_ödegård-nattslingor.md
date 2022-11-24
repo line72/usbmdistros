@@ -1,10 +1,10 @@
 ---
-actualPrice: $30.00 - 50.00
+actualPrice: $28.00 - 50.00
 album: Nattslingor
 artist: "Wagner \xD6deg\xE5rd"
 categories:
 - Vinyl
-date: '2022-07-19T15:45:44'
+date: '2022-11-24T06:10:39'
 draft: false
 images:
 - "/images/covers/wagner_\xF6deg\xE5rd-nattslingor.jpg"
@@ -20,5 +20,5 @@ title: "Wagner \xD6deg\xE5rd - Nattslingor"
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=21072&sort=pd.name&order=ASC) for $50.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=21170&sort=pd.name&order=ASC) for $50.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=22883&sort=pd.name&order=ASC) for $35.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=22937&sort=pd.name&order=ASC) for $35.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=22937&sort=pd.name&order=ASC) for $28.00
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/used-wagner-odegard-nattslingor-lp) for $30.00 :: White 2021 press vinyl

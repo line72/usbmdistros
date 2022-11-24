@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00
+actualPrice: $9.60
 album: Infecting the Graves Vol. 1
 artist: Excidium
 categories:
 - CD
-date: '2022-02-23T06:09:09'
+date: '2022-11-24T06:10:53'
 draft: false
 images:
 - /images/covers/excidium-infecting_the_graves_vol._1.png
@@ -14,4 +14,4 @@ title: Excidium - Infecting the Graves Vol. 1
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=21023&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=21023&sort=pd.name&order=ASC) for $9.60
