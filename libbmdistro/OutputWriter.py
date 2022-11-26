@@ -177,7 +177,7 @@ class OutputWriter:
         try:
             # move on to downloading from music brainz
             params = {
-                'query': f'artist:{album.artist.name} AND album:{album.title}'
+                'query': f'artist:"{album.artist.name}" AND release:"{album.title}"'
             }
             r = requests.get('https://musicbrainz.org/ws/2/release-group/',
                              params = params,
