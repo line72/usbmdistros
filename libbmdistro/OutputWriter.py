@@ -179,12 +179,12 @@ class OutputWriter:
             params = {
                 'query': f'artist:{album.artist.name} AND album:{album.title}'
             }
-            r = requests.get('https://musicbrainz.org/ws/2/release/',
+            r = requests.get('https://musicbrainz.org/ws/2/release-group/',
                              params = params,
                              headers = {'accept': 'application/json'})
             r.raise_for_status()
             # get the first release
-            releases = r.json()['releases']
+            releases = r.json()['release-groups']
 
             while len(releases) > 0:
                 release = releases.pop()
@@ -195,7 +195,7 @@ class OutputWriter:
 
                 print(f'{album}: Downloading', rid)
                 try:
-                    url = f'https://coverartarchive.org/release/{rid}/front'
+                    url = f'https://coverartarchive.org/release-group/{rid}/front'
                     result = self.do_download(url, cover, cover_thumbnail)
 
                     # save this to the DB as the official
