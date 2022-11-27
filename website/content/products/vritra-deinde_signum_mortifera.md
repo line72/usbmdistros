@@ -1,10 +1,10 @@
 ---
-actualPrice: $25.00
+actualPrice: $18.00
 album: Deinde Signum Mortifera
 artist: Vritra
 categories:
 - Vinyl
-date: '2021-08-17T13:15:24'
+date: '2022-11-27T06:26:22'
 draft: false
 images:
 - /images/covers/vritra-deinde_signum_mortifera.jpg
@@ -14,4 +14,4 @@ title: Vritra - Deinde Signum Mortifera
 ---
 
 ## Vinyl
-* Purchase from [CW Productions](https://shop.cwproductions.net/products/vritra-deinde-signum-mortifera-lp) for $25.00
+* Purchase from [CW Productions](https://shop.cwproductions.net/products/vritra-deinde-signum-mortifera-lp) for $18.00

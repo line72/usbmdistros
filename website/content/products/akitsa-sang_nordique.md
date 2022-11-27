@@ -4,7 +4,7 @@ album: Sang Nordique
 artist: Akitsa
 categories:
 - Vinyl
-date: '2022-11-24T06:10:16'
+date: '2022-11-27T06:09:58'
 draft: false
 images:
 - /images/covers/akitsa-sang_nordique.jpg
@@ -17,3 +17,4 @@ title: Akitsa - Sang Nordique
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=20444&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=24661&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=26058&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29806&sort=pd.name&order=ASC) for $20.00

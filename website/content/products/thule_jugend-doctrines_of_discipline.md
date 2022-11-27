@@ -1,10 +1,10 @@
 ---
-actualPrice: $10.00
+actualPrice: $7.00
 album: Doctrines of Discipline
 artist: Thule Jugend
 categories:
 - CD
-date: '2021-08-17T13:15:22'
+date: '2022-11-27T06:26:01'
 draft: false
 images:
 - /images/covers/thule_jugend-doctrines_of_discipline.jpg
@@ -14,4 +14,4 @@ title: Thule Jugend - Doctrines of Discipline
 ---
 
 ## CD
-* Purchase from [CW Productions](https://shop.cwproductions.net/products/thule-jugend-doctrines-of-discipline-cd) for $10.00
+* Purchase from [CW Productions](https://shop.cwproductions.net/products/thule-jugend-doctrines-of-discipline-cd) for $7.00

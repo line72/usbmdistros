@@ -4,7 +4,7 @@ album: Invaze
 artist: Maniac Butcher
 categories:
 - Vinyl
-date: '2022-11-24T06:10:28'
+date: '2022-11-27T06:11:30'
 draft: false
 images:
 - /images/covers/maniac_butcher-invaze.jpg
@@ -16,3 +16,4 @@ title: Maniac Butcher - Invaze
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=23742&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=25477&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29809&sort=pd.name&order=ASC) for $20.00

@@ -5,7 +5,7 @@ artist: Fustilarian
 categories:
 - Vinyl
 - CD
-date: '2022-11-24T06:10:53'
+date: '2022-11-27T06:10:56'
 draft: false
 images:
 - /images/covers/fustilarian-all_this_promiscuous_decadence.jpg
@@ -16,5 +16,6 @@ title: Fustilarian - All This Promiscuous Decadence
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=24324&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29768&sort=pd.name&order=ASC) for $20.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=17783&sort=pd.name&order=ASC) for $8.40
