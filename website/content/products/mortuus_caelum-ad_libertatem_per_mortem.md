@@ -1,10 +1,10 @@
 ---
-actualPrice: $3.60
+actualPrice: $6.00
 album: Ad Libertatem Per Mortem
 artist: Mortuus Caelum
 categories:
 - CD
-date: '2022-11-24T06:10:59'
+date: '2022-11-30T06:10:39'
 draft: false
 images:
 - /images/covers/mortuus_caelum-ad_libertatem_per_mortem.jpg
@@ -14,4 +14,4 @@ title: Mortuus Caelum - Ad Libertatem Per Mortem
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=744&sort=pd.name&order=ASC) for $3.60
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=744&sort=pd.name&order=ASC) for $6.00

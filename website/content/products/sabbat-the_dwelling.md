@@ -1,11 +1,11 @@
 ---
-actualPrice: $5.00 - 40.00
+actualPrice: $10.00 - 40.00
 album: The Dwelling
 artist: Sabbat
 categories:
 - Vinyl
 - CD
-date: '2022-11-24T06:11:03'
+date: '2022-11-30T06:10:43'
 draft: false
 images:
 - /images/covers/sabbat-the_dwelling.jpg
@@ -18,5 +18,5 @@ title: Sabbat - The Dwelling
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=14192&sort=pd.name&order=ASC) for $40.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=17048&sort=pd.name&order=ASC) for $30.00
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=11253&sort=pd.name&order=ASC) for $5.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=11253&sort=pd.name&order=ASC) for $10.00
 * Purchase from [CW Productions](https://shop.cwproductions.net/products/sabbat-the-dwelling-cd) for $10.00

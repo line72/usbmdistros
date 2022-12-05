@@ -1,10 +1,10 @@
 ---
-actualPrice: $24.00 - 30.00
+actualPrice: $30.00
 album: Heart Of The Ages
 artist: In The Woods...
 categories:
 - Vinyl
-date: '2022-11-24T06:10:26'
+date: '2022-11-30T06:10:07'
 draft: false
 images:
 - /images/covers/in_the_woods...-heart_of_the_ages.jpg
@@ -20,4 +20,4 @@ title: In The Woods... - Heart Of The Ages
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=24542&sort=pd.name&order=ASC) for $30.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=26486&sort=pd.name&order=ASC) for $30.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29459&sort=pd.name&order=ASC) for $30.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29651&sort=pd.name&order=ASC) for $24.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29651&sort=pd.name&order=ASC) for $30.00

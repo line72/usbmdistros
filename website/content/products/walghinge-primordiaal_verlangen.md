@@ -1,11 +1,11 @@
 ---
-actualPrice: $12.00 - 15.00
+actualPrice: $15.00
 album: Primordiaal Verlangen
 artist: Walghinge
 categories:
 - Cassette
 - CD
-date: '2022-11-24T06:11:22'
+date: '2022-11-30T06:11:00'
 draft: false
 images:
 - /images/covers/walghinge-primordiaal_verlangen.jpg
@@ -15,7 +15,7 @@ title: Walghinge - Primordiaal Verlangen
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=27273&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=27273&sort=pd.name&order=ASC) for $15.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=27238&sort=pd.name&order=ASC) for $15.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=27274&sort=pd.name&order=ASC) for $15.00

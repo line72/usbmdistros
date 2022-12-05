@@ -1,11 +1,11 @@
 ---
-actualPrice: $3.60 - 4.20
+actualPrice: $6.00 - 7.00
 album: Arxaiolatria
 artist: Sarvari
 categories:
 - Cassette
 - CD
-date: '2022-11-24T06:11:19'
+date: '2022-11-30T06:10:57'
 draft: false
 images:
 - /images/covers/sarvari-arxaiolatria.png
@@ -15,6 +15,6 @@ title: Sarvari - Arxaiolatria
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=1920&sort=pd.name&order=ASC) for $3.60
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=1920&sort=pd.name&order=ASC) for $6.00
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=2091&sort=pd.name&order=ASC) for $4.20
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=2091&sort=pd.name&order=ASC) for $7.00

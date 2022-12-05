@@ -1,10 +1,10 @@
 ---
-actualPrice: $15.00
+actualPrice: $25.00
 album: "M\xF6rk Gryning"
 artist: "M\xF6rk Gryning"
 categories:
 - Vinyl
-date: '2022-11-24T06:10:30'
+date: '2022-11-30T06:10:10'
 draft: false
 images:
 - "/images/covers/m\xF6rk_gryning-m\xF6rk_gryning.jpg"
@@ -14,4 +14,4 @@ title: "M\xF6rk Gryning - M\xF6rk Gryning"
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=8890&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=8890&sort=pd.name&order=ASC) for $25.00

@@ -1,11 +1,11 @@
 ---
-actualPrice: $5.00 - 228.00
+actualPrice: $10.00 - 228.00
 album: Envenom
 artist: Sabbat
 categories:
 - Vinyl
 - CD
-date: '2022-11-24T06:11:03'
+date: '2022-11-30T06:10:43'
 draft: false
 images:
 - /images/covers/sabbat-envenom.jpg
@@ -18,4 +18,4 @@ title: Sabbat - Envenom
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=9123&sort=pd.name&order=ASC) for $228.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=20461&sort=pd.name&order=ASC) for $35.00
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=7975&sort=pd.name&order=ASC) for $5.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=7975&sort=pd.name&order=ASC) for $10.00

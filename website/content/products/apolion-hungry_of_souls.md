@@ -1,10 +1,10 @@
 ---
-actualPrice: $3.00
+actualPrice: $5.00
 album: Hungry of Souls
 artist: Apolion
 categories:
 - CD
-date: '2022-11-24T06:10:47'
+date: '2022-11-30T06:10:28'
 draft: false
 images:
 - /images/covers/apolion-hungry_of_souls.jpg
@@ -14,4 +14,4 @@ title: Apolion - Hungry of Souls
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=1645&sort=pd.name&order=ASC) for $3.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=1645&sort=pd.name&order=ASC) for $5.00

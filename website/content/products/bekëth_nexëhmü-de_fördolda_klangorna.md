@@ -1,10 +1,10 @@
 ---
-actualPrice: $36.00 - 45.00
+actualPrice: $45.00
 album: "De F\xF6rdolda Klangorna"
 artist: "Bek\xEBth Nex\xEBhm\xFC"
 categories:
 - Vinyl
-date: '2022-11-24T06:10:18'
+date: '2022-11-30T06:09:59'
 draft: false
 images:
 - "/images/covers/bek\xEBth_nex\xEBhm\xFC-de_f\xF6rdolda_klangorna.png"
@@ -25,4 +25,4 @@ title: "Bek\xEBth Nex\xEBhm\xFC - De F\xF6rdolda Klangorna"
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=28326&sort=pd.name&order=ASC) for $45.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=28943&sort=pd.name&order=ASC) for $45.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29093&sort=pd.name&order=ASC) for $45.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29403&sort=pd.name&order=ASC) for $36.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29403&sort=pd.name&order=ASC) for $45.00

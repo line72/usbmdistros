@@ -1,11 +1,11 @@
 ---
-actualPrice: $6.00 - 15.00
+actualPrice: $10.00 - 15.00
 album: Yahar'gul
 artist: Yahar'gul
 categories:
 - Vinyl
 - CD
-date: '2022-11-24T06:11:08'
+date: '2022-11-30T06:10:48'
 draft: false
 images:
 - /images/covers/yahar'gul-yahar'gul.jpg
@@ -19,4 +19,4 @@ title: Yahar'gul - Yahar'gul
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/yahargul-yahargul) for $15.00 :: Black 1st press vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/yahargul-yahargul-12) for $15.00 :: Black 1st press vinyl
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=3634&sort=pd.name&order=ASC) for $6.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=3634&sort=pd.name&order=ASC) for $10.00

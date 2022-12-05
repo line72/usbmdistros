@@ -1,10 +1,10 @@
 ---
-actualPrice: $8.40
+actualPrice: $12.00
 album: Galgenbrok
 artist: Schavot
 categories:
 - Cassette
-date: '2022-11-24T06:11:19'
+date: '2022-11-30T06:10:57'
 draft: false
 images:
 - /images/covers/schavot-galgenbrok.jpg
@@ -14,4 +14,4 @@ title: Schavot - Galgenbrok
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=19662&sort=pd.name&order=ASC) for $8.40
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=19662&sort=pd.name&order=ASC) for $12.00

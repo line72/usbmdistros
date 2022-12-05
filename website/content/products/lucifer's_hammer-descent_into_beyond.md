@@ -4,7 +4,7 @@ album: Descent into Beyond
 artist: Lucifer's Hammer
 categories:
 - Vinyl
-date: '2022-11-27T06:26:12'
+date: '2022-12-05T06:27:29'
 draft: false
 images:
 - /images/covers/lucifer's_hammer-descent_into_beyond.jpg
@@ -18,7 +18,7 @@ title: Lucifer's Hammer - Descent into Beyond
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=19089&sort=pd.name&order=ASC) for $20.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=19836&sort=pd.name&order=ASC) for $20.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=19837&sort=pd.name&order=ASC) for $25.00
-* Purchase from [CW Productions](https://shop.cwproductions.net/products/lucifers-hammer-descent-into-beyond-lp) for $15.00
+* Purchase from [CW Productions](https://shop.cwproductions.net/products/lucifers-hammer-descent-into-beyond-lp) for $20.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=22772&sort=pd.name&order=ASC) for $20.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=22785&sort=pd.name&order=ASC) for $20.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=22786&sort=pd.name&order=ASC) for $25.00
@@ -28,5 +28,5 @@ title: Lucifer's Hammer - Descent into Beyond
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=23914&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=25501&sort=pd.name&order=ASC) for $13.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=25502&sort=pd.name&order=ASC) for $16.25
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29742&sort=pd.name&order=ASC) for $13.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29743&sort=pd.name&order=ASC) for $16.25
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29742&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29743&sort=pd.name&order=ASC) for $25.00

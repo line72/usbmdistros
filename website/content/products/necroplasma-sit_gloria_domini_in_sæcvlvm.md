@@ -1,10 +1,10 @@
 ---
-actualPrice: $10.19
+actualPrice: $17.00
 album: "Sit Gloria Domini In S\xE6cvlvm"
 artist: Necroplasma
 categories:
 - Vinyl
-date: '2022-11-24T06:10:31'
+date: '2022-11-30T06:10:11'
 draft: false
 images:
 - "/images/covers/necroplasma-sit_gloria_domini_in_s\xE6cvlvm.jpg"
@@ -14,4 +14,4 @@ title: "Necroplasma - Sit Gloria Domini In S\xE6cvlvm"
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=10504&sort=pd.name&order=ASC) for $10.19
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=10504&sort=pd.name&order=ASC) for $17.00

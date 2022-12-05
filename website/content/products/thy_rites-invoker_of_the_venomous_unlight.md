@@ -1,10 +1,10 @@
 ---
-actualPrice: $3.60
+actualPrice: $6.00
 album: Invoker of the Venomous Unlight
 artist: Thy Rites
 categories:
 - CD
-date: '2022-11-24T06:11:06'
+date: '2022-11-30T06:10:46'
 draft: false
 images:
 - /images/covers/thy_rites-invoker_of_the_venomous_unlight.png
@@ -14,4 +14,4 @@ title: Thy Rites - Invoker of the Venomous Unlight
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=1903&sort=pd.name&order=ASC) for $3.60
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=1903&sort=pd.name&order=ASC) for $6.00

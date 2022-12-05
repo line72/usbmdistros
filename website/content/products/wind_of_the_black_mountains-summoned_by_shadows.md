@@ -1,10 +1,10 @@
 ---
-actualPrice: $24.00 - 30.00
+actualPrice: $30.00
 album: Summoned By Shadows
 artist: Wind of the Black Mountains
 categories:
 - Vinyl
-date: '2022-11-24T06:10:40'
+date: '2022-11-30T06:10:21'
 draft: false
 images:
 - /images/covers/wind_of_the_black_mountains-summoned_by_shadows.png
@@ -19,4 +19,4 @@ title: Wind of the Black Mountains - Summoned By Shadows
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=20761&sort=pd.name&order=ASC) for $30.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=21475&sort=pd.name&order=ASC) for $30.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=22542&sort=pd.name&order=ASC) for $30.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=23427&sort=pd.name&order=ASC) for $24.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=23427&sort=pd.name&order=ASC) for $30.00

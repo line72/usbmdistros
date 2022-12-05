@@ -5,7 +5,7 @@ artist: Akhlys
 categories:
 - Vinyl
 - CD
-date: '2022-11-24T06:10:16'
+date: '2022-11-30T06:09:57'
 draft: false
 images:
 - /images/covers/akhlys-the_dreaming_i.jpg
@@ -21,6 +21,6 @@ title: Akhlys - The Dreaming I
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=22227&sort=pd.name&order=ASC) for $30.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=23394&sort=pd.name&order=ASC) for $30.00
 * Purchase from [Debemur Morti](https://debemurmorti.aisamerch.com/item/126604) for $32.99
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=28715&sort=pd.name&order=ASC) for $24.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=28715&sort=pd.name&order=ASC) for $30.00
 ## CD
 * Purchase from [Debemur Morti](https://debemurmorti.aisamerch.com/item/73299) for $9.99

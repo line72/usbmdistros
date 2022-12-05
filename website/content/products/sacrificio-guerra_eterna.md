@@ -1,11 +1,11 @@
 ---
-actualPrice: $5.00 - 25.00
+actualPrice: $10.00 - 25.00
 album: Guerra Eterna
 artist: Sacrificio
 categories:
 - Vinyl
 - CD
-date: '2022-11-24T06:11:03'
+date: '2022-11-30T06:10:43'
 draft: false
 images:
 - /images/covers/sacrificio-guerra_eterna.jpg
@@ -17,4 +17,4 @@ title: Sacrificio - Guerra Eterna
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=2394&sort=pd.name&order=ASC) for $25.00
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=2441&sort=pd.name&order=ASC) for $5.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=2441&sort=pd.name&order=ASC) for $10.00

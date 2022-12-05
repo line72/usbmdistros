@@ -1,11 +1,11 @@
 ---
-actualPrice: $9.60 - 25.00
+actualPrice: $12.00 - 25.00
 album: Der Sola Aldri Skinner
 artist: Umoral
 categories:
 - Vinyl
 - CD
-date: '2022-11-24T06:11:06'
+date: '2022-11-30T06:10:46'
 draft: false
 images:
 - /images/covers/umoral-der_sola_aldri_skinner.jpg
@@ -16,6 +16,6 @@ title: Umoral - Der Sola Aldri Skinner
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=25690&sort=pd.name&order=ASC) for $25.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=26908&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=26908&sort=pd.name&order=ASC) for $25.00
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=26909&sort=pd.name&order=ASC) for $9.60
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=26909&sort=pd.name&order=ASC) for $12.00

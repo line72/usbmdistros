@@ -1,11 +1,11 @@
 ---
-actualPrice: $8.40 - 20.00
+actualPrice: $12.00 - 25.00
 album: ICHOR (THE REBELLION)
 artist: THRONUM VRONDOR
 categories:
 - Vinyl
 - CD
-date: '2022-11-24T06:11:06'
+date: '2022-11-30T06:10:46'
 draft: false
 images:
 - /images/covers/thronum_vrondor-ichor_(the_rebellion).png
@@ -15,6 +15,6 @@ title: THRONUM VRONDOR - ICHOR (THE REBELLION)
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=23732&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=23732&sort=pd.name&order=ASC) for $25.00
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=15718&sort=pd.name&order=ASC) for $8.40
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=15718&sort=pd.name&order=ASC) for $12.00

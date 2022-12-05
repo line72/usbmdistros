@@ -1,10 +1,10 @@
 ---
-actualPrice: $3.60
+actualPrice: $6.00
 album: 'Bloodrain II: Ultimatum'
 artist: Bloodrain
 categories:
 - CD
-date: '2022-11-24T06:10:49'
+date: '2022-11-30T06:10:29'
 draft: false
 images:
 - /images/covers/bloodrain-bloodrain_ii:_ultimatum.jpg
@@ -14,4 +14,4 @@ title: 'Bloodrain - Bloodrain II: Ultimatum'
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=956&sort=pd.name&order=ASC) for $3.60
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=956&sort=pd.name&order=ASC) for $6.00

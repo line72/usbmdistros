@@ -1,10 +1,10 @@
 ---
-actualPrice: $21.00 - 39.00
+actualPrice: $30.00 - 39.00
 album: Twisting Depths Of Horror
 artist: Anatomy
 categories:
 - Vinyl
-date: '2022-11-24T06:10:16'
+date: '2022-11-30T06:09:57'
 draft: false
 images:
 - /images/covers/anatomy-twisting_depths_of_horror.png
@@ -17,4 +17,4 @@ title: Anatomy - Twisting Depths Of Horror
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/anatomy-twisting-depths-of-horror-lp) for $39.00 :: Black 2021 press vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/anatomy-twisting-depths-of-horror-lp) for $39.00 :: Clear 2021 press vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/anatomy-twisting-depths-of-horror-lp) for $39.00 :: Neon Pink 2021 press vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=17702&sort=pd.name&order=ASC) for $21.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=17702&sort=pd.name&order=ASC) for $30.00

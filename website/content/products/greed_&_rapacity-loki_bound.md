@@ -1,10 +1,10 @@
 ---
-actualPrice: $3.00
+actualPrice: $5.00
 album: Loki Bound
 artist: Greed & Rapacity
 categories:
 - Cassette
-date: '2022-11-24T06:11:13'
+date: '2022-11-30T06:10:53'
 draft: false
 images:
 - /images/covers/greed_&_rapacity-loki_bound.png
@@ -14,4 +14,4 @@ title: Greed & Rapacity - Loki Bound
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=11357&sort=pd.name&order=ASC) for $3.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=11357&sort=pd.name&order=ASC) for $5.00

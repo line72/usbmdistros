@@ -1,10 +1,10 @@
 ---
-actualPrice: $17.50
+actualPrice: $25.00
 album: Inward Graves
 artist: Nocturnal Graves
 categories:
 - Vinyl
-date: '2022-11-24T06:10:31'
+date: '2022-11-30T06:10:12'
 draft: false
 images:
 - /images/covers/nocturnal_graves-inward_graves.jpg
@@ -14,4 +14,4 @@ title: Nocturnal Graves - Inward Graves
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=20043&sort=pd.name&order=ASC) for $17.50
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=20043&sort=pd.name&order=ASC) for $25.00

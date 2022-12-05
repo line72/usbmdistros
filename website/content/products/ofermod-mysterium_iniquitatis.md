@@ -1,12 +1,12 @@
 ---
-actualPrice: $8.40 - 20.00
+actualPrice: $12.00 - 25.00
 album: Mysterium Iniquitatis
 artist: Ofermod
 categories:
 - Vinyl
 - Cassette
 - CD
-date: '2022-11-24T06:11:17'
+date: '2022-11-30T06:10:56'
 draft: false
 images:
 - /images/covers/ofermod-mysterium_iniquitatis.png
@@ -16,9 +16,9 @@ title: Ofermod - Mysterium Iniquitatis
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=28445&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=28445&sort=pd.name&order=ASC) for $25.00
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=20050&sort=pd.name&order=ASC) for $8.40
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=20050&sort=pd.name&order=ASC) for $12.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=20048&sort=pd.name&order=ASC) for $15.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=28520&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=28520&sort=pd.name&order=ASC) for $15.00

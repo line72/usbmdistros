@@ -1,10 +1,10 @@
 ---
-actualPrice: $5.60
+actualPrice: $8.00
 album: A Southern Scouring
 artist: Nosferion
 categories:
 - Cassette
-date: '2022-11-24T06:11:17'
+date: '2022-11-30T06:10:56'
 draft: false
 images:
 - /images/covers/nosferion-a_southern_scouring.png
@@ -14,4 +14,4 @@ title: Nosferion - A Southern Scouring
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=17367&sort=pd.name&order=ASC) for $5.60
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=17367&sort=pd.name&order=ASC) for $8.00

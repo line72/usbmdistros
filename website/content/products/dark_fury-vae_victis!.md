@@ -1,10 +1,10 @@
 ---
-actualPrice: $6.00
+actualPrice: $10.00
 album: Vae Victis!
 artist: Dark Fury
 categories:
 - CD
-date: '2022-11-27T06:26:04'
+date: '2022-12-05T06:27:20'
 draft: false
 images:
 - /images/covers/dark_fury-vae_victis!.jpg
@@ -14,4 +14,4 @@ title: Dark Fury - Vae Victis!
 ---
 
 ## CD
-* Purchase from [CW Productions](https://shop.cwproductions.net/products/dark-fury-vae-victis-cd) for $6.00
+* Purchase from [CW Productions](https://shop.cwproductions.net/products/dark-fury-vae-victis-cd) for $10.00

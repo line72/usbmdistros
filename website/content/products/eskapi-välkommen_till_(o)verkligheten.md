@@ -1,10 +1,10 @@
 ---
-actualPrice: $4.20
+actualPrice: $7.00
 album: "V\xE4lkommen Till (O)verkligheten"
 artist: Eskapi
 categories:
 - CD
-date: '2022-11-24T06:10:52'
+date: '2022-11-30T06:10:32'
 draft: false
 images:
 - "/images/covers/eskapi-v\xE4lkommen_till_(o)verkligheten.jpg"
@@ -14,4 +14,4 @@ title: "Eskapi - V\xE4lkommen Till (O)verkligheten"
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=1417&sort=pd.name&order=ASC) for $4.20
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=1417&sort=pd.name&order=ASC) for $7.00

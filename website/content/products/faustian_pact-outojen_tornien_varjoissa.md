@@ -5,7 +5,7 @@ artist: Faustian Pact
 categories:
 - Vinyl
 - Cassette
-date: '2022-11-24T06:10:23'
+date: '2022-11-30T06:10:04'
 draft: false
 images:
 - /images/covers/faustian_pact-outojen_tornien_varjoissa.jpg
@@ -15,7 +15,7 @@ title: Faustian Pact - Outojen Tornien Varjoissa
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=21559&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=21559&sort=pd.name&order=ASC) for $25.00
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/used-faustian-pact-outojen-tornien-varjoissa-lp) for $25.00 :: Gold/Black 2020 press vinyl
 ## Cassette
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/used-faustian-pact-outojen-tornien-varjoissa-cassette) for $8.00 :: Cassette Tape 2021

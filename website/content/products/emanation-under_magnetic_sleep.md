@@ -1,10 +1,10 @@
 ---
-actualPrice: $10.19 - 20.00
+actualPrice: $17.00 - 25.00
 album: Under Magnetic Sleep
 artist: Emanation
 categories:
 - Vinyl
-date: '2022-11-24T06:10:22'
+date: '2022-11-30T06:10:03'
 draft: false
 images:
 - /images/covers/emanation-under_magnetic_sleep.jpg
@@ -14,5 +14,5 @@ title: Emanation - Under Magnetic Sleep
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=1175&sort=pd.name&order=ASC) for $10.19
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=21890&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=1175&sort=pd.name&order=ASC) for $17.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=21890&sort=pd.name&order=ASC) for $25.00

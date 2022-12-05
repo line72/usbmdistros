@@ -1,10 +1,10 @@
 ---
-actualPrice: $4.80
+actualPrice: $8.00
 album: Carne Tormentata
 artist: Fearbringer
 categories:
 - Cassette
-date: '2022-11-24T06:11:12'
+date: '2022-11-30T06:10:52'
 draft: false
 images:
 - /images/covers/fearbringer-carne_tormentata.jpg
@@ -14,4 +14,4 @@ title: Fearbringer - Carne Tormentata
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=11330&sort=pd.name&order=ASC) for $4.80
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=11330&sort=pd.name&order=ASC) for $8.00

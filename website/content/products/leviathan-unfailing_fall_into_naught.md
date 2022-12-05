@@ -1,10 +1,10 @@
 ---
-actualPrice: $24.00 - 66.00
+actualPrice: $30.00 - 66.00
 album: Unfailing Fall into Naught
 artist: Leviathan
 categories:
 - Vinyl
-date: '2022-11-24T06:10:27'
+date: '2022-11-30T06:10:08'
 draft: false
 images:
 - /images/covers/leviathan-unfailing_fall_into_naught.jpg
@@ -28,4 +28,4 @@ title: Leviathan - Unfailing Fall into Naught
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=27009&sort=pd.name&order=ASC) for $30.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=27190&sort=pd.name&order=ASC) for $30.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29330&sort=pd.name&order=ASC) for $30.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29630&sort=pd.name&order=ASC) for $24.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29630&sort=pd.name&order=ASC) for $30.00

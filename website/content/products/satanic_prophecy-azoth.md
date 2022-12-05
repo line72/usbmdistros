@@ -1,11 +1,11 @@
 ---
-actualPrice: $5.00 - 13.60
+actualPrice: $5.00 - 17.00
 album: Azoth
 artist: Satanic Prophecy
 categories:
 - Vinyl
 - Cassette
-date: '2022-11-24T06:10:34'
+date: '2022-11-30T06:10:16'
 draft: false
 images:
 - /images/covers/satanic_prophecy-azoth.png
@@ -15,6 +15,6 @@ title: Satanic Prophecy - Azoth
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29342&sort=pd.name&order=ASC) for $13.60
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29342&sort=pd.name&order=ASC) for $17.00
 ## Cassette
 * Purchase from [CW Productions](https://shop.cwproductions.net/products/satanic-prophecy-azoth-tape) for $5.00

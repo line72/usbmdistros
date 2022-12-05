@@ -1,10 +1,10 @@
 ---
-actualPrice: $6.00
+actualPrice: $10.00
 album: Visiones Terrenales
 artist: Reencarnacion
 categories:
 - CD
-date: '2022-11-24T06:11:02'
+date: '2022-11-30T06:10:43'
 draft: false
 images:
 - /images/covers/reencarnacion-visiones_terrenales.png
@@ -14,4 +14,4 @@ title: Reencarnacion - Visiones Terrenales
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=3726&sort=pd.name&order=ASC) for $6.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=3726&sort=pd.name&order=ASC) for $10.00

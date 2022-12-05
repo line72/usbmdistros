@@ -1,10 +1,10 @@
 ---
-actualPrice: $4.20
+actualPrice: $7.00
 album: Tank Attack
 artist: Sturmtiger
 categories:
 - Vinyl
-date: '2022-11-24T06:10:45'
+date: '2022-11-30T06:10:25'
 draft: false
 images:
 - /images/covers/sturmtiger-tank_attack.jpg
@@ -14,4 +14,4 @@ title: Sturmtiger - Tank Attack
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=14977&sort=pd.name&order=ASC) for $4.20
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=14977&sort=pd.name&order=ASC) for $7.00

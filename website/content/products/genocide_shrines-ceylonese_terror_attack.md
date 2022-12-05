@@ -1,10 +1,10 @@
 ---
-actualPrice: $10.19
+actualPrice: $17.00
 album: Ceylonese Terror Attack
 artist: Genocide Shrines
 categories:
 - Vinyl
-date: '2022-11-24T06:10:24'
+date: '2022-11-30T06:10:05'
 draft: false
 images:
 - /images/covers/genocide_shrines-ceylonese_terror_attack.jpg
@@ -14,4 +14,4 @@ title: Genocide Shrines - Ceylonese Terror Attack
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=3979&sort=pd.name&order=ASC) for $10.19
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=3979&sort=pd.name&order=ASC) for $17.00

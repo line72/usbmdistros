@@ -1,10 +1,10 @@
 ---
-actualPrice: $8.40
+actualPrice: $12.00
 album: Ritual of Vampyric Blood
 artist: Cefaris
 categories:
 - CD
-date: '2022-11-24T06:10:49'
+date: '2022-11-30T06:10:29'
 draft: false
 images:
 - /images/covers/cefaris-ritual_of_vampyric_blood.jpg
@@ -14,4 +14,4 @@ title: Cefaris - Ritual of Vampyric Blood
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=19226&sort=pd.name&order=ASC) for $8.40
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=19226&sort=pd.name&order=ASC) for $12.00

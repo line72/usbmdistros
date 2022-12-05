@@ -1,10 +1,10 @@
 ---
-actualPrice: $6.00
+actualPrice: $10.00
 album: Live Decay Roadburn Rites 2012
 artist: Nachtmystium
 categories:
 - CD
-date: '2022-11-24T06:10:59'
+date: '2022-11-30T06:10:40'
 draft: false
 images:
 - /images/covers/nachtmystium-live_decay_roadburn_rites_2012.jpg
@@ -14,4 +14,4 @@ title: Nachtmystium - Live Decay Roadburn Rites 2012
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=3481&sort=pd.name&order=ASC) for $6.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=3481&sort=pd.name&order=ASC) for $10.00

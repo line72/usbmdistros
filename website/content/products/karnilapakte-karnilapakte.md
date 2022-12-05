@@ -1,11 +1,11 @@
 ---
-actualPrice: $12.00 - 21.60
+actualPrice: $15.00 - 27.00
 album: Karnilapakte
 artist: Karnilapakte
 categories:
 - Vinyl
 - CD
-date: '2022-11-24T06:10:57'
+date: '2022-11-30T06:10:37'
 draft: false
 images:
 - /images/covers/karnilapakte-karnilapakte.png
@@ -15,7 +15,7 @@ title: Karnilapakte - Karnilapakte
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=21042&sort=pd.name&order=ASC) for $21.60
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=21042&sort=pd.name&order=ASC) for $27.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=19983&sort=pd.name&order=ASC) for $15.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=28610&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=28610&sort=pd.name&order=ASC) for $15.00

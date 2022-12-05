@@ -4,7 +4,7 @@ album: Dommedagskvad
 artist: Whoredom Rife
 categories:
 - Vinyl
-date: '2022-11-27T06:12:53'
+date: '2022-11-30T06:10:20'
 draft: false
 images:
 - /images/covers/whoredom_rife-dommedagskvad.png
@@ -17,4 +17,4 @@ title: Whoredom Rife - Dommedagskvad
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/whoredom-rife-dommedagskvad-lp) for $27.00 :: Black 2nd press vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=19472&sort=pd.name&order=ASC) for $27.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=27329&sort=pd.name&order=ASC) for $21.60
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29771&sort=pd.name&order=ASC) for $21.60
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29771&sort=pd.name&order=ASC) for $27.00

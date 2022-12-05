@@ -5,7 +5,7 @@ artist: Nocturnal Triumph
 categories:
 - Vinyl
 - CD
-date: '2022-11-24T06:10:31'
+date: '2022-11-30T06:10:12'
 draft: false
 images:
 - /images/covers/nocturnal_triumph-nocturnal_triumph.jpg
@@ -18,6 +18,6 @@ title: Nocturnal Triumph - Nocturnal Triumph
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=22543&sort=pd.name&order=ASC) for $50.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=25300&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=25379&sort=pd.name&order=ASC) for $25.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=25962&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=25962&sort=pd.name&order=ASC) for $25.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=20402&sort=pd.name&order=ASC) for $15.00

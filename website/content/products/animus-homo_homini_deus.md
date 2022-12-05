@@ -1,10 +1,10 @@
 ---
-actualPrice: $6.40
+actualPrice: $8.00
 album: Homo Homini Deus
 artist: Animus
 categories:
 - Vinyl
-date: '2022-11-24T06:10:41'
+date: '2022-11-30T06:10:22'
 draft: false
 images:
 - /images/covers/animus-homo_homini_deus.jpg
@@ -14,4 +14,4 @@ title: Animus - Homo Homini Deus
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=26278&sort=pd.name&order=ASC) for $6.40
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=26278&sort=pd.name&order=ASC) for $8.00

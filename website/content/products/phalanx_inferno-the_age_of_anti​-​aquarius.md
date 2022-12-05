@@ -1,10 +1,10 @@
 ---
-actualPrice: $7.00
+actualPrice: $10.00
 album: "The Age of Anti\u200B-\u200BAquarius"
 artist: Phalanx Inferno
 categories:
 - CD
-date: '2022-11-24T06:11:02'
+date: '2022-11-30T06:10:42'
 draft: false
 images:
 - "/images/covers/phalanx_inferno-the_age_of_anti\u200B-\u200Baquarius.jpg"
@@ -14,4 +14,4 @@ title: "Phalanx Inferno - The Age of Anti\u200B-\u200BAquarius"
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=16968&sort=pd.name&order=ASC) for $7.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=16968&sort=pd.name&order=ASC) for $10.00

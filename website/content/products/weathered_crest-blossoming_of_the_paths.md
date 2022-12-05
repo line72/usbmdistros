@@ -1,10 +1,10 @@
 ---
-actualPrice: $10.50
+actualPrice: $15.00
 album: Blossoming of the Paths
 artist: Weathered Crest
 categories:
 - Vinyl
-date: '2022-11-24T06:10:46'
+date: '2022-11-30T06:10:26'
 draft: false
 images:
 - /images/covers/weathered_crest-blossoming_of_the_paths.jpg
@@ -14,4 +14,4 @@ title: Weathered Crest - Blossoming of the Paths
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=19766&sort=pd.name&order=ASC) for $10.50
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=19766&sort=pd.name&order=ASC) for $15.00

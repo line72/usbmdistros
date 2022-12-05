@@ -1,10 +1,10 @@
 ---
-actualPrice: $8.40
+actualPrice: $12.00
 album: Deathmarch Tour EP
 artist: Marduk
 categories:
 - CD
-date: '2022-11-24T06:10:58'
+date: '2022-11-30T06:10:39'
 draft: false
 images:
 - /images/covers/marduk-deathmarch_tour_ep.png
@@ -14,4 +14,4 @@ title: Marduk - Deathmarch Tour EP
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=20009&sort=pd.name&order=ASC) for $8.40
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=20009&sort=pd.name&order=ASC) for $12.00

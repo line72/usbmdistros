@@ -1,10 +1,10 @@
 ---
-actualPrice: $24.00 - 30.00
+actualPrice: $30.00
 album: Forn
 artist: Fyrnask
 categories:
 - Vinyl
-date: '2022-11-24T06:10:24'
+date: '2022-11-30T06:10:05'
 draft: false
 images:
 - /images/covers/fyrnask-forn.jpg
@@ -15,4 +15,4 @@ title: Fyrnask - Forn
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=15608&sort=pd.name&order=ASC) for $30.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=25852&sort=pd.name&order=ASC) for $24.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=25852&sort=pd.name&order=ASC) for $30.00

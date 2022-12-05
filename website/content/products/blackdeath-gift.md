@@ -6,7 +6,7 @@ categories:
 - Vinyl
 - Cassette
 - CD
-date: '2022-11-24T06:10:49'
+date: '2022-11-30T06:10:29'
 draft: false
 images:
 - /images/covers/blackdeath-gift.jpg
@@ -21,4 +21,4 @@ title: Blackdeath - Gift
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=12675&sort=pd.name&order=ASC) for $9.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=5711&sort=pd.name&order=ASC) for $7.50
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=25299&sort=pd.name&order=ASC) for $9.60
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=25299&sort=pd.name&order=ASC) for $12.00

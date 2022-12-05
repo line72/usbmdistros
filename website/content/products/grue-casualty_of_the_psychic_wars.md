@@ -1,10 +1,10 @@
 ---
-actualPrice: $3.60
+actualPrice: $6.00
 album: Casualty of the Psychic Wars
 artist: Grue
 categories:
 - CD
-date: '2022-11-24T06:10:54'
+date: '2022-11-30T06:10:35'
 draft: false
 images:
 - /images/covers/grue-casualty_of_the_psychic_wars.jpg
@@ -14,4 +14,4 @@ title: Grue - Casualty of the Psychic Wars
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=2001&sort=pd.name&order=ASC) for $3.60
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=2001&sort=pd.name&order=ASC) for $6.00

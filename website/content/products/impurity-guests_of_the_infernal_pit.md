@@ -1,10 +1,10 @@
 ---
-actualPrice: $9.75 - 30.00
+actualPrice: $10.00 - 30.00
 album: Guests of the Infernal Pit
 artist: Impurity
 categories:
 - Vinyl
-date: '2022-11-24T06:10:43'
+date: '2022-11-30T06:10:24'
 draft: false
 images:
 - /images/covers/impurity-guests_of_the_infernal_pit.jpg
@@ -19,4 +19,4 @@ title: Impurity - Guests of the Infernal Pit
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=25741&sort=pd.name&order=ASC) for $30.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=25744&sort=pd.name&order=ASC) for $15.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=26260&sort=pd.name&order=ASC) for $30.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=26261&sort=pd.name&order=ASC) for $9.75
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=26261&sort=pd.name&order=ASC) for $15.00

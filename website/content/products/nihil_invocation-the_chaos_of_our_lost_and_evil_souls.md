@@ -1,10 +1,10 @@
 ---
-actualPrice: $6.50 - 10.00
+actualPrice: $10.00
 album: The Chaos of Our Lost and Evil Souls
 artist: Nihil Invocation
 categories:
 - Cassette
-date: '2022-11-24T06:11:17'
+date: '2022-11-30T06:10:55'
 draft: false
 images:
 - /images/covers/nihil_invocation-the_chaos_of_our_lost_and_evil_souls.jpg
@@ -15,4 +15,4 @@ title: Nihil Invocation - The Chaos of Our Lost and Evil Souls
 
 ## Cassette
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=21196&sort=pd.name&order=ASC) for $10.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=21304&sort=pd.name&order=ASC) for $6.50
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=21304&sort=pd.name&order=ASC) for $10.00

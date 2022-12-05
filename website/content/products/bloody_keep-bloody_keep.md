@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00
+actualPrice: $15.00
 album: Bloody Keep
 artist: Bloody Keep
 categories:
 - Vinyl
-date: '2022-11-24T06:10:41'
+date: '2022-11-30T06:10:22'
 draft: false
 images:
 - /images/covers/bloody_keep-bloody_keep.jpg
@@ -14,4 +14,4 @@ title: Bloody Keep - Bloody Keep
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=28508&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=28508&sort=pd.name&order=ASC) for $15.00

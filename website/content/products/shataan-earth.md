@@ -1,10 +1,10 @@
 ---
-actualPrice: $20.00 - 35.00
+actualPrice: $25.00 - 35.00
 album: Earth
 artist: Shataan
 categories:
 - Vinyl
-date: '2022-11-24T06:10:35'
+date: '2022-11-30T06:10:16'
 draft: false
 images:
 - /images/covers/shataan-earth.jpg
@@ -19,4 +19,4 @@ title: Shataan - Earth
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=19366&sort=pd.name&order=ASC) for $28.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=22894&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=26662&sort=pd.name&order=ASC) for $25.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29153&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29153&sort=pd.name&order=ASC) for $25.00

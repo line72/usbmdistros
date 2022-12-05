@@ -1,10 +1,10 @@
 ---
-actualPrice: $20.00 - 27.00
+actualPrice: $25.00 - 27.00
 album: "T\xE4yttymys"
 artist: Cosmic Church
 categories:
 - Vinyl
-date: '2022-11-24T06:10:20'
+date: '2022-11-30T06:10:01'
 draft: false
 images:
 - "/images/covers/cosmic_church-t\xE4yttymys.jpg"
@@ -27,4 +27,4 @@ title: "Cosmic Church - T\xE4yttymys"
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=27663&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=28101&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=28834&sort=pd.name&order=ASC) for $25.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29616&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29616&sort=pd.name&order=ASC) for $25.00

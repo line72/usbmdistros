@@ -5,7 +5,7 @@ artist: Serum Dreg
 categories:
 - Vinyl
 - CD
-date: '2022-11-24T06:10:35'
+date: '2022-11-30T06:10:16'
 draft: false
 images:
 - /images/covers/serum_dreg-lustful_vengeance.jpg
@@ -15,7 +15,7 @@ title: Serum Dreg - Lustful Vengeance
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=8390&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=8390&sort=pd.name&order=ASC) for $20.00
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/serum-dreg-lustful-vengeance-lp) for $20.00 :: Black 1st press vinyl
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=15391&sort=pd.name&order=ASC) for $7.00

@@ -1,10 +1,10 @@
 ---
-actualPrice: $7.20
+actualPrice: $12.00
 album: Asgaardsreien
 artist: Varde
 categories:
 - CD
-date: '2022-11-24T06:11:07'
+date: '2022-11-30T06:10:47'
 draft: false
 images:
 - /images/covers/varde-asgaardsreien.png
@@ -14,4 +14,4 @@ title: Varde - Asgaardsreien
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=14582&sort=pd.name&order=ASC) for $7.20
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=14582&sort=pd.name&order=ASC) for $12.00

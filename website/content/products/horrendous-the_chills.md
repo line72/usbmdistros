@@ -1,10 +1,10 @@
 ---
-actualPrice: $6.00
+actualPrice: $10.00
 album: The Chills
 artist: Horrendous
 categories:
 - CD
-date: '2022-11-24T06:10:55'
+date: '2022-11-30T06:10:36'
 draft: false
 images:
 - /images/covers/horrendous-the_chills.jpg
@@ -14,4 +14,4 @@ title: Horrendous - The Chills
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=5059&sort=pd.name&order=ASC) for $6.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=5059&sort=pd.name&order=ASC) for $10.00

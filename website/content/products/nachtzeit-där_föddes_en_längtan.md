@@ -1,10 +1,10 @@
 ---
-actualPrice: $7.20
+actualPrice: $12.00
 album: "D\xE4r F\xF6ddes En L\xE4ngtan"
 artist: Nachtzeit
 categories:
 - CD
-date: '2022-11-24T06:10:59'
+date: '2022-11-30T06:10:40'
 draft: false
 images:
 - "/images/covers/nachtzeit-d\xE4r_f\xF6ddes_en_l\xE4ngtan.jpg"
@@ -14,4 +14,4 @@ title: "Nachtzeit - D\xE4r F\xF6ddes En L\xE4ngtan"
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=7666&sort=pd.name&order=ASC) for $7.20
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=7666&sort=pd.name&order=ASC) for $12.00

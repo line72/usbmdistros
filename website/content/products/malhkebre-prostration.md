@@ -1,11 +1,11 @@
 ---
-actualPrice: $3.60 - 20.00
+actualPrice: $6.00 - 20.00
 album: Prostration
 artist: Malhkebre
 categories:
 - Vinyl
 - CD
-date: '2022-11-24T06:10:58'
+date: '2022-11-30T06:10:38'
 draft: false
 images:
 - /images/covers/malhkebre-prostration.jpg
@@ -17,4 +17,4 @@ title: Malhkebre - Prostration
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=14232&sort=pd.name&order=ASC) for $20.00
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=1884&sort=pd.name&order=ASC) for $3.60
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=1884&sort=pd.name&order=ASC) for $6.00

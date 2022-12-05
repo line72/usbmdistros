@@ -1,10 +1,10 @@
 ---
-actualPrice: $10.19
+actualPrice: $17.00
 album: Morbid Death's Sceptre
 artist: Teitanfyre
 categories:
 - Vinyl
-date: '2022-11-24T06:10:36'
+date: '2022-11-30T06:10:18'
 draft: false
 images:
 - /images/covers/teitanfyre-morbid_death's_sceptre.jpg
@@ -14,4 +14,4 @@ title: Teitanfyre - Morbid Death's Sceptre
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=2009&sort=pd.name&order=ASC) for $10.19
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=2009&sort=pd.name&order=ASC) for $17.00

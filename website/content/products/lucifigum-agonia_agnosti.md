@@ -1,10 +1,10 @@
 ---
-actualPrice: $4.20
+actualPrice: $7.00
 album: Agonia Agnosti
 artist: Lucifigum
 categories:
 - CD
-date: '2022-11-24T06:10:57'
+date: '2022-11-30T06:10:38'
 draft: false
 images:
 - /images/covers/lucifigum-agonia_agnosti.jpg
@@ -14,4 +14,4 @@ title: Lucifigum - Agonia Agnosti
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=1794&sort=pd.name&order=ASC) for $4.20
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=1794&sort=pd.name&order=ASC) for $7.00

@@ -1,10 +1,10 @@
 ---
-actualPrice: $7.20
+actualPrice: $12.00
 album: Aftonklang - Live at Emanuel Vigeland Mausoleum
 artist: Grift
 categories:
 - CD
-date: '2022-11-24T06:10:54'
+date: '2022-11-30T06:10:35'
 draft: false
 images:
 - /images/covers/grift-aftonklang_-_live_at_emanuel_vigeland_mausoleum.jpg
@@ -14,4 +14,4 @@ title: Grift - Aftonklang - Live at Emanuel Vigeland Mausoleum
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=6864&sort=pd.name&order=ASC) for $7.20
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=6864&sort=pd.name&order=ASC) for $12.00

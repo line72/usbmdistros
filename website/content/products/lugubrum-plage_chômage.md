@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.75 - 20.00
+actualPrice: $12.75 - 25.00
 album: "Plage Ch\xF4mage"
 artist: Lugubrum
 categories:
 - Vinyl
-date: '2022-11-24T06:10:28'
+date: '2022-11-30T06:10:08'
 draft: false
 images:
 - "/images/covers/lugubrum-plage_ch\xF4mage.jpg"
@@ -15,4 +15,4 @@ title: "Lugubrum - Plage Ch\xF4mage"
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=6807&sort=pd.name&order=ASC) for $12.75
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=20532&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=20532&sort=pd.name&order=ASC) for $25.00

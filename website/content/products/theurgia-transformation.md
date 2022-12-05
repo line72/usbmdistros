@@ -1,10 +1,10 @@
 ---
-actualPrice: $6.00
+actualPrice: $10.00
 album: Transformation
 artist: Theurgia
 categories:
 - Cassette
-date: '2022-11-24T06:11:20'
+date: '2022-11-30T06:10:59'
 draft: false
 images:
 - /images/covers/theurgia-transformation.jpg
@@ -14,4 +14,4 @@ title: Theurgia - Transformation
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=13657&sort=pd.name&order=ASC) for $6.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=13657&sort=pd.name&order=ASC) for $10.00

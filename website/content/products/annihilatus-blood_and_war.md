@@ -1,10 +1,10 @@
 ---
-actualPrice: $15.00
+actualPrice: $25.00
 album: Blood and War
 artist: Annihilatus
 categories:
 - Vinyl
-date: '2022-11-24T06:10:16'
+date: '2022-11-30T06:09:58'
 draft: false
 images:
 - /images/covers/annihilatus-blood_and_war.jpg
@@ -14,4 +14,4 @@ title: Annihilatus - Blood and War
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=7708&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=7708&sort=pd.name&order=ASC) for $25.00

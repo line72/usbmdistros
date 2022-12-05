@@ -1,10 +1,10 @@
 ---
-actualPrice: $10.19
+actualPrice: $17.00
 album: The Dark Abyss
 artist: Death Tyrant
 categories:
 - Vinyl
-date: '2022-11-24T06:10:21'
+date: '2022-11-30T06:10:02'
 draft: false
 images:
 - /images/covers/death_tyrant-the_dark_abyss.jpg
@@ -14,4 +14,4 @@ title: Death Tyrant - The Dark Abyss
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=5602&sort=pd.name&order=ASC) for $10.19
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=5602&sort=pd.name&order=ASC) for $17.00

@@ -1,10 +1,10 @@
 ---
-actualPrice: $7.00
+actualPrice: $10.00
 album: The Analogical Evil Sound Revives
 artist: Behalf Fiend
 categories:
 - CD
-date: '2022-11-24T06:10:48'
+date: '2022-11-30T06:10:28'
 draft: false
 images:
 - /images/covers/behalf_fiend-the_analogical_evil_sound_revives.png
@@ -14,4 +14,4 @@ title: Behalf Fiend - The Analogical Evil Sound Revives
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=19535&sort=pd.name&order=ASC) for $7.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=19535&sort=pd.name&order=ASC) for $10.00

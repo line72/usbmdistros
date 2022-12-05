@@ -1,10 +1,10 @@
 ---
-actualPrice: $20.00 - 25.00
+actualPrice: $25.00
 album: Angelcunt (Tales of Desecration)
 artist: Archgoat
 categories:
 - Vinyl
-date: '2022-11-24T06:10:17'
+date: '2022-11-30T06:09:58'
 draft: false
 images:
 - /images/covers/archgoat-angelcunt_(tales_of_desecration).jpg
@@ -17,4 +17,4 @@ title: Archgoat - Angelcunt (Tales of Desecration)
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=28708&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=28949&sort=pd.name&order=ASC) for $25.00
 * Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/archgoat-angelcunt-tales-of-desecration-12-mlp/) for $25.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29490&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29490&sort=pd.name&order=ASC) for $25.00

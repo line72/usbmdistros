@@ -1,10 +1,10 @@
 ---
-actualPrice: $4.20
+actualPrice: $7.00
 album: La Sombra del Fuego
 artist: "Ignis Umbr\xE6"
 categories:
 - Cassette
-date: '2022-11-24T06:11:14'
+date: '2022-11-30T06:10:53'
 draft: false
 images:
 - "/images/covers/ignis_umbr\xE6-la_sombra_del_fuego.png"
@@ -14,4 +14,4 @@ title: "Ignis Umbr\xE6 - La Sombra del Fuego"
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=3218&sort=pd.name&order=ASC) for $4.20
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=3218&sort=pd.name&order=ASC) for $7.00

@@ -1,11 +1,11 @@
 ---
-actualPrice: $20.00 - 25.00
+actualPrice: $25.00
 album: "Adyapeeth Maranasamhita (\u0986\u09A6\u09CD\u09AF\u09BE\u09AA\u09C0\u09A0\
   \ \u09AE\u09B0\u09A3\u09B8\u0982\u09B9\u09BF\u09A4\u09BE)"
 artist: Aparthiva Raktadhara
 categories:
 - Vinyl
-date: '2022-11-24T06:10:16'
+date: '2022-11-30T06:09:58'
 draft: false
 images:
 - "/images/covers/aparthiva_raktadhara-adyapeeth_maranasamhita_(\u0986\u09A6\u09CD\
@@ -21,4 +21,4 @@ title: "Aparthiva Raktadhara - Adyapeeth Maranasamhita (\u0986\u09A6\u09CD\u09AF
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=23523&sort=pd.name&order=ASC) for $25.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=25021&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=25021&sort=pd.name&order=ASC) for $25.00

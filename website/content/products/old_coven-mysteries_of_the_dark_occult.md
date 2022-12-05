@@ -5,7 +5,7 @@ artist: Old Coven
 categories:
 - Vinyl
 - Cassette
-date: '2022-11-24T06:10:32'
+date: '2022-11-30T06:10:12'
 draft: false
 images:
 - /images/covers/old_coven-mysteries_of_the_dark_occult.jpg
@@ -16,7 +16,7 @@ title: Old Coven - Mysteries of the Dark Occult
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=26747&sort=pd.name&order=ASC) for $25.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=28285&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=28285&sort=pd.name&order=ASC) for $25.00
 ## Cassette
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=22849&sort=pd.name&order=ASC) for $10.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=26748&sort=pd.name&order=ASC) for $10.00

@@ -1,10 +1,10 @@
 ---
-actualPrice: $3.00
+actualPrice: $5.00
 album: Made in Nichtonia
 artist: Sorts
 categories:
 - CD
-date: '2022-11-24T06:11:04'
+date: '2022-11-30T06:10:45'
 draft: false
 images:
 - /images/covers/sorts-made_in_nichtonia.png
@@ -14,4 +14,4 @@ title: Sorts - Made in Nichtonia
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=918&sort=pd.name&order=ASC) for $3.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=918&sort=pd.name&order=ASC) for $5.00

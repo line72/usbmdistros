@@ -1,10 +1,10 @@
 ---
-actualPrice: $20.00 - 25.00
+actualPrice: $25.00
 album: The Wicked
 artist: Taranis
 categories:
 - Vinyl
-date: '2022-11-24T06:10:36'
+date: '2022-11-30T06:10:18'
 draft: false
 images:
 - /images/covers/taranis-the_wicked.jpg
@@ -16,4 +16,4 @@ title: Taranis - The Wicked
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=23373&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=23940&sort=pd.name&order=ASC) for $25.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=27338&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=27338&sort=pd.name&order=ASC) for $25.00

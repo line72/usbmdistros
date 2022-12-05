@@ -1,11 +1,11 @@
 ---
-actualPrice: $3.00 - 12.00
+actualPrice: $3.00 - 20.00
 album: Birth Of An Eternal Empire
 artist: Ascendency
 categories:
 - Vinyl
 - CD
-date: '2022-11-24T06:10:17'
+date: '2022-11-30T06:09:58'
 draft: false
 images:
 - /images/covers/ascendency-birth_of_an_eternal_empire.jpg
@@ -15,6 +15,6 @@ title: Ascendency - Birth Of An Eternal Empire
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=9834&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=9834&sort=pd.name&order=ASC) for $20.00
 ## CD
 * Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/31855762-ascendency-birth-of-an-eternal-empire-cd) for $3.00

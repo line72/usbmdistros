@@ -1,10 +1,10 @@
 ---
-actualPrice: $6.00
+actualPrice: $10.00
 album: Bastard Filth
 artist: Hag Graef
 categories:
 - Cassette
-date: '2022-11-24T06:11:13'
+date: '2022-11-30T06:10:53'
 draft: false
 images:
 - /images/covers/hag_graef-bastard_filth.png
@@ -14,4 +14,4 @@ title: Hag Graef - Bastard Filth
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=14822&sort=pd.name&order=ASC) for $6.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=14822&sort=pd.name&order=ASC) for $10.00

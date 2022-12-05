@@ -1,10 +1,10 @@
 ---
-actualPrice: $10.19
+actualPrice: $17.00
 album: Parazv Il Zilittv
 artist: Summon
 categories:
 - Vinyl
-date: '2022-11-24T06:10:36'
+date: '2022-11-30T06:10:17'
 draft: false
 images:
 - /images/covers/summon-parazv_il_zilittv.jpg
@@ -14,4 +14,4 @@ title: Summon - Parazv Il Zilittv
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=3521&sort=pd.name&order=ASC) for $10.19
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=3521&sort=pd.name&order=ASC) for $17.00

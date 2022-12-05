@@ -1,10 +1,10 @@
 ---
-actualPrice: $3.60
+actualPrice: $6.00
 album: Boundless
 artist: Assaulter
 categories:
 - CD
-date: '2022-11-24T06:10:48'
+date: '2022-11-30T06:10:28'
 draft: false
 images:
 - /images/covers/assaulter-boundless.jpg
@@ -14,4 +14,4 @@ title: Assaulter - Boundless
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=2269&sort=pd.name&order=ASC) for $3.60
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=2269&sort=pd.name&order=ASC) for $6.00

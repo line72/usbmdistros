@@ -4,7 +4,7 @@ album: Cavernous Hallucinations
 artist: Perverted Ceremony
 categories:
 - Vinyl
-date: '2022-11-24T06:10:44'
+date: '2022-11-30T06:10:25'
 draft: false
 images:
 - /images/covers/perverted_ceremony-cavernous_hallucinations.jpg
@@ -20,4 +20,4 @@ title: Perverted Ceremony - Cavernous Hallucinations
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=21714&sort=pd.name&order=ASC) for $12.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=26612&sort=pd.name&order=ASC) for $12.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=27164&sort=pd.name&order=ASC) for $15.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=29414&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=29414&sort=pd.name&order=ASC) for $15.00

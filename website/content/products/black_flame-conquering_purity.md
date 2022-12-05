@@ -1,10 +1,10 @@
 ---
-actualPrice: $10.19
+actualPrice: $17.00
 album: Conquering Purity
 artist: Black Flame
 categories:
 - Vinyl
-date: '2022-11-24T06:10:18'
+date: '2022-11-30T06:09:59'
 draft: false
 images:
 - /images/covers/black_flame-conquering_purity.jpg
@@ -14,4 +14,4 @@ title: Black Flame - Conquering Purity
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=9381&sort=pd.name&order=ASC) for $10.19
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=9381&sort=pd.name&order=ASC) for $17.00

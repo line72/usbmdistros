@@ -1,10 +1,10 @@
 ---
-actualPrice: $3.00
+actualPrice: $5.00
 album: Promo 2009
 artist: Zwartplaag
 categories:
 - Cassette
-date: '2022-11-24T06:11:22'
+date: '2022-11-30T06:11:00'
 draft: false
 images:
 - /images/covers/zwartplaag-promo_2009.png
@@ -14,4 +14,4 @@ title: Zwartplaag - Promo 2009
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=901&sort=pd.name&order=ASC) for $3.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=901&sort=pd.name&order=ASC) for $5.00

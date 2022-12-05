@@ -1,10 +1,10 @@
 ---
-actualPrice: $6.00
+actualPrice: $10.00
 album: Guerreros de Lucifer
 artist: Nebiros
 categories:
 - CD
-date: '2022-11-24T06:11:00'
+date: '2022-11-30T06:10:40'
 draft: false
 images:
 - /images/covers/nebiros-guerreros_de_lucifer.jpg
@@ -14,4 +14,4 @@ title: Nebiros - Guerreros de Lucifer
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=4718&sort=pd.name&order=ASC) for $6.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=4718&sort=pd.name&order=ASC) for $10.00

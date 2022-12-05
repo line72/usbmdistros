@@ -1,10 +1,10 @@
 ---
-actualPrice: $4.80
+actualPrice: $8.00
 album: Live in Fear
 artist: Hastur
 categories:
 - Cassette
-date: '2022-11-24T06:11:13'
+date: '2022-11-30T06:10:53'
 draft: false
 images:
 - /images/covers/hastur-live_in_fear.png
@@ -14,4 +14,4 @@ title: Hastur - Live in Fear
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=4241&sort=pd.name&order=ASC) for $4.80
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=4241&sort=pd.name&order=ASC) for $8.00

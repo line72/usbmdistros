@@ -1,10 +1,10 @@
 ---
-actualPrice: $22.00
+actualPrice: $25.00
 album: 'Demo #1'
 artist: Obscurity
 categories:
 - Vinyl
-date: '2022-11-25T06:12:04'
+date: '2022-11-30T06:10:12'
 draft: false
 images:
 - /images/covers/obscurity-demo_#1.jpg
@@ -14,4 +14,4 @@ title: 'Obscurity - Demo #1'
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29719&sort=pd.name&order=ASC) for $22.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29719&sort=pd.name&order=ASC) for $25.00

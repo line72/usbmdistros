@@ -1,10 +1,10 @@
 ---
-actualPrice: $7.00
+actualPrice: $10.00
 album: The Compilation to the Infernorum
 artist: Berzabum
 categories:
 - CD
-date: '2022-11-24T06:10:48'
+date: '2022-11-30T06:10:29'
 draft: false
 images:
 - /images/covers/berzabum-the_compilation_to_the_infernorum.jpg
@@ -14,4 +14,4 @@ title: Berzabum - The Compilation to the Infernorum
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=17287&sort=pd.name&order=ASC) for $7.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=17287&sort=pd.name&order=ASC) for $10.00

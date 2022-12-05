@@ -1,10 +1,10 @@
 ---
-actualPrice: $3.00
+actualPrice: $5.00
 album: Vernichtung und Vergeltung
 artist: Verderben
 categories:
 - CD
-date: '2022-11-24T06:11:07'
+date: '2022-11-30T06:10:47'
 draft: false
 images:
 - /images/covers/verderben-vernichtung_und_vergeltung.png
@@ -14,4 +14,4 @@ title: Verderben - Vernichtung und Vergeltung
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=1637&sort=pd.name&order=ASC) for $3.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=1637&sort=pd.name&order=ASC) for $5.00

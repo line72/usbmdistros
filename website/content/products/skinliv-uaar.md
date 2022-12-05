@@ -1,10 +1,10 @@
 ---
-actualPrice: $4.80
+actualPrice: $8.00
 album: UAAR
 artist: Skinliv
 categories:
 - Cassette
-date: '2022-11-24T06:11:19'
+date: '2022-11-30T06:10:58'
 draft: false
 images:
 - /images/covers/skinliv-uaar.png
@@ -14,4 +14,4 @@ title: Skinliv - UAAR
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=10557&sort=pd.name&order=ASC) for $4.80
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=10557&sort=pd.name&order=ASC) for $8.00

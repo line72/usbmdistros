@@ -1,10 +1,10 @@
 ---
-actualPrice: $20.00 - 25.00
+actualPrice: $25.00
 album: Crowned with the Serpent Sun
 artist: Malum
 categories:
 - Vinyl
-date: '2022-11-24T06:10:28'
+date: '2022-11-30T06:10:09'
 draft: false
 images:
 - /images/covers/malum-crowned_with_the_serpent_sun.png
@@ -15,4 +15,4 @@ title: Malum - Crowned with the Serpent Sun
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=20001&sort=pd.name&order=ASC) for $25.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=21690&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=21690&sort=pd.name&order=ASC) for $25.00

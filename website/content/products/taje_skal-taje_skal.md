@@ -1,11 +1,11 @@
 ---
-actualPrice: $6.00 - 25.00
+actualPrice: $10.00 - 25.00
 album: Taje Skal
 artist: Taje Skal
 categories:
 - Vinyl
 - CD
-date: '2022-11-24T06:11:05'
+date: '2022-11-30T06:10:45'
 draft: false
 images:
 - /images/covers/taje_skal-taje_skal.jpg
@@ -17,4 +17,4 @@ title: Taje Skal - Taje Skal
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=15646&sort=pd.name&order=ASC) for $25.00
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=14815&sort=pd.name&order=ASC) for $6.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=14815&sort=pd.name&order=ASC) for $10.00

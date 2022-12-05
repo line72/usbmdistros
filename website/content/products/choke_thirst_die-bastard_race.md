@@ -1,10 +1,10 @@
 ---
-actualPrice: $5.60
+actualPrice: $8.00
 album: Bastard Race
 artist: Choke Thirst Die
 categories:
 - Cassette
-date: '2022-11-24T06:11:11'
+date: '2022-11-30T06:10:51'
 draft: false
 images:
 - /images/covers/choke_thirst_die-bastard_race.png
@@ -14,4 +14,4 @@ title: Choke Thirst Die - Bastard Race
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=16233&sort=pd.name&order=ASC) for $5.60
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=16233&sort=pd.name&order=ASC) for $8.00

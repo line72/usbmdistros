@@ -5,7 +5,7 @@ artist: Absu
 categories:
 - Vinyl
 - Cassette
-date: '2021-12-04T15:44:11'
+date: '2022-11-28T06:20:34'
 draft: false
 images:
 - /images/covers/absu-tara.jpg
@@ -19,3 +19,4 @@ title: Absu - Tara
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/absu-tara-lp) for $32.00 :: Green Marble 2020 press vinyl
 ## Cassette
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/absu-tara-cassette) for $15.00 :: Cassette Tape 2021 press
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/absu-tara-cassette-1) for $15.00 :: Cassette Tape 2021 press

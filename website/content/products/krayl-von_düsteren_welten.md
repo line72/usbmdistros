@@ -1,10 +1,10 @@
 ---
-actualPrice: $3.00
+actualPrice: $5.00
 album: "Von D\xFCsteren Welten"
 artist: Krayl
 categories:
 - Cassette
-date: '2022-11-24T06:11:15'
+date: '2022-11-30T06:10:54'
 draft: false
 images:
 - "/images/covers/krayl-von_d\xFCsteren_welten.png"
@@ -14,4 +14,4 @@ title: "Krayl - Von D\xFCsteren Welten"
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=11490&sort=pd.name&order=ASC) for $3.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=11490&sort=pd.name&order=ASC) for $5.00

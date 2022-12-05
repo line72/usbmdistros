@@ -1,11 +1,11 @@
 ---
-actualPrice: $10.50 - 17.50
+actualPrice: $15.00 - 25.00
 album: Profaani
 artist: Kryptamok
 categories:
 - Vinyl
 - CD
-date: '2022-11-24T06:10:57'
+date: '2022-11-30T06:10:38'
 draft: false
 images:
 - /images/covers/kryptamok-profaani.png
@@ -15,6 +15,6 @@ title: Kryptamok - Profaani
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=19986&sort=pd.name&order=ASC) for $17.50
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=19986&sort=pd.name&order=ASC) for $25.00
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=19985&sort=pd.name&order=ASC) for $10.50
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=19985&sort=pd.name&order=ASC) for $15.00

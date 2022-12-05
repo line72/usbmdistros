@@ -1,10 +1,10 @@
 ---
-actualPrice: $6.00
+actualPrice: $10.00
 album: Deep Melancholic Wrath
 artist: Fornace
 categories:
 - CD
-date: '2022-11-24T06:10:53'
+date: '2022-11-30T06:10:34'
 draft: false
 images:
 - /images/covers/fornace-deep_melancholic_wrath.jpg
@@ -14,4 +14,4 @@ title: Fornace - Deep Melancholic Wrath
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=6043&sort=pd.name&order=ASC) for $6.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=6043&sort=pd.name&order=ASC) for $10.00

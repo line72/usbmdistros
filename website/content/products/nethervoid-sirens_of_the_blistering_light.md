@@ -1,10 +1,10 @@
 ---
-actualPrice: $3.00
+actualPrice: $5.00
 album: Sirens of the Blistering Light
 artist: Nethervoid
 categories:
 - CD
-date: '2022-11-24T06:11:00'
+date: '2022-11-30T06:10:41'
 draft: false
 images:
 - /images/covers/nethervoid-sirens_of_the_blistering_light.jpg
@@ -14,4 +14,4 @@ title: Nethervoid - Sirens of the Blistering Light
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=1495&sort=pd.name&order=ASC) for $3.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=1495&sort=pd.name&order=ASC) for $5.00

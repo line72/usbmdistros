@@ -1,10 +1,10 @@
 ---
-actualPrice: $7.20
+actualPrice: $12.00
 album: Dodekaprofeton
 artist: Profezia
 categories:
 - CD
-date: '2022-11-24T06:11:02'
+date: '2022-11-30T06:10:42'
 draft: false
 images:
 - /images/covers/profezia-dodekaprofeton.png
@@ -14,4 +14,4 @@ title: Profezia - Dodekaprofeton
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=4509&sort=pd.name&order=ASC) for $7.20
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=4509&sort=pd.name&order=ASC) for $12.00

@@ -1,10 +1,10 @@
 ---
-actualPrice: $17.50 - 20.00
+actualPrice: $20.00 - 25.00
 album: "\u0395\u03C1\u03B5\u03AF\u03C0\u03B9\u03B1 \u03A8\u03C5\u03C7\u03CE\u03BD"
 artist: Caedes Cruenta
 categories:
 - Vinyl
-date: '2022-11-24T06:10:19'
+date: '2022-11-30T06:10:00'
 draft: false
 images:
 - "/images/covers/caedes_cruenta-\u03B5\u03C1\u03B5\u03AF\u03C0\u03B9\u03B1_\u03C8\
@@ -18,4 +18,4 @@ title: "Caedes Cruenta - \u0395\u03C1\u03B5\u03AF\u03C0\u03B9\u03B1 \u03A8\u03C5
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=18550&sort=pd.name&order=ASC) for $20.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=19959&sort=pd.name&order=ASC) for $17.50
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=19959&sort=pd.name&order=ASC) for $25.00

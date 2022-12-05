@@ -5,7 +5,7 @@ artist: Graveland
 categories:
 - Vinyl
 - Cassette
-date: '2022-09-23T05:17:52'
+date: '2022-11-30T06:11:25'
 draft: false
 images:
 - /images/covers/graveland-in_the_glare_of_burning_churches.jpg
@@ -16,5 +16,6 @@ title: Graveland - In the Glare of Burning Churches
 
 ## Vinyl
 * Purchase from [CW Productions](https://shop.cwproductions.net/products/graveland-in-the-glare-of-burning-churches-dlp) for $24.00
+* Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/graveland-in-the-glare-of-burning-churches-12-lp/) for $20.00
 ## Cassette
 * Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/graveland-in-the-glare-of-burning-churches-cassette/) for $11.00

@@ -1,10 +1,10 @@
 ---
-actualPrice: $20.00
+actualPrice: $25.00
 album: Antichristian Phenomenon
 artist: Behemoth
 categories:
 - Vinyl
-date: '2022-11-24T06:10:41'
+date: '2022-11-30T06:10:22'
 draft: false
 images:
 - /images/covers/behemoth-antichristian_phenomenon.jpg
@@ -14,4 +14,4 @@ title: Behemoth - Antichristian Phenomenon
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=26125&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=26125&sort=pd.name&order=ASC) for $25.00

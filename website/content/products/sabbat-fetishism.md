@@ -1,12 +1,12 @@
 ---
-actualPrice: $4.00 - 25.90
+actualPrice: $8.00 - 25.90
 album: Fetishism
 artist: Sabbat
 categories:
 - Vinyl
 - Cassette
 - CD
-date: '2022-11-24T06:11:18'
+date: '2022-11-30T06:10:57'
 draft: false
 images:
 - /images/covers/sabbat-fetishism.png
@@ -19,8 +19,8 @@ title: Sabbat - Fetishism
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=18141&sort=pd.name&order=ASC) for $20.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=8900&sort=pd.name&order=ASC) for $25.90
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=6551&sort=pd.name&order=ASC) for $4.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=6551&sort=pd.name&order=ASC) for $8.00
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=7976&sort=pd.name&order=ASC) for $5.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=7976&sort=pd.name&order=ASC) for $10.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=18150&sort=pd.name&order=ASC) for $12.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=21017&sort=pd.name&order=ASC) for $9.60
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=21017&sort=pd.name&order=ASC) for $12.00

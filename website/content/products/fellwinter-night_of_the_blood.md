@@ -1,10 +1,11 @@
 ---
-actualPrice: $27.00
+actualPrice: $13.00 - 27.00
 album: Night of the Blood
 artist: Fellwinter
 categories:
 - Vinyl
-date: '2022-07-25T05:38:25'
+- CD
+date: '2022-12-03T06:01:23'
 draft: false
 images:
 - /images/covers/fellwinter-night_of_the_blood.jpg
@@ -15,3 +16,5 @@ title: Fellwinter - Night of the Blood
 
 ## Vinyl
 * Purchase from [CW Productions](https://shop.cwproductions.net/products/fellwinter-night-of-the-blood-lp) for $27.00
+## CD
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/fellwinter-night-of-the-blood-cd) for $13.00

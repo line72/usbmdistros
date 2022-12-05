@@ -1,11 +1,11 @@
 ---
-actualPrice: $3.60 - 27.00
+actualPrice: $6.00 - 27.00
 album: Der alte Thron, siechend im Schatten
 artist: Schattenthron
 categories:
 - Vinyl
 - CD
-date: '2022-11-24T06:11:04'
+date: '2022-11-30T06:10:44'
 draft: false
 images:
 - /images/covers/schattenthron-der_alte_thron,_siechend_im_schatten.jpg
@@ -18,4 +18,4 @@ title: Schattenthron - Der alte Thron, siechend im Schatten
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/schattenthron-der-alte-thron-siechend-im-schatten-12-lp) for $27.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=24315&sort=pd.name&order=ASC) for $25.00
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=1769&sort=pd.name&order=ASC) for $3.60
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=1769&sort=pd.name&order=ASC) for $6.00

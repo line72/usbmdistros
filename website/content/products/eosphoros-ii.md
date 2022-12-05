@@ -5,7 +5,7 @@ artist: Eosphoros
 categories:
 - Vinyl
 - CD
-date: '2022-11-24T06:10:52'
+date: '2022-11-30T06:10:04'
 draft: false
 images:
 - /images/covers/eosphoros-ii.jpg
@@ -16,6 +16,6 @@ title: Eosphoros - II
 
 ## Vinyl
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/eosphoros-ii-12-lp) for $25.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=22407&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=22407&sort=pd.name&order=ASC) for $25.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=22377&sort=pd.name&order=ASC) for $12.00

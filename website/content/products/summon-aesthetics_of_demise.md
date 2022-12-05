@@ -1,10 +1,10 @@
 ---
-actualPrice: $3.60
+actualPrice: $6.00
 album: Aesthetics of Demise
 artist: Summon
 categories:
 - Cassette
-date: '2022-11-24T06:11:20'
+date: '2022-11-30T06:10:58'
 draft: false
 images:
 - /images/covers/summon-aesthetics_of_demise.png
@@ -14,4 +14,4 @@ title: Summon - Aesthetics of Demise
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=1966&sort=pd.name&order=ASC) for $3.60
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=1966&sort=pd.name&order=ASC) for $6.00

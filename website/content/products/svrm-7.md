@@ -1,10 +1,10 @@
 ---
-actualPrice: $4.20
+actualPrice: $7.00
 album: '7'
 artist: SVRM
 categories:
 - Cassette
-date: '2022-11-24T06:11:20'
+date: '2022-11-30T06:10:58'
 draft: false
 images:
 - /images/covers/svrm-7.png
@@ -14,4 +14,4 @@ title: SVRM - 7
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=3602&sort=pd.name&order=ASC) for $4.20
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=3602&sort=pd.name&order=ASC) for $7.00

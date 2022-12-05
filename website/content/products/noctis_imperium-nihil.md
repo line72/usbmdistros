@@ -1,10 +1,10 @@
 ---
-actualPrice: $3.00
+actualPrice: $5.00
 album: Nihil
 artist: Noctis Imperium
 categories:
 - CD
-date: '2022-11-24T06:11:00'
+date: '2022-11-30T06:10:41'
 draft: false
 images:
 - /images/covers/noctis_imperium-nihil.jpg
@@ -14,4 +14,4 @@ title: Noctis Imperium - Nihil
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=685&sort=pd.name&order=ASC) for $3.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=685&sort=pd.name&order=ASC) for $5.00

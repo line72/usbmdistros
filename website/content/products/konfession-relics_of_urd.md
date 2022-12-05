@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00
+actualPrice: $15.00
 album: Relics Of Urd
 artist: Konfession
 categories:
 - CD
-date: '2022-11-24T06:10:57'
+date: '2022-11-30T06:10:38'
 draft: false
 images:
 - /images/covers/konfession-relics_of_urd.jpg
@@ -14,4 +14,4 @@ title: Konfession - Relics Of Urd
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=24220&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=24220&sort=pd.name&order=ASC) for $15.00

@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00
+actualPrice: $15.00
 album: Donec Perficiam
 artist: Turment Nocturn
 categories:
 - Cassette
-date: '2022-11-24T06:11:21'
+date: '2022-11-30T06:10:59'
 draft: false
 images:
 - /images/covers/turment_nocturn-donec_perficiam.jpg
@@ -14,4 +14,4 @@ title: Turment Nocturn - Donec Perficiam
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=28371&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=28371&sort=pd.name&order=ASC) for $15.00

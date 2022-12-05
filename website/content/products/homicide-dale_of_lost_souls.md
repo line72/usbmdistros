@@ -1,10 +1,10 @@
 ---
-actualPrice: $9.00
+actualPrice: $15.00
 album: Dale of Lost Souls
 artist: Homicide
 categories:
 - Vinyl
-date: '2022-11-24T06:10:25'
+date: '2022-11-30T06:10:06'
 draft: false
 images:
 - /images/covers/homicide-dale_of_lost_souls.jpg
@@ -14,4 +14,4 @@ title: Homicide - Dale of Lost Souls
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=1620&sort=pd.name&order=ASC) for $9.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=1620&sort=pd.name&order=ASC) for $15.00

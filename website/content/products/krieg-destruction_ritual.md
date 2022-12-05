@@ -1,10 +1,10 @@
 ---
-actualPrice: $8.00 - 10.00
+actualPrice: $10.00
 album: Destruction Ritual
 artist: Krieg
 categories:
 - CD
-date: '2022-11-24T06:10:57'
+date: '2022-11-30T06:10:38'
 draft: false
 images:
 - /images/covers/krieg-destruction_ritual.jpg
@@ -15,4 +15,4 @@ title: Krieg - Destruction Ritual
 
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=19160&sort=pd.name&order=ASC) for $10.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=24679&sort=pd.name&order=ASC) for $8.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=24679&sort=pd.name&order=ASC) for $10.00

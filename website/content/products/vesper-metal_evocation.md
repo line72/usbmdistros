@@ -1,10 +1,10 @@
 ---
-actualPrice: $9.60
+actualPrice: $12.00
 album: Metal Evocation
 artist: Vesper
 categories:
 - CD
-date: '2022-11-24T06:11:07'
+date: '2022-11-30T06:10:47'
 draft: false
 images:
 - /images/covers/vesper-metal_evocation.png
@@ -14,4 +14,4 @@ title: Vesper - Metal Evocation
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=20940&sort=pd.name&order=ASC) for $9.60
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=20940&sort=pd.name&order=ASC) for $12.00

@@ -1,10 +1,10 @@
 ---
-actualPrice: $11.90
+actualPrice: $17.00
 album: La Zagastenu
 artist: Zahrim
 categories:
 - Vinyl
-date: '2022-11-24T06:10:40'
+date: '2022-11-30T06:10:21'
 draft: false
 images:
 - /images/covers/zahrim-la_zagastenu.jpg
@@ -14,4 +14,4 @@ title: Zahrim - La Zagastenu
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=16840&sort=pd.name&order=ASC) for $11.90
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=16840&sort=pd.name&order=ASC) for $17.00

@@ -1,10 +1,10 @@
 ---
-actualPrice: $7.20
+actualPrice: $9.00
 album: Interment Ashes
 artist: Interment Ashes
 categories:
 - Cassette
-date: '2022-11-24T06:11:14'
+date: '2022-11-30T06:10:54'
 draft: false
 images:
 - /images/covers/interment_ashes-interment_ashes.jpg
@@ -14,4 +14,4 @@ title: Interment Ashes - Interment Ashes
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=21066&sort=pd.name&order=ASC) for $7.20
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=21066&sort=pd.name&order=ASC) for $9.00

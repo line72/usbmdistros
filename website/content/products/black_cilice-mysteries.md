@@ -4,7 +4,7 @@ album: Mysteries
 artist: Black Cilice
 categories:
 - Vinyl
-date: '2022-11-24T06:10:18'
+date: '2022-11-30T06:09:59'
 draft: false
 images:
 - /images/covers/black_cilice-mysteries.jpg
@@ -19,4 +19,4 @@ title: Black Cilice - Mysteries
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=21964&sort=pd.name&order=ASC) for $30.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=25456&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=27113&sort=pd.name&order=ASC) for $25.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=27342&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=27342&sort=pd.name&order=ASC) for $25.00

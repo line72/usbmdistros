@@ -1,10 +1,10 @@
 ---
-actualPrice: $10.19
+actualPrice: $17.00
 album: THE LIVING EVER MOURN
 artist: NIGHTFELL
 categories:
 - Vinyl
-date: '2022-11-24T06:10:31'
+date: '2022-11-30T06:10:11'
 draft: false
 images:
 - /images/covers/nightfell-the_living_ever_mourn.jpg
@@ -14,4 +14,4 @@ title: NIGHTFELL - THE LIVING EVER MOURN
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=10018&sort=pd.name&order=ASC) for $10.19
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=10018&sort=pd.name&order=ASC) for $17.00

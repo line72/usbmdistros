@@ -1,10 +1,10 @@
 ---
-actualPrice: $3.60
+actualPrice: $6.00
 album: For the Fallen
 artist: Mourning Dawn
 categories:
 - CD
-date: '2022-11-24T06:10:59'
+date: '2022-11-30T06:10:40'
 draft: false
 images:
 - /images/covers/mourning_dawn-for_the_fallen.jpg
@@ -14,4 +14,4 @@ title: Mourning Dawn - For the Fallen
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=1650&sort=pd.name&order=ASC) for $3.60
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=1650&sort=pd.name&order=ASC) for $6.00

@@ -1,10 +1,10 @@
 ---
-actualPrice: $6.00
+actualPrice: $10.00
 album: II
 artist: Rimethurses
 categories:
 - Cassette
-date: '2022-11-24T06:11:18'
+date: '2022-11-30T06:10:57'
 draft: false
 images:
 - /images/covers/rimethurses-ii.jpg
@@ -14,4 +14,4 @@ title: Rimethurses - II
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=10188&sort=pd.name&order=ASC) for $6.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=10188&sort=pd.name&order=ASC) for $10.00

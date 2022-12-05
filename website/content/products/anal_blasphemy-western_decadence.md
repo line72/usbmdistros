@@ -1,11 +1,11 @@
 ---
-actualPrice: $5.00 - 10.19
+actualPrice: $5.00 - 17.00
 album: Western Decadence
 artist: Anal Blasphemy
 categories:
 - Vinyl
 - CD
-date: '2022-11-24T06:10:16'
+date: '2022-11-30T06:09:57'
 draft: false
 images:
 - /images/covers/anal_blasphemy-western_decadence.jpg
@@ -15,6 +15,6 @@ title: Anal Blasphemy - Western Decadence
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=2551&sort=pd.name&order=ASC) for $10.19
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=2551&sort=pd.name&order=ASC) for $17.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=4065&sort=pd.name&order=ASC) for $5.00

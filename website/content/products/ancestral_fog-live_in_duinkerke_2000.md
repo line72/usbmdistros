@@ -1,10 +1,10 @@
 ---
-actualPrice: $6.00
+actualPrice: $10.00
 album: Live in Duinkerke 2000
 artist: Ancestral Fog
 categories:
 - Cassette
-date: '2022-11-24T06:11:09'
+date: '2022-11-30T06:10:49'
 draft: false
 images:
 - /images/covers/ancestral_fog-live_in_duinkerke_2000.png
@@ -14,4 +14,4 @@ title: Ancestral Fog - Live in Duinkerke 2000
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=652&sort=pd.name&order=ASC) for $6.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=652&sort=pd.name&order=ASC) for $10.00

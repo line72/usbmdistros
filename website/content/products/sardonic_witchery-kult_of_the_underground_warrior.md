@@ -1,10 +1,10 @@
 ---
-actualPrice: $6.00
+actualPrice: $10.00
 album: Kult of the Underground Warrior
 artist: Sardonic Witchery
 categories:
 - CD
-date: '2022-11-24T06:11:03'
+date: '2022-11-30T06:10:43'
 draft: false
 images:
 - /images/covers/sardonic_witchery-kult_of_the_underground_warrior.png
@@ -14,4 +14,4 @@ title: Sardonic Witchery - Kult of the Underground Warrior
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=3038&sort=pd.name&order=ASC) for $6.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=3038&sort=pd.name&order=ASC) for $10.00

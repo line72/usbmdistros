@@ -1,10 +1,10 @@
 ---
-actualPrice: $6.00
+actualPrice: $10.00
 album: A dime for the bleak faces
 artist: Kerker
 categories:
 - CD
-date: '2022-11-24T06:10:57'
+date: '2022-11-30T06:10:37'
 draft: false
 images:
 - /images/covers/kerker-a_dime_for_the_bleak_faces.jpg
@@ -14,4 +14,4 @@ title: Kerker - A dime for the bleak faces
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=3844&sort=pd.name&order=ASC) for $6.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=3844&sort=pd.name&order=ASC) for $10.00

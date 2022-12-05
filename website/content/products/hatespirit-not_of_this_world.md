@@ -1,10 +1,10 @@
 ---
-actualPrice: $9.00 - 10.00
+actualPrice: $10.00 - 15.00
 album: Not of This World
 artist: Hatespirit
 categories:
 - CD
-date: '2022-11-24T06:10:55'
+date: '2022-11-30T06:10:35'
 draft: false
 images:
 - /images/covers/hatespirit-not_of_this_world.jpg
@@ -15,4 +15,4 @@ title: Hatespirit - Not of This World
 
 ## CD
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/hatespirit-not-of-this-world) for $10.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=7988&sort=pd.name&order=ASC) for $9.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=7988&sort=pd.name&order=ASC) for $15.00

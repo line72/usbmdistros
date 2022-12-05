@@ -1,10 +1,10 @@
 ---
-actualPrice: $8.40
+actualPrice: $14.00
 album: Blood Sanctions
 artist: "Pr\u0119gierz"
 categories:
 - Vinyl
-date: '2022-11-24T06:10:44'
+date: '2022-11-30T06:10:25'
 draft: false
 images:
 - "/images/covers/pr\u0119gierz-blood_sanctions.jpg"
@@ -14,4 +14,4 @@ title: "Pr\u0119gierz - Blood Sanctions"
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=2003&sort=pd.name&order=ASC) for $8.40
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=2003&sort=pd.name&order=ASC) for $14.00

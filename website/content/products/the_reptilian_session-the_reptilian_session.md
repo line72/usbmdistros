@@ -1,10 +1,10 @@
 ---
-actualPrice: $10.19
+actualPrice: $17.00
 album: The Reptilian Session
 artist: THE REPTILIAN SESSION
 categories:
 - Vinyl
-date: '2022-11-24T06:10:37'
+date: '2022-11-30T06:10:18'
 draft: false
 images:
 - /images/covers/the_reptilian_session-the_reptilian_session.jpg
@@ -14,4 +14,4 @@ title: THE REPTILIAN SESSION - The Reptilian Session
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=3424&sort=pd.name&order=ASC) for $10.19
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=3424&sort=pd.name&order=ASC) for $17.00

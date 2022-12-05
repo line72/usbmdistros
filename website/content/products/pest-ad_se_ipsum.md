@@ -1,11 +1,11 @@
 ---
-actualPrice: $9.60 - 30.00
+actualPrice: $12.00 - 30.00
 album: Ad Se Ipsum
 artist: Pest
 categories:
 - Vinyl
 - CD
-date: '2022-11-24T06:11:02'
+date: '2022-11-30T06:10:42'
 draft: false
 images:
 - /images/covers/pest-ad_se_ipsum.jpg
@@ -21,4 +21,4 @@ title: Pest - Ad Se Ipsum
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=25391&sort=pd.name&order=ASC) for $12.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=26073&sort=pd.name&order=ASC) for $12.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=26868&sort=pd.name&order=ASC) for $12.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=27789&sort=pd.name&order=ASC) for $9.60
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=27789&sort=pd.name&order=ASC) for $12.00

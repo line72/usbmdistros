@@ -1,12 +1,12 @@
 ---
-actualPrice: $3.60 - 12.00
+actualPrice: $6.00 - 12.00
 album: Hexapterygon
 artist: Deus Ignotus
 categories:
 - Vinyl
 - Cassette
 - CD
-date: '2022-11-24T06:11:12'
+date: '2022-11-30T06:10:51'
 draft: false
 images:
 - /images/covers/deus_ignotus-hexapterygon.jpg
@@ -18,6 +18,6 @@ title: Deus Ignotus - Hexapterygon
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=8791&sort=pd.name&order=ASC) for $12.00
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=1806&sort=pd.name&order=ASC) for $3.60
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=1806&sort=pd.name&order=ASC) for $6.00
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=2292&sort=pd.name&order=ASC) for $7.20
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=2292&sort=pd.name&order=ASC) for $12.00

@@ -1,10 +1,10 @@
 ---
-actualPrice: $6.00
+actualPrice: $10.00
 album: King of the Midnight Legions
 artist: Sardonic Witchery
 categories:
 - CD
-date: '2022-11-24T06:11:03'
+date: '2022-11-30T06:10:43'
 draft: false
 images:
 - /images/covers/sardonic_witchery-king_of_the_midnight_legions.png
@@ -14,4 +14,4 @@ title: Sardonic Witchery - King of the Midnight Legions
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=3036&sort=pd.name&order=ASC) for $6.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=3036&sort=pd.name&order=ASC) for $10.00

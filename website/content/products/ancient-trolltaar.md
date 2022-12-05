@@ -1,10 +1,10 @@
 ---
-actualPrice: $10.50
+actualPrice: $15.00
 album: Trolltaar
 artist: Ancient
 categories:
 - Cassette
-date: '2022-11-24T06:11:09'
+date: '2022-11-30T06:10:49'
 draft: false
 images:
 - /images/covers/ancient-trolltaar.jpg
@@ -14,4 +14,4 @@ title: Ancient - Trolltaar
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=18806&sort=pd.name&order=ASC) for $10.50
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=18806&sort=pd.name&order=ASC) for $15.00

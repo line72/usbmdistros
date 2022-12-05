@@ -1,10 +1,10 @@
 ---
-actualPrice: $20.00 - 28.00
+actualPrice: $25.00 - 28.00
 album: Ceremony of Domination
 artist: Legion of Doom
 categories:
 - Vinyl
-date: '2022-10-17T05:24:40'
+date: '2022-12-05T06:27:34'
 draft: false
 images:
 - /images/covers/legion_of_doom-ceremony_of_domination.jpg
@@ -15,4 +15,4 @@ title: Legion of Doom - Ceremony of Domination
 
 ## Vinyl
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/legion-of-doom-ceremony-of-domination-12-lp) for $28.00
-* Purchase from [CW Productions](https://shop.cwproductions.net/products/legion-of-doom-ceremony-of-domination-lp-1) for $20.00
+* Purchase from [CW Productions](https://shop.cwproductions.net/products/legion-of-doom-ceremony-of-domination-lp-1) for $25.00

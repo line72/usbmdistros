@@ -1,10 +1,10 @@
 ---
-actualPrice: $4.20
+actualPrice: $7.00
 album: Det Personliga Helvetets Spiral
 artist: Svart
 categories:
 - CD
-date: '2022-11-24T06:11:05'
+date: '2022-11-30T06:10:45'
 draft: false
 images:
 - /images/covers/svart-det_personliga_helvetets_spiral.jpg
@@ -14,4 +14,4 @@ title: Svart - Det Personliga Helvetets Spiral
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=1418&sort=pd.name&order=ASC) for $4.20
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=1418&sort=pd.name&order=ASC) for $7.00

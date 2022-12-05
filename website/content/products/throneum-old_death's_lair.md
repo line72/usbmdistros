@@ -1,10 +1,10 @@
 ---
-actualPrice: $8.00
+actualPrice: $10.00
 album: Old Death's Lair
 artist: Throneum
 categories:
 - Cassette
-date: '2022-11-24T06:11:20'
+date: '2022-11-30T06:10:59'
 draft: false
 images:
 - /images/covers/throneum-old_death's_lair.png
@@ -14,4 +14,4 @@ title: Throneum - Old Death's Lair
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=23122&sort=pd.name&order=ASC) for $8.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=23122&sort=pd.name&order=ASC) for $10.00

@@ -1,10 +1,10 @@
 ---
-actualPrice: $13.60 - 17.00
+actualPrice: $17.00
 album: Premiers / Derniers Chants
 artist: Ossuaire
 categories:
 - Cassette
-date: '2022-11-24T06:11:18'
+date: '2022-11-30T06:10:56'
 draft: false
 images:
 - /images/covers/ossuaire-premiers_-_derniers_chants.jpg
@@ -15,4 +15,4 @@ title: Ossuaire - Premiers / Derniers Chants
 
 ## Cassette
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=21111&sort=pd.name&order=ASC) for $17.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=26449&sort=pd.name&order=ASC) for $13.60
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=26449&sort=pd.name&order=ASC) for $17.00

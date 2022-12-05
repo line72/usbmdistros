@@ -1,10 +1,10 @@
 ---
-actualPrice: $3.60 - 8.00
+actualPrice: $6.00 - 8.00
 album: Apeiron
 artist: Masshu
 categories:
 - CD
-date: '2022-11-24T06:10:58'
+date: '2022-11-30T06:10:39'
 draft: false
 images:
 - /images/covers/masshu-apeiron.jpg
@@ -14,5 +14,5 @@ title: Masshu - Apeiron
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=1188&sort=pd.name&order=ASC) for $3.60
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=1188&sort=pd.name&order=ASC) for $6.00
 * Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/masshu-apeiron-cd/) for $8.00

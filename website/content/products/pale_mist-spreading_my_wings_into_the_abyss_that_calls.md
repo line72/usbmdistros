@@ -1,11 +1,11 @@
 ---
-actualPrice: $4.20 - 4.80
+actualPrice: $7.00 - 8.00
 album: Spreading My Wings Into the Abyss That Calls
 artist: Pale Mist
 categories:
 - Cassette
 - CD
-date: '2022-11-24T06:11:18'
+date: '2022-11-30T06:10:56'
 draft: false
 images:
 - /images/covers/pale_mist-spreading_my_wings_into_the_abyss_that_calls.jpg
@@ -15,6 +15,6 @@ title: Pale Mist - Spreading My Wings Into the Abyss That Calls
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=8887&sort=pd.name&order=ASC) for $4.80
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=8887&sort=pd.name&order=ASC) for $8.00
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=2226&sort=pd.name&order=ASC) for $4.20
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=2226&sort=pd.name&order=ASC) for $7.00

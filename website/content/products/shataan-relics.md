@@ -1,10 +1,10 @@
 ---
-actualPrice: $20.00 - 35.00
+actualPrice: $25.00 - 35.00
 album: Relics
 artist: Shataan
 categories:
 - Vinyl
-date: '2022-11-24T06:10:35'
+date: '2022-11-30T06:10:16'
 draft: false
 images:
 - /images/covers/shataan-relics.jpg
@@ -19,4 +19,4 @@ title: Shataan - Relics
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=19367&sort=pd.name&order=ASC) for $28.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=22893&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=26663&sort=pd.name&order=ASC) for $25.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29154&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29154&sort=pd.name&order=ASC) for $25.00

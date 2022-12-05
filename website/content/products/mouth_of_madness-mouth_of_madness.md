@@ -1,10 +1,10 @@
 ---
-actualPrice: $3.60
+actualPrice: $6.00
 album: Mouth of Madness
 artist: Mouth of Madness
 categories:
 - Cassette
-date: '2022-11-24T06:11:17'
+date: '2022-11-30T06:10:55'
 draft: false
 images:
 - /images/covers/mouth_of_madness-mouth_of_madness.jpg
@@ -14,4 +14,4 @@ title: Mouth of Madness - Mouth of Madness
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=11532&sort=pd.name&order=ASC) for $3.60
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=11532&sort=pd.name&order=ASC) for $6.00

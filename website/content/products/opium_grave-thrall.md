@@ -1,10 +1,10 @@
 ---
-actualPrice: $9.60 - 10.00
+actualPrice: $10.00 - 12.00
 album: Thrall
 artist: Opium Grave
 categories:
 - Cassette
-date: '2022-11-24T06:11:17'
+date: '2022-11-30T06:10:56'
 draft: false
 images:
 - /images/covers/opium_grave-thrall.jpg
@@ -15,4 +15,4 @@ title: Opium Grave - Thrall
 
 ## Cassette
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/opium-grave-thrall-tape) for $10.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=20757&sort=pd.name&order=ASC) for $9.60
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=20757&sort=pd.name&order=ASC) for $12.00

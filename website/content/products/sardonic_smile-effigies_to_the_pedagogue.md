@@ -1,10 +1,10 @@
 ---
-actualPrice: $4.80
+actualPrice: $8.00
 album: EFFIGIES TO THE PEDAGOGUE
 artist: Sardonic Smile
 categories:
 - Cassette
-date: '2022-11-24T06:11:19'
+date: '2022-11-30T06:10:57'
 draft: false
 images:
 - /images/covers/sardonic_smile-effigies_to_the_pedagogue.png
@@ -14,4 +14,4 @@ title: Sardonic Smile - EFFIGIES TO THE PEDAGOGUE
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=12000&sort=pd.name&order=ASC) for $4.80
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=12000&sort=pd.name&order=ASC) for $8.00

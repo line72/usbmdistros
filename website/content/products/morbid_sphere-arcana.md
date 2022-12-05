@@ -5,7 +5,7 @@ artist: Morbid Sphere
 categories:
 - Vinyl
 - Cassette
-date: '2022-11-24T06:11:16'
+date: '2022-11-30T06:10:55'
 draft: false
 images:
 - /images/covers/morbid_sphere-arcana.jpg
@@ -17,8 +17,8 @@ title: Morbid Sphere - Arcana
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=28183&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=28276&sort=pd.name&order=ASC) for $25.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=28584&sort=pd.name&order=ASC) for $16.25
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=28584&sort=pd.name&order=ASC) for $25.00
 ## Cassette
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=21195&sort=pd.name&order=ASC) for $10.00
 * Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/35847085-morbid-sphere-arcana) for $1.50
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=28585&sort=pd.name&order=ASC) for $6.50
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=28585&sort=pd.name&order=ASC) for $10.00

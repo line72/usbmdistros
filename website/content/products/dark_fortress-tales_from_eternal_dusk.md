@@ -1,10 +1,10 @@
 ---
-actualPrice: $7.00
+actualPrice: $10.00
 album: Tales From Eternal Dusk
 artist: Dark Fortress
 categories:
 - CD
-date: '2022-11-24T06:10:50'
+date: '2022-11-30T06:10:30'
 draft: false
 images:
 - /images/covers/dark_fortress-tales_from_eternal_dusk.png
@@ -14,4 +14,4 @@ title: Dark Fortress - Tales From Eternal Dusk
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=19153&sort=pd.name&order=ASC) for $7.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=19153&sort=pd.name&order=ASC) for $10.00

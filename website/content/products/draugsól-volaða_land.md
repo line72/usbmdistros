@@ -1,10 +1,10 @@
 ---
-actualPrice: $6.00
+actualPrice: $10.00
 album: "Vola\xF0a Land"
 artist: "Draugs\xF3l"
 categories:
 - CD
-date: '2022-11-24T06:10:52'
+date: '2022-11-30T06:10:32'
 draft: false
 images:
 - "/images/covers/draugs\xF3l-vola\xF0a_land.jpg"
@@ -14,4 +14,4 @@ title: "Draugs\xF3l - Vola\xF0a Land"
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=8970&sort=pd.name&order=ASC) for $6.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=8970&sort=pd.name&order=ASC) for $10.00

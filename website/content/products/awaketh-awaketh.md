@@ -1,10 +1,10 @@
 ---
-actualPrice: $20.00
+actualPrice: $25.00
 album: Awaketh
 artist: Awaketh
 categories:
 - Vinyl
-date: '2022-11-24T06:10:17'
+date: '2022-11-30T06:09:59'
 draft: false
 images:
 - /images/covers/awaketh-awaketh.jpg
@@ -14,4 +14,4 @@ title: Awaketh - Awaketh
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=23748&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=23748&sort=pd.name&order=ASC) for $25.00

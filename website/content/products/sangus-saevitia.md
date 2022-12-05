@@ -1,10 +1,10 @@
 ---
-actualPrice: $4.20
+actualPrice: $7.00
 album: Saevitia
 artist: Sangus
 categories:
 - Vinyl
-date: '2022-11-24T06:10:45'
+date: '2022-11-30T06:10:25'
 draft: false
 images:
 - /images/covers/sangus-saevitia.jpg
@@ -14,4 +14,4 @@ title: Sangus - Saevitia
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=785&sort=pd.name&order=ASC) for $4.20
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=785&sort=pd.name&order=ASC) for $7.00

@@ -1,10 +1,10 @@
 ---
-actualPrice: $3.60
+actualPrice: $6.00
 album: Drakon
 artist: VIII
 categories:
 - CD
-date: '2022-11-24T06:11:07'
+date: '2022-11-30T06:10:47'
 draft: false
 images:
 - /images/covers/viii-drakon.png
@@ -14,4 +14,4 @@ title: VIII - Drakon
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=1196&sort=pd.name&order=ASC) for $3.60
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=1196&sort=pd.name&order=ASC) for $6.00

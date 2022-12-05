@@ -1,11 +1,11 @@
 ---
-actualPrice: $9.60 - 29.00
+actualPrice: $12.00 - 29.00
 album: Those of the Unlight
 artist: Marduk
 categories:
 - Vinyl
 - CD
-date: '2022-11-24T06:10:58'
+date: '2022-11-30T06:10:39'
 draft: false
 images:
 - /images/covers/marduk-those_of_the_unlight.jpg
@@ -20,4 +20,4 @@ title: Marduk - Those of the Unlight
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=24552&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=24982&sort=pd.name&order=ASC) for $25.00
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=25012&sort=pd.name&order=ASC) for $9.60
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=25012&sort=pd.name&order=ASC) for $12.00

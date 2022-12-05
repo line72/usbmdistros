@@ -5,7 +5,7 @@ artist: Lament in Winter's Night
 categories:
 - Vinyl
 - CD
-date: '2022-11-24T06:10:27'
+date: '2022-12-02T06:00:43'
 draft: false
 images:
 - /images/covers/lament_in_winter's_night-at_the_gates_of_the_eternal_storm.jpg
@@ -16,6 +16,7 @@ title: Lament in Winter's Night - At the Gates of the Eternal Storm
 
 ## Vinyl
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/lament-in-winter-s-night-at-the-gates-of-the-eternal-storm-12-lp) for $25.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=27302&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=27302&sort=pd.name&order=ASC) for $25.00
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/lament-in-winter-s-night-at-the-gates-of-the-eternal-storm-12-lp) for $25.00
 ## CD
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/lament-in-winter-s-night-at-the-gates-of-the-eternal-storm-cd) for $13.00

@@ -1,10 +1,10 @@
 ---
-actualPrice: $6.00
+actualPrice: $10.00
 album: Ritual and Ceremony
 artist: Blut
 categories:
 - Cassette
-date: '2022-11-24T06:11:10'
+date: '2022-11-30T06:10:50'
 draft: false
 images:
 - /images/covers/blut-ritual_and_ceremony.png
@@ -14,4 +14,4 @@ title: Blut - Ritual and Ceremony
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=10198&sort=pd.name&order=ASC) for $6.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=10198&sort=pd.name&order=ASC) for $10.00

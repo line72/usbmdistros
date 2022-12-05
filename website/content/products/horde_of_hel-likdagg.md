@@ -1,10 +1,10 @@
 ---
-actualPrice: $10.50
+actualPrice: $15.00
 album: Likdagg
 artist: Horde Of Hel
 categories:
 - CD
-date: '2022-11-24T06:10:55'
+date: '2022-11-30T06:10:36'
 draft: false
 images:
 - /images/covers/horde_of_hel-likdagg.png
@@ -14,4 +14,4 @@ title: Horde Of Hel - Likdagg
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=19955&sort=pd.name&order=ASC) for $10.50
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=19955&sort=pd.name&order=ASC) for $15.00

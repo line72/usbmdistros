@@ -1,10 +1,10 @@
 ---
-actualPrice: $7.00
+actualPrice: $10.00
 album: Wrath of War
 artist: Thornspawn
 categories:
 - CD
-date: '2022-11-24T06:11:06'
+date: '2022-11-30T06:10:46'
 draft: false
 images:
 - /images/covers/thornspawn-wrath_of_war.jpg
@@ -14,4 +14,4 @@ title: Thornspawn - Wrath of War
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=19582&sort=pd.name&order=ASC) for $7.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=19582&sort=pd.name&order=ASC) for $10.00

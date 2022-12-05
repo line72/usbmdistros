@@ -1,10 +1,10 @@
 ---
-actualPrice: $9.60
+actualPrice: $12.00
 album: Proclamation of the Sardonic Flame
 artist: Aura Mortis
 categories:
 - CD
-date: '2022-11-24T06:10:48'
+date: '2022-11-30T06:10:28'
 draft: false
 images:
 - /images/covers/aura_mortis-proclamation_of_the_sardonic_flame.jpg
@@ -14,4 +14,4 @@ title: Aura Mortis - Proclamation of the Sardonic Flame
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=20713&sort=pd.name&order=ASC) for $9.60
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=20713&sort=pd.name&order=ASC) for $12.00

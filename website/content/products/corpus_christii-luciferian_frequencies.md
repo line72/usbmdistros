@@ -1,10 +1,10 @@
 ---
-actualPrice: $10.19
+actualPrice: $17.00
 album: Luciferian Frequencies
 artist: Corpus Christii
 categories:
 - Vinyl
-date: '2022-11-24T06:10:20'
+date: '2022-11-30T06:10:01'
 draft: false
 images:
 - /images/covers/corpus_christii-luciferian_frequencies.jpg
@@ -14,4 +14,4 @@ title: Corpus Christii - Luciferian Frequencies
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=1023&sort=pd.name&order=ASC) for $10.19
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=1023&sort=pd.name&order=ASC) for $17.00

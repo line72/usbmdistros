@@ -1,10 +1,10 @@
 ---
-actualPrice: $4.20
+actualPrice: $7.00
 album: Abyssum Invocare
 artist: Arcanus Tenebrae
 categories:
 - Vinyl
-date: '2022-11-24T06:10:41'
+date: '2022-11-30T06:10:22'
 draft: false
 images:
 - /images/covers/arcanus_tenebrae-abyssum_invocare.jpg
@@ -14,4 +14,4 @@ title: Arcanus Tenebrae - Abyssum Invocare
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=695&sort=pd.name&order=ASC) for $4.20
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=695&sort=pd.name&order=ASC) for $7.00

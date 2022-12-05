@@ -1,11 +1,11 @@
 ---
-actualPrice: $7.00 - 35.00
+actualPrice: $10.00 - 35.00
 album: Voidgazer
 artist: Pneuma Hagion
 categories:
 - Vinyl
 - CD
-date: '2022-11-24T06:11:02'
+date: '2022-11-30T06:10:42'
 draft: false
 images:
 - /images/covers/pneuma_hagion-voidgazer.jpg
@@ -16,6 +16,6 @@ title: Pneuma Hagion - Voidgazer
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=11927&sort=pd.name&order=ASC) for $35.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=17111&sort=pd.name&order=ASC) for $13.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=17111&sort=pd.name&order=ASC) for $20.00
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=18089&sort=pd.name&order=ASC) for $7.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=18089&sort=pd.name&order=ASC) for $10.00

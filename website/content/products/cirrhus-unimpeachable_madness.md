@@ -6,7 +6,7 @@ categories:
 - Vinyl
 - Cassette
 - CD
-date: '2022-11-24T06:11:11'
+date: '2022-11-30T06:10:51'
 draft: false
 images:
 - /images/covers/cirrhus-unimpeachable_madness.png
@@ -20,6 +20,6 @@ title: Cirrhus - Unimpeachable Madness
 ## Cassette
 * Purchase from [CW Productions](https://shop.cwproductions.net/products/cirrhus-unimpeachable-madness-tape) for $8.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=20657&sort=pd.name&order=ASC) for $10.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=25389&sort=pd.name&order=ASC) for $8.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=25389&sort=pd.name&order=ASC) for $10.00
 ## CD
 * Purchase from [CW Productions](https://shop.cwproductions.net/products/cirrhus-unimpeachable-madness-cd-1) for $10.00

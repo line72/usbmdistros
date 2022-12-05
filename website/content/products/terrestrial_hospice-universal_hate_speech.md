@@ -1,10 +1,10 @@
 ---
-actualPrice: $16.00
+actualPrice: $20.00
 album: Universal Hate Speech
 artist: Terrestrial Hospice
 categories:
 - Vinyl
-date: '2022-11-24T06:10:36'
+date: '2022-11-30T06:10:18'
 draft: false
 images:
 - /images/covers/terrestrial_hospice-universal_hate_speech.jpg
@@ -14,4 +14,4 @@ title: Terrestrial Hospice - Universal Hate Speech
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=28461&sort=pd.name&order=ASC) for $16.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=28461&sort=pd.name&order=ASC) for $20.00

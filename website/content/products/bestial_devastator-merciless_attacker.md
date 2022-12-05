@@ -1,10 +1,10 @@
 ---
-actualPrice: $4.20
+actualPrice: $7.00
 album: Merciless Attacker
 artist: Bestial Devastator
 categories:
 - Cassette
-date: '2022-11-24T06:11:10'
+date: '2022-11-30T06:10:50'
 draft: false
 images:
 - /images/covers/bestial_devastator-merciless_attacker.png
@@ -14,4 +14,4 @@ title: Bestial Devastator - Merciless Attacker
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=12297&sort=pd.name&order=ASC) for $4.20
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=12297&sort=pd.name&order=ASC) for $7.00

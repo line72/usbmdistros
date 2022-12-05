@@ -1,10 +1,10 @@
 ---
-actualPrice: $5.40
+actualPrice: $9.00
 album: Cold Wrath Of Mother Earth
 artist: Armagh
 categories:
 - Cassette
-date: '2022-11-24T06:11:09'
+date: '2022-11-30T06:10:49'
 draft: false
 images:
 - /images/covers/armagh-cold_wrath_of_mother_earth.jpg
@@ -14,4 +14,4 @@ title: Armagh - Cold Wrath Of Mother Earth
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=12665&sort=pd.name&order=ASC) for $5.40
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=12665&sort=pd.name&order=ASC) for $9.00

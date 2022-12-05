@@ -1,10 +1,10 @@
 ---
-actualPrice: $20.00 - 25.00
+actualPrice: $25.00
 album: Incarnation of Evil
 artist: Tsalal
 categories:
 - Cassette
-date: '2022-11-24T06:11:21'
+date: '2022-11-30T06:10:59'
 draft: false
 images:
 - /images/covers/tsalal-incarnation_of_evil.jpg
@@ -15,4 +15,4 @@ title: Tsalal - Incarnation of Evil
 
 ## Cassette
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=20462&sort=pd.name&order=ASC) for $25.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=26447&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=26447&sort=pd.name&order=ASC) for $25.00

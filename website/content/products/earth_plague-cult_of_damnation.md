@@ -1,10 +1,10 @@
 ---
-actualPrice: $3.60
+actualPrice: $6.00
 album: Cult of Damnation
 artist: Earth Plague
 categories:
 - CD
-date: '2022-11-24T06:10:52'
+date: '2022-11-30T06:10:32'
 draft: false
 images:
 - /images/covers/earth_plague-cult_of_damnation.jpg
@@ -14,4 +14,4 @@ title: Earth Plague - Cult of Damnation
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=1530&sort=pd.name&order=ASC) for $3.60
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=1530&sort=pd.name&order=ASC) for $6.00

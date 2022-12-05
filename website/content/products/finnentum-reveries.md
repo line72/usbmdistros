@@ -1,10 +1,10 @@
 ---
-actualPrice: $20.00
+actualPrice: $25.00
 album: Reveries
 artist: Finnentum
 categories:
 - Vinyl
-date: '2022-11-24T06:10:23'
+date: '2022-11-30T06:10:04'
 draft: false
 images:
 - /images/covers/finnentum-reveries.jpg
@@ -14,4 +14,4 @@ title: Finnentum - Reveries
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=21836&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=21836&sort=pd.name&order=ASC) for $25.00

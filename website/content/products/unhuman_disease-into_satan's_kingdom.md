@@ -1,10 +1,10 @@
 ---
-actualPrice: $14.00
+actualPrice: $20.00
 album: Into Satan's Kingdom
 artist: Unhuman Disease
 categories:
 - Vinyl
-date: '2022-11-24T06:10:38'
+date: '2022-11-30T06:10:19'
 draft: false
 images:
 - /images/covers/unhuman_disease-into_satan's_kingdom.png
@@ -14,4 +14,4 @@ title: Unhuman Disease - Into Satan's Kingdom
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=16603&sort=pd.name&order=ASC) for $14.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=16603&sort=pd.name&order=ASC) for $20.00
