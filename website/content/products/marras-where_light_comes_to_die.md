@@ -7,9 +7,9 @@ categories:
 date: '2022-12-01T06:18:17'
 draft: false
 images:
-- /images/covers/marras-where_light_comes_to_die.png
+- /images/covers/marras-where_light_comes_to_die.jpg
 inStock: true
-thumbnailImage: /images/covers/marras-where_light_comes_to_die-thumb.png
+thumbnailImage: /images/covers/marras-where_light_comes_to_die-thumb.jpg
 title: Marras - Where Light Comes to Die
 ---
 

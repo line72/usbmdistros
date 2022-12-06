@@ -7,9 +7,9 @@ categories:
 date: '2022-12-01T06:18:17'
 draft: false
 images:
-- /images/covers/ifrinn-caledonian_black_magick.png
+- /images/covers/ifrinn-caledonian_black_magick.jpg
 inStock: true
-thumbnailImage: /images/covers/ifrinn-caledonian_black_magick-thumb.png
+thumbnailImage: /images/covers/ifrinn-caledonian_black_magick-thumb.jpg
 title: Ifrinn - Caledonian Black Magick
 ---
 

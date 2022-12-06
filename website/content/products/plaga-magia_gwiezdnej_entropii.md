@@ -7,9 +7,9 @@ categories:
 date: '2022-11-30T06:11:25'
 draft: false
 images:
-- /images/covers/plaga-magia_gwiezdnej_entropii.png
+- /images/covers/plaga-magia_gwiezdnej_entropii.jpg
 inStock: true
-thumbnailImage: /images/covers/plaga-magia_gwiezdnej_entropii-thumb.png
+thumbnailImage: /images/covers/plaga-magia_gwiezdnej_entropii-thumb.jpg
 title: Plaga - Magia Gwiezdnej Entropii
 ---
 

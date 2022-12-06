@@ -7,9 +7,9 @@ categories:
 date: '2022-12-01T06:20:55'
 draft: false
 images:
-- /images/covers/vuyvr-eiskalt.png
+- /images/covers/vuyvr-eiskalt.jpg
 inStock: true
-thumbnailImage: /images/covers/vuyvr-eiskalt-thumb.png
+thumbnailImage: /images/covers/vuyvr-eiskalt-thumb.jpg
 title: Vuyvr - Eiskalt
 ---
 

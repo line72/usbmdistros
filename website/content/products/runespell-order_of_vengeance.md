@@ -5,7 +5,7 @@ artist: Runespell
 categories:
 - Vinyl
 - CD
-date: '2022-11-30T06:10:15'
+date: '2022-12-06T06:01:02'
 draft: false
 images:
 - /images/covers/runespell-order_of_vengeance.png

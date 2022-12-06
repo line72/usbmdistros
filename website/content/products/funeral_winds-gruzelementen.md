@@ -7,9 +7,9 @@ categories:
 date: '2022-11-30T06:11:25'
 draft: false
 images:
-- /images/covers/funeral_winds-gruzelementen.png
+- /images/covers/funeral_winds-gruzelementen.jpg
 inStock: true
-thumbnailImage: /images/covers/funeral_winds-gruzelementen-thumb.png
+thumbnailImage: /images/covers/funeral_winds-gruzelementen-thumb.jpg
 title: Funeral Winds - Gruzelementen
 ---
 

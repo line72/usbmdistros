@@ -1,10 +1,11 @@
 ---
-actualPrice: $10.00
+actualPrice: $10.00 - 25.00
 album: Dripping Papal Blood
 artist: Departure Chandelier
 categories:
+- Vinyl
 - CD
-date: '2022-11-30T06:10:31'
+date: '2022-12-06T06:12:42'
 draft: false
 images:
 - /images/covers/departure_chandelier-dripping_papal_blood.jpg
@@ -13,8 +14,11 @@ thumbnailImage: /images/covers/departure_chandelier-dripping_papal_blood-thumb.j
 title: Departure Chandelier - Dripping Papal Blood
 ---
 
+## Vinyl
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29828&sort=pd.name&order=ASC) for $25.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=23143&sort=pd.name&order=ASC) for $10.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=24682&sort=pd.name&order=ASC) for $10.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=28976&sort=pd.name&order=ASC) for $10.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=28988&sort=pd.name&order=ASC) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=29827&sort=pd.name&order=ASC) for $10.00

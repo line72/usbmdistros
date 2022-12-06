@@ -7,9 +7,9 @@ categories:
 date: '2022-12-02T06:00:43'
 draft: false
 images:
-- "/images/covers/wagner_\xF6deg\xE5rd-gl\xF8mbd_i_grifft.png"
+- "/images/covers/wagner_\xF6deg\xE5rd-gl\xF8mbd_i_grifft.jpg"
 inStock: true
-thumbnailImage: "/images/covers/wagner_\xF6deg\xE5rd-gl\xF8mbd_i_grifft-thumb.png"
+thumbnailImage: "/images/covers/wagner_\xF6deg\xE5rd-gl\xF8mbd_i_grifft-thumb.jpg"
 title: "Wagner \xD6deg\xE5rd - Gl\xF8mbd I Grifft"
 ---
 
