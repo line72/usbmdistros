@@ -4,7 +4,7 @@ album: Nordland I-II
 artist: Bathory
 categories:
 - Vinyl
-date: '2022-03-22T05:07:33'
+date: '2022-12-08T06:09:09'
 draft: false
 images:
 - /images/covers/bathory-nordland_i-ii.jpg
@@ -19,3 +19,4 @@ title: Bathory - Nordland I-II
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=20277&sort=pd.name&order=ASC) for $30.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=21131&sort=pd.name&order=ASC) for $30.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=21741&sort=pd.name&order=ASC) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29881&sort=pd.name&order=ASC) for $30.00

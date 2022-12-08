@@ -1,10 +1,10 @@
 ---
-actualPrice: $25.00
+actualPrice: $25.00 - 27.00
 album: Death, The Heart of Satan
 artist: Daemonlust
 categories:
 - Vinyl
-date: '2021-08-17T13:15:23'
+date: '2022-12-08T06:09:24'
 draft: false
 images:
 - /images/covers/daemonlust-death,_the_heart_of_satan.png
@@ -15,3 +15,4 @@ title: Daemonlust - Death, The Heart of Satan
 
 ## Vinyl
 * Purchase from [CW Productions](https://shop.cwproductions.net/products/daemonlust-death-the-heart-of-satan-lp) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29875&sort=pd.name&order=ASC) for $27.00
