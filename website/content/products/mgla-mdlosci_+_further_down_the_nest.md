@@ -4,7 +4,7 @@ album: Mdlosci + Further Down the Nest
 artist: Mgla
 categories:
 - Vinyl
-date: '2022-11-30T06:10:10'
+date: '2022-12-09T06:11:19'
 draft: false
 images:
 - /images/covers/mgla-mdlosci_+_further_down_the_nest.jpg
@@ -17,3 +17,4 @@ title: Mgla - Mdlosci + Further Down the Nest
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=27408&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=27446&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=27498&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29922&sort=pd.name&order=ASC) for $25.00

@@ -4,7 +4,7 @@ album: Behaft.Bekert
 artist: Erzfeynd
 categories:
 - CD
-date: '2022-11-30T06:10:32'
+date: '2022-12-09T06:14:03'
 draft: false
 images:
 - /images/covers/erzfeynd-behaft.bekert.jpg
@@ -15,3 +15,4 @@ title: Erzfeynd - Behaft.Bekert
 
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=28147&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=29886&sort=pd.name&order=ASC) for $15.00

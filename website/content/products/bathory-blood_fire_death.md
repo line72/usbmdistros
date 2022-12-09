@@ -5,7 +5,7 @@ artist: Bathory
 categories:
 - Vinyl
 - Cassette
-date: '2022-08-12T05:13:58'
+date: '2022-12-09T06:10:05'
 draft: false
 images:
 - /images/covers/bathory-blood_fire_death.jpg
@@ -22,6 +22,7 @@ title: Bathory - Blood Fire Death
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=22856&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=22971&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=23210&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29915&sort=pd.name&order=ASC) for $27.00
 ## Cassette
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=22477&sort=pd.name&order=ASC) for $15.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=24035&sort=pd.name&order=ASC) for $15.00

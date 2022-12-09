@@ -4,7 +4,7 @@ album: Ancient Spell of Darkness
 artist: Vindalf
 categories:
 - CD
-date: '2022-10-25T05:01:15'
+date: '2022-12-09T06:01:40'
 draft: false
 images:
 - /images/covers/vindalf-ancient_spell_of_darkness.jpg

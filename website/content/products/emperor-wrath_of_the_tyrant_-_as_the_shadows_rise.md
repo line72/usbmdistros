@@ -4,7 +4,7 @@ album: Wrath of the Tyrant / As the Shadows Rise
 artist: Emperor
 categories:
 - Vinyl
-date: '2022-11-24T06:10:23'
+date: '2022-12-09T06:10:37'
 draft: false
 images:
 - /images/covers/emperor-wrath_of_the_tyrant_-_as_the_shadows_rise.jpg
@@ -26,3 +26,4 @@ title: Emperor - Wrath of the Tyrant / As the Shadows Rise
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=26889&sort=pd.name&order=ASC) for $30.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=27254&sort=pd.name&order=ASC) for $30.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29364&sort=pd.name&order=ASC) for $24.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29919&sort=pd.name&order=ASC) for $30.00

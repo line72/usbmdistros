@@ -5,7 +5,7 @@ artist: Nahtrunar
 categories:
 - Vinyl
 - CD
-date: '2022-11-30T06:10:11'
+date: '2022-12-09T06:14:57'
 draft: false
 images:
 - /images/covers/nahtrunar-wolfsstunde.jpg
@@ -22,3 +22,4 @@ title: Nahtrunar - Wolfsstunde
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=25597&sort=pd.name&order=ASC) for $15.00
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/nahtrunar-wolfsstunde-cd) for $13.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=29943&sort=pd.name&order=ASC) for $15.00

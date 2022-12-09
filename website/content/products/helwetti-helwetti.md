@@ -5,7 +5,7 @@ artist: Helwetti
 categories:
 - Vinyl
 - CD
-date: '2022-12-07T06:13:15'
+date: '2022-12-09T06:14:23'
 draft: false
 images:
 - /images/covers/helwetti-helwetti.jpg
@@ -20,3 +20,4 @@ title: Helwetti - Helwetti
 * Purchase from [CW Productions](https://shop.cwproductions.net/products/helwetti-helwetti-cd) for $13.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=20119&sort=pd.name&order=ASC) for $15.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=29833&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=29928&sort=pd.name&order=ASC) for $15.00
