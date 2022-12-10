@@ -4,7 +4,7 @@ album: The Magus
 artist: Sadistik Exekution
 categories:
 - Vinyl
-date: '2022-07-01T05:09:56'
+date: '2022-12-10T06:11:44'
 draft: false
 images:
 - /images/covers/sadistik_exekution-the_magus.png
@@ -15,3 +15,4 @@ title: Sadistik Exekution - The Magus
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=25053&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29959&sort=pd.name&order=ASC) for $25.00

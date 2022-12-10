@@ -5,7 +5,7 @@ artist: Samael
 categories:
 - Vinyl
 - CD
-date: '2022-11-30T06:10:43'
+date: '2022-12-10T06:11:45'
 draft: false
 images:
 - /images/covers/samael-blood_ritual.jpg
@@ -19,6 +19,7 @@ title: Samael - Blood Ritual
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/samael-blood-ritual) for $25.00 :: Black 2020 press vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/samael-blood-ritual) for $27.00 :: Blue/Black Swirl 2021 press vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/samael-blood-ritual) for $27.00 :: Black/White Swirl 2020 press vinyl
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29964&sort=pd.name&order=ASC) for $25.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=18381&sort=pd.name&order=ASC) for $12.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=19081&sort=pd.name&order=ASC) for $12.00

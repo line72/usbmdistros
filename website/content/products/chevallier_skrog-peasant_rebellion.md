@@ -4,7 +4,7 @@ album: Peasant Rebellion
 artist: Chevallier Skrog
 categories:
 - Cassette
-date: '2022-12-03T06:01:10'
+date: '2022-12-10T06:01:29'
 draft: false
 images:
 - /images/covers/chevallier_skrog-peasant_rebellion.png
