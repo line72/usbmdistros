@@ -5,7 +5,7 @@ artist: Afsky
 categories:
 - Vinyl
 - CD
-date: '2022-08-10T14:12:50'
+date: '2022-12-11T06:22:05'
 draft: false
 images:
 - /images/covers/afsky-i_stilhed.jpg
@@ -16,5 +16,6 @@ title: Afsky - i stilhed
 
 ## Vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/afsky-i-stilhed-ep) for $20.00 :: Black w/ Printed B-Side 2022 press vinyl
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/afsky-i-stilhed-12-ep) for $20.00 :: Black w/ Printed B-Side 2022 press vinyl
 ## CD
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/afsky-i-stilhed-cd) for $10.00 :: CD 2022
