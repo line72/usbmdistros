@@ -6,7 +6,7 @@ categories:
 - Vinyl
 - Cassette
 - CD
-date: '2022-07-15T05:00:22'
+date: '2022-12-12T06:00:20'
 draft: false
 images:
 - /images/covers/wampyric_rites-demo_iv.jpg
@@ -19,6 +19,7 @@ title: Wampyric Rites - Demo IV
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/wampyric-rites-demo-iv-12-lp) for $35.00
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/wampyric-rites-demo-iv) for $45.00 :: Black 1st press vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/wampyric-rites-demo-iv) for $49.00 :: White/Black Merge 1st press vinyl
+* Purchase from [Sto'Vo'Kor Records](https://stovokor-records.com/products/wampyric-rites-demo-iv) for $30.00
 ## Cassette
 * Purchase from [Sto'Vo'Kor Records](https://stovokor-records.com/products/wampyric-rites-demo-iv-cassette) for $12.00
 ## CD

@@ -1,10 +1,10 @@
 ---
-actualPrice: $9.00
+actualPrice: $5.00
 album: Light The Fires
 artist: To The Dogs
 categories:
 - Cassette
-date: '2022-09-24T05:02:30'
+date: '2022-12-12T06:02:37'
 draft: false
 images:
 - /images/covers/to_the_dogs-light_the_fires.jpg
@@ -14,4 +14,4 @@ title: To The Dogs - Light The Fires
 ---
 
 ## Cassette
-* Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/36140452-to-the-dogs-light-the-fires) for $9.00
+* Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/36140452-to-the-dogs-light-the-fires) for $5.00

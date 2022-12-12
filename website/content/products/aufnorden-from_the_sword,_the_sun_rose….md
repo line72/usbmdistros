@@ -1,10 +1,11 @@
 ---
-actualPrice: $28.00 - 30.00
+actualPrice: $15.00 - 30.00
 album: "From the Sword, the Sun Rose\u2026"
 artist: Aufnorden
 categories:
 - Vinyl
-date: '2022-10-12T05:09:13'
+- Cassette
+date: '2022-12-12T06:16:10'
 draft: false
 images:
 - "/images/covers/aufnorden-from_the_sword,_the_sun_rose\u2026.jpg"
@@ -16,3 +17,5 @@ title: "Aufnorden - From the Sword, the Sun Rose\u2026"
 ## Vinyl
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/aufnorden-from-the-sword-the-sun-rose-12-lp) for $30.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=28334&sort=pd.name&order=ASC) for $28.00
+## Cassette
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=30087&sort=pd.name&order=ASC) for $15.00

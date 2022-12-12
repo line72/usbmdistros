@@ -5,7 +5,7 @@ artist: Profane Order
 categories:
 - Vinyl
 - CD
-date: '2022-11-30T06:10:13'
+date: '2022-12-12T06:15:19'
 draft: false
 images:
 - /images/covers/profane_order-slave_morality.jpg
@@ -19,3 +19,4 @@ title: Profane Order - Slave Morality
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/profane-order-slave-morality) for $25.00 :: Red 1st press vinyl
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=15395&sort=pd.name&order=ASC) for $7.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=30070&sort=pd.name&order=ASC) for $12.00
