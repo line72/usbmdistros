@@ -4,7 +4,7 @@ album: 'False'
 artist: Wake
 categories:
 - Vinyl
-date: '2022-10-15T05:20:28'
+date: '2022-12-13T06:22:56'
 draft: false
 images:
 - /images/covers/wake-false.jpg
@@ -15,3 +15,4 @@ title: Wake - False
 
 ## Vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/wake-false-lp) for $25.00 :: Black 2013 press vinyl
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/wake-false-lp-1) for $25.00 :: Black 2013 press vinyl
