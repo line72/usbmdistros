@@ -4,7 +4,7 @@ album: Carpathian Wolves
 artist: Graveland
 categories:
 - Vinyl
-date: '2022-11-30T06:10:05'
+date: '2022-12-15T06:11:11'
 draft: false
 images:
 - /images/covers/graveland-carpathian_wolves.jpg
@@ -17,3 +17,4 @@ title: Graveland - Carpathian Wolves
 * Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/graveland-carpathian-wolves-12-lp/) for $30.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29340&sort=pd.name&order=ASC) for $27.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29420&sort=pd.name&order=ASC) for $27.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=30099&sort=pd.name&order=ASC) for $27.00
