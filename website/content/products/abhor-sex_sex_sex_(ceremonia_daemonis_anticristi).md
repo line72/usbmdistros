@@ -5,7 +5,7 @@ artist: Abhor
 categories:
 - Vinyl
 - CD
-date: '2022-10-28T05:12:13'
+date: '2022-12-16T06:13:39'
 draft: false
 images:
 - /images/covers/abhor-sex_sex_sex_(ceremonia_daemonis_anticristi).png
@@ -20,3 +20,4 @@ title: Abhor - Sex Sex Sex (Ceremonia Daemonis Anticristi)
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=28072&sort=pd.name&order=ASC) for $12.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=28786&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=30106&sort=pd.name&order=ASC) for $12.00
