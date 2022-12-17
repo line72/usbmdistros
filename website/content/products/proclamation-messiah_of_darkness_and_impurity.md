@@ -4,8 +4,9 @@ album: Messiah of Darkness and Impurity
 artist: Proclamation
 categories:
 - Vinyl
+- Cassette
 - CD
-date: '2022-07-28T05:12:03'
+date: '2022-12-17T06:19:56'
 draft: false
 images:
 - /images/covers/proclamation-messiah_of_darkness_and_impurity.jpg
@@ -16,6 +17,8 @@ title: Proclamation - Messiah of Darkness and Impurity
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=11914&sort=pd.name&order=ASC) for $25.00
+## Cassette
+* Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/proclamation-messiah-of-darkness-and-impurity-cassette/) for $11.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=10208&sort=pd.name&order=ASC) for $12.00
 * Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/34143427-proclamation-messiah-of-darkness-and-impurity-cd) for $8.00
