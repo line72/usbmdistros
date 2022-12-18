@@ -1,10 +1,10 @@
 ---
-actualPrice: $5.00
+actualPrice: $5.00 - 8.00
 album: A Decade of Hate
 artist: Abyssic Hate
 categories:
 - Cassette
-date: '2021-09-17T05:08:49'
+date: '2022-12-18T06:18:32'
 draft: false
 images:
 - /images/covers/abyssic_hate-a_decade_of_hate.jpg
@@ -15,3 +15,4 @@ title: Abyssic Hate - A Decade of Hate
 
 ## Cassette
 * Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/abyssic-hate-a-decade-of-hate-cassette/) for $5.00
+* Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/abyssic-hate-a-decade-of-hate-cassette/) for $8.00
