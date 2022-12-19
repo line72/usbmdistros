@@ -4,7 +4,7 @@ album: Longing
 artist: Bell Witch
 categories:
 - Vinyl
-date: '2022-12-18T06:23:22'
+date: '2022-12-19T06:22:32'
 draft: false
 images:
 - /images/covers/bell_witch-longing.jpg
@@ -18,3 +18,5 @@ title: Bell Witch - Longing
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/bell-witch-longing-2xlp) for $60.00 :: Red 2013 press vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/bell-witch-longing-2xlp-2) for $60.00 :: Red 2013 press vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/bell-witch-longing-2xlp-1) for $65.00 :: Clear w/ Smoke 2018 press vinyl
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/bell-witch-longing-2xlp) for $35.00 :: Black 2022 press vinyl
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/bell-witch-longing-2xlp) for $35.00 :: Clear w/ Smoke 2018 press vinyl
