@@ -6,7 +6,7 @@ categories:
 - Vinyl
 - Cassette
 - CD
-date: '2022-12-12T06:14:30'
+date: '2022-12-27T06:11:08'
 draft: false
 images:
 - /images/covers/impaled_nazarene-tol_cormpt_norz_norz_norz....jpg
@@ -17,6 +17,7 @@ title: Impaled Nazarene - Tol Cormpt Norz Norz Norz...
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29960&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=30219&sort=pd.name&order=ASC) for $25.00
 ## Cassette
 * Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/36318436-impaled-nazarene-tol-cormpt-norz-norz-norz) for $11.00
 ## CD
