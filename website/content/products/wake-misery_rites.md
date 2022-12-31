@@ -5,7 +5,8 @@ artist: Wake
 categories:
 - Vinyl
 - Cassette
-date: '2022-12-24T06:24:57'
+- CD
+date: '2022-12-31T06:21:06'
 draft: false
 images:
 - /images/covers/wake-misery_rites.jpg
@@ -19,3 +20,5 @@ title: Wake - Misery Rites
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/wake-misery-rites-lp) for $20.00 :: Clear w/Black Color-In-Color w/ Splatter 2018 press vinyl (lim/200)
 ## Cassette
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/wake-misery-rites-cassettes) for $12.00 :: White Shell 2018 press
+## CD
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/wake-misery-rites-cd) for $12.00 :: CD 2018
