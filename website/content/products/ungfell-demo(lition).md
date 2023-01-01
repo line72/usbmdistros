@@ -4,7 +4,7 @@ album: Demo(lition)
 artist: Ungfell
 categories:
 - CD
-date: '2022-11-02T05:01:13'
+date: '2023-01-01T06:01:27'
 draft: false
 images:
 - /images/covers/ungfell-demo(lition).jpg

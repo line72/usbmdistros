@@ -5,7 +5,7 @@ artist: Circle of Ouroborus
 categories:
 - Vinyl
 - CD
-date: '2022-12-03T06:01:23'
+date: '2023-01-01T06:01:25'
 draft: false
 images:
 - /images/covers/circle_of_ouroborus-autuala.png
