@@ -4,7 +4,7 @@ album: Svartsyn
 artist: Khold
 categories:
 - Vinyl
-date: '2022-11-30T06:10:08'
+date: '2023-01-02T06:27:37'
 draft: false
 images:
 - /images/covers/khold-svartsyn.png
@@ -15,3 +15,4 @@ title: Khold - Svartsyn
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=24912&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=30287&sort=pd.name&order=ASC) for $25.00

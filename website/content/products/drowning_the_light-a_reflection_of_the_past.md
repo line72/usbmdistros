@@ -4,7 +4,7 @@ album: A Reflection of the Past
 artist: Drowning The Light
 categories:
 - CD
-date: '2022-12-09T06:01:36'
+date: '2023-01-02T06:01:39'
 draft: false
 images:
 - /images/covers/drowning_the_light-a_reflection_of_the_past.jpg
