@@ -4,7 +4,7 @@ album: What Once Was Beautiful
 artist: "Herm\xF3\xF0r"
 categories:
 - Vinyl
-date: '2022-11-30T06:10:06'
+date: '2023-01-03T06:11:09'
 draft: false
 images:
 - "/images/covers/herm\xF3\xF0r-what_once_was_beautiful.jpg"
@@ -15,3 +15,4 @@ title: "Herm\xF3\xF0r - What Once Was Beautiful"
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=25664&sort=pd.name&order=ASC) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=30305&sort=pd.name&order=ASC) for $30.00
