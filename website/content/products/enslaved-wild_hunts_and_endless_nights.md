@@ -4,7 +4,7 @@ album: Wild Hunts and Endless Nights
 artist: Enslaved
 categories:
 - Vinyl
-date: '2022-12-12T06:10:44'
+date: '2023-01-04T06:10:52'
 draft: false
 images:
 - /images/covers/enslaved-wild_hunts_and_endless_nights.jpg
@@ -20,3 +20,4 @@ title: Enslaved - Wild Hunts and Endless Nights
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=25340&sort=pd.name&order=ASC) for $35.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=25861&sort=pd.name&order=ASC) for $35.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=30086&sort=pd.name&order=ASC) for $35.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=30312&sort=pd.name&order=ASC) for $35.00

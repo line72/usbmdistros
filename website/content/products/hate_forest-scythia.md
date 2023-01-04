@@ -6,7 +6,7 @@ categories:
 - Vinyl
 - Cassette
 - CD
-date: '2022-07-01T05:09:09'
+date: '2023-01-04T06:11:08'
 draft: false
 images:
 - /images/covers/hate_forest-scythia.jpg
@@ -19,6 +19,7 @@ title: Hate Forest - Scythia
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/hate-forest-scythia-12) for $25.00 :: Swamp Green 2021 press vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=25004&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=25061&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=30307&sort=pd.name&order=ASC) for $25.00
 ## Cassette
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=17215&sort=pd.name&order=ASC) for $10.00
 ## CD

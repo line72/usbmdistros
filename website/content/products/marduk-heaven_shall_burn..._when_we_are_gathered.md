@@ -5,7 +5,7 @@ artist: Marduk
 categories:
 - Vinyl
 - CD
-date: '2022-11-30T06:10:39'
+date: '2023-01-04T06:11:31'
 draft: false
 images:
 - /images/covers/marduk-heaven_shall_burn..._when_we_are_gathered.jpg
@@ -18,5 +18,6 @@ title: Marduk - Heaven Shall Burn... When we are Gathered
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=13589&sort=pd.name&order=ASC) for $15.40
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=24551&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=24981&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=30317&sort=pd.name&order=ASC) for $25.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=25013&sort=pd.name&order=ASC) for $12.00

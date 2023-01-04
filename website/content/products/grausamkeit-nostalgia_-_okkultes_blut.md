@@ -4,7 +4,7 @@ album: Nostalgia / Okkultes Blut
 artist: Grausamkeit
 categories:
 - Vinyl
-date: '2022-12-29T06:00:56'
+date: '2023-01-04T06:00:55'
 draft: false
 images:
 - /images/covers/grausamkeit-nostalgia_-_okkultes_blut.jpg

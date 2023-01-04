@@ -5,7 +5,7 @@ artist: Wampyric Rites
 categories:
 - Vinyl
 - CD
-date: '2022-06-18T05:00:24'
+date: '2023-01-04T06:01:04'
 draft: false
 images:
 - /images/covers/wampyric_rites-the_eternal_melancholy_of_the_wampyre.jpg
