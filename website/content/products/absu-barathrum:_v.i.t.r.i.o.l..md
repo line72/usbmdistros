@@ -5,7 +5,7 @@ artist: Absu
 categories:
 - Vinyl
 - Cassette
-date: '2021-11-17T06:10:46'
+date: '2023-01-05T06:11:07'
 draft: false
 images:
 - /images/covers/absu-barathrum:_v.i.t.r.i.o.l..jpg
@@ -16,5 +16,6 @@ title: 'Absu - Barathrum: V.I.T.R.I.O.L.'
 
 ## Vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/absu-barathrum-vitriol) for $25.00 :: Black 2020 press vinyl
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=30331&sort=pd.name&order=ASC) for $25.00
 ## Cassette
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/absu-barathrum-v-i-t-r-i-o-l-cassette) for $14.00 :: Cassette Tape 2021 press

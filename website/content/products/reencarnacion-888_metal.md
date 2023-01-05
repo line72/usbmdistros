@@ -5,7 +5,7 @@ artist: Reencarnacion
 categories:
 - Vinyl
 - CD
-date: '2022-11-30T06:10:15'
+date: '2023-01-05T06:13:15'
 draft: false
 images:
 - /images/covers/reencarnacion-888_metal.jpg
@@ -20,6 +20,7 @@ title: Reencarnacion - 888 Metal
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=9248&sort=pd.name&order=ASC) for $45.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=24017&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29045&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=30320&sort=pd.name&order=ASC) for $30.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=2290&sort=pd.name&order=ASC) for $4.50
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=10385&sort=pd.name&order=ASC) for $17.00
