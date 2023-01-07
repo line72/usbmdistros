@@ -4,7 +4,7 @@ album: Vampiric Wrath Unleashed
 artist: Order of Nosferat
 categories:
 - CD
-date: '2022-12-31T06:01:36'
+date: '2023-01-07T06:01:39'
 draft: false
 images:
 - /images/covers/order_of_nosferat-vampiric_wrath_unleashed.jpg

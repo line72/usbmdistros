@@ -5,7 +5,7 @@ artist: Nansarunai
 categories:
 - Vinyl
 - CD
-date: '2022-12-02T06:00:43'
+date: '2023-01-07T06:00:56'
 draft: false
 images:
 - /images/covers/nansarunai-ultimul_rege.jpg

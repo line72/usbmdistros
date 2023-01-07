@@ -4,7 +4,7 @@ album: Ominous Secretions of the Infernal Gangrene
 artist: Virulent Specter
 categories:
 - Cassette
-date: '2022-09-13T05:01:09'
+date: '2023-01-07T06:01:28'
 draft: false
 images:
 - /images/covers/virulent_specter-ominous_secretions_of_the_infernal_gangrene.jpg

@@ -5,7 +5,7 @@ artist: Circle of Ouroborus
 categories:
 - Vinyl
 - CD
-date: '2023-01-01T06:01:25'
+date: '2023-01-07T06:00:54'
 draft: false
 images:
 - /images/covers/circle_of_ouroborus-autuala.png
@@ -18,6 +18,7 @@ title: Circle of Ouroborus - Autuala
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/circle-of-ouroborus-autuala-12-lp) for $26.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=28968&sort=pd.name&order=ASC) for $27.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29267&sort=pd.name&order=ASC) for $27.00
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/circle-of-ouroborus-autuala-12-lp) for $26.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=29268&sort=pd.name&order=ASC) for $12.00
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/circle-of-ouroborus-autuala-cd) for $14.00

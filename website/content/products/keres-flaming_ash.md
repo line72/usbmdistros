@@ -5,7 +5,7 @@ artist: Keres
 categories:
 - Vinyl
 - CD
-date: '2022-11-30T06:10:07'
+date: '2023-01-07T06:11:31'
 draft: false
 images:
 - /images/covers/keres-flaming_ash.jpg
@@ -18,5 +18,6 @@ title: Keres - Flaming Ash
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=22319&sort=pd.name&order=ASC) for $27.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=27510&sort=pd.name&order=ASC) for $27.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29612&sort=pd.name&order=ASC) for $27.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=30397&sort=pd.name&order=ASC) for $27.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=17494&sort=pd.name&order=ASC) for $15.00

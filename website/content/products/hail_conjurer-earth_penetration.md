@@ -4,7 +4,7 @@ album: Earth Penetration
 artist: Hail Conjurer
 categories:
 - Cassette
-date: '2022-10-25T05:01:04'
+date: '2023-01-07T06:01:27'
 draft: false
 images:
 - /images/covers/hail_conjurer-earth_penetration.jpg

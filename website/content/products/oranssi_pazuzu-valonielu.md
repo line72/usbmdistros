@@ -1,10 +1,11 @@
 ---
-actualPrice: $32.00
+actualPrice: $15.00 - 32.00
 album: Valonielu
 artist: Oranssi Pazuzu
 categories:
 - Vinyl
-date: '2022-07-19T15:46:19'
+- CD
+date: '2023-01-06T06:23:36'
 draft: false
 images:
 - /images/covers/oranssi_pazuzu-valonielu.jpg
@@ -15,3 +16,5 @@ title: Oranssi Pazuzu - Valonielu
 
 ## Vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/oranssi-pazuzu-valonielu-lp) for $32.00 :: Black 2022 press vinyl
+## CD
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/oranssi-pazuzu-valonielu-cd) for $15.00 :: CD 2022
