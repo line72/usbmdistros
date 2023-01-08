@@ -5,7 +5,7 @@ artist: Emperor
 categories:
 - Vinyl
 - Cassette
-date: '2022-12-20T06:10:53'
+date: '2023-01-08T06:10:54'
 draft: false
 images:
 - /images/covers/emperor-emperor.jpg
@@ -24,5 +24,6 @@ title: Emperor - Emperor
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29363&sort=pd.name&order=ASC) for $30.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29918&sort=pd.name&order=ASC) for $30.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=30156&sort=pd.name&order=ASC) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=30416&sort=pd.name&order=ASC) for $30.00
 ## Cassette
 * Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/emperor-emperor-cassette/) for $11.00

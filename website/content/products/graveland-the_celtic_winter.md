@@ -1,10 +1,11 @@
 ---
-actualPrice: $18.00
+actualPrice: $10.00 - 18.00
 album: The Celtic Winter
 artist: Graveland
 categories:
 - Vinyl
-date: '2021-09-20T05:12:28'
+- CD
+date: '2023-01-08T06:27:29'
 draft: false
 images:
 - /images/covers/graveland-the_celtic_winter.jpg
@@ -15,3 +16,5 @@ title: Graveland - The Celtic Winter
 
 ## Vinyl
 * Purchase from [CW Productions](https://shop.cwproductions.net/products/graveland-the-celtic-winter-lp) for $18.00
+## CD
+* Purchase from [CW Productions](https://shop.cwproductions.net/products/graveland-the-celtic-winter-cd) for $10.00
