@@ -4,7 +4,7 @@ album: "Fire Turns Everything Black\u2026 / Devourer of Souls"
 artist: Summon
 categories:
 - Vinyl
-date: '2022-11-24T06:10:36'
+date: '2023-01-09T06:15:25'
 draft: false
 images:
 - "/images/covers/summon-fire_turns_everything_black\u2026_-_devourer_of_souls.jpg"
@@ -18,3 +18,4 @@ title: "Summon - Fire Turns Everything Black\u2026 / Devourer of Souls"
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29238&sort=pd.name&order=ASC) for $25.00
 * Purchase from [CW Productions](https://shop.cwproductions.net/products/summon-fire-turns-everything-black-devourer-of-souls-lp) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29461&sort=pd.name&order=ASC) for $16.25
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=30474&sort=pd.name&order=ASC) for $25.00
