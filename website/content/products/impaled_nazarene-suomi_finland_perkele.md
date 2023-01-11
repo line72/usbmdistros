@@ -5,7 +5,7 @@ artist: Impaled Nazarene
 categories:
 - Vinyl
 - Cassette
-date: '2023-01-05T06:12:17'
+date: '2023-01-10T06:11:34'
 draft: false
 images:
 - /images/covers/impaled_nazarene-suomi_finland_perkele.jpg
@@ -20,5 +20,6 @@ title: Impaled Nazarene - Suomi Finland Perkele
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=24979&sort=pd.name&order=ASC) for $25.00
 * Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/impaled-nazarene-suomi-finland-perkele-12-gatefold-clear-black-marble-lp/) for $20.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=30329&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=30480&sort=pd.name&order=ASC) for $25.00
 ## Cassette
 * Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/36318445-impaled-nazarene-suomi-finland-perkele) for $11.00

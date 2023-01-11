@@ -5,7 +5,7 @@ artist: Doomsayer
 categories:
 - Vinyl
 - CD
-date: '2022-12-19T06:02:35'
+date: '2023-01-11T06:11:47'
 draft: false
 images:
 - /images/covers/doomsayer-awake_in_darkness.png
@@ -17,7 +17,7 @@ title: Doomsayer - Awake in Darkness
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=28495&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=28957&sort=pd.name&order=ASC) for $25.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29641&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29641&sort=pd.name&order=ASC) for $16.25
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=28901&sort=pd.name&order=ASC) for $10.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=28956&sort=pd.name&order=ASC) for $10.00

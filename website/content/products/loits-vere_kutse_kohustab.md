@@ -1,10 +1,10 @@
 ---
-actualPrice: $17.00
+actualPrice: $11.05 - 17.00
 album: Vere Kutse Kohustab
 artist: Loits
 categories:
 - Vinyl
-date: '2022-11-30T06:10:08'
+date: '2023-01-11T06:12:26'
 draft: false
 images:
 - /images/covers/loits-vere_kutse_kohustab.jpg
@@ -15,4 +15,4 @@ title: Loits - Vere Kutse Kohustab
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=6572&sort=pd.name&order=ASC) for $17.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=21374&sort=pd.name&order=ASC) for $17.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=21374&sort=pd.name&order=ASC) for $11.05

@@ -1,10 +1,10 @@
 ---
-actualPrice: $10.00
+actualPrice: $6.50
 album: "Compendium Melificarum \u2013 Esoterica"
 artist: Ill Omen
 categories:
 - CD
-date: '2022-11-30T06:10:36'
+date: '2023-01-11T06:16:00'
 draft: false
 images:
 - "/images/covers/ill_omen-compendium_melificarum_\u2013_esoterica.jpg"
@@ -14,4 +14,4 @@ title: "Ill Omen - Compendium Melificarum \u2013 Esoterica"
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=10600&sort=pd.name&order=ASC) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=10600&sort=pd.name&order=ASC) for $6.50

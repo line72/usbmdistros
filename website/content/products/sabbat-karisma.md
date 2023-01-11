@@ -1,12 +1,12 @@
 ---
-actualPrice: $5.60 - 50.00
+actualPrice: $5.20 - 50.00
 album: Karisma
 artist: Sabbat
 categories:
 - Vinyl
 - Cassette
 - CD
-date: '2022-11-30T06:10:57'
+date: '2023-01-11T06:18:55'
 draft: false
 images:
 - /images/covers/sabbat-karisma.png
@@ -26,9 +26,9 @@ title: Sabbat - Karisma
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=16476&sort=pd.name&order=ASC) for $8.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=17856&sort=pd.name&order=ASC) for $8.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=19427&sort=pd.name&order=ASC) for $5.60
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=26425&sort=pd.name&order=ASC) for $8.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=26425&sort=pd.name&order=ASC) for $5.20
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=14339&sort=pd.name&order=ASC) for $10.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=17854&sort=pd.name&order=ASC) for $10.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=19426&sort=pd.name&order=ASC) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=19426&sort=pd.name&order=ASC) for $6.50
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=25044&sort=pd.name&order=ASC) for $12.00

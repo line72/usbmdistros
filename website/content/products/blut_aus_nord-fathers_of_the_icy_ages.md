@@ -4,7 +4,7 @@ album: Fathers Of The Icy Ages
 artist: Blut Aus Nord
 categories:
 - Vinyl
-date: '2022-11-30T06:10:00'
+date: '2023-01-11T06:11:28'
 draft: false
 images:
 - /images/covers/blut_aus_nord-fathers_of_the_icy_ages.jpg
@@ -18,3 +18,4 @@ title: Blut Aus Nord - Fathers Of The Icy Ages
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=19015&sort=pd.name&order=ASC) for $30.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=28713&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29539&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=30507&sort=pd.name&order=ASC) for $25.00

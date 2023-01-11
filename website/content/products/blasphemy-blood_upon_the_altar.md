@@ -1,10 +1,10 @@
 ---
-actualPrice: $9.00 - 12.00
+actualPrice: $7.80 - 12.00
 album: Blood Upon the Altar
 artist: Blasphemy
 categories:
 - Cassette
-date: '2022-11-30T06:10:50'
+date: '2023-01-11T06:17:58'
 draft: false
 images:
 - /images/covers/blasphemy-blood_upon_the_altar.png
@@ -18,4 +18,4 @@ title: Blasphemy - Blood Upon the Altar
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=21116&sort=pd.name&order=ASC) for $10.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=25480&sort=pd.name&order=ASC) for $10.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=26000&sort=pd.name&order=ASC) for $12.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=27536&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=27536&sort=pd.name&order=ASC) for $7.80

@@ -4,7 +4,7 @@ album: Pact
 artist: Exterminate
 categories:
 - Vinyl
-date: '2022-11-30T06:10:23'
+date: '2023-01-11T06:14:18'
 draft: false
 images:
 - /images/covers/exterminate-pact.jpg
@@ -18,4 +18,4 @@ title: Exterminate - Pact
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=10739&sort=pd.name&order=ASC) for $10.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=26359&sort=pd.name&order=ASC) for $8.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=26360&sort=pd.name&order=ASC) for $12.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=26361&sort=pd.name&order=ASC) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=26361&sort=pd.name&order=ASC) for $6.50

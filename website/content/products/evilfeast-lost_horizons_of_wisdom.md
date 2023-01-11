@@ -4,7 +4,7 @@ album: Lost Horizons of Wisdom
 artist: Evilfeast
 categories:
 - Vinyl
-date: '2022-11-30T06:10:04'
+date: '2023-01-10T06:11:15'
 draft: false
 images:
 - /images/covers/evilfeast-lost_horizons_of_wisdom.jpg
@@ -22,3 +22,4 @@ title: Evilfeast - Lost Horizons of Wisdom
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=25304&sort=pd.name&order=ASC) for $30.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=27673&sort=pd.name&order=ASC) for $30.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=28096&sort=pd.name&order=ASC) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=30477&sort=pd.name&order=ASC) for $30.00

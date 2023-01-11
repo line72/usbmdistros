@@ -1,11 +1,11 @@
 ---
-actualPrice: $10.00 - 20.00
+actualPrice: $6.50 - 20.00
 album: Aleister Crowley
 artist: Mystifier
 categories:
 - Vinyl
 - CD
-date: '2022-11-30T06:10:40'
+date: '2023-01-11T06:16:30'
 draft: false
 images:
 - /images/covers/mystifier-aleister_crowley.jpg
@@ -19,4 +19,4 @@ title: Mystifier - Aleister Crowley
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=15233&sort=pd.name&order=ASC) for $10.00
 * Purchase from [CW Productions](https://shop.cwproductions.net/products/mystifier-aleister-crowley-cd) for $10.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=23922&sort=pd.name&order=ASC) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=23922&sort=pd.name&order=ASC) for $6.50

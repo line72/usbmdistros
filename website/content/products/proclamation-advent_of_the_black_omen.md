@@ -1,12 +1,12 @@
 ---
-actualPrice: $9.00 - 25.00
+actualPrice: $9.00 - 16.25
 album: Advent of the Black Omen
 artist: Proclamation
 categories:
 - Vinyl
 - Cassette
 - CD
-date: '2022-12-17T06:19:56'
+date: '2023-01-11T06:13:04'
 draft: false
 images:
 - /images/covers/proclamation-advent_of_the_black_omen.jpg
@@ -16,7 +16,7 @@ title: Proclamation - Advent of the Black Omen
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=11913&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=11913&sort=pd.name&order=ASC) for $16.25
 ## Cassette
 * Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/proclamation-advent-of-the-black-omen-cassette/) for $11.00
 ## CD

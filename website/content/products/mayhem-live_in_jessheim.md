@@ -4,7 +4,7 @@ album: Live in Jessheim
 artist: Mayhem
 categories:
 - Vinyl
-date: '2022-11-30T06:10:09'
+date: '2023-01-11T06:12:34'
 draft: false
 images:
 - /images/covers/mayhem-live_in_jessheim.jpg
@@ -23,3 +23,4 @@ title: Mayhem - Live in Jessheim
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=26479&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=27316&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29394&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=30495&sort=pd.name&order=ASC) for $25.00
