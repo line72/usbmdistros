@@ -6,7 +6,7 @@ categories:
 - Vinyl
 - Cassette
 - CD
-date: '2023-01-11T06:11:41'
+date: '2023-01-12T06:10:52'
 draft: false
 images:
 - /images/covers/death_worship-extermination_mass.jpg
@@ -17,7 +17,7 @@ title: Death Worship - Extermination Mass
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=11673&sort=pd.name&order=ASC) for $20.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=23981&sort=pd.name&order=ASC) for $13.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=23981&sort=pd.name&order=ASC) for $20.00
 ## Cassette
 * Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/death-worship-extermination-mass-cassette/) for $8.00
 * Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/36169603-death-worship-extermination-mass) for $4.00

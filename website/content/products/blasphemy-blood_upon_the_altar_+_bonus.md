@@ -1,10 +1,10 @@
 ---
-actualPrice: $7.80 - 12.00
+actualPrice: $12.00
 album: Blood Upon the Altar + Bonus
 artist: Blasphemy
 categories:
 - CD
-date: '2023-01-11T06:15:06'
+date: '2023-01-12T06:14:04'
 draft: false
 images:
 - /images/covers/blasphemy-blood_upon_the_altar_+_bonus.jpg
@@ -18,4 +18,4 @@ title: Blasphemy - Blood Upon the Altar + Bonus
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=27701&sort=pd.name&order=ASC) for $12.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=27861&sort=pd.name&order=ASC) for $12.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=28379&sort=pd.name&order=ASC) for $12.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=28500&sort=pd.name&order=ASC) for $7.80
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=28500&sort=pd.name&order=ASC) for $12.00

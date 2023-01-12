@@ -4,7 +4,7 @@ album: Calamities
 artist: Scourge Lair
 categories:
 - Vinyl
-date: '2023-01-11T06:13:16'
+date: '2023-01-12T06:12:17'
 draft: false
 images:
 - /images/covers/scourge_lair-calamities.jpg
@@ -20,4 +20,4 @@ title: Scourge Lair - Calamities
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=22959&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=23336&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=24146&sort=pd.name&order=ASC) for $16.25
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29735&sort=pd.name&order=ASC) for $16.25
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29735&sort=pd.name&order=ASC) for $25.00

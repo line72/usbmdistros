@@ -5,7 +5,7 @@ artist: Nattverd
 categories:
 - Vinyl
 - CD
-date: '2022-11-30T06:10:11'
+date: '2023-01-12T06:11:52'
 draft: false
 images:
 - "/images/covers/nattverd-vi_vet_gud_er_en_l\xF8gner.jpg"
@@ -16,5 +16,6 @@ title: "Nattverd - Vi Vet Gud Er En L\xF8gner"
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=22008&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=30525&sort=pd.name&order=ASC) for $25.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=3582&sort=pd.name&order=ASC) for $7.50

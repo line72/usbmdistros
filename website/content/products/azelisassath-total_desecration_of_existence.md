@@ -4,7 +4,7 @@ album: Total Desecration Of Existence
 artist: Azelisassath
 categories:
 - Vinyl
-date: '2022-11-30T06:09:59'
+date: '2023-01-12T06:10:27'
 draft: false
 images:
 - /images/covers/azelisassath-total_desecration_of_existence.jpg
@@ -20,3 +20,4 @@ title: Azelisassath - Total Desecration Of Existence
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=28961&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29285&sort=pd.name&order=ASC) for $20.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29770&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=30518&sort=pd.name&order=ASC) for $25.00

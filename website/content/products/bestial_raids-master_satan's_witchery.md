@@ -1,10 +1,10 @@
 ---
-actualPrice: $13.00
+actualPrice: $20.00
 album: Master Satan's Witchery
 artist: Bestial Raids
 categories:
 - Vinyl
-date: '2023-01-11T06:11:22'
+date: '2023-01-12T06:10:31'
 draft: false
 images:
 - /images/covers/bestial_raids-master_satan's_witchery.jpg
@@ -14,4 +14,4 @@ title: Bestial Raids - Master Satan's Witchery
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=28679&sort=pd.name&order=ASC) for $13.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=28679&sort=pd.name&order=ASC) for $20.00

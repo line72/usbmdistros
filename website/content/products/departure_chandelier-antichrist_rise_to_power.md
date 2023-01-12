@@ -5,7 +5,7 @@ artist: Departure Chandelier
 categories:
 - Vinyl
 - CD
-date: '2023-01-11T06:11:43'
+date: '2023-01-12T06:10:54'
 draft: false
 images:
 - /images/covers/departure_chandelier-antichrist_rise_to_power.jpg
@@ -20,7 +20,7 @@ title: Departure Chandelier - Antichrist Rise To Power
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29620&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29826&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29947&sort=pd.name&order=ASC) for $25.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=30259&sort=pd.name&order=ASC) for $16.25
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=30259&sort=pd.name&order=ASC) for $25.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=6811&sort=pd.name&order=ASC) for $10.00
 * Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/33512194-departure-chandelier-antichrist-rise-to-power-cd) for $11.50

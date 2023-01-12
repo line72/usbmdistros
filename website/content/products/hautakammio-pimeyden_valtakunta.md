@@ -4,7 +4,7 @@ album: Pimeyden Valtakunta
 artist: Hautakammio
 categories:
 - Vinyl
-date: '2022-11-30T06:10:06'
+date: '2023-01-12T06:11:18'
 draft: false
 images:
 - /images/covers/hautakammio-pimeyden_valtakunta.jpg
@@ -18,3 +18,4 @@ title: Hautakammio - Pimeyden Valtakunta
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=3203&sort=pd.name&order=ASC) for $20.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=16624&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=22020&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=30522&sort=pd.name&order=ASC) for $25.00

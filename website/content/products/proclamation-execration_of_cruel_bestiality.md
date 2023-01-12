@@ -6,7 +6,7 @@ categories:
 - Vinyl
 - Cassette
 - CD
-date: '2023-01-11T06:16:51'
+date: '2023-01-12T06:15:49'
 draft: false
 images:
 - /images/covers/proclamation-execration_of_cruel_bestiality.jpg
@@ -22,4 +22,4 @@ title: Proclamation - Execration Of Cruel Bestiality
 * Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/34143352-proclamation-execration-of-cruel-bestiality) for $6.00
 * Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/proclamation-execration-of-cruel-bestiality-cassette/) for $11.00
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=10210&sort=pd.name&order=ASC) for $7.80
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=10210&sort=pd.name&order=ASC) for $12.00

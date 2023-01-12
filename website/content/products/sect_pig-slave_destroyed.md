@@ -1,12 +1,12 @@
 ---
-actualPrice: $3.25 - 11.05
+actualPrice: $5.00 - 11.05
 album: Slave Destroyed
 artist: Sect Pig
 categories:
 - Vinyl
 - Cassette
 - CD
-date: '2023-01-11T06:17:04'
+date: '2023-01-12T06:16:03'
 draft: false
 images:
 - /images/covers/sect_pig-slave_destroyed.jpg
@@ -22,4 +22,4 @@ title: Sect Pig - Slave Destroyed
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=4870&sort=pd.name&order=ASC) for $8.00
 * Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/sect-pig-slave-destroyed-cd/) for $8.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=25643&sort=pd.name&order=ASC) for $3.25
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=25643&sort=pd.name&order=ASC) for $5.00
