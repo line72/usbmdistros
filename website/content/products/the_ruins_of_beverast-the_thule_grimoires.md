@@ -4,7 +4,7 @@ album: The Thule Grimoires
 artist: The Ruins Of Beverast
 categories:
 - Vinyl
-date: '2021-11-30T13:35:27'
+date: '2023-01-13T06:12:43'
 draft: false
 images:
 - /images/covers/the_ruins_of_beverast-the_thule_grimoires.jpg
@@ -22,3 +22,4 @@ title: The Ruins Of Beverast - The Thule Grimoires
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/the-ruins-of-beverast-the-thule-grimoires-2xlp-1) for $35.00 :: Red w/ Black Splatter 2nd press vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=18421&sort=pd.name&order=ASC) for $30.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=19309&sort=pd.name&order=ASC) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=30542&sort=pd.name&order=ASC) for $30.00

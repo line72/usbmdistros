@@ -5,7 +5,7 @@ artist: Faustian Spirit
 categories:
 - Vinyl
 - CD
-date: '2022-11-18T06:00:41'
+date: '2023-01-13T06:00:48'
 draft: false
 images:
 - /images/covers/faustian_spirit-blessed_by_the_wings_of_eternity.jpg

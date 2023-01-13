@@ -5,7 +5,7 @@ artist: Stormkeep
 categories:
 - Vinyl
 - CD
-date: '2022-12-08T06:10:55'
+date: '2023-01-13T06:16:24'
 draft: false
 images:
 - /images/covers/stormkeep-galdrum.jpg
@@ -18,6 +18,7 @@ title: Stormkeep - Galdrum
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/stormkeep-galdrum) for $29.00 :: Grey Marbled 2021 press vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/stormkeep-galdrum-lp) for $29.00 :: Grey Marbled 2021 press vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29842&sort=pd.name&order=ASC) for $28.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=30547&sort=pd.name&order=ASC) for $28.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=21643&sort=pd.name&order=ASC) for $15.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=22332&sort=pd.name&order=ASC) for $15.00
@@ -25,3 +26,4 @@ title: Stormkeep - Galdrum
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/stormkeep-galdrum-cd) for $16.00 :: CD 2020 press
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=24830&sort=pd.name&order=ASC) for $15.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=24935&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=30548&sort=pd.name&order=ASC) for $15.00

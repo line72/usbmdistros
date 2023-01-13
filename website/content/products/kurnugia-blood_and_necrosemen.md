@@ -1,10 +1,10 @@
 ---
-actualPrice: $25.00
+actualPrice: $24.00 - 25.00
 album: Blood and Necrosemen
 artist: Kurnugia
 categories:
 - Vinyl
-date: '2022-12-24T06:13:01'
+date: '2023-01-13T06:00:43'
 draft: false
 images:
 - /images/covers/kurnugia-blood_and_necrosemen.jpg
@@ -16,3 +16,4 @@ title: Kurnugia - Blood and Necrosemen
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29991&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=30191&sort=pd.name&order=ASC) for $25.00
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/kurnugia-blood-and-necrosemen-12-lp) for $24.00

@@ -4,7 +4,7 @@ album: Das Schwert der Sterne
 artist: Vampyric Tyrant
 categories:
 - CD
-date: '2022-12-31T06:01:36'
+date: '2023-01-13T06:01:28'
 draft: false
 images:
 - /images/covers/vampyric_tyrant-das_schwert_der_sterne.jpg

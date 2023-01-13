@@ -4,7 +4,7 @@ album: Foulest Semen Of A Sheltered Elite
 artist: The Ruins Of Beverast
 categories:
 - Vinyl
-date: '2022-02-23T06:08:22'
+date: '2023-01-13T06:12:43'
 draft: false
 images:
 - /images/covers/the_ruins_of_beverast-foulest_semen_of_a_sheltered_elite.png
@@ -22,3 +22,4 @@ title: The Ruins Of Beverast - Foulest Semen Of A Sheltered Elite
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=18419&sort=pd.name&order=ASC) for $30.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=19307&sort=pd.name&order=ASC) for $30.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=20981&sort=pd.name&order=ASC) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=30541&sort=pd.name&order=ASC) for $30.00
