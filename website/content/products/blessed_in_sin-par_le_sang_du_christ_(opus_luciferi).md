@@ -4,7 +4,7 @@ album: Par le Sang du Christ (Opus Luciferi)
 artist: Blessed in Sin
 categories:
 - Vinyl
-date: '2023-01-07T06:10:34'
+date: '2023-01-17T06:10:49'
 draft: false
 images:
 - /images/covers/blessed_in_sin-par_le_sang_du_christ_(opus_luciferi).jpg
@@ -15,3 +15,4 @@ title: Blessed in Sin - Par le Sang du Christ (Opus Luciferi)
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=30405&sort=pd.name&order=ASC) for $33.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=30676&sort=pd.name&order=ASC) for $33.00

@@ -1,10 +1,10 @@
 ---
-actualPrice: $7.00
+actualPrice: $4.00
 album: Labyrinthus Infernales
 artist: Veneraxiom
 categories:
 - Cassette
-date: '2021-12-20T06:01:28'
+date: '2023-01-17T06:03:37'
 draft: false
 images:
 - /images/covers/veneraxiom-labyrinthus_infernales.jpg
@@ -14,4 +14,4 @@ title: Veneraxiom - Labyrinthus Infernales
 ---
 
 ## Cassette
-* Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/33010105-veneraxiom-labyrinthus-infernales) for $7.00
+* Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/33010105-veneraxiom-labyrinthus-infernales) for $4.00

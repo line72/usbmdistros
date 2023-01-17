@@ -5,7 +5,7 @@ artist: Hellmoon
 categories:
 - Vinyl
 - CD
-date: '2023-01-12T06:11:20'
+date: '2023-01-17T06:00:57'
 draft: false
 images:
 - /images/covers/hellmoon-undying_blackened_glory.jpg

@@ -4,7 +4,7 @@ album: Satans Conjuration
 artist: Sodom
 categories:
 - CD
-date: '2022-11-30T06:10:44'
+date: '2023-01-17T06:16:44'
 draft: false
 images:
 - /images/covers/sodom-satans_conjuration.jpg
@@ -15,3 +15,4 @@ title: Sodom - Satans Conjuration
 
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=21057&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=30615&sort=pd.name&order=ASC) for $12.00

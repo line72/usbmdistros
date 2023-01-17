@@ -6,7 +6,7 @@ artist: "\u0100tesh"
 categories:
 - Vinyl
 - CD
-date: '2022-05-07T05:00:31'
+date: '2023-01-17T06:01:39'
 draft: false
 images:
 - "/images/covers/\u0101tesh-\u0645\u0647\u0631\u062A_\u0627\u0632_\u062F\u0644_\u06A9\
@@ -23,3 +23,4 @@ title: "\u0100tesh - \u0645\u0647\u0631\u062A \u0627\u0632 \u062F\u0644 \u06A9\u
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/atesh-lp-1) for $29.00
 ## CD
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/atesh-cd) for $15.00
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/atesh-digi-cd) for $15.00

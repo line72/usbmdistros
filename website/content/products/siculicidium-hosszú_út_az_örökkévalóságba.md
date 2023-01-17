@@ -4,7 +4,7 @@ album: "Hossz\xFA \xDAt Az \xD6r\xF6kk\xE9val\xF3s\xE1gba"
 artist: Siculicidium
 categories:
 - CD
-date: '2022-11-30T06:10:44'
+date: '2023-01-17T06:16:41'
 draft: false
 images:
 - "/images/covers/siculicidium-hossz\xFA_\xFAt_az_\xF6r\xF6kk\xE9val\xF3s\xE1gba.jpg"
@@ -16,3 +16,4 @@ title: "Siculicidium - Hossz\xFA \xDAt Az \xD6r\xF6kk\xE9val\xF3s\xE1gba"
 
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=21162&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=30574&sort=pd.name&order=ASC) for $12.00

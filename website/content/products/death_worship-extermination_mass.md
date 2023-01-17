@@ -6,7 +6,7 @@ categories:
 - Vinyl
 - Cassette
 - CD
-date: '2023-01-12T06:10:52'
+date: '2023-01-17T06:19:29'
 draft: false
 images:
 - /images/covers/death_worship-extermination_mass.jpg
@@ -23,3 +23,4 @@ title: Death Worship - Extermination Mass
 * Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/36169603-death-worship-extermination-mass) for $4.00
 ## CD
 * Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/death-worship-extermination-mass-cd/) for $8.00
+* Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/death-worship-extermination-mass-cd/) for $10.00

@@ -5,7 +5,7 @@ artist: Nahtrunar
 categories:
 - Vinyl
 - CD
-date: '2022-12-09T06:14:57'
+date: '2023-01-17T06:01:44'
 draft: false
 images:
 - /images/covers/nahtrunar-wolfsstunde.jpg
