@@ -5,7 +5,7 @@ artist: Mayhem
 categories:
 - Vinyl
 - CD
-date: '2023-01-11T06:12:34'
+date: '2023-01-18T06:11:40'
 draft: false
 images:
 - /images/covers/mayhem-dawn_of_the_black_hearts.jpg
@@ -24,5 +24,6 @@ title: Mayhem - Dawn of the Black Hearts
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29322&sort=pd.name&order=ASC) for $35.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29386&sort=pd.name&order=ASC) for $28.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=30512&sort=pd.name&order=ASC) for $35.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=30721&sort=pd.name&order=ASC) for $35.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=18477&sort=pd.name&order=ASC) for $10.00

@@ -5,7 +5,7 @@ artist: Bathory
 categories:
 - Vinyl
 - Cassette
-date: '2022-12-28T06:33:05'
+date: '2023-01-18T06:10:21'
 draft: false
 images:
 - /images/covers/bathory-under_the_sign_of_the_black_mark.jpg
@@ -27,6 +27,8 @@ title: Bathory - Under The Sign Of The Black Mark
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29752&sort=pd.name&order=ASC) for $30.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29912&sort=pd.name&order=ASC) for $30.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29914&sort=pd.name&order=ASC) for $27.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=30718&sort=pd.name&order=ASC) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=30719&sort=pd.name&order=ASC) for $27.00
 ## Cassette
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=17532&sort=pd.name&order=ASC) for $12.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=19189&sort=pd.name&order=ASC) for $12.00

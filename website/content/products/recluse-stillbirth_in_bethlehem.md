@@ -5,7 +5,7 @@ artist: Recluse
 categories:
 - Vinyl
 - CD
-date: '2022-11-30T06:10:43'
+date: '2023-01-18T06:15:59'
 draft: false
 images:
 - /images/covers/recluse-stillbirth_in_bethlehem.jpg
@@ -19,3 +19,4 @@ title: Recluse - Stillbirth In Bethlehem
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=24413&sort=pd.name&order=ASC) for $12.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=27655&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=30724&sort=pd.name&order=ASC) for $12.00

@@ -4,7 +4,7 @@ album: Imaginary Sonicscape
 artist: Sigh
 categories:
 - Vinyl
-date: '2022-11-24T06:10:35'
+date: '2023-01-18T06:12:23'
 draft: false
 images:
 - /images/covers/sigh-imaginary_sonicscape.jpg
@@ -17,3 +17,4 @@ title: Sigh - Imaginary Sonicscape
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=21553&sort=pd.name&order=ASC) for $30.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=28783&sort=pd.name&order=ASC) for $30.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=28856&sort=pd.name&order=ASC) for $24.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=30736&sort=pd.name&order=ASC) for $30.00
