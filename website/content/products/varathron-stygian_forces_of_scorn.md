@@ -4,7 +4,7 @@ album: Stygian Forces Of Scorn
 artist: Varathron
 categories:
 - Vinyl
-date: '2022-11-30T06:10:19'
+date: '2023-01-21T06:13:20'
 draft: false
 images:
 - /images/covers/varathron-stygian_forces_of_scorn.jpg
@@ -16,3 +16,4 @@ title: Varathron - Stygian Forces Of Scorn
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=23536&sort=pd.name&order=ASC) for $30.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=24944&sort=pd.name&order=ASC) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=30865&sort=pd.name&order=ASC) for $30.00

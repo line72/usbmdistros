@@ -4,7 +4,7 @@ album: Demo
 artist: Heinous
 categories:
 - Vinyl
-date: '2023-01-17T06:11:35'
+date: '2023-01-21T06:11:40'
 draft: false
 images:
 - /images/covers/heinous-demo.jpg
@@ -19,3 +19,4 @@ title: Heinous - Demo
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=22130&sort=pd.name&order=ASC) for $13.60
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29791&sort=pd.name&order=ASC) for $17.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=30616&sort=pd.name&order=ASC) for $17.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=30843&sort=pd.name&order=ASC) for $17.00
