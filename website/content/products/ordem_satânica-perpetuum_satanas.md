@@ -4,7 +4,7 @@ album: Perpetuum Satanas
 artist: "Ordem Sat\xE2nica"
 categories:
 - Cassette
-date: '2023-01-11T06:01:11'
+date: '2023-01-22T06:01:24'
 draft: false
 images:
 - "/images/covers/ordem_sat\xE2nica-perpetuum_satanas.jpg"

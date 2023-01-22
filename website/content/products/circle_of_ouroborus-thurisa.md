@@ -5,7 +5,7 @@ artist: Circle of Ouroborus
 categories:
 - Vinyl
 - CD
-date: '2023-01-13T06:00:43'
+date: '2023-01-22T06:00:55'
 draft: false
 images:
 - /images/covers/circle_of_ouroborus-thurisa.jpg

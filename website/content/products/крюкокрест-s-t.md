@@ -4,7 +4,7 @@ album: s/t
 artist: "\u041A\u0440\u044E\u043A\u043E\u043A\u0440\u0435\u0441\u0442"
 categories:
 - Cassette
-date: '2022-09-28T05:01:09'
+date: '2023-01-22T06:01:26'
 draft: false
 images:
 - "/images/covers/\u043A\u0440\u044E\u043A\u043E\u043A\u0440\u0435\u0441\u0442-s-t.jpg"
