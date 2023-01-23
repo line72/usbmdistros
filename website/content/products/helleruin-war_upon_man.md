@@ -6,7 +6,7 @@ categories:
 - Vinyl
 - Cassette
 - CD
-date: '2022-06-19T05:08:44'
+date: '2023-01-23T06:27:03'
 draft: false
 images:
 - /images/covers/helleruin-war_upon_man.jpg
@@ -27,3 +27,4 @@ title: Helleruin - War Upon Man
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/helleruin-war-upon-man-cd) for $14.00
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/helleruin-war-upon-man-cd) for $15.00
 * Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/helleruin-war-upon-man-cd/) for $13.00
+* Purchase from [CW Productions](https://shop.cwproductions.net/products/helleruin-war-upon-man-cd) for $12.00

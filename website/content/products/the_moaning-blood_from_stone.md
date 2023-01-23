@@ -4,7 +4,7 @@ album: Blood From Stone
 artist: The Moaning
 categories:
 - Vinyl
-date: '2023-01-19T06:12:49'
+date: '2023-01-23T06:12:45'
 draft: false
 images:
 - /images/covers/the_moaning-blood_from_stone.jpg
@@ -15,3 +15,4 @@ title: The Moaning - Blood From Stone
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=30795&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=30885&sort=pd.name&order=ASC) for $25.00
