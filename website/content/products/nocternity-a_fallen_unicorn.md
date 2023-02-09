@@ -4,7 +4,7 @@ album: A Fallen Unicorn
 artist: Nocternity
 categories:
 - Vinyl
-date: '2022-09-08T05:10:44'
+date: '2023-02-01T06:12:49'
 draft: false
 images:
 - /images/covers/nocternity-a_fallen_unicorn.jpg
@@ -17,3 +17,4 @@ title: Nocternity - A Fallen Unicorn
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=13800&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=25121&sort=pd.name&order=ASC) for $45.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=27548&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=31099&sort=pd.name&order=ASC) for $25.00

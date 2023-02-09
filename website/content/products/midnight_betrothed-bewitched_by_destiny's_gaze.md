@@ -1,10 +1,11 @@
 ---
-actualPrice: $15.00
+actualPrice: $15.00 - 28.00
 album: Bewitched by Destiny's Gaze
 artist: Midnight Betrothed
 categories:
+- Vinyl
 - CD
-date: '2021-06-26T15:03:08'
+date: '2023-01-26T06:14:42'
 draft: false
 images:
 - /images/covers/midnight_betrothed-bewitched_by_destiny's_gaze.jpg
@@ -13,5 +14,7 @@ thumbnailImage: /images/covers/midnight_betrothed-bewitched_by_destiny's_gaze-th
 title: Midnight Betrothed - Bewitched by Destiny's Gaze
 ---
 
+## Vinyl
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=30955&sort=pd.name&order=ASC) for $28.00
 ## CD
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/midnight-betrothed-bewitched-by-destiny-s-gaze-cd) for $15.00

@@ -5,7 +5,7 @@ artist: Nocternity
 categories:
 - Vinyl
 - CD
-date: '2023-01-17T06:12:15'
+date: '2023-02-01T06:12:49'
 draft: false
 images:
 - /images/covers/nocternity-eps_-_mcmxcviii-mmx.jpg
@@ -19,5 +19,6 @@ title: Nocternity - EPs - MCMXCVIII-MMX
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=19322&sort=pd.name&order=ASC) for $20.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=27551&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=30596&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=31102&sort=pd.name&order=ASC) for $25.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=13799&sort=pd.name&order=ASC) for $17.00

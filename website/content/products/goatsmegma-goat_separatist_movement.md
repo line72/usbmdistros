@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00
+actualPrice: $9.00
 album: Goat Separatist Movement
 artist: Goatsmegma
 categories:
 - CD
-date: '2022-09-11T05:02:18'
+date: '2023-02-01T06:03:03'
 draft: false
 images:
 - /images/covers/goatsmegma-goat_separatist_movement.jpg
@@ -14,4 +14,4 @@ title: Goatsmegma - Goat Separatist Movement
 ---
 
 ## CD
-* Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/36110191-goatsmegma-goat-separatist-movement) for $12.00
+* Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/36110191-goatsmegma-goat-separatist-movement) for $9.00

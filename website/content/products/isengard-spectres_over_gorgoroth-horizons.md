@@ -4,7 +4,7 @@ album: Spectres over Gorgoroth/Horizons
 artist: Isengard
 categories:
 - Vinyl
-date: '2022-09-20T05:10:29'
+date: '2023-02-03T06:11:59'
 draft: false
 images:
 - /images/covers/isengard-spectres_over_gorgoroth-horizons.jpg
@@ -18,3 +18,4 @@ title: Isengard - Spectres over Gorgoroth/Horizons
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=25627&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=27313&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=27998&sort=pd.name&order=ASC) for $27.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=31192&sort=pd.name&order=ASC) for $25.00

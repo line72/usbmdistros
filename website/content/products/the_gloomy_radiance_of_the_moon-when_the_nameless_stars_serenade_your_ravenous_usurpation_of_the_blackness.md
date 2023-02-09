@@ -5,7 +5,7 @@ artist: The Gloomy Radiance of the Moon
 categories:
 - Vinyl
 - CD
-date: '2022-05-30T05:13:20'
+date: '2023-02-09T06:29:49'
 draft: false
 images:
 - /images/covers/the_gloomy_radiance_of_the_moon-when_the_nameless_stars_serenade_your_ravenous_usurpation_of_the_blackness.png
@@ -20,3 +20,4 @@ title: The Gloomy Radiance of the Moon - When The Nameless Stars Serenade Your R
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=23772&sort=pd.name&order=ASC) for $12.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=23989&sort=pd.name&order=ASC) for $12.00
+* Purchase from [CW Productions](https://shop.cwproductions.net/products/the-gloomy-radiance-of-the-moon-when-the-nameless-stars-serenade-your-ravenous-usurpation-of-the-blackness-cd) for $12.00

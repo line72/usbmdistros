@@ -4,7 +4,7 @@ album: Wisdom - Vibration - Repent
 artist: Mortuary Drape
 categories:
 - Vinyl
-date: '2022-03-24T05:07:50'
+date: '2023-02-03T06:12:23'
 draft: false
 images:
 - /images/covers/mortuary_drape-wisdom_-_vibration_-_repent.jpg
@@ -15,3 +15,4 @@ title: Mortuary Drape - Wisdom - Vibration - Repent
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=21861&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=31161&sort=pd.name&order=ASC) for $25.00

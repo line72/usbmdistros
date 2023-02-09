@@ -4,7 +4,7 @@ album: Black Thrash Attack
 artist: Aura Noir
 categories:
 - Vinyl
-date: '2022-11-30T06:09:59'
+date: '2023-02-03T06:10:46'
 draft: false
 images:
 - /images/covers/aura_noir-black_thrash_attack.jpg
@@ -19,3 +19,4 @@ title: Aura Noir - Black Thrash Attack
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=19605&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=27298&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=27973&sort=pd.name&order=ASC) for $27.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=31154&sort=pd.name&order=ASC) for $25.00

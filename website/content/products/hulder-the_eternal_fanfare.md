@@ -1,12 +1,12 @@
 ---
-actualPrice: $11.50 - 39.00
+actualPrice: $9.50 - 39.00
 album: The Eternal Fanfare
 artist: Hulder
 categories:
 - Vinyl
 - Cassette
 - CD
-date: '2022-11-10T06:21:04'
+date: '2023-02-01T06:02:59'
 draft: false
 images:
 - /images/covers/hulder-the_eternal_fanfare.jpg
@@ -26,6 +26,6 @@ title: Hulder - The Eternal Fanfare
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/hulder-the-eternal-fanfare-lp-1) for $39.00 :: Merge w/ Splatter 1st press vinyl
 ## Cassette
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/hulder-the-eternal-fanfare-cassette) for $14.00 :: Cassette Tape 2022
-* Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/36222694-hulder-the-eternal-fanfare) for $11.50
+* Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/36222694-hulder-the-eternal-fanfare) for $9.50
 ## CD
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/hulder-the-eternal-fanfare-cd) for $15.00 :: CD 2022

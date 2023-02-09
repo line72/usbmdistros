@@ -4,7 +4,7 @@ album: Electric Doom Synthesis
 artist: Beherit
 categories:
 - CD
-date: '2022-12-16T06:13:54'
+date: '2023-01-27T06:17:58'
 draft: false
 images:
 - /images/covers/beherit-electric_doom_synthesis.jpg
@@ -17,3 +17,4 @@ title: Beherit - Electric Doom Synthesis
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=17949&sort=pd.name&order=ASC) for $15.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=18673&sort=pd.name&order=ASC) for $15.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=30126&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=31070&sort=pd.name&order=ASC) for $15.00

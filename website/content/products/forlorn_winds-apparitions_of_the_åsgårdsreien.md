@@ -1,10 +1,11 @@
 ---
-actualPrice: $9.00
+actualPrice: $9.00 - 35.00
 album: "Apparitions of the \xC5sg\xE5rdsreien"
 artist: Forlorn Winds
 categories:
+- Vinyl
 - CD
-date: '2021-08-17T13:15:22'
+date: '2023-02-09T06:21:17'
 draft: false
 images:
 - "/images/covers/forlorn_winds-apparitions_of_the_\xE5sg\xE5rdsreien.png"
@@ -13,5 +14,7 @@ thumbnailImage: "/images/covers/forlorn_winds-apparitions_of_the_\xE5sg\xE5rdsre
 title: "Forlorn Winds - Apparitions of the \xC5sg\xE5rdsreien"
 ---
 
+## Vinyl
+* Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/forlorn-winds-apparitions-of-the-asgardsreien-10-mlp/) for $35.00
 ## CD
 * Purchase from [CW Productions](https://shop.cwproductions.net/products/forlorn-winds-apparitions-of-the-asgardsreien-cd-1) for $9.00

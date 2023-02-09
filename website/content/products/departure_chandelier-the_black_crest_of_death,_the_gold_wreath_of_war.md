@@ -5,7 +5,7 @@ artist: Departure Chandelier
 categories:
 - Vinyl
 - CD
-date: '2023-01-19T06:10:52'
+date: '2023-02-04T06:11:50'
 draft: false
 images:
 - /images/covers/departure_chandelier-the_black_crest_of_death,_the_gold_wreath_of_war.jpg
@@ -19,5 +19,6 @@ title: Departure Chandelier - The Black Crest of Death, The Gold Wreath of War
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/departure-chandelier-the-black-crest-of-death-the-gold-wreath-of-war-lp) for $20.00 :: Black 2019 press vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=20969&sort=pd.name&order=ASC) for $40.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=30772&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=31211&sort=pd.name&order=ASC) for $25.00
 ## CD
 * Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/departure-chandelier-the-black-crest-of-death-the-gold-wreath-of-war-cd/) for $12.00

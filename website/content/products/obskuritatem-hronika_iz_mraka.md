@@ -5,7 +5,7 @@ artist: Obskuritatem
 categories:
 - Vinyl
 - Cassette
-date: '2022-12-15T06:00:59'
+date: '2023-01-28T06:00:57'
 draft: false
 images:
 - /images/covers/obskuritatem-hronika_iz_mraka.jpg

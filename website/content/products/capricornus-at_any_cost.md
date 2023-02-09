@@ -4,7 +4,7 @@ album: At Any Cost
 artist: Capricornus
 categories:
 - CD
-date: '2022-04-23T05:17:24'
+date: '2023-02-09T06:29:49'
 draft: false
 images:
 - /images/covers/capricornus-at_any_cost.jpg
@@ -15,3 +15,4 @@ title: Capricornus - At Any Cost
 
 ## CD
 * Purchase from [CW Productions](https://shop.cwproductions.net/products/capricornus-at-any-cost-cd) for $14.00
+* Purchase from [CW Productions](https://shop.cwproductions.net/products/capricornus-at-any-cost-cd-1) for $14.00
