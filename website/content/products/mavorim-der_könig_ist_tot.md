@@ -7,9 +7,9 @@ categories:
 date: '2023-01-27T06:00:54'
 draft: false
 images:
-- "/images/covers/mavorim-der_k\xF6nig_ist_tot.png"
+- "/images/covers/mavorim-der_k\xF6nig_ist_tot.jpg"
 inStock: true
-thumbnailImage: "/images/covers/mavorim-der_k\xF6nig_ist_tot-thumb.png"
+thumbnailImage: "/images/covers/mavorim-der_k\xF6nig_ist_tot-thumb.jpg"
 title: "Mavorim - Der K\xF6nig Ist Tot"
 ---
 

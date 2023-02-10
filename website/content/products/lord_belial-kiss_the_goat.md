@@ -7,9 +7,9 @@ categories:
 date: '2023-01-28T06:12:02'
 draft: false
 images:
-- /images/covers/lord_belial-kiss_the_goat.png
+- /images/covers/lord_belial-kiss_the_goat.jpg
 inStock: true
-thumbnailImage: /images/covers/lord_belial-kiss_the_goat-thumb.png
+thumbnailImage: /images/covers/lord_belial-kiss_the_goat-thumb.jpg
 title: Lord Belial - Kiss the Goat
 ---
 

@@ -7,9 +7,9 @@ categories:
 date: '2023-01-27T06:13:40'
 draft: false
 images:
-- /images/covers/aeon_furnace-providence_descends.png
+- /images/covers/aeon_furnace-providence_descends.jpg
 inStock: true
-thumbnailImage: /images/covers/aeon_furnace-providence_descends-thumb.png
+thumbnailImage: /images/covers/aeon_furnace-providence_descends-thumb.jpg
 title: Aeon Furnace - Providence Descends
 ---
 

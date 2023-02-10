@@ -1,11 +1,11 @@
 ---
-actualPrice: $13.00 - 25.00
+actualPrice: $12.00 - 25.00
 album: Helwetti
 artist: Helwetti
 categories:
 - Vinyl
 - CD
-date: '2022-12-09T06:14:23'
+date: '2023-02-10T06:20:39'
 draft: false
 images:
 - /images/covers/helwetti-helwetti.jpg
@@ -21,3 +21,4 @@ title: Helwetti - Helwetti
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=20119&sort=pd.name&order=ASC) for $15.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=29833&sort=pd.name&order=ASC) for $15.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=29928&sort=pd.name&order=ASC) for $15.00
+* Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/helwetti-helwetti-cd/) for $12.00

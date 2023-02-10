@@ -9,9 +9,9 @@ categories:
 date: '2023-01-27T06:21:56'
 draft: false
 images:
-- /images/covers/profane_order-one_nightmare_unto_another.png
+- /images/covers/profane_order-one_nightmare_unto_another.jpg
 inStock: true
-thumbnailImage: /images/covers/profane_order-one_nightmare_unto_another-thumb.png
+thumbnailImage: /images/covers/profane_order-one_nightmare_unto_another-thumb.jpg
 title: Profane Order - One Nightmare Unto Another
 ---
 

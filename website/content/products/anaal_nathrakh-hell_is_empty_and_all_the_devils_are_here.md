@@ -7,9 +7,9 @@ categories:
 date: '2023-02-09T06:24:35'
 draft: false
 images:
-- /images/covers/anaal_nathrakh-hell_is_empty_and_all_the_devils_are_here.png
+- /images/covers/anaal_nathrakh-hell_is_empty_and_all_the_devils_are_here.jpg
 inStock: true
-thumbnailImage: /images/covers/anaal_nathrakh-hell_is_empty_and_all_the_devils_are_here-thumb.png
+thumbnailImage: /images/covers/anaal_nathrakh-hell_is_empty_and_all_the_devils_are_here-thumb.jpg
 title: Anaal Nathrakh - Hell Is Empty And All The Devils Are Here
 ---
 

@@ -7,9 +7,9 @@ categories:
 date: '2023-01-28T06:12:01'
 draft: false
 images:
-- /images/covers/limbonic_art-the_ultimate_death_worship.png
+- /images/covers/limbonic_art-the_ultimate_death_worship.jpg
 inStock: true
-thumbnailImage: /images/covers/limbonic_art-the_ultimate_death_worship-thumb.png
+thumbnailImage: /images/covers/limbonic_art-the_ultimate_death_worship-thumb.jpg
 title: Limbonic Art - The Ultimate Death Worship
 ---
 

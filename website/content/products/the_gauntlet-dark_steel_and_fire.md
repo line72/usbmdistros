@@ -7,9 +7,9 @@ categories:
 date: '2023-01-27T06:16:32'
 draft: false
 images:
-- /images/covers/the_gauntlet-dark_steel_and_fire.png
+- /images/covers/the_gauntlet-dark_steel_and_fire.jpg
 inStock: true
-thumbnailImage: /images/covers/the_gauntlet-dark_steel_and_fire-thumb.png
+thumbnailImage: /images/covers/the_gauntlet-dark_steel_and_fire-thumb.jpg
 title: The Gauntlet - Dark Steel and Fire
 ---
 

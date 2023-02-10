@@ -7,9 +7,9 @@ categories:
 date: '2023-02-03T06:11:39'
 draft: false
 images:
-- /images/covers/gehenna-ww.png
+- /images/covers/gehenna-ww.jpg
 inStock: true
-thumbnailImage: /images/covers/gehenna-ww-thumb.png
+thumbnailImage: /images/covers/gehenna-ww-thumb.jpg
 title: Gehenna - WW
 ---
 
