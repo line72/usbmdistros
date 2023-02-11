@@ -1,10 +1,10 @@
 ---
-actualPrice: $45.00 - 47.00
+actualPrice: $39.00
 album: Sentinel
 artist: Spectral Lore
 categories:
 - Vinyl
-date: '2022-04-15T05:13:11'
+date: '2023-02-11T06:26:28'
 draft: false
 images:
 - /images/covers/spectral_lore-sentinel.jpg
@@ -14,5 +14,5 @@ title: Spectral Lore - Sentinel
 ---
 
 ## Vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/spectral-lore-sentinel-2xlp) for $45.00 :: Black 2022 press vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/spectral-lore-sentinel-2xlp) for $47.00 :: Olive Green 2022 press vinyl
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/spectral-lore-sentinel-2xlp) for $39.00 :: Black 2022 press vinyl
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/spectral-lore-sentinel-2xlp) for $39.00 :: Olive Green 2022 press vinyl
