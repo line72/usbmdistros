@@ -1,10 +1,10 @@
 ---
-actualPrice: $15.00
+actualPrice: $15.00 - 20.00
 album: S/T
 artist: Infant Island
 categories:
 - Vinyl
-date: '2022-12-03T06:20:53'
+date: '2023-02-13T06:22:24'
 draft: false
 images:
 - /images/covers/infant_island-s-t.jpg
@@ -15,3 +15,4 @@ title: Infant Island - S/T
 
 ## Vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/infant-island-s-t-lp) for $15.00 :: Smoke 2018 press vinyl (lim/200)
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/infant-island-s-t-lp-1) for $20.00 :: Smoke 2018 press vinyl (lim/200)
