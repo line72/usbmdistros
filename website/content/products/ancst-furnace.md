@@ -5,7 +5,7 @@ artist: Ancst
 categories:
 - Vinyl
 - CD
-date: '2022-09-15T05:19:26'
+date: '2023-02-14T06:23:13'
 draft: false
 images:
 - /images/covers/ancst-furnace.jpg
@@ -16,5 +16,6 @@ title: Ancst - Furnace
 
 ## Vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/ancst-furnace-lp) for $23.00 :: Black 2nd press vinyl
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/ancst-furnace-lp-1) for $20.00 :: Black 2017 press vinyl
 ## CD
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/ancst-furnace-cd) for $8.00 :: CD 2017
