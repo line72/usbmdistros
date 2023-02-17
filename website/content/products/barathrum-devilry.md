@@ -1,10 +1,11 @@
 ---
-actualPrice: $9.60 - 12.00
+actualPrice: $9.60 - 25.00
 album: Devilry
 artist: Barathrum
 categories:
+- Vinyl
 - CD
-date: '2022-11-30T06:10:28'
+date: '2023-02-17T06:11:37'
 draft: false
 images:
 - /images/covers/barathrum-devilry.jpg
@@ -13,6 +14,8 @@ thumbnailImage: /images/covers/barathrum-devilry-thumb.jpg
 title: Barathrum - Devilry
 ---
 
+## Vinyl
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=31384&sort=pd.name&order=ASC) for $25.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=21433&sort=pd.name&order=ASC) for $12.00
 * Purchase from [CW Productions](https://shop.cwproductions.net/products/barathrum-devilry-cd) for $10.00

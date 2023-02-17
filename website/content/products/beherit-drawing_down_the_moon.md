@@ -6,7 +6,7 @@ categories:
 - Vinyl
 - Cassette
 - CD
-date: '2023-02-14T06:11:23'
+date: '2023-02-17T06:16:06'
 draft: false
 images:
 - /images/covers/beherit-drawing_down_the_moon.jpg
@@ -40,3 +40,4 @@ title: Beherit - Drawing Down the Moon
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=31074&sort=pd.name&order=ASC) for $15.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=31208&sort=pd.name&order=ASC) for $15.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=31268&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=31378&sort=pd.name&order=ASC) for $15.00

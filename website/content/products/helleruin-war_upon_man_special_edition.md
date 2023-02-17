@@ -4,7 +4,7 @@ album: War Upon Man Special Edition
 artist: Helleruin
 categories:
 - Vinyl
-date: '2022-04-19T05:00:29'
+date: '2023-02-17T06:01:04'
 draft: false
 images:
 - /images/covers/helleruin-war_upon_man_special_edition.jpg

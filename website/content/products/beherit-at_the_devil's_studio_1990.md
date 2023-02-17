@@ -6,7 +6,7 @@ categories:
 - Vinyl
 - Cassette
 - CD
-date: '2023-01-27T06:17:58'
+date: '2023-02-17T06:16:06'
 draft: false
 images:
 - /images/covers/beherit-at_the_devil's_studio_1990.png
@@ -40,3 +40,4 @@ title: Beherit - At the Devil's Studio 1990
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=17956&sort=pd.name&order=ASC) for $15.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=18670&sort=pd.name&order=ASC) for $15.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=31068&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=31377&sort=pd.name&order=ASC) for $15.00
