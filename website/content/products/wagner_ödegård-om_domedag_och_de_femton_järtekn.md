@@ -6,7 +6,7 @@ categories:
 - Vinyl
 - Cassette
 - CD
-date: '2022-11-30T06:10:20'
+date: '2023-02-22T06:18:29'
 draft: false
 images:
 - "/images/covers/wagner_\xF6deg\xE5rd-om_domedag_och_de_femton_j\xE4rtekn.jpg"
@@ -25,3 +25,4 @@ title: "Wagner \xD6deg\xE5rd - Om Domedag Och De Femton J\xE4rtekn"
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=18488&sort=pd.name&order=ASC) for $15.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=28666&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=31526&sort=pd.name&order=ASC) for $15.00

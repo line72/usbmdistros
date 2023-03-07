@@ -1,0 +1,17 @@
+---
+actualPrice: $15.00
+album: Collectors of the King
+artist: Ragnarok
+categories:
+- CD
+date: '2023-02-22T06:17:38'
+draft: false
+images:
+- /images/covers/ragnarok-collectors_of_the_king.png
+inStock: true
+thumbnailImage: /images/covers/ragnarok-collectors_of_the_king-thumb.png
+title: Ragnarok - Collectors of the King
+---
+
+## CD
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=31512&sort=pd.name&order=ASC) for $15.00

@@ -1,10 +1,10 @@
 ---
-actualPrice: $10.00
+actualPrice: $8.00
 album: Archar
 artist: Verheerer
 categories:
 - CD
-date: '2022-08-02T13:18:06'
+date: '2023-03-07T14:01:45'
 draft: false
 images:
 - /images/covers/verheerer-archar.jpg
@@ -14,4 +14,4 @@ title: Verheerer - Archar
 ---
 
 ## CD
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/verheerer-archar-cd) for $10.00 :: CD 2018
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/verheerer-archar-cd) for $8.00 :: CD 2018

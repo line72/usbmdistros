@@ -6,7 +6,7 @@ categories:
 - Vinyl
 - Cassette
 - CD
-date: '2022-08-02T13:18:06'
+date: '2023-03-07T13:59:27'
 draft: false
 images:
 - /images/covers/scitalis-doomed_before_time.jpg
@@ -21,3 +21,4 @@ title: Scitalis - Doomed Before Time
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/scitalis-doomed-before-time-cassette) for $11.00 :: Cassette Tape 1st press
 ## CD
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/scitalis-doomed-before-time-cd) for $10.00 :: CD 2022
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/scitalis-doomed-before-time-cd-1) for $12.00 :: CD 2022

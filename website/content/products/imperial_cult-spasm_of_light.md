@@ -1,10 +1,10 @@
 ---
-actualPrice: $20.00
+actualPrice: $12.00
 album: Spasm Of Light
 artist: Imperial Cult
 categories:
 - Vinyl
-date: '2022-01-14T06:11:46'
+date: '2023-03-07T14:03:27'
 draft: false
 images:
 - /images/covers/imperial_cult-spasm_of_light.jpg
@@ -14,4 +14,4 @@ title: Imperial Cult - Spasm Of Light
 ---
 
 ## Vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/imperial-cult-spasm-of-light-12-ep) for $20.00 :: Black 1st press vinyl
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/imperial-cult-spasm-of-light-12-ep) for $12.00 :: Black 1st press vinyl

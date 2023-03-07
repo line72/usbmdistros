@@ -5,7 +5,7 @@ artist: Abkehr
 categories:
 - Vinyl
 - CD
-date: '2022-08-02T13:18:07'
+date: '2023-03-07T13:59:26'
 draft: false
 images:
 - /images/covers/abkehr-in_blut.jpg
@@ -19,3 +19,4 @@ title: Abkehr - In Blut
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/abkehr-in-blut-lp) for $21.00 :: Gold 2021 press vinyl
 ## CD
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/abkehr-in-blut-cd) for $10.00 :: CD 2021
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/abkehr-in-blut-cd-1) for $12.00 :: CD 2021

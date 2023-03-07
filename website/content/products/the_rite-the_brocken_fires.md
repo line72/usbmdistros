@@ -1,11 +1,11 @@
 ---
-actualPrice: $7.50 - 25.00
+actualPrice: $7.50 - 20.00
 album: The Brocken Fires
 artist: The Rite
 categories:
 - Vinyl
 - CD
-date: '2022-11-30T06:10:18'
+date: '2023-03-07T14:05:14'
 draft: false
 images:
 - /images/covers/the_rite-the_brocken_fires.jpg
@@ -16,6 +16,6 @@ title: The Rite - The Brocken Fires
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=5770&sort=pd.name&order=ASC) for $17.00
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/the-rite-the-brocken-fires) for $25.00 :: Gold 1st press
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/the-rite-the-brocken-fires) for $20.00 :: Gold 1st press
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=5819&sort=pd.name&order=ASC) for $7.50

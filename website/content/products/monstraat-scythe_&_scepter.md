@@ -4,7 +4,7 @@ album: Scythe & Scepter
 artist: Monstraat
 categories:
 - Vinyl
-date: '2022-11-30T06:10:10'
+date: '2023-02-21T06:13:13'
 draft: false
 images:
 - /images/covers/monstraat-scythe_&_scepter.jpg
@@ -16,3 +16,4 @@ title: Monstraat - Scythe & Scepter
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=20031&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=22358&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=31451&sort=pd.name&order=ASC) for $25.00

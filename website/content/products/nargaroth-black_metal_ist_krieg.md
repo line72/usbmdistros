@@ -5,7 +5,7 @@ artist: Nargaroth
 categories:
 - Vinyl
 - CD
-date: '2023-01-30T06:01:00'
+date: '2023-03-05T06:01:00'
 draft: false
 images:
 - /images/covers/nargaroth-black_metal_ist_krieg.jpg

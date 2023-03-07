@@ -6,7 +6,7 @@ categories:
 - Vinyl
 - Cassette
 - CD
-date: '2022-11-30T06:10:48'
+date: '2023-02-21T06:14:42'
 draft: false
 images:
 - /images/covers/walpurgia-altar_of_the_goatbaphomet.png
@@ -18,6 +18,7 @@ title: Walpurgia - Altar of the Goatbaphomet
 ## Vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/walpurgia-altar) for $35.00 :: Red
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=18554&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=31452&sort=pd.name&order=ASC) for $25.00
 ## Cassette
 * Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/2669/) for $8.00
 ## CD

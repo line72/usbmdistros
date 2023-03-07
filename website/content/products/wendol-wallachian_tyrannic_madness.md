@@ -4,7 +4,7 @@ album: Wallachian Tyrannic Madness
 artist: Wendol
 categories:
 - Cassette
-date: '2021-11-16T14:05:08'
+date: '2023-03-07T06:01:45'
 draft: false
 images:
 - /images/covers/wendol-wallachian_tyrannic_madness.jpg

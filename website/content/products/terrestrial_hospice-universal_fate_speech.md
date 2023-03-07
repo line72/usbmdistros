@@ -5,7 +5,7 @@ artist: Terrestrial Hospice
 categories:
 - Vinyl
 - CD
-date: '2022-11-30T06:10:45'
+date: '2023-02-22T06:18:06'
 draft: false
 images:
 - /images/covers/terrestrial_hospice-universal_fate_speech.png
@@ -18,3 +18,4 @@ title: Terrestrial Hospice - Universal Fate Speech
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=18549&sort=pd.name&order=ASC) for $25.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=18524&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=31542&sort=pd.name&order=ASC) for $15.00

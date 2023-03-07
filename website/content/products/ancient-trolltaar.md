@@ -4,7 +4,7 @@ album: Trolltaar
 artist: Ancient
 categories:
 - Cassette
-date: '2022-11-30T06:10:49'
+date: '2023-03-07T06:19:35'
 draft: false
 images:
 - /images/covers/ancient-trolltaar.jpg
@@ -15,3 +15,4 @@ title: Ancient - Trolltaar
 
 ## Cassette
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=18806&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=31865&sort=pd.name&order=ASC) for $15.00

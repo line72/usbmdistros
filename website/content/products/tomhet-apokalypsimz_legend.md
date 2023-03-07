@@ -1,10 +1,11 @@
 ---
-actualPrice: $10.00 - 12.00
+actualPrice: $10.00 - 25.00
 album: Apokalypsimz Legend
 artist: Tomhet
 categories:
+- Vinyl
 - Cassette
-date: '2022-11-30T06:10:59'
+date: '2023-02-21T06:14:24'
 draft: false
 images:
 - /images/covers/tomhet-apokalypsimz_legend.png
@@ -13,6 +14,8 @@ thumbnailImage: /images/covers/tomhet-apokalypsimz_legend-thumb.png
 title: Tomhet - Apokalypsimz Legend
 ---
 
+## Vinyl
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=31455&sort=pd.name&order=ASC) for $25.00
 ## Cassette
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=19978&sort=pd.name&order=ASC) for $10.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=21800&sort=pd.name&order=ASC) for $12.00

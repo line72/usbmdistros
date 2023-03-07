@@ -1,10 +1,10 @@
 ---
-actualPrice: $20.00
+actualPrice: $9.00
 album: Suffer The Cold
 artist: Circle Of Salt
 categories:
 - Vinyl
-date: '2022-01-27T06:11:48'
+date: '2023-03-07T14:03:25'
 draft: false
 images:
 - /images/covers/circle_of_salt-suffer_the_cold.png
@@ -14,4 +14,4 @@ title: Circle Of Salt - Suffer The Cold
 ---
 
 ## Vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/circle-of-salt-suffer-the-cold-lp) for $20.00 :: Black 2017 press vinyl
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/circle-of-salt-suffer-the-cold-lp) for $9.00 :: Black 2017 press vinyl

@@ -5,7 +5,7 @@ artist: Mayhemic Truth
 categories:
 - Vinyl
 - CD
-date: '2023-01-11T06:12:34'
+date: '2023-02-28T06:15:53'
 draft: false
 images:
 - /images/covers/mayhemic_truth-r.i.p.jpg
@@ -20,5 +20,6 @@ title: Mayhemic Truth - R.I.P
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29328&sort=pd.name&order=ASC) for $30.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29393&sort=pd.name&order=ASC) for $30.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=30498&sort=pd.name&order=ASC) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=31721&sort=pd.name&order=ASC) for $30.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=20181&sort=pd.name&order=ASC) for $15.00

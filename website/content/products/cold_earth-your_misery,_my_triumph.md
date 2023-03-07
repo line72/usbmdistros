@@ -4,7 +4,7 @@ album: Your Misery, My Triumph
 artist: Cold Earth
 categories:
 - Vinyl
-date: '2021-10-14T18:44:43'
+date: '2023-02-20T06:01:15'
 draft: false
 images:
 - /images/covers/cold_earth-your_misery,_my_triumph.jpg

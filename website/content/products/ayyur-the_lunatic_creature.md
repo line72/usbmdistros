@@ -1,10 +1,10 @@
 ---
-actualPrice: $10.00
+actualPrice: $7.00
 album: The Lunatic Creature
 artist: Ayyur
 categories:
 - CD
-date: '2022-08-02T13:18:07'
+date: '2023-03-07T14:02:26'
 draft: false
 images:
 - /images/covers/ayyur-the_lunatic_creature.jpg
@@ -14,4 +14,4 @@ title: Ayyur - The Lunatic Creature
 ---
 
 ## CD
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/ayyur-the-lunatic-creature-cd) for $10.00 :: CD 2018
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/ayyur-the-lunatic-creature-cd) for $7.00 :: CD 2018

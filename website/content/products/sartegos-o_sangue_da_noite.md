@@ -5,7 +5,7 @@ artist: Sartegos
 categories:
 - Vinyl
 - Cassette
-date: '2022-11-30T06:10:57'
+date: '2023-03-07T14:04:27'
 draft: false
 images:
 - /images/covers/sartegos-o_sangue_da_noite.jpg
@@ -16,7 +16,7 @@ title: Sartegos - O Sangue Da Noite
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=10832&sort=pd.name&order=ASC) for $25.00
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/sartegos-o-sangue-da-noite-lp) for $20.00 :: Black 1st press vinyl
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/sartegos-o-sangue-da-noite-lp) for $15.00 :: Black 1st press vinyl
 ## Cassette
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=10824&sort=pd.name&order=ASC) for $8.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=19808&sort=pd.name&order=ASC) for $12.00

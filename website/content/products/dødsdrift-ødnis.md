@@ -5,7 +5,7 @@ artist: "D\xF8dsdrift"
 categories:
 - Vinyl
 - CD
-date: '2022-08-02T13:18:07'
+date: '2023-03-07T13:59:26'
 draft: false
 images:
 - "/images/covers/d\xF8dsdrift-\xF8dnis.png"
@@ -19,3 +19,4 @@ title: "D\xF8dsdrift - \xD8dnis"
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/dodsdrift-odnis-lp-1) for $21.00 :: Black 1st press vinyl
 ## CD
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/dodsdrift-odnis-cd) for $10.00 :: CD 2021
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/dodsdrift-odnis-cd-1) for $12.00 :: CD 2021

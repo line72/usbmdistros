@@ -5,7 +5,7 @@ artist: Runespell
 categories:
 - Vinyl
 - CD
-date: '2022-12-06T06:01:02'
+date: '2023-03-07T06:14:06'
 draft: false
 images:
 - /images/covers/runespell-order_of_vengeance.png
@@ -19,6 +19,7 @@ title: Runespell - Order of Vengeance
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/runespell-order-of-vengeance-12-lp) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=27360&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=27648&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=31847&sort=pd.name&order=ASC) for $25.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=14698&sort=pd.name&order=ASC) for $10.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=20262&sort=pd.name&order=ASC) for $10.00

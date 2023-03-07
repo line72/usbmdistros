@@ -6,7 +6,7 @@ categories:
 - Vinyl
 - Cassette
 - CD
-date: '2023-01-18T06:17:36'
+date: '2023-03-07T14:05:37'
 draft: false
 images:
 - /images/covers/lord_kaos-thorns_of_impurity.jpg
@@ -27,3 +27,4 @@ title: Lord Kaos - Thorns of Impurity
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=30376&sort=pd.name&order=ASC) for $12.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=30487&sort=pd.name&order=ASC) for $12.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=30762&sort=pd.name&order=ASC) for $12.00
+* Purchase from [CW Productions](https://shop.cwproductions.net/products/lord-kaos-thorns-of-impurity-cd) for $12.00

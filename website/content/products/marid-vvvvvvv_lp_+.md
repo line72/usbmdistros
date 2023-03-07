@@ -1,10 +1,10 @@
 ---
-actualPrice: $30.00
+actualPrice: $22.00
 album: vvvvvvv LP +
 artist: Marid
 categories:
 - Vinyl
-date: '2022-08-02T13:18:05'
+date: '2023-03-07T14:02:22'
 draft: false
 images:
 - /images/covers/marid-vvvvvvv_lp_+.png
@@ -14,4 +14,4 @@ title: Marid - vvvvvvv LP +
 ---
 
 ## Vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/marid-vvvvvvv-lp-cd) for $30.00 :: LP + CD
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/marid-vvvvvvv-lp-cd) for $22.00 :: LP + CD

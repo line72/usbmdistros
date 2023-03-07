@@ -1,10 +1,10 @@
 ---
-actualPrice: $8.00
+actualPrice: $6.00
 album: Self-Titled
 artist: Avlivad
 categories:
 - Cassette
-date: '2021-12-16T06:01:53'
+date: '2023-02-25T06:03:35'
 draft: false
 images:
 - /images/covers/avlivad-self-titled.jpg
@@ -14,4 +14,4 @@ title: Avlivad - Self-Titled
 ---
 
 ## Cassette
-* Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/34326049-avlivad-self-titled) for $8.00
+* Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/34326049-avlivad-self-titled) for $6.00

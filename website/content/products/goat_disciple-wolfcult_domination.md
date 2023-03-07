@@ -1,11 +1,11 @@
 ---
-actualPrice: $10.00 - 18.00
+actualPrice: $10.00 - 17.00
 album: Wolfcult Domination
 artist: Goat Disciple
 categories:
 - Vinyl
 - CD
-date: '2022-11-30T06:10:34'
+date: '2023-03-07T14:04:42'
 draft: false
 images:
 - /images/covers/goat_disciple-wolfcult_domination.jpg
@@ -16,7 +16,7 @@ title: Goat Disciple - Wolfcult Domination
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=6030&sort=pd.name&order=ASC) for $17.00
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/goat-disciple-wolfcult-domination) for $18.00 :: Black 1st press vinyl
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/goat-disciple-wolfcult-domination) for $13.00 :: Black 1st press vinyl
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=6029&sort=pd.name&order=ASC) for $10.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=22975&sort=pd.name&order=ASC) for $12.00

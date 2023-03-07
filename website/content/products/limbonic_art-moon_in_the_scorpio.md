@@ -4,7 +4,7 @@ album: Moon in the Scorpio
 artist: Limbonic Art
 categories:
 - Vinyl
-date: '2021-12-04T15:44:10'
+date: '2023-02-28T06:15:41'
 draft: false
 images:
 - /images/covers/limbonic_art-moon_in_the_scorpio.jpg
@@ -16,3 +16,4 @@ title: Limbonic Art - Moon in the Scorpio
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=17160&sort=pd.name&order=ASC) for $30.00
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/limbonic-art-moon-in-the-scorpio-2xlp) for $29.00 :: Green 2021 press vinyl
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=31690&sort=pd.name&order=ASC) for $30.00

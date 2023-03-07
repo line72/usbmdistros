@@ -4,7 +4,7 @@ album: Horda
 artist: Horda
 categories:
 - Vinyl
-date: '2022-11-30T06:10:23'
+date: '2023-02-24T06:14:18'
 draft: false
 images:
 - /images/covers/horda-horda.jpg
@@ -15,3 +15,4 @@ title: Horda - Horda
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=29355&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=31624&sort=pd.name&order=ASC) for $12.00

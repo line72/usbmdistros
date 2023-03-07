@@ -5,7 +5,7 @@ artist: Samael
 categories:
 - Vinyl
 - CD
-date: '2022-12-12T06:15:26'
+date: '2023-03-03T06:18:25'
 draft: false
 images:
 - /images/covers/samael-blood_ritual.jpg
@@ -21,6 +21,7 @@ title: Samael - Blood Ritual
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/samael-blood-ritual) for $27.00 :: Black/White Swirl 2020 press vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29964&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=30028&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=31795&sort=pd.name&order=ASC) for $25.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=18381&sort=pd.name&order=ASC) for $12.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=19081&sort=pd.name&order=ASC) for $12.00
@@ -32,3 +33,4 @@ title: Samael - Blood Ritual
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=26570&sort=pd.name&order=ASC) for $15.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=28849&sort=pd.name&order=ASC) for $15.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=30027&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=31794&sort=pd.name&order=ASC) for $15.00

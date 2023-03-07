@@ -5,7 +5,7 @@ artist: Gauntlet Ring
 categories:
 - Vinyl
 - CD
-date: '2022-08-31T20:21:35'
+date: '2023-03-07T14:05:37'
 draft: false
 images:
 - /images/covers/gauntlet_ring-tyrannical_bloodlust.jpg
@@ -20,3 +20,4 @@ title: Gauntlet Ring - Tyrannical Bloodlust
 * Purchase from [CW Productions](https://shop.cwproductions.net/products/gauntlet-ring-tyrannical-bloodlust-cd) for $12.00
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/gauntlet-ring-tyrannical-bloodlust-cd) for $12.00
 * Purchase from [CW Productions](https://shop.cwproductions.net/products/gauntlet-ring-tyrannical-bloodlust-cd-1) for $12.00
+* Purchase from [CW Productions](https://shop.cwproductions.net/products/gauntlet-ring-tyrannical-bloodlust-cd-2) for $12.00

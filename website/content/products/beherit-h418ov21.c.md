@@ -4,7 +4,7 @@ album: H418ov21.C
 artist: Beherit
 categories:
 - CD
-date: '2023-02-17T06:16:06'
+date: '2023-02-21T06:15:54'
 draft: false
 images:
 - /images/covers/beherit-h418ov21.c.jpg
@@ -19,3 +19,4 @@ title: Beherit - H418ov21.C
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=30127&sort=pd.name&order=ASC) for $15.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=31071&sort=pd.name&order=ASC) for $15.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=31380&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=31487&sort=pd.name&order=ASC) for $15.00

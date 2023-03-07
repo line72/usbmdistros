@@ -4,7 +4,7 @@ album: "De F\xF6rdolda Klangorna"
 artist: "Bek\xEBth Nex\xEBhm\xFC"
 categories:
 - Vinyl
-date: '2023-01-11T06:11:22'
+date: '2023-02-24T06:10:42'
 draft: false
 images:
 - "/images/covers/bek\xEBth_nex\xEBhm\xFC-de_f\xF6rdolda_klangorna.png"
@@ -27,3 +27,4 @@ title: "Bek\xEBth Nex\xEBhm\xFC - De F\xF6rdolda Klangorna"
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29093&sort=pd.name&order=ASC) for $45.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29403&sort=pd.name&order=ASC) for $45.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=30485&sort=pd.name&order=ASC) for $45.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=31619&sort=pd.name&order=ASC) for $45.00

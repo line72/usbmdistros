@@ -6,7 +6,7 @@ categories:
 - Vinyl
 - Cassette
 - CD
-date: '2022-11-30T06:10:15'
+date: '2023-02-24T06:17:06'
 draft: false
 images:
 - /images/covers/ride_for_revenge-sinking_the_song.jpg
@@ -22,3 +22,4 @@ title: Ride for Revenge - Sinking The Song
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=14424&sort=pd.name&order=ASC) for $10.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=15432&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=31650&sort=pd.name&order=ASC) for $15.00

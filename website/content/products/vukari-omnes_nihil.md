@@ -5,7 +5,7 @@ artist: Vukari
 categories:
 - Vinyl
 - CD
-date: '2022-08-02T13:18:06'
+date: '2023-03-07T13:59:27'
 draft: false
 images:
 - /images/covers/vukari-omnes_nihil.jpg
@@ -18,3 +18,4 @@ title: Vukari - Omnes Nihil
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/vukari-omnes-nihil-lp) for $20.00 :: Black 1st press vinyl
 ## CD
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/vukari-omnes-nihil-cd) for $10.00 :: CD 2022
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/vukari-omnes-nihil-cd-1) for $12.00 :: CD 2022

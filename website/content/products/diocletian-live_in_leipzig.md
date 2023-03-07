@@ -5,7 +5,7 @@ artist: Diocletian
 categories:
 - Vinyl
 - Cassette
-date: '2022-11-30T06:10:51'
+date: '2023-02-21T06:12:01'
 draft: false
 images:
 - /images/covers/diocletian-live_in_leipzig.jpg
@@ -20,5 +20,6 @@ title: Diocletian - Live in Leipzig
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=22990&sort=pd.name&order=ASC) for $20.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=25873&sort=pd.name&order=ASC) for $16.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29798&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=31444&sort=pd.name&order=ASC) for $20.00
 ## Cassette
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=28739&sort=pd.name&order=ASC) for $15.00

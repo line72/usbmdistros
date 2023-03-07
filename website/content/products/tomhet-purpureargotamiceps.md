@@ -1,10 +1,11 @@
 ---
-actualPrice: $10.00 - 15.00
+actualPrice: $10.00 - 25.00
 album: Purpureargotamiceps
 artist: Tomhet
 categories:
+- Vinyl
 - Cassette
-date: '2022-11-30T06:10:59'
+date: '2023-02-21T06:14:24'
 draft: false
 images:
 - /images/covers/tomhet-purpureargotamiceps.png
@@ -13,6 +14,8 @@ thumbnailImage: /images/covers/tomhet-purpureargotamiceps-thumb.png
 title: Tomhet - Purpureargotamiceps
 ---
 
+## Vinyl
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=31454&sort=pd.name&order=ASC) for $25.00
 ## Cassette
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=20032&sort=pd.name&order=ASC) for $10.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=21801&sort=pd.name&order=ASC) for $12.00

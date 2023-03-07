@@ -4,7 +4,7 @@ album: Omega
 artist: Celestial Bloodshed
 categories:
 - Vinyl
-date: '2021-11-30T13:35:15'
+date: '2023-02-28T06:14:22'
 draft: false
 images:
 - /images/covers/celestial_bloodshed-omega.jpg
@@ -17,3 +17,4 @@ title: Celestial Bloodshed - Omega
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/celestial-bloodshed-omega-lp) for $29.00 :: Black 2021 press vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/celestial-bloodshed-omega-lp) for $37.00 :: Black/Purple 1st press vinyl (SOLD OUT)
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=17066&sort=pd.name&order=ASC) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=31718&sort=pd.name&order=ASC) for $30.00

@@ -1,10 +1,10 @@
 ---
-actualPrice: $20.00
+actualPrice: $20.00 - 25.00
 album: Ritualia Stramonium
 artist: Abhor
 categories:
 - Vinyl
-date: '2021-11-30T13:35:13'
+date: '2023-02-28T06:13:31'
 draft: false
 images:
 - /images/covers/abhor-ritualia_stramonium.jpg
@@ -15,3 +15,4 @@ title: Abhor - Ritualia Stramonium
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=13964&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=31715&sort=pd.name&order=ASC) for $25.00

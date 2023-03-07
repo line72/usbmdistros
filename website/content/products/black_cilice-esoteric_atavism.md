@@ -6,7 +6,7 @@ categories:
 - Vinyl
 - Cassette
 - CD
-date: '2022-12-31T06:10:14'
+date: '2023-03-07T06:11:36'
 draft: false
 images:
 - /images/covers/black_cilice-esoteric_atavism.jpg
@@ -23,6 +23,7 @@ title: Black Cilice - Esoteric Atavism
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=27112&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=27341&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=30265&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=31840&sort=pd.name&order=ASC) for $25.00
 ## Cassette
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=25197&sort=pd.name&order=ASC) for $8.00
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/black-cilice-esoteric-atavism-tape) for $12.00
@@ -30,3 +31,4 @@ title: Black Cilice - Esoteric Atavism
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=25196&sort=pd.name&order=ASC) for $12.00
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/black-cilice-esoteric-atavism-cd) for $13.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=25460&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=31766&sort=pd.name&order=ASC) for $12.00

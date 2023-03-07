@@ -5,7 +5,7 @@ artist: Wulkanaz
 categories:
 - Vinyl
 - CD
-date: '2022-11-30T06:10:48'
+date: '2023-02-21T06:14:48'
 draft: false
 images:
 - "/images/covers/wulkanaz-kaosn\xE5jd.jpg"
@@ -17,6 +17,7 @@ title: "Wulkanaz - Kaosn\xE5jd"
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=18578&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=19404&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=31466&sort=pd.name&order=ASC) for $25.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=9628&sort=pd.name&order=ASC) for $12.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=21076&sort=pd.name&order=ASC) for $12.00

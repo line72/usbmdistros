@@ -5,7 +5,7 @@ artist: Moonblood
 categories:
 - Vinyl
 - CD
-date: '2022-11-30T06:10:10'
+date: '2023-03-03T06:01:05'
 draft: false
 images:
 - /images/covers/moonblood-nosferatu.jpg

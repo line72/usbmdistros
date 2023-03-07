@@ -4,7 +4,7 @@ album: The Cainian Chronicle
 artist: Ancient
 categories:
 - Vinyl
-date: '2023-01-02T06:26:26'
+date: '2023-03-07T06:11:20'
 draft: false
 images:
 - /images/covers/ancient-the_cainian_chronicle.jpg
@@ -24,3 +24,4 @@ title: Ancient - The Cainian Chronicle
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=26485&sort=pd.name&order=ASC) for $30.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29437&sort=pd.name&order=ASC) for $30.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=30277&sort=pd.name&order=ASC) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=31864&sort=pd.name&order=ASC) for $30.00

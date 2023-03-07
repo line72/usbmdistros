@@ -5,7 +5,7 @@ artist: Ancient
 categories:
 - Vinyl
 - Cassette
-date: '2023-01-02T06:26:26'
+date: '2023-03-07T06:19:35'
 draft: false
 images:
 - /images/covers/ancient-eerily_howling_winds.jpg
@@ -22,5 +22,7 @@ title: Ancient - Eerily Howling Winds
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=26483&sort=pd.name&order=ASC) for $30.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29435&sort=pd.name&order=ASC) for $30.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=30278&sort=pd.name&order=ASC) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=31862&sort=pd.name&order=ASC) for $30.00
 ## Cassette
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=18811&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=31863&sort=pd.name&order=ASC) for $15.00

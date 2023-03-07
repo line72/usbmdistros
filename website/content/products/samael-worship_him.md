@@ -5,7 +5,7 @@ artist: Samael
 categories:
 - Vinyl
 - CD
-date: '2022-12-12T06:15:26'
+date: '2023-03-03T06:18:25'
 draft: false
 images:
 - /images/covers/samael-worship_him.jpg
@@ -19,3 +19,4 @@ title: Samael - Worship Him
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/samael-worship-him) for $25.00 :: Marble 2021 press vinyl
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=30031&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=31797&sort=pd.name&order=ASC) for $15.00
