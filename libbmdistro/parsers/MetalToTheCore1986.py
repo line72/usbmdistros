@@ -81,7 +81,7 @@ class MetalToTheCore1986(Parser):
             re.compile(r'^(.*?)\s+CD\s+IN\s+DVD\s+CASE\s*$'),
             re.compile(r'^(.*?)\s+CD\s+IN\s+CLOTH\s+BAG\s*$'),
             re.compile(r'^(.*?)\s+CASSETTE\s+IN\s+BAG\s*$'),
-            re.compile(r'^(.*?)\s+CASSETTE\s+\*\*\s+PRE-ORDER\s*\*\*\s*$'),
+            re.compile(r'^(.*?)\s+CASSETTE\s+\*\*\s+PRE-ORDER.*\s*\*\*\s*$'),
             re.compile(r'^(.*?)\s+2014\s*$'),
         ]
         
