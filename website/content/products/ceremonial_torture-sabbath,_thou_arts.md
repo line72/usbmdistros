@@ -5,7 +5,7 @@ artist: Ceremonial Torture
 categories:
 - Vinyl
 - CD
-date: '2023-01-06T06:12:16'
+date: '2023-03-11T06:11:44'
 draft: false
 images:
 - /images/covers/ceremonial_torture-sabbath,_thou_arts.jpg
@@ -17,5 +17,6 @@ title: Ceremonial Torture - Sabbath, Thou Arts
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29874&sort=pd.name&order=ASC) for $27.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=30380&sort=pd.name&order=ASC) for $27.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=31978&sort=pd.name&order=ASC) for $27.00
 ## CD
 * Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/ceremonial-torture-sabbath-thou-arts-cd/) for $13.00

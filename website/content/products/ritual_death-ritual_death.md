@@ -9,9 +9,9 @@ categories:
 date: '2023-02-22T06:19:59'
 draft: false
 images:
-- /images/covers/ritual_death-ritual_death.png
+- /images/covers/ritual_death-ritual_death.jpg
 inStock: true
-thumbnailImage: /images/covers/ritual_death-ritual_death-thumb.png
+thumbnailImage: /images/covers/ritual_death-ritual_death-thumb.jpg
 title: Ritual Death - Ritual Death
 ---
 

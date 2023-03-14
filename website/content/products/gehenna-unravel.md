@@ -7,9 +7,9 @@ categories:
 date: '2023-02-28T06:15:04'
 draft: false
 images:
-- /images/covers/gehenna-unravel.png
+- /images/covers/gehenna-unravel.jpg
 inStock: true
-thumbnailImage: /images/covers/gehenna-unravel-thumb.png
+thumbnailImage: /images/covers/gehenna-unravel-thumb.jpg
 title: Gehenna - Unravel
 ---
 

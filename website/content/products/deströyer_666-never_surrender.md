@@ -4,7 +4,7 @@ album: Never Surrender
 artist: "Destr\xF6yer 666"
 categories:
 - Vinyl
-date: '2023-02-15T06:11:50'
+date: '2023-03-10T06:12:58'
 draft: false
 images:
 - "/images/covers/destr\xF6yer_666-never_surrender.jpg"
@@ -15,3 +15,4 @@ title: "Destr\xF6yer 666 - Never Surrender"
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=31356&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=31973&sort=pd.name&order=ASC) for $25.00

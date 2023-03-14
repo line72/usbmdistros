@@ -4,7 +4,7 @@ album: Of Mist and Graves / The Kingdom of Darkness
 artist: Old Forest
 categories:
 - Vinyl
-date: '2022-11-30T06:10:12'
+date: '2023-03-09T06:13:07'
 draft: false
 images:
 - /images/covers/old_forest-of_mist_and_graves_-_the_kingdom_of_darkness.png
@@ -18,3 +18,4 @@ title: Old Forest - Of Mist and Graves / The Kingdom of Darkness
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=28958&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29404&sort=pd.name&order=ASC) for $20.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29692&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=31894&sort=pd.name&order=ASC) for $25.00

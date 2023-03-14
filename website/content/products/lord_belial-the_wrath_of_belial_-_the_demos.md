@@ -4,7 +4,7 @@ album: The Wrath of Belial - The Demos
 artist: Lord Belial
 categories:
 - Vinyl
-date: '2022-12-17T06:11:05'
+date: '2023-03-13T05:13:35'
 draft: false
 images:
 - /images/covers/lord_belial-the_wrath_of_belial_-_the_demos.png
@@ -24,3 +24,4 @@ title: Lord Belial - The Wrath of Belial - The Demos
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=28438&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=28888&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=30136&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=32033&sort=pd.name&order=ASC) for $25.00

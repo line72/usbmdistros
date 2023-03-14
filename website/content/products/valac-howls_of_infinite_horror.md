@@ -6,7 +6,7 @@ categories:
 - Vinyl
 - Cassette
 - CD
-date: '2023-02-12T06:00:22'
+date: '2023-03-09T06:14:10'
 draft: false
 images:
 - /images/covers/valac-howls_of_infinite_horror.png
@@ -21,6 +21,7 @@ title: Valac - Howls of Infinite Horror
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/valac-howls-of-infinite-horror-12-lp) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29756&sort=pd.name&order=ASC) for $25.00
 * Purchase from [Sto'Vo'Kor Records](https://stovokor-records.com/products/valac-howls-of-infinite-horror) for $21.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=31875&sort=pd.name&order=ASC) for $25.00
 ## Cassette
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/valac-howls-of-infinite-horror-tape) for $12.00
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/valac-howls-of-infinite-horror-tape) for $12.00

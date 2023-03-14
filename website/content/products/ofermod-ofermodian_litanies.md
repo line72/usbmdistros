@@ -7,9 +7,9 @@ categories:
 date: '2023-02-22T06:13:13'
 draft: false
 images:
-- /images/covers/ofermod-ofermodian_litanies.png
+- /images/covers/ofermod-ofermodian_litanies.jpg
 inStock: true
-thumbnailImage: /images/covers/ofermod-ofermodian_litanies-thumb.png
+thumbnailImage: /images/covers/ofermod-ofermodian_litanies-thumb.jpg
 title: Ofermod - Ofermodian Litanies
 ---
 

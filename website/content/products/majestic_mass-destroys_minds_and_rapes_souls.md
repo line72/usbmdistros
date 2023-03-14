@@ -9,9 +9,9 @@ categories:
 date: '2023-02-22T06:19:36'
 draft: false
 images:
-- /images/covers/majestic_mass-destroys_minds_and_rapes_souls.png
+- /images/covers/majestic_mass-destroys_minds_and_rapes_souls.jpg
 inStock: true
-thumbnailImage: /images/covers/majestic_mass-destroys_minds_and_rapes_souls-thumb.png
+thumbnailImage: /images/covers/majestic_mass-destroys_minds_and_rapes_souls-thumb.jpg
 title: Majestic Mass - Destroys Minds and Rapes Souls
 ---
 

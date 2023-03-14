@@ -7,9 +7,9 @@ categories:
 date: '2023-02-22T06:17:20'
 draft: false
 images:
-- /images/covers/nifelheim-devil's_force.png
+- /images/covers/nifelheim-devil's_force.jpg
 inStock: true
-thumbnailImage: /images/covers/nifelheim-devil's_force-thumb.png
+thumbnailImage: /images/covers/nifelheim-devil's_force-thumb.jpg
 title: Nifelheim - Devil's Force
 ---
 

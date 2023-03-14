@@ -4,7 +4,7 @@ album: Gloat/Borne
 artist: StarGazer
 categories:
 - Vinyl
-date: '2022-11-24T06:10:35'
+date: '2023-03-10T06:15:24'
 draft: false
 images:
 - /images/covers/stargazer-gloat-borne.jpg
@@ -16,3 +16,4 @@ title: StarGazer - Gloat/Borne
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=15806&sort=pd.name&order=ASC) for $17.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=21459&sort=pd.name&order=ASC) for $11.05
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=31938&sort=pd.name&order=ASC) for $17.00

@@ -7,9 +7,9 @@ categories:
 date: '2023-02-22T06:18:58'
 draft: false
 images:
-- /images/covers/codex_daemonicum-doctrines_of_the_fallen.png
+- /images/covers/codex_daemonicum-doctrines_of_the_fallen.jpg
 inStock: true
-thumbnailImage: /images/covers/codex_daemonicum-doctrines_of_the_fallen-thumb.png
+thumbnailImage: /images/covers/codex_daemonicum-doctrines_of_the_fallen-thumb.jpg
 title: Codex Daemonicum - Doctrines of the Fallen
 ---
 

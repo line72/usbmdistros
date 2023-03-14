@@ -1,11 +1,11 @@
 ---
-actualPrice: $12.00
+actualPrice: $12.00 - 13.00
 album: War.Cult.Supremacy
 artist: Conqueror
 categories:
 - Cassette
 - CD
-date: '2023-01-12T06:14:12'
+date: '2023-03-14T00:27:40'
 draft: false
 images:
 - /images/covers/conqueror-war.cult.supremacy.jpg
@@ -18,3 +18,4 @@ title: Conqueror - War.Cult.Supremacy
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=20529&sort=pd.name&order=ASC) for $12.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=20526&sort=pd.name&order=ASC) for $12.00
+* Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/conqueror-war-cult-supremacy-cd/) for $13.00

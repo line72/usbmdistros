@@ -7,9 +7,9 @@ categories:
 date: '2023-02-22T06:19:36'
 draft: false
 images:
-- /images/covers/malicious_storm-forbidden_rites_of_the_black_arts.png
+- /images/covers/malicious_storm-forbidden_rites_of_the_black_arts.jpg
 inStock: true
-thumbnailImage: /images/covers/malicious_storm-forbidden_rites_of_the_black_arts-thumb.png
+thumbnailImage: /images/covers/malicious_storm-forbidden_rites_of_the_black_arts-thumb.jpg
 title: Malicious Storm - Forbidden Rites of the Black Arts
 ---
 

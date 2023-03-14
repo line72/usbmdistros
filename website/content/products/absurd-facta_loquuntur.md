@@ -5,7 +5,7 @@ artist: Absurd
 categories:
 - Vinyl
 - CD
-date: '2022-08-17T05:16:21'
+date: '2023-03-14T00:27:40'
 draft: false
 images:
 - /images/covers/absurd-facta_loquuntur.jpg
@@ -19,3 +19,4 @@ title: Absurd - Facta Loquuntur
 * Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/absurd-facta-loquuntur-12-lp/) for $25.00
 ## CD
 * Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/absurd-facta-loquuntur-cd/) for $8.00
+* Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/absurd-facta-loquuntur-cd/) for $13.00

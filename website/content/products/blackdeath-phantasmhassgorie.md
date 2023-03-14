@@ -6,7 +6,7 @@ categories:
 - Vinyl
 - Cassette
 - CD
-date: '2022-11-30T06:10:29'
+date: '2023-03-14T00:27:40'
 draft: false
 images:
 - /images/covers/blackdeath-phantasmhassgorie.jpg
@@ -23,3 +23,4 @@ title: Blackdeath - Phantasmhassgorie
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=4589&sort=pd.name&order=ASC) for $7.50
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=25298&sort=pd.name&order=ASC) for $12.00
+* Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/blackdeath-phantasmhassgorie-cd/) for $12.00

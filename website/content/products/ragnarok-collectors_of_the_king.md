@@ -7,9 +7,9 @@ categories:
 date: '2023-02-22T06:17:38'
 draft: false
 images:
-- /images/covers/ragnarok-collectors_of_the_king.png
+- /images/covers/ragnarok-collectors_of_the_king.jpg
 inStock: true
-thumbnailImage: /images/covers/ragnarok-collectors_of_the_king-thumb.png
+thumbnailImage: /images/covers/ragnarok-collectors_of_the_king-thumb.jpg
 title: Ragnarok - Collectors of the King
 ---
 

@@ -7,9 +7,9 @@ categories:
 date: '2023-02-22T06:13:26'
 draft: false
 images:
-- /images/covers/ragnarok-in_nomine_satanas.png
+- /images/covers/ragnarok-in_nomine_satanas.jpg
 inStock: true
-thumbnailImage: /images/covers/ragnarok-in_nomine_satanas-thumb.png
+thumbnailImage: /images/covers/ragnarok-in_nomine_satanas-thumb.jpg
 title: Ragnarok - In Nomine Satanas
 ---
 

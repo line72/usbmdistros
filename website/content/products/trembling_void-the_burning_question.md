@@ -6,7 +6,7 @@ categories:
 - Vinyl
 - Cassette
 - CD
-date: '2022-11-30T06:10:59'
+date: '2023-03-11T06:00:52'
 draft: false
 images:
 - /images/covers/trembling_void-the_burning_question.jpg
@@ -16,6 +16,7 @@ title: Trembling Void - The Burning Question
 ---
 
 ## Vinyl
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/trembling-void-the-burning-question-12-lp) for $30.00
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/trembling-void-the-burning-question-12-lp) for $30.00
 ## Cassette
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/trembling-void-the-burning-question-tape) for $11.00

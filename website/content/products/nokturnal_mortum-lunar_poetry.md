@@ -4,7 +4,7 @@ album: Lunar Poetry
 artist: Nokturnal Mortum
 categories:
 - Vinyl
-date: '2023-01-05T06:13:00'
+date: '2023-03-09T06:13:03'
 draft: false
 images:
 - /images/covers/nokturnal_mortum-lunar_poetry.jpg
@@ -15,3 +15,4 @@ title: Nokturnal Mortum - Lunar Poetry
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=30361&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=31924&sort=pd.name&order=ASC) for $25.00

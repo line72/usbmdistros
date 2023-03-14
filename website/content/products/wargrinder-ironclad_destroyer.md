@@ -7,9 +7,9 @@ categories:
 date: '2023-02-22T06:18:31'
 draft: false
 images:
-- /images/covers/wargrinder-ironclad_destroyer.png
+- /images/covers/wargrinder-ironclad_destroyer.jpg
 inStock: true
-thumbnailImage: /images/covers/wargrinder-ironclad_destroyer-thumb.png
+thumbnailImage: /images/covers/wargrinder-ironclad_destroyer-thumb.jpg
 title: Wargrinder - Ironclad Destroyer
 ---
 

@@ -7,9 +7,9 @@ categories:
 date: '2023-02-22T06:18:26'
 draft: false
 images:
-- /images/covers/voidnaga-demo_mmxvi.png
+- /images/covers/voidnaga-demo_mmxvi.jpg
 inStock: true
-thumbnailImage: /images/covers/voidnaga-demo_mmxvi-thumb.png
+thumbnailImage: /images/covers/voidnaga-demo_mmxvi-thumb.jpg
 title: Voidnaga - Demo MMXVI
 ---
 
