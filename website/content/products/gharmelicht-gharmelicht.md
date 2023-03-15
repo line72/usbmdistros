@@ -4,7 +4,7 @@ album: Gharmelicht
 artist: Gharmelicht
 categories:
 - Vinyl
-date: '2023-01-12T06:11:12'
+date: '2023-03-15T05:12:41'
 draft: false
 images:
 - /images/covers/gharmelicht-gharmelicht.jpg
@@ -20,3 +20,4 @@ title: Gharmelicht - Gharmelicht
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=23987&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29439&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=30501&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=32128&sort=pd.name&order=ASC) for $25.00

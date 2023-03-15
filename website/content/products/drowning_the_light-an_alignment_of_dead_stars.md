@@ -4,7 +4,7 @@ album: An Alignment of Dead Stars
 artist: Drowning The Light
 categories:
 - Vinyl
-date: '2022-12-21T06:11:07'
+date: '2023-03-15T05:12:24'
 draft: false
 images:
 - /images/covers/drowning_the_light-an_alignment_of_dead_stars.jpg
@@ -18,3 +18,4 @@ title: Drowning The Light - An Alignment of Dead Stars
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29286&sort=pd.name&order=ASC) for $30.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29418&sort=pd.name&order=ASC) for $30.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=30163&sort=pd.name&order=ASC) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=32131&sort=pd.name&order=ASC) for $30.00
