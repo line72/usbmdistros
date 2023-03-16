@@ -4,7 +4,7 @@ album: The Shadowthrone
 artist: Satyricon
 categories:
 - CD
-date: '2022-11-30T06:10:44'
+date: '2023-03-16T05:20:13'
 draft: false
 images:
 - /images/covers/satyricon-the_shadowthrone.jpg
@@ -17,3 +17,4 @@ title: Satyricon - The Shadowthrone
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=20422&sort=pd.name&order=ASC) for $15.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=20894&sort=pd.name&order=ASC) for $15.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=27088&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=32185&sort=pd.name&order=ASC) for $15.00

@@ -4,7 +4,7 @@ album: Storm of the Light's Bane
 artist: Dissection
 categories:
 - Vinyl
-date: '2023-02-09T06:12:32'
+date: '2023-03-16T05:11:42'
 draft: false
 images:
 - /images/covers/dissection-storm_of_the_light's_bane.jpg
@@ -25,3 +25,5 @@ title: Dissection - Storm of the Light's Bane
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=31098&sort=pd.name&order=ASC) for $55.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=31261&sort=pd.name&order=ASC) for $40.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=31262&sort=pd.name&order=ASC) for $55.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=32186&sort=pd.name&order=ASC) for $40.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=32187&sort=pd.name&order=ASC) for $55.00

@@ -5,7 +5,7 @@ artist: Burzum
 categories:
 - Vinyl
 - Cassette
-date: '2023-01-27T06:14:11'
+date: '2023-03-16T05:11:21'
 draft: false
 images:
 - /images/covers/burzum-aske.jpg
@@ -18,6 +18,7 @@ title: Burzum - Aske
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=27517&sort=pd.name&order=ASC) for $30.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=30783&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=31008&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=32141&sort=pd.name&order=ASC) for $25.00
 ## Cassette
 * Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/burzum-aske-cassette/) for $5.00
 * Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/burzum-aske-cassette/) for $13.00

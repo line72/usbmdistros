@@ -4,7 +4,7 @@ album: Vritrahn-Werwolf
 artist: Vritrahn-Werwolf
 categories:
 - Vinyl
-date: '2022-11-30T06:10:20'
+date: '2023-03-16T05:14:26'
 draft: false
 images:
 - /images/covers/vritrahn-werwolf-vritrahn-werwolf.png
@@ -17,3 +17,4 @@ title: Vritrahn-Werwolf - Vritrahn-Werwolf
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=24798&sort=pd.name&order=ASC) for $22.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=27866&sort=pd.name&order=ASC) for $22.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29576&sort=pd.name&order=ASC) for $22.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=32233&sort=pd.name&order=ASC) for $22.00

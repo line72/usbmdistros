@@ -4,7 +4,7 @@ album: Atlantis Ascendant
 artist: Bal-Sagoth
 categories:
 - Vinyl
-date: '2022-11-30T06:09:59'
+date: '2023-03-16T05:11:08'
 draft: false
 images:
 - /images/covers/bal-sagoth-atlantis_ascendant.jpg
@@ -18,3 +18,4 @@ title: Bal-Sagoth - Atlantis Ascendant
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=24273&sort=pd.name&order=ASC) for $27.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=26060&sort=pd.name&order=ASC) for $27.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=27107&sort=pd.name&order=ASC) for $27.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=32176&sort=pd.name&order=ASC) for $27.00
