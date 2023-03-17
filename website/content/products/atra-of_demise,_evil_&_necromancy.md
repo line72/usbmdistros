@@ -4,7 +4,7 @@ album: Of Demise, Evil & Necromancy
 artist: Atra
 categories:
 - Vinyl
-date: '2022-11-30T06:09:58'
+date: '2023-03-17T05:10:47'
 draft: false
 images:
 - /images/covers/atra-of_demise,_evil_&_necromancy.jpg
@@ -17,3 +17,4 @@ title: Atra - Of Demise, Evil & Necromancy
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/atra-of-demise-evil-necromancy-2xlp) for $35.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=22233&sort=pd.name&order=ASC) for $30.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=22296&sort=pd.name&order=ASC) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=32250&sort=pd.name&order=ASC) for $30.00

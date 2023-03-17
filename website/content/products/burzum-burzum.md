@@ -4,7 +4,7 @@ album: Burzum
 artist: Burzum
 categories:
 - Vinyl
-date: '2023-03-16T05:11:21'
+date: '2023-03-17T05:11:08'
 draft: false
 images:
 - /images/covers/burzum-burzum.jpg
@@ -18,3 +18,4 @@ title: Burzum - Burzum
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=30784&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=31009&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=32142&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=32252&sort=pd.name&order=ASC) for $25.00
