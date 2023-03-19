@@ -4,7 +4,7 @@ album: Pure Fucking Armageddon
 artist: Mayhem
 categories:
 - Vinyl
-date: '2023-01-11T06:12:34'
+date: '2023-03-19T05:12:43'
 draft: false
 images:
 - /images/covers/mayhem-pure_fucking_armageddon.jpg
@@ -22,3 +22,4 @@ title: Mayhem - Pure Fucking Armageddon
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29325&sort=pd.name&order=ASC) for $255.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29391&sort=pd.name&order=ASC) for $255.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=30496&sort=pd.name&order=ASC) for $255.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=32351&sort=pd.name&order=ASC) for $255.00

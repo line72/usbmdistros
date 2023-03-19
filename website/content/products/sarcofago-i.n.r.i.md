@@ -6,7 +6,7 @@ categories:
 - Vinyl
 - Cassette
 - CD
-date: '2022-11-24T06:11:03'
+date: '2023-03-19T05:13:37'
 draft: false
 images:
 - /images/covers/sarcofago-i.n.r.i.jpg
@@ -20,6 +20,7 @@ title: Sarcofago - I.N.R.I
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=17614&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=28064&sort=pd.name&order=ASC) for $20.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=28065&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=32345&sort=pd.name&order=ASC) for $25.00
 ## Cassette
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=17630&sort=pd.name&order=ASC) for $12.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=23243&sort=pd.name&order=ASC) for $15.00
