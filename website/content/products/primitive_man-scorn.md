@@ -1,10 +1,11 @@
 ---
-actualPrice: $30.00
+actualPrice: $10.00 - 30.00
 album: Scorn
 artist: Primitive Man
 categories:
 - Vinyl
-date: '2022-12-13T06:22:56'
+- CD
+date: '2023-03-21T05:24:33'
 draft: false
 images:
 - /images/covers/primitive_man-scorn.jpg
@@ -15,3 +16,5 @@ title: Primitive Man - Scorn
 
 ## Vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/primitive-man-scorn-lp) for $30.00 :: Black 2013 press vinyl
+## CD
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/primitive-man-scorn-cd) for $10.00 :: Digipak 2013

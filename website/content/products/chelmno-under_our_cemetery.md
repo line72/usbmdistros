@@ -1,10 +1,10 @@
 ---
-actualPrice: $30.00
+actualPrice: $20.00 - 30.00
 album: Under Our Cemetery
 artist: Chelmno
 categories:
 - Vinyl
-date: '2022-11-30T06:10:01'
+date: '2023-03-21T05:11:36'
 draft: false
 images:
 - /images/covers/chelmno-under_our_cemetery.jpg
@@ -15,3 +15,4 @@ title: Chelmno - Under Our Cemetery
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=22000&sort=pd.name&order=ASC) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=32400&sort=pd.name&order=ASC) for $20.00
