@@ -4,7 +4,7 @@ album: Supremacia Primordial
 artist: Caveman Cult
 categories:
 - Vinyl
-date: '2022-11-30T06:10:01'
+date: '2023-03-22T05:11:43'
 draft: false
 images:
 - /images/covers/caveman_cult-supremacia_primordial.jpg
@@ -19,3 +19,4 @@ title: Caveman Cult - Supremacia Primordial
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=22220&sort=pd.name&order=ASC) for $20.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=22535&sort=pd.name&order=ASC) for $20.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=26632&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=32443&sort=pd.name&order=ASC) for $20.00

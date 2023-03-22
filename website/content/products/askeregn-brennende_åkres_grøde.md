@@ -5,7 +5,7 @@ artist: Askeregn
 categories:
 - Vinyl
 - CD
-date: '2023-01-13T06:14:05'
+date: '2023-03-22T05:16:24'
 draft: false
 images:
 - "/images/covers/askeregn-brennende_\xE5kres_gr\xF8de.jpg"
@@ -16,5 +16,7 @@ title: "Askeregn - Brennende \xC5kres Gr\xF8de"
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=30550&sort=pd.name&order=ASC) for $27.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=32471&sort=pd.name&order=ASC) for $27.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=30549&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=32472&sort=pd.name&order=ASC) for $15.00

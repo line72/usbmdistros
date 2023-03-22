@@ -5,7 +5,7 @@ artist: Misotheist
 categories:
 - Vinyl
 - CD
-date: '2023-01-13T06:11:45'
+date: '2023-03-22T05:13:21'
 draft: false
 images:
 - /images/covers/misotheist-misotheist.png
@@ -21,5 +21,6 @@ title: Misotheist - Misotheist
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=22321&sort=pd.name&order=ASC) for $27.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=26575&sort=pd.name&order=ASC) for $27.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=30545&sort=pd.name&order=ASC) for $27.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=32473&sort=pd.name&order=ASC) for $27.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=17490&sort=pd.name&order=ASC) for $12.00

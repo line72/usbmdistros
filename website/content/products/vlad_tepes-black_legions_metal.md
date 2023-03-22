@@ -5,7 +5,7 @@ artist: Vlad Tepes
 categories:
 - Vinyl
 - CD
-date: '2022-11-30T06:10:47'
+date: '2023-03-22T05:01:09'
 draft: false
 images:
 - /images/covers/vlad_tepes-black_legions_metal.jpg
@@ -18,6 +18,7 @@ title: Vlad Tepes - Black Legions Metal
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=16969&sort=pd.name&order=ASC) for $30.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=18274&sort=pd.name&order=ASC) for $30.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=19394&sort=pd.name&order=ASC) for $30.00
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/vlad-tepes-black-legions-metal-12-lp) for $25.00
 ## CD
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/vlad-tepes-black-legions-metal-cd) for $13.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=16927&sort=pd.name&order=ASC) for $15.00

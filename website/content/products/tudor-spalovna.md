@@ -4,7 +4,7 @@ album: Spalovna
 artist: Tudor
 categories:
 - Vinyl
-date: '2023-01-23T06:13:51'
+date: '2023-03-22T05:16:04'
 draft: false
 images:
 - /images/covers/tudor-spalovna.jpg
@@ -16,3 +16,4 @@ title: Tudor - Spalovna
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=10603&sort=pd.name&order=ASC) for $8.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=30888&sort=pd.name&order=ASC) for $5.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=32487&sort=pd.name&order=ASC) for $5.00

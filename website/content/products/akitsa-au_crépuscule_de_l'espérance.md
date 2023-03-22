@@ -4,7 +4,7 @@ album: "Au cr\xE9puscule de l'esp\xE9rance"
 artist: Akitsa
 categories:
 - Vinyl
-date: '2022-11-30T06:09:57'
+date: '2023-03-22T05:11:10'
 draft: false
 images:
 - "/images/covers/akitsa-au_cr\xE9puscule_de_l'esp\xE9rance.jpg"
@@ -18,3 +18,4 @@ title: "Akitsa - Au cr\xE9puscule de l'esp\xE9rance"
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=24657&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=26054&sort=pd.name&order=ASC) for $20.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29802&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=32449&sort=pd.name&order=ASC) for $25.00

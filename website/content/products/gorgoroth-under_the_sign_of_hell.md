@@ -4,7 +4,7 @@ album: Under The Sign Of Hell
 artist: Gorgoroth
 categories:
 - Vinyl
-date: '2023-01-02T06:27:19'
+date: '2023-03-22T05:12:26'
 draft: false
 images:
 - /images/covers/gorgoroth-under_the_sign_of_hell.jpg
@@ -18,3 +18,4 @@ title: Gorgoroth - Under The Sign Of Hell
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29062&sort=pd.name&order=ASC) for $27.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29410&sort=pd.name&order=ASC) for $27.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=30283&sort=pd.name&order=ASC) for $27.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=32469&sort=pd.name&order=ASC) for $27.00

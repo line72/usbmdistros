@@ -4,7 +4,7 @@ album: Spheres Like Death & Throne Of The Thirteenth Witch
 artist: Mare
 categories:
 - Vinyl
-date: '2022-11-30T06:10:09'
+date: '2023-03-22T05:13:12'
 draft: false
 images:
 - /images/covers/mare-spheres_like_death_&_throne_of_the_thirteenth_witch.jpg
@@ -19,3 +19,4 @@ title: Mare - Spheres Like Death & Throne Of The Thirteenth Witch
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=24829&sort=pd.name&order=ASC) for $28.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=24925&sort=pd.name&order=ASC) for $28.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=25797&sort=pd.name&order=ASC) for $28.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=32479&sort=pd.name&order=ASC) for $28.00

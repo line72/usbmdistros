@@ -1,10 +1,11 @@
 ---
-actualPrice: $13.00
+actualPrice: $13.00 - 25.00
 album: Vampiric Wrath Unleashed
 artist: Order of Nosferat
 categories:
+- Vinyl
 - CD
-date: '2023-01-07T06:01:39'
+date: '2023-03-22T05:01:09'
 draft: false
 images:
 - /images/covers/order_of_nosferat-vampiric_wrath_unleashed.jpg
@@ -13,5 +14,7 @@ thumbnailImage: /images/covers/order_of_nosferat-vampiric_wrath_unleashed-thumb.
 title: Order of Nosferat - Vampiric Wrath Unleashed
 ---
 
+## Vinyl
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/order-of-nosferat-vampiric-wrath-unleashed-12-lp) for $25.00
 ## CD
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/order-of-nosferat-vampiric-wrath-unleashed-cd) for $13.00

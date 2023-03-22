@@ -4,7 +4,7 @@ album: Black Katharsis
 artist: Satanic Warmaster
 categories:
 - Vinyl
-date: '2023-01-17T06:12:40'
+date: '2023-03-22T05:14:14'
 draft: false
 images:
 - /images/covers/satanic_warmaster-black_katharsis.jpg
@@ -22,3 +22,4 @@ title: Satanic Warmaster - Black Katharsis
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29924&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29982&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=30585&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=32512&sort=pd.name&order=ASC) for $25.00

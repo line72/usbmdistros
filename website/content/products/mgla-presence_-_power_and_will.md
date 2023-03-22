@@ -4,7 +4,7 @@ album: Presence / Power and Will
 artist: Mgla
 categories:
 - Vinyl
-date: '2022-11-30T06:10:10'
+date: '2023-03-22T05:13:19'
 draft: false
 images:
 - /images/covers/mgla-presence_-_power_and_will.jpg
@@ -15,3 +15,4 @@ title: Mgla - Presence / Power and Will
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=27500&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=32522&sort=pd.name&order=ASC) for $25.00

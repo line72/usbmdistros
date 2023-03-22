@@ -1,10 +1,10 @@
 ---
-actualPrice: $15.00
+actualPrice: $8.00 - 15.00
 album: Libation unto he who dwelleth...
 artist: Gloria Diaboli
 categories:
 - Vinyl
-date: '2023-01-12T06:11:12'
+date: '2023-03-22T05:12:23'
 draft: false
 images:
 - /images/covers/gloria_diaboli-libation_unto_he_who_dwelleth....jpg
@@ -15,3 +15,4 @@ title: Gloria Diaboli - Libation unto he who dwelleth...
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=10320&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=32485&sort=pd.name&order=ASC) for $8.00
