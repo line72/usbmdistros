@@ -1,10 +1,11 @@
 ---
-actualPrice: $14.00
+actualPrice: $14.00 - 30.00
 album: The Longing
 artist: Drowning The Light
 categories:
+- Vinyl
 - CD
-date: '2021-11-29T20:11:17'
+date: '2023-03-23T05:12:10'
 draft: false
 images:
 - /images/covers/drowning_the_light-the_longing.jpg
@@ -13,5 +14,7 @@ thumbnailImage: /images/covers/drowning_the_light-the_longing-thumb.jpg
 title: Drowning The Light - The Longing
 ---
 
+## Vinyl
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=32560&sort=pd.name&order=ASC) for $30.00
 ## CD
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/drowning-the-light-the-longing-cd) for $14.00

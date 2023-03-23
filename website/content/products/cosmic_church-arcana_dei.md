@@ -4,7 +4,7 @@ album: Arcana Dei
 artist: Cosmic Church
 categories:
 - Vinyl
-date: '2023-02-09T06:12:18'
+date: '2023-03-23T05:11:52'
 draft: false
 images:
 - /images/covers/cosmic_church-arcana_dei.jpg
@@ -18,3 +18,4 @@ title: Cosmic Church - Arcana Dei
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=28833&sort=pd.name&order=ASC) for $30.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29615&sort=pd.name&order=ASC) for $30.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=31244&sort=pd.name&order=ASC) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=32564&sort=pd.name&order=ASC) for $30.00
