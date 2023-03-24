@@ -5,7 +5,7 @@ artist: Evilfeast
 categories:
 - Vinyl
 - CD
-date: '2023-01-10T06:11:15'
+date: '2023-03-24T05:17:12'
 draft: false
 images:
 - /images/covers/evilfeast-funeral_sorcery.jpg
@@ -25,5 +25,7 @@ title: Evilfeast - Funeral Sorcery
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=28094&sort=pd.name&order=ASC) for $30.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=30116&sort=pd.name&order=ASC) for $30.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=30475&sort=pd.name&order=ASC) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=32614&sort=pd.name&order=ASC) for $30.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=19778&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=32613&sort=pd.name&order=ASC) for $15.00

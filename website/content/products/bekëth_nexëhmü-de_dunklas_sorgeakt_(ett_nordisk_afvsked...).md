@@ -4,7 +4,7 @@ album: De Dunklas Sorgeakt (Ett Nordisk Afvsked...)
 artist: "Bek\xEBth Nex\xEBhm\xFC"
 categories:
 - Vinyl
-date: '2023-02-24T06:10:42'
+date: '2023-03-24T05:11:35'
 draft: false
 images:
 - "/images/covers/bek\xEBth_nex\xEBhm\xFC-de_dunklas_sorgeakt_(ett_nordisk_afvsked...).jpg"
@@ -21,3 +21,4 @@ title: "Bek\xEBth Nex\xEBhm\xFC - De Dunklas Sorgeakt (Ett Nordisk Afvsked...)"
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29402&sort=pd.name&order=ASC) for $36.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=31103&sort=pd.name&order=ASC) for $45.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=31617&sort=pd.name&order=ASC) for $45.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=32606&sort=pd.name&order=ASC) for $45.00
