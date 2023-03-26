@@ -4,7 +4,7 @@ album: '''t Bloed Kruipt...'
 artist: Walghinge
 categories:
 - Cassette
-date: '2023-02-17T06:20:43'
+date: '2023-03-26T05:22:01'
 draft: false
 images:
 - /images/covers/walghinge-'t_bloed_kruipt....jpg
@@ -18,3 +18,4 @@ title: Walghinge - 't Bloed Kruipt...
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=26427&sort=pd.name&order=ASC) for $7.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=26725&sort=pd.name&order=ASC) for $7.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=31362&sort=pd.name&order=ASC) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=32684&sort=pd.name&order=ASC) for $10.00

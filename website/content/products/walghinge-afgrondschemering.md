@@ -4,7 +4,7 @@ album: Afgrondschemering
 artist: Walghinge
 categories:
 - Vinyl
-date: '2023-02-17T06:15:46'
+date: '2023-03-26T05:16:14'
 draft: false
 images:
 - /images/covers/walghinge-afgrondschemering.jpg
@@ -16,3 +16,4 @@ title: Walghinge - Afgrondschemering
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=6136&sort=pd.name&order=ASC) for $12.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=31363&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=32685&sort=pd.name&order=ASC) for $12.00
