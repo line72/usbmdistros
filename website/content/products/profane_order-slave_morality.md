@@ -5,7 +5,7 @@ artist: Profane Order
 categories:
 - Vinyl
 - CD
-date: '2023-03-12T06:17:11'
+date: '2023-03-28T05:19:05'
 draft: false
 images:
 - /images/covers/profane_order-slave_morality.jpg
@@ -24,3 +24,4 @@ title: Profane Order - Slave Morality
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=30603&sort=pd.name&order=ASC) for $12.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=31933&sort=pd.name&order=ASC) for $12.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=31989&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=32731&sort=pd.name&order=ASC) for $12.00

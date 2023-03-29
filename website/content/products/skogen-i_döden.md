@@ -5,7 +5,7 @@ artist: Skogen
 categories:
 - Vinyl
 - CD
-date: '2022-11-30T06:10:17'
+date: '2023-03-28T05:19:25'
 draft: false
 images:
 - "/images/covers/skogen-i_d\xF6den.png"
@@ -18,3 +18,4 @@ title: "Skogen - I D\xF6den"
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=18164&sort=pd.name&order=ASC) for $30.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=8289&sort=pd.name&order=ASC) for $7.50
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=32774&sort=pd.name&order=ASC) for $12.00

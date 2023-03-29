@@ -5,7 +5,7 @@ artist: Bergraven
 categories:
 - Vinyl
 - CD
-date: '2022-11-30T06:09:59'
+date: '2023-03-28T05:16:54'
 draft: false
 images:
 - /images/covers/bergraven-det_framlidna_minnet.jpg
@@ -19,3 +19,4 @@ title: Bergraven - Det Framlidna Minnet
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=20565&sort=pd.name&order=ASC) for $25.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=8277&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=32753&sort=pd.name&order=ASC) for $12.00

@@ -1,11 +1,12 @@
 ---
-actualPrice: $14.00 - 15.00
+actualPrice: $14.00 - 26.00
 album: Submission And Slavery
 artist: Lamp of Murmuur
 categories:
+- Vinyl
 - Cassette
 - CD
-date: '2023-02-02T06:01:35'
+date: '2023-03-28T05:18:18'
 draft: false
 images:
 - /images/covers/lamp_of_murmuur-submission_and_slavery.png
@@ -14,6 +15,9 @@ thumbnailImage: /images/covers/lamp_of_murmuur-submission_and_slavery-thumb.png
 title: Lamp of Murmuur - Submission And Slavery
 ---
 
+## Vinyl
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/lamp-of-murmuur-submission-and-slavery-12-lp) for $26.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=32710&sort=pd.name&order=ASC) for $25.00
 ## Cassette
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=22440&sort=pd.name&order=ASC) for $15.00
 ## CD
@@ -25,3 +29,4 @@ title: Lamp of Murmuur - Submission And Slavery
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=25799&sort=pd.name&order=ASC) for $15.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=29076&sort=pd.name&order=ASC) for $15.00
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/lamp-of-murmuur-submission-and-slavery-cd) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=32712&sort=pd.name&order=ASC) for $15.00

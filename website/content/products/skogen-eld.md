@@ -4,7 +4,7 @@ album: Eld
 artist: Skogen
 categories:
 - CD
-date: '2021-06-26T15:23:15'
+date: '2023-03-28T05:19:25'
 draft: false
 images:
 - /images/covers/skogen-eld.png
@@ -15,3 +15,4 @@ title: Skogen - Eld
 
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=7670&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=32773&sort=pd.name&order=ASC) for $12.00

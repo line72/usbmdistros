@@ -5,7 +5,7 @@ artist: De Arma
 categories:
 - Vinyl
 - CD
-date: '2022-11-30T06:10:30'
+date: '2023-03-28T05:17:14'
 draft: false
 images:
 - /images/covers/de_arma-nightcall.jpg
@@ -19,3 +19,4 @@ title: De Arma - Nightcall
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=23411&sort=pd.name&order=ASC) for $15.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=26968&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=32772&sort=pd.name&order=ASC) for $15.00
