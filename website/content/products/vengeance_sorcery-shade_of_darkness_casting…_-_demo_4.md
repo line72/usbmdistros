@@ -4,7 +4,7 @@ album: "Shade of Darkness Casting\u2026 - Demo 4"
 artist: Vengeance Sorcery
 categories:
 - Cassette
-date: '2023-03-13T05:21:53'
+date: '2023-03-30T05:22:14'
 draft: false
 images:
 - "/images/covers/vengeance_sorcery-shade_of_darkness_casting\u2026_-_demo_4.jpg"
@@ -18,3 +18,4 @@ title: "Vengeance Sorcery - Shade of Darkness Casting\u2026 - Demo 4"
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=21266&sort=pd.name&order=ASC) for $10.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=28411&sort=pd.name&order=ASC) for $10.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=32065&sort=pd.name&order=ASC) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=32811&sort=pd.name&order=ASC) for $10.00

@@ -5,7 +5,7 @@ artist: Cultes Des Ghoules
 categories:
 - Vinyl
 - CD
-date: '2023-02-01T06:15:26'
+date: '2023-03-30T05:17:19'
 draft: false
 images:
 - /images/covers/cultes_des_ghoules-deeds_without_a_name.jpg
@@ -25,3 +25,4 @@ title: Cultes Des Ghoules - Deeds Without a Name
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=25470&sort=pd.name&order=ASC) for $10.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=26751&sort=pd.name&order=ASC) for $10.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=31121&sort=pd.name&order=ASC) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=32814&sort=pd.name&order=ASC) for $10.00

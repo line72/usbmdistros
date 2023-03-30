@@ -5,7 +5,7 @@ artist: Commander Agares
 categories:
 - Vinyl
 - CD
-date: '2023-01-26T06:01:02'
+date: '2023-03-30T05:26:12'
 draft: false
 images:
 - /images/covers/commander_agares-legions_of_descending_twilight.jpg
@@ -18,5 +18,6 @@ title: Commander Agares - Legions of Descending Twilight
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/commander-agares-legions-of-descending-twilight-12-lp) for $30.00
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/commander-agares-legions-of-descending-twilight-12-lp) for $30.00
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/commander-agares-legions-of-descending-twilight-12-lp) for $30.00
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/used-commander-agares-legions-of-descending-twilight-lp) for $30.00 :: Silver 2021 press vinyl
 ## CD
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/commander-agares-legions-of-descending-twilight-cd) for $14.00

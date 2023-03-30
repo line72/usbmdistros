@@ -4,7 +4,7 @@ album: Revolution
 artist: Fyrdung
 categories:
 - Vinyl
-date: '2023-01-24T06:11:24'
+date: '2023-03-30T05:33:23'
 draft: false
 images:
 - /images/covers/fyrdung-revolution.jpg
@@ -15,3 +15,4 @@ title: Fyrdung - Revolution
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=30907&sort=pd.name&order=ASC) for $25.00
+* Purchase from [CW Productions](https://shop.cwproductions.net/products/fyrdung-revolution-lp) for $25.00

@@ -4,7 +4,7 @@ album: Forbidden Doctrine of the Youthful Gate - Demo 3
 artist: Vengeance Sorcery
 categories:
 - Cassette
-date: '2023-01-12T06:18:15'
+date: '2023-03-30T05:22:14'
 draft: false
 images:
 - /images/covers/vengeance_sorcery-forbidden_doctrine_of_the_youthful_gate_-_demo_3.jpg
@@ -17,3 +17,5 @@ title: Vengeance Sorcery - Forbidden Doctrine of the Youthful Gate - Demo 3
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=21200&sort=pd.name&order=ASC) for $10.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=21264&sort=pd.name&order=ASC) for $10.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=28409&sort=pd.name&order=ASC) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=32063&sort=pd.name&order=ASC) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=32809&sort=pd.name&order=ASC) for $10.00

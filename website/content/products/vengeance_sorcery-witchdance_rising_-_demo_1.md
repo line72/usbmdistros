@@ -4,7 +4,7 @@ album: Witchdance Rising - Demo 1
 artist: Vengeance Sorcery
 categories:
 - Cassette
-date: '2023-03-13T05:21:53'
+date: '2023-03-30T05:22:14'
 draft: false
 images:
 - /images/covers/vengeance_sorcery-witchdance_rising_-_demo_1.jpg
@@ -18,3 +18,4 @@ title: Vengeance Sorcery - Witchdance Rising - Demo 1
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=21267&sort=pd.name&order=ASC) for $10.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=28412&sort=pd.name&order=ASC) for $10.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=32066&sort=pd.name&order=ASC) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=32812&sort=pd.name&order=ASC) for $10.00
