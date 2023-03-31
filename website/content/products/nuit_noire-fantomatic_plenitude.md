@@ -5,7 +5,7 @@ artist: Nuit Noire
 categories:
 - Vinyl
 - CD
-date: '2023-03-29T05:17:05'
+date: '2023-03-31T05:19:51'
 draft: false
 images:
 - /images/covers/nuit_noire-fantomatic_plenitude.jpg
@@ -20,3 +20,4 @@ title: Nuit Noire - Fantomatic Plenitude
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=27231&sort=pd.name&order=ASC) for $12.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=28392&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=32858&sort=pd.name&order=ASC) for $12.00

@@ -5,7 +5,7 @@ artist: Wulkanaz
 categories:
 - Vinyl
 - CD
-date: '2023-02-22T06:18:35'
+date: '2023-03-31T05:21:12'
 draft: false
 images:
 - /images/covers/wulkanaz-haglanaudizeisaz.jpg
@@ -28,3 +28,4 @@ title: Wulkanaz - HaglaNaudizEisaz
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/wulkanaz-haglanaudizeisaz-cd) for $13.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=9611&sort=pd.name&order=ASC) for $7.20
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=31528&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=32872&sort=pd.name&order=ASC) for $15.00

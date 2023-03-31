@@ -5,7 +5,7 @@ artist: Moonblood
 categories:
 - Vinyl
 - CD
-date: '2022-11-30T06:10:39'
+date: '2023-03-31T05:23:57'
 draft: false
 images:
 - /images/covers/moonblood-kingdom_of_forgotten_dreams.jpg
@@ -34,3 +34,4 @@ title: Moonblood - Kingdom Of Forgotten Dreams
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=26779&sort=pd.name&order=ASC) for $15.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=27829&sort=pd.name&order=ASC) for $15.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=28814&sort=pd.name&order=ASC) for $15.00
+* Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/moonblood-kingdom-of-forgotten-dreams-cd/) for $15.00

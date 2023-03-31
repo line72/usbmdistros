@@ -5,7 +5,7 @@ artist: Moonblood
 categories:
 - Vinyl
 - CD
-date: '2022-11-30T06:10:10'
+date: '2023-03-31T05:23:57'
 draft: false
 images:
 - /images/covers/moonblood-the_evil_rules.jpg
@@ -40,3 +40,4 @@ title: Moonblood - The Evil Rules
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=23300&sort=pd.name&order=ASC) for $15.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=27832&sort=pd.name&order=ASC) for $15.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=28817&sort=pd.name&order=ASC) for $12.00
+* Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/moonblood-the-evil-rules-cd/) for $15.00

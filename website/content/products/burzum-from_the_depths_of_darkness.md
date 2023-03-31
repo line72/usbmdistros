@@ -4,7 +4,7 @@ album: From the Depths of Darkness
 artist: Burzum
 categories:
 - Vinyl
-date: '2023-03-17T05:11:08'
+date: '2023-03-31T05:12:27'
 draft: false
 images:
 - /images/covers/burzum-from_the_depths_of_darkness.jpg
@@ -16,3 +16,4 @@ title: Burzum - From the Depths of Darkness
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=32144&sort=pd.name&order=ASC) for $30.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=32254&sort=pd.name&order=ASC) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=32840&sort=pd.name&order=ASC) for $30.00

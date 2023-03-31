@@ -1,10 +1,10 @@
 ---
-actualPrice: $10.00
+actualPrice: $10.00 - 13.00
 album: Umskiptar
 artist: Burzum
 categories:
 - CD
-date: '2022-03-11T16:59:57'
+date: '2023-03-31T05:23:57'
 draft: false
 images:
 - /images/covers/burzum-umskiptar.jpg
@@ -15,3 +15,4 @@ title: Burzum - Umskiptar
 
 ## CD
 * Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/burzum-umskiptar-cd/) for $10.00
+* Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/burzum-umskiptar-cd/) for $13.00
