@@ -4,7 +4,7 @@ album: The Ways of Yore
 artist: Burzum
 categories:
 - Vinyl
-date: '2023-03-31T05:12:27'
+date: '2023-04-04T05:12:05'
 draft: false
 images:
 - /images/covers/burzum-the_ways_of_yore.jpg
@@ -17,3 +17,4 @@ title: Burzum - The Ways of Yore
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=32146&sort=pd.name&order=ASC) for $30.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=32256&sort=pd.name&order=ASC) for $30.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=32844&sort=pd.name&order=ASC) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=32962&sort=pd.name&order=ASC) for $30.00
