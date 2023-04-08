@@ -5,7 +5,7 @@ artist: Ebony Pendant
 categories:
 - Vinyl
 - CD
-date: '2023-03-09T06:11:43'
+date: '2023-04-08T05:01:25'
 draft: false
 images:
 - /images/covers/ebony_pendant-the_garden_of_strangling_roots.jpg

@@ -4,7 +4,7 @@ album: Gjennom Moerket Famlene
 artist: Selvhat
 categories:
 - Vinyl
-date: '2022-11-30T06:10:16'
+date: '2023-04-08T05:15:43'
 draft: false
 images:
 - /images/covers/selvhat-gjennom_moerket_famlene.jpg
@@ -17,3 +17,4 @@ title: Selvhat - Gjennom Moerket Famlene
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=28151&sort=pd.name&order=ASC) for $27.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=28289&sort=pd.name&order=ASC) for $27.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=28339&sort=pd.name&order=ASC) for $27.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=33090&sort=pd.name&order=ASC) for $27.00

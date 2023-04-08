@@ -5,7 +5,7 @@ artist: Wolfnacht
 categories:
 - Vinyl
 - CD
-date: '2022-05-29T12:44:40'
+date: '2023-04-07T05:23:34'
 draft: false
 images:
 - /images/covers/wolfnacht-project_ordensburg.jpg
@@ -18,4 +18,5 @@ title: Wolfnacht - Project Ordensburg
 * Purchase from [CW Productions](https://shop.cwproductions.net/products/wolfnacht-project-ordensburg-lp) for $28.00
 ## CD
 * Purchase from [CW Productions](https://shop.cwproductions.net/products/wolfnacht-project-ordensburg-cd-1) for $16.00
+* Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/wolfnacht-project-ordensburg-cd/) for $15.00
 * Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/wolfnacht-project-ordensburg-cd/) for $15.00

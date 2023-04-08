@@ -1,12 +1,12 @@
 ---
-actualPrice: $11.00 - 30.00
+actualPrice: $8.00 - 30.00
 album: War Upon Man
 artist: Helleruin
 categories:
 - Vinyl
 - Cassette
 - CD
-date: '2023-01-23T06:27:03'
+date: '2023-04-07T05:27:02'
 draft: false
 images:
 - /images/covers/helleruin-war_upon_man.jpg
@@ -23,6 +23,7 @@ title: Helleruin - War Upon Man
 ## Cassette
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=21663&sort=pd.name&order=ASC) for $12.00
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/helleruin-war-upon-man-tape) for $11.00
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/used-helleruin-war-upon-man-cassette) for $8.00 :: Silver Shell 2021 press
 ## CD
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/helleruin-war-upon-man-cd) for $14.00
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/helleruin-war-upon-man-cd) for $15.00

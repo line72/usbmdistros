@@ -4,7 +4,7 @@ album: Ritualia Stramonium
 artist: Abhor
 categories:
 - Vinyl
-date: '2023-03-25T05:10:49'
+date: '2023-04-06T05:11:54'
 draft: false
 images:
 - /images/covers/abhor-ritualia_stramonium.jpg
@@ -17,3 +17,4 @@ title: Abhor - Ritualia Stramonium
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=13964&sort=pd.name&order=ASC) for $20.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=31715&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=32645&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=33032&sort=pd.name&order=ASC) for $25.00

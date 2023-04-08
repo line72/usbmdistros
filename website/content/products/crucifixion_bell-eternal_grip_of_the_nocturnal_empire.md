@@ -6,7 +6,7 @@ categories:
 - Vinyl
 - Cassette
 - CD
-date: '2022-11-30T06:10:30'
+date: '2023-04-08T05:01:26'
 draft: false
 images:
 - /images/covers/crucifixion_bell-eternal_grip_of_the_nocturnal_empire.jpg
