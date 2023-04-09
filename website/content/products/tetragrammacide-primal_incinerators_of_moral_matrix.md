@@ -5,7 +5,7 @@ artist: Tetragrammacide
 categories:
 - Vinyl
 - CD
-date: '2023-03-25T05:18:19'
+date: '2023-04-09T05:21:44'
 draft: false
 images:
 - /images/covers/tetragrammacide-primal_incinerators_of_moral_matrix.jpg
@@ -18,6 +18,8 @@ title: Tetragrammacide - Primal Incinerators of Moral Matrix
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=32446&sort=pd.name&order=ASC) for $27.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=32561&sort=pd.name&order=ASC) for $27.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=32648&sort=pd.name&order=ASC) for $27.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=33153&sort=pd.name&order=ASC) for $27.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=32445&sort=pd.name&order=ASC) for $12.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=32651&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=33152&sort=pd.name&order=ASC) for $12.00
