@@ -1,11 +1,11 @@
 ---
-actualPrice: $4.00 - 25.00
+actualPrice: $3.50 - 25.00
 album: Ordalium
 artist: Trest
 categories:
 - Vinyl
 - Cassette
-date: '2022-11-30T06:10:18'
+date: '2023-04-10T05:04:04'
 draft: false
 images:
 - /images/covers/trest-ordalium.jpg
@@ -17,5 +17,5 @@ title: Trest - Ordalium
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=20611&sort=pd.name&order=ASC) for $25.00
 ## Cassette
-* Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/28121757-trest-ordalium-cal-130) for $4.00
+* Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/28121757-trest-ordalium-cal-130) for $3.50
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/used-trest-ordalium-cassette) for $10.00 :: Cassette Tape 2019
