@@ -4,7 +4,7 @@ album: Ultima Thulee
 artist: Blut Aus Nord
 categories:
 - Vinyl
-date: '2023-01-11T06:11:28'
+date: '2023-04-11T05:14:04'
 draft: false
 images:
 - /images/covers/blut_aus_nord-ultima_thulee.jpg
@@ -17,3 +17,4 @@ title: Blut Aus Nord - Ultima Thulee
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=28719&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29542&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=30508&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=33192&sort=pd.name&order=ASC) for $25.00

@@ -5,7 +5,7 @@ artist: Archgoat
 categories:
 - Vinyl
 - CD
-date: '2022-11-30T06:09:58'
+date: '2023-04-11T05:11:45'
 draft: false
 images:
 - /images/covers/archgoat-black_mass_xxx.jpg
@@ -22,5 +22,6 @@ title: Archgoat - Black Mass XXX
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=28710&sort=pd.name&order=ASC) for $30.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=28950&sort=pd.name&order=ASC) for $30.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29491&sort=pd.name&order=ASC) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=33186&sort=pd.name&order=ASC) for $30.00
 ## CD
 * Purchase from [Debemur Morti](https://debemurmorti.aisamerch.com/item/83269) for $10.99

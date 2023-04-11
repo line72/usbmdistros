@@ -4,7 +4,7 @@ album: With Hearts Towards None
 artist: Mgla
 categories:
 - Vinyl
-date: '2022-01-02T06:07:30'
+date: '2023-04-11T05:15:57'
 draft: false
 images:
 - /images/covers/mgla-with_hearts_towards_none.jpg
@@ -15,3 +15,4 @@ title: Mgla - With Hearts Towards None
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=20114&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=33219&sort=pd.name&order=ASC) for $25.00

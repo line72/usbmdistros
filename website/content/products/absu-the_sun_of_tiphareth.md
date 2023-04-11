@@ -6,7 +6,7 @@ categories:
 - Vinyl
 - Cassette
 - CD
-date: '2023-03-11T06:11:08'
+date: '2023-04-11T05:11:31'
 draft: false
 images:
 - /images/covers/absu-the_sun_of_tiphareth.jpg
@@ -22,6 +22,7 @@ title: Absu - The Sun of Tiphareth
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=24183&sort=pd.name&order=ASC) for $65.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=30327&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=31976&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=33183&sort=pd.name&order=ASC) for $25.00
 ## Cassette
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/absu-the-sun-of-tiphareth-cassette) for $14.00 :: Cassette Tape 2021 press
 ## CD

@@ -1,10 +1,11 @@
 ---
-actualPrice: $18.50
+actualPrice: $12.00 - 18.50
 album: "D\xF8dens Likvid"
 artist: Grudom
 categories:
 - Vinyl
-date: '2021-06-26T15:02:55'
+- CD
+date: '2023-04-11T05:20:13'
 draft: false
 images:
 - "/images/covers/grudom-d\xF8dens_likvid.jpg"
@@ -15,3 +16,5 @@ title: "Grudom - D\xF8dens Likvid"
 
 ## Vinyl
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/grudom-ddens-likvid-12-lp) for $18.50
+## CD
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=33297&sort=pd.name&order=ASC) for $12.00

@@ -1,0 +1,17 @@
+---
+actualPrice: $12.00
+album: "Fj\xF8lkyngi"
+artist: Grudom
+categories:
+- CD
+date: '2023-04-11T05:20:13'
+draft: false
+images:
+- "/images/covers/grudom-fj\xF8lkyngi.jpg"
+inStock: true
+thumbnailImage: "/images/covers/grudom-fj\xF8lkyngi-thumb.jpg"
+title: "Grudom - Fj\xF8lkyngi"
+---
+
+## CD
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=2676&sort=pd.name&order=ASC) for $12.00

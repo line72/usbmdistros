@@ -4,7 +4,7 @@ album: World Without End
 artist: Katharsis
 categories:
 - Vinyl
-date: '2023-03-30T05:13:34'
+date: '2023-04-11T05:15:33'
 draft: false
 images:
 - /images/covers/katharsis-world_without_end.jpg
@@ -21,3 +21,4 @@ title: Katharsis - World Without End
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29546&sort=pd.name&order=ASC) for $20.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=32725&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=32813&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=33174&sort=pd.name&order=ASC) for $25.00

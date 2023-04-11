@@ -6,7 +6,7 @@ categories:
 - Vinyl
 - Cassette
 - CD
-date: '2022-11-30T06:09:58'
+date: '2023-04-11T05:11:45'
 draft: false
 images:
 - /images/covers/archgoat-worship_the_eternal_darkness.jpg
@@ -29,6 +29,7 @@ title: Archgoat - Worship The Eternal Darkness
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=28706&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=28954&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29495&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=33187&sort=pd.name&order=ASC) for $25.00
 ## Cassette
 * Purchase from [Debemur Morti](https://debemurmorti.aisamerch.com/item/102487) for $12.99
 ## CD
