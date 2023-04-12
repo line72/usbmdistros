@@ -6,7 +6,7 @@ categories:
 - Vinyl
 - Cassette
 - CD
-date: '2023-04-07T05:27:02'
+date: '2023-04-12T05:13:52'
 draft: false
 images:
 - /images/covers/lamp_of_murmuur-submission_and_slavery.png
@@ -21,6 +21,7 @@ title: Lamp of Murmuur - Submission And Slavery
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=32826&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=32950&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=33043&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=33351&sort=pd.name&order=ASC) for $25.00
 ## Cassette
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=22440&sort=pd.name&order=ASC) for $15.00
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/used-lamp-of-murmuur-submission-and-slavery-cassette) for $12.00 :: White Shell 2021 press

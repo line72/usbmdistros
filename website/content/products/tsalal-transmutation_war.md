@@ -4,7 +4,7 @@ album: Transmutation War
 artist: Tsalal
 categories:
 - Vinyl
-date: '2022-11-30T06:10:19'
+date: '2023-04-12T05:15:48'
 draft: false
 images:
 - /images/covers/tsalal-transmutation_war.png
@@ -19,3 +19,4 @@ title: Tsalal - Transmutation War
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=19383&sort=pd.name&order=ASC) for $35.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=20364&sort=pd.name&order=ASC) for $28.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=22890&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=33322&sort=pd.name&order=ASC) for $25.00

@@ -5,7 +5,7 @@ artist: Lamp of Murmuur
 categories:
 - Vinyl
 - Cassette
-date: '2023-04-07T05:13:49'
+date: '2023-04-12T05:13:52'
 draft: false
 images:
 - /images/covers/lamp_of_murmuur-the_burning_spears_of_crimson_agony.jpg
@@ -19,5 +19,6 @@ title: Lamp of Murmuur - The Burning Spears Of Crimson Agony
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=32827&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=32951&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=33044&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=33352&sort=pd.name&order=ASC) for $25.00
 ## Cassette
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=22441&sort=pd.name&order=ASC) for $15.00
