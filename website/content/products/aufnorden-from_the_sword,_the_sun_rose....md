@@ -4,7 +4,7 @@ album: From the Sword, The Sun Rose...
 artist: Aufnorden
 categories:
 - Cassette
-date: '2022-11-11T06:01:16'
+date: '2023-04-13T05:01:51'
 draft: false
 images:
 - /images/covers/aufnorden-from_the_sword,_the_sun_rose....jpg

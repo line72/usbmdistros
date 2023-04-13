@@ -1,11 +1,11 @@
 ---
-actualPrice: $15.00 - 25.00
+actualPrice: $12.00 - 25.00
 album: Hronika Iz Mraka
 artist: Obskuritatem
 categories:
 - Vinyl
 - Cassette
-date: '2023-01-28T06:00:57'
+date: '2023-04-13T05:23:11'
 draft: false
 images:
 - /images/covers/obskuritatem-hronika_iz_mraka.jpg
@@ -20,3 +20,4 @@ title: Obskuritatem - Hronika Iz Mraka
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/obskuritatem-hronika-iz-mraka-12-lp) for $25.00
 ## Cassette
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=27396&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=33368&sort=pd.name&order=ASC) for $12.00
