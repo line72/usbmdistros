@@ -7,9 +7,9 @@ categories:
 date: '2023-04-05T05:15:33'
 draft: false
 images:
-- "/images/covers/s\xF3l_\xE1n_varma-s\xF3l_\xE1n_varma.png"
+- "/images/covers/s\xF3l_\xE1n_varma-s\xF3l_\xE1n_varma.jpg"
 inStock: true
-thumbnailImage: "/images/covers/s\xF3l_\xE1n_varma-s\xF3l_\xE1n_varma-thumb.png"
+thumbnailImage: "/images/covers/s\xF3l_\xE1n_varma-s\xF3l_\xE1n_varma-thumb.jpg"
 title: "S\xF3l \xE1n Varma - S\xF3l \xE1n Varma"
 ---
 

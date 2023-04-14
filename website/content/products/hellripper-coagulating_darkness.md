@@ -7,9 +7,9 @@ categories:
 date: '2023-04-13T05:14:00'
 draft: false
 images:
-- /images/covers/hellripper-coagulating_darkness.png
+- /images/covers/hellripper-coagulating_darkness.jpg
 inStock: true
-thumbnailImage: /images/covers/hellripper-coagulating_darkness-thumb.png
+thumbnailImage: /images/covers/hellripper-coagulating_darkness-thumb.jpg
 title: Hellripper - Coagulating Darkness
 ---
 

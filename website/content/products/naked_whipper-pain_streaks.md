@@ -4,8 +4,9 @@ album: Pain Streaks
 artist: Naked Whipper
 categories:
 - Vinyl
+- Cassette
 - CD
-date: '2022-11-30T06:10:11'
+date: '2023-04-14T05:22:52'
 draft: false
 images:
 - /images/covers/naked_whipper-pain_streaks.jpg
@@ -22,6 +23,8 @@ title: Naked Whipper - Pain Streaks
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=25714&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=27350&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29283&sort=pd.name&order=ASC) for $25.00
+## Cassette
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=33375&sort=pd.name&order=ASC) for $13.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=22210&sort=pd.name&order=ASC) for $12.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=23522&sort=pd.name&order=ASC) for $12.00

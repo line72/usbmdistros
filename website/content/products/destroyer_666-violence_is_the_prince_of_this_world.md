@@ -1,12 +1,12 @@
 ---
-actualPrice: $15.00 - 35.00
+actualPrice: $13.00 - 35.00
 album: Violence Is the Prince of This World
 artist: Destroyer 666
 categories:
 - Vinyl
 - Cassette
 - CD
-date: '2022-11-30T06:10:51'
+date: '2023-04-14T05:22:10'
 draft: false
 images:
 - /images/covers/destroyer_666-violence_is_the_prince_of_this_world.jpg
@@ -22,6 +22,7 @@ title: Destroyer 666 - Violence Is the Prince of This World
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=22911&sort=pd.name&order=ASC) for $15.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=23708&sort=pd.name&order=ASC) for $15.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=25129&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=33378&sort=pd.name&order=ASC) for $13.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=22908&sort=pd.name&order=ASC) for $15.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=23256&sort=pd.name&order=ASC) for $15.00

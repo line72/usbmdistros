@@ -5,7 +5,7 @@ artist: Kampfar
 categories:
 - Vinyl
 - CD
-date: '2022-11-30T06:10:07'
+date: '2023-04-14T05:13:59'
 draft: false
 images:
 - /images/covers/kampfar-kampfar.jpg
@@ -18,5 +18,6 @@ title: Kampfar - Kampfar
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/kampfar-kampfar-lp) for $25.00 :: Orange 2021 press vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=18849&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=19373&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=33372&sort=pd.name&order=ASC) for $25.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=18854&sort=pd.name&order=ASC) for $12.00

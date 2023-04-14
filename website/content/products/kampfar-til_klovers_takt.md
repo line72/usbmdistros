@@ -4,7 +4,7 @@ album: Til Klovers Takt
 artist: Kampfar
 categories:
 - Vinyl
-date: '2022-12-20T06:11:20'
+date: '2023-04-14T05:13:59'
 draft: false
 images:
 - /images/covers/kampfar-til_klovers_takt.jpg
@@ -15,3 +15,4 @@ title: Kampfar - Til Klovers Takt
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=30161&sort=pd.name&order=ASC) for $27.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=33373&sort=pd.name&order=ASC) for $27.00

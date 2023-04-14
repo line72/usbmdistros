@@ -5,7 +5,7 @@ artist: Irae
 categories:
 - Vinyl
 - Cassette
-date: '2022-12-08T06:09:59'
+date: '2023-04-14T05:24:20'
 draft: false
 images:
 - /images/covers/irae-lurking_in_the_depths.jpg
@@ -21,3 +21,4 @@ title: Irae - Lurking in the Depths
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29862&sort=pd.name&order=ASC) for $27.00
 ## Cassette
 * Purchase from [Sto'Vo'Kor Records](https://stovokor-records.com/products/irae-lurking-in-the-depths-cassette) for $7.50
+* Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/irae-lurking-in-the-depths-cassette/) for $8.00

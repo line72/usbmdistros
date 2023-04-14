@@ -4,8 +4,9 @@ album: Muspilli
 artist: Erzfeynd
 categories:
 - Vinyl
+- Cassette
 - CD
-date: '2022-12-09T06:14:03'
+date: '2023-04-14T05:22:16'
 draft: false
 images:
 - /images/covers/erzfeynd-muspilli.jpg
@@ -17,6 +18,8 @@ title: Erzfeynd - Muspilli
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=28149&sort=pd.name&order=ASC) for $27.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29889&sort=pd.name&order=ASC) for $27.00
+## Cassette
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=33377&sort=pd.name&order=ASC) for $15.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=28146&sort=pd.name&order=ASC) for $15.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=29888&sort=pd.name&order=ASC) for $15.00

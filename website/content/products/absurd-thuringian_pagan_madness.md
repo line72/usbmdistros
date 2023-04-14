@@ -1,10 +1,10 @@
 ---
-actualPrice: $13.00
+actualPrice: $12.00 - 13.00
 album: Thuringian Pagan Madness
 artist: Absurd
 categories:
 - Vinyl
-date: '2021-11-08T14:45:09'
+date: '2023-04-14T05:24:20'
 draft: false
 images:
 - /images/covers/absurd-thuringian_pagan_madness.jpg
@@ -15,3 +15,4 @@ title: Absurd - Thuringian Pagan Madness
 
 ## Vinyl
 * Purchase from [CW Productions](https://shop.cwproductions.net/products/absurd-thuringian-pagan-madness-7-ep-1) for $13.00
+* Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/absurd-thuringian-pagan-madness-7-ep/) for $12.00
