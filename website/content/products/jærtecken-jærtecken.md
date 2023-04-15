@@ -7,9 +7,9 @@ categories:
 date: '2022-11-30T06:10:07'
 draft: false
 images:
-- "/images/covers/j\xE6rtecken-j\xE6rtecken.png"
+- "/images/covers/j\xE6rtecken-j\xE6rtecken.jpg"
 inStock: true
-thumbnailImage: "/images/covers/j\xE6rtecken-j\xE6rtecken-thumb.png"
+thumbnailImage: "/images/covers/j\xE6rtecken-j\xE6rtecken-thumb.jpg"
 title: "J\xE6rtecken - J\xE6rtecken"
 ---
 
