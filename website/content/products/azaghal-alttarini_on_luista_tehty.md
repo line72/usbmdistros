@@ -4,7 +4,7 @@ album: Alttarini on Luista Tehty
 artist: Azaghal
 categories:
 - Vinyl
-date: '2023-03-26T05:11:33'
+date: '2023-04-19T05:13:53'
 draft: false
 images:
 - /images/covers/azaghal-alttarini_on_luista_tehty.jpg
@@ -15,3 +15,4 @@ title: Azaghal - Alttarini on Luista Tehty
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=32682&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=33555&sort=pd.name&order=ASC) for $25.00
