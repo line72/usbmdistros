@@ -18,7 +18,10 @@ class MetalToTheCore1986(Parser):
 
         page = 1
         while True:
-            r = requests.get(self.feed, params = {'page': page})
+            # Site blocks python-requests user-agent
+            #  pretent to be curl
+            headers = {'user-agent': 'curl/8.0.1'}
+            r = requests.get(self.feed, params = {'page': page}, headers = headers)
             r.raise_for_status()
             page += 1
 
