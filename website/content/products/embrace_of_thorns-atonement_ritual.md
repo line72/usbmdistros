@@ -4,7 +4,7 @@ album: Atonement Ritual
 artist: Embrace of Thorns
 categories:
 - Vinyl
-date: '2023-01-12T06:11:02'
+date: '2023-04-27T05:13:10'
 draft: false
 images:
 - /images/covers/embrace_of_thorns-atonement_ritual.jpg

@@ -5,7 +5,7 @@ artist: "N\xE4chtlich"
 categories:
 - Vinyl
 - CD
-date: '2023-04-02T05:00:37'
+date: '2023-04-27T05:13:18'
 draft: false
 images:
 - "/images/covers/n\xE4chtlich-third_ritual.jpg"

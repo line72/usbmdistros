@@ -6,7 +6,7 @@ categories:
 - Vinyl
 - Cassette
 - CD
-date: '2023-04-08T05:22:49'
+date: '2023-04-27T05:14:00'
 draft: false
 images:
 - /images/covers/lord_kaos-thorns_of_impurity.jpg

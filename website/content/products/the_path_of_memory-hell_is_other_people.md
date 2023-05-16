@@ -5,7 +5,7 @@ artist: The Path of Memory
 categories:
 - Vinyl
 - CD
-date: '2022-11-30T06:10:46'
+date: '2023-04-27T05:13:51'
 draft: false
 images:
 - /images/covers/the_path_of_memory-hell_is_other_people.jpg

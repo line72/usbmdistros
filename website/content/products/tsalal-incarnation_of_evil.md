@@ -4,7 +4,7 @@ album: Incarnation of Evil
 artist: Tsalal
 categories:
 - Cassette
-date: '2022-11-30T06:10:59'
+date: '2023-04-27T05:14:04'
 draft: false
 images:
 - /images/covers/tsalal-incarnation_of_evil.jpg

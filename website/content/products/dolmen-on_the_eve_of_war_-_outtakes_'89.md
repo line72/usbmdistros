@@ -5,7 +5,7 @@ artist: Dolmen
 categories:
 - Cassette
 - CD
-date: '2022-11-30T06:10:52'
+date: '2023-04-27T05:13:57'
 draft: false
 images:
 - /images/covers/dolmen-on_the_eve_of_war_-_outtakes_'89.png

@@ -4,7 +4,7 @@ album: Too Loud to Live, Too Drunk to Die
 artist: Gehennah
 categories:
 - Cassette
-date: '2022-11-30T06:10:53'
+date: '2023-04-27T05:13:58'
 draft: false
 images:
 - /images/covers/gehennah-too_loud_to_live,_too_drunk_to_die.png

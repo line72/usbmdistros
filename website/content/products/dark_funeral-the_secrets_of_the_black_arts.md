@@ -5,7 +5,7 @@ artist: Dark Funeral
 categories:
 - Vinyl
 - CD
-date: '2023-01-20T06:15:03'
+date: '2023-04-27T05:13:36'
 draft: false
 images:
 - /images/covers/dark_funeral-the_secrets_of_the_black_arts.jpg

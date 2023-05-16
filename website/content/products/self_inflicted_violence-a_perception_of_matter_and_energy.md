@@ -4,7 +4,7 @@ album: A Perception of Matter and Energy
 artist: Self Inflicted Violence
 categories:
 - Vinyl
-date: '2022-11-30T06:10:16'
+date: '2023-04-27T05:13:22'
 draft: false
 images:
 - /images/covers/self_inflicted_violence-a_perception_of_matter_and_energy.jpg

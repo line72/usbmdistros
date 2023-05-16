@@ -5,7 +5,7 @@ artist: Abigor
 categories:
 - Vinyl
 - CD
-date: '2022-11-30T06:10:27'
+date: '2023-04-27T05:13:32'
 draft: false
 images:
 - /images/covers/abigor-supreme_immortal_art.jpg

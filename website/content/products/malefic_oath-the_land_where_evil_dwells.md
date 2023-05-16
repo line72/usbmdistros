@@ -4,7 +4,7 @@ album: The Land Where Evil Dwells
 artist: Malefic Oath
 categories:
 - Vinyl
-date: '2022-12-08T06:10:10'
+date: '2023-04-27T05:13:15'
 draft: false
 images:
 - /images/covers/malefic_oath-the_land_where_evil_dwells.jpg

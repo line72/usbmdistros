@@ -4,7 +4,7 @@ album: The Siege Of Lachish
 artist: Melechesh
 categories:
 - Vinyl
-date: '2022-11-30T06:10:24'
+date: '2023-04-27T05:13:30'
 draft: false
 images:
 - /images/covers/melechesh-the_siege_of_lachish.png

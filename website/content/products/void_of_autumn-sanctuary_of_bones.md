@@ -4,7 +4,7 @@ album: Sanctuary Of Bones
 artist: Void Of Autumn
 categories:
 - Cassette
-date: '2022-11-30T06:11:00'
+date: '2023-04-27T05:14:05'
 draft: false
 images:
 - /images/covers/void_of_autumn-sanctuary_of_bones.jpg

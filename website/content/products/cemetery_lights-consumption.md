@@ -5,7 +5,7 @@ artist: Cemetery Lights
 categories:
 - Cassette
 - CD
-date: '2023-01-12T06:17:00'
+date: '2023-04-27T05:13:56'
 draft: false
 images:
 - /images/covers/cemetery_lights-consumption.jpg

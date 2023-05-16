@@ -4,7 +4,7 @@ album: The Alchemy of Cursed Blood
 artist: Lampir
 categories:
 - CD
-date: '2022-11-30T06:10:38'
+date: '2023-04-27T05:13:42'
 draft: false
 images:
 - /images/covers/lampir-the_alchemy_of_cursed_blood.jpg

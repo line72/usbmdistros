@@ -4,7 +4,7 @@ album: Stellar Deceit - Live In Oslo
 artist: Thorns
 categories:
 - Vinyl
-date: '2022-11-30T06:10:26'
+date: '2023-04-27T05:13:32'
 draft: false
 images:
 - /images/covers/thorns-stellar_deceit_-_live_in_oslo.jpg

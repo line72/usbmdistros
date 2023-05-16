@@ -4,7 +4,7 @@ album: Demo MMXVI
 artist: Voidnaga
 categories:
 - CD
-date: '2023-02-22T06:18:26'
+date: '2023-04-27T05:13:53'
 draft: false
 images:
 - /images/covers/voidnaga-demo_mmxvi.jpg

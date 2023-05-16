@@ -5,7 +5,7 @@ artist: Sabbat
 categories:
 - Vinyl
 - Cassette
-date: '2023-03-16T05:13:32'
+date: '2023-04-27T05:13:21'
 draft: false
 images:
 - /images/covers/sabbat-karmagmassacre.png

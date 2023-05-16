@@ -4,7 +4,7 @@ album: F.T.W.
 artist: Vargr
 categories:
 - Cassette
-date: '2023-04-12T05:23:12'
+date: '2023-04-27T05:14:05'
 draft: false
 images:
 - /images/covers/vargr-f.t.w..png

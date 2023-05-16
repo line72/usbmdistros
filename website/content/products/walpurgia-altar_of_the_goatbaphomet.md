@@ -6,7 +6,7 @@ categories:
 - Vinyl
 - Cassette
 - CD
-date: '2023-02-21T06:14:42'
+date: '2023-04-27T05:13:53'
 draft: false
 images:
 - /images/covers/walpurgia-altar_of_the_goatbaphomet.png

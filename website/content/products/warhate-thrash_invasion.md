@@ -6,7 +6,7 @@ categories:
 - Vinyl
 - Cassette
 - CD
-date: '2023-03-20T05:23:25'
+date: '2023-04-27T05:14:05'
 draft: false
 images:
 - /images/covers/warhate-thrash_invasion.jpg

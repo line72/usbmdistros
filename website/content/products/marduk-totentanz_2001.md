@@ -4,7 +4,7 @@ album: Totentanz 2001
 artist: Marduk
 categories:
 - Vinyl
-date: '2023-02-21T06:13:04'
+date: '2023-04-27T05:13:16'
 draft: false
 images:
 - /images/covers/marduk-totentanz_2001.png

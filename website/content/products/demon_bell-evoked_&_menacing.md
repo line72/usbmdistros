@@ -4,7 +4,7 @@ album: Evoked & Menacing
 artist: Demon Bell
 categories:
 - CD
-date: '2022-11-30T06:10:31'
+date: '2023-04-27T05:13:36'
 draft: false
 images:
 - /images/covers/demon_bell-evoked_&_menacing.jpg

@@ -4,7 +4,7 @@ album: Samblade Sotkvaeden
 artist: Tomhet
 categories:
 - CD
-date: '2023-02-22T06:18:13'
+date: '2023-04-27T05:13:51'
 draft: false
 images:
 - /images/covers/tomhet-samblade_sotkvaeden.jpg

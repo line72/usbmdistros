@@ -5,7 +5,7 @@ artist: Veneror
 categories:
 - Vinyl
 - CD
-date: '2022-11-30T06:10:47'
+date: '2023-04-27T05:13:52'
 draft: false
 images:
 - /images/covers/veneror-percussimus_foedus_cum_morte.jpg

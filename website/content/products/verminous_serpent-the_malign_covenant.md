@@ -5,7 +5,7 @@ artist: Verminous Serpent
 categories:
 - Vinyl
 - CD
-date: '2023-03-23T05:19:29'
+date: '2023-04-27T05:13:26'
 draft: false
 images:
 - /images/covers/verminous_serpent-the_malign_covenant.jpg

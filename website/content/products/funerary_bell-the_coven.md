@@ -5,7 +5,7 @@ artist: FUNERARY BELL
 categories:
 - Vinyl
 - CD
-date: '2023-04-04T05:18:03'
+date: '2023-04-27T05:13:11'
 draft: false
 images:
 - /images/covers/funerary_bell-the_coven.jpg

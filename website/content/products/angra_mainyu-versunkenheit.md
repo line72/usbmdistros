@@ -4,7 +4,7 @@ album: Versunkenheit
 artist: Angra Mainyu
 categories:
 - CD
-date: '2022-12-03T06:01:23'
+date: '2023-04-27T05:13:33'
 draft: false
 images:
 - /images/covers/angra_mainyu-versunkenheit.jpg

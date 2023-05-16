@@ -4,7 +4,7 @@ album: Echoes Of Battle
 artist: Caladan Brood
 categories:
 - Vinyl
-date: '2022-11-30T06:10:00'
+date: '2023-04-27T05:13:07'
 draft: false
 images:
 - /images/covers/caladan_brood-echoes_of_battle.jpg

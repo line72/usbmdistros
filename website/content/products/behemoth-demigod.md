@@ -4,7 +4,7 @@ album: Demigod
 artist: Behemoth
 categories:
 - CD
-date: '2023-02-22T06:15:35'
+date: '2023-04-27T05:13:34'
 draft: false
 images:
 - /images/covers/behemoth-demigod.jpg

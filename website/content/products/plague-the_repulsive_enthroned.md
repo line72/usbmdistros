@@ -4,7 +4,7 @@ album: The Repulsive Enthroned
 artist: Plague
 categories:
 - Cassette
-date: '2022-11-30T06:10:56'
+date: '2023-04-27T05:14:02'
 draft: false
 images:
 - /images/covers/plague-the_repulsive_enthroned.jpg

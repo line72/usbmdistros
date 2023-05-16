@@ -4,7 +4,7 @@ album: Cold Grave
 artist: Dom Dracul
 categories:
 - CD
-date: '2023-01-17T06:14:55'
+date: '2023-04-27T05:13:37'
 draft: false
 images:
 - /images/covers/dom_dracul-cold_grave.png

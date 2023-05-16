@@ -4,7 +4,7 @@ album: "Beast of the Foulest Depths\u200B/\u200BBolt of Satanic Might"
 artist: Pious Levus
 categories:
 - Cassette
-date: '2022-11-30T06:10:56'
+date: '2023-04-27T05:14:02'
 draft: false
 images:
 - "/images/covers/pious_levus-beast_of_the_foulest_depths\u200B-\u200Bbolt_of_satanic_might.jpg"

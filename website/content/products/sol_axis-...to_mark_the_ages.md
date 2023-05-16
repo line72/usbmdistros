@@ -4,7 +4,7 @@ album: '...To Mark the Ages'
 artist: Sol Axis
 categories:
 - Vinyl
-date: '2022-11-30T06:10:17'
+date: '2023-04-27T05:13:23'
 draft: false
 images:
 - /images/covers/sol_axis-...to_mark_the_ages.jpg

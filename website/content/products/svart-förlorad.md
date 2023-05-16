@@ -4,7 +4,7 @@ album: "F\xF6rlorad"
 artist: Svart
 categories:
 - CD
-date: '2023-04-08T05:21:04'
+date: '2023-04-27T05:13:50'
 draft: false
 images:
 - "/images/covers/svart-f\xF6rlorad.jpg"

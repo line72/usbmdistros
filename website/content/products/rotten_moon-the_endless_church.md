@@ -4,7 +4,7 @@ album: The Endless Church
 artist: Rotten Moon
 categories:
 - Vinyl
-date: '2023-01-27T06:16:07'
+date: '2023-04-27T05:13:21'
 draft: false
 images:
 - /images/covers/rotten_moon-the_endless_church.jpg

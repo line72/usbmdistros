@@ -4,7 +4,7 @@ album: The Dissociative Path
 artist: Ab Imo Pectore
 categories:
 - Vinyl
-date: '2022-11-30T06:09:56'
+date: '2023-04-27T05:13:02'
 draft: false
 images:
 - /images/covers/ab_imo_pectore-the_dissociative_path.jpg

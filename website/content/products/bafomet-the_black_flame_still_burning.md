@@ -4,7 +4,7 @@ album: The Black Flame Still Burning
 artist: Bafomet
 categories:
 - CD
-date: '2022-11-30T06:10:28'
+date: '2023-04-27T05:13:34'
 draft: false
 images:
 - /images/covers/bafomet-the_black_flame_still_burning.png

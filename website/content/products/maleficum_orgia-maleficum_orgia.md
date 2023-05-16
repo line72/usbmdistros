@@ -4,7 +4,7 @@ album: Maleficum Orgia
 artist: Maleficum Orgia
 categories:
 - CD
-date: '2022-11-30T06:10:38'
+date: '2023-04-27T05:13:44'
 draft: false
 images:
 - /images/covers/maleficum_orgia-maleficum_orgia.jpg

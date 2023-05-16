@@ -4,7 +4,7 @@ album: "Eth\xEArea"
 artist: "Cr\xEEss\xE4egr\xEEm"
 categories:
 - Cassette
-date: '2023-02-22T06:18:59'
+date: '2023-04-27T05:13:56'
 draft: false
 images:
 - "/images/covers/cr\xEEss\xE4egr\xEEm-eth\xEArea.jpg"

@@ -4,7 +4,7 @@ album: Ode To Acts Of Murder, Dystopia And Suicide
 artist: DEINONYCHUS
 categories:
 - Vinyl
-date: '2022-11-30T06:10:02'
+date: '2023-04-27T05:13:08'
 draft: false
 images:
 - /images/covers/deinonychus-ode_to_acts_of_murder,_dystopia_and_suicide.jpg

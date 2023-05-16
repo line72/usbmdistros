@@ -4,7 +4,7 @@ album: Ancient Insignias
 artist: Blasphemous Noise Torment
 categories:
 - Vinyl
-date: '2022-11-30T06:10:00'
+date: '2023-04-27T05:13:06'
 draft: false
 images:
 - /images/covers/blasphemous_noise_torment-ancient_insignias.jpg

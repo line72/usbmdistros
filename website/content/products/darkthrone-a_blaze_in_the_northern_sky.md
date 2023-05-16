@@ -4,7 +4,7 @@ album: A Blaze in the Northern Sky
 artist: Darkthrone
 categories:
 - Vinyl
-date: '2023-03-09T06:11:32'
+date: '2023-04-24T05:13:18'
 draft: false
 images:
 - /images/covers/darkthrone-a_blaze_in_the_northern_sky.jpg
@@ -36,3 +36,4 @@ title: Darkthrone - A Blaze in the Northern Sky
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29384&sort=pd.name&order=ASC) for $27.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=31151&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=31918&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=33640&sort=pd.name&order=ASC) for $25.00

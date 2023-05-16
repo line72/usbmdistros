@@ -6,7 +6,7 @@ categories:
 - Vinyl
 - Cassette
 - CD
-date: '2023-04-11T05:11:45'
+date: '2023-04-27T05:13:03'
 draft: false
 images:
 - /images/covers/archgoat-worship_the_eternal_darkness.jpg

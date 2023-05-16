@@ -4,7 +4,7 @@ album: De Vaendrig
 artist: WRANG
 categories:
 - Cassette
-date: '2023-01-17T06:19:06'
+date: '2023-04-27T05:14:06'
 draft: false
 images:
 - /images/covers/wrang-de_vaendrig.png

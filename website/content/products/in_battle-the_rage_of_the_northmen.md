@@ -4,7 +4,7 @@ album: The Rage Of The Northmen
 artist: In Battle
 categories:
 - Vinyl
-date: '2022-11-30T06:10:07'
+date: '2023-04-27T05:13:13'
 draft: false
 images:
 - /images/covers/in_battle-the_rage_of_the_northmen.jpg

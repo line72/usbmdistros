@@ -4,7 +4,7 @@ album: Horrid Efface
 artist: Terrorama
 categories:
 - Vinyl
-date: '2023-01-12T06:12:31'
+date: '2023-04-27T05:13:24'
 draft: false
 images:
 - /images/covers/terrorama-horrid_efface.jpg

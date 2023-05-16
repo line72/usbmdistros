@@ -5,7 +5,7 @@ artist: Bathory
 categories:
 - Vinyl
 - Cassette
-date: '2023-01-18T06:10:21'
+date: '2023-04-27T05:13:55'
 draft: false
 images:
 - /images/covers/bathory-bathory.jpg

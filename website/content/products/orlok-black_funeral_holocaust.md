@@ -4,7 +4,7 @@ album: Black Funeral Holocaust
 artist: Orlok
 categories:
 - Cassette
-date: '2022-12-31T06:01:21'
+date: '2023-04-27T05:14:01'
 draft: false
 images:
 - /images/covers/orlok-black_funeral_holocaust.png

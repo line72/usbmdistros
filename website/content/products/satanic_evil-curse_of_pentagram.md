@@ -4,7 +4,7 @@ album: Curse of Pentagram
 artist: Satanic Evil
 categories:
 - Vinyl
-date: '2023-01-12T06:12:16'
+date: '2023-04-27T05:13:22'
 draft: false
 images:
 - /images/covers/satanic_evil-curse_of_pentagram.jpg

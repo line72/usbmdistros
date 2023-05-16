@@ -4,7 +4,7 @@ album: now... you are his
 artist: HellHunter
 categories:
 - Vinyl
-date: '2022-11-30T06:10:06'
+date: '2023-04-27T05:13:13'
 draft: false
 images:
 - /images/covers/hellhunter-now..._you_are_his.jpg

@@ -4,7 +4,7 @@ album: Forest Of Omnot
 artist: Sempiternal
 categories:
 - Cassette
-date: '2022-11-30T06:10:57'
+date: '2023-04-27T05:14:03'
 draft: false
 images:
 - /images/covers/sempiternal-forest_of_omnot.jpg

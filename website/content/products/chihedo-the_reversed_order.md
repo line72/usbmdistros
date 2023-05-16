@@ -4,7 +4,7 @@ album: The Reversed Order
 artist: Chihedo
 categories:
 - Cassette
-date: '2022-12-27T06:16:40'
+date: '2023-04-27T05:13:56'
 draft: false
 images:
 - /images/covers/chihedo-the_reversed_order.jpg

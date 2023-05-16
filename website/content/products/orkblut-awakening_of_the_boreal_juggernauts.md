@@ -4,7 +4,7 @@ album: Awakening of the Boreal Juggernauts
 artist: Orkblut
 categories:
 - Vinyl
-date: '2022-11-30T06:10:25'
+date: '2023-04-27T05:13:31'
 draft: false
 images:
 - /images/covers/orkblut-awakening_of_the_boreal_juggernauts.jpg

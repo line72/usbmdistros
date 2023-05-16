@@ -4,7 +4,7 @@ album: "Fins a Reeixir Dins la Claror de l\u2019Amargor"
 artist: Amargor
 categories:
 - Cassette
-date: '2022-11-30T06:10:49'
+date: '2023-04-27T05:13:54'
 draft: false
 images:
 - "/images/covers/amargor-fins_a_reeixir_dins_la_claror_de_l\u2019amargor.jpg"

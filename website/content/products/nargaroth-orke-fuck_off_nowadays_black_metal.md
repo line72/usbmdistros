@@ -4,7 +4,7 @@ album: Orke/Fuck Off Nowadays Black Metal
 artist: Nargaroth
 categories:
 - CD
-date: '2022-11-30T06:10:40'
+date: '2023-04-27T05:13:46'
 draft: false
 images:
 - /images/covers/nargaroth-orke-fuck_off_nowadays_black_metal.jpg

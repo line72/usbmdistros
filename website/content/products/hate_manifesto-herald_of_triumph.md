@@ -6,7 +6,7 @@ categories:
 - Vinyl
 - Cassette
 - CD
-date: '2023-02-22T06:19:21'
+date: '2023-04-27T05:13:58'
 draft: false
 images:
 - /images/covers/hate_manifesto-herald_of_triumph.jpg

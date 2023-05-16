@@ -4,7 +4,7 @@ album: Espiritum/Aarseth
 artist: Aarseth
 categories:
 - CD
-date: '2023-03-30T05:16:40'
+date: '2023-04-27T05:13:32'
 draft: false
 images:
 - /images/covers/aarseth-espiritum-aarseth.jpg

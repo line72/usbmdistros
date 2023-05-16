@@ -4,7 +4,7 @@ album: Necroangels' Revelations
 artist: Balmog
 categories:
 - CD
-date: '2023-04-04T05:17:05'
+date: '2023-04-27T05:13:34'
 draft: false
 images:
 - /images/covers/balmog-necroangels'_revelations.jpg

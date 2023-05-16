@@ -4,7 +4,7 @@ album: Compilation
 artist: Earthly Form
 categories:
 - Vinyl
-date: '2023-03-18T05:15:15'
+date: '2023-04-27T05:13:29'
 draft: false
 images:
 - /images/covers/earthly_form-compilation.jpg

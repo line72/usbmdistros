@@ -4,7 +4,7 @@ album: Empire Of The Fallen Angel (Eternal Black Dominion)
 artist: Demoncy
 categories:
 - CD
-date: '2023-03-10T06:17:44'
+date: '2023-04-27T05:13:36'
 draft: false
 images:
 - /images/covers/demoncy-empire_of_the_fallen_angel_(eternal_black_dominion).jpg

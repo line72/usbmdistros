@@ -4,7 +4,7 @@ album: Savage War is Destiny
 artist: Caveman Cult
 categories:
 - CD
-date: '2023-03-22T05:16:40'
+date: '2023-04-27T05:13:35'
 draft: false
 images:
 - /images/covers/caveman_cult-savage_war_is_destiny.jpg

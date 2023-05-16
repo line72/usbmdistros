@@ -4,7 +4,7 @@ album: Pact
 artist: Exterminate
 categories:
 - Vinyl
-date: '2023-01-12T06:13:18'
+date: '2023-04-27T05:13:29'
 draft: false
 images:
 - /images/covers/exterminate-pact.jpg

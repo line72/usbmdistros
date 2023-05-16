@@ -4,7 +4,7 @@ album: Blood And Valour
 artist: Bestial Warlust
 categories:
 - CD
-date: '2023-03-28T05:16:55'
+date: '2023-04-27T05:13:34'
 draft: false
 images:
 - /images/covers/bestial_warlust-blood_and_valour.jpg

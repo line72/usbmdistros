@@ -4,7 +4,7 @@ album: "Aurora Borealis / Leve Viking\xE5nden"
 artist: Einherjer
 categories:
 - Vinyl
-date: '2023-01-02T06:27:07'
+date: '2023-04-27T05:13:10'
 draft: false
 images:
 - "/images/covers/einherjer-aurora_borealis_-_leve_viking\xE5nden.png"

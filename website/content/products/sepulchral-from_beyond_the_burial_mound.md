@@ -4,7 +4,7 @@ album: From Beyond The Burial Mound
 artist: Sepulchral
 categories:
 - Vinyl
-date: '2023-01-02T06:28:36'
+date: '2023-04-27T05:13:22'
 draft: false
 images:
 - /images/covers/sepulchral-from_beyond_the_burial_mound.jpg

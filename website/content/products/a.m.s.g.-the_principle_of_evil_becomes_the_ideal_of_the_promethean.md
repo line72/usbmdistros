@@ -4,7 +4,7 @@ album: The Principle Of Evil Becomes The Ideal Of The Promethean
 artist: A.M.S.G.
 categories:
 - CD
-date: '2022-11-30T06:10:26'
+date: '2023-04-27T05:13:32'
 draft: false
 images:
 - /images/covers/a.m.s.g.-the_principle_of_evil_becomes_the_ideal_of_the_promethean.jpg

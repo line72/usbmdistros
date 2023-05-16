@@ -5,7 +5,7 @@ artist: Blood Stronghold
 categories:
 - Vinyl
 - CD
-date: '2022-11-30T06:10:00'
+date: '2023-04-27T05:13:06'
 draft: false
 images:
 - /images/covers/blood_stronghold-the_triumph_of_wolfish_destiny.png

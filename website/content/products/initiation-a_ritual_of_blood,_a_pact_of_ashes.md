@@ -4,7 +4,7 @@ album: A Ritual of Blood, A Pact of Ashes
 artist: Initiation
 categories:
 - CD
-date: '2022-11-30T06:10:37'
+date: '2023-04-27T05:13:41'
 draft: false
 images:
 - /images/covers/initiation-a_ritual_of_blood,_a_pact_of_ashes.jpg

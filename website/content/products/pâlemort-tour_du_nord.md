@@ -4,7 +4,7 @@ album: Tour du Nord
 artist: "P\xE2lemort"
 categories:
 - CD
-date: '2023-01-17T06:16:18'
+date: '2023-04-27T05:13:47'
 draft: false
 images:
 - "/images/covers/p\xE2lemort-tour_du_nord.jpg"

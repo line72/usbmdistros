@@ -4,7 +4,7 @@ album: "W \u015Bnialni"
 artist: Furia
 categories:
 - Vinyl
-date: '2023-03-12T06:11:45'
+date: '2023-04-27T05:13:11'
 draft: false
 images:
 - "/images/covers/furia-w_\u015Bnialni.png"

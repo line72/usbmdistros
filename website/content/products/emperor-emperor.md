@@ -5,7 +5,7 @@ artist: Emperor
 categories:
 - Vinyl
 - Cassette
-date: '2023-04-19T05:14:52'
+date: '2023-04-27T05:13:10'
 draft: false
 images:
 - /images/covers/emperor-emperor.jpg

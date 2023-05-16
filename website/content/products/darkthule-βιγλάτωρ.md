@@ -4,7 +4,7 @@ album: "\u0392\u03B9\u03B3\u03BB\u03AC\u03C4\u03C9\u03C1"
 artist: Darkthule
 categories:
 - Vinyl
-date: '2023-04-18T05:13:36'
+date: '2023-04-27T05:13:08'
 draft: false
 images:
 - "/images/covers/darkthule-\u03B2\u03B9\u03B3\u03BB\u03AC\u03C4\u03C9\u03C1.jpg"

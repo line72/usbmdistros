@@ -4,7 +4,7 @@ album: Fire Burns In Our Hearts
 artist: CLANDESTINE BLAZE
 categories:
 - CD
-date: '2022-11-30T06:10:30'
+date: '2023-04-27T05:13:35'
 draft: false
 images:
 - /images/covers/clandestine_blaze-fire_burns_in_our_hearts.jpg

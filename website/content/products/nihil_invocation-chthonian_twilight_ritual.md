@@ -4,7 +4,7 @@ album: Chthonian Twilight Ritual
 artist: Nihil Invocation
 categories:
 - Cassette
-date: '2023-01-27T06:21:47'
+date: '2023-04-27T05:14:01'
 draft: false
 images:
 - /images/covers/nihil_invocation-chthonian_twilight_ritual.png

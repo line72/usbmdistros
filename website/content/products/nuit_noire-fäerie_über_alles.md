@@ -5,7 +5,7 @@ artist: Nuit Noire
 categories:
 - Vinyl
 - CD
-date: '2023-03-29T05:17:05'
+date: '2023-04-27T05:13:19'
 draft: false
 images:
 - "/images/covers/nuit_noire-f\xE4erie_\xFCber_alles.jpg"

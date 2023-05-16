@@ -4,7 +4,7 @@ album: "Livets \xC4ndh\xE5llplats"
 artist: Shining
 categories:
 - Vinyl
-date: '2023-01-05T06:13:29'
+date: '2023-04-27T05:13:22'
 draft: false
 images:
 - "/images/covers/shining-livets_\xE4ndh\xE5llplats.jpg"

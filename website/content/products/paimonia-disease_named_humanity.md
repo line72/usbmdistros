@@ -4,7 +4,7 @@ album: Disease Named Humanity
 artist: Paimonia
 categories:
 - CD
-date: '2022-11-30T06:10:42'
+date: '2023-04-27T05:13:47'
 draft: false
 images:
 - /images/covers/paimonia-disease_named_humanity.jpg

@@ -4,7 +4,7 @@ album: Sviga Lae
 artist: Arckanum
 categories:
 - CD
-date: '2022-11-30T06:10:28'
+date: '2023-05-02T05:17:29'
 draft: false
 images:
 - /images/covers/arckanum-sviga_lae.jpg
@@ -15,3 +15,4 @@ title: Arckanum - Sviga Lae
 
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=19901&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=33924&sort=pd.name&order=ASC) for $15.00

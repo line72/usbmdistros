@@ -4,7 +4,7 @@ album: Larvae Tedeum Teratos
 artist: Cenotafio
 categories:
 - Vinyl
-date: '2022-11-30T06:10:01'
+date: '2023-04-27T05:13:07'
 draft: false
 images:
 - /images/covers/cenotafio-larvae_tedeum_teratos.jpg

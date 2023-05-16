@@ -4,7 +4,7 @@ album: Abyssum Invocare
 artist: Arcanus Tenebrae
 categories:
 - Vinyl
-date: '2022-11-30T06:10:22'
+date: '2023-04-27T05:13:28'
 draft: false
 images:
 - /images/covers/arcanus_tenebrae-abyssum_invocare.jpg

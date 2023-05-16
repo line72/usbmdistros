@@ -4,7 +4,7 @@ album: Hets Mot Allt
 artist: The Third Eye Rapists
 categories:
 - Vinyl
-date: '2022-11-30T06:10:18'
+date: '2023-04-27T05:13:24'
 draft: false
 images:
 - /images/covers/the_third_eye_rapists-hets_mot_allt.jpg

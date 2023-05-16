@@ -4,7 +4,7 @@ album: 'Depths of Night: Collection of the Early Demo Tapes'
 artist: Nuit Noire
 categories:
 - CD
-date: '2023-03-31T05:19:51'
+date: '2023-04-27T05:13:46'
 draft: false
 images:
 - /images/covers/nuit_noire-depths_of_night:_collection_of_the_early_demo_tapes.png

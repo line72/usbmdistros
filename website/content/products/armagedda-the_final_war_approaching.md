@@ -5,7 +5,7 @@ artist: Armagedda
 categories:
 - Vinyl
 - CD
-date: '2023-03-25T05:15:43'
+date: '2023-04-27T05:13:34'
 draft: false
 images:
 - /images/covers/armagedda-the_final_war_approaching.jpg

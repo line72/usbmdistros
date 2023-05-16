@@ -4,7 +4,7 @@ album: Ritual Miasma
 artist: Ziggurat
 categories:
 - Vinyl
-date: '2023-03-07T14:05:10'
+date: '2023-04-27T05:13:28'
 draft: false
 images:
 - /images/covers/ziggurat-ritual_miasma.jpg

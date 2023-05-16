@@ -4,7 +4,7 @@ album: "Des Tr\xE9fonds Du Haut Bois"
 artist: Caverne
 categories:
 - Vinyl
-date: '2023-03-09T06:11:22'
+date: '2023-04-27T05:13:07'
 draft: false
 images:
 - "/images/covers/caverne-des_tr\xE9fonds_du_haut_bois.png"

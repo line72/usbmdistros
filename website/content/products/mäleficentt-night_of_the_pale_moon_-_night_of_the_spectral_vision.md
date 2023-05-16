@@ -4,7 +4,7 @@ album: Night of the Pale Moon / Night of the Spectral Vision
 artist: "M\xE4leficentt"
 categories:
 - Vinyl
-date: '2023-04-18T05:14:59'
+date: '2023-04-27T05:13:15'
 draft: false
 images:
 - "/images/covers/m\xE4leficentt-night_of_the_pale_moon_-_night_of_the_spectral_vision.jpg"

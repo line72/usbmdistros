@@ -5,7 +5,7 @@ artist: Deep Desolation
 categories:
 - Cassette
 - CD
-date: '2023-01-19T06:14:37'
+date: '2023-04-27T05:13:36'
 draft: false
 images:
 - /images/covers/deep_desolation-boski_jad.jpg

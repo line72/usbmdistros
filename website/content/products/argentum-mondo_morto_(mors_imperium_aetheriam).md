@@ -4,7 +4,7 @@ album: Mondo Morto (Mors Imperium Aetheriam)
 artist: Argentum
 categories:
 - CD
-date: '2023-03-01T06:19:58'
+date: '2023-05-09T05:16:50'
 draft: false
 images:
 - /images/covers/argentum-mondo_morto_(mors_imperium_aetheriam).jpg
@@ -17,3 +17,4 @@ title: Argentum - Mondo Morto (Mors Imperium Aetheriam)
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=16084&sort=pd.name&order=ASC) for $10.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=17096&sort=pd.name&order=ASC) for $10.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=31753&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=34155&sort=pd.name&order=ASC) for $12.00

@@ -4,7 +4,7 @@ album: Total Desecration Of Existence
 artist: Azelisassath
 categories:
 - Vinyl
-date: '2023-01-12T06:10:27'
+date: '2023-04-27T05:13:04'
 draft: false
 images:
 - /images/covers/azelisassath-total_desecration_of_existence.jpg

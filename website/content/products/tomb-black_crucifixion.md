@@ -4,7 +4,7 @@ album: Black Crucifixion
 artist: Tomb
 categories:
 - Vinyl
-date: '2023-04-19T05:18:48'
+date: '2023-04-27T05:13:32'
 draft: false
 images:
 - /images/covers/tomb-black_crucifixion.jpg

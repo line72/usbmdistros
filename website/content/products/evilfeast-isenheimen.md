@@ -4,7 +4,7 @@ album: Isenheimen
 artist: Evilfeast
 categories:
 - Vinyl
-date: '2023-03-24T05:12:23'
+date: '2023-05-15T05:12:51'
 draft: false
 images:
 - /images/covers/evilfeast-isenheimen.jpg
@@ -27,3 +27,5 @@ title: Evilfeast - Isenheimen
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=30433&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=30476&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=32615&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=34104&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=34393&sort=pd.name&order=ASC) for $25.00

@@ -5,7 +5,7 @@ artist: Absu
 categories:
 - Cassette
 - CD
-date: '2022-11-30T06:10:27'
+date: '2023-04-27T05:13:33'
 draft: false
 images:
 - /images/covers/absu-the_temples_of_offal_-_return_of_the_ancients.jpg

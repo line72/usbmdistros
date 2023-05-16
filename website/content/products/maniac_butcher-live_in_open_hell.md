@@ -4,7 +4,7 @@ album: Live in Open Hell
 artist: Maniac Butcher
 categories:
 - Vinyl
-date: '2022-11-30T06:10:09'
+date: '2023-04-27T05:13:16'
 draft: false
 images:
 - /images/covers/maniac_butcher-live_in_open_hell.jpg

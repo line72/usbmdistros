@@ -4,7 +4,7 @@ album: Black Metal Butchery
 artist: Ifernach
 categories:
 - CD
-date: '2023-02-18T06:15:50'
+date: '2023-04-27T05:13:41'
 draft: false
 images:
 - /images/covers/ifernach-black_metal_butchery.jpg

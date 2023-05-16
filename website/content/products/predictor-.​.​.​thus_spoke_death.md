@@ -4,7 +4,7 @@ album: ".\u200B.\u200B.\u200Bthus spoke death"
 artist: Predictor
 categories:
 - Cassette
-date: '2022-11-30T06:10:56'
+date: '2023-04-27T05:14:02'
 draft: false
 images:
 - "/images/covers/predictor-.\u200B.\u200B.\u200Bthus_spoke_death.jpg"

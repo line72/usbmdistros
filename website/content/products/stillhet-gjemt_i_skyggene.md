@@ -4,7 +4,7 @@ album: Gjemt i Skyggene
 artist: Stillhet
 categories:
 - CD
-date: '2023-03-31T05:20:34'
+date: '2023-04-27T05:13:50'
 draft: false
 images:
 - /images/covers/stillhet-gjemt_i_skyggene.jpg

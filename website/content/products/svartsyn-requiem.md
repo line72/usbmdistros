@@ -4,7 +4,7 @@ album: Requiem
 artist: Svartsyn
 categories:
 - Cassette
-date: '2022-11-30T06:10:58'
+date: '2023-04-27T05:14:04'
 draft: false
 images:
 - /images/covers/svartsyn-requiem.jpg

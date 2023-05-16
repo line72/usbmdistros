@@ -5,7 +5,7 @@ artist: Arkhon Infaustus
 categories:
 - Vinyl
 - CD
-date: '2023-04-11T05:11:46'
+date: '2023-04-27T05:13:33'
 draft: false
 images:
 - /images/covers/arkhon_infaustus-in_sperma_infernum.jpg

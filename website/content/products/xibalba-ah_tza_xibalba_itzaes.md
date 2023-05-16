@@ -5,7 +5,7 @@ artist: Xibalba
 categories:
 - Vinyl
 - CD
-date: '2023-01-12T06:13:00'
+date: '2023-04-27T05:13:28'
 draft: false
 images:
 - /images/covers/xibalba-ah_tza_xibalba_itzaes.jpg

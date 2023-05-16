@@ -4,7 +4,7 @@ album: Those Who Have Risen
 artist: Acheron
 categories:
 - CD
-date: '2022-11-30T06:10:27'
+date: '2023-04-27T05:13:33'
 draft: false
 images:
 - /images/covers/acheron-those_who_have_risen.jpg

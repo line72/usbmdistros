@@ -4,7 +4,7 @@ album: Rotten Demos
 artist: "Rattenk\xF6nig"
 categories:
 - CD
-date: '2022-11-30T06:10:43'
+date: '2023-04-27T05:13:48'
 draft: false
 images:
 - "/images/covers/rattenk\xF6nig-rotten_demos.png"

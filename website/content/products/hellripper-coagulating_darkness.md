@@ -4,7 +4,7 @@ album: Coagulating Darkness
 artist: Hellripper
 categories:
 - Vinyl
-date: '2023-04-13T05:14:00'
+date: '2023-04-27T05:13:13'
 draft: false
 images:
 - /images/covers/hellripper-coagulating_darkness.jpg

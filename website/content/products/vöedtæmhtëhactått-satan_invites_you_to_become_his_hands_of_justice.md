@@ -4,7 +4,7 @@ album: Satan Invites You To Become His Hands Of Justice
 artist: "V\xF6edt\xE6mht\xEBhact\xE5tt"
 categories:
 - Cassette
-date: '2022-11-30T06:11:00'
+date: '2023-04-27T05:14:05'
 draft: false
 images:
 - "/images/covers/v\xF6edt\xE6mht\xEBhact\xE5tt-satan_invites_you_to_become_his_hands_of_justice.jpg"

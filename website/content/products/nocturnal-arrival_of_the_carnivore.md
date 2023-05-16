@@ -4,7 +4,7 @@ album: Arrival of the Carnivore
 artist: Nocturnal
 categories:
 - Vinyl
-date: '2023-01-18T06:11:56'
+date: '2023-04-27T05:13:19'
 draft: false
 images:
 - /images/covers/nocturnal-arrival_of_the_carnivore.jpg

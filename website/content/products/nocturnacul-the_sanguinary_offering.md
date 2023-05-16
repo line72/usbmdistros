@@ -4,7 +4,7 @@ album: The Sanguinary Offering
 artist: Nocturnacul
 categories:
 - Cassette
-date: '2022-12-12T06:16:51'
+date: '2023-04-27T05:14:01'
 draft: false
 images:
 - /images/covers/nocturnacul-the_sanguinary_offering.jpg

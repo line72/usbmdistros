@@ -4,7 +4,7 @@ album: Demo
 artist: Heinous
 categories:
 - Vinyl
-date: '2023-01-21T06:11:40'
+date: '2023-04-27T05:13:12'
 draft: false
 images:
 - /images/covers/heinous-demo.jpg

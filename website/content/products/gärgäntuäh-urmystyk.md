@@ -6,7 +6,7 @@ categories:
 - Vinyl
 - Cassette
 - CD
-date: '2022-11-30T06:10:34'
+date: '2023-04-27T05:13:39'
 draft: false
 images:
 - "/images/covers/g\xE4rg\xE4ntu\xE4h-urmystyk.jpg"

@@ -4,7 +4,7 @@ album: Upheaval of Unholy Darkness
 artist: Set
 categories:
 - CD
-date: '2023-01-12T06:16:04'
+date: '2023-04-27T05:13:49'
 draft: false
 images:
 - /images/covers/set-upheaval_of_unholy_darkness.png

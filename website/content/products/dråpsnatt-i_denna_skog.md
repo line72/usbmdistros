@@ -5,7 +5,7 @@ artist: "Dr\xE5psnatt"
 categories:
 - Vinyl
 - CD
-date: '2022-11-30T06:10:32'
+date: '2023-04-27T05:13:09'
 draft: false
 images:
 - "/images/covers/dr\xE5psnatt-i_denna_skog.jpg"

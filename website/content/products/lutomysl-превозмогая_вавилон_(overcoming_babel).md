@@ -5,7 +5,7 @@ album: "\u041F\u0440\u0435\u0432\u043E\u0437\u043C\u043E\u0433\u0430\u044F \u041
 artist: Lutomysl
 categories:
 - CD
-date: '2023-04-11T05:20:48'
+date: '2023-04-27T05:13:44'
 draft: false
 images:
 - "/images/covers/lutomysl-\u043F\u0440\u0435\u0432\u043E\u0437\u043C\u043E\u0433\u0430\

@@ -4,7 +4,7 @@ album: Irkalla Transcendence
 artist: Agos
 categories:
 - Vinyl
-date: '2022-11-30T06:09:57'
+date: '2023-04-27T05:13:02'
 draft: false
 images:
 - /images/covers/agos-irkalla_transcendence.jpg

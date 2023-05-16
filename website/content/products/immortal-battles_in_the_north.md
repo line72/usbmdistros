@@ -5,7 +5,7 @@ artist: Immortal
 categories:
 - Vinyl
 - CD
-date: '2022-12-12T06:14:30'
+date: '2023-04-27T05:13:41'
 draft: false
 images:
 - /images/covers/immortal-battles_in_the_north.png

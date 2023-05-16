@@ -4,7 +4,7 @@ album: Purging Tongues
 artist: Teitanblood
 categories:
 - Vinyl
-date: '2023-03-28T05:15:04'
+date: '2023-04-27T05:13:24'
 draft: false
 images:
 - /images/covers/teitanblood-purging_tongues.jpg

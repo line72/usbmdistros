@@ -4,7 +4,7 @@ album: Relics
 artist: Shataan
 categories:
 - Vinyl
-date: '2023-04-12T05:15:15'
+date: '2023-04-27T05:13:22'
 draft: false
 images:
 - /images/covers/shataan-relics.jpg

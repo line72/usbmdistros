@@ -4,7 +4,7 @@ album: Infinite Visions of Violence
 artist: Altar of Gore
 categories:
 - CD
-date: '2023-03-22T05:16:17'
+date: '2023-04-27T05:13:33'
 draft: false
 images:
 - /images/covers/altar_of_gore-infinite_visions_of_violence.png

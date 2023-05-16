@@ -4,7 +4,7 @@ album: Burning Blood
 artist: Kill
 categories:
 - CD
-date: '2023-04-04T05:18:38'
+date: '2023-04-27T05:13:42'
 draft: false
 images:
 - /images/covers/kill-burning_blood.jpg

@@ -4,7 +4,7 @@ album: The Jackal Pact
 artist: Gorgon
 categories:
 - CD
-date: '2022-11-30T06:10:35'
+date: '2023-04-27T05:13:39'
 draft: false
 images:
 - /images/covers/gorgon-the_jackal_pact.jpg

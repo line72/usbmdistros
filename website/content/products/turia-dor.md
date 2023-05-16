@@ -5,7 +5,7 @@ artist: Turia
 categories:
 - Vinyl
 - CD
-date: '2023-04-04T05:20:16'
+date: '2023-04-27T05:13:51'
 draft: false
 images:
 - /images/covers/turia-dor.jpg

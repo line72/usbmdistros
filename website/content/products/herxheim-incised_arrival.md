@@ -5,7 +5,7 @@ artist: Herxheim
 categories:
 - Vinyl
 - CD
-date: '2023-03-21T05:12:29'
+date: '2023-04-27T05:13:40'
 draft: false
 images:
 - /images/covers/herxheim-incised_arrival.jpg

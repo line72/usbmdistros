@@ -4,7 +4,7 @@ album: 'VII: Fodd Forlorare'
 artist: Shining
 categories:
 - CD
-date: '2023-04-15T05:20:44'
+date: '2023-04-27T05:13:49'
 draft: false
 images:
 - /images/covers/shining-vii:_fodd_forlorare.jpg

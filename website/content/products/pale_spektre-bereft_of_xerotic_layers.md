@@ -5,7 +5,7 @@ artist: Pale Spektre
 categories:
 - Vinyl
 - Cassette
-date: '2023-03-30T05:26:12'
+date: '2023-04-27T05:14:01'
 draft: false
 images:
 - /images/covers/pale_spektre-bereft_of_xerotic_layers.jpg

@@ -4,7 +4,7 @@ album: Cursed Blood
 artist: Blood Rites
 categories:
 - Vinyl
-date: '2023-04-07T05:16:14'
+date: '2023-04-27T05:13:28'
 draft: false
 images:
 - /images/covers/blood_rites-cursed_blood.jpg

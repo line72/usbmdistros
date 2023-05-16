@@ -5,7 +5,7 @@ artist: Moonblood
 categories:
 - Vinyl
 - CD
-date: '2023-04-16T05:30:49'
+date: '2023-04-27T05:13:17'
 draft: false
 images:
 - /images/covers/moonblood-the_evil_rules.jpg

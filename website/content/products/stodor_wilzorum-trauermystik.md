@@ -4,7 +4,7 @@ album: Trauermystik
 artist: Stodor Wilzorum
 categories:
 - Vinyl
-date: '2023-02-17T06:14:22'
+date: '2023-04-27T05:13:23'
 draft: false
 images:
 - /images/covers/stodor_wilzorum-trauermystik.jpg

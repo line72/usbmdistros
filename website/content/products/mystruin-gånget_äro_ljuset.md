@@ -4,7 +4,7 @@ album: "G\xE5nget \xE4ro Ljuset"
 artist: Mystruin
 categories:
 - Vinyl
-date: '2022-11-30T06:10:11'
+date: '2023-04-27T05:13:18'
 draft: false
 images:
 - "/images/covers/mystruin-g\xE5nget_\xE4ro_ljuset.jpg"

@@ -4,7 +4,7 @@ album: Awakening of Nordic Storm
 artist: Diaboli
 categories:
 - Vinyl
-date: '2022-12-09T06:10:32'
+date: '2023-04-27T05:13:09'
 draft: false
 images:
 - /images/covers/diaboli-awakening_of_nordic_storm.jpg

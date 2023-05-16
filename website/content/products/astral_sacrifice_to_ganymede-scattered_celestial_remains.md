@@ -4,7 +4,7 @@ album: Scattered Celestial Remains
 artist: Astral Sacrifice to Ganymede
 categories:
 - Vinyl
-date: '2023-01-17T06:00:58'
+date: '2023-04-27T05:13:04'
 draft: false
 images:
 - /images/covers/astral_sacrifice_to_ganymede-scattered_celestial_remains.jpg

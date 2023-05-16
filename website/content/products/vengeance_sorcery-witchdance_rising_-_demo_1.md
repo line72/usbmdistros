@@ -4,7 +4,7 @@ album: Witchdance Rising - Demo 1
 artist: Vengeance Sorcery
 categories:
 - Cassette
-date: '2023-03-30T05:22:14'
+date: '2023-04-27T05:14:05'
 draft: false
 images:
 - /images/covers/vengeance_sorcery-witchdance_rising_-_demo_1.jpg

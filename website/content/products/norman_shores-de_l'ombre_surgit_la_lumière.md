@@ -4,7 +4,7 @@ album: "De L'ombre Surgit la Lumi\xE8re"
 artist: Norman Shores
 categories:
 - CD
-date: '2022-11-30T06:10:41'
+date: '2023-04-27T05:13:46'
 draft: false
 images:
 - "/images/covers/norman_shores-de_l'ombre_surgit_la_lumi\xE8re.jpg"

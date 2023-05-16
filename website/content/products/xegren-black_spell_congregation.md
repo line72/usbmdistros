@@ -4,7 +4,7 @@ album: Black Spell Congregation
 artist: Xegren
 categories:
 - Cassette
-date: '2023-02-22T06:20:31'
+date: '2023-04-27T05:14:06'
 draft: false
 images:
 - /images/covers/xegren-black_spell_congregation.jpg

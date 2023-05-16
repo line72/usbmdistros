@@ -4,7 +4,7 @@ album: I am the Void II
 artist: Cage Of Creation
 categories:
 - Vinyl
-date: '2022-11-30T06:10:00'
+date: '2023-04-27T05:13:07'
 draft: false
 images:
 - /images/covers/cage_of_creation-i_am_the_void_ii.jpg

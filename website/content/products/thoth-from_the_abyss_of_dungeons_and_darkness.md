@@ -5,7 +5,7 @@ artist: Thoth
 categories:
 - Vinyl
 - CD
-date: '2023-04-04T05:20:10'
+date: '2023-05-11T05:15:15'
 draft: false
 images:
 - /images/covers/thoth-from_the_abyss_of_dungeons_and_darkness.jpg
@@ -18,5 +18,6 @@ title: Thoth - From The Abyss Of Dungeons And Darkness
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=31402&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=32900&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=33002&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=34225&sort=pd.name&order=ASC) for $25.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=32999&sort=pd.name&order=ASC) for $12.00

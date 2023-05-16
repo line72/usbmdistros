@@ -5,7 +5,7 @@ artist: Order Of The Nameless Ones
 categories:
 - Vinyl
 - CD
-date: '2022-11-30T06:10:12'
+date: '2023-04-27T05:13:20'
 draft: false
 images:
 - /images/covers/order_of_the_nameless_ones-utter_to_me_the_word_of_wrath.jpg

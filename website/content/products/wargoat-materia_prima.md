@@ -4,7 +4,7 @@ album: Materia Prima
 artist: Wargoat
 categories:
 - Vinyl
-date: '2022-11-30T06:10:26'
+date: '2023-04-27T05:13:32'
 draft: false
 images:
 - /images/covers/wargoat-materia_prima.jpg

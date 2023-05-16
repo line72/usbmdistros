@@ -4,7 +4,7 @@ album: "Vola\xF0a Land"
 artist: "Draugs\xF3l"
 categories:
 - CD
-date: '2022-11-30T06:10:32'
+date: '2023-04-27T05:13:37'
 draft: false
 images:
 - "/images/covers/draugs\xF3l-vola\xF0a_land.jpg"

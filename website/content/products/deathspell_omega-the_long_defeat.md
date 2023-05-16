@@ -5,7 +5,7 @@ artist: Deathspell Omega
 categories:
 - Vinyl
 - CD
-date: '2023-03-20T05:13:52'
+date: '2023-04-27T05:13:08'
 draft: false
 images:
 - /images/covers/deathspell_omega-the_long_defeat.png

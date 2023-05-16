@@ -5,7 +5,7 @@ artist: Omenfilth
 categories:
 - Cassette
 - CD
-date: '2022-11-30T06:10:56'
+date: '2023-04-27T05:14:01'
 draft: false
 images:
 - /images/covers/omenfilth-devourer_of_the_seven_moons.jpg

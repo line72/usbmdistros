@@ -4,7 +4,7 @@ album: The Black Temple of Omniscent Manipulation
 artist: Virulent Specter
 categories:
 - CD
-date: '2022-11-30T06:10:47'
+date: '2023-04-27T05:13:53'
 draft: false
 images:
 - /images/covers/virulent_specter-the_black_temple_of_omniscent_manipulation.jpg

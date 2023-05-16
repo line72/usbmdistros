@@ -5,7 +5,7 @@ artist: Sect Pig
 categories:
 - Vinyl
 - CD
-date: '2023-01-12T06:16:03'
+date: '2023-04-27T05:13:49'
 draft: false
 images:
 - /images/covers/sect_pig-self_reversed.jpg

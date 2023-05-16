@@ -4,7 +4,7 @@ album: Surrender Unto Evil
 artist: Euronymous
 categories:
 - Cassette
-date: '2023-03-13T05:20:34'
+date: '2023-04-27T05:13:57'
 draft: false
 images:
 - /images/covers/euronymous-surrender_unto_evil.png

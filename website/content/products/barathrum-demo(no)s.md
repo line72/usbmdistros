@@ -5,7 +5,7 @@ artist: Barathrum
 categories:
 - Vinyl
 - CD
-date: '2023-04-01T05:17:34'
+date: '2023-04-27T05:13:34'
 draft: false
 images:
 - /images/covers/barathrum-demo(no)s.jpg

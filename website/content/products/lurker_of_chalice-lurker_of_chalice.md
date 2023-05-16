@@ -5,7 +5,7 @@ artist: Lurker Of Chalice
 categories:
 - Vinyl
 - CD
-date: '2023-01-12T06:11:36'
+date: '2023-04-27T05:13:15'
 draft: false
 images:
 - /images/covers/lurker_of_chalice-lurker_of_chalice.jpg

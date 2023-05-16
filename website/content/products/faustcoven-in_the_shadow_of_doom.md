@@ -5,7 +5,7 @@ artist: Faustcoven
 categories:
 - Vinyl
 - CD
-date: '2023-01-12T06:14:37'
+date: '2023-04-27T05:13:38'
 draft: false
 images:
 - /images/covers/faustcoven-in_the_shadow_of_doom.jpg

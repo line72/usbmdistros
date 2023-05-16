@@ -4,7 +4,7 @@ album: Paralys
 artist: Wulkanaz
 categories:
 - CD
-date: '2023-02-22T06:18:35'
+date: '2023-04-27T05:13:54'
 draft: false
 images:
 - /images/covers/wulkanaz-paralys.jpg

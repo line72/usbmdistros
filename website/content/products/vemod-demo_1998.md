@@ -4,7 +4,7 @@ album: Demo 1998
 artist: Vemod
 categories:
 - CD
-date: '2023-04-19T05:22:36'
+date: '2023-04-27T05:13:52'
 draft: false
 images:
 - /images/covers/vemod-demo_1998.jpg

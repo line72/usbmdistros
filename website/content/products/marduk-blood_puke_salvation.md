@@ -4,7 +4,7 @@ album: Blood Puke Salvation
 artist: Marduk
 categories:
 - CD
-date: '2022-11-30T06:10:39'
+date: '2023-04-27T05:13:44'
 draft: false
 images:
 - /images/covers/marduk-blood_puke_salvation.jpg

@@ -4,7 +4,7 @@ album: The Gospel of the Horned One
 artist: Countess
 categories:
 - CD
-date: '2022-11-30T06:10:30'
+date: '2023-04-27T05:13:36'
 draft: false
 images:
 - /images/covers/countess-the_gospel_of_the_horned_one.jpg

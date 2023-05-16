@@ -5,7 +5,7 @@ artist: Hellfire Deathcult
 categories:
 - Vinyl
 - CD
-date: '2023-02-17T06:12:44'
+date: '2023-04-27T05:13:40'
 draft: false
 images:
 - /images/covers/hellfire_deathcult-al_nombre_de_la_muerte.jpg

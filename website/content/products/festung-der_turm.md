@@ -4,7 +4,7 @@ album: Der Turm
 artist: Festung
 categories:
 - Vinyl
-date: '2023-02-01T06:11:48'
+date: '2023-04-27T05:13:10'
 draft: false
 images:
 - /images/covers/festung-der_turm.png

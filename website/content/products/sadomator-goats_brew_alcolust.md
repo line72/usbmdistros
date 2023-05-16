@@ -4,7 +4,7 @@ album: Goats Brew Alcolust
 artist: Sadomator
 categories:
 - CD
-date: '2023-04-08T05:20:42'
+date: '2023-04-27T05:13:49'
 draft: false
 images:
 - /images/covers/sadomator-goats_brew_alcolust.jpg

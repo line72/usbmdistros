@@ -4,7 +4,7 @@ album: MMXVII
 artist: "\xC6rek\xE6r"
 categories:
 - Vinyl
-date: '2022-11-30T06:10:21'
+date: '2023-04-27T05:13:28'
 draft: false
 images:
 - "/images/covers/\xE6rek\xE6r-mmxvii.png"

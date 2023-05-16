@@ -4,7 +4,7 @@ album: Past Times of Eternal Downfall
 artist: Azelisassath
 categories:
 - Vinyl
-date: '2023-01-12T06:10:27'
+date: '2023-04-27T05:13:04'
 draft: false
 images:
 - /images/covers/azelisassath-past_times_of_eternal_downfall.jpg

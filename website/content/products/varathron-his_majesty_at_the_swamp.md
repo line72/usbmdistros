@@ -4,7 +4,7 @@ album: His Majesty at the Swamp
 artist: Varathron
 categories:
 - Vinyl
-date: '2023-03-22T05:14:58'
+date: '2023-04-27T05:13:26'
 draft: false
 images:
 - /images/covers/varathron-his_majesty_at_the_swamp.jpg

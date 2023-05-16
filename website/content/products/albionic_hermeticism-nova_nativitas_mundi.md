@@ -4,7 +4,7 @@ album: Nova Nativitas Mundi
 artist: Albionic Hermeticism
 categories:
 - CD
-date: '2023-04-19T05:03:30'
+date: '2023-04-28T05:01:39'
 draft: false
 images:
 - /images/covers/albionic_hermeticism-nova_nativitas_mundi.jpg

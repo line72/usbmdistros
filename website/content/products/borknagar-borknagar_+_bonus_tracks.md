@@ -4,7 +4,7 @@ album: Borknagar + Bonus Tracks
 artist: Borknagar
 categories:
 - Vinyl
-date: '2022-11-30T06:10:00'
+date: '2023-04-27T05:13:06'
 draft: false
 images:
 - /images/covers/borknagar-borknagar_+_bonus_tracks.jpg

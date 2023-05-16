@@ -4,7 +4,7 @@ album: Trilogy of Apocryphal Torments
 artist: Ceremonial Torture
 categories:
 - CD
-date: '2023-03-16T05:17:54'
+date: '2023-04-27T05:13:35'
 draft: false
 images:
 - /images/covers/ceremonial_torture-trilogy_of_apocryphal_torments.jpg

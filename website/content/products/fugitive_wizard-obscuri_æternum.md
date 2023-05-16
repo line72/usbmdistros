@@ -4,7 +4,7 @@ album: "Obscuri \xC6ternum"
 artist: Fugitive Wizard
 categories:
 - Vinyl
-date: '2023-01-24T06:11:22'
+date: '2023-04-27T05:13:11'
 draft: false
 images:
 - "/images/covers/fugitive_wizard-obscuri_\xE6ternum.jpg"

@@ -4,7 +4,7 @@ album: Slonk
 artist: Alkerdeel
 categories:
 - Vinyl
-date: '2023-03-28T05:11:32'
+date: '2023-04-27T05:13:03'
 draft: false
 images:
 - /images/covers/alkerdeel-slonk.jpg

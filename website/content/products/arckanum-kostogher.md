@@ -5,7 +5,7 @@ artist: Arckanum
 categories:
 - Vinyl
 - CD
-date: '2022-11-24T06:10:17'
+date: '2023-05-02T05:17:29'
 draft: false
 images:
 - /images/covers/arckanum-kostogher.jpg
@@ -22,3 +22,4 @@ title: Arckanum - Kostogher
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=28947&sort=pd.name&order=ASC) for $28.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=19623&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=33944&sort=pd.name&order=ASC) for $15.00

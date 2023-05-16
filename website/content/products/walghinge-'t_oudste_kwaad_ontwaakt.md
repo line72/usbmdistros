@@ -4,7 +4,7 @@ album: '''t Oudste Kwaad Ontwaakt'
 artist: Walghinge
 categories:
 - Cassette
-date: '2023-03-26T05:22:01'
+date: '2023-04-27T05:14:05'
 draft: false
 images:
 - /images/covers/walghinge-'t_oudste_kwaad_ontwaakt.jpg

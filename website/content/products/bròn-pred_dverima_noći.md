@@ -5,7 +5,7 @@ artist: "Br\xF2n"
 categories:
 - Vinyl
 - CD
-date: '2022-11-30T06:10:29'
+date: '2023-04-27T05:13:35'
 draft: false
 images:
 - "/images/covers/br\xF2n-pred_dverima_no\u0107i.jpg"

@@ -4,7 +4,7 @@ album: The Green Enchanted Forest of the Druid Wizard-Extended
 artist: Ifernach
 categories:
 - CD
-date: '2023-02-18T06:15:50'
+date: '2023-04-27T05:13:41'
 draft: false
 images:
 - /images/covers/ifernach-the_green_enchanted_forest_of_the_druid_wizard-extended.jpg

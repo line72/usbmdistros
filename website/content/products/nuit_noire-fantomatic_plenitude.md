@@ -5,7 +5,7 @@ artist: Nuit Noire
 categories:
 - Vinyl
 - CD
-date: '2023-03-31T05:19:51'
+date: '2023-04-27T05:13:46'
 draft: false
 images:
 - /images/covers/nuit_noire-fantomatic_plenitude.jpg

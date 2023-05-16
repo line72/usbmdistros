@@ -5,7 +5,7 @@ artist: Goat Torment
 categories:
 - Vinyl
 - CD
-date: '2022-11-30T06:10:05'
+date: '2023-04-27T05:13:11'
 draft: false
 images:
 - /images/covers/goat_torment-dominande_tenebrae.jpg

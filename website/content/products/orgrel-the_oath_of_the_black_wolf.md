@@ -5,7 +5,7 @@ artist: Orgrel
 categories:
 - Vinyl
 - CD
-date: '2022-11-30T06:10:41'
+date: '2023-04-27T05:13:47'
 draft: false
 images:
 - /images/covers/orgrel-the_oath_of_the_black_wolf.jpg

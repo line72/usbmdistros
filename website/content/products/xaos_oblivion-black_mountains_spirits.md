@@ -4,7 +4,7 @@ album: Black Mountains Spirits
 artist: Xaos Oblivion
 categories:
 - CD
-date: '2022-11-30T06:10:48'
+date: '2023-04-27T05:13:54'
 draft: false
 images:
 - /images/covers/xaos_oblivion-black_mountains_spirits.jpg

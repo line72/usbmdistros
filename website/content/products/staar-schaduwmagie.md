@@ -4,7 +4,7 @@ album: Schaduwmagie
 artist: Staar
 categories:
 - CD
-date: '2023-01-17T06:16:47'
+date: '2023-04-27T05:13:50'
 draft: false
 images:
 - /images/covers/staar-schaduwmagie.jpg

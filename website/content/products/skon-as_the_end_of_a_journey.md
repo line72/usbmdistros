@@ -4,7 +4,7 @@ album: As the End of a Journey
 artist: Skon
 categories:
 - CD
-date: '2022-11-30T06:10:44'
+date: '2023-04-27T05:13:49'
 draft: false
 images:
 - /images/covers/skon-as_the_end_of_a_journey.png

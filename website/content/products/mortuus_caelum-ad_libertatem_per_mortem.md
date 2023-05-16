@@ -4,7 +4,7 @@ album: Ad Libertatem Per Mortem
 artist: Mortuus Caelum
 categories:
 - CD
-date: '2022-11-30T06:10:39'
+date: '2023-04-27T05:13:45'
 draft: false
 images:
 - /images/covers/mortuus_caelum-ad_libertatem_per_mortem.jpg

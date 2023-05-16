@@ -4,7 +4,7 @@ album: "Shokooh\u200B-\u200Be Mehr Va Atash"
 artist: Simorgh
 categories:
 - Vinyl
-date: '2023-04-19T05:17:09'
+date: '2023-04-27T05:13:22'
 draft: false
 images:
 - "/images/covers/simorgh-shokooh\u200B-\u200Be_mehr_va_atash.jpg"

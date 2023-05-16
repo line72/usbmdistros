@@ -4,7 +4,7 @@ album: "Ficci\xF3n, Lujuria Y Blasfemia / F.A.L."
 artist: Pactum
 categories:
 - CD
-date: '2022-11-30T06:10:42'
+date: '2023-04-27T05:13:47'
 draft: false
 images:
 - "/images/covers/pactum-ficci\xF3n,_lujuria_y_blasfemia_-_f.a.l..jpg"

@@ -5,7 +5,7 @@ artist: Malleus
 categories:
 - Vinyl
 - CD
-date: '2023-03-10T06:14:08'
+date: '2023-04-27T05:13:44'
 draft: false
 images:
 - /images/covers/malleus-storm_of_witchcraft.jpg

@@ -4,7 +4,7 @@ album: "Plujna Tw\xF3j Gr\xF3b"
 artist: Ignis Fatuus
 categories:
 - CD
-date: '2022-11-30T06:10:36'
+date: '2023-04-27T05:13:41'
 draft: false
 images:
 - "/images/covers/ignis_fatuus-plujna_tw\xF3j_gr\xF3b.jpg"

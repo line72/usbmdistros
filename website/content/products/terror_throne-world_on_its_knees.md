@@ -4,7 +4,7 @@ album: World on Its Knees
 artist: Terror Throne
 categories:
 - CD
-date: '2022-11-30T06:10:45'
+date: '2023-04-27T05:13:51'
 draft: false
 images:
 - /images/covers/terror_throne-world_on_its_knees.png

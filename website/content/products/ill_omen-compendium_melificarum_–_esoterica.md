@@ -4,7 +4,7 @@ album: "Compendium Melificarum \u2013 Esoterica"
 artist: Ill Omen
 categories:
 - CD
-date: '2023-01-12T06:14:58'
+date: '2023-04-27T05:13:41'
 draft: false
 images:
 - "/images/covers/ill_omen-compendium_melificarum_\u2013_esoterica.jpg"

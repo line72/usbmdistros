@@ -4,7 +4,7 @@ album: "Dj\u200B\xE4\u200Bvulens Musik"
 artist: Tyrann
 categories:
 - Vinyl
-date: '2023-03-29T05:18:11'
+date: '2023-04-27T05:13:25'
 draft: false
 images:
 - "/images/covers/tyrann-dj\u200B\xE4\u200Bvulens_musik.jpg"

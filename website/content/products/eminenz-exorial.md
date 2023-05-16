@@ -4,7 +4,7 @@ album: Exorial
 artist: Eminenz
 categories:
 - Vinyl
-date: '2023-01-05T06:11:54'
+date: '2023-04-27T05:13:10'
 draft: false
 images:
 - /images/covers/eminenz-exorial.jpg

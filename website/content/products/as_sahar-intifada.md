@@ -4,7 +4,7 @@ album: Intifada
 artist: As Sahar
 categories:
 - Vinyl
-date: '2023-04-07T05:11:54'
+date: '2023-04-27T05:13:04'
 draft: false
 images:
 - /images/covers/as_sahar-intifada.jpg

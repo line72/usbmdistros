@@ -4,7 +4,7 @@ album: The Tools of the Trade
 artist: Nocturnal Breed
 categories:
 - CD
-date: '2022-11-30T06:10:41'
+date: '2023-04-27T05:13:46'
 draft: false
 images:
 - /images/covers/nocturnal_breed-the_tools_of_the_trade.jpg

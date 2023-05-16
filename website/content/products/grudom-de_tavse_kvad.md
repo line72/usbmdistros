@@ -4,7 +4,7 @@ album: De Tavse Kvad
 artist: Grudom
 categories:
 - CD
-date: '2023-04-11T05:20:13'
+date: '2023-04-27T05:13:39'
 draft: false
 images:
 - /images/covers/grudom-de_tavse_kvad.jpg

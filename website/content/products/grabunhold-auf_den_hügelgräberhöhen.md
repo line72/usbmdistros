@@ -5,7 +5,7 @@ artist: Grabunhold
 categories:
 - Vinyl
 - CD
-date: '2022-12-31T06:14:19'
+date: '2023-04-27T05:13:39'
 draft: false
 images:
 - "/images/covers/grabunhold-auf_den_h\xFCgelgr\xE4berh\xF6hen.jpg"

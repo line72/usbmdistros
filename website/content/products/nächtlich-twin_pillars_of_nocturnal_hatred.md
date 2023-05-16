@@ -4,7 +4,7 @@ album: Twin Pillars of Nocturnal Hatred
 artist: "N\xE4chtlich"
 categories:
 - Vinyl
-date: '2023-01-26T06:14:52'
+date: '2023-04-27T05:13:18'
 draft: false
 images:
 - "/images/covers/n\xE4chtlich-twin_pillars_of_nocturnal_hatred.jpg"

@@ -4,7 +4,7 @@ album: Seventh Circle of Hell
 artist: The Nefarious Integration
 categories:
 - Cassette
-date: '2022-11-30T06:10:58'
+date: '2023-04-27T05:14:04'
 draft: false
 images:
 - /images/covers/the_nefarious_integration-seventh_circle_of_hell.jpg

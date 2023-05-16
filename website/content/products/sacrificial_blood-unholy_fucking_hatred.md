@@ -4,7 +4,7 @@ album: Unholy Fucking Hatred
 artist: Sacrificial Blood
 categories:
 - CD
-date: '2022-11-30T06:10:43'
+date: '2023-04-27T05:13:48'
 draft: false
 images:
 - /images/covers/sacrificial_blood-unholy_fucking_hatred.png

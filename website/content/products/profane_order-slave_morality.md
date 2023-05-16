@@ -5,7 +5,7 @@ artist: Profane Order
 categories:
 - Vinyl
 - CD
-date: '2023-03-28T05:19:05'
+date: '2023-04-27T05:13:48'
 draft: false
 images:
 - /images/covers/profane_order-slave_morality.jpg

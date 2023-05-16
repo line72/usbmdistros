@@ -5,7 +5,7 @@ artist: Forgotten Darkness
 categories:
 - Vinyl
 - CD
-date: '2022-11-30T06:10:34'
+date: '2023-04-27T05:13:39'
 draft: false
 images:
 - /images/covers/forgotten_darkness-nacht_aus_blut.jpg

@@ -4,7 +4,7 @@ album: Eastern Darkness
 artist: Sigh
 categories:
 - Vinyl
-date: '2023-02-03T06:13:09'
+date: '2023-04-27T05:13:22'
 draft: false
 images:
 - /images/covers/sigh-eastern_darkness.jpg
@@ -16,3 +16,4 @@ title: Sigh - Eastern Darkness
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=27997&sort=pd.name&order=ASC) for $27.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=31188&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=33768&sort=pd.name&order=ASC) for $25.00

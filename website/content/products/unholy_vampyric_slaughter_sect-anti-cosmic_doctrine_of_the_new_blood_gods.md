@@ -4,7 +4,7 @@ album: Anti-Cosmic Doctrine Of The New Blood Gods
 artist: Unholy Vampyric Slaughter Sect
 categories:
 - Vinyl
-date: '2023-01-07T06:12:54'
+date: '2023-04-27T05:13:25'
 draft: false
 images:
 - /images/covers/unholy_vampyric_slaughter_sect-anti-cosmic_doctrine_of_the_new_blood_gods.jpg

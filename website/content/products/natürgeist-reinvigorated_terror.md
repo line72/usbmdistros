@@ -5,7 +5,7 @@ artist: "Nat\xFCrgeist"
 categories:
 - Vinyl
 - Cassette
-date: '2022-11-30T06:10:24'
+date: '2023-04-27T05:13:31'
 draft: false
 images:
 - "/images/covers/nat\xFCrgeist-reinvigorated_terror.jpg"

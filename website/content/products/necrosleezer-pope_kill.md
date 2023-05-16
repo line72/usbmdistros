@@ -1,10 +1,11 @@
 ---
-actualPrice: $17.00
+actualPrice: $10.00 - 17.00
 album: Pope Kill
 artist: Necrosleezer
 categories:
 - Vinyl
-date: '2023-01-12T06:11:54'
+- Cassette
+date: '2023-05-16T20:20:40'
 draft: false
 images:
 - /images/covers/necrosleezer-pope_kill.jpg
@@ -15,3 +16,5 @@ title: Necrosleezer - Pope Kill
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=4318&sort=pd.name&order=ASC) for $17.00
+## Cassette
+* Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/necrosleezer-pope-kill-cassette/) for $10.00

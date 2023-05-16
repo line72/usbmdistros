@@ -4,7 +4,7 @@ album: Energy - Freedom
 artist: Svyatogor
 categories:
 - CD
-date: '2022-11-30T06:10:45'
+date: '2023-04-27T05:13:50'
 draft: false
 images:
 - /images/covers/svyatogor-energy_-_freedom.png

@@ -4,7 +4,7 @@ album: Archegonic Abysmal Dominion
 artist: Varathron
 categories:
 - Cassette
-date: '2023-01-23T06:18:31'
+date: '2023-04-27T05:14:05'
 draft: false
 images:
 - /images/covers/varathron-archegonic_abysmal_dominion.jpg

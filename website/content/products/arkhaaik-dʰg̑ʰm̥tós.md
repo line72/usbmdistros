@@ -5,7 +5,7 @@ artist: Arkhaaik
 categories:
 - Vinyl
 - CD
-date: '2022-11-30T06:10:28'
+date: '2023-04-27T05:13:33'
 draft: false
 images:
 - "/images/covers/arkhaaik-d\u02B0g\u0311\u02B0m\u0325to\u0301s.jpg"

@@ -4,7 +4,7 @@ album: Mouth of Madness
 artist: Mouth of Madness
 categories:
 - Cassette
-date: '2022-11-30T06:10:55'
+date: '2023-04-27T05:14:00'
 draft: false
 images:
 - /images/covers/mouth_of_madness-mouth_of_madness.jpg

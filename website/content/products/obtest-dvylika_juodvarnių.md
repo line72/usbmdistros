@@ -4,7 +4,7 @@ album: "Dvylika Juodvarni\u0173"
 artist: Obtest
 categories:
 - Vinyl
-date: '2022-11-30T06:10:25'
+date: '2023-04-27T05:13:31'
 draft: false
 images:
 - "/images/covers/obtest-dvylika_juodvarni\u0173.jpg"

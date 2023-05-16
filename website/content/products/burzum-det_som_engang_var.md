@@ -4,7 +4,7 @@ album: Det Som Engang Var
 artist: Burzum
 categories:
 - Vinyl
-date: '2023-04-04T05:12:05'
+date: '2023-04-21T05:12:46'
 draft: false
 images:
 - /images/covers/burzum-det_som_engang_var.jpg
@@ -21,3 +21,4 @@ title: Burzum - Det Som Engang Var
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=32253&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=32842&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=32964&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=33610&sort=pd.name&order=ASC) for $25.00

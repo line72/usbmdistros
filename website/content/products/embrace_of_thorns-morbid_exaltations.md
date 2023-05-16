@@ -5,7 +5,7 @@ artist: Embrace of Thorns
 categories:
 - Vinyl
 - CD
-date: '2022-11-30T06:10:03'
+date: '2023-04-27T05:13:10'
 draft: false
 images:
 - /images/covers/embrace_of_thorns-morbid_exaltations.jpg

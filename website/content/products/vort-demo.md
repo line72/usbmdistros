@@ -4,7 +4,7 @@ album: Demo
 artist: Vort
 categories:
 - Vinyl
-date: '2022-12-09T06:13:15'
+date: '2023-04-27T05:13:32'
 draft: false
 images:
 - /images/covers/vort-demo.jpg

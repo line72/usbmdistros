@@ -4,7 +4,7 @@ album: The Shapeless Mass
 artist: Denial of God
 categories:
 - CD
-date: '2022-11-30T06:10:31'
+date: '2023-04-27T05:13:36'
 draft: false
 images:
 - /images/covers/denial_of_god-the_shapeless_mass.jpg

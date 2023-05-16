@@ -5,7 +5,7 @@ artist: Doomsayer
 categories:
 - Vinyl
 - CD
-date: '2023-03-19T05:03:08'
+date: '2023-04-27T05:13:09'
 draft: false
 images:
 - /images/covers/doomsayer-awake_in_darkness.png

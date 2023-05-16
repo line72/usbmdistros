@@ -4,7 +4,7 @@ album: "S\xE6ti S\xE1larinnar"
 artist: Illkynja
 categories:
 - Vinyl
-date: '2022-11-30T06:10:07'
+date: '2023-04-27T05:13:13'
 draft: false
 images:
 - "/images/covers/illkynja-s\xE6ti_s\xE1larinnar.jpg"

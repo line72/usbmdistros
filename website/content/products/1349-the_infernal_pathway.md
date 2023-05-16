@@ -4,7 +4,7 @@ album: The Infernal Pathway
 artist: '1349'
 categories:
 - Vinyl
-date: '2023-04-11T05:11:28'
+date: '2023-04-27T05:13:02'
 draft: false
 images:
 - /images/covers/1349-the_infernal_pathway.jpg

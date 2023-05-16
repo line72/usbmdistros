@@ -4,7 +4,7 @@ album: Cthonium Chants From An Infamous Past
 artist: Cthonium / Osculum Infame
 categories:
 - CD
-date: '2022-11-30T06:10:30'
+date: '2023-04-27T05:13:36'
 draft: false
 images:
 - /images/covers/cthonium_-_osculum_infame-cthonium_chants_from_an_infamous_past.png

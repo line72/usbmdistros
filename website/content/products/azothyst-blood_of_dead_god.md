@@ -5,7 +5,7 @@ artist: Azothyst
 categories:
 - Vinyl
 - Cassette
-date: '2023-03-02T06:12:44'
+date: '2023-04-27T05:13:55'
 draft: false
 images:
 - /images/covers/azothyst-blood_of_dead_god.jpg

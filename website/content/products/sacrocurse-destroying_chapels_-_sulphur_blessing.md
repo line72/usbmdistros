@@ -4,7 +4,7 @@ album: Destroying Chapels / Sulphur Blessing
 artist: Sacrocurse
 categories:
 - CD
-date: '2023-02-02T06:16:36'
+date: '2023-04-27T05:13:48'
 draft: false
 images:
 - /images/covers/sacrocurse-destroying_chapels_-_sulphur_blessing.png

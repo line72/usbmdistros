@@ -5,7 +5,7 @@ artist: Schavot
 categories:
 - Vinyl
 - Cassette
-date: '2022-12-24T06:13:56'
+date: '2023-04-27T05:14:03'
 draft: false
 images:
 - /images/covers/schavot-galgenbrok.jpg

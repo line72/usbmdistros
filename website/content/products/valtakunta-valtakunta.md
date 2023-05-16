@@ -4,7 +4,7 @@ album: Valtakunta
 artist: Valtakunta
 categories:
 - CD
-date: '2023-04-11T05:22:29'
+date: '2023-04-27T05:13:52'
 draft: false
 images:
 - /images/covers/valtakunta-valtakunta.png

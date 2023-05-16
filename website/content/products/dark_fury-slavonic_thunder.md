@@ -5,7 +5,7 @@ artist: Dark Fury
 categories:
 - Vinyl
 - CD
-date: '2022-12-29T06:26:46'
+date: '2023-05-16T20:32:20'
 draft: false
 images:
 - /images/covers/dark_fury-slavonic_thunder.jpg
@@ -17,5 +17,6 @@ title: Dark Fury - Slavonic Thunder
 ## Vinyl
 * Purchase from [CW Productions](https://shop.cwproductions.net/products/dark-fury-slavonic-thunder-lp) for $22.00
 * Purchase from [CW Productions](https://shop.cwproductions.net/products/dark-fury-slavonic-thunder-lp-1) for $22.00
+* Purchase from [CW Productions](https://shop.cwproductions.net/products/dark-fury-slavonic-thunder-lp-2) for $22.00
 ## CD
 * Purchase from [CW Productions](https://shop.cwproductions.net/products/dark-fury-slavonic-thunder-cd) for $10.00

@@ -4,7 +4,7 @@ album: "M\xFAspellzheimr"
 artist: "M\xFAspellzheimr"
 categories:
 - Vinyl
-date: '2022-11-30T06:10:10'
+date: '2023-04-27T05:13:18'
 draft: false
 images:
 - "/images/covers/m\xFAspellzheimr-m\xFAspellzheimr.jpg"

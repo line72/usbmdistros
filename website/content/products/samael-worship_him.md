@@ -5,7 +5,7 @@ artist: Samael
 categories:
 - Vinyl
 - CD
-date: '2023-03-03T06:18:25'
+date: '2023-04-27T05:13:49'
 draft: false
 images:
 - /images/covers/samael-worship_him.jpg

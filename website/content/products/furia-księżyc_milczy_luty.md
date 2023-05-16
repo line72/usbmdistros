@@ -4,7 +4,7 @@ album: "Ksi\u0119\u017Cyc Milczy Luty"
 artist: Furia
 categories:
 - Vinyl
-date: '2023-03-13T05:12:56'
+date: '2023-04-27T05:13:11'
 draft: false
 images:
 - "/images/covers/furia-ksi\u0119\u017Cyc_milczy_luty.jpg"

@@ -4,7 +4,7 @@ album: Doomsday
 artist: Xenophobia
 categories:
 - Cassette
-date: '2023-03-13T05:21:59'
+date: '2023-04-27T05:14:06'
 draft: false
 images:
 - /images/covers/xenophobia-doomsday.png

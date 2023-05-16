@@ -4,7 +4,7 @@ album: De Dunklas Sorgeakt
 artist: "Bek\xEBth Nex\xEBhm\xFC"
 categories:
 - CD
-date: '2023-03-24T05:16:30'
+date: '2023-04-27T05:13:34'
 draft: false
 images:
 - "/images/covers/bek\xEBth_nex\xEBhm\xFC-de_dunklas_sorgeakt.jpg"

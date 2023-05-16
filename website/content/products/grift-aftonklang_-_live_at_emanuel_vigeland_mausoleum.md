@@ -4,7 +4,7 @@ album: Aftonklang - Live at Emanuel Vigeland Mausoleum
 artist: Grift
 categories:
 - CD
-date: '2022-11-30T06:10:35'
+date: '2023-04-27T05:13:39'
 draft: false
 images:
 - /images/covers/grift-aftonklang_-_live_at_emanuel_vigeland_mausoleum.jpg

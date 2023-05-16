@@ -4,7 +4,7 @@ album: Winds of Hell
 artist: Funerary Pit
 categories:
 - Vinyl
-date: '2023-01-12T06:13:19'
+date: '2023-04-27T05:13:30'
 draft: false
 images:
 - /images/covers/funerary_pit-winds_of_hell.jpg

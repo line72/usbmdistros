@@ -4,7 +4,7 @@ album: Unland Spidercult
 artist: Death Citadel
 categories:
 - CD
-date: '2023-03-31T05:18:05'
+date: '2023-04-27T05:13:36'
 draft: false
 images:
 - /images/covers/death_citadel-unland_spidercult.jpg

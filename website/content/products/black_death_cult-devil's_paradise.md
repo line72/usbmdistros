@@ -4,7 +4,7 @@ album: Devil's Paradise
 artist: Black Death Cult
 categories:
 - Vinyl
-date: '2022-12-30T06:10:42'
+date: '2023-04-27T05:13:05'
 draft: false
 images:
 - /images/covers/black_death_cult-devil's_paradise.jpg

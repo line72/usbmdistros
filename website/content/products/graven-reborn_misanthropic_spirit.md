@@ -4,7 +4,7 @@ album: Reborn Misanthropic Spirit
 artist: Graven
 categories:
 - Vinyl
-date: '2023-04-10T05:15:07'
+date: '2023-04-27T05:13:12'
 draft: false
 images:
 - /images/covers/graven-reborn_misanthropic_spirit.jpg

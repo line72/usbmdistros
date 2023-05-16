@@ -4,7 +4,7 @@ album: Diabolis Interium
 artist: Dark Funeral
 categories:
 - Vinyl
-date: '2023-01-20T06:11:13'
+date: '2023-04-27T05:13:08'
 draft: false
 images:
 - /images/covers/dark_funeral-diabolis_interium.png

@@ -4,7 +4,7 @@ album: Demo 2
 artist: Belial
 categories:
 - Cassette
-date: '2023-03-13T05:20:11'
+date: '2023-04-27T05:13:55'
 draft: false
 images:
 - /images/covers/belial-demo_2.png

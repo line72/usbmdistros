@@ -4,7 +4,7 @@ album: At The Arena Ov Aion
 artist: Behemoth
 categories:
 - CD
-date: '2022-11-30T06:10:28'
+date: '2023-04-27T05:13:34'
 draft: false
 images:
 - /images/covers/behemoth-at_the_arena_ov_aion.jpg

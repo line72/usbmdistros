@@ -4,7 +4,7 @@ album: Perverted Ceremony
 artist: Perverted Ceremony
 categories:
 - Vinyl
-date: '2023-01-19T06:12:13'
+date: '2023-04-27T05:13:20'
 draft: false
 images:
 - /images/covers/perverted_ceremony-perverted_ceremony.png

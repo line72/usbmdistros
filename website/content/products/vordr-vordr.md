@@ -4,7 +4,7 @@ album: Vordr
 artist: Vordr
 categories:
 - Vinyl
-date: '2023-03-22T05:15:07'
+date: '2023-04-27T05:13:32'
 draft: false
 images:
 - /images/covers/vordr-vordr.jpg

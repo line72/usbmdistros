@@ -4,7 +4,7 @@ album: Amphisbaena E.P. MMXVI
 artist: Amphisbaena
 categories:
 - Vinyl
-date: '2022-11-30T06:09:57'
+date: '2023-04-27T05:13:03'
 draft: false
 images:
 - /images/covers/amphisbaena-amphisbaena_e.p._mmxvi.jpg

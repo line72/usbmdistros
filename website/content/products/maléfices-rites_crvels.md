@@ -4,7 +4,7 @@ album: Rites Crvels
 artist: "Mal\xE9fices"
 categories:
 - Vinyl
-date: '2022-11-30T06:10:09'
+date: '2023-04-27T05:13:16'
 draft: false
 images:
 - "/images/covers/mal\xE9fices-rites_crvels.jpg"

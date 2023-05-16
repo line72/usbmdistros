@@ -4,7 +4,7 @@ album: Ofermodian Litanies
 artist: Ofermod
 categories:
 - Vinyl
-date: '2023-02-22T06:13:13'
+date: '2023-04-27T05:13:19'
 draft: false
 images:
 - /images/covers/ofermod-ofermodian_litanies.jpg

@@ -4,7 +4,7 @@ album: Stigma Mortuorum
 artist: Argentum
 categories:
 - CD
-date: '2023-03-01T06:19:58'
+date: '2023-05-09T05:16:50'
 draft: false
 images:
 - /images/covers/argentum-stigma_mortuorum.jpg
@@ -16,3 +16,4 @@ title: Argentum - Stigma Mortuorum
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=16086&sort=pd.name&order=ASC) for $10.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=31755&sort=pd.name&order=ASC) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=34156&sort=pd.name&order=ASC) for $10.00

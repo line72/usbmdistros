@@ -4,7 +4,7 @@ album: Demo I - III
 artist: Carved Cross
 categories:
 - Vinyl
-date: '2023-01-17T06:10:54'
+date: '2023-04-27T05:13:07'
 draft: false
 images:
 - /images/covers/carved_cross-demo_i_-_iii.jpg

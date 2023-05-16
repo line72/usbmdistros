@@ -4,7 +4,7 @@ album: Seven Chalices
 artist: Teitanblood
 categories:
 - Vinyl
-date: '2023-03-28T05:15:04'
+date: '2023-04-27T05:13:24'
 draft: false
 images:
 - /images/covers/teitanblood-seven_chalices.jpg
@@ -20,3 +20,4 @@ title: Teitanblood - Seven Chalices
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=24648&sort=pd.name&order=ASC) for $30.00
 * Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/teitanblood-seven-chalices-12-double-lp/) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=32723&sort=pd.name&order=ASC) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=33765&sort=pd.name&order=ASC) for $30.00

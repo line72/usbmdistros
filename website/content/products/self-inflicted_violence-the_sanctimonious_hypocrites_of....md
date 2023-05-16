@@ -4,7 +4,7 @@ album: The Sanctimonious Hypocrites of...
 artist: Self-Inflicted Violence
 categories:
 - CD
-date: '2022-11-30T06:10:44'
+date: '2023-04-27T05:13:49'
 draft: false
 images:
 - /images/covers/self-inflicted_violence-the_sanctimonious_hypocrites_of....png

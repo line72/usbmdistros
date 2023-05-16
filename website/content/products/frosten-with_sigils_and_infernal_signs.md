@@ -4,7 +4,7 @@ album: With Sigils and Infernal Signs
 artist: Frosten
 categories:
 - Vinyl
-date: '2023-03-21T05:12:09'
+date: '2023-04-27T05:13:11'
 draft: false
 images:
 - /images/covers/frosten-with_sigils_and_infernal_signs.jpg

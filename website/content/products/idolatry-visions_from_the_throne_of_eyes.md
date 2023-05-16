@@ -4,7 +4,7 @@ album: Visions From The Throne of Eyes
 artist: Idolatry
 categories:
 - CD
-date: '2022-11-30T06:10:36'
+date: '2023-04-27T05:13:41'
 draft: false
 images:
 - /images/covers/idolatry-visions_from_the_throne_of_eyes.jpg

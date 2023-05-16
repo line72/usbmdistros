@@ -5,7 +5,7 @@ artist: Grudom
 categories:
 - Vinyl
 - CD
-date: '2023-04-11T05:20:13'
+date: '2023-04-27T05:13:39'
 draft: false
 images:
 - "/images/covers/grudom-d\xF8dens_likvid.jpg"

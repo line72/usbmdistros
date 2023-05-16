@@ -4,7 +4,7 @@ album: Drowned in Eternal Desolation
 artist: Nocturnal Tyrant
 categories:
 - Cassette
-date: '2022-11-30T06:10:55'
+date: '2023-04-27T05:14:01'
 draft: false
 images:
 - /images/covers/nocturnal_tyrant-drowned_in_eternal_desolation.jpg

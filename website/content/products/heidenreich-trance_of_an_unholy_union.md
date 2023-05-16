@@ -5,7 +5,7 @@ artist: Heidenreich
 categories:
 - Vinyl
 - CD
-date: '2022-11-30T06:10:06'
+date: '2023-04-27T05:13:12'
 draft: false
 images:
 - /images/covers/heidenreich-trance_of_an_unholy_union.jpg

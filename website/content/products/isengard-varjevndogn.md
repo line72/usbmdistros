@@ -4,7 +4,7 @@ album: Varjevndogn
 artist: Isengard
 categories:
 - Vinyl
-date: '2023-02-03T06:11:59'
+date: '2023-05-13T05:15:46'
 draft: false
 images:
 - /images/covers/isengard-varjevndogn.jpg
@@ -19,3 +19,6 @@ title: Isengard - Varjevndogn
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=25608&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=28263&sort=pd.name&order=ASC) for $27.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=31193&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=33693&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=34293&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=34381&sort=pd.name&order=ASC) for $25.00

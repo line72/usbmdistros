@@ -4,7 +4,7 @@ album: The Goat Session Vol. 1
 artist: Of Human Bondage
 categories:
 - CD
-date: '2022-11-30T06:10:41'
+date: '2023-04-27T05:13:47'
 draft: false
 images:
 - /images/covers/of_human_bondage-the_goat_session_vol._1.jpg

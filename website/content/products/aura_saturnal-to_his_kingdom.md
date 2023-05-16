@@ -4,7 +4,7 @@ album: To His Kingdom
 artist: Aura Saturnal
 categories:
 - Vinyl
-date: '2022-11-30T06:09:59'
+date: '2023-04-27T05:13:04'
 draft: false
 images:
 - /images/covers/aura_saturnal-to_his_kingdom.jpg

@@ -4,7 +4,7 @@ album: Sigma Octantis DIGIPAK
 artist: Vrildom
 categories:
 - CD
-date: '2022-07-19T15:43:39'
+date: '2023-05-16T20:20:40'
 draft: false
 images:
 - /images/covers/vrildom-sigma_octantis_digipak.png
@@ -16,3 +16,4 @@ title: Vrildom - Sigma Octantis DIGIPAK
 ## CD
 * Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/vrildom-sigma-octantis-digipak-cd/) for $15.00
 * Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/vrildom-sigma-octantis-digipak-cd/) for $13.00
+* Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/vrildom-sigma-octantis-digipak-cd/) for $15.00

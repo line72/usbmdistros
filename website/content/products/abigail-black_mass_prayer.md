@@ -4,7 +4,7 @@ album: Black Mass Prayer
 artist: Abigail
 categories:
 - Vinyl
-date: '2023-01-12T06:10:13'
+date: '2023-04-27T05:13:02'
 draft: false
 images:
 - /images/covers/abigail-black_mass_prayer.jpg

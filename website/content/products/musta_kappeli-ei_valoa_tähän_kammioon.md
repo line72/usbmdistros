@@ -5,7 +5,7 @@ artist: Musta Kappeli
 categories:
 - Vinyl
 - CD
-date: '2022-11-30T06:10:10'
+date: '2023-04-27T05:13:18'
 draft: false
 images:
 - "/images/covers/musta_kappeli-ei_valoa_t\xE4h\xE4n_kammioon.jpg"

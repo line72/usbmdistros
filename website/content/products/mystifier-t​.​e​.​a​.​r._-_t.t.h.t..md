@@ -4,7 +4,7 @@ album: "T\u200B.\u200BE\u200B.\u200BA\u200B.\u200BR. / T.T.H.T."
 artist: Mystifier
 categories:
 - Vinyl
-date: '2022-11-30T06:10:11'
+date: '2023-04-27T05:13:18'
 draft: false
 images:
 - "/images/covers/mystifier-t\u200B.\u200Be\u200B.\u200Ba\u200B.\u200Br._-_t.t.h.t..jpg"
@@ -20,3 +20,4 @@ title: "Mystifier - T\u200B.\u200BE\u200B.\u200BA\u200B.\u200BR. / T.T.H.T."
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=23926&sort=pd.name&order=ASC) for $20.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=25512&sort=pd.name&order=ASC) for $16.25
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=25513&sort=pd.name&order=ASC) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=33746&sort=pd.name&order=ASC) for $30.00

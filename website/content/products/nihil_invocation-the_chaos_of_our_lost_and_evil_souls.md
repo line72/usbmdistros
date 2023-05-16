@@ -5,7 +5,7 @@ artist: Nihil Invocation
 categories:
 - Vinyl
 - Cassette
-date: '2023-03-28T05:14:11'
+date: '2023-04-27T05:14:01'
 draft: false
 images:
 - /images/covers/nihil_invocation-the_chaos_of_our_lost_and_evil_souls.jpg

@@ -5,7 +5,7 @@ artist: Movimento D'Avanguardia Ermetico
 categories:
 - Vinyl
 - CD
-date: '2023-03-31T05:19:32'
+date: '2023-04-27T05:13:45'
 draft: false
 images:
 - /images/covers/movimento_d'avanguardia_ermetico-stelle_senza_luce.jpg

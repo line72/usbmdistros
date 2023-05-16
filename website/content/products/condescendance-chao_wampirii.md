@@ -5,7 +5,7 @@ artist: Condescendance
 categories:
 - Cassette
 - CD
-date: '2022-11-30T06:10:30'
+date: '2023-04-27T05:13:35'
 draft: false
 images:
 - /images/covers/condescendance-chao_wampirii.jpg

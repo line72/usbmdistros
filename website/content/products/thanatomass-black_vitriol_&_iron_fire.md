@@ -5,7 +5,7 @@ artist: Thanatomass
 categories:
 - Vinyl
 - Cassette
-date: '2023-03-05T06:16:38'
+date: '2023-04-27T05:13:24'
 draft: false
 images:
 - /images/covers/thanatomass-black_vitriol_&_iron_fire.jpg

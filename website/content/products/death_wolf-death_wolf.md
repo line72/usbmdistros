@@ -5,7 +5,7 @@ artist: Death Wolf
 categories:
 - Vinyl
 - CD
-date: '2022-11-30T06:10:31'
+date: '2023-04-27T05:13:36'
 draft: false
 images:
 - /images/covers/death_wolf-death_wolf.png

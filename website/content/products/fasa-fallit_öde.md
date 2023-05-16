@@ -4,7 +4,7 @@ album: "Fallit \xD6de"
 artist: Fasa
 categories:
 - Cassette
-date: '2023-01-17T06:17:54'
+date: '2023-04-27T05:13:58'
 draft: false
 images:
 - "/images/covers/fasa-fallit_\xF6de.jpg"

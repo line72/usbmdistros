@@ -4,7 +4,7 @@ album: Paradeigma (Phosphenes of Aphotic Eternity)
 artist: Inferno
 categories:
 - Cassette
-date: '2022-11-30T06:10:54'
+date: '2023-04-27T05:13:59'
 draft: false
 images:
 - /images/covers/inferno-paradeigma_(phosphenes_of_aphotic_eternity).png

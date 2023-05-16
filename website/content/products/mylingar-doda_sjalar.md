@@ -4,7 +4,7 @@ album: Doda Sjalar
 artist: Mylingar
 categories:
 - Vinyl
-date: '2022-11-30T06:10:10'
+date: '2023-04-27T05:13:18'
 draft: false
 images:
 - /images/covers/mylingar-doda_sjalar.jpg

@@ -4,7 +4,7 @@ album: '...Nur Frei Bei Nacht'
 artist: Ewiges Reich
 categories:
 - CD
-date: '2022-11-30T06:10:32'
+date: '2023-04-27T05:13:38'
 draft: false
 images:
 - /images/covers/ewiges_reich-...nur_frei_bei_nacht.jpg

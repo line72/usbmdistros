@@ -5,7 +5,7 @@ artist: Murg
 categories:
 - Cassette
 - CD
-date: '2023-03-26T20:34:17'
+date: '2023-04-27T05:14:00'
 draft: false
 images:
 - "/images/covers/murg-str\xE4van.jpg"

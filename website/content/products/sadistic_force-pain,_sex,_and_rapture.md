@@ -4,7 +4,7 @@ album: Pain, Sex, and Rapture
 artist: Sadistic Force
 categories:
 - Vinyl
-date: '2022-11-30T06:10:15'
+date: '2023-04-27T05:13:21'
 draft: false
 images:
 - /images/covers/sadistic_force-pain,_sex,_and_rapture.jpg

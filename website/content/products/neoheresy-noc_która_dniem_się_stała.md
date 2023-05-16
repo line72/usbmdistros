@@ -4,7 +4,7 @@ album: "Noc kt\xF3ra dniem si\u0119 sta\u0142a"
 artist: Neoheresy
 categories:
 - CD
-date: '2022-11-30T06:10:40'
+date: '2023-04-27T05:13:46'
 draft: false
 images:
 - "/images/covers/neoheresy-noc_kt\xF3ra_dniem_si\u0119_sta\u0142a.jpg"

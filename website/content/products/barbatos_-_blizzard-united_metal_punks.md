@@ -4,7 +4,7 @@ album: United Metal Punks
 artist: Barbatos / Blizzard
 categories:
 - Vinyl
-date: '2023-03-10T06:12:15'
+date: '2023-04-27T05:13:04'
 draft: false
 images:
 - /images/covers/barbatos_-_blizzard-united_metal_punks.jpg

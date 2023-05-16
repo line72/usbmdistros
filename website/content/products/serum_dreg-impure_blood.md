@@ -4,7 +4,7 @@ album: Impure Blood
 artist: Serum Dreg
 categories:
 - Vinyl
-date: '2022-11-30T06:10:16'
+date: '2023-04-27T05:13:22'
 draft: false
 images:
 - /images/covers/serum_dreg-impure_blood.jpg

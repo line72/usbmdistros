@@ -5,7 +5,7 @@ artist: Wulkanaz
 categories:
 - Vinyl
 - CD
-date: '2023-03-31T05:21:12'
+date: '2023-04-27T05:13:54'
 draft: false
 images:
 - /images/covers/wulkanaz-haglanaudizeisaz.jpg

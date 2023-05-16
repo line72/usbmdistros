@@ -4,7 +4,7 @@ album: '''Til Pest'
 artist: Nordlys
 categories:
 - CD
-date: '2023-03-31T05:19:49'
+date: '2023-04-27T05:13:46'
 draft: false
 images:
 - /images/covers/nordlys-'til_pest.jpg

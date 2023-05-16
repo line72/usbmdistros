@@ -5,7 +5,7 @@ artist: Valley of Hades
 categories:
 - Vinyl
 - CD
-date: '2022-12-16T06:12:38'
+date: '2023-04-27T05:13:26'
 draft: false
 images:
 - /images/covers/valley_of_hades-almighty_empreror.jpg

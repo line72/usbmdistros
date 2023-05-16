@@ -4,7 +4,7 @@ album: Abhyamudra
 artist: Obhyantar
 categories:
 - Vinyl
-date: '2023-04-12T05:14:40'
+date: '2023-04-27T05:13:19'
 draft: false
 images:
 - /images/covers/obhyantar-abhyamudra.jpg

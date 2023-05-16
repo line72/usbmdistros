@@ -4,7 +4,7 @@ album: "M\xE9phistoph\xE9l\xE8s (ou le diable sur terre)"
 artist: "P\xE9nombre"
 categories:
 - Vinyl
-date: '2022-11-30T06:10:13'
+date: '2023-04-27T05:13:20'
 draft: false
 images:
 - "/images/covers/p\xE9nombre-m\xE9phistoph\xE9l\xE8s_(ou_le_diable_sur_terre).jpg"

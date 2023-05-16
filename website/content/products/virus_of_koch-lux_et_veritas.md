@@ -4,7 +4,7 @@ album: Lux Et Veritas
 artist: Virus of Koch
 categories:
 - Cassette
-date: '2022-11-30T06:11:00'
+date: '2023-04-27T05:14:05'
 draft: false
 images:
 - /images/covers/virus_of_koch-lux_et_veritas.jpg

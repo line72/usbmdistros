@@ -5,7 +5,7 @@ artist: Gallower
 categories:
 - Vinyl
 - CD
-date: '2023-01-18T06:14:46'
+date: '2023-04-27T05:13:39'
 draft: false
 images:
 - /images/covers/gallower-eastern_witchcraft.jpg

@@ -5,7 +5,7 @@ artist: "Malg\xF6th"
 categories:
 - Vinyl
 - Cassette
-date: '2023-01-20T06:03:33'
+date: '2023-04-27T05:13:16'
 draft: false
 images:
 - "/images/covers/malg\xF6th-primordial_dawn.jpg"

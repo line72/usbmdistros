@@ -5,7 +5,7 @@ artist: Suspiral
 categories:
 - Vinyl
 - Cassette
-date: '2022-11-30T06:10:17'
+date: '2023-04-27T05:13:23'
 draft: false
 images:
 - /images/covers/suspiral-delve_into_the_mysteries_of_transcendence.jpg

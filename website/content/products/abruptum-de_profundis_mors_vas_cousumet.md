@@ -4,7 +4,7 @@ album: De Profundis Mors Vas Cousumet
 artist: Abruptum
 categories:
 - Vinyl
-date: '2023-02-21T06:11:06'
+date: '2023-04-27T05:13:02'
 draft: false
 images:
 - /images/covers/abruptum-de_profundis_mors_vas_cousumet.jpg

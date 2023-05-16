@@ -4,7 +4,7 @@ album: Vandreren
 artist: Isengard
 categories:
 - Vinyl
-date: '2023-02-03T06:11:59'
+date: '2023-05-13T05:15:46'
 draft: false
 images:
 - /images/covers/isengard-vandreren.jpg
@@ -17,3 +17,6 @@ title: Isengard - Vandreren
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=25628&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=27996&sort=pd.name&order=ASC) for $27.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=31195&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=33692&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=34292&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=34380&sort=pd.name&order=ASC) for $25.00

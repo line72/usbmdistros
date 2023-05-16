@@ -4,7 +4,7 @@ album: Futile Reflections of a Failed Existence
 artist: Carved Cross
 categories:
 - Vinyl
-date: '2023-01-20T06:11:05'
+date: '2023-04-27T05:13:07'
 draft: false
 images:
 - /images/covers/carved_cross-futile_reflections_of_a_failed_existence.jpg

@@ -5,7 +5,7 @@ artist: "Cerim\xF4nia"
 categories:
 - Vinyl
 - Cassette
-date: '2022-11-30T06:10:51'
+date: '2023-04-27T05:13:56'
 draft: false
 images:
 - "/images/covers/cerim\xF4nia-...combust\xE3o_conflagra\xE7\xE3o_desola\xE7\xE3o....jpg"

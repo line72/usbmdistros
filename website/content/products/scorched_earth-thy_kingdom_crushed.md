@@ -4,7 +4,7 @@ album: Thy Kingdom Crushed
 artist: Scorched Earth
 categories:
 - Cassette
-date: '2022-11-30T06:10:57'
+date: '2023-04-27T05:14:03'
 draft: false
 images:
 - /images/covers/scorched_earth-thy_kingdom_crushed.jpg

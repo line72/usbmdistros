@@ -4,7 +4,7 @@ album: Lots of Girls Gonna Get Hurt
 artist: Shining
 categories:
 - CD
-date: '2023-04-15T05:20:44'
+date: '2023-04-27T05:13:49'
 draft: false
 images:
 - /images/covers/shining-lots_of_girls_gonna_get_hurt.jpg

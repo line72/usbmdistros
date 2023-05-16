@@ -5,7 +5,7 @@ artist: Aufnorden
 categories:
 - Vinyl
 - Cassette
-date: '2022-12-12T06:16:10'
+date: '2023-04-27T05:13:55'
 draft: false
 images:
 - "/images/covers/aufnorden-from_the_sword,_the_sun_rose\u2026.jpg"

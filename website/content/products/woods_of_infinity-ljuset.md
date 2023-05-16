@@ -4,7 +4,7 @@ album: Ljuset
 artist: Woods of Infinity
 categories:
 - Vinyl
-date: '2023-04-18T05:17:10'
+date: '2023-04-27T05:13:27'
 draft: false
 images:
 - /images/covers/woods_of_infinity-ljuset.jpg

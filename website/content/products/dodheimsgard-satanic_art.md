@@ -4,7 +4,7 @@ album: Satanic Art
 artist: Dodheimsgard
 categories:
 - Vinyl
-date: '2023-02-03T06:11:23'
+date: '2023-04-27T05:13:09'
 draft: false
 images:
 - /images/covers/dodheimsgard-satanic_art.jpg

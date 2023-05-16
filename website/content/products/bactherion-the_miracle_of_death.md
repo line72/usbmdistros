@@ -4,7 +4,7 @@ album: The Miracle of Death
 artist: Bactherion
 categories:
 - Cassette
-date: '2022-11-30T06:10:50'
+date: '2023-04-27T05:13:55'
 draft: false
 images:
 - /images/covers/bactherion-the_miracle_of_death.png

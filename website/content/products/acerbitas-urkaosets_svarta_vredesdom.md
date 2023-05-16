@@ -4,7 +4,7 @@ album: Urkaosets Svarta Vredesdom
 artist: Acerbitas
 categories:
 - CD
-date: '2022-11-30T06:10:27'
+date: '2023-04-27T05:13:33'
 draft: false
 images:
 - /images/covers/acerbitas-urkaosets_svarta_vredesdom.jpg

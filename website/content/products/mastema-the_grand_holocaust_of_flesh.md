@@ -4,7 +4,7 @@ album: The Grand Holocaust of Flesh
 artist: Mastema
 categories:
 - CD
-date: '2023-04-11T05:20:54'
+date: '2023-04-27T05:13:44'
 draft: false
 images:
 - /images/covers/mastema-the_grand_holocaust_of_flesh.jpg

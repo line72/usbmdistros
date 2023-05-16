@@ -4,7 +4,7 @@ album: Destroyer
 artist: Gorgoroth
 categories:
 - Vinyl
-date: '2023-03-22T05:12:26'
+date: '2023-04-27T05:13:12'
 draft: false
 images:
 - /images/covers/gorgoroth-destroyer.jpg

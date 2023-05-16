@@ -4,7 +4,7 @@ album: Jezor Horra Deuz Caedere
 artist: Old Throne
 categories:
 - CD
-date: '2022-11-30T06:10:41'
+date: '2023-04-27T05:13:47'
 draft: false
 images:
 - /images/covers/old_throne-jezor_horra_deuz_caedere.jpg

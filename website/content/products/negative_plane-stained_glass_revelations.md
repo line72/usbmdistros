@@ -5,7 +5,7 @@ artist: Negative Plane
 categories:
 - Vinyl
 - CD
-date: '2022-12-22T06:12:34'
+date: '2023-04-27T05:13:46'
 draft: false
 images:
 - /images/covers/negative_plane-stained_glass_revelations.jpg

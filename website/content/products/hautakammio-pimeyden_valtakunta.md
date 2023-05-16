@@ -4,7 +4,7 @@ album: Pimeyden Valtakunta
 artist: Hautakammio
 categories:
 - Vinyl
-date: '2023-01-12T06:11:18'
+date: '2023-04-27T05:13:12'
 draft: false
 images:
 - /images/covers/hautakammio-pimeyden_valtakunta.jpg

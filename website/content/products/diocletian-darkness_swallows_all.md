@@ -5,7 +5,7 @@ artist: Diocletian
 categories:
 - Vinyl
 - CD
-date: '2023-02-22T06:16:01'
+date: '2023-04-27T05:13:37'
 draft: false
 images:
 - /images/covers/diocletian-darkness_swallows_all.jpg

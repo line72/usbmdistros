@@ -5,7 +5,7 @@ artist: Skogen
 categories:
 - Vinyl
 - CD
-date: '2023-03-28T05:19:25'
+date: '2023-04-27T05:13:49'
 draft: false
 images:
 - "/images/covers/skogen-i_d\xF6den.png"

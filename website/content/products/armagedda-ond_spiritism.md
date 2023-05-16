@@ -6,7 +6,7 @@ categories:
 - Vinyl
 - Cassette
 - CD
-date: '2023-03-26T20:33:18'
+date: '2023-04-27T05:13:55'
 draft: false
 images:
 - /images/covers/armagedda-ond_spiritism.jpg

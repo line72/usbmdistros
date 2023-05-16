@@ -5,7 +5,7 @@ artist: Arckanum
 categories:
 - Vinyl
 - CD
-date: '2022-11-30T06:09:58'
+date: '2023-05-02T05:17:29'
 draft: false
 images:
 - /images/covers/arckanum-kampen.jpg
@@ -20,5 +20,7 @@ title: Arckanum - Kampen
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=25184&sort=pd.name&order=ASC) for $35.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=26982&sort=pd.name&order=ASC) for $35.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=28946&sort=pd.name&order=ASC) for $35.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=33922&sort=pd.name&order=ASC) for $35.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=19622&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=33943&sort=pd.name&order=ASC) for $15.00

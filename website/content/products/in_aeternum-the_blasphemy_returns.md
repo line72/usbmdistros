@@ -4,7 +4,7 @@ album: The Blasphemy Returns
 artist: In Aeternum
 categories:
 - CD
-date: '2022-11-30T06:10:36'
+date: '2023-04-27T05:13:41'
 draft: false
 images:
 - /images/covers/in_aeternum-the_blasphemy_returns.jpg

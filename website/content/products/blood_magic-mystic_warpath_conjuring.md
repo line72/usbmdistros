@@ -4,7 +4,7 @@ album: Mystic Warpath Conjuring
 artist: Blood Magic
 categories:
 - Vinyl
-date: '2023-03-11T06:01:23'
+date: '2023-05-05T05:01:30'
 draft: false
 images:
 - /images/covers/blood_magic-mystic_warpath_conjuring.jpg

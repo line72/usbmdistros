@@ -4,7 +4,7 @@ album: Victory (Son of the Damned)
 artist: Blasphemy
 categories:
 - Cassette
-date: '2023-01-12T06:16:57'
+date: '2023-04-27T05:13:55'
 draft: false
 images:
 - /images/covers/blasphemy-victory_(son_of_the_damned).png

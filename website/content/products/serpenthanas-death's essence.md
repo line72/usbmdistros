@@ -4,7 +4,7 @@ album: "Death's\_Essence"
 artist: Serpenthanas
 categories:
 - Vinyl
-date: '2022-11-30T06:10:16'
+date: '2023-04-27T05:13:22'
 draft: false
 images:
 - "/images/covers/serpenthanas-death's\_essence.jpg"

@@ -5,7 +5,7 @@ artist: Sadokist
 categories:
 - Vinyl
 - CD
-date: '2022-11-30T06:10:43'
+date: '2023-04-27T05:13:48'
 draft: false
 images:
 - /images/covers/sadokist-thy_saviour's_halo,_held_by_horns.jpg

@@ -4,7 +4,7 @@ album: Eyes of Satan
 artist: Cultes Des Ghoules
 categories:
 - CD
-date: '2023-03-30T05:17:19'
+date: '2023-04-27T05:13:36'
 draft: false
 images:
 - /images/covers/cultes_des_ghoules-eyes_of_satan.jpg

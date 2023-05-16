@@ -5,7 +5,7 @@ artist: Throneum
 categories:
 - Vinyl
 - CD
-date: '2022-11-30T06:10:18'
+date: '2023-04-27T05:13:25'
 draft: false
 images:
 - /images/covers/throneum-organic_death_temple_mmxvi.png

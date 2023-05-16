@@ -4,7 +4,7 @@ album: Quarantine
 artist: Blix
 categories:
 - CD
-date: '2023-01-17T06:14:34'
+date: '2023-04-27T05:13:35'
 draft: false
 images:
 - /images/covers/blix-quarantine.jpg

@@ -4,7 +4,7 @@ album: 'Adversarial Paths: The Sinister Essence'
 artist: Kult of Taurus
 categories:
 - Vinyl
-date: '2022-11-30T06:10:08'
+date: '2023-04-27T05:13:15'
 draft: false
 images:
 - /images/covers/kult_of_taurus-adversarial_paths:_the_sinister_essence.jpg

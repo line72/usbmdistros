@@ -4,7 +4,7 @@ album: 'Ad Chao : I'
 artist: Ignis Serpentis
 categories:
 - Cassette
-date: '2022-11-30T06:10:53'
+date: '2023-04-27T05:13:59'
 draft: false
 images:
 - /images/covers/ignis_serpentis-ad_chao_:_i.jpg

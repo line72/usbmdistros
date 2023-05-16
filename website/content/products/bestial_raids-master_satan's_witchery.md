@@ -4,7 +4,7 @@ album: Master Satan's Witchery
 artist: Bestial Raids
 categories:
 - Vinyl
-date: '2023-01-12T06:10:31'
+date: '2023-04-27T05:13:05'
 draft: false
 images:
 - /images/covers/bestial_raids-master_satan's_witchery.jpg

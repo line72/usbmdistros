@@ -4,7 +4,7 @@ album: 'Live In Amsterdam: Trampled Brass/Midget Robes'
 artist: Lugubrum
 categories:
 - Vinyl
-date: '2022-11-30T06:10:08'
+date: '2023-04-27T05:13:15'
 draft: false
 images:
 - /images/covers/lugubrum-live_in_amsterdam:_trampled_brass-midget_robes.jpg

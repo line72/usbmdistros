@@ -4,7 +4,7 @@ album: Herbstklagen
 artist: "Waldgefl\xFCster"
 categories:
 - Vinyl
-date: '2023-03-28T05:15:35'
+date: '2023-04-27T05:13:27'
 draft: false
 images:
 - "/images/covers/waldgefl\xFCster-herbstklagen.jpg"

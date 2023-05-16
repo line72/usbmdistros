@@ -4,7 +4,7 @@ album: Black Sun Hexes - Two
 artist: Opium Grave
 categories:
 - Vinyl
-date: '2022-11-30T06:10:12'
+date: '2023-04-27T05:13:20'
 draft: false
 images:
 - /images/covers/opium_grave-black_sun_hexes_-_two.jpg

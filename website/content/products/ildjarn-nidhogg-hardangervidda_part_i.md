@@ -5,7 +5,7 @@ artist: Ildjarn-Nidhogg
 categories:
 - Vinyl
 - CD
-date: '2022-11-30T06:10:07'
+date: '2023-04-27T05:13:13'
 draft: false
 images:
 - /images/covers/ildjarn-nidhogg-hardangervidda_part_i.jpg

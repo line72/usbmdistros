@@ -4,7 +4,7 @@ album: Mas Hombres, Menos Estatuas
 artist: Reencarnacion
 categories:
 - CD
-date: '2022-11-30T06:10:43'
+date: '2023-05-16T05:21:07'
 draft: false
 images:
 - /images/covers/reencarnacion-mas_hombres,_menos_estatuas.png
@@ -15,3 +15,4 @@ title: Reencarnacion - Mas Hombres, Menos Estatuas
 
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=2231&sort=pd.name&order=ASC) for $8.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=34426&sort=pd.name&order=ASC) for $8.00

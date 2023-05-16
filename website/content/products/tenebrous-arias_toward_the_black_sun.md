@@ -4,7 +4,7 @@ album: Arias Toward the Black Sun
 artist: Tenebrous
 categories:
 - CD
-date: '2023-04-04T05:20:05'
+date: '2023-04-27T05:13:51'
 draft: false
 images:
 - /images/covers/tenebrous-arias_toward_the_black_sun.jpg

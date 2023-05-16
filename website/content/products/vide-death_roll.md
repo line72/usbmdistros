@@ -4,7 +4,7 @@ album: Death Roll
 artist: Vide
 categories:
 - Vinyl
-date: '2022-12-19T06:13:38'
+date: '2023-04-27T05:13:26'
 draft: false
 images:
 - /images/covers/vide-death_roll.jpg

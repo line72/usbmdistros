@@ -5,7 +5,7 @@ artist: Satyricon
 categories:
 - Vinyl
 - CD
-date: '2023-03-30T05:14:51'
+date: '2023-04-27T05:13:49'
 draft: false
 images:
 - /images/covers/satyricon-dark_medieval_times.jpg

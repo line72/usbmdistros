@@ -4,7 +4,7 @@ album: Es Glimmt Empor Aus Ewger Nacht
 artist: Wuodan's Wunde
 categories:
 - Vinyl
-date: '2023-01-22T06:13:44'
+date: '2023-04-27T05:13:27'
 draft: false
 images:
 - /images/covers/wuodan's_wunde-es_glimmt_empor_aus_ewger_nacht.jpg

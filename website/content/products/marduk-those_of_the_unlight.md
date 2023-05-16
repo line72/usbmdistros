@@ -5,7 +5,7 @@ artist: Marduk
 categories:
 - Vinyl
 - CD
-date: '2022-11-30T06:10:39'
+date: '2023-05-16T20:11:18'
 draft: false
 images:
 - /images/covers/marduk-those_of_the_unlight.jpg
@@ -19,5 +19,6 @@ title: Marduk - Those of the Unlight
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/marduk-those-of-the-unlight) for $29.00 :: Silver/Red Merge 2020 press
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=24552&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=24982&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=34506&sort=pd.name&order=ASC) for $25.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=25012&sort=pd.name&order=ASC) for $12.00

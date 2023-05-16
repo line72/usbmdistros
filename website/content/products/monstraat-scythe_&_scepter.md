@@ -4,7 +4,7 @@ album: Scythe & Scepter
 artist: Monstraat
 categories:
 - Vinyl
-date: '2023-02-21T06:13:13'
+date: '2023-04-27T05:13:17'
 draft: false
 images:
 - /images/covers/monstraat-scythe_&_scepter.jpg

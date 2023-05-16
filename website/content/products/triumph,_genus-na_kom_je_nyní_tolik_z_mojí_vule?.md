@@ -4,7 +4,7 @@ album: "Na Kom Je Nyn\xED Tolik Z Moj\xED Vule?"
 artist: Triumph, Genus
 categories:
 - CD
-date: '2023-02-01T06:17:44'
+date: '2023-04-27T05:13:51'
 draft: false
 images:
 - "/images/covers/triumph,_genus-na_kom_je_nyn\xED_tolik_z_moj\xED_vule?.png"

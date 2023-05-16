@@ -5,7 +5,7 @@ artist: Wulkanaz
 categories:
 - Vinyl
 - CD
-date: '2023-02-21T06:14:48'
+date: '2023-04-27T05:13:54'
 draft: false
 images:
 - "/images/covers/wulkanaz-kaosn\xE5jd.jpg"

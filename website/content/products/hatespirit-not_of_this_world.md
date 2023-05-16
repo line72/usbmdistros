@@ -4,7 +4,7 @@ album: Not of This World
 artist: Hatespirit
 categories:
 - CD
-date: '2023-03-31T05:18:47'
+date: '2023-04-27T05:13:40'
 draft: false
 images:
 - /images/covers/hatespirit-not_of_this_world.jpg

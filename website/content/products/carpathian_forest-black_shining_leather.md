@@ -1,10 +1,10 @@
 ---
-actualPrice: $25.00
+actualPrice: $20.00 - 25.00
 album: Black Shining Leather
 artist: Carpathian Forest
 categories:
 - Vinyl
-date: '2023-02-03T06:11:03'
+date: '2023-04-26T05:10:58'
 draft: false
 images:
 - /images/covers/carpathian_forest-black_shining_leather.jpg
@@ -17,4 +17,4 @@ title: Carpathian Forest - Black Shining Leather
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=11818&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=21795&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=25648&sort=pd.name&order=ASC) for $25.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=31166&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=31166&sort=pd.name&order=ASC) for $20.00

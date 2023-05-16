@@ -4,7 +4,7 @@ album: Bjoergvin
 artist: Taake
 categories:
 - Vinyl
-date: '2023-02-03T06:13:20'
+date: '2023-04-27T05:13:23'
 draft: false
 images:
 - /images/covers/taake-bjoergvin.jpg

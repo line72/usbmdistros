@@ -4,7 +4,7 @@ album: Der Rote Kampfflieger
 artist: Minenwerfer
 categories:
 - Vinyl
-date: '2023-03-14T05:24:55'
+date: '2023-04-27T05:13:17'
 draft: false
 images:
 - /images/covers/minenwerfer-der_rote_kampfflieger.jpg

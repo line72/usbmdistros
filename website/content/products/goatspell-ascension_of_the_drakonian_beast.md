@@ -4,7 +4,7 @@ album: Ascension Of The Drakonian Beast
 artist: Goatspell
 categories:
 - Vinyl
-date: '2022-11-30T06:10:05'
+date: '2023-04-27T05:13:12'
 draft: false
 images:
 - /images/covers/goatspell-ascension_of_the_drakonian_beast.jpg

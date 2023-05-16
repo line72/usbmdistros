@@ -4,7 +4,7 @@ album: Medieval Journeys
 artist: Gothmog
 categories:
 - CD
-date: '2023-01-13T06:01:28'
+date: '2023-04-27T05:13:39'
 draft: false
 images:
 - /images/covers/gothmog-medieval_journeys.jpg

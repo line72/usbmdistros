@@ -4,7 +4,7 @@ album: Til Klovers Takt
 artist: Kampfar
 categories:
 - Vinyl
-date: '2023-04-14T05:13:59'
+date: '2023-04-27T05:13:14'
 draft: false
 images:
 - /images/covers/kampfar-til_klovers_takt.jpg

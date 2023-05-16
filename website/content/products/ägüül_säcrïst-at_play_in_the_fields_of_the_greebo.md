@@ -4,7 +4,7 @@ album: At Play in the Fields of the Greebo
 artist: "\xC4g\xFC\xFCl S\xE4cr\xEFst"
 categories:
 - Vinyl
-date: '2022-11-30T06:09:57'
+date: '2023-04-27T05:13:03'
 draft: false
 images:
 - "/images/covers/\xE4g\xFC\xFCl_s\xE4cr\xEFst-at_play_in_the_fields_of_the_greebo.jpg"

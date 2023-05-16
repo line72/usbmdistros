@@ -5,7 +5,7 @@ artist: Vampyric Tyrant
 categories:
 - Cassette
 - CD
-date: '2023-01-09T06:01:41'
+date: '2023-04-27T05:14:05'
 draft: false
 images:
 - /images/covers/vampyric_tyrant-schwarze_schwingen.jpg

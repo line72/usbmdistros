@@ -5,7 +5,7 @@ artist: Katechon
 categories:
 - Vinyl
 - CD
-date: '2023-01-12T06:15:07'
+date: '2023-04-27T05:13:42'
 draft: false
 images:
 - /images/covers/katechon-coronation.jpg

@@ -4,7 +4,7 @@ album: Premiers / Derniers Chants
 artist: Ossuaire
 categories:
 - Cassette
-date: '2022-11-30T06:10:56'
+date: '2023-04-27T05:14:01'
 draft: false
 images:
 - /images/covers/ossuaire-premiers_-_derniers_chants.jpg

@@ -4,7 +4,7 @@ album: Articles of Execution
 artist: The Nefarious Integration
 categories:
 - Vinyl
-date: '2022-11-30T06:10:26'
+date: '2023-04-27T05:13:32'
 draft: false
 images:
 - /images/covers/the_nefarious_integration-articles_of_execution.jpg

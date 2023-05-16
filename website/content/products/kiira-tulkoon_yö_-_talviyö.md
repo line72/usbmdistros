@@ -4,7 +4,7 @@ album: "Tulkoon Y\xF6 / Talviy\xF6"
 artist: Kiira
 categories:
 - Vinyl
-date: '2023-03-23T05:12:56'
+date: '2023-04-27T05:13:14'
 draft: false
 images:
 - "/images/covers/kiira-tulkoon_y\xF6_-_talviy\xF6.jpg"

@@ -5,7 +5,7 @@ artist: De Arma
 categories:
 - Vinyl
 - CD
-date: '2023-03-28T05:17:14'
+date: '2023-04-27T05:13:36'
 draft: false
 images:
 - /images/covers/de_arma-nightcall.jpg

@@ -4,7 +4,7 @@ album: DOMSTAD SWART METAEL
 artist: WRANG
 categories:
 - CD
-date: '2022-11-30T06:10:48'
+date: '2023-04-27T05:13:54'
 draft: false
 images:
 - /images/covers/wrang-domstad_swart_metael.jpg

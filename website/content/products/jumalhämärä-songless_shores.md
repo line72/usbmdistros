@@ -4,7 +4,7 @@ album: Songless Shores
 artist: "Jumalh\xE4m\xE4r\xE4"
 categories:
 - CD
-date: '2023-03-31T05:19:06'
+date: '2023-04-27T05:13:42'
 draft: false
 images:
 - "/images/covers/jumalh\xE4m\xE4r\xE4-songless_shores.jpg"

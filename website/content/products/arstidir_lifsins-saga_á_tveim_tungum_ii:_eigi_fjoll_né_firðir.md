@@ -4,7 +4,7 @@ album: "Saga \xE1 Tveim Tungum II: Eigi Fjoll n\xE9 Fir\xF0ir"
 artist: Arstidir Lifsins
 categories:
 - Vinyl
-date: '2022-12-09T06:10:00'
+date: '2023-04-27T05:13:04'
 draft: false
 images:
 - "/images/covers/arstidir_lifsins-saga_\xE1_tveim_tungum_ii:_eigi_fjoll_n\xE9_fir\xF0\

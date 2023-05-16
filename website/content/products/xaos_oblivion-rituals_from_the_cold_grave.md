@@ -4,7 +4,7 @@ album: Rituals From The Cold Grave
 artist: Xaos Oblivion
 categories:
 - Vinyl
-date: '2022-11-30T06:10:21'
+date: '2023-04-27T05:13:28'
 draft: false
 images:
 - /images/covers/xaos_oblivion-rituals_from_the_cold_grave.jpg

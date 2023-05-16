@@ -4,7 +4,7 @@ album: Syndrome Of The End Approaching
 artist: A.I.D.S.
 categories:
 - Vinyl
-date: '2022-11-30T06:09:56'
+date: '2023-04-27T05:13:02'
 draft: false
 images:
 - /images/covers/a.i.d.s.-syndrome_of_the_end_approaching.jpg

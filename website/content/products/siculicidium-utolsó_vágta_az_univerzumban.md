@@ -5,7 +5,7 @@ artist: Siculicidium
 categories:
 - Vinyl
 - CD
-date: '2023-01-17T06:16:42'
+date: '2023-04-27T05:13:49'
 draft: false
 images:
 - "/images/covers/siculicidium-utols\xF3_v\xE1gta_az_univerzumban.jpg"

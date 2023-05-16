@@ -5,7 +5,7 @@ artist: Burning Winds
 categories:
 - Vinyl
 - CD
-date: '2023-03-07T14:05:37'
+date: '2023-04-27T05:13:06'
 draft: false
 images:
 - /images/covers/burning_winds-return_to_hell.jpg

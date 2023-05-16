@@ -4,7 +4,7 @@ album: "Angeles Serpientes Demos \xB492 - \xB494 - \xB496"
 artist: Apolion's Genocide
 categories:
 - CD
-date: '2022-11-30T06:10:28'
+date: '2023-04-27T05:13:33'
 draft: false
 images:
 - "/images/covers/apolion's_genocide-angeles_serpientes_demos_\xB492_-_\xB494_-_\xB4\

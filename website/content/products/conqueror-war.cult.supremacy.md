@@ -1,11 +1,12 @@
 ---
-actualPrice: $12.00 - 13.00
+actualPrice: $12.00 - 35.00
 album: War.Cult.Supremacy
 artist: Conqueror
 categories:
+- Vinyl
 - Cassette
 - CD
-date: '2023-03-14T00:27:40'
+date: '2023-05-16T05:13:17'
 draft: false
 images:
 - /images/covers/conqueror-war.cult.supremacy.jpg
@@ -14,6 +15,14 @@ thumbnailImage: /images/covers/conqueror-war.cult.supremacy-thumb.jpg
 title: Conqueror - War.Cult.Supremacy
 ---
 
+## Vinyl
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=34087&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=34177&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=34237&sort=pd.name&order=ASC) for $35.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=34357&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=34371&sort=pd.name&order=ASC) for $35.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=34474&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=34473&sort=pd.name&order=ASC) for $35.00
 ## Cassette
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=20529&sort=pd.name&order=ASC) for $12.00
 ## CD

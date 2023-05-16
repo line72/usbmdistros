@@ -4,7 +4,7 @@ album: The Beast of Ptahil
 artist: Ptahil
 categories:
 - Vinyl
-date: '2022-11-30T06:10:13'
+date: '2023-04-27T05:13:20'
 draft: false
 images:
 - /images/covers/ptahil-the_beast_of_ptahil.jpg

@@ -4,7 +4,7 @@ album: Akolyytti
 artist: Akolyytti
 categories:
 - CD
-date: '2022-07-19T15:43:39'
+date: '2023-05-16T20:20:40'
 draft: false
 images:
 - /images/covers/akolyytti-akolyytti.png
@@ -15,3 +15,4 @@ title: Akolyytti - Akolyytti
 
 ## CD
 * Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/akolytti-akolyytti-cd/) for $15.00
+* Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/akolyytti-akolyytti-cd/) for $15.00

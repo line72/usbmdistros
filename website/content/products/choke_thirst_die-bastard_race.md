@@ -4,7 +4,7 @@ album: Bastard Race
 artist: Choke Thirst Die
 categories:
 - Cassette
-date: '2022-11-30T06:10:51'
+date: '2023-04-27T05:13:56'
 draft: false
 images:
 - /images/covers/choke_thirst_die-bastard_race.png

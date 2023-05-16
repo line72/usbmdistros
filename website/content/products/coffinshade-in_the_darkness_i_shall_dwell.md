@@ -4,7 +4,7 @@ album: IN THE DARKNESS I SHALL DWELL
 artist: COFFINSHADE
 categories:
 - Cassette
-date: '2022-11-30T06:10:51'
+date: '2023-04-27T05:13:56'
 draft: false
 images:
 - /images/covers/coffinshade-in_the_darkness_i_shall_dwell.png

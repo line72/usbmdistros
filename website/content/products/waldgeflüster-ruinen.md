@@ -4,7 +4,7 @@ album: Ruinen
 artist: "Waldgefl\xFCster"
 categories:
 - CD
-date: '2023-03-25T05:18:42'
+date: '2023-04-27T05:13:53'
 draft: false
 images:
 - "/images/covers/waldgefl\xFCster-ruinen.png"

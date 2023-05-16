@@ -4,7 +4,7 @@ album: Lascivo Culto Solar
 artist: Illapa
 categories:
 - CD
-date: '2022-12-05T06:27:16'
+date: '2023-04-27T05:13:41'
 draft: false
 images:
 - /images/covers/illapa-lascivo_culto_solar.jpg

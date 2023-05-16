@@ -5,7 +5,7 @@ artist: Insikt
 categories:
 - Vinyl
 - CD
-date: '2022-12-16T06:11:20'
+date: '2023-04-27T05:13:41'
 draft: false
 images:
 - /images/covers/insikt-wanderings_through_a_cursed_mind.jpg

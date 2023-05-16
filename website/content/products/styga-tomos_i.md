@@ -5,7 +5,7 @@ artist: Styga
 categories:
 - Vinyl
 - Cassette
-date: '2023-02-12T06:00:23'
+date: '2023-04-27T05:14:03'
 draft: false
 images:
 - /images/covers/styga-tomos_i.png

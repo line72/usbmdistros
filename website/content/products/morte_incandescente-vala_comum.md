@@ -6,7 +6,7 @@ categories:
 - Vinyl
 - Cassette
 - CD
-date: '2023-04-04T05:14:00'
+date: '2023-04-27T05:13:17'
 draft: false
 images:
 - /images/covers/morte_incandescente-vala_comum.png

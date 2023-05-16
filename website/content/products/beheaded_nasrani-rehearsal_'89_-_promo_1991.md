@@ -4,7 +4,7 @@ album: Rehearsal '89 / Promo 1991
 artist: Beheaded Nasrani
 categories:
 - Cassette
-date: '2023-03-13T05:20:10'
+date: '2023-04-27T05:13:55'
 draft: false
 images:
 - /images/covers/beheaded_nasrani-rehearsal_'89_-_promo_1991.png

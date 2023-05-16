@@ -6,7 +6,7 @@ categories:
 - Vinyl
 - Cassette
 - CD
-date: '2023-02-12T06:00:22'
+date: '2023-04-27T05:13:33'
 draft: false
 images:
 - /images/covers/arazubak-the_haunted_spawn_of_torment.jpg

@@ -4,7 +4,7 @@ album: The Might Of The Pagan Belief
 artist: Thirst
 categories:
 - Vinyl
-date: '2023-04-18T05:16:38'
+date: '2023-04-27T05:13:25'
 draft: false
 images:
 - /images/covers/thirst-the_might_of_the_pagan_belief.jpg

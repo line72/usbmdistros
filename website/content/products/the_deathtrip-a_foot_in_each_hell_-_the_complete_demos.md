@@ -4,7 +4,7 @@ album: A Foot in Each Hell - The Complete Demos
 artist: The Deathtrip
 categories:
 - Vinyl
-date: '2022-11-30T06:10:18'
+date: '2023-04-27T05:13:24'
 draft: false
 images:
 - /images/covers/the_deathtrip-a_foot_in_each_hell_-_the_complete_demos.jpg

@@ -4,7 +4,7 @@ album: To Take Up the Cross
 artist: Latitude Egress
 categories:
 - CD
-date: '2022-11-30T06:10:38'
+date: '2023-04-27T05:13:42'
 draft: false
 images:
 - /images/covers/latitude_egress-to_take_up_the_cross.jpg

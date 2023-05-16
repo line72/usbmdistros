@@ -4,7 +4,7 @@ album: Age of Excuse
 artist: Mgla
 categories:
 - Vinyl
-date: '2022-12-09T06:11:19'
+date: '2023-05-12T05:13:56'
 draft: false
 images:
 - /images/covers/mgla-age_of_excuse.jpg
@@ -19,3 +19,4 @@ title: Mgla - Age of Excuse
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=27445&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=27497&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29920&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=34276&sort=pd.name&order=ASC) for $25.00

@@ -4,7 +4,7 @@ album: The Exile Tale
 artist: Void Of Autumn
 categories:
 - Cassette
-date: '2022-12-12T06:17:19'
+date: '2023-04-27T05:14:05'
 draft: false
 images:
 - /images/covers/void_of_autumn-the_exile_tale.png

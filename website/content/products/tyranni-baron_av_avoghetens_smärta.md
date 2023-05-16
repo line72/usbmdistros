@@ -4,7 +4,7 @@ album: "Baron av Avoghetens Sm\xE4rta"
 artist: Tyranni
 categories:
 - Cassette
-date: '2022-11-30T06:10:59'
+date: '2023-04-27T05:14:04'
 draft: false
 images:
 - "/images/covers/tyranni-baron_av_avoghetens_sm\xE4rta.jpg"

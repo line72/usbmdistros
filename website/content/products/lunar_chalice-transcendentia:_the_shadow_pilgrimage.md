@@ -5,7 +5,7 @@ artist: Lunar Chalice
 categories:
 - Vinyl
 - CD
-date: '2022-11-30T06:10:38'
+date: '2023-04-27T05:13:43'
 draft: false
 images:
 - /images/covers/lunar_chalice-transcendentia:_the_shadow_pilgrimage.jpg

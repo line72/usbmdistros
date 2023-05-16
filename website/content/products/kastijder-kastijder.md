@@ -4,7 +4,7 @@ album: Kastijder
 artist: Kastijder
 categories:
 - Cassette
-date: '2022-11-30T06:10:54'
+date: '2023-04-27T05:13:59'
 draft: false
 images:
 - /images/covers/kastijder-kastijder.png

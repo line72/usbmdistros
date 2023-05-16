@@ -4,7 +4,7 @@ album: Talkin' in Tongues with Mountain Spirits
 artist: Primeval Well
 categories:
 - Vinyl
-date: '2023-03-18T05:13:40'
+date: '2023-04-27T05:13:20'
 draft: false
 images:
 - /images/covers/primeval_well-talkin'_in_tongues_with_mountain_spirits.png

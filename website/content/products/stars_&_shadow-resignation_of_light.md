@@ -4,7 +4,7 @@ album: Resignation of Light
 artist: Stars & Shadow
 categories:
 - Vinyl
-date: '2022-11-30T06:10:17'
+date: '2023-04-27T05:13:23'
 draft: false
 images:
 - /images/covers/stars_&_shadow-resignation_of_light.jpg

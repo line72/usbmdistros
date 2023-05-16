@@ -4,7 +4,7 @@ album: Under Talons of Malevolence
 artist: Bereft Raven
 categories:
 - Cassette
-date: '2023-03-26T20:33:24'
+date: '2023-04-27T05:13:55'
 draft: false
 images:
 - /images/covers/bereft_raven-under_talons_of_malevolence.jpg

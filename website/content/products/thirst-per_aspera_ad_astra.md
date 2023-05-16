@@ -4,7 +4,7 @@ album: Per Aspera ad Astra
 artist: Thirst
 categories:
 - Vinyl
-date: '2023-04-18T05:16:38'
+date: '2023-04-27T05:13:24'
 draft: false
 images:
 - /images/covers/thirst-per_aspera_ad_astra.jpg

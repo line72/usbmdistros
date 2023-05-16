@@ -4,7 +4,7 @@ album: To Overtake | To Overcome
 artist: Voidsphere
 categories:
 - CD
-date: '2022-11-30T06:10:47'
+date: '2023-04-27T05:13:53'
 draft: false
 images:
 - /images/covers/voidsphere-to_overtake_|_to_overcome.jpg

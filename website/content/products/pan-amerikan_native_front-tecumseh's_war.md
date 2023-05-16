@@ -4,7 +4,7 @@ album: Tecumseh's War
 artist: Pan-Amerikan Native Front
 categories:
 - Vinyl
-date: '2023-04-19T05:16:38'
+date: '2023-04-27T05:13:20'
 draft: false
 images:
 - /images/covers/pan-amerikan_native_front-tecumseh's_war.jpg

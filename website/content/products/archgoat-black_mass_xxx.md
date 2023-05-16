@@ -5,7 +5,7 @@ artist: Archgoat
 categories:
 - Vinyl
 - CD
-date: '2023-04-11T05:11:45'
+date: '2023-04-27T05:13:03'
 draft: false
 images:
 - /images/covers/archgoat-black_mass_xxx.jpg

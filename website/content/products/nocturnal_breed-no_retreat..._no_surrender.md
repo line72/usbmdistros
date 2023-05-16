@@ -5,7 +5,7 @@ artist: Nocturnal Breed
 categories:
 - Vinyl
 - CD
-date: '2023-01-18T06:11:56'
+date: '2023-04-27T05:13:19'
 draft: false
 images:
 - /images/covers/nocturnal_breed-no_retreat..._no_surrender.jpg

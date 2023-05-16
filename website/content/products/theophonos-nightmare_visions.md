@@ -4,7 +4,7 @@ album: Nightmare Visions
 artist: Theophonos
 categories:
 - Vinyl
-date: '2023-02-16T06:13:48'
+date: '2023-05-06T05:16:24'
 draft: false
 images:
 - /images/covers/theophonos-nightmare_visions.jpg
@@ -15,3 +15,4 @@ title: Theophonos - Nightmare Visions
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=31359&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=34099&sort=pd.name&order=ASC) for $25.00

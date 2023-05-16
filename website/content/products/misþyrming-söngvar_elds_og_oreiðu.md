@@ -5,7 +5,7 @@ artist: "Mis\xFEyrming"
 categories:
 - Vinyl
 - CD
-date: '2023-04-08T05:19:53'
+date: '2023-04-27T05:13:17'
 draft: false
 images:
 - "/images/covers/mis\xFEyrming-s\xF6ngvar_elds_og_orei\xF0u.jpg"

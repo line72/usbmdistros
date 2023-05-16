@@ -5,7 +5,7 @@ artist: Diocletian
 categories:
 - Vinyl
 - Cassette
-date: '2023-02-21T06:12:01'
+date: '2023-04-27T05:13:57'
 draft: false
 images:
 - /images/covers/diocletian-live_in_leipzig.jpg

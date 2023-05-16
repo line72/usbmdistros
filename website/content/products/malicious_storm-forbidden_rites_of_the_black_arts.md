@@ -4,7 +4,7 @@ album: Forbidden Rites of the Black Arts
 artist: Malicious Storm
 categories:
 - Cassette
-date: '2023-02-22T06:19:36'
+date: '2023-04-27T05:14:00'
 draft: false
 images:
 - /images/covers/malicious_storm-forbidden_rites_of_the_black_arts.jpg

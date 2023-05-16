@@ -4,7 +4,7 @@ album: Savage Souls In Sodom
 artist: Goat Thrower
 categories:
 - CD
-date: '2022-11-30T06:10:35'
+date: '2023-04-27T05:13:39'
 draft: false
 images:
 - /images/covers/goat_thrower-savage_souls_in_sodom.jpg

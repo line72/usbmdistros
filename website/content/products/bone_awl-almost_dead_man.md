@@ -4,7 +4,7 @@ album: Almost Dead Man
 artist: Bone Awl
 categories:
 - Vinyl
-date: '2022-11-30T06:10:00'
+date: '2023-04-27T05:13:06'
 draft: false
 images:
 - /images/covers/bone_awl-almost_dead_man.jpg

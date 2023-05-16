@@ -5,7 +5,7 @@ artist: Dead Raven Choir
 categories:
 - Vinyl
 - CD
-date: '2022-11-30T06:10:31'
+date: '2023-04-27T05:13:36'
 draft: false
 images:
 - /images/covers/dead_raven_choir-cask_strength_black_metal.jpg

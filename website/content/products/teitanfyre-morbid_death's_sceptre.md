@@ -5,7 +5,7 @@ artist: Teitanfyre
 categories:
 - Vinyl
 - CD
-date: '2023-04-04T05:20:05'
+date: '2023-04-27T05:13:24'
 draft: false
 images:
 - /images/covers/teitanfyre-morbid_death's_sceptre.jpg

@@ -4,7 +4,7 @@ album: Split
 artist: Evil Damn / Toxic Holocaust
 categories:
 - CD
-date: '2022-11-30T06:10:32'
+date: '2023-04-27T05:13:38'
 draft: false
 images:
 - /images/covers/evil_damn_-_toxic_holocaust-split.jpg

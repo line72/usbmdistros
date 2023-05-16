@@ -4,7 +4,7 @@ album: "Echo 3 - Frisson d'\xE9ternit\xE9"
 artist: Sanctuaire
 categories:
 - Vinyl
-date: '2023-04-12T05:15:07'
+date: '2023-04-27T05:13:21'
 draft: false
 images:
 - "/images/covers/sanctuaire-echo_3_-_frisson_d'\xE9ternit\xE9.jpg"

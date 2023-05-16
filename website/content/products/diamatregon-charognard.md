@@ -1,0 +1,17 @@
+---
+actualPrice: $8.00
+album: Charognard
+artist: Diamatregon
+categories:
+- Vinyl
+date: '2023-05-11T05:16:04'
+draft: false
+images:
+- /images/covers/diamatregon-charognard.png
+inStock: true
+thumbnailImage: /images/covers/diamatregon-charognard-thumb.png
+title: Diamatregon - Charognard
+---
+
+## Vinyl
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=34231&sort=pd.name&order=ASC) for $8.00

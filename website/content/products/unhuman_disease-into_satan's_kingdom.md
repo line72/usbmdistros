@@ -4,7 +4,7 @@ album: Into Satan's Kingdom
 artist: Unhuman Disease
 categories:
 - Vinyl
-date: '2022-11-30T06:10:19'
+date: '2023-04-27T05:13:25'
 draft: false
 images:
 - /images/covers/unhuman_disease-into_satan's_kingdom.png

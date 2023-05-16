@@ -5,7 +5,7 @@ artist: Ceremonial Torture
 categories:
 - Vinyl
 - CD
-date: '2023-03-16T05:11:25'
+date: '2023-04-27T05:13:07'
 draft: false
 images:
 - /images/covers/ceremonial_torture-sabbath,_thou_arts.jpg

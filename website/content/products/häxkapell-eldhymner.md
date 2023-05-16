@@ -5,7 +5,7 @@ artist: "H\xE4xkapell"
 categories:
 - Vinyl
 - CD
-date: '2022-11-30T06:10:06'
+date: '2023-04-27T05:13:12'
 draft: false
 images:
 - "/images/covers/h\xE4xkapell-eldhymner.jpg"

@@ -5,7 +5,7 @@ artist: Valaraukar
 categories:
 - Vinyl
 - CD
-date: '2022-11-30T06:10:19'
+date: '2023-04-27T05:13:26'
 draft: false
 images:
 - /images/covers/valaraukar-demonian_abyssal_visions.jpg

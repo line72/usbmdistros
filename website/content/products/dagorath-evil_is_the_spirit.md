@@ -4,7 +4,7 @@ album: Evil is the Spirit
 artist: Dagorath
 categories:
 - Vinyl
-date: '2022-11-30T06:10:02'
+date: '2023-04-27T05:13:08'
 draft: false
 images:
 - /images/covers/dagorath-evil_is_the_spirit.jpg

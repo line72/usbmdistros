@@ -5,7 +5,7 @@ album: "\u0412 \u041F\u043B\u0430\u043C\u0435\u043D\u0438 \u0421\u043B\u0430\u04
 artist: Forest
 categories:
 - Vinyl
-date: '2023-01-17T06:11:21'
+date: '2023-04-27T05:13:11'
 draft: false
 images:
 - "/images/covers/forest-\u0432_\u043F\u043B\u0430\u043C\u0435\u043D\u0438_\u0441\u043B\
@@ -19,3 +19,4 @@ title: "Forest - \u0412 \u041F\u043B\u0430\u043C\u0435\u043D\u0438 \u0421\u043B\
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=30665&sort=pd.name&order=ASC) for $35.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=33654&sort=pd.name&order=ASC) for $35.00

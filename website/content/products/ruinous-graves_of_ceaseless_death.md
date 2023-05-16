@@ -5,7 +5,7 @@ artist: Ruinous
 categories:
 - Vinyl
 - CD
-date: '2022-11-30T06:10:15'
+date: '2023-04-27T05:13:21'
 draft: false
 images:
 - /images/covers/ruinous-graves_of_ceaseless_death.jpg

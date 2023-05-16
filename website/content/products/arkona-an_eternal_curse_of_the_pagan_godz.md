@@ -5,7 +5,7 @@ artist: Arkona
 categories:
 - Vinyl
 - Cassette
-date: '2022-12-05T06:27:22'
+date: '2023-04-27T05:13:03'
 draft: false
 images:
 - /images/covers/arkona-an_eternal_curse_of_the_pagan_godz.png

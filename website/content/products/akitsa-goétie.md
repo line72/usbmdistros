@@ -4,7 +4,7 @@ album: "Go\xE9tie"
 artist: Akitsa
 categories:
 - Vinyl
-date: '2023-03-22T05:11:10'
+date: '2023-04-27T05:13:03'
 draft: false
 images:
 - "/images/covers/akitsa-go\xE9tie.jpg"
@@ -19,3 +19,4 @@ title: "Akitsa - Go\xE9tie"
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=26055&sort=pd.name&order=ASC) for $20.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29803&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=32450&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=33713&sort=pd.name&order=ASC) for $25.00

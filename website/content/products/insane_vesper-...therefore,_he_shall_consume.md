@@ -4,7 +4,7 @@ album: '...Therefore, He Shall Consume'
 artist: Insane Vesper
 categories:
 - CD
-date: '2022-11-30T06:10:37'
+date: '2023-04-27T05:13:41'
 draft: false
 images:
 - /images/covers/insane_vesper-...therefore,_he_shall_consume.jpg

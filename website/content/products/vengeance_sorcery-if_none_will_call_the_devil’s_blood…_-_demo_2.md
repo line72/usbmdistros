@@ -4,7 +4,7 @@ album: "If None Will Call the Devil\u2019s Blood\u2026 - Demo 2"
 artist: Vengeance Sorcery
 categories:
 - Cassette
-date: '2023-03-30T05:22:14'
+date: '2023-04-27T05:14:05'
 draft: false
 images:
 - "/images/covers/vengeance_sorcery-if_none_will_call_the_devil\u2019s_blood\u2026\

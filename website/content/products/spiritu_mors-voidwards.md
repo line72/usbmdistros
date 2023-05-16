@@ -4,7 +4,7 @@ album: Voidwards
 artist: Spiritu Mors
 categories:
 - CD
-date: '2023-03-30T05:19:41'
+date: '2023-04-27T05:13:50'
 draft: false
 images:
 - /images/covers/spiritu_mors-voidwards.jpg

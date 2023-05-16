@@ -5,7 +5,7 @@ artist: The Satan's Scourge
 categories:
 - Vinyl
 - CD
-date: '2023-01-12T06:12:35'
+date: '2023-04-27T05:13:51'
 draft: false
 images:
 - /images/covers/the_satan's_scourge-threads_of_subconscious_torment.jpg

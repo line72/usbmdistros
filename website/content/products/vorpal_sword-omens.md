@@ -4,7 +4,7 @@ album: Omens
 artist: Vorpal Sword
 categories:
 - Cassette
-date: '2022-11-30T06:11:00'
+date: '2023-04-27T05:14:05'
 draft: false
 images:
 - /images/covers/vorpal_sword-omens.jpg

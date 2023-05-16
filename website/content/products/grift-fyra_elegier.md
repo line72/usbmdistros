@@ -5,7 +5,7 @@ artist: Grift
 categories:
 - Vinyl
 - CD
-date: '2022-11-30T06:10:05'
+date: '2023-04-27T05:13:12'
 draft: false
 images:
 - /images/covers/grift-fyra_elegier.jpg

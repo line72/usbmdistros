@@ -4,7 +4,7 @@ album: Never Surrender
 artist: "Destr\xF6yer 666"
 categories:
 - Vinyl
-date: '2023-03-10T06:12:58'
+date: '2023-04-27T05:13:09'
 draft: false
 images:
 - "/images/covers/destr\xF6yer_666-never_surrender.jpg"

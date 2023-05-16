@@ -4,7 +4,7 @@ album: Rites, Curses and Spells
 artist: "Death N\xF6ize"
 categories:
 - Vinyl
-date: '2022-11-30T06:10:02'
+date: '2023-04-27T05:13:08'
 draft: false
 images:
 - "/images/covers/death_n\xF6ize-rites,_curses_and_spells.jpg"

@@ -5,7 +5,7 @@ artist: Crucifier
 categories:
 - Vinyl
 - CD
-date: '2023-04-19T05:19:37'
+date: '2023-05-15T05:17:08'
 draft: false
 images:
 - /images/covers/crucifier-say_your_prayers.jpg
@@ -30,3 +30,4 @@ title: Crucifier - Say Your Prayers
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=33030&sort=pd.name&order=ASC) for $12.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=33355&sort=pd.name&order=ASC) for $12.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=33523&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=34383&sort=pd.name&order=ASC) for $12.00

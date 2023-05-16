@@ -4,7 +4,7 @@ album: Demo 2014
 artist: Blut
 categories:
 - Cassette
-date: '2022-11-30T06:10:50'
+date: '2023-04-27T05:13:56'
 draft: false
 images:
 - /images/covers/blut-demo_2014.png

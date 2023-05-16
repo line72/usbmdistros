@@ -1,10 +1,10 @@
 ---
-actualPrice: $7.00
+actualPrice: $5.00 - 7.00
 album: Ensnared in Dismal Blasphemies
 artist: Gravehammer
 categories:
 - Vinyl
-date: '2022-11-30T06:10:23'
+date: '2023-05-02T05:16:50'
 draft: false
 images:
 - /images/covers/gravehammer-ensnared_in_dismal_blasphemies.jpg
@@ -15,3 +15,4 @@ title: Gravehammer - Ensnared in Dismal Blasphemies
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=1643&sort=pd.name&order=ASC) for $7.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=33951&sort=pd.name&order=ASC) for $5.00

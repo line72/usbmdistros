@@ -4,7 +4,7 @@ album: A halal es az iranytu
 artist: Siculicidium
 categories:
 - Vinyl
-date: '2023-01-17T06:14:01'
+date: '2023-04-27T05:13:31'
 draft: false
 images:
 - /images/covers/siculicidium-a_halal_es_az_iranytu.jpg

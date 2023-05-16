@@ -4,7 +4,7 @@ album: Frykten og Mennesket
 artist: Helvetespine
 categories:
 - CD
-date: '2023-04-11T05:20:20'
+date: '2023-04-27T05:13:40'
 draft: false
 images:
 - /images/covers/helvetespine-frykten_og_mennesket.jpg

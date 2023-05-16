@@ -4,7 +4,7 @@ album: The Land of Shadow
 artist: Grimdor
 categories:
 - Cassette
-date: '2023-04-15T05:22:26'
+date: '2023-04-27T05:13:58'
 draft: false
 images:
 - /images/covers/grimdor-the_land_of_shadow.jpg

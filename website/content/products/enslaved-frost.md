@@ -5,7 +5,7 @@ artist: Enslaved
 categories:
 - Vinyl
 - CD
-date: '2023-04-11T05:14:45'
+date: '2023-04-27T05:13:38'
 draft: false
 images:
 - /images/covers/enslaved-frost.jpg

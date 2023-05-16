@@ -5,7 +5,7 @@ artist: Trest
 categories:
 - Vinyl
 - Cassette
-date: '2023-04-10T05:04:04'
+date: '2023-04-27T05:13:25'
 draft: false
 images:
 - /images/covers/trest-ordalium.jpg

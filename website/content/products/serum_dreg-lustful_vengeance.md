@@ -5,7 +5,7 @@ artist: Serum Dreg
 categories:
 - Vinyl
 - CD
-date: '2023-03-07T14:03:27'
+date: '2023-04-27T05:13:22'
 draft: false
 images:
 - /images/covers/serum_dreg-lustful_vengeance.jpg

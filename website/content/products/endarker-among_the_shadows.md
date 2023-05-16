@@ -4,7 +4,7 @@ album: Among The Shadows
 artist: Endarker
 categories:
 - CD
-date: '2022-11-30T06:10:32'
+date: '2023-04-27T05:13:38'
 draft: false
 images:
 - /images/covers/endarker-among_the_shadows.jpg

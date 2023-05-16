@@ -4,7 +4,7 @@ album: Abyssic Black Metal
 artist: Rotting Christ
 categories:
 - Vinyl
-date: '2023-02-03T06:12:57'
+date: '2023-04-27T05:13:21'
 draft: false
 images:
 - /images/covers/rotting_christ-abyssic_black_metal.jpg

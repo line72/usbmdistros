@@ -4,7 +4,7 @@ album: Mystic Journey Through the Ages
 artist: Midgard
 categories:
 - Vinyl
-date: '2022-12-08T06:10:15'
+date: '2023-04-27T05:13:17'
 draft: false
 images:
 - /images/covers/midgard-mystic_journey_through_the_ages.jpg

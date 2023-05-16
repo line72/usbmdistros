@@ -4,7 +4,7 @@ album: Dead Christ Prayer
 artist: Witchcraft / Aske
 categories:
 - Vinyl
-date: '2023-01-24T06:13:28'
+date: '2023-04-27T05:13:27'
 draft: false
 images:
 - /images/covers/witchcraft_-_aske-dead_christ_prayer.jpg

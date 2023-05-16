@@ -4,7 +4,7 @@ album: Venite ad me, Satanas
 artist: "K\xE4\xE4rmekristus"
 categories:
 - Cassette
-date: '2022-11-30T06:10:54'
+date: '2023-04-27T05:13:59'
 draft: false
 images:
 - "/images/covers/k\xE4\xE4rmekristus-venite_ad_me,_satanas.jpg"

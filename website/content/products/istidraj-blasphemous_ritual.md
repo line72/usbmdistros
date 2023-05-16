@@ -4,7 +4,7 @@ album: Blasphemous Ritual
 artist: Istidraj
 categories:
 - CD
-date: '2023-04-11T05:20:35'
+date: '2023-04-27T05:13:41'
 draft: false
 images:
 - /images/covers/istidraj-blasphemous_ritual.jpg

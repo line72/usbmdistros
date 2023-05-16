@@ -4,7 +4,7 @@ album: Atlantis Ascendant
 artist: Bal-Sagoth
 categories:
 - Vinyl
-date: '2023-03-16T05:11:08'
+date: '2023-04-27T05:13:04'
 draft: false
 images:
 - /images/covers/bal-sagoth-atlantis_ascendant.jpg

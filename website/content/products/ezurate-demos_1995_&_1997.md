@@ -4,7 +4,7 @@ album: Demos 1995 & 1997
 artist: Ezurate
 categories:
 - Vinyl
-date: '2023-03-07T06:12:17'
+date: '2023-04-27T05:13:10'
 draft: false
 images:
 - /images/covers/ezurate-demos_1995_&_1997.jpg

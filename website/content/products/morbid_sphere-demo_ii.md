@@ -4,7 +4,7 @@ album: Demo II
 artist: Morbid Sphere
 categories:
 - Cassette
-date: '2022-11-30T06:10:55'
+date: '2023-04-27T05:14:00'
 draft: false
 images:
 - /images/covers/morbid_sphere-demo_ii.png

@@ -4,7 +4,7 @@ album: Wolven Mysteries of Ancient Lore
 artist: Ancestral Shadows
 categories:
 - Vinyl
-date: '2023-01-12T06:10:20'
+date: '2023-04-27T05:13:03'
 draft: false
 images:
 - /images/covers/ancestral_shadows-wolven_mysteries_of_ancient_lore.jpg

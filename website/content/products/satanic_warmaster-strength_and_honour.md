@@ -5,7 +5,7 @@ artist: Satanic Warmaster
 categories:
 - Vinyl
 - CD
-date: '2023-03-22T05:19:05'
+date: '2023-04-27T05:13:49'
 draft: false
 images:
 - /images/covers/satanic_warmaster-strength_and_honour.jpg

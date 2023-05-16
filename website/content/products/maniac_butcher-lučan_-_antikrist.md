@@ -4,7 +4,7 @@ album: "Lu\u010Dan - Antikrist"
 artist: Maniac Butcher
 categories:
 - CD
-date: '2022-11-30T06:10:39'
+date: '2023-04-27T05:13:44'
 draft: false
 images:
 - "/images/covers/maniac_butcher-lu\u010Dan_-_antikrist.jpg"

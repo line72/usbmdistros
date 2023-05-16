@@ -4,7 +4,7 @@ album: Live! Eat Shit Vomit in Finland
 artist: Barbatos
 categories:
 - CD
-date: '2022-11-30T06:10:28'
+date: '2023-04-27T05:13:34'
 draft: false
 images:
 - /images/covers/barbatos-live!_eat_shit_vomit_in_finland.jpg

@@ -4,7 +4,7 @@ album: Strigzscara - Warwolf Live 1993
 artist: Marduk
 categories:
 - Cassette
-date: '2022-11-30T06:10:54'
+date: '2023-04-27T05:14:00'
 draft: false
 images:
 - /images/covers/marduk-strigzscara_-_warwolf_live_1993.jpg

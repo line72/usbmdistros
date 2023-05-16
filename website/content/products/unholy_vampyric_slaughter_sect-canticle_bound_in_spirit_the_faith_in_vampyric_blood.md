@@ -4,7 +4,7 @@ album: Canticle Bound In Spirit The Faith In Vampyric Blood
 artist: Unholy Vampyric Slaughter Sect
 categories:
 - Cassette
-date: '2022-11-30T06:10:59'
+date: '2023-04-27T05:14:05'
 draft: false
 images:
 - /images/covers/unholy_vampyric_slaughter_sect-canticle_bound_in_spirit_the_faith_in_vampyric_blood.jpg

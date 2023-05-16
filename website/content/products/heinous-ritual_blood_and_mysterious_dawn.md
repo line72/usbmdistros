@@ -5,7 +5,7 @@ artist: Heinous
 categories:
 - Vinyl
 - CD
-date: '2023-01-21T06:15:28'
+date: '2023-04-27T05:13:40'
 draft: false
 images:
 - /images/covers/heinous-ritual_blood_and_mysterious_dawn.jpg

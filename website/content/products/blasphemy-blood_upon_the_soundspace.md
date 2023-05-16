@@ -4,7 +4,7 @@ album: Blood Upon the Soundspace
 artist: Blasphemy
 categories:
 - Cassette
-date: '2023-01-12T06:16:56'
+date: '2023-04-27T05:13:55'
 draft: false
 images:
 - /images/covers/blasphemy-blood_upon_the_soundspace.png

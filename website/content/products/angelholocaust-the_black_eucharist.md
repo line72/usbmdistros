@@ -4,7 +4,7 @@ album: The Black Eucharist
 artist: Angelholocaust
 categories:
 - Vinyl
-date: '2023-04-07T05:11:47'
+date: '2023-04-27T05:13:03'
 draft: false
 images:
 - /images/covers/angelholocaust-the_black_eucharist.jpg

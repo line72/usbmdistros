@@ -4,7 +4,7 @@ album: Capel Beulah
 artist: Capel Beulah
 categories:
 - Cassette
-date: '2022-11-30T06:10:50'
+date: '2023-04-27T05:13:56'
 draft: false
 images:
 - /images/covers/capel_beulah-capel_beulah.jpg

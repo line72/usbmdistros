@@ -4,7 +4,7 @@ album: Redemptio
 artist: Funeral Harvest
 categories:
 - Vinyl
-date: '2023-01-11T06:00:42'
+date: '2023-04-27T05:13:11'
 draft: false
 images:
 - /images/covers/funeral_harvest-redemptio.png

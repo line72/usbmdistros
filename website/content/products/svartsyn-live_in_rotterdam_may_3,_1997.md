@@ -4,7 +4,7 @@ album: Live in Rotterdam May 3, 1997
 artist: Svartsyn
 categories:
 - Cassette
-date: '2022-11-30T06:10:58'
+date: '2023-04-27T05:14:04'
 draft: false
 images:
 - /images/covers/svartsyn-live_in_rotterdam_may_3,_1997.jpg

@@ -4,7 +4,7 @@ album: Blasphemy Reigns in Thy Night
 artist: Black Blood
 categories:
 - Vinyl
-date: '2023-02-20T06:00:58'
+date: '2023-04-27T05:13:05'
 draft: false
 images:
 - /images/covers/black_blood-blasphemy_reigns_in_thy_night.jpg

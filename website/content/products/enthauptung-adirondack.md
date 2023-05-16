@@ -4,7 +4,7 @@ album: Adirondack
 artist: Enthauptung
 categories:
 - Cassette
-date: '2022-11-30T06:10:52'
+date: '2023-04-27T05:13:57'
 draft: false
 images:
 - /images/covers/enthauptung-adirondack.png

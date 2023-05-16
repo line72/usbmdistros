@@ -4,7 +4,7 @@ album: Withered Flesh Left Ragged on the Bones of Existence
 artist: Vlkoslag
 categories:
 - Vinyl
-date: '2022-12-08T06:11:13'
+date: '2023-04-27T05:13:26'
 draft: false
 images:
 - /images/covers/vlkoslag-withered_flesh_left_ragged_on_the_bones_of_existence.jpg

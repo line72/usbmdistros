@@ -4,7 +4,7 @@ album: Dark Steel and Fire
 artist: The Gauntlet
 categories:
 - Vinyl
-date: '2023-01-27T06:16:32'
+date: '2023-04-27T05:13:24'
 draft: false
 images:
 - /images/covers/the_gauntlet-dark_steel_and_fire.jpg

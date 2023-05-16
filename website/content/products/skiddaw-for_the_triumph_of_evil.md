@@ -4,7 +4,7 @@ album: For the Triumph of Evil
 artist: Skiddaw
 categories:
 - Cassette
-date: '2022-11-30T06:10:58'
+date: '2023-04-27T05:14:03'
 draft: false
 images:
 - /images/covers/skiddaw-for_the_triumph_of_evil.jpg

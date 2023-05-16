@@ -4,7 +4,7 @@ album: 'Vargtimmen pt.1: The Inmost Night'
 artist: Wyrd
 categories:
 - CD
-date: '2023-04-11T05:22:43'
+date: '2023-04-27T05:13:54'
 draft: false
 images:
 - /images/covers/wyrd-vargtimmen_pt.1:_the_inmost_night.png

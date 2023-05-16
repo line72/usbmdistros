@@ -4,7 +4,7 @@ album: Navalum
 artist: Navalum
 categories:
 - Cassette
-date: '2022-12-12T06:16:49'
+date: '2023-04-27T05:14:00'
 draft: false
 images:
 - /images/covers/navalum-navalum.png

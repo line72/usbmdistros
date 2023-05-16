@@ -4,7 +4,7 @@ album: The Seven Heads Of The Lion-Serpent
 artist: Thralldom
 categories:
 - Vinyl
-date: '2022-11-30T06:10:26'
+date: '2023-04-27T05:13:32'
 draft: false
 images:
 - /images/covers/thralldom-the_seven_heads_of_the_lion-serpent.jpg

@@ -4,7 +4,7 @@ album: Wrath of the Tyrant / As the Shadows Rise
 artist: Emperor
 categories:
 - Vinyl
-date: '2023-04-19T05:14:52'
+date: '2023-04-27T05:13:10'
 draft: false
 images:
 - /images/covers/emperor-wrath_of_the_tyrant_-_as_the_shadows_rise.jpg

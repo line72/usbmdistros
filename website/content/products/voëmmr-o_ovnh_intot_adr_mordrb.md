@@ -4,7 +4,7 @@ album: O ovnh intot adr Mordrb
 artist: "Vo\xEBmmr"
 categories:
 - Vinyl
-date: '2022-11-30T06:10:20'
+date: '2023-04-27T05:13:26'
 draft: false
 images:
 - "/images/covers/vo\xEBmmr-o_ovnh_intot_adr_mordrb.jpg"

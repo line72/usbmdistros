@@ -4,7 +4,7 @@ album: Non Omnis Moriar
 artist: Mavorim
 categories:
 - Vinyl
-date: '2023-01-12T06:11:41'
+date: '2023-04-27T05:13:16'
 draft: false
 images:
 - /images/covers/mavorim-non_omnis_moriar.png

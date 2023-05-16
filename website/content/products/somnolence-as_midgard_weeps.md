@@ -4,7 +4,7 @@ album: As Midgard Weeps
 artist: Somnolence
 categories:
 - Cassette
-date: '2022-11-30T06:10:58'
+date: '2023-04-27T05:14:03'
 draft: false
 images:
 - /images/covers/somnolence-as_midgard_weeps.png

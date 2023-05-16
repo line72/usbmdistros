@@ -4,7 +4,7 @@ album: In Abhorrence Dementia
 artist: Limbonic Art
 categories:
 - Vinyl
-date: '2023-03-13T05:13:34'
+date: '2023-04-27T05:13:15'
 draft: false
 images:
 - /images/covers/limbonic_art-in_abhorrence_dementia.jpg
@@ -17,3 +17,4 @@ title: Limbonic Art - In Abhorrence Dementia
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=30794&sort=pd.name&order=ASC) for $30.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=31689&sort=pd.name&order=ASC) for $30.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=32035&sort=pd.name&order=ASC) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=33586&sort=pd.name&order=ASC) for $30.00

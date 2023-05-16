@@ -5,7 +5,7 @@ artist: Malign
 categories:
 - Vinyl
 - CD
-date: '2022-11-30T06:10:38'
+date: '2023-04-27T05:13:44'
 draft: false
 images:
 - "/images/covers/malign-demo_1\u200B-\u200B95.jpg"

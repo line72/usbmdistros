@@ -4,7 +4,7 @@ album: Indigen
 artist: Wacht
 categories:
 - CD
-date: '2023-04-11T05:22:36'
+date: '2023-04-27T05:13:53'
 draft: false
 images:
 - /images/covers/wacht-indigen.png

@@ -4,7 +4,7 @@ album: Sinister Creed
 artist: Funeral Winds
 categories:
 - Vinyl
-date: '2023-04-15T05:13:23'
+date: '2023-04-27T05:13:11'
 draft: false
 images:
 - /images/covers/funeral_winds-sinister_creed.jpg

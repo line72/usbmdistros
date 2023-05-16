@@ -4,7 +4,7 @@ album: Bathory - Yellow Goat
 artist: Bathory
 categories:
 - CD
-date: '2022-11-30T06:10:28'
+date: '2023-04-27T05:13:34'
 draft: false
 images:
 - /images/covers/bathory-bathory_-_yellow_goat.jpg

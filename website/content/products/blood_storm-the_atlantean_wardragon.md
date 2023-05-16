@@ -4,7 +4,7 @@ album: The Atlantean Wardragon
 artist: Blood Storm
 categories:
 - CD
-date: '2022-11-30T06:10:29'
+date: '2023-04-27T05:13:35'
 draft: false
 images:
 - /images/covers/blood_storm-the_atlantean_wardragon.jpg

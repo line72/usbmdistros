@@ -4,7 +4,7 @@ album: Black Thrash Attack
 artist: Aura Noir
 categories:
 - Vinyl
-date: '2023-03-16T05:11:06'
+date: '2023-04-27T05:13:04'
 draft: false
 images:
 - /images/covers/aura_noir-black_thrash_attack.jpg

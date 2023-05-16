@@ -4,7 +4,7 @@ album: Forged in Blood & Still in the Grey Dying
 artist: Sinoath
 categories:
 - Vinyl
-date: '2023-04-06T05:15:36'
+date: '2023-04-27T05:13:22'
 draft: false
 images:
 - /images/covers/sinoath-forged_in_blood_&_still_in_the_grey_dying.jpg

@@ -4,7 +4,7 @@ album: Ni Tsarya, Ni Boga
 artist: Koldovstvo
 categories:
 - Vinyl
-date: '2022-11-30T06:10:08'
+date: '2023-04-27T05:13:14'
 draft: false
 images:
 - /images/covers/koldovstvo-ni_tsarya,_ni_boga.jpg

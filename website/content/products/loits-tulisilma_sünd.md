@@ -4,7 +4,7 @@ album: "Tulisilma S\xFCnd"
 artist: Loits
 categories:
 - Cassette
-date: '2023-01-12T06:17:30'
+date: '2023-04-27T05:14:00'
 draft: false
 images:
 - "/images/covers/loits-tulisilma_s\xFCnd.jpg"

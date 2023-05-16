@@ -4,7 +4,7 @@ album: Remembrance of the Crucification
 artist: Behemoth
 categories:
 - Cassette
-date: '2023-03-13T05:20:11'
+date: '2023-04-27T05:13:55'
 draft: false
 images:
 - /images/covers/behemoth-remembrance_of_the_crucification.jpg

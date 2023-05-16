@@ -6,7 +6,7 @@ categories:
 - Vinyl
 - Cassette
 - CD
-date: '2023-01-08T06:18:12'
+date: '2023-04-27T05:14:01'
 draft: false
 images:
 - /images/covers/nigrum-elevenfold_tail.jpg

@@ -4,7 +4,7 @@ album: Apocalypse
 artist: Mass Kontrol Genocide
 categories:
 - Cassette
-date: '2022-11-30T06:10:55'
+date: '2023-04-27T05:14:00'
 draft: false
 images:
 - /images/covers/mass_kontrol_genocide-apocalypse.jpg

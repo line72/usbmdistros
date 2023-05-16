@@ -5,7 +5,7 @@ artist: "Jumalh\xE4m\xE4r\xE4"
 categories:
 - Vinyl
 - CD
-date: '2023-04-04T05:18:34'
+date: '2023-04-27T05:13:42'
 draft: false
 images:
 - "/images/covers/jumalh\xE4m\xE4r\xE4-resitaali.jpg"

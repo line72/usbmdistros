@@ -4,7 +4,7 @@ album: Blasphemous Crucifix Profanation
 artist: Irreverent
 categories:
 - CD
-date: '2022-11-30T06:10:37'
+date: '2023-04-27T05:13:41'
 draft: false
 images:
 - /images/covers/irreverent-blasphemous_crucifix_profanation.jpg

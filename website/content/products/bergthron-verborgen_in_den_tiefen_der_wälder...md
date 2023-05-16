@@ -4,7 +4,7 @@ album: "Verborgen in den Tiefen der W\xE4lder.."
 artist: Bergthron
 categories:
 - Vinyl
-date: '2023-02-28T06:14:04'
+date: '2023-04-27T05:13:05'
 draft: false
 images:
 - "/images/covers/bergthron-verborgen_in_den_tiefen_der_w\xE4lder...jpg"

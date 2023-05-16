@@ -4,7 +4,7 @@ album: "Fj\xF8lkyngi"
 artist: Grudom
 categories:
 - CD
-date: '2023-04-11T05:20:13'
+date: '2023-04-27T05:13:40'
 draft: false
 images:
 - "/images/covers/grudom-fj\xF8lkyngi.jpg"

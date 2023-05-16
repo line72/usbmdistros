@@ -4,7 +4,7 @@ album: As the Earth Fades into Obscurity
 artist: Winter Deluge
 categories:
 - Vinyl
-date: '2022-11-30T06:10:21'
+date: '2023-04-27T05:13:27'
 draft: false
 images:
 - /images/covers/winter_deluge-as_the_earth_fades_into_obscurity.jpg

@@ -4,7 +4,7 @@ album: Eastern Frontier in Flames
 artist: Drudkh
 categories:
 - Vinyl
-date: '2023-02-15T06:11:54'
+date: '2023-05-09T05:12:47'
 draft: false
 images:
 - /images/covers/drudkh-eastern_frontier_in_flames.jpg
@@ -18,3 +18,4 @@ title: Drudkh - Eastern Frontier in Flames
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=27940&sort=pd.name&order=ASC) for $27.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29306&sort=pd.name&order=ASC) for $27.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=31352&sort=pd.name&order=ASC) for $27.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=34137&sort=pd.name&order=ASC) for $27.00

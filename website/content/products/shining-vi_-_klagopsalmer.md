@@ -4,7 +4,7 @@ album: VI - Klagopsalmer
 artist: Shining
 categories:
 - Vinyl
-date: '2023-01-05T06:13:29'
+date: '2023-04-27T05:13:22'
 draft: false
 images:
 - /images/covers/shining-vi_-_klagopsalmer.png

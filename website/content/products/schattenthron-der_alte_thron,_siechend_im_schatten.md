@@ -5,7 +5,7 @@ artist: Schattenthron
 categories:
 - Vinyl
 - CD
-date: '2022-11-30T06:10:44'
+date: '2023-04-27T05:13:49'
 draft: false
 images:
 - /images/covers/schattenthron-der_alte_thron,_siechend_im_schatten.jpg

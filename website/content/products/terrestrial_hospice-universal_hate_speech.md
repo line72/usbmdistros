@@ -4,7 +4,7 @@ album: Universal Hate Speech
 artist: Terrestrial Hospice
 categories:
 - Vinyl
-date: '2023-02-21T06:14:15'
+date: '2023-04-27T05:13:24'
 draft: false
 images:
 - /images/covers/terrestrial_hospice-universal_hate_speech.jpg

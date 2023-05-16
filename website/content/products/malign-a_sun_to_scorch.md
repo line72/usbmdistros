@@ -4,7 +4,7 @@ album: A Sun To Scorch
 artist: Malign
 categories:
 - Vinyl
-date: '2022-11-30T06:10:09'
+date: '2023-04-27T05:13:16'
 draft: false
 images:
 - /images/covers/malign-a_sun_to_scorch.jpg

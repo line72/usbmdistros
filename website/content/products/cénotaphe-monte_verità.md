@@ -4,7 +4,7 @@ album: "Monte Verit\xE0"
 artist: "C\xE9notaphe"
 categories:
 - Vinyl
-date: '2023-03-28T05:12:12'
+date: '2023-04-27T05:13:07'
 draft: false
 images:
 - "/images/covers/c\xE9notaphe-monte_verit\xE0.jpg"

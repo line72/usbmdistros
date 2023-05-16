@@ -4,7 +4,7 @@ album: Silver Knife Mysticism
 artist: Hell's Coronation
 categories:
 - CD
-date: '2023-02-02T06:15:29'
+date: '2023-04-27T05:13:40'
 draft: false
 images:
 - /images/covers/hell's_coronation-silver_knife_mysticism.png

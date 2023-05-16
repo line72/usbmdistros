@@ -4,7 +4,7 @@ album: The Shadowthrone
 artist: Satyricon
 categories:
 - CD
-date: '2023-03-16T05:20:13'
+date: '2023-04-27T05:13:49'
 draft: false
 images:
 - /images/covers/satyricon-the_shadowthrone.jpg

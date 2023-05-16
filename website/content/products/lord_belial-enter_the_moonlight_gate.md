@@ -5,7 +5,7 @@ artist: Lord Belial
 categories:
 - Vinyl
 - CD
-date: '2023-03-13T05:13:35'
+date: '2023-04-27T05:13:15'
 draft: false
 images:
 - /images/covers/lord_belial-enter_the_moonlight_gate.jpg

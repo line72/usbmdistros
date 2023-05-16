@@ -4,7 +4,7 @@ album: The last Temptation - Light of violet Penance
 artist: FUNERARY BELL
 categories:
 - CD
-date: '2023-04-04T05:18:03'
+date: '2023-04-27T05:13:39'
 draft: false
 images:
 - /images/covers/funerary_bell-the_last_temptation_-_light_of_violet_penance.jpg

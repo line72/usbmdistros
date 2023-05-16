@@ -4,7 +4,7 @@ album: Meet Us at the Southern Sign
 artist: Glorior Belli
 categories:
 - Vinyl
-date: '2022-11-30T06:10:05'
+date: '2023-04-27T05:13:11'
 draft: false
 images:
 - /images/covers/glorior_belli-meet_us_at_the_southern_sign.jpg

@@ -5,7 +5,7 @@ artist: Necrosadist
 categories:
 - Vinyl
 - CD
-date: '2023-03-07T14:04:33'
+date: '2023-04-27T05:13:18'
 draft: false
 images:
 - /images/covers/necrosadist-abstract_satan.jpg

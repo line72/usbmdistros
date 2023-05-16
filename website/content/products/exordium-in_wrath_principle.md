@@ -4,7 +4,7 @@ album: In Wrath Principle
 artist: Exordium
 categories:
 - Vinyl
-date: '2023-03-22T05:12:14'
+date: '2023-04-27T05:13:10'
 draft: false
 images:
 - /images/covers/exordium-in_wrath_principle.jpg

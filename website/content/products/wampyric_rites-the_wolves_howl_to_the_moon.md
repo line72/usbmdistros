@@ -6,7 +6,7 @@ categories:
 - Vinyl
 - Cassette
 - CD
-date: '2023-02-11T06:13:50'
+date: '2023-04-27T05:13:27'
 draft: false
 images:
 - /images/covers/wampyric_rites-the_wolves_howl_to_the_moon.jpg

@@ -4,7 +4,7 @@ album: "The Flame Of Eternity\u2019s Decline"
 artist: Khors
 categories:
 - Vinyl
-date: '2022-11-30T06:10:08'
+date: '2023-04-27T05:13:14'
 draft: false
 images:
 - "/images/covers/khors-the_flame_of_eternity\u2019s_decline.jpg"

@@ -4,7 +4,7 @@ album: Live Samurai Metal Punk - Tour May 2018
 artist: Insulter
 categories:
 - Cassette
-date: '2022-11-30T06:10:54'
+date: '2023-04-27T05:13:59'
 draft: false
 images:
 - /images/covers/insulter-live_samurai_metal_punk_-_tour_may_2018.png

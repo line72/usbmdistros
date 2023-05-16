@@ -4,7 +4,7 @@ album: Wild Hunts and Endless Nights
 artist: Enslaved
 categories:
 - Vinyl
-date: '2023-04-11T05:14:45'
+date: '2023-04-27T05:13:10'
 draft: false
 images:
 - /images/covers/enslaved-wild_hunts_and_endless_nights.jpg

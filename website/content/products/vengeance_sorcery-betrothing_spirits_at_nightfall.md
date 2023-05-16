@@ -4,7 +4,7 @@ album: Betrothing Spirits at Nightfall
 artist: Vengeance Sorcery
 categories:
 - Vinyl
-date: '2023-03-30T05:15:33'
+date: '2023-04-27T05:13:26'
 draft: false
 images:
 - /images/covers/vengeance_sorcery-betrothing_spirits_at_nightfall.jpg

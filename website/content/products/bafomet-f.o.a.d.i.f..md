@@ -4,7 +4,7 @@ album: F.O.A.D.I.F.
 artist: Bafomet
 categories:
 - CD
-date: '2023-01-08T06:14:10'
+date: '2023-04-27T05:13:34'
 draft: false
 images:
 - /images/covers/bafomet-f.o.a.d.i.f..jpg

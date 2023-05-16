@@ -4,7 +4,7 @@ album: Nordisk Vinter
 artist: Grimm
 categories:
 - Vinyl
-date: '2023-01-12T06:11:15'
+date: '2023-04-27T05:13:12'
 draft: false
 images:
 - /images/covers/grimm-nordisk_vinter.png

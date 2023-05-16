@@ -4,7 +4,7 @@ album: "Z\xE1\u0159e z\xE1paln\xFDch \u0161\u0148\u016Fr"
 artist: Stiny Plamenu
 categories:
 - CD
-date: '2022-11-30T06:10:45'
+date: '2023-04-27T05:13:50'
 draft: false
 images:
 - "/images/covers/stiny_plamenu-z\xE1\u0159e_z\xE1paln\xFDch_\u0161\u0148\u016Fr.jpg"

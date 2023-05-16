@@ -5,7 +5,7 @@ artist: Grand Celestial Nightmare
 categories:
 - Vinyl
 - CD
-date: '2023-03-30T05:26:12'
+date: '2023-04-27T05:13:12'
 draft: false
 images:
 - /images/covers/grand_celestial_nightmare-forbidden_knowledge_and_ancient_wisdom.jpg

@@ -6,7 +6,7 @@ categories:
 - Vinyl
 - Cassette
 - CD
-date: '2022-11-30T06:10:05'
+date: '2023-04-27T05:13:11'
 draft: false
 images:
 - /images/covers/funeral_winds-koude_haat.jpg

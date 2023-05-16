@@ -5,7 +5,7 @@ artist: Blasphamagoatachrist
 categories:
 - Vinyl
 - CD
-date: '2023-03-19T05:11:10'
+date: '2023-04-27T05:13:06'
 draft: false
 images:
 - /images/covers/blasphamagoatachrist-bastardizing_the_purity.jpg

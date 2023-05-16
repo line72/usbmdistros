@@ -4,7 +4,7 @@ album: "Aisling\xED An Gheimhridh"
 artist: "Dobhar Ch\xFA"
 categories:
 - Cassette
-date: '2022-12-12T06:16:23'
+date: '2023-04-27T05:13:57'
 draft: false
 images:
 - "/images/covers/dobhar_ch\xFA-aisling\xED_an_gheimhridh.png"

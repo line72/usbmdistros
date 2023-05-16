@@ -4,7 +4,7 @@ album: Avskjed
 artist: Selvhat
 categories:
 - Vinyl
-date: '2023-04-08T05:15:42'
+date: '2023-04-27T05:13:22'
 draft: false
 images:
 - /images/covers/selvhat-avskjed.jpg

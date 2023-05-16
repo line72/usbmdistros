@@ -4,7 +4,7 @@ album: II.Macabre
 artist: Hiverna
 categories:
 - Vinyl
-date: '2022-11-30T06:10:06'
+date: '2023-04-27T05:13:13'
 draft: false
 images:
 - /images/covers/hiverna-ii.macabre.jpg

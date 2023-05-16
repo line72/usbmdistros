@@ -4,7 +4,7 @@ album: In Nomine Satanas
 artist: Ragnarok
 categories:
 - Vinyl
-date: '2023-02-22T06:13:26'
+date: '2023-04-27T05:13:21'
 draft: false
 images:
 - /images/covers/ragnarok-in_nomine_satanas.jpg

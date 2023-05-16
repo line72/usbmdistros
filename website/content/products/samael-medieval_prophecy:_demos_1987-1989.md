@@ -4,7 +4,7 @@ album: 'Medieval Prophecy: Demos 1987-1989'
 artist: Samael
 categories:
 - Vinyl
-date: '2023-03-03T06:14:07'
+date: '2023-05-12T05:14:40'
 draft: false
 images:
 - /images/covers/samael-medieval_prophecy:_demos_1987-1989.jpg
@@ -25,3 +25,4 @@ title: 'Samael - Medieval Prophecy: Demos 1987-1989'
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29962&sort=pd.name&order=ASC) for $30.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=30029&sort=pd.name&order=ASC) for $30.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=31796&sort=pd.name&order=ASC) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=34322&sort=pd.name&order=ASC) for $30.00

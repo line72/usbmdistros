@@ -4,7 +4,7 @@ album: Norton X
 artist: Circumventor
 categories:
 - CD
-date: '2022-12-05T06:27:36'
+date: '2023-04-27T05:13:35'
 draft: false
 images:
 - /images/covers/circumventor-norton_x.jpg

@@ -4,7 +4,7 @@ album: Demiurge
 artist: Pneuma Hagion
 categories:
 - Vinyl
-date: '2023-03-07T06:13:55'
+date: '2023-04-27T05:13:20'
 draft: false
 images:
 - /images/covers/pneuma_hagion-demiurge.jpg

@@ -4,7 +4,7 @@ album: The Enlightenment
 artist: Sargatanas
 categories:
 - CD
-date: '2022-11-30T06:10:43'
+date: '2023-04-27T05:13:49'
 draft: false
 images:
 - /images/covers/sargatanas-the_enlightenment.png

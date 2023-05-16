@@ -4,7 +4,7 @@ album: The Wrath of Belial - The Demos
 artist: Lord Belial
 categories:
 - Vinyl
-date: '2023-03-13T05:13:35'
+date: '2023-04-27T05:13:15'
 draft: false
 images:
 - /images/covers/lord_belial-the_wrath_of_belial_-_the_demos.png

@@ -4,7 +4,7 @@ album: The Willing Followers of Him
 artist: Flooded Church of Asmodeus
 categories:
 - Vinyl
-date: '2022-11-30T06:10:04'
+date: '2023-04-27T05:13:11'
 draft: false
 images:
 - /images/covers/flooded_church_of_asmodeus-the_willing_followers_of_him.jpg

@@ -4,7 +4,7 @@ album: Advance Promo 2021
 artist: Obsequies
 categories:
 - Cassette
-date: '2022-12-12T06:16:52'
+date: '2023-04-27T05:14:01'
 draft: false
 images:
 - /images/covers/obsequies-advance_promo_2021.jpg

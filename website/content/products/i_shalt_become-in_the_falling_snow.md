@@ -4,7 +4,7 @@ album: In The Falling Snow
 artist: I Shalt Become
 categories:
 - Vinyl
-date: '2022-11-30T06:10:06'
+date: '2023-04-27T05:13:13'
 draft: false
 images:
 - /images/covers/i_shalt_become-in_the_falling_snow.jpg

@@ -5,7 +5,7 @@ artist: Verberis
 categories:
 - Vinyl
 - CD
-date: '2022-11-30T06:10:47'
+date: '2023-04-27T05:13:52'
 draft: false
 images:
 - /images/covers/verberis-vorant_gnosis.png

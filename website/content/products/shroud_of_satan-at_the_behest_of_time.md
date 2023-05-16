@@ -4,7 +4,7 @@ album: At The Behest Of Time
 artist: Shroud Of Satan
 categories:
 - CD
-date: '2022-11-30T06:10:44'
+date: '2023-04-27T05:13:49'
 draft: false
 images:
 - /images/covers/shroud_of_satan-at_the_behest_of_time.jpg

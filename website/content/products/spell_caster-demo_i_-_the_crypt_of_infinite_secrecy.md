@@ -4,7 +4,7 @@ album: Demo I - The Crypt Of Infinite Secrecy
 artist: Spell Caster
 categories:
 - Cassette
-date: '2022-11-30T06:10:58'
+date: '2023-04-27T05:14:03'
 draft: false
 images:
 - /images/covers/spell_caster-demo_i_-_the_crypt_of_infinite_secrecy.jpg

@@ -4,7 +4,7 @@ album: Eastland Tales - Part I
 artist: Theosophy
 categories:
 - CD
-date: '2022-11-30T06:10:46'
+date: '2023-04-27T05:13:51'
 draft: false
 images:
 - /images/covers/theosophy-eastland_tales_-_part_i.png

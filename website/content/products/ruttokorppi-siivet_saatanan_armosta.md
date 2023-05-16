@@ -4,7 +4,7 @@ album: Siivet Saatanan Armosta
 artist: Ruttokorppi
 categories:
 - Cassette
-date: '2022-11-30T06:10:57'
+date: '2023-04-27T05:14:02'
 draft: false
 images:
 - /images/covers/ruttokorppi-siivet_saatanan_armosta.jpg
