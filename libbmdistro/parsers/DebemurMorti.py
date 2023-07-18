@@ -7,6 +7,7 @@ import requests
 from bs4 import BeautifulSoup
 import re
 import urllib
+import sys
 
 from .Parser import Parser
 from ..Product import Product
@@ -64,7 +65,11 @@ class DebemurMorti(Parser):
         in_stock = Product.STOCK_UNKNOWN
         quantity = -1
 
-        item_type = self.get_item_type(category)
+        try:
+            item_type = self.get_item_type(category)
+        except Exception as e:
+            print(f'DebemurMorti: Error parsing {artist} {album} - {url}', file = sys.stderr)
+            raise e;
 
         # use the url as the id
         pId = link
@@ -106,6 +111,8 @@ class DebemurMorti(Parser):
         elif category == '/category/261':
             return 'Vinyl'
         elif category == '/category/263':
+            return 'Vinyl'
+        elif category == '/category/353':
             return 'Vinyl'
         elif category == '/category/303':
             return 'Cassette'
