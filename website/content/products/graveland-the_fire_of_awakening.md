@@ -4,7 +4,7 @@ album: The Fire of Awakening
 artist: Graveland
 categories:
 - Vinyl
-date: '2023-05-12T05:13:13'
+date: '2023-05-19T05:13:37'
 draft: false
 images:
 - /images/covers/graveland-the_fire_of_awakening.jpg
@@ -18,3 +18,4 @@ title: Graveland - The Fire of Awakening
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29421&sort=pd.name&order=ASC) for $21.60
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=33986&sort=pd.name&order=ASC) for $27.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=34261&sort=pd.name&order=ASC) for $27.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=34711&sort=pd.name&order=ASC) for $27.00

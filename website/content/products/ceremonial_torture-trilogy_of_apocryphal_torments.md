@@ -4,7 +4,7 @@ album: Trilogy of Apocryphal Torments
 artist: Ceremonial Torture
 categories:
 - CD
-date: '2023-04-27T05:13:35'
+date: '2023-05-19T05:18:13'
 draft: false
 images:
 - /images/covers/ceremonial_torture-trilogy_of_apocryphal_torments.jpg
@@ -16,3 +16,4 @@ title: Ceremonial Torture - Trilogy of Apocryphal Torments
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=31980&sort=pd.name&order=ASC) for $15.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=32193&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=34665&sort=pd.name&order=ASC) for $15.00

@@ -1,10 +1,11 @@
 ---
-actualPrice: $13.00
+actualPrice: $13.00 - 25.00
 album: Nova Nativitas Mundi
 artist: Albionic Hermeticism
 categories:
+- Vinyl
 - CD
-date: '2023-04-28T05:01:39'
+date: '2023-06-08T05:12:59'
 draft: false
 images:
 - /images/covers/albionic_hermeticism-nova_nativitas_mundi.jpg
@@ -13,5 +14,8 @@ thumbnailImage: /images/covers/albionic_hermeticism-nova_nativitas_mundi-thumb.j
 title: Albionic Hermeticism - Nova Nativitas Mundi
 ---
 
+## Vinyl
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=35152&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=35375&sort=pd.name&order=ASC) for $25.00
 ## CD
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/albionic-hermeticism-nova-nativitas-mundi-cd) for $13.00

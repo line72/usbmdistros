@@ -4,7 +4,7 @@ album: Black Millenium (Grimly Reborn)
 artist: "M\xFCtiilation"
 categories:
 - Vinyl
-date: '2023-01-31T06:12:11'
+date: '2023-05-23T05:15:08'
 draft: false
 images:
 - "/images/covers/m\xFCtiilation-black_millenium_(grimly_reborn).jpg"
@@ -21,3 +21,5 @@ title: "M\xFCtiilation - Black Millenium (Grimly Reborn)"
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29951&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=30341&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=31091&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=34570&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=34918&sort=pd.name&order=ASC) for $25.00

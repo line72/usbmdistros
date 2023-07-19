@@ -1,10 +1,10 @@
 ---
-actualPrice: $28.00
+actualPrice: $20.00 - 28.00
 album: Abendrot
 artist: Ulfsdalir
 categories:
 - Vinyl
-date: '2021-07-27T05:00:17'
+date: '2023-05-31T05:25:55'
 draft: false
 images:
 - /images/covers/ulfsdalir-abendrot.jpg
@@ -15,3 +15,4 @@ title: Ulfsdalir - Abendrot
 
 ## Vinyl
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/ulfsdalir-abendrot-12-lp-booklet) for $28.00
+* Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/ulfsdalir-abendrot-12-lp/) for $20.00

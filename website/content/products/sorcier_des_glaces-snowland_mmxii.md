@@ -4,7 +4,7 @@ album: Snowland MMXII
 artist: Sorcier des Glaces
 categories:
 - Vinyl
-date: '2023-04-06T05:00:52'
+date: '2023-07-01T05:06:40'
 draft: false
 images:
 - /images/covers/sorcier_des_glaces-snowland_mmxii.jpg

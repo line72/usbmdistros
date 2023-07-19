@@ -4,7 +4,7 @@ album: The Jackal Pact
 artist: Gorgon
 categories:
 - CD
-date: '2023-04-27T05:13:39'
+date: '2023-05-18T05:21:15'
 draft: false
 images:
 - /images/covers/gorgon-the_jackal_pact.jpg
@@ -17,3 +17,4 @@ title: Gorgon - The Jackal Pact
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=11922&sort=pd.name&order=ASC) for $12.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=20949&sort=pd.name&order=ASC) for $12.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=29254&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=34607&sort=pd.name&order=ASC) for $12.00

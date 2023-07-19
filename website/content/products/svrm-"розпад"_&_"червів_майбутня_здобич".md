@@ -7,7 +7,7 @@ artist: SVRM
 categories:
 - Vinyl
 - CD
-date: '2022-12-11T06:22:05'
+date: '2023-07-19T08:40:58'
 draft: false
 images:
 - "/images/covers/svrm-\"\u0440\u043E\u0437\u043F\u0430\u0434\"_&_\"\u0447\u0435\u0440\
@@ -26,3 +26,4 @@ title: "SVRM - \"\u0420\u043E\u0437\u043F\u0430\u0434\" & \"\u0427\u0435\u0440\u
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/svrm-розпад-червів-майбутня-здобич-lp) for $20.00 :: Black 2022 press vinyl
 ## CD
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/svrm-р-о-з-п-а-д-ч-е-р-в-і-в-м-а-й-б-у-т-н-я-з-д-о-б-и-ч) for $10.00 :: CD 2022
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/svrm-розпад-червів-майбутня-здобич-cd) for $12.00 :: CD 2022

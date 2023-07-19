@@ -4,7 +4,7 @@ album: Tolling 13 Knell
 artist: Mortuary Drape
 categories:
 - Vinyl
-date: '2023-02-03T06:12:23'
+date: '2023-07-18T16:30:17'
 draft: false
 images:
 - /images/covers/mortuary_drape-tolling_13_knell.jpg
@@ -19,3 +19,5 @@ title: Mortuary Drape - Tolling 13 Knell
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=21857&sort=pd.name&order=ASC) for $30.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=27978&sort=pd.name&order=ASC) for $30.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=31160&sort=pd.name&order=ASC) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=35711&sort=pd.name&order=ASC) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=36401&sort=pd.name&order=ASC) for $30.00

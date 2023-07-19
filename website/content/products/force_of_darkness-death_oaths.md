@@ -7,9 +7,9 @@ categories:
 date: '2023-05-02T05:16:48'
 draft: false
 images:
-- /images/covers/force_of_darkness-death_oaths.png
+- /images/covers/force_of_darkness-death_oaths.jpg
 inStock: true
-thumbnailImage: /images/covers/force_of_darkness-death_oaths-thumb.png
+thumbnailImage: /images/covers/force_of_darkness-death_oaths-thumb.jpg
 title: Force Of Darkness - Death Oaths
 ---
 

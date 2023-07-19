@@ -5,7 +5,7 @@ artist: Valhalla Bound
 categories:
 - Vinyl
 - CD
-date: '2023-04-27T05:13:52'
+date: '2023-07-18T17:52:19'
 draft: false
 images:
 - /images/covers/valhalla_bound-virgin_hearts.jpg
@@ -18,3 +18,4 @@ title: Valhalla Bound - Virgin Hearts
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=10382&sort=pd.name&order=ASC) for $25.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=15423&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=36851&sort=pd.name&order=ASC) for $12.00

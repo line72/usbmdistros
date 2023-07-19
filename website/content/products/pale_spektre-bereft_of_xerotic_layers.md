@@ -5,7 +5,7 @@ artist: Pale Spektre
 categories:
 - Vinyl
 - Cassette
-date: '2023-04-27T05:14:01'
+date: '2023-06-12T09:15:31'
 draft: false
 images:
 - /images/covers/pale_spektre-bereft_of_xerotic_layers.jpg
@@ -19,7 +19,9 @@ title: Pale Spektre - Bereft of Xerotic Layers
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=28963&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29643&sort=pd.name&order=ASC) for $25.00
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/used-pale-spektre-bereft-of-xerotic-layers-lp) for $20.00 :: Black 2022 press vinyl
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=35523&sort=pd.name&order=ASC) for $25.00
 ## Cassette
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=28924&sort=pd.name&order=ASC) for $10.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=28964&sort=pd.name&order=ASC) for $10.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=29644&sort=pd.name&order=ASC) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=35524&sort=pd.name&order=ASC) for $10.00

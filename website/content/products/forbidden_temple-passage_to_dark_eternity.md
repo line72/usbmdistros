@@ -4,7 +4,7 @@ album: Passage to Dark Eternity
 artist: Forbidden Temple
 categories:
 - Vinyl
-date: '2023-05-12T05:16:07'
+date: '2023-07-18T16:58:49'
 draft: false
 images:
 - /images/covers/forbidden_temple-passage_to_dark_eternity.jpg
@@ -23,3 +23,4 @@ title: Forbidden Temple - Passage to Dark Eternity
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=32078&sort=pd.name&order=ASC) for $15.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=34209&sort=pd.name&order=ASC) for $15.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=34270&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=36414&sort=pd.name&order=ASC) for $15.00

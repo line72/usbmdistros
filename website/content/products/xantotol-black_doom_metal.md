@@ -6,7 +6,7 @@ categories:
 - Vinyl
 - Cassette
 - CD
-date: '2023-04-27T05:13:28'
+date: '2023-06-11T07:59:42'
 draft: false
 images:
 - /images/covers/xantotol-black_doom_metal.jpg
@@ -21,3 +21,4 @@ title: Xantotol - Black Doom Metal
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=9748&sort=pd.name&order=ASC) for $8.00
 ## CD
 * Purchase from [CW Productions](https://shop.cwproductions.net/products/xantotol-black-doom-metal-cd) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=35487&sort=pd.name&order=ASC) for $12.00

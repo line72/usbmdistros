@@ -4,7 +4,7 @@ album: Satanic Art
 artist: Dodheimsgard
 categories:
 - Vinyl
-date: '2023-04-27T05:13:09'
+date: '2023-07-18T16:11:29'
 draft: false
 images:
 - /images/covers/dodheimsgard-satanic_art.jpg
@@ -17,3 +17,5 @@ title: Dodheimsgard - Satanic Art
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=11810&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=19418&sort=pd.name&order=ASC) for $20.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=31162&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=35724&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=37052&sort=pd.name&order=ASC) for $25.00

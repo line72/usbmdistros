@@ -5,7 +5,8 @@ artist: Kalmankantaja
 categories:
 - Vinyl
 - Cassette
-date: '2023-04-07T05:27:02'
+- CD
+date: '2023-07-18T17:28:54'
 draft: false
 images:
 - /images/covers/kalmankantaja-korpi.jpg
@@ -19,3 +20,5 @@ title: Kalmankantaja - Korpi
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=18047&sort=pd.name&order=ASC) for $20.00
 ## Cassette
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/used-kalmankantaja-korpi-cassette) for $12.00 :: Grey/Brown Shell 2020 press
+## CD
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=36376&sort=pd.name&order=ASC) for $12.00

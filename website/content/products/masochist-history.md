@@ -4,7 +4,7 @@ album: History
 artist: Masochist
 categories:
 - Vinyl
-date: '2023-04-27T05:13:16'
+date: '2023-06-18T06:21:50'
 draft: false
 images:
 - /images/covers/masochist-history.jpg
@@ -15,3 +15,4 @@ title: Masochist - History
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=24232&sort=pd.name&order=ASC) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=35883&sort=pd.name&order=ASC) for $30.00

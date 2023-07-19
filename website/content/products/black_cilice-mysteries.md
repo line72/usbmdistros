@@ -5,7 +5,7 @@ artist: Black Cilice
 categories:
 - Vinyl
 - CD
-date: '2023-04-27T05:13:05'
+date: '2023-05-23T05:12:56'
 draft: false
 images:
 - /images/covers/black_cilice-mysteries.jpg
@@ -24,5 +24,6 @@ title: Black Cilice - Mysteries
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=30266&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=31841&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=32918&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=34899&sort=pd.name&order=ASC) for $25.00
 ## CD
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/black-cilice-mysteries-cd) for $15.00

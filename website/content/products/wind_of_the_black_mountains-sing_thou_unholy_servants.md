@@ -4,7 +4,7 @@ album: Sing Thou Unholy Servants
 artist: Wind of the Black Mountains
 categories:
 - Vinyl
-date: '2023-04-27T05:13:27'
+date: '2023-06-18T06:49:17'
 draft: false
 images:
 - /images/covers/wind_of_the_black_mountains-sing_thou_unholy_servants.jpg
@@ -18,3 +18,4 @@ title: Wind of the Black Mountains - Sing Thou Unholy Servants
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=21474&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=22541&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=23426&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=35884&sort=pd.name&order=ASC) for $25.00

@@ -1,10 +1,11 @@
 ---
-actualPrice: $23.00 - 25.00
+actualPrice: $10.00 - 25.00
 album: Black Katharsis
 artist: Satanic Warmaster
 categories:
 - Vinyl
-date: '2023-05-16T05:15:51'
+- CD
+date: '2023-07-18T16:40:59'
 draft: false
 images:
 - /images/covers/satanic_warmaster-black_katharsis.jpg
@@ -26,3 +27,6 @@ title: Satanic Warmaster - Black Katharsis
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=33957&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=34319&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=34431&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=36408&sort=pd.name&order=ASC) for $25.00
+## CD
+* Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/satanic-warmaster-black-katharsis-cd/) for $10.00

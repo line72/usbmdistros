@@ -6,7 +6,7 @@ categories:
 - Vinyl
 - Cassette
 - CD
-date: '2023-04-27T05:13:57'
+date: '2023-07-18T16:10:43'
 draft: false
 images:
 - /images/covers/destroyer_666-violence_is_the_prince_of_this_world.jpg
@@ -18,6 +18,8 @@ title: Destroyer 666 - Violence Is the Prince of This World
 ## Vinyl
 * Purchase from [CW Productions](https://shop.cwproductions.net/products/destroyer-666-violence-is-the-prince-of-this-world-lp-2) for $25.00
 * Purchase from [CW Productions](https://shop.cwproductions.net/products/destroyer-666-violence-is-the-prince-of-this-world-lp-1) for $35.00 :: Goatowarex
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=35413&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=36601&sort=pd.name&order=ASC) for $25.00
 ## Cassette
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=22911&sort=pd.name&order=ASC) for $15.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=23708&sort=pd.name&order=ASC) for $15.00

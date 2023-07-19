@@ -7,9 +7,9 @@ categories:
 date: '2023-05-01T05:14:34'
 draft: false
 images:
-- /images/covers/necrowretch-satanic_slavery.png
+- /images/covers/necrowretch-satanic_slavery.jpg
 inStock: true
-thumbnailImage: /images/covers/necrowretch-satanic_slavery-thumb.png
+thumbnailImage: /images/covers/necrowretch-satanic_slavery-thumb.jpg
 title: Necrowretch - Satanic Slavery
 ---
 

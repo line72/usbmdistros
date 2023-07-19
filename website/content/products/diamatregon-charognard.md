@@ -7,9 +7,9 @@ categories:
 date: '2023-05-11T05:16:04'
 draft: false
 images:
-- /images/covers/diamatregon-charognard.png
+- /images/covers/diamatregon-charognard.jpg
 inStock: true
-thumbnailImage: /images/covers/diamatregon-charognard-thumb.png
+thumbnailImage: /images/covers/diamatregon-charognard-thumb.jpg
 title: Diamatregon - Charognard
 ---
 

@@ -4,7 +4,7 @@ album: Witchcraft
 artist: Obtained Enslavement
 categories:
 - Vinyl
-date: '2022-11-30T06:10:12'
+date: '2023-07-18T16:34:43'
 draft: false
 images:
 - /images/covers/obtained_enslavement-witchcraft.jpg
@@ -16,3 +16,5 @@ title: Obtained Enslavement - Witchcraft
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=17571&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=27992&sort=pd.name&order=ASC) for $27.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=35730&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=36440&sort=pd.name&order=ASC) for $25.00

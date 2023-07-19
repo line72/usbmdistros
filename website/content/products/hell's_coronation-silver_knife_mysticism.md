@@ -4,7 +4,7 @@ album: Silver Knife Mysticism
 artist: Hell's Coronation
 categories:
 - CD
-date: '2023-04-27T05:13:40'
+date: '2023-06-13T07:45:15'
 draft: false
 images:
 - /images/covers/hell's_coronation-silver_knife_mysticism.png
@@ -15,3 +15,5 @@ title: Hell's Coronation - Silver Knife Mysticism
 
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=31135&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=34894&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=35638&sort=pd.name&order=ASC) for $12.00

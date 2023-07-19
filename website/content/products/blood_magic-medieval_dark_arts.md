@@ -4,7 +4,7 @@ album: Medieval Dark Arts
 artist: Blood Magic
 categories:
 - Vinyl
-date: '2023-03-22T05:01:09'
+date: '2023-07-08T05:06:36'
 draft: false
 images:
 - /images/covers/blood_magic-medieval_dark_arts.jpg

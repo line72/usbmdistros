@@ -4,7 +4,7 @@ album: Strange Old Brew
 artist: Carpathian Forest
 categories:
 - Vinyl
-date: '2022-03-22T05:07:39'
+date: '2023-06-14T06:00:27'
 draft: false
 images:
 - /images/covers/carpathian_forest-strange_old_brew.jpg
@@ -17,3 +17,4 @@ title: Carpathian Forest - Strange Old Brew
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=18187&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=19410&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=21705&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=35717&sort=pd.name&order=ASC) for $25.00

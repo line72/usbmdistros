@@ -4,7 +4,7 @@ album: Winterstones
 artist: Lugubrum
 categories:
 - Vinyl
-date: '2023-04-27T05:13:15'
+date: '2023-07-18T16:25:40'
 draft: false
 images:
 - /images/covers/lugubrum-winterstones.jpg
@@ -15,3 +15,4 @@ title: Lugubrum - Winterstones
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=8176&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=36953&sort=pd.name&order=ASC) for $25.00

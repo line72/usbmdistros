@@ -1,10 +1,10 @@
 ---
-actualPrice: $30.00
+actualPrice: $30.00 - 40.00
 album: "Novej Kalhnj\xEBnno"
 artist: "Trh\xE4"
 categories:
 - Vinyl
-date: '2023-05-12T05:15:16'
+date: '2023-07-18T16:48:12'
 draft: false
 images:
 - "/images/covers/trh\xE4-novej_kalhnj\xEBnno.jpg"
@@ -21,3 +21,5 @@ title: "Trh\xE4 - Novej Kalhnj\xEBnno"
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=33419&sort=pd.name&order=ASC) for $30.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=34211&sort=pd.name&order=ASC) for $30.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=34304&sort=pd.name&order=ASC) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=34584&sort=pd.name&order=ASC) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=36853&sort=pd.name&order=ASC) for $40.00

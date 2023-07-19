@@ -4,7 +4,7 @@ album: En Oria
 artist: Nocternity
 categories:
 - Vinyl
-date: '2023-04-27T05:13:19'
+date: '2023-06-12T06:47:26'
 draft: false
 images:
 - /images/covers/nocternity-en_oria.jpg
@@ -20,3 +20,5 @@ title: Nocternity - En Oria
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=27550&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=31101&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=31891&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=35132&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=35504&sort=pd.name&order=ASC) for $25.00

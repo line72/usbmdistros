@@ -5,7 +5,7 @@ artist: Silver Knife
 categories:
 - Vinyl
 - CD
-date: '2023-04-27T05:13:49'
+date: '2023-06-08T05:31:13'
 draft: false
 images:
 - /images/covers/silver_knife-unyielding_-_unseeing.jpg
@@ -18,5 +18,6 @@ title: Silver Knife - Unyielding / Unseeing
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=23819&sort=pd.name&order=ASC) for $25.00
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/silver-knife-unyielding-unseeing-lp) for $22.00 :: Pinwheel 2022 press vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=24296&sort=pd.name&order=ASC) for $25.00
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/silver-knife-unyielding-unseeing-lp) for $25.00 :: Blue/White 2020 press
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=24294&sort=pd.name&order=ASC) for $15.00

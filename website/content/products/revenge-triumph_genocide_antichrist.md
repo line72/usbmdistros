@@ -1,10 +1,10 @@
 ---
-actualPrice: $25.00
+actualPrice: $25.00 - 35.00
 album: Triumph Genocide Antichrist
 artist: Revenge
 categories:
 - Vinyl
-date: '2023-01-05T06:13:17'
+date: '2023-07-18T16:38:46'
 draft: false
 images:
 - /images/covers/revenge-triumph_genocide_antichrist.jpg
@@ -17,3 +17,7 @@ title: Revenge - Triumph Genocide Antichrist
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=24999&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29971&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=30350&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=34567&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=34881&sort=pd.name&order=ASC) for $35.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=35165&sort=pd.name&order=ASC) for $35.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=36241&sort=pd.name&order=ASC) for $35.00

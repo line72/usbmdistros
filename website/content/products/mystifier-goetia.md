@@ -5,7 +5,7 @@ artist: Mystifier
 categories:
 - Vinyl
 - CD
-date: '2023-04-29T05:14:30'
+date: '2023-06-20T06:37:15'
 draft: false
 images:
 - /images/covers/mystifier-goetia.jpg
@@ -21,7 +21,9 @@ title: Mystifier - Goetia
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=31025&sort=pd.name&order=ASC) for $30.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=33617&sort=pd.name&order=ASC) for $30.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=33822&sort=pd.name&order=ASC) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=35908&sort=pd.name&order=ASC) for $30.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=15232&sort=pd.name&order=ASC) for $10.00
 * Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/mystifier-goetia-cd/) for $10.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=23924&sort=pd.name&order=ASC) for $6.50
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=35600&sort=pd.name&order=ASC) for $10.00

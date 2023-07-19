@@ -5,7 +5,7 @@ artist: Ultha
 categories:
 - Vinyl
 - CD
-date: '2022-08-10T14:12:50'
+date: '2023-07-19T08:40:58'
 draft: false
 images:
 - /images/covers/ultha-belong.png
@@ -18,3 +18,4 @@ title: Ultha - Belong
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/ultha-belong) for $20.00 :: Black 2022 press vinyl
 ## CD
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/ultha-belong-cd) for $10.00 :: CD 2019
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/ultha-belong-cd-1) for $11.00 :: CD 2019

@@ -8,9 +8,9 @@ categories:
 date: '2023-05-04T05:25:24'
 draft: false
 images:
-- "/images/covers/h\xE4sslig-deathlust.png"
+- "/images/covers/h\xE4sslig-deathlust.jpg"
 inStock: true
-thumbnailImage: "/images/covers/h\xE4sslig-deathlust-thumb.png"
+thumbnailImage: "/images/covers/h\xE4sslig-deathlust-thumb.jpg"
 title: "H\xE4sslig - Deathlust"
 ---
 

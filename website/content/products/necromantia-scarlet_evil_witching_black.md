@@ -1,10 +1,11 @@
 ---
-actualPrice: $25.00
+actualPrice: $15.00 - 25.00
 album: Scarlet Evil Witching Black
 artist: Necromantia
 categories:
 - Vinyl
-date: '2023-04-27T05:13:18'
+- CD
+date: '2023-06-04T14:53:14'
 draft: false
 images:
 - /images/covers/necromantia-scarlet_evil_witching_black.jpg
@@ -17,3 +18,8 @@ title: Necromantia - Scarlet Evil Witching Black
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29956&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=30337&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=33634&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=34509&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=35232&sort=pd.name&order=ASC) for $25.00
+## CD
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=34625&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=35231&sort=pd.name&order=ASC) for $15.00

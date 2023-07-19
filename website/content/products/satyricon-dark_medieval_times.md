@@ -5,7 +5,7 @@ artist: Satyricon
 categories:
 - Vinyl
 - CD
-date: '2023-04-27T05:13:49'
+date: '2023-06-21T07:37:49'
 draft: false
 images:
 - /images/covers/satyricon-dark_medieval_times.jpg
@@ -28,3 +28,4 @@ title: Satyricon - Dark Medieval Times
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=27071&sort=pd.name&order=ASC) for $15.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=27601&sort=pd.name&order=ASC) for $15.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=32183&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=35942&sort=pd.name&order=ASC) for $15.00

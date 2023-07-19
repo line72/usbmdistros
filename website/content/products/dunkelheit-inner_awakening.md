@@ -4,7 +4,7 @@ album: Inner Awakening
 artist: Dunkelheit
 categories:
 - CD
-date: '2023-04-27T05:13:37'
+date: '2023-06-08T05:20:30'
 draft: false
 images:
 - /images/covers/dunkelheit-inner_awakening.jpg
@@ -15,3 +15,4 @@ title: Dunkelheit - Inner Awakening
 
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=29443&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=35351&sort=pd.name&order=ASC) for $15.00

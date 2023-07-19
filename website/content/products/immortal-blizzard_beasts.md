@@ -4,7 +4,7 @@ album: Blizzard Beasts
 artist: Immortal
 categories:
 - Vinyl
-date: '2023-02-04T06:12:28'
+date: '2023-06-02T05:14:30'
 draft: false
 images:
 - /images/covers/immortal-blizzard_beasts.jpg
@@ -19,3 +19,6 @@ title: Immortal - Blizzard Beasts
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/immortal-blizzard-beasts-lp) for $27.00 :: Silver Galaxy 2021 press vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=18387&sort=pd.name&order=ASC) for $20.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=31216&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=34581&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=35040&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=35179&sort=pd.name&order=ASC) for $25.00

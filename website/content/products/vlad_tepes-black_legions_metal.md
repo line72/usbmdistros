@@ -5,7 +5,7 @@ artist: Vlad Tepes
 categories:
 - Vinyl
 - CD
-date: '2023-04-27T05:13:53'
+date: '2023-06-16T05:06:15'
 draft: false
 images:
 - /images/covers/vlad_tepes-black_legions_metal.jpg

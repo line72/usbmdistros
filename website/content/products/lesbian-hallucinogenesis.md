@@ -1,10 +1,10 @@
 ---
-actualPrice: $26.00
+actualPrice: $23.00 - 25.00
 album: Hallucinogenesis
 artist: Lesbian
 categories:
 - Vinyl
-date: '2023-03-07T14:04:59'
+date: '2023-06-08T05:38:14'
 draft: false
 images:
 - /images/covers/lesbian-hallucinogenesis.png
@@ -14,4 +14,5 @@ title: Lesbian - Hallucinogenesis
 ---
 
 ## Vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/lesbian-hallucinogenesis) for $26.00 :: Black 1st press vinyl
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/lesbian-hallucinogenesis) for $23.00 :: Black 2016 press vinyl
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/lesbian-hallucinogenesis) for $25.00 :: Orange 2016 press vinyl

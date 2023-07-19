@@ -6,7 +6,7 @@ categories:
 - Vinyl
 - Cassette
 - CD
-date: '2022-11-30T06:10:13'
+date: '2023-06-12T08:33:26'
 draft: false
 images:
 - /images/covers/proclamation-nether_tombs_of_abaddon.jpg
@@ -21,3 +21,4 @@ title: Proclamation - Nether Tombs of Abaddon
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=10213&sort=pd.name&order=ASC) for $6.30
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=10212&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=35611&sort=pd.name&order=ASC) for $12.00

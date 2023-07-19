@@ -5,7 +5,7 @@ artist: Black Cilice
 categories:
 - Vinyl
 - CD
-date: '2023-04-27T05:13:05'
+date: '2023-05-23T05:12:56'
 draft: false
 images:
 - /images/covers/black_cilice-summoning_the_night.jpg
@@ -21,5 +21,6 @@ title: Black Cilice - Summoning the Night
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/black-cilice-summoning-the-night-12-lp) for $26.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=31843&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=32919&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=34904&sort=pd.name&order=ASC) for $25.00
 ## CD
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/black-cilice-summoning-the-night-cd) for $15.00

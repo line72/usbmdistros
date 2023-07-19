@@ -1,10 +1,10 @@
 ---
-actualPrice: $15.00
+actualPrice: $10.00
 album: Wotankult
 artist: Ovader
 categories:
 - CD
-date: '2022-02-02T06:10:09'
+date: '2023-07-18T18:27:55'
 draft: false
 images:
 - /images/covers/ovader-wotankult.png
@@ -14,4 +14,4 @@ title: Ovader - Wotankult
 ---
 
 ## CD
-* Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/ovader-wotankult-cd/) for $15.00
+* Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/ovader-wotankult-cd/) for $10.00

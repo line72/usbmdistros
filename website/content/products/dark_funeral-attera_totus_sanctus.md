@@ -4,7 +4,7 @@ album: Attera Totus Sanctus
 artist: Dark Funeral
 categories:
 - Vinyl
-date: '2023-04-27T05:13:08'
+date: '2023-07-18T16:08:33'
 draft: false
 images:
 - /images/covers/dark_funeral-attera_totus_sanctus.jpg
@@ -18,3 +18,4 @@ title: Dark Funeral - Attera Totus Sanctus
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/dark-funeral-attera-totus-sanctus-lp) for $27.00 :: Swirl 2021 press vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/dark-funeral-attera-totus-sanctus-lp) for $27.00 :: Marble 2021 press vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=30805&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=36755&sort=pd.name&order=ASC) for $25.00

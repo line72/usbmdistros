@@ -1,0 +1,20 @@
+---
+actualPrice: $12.00 - 27.00
+album: Waeltaja
+artist: Kalmankantaja
+categories:
+- Vinyl
+- CD
+date: '2023-07-18T17:28:55'
+draft: false
+images:
+- /images/covers/kalmankantaja-waeltaja.png
+inStock: true
+thumbnailImage: /images/covers/kalmankantaja-waeltaja-thumb.png
+title: Kalmankantaja - Waeltaja
+---
+
+## Vinyl
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=36336&sort=pd.name&order=ASC) for $27.00
+## CD
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=36375&sort=pd.name&order=ASC) for $12.00

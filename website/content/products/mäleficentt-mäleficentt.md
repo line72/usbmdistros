@@ -4,7 +4,7 @@ album: "M\xE4leficentt"
 artist: "M\xE4leficentt"
 categories:
 - Vinyl
-date: '2023-04-27T05:13:15'
+date: '2023-07-18T16:26:21'
 draft: false
 images:
 - "/images/covers/m\xE4leficentt-m\xE4leficentt.jpg"
@@ -16,3 +16,4 @@ title: "M\xE4leficentt - M\xE4leficentt"
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=30527&sort=pd.name&order=ASC) for $27.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=33469&sort=pd.name&order=ASC) for $27.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=36624&sort=pd.name&order=ASC) for $27.00

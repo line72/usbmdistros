@@ -4,7 +4,7 @@ album: Diabolis Interium
 artist: Dark Funeral
 categories:
 - Vinyl
-date: '2023-04-27T05:13:08'
+date: '2023-07-18T16:08:33'
 draft: false
 images:
 - /images/covers/dark_funeral-diabolis_interium.png
@@ -18,3 +18,4 @@ title: Dark Funeral - Diabolis Interium
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/dark-funeral-diabolis-interium-2xlp) for $32.00 :: Swirl 2021 press vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/dark-funeral-diabolis-interium-2xlp) for $32.00 :: Marble 2021 press vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=30803&sort=pd.name&order=ASC) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=36756&sort=pd.name&order=ASC) for $30.00

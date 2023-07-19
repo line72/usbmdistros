@@ -4,7 +4,7 @@ album: Demo IV
 artist: Carved Cross
 categories:
 - Vinyl
-date: '2023-04-27T05:13:07'
+date: '2023-05-26T05:28:40'
 draft: false
 images:
 - /images/covers/carved_cross-demo_iv.jpg
@@ -21,3 +21,4 @@ title: Carved Cross - Demo IV
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=27122&sort=pd.name&order=ASC) for $30.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=28341&sort=pd.name&order=ASC) for $30.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29315&sort=pd.name&order=ASC) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=34971&sort=pd.name&order=ASC) for $30.00

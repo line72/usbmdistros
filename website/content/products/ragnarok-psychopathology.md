@@ -4,7 +4,7 @@ album: Psychopathology
 artist: Ragnarok
 categories:
 - Vinyl
-date: '2023-04-27T05:13:21'
+date: '2023-06-17T06:33:29'
 draft: false
 images:
 - /images/covers/ragnarok-psychopathology.jpg
@@ -17,3 +17,4 @@ title: Ragnarok - Psychopathology
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=20286&sort=pd.name&order=ASC) for $30.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=21243&sort=pd.name&order=ASC) for $30.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=27813&sort=pd.name&order=ASC) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=35858&sort=pd.name&order=ASC) for $30.00

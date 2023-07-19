@@ -4,7 +4,7 @@ album: Dawn of Morbid Sorcery
 artist: Moenen of Xezbeth
 categories:
 - Vinyl
-date: '2023-04-27T05:13:17'
+date: '2023-07-18T16:29:02'
 draft: false
 images:
 - /images/covers/moenen_of_xezbeth-dawn_of_morbid_sorcery.png
@@ -18,3 +18,5 @@ title: Moenen of Xezbeth - Dawn of Morbid Sorcery
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=31830&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=32081&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=33047&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=34897&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=36719&sort=pd.name&order=ASC) for $25.00

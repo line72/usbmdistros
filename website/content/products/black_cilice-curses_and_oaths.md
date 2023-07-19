@@ -5,7 +5,7 @@ artist: Black Cilice
 categories:
 - Vinyl
 - CD
-date: '2023-05-05T05:13:04'
+date: '2023-06-08T05:13:28'
 draft: false
 images:
 - /images/covers/black_cilice-curses_and_oaths.png
@@ -18,6 +18,8 @@ title: Black Cilice - Curses and Oaths
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=31837&sort=pd.name&order=ASC) for $85.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=32916&sort=pd.name&order=ASC) for $85.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=34074&sort=pd.name&order=ASC) for $85.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=34898&sort=pd.name&order=ASC) for $85.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=35376&sort=pd.name&order=ASC) for $85.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=18213&sort=pd.name&order=ASC) for $20.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=20330&sort=pd.name&order=ASC) for $20.00

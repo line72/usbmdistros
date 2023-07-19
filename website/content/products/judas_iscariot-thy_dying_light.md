@@ -7,9 +7,9 @@ categories:
 date: '2023-04-27T05:13:14'
 draft: false
 images:
-- /images/covers/judas_iscariot-thy_dying_light.png
+- /images/covers/judas_iscariot-thy_dying_light.jpg
 inStock: true
-thumbnailImage: /images/covers/judas_iscariot-thy_dying_light-thumb.png
+thumbnailImage: /images/covers/judas_iscariot-thy_dying_light-thumb.jpg
 title: Judas Iscariot - Thy Dying Light
 ---
 

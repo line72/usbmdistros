@@ -5,7 +5,7 @@ artist: Acheron
 categories:
 - Cassette
 - CD
-date: '2023-04-27T05:13:33'
+date: '2023-07-18T17:06:17'
 draft: false
 images:
 - /images/covers/acheron-anti-god_anti-christ.jpg
@@ -20,3 +20,5 @@ title: Acheron - Anti-God Anti-Christ
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=11891&sort=pd.name&order=ASC) for $10.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=22182&sort=pd.name&order=ASC) for $12.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=22507&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=35448&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=36694&sort=pd.name&order=ASC) for $12.00

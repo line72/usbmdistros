@@ -7,9 +7,9 @@ categories:
 date: '2023-05-07T05:17:00'
 draft: false
 images:
-- /images/covers/ziminiar-the_dwellers_in_eternal_shadow.png
+- /images/covers/ziminiar-the_dwellers_in_eternal_shadow.jpg
 inStock: true
-thumbnailImage: /images/covers/ziminiar-the_dwellers_in_eternal_shadow-thumb.png
+thumbnailImage: /images/covers/ziminiar-the_dwellers_in_eternal_shadow-thumb.jpg
 title: Ziminiar - The Dwellers in Eternal Shadow
 ---
 

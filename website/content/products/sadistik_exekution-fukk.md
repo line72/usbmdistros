@@ -1,10 +1,11 @@
 ---
-actualPrice: $20.00 - 25.00
+actualPrice: $15.00 - 25.00
 album: Fukk
 artist: Sadistik Exekution
 categories:
 - Vinyl
-date: '2023-05-12T05:14:39'
+- CD
+date: '2023-05-18T05:23:03'
 draft: false
 images:
 - /images/covers/sadistik_exekution-fukk.jpg
@@ -18,3 +19,6 @@ title: Sadistik Exekution - Fukk
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=30345&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=33596&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=34301&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=34530&sort=pd.name&order=ASC) for $25.00
+## CD
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=34632&sort=pd.name&order=ASC) for $15.00

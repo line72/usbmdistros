@@ -1,10 +1,10 @@
 ---
-actualPrice: $23.00 - 25.00
+actualPrice: $23.00 - 27.00
 album: Met Onoprechte Deelneming
 artist: Kwade Droes
 categories:
 - Vinyl
-date: '2023-04-27T05:13:15'
+date: '2023-06-06T05:15:54'
 draft: false
 images:
 - /images/covers/kwade_droes-met_onoprechte_deelneming.jpg
@@ -16,3 +16,4 @@ title: Kwade Droes - Met Onoprechte Deelneming
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=15043&sort=pd.name&order=ASC) for $25.00
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/kwade-droes-met-onoprechte-deelneming-lp) for $23.00 :: Black 1st press vinyl
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=35335&sort=pd.name&order=ASC) for $27.00

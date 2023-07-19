@@ -7,9 +7,9 @@ categories:
 date: '2023-05-16T20:24:27'
 draft: false
 images:
-- /images/covers/okkultokrati-snakereigns.png
+- /images/covers/okkultokrati-snakereigns.jpg
 inStock: true
-thumbnailImage: /images/covers/okkultokrati-snakereigns-thumb.png
+thumbnailImage: /images/covers/okkultokrati-snakereigns-thumb.jpg
 title: Okkultokrati - Snakereigns
 ---
 

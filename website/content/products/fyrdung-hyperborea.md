@@ -1,10 +1,10 @@
 ---
-actualPrice: $23.00
+actualPrice: $20.00
 album: Hyperborea
 artist: Fyrdung
 categories:
 - Vinyl
-date: '2023-05-16T20:20:40'
+date: '2023-05-27T05:27:52'
 draft: false
 images:
 - /images/covers/fyrdung-hyperborea.png
@@ -14,4 +14,4 @@ title: Fyrdung - Hyperborea
 ---
 
 ## Vinyl
-* Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/fyrdung-hyperborea-12-lp/) for $23.00
+* Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/fyrdung-hyperborea-12-lp/) for $20.00

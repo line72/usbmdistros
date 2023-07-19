@@ -5,7 +5,7 @@ artist: Malign
 categories:
 - Vinyl
 - CD
-date: '2023-04-27T05:13:44'
+date: '2023-06-12T08:23:53'
 draft: false
 images:
 - "/images/covers/malign-demo_1\u200B-\u200B95.jpg"
@@ -18,3 +18,4 @@ title: "Malign - Demo 1\u200B/\u200B95"
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=19907&sort=pd.name&order=ASC) for $25.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=19992&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=35582&sort=pd.name&order=ASC) for $15.00

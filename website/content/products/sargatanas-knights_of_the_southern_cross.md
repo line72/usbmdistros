@@ -5,7 +5,7 @@ artist: Sargatanas
 categories:
 - Cassette
 - CD
-date: '2023-04-27T05:13:49'
+date: '2023-07-18T17:44:18'
 draft: false
 images:
 - /images/covers/sargatanas-knights_of_the_southern_cross.png
@@ -18,3 +18,4 @@ title: Sargatanas - Knights of the Southern Cross
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=23082&sort=pd.name&order=ASC) for $15.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=7453&sort=pd.name&order=ASC) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=36985&sort=pd.name&order=ASC) for $12.00

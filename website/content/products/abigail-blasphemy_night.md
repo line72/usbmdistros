@@ -1,11 +1,11 @@
 ---
-actualPrice: $9.00 - 25.00
+actualPrice: $6.00 - 25.00
 album: Blasphemy Night
 artist: Abigail
 categories:
 - Vinyl
 - Cassette
-date: '2023-04-27T05:13:02'
+date: '2023-06-06T05:04:42'
 draft: false
 images:
 - /images/covers/abigail-blasphemy_night.png
@@ -20,6 +20,7 @@ title: Abigail - Blasphemy Night
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=27685&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=28477&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=28683&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=34780&sort=pd.name&order=ASC) for $25.00
 ## Cassette
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=16672&sort=pd.name&order=ASC) for $9.00
-* Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/33511993-abigail-blasphemy-night) for $10.50
+* Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/33511993-abigail-blasphemy-night) for $6.00

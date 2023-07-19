@@ -4,7 +4,7 @@ album: Henbane......or Sonic Compendium of the Black Arts
 artist: Cultes Des Ghoules
 categories:
 - Vinyl
-date: '2023-04-27T05:13:08'
+date: '2023-06-22T05:56:22'
 draft: false
 images:
 - /images/covers/cultes_des_ghoules-henbane......or_sonic_compendium_of_the_black_arts.jpg
@@ -15,3 +15,4 @@ title: Cultes Des Ghoules - Henbane......or Sonic Compendium of the Black Arts
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29993&sort=pd.name&order=ASC) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=36028&sort=pd.name&order=ASC) for $30.00

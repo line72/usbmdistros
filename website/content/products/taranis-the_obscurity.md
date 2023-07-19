@@ -4,7 +4,7 @@ album: The Obscurity
 artist: Taranis
 categories:
 - Vinyl
-date: '2023-04-27T05:13:24'
+date: '2023-06-12T07:19:30'
 draft: false
 images:
 - /images/covers/taranis-the_obscurity.jpg
@@ -23,3 +23,4 @@ title: Taranis - The Obscurity
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=27336&sort=pd.name&order=ASC) for $130.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=27337&sort=pd.name&order=ASC) for $25.00
 * Purchase from [CW Productions](https://shop.cwproductions.net/products/taranis-the-obscurity-lp) for $24.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=35553&sort=pd.name&order=ASC) for $25.00

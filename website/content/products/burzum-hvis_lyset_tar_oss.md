@@ -1,10 +1,10 @@
 ---
-actualPrice: $20.00 - 25.00
+actualPrice: $20.00 - 27.00
 album: Hvis Lyset Tar Oss
 artist: Burzum
 categories:
 - Vinyl
-date: '2023-04-21T05:12:46'
+date: '2023-07-18T16:05:34'
 draft: false
 images:
 - /images/covers/burzum-hvis_lyset_tar_oss.jpg
@@ -21,3 +21,7 @@ title: Burzum - Hvis Lyset Tar Oss
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=32843&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=32966&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=33611&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=35311&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=36018&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=36490&sort=pd.name&order=ASC) for $27.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=36501&sort=pd.name&order=ASC) for $27.00

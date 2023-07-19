@@ -5,7 +5,7 @@ artist: Sunken
 categories:
 - Cassette
 - CD
-date: '2023-03-07T13:59:27'
+date: '2023-07-19T08:40:58'
 draft: false
 images:
 - /images/covers/sunken-departure.png
@@ -20,3 +20,4 @@ title: Sunken - Departure
 ## CD
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/sunken-departure-cd) for $10.00 :: CD 2021
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/sunken-departure-cd-1) for $12.00 :: CD 2021
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/sunken-departure-cd) for $12.00 :: CD 2021

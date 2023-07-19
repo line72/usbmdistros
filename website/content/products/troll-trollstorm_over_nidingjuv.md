@@ -1,11 +1,12 @@
 ---
-actualPrice: $10.00 - 15.00
+actualPrice: $10.00 - 25.00
 album: Trollstorm Over Nidingjuv
 artist: Troll
 categories:
+- Vinyl
 - Cassette
 - CD
-date: '2023-04-27T05:13:51'
+date: '2023-07-18T16:48:15'
 draft: false
 images:
 - /images/covers/troll-trollstorm_over_nidingjuv.png
@@ -14,6 +15,10 @@ thumbnailImage: /images/covers/troll-trollstorm_over_nidingjuv-thumb.png
 title: Troll - Trollstorm Over Nidingjuv
 ---
 
+## Vinyl
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=35200&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=35411&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=36701&sort=pd.name&order=ASC) for $25.00
 ## Cassette
 * Purchase from [CW Productions](https://shop.cwproductions.net/products/troll-trollstorm-over-nidingjuv-tape) for $10.00
 ## CD

@@ -4,7 +4,7 @@ album: 'Nid: Hymner Av Hat'
 artist: Whoredom Rife
 categories:
 - Vinyl
-date: '2023-04-27T05:13:27'
+date: '2023-06-22T07:09:44'
 draft: false
 images:
 - /images/covers/whoredom_rife-nid:_hymner_av_hat.jpg
@@ -19,3 +19,4 @@ title: 'Whoredom Rife - Nid: Hymner Av Hat'
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/used-whoredom-rife-nid-hymner-av-hat-lp) for $23.00 :: Black 2021 press vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=27330&sort=pd.name&order=ASC) for $21.60
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29772&sort=pd.name&order=ASC) for $27.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=35966&sort=pd.name&order=ASC) for $27.00

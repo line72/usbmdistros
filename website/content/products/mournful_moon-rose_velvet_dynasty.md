@@ -1,10 +1,10 @@
 ---
-actualPrice: $13.00
+actualPrice: $13.00 - 14.00
 album: Rose Velvet Dynasty
 artist: Mournful Moon
 categories:
 - Cassette
-date: '2023-04-15T05:22:50'
+date: '2023-07-18T18:11:10'
 draft: false
 images:
 - /images/covers/mournful_moon-rose_velvet_dynasty.jpg
@@ -15,3 +15,4 @@ title: Mournful Moon - Rose Velvet Dynasty
 
 ## Cassette
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=33414&sort=pd.name&order=ASC) for $13.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=36723&sort=pd.name&order=ASC) for $14.00

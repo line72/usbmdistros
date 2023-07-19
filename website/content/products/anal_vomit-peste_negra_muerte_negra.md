@@ -4,7 +4,7 @@ album: Peste Negra Muerte Negra
 artist: Anal Vomit
 categories:
 - Cassette
-date: '2023-04-27T05:13:54'
+date: '2023-06-12T08:51:32'
 draft: false
 images:
 - /images/covers/anal_vomit-peste_negra_muerte_negra.jpg
@@ -16,3 +16,4 @@ title: Anal Vomit - Peste Negra Muerte Negra
 ## Cassette
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=23286&sort=pd.name&order=ASC) for $12.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=26508&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=35599&sort=pd.name&order=ASC) for $12.00

@@ -6,7 +6,7 @@ categories:
 - Vinyl
 - Cassette
 - CD
-date: '2023-04-27T05:13:57'
+date: '2023-06-06T05:14:20'
 draft: false
 images:
 - /images/covers/darvaza-ascending_into_perdition.jpg
@@ -20,6 +20,7 @@ title: Darvaza - Ascending Into Perdition
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/darvaza-ascending-into-perdition-lp) for $29.00 :: Black 1st press vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/darvaza-ascending-into-perdition-lp) for $39.00 :: Smoke 1st press vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/darvaza-ascending-into-perdition-lp) for $49.00 :: Smoke w/ Bible Print 1st press vinyl
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=35325&sort=pd.name&order=ASC) for $28.00
 ## Cassette
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=28270&sort=pd.name&order=ASC) for $15.00
 ## CD

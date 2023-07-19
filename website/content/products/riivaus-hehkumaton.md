@@ -5,7 +5,7 @@ artist: Riivaus
 categories:
 - Vinyl
 - CD
-date: '2023-04-27T05:13:21'
+date: '2023-07-18T16:38:48'
 draft: false
 images:
 - /images/covers/riivaus-hehkumaton.jpg
@@ -17,5 +17,6 @@ title: Riivaus - Hehkumaton
 ## Vinyl
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/riivaus-hehkumaton-12-lp) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=24355&sort=pd.name&order=ASC) for $27.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=36334&sort=pd.name&order=ASC) for $27.00
 ## CD
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/riivaus-hehkumaton-cd) for $13.00

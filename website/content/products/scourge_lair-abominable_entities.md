@@ -4,7 +4,7 @@ album: Abominable Entities
 artist: Scourge Lair
 categories:
 - Cassette
-date: '2023-05-16T05:24:01'
+date: '2023-05-21T05:26:02'
 draft: false
 images:
 - /images/covers/scourge_lair-abominable_entities.jpg
@@ -20,3 +20,4 @@ title: Scourge Lair - Abominable Entities
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=29734&sort=pd.name&order=ASC) for $8.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=30706&sort=pd.name&order=ASC) for $8.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=34413&sort=pd.name&order=ASC) for $8.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=34769&sort=pd.name&order=ASC) for $8.00

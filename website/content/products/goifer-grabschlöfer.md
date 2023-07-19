@@ -4,7 +4,7 @@ album: "Grabschl\xF6fer"
 artist: Goifer
 categories:
 - Cassette
-date: '2023-04-27T05:13:58'
+date: '2023-06-06T05:30:04'
 draft: false
 images:
 - "/images/covers/goifer-grabschl\xF6fer.jpg"
@@ -16,3 +16,4 @@ title: "Goifer - Grabschl\xF6fer"
 ## Cassette
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=16611&sort=pd.name&order=ASC) for $10.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=23074&sort=pd.name&order=ASC) for $10.00
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/used-goifer-grabschlofer-cassette) for $10.00 :: Bronze Shell 2021 press

@@ -4,7 +4,7 @@ album: Grands Tyrans
 artist: Akitsa
 categories:
 - Vinyl
-date: '2023-04-27T05:13:03'
+date: '2023-06-22T05:47:35'
 draft: false
 images:
 - /images/covers/akitsa-grands_tyrans.jpg
@@ -20,3 +20,4 @@ title: Akitsa - Grands Tyrans
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29804&sort=pd.name&order=ASC) for $20.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=32451&sort=pd.name&order=ASC) for $20.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=33714&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=36009&sort=pd.name&order=ASC) for $20.00

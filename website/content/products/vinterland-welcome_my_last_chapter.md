@@ -1,12 +1,12 @@
 ---
-actualPrice: $15.00 - 30.00
+actualPrice: $15.00 - 35.00
 album: Welcome My Last Chapter
 artist: Vinterland
 categories:
 - Vinyl
 - Cassette
 - CD
-date: '2023-01-13T06:12:59'
+date: '2023-07-18T16:51:04'
 draft: false
 images:
 - /images/covers/vinterland-welcome_my_last_chapter.jpg
@@ -20,6 +20,7 @@ title: Vinterland - Welcome My Last Chapter
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=26633&sort=pd.name&order=ASC) for $28.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29017&sort=pd.name&order=ASC) for $30.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=30537&sort=pd.name&order=ASC) for $27.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=36795&sort=pd.name&order=ASC) for $35.00
 ## Cassette
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=24388&sort=pd.name&order=ASC) for $15.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=26014&sort=pd.name&order=ASC) for $15.00

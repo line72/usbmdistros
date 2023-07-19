@@ -4,7 +4,7 @@ album: Fuck Off Nowadays Black Metal
 artist: Nargaroth
 categories:
 - Vinyl
-date: '2023-05-04T05:17:16'
+date: '2023-05-19T05:14:37'
 draft: false
 images:
 - /images/covers/nargaroth-fuck_off_nowadays_black_metal.jpg
@@ -20,3 +20,4 @@ title: Nargaroth - Fuck Off Nowadays Black Metal
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=28583&sort=pd.name&order=ASC) for $30.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29159&sort=pd.name&order=ASC) for $30.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=33990&sort=pd.name&order=ASC) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=34671&sort=pd.name&order=ASC) for $30.00

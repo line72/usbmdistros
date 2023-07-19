@@ -1,10 +1,11 @@
 ---
-actualPrice: $22.00
+actualPrice: $12.00 - 22.00
 album: Virulent Providence
 artist: "Sc\xE1th Na D\xE9ithe"
 categories:
 - Vinyl
-date: '2023-03-07T13:59:26'
+- CD
+date: '2023-07-19T08:40:57'
 draft: false
 images:
 - "/images/covers/sc\xE1th_na_d\xE9ithe-virulent_providence.png"
@@ -15,3 +16,5 @@ title: "Sc\xE1th Na D\xE9ithe - Virulent Providence"
 
 ## Vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/scath-na-deithe-virulent-providence-lp) for $22.00 :: Black 2023 press vinyl
+## CD
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/scath-na-deithe-virulent-providence-cd) for $12.00 :: CD 2023

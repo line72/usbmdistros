@@ -5,7 +5,8 @@ artist: Necropolissebeht
 categories:
 - Vinyl
 - Cassette
-date: '2023-04-27T05:14:01'
+- CD
+date: '2023-07-18T18:11:48'
 draft: false
 images:
 - /images/covers/necropolissebeht-ttccclxxx.jpg
@@ -18,5 +19,9 @@ title: Necropolissebeht - TTCCCLXXX
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=26289&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=26467&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=28074&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=35530&sort=pd.name&order=ASC) for $25.00
 ## Cassette
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=28075&sort=pd.name&order=ASC) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=36168&sort=pd.name&order=ASC) for $10.00
+## CD
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=36169&sort=pd.name&order=ASC) for $12.00

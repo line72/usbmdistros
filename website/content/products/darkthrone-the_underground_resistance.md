@@ -7,9 +7,9 @@ categories:
 date: '2023-05-04T05:15:26'
 draft: false
 images:
-- /images/covers/darkthrone-the_underground_resistance.png
+- /images/covers/darkthrone-the_underground_resistance.jpg
 inStock: true
-thumbnailImage: /images/covers/darkthrone-the_underground_resistance-thumb.png
+thumbnailImage: /images/covers/darkthrone-the_underground_resistance-thumb.jpg
 title: Darkthrone - The Underground Resistance
 ---
 

@@ -5,7 +5,7 @@ artist: Blasphamagoatachrist
 categories:
 - Vinyl
 - CD
-date: '2023-04-27T05:13:06'
+date: '2023-06-12T08:01:24'
 draft: false
 images:
 - /images/covers/blasphamagoatachrist-bastardizing_the_purity.jpg
@@ -19,3 +19,4 @@ title: Blasphamagoatachrist - Bastardizing the Purity
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=32358&sort=pd.name&order=ASC) for $25.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=8476&sort=pd.name&order=ASC) for $9.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=35604&sort=pd.name&order=ASC) for $12.00

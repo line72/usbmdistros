@@ -8,9 +8,9 @@ categories:
 date: '2023-04-28T05:01:39'
 draft: false
 images:
-- /images/covers/lamp_of_murmuur-saturnian_bloodstorm.png
+- /images/covers/lamp_of_murmuur-saturnian_bloodstorm.jpg
 inStock: true
-thumbnailImage: /images/covers/lamp_of_murmuur-saturnian_bloodstorm-thumb.png
+thumbnailImage: /images/covers/lamp_of_murmuur-saturnian_bloodstorm-thumb.jpg
 title: Lamp of Murmuur - Saturnian Bloodstorm
 ---
 

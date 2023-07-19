@@ -6,7 +6,7 @@ categories:
 - Vinyl
 - Cassette
 - CD
-date: '2023-03-07T13:59:26'
+date: '2023-07-19T08:40:57'
 draft: false
 images:
 - /images/covers/ligfaerd-salvator_mundi.jpg
@@ -24,3 +24,4 @@ title: Ligfaerd - Salvator Mundi
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/ligfaerd-salvator-mundi-cassette-1) for $11.00 :: Cassette Tape 2022 press
 ## CD
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/ligfaerd-salvator-mundi-cd) for $10.00 :: CD 2020
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/ligfaerd-salvator-mundi-cd-1) for $12.00 :: CD 2020

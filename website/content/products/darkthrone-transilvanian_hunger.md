@@ -5,7 +5,7 @@ artist: Darkthrone
 categories:
 - Vinyl
 - Cassette
-date: '2023-03-09T06:11:32'
+date: '2023-06-14T06:03:59'
 draft: false
 images:
 - /images/covers/darkthrone-transilvanian_hunger.jpg
@@ -38,6 +38,7 @@ title: Darkthrone - Transilvanian Hunger
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=28861&sort=pd.name&order=ASC) for $27.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29381&sort=pd.name&order=ASC) for $27.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=31922&sort=pd.name&order=ASC) for $27.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=35707&sort=pd.name&order=ASC) for $25.00
 ## Cassette
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=23045&sort=pd.name&order=ASC) for $15.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=26399&sort=pd.name&order=ASC) for $15.00

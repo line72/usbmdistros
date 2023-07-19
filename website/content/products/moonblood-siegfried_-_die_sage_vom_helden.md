@@ -5,7 +5,7 @@ artist: Moonblood
 categories:
 - Vinyl
 - CD
-date: '2023-04-27T05:13:17'
+date: '2023-06-16T06:23:33'
 draft: false
 images:
 - /images/covers/moonblood-siegfried_-_die_sage_vom_helden.jpg
@@ -22,6 +22,7 @@ title: Moonblood - Siegfried - Die Sage Vom Helden
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=28804&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29298&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=33450&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=35829&sort=pd.name&order=ASC) for $25.00
 ## CD
 * Purchase from [CW Productions](https://shop.cwproductions.net/products/moonblood-siegfried-die-sage-vom-helden-cd) for $15.00
 * Purchase from [CW Productions](https://shop.cwproductions.net/products/moonblood-siegfried-die-sage-vom-helden-cd-1) for $15.00

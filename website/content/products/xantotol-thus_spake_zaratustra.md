@@ -5,7 +5,8 @@ artist: Xantotol
 categories:
 - Vinyl
 - Cassette
-date: '2022-11-30T06:10:21'
+- CD
+date: '2023-06-19T10:16:14'
 draft: false
 images:
 - /images/covers/xantotol-thus_spake_zaratustra.jpg
@@ -20,3 +21,6 @@ title: Xantotol - Thus Spake Zaratustra
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=24463&sort=pd.name&order=ASC) for $20.00
 ## Cassette
 * Purchase from [CW Productions](https://shop.cwproductions.net/products/xantotol-thus-spake-zaratustra-tape) for $8.00
+## CD
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=35492&sort=pd.name&order=ASC) for $12.00
+* Purchase from [CW Productions](https://shop.cwproductions.net/products/xantotol-thus-spake-zaratustra-cd) for $10.00

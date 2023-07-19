@@ -1,10 +1,11 @@
 ---
-actualPrice: $15.00
+actualPrice: $15.00 - 25.00
 album: Ashvattha
 artist: Ara Solis
 categories:
+- Vinyl
 - CD
-date: '2023-04-29T05:17:22'
+date: '2023-05-18T05:13:44'
 draft: false
 images:
 - /images/covers/ara_solis-ashvattha.jpg
@@ -13,5 +14,7 @@ thumbnailImage: /images/covers/ara_solis-ashvattha-thumb.jpg
 title: Ara Solis - Ashvattha
 ---
 
+## Vinyl
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=34597&sort=pd.name&order=ASC) for $25.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=33849&sort=pd.name&order=ASC) for $15.00

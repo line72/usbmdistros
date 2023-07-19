@@ -4,7 +4,7 @@ album: Soulside Journey
 artist: Darkthrone
 categories:
 - Vinyl
-date: '2023-04-27T05:13:08'
+date: '2023-06-14T06:03:58'
 draft: false
 images:
 - /images/covers/darkthrone-soulside_journey.jpg
@@ -39,3 +39,4 @@ title: Darkthrone - Soulside Journey
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=30492&sort=pd.name&order=ASC) for $27.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=31921&sort=pd.name&order=ASC) for $27.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=33639&sort=pd.name&order=ASC) for $27.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=35697&sort=pd.name&order=ASC) for $27.00

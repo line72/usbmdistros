@@ -4,7 +4,7 @@ album: Sutwyke
 artist: Old Forest
 categories:
 - Vinyl
-date: '2023-05-12T05:14:20'
+date: '2023-07-18T16:35:03'
 draft: false
 images:
 - /images/covers/old_forest-sutwyke.png
@@ -16,3 +16,5 @@ title: Old Forest - Sutwyke
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=34147&sort=pd.name&order=ASC) for $27.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=34244&sort=pd.name&order=ASC) for $27.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=35405&sort=pd.name&order=ASC) for $27.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=36598&sort=pd.name&order=ASC) for $27.00

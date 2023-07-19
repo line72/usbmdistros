@@ -1,0 +1,17 @@
+---
+actualPrice: $15.00
+album: Karyta Dzieda Platona
+artist: Zhmach
+categories:
+- Vinyl
+date: '2023-07-18T17:05:41'
+draft: false
+images:
+- /images/covers/zhmach-karyta_dzieda_platona.png
+inStock: true
+thumbnailImage: /images/covers/zhmach-karyta_dzieda_platona-thumb.png
+title: Zhmach - Karyta Dzieda Platona
+---
+
+## Vinyl
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=36861&sort=pd.name&order=ASC) for $15.00

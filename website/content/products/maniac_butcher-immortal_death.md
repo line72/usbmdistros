@@ -4,7 +4,7 @@ album: Immortal Death
 artist: Maniac Butcher
 categories:
 - Vinyl
-date: '2023-04-27T05:13:16'
+date: '2023-06-22T06:19:46'
 draft: false
 images:
 - /images/covers/maniac_butcher-immortal_death.jpg
@@ -19,3 +19,4 @@ title: Maniac Butcher - Immortal Death
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=22793&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=23740&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=25476&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=35999&sort=pd.name&order=ASC) for $25.00

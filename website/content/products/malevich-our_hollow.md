@@ -1,10 +1,11 @@
 ---
-actualPrice: $20.00
+actualPrice: $10.00 - 20.00
 album: Our Hollow
 artist: Malevich
 categories:
 - Vinyl
-date: '2022-01-14T06:11:46'
+- Cassette
+date: '2023-07-19T08:41:09'
 draft: false
 images:
 - /images/covers/malevich-our_hollow.jpg
@@ -15,3 +16,5 @@ title: Malevich - Our Hollow
 
 ## Vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/malevich-our-hollow-lp) for $20.00 :: Black 1st press vinyl
+## Cassette
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/malevich-our-hollow-cassette) for $10.00 :: Cassette 2023

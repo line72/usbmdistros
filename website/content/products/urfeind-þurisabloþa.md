@@ -7,9 +7,9 @@ categories:
 date: '2023-05-06T05:16:35'
 draft: false
 images:
-- "/images/covers/urfeind-\xFEurisablo\xFEa.png"
+- "/images/covers/urfeind-\xFEurisablo\xFEa.jpg"
 inStock: true
-thumbnailImage: "/images/covers/urfeind-\xFEurisablo\xFEa-thumb.png"
+thumbnailImage: "/images/covers/urfeind-\xFEurisablo\xFEa-thumb.jpg"
 title: "Urfeind - \xDEurisablo\xFEa"
 ---
 

@@ -1,10 +1,11 @@
 ---
-actualPrice: $21.00 - 30.00
+actualPrice: $12.00 - 30.00
 album: Forest Sky
 artist: "Herm\xF3\xF0r"
 categories:
 - Vinyl
-date: '2022-07-25T05:26:02'
+- CD
+date: '2023-07-18T17:25:40'
 draft: false
 images:
 - "/images/covers/herm\xF3\xF0r-forest_sky.jpg"
@@ -16,3 +17,5 @@ title: "Herm\xF3\xF0r - Forest Sky"
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=11583&sort=pd.name&order=ASC) for $21.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=25665&sort=pd.name&order=ASC) for $30.00
+## CD
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=11553&sort=pd.name&order=ASC) for $12.00

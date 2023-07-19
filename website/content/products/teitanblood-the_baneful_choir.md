@@ -4,7 +4,7 @@ album: The Baneful Choir
 artist: Teitanblood
 categories:
 - Vinyl
-date: '2023-04-27T05:13:24'
+date: '2023-05-17T05:15:50'
 draft: false
 images:
 - /images/covers/teitanblood-the_baneful_choir.jpg
@@ -20,3 +20,4 @@ title: Teitanblood - The Baneful Choir
 * Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/teitanblood-the-baneful-choir-12-lp/) for $20.00
 * Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/teitanblood-the-baneful-choir-12-lp/) for $20.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=32724&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=34558&sort=pd.name&order=ASC) for $25.00

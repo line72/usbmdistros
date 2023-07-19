@@ -4,7 +4,7 @@ album: Angelus Exuro Pro Eternus
 artist: Dark Funeral
 categories:
 - Vinyl
-date: '2023-04-27T05:13:08'
+date: '2023-07-18T16:08:32'
 draft: false
 images:
 - /images/covers/dark_funeral-angelus_exuro_pro_eternus.jpg
@@ -15,3 +15,4 @@ title: Dark Funeral - Angelus Exuro Pro Eternus
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=30806&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=36754&sort=pd.name&order=ASC) for $25.00

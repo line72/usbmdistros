@@ -1,10 +1,10 @@
 ---
-actualPrice: $30.00
+actualPrice: $25.00 - 30.00
 album: Antikosmos
 artist: Arckanum
 categories:
 - Vinyl
-date: '2022-07-19T15:45:44'
+date: '2023-06-17T05:46:31'
 draft: false
 images:
 - /images/covers/arckanum-antikosmos.jpg
@@ -15,3 +15,4 @@ title: Arckanum - Antikosmos
 
 ## Vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/used-arckanum-antikosmos-lp) for $30.00 :: Black Cover + White w/ Splatter 2009 press vinyl
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=35844&sort=pd.name&order=ASC) for $25.00

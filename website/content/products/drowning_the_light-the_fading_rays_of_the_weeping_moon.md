@@ -4,7 +4,7 @@ album: The Fading Rays of the Weeping Moon
 artist: Drowning The Light
 categories:
 - CD
-date: '2022-12-25T06:01:33'
+date: '2023-06-26T05:13:45'
 draft: false
 images:
 - /images/covers/drowning_the_light-the_fading_rays_of_the_weeping_moon.jpg

@@ -6,7 +6,7 @@ categories:
 - Vinyl
 - Cassette
 - CD
-date: '2023-04-27T05:13:58'
+date: '2023-06-12T08:15:40'
 draft: false
 images:
 - /images/covers/hanghedief-overduyvelsche_boosheit.png
@@ -21,3 +21,4 @@ title: Hanghedief - Overduyvelsche Boosheit
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=28798&sort=pd.name&order=ASC) for $10.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=28797&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=35575&sort=pd.name&order=ASC) for $12.00

@@ -4,7 +4,7 @@ album: Taste Our German Steel
 artist: Moonblood
 categories:
 - Vinyl
-date: '2023-04-28T05:14:21'
+date: '2023-07-18T16:29:37'
 draft: false
 images:
 - /images/covers/moonblood-taste_our_german_steel.jpg
@@ -27,3 +27,6 @@ title: Moonblood - Taste Our German Steel
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29299&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=33462&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=33797&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=34594&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=35835&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=36158&sort=pd.name&order=ASC) for $25.00

@@ -7,9 +7,9 @@ categories:
 date: '2023-04-29T05:12:52'
 draft: false
 images:
-- /images/covers/demoniac-so_it_goes.png
+- /images/covers/demoniac-so_it_goes.jpg
 inStock: true
-thumbnailImage: /images/covers/demoniac-so_it_goes-thumb.png
+thumbnailImage: /images/covers/demoniac-so_it_goes-thumb.jpg
 title: Demoniac - So It Goes
 ---
 

@@ -1,11 +1,11 @@
 ---
-actualPrice: $5.00 - 8.00
+actualPrice: $5.00 - 10.00
 album: Son of the Devil
 artist: Dracones
 categories:
 - Cassette
 - CD
-date: '2021-09-17T05:08:49'
+date: '2023-07-18T18:27:44'
 draft: false
 images:
 - /images/covers/dracones-son_of_the_devil.png
@@ -17,4 +17,4 @@ title: Dracones - Son of the Devil
 ## Cassette
 * Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/dracones-son-of-the-devil-cassette/) for $5.00
 ## CD
-* Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/dracones-son-of-the-devil-cd/) for $8.00
+* Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/dracones-son-of-the-devil-cd/) for $10.00

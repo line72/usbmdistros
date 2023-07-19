@@ -7,9 +7,9 @@ categories:
 date: '2023-05-16T20:24:27'
 draft: false
 images:
-- "/images/covers/throane-plus_une_main_\xE0_mordre.png"
+- "/images/covers/throane-plus_une_main_\xE0_mordre.jpg"
 inStock: true
-thumbnailImage: "/images/covers/throane-plus_une_main_\xE0_mordre-thumb.png"
+thumbnailImage: "/images/covers/throane-plus_une_main_\xE0_mordre-thumb.jpg"
 title: "Throane - Plus Une Main \xC0 Mordre"
 ---
 

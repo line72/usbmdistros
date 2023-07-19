@@ -4,7 +4,7 @@ album: Endless Vampyric Conjurations
 artist: Conjuro
 categories:
 - Vinyl
-date: '2021-06-26T15:02:54'
+date: '2023-07-14T05:09:51'
 draft: false
 images:
 - /images/covers/conjuro-endless_vampyric_conjurations.jpg

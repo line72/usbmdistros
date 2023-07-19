@@ -5,7 +5,7 @@ artist: Departure Chandelier
 categories:
 - Vinyl
 - CD
-date: '2023-04-27T05:13:08'
+date: '2023-07-18T16:10:33'
 draft: false
 images:
 - /images/covers/departure_chandelier-the_black_crest_of_death,_the_gold_wreath_of_war.jpg
@@ -21,5 +21,9 @@ title: Departure Chandelier - The Black Crest of Death, The Gold Wreath of War
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=30772&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=31211&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=32956&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=34791&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=35751&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=35951&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=36154&sort=pd.name&order=ASC) for $25.00
 ## CD
 * Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/departure-chandelier-the-black-crest-of-death-the-gold-wreath-of-war-cd/) for $12.00

@@ -7,9 +7,9 @@ categories:
 date: '2023-05-16T20:20:40'
 draft: false
 images:
-- /images/covers/wotanorden-the_hands_of_fate.png
+- /images/covers/wotanorden-the_hands_of_fate.jpg
 inStock: true
-thumbnailImage: /images/covers/wotanorden-the_hands_of_fate-thumb.png
+thumbnailImage: /images/covers/wotanorden-the_hands_of_fate-thumb.jpg
 title: Wotanorden - The Hands of Fate
 ---
 

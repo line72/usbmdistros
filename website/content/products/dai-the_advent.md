@@ -1,12 +1,12 @@
 ---
-actualPrice: $12.00 - 35.00
+actualPrice: $10.00 - 35.00
 album: The Advent
 artist: Dai
 categories:
 - Vinyl
 - Cassette
 - CD
-date: '2023-05-16T05:22:46'
+date: '2023-06-11T10:03:41'
 draft: false
 images:
 - /images/covers/dai-the_advent.jpg
@@ -53,3 +53,4 @@ title: Dai - The Advent
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=31672&sort=pd.name&order=ASC) for $12.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=31739&sort=pd.name&order=ASC) for $12.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=33395&sort=pd.name&order=ASC) for $12.00
+* Purchase from [CW Productions](https://shop.cwproductions.net/products/dai-the-advent-cd) for $10.00

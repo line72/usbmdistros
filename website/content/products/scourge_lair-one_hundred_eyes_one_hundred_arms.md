@@ -4,7 +4,7 @@ album: One Hundred Eyes One Hundred Arms
 artist: Scourge Lair
 categories:
 - Cassette
-date: '2023-05-16T05:24:01'
+date: '2023-05-21T05:26:02'
 draft: false
 images:
 - /images/covers/scourge_lair-one_hundred_eyes_one_hundred_arms.jpg
@@ -21,3 +21,4 @@ title: Scourge Lair - One Hundred Eyes One Hundred Arms
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=29736&sort=pd.name&order=ASC) for $8.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=30708&sort=pd.name&order=ASC) for $8.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=34414&sort=pd.name&order=ASC) for $8.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=34771&sort=pd.name&order=ASC) for $8.00

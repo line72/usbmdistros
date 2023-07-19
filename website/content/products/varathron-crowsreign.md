@@ -4,7 +4,7 @@ album: Crowsreign
 artist: Varathron
 categories:
 - Vinyl
-date: '2023-04-27T05:13:26'
+date: '2023-06-03T05:16:45'
 draft: false
 images:
 - /images/covers/varathron-crowsreign.jpg
@@ -19,3 +19,4 @@ title: Varathron - Crowsreign
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29755&sort=pd.name&order=ASC) for $30.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=30882&sort=pd.name&order=ASC) for $30.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=32024&sort=pd.name&order=ASC) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=35208&sort=pd.name&order=ASC) for $30.00

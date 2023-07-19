@@ -4,7 +4,7 @@ album: "Verborgen in den Tiefen der W\xE4lder.."
 artist: Bergthron
 categories:
 - Vinyl
-date: '2023-04-27T05:13:05'
+date: '2023-06-13T05:54:58'
 draft: false
 images:
 - "/images/covers/bergthron-verborgen_in_den_tiefen_der_w\xE4lder...jpg"
@@ -21,3 +21,4 @@ title: "Bergthron - Verborgen in den Tiefen der W\xE4lder.."
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29859&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=30437&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=31693&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=35645&sort=pd.name&order=ASC) for $25.00

@@ -5,7 +5,7 @@ artist: Vampirska
 categories:
 - Vinyl
 - Cassette
-date: '2022-06-01T05:13:13'
+date: '2023-07-14T05:12:22'
 draft: false
 images:
 - /images/covers/vampirska-vermillion_apparitions_frozen_in_chimera_twilight.jpg

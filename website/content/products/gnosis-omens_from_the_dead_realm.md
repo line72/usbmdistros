@@ -4,7 +4,7 @@ album: Omens from the Dead Realm
 artist: Gnosis
 categories:
 - Vinyl
-date: '2023-04-27T05:13:11'
+date: '2023-06-12T06:19:42'
 draft: false
 images:
 - /images/covers/gnosis-omens_from_the_dead_realm.jpg
@@ -17,3 +17,4 @@ title: Gnosis - Omens from the Dead Realm
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=22780&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=23200&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=24148&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=35521&sort=pd.name&order=ASC) for $25.00

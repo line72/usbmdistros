@@ -4,7 +4,7 @@ album: Yli Peltojen, Vetten Ja Tunturien
 artist: "Is\xE4nmaa"
 categories:
 - Vinyl
-date: '2022-11-30T06:10:24'
+date: '2023-06-08T05:18:59'
 draft: false
 images:
 - "/images/covers/is\xE4nmaa-yli_peltojen,_vetten_ja_tunturien.jpg"
@@ -15,3 +15,4 @@ title: "Is\xE4nmaa - Yli Peltojen, Vetten Ja Tunturien"
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=24671&sort=pd.name&order=ASC) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=35426&sort=pd.name&order=ASC) for $10.00

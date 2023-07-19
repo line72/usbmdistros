@@ -6,7 +6,7 @@ categories:
 - Vinyl
 - Cassette
 - CD
-date: '2023-04-27T05:13:06'
+date: '2023-06-19T05:59:23'
 draft: false
 images:
 - /images/covers/blut_aus_nord-777_-_cosmosophy.jpg
@@ -21,6 +21,7 @@ title: Blut Aus Nord - 777 - Cosmosophy
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29535&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=30504&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=33188&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=35902&sort=pd.name&order=ASC) for $25.00
 ## Cassette
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/blut-aus-nord-777-cosmosophy-cassette) for $14.00 :: Cassette Tape 2021 press
 ## CD

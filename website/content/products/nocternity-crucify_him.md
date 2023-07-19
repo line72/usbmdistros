@@ -4,7 +4,7 @@ album: Crucify Him
 artist: Nocternity
 categories:
 - Vinyl
-date: '2023-04-27T05:13:19'
+date: '2023-06-12T06:47:26'
 draft: false
 images:
 - /images/covers/nocternity-crucify_him.jpg
@@ -20,3 +20,5 @@ title: Nocternity - Crucify Him
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=27549&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=31100&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=31890&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=35131&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=35503&sort=pd.name&order=ASC) for $25.00

@@ -5,7 +5,7 @@ artist: "M\xFCtiilation"
 categories:
 - Vinyl
 - CD
-date: '2023-05-16T20:11:34'
+date: '2023-05-23T05:20:48'
 draft: false
 images:
 - "/images/covers/m\xFCtiilation-vampires_of_black_imperial_blood.png"
@@ -29,6 +29,8 @@ title: "M\xFCtiilation - Vampires Of Black Imperial Blood"
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/mutiilation-vampires-of-black-imperial-blood-2xlp) for $30.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=34311&sort=pd.name&order=ASC) for $30.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=34508&sort=pd.name&order=ASC) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=34569&sort=pd.name&order=ASC) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=34916&sort=pd.name&order=ASC) for $30.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=16647&sort=pd.name&order=ASC) for $12.00
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/mutiilation-vampires-of-black-imperial-blood-cd) for $13.00
@@ -36,3 +38,5 @@ title: "M\xFCtiilation - Vampires Of Black Imperial Blood"
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=29978&sort=pd.name&order=ASC) for $12.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=30355&sort=pd.name&order=ASC) for $12.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=32155&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=34621&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=34919&sort=pd.name&order=ASC) for $15.00

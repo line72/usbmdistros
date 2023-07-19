@@ -1,10 +1,11 @@
 ---
-actualPrice: $13.00
+actualPrice: $13.00 - 26.00
 album: Requiem
 artist: Spectral Corruption
 categories:
+- Vinyl
 - CD
-date: '2023-01-11T06:01:26'
+date: '2023-06-07T05:01:12'
 draft: false
 images:
 - /images/covers/spectral_corruption-requiem.jpg
@@ -13,5 +14,7 @@ thumbnailImage: /images/covers/spectral_corruption-requiem-thumb.jpg
 title: Spectral Corruption - Requiem
 ---
 
+## Vinyl
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/spectral-corruption-requiem-12-lp) for $26.00
 ## CD
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/spectral-corruption-requiem-cd) for $13.00

@@ -5,7 +5,7 @@ artist: Satanchist
 categories:
 - Vinyl
 - Cassette
-date: '2022-11-27T06:26:18'
+date: '2023-06-12T07:12:08'
 draft: false
 images:
 - "/images/covers/satanchist-drti\u010Di_kac\xED\u0159sk\xFDch_pohlav\xED.png"
@@ -19,6 +19,8 @@ title: "Satanchist - Drti\u010Di Kac\xED\u0159sk\xFDch Pohlav\xED"
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=16697&sort=pd.name&order=ASC) for $20.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=26545&sort=pd.name&order=ASC) for $16.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=26546&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=34851&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=35532&sort=pd.name&order=ASC) for $20.00
 ## Cassette
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=13601&sort=pd.name&order=ASC) for $8.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=16696&sort=pd.name&order=ASC) for $8.00

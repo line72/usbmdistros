@@ -5,7 +5,7 @@ artist: Zom
 categories:
 - Vinyl
 - CD
-date: '2023-04-27T05:13:54'
+date: '2023-07-18T16:54:32'
 draft: false
 images:
 - /images/covers/zom-flesh_assimilation.jpg
@@ -16,5 +16,6 @@ title: Zom - Flesh Assimilation
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=6626&sort=pd.name&order=ASC) for $17.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=36823&sort=pd.name&order=ASC) for $10.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=2148&sort=pd.name&order=ASC) for $8.00

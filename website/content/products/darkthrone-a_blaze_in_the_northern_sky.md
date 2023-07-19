@@ -1,10 +1,11 @@
 ---
-actualPrice: $20.00 - 27.00
+actualPrice: $10.00 - 27.00
 album: A Blaze in the Northern Sky
 artist: Darkthrone
 categories:
 - Vinyl
-date: '2023-04-24T05:13:18'
+- CD
+date: '2023-06-14T06:03:58'
 draft: false
 images:
 - /images/covers/darkthrone-a_blaze_in_the_northern_sky.jpg
@@ -37,3 +38,6 @@ title: Darkthrone - A Blaze in the Northern Sky
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=31151&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=31918&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=33640&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=35692&sort=pd.name&order=ASC) for $25.00
+## CD
+* Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/darkthrone-a-blaze-in-the-northern-sky-cd/) for $10.00

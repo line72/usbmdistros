@@ -4,7 +4,7 @@ album: La Grande Infamie
 artist: Akitsa
 categories:
 - Vinyl
-date: '2023-04-27T05:13:03'
+date: '2023-06-22T05:47:35'
 draft: false
 images:
 - /images/covers/akitsa-la_grande_infamie.jpg
@@ -20,3 +20,4 @@ title: Akitsa - La Grande Infamie
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29805&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=32452&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=33715&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=36010&sort=pd.name&order=ASC) for $25.00

@@ -7,9 +7,9 @@ categories:
 date: '2023-05-06T05:14:01'
 draft: false
 images:
-- /images/covers/hadopelagyal-xxxvi_xxxi_n_xxv_xxviii_o.png
+- /images/covers/hadopelagyal-xxxvi_xxxi_n_xxv_xxviii_o.jpg
 inStock: true
-thumbnailImage: /images/covers/hadopelagyal-xxxvi_xxxi_n_xxv_xxviii_o-thumb.png
+thumbnailImage: /images/covers/hadopelagyal-xxxvi_xxxi_n_xxv_xxviii_o-thumb.jpg
 title: Hadopelagyal - XXXVI XXXI N XXV XXVIII O
 ---
 

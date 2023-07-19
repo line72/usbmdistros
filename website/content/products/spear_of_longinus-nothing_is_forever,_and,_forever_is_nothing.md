@@ -7,9 +7,9 @@ categories:
 date: '2023-05-16T20:20:40'
 draft: false
 images:
-- /images/covers/spear_of_longinus-nothing_is_forever,_and,_forever_is_nothing.png
+- /images/covers/spear_of_longinus-nothing_is_forever,_and,_forever_is_nothing.jpg
 inStock: true
-thumbnailImage: /images/covers/spear_of_longinus-nothing_is_forever,_and,_forever_is_nothing-thumb.png
+thumbnailImage: /images/covers/spear_of_longinus-nothing_is_forever,_and,_forever_is_nothing-thumb.jpg
 title: Spear Of Longinus - Nothing is Forever, and, Forever is Nothing
 ---
 

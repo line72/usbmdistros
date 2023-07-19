@@ -5,7 +5,7 @@ artist: Thanatomass
 categories:
 - Vinyl
 - CD
-date: '2023-04-27T05:13:24'
+date: '2023-05-20T05:17:04'
 draft: false
 images:
 - /images/covers/thanatomass-darkest_conjurations.png
@@ -18,6 +18,7 @@ title: Thanatomass - Darkest Conjurations
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=28306&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=28617&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=31824&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=34748&sort=pd.name&order=ASC) for $25.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=11703&sort=pd.name&order=ASC) for $10.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=25397&sort=pd.name&order=ASC) for $12.00

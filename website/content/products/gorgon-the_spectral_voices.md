@@ -4,7 +4,7 @@ album: The Spectral Voices
 artist: Gorgon
 categories:
 - CD
-date: '2023-04-27T05:13:39'
+date: '2023-05-18T05:21:15'
 draft: false
 images:
 - /images/covers/gorgon-the_spectral_voices.jpg
@@ -17,3 +17,4 @@ title: Gorgon - The Spectral Voices
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=11921&sort=pd.name&order=ASC) for $12.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=20950&sort=pd.name&order=ASC) for $12.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=29255&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=34608&sort=pd.name&order=ASC) for $12.00

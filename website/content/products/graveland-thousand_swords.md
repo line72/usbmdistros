@@ -1,10 +1,11 @@
 ---
-actualPrice: $20.00 - 30.00
+actualPrice: $15.00 - 30.00
 album: Thousand Swords
 artist: Graveland
 categories:
 - Vinyl
-date: '2023-05-12T05:13:13'
+- CD
+date: '2023-07-18T18:24:23'
 draft: false
 images:
 - /images/covers/graveland-thousand_swords.jpg
@@ -20,3 +21,6 @@ title: Graveland - Thousand Swords
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=33915&sort=pd.name&order=ASC) for $30.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=33987&sort=pd.name&order=ASC) for $30.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=34262&sort=pd.name&order=ASC) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=34712&sort=pd.name&order=ASC) for $30.00
+## CD
+* Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/graveland-thousand-swords-cd/) for $15.00

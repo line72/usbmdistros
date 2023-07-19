@@ -5,7 +5,7 @@ artist: Obskuritatem
 categories:
 - Vinyl
 - CD
-date: '2023-04-27T05:13:47'
+date: '2023-05-29T05:02:09'
 draft: false
 images:
 - /images/covers/obskuritatem-arogantni_nihilizam.jpg
@@ -23,6 +23,7 @@ title: Obskuritatem - Arogantni Nihilizam
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=31220&sort=pd.name&order=ASC) for $33.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=31872&sort=pd.name&order=ASC) for $33.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=32071&sort=pd.name&order=ASC) for $33.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=34908&sort=pd.name&order=ASC) for $33.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=29358&sort=pd.name&order=ASC) for $15.00
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/obskuritatem-arogantni-nihilizam-cd) for $13.00
@@ -30,3 +31,4 @@ title: Obskuritatem - Arogantni Nihilizam
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=30239&sort=pd.name&order=ASC) for $15.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=30938&sort=pd.name&order=ASC) for $15.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=32070&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=34907&sort=pd.name&order=ASC) for $15.00
