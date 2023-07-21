@@ -7,9 +7,9 @@ categories:
 date: '2023-07-18T16:05:34'
 draft: false
 images:
-- /images/covers/burzum-hlidskjalf.png
+- /images/covers/burzum-hlidskjalf.jpg
 inStock: true
-thumbnailImage: /images/covers/burzum-hlidskjalf-thumb.png
+thumbnailImage: /images/covers/burzum-hlidskjalf-thumb.jpg
 title: Burzum - Hlidskjalf
 ---
 

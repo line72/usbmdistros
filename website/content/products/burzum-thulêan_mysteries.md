@@ -7,9 +7,9 @@ categories:
 date: '2023-07-18T16:05:34'
 draft: false
 images:
-- "/images/covers/burzum-thul\xEAan_mysteries.png"
+- "/images/covers/burzum-thul\xEAan_mysteries.jpg"
 inStock: true
-thumbnailImage: "/images/covers/burzum-thul\xEAan_mysteries-thumb.png"
+thumbnailImage: "/images/covers/burzum-thul\xEAan_mysteries-thumb.jpg"
 title: "Burzum - Thul\xEAan Mysteries"
 ---
 

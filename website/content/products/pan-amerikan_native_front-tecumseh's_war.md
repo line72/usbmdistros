@@ -4,7 +4,7 @@ album: Tecumseh's War
 artist: Pan-Amerikan Native Front
 categories:
 - Vinyl
-date: '2023-06-22T06:41:29'
+date: '2023-07-20T07:11:29'
 draft: false
 images:
 - /images/covers/pan-amerikan_native_front-tecumseh's_war.jpg
@@ -21,3 +21,4 @@ title: Pan-Amerikan Native Front - Tecumseh's War
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=33554&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=34830&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=35947&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=37169&sort=pd.name&order=ASC) for $25.00

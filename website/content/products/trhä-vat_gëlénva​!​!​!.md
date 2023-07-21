@@ -7,9 +7,9 @@ categories:
 date: '2023-07-18T16:48:12'
 draft: false
 images:
-- "/images/covers/trh\xE4-vat_g\xEBl\xE9nva\u200B!\u200B!\u200B!.png"
+- "/images/covers/trh\xE4-vat_g\xEBl\xE9nva\u200B!\u200B!\u200B!.jpg"
 inStock: true
-thumbnailImage: "/images/covers/trh\xE4-vat_g\xEBl\xE9nva\u200B!\u200B!\u200B!-thumb.png"
+thumbnailImage: "/images/covers/trh\xE4-vat_g\xEBl\xE9nva\u200B!\u200B!\u200B!-thumb.jpg"
 title: "Trh\xE4 - Vat g\xEBl\xE9nva\u200B!\u200B!\u200B!"
 ---
 

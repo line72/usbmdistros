@@ -7,9 +7,9 @@ categories:
 date: '2023-07-18T17:07:01'
 draft: false
 images:
-- "/images/covers/allegiance-blod\xF6rnsoffer.png"
+- "/images/covers/allegiance-blod\xF6rnsoffer.jpg"
 inStock: true
-thumbnailImage: "/images/covers/allegiance-blod\xF6rnsoffer-thumb.png"
+thumbnailImage: "/images/covers/allegiance-blod\xF6rnsoffer-thumb.jpg"
 title: "Allegiance - Blod\xF6rnsoffer"
 ---
 

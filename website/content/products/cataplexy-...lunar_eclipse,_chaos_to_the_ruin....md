@@ -7,9 +7,9 @@ categories:
 date: '2023-07-18T17:12:22'
 draft: false
 images:
-- /images/covers/cataplexy-...lunar_eclipse,_chaos_to_the_ruin....png
+- /images/covers/cataplexy-...lunar_eclipse,_chaos_to_the_ruin....jpg
 inStock: true
-thumbnailImage: /images/covers/cataplexy-...lunar_eclipse,_chaos_to_the_ruin...-thumb.png
+thumbnailImage: /images/covers/cataplexy-...lunar_eclipse,_chaos_to_the_ruin...-thumb.jpg
 title: Cataplexy - ...Lunar Eclipse, Chaos to the Ruin...
 ---
 

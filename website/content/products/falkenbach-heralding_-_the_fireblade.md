@@ -7,9 +7,9 @@ categories:
 date: '2023-07-18T16:14:24'
 draft: false
 images:
-- /images/covers/falkenbach-heralding_-_the_fireblade.png
+- /images/covers/falkenbach-heralding_-_the_fireblade.jpg
 inStock: true
-thumbnailImage: /images/covers/falkenbach-heralding_-_the_fireblade-thumb.png
+thumbnailImage: /images/covers/falkenbach-heralding_-_the_fireblade-thumb.jpg
 title: Falkenbach - Heralding - The Fireblade
 ---
 

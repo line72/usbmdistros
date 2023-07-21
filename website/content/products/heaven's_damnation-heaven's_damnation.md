@@ -9,9 +9,9 @@ categories:
 date: '2023-07-19T08:40:58'
 draft: false
 images:
-- /images/covers/heaven's_damnation-heaven's_damnation.png
+- /images/covers/heaven's_damnation-heaven's_damnation.jpg
 inStock: true
-thumbnailImage: /images/covers/heaven's_damnation-heaven's_damnation-thumb.png
+thumbnailImage: /images/covers/heaven's_damnation-heaven's_damnation-thumb.jpg
 title: Heaven's Damnation - Heaven's Damnation
 ---
 

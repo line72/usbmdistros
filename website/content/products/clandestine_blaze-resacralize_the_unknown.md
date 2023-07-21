@@ -7,9 +7,9 @@ categories:
 date: '2023-07-11T05:13:16'
 draft: false
 images:
-- /images/covers/clandestine_blaze-resacralize_the_unknown.png
+- /images/covers/clandestine_blaze-resacralize_the_unknown.jpg
 inStock: true
-thumbnailImage: /images/covers/clandestine_blaze-resacralize_the_unknown-thumb.png
+thumbnailImage: /images/covers/clandestine_blaze-resacralize_the_unknown-thumb.jpg
 title: CLANDESTINE BLAZE - Resacralize The Unknown
 ---
 

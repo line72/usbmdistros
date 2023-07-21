@@ -7,9 +7,9 @@ categories:
 date: '2023-07-18T17:01:47'
 draft: false
 images:
-- /images/covers/nuit_noire-lutina.png
+- /images/covers/nuit_noire-lutina.jpg
 inStock: true
-thumbnailImage: /images/covers/nuit_noire-lutina-thumb.png
+thumbnailImage: /images/covers/nuit_noire-lutina-thumb.jpg
 title: Nuit Noire - Lutina
 ---
 

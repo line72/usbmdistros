@@ -7,9 +7,9 @@ categories:
 date: '2023-07-18T17:25:41'
 draft: false
 images:
-- "/images/covers/herm\xF3\xF0r-tidens_tand.png"
+- "/images/covers/herm\xF3\xF0r-tidens_tand.jpg"
 inStock: true
-thumbnailImage: "/images/covers/herm\xF3\xF0r-tidens_tand-thumb.png"
+thumbnailImage: "/images/covers/herm\xF3\xF0r-tidens_tand-thumb.jpg"
 title: "Herm\xF3\xF0r - Tidens Tand"
 ---
 

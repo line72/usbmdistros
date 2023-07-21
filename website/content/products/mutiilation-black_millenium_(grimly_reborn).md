@@ -7,9 +7,9 @@ categories:
 date: '2023-07-18T18:24:23'
 draft: false
 images:
-- /images/covers/mutiilation-black_millenium_(grimly_reborn).png
+- /images/covers/mutiilation-black_millenium_(grimly_reborn).jpg
 inStock: true
-thumbnailImage: /images/covers/mutiilation-black_millenium_(grimly_reborn)-thumb.png
+thumbnailImage: /images/covers/mutiilation-black_millenium_(grimly_reborn)-thumb.jpg
 title: Mutiilation - Black Millenium (Grimly Reborn)
 ---
 

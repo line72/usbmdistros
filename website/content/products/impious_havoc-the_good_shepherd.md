@@ -7,9 +7,9 @@ categories:
 date: '2023-07-18T16:59:37'
 draft: false
 images:
-- /images/covers/impious_havoc-the_good_shepherd.png
+- /images/covers/impious_havoc-the_good_shepherd.jpg
 inStock: true
-thumbnailImage: /images/covers/impious_havoc-the_good_shepherd-thumb.png
+thumbnailImage: /images/covers/impious_havoc-the_good_shepherd-thumb.jpg
 title: Impious Havoc - The Good Shepherd
 ---
 

@@ -7,9 +7,9 @@ categories:
 date: '2023-07-19T08:41:08'
 draft: false
 images:
-- /images/covers/avowal-transformation.png
+- /images/covers/avowal-transformation.jpg
 inStock: true
-thumbnailImage: /images/covers/avowal-transformation-thumb.png
+thumbnailImage: /images/covers/avowal-transformation-thumb.jpg
 title: Avowal - Transformation
 ---
 

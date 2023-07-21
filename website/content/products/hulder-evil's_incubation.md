@@ -7,9 +7,9 @@ categories:
 date: '2023-07-18T16:59:35'
 draft: false
 images:
-- /images/covers/hulder-evil's_incubation.png
+- /images/covers/hulder-evil's_incubation.jpg
 inStock: true
-thumbnailImage: /images/covers/hulder-evil's_incubation-thumb.png
+thumbnailImage: /images/covers/hulder-evil's_incubation-thumb.jpg
 title: Hulder - Evil's Incubation
 ---
 

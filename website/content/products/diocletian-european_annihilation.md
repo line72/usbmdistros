@@ -7,9 +7,9 @@ categories:
 date: '2023-07-18T16:57:46'
 draft: false
 images:
-- /images/covers/diocletian-european_annihilation.png
+- /images/covers/diocletian-european_annihilation.jpg
 inStock: true
-thumbnailImage: /images/covers/diocletian-european_annihilation-thumb.png
+thumbnailImage: /images/covers/diocletian-european_annihilation-thumb.jpg
 title: Diocletian - European Annihilation
 ---
 

@@ -7,9 +7,9 @@ categories:
 date: '2023-07-18T16:34:09'
 draft: false
 images:
-- /images/covers/nubivagant-roaring_eye.png
+- /images/covers/nubivagant-roaring_eye.jpg
 inStock: true
-thumbnailImage: /images/covers/nubivagant-roaring_eye-thumb.png
+thumbnailImage: /images/covers/nubivagant-roaring_eye-thumb.jpg
 title: Nubivagant - Roaring Eye
 ---
 

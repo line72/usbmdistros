@@ -7,9 +7,9 @@ categories:
 date: '2023-07-18T18:24:23'
 draft: false
 images:
-- /images/covers/sigrblot-blodsband_(blood_religion_manifest).png
+- /images/covers/sigrblot-blodsband_(blood_religion_manifest).jpg
 inStock: true
-thumbnailImage: /images/covers/sigrblot-blodsband_(blood_religion_manifest)-thumb.png
+thumbnailImage: /images/covers/sigrblot-blodsband_(blood_religion_manifest)-thumb.jpg
 title: Sigrblot - Blodsband (Blood Religion Manifest)
 ---
 

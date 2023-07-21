@@ -7,9 +7,9 @@ categories:
 date: '2023-07-18T17:28:54'
 draft: false
 images:
-- /images/covers/kalmankantaja-musta_lampi.png
+- /images/covers/kalmankantaja-musta_lampi.jpg
 inStock: true
-thumbnailImage: /images/covers/kalmankantaja-musta_lampi-thumb.png
+thumbnailImage: /images/covers/kalmankantaja-musta_lampi-thumb.jpg
 title: Kalmankantaja - Musta Lampi
 ---
 

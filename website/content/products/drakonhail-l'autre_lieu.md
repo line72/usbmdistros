@@ -7,9 +7,9 @@ categories:
 date: '2023-07-18T16:11:41'
 draft: false
 images:
-- /images/covers/drakonhail-l'autre_lieu.png
+- /images/covers/drakonhail-l'autre_lieu.jpg
 inStock: true
-thumbnailImage: /images/covers/drakonhail-l'autre_lieu-thumb.png
+thumbnailImage: /images/covers/drakonhail-l'autre_lieu-thumb.jpg
 title: Drakonhail - L'autre Lieu
 ---
 

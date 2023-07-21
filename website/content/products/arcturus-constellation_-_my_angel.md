@@ -7,9 +7,9 @@ categories:
 date: '2023-07-18T15:59:37'
 draft: false
 images:
-- /images/covers/arcturus-constellation_-_my_angel.png
+- /images/covers/arcturus-constellation_-_my_angel.jpg
 inStock: true
-thumbnailImage: /images/covers/arcturus-constellation_-_my_angel-thumb.png
+thumbnailImage: /images/covers/arcturus-constellation_-_my_angel-thumb.jpg
 title: Arcturus - Constellation / My Angel
 ---
 

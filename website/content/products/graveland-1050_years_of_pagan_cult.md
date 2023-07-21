@@ -7,9 +7,9 @@ categories:
 date: '2023-07-18T18:24:24'
 draft: false
 images:
-- /images/covers/graveland-1050_years_of_pagan_cult.png
+- /images/covers/graveland-1050_years_of_pagan_cult.jpg
 inStock: true
-thumbnailImage: /images/covers/graveland-1050_years_of_pagan_cult-thumb.png
+thumbnailImage: /images/covers/graveland-1050_years_of_pagan_cult-thumb.jpg
 title: Graveland - 1050 Years of Pagan Cult
 ---
 

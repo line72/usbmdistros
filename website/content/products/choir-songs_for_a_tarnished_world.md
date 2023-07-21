@@ -5,7 +5,8 @@ artist: Choir
 categories:
 - Vinyl
 - Cassette
-date: '2023-07-19T08:41:08'
+- CD
+date: '2023-07-21T08:11:17'
 draft: false
 images:
 - /images/covers/choir-songs_for_a_tarnished_world.jpg
@@ -19,3 +20,5 @@ title: Choir - Songs For A Tarnished World
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/choir-songs-for-a-tarnished-world-lp-1) for $25.00 :: Clear 2022 press (lim/108)
 ## Cassette
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/choir-songs-for-a-tarnished-world-cassette) for $10.00 :: Cassette 2023
+## CD
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/choir-songs-for-a-tarnished-world-cd) for $17.00 :: CD 2023

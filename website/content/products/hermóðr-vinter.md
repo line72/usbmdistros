@@ -7,9 +7,9 @@ categories:
 date: '2023-07-18T17:25:41'
 draft: false
 images:
-- "/images/covers/herm\xF3\xF0r-vinter.png"
+- "/images/covers/herm\xF3\xF0r-vinter.jpg"
 inStock: true
-thumbnailImage: "/images/covers/herm\xF3\xF0r-vinter-thumb.png"
+thumbnailImage: "/images/covers/herm\xF3\xF0r-vinter-thumb.jpg"
 title: "Herm\xF3\xF0r - Vinter"
 ---
 

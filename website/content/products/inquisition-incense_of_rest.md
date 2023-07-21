@@ -7,9 +7,9 @@ categories:
 date: '2023-07-18T05:05:20'
 draft: false
 images:
-- /images/covers/inquisition-incense_of_rest.png
+- /images/covers/inquisition-incense_of_rest.jpg
 inStock: true
-thumbnailImage: /images/covers/inquisition-incense_of_rest-thumb.png
+thumbnailImage: /images/covers/inquisition-incense_of_rest-thumb.jpg
 title: Inquisition - Incense of Rest
 ---
 

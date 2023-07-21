@@ -7,9 +7,9 @@ categories:
 date: '2023-07-18T17:28:54'
 draft: false
 images:
-- /images/covers/kalmankantaja-kaski.png
+- /images/covers/kalmankantaja-kaski.jpg
 inStock: true
-thumbnailImage: /images/covers/kalmankantaja-kaski-thumb.png
+thumbnailImage: /images/covers/kalmankantaja-kaski-thumb.jpg
 title: Kalmankantaja - Kaski
 ---
 

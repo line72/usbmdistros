@@ -5,7 +5,7 @@ artist: Pan-Amerikan Native Front
 categories:
 - Vinyl
 - Cassette
-date: '2023-06-22T06:41:29'
+date: '2023-07-20T07:11:29'
 draft: false
 images:
 - /images/covers/pan-amerikan_native_front-little_turtle's_war.jpg
@@ -24,5 +24,6 @@ title: Pan-Amerikan Native Front - Little Turtle's War
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=33553&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=34829&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=35946&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=37168&sort=pd.name&order=ASC) for $25.00
 ## Cassette
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=18450&sort=pd.name&order=ASC) for $15.00

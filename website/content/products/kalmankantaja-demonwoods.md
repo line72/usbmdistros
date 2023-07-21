@@ -7,9 +7,9 @@ categories:
 date: '2023-07-18T17:28:54'
 draft: false
 images:
-- /images/covers/kalmankantaja-demonwoods.png
+- /images/covers/kalmankantaja-demonwoods.jpg
 inStock: true
-thumbnailImage: /images/covers/kalmankantaja-demonwoods-thumb.png
+thumbnailImage: /images/covers/kalmankantaja-demonwoods-thumb.jpg
 title: Kalmankantaja - Demonwoods
 ---
 

@@ -7,9 +7,9 @@ categories:
 date: '2023-07-18T16:32:28'
 draft: false
 images:
-- /images/covers/necros_christos-doom_of_the_occult.png
+- /images/covers/necros_christos-doom_of_the_occult.jpg
 inStock: true
-thumbnailImage: /images/covers/necros_christos-doom_of_the_occult-thumb.png
+thumbnailImage: /images/covers/necros_christos-doom_of_the_occult-thumb.jpg
 title: Necros Christos - Doom Of The Occult
 ---
 

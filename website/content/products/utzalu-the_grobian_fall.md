@@ -1,11 +1,12 @@
 ---
-actualPrice: $9.00 - 10.00
+actualPrice: $9.00 - 40.00
 album: The Grobian Fall
 artist: Utzalu
 categories:
+- Vinyl
 - Cassette
 - CD
-date: '2023-04-27T05:13:52'
+date: '2023-07-20T07:39:36'
 draft: false
 images:
 - /images/covers/utzalu-the_grobian_fall.jpg
@@ -14,6 +15,8 @@ thumbnailImage: /images/covers/utzalu-the_grobian_fall-thumb.jpg
 title: Utzalu - The Grobian Fall
 ---
 
+## Vinyl
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=37175&sort=pd.name&order=ASC) for $40.00
 ## Cassette
 * Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/36042061-utzalu-the-grobian-fall) for $9.00
 ## CD

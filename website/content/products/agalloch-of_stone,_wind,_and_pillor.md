@@ -7,9 +7,9 @@ categories:
 date: '2023-07-18T15:57:12'
 draft: false
 images:
-- /images/covers/agalloch-of_stone,_wind,_and_pillor.png
+- /images/covers/agalloch-of_stone,_wind,_and_pillor.jpg
 inStock: true
-thumbnailImage: /images/covers/agalloch-of_stone,_wind,_and_pillor-thumb.png
+thumbnailImage: /images/covers/agalloch-of_stone,_wind,_and_pillor-thumb.jpg
 title: Agalloch - Of Stone, Wind, and Pillor
 ---
 

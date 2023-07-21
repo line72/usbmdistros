@@ -7,9 +7,9 @@ categories:
 date: '2023-07-18T17:27:31'
 draft: false
 images:
-- /images/covers/infernal_necromancy-infernal_necromancy.png
+- /images/covers/infernal_necromancy-infernal_necromancy.jpg
 inStock: true
-thumbnailImage: /images/covers/infernal_necromancy-infernal_necromancy-thumb.png
+thumbnailImage: /images/covers/infernal_necromancy-infernal_necromancy-thumb.jpg
 title: Infernal Necromancy - Infernal Necromancy
 ---
 

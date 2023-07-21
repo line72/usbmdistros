@@ -7,9 +7,9 @@ categories:
 date: '2023-07-18T17:25:41'
 draft: false
 images:
-- "/images/covers/herm\xF3\xF0r-to_the_nightside.png"
+- "/images/covers/herm\xF3\xF0r-to_the_nightside.jpg"
 inStock: true
-thumbnailImage: "/images/covers/herm\xF3\xF0r-to_the_nightside-thumb.png"
+thumbnailImage: "/images/covers/herm\xF3\xF0r-to_the_nightside-thumb.jpg"
 title: "Herm\xF3\xF0r - To the Nightside"
 ---
 

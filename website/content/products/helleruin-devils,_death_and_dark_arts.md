@@ -9,9 +9,9 @@ categories:
 date: '2023-07-18T16:19:37'
 draft: false
 images:
-- /images/covers/helleruin-devils,_death_and_dark_arts.png
+- /images/covers/helleruin-devils,_death_and_dark_arts.jpg
 inStock: true
-thumbnailImage: /images/covers/helleruin-devils,_death_and_dark_arts-thumb.png
+thumbnailImage: /images/covers/helleruin-devils,_death_and_dark_arts-thumb.jpg
 title: Helleruin - Devils, Death and Dark Arts
 ---
 

@@ -7,9 +7,9 @@ categories:
 date: '2023-07-18T16:05:33'
 draft: false
 images:
-- /images/covers/burzum-fallen.png
+- /images/covers/burzum-fallen.jpg
 inStock: true
-thumbnailImage: /images/covers/burzum-fallen-thumb.png
+thumbnailImage: /images/covers/burzum-fallen-thumb.jpg
 title: Burzum - Fallen
 ---
 

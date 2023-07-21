@@ -7,9 +7,9 @@ categories:
 date: '2023-07-18T17:05:41'
 draft: false
 images:
-- /images/covers/zhmach-karyta_dzieda_platona.png
+- /images/covers/zhmach-karyta_dzieda_platona.jpg
 inStock: true
-thumbnailImage: /images/covers/zhmach-karyta_dzieda_platona-thumb.png
+thumbnailImage: /images/covers/zhmach-karyta_dzieda_platona-thumb.jpg
 title: Zhmach - Karyta Dzieda Platona
 ---
 

@@ -7,9 +7,9 @@ categories:
 date: '2023-07-18T15:57:12'
 draft: false
 images:
-- /images/covers/agalloch-the_white.png
+- /images/covers/agalloch-the_white.jpg
 inStock: true
-thumbnailImage: /images/covers/agalloch-the_white-thumb.png
+thumbnailImage: /images/covers/agalloch-the_white-thumb.jpg
 title: Agalloch - The White
 ---
 

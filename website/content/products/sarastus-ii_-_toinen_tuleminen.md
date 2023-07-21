@@ -7,9 +7,9 @@ categories:
 date: '2023-07-18T17:44:10'
 draft: false
 images:
-- /images/covers/sarastus-ii_-_toinen_tuleminen.png
+- /images/covers/sarastus-ii_-_toinen_tuleminen.jpg
 inStock: true
-thumbnailImage: /images/covers/sarastus-ii_-_toinen_tuleminen-thumb.png
+thumbnailImage: /images/covers/sarastus-ii_-_toinen_tuleminen-thumb.jpg
 title: Sarastus - II - Toinen Tuleminen
 ---
 

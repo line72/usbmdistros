@@ -7,9 +7,9 @@ categories:
 date: '2023-07-18T16:14:24'
 draft: false
 images:
-- /images/covers/falkenbach-ok_nefna_tysvar_ty.png
+- /images/covers/falkenbach-ok_nefna_tysvar_ty.jpg
 inStock: true
-thumbnailImage: /images/covers/falkenbach-ok_nefna_tysvar_ty-thumb.png
+thumbnailImage: /images/covers/falkenbach-ok_nefna_tysvar_ty-thumb.jpg
 title: Falkenbach - Ok Nefna Tysvar Ty
 ---
 

@@ -7,9 +7,9 @@ categories:
 date: '2023-07-18T17:23:19'
 draft: false
 images:
-- /images/covers/gravespawn-scourge_of_the_realm.png
+- /images/covers/gravespawn-scourge_of_the_realm.jpg
 inStock: true
-thumbnailImage: /images/covers/gravespawn-scourge_of_the_realm-thumb.png
+thumbnailImage: /images/covers/gravespawn-scourge_of_the_realm-thumb.jpg
 title: Gravespawn - Scourge of the Realm
 ---
 

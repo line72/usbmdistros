@@ -8,9 +8,9 @@ categories:
 date: '2023-07-18T17:23:01'
 draft: false
 images:
-- /images/covers/grafvitnir-into_the_outer_wilderness.png
+- /images/covers/grafvitnir-into_the_outer_wilderness.jpg
 inStock: true
-thumbnailImage: /images/covers/grafvitnir-into_the_outer_wilderness-thumb.png
+thumbnailImage: /images/covers/grafvitnir-into_the_outer_wilderness-thumb.jpg
 title: Grafvitnir - Into the Outer Wilderness
 ---
 

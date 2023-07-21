@@ -8,9 +8,9 @@ categories:
 date: '2023-07-18T17:28:55'
 draft: false
 images:
-- /images/covers/kalmankantaja-waeltaja.png
+- /images/covers/kalmankantaja-waeltaja.jpg
 inStock: true
-thumbnailImage: /images/covers/kalmankantaja-waeltaja-thumb.png
+thumbnailImage: /images/covers/kalmankantaja-waeltaja-thumb.jpg
 title: Kalmankantaja - Waeltaja
 ---
 
