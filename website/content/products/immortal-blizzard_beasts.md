@@ -1,10 +1,10 @@
 ---
-actualPrice: $20.00 - 27.00
+actualPrice: $20.00 - 35.00
 album: Blizzard Beasts
 artist: Immortal
 categories:
 - Vinyl
-date: '2023-06-02T05:14:30'
+date: '2023-07-22T06:16:06'
 draft: false
 images:
 - /images/covers/immortal-blizzard_beasts.jpg
@@ -22,3 +22,4 @@ title: Immortal - Blizzard Beasts
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=34581&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=35040&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=35179&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=37247&sort=pd.name&order=ASC) for $35.00
