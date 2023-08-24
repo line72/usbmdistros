@@ -4,7 +4,7 @@ album: Non Cogitant Sed Tamen Sunt
 artist: Vicarivs Filii Dei
 categories:
 - Vinyl
-date: '2023-04-27T05:13:26'
+date: '2023-07-27T05:51:43'
 draft: false
 images:
 - /images/covers/vicarivs_filii_dei-non_cogitant_sed_tamen_sunt.jpg

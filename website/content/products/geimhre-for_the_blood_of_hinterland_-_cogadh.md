@@ -4,7 +4,7 @@ album: For the Blood of Hinterland / Cogadh
 artist: Geimhre
 categories:
 - CD
-date: '2023-04-27T05:13:39'
+date: '2023-07-27T05:53:48'
 draft: false
 images:
 - /images/covers/geimhre-for_the_blood_of_hinterland_-_cogadh.jpg

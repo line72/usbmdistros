@@ -5,7 +5,7 @@ artist: Baxaxaxa
 categories:
 - Vinyl
 - CD
-date: '2023-06-03T05:12:49'
+date: '2023-07-27T05:47:50'
 draft: false
 images:
 - /images/covers/baxaxaxa-catacomb_cult.jpg

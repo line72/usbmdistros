@@ -1,10 +1,10 @@
 ---
-actualPrice: $10.00
+actualPrice: $10.00 - 20.00
 album: Satanic Masowhore
 artist: Impaled Nazarene
 categories:
 - Vinyl
-date: '2021-11-30T13:35:31'
+date: '2023-08-15T07:22:44'
 draft: false
 images:
 - /images/covers/impaled_nazarene-satanic_masowhore.png
@@ -15,3 +15,4 @@ title: Impaled Nazarene - Satanic Masowhore
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=16621&sort=pd.name&order=ASC) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=38349&sort=pd.name&order=ASC) for $20.00

@@ -4,7 +4,7 @@ album: Anvastra Svara Sattaragra
 artist: Vadhakarmadhikarin
 categories:
 - Vinyl
-date: '2023-04-27T05:13:25'
+date: '2023-07-27T05:51:37'
 draft: false
 images:
 - /images/covers/vadhakarmadhikarin-anvastra_svara_sattaragra.png

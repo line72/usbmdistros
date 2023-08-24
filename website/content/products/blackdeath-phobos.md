@@ -4,7 +4,7 @@ album: Phobos
 artist: Blackdeath
 categories:
 - CD
-date: '2023-04-27T05:13:34'
+date: '2023-07-27T05:53:04'
 draft: false
 images:
 - /images/covers/blackdeath-phobos.jpg

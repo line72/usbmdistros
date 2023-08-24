@@ -4,7 +4,7 @@ album: Eterno Guerreiro
 artist: Movarbru
 categories:
 - Vinyl
-date: '2023-04-27T05:13:31'
+date: '2023-07-27T05:52:26'
 draft: false
 images:
 - /images/covers/movarbru-eterno_guerreiro.png

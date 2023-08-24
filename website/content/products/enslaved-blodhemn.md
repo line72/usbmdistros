@@ -4,7 +4,7 @@ album: Blodhemn
 artist: Enslaved
 categories:
 - Vinyl
-date: '2023-06-06T05:14:45'
+date: '2023-07-27T05:48:47'
 draft: false
 images:
 - /images/covers/enslaved-blodhemn.jpg

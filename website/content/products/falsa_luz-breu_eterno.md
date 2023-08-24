@@ -4,7 +4,7 @@ album: Breu Eterno
 artist: Falsa Luz
 categories:
 - Cassette
-date: '2023-04-27T05:13:57'
+date: '2023-07-27T05:56:39'
 draft: false
 images:
 - /images/covers/falsa_luz-breu_eterno.jpg

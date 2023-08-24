@@ -4,7 +4,7 @@ album: Far Beneath the Sun
 artist: Malignant Eternal
 categories:
 - Vinyl
-date: '2023-04-27T05:13:16'
+date: '2023-07-27T05:49:52'
 draft: false
 images:
 - /images/covers/malignant_eternal-far_beneath_the_sun.jpg

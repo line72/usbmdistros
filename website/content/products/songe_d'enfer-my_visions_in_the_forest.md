@@ -4,7 +4,7 @@ album: My Visions in the Forest
 artist: Songe d'Enfer
 categories:
 - Vinyl
-date: '2023-04-27T05:13:23'
+date: '2023-07-27T05:51:11'
 draft: false
 images:
 - /images/covers/songe_d'enfer-my_visions_in_the_forest.jpg

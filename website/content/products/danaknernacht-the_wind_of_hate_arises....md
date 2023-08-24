@@ -4,7 +4,7 @@ album: The Wind of Hate Arises...
 artist: Danaknernacht
 categories:
 - Cassette
-date: '2023-04-27T05:13:56'
+date: '2023-07-27T05:56:29'
 draft: false
 images:
 - /images/covers/danaknernacht-the_wind_of_hate_arises....png

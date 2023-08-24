@@ -6,7 +6,7 @@ categories:
 - Vinyl
 - Cassette
 - CD
-date: '2023-04-27T05:14:01'
+date: '2023-07-27T05:57:15'
 draft: false
 images:
 - /images/covers/necromantic_worship-rites_of_resurrection.jpg

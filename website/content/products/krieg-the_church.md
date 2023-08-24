@@ -4,7 +4,7 @@ album: The Church
 artist: Krieg
 categories:
 - CD
-date: '2023-04-27T05:13:42'
+date: '2023-07-27T05:54:23'
 draft: false
 images:
 - /images/covers/krieg-the_church.jpg

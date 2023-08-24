@@ -4,7 +4,7 @@ album: Feed on the Dead
 artist: Ancient Stone
 categories:
 - Vinyl
-date: '2023-04-27T05:13:03'
+date: '2023-07-27T05:47:33'
 draft: false
 images:
 - /images/covers/ancient_stone-feed_on_the_dead.jpg

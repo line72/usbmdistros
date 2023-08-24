@@ -4,7 +4,7 @@ album: Goatlord
 artist: Darkthrone
 categories:
 - Vinyl
-date: '2023-06-14T06:03:58'
+date: '2023-07-27T05:48:28'
 draft: false
 images:
 - /images/covers/darkthrone-goatlord.jpg

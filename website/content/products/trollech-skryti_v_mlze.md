@@ -4,7 +4,7 @@ album: Skryti v Mlze
 artist: Trollech
 categories:
 - CD
-date: '2023-04-27T05:13:51'
+date: '2023-07-27T05:55:45'
 draft: false
 images:
 - /images/covers/trollech-skryti_v_mlze.png

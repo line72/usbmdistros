@@ -4,7 +4,7 @@ album: "D\xF6nsum \xED Logans Lj\xF3ma"
 artist: Forsman
 categories:
 - Cassette
-date: '2023-04-27T05:13:58'
+date: '2023-07-27T05:56:42'
 draft: false
 images:
 - "/images/covers/forsman-d\xF6nsum_\xED_logans_lj\xF3ma.jpg"

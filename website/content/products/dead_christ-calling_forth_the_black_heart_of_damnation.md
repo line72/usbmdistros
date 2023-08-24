@@ -5,7 +5,7 @@ artist: Dead Christ
 categories:
 - Vinyl
 - Cassette
-date: '2023-04-29T05:21:22'
+date: '2023-07-27T05:56:30'
 draft: false
 images:
 - /images/covers/dead_christ-calling_forth_the_black_heart_of_damnation.jpg

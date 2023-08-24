@@ -4,7 +4,7 @@ album: Horizons
 artist: "C\xE9notaphe"
 categories:
 - CD
-date: '2023-04-27T05:13:35'
+date: '2023-07-27T05:53:10'
 draft: false
 images:
 - "/images/covers/c\xE9notaphe-horizons.jpg"

@@ -6,7 +6,7 @@ categories:
 - Vinyl
 - Cassette
 - CD
-date: '2022-10-08T05:16:10'
+date: '2023-08-24T16:54:58'
 draft: false
 images:
 - /images/covers/wodulf-venom_from_the_mouth_of_the_dead.png
@@ -19,6 +19,7 @@ title: Wodulf - Venom From the Mouth of the Dead
 * Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/wodulf-venom-from-the-mouth-of-the-dead-12-lp/) for $24.00
 * Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/wodulf-venom-from-the-mouth-of-the-dead-12-lp/) for $20.00
 ## Cassette
+* Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/wodulf-venom-from-the-mouth-of-the-dead-cassette/) for $9.00
 * Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/wodulf-venom-from-the-mouth-of-the-dead-cassette/) for $9.00
 ## CD
 * Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/wodulf-venom-from-the-mouth-of-the-dead-cd/) for $13.00

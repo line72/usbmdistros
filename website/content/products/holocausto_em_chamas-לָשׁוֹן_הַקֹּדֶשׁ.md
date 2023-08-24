@@ -6,7 +6,7 @@ artist: Holocausto Em Chamas
 categories:
 - Vinyl
 - CD
-date: '2023-04-27T05:13:40'
+date: '2023-07-27T05:54:04'
 draft: false
 images:
 - "/images/covers/holocausto_em_chamas-\u05DC\u05B8\u05E9\u05C1\u05D5\u05B9\u05DF\

@@ -5,7 +5,7 @@ artist: "W\xF3ddr\xE9a Mylenstede"
 categories:
 - Vinyl
 - CD
-date: '2023-04-27T05:13:53'
+date: '2023-07-27T05:56:02'
 draft: false
 images:
 - "/images/covers/w\xF3ddr\xE9a_mylenstede-cwylmend\xE9a\xFE.jpg"

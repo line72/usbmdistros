@@ -4,7 +4,7 @@ album: Alttarini on Luista Tehty
 artist: Azaghal
 categories:
 - Vinyl
-date: '2023-04-27T05:13:04'
+date: '2023-07-27T05:47:46'
 draft: false
 images:
 - /images/covers/azaghal-alttarini_on_luista_tehty.jpg

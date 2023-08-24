@@ -4,7 +4,7 @@ album: "Rattenk\xF6nig"
 artist: "M\xFCtiilation"
 categories:
 - Vinyl
-date: '2023-05-23T05:15:08'
+date: '2023-07-29T06:25:47'
 draft: false
 images:
 - "/images/covers/m\xFCtiilation-rattenk\xF6nig.jpg"
@@ -20,3 +20,4 @@ title: "M\xFCtiilation - Rattenk\xF6nig"
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=34307&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=34573&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=34923&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=37702&sort=pd.name&order=ASC) for $25.00

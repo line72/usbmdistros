@@ -5,7 +5,7 @@ artist: Negative Plane
 categories:
 - Vinyl
 - CD
-date: '2023-06-22T06:26:04'
+date: '2023-07-27T05:54:49'
 draft: false
 images:
 - /images/covers/negative_plane-et_in_saecula_saeculorum.jpg

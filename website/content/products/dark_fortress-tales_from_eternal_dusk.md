@@ -4,7 +4,7 @@ album: Tales From Eternal Dusk
 artist: Dark Fortress
 categories:
 - CD
-date: '2023-04-27T05:13:36'
+date: '2023-07-27T05:53:19'
 draft: false
 images:
 - /images/covers/dark_fortress-tales_from_eternal_dusk.png

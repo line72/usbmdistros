@@ -4,7 +4,7 @@ album: Possessed by the Pentacle Spell
 artist: Omenfilth
 categories:
 - Cassette
-date: '2023-04-27T05:14:01'
+date: '2023-07-27T05:57:21'
 draft: false
 images:
 - /images/covers/omenfilth-possessed_by_the_pentacle_spell.jpg

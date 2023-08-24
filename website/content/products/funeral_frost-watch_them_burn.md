@@ -4,7 +4,7 @@ album: Watch Them Burn
 artist: Funeral Frost
 categories:
 - Vinyl
-date: '2023-04-27T05:13:30'
+date: '2023-07-27T05:52:17'
 draft: false
 images:
 - /images/covers/funeral_frost-watch_them_burn.png

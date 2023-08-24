@@ -5,7 +5,7 @@ artist: Beastcraft
 categories:
 - Vinyl
 - CD
-date: '2023-04-27T05:13:34'
+date: '2023-07-27T05:53:00'
 draft: false
 images:
 - /images/covers/beastcraft-the_infernal_gospels_of_primitive_devil_worship.jpg

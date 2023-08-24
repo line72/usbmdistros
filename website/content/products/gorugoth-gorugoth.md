@@ -4,7 +4,7 @@ album: Gorugoth
 artist: Gorugoth
 categories:
 - CD
-date: '2023-07-18T17:22:54'
+date: '2023-07-27T05:53:51'
 draft: false
 images:
 - /images/covers/gorugoth-gorugoth.jpg

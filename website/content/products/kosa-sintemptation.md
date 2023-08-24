@@ -4,7 +4,7 @@ album: Sintemptation
 artist: Kosa
 categories:
 - CD
-date: '2023-04-27T05:13:42'
+date: '2023-07-27T05:54:22'
 draft: false
 images:
 - /images/covers/kosa-sintemptation.jpg

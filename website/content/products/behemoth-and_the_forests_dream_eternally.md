@@ -5,7 +5,7 @@ artist: Behemoth
 categories:
 - Vinyl
 - CD
-date: '2023-07-18T16:02:20'
+date: '2023-07-27T05:47:50'
 draft: false
 images:
 - /images/covers/behemoth-and_the_forests_dream_eternally.jpg

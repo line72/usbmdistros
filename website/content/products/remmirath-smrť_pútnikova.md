@@ -4,7 +4,7 @@ album: "Smr\u0165 P\xFAtnikova"
 artist: Remmirath
 categories:
 - CD
-date: '2023-04-27T05:13:48'
+date: '2023-07-27T05:55:12'
 draft: false
 images:
 - "/images/covers/remmirath-smr\u0165_p\xFAtnikova.jpg"

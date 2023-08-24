@@ -4,7 +4,7 @@ album: Ratsflesh
 artist: Radioactive Vomit
 categories:
 - Vinyl
-date: '2023-04-27T05:13:31'
+date: '2023-07-27T05:52:32'
 draft: false
 images:
 - /images/covers/radioactive_vomit-ratsflesh.jpg

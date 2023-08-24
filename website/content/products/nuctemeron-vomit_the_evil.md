@@ -4,7 +4,7 @@ album: Vomit The Evil
 artist: Nuctemeron
 categories:
 - Vinyl
-date: '2023-04-27T05:13:19'
+date: '2023-07-27T05:50:26'
 draft: false
 images:
 - /images/covers/nuctemeron-vomit_the_evil.jpg

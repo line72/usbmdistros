@@ -4,7 +4,7 @@ album: Baphohearsals
 artist: Forbidden Temple
 categories:
 - Cassette
-date: '2023-04-27T05:13:58'
+date: '2023-07-27T05:56:41'
 draft: false
 images:
 - /images/covers/forbidden_temple-baphohearsals.jpg

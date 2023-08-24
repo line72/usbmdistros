@@ -5,7 +5,7 @@ artist: Abigail
 categories:
 - Vinyl
 - Cassette
-date: '2023-06-06T05:04:42'
+date: '2023-07-27T05:47:25'
 draft: false
 images:
 - /images/covers/abigail-blasphemy_night.png

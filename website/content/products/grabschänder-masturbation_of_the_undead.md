@@ -4,7 +4,7 @@ album: Masturbation of the Undead
 artist: "Grabsch\xE4nder"
 categories:
 - Vinyl
-date: '2023-05-30T05:37:03'
+date: '2023-08-24T18:20:25'
 draft: false
 images:
 - "/images/covers/grabsch\xE4nder-masturbation_of_the_undead.jpg"
@@ -15,3 +15,4 @@ title: "Grabsch\xE4nder - Masturbation of the Undead"
 
 ## Vinyl
 * Purchase from [CW Productions](https://shop.cwproductions.net/products/grabschander-masturbation-of-the-undead-lp) for $25.00
+* Purchase from [CW Productions](https://shop.cwproductions.net/products/grabschander-masturbation-of-the-undead-lp-1) for $25.00

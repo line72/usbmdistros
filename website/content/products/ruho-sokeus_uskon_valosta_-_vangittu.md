@@ -1,0 +1,17 @@
+---
+actualPrice: $10.00
+album: Sokeus Uskon Valosta / Vangittu
+artist: Ruho
+categories:
+- Vinyl
+date: '2023-08-14T07:08:56'
+draft: false
+images:
+- /images/covers/ruho-sokeus_uskon_valosta_-_vangittu.png
+inStock: true
+thumbnailImage: /images/covers/ruho-sokeus_uskon_valosta_-_vangittu-thumb.png
+title: Ruho - Sokeus Uskon Valosta / Vangittu
+---
+
+## Vinyl
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=38292&sort=pd.name&order=ASC) for $10.00

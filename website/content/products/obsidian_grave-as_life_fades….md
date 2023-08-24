@@ -4,7 +4,7 @@ album: "As Life Fades\u2026"
 artist: Obsidian Grave
 categories:
 - Vinyl
-date: '2023-05-21T05:17:00'
+date: '2023-07-27T05:50:28'
 draft: false
 images:
 - "/images/covers/obsidian_grave-as_life_fades\u2026.jpg"

@@ -4,7 +4,7 @@ album: Demo 12
 artist: Grudom
 categories:
 - CD
-date: '2023-04-27T05:13:39'
+date: '2023-07-27T05:53:55'
 draft: false
 images:
 - /images/covers/grudom-demo_12.jpg

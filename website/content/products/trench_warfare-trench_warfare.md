@@ -4,7 +4,7 @@ album: Trench Warfare
 artist: Trench Warfare
 categories:
 - CD
-date: '2023-04-27T05:13:51'
+date: '2023-07-27T05:55:44'
 draft: false
 images:
 - /images/covers/trench_warfare-trench_warfare.png

@@ -4,7 +4,7 @@ album: 'Chapter II: A Corpse of Wood and Stone'
 artist: Smother
 categories:
 - Cassette
-date: '2023-04-27T05:14:03'
+date: '2023-07-27T05:57:40'
 draft: false
 images:
 - /images/covers/smother-chapter_ii:_a_corpse_of_wood_and_stone.jpg

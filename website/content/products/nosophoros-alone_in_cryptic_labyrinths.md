@@ -4,7 +4,7 @@ album: Alone in Cryptic Labyrinths
 artist: Nosophoros
 categories:
 - Cassette
-date: '2023-04-27T05:14:01'
+date: '2023-07-27T05:57:19'
 draft: false
 images:
 - /images/covers/nosophoros-alone_in_cryptic_labyrinths.png

@@ -5,7 +5,7 @@ artist: Celestial Key
 categories:
 - Vinyl
 - CD
-date: '2023-04-27T05:13:35'
+date: '2023-07-27T05:53:10'
 draft: false
 images:
 - /images/covers/celestial_key-immortal_crown.jpg

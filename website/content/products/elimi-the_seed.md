@@ -4,7 +4,7 @@ album: The Seed
 artist: Elimi
 categories:
 - CD
-date: '2023-04-27T05:13:37'
+date: '2023-07-27T05:53:34'
 draft: false
 images:
 - /images/covers/elimi-the_seed.jpg

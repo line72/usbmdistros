@@ -4,7 +4,7 @@ album: Sotteklugt
 artist: Shagor
 categories:
 - Vinyl
-date: '2023-06-10T06:45:50'
+date: '2023-07-27T05:51:06'
 draft: false
 images:
 - /images/covers/shagor-sotteklugt.jpg

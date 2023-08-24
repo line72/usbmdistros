@@ -4,7 +4,7 @@ album: Det Besegrade Lifvet
 artist: Lifvsleda
 categories:
 - CD
-date: '2023-04-27T05:13:42'
+date: '2023-07-27T05:54:25'
 draft: false
 images:
 - /images/covers/lifvsleda-det_besegrade_lifvet.jpg

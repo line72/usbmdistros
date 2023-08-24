@@ -5,7 +5,7 @@ artist: Khthoniik Cerviiks
 categories:
 - Vinyl
 - CD
-date: '2023-04-27T05:13:14'
+date: '2023-07-27T05:49:37'
 draft: false
 images:
 - "/images/covers/khthoniik_cerviiks-\xE6equiizoiikum.jpg"

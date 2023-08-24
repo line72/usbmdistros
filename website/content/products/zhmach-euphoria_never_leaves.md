@@ -4,7 +4,7 @@ album: Euphoria Never Leaves
 artist: Zhmach
 categories:
 - Vinyl
-date: '2023-05-11T05:16:40'
+date: '2023-07-27T05:52:44'
 draft: false
 images:
 - /images/covers/zhmach-euphoria_never_leaves.jpg

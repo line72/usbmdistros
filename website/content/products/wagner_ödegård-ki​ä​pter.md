@@ -5,7 +5,7 @@ artist: "Wagner \xD6deg\xE5rd"
 categories:
 - Vinyl
 - CD
-date: '2023-07-18T16:52:03'
+date: '2023-07-27T05:55:58'
 draft: false
 images:
 - "/images/covers/wagner_\xF6deg\xE5rd-ki\u200B\xE4\u200Bpter.jpg"

@@ -5,7 +5,7 @@ artist: Kwade Droes
 categories:
 - Vinyl
 - CD
-date: '2023-06-06T05:21:28'
+date: '2023-07-27T05:54:23'
 draft: false
 images:
 - /images/covers/kwade_droes-groeten_vanuit_gene_zijde.jpg

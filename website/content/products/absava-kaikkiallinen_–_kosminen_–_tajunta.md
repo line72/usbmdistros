@@ -4,7 +4,7 @@ album: "Kaikkiallinen \u2013 Kosminen \u2013 Tajunta"
 artist: Absava
 categories:
 - Vinyl
-date: '2023-04-27T05:13:02'
+date: '2023-07-27T05:47:26'
 draft: false
 images:
 - "/images/covers/absava-kaikkiallinen_\u2013_kosminen_\u2013_tajunta.jpg"

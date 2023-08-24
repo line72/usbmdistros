@@ -4,7 +4,7 @@ album: Svart Materia
 artist: Grifteskymfning
 categories:
 - Vinyl
-date: '2023-04-27T05:13:12'
+date: '2023-07-27T05:49:10'
 draft: false
 images:
 - /images/covers/grifteskymfning-svart_materia.jpg
@@ -17,3 +17,4 @@ title: Grifteskymfning - Svart Materia
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=30853&sort=pd.name&order=ASC) for $27.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=32140&sort=pd.name&order=ASC) for $27.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=33730&sort=pd.name&order=ASC) for $27.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=37514&sort=pd.name&order=ASC) for $27.00

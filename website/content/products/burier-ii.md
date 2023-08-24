@@ -4,7 +4,7 @@ album: II
 artist: Burier
 categories:
 - CD
-date: '2023-04-27T05:13:35'
+date: '2023-07-27T05:53:08'
 draft: false
 images:
 - /images/covers/burier-ii.jpg

@@ -4,7 +4,7 @@ album: Hvis Lyset Tar Oss
 artist: Burzum
 categories:
 - Vinyl
-date: '2023-07-18T16:05:34'
+date: '2023-08-11T06:08:28'
 draft: false
 images:
 - /images/covers/burzum-hvis_lyset_tar_oss.jpg
@@ -25,3 +25,5 @@ title: Burzum - Hvis Lyset Tar Oss
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=36018&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=36490&sort=pd.name&order=ASC) for $27.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=36501&sort=pd.name&order=ASC) for $27.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=38102&sort=pd.name&order=ASC) for $27.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=38101&sort=pd.name&order=ASC) for $27.00

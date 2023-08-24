@@ -5,7 +5,7 @@ artist: Musta Kappeli
 categories:
 - Vinyl
 - CD
-date: '2023-04-27T05:13:45'
+date: '2023-07-27T05:54:43'
 draft: false
 images:
 - /images/covers/musta_kappeli-saatanassa_ulvoneet.jpg

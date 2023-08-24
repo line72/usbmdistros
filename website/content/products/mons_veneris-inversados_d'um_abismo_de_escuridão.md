@@ -4,7 +4,7 @@ album: "Inversados d'um Abismo de Escurid\xE3o"
 artist: Mons Veneris
 categories:
 - Vinyl
-date: '2023-04-27T05:13:17'
+date: '2023-07-27T05:50:04'
 draft: false
 images:
 - "/images/covers/mons_veneris-inversados_d'um_abismo_de_escurid\xE3o.jpg"

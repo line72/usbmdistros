@@ -5,7 +5,7 @@ artist: Void Prayer
 categories:
 - Vinyl
 - Cassette
-date: '2023-04-27T05:14:05'
+date: '2023-07-27T05:57:57'
 draft: false
 images:
 - /images/covers/void_prayer-the_grandiose_return_to_the_void.jpg

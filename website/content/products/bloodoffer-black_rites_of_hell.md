@@ -4,7 +4,7 @@ album: Black Rites of Hell
 artist: Bloodoffer
 categories:
 - Cassette
-date: '2023-04-27T05:13:55'
+date: '2023-07-27T05:56:21'
 draft: false
 images:
 - /images/covers/bloodoffer-black_rites_of_hell.png

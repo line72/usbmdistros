@@ -4,7 +4,7 @@ album: "Dea\xFEwyrd"
 artist: Eternality
 categories:
 - Vinyl
-date: '2023-05-29T05:01:05'
+date: '2023-07-27T05:48:49'
 draft: false
 images:
 - "/images/covers/eternality-dea\xFEwyrd.jpg"

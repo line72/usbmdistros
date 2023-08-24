@@ -5,7 +5,7 @@ artist: Ara Solis
 categories:
 - Vinyl
 - CD
-date: '2023-05-18T05:13:44'
+date: '2023-07-27T05:52:53'
 draft: false
 images:
 - /images/covers/ara_solis-ashvattha.jpg

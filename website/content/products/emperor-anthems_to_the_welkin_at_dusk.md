@@ -4,7 +4,7 @@ album: Anthems to the Welkin at Dusk
 artist: Emperor
 categories:
 - Vinyl
-date: '2023-07-18T16:12:51'
+date: '2023-07-27T05:48:46'
 draft: false
 images:
 - /images/covers/emperor-anthems_to_the_welkin_at_dusk.jpg

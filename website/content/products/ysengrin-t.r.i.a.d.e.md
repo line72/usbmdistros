@@ -4,7 +4,7 @@ album: T.R.I.A.D.E
 artist: Ysengrin
 categories:
 - CD
-date: '2023-04-27T05:13:54'
+date: '2023-07-27T05:56:05'
 draft: false
 images:
 - /images/covers/ysengrin-t.r.i.a.d.e.png

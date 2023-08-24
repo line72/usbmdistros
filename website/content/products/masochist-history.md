@@ -4,7 +4,7 @@ album: History
 artist: Masochist
 categories:
 - Vinyl
-date: '2023-06-18T06:21:50'
+date: '2023-07-27T05:49:55'
 draft: false
 images:
 - /images/covers/masochist-history.jpg

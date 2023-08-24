@@ -4,7 +4,7 @@ album: Diablo Salmos
 artist: Anticristo
 categories:
 - CD
-date: '2023-04-27T05:13:33'
+date: '2023-07-27T05:52:52'
 draft: false
 images:
 - /images/covers/anticristo-diablo_salmos.jpg

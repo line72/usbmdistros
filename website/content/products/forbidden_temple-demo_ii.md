@@ -4,7 +4,7 @@ album: Demo II
 artist: Forbidden Temple
 categories:
 - Cassette
-date: '2023-07-18T18:05:20'
+date: '2023-07-27T05:56:41'
 draft: false
 images:
 - /images/covers/forbidden_temple-demo_ii.jpg

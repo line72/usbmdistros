@@ -4,7 +4,7 @@ album: Saevitia
 artist: Sangus
 categories:
 - Vinyl
-date: '2023-04-27T05:13:31'
+date: '2023-07-27T05:52:34'
 draft: false
 images:
 - /images/covers/sangus-saevitia.jpg

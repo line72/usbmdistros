@@ -5,7 +5,7 @@ artist: Graveland
 categories:
 - Vinyl
 - CD
-date: '2023-07-18T18:24:23'
+date: '2023-07-27T05:49:09'
 draft: false
 images:
 - /images/covers/graveland-thousand_swords.jpg

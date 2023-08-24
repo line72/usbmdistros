@@ -4,7 +4,7 @@ album: Summoned By Shadows
 artist: Wind of the Black Mountains
 categories:
 - Vinyl
-date: '2023-04-27T05:13:27'
+date: '2023-07-27T05:51:52'
 draft: false
 images:
 - /images/covers/wind_of_the_black_mountains-summoned_by_shadows.png

@@ -4,7 +4,7 @@ album: The Flaming Death
 artist: Inthyflesh
 categories:
 - Cassette
-date: '2023-04-27T05:13:59'
+date: '2023-07-27T05:57:03'
 draft: false
 images:
 - /images/covers/inthyflesh-the_flaming_death.png

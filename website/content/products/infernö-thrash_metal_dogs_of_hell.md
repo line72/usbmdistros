@@ -4,7 +4,7 @@ album: Thrash Metal Dogs Of Hell
 artist: "INFERN\xD6"
 categories:
 - Vinyl
-date: '2023-04-27T05:13:14'
+date: '2023-07-27T05:49:29'
 draft: false
 images:
 - "/images/covers/infern\xF6-thrash_metal_dogs_of_hell.jpg"

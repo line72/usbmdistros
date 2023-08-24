@@ -4,7 +4,7 @@ album: '...Traces...'
 artist: DIZZINESS
 categories:
 - CD
-date: '2023-04-27T05:13:37'
+date: '2023-07-27T05:53:29'
 draft: false
 images:
 - /images/covers/dizziness-...traces....jpg

@@ -5,7 +5,7 @@ artist: "K\xE4ltetod"
 categories:
 - Vinyl
 - Cassette
-date: '2023-04-27T05:13:59'
+date: '2023-07-27T05:57:05'
 draft: false
 images:
 - "/images/covers/k\xE4ltetod-zwang.jpg"

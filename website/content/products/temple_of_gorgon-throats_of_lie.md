@@ -4,7 +4,7 @@ album: Throats Of Lie
 artist: Temple Of Gorgon
 categories:
 - Cassette
-date: '2023-04-27T05:14:04'
+date: '2023-07-27T05:57:45'
 draft: false
 images:
 - /images/covers/temple_of_gorgon-throats_of_lie.jpg

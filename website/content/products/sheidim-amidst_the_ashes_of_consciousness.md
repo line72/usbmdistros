@@ -4,7 +4,7 @@ album: Amidst the Ashes of Consciousness
 artist: Sheidim
 categories:
 - Vinyl
-date: '2023-04-27T05:13:31'
+date: '2023-07-27T05:52:35'
 draft: false
 images:
 - /images/covers/sheidim-amidst_the_ashes_of_consciousness.jpg

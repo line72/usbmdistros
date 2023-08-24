@@ -6,7 +6,7 @@ categories:
 - Vinyl
 - Cassette
 - CD
-date: '2023-07-18T16:07:15'
+date: '2023-07-27T05:53:14'
 draft: false
 images:
 - /images/covers/conqueror-anti-christ_superiority.jpg

@@ -5,7 +5,7 @@ artist: Grinning God
 categories:
 - Vinyl
 - CD
-date: '2023-07-18T17:23:33'
+date: '2023-07-27T05:53:54'
 draft: false
 images:
 - "/images/covers/grinning_god-sard\u200B\xF3\u200Bnios.jpg"

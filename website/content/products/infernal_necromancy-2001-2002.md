@@ -4,7 +4,7 @@ album: 2001-2002
 artist: Infernal Necromancy
 categories:
 - CD
-date: '2023-07-18T17:27:31'
+date: '2023-07-27T05:54:11'
 draft: false
 images:
 - /images/covers/infernal_necromancy-2001-2002.jpg

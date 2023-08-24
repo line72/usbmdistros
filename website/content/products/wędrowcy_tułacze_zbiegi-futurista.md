@@ -4,7 +4,7 @@ album: Futurista
 artist: "W\u0119drowcy Tu\u0142acze Zbiegi"
 categories:
 - Vinyl
-date: '2023-04-27T05:13:27'
+date: '2023-07-27T05:51:51'
 draft: false
 images:
 - "/images/covers/w\u0119drowcy_tu\u0142acze_zbiegi-futurista.jpg"

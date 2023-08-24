@@ -4,7 +4,7 @@ album: Kult of the Underground Warrior
 artist: Sardonic Witchery
 categories:
 - CD
-date: '2023-04-27T05:13:49'
+date: '2023-07-27T05:55:19'
 draft: false
 images:
 - /images/covers/sardonic_witchery-kult_of_the_underground_warrior.png

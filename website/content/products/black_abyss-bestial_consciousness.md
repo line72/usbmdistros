@@ -4,7 +4,7 @@ album: Bestial Consciousness
 artist: Black Abyss
 categories:
 - Cassette
-date: '2023-05-16T20:20:40'
+date: '2023-07-27T05:56:19'
 draft: false
 images:
 - /images/covers/black_abyss-bestial_consciousness.png

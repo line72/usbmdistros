@@ -4,7 +4,7 @@ album: "Liksj\xF6ns Drickare"
 artist: Death Wolf
 categories:
 - Vinyl
-date: '2023-04-27T05:13:08'
+date: '2023-07-27T05:48:31'
 draft: false
 images:
 - "/images/covers/death_wolf-liksj\xF6ns_drickare.jpg"

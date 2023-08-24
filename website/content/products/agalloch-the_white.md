@@ -4,7 +4,7 @@ album: The White
 artist: Agalloch
 categories:
 - Vinyl
-date: '2023-07-18T15:57:12'
+date: '2023-07-27T05:47:29'
 draft: false
 images:
 - /images/covers/agalloch-the_white.jpg

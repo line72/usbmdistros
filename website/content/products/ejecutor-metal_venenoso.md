@@ -5,7 +5,7 @@ artist: Ejecutor
 categories:
 - Cassette
 - CD
-date: '2023-04-27T05:13:57'
+date: '2023-07-27T05:56:36'
 draft: false
 images:
 - /images/covers/ejecutor-metal_venenoso.jpg

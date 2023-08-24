@@ -4,7 +4,7 @@ album: "Natt av Tusen D\xF6dsfall"
 artist: Sorgetid
 categories:
 - Vinyl
-date: '2023-04-27T05:13:23'
+date: '2023-07-27T05:51:11'
 draft: false
 images:
 - "/images/covers/sorgetid-natt_av_tusen_d\xF6dsfall.jpg"

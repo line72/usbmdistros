@@ -4,7 +4,7 @@ album: Night of Consecration
 artist: Pyriphlegethon
 categories:
 - Vinyl
-date: '2023-04-27T05:13:20'
+date: '2023-07-27T05:50:44'
 draft: false
 images:
 - /images/covers/pyriphlegethon-night_of_consecration.jpg

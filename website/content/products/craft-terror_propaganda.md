@@ -4,7 +4,7 @@ album: Terror Propaganda
 artist: Craft
 categories:
 - Vinyl
-date: '2023-07-18T16:07:30'
+date: '2023-07-27T05:48:22'
 draft: false
 images:
 - /images/covers/craft-terror_propaganda.jpg

@@ -5,7 +5,7 @@ artist: Dreams of the Drowned
 categories:
 - Vinyl
 - CD
-date: '2023-04-27T05:13:37'
+date: '2023-07-27T05:53:31'
 draft: false
 images:
 - /images/covers/dreams_of_the_drowned-i.jpg

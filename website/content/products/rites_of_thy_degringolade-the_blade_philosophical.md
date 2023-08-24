@@ -5,7 +5,7 @@ artist: Rites of Thy Degringolade
 categories:
 - Vinyl
 - CD
-date: '2023-04-27T05:13:48'
+date: '2023-07-27T05:55:13'
 draft: false
 images:
 - /images/covers/rites_of_thy_degringolade-the_blade_philosophical.png

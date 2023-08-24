@@ -4,7 +4,7 @@ album: The Deiphobic Syndrome
 artist: Devilish Era
 categories:
 - CD
-date: '2023-04-27T05:13:37'
+date: '2023-07-27T05:53:26'
 draft: false
 images:
 - /images/covers/devilish_era-the_deiphobic_syndrome.jpg

@@ -4,7 +4,7 @@ album: Into the Silence of the Shadows
 artist: Lost in the Shadows
 categories:
 - CD
-date: '2023-04-27T05:13:42'
+date: '2023-07-27T05:54:26'
 draft: false
 images:
 - /images/covers/lost_in_the_shadows-into_the_silence_of_the_shadows.jpg

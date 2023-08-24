@@ -4,7 +4,7 @@ album: Arcano Ente Nocturno
 artist: Mortuarial Avshy
 categories:
 - Vinyl
-date: '2023-04-27T05:13:17'
+date: '2023-07-27T05:50:09'
 draft: false
 images:
 - /images/covers/mortuarial_avshy-arcano_ente_nocturno.jpg

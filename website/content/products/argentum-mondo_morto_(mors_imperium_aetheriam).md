@@ -4,7 +4,7 @@ album: Mondo Morto (Mors Imperium Aetheriam)
 artist: Argentum
 categories:
 - CD
-date: '2023-05-09T05:16:50'
+date: '2023-07-27T05:52:54'
 draft: false
 images:
 - /images/covers/argentum-mondo_morto_(mors_imperium_aetheriam).jpg

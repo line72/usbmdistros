@@ -4,7 +4,7 @@ album: Incure the Wrath of Silence
 artist: Desir de Mourir
 categories:
 - CD
-date: '2023-04-27T05:13:37'
+date: '2023-07-27T05:53:24'
 draft: false
 images:
 - /images/covers/desir_de_mourir-incure_the_wrath_of_silence.jpg

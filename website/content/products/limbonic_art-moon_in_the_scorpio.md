@@ -4,7 +4,7 @@ album: Moon in the Scorpio
 artist: Limbonic Art
 categories:
 - Vinyl
-date: '2023-07-19T06:17:04'
+date: '2023-07-27T05:49:43'
 draft: false
 images:
 - /images/covers/limbonic_art-moon_in_the_scorpio.jpg

@@ -4,7 +4,7 @@ album: Ordo Serverum Satanae
 artist: Unholy Crucifix
 categories:
 - Vinyl
-date: '2023-04-27T05:13:25'
+date: '2023-07-27T05:51:34'
 draft: false
 images:
 - /images/covers/unholy_crucifix-ordo_serverum_satanae.jpg

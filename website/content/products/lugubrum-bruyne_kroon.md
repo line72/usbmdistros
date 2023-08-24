@@ -4,7 +4,7 @@ album: Bruyne Kroon
 artist: Lugubrum
 categories:
 - Vinyl
-date: '2023-07-18T16:25:39'
+date: '2023-07-27T05:49:46'
 draft: false
 images:
 - /images/covers/lugubrum-bruyne_kroon.jpg

@@ -1,10 +1,11 @@
 ---
-actualPrice: $14.00
+actualPrice: $14.00 - 26.00
 album: Rites of Murder and Sacrifice
 artist: Werewolf Bloodorder
 categories:
+- Vinyl
 - CD
-date: '2022-01-24T06:00:45'
+date: '2023-08-05T05:05:30'
 draft: false
 images:
 - /images/covers/werewolf_bloodorder-rites_of_murder_and_sacrifice.jpg
@@ -13,5 +14,7 @@ thumbnailImage: /images/covers/werewolf_bloodorder-rites_of_murder_and_sacrifice
 title: Werewolf Bloodorder - Rites of Murder and Sacrifice
 ---
 
+## Vinyl
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/werewolf-bloodorder-rites-of-murder-and-sacrifice-12-mlp) for $26.00
 ## CD
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/werewolf-bloodorder-rites-of-murder-and-sacrifice-cd) for $14.00

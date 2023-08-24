@@ -4,7 +4,7 @@ album: Descend... into Nothingness
 artist: Dalkhu
 categories:
 - Vinyl
-date: '2023-04-27T05:13:08'
+date: '2023-07-27T05:48:26'
 draft: false
 images:
 - /images/covers/dalkhu-descend..._into_nothingness.jpg

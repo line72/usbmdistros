@@ -5,7 +5,7 @@ artist: Ritual Lair
 categories:
 - Cassette
 - CD
-date: '2023-04-27T05:13:48'
+date: '2023-07-27T05:55:13'
 draft: false
 images:
 - /images/covers/ritual_lair-mother_of_misery_and_all_repugnance_(diabolo_intervale).jpg

@@ -4,7 +4,7 @@ album: Rise of the Imperial Hordes
 artist: Krieg
 categories:
 - CD
-date: '2023-07-18T17:29:59'
+date: '2023-07-27T05:54:23'
 draft: false
 images:
 - /images/covers/krieg-rise_of_the_imperial_hordes.png

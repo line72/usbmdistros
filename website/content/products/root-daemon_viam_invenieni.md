@@ -4,7 +4,7 @@ album: Daemon Viam Invenieni
 artist: Root
 categories:
 - Vinyl
-date: '2023-04-27T05:13:21'
+date: '2023-07-27T05:50:51'
 draft: false
 images:
 - /images/covers/root-daemon_viam_invenieni.jpg

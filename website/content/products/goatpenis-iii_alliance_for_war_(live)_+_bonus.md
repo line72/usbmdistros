@@ -4,7 +4,7 @@ album: III Alliance For War (Live) + Bonus
 artist: Goatpenis
 categories:
 - CD
-date: '2023-06-11T07:31:06'
+date: '2023-07-27T05:53:49'
 draft: false
 images:
 - /images/covers/goatpenis-iii_alliance_for_war_(live)_+_bonus.jpg

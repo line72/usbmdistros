@@ -6,7 +6,7 @@ categories:
 - Vinyl
 - Cassette
 - CD
-date: '2023-04-27T05:13:57'
+date: '2023-07-27T05:56:33'
 draft: false
 images:
 - /images/covers/deus_ignotus-hexapterygon.jpg

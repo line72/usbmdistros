@@ -1,10 +1,11 @@
 ---
-actualPrice: $5.00 - 12.00
+actualPrice: $4.00 - 12.00
 album: Paramnesia
 artist: Altars
 categories:
+- Cassette
 - CD
-date: '2023-07-19T08:40:53'
+date: '2023-08-21T05:22:15'
 draft: false
 images:
 - /images/covers/altars-paramnesia.jpg
@@ -13,6 +14,8 @@ thumbnailImage: /images/covers/altars-paramnesia-thumb.jpg
 title: Altars - Paramnesia
 ---
 
+## Cassette
+* Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/36596664-altars-paramnesia) for $4.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=3638&sort=pd.name&order=ASC) for $5.00
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/altars-paramnesia-cd) for $12.00 :: CD 2013

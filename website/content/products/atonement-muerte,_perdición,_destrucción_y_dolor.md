@@ -4,7 +4,7 @@ album: "Muerte, Perdici\xF3n, Destrucci\xF3n y Dolor"
 artist: Atonement
 categories:
 - Vinyl
-date: '2023-04-27T05:13:04'
+date: '2023-07-27T05:47:42'
 draft: false
 images:
 - "/images/covers/atonement-muerte,_perdici\xF3n,_destrucci\xF3n_y_dolor.jpg"

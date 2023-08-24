@@ -4,7 +4,7 @@ album: H418ov21.C
 artist: Beherit
 categories:
 - CD
-date: '2023-04-27T05:13:34'
+date: '2023-07-27T05:53:01'
 draft: false
 images:
 - /images/covers/beherit-h418ov21.c.jpg

@@ -5,7 +5,7 @@ artist: Karnilapakte
 categories:
 - Vinyl
 - CD
-date: '2023-04-27T05:13:42'
+date: '2023-07-27T05:54:19'
 draft: false
 images:
 - /images/covers/karnilapakte-karnilapakte.png

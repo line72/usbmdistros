@@ -4,7 +4,7 @@ album: The Osseus Key
 artist: Alghol
 categories:
 - Vinyl
-date: '2023-04-27T05:13:03'
+date: '2023-07-27T05:47:30'
 draft: false
 images:
 - /images/covers/alghol-the_osseus_key.jpg

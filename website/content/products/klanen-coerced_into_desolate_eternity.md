@@ -6,7 +6,7 @@ categories:
 - Vinyl
 - Cassette
 - CD
-date: '2023-01-09T06:14:09'
+date: '2023-08-05T08:17:54'
 draft: false
 images:
 - /images/covers/klanen-coerced_into_desolate_eternity.jpg
@@ -22,5 +22,6 @@ title: Klanen - Coerced Into Desolate Eternity
 ## Cassette
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=21788&sort=pd.name&order=ASC) for $12.00
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/klanen-coerced-into-desolate-eternity-cassette) for $16.00 :: Cassette Tape 2021
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=37821&sort=pd.name&order=ASC) for $12.00
 ## CD
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/klanen-coerced-into-desolate-eternity-cd) for $15.00

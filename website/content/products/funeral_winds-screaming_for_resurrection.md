@@ -6,7 +6,7 @@ categories:
 - Vinyl
 - Cassette
 - CD
-date: '2023-04-27T05:13:58'
+date: '2023-07-27T05:56:43'
 draft: false
 images:
 - /images/covers/funeral_winds-screaming_for_resurrection.jpg

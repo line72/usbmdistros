@@ -5,7 +5,7 @@ artist: Pyreficativm
 categories:
 - Cassette
 - CD
-date: '2023-04-27T05:14:02'
+date: '2023-07-27T05:57:30'
 draft: false
 images:
 - "/images/covers/pyreficativm-\u0938\u0902\u0938\u093E\u0930_\u0915\u093E_\u092A\u0925\

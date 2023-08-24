@@ -4,7 +4,7 @@ album: "Sit Gloria Domini In S\xE6cvlvm"
 artist: Necroplasma
 categories:
 - Vinyl
-date: '2023-04-27T05:13:18'
+date: '2023-07-27T05:50:19'
 draft: false
 images:
 - "/images/covers/necroplasma-sit_gloria_domini_in_s\xE6cvlvm.jpg"

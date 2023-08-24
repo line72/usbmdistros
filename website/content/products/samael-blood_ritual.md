@@ -5,7 +5,7 @@ artist: Samael
 categories:
 - Vinyl
 - CD
-date: '2023-06-22T06:49:26'
+date: '2023-07-27T05:55:18'
 draft: false
 images:
 - /images/covers/samael-blood_ritual.jpg

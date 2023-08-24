@@ -4,7 +4,7 @@ album: The Fall of Mankind
 artist: Agrath
 categories:
 - CD
-date: '2023-04-27T05:13:33'
+date: '2023-07-27T05:52:48'
 draft: false
 images:
 - /images/covers/agrath-the_fall_of_mankind.jpg

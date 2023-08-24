@@ -4,7 +4,7 @@ album: The Return
 artist: Bathory
 categories:
 - Cassette
-date: '2023-06-04T14:55:06'
+date: '2023-07-27T05:56:17'
 draft: false
 images:
 - /images/covers/bathory-the_return.jpg

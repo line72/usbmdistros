@@ -4,7 +4,7 @@ album: Goatfuck / Saatan Legio
 artist: Aske
 categories:
 - Vinyl
-date: '2023-04-27T05:13:04'
+date: '2023-07-27T05:47:40'
 draft: false
 images:
 - /images/covers/aske-goatfuck_-_saatan_legio.jpg

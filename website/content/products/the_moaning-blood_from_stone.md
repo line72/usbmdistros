@@ -5,7 +5,7 @@ artist: The Moaning
 categories:
 - Vinyl
 - CD
-date: '2023-07-18T17:49:14'
+date: '2023-07-27T05:55:39'
 draft: false
 images:
 - /images/covers/the_moaning-blood_from_stone.jpg

@@ -4,7 +4,7 @@ album: Victory of Cruelty
 artist: Cremantur
 categories:
 - Vinyl
-date: '2023-04-27T05:13:29'
+date: '2023-07-27T05:52:09'
 draft: false
 images:
 - /images/covers/cremantur-victory_of_cruelty.jpg

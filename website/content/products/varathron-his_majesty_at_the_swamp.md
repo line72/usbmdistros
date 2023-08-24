@@ -6,7 +6,7 @@ categories:
 - Vinyl
 - Cassette
 - CD
-date: '2023-06-04T14:56:57'
+date: '2023-07-27T05:57:54'
 draft: false
 images:
 - /images/covers/varathron-his_majesty_at_the_swamp.jpg

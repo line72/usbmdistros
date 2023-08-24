@@ -4,7 +4,7 @@ album: II - Toinen Tuleminen
 artist: Sarastus
 categories:
 - CD
-date: '2023-07-18T17:44:10'
+date: '2023-07-27T05:55:19'
 draft: false
 images:
 - /images/covers/sarastus-ii_-_toinen_tuleminen.jpg

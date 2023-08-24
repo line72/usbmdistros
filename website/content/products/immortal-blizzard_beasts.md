@@ -4,7 +4,7 @@ album: Blizzard Beasts
 artist: Immortal
 categories:
 - Vinyl
-date: '2023-07-22T06:16:06'
+date: '2023-08-15T06:09:10'
 draft: false
 images:
 - /images/covers/immortal-blizzard_beasts.jpg
@@ -23,3 +23,5 @@ title: Immortal - Blizzard Beasts
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=35040&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=35179&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=37247&sort=pd.name&order=ASC) for $35.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=37457&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=38320&sort=pd.name&order=ASC) for $25.00

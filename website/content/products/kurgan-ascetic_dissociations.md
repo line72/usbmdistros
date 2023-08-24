@@ -4,7 +4,7 @@ album: Ascetic Dissociations
 artist: Kurgan
 categories:
 - Vinyl
-date: '2023-06-12T06:30:24'
+date: '2023-07-27T05:49:41'
 draft: false
 images:
 - /images/covers/kurgan-ascetic_dissociations.jpg

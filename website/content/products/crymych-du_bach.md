@@ -1,11 +1,11 @@
 ---
-actualPrice: $10.00 - 25.00
+actualPrice: $4.50 - 25.00
 album: Du Bach
 artist: Crymych
 categories:
 - Vinyl
 - Cassette
-date: '2023-04-27T05:13:07'
+date: '2023-08-15T05:31:07'
 draft: false
 images:
 - /images/covers/crymych-du_bach.jpg
@@ -18,4 +18,4 @@ title: Crymych - Du Bach
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=30151&sort=pd.name&order=ASC) for $25.00
 ## Cassette
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/crymych-du-bach-tape) for $10.00
-* Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/32239939-crymych-du-bach) for $10.00
+* Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/32239939-crymych-du-bach) for $4.50

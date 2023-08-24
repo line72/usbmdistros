@@ -4,7 +4,7 @@ album: Ecstatic Horror
 artist: "D\xF8dsengel"
 categories:
 - Vinyl
-date: '2023-04-27T05:13:29'
+date: '2023-07-27T05:52:13'
 draft: false
 images:
 - "/images/covers/d\xF8dsengel-ecstatic_horror.jpg"

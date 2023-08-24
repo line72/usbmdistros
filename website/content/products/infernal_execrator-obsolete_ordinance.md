@@ -5,7 +5,7 @@ artist: INFERNAL EXECRATOR
 categories:
 - Vinyl
 - CD
-date: '2023-04-27T05:13:14'
+date: '2023-07-27T05:49:28'
 draft: false
 images:
 - /images/covers/infernal_execrator-obsolete_ordinance.jpg

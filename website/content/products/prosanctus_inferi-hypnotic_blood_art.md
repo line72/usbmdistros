@@ -5,7 +5,7 @@ artist: Prosanctus Inferi
 categories:
 - Vinyl
 - CD
-date: '2023-04-27T05:13:48'
+date: '2023-07-27T05:55:07'
 draft: false
 images:
 - /images/covers/prosanctus_inferi-hypnotic_blood_art.jpg

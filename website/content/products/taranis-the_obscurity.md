@@ -4,7 +4,7 @@ album: The Obscurity
 artist: Taranis
 categories:
 - Vinyl
-date: '2023-06-12T07:19:30'
+date: '2023-07-27T05:51:19'
 draft: false
 images:
 - /images/covers/taranis-the_obscurity.jpg

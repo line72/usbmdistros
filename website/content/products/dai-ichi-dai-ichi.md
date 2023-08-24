@@ -5,7 +5,7 @@ artist: Dai-ichi
 categories:
 - Vinyl
 - Cassette
-date: '2023-06-02T05:23:26'
+date: '2023-07-27T05:56:29'
 draft: false
 images:
 - /images/covers/dai-ichi-dai-ichi.png

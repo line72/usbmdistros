@@ -4,7 +4,7 @@ album: Schmerz Aus Licht
 artist: Funeral Procession
 categories:
 - CD
-date: '2023-04-27T05:13:39'
+date: '2023-07-27T05:53:46'
 draft: false
 images:
 - /images/covers/funeral_procession-schmerz_aus_licht.jpg

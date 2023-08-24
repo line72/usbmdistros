@@ -4,7 +4,7 @@ album: Minningar Ur Undirheimum
 artist: Draugurinn
 categories:
 - CD
-date: '2023-04-27T05:13:37'
+date: '2023-07-27T05:53:31'
 draft: false
 images:
 - /images/covers/draugurinn-minningar_ur_undirheimum.jpg

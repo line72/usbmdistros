@@ -4,7 +4,7 @@ album: A Serpente Triunfante
 artist: Uraeus
 categories:
 - CD
-date: '2023-04-27T05:13:52'
+date: '2023-07-27T05:55:48'
 draft: false
 images:
 - /images/covers/uraeus-a_serpente_triunfante.png

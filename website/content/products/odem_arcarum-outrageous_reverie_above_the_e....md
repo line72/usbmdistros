@@ -4,7 +4,7 @@ album: Outrageous Reverie Above the E...
 artist: Odem Arcarum
 categories:
 - Vinyl
-date: '2023-04-27T05:13:19'
+date: '2023-07-27T05:50:29'
 draft: false
 images:
 - /images/covers/odem_arcarum-outrageous_reverie_above_the_e....jpg

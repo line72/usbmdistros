@@ -4,7 +4,7 @@ album: The Lord of Eternity
 artist: Vetala
 categories:
 - Vinyl
-date: '2023-04-27T05:13:26'
+date: '2023-07-27T05:51:42'
 draft: false
 images:
 - /images/covers/vetala-the_lord_of_eternity.jpg

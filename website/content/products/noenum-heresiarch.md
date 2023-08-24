@@ -1,10 +1,11 @@
 ---
-actualPrice: $15.00
+actualPrice: $15.00 - 27.00
 album: Heresiarch
 artist: Noenum
 categories:
+- Vinyl
 - CD
-date: '2023-03-16T05:01:46'
+date: '2023-08-08T06:26:31'
 draft: false
 images:
 - /images/covers/noenum-heresiarch.jpg
@@ -13,5 +14,7 @@ thumbnailImage: /images/covers/noenum-heresiarch-thumb.jpg
 title: Noenum - Heresiarch
 ---
 
+## Vinyl
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=37994&sort=pd.name&order=ASC) for $27.00
 ## CD
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/noenum-heresiarch-cd) for $15.00

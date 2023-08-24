@@ -4,7 +4,7 @@ album: Arcana of the higher principles
 artist: Black Altar
 categories:
 - CD
-date: '2023-06-08T05:19:58'
+date: '2023-07-27T05:53:02'
 draft: false
 images:
 - /images/covers/black_altar-arcana_of_the_higher_principles.jpg

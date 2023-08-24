@@ -4,7 +4,7 @@ album: The Goat Sessions Volume III
 artist: Of Human Bondage
 categories:
 - CD
-date: '2023-04-27T05:13:47'
+date: '2023-07-27T05:54:56'
 draft: false
 images:
 - /images/covers/of_human_bondage-the_goat_sessions_volume_iii.jpg

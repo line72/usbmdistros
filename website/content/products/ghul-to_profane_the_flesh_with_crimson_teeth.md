@@ -4,7 +4,7 @@ album: To Profane The Flesh With Crimson Teeth
 artist: Ghul
 categories:
 - Vinyl
-date: '2023-04-27T05:13:11'
+date: '2023-07-27T05:49:02'
 draft: false
 images:
 - /images/covers/ghul-to_profane_the_flesh_with_crimson_teeth.jpg

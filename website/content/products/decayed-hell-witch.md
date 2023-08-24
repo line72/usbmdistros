@@ -4,7 +4,7 @@ album: Hell-witch
 artist: Decayed
 categories:
 - Vinyl
-date: '2023-07-18T16:57:23'
+date: '2023-07-27T05:52:11'
 draft: false
 images:
 - /images/covers/decayed-hell-witch.jpg

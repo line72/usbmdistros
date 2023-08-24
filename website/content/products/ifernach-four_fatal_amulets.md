@@ -4,7 +4,7 @@ album: Four Fatal Amulets
 artist: Ifernach
 categories:
 - Vinyl
-date: '2023-05-05T05:14:42'
+date: '2023-07-27T05:49:23'
 draft: false
 images:
 - /images/covers/ifernach-four_fatal_amulets.jpg

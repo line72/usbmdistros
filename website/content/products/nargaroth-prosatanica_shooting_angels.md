@@ -4,7 +4,7 @@ album: Prosatanica Shooting Angels
 artist: Nargaroth
 categories:
 - Vinyl
-date: '2023-05-19T05:14:37'
+date: '2023-07-27T05:50:16'
 draft: false
 images:
 - /images/covers/nargaroth-prosatanica_shooting_angels.jpg

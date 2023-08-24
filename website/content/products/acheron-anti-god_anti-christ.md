@@ -5,7 +5,7 @@ artist: Acheron
 categories:
 - Cassette
 - CD
-date: '2023-07-18T17:06:17'
+date: '2023-07-27T05:52:47'
 draft: false
 images:
 - /images/covers/acheron-anti-god_anti-christ.jpg

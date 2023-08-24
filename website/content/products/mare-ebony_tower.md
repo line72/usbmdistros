@@ -1,10 +1,10 @@
 ---
-actualPrice: $27.00 - 29.00
+actualPrice: $27.00 - 30.00
 album: Ebony Tower
 artist: Mare
 categories:
 - Vinyl
-date: '2022-08-02T13:10:24'
+date: '2023-08-12T06:21:17'
 draft: false
 images:
 - /images/covers/mare-ebony_tower.jpg
@@ -20,3 +20,5 @@ title: Mare - Ebony Tower
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=24828&sort=pd.name&order=ASC) for $28.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=24924&sort=pd.name&order=ASC) for $28.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=25795&sort=pd.name&order=ASC) for $28.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=38067&sort=pd.name&order=ASC) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=38139&sort=pd.name&order=ASC) for $30.00

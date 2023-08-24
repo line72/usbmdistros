@@ -4,7 +4,7 @@ album: Symphonia Corrumptor
 artist: Hell Icon
 categories:
 - Vinyl
-date: '2023-05-11T05:16:12'
+date: '2023-07-27T05:52:19'
 draft: false
 images:
 - /images/covers/hell_icon-symphonia_corrumptor.jpg

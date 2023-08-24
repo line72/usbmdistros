@@ -4,7 +4,7 @@ album: Wisdom Through Agony Into Illumination And Lunacy
 artist: W.A.I.L.
 categories:
 - Vinyl
-date: '2023-04-27T05:13:32'
+date: '2023-07-27T05:52:43'
 draft: false
 images:
 - /images/covers/w.a.i.l.-wisdom_through_agony_into_illumination_and_lunacy.jpg

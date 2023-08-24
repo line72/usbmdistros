@@ -4,7 +4,7 @@ album: Exterminate
 artist: Angelcorpse
 categories:
 - Vinyl
-date: '2023-05-26T05:28:08'
+date: '2023-07-27T05:47:34'
 draft: false
 images:
 - /images/covers/angelcorpse-exterminate.jpg

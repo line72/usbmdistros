@@ -4,7 +4,7 @@ album: Mysticisme Macabre
 artist: Darvulia
 categories:
 - Vinyl
-date: '2023-05-22T05:13:18'
+date: '2023-07-27T05:48:29'
 draft: false
 images:
 - /images/covers/darvulia-mysticisme_macabre.jpg

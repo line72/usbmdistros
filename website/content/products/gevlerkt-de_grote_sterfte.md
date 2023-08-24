@@ -5,7 +5,7 @@ artist: Gevlerkt
 categories:
 - Vinyl
 - CD
-date: '2023-04-27T05:13:39'
+date: '2023-07-27T05:53:48'
 draft: false
 images:
 - /images/covers/gevlerkt-de_grote_sterfte.jpg

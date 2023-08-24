@@ -4,7 +4,7 @@ album: Sacrilegious Impalement
 artist: Sacrilegious Impalement
 categories:
 - Vinyl
-date: '2023-04-27T05:13:21'
+date: '2023-07-27T05:50:55'
 draft: false
 images:
 - /images/covers/sacrilegious_impalement-sacrilegious_impalement.jpg

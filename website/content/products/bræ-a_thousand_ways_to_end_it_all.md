@@ -4,7 +4,7 @@ album: A Thousand Ways to End it All
 artist: "Br\xE6"
 categories:
 - Vinyl
-date: '2023-04-27T05:13:06'
+date: '2023-07-27T05:48:07'
 draft: false
 images:
 - "/images/covers/br\xE6-a_thousand_ways_to_end_it_all.jpg"

@@ -4,7 +4,7 @@ album: Henbane......or Sonic Compendium of the Black Arts
 artist: Cultes Des Ghoules
 categories:
 - Vinyl
-date: '2023-06-22T05:56:22'
+date: '2023-07-27T05:48:24'
 draft: false
 images:
 - /images/covers/cultes_des_ghoules-henbane......or_sonic_compendium_of_the_black_arts.jpg

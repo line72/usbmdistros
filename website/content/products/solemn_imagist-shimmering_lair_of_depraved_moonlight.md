@@ -1,10 +1,10 @@
 ---
-actualPrice: $28.00
+actualPrice: $22.40 - 28.00
 album: Shimmering Lair of Depraved Moonlight
 artist: Solemn Imagist
 categories:
 - Vinyl
-date: '2023-06-15T08:04:18'
+date: '2023-07-25T06:03:49'
 draft: false
 images:
 - /images/covers/solemn_imagist-shimmering_lair_of_depraved_moonlight.jpg
@@ -20,4 +20,4 @@ title: Solemn Imagist - Shimmering Lair of Depraved Moonlight
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=28244&sort=pd.name&order=ASC) for $28.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29318&sort=pd.name&order=ASC) for $28.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=35092&sort=pd.name&order=ASC) for $28.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=35743&sort=pd.name&order=ASC) for $28.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=35743&sort=pd.name&order=ASC) for $22.40

@@ -4,7 +4,7 @@ album: End of the World Demo '84
 artist: Tormentor
 categories:
 - Vinyl
-date: '2023-07-22T07:10:40'
+date: '2023-07-27T05:51:30'
 draft: false
 images:
 - /images/covers/tormentor-end_of_the_world_demo_'84.jpg

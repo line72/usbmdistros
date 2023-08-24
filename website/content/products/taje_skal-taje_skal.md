@@ -5,7 +5,7 @@ artist: Taje Skal
 categories:
 - Vinyl
 - CD
-date: '2023-04-27T05:13:50'
+date: '2023-07-27T05:55:35'
 draft: false
 images:
 - /images/covers/taje_skal-taje_skal.jpg

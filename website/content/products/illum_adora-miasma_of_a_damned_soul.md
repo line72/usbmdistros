@@ -4,7 +4,7 @@ album: Miasma of a Damned Soul
 artist: Illum Adora
 categories:
 - Vinyl
-date: '2023-06-17T06:07:24'
+date: '2023-07-27T05:49:25'
 draft: false
 images:
 - /images/covers/illum_adora-miasma_of_a_damned_soul.jpg

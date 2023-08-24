@@ -4,7 +4,7 @@ album: Blitzkrieg Demo '84 MLP
 artist: Tormentor
 categories:
 - Vinyl
-date: '2023-07-22T07:10:40'
+date: '2023-07-27T05:51:30'
 draft: false
 images:
 - /images/covers/tormentor-blitzkrieg_demo_'84_mlp.jpg

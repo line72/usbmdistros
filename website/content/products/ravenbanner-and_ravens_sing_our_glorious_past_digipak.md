@@ -1,10 +1,10 @@
 ---
-actualPrice: $10.00
+actualPrice: $10.00 - 15.00
 album: And Ravens Sing Our Glorious Past DIGIPAK
 artist: Ravenbanner
 categories:
 - CD
-date: '2022-03-11T17:00:00'
+date: '2023-08-24T16:54:58'
 draft: false
 images:
 - /images/covers/ravenbanner-and_ravens_sing_our_glorious_past_digipak.jpg
@@ -15,3 +15,4 @@ title: Ravenbanner - And Ravens Sing Our Glorious Past DIGIPAK
 
 ## CD
 * Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/ravenbanner-and-ravens-sing-our-glorious-past-digipak-cd/) for $10.00
+* Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/ravenbanner-and-ravens-sing-our-glorious-past-digipak-cd/) for $15.00

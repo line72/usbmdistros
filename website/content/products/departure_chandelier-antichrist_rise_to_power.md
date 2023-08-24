@@ -5,7 +5,7 @@ artist: Departure Chandelier
 categories:
 - Vinyl
 - CD
-date: '2023-07-18T16:10:32'
+date: '2023-07-27T05:48:34'
 draft: false
 images:
 - /images/covers/departure_chandelier-antichrist_rise_to_power.jpg

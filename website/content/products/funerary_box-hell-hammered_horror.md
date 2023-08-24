@@ -4,7 +4,7 @@ album: Hell-hammered Horror
 artist: Funerary Box
 categories:
 - Vinyl
-date: '2023-04-27T05:13:11'
+date: '2023-07-27T05:48:58'
 draft: false
 images:
 - /images/covers/funerary_box-hell-hammered_horror.jpg

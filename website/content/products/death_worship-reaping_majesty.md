@@ -1,10 +1,11 @@
 ---
-actualPrice: $10.00
+actualPrice: $10.00 - 25.00
 album: Reaping Majesty
 artist: Death Worship
 categories:
+- Vinyl
 - Cassette
-date: '2023-01-12T06:17:05'
+date: '2023-08-24T06:02:48'
 draft: false
 images:
 - /images/covers/death_worship-reaping_majesty.png
@@ -13,6 +14,10 @@ thumbnailImage: /images/covers/death_worship-reaping_majesty-thumb.png
 title: Death Worship - Reaping Majesty
 ---
 
+## Vinyl
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=38473&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=38554&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=38715&sort=pd.name&order=ASC) for $25.00
 ## Cassette
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=29825&sort=pd.name&order=ASC) for $10.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=29946&sort=pd.name&order=ASC) for $10.00

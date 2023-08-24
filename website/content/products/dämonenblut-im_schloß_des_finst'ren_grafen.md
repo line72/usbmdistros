@@ -4,7 +4,7 @@ album: "Im Schlo\xDF Des Finst'ren Grafen"
 artist: "D\xE4monenblut"
 categories:
 - Vinyl
-date: '2023-07-18T16:57:08'
+date: '2023-07-27T05:52:10'
 draft: false
 images:
 - "/images/covers/d\xE4monenblut-im_schlo\xDF_des_finst'ren_grafen.png"

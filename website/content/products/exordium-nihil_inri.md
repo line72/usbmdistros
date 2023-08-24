@@ -5,7 +5,7 @@ artist: Exordium
 categories:
 - Vinyl
 - CD
-date: '2023-04-27T05:13:29'
+date: '2023-07-27T05:52:15'
 draft: false
 images:
 - /images/covers/exordium-nihil_inri.jpg

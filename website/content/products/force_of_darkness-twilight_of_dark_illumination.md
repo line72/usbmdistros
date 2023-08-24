@@ -5,7 +5,7 @@ artist: Force Of Darkness
 categories:
 - Vinyl
 - Cassette
-date: '2023-04-27T05:13:58'
+date: '2023-07-27T05:56:41'
 draft: false
 images:
 - /images/covers/force_of_darkness-twilight_of_dark_illumination.jpg

@@ -4,7 +4,7 @@ album: To The Depths We Descend..
 artist: Necromantia
 categories:
 - Vinyl
-date: '2023-06-04T14:48:31'
+date: '2023-07-27T05:50:18'
 draft: false
 images:
 - /images/covers/necromantia-to_the_depths_we_descend...jpg
@@ -20,3 +20,4 @@ title: Necromantia - To The Depths We Descend..
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=30338&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=33635&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=35233&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=37482&sort=pd.name&order=ASC) for $25.00

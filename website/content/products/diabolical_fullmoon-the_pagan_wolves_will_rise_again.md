@@ -6,7 +6,7 @@ categories:
 - Vinyl
 - Cassette
 - CD
-date: '2023-07-18T16:11:03'
+date: '2023-08-24T16:54:59'
 draft: false
 images:
 - /images/covers/diabolical_fullmoon-the_pagan_wolves_will_rise_again.jpg
@@ -21,6 +21,8 @@ title: Diabolical Fullmoon - The Pagan Wolves Will Rise Again
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/diabolical-fullmoon-the-pagan-wolves-will-rise-again-12-lp) for $26.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=35390&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=36653&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=37465&sort=pd.name&order=ASC) for $25.00
+* Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/diabolical-fullmoon-the-pagan-wolves-will-rise-again-12-lp/) for $25.00
 ## Cassette
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/diabolical-fullmoon-the-pagan-wolves-will-rise-again-tape) for $12.00
 ## CD

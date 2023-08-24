@@ -4,7 +4,7 @@ album: Rites of Cleansing
 artist: Evil
 categories:
 - Vinyl
-date: '2023-04-27T05:13:29'
+date: '2023-07-27T05:52:14'
 draft: false
 images:
 - /images/covers/evil-rites_of_cleansing.jpg

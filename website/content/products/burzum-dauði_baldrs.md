@@ -1,10 +1,10 @@
 ---
-actualPrice: $27.00
+actualPrice: $27.00 - 30.00
 album: "Dau\xF0i Baldrs"
 artist: Burzum
 categories:
 - Vinyl
-date: '2023-07-18T16:05:33'
+date: '2023-08-11T06:08:27'
 draft: false
 images:
 - "/images/covers/burzum-dau\xF0i_baldrs.png"
@@ -15,3 +15,5 @@ title: "Burzum - Dau\xF0i Baldrs"
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=36498&sort=pd.name&order=ASC) for $27.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=38107&sort=pd.name&order=ASC) for $27.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=38114&sort=pd.name&order=ASC) for $30.00

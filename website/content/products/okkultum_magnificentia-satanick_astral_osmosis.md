@@ -4,7 +4,7 @@ album: Satanick Astral Osmosis
 artist: Okkultum Magnificentia
 categories:
 - Vinyl
-date: '2023-05-11T05:16:23'
+date: '2023-07-27T05:52:29'
 draft: false
 images:
 - /images/covers/okkultum_magnificentia-satanick_astral_osmosis.jpg

@@ -5,7 +5,7 @@ artist: Arckanum
 categories:
 - Vinyl
 - CD
-date: '2023-06-22T05:49:03'
+date: '2023-07-27T05:47:38'
 draft: false
 images:
 - "/images/covers/arckanum-den_f\xF6rstf\xF6dde.jpg"

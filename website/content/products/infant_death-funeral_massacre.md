@@ -4,7 +4,7 @@ album: Funeral Massacre
 artist: Infant Death
 categories:
 - Vinyl
-date: '2023-04-27T05:13:30'
+date: '2023-07-27T05:52:20'
 draft: false
 images:
 - /images/covers/infant_death-funeral_massacre.jpg

@@ -5,7 +5,7 @@ artist: Immortal
 categories:
 - Vinyl
 - CD
-date: '2023-07-22T06:16:07'
+date: '2023-07-27T05:54:08'
 draft: false
 images:
 - /images/covers/immortal-diabolical_fullmoon_mysticism.jpg

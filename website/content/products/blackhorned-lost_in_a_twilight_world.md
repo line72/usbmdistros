@@ -4,7 +4,7 @@ album: Lost in a Twilight World
 artist: Blackhorned
 categories:
 - Vinyl
-date: '2023-04-27T05:13:06'
+date: '2023-07-27T05:48:00'
 draft: false
 images:
 - /images/covers/blackhorned-lost_in_a_twilight_world.jpg

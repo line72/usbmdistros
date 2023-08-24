@@ -4,7 +4,7 @@ album: Bastard
 artist: Devilish
 categories:
 - Vinyl
-date: '2023-04-27T05:13:09'
+date: '2023-07-27T05:48:37'
 draft: false
 images:
 - /images/covers/devilish-bastard.jpg

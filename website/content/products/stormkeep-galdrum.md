@@ -5,7 +5,7 @@ artist: Stormkeep
 categories:
 - Vinyl
 - CD
-date: '2023-07-18T16:44:22'
+date: '2023-07-27T05:51:14'
 draft: false
 images:
 - /images/covers/stormkeep-galdrum.jpg

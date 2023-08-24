@@ -4,7 +4,7 @@ album: Everyone Has Two Sides
 artist: Manierisme
 categories:
 - Vinyl
-date: '2023-07-18T16:26:55'
+date: '2023-07-27T05:49:53'
 draft: false
 images:
 - /images/covers/manierisme-everyone_has_two_sides.jpg

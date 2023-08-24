@@ -4,7 +4,7 @@ album: "Le R\xE8gne Du Sang"
 artist: Bael
 categories:
 - Vinyl
-date: '2023-04-27T05:13:28'
+date: '2023-07-27T05:52:04'
 draft: false
 images:
 - "/images/covers/bael-le_r\xE8gne_du_sang.jpg"

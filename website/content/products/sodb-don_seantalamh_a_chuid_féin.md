@@ -4,7 +4,7 @@ album: "Don Seantalamh A Chuid F\xE9in"
 artist: Sodb
 categories:
 - Vinyl
-date: '2023-04-27T05:13:23'
+date: '2023-07-27T05:51:11'
 draft: false
 images:
 - "/images/covers/sodb-don_seantalamh_a_chuid_f\xE9in.jpg"

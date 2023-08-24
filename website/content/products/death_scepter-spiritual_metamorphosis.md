@@ -5,7 +5,7 @@ artist: Death Scepter
 categories:
 - Vinyl
 - Cassette
-date: '2023-04-27T05:13:08'
+date: '2023-07-27T05:48:31'
 draft: false
 images:
 - /images/covers/death_scepter-spiritual_metamorphosis.jpg

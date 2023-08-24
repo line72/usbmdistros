@@ -4,7 +4,7 @@ album: Viddernas Tolv Kapitel
 artist: "L\xD6NNDOM"
 categories:
 - CD
-date: '2023-04-27T05:13:42'
+date: '2023-07-27T05:54:25'
 draft: false
 images:
 - "/images/covers/l\xF6nndom-viddernas_tolv_kapitel.jpg"

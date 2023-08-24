@@ -4,7 +4,7 @@ album: "Dit Inget Ljus Kan N\xE5"
 artist: Grav
 categories:
 - CD
-date: '2023-04-27T05:13:39'
+date: '2023-07-27T05:53:52'
 draft: false
 images:
 - "/images/covers/grav-dit_inget_ljus_kan_n\xE5.jpg"

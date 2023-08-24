@@ -4,7 +4,7 @@ album: A Climb To Eternity
 artist: The True Endless
 categories:
 - Vinyl
-date: '2023-04-27T05:13:24'
+date: '2023-07-27T05:51:26'
 draft: false
 images:
 - /images/covers/the_true_endless-a_climb_to_eternity.jpg

@@ -5,7 +5,7 @@ artist: Sort Vokter
 categories:
 - Vinyl
 - CD
-date: '2023-04-27T05:13:50'
+date: '2023-07-27T05:55:29'
 draft: false
 images:
 - /images/covers/sort_vokter-folkloric_necro_metal.jpg

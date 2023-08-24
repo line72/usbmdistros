@@ -1,11 +1,11 @@
 ---
-actualPrice: $12.00 - 25.00
+actualPrice: $12.00 - 30.00
 album: Remains of a Ruined, Dead, Cursed Soul
 artist: "M\xFCtiilation"
 categories:
 - Vinyl
 - CD
-date: '2023-05-23T05:20:48'
+date: '2023-07-29T06:25:47'
 draft: false
 images:
 - "/images/covers/m\xFCtiilation-remains_of_a_ruined,_dead,_cursed_soul.jpg"
@@ -24,6 +24,8 @@ title: "M\xFCtiilation - Remains of a Ruined, Dead, Cursed Soul"
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=34308&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=34571&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=34917&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=37699&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=37707&sort=pd.name&order=ASC) for $30.00
 ## CD
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/mutiilation-remains-of-a-ruined-dead-cursed-soul-cd) for $13.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=25016&sort=pd.name&order=ASC) for $12.00

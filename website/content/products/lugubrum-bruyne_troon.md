@@ -5,7 +5,7 @@ artist: Lugubrum
 categories:
 - Vinyl
 - CD
-date: '2023-07-18T17:31:16'
+date: '2023-07-27T05:54:27'
 draft: false
 images:
 - /images/covers/lugubrum-bruyne_troon.jpg

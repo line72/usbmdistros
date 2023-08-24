@@ -5,7 +5,7 @@ artist: Immortal
 categories:
 - Vinyl
 - CD
-date: '2023-04-27T05:13:41'
+date: '2023-07-27T05:54:08'
 draft: false
 images:
 - /images/covers/immortal-damned_in_black.jpg

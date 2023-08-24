@@ -6,7 +6,7 @@ categories:
 - Vinyl
 - Cassette
 - CD
-date: '2023-05-21T05:14:09'
+date: '2023-07-27T05:56:18'
 draft: false
 images:
 - /images/covers/beherit-bardo_exist.jpg

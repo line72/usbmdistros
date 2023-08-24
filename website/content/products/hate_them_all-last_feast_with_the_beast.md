@@ -4,7 +4,7 @@ album: Last Feast with the Beast
 artist: Hate Them All
 categories:
 - CD
-date: '2023-04-27T05:13:40'
+date: '2023-07-27T05:53:58'
 draft: false
 images:
 - /images/covers/hate_them_all-last_feast_with_the_beast.jpg

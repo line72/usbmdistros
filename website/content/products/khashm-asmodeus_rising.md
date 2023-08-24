@@ -4,7 +4,7 @@ album: Asmodeus Rising
 artist: Khashm
 categories:
 - Vinyl
-date: '2023-04-27T05:13:14'
+date: '2023-07-27T05:49:36'
 draft: false
 images:
 - /images/covers/khashm-asmodeus_rising.jpg

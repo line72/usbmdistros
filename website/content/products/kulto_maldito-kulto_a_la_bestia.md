@@ -4,7 +4,7 @@ album: Kulto a La Bestia
 artist: Kulto Maldito
 categories:
 - Vinyl
-date: '2023-04-27T05:13:15'
+date: '2023-07-27T05:49:41'
 draft: false
 images:
 - /images/covers/kulto_maldito-kulto_a_la_bestia.jpg

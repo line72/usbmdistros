@@ -4,7 +4,7 @@ album: Black Shining Leather
 artist: Carpathian Forest
 categories:
 - Vinyl
-date: '2023-06-14T06:00:26'
+date: '2023-07-27T05:48:13'
 draft: false
 images:
 - /images/covers/carpathian_forest-black_shining_leather.jpg

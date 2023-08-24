@@ -4,7 +4,7 @@ album: Enthroned is the Night
 artist: Demoncy
 categories:
 - CD
-date: '2023-04-27T05:13:36'
+date: '2023-07-27T05:53:23'
 draft: false
 images:
 - /images/covers/demoncy-enthroned_is_the_night.jpg

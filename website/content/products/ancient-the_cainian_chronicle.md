@@ -4,7 +4,7 @@ album: The Cainian Chronicle
 artist: Ancient
 categories:
 - Vinyl
-date: '2023-05-09T05:11:53'
+date: '2023-07-27T05:47:33'
 draft: false
 images:
 - /images/covers/ancient-the_cainian_chronicle.jpg

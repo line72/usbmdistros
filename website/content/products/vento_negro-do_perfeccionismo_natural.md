@@ -4,7 +4,7 @@ album: Do Perfeccionismo Natural
 artist: Vento Negro
 categories:
 - Cassette
-date: '2023-04-27T05:14:05'
+date: '2023-07-27T05:57:56'
 draft: false
 images:
 - /images/covers/vento_negro-do_perfeccionismo_natural.jpg

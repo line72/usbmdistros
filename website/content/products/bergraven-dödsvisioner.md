@@ -4,7 +4,7 @@ album: "D\xF6dsvisioner"
 artist: Bergraven
 categories:
 - Vinyl
-date: '2023-04-27T05:13:05'
+date: '2023-07-27T05:47:56'
 draft: false
 images:
 - "/images/covers/bergraven-d\xF6dsvisioner.jpg"

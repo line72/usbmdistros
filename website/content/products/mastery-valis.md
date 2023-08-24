@@ -4,7 +4,7 @@ album: Valis
 artist: Mastery
 categories:
 - Vinyl
-date: '2023-04-27T05:13:16'
+date: '2023-07-27T05:49:56'
 draft: false
 images:
 - /images/covers/mastery-valis.jpg

@@ -5,7 +5,7 @@ artist: Weregoat
 categories:
 - Vinyl
 - CD
-date: '2023-04-27T05:13:53'
+date: '2023-07-27T05:56:00'
 draft: false
 images:
 - /images/covers/weregoat-slave_bitch_of_the_black_ram_master.png

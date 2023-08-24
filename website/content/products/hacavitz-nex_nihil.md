@@ -4,7 +4,7 @@ album: Nex Nihil
 artist: Hacavitz
 categories:
 - CD
-date: '2023-04-27T05:13:40'
+date: '2023-07-27T05:53:56'
 draft: false
 images:
 - /images/covers/hacavitz-nex_nihil.jpg

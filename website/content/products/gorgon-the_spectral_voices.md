@@ -4,7 +4,7 @@ album: The Spectral Voices
 artist: Gorgon
 categories:
 - CD
-date: '2023-05-18T05:21:15'
+date: '2023-07-27T05:53:50'
 draft: false
 images:
 - /images/covers/gorgon-the_spectral_voices.jpg

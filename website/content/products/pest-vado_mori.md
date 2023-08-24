@@ -5,7 +5,7 @@ artist: Pest
 categories:
 - Vinyl
 - CD
-date: '2023-04-27T05:13:47'
+date: '2023-07-27T05:55:04'
 draft: false
 images:
 - /images/covers/pest-vado_mori.jpg

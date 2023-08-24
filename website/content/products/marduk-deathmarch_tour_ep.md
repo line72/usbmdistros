@@ -4,7 +4,7 @@ album: Deathmarch Tour EP
 artist: Marduk
 categories:
 - CD
-date: '2023-04-27T05:13:44'
+date: '2023-07-27T05:54:31'
 draft: false
 images:
 - /images/covers/marduk-deathmarch_tour_ep.png

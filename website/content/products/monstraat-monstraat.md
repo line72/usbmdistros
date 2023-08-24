@@ -4,7 +4,7 @@ album: Monstraat
 artist: Monstraat
 categories:
 - Cassette
-date: '2023-04-27T05:14:00'
+date: '2023-07-27T05:57:12'
 draft: false
 images:
 - /images/covers/monstraat-monstraat.jpg

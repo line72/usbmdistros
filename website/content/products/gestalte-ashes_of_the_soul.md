@@ -4,7 +4,7 @@ album: Ashes of the Soul
 artist: Gestalte
 categories:
 - CD
-date: '2023-04-27T05:13:39'
+date: '2023-07-27T05:53:48'
 draft: false
 images:
 - /images/covers/gestalte-ashes_of_the_soul.jpg

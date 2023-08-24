@@ -4,7 +4,7 @@ album: Drank Nach Osten
 artist: Botulistum
 categories:
 - Vinyl
-date: '2023-04-27T05:13:29'
+date: '2023-07-27T05:52:07'
 draft: false
 images:
 - /images/covers/botulistum-drank_nach_osten.jpg

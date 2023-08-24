@@ -4,7 +4,7 @@ album: Mord und Totschlag
 artist: L'Acephale
 categories:
 - Cassette
-date: '2023-04-27T05:13:59'
+date: '2023-07-27T05:57:06'
 draft: false
 images:
 - /images/covers/l'acephale-mord_und_totschlag.png

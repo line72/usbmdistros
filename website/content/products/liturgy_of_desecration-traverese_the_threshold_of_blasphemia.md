@@ -4,7 +4,7 @@ album: Traverese the Threshold of Blasphemia
 artist: Liturgy Of Desecration
 categories:
 - Cassette
-date: '2023-04-27T05:14:00'
+date: '2023-07-27T05:57:07'
 draft: false
 images:
 - /images/covers/liturgy_of_desecration-traverese_the_threshold_of_blasphemia.png

@@ -4,7 +4,7 @@ album: "Varg & Bj\xF6rn"
 artist: Murg
 categories:
 - Vinyl
-date: '2023-04-27T05:13:18'
+date: '2023-07-27T05:50:11'
 draft: false
 images:
 - "/images/covers/murg-varg_&_bj\xF6rn.jpg"

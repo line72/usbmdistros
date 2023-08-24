@@ -6,7 +6,7 @@ categories:
 - Vinyl
 - Cassette
 - CD
-date: '2023-07-18T16:07:17'
+date: '2023-07-27T05:48:20'
 draft: false
 images:
 - /images/covers/conqueror-war.cult.supremacy.jpg

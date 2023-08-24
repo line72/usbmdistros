@@ -4,7 +4,7 @@ album: Sempiternal Passage Through Realms of Suffering...
 artist: Ebony Pendant
 categories:
 - Vinyl
-date: '2023-05-30T05:13:26'
+date: '2023-07-27T05:48:44'
 draft: false
 images:
 - /images/covers/ebony_pendant-sempiternal_passage_through_realms_of_suffering....jpg

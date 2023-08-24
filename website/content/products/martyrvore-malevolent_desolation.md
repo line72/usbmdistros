@@ -4,7 +4,7 @@ album: Malevolent Desolation
 artist: Martyrvore
 categories:
 - Vinyl
-date: '2023-04-27T05:13:16'
+date: '2023-07-27T05:49:55'
 draft: false
 images:
 - /images/covers/martyrvore-malevolent_desolation.jpg

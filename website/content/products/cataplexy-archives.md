@@ -4,7 +4,7 @@ album: Archives
 artist: Cataplexy
 categories:
 - CD
-date: '2023-07-18T17:12:22'
+date: '2023-07-27T05:53:10'
 draft: false
 images:
 - /images/covers/cataplexy-archives.jpg

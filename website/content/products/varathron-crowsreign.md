@@ -4,7 +4,7 @@ album: Crowsreign
 artist: Varathron
 categories:
 - Vinyl
-date: '2023-06-03T05:16:45'
+date: '2023-07-27T05:51:38'
 draft: false
 images:
 - /images/covers/varathron-crowsreign.jpg

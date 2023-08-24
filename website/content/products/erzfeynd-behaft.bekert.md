@@ -4,7 +4,7 @@ album: Behaft.Bekert
 artist: Erzfeynd
 categories:
 - CD
-date: '2023-04-27T05:13:38'
+date: '2023-07-27T05:53:37'
 draft: false
 images:
 - /images/covers/erzfeynd-behaft.bekert.jpg

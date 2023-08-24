@@ -4,7 +4,7 @@ album: I
 artist: Sluagh
 categories:
 - Vinyl
-date: '2023-04-27T05:13:23'
+date: '2023-07-27T05:51:10'
 draft: false
 images:
 - /images/covers/sluagh-i.jpg

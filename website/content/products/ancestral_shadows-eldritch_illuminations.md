@@ -5,7 +5,7 @@ artist: Ancestral Shadows
 categories:
 - Vinyl
 - CD
-date: '2023-04-27T05:13:03'
+date: '2023-07-27T05:47:33'
 draft: false
 images:
 - /images/covers/ancestral_shadows-eldritch_illuminations.jpg

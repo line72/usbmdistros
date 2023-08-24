@@ -4,7 +4,7 @@ album: Spalovna
 artist: Tudor
 categories:
 - Vinyl
-date: '2023-04-27T05:13:32'
+date: '2023-07-27T05:52:40'
 draft: false
 images:
 - /images/covers/tudor-spalovna.jpg

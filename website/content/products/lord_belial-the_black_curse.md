@@ -5,7 +5,7 @@ artist: Lord Belial
 categories:
 - Vinyl
 - CD
-date: '2023-06-17T06:12:36'
+date: '2023-07-27T05:54:26'
 draft: false
 images:
 - /images/covers/lord_belial-the_black_curse.jpg

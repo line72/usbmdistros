@@ -4,7 +4,7 @@ album: Marrasmaat
 artist: Marrasmaat
 categories:
 - Vinyl
-date: '2023-04-27T05:13:30'
+date: '2023-07-27T05:52:24'
 draft: false
 images:
 - /images/covers/marrasmaat-marrasmaat.jpg

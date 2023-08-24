@@ -4,7 +4,7 @@ album: Abortion of Humanity
 artist: Defecrator
 categories:
 - Vinyl
-date: '2023-04-27T05:13:08'
+date: '2023-07-27T05:48:33'
 draft: false
 images:
 - /images/covers/defecrator-abortion_of_humanity.jpg

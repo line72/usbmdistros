@@ -5,7 +5,7 @@ artist: Suspiral
 categories:
 - Vinyl
 - Cassette
-date: '2023-04-27T05:13:32'
+date: '2023-07-27T05:52:38'
 draft: false
 images:
 - /images/covers/suspiral-dawn_of_kezef.jpg

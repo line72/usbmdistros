@@ -4,7 +4,7 @@ album: Likdagg
 artist: Horde Of Hel
 categories:
 - CD
-date: '2023-04-27T05:13:40'
+date: '2023-07-27T05:54:05'
 draft: false
 images:
 - /images/covers/horde_of_hel-likdagg.png

@@ -4,7 +4,7 @@ album: "Ly\xF6den Taudein ja Kirouksin"
 artist: Riivaus
 categories:
 - Vinyl
-date: '2023-07-18T16:38:48'
+date: '2023-07-27T05:50:49'
 draft: false
 images:
 - "/images/covers/riivaus-ly\xF6den_taudein_ja_kirouksin.jpg"

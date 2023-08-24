@@ -4,7 +4,7 @@ album: Herbstleyd
 artist: Nargaroth
 categories:
 - CD
-date: '2023-05-19T05:20:12'
+date: '2023-07-27T05:54:45'
 draft: false
 images:
 - /images/covers/nargaroth-herbstleyd.png

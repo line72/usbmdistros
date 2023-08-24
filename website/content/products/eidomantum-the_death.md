@@ -4,7 +4,7 @@ album: The Death
 artist: Eidomantum
 categories:
 - Vinyl
-date: '2023-05-21T05:19:09'
+date: '2023-07-27T05:52:13'
 draft: false
 images:
 - /images/covers/eidomantum-the_death.jpg

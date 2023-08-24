@@ -4,7 +4,7 @@ album: "A Trance For The Ever\u200B-\u200BToiling Witch"
 artist: Thokk
 categories:
 - CD
-date: '2023-07-18T17:49:32'
+date: '2023-07-27T05:55:40'
 draft: false
 images:
 - "/images/covers/thokk-a_trance_for_the_ever\u200B-\u200Btoiling_witch.jpg"

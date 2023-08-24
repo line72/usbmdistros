@@ -4,7 +4,7 @@ album: Hexagram
 artist: Decayed
 categories:
 - CD
-date: '2023-04-27T05:13:36'
+date: '2023-07-27T05:53:22'
 draft: false
 images:
 - /images/covers/decayed-hexagram.jpg

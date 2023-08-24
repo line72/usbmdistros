@@ -5,7 +5,7 @@ artist: Regnum Tenebrarum
 categories:
 - Vinyl
 - CD
-date: '2023-04-27T05:13:48'
+date: '2023-07-27T05:55:11'
 draft: false
 images:
 - "/images/covers/regnum_tenebrarum-l\xE9gendes_noires.png"

@@ -1,10 +1,11 @@
 ---
-actualPrice: $25.00
+actualPrice: $15.00 - 25.00
 album: Ghost Paths to Septentrion
 artist: Orkblut
 categories:
 - Vinyl
-date: '2023-07-18T16:35:33'
+- CD
+date: '2023-08-22T08:06:21'
 draft: false
 images:
 - /images/covers/orkblut-ghost_paths_to_septentrion.jpg
@@ -15,3 +16,8 @@ title: Orkblut - Ghost Paths to Septentrion
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=37000&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=37684&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=38668&sort=pd.name&order=ASC) for $25.00
+## CD
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=37685&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=38667&sort=pd.name&order=ASC) for $15.00

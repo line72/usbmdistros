@@ -4,7 +4,7 @@ album: Muerte De Cristo En Golgota
 artist: Morbosidad
 categories:
 - CD
-date: '2023-04-27T05:13:45'
+date: '2023-07-27T05:54:39'
 draft: false
 images:
 - /images/covers/morbosidad-muerte_de_cristo_en_golgota.png

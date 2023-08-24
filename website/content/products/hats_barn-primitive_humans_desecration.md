@@ -4,7 +4,7 @@ album: Primitive Humans Desecration
 artist: Hats Barn
 categories:
 - CD
-date: '2023-04-27T05:13:40'
+date: '2023-07-27T05:53:58'
 draft: false
 images:
 - /images/covers/hats_barn-primitive_humans_desecration.jpg

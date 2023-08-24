@@ -4,7 +4,7 @@ album: La Larve Exulte
 artist: "C\xE9notaphe"
 categories:
 - Vinyl
-date: '2023-05-21T05:14:28'
+date: '2023-07-27T05:48:16'
 draft: false
 images:
 - "/images/covers/c\xE9notaphe-la_larve_exulte.jpg"

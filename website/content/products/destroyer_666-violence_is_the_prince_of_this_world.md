@@ -6,7 +6,7 @@ categories:
 - Vinyl
 - Cassette
 - CD
-date: '2023-07-18T16:10:43'
+date: '2023-07-27T05:56:32'
 draft: false
 images:
 - /images/covers/destroyer_666-violence_is_the_prince_of_this_world.jpg

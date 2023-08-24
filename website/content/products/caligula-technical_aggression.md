@@ -5,7 +5,7 @@ artist: Caligula
 categories:
 - Vinyl
 - CD
-date: '2023-06-13T05:57:54'
+date: '2023-07-27T05:48:11'
 draft: false
 images:
 - /images/covers/caligula-technical_aggression.jpg

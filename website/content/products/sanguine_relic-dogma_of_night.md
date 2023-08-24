@@ -4,7 +4,7 @@ album: Dogma of Night
 artist: Sanguine Relic
 categories:
 - Vinyl
-date: '2023-07-18T17:03:16'
+date: '2023-07-27T05:52:34'
 draft: false
 images:
 - /images/covers/sanguine_relic-dogma_of_night.jpg

@@ -4,7 +4,7 @@ album: Sex Magick
 artist: Into the Sunless Meridian
 categories:
 - CD
-date: '2023-06-19T10:16:13'
+date: '2023-07-27T05:54:14'
 draft: false
 images:
 - /images/covers/into_the_sunless_meridian-sex_magick.jpg

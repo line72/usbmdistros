@@ -5,7 +5,7 @@ artist: Kalmankantaja
 categories:
 - Vinyl
 - CD
-date: '2023-07-18T17:28:54'
+date: '2023-07-27T05:54:17'
 draft: false
 images:
 - "/images/covers/kalmankantaja-mets\xE4uhri.png"

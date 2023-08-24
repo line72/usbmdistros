@@ -5,7 +5,7 @@ artist: Marblebog
 categories:
 - Cassette
 - CD
-date: '2023-04-27T05:14:00'
+date: '2023-07-27T05:57:09'
 draft: false
 images:
 - /images/covers/marblebog-wind_of_moors.jpg

@@ -5,7 +5,7 @@ artist: Funeral Mist
 categories:
 - Vinyl
 - CD
-date: '2023-04-27T05:13:11'
+date: '2023-07-28T06:13:13'
 draft: false
 images:
 - /images/covers/funeral_mist-devilry.jpg
@@ -19,6 +19,7 @@ title: Funeral Mist - Devilry
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/funeral-mist-devilry) for $32.00 :: Black 2017 press vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29091&sort=pd.name&order=ASC) for $20.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29761&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=37635&sort=pd.name&order=ASC) for $25.00
 ## CD
 * Purchase from [CW Productions](https://shop.cwproductions.net/products/funeral-mist-devilry-cd) for $5.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=20254&sort=pd.name&order=ASC) for $15.00

@@ -4,7 +4,7 @@ album: Attera Totus Sanctus
 artist: Dark Funeral
 categories:
 - Vinyl
-date: '2023-07-18T16:08:33'
+date: '2023-07-27T05:48:26'
 draft: false
 images:
 - /images/covers/dark_funeral-attera_totus_sanctus.jpg

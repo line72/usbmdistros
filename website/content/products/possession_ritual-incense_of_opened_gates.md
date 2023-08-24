@@ -4,7 +4,7 @@ album: Incense of Opened Gates
 artist: Possession Ritual
 categories:
 - Cassette
-date: '2023-04-27T05:14:02'
+date: '2023-07-27T05:57:28'
 draft: false
 images:
 - /images/covers/possession_ritual-incense_of_opened_gates.png

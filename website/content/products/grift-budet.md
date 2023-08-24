@@ -5,7 +5,7 @@ artist: Grift
 categories:
 - Vinyl
 - CD
-date: '2023-04-27T05:13:39'
+date: '2023-07-27T05:53:54'
 draft: false
 images:
 - /images/covers/grift-budet.jpg

@@ -4,7 +4,7 @@ album: EFFIGIES TO THE PEDAGOGUE
 artist: Sardonic Smile
 categories:
 - Cassette
-date: '2023-04-27T05:14:03'
+date: '2023-07-27T05:57:35'
 draft: false
 images:
 - /images/covers/sardonic_smile-effigies_to_the_pedagogue.png

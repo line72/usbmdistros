@@ -4,7 +4,7 @@ album: Songs About Death And Stuff 1986 - 1991
 artist: Necromancer
 categories:
 - CD
-date: '2023-04-27T05:13:46'
+date: '2023-07-27T05:54:46'
 draft: false
 images:
 - /images/covers/necromancer-songs_about_death_and_stuff_1986_-_1991.png

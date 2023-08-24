@@ -6,7 +6,7 @@ categories:
 - Vinyl
 - Cassette
 - CD
-date: '2023-06-13T06:44:57'
+date: '2023-07-27T05:50:30'
 draft: false
 images:
 - /images/covers/old_coven-the_awake_of_ascendant_darkness.png

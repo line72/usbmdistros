@@ -5,7 +5,7 @@ artist: Phlegein
 categories:
 - Vinyl
 - CD
-date: '2023-04-27T05:13:20'
+date: '2023-07-27T05:50:39'
 draft: false
 images:
 - /images/covers/phlegein-labyrinth_of_wonder.jpg

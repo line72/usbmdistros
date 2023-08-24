@@ -5,7 +5,7 @@ album: "\u0398\u03B1\u03BD\u03B1\u03C4\u03BF\u03C2 \u03B1\u03B9\u03C9\u03BD\u03B
 artist: Burial Hordes
 categories:
 - Vinyl
-date: '2023-04-27T05:13:06'
+date: '2023-07-27T05:48:08'
 draft: false
 images:
 - "/images/covers/burial_hordes-\u03B8\u03B1\u03BD\u03B1\u03C4\u03BF\u03C2_\u03B1\u03B9\

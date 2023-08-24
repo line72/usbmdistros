@@ -5,7 +5,7 @@ artist: Inquisition
 categories:
 - Vinyl
 - CD
-date: '2023-04-27T05:13:41'
+date: '2023-07-27T05:54:13'
 draft: false
 images:
 - /images/covers/inquisition-obscure_verses_for_the_multiverse.jpg

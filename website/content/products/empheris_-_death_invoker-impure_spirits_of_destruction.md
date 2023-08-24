@@ -4,7 +4,7 @@ album: Impure Spirits Of Destruction
 artist: Empheris / Death Invoker
 categories:
 - CD
-date: '2023-04-27T05:13:38'
+date: '2023-07-27T05:53:35'
 draft: false
 images:
 - /images/covers/empheris_-_death_invoker-impure_spirits_of_destruction.jpg

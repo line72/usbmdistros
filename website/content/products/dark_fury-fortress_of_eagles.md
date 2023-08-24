@@ -1,10 +1,10 @@
 ---
-actualPrice: $22.00
+actualPrice: $22.00 - 25.00
 album: Fortress of Eagles
 artist: Dark Fury
 categories:
 - Vinyl
-date: '2022-12-29T06:26:46'
+date: '2023-08-24T16:55:34'
 draft: false
 images:
 - /images/covers/dark_fury-fortress_of_eagles.png
@@ -15,3 +15,4 @@ title: Dark Fury - Fortress of Eagles
 
 ## Vinyl
 * Purchase from [CW Productions](https://shop.cwproductions.net/products/dark-fury-fortress-of-eagles-lp) for $22.00
+* Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/dark-fury-fortress-of-eagles-12-lp/) for $25.00

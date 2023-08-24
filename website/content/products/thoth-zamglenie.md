@@ -4,7 +4,7 @@ album: Zamglenie
 artist: Thoth
 categories:
 - CD
-date: '2023-05-11T05:19:57'
+date: '2023-07-27T05:55:40'
 draft: false
 images:
 - /images/covers/thoth-zamglenie.png

@@ -4,7 +4,7 @@ album: Monarch of Dark Matter
 artist: Palus Somni
 categories:
 - Vinyl
-date: '2023-04-27T05:13:20'
+date: '2023-07-27T05:50:34'
 draft: false
 images:
 - /images/covers/palus_somni-monarch_of_dark_matter.jpg

@@ -4,7 +4,7 @@ album: Subterranean Shadows
 artist: Crucifixion Bell
 categories:
 - Cassette
-date: '2023-06-12T08:57:00'
+date: '2023-07-27T05:56:28'
 draft: false
 images:
 - /images/covers/crucifixion_bell-subterranean_shadows.png

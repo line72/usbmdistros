@@ -4,7 +4,7 @@ album: Visiones Terrenales
 artist: Reencarnacion
 categories:
 - CD
-date: '2023-04-27T05:13:48'
+date: '2023-07-27T05:55:11'
 draft: false
 images:
 - /images/covers/reencarnacion-visiones_terrenales.png

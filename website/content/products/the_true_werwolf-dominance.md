@@ -4,7 +4,7 @@ album: Dominance
 artist: The True Werwolf
 categories:
 - Vinyl
-date: '2023-04-27T05:13:24'
+date: '2023-08-13T06:59:48'
 draft: false
 images:
 - /images/covers/the_true_werwolf-dominance.jpg
@@ -16,3 +16,4 @@ title: The True Werwolf - Dominance
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=30799&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=32881&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=38240&sort=pd.name&order=ASC) for $25.00

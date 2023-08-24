@@ -4,7 +4,7 @@ album: Whispers in the Fire
 artist: Seer's Fire
 categories:
 - Vinyl
-date: '2023-04-27T05:13:22'
+date: '2023-07-27T05:51:02'
 draft: false
 images:
 - /images/covers/seer's_fire-whispers_in_the_fire.jpg

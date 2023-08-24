@@ -5,7 +5,7 @@ artist: Marduk
 categories:
 - Vinyl
 - CD
-date: '2023-05-26T05:36:23'
+date: '2023-07-27T05:54:31'
 draft: false
 images:
 - /images/covers/marduk-fuck_me_jesus.jpg

@@ -4,7 +4,7 @@ album: Henhouse Recordings
 artist: Mayhem
 categories:
 - Vinyl
-date: '2023-05-15T05:13:53'
+date: '2023-07-27T05:49:56'
 draft: false
 images:
 - /images/covers/mayhem-henhouse_recordings.jpg

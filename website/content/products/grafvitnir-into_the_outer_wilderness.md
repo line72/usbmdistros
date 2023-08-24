@@ -5,7 +5,7 @@ artist: Grafvitnir
 categories:
 - Vinyl
 - CD
-date: '2023-07-18T17:23:01'
+date: '2023-07-27T05:53:52'
 draft: false
 images:
 - /images/covers/grafvitnir-into_the_outer_wilderness.jpg

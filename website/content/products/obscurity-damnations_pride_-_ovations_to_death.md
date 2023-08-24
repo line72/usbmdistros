@@ -4,7 +4,7 @@ album: Damnations Pride / Ovations to Death
 artist: Obscurity
 categories:
 - CD
-date: '2023-05-09T05:19:04'
+date: '2023-07-27T05:54:55'
 draft: false
 images:
 - /images/covers/obscurity-damnations_pride_-_ovations_to_death.png

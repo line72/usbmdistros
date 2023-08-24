@@ -4,7 +4,7 @@ album: From the Darkest Chasms
 artist: Altar Blood
 categories:
 - CD
-date: '2023-04-27T05:13:33'
+date: '2023-07-27T05:52:50'
 draft: false
 images:
 - /images/covers/altar_blood-from_the_darkest_chasms.jpg

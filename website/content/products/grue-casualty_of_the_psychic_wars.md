@@ -4,7 +4,7 @@ album: Casualty of the Psychic Wars
 artist: Grue
 categories:
 - CD
-date: '2023-04-27T05:13:40'
+date: '2023-07-27T05:53:55'
 draft: false
 images:
 - /images/covers/grue-casualty_of_the_psychic_wars.jpg

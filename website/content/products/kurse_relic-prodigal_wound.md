@@ -5,7 +5,7 @@ artist: KURSE RELIC
 categories:
 - Cassette
 - CD
-date: '2023-04-27T05:13:59'
+date: '2023-07-27T05:57:06'
 draft: false
 images:
 - /images/covers/kurse_relic-prodigal_wound.jpg

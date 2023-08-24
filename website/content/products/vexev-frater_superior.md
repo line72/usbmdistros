@@ -5,7 +5,7 @@ artist: Vexev
 categories:
 - Cassette
 - CD
-date: '2023-04-27T05:14:05'
+date: '2023-07-27T05:57:56'
 draft: false
 images:
 - /images/covers/vexev-frater_superior.jpg

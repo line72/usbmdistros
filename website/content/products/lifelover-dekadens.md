@@ -4,7 +4,7 @@ album: Dekadens
 artist: Lifelover
 categories:
 - Vinyl
-date: '2023-05-17T05:14:05'
+date: '2023-07-27T05:49:43'
 draft: false
 images:
 - /images/covers/lifelover-dekadens.jpg

@@ -4,7 +4,7 @@ album: Taog eht fo Htao Eht
 artist: Impaled Nazarene
 categories:
 - Vinyl
-date: '2023-07-18T16:21:30'
+date: '2023-07-27T05:49:26'
 draft: false
 images:
 - /images/covers/impaled_nazarene-taog_eht_fo_htao_eht.jpg
@@ -18,3 +18,4 @@ title: Impaled Nazarene - Taog eht fo Htao Eht
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=30481&sort=pd.name&order=ASC) for $20.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=34521&sort=pd.name&order=ASC) for $20.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=36543&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=37291&sort=pd.name&order=ASC) for $20.00

@@ -4,7 +4,7 @@ album: Gilgamesh
 artist: Agatus
 categories:
 - Vinyl
-date: '2023-07-18T16:55:03'
+date: '2023-07-27T05:52:01'
 draft: false
 images:
 - /images/covers/agatus-gilgamesh.png

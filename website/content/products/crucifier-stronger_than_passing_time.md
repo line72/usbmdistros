@@ -4,7 +4,7 @@ album: Stronger Than Passing Time
 artist: Crucifier
 categories:
 - CD
-date: '2023-07-18T17:13:56'
+date: '2023-07-27T05:53:16'
 draft: false
 images:
 - /images/covers/crucifier-stronger_than_passing_time.jpg

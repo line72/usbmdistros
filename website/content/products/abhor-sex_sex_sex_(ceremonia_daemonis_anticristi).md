@@ -5,7 +5,7 @@ artist: Abhor
 categories:
 - Vinyl
 - CD
-date: '2023-04-27T05:13:32'
+date: '2023-07-27T05:52:45'
 draft: false
 images:
 - /images/covers/abhor-sex_sex_sex_(ceremonia_daemonis_anticristi).png

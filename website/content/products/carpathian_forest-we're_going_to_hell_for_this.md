@@ -4,7 +4,7 @@ album: We're Going to Hell for This
 artist: Carpathian Forest
 categories:
 - Vinyl
-date: '2023-06-14T06:00:27'
+date: '2023-07-27T05:48:13'
 draft: false
 images:
 - /images/covers/carpathian_forest-we're_going_to_hell_for_this.jpg

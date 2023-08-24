@@ -4,7 +4,7 @@ album: Wilt of Roses Crimson
 artist: Apparition of Sunlight
 categories:
 - Cassette
-date: '2023-04-27T05:13:54'
+date: '2023-07-27T05:56:13'
 draft: false
 images:
 - /images/covers/apparition_of_sunlight-wilt_of_roses_crimson.png

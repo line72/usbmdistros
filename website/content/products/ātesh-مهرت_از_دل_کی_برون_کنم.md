@@ -7,7 +7,7 @@ categories:
 - Vinyl
 - Cassette
 - CD
-date: '2023-06-26T05:10:47'
+date: '2023-08-13T05:14:19'
 draft: false
 images:
 - "/images/covers/\u0101tesh-\u0645\u0647\u0631\u062A_\u0627\u0632_\u062F\u0644_\u06A9\

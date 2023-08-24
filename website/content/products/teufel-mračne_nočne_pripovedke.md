@@ -4,7 +4,7 @@ album: "Mra\u010Dne No\u010Dne Pripovedke"
 artist: Teufel
 categories:
 - Vinyl
-date: '2023-04-27T05:13:24'
+date: '2023-07-27T05:51:21'
 draft: false
 images:
 - "/images/covers/teufel-mra\u010Dne_no\u010Dne_pripovedke.png"

@@ -4,7 +4,7 @@ album: Sorts
 artist: Sorts
 categories:
 - Vinyl
-date: '2023-04-27T05:13:31'
+date: '2023-07-27T05:52:36'
 draft: false
 images:
 - /images/covers/sorts-sorts.jpg

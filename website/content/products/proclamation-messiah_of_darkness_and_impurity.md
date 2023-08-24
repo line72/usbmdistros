@@ -6,7 +6,7 @@ categories:
 - Vinyl
 - Cassette
 - CD
-date: '2023-06-12T08:33:26'
+date: '2023-08-24T17:04:00'
 draft: false
 images:
 - /images/covers/proclamation-messiah_of_darkness_and_impurity.jpg
@@ -17,6 +17,7 @@ title: Proclamation - Messiah of Darkness and Impurity
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=11914&sort=pd.name&order=ASC) for $25.00
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/used-proclamation-messiah-of-darkness-and-impurity-lp) for $20.00 :: Black 2020 press vinyl
 ## Cassette
 * Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/proclamation-messiah-of-darkness-and-impurity-cassette/) for $11.00
 ## CD

@@ -4,7 +4,7 @@ album: Gate Master
 artist: Gate Master
 categories:
 - Vinyl
-date: '2023-04-27T05:13:11'
+date: '2023-07-27T05:49:00'
 draft: false
 images:
 - /images/covers/gate_master-gate_master.jpg

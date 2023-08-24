@@ -4,7 +4,7 @@ album: De Verminkte Stilte van het Zijn
 artist: Hagetisse
 categories:
 - Vinyl
-date: '2023-04-27T05:13:12'
+date: '2023-07-27T05:49:12'
 draft: false
 images:
 - /images/covers/hagetisse-de_verminkte_stilte_van_het_zijn.jpg

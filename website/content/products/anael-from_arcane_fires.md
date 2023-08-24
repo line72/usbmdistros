@@ -4,7 +4,7 @@ album: From Arcane Fires
 artist: Anael
 categories:
 - Vinyl
-date: '2023-04-27T05:13:03'
+date: '2023-07-27T05:47:32'
 draft: false
 images:
 - /images/covers/anael-from_arcane_fires.jpg

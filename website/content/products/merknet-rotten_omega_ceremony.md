@@ -4,7 +4,7 @@ album: Rotten Omega Ceremony
 artist: Merknet
 categories:
 - CD
-date: '2023-04-27T05:13:45'
+date: '2023-07-27T05:54:35'
 draft: false
 images:
 - /images/covers/merknet-rotten_omega_ceremony.jpg

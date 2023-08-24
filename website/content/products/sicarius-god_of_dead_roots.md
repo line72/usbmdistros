@@ -4,7 +4,7 @@ album: God of Dead Roots
 artist: Sicarius
 categories:
 - Vinyl
-date: '2023-04-27T05:13:22'
+date: '2023-07-27T05:51:07'
 draft: false
 images:
 - /images/covers/sicarius-god_of_dead_roots.jpg

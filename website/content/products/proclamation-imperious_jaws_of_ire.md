@@ -6,7 +6,7 @@ categories:
 - Vinyl
 - Cassette
 - CD
-date: '2023-06-22T08:36:52'
+date: '2023-07-27T05:57:29'
 draft: false
 images:
 - /images/covers/proclamation-imperious_jaws_of_ire.jpg

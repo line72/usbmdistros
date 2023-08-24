@@ -6,7 +6,7 @@ categories:
 - Vinyl
 - Cassette
 - CD
-date: '2023-07-18T16:05:42'
+date: '2023-07-27T05:56:24'
 draft: false
 images:
 - /images/covers/caedes_cruenta-of_ritual_necrophagia_and_mysterious_ghoul_cults.png

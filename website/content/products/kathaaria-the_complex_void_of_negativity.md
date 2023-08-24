@@ -4,7 +4,7 @@ album: The Complex Void Of Negativity
 artist: Kathaaria
 categories:
 - Vinyl
-date: '2023-07-20T06:45:20'
+date: '2023-07-27T05:49:36'
 draft: false
 images:
 - /images/covers/kathaaria-the_complex_void_of_negativity.jpg

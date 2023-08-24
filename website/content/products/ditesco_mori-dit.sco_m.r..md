@@ -4,7 +4,7 @@ album: DIT.SCO M.R.
 artist: Ditesco Mori
 categories:
 - Vinyl
-date: '2023-04-27T05:13:09'
+date: '2023-07-27T05:48:38'
 draft: false
 images:
 - /images/covers/ditesco_mori-dit.sco_m.r..png

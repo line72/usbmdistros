@@ -4,7 +4,7 @@ album: Leave Only What Is Fit to Burn
 artist: Maledicere
 categories:
 - CD
-date: '2023-04-27T05:13:44'
+date: '2023-07-27T05:54:30'
 draft: false
 images:
 - /images/covers/maledicere-leave_only_what_is_fit_to_burn.jpg

@@ -5,7 +5,7 @@ artist: "Wagner \xD6deg\xE5rd"
 categories:
 - Vinyl
 - CD
-date: '2023-04-27T05:13:53'
+date: '2023-07-27T05:55:58'
 draft: false
 images:
 - "/images/covers/wagner_\xF6deg\xE5rd-om_kosmos_och_de_tolv_j\xE4rtekn.jpg"

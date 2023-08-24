@@ -4,7 +4,7 @@ album: Noen Synder
 artist: Ravnblod
 categories:
 - Cassette
-date: '2023-04-27T05:14:02'
+date: '2023-07-27T05:57:31'
 draft: false
 images:
 - /images/covers/ravnblod-noen_synder.jpg

@@ -4,7 +4,7 @@ album: For Snow Covered The Northland
 artist: Ancient Wisdom
 categories:
 - Vinyl
-date: '2023-06-14T05:53:28'
+date: '2023-07-27T05:47:34'
 draft: false
 images:
 - /images/covers/ancient_wisdom-for_snow_covered_the_northland.png

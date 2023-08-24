@@ -4,7 +4,7 @@ album: Transpiration
 artist: Ovnev
 categories:
 - CD
-date: '2023-04-27T05:13:47'
+date: '2023-07-27T05:55:00'
 draft: false
 images:
 - /images/covers/ovnev-transpiration.jpg

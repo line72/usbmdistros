@@ -5,7 +5,7 @@ artist: Mystifier
 categories:
 - Vinyl
 - CD
-date: '2023-06-11T10:03:42'
+date: '2023-07-27T05:54:44'
 draft: false
 images:
 - /images/covers/mystifier-aleister_crowley.jpg

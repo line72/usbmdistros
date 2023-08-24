@@ -5,7 +5,7 @@ artist: Invocation
 categories:
 - Vinyl
 - CD
-date: '2023-04-27T05:13:41'
+date: '2023-07-27T05:54:14'
 draft: false
 images:
 - /images/covers/invocation-seance_part._i.jpg

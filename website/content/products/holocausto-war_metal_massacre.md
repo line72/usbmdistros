@@ -5,7 +5,7 @@ artist: Holocausto
 categories:
 - Vinyl
 - CD
-date: '2023-06-12T06:24:58'
+date: '2023-07-27T05:49:21'
 draft: false
 images:
 - /images/covers/holocausto-war_metal_massacre.jpg

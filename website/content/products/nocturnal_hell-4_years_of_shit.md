@@ -4,7 +4,7 @@ album: 4 Years of Shit
 artist: Nocturnal Hell
 categories:
 - CD
-date: '2023-04-27T05:13:46'
+date: '2023-07-27T05:54:53'
 draft: false
 images:
 - /images/covers/nocturnal_hell-4_years_of_shit.jpg

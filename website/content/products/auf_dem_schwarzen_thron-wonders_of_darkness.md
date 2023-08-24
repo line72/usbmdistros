@@ -4,7 +4,7 @@ album: Wonders Of Darkness
 artist: Auf Dem Schwarzen Thron
 categories:
 - Vinyl
-date: '2023-04-27T05:13:28'
+date: '2023-07-27T05:52:04'
 draft: false
 images:
 - /images/covers/auf_dem_schwarzen_thron-wonders_of_darkness.jpg

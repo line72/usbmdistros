@@ -5,7 +5,7 @@ artist: "Ringar\xEB"
 categories:
 - Vinyl
 - CD
-date: '2023-06-22T06:46:32'
+date: '2023-07-27T05:55:13'
 draft: false
 images:
 - "/images/covers/ringar\xEB-thrall_of_winter's_majesty.jpg"

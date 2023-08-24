@@ -4,7 +4,7 @@ album: "P\xEDse\u0148 \u010Dern\xFDch Vran"
 artist: Cult Of Fire
 categories:
 - Vinyl
-date: '2023-04-27T05:13:29'
+date: '2023-07-27T05:52:09'
 draft: false
 images:
 - "/images/covers/cult_of_fire-p\xEDse\u0148_\u010Dern\xFDch_vran.jpg"

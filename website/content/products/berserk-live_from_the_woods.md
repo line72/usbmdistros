@@ -4,7 +4,7 @@ album: Live From the Woods
 artist: Berserk
 categories:
 - CD
-date: '2023-04-27T05:13:34'
+date: '2023-07-27T05:53:01'
 draft: false
 images:
 - /images/covers/berserk-live_from_the_woods.jpg

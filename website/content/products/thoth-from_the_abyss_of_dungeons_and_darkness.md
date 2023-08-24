@@ -5,7 +5,7 @@ artist: Thoth
 categories:
 - Vinyl
 - CD
-date: '2023-05-11T05:15:15'
+date: '2023-07-27T05:51:27'
 draft: false
 images:
 - /images/covers/thoth-from_the_abyss_of_dungeons_and_darkness.jpg

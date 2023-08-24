@@ -4,7 +4,7 @@ album: Postmortem Apocalypse
 artist: Anwyl
 categories:
 - Vinyl
-date: '2023-04-27T05:13:03'
+date: '2023-07-27T05:47:37'
 draft: false
 images:
 - /images/covers/anwyl-postmortem_apocalypse.jpg

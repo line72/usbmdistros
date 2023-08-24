@@ -4,7 +4,7 @@ album: Podredumbre 1986-1988
 artist: Sacrilegio
 categories:
 - Vinyl
-date: '2023-06-12T07:09:30'
+date: '2023-07-27T05:50:55'
 draft: false
 images:
 - /images/covers/sacrilegio-podredumbre_1986-1988.jpg

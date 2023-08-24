@@ -4,7 +4,7 @@ album: Nox et Hiems
 artist: Angrenost
 categories:
 - Vinyl
-date: '2023-04-27T05:13:03'
+date: '2023-07-27T05:47:36'
 draft: false
 images:
 - /images/covers/angrenost-nox_et_hiems.jpg

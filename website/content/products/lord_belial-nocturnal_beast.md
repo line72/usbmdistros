@@ -5,7 +5,7 @@ artist: Lord Belial
 categories:
 - Vinyl
 - CD
-date: '2023-04-27T05:13:42'
+date: '2023-07-27T05:54:26'
 draft: false
 images:
 - /images/covers/lord_belial-nocturnal_beast.jpg

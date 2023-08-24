@@ -4,7 +4,7 @@ album: Nad Grobem Ojcow
 artist: Abusiveness
 categories:
 - Vinyl
-date: '2023-04-27T05:13:28'
+date: '2023-07-27T05:52:01'
 draft: false
 images:
 - /images/covers/abusiveness-nad_grobem_ojcow.jpg

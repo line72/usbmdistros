@@ -1,10 +1,10 @@
 ---
-actualPrice: $25.00
+actualPrice: $20.00
 album: As Jerusalem Burns...Al'Intisar
 artist: Melechesh
 categories:
 - Vinyl
-date: '2023-04-27T05:13:16'
+date: '2023-07-25T06:01:25'
 draft: false
 images:
 - /images/covers/melechesh-as_jerusalem_burns...al'intisar.png
@@ -14,4 +14,4 @@ title: Melechesh - As Jerusalem Burns...Al'Intisar
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=28789&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=28789&sort=pd.name&order=ASC) for $20.00

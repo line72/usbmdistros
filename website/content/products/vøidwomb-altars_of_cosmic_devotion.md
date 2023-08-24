@@ -5,7 +5,7 @@ artist: "V\xF8idwomb"
 categories:
 - Vinyl
 - Cassette
-date: '2023-04-27T05:13:27'
+date: '2023-07-27T05:51:47'
 draft: false
 images:
 - "/images/covers/v\xF8idwomb-altars_of_cosmic_devotion.jpg"

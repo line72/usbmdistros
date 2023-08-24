@@ -5,7 +5,7 @@ artist: Grizelda
 categories:
 - Vinyl
 - CD
-date: '2023-06-12T06:21:52'
+date: '2023-07-27T05:49:10'
 draft: false
 images:
 - /images/covers/grizelda-grizelda.jpg

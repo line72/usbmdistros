@@ -4,7 +4,7 @@ album: Orthank
 artist: Orthank
 categories:
 - CD
-date: '2023-04-29T05:19:41'
+date: '2023-07-27T05:54:59'
 draft: false
 images:
 - /images/covers/orthank-orthank.jpg

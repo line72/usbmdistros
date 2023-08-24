@@ -4,7 +4,7 @@ album: Fire & Demise
 artist: Emperor
 categories:
 - Cassette
-date: '2023-07-18T18:03:59'
+date: '2023-07-27T05:56:36'
 draft: false
 images:
 - /images/covers/emperor-fire_&_demise.jpg

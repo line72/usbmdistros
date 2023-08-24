@@ -4,7 +4,7 @@ album: Examination of Being
 artist: Order of Ennead
 categories:
 - CD
-date: '2023-04-27T05:13:47'
+date: '2023-07-27T05:54:58'
 draft: false
 images:
 - /images/covers/order_of_ennead-examination_of_being.jpg

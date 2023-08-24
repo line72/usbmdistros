@@ -4,7 +4,7 @@ album: "N\xE4r Helvetet Brunnit Mot Sitt Slut / Labil"
 artist: Slutet
 categories:
 - CD
-date: '2023-04-27T05:13:50'
+date: '2023-07-27T05:55:27'
 draft: false
 images:
 - "/images/covers/slutet-n\xE4r_helvetet_brunnit_mot_sitt_slut_-_labil.png"

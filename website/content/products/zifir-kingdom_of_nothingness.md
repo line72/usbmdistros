@@ -4,7 +4,7 @@ album: Kingdom of Nothingness
 artist: Zifir
 categories:
 - CD
-date: '2023-04-27T05:13:54'
+date: '2023-07-27T05:56:06'
 draft: false
 images:
 - /images/covers/zifir-kingdom_of_nothingness.png

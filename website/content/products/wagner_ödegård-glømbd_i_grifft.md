@@ -4,7 +4,7 @@ album: "Gl\xF8mbd I Grifft"
 artist: "Wagner \xD6deg\xE5rd"
 categories:
 - Vinyl
-date: '2023-04-27T05:13:27'
+date: '2023-07-27T05:51:47'
 draft: false
 images:
 - "/images/covers/wagner_\xF6deg\xE5rd-gl\xF8mbd_i_grifft.jpg"

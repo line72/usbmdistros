@@ -4,7 +4,7 @@ album: Reveries
 artist: Finnentum
 categories:
 - Vinyl
-date: '2023-04-27T05:13:11'
+date: '2023-07-27T05:48:54'
 draft: false
 images:
 - /images/covers/finnentum-reveries.jpg

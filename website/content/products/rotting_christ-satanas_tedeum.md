@@ -4,7 +4,7 @@ album: Satanas Tedeum
 artist: Rotting Christ
 categories:
 - CD
-date: '2023-06-03T05:21:30'
+date: '2023-07-27T05:55:14'
 draft: false
 images:
 - /images/covers/rotting_christ-satanas_tedeum.jpg

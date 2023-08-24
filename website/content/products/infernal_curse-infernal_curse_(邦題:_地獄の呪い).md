@@ -4,7 +4,7 @@ album: "Infernal Curse (\u90A6\u984C: \u5730\u7344\u306E\u546A\u3044)"
 artist: Infernal Curse
 categories:
 - CD
-date: '2023-04-27T05:13:41'
+date: '2023-07-27T05:54:11'
 draft: false
 images:
 - "/images/covers/infernal_curse-infernal_curse_(\u90A6\u984C:_\u5730\u7344\u306E\u546A\

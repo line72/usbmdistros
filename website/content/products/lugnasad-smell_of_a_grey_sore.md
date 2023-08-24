@@ -4,7 +4,7 @@ album: Smell of a Grey Sore
 artist: Lugnasad
 categories:
 - CD
-date: '2023-04-27T05:13:43'
+date: '2023-07-27T05:54:27'
 draft: false
 images:
 - /images/covers/lugnasad-smell_of_a_grey_sore.jpg

@@ -4,7 +4,7 @@ album: Tales of Torture
 artist: Mortifier
 categories:
 - Vinyl
-date: '2023-05-11T05:16:19'
+date: '2023-07-27T05:52:25'
 draft: false
 images:
 - /images/covers/mortifier-tales_of_torture.jpg

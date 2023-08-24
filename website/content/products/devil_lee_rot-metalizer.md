@@ -4,7 +4,7 @@ album: Metalizer
 artist: Devil Lee Rot
 categories:
 - Vinyl
-date: '2023-07-18T16:10:56'
+date: '2023-07-27T05:48:36'
 draft: false
 images:
 - /images/covers/devil_lee_rot-metalizer.jpg

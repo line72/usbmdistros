@@ -4,7 +4,7 @@ album: The Call From the Pagan Woods
 artist: Woodtemple
 categories:
 - CD
-date: '2023-04-27T05:13:53'
+date: '2023-07-27T05:56:03'
 draft: false
 images:
 - /images/covers/woodtemple-the_call_from_the_pagan_woods.jpg

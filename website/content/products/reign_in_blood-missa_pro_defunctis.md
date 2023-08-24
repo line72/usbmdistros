@@ -5,7 +5,7 @@ artist: Reign In Blood
 categories:
 - Vinyl
 - CD
-date: '2023-04-27T05:13:21'
+date: '2023-07-27T05:50:47'
 draft: false
 images:
 - /images/covers/reign_in_blood-missa_pro_defunctis.jpg

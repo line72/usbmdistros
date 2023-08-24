@@ -4,7 +4,7 @@ album: Trampled Under Cloven Hooves
 artist: Crucifier
 categories:
 - CD
-date: '2023-07-18T17:13:56'
+date: '2023-07-27T05:53:16'
 draft: false
 images:
 - /images/covers/crucifier-trampled_under_cloven_hooves.jpg

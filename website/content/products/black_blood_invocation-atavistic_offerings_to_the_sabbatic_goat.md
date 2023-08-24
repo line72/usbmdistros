@@ -5,7 +5,7 @@ artist: Black Blood Invocation
 categories:
 - Vinyl
 - CD
-date: '2022-11-30T06:10:29'
+date: '2023-08-21T07:32:25'
 draft: false
 images:
 - /images/covers/black_blood_invocation-atavistic_offerings_to_the_sabbatic_goat.jpg
@@ -20,3 +20,4 @@ title: Black Blood Invocation - Atavistic Offerings to the Sabbatic Goat
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=18499&sort=pd.name&order=ASC) for $15.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=28563&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=38624&sort=pd.name&order=ASC) for $15.00

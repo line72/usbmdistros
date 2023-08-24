@@ -4,7 +4,7 @@ album: Wahnsinn.tod.verrat
 artist: Nihil Nocturne
 categories:
 - Vinyl
-date: '2023-04-27T05:13:19'
+date: '2023-07-27T05:50:22'
 draft: false
 images:
 - /images/covers/nihil_nocturne-wahnsinn.tod.verrat.jpg

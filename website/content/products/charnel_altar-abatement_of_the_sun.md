@@ -6,7 +6,7 @@ categories:
 - Vinyl
 - Cassette
 - CD
-date: '2023-06-12T08:03:16'
+date: '2023-07-27T05:56:25'
 draft: false
 images:
 - /images/covers/charnel_altar-abatement_of_the_sun.jpg

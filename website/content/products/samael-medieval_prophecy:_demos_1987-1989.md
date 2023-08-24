@@ -4,7 +4,7 @@ album: 'Medieval Prophecy: Demos 1987-1989'
 artist: Samael
 categories:
 - Vinyl
-date: '2023-06-22T06:49:26'
+date: '2023-07-27T05:50:56'
 draft: false
 images:
 - /images/covers/samael-medieval_prophecy:_demos_1987-1989.jpg

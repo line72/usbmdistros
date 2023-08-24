@@ -4,7 +4,7 @@ album: "Vat g\xEBl\xE9nva\u200B!\u200B!\u200B!"
 artist: "Trh\xE4"
 categories:
 - Vinyl
-date: '2023-07-18T16:48:12'
+date: '2023-07-27T05:51:31'
 draft: false
 images:
 - "/images/covers/trh\xE4-vat_g\xEBl\xE9nva\u200B!\u200B!\u200B!.jpg"

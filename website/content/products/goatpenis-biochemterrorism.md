@@ -4,7 +4,7 @@ album: Biochemterrorism
 artist: Goatpenis
 categories:
 - CD
-date: '2023-06-11T07:31:06'
+date: '2023-07-27T05:53:49'
 draft: false
 images:
 - /images/covers/goatpenis-biochemterrorism.jpg

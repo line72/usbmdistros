@@ -1,10 +1,10 @@
 ---
-actualPrice: $20.00 - 25.00
+actualPrice: $20.00 - 55.00
 album: Crust
 artist: Sarcofago
 categories:
 - Vinyl
-date: '2022-09-07T05:11:18'
+date: '2023-07-28T07:02:43'
 draft: false
 images:
 - /images/covers/sarcofago-crust.jpg
@@ -19,3 +19,4 @@ title: Sarcofago - Crust
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=26472&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=27096&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=27530&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=37611&sort=pd.name&order=ASC) for $55.00

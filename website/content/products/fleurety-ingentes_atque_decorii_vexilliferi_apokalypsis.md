@@ -4,7 +4,7 @@ album: Ingentes Atque Decorii Vexilliferi Apokalypsis
 artist: Fleurety
 categories:
 - Vinyl
-date: '2023-04-27T05:13:29'
+date: '2023-07-27T05:52:16'
 draft: false
 images:
 - /images/covers/fleurety-ingentes_atque_decorii_vexilliferi_apokalypsis.png

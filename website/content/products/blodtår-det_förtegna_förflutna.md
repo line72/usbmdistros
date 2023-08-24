@@ -5,7 +5,7 @@ artist: "Blodt\xE5r"
 categories:
 - Vinyl
 - CD
-date: '2023-04-27T05:13:35'
+date: '2023-07-27T05:53:05'
 draft: false
 images:
 - "/images/covers/blodt\xE5r-det_f\xF6rtegna_f\xF6rflutna.jpg"

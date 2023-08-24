@@ -4,7 +4,7 @@ album: Live Legacy
 artist: Dissection
 categories:
 - CD
-date: '2023-06-11T07:26:58'
+date: '2023-07-27T05:53:28'
 draft: false
 images:
 - /images/covers/dissection-live_legacy.jpg

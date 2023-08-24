@@ -4,7 +4,7 @@ album: Aamongandr
 artist: Satanic Warmaster
 categories:
 - Vinyl
-date: '2023-07-18T16:40:59'
+date: '2023-07-27T05:50:59'
 draft: false
 images:
 - /images/covers/satanic_warmaster-aamongandr.jpg

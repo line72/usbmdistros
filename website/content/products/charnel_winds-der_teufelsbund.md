@@ -5,7 +5,7 @@ artist: Charnel Winds
 categories:
 - Vinyl
 - CD
-date: '2023-04-27T05:13:07'
+date: '2023-07-27T05:48:17'
 draft: false
 images:
 - /images/covers/charnel_winds-der_teufelsbund.jpg

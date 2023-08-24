@@ -5,7 +5,7 @@ artist: Christian Cosentino
 categories:
 - Vinyl
 - Cassette
-date: '2023-07-18T18:00:52'
+date: '2023-07-27T05:56:26'
 draft: false
 images:
 - /images/covers/christian_cosentino-high_rising_times.jpg

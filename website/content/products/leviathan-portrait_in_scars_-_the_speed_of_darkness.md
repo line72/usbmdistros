@@ -5,7 +5,7 @@ artist: Leviathan
 categories:
 - Vinyl
 - Cassette
-date: '2023-07-18T16:24:51'
+date: '2023-07-27T05:49:42'
 draft: false
 images:
 - /images/covers/leviathan-portrait_in_scars_-_the_speed_of_darkness.jpg

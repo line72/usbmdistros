@@ -4,7 +4,7 @@ album: Aonian Invocation
 artist: Agos
 categories:
 - Cassette
-date: '2023-04-27T05:13:54'
+date: '2023-07-27T05:56:09'
 draft: false
 images:
 - /images/covers/agos-aonian_invocation.png

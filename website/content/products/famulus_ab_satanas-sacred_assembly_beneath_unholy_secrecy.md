@@ -5,7 +5,7 @@ artist: Famulus ab Satanas
 categories:
 - Vinyl
 - CD
-date: '2023-04-27T05:13:10'
+date: '2023-07-27T05:48:52'
 draft: false
 images:
 - /images/covers/famulus_ab_satanas-sacred_assembly_beneath_unholy_secrecy.jpg

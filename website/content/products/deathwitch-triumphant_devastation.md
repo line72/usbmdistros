@@ -4,7 +4,7 @@ album: Triumphant Devastation
 artist: Deathwitch
 categories:
 - CD
-date: '2023-04-27T05:13:36'
+date: '2023-07-27T05:53:21'
 draft: false
 images:
 - /images/covers/deathwitch-triumphant_devastation.jpg

@@ -5,7 +5,7 @@ artist: Lurker Of Chalice
 categories:
 - Vinyl
 - CD
-date: '2023-06-12T08:23:18'
+date: '2023-07-27T05:49:48'
 draft: false
 images:
 - /images/covers/lurker_of_chalice-tellurian_slaked_furnace.jpg

@@ -5,7 +5,7 @@ artist: Black Cilice
 categories:
 - Vinyl
 - CD
-date: '2023-06-08T05:13:28'
+date: '2023-07-27T05:47:57'
 draft: false
 images:
 - /images/covers/black_cilice-curses_and_oaths.png

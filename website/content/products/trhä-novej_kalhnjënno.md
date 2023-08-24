@@ -4,7 +4,7 @@ album: "Novej Kalhnj\xEBnno"
 artist: "Trh\xE4"
 categories:
 - Vinyl
-date: '2023-07-18T16:48:12'
+date: '2023-07-27T05:51:31'
 draft: false
 images:
 - "/images/covers/trh\xE4-novej_kalhnj\xEBnno.jpg"

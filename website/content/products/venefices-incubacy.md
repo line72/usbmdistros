@@ -4,7 +4,7 @@ album: Incubacy
 artist: Venefices
 categories:
 - Cassette
-date: '2023-07-18T18:21:32'
+date: '2023-07-27T05:57:55'
 draft: false
 images:
 - /images/covers/venefices-incubacy.jpg

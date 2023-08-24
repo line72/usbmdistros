@@ -5,7 +5,7 @@ artist: Departure Chandelier
 categories:
 - Vinyl
 - CD
-date: '2023-07-18T16:10:33'
+date: '2023-07-27T05:48:34'
 draft: false
 images:
 - /images/covers/departure_chandelier-the_black_crest_of_death,_the_gold_wreath_of_war.jpg

@@ -4,7 +4,7 @@ album: Waiennut
 artist: Kalmankantaja
 categories:
 - CD
-date: '2023-07-18T17:28:55'
+date: '2023-07-27T05:54:18'
 draft: false
 images:
 - /images/covers/kalmankantaja-waiennut.png

@@ -4,7 +4,7 @@ album: Revenant
 artist: The Last Seed
 categories:
 - CD
-date: '2023-04-27T05:13:51'
+date: '2023-07-27T05:55:38'
 draft: false
 images:
 - /images/covers/the_last_seed-revenant.png

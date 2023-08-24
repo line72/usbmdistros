@@ -4,7 +4,7 @@ album: V.I.T.R.I.O.L.
 artist: Rituaal
 categories:
 - Vinyl
-date: '2023-04-27T05:13:31'
+date: '2023-07-27T05:52:32'
 draft: false
 images:
 - /images/covers/rituaal-v.i.t.r.i.o.l..jpg

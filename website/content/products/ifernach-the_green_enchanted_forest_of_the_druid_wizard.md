@@ -5,7 +5,7 @@ artist: Ifernach
 categories:
 - Vinyl
 - CD
-date: '2023-05-22T05:14:11'
+date: '2023-07-27T05:49:24'
 draft: false
 images:
 - /images/covers/ifernach-the_green_enchanted_forest_of_the_druid_wizard.jpg

@@ -4,7 +4,7 @@ album: Taste the Divine Wrath
 artist: The Meads of Asphodel / Tjolgtjar
 categories:
 - Vinyl
-date: '2023-04-27T05:13:24'
+date: '2023-07-27T05:51:24'
 draft: false
 images:
 - /images/covers/the_meads_of_asphodel_-_tjolgtjar-taste_the_divine_wrath.jpg

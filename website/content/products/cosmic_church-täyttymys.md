@@ -4,7 +4,7 @@ album: "T\xE4yttymys"
 artist: Cosmic Church
 categories:
 - Vinyl
-date: '2023-07-18T16:07:29'
+date: '2023-07-27T05:48:21'
 draft: false
 images:
 - "/images/covers/cosmic_church-t\xE4yttymys.jpg"

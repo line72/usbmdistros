@@ -5,7 +5,7 @@ artist: Siculicidium
 categories:
 - Vinyl
 - CD
-date: '2023-04-27T05:13:22'
+date: '2023-07-27T05:51:07'
 draft: false
 images:
 - "/images/covers/siculicidium-az_al\xE1mer\xFCl\xE9s_l\xE1rv\xE1i.jpg"

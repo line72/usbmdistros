@@ -4,7 +4,7 @@ album: Betrayed by Devotion
 artist: Arazubak
 categories:
 - Cassette
-date: '2023-04-27T05:13:55'
+date: '2023-07-27T05:56:13'
 draft: false
 images:
 - /images/covers/arazubak-betrayed_by_devotion.jpg

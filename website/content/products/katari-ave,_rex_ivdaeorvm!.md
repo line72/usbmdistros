@@ -4,7 +4,7 @@ album: Ave, Rex Ivdaeorvm!
 artist: Katari
 categories:
 - CD
-date: '2023-04-27T05:13:42'
+date: '2023-07-27T05:54:20'
 draft: false
 images:
 - /images/covers/katari-ave,_rex_ivdaeorvm!.jpg

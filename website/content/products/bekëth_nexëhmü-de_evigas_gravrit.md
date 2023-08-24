@@ -5,7 +5,7 @@ artist: "Bek\xEBth Nex\xEBhm\xFC"
 categories:
 - Vinyl
 - CD
-date: '2023-05-15T05:11:59'
+date: '2023-07-27T05:47:56'
 draft: false
 images:
 - "/images/covers/bek\xEBth_nex\xEBhm\xFC-de_evigas_gravrit.jpg"

@@ -4,7 +4,7 @@ album: Inter
 artist: Fagus
 categories:
 - CD
-date: '2023-04-27T05:13:38'
+date: '2023-07-27T05:53:41'
 draft: false
 images:
 - /images/covers/fagus-inter.jpg

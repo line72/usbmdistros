@@ -4,7 +4,7 @@ album: Distort Order
 artist: SHROUD
 categories:
 - Vinyl
-date: '2023-04-27T05:13:31'
+date: '2023-07-27T05:52:35'
 draft: false
 images:
 - /images/covers/shroud-distort_order.jpg

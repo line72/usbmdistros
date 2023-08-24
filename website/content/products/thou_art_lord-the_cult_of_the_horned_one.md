@@ -4,7 +4,7 @@ album: The Cult of the Horned One
 artist: Thou Art Lord
 categories:
 - CD
-date: '2023-06-03T05:22:06'
+date: '2023-07-27T05:55:40'
 draft: false
 images:
 - /images/covers/thou_art_lord-the_cult_of_the_horned_one.png

@@ -4,7 +4,7 @@ album: Al natural (Live 1987 & 2002)
 artist: "Reencarnaci\xF3n"
 categories:
 - CD
-date: '2023-05-16T05:21:07'
+date: '2023-07-27T05:55:11'
 draft: false
 images:
 - "/images/covers/reencarnaci\xF3n-al_natural_(live_1987_&_2002).png"

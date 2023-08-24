@@ -5,7 +5,7 @@ artist: Marduk
 categories:
 - Vinyl
 - CD
-date: '2023-05-16T20:11:18'
+date: '2023-07-27T05:49:54'
 draft: false
 images:
 - /images/covers/marduk-those_of_the_unlight.jpg

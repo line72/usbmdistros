@@ -4,7 +4,7 @@ album: The Messenger
 artist: Molde
 categories:
 - CD
-date: '2023-04-27T05:13:45'
+date: '2023-07-27T05:54:38'
 draft: false
 images:
 - /images/covers/molde-the_messenger.jpg

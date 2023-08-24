@@ -4,7 +4,7 @@ album: Widma Zimowej Martwoty
 artist: Krypta Nicestwa
 categories:
 - Vinyl
-date: '2023-04-27T05:13:30'
+date: '2023-07-27T05:52:22'
 draft: false
 images:
 - /images/covers/krypta_nicestwa-widma_zimowej_martwoty.jpg

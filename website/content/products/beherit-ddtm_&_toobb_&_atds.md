@@ -4,7 +4,7 @@ album: DDTM & TOOBB & ATDS
 artist: Beherit
 categories:
 - Vinyl
-date: '2023-06-08T05:13:25'
+date: '2023-07-26T05:47:25'
 draft: false
 images:
 - /images/covers/beherit-ddtm_&_toobb_&_atds.jpg

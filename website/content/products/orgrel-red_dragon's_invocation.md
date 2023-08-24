@@ -5,7 +5,7 @@ artist: Orgrel
 categories:
 - Vinyl
 - CD
-date: '2023-04-27T05:13:47'
+date: '2023-07-27T05:54:59'
 draft: false
 images:
 - /images/covers/orgrel-red_dragon's_invocation.jpg

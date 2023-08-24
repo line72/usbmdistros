@@ -4,7 +4,7 @@ album: Sing Thou Unholy Servants
 artist: Wind of the Black Mountains
 categories:
 - Vinyl
-date: '2023-06-18T06:49:17'
+date: '2023-07-27T05:51:52'
 draft: false
 images:
 - /images/covers/wind_of_the_black_mountains-sing_thou_unholy_servants.jpg

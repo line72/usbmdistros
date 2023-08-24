@@ -4,7 +4,7 @@ album: Devilry
 artist: Devilry
 categories:
 - Vinyl
-date: '2023-04-27T05:13:29'
+date: '2023-07-27T05:52:12'
 draft: false
 images:
 - /images/covers/devilry-devilry.jpg

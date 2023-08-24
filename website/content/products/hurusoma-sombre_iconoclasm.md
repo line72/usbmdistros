@@ -4,7 +4,7 @@ album: Sombre Iconoclasm
 artist: Hurusoma
 categories:
 - CD
-date: '2023-07-18T17:26:21'
+date: '2023-07-27T05:54:06'
 draft: false
 images:
 - /images/covers/hurusoma-sombre_iconoclasm.jpg

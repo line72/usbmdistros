@@ -5,7 +5,7 @@ artist: Mystifier
 categories:
 - Vinyl
 - CD
-date: '2023-06-20T06:37:15'
+date: '2023-07-27T05:50:15'
 draft: false
 images:
 - /images/covers/mystifier-wicca.jpg

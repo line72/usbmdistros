@@ -4,7 +4,7 @@ album: Typhonian Wormholes
 artist: Tetragrammacide
 categories:
 - Vinyl
-date: '2023-04-27T05:13:24'
+date: '2023-07-27T05:51:21'
 draft: false
 images:
 - /images/covers/tetragrammacide-typhonian_wormholes.jpg
@@ -18,3 +18,4 @@ title: Tetragrammacide - Typhonian Wormholes
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=32649&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=33154&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=33458&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=37426&sort=pd.name&order=ASC) for $25.00

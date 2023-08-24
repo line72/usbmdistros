@@ -4,7 +4,7 @@ album: "\u0427\u0451\u0440\u043D\u0430\u044F \u041C\u043E\u044F"
 artist: Volkolak
 categories:
 - CD
-date: '2023-04-27T05:13:53'
+date: '2023-07-27T05:55:55'
 draft: false
 images:
 - "/images/covers/volkolak-\u0447\u0451\u0440\u043D\u0430\u044F_\u043C\u043E\u044F\

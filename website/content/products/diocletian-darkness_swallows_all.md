@@ -5,7 +5,7 @@ artist: Diocletian
 categories:
 - Vinyl
 - CD
-date: '2023-04-27T05:13:37'
+date: '2023-08-21T07:37:08'
 draft: false
 images:
 - /images/covers/diocletian-darkness_swallows_all.jpg
@@ -24,3 +24,4 @@ title: Diocletian - Darkness Swallows All
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=14464&sort=pd.name&order=ASC) for $10.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=31498&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=38629&sort=pd.name&order=ASC) for $15.00

@@ -5,7 +5,7 @@ artist: Abhorrency
 categories:
 - Cassette
 - CD
-date: '2023-06-12T07:54:21'
+date: '2023-07-27T05:52:45'
 draft: false
 images:
 - /images/covers/abhorrency-climax_of_disgusting_impurities.jpg

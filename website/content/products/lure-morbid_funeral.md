@@ -4,7 +4,7 @@ album: Morbid Funeral
 artist: Lure
 categories:
 - Vinyl
-date: '2023-05-20T05:15:13'
+date: '2023-07-27T05:49:48'
 draft: false
 images:
 - /images/covers/lure-morbid_funeral.jpg

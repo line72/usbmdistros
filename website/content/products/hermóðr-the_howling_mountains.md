@@ -5,7 +5,7 @@ artist: "Herm\xF3\xF0r"
 categories:
 - Vinyl
 - CD
-date: '2023-07-18T17:25:41'
+date: '2023-07-27T05:54:02'
 draft: false
 images:
 - "/images/covers/herm\xF3\xF0r-the_howling_mountains.jpg"

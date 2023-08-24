@@ -4,7 +4,7 @@ album: Met de Drietand op Mijn Huid
 artist: Aerdryk
 categories:
 - Vinyl
-date: '2023-04-27T05:13:02'
+date: '2023-07-27T05:47:28'
 draft: false
 images:
 - /images/covers/aerdryk-met_de_drietand_op_mijn_huid.jpg

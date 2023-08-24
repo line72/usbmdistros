@@ -4,7 +4,7 @@ album: Death Monolith
 artist: Subduer
 categories:
 - Vinyl
-date: '2023-04-27T05:13:23'
+date: '2023-07-27T05:51:15'
 draft: false
 images:
 - /images/covers/subduer-death_monolith.jpg

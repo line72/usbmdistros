@@ -5,7 +5,7 @@ artist: Odour Of Death
 categories:
 - Vinyl
 - CD
-date: '2023-04-27T05:13:47'
+date: '2023-07-27T05:50:29'
 draft: false
 images:
 - /images/covers/odour_of_death-in_search_of_eternal_darkness.jpg

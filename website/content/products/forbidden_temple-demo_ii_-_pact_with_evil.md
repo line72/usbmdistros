@@ -4,7 +4,7 @@ album: Demo II / Pact With Evil
 artist: Forbidden Temple
 categories:
 - Vinyl
-date: '2023-07-18T16:15:01'
+date: '2023-07-27T05:48:55'
 draft: false
 images:
 - /images/covers/forbidden_temple-demo_ii_-_pact_with_evil.png

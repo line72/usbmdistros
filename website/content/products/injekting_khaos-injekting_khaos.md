@@ -4,7 +4,7 @@ album: Injekting Khaos
 artist: Injekting Khaos
 categories:
 - Vinyl
-date: '2023-04-27T05:13:14'
+date: '2023-07-27T05:49:30'
 draft: false
 images:
 - /images/covers/injekting_khaos-injekting_khaos.jpg

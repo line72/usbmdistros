@@ -4,7 +4,7 @@ album: Live Decay Roadburn Rites 2012
 artist: Nachtmystium
 categories:
 - CD
-date: '2023-04-27T05:13:45'
+date: '2023-07-27T05:54:44'
 draft: false
 images:
 - /images/covers/nachtmystium-live_decay_roadburn_rites_2012.jpg

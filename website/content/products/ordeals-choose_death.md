@@ -4,7 +4,7 @@ album: Choose Death
 artist: Ordeals
 categories:
 - Vinyl
-date: '2023-04-27T05:13:31'
+date: '2023-07-27T05:52:29'
 draft: false
 images:
 - /images/covers/ordeals-choose_death.jpg

@@ -4,7 +4,7 @@ album: Heavy Metal Heretics on Stage
 artist: Morningstar
 categories:
 - CD
-date: '2023-04-27T05:13:45'
+date: '2023-07-27T05:54:40'
 draft: false
 images:
 - /images/covers/morningstar-heavy_metal_heretics_on_stage.jpg

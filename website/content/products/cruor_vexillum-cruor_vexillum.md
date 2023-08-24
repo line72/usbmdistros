@@ -4,7 +4,7 @@ album: Cruor Vexillum
 artist: Cruor Vexillum
 categories:
 - Cassette
-date: '2023-04-27T05:13:56'
+date: '2023-07-27T05:56:28'
 draft: false
 images:
 - /images/covers/cruor_vexillum-cruor_vexillum.jpg

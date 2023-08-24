@@ -1,10 +1,10 @@
 ---
-actualPrice: $20.00 - 25.00
+actualPrice: $20.00 - 30.00
 album: Sang Nordique
 artist: Akitsa
 categories:
 - Vinyl
-date: '2023-06-22T05:47:35'
+date: '2023-08-24T16:55:00'
 draft: false
 images:
 - /images/covers/akitsa-sang_nordique.jpg
@@ -21,3 +21,4 @@ title: Akitsa - Sang Nordique
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=32453&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=33716&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=36011&sort=pd.name&order=ASC) for $25.00
+* Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/akitsa-sang-nordique-12/) for $30.00

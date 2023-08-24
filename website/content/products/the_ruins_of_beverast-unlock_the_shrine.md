@@ -4,7 +4,7 @@ album: Unlock The Shrine
 artist: The Ruins Of Beverast
 categories:
 - Vinyl
-date: '2023-04-27T05:13:24'
+date: '2023-07-27T05:51:25'
 draft: false
 images:
 - /images/covers/the_ruins_of_beverast-unlock_the_shrine.jpg

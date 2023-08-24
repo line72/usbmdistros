@@ -4,7 +4,7 @@ album: Pariah
 artist: Naglfar
 categories:
 - Vinyl
-date: '2023-06-08T05:16:12'
+date: '2023-07-27T05:50:16'
 draft: false
 images:
 - /images/covers/naglfar-pariah.jpg

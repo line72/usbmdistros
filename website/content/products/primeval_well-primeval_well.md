@@ -4,7 +4,7 @@ album: Primeval Well
 artist: Primeval Well
 categories:
 - Vinyl
-date: '2023-05-18T05:17:12'
+date: '2023-07-27T05:50:42'
 draft: false
 images:
 - /images/covers/primeval_well-primeval_well.jpg

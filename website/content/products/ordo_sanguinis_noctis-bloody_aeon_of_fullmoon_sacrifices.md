@@ -5,7 +5,7 @@ artist: Ordo Sanguinis Noctis
 categories:
 - Vinyl
 - Cassette
-date: '2023-04-27T05:14:01'
+date: '2023-07-27T05:57:24'
 draft: false
 images:
 - /images/covers/ordo_sanguinis_noctis-bloody_aeon_of_fullmoon_sacrifices.jpg

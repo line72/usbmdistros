@@ -5,7 +5,7 @@ album: "Forbidden Doctrine of the Youthful Gate / Shade of Darkness Casting\u200
 artist: Vengeance Sorcery
 categories:
 - Vinyl
-date: '2023-04-27T05:13:26'
+date: '2023-07-27T05:51:41'
 draft: false
 images:
 - "/images/covers/vengeance_sorcery-forbidden_doctrine_of_the_youthful_gate_-_shade_of_darkness_casting\u200B\

@@ -4,7 +4,7 @@ album: Revelation (The 7th Seal)
 artist: Lord Belial
 categories:
 - Vinyl
-date: '2023-06-17T06:12:35'
+date: '2023-07-27T05:49:45'
 draft: false
 images:
 - /images/covers/lord_belial-revelation_(the_7th_seal).jpg

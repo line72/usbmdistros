@@ -4,7 +4,7 @@ album: Endless Computer
 artist: Expander
 categories:
 - CD
-date: '2023-06-12T08:11:22'
+date: '2023-07-27T05:53:41'
 draft: false
 images:
 - /images/covers/expander-endless_computer.jpg

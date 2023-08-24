@@ -4,7 +4,7 @@ album: Sorrow Galaxies
 artist: "M\xFCtiilation"
 categories:
 - Vinyl
-date: '2023-05-23T05:15:08'
+date: '2023-07-29T06:25:48'
 draft: false
 images:
 - "/images/covers/m\xFCtiilation-sorrow_galaxies.jpg"
@@ -20,3 +20,6 @@ title: "M\xFCtiilation - Sorrow Galaxies"
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=34309&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=34575&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=34925&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=37704&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=37703&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=34927&sort=pd.name&order=ASC) for $25.00

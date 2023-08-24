@@ -4,7 +4,7 @@ album: Loki Bound
 artist: Greed & Rapacity
 categories:
 - Cassette
-date: '2023-04-27T05:13:58'
+date: '2023-07-27T05:56:45'
 draft: false
 images:
 - /images/covers/greed_&_rapacity-loki_bound.png

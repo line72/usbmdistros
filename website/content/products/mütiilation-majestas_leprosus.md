@@ -4,7 +4,7 @@ album: Majestas Leprosus
 artist: "M\xFCtiilation"
 categories:
 - Vinyl
-date: '2023-05-23T05:15:08'
+date: '2023-07-29T06:25:47'
 draft: false
 images:
 - "/images/covers/m\xFCtiilation-majestas_leprosus.jpg"
@@ -20,3 +20,4 @@ title: "M\xFCtiilation - Majestas Leprosus"
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=34306&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=34574&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=34924&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=37705&sort=pd.name&order=ASC) for $25.00

@@ -4,7 +4,7 @@ album: '...Of Rotting Soil and Spine'
 artist: Ctenizidae
 categories:
 - Vinyl
-date: '2023-04-27T05:13:08'
+date: '2023-07-27T05:48:24'
 draft: false
 images:
 - /images/covers/ctenizidae-...of_rotting_soil_and_spine.jpg

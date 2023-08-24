@@ -5,7 +5,7 @@ artist: Seventh Circle
 categories:
 - Cassette
 - CD
-date: '2023-04-27T05:13:49'
+date: '2023-07-27T05:55:24'
 draft: false
 images:
 - /images/covers/seventh_circle-cycle_of_violence.jpg

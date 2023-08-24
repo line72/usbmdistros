@@ -5,7 +5,7 @@ artist: Spiritu Mors
 categories:
 - Vinyl
 - CD
-date: '2023-06-13T07:00:48'
+date: '2023-07-27T05:55:31'
 draft: false
 images:
 - /images/covers/spiritu_mors-voidwards.jpg

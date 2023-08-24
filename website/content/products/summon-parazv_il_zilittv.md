@@ -4,7 +4,7 @@ album: Parazv Il Zilittv
 artist: Summon
 categories:
 - Vinyl
-date: '2023-04-27T05:13:23'
+date: '2023-07-27T05:51:17'
 draft: false
 images:
 - /images/covers/summon-parazv_il_zilittv.jpg

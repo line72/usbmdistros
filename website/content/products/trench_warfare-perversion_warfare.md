@@ -4,7 +4,7 @@ album: Perversion Warfare
 artist: Trench Warfare
 categories:
 - Cassette
-date: '2023-07-18T18:20:24'
+date: '2023-07-27T05:57:50'
 draft: false
 images:
 - /images/covers/trench_warfare-perversion_warfare.jpg

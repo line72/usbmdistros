@@ -4,7 +4,7 @@ album: Ihjelbrent Skatt
 artist: Manes
 categories:
 - Cassette
-date: '2023-05-16T19:27:00'
+date: '2023-07-27T05:57:09'
 draft: false
 images:
 - /images/covers/manes-ihjelbrent_skatt.jpg

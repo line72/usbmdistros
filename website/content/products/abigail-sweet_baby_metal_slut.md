@@ -5,7 +5,7 @@ artist: Abigail
 categories:
 - Vinyl
 - Cassette
-date: '2023-05-21T05:13:44'
+date: '2023-07-27T05:47:25'
 draft: false
 images:
 - /images/covers/abigail-sweet_baby_metal_slut.png

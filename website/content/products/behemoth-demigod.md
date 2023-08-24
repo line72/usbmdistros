@@ -5,7 +5,7 @@ artist: Behemoth
 categories:
 - Vinyl
 - CD
-date: '2023-06-17T09:16:06'
+date: '2023-07-27T05:53:00'
 draft: false
 images:
 - /images/covers/behemoth-demigod.jpg

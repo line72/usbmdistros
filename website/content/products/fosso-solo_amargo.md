@@ -4,7 +4,7 @@ album: Solo Amargo
 artist: Fosso
 categories:
 - CD
-date: '2023-04-27T05:13:39'
+date: '2023-07-27T05:53:45'
 draft: false
 images:
 - /images/covers/fosso-solo_amargo.jpg

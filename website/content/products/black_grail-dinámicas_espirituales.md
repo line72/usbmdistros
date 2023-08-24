@@ -5,7 +5,7 @@ artist: Black Grail
 categories:
 - Vinyl
 - CD
-date: '2023-04-27T05:13:06'
+date: '2023-07-27T05:47:59'
 draft: false
 images:
 - "/images/covers/black_grail-din\xE1micas_espirituales.jpg"

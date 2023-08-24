@@ -4,7 +4,7 @@ album: "Zur sp\xE4ten Stunde | Zeitr\xE4ume"
 artist: Total Negation
 categories:
 - Cassette
-date: '2023-04-27T05:14:04'
+date: '2023-07-27T05:57:49'
 draft: false
 images:
 - "/images/covers/total_negation-zur_sp\xE4ten_stunde_|_zeitr\xE4ume.png"

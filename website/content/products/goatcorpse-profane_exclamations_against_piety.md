@@ -4,7 +4,7 @@ album: Profane Exclamations Against Piety
 artist: Goatcorpse
 categories:
 - Vinyl
-date: '2023-04-27T05:13:30'
+date: '2023-07-27T05:52:17'
 draft: false
 images:
 - /images/covers/goatcorpse-profane_exclamations_against_piety.png

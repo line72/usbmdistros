@@ -5,7 +5,7 @@ artist: Krolok
 categories:
 - Vinyl
 - CD
-date: '2023-05-26T05:30:08'
+date: '2023-07-27T05:49:39'
 draft: false
 images:
 - /images/covers/krolok-at_the_end_of_a_new_age.jpg

@@ -4,7 +4,7 @@ album: Nine Sins
 artist: Besatt
 categories:
 - CD
-date: '2023-04-27T05:13:34'
+date: '2023-07-27T05:53:01'
 draft: false
 images:
 - /images/covers/besatt-nine_sins.png

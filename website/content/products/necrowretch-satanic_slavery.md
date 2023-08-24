@@ -4,7 +4,7 @@ album: Satanic Slavery
 artist: Necrowretch
 categories:
 - Vinyl
-date: '2023-05-01T05:14:34'
+date: '2023-07-27T05:50:20'
 draft: false
 images:
 - /images/covers/necrowretch-satanic_slavery.jpg

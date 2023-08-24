@@ -5,7 +5,7 @@ artist: Fustilarian
 categories:
 - Vinyl
 - CD
-date: '2023-06-12T08:13:14'
+date: '2023-07-27T05:53:47'
 draft: false
 images:
 - /images/covers/fustilarian-all_this_promiscuous_decadence.jpg

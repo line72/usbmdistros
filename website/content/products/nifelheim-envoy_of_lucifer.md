@@ -4,7 +4,7 @@ album: Envoy of Lucifer
 artist: Nifelheim
 categories:
 - CD
-date: '2023-04-27T05:13:46'
+date: '2023-07-27T05:54:51'
 draft: false
 images:
 - /images/covers/nifelheim-envoy_of_lucifer.jpg

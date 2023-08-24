@@ -4,7 +4,7 @@ album: Black Blood Invocation
 artist: Black Blood Invocation
 categories:
 - Vinyl
-date: '2023-04-27T05:13:05'
+date: '2023-07-27T05:47:57'
 draft: false
 images:
 - /images/covers/black_blood_invocation-black_blood_invocation.jpg

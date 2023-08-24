@@ -5,7 +5,7 @@ artist: Grizelda
 categories:
 - Cassette
 - CD
-date: '2023-06-11T07:31:55'
+date: '2023-07-27T05:53:54'
 draft: false
 images:
 - /images/covers/grizelda-a_war_drenched_in_fantasy.png

@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00
+actualPrice: $9.60
 album: Unland Spidercult
 artist: Death Citadel
 categories:
 - CD
-date: '2023-04-27T05:13:36'
+date: '2023-07-25T06:08:32'
 draft: false
 images:
 - /images/covers/death_citadel-unland_spidercult.jpg
@@ -14,4 +14,4 @@ title: Death Citadel - Unland Spidercult
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=32899&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=32899&sort=pd.name&order=ASC) for $9.60

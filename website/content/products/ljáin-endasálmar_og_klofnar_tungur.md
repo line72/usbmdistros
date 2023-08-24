@@ -5,7 +5,7 @@ artist: "Lj\xE1in"
 categories:
 - Vinyl
 - CD
-date: '2023-04-27T05:13:42'
+date: '2023-07-27T05:54:25'
 draft: false
 images:
 - "/images/covers/lj\xE1in-endas\xE1lmar_og_klofnar_tungur.jpg"

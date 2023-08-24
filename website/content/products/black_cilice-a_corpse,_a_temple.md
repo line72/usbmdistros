@@ -5,7 +5,7 @@ artist: Black Cilice
 categories:
 - Vinyl
 - CD
-date: '2023-05-23T05:12:56'
+date: '2023-07-27T05:47:57'
 draft: false
 images:
 - /images/covers/black_cilice-a_corpse,_a_temple.jpg

@@ -4,7 +4,7 @@ album: Nihilistic Warfare in Inhuman Realms
 artist: Uruk
 categories:
 - Cassette
-date: '2023-04-27T05:14:05'
+date: '2023-07-27T05:57:53'
 draft: false
 images:
 - /images/covers/uruk-nihilistic_warfare_in_inhuman_realms.png

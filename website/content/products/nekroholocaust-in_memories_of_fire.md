@@ -4,7 +4,7 @@ album: In Memories of Fire
 artist: Nekroholocaust
 categories:
 - Cassette
-date: '2023-04-27T05:14:01'
+date: '2023-07-27T05:57:16'
 draft: false
 images:
 - /images/covers/nekroholocaust-in_memories_of_fire.png

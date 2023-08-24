@@ -4,7 +4,7 @@ album: Basom Gryphos
 artist: Pestilength
 categories:
 - Cassette
-date: '2023-04-27T05:14:01'
+date: '2023-07-27T05:57:27'
 draft: false
 images:
 - /images/covers/pestilength-basom_gryphos.png

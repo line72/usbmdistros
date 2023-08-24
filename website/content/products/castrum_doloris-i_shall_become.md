@@ -4,7 +4,7 @@ album: I Shall Become
 artist: Castrum Doloris
 categories:
 - Vinyl
-date: '2023-04-27T05:13:29'
+date: '2023-07-27T05:52:08'
 draft: false
 images:
 - /images/covers/castrum_doloris-i_shall_become.jpg

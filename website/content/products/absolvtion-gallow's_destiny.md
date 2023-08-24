@@ -4,7 +4,7 @@ album: Gallow's Destiny
 artist: Absolvtion
 categories:
 - CD
-date: '2023-04-27T05:13:33'
+date: '2023-07-27T05:52:46'
 draft: false
 images:
 - /images/covers/absolvtion-gallow's_destiny.jpg

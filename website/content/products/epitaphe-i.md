@@ -4,7 +4,7 @@ album: I
 artist: Epitaphe
 categories:
 - Vinyl
-date: '2023-04-27T05:13:10'
+date: '2023-07-27T05:48:48'
 draft: false
 images:
 - /images/covers/epitaphe-i.jpg

@@ -4,7 +4,7 @@ album: The Path Of Liberation From Birth And Death
 artist: Njiqahdda
 categories:
 - Vinyl
-date: '2023-04-27T05:13:19'
+date: '2023-07-27T05:50:23'
 draft: false
 images:
 - /images/covers/njiqahdda-the_path_of_liberation_from_birth_and_death.jpg

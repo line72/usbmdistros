@@ -5,7 +5,7 @@ artist: Doombringer
 categories:
 - Vinyl
 - CD
-date: '2023-04-27T05:13:37'
+date: '2023-07-27T05:53:30'
 draft: false
 images:
 - /images/covers/doombringer-walpurgis_fires.jpg

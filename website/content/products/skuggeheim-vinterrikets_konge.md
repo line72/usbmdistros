@@ -4,7 +4,7 @@ album: Vinterrikets Konge
 artist: Skuggeheim
 categories:
 - Vinyl
-date: '2023-07-18T16:43:07'
+date: '2023-07-27T05:51:09'
 draft: false
 images:
 - /images/covers/skuggeheim-vinterrikets_konge.jpg
@@ -17,3 +17,4 @@ title: Skuggeheim - Vinterrikets Konge
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=35322&sort=pd.name&order=ASC) for $28.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=35403&sort=pd.name&order=ASC) for $28.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=36540&sort=pd.name&order=ASC) for $28.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=37486&sort=pd.name&order=ASC) for $28.00

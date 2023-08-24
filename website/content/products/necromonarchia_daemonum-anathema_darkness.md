@@ -5,7 +5,7 @@ artist: Necromonarchia Daemonum
 categories:
 - Vinyl
 - CD
-date: '2023-07-18T16:32:18'
+date: '2023-07-27T05:50:18'
 draft: false
 images:
 - /images/covers/necromonarchia_daemonum-anathema_darkness.png

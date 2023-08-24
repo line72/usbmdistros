@@ -4,7 +4,7 @@ album: Falsa Luz
 artist: Falsa Luz
 categories:
 - Vinyl
-date: '2023-04-27T05:13:29'
+date: '2023-07-27T05:52:16'
 draft: false
 images:
 - /images/covers/falsa_luz-falsa_luz.jpg

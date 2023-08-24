@@ -4,7 +4,7 @@ album: "Otch\u0142anie Ciemno\u015Bci"
 artist: Doomprayer
 categories:
 - CD
-date: '2023-04-27T05:13:37'
+date: '2023-07-27T05:53:31'
 draft: false
 images:
 - "/images/covers/doomprayer-otch\u0142anie_ciemno\u015Bci.jpg"

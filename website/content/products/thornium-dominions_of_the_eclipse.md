@@ -5,7 +5,7 @@ artist: Thornium
 categories:
 - Vinyl
 - CD
-date: '2023-07-18T17:49:34'
+date: '2023-07-27T05:51:27'
 draft: false
 images:
 - /images/covers/thornium-dominions_of_the_eclipse.jpg
@@ -23,5 +23,6 @@ title: Thornium - Dominions Of The Eclipse
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=34146&sort=pd.name&order=ASC) for $30.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=34760&sort=pd.name&order=ASC) for $30.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=36974&sort=pd.name&order=ASC) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=37507&sort=pd.name&order=ASC) for $30.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=36975&sort=pd.name&order=ASC) for $12.00

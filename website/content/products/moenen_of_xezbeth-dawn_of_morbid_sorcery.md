@@ -4,7 +4,7 @@ album: Dawn of Morbid Sorcery
 artist: Moenen of Xezbeth
 categories:
 - Vinyl
-date: '2023-07-18T16:29:02'
+date: '2023-07-27T05:50:03'
 draft: false
 images:
 - /images/covers/moenen_of_xezbeth-dawn_of_morbid_sorcery.png

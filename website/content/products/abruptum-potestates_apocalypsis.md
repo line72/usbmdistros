@@ -4,7 +4,7 @@ album: Potestates Apocalypsis
 artist: Abruptum
 categories:
 - Vinyl
-date: '2023-04-27T05:13:02'
+date: '2023-07-27T05:47:26'
 draft: false
 images:
 - /images/covers/abruptum-potestates_apocalypsis.jpg

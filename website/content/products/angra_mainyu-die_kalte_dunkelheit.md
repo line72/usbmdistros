@@ -5,7 +5,7 @@ artist: Angra Mainyu
 categories:
 - Vinyl
 - CD
-date: '2023-07-18T15:58:40'
+date: '2023-07-27T05:47:36'
 draft: false
 images:
 - /images/covers/angra_mainyu-die_kalte_dunkelheit.jpg

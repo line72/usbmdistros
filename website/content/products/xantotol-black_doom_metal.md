@@ -6,7 +6,7 @@ categories:
 - Vinyl
 - Cassette
 - CD
-date: '2023-06-11T07:59:42'
+date: '2023-07-27T05:56:04'
 draft: false
 images:
 - /images/covers/xantotol-black_doom_metal.jpg

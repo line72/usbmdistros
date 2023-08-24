@@ -4,7 +4,7 @@ album: Obscure Telepathy
 artist: Svartthron
 categories:
 - CD
-date: '2023-04-27T05:13:50'
+date: '2023-07-27T05:55:35'
 draft: false
 images:
 - /images/covers/svartthron-obscure_telepathy.png

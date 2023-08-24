@@ -4,7 +4,7 @@ album: "Martwa Polska Jesie\u0144"
 artist: Furia
 categories:
 - Vinyl
-date: '2023-04-27T05:13:11'
+date: '2023-07-27T05:48:58'
 draft: false
 images:
 - "/images/covers/furia-martwa_polska_jesie\u0144.jpg"

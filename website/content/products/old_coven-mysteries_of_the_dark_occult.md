@@ -5,7 +5,7 @@ artist: Old Coven
 categories:
 - Vinyl
 - Cassette
-date: '2023-06-13T06:44:57'
+date: '2023-07-27T05:50:30'
 draft: false
 images:
 - /images/covers/old_coven-mysteries_of_the_dark_occult.jpg

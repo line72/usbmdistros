@@ -4,7 +4,7 @@ album: Supredator
 artist: Poprava
 categories:
 - CD
-date: '2023-04-27T05:13:47'
+date: '2023-07-27T05:55:05'
 draft: false
 images:
 - /images/covers/poprava-supredator.jpg

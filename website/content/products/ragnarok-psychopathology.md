@@ -4,7 +4,7 @@ album: Psychopathology
 artist: Ragnarok
 categories:
 - Vinyl
-date: '2023-06-17T06:33:29'
+date: '2023-07-27T05:50:45'
 draft: false
 images:
 - /images/covers/ragnarok-psychopathology.jpg

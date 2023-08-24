@@ -4,7 +4,7 @@ album: Reh - 1992/1994
 artist: Lord Of Evil
 categories:
 - Vinyl
-date: '2023-07-18T16:25:28'
+date: '2023-07-27T05:49:45'
 draft: false
 images:
 - /images/covers/lord_of_evil-reh_-_1992-1994.jpg

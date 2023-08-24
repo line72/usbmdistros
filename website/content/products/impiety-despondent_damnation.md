@@ -4,7 +4,7 @@ album: Despondent Damnation
 artist: Impiety
 categories:
 - CD
-date: '2023-06-12T08:18:27'
+date: '2023-07-27T05:54:08'
 draft: false
 images:
 - /images/covers/impiety-despondent_damnation.jpg

@@ -5,7 +5,7 @@ artist: Seven Deadly Sins
 categories:
 - Cassette
 - CD
-date: '2023-06-11T07:50:55'
+date: '2023-07-27T05:55:23'
 draft: false
 images:
 - /images/covers/seven_deadly_sins-welcome_radiation.jpg

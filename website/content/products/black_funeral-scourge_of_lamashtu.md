@@ -5,7 +5,7 @@ artist: Black Funeral
 categories:
 - Vinyl
 - CD
-date: '2023-04-27T05:13:05'
+date: '2023-07-27T05:47:59'
 draft: false
 images:
 - /images/covers/black_funeral-scourge_of_lamashtu.jpg

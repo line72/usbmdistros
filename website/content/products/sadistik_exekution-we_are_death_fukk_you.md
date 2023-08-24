@@ -5,7 +5,7 @@ artist: Sadistik Exekution
 categories:
 - Vinyl
 - CD
-date: '2023-05-18T05:23:03'
+date: '2023-07-27T05:50:56'
 draft: false
 images:
 - /images/covers/sadistik_exekution-we_are_death_fukk_you.jpg
@@ -23,5 +23,6 @@ title: Sadistik Exekution - We Are Death Fukk You
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=33594&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=34303&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=34532&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=37437&sort=pd.name&order=ASC) for $25.00
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=34630&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=34630&sort=pd.name&order=ASC) for $12.00

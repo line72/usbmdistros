@@ -4,7 +4,7 @@ album: Innlemmet I Moerke
 artist: Jammerskrik
 categories:
 - Vinyl
-date: '2023-04-27T05:13:14'
+date: '2023-07-27T05:49:33'
 draft: false
 images:
 - /images/covers/jammerskrik-innlemmet_i_moerke.jpg

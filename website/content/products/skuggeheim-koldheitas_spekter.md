@@ -4,7 +4,7 @@ album: Koldheitas Spekter
 artist: Skuggeheim
 categories:
 - Vinyl
-date: '2023-07-18T16:43:07'
+date: '2023-07-27T05:51:09'
 draft: false
 images:
 - /images/covers/skuggeheim-koldheitas_spekter.jpg
@@ -17,3 +17,4 @@ title: Skuggeheim - Koldheitas Spekter
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=35321&sort=pd.name&order=ASC) for $28.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=35401&sort=pd.name&order=ASC) for $28.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=36538&sort=pd.name&order=ASC) for $28.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=37485&sort=pd.name&order=ASC) for $28.00

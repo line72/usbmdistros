@@ -4,7 +4,7 @@ album: Black Flames Of Blasphemy
 artist: Mortuary Drape
 categories:
 - Vinyl
-date: '2023-06-14T07:35:07'
+date: '2023-07-27T05:52:25'
 draft: false
 images:
 - /images/covers/mortuary_drape-black_flames_of_blasphemy.jpg

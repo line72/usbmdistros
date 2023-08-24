@@ -5,7 +5,7 @@ artist: Anal Vomit
 categories:
 - Vinyl
 - CD
-date: '2023-04-27T05:13:33'
+date: '2023-07-27T05:52:51'
 draft: false
 images:
 - /images/covers/anal_vomit-depravation.jpg

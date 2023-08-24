@@ -4,7 +4,7 @@ album: Triumph. Genocide. Antichrist
 artist: Revenge
 categories:
 - CD
-date: '2023-05-18T05:22:56'
+date: '2023-07-27T05:55:13'
 draft: false
 images:
 - /images/covers/revenge-triumph._genocide._antichrist.jpg

@@ -6,7 +6,7 @@ categories:
 - Vinyl
 - Cassette
 - CD
-date: '2023-07-18T18:24:24'
+date: '2023-07-27T05:49:08'
 draft: false
 images:
 - /images/covers/graveland-following_the_voice_of_blood.jpg

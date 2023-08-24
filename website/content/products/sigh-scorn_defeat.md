@@ -4,7 +4,7 @@ album: Scorn Defeat
 artist: Sigh
 categories:
 - Vinyl
-date: '2023-06-14T07:07:38'
+date: '2023-07-27T05:51:07'
 draft: false
 images:
 - /images/covers/sigh-scorn_defeat.jpg

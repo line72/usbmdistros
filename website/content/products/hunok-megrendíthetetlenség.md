@@ -4,7 +4,7 @@ album: "Megrend\xEDthetetlens\xE9g"
 artist: Hunok
 categories:
 - Vinyl
-date: '2023-04-27T05:13:13'
+date: '2023-07-27T05:49:22'
 draft: false
 images:
 - "/images/covers/hunok-megrend\xEDthetetlens\xE9g.jpg"

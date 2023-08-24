@@ -4,7 +4,7 @@ album: Isle of Men
 artist: In The Woods...
 categories:
 - Vinyl
-date: '2023-06-15T07:10:24'
+date: '2023-07-27T05:49:27'
 draft: false
 images:
 - /images/covers/in_the_woods...-isle_of_men.jpg
@@ -17,3 +17,4 @@ title: In The Woods... - Isle of Men
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=34125&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=34758&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=35753&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=37517&sort=pd.name&order=ASC) for $25.00

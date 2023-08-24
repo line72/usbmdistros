@@ -4,7 +4,7 @@ album: Rites of Transvaluation
 artist: Ignis Gehenna
 categories:
 - CD
-date: '2023-04-27T05:13:41'
+date: '2023-07-27T05:54:07'
 draft: false
 images:
 - /images/covers/ignis_gehenna-rites_of_transvaluation.jpg

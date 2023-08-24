@@ -5,7 +5,7 @@ artist: Finis
 categories:
 - Vinyl
 - CD
-date: '2023-04-27T05:13:38'
+date: '2023-07-27T05:53:43'
 draft: false
 images:
 - /images/covers/finis-visions_of_doom.jpg

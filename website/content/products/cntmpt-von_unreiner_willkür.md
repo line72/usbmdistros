@@ -5,7 +5,7 @@ artist: CNTMPT
 categories:
 - Vinyl
 - Cassette
-date: '2023-04-27T05:13:56'
+date: '2023-07-27T05:56:26'
 draft: false
 images:
 - "/images/covers/cntmpt-von_unreiner_willk\xFCr.jpg"

@@ -4,7 +4,7 @@ album: Scars
 artist: Hate Meditation
 categories:
 - CD
-date: '2023-04-27T05:13:40'
+date: '2023-07-27T05:53:58'
 draft: false
 images:
 - /images/covers/hate_meditation-scars.jpg

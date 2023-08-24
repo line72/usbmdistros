@@ -4,7 +4,7 @@ album: The Return Of Pure Filth & Mayhem/Beer Bandits
 artist: Blizzard
 categories:
 - Vinyl
-date: '2023-04-27T05:13:28'
+date: '2023-07-27T05:52:06'
 draft: false
 images:
 - /images/covers/blizzard-the_return_of_pure_filth_&_mayhem-beer_bandits.jpg

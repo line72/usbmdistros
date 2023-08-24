@@ -4,7 +4,7 @@ album: Vor Tru
 artist: Fjord
 categories:
 - CD
-date: '2023-04-27T05:13:38'
+date: '2023-07-27T05:53:43'
 draft: false
 images:
 - /images/covers/fjord-vor_tru.jpg

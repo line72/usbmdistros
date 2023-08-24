@@ -4,7 +4,7 @@ album: In Battle
 artist: In Battle
 categories:
 - Vinyl
-date: '2023-05-20T05:14:50'
+date: '2023-07-27T05:49:26'
 draft: false
 images:
 - /images/covers/in_battle-in_battle.jpg

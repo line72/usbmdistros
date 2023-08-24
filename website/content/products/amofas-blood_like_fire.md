@@ -4,7 +4,7 @@ album: Blood Like Fire
 artist: Amofas
 categories:
 - Vinyl
-date: '2023-04-27T05:13:28'
+date: '2023-07-27T05:52:02'
 draft: false
 images:
 - /images/covers/amofas-blood_like_fire.jpg

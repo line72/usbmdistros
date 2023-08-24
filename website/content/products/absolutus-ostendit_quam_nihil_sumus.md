@@ -4,7 +4,7 @@ album: Ostendit Quam Nihil Sumus
 artist: Absolutus
 categories:
 - CD
-date: '2023-04-27T05:13:33'
+date: '2023-07-27T05:52:46'
 draft: false
 images:
 - /images/covers/absolutus-ostendit_quam_nihil_sumus.jpg

@@ -5,7 +5,7 @@ artist: Sartegos
 categories:
 - Vinyl
 - Cassette
-date: '2023-04-27T05:14:03'
+date: '2023-07-27T05:57:35'
 draft: false
 images:
 - /images/covers/sartegos-o_sangue_da_noite.jpg

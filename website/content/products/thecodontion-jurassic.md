@@ -4,7 +4,7 @@ album: Jurassic
 artist: Thecodontion
 categories:
 - Cassette
-date: '2023-04-27T05:14:04'
+date: '2023-07-27T05:57:47'
 draft: false
 images:
 - /images/covers/thecodontion-jurassic.png

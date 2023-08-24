@@ -4,7 +4,7 @@ album: Atavistic Darkness
 artist: Triumphal Vengeance
 categories:
 - Cassette
-date: '2023-04-27T05:14:04'
+date: '2023-07-27T05:57:50'
 draft: false
 images:
 - /images/covers/triumphal_vengeance-atavistic_darkness.jpg

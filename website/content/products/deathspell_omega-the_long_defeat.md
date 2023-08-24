@@ -5,7 +5,7 @@ artist: Deathspell Omega
 categories:
 - Vinyl
 - CD
-date: '2023-04-27T05:13:08'
+date: '2023-08-12T06:02:32'
 draft: false
 images:
 - /images/covers/deathspell_omega-the_long_defeat.png
@@ -20,6 +20,7 @@ title: Deathspell Omega - The Long Defeat
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=25806&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29533&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=32377&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=38193&sort=pd.name&order=ASC) for $20.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=21917&sort=pd.name&order=ASC) for $15.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=23361&sort=pd.name&order=ASC) for $15.00

@@ -5,7 +5,7 @@ artist: Perverted Ceremony
 categories:
 - Vinyl
 - Cassette
-date: '2023-07-18T16:36:36'
+date: '2023-07-27T05:50:38'
 draft: false
 images:
 - "/images/covers/perverted_ceremony-sabbat_of_beheza\xEBl.jpg"

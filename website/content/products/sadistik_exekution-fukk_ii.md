@@ -5,7 +5,7 @@ artist: Sadistik Exekution
 categories:
 - Vinyl
 - CD
-date: '2023-05-18T05:23:03'
+date: '2023-07-27T05:55:17'
 draft: false
 images:
 - /images/covers/sadistik_exekution-fukk_ii.jpg

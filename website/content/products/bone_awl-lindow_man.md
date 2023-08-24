@@ -4,7 +4,7 @@ album: Lindow Man
 artist: Bone Awl
 categories:
 - Vinyl
-date: '2023-04-27T05:13:29'
+date: '2023-07-27T05:52:07'
 draft: false
 images:
 - /images/covers/bone_awl-lindow_man.jpg

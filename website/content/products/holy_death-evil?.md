@@ -4,7 +4,7 @@ album: Evil?
 artist: Holy Death
 categories:
 - Vinyl
-date: '2023-04-27T05:13:13'
+date: '2023-07-27T05:49:21'
 draft: false
 images:
 - /images/covers/holy_death-evil?.jpg

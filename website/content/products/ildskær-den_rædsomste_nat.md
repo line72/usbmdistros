@@ -4,7 +4,7 @@ album: "Den R\xE6dsomste Nat"
 artist: "Ildsk\xE6r"
 categories:
 - Vinyl
-date: '2023-07-18T16:21:15'
+date: '2023-07-27T05:49:24'
 draft: false
 images:
 - "/images/covers/ildsk\xE6r-den_r\xE6dsomste_nat.png"

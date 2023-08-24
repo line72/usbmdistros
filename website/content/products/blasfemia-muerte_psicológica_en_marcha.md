@@ -4,7 +4,7 @@ album: "Muerte Psicol\xF3gica en Marcha"
 artist: Blasfemia
 categories:
 - Vinyl
-date: '2023-04-27T05:13:06'
+date: '2023-07-27T05:48:01'
 draft: false
 images:
 - "/images/covers/blasfemia-muerte_psicol\xF3gica_en_marcha.jpg"

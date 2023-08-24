@@ -4,7 +4,7 @@ album: Eternal Nuklear Violation
 artist: Acral Necrosis
 categories:
 - CD
-date: '2023-04-27T05:13:33'
+date: '2023-07-27T05:52:47'
 draft: false
 images:
 - /images/covers/acral_necrosis-eternal_nuklear_violation.jpg

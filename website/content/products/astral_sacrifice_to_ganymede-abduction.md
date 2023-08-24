@@ -4,7 +4,7 @@ album: Abduction
 artist: Astral Sacrifice to Ganymede
 categories:
 - Cassette
-date: '2023-04-27T05:13:55'
+date: '2023-07-27T05:56:15'
 draft: false
 images:
 - /images/covers/astral_sacrifice_to_ganymede-abduction.jpg

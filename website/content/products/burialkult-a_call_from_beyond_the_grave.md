@@ -4,7 +4,7 @@ album: A Call From Beyond the Grave
 artist: Burialkult
 categories:
 - Vinyl
-date: '2023-04-27T05:13:06'
+date: '2023-07-27T05:48:08'
 draft: false
 images:
 - /images/covers/burialkult-a_call_from_beyond_the_grave.jpg

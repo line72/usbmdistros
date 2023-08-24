@@ -5,7 +5,7 @@ artist: "H\xE4sslig"
 categories:
 - Vinyl
 - Cassette
-date: '2023-05-04T05:25:24'
+date: '2023-07-27T05:56:48'
 draft: false
 images:
 - "/images/covers/h\xE4sslig-deathlust.jpg"

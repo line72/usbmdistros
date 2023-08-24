@@ -4,7 +4,7 @@ album: Flowers
 artist: Godblood
 categories:
 - Vinyl
-date: '2023-05-21T05:15:25'
+date: '2023-07-27T05:49:05'
 draft: false
 images:
 - /images/covers/godblood-flowers.jpg

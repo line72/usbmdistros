@@ -4,7 +4,7 @@ album: Fas-Ite Maledicti In Ignem Aeternum
 artist: Deathspell Omega
 categories:
 - Vinyl
-date: '2023-06-12T06:08:49'
+date: '2023-07-27T05:48:32'
 draft: false
 images:
 - /images/covers/deathspell_omega-fas-ite_maledicti_in_ignem_aeternum.jpg

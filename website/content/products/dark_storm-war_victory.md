@@ -4,7 +4,7 @@ album: War Victory
 artist: Dark Storm
 categories:
 - CD
-date: '2023-04-27T05:13:36'
+date: '2023-07-27T05:53:19'
 draft: false
 images:
 - /images/covers/dark_storm-war_victory.jpg

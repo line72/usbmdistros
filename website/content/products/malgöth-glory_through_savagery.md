@@ -5,7 +5,7 @@ artist: "Malg\xF6th"
 categories:
 - Vinyl
 - CD
-date: '2023-04-27T05:13:16'
+date: '2023-07-27T05:49:51'
 draft: false
 images:
 - "/images/covers/malg\xF6th-glory_through_savagery.jpg"

@@ -4,7 +4,7 @@ album: A Parade of Horribles
 artist: Blinding Sun
 categories:
 - Vinyl
-date: '2023-04-27T05:13:06'
+date: '2023-07-27T05:48:02'
 draft: false
 images:
 - /images/covers/blinding_sun-a_parade_of_horribles.jpg

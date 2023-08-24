@@ -4,7 +4,7 @@ album: The List
 artist: Axis of Advance
 categories:
 - Vinyl
-date: '2023-04-27T05:13:04'
+date: '2023-07-27T05:47:45'
 draft: false
 images:
 - /images/covers/axis_of_advance-the_list.jpg

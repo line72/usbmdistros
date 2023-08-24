@@ -4,7 +4,7 @@ album: Alte Welten
 artist: Nagelfar
 categories:
 - Vinyl
-date: '2023-06-22T06:25:05'
+date: '2023-07-27T05:50:16'
 draft: false
 images:
 - /images/covers/nagelfar-alte_welten.jpg

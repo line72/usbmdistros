@@ -5,7 +5,7 @@ artist: Arna
 categories:
 - Vinyl
 - CD
-date: '2023-04-27T05:13:04'
+date: '2023-07-27T05:47:39'
 draft: false
 images:
 - /images/covers/arna-dragged_to_a_lunar_grave.jpg

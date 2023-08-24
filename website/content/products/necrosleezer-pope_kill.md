@@ -5,7 +5,7 @@ artist: Necrosleezer
 categories:
 - Vinyl
 - Cassette
-date: '2023-05-16T20:20:40'
+date: '2023-07-27T05:50:19'
 draft: false
 images:
 - /images/covers/necrosleezer-pope_kill.jpg

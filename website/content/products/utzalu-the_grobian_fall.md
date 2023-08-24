@@ -6,7 +6,7 @@ categories:
 - Vinyl
 - Cassette
 - CD
-date: '2023-07-20T07:39:36'
+date: '2023-08-17T05:05:13'
 draft: false
 images:
 - /images/covers/utzalu-the_grobian_fall.jpg
@@ -17,6 +17,7 @@ title: Utzalu - The Grobian Fall
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=37175&sort=pd.name&order=ASC) for $40.00
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/utzalu-the-grobian-fall-12-lp) for $37.00
 ## Cassette
 * Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/36042061-utzalu-the-grobian-fall) for $9.00
 ## CD

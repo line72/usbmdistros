@@ -4,7 +4,7 @@ album: "N\xE4chtlich"
 artist: "N\xE4chtlich"
 categories:
 - CD
-date: '2023-06-05T05:21:21'
+date: '2023-07-27T05:54:44'
 draft: false
 images:
 - "/images/covers/n\xE4chtlich-n\xE4chtlich.jpg"

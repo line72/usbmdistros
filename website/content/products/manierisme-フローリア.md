@@ -4,7 +4,7 @@ album: "\u30D5\u30ED\u30FC\u30EA\u30A2"
 artist: Manierisme
 categories:
 - Vinyl
-date: '2023-07-18T16:26:55'
+date: '2023-07-27T05:49:53'
 draft: false
 images:
 - "/images/covers/manierisme-\u30D5\u30ED\u30FC\u30EA\u30A2.jpg"

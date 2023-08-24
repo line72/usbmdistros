@@ -4,7 +4,7 @@ album: Kronet Til Konge
 artist: Dodheimsgard
 categories:
 - Vinyl
-date: '2023-07-18T16:11:28'
+date: '2023-07-27T05:48:39'
 draft: false
 images:
 - /images/covers/dodheimsgard-kronet_til_konge.png

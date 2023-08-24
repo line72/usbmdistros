@@ -4,7 +4,7 @@ album: "Myst\xE9rion T\xE9s Anomias"
 artist: Ofermod
 categories:
 - Vinyl
-date: '2023-04-27T05:13:19'
+date: '2023-07-27T05:50:29'
 draft: false
 images:
 - "/images/covers/ofermod-myst\xE9rion_t\xE9s_anomias.jpg"

@@ -4,7 +4,7 @@ album: Whoredom Rife
 artist: Whoredom Rife
 categories:
 - Vinyl
-date: '2023-06-22T07:09:44'
+date: '2023-07-27T05:51:52'
 draft: false
 images:
 - /images/covers/whoredom_rife-whoredom_rife.png

@@ -4,7 +4,7 @@ album: Thorns of Centuries Unfold
 artist: Korp
 categories:
 - CD
-date: '2023-04-27T05:13:42'
+date: '2023-07-27T05:54:22'
 draft: false
 images:
 - /images/covers/korp-thorns_of_centuries_unfold.jpg

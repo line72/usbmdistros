@@ -1,12 +1,12 @@
 ---
-actualPrice: $12.00 - 25.00
+actualPrice: $10.40 - 25.00
 album: 'Moloch: Acid Orgy'
 artist: Naked Whipper
 categories:
 - Vinyl
 - Cassette
 - CD
-date: '2023-06-17T06:21:14'
+date: '2023-07-27T05:50:16'
 draft: false
 images:
 - /images/covers/naked_whipper-moloch:_acid_orgy.jpg
@@ -26,7 +26,7 @@ title: 'Naked Whipper - Moloch: Acid Orgy'
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=35045&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=35866&sort=pd.name&order=ASC) for $25.00
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=33376&sort=pd.name&order=ASC) for $13.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=33376&sort=pd.name&order=ASC) for $10.40
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=22211&sort=pd.name&order=ASC) for $12.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=23521&sort=pd.name&order=ASC) for $12.00

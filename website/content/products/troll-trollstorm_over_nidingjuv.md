@@ -6,7 +6,7 @@ categories:
 - Vinyl
 - Cassette
 - CD
-date: '2023-07-18T16:48:15'
+date: '2023-07-27T05:55:44'
 draft: false
 images:
 - /images/covers/troll-trollstorm_over_nidingjuv.png

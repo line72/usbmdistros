@@ -4,7 +4,7 @@ album: The Parasitic Survival Of The Human Race
 artist: Dodsferd
 categories:
 - Vinyl
-date: '2023-04-27T05:13:09'
+date: '2023-07-27T05:48:40'
 draft: false
 images:
 - /images/covers/dodsferd-the_parasitic_survival_of_the_human_race.jpg

@@ -4,7 +4,7 @@ album: Revelations Beyond Insanity
 artist: Infernal Curse
 categories:
 - Vinyl
-date: '2023-07-18T16:21:55'
+date: '2023-07-27T05:49:28'
 draft: false
 images:
 - /images/covers/infernal_curse-revelations_beyond_insanity.png

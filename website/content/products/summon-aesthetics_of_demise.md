@@ -4,7 +4,7 @@ album: Aesthetics of Demise
 artist: Summon
 categories:
 - Cassette
-date: '2023-04-27T05:14:04'
+date: '2023-07-27T05:57:43'
 draft: false
 images:
 - /images/covers/summon-aesthetics_of_demise.png

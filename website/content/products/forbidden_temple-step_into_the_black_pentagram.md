@@ -6,7 +6,7 @@ categories:
 - Vinyl
 - Cassette
 - CD
-date: '2023-07-18T16:15:02'
+date: '2023-07-27T05:48:55'
 draft: false
 images:
 - /images/covers/forbidden_temple-step_into_the_black_pentagram.jpg

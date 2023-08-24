@@ -4,7 +4,7 @@ album: Death Veneration
 artist: Sargeist
 categories:
 - Vinyl
-date: '2023-05-21T05:17:34'
+date: '2023-07-27T05:50:58'
 draft: false
 images:
 - /images/covers/sargeist-death_veneration.jpg

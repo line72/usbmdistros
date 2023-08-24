@@ -5,7 +5,7 @@ artist: Revenge
 categories:
 - Vinyl
 - CD
-date: '2023-05-18T05:22:56'
+date: '2023-07-27T05:55:12'
 draft: false
 images:
 - /images/covers/revenge-scum.collapse.eradication.jpg

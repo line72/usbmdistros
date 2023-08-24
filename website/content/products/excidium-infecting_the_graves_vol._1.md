@@ -4,7 +4,7 @@ album: Infecting the Graves Vol. 1
 artist: Excidium
 categories:
 - CD
-date: '2023-04-27T05:13:38'
+date: '2023-07-27T05:53:40'
 draft: false
 images:
 - /images/covers/excidium-infecting_the_graves_vol._1.png

@@ -4,7 +4,7 @@ album: Alta Magia
 artist: Tenebrarum
 categories:
 - Vinyl
-date: '2023-04-27T05:13:24'
+date: '2023-07-27T05:51:20'
 draft: false
 images:
 - /images/covers/tenebrarum-alta_magia.png

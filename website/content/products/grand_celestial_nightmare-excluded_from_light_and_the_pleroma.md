@@ -5,7 +5,7 @@ artist: Grand Celestial Nightmare
 categories:
 - Vinyl
 - CD
-date: '2023-07-18T16:17:30'
+date: '2023-07-27T05:49:07'
 draft: false
 images:
 - /images/covers/grand_celestial_nightmare-excluded_from_light_and_the_pleroma.jpg

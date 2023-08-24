@@ -5,7 +5,7 @@ artist: Troll
 categories:
 - Vinyl
 - CD
-date: '2023-07-18T16:48:15'
+date: '2023-07-27T05:51:31'
 draft: false
 images:
 - /images/covers/troll-drep_de_kristne.jpg

@@ -4,7 +4,7 @@ album: 'Cosmoprism: The Theurgy - Act I'
 artist: Tome of the Unreplenished
 categories:
 - Vinyl
-date: '2023-04-27T05:13:25'
+date: '2023-07-27T05:51:29'
 draft: false
 images:
 - /images/covers/tome_of_the_unreplenished-cosmoprism:_the_theurgy_-_act_i.jpg

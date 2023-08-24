@@ -4,7 +4,7 @@ album: Providentia
 artist: Awe
 categories:
 - CD
-date: '2023-04-27T05:13:34'
+date: '2023-07-27T05:52:57'
 draft: false
 images:
 - /images/covers/awe-providentia.jpg

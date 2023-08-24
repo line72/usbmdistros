@@ -4,7 +4,7 @@ album: Imperium Magnum Infernalis
 artist: Mord
 categories:
 - Vinyl
-date: '2023-07-18T16:29:51'
+date: '2023-07-27T05:50:08'
 draft: false
 images:
 - /images/covers/mord-imperium_magnum_infernalis.jpg

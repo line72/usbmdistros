@@ -5,7 +5,7 @@ artist: Abigorum
 categories:
 - Vinyl
 - CD
-date: '2023-04-27T05:13:32'
+date: '2023-07-27T05:52:45'
 draft: false
 images:
 - /images/covers/abigorum-vergessene_stille.jpg

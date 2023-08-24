@@ -5,7 +5,7 @@ artist: Ill Omen
 categories:
 - Vinyl
 - CD
-date: '2023-04-27T05:13:41'
+date: '2023-07-27T05:54:07'
 draft: false
 images:
 - /images/covers/ill_omen-the_grande_usurper.jpg

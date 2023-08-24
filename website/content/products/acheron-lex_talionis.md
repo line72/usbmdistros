@@ -6,7 +6,7 @@ categories:
 - Vinyl
 - Cassette
 - CD
-date: '2023-07-18T17:06:17'
+date: '2023-07-27T05:52:47'
 draft: false
 images:
 - /images/covers/acheron-lex_talionis.jpg

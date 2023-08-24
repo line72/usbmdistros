@@ -4,7 +4,7 @@ album: Forever Bound to Nothingness
 artist: Desolation Triumphalis
 categories:
 - Vinyl
-date: '2023-06-16T06:00:55'
+date: '2023-07-27T05:48:35'
 draft: false
 images:
 - /images/covers/desolation_triumphalis-forever_bound_to_nothingness.jpg

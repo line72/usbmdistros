@@ -5,7 +5,7 @@ artist: Drowning The Light
 categories:
 - Vinyl
 - CD
-date: '2023-06-05T05:01:01'
+date: '2023-07-27T05:48:43'
 draft: false
 images:
 - /images/covers/drowning_the_light-through_the_noose_of_existence.jpg
@@ -17,5 +17,6 @@ title: Drowning The Light - Through the Noose of Existence
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=34968&sort=pd.name&order=ASC) for $25.00
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/drowning-the-light-through-the-noose-of-existence-12-lp) for $26.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=37357&sort=pd.name&order=ASC) for $25.00
 ## CD
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/drowning-the-light-through-the-noose-of-existence-cd) for $14.00

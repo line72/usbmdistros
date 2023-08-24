@@ -5,7 +5,7 @@ artist: Xibalba
 categories:
 - Vinyl
 - CD
-date: '2023-06-12T07:32:01'
+date: '2023-07-27T05:56:05'
 draft: false
 images:
 - /images/covers/xibalba-ancients.png

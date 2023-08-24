@@ -4,7 +4,7 @@ album: Phantom der Nacht
 artist: Moribund
 categories:
 - Vinyl
-date: '2023-04-27T05:13:30'
+date: '2023-07-27T05:52:25'
 draft: false
 images:
 - /images/covers/moribund-phantom_der_nacht.png

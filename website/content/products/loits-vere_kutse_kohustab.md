@@ -4,7 +4,7 @@ album: Vere Kutse Kohustab
 artist: Loits
 categories:
 - Vinyl
-date: '2023-06-22T06:17:12'
+date: '2023-07-27T05:49:44'
 draft: false
 images:
 - /images/covers/loits-vere_kutse_kohustab.jpg

@@ -4,7 +4,7 @@ album: Your Death is our Triumph
 artist: Bewail
 categories:
 - Cassette
-date: '2023-04-27T05:13:55'
+date: '2023-07-27T05:56:19'
 draft: false
 images:
 - /images/covers/bewail-your_death_is_our_triumph.jpg

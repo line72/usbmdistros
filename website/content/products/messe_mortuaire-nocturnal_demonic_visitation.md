@@ -4,7 +4,7 @@ album: Nocturnal Demonic Visitation
 artist: Messe Mortuaire
 categories:
 - Vinyl
-date: '2023-06-12T06:37:36'
+date: '2023-07-27T05:50:00'
 draft: false
 images:
 - /images/covers/messe_mortuaire-nocturnal_demonic_visitation.jpg

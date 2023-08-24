@@ -4,7 +4,7 @@ album: Omnio
 artist: In The Woods...
 categories:
 - Vinyl
-date: '2023-05-20T05:14:51'
+date: '2023-07-27T05:49:27'
 draft: false
 images:
 - /images/covers/in_the_woods...-omnio.jpg

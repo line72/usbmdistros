@@ -4,7 +4,7 @@ album: Sviga Lae
 artist: Arckanum
 categories:
 - CD
-date: '2023-05-02T05:17:29'
+date: '2023-07-27T05:52:53'
 draft: false
 images:
 - /images/covers/arckanum-sviga_lae.jpg

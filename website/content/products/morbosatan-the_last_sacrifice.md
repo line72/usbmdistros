@@ -4,7 +4,7 @@ album: The Last Sacrifice
 artist: Morbosatan
 categories:
 - Vinyl
-date: '2023-04-27T05:13:30'
+date: '2023-07-27T05:52:25'
 draft: false
 images:
 - /images/covers/morbosatan-the_last_sacrifice.jpg

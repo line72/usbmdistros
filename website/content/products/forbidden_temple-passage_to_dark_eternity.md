@@ -4,7 +4,7 @@ album: Passage to Dark Eternity
 artist: Forbidden Temple
 categories:
 - Vinyl
-date: '2023-07-18T16:58:49'
+date: '2023-07-27T05:52:16'
 draft: false
 images:
 - /images/covers/forbidden_temple-passage_to_dark_eternity.jpg

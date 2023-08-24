@@ -4,7 +4,7 @@ album: IX
 artist: Bulldozer
 categories:
 - Cassette
-date: '2023-04-27T05:13:56'
+date: '2023-08-16T07:42:10'
 draft: false
 images:
 - /images/covers/bulldozer-ix.jpg
@@ -18,3 +18,4 @@ title: Bulldozer - IX
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=24093&sort=pd.name&order=ASC) for $20.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=25215&sort=pd.name&order=ASC) for $12.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=26387&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=38423&sort=pd.name&order=ASC) for $12.00

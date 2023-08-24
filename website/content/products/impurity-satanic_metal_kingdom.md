@@ -5,7 +5,7 @@ artist: Impurity
 categories:
 - Vinyl
 - CD
-date: '2023-04-27T05:13:41'
+date: '2023-07-27T05:54:09'
 draft: false
 images:
 - /images/covers/impurity-satanic_metal_kingdom.jpg

@@ -4,7 +4,7 @@ album: Spit on the Holy Grail
 artist: Master of Cruelty
 categories:
 - Vinyl
-date: '2023-04-27T05:13:16'
+date: '2023-07-27T05:49:56'
 draft: false
 images:
 - /images/covers/master_of_cruelty-spit_on_the_holy_grail.jpg

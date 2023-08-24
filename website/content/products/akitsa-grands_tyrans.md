@@ -1,10 +1,10 @@
 ---
-actualPrice: $16.00 - 20.00
+actualPrice: $16.00 - 28.00
 album: Grands Tyrans
 artist: Akitsa
 categories:
 - Vinyl
-date: '2023-06-22T05:47:35'
+date: '2023-08-24T16:55:00'
 draft: false
 images:
 - /images/covers/akitsa-grands_tyrans.jpg
@@ -21,3 +21,4 @@ title: Akitsa - Grands Tyrans
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=32451&sort=pd.name&order=ASC) for $20.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=33714&sort=pd.name&order=ASC) for $20.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=36009&sort=pd.name&order=ASC) for $20.00
+* Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/akitsa-grands-tyrans-12-lp-clear-with-blue-and-black-splatter/) for $28.00

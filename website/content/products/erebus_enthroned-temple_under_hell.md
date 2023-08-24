@@ -4,7 +4,7 @@ album: Temple Under Hell
 artist: Erebus Enthroned
 categories:
 - CD
-date: '2023-04-27T05:13:38'
+date: '2023-07-27T05:53:37'
 draft: false
 images:
 - /images/covers/erebus_enthroned-temple_under_hell.jpg

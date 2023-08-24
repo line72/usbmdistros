@@ -4,7 +4,7 @@ album: Monumental Possession
 artist: Dodheimsgard
 categories:
 - Vinyl
-date: '2023-07-18T16:11:29'
+date: '2023-07-27T05:48:40'
 draft: false
 images:
 - /images/covers/dodheimsgard-monumental_possession.jpg

@@ -4,7 +4,7 @@ album: Where None Remain
 artist: Wald Krypta
 categories:
 - Cassette
-date: '2023-04-27T05:14:05'
+date: '2023-07-27T05:57:59'
 draft: false
 images:
 - /images/covers/wald_krypta-where_none_remain.jpg

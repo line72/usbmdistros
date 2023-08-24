@@ -4,7 +4,7 @@ album: Prophecies of Pagan Fire
 artist: Enthroned
 categories:
 - Vinyl
-date: '2023-06-05T05:14:28'
+date: '2023-07-27T05:48:47'
 draft: false
 images:
 - /images/covers/enthroned-prophecies_of_pagan_fire.jpg

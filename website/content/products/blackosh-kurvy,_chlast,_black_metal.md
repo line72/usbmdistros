@@ -5,7 +5,7 @@ artist: Blackosh
 categories:
 - Vinyl
 - Cassette
-date: '2023-04-27T05:13:06'
+date: '2023-07-27T05:48:00'
 draft: false
 images:
 - /images/covers/blackosh-kurvy,_chlast,_black_metal.jpg

@@ -4,7 +4,7 @@ album: PROMETHEUS DISCIPLINE OF FIRE & DEMISE
 artist: Emperor
 categories:
 - Vinyl
-date: '2023-07-18T16:12:51'
+date: '2023-07-27T05:48:46'
 draft: false
 images:
 - /images/covers/emperor-prometheus_discipline_of_fire_&_demise.jpg

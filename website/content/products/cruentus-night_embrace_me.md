@@ -4,7 +4,7 @@ album: Night Embrace Me
 artist: Cruentus
 categories:
 - CD
-date: '2023-04-27T05:13:36'
+date: '2023-07-27T05:53:16'
 draft: false
 images:
 - /images/covers/cruentus-night_embrace_me.png

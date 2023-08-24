@@ -4,7 +4,7 @@ album: Logos
 artist: Antediluvian
 categories:
 - Vinyl
-date: '2023-06-15T06:10:56'
+date: '2023-07-27T05:47:36'
 draft: false
 images:
 - /images/covers/antediluvian-logos.jpg

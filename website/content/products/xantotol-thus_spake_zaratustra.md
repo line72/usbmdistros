@@ -6,7 +6,7 @@ categories:
 - Vinyl
 - Cassette
 - CD
-date: '2023-06-19T10:16:14'
+date: '2023-07-27T05:56:04'
 draft: false
 images:
 - /images/covers/xantotol-thus_spake_zaratustra.jpg

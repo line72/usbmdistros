@@ -4,7 +4,7 @@ album: A Death Gate Cycle
 artist: Heidenreich
 categories:
 - Vinyl
-date: '2023-04-27T05:13:12'
+date: '2023-07-27T05:49:16'
 draft: false
 images:
 - /images/covers/heidenreich-a_death_gate_cycle.jpg

@@ -4,7 +4,7 @@ album: Tilasm
 artist: Scarificare
 categories:
 - CD
-date: '2023-04-27T05:13:49'
+date: '2023-07-27T05:55:22'
 draft: false
 images:
 - /images/covers/scarificare-tilasm.png

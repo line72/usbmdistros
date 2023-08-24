@@ -5,7 +5,7 @@ artist: Dikasterion
 categories:
 - Vinyl
 - CD
-date: '2023-04-27T05:13:37'
+date: '2023-07-27T05:53:27'
 draft: false
 images:
 - /images/covers/dikasterion-mmxviii.jpg

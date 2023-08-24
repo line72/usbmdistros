@@ -4,7 +4,7 @@ album: Vampyric Curse/Spectral Shadows
 artist: Witchmoon
 categories:
 - Vinyl
-date: '2023-05-26T05:32:52'
+date: '2023-07-27T05:51:55'
 draft: false
 images:
 - /images/covers/witchmoon-vampyric_curse-spectral_shadows.jpg

@@ -4,7 +4,7 @@ album: Shemhamforash
 artist: Impaled Nazarene
 categories:
 - Vinyl
-date: '2023-07-18T16:21:29'
+date: '2023-07-27T05:49:25'
 draft: false
 images:
 - /images/covers/impaled_nazarene-shemhamforash.jpg
@@ -20,3 +20,4 @@ title: Impaled Nazarene - Shemhamforash
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=34337&sort=pd.name&order=ASC) for $20.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=34519&sort=pd.name&order=ASC) for $20.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=36547&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=37289&sort=pd.name&order=ASC) for $20.00

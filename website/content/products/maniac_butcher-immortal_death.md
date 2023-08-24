@@ -4,7 +4,7 @@ album: Immortal Death
 artist: Maniac Butcher
 categories:
 - Vinyl
-date: '2023-06-22T06:19:46'
+date: '2023-07-27T05:49:53'
 draft: false
 images:
 - /images/covers/maniac_butcher-immortal_death.jpg

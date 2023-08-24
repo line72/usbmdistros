@@ -4,7 +4,7 @@ album: Black Seed of Bestiality
 artist: CRURIFRAGIUM
 categories:
 - Vinyl
-date: '2023-04-27T05:13:07'
+date: '2023-07-27T05:48:23'
 draft: false
 images:
 - /images/covers/crurifragium-black_seed_of_bestiality.jpg

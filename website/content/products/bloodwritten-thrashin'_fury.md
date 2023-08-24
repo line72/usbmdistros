@@ -4,7 +4,7 @@ album: Thrashin' Fury
 artist: Bloodwritten
 categories:
 - Vinyl
-date: '2023-04-27T05:13:06'
+date: '2023-07-27T05:48:04'
 draft: false
 images:
 - /images/covers/bloodwritten-thrashin'_fury.jpg

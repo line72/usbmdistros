@@ -4,7 +4,7 @@ album: The Ultimate Death Worship
 artist: Limbonic Art
 categories:
 - Vinyl
-date: '2023-07-19T06:17:04'
+date: '2023-07-27T05:49:44'
 draft: false
 images:
 - /images/covers/limbonic_art-the_ultimate_death_worship.jpg

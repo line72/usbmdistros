@@ -5,7 +5,7 @@ artist: Zom
 categories:
 - Vinyl
 - CD
-date: '2023-07-18T16:54:32'
+date: '2023-07-27T05:56:06'
 draft: false
 images:
 - /images/covers/zom-flesh_assimilation.jpg

@@ -4,7 +4,7 @@ album: Skuggorna Kallar
 artist: Skogen
 categories:
 - CD
-date: '2023-04-27T05:13:49'
+date: '2023-07-27T05:55:26'
 draft: false
 images:
 - /images/covers/skogen-skuggorna_kallar.png

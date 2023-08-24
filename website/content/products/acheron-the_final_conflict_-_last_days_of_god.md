@@ -4,7 +4,7 @@ album: The Final Conflict - Last Days of God
 artist: Acheron
 categories:
 - CD
-date: '2023-04-27T05:13:33'
+date: '2023-07-27T05:52:47'
 draft: false
 images:
 - /images/covers/acheron-the_final_conflict_-_last_days_of_god.jpg

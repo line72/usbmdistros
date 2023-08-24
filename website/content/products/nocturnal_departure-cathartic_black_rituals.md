@@ -4,7 +4,7 @@ album: Cathartic Black Rituals
 artist: Nocturnal Departure
 categories:
 - CD
-date: '2023-04-27T05:13:46'
+date: '2023-07-27T05:54:53'
 draft: false
 images:
 - /images/covers/nocturnal_departure-cathartic_black_rituals.jpg

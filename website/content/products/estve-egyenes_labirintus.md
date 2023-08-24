@@ -5,7 +5,7 @@ artist: Estve
 categories:
 - Vinyl
 - Cassette
-date: '2023-07-10T05:06:07'
+date: '2023-07-27T05:48:49'
 draft: false
 images:
 - /images/covers/estve-egyenes_labirintus.jpg

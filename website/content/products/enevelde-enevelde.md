@@ -5,7 +5,7 @@ artist: Enevelde
 categories:
 - Vinyl
 - CD
-date: '2023-06-06T05:20:34'
+date: '2023-07-27T05:53:36'
 draft: false
 images:
 - /images/covers/enevelde-enevelde.jpg

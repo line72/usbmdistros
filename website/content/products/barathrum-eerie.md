@@ -5,7 +5,7 @@ artist: Barathrum
 categories:
 - Vinyl
 - CD
-date: '2023-06-12T07:59:48'
+date: '2023-07-27T05:47:48'
 draft: false
 images:
 - /images/covers/barathrum-eerie.jpg

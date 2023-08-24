@@ -4,7 +4,7 @@ album: "Krigsd\xF8ger"
 artist: "Gjend\xF8d"
 categories:
 - Vinyl
-date: '2023-04-27T05:13:11'
+date: '2023-07-29T06:07:00'
 draft: false
 images:
 - "/images/covers/gjend\xF8d-krigsd\xF8ger.jpg"
@@ -17,3 +17,4 @@ title: "Gjend\xF8d - Krigsd\xF8ger"
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/gjendod-krigsdoger-12-lp) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=19365&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=21895&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=37713&sort=pd.name&order=ASC) for $25.00

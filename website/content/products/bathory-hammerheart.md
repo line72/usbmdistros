@@ -5,7 +5,7 @@ artist: Bathory
 categories:
 - Vinyl
 - Cassette
-date: '2023-06-22T05:50:58'
+date: '2023-07-27T05:56:17'
 draft: false
 images:
 - /images/covers/bathory-hammerheart.jpg

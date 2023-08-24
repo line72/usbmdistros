@@ -4,7 +4,7 @@ album: Finnmarkens Folk
 artist: Saiva
 categories:
 - CD
-date: '2023-04-27T05:13:49'
+date: '2023-07-27T05:55:18'
 draft: false
 images:
 - /images/covers/saiva-finnmarkens_folk.png

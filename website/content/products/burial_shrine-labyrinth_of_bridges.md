@@ -4,7 +4,7 @@ album: Labyrinth of Bridges
 artist: Burial Shrine
 categories:
 - Vinyl
-date: '2023-04-27T05:13:06'
+date: '2023-07-27T05:48:08'
 draft: false
 images:
 - /images/covers/burial_shrine-labyrinth_of_bridges.jpg

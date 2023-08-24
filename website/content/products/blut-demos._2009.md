@@ -4,7 +4,7 @@ album: Demos. 2009
 artist: Blut
 categories:
 - Cassette
-date: '2023-04-27T05:13:56'
+date: '2023-07-27T05:56:22'
 draft: false
 images:
 - /images/covers/blut-demos._2009.png

@@ -5,7 +5,7 @@ artist: Voodus
 categories:
 - Vinyl
 - CD
-date: '2023-04-27T05:13:53'
+date: '2023-08-22T08:18:27'
 draft: false
 images:
 - /images/covers/voodus-open_the_otherness.jpg
@@ -18,3 +18,4 @@ title: Voodus - Open the Otherness
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=20010&sort=pd.name&order=ASC) for $25.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=18520&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=38669&sort=pd.name&order=ASC) for $15.00

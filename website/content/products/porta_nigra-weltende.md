@@ -4,7 +4,7 @@ album: Weltende
 artist: Porta Nigra
 categories:
 - Vinyl
-date: '2023-07-18T16:37:09'
+date: '2023-07-27T05:50:41'
 draft: false
 images:
 - /images/covers/porta_nigra-weltende.jpg

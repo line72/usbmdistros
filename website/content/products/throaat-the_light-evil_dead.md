@@ -4,7 +4,7 @@ album: The Light/Evil Dead
 artist: Throaat
 categories:
 - Vinyl
-date: '2023-06-14T07:40:59'
+date: '2023-07-27T05:52:40'
 draft: false
 images:
 - /images/covers/throaat-the_light-evil_dead.jpg

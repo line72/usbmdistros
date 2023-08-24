@@ -4,7 +4,7 @@ album: Forn
 artist: Fyrnask
 categories:
 - Vinyl
-date: '2023-07-18T16:16:00'
+date: '2023-07-27T05:48:59'
 draft: false
 images:
 - /images/covers/fyrnask-forn.jpg

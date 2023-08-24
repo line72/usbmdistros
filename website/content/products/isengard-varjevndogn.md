@@ -4,7 +4,7 @@ album: Varjevndogn
 artist: Isengard
 categories:
 - Vinyl
-date: '2023-05-13T05:15:46'
+date: '2023-07-27T05:49:32'
 draft: false
 images:
 - /images/covers/isengard-varjevndogn.jpg

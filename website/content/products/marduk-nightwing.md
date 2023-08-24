@@ -5,7 +5,7 @@ artist: Marduk
 categories:
 - Vinyl
 - CD
-date: '2023-04-27T05:13:44'
+date: '2023-07-27T05:54:32'
 draft: false
 images:
 - /images/covers/marduk-nightwing.jpg

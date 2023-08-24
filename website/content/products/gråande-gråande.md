@@ -4,7 +4,7 @@ album: "Gr\xE5ande"
 artist: "Gr\xE5ande"
 categories:
 - CD
-date: '2023-05-26T05:35:33'
+date: '2023-07-27T05:53:51'
 draft: false
 images:
 - "/images/covers/gr\xE5ande-gr\xE5ande.jpg"

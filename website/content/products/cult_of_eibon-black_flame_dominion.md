@@ -5,7 +5,7 @@ artist: Cult of Eibon
 categories:
 - Vinyl
 - CD
-date: '2023-04-27T05:13:36'
+date: '2023-07-27T05:53:17'
 draft: false
 images:
 - /images/covers/cult_of_eibon-black_flame_dominion.jpg

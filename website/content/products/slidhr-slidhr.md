@@ -4,7 +4,7 @@ album: Slidhr
 artist: Slidhr
 categories:
 - Vinyl
-date: '2023-07-18T17:03:46'
+date: '2023-07-27T05:52:36'
 draft: false
 images:
 - /images/covers/slidhr-slidhr.jpg

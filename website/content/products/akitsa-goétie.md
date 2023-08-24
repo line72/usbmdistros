@@ -4,7 +4,7 @@ album: "Go\xE9tie"
 artist: Akitsa
 categories:
 - Vinyl
-date: '2023-06-22T05:47:35'
+date: '2023-07-27T05:47:30'
 draft: false
 images:
 - "/images/covers/akitsa-go\xE9tie.jpg"

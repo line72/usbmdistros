@@ -5,7 +5,7 @@ artist: Gothmog
 categories:
 - Vinyl
 - CD
-date: '2023-07-19T09:58:31'
+date: '2023-07-27T05:53:51'
 draft: false
 images:
 - /images/covers/gothmog-medieval_journeys.jpg

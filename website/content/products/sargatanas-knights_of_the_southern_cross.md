@@ -5,7 +5,7 @@ artist: Sargatanas
 categories:
 - Cassette
 - CD
-date: '2023-07-18T17:44:18'
+date: '2023-07-27T05:55:19'
 draft: false
 images:
 - /images/covers/sargatanas-knights_of_the_southern_cross.png

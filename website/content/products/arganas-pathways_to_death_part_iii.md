@@ -4,7 +4,7 @@ album: Pathways to Death Part III
 artist: Arganas
 categories:
 - CD
-date: '2023-04-27T05:13:33'
+date: '2023-07-27T05:52:54'
 draft: false
 images:
 - /images/covers/arganas-pathways_to_death_part_iii.jpg

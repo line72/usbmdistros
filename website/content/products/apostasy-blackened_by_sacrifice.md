@@ -4,7 +4,7 @@ album: Blackened by Sacrifice
 artist: APOSTASY
 categories:
 - Cassette
-date: '2023-04-27T05:13:54'
+date: '2023-07-27T05:56:13'
 draft: false
 images:
 - /images/covers/apostasy-blackened_by_sacrifice.png

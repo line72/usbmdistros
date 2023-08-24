@@ -5,7 +5,7 @@ artist: Graveland
 categories:
 - Vinyl
 - CD
-date: '2023-05-19T05:19:09'
+date: '2023-07-27T05:53:52'
 draft: false
 images:
 - /images/covers/graveland-hour_of_ragnarok.jpg

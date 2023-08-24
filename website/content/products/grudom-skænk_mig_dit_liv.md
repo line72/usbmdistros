@@ -4,7 +4,7 @@ album: "Sk\xE6nk Mig Dit Liv"
 artist: Grudom
 categories:
 - CD
-date: '2023-04-27T05:13:40'
+date: '2023-07-27T05:53:55'
 draft: false
 images:
 - "/images/covers/grudom-sk\xE6nk_mig_dit_liv.jpg"

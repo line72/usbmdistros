@@ -4,7 +4,7 @@ album: Eremita das Trevas
 artist: Via Sinistra
 categories:
 - Vinyl
-date: '2023-04-29T05:16:03'
+date: '2023-07-27T05:51:42'
 draft: false
 images:
 - /images/covers/via_sinistra-eremita_das_trevas.jpg

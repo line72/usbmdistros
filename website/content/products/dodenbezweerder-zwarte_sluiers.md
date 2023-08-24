@@ -4,7 +4,7 @@ album: Zwarte Sluiers
 artist: Dodenbezweerder
 categories:
 - Cassette
-date: '2023-04-27T05:13:57'
+date: '2023-07-27T05:56:34'
 draft: false
 images:
 - /images/covers/dodenbezweerder-zwarte_sluiers.png

@@ -4,7 +4,7 @@ album: Klagelieder
 artist: Golgatha
 categories:
 - Vinyl
-date: '2023-07-18T16:17:16'
+date: '2023-07-27T05:49:05'
 draft: false
 images:
 - /images/covers/golgatha-klagelieder.jpg

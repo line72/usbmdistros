@@ -4,7 +4,7 @@ album: On the Eve of War
 artist: Dolmen
 categories:
 - Vinyl
-date: '2023-04-27T05:13:09'
+date: '2023-07-27T05:48:40'
 draft: false
 images:
 - /images/covers/dolmen-on_the_eve_of_war.jpg

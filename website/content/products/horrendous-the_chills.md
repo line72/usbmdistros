@@ -4,7 +4,7 @@ album: The Chills
 artist: Horrendous
 categories:
 - CD
-date: '2023-04-27T05:13:40'
+date: '2023-07-27T05:54:05'
 draft: false
 images:
 - /images/covers/horrendous-the_chills.jpg

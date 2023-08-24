@@ -5,7 +5,7 @@ artist: W.A.I.L.
 categories:
 - Vinyl
 - CD
-date: '2023-04-27T05:13:53'
+date: '2023-07-27T05:55:57'
 draft: false
 images:
 - /images/covers/w.a.i.l.-wisdom_through_agony_into_illumination_and_lunacy_vol._ii.jpg

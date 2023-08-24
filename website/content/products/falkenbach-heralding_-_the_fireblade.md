@@ -4,7 +4,7 @@ album: Heralding - The Fireblade
 artist: Falkenbach
 categories:
 - Vinyl
-date: '2023-07-18T16:14:24'
+date: '2023-07-27T05:48:51'
 draft: false
 images:
 - /images/covers/falkenbach-heralding_-_the_fireblade.jpg

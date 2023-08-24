@@ -4,7 +4,7 @@ album: "Krv a pot Mal\xFDch Karp\xE1t"
 artist: Temnohor
 categories:
 - Vinyl
-date: '2023-04-27T05:13:24'
+date: '2023-07-27T05:51:19'
 draft: false
 images:
 - "/images/covers/temnohor-krv_a_pot_mal\xFDch_karp\xE1t.jpg"

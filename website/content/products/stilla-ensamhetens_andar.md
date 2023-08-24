@@ -4,7 +4,7 @@ album: Ensamhetens Andar
 artist: Stilla
 categories:
 - CD
-date: '2023-04-27T05:13:50'
+date: '2023-07-27T05:55:32'
 draft: false
 images:
 - /images/covers/stilla-ensamhetens_andar.jpg

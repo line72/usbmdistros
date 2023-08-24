@@ -4,7 +4,7 @@ album: Atom Kinder
 artist: Urgehal
 categories:
 - Vinyl
-date: '2023-05-21T05:18:20'
+date: '2023-07-27T05:51:35'
 draft: false
 images:
 - /images/covers/urgehal-atom_kinder.jpg

@@ -4,7 +4,7 @@ album: VIIII
 artist: Black Grail
 categories:
 - Vinyl
-date: '2023-04-27T05:13:06'
+date: '2023-07-27T05:47:59'
 draft: false
 images:
 - /images/covers/black_grail-viiii.png

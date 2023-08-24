@@ -4,7 +4,7 @@ album: Unsilent Hate Anthem
 artist: Deathchurch
 categories:
 - Vinyl
-date: '2023-05-23T05:17:34'
+date: '2023-07-27T05:52:10'
 draft: false
 images:
 - /images/covers/deathchurch-unsilent_hate_anthem.jpg

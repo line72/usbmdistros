@@ -4,7 +4,7 @@ album: Lords of Evil Power
 artist: Damnation Lust
 categories:
 - Vinyl
-date: '2023-04-27T05:13:08'
+date: '2023-07-27T05:48:26'
 draft: false
 images:
 - /images/covers/damnation_lust-lords_of_evil_power.jpg

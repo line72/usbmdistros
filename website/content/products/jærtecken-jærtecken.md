@@ -4,7 +4,7 @@ album: "J\xE6rtecken"
 artist: "J\xE6rtecken"
 categories:
 - Vinyl
-date: '2023-04-27T05:13:14'
+date: '2023-07-27T05:49:34'
 draft: false
 images:
 - "/images/covers/j\xE6rtecken-j\xE6rtecken.jpg"

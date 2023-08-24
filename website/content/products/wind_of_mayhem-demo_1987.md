@@ -4,7 +4,7 @@ album: Demo 1987
 artist: Wind of Mayhem
 categories:
 - Vinyl
-date: '2023-04-27T05:13:27'
+date: '2023-07-27T05:51:52'
 draft: false
 images:
 - /images/covers/wind_of_mayhem-demo_1987.jpg

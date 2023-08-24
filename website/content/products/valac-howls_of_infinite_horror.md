@@ -6,7 +6,7 @@ categories:
 - Vinyl
 - Cassette
 - CD
-date: '2023-05-21T05:26:27'
+date: '2023-07-27T05:57:54'
 draft: false
 images:
 - /images/covers/valac-howls_of_infinite_horror.png

@@ -4,7 +4,7 @@ album: "F\xF6rsta Trulen"
 artist: Arckanum
 categories:
 - Vinyl
-date: '2023-06-22T05:49:03'
+date: '2023-07-27T05:47:38'
 draft: false
 images:
 - "/images/covers/arckanum-f\xF6rsta_trulen.jpg"

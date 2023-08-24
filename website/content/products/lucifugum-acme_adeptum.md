@@ -4,7 +4,7 @@ album: Acme Adeptum
 artist: Lucifugum
 categories:
 - CD
-date: '2023-04-27T05:13:42'
+date: '2023-07-27T05:54:27'
 draft: false
 images:
 - /images/covers/lucifugum-acme_adeptum.jpg

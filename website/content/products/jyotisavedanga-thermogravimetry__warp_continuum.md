@@ -4,7 +4,7 @@ album: Thermogravimetry  Warp Continuum
 artist: JYOTISAVEDANGA
 categories:
 - Vinyl
-date: '2023-04-27T05:13:14'
+date: '2023-07-27T05:49:34'
 draft: false
 images:
 - /images/covers/jyotisavedanga-thermogravimetry__warp_continuum.jpg

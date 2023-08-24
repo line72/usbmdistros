@@ -4,7 +4,7 @@ album: Before My Eyes The New World Rose
 artist: Flauros
 categories:
 - Vinyl
-date: '2023-04-27T05:13:29'
+date: '2023-07-27T05:52:16'
 draft: false
 images:
 - /images/covers/flauros-before_my_eyes_the_new_world_rose.jpg

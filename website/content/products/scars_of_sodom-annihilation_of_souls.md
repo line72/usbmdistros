@@ -5,7 +5,7 @@ artist: Scars of Sodom
 categories:
 - Vinyl
 - CD
-date: '2023-04-27T05:13:49'
+date: '2023-07-27T05:55:22'
 draft: false
 images:
 - /images/covers/scars_of_sodom-annihilation_of_souls.jpg

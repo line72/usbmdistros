@@ -4,7 +4,7 @@ album: "The Age of Anti\u200B-\u200BAquarius"
 artist: Phalanx Inferno
 categories:
 - CD
-date: '2023-04-27T05:13:47'
+date: '2023-07-27T05:55:04'
 draft: false
 images:
 - "/images/covers/phalanx_inferno-the_age_of_anti\u200B-\u200Baquarius.jpg"

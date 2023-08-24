@@ -4,7 +4,7 @@ album: Welcome All Hell Fuckers
 artist: Abigail
 categories:
 - Vinyl
-date: '2023-05-21T05:13:44'
+date: '2023-07-27T05:47:25'
 draft: false
 images:
 - /images/covers/abigail-welcome_all_hell_fuckers.jpg

@@ -4,7 +4,7 @@ album: In Embrace of Pain
 artist: Simonia
 categories:
 - Cassette
-date: '2023-04-27T05:14:03'
+date: '2023-07-27T05:57:39'
 draft: false
 images:
 - /images/covers/simonia-in_embrace_of_pain.png

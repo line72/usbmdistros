@@ -4,7 +4,7 @@ album: Verhallend Mit Des Todesboten Kunde
 artist: Erhabenheit
 categories:
 - Vinyl
-date: '2023-04-27T05:13:29'
+date: '2023-07-27T05:52:14'
 draft: false
 images:
 - /images/covers/erhabenheit-verhallend_mit_des_todesboten_kunde.jpg

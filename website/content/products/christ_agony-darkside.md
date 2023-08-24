@@ -5,7 +5,7 @@ artist: Christ Agony
 categories:
 - Vinyl
 - CD
-date: '2023-04-27T05:13:35'
+date: '2023-07-27T05:53:12'
 draft: false
 images:
 - /images/covers/christ_agony-darkside.jpg

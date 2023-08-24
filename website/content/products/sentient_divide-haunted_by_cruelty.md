@@ -5,7 +5,7 @@ artist: Sentient Divide
 categories:
 - Vinyl
 - Cassette
-date: '2023-04-27T05:14:03'
+date: '2023-07-27T05:57:37'
 draft: false
 images:
 - /images/covers/sentient_divide-haunted_by_cruelty.jpg

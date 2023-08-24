@@ -4,7 +4,7 @@ album: The Day of Pariah
 artist: Dark Opera
 categories:
 - Vinyl
-date: '2023-04-27T05:13:08'
+date: '2023-07-27T05:48:27'
 draft: false
 images:
 - /images/covers/dark_opera-the_day_of_pariah.jpg

@@ -4,7 +4,7 @@ album: Son of Stormbringer
 artist: Arrival
 categories:
 - Vinyl
-date: '2023-04-29T05:16:25'
+date: '2023-07-27T05:52:03'
 draft: false
 images:
 - /images/covers/arrival-son_of_stormbringer.png

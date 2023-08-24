@@ -4,7 +4,7 @@ album: "Svartskogen, Svartvinter... / D\xF8dssted..."
 artist: Vintlechkeit
 categories:
 - Vinyl
-date: '2023-04-27T05:13:26'
+date: '2023-07-27T05:51:43'
 draft: false
 images:
 - "/images/covers/vintlechkeit-svartskogen,_svartvinter..._-_d\xF8dssted....jpg"

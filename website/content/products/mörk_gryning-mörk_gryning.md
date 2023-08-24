@@ -4,7 +4,7 @@ album: "M\xF6rk Gryning"
 artist: "M\xF6rk Gryning"
 categories:
 - Vinyl
-date: '2023-04-27T05:13:17'
+date: '2023-07-27T05:50:08'
 draft: false
 images:
 - "/images/covers/m\xF6rk_gryning-m\xF6rk_gryning.jpg"

@@ -6,7 +6,7 @@ categories:
 - Vinyl
 - Cassette
 - CD
-date: '2023-04-27T05:14:04'
+date: '2023-07-27T05:57:50'
 draft: false
 images:
 - /images/covers/trembling_void-the_burning_question.jpg

@@ -4,7 +4,7 @@ album: Termonuklearni Evoluce
 artist: Sator Marte
 categories:
 - Vinyl
-date: '2023-04-27T05:13:22'
+date: '2023-07-27T05:50:59'
 draft: false
 images:
 - /images/covers/sator_marte-termonuklearni_evoluce.jpg

@@ -4,7 +4,7 @@ album: Charognard
 artist: Diamatregon
 categories:
 - Vinyl
-date: '2023-05-11T05:16:04'
+date: '2023-07-27T05:52:12'
 draft: false
 images:
 - /images/covers/diamatregon-charognard.jpg

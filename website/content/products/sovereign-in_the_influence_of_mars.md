@@ -4,7 +4,7 @@ album: In The Influence of Mars
 artist: Sovereign
 categories:
 - Vinyl
-date: '2023-06-15T08:04:46'
+date: '2023-07-27T05:51:12'
 draft: false
 images:
 - /images/covers/sovereign-in_the_influence_of_mars.jpg

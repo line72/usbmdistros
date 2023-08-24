@@ -4,7 +4,7 @@ album: Morbid Audial Plaguestorm
 artist: Vorkuta
 categories:
 - Cassette
-date: '2023-04-27T05:14:05'
+date: '2023-07-27T05:57:58'
 draft: false
 images:
 - /images/covers/vorkuta-morbid_audial_plaguestorm.png

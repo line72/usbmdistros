@@ -4,7 +4,7 @@ album: The Magickal Presence of Occult Forces
 artist: Necromante
 categories:
 - CD
-date: '2023-04-27T05:13:46'
+date: '2023-07-27T05:54:46'
 draft: false
 images:
 - /images/covers/necromante-the_magickal_presence_of_occult_forces.jpg

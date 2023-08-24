@@ -5,7 +5,7 @@ artist: Marduk
 categories:
 - Vinyl
 - CD
-date: '2023-05-17T05:14:17'
+date: '2023-07-27T05:54:32'
 draft: false
 images:
 - /images/covers/marduk-heaven_shall_burn..._when_we_are_gathered.jpg

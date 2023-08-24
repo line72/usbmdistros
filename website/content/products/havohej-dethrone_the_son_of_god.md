@@ -4,7 +4,7 @@ album: Dethrone the Son of God
 artist: Havohej
 categories:
 - Cassette
-date: '2023-04-27T05:13:58'
+date: '2023-07-27T05:56:48'
 draft: false
 images:
 - /images/covers/havohej-dethrone_the_son_of_god.png

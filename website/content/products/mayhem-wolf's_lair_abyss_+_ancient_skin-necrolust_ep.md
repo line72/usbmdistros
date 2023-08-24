@@ -4,7 +4,7 @@ album: Wolf's Lair Abyss + Ancient Skin/Necrolust EP
 artist: Mayhem
 categories:
 - Vinyl
-date: '2023-07-19T06:20:38'
+date: '2023-07-27T05:49:57'
 draft: false
 images:
 - /images/covers/mayhem-wolf's_lair_abyss_+_ancient_skin-necrolust_ep.jpg

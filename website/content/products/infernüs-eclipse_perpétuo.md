@@ -4,7 +4,7 @@ album: "Eclipse Perp\xE9tuo"
 artist: "Infern\xFCs"
 categories:
 - Vinyl
-date: '2023-04-27T05:13:14'
+date: '2023-07-27T05:49:29'
 draft: false
 images:
 - "/images/covers/infern\xFCs-eclipse_perp\xE9tuo.jpg"

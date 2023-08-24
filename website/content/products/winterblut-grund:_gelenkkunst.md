@@ -4,7 +4,7 @@ album: 'Grund: Gelenkkunst'
 artist: Winterblut
 categories:
 - CD
-date: '2023-04-27T05:13:53'
+date: '2023-07-27T05:56:01'
 draft: false
 images:
 - /images/covers/winterblut-grund:_gelenkkunst.png

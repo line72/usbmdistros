@@ -4,7 +4,7 @@ album: Purgatory Despairing
 artist: Desolation Hymn
 categories:
 - Vinyl
-date: '2023-04-29T05:16:37'
+date: '2023-07-27T05:52:12'
 draft: false
 images:
 - /images/covers/desolation_hymn-purgatory_despairing.jpg

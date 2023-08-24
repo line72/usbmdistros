@@ -4,7 +4,7 @@ album: Ancient Spells of Darkness...
 artist: Moenen of Xezbeth
 categories:
 - Vinyl
-date: '2023-04-27T05:13:17'
+date: '2023-07-27T05:50:03'
 draft: false
 images:
 - /images/covers/moenen_of_xezbeth-ancient_spells_of_darkness....jpg

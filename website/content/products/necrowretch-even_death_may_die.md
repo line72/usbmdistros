@@ -4,7 +4,7 @@ album: Even Death May Die
 artist: Necrowretch
 categories:
 - Vinyl
-date: '2023-05-11T05:16:21'
+date: '2023-07-27T05:52:27'
 draft: false
 images:
 - /images/covers/necrowretch-even_death_may_die.jpg

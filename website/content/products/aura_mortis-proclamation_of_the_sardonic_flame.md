@@ -4,7 +4,7 @@ album: Proclamation of the Sardonic Flame
 artist: Aura Mortis
 categories:
 - CD
-date: '2023-04-27T05:13:34'
+date: '2023-07-27T05:52:56'
 draft: false
 images:
 - /images/covers/aura_mortis-proclamation_of_the_sardonic_flame.jpg

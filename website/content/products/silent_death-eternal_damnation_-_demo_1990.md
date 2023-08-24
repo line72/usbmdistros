@@ -4,7 +4,7 @@ album: Eternal Damnation - Demo 1990
 artist: Silent Death
 categories:
 - Cassette
-date: '2023-04-27T05:14:03'
+date: '2023-07-27T05:57:39'
 draft: false
 images:
 - /images/covers/silent_death-eternal_damnation_-_demo_1990.png

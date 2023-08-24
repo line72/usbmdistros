@@ -4,7 +4,7 @@ album: Deep Melancholic Wrath
 artist: Fornace
 categories:
 - CD
-date: '2023-04-27T05:13:39'
+date: '2023-07-27T05:53:44'
 draft: false
 images:
 - /images/covers/fornace-deep_melancholic_wrath.jpg

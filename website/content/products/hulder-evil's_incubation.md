@@ -4,7 +4,7 @@ album: Evil's Incubation
 artist: Hulder
 categories:
 - Vinyl
-date: '2023-07-18T16:59:35'
+date: '2023-07-27T05:52:19'
 draft: false
 images:
 - /images/covers/hulder-evil's_incubation.jpg

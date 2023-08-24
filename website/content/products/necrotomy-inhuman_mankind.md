@@ -4,7 +4,7 @@ album: Inhuman Mankind
 artist: Necrotomy
 categories:
 - CD
-date: '2023-04-27T05:13:46'
+date: '2023-07-27T05:54:49'
 draft: false
 images:
 - /images/covers/necrotomy-inhuman_mankind.jpg

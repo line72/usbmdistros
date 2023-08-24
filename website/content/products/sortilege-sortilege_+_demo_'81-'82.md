@@ -4,7 +4,7 @@ album: Sortilege + Demo '81/'82
 artist: Sortilege
 categories:
 - CD
-date: '2023-04-27T05:13:50'
+date: '2023-07-27T05:55:29'
 draft: false
 images:
 - /images/covers/sortilege-sortilege_+_demo_'81-'82.jpg

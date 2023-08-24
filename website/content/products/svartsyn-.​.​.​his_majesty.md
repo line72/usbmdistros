@@ -5,7 +5,7 @@ artist: Svartsyn
 categories:
 - Vinyl
 - Cassette
-date: '2023-07-21T06:32:08'
+date: '2023-07-27T05:57:43'
 draft: false
 images:
 - "/images/covers/svartsyn-.\u200B.\u200B.\u200Bhis_majesty.jpg"
@@ -21,6 +21,7 @@ title: "Svartsyn - .\u200B.\u200B.\u200BHis Majesty"
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=34249&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=34752&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=37198&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=37446&sort=pd.name&order=ASC) for $25.00
 ## Cassette
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=28312&sort=pd.name&order=ASC) for $15.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=29242&sort=pd.name&order=ASC) for $15.00

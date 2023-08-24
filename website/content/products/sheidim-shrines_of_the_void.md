@@ -4,7 +4,7 @@ album: Shrines of the Void
 artist: Sheidim
 categories:
 - CD
-date: '2023-04-27T05:13:49'
+date: '2023-07-27T05:55:24'
 draft: false
 images:
 - /images/covers/sheidim-shrines_of_the_void.png

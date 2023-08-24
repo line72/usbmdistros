@@ -5,7 +5,7 @@ artist: Ifernach
 categories:
 - Vinyl
 - Cassette
-date: '2023-05-05T05:14:42'
+date: '2023-07-27T05:49:23'
 draft: false
 images:
 - /images/covers/ifernach-neo_tribal_manimal.jpg

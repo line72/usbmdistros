@@ -5,7 +5,7 @@ artist: Eschatology
 categories:
 - Vinyl
 - CD
-date: '2023-04-27T05:13:38'
+date: '2023-07-27T05:53:38'
 draft: false
 images:
 - /images/covers/eschatology-eschatology.jpg

@@ -4,7 +4,7 @@ album: All My Life For Satan
 artist: Itsemurha
 categories:
 - CD
-date: '2023-04-27T05:13:41'
+date: '2023-07-27T05:54:15'
 draft: false
 images:
 - /images/covers/itsemurha-all_my_life_for_satan.jpg

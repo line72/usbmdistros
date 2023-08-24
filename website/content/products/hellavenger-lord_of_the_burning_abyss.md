@@ -4,7 +4,7 @@ album: Lord of the Burning Abyss
 artist: Hellavenger
 categories:
 - Cassette
-date: '2023-04-27T05:13:58'
+date: '2023-07-27T05:56:48'
 draft: false
 images:
 - /images/covers/hellavenger-lord_of_the_burning_abyss.jpg

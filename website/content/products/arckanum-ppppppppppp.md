@@ -4,7 +4,7 @@ album: PPPPPPPPPPP
 artist: Arckanum
 categories:
 - Vinyl
-date: '2023-06-17T05:46:32'
+date: '2023-07-27T05:47:38'
 draft: false
 images:
 - /images/covers/arckanum-ppppppppppp.jpg

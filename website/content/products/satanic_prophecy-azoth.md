@@ -5,7 +5,7 @@ artist: Satanic Prophecy
 categories:
 - Vinyl
 - Cassette
-date: '2023-04-27T05:13:22'
+date: '2023-07-27T05:50:59'
 draft: false
 images:
 - /images/covers/satanic_prophecy-azoth.png

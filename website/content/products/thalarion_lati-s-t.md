@@ -4,7 +4,7 @@ album: S/T
 artist: Thalarion Lati
 categories:
 - CD
-date: '2023-04-27T05:13:51'
+date: '2023-07-27T05:55:37'
 draft: false
 images:
 - /images/covers/thalarion_lati-s-t.png

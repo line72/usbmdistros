@@ -4,7 +4,7 @@ album: Catechism
 artist: Mortuus Umbra
 categories:
 - Cassette
-date: '2023-04-27T05:14:00'
+date: '2023-07-27T05:57:13'
 draft: false
 images:
 - /images/covers/mortuus_umbra-catechism.png

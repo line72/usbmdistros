@@ -4,7 +4,7 @@ album: Void Abecedary
 artist: Inculcator
 categories:
 - Cassette
-date: '2023-04-27T05:13:59'
+date: '2023-07-27T05:56:52'
 draft: false
 images:
 - /images/covers/inculcator-void_abecedary.png

@@ -6,7 +6,7 @@ categories:
 - Vinyl
 - Cassette
 - CD
-date: '2023-07-18T16:19:37'
+date: '2023-07-27T05:49:17'
 draft: false
 images:
 - /images/covers/helleruin-devils,_death_and_dark_arts.jpg

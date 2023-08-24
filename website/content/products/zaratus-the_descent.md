@@ -4,7 +4,7 @@ album: The Descent
 artist: Zaratus
 categories:
 - Vinyl
-date: '2023-07-18T16:54:22'
+date: '2023-07-27T05:51:58'
 draft: false
 images:
 - /images/covers/zaratus-the_descent.jpg

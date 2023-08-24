@@ -4,7 +4,7 @@ album: Death Anthems For A World Of Shit
 artist: Northern Alliance
 categories:
 - Vinyl
-date: '2023-04-27T05:13:31'
+date: '2023-07-27T05:52:28'
 draft: false
 images:
 - /images/covers/northern_alliance-death_anthems_for_a_world_of_shit.jpg

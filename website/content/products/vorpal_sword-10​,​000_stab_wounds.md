@@ -4,7 +4,7 @@ album: "10\u200B,\u200B000 Stab Wounds"
 artist: Vorpal Sword
 categories:
 - Cassette
-date: '2023-04-27T05:14:05'
+date: '2023-07-27T05:57:58'
 draft: false
 images:
 - "/images/covers/vorpal_sword-10\u200B,\u200B000_stab_wounds.jpg"

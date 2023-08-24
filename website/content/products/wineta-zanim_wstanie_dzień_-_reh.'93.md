@@ -5,7 +5,7 @@ artist: Wineta
 categories:
 - Vinyl
 - CD
-date: '2023-04-27T05:13:53'
+date: '2023-07-27T05:56:01'
 draft: false
 images:
 - "/images/covers/wineta-zanim_wstanie_dzie\u0144_-_reh.'93.jpg"

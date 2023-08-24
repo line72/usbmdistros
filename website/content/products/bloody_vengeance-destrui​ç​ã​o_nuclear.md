@@ -5,7 +5,7 @@ artist: Bloody Vengeance
 categories:
 - Vinyl
 - Cassette
-date: '2023-06-12T06:01:07'
+date: '2023-07-27T05:56:21'
 draft: false
 images:
 - "/images/covers/bloody_vengeance-destrui\u200B\xE7\u200B\xE3\u200Bo_nuclear.jpg"

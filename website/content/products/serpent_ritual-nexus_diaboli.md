@@ -4,7 +4,7 @@ album: Nexus Diaboli
 artist: Serpent Ritual
 categories:
 - Vinyl
-date: '2023-04-27T05:13:22'
+date: '2023-07-27T05:51:04'
 draft: false
 images:
 - /images/covers/serpent_ritual-nexus_diaboli.jpg

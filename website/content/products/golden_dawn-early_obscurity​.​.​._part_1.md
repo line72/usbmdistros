@@ -4,7 +4,7 @@ album: "Early Obscurity\u200B.\u200B.\u200B. Part 1"
 artist: Golden Dawn
 categories:
 - Vinyl
-date: '2023-05-30T05:13:47'
+date: '2023-07-27T05:49:05'
 draft: false
 images:
 - "/images/covers/golden_dawn-early_obscurity\u200B.\u200B.\u200B._part_1.jpg"

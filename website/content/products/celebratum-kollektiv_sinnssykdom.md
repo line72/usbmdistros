@@ -4,7 +4,7 @@ album: Kollektiv Sinnssykdom
 artist: Celebratum
 categories:
 - Vinyl
-date: '2023-05-29T05:01:05'
+date: '2023-07-27T05:48:14'
 draft: false
 images:
 - /images/covers/celebratum-kollektiv_sinnssykdom.jpg

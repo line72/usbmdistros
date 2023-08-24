@@ -4,7 +4,7 @@ album: "M\xE4leficentt"
 artist: "M\xE4leficentt"
 categories:
 - Vinyl
-date: '2023-07-18T16:26:21'
+date: '2023-07-27T05:49:50'
 draft: false
 images:
 - "/images/covers/m\xE4leficentt-m\xE4leficentt.jpg"

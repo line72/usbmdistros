@@ -4,7 +4,7 @@ album: "Yomi Kafeli \u9EC4\u6CC9\u9084\u308A"
 artist: Mortes Saltantes
 categories:
 - CD
-date: '2023-07-18T17:34:18'
+date: '2023-07-27T05:54:40'
 draft: false
 images:
 - "/images/covers/mortes_saltantes-yomi_kafeli_\u9EC4\u6CC9\u9084\u308A.jpg"
