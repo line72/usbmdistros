@@ -62,6 +62,9 @@ class MetalToTheCore1986(Parser):
     def split_artist_title(self, t, item_type):
         r = re.compile(r'^\s*(.*?)\s+&#8211;\s+(.*?)\s*$')
 
+        # The Voice of Steel 12″ GATEFOLD DOUBLE LP BLUE/YELLOW
+        # Sang Nordique 12″ DOUBLE LP CLEAR WITH BLACK AND WHITE SPLATTER
+        
         known_types = [
             re.compile(r'^(.*?)\s+MCD\s*$'),
             re.compile(r'^(.*?)\s+CD\s*$'),
@@ -72,7 +75,8 @@ class MetalToTheCore1986(Parser):
             re.compile(r'^(.*?)\s+\d+″\s+EP\s*$'),
             re.compile(r'^(.*?)\s+\d+"\s+EP\s+.*$'),
             re.compile(r'^(.*?)\s+\d+″\s+EP\s+.*$'),
-            re.compile(r'^(.*?)\s+\d+″\s+GATEFOLD\s+DOUBLE\s+LP\s+[A-Z]+\s*$'),
+            re.compile(r'^(.*?)\s+\d+″\s+GATEFOLD\s+DOUBLE\s+LP\s+[A-Z/]+\s*$'),
+            re.compile(r'^(.*?)\s+\d+″\s+DOUBLE\s+LP\s+[A-Z/\s]+\s*$'),
             re.compile(r'^(.*?)\s+\d+"\s+LP\s+[A-Z\s/]+\s*$'),
             re.compile(r'^(.*?)\s+\d+″\s+LP\s*[A-Z\s/]+\s*$'),
             re.compile(r'^(.*?)\s+\d+″\s+[A-Z\s/]+\s+LP\s*$'),
