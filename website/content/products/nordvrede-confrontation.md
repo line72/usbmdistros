@@ -7,9 +7,9 @@ categories:
 date: '2023-08-24T16:54:57'
 draft: false
 images:
-- /images/covers/nordvrede-confrontation.png
+- /images/covers/nordvrede-confrontation.jpg
 inStock: true
-thumbnailImage: /images/covers/nordvrede-confrontation-thumb.png
+thumbnailImage: /images/covers/nordvrede-confrontation-thumb.jpg
 title: Nordvrede - Confrontation
 ---
 

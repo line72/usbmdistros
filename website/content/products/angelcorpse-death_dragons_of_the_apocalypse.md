@@ -7,9 +7,9 @@ categories:
 date: '2023-08-11T05:59:54'
 draft: false
 images:
-- /images/covers/angelcorpse-death_dragons_of_the_apocalypse.png
+- /images/covers/angelcorpse-death_dragons_of_the_apocalypse.jpg
 inStock: true
-thumbnailImage: /images/covers/angelcorpse-death_dragons_of_the_apocalypse-thumb.png
+thumbnailImage: /images/covers/angelcorpse-death_dragons_of_the_apocalypse-thumb.jpg
 title: Angelcorpse - Death Dragons Of The Apocalypse
 ---
 

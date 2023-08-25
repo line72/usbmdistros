@@ -7,9 +7,9 @@ categories:
 date: '2023-07-28T05:56:33'
 draft: false
 images:
-- /images/covers/aytnachr-hateful_black_being.png
+- /images/covers/aytnachr-hateful_black_being.jpg
 inStock: true
-thumbnailImage: /images/covers/aytnachr-hateful_black_being-thumb.png
+thumbnailImage: /images/covers/aytnachr-hateful_black_being-thumb.jpg
 title: Aytnachr - Hateful Black Being
 ---
 

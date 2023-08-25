@@ -7,9 +7,9 @@ categories:
 date: '2023-08-15T05:21:02'
 draft: false
 images:
-- /images/covers/serpent_ritual-nexvs_diaboli.png
+- /images/covers/serpent_ritual-nexvs_diaboli.jpg
 inStock: true
-thumbnailImage: /images/covers/serpent_ritual-nexvs_diaboli-thumb.png
+thumbnailImage: /images/covers/serpent_ritual-nexvs_diaboli-thumb.jpg
 title: Serpent Ritual - Nexvs Diaboli
 ---
 

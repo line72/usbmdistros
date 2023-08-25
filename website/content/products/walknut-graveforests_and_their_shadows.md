@@ -6,7 +6,7 @@ categories:
 - Vinyl
 - Cassette
 - CD
-date: '2023-07-27T05:51:48'
+date: '2023-08-25T07:30:20'
 draft: false
 images:
 - /images/covers/walknut-graveforests_and_their_shadows.jpg
@@ -24,6 +24,7 @@ title: Walknut - Graveforests and Their Shadows
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=30925&sort=pd.name&order=ASC) for $35.00
 * Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/walknut-graveforests-and-their-shadows-12-lp/) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=36588&sort=pd.name&order=ASC) for $35.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=38789&sort=pd.name&order=ASC) for $35.00
 ## Cassette
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=28272&sort=pd.name&order=ASC) for $15.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=29849&sort=pd.name&order=ASC) for $15.00

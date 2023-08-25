@@ -7,9 +7,9 @@ categories:
 date: '2023-08-23T07:01:14'
 draft: false
 images:
-- /images/covers/blut_aus_nord-debemur_morti.png
+- /images/covers/blut_aus_nord-debemur_morti.jpg
 inStock: true
-thumbnailImage: /images/covers/blut_aus_nord-debemur_morti-thumb.png
+thumbnailImage: /images/covers/blut_aus_nord-debemur_morti-thumb.jpg
 title: Blut Aus Nord - Debemur MoRTi
 ---
 

@@ -7,9 +7,9 @@ categories:
 date: '2023-08-24T06:43:03'
 draft: false
 images:
-- /images/covers/stargazer-bound_by_spells.png
+- /images/covers/stargazer-bound_by_spells.jpg
 inStock: true
-thumbnailImage: /images/covers/stargazer-bound_by_spells-thumb.png
+thumbnailImage: /images/covers/stargazer-bound_by_spells-thumb.jpg
 title: StarGazer - Bound by Spells
 ---
 

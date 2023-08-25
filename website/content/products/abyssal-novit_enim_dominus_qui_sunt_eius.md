@@ -7,9 +7,9 @@ categories:
 date: '2023-08-14T05:18:29'
 draft: false
 images:
-- /images/covers/abyssal-novit_enim_dominus_qui_sunt_eius.png
+- /images/covers/abyssal-novit_enim_dominus_qui_sunt_eius.jpg
 inStock: true
-thumbnailImage: /images/covers/abyssal-novit_enim_dominus_qui_sunt_eius-thumb.png
+thumbnailImage: /images/covers/abyssal-novit_enim_dominus_qui_sunt_eius-thumb.jpg
 title: Abyssal - Novit Enim Dominus Qui Sunt Eius
 ---
 

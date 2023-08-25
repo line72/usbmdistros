@@ -7,9 +7,9 @@ categories:
 date: '2023-08-12T06:02:30'
 draft: false
 images:
-- /images/covers/deathspell_omega-diabolus_absconditus_-_mass_grave_aesthetics.png
+- /images/covers/deathspell_omega-diabolus_absconditus_-_mass_grave_aesthetics.jpg
 inStock: true
-thumbnailImage: /images/covers/deathspell_omega-diabolus_absconditus_-_mass_grave_aesthetics-thumb.png
+thumbnailImage: /images/covers/deathspell_omega-diabolus_absconditus_-_mass_grave_aesthetics-thumb.jpg
 title: Deathspell Omega - Diabolus Absconditus / Mass Grave Aesthetics
 ---
 

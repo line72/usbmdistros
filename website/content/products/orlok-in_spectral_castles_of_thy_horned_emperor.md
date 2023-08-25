@@ -7,9 +7,9 @@ categories:
 date: '2023-08-13T07:14:21'
 draft: false
 images:
-- /images/covers/orlok-in_spectral_castles_of_thy_horned_emperor.png
+- /images/covers/orlok-in_spectral_castles_of_thy_horned_emperor.jpg
 inStock: true
-thumbnailImage: /images/covers/orlok-in_spectral_castles_of_thy_horned_emperor-thumb.png
+thumbnailImage: /images/covers/orlok-in_spectral_castles_of_thy_horned_emperor-thumb.jpg
 title: Orlok - In Spectral Castles Of Thy Horned Emperor
 ---
 

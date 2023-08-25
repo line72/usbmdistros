@@ -7,9 +7,9 @@ categories:
 date: '2023-08-17T07:37:17'
 draft: false
 images:
-- /images/covers/marduk-blackcrowned.png
+- /images/covers/marduk-blackcrowned.jpg
 inStock: true
-thumbnailImage: /images/covers/marduk-blackcrowned-thumb.png
+thumbnailImage: /images/covers/marduk-blackcrowned-thumb.jpg
 title: Marduk - Blackcrowned
 ---
 

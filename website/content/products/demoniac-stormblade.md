@@ -7,9 +7,9 @@ categories:
 date: '2023-08-05T05:59:33'
 draft: false
 images:
-- /images/covers/demoniac-stormblade.png
+- /images/covers/demoniac-stormblade.jpg
 inStock: true
-thumbnailImage: /images/covers/demoniac-stormblade-thumb.png
+thumbnailImage: /images/covers/demoniac-stormblade-thumb.jpg
 title: Demoniac - Stormblade
 ---
 

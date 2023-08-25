@@ -7,9 +7,9 @@ categories:
 date: '2023-07-25T06:05:08'
 draft: false
 images:
-- /images/covers/vorkreist-sublimation_xxixa.png
+- /images/covers/vorkreist-sublimation_xxixa.jpg
 inStock: true
-thumbnailImage: /images/covers/vorkreist-sublimation_xxixa-thumb.png
+thumbnailImage: /images/covers/vorkreist-sublimation_xxixa-thumb.jpg
 title: Vorkreist - Sublimation XXIXA
 ---
 

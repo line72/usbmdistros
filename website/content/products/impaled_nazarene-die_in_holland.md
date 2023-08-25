@@ -7,9 +7,9 @@ categories:
 date: '2023-08-24T06:59:06'
 draft: false
 images:
-- /images/covers/impaled_nazarene-die_in_holland.png
+- /images/covers/impaled_nazarene-die_in_holland.jpg
 inStock: true
-thumbnailImage: /images/covers/impaled_nazarene-die_in_holland-thumb.png
+thumbnailImage: /images/covers/impaled_nazarene-die_in_holland-thumb.jpg
 title: Impaled Nazarene - Die In Holland
 ---
 

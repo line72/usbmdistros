@@ -7,9 +7,9 @@ categories:
 date: '2023-08-24T16:55:00'
 draft: false
 images:
-- /images/covers/akitsa-goetie.png
+- /images/covers/akitsa-goetie.jpg
 inStock: true
-thumbnailImage: /images/covers/akitsa-goetie-thumb.png
+thumbnailImage: /images/covers/akitsa-goetie-thumb.jpg
 title: Akitsa - Goetie
 ---
 

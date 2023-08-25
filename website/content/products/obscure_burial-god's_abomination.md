@@ -7,9 +7,9 @@ categories:
 date: '2023-08-20T05:23:23'
 draft: false
 images:
-- /images/covers/obscure_burial-god's_abomination.png
+- /images/covers/obscure_burial-god's_abomination.jpg
 inStock: true
-thumbnailImage: /images/covers/obscure_burial-god's_abomination-thumb.png
+thumbnailImage: /images/covers/obscure_burial-god's_abomination-thumb.jpg
 title: Obscure Burial - God'S Abomination
 ---
 

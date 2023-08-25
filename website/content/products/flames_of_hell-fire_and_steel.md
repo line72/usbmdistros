@@ -5,7 +5,7 @@ artist: Flames of Hell
 categories:
 - Vinyl
 - Cassette
-date: '2023-08-12T06:08:22'
+date: '2023-08-25T06:16:30'
 draft: false
 images:
 - /images/covers/flames_of_hell-fire_and_steel.png
@@ -20,5 +20,6 @@ title: Flames of Hell - Fire and Steel
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=37337&sort=pd.name&order=ASC) for $36.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=37336&sort=pd.name&order=ASC) for $30.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=38171&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=38807&sort=pd.name&order=ASC) for $25.00
 ## Cassette
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=25235&sort=pd.name&order=ASC) for $15.00

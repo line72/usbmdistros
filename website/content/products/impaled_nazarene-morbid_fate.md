@@ -7,9 +7,9 @@ categories:
 date: '2023-08-24T06:59:09'
 draft: false
 images:
-- /images/covers/impaled_nazarene-morbid_fate.png
+- /images/covers/impaled_nazarene-morbid_fate.jpg
 inStock: true
-thumbnailImage: /images/covers/impaled_nazarene-morbid_fate-thumb.png
+thumbnailImage: /images/covers/impaled_nazarene-morbid_fate-thumb.jpg
 title: Impaled Nazarene - Morbid Fate
 ---
 

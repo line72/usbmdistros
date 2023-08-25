@@ -7,9 +7,9 @@ categories:
 date: '2023-08-11T07:44:14'
 draft: false
 images:
-- /images/covers/lunar_chalice-night_poetry.png
+- /images/covers/lunar_chalice-night_poetry.jpg
 inStock: true
-thumbnailImage: /images/covers/lunar_chalice-night_poetry-thumb.png
+thumbnailImage: /images/covers/lunar_chalice-night_poetry-thumb.jpg
 title: Lunar Chalice - Night Poetry
 ---
 

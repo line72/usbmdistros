@@ -7,9 +7,9 @@ categories:
 date: '2023-08-16T06:49:13'
 draft: false
 images:
-- /images/covers/1349-slaves.png
+- /images/covers/1349-slaves.jpg
 inStock: true
-thumbnailImage: /images/covers/1349-slaves-thumb.png
+thumbnailImage: /images/covers/1349-slaves-thumb.jpg
 title: 1349 - Slaves
 ---
 

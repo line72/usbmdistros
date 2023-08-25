@@ -7,9 +7,9 @@ categories:
 date: '2023-08-14T07:02:57'
 draft: false
 images:
-- /images/covers/aura_saturnal-aura_saturnal.png
+- /images/covers/aura_saturnal-aura_saturnal.jpg
 inStock: true
-thumbnailImage: /images/covers/aura_saturnal-aura_saturnal-thumb.png
+thumbnailImage: /images/covers/aura_saturnal-aura_saturnal-thumb.jpg
 title: Aura Saturnal - Aura Saturnal
 ---
 

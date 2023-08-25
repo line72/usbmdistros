@@ -7,9 +7,9 @@ categories:
 date: '2023-07-27T05:50:42'
 draft: false
 images:
-- /images/covers/profanatica-the_enemy_of_virtue.png
+- /images/covers/profanatica-the_enemy_of_virtue.jpg
 inStock: true
-thumbnailImage: /images/covers/profanatica-the_enemy_of_virtue-thumb.png
+thumbnailImage: /images/covers/profanatica-the_enemy_of_virtue-thumb.jpg
 title: Profanatica - The Enemy Of Virtue
 ---
 

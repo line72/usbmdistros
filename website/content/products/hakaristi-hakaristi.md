@@ -7,9 +7,9 @@ categories:
 date: '2023-08-14T07:06:04'
 draft: false
 images:
-- /images/covers/hakaristi-hakaristi.png
+- /images/covers/hakaristi-hakaristi.jpg
 inStock: true
-thumbnailImage: /images/covers/hakaristi-hakaristi-thumb.png
+thumbnailImage: /images/covers/hakaristi-hakaristi-thumb.jpg
 title: Hakaristi - Hakaristi
 ---
 

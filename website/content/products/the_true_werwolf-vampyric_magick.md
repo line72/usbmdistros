@@ -7,9 +7,9 @@ categories:
 date: '2023-08-14T07:10:09'
 draft: false
 images:
-- /images/covers/the_true_werwolf-vampyric_magick.png
+- /images/covers/the_true_werwolf-vampyric_magick.jpg
 inStock: true
-thumbnailImage: /images/covers/the_true_werwolf-vampyric_magick-thumb.png
+thumbnailImage: /images/covers/the_true_werwolf-vampyric_magick-thumb.jpg
 title: The True Werwolf - Vampyric Magick
 ---
 

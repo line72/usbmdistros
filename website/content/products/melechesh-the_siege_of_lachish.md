@@ -4,7 +4,7 @@ album: The Siege Of Lachish
 artist: Melechesh
 categories:
 - Vinyl
-date: '2023-07-27T05:52:24'
+date: '2023-08-25T07:42:59'
 draft: false
 images:
 - /images/covers/melechesh-the_siege_of_lachish.png
@@ -16,3 +16,5 @@ title: Melechesh - The Siege Of Lachish
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=25912&sort=pd.name&order=ASC) for $15.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=25913&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=38795&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=38796&sort=pd.name&order=ASC) for $25.00

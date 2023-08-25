@@ -7,9 +7,9 @@ categories:
 date: '2023-08-14T05:18:36'
 draft: false
 images:
-- /images/covers/distant_fear-mortal_column.png
+- /images/covers/distant_fear-mortal_column.jpg
 inStock: true
-thumbnailImage: /images/covers/distant_fear-mortal_column-thumb.png
+thumbnailImage: /images/covers/distant_fear-mortal_column-thumb.jpg
 title: Distant Fear - Mortal Column
 ---
 

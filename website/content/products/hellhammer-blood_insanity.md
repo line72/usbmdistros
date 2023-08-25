@@ -7,9 +7,9 @@ categories:
 date: '2023-08-16T06:53:22'
 draft: false
 images:
-- /images/covers/hellhammer-blood_insanity.png
+- /images/covers/hellhammer-blood_insanity.jpg
 inStock: true
-thumbnailImage: /images/covers/hellhammer-blood_insanity-thumb.png
+thumbnailImage: /images/covers/hellhammer-blood_insanity-thumb.jpg
 title: Hellhammer - Blood Insanity
 ---
 

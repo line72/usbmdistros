@@ -7,9 +7,9 @@ categories:
 date: '2023-08-24T16:54:56'
 draft: false
 images:
-- /images/covers/mutiilation-vampires_of_black_imperial_blood.png
+- /images/covers/mutiilation-vampires_of_black_imperial_blood.jpg
 inStock: true
-thumbnailImage: /images/covers/mutiilation-vampires_of_black_imperial_blood-thumb.png
+thumbnailImage: /images/covers/mutiilation-vampires_of_black_imperial_blood-thumb.jpg
 title: Mutiilation - Vampires of Black Imperial Blood
 ---
 

@@ -7,9 +7,9 @@ categories:
 date: '2023-08-17T07:38:51'
 draft: false
 images:
-- /images/covers/orcustus-wrathrash.png
+- /images/covers/orcustus-wrathrash.jpg
 inStock: true
-thumbnailImage: /images/covers/orcustus-wrathrash-thumb.png
+thumbnailImage: /images/covers/orcustus-wrathrash-thumb.jpg
 title: Orcustus - Wrathrash
 ---
 

@@ -7,9 +7,9 @@ categories:
 date: '2023-08-24T06:56:05'
 draft: false
 images:
-- "/images/covers/bulld\xF6zer-fallen_angel.png"
+- "/images/covers/bulld\xF6zer-fallen_angel.jpg"
 inStock: true
-thumbnailImage: "/images/covers/bulld\xF6zer-fallen_angel-thumb.png"
+thumbnailImage: "/images/covers/bulld\xF6zer-fallen_angel-thumb.jpg"
 title: "Bulld\xF6zer - Fallen Angel"
 ---
 

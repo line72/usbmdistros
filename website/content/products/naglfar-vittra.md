@@ -7,9 +7,9 @@ categories:
 date: '2023-08-19T06:55:27'
 draft: false
 images:
-- /images/covers/naglfar-vittra.png
+- /images/covers/naglfar-vittra.jpg
 inStock: true
-thumbnailImage: /images/covers/naglfar-vittra-thumb.png
+thumbnailImage: /images/covers/naglfar-vittra-thumb.jpg
 title: Naglfar - Vittra
 ---
 

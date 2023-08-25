@@ -7,9 +7,9 @@ categories:
 date: '2023-08-12T05:59:53'
 draft: false
 images:
-- /images/covers/crescent-the_order_of_amenti.png
+- /images/covers/crescent-the_order_of_amenti.jpg
 inStock: true
-thumbnailImage: /images/covers/crescent-the_order_of_amenti-thumb.png
+thumbnailImage: /images/covers/crescent-the_order_of_amenti-thumb.jpg
 title: Crescent - The Order of Amenti
 ---
 

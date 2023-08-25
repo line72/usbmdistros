@@ -7,9 +7,9 @@ categories:
 date: '2023-08-14T05:18:31'
 draft: false
 images:
-- /images/covers/lord_mantis-pervertor.png
+- /images/covers/lord_mantis-pervertor.jpg
 inStock: true
-thumbnailImage: /images/covers/lord_mantis-pervertor-thumb.png
+thumbnailImage: /images/covers/lord_mantis-pervertor-thumb.jpg
 title: Lord Mantis - Pervertor
 ---
 

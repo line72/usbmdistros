@@ -7,9 +7,9 @@ categories:
 date: '2023-07-25T06:06:21'
 draft: false
 images:
-- /images/covers/midnight-rebirth_by_blasphemy.png
+- /images/covers/midnight-rebirth_by_blasphemy.jpg
 inStock: true
-thumbnailImage: /images/covers/midnight-rebirth_by_blasphemy-thumb.png
+thumbnailImage: /images/covers/midnight-rebirth_by_blasphemy-thumb.jpg
 title: Midnight - Rebirth By Blasphemy
 ---
 

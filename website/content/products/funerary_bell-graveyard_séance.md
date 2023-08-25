@@ -7,9 +7,9 @@ categories:
 date: '2023-08-14T07:05:43'
 draft: false
 images:
-- "/images/covers/funerary_bell-graveyard_s\xE9ance.png"
+- "/images/covers/funerary_bell-graveyard_s\xE9ance.jpg"
 inStock: true
-thumbnailImage: "/images/covers/funerary_bell-graveyard_s\xE9ance-thumb.png"
+thumbnailImage: "/images/covers/funerary_bell-graveyard_s\xE9ance-thumb.jpg"
 title: "FUNERARY BELL - Graveyard S\xE9ance"
 ---
 

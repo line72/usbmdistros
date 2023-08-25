@@ -7,9 +7,9 @@ categories:
 date: '2023-08-09T07:34:25'
 draft: false
 images:
-- "/images/covers/arjen-lice_\u010Dovjeka_koji_je_rekao_ne.png"
+- "/images/covers/arjen-lice_\u010Dovjeka_koji_je_rekao_ne.jpg"
 inStock: true
-thumbnailImage: "/images/covers/arjen-lice_\u010Dovjeka_koji_je_rekao_ne-thumb.png"
+thumbnailImage: "/images/covers/arjen-lice_\u010Dovjeka_koji_je_rekao_ne-thumb.jpg"
 title: "Arjen - Lice \u010Dovjeka koji je rekao Ne"
 ---
 

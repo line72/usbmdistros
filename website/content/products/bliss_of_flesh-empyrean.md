@@ -7,9 +7,9 @@ categories:
 date: '2023-08-10T05:53:46'
 draft: false
 images:
-- /images/covers/bliss_of_flesh-empyrean.png
+- /images/covers/bliss_of_flesh-empyrean.jpg
 inStock: true
-thumbnailImage: /images/covers/bliss_of_flesh-empyrean-thumb.png
+thumbnailImage: /images/covers/bliss_of_flesh-empyrean-thumb.jpg
 title: Bliss Of Flesh - Empyrean
 ---
 

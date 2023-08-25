@@ -7,9 +7,9 @@ categories:
 date: '2023-08-14T07:08:56'
 draft: false
 images:
-- /images/covers/ruho-sokeus_uskon_valosta_-_vangittu.png
+- /images/covers/ruho-sokeus_uskon_valosta_-_vangittu.jpg
 inStock: true
-thumbnailImage: /images/covers/ruho-sokeus_uskon_valosta_-_vangittu-thumb.png
+thumbnailImage: /images/covers/ruho-sokeus_uskon_valosta_-_vangittu-thumb.jpg
 title: Ruho - Sokeus Uskon Valosta / Vangittu
 ---
 

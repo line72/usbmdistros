@@ -7,9 +7,9 @@ categories:
 date: '2023-08-05T06:20:35'
 draft: false
 images:
-- /images/covers/mayhem-chimera.png
+- /images/covers/mayhem-chimera.jpg
 inStock: true
-thumbnailImage: /images/covers/mayhem-chimera-thumb.png
+thumbnailImage: /images/covers/mayhem-chimera-thumb.jpg
 title: Mayhem - Chimera
 ---
 

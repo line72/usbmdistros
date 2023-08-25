@@ -7,9 +7,9 @@ categories:
 date: '2023-08-08T06:26:31'
 draft: false
 images:
-- /images/covers/noenum-fiery_path.png
+- /images/covers/noenum-fiery_path.jpg
 inStock: true
-thumbnailImage: /images/covers/noenum-fiery_path-thumb.png
+thumbnailImage: /images/covers/noenum-fiery_path-thumb.jpg
 title: Noenum - Fiery Path
 ---
 

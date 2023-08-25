@@ -8,9 +8,9 @@ categories:
 date: '2023-08-11T07:54:01'
 draft: false
 images:
-- "/images/covers/runespell-shores_of_n\xE1str\xF6nd.png"
+- "/images/covers/runespell-shores_of_n\xE1str\xF6nd.jpg"
 inStock: true
-thumbnailImage: "/images/covers/runespell-shores_of_n\xE1str\xF6nd-thumb.png"
+thumbnailImage: "/images/covers/runespell-shores_of_n\xE1str\xF6nd-thumb.jpg"
 title: "Runespell - Shores of N\xE1str\xF6nd"
 ---
 

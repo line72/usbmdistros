@@ -7,9 +7,9 @@ categories:
 date: '2023-08-15T05:21:02'
 draft: false
 images:
-- /images/covers/death_fortress-mirror_into_eternity.png
+- /images/covers/death_fortress-mirror_into_eternity.jpg
 inStock: true
-thumbnailImage: /images/covers/death_fortress-mirror_into_eternity-thumb.png
+thumbnailImage: /images/covers/death_fortress-mirror_into_eternity-thumb.jpg
 title: Death Fortress - Mirror Into Eternity
 ---
 

@@ -7,9 +7,9 @@ categories:
 date: '2023-08-24T16:54:57'
 draft: false
 images:
-- /images/covers/wolfblood-wolfblood.png
+- /images/covers/wolfblood-wolfblood.jpg
 inStock: true
-thumbnailImage: /images/covers/wolfblood-wolfblood-thumb.png
+thumbnailImage: /images/covers/wolfblood-wolfblood-thumb.jpg
 title: Wolfblood - Wolfblood
 ---
 

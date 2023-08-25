@@ -8,9 +8,9 @@ categories:
 date: '2023-08-21T07:54:38'
 draft: false
 images:
-- /images/covers/nocturnal_triumph-the_fangs_of_miseries_past.png
+- /images/covers/nocturnal_triumph-the_fangs_of_miseries_past.jpg
 inStock: true
-thumbnailImage: /images/covers/nocturnal_triumph-the_fangs_of_miseries_past-thumb.png
+thumbnailImage: /images/covers/nocturnal_triumph-the_fangs_of_miseries_past-thumb.jpg
 title: Nocturnal Triumph - The Fangs of Miseries Past
 ---
 

@@ -8,9 +8,9 @@ categories:
 date: '2023-08-21T07:54:38'
 draft: false
 images:
-- /images/covers/nocturnal_triumph-into_light's_graven_womb.png
+- /images/covers/nocturnal_triumph-into_light's_graven_womb.jpg
 inStock: true
-thumbnailImage: /images/covers/nocturnal_triumph-into_light's_graven_womb-thumb.png
+thumbnailImage: /images/covers/nocturnal_triumph-into_light's_graven_womb-thumb.jpg
 title: Nocturnal Triumph - Into Light's Graven Womb
 ---
 

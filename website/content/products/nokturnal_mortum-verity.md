@@ -8,9 +8,9 @@ categories:
 date: '2023-08-24T16:54:56'
 draft: false
 images:
-- /images/covers/nokturnal_mortum-verity.png
+- /images/covers/nokturnal_mortum-verity.jpg
 inStock: true
-thumbnailImage: /images/covers/nokturnal_mortum-verity-thumb.png
+thumbnailImage: /images/covers/nokturnal_mortum-verity-thumb.jpg
 title: Nokturnal Mortum - Verity
 ---
 

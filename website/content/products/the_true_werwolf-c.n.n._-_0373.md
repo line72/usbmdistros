@@ -7,9 +7,9 @@ categories:
 date: '2023-08-13T07:16:22'
 draft: false
 images:
-- /images/covers/the_true_werwolf-c.n.n._-_0373.png
+- /images/covers/the_true_werwolf-c.n.n._-_0373.jpg
 inStock: true
-thumbnailImage: /images/covers/the_true_werwolf-c.n.n._-_0373-thumb.png
+thumbnailImage: /images/covers/the_true_werwolf-c.n.n._-_0373-thumb.jpg
 title: The True Werwolf - C.N.N. / 0373
 ---
 

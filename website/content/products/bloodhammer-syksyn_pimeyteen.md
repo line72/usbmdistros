@@ -7,9 +7,9 @@ categories:
 date: '2023-08-14T07:03:30'
 draft: false
 images:
-- /images/covers/bloodhammer-syksyn_pimeyteen.png
+- /images/covers/bloodhammer-syksyn_pimeyteen.jpg
 inStock: true
-thumbnailImage: /images/covers/bloodhammer-syksyn_pimeyteen-thumb.png
+thumbnailImage: /images/covers/bloodhammer-syksyn_pimeyteen-thumb.jpg
 title: Bloodhammer - Syksyn Pimeyteen
 ---
 

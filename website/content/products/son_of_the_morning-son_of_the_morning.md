@@ -7,9 +7,9 @@ categories:
 date: '2023-08-03T07:53:26'
 draft: false
 images:
-- /images/covers/son_of_the_morning-son_of_the_morning.png
+- /images/covers/son_of_the_morning-son_of_the_morning.jpg
 inStock: true
-thumbnailImage: /images/covers/son_of_the_morning-son_of_the_morning-thumb.png
+thumbnailImage: /images/covers/son_of_the_morning-son_of_the_morning-thumb.jpg
 title: Son of the Morning - Son of the Morning
 ---
 

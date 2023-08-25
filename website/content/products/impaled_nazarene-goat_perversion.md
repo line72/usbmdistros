@@ -7,9 +7,9 @@ categories:
 date: '2023-08-24T06:59:09'
 draft: false
 images:
-- /images/covers/impaled_nazarene-goat_perversion.png
+- /images/covers/impaled_nazarene-goat_perversion.jpg
 inStock: true
-thumbnailImage: /images/covers/impaled_nazarene-goat_perversion-thumb.png
+thumbnailImage: /images/covers/impaled_nazarene-goat_perversion-thumb.jpg
 title: Impaled Nazarene - Goat Perversion
 ---
 
