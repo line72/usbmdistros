@@ -4,7 +4,7 @@ album: A New Generation of Vampyric Conspiracies
 artist: Old Nick
 categories:
 - Vinyl
-date: '2023-03-31T05:01:06'
+date: '2023-08-26T05:08:21'
 draft: false
 images:
 - /images/covers/old_nick-a_new_generation_of_vampyric_conspiracies.jpg

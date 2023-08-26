@@ -1,10 +1,11 @@
 ---
-actualPrice: $20.00 - 25.00
+actualPrice: $5.00 - 25.00
 album: Aura
 artist: Bolzer
 categories:
 - Vinyl
-date: '2021-12-22T06:06:56'
+- Cassette
+date: '2023-08-26T05:24:41'
 draft: false
 images:
 - /images/covers/bolzer-aura.jpg
@@ -16,3 +17,5 @@ title: Bolzer - Aura
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=13830&sort=pd.name&order=ASC) for $20.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=19758&sort=pd.name&order=ASC) for $25.00
+## Cassette
+* Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/36599780-bolzer-aura) for $5.00
