@@ -5,7 +5,7 @@ artist: Verberis
 categories:
 - Vinyl
 - Cassette
-date: '2023-07-27T05:51:42'
+date: '2023-08-27T07:04:15'
 draft: false
 images:
 - /images/covers/verberis-vexamen.jpg
@@ -16,5 +16,6 @@ title: Verberis - Vexamen
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=2529&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=38960&sort=pd.name&order=ASC) for $15.00
 ## Cassette
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=1582&sort=pd.name&order=ASC) for $6.00

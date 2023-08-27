@@ -1,10 +1,10 @@
 ---
-actualPrice: $17.00
+actualPrice: $10.00 - 17.00
 album: Descend... into Nothingness
 artist: Dalkhu
 categories:
 - Vinyl
-date: '2023-07-27T05:48:26'
+date: '2023-08-27T06:11:47'
 draft: false
 images:
 - /images/covers/dalkhu-descend..._into_nothingness.jpg
@@ -16,3 +16,4 @@ title: Dalkhu - Descend... into Nothingness
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=1891&sort=pd.name&order=ASC) for $17.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=22088&sort=pd.name&order=ASC) for $17.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=38959&sort=pd.name&order=ASC) for $10.00
