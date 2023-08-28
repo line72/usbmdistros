@@ -1,10 +1,10 @@
 ---
-actualPrice: $17.00
+actualPrice: $10.00 - 17.00
 album: Prazan Grob
 artist: Svartgren
 categories:
 - Vinyl
-date: '2023-07-27T05:51:17'
+date: '2023-08-28T07:19:55'
 draft: false
 images:
 - /images/covers/svartgren-prazan_grob.jpg
@@ -15,3 +15,4 @@ title: Svartgren - Prazan Grob
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=2086&sort=pd.name&order=ASC) for $17.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=39027&sort=pd.name&order=ASC) for $10.00

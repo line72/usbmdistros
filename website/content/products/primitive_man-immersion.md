@@ -4,7 +4,7 @@ album: Immersion
 artist: Primitive Man
 categories:
 - Vinyl
-date: '2023-02-14T06:23:13'
+date: '2023-08-28T10:08:13'
 draft: false
 images:
 - /images/covers/primitive_man-immersion.png
@@ -20,3 +20,4 @@ title: Primitive Man - Immersion
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/primitive-man-immersion-lp-1) for $25.00 :: Moonphase w/ Splatter 2020 press
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/primitive-man-immersion-lp) for $20.00 :: Black-In-Clear w/ Splatter 2022 press
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/primitive-man-immersion-lp) for $25.00 :: Moonphase w/ Splatter 2020 press
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/primitive-man-immersion-lp-1) for $20.00 :: Clear/Ice w/ Splatter 2023 press

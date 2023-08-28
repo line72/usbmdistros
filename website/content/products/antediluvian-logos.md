@@ -4,7 +4,7 @@ album: Logos
 artist: Antediluvian
 categories:
 - Vinyl
-date: '2023-07-27T05:47:36'
+date: '2023-08-28T05:56:00'
 draft: false
 images:
 - /images/covers/antediluvian-logos.jpg
@@ -18,3 +18,4 @@ title: Antediluvian - Logos
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=32494&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=32544&sort=pd.name&order=ASC) for $30.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=35752&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=38970&sort=pd.name&order=ASC) for $25.00

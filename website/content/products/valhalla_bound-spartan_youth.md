@@ -1,10 +1,10 @@
 ---
-actualPrice: $25.00
+actualPrice: $25.00 - 35.00
 album: Spartan Youth
 artist: Valhalla Bound
 categories:
 - Vinyl
-date: '2023-08-24T06:49:11'
+date: '2023-08-28T07:24:08'
 draft: false
 images:
 - /images/covers/valhalla_bound-spartan_youth.jpg
@@ -17,3 +17,5 @@ title: Valhalla Bound - Spartan Youth
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=36972&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=38463&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=38731&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=38989&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=38990&sort=pd.name&order=ASC) for $35.00

@@ -4,7 +4,7 @@ album: Lords of Evil Power
 artist: Damnation Lust
 categories:
 - Vinyl
-date: '2023-07-27T05:48:26'
+date: '2023-08-28T06:09:08'
 draft: false
 images:
 - /images/covers/damnation_lust-lords_of_evil_power.jpg
@@ -16,3 +16,4 @@ title: Damnation Lust - Lords of Evil Power
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29235&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29639&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=38997&sort=pd.name&order=ASC) for $25.00
