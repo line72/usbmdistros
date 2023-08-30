@@ -4,7 +4,7 @@ album: Spartan Youth
 artist: Valhalla Bound
 categories:
 - Vinyl
-date: '2023-08-28T07:24:08'
+date: '2023-08-30T07:19:25'
 draft: false
 images:
 - /images/covers/valhalla_bound-spartan_youth.jpg
@@ -19,3 +19,5 @@ title: Valhalla Bound - Spartan Youth
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=38731&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=38989&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=38990&sort=pd.name&order=ASC) for $35.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=39160&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=39161&sort=pd.name&order=ASC) for $35.00
