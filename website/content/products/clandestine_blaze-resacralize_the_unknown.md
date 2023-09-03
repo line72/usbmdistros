@@ -5,7 +5,7 @@ artist: CLANDESTINE BLAZE
 categories:
 - Vinyl
 - CD
-date: '2023-08-16T06:03:13'
+date: '2023-09-03T10:32:51'
 draft: false
 images:
 - /images/covers/clandestine_blaze-resacralize_the_unknown.jpg
@@ -19,5 +19,6 @@ title: CLANDESTINE BLAZE - Resacralize The Unknown
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=37996&sort=pd.name&order=ASC) for $12.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=38421&sort=pd.name&order=ASC) for $12.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=38422&sort=pd.name&order=ASC) for $27.00
+* Purchase from [CW Productions](https://shop.cwproductions.net/products/clandestine-blaze-resacralize-the-unknown-lp) for $22.00
 ## CD
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/clandestine-blaze-resacralize-the-unknown-cd) for $14.00

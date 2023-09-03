@@ -4,7 +4,7 @@ album: DDTM & TOOBB
 artist: Beherit
 categories:
 - Vinyl
-date: '2023-07-26T05:47:25'
+date: '2023-09-03T06:01:59'
 draft: false
 images:
 - /images/covers/beherit-ddtm_&_toobb.jpg
@@ -23,3 +23,4 @@ title: Beherit - DDTM & TOOBB
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=33559&sort=pd.name&order=ASC) for $55.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=34119&sort=pd.name&order=ASC) for $55.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=35396&sort=pd.name&order=ASC) for $55.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=39241&sort=pd.name&order=ASC) for $55.00
