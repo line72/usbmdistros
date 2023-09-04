@@ -4,7 +4,7 @@ album: Erotik
 artist: Lifelover
 categories:
 - Vinyl
-date: '2022-09-14T05:11:05'
+date: '2023-09-04T06:23:19'
 draft: false
 images:
 - /images/covers/lifelover-erotik.jpg
@@ -18,3 +18,4 @@ title: Lifelover - Erotik
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=24992&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=25680&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=27750&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=39313&sort=pd.name&order=ASC) for $25.00

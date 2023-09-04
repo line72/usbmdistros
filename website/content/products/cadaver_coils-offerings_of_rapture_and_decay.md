@@ -5,7 +5,7 @@ artist: Cadaver Coils
 categories:
 - Vinyl
 - CD
-date: '2023-07-27T05:48:10'
+date: '2023-09-04T05:56:07'
 draft: false
 images:
 - /images/covers/cadaver_coils-offerings_of_rapture_and_decay.jpg
@@ -16,5 +16,6 @@ title: Cadaver Coils - Offerings of Rapture and Decay
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=23947&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=39301&sort=pd.name&order=ASC) for $20.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=23954&sort=pd.name&order=ASC) for $12.00

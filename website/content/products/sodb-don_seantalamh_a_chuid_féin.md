@@ -1,10 +1,10 @@
 ---
-actualPrice: $17.00
+actualPrice: $5.00
 album: "Don Seantalamh A Chuid F\xE9in"
 artist: Sodb
 categories:
 - Vinyl
-date: '2023-07-27T05:51:11'
+date: '2023-09-04T07:08:02'
 draft: false
 images:
 - "/images/covers/sodb-don_seantalamh_a_chuid_f\xE9in.jpg"
@@ -14,4 +14,4 @@ title: "Sodb - Don Seantalamh A Chuid F\xE9in"
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=1783&sort=pd.name&order=ASC) for $17.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=1783&sort=pd.name&order=ASC) for $5.00

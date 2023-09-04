@@ -5,7 +5,7 @@ artist: Dikasterion
 categories:
 - Vinyl
 - CD
-date: '2023-08-31T07:22:21'
+date: '2023-09-04T08:11:12'
 draft: false
 images:
 - /images/covers/dikasterion-chaos_as_a_new_world.jpg
@@ -16,5 +16,7 @@ title: Dikasterion - Chaos as a New World
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=39193&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=39262&sort=pd.name&order=ASC) for $25.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=39194&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=39261&sort=pd.name&order=ASC) for $12.00

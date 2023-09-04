@@ -5,7 +5,7 @@ artist: "Lj\xE1in"
 categories:
 - Vinyl
 - CD
-date: '2023-07-27T05:54:25'
+date: '2023-09-04T06:23:31'
 draft: false
 images:
 - "/images/covers/lj\xE1in-endas\xE1lmar_og_klofnar_tungur.jpg"
@@ -16,5 +16,6 @@ title: "Lj\xE1in - Endas\xE1lmar og klofnar tungur"
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=21817&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=39314&sort=pd.name&order=ASC) for $15.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=8973&sort=pd.name&order=ASC) for $10.00
