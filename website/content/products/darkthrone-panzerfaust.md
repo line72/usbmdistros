@@ -1,11 +1,11 @@
 ---
-actualPrice: $10.00 - 25.00
+actualPrice: $10.00 - 130.00
 album: Panzerfaust
 artist: Darkthrone
 categories:
 - Vinyl
 - CD
-date: '2023-07-27T05:48:28'
+date: '2023-09-06T05:59:33'
 draft: false
 images:
 - /images/covers/darkthrone-panzerfaust.jpg
@@ -33,5 +33,7 @@ title: Darkthrone - Panzerfaust
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=34827&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=35694&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=37541&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=39412&sort=pd.name&order=ASC) for $130.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=39411&sort=pd.name&order=ASC) for $25.00
 ## CD
 * Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/darkthrone-panzerfaust-cd/) for $10.00

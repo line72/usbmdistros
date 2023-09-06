@@ -1,11 +1,11 @@
 ---
-actualPrice: $5.00
+actualPrice: $5.00 - 8.00
 album: Percussimus Foedus Cum Morte
 artist: Veneror
 categories:
 - Vinyl
 - CD
-date: '2023-09-04T07:30:30'
+date: '2023-09-06T06:50:44'
 draft: false
 images:
 - /images/covers/veneror-percussimus_foedus_cum_morte.jpg
@@ -16,5 +16,6 @@ title: Veneror - Percussimus Foedus Cum Morte
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=2071&sort=pd.name&order=ASC) for $5.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=39401&sort=pd.name&order=ASC) for $8.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=1987&sort=pd.name&order=ASC) for $5.00

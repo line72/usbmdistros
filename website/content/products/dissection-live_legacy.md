@@ -5,7 +5,7 @@ artist: Dissection
 categories:
 - Vinyl
 - CD
-date: '2023-09-04T06:03:09'
+date: '2023-09-06T07:33:25'
 draft: false
 images:
 - /images/covers/dissection-live_legacy.jpg
@@ -18,3 +18,4 @@ title: Dissection - Live Legacy
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=39285&sort=pd.name&order=ASC) for $120.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=35469&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=39390&sort=pd.name&order=ASC) for $12.00
