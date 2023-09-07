@@ -4,7 +4,7 @@ album: O ovnh intot adr Mordrb
 artist: "Vo\xEBmmr"
 categories:
 - Vinyl
-date: '2023-07-27T05:51:44'
+date: '2023-09-07T07:41:08'
 draft: false
 images:
 - "/images/covers/vo\xEBmmr-o_ovnh_intot_adr_mordrb.jpg"
@@ -17,3 +17,4 @@ title: "Vo\xEBmmr - O ovnh intot adr Mordrb"
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/voemmr-o-ovnh-intot-adr-mordrb-tape-12-lp) for $23.00
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/voemmr-o-ovnh-intot-adr-mordrb-12-lp) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=9713&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=39428&sort=pd.name&order=ASC) for $25.00

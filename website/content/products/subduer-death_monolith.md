@@ -4,7 +4,7 @@ album: Death Monolith
 artist: Subduer
 categories:
 - Vinyl
-date: '2023-07-27T05:51:15'
+date: '2023-09-07T07:19:33'
 draft: false
 images:
 - /images/covers/subduer-death_monolith.jpg
@@ -16,3 +16,4 @@ title: Subduer - Death Monolith
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=4634&sort=pd.name&order=ASC) for $17.00
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/subduer-death-monolith-12) for $12.00 :: Black 1st press vinyl
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=39469&sort=pd.name&order=ASC) for $15.00

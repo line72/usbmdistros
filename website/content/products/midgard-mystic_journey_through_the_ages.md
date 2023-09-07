@@ -4,7 +4,7 @@ album: Mystic Journey Through the Ages
 artist: Midgard
 categories:
 - Vinyl
-date: '2023-07-27T05:50:01'
+date: '2023-09-07T06:40:30'
 draft: false
 images:
 - /images/covers/midgard-mystic_journey_through_the_ages.jpg
@@ -17,3 +17,4 @@ title: Midgard - Mystic Journey Through the Ages
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/midgard-mystic-journey-through-the-ages-12-lp) for $28.00
 * Purchase from [CW Productions](https://shop.cwproductions.net/products/midgard-mystic-journey-through-the-ages-lp) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29871&sort=pd.name&order=ASC) for $27.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=39508&sort=pd.name&order=ASC) for $27.00

@@ -1,10 +1,10 @@
 ---
-actualPrice: $20.00
+actualPrice: $15.00 - 20.00
 album: There Is No Truth but Death
 artist: Sleeping Ancient
 categories:
 - Vinyl
-date: '2023-02-28T06:16:59'
+date: '2023-09-07T07:16:51'
 draft: false
 images:
 - /images/covers/sleeping_ancient-there_is_no_truth_but_death.jpg
@@ -15,3 +15,4 @@ title: Sleeping Ancient - There Is No Truth but Death
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=31709&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=39509&sort=pd.name&order=ASC) for $15.00
