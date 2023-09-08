@@ -1,10 +1,10 @@
 ---
-actualPrice: $40.00 - 55.00
+actualPrice: $40.00 - 300.00
 album: Storm of the Light's Bane
 artist: Dissection
 categories:
 - Vinyl
-date: '2023-03-31T05:12:57'
+date: '2023-09-08T06:07:59'
 draft: false
 images:
 - /images/covers/dissection-storm_of_the_light's_bane.jpg
@@ -28,3 +28,4 @@ title: Dissection - Storm of the Light's Bane
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=32186&sort=pd.name&order=ASC) for $40.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=32187&sort=pd.name&order=ASC) for $55.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=32855&sort=pd.name&order=ASC) for $55.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=39550&sort=pd.name&order=ASC) for $300.00

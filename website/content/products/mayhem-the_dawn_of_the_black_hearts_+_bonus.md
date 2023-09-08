@@ -4,7 +4,7 @@ album: The Dawn of the Black Hearts + Bonus
 artist: Mayhem
 categories:
 - CD
-date: '2022-08-05T05:12:31'
+date: '2023-09-08T08:05:51'
 draft: false
 images:
 - /images/covers/mayhem-the_dawn_of_the_black_hearts_+_bonus.jpg
@@ -21,3 +21,4 @@ title: Mayhem - The Dawn of the Black Hearts + Bonus
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=24725&sort=pd.name&order=ASC) for $12.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=25350&sort=pd.name&order=ASC) for $12.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=26027&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=39515&sort=pd.name&order=ASC) for $12.00

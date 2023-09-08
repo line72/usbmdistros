@@ -1,10 +1,10 @@
 ---
-actualPrice: $5.00
+actualPrice: $5.00 - 10.00
 album: Brimstone Altar
 artist: Lucifericon
 categories:
 - Vinyl
-date: '2023-09-07T06:29:16'
+date: '2023-09-08T06:29:51'
 draft: false
 images:
 - /images/covers/lucifericon-brimstone_altar.jpg
@@ -15,3 +15,4 @@ title: Lucifericon - Brimstone Altar
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=1407&sort=pd.name&order=ASC) for $5.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=39537&sort=pd.name&order=ASC) for $10.00
