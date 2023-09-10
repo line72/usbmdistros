@@ -4,7 +4,7 @@ album: Sis Lou Qui Cau
 artist: Arzacq
 categories:
 - Vinyl
-date: '2023-07-28T05:55:29'
+date: '2023-09-10T05:56:30'
 draft: false
 images:
 - /images/covers/arzacq-sis_lou_qui_cau.jpg
@@ -15,3 +15,4 @@ title: Arzacq - Sis Lou Qui Cau
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=37657&sort=pd.name&order=ASC) for $27.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=39704&sort=pd.name&order=ASC) for $27.00

@@ -5,7 +5,7 @@ artist: Graveland
 categories:
 - Vinyl
 - CD
-date: '2023-07-27T05:53:52'
+date: '2023-09-10T07:57:19'
 draft: false
 images:
 - /images/covers/graveland-hour_of_ragnarok.jpg
@@ -20,3 +20,4 @@ title: Graveland - Hour of Ragnarok
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=31963&sort=pd.name&order=ASC) for $12.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=33984&sort=pd.name&order=ASC) for $12.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=34709&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=39723&sort=pd.name&order=ASC) for $12.00

@@ -5,7 +5,7 @@ artist: Ragnarok
 categories:
 - Vinyl
 - Cassette
-date: '2022-09-16T05:11:22'
+date: '2023-09-10T06:54:12'
 draft: false
 images:
 - /images/covers/ragnarok-arising_realm.jpg
@@ -18,5 +18,6 @@ title: Ragnarok - Arising Realm
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=20284&sort=pd.name&order=ASC) for $30.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=21239&sort=pd.name&order=ASC) for $30.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=27811&sort=pd.name&order=ASC) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=39682&sort=pd.name&order=ASC) for $30.00
 ## Cassette
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=18812&sort=pd.name&order=ASC) for $15.00

@@ -5,7 +5,7 @@ artist: Azaxul
 categories:
 - Vinyl
 - CD
-date: '2023-07-27T05:47:46'
+date: '2023-09-10T11:40:17'
 draft: false
 images:
 - /images/covers/azaxul-echoes_of_dreariness.jpg
@@ -20,3 +20,4 @@ title: Azaxul - Echoes of Dreariness
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=26797&sort=pd.name&order=ASC) for $15.00
 * Purchase from [CW Productions](https://shop.cwproductions.net/products/azaxul-echoes-of-dreariness-cd) for $14.00
+* Purchase from [CW Productions](https://shop.cwproductions.net/products/azaxul-echoes-of-dreariness-cd-1) for $14.00

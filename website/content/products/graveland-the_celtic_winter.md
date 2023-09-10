@@ -5,7 +5,7 @@ artist: Graveland
 categories:
 - Vinyl
 - CD
-date: '2023-07-27T05:53:53'
+date: '2023-09-10T07:57:19'
 draft: false
 images:
 - /images/covers/graveland-the_celtic_winter.jpg
@@ -22,3 +22,4 @@ title: Graveland - The Celtic Winter
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=31962&sort=pd.name&order=ASC) for $12.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=33985&sort=pd.name&order=ASC) for $12.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=34710&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=39724&sort=pd.name&order=ASC) for $12.00

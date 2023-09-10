@@ -5,7 +5,7 @@ artist: Moonblood
 categories:
 - Vinyl
 - CD
-date: '2023-09-08T09:08:46'
+date: '2023-09-10T11:40:16'
 draft: false
 images:
 - /images/covers/moonblood-nosferatu.jpg
@@ -37,3 +37,4 @@ title: Moonblood - Nosferatu
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=28815&sort=pd.name&order=ASC) for $12.00
 * Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/moonblood-nosferatu-cd/) for $15.00
 * Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/moonblood-nosferatu-cd/) for $15.00
+* Purchase from [CW Productions](https://shop.cwproductions.net/products/moonblood-nosferatu-cd-2) for $15.00

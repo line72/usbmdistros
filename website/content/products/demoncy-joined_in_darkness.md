@@ -5,7 +5,7 @@ artist: Demoncy
 categories:
 - Vinyl
 - CD
-date: '2023-07-27T05:48:34'
+date: '2023-09-09T06:17:40'
 draft: false
 images:
 - /images/covers/demoncy-joined_in_darkness.jpg
@@ -21,5 +21,6 @@ title: Demoncy - Joined In Darkness
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=32111&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=32112&sort=pd.name&order=ASC) for $30.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=33088&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=39571&sort=pd.name&order=ASC) for $25.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=8187&sort=pd.name&order=ASC) for $10.00

@@ -5,7 +5,7 @@ artist: Revenge
 categories:
 - Vinyl
 - Cassette
-date: '2023-07-27T05:50:48'
+date: '2023-09-09T07:05:26'
 draft: false
 images:
 - /images/covers/revenge-victory_intolerance_mastery.png
@@ -23,5 +23,6 @@ title: Revenge - Victory Intolerance Mastery
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=35166&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=36242&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=37476&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=39595&sort=pd.name&order=ASC) for $25.00
 ## Cassette
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=23109&sort=pd.name&order=ASC) for $15.00

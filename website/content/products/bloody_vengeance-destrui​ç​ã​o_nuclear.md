@@ -5,7 +5,7 @@ artist: Bloody Vengeance
 categories:
 - Vinyl
 - Cassette
-date: '2023-08-30T09:11:35'
+date: '2023-09-09T09:28:33'
 draft: false
 images:
 - "/images/covers/bloody_vengeance-destrui\u200B\xE7\u200B\xE3\u200Bo_nuclear.jpg"
@@ -26,3 +26,4 @@ title: "Bloody Vengeance - Destrui\u200B\xE7\u200B\xE3\u200Bo Nuclear"
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=34768&sort=pd.name&order=ASC) for $12.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=38940&sort=pd.name&order=ASC) for $12.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=39139&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=39653&sort=pd.name&order=ASC) for $12.00

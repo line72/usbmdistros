@@ -5,7 +5,7 @@ artist: Embrace of Thorns
 categories:
 - Vinyl
 - CD
-date: '2023-07-27T05:48:45'
+date: '2023-09-10T06:14:57'
 draft: false
 images:
 - /images/covers/embrace_of_thorns-morbid_exaltations.jpg
@@ -16,5 +16,6 @@ title: Embrace of Thorns - Morbid Exaltations
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=12526&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=39705&sort=pd.name&order=ASC) for $16.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=12527&sort=pd.name&order=ASC) for $7.00
