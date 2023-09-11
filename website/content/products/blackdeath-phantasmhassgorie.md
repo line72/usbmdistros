@@ -6,7 +6,7 @@ categories:
 - Vinyl
 - Cassette
 - CD
-date: '2023-07-27T05:53:04'
+date: '2023-09-11T06:06:17'
 draft: false
 images:
 - /images/covers/blackdeath-phantasmhassgorie.jpg
@@ -18,6 +18,7 @@ title: Blackdeath - Phantasmhassgorie
 ## Vinyl
 * Purchase from [CW Productions](https://shop.cwproductions.net/products/blackdeath-phantasmhassgorie-lp) for $16.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=25296&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=39770&sort=pd.name&order=ASC) for $20.00
 ## Cassette
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=5586&sort=pd.name&order=ASC) for $8.00
 ## CD

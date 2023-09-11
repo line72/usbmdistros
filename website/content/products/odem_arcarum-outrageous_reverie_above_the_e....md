@@ -1,10 +1,10 @@
 ---
-actualPrice: $15.00
+actualPrice: $10.00 - 15.00
 album: Outrageous Reverie Above the E...
 artist: Odem Arcarum
 categories:
 - Vinyl
-date: '2023-07-27T05:50:29'
+date: '2023-09-11T07:06:57'
 draft: false
 images:
 - /images/covers/odem_arcarum-outrageous_reverie_above_the_e....jpg
@@ -15,3 +15,4 @@ title: Odem Arcarum - Outrageous Reverie Above the E...
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=12085&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=39746&sort=pd.name&order=ASC) for $10.00
