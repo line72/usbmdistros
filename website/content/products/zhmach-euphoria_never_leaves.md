@@ -4,7 +4,7 @@ album: Euphoria Never Leaves
 artist: Zhmach
 categories:
 - Vinyl
-date: '2023-07-27T05:52:44'
+date: '2023-09-12T08:15:34'
 draft: false
 images:
 - /images/covers/zhmach-euphoria_never_leaves.jpg
@@ -21,3 +21,4 @@ title: Zhmach - Euphoria Never Leaves
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=28978&sort=pd.name&order=ASC) for $15.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=32342&sort=pd.name&order=ASC) for $15.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=34210&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=39784&sort=pd.name&order=ASC) for $15.00

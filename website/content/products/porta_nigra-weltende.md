@@ -4,7 +4,7 @@ album: Weltende
 artist: Porta Nigra
 categories:
 - Vinyl
-date: '2023-07-27T05:50:41'
+date: '2023-09-12T07:11:51'
 draft: false
 images:
 - /images/covers/porta_nigra-weltende.jpg
@@ -15,3 +15,4 @@ title: Porta Nigra - Weltende
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=36943&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=39836&sort=pd.name&order=ASC) for $25.00

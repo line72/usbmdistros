@@ -4,7 +4,7 @@ album: Ascension
 artist: Serpents Oath
 categories:
 - Vinyl
-date: '2023-07-27T05:51:05'
+date: '2023-09-12T07:21:31'
 draft: false
 images:
 - /images/covers/serpents_oath-ascension.png
@@ -16,3 +16,4 @@ title: Serpents Oath - Ascension
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=24913&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=30286&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=39844&sort=pd.name&order=ASC) for $25.00

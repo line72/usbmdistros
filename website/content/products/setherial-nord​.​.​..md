@@ -4,7 +4,7 @@ album: "Nord\u200B.\u200B.\u200B."
 artist: Setherial
 categories:
 - Vinyl
-date: '2023-07-27T05:51:05'
+date: '2023-09-12T07:21:37'
 draft: false
 images:
 - "/images/covers/setherial-nord\u200B.\u200B.\u200B..jpg"
@@ -21,3 +21,4 @@ title: "Setherial - Nord\u200B.\u200B.\u200B."
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=32470&sort=pd.name&order=ASC) for $27.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=33194&sort=pd.name&order=ASC) for $27.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=34144&sort=pd.name&order=ASC) for $27.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=39839&sort=pd.name&order=ASC) for $27.00

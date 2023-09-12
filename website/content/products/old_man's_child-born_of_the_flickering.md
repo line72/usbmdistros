@@ -1,10 +1,10 @@
 ---
-actualPrice: $30.00 - 35.00
+actualPrice: $27.00 - 35.00
 album: Born of the Flickering
 artist: Old Man's Child
 categories:
 - Vinyl
-date: '2022-03-11T17:02:59'
+date: '2023-09-12T07:08:27'
 draft: false
 images:
 - /images/covers/old_man's_child-born_of_the_flickering.jpg
@@ -18,3 +18,4 @@ title: Old Man's Child - Born of the Flickering
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/old-mans-child-born-of-the-flickering) for $32.00 :: Silver/Purple Swirl 2019 press vinyl (SOLD OUT)
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/old-mans-child-born-of-the-flickering) for $35.00 :: Clear w/ Black/Purple Splatter 2019 press vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/old-mans-child-born-of-the-flickering) for $35.00 :: Purple/Silver Swirl 2019 press vinyl
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=39848&sort=pd.name&order=ASC) for $27.00

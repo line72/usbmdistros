@@ -4,7 +4,7 @@ album: Abyssic Black Metal
 artist: Rotting Christ
 categories:
 - Vinyl
-date: '2023-07-27T05:50:52'
+date: '2023-09-12T07:15:38'
 draft: false
 images:
 - /images/covers/rotting_christ-abyssic_black_metal.jpg
@@ -19,3 +19,4 @@ title: Rotting Christ - Abyssic Black Metal
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=31146&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=35212&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=35725&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=39819&sort=pd.name&order=ASC) for $25.00
