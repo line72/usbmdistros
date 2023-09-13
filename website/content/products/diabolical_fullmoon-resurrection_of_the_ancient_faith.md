@@ -6,7 +6,7 @@ categories:
 - Vinyl
 - Cassette
 - CD
-date: '2023-09-09T06:18:35'
+date: '2023-09-13T05:15:09'
 draft: false
 images:
 - /images/covers/diabolical_fullmoon-resurrection_of_the_ancient_faith.jpg
@@ -21,5 +21,6 @@ title: Diabolical Fullmoon - Resurrection of the Ancient Faith
 ## Cassette
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/diabolical-fullmoon-resurrection-of-the-ancient-faith-tape) for $13.00
 * Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/diabolical-fullmoon-resurrection-of-the-ancient-faith-cassette/) for $12.00
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/diabolical-fullmoon-resurrection-of-the-ancient-faith-tape-restock) for $13.00
 ## CD
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/diabolical-fullmoon-resurrection-of-the-ancient-faith-cd) for $15.00
