@@ -5,7 +5,7 @@ artist: Archgoat
 categories:
 - Vinyl
 - CD
-date: '2023-06-22T05:49:02'
+date: '2023-09-14T05:48:39'
 draft: false
 images:
 - /images/covers/archgoat-the_apocalyptic_triumphator.jpg
@@ -22,6 +22,7 @@ title: Archgoat - The Apocalyptic Triumphator
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29492&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=35547&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=35964&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=39889&sort=pd.name&order=ASC) for $25.00
 ## CD
 * Purchase from [Debemur Morti](https://debemurmorti.aisamerch.com/item/74825) for $9.99
 * Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/archgoat-the-apocalyptic-triumphator-cd/) for $8.00

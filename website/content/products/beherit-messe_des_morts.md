@@ -5,7 +5,7 @@ artist: Beherit
 categories:
 - Vinyl
 - CD
-date: '2023-09-03T06:01:59'
+date: '2023-09-14T05:51:22'
 draft: false
 images:
 - /images/covers/beherit-messe_des_morts.png
@@ -19,6 +19,7 @@ title: Beherit - Messe Des Morts
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=33563&sort=pd.name&order=ASC) for $20.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=38655&sort=pd.name&order=ASC) for $20.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=39245&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=39881&sort=pd.name&order=ASC) for $20.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=30044&sort=pd.name&order=ASC) for $10.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=30045&sort=pd.name&order=ASC) for $10.00

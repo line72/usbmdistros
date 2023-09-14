@@ -1,10 +1,10 @@
 ---
-actualPrice: $10.00
+actualPrice: $6.00 - 10.00
 album: Through The Scarlet Veil
 artist: Blood Moon
 categories:
 - CD
-date: '2023-07-27T05:53:05'
+date: '2023-09-14T07:22:31'
 draft: false
 images:
 - /images/covers/blood_moon-through_the_scarlet_veil.jpg
@@ -15,3 +15,4 @@ title: Blood Moon - Through The Scarlet Veil
 
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=2507&sort=pd.name&order=ASC) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=39888&sort=pd.name&order=ASC) for $6.00
