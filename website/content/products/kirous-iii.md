@@ -1,10 +1,10 @@
 ---
-actualPrice: $15.00
+actualPrice: $15.00 - 18.00
 album: III
 artist: Kirous
 categories:
 - Cassette
-date: '2022-09-20T05:19:28'
+date: '2023-09-15T10:38:37'
 draft: false
 images:
 - /images/covers/kirous-iii.png
@@ -15,3 +15,4 @@ title: Kirous - III
 
 ## Cassette
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/used-kirous-iii-cassette) for $15.00 :: Red Shell 2021
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/used-kirous-iii-cassette) for $18.00 :: Red Shell 2021

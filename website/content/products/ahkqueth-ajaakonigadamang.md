@@ -1,10 +1,11 @@
 ---
-actualPrice: $25.00
+actualPrice: $8.00 - 25.00
 album: Ajaakonigadamang
 artist: Ahkqueth
 categories:
 - Vinyl
-date: '2023-07-27T05:47:29'
+- Cassette
+date: '2023-09-15T10:38:36'
 draft: false
 images:
 - /images/covers/ahkqueth-ajaakonigadamang.jpg
@@ -16,3 +17,5 @@ title: Ahkqueth - Ajaakonigadamang
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=18930&sort=pd.name&order=ASC) for $25.00
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/ahkqueth-ajaakonigadamang-12-lp) for $25.00
+## Cassette
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/used-ahkqueth-ajaakonigadamang-cassette) for $8.00 :: Black Shell 2020
