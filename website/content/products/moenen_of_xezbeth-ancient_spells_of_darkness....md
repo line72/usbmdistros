@@ -4,7 +4,7 @@ album: Ancient Spells of Darkness...
 artist: Moenen of Xezbeth
 categories:
 - Vinyl
-date: '2023-07-27T05:50:03'
+date: '2023-09-18T06:37:56'
 draft: false
 images:
 - /images/covers/moenen_of_xezbeth-ancient_spells_of_darkness....jpg
@@ -19,3 +19,4 @@ title: Moenen of Xezbeth - Ancient Spells of Darkness...
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=27777&sort=pd.name&order=ASC) for $30.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=31829&sort=pd.name&order=ASC) for $30.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=32080&sort=pd.name&order=ASC) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=39922&sort=pd.name&order=ASC) for $30.00

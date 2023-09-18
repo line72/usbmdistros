@@ -4,7 +4,7 @@ album: Black Flames Of Blasphemy
 artist: Mortuary Drape
 categories:
 - Vinyl
-date: '2023-07-27T05:52:25'
+date: '2023-09-18T07:34:45'
 draft: false
 images:
 - /images/covers/mortuary_drape-black_flames_of_blasphemy.jpg
@@ -17,3 +17,4 @@ title: Mortuary Drape - Black Flames Of Blasphemy
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=35276&sort=pd.name&order=ASC) for $60.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=35277&sort=pd.name&order=ASC) for $75.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=35710&sort=pd.name&order=ASC) for $75.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=39968&sort=pd.name&order=ASC) for $75.00

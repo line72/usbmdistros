@@ -4,7 +4,7 @@ album: Demo II
 artist: Forbidden Temple
 categories:
 - Cassette
-date: '2023-07-27T05:56:41'
+date: '2023-09-18T09:04:17'
 draft: false
 images:
 - /images/covers/forbidden_temple-demo_ii.jpg
@@ -19,3 +19,4 @@ title: Forbidden Temple - Demo II
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=32079&sort=pd.name&order=ASC) for $15.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=34269&sort=pd.name&order=ASC) for $15.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=36415&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=39919&sort=pd.name&order=ASC) for $15.00

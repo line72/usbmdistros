@@ -4,7 +4,7 @@ album: Blood On Old Altars In Remembrance
 artist: Sanguine Relic
 categories:
 - Vinyl
-date: '2023-07-27T05:50:57'
+date: '2023-09-18T06:58:19'
 draft: false
 images:
 - /images/covers/sanguine_relic-blood_on_old_altars_in_remembrance.jpg
@@ -19,3 +19,4 @@ title: Sanguine Relic - Blood On Old Altars In Remembrance
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=35476&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=36780&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=37338&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=39929&sort=pd.name&order=ASC) for $25.00

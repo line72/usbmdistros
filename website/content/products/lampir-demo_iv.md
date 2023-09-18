@@ -4,7 +4,7 @@ album: Demo IV
 artist: Lampir
 categories:
 - Vinyl
-date: '2023-08-08T06:14:13'
+date: '2023-09-18T06:22:34'
 draft: false
 images:
 - /images/covers/lampir-demo_iv.png
@@ -15,3 +15,4 @@ title: Lampir - Demo IV
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=37986&sort=pd.name&order=ASC) for $27.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=39932&sort=pd.name&order=ASC) for $27.00

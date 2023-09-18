@@ -4,7 +4,7 @@ album: Waqan II
 artist: Ifernach
 categories:
 - Cassette
-date: '2023-08-17T05:11:02'
+date: '2023-09-16T05:14:26'
 draft: false
 images:
 - /images/covers/ifernach-waqan_ii.jpg

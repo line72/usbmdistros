@@ -4,7 +4,7 @@ album: Invunche
 artist: Invunche
 categories:
 - Vinyl
-date: '2023-07-27T05:52:20'
+date: '2023-09-18T07:32:32'
 draft: false
 images:
 - /images/covers/invunche-invunche.jpg
@@ -15,3 +15,4 @@ title: Invunche - Invunche
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=29239&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=39963&sort=pd.name&order=ASC) for $25.00
