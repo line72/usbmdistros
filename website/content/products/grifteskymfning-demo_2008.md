@@ -4,7 +4,7 @@ album: Demo 2008
 artist: Grifteskymfning
 categories:
 - Vinyl
-date: '2023-07-27T05:49:10'
+date: '2023-09-19T06:39:57'
 draft: false
 images:
 - /images/covers/grifteskymfning-demo_2008.jpg
@@ -18,3 +18,4 @@ title: Grifteskymfning - Demo 2008
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=32136&sort=pd.name&order=ASC) for $27.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=33726&sort=pd.name&order=ASC) for $27.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=37511&sort=pd.name&order=ASC) for $27.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=40035&sort=pd.name&order=ASC) for $27.00

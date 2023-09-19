@@ -4,7 +4,7 @@ album: Fallen
 artist: Burzum
 categories:
 - Vinyl
-date: '2023-08-11T06:08:28'
+date: '2023-09-19T06:13:19'
 draft: false
 images:
 - /images/covers/burzum-fallen.jpg
@@ -17,3 +17,4 @@ title: Burzum - Fallen
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=36497&sort=pd.name&order=ASC) for $27.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=38097&sort=pd.name&order=ASC) for $27.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=38113&sort=pd.name&order=ASC) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=40048&sort=pd.name&order=ASC) for $27.00

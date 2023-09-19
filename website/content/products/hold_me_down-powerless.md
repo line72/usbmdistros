@@ -1,10 +1,10 @@
 ---
-actualPrice: $9.00
+actualPrice: $4.00
 album: Powerless
 artist: Hold Me Down
 categories:
 - Cassette
-date: '2022-08-10T13:39:40'
+date: '2023-09-19T05:35:16'
 draft: false
 images:
 - /images/covers/hold_me_down-powerless.png
@@ -14,4 +14,4 @@ title: Hold Me Down - Powerless
 ---
 
 ## Cassette
-* Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/36023125-hold-me-down-powerless) for $9.00
+* Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/36023125-hold-me-down-powerless) for $4.00

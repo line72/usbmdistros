@@ -4,7 +4,7 @@ album: Omega
 artist: Celestial Bloodshed
 categories:
 - Vinyl
-date: '2023-08-10T05:56:42'
+date: '2023-09-19T06:15:11'
 draft: false
 images:
 - /images/covers/celestial_bloodshed-omega.jpg
@@ -22,3 +22,4 @@ title: Celestial Bloodshed - Omega
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=33918&sort=pd.name&order=ASC) for $30.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=37462&sort=pd.name&order=ASC) for $30.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=38045&sort=pd.name&order=ASC) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=40054&sort=pd.name&order=ASC) for $30.00

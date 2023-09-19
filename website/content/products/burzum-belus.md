@@ -5,7 +5,7 @@ artist: Burzum
 categories:
 - Vinyl
 - CD
-date: '2023-08-11T06:08:27'
+date: '2023-09-19T06:13:18'
 draft: false
 images:
 - /images/covers/burzum-belus.png
@@ -18,5 +18,6 @@ title: Burzum - Belus
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=36499&sort=pd.name&order=ASC) for $30.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=38110&sort=pd.name&order=ASC) for $30.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=38109&sort=pd.name&order=ASC) for $40.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=40045&sort=pd.name&order=ASC) for $30.00
 ## CD
 * Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/burzum-belus-cd/) for $13.00

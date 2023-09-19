@@ -5,7 +5,7 @@ artist: Udegste
 categories:
 - Vinyl
 - CD
-date: '2023-04-27T05:13:25'
+date: '2023-09-19T10:43:48'
 draft: false
 images:
 - /images/covers/udegste-zwartmagische_brouwsels.jpg
@@ -19,3 +19,4 @@ title: Udegste - Zwartmagische Brouwsels
 ## CD
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/udegste-zwartmagische-brouwsels-cd) for $13.00
 * Purchase from [CW Productions](https://shop.cwproductions.net/products/udegste-zwartmagische-brouwsels-cd) for $12.00
+* Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/udegste-zwartmagische-brouwsels-cd/) for $12.00

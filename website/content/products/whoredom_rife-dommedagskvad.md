@@ -4,7 +4,7 @@ album: Dommedagskvad
 artist: Whoredom Rife
 categories:
 - Vinyl
-date: '2023-07-27T05:51:52'
+date: '2023-09-19T08:01:20'
 draft: false
 images:
 - /images/covers/whoredom_rife-dommedagskvad.png
@@ -19,3 +19,4 @@ title: Whoredom Rife - Dommedagskvad
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=27329&sort=pd.name&order=ASC) for $21.60
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29771&sort=pd.name&order=ASC) for $27.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=35965&sort=pd.name&order=ASC) for $27.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=40058&sort=pd.name&order=ASC) for $27.00

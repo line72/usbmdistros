@@ -4,7 +4,7 @@ album: A New Generation of Vampiric Conspiracies
 artist: Old Nick
 categories:
 - Vinyl
-date: '2021-11-20T06:00:22'
+date: '2023-09-19T05:06:36'
 draft: false
 images:
 - /images/covers/old_nick-a_new_generation_of_vampiric_conspiracies.jpg
@@ -14,4 +14,5 @@ title: Old Nick - A New Generation of Vampiric Conspiracies
 ---
 
 ## Vinyl
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/old-nick-a-new-generation-of-vampiric-conspiracies-2xlp) for $35.00
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/old-nick-a-new-generation-of-vampiric-conspiracies-2xlp) for $35.00

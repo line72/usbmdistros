@@ -4,7 +4,7 @@ album: Daudssyklusen
 artist: Skuggeheim
 categories:
 - Vinyl
-date: '2023-07-27T05:51:08'
+date: '2023-09-19T07:45:11'
 draft: false
 images:
 - /images/covers/skuggeheim-daudssyklusen.jpg
@@ -18,3 +18,4 @@ title: Skuggeheim - Daudssyklusen
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=35400&sort=pd.name&order=ASC) for $35.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=36537&sort=pd.name&order=ASC) for $35.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=37484&sort=pd.name&order=ASC) for $35.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=40055&sort=pd.name&order=ASC) for $35.00

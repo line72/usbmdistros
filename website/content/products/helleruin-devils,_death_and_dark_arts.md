@@ -6,7 +6,7 @@ categories:
 - Vinyl
 - Cassette
 - CD
-date: '2023-07-27T05:49:17'
+date: '2023-09-19T10:43:49'
 draft: false
 images:
 - /images/covers/helleruin-devils,_death_and_dark_arts.jpg
@@ -21,3 +21,4 @@ title: Helleruin - Devils, Death and Dark Arts
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/helleruin-devils-death-and-dark-arts-tape) for $12.00
 ## CD
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/helleruin-devils-death-and-dark-arts-cd) for $15.00
+* Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/helleruin-devils-death-and-dark-arts-cd/) for $12.00

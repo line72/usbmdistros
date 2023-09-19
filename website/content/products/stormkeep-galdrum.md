@@ -5,7 +5,7 @@ artist: Stormkeep
 categories:
 - Vinyl
 - CD
-date: '2023-08-25T07:14:56'
+date: '2023-09-19T07:47:21'
 draft: false
 images:
 - /images/covers/stormkeep-galdrum.jpg
@@ -26,6 +26,7 @@ title: Stormkeep - Galdrum
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=35979&sort=pd.name&order=ASC) for $28.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=36785&sort=pd.name&order=ASC) for $28.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=38889&sort=pd.name&order=ASC) for $28.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=40024&sort=pd.name&order=ASC) for $28.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=21643&sort=pd.name&order=ASC) for $15.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=22332&sort=pd.name&order=ASC) for $15.00

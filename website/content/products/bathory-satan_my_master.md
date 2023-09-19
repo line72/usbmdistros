@@ -6,7 +6,7 @@ categories:
 - Vinyl
 - Cassette
 - CD
-date: '2022-11-30T06:10:50'
+date: '2023-09-19T10:43:49'
 draft: false
 images:
 - /images/covers/bathory-satan_my_master.jpg
@@ -31,3 +31,4 @@ title: Bathory - Satan My Master
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=26372&sort=pd.name&order=ASC) for $15.00
 ## CD
 * Purchase from [CW Productions](https://shop.cwproductions.net/products/bathory-satan-my-master-cd) for $13.00
+* Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/bathory-satan-my-master-cd/) for $12.00

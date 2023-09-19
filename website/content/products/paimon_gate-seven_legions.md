@@ -1,11 +1,11 @@
 ---
-actualPrice: $8.00 - 25.00
+actualPrice: $4.50 - 25.00
 album: Seven Legions
 artist: Paimon Gate
 categories:
 - Vinyl
 - Cassette
-date: '2023-07-27T05:50:34'
+date: '2023-09-19T05:35:55'
 draft: false
 images:
 - /images/covers/paimon_gate-seven_legions.jpg
@@ -26,4 +26,4 @@ title: Paimon Gate - Seven Legions
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=21343&sort=pd.name&order=ASC) for $10.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=21645&sort=pd.name&order=ASC) for $10.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=22150&sort=pd.name&order=ASC) for $10.00
-* Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/35847106-paimon-gate-seven-legions) for $8.00
+* Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/35847106-paimon-gate-seven-legions) for $4.50

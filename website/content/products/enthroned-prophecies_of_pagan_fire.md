@@ -4,7 +4,7 @@ album: Prophecies of Pagan Fire
 artist: Enthroned
 categories:
 - Vinyl
-date: '2023-07-27T05:48:47'
+date: '2023-09-19T06:27:42'
 draft: false
 images:
 - /images/covers/enthroned-prophecies_of_pagan_fire.jpg
@@ -21,3 +21,4 @@ title: Enthroned - Prophecies of Pagan Fire
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=27040&sort=pd.name&order=ASC) for $30.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=31015&sort=pd.name&order=ASC) for $30.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=35287&sort=pd.name&order=ASC) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=40039&sort=pd.name&order=ASC) for $30.00
