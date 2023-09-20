@@ -1,10 +1,10 @@
 ---
-actualPrice: $25.00
+actualPrice: $22.00 - 25.00
 album: Snowland MMXII
 artist: Sorcier des Glaces
 categories:
 - Vinyl
-date: '2023-07-01T05:06:40'
+date: '2023-09-20T05:00:50'
 draft: false
 images:
 - /images/covers/sorcier_des_glaces-snowland_mmxii.jpg
@@ -15,3 +15,4 @@ title: Sorcier des Glaces - Snowland MMXII
 
 ## Vinyl
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/sorcier-des-glaces-snowland-mmxii-12-lp) for $25.00
+* Purchase from [Sto'Vo'Kor Records](https://stovokor-records.com/products/sorcier-des-glaces-snowland-mmxii) for $22.00

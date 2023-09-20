@@ -5,7 +5,7 @@ artist: Marduk
 categories:
 - Vinyl
 - CD
-date: '2023-07-27T05:49:54'
+date: '2023-09-20T05:00:51'
 draft: false
 images:
 - /images/covers/marduk-those_of_the_unlight.jpg
@@ -20,5 +20,6 @@ title: Marduk - Those of the Unlight
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=24552&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=24982&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=34506&sort=pd.name&order=ASC) for $25.00
+* Purchase from [Sto'Vo'Kor Records](https://stovokor-records.com/products/marduk-those-of-the-unlight) for $22.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=25012&sort=pd.name&order=ASC) for $12.00

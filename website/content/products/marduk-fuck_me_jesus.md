@@ -5,7 +5,7 @@ artist: Marduk
 categories:
 - Vinyl
 - CD
-date: '2023-07-27T05:54:31'
+date: '2023-09-20T05:00:52'
 draft: false
 images:
 - /images/covers/marduk-fuck_me_jesus.jpg
@@ -19,6 +19,7 @@ title: Marduk - Fuck Me Jesus
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=30340&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=31445&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=34576&sort=pd.name&order=ASC) for $25.00
+* Purchase from [Sto'Vo'Kor Records](https://stovokor-records.com/products/marduk-fuck-me-jesus) for $17.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=34633&sort=pd.name&order=ASC) for $15.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=35003&sort=pd.name&order=ASC) for $15.00

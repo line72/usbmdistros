@@ -5,7 +5,7 @@ artist: Bunker 66
 categories:
 - Vinyl
 - CD
-date: '2022-01-15T06:08:46'
+date: '2023-09-20T06:09:41'
 draft: false
 images:
 - /images/covers/bunker_66-beyond_the_help_of_prayers.jpg
@@ -16,5 +16,6 @@ title: Bunker 66 - Beyond the Help of Prayers
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=20307&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=40112&sort=pd.name&order=ASC) for $25.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=20312&sort=pd.name&order=ASC) for $12.00

@@ -5,7 +5,7 @@ artist: Hate Forest
 categories:
 - Vinyl
 - CD
-date: '2023-07-27T05:53:58'
+date: '2023-09-20T05:00:52'
 draft: false
 images:
 - /images/covers/hate_forest-sorrow.jpg
@@ -19,6 +19,7 @@ title: Hate Forest - Sorrow
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=25060&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=34550&sort=pd.name&order=ASC) for $25.00
 * Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/hate-forest-sorrow-12-lp-marble/) for $23.00
+* Purchase from [Sto'Vo'Kor Records](https://stovokor-records.com/products/hate-forest-sorrow) for $22.00
 ## CD
 * Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/hate-forest-sorrow-cd/) for $10.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=34614&sort=pd.name&order=ASC) for $15.00
