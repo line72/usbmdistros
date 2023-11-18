@@ -21,7 +21,8 @@ def go():
         'nwn': db.get_store(libbmdistro.Store(None, 'NWN Productions', 'https://shop.nwnprod.com')),
         'metal-to-the-core-1986': db.get_store(libbmdistro.Store(None, 'Metal To The Core 1986', 'https://metaltothecore1986.com')),
         'meteor-gem': db.get_store(libbmdistro.Store(None, 'Meteor Gem', 'https://meteor-gem.com')),
-        'cw-productions': db.get_store(libbmdistro.Store(None, 'CW Productions', 'https://shop.cwproductions.net'))
+        'cw-productions': db.get_store(libbmdistro.Store(None, 'CW Productions', 'https://shop.cwproductions.net')),
+        'blast-beats-vinyl': db.get_store(libbmdistro.Store(None, "Blast Beats Vinyl", "https://blastbeatsvinyl.com")),
     }
 
     parsers = [
@@ -38,6 +39,7 @@ def go():
         libbmdistro.parsers.MetalToTheCore1986(stores['metal-to-the-core-1986'], 'https://metaltothecore1986.com/wp-json/wc/store/products'),
         libbmdistro.parsers.MeteorGem(stores['meteor-gem'], 'https://meteor-gem.com/products.json'),
         libbmdistro.parsers.CWProductions(stores['cw-productions'], 'https://shop.cwproductions.net/products.json'),
+        libbmdistro.parsers.BlastBeatsVinyl(stores['blast-beats-vinyl'], 'https://blastbeatsvinyl.com/products.json'),
     ]
 
     
