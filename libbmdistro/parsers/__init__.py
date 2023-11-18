@@ -6,6 +6,7 @@
 from .Parser import Parser
 
 from .ArcaneAltar import ArcaneAltar
+from .BlastBeatsVinyl import BlastBeatsVinyl
 from .Caligari import Caligari
 from .CWProductions import CWProductions
 from .DebemurMorti import DebemurMorti
