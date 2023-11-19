@@ -4,7 +4,7 @@ album: Terror Oath
 artist: Terror Oath
 categories:
 - Vinyl
-date: '2023-09-07T07:20:56'
+date: '2023-09-24T05:52:13'
 draft: false
 images:
 - /images/covers/terror_oath-terror_oath.jpg

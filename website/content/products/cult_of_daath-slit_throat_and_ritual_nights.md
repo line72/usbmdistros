@@ -5,7 +5,7 @@ artist: Cult Of Daath
 categories:
 - Vinyl
 - CD
-date: '2023-07-27T05:53:17'
+date: '2023-09-24T05:54:26'
 draft: false
 images:
 - /images/covers/cult_of_daath-slit_throat_and_ritual_nights.jpg

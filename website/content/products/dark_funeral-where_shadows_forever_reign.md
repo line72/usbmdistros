@@ -4,7 +4,7 @@ album: Where Shadows Forever Reign
 artist: Dark Funeral
 categories:
 - Vinyl
-date: '2023-07-27T05:48:27'
+date: '2023-09-24T05:49:14'
 draft: false
 images:
 - /images/covers/dark_funeral-where_shadows_forever_reign.jpg

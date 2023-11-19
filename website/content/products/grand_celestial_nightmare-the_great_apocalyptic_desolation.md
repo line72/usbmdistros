@@ -1,10 +1,11 @@
 ---
-actualPrice: $12.00
+actualPrice: $12.00 - 25.00
 album: The Great Apocalyptic Desolation
 artist: Grand Celestial Nightmare
 categories:
+- Vinyl
 - CD
-date: '2023-09-19T10:43:49'
+date: '2023-11-05T06:56:08'
 draft: false
 images:
 - /images/covers/grand_celestial_nightmare-the_great_apocalyptic_desolation.jpg
@@ -13,5 +14,10 @@ thumbnailImage: /images/covers/grand_celestial_nightmare-the_great_apocalyptic_d
 title: Grand Celestial Nightmare - The Great Apocalyptic Desolation
 ---
 
+## Vinyl
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=40247&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=40813&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=43011&sort=pd.name&order=ASC) for $25.00
 ## CD
 * Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/grand-celestial-nightmare-the-great-apocalyptic-desolation-cd/) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=43013&sort=pd.name&order=ASC) for $12.00

@@ -4,7 +4,7 @@ album: Siege Bondage Adverse to the Godhead
 artist: Dagger Lust
 categories:
 - Vinyl
-date: '2023-07-27T05:48:25'
+date: '2023-09-24T05:49:13'
 draft: false
 images:
 - /images/covers/dagger_lust-siege_bondage_adverse_to_the_godhead.jpg

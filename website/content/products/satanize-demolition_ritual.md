@@ -4,7 +4,7 @@ album: Demolition Ritual
 artist: Satanize
 categories:
 - CD
-date: '2023-07-27T05:55:20'
+date: '2023-09-24T05:56:28'
 draft: false
 images:
 - /images/covers/satanize-demolition_ritual.jpg

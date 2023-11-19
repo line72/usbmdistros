@@ -4,7 +4,7 @@ album: Lifecrusher - Contributions To A World In Ruins
 artist: Total Hate
 categories:
 - Vinyl
-date: '2023-07-27T05:51:30'
+date: '2023-09-24T05:52:24'
 draft: false
 images:
 - /images/covers/total_hate-lifecrusher_-_contributions_to_a_world_in_ruins.jpg

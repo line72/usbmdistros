@@ -5,7 +5,7 @@ artist: Ildganger
 categories:
 - Vinyl
 - CD
-date: '2023-08-16T07:15:26'
+date: '2023-09-24T05:55:15'
 draft: false
 images:
 - /images/covers/ildganger-wanderer_of_fiery_planes.jpg

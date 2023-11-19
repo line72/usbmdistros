@@ -4,7 +4,7 @@ album: "M\xE1goa"
 artist: "M\xE1goa"
 categories:
 - Vinyl
-date: '2023-09-18T06:26:00'
+date: '2023-09-24T05:50:39'
 draft: false
 images:
 - "/images/covers/m\xE1goa-m\xE1goa.jpg"

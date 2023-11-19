@@ -4,7 +4,7 @@ album: Casket Dream Veneration
 artist: Onirik
 categories:
 - Vinyl
-date: '2023-09-11T07:07:29'
+date: '2023-09-24T05:51:22'
 draft: false
 images:
 - /images/covers/onirik-casket_dream_veneration.png

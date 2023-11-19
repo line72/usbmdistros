@@ -4,7 +4,7 @@ album: Superstitionis Maleficiae
 artist: Exekrator
 categories:
 - Vinyl
-date: '2023-07-27T05:52:15'
+date: '2023-09-24T05:53:16'
 draft: false
 images:
 - /images/covers/exekrator-superstitionis_maleficiae.jpg

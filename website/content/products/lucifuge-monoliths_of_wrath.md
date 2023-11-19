@@ -4,7 +4,7 @@ album: Monoliths of Wrath
 artist: Lucifuge
 categories:
 - Vinyl
-date: '2023-09-20T06:44:11'
+date: '2023-09-24T05:50:36'
 draft: false
 images:
 - /images/covers/lucifuge-monoliths_of_wrath.jpg

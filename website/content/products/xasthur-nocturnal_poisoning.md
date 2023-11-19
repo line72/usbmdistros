@@ -4,7 +4,7 @@ album: Nocturnal Poisoning
 artist: Xasthur
 categories:
 - Vinyl
-date: '2023-07-27T05:51:58'
+date: '2023-09-27T08:13:11'
 draft: false
 images:
 - /images/covers/xasthur-nocturnal_poisoning.jpg
@@ -21,3 +21,5 @@ title: Xasthur - Nocturnal Poisoning
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=28725&sort=pd.name&order=ASC) for $24.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29811&sort=pd.name&order=ASC) for $30.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=36193&sort=pd.name&order=ASC) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=40314&sort=pd.name&order=ASC) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=40409&sort=pd.name&order=ASC) for $30.00

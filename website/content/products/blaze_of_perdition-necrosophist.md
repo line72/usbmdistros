@@ -4,7 +4,7 @@ album: Necrosophist
 artist: Blaze of Perdition
 categories:
 - Vinyl
-date: '2023-07-27T05:52:06'
+date: '2023-09-24T05:53:05'
 draft: false
 images:
 - /images/covers/blaze_of_perdition-necrosophist.jpg

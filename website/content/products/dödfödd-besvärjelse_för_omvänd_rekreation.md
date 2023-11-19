@@ -4,7 +4,7 @@ album: "Besv\xE4rjelse F\xF6r Omv\xE4nd Rekreation"
 artist: "D\xF6df\xF6dd"
 categories:
 - Vinyl
-date: '2023-07-27T05:48:39'
+date: '2023-09-24T05:49:27'
 draft: false
 images:
 - "/images/covers/d\xF6df\xF6dd-besv\xE4rjelse_f\xF6r_omv\xE4nd_rekreation.png"

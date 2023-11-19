@@ -6,7 +6,7 @@ categories:
 - Vinyl
 - Cassette
 - CD
-date: '2023-09-09T07:29:30'
+date: '2023-09-24T05:52:48'
 draft: false
 images:
 - /images/covers/werewolf_bloodorder-the_rebirth_of_the_night_and_the_fog.jpg
@@ -17,7 +17,7 @@ title: Werewolf Bloodorder - The Rebirth of the Night and the Fog
 
 ## Vinyl
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/werewolf-bloodorder-the-rebirth-of-the-night-and-the-fog-12-lp) for $28.00
-* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/werewolf-bloodorder-the-rebirth-of-the-night-and-the-fog-12-lp) for $28.00
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/werewolf-bloodorder-the-rebirth-of-the-night-and-the-fog-12-lp) for $26.00
 * Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/werewolf-bloodorder-the-rebirth-of-the-night-and-the-fog-12-gatefold-lp/) for $30.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=39635&sort=pd.name&order=ASC) for $25.00
 ## Cassette

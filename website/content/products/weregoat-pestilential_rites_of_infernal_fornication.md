@@ -5,7 +5,7 @@ artist: Weregoat
 categories:
 - Vinyl
 - CD
-date: '2023-07-27T05:56:00'
+date: '2023-09-24T05:57:11'
 draft: false
 images:
 - /images/covers/weregoat-pestilential_rites_of_infernal_fornication.png

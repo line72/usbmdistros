@@ -4,7 +4,7 @@ album: Nihilistica Milicia Demoniaca
 artist: Satanic Prophets
 categories:
 - Vinyl
-date: '2023-07-27T05:52:34'
+date: '2023-09-24T05:53:41'
 draft: false
 images:
 - /images/covers/satanic_prophets-nihilistica_milicia_demoniaca.jpg

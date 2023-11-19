@@ -4,7 +4,7 @@ album: "V\xE4lkommen Till (O)verkligheten"
 artist: Eskapi
 categories:
 - CD
-date: '2023-07-27T05:53:38'
+date: '2023-09-24T05:54:45'
 draft: false
 images:
 - "/images/covers/eskapi-v\xE4lkommen_till_(o)verkligheten.jpg"

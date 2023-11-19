@@ -4,7 +4,7 @@ album: Rauhnachtsreigen
 artist: Harnisch
 categories:
 - Vinyl
-date: '2023-09-10T06:22:43'
+date: '2023-09-24T05:50:01'
 draft: false
 images:
 - /images/covers/harnisch-rauhnachtsreigen.jpg

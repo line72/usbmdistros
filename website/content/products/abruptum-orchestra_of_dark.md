@@ -5,7 +5,7 @@ artist: Abruptum
 categories:
 - Vinyl
 - CD
-date: '2023-08-21T07:28:47'
+date: '2023-11-10T16:52:46'
 draft: false
 images:
 - /images/covers/abruptum-orchestra_of_dark.jpg
@@ -22,3 +22,4 @@ title: Abruptum - Orchestra of Dark
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=28515&sort=pd.name&order=ASC) for $12.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=31510&sort=pd.name&order=ASC) for $15.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=38633&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=43270&sort=pd.name&order=ASC) for $15.00

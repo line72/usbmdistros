@@ -5,7 +5,7 @@ artist: Verberis
 categories:
 - Vinyl
 - Cassette
-date: '2023-08-27T07:04:15'
+date: '2023-09-24T05:52:39'
 draft: false
 images:
 - /images/covers/verberis-vexamen.jpg

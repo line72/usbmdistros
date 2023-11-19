@@ -4,7 +4,7 @@ album: Black Sun Hexes - Two
 artist: Opium Grave
 categories:
 - Vinyl
-date: '2023-07-27T05:50:32'
+date: '2023-10-04T06:47:50'
 draft: false
 images:
 - /images/covers/opium_grave-black_sun_hexes_-_two.jpg
@@ -15,3 +15,4 @@ title: Opium Grave - Black Sun Hexes - Two
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=27300&sort=pd.name&order=ASC) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=40968&sort=pd.name&order=ASC) for $30.00

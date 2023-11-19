@@ -5,7 +5,7 @@ artist: Nacht Und Gnosis
 categories:
 - Vinyl
 - CD
-date: '2023-08-25T08:48:30'
+date: '2023-09-24T05:55:53'
 draft: false
 images:
 - /images/covers/nacht_und_gnosis-herranom.jpg

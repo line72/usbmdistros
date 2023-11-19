@@ -4,7 +4,7 @@ album: "\u3053\u306E\u60F3\u3044\u3092\u4F55\u51E6\u3078\u2026"
 artist: Warhead
 categories:
 - Vinyl
-date: '2023-07-27T05:51:50'
+date: '2023-09-24T05:52:47'
 draft: false
 images:
 - "/images/covers/warhead-\u3053\u306E\u60F3\u3044\u3092\u4F55\u51E6\u3078\u2026.jpg"

@@ -4,7 +4,7 @@ album: ' Hermits Amidst the Marvels of Darkness'
 artist: Mystical Fullmoon
 categories:
 - CD
-date: '2023-09-20T08:41:12'
+date: '2023-09-24T05:55:52'
 draft: false
 images:
 - /images/covers/mystical_fullmoon-_hermits_amidst_the_marvels_of_darkness.jpg

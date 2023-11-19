@@ -4,7 +4,7 @@ album: Coffin
 artist: Coffin
 categories:
 - CD
-date: '2023-07-27T05:53:13'
+date: '2023-09-24T05:54:22'
 draft: false
 images:
 - /images/covers/coffin-coffin.jpg

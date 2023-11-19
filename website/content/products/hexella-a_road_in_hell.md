@@ -5,7 +5,7 @@ artist: Hexella
 categories:
 - Cassette
 - CD
-date: '2023-08-09T05:32:27'
+date: '2023-09-24T05:58:14'
 draft: false
 images:
 - /images/covers/hexella-a_road_in_hell.jpg

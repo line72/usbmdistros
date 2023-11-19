@@ -4,7 +4,7 @@ album: 'Caduta Dei Gravi '
 artist: Saison de Rouille
 categories:
 - Vinyl
-date: '2023-09-18T06:58:09'
+date: '2023-09-24T05:51:48'
 draft: false
 images:
 - /images/covers/saison_de_rouille-caduta_dei_gravi_.jpg

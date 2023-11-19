@@ -4,7 +4,7 @@ album: Lechery Maledictions and Grieving Adjures to the Concerns of Flesh
 artist: Inthyflesh
 categories:
 - Vinyl
-date: '2023-07-27T05:49:30'
+date: '2023-09-24T05:50:19'
 draft: false
 images:
 - /images/covers/inthyflesh-lechery_maledictions_and_grieving_adjures_to_the_concerns_of_flesh.jpg

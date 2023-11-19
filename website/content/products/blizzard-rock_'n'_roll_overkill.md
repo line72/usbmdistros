@@ -4,7 +4,7 @@ album: Rock 'n' Roll Overkill
 artist: Blizzard
 categories:
 - Vinyl
-date: '2023-07-27T05:48:02'
+date: '2023-09-24T05:48:48'
 draft: false
 images:
 - /images/covers/blizzard-rock_'n'_roll_overkill.jpg

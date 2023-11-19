@@ -4,7 +4,7 @@ album: Taetra Opera Carnis
 artist: Strix
 categories:
 - Vinyl
-date: '2023-08-28T07:19:13'
+date: '2023-09-24T05:52:07'
 draft: false
 images:
 - /images/covers/strix-taetra_opera_carnis.jpg

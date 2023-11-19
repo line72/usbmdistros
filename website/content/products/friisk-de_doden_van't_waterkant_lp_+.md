@@ -1,10 +1,10 @@
 ---
-actualPrice: $29.00
+actualPrice: $33.00
 album: De Doden Van't Waterkant LP +
 artist: Friisk
 categories:
 - Vinyl
-date: '2022-08-02T13:18:05'
+date: '2023-11-19T13:18:59'
 draft: false
 images:
 - /images/covers/friisk-de_doden_van't_waterkant_lp_+.jpg
@@ -14,4 +14,4 @@ title: Friisk - De Doden Van't Waterkant LP +
 ---
 
 ## Vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/friisk-de-doden-vant-waterkant-lp-cd) for $29.00 :: LP + CD
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/friisk-de-doden-vant-waterkant-lp-cd) for $33.00 :: LP + CD

@@ -4,7 +4,7 @@ album: Possessed
 artist: Esoteric Ritual
 categories:
 - Cassette
-date: '2023-07-27T05:56:37'
+date: '2023-09-24T05:58:01'
 draft: false
 images:
 - /images/covers/esoteric_ritual-possessed.jpg

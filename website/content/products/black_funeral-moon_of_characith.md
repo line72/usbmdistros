@@ -1,11 +1,11 @@
 ---
-actualPrice: $13.00 - 19.00
+actualPrice: $12.00 - 19.00
 album: Moon of Characith
 artist: Black Funeral
 categories:
 - Vinyl
 - CD
-date: '2022-01-08T06:00:52'
+date: '2023-10-04T07:57:15'
 draft: false
 images:
 - /images/covers/black_funeral-moon_of_characith.jpg
@@ -19,3 +19,4 @@ title: Black Funeral - Moon of Characith
 * Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/black-funeral-moon-of-characith-12-lp/) for $19.00
 ## CD
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/black-funeral-moon-of-characith-cd) for $13.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=40900&sort=pd.name&order=ASC) for $12.00

@@ -4,7 +4,7 @@ album: Antithesis Of All Flesh
 artist: Triumfall
 categories:
 - CD
-date: '2023-07-27T05:55:44'
+date: '2023-09-24T05:56:54'
 draft: false
 images:
 - /images/covers/triumfall-antithesis_of_all_flesh.png

@@ -4,7 +4,7 @@ album: "Ur T\xF6rnedjupen"
 artist: "Wagner \xD6deg\xE5rd"
 categories:
 - Vinyl
-date: '2023-07-27T05:51:48'
+date: '2023-09-24T05:52:46'
 draft: false
 images:
 - "/images/covers/wagner_\xF6deg\xE5rd-ur_t\xF6rnedjupen.jpg"

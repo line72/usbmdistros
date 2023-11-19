@@ -4,7 +4,7 @@ album: Botulistum
 artist: Botulistum
 categories:
 - Vinyl
-date: '2023-07-27T05:48:06'
+date: '2023-09-24T05:48:52'
 draft: false
 images:
 - /images/covers/botulistum-botulistum.jpg

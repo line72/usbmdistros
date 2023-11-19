@@ -4,7 +4,7 @@ album: Knights from Hell
 artist: Vassago
 categories:
 - Vinyl
-date: '2023-07-27T05:51:39'
+date: '2023-09-24T05:52:36'
 draft: false
 images:
 - /images/covers/vassago-knights_from_hell.jpg

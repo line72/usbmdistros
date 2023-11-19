@@ -4,7 +4,7 @@ album: Neurotisme
 artist: Sulfure
 categories:
 - Vinyl
-date: '2023-09-04T07:11:43'
+date: '2023-09-24T05:52:09'
 draft: false
 images:
 - /images/covers/sulfure-neurotisme.jpg

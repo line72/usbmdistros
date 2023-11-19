@@ -5,7 +5,7 @@ artist: Inquisition
 categories:
 - Vinyl
 - CD
-date: '2023-07-27T05:54:12'
+date: '2023-10-23T08:42:10'
 draft: false
 images:
 - /images/covers/inquisition-invoking_the_majestic_throne_of_satan.jpg
@@ -22,3 +22,4 @@ title: Inquisition - Invoking the Majestic Throne of Satan
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=26578&sort=pd.name&order=ASC) for $12.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=26741&sort=pd.name&order=ASC) for $12.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=33761&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=42397&sort=pd.name&order=ASC) for $12.00

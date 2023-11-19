@@ -4,7 +4,7 @@ album: Rejoice and Laugh, Doomed to Be Sacrificed
 artist: Thou Shalt Fall
 categories:
 - Cassette
-date: '2023-07-27T05:57:48'
+date: '2023-09-24T05:59:03'
 draft: false
 images:
 - /images/covers/thou_shalt_fall-rejoice_and_laugh,_doomed_to_be_sacrificed.jpg

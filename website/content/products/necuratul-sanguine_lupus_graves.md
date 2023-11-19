@@ -4,7 +4,7 @@ album: Sanguine Lupus Graves
 artist: Necuratul
 categories:
 - Cassette
-date: '2023-07-27T05:57:16'
+date: '2023-09-24T05:58:33'
 draft: false
 images:
 - /images/covers/necuratul-sanguine_lupus_graves.png

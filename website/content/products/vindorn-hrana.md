@@ -4,7 +4,7 @@ album: Hrana
 artist: Vindorn
 categories:
 - CD
-date: '2023-07-27T05:55:54'
+date: '2023-09-24T05:57:04'
 draft: false
 images:
 - /images/covers/vindorn-hrana.png

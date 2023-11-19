@@ -4,7 +4,7 @@ album: Death And The Beyond
 artist: Denial of God
 categories:
 - Vinyl
-date: '2023-07-27T05:48:34'
+date: '2023-09-24T05:49:22'
 draft: false
 images:
 - /images/covers/denial_of_god-death_and_the_beyond.jpg

@@ -4,7 +4,7 @@ album: Black Perversion
 artist: Havohej
 categories:
 - Vinyl
-date: '2023-09-02T06:06:33'
+date: '2023-09-24T05:50:02'
 draft: false
 images:
 - /images/covers/havohej-black_perversion.jpg

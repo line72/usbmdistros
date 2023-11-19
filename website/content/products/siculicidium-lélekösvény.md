@@ -4,7 +4,7 @@ album: "L\xE9lek\xF6sv\xE9ny"
 artist: Siculicidium
 categories:
 - CD
-date: '2023-07-27T05:55:25'
+date: '2023-09-24T05:56:32'
 draft: false
 images:
 - "/images/covers/siculicidium-l\xE9lek\xF6sv\xE9ny.jpg"

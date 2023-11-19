@@ -4,7 +4,7 @@ album: Rotten Funeral
 artist: Rotten Funeral
 categories:
 - CD
-date: '2023-07-27T05:55:14'
+date: '2023-09-24T05:56:22'
 draft: false
 images:
 - /images/covers/rotten_funeral-rotten_funeral.jpg

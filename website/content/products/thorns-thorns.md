@@ -4,7 +4,7 @@ album: Thorns
 artist: Thorns
 categories:
 - Vinyl
-date: '2023-07-27T05:51:27'
+date: '2023-09-24T05:52:21'
 draft: false
 images:
 - /images/covers/thorns-thorns.png
@@ -17,3 +17,4 @@ title: Thorns - Thorns
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/thorns-thorns-lp) for $29.00 :: Black 2012 press vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=23407&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=35719&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=40194&sort=pd.name&order=ASC) for $25.00

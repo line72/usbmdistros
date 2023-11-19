@@ -4,7 +4,7 @@ album: Forever Baptised in Eternal Fire
 artist: Blackevil
 categories:
 - Vinyl
-date: '2023-09-20T06:06:45'
+date: '2023-09-24T05:48:45'
 draft: false
 images:
 - /images/covers/blackevil-forever_baptised_in_eternal_fire.jpg

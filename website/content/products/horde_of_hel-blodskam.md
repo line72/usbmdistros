@@ -4,7 +4,7 @@ album: Blodskam
 artist: Horde Of Hel
 categories:
 - CD
-date: '2023-07-27T05:54:05'
+date: '2023-09-24T05:55:13'
 draft: false
 images:
 - /images/covers/horde_of_hel-blodskam.png

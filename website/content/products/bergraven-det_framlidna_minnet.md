@@ -5,7 +5,7 @@ artist: Bergraven
 categories:
 - Vinyl
 - CD
-date: '2023-07-27T05:53:01'
+date: '2023-09-24T05:54:11'
 draft: false
 images:
 - /images/covers/bergraven-det_framlidna_minnet.jpg

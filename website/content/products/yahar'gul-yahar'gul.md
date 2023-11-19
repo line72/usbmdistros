@@ -5,7 +5,7 @@ artist: Yahar'gul
 categories:
 - Vinyl
 - CD
-date: '2023-08-28T10:08:14'
+date: '2023-09-24T05:57:16'
 draft: false
 images:
 - /images/covers/yahar'gul-yahar'gul.jpg

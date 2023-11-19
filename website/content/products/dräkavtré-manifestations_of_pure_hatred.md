@@ -4,7 +4,7 @@ album: Manifestations of Pure Hatred
 artist: "Dr\xE4kavtr\xE9"
 categories:
 - Cassette
-date: '2023-07-27T05:56:34'
+date: '2023-09-24T05:57:55'
 draft: false
 images:
 - "/images/covers/dr\xE4kavtr\xE9-manifestations_of_pure_hatred.jpg"

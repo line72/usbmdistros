@@ -4,7 +4,7 @@ album: Apokalypse
 artist: Abigor
 categories:
 - CD
-date: '2023-07-27T05:52:45'
+date: '2023-09-24T05:53:54'
 draft: false
 images:
 - /images/covers/abigor-apokalypse.jpg

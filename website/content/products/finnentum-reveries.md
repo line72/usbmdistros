@@ -4,7 +4,7 @@ album: Reveries
 artist: Finnentum
 categories:
 - Vinyl
-date: '2023-07-27T05:48:54'
+date: '2023-10-05T06:20:46'
 draft: false
 images:
 - /images/covers/finnentum-reveries.jpg
@@ -15,3 +15,4 @@ title: Finnentum - Reveries
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=21836&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=41106&sort=pd.name&order=ASC) for $25.00

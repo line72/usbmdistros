@@ -4,7 +4,7 @@ album: "F\xF6rl\xE5telse och Levitation"
 artist: Reverorum ib Malacht
 categories:
 - Vinyl
-date: '2023-07-27T05:50:49'
+date: '2023-09-24T05:51:40'
 draft: false
 images:
 - "/images/covers/reverorum_ib_malacht-f\xF6rl\xE5telse_och_levitation.jpg"

@@ -4,7 +4,7 @@ album: 2009 EP
 artist: Cursed for Eternity
 categories:
 - Vinyl
-date: '2023-07-27T05:48:24'
+date: '2023-09-24T05:49:12'
 draft: false
 images:
 - /images/covers/cursed_for_eternity-2009_ep.jpg

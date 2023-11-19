@@ -4,7 +4,7 @@ album: Unhinged Chants of Darkness
 artist: "Vz\xF6rbr\xEBzv"
 categories:
 - Vinyl
-date: '2023-07-27T05:51:47'
+date: '2023-09-24T05:52:45'
 draft: false
 images:
 - "/images/covers/vz\xF6rbr\xEBzv-unhinged_chants_of_darkness.jpg"

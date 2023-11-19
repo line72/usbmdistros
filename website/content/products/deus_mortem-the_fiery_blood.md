@@ -4,7 +4,7 @@ album: The Fiery Blood
 artist: Deus Mortem
 categories:
 - Vinyl
-date: '2023-07-27T05:48:36'
+date: '2023-09-24T05:49:24'
 draft: false
 images:
 - /images/covers/deus_mortem-the_fiery_blood.jpg

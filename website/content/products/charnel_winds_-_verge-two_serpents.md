@@ -4,7 +4,7 @@ album: Two Serpents
 artist: Charnel Winds / Verge
 categories:
 - CD
-date: '2023-07-27T05:53:11'
+date: '2023-09-24T05:54:20'
 draft: false
 images:
 - /images/covers/charnel_winds_-_verge-two_serpents.jpg

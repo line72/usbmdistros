@@ -4,7 +4,7 @@ album: "Ventos De \xD3dio"
 artist: "Ordem Sat\xE2nica"
 categories:
 - Vinyl
-date: '2023-07-28T06:56:27'
+date: '2023-09-24T05:51:22'
 draft: false
 images:
 - "/images/covers/ordem_sat\xE2nica-ventos_de_\xF3dio.jpg"

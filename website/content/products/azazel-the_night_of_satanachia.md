@@ -5,7 +5,7 @@ artist: Azazel
 categories:
 - Vinyl
 - CD
-date: '2023-07-29T05:51:10'
+date: '2023-11-18T20:48:23'
 draft: false
 images:
 - /images/covers/azazel-the_night_of_satanachia.jpg
@@ -17,5 +17,6 @@ title: Azazel - The Night of Satanachia
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=36520&sort=pd.name&order=ASC) for $30.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=37692&sort=pd.name&order=ASC) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=43639&sort=pd.name&order=ASC) for $30.00
 ## CD
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/azazel-the-night-of-satanachia-cd) for $15.00

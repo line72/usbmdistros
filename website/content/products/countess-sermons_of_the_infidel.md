@@ -4,7 +4,7 @@ album: Sermons of the Infidel
 artist: Countess
 categories:
 - CD
-date: '2023-07-27T05:53:15'
+date: '2023-09-24T05:54:24'
 draft: false
 images:
 - /images/covers/countess-sermons_of_the_infidel.jpg

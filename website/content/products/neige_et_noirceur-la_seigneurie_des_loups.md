@@ -4,7 +4,7 @@ album: La Seigneurie des Loups
 artist: Neige et Noirceur
 categories:
 - Vinyl
-date: '2023-07-27T05:50:20'
+date: '2023-09-24T05:51:11'
 draft: false
 images:
 - /images/covers/neige_et_noirceur-la_seigneurie_des_loups.jpg

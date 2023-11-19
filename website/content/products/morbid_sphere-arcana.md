@@ -5,7 +5,7 @@ artist: Morbid Sphere
 categories:
 - Vinyl
 - Cassette
-date: '2023-07-27T05:57:12'
+date: '2023-09-24T05:58:29'
 draft: false
 images:
 - /images/covers/morbid_sphere-arcana.jpg

@@ -4,7 +4,7 @@ album: Dvala
 artist: Mondocane
 categories:
 - CD
-date: '2023-07-27T05:54:38'
+date: '2023-09-24T05:55:47'
 draft: false
 images:
 - /images/covers/mondocane-dvala.jpg

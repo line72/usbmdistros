@@ -4,7 +4,7 @@ album: "Korgonthurus/Ristill\xE4 M\xE4d\xE4ntyen"
 artist: Korgonthurus
 categories:
 - CD
-date: '2023-07-27T05:54:22'
+date: '2023-09-24T05:55:30'
 draft: false
 images:
 - "/images/covers/korgonthurus-korgonthurus-ristill\xE4_m\xE4d\xE4ntyen.jpg"

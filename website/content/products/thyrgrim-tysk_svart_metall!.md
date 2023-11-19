@@ -4,7 +4,7 @@ album: Tysk Svart Metall!
 artist: Thyrgrim
 categories:
 - Cassette
-date: '2023-07-27T05:57:48'
+date: '2023-09-24T05:59:04'
 draft: false
 images:
 - /images/covers/thyrgrim-tysk_svart_metall!.jpg

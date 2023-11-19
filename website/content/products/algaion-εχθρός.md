@@ -4,7 +4,7 @@ album: "\u0395\u03C7\u03B8\u03C1\u03CC\u03C2"
 artist: Algaion
 categories:
 - CD
-date: '2023-07-27T05:52:49'
+date: '2023-09-24T05:53:57'
 draft: false
 images:
 - "/images/covers/algaion-\u03B5\u03C7\u03B8\u03C1\u03CC\u03C2.jpg"

@@ -4,7 +4,7 @@ album: Blood and War
 artist: Annihilatus
 categories:
 - Vinyl
-date: '2023-07-27T05:47:36'
+date: '2023-09-24T05:48:23'
 draft: false
 images:
 - /images/covers/annihilatus-blood_and_war.jpg

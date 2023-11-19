@@ -4,7 +4,7 @@ album: Call From the Grave
 artist: Witch Trail
 categories:
 - Cassette
-date: '2023-07-27T05:58:00'
+date: '2023-09-24T05:59:17'
 draft: false
 images:
 - /images/covers/witch_trail-call_from_the_grave.png

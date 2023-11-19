@@ -4,7 +4,7 @@ album: "A Gyerty\xE1k Csonkig \xC9gnek"
 artist: Witcher
 categories:
 - Vinyl
-date: '2023-07-27T05:51:55'
+date: '2023-09-24T05:52:51'
 draft: false
 images:
 - "/images/covers/witcher-a_gyerty\xE1k_csonkig_\xE9gnek.jpg"

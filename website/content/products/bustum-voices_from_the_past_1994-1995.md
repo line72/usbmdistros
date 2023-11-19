@@ -4,7 +4,7 @@ album: Voices From the Past 1994-1995
 artist: Bustum
 categories:
 - Vinyl
-date: '2023-07-27T05:48:10'
+date: '2023-09-24T05:48:57'
 draft: false
 images:
 - /images/covers/bustum-voices_from_the_past_1994-1995.jpg

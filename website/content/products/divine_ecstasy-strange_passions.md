@@ -4,7 +4,7 @@ album: Strange Passions
 artist: Divine Ecstasy
 categories:
 - Vinyl
-date: '2023-09-18T06:06:05'
+date: '2023-09-24T05:49:27'
 draft: false
 images:
 - /images/covers/divine_ecstasy-strange_passions.jpg

@@ -4,7 +4,7 @@ album: "Muloup \u2013 Lupus"
 artist: "Mal\xE9fices"
 categories:
 - Vinyl
-date: '2023-08-14T07:06:52'
+date: '2023-09-24T05:53:27'
 draft: false
 images:
 - "/images/covers/mal\xE9fices-muloup_\u2013_lupus.jpg"

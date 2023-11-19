@@ -4,7 +4,7 @@ album: Twilight  Ceremonies
 artist: Blood Stronghold
 categories:
 - Vinyl
-date: '2023-07-27T05:52:06'
+date: '2023-09-24T05:53:06'
 draft: false
 images:
 - /images/covers/blood_stronghold-twilight__ceremonies.jpg

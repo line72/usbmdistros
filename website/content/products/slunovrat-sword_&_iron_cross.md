@@ -4,7 +4,7 @@ album: Sword & Iron Cross
 artist: Slunovrat
 categories:
 - CD
-date: '2023-07-27T05:55:27'
+date: '2023-09-24T05:56:36'
 draft: false
 images:
 - /images/covers/slunovrat-sword_&_iron_cross.png

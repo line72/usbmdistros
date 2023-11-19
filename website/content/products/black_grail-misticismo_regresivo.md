@@ -4,8 +4,9 @@ album: Misticismo Regresivo
 artist: Black Grail
 categories:
 - Vinyl
+- Cassette
 - CD
-date: '2022-03-25T05:08:05'
+date: '2023-09-25T10:04:26'
 draft: false
 images:
 - /images/covers/black_grail-misticismo_regresivo.jpg
@@ -16,5 +17,7 @@ title: Black Grail - Misticismo Regresivo
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=21911&sort=pd.name&order=ASC) for $25.00
+## Cassette
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=40318&sort=pd.name&order=ASC) for $15.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=10727&sort=pd.name&order=ASC) for $10.00

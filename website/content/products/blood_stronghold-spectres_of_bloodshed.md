@@ -4,7 +4,7 @@ album: Spectres of Bloodshed
 artist: Blood Stronghold
 categories:
 - Vinyl
-date: '2023-07-27T05:48:03'
+date: '2023-09-24T05:48:49'
 draft: false
 images:
 - /images/covers/blood_stronghold-spectres_of_bloodshed.jpg

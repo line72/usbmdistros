@@ -5,7 +5,7 @@ artist: "Waldgefl\xFCster"
 categories:
 - Vinyl
 - CD
-date: '2023-08-25T09:23:56'
+date: '2023-09-24T05:57:09'
 draft: false
 images:
 - "/images/covers/waldgefl\xFCster-femundsmarka.jpg"

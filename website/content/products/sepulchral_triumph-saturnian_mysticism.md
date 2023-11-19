@@ -4,7 +4,7 @@ album: Saturnian Mysticism
 artist: Sepulchral Triumph
 categories:
 - Vinyl
-date: '2023-07-27T05:51:03'
+date: '2023-09-24T05:51:56'
 draft: false
 images:
 - /images/covers/sepulchral_triumph-saturnian_mysticism.jpg

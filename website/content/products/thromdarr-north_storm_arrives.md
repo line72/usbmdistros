@@ -4,7 +4,7 @@ album: North Storm Arrives
 artist: Thromdarr
 categories:
 - CD
-date: '2023-07-27T05:55:41'
+date: '2023-09-24T05:56:50'
 draft: false
 images:
 - /images/covers/thromdarr-north_storm_arrives.png

@@ -5,7 +5,7 @@ artist: Denial of God
 categories:
 - Vinyl
 - CD
-date: '2023-07-27T05:48:34'
+date: '2023-09-24T05:49:22'
 draft: false
 images:
 - /images/covers/denial_of_god-the_horrors_of_satan.jpg

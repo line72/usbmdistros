@@ -4,7 +4,7 @@ album: "Huf\xF4 EP"
 artist: Wulkanaz
 categories:
 - Vinyl
-date: '2023-08-13T07:17:38'
+date: '2023-09-24T05:53:52'
 draft: false
 images:
 - "/images/covers/wulkanaz-huf\xF4_ep.jpg"

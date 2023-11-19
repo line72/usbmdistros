@@ -5,7 +5,7 @@ artist: Sunken
 categories:
 - Vinyl
 - CD
-date: '2023-07-19T08:40:58'
+date: '2023-11-19T09:04:24'
 draft: false
 images:
 - /images/covers/sunken-livslede.png
@@ -20,3 +20,4 @@ title: Sunken - Livslede
 ## CD
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/sunken-livslede-cd) for $10.00 :: CD 2020
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/sunken-livslede-cd-1) for $12.00 :: CD 2020
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/sunken-livslede-cd) for $13.00 :: CD 2020

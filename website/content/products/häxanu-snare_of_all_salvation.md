@@ -4,7 +4,7 @@ album: Snare of All Salvation
 artist: "H\xE4xanu"
 categories:
 - Vinyl
-date: '2023-07-27T05:49:15'
+date: '2023-09-24T05:50:02'
 draft: false
 images:
 - "/images/covers/h\xE4xanu-snare_of_all_salvation.jpg"

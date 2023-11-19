@@ -1,10 +1,11 @@
 ---
-actualPrice: $24.00 - 27.00
+actualPrice: $12.00 - 27.00
 album: Forever Bound to Nothingness
 artist: Desolation Triumphalis
 categories:
 - Vinyl
-date: '2023-07-27T05:48:35'
+- CD
+date: '2023-11-19T15:42:42'
 draft: false
 images:
 - /images/covers/desolation_triumphalis-forever_bound_to_nothingness.jpg
@@ -21,3 +22,5 @@ title: Desolation Triumphalis - Forever Bound to Nothingness
 * Purchase from [CW Productions](https://shop.cwproductions.net/products/desolation-triumphalis-forever-bound-to-nothingness-lp-1) for $24.00
 * Purchase from [CW Productions](https://shop.cwproductions.net/products/desolation-triumphalis-forever-bound-to-nothingness-lp-2) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=35797&sort=pd.name&order=ASC) for $27.00
+## CD
+* Purchase from [CW Productions](https://shop.cwproductions.net/products/desolation-triumphalis-forever-bound-to-nothingness-cd) for $12.00

@@ -4,7 +4,7 @@ album: Det Glemte Riket
 artist: Ancient
 categories:
 - Cassette
-date: '2023-07-27T05:56:11'
+date: '2023-09-24T05:57:22'
 draft: false
 images:
 - /images/covers/ancient-det_glemte_riket.jpg

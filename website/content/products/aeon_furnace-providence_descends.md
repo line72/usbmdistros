@@ -4,7 +4,7 @@ album: Providence Descends
 artist: Aeon Furnace
 categories:
 - Vinyl
-date: '2023-07-27T05:47:28'
+date: '2023-09-24T05:48:15'
 draft: false
 images:
 - /images/covers/aeon_furnace-providence_descends.jpg

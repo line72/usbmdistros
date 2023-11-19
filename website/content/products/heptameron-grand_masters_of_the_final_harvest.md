@@ -4,7 +4,7 @@ album: Grand Masters of the Final Harvest
 artist: Heptameron
 categories:
 - Vinyl
-date: '2023-07-27T05:49:19'
+date: '2023-09-24T05:50:07'
 draft: false
 images:
 - /images/covers/heptameron-grand_masters_of_the_final_harvest.jpg

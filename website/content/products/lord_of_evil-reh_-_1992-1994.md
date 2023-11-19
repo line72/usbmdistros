@@ -5,7 +5,7 @@ artist: Lord Of Evil
 categories:
 - Vinyl
 - CD
-date: '2023-09-20T08:30:34'
+date: '2023-09-24T05:55:34'
 draft: false
 images:
 - /images/covers/lord_of_evil-reh_-_1992-1994.jpg

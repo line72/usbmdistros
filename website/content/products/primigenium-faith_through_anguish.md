@@ -4,7 +4,7 @@ album: Faith Through Anguish
 artist: Primigenium
 categories:
 - Vinyl
-date: '2023-07-27T05:50:42'
+date: '2023-09-24T05:51:32'
 draft: false
 images:
 - /images/covers/primigenium-faith_through_anguish.jpg

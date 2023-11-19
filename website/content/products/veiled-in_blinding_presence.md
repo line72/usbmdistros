@@ -5,7 +5,7 @@ artist: Veiled
 categories:
 - Vinyl
 - Cassette
-date: '2023-08-27T07:03:49'
+date: '2023-09-24T05:59:11'
 draft: false
 images:
 - /images/covers/veiled-in_blinding_presence.jpg

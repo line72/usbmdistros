@@ -4,7 +4,7 @@ album: Vestiges of a Fallen Empire
 artist: Ages of Blood
 categories:
 - Vinyl
-date: '2023-07-27T05:47:29'
+date: '2023-09-24T05:48:16'
 draft: false
 images:
 - /images/covers/ages_of_blood-vestiges_of_a_fallen_empire.jpg

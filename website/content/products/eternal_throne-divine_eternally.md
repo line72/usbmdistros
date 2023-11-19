@@ -4,7 +4,7 @@ album: Divine Eternally
 artist: Eternal Throne
 categories:
 - CD
-date: '2023-07-27T05:53:38'
+date: '2023-09-24T05:54:45'
 draft: false
 images:
 - /images/covers/eternal_throne-divine_eternally.jpg

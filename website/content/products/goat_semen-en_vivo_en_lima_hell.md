@@ -4,7 +4,7 @@ album: En vivo en Lima Hell
 artist: Goat Semen
 categories:
 - CD
-date: '2023-07-27T05:53:49'
+date: '2023-09-24T05:54:56'
 draft: false
 images:
 - /images/covers/goat_semen-en_vivo_en_lima_hell.jpg

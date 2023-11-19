@@ -4,7 +4,7 @@ album: '...For the Wars to Come'
 artist: Tymbos
 categories:
 - CD
-date: '2023-07-27T05:55:45'
+date: '2023-09-24T05:56:55'
 draft: false
 images:
 - /images/covers/tymbos-...for_the_wars_to_come.png

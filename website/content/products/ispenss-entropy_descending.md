@@ -4,7 +4,7 @@ album: Entropy Descending
 artist: Ispenss
 categories:
 - Cassette
-date: '2023-07-27T05:57:03'
+date: '2023-09-24T05:58:18'
 draft: false
 images:
 - /images/covers/ispenss-entropy_descending.jpg

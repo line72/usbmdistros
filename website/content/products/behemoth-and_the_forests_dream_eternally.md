@@ -5,7 +5,7 @@ artist: Behemoth
 categories:
 - Vinyl
 - CD
-date: '2023-07-27T05:47:50'
+date: '2023-10-21T05:56:56'
 draft: false
 images:
 - /images/covers/behemoth-and_the_forests_dream_eternally.jpg
@@ -20,5 +20,6 @@ title: Behemoth - And the Forests Dream Eternally
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=25341&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=25482&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=36508&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=42174&sort=pd.name&order=ASC) for $25.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=25289&sort=pd.name&order=ASC) for $40.00

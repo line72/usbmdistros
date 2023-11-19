@@ -5,7 +5,7 @@ artist: Inferno Requiem
 categories:
 - Vinyl
 - Cassette
-date: '2023-07-27T05:49:29'
+date: '2023-09-24T05:50:18'
 draft: false
 images:
 - /images/covers/inferno_requiem-nuwa.jpg

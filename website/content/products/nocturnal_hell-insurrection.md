@@ -4,7 +4,7 @@ album: Insurrection
 artist: Nocturnal Hell
 categories:
 - Vinyl
-date: '2023-07-27T05:50:24'
+date: '2023-09-24T05:51:15'
 draft: false
 images:
 - /images/covers/nocturnal_hell-insurrection.jpg

@@ -4,7 +4,7 @@ album: The Principle of Cosmic Instability
 artist: Torch of War
 categories:
 - CD
-date: '2023-07-27T05:55:42'
+date: '2023-09-24T05:56:51'
 draft: false
 images:
 - /images/covers/torch_of_war-the_principle_of_cosmic_instability.png

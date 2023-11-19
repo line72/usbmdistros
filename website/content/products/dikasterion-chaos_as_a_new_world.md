@@ -5,7 +5,7 @@ artist: Dikasterion
 categories:
 - Vinyl
 - CD
-date: '2023-09-04T08:11:12'
+date: '2023-09-24T05:54:36'
 draft: false
 images:
 - /images/covers/dikasterion-chaos_as_a_new_world.jpg

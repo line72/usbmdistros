@@ -4,7 +4,7 @@ album: Fodd Att Harska
 artist: Nattsmyg
 categories:
 - CD
-date: '2023-07-27T05:54:45'
+date: '2023-09-24T05:55:54'
 draft: false
 images:
 - /images/covers/nattsmyg-fodd_att_harska.jpg

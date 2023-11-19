@@ -5,7 +5,7 @@ artist: Rites of Thy Degringolade
 categories:
 - Vinyl
 - CD
-date: '2023-07-27T05:50:50'
+date: '2023-09-24T05:51:41'
 draft: false
 images:
 - /images/covers/rites_of_thy_degringolade-an_ode_to_sin.jpg

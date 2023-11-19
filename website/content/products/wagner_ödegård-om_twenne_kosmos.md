@@ -4,7 +4,7 @@ album: Om Twenne Kosmos
 artist: "Wagner \xD6deg\xE5rd"
 categories:
 - Vinyl
-date: '2023-07-27T05:51:47'
+date: '2023-09-24T05:52:46'
 draft: false
 images:
 - "/images/covers/wagner_\xF6deg\xE5rd-om_twenne_kosmos.jpg"

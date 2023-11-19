@@ -4,7 +4,7 @@ album: The Universal Wrath
 artist: Nefarious
 categories:
 - Vinyl
-date: '2023-07-27T05:50:20'
+date: '2023-09-24T05:51:11'
 draft: false
 images:
 - /images/covers/nefarious-the_universal_wrath.jpg

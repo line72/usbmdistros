@@ -4,7 +4,7 @@ album: Dommedagskvad
 artist: Whoredom Rife
 categories:
 - Vinyl
-date: '2023-09-19T08:01:20'
+date: '2023-09-24T05:52:49'
 draft: false
 images:
 - /images/covers/whoredom_rife-dommedagskvad.png

@@ -5,7 +5,7 @@ artist: Glemsel
 categories:
 - Vinyl
 - CD
-date: '2022-08-02T13:18:06'
+date: '2023-11-19T09:04:23'
 draft: false
 images:
 - /images/covers/glemsel-unavngivet.png
@@ -20,3 +20,4 @@ title: Glemsel - Unavngivet
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/glemsel-unavngivet) for $23.00 :: Black 1st press vinyl
 ## CD
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/glemsel-unavngivet-cd) for $10.00 :: CD 2020
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/glemsel-unavngivet-cd-1) for $13.00 :: CD 2020

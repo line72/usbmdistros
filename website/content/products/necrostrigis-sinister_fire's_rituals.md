@@ -4,7 +4,7 @@ album: Sinister Fire's Rituals
 artist: Necrostrigis
 categories:
 - Vinyl
-date: '2023-08-14T07:07:31'
+date: '2023-09-24T05:53:32'
 draft: false
 images:
 - /images/covers/necrostrigis-sinister_fire's_rituals.jpg

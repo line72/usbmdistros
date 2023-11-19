@@ -4,7 +4,7 @@ album: Ave Mors
 artist: Hellfire Deathcult
 categories:
 - Vinyl
-date: '2023-07-27T05:49:18'
+date: '2023-09-24T05:50:05'
 draft: false
 images:
 - /images/covers/hellfire_deathcult-ave_mors.jpg

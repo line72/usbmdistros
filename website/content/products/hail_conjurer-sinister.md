@@ -4,7 +4,7 @@ album: Sinister
 artist: Hail Conjurer
 categories:
 - Cassette
-date: '2023-07-27T05:56:47'
+date: '2023-09-24T05:58:11'
 draft: false
 images:
 - /images/covers/hail_conjurer-sinister.png

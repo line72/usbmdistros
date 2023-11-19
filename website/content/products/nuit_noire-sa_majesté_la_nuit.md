@@ -4,7 +4,7 @@ album: "Sa Majest\xE9 la Nuit"
 artist: Nuit Noire
 categories:
 - Vinyl
-date: '2023-07-27T05:50:27'
+date: '2023-11-18T23:25:38'
 draft: false
 images:
 - "/images/covers/nuit_noire-sa_majest\xE9_la_nuit.jpg"
@@ -16,3 +16,4 @@ title: "Nuit Noire - Sa Majest\xE9 la Nuit"
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=27226&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=32781&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=43643&sort=pd.name&order=ASC) for $25.00

@@ -5,7 +5,7 @@ artist: Runespell
 categories:
 - Vinyl
 - CD
-date: '2023-08-11T07:54:01'
+date: '2023-09-24T05:56:23'
 draft: false
 images:
 - "/images/covers/runespell-shores_of_n\xE1str\xF6nd.jpg"

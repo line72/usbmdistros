@@ -4,7 +4,7 @@ album: Ov Rapist's Endless Torment
 artist: "\xD6rd\xF6g"
 categories:
 - Cassette
-date: '2023-07-27T05:57:24'
+date: '2023-09-24T05:58:39'
 draft: false
 images:
 - "/images/covers/\xF6rd\xF6g-ov_rapist's_endless_torment.jpg"

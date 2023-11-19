@@ -4,7 +4,7 @@ album: Wrath of Darkness
 artist: Wrathprayer / Force of Darkness
 categories:
 - Vinyl
-date: '2023-07-27T05:51:57'
+date: '2023-09-24T05:52:55'
 draft: false
 images:
 - /images/covers/wrathprayer_-_force_of_darkness-wrath_of_darkness.jpg

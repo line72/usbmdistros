@@ -4,7 +4,7 @@ album: Atlantean Ouroboros
 artist: Mortum
 categories:
 - Vinyl
-date: '2023-07-27T05:50:10'
+date: '2023-09-24T05:51:00'
 draft: false
 images:
 - /images/covers/mortum-atlantean_ouroboros.jpg

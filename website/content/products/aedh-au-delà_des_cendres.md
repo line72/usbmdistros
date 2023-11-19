@@ -5,7 +5,7 @@ artist: Aedh
 categories:
 - Cassette
 - CD
-date: '2023-07-27T05:56:09'
+date: '2023-09-24T05:57:20'
 draft: false
 images:
 - "/images/covers/aedh-au-del\xE0_des_cendres.jpg"

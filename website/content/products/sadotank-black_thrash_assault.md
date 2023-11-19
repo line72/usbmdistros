@@ -4,7 +4,7 @@ album: Black Thrash Assault
 artist: Sadotank
 categories:
 - CD
-date: '2023-07-27T05:55:17'
+date: '2023-09-24T05:56:26'
 draft: false
 images:
 - /images/covers/sadotank-black_thrash_assault.png

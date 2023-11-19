@@ -4,7 +4,7 @@ album: The Origins of Extinction
 artist: Kaosophia
 categories:
 - Cassette
-date: '2023-07-27T05:57:05'
+date: '2023-09-24T05:58:20'
 draft: false
 images:
 - /images/covers/kaosophia-the_origins_of_extinction.png

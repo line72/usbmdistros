@@ -4,7 +4,7 @@ album: Black Putrescence Of Evil
 artist: Teitanblood
 categories:
 - Vinyl
-date: '2023-08-25T07:20:12'
+date: '2023-09-24T05:52:12'
 draft: false
 images:
 - /images/covers/teitanblood-black_putrescence_of_evil.jpg

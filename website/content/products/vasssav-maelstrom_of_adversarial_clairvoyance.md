@@ -4,7 +4,7 @@ album: Maelstrom of Adversarial Clairvoyance
 artist: Vasssav
 categories:
 - Cassette
-date: '2023-07-27T05:57:55'
+date: '2023-09-24T05:59:10'
 draft: false
 images:
 - /images/covers/vasssav-maelstrom_of_adversarial_clairvoyance.jpg

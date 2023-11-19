@@ -4,7 +4,7 @@ album: Demo I
 artist: Malakhim
 categories:
 - Vinyl
-date: '2023-09-10T06:38:22'
+date: '2023-09-24T05:50:40'
 draft: false
 images:
 - /images/covers/malakhim-demo_i.jpg

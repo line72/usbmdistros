@@ -4,7 +4,7 @@ album: Stigmata Mali
 artist: Funeral Winds
 categories:
 - Vinyl
-date: '2023-09-20T05:00:50'
+date: '2023-09-24T05:49:47'
 draft: false
 images:
 - /images/covers/funeral_winds-stigmata_mali.jpg

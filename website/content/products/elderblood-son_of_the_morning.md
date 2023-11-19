@@ -4,7 +4,7 @@ album: Son of the Morning
 artist: Elderblood
 categories:
 - Cassette
-date: '2023-07-27T05:56:36'
+date: '2023-09-24T05:57:57'
 draft: false
 images:
 - /images/covers/elderblood-son_of_the_morning.png

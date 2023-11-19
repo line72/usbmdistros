@@ -5,7 +5,7 @@ artist: Mysteria Mystica Aeterna
 categories:
 - Vinyl
 - CD
-date: '2023-07-27T05:54:43'
+date: '2023-09-24T05:55:52'
 draft: false
 images:
 - /images/covers/mysteria_mystica_aeterna-the_temple_of_eosphoros.png

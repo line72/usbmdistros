@@ -5,7 +5,7 @@ artist: Troll
 categories:
 - Vinyl
 - CD
-date: '2023-07-27T05:51:31'
+date: '2023-10-19T07:20:51'
 draft: false
 images:
 - /images/covers/troll-drep_de_kristne.jpg
@@ -18,5 +18,6 @@ title: Troll - Drep de Kristne
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=35199&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=35410&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=36700&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=42082&sort=pd.name&order=ASC) for $25.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=23259&sort=pd.name&order=ASC) for $15.00

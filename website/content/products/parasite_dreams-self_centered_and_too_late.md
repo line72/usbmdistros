@@ -4,7 +4,7 @@ album: Self Centered And Too Late
 artist: Parasite Dreams
 categories:
 - Cassette
-date: '2023-07-27T05:57:25'
+date: '2023-09-24T05:58:40'
 draft: false
 images:
 - /images/covers/parasite_dreams-self_centered_and_too_late.jpg

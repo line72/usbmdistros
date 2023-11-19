@@ -4,7 +4,7 @@ album: The Dark Acts (1988 - 1991)
 artist: Invoker
 categories:
 - Vinyl
-date: '2023-07-27T05:49:31'
+date: '2023-10-30T16:42:50'
 draft: false
 images:
 - /images/covers/invoker-the_dark_acts_(1988_-_1991).jpg
@@ -21,3 +21,4 @@ title: Invoker - The Dark Acts (1988 - 1991)
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29482&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=33760&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=35987&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=42755&sort=pd.name&order=ASC) for $25.00

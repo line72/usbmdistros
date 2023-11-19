@@ -5,7 +5,7 @@ artist: Moonblood
 categories:
 - Vinyl
 - CD
-date: '2023-07-27T05:50:04'
+date: '2023-09-24T05:50:56'
 draft: false
 images:
 - /images/covers/moonblood-angelwings_in_the_darkness.jpg

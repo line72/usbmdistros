@@ -4,7 +4,7 @@ album: Ex Regnum Spiritus in Manifestus
 artist: Capitis Damnare
 categories:
 - Vinyl
-date: '2023-09-10T06:04:32'
+date: '2023-09-24T05:48:59'
 draft: false
 images:
 - /images/covers/capitis_damnare-ex_regnum_spiritus_in_manifestus.jpg

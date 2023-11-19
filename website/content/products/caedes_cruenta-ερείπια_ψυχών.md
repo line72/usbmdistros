@@ -4,7 +4,7 @@ album: "\u0395\u03C1\u03B5\u03AF\u03C0\u03B9\u03B1 \u03A8\u03C5\u03C7\u03CE\u03B
 artist: Caedes Cruenta
 categories:
 - Vinyl
-date: '2023-07-27T05:48:11'
+date: '2023-09-24T05:48:57'
 draft: false
 images:
 - "/images/covers/caedes_cruenta-\u03B5\u03C1\u03B5\u03AF\u03C0\u03B9\u03B1_\u03C8\

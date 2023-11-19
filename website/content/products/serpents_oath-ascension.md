@@ -4,7 +4,7 @@ album: Ascension
 artist: Serpents Oath
 categories:
 - Vinyl
-date: '2023-09-12T07:21:31'
+date: '2023-09-24T05:51:57'
 draft: false
 images:
 - /images/covers/serpents_oath-ascension.png

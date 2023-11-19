@@ -4,7 +4,7 @@ album: Path Through the Mist
 artist: Volkolun
 categories:
 - CD
-date: '2023-07-27T05:55:55'
+date: '2023-09-24T05:57:06'
 draft: false
 images:
 - /images/covers/volkolun-path_through_the_mist.jpg

@@ -4,7 +4,7 @@ album: Satanic Black Moloch
 artist: "Vet\xEBvrakh"
 categories:
 - Vinyl
-date: '2023-07-27T05:51:42'
+date: '2023-09-24T05:52:40'
 draft: false
 images:
 - "/images/covers/vet\xEBvrakh-satanic_black_moloch.jpg"

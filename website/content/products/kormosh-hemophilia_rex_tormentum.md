@@ -4,7 +4,7 @@ album: Hemophilia Rex Tormentum
 artist: Kormosh
 categories:
 - Cassette
-date: '2023-07-27T05:57:05'
+date: '2023-09-24T05:58:20'
 draft: false
 images:
 - /images/covers/kormosh-hemophilia_rex_tormentum.jpg

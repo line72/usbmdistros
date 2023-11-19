@@ -4,7 +4,7 @@ album: Passion Of The Antichrist
 artist: Unholy Scripture
 categories:
 - Cassette
-date: '2023-07-27T05:57:53'
+date: '2023-09-24T05:59:08'
 draft: false
 images:
 - /images/covers/unholy_scripture-passion_of_the_antichrist.png

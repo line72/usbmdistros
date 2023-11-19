@@ -5,7 +5,7 @@ artist: Phlegein
 categories:
 - Vinyl
 - CD
-date: '2023-07-27T05:50:39'
+date: '2023-11-19T08:42:26'
 draft: false
 images:
 - /images/covers/phlegein-labyrinth_of_wonder.jpg
@@ -23,4 +23,4 @@ title: Phlegein - Labyrinth of Wonder
 ## CD
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/phlegein-labyrinth-of-wonder-cd) for $14.00
 * Purchase from [CW Productions](https://shop.cwproductions.net/products/phlegein-labyrinth-of-wonder-cd) for $5.00
-* Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/7119/) for $11.00
+* Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/7119/) for $10.00

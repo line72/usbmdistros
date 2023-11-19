@@ -5,7 +5,7 @@ artist: Funeral Winds
 categories:
 - Vinyl
 - Cassette
-date: '2023-07-27T05:48:57'
+date: '2023-09-24T05:49:46'
 draft: false
 images:
 - /images/covers/funeral_winds-godslayer_xul.jpg

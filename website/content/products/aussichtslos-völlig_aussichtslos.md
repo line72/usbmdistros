@@ -4,7 +4,7 @@ album: "V\xF6llig Aussichtslos"
 artist: Aussichtslos
 categories:
 - Vinyl
-date: '2023-07-27T05:47:44'
+date: '2023-09-24T05:48:33'
 draft: false
 images:
 - "/images/covers/aussichtslos-v\xF6llig_aussichtslos.png"

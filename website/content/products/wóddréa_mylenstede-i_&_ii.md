@@ -4,7 +4,7 @@ album: I & II
 artist: "W\xF3ddr\xE9a Mylenstede"
 categories:
 - Cassette
-date: '2023-07-27T05:58:00'
+date: '2023-09-24T05:59:17'
 draft: false
 images:
 - "/images/covers/w\xF3ddr\xE9a_mylenstede-i_&_ii.jpg"

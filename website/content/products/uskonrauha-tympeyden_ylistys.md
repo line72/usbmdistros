@@ -5,7 +5,7 @@ artist: Uskonrauha
 categories:
 - Vinyl
 - CD
-date: '2023-08-27T07:02:57'
+date: '2023-09-24T05:56:58'
 draft: false
 images:
 - /images/covers/uskonrauha-tympeyden_ylistys.jpg

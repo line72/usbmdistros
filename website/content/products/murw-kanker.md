@@ -4,7 +4,7 @@ album: Kanker
 artist: Murw
 categories:
 - Vinyl
-date: '2023-09-10T06:44:47'
+date: '2023-09-24T05:51:01'
 draft: false
 images:
 - /images/covers/murw-kanker.jpg

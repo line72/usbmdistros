@@ -4,7 +4,7 @@ album: Ruido De Guerra
 artist: Bloody Vengeance
 categories:
 - Vinyl
-date: '2023-09-09T06:07:38'
+date: '2023-11-10T10:45:05'
 draft: false
 images:
 - /images/covers/bloody_vengeance-ruido_de_guerra.jpg
@@ -19,3 +19,4 @@ title: Bloody Vengeance - Ruido De Guerra
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=39388&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=39654&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=39563&sort=pd.name&order=ASC) for $35.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=43150&sort=pd.name&order=ASC) for $25.00

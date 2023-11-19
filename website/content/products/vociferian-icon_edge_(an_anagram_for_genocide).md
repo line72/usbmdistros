@@ -4,7 +4,7 @@ album: Icon Edge (An Anagram for Genocide)
 artist: Vociferian
 categories:
 - Vinyl
-date: '2023-07-27T05:52:42'
+date: '2023-09-24T05:53:50'
 draft: false
 images:
 - /images/covers/vociferian-icon_edge_(an_anagram_for_genocide).jpg

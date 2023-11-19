@@ -4,7 +4,7 @@ album: Abyss Calls Life
 artist: Necromass
 categories:
 - CD
-date: '2023-07-27T05:54:47'
+date: '2023-09-24T05:55:56'
 draft: false
 images:
 - /images/covers/necromass-abyss_calls_life.jpg

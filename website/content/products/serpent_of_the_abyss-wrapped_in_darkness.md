@@ -4,7 +4,7 @@ album: Wrapped in Darkness
 artist: Serpent of the Abyss
 categories:
 - Vinyl
-date: '2023-07-27T05:51:04'
+date: '2023-09-24T05:51:56'
 draft: false
 images:
 - /images/covers/serpent_of_the_abyss-wrapped_in_darkness.jpg

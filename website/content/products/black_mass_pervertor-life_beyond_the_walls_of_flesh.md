@@ -4,7 +4,7 @@ album: Life Beyond the Walls of Flesh
 artist: Black Mass Pervertor
 categories:
 - Vinyl
-date: '2023-07-27T05:47:59'
+date: '2023-09-24T05:48:44'
 draft: false
 images:
 - /images/covers/black_mass_pervertor-life_beyond_the_walls_of_flesh.jpg

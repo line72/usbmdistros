@@ -5,7 +5,7 @@ artist: Black Draugwath
 categories:
 - Vinyl
 - CD
-date: '2023-09-18T05:55:48'
+date: '2023-09-24T05:54:12'
 draft: false
 images:
 - /images/covers/black_draugwath-the_true_bottomless_armageddon.jpg

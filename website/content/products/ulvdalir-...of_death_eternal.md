@@ -5,7 +5,7 @@ artist: Ulvdalir
 categories:
 - Vinyl
 - CD
-date: '2023-07-27T05:51:33'
+date: '2023-09-24T05:52:28'
 draft: false
 images:
 - /images/covers/ulvdalir-...of_death_eternal.jpg

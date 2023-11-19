@@ -4,7 +4,7 @@ album: Gloire Immortelle
 artist: Ephemer
 categories:
 - CD
-date: '2023-07-27T05:53:37'
+date: '2023-09-24T05:54:44'
 draft: false
 images:
 - /images/covers/ephemer-gloire_immortelle.jpg

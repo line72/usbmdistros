@@ -4,7 +4,7 @@ album: "Makt, H\xF8yhet, Herred\xF8mme"
 artist: "\xD8ksehovud"
 categories:
 - Vinyl
-date: '2023-07-27T05:51:59'
+date: '2023-09-24T05:52:57'
 draft: false
 images:
 - "/images/covers/\xF8ksehovud-makt,_h\xF8yhet,_herred\xF8mme.jpg"

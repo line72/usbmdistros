@@ -5,7 +5,7 @@ artist: "Jordf\xE4st"
 categories:
 - Vinyl
 - CD
-date: '2023-07-27T05:54:16'
+date: '2023-09-24T05:55:25'
 draft: false
 images:
 - "/images/covers/jordf\xE4st-h\xE4danefter.jpg"

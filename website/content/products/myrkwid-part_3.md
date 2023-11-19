@@ -4,7 +4,7 @@ album: Part 3
 artist: Myrkwid
 categories:
 - Vinyl
-date: '2023-09-10T06:45:20'
+date: '2023-09-24T05:51:03'
 draft: false
 images:
 - /images/covers/myrkwid-part_3.jpg

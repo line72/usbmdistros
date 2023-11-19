@@ -4,7 +4,7 @@ album: Vermolmd
 artist: Gevlerkt
 categories:
 - Cassette
-date: '2023-07-27T05:56:43'
+date: '2023-09-24T05:58:07'
 draft: false
 images:
 - /images/covers/gevlerkt-vermolmd.png

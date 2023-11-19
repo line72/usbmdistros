@@ -4,7 +4,7 @@ album: Battle Hymns
 artist: Uruk
 categories:
 - Cassette
-date: '2023-07-27T05:57:53'
+date: '2023-09-24T05:59:08'
 draft: false
 images:
 - /images/covers/uruk-battle_hymns.jpg

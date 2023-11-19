@@ -4,7 +4,7 @@ album: 1997-2000
 artist: Infernal Necromancy
 categories:
 - CD
-date: '2023-07-27T05:54:11'
+date: '2023-09-24T05:55:20'
 draft: false
 images:
 - /images/covers/infernal_necromancy-1997-2000.jpg

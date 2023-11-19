@@ -4,7 +4,7 @@ album: Burned Alive
 artist: Mayhem
 categories:
 - Vinyl
-date: '2023-07-27T05:49:56'
+date: '2023-11-18T12:44:07'
 draft: false
 images:
 - /images/covers/mayhem-burned_alive.jpg
@@ -17,3 +17,5 @@ title: Mayhem - Burned Alive
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=33363&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=36907&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=37108&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=43426&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=43542&sort=pd.name&order=ASC) for $25.00

@@ -4,7 +4,7 @@ album: At the Ruins of the Holy Kingdom
 artist: Impious Havoc
 categories:
 - Cassette
-date: '2023-07-27T05:56:52'
+date: '2023-09-24T05:58:16'
 draft: false
 images:
 - /images/covers/impious_havoc-at_the_ruins_of_the_holy_kingdom.png

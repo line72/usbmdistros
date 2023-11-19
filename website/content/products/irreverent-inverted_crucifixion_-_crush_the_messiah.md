@@ -4,7 +4,7 @@ album: Inverted Crucifixion / Crush the Messiah
 artist: Irreverent
 categories:
 - Vinyl
-date: '2023-07-27T05:49:32'
+date: '2023-09-24T05:50:21'
 draft: false
 images:
 - /images/covers/irreverent-inverted_crucifixion_-_crush_the_messiah.jpg

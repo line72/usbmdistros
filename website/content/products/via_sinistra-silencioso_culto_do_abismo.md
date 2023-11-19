@@ -5,7 +5,7 @@ artist: Via Sinistra
 categories:
 - Vinyl
 - CD
-date: '2023-07-27T05:51:42'
+date: '2023-09-24T05:52:40'
 draft: false
 images:
 - /images/covers/via_sinistra-silencioso_culto_do_abismo.jpg

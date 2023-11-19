@@ -4,7 +4,7 @@ album: Reaping Death
 artist: Watain
 categories:
 - Vinyl
-date: '2023-08-25T07:54:39'
+date: '2023-09-24T05:53:51'
 draft: false
 images:
 - /images/covers/watain-reaping_death.jpg

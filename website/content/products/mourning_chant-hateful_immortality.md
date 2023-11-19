@@ -5,7 +5,7 @@ artist: Mourning Chant
 categories:
 - Cassette
 - CD
-date: '2023-07-27T05:54:41'
+date: '2023-09-24T05:55:49'
 draft: false
 images:
 - /images/covers/mourning_chant-hateful_immortality.png

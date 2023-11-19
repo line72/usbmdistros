@@ -4,7 +4,7 @@ album: 'Brazilian Ritual: Bestial Massacre II'
 artist: Deiphago
 categories:
 - CD
-date: '2023-07-27T05:53:23'
+date: '2023-09-24T05:54:31'
 draft: false
 images:
 - /images/covers/deiphago-brazilian_ritual:_bestial_massacre_ii.jpg

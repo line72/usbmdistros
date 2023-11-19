@@ -4,7 +4,7 @@ album: Seven Gateways to Eternal Misanthropy
 artist: Ceremonial Worship
 categories:
 - Vinyl
-date: '2023-07-27T05:48:17'
+date: '2023-09-24T05:49:04'
 draft: false
 images:
 - /images/covers/ceremonial_worship-seven_gateways_to_eternal_misanthropy.jpg

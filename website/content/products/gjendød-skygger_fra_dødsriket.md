@@ -4,7 +4,7 @@ album: "Skygger fra d\xF8dsriket"
 artist: "Gjend\xF8d"
 categories:
 - Vinyl
-date: '2023-07-29T06:07:00'
+date: '2023-09-24T05:49:51'
 draft: false
 images:
 - "/images/covers/gjend\xF8d-skygger_fra_d\xF8dsriket.jpg"

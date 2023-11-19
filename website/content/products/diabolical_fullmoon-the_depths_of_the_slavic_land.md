@@ -4,7 +4,7 @@ album: The Depths of the Slavic Land
 artist: Diabolical Fullmoon
 categories:
 - Vinyl
-date: '2023-07-27T05:52:12'
+date: '2023-09-24T05:53:13'
 draft: false
 images:
 - /images/covers/diabolical_fullmoon-the_depths_of_the_slavic_land.jpg

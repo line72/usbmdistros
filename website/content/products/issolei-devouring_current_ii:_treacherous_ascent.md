@@ -5,7 +5,7 @@ artist: Issolei
 categories:
 - Vinyl
 - CD
-date: '2023-07-27T05:49:33'
+date: '2023-09-24T05:50:22'
 draft: false
 images:
 - /images/covers/issolei-devouring_current_ii:_treacherous_ascent.jpg

@@ -4,7 +4,7 @@ album: Feel The Anger Of The Wind
 artist: Woodtemple
 categories:
 - CD
-date: '2023-07-27T05:56:03'
+date: '2023-09-24T05:57:14'
 draft: false
 images:
 - /images/covers/woodtemple-feel_the_anger_of_the_wind.jpg

@@ -4,7 +4,7 @@ album: Rain Upon The Impure
 artist: The Ruins Of Beverast
 categories:
 - Vinyl
-date: '2022-11-24T06:10:37'
+date: '2023-10-08T07:01:17'
 draft: false
 images:
 - /images/covers/the_ruins_of_beverast-rain_upon_the_impure.jpg
@@ -23,3 +23,4 @@ title: The Ruins Of Beverast - Rain Upon The Impure
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=24338&sort=pd.name&order=ASC) for $30.00
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/used-the-ruins-of-beverast-rain-upon-the-impure-2xlp) for $27.00 :: Black 2013 press vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=25793&sort=pd.name&order=ASC) for $24.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=41349&sort=pd.name&order=ASC) for $30.00

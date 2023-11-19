@@ -5,7 +5,7 @@ artist: Embrace of Thorns
 categories:
 - Vinyl
 - CD
-date: '2023-07-27T05:53:34'
+date: '2023-09-24T05:54:42'
 draft: false
 images:
 - /images/covers/embrace_of_thorns-...for_i_see_death_in_their_eyes.jpg

@@ -5,7 +5,7 @@ artist: "Ud\xE5nde"
 categories:
 - Vinyl
 - CD
-date: '2023-04-05T05:35:06'
+date: '2023-11-19T09:04:25'
 draft: false
 images:
 - "/images/covers/ud\xE5nde-life_of_a_purist.jpg"
@@ -18,3 +18,4 @@ title: "Ud\xE5nde - Life Of A Purist"
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/udande-life-of-a-purist-lp) for $20.00 :: Blue 2nd press vinyl
 ## CD
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/udande-life-of-a-purist-cd) for $10.00 :: CD 2021
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/udande-life-of-a-purist-cd-1) for $13.00 :: CD 2021

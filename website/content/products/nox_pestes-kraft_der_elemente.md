@@ -4,7 +4,7 @@ album: Kraft der Elemente
 artist: Nox Pestes
 categories:
 - CD
-date: '2023-07-27T05:54:55'
+date: '2023-09-24T05:56:04'
 draft: false
 images:
 - /images/covers/nox_pestes-kraft_der_elemente.jpg

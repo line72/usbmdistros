@@ -5,7 +5,7 @@ artist: Martwa Aura
 categories:
 - Vinyl
 - Cassette
-date: '2023-07-27T05:57:10'
+date: '2023-09-24T05:58:26'
 draft: false
 images:
 - /images/covers/martwa_aura-morbus_animus.jpg

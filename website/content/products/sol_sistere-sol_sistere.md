@@ -4,7 +4,7 @@ album: Sol Sistere
 artist: Sol Sistere
 categories:
 - CD
-date: '2023-09-07T09:18:35'
+date: '2023-09-24T05:56:36'
 draft: false
 images:
 - /images/covers/sol_sistere-sol_sistere.jpg

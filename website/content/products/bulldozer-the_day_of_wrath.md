@@ -6,7 +6,7 @@ categories:
 - Vinyl
 - Cassette
 - CD
-date: '2023-08-16T07:03:39'
+date: '2023-09-24T05:54:17'
 draft: false
 images:
 - /images/covers/bulldozer-the_day_of_wrath.jpg

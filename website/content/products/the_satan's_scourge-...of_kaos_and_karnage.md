@@ -4,7 +4,7 @@ album: '...Of Kaos and Karnage'
 artist: The Satan's Scourge
 categories:
 - Vinyl
-date: '2023-07-27T05:52:39'
+date: '2023-09-24T05:53:46'
 draft: false
 images:
 - /images/covers/the_satan's_scourge-...of_kaos_and_karnage.jpg

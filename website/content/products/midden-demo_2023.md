@@ -5,7 +5,7 @@ artist: Midden
 categories:
 - Vinyl
 - Cassette
-date: '2023-09-09T06:52:21'
+date: '2023-09-24T05:50:53'
 draft: false
 images:
 - /images/covers/midden-demo_2023.jpg

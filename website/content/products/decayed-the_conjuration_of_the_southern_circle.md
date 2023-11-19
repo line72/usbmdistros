@@ -5,7 +5,7 @@ artist: Decayed
 categories:
 - Cassette
 - CD
-date: '2023-07-27T05:56:31'
+date: '2023-10-09T08:17:32'
 draft: false
 images:
 - /images/covers/decayed-the_conjuration_of_the_southern_circle.png
@@ -18,3 +18,4 @@ title: Decayed - The Conjuration of the Southern Circle
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=6153&sort=pd.name&order=ASC) for $7.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=20540&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=41593&sort=pd.name&order=ASC) for $12.00

@@ -4,7 +4,7 @@ album: Vulto / Ritual de Privacao
 artist: Lythany
 categories:
 - CD
-date: '2023-07-27T05:54:29'
+date: '2023-09-24T05:55:37'
 draft: false
 images:
 - /images/covers/lythany-vulto_-_ritual_de_privacao.jpg

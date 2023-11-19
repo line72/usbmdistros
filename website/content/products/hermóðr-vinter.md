@@ -4,7 +4,7 @@ album: Vinter
 artist: "Herm\xF3\xF0r"
 categories:
 - CD
-date: '2023-07-27T05:54:03'
+date: '2023-09-24T05:55:11'
 draft: false
 images:
 - "/images/covers/herm\xF3\xF0r-vinter.jpg"

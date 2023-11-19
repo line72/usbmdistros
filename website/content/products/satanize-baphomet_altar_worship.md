@@ -6,7 +6,7 @@ categories:
 - Vinyl
 - Cassette
 - CD
-date: '2023-07-27T05:55:20'
+date: '2023-09-24T05:56:28'
 draft: false
 images:
 - /images/covers/satanize-baphomet_altar_worship.jpg

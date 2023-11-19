@@ -4,7 +4,7 @@ album: Blasphemia Canorae
 artist: Evilnasty
 categories:
 - Cassette
-date: '2023-07-27T05:56:38'
+date: '2023-09-24T05:58:02'
 draft: false
 images:
 - /images/covers/evilnasty-blasphemia_canorae.jpg

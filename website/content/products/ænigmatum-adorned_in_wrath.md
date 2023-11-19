@@ -4,7 +4,7 @@ album: Adorned In Wrath
 artist: "\xC6NIGMATUM"
 categories:
 - Cassette
-date: '2023-07-27T05:58:03'
+date: '2023-09-24T05:59:19'
 draft: false
 images:
 - "/images/covers/\xE6nigmatum-adorned_in_wrath.png"

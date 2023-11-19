@@ -4,7 +4,7 @@ album: Wrathrash
 artist: Orcustus
 categories:
 - Vinyl
-date: '2023-08-17T07:38:51'
+date: '2023-09-24T05:53:35'
 draft: false
 images:
 - /images/covers/orcustus-wrathrash.jpg

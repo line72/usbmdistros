@@ -4,7 +4,7 @@ album: Siedem Kamiennych Obliczy
 artist: Venedae
 categories:
 - Vinyl
-date: '2023-07-27T05:51:40'
+date: '2023-09-24T05:52:37'
 draft: false
 images:
 - /images/covers/venedae-siedem_kamiennych_obliczy.png

@@ -4,7 +4,7 @@ album: "Bedr\xF6velsens H\xE4rd"
 artist: Grifteskymfning
 categories:
 - Vinyl
-date: '2023-09-19T06:39:57'
+date: '2023-09-24T05:49:57'
 draft: false
 images:
 - "/images/covers/grifteskymfning-bedr\xF6velsens_h\xE4rd.jpg"

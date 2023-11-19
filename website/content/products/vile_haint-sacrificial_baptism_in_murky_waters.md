@@ -4,7 +4,7 @@ album: Sacrificial Baptism in Murky Waters
 artist: Vile Haint
 categories:
 - Vinyl
-date: '2023-09-12T07:44:35'
+date: '2023-09-24T05:52:41'
 draft: false
 images:
 - /images/covers/vile_haint-sacrificial_baptism_in_murky_waters.png

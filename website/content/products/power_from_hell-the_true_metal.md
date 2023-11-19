@@ -5,7 +5,7 @@ artist: Power From Hell
 categories:
 - Vinyl
 - CD
-date: '2023-09-18T06:54:07'
+date: '2023-09-24T05:56:14'
 draft: false
 images:
 - /images/covers/power_from_hell-the_true_metal.jpg

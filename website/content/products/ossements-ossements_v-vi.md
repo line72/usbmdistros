@@ -4,7 +4,7 @@ album: Ossements V/VI
 artist: Ossements
 categories:
 - Cassette
-date: '2023-07-27T05:57:24'
+date: '2023-09-24T05:58:39'
 draft: false
 images:
 - /images/covers/ossements-ossements_v-vi.jpg

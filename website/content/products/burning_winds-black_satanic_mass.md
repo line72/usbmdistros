@@ -5,7 +5,7 @@ artist: Burning Winds
 categories:
 - Vinyl
 - Cassette
-date: '2023-09-04T09:20:14'
+date: '2023-09-24T05:57:43'
 draft: false
 images:
 - /images/covers/burning_winds-black_satanic_mass.jpg

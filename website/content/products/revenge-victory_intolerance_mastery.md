@@ -5,7 +5,7 @@ artist: Revenge
 categories:
 - Vinyl
 - Cassette
-date: '2023-09-09T07:05:26'
+date: '2023-09-24T05:51:39'
 draft: false
 images:
 - /images/covers/revenge-victory_intolerance_mastery.png

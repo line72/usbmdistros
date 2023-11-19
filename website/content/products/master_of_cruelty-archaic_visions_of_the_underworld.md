@@ -5,7 +5,7 @@ artist: Master of Cruelty
 categories:
 - Vinyl
 - CD
-date: '2023-07-27T05:49:56'
+date: '2023-09-24T05:50:46'
 draft: false
 images:
 - /images/covers/master_of_cruelty-archaic_visions_of_the_underworld.jpg

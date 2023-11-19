@@ -4,7 +4,7 @@ album: Collapse the Void
 artist: Dimentianon
 categories:
 - Vinyl
-date: '2023-07-27T05:48:37'
+date: '2023-09-24T05:49:25'
 draft: false
 images:
 - /images/covers/dimentianon-collapse_the_void.jpg

@@ -4,7 +4,7 @@ album: Human Breeds Evil
 artist: Khazad Dhum
 categories:
 - CD
-date: '2023-07-27T05:54:20'
+date: '2023-09-24T05:55:28'
 draft: false
 images:
 - /images/covers/khazad_dhum-human_breeds_evil.jpg

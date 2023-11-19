@@ -4,7 +4,7 @@ album: '...Lunar Eclipse, Chaos to the Ruin...'
 artist: Cataplexy
 categories:
 - CD
-date: '2023-07-27T05:53:09'
+date: '2023-09-24T05:54:19'
 draft: false
 images:
 - /images/covers/cataplexy-...lunar_eclipse,_chaos_to_the_ruin....jpg

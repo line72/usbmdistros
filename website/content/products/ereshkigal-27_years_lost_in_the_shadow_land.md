@@ -4,7 +4,7 @@ album: 27 Years lost in the Shadow land
 artist: Ereshkigal
 categories:
 - CD
-date: '2023-07-27T05:53:37'
+date: '2023-09-24T05:54:44'
 draft: false
 images:
 - /images/covers/ereshkigal-27_years_lost_in_the_shadow_land.jpg

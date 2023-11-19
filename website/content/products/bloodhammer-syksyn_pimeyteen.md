@@ -4,7 +4,7 @@ album: Syksyn Pimeyteen
 artist: Bloodhammer
 categories:
 - Vinyl
-date: '2023-08-14T07:03:30'
+date: '2023-09-24T05:53:06'
 draft: false
 images:
 - /images/covers/bloodhammer-syksyn_pimeyteen.jpg

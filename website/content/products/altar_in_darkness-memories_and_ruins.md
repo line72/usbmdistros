@@ -4,7 +4,7 @@ album: Memories and Ruins
 artist: Altar In Darkness
 categories:
 - Cassette
-date: '2023-08-18T07:59:28'
+date: '2023-09-24T05:57:21'
 draft: false
 images:
 - /images/covers/altar_in_darkness-memories_and_ruins.jpg

@@ -4,7 +4,7 @@ album: Diario de Guerra
 artist: Holocausto
 categories:
 - Vinyl
-date: '2023-07-27T05:49:21'
+date: '2023-09-24T05:50:09'
 draft: false
 images:
 - /images/covers/holocausto-diario_de_guerra.jpg

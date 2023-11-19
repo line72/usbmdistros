@@ -4,7 +4,7 @@ album: Louder Than a Thousand Deaths
 artist: Megatomb
 categories:
 - Vinyl
-date: '2023-09-18T06:33:51'
+date: '2023-09-24T05:50:48'
 draft: false
 images:
 - /images/covers/megatomb-louder_than_a_thousand_deaths.jpg

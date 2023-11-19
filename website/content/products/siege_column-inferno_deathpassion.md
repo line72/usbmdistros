@@ -5,7 +5,7 @@ artist: Siege Column
 categories:
 - Vinyl
 - CD
-date: '2023-07-27T05:55:25'
+date: '2023-09-24T05:56:33'
 draft: false
 images:
 - /images/covers/siege_column-inferno_deathpassion.jpg

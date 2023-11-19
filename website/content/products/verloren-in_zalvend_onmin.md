@@ -4,7 +4,7 @@ album: In Zalvend Onmin
 artist: Verloren
 categories:
 - Vinyl
-date: '2023-09-07T07:40:05'
+date: '2023-09-24T05:52:39'
 draft: false
 images:
 - /images/covers/verloren-in_zalvend_onmin.jpg

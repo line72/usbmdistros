@@ -4,7 +4,7 @@ album: Klagelieder
 artist: Golgatha
 categories:
 - Vinyl
-date: '2023-07-27T05:49:05'
+date: '2023-10-05T06:24:07'
 draft: false
 images:
 - /images/covers/golgatha-klagelieder.jpg
@@ -17,3 +17,4 @@ title: Golgatha - Klagelieder
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=19114&sort=pd.name&order=ASC) for $24.00
 * Purchase from [CW Productions](https://shop.cwproductions.net/products/golgatha-klagelieder-lp) for $20.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=36223&sort=pd.name&order=ASC) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=41088&sort=pd.name&order=ASC) for $25.00

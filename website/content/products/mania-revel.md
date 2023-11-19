@@ -4,7 +4,7 @@ album: Revel
 artist: Mania
 categories:
 - Vinyl
-date: '2023-09-10T06:39:01'
+date: '2023-09-24T05:50:42'
 draft: false
 images:
 - /images/covers/mania-revel.jpg

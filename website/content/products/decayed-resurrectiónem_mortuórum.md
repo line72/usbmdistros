@@ -4,7 +4,7 @@ album: "Resurrecti\xF3nem Mortu\xF3rum"
 artist: Decayed
 categories:
 - CD
-date: '2023-07-27T05:53:22'
+date: '2023-10-09T08:17:30'
 draft: false
 images:
 - "/images/covers/decayed-resurrecti\xF3nem_mortu\xF3rum.jpg"
@@ -16,3 +16,4 @@ title: "Decayed - Resurrecti\xF3nem Mortu\xF3rum"
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=5540&sort=pd.name&order=ASC) for $7.50
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=20539&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=41592&sort=pd.name&order=ASC) for $12.00

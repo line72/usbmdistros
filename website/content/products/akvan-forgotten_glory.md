@@ -4,7 +4,7 @@ album: Forgotten Glory
 artist: Akvan
 categories:
 - Vinyl
-date: '2023-09-18T05:50:28'
+date: '2023-09-24T05:48:18'
 draft: false
 images:
 - /images/covers/akvan-forgotten_glory.jpg

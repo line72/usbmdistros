@@ -4,7 +4,7 @@ album: Death Conquers All
 artist: Hellgoat
 categories:
 - Vinyl
-date: '2023-09-07T06:19:08'
+date: '2023-09-24T05:50:05'
 draft: false
 images:
 - /images/covers/hellgoat-death_conquers_all.jpg

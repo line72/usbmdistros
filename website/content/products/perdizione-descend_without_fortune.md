@@ -4,7 +4,7 @@ album: Descend Without Fortune
 artist: Perdizione
 categories:
 - Cassette
-date: '2023-07-27T05:57:26'
+date: '2023-09-24T05:58:41'
 draft: false
 images:
 - /images/covers/perdizione-descend_without_fortune.png

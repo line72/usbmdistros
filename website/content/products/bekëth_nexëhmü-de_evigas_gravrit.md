@@ -5,7 +5,7 @@ artist: "Bek\xEBth Nex\xEBhm\xFC"
 categories:
 - Vinyl
 - CD
-date: '2023-07-27T05:47:56'
+date: '2023-11-02T05:54:36'
 draft: false
 images:
 - "/images/covers/bek\xEBth_nex\xEBhm\xFC-de_evigas_gravrit.jpg"
@@ -22,5 +22,7 @@ title: "Bek\xEBth Nex\xEBhm\xFC - De Evigas Gravrit"
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=32607&sort=pd.name&order=ASC) for $33.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=33719&sort=pd.name&order=ASC) for $33.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=34401&sort=pd.name&order=ASC) for $33.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=40438&sort=pd.name&order=ASC) for $33.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=42905&sort=pd.name&order=ASC) for $33.00
 ## CD
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/beketh-nexehmu-de-evigas-gravrit-cd) for $14.00

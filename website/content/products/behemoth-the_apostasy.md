@@ -4,7 +4,7 @@ album: The Apostasy
 artist: Behemoth
 categories:
 - CD
-date: '2023-08-21T07:31:57'
+date: '2023-09-24T05:54:10'
 draft: false
 images:
 - /images/covers/behemoth-the_apostasy.jpg

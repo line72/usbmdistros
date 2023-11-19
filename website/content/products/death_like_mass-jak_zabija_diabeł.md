@@ -4,7 +4,7 @@ album: "Jak Zabija Diabe\u0142"
 artist: Death Like Mass
 categories:
 - Vinyl
-date: '2023-09-18T06:03:47'
+date: '2023-09-24T05:49:18'
 draft: false
 images:
 - "/images/covers/death_like_mass-jak_zabija_diabe\u0142.jpg"

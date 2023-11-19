@@ -4,7 +4,7 @@ album: The Blackwinged Serpent Crowned
 artist: Somrak
 categories:
 - CD
-date: '2023-07-27T05:55:29'
+date: '2023-09-24T05:56:37'
 draft: false
 images:
 - /images/covers/somrak-the_blackwinged_serpent_crowned.png

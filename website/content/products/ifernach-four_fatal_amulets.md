@@ -4,7 +4,7 @@ album: Four Fatal Amulets
 artist: Ifernach
 categories:
 - Vinyl
-date: '2023-07-27T05:49:23'
+date: '2023-11-16T11:58:50'
 draft: false
 images:
 - /images/covers/ifernach-four_fatal_amulets.jpg
@@ -22,3 +22,5 @@ title: Ifernach - Four Fatal Amulets
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=32668&sort=pd.name&order=ASC) for $28.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=33475&sort=pd.name&order=ASC) for $28.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=34021&sort=pd.name&order=ASC) for $28.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=41846&sort=pd.name&order=ASC) for $28.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=43490&sort=pd.name&order=ASC) for $28.00

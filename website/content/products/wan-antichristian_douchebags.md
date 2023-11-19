@@ -4,7 +4,7 @@ album: Antichristian Douchebags
 artist: Wan
 categories:
 - CD
-date: '2023-07-27T05:55:58'
+date: '2023-09-24T05:57:09'
 draft: false
 images:
 - /images/covers/wan-antichristian_douchebags.png

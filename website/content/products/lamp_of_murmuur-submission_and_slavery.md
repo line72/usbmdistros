@@ -6,7 +6,7 @@ categories:
 - Vinyl
 - Cassette
 - CD
-date: '2023-09-09T08:43:26'
+date: '2023-11-03T05:09:34'
 draft: false
 images:
 - /images/covers/lamp_of_murmuur-submission_and_slavery.png

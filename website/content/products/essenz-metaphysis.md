@@ -4,7 +4,7 @@ album: Metaphysis
 artist: Essenz
 categories:
 - Vinyl
-date: '2023-09-04T06:06:08'
+date: '2023-09-24T05:49:37'
 draft: false
 images:
 - /images/covers/essenz-metaphysis.jpg

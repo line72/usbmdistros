@@ -4,7 +4,7 @@ album: Singles Collection 2016-2019
 artist: Devil's Force
 categories:
 - CD
-date: '2023-07-27T05:53:26'
+date: '2023-09-24T05:54:34'
 draft: false
 images:
 - /images/covers/devil's_force-singles_collection_2016-2019.jpg

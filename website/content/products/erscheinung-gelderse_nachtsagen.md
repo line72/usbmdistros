@@ -4,7 +4,7 @@ album: Gelderse Nachtsagen
 artist: Erscheinung
 categories:
 - Vinyl
-date: '2023-07-27T05:48:48'
+date: '2023-09-24T05:49:36'
 draft: false
 images:
 - /images/covers/erscheinung-gelderse_nachtsagen.jpg

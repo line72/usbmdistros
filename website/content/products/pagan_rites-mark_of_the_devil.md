@@ -4,7 +4,7 @@ album: Mark of the Devil
 artist: Pagan Rites
 categories:
 - Cassette
-date: '2023-07-27T05:57:25'
+date: '2023-09-24T05:58:40'
 draft: false
 images:
 - /images/covers/pagan_rites-mark_of_the_devil.jpg

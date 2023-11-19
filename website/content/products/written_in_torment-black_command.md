@@ -4,7 +4,7 @@ album: Black Command
 artist: Written in Torment
 categories:
 - Vinyl
-date: '2023-07-27T05:51:57'
+date: '2023-09-24T05:52:55'
 draft: false
 images:
 - /images/covers/written_in_torment-black_command.jpg

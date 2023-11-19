@@ -5,7 +5,7 @@ artist: "Nattf\xE4rd"
 categories:
 - Vinyl
 - CD
-date: '2023-09-16T07:09:42'
+date: '2023-09-24T05:51:07'
 draft: false
 images:
 - "/images/covers/nattf\xE4rd-forestrealm_eternal.jpg"

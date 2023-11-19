@@ -5,7 +5,7 @@ artist: Oculus
 categories:
 - Vinyl
 - CD
-date: '2023-07-27T05:54:56'
+date: '2023-09-24T05:56:05'
 draft: false
 images:
 - /images/covers/oculus-the_apostate_of_light.jpg

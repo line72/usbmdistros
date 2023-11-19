@@ -5,7 +5,7 @@ artist: "Nattf\xE4rd"
 categories:
 - Vinyl
 - CD
-date: '2023-09-16T09:25:21'
+date: '2023-09-24T05:55:54'
 draft: false
 images:
 - "/images/covers/nattf\xE4rd-the_abyss.jpg"

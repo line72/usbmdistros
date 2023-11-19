@@ -4,7 +4,7 @@ album: The Stars Below, The Seas Above
 artist: Kraken Duumvirate
 categories:
 - CD
-date: '2023-07-27T05:54:22'
+date: '2023-09-24T05:55:30'
 draft: false
 images:
 - /images/covers/kraken_duumvirate-the_stars_below,_the_seas_above.jpg

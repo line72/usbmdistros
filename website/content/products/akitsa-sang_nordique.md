@@ -4,7 +4,7 @@ album: Sang Nordique
 artist: Akitsa
 categories:
 - Vinyl
-date: '2023-08-24T16:55:00'
+date: '2023-09-24T05:48:18'
 draft: false
 images:
 - /images/covers/akitsa-sang_nordique.jpg

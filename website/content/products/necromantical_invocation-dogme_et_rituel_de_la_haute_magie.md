@@ -5,7 +5,7 @@ artist: Necromantical Invocation
 categories:
 - Vinyl
 - CD
-date: '2023-07-27T05:50:18'
+date: '2023-09-24T05:51:09'
 draft: false
 images:
 - /images/covers/necromantical_invocation-dogme_et_rituel_de_la_haute_magie.jpg

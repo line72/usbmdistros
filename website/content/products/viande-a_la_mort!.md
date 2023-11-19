@@ -4,7 +4,7 @@ album: A La Mort!
 artist: Viande
 categories:
 - Cassette
-date: '2023-07-27T05:57:56'
+date: '2023-09-24T05:59:12'
 draft: false
 images:
 - /images/covers/viande-a_la_mort!.jpg

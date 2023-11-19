@@ -1,10 +1,10 @@
 ---
-actualPrice: $7.00
+actualPrice: $3.00
 album: The Repository Of Stolen Fire
 artist: Akefal
 categories:
 - Cassette
-date: '2021-11-16T14:07:20'
+date: '2023-10-25T05:39:54'
 draft: false
 images:
 - /images/covers/akefal-the_repository_of_stolen_fire.jpg
@@ -14,4 +14,4 @@ title: Akefal - The Repository Of Stolen Fire
 ---
 
 ## Cassette
-* Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/28065495-akefal-the-repository-of-stolen-fire) for $7.00
+* Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/28065495-akefal-the-repository-of-stolen-fire) for $3.00

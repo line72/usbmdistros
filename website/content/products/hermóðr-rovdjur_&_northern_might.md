@@ -4,7 +4,7 @@ album: Rovdjur & Northern Might
 artist: "Herm\xF3\xF0r"
 categories:
 - CD
-date: '2023-07-27T05:54:02'
+date: '2023-09-24T05:55:10'
 draft: false
 images:
 - "/images/covers/herm\xF3\xF0r-rovdjur_&_northern_might.jpg"

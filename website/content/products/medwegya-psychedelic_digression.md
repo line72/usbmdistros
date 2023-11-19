@@ -4,7 +4,7 @@ album: Psychedelic Digression
 artist: Medwegya
 categories:
 - Vinyl
-date: '2023-07-27T05:49:58'
+date: '2023-09-24T05:50:47'
 draft: false
 images:
 - /images/covers/medwegya-psychedelic_digression.png

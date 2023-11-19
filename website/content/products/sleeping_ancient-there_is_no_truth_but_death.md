@@ -4,7 +4,7 @@ album: There Is No Truth but Death
 artist: Sleeping Ancient
 categories:
 - Vinyl
-date: '2023-09-07T07:16:51'
+date: '2023-09-24T05:52:01'
 draft: false
 images:
 - /images/covers/sleeping_ancient-there_is_no_truth_but_death.jpg

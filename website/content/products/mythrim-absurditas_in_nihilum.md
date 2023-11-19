@@ -4,7 +4,7 @@ album: Absurditas in Nihilum
 artist: Mythrim
 categories:
 - Cassette
-date: '2023-07-27T05:57:14'
+date: '2023-09-24T05:58:31'
 draft: false
 images:
 - /images/covers/mythrim-absurditas_in_nihilum.jpg

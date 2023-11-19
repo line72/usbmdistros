@@ -4,7 +4,7 @@ album: Through The Scarlet Veil
 artist: Blood Moon
 categories:
 - CD
-date: '2023-09-14T07:22:31'
+date: '2023-09-24T05:54:15'
 draft: false
 images:
 - /images/covers/blood_moon-through_the_scarlet_veil.jpg

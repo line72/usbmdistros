@@ -4,7 +4,7 @@ album: Grand Master of the Final Harvest
 artist: Heptameron
 categories:
 - Cassette
-date: '2023-07-27T05:56:49'
+date: '2023-09-24T05:58:13'
 draft: false
 images:
 - /images/covers/heptameron-grand_master_of_the_final_harvest.png

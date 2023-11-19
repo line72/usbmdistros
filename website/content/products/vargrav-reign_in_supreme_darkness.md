@@ -4,7 +4,7 @@ album: Reign In Supreme Darkness
 artist: Vargrav
 categories:
 - Vinyl
-date: '2023-08-24T06:49:27'
+date: '2023-09-24T05:52:36'
 draft: false
 images:
 - /images/covers/vargrav-reign_in_supreme_darkness.jpg

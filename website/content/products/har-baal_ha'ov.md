@@ -4,7 +4,7 @@ album: Baal Ha'ov
 artist: Har
 categories:
 - Vinyl
-date: '2023-09-04T06:13:27'
+date: '2023-09-24T05:50:00'
 draft: false
 images:
 - /images/covers/har-baal_ha'ov.jpg

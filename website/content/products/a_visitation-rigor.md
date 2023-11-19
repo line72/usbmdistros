@@ -4,7 +4,7 @@ album: Rigor
 artist: A Visitation
 categories:
 - Cassette
-date: '2023-07-27T05:56:06'
+date: '2023-09-24T05:57:18'
 draft: false
 images:
 - /images/covers/a_visitation-rigor.jpg

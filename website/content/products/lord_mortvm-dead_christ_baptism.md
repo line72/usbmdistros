@@ -5,7 +5,7 @@ artist: Lord Mortvm
 categories:
 - Vinyl
 - CD
-date: '2023-08-20T06:39:39'
+date: '2023-09-24T05:55:34'
 draft: false
 images:
 - /images/covers/lord_mortvm-dead_christ_baptism.jpg

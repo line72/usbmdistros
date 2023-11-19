@@ -4,7 +4,7 @@ album: Ceremonial Rituals Of Demonic Chaos
 artist: Black Devotion
 categories:
 - Vinyl
-date: '2023-09-18T05:55:47'
+date: '2023-09-24T05:48:43'
 draft: false
 images:
 - /images/covers/black_devotion-ceremonial_rituals_of_demonic_chaos.jpg

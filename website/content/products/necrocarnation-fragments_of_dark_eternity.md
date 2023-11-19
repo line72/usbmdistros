@@ -4,7 +4,7 @@ album: Fragments Of Dark Eternity
 artist: Necrocarnation
 categories:
 - CD
-date: '2023-07-27T05:54:46'
+date: '2023-09-24T05:55:55'
 draft: false
 images:
 - /images/covers/necrocarnation-fragments_of_dark_eternity.jpg

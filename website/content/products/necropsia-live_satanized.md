@@ -4,7 +4,7 @@ album: Live Satanized
 artist: Necropsia
 categories:
 - Cassette
-date: '2023-07-27T05:57:16'
+date: '2023-09-24T05:58:33'
 draft: false
 images:
 - /images/covers/necropsia-live_satanized.jpg

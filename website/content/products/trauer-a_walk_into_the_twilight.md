@@ -4,7 +4,7 @@ album: A walk into the twilight
 artist: Trauer
 categories:
 - CD
-date: '2023-07-27T05:55:43'
+date: '2023-09-24T05:56:53'
 draft: false
 images:
 - /images/covers/trauer-a_walk_into_the_twilight.png

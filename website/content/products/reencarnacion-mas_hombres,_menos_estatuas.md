@@ -4,7 +4,7 @@ album: Mas Hombres, Menos Estatuas
 artist: Reencarnacion
 categories:
 - CD
-date: '2023-07-27T05:55:11'
+date: '2023-09-24T05:56:19'
 draft: false
 images:
 - /images/covers/reencarnacion-mas_hombres,_menos_estatuas.png

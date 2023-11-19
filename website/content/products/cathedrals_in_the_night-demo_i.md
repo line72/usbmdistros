@@ -4,7 +4,7 @@ album: Demo I
 artist: Cathedrals in the Night
 categories:
 - Cassette
-date: '2023-07-27T05:56:25'
+date: '2023-09-24T05:57:44'
 draft: false
 images:
 - /images/covers/cathedrals_in_the_night-demo_i.png

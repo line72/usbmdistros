@@ -4,7 +4,7 @@ album: "Sp\xEDra"
 artist: Draugurinn
 categories:
 - CD
-date: '2023-07-27T05:53:31'
+date: '2023-09-24T05:54:39'
 draft: false
 images:
 - "/images/covers/draugurinn-sp\xEDra.jpg"

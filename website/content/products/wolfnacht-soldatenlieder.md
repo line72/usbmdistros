@@ -1,10 +1,10 @@
 ---
-actualPrice: $16.00
+actualPrice: $15.00 - 16.00
 album: Soldatenlieder
 artist: Wolfnacht
 categories:
 - CD
-date: '2022-12-13T06:20:00'
+date: '2023-11-19T08:27:17'
 draft: false
 images:
 - /images/covers/wolfnacht-soldatenlieder.jpg
@@ -15,3 +15,4 @@ title: Wolfnacht - Soldatenlieder
 
 ## CD
 * Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/wolfnacht-soldatenlieder-cd/) for $16.00
+* Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/wolfnacht-soldatenlieder-cd/) for $15.00

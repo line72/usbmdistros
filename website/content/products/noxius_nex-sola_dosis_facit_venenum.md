@@ -4,7 +4,7 @@ album: Sola Dosis Facit Venenum
 artist: Noxius Nex
 categories:
 - Cassette
-date: '2023-07-27T05:57:19'
+date: '2023-09-24T05:58:36'
 draft: false
 images:
 - /images/covers/noxius_nex-sola_dosis_facit_venenum.png

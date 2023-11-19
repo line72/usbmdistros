@@ -4,7 +4,7 @@ album: Virulent Rapture
 artist: Hecate Enthroned
 categories:
 - Vinyl
-date: '2023-09-11T06:37:44'
+date: '2023-09-24T05:50:04'
 draft: false
 images:
 - /images/covers/hecate_enthroned-virulent_rapture.jpg

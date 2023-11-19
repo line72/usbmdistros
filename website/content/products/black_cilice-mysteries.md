@@ -5,7 +5,7 @@ artist: Black Cilice
 categories:
 - Vinyl
 - CD
-date: '2023-07-27T05:47:57'
+date: '2023-09-24T05:48:41'
 draft: false
 images:
 - /images/covers/black_cilice-mysteries.jpg

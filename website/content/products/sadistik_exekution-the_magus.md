@@ -5,7 +5,7 @@ artist: Sadistik Exekution
 categories:
 - Vinyl
 - CD
-date: '2023-07-27T05:55:17'
+date: '2023-09-24T05:56:26'
 draft: false
 images:
 - /images/covers/sadistik_exekution-the_magus.png

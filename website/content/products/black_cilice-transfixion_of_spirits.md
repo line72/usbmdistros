@@ -5,7 +5,7 @@ artist: Black Cilice
 categories:
 - Vinyl
 - CD
-date: '2023-07-27T05:53:03'
+date: '2023-09-24T05:54:12'
 draft: false
 images:
 - /images/covers/black_cilice-transfixion_of_spirits.jpg

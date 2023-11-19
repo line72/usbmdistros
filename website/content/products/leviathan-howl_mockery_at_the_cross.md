@@ -5,7 +5,7 @@ artist: Leviathan
 categories:
 - Vinyl
 - Cassette
-date: '2021-12-28T06:11:17'
+date: '2023-11-18T12:29:04'
 draft: false
 images:
 - /images/covers/leviathan-howl_mockery_at_the_cross.jpg
@@ -17,6 +17,9 @@ title: Leviathan - Howl Mockery At The Cross
 ## Vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/leviathan-howl-mockery-at-the-cross-2xlp) for $29.00 :: White 2018 press vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/leviathan-howl-mockery-at-the-cross-2xlp) for $39.00 :: Grey 2018 press vinyl
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=43312&sort=pd.name&order=ASC) for $35.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=43406&sort=pd.name&order=ASC) for $35.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=43536&sort=pd.name&order=ASC) for $35.00
 ## Cassette
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/leviathan-howl-mockery-at-the-cross-cassette) for $15.00 :: Cassette Tape 2021 press
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/leviathan-howl-mockery-at-the-cross-cassette-1) for $15.00 :: Cassette Tape 2021 press

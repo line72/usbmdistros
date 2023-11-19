@@ -4,7 +4,7 @@ album: Skuggflock
 artist: Stilla
 categories:
 - CD
-date: '2023-07-27T05:55:32'
+date: '2023-09-24T05:56:41'
 draft: false
 images:
 - /images/covers/stilla-skuggflock.png

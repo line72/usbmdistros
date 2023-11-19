@@ -4,7 +4,7 @@ album: Diabolical Desecration
 artist: Bewitched
 categories:
 - Vinyl
-date: '2023-07-27T05:47:56'
+date: '2023-09-24T05:48:40'
 draft: false
 images:
 - /images/covers/bewitched-diabolical_desecration.png

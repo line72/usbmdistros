@@ -5,7 +5,7 @@ artist: Carcinoma
 categories:
 - Vinyl
 - Cassette
-date: '2023-07-27T05:56:24'
+date: '2023-09-24T05:57:44'
 draft: false
 images:
 - /images/covers/carcinoma-labascation.png

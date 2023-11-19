@@ -5,7 +5,7 @@ artist: Voodus
 categories:
 - Vinyl
 - CD
-date: '2023-08-21T08:07:27'
+date: '2023-09-24T05:57:07'
 draft: false
 images:
 - /images/covers/voodus-into_the_wild.jpg

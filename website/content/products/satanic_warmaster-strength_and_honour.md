@@ -5,7 +5,7 @@ artist: Satanic Warmaster
 categories:
 - Vinyl
 - CD
-date: '2023-04-27T05:13:49'
+date: '2023-10-17T09:22:43'
 draft: false
 images:
 - /images/covers/satanic_warmaster-strength_and_honour.jpg
@@ -22,3 +22,4 @@ title: Satanic Warmaster - Strength And Honour
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=32513&sort=pd.name&order=ASC) for $30.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=32515&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=42004&sort=pd.name&order=ASC) for $15.00

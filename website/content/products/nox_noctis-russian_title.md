@@ -4,7 +4,7 @@ album: Russian Title
 artist: Nox Noctis
 categories:
 - CD
-date: '2023-07-27T05:54:55'
+date: '2023-09-24T05:56:03'
 draft: false
 images:
 - /images/covers/nox_noctis-russian_title.jpg

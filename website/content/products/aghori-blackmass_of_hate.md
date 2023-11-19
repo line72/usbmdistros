@@ -4,7 +4,7 @@ album: Blackmass of Hate
 artist: Aghori
 categories:
 - Cassette
-date: '2023-07-27T05:56:09'
+date: '2023-09-24T05:57:20'
 draft: false
 images:
 - /images/covers/aghori-blackmass_of_hate.png

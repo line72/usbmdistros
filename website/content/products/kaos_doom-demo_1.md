@@ -4,7 +4,7 @@ album: Demo 1
 artist: Kaos Doom
 categories:
 - Cassette
-date: '2023-07-27T05:57:05'
+date: '2023-09-24T05:58:20'
 draft: false
 images:
 - /images/covers/kaos_doom-demo_1.jpg

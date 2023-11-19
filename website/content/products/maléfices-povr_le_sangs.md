@@ -4,7 +4,7 @@ album: Povr le Sangs
 artist: "Mal\xE9fices"
 categories:
 - Vinyl
-date: '2023-07-27T05:49:50'
+date: '2023-09-24T05:50:40'
 draft: false
 images:
 - "/images/covers/mal\xE9fices-povr_le_sangs.jpg"

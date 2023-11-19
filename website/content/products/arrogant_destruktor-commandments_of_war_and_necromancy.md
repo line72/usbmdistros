@@ -4,7 +4,7 @@ album: Commandments of War and Necromancy
 artist: Arrogant Destruktor
 categories:
 - Cassette
-date: '2023-07-27T05:56:14'
+date: '2023-09-24T05:57:34'
 draft: false
 images:
 - /images/covers/arrogant_destruktor-commandments_of_war_and_necromancy.png

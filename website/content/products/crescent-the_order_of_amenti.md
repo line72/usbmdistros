@@ -4,7 +4,7 @@ album: The Order of Amenti
 artist: Crescent
 categories:
 - Vinyl
-date: '2023-08-12T05:59:53'
+date: '2023-09-24T05:49:09'
 draft: false
 images:
 - /images/covers/crescent-the_order_of_amenti.jpg

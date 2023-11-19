@@ -1,10 +1,10 @@
 ---
-actualPrice: $24.00 - 30.00
+actualPrice: $24.00 - 32.97
 album: IX EQUILIBRIUM
 artist: Emperor
 categories:
 - Vinyl
-date: '2022-12-20T06:10:53'
+date: '2023-11-19T16:38:45'
 draft: false
 images:
 - /images/covers/emperor-ix_equilibrium.jpg
@@ -23,3 +23,4 @@ title: Emperor - IX EQUILIBRIUM
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=27252&sort=pd.name&order=ASC) for $30.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29365&sort=pd.name&order=ASC) for $30.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=30157&sort=pd.name&order=ASC) for $30.00
+* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/emperor-ix-equilibrium-black-brown-swirl-lp-half-speed-abbey-road-master) for $32.97 :: Black/Brown Swirl LP -  Half-Speed Abbey Road Master

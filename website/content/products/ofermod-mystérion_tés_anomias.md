@@ -4,7 +4,7 @@ album: "Myst\xE9rion T\xE9s Anomias"
 artist: Ofermod
 categories:
 - Vinyl
-date: '2023-07-27T05:50:29'
+date: '2023-09-27T07:28:39'
 draft: false
 images:
 - "/images/covers/ofermod-myst\xE9rion_t\xE9s_anomias.jpg"
@@ -18,3 +18,4 @@ title: "Ofermod - Myst\xE9rion T\xE9s Anomias"
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=20051&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=24958&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=28444&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=40412&sort=pd.name&order=ASC) for $25.00

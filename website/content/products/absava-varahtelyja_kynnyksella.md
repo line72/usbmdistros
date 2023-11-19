@@ -4,7 +4,7 @@ album: Varahtelyja Kynnyksella
 artist: Absava
 categories:
 - Cassette
-date: '2023-07-27T05:56:07'
+date: '2023-09-24T05:57:18'
 draft: false
 images:
 - /images/covers/absava-varahtelyja_kynnyksella.jpg

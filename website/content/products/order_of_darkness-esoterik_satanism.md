@@ -4,7 +4,7 @@ album: Esoterik Satanism
 artist: Order of Darkness
 categories:
 - Vinyl
-date: '2023-07-27T05:50:32'
+date: '2023-09-24T05:51:23'
 draft: false
 images:
 - /images/covers/order_of_darkness-esoterik_satanism.jpg

@@ -5,7 +5,7 @@ artist: Varde
 categories:
 - Vinyl
 - CD
-date: '2023-07-27T05:55:52'
+date: '2023-09-24T05:57:02'
 draft: false
 images:
 - /images/covers/varde-fedraminne.jpg

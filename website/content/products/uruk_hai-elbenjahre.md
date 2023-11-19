@@ -4,7 +4,7 @@ album: Elbenjahre
 artist: URUK HAI
 categories:
 - CD
-date: '2023-07-27T05:55:48'
+date: '2023-09-24T05:56:57'
 draft: false
 images:
 - /images/covers/uruk_hai-elbenjahre.png

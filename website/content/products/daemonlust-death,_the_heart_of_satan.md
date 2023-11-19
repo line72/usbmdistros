@@ -5,7 +5,7 @@ artist: Daemonlust
 categories:
 - Vinyl
 - CD
-date: '2023-07-27T05:48:25'
+date: '2023-09-24T05:49:12'
 draft: false
 images:
 - /images/covers/daemonlust-death,_the_heart_of_satan.png

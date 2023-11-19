@@ -4,7 +4,7 @@ album: Darkside
 artist: Sacred Sin
 categories:
 - Vinyl
-date: '2023-07-27T05:50:54'
+date: '2023-09-24T05:51:45'
 draft: false
 images:
 - /images/covers/sacred_sin-darkside.jpg

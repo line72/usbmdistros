@@ -4,7 +4,7 @@ album: Satanic Barako
 artist: Maniak
 categories:
 - Vinyl
-date: '2023-07-27T05:52:24'
+date: '2023-09-24T05:53:28'
 draft: false
 images:
 - /images/covers/maniak-satanic_barako.jpg

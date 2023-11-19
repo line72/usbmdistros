@@ -4,7 +4,7 @@ album: "Karhun l\xE4hde / Siniaaltoja ja singulariteetteja"
 artist: Abyssion
 categories:
 - Vinyl
-date: '2023-09-10T05:52:52'
+date: '2023-09-24T05:48:14'
 draft: false
 images:
 - "/images/covers/abyssion-karhun_l\xE4hde_-_siniaaltoja_ja_singulariteetteja.jpg"

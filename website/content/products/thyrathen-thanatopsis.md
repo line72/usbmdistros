@@ -4,7 +4,7 @@ album: Thanatopsis
 artist: Thyrathen
 categories:
 - Vinyl
-date: '2023-07-27T05:51:28'
+date: '2023-09-24T05:52:22'
 draft: false
 images:
 - /images/covers/thyrathen-thanatopsis.png

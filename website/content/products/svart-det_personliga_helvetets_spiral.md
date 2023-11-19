@@ -5,7 +5,7 @@ artist: Svart
 categories:
 - Vinyl
 - CD
-date: '2023-09-18T07:04:21'
+date: '2023-09-24T05:56:43'
 draft: false
 images:
 - /images/covers/svart-det_personliga_helvetets_spiral.jpg

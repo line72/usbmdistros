@@ -5,7 +5,7 @@ artist: Departure Chandelier
 categories:
 - Vinyl
 - CD
-date: '2023-08-23T07:31:53'
+date: '2023-09-24T05:54:32'
 draft: false
 images:
 - /images/covers/departure_chandelier-dripping_papal_blood.jpg

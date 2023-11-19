@@ -1,10 +1,10 @@
 ---
-actualPrice: $29.00
+actualPrice: $36.00
 album: "\u2026un tor\xFCgg bleev blot Sand LP +"
 artist: Friisk
 categories:
 - Vinyl
-date: '2022-08-02T13:18:05'
+date: '2023-11-19T09:03:46'
 draft: false
 images:
 - "/images/covers/friisk-\u2026un_tor\xFCgg_bleev_blot_sand_lp_+.jpg"
@@ -14,4 +14,4 @@ title: "Friisk - \u2026un tor\xFCgg bleev blot Sand LP +"
 ---
 
 ## Vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/friisk-un-torugg-bleev-blot-sand-lp-cd) for $29.00 :: LP + CD
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/friisk-un-torugg-bleev-blot-sand-lp-cd) for $36.00 :: LP + CD

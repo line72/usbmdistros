@@ -4,7 +4,7 @@ album: 'Chapter III: This Road That Stopped the Fire'
 artist: Smother
 categories:
 - Cassette
-date: '2023-07-27T05:57:40'
+date: '2023-09-24T05:58:56'
 draft: false
 images:
 - /images/covers/smother-chapter_iii:_this_road_that_stopped_the_fire.jpg

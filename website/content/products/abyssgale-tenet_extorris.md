@@ -4,7 +4,7 @@ album: Tenet Extorris
 artist: Abyssgale
 categories:
 - Vinyl
-date: '2023-07-27T05:52:01'
+date: '2023-09-24T05:52:59'
 draft: false
 images:
 - /images/covers/abyssgale-tenet_extorris.jpg

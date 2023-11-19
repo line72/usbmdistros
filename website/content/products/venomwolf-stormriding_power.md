@@ -4,7 +4,7 @@ album: Stormriding Power
 artist: Venomwolf
 categories:
 - Vinyl
-date: '2023-09-07T07:39:48'
+date: '2023-09-24T05:52:38'
 draft: false
 images:
 - /images/covers/venomwolf-stormriding_power.jpg

@@ -4,7 +4,7 @@ album: Rest In Morbid Darkness
 artist: Pest
 categories:
 - Vinyl
-date: '2023-07-27T05:50:38'
+date: '2023-09-24T05:51:28'
 draft: false
 images:
 - /images/covers/pest-rest_in_morbid_darkness.jpg

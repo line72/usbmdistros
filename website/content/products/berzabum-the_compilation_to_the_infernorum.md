@@ -4,7 +4,7 @@ album: The Compilation to the Infernorum
 artist: Berzabum
 categories:
 - CD
-date: '2023-07-27T05:53:01'
+date: '2023-10-09T08:10:12'
 draft: false
 images:
 - /images/covers/berzabum-the_compilation_to_the_infernorum.jpg
@@ -15,3 +15,4 @@ title: Berzabum - The Compilation to the Infernorum
 
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=17287&sort=pd.name&order=ASC) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=41561&sort=pd.name&order=ASC) for $10.00

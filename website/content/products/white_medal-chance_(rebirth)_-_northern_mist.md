@@ -4,7 +4,7 @@ album: Chance (Rebirth) / Northern Mist
 artist: White Medal
 categories:
 - Vinyl
-date: '2023-08-13T07:17:27'
+date: '2023-09-24T05:53:51'
 draft: false
 images:
 - /images/covers/white_medal-chance_(rebirth)_-_northern_mist.jpg

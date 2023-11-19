@@ -4,7 +4,7 @@ album: XX Years Of Consecrated Black Metal ~ 1992-2012
 artist: Hiborym
 categories:
 - CD
-date: '2023-07-27T05:54:04'
+date: '2023-09-24T05:55:12'
 draft: false
 images:
 - /images/covers/hiborym-xx_years_of_consecrated_black_metal_~_1992-2012.jpg

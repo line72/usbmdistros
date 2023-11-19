@@ -4,7 +4,7 @@ album: Behold Total Rejection
 artist: Revenge
 categories:
 - Vinyl
-date: '2023-09-09T07:05:24'
+date: '2023-09-24T05:51:39'
 draft: false
 images:
 - /images/covers/revenge-behold_total_rejection.jpg

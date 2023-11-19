@@ -4,7 +4,7 @@ album: Demo 1994
 artist: Incitatus
 categories:
 - Vinyl
-date: '2023-07-27T05:49:28'
+date: '2023-09-24T05:50:16'
 draft: false
 images:
 - /images/covers/incitatus-demo_1994.jpg

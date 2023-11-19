@@ -5,7 +5,7 @@ artist: Virulent Specter
 categories:
 - Cassette
 - CD
-date: '2023-07-27T05:57:57'
+date: '2023-09-24T05:59:13'
 draft: false
 images:
 - /images/covers/virulent_specter-the_black_temple_of_omniscient_manipulation.jpg

@@ -4,7 +4,7 @@ album: As the Entity Did Rise
 artist: Allegiance
 categories:
 - Cassette
-date: '2023-07-27T05:56:10'
+date: '2023-09-24T05:57:21'
 draft: false
 images:
 - /images/covers/allegiance-as_the_entity_did_rise.jpg

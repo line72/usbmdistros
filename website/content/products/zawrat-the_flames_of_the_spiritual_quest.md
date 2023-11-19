@@ -4,7 +4,7 @@ album: The Flames of the Spiritual Quest
 artist: Zawrat
 categories:
 - Cassette
-date: '2023-07-27T05:58:02'
+date: '2023-09-24T05:59:18'
 draft: false
 images:
 - /images/covers/zawrat-the_flames_of_the_spiritual_quest.png

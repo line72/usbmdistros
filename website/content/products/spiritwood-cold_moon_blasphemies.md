@@ -4,7 +4,7 @@ album: Cold Moon Blasphemies
 artist: Spiritwood
 categories:
 - CD
-date: '2023-07-27T05:55:31'
+date: '2023-09-24T05:56:40'
 draft: false
 images:
 - /images/covers/spiritwood-cold_moon_blasphemies.png

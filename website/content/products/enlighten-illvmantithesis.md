@@ -4,7 +4,7 @@ album: Illvmantithesis
 artist: Enlighten
 categories:
 - Vinyl
-date: '2023-07-27T05:52:14'
+date: '2023-09-24T05:53:15'
 draft: false
 images:
 - /images/covers/enlighten-illvmantithesis.jpg

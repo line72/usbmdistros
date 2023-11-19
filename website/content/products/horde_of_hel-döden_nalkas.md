@@ -5,7 +5,7 @@ artist: Horde Of Hel
 categories:
 - Vinyl
 - CD
-date: '2023-07-27T05:54:05'
+date: '2023-09-24T05:55:13'
 draft: false
 images:
 - "/images/covers/horde_of_hel-d\xF6den_nalkas.jpg"

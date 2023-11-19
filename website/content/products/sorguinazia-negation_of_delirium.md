@@ -5,7 +5,7 @@ artist: Sorguinazia
 categories:
 - Vinyl
 - CD
-date: '2023-07-27T05:55:29'
+date: '2023-09-24T05:56:38'
 draft: false
 images:
 - /images/covers/sorguinazia-negation_of_delirium.jpg

@@ -5,7 +5,7 @@ artist: Fosso
 categories:
 - Cassette
 - CD
-date: '2023-09-15T10:38:37'
+date: '2023-09-24T05:54:53'
 draft: false
 images:
 - /images/covers/fosso-solo_amargo.jpg

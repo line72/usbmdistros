@@ -4,7 +4,7 @@ album: Black Candle Negativity
 artist: Apparitional Glare
 categories:
 - Vinyl
-date: '2023-07-27T05:47:37'
+date: '2023-09-24T05:48:25'
 draft: false
 images:
 - /images/covers/apparitional_glare-black_candle_negativity.jpg

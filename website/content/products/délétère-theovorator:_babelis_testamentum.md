@@ -5,7 +5,7 @@ artist: "D\xE9l\xE9t\xE8re"
 categories:
 - Vinyl
 - CD
-date: '2023-07-27T05:48:34'
+date: '2023-09-24T05:49:21'
 draft: false
 images:
 - "/images/covers/d\xE9l\xE9t\xE8re-theovorator:_babelis_testamentum.jpg"

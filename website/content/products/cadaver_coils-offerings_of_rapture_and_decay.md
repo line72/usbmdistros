@@ -5,7 +5,7 @@ artist: Cadaver Coils
 categories:
 - Vinyl
 - CD
-date: '2023-09-04T05:56:07'
+date: '2023-09-24T05:48:57'
 draft: false
 images:
 - /images/covers/cadaver_coils-offerings_of_rapture_and_decay.jpg

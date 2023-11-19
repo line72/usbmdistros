@@ -1,10 +1,10 @@
 ---
-actualPrice: $25.00
+actualPrice: $25.00 - 27.00
 album: Order
 artist: Decoherence
 categories:
 - Vinyl
-date: '2023-08-24T17:04:01'
+date: '2023-11-19T09:07:17'
 draft: false
 images:
 - /images/covers/decoherence-order.png
@@ -15,3 +15,4 @@ title: Decoherence - Order
 
 ## Vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/decoherence-order-lp) for $25.00 :: Black 2023 press vinyl
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/decoherence-order-lp-1) for $27.00 :: Black 2023 press vinyl

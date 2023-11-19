@@ -5,7 +5,7 @@ artist: Lament in Winter's Night
 categories:
 - Vinyl
 - CD
-date: '2023-07-27T05:49:41'
+date: '2023-09-24T05:50:31'
 draft: false
 images:
 - /images/covers/lament_in_winter's_night-at_the_gates_of_the_eternal_storm.jpg

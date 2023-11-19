@@ -4,7 +4,7 @@ album: Spiritual Isolation
 artist: Permafrost
 categories:
 - Vinyl
-date: '2023-07-27T05:50:37'
+date: '2023-09-24T05:51:27'
 draft: false
 images:
 - /images/covers/permafrost-spiritual_isolation.jpg

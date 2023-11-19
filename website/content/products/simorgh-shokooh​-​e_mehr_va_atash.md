@@ -5,7 +5,7 @@ artist: Simorgh
 categories:
 - Vinyl
 - CD
-date: '2023-08-25T09:07:45'
+date: '2023-09-24T05:56:33'
 draft: false
 images:
 - "/images/covers/simorgh-shokooh\u200B-\u200Be_mehr_va_atash.jpg"

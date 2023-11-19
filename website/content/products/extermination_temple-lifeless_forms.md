@@ -4,7 +4,7 @@ album: Lifeless Forms
 artist: Extermination Temple
 categories:
 - Vinyl
-date: '2023-07-27T05:52:15'
+date: '2023-09-24T05:53:17'
 draft: false
 images:
 - /images/covers/extermination_temple-lifeless_forms.jpg

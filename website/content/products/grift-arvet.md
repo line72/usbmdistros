@@ -4,7 +4,7 @@ album: Arvet
 artist: Grift
 categories:
 - Vinyl
-date: '2023-07-27T05:49:09'
+date: '2023-09-24T05:49:57'
 draft: false
 images:
 - /images/covers/grift-arvet.jpg

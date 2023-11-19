@@ -5,7 +5,7 @@ album: "Malicious Call / X\u0440\u0430\u043C \u0414\u0440\u0435\u0432\u043D\u043
 artist: Sanctophoby
 categories:
 - Vinyl
-date: '2023-08-14T07:09:07'
+date: '2023-09-24T05:53:40'
 draft: false
 images:
 - "/images/covers/sanctophoby-malicious_call_-_x\u0440\u0430\u043C_\u0434\u0440\u0435\

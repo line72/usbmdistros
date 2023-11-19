@@ -4,7 +4,7 @@ album: Waqan II
 artist: Ifernach
 categories:
 - Cassette
-date: '2023-09-16T05:14:26'
+date: '2023-10-14T09:49:15'
 draft: false
 images:
 - /images/covers/ifernach-waqan_ii.jpg
@@ -16,3 +16,4 @@ title: Ifernach - Waqan II
 ## Cassette
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=37182&sort=pd.name&order=ASC) for $15.00
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/ifernach-waqan-ii-tape) for $13.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=41852&sort=pd.name&order=ASC) for $15.00

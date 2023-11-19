@@ -4,7 +4,7 @@ album: Necrosodomic Abyss
 artist: Mord
 categories:
 - Vinyl
-date: '2023-09-10T06:44:01'
+date: '2023-09-24T05:50:58'
 draft: false
 images:
 - /images/covers/mord-necrosodomic_abyss.jpg

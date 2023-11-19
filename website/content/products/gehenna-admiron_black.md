@@ -5,7 +5,7 @@ artist: Gehenna
 categories:
 - Vinyl
 - Cassette
-date: '2023-07-27T05:49:00'
+date: '2023-11-10T11:52:25'
 draft: false
 images:
 - /images/covers/gehenna-admiron_black.jpg
@@ -20,5 +20,7 @@ title: Gehenna - Admiron Black
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=33688&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=36582&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=37408&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=37626&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=43159&sort=pd.name&order=ASC) for $25.00
 ## Cassette
 * Purchase from [CW Productions](https://shop.cwproductions.net/products/gehenna-admiron-black-tape) for $10.00

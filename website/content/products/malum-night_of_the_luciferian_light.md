@@ -5,7 +5,7 @@ artist: Malum
 categories:
 - Vinyl
 - CD
-date: '2023-07-27T05:54:31'
+date: '2023-09-24T05:55:39'
 draft: false
 images:
 - /images/covers/malum-night_of_the_luciferian_light.png

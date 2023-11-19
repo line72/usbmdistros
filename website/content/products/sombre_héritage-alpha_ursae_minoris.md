@@ -4,7 +4,7 @@ album: Alpha Ursae Minoris
 artist: "Sombre H\xE9ritage"
 categories:
 - CD
-date: '2023-07-27T05:55:29'
+date: '2023-09-24T05:56:37'
 draft: false
 images:
 - "/images/covers/sombre_h\xE9ritage-alpha_ursae_minoris.png"

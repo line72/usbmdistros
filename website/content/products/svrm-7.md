@@ -4,7 +4,7 @@ album: '7'
 artist: SVRM
 categories:
 - Cassette
-date: '2023-07-27T05:57:44'
+date: '2023-09-24T05:58:59'
 draft: false
 images:
 - /images/covers/svrm-7.png

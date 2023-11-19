@@ -5,7 +5,7 @@ artist: "M\xE4leficentt"
 categories:
 - Vinyl
 - CD
-date: '2023-07-27T05:49:50'
+date: '2023-09-24T05:50:40'
 draft: false
 images:
 - "/images/covers/m\xE4leficentt-night_of_the_crimson_stars.jpg"

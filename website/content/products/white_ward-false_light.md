@@ -6,7 +6,7 @@ categories:
 - Vinyl
 - Cassette
 - CD
-date: '2023-03-31T05:02:54'
+date: '2023-11-19T16:38:52'
 draft: false
 images:
 - /images/covers/white_ward-false_light.jpg
@@ -21,6 +21,7 @@ title: White Ward - False Light
 * Purchase from [Debemur Morti](https://debemurmorti.aisamerch.com/item/112689) for $49.99 :: DMP exclusive
 * Purchase from [Debemur Morti](https://debemurmorti.aisamerch.com/item/112688) for $34.99 :: splatter
 * Purchase from [Debemur Morti](https://debemurmorti.aisamerch.com/item/134903) for $34.99
+* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/white-ward-false-light-gatefold-2x12-colored-red-lp) for $37.97 :: Gatefold 2x12" Colored (RED) LP
 ## Cassette
 * Purchase from [Debemur Morti](https://debemurmorti.aisamerch.com/item/112690) for $13.99
 ## CD

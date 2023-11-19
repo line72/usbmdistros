@@ -4,7 +4,7 @@ album: Fenriz + Walpurgisnatt
 artist: Helheim
 categories:
 - Vinyl
-date: '2023-09-12T06:31:48'
+date: '2023-09-24T05:50:04'
 draft: false
 images:
 - /images/covers/helheim-fenriz_+_walpurgisnatt.jpg

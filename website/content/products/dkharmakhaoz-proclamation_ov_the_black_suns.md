@@ -5,7 +5,7 @@ artist: Dkharmakhaoz
 categories:
 - Vinyl
 - CD
-date: '2023-07-27T05:53:29'
+date: '2023-09-24T05:49:27'
 draft: false
 images:
 - /images/covers/dkharmakhaoz-proclamation_ov_the_black_suns.jpg

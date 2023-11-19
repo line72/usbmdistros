@@ -1,10 +1,11 @@
 ---
-actualPrice: $28.00
+actualPrice: $10.00 - 28.00
 album: Terror Propaganda
 artist: Craft
 categories:
 - Vinyl
-date: '2023-07-27T05:48:22'
+- CD
+date: '2023-10-05T08:17:31'
 draft: false
 images:
 - /images/covers/craft-terror_propaganda.jpg
@@ -18,3 +19,6 @@ title: Craft - Terror Propaganda
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=35359&sort=pd.name&order=ASC) for $28.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=35960&sort=pd.name&order=ASC) for $28.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=36235&sort=pd.name&order=ASC) for $28.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=41013&sort=pd.name&order=ASC) for $28.00
+## CD
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=40999&sort=pd.name&order=ASC) for $10.00

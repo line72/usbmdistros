@@ -4,7 +4,7 @@ album: Flesh Inferno
 artist: Blackwinds
 categories:
 - CD
-date: '2023-07-27T05:53:04'
+date: '2023-09-24T05:54:14'
 draft: false
 images:
 - /images/covers/blackwinds-flesh_inferno.jpg

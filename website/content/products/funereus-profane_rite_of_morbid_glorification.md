@@ -4,7 +4,7 @@ album: Profane Rite Of Morbid Glorification
 artist: Funereus
 categories:
 - Cassette
-date: '2023-07-27T05:56:43'
+date: '2023-09-24T05:58:07'
 draft: false
 images:
 - /images/covers/funereus-profane_rite_of_morbid_glorification.png

@@ -4,7 +4,7 @@ album: Existencialista
 artist: Tujarot
 categories:
 - Vinyl
-date: '2023-08-27T07:02:06'
+date: '2023-09-24T05:52:27'
 draft: false
 images:
 - /images/covers/tujarot-existencialista.jpg

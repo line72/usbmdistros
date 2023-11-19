@@ -1,12 +1,12 @@
 ---
-actualPrice: $10.00 - 27.00
+actualPrice: $10.00 - 30.00
 album: Deathcrush
 artist: Mayhem
 categories:
 - Vinyl
 - Cassette
 - CD
-date: '2023-07-27T05:49:56'
+date: '2023-11-18T12:44:09'
 draft: false
 images:
 - /images/covers/mayhem-deathcrush.jpg
@@ -50,6 +50,7 @@ title: Mayhem - Deathcrush
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=35976&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=36502&sort=pd.name&order=ASC) for $27.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=37546&sort=pd.name&order=ASC) for $27.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=43545&sort=pd.name&order=ASC) for $30.00
 ## Cassette
 * Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/mayhem-deathcrush-cassette/) for $11.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=17549&sort=pd.name&order=ASC) for $12.00

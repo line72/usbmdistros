@@ -4,7 +4,7 @@ album: Sudamerican Worship To Sathanas
 artist: Nihil Domination
 categories:
 - CD
-date: '2023-07-27T05:54:52'
+date: '2023-09-24T05:56:01'
 draft: false
 images:
 - /images/covers/nihil_domination-sudamerican_worship_to_sathanas.jpg

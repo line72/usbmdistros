@@ -5,7 +5,7 @@ artist: Siculicidium
 categories:
 - Vinyl
 - CD
-date: '2023-07-27T05:51:07'
+date: '2023-09-24T05:51:59'
 draft: false
 images:
 - /images/covers/siculicidium-land_beyond_the_forest.png

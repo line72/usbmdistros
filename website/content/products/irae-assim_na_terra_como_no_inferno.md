@@ -5,7 +5,7 @@ artist: Irae
 categories:
 - Vinyl
 - CD
-date: '2023-07-27T05:49:31'
+date: '2023-09-24T05:50:20'
 draft: false
 images:
 - /images/covers/irae-assim_na_terra_como_no_inferno.jpg

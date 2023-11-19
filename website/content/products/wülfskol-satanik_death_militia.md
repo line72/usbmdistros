@@ -5,7 +5,7 @@ artist: "W\xFClfskol"
 categories:
 - Cassette
 - CD
-date: '2023-07-27T05:56:03'
+date: '2023-09-24T05:57:14'
 draft: false
 images:
 - "/images/covers/w\xFClfskol-satanik_death_militia.jpg"

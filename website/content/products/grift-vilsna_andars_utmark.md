@@ -4,7 +4,7 @@ album: Vilsna Andars Utmark
 artist: Grift
 categories:
 - Vinyl
-date: '2023-07-27T05:52:18'
+date: '2023-09-24T05:53:20'
 draft: false
 images:
 - /images/covers/grift-vilsna_andars_utmark.jpg

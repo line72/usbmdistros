@@ -4,7 +4,7 @@ album: Cascades of Crimson Cruor
 artist: Veriluola
 categories:
 - Vinyl
-date: '2023-07-27T05:51:42'
+date: '2023-09-24T05:52:39'
 draft: false
 images:
 - /images/covers/veriluola-cascades_of_crimson_cruor.jpg

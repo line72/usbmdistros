@@ -4,7 +4,7 @@ album: March Of The Golgothan Hordes
 artist: Carbon
 categories:
 - Vinyl
-date: '2023-07-27T05:52:07'
+date: '2023-09-24T05:53:08'
 draft: false
 images:
 - /images/covers/carbon-march_of_the_golgothan_hordes.jpg

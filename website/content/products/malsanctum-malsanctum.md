@@ -4,7 +4,7 @@ album: Malsanctum
 artist: Malsanctum
 categories:
 - Vinyl
-date: '2023-09-10T06:38:54'
+date: '2023-09-24T05:50:42'
 draft: false
 images:
 - /images/covers/malsanctum-malsanctum.jpg

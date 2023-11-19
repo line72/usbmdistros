@@ -4,7 +4,7 @@ album: Um cruel destino para tudo que respira
 artist: Vulturine
 categories:
 - Cassette
-date: '2023-07-27T05:57:58'
+date: '2023-09-24T05:59:14'
 draft: false
 images:
 - /images/covers/vulturine-um_cruel_destino_para_tudo_que_respira.png

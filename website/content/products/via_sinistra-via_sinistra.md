@@ -4,7 +4,7 @@ album: Via Sinistra
 artist: Via Sinistra
 categories:
 - Vinyl
-date: '2023-07-27T05:51:43'
+date: '2023-09-24T05:52:40'
 draft: false
 images:
 - /images/covers/via_sinistra-via_sinistra.jpg

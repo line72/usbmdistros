@@ -4,7 +4,7 @@ album: Serenades of the Damned - Demo 1994
 artist: Tenebrae
 categories:
 - Vinyl
-date: '2023-07-27T05:51:19'
+date: '2023-09-24T05:52:13'
 draft: false
 images:
 - /images/covers/tenebrae-serenades_of_the_damned_-_demo_1994.jpg

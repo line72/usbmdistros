@@ -1,11 +1,11 @@
 ---
-actualPrice: $11.00 - 25.00
+actualPrice: $11.00 - 27.99
 album: Suomi Finland Perkele
 artist: Impaled Nazarene
 categories:
 - Vinyl
 - Cassette
-date: '2023-09-04T06:17:42'
+date: '2023-11-19T16:32:00'
 draft: false
 images:
 - /images/covers/impaled_nazarene-suomi_finland_perkele.jpg
@@ -27,5 +27,6 @@ title: Impaled Nazarene - Suomi Finland Perkele
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=36542&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=37290&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=39326&sort=pd.name&order=ASC) for $25.00
+* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/impaled-nazarene-suomi-finland-perkele-limited-splatter-vinyl-lp) for $27.99 :: Limited Splatter Vinyl LP
 ## Cassette
 * Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/36318445-impaled-nazarene-suomi-finland-perkele) for $11.00

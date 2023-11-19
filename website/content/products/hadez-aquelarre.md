@@ -6,7 +6,7 @@ categories:
 - Vinyl
 - Cassette
 - CD
-date: '2023-07-27T05:49:12'
+date: '2023-09-24T05:49:59'
 draft: false
 images:
 - /images/covers/hadez-aquelarre.jpg

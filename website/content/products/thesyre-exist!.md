@@ -4,7 +4,7 @@ album: Exist!
 artist: TheSyre
 categories:
 - Vinyl
-date: '2023-09-07T07:24:16'
+date: '2023-09-24T05:52:20'
 draft: false
 images:
 - /images/covers/thesyre-exist!.jpg

@@ -4,7 +4,7 @@ album: "Hacia El V\xF3rtice"
 artist: Invehertex
 categories:
 - CD
-date: '2023-07-27T05:54:14'
+date: '2023-09-24T05:55:22'
 draft: false
 images:
 - "/images/covers/invehertex-hacia_el_v\xF3rtice.jpg"

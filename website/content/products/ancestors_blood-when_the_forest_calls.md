@@ -4,7 +4,7 @@ album: When the Forest Calls
 artist: Ancestors Blood
 categories:
 - CD
-date: '2023-07-27T05:52:52'
+date: '2023-09-24T05:54:00'
 draft: false
 images:
 - /images/covers/ancestors_blood-when_the_forest_calls.png

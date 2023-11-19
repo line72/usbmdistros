@@ -4,7 +4,7 @@ album: Twin Suns & Wolves' Tongues
 artist: Vahrzaw
 categories:
 - CD
-date: '2023-07-27T05:55:50'
+date: '2023-09-24T05:57:01'
 draft: false
 images:
 - /images/covers/vahrzaw-twin_suns_&_wolves'_tongues.png

@@ -4,7 +4,7 @@ album: Sempiternal Passage Through Realms of Suffering...
 artist: Ebony Pendant
 categories:
 - Vinyl
-date: '2023-07-27T05:48:44'
+date: '2023-11-18T11:23:20'
 draft: false
 images:
 - /images/covers/ebony_pendant-sempiternal_passage_through_realms_of_suffering....jpg
@@ -18,3 +18,8 @@ title: Ebony Pendant - Sempiternal Passage Through Realms of Suffering...
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=30528&sort=pd.name&order=ASC) for $27.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=31898&sort=pd.name&order=ASC) for $27.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=35090&sort=pd.name&order=ASC) for $27.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=40248&sort=pd.name&order=ASC) for $27.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=40519&sort=pd.name&order=ASC) for $27.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=41168&sort=pd.name&order=ASC) for $27.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=42642&sort=pd.name&order=ASC) for $27.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=43556&sort=pd.name&order=ASC) for $27.00

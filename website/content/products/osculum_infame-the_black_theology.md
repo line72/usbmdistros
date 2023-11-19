@@ -5,7 +5,7 @@ artist: Osculum Infame
 categories:
 - Cassette
 - CD
-date: '2023-07-27T05:57:24'
+date: '2023-09-24T05:58:39'
 draft: false
 images:
 - /images/covers/osculum_infame-the_black_theology.jpg

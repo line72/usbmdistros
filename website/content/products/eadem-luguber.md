@@ -5,7 +5,7 @@ artist: Eadem
 categories:
 - Vinyl
 - CD
-date: '2023-09-10T06:14:33'
+date: '2023-09-24T05:54:41'
 draft: false
 images:
 - /images/covers/eadem-luguber.jpg

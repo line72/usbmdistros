@@ -4,7 +4,7 @@ album: Lunar Chronicles Occult
 artist: Moonblood
 categories:
 - Cassette
-date: '2023-08-17T08:56:10'
+date: '2023-09-24T05:58:29'
 draft: false
 images:
 - /images/covers/moonblood-lunar_chronicles_occult.jpg

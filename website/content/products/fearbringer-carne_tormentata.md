@@ -4,7 +4,7 @@ album: Carne Tormentata
 artist: Fearbringer
 categories:
 - Cassette
-date: '2023-07-27T05:56:40'
+date: '2023-09-24T05:58:04'
 draft: false
 images:
 - /images/covers/fearbringer-carne_tormentata.jpg

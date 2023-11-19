@@ -6,7 +6,7 @@ categories:
 - Vinyl
 - Cassette
 - CD
-date: '2023-07-27T05:56:43'
+date: '2023-10-12T06:26:35'
 draft: false
 images:
 - /images/covers/funeral_winds-screaming_for_resurrection.jpg
@@ -22,6 +22,8 @@ title: Funeral Winds - Screaming for Resurrection
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=27504&sort=pd.name&order=ASC) for $19.50
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29785&sort=pd.name&order=ASC) for $30.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29786&sort=pd.name&order=ASC) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=41755&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=41756&sort=pd.name&order=ASC) for $25.00
 ## Cassette
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=16245&sort=pd.name&order=ASC) for $9.00
 * Purchase from [CW Productions](https://shop.cwproductions.net/products/funeral-winds-screaming-for-resurrection-tape) for $5.00

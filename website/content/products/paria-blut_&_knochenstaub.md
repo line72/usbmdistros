@@ -4,7 +4,7 @@ album: Blut & Knochenstaub
 artist: Paria
 categories:
 - Vinyl
-date: '2023-07-27T05:50:36'
+date: '2023-09-24T05:51:26'
 draft: false
 images:
 - /images/covers/paria-blut_&_knochenstaub.jpg

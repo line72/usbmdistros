@@ -4,7 +4,7 @@ album: From Peruvian Hell
 artist: Anal Vomit
 categories:
 - Cassette
-date: '2023-07-27T05:56:11'
+date: '2023-09-24T05:57:22'
 draft: false
 images:
 - /images/covers/anal_vomit-from_peruvian_hell.jpg

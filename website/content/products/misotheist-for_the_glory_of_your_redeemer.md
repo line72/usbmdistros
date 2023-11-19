@@ -5,7 +5,7 @@ artist: Misotheist
 categories:
 - Vinyl
 - CD
-date: '2023-07-27T05:50:02'
+date: '2023-09-24T05:50:54'
 draft: false
 images:
 - /images/covers/misotheist-for_the_glory_of_your_redeemer.jpg

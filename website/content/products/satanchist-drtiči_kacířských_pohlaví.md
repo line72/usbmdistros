@@ -5,7 +5,7 @@ artist: Satanchist
 categories:
 - Vinyl
 - Cassette
-date: '2023-07-27T05:50:58'
+date: '2023-09-24T05:51:50'
 draft: false
 images:
 - "/images/covers/satanchist-drti\u010Di_kac\xED\u0159sk\xFDch_pohlav\xED.png"

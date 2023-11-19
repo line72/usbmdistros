@@ -4,7 +4,7 @@ album: Miseria de Profundis
 artist: Meyhnach
 categories:
 - Vinyl
-date: '2023-09-20T05:00:50'
+date: '2023-09-24T05:50:52'
 draft: false
 images:
 - /images/covers/meyhnach-miseria_de_profundis.jpg

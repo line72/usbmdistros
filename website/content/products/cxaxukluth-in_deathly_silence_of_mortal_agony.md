@@ -4,7 +4,7 @@ album: In Deathly Silence of Mortal Agony
 artist: Cxaxukluth
 categories:
 - CD
-date: '2023-08-25T08:11:00'
+date: '2023-09-24T05:54:27'
 draft: false
 images:
 - /images/covers/cxaxukluth-in_deathly_silence_of_mortal_agony.jpg

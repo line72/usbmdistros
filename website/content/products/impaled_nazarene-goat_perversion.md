@@ -4,7 +4,7 @@ album: Goat Perversion
 artist: Impaled Nazarene
 categories:
 - Vinyl
-date: '2023-08-24T06:59:09'
+date: '2023-09-24T05:53:22'
 draft: false
 images:
 - /images/covers/impaled_nazarene-goat_perversion.jpg

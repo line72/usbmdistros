@@ -5,7 +5,7 @@ artist: "\xC4nterbila"
 categories:
 - Vinyl
 - CD
-date: '2023-07-27T05:52:52'
+date: '2023-09-24T05:54:01'
 draft: false
 images:
 - "/images/covers/\xE4nterbila-\xE4nterbila.jpg"

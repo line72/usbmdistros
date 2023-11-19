@@ -5,7 +5,7 @@ artist: Werewolf Bloodorder
 categories:
 - Vinyl
 - CD
-date: '2023-09-09T07:29:30'
+date: '2023-09-24T05:52:48'
 draft: false
 images:
 - /images/covers/werewolf_bloodorder-rites_of_murder_and_sacrifice.jpg

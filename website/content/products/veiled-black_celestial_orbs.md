@@ -4,7 +4,7 @@ album: Black Celestial Orbs
 artist: Veiled
 categories:
 - Vinyl
-date: '2023-08-27T07:03:47'
+date: '2023-09-24T05:52:36'
 draft: false
 images:
 - /images/covers/veiled-black_celestial_orbs.jpg

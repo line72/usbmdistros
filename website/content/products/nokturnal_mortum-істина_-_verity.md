@@ -4,7 +4,7 @@ album: "\u0406\u0441\u0442\u0438\u043D\u0430 / Verity"
 artist: Nokturnal Mortum
 categories:
 - Vinyl
-date: '2023-07-27T05:50:25'
+date: '2023-09-24T05:51:16'
 draft: false
 images:
 - "/images/covers/nokturnal_mortum-\u0456\u0441\u0442\u0438\u043D\u0430_-_verity.jpg"

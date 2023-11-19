@@ -4,7 +4,7 @@ album: Haphazard Ethos
 artist: Beyond Death's Throne
 categories:
 - Vinyl
-date: '2023-07-27T05:47:56'
+date: '2023-09-24T05:48:41'
 draft: false
 images:
 - /images/covers/beyond_death's_throne-haphazard_ethos.jpg

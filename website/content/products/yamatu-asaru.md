@@ -5,7 +5,7 @@ artist: Yamatu
 categories:
 - Vinyl
 - CD
-date: '2023-07-27T05:56:05'
+date: '2023-09-24T05:57:16'
 draft: false
 images:
 - /images/covers/yamatu-asaru.jpg

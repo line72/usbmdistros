@@ -4,7 +4,7 @@ album: One Touch is Enough
 artist: Black Fog
 categories:
 - Vinyl
-date: '2023-09-18T05:55:50'
+date: '2023-09-24T05:48:43'
 draft: false
 images:
 - /images/covers/black_fog-one_touch_is_enough.jpg

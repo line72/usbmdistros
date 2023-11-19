@@ -4,7 +4,7 @@ album: Apollyon
 artist: Thou Art Lord
 categories:
 - Vinyl
-date: '2023-07-27T05:51:27'
+date: '2023-09-24T05:52:21'
 draft: false
 images:
 - /images/covers/thou_art_lord-apollyon.jpg

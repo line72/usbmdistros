@@ -4,7 +4,7 @@ album: Total Soul Rape
 artist: Craft
 categories:
 - Vinyl
-date: '2023-08-24T17:04:16'
+date: '2023-10-05T06:10:14'
 draft: false
 images:
 - /images/covers/craft-total_soul_rape.jpg
@@ -22,3 +22,4 @@ title: Craft - Total Soul Rape
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=35961&sort=pd.name&order=ASC) for $28.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=36236&sort=pd.name&order=ASC) for $28.00
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/used-craft-total-soul-rape-lp) for $20.00 :: Black 2020 press vinyl
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=41014&sort=pd.name&order=ASC) for $28.00

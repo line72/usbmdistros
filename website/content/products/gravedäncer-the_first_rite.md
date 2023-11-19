@@ -4,7 +4,7 @@ album: The First Rite
 artist: "Graved\xE4ncer"
 categories:
 - CD
-date: '2023-07-27T05:53:52'
+date: '2023-09-24T05:55:00'
 draft: false
 images:
 - "/images/covers/graved\xE4ncer-the_first_rite.jpg"

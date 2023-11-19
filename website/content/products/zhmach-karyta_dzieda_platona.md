@@ -4,7 +4,7 @@ album: Karyta Dzieda Platona
 artist: Zhmach
 categories:
 - Vinyl
-date: '2023-09-12T08:15:34'
+date: '2023-09-24T05:53:52'
 draft: false
 images:
 - /images/covers/zhmach-karyta_dzieda_platona.jpg

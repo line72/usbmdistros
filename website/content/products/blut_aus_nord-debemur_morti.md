@@ -4,7 +4,7 @@ album: Debemur MoRTi
 artist: Blut Aus Nord
 categories:
 - Vinyl
-date: '2023-08-23T07:01:14'
+date: '2023-09-24T05:53:06'
 draft: false
 images:
 - /images/covers/blut_aus_nord-debemur_morti.jpg

@@ -4,7 +4,7 @@ album: Perverting the Masses
 artist: Perversifier
 categories:
 - Vinyl
-date: '2023-09-10T06:52:15'
+date: '2023-09-24T05:51:28'
 draft: false
 images:
 - /images/covers/perversifier-perverting_the_masses.jpg

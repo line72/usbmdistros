@@ -4,7 +4,7 @@ album: Ferro Ignique
 artist: Leraje
 categories:
 - Vinyl
-date: '2023-07-27T05:52:23'
+date: '2023-09-24T05:53:26'
 draft: false
 images:
 - /images/covers/leraje-ferro_ignique.jpg

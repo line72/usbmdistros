@@ -5,7 +5,7 @@ artist: Hate Manifesto
 categories:
 - Vinyl
 - CD
-date: '2023-07-27T05:53:58'
+date: '2023-09-24T05:55:05'
 draft: false
 images:
 - /images/covers/hate_manifesto-to_those_who_glorified_death.jpg

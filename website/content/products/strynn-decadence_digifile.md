@@ -4,7 +4,7 @@ album: Decadence Digifile
 artist: Strynn
 categories:
 - CD
-date: '2023-07-27T05:55:33'
+date: '2023-09-24T05:56:42'
 draft: false
 images:
 - /images/covers/strynn-decadence_digifile.jpg

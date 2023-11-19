@@ -4,7 +4,7 @@ album: Beatus Methodivo
 artist: Sentier Des Morts
 categories:
 - Cassette
-date: '2023-07-27T05:57:37'
+date: '2023-09-24T05:58:52'
 draft: false
 images:
 - /images/covers/sentier_des_morts-beatus_methodivo.jpg

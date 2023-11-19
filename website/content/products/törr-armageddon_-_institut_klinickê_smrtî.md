@@ -4,7 +4,7 @@ album: "Armageddon / Institut Klinick\xEA Smrt\xEE"
 artist: "T\xF6rr"
 categories:
 - CD
-date: '2023-09-08T08:31:19'
+date: '2023-09-24T05:56:52'
 draft: false
 images:
 - "/images/covers/t\xF6rr-armageddon_-_institut_klinick\xEA_smrt\xEE.jpg"

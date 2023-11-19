@@ -4,7 +4,7 @@ album: Through The Flesh To The Eternal Dream
 artist: Insanis
 categories:
 - Cassette
-date: '2023-07-27T05:57:02'
+date: '2023-09-24T05:58:17'
 draft: false
 images:
 - /images/covers/insanis-through_the_flesh_to_the_eternal_dream.png

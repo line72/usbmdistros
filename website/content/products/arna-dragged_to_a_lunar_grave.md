@@ -5,7 +5,7 @@ artist: Arna
 categories:
 - Vinyl
 - CD
-date: '2023-07-27T05:47:39'
+date: '2023-10-08T05:54:13'
 draft: false
 images:
 - /images/covers/arna-dragged_to_a_lunar_grave.jpg
@@ -19,5 +19,6 @@ title: Arna - Dragged to a Lunar Grave
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/arna-dragged-to-a-lunar-grave-12-lp) for $26.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=23745&sort=pd.name&order=ASC) for $25.00
 * Purchase from [Sto'Vo'Kor Records](https://stovokor-records.com/products/arna-dragged-to-a-lunar-grave) for $24.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=41383&sort=pd.name&order=ASC) for $25.00
 ## CD
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/arna-dragged-to-a-lunar-grave-cd) for $14.00

@@ -4,7 +4,7 @@ album: Larmes de Heros
 artist: Sortilege
 categories:
 - CD
-date: '2023-09-20T08:52:51'
+date: '2023-09-24T05:56:38'
 draft: false
 images:
 - /images/covers/sortilege-larmes_de_heros.jpg

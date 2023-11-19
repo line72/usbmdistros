@@ -4,7 +4,7 @@ album: Live in Rotterdam May 3, 1997
 artist: Svartsyn
 categories:
 - Cassette
-date: '2023-07-27T05:57:44'
+date: '2023-10-31T09:46:13'
 draft: false
 images:
 - /images/covers/svartsyn-live_in_rotterdam_may_3,_1997.jpg
@@ -18,3 +18,4 @@ title: Svartsyn - Live in Rotterdam May 3, 1997
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=26391&sort=pd.name&order=ASC) for $15.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=28307&sort=pd.name&order=ASC) for $15.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=29246&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=42804&sort=pd.name&order=ASC) for $15.00

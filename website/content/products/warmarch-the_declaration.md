@@ -4,7 +4,7 @@ album: The Declaration
 artist: Warmarch
 categories:
 - Vinyl
-date: '2023-09-04T07:35:12'
+date: '2023-09-24T05:52:47'
 draft: false
 images:
 - /images/covers/warmarch-the_declaration.jpg

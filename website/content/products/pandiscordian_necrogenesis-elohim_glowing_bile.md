@@ -4,7 +4,7 @@ album: Elohim Glowing Bile
 artist: Pandiscordian Necrogenesis
 categories:
 - Cassette
-date: '2023-07-27T05:57:25'
+date: '2023-09-24T05:58:40'
 draft: false
 images:
 - /images/covers/pandiscordian_necrogenesis-elohim_glowing_bile.jpg

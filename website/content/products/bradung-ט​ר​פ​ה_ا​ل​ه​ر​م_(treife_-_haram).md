@@ -6,7 +6,7 @@ artist: Bradung
 categories:
 - Vinyl
 - CD
-date: '2023-07-27T05:53:07'
+date: '2023-09-24T05:54:16'
 draft: false
 images:
 - "/images/covers/bradung-\u05D8\u200B\u05E8\u200B\u05E4\u200B\u05D4_\u0627\u200B\u0644\

@@ -1,11 +1,11 @@
 ---
-actualPrice: $15.00 - 27.00
+actualPrice: $15.00 - 32.00
 album: Under a Funeral Moon
 artist: Darkthrone
 categories:
 - Vinyl
 - Cassette
-date: '2023-08-27T06:12:24'
+date: '2023-11-19T16:33:12'
 draft: false
 images:
 - /images/covers/darkthrone-under_a_funeral_moon.jpg
@@ -44,6 +44,8 @@ title: Darkthrone - Under a Funeral Moon
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=35691&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=37544&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=38946&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=40251&sort=pd.name&order=ASC) for $25.00
+* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/darkthrone-under-a-funeral-moon-30th-anniversary-marble-vinyl-lp) for $32.00 :: 30th Anniversary Marble Vinyl LP
 ## Cassette
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=23046&sort=pd.name&order=ASC) for $15.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=26400&sort=pd.name&order=ASC) for $15.00

@@ -4,7 +4,7 @@ album: Sirens of the Blistering Light
 artist: Nethervoid
 categories:
 - CD
-date: '2023-07-27T05:54:51'
+date: '2023-09-24T05:55:59'
 draft: false
 images:
 - /images/covers/nethervoid-sirens_of_the_blistering_light.jpg

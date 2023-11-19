@@ -4,7 +4,7 @@ album: "BEHAUPTUNGSANIMALIT\xC4T"
 artist: GGUW
 categories:
 - CD
-date: '2023-07-27T05:53:48'
+date: '2023-09-24T05:54:56'
 draft: false
 images:
 - "/images/covers/gguw-behauptungsanimalit\xE4t.jpg"

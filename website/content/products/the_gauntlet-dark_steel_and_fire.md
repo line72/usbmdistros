@@ -5,7 +5,7 @@ artist: The Gauntlet
 categories:
 - Vinyl
 - CD
-date: '2023-09-09T09:11:57'
+date: '2023-09-24T05:56:47'
 draft: false
 images:
 - /images/covers/the_gauntlet-dark_steel_and_fire.jpg

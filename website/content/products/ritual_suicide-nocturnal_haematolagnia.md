@@ -4,7 +4,7 @@ album: Nocturnal Haematolagnia
 artist: Ritual Suicide
 categories:
 - Cassette
-date: '2023-07-27T05:57:33'
+date: '2023-09-24T05:58:47'
 draft: false
 images:
 - /images/covers/ritual_suicide-nocturnal_haematolagnia.jpg

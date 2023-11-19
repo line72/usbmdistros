@@ -4,7 +4,7 @@ album: Procession of an Old Religion
 artist: Deus Ignotus
 categories:
 - Cassette
-date: '2023-07-27T05:56:33'
+date: '2023-09-24T05:57:54'
 draft: false
 images:
 - /images/covers/deus_ignotus-procession_of_an_old_religion.png

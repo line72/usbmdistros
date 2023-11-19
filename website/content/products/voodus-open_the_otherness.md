@@ -5,7 +5,7 @@ artist: Voodus
 categories:
 - Vinyl
 - CD
-date: '2023-08-22T08:18:27'
+date: '2023-09-24T05:57:07'
 draft: false
 images:
 - /images/covers/voodus-open_the_otherness.jpg

@@ -4,7 +4,7 @@ album: Cleft Skull
 artist: M. del Rio
 categories:
 - Vinyl
-date: '2023-07-27T05:52:23'
+date: '2023-09-24T05:53:27'
 draft: false
 images:
 - /images/covers/m._del_rio-cleft_skull.jpg

@@ -5,7 +5,7 @@ artist: Vomit Angel
 categories:
 - Vinyl
 - CD
-date: '2023-07-27T05:51:45'
+date: '2023-09-24T05:52:43'
 draft: false
 images:
 - /images/covers/vomit_angel-imprint_of_extinction.jpg

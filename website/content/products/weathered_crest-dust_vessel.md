@@ -4,7 +4,7 @@ album: Dust Vessel
 artist: Weathered Crest
 categories:
 - Vinyl
-date: '2023-07-27T05:51:51'
+date: '2023-09-24T05:52:48'
 draft: false
 images:
 - /images/covers/weathered_crest-dust_vessel.jpg

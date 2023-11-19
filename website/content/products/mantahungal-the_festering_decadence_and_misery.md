@@ -4,7 +4,7 @@ album: The Festering Decadence and Misery
 artist: Mantahungal
 categories:
 - Vinyl
-date: '2023-07-27T05:49:54'
+date: '2023-09-24T05:50:43'
 draft: false
 images:
 - /images/covers/mantahungal-the_festering_decadence_and_misery.jpg

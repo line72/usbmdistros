@@ -4,7 +4,7 @@ album: The Good Shepherd
 artist: Impious Havoc
 categories:
 - Vinyl
-date: '2023-07-27T05:52:20'
+date: '2023-09-24T05:53:23'
 draft: false
 images:
 - /images/covers/impious_havoc-the_good_shepherd.jpg

@@ -4,7 +4,7 @@ album: Explosion of Elements
 artist: Bloody Sign
 categories:
 - Vinyl
-date: '2023-08-15T05:50:53'
+date: '2023-09-24T05:48:50'
 draft: false
 images:
 - /images/covers/bloody_sign-explosion_of_elements.jpg

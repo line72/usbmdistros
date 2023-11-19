@@ -5,7 +5,7 @@ artist: Christ Agony
 categories:
 - Vinyl
 - CD
-date: '2023-09-14T07:24:19'
+date: '2023-10-09T08:14:09'
 draft: false
 images:
 - /images/covers/christ_agony-moonlight_act_iii.jpg
@@ -23,3 +23,4 @@ title: Christ Agony - Moonlight Act III
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=5908&sort=pd.name&order=ASC) for $10.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=24891&sort=pd.name&order=ASC) for $10.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=39864&sort=pd.name&order=ASC) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=41572&sort=pd.name&order=ASC) for $10.00

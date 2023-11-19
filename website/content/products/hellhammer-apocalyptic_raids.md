@@ -1,10 +1,10 @@
 ---
-actualPrice: $35.00 - 140.00
+actualPrice: $35.00 - 150.00
 album: Apocalyptic Raids
 artist: Hellhammer
 categories:
 - Vinyl
-date: '2023-09-13T06:49:38'
+date: '2023-10-15T06:22:58'
 draft: false
 images:
 - /images/covers/hellhammer-apocalyptic_raids.jpg
@@ -21,3 +21,5 @@ title: Hellhammer - Apocalyptic Raids
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=37298&sort=pd.name&order=ASC) for $40.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=39531&sort=pd.name&order=ASC) for $140.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=39850&sort=pd.name&order=ASC) for $140.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=40405&sort=pd.name&order=ASC) for $140.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=41916&sort=pd.name&order=ASC) for $150.00

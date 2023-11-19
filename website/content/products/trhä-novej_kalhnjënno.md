@@ -4,7 +4,7 @@ album: "Novej Kalhnj\xEBnno"
 artist: "Trh\xE4"
 categories:
 - Vinyl
-date: '2023-09-18T07:17:31'
+date: '2023-09-24T05:52:25'
 draft: false
 images:
 - "/images/covers/trh\xE4-novej_kalhnj\xEBnno.jpg"
@@ -26,3 +26,4 @@ title: "Trh\xE4 - Novej Kalhnj\xEBnno"
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=38906&sort=pd.name&order=ASC) for $40.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=39657&sort=pd.name&order=ASC) for $40.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=40018&sort=pd.name&order=ASC) for $40.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=40289&sort=pd.name&order=ASC) for $40.00

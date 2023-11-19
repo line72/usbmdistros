@@ -4,7 +4,7 @@ album: Erotik
 artist: Lifelover
 categories:
 - Vinyl
-date: '2023-09-04T06:23:19'
+date: '2023-09-24T05:50:33'
 draft: false
 images:
 - /images/covers/lifelover-erotik.jpg

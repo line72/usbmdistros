@@ -4,7 +4,7 @@ album: S/T
 artist: Torch of Decaying Log
 categories:
 - Vinyl
-date: '2023-07-27T05:52:40'
+date: '2023-09-24T05:53:47'
 draft: false
 images:
 - /images/covers/torch_of_decaying_log-s-t.jpg

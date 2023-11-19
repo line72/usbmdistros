@@ -4,7 +4,7 @@ album: Tides
 artist: Freja
 categories:
 - Vinyl
-date: '2023-07-27T05:48:56'
+date: '2023-09-24T05:49:44'
 draft: false
 images:
 - /images/covers/freja-tides.jpg

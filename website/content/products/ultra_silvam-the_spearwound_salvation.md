@@ -5,7 +5,7 @@ artist: Ultra Silvam
 categories:
 - Vinyl
 - CD
-date: '2023-07-27T05:55:46'
+date: '2023-09-24T05:56:55'
 draft: false
 images:
 - /images/covers/ultra_silvam-the_spearwound_salvation.png

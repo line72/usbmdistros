@@ -4,7 +4,7 @@ album: Twisting Depths Of Horror
 artist: Anatomy
 categories:
 - Vinyl
-date: '2023-07-27T05:47:33'
+date: '2023-09-24T05:48:21'
 draft: false
 images:
 - /images/covers/anatomy-twisting_depths_of_horror.png

@@ -6,7 +6,7 @@ categories:
 - Vinyl
 - Cassette
 - CD
-date: '2023-07-27T05:57:15'
+date: '2023-10-12T07:03:45'
 draft: false
 images:
 - /images/covers/necromantic_worship-rites_of_resurrection.jpg
@@ -21,6 +21,7 @@ title: Necromantic Worship - Rites of Resurrection
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/necromantic-worship-rites-of-resurrection-12-lp) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29830&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=30182&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=41748&sort=pd.name&order=ASC) for $20.00
 ## Cassette
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/necromantic-worship-rites-of-resurrection-tape) for $12.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=27200&sort=pd.name&order=ASC) for $10.00

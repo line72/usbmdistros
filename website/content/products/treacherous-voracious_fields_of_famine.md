@@ -4,7 +4,7 @@ album: Voracious Fields Of Famine
 artist: Treacherous
 categories:
 - Cassette
-date: '2023-09-15T10:38:37'
+date: '2023-09-24T05:59:05'
 draft: false
 images:
 - /images/covers/treacherous-voracious_fields_of_famine.jpg

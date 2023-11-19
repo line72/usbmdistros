@@ -4,7 +4,7 @@ album: Een sinister schouwspel
 artist: Fluisterwoud
 categories:
 - Vinyl
-date: '2023-07-27T05:52:16'
+date: '2023-09-24T05:53:18'
 draft: false
 images:
 - /images/covers/fluisterwoud-een_sinister_schouwspel.jpg

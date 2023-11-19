@@ -4,7 +4,7 @@ album: Bozja Svetlonoso - Honoring the Rotten Blood of the Basilisk
 artist: "Ve\u0161tac"
 categories:
 - Vinyl
-date: '2023-07-27T05:51:42'
+date: '2023-09-24T05:52:40'
 draft: false
 images:
 - "/images/covers/ve\u0161tac-bozja_svetlonoso_-_honoring_the_rotten_blood_of_the_basilisk.jpg"

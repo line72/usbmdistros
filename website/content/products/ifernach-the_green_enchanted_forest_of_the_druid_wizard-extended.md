@@ -4,7 +4,7 @@ album: The Green Enchanted Forest of the Druid Wizard-Extended
 artist: Ifernach
 categories:
 - CD
-date: '2023-07-27T05:54:06'
+date: '2023-11-16T17:56:20'
 draft: false
 images:
 - /images/covers/ifernach-the_green_enchanted_forest_of_the_druid_wizard-extended.jpg
@@ -16,3 +16,5 @@ title: Ifernach - The Green Enchanted Forest of the Druid Wizard-Extended
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=30699&sort=pd.name&order=ASC) for $15.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=31414&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=41851&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=43495&sort=pd.name&order=ASC) for $15.00

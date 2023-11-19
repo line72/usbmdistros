@@ -6,7 +6,7 @@ categories:
 - Vinyl
 - Cassette
 - CD
-date: '2023-08-25T06:43:39'
+date: '2023-09-24T05:58:31'
 draft: false
 images:
 - "/images/covers/murg-str\xE4van.jpg"

@@ -1,10 +1,10 @@
 ---
-actualPrice: $25.00
+actualPrice: $20.00 - 25.00
 album: Omens from the Dead Realm
 artist: Gnosis
 categories:
 - Vinyl
-date: '2023-07-27T05:49:04'
+date: '2023-10-12T06:31:14'
 draft: false
 images:
 - /images/covers/gnosis-omens_from_the_dead_realm.jpg
@@ -18,3 +18,4 @@ title: Gnosis - Omens from the Dead Realm
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=23200&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=24148&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=35521&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=41786&sort=pd.name&order=ASC) for $20.00

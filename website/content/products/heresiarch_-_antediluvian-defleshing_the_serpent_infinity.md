@@ -4,7 +4,7 @@ album: Defleshing the Serpent Infinity
 artist: Heresiarch / Antediluvian
 categories:
 - Vinyl
-date: '2023-07-27T05:49:19'
+date: '2023-09-24T05:50:07'
 draft: false
 images:
 - /images/covers/heresiarch_-_antediluvian-defleshing_the_serpent_infinity.jpg

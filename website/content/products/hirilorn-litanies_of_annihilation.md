@@ -4,7 +4,7 @@ album: Litanies of Annihilation
 artist: Hirilorn
 categories:
 - CD
-date: '2023-07-27T05:54:04'
+date: '2023-09-24T05:55:12'
 draft: false
 images:
 - /images/covers/hirilorn-litanies_of_annihilation.jpg

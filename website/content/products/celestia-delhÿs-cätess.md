@@ -4,7 +4,7 @@ album: "Delh\xFFs-c\xE4tess"
 artist: Celestia
 categories:
 - Vinyl
-date: '2023-07-27T05:48:14'
+date: '2023-09-24T05:49:01'
 draft: false
 images:
 - "/images/covers/celestia-delh\xFFs-c\xE4tess.jpg"

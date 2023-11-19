@@ -4,7 +4,7 @@ album: "Ly\xF6den Taudein ja Kirouksin"
 artist: Riivaus
 categories:
 - Vinyl
-date: '2023-07-27T05:50:49'
+date: '2023-10-24T07:03:40'
 draft: false
 images:
 - "/images/covers/riivaus-ly\xF6den_taudein_ja_kirouksin.jpg"
@@ -16,3 +16,4 @@ title: "Riivaus - Ly\xF6den Taudein ja Kirouksin"
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=24356&sort=pd.name&order=ASC) for $27.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=36335&sort=pd.name&order=ASC) for $27.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=42415&sort=pd.name&order=ASC) for $27.00

@@ -5,7 +5,7 @@ artist: Unctoris
 categories:
 - Vinyl
 - CD
-date: '2023-07-27T05:55:46'
+date: '2023-09-24T05:56:56'
 draft: false
 images:
 - /images/covers/unctoris-shout_demise.jpg

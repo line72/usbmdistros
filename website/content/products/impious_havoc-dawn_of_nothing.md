@@ -4,7 +4,7 @@ album: Dawn of Nothing
 artist: Impious Havoc
 categories:
 - Vinyl
-date: '2023-07-27T05:49:26'
+date: '2023-09-24T05:50:15'
 draft: false
 images:
 - /images/covers/impious_havoc-dawn_of_nothing.jpg

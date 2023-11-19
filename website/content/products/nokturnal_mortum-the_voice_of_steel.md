@@ -6,7 +6,7 @@ categories:
 - Vinyl
 - Cassette
 - CD
-date: '2023-08-24T16:54:56'
+date: '2023-09-24T05:51:16'
 draft: false
 images:
 - /images/covers/nokturnal_mortum-the_voice_of_steel.jpg

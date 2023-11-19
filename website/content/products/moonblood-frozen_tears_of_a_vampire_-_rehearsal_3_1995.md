@@ -4,7 +4,7 @@ album: Frozen Tears of a Vampire - Rehearsal 3 1995
 artist: Moonblood
 categories:
 - Vinyl
-date: '2023-07-27T05:50:05'
+date: '2023-09-24T05:50:56'
 draft: false
 images:
 - /images/covers/moonblood-frozen_tears_of_a_vampire_-_rehearsal_3_1995.jpg

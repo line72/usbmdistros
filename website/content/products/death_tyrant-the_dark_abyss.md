@@ -4,7 +4,7 @@ album: The Dark Abyss
 artist: Death Tyrant
 categories:
 - Vinyl
-date: '2023-09-07T06:03:38'
+date: '2023-09-24T05:49:19'
 draft: false
 images:
 - /images/covers/death_tyrant-the_dark_abyss.jpg

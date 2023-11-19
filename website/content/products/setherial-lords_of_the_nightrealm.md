@@ -4,7 +4,7 @@ album: Lords of the Nightrealm
 artist: Setherial
 categories:
 - Vinyl
-date: '2023-09-12T07:21:37'
+date: '2023-09-24T05:51:58'
 draft: false
 images:
 - /images/covers/setherial-lords_of_the_nightrealm.png

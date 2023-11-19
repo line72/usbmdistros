@@ -5,7 +5,7 @@ artist: Latitude Egress
 categories:
 - Vinyl
 - CD
-date: '2023-09-08T06:28:54'
+date: '2023-09-24T05:55:32'
 draft: false
 images:
 - /images/covers/latitude_egress-to_take_up_the_cross.jpg

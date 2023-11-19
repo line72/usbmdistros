@@ -4,7 +4,7 @@ album: Timeless Reign
 artist: Svartsyn
 categories:
 - Cassette
-date: '2023-07-27T05:57:44'
+date: '2023-10-31T09:46:13'
 draft: false
 images:
 - /images/covers/svartsyn-timeless_reign.jpg
@@ -18,3 +18,4 @@ title: Svartsyn - Timeless Reign
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=26393&sort=pd.name&order=ASC) for $15.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=28309&sort=pd.name&order=ASC) for $15.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=29249&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=42805&sort=pd.name&order=ASC) for $15.00

@@ -4,7 +4,7 @@ album: Creencias Siniestras de Afirmaciones Malditas
 artist: Vulvacult
 categories:
 - Cassette
-date: '2023-07-27T05:57:59'
+date: '2023-09-24T05:59:15'
 draft: false
 images:
 - /images/covers/vulvacult-creencias_siniestras_de_afirmaciones_malditas.jpg

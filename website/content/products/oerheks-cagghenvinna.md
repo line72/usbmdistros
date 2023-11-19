@@ -4,7 +4,7 @@ album: Cagghenvinna
 artist: Oerheks
 categories:
 - Vinyl
-date: '2022-11-30T06:10:12'
+date: '2023-11-03T07:07:20'
 draft: false
 images:
 - /images/covers/oerheks-cagghenvinna.jpg
@@ -15,3 +15,5 @@ title: Oerheks - Cagghenvinna
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=26503&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=42902&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=42933&sort=pd.name&order=ASC) for $25.00

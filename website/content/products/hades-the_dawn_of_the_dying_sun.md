@@ -6,7 +6,7 @@ categories:
 - Vinyl
 - Cassette
 - CD
-date: '2023-07-27T05:56:46'
+date: '2023-09-24T05:58:10'
 draft: false
 images:
 - /images/covers/hades-the_dawn_of_the_dying_sun.jpg

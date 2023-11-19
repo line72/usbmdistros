@@ -4,7 +4,7 @@ album: Vritrahn-Werwolf
 artist: Vritrahn-Werwolf
 categories:
 - Vinyl
-date: '2023-07-27T05:51:46'
+date: '2023-09-24T05:52:45'
 draft: false
 images:
 - /images/covers/vritrahn-werwolf-vritrahn-werwolf.png

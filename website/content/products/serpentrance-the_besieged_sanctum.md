@@ -4,7 +4,7 @@ album: The Besieged Sanctum
 artist: Serpentrance
 categories:
 - CD
-date: '2023-07-27T05:55:23'
+date: '2023-09-24T05:56:31'
 draft: false
 images:
 - /images/covers/serpentrance-the_besieged_sanctum.png

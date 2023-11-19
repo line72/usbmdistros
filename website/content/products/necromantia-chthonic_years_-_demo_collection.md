@@ -4,7 +4,7 @@ album: Chthonic Years / Demo Collection
 artist: Necromantia
 categories:
 - CD
-date: '2023-07-27T05:54:46'
+date: '2023-09-24T05:55:56'
 draft: false
 images:
 - /images/covers/necromantia-chthonic_years_-_demo_collection.jpg

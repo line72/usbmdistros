@@ -4,7 +4,7 @@ album: Empyrean
 artist: Bliss Of Flesh
 categories:
 - Vinyl
-date: '2023-08-10T05:53:46'
+date: '2023-09-24T05:48:47'
 draft: false
 images:
 - /images/covers/bliss_of_flesh-empyrean.jpg

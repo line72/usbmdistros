@@ -1,11 +1,11 @@
 ---
-actualPrice: $10.00 - 25.00
+actualPrice: $10.00 - 27.99
 album: Antichrist Rise To Power
 artist: Departure Chandelier
 categories:
 - Vinyl
 - CD
-date: '2023-07-27T05:48:34'
+date: '2023-11-19T16:31:58'
 draft: false
 images:
 - /images/covers/departure_chandelier-antichrist_rise_to_power.jpg
@@ -29,6 +29,8 @@ title: Departure Chandelier - Antichrist Rise To Power
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=35749&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=35949&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=36152&sort=pd.name&order=ASC) for $25.00
+* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/departure-chandelier-antichrist-rise-to-power-french-edition-marble-vinyl-lp) for $27.99 :: French Edition Marble Vinyl LP
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=6811&sort=pd.name&order=ASC) for $10.00
 * Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/33512194-departure-chandelier-antichrist-rise-to-power-cd) for $11.50
+* Purchase from [CW Productions](https://shop.cwproductions.net/products/departure-chandelier-antichrist-rise-to-power-cd) for $12.00

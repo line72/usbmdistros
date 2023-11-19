@@ -4,7 +4,7 @@ album: Brimstone Altar
 artist: Lucifericon
 categories:
 - Vinyl
-date: '2023-09-08T06:29:51'
+date: '2023-09-24T05:50:36'
 draft: false
 images:
 - /images/covers/lucifericon-brimstone_altar.jpg

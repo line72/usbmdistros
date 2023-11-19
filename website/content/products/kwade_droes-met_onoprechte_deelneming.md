@@ -4,7 +4,7 @@ album: Met Onoprechte Deelneming
 artist: Kwade Droes
 categories:
 - Vinyl
-date: '2023-07-27T05:49:41'
+date: '2023-09-24T05:50:31'
 draft: false
 images:
 - /images/covers/kwade_droes-met_onoprechte_deelneming.jpg

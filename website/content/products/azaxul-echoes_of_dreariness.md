@@ -5,7 +5,7 @@ artist: Azaxul
 categories:
 - Vinyl
 - CD
-date: '2023-09-10T11:40:17'
+date: '2023-09-24T05:48:35'
 draft: false
 images:
 - /images/covers/azaxul-echoes_of_dreariness.jpg

@@ -4,7 +4,7 @@ album: Volume Null
 artist: "EGG\xDE\xC9R"
 categories:
 - CD
-date: '2023-07-27T05:53:33'
+date: '2023-09-24T05:54:41'
 draft: false
 images:
 - "/images/covers/egg\xFE\xE9r-volume_null.jpg"

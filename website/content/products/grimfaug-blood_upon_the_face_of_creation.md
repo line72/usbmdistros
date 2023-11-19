@@ -6,7 +6,7 @@ categories:
 - Vinyl
 - Cassette
 - CD
-date: '2023-09-10T06:21:53'
+date: '2023-09-24T05:49:58'
 draft: false
 images:
 - /images/covers/grimfaug-blood_upon_the_face_of_creation.jpg

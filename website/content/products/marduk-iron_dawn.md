@@ -4,7 +4,7 @@ album: Iron Dawn
 artist: Marduk
 categories:
 - CD
-date: '2023-08-21T07:50:12'
+date: '2023-09-24T05:55:41'
 draft: false
 images:
 - /images/covers/marduk-iron_dawn.jpg

@@ -4,7 +4,7 @@ album: Hiding Amongst Humans
 artist: ArsGoatia
 categories:
 - Vinyl
-date: '2023-07-27T05:47:40'
+date: '2023-09-24T05:48:28'
 draft: false
 images:
 - /images/covers/arsgoatia-hiding_amongst_humans.jpg

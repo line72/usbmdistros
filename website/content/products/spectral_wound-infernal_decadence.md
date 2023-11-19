@@ -5,7 +5,7 @@ artist: Spectral Wound
 categories:
 - Vinyl
 - CD
-date: '2023-07-27T05:51:12'
+date: '2023-09-24T05:52:03'
 draft: false
 images:
 - /images/covers/spectral_wound-infernal_decadence.jpg

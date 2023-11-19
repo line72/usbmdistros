@@ -4,7 +4,7 @@ album: Auringon Hauta
 artist: Solgrav
 categories:
 - Cassette
-date: '2023-07-27T05:57:41'
+date: '2023-09-24T05:58:56'
 draft: false
 images:
 - /images/covers/solgrav-auringon_hauta.png

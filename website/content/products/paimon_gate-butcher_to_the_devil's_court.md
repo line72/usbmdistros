@@ -4,7 +4,7 @@ album: Butcher to the Devil's Court
 artist: Paimon Gate
 categories:
 - Vinyl
-date: '2023-08-24T06:33:24'
+date: '2023-09-24T05:51:25'
 draft: false
 images:
 - /images/covers/paimon_gate-butcher_to_the_devil's_court.png

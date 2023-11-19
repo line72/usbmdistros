@@ -5,7 +5,7 @@ artist: Goatblood
 categories:
 - Cassette
 - CD
-date: '2023-07-27T05:53:49'
+date: '2023-09-24T05:54:57'
 draft: false
 images:
 - /images/covers/goatblood-adoration_of_blasphemy_and_war.jpg

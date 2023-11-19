@@ -4,7 +4,7 @@ album: Demo III + Demo IV
 artist: Gonotroph
 categories:
 - Cassette
-date: '2023-07-27T05:56:44'
+date: '2023-09-24T05:58:08'
 draft: false
 images:
 - /images/covers/gonotroph-demo_iii_+_demo_iv.jpg

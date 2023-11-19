@@ -5,7 +5,7 @@ artist: Graveland
 categories:
 - Vinyl
 - CD
-date: '2023-09-10T07:57:19'
+date: '2023-09-24T05:55:00'
 draft: false
 images:
 - /images/covers/graveland-the_celtic_winter.jpg

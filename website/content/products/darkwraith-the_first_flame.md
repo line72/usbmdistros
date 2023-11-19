@@ -4,7 +4,7 @@ album: The First Flame
 artist: Darkwraith
 categories:
 - Cassette
-date: '2023-07-27T05:56:30'
+date: '2023-09-24T05:57:51'
 draft: false
 images:
 - /images/covers/darkwraith-the_first_flame.png

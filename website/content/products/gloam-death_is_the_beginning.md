@@ -4,7 +4,7 @@ album: Death Is The Beginning
 artist: Gloam
 categories:
 - Vinyl
-date: '2023-07-27T05:49:03'
+date: '2023-09-24T05:49:52'
 draft: false
 images:
 - /images/covers/gloam-death_is_the_beginning.jpg

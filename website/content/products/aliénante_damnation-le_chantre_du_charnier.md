@@ -4,7 +4,7 @@ album: Le Chantre Du Charnier
 artist: "Ali\xE9nante Damnation"
 categories:
 - Vinyl
-date: '2023-09-18T05:50:32'
+date: '2023-09-24T05:48:18'
 draft: false
 images:
 - "/images/covers/ali\xE9nante_damnation-le_chantre_du_charnier.png"

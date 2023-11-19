@@ -4,7 +4,7 @@ album: Black Moldy Brew
 artist: Lair
 categories:
 - CD
-date: '2023-07-27T05:54:23'
+date: '2023-09-24T05:55:32'
 draft: false
 images:
 - /images/covers/lair-black_moldy_brew.jpg

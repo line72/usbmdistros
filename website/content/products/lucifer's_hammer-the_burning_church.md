@@ -5,7 +5,7 @@ artist: Lucifer's Hammer
 categories:
 - Vinyl
 - CD
-date: '2023-08-16T06:21:12'
+date: '2023-10-12T06:52:29'
 draft: false
 images:
 - /images/covers/lucifer's_hammer-the_burning_church.jpg
@@ -24,6 +24,7 @@ title: Lucifer's Hammer - The Burning Church
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=38154&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=38255&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=38467&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=41752&sort=pd.name&order=ASC) for $20.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=19093&sort=pd.name&order=ASC) for $9.60
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=35486&sort=pd.name&order=ASC) for $12.00

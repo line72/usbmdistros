@@ -4,7 +4,7 @@ album: Demo IV
 artist: Lampir
 categories:
 - Vinyl
-date: '2023-09-18T06:22:34'
+date: '2023-09-24T05:50:31'
 draft: false
 images:
 - /images/covers/lampir-demo_iv.png

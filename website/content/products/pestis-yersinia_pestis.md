@@ -4,7 +4,7 @@ album: Yersinia Pestis
 artist: Pestis
 categories:
 - Vinyl
-date: '2023-09-10T06:52:33'
+date: '2023-09-24T05:51:29'
 draft: false
 images:
 - /images/covers/pestis-yersinia_pestis.jpg

@@ -1,10 +1,10 @@
 ---
-actualPrice: $20.00 - 25.00
+actualPrice: $20.00 - 26.99
 album: Blodhemn
 artist: Enslaved
 categories:
 - Vinyl
-date: '2023-09-20T05:00:51'
+date: '2023-11-19T16:32:03'
 draft: false
 images:
 - /images/covers/enslaved-blodhemn.jpg
@@ -21,3 +21,4 @@ title: Enslaved - Blodhemn
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=34577&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=35312&sort=pd.name&order=ASC) for $25.00
 * Purchase from [Sto'Vo'Kor Records](https://stovokor-records.com/products/enslaved-blodhemn) for $20.00
+* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/enslaved-blodhemn-vinyl-lp-donation-edition) for $26.99 :: Vinyl LP - Donation Edition

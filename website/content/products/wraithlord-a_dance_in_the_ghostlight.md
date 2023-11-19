@@ -4,7 +4,7 @@ album: A Dance In The Ghostlight
 artist: Wraithlord
 categories:
 - Cassette
-date: '2023-07-27T05:58:01'
+date: '2023-09-24T05:59:17'
 draft: false
 images:
 - /images/covers/wraithlord-a_dance_in_the_ghostlight.png

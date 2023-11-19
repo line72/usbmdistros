@@ -4,7 +4,7 @@ album: Balkarnin
 artist: Ayyur
 categories:
 - Cassette
-date: '2023-09-15T10:38:36'
+date: '2023-09-24T05:57:36'
 draft: false
 images:
 - /images/covers/ayyur-balkarnin.jpg

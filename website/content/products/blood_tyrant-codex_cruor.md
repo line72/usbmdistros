@@ -5,7 +5,7 @@ artist: Blood Tyrant
 categories:
 - Cassette
 - CD
-date: '2023-07-27T05:56:21'
+date: '2023-09-24T05:57:41'
 draft: false
 images:
 - /images/covers/blood_tyrant-codex_cruor.jpg

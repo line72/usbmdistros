@@ -4,7 +4,7 @@ album: The Gospel of the Horned One
 artist: Countess
 categories:
 - CD
-date: '2023-07-27T05:53:15'
+date: '2023-10-09T08:15:29'
 draft: false
 images:
 - /images/covers/countess-the_gospel_of_the_horned_one.jpg
@@ -16,3 +16,4 @@ title: Countess - The Gospel of the Horned One
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=17312&sort=pd.name&order=ASC) for $10.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=25316&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=41577&sort=pd.name&order=ASC) for $12.00

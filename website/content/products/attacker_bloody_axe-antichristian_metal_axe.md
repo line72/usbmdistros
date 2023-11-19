@@ -4,7 +4,7 @@ album: Antichristian Metal Axe
 artist: Attacker Bloody Axe
 categories:
 - CD
-date: '2023-07-27T05:52:56'
+date: '2023-09-24T05:54:06'
 draft: false
 images:
 - /images/covers/attacker_bloody_axe-antichristian_metal_axe.jpg

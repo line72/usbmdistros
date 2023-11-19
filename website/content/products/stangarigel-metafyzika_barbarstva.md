@@ -6,7 +6,7 @@ categories:
 - Vinyl
 - Cassette
 - CD
-date: '2023-07-29T08:10:03'
+date: '2023-09-24T05:58:57'
 draft: false
 images:
 - /images/covers/stangarigel-metafyzika_barbarstva.jpg

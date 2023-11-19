@@ -4,7 +4,7 @@ album: Astride Over the Grave
 artist: Graveborne
 categories:
 - Vinyl
-date: '2023-07-27T05:49:08'
+date: '2023-09-24T05:49:56'
 draft: false
 images:
 - /images/covers/graveborne-astride_over_the_grave.jpg

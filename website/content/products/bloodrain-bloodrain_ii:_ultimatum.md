@@ -4,7 +4,7 @@ album: 'Bloodrain II: Ultimatum'
 artist: Bloodrain
 categories:
 - CD
-date: '2023-07-27T05:53:06'
+date: '2023-09-24T05:54:15'
 draft: false
 images:
 - /images/covers/bloodrain-bloodrain_ii:_ultimatum.jpg

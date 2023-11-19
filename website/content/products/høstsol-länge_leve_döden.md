@@ -4,7 +4,7 @@ album: "L\xE4nge Leve D\xF6den"
 artist: "H\xF8stsol"
 categories:
 - Vinyl
-date: '2023-07-27T05:49:23'
+date: '2023-09-24T05:50:11'
 draft: false
 images:
 - "/images/covers/h\xF8stsol-l\xE4nge_leve_d\xF6den.jpg"

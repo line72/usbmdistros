@@ -5,7 +5,7 @@ artist: Evilfeast
 categories:
 - Vinyl
 - CD
-date: '2023-07-27T05:53:39'
+date: '2023-11-02T08:25:36'
 draft: false
 images:
 - /images/covers/evilfeast-wintermoon_enchantment.jpg
@@ -24,3 +24,5 @@ title: Evilfeast - Wintermoon Enchantment
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=17942&sort=pd.name&order=ASC) for $12.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=19776&sort=pd.name&order=ASC) for $15.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=32612&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=42123&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=42920&sort=pd.name&order=ASC) for $15.00

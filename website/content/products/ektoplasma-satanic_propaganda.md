@@ -4,7 +4,7 @@ album: Satanic Propaganda
 artist: Ektoplasma
 categories:
 - Vinyl
-date: '2023-08-14T07:04:58'
+date: '2023-09-24T05:53:15'
 draft: false
 images:
 - /images/covers/ektoplasma-satanic_propaganda.jpg

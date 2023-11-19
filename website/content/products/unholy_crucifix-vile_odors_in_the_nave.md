@@ -4,7 +4,7 @@ album: Vile Odors in the Nave
 artist: Unholy Crucifix
 categories:
 - Vinyl
-date: '2023-07-27T05:52:41'
+date: '2023-09-24T05:53:48'
 draft: false
 images:
 - /images/covers/unholy_crucifix-vile_odors_in_the_nave.jpg

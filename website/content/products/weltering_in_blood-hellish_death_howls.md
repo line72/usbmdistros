@@ -4,7 +4,7 @@ album: Hellish Death Howls
 artist: Weltering In Blood
 categories:
 - CD
-date: '2023-07-27T05:55:59'
+date: '2023-09-24T05:57:10'
 draft: false
 images:
 - /images/covers/weltering_in_blood-hellish_death_howls.jpg

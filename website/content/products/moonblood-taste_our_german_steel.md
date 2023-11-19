@@ -4,7 +4,7 @@ album: Taste Our German Steel
 artist: Moonblood
 categories:
 - Vinyl
-date: '2023-07-27T05:50:05'
+date: '2023-09-24T05:50:57'
 draft: false
 images:
 - /images/covers/moonblood-taste_our_german_steel.jpg

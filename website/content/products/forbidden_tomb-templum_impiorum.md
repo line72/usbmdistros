@@ -4,7 +4,7 @@ album: Templum Impiorum
 artist: Forbidden Tomb
 categories:
 - Vinyl
-date: '2023-07-27T05:48:55'
+date: '2023-09-24T05:49:44'
 draft: false
 images:
 - /images/covers/forbidden_tomb-templum_impiorum.jpg

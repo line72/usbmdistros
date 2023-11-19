@@ -5,7 +5,7 @@ artist: Trance Of The Undead
 categories:
 - Vinyl
 - CD
-date: '2023-09-07T07:25:41'
+date: '2023-09-24T05:56:52'
 draft: false
 images:
 - /images/covers/trance_of_the_undead-chalice_of_disease.jpg

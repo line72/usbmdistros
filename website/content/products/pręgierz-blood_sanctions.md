@@ -4,7 +4,7 @@ album: Blood Sanctions
 artist: "Pr\u0119gierz"
 categories:
 - Vinyl
-date: '2023-07-27T05:52:30'
+date: '2023-09-24T05:53:36'
 draft: false
 images:
 - "/images/covers/pr\u0119gierz-blood_sanctions.jpg"

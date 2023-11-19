@@ -4,7 +4,7 @@ album: The 3rd Escape
 artist: Bloody Sign
 categories:
 - Vinyl
-date: '2023-08-15T07:19:10'
+date: '2023-09-24T05:53:06'
 draft: false
 images:
 - /images/covers/bloody_sign-the_3rd_escape.png

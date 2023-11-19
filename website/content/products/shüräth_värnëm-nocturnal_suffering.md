@@ -4,7 +4,7 @@ album: Nocturnal Suffering
 artist: "Sh\xFCr\xE4th V\xE4rn\xEBm"
 categories:
 - Cassette
-date: '2023-07-27T05:57:38'
+date: '2023-09-24T05:58:54'
 draft: false
 images:
 - "/images/covers/sh\xFCr\xE4th_v\xE4rn\xEBm-nocturnal_suffering.jpg"

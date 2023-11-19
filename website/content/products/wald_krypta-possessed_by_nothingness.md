@@ -4,7 +4,7 @@ album: Possessed by Nothingness
 artist: Wald Krypta
 categories:
 - Vinyl
-date: '2023-09-18T09:40:47'
+date: '2023-09-24T05:52:46'
 draft: false
 images:
 - /images/covers/wald_krypta-possessed_by_nothingness.jpg

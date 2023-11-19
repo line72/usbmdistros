@@ -4,7 +4,7 @@ album: Afgrondschemering
 artist: Walghinge
 categories:
 - Vinyl
-date: '2023-07-27T05:52:43'
+date: '2023-09-24T05:53:51'
 draft: false
 images:
 - /images/covers/walghinge-afgrondschemering.jpg

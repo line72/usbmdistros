@@ -4,7 +4,7 @@ album: Crowned with the Serpent Sun
 artist: Malum
 categories:
 - Vinyl
-date: '2023-07-27T05:49:52'
+date: '2023-09-24T05:50:42'
 draft: false
 images:
 - /images/covers/malum-crowned_with_the_serpent_sun.png

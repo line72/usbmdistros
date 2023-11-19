@@ -5,7 +5,7 @@ artist: Rituals Of The Dead Hand
 categories:
 - Vinyl
 - CD
-date: '2023-09-10T06:55:48'
+date: '2023-09-24T05:51:41'
 draft: false
 images:
 - /images/covers/rituals_of_the_dead_hand-blood_oath.jpg

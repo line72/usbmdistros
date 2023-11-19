@@ -4,7 +4,7 @@ album: My Master Lucifer / The Morning Star
 artist: Lullaby
 categories:
 - Vinyl
-date: '2023-09-05T06:19:48'
+date: '2023-09-24T05:50:36'
 draft: false
 images:
 - /images/covers/lullaby-my_master_lucifer_-_the_morning_star.jpg

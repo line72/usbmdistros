@@ -5,7 +5,7 @@ artist: Marduk
 categories:
 - Vinyl
 - CD
-date: '2023-07-27T05:54:32'
+date: '2023-09-24T05:55:41'
 draft: false
 images:
 - /images/covers/marduk-world_funeral_jaws_of_hell_mmiii.png

@@ -6,7 +6,7 @@ album: "\u041F\u200B\u0440\u200B\u0435\u200B\u0434\u200B\u0441\u200B\u043C\u200B
 artist: Majestat
 categories:
 - Vinyl
-date: '2023-07-27T05:49:49'
+date: '2023-09-24T05:50:39'
 draft: false
 images:
 - "/images/covers/majestat-\u043F\u200B\u0440\u200B\u0435\u200B\u0434\u200B\u0441\u200B\

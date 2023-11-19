@@ -4,7 +4,7 @@ album: Axioma Ethica Odini
 artist: Enslaved
 categories:
 - Vinyl
-date: '2023-08-15T07:21:31'
+date: '2023-09-24T05:53:15'
 draft: false
 images:
 - /images/covers/enslaved-axioma_ethica_odini.png

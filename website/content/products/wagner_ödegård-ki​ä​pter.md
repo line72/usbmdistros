@@ -6,7 +6,7 @@ categories:
 - Vinyl
 - Cassette
 - CD
-date: '2023-08-27T09:02:54'
+date: '2023-09-24T05:59:15'
 draft: false
 images:
 - "/images/covers/wagner_\xF6deg\xE5rd-ki\u200B\xE4\u200Bpter.jpg"

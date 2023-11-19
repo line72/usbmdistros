@@ -5,7 +5,7 @@ artist: Czort
 categories:
 - Vinyl
 - CD
-date: '2023-08-27T06:11:34'
+date: '2023-09-24T05:49:12'
 draft: false
 images:
 - /images/covers/czort-czarna_ewangelia.jpg

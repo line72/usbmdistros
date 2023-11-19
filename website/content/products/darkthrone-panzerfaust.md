@@ -5,7 +5,7 @@ artist: Darkthrone
 categories:
 - Vinyl
 - CD
-date: '2023-09-06T05:59:33'
+date: '2023-11-19T16:38:34'
 draft: false
 images:
 - /images/covers/darkthrone-panzerfaust.jpg
@@ -35,5 +35,7 @@ title: Darkthrone - Panzerfaust
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=37541&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=39412&sort=pd.name&order=ASC) for $130.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=39411&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=40262&sort=pd.name&order=ASC) for $130.00
+* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/darkthrone-panzerfaust-180g-vinyl-lp) for $27.99 :: 180g Vinyl LP
 ## CD
 * Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/darkthrone-panzerfaust-cd/) for $10.00

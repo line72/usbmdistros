@@ -4,7 +4,7 @@ album: Pregnant is the Night
 artist: Fornace
 categories:
 - CD
-date: '2023-07-27T05:53:45'
+date: '2023-09-24T05:54:52'
 draft: false
 images:
 - /images/covers/fornace-pregnant_is_the_night.jpg

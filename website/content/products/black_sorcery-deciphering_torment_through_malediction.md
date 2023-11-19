@@ -4,7 +4,7 @@ album: Deciphering Torment Through Malediction
 artist: Black Sorcery
 categories:
 - Vinyl
-date: '2023-09-11T06:05:56'
+date: '2023-09-24T05:48:44'
 draft: false
 images:
 - /images/covers/black_sorcery-deciphering_torment_through_malediction.jpg

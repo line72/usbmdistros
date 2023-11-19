@@ -4,7 +4,7 @@ album: "Sat\xE0nic"
 artist: Akerbeltz
 categories:
 - CD
-date: '2023-07-27T05:52:49'
+date: '2023-09-24T05:53:57'
 draft: false
 images:
 - "/images/covers/akerbeltz-sat\xE0nic.jpg"

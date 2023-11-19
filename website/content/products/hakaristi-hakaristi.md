@@ -4,7 +4,7 @@ album: Hakaristi
 artist: Hakaristi
 categories:
 - Vinyl
-date: '2023-08-14T07:06:04'
+date: '2023-09-24T05:53:21'
 draft: false
 images:
 - /images/covers/hakaristi-hakaristi.jpg

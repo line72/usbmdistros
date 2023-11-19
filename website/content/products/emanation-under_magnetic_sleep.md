@@ -4,7 +4,7 @@ album: Under Magnetic Sleep
 artist: Emanation
 categories:
 - Vinyl
-date: '2023-09-10T06:14:53'
+date: '2023-09-24T05:49:33'
 draft: false
 images:
 - /images/covers/emanation-under_magnetic_sleep.jpg

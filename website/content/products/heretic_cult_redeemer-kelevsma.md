@@ -6,7 +6,7 @@ categories:
 - Vinyl
 - Cassette
 - CD
-date: '2023-07-27T05:56:49'
+date: '2023-09-24T05:58:13'
 draft: false
 images:
 - /images/covers/heretic_cult_redeemer-kelevsma.jpg

@@ -4,7 +4,7 @@ album: "Salon des Refus\xE9s"
 artist: In Lingua Mortua
 categories:
 - Vinyl
-date: '2023-07-27T05:49:27'
+date: '2023-09-24T05:50:16'
 draft: false
 images:
 - "/images/covers/in_lingua_mortua-salon_des_refus\xE9s.jpg"

@@ -4,7 +4,7 @@ album: Das Ende
 artist: Eternal Frost
 categories:
 - Vinyl
-date: '2023-07-27T05:52:14'
+date: '2023-09-24T05:53:16'
 draft: false
 images:
 - /images/covers/eternal_frost-das_ende.png

@@ -5,7 +5,7 @@ artist: Ritual Death
 categories:
 - Vinyl
 - Cassette
-date: '2023-08-27T08:51:02'
+date: '2023-09-24T05:58:47'
 draft: false
 images:
 - /images/covers/ritual_death-lord_of_the_tomb.jpg

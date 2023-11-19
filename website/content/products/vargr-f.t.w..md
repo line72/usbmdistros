@@ -6,7 +6,7 @@ categories:
 - Vinyl
 - Cassette
 - CD
-date: '2023-08-21T08:33:36'
+date: '2023-09-24T05:59:10'
 draft: false
 images:
 - /images/covers/vargr-f.t.w..png

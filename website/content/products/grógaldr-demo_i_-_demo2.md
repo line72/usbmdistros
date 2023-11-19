@@ -4,7 +4,7 @@ album: Demo I / Demo2
 artist: "Gr\xF3galdr"
 categories:
 - Vinyl
-date: '2023-08-25T06:20:05'
+date: '2023-09-24T05:49:58'
 draft: false
 images:
 - "/images/covers/gr\xF3galdr-demo_i_-_demo2.jpg"

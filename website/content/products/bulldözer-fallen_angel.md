@@ -4,7 +4,7 @@ album: Fallen Angel
 artist: "Bulld\xF6zer"
 categories:
 - Vinyl
-date: '2023-08-24T06:56:05'
+date: '2023-09-24T05:53:07'
 draft: false
 images:
 - "/images/covers/bulld\xF6zer-fallen_angel.jpg"

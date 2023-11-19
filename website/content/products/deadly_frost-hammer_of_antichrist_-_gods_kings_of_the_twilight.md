@@ -4,7 +4,7 @@ album: Hammer of Antichrist / Gods Kings of the Twilight
 artist: Deadly Frost
 categories:
 - Cassette
-date: '2023-07-27T05:56:31'
+date: '2023-09-24T05:57:52'
 draft: false
 images:
 - /images/covers/deadly_frost-hammer_of_antichrist_-_gods_kings_of_the_twilight.png

@@ -4,7 +4,7 @@ album: The Heart of the Master
 artist: Caina
 categories:
 - Vinyl
-date: '2023-09-10T06:04:09'
+date: '2023-09-24T05:48:58'
 draft: false
 images:
 - /images/covers/caina-the_heart_of_the_master.jpg

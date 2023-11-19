@@ -5,7 +5,7 @@ artist: Borda's Rope
 categories:
 - Vinyl
 - CD
-date: '2023-08-16T07:03:33'
+date: '2023-09-24T05:54:16'
 draft: false
 images:
 - /images/covers/borda's_rope-parable_of_a_drowned_fate.jpg

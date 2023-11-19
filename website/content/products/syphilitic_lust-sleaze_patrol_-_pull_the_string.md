@@ -4,7 +4,7 @@ album: Sleaze Patrol / Pull the String
 artist: Syphilitic Lust
 categories:
 - Vinyl
-date: '2023-07-27T05:52:38'
+date: '2023-09-24T05:53:44'
 draft: false
 images:
 - /images/covers/syphilitic_lust-sleaze_patrol_-_pull_the_string.jpg

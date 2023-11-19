@@ -4,7 +4,7 @@ album: Murmurios/Turva Lucidez
 artist: Ars Diavoli
 categories:
 - Vinyl
-date: '2023-07-27T05:52:03'
+date: '2023-09-24T05:53:01'
 draft: false
 images:
 - /images/covers/ars_diavoli-murmurios-turva_lucidez.jpg

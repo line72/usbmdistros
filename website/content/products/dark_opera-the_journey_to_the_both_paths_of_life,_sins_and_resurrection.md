@@ -4,7 +4,7 @@ album: The Journey To The Both Paths Of Life, Sins And Resurrection
 artist: Dark Opera
 categories:
 - CD
-date: '2023-07-27T05:53:19'
+date: '2023-09-24T05:54:28'
 draft: false
 images:
 - /images/covers/dark_opera-the_journey_to_the_both_paths_of_life,_sins_and_resurrection.jpg

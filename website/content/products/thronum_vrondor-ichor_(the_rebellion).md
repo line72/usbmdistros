@@ -5,7 +5,7 @@ artist: THRONUM VRONDOR
 categories:
 - Vinyl
 - CD
-date: '2023-07-27T05:55:41'
+date: '2023-09-24T05:56:51'
 draft: false
 images:
 - /images/covers/thronum_vrondor-ichor_(the_rebellion).png

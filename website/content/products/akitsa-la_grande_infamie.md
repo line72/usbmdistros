@@ -4,7 +4,7 @@ album: La Grande Infamie
 artist: Akitsa
 categories:
 - Vinyl
-date: '2023-07-27T05:47:30'
+date: '2023-09-24T05:48:17'
 draft: false
 images:
 - /images/covers/akitsa-la_grande_infamie.jpg

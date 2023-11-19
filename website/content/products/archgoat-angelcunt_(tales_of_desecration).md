@@ -4,7 +4,7 @@ album: Angelcunt (Tales of Desecration)
 artist: Archgoat
 categories:
 - Vinyl
-date: '2023-07-27T05:47:38'
+date: '2023-09-24T05:48:25'
 draft: false
 images:
 - /images/covers/archgoat-angelcunt_(tales_of_desecration).jpg

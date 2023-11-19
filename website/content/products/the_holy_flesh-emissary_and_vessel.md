@@ -4,7 +4,7 @@ album: Emissary and Vessel
 artist: The Holy Flesh
 categories:
 - Vinyl
-date: '2023-07-27T05:51:24'
+date: '2023-09-24T05:52:17'
 draft: false
 images:
 - /images/covers/the_holy_flesh-emissary_and_vessel.jpg

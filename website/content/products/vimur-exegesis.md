@@ -4,7 +4,7 @@ album: Exegesis
 artist: Vimur
 categories:
 - Vinyl
-date: '2023-09-07T07:40:54'
+date: '2023-09-24T05:52:41'
 draft: false
 images:
 - /images/covers/vimur-exegesis.jpg

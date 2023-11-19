@@ -5,7 +5,7 @@ artist: Eternal Sword
 categories:
 - Cassette
 - CD
-date: '2023-08-25T08:19:11'
+date: '2023-09-24T05:54:45'
 draft: false
 images:
 - /images/covers/eternal_sword-the_cursed_land.jpg

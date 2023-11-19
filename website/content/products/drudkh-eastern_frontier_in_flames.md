@@ -4,7 +4,7 @@ album: Eastern Frontier in Flames
 artist: Drudkh
 categories:
 - Vinyl
-date: '2023-07-29T06:02:00'
+date: '2023-09-24T05:49:31'
 draft: false
 images:
 - /images/covers/drudkh-eastern_frontier_in_flames.jpg

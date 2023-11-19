@@ -1,10 +1,11 @@
 ---
-actualPrice: $18.00
+actualPrice: $12.00 - 18.00
 album: Schism Perpetration
 artist: Antichrist Siege Machine
 categories:
 - Vinyl
-date: '2021-07-11T20:52:28'
+- Cassette
+date: '2023-10-27T09:46:44'
 draft: false
 images:
 - /images/covers/antichrist_siege_machine-schism_perpetration.png
@@ -15,3 +16,5 @@ title: Antichrist Siege Machine - Schism Perpetration
 
 ## Vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/antichrist-siege-machine-schism-perpetration) for $18.00 :: Black 1st press vinyl
+## Cassette
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=42633&sort=pd.name&order=ASC) for $12.00

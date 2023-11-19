@@ -1,12 +1,12 @@
 ---
-actualPrice: $10.00 - 23.00
+actualPrice: $10.00 - 25.00
 album: "Ofte Jeg Dr\xF8mmer Mig D\xF8d"
 artist: Afsky
 categories:
 - Vinyl
 - Cassette
 - CD
-date: '2023-07-19T08:40:56'
+date: '2023-11-19T09:04:27'
 draft: false
 images:
 - "/images/covers/afsky-ofte_jeg_dr\xF8mmer_mig_d\xF8d.jpg"
@@ -21,6 +21,7 @@ title: "Afsky - Ofte Jeg Dr\xF8mmer Mig D\xF8d"
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/afsky-ofte-jeg-drommer-mig-dod-lp-1) for $20.00 :: Clear/Black Marbled 2022 press vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/afsky-ofte-jeg-drommer-mig-dod-lp) for $20.00 :: Clear/Black Marbled 2022 press vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/afsky-ofte-jeg-drommer-mig-dod-lp) for $23.00 :: Clear/Black Marbled 2022 press vinyl
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/afsky-ofte-jeg-drommer-mig-dod-lp-1) for $25.00 :: Clear/Black Marbled 2023 press
 ## Cassette
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=27640&sort=pd.name&order=ASC) for $10.00
 ## CD

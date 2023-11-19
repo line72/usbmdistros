@@ -4,7 +4,7 @@ album: Omen of Destruction
 artist: Sabbatical Rites
 categories:
 - Cassette
-date: '2023-07-27T05:57:34'
+date: '2023-09-24T05:58:48'
 draft: false
 images:
 - /images/covers/sabbatical_rites-omen_of_destruction.jpg

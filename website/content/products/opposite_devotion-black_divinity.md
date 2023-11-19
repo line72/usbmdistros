@@ -4,7 +4,7 @@ album: Black Divinity
 artist: Opposite Devotion
 categories:
 - Cassette
-date: '2023-07-27T05:57:23'
+date: '2023-09-24T05:58:38'
 draft: false
 images:
 - /images/covers/opposite_devotion-black_divinity.png

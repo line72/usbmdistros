@@ -4,7 +4,7 @@ album: Oh, to be Forgotten
 artist: Anonymous Skull
 categories:
 - CD
-date: '2023-08-09T07:33:46'
+date: '2023-09-24T05:54:01'
 draft: false
 images:
 - /images/covers/anonymous_skull-oh,_to_be_forgotten.jpg

@@ -4,7 +4,7 @@ album: Gersey Deoful
 artist: Gersey Deoful
 categories:
 - Cassette
-date: '2023-08-18T08:06:11'
+date: '2023-09-24T05:58:07'
 draft: false
 images:
 - /images/covers/gersey_deoful-gersey_deoful.jpg

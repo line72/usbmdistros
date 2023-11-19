@@ -1,10 +1,10 @@
 ---
-actualPrice: $25.00
+actualPrice: $25.00 - 30.00
 album: Ultima Thulee
 artist: Blut Aus Nord
 categories:
 - Vinyl
-date: '2023-07-27T05:48:05'
+date: '2023-11-19T09:03:27'
 draft: false
 images:
 - /images/covers/blut_aus_nord-ultima_thulee.jpg
@@ -19,3 +19,4 @@ title: Blut Aus Nord - Ultima Thulee
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=30508&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=33192&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=35905&sort=pd.name&order=ASC) for $25.00
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/blut-aus-nord-ultima-thulee) for $30.00 :: Black 2022 press vinyl

@@ -5,7 +5,7 @@ artist: Cultes Des Ghoules
 categories:
 - Vinyl
 - CD
-date: '2023-07-27T05:53:17'
+date: '2023-09-24T05:54:27'
 draft: false
 images:
 - /images/covers/cultes_des_ghoules-deeds_without_a_name.jpg

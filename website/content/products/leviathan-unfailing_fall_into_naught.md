@@ -4,7 +4,7 @@ album: Unfailing Fall into Naught
 artist: Leviathan
 categories:
 - Vinyl
-date: '2023-07-27T05:49:42'
+date: '2023-09-24T05:50:32'
 draft: false
 images:
 - /images/covers/leviathan-unfailing_fall_into_naught.jpg

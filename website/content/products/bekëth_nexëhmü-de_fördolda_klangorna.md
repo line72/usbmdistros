@@ -5,7 +5,7 @@ artist: "Bek\xEBth Nex\xEBhm\xFC"
 categories:
 - Vinyl
 - CD
-date: '2023-07-27T05:53:01'
+date: '2023-11-02T08:09:42'
 draft: false
 images:
 - "/images/covers/bek\xEBth_nex\xEBhm\xFC-de_f\xF6rdolda_klangorna.png"
@@ -32,5 +32,8 @@ title: "Bek\xEBth Nex\xEBhm\xFC - De F\xF6rdolda Klangorna"
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=32608&sort=pd.name&order=ASC) for $45.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=33720&sort=pd.name&order=ASC) for $45.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=34402&sort=pd.name&order=ASC) for $45.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=40439&sort=pd.name&order=ASC) for $45.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=42906&sort=pd.name&order=ASC) for $45.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=32610&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=42907&sort=pd.name&order=ASC) for $20.00

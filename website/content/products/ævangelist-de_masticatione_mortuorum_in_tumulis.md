@@ -4,7 +4,7 @@ album: De Masticatione Mortuorum in Tumulis
 artist: "\xC6vangelist"
 categories:
 - Vinyl
-date: '2023-09-20T07:24:00'
+date: '2023-09-24T05:52:57'
 draft: false
 images:
 - "/images/covers/\xE6vangelist-de_masticatione_mortuorum_in_tumulis.jpg"

@@ -4,7 +4,7 @@ album: Autumn Rehearsal MMXX
 artist: Depressive Rites
 categories:
 - Vinyl
-date: '2023-07-27T05:48:35'
+date: '2023-09-24T05:49:22'
 draft: false
 images:
 - /images/covers/depressive_rites-autumn_rehearsal_mmxx.jpg

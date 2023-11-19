@@ -4,7 +4,7 @@ album: Deadborn Spirit Limbus Infantum
 artist: Strandhogg
 categories:
 - Vinyl
-date: '2023-07-27T05:52:37'
+date: '2023-09-24T05:53:44'
 draft: false
 images:
 - /images/covers/strandhogg-deadborn_spirit_limbus_infantum.jpg

@@ -4,7 +4,7 @@ album: Of Solitude Triumphant
 artist: The Temple
 categories:
 - Vinyl
-date: '2023-07-27T05:51:26'
+date: '2023-09-24T05:52:19'
 draft: false
 images:
 - /images/covers/the_temple-of_solitude_triumphant.jpg

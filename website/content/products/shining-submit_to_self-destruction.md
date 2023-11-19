@@ -4,7 +4,7 @@ album: Submit to Self-Destruction
 artist: Shining
 categories:
 - Vinyl
-date: '2023-07-27T05:52:35'
+date: '2023-09-24T05:53:42'
 draft: false
 images:
 - /images/covers/shining-submit_to_self-destruction.jpg

@@ -6,7 +6,7 @@ categories:
 - Vinyl
 - Cassette
 - CD
-date: '2023-08-15T05:21:02'
+date: '2023-09-24T05:55:39'
 draft: false
 images:
 - /images/covers/malleus-storm_of_witchcraft.jpg

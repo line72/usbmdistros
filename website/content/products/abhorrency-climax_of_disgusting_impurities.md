@@ -5,7 +5,7 @@ artist: Abhorrency
 categories:
 - Cassette
 - CD
-date: '2023-07-27T05:52:45'
+date: '2023-10-27T09:45:12'
 draft: false
 images:
 - /images/covers/abhorrency-climax_of_disgusting_impurities.jpg
@@ -16,6 +16,8 @@ title: Abhorrency - Climax of Disgusting Impurities
 
 ## Cassette
 * Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/36061033-abhorrency-climax-of-disgusting-impurities) for $9.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=42634&sort=pd.name&order=ASC) for $12.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=26135&sort=pd.name&order=ASC) for $12.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=35565&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=40818&sort=pd.name&order=ASC) for $12.00

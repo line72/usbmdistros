@@ -4,7 +4,7 @@ album: Vritra
 artist: Witchrist
 categories:
 - Vinyl
-date: '2023-08-27T07:07:21'
+date: '2023-09-24T05:52:52'
 draft: false
 images:
 - /images/covers/witchrist-vritra.jpg

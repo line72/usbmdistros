@@ -4,7 +4,7 @@ album: Transparent Vibrant Shadows
 artist: Haeiresis
 categories:
 - CD
-date: '2023-07-27T05:53:56'
+date: '2023-09-24T05:55:03'
 draft: false
 images:
 - /images/covers/haeiresis-transparent_vibrant_shadows.jpg

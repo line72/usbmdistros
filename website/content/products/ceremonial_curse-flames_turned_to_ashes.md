@@ -5,7 +5,7 @@ artist: Ceremonial Curse
 categories:
 - Vinyl
 - Cassette
-date: '2023-09-07T05:59:29'
+date: '2023-09-24T05:57:45'
 draft: false
 images:
 - /images/covers/ceremonial_curse-flames_turned_to_ashes.jpg

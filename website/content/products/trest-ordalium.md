@@ -5,7 +5,7 @@ artist: Trest
 categories:
 - Vinyl
 - Cassette
-date: '2023-07-27T05:51:31'
+date: '2023-09-28T08:48:56'
 draft: false
 images:
 - /images/covers/trest-ordalium.jpg
@@ -16,6 +16,7 @@ title: Trest - Ordalium
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=20611&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=40531&sort=pd.name&order=ASC) for $25.00
 ## Cassette
 * Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/28121757-trest-ordalium-cal-130) for $3.50
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/used-trest-ordalium-cassette) for $10.00 :: Cassette Tape 2019

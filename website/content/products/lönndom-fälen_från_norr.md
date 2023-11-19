@@ -4,7 +4,7 @@ album: "F\xE4len Fr\xE5n Norr"
 artist: "L\xF6nndom"
 categories:
 - CD
-date: '2023-07-27T05:54:25'
+date: '2023-09-24T05:55:33'
 draft: false
 images:
 - "/images/covers/l\xF6nndom-f\xE4len_fr\xE5n_norr.jpg"

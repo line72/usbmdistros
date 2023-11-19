@@ -1,0 +1,18 @@
+---
+actualPrice: $25.00
+album: Blood of the Ancients
+artist: Drowning The Light
+categories:
+- Vinyl
+date: '2023-11-03T06:14:15'
+draft: false
+images:
+- /images/covers/drowning_the_light-blood_of_the_ancients.png
+inStock: true
+thumbnailImage: /images/covers/drowning_the_light-blood_of_the_ancients-thumb.png
+title: Drowning The Light - Blood of the Ancients
+---
+
+## Vinyl
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=42566&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=42943&sort=pd.name&order=ASC) for $25.00

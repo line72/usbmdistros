@@ -4,7 +4,7 @@ album: Manifest MMXIX
 artist: Lifvsleda
 categories:
 - CD
-date: '2023-07-27T05:54:25'
+date: '2023-09-24T05:55:33'
 draft: false
 images:
 - /images/covers/lifvsleda-manifest_mmxix.jpg

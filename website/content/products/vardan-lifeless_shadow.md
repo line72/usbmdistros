@@ -4,7 +4,7 @@ album: Lifeless Shadow
 artist: Vardan
 categories:
 - Vinyl
-date: '2023-07-27T05:51:39'
+date: '2023-09-24T05:52:35'
 draft: false
 images:
 - /images/covers/vardan-lifeless_shadow.jpg

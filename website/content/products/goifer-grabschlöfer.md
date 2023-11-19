@@ -4,7 +4,7 @@ album: "Grabschl\xF6fer"
 artist: Goifer
 categories:
 - Cassette
-date: '2023-08-05T08:15:12'
+date: '2023-09-24T05:58:08'
 draft: false
 images:
 - "/images/covers/goifer-grabschl\xF6fer.jpg"

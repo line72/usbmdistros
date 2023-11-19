@@ -4,7 +4,7 @@ album: Where the Light Dies
 artist: Pestilentia
 categories:
 - Vinyl
-date: '2023-09-10T06:52:33'
+date: '2023-09-24T05:51:29'
 draft: false
 images:
 - /images/covers/pestilentia-where_the_light_dies.jpg

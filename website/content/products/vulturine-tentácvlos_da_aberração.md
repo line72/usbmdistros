@@ -4,7 +4,7 @@ album: "Tent\xE1cvlos Da Aberra\xE7\xE3o"
 artist: Vulturine
 categories:
 - CD
-date: '2023-07-27T05:55:57'
+date: '2023-09-24T05:57:08'
 draft: false
 images:
 - "/images/covers/vulturine-tent\xE1cvlos_da_aberra\xE7\xE3o.png"

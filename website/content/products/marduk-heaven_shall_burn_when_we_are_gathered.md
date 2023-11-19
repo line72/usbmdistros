@@ -1,0 +1,17 @@
+---
+actualPrice: $25.99
+album: Heaven Shall Burn When We Are Gathered
+artist: Marduk
+categories:
+- Vinyl
+date: '2023-11-19T16:32:01'
+draft: false
+images:
+- /images/covers/marduk-heaven_shall_burn_when_we_are_gathered.png
+inStock: true
+thumbnailImage: /images/covers/marduk-heaven_shall_burn_when_we_are_gathered-thumb.png
+title: Marduk - Heaven Shall Burn When We Are Gathered
+---
+
+## Vinyl
+* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/marduk-heaven-shall-burn-when-we-are-gathered-cloudy-vinyl-lp) for $25.99 :: Magenta Cloudy Vinyl LP

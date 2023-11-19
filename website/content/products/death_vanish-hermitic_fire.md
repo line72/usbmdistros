@@ -5,7 +5,7 @@ artist: Death Vanish
 categories:
 - Vinyl
 - Cassette
-date: '2023-09-09T06:16:44'
+date: '2023-09-24T05:49:19'
 draft: false
 images:
 - /images/covers/death_vanish-hermitic_fire.jpg

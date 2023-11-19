@@ -4,7 +4,7 @@ album: Massive Terrestrial Strike
 artist: Urgehal
 categories:
 - Vinyl
-date: '2023-07-27T05:51:35'
+date: '2023-09-24T05:52:32'
 draft: false
 images:
 - /images/covers/urgehal-massive_terrestrial_strike.jpg

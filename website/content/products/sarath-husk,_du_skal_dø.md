@@ -4,7 +4,7 @@ album: "Husk, Du Skal D\xF8"
 artist: Sarath
 categories:
 - Vinyl
-date: '2023-08-17T07:40:13'
+date: '2023-09-24T05:53:40'
 draft: false
 images:
 - "/images/covers/sarath-husk,_du_skal_d\xF8.jpg"

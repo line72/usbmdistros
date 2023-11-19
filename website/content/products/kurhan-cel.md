@@ -4,7 +4,7 @@ album: Cel
 artist: Kurhan
 categories:
 - Cassette
-date: '2023-07-27T05:57:06'
+date: '2023-09-24T05:58:21'
 draft: false
 images:
 - /images/covers/kurhan-cel.png

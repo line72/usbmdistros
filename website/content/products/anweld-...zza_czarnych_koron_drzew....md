@@ -4,7 +4,7 @@ album: '...Zza Czarnych Koron Drzew...'
 artist: Anweld
 categories:
 - CD
-date: '2023-07-27T05:52:53'
+date: '2023-09-24T05:54:01'
 draft: false
 images:
 - /images/covers/anweld-...zza_czarnych_koron_drzew....jpg

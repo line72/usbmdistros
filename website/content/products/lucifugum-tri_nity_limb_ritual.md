@@ -4,7 +4,7 @@ album: Tri Nity Limb Ritual
 artist: Lucifugum
 categories:
 - CD
-date: '2023-07-27T05:54:27'
+date: '2023-09-24T05:55:35'
 draft: false
 images:
 - /images/covers/lucifugum-tri_nity_limb_ritual.jpg

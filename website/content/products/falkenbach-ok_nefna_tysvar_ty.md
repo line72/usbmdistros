@@ -4,7 +4,7 @@ album: Ok Nefna Tysvar Ty
 artist: Falkenbach
 categories:
 - Vinyl
-date: '2023-07-27T05:48:52'
+date: '2023-09-24T05:49:40'
 draft: false
 images:
 - /images/covers/falkenbach-ok_nefna_tysvar_ty.jpg

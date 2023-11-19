@@ -4,7 +4,7 @@ album: Promo Advance 2012
 artist: "Segregaci\xF3n Primordial"
 categories:
 - Cassette
-date: '2023-07-27T05:57:36'
+date: '2023-09-24T05:58:51'
 draft: false
 images:
 - "/images/covers/segregaci\xF3n_primordial-promo_advance_2012.jpg"

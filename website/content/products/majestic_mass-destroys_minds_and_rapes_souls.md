@@ -6,7 +6,7 @@ categories:
 - Vinyl
 - Cassette
 - CD
-date: '2023-08-21T07:49:45'
+date: '2023-09-24T05:58:25'
 draft: false
 images:
 - /images/covers/majestic_mass-destroys_minds_and_rapes_souls.jpg

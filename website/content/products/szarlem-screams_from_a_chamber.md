@@ -4,7 +4,7 @@ album: Screams from a Chamber
 artist: Szarlem
 categories:
 - Vinyl
-date: '2023-07-27T05:52:38'
+date: '2023-09-24T05:53:45'
 draft: false
 images:
 - /images/covers/szarlem-screams_from_a_chamber.jpg

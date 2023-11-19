@@ -5,7 +5,7 @@ artist: Blackdeath
 categories:
 - Vinyl
 - CD
-date: '2023-09-11T06:06:17'
+date: '2023-09-24T05:54:14'
 draft: false
 images:
 - /images/covers/blackdeath-phobos.jpg

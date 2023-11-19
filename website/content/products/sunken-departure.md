@@ -1,11 +1,11 @@
 ---
-actualPrice: $10.00 - 12.00
+actualPrice: $10.00 - 13.00
 album: Departure
 artist: Sunken
 categories:
 - Cassette
 - CD
-date: '2023-07-19T08:40:58'
+date: '2023-11-19T09:04:24'
 draft: false
 images:
 - /images/covers/sunken-departure.png
@@ -21,3 +21,4 @@ title: Sunken - Departure
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/sunken-departure-cd) for $10.00 :: CD 2021
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/sunken-departure-cd-1) for $12.00 :: CD 2021
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/sunken-departure-cd) for $12.00 :: CD 2021
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/sunken-departure-cd-1) for $13.00 :: CD 2021

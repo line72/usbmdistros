@@ -4,7 +4,7 @@ album: Samblade Sotkvaeden
 artist: Tomhet
 categories:
 - CD
-date: '2023-07-27T05:55:42'
+date: '2023-11-10T20:28:13'
 draft: false
 images:
 - /images/covers/tomhet-samblade_sotkvaeden.jpg
@@ -17,3 +17,4 @@ title: Tomhet - Samblade Sotkvaeden
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=18214&sort=pd.name&order=ASC) for $20.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=19129&sort=pd.name&order=ASC) for $14.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=31525&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=43249&sort=pd.name&order=ASC) for $20.00

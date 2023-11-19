@@ -5,7 +5,7 @@ artist: "H\xE4xanu"
 categories:
 - Vinyl
 - CD
-date: '2023-07-27T05:53:59'
+date: '2023-09-24T05:55:06'
 draft: false
 images:
 - "/images/covers/h\xE4xanu-totenpass.jpg"

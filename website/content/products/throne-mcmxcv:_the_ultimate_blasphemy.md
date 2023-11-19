@@ -4,7 +4,7 @@ album: 'MCMXCV: The Ultimate Blasphemy'
 artist: Throne
 categories:
 - Vinyl
-date: '2023-07-27T05:51:28'
+date: '2023-09-24T05:52:21'
 draft: false
 images:
 - /images/covers/throne-mcmxcv:_the_ultimate_blasphemy.jpg

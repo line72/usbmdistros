@@ -4,7 +4,7 @@ album: Homo Homini Deus
 artist: Animus
 categories:
 - Vinyl
-date: '2023-07-27T05:52:03'
+date: '2023-09-24T05:53:01'
 draft: false
 images:
 - /images/covers/animus-homo_homini_deus.jpg

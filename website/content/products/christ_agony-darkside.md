@@ -5,7 +5,7 @@ artist: Christ Agony
 categories:
 - Vinyl
 - CD
-date: '2023-09-14T07:24:19'
+date: '2023-10-09T08:14:09'
 draft: false
 images:
 - /images/covers/christ_agony-darkside.jpg
@@ -26,3 +26,5 @@ title: Christ Agony - Darkside
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=24888&sort=pd.name&order=ASC) for $15.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=39861&sort=pd.name&order=ASC) for $10.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=39862&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=41570&sort=pd.name&order=ASC) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=41571&sort=pd.name&order=ASC) for $15.00

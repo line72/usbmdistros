@@ -1,10 +1,10 @@
 ---
-actualPrice: $50.00
+actualPrice: $40.00
 album: I Shall Become
 artist: Castrum Doloris
 categories:
 - Vinyl
-date: '2023-07-27T05:52:08'
+date: '2023-09-23T05:55:08'
 draft: false
 images:
 - /images/covers/castrum_doloris-i_shall_become.jpg
@@ -14,4 +14,4 @@ title: Castrum Doloris - I Shall Become
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=23677&sort=pd.name&order=ASC) for $50.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=23677&sort=pd.name&order=ASC) for $40.00

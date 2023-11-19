@@ -4,7 +4,7 @@ album: Svart Materia
 artist: Grifteskymfning
 categories:
 - Vinyl
-date: '2023-09-19T06:39:58'
+date: '2023-09-24T05:49:58'
 draft: false
 images:
 - /images/covers/grifteskymfning-svart_materia.jpg

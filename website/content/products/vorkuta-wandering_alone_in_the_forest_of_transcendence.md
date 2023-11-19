@@ -4,7 +4,7 @@ album: Wandering Alone In The Forest Of Transcendence
 artist: Vorkuta
 categories:
 - Vinyl
-date: '2023-07-27T05:52:43'
+date: '2023-09-24T05:53:50'
 draft: false
 images:
 - /images/covers/vorkuta-wandering_alone_in_the_forest_of_transcendence.jpg

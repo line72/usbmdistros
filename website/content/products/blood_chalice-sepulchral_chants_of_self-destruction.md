@@ -5,7 +5,7 @@ artist: Blood Chalice
 categories:
 - Vinyl
 - CD
-date: '2023-08-21T07:32:58'
+date: '2023-09-24T05:54:15'
 draft: false
 images:
 - /images/covers/blood_chalice-sepulchral_chants_of_self-destruction.jpg

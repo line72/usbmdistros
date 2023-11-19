@@ -5,7 +5,7 @@ artist: Grifteskymfning
 categories:
 - Vinyl
 - CD
-date: '2023-09-19T06:39:57'
+date: '2023-09-24T05:49:57'
 draft: false
 images:
 - /images/covers/grifteskymfning-likpsalm.jpg

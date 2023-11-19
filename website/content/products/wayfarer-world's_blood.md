@@ -4,7 +4,7 @@ album: World's Blood
 artist: Wayfarer
 categories:
 - Vinyl
-date: '2023-08-24T17:04:02'
+date: '2023-11-19T09:04:42'
 draft: false
 images:
 - /images/covers/wayfarer-world's_blood.jpg
@@ -20,3 +20,4 @@ title: Wayfarer - World's Blood
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=22446&sort=pd.name&order=ASC) for $30.00
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/wayfarer-worlds-blood-lp-1) for $23.00 :: Tri-stripe 2021 press vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/wayfarer-worlds-blood-lp) for $25.00 :: Color 2023 press vinyl
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/wayfarer-worlds-blood-lp) for $27.00 :: Color 2023 press vinyl

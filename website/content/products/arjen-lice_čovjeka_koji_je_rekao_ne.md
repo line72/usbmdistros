@@ -4,7 +4,7 @@ album: "Lice \u010Dovjeka koji je rekao Ne"
 artist: Arjen
 categories:
 - CD
-date: '2023-08-09T07:34:25'
+date: '2023-09-24T05:54:04'
 draft: false
 images:
 - "/images/covers/arjen-lice_\u010Dovjeka_koji_je_rekao_ne.jpg"

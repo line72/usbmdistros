@@ -4,7 +4,7 @@ album: Fear Rides A Shadow
 artist: Feral Light
 categories:
 - Vinyl
-date: '2023-07-27T05:48:53'
+date: '2023-09-24T05:49:41'
 draft: false
 images:
 - /images/covers/feral_light-fear_rides_a_shadow.jpg

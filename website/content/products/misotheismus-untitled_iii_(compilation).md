@@ -4,7 +4,7 @@ album: Untitled III (Compilation)
 artist: Misotheismus
 categories:
 - Vinyl
-date: '2023-08-18T06:39:36'
+date: '2023-09-24T05:50:54'
 draft: false
 images:
 - /images/covers/misotheismus-untitled_iii_(compilation).png

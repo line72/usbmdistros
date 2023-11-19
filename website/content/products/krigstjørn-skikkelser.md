@@ -4,7 +4,7 @@ album: Skikkelser
 artist: "Krigstj\xF8rn"
 categories:
 - Vinyl
-date: '2023-07-27T05:49:39'
+date: '2023-09-24T05:50:28'
 draft: false
 images:
 - "/images/covers/krigstj\xF8rn-skikkelser.jpg"

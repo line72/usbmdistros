@@ -5,7 +5,7 @@ artist: Thanatomass
 categories:
 - Vinyl
 - CD
-date: '2023-09-10T07:04:55'
+date: '2023-09-24T05:52:15'
 draft: false
 images:
 - /images/covers/thanatomass-darkest_conjurations.png

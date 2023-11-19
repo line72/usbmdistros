@@ -5,7 +5,7 @@ artist: Bahratal
 categories:
 - Vinyl
 - Cassette
-date: '2023-07-27T05:56:16'
+date: '2023-09-24T05:57:37'
 draft: false
 images:
 - /images/covers/bahratal-kladivo_intolerance.jpg

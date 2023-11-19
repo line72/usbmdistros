@@ -4,7 +4,7 @@ album: Dawn Of Martyrdom
 artist: Agatus
 categories:
 - Vinyl
-date: '2023-08-22T05:45:42'
+date: '2023-09-24T05:48:16'
 draft: false
 images:
 - /images/covers/agatus-dawn_of_martyrdom.jpg

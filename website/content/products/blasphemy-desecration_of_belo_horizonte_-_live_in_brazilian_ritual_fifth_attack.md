@@ -4,7 +4,7 @@ album: Desecration Of Belo Horizonte - Live In Brazilian Ritual Fifth Attack
 artist: Blasphemy
 categories:
 - Cassette
-date: '2023-07-27T05:56:20'
+date: '2023-09-24T05:57:40'
 draft: false
 images:
 - /images/covers/blasphemy-desecration_of_belo_horizonte_-_live_in_brazilian_ritual_fifth_attack.jpg

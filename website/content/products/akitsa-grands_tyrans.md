@@ -4,7 +4,7 @@ album: Grands Tyrans
 artist: Akitsa
 categories:
 - Vinyl
-date: '2023-08-24T16:55:00'
+date: '2023-09-24T05:48:17'
 draft: false
 images:
 - /images/covers/akitsa-grands_tyrans.jpg

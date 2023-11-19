@@ -1,0 +1,18 @@
+---
+actualPrice: $12.00
+album: Watchers' Reign I
+artist: Antediluvian
+categories:
+- CD
+date: '2023-10-09T08:05:43'
+draft: false
+images:
+- /images/covers/antediluvian-watchers'_reign_i.png
+inStock: true
+thumbnailImage: /images/covers/antediluvian-watchers'_reign_i-thumb.png
+title: Antediluvian - Watchers' Reign I
+---
+
+## CD
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=41273&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=41597&sort=pd.name&order=ASC) for $12.00

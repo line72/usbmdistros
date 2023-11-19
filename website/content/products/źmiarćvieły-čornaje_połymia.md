@@ -4,7 +4,7 @@ album: "\u010Dornaje po\u0142ymia"
 artist: "\u0179miar\u0107vie\u0142y"
 categories:
 - Cassette
-date: '2023-07-27T05:58:02'
+date: '2023-09-24T05:59:18'
 draft: false
 images:
 - "/images/covers/\u017Amiar\u0107vie\u0142y-\u010Dornaje_po\u0142ymia.jpg"

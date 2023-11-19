@@ -5,7 +5,7 @@ artist: Funeral Winds
 categories:
 - Vinyl
 - Cassette
-date: '2023-09-20T05:00:50'
+date: '2023-09-24T05:49:46'
 draft: false
 images:
 - /images/covers/funeral_winds-essence.png

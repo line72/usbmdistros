@@ -5,7 +5,7 @@ artist: Ragnarok
 categories:
 - Vinyl
 - CD
-date: '2023-07-27T05:55:10'
+date: '2023-09-24T05:56:18'
 draft: false
 images:
 - /images/covers/ragnarok-collectors_of_the_king.jpg

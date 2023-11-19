@@ -4,7 +4,7 @@ album: Illuminating Ruin
 artist: Serpentfyre
 categories:
 - Vinyl
-date: '2023-08-14T06:48:23'
+date: '2023-09-24T05:51:57'
 draft: false
 images:
 - /images/covers/serpentfyre-illuminating_ruin.jpg

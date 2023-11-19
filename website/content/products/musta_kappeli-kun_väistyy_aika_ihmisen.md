@@ -4,7 +4,7 @@ album: "Kun V\xE4istyy Aika Ihmisen"
 artist: Musta Kappeli
 categories:
 - Vinyl
-date: '2023-07-27T05:50:11'
+date: '2023-09-24T05:51:01'
 draft: false
 images:
 - "/images/covers/musta_kappeli-kun_v\xE4istyy_aika_ihmisen.jpg"

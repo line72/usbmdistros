@@ -4,7 +4,7 @@ album: Ghastly Demonolatria
 artist: Witchcraft (Fin)
 categories:
 - Cassette
-date: '2023-09-18T09:28:07'
+date: '2023-09-24T05:59:17'
 draft: false
 images:
 - /images/covers/witchcraft_(fin)-ghastly_demonolatria.jpg

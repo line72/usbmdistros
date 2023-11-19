@@ -4,7 +4,7 @@ album: Promo 1999
 artist: Stoermflood
 categories:
 - Vinyl
-date: '2023-07-27T05:51:14'
+date: '2023-09-24T05:52:07'
 draft: false
 images:
 - /images/covers/stoermflood-promo_1999.jpg

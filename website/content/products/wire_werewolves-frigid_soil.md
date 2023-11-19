@@ -4,7 +4,7 @@ album: Frigid Soil
 artist: Wire Werewolves
 categories:
 - Vinyl
-date: '2023-07-27T05:52:44'
+date: '2023-09-24T05:53:52'
 draft: false
 images:
 - /images/covers/wire_werewolves-frigid_soil.jpg

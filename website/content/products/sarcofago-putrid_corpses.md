@@ -4,7 +4,7 @@ album: Putrid Corpses
 artist: Sarcofago
 categories:
 - Vinyl
-date: '2023-08-23T07:20:10'
+date: '2023-09-24T05:53:40'
 draft: false
 images:
 - /images/covers/sarcofago-putrid_corpses.jpg

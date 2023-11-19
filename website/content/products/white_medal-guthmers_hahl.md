@@ -5,7 +5,7 @@ artist: White Medal
 categories:
 - Cassette
 - CD
-date: '2023-07-27T05:56:00'
+date: '2023-09-24T05:57:11'
 draft: false
 images:
 - /images/covers/white_medal-guthmers_hahl.png

@@ -1,10 +1,10 @@
 ---
-actualPrice: $17.00
+actualPrice: $10.00 - 17.00
 album: La Larve Exulte
 artist: "C\xE9notaphe"
 categories:
 - Vinyl
-date: '2023-07-27T05:48:16'
+date: '2023-11-01T05:59:31'
 draft: false
 images:
 - "/images/covers/c\xE9notaphe-la_larve_exulte.jpg"
@@ -20,3 +20,5 @@ title: "C\xE9notaphe - La Larve Exulte"
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=32637&sort=pd.name&order=ASC) for $17.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=32708&sort=pd.name&order=ASC) for $17.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=34787&sort=pd.name&order=ASC) for $17.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=41739&sort=pd.name&order=ASC) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=42864&sort=pd.name&order=ASC) for $10.00

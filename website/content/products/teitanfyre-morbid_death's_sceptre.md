@@ -5,7 +5,7 @@ artist: Teitanfyre
 categories:
 - Vinyl
 - CD
-date: '2023-08-27T06:59:25'
+date: '2023-10-01T07:28:43'
 draft: false
 images:
 - /images/covers/teitanfyre-morbid_death's_sceptre.jpg
@@ -18,5 +18,6 @@ title: Teitanfyre - Morbid Death's Sceptre
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=2009&sort=pd.name&order=ASC) for $17.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=33004&sort=pd.name&order=ASC) for $17.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=38963&sort=pd.name&order=ASC) for $8.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=40656&sort=pd.name&order=ASC) for $8.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=33005&sort=pd.name&order=ASC) for $12.00

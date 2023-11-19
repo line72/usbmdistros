@@ -4,7 +4,7 @@ album: Misanthropic Genius
 artist: Terrorama
 categories:
 - Cassette
-date: '2023-07-27T05:57:45'
+date: '2023-09-24T05:59:01'
 draft: false
 images:
 - /images/covers/terrorama-misanthropic_genius.jpg

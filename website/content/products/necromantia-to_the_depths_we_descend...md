@@ -4,7 +4,7 @@ album: To The Depths We Descend..
 artist: Necromantia
 categories:
 - Vinyl
-date: '2023-07-27T05:50:18'
+date: '2023-09-24T05:51:08'
 draft: false
 images:
 - /images/covers/necromantia-to_the_depths_we_descend...jpg

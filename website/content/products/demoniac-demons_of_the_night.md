@@ -4,7 +4,7 @@ album: Demons Of The Night
 artist: Demoniac
 categories:
 - Vinyl
-date: '2023-08-17T07:33:41'
+date: '2023-09-24T05:53:12'
 draft: false
 images:
 - /images/covers/demoniac-demons_of_the_night.jpg

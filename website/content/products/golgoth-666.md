@@ -4,7 +4,7 @@ album: '666'
 artist: Golgoth
 categories:
 - CD
-date: '2023-07-27T05:53:50'
+date: '2023-09-24T05:54:58'
 draft: false
 images:
 - /images/covers/golgoth-666.jpg

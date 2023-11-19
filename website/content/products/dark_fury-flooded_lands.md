@@ -5,7 +5,8 @@ artist: Dark Fury
 categories:
 - Vinyl
 - Cassette
-date: '2023-05-16T20:20:41'
+- CD
+date: '2023-11-19T08:28:01'
 draft: false
 images:
 - /images/covers/dark_fury-flooded_lands.png
@@ -20,3 +21,5 @@ title: Dark Fury - Flooded Lands
 ## Cassette
 * Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/dark-fury-flooded-lands-cassette/) for $8.00
 * Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/dark-fury-flooded-lands-cassette/) for $10.00
+## CD
+* Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/dark-fury-flooded-lands-cd/) for $11.00

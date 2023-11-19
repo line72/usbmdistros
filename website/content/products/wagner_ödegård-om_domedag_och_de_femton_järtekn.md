@@ -6,7 +6,7 @@ categories:
 - Vinyl
 - Cassette
 - CD
-date: '2023-07-27T05:55:58'
+date: '2023-09-24T05:57:08'
 draft: false
 images:
 - "/images/covers/wagner_\xF6deg\xE5rd-om_domedag_och_de_femton_j\xE4rtekn.jpg"

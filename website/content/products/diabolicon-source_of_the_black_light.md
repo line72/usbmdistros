@@ -4,7 +4,7 @@ album: Source of the Black Light
 artist: Diabolicon
 categories:
 - CD
-date: '2023-07-27T05:53:27'
+date: '2023-09-24T05:54:35'
 draft: false
 images:
 - /images/covers/diabolicon-source_of_the_black_light.jpg

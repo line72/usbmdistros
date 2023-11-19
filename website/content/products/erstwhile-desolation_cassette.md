@@ -4,7 +4,7 @@ album: Desolation Cassette
 artist: Erstwhile
 categories:
 - Cassette
-date: '2023-07-27T05:56:37'
+date: '2023-10-09T09:49:35'
 draft: false
 images:
 - /images/covers/erstwhile-desolation_cassette.jpg
@@ -15,3 +15,4 @@ title: Erstwhile - Desolation Cassette
 
 ## Cassette
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=30815&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=41532&sort=pd.name&order=ASC) for $12.00

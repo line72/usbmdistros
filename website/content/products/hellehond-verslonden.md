@@ -5,7 +5,7 @@ artist: Hellehond
 categories:
 - Vinyl
 - CD
-date: '2023-09-07T06:19:01'
+date: '2023-09-24T05:55:08'
 draft: false
 images:
 - /images/covers/hellehond-verslonden.jpg

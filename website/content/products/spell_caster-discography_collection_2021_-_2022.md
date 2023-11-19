@@ -4,7 +4,7 @@ album: Discography Collection 2021 - 2022
 artist: Spell Caster
 categories:
 - CD
-date: '2023-08-18T07:51:14'
+date: '2023-09-24T05:56:39'
 draft: false
 images:
 - /images/covers/spell_caster-discography_collection_2021_-_2022.jpg

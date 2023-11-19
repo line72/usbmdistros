@@ -4,7 +4,7 @@ album: Witchcraft
 artist: Obtained Enslavement
 categories:
 - Vinyl
-date: '2023-07-27T05:50:28'
+date: '2023-09-24T05:51:19'
 draft: false
 images:
 - /images/covers/obtained_enslavement-witchcraft.jpg

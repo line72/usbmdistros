@@ -5,7 +5,7 @@ artist: Irae
 categories:
 - Vinyl
 - CD
-date: '2023-08-25T08:35:17'
+date: '2023-09-24T05:55:23'
 draft: false
 images:
 - /images/covers/irae-satanic_secrets_from_the_mausoleum.jpg

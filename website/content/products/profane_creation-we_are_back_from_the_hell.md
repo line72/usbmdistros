@@ -4,7 +4,7 @@ album: We Are Back From the Hell
 artist: Profane Creation
 categories:
 - CD
-date: '2023-09-08T08:19:30'
+date: '2023-09-24T05:56:15'
 draft: false
 images:
 - /images/covers/profane_creation-we_are_back_from_the_hell.jpg

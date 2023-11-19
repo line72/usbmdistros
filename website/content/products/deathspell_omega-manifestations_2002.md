@@ -4,7 +4,7 @@ album: Manifestations 2002
 artist: Deathspell Omega
 categories:
 - Vinyl
-date: '2023-08-12T06:02:30'
+date: '2023-09-24T05:49:20'
 draft: false
 images:
 - /images/covers/deathspell_omega-manifestations_2002.jpg

@@ -4,7 +4,7 @@ album: Matka Na Sabacie
 artist: Death Like Mass
 categories:
 - Vinyl
-date: '2023-07-27T05:48:30'
+date: '2023-09-24T05:49:18'
 draft: false
 images:
 - /images/covers/death_like_mass-matka_na_sabacie.jpg

@@ -4,7 +4,7 @@ album: Embittered Amidst the Ashes
 artist: Carved Cross
 categories:
 - Vinyl
-date: '2023-07-27T05:48:13'
+date: '2023-09-24T05:49:00'
 draft: false
 images:
 - /images/covers/carved_cross-embittered_amidst_the_ashes.jpg

@@ -4,7 +4,7 @@ album: Apocalypse Initiatrix
 artist: Archaic Malign
 categories:
 - Cassette
-date: '2023-07-27T05:56:13'
+date: '2023-09-24T05:57:31'
 draft: false
 images:
 - /images/covers/archaic_malign-apocalypse_initiatrix.jpg

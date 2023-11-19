@@ -4,7 +4,7 @@ album: Winterkald
 artist: Branikald
 categories:
 - Vinyl
-date: '2023-09-09T06:08:22'
+date: '2023-10-06T05:05:51'
 draft: false
 images:
 - /images/covers/branikald-winterkald.png
@@ -17,3 +17,4 @@ title: Branikald - Winterkald
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=37971&sort=pd.name&order=ASC) for $35.00
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/branikald-winterkald-12-lp) for $35.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=39615&sort=pd.name&order=ASC) for $35.00
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/branikald-winterkald-12-lp) for $35.00

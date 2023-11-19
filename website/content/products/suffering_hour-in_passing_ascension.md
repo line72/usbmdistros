@@ -5,7 +5,7 @@ artist: Suffering Hour
 categories:
 - Vinyl
 - CD
-date: '2023-07-27T05:55:33'
+date: '2023-09-24T05:56:42'
 draft: false
 images:
 - /images/covers/suffering_hour-in_passing_ascension.jpg

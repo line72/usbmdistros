@@ -4,7 +4,7 @@ album: "Bef\xE6ngt"
 artist: Hersker
 categories:
 - Cassette
-date: '2023-07-27T05:56:49'
+date: '2023-09-24T05:58:13'
 draft: false
 images:
 - "/images/covers/hersker-bef\xE6ngt.jpg"

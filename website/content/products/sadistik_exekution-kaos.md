@@ -1,10 +1,10 @@
 ---
-actualPrice: $20.00 - 25.00
+actualPrice: $20.00 - 30.00
 album: Kaos
 artist: Sadistik Exekution
 categories:
 - Vinyl
-date: '2023-07-25T06:03:22'
+date: '2023-09-27T07:47:05'
 draft: false
 images:
 - /images/covers/sadistik_exekution-kaos.jpg
@@ -20,3 +20,4 @@ title: Sadistik Exekution - Kaos
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=34302&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=34531&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=37436&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=40418&sort=pd.name&order=ASC) for $30.00

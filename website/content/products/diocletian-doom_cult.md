@@ -1,10 +1,10 @@
 ---
-actualPrice: $10.00
+actualPrice: $10.00 - 12.00
 album: Doom Cult
 artist: Diocletian
 categories:
 - CD
-date: '2023-07-27T05:53:27'
+date: '2023-10-09T08:19:19'
 draft: false
 images:
 - /images/covers/diocletian-doom_cult.jpg
@@ -15,3 +15,5 @@ title: Diocletian - Doom Cult
 
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=12564&sort=pd.name&order=ASC) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=41250&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=41601&sort=pd.name&order=ASC) for $12.00

@@ -4,7 +4,7 @@ album: Vesanie
 artist: Azziard
 categories:
 - CD
-date: '2023-07-27T05:52:57'
+date: '2023-09-24T05:54:07'
 draft: false
 images:
 - /images/covers/azziard-vesanie.jpg

@@ -4,7 +4,7 @@ album: Supreme Command of Satanic Will
 artist: Trajeto de Cabra
 categories:
 - Vinyl
-date: '2023-08-28T07:22:38'
+date: '2023-09-24T05:52:24'
 draft: false
 images:
 - /images/covers/trajeto_de_cabra-supreme_command_of_satanic_will.jpg

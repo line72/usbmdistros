@@ -4,7 +4,7 @@ album: The Voice of Withered Stone
 artist: Helgafell
 categories:
 - CD
-date: '2023-07-27T05:53:59'
+date: '2023-09-24T05:55:07'
 draft: false
 images:
 - /images/covers/helgafell-the_voice_of_withered_stone.jpg

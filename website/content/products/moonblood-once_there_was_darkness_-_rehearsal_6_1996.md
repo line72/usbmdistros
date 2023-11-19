@@ -4,7 +4,7 @@ album: Once There Was Darkness - Rehearsal 6 1996
 artist: Moonblood
 categories:
 - Vinyl
-date: '2023-07-27T05:50:05'
+date: '2023-09-24T05:50:56'
 draft: false
 images:
 - /images/covers/moonblood-once_there_was_darkness_-_rehearsal_6_1996.jpg

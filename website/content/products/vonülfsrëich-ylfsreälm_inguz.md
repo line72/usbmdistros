@@ -4,7 +4,7 @@ album: "Ylfsre\xE4lm Inguz"
 artist: "Von\xFClfsr\xEBich"
 categories:
 - CD
-date: '2023-07-27T05:55:56'
+date: '2023-09-24T05:57:07'
 draft: false
 images:
 - "/images/covers/von\xFClfsr\xEBich-ylfsre\xE4lm_inguz.png"

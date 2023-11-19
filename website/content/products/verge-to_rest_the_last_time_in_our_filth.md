@@ -4,7 +4,7 @@ album: To Rest The Last Time In Our Filth
 artist: Verge
 categories:
 - CD
-date: '2023-07-27T05:55:53'
+date: '2023-09-24T05:57:03'
 draft: false
 images:
 - /images/covers/verge-to_rest_the_last_time_in_our_filth.jpg

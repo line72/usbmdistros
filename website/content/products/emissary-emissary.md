@@ -4,7 +4,7 @@ album: Emissary
 artist: Emissary
 categories:
 - Vinyl
-date: '2023-09-20T06:22:21'
+date: '2023-09-24T05:49:34'
 draft: false
 images:
 - /images/covers/emissary-emissary.png

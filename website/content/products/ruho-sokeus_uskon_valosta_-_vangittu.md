@@ -4,7 +4,7 @@ album: Sokeus Uskon Valosta / Vangittu
 artist: Ruho
 categories:
 - Vinyl
-date: '2023-08-14T07:08:56'
+date: '2023-09-24T05:53:39'
 draft: false
 images:
 - /images/covers/ruho-sokeus_uskon_valosta_-_vangittu.jpg

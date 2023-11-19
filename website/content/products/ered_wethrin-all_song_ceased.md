@@ -4,7 +4,7 @@ album: All Song Ceased
 artist: Ered Wethrin
 categories:
 - CD
-date: '2023-08-25T08:18:52'
+date: '2023-09-24T05:54:44'
 draft: false
 images:
 - /images/covers/ered_wethrin-all_song_ceased.jpg

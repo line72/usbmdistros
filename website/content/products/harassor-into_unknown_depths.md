@@ -4,7 +4,7 @@ album: Into Unknown Depths
 artist: Harassor
 categories:
 - Vinyl
-date: '2023-09-04T06:13:28'
+date: '2023-09-24T05:50:00'
 draft: false
 images:
 - /images/covers/harassor-into_unknown_depths.jpg

@@ -1,10 +1,10 @@
 ---
-actualPrice: $30.00
+actualPrice: $38.00
 album: Wode LP +
 artist: Wode
 categories:
 - Vinyl
-date: '2022-08-02T13:18:06'
+date: '2023-11-19T09:03:45'
 draft: false
 images:
 - /images/covers/wode-wode_lp_+.png
@@ -14,4 +14,4 @@ title: Wode - Wode LP +
 ---
 
 ## Vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/wode-wode-lp-cd) for $30.00 :: LP + CD
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/wode-wode-lp-cd) for $38.00 :: LP + CD

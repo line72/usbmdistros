@@ -4,7 +4,7 @@ album: Conquering Purity
 artist: Black Flame
 categories:
 - Vinyl
-date: '2023-07-27T05:47:58'
+date: '2023-09-24T05:48:43'
 draft: false
 images:
 - /images/covers/black_flame-conquering_purity.jpg

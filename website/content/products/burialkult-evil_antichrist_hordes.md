@@ -4,7 +4,7 @@ album: Evil Antichrist Hordes
 artist: Burialkult
 categories:
 - Vinyl
-date: '2023-07-27T05:52:07'
+date: '2023-09-24T05:53:07'
 draft: false
 images:
 - /images/covers/burialkult-evil_antichrist_hordes.jpg

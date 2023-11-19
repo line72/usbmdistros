@@ -4,7 +4,7 @@ album: Vorgusized
 artist: Vorgus
 categories:
 - CD
-date: '2023-07-27T05:55:57'
+date: '2023-09-24T05:57:07'
 draft: false
 images:
 - /images/covers/vorgus-vorgusized.png

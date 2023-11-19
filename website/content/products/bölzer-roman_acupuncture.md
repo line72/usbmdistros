@@ -5,7 +5,7 @@ artist: "B\xF6lzer"
 categories:
 - Vinyl
 - CD
-date: '2023-08-10T05:54:32'
+date: '2023-09-24T05:48:51'
 draft: false
 images:
 - "/images/covers/b\xF6lzer-roman_acupuncture.jpg"

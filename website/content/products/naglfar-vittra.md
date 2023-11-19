@@ -4,7 +4,7 @@ album: Vittra
 artist: Naglfar
 categories:
 - Vinyl
-date: '2023-09-18T06:42:00'
+date: '2023-09-24T05:51:06'
 draft: false
 images:
 - /images/covers/naglfar-vittra.jpg

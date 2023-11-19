@@ -5,7 +5,7 @@ artist: Valhalla Bound
 categories:
 - Vinyl
 - CD
-date: '2023-07-27T05:55:51'
+date: '2023-09-24T05:57:02'
 draft: false
 images:
 - /images/covers/valhalla_bound-virgin_hearts.jpg

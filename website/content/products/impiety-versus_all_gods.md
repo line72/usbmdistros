@@ -5,7 +5,7 @@ artist: Impiety
 categories:
 - Vinyl
 - Cassette
-date: '2023-07-27T05:56:51'
+date: '2023-09-24T05:58:16'
 draft: false
 images:
 - /images/covers/impiety-versus_all_gods.jpg

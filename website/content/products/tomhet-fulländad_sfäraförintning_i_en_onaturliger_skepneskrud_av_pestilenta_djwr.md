@@ -6,7 +6,7 @@ artist: Tomhet
 categories:
 - Vinyl
 - CD
-date: '2022-11-30T06:10:46'
+date: '2023-11-10T20:28:12'
 draft: false
 images:
 - "/images/covers/tomhet-full\xE4ndad_sf\xE4raf\xF6rintning_i_en_onaturliger_skepneskrud_av_pestilenta_djwr.png"
@@ -20,3 +20,4 @@ title: "Tomhet - Full\xE4ndad Sf\xE4raf\xF6rintning I En Onaturliger Skepneskrud
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=19128&sort=pd.name&order=ASC) for $25.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=5804&sort=pd.name&order=ASC) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=31543&sort=pd.name&order=ASC) for $15.00

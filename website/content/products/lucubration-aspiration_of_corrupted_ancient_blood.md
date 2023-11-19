@@ -4,7 +4,7 @@ album: Aspiration Of Corrupted Ancient Blood
 artist: Lucubration
 categories:
 - Cassette
-date: '2023-07-27T05:57:08'
+date: '2023-09-24T05:58:24'
 draft: false
 images:
 - /images/covers/lucubration-aspiration_of_corrupted_ancient_blood.jpg

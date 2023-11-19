@@ -5,7 +5,7 @@ artist: Inquisition
 categories:
 - Vinyl
 - CD
-date: '2023-07-27T05:54:13'
+date: '2023-10-23T08:42:10'
 draft: false
 images:
 - /images/covers/inquisition-obscure_verses_for_the_multiverse.jpg
@@ -20,3 +20,4 @@ title: Inquisition - Obscure Verses for the Multiverse
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=3046&sort=pd.name&order=ASC) for $7.50
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=26742&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=42398&sort=pd.name&order=ASC) for $12.00

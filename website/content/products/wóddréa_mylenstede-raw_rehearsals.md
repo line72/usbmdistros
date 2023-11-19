@@ -4,7 +4,7 @@ album: Raw Rehearsals
 artist: "W\xF3ddr\xE9a Mylenstede"
 categories:
 - Vinyl
-date: '2023-07-27T05:51:55'
+date: '2023-10-08T07:09:12'
 draft: false
 images:
 - "/images/covers/w\xF3ddr\xE9a_mylenstede-raw_rehearsals.png"
@@ -16,3 +16,4 @@ title: "W\xF3ddr\xE9a Mylenstede - Raw Rehearsals"
 ## Vinyl
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/woddrea-mylenstede-raw-rehearsals-2xlp) for $43.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29979&sort=pd.name&order=ASC) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=41378&sort=pd.name&order=ASC) for $30.00

@@ -4,7 +4,7 @@ album: Perverse Summoning
 artist: Ashgabat
 categories:
 - Cassette
-date: '2023-08-18T08:00:17'
+date: '2023-09-24T05:57:34'
 draft: false
 images:
 - /images/covers/ashgabat-perverse_summoning.jpg

@@ -4,7 +4,7 @@ album: Unhallowed Passion 1989
 artist: Holy Hell
 categories:
 - CD
-date: '2023-07-27T05:54:04'
+date: '2023-09-24T05:55:13'
 draft: false
 images:
 - /images/covers/holy_hell-unhallowed_passion_1989.jpg

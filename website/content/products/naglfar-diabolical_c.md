@@ -1,10 +1,10 @@
 ---
-actualPrice: $15.00
+actualPrice: $8.00
 album: Diabolical C
 artist: Naglfar
 categories:
 - CD
-date: '2023-04-13T05:27:56'
+date: '2023-11-19T10:56:46'
 draft: false
 images:
 - /images/covers/naglfar-diabolical_c.jpg
@@ -14,4 +14,4 @@ title: Naglfar - Diabolical C
 ---
 
 ## CD
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/used-naglfar-diabolical-cd) for $15.00 :: CD 1998
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/used-naglfar-diabolical-cd) for $8.00 :: CD 1998

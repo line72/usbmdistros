@@ -5,7 +5,7 @@ artist: Evil
 categories:
 - Vinyl
 - CD
-date: '2023-09-10T06:16:16'
+date: '2023-09-24T05:49:38'
 draft: false
 images:
 - /images/covers/evil-revenge_of_iron_and_thunder.jpg

@@ -4,7 +4,7 @@ album: Glare of the Morning Star
 artist: Dagorath
 categories:
 - CD
-date: '2023-07-27T05:53:18'
+date: '2023-09-24T05:54:27'
 draft: false
 images:
 - /images/covers/dagorath-glare_of_the_morning_star.jpg

@@ -5,7 +5,7 @@ artist: Necromante
 categories:
 - Vinyl
 - CD
-date: '2023-07-27T05:50:18'
+date: '2023-09-24T05:51:08'
 draft: false
 images:
 - /images/covers/necromante-xi.jpg

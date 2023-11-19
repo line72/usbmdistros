@@ -5,7 +5,7 @@ artist: Majestic Mass
 categories:
 - Vinyl
 - CD
-date: '2023-08-21T07:49:45'
+date: '2023-09-24T05:55:38'
 draft: false
 images:
 - /images/covers/majestic_mass-onwards.jpg

@@ -5,7 +5,7 @@ artist: Terrestrial Hospice
 categories:
 - Vinyl
 - CD
-date: '2023-08-21T08:03:15'
+date: '2023-09-24T05:56:45'
 draft: false
 images:
 - /images/covers/terrestrial_hospice-universal_fate_speech.png

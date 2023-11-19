@@ -5,7 +5,7 @@ artist: Det Eviga Leendet
 categories:
 - Vinyl
 - CD
-date: '2023-07-27T05:53:25'
+date: '2023-09-24T05:54:33'
 draft: false
 images:
 - /images/covers/det_eviga_leendet-lenience.jpg

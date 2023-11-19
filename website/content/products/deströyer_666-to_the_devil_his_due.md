@@ -4,7 +4,7 @@ album: To The Devil His Due
 artist: "Destr\xF6yer 666"
 categories:
 - Vinyl
-date: '2023-09-05T06:00:44'
+date: '2023-09-24T05:49:23'
 draft: false
 images:
 - "/images/covers/destr\xF6yer_666-to_the_devil_his_due.jpg"

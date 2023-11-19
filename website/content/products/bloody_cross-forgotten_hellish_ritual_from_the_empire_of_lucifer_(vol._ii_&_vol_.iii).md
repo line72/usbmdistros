@@ -4,7 +4,7 @@ album: Forgotten Hellish Ritual from the Empire of Lucifer (Vol. II & Vol .III)
 artist: Bloody Cross
 categories:
 - CD
-date: '2023-07-27T05:53:06'
+date: '2023-09-24T05:54:16'
 draft: false
 images:
 - /images/covers/bloody_cross-forgotten_hellish_ritual_from_the_empire_of_lucifer_(vol._ii_&_vol_.iii).jpg

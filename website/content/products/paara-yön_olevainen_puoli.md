@@ -4,7 +4,7 @@ album: "Y\xF6n olevainen puoli"
 artist: Paara
 categories:
 - Vinyl
-date: '2023-07-27T05:50:34'
+date: '2023-09-24T05:51:25'
 draft: false
 images:
 - "/images/covers/paara-y\xF6n_olevainen_puoli.jpg"

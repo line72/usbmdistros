@@ -4,7 +4,7 @@ album: Ensnared in Dismal Blasphemies
 artist: Gravehammer
 categories:
 - Vinyl
-date: '2023-07-27T05:52:18'
+date: '2023-09-24T05:53:20'
 draft: false
 images:
 - /images/covers/gravehammer-ensnared_in_dismal_blasphemies.jpg

@@ -4,7 +4,7 @@ album: Geesten Van De Verlorenen
 artist: Vaal
 categories:
 - CD
-date: '2023-07-27T05:55:50'
+date: '2023-09-24T05:57:00'
 draft: false
 images:
 - /images/covers/vaal-geesten_van_de_verlorenen.jpg

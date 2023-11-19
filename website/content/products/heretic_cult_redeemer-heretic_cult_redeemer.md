@@ -4,7 +4,7 @@ album: Heretic Cult Redeemer
 artist: Heretic Cult Redeemer
 categories:
 - Vinyl
-date: '2023-07-27T05:49:19'
+date: '2023-09-24T05:50:07'
 draft: false
 images:
 - /images/covers/heretic_cult_redeemer-heretic_cult_redeemer.jpg

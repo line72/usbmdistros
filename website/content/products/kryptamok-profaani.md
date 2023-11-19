@@ -5,7 +5,7 @@ artist: Kryptamok
 categories:
 - Vinyl
 - CD
-date: '2023-07-27T05:54:23'
+date: '2023-09-24T05:55:31'
 draft: false
 images:
 - /images/covers/kryptamok-profaani.png

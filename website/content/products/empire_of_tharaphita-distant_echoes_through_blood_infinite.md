@@ -5,7 +5,7 @@ artist: Empire of Tharaphita
 categories:
 - Vinyl
 - CD
-date: '2023-07-27T05:48:46'
+date: '2023-09-24T05:49:34'
 draft: false
 images:
 - /images/covers/empire_of_tharaphita-distant_echoes_through_blood_infinite.jpg

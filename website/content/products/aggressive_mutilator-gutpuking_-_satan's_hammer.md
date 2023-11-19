@@ -4,7 +4,7 @@ album: Gutpuking - Satan's Hammer
 artist: Aggressive Mutilator
 categories:
 - Vinyl
-date: '2023-07-27T05:52:02'
+date: '2023-09-24T05:53:00'
 draft: false
 images:
 - /images/covers/aggressive_mutilator-gutpuking_-_satan's_hammer.png

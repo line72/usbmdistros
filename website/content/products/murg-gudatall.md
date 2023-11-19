@@ -5,7 +5,7 @@ artist: Murg
 categories:
 - Vinyl
 - Cassette
-date: '2023-08-24T17:04:10'
+date: '2023-09-24T05:58:30'
 draft: false
 images:
 - /images/covers/murg-gudatall.jpg

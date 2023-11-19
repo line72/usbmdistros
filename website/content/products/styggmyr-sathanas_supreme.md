@@ -4,7 +4,7 @@ album: Sathanas Supreme
 artist: STYGGMYR
 categories:
 - Vinyl
-date: '2023-09-06T06:43:57'
+date: '2023-09-24T05:52:08'
 draft: false
 images:
 - /images/covers/styggmyr-sathanas_supreme.jpg

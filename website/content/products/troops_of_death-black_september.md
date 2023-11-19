@@ -4,7 +4,7 @@ album: Black September
 artist: Troops of Death
 categories:
 - Cassette
-date: '2023-07-27T05:57:51'
+date: '2023-09-24T05:59:06'
 draft: false
 images:
 - /images/covers/troops_of_death-black_september.png

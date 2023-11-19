@@ -4,7 +4,7 @@ album: Kratos
 artist: Catacumba
 categories:
 - CD
-date: '2023-07-27T05:53:09'
+date: '2023-09-24T05:54:18'
 draft: false
 images:
 - /images/covers/catacumba-kratos.jpg

@@ -4,7 +4,7 @@ album: 'Amestigon Origins: The Demo Tapes 94-96'
 artist: Amestigon
 categories:
 - CD
-date: '2023-07-27T05:52:50'
+date: '2023-09-24T05:53:59'
 draft: false
 images:
 - /images/covers/amestigon-amestigon_origins:_the_demo_tapes_94-96.jpg

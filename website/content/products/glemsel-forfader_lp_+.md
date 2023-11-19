@@ -1,10 +1,10 @@
 ---
-actualPrice: $29.00
+actualPrice: $36.00
 album: Forfader LP +
 artist: Glemsel
 categories:
 - Vinyl
-date: '2022-08-02T13:18:05'
+date: '2023-11-19T09:03:50'
 draft: false
 images:
 - /images/covers/glemsel-forfader_lp_+.jpg
@@ -14,4 +14,4 @@ title: Glemsel - Forfader LP +
 ---
 
 ## Vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/glemsel-forfader-lp-cd) for $29.00 :: LP + CD
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/glemsel-forfader-lp-cd) for $36.00 :: LP + CD

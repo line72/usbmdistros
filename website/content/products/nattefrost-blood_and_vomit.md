@@ -4,7 +4,7 @@ album: Blood and Vomit
 artist: Nattefrost
 categories:
 - Vinyl
-date: '2023-07-27T05:50:17'
+date: '2023-09-24T05:51:07'
 draft: false
 images:
 - /images/covers/nattefrost-blood_and_vomit.jpg

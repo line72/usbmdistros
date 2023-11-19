@@ -4,7 +4,7 @@ album: Doctrines of the Fallen
 artist: Codex Daemonicum
 categories:
 - Cassette
-date: '2023-07-27T05:56:26'
+date: '2023-09-24T05:57:46'
 draft: false
 images:
 - /images/covers/codex_daemonicum-doctrines_of_the_fallen.jpg

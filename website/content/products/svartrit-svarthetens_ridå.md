@@ -4,7 +4,7 @@ album: "Svarthetens Rid\xE5"
 artist: Svartrit
 categories:
 - CD
-date: '2023-07-27T05:55:34'
+date: '2023-09-24T05:56:43'
 draft: false
 images:
 - "/images/covers/svartrit-svarthetens_rid\xE5.jpg"

@@ -5,7 +5,7 @@ artist: Blutumhang
 categories:
 - Vinyl
 - Cassette
-date: '2023-07-27T05:48:05'
+date: '2023-09-24T05:48:51'
 draft: false
 images:
 - /images/covers/blutumhang-moonchants_to_eternus.jpg

@@ -5,7 +5,7 @@ artist: Bestial Summoning
 categories:
 - Vinyl
 - Cassette
-date: '2023-08-31T05:49:13'
+date: '2023-10-06T05:53:05'
 draft: false
 images:
 - /images/covers/bestial_summoning-the_dark_war_has_begun.png
@@ -19,5 +19,6 @@ title: Bestial Summoning - The Dark War Has Begun
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=25292&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29557&sort=pd.name&order=ASC) for $20.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=39195&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=41177&sort=pd.name&order=ASC) for $25.00
 ## Cassette
 * Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/bestial-summoning-the-dark-war-has-begun-cassette/) for $8.00

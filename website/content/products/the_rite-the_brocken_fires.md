@@ -5,7 +5,7 @@ artist: The Rite
 categories:
 - Vinyl
 - CD
-date: '2023-08-13T06:59:39'
+date: '2023-09-24T05:52:19'
 draft: false
 images:
 - /images/covers/the_rite-the_brocken_fires.jpg

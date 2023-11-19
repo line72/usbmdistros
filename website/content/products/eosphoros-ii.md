@@ -5,7 +5,7 @@ artist: Eosphoros
 categories:
 - Vinyl
 - CD
-date: '2023-07-27T05:48:47'
+date: '2023-09-24T05:49:36'
 draft: false
 images:
 - /images/covers/eosphoros-ii.jpg

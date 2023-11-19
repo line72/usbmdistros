@@ -4,7 +4,7 @@ album: One Hundred Eyes One Hundred Arms
 artist: Scourge Lair
 categories:
 - Cassette
-date: '2023-07-27T05:57:36'
+date: '2023-09-24T05:58:51'
 draft: false
 images:
 - /images/covers/scourge_lair-one_hundred_eyes_one_hundred_arms.jpg

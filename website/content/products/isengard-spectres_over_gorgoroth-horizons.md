@@ -4,7 +4,7 @@ album: Spectres over Gorgoroth/Horizons
 artist: Isengard
 categories:
 - Vinyl
-date: '2023-07-27T05:49:32'
+date: '2023-09-24T05:50:21'
 draft: false
 images:
 - /images/covers/isengard-spectres_over_gorgoroth-horizons.jpg

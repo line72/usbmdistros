@@ -4,7 +4,7 @@ album: One Day of Psychopatmetal in Hell
 artist: NB-604
 categories:
 - Cassette
-date: '2023-07-27T05:57:15'
+date: '2023-09-24T05:58:32'
 draft: false
 images:
 - /images/covers/nb-604-one_day_of_psychopatmetal_in_hell.jpg

@@ -4,7 +4,7 @@ album: Seelenwerk's Fortgang
 artist: Kargvint
 categories:
 - CD
-date: '2023-07-27T05:54:19'
+date: '2023-09-24T05:55:27'
 draft: false
 images:
 - /images/covers/kargvint-seelenwerk's_fortgang.jpg

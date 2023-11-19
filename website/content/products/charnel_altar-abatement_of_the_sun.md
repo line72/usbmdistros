@@ -6,7 +6,7 @@ categories:
 - Vinyl
 - Cassette
 - CD
-date: '2023-07-27T05:56:25'
+date: '2023-10-29T08:21:35'
 draft: false
 images:
 - /images/covers/charnel_altar-abatement_of_the_sun.jpg
@@ -26,3 +26,4 @@ title: Charnel Altar - Abatement Of The Sun
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=19798&sort=pd.name&order=ASC) for $15.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=35579&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=42650&sort=pd.name&order=ASC) for $15.00

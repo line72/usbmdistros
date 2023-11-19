@@ -4,7 +4,7 @@ album: Desaevio
 artist: Consummatio
 categories:
 - Vinyl
-date: '2023-07-27T05:48:20'
+date: '2023-09-24T05:49:07'
 draft: false
 images:
 - /images/covers/consummatio-desaevio.jpg

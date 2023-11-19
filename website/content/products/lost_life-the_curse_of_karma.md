@@ -4,7 +4,7 @@ album: The Curse Of Karma
 artist: Lost Life
 categories:
 - Vinyl
-date: '2023-07-27T05:49:46'
+date: '2023-09-24T05:50:35'
 draft: false
 images:
 - /images/covers/lost_life-the_curse_of_karma.jpg

@@ -5,7 +5,7 @@ artist: Nebiros
 categories:
 - Vinyl
 - CD
-date: '2023-07-27T05:54:46'
+date: '2023-09-24T05:55:55'
 draft: false
 images:
 - /images/covers/nebiros-guerreros_de_lucifer.jpg

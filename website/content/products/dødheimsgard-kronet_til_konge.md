@@ -4,7 +4,7 @@ album: Kronet til Konge
 artist: "D\xF8dheimsgard"
 categories:
 - Vinyl
-date: '2023-08-30T06:08:43'
+date: '2023-09-24T05:49:32'
 draft: false
 images:
 - "/images/covers/d\xF8dheimsgard-kronet_til_konge.jpg"

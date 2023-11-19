@@ -4,7 +4,7 @@ album: Matter Misericordiae
 artist: Argentum
 categories:
 - CD
-date: '2023-07-27T05:52:54'
+date: '2023-09-24T05:54:03'
 draft: false
 images:
 - /images/covers/argentum-matter_misericordiae.png

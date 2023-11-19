@@ -4,7 +4,7 @@ album: Wolfmachine
 artist: Wolfmachine
 categories:
 - Vinyl
-date: '2023-07-27T05:51:56'
+date: '2023-09-24T05:52:54'
 draft: false
 images:
 - /images/covers/wolfmachine-wolfmachine.jpg

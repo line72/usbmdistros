@@ -5,7 +5,7 @@ artist: Valdrin
 categories:
 - Vinyl
 - CD
-date: '2023-07-27T05:55:51'
+date: '2023-09-24T05:57:01'
 draft: false
 images:
 - /images/covers/valdrin-two_carrion_talismans.jpg

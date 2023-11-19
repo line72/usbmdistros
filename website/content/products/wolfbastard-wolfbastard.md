@@ -4,7 +4,7 @@ album: Wolfbastard
 artist: Wolfbastard
 categories:
 - Cassette
-date: '2023-07-27T05:58:01'
+date: '2023-09-24T05:59:17'
 draft: false
 images:
 - /images/covers/wolfbastard-wolfbastard.png

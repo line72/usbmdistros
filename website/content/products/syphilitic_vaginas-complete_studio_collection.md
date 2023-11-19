@@ -4,7 +4,7 @@ album: Complete Studio Collection
 artist: Syphilitic Vaginas
 categories:
 - CD
-date: '2023-07-27T05:55:35'
+date: '2023-09-24T05:56:44'
 draft: false
 images:
 - /images/covers/syphilitic_vaginas-complete_studio_collection.jpg

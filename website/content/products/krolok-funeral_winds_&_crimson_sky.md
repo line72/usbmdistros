@@ -5,7 +5,7 @@ artist: Krolok
 categories:
 - Vinyl
 - Cassette
-date: '2023-07-27T05:49:39'
+date: '2023-09-24T05:50:29'
 draft: false
 images:
 - /images/covers/krolok-funeral_winds_&_crimson_sky.jpg

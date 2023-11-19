@@ -5,7 +5,7 @@ artist: Funeral Mist
 categories:
 - Vinyl
 - CD
-date: '2023-09-08T06:13:16'
+date: '2023-09-24T05:49:45'
 draft: false
 images:
 - /images/covers/funeral_mist-salvation.jpg

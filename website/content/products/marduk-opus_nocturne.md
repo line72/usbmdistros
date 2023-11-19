@@ -5,7 +5,7 @@ artist: Marduk
 categories:
 - Vinyl
 - CD
-date: '2023-09-20T05:00:50'
+date: '2023-09-24T05:55:41'
 draft: false
 images:
 - /images/covers/marduk-opus_nocturne.jpg

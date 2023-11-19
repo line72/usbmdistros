@@ -4,7 +4,7 @@ album: Nearer the Shores of Kothal
 artist: Borda's Rope
 categories:
 - CD
-date: '2023-07-27T05:53:07'
+date: '2023-09-24T05:54:16'
 draft: false
 images:
 - /images/covers/borda's_rope-nearer_the_shores_of_kothal.jpg

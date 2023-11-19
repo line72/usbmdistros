@@ -5,7 +5,7 @@ artist: Finis
 categories:
 - Vinyl
 - CD
-date: '2023-07-27T05:53:43'
+date: '2023-10-05T06:20:46'
 draft: false
 images:
 - /images/covers/finis-visions_of_doom.jpg
@@ -16,5 +16,6 @@ title: Finis - Visions of Doom
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=3878&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=41107&sort=pd.name&order=ASC) for $15.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=3769&sort=pd.name&order=ASC) for $10.00

@@ -4,7 +4,7 @@ album: Atavistic Black Disorder / Kommando
 artist: Mayhem
 categories:
 - Vinyl
-date: '2023-07-27T05:49:56'
+date: '2023-09-24T05:50:46'
 draft: false
 images:
 - /images/covers/mayhem-atavistic_black_disorder_-_kommando.jpg

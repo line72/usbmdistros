@@ -4,7 +4,7 @@ album: Infiltration. Downfall. Death
 artist: Revenge
 categories:
 - CD
-date: '2023-07-27T05:55:12'
+date: '2023-09-24T05:56:21'
 draft: false
 images:
 - /images/covers/revenge-infiltration._downfall._death.jpg

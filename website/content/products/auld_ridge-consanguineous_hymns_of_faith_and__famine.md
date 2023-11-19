@@ -4,7 +4,7 @@ album: Consanguineous Hymns of Faith and  Famine
 artist: Auld Ridge
 categories:
 - Vinyl
-date: '2023-07-27T05:47:43'
+date: '2023-09-24T05:48:32'
 draft: false
 images:
 - /images/covers/auld_ridge-consanguineous_hymns_of_faith_and__famine.png

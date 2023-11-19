@@ -5,7 +5,7 @@ artist: Grimdor
 categories:
 - Vinyl
 - Cassette
-date: '2023-08-10T06:10:54'
+date: '2023-09-24T05:58:10'
 draft: false
 images:
 - /images/covers/grimdor-the_land_of_shadow.jpg

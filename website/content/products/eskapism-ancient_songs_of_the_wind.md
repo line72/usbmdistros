@@ -4,7 +4,7 @@ album: Ancient Songs of the Wind
 artist: Eskapism
 categories:
 - Vinyl
-date: '2023-09-07T06:09:05'
+date: '2023-09-24T05:49:37'
 draft: false
 images:
 - /images/covers/eskapism-ancient_songs_of_the_wind.jpg

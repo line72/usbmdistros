@@ -4,7 +4,7 @@ album: F.O.A.D.I.F.
 artist: Bafomet
 categories:
 - CD
-date: '2023-07-27T05:52:58'
+date: '2023-10-09T08:09:05'
 draft: false
 images:
 - /images/covers/bafomet-f.o.a.d.i.f..jpg
@@ -17,3 +17,4 @@ title: Bafomet - F.O.A.D.I.F.
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=23380&sort=pd.name&order=ASC) for $12.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=24422&sort=pd.name&order=ASC) for $12.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=30450&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=41553&sort=pd.name&order=ASC) for $12.00

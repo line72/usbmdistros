@@ -4,7 +4,7 @@ album: II
 artist: Void Eater
 categories:
 - Vinyl
-date: '2023-07-27T05:51:44'
+date: '2023-09-24T05:52:42'
 draft: false
 images:
 - /images/covers/void_eater-ii.jpg

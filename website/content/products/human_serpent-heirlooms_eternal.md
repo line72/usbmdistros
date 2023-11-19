@@ -4,7 +4,7 @@ album: Heirlooms Eternal
 artist: Human Serpent
 categories:
 - Vinyl
-date: '2023-09-18T06:17:40'
+date: '2023-09-24T05:50:11'
 draft: false
 images:
 - /images/covers/human_serpent-heirlooms_eternal.jpg

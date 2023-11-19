@@ -5,7 +5,7 @@ artist: Ynkleudherhenavogyon
 categories:
 - Vinyl
 - CD
-date: '2023-08-03T07:04:46'
+date: '2023-09-24T05:52:56'
 draft: false
 images:
 - /images/covers/ynkleudherhenavogyon-arvor_mysteri.jpg

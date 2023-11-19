@@ -4,7 +4,7 @@ album: Maledictum
 artist: Abruptum
 categories:
 - Vinyl
-date: '2023-07-27T05:52:01'
+date: '2023-11-10T15:44:15'
 draft: false
 images:
 - /images/covers/abruptum-maledictum.jpg
@@ -16,3 +16,4 @@ title: Abruptum - Maledictum
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=19973&sort=pd.name&order=ASC) for $20.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=28426&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=43267&sort=pd.name&order=ASC) for $20.00

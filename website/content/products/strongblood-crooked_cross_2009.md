@@ -4,7 +4,7 @@ album: Crooked Cross 2009
 artist: Strongblood
 categories:
 - Vinyl
-date: '2023-07-27T05:51:15'
+date: '2023-09-24T05:52:07'
 draft: false
 images:
 - /images/covers/strongblood-crooked_cross_2009.jpg

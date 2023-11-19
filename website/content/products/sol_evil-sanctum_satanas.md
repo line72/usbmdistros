@@ -4,7 +4,7 @@ album: Sanctum Satanas
 artist: Sol Evil
 categories:
 - CD
-date: '2023-07-27T05:55:28'
+date: '2023-09-24T05:56:36'
 draft: false
 images:
 - /images/covers/sol_evil-sanctum_satanas.png

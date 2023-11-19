@@ -4,7 +4,7 @@ album: Hellrduk
 artist: Isgherurd Mortht
 categories:
 - CD
-date: '2023-07-27T05:54:15'
+date: '2023-09-24T05:55:24'
 draft: false
 images:
 - /images/covers/isgherurd_mortht-hellrduk.jpg

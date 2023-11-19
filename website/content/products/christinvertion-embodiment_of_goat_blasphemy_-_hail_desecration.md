@@ -4,7 +4,7 @@ album: Embodiment of Goat Blasphemy / Hail Desecration
 artist: ChristInvertion
 categories:
 - Cassette
-date: '2023-07-27T05:56:26'
+date: '2023-09-24T05:57:46'
 draft: false
 images:
 - /images/covers/christinvertion-embodiment_of_goat_blasphemy_-_hail_desecration.jpg

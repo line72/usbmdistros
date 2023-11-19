@@ -5,7 +5,7 @@ artist: LVTHN
 categories:
 - Vinyl
 - CD
-date: '2023-09-07T06:29:59'
+date: '2023-09-24T05:55:37'
 draft: false
 images:
 - /images/covers/lvthn-eradication_of_nescience.jpg

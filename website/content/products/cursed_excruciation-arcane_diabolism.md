@@ -4,7 +4,7 @@ album: Arcane Diabolism
 artist: Cursed Excruciation
 categories:
 - Vinyl
-date: '2023-07-27T05:48:24'
+date: '2023-09-24T05:49:12'
 draft: false
 images:
 - /images/covers/cursed_excruciation-arcane_diabolism.jpg

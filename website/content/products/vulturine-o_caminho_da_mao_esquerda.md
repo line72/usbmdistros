@@ -4,7 +4,7 @@ album: O Caminho Da Mao Esquerda
 artist: Vulturine
 categories:
 - Vinyl
-date: '2023-07-27T05:52:43'
+date: '2023-09-24T05:53:50'
 draft: false
 images:
 - /images/covers/vulturine-o_caminho_da_mao_esquerda.jpg

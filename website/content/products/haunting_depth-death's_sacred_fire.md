@@ -4,7 +4,7 @@ album: Death's Sacred Fire
 artist: Haunting Depth
 categories:
 - Vinyl
-date: '2023-08-03T06:03:53'
+date: '2023-09-24T05:50:02'
 draft: false
 images:
 - /images/covers/haunting_depth-death's_sacred_fire.jpg

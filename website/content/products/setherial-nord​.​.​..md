@@ -4,7 +4,7 @@ album: "Nord\u200B.\u200B.\u200B."
 artist: Setherial
 categories:
 - Vinyl
-date: '2023-09-12T07:21:37'
+date: '2023-09-24T05:51:58'
 draft: false
 images:
 - "/images/covers/setherial-nord\u200B.\u200B.\u200B..jpg"

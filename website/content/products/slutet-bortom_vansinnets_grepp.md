@@ -4,7 +4,7 @@ album: Bortom Vansinnets Grepp
 artist: Slutet
 categories:
 - Cassette
-date: '2023-07-27T05:57:40'
+date: '2023-09-24T05:58:55'
 draft: false
 images:
 - /images/covers/slutet-bortom_vansinnets_grepp.png

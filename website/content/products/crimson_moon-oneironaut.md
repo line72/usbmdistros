@@ -5,7 +5,7 @@ artist: Crimson Moon
 categories:
 - Vinyl
 - Cassette
-date: '2021-11-16T14:28:59'
+date: '2023-11-19T08:27:44'
 draft: false
 images:
 - /images/covers/crimson_moon-oneironaut.jpg
@@ -18,3 +18,4 @@ title: Crimson Moon - Oneironaut
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=18795&sort=pd.name&order=ASC) for $30.00
 ## Cassette
 * Purchase from [Sto'Vo'Kor Records](https://stovokor-records.com/products/crimson-moon-oneironaut) for $7.00
+* Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/crimson-moon-oneironaut-cassette/) for $8.00

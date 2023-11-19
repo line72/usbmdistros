@@ -7,7 +7,7 @@ artist: Hate Manifesto
 categories:
 - Vinyl
 - CD
-date: '2023-07-27T05:53:58'
+date: '2023-09-24T05:55:05'
 draft: false
 images:
 - "/images/covers/hate_manifesto-\u03B1\u200B\u200B\u200B\u03C0\u200B\u200B\u200B\u03BF\

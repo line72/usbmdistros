@@ -4,7 +4,7 @@ album: De Zoute Kwel
 artist: Grafjammer
 categories:
 - Vinyl
-date: '2023-07-27T05:49:07'
+date: '2023-09-24T05:49:55'
 draft: false
 images:
 - /images/covers/grafjammer-de_zoute_kwel.jpg

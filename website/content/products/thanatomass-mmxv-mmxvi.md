@@ -5,7 +5,7 @@ artist: Thanatomass
 categories:
 - Vinyl
 - CD
-date: '2023-09-10T08:41:50'
+date: '2023-09-24T05:56:46'
 draft: false
 images:
 - /images/covers/thanatomass-mmxv-mmxvi.jpg

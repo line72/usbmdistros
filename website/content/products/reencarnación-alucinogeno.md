@@ -5,7 +5,7 @@ artist: "Reencarnaci\xF3n"
 categories:
 - Vinyl
 - CD
-date: '2023-07-27T05:55:11'
+date: '2023-09-24T05:56:19'
 draft: false
 images:
 - "/images/covers/reencarnaci\xF3n-alucinogeno.jpg"

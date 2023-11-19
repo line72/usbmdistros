@@ -4,7 +4,7 @@ album: Unearthing Shattered Philosophies
 artist: Warlust
 categories:
 - Vinyl
-date: '2023-07-27T05:51:50'
+date: '2023-09-24T05:52:47'
 draft: false
 images:
 - /images/covers/warlust-unearthing_shattered_philosophies.jpg

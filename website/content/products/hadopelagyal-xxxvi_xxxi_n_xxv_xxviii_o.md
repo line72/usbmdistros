@@ -4,7 +4,7 @@ album: XXXVI XXXI N XXV XXVIII O
 artist: Hadopelagyal
 categories:
 - Vinyl
-date: '2023-07-27T05:49:12'
+date: '2023-09-24T05:50:00'
 draft: false
 images:
 - /images/covers/hadopelagyal-xxxvi_xxxi_n_xxv_xxviii_o.jpg

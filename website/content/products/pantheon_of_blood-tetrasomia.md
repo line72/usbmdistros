@@ -4,7 +4,7 @@ album: Tetrasomia
 artist: Pantheon of Blood
 categories:
 - Vinyl
-date: '2023-09-10T06:51:52'
+date: '2023-09-24T05:51:26'
 draft: false
 images:
 - /images/covers/pantheon_of_blood-tetrasomia.jpg

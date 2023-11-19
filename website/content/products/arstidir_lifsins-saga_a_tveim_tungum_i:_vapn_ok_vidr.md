@@ -4,7 +4,7 @@ album: 'Saga a Tveim Tungum I: Vapn ok Vidr'
 artist: Arstidir Lifsins
 categories:
 - Vinyl
-date: '2023-07-27T05:47:40'
+date: '2023-09-24T05:48:28'
 draft: false
 images:
 - /images/covers/arstidir_lifsins-saga_a_tveim_tungum_i:_vapn_ok_vidr.jpg

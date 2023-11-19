@@ -4,7 +4,7 @@ album: Occult Rituals of Anthropophagous Worship
 artist: Amaguq
 categories:
 - Vinyl
-date: '2023-07-27T05:47:31'
+date: '2023-09-24T05:48:19'
 draft: false
 images:
 - /images/covers/amaguq-occult_rituals_of_anthropophagous_worship.jpg

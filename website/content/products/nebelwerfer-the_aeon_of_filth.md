@@ -4,7 +4,7 @@ album: The Aeon of Filth
 artist: Nebelwerfer
 categories:
 - CD
-date: '2023-07-27T05:54:46'
+date: '2023-09-24T05:55:55'
 draft: false
 images:
 - /images/covers/nebelwerfer-the_aeon_of_filth.jpg

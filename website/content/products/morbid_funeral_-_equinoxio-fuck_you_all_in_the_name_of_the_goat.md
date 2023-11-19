@@ -4,7 +4,7 @@ album: Fuck You All In The Name Of The Goat
 artist: Morbid Funeral / Equinoxio
 categories:
 - CD
-date: '2023-07-27T05:54:39'
+date: '2023-09-24T05:55:47'
 draft: false
 images:
 - /images/covers/morbid_funeral_-_equinoxio-fuck_you_all_in_the_name_of_the_goat.jpg

@@ -4,7 +4,7 @@ album: Satanic Masowhore
 artist: Impaled Nazarene
 categories:
 - Vinyl
-date: '2023-08-15T07:22:44'
+date: '2023-09-24T05:53:23'
 draft: false
 images:
 - /images/covers/impaled_nazarene-satanic_masowhore.png

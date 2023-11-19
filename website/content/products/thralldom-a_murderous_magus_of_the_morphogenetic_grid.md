@@ -4,7 +4,7 @@ album: A Murderous Magus Of The Morphogenetic Grid
 artist: Thralldom
 categories:
 - Vinyl
-date: '2023-08-17T07:41:32'
+date: '2023-09-24T05:53:46'
 draft: false
 images:
 - /images/covers/thralldom-a_murderous_magus_of_the_morphogenetic_grid.jpg

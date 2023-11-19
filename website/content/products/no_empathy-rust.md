@@ -4,7 +4,7 @@ album: Rust
 artist: No Empathy
 categories:
 - Vinyl
-date: '2023-07-27T05:50:23'
+date: '2023-09-24T05:51:13'
 draft: false
 images:
 - /images/covers/no_empathy-rust.jpg

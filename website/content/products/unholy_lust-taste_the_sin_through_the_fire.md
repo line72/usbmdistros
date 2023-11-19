@@ -4,7 +4,7 @@ album: Taste The Sin Through The Fire
 artist: Unholy Lust
 categories:
 - Vinyl
-date: '2023-07-27T05:51:34'
+date: '2023-09-24T05:52:30'
 draft: false
 images:
 - /images/covers/unholy_lust-taste_the_sin_through_the_fire.jpg

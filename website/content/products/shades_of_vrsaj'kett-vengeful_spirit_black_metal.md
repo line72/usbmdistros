@@ -4,7 +4,7 @@ album: Vengeful Spirit Black Metal
 artist: Shades of Vrsaj'kett
 categories:
 - Vinyl
-date: '2023-07-27T05:51:06'
+date: '2023-09-24T05:51:58'
 draft: false
 images:
 - /images/covers/shades_of_vrsaj'kett-vengeful_spirit_black_metal.jpg

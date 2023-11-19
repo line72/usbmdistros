@@ -4,7 +4,7 @@ album: Ascensum Serpens
 artist: Malignant Asceticism
 categories:
 - Vinyl
-date: '2023-07-28T07:22:43'
+date: '2023-09-24T05:53:28'
 draft: false
 images:
 - /images/covers/malignant_asceticism-ascensum_serpens.jpg

@@ -4,7 +4,7 @@ album: Black Drop Journey
 artist: Asmodee
 categories:
 - Vinyl
-date: '2023-07-27T05:52:03'
+date: '2023-09-24T05:53:02'
 draft: false
 images:
 - /images/covers/asmodee-black_drop_journey.jpg

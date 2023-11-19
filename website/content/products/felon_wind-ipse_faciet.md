@@ -4,7 +4,7 @@ album: Ipse Faciet
 artist: Felon Wind
 categories:
 - Vinyl
-date: '2023-07-27T05:48:52'
+date: '2023-09-24T05:49:41'
 draft: false
 images:
 - /images/covers/felon_wind-ipse_faciet.jpg

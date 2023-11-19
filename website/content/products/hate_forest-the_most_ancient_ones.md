@@ -5,7 +5,7 @@ artist: Hate Forest
 categories:
 - Vinyl
 - CD
-date: '2023-09-20T05:00:52'
+date: '2023-09-24T05:55:05'
 draft: false
 images:
 - /images/covers/hate_forest-the_most_ancient_ones.jpg

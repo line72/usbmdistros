@@ -4,7 +4,7 @@ album: Prazan Grob
 artist: Svartgren
 categories:
 - Vinyl
-date: '2023-08-28T07:19:55'
+date: '2023-09-24T05:52:10'
 draft: false
 images:
 - /images/covers/svartgren-prazan_grob.jpg

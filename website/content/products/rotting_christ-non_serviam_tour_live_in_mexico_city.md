@@ -4,7 +4,7 @@ album: Non Serviam Tour Live in Mexico City
 artist: Rotting Christ
 categories:
 - CD
-date: '2023-09-12T09:25:44'
+date: '2023-09-24T05:56:22'
 draft: false
 images:
 - /images/covers/rotting_christ-non_serviam_tour_live_in_mexico_city.png

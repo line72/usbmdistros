@@ -5,7 +5,7 @@ artist: Lamp of Murmuur
 categories:
 - Vinyl
 - Cassette
-date: '2023-09-09T06:46:33'
+date: '2023-09-24T05:50:31'
 draft: false
 images:
 - /images/covers/lamp_of_murmuur-the_burning_spears_of_crimson_agony.jpg

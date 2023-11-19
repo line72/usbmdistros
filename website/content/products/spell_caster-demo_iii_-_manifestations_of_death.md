@@ -4,7 +4,7 @@ album: Demo III - Manifestations Of Death
 artist: Spell Caster
 categories:
 - Vinyl
-date: '2023-08-18T06:55:45'
+date: '2023-09-24T05:52:04'
 draft: false
 images:
 - /images/covers/spell_caster-demo_iii_-_manifestations_of_death.jpg

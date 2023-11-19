@@ -4,7 +4,7 @@ album: Old Curses
 artist: Black Cilice
 categories:
 - Vinyl
-date: '2023-07-28T05:58:08'
+date: '2023-09-24T05:48:42'
 draft: false
 images:
 - /images/covers/black_cilice-old_curses.jpg

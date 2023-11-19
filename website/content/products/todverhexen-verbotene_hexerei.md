@@ -4,7 +4,7 @@ album: Verbotene Hexerei
 artist: Todverhexen
 categories:
 - CD
-date: '2023-08-25T09:14:45'
+date: '2023-09-24T05:56:51'
 draft: false
 images:
 - /images/covers/todverhexen-verbotene_hexerei.jpg

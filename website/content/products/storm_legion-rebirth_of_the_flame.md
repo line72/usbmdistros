@@ -4,7 +4,7 @@ album: Rebirth of the Flame
 artist: Storm Legion
 categories:
 - Vinyl
-date: '2023-07-27T05:52:37'
+date: '2023-09-24T05:53:44'
 draft: false
 images:
 - /images/covers/storm_legion-rebirth_of_the_flame.jpg

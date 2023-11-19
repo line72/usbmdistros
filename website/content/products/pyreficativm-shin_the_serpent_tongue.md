@@ -4,7 +4,7 @@ album: Shin the Serpent Tongue
 artist: Pyreficativm
 categories:
 - CD
-date: '2023-07-27T05:55:09'
+date: '2023-09-24T05:56:17'
 draft: false
 images:
 - /images/covers/pyreficativm-shin_the_serpent_tongue.png

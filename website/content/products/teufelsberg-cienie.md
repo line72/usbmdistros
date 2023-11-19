@@ -4,7 +4,7 @@ album: Cienie
 artist: Teufelsberg
 categories:
 - CD
-date: '2023-07-27T05:55:37'
+date: '2023-09-24T05:56:46'
 draft: false
 images:
 - /images/covers/teufelsberg-cienie.jpg

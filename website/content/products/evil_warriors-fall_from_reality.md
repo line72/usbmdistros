@@ -4,7 +4,7 @@ album: Fall from Reality
 artist: Evil Warriors
 categories:
 - CD
-date: '2023-07-27T05:53:39'
+date: '2023-09-24T05:54:46'
 draft: false
 images:
 - /images/covers/evil_warriors-fall_from_reality.jpg

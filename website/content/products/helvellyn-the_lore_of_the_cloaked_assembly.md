@@ -4,7 +4,7 @@ album: The Lore of the Cloaked Assembly
 artist: Helvellyn
 categories:
 - Vinyl
-date: '2023-07-27T05:49:19'
+date: '2023-09-24T05:50:06'
 draft: false
 images:
 - /images/covers/helvellyn-the_lore_of_the_cloaked_assembly.jpg

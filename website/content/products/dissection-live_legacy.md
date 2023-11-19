@@ -5,7 +5,7 @@ artist: Dissection
 categories:
 - Vinyl
 - CD
-date: '2023-09-06T07:33:25'
+date: '2023-09-24T05:54:37'
 draft: false
 images:
 - /images/covers/dissection-live_legacy.jpg

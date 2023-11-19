@@ -4,7 +4,7 @@ album: Final Storm of the Tyrant
 artist: "Vr\xF6rsaath"
 categories:
 - Vinyl
-date: '2023-07-27T05:51:47'
+date: '2023-09-24T05:52:45'
 draft: false
 images:
 - "/images/covers/vr\xF6rsaath-final_storm_of_the_tyrant.jpg"

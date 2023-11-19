@@ -5,7 +5,7 @@ artist: Maniac Butcher
 categories:
 - Vinyl
 - CD
-date: '2023-07-27T05:54:31'
+date: '2023-09-24T05:55:40'
 draft: false
 images:
 - /images/covers/maniac_butcher-barbarians.jpg

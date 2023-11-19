@@ -4,7 +4,7 @@ album: "Zhym\xF8rkh Demo I"
 artist: Gnaargakh
 categories:
 - Vinyl
-date: '2023-07-27T05:49:04'
+date: '2023-09-24T05:49:52'
 draft: false
 images:
 - "/images/covers/gnaargakh-zhym\xF8rkh_demo_i.jpg"

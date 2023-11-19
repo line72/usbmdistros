@@ -4,7 +4,7 @@ album: A Moment Of Clarity
 artist: Ancestors Blood
 categories:
 - CD
-date: '2023-07-27T05:52:51'
+date: '2023-09-24T05:54:00'
 draft: false
 images:
 - /images/covers/ancestors_blood-a_moment_of_clarity.png

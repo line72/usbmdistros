@@ -4,7 +4,7 @@ album: German Black Metal
 artist: Tsatthoggua
 categories:
 - Vinyl
-date: '2023-08-17T07:41:41'
+date: '2023-09-24T05:53:47'
 draft: false
 images:
 - /images/covers/tsatthoggua-german_black_metal.jpg

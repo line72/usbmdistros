@@ -1,10 +1,10 @@
 ---
-actualPrice: $18.00 - 25.00
+actualPrice: $18.00 - 27.00
 album: Conduit
 artist: Proscription
 categories:
 - Vinyl
-date: '2023-03-30T05:26:12'
+date: '2023-11-19T09:07:21'
 draft: false
 images:
 - /images/covers/proscription-conduit.jpg
@@ -17,3 +17,4 @@ title: Proscription - Conduit
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/proscription-conduit) for $23.00 :: Black 2022 press vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/proscription-conduit) for $25.00 :: Clear w/ Splatter 2022 press vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/used-proscription-conduit-lp) for $18.00 :: Black 2022 press vinyl
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/proscription-conduit-lp) for $27.00 :: Clear w/ Splatter 2022 press
