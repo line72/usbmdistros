@@ -7,9 +7,9 @@ categories:
 date: '2023-11-19T16:38:55'
 draft: false
 images:
-- /images/covers/unanimated-in_the_light_of_darkness.png
+- /images/covers/unanimated-in_the_light_of_darkness.jpg
 inStock: true
-thumbnailImage: /images/covers/unanimated-in_the_light_of_darkness-thumb.png
+thumbnailImage: /images/covers/unanimated-in_the_light_of_darkness-thumb.jpg
 title: Unanimated - In The Light of Darkness
 ---
 

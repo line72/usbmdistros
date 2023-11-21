@@ -7,9 +7,9 @@ categories:
 date: '2023-11-19T16:32:25'
 draft: false
 images:
-- /images/covers/unanimated-ancient_god_of_evil.png
+- /images/covers/unanimated-ancient_god_of_evil.jpg
 inStock: true
-thumbnailImage: /images/covers/unanimated-ancient_god_of_evil-thumb.png
+thumbnailImage: /images/covers/unanimated-ancient_god_of_evil-thumb.jpg
 title: Unanimated - Ancient God of Evil
 ---
 

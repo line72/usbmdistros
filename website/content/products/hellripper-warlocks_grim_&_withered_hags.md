@@ -7,9 +7,9 @@ categories:
 date: '2023-11-19T16:34:36'
 draft: false
 images:
-- /images/covers/hellripper-warlocks_grim_&_withered_hags.png
+- /images/covers/hellripper-warlocks_grim_&_withered_hags.jpg
 inStock: true
-thumbnailImage: /images/covers/hellripper-warlocks_grim_&_withered_hags-thumb.png
+thumbnailImage: /images/covers/hellripper-warlocks_grim_&_withered_hags-thumb.jpg
 title: Hellripper - Warlocks Grim & Withered Hags
 ---
 

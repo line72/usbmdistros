@@ -7,9 +7,9 @@ categories:
 date: '2023-09-27T07:23:55'
 draft: false
 images:
-- /images/covers/nargaroth-rasluka_part_ii.png
+- /images/covers/nargaroth-rasluka_part_ii.jpg
 inStock: true
-thumbnailImage: /images/covers/nargaroth-rasluka_part_ii-thumb.png
+thumbnailImage: /images/covers/nargaroth-rasluka_part_ii-thumb.jpg
 title: Nargaroth - Rasluka Part II
 ---
 

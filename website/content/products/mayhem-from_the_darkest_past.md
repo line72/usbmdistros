@@ -7,9 +7,9 @@ categories:
 date: '2023-10-05T08:48:48'
 draft: false
 images:
-- /images/covers/mayhem-from_the_darkest_past.png
+- /images/covers/mayhem-from_the_darkest_past.jpg
 inStock: true
-thumbnailImage: /images/covers/mayhem-from_the_darkest_past-thumb.png
+thumbnailImage: /images/covers/mayhem-from_the_darkest_past-thumb.jpg
 title: Mayhem - From the Darkest Past
 ---
 

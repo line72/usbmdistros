@@ -7,9 +7,9 @@ categories:
 date: '2023-10-31T07:38:26'
 draft: false
 images:
-- /images/covers/funeral_winds-sekhmet.png
+- /images/covers/funeral_winds-sekhmet.jpg
 inStock: true
-thumbnailImage: /images/covers/funeral_winds-sekhmet-thumb.png
+thumbnailImage: /images/covers/funeral_winds-sekhmet-thumb.jpg
 title: Funeral Winds - Sekhmet
 ---
 

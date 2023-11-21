@@ -7,9 +7,9 @@ categories:
 date: '2023-10-27T07:13:15'
 draft: false
 images:
-- /images/covers/mrtva_vod-divided_in_life.png
+- /images/covers/mrtva_vod-divided_in_life.jpg
 inStock: true
-thumbnailImage: /images/covers/mrtva_vod-divided_in_life-thumb.png
+thumbnailImage: /images/covers/mrtva_vod-divided_in_life-thumb.jpg
 title: Mrtva Vod - Divided in Life
 ---
 

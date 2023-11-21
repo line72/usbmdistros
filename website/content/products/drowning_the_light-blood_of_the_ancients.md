@@ -7,9 +7,9 @@ categories:
 date: '2023-11-03T06:14:15'
 draft: false
 images:
-- /images/covers/drowning_the_light-blood_of_the_ancients.png
+- /images/covers/drowning_the_light-blood_of_the_ancients.jpg
 inStock: true
-thumbnailImage: /images/covers/drowning_the_light-blood_of_the_ancients-thumb.png
+thumbnailImage: /images/covers/drowning_the_light-blood_of_the_ancients-thumb.jpg
 title: Drowning The Light - Blood of the Ancients
 ---
 

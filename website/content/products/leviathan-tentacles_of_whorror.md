@@ -5,7 +5,7 @@ artist: Leviathan
 categories:
 - Vinyl
 - Cassette
-date: '2023-11-18T12:29:05'
+date: '2023-11-20T10:19:58'
 draft: false
 images:
 - /images/covers/leviathan-tentacles_of_whorror.jpg
@@ -19,5 +19,6 @@ title: Leviathan - Tentacles Of Whorror
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=43315&sort=pd.name&order=ASC) for $35.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=43409&sort=pd.name&order=ASC) for $35.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=43539&sort=pd.name&order=ASC) for $35.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=43692&sort=pd.name&order=ASC) for $35.00
 ## Cassette
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/leviathan-tentacles-of-whorror-cassette) for $14.00 :: Cassette Tape 2021 press

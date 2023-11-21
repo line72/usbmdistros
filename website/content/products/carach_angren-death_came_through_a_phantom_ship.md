@@ -7,9 +7,9 @@ categories:
 date: '2023-11-19T16:38:59'
 draft: false
 images:
-- /images/covers/carach_angren-death_came_through_a_phantom_ship.png
+- /images/covers/carach_angren-death_came_through_a_phantom_ship.jpg
 inStock: true
-thumbnailImage: /images/covers/carach_angren-death_came_through_a_phantom_ship-thumb.png
+thumbnailImage: /images/covers/carach_angren-death_came_through_a_phantom_ship-thumb.jpg
 title: Carach Angren - Death Came Through A Phantom Ship
 ---
 

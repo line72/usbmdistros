@@ -7,9 +7,9 @@ categories:
 date: '2023-11-19T16:40:39'
 draft: false
 images:
-- /images/covers/tsjuder-kill_for_satan.png
+- /images/covers/tsjuder-kill_for_satan.jpg
 inStock: true
-thumbnailImage: /images/covers/tsjuder-kill_for_satan-thumb.png
+thumbnailImage: /images/covers/tsjuder-kill_for_satan-thumb.jpg
 title: Tsjuder - Kill for Satan
 ---
 

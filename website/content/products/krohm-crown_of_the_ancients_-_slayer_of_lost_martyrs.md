@@ -7,9 +7,9 @@ categories:
 date: '2023-10-05T08:45:23'
 draft: false
 images:
-- /images/covers/krohm-crown_of_the_ancients_-_slayer_of_lost_martyrs.png
+- /images/covers/krohm-crown_of_the_ancients_-_slayer_of_lost_martyrs.jpg
 inStock: true
-thumbnailImage: /images/covers/krohm-crown_of_the_ancients_-_slayer_of_lost_martyrs-thumb.png
+thumbnailImage: /images/covers/krohm-crown_of_the_ancients_-_slayer_of_lost_martyrs-thumb.jpg
 title: Krohm - Crown Of The Ancients / Slayer Of Lost Martyrs
 ---
 

@@ -7,9 +7,9 @@ categories:
 date: '2023-11-19T16:41:01'
 draft: false
 images:
-- /images/covers/ne_obliviscaris-exul.png
+- /images/covers/ne_obliviscaris-exul.jpg
 inStock: true
-thumbnailImage: /images/covers/ne_obliviscaris-exul-thumb.png
+thumbnailImage: /images/covers/ne_obliviscaris-exul-thumb.jpg
 title: Ne Obliviscaris - Exul
 ---
 

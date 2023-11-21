@@ -7,9 +7,9 @@ categories:
 date: '2023-11-19T16:31:59'
 draft: false
 images:
-- /images/covers/anorexia_nervosa-drudenhaus.png
+- /images/covers/anorexia_nervosa-drudenhaus.jpg
 inStock: true
-thumbnailImage: /images/covers/anorexia_nervosa-drudenhaus-thumb.png
+thumbnailImage: /images/covers/anorexia_nervosa-drudenhaus-thumb.jpg
 title: Anorexia Nervosa - Drudenhaus
 ---
 

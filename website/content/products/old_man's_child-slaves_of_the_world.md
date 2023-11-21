@@ -7,9 +7,9 @@ categories:
 date: '2023-11-19T16:33:37'
 draft: false
 images:
-- /images/covers/old_man's_child-slaves_of_the_world.png
+- /images/covers/old_man's_child-slaves_of_the_world.jpg
 inStock: true
-thumbnailImage: /images/covers/old_man's_child-slaves_of_the_world-thumb.png
+thumbnailImage: /images/covers/old_man's_child-slaves_of_the_world-thumb.jpg
 title: Old Man's Child - Slaves of The World
 ---
 

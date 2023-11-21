@@ -7,9 +7,9 @@ categories:
 date: '2023-11-19T16:38:53'
 draft: false
 images:
-- /images/covers/xasthur-inevitably_dark.png
+- /images/covers/xasthur-inevitably_dark.jpg
 inStock: true
-thumbnailImage: /images/covers/xasthur-inevitably_dark-thumb.png
+thumbnailImage: /images/covers/xasthur-inevitably_dark-thumb.jpg
 title: Xasthur - Inevitably Dark
 ---
 

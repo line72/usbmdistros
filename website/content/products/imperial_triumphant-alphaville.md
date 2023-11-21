@@ -7,9 +7,9 @@ categories:
 date: '2023-11-19T16:32:59'
 draft: false
 images:
-- /images/covers/imperial_triumphant-alphaville.png
+- /images/covers/imperial_triumphant-alphaville.jpg
 inStock: true
-thumbnailImage: /images/covers/imperial_triumphant-alphaville-thumb.png
+thumbnailImage: /images/covers/imperial_triumphant-alphaville-thumb.jpg
 title: Imperial Triumphant - Alphaville
 ---
 

@@ -7,9 +7,9 @@ categories:
 date: '2023-11-14T12:51:27'
 draft: false
 images:
-- /images/covers/mortuary_drape-black_mirror.png
+- /images/covers/mortuary_drape-black_mirror.jpg
 inStock: true
-thumbnailImage: /images/covers/mortuary_drape-black_mirror-thumb.png
+thumbnailImage: /images/covers/mortuary_drape-black_mirror-thumb.jpg
 title: Mortuary Drape - Black Mirror
 ---
 

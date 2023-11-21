@@ -7,9 +7,9 @@ categories:
 date: '2023-10-21T05:06:20'
 draft: false
 images:
-- /images/covers/alloxylon-flammeum_ii.png
+- /images/covers/alloxylon-flammeum_ii.jpg
 inStock: true
-thumbnailImage: /images/covers/alloxylon-flammeum_ii-thumb.png
+thumbnailImage: /images/covers/alloxylon-flammeum_ii-thumb.jpg
 title: Alloxylon - Flammeum II
 ---
 

@@ -7,9 +7,9 @@ categories:
 date: '2023-09-29T07:32:26'
 draft: false
 images:
-- /images/covers/unbegotten-astral_terror.png
+- /images/covers/unbegotten-astral_terror.jpg
 inStock: true
-thumbnailImage: /images/covers/unbegotten-astral_terror-thumb.png
+thumbnailImage: /images/covers/unbegotten-astral_terror-thumb.jpg
 title: Unbegotten - Astral Terror
 ---
 

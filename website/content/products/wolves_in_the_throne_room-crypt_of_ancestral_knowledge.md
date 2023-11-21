@@ -7,9 +7,9 @@ categories:
 date: '2023-11-19T16:33:07'
 draft: false
 images:
-- /images/covers/wolves_in_the_throne_room-crypt_of_ancestral_knowledge.png
+- /images/covers/wolves_in_the_throne_room-crypt_of_ancestral_knowledge.jpg
 inStock: true
-thumbnailImage: /images/covers/wolves_in_the_throne_room-crypt_of_ancestral_knowledge-thumb.png
+thumbnailImage: /images/covers/wolves_in_the_throne_room-crypt_of_ancestral_knowledge-thumb.jpg
 title: Wolves In The Throne Room - Crypt Of Ancestral Knowledge
 ---
 

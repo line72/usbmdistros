@@ -7,9 +7,9 @@ categories:
 date: '2023-11-19T16:32:59'
 draft: false
 images:
-- /images/covers/imperial_triumphant-spirit_of_ecstasy.png
+- /images/covers/imperial_triumphant-spirit_of_ecstasy.jpg
 inStock: true
-thumbnailImage: /images/covers/imperial_triumphant-spirit_of_ecstasy-thumb.png
+thumbnailImage: /images/covers/imperial_triumphant-spirit_of_ecstasy-thumb.jpg
 title: Imperial Triumphant - Spirit of Ecstasy
 ---
 

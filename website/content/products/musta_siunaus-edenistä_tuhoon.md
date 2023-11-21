@@ -7,9 +7,9 @@ categories:
 date: '2023-10-09T10:01:43'
 draft: false
 images:
-- "/images/covers/musta_siunaus-edenist\xE4_tuhoon.png"
+- "/images/covers/musta_siunaus-edenist\xE4_tuhoon.jpg"
 inStock: true
-thumbnailImage: "/images/covers/musta_siunaus-edenist\xE4_tuhoon-thumb.png"
+thumbnailImage: "/images/covers/musta_siunaus-edenist\xE4_tuhoon-thumb.jpg"
 title: "Musta Siunaus - Edenist\xE4 Tuhoon"
 ---
 

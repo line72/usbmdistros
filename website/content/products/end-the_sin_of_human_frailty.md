@@ -8,9 +8,9 @@ categories:
 date: '2023-11-19T16:32:17'
 draft: false
 images:
-- /images/covers/end-the_sin_of_human_frailty.png
+- /images/covers/end-the_sin_of_human_frailty.jpg
 inStock: true
-thumbnailImage: /images/covers/end-the_sin_of_human_frailty-thumb.png
+thumbnailImage: /images/covers/end-the_sin_of_human_frailty-thumb.jpg
 title: END - The Sin Of Human Frailty
 ---
 

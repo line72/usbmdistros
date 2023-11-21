@@ -7,9 +7,9 @@ categories:
 date: '2023-11-19T16:40:37'
 draft: false
 images:
-- /images/covers/solstafir-kold.png
+- /images/covers/solstafir-kold.jpg
 inStock: true
-thumbnailImage: /images/covers/solstafir-kold-thumb.png
+thumbnailImage: /images/covers/solstafir-kold-thumb.jpg
 title: Solstafir - Kold
 ---
 

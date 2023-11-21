@@ -7,9 +7,9 @@ categories:
 date: '2023-10-15T07:12:00'
 draft: false
 images:
-- "/images/covers/sarc\xF3fago-the_laws_of_scourge.png"
+- "/images/covers/sarc\xF3fago-the_laws_of_scourge.jpg"
 inStock: true
-thumbnailImage: "/images/covers/sarc\xF3fago-the_laws_of_scourge-thumb.png"
+thumbnailImage: "/images/covers/sarc\xF3fago-the_laws_of_scourge-thumb.jpg"
 title: "Sarc\xF3fago - The Laws Of Scourge"
 ---
 

@@ -7,9 +7,9 @@ categories:
 date: '2023-10-02T08:04:17'
 draft: false
 images:
-- /images/covers/the_true_werwolf-weeping_lord_of_the_majestic_plagues.png
+- /images/covers/the_true_werwolf-weeping_lord_of_the_majestic_plagues.jpg
 inStock: true
-thumbnailImage: /images/covers/the_true_werwolf-weeping_lord_of_the_majestic_plagues-thumb.png
+thumbnailImage: /images/covers/the_true_werwolf-weeping_lord_of_the_majestic_plagues-thumb.jpg
 title: The True Werwolf - Weeping Lord Of The Majestic Plagues
 ---
 

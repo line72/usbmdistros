@@ -7,9 +7,9 @@ categories:
 date: '2023-09-26T06:40:40'
 draft: false
 images:
-- /images/covers/kringa-all_stillborn_fires,_lick_my_heart!.png
+- /images/covers/kringa-all_stillborn_fires,_lick_my_heart!.jpg
 inStock: true
-thumbnailImage: /images/covers/kringa-all_stillborn_fires,_lick_my_heart!-thumb.png
+thumbnailImage: /images/covers/kringa-all_stillborn_fires,_lick_my_heart!-thumb.jpg
 title: Kringa - All Stillborn Fires, Lick my Heart!
 ---
 

@@ -7,9 +7,9 @@ categories:
 date: '2023-10-30T18:30:21'
 draft: false
 images:
-- /images/covers/bulldozer-fallen_angel.png
+- /images/covers/bulldozer-fallen_angel.jpg
 inStock: true
-thumbnailImage: /images/covers/bulldozer-fallen_angel-thumb.png
+thumbnailImage: /images/covers/bulldozer-fallen_angel-thumb.jpg
 title: Bulldozer - Fallen Angel
 ---
 

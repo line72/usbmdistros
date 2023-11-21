@@ -7,9 +7,9 @@ categories:
 date: '2023-09-27T06:40:50'
 draft: false
 images:
-- /images/covers/drowning_the_light-the_masters_empire.png
+- /images/covers/drowning_the_light-the_masters_empire.jpg
 inStock: true
-thumbnailImage: /images/covers/drowning_the_light-the_masters_empire-thumb.png
+thumbnailImage: /images/covers/drowning_the_light-the_masters_empire-thumb.jpg
 title: Drowning The Light - The Masters Empire
 ---
 

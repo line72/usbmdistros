@@ -7,9 +7,9 @@ categories:
 date: '2023-11-19T16:32:03'
 draft: false
 images:
-- /images/covers/enslaved-mardraum.png
+- /images/covers/enslaved-mardraum.jpg
 inStock: true
-thumbnailImage: /images/covers/enslaved-mardraum-thumb.png
+thumbnailImage: /images/covers/enslaved-mardraum-thumb.jpg
 title: Enslaved - Mardraum
 ---
 

@@ -7,9 +7,9 @@ categories:
 date: '2023-11-19T16:35:08'
 draft: false
 images:
-- /images/covers/horrendous-ontological_mysterium.png
+- /images/covers/horrendous-ontological_mysterium.jpg
 inStock: true
-thumbnailImage: /images/covers/horrendous-ontological_mysterium-thumb.png
+thumbnailImage: /images/covers/horrendous-ontological_mysterium-thumb.jpg
 title: Horrendous - Ontological Mysterium
 ---
 

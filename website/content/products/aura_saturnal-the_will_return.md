@@ -7,9 +7,9 @@ categories:
 date: '2023-10-02T07:46:21'
 draft: false
 images:
-- /images/covers/aura_saturnal-the_will_return.png
+- /images/covers/aura_saturnal-the_will_return.jpg
 inStock: true
-thumbnailImage: /images/covers/aura_saturnal-the_will_return-thumb.png
+thumbnailImage: /images/covers/aura_saturnal-the_will_return-thumb.jpg
 title: Aura Saturnal - The Will Return
 ---
 

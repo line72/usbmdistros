@@ -7,9 +7,9 @@ categories:
 date: '2023-10-03T06:15:28'
 draft: false
 images:
-- /images/covers/dead_reptile_shrine-the_sun_of_circles_and_wood.png
+- /images/covers/dead_reptile_shrine-the_sun_of_circles_and_wood.jpg
 inStock: true
-thumbnailImage: /images/covers/dead_reptile_shrine-the_sun_of_circles_and_wood-thumb.png
+thumbnailImage: /images/covers/dead_reptile_shrine-the_sun_of_circles_and_wood-thumb.jpg
 title: DEAD REPTILE SHRINE - The Sun Of Circles And Wood
 ---
 

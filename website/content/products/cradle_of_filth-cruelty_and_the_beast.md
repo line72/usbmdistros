@@ -7,9 +7,9 @@ categories:
 date: '2023-11-19T16:40:40'
 draft: false
 images:
-- /images/covers/cradle_of_filth-cruelty_and_the_beast.png
+- /images/covers/cradle_of_filth-cruelty_and_the_beast.jpg
 inStock: true
-thumbnailImage: /images/covers/cradle_of_filth-cruelty_and_the_beast-thumb.png
+thumbnailImage: /images/covers/cradle_of_filth-cruelty_and_the_beast-thumb.jpg
 title: Cradle Of Filth - Cruelty And The Beast
 ---
 

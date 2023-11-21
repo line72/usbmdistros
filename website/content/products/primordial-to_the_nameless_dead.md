@@ -7,9 +7,9 @@ categories:
 date: '2023-11-19T16:34:21'
 draft: false
 images:
-- /images/covers/primordial-to_the_nameless_dead.png
+- /images/covers/primordial-to_the_nameless_dead.jpg
 inStock: true
-thumbnailImage: /images/covers/primordial-to_the_nameless_dead-thumb.png
+thumbnailImage: /images/covers/primordial-to_the_nameless_dead-thumb.jpg
 title: Primordial - To The Nameless Dead
 ---
 

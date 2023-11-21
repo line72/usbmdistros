@@ -7,9 +7,9 @@ categories:
 date: '2023-10-05T09:10:43'
 draft: false
 images:
-- /images/covers/vargsang-werewolf_of_wysteria.png
+- /images/covers/vargsang-werewolf_of_wysteria.jpg
 inStock: true
-thumbnailImage: /images/covers/vargsang-werewolf_of_wysteria-thumb.png
+thumbnailImage: /images/covers/vargsang-werewolf_of_wysteria-thumb.jpg
 title: Vargsang - Werewolf Of Wysteria
 ---
 

@@ -7,9 +7,9 @@ categories:
 date: '2023-09-28T09:07:04'
 draft: false
 images:
-- /images/covers/zarathustra-in_hora_mortis.png
+- /images/covers/zarathustra-in_hora_mortis.jpg
 inStock: true
-thumbnailImage: /images/covers/zarathustra-in_hora_mortis-thumb.png
+thumbnailImage: /images/covers/zarathustra-in_hora_mortis-thumb.jpg
 title: Zarathustra - In Hora Mortis
 ---
 

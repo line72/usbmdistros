@@ -7,9 +7,9 @@ categories:
 date: '2023-09-28T07:08:01'
 draft: false
 images:
-- "/images/covers/gr\xE4fenstein-death_born.png"
+- "/images/covers/gr\xE4fenstein-death_born.jpg"
 inStock: true
-thumbnailImage: "/images/covers/gr\xE4fenstein-death_born-thumb.png"
+thumbnailImage: "/images/covers/gr\xE4fenstein-death_born-thumb.jpg"
 title: "Gr\xE4fenstein - Death Born"
 ---
 

@@ -7,9 +7,9 @@ categories:
 date: '2023-09-29T07:53:25'
 draft: false
 images:
-- /images/covers/mass_kontrol_genocide-forgotten_memories_of_a_decayed_rose_&_her_broken_hourglass.png
+- /images/covers/mass_kontrol_genocide-forgotten_memories_of_a_decayed_rose_&_her_broken_hourglass.jpg
 inStock: true
-thumbnailImage: /images/covers/mass_kontrol_genocide-forgotten_memories_of_a_decayed_rose_&_her_broken_hourglass-thumb.png
+thumbnailImage: /images/covers/mass_kontrol_genocide-forgotten_memories_of_a_decayed_rose_&_her_broken_hourglass-thumb.jpg
 title: Mass Kontrol Genocide - Forgotten Memories of a Decayed Rose & Her Broken Hourglass
 ---
 

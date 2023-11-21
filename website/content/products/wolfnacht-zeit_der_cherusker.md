@@ -7,9 +7,9 @@ categories:
 date: '2023-11-19T08:27:16'
 draft: false
 images:
-- /images/covers/wolfnacht-zeit_der_cherusker.png
+- /images/covers/wolfnacht-zeit_der_cherusker.jpg
 inStock: true
-thumbnailImage: /images/covers/wolfnacht-zeit_der_cherusker-thumb.png
+thumbnailImage: /images/covers/wolfnacht-zeit_der_cherusker-thumb.jpg
 title: Wolfnacht - Zeit der Cherusker
 ---
 

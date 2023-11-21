@@ -7,9 +7,9 @@ categories:
 date: '2023-11-19T16:33:25'
 draft: false
 images:
-- /images/covers/borknagar-quintessence.png
+- /images/covers/borknagar-quintessence.jpg
 inStock: true
-thumbnailImage: /images/covers/borknagar-quintessence-thumb.png
+thumbnailImage: /images/covers/borknagar-quintessence-thumb.jpg
 title: Borknagar - Quintessence
 ---
 

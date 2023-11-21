@@ -7,9 +7,9 @@ categories:
 date: '2023-11-19T16:34:14'
 draft: false
 images:
-- /images/covers/woe-legacies_of_frailty.png
+- /images/covers/woe-legacies_of_frailty.jpg
 inStock: true
-thumbnailImage: /images/covers/woe-legacies_of_frailty-thumb.png
+thumbnailImage: /images/covers/woe-legacies_of_frailty-thumb.jpg
 title: Woe - Legacies Of Frailty
 ---
 

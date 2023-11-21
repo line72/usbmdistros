@@ -7,9 +7,9 @@ categories:
 date: '2023-10-04T08:03:38'
 draft: false
 images:
-- "/images/covers/d\xE4monenblut-das_tor_zur_h\xF6lle.png"
+- "/images/covers/d\xE4monenblut-das_tor_zur_h\xF6lle.jpg"
 inStock: true
-thumbnailImage: "/images/covers/d\xE4monenblut-das_tor_zur_h\xF6lle-thumb.png"
+thumbnailImage: "/images/covers/d\xE4monenblut-das_tor_zur_h\xF6lle-thumb.jpg"
 title: "D\xE4monenblut - Das Tor Zur H\xF6lle"
 ---
 

@@ -7,9 +7,9 @@ categories:
 date: '2023-09-28T09:18:41'
 draft: false
 images:
-- /images/covers/drowning_the_light-dead_soul_requiem.png
+- /images/covers/drowning_the_light-dead_soul_requiem.jpg
 inStock: true
-thumbnailImage: /images/covers/drowning_the_light-dead_soul_requiem-thumb.png
+thumbnailImage: /images/covers/drowning_the_light-dead_soul_requiem-thumb.jpg
 title: Drowning The Light - Dead Soul Requiem
 ---
 

@@ -4,7 +4,7 @@ album: Nihil Nocturne
 artist: Drakonhail
 categories:
 - Vinyl
-date: '2023-10-31T06:09:17'
+date: '2023-11-20T09:29:04'
 draft: false
 images:
 - /images/covers/drakonhail-nihil_nocturne.jpg
@@ -20,3 +20,4 @@ title: Drakonhail - Nihil Nocturne
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=41690&sort=pd.name&order=ASC) for $27.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=42655&sort=pd.name&order=ASC) for $27.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=42772&sort=pd.name&order=ASC) for $27.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=43719&sort=pd.name&order=ASC) for $27.00

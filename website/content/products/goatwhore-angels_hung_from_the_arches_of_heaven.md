@@ -7,9 +7,9 @@ categories:
 date: '2023-11-19T16:38:13'
 draft: false
 images:
-- /images/covers/goatwhore-angels_hung_from_the_arches_of_heaven.png
+- /images/covers/goatwhore-angels_hung_from_the_arches_of_heaven.jpg
 inStock: true
-thumbnailImage: /images/covers/goatwhore-angels_hung_from_the_arches_of_heaven-thumb.png
+thumbnailImage: /images/covers/goatwhore-angels_hung_from_the_arches_of_heaven-thumb.jpg
 title: Goatwhore - Angels Hung from the Arches of Heaven
 ---
 

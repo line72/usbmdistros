@@ -5,7 +5,7 @@ artist: Leviathan
 categories:
 - Vinyl
 - Cassette
-date: '2023-11-18T12:29:05'
+date: '2023-11-20T10:19:58'
 draft: false
 images:
 - /images/covers/leviathan-portrait_in_scars_-_the_speed_of_darkness.jpg
@@ -37,5 +37,6 @@ title: Leviathan - Portrait in Scars / The Speed of Darkness
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=43311&sort=pd.name&order=ASC) for $30.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=43404&sort=pd.name&order=ASC) for $30.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=43538&sort=pd.name&order=ASC) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=43688&sort=pd.name&order=ASC) for $30.00
 ## Cassette
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/used-leviathan-portrait-in-scars-the-speed-of-darkness-tape) for $20.00 :: Burgundy Shell 2021 press

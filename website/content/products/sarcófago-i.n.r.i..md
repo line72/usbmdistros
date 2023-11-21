@@ -7,9 +7,9 @@ categories:
 date: '2023-10-22T07:17:55'
 draft: false
 images:
-- "/images/covers/sarc\xF3fago-i.n.r.i..png"
+- "/images/covers/sarc\xF3fago-i.n.r.i..jpg"
 inStock: true
-thumbnailImage: "/images/covers/sarc\xF3fago-i.n.r.i.-thumb.png"
+thumbnailImage: "/images/covers/sarc\xF3fago-i.n.r.i.-thumb.jpg"
 title: "Sarc\xF3fago - I.N.R.I."
 ---
 

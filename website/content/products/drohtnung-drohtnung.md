@@ -7,9 +7,9 @@ categories:
 date: '2023-09-29T06:19:48'
 draft: false
 images:
-- /images/covers/drohtnung-drohtnung.png
+- /images/covers/drohtnung-drohtnung.jpg
 inStock: true
-thumbnailImage: /images/covers/drohtnung-drohtnung-thumb.png
+thumbnailImage: /images/covers/drohtnung-drohtnung-thumb.jpg
 title: Drohtnung - Drohtnung
 ---
 

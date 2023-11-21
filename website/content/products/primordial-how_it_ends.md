@@ -7,9 +7,9 @@ categories:
 date: '2023-11-19T16:34:21'
 draft: false
 images:
-- /images/covers/primordial-how_it_ends.png
+- /images/covers/primordial-how_it_ends.jpg
 inStock: true
-thumbnailImage: /images/covers/primordial-how_it_ends-thumb.png
+thumbnailImage: /images/covers/primordial-how_it_ends-thumb.jpg
 title: Primordial - How It Ends
 ---
 

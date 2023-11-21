@@ -7,9 +7,9 @@ categories:
 date: '2023-11-19T16:33:34'
 draft: false
 images:
-- /images/covers/rotting_christ-genesis.png
+- /images/covers/rotting_christ-genesis.jpg
 inStock: true
-thumbnailImage: /images/covers/rotting_christ-genesis-thumb.png
+thumbnailImage: /images/covers/rotting_christ-genesis-thumb.jpg
 title: Rotting Christ - Genesis
 ---
 

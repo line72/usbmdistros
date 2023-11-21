@@ -7,9 +7,9 @@ categories:
 date: '2023-11-16T06:30:10'
 draft: false
 images:
-- /images/covers/circle_of_ouroborus-mullan_tuoksu....png
+- /images/covers/circle_of_ouroborus-mullan_tuoksu....jpg
 inStock: true
-thumbnailImage: /images/covers/circle_of_ouroborus-mullan_tuoksu...-thumb.png
+thumbnailImage: /images/covers/circle_of_ouroborus-mullan_tuoksu...-thumb.jpg
 title: Circle of Ouroborus - Mullan Tuoksu...
 ---
 

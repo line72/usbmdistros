@@ -7,9 +7,9 @@ categories:
 date: '2023-10-05T09:14:07'
 draft: false
 images:
-- /images/covers/xasthur-a_gate_through_bloodstained_mirrors.png
+- /images/covers/xasthur-a_gate_through_bloodstained_mirrors.jpg
 inStock: true
-thumbnailImage: /images/covers/xasthur-a_gate_through_bloodstained_mirrors-thumb.png
+thumbnailImage: /images/covers/xasthur-a_gate_through_bloodstained_mirrors-thumb.jpg
 title: Xasthur - A Gate Through Bloodstained Mirrors
 ---
 

@@ -7,9 +7,9 @@ categories:
 date: '2023-10-23T08:05:41'
 draft: false
 images:
-- /images/covers/ancient_rites-dim_carcosa.png
+- /images/covers/ancient_rites-dim_carcosa.jpg
 inStock: true
-thumbnailImage: /images/covers/ancient_rites-dim_carcosa-thumb.png
+thumbnailImage: /images/covers/ancient_rites-dim_carcosa-thumb.jpg
 title: Ancient Rites - Dim Carcosa
 ---
 

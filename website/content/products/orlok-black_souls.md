@@ -7,9 +7,9 @@ categories:
 date: '2023-11-16T06:30:11'
 draft: false
 images:
-- /images/covers/orlok-black_souls.png
+- /images/covers/orlok-black_souls.jpg
 inStock: true
-thumbnailImage: /images/covers/orlok-black_souls-thumb.png
+thumbnailImage: /images/covers/orlok-black_souls-thumb.jpg
 title: Orlok - Black Souls
 ---
 

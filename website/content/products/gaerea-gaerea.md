@@ -7,9 +7,9 @@ categories:
 date: '2023-11-19T16:38:26'
 draft: false
 images:
-- /images/covers/gaerea-gaerea.png
+- /images/covers/gaerea-gaerea.jpg
 inStock: true
-thumbnailImage: /images/covers/gaerea-gaerea-thumb.png
+thumbnailImage: /images/covers/gaerea-gaerea-thumb.jpg
 title: Gaerea - Gaerea
 ---
 

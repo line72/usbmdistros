@@ -7,9 +7,9 @@ categories:
 date: '2023-11-06T12:58:42'
 draft: false
 images:
-- /images/covers/niadh-our_victory_is_eternal.png
+- /images/covers/niadh-our_victory_is_eternal.jpg
 inStock: true
-thumbnailImage: /images/covers/niadh-our_victory_is_eternal-thumb.png
+thumbnailImage: /images/covers/niadh-our_victory_is_eternal-thumb.jpg
 title: Niadh - Our Victory Is Eternal
 ---
 

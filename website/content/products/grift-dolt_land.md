@@ -8,9 +8,9 @@ categories:
 date: '2023-09-24T05:55:02'
 draft: false
 images:
-- /images/covers/grift-dolt_land.png
+- /images/covers/grift-dolt_land.jpg
 inStock: true
-thumbnailImage: /images/covers/grift-dolt_land-thumb.png
+thumbnailImage: /images/covers/grift-dolt_land-thumb.jpg
 title: Grift - Dolt Land
 ---
 

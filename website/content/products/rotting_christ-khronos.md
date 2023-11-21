@@ -7,9 +7,9 @@ categories:
 date: '2023-11-19T16:33:33'
 draft: false
 images:
-- /images/covers/rotting_christ-khronos.png
+- /images/covers/rotting_christ-khronos.jpg
 inStock: true
-thumbnailImage: /images/covers/rotting_christ-khronos-thumb.png
+thumbnailImage: /images/covers/rotting_christ-khronos-thumb.jpg
 title: Rotting Christ - Khronos
 ---
 

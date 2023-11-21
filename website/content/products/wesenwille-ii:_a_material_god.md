@@ -7,9 +7,9 @@ categories:
 date: '2023-10-08T05:03:23'
 draft: false
 images:
-- /images/covers/wesenwille-ii:_a_material_god.png
+- /images/covers/wesenwille-ii:_a_material_god.jpg
 inStock: true
-thumbnailImage: /images/covers/wesenwille-ii:_a_material_god-thumb.png
+thumbnailImage: /images/covers/wesenwille-ii:_a_material_god-thumb.jpg
 title: 'Wesenwille - II: A Material God'
 ---
 

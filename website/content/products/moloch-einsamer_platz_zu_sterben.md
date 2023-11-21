@@ -7,9 +7,9 @@ categories:
 date: '2023-10-31T07:40:56'
 draft: false
 images:
-- /images/covers/moloch-einsamer_platz_zu_sterben.png
+- /images/covers/moloch-einsamer_platz_zu_sterben.jpg
 inStock: true
-thumbnailImage: /images/covers/moloch-einsamer_platz_zu_sterben-thumb.png
+thumbnailImage: /images/covers/moloch-einsamer_platz_zu_sterben-thumb.jpg
 title: Moloch - Einsamer Platz Zu Sterben
 ---
 

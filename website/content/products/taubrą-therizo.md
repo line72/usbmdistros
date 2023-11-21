@@ -7,9 +7,9 @@ categories:
 date: '2023-11-19T16:33:38'
 draft: false
 images:
-- "/images/covers/taubr\u0105-therizo.png"
+- "/images/covers/taubr\u0105-therizo.jpg"
 inStock: true
-thumbnailImage: "/images/covers/taubr\u0105-therizo-thumb.png"
+thumbnailImage: "/images/covers/taubr\u0105-therizo-thumb.jpg"
 title: "Taubr\u0105 - THERIZO"
 ---
 

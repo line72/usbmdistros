@@ -7,9 +7,9 @@ categories:
 date: '2023-11-19T16:34:13'
 draft: false
 images:
-- /images/covers/a_pale_december-death_panacea.png
+- /images/covers/a_pale_december-death_panacea.jpg
 inStock: true
-thumbnailImage: /images/covers/a_pale_december-death_panacea-thumb.png
+thumbnailImage: /images/covers/a_pale_december-death_panacea-thumb.jpg
 title: A Pale December - Death Panacea
 ---
 

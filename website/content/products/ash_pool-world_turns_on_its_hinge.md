@@ -7,9 +7,9 @@ categories:
 date: '2023-11-19T08:28:04'
 draft: false
 images:
-- /images/covers/ash_pool-world_turns_on_its_hinge.png
+- /images/covers/ash_pool-world_turns_on_its_hinge.jpg
 inStock: true
-thumbnailImage: /images/covers/ash_pool-world_turns_on_its_hinge-thumb.png
+thumbnailImage: /images/covers/ash_pool-world_turns_on_its_hinge-thumb.jpg
 title: Ash Pool - World Turns on Its Hinge
 ---
 

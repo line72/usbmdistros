@@ -7,9 +7,9 @@ categories:
 date: '2023-10-04T07:33:49'
 draft: false
 images:
-- /images/covers/horna-sota.png
+- /images/covers/horna-sota.jpg
 inStock: true
-thumbnailImage: /images/covers/horna-sota-thumb.png
+thumbnailImage: /images/covers/horna-sota-thumb.jpg
 title: Horna - Sota
 ---
 

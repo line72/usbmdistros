@@ -7,9 +7,9 @@ categories:
 date: '2023-11-19T16:33:33'
 draft: false
 images:
-- /images/covers/rotting_christ-sleep_of_the_angels.png
+- /images/covers/rotting_christ-sleep_of_the_angels.jpg
 inStock: true
-thumbnailImage: /images/covers/rotting_christ-sleep_of_the_angels-thumb.png
+thumbnailImage: /images/covers/rotting_christ-sleep_of_the_angels-thumb.jpg
 title: Rotting Christ - Sleep Of The Angels
 ---
 

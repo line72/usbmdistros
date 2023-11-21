@@ -7,9 +7,9 @@ categories:
 date: '2023-10-03T07:43:33'
 draft: false
 images:
-- /images/covers/venus_star-hand_&_head.png
+- /images/covers/venus_star-hand_&_head.jpg
 inStock: true
-thumbnailImage: /images/covers/venus_star-hand_&_head-thumb.png
+thumbnailImage: /images/covers/venus_star-hand_&_head-thumb.jpg
 title: Venus Star - Hand & Head
 ---
 

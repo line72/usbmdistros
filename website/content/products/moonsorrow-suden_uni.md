@@ -7,9 +7,9 @@ categories:
 date: '2023-11-19T16:32:34'
 draft: false
 images:
-- /images/covers/moonsorrow-suden_uni.png
+- /images/covers/moonsorrow-suden_uni.jpg
 inStock: true
-thumbnailImage: /images/covers/moonsorrow-suden_uni-thumb.png
+thumbnailImage: /images/covers/moonsorrow-suden_uni-thumb.jpg
 title: Moonsorrow - Suden Uni
 ---
 

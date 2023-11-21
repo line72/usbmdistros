@@ -7,9 +7,9 @@ categories:
 date: '2023-11-19T16:39:35'
 draft: false
 images:
-- /images/covers/spirit_possession-of_the_sign....png
+- /images/covers/spirit_possession-of_the_sign....jpg
 inStock: true
-thumbnailImage: /images/covers/spirit_possession-of_the_sign...-thumb.png
+thumbnailImage: /images/covers/spirit_possession-of_the_sign...-thumb.jpg
 title: Spirit Possession - Of The Sign...
 ---
 

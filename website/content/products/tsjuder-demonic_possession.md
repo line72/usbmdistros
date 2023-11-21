@@ -7,9 +7,9 @@ categories:
 date: '2023-11-19T16:40:39'
 draft: false
 images:
-- /images/covers/tsjuder-demonic_possession.png
+- /images/covers/tsjuder-demonic_possession.jpg
 inStock: true
-thumbnailImage: /images/covers/tsjuder-demonic_possession-thumb.png
+thumbnailImage: /images/covers/tsjuder-demonic_possession-thumb.jpg
 title: Tsjuder - Demonic Possession
 ---
 

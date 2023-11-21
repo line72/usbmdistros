@@ -7,9 +7,9 @@ categories:
 date: '2023-11-19T16:39:17'
 draft: false
 images:
-- /images/covers/arcturus-aspera_hiems_symfonia.png
+- /images/covers/arcturus-aspera_hiems_symfonia.jpg
 inStock: true
-thumbnailImage: /images/covers/arcturus-aspera_hiems_symfonia-thumb.png
+thumbnailImage: /images/covers/arcturus-aspera_hiems_symfonia-thumb.jpg
 title: Arcturus - Aspera Hiems Symfonia
 ---
 

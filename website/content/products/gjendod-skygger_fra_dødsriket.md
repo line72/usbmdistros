@@ -7,9 +7,9 @@ categories:
 date: '2023-11-19T08:27:06'
 draft: false
 images:
-- "/images/covers/gjendod-skygger_fra_d\xF8dsriket.png"
+- "/images/covers/gjendod-skygger_fra_d\xF8dsriket.jpg"
 inStock: true
-thumbnailImage: "/images/covers/gjendod-skygger_fra_d\xF8dsriket-thumb.png"
+thumbnailImage: "/images/covers/gjendod-skygger_fra_d\xF8dsriket-thumb.jpg"
 title: "Gjendod - Skygger Fra D\xF8dsriket"
 ---
 

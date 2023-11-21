@@ -7,9 +7,9 @@ categories:
 date: '2023-11-19T11:15:15'
 draft: false
 images:
-- /images/covers/eternal_rest-the_picture_of_hatred.png
+- /images/covers/eternal_rest-the_picture_of_hatred.jpg
 inStock: true
-thumbnailImage: /images/covers/eternal_rest-the_picture_of_hatred-thumb.png
+thumbnailImage: /images/covers/eternal_rest-the_picture_of_hatred-thumb.jpg
 title: Eternal Rest - The Picture Of Hatred
 ---
 

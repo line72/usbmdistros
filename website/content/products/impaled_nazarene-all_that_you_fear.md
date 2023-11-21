@@ -7,9 +7,9 @@ categories:
 date: '2023-11-19T16:32:00'
 draft: false
 images:
-- /images/covers/impaled_nazarene-all_that_you_fear.png
+- /images/covers/impaled_nazarene-all_that_you_fear.jpg
 inStock: true
-thumbnailImage: /images/covers/impaled_nazarene-all_that_you_fear-thumb.png
+thumbnailImage: /images/covers/impaled_nazarene-all_that_you_fear-thumb.jpg
 title: Impaled Nazarene - All That You Fear
 ---
 

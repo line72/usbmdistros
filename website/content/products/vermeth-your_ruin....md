@@ -7,9 +7,9 @@ categories:
 date: '2023-11-16T06:30:11'
 draft: false
 images:
-- /images/covers/vermeth-your_ruin....png
+- /images/covers/vermeth-your_ruin....jpg
 inStock: true
-thumbnailImage: /images/covers/vermeth-your_ruin...-thumb.png
+thumbnailImage: /images/covers/vermeth-your_ruin...-thumb.jpg
 title: Vermeth - Your Ruin...
 ---
 

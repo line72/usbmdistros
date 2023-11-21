@@ -7,9 +7,9 @@ categories:
 date: '2023-10-03T07:20:20'
 draft: false
 images:
-- /images/covers/ride_for_revenge-thy_horrendous_yearning.png
+- /images/covers/ride_for_revenge-thy_horrendous_yearning.jpg
 inStock: true
-thumbnailImage: /images/covers/ride_for_revenge-thy_horrendous_yearning-thumb.png
+thumbnailImage: /images/covers/ride_for_revenge-thy_horrendous_yearning-thumb.jpg
 title: Ride for Revenge - Thy Horrendous Yearning
 ---
 

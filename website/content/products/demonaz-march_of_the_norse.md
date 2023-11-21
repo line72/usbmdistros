@@ -7,9 +7,9 @@ categories:
 date: '2023-11-19T16:38:27'
 draft: false
 images:
-- /images/covers/demonaz-march_of_the_norse.png
+- /images/covers/demonaz-march_of_the_norse.jpg
 inStock: true
-thumbnailImage: /images/covers/demonaz-march_of_the_norse-thumb.png
+thumbnailImage: /images/covers/demonaz-march_of_the_norse-thumb.jpg
 title: Demonaz - March of the Norse
 ---
 

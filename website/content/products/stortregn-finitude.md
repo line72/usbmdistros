@@ -7,9 +7,9 @@ categories:
 date: '2023-11-19T16:33:17'
 draft: false
 images:
-- /images/covers/stortregn-finitude.png
+- /images/covers/stortregn-finitude.jpg
 inStock: true
-thumbnailImage: /images/covers/stortregn-finitude-thumb.png
+thumbnailImage: /images/covers/stortregn-finitude-thumb.jpg
 title: Stortregn - FINITUDE
 ---
 

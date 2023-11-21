@@ -7,9 +7,9 @@ categories:
 date: '2023-10-05T08:52:38'
 draft: false
 images:
-- /images/covers/nargaroth-semper_fidelis.png
+- /images/covers/nargaroth-semper_fidelis.jpg
 inStock: true
-thumbnailImage: /images/covers/nargaroth-semper_fidelis-thumb.png
+thumbnailImage: /images/covers/nargaroth-semper_fidelis-thumb.jpg
 title: Nargaroth - Semper Fidelis
 ---
 

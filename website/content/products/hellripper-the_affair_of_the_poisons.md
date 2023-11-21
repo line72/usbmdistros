@@ -7,9 +7,9 @@ categories:
 date: '2023-11-19T16:34:23'
 draft: false
 images:
-- /images/covers/hellripper-the_affair_of_the_poisons.png
+- /images/covers/hellripper-the_affair_of_the_poisons.jpg
 inStock: true
-thumbnailImage: /images/covers/hellripper-the_affair_of_the_poisons-thumb.png
+thumbnailImage: /images/covers/hellripper-the_affair_of_the_poisons-thumb.jpg
 title: Hellripper - The Affair of the Poisons
 ---
 

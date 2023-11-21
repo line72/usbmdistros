@@ -7,9 +7,9 @@ categories:
 date: '2023-11-19T16:32:08'
 draft: false
 images:
-- /images/covers/gudsforladt-friendship,_love_and_war.png
+- /images/covers/gudsforladt-friendship,_love_and_war.jpg
 inStock: true
-thumbnailImage: /images/covers/gudsforladt-friendship,_love_and_war-thumb.png
+thumbnailImage: /images/covers/gudsforladt-friendship,_love_and_war-thumb.jpg
 title: Gudsforladt - Friendship, Love and War
 ---
 

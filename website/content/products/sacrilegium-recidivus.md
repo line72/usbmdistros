@@ -7,9 +7,9 @@ categories:
 date: '2023-11-19T15:42:46'
 draft: false
 images:
-- /images/covers/sacrilegium-recidivus.png
+- /images/covers/sacrilegium-recidivus.jpg
 inStock: true
-thumbnailImage: /images/covers/sacrilegium-recidivus-thumb.png
+thumbnailImage: /images/covers/sacrilegium-recidivus-thumb.jpg
 title: Sacrilegium - Recidivus
 ---
 

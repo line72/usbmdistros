@@ -7,9 +7,9 @@ categories:
 date: '2023-10-05T07:34:45'
 draft: false
 images:
-- "/images/covers/vemoth-k\xF6ttkroksvals.png"
+- "/images/covers/vemoth-k\xF6ttkroksvals.jpg"
 inStock: true
-thumbnailImage: "/images/covers/vemoth-k\xF6ttkroksvals-thumb.png"
+thumbnailImage: "/images/covers/vemoth-k\xF6ttkroksvals-thumb.jpg"
 title: "Vemoth - K\xF6ttkroksvals"
 ---
 

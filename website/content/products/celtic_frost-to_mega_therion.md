@@ -7,9 +7,9 @@ categories:
 date: '2023-09-27T06:32:30'
 draft: false
 images:
-- /images/covers/celtic_frost-to_mega_therion.png
+- /images/covers/celtic_frost-to_mega_therion.jpg
 inStock: true
-thumbnailImage: /images/covers/celtic_frost-to_mega_therion-thumb.png
+thumbnailImage: /images/covers/celtic_frost-to_mega_therion-thumb.jpg
 title: Celtic Frost - To Mega Therion
 ---
 

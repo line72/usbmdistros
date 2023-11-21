@@ -7,9 +7,9 @@ categories:
 date: '2023-09-27T09:30:41'
 draft: false
 images:
-- /images/covers/intolerance-hail_the_triumvirate!.png
+- /images/covers/intolerance-hail_the_triumvirate!.jpg
 inStock: true
-thumbnailImage: /images/covers/intolerance-hail_the_triumvirate!-thumb.png
+thumbnailImage: /images/covers/intolerance-hail_the_triumvirate!-thumb.jpg
 title: Intolerance - Hail the Triumvirate!
 ---
 

@@ -7,9 +7,9 @@ categories:
 date: '2023-10-02T10:02:10'
 draft: false
 images:
-- /images/covers/selvmorrd-bis_zum_ende.png
+- /images/covers/selvmorrd-bis_zum_ende.jpg
 inStock: true
-thumbnailImage: /images/covers/selvmorrd-bis_zum_ende-thumb.png
+thumbnailImage: /images/covers/selvmorrd-bis_zum_ende-thumb.jpg
 title: Selvmorrd - Bis Zum Ende
 ---
 

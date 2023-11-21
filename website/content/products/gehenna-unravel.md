@@ -4,7 +4,7 @@ album: Unravel
 artist: Gehenna
 categories:
 - Vinyl
-date: '2023-11-10T11:52:26'
+date: '2023-11-20T09:46:11'
 draft: false
 images:
 - /images/covers/gehenna-unravel.jpg
@@ -20,3 +20,4 @@ title: Gehenna - Unravel
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=37628&sort=pd.name&order=ASC) for $30.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=42245&sort=pd.name&order=ASC) for $30.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=43161&sort=pd.name&order=ASC) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=43700&sort=pd.name&order=ASC) for $30.00

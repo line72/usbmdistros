@@ -7,9 +7,9 @@ categories:
 date: '2023-10-22T06:28:39'
 draft: false
 images:
-- /images/covers/goatmoon-stella_polaris.png
+- /images/covers/goatmoon-stella_polaris.jpg
 inStock: true
-thumbnailImage: /images/covers/goatmoon-stella_polaris-thumb.png
+thumbnailImage: /images/covers/goatmoon-stella_polaris-thumb.jpg
 title: Goatmoon - Stella Polaris
 ---
 

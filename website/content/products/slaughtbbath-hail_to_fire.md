@@ -7,9 +7,9 @@ categories:
 date: '2023-09-28T08:31:26'
 draft: false
 images:
-- /images/covers/slaughtbbath-hail_to_fire.png
+- /images/covers/slaughtbbath-hail_to_fire.jpg
 inStock: true
-thumbnailImage: /images/covers/slaughtbbath-hail_to_fire-thumb.png
+thumbnailImage: /images/covers/slaughtbbath-hail_to_fire-thumb.jpg
 title: Slaughtbbath - Hail To Fire
 ---
 

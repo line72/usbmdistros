@@ -7,9 +7,9 @@ categories:
 date: '2023-11-19T13:23:54'
 draft: false
 images:
-- /images/covers/balkan-balkan.png
+- /images/covers/balkan-balkan.jpg
 inStock: true
-thumbnailImage: /images/covers/balkan-balkan-thumb.png
+thumbnailImage: /images/covers/balkan-balkan-thumb.jpg
 title: Balkan - Balkan
 ---
 

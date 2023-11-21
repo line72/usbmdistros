@@ -7,9 +7,9 @@ categories:
 date: '2023-11-19T16:38:46'
 draft: false
 images:
-- /images/covers/fluisteraars-bloem.png
+- /images/covers/fluisteraars-bloem.jpg
 inStock: true
-thumbnailImage: /images/covers/fluisteraars-bloem-thumb.png
+thumbnailImage: /images/covers/fluisteraars-bloem-thumb.jpg
 title: Fluisteraars - Bloem
 ---
 

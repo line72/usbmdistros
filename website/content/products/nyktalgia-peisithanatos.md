@@ -7,9 +7,9 @@ categories:
 date: '2023-10-05T08:55:41'
 draft: false
 images:
-- /images/covers/nyktalgia-peisithanatos.png
+- /images/covers/nyktalgia-peisithanatos.jpg
 inStock: true
-thumbnailImage: /images/covers/nyktalgia-peisithanatos-thumb.png
+thumbnailImage: /images/covers/nyktalgia-peisithanatos-thumb.jpg
 title: Nyktalgia - Peisithanatos
 ---
 

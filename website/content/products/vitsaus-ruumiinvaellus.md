@@ -7,9 +7,9 @@ categories:
 date: '2023-10-31T07:49:13'
 draft: false
 images:
-- /images/covers/vitsaus-ruumiinvaellus.png
+- /images/covers/vitsaus-ruumiinvaellus.jpg
 inStock: true
-thumbnailImage: /images/covers/vitsaus-ruumiinvaellus-thumb.png
+thumbnailImage: /images/covers/vitsaus-ruumiinvaellus-thumb.jpg
 title: Vitsaus - Ruumiinvaellus
 ---
 

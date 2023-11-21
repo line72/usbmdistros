@@ -7,9 +7,9 @@ categories:
 date: '2023-10-03T07:29:24'
 draft: false
 images:
-- /images/covers/sargeist-the_rebirth_of_a_cursed_existence.png
+- /images/covers/sargeist-the_rebirth_of_a_cursed_existence.jpg
 inStock: true
-thumbnailImage: /images/covers/sargeist-the_rebirth_of_a_cursed_existence-thumb.png
+thumbnailImage: /images/covers/sargeist-the_rebirth_of_a_cursed_existence-thumb.jpg
 title: Sargeist - The Rebirth Of A Cursed Existence
 ---
 

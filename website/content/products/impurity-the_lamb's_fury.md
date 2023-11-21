@@ -7,9 +7,9 @@ categories:
 date: '2023-10-06T06:16:46'
 draft: false
 images:
-- /images/covers/impurity-the_lamb's_fury.png
+- /images/covers/impurity-the_lamb's_fury.jpg
 inStock: true
-thumbnailImage: /images/covers/impurity-the_lamb's_fury-thumb.png
+thumbnailImage: /images/covers/impurity-the_lamb's_fury-thumb.jpg
 title: Impurity - The Lamb's Fury
 ---
 

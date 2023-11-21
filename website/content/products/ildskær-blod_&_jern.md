@@ -8,9 +8,9 @@ categories:
 date: '2023-11-19T09:04:20'
 draft: false
 images:
-- "/images/covers/ildsk\xE6r-blod_&_jern.png"
+- "/images/covers/ildsk\xE6r-blod_&_jern.jpg"
 inStock: true
-thumbnailImage: "/images/covers/ildsk\xE6r-blod_&_jern-thumb.png"
+thumbnailImage: "/images/covers/ildsk\xE6r-blod_&_jern-thumb.jpg"
 title: "ILDSK\xC6R - Blod & Jern"
 ---
 

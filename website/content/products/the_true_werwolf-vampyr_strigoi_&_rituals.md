@@ -7,9 +7,9 @@ categories:
 date: '2023-10-04T09:06:29'
 draft: false
 images:
-- /images/covers/the_true_werwolf-vampyr_strigoi_&_rituals.png
+- /images/covers/the_true_werwolf-vampyr_strigoi_&_rituals.jpg
 inStock: true
-thumbnailImage: /images/covers/the_true_werwolf-vampyr_strigoi_&_rituals-thumb.png
+thumbnailImage: /images/covers/the_true_werwolf-vampyr_strigoi_&_rituals-thumb.jpg
 title: The True Werwolf - Vampyr Strigoi & Rituals
 ---
 

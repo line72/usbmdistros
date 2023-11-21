@@ -7,9 +7,9 @@ categories:
 date: '2023-10-25T06:00:07'
 draft: false
 images:
-- /images/covers/burzum-burzum-aske.png
+- /images/covers/burzum-burzum-aske.jpg
 inStock: true
-thumbnailImage: /images/covers/burzum-burzum-aske-thumb.png
+thumbnailImage: /images/covers/burzum-burzum-aske-thumb.jpg
 title: Burzum - Burzum/Aske
 ---
 

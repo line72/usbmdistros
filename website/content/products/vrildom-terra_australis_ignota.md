@@ -7,9 +7,9 @@ categories:
 date: '2023-11-19T08:27:12'
 draft: false
 images:
-- /images/covers/vrildom-terra_australis_ignota.png
+- /images/covers/vrildom-terra_australis_ignota.jpg
 inStock: true
-thumbnailImage: /images/covers/vrildom-terra_australis_ignota-thumb.png
+thumbnailImage: /images/covers/vrildom-terra_australis_ignota-thumb.jpg
 title: Vrildom - Terra Australis Ignota
 ---
 

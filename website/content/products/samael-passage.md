@@ -7,9 +7,9 @@ categories:
 date: '2023-11-19T16:33:37'
 draft: false
 images:
-- /images/covers/samael-passage.png
+- /images/covers/samael-passage.jpg
 inStock: true
-thumbnailImage: /images/covers/samael-passage-thumb.png
+thumbnailImage: /images/covers/samael-passage-thumb.jpg
 title: Samael - Passage
 ---
 

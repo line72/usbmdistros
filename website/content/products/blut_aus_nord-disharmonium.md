@@ -7,9 +7,9 @@ categories:
 date: '2023-11-19T16:38:49'
 draft: false
 images:
-- /images/covers/blut_aus_nord-disharmonium.png
+- /images/covers/blut_aus_nord-disharmonium.jpg
 inStock: true
-thumbnailImage: /images/covers/blut_aus_nord-disharmonium-thumb.png
+thumbnailImage: /images/covers/blut_aus_nord-disharmonium-thumb.jpg
 title: Blut Aus Nord - Disharmonium
 ---
 

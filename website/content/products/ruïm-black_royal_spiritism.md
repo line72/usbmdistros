@@ -7,9 +7,9 @@ categories:
 date: '2023-11-19T16:38:33'
 draft: false
 images:
-- "/images/covers/ru\xEFm-black_royal_spiritism.png"
+- "/images/covers/ru\xEFm-black_royal_spiritism.jpg"
 inStock: true
-thumbnailImage: "/images/covers/ru\xEFm-black_royal_spiritism-thumb.png"
+thumbnailImage: "/images/covers/ru\xEFm-black_royal_spiritism-thumb.jpg"
 title: "RU\xCFM - Black Royal Spiritism"
 ---
 

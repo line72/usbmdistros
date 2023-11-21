@@ -7,9 +7,9 @@ categories:
 date: '2023-11-19T16:38:48'
 draft: false
 images:
-- /images/covers/panzerfaust-the_lucifer_principle.png
+- /images/covers/panzerfaust-the_lucifer_principle.jpg
 inStock: true
-thumbnailImage: /images/covers/panzerfaust-the_lucifer_principle-thumb.png
+thumbnailImage: /images/covers/panzerfaust-the_lucifer_principle-thumb.jpg
 title: Panzerfaust - The Lucifer Principle
 ---
 

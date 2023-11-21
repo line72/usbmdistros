@@ -7,9 +7,9 @@ categories:
 date: '2023-11-19T16:33:28'
 draft: false
 images:
-- /images/covers/heretoir-nightsphere.png
+- /images/covers/heretoir-nightsphere.jpg
 inStock: true
-thumbnailImage: /images/covers/heretoir-nightsphere-thumb.png
+thumbnailImage: /images/covers/heretoir-nightsphere-thumb.jpg
 title: Heretoir - Nightsphere
 ---
 

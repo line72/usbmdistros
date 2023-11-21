@@ -7,9 +7,9 @@ categories:
 date: '2023-11-19T08:27:17'
 draft: false
 images:
-- /images/covers/wolfnacht-dawn_of_heathens.png
+- /images/covers/wolfnacht-dawn_of_heathens.jpg
 inStock: true
-thumbnailImage: /images/covers/wolfnacht-dawn_of_heathens-thumb.png
+thumbnailImage: /images/covers/wolfnacht-dawn_of_heathens-thumb.jpg
 title: Wolfnacht - Dawn of Heathens
 ---
 

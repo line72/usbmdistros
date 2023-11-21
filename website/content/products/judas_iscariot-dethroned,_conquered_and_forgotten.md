@@ -7,9 +7,9 @@ categories:
 date: '2023-11-08T17:44:25'
 draft: false
 images:
-- /images/covers/judas_iscariot-dethroned,_conquered_and_forgotten.png
+- /images/covers/judas_iscariot-dethroned,_conquered_and_forgotten.jpg
 inStock: true
-thumbnailImage: /images/covers/judas_iscariot-dethroned,_conquered_and_forgotten-thumb.png
+thumbnailImage: /images/covers/judas_iscariot-dethroned,_conquered_and_forgotten-thumb.jpg
 title: Judas Iscariot - Dethroned, Conquered And Forgotten
 ---
 

@@ -8,9 +8,9 @@ categories:
 date: '2023-11-01T05:14:04'
 draft: false
 images:
-- "/images/covers/ma\u021Fp\xEDya_l\xFAta-wowahwala.png"
+- "/images/covers/ma\u021Fp\xEDya_l\xFAta-wowahwala.jpg"
 inStock: true
-thumbnailImage: "/images/covers/ma\u021Fp\xEDya_l\xFAta-wowahwala-thumb.png"
+thumbnailImage: "/images/covers/ma\u021Fp\xEDya_l\xFAta-wowahwala-thumb.jpg"
 title: "Ma\u021Fp\xEDya L\xFAta - Wowahwala"
 ---
 

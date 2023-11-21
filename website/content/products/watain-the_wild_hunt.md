@@ -7,9 +7,9 @@ categories:
 date: '2023-10-23T09:30:30'
 draft: false
 images:
-- /images/covers/watain-the_wild_hunt.png
+- /images/covers/watain-the_wild_hunt.jpg
 inStock: true
-thumbnailImage: /images/covers/watain-the_wild_hunt-thumb.png
+thumbnailImage: /images/covers/watain-the_wild_hunt-thumb.jpg
 title: Watain - The Wild Hunt
 ---
 

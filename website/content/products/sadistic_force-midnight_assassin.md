@@ -7,9 +7,9 @@ categories:
 date: '2023-11-09T13:44:49'
 draft: false
 images:
-- /images/covers/sadistic_force-midnight_assassin.png
+- /images/covers/sadistic_force-midnight_assassin.jpg
 inStock: true
-thumbnailImage: /images/covers/sadistic_force-midnight_assassin-thumb.png
+thumbnailImage: /images/covers/sadistic_force-midnight_assassin-thumb.jpg
 title: Sadistic Force - Midnight Assassin
 ---
 

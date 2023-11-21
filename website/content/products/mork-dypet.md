@@ -7,9 +7,9 @@ categories:
 date: '2023-11-19T16:33:13'
 draft: false
 images:
-- /images/covers/mork-dypet.png
+- /images/covers/mork-dypet.jpg
 inStock: true
-thumbnailImage: /images/covers/mork-dypet-thumb.png
+thumbnailImage: /images/covers/mork-dypet-thumb.jpg
 title: Mork - Dypet
 ---
 

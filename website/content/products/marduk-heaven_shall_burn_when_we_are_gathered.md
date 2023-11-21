@@ -7,9 +7,9 @@ categories:
 date: '2023-11-19T16:32:01'
 draft: false
 images:
-- /images/covers/marduk-heaven_shall_burn_when_we_are_gathered.png
+- /images/covers/marduk-heaven_shall_burn_when_we_are_gathered.jpg
 inStock: true
-thumbnailImage: /images/covers/marduk-heaven_shall_burn_when_we_are_gathered-thumb.png
+thumbnailImage: /images/covers/marduk-heaven_shall_burn_when_we_are_gathered-thumb.jpg
 title: Marduk - Heaven Shall Burn When We Are Gathered
 ---
 

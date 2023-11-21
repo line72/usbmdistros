@@ -5,7 +5,7 @@ artist: Leviathan
 categories:
 - Vinyl
 - Cassette
-date: '2023-11-18T12:29:02'
+date: '2023-11-20T10:19:56'
 draft: false
 images:
 - /images/covers/leviathan-a_silhouette_in_splinters.jpg
@@ -21,5 +21,6 @@ title: Leviathan - A Silhouette In Splinters
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=43313&sort=pd.name&order=ASC) for $35.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=43405&sort=pd.name&order=ASC) for $35.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=43535&sort=pd.name&order=ASC) for $35.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=43690&sort=pd.name&order=ASC) for $35.00
 ## Cassette
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/leviathan-a-silhouette-in-splinters-cassette) for $14.00 :: Cassette Tape 2021 press

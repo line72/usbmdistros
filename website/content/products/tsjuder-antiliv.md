@@ -7,9 +7,9 @@ categories:
 date: '2023-11-19T16:40:39'
 draft: false
 images:
-- /images/covers/tsjuder-antiliv.png
+- /images/covers/tsjuder-antiliv.jpg
 inStock: true
-thumbnailImage: /images/covers/tsjuder-antiliv-thumb.png
+thumbnailImage: /images/covers/tsjuder-antiliv-thumb.jpg
 title: Tsjuder - Antiliv
 ---
 

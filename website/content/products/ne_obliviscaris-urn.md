@@ -7,9 +7,9 @@ categories:
 date: '2023-11-19T16:40:58'
 draft: false
 images:
-- /images/covers/ne_obliviscaris-urn.png
+- /images/covers/ne_obliviscaris-urn.jpg
 inStock: true
-thumbnailImage: /images/covers/ne_obliviscaris-urn-thumb.png
+thumbnailImage: /images/covers/ne_obliviscaris-urn-thumb.jpg
 title: Ne Obliviscaris - Urn
 ---
 

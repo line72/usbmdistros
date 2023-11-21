@@ -7,9 +7,9 @@ categories:
 date: '2023-11-19T16:34:51'
 draft: false
 images:
-- /images/covers/blut_aus_nord-777.png
+- /images/covers/blut_aus_nord-777.jpg
 inStock: true
-thumbnailImage: /images/covers/blut_aus_nord-777-thumb.png
+thumbnailImage: /images/covers/blut_aus_nord-777-thumb.jpg
 title: Blut Aus Nord - 777
 ---
 

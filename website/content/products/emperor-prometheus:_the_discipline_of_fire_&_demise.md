@@ -7,9 +7,9 @@ categories:
 date: '2023-11-19T16:38:45'
 draft: false
 images:
-- /images/covers/emperor-prometheus:_the_discipline_of_fire_&_demise.png
+- /images/covers/emperor-prometheus:_the_discipline_of_fire_&_demise.jpg
 inStock: true
-thumbnailImage: /images/covers/emperor-prometheus:_the_discipline_of_fire_&_demise-thumb.png
+thumbnailImage: /images/covers/emperor-prometheus:_the_discipline_of_fire_&_demise-thumb.jpg
 title: 'Emperor - PROMETHEUS: THE DISCIPLINE OF FIRE & DEMISE'
 ---
 

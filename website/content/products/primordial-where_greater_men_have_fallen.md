@@ -7,9 +7,9 @@ categories:
 date: '2023-11-19T16:33:05'
 draft: false
 images:
-- /images/covers/primordial-where_greater_men_have_fallen.png
+- /images/covers/primordial-where_greater_men_have_fallen.jpg
 inStock: true
-thumbnailImage: /images/covers/primordial-where_greater_men_have_fallen-thumb.png
+thumbnailImage: /images/covers/primordial-where_greater_men_have_fallen-thumb.jpg
 title: Primordial - Where Greater Men Have Fallen
 ---
 

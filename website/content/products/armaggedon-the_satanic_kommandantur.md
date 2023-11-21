@@ -7,9 +7,9 @@ categories:
 date: '2023-11-19T08:28:03'
 draft: false
 images:
-- /images/covers/armaggedon-the_satanic_kommandantur.png
+- /images/covers/armaggedon-the_satanic_kommandantur.jpg
 inStock: true
-thumbnailImage: /images/covers/armaggedon-the_satanic_kommandantur-thumb.png
+thumbnailImage: /images/covers/armaggedon-the_satanic_kommandantur-thumb.jpg
 title: Armaggedon - The Satanic Kommandantur
 ---
 

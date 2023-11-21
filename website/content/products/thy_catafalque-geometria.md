@@ -7,9 +7,9 @@ categories:
 date: '2023-11-19T16:35:07'
 draft: false
 images:
-- /images/covers/thy_catafalque-geometria.png
+- /images/covers/thy_catafalque-geometria.jpg
 inStock: true
-thumbnailImage: /images/covers/thy_catafalque-geometria-thumb.png
+thumbnailImage: /images/covers/thy_catafalque-geometria-thumb.jpg
 title: Thy Catafalque - Geometria
 ---
 

@@ -7,9 +7,9 @@ categories:
 date: '2023-11-08T17:44:25'
 draft: false
 images:
-- /images/covers/judas_iscariot-distant_in_solitary_night.png
+- /images/covers/judas_iscariot-distant_in_solitary_night.jpg
 inStock: true
-thumbnailImage: /images/covers/judas_iscariot-distant_in_solitary_night-thumb.png
+thumbnailImage: /images/covers/judas_iscariot-distant_in_solitary_night-thumb.jpg
 title: Judas Iscariot - Distant in Solitary Night
 ---
 

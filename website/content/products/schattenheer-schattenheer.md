@@ -7,9 +7,9 @@ categories:
 date: '2023-09-28T08:26:03'
 draft: false
 images:
-- /images/covers/schattenheer-schattenheer.png
+- /images/covers/schattenheer-schattenheer.jpg
 inStock: true
-thumbnailImage: /images/covers/schattenheer-schattenheer-thumb.png
+thumbnailImage: /images/covers/schattenheer-schattenheer-thumb.jpg
 title: Schattenheer - Schattenheer
 ---
 

@@ -7,9 +7,9 @@ categories:
 date: '2023-10-09T10:00:56'
 draft: false
 images:
-- /images/covers/mirk-of_spirit_and_blood.png
+- /images/covers/mirk-of_spirit_and_blood.jpg
 inStock: true
-thumbnailImage: /images/covers/mirk-of_spirit_and_blood-thumb.png
+thumbnailImage: /images/covers/mirk-of_spirit_and_blood-thumb.jpg
 title: Mirk - Of Spirit And Blood
 ---
 

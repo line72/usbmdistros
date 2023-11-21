@@ -8,9 +8,9 @@ categories:
 date: '2023-09-01T05:21:01'
 draft: false
 images:
-- /images/covers/taubra-therizo.png
+- /images/covers/taubra-therizo.jpg
 inStock: true
-thumbnailImage: /images/covers/taubra-therizo-thumb.png
+thumbnailImage: /images/covers/taubra-therizo-thumb.jpg
 title: Taubra - Therizo
 ---
 

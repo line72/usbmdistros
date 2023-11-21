@@ -7,9 +7,9 @@ categories:
 date: '2023-11-15T14:18:07'
 draft: false
 images:
-- /images/covers/scorched-ecliptic_butchery.png
+- /images/covers/scorched-ecliptic_butchery.jpg
 inStock: true
-thumbnailImage: /images/covers/scorched-ecliptic_butchery-thumb.png
+thumbnailImage: /images/covers/scorched-ecliptic_butchery-thumb.jpg
 title: Scorched - Ecliptic Butchery
 ---
 

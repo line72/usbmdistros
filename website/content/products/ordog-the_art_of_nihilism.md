@@ -7,9 +7,9 @@ categories:
 date: '2023-11-01T08:10:27'
 draft: false
 images:
-- /images/covers/ordog-the_art_of_nihilism.png
+- /images/covers/ordog-the_art_of_nihilism.jpg
 inStock: true
-thumbnailImage: /images/covers/ordog-the_art_of_nihilism-thumb.png
+thumbnailImage: /images/covers/ordog-the_art_of_nihilism-thumb.jpg
 title: Ordog - The Art of Nihilism
 ---
 

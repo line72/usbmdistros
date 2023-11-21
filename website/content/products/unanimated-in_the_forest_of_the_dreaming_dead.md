@@ -7,9 +7,9 @@ categories:
 date: '2023-11-19T16:38:55'
 draft: false
 images:
-- /images/covers/unanimated-in_the_forest_of_the_dreaming_dead.png
+- /images/covers/unanimated-in_the_forest_of_the_dreaming_dead.jpg
 inStock: true
-thumbnailImage: /images/covers/unanimated-in_the_forest_of_the_dreaming_dead-thumb.png
+thumbnailImage: /images/covers/unanimated-in_the_forest_of_the_dreaming_dead-thumb.jpg
 title: Unanimated - In The Forest Of The Dreaming Dead
 ---
 

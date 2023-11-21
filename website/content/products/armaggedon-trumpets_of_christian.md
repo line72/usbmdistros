@@ -8,9 +8,9 @@ categories:
 date: '2023-11-19T08:41:44'
 draft: false
 images:
-- /images/covers/armaggedon-trumpets_of_christian.png
+- /images/covers/armaggedon-trumpets_of_christian.jpg
 inStock: true
-thumbnailImage: /images/covers/armaggedon-trumpets_of_christian-thumb.png
+thumbnailImage: /images/covers/armaggedon-trumpets_of_christian-thumb.jpg
 title: Armaggedon - Trumpets of Christian
 ---
 

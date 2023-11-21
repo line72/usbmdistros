@@ -7,9 +7,9 @@ categories:
 date: '2023-11-19T16:40:32'
 draft: false
 images:
-- /images/covers/primordial-gods_to_the_godless.png
+- /images/covers/primordial-gods_to_the_godless.jpg
 inStock: true
-thumbnailImage: /images/covers/primordial-gods_to_the_godless-thumb.png
+thumbnailImage: /images/covers/primordial-gods_to_the_godless-thumb.jpg
 title: Primordial - Gods to the Godless
 ---
 

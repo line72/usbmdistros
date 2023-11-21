@@ -7,9 +7,9 @@ categories:
 date: '2023-11-19T16:34:53'
 draft: false
 images:
-- /images/covers/panopticon-scars_ii:_the_basics.png
+- /images/covers/panopticon-scars_ii:_the_basics.jpg
 inStock: true
-thumbnailImage: /images/covers/panopticon-scars_ii:_the_basics-thumb.png
+thumbnailImage: /images/covers/panopticon-scars_ii:_the_basics-thumb.jpg
 title: 'Panopticon - Scars II: The Basics'
 ---
 

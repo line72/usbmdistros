@@ -7,9 +7,9 @@ categories:
 date: '2023-11-19T08:27:22'
 draft: false
 images:
-- /images/covers/sturmkaiser-veni_vidi_vici.png
+- /images/covers/sturmkaiser-veni_vidi_vici.jpg
 inStock: true
-thumbnailImage: /images/covers/sturmkaiser-veni_vidi_vici-thumb.png
+thumbnailImage: /images/covers/sturmkaiser-veni_vidi_vici-thumb.jpg
 title: Sturmkaiser - Veni Vidi Vici
 ---
 

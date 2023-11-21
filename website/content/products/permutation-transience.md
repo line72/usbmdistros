@@ -7,9 +7,9 @@ categories:
 date: '2023-11-19T16:34:20'
 draft: false
 images:
-- /images/covers/permutation-transience.png
+- /images/covers/permutation-transience.jpg
 inStock: true
-thumbnailImage: /images/covers/permutation-transience-thumb.png
+thumbnailImage: /images/covers/permutation-transience-thumb.jpg
 title: PERMUTATION - Transience
 ---
 

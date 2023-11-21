@@ -7,9 +7,9 @@ categories:
 date: '2023-10-03T07:43:33'
 draft: false
 images:
-- /images/covers/venus_star-nigredo_expulsion.png
+- /images/covers/venus_star-nigredo_expulsion.jpg
 inStock: true
-thumbnailImage: /images/covers/venus_star-nigredo_expulsion-thumb.png
+thumbnailImage: /images/covers/venus_star-nigredo_expulsion-thumb.jpg
 title: Venus Star - Nigredo Expulsion
 ---
 

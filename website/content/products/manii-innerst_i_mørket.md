@@ -8,9 +8,9 @@ categories:
 date: '2023-09-26T08:53:28'
 draft: false
 images:
-- "/images/covers/manii-innerst_i_m\xF8rket.png"
+- "/images/covers/manii-innerst_i_m\xF8rket.jpg"
 inStock: true
-thumbnailImage: "/images/covers/manii-innerst_i_m\xF8rket-thumb.png"
+thumbnailImage: "/images/covers/manii-innerst_i_m\xF8rket-thumb.jpg"
 title: "Manii - Innerst I M\xF8rket"
 ---
 

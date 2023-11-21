@@ -7,9 +7,9 @@ categories:
 date: '2023-11-02T05:54:36'
 draft: false
 images:
-- "/images/covers/bek\xEBth_nex\xEBhm\xFC-de_dunkla_herrarna.png"
+- "/images/covers/bek\xEBth_nex\xEBhm\xFC-de_dunkla_herrarna.jpg"
 inStock: true
-thumbnailImage: "/images/covers/bek\xEBth_nex\xEBhm\xFC-de_dunkla_herrarna-thumb.png"
+thumbnailImage: "/images/covers/bek\xEBth_nex\xEBhm\xFC-de_dunkla_herrarna-thumb.jpg"
 title: "Bek\xEBth Nex\xEBhm\xFC - De Dunkla Herrarna"
 ---
 

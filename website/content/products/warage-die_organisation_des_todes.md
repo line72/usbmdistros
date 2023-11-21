@@ -7,9 +7,9 @@ categories:
 date: '2023-11-19T08:27:06'
 draft: false
 images:
-- /images/covers/warage-die_organisation_des_todes.png
+- /images/covers/warage-die_organisation_des_todes.jpg
 inStock: true
-thumbnailImage: /images/covers/warage-die_organisation_des_todes-thumb.png
+thumbnailImage: /images/covers/warage-die_organisation_des_todes-thumb.jpg
 title: Warage - Die Organisation Des Todes
 ---
 

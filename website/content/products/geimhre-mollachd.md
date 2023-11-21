@@ -7,9 +7,9 @@ categories:
 date: '2023-11-19T08:27:37'
 draft: false
 images:
-- /images/covers/geimhre-mollachd.png
+- /images/covers/geimhre-mollachd.jpg
 inStock: true
-thumbnailImage: /images/covers/geimhre-mollachd-thumb.png
+thumbnailImage: /images/covers/geimhre-mollachd-thumb.jpg
 title: Geimhre - Mollachd
 ---
 

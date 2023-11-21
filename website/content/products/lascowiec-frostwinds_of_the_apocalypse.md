@@ -7,9 +7,9 @@ categories:
 date: '2023-11-19T08:27:35'
 draft: false
 images:
-- /images/covers/lascowiec-frostwinds_of_the_apocalypse.png
+- /images/covers/lascowiec-frostwinds_of_the_apocalypse.jpg
 inStock: true
-thumbnailImage: /images/covers/lascowiec-frostwinds_of_the_apocalypse-thumb.png
+thumbnailImage: /images/covers/lascowiec-frostwinds_of_the_apocalypse-thumb.jpg
 title: Lascowiec - Frostwinds of the Apocalypse
 ---
 

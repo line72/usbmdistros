@@ -7,9 +7,9 @@ categories:
 date: '2023-11-19T16:33:29'
 draft: false
 images:
-- /images/covers/faidra-six_voices_inside.png
+- /images/covers/faidra-six_voices_inside.jpg
 inStock: true
-thumbnailImage: /images/covers/faidra-six_voices_inside-thumb.png
+thumbnailImage: /images/covers/faidra-six_voices_inside-thumb.jpg
 title: Faidra - Six Voices Inside
 ---
 
