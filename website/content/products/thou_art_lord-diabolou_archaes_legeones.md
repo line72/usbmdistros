@@ -4,7 +4,7 @@ album: Diabolou Archaes Legeones
 artist: Thou Art Lord
 categories:
 - CD
-date: '2023-09-24T05:56:50'
+date: '2023-11-21T15:47:05'
 draft: false
 images:
 - /images/covers/thou_art_lord-diabolou_archaes_legeones.png
@@ -16,3 +16,4 @@ title: Thou Art Lord - Diabolou Archaes Legeones
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=3496&sort=pd.name&order=ASC) for $5.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=35207&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=43752&sort=pd.name&order=ASC) for $12.00

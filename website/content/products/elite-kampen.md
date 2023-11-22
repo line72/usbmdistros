@@ -4,7 +4,7 @@ album: Kampen
 artist: Elite
 categories:
 - Vinyl
-date: '2023-11-18T11:24:01'
+date: '2023-11-21T09:38:15'
 draft: false
 images:
 - /images/covers/elite-kampen.png
@@ -15,3 +15,4 @@ title: Elite - Kampen
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=43574&sort=pd.name&order=ASC) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=43722&sort=pd.name&order=ASC) for $30.00

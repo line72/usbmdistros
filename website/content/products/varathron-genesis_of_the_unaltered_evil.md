@@ -5,7 +5,7 @@ artist: Varathron
 categories:
 - Vinyl
 - CD
-date: '2023-09-24T05:52:35'
+date: '2023-11-21T12:11:14'
 draft: false
 images:
 - /images/covers/varathron-genesis_of_the_unaltered_evil.jpg
@@ -28,6 +28,8 @@ title: Varathron - Genesis of the Unaltered Evil
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=32026&sort=pd.name&order=ASC) for $30.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=32531&sort=pd.name&order=ASC) for $30.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=35209&sort=pd.name&order=ASC) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=43757&sort=pd.name&order=ASC) for $35.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=43758&sort=pd.name&order=ASC) for $30.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=16343&sort=pd.name&order=ASC) for $10.00
 * Purchase from [CW Productions](https://shop.cwproductions.net/products/varathron-genesis-of-the-unaltered-evil-cd) for $10.00

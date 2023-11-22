@@ -4,7 +4,7 @@ album: Nordisk Vinter
 artist: Grimm
 categories:
 - Vinyl
-date: '2023-10-12T06:35:56'
+date: '2023-11-21T09:59:13'
 draft: false
 images:
 - /images/covers/grimm-nordisk_vinter.png
@@ -24,3 +24,4 @@ title: Grimm - Nordisk Vinter
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=34946&sort=pd.name&order=ASC) for $20.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=36222&sort=pd.name&order=ASC) for $20.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=41740&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=43762&sort=pd.name&order=ASC) for $15.00

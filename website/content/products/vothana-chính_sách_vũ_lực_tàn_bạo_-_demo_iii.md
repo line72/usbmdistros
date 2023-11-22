@@ -4,7 +4,7 @@ album: "Ch\xEDnh S\xE1ch V\u0169 L\u1EF1c T\xE0n B\u1EA1o - Demo III"
 artist: Vothana
 categories:
 - Vinyl
-date: '2023-11-18T14:52:14'
+date: '2023-11-21T12:18:20'
 draft: false
 images:
 - "/images/covers/vothana-ch\xEDnh_s\xE1ch_v\u0169_l\u1EF1c_t\xE0n_b\u1EA1o_-_demo_iii.png"
@@ -16,3 +16,4 @@ title: "Vothana - Ch\xEDnh S\xE1ch V\u0169 L\u1EF1c T\xE0n B\u1EA1o - Demo III"
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=43558&sort=pd.name&order=ASC) for $45.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=43749&sort=pd.name&order=ASC) for $45.00
