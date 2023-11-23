@@ -1,11 +1,11 @@
 ---
-actualPrice: $15.00 - 27.00
+actualPrice: $12.00 - 21.60
 album: Groeten vanuit Gene Zijde
 artist: Kwade Droes
 categories:
 - Vinyl
 - CD
-date: '2023-09-24T05:55:31'
+date: '2023-11-23T18:43:59'
 draft: false
 images:
 - /images/covers/kwade_droes-groeten_vanuit_gene_zijde.jpg
@@ -15,6 +15,6 @@ title: Kwade Droes - Groeten vanuit Gene Zijde
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=35336&sort=pd.name&order=ASC) for $27.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=35336&sort=pd.name&order=ASC) for $21.60
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=35337&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=35337&sort=pd.name&order=ASC) for $12.00

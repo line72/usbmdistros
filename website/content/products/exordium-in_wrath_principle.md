@@ -1,10 +1,10 @@
 ---
-actualPrice: $25.00
+actualPrice: $20.00
 album: In Wrath Principle
 artist: Exordium
 categories:
 - Vinyl
-date: '2023-09-24T05:49:39'
+date: '2023-11-23T18:41:44'
 draft: false
 images:
 - /images/covers/exordium-in_wrath_principle.jpg
@@ -14,4 +14,4 @@ title: Exordium - In Wrath Principle
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=32524&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=32524&sort=pd.name&order=ASC) for $20.00

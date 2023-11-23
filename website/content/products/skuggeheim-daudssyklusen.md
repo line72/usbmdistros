@@ -1,10 +1,10 @@
 ---
-actualPrice: $35.00
+actualPrice: $28.00 - 35.00
 album: Daudssyklusen
 artist: Skuggeheim
 categories:
 - Vinyl
-date: '2023-11-11T14:10:08'
+date: '2023-11-23T18:42:38'
 draft: false
 images:
 - /images/covers/skuggeheim-daudssyklusen.jpg
@@ -19,4 +19,4 @@ title: Skuggeheim - Daudssyklusen
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=36537&sort=pd.name&order=ASC) for $35.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=37484&sort=pd.name&order=ASC) for $35.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=40055&sort=pd.name&order=ASC) for $35.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=43323&sort=pd.name&order=ASC) for $35.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=43323&sort=pd.name&order=ASC) for $28.00

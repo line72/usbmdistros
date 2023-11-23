@@ -7,7 +7,7 @@ artist: Branikald
 categories:
 - Vinyl
 - CD
-date: '2023-11-22T09:06:04'
+date: '2023-11-23T18:41:28'
 draft: false
 images:
 - "/images/covers/branikald-\u0441\u0442\u0440\u0443\u043D_\u043D\u0430\u0442\u044F\
@@ -29,6 +29,6 @@ title: "Branikald - \u0421\u0442\u0440\u0443\u043D \u041D\u0430\u0442\u044F\u043
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=39617&sort=pd.name&order=ASC) for $35.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=40515&sort=pd.name&order=ASC) for $35.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=43564&sort=pd.name&order=ASC) for $35.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=43787&sort=pd.name&order=ASC) for $35.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=43787&sort=pd.name&order=ASC) for $28.00
 ## CD
 * Purchase from [CW Productions](https://shop.cwproductions.net/products/copy-of-branikald-струн-натянутых-вдохновенья-сталь-cd) for $14.00

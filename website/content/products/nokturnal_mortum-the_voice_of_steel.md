@@ -6,7 +6,7 @@ categories:
 - Vinyl
 - Cassette
 - CD
-date: '2023-09-24T05:51:16'
+date: '2023-11-23T18:42:19'
 draft: false
 images:
 - /images/covers/nokturnal_mortum-the_voice_of_steel.jpg
@@ -21,6 +21,7 @@ title: Nokturnal Mortum - The Voice of Steel
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=35818&sort=pd.name&order=ASC) for $30.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=37430&sort=pd.name&order=ASC) for $30.00
 * Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/nokturnal-mortum-the-voice-of-steel-12-gatefold-double-lp-blue-yellow/) for $35.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=43884&sort=pd.name&order=ASC) for $24.00
 ## Cassette
 * Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/nokturnal-mortum-the-voice-of-steel-cassette/) for $13.50
 ## CD

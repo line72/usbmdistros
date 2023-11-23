@@ -1,10 +1,10 @@
 ---
-actualPrice: $8.00
+actualPrice: $6.40
 album: s/t
 artist: Daorson
 categories:
 - Cassette
-date: '2023-09-24T05:57:50'
+date: '2023-11-23T18:44:46'
 draft: false
 images:
 - /images/covers/daorson-s-t.png
@@ -14,4 +14,4 @@ title: Daorson - s/t
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=9956&sort=pd.name&order=ASC) for $8.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=9956&sort=pd.name&order=ASC) for $6.40

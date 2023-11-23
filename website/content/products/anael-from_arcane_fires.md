@@ -1,10 +1,10 @@
 ---
-actualPrice: $17.00
+actualPrice: $13.60
 album: From Arcane Fires
 artist: Anael
 categories:
 - Vinyl
-date: '2023-09-24T05:48:20'
+date: '2023-11-23T18:41:16'
 draft: false
 images:
 - /images/covers/anael-from_arcane_fires.jpg
@@ -14,4 +14,4 @@ title: Anael - From Arcane Fires
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=2383&sort=pd.name&order=ASC) for $17.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=2383&sort=pd.name&order=ASC) for $13.60

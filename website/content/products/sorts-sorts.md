@@ -1,10 +1,10 @@
 ---
-actualPrice: $5.00 - 7.00
+actualPrice: $4.00 - 7.00
 album: Sorts
 artist: Sorts
 categories:
 - Vinyl
-date: '2023-09-24T05:53:43'
+date: '2023-11-23T18:43:17'
 draft: false
 images:
 - /images/covers/sorts-sorts.jpg
@@ -15,4 +15,4 @@ title: Sorts - Sorts
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=1856&sort=pd.name&order=ASC) for $7.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=26597&sort=pd.name&order=ASC) for $5.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=26597&sort=pd.name&order=ASC) for $4.00

@@ -1,10 +1,10 @@
 ---
-actualPrice: $25.00
+actualPrice: $20.00
 album: Samonios
 artist: Opera IX
 categories:
 - Vinyl
-date: '2023-09-24T05:51:22'
+date: '2023-11-23T18:42:22'
 draft: false
 images:
 - /images/covers/opera_ix-samonios.jpg
@@ -14,4 +14,4 @@ title: Opera IX - Samonios
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=36318&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=36318&sort=pd.name&order=ASC) for $20.00

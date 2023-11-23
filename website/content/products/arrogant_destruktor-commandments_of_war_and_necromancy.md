@@ -1,10 +1,10 @@
 ---
-actualPrice: $9.00
+actualPrice: $7.20
 album: Commandments of War and Necromancy
 artist: Arrogant Destruktor
 categories:
 - Cassette
-date: '2023-09-24T05:57:34'
+date: '2023-11-23T18:44:41'
 draft: false
 images:
 - /images/covers/arrogant_destruktor-commandments_of_war_and_necromancy.png
@@ -14,4 +14,4 @@ title: Arrogant Destruktor - Commandments of War and Necromancy
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=18024&sort=pd.name&order=ASC) for $9.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=18024&sort=pd.name&order=ASC) for $7.20

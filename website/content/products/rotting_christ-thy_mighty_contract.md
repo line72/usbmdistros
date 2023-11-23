@@ -1,11 +1,11 @@
 ---
-actualPrice: $15.00 - 25.00
+actualPrice: $12.00 - 25.00
 album: Thy Mighty Contract
 artist: Rotting Christ
 categories:
 - Vinyl
 - CD
-date: '2023-10-19T08:55:06'
+date: '2023-11-23T18:44:20'
 draft: false
 images:
 - /images/covers/rotting_christ-thy_mighty_contract.jpg
@@ -21,4 +21,4 @@ title: Rotting Christ - Thy Mighty Contract
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=35213&sort=pd.name&order=ASC) for $15.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=39821&sort=pd.name&order=ASC) for $15.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=42098&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=42098&sort=pd.name&order=ASC) for $12.00

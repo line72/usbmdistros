@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00 - 15.00
+actualPrice: $12.00
 album: Demo I
 artist: Cathedrals in the Night
 categories:
 - Cassette
-date: '2023-09-24T05:57:44'
+date: '2023-11-23T18:44:44'
 draft: false
 images:
 - /images/covers/cathedrals_in_the_night-demo_i.png
@@ -14,5 +14,5 @@ title: Cathedrals in the Night - Demo I
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=19520&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=19520&sort=pd.name&order=ASC) for $12.00
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/cathedrals-in-the-night-demo-i-tape) for $12.00

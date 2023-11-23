@@ -5,7 +5,7 @@ artist: Felvum
 categories:
 - Vinyl
 - Cassette
-date: '2023-09-24T05:49:41'
+date: '2023-11-23T18:41:44'
 draft: false
 images:
 - /images/covers/felvum-fullmoon_mysticism.jpg
@@ -16,6 +16,6 @@ title: Felvum - Fullmoon Mysticism
 
 ## Vinyl
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/felvum-fullmoon-mysticism-12-lp) for $26.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=33494&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=33494&sort=pd.name&order=ASC) for $20.00
 ## Cassette
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/felvum-fullmoon-mysticism-tape) for $12.00

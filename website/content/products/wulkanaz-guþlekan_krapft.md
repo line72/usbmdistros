@@ -1,10 +1,10 @@
 ---
-actualPrice: $100.00
+actualPrice: $80.00 - 100.00
 album: "Gu\xFElekan Krapft"
 artist: Wulkanaz
 categories:
 - Vinyl
-date: '2023-10-03T07:48:15'
+date: '2023-11-23T18:42:58'
 draft: false
 images:
 - "/images/covers/wulkanaz-gu\xFElekan_krapft.jpg"
@@ -26,4 +26,4 @@ title: "Wulkanaz - Gu\xFElekan Krapft"
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=25878&sort=pd.name&order=ASC) for $100.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29182&sort=pd.name&order=ASC) for $100.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29589&sort=pd.name&order=ASC) for $100.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=40847&sort=pd.name&order=ASC) for $100.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=40847&sort=pd.name&order=ASC) for $80.00

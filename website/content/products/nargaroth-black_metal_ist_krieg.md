@@ -6,7 +6,7 @@ categories:
 - Vinyl
 - Cassette
 - CD
-date: '2023-11-19T16:41:58'
+date: '2023-11-23T18:44:08'
 draft: false
 images:
 - /images/covers/nargaroth-black_metal_ist_krieg.jpg
@@ -25,4 +25,4 @@ title: Nargaroth - Black Metal ist Krieg
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=40603&sort=pd.name&order=ASC) for $20.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=18798&sort=pd.name&order=ASC) for $15.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=40889&sort=pd.name&order=ASC) for $70.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=40889&sort=pd.name&order=ASC) for $56.00

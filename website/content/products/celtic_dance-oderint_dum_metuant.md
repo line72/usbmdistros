@@ -1,10 +1,10 @@
 ---
-actualPrice: $25.00
+actualPrice: $20.00 - 25.00
 album: Oderint Dum Metuant
 artist: Celtic Dance
 categories:
 - Vinyl
-date: '2023-09-24T05:49:02'
+date: '2023-11-23T18:41:31'
 draft: false
 images:
 - /images/covers/celtic_dance-oderint_dum_metuant.jpg
@@ -15,4 +15,4 @@ title: Celtic Dance - Oderint Dum Metuant
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=31397&sort=pd.name&order=ASC) for $25.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=32901&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=32901&sort=pd.name&order=ASC) for $20.00

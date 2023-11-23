@@ -1,10 +1,10 @@
 ---
-actualPrice: $30.00
+actualPrice: $24.00 - 30.00
 album: "Thul\xEAan Mysteries"
 artist: Burzum
 categories:
 - Vinyl
-date: '2023-10-25T06:00:07'
+date: '2023-11-23T18:41:29'
 draft: false
 images:
 - "/images/covers/burzum-thul\xEAan_mysteries.jpg"
@@ -17,4 +17,4 @@ title: "Burzum - Thul\xEAan Mysteries"
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=36492&sort=pd.name&order=ASC) for $30.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=38099&sort=pd.name&order=ASC) for $30.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=40043&sort=pd.name&order=ASC) for $30.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=42533&sort=pd.name&order=ASC) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=42533&sort=pd.name&order=ASC) for $24.00

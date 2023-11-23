@@ -5,7 +5,7 @@ artist: Pakkt
 categories:
 - Vinyl
 - CD
-date: '2023-09-24T05:51:25'
+date: '2023-11-23T18:42:24'
 draft: false
 images:
 - /images/covers/pakkt-to_brocken_heights_where_witches_dance.jpg
@@ -15,7 +15,7 @@ title: Pakkt - To Brocken Heights Where Witches Dance
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=20174&sort=pd.name&order=ASC) for $28.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=20174&sort=pd.name&order=ASC) for $22.40
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/pakkt-to-brocken-heights-where-witches-dance-lp) for $29.00 :: Dark Red 1st press vinyl
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=20184&sort=pd.name&order=ASC) for $15.00

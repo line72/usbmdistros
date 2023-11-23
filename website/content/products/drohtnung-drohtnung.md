@@ -1,10 +1,10 @@
 ---
-actualPrice: $60.00
+actualPrice: $48.00
 album: Drohtnung
 artist: Drohtnung
 categories:
 - Vinyl
-date: '2023-09-29T06:19:48'
+date: '2023-11-23T18:41:41'
 draft: false
 images:
 - /images/covers/drohtnung-drohtnung.jpg
@@ -14,4 +14,4 @@ title: Drohtnung - Drohtnung
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=40554&sort=pd.name&order=ASC) for $60.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=40554&sort=pd.name&order=ASC) for $48.00

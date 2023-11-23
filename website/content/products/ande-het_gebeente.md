@@ -1,10 +1,10 @@
 ---
-actualPrice: $9.00
+actualPrice: $7.20
 album: Het Gebeente
 artist: Ande
 categories:
 - Cassette
-date: '2023-09-24T05:57:23'
+date: '2023-11-23T18:44:40'
 draft: false
 images:
 - /images/covers/ande-het_gebeente.jpg
@@ -14,4 +14,4 @@ title: Ande - Het Gebeente
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=18023&sort=pd.name&order=ASC) for $9.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=18023&sort=pd.name&order=ASC) for $7.20

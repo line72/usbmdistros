@@ -5,7 +5,7 @@ artist: "Ringar\xEB"
 categories:
 - Vinyl
 - CD
-date: '2023-09-24T05:56:21'
+date: '2023-11-23T18:44:19'
 draft: false
 images:
 - "/images/covers/ringar\xEB-thrall_of_winter's_majesty.jpg"
@@ -22,4 +22,4 @@ title: "Ringar\xEB - Thrall of Winter's Majesty"
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=36099&sort=pd.name&order=ASC) for $25.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=17879&sort=pd.name&order=ASC) for $12.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=19774&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=19774&sort=pd.name&order=ASC) for $12.00

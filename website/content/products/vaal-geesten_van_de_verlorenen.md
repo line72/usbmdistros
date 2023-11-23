@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00
+actualPrice: $9.60
 album: Geesten Van De Verlorenen
 artist: Vaal
 categories:
 - CD
-date: '2023-09-24T05:57:00'
+date: '2023-11-23T18:44:32'
 draft: false
 images:
 - /images/covers/vaal-geesten_van_de_verlorenen.jpg
@@ -14,4 +14,4 @@ title: Vaal - Geesten Van De Verlorenen
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=3086&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=3086&sort=pd.name&order=ASC) for $9.60

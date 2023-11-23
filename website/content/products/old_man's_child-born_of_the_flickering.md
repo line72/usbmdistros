@@ -1,10 +1,10 @@
 ---
-actualPrice: $27.00 - 35.00
+actualPrice: $21.60 - 35.00
 album: Born of the Flickering
 artist: Old Man's Child
 categories:
 - Vinyl
-date: '2023-11-18T23:28:54'
+date: '2023-11-23T18:42:22'
 draft: false
 images:
 - /images/covers/old_man's_child-born_of_the_flickering.jpg
@@ -21,4 +21,4 @@ title: Old Man's Child - Born of the Flickering
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=39848&sort=pd.name&order=ASC) for $27.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=43453&sort=pd.name&order=ASC) for $27.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=43608&sort=pd.name&order=ASC) for $27.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=43634&sort=pd.name&order=ASC) for $27.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=43634&sort=pd.name&order=ASC) for $21.60

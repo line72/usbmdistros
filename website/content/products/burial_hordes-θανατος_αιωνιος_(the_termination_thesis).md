@@ -1,11 +1,11 @@
 ---
-actualPrice: $25.00
+actualPrice: $20.00 - 25.00
 album: "\u0398\u03B1\u03BD\u03B1\u03C4\u03BF\u03C2 \u03B1\u03B9\u03C9\u03BD\u03B9\u03BF\
   \u03C2 (The Termination Thesis)"
 artist: Burial Hordes
 categories:
 - Vinyl
-date: '2023-10-05T06:05:57'
+date: '2023-11-23T18:41:29'
 draft: false
 images:
 - "/images/covers/burial_hordes-\u03B8\u03B1\u03BD\u03B1\u03C4\u03BF\u03C2_\u03B1\u03B9\
@@ -19,4 +19,4 @@ title: "Burial Hordes - \u0398\u03B1\u03BD\u03B1\u03C4\u03BF\u03C2 \u03B1\u03B9\
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=21777&sort=pd.name&order=ASC) for $25.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=41100&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=41100&sort=pd.name&order=ASC) for $20.00

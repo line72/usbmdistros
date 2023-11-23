@@ -1,11 +1,11 @@
 ---
-actualPrice: $10.00 - 15.00
+actualPrice: $8.00 - 15.00
 album: Wielding Malignity
 artist: Burier
 categories:
 - Cassette
 - CD
-date: '2023-10-09T08:12:18'
+date: '2023-11-23T18:43:29'
 draft: false
 images:
 - /images/covers/burier-wielding_malignity.jpg
@@ -20,4 +20,4 @@ title: Burier - Wielding Malignity
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/burier-wielding-malignity-cd) for $15.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=14476&sort=pd.name&order=ASC) for $10.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=26976&sort=pd.name&order=ASC) for $10.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=41576&sort=pd.name&order=ASC) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=41576&sort=pd.name&order=ASC) for $8.00

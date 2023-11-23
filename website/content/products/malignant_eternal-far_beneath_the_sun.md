@@ -1,10 +1,10 @@
 ---
-actualPrice: $25.00
+actualPrice: $20.00
 album: Far Beneath the Sun
 artist: Malignant Eternal
 categories:
 - Vinyl
-date: '2023-09-24T05:50:41'
+date: '2023-11-23T18:42:07'
 draft: false
 images:
 - /images/covers/malignant_eternal-far_beneath_the_sun.jpg
@@ -14,4 +14,4 @@ title: Malignant Eternal - Far Beneath the Sun
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=19484&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=19484&sort=pd.name&order=ASC) for $20.00

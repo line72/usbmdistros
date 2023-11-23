@@ -1,10 +1,10 @@
 ---
-actualPrice: $10.19 - 20.00
+actualPrice: $10.19 - 16.00
 album: Silhouettes of an Imprisoned Mind
 artist: Witte Wieven
 categories:
 - Vinyl
-date: '2023-10-08T07:09:11'
+date: '2023-11-23T18:42:57'
 draft: false
 images:
 - /images/covers/witte_wieven-silhouettes_of_an_imprisoned_mind.jpg
@@ -15,4 +15,4 @@ title: Witte Wieven - Silhouettes of an Imprisoned Mind
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=10750&sort=pd.name&order=ASC) for $10.19
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=41376&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=41376&sort=pd.name&order=ASC) for $16.00

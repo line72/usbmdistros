@@ -1,10 +1,10 @@
 ---
-actualPrice: $25.00
+actualPrice: $20.00
 album: Nexus Diaboli
 artist: Serpent Ritual
 categories:
 - Vinyl
-date: '2023-09-24T05:51:56'
+date: '2023-11-23T18:42:36'
 draft: false
 images:
 - /images/covers/serpent_ritual-nexus_diaboli.jpg
@@ -14,4 +14,4 @@ title: Serpent Ritual - Nexus Diaboli
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=20049&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=20049&sort=pd.name&order=ASC) for $20.00

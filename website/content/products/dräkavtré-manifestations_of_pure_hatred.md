@@ -1,10 +1,10 @@
 ---
-actualPrice: $11.00 - 12.00
+actualPrice: $9.60 - 11.00
 album: Manifestations of Pure Hatred
 artist: "Dr\xE4kavtr\xE9"
 categories:
 - Cassette
-date: '2023-09-24T05:57:55'
+date: '2023-11-23T18:44:48'
 draft: false
 images:
 - "/images/covers/dr\xE4kavtr\xE9-manifestations_of_pure_hatred.jpg"
@@ -15,4 +15,4 @@ title: "Dr\xE4kavtr\xE9 - Manifestations of Pure Hatred"
 
 ## Cassette
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/drakavtre-manifestations-of-pure-hatred-tape) for $11.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=22500&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=22500&sort=pd.name&order=ASC) for $9.60

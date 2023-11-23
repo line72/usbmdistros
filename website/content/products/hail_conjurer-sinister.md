@@ -1,10 +1,10 @@
 ---
-actualPrice: $13.00
+actualPrice: $10.40
 album: Sinister
 artist: Hail Conjurer
 categories:
 - Cassette
-date: '2023-09-24T05:58:11'
+date: '2023-11-23T18:44:55'
 draft: false
 images:
 - /images/covers/hail_conjurer-sinister.png
@@ -14,4 +14,4 @@ title: Hail Conjurer - Sinister
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=30688&sort=pd.name&order=ASC) for $13.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=30688&sort=pd.name&order=ASC) for $10.40

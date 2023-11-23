@@ -1,10 +1,10 @@
 ---
-actualPrice: $10.00
+actualPrice: $8.00
 album: "Korgonthurus/Ristill\xE4 M\xE4d\xE4ntyen"
 artist: Korgonthurus
 categories:
 - CD
-date: '2023-09-24T05:55:30'
+date: '2023-11-23T18:43:59'
 draft: false
 images:
 - "/images/covers/korgonthurus-korgonthurus-ristill\xE4_m\xE4d\xE4ntyen.jpg"
@@ -14,4 +14,4 @@ title: "Korgonthurus - Korgonthurus/Ristill\xE4 M\xE4d\xE4ntyen"
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=24814&sort=pd.name&order=ASC) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=24814&sort=pd.name&order=ASC) for $8.00

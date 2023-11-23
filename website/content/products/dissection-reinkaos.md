@@ -5,7 +5,7 @@ artist: Dissection
 categories:
 - Vinyl
 - CD
-date: '2023-10-29T06:13:27'
+date: '2023-11-23T18:41:40'
 draft: false
 images:
 - /images/covers/dissection-reinkaos.jpg
@@ -31,6 +31,6 @@ title: Dissection - Reinkaos
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=39640&sort=pd.name&order=ASC) for $45.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=39936&sort=pd.name&order=ASC) for $45.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=40032&sort=pd.name&order=ASC) for $45.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=42716&sort=pd.name&order=ASC) for $45.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=42716&sort=pd.name&order=ASC) for $36.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=19085&sort=pd.name&order=ASC) for $10.00

@@ -1,10 +1,10 @@
 ---
-actualPrice: $6.00
+actualPrice: $4.80
 album: Veneficium
 artist: Veneficium
 categories:
 - Cassette
-date: '2023-09-24T05:59:11'
+date: '2023-11-23T18:45:17'
 draft: false
 images:
 - /images/covers/veneficium-veneficium.png
@@ -14,4 +14,4 @@ title: Veneficium - Veneficium
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=1571&sort=pd.name&order=ASC) for $6.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=1571&sort=pd.name&order=ASC) for $4.80

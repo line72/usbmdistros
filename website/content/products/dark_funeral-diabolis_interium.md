@@ -1,10 +1,10 @@
 ---
-actualPrice: $29.00 - 32.00
+actualPrice: $24.00 - 32.00
 album: Diabolis Interium
 artist: Dark Funeral
 categories:
 - Vinyl
-date: '2023-11-19T16:41:52'
+date: '2023-11-23T18:41:35'
 draft: false
 images:
 - /images/covers/dark_funeral-diabolis_interium.png
@@ -21,3 +21,4 @@ title: Dark Funeral - Diabolis Interium
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=36756&sort=pd.name&order=ASC) for $30.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=37468&sort=pd.name&order=ASC) for $30.00
 * Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/dark-funeral-diabolis-interium-double-lp-gatefold-colored) for $29.00 :: DOUBLE LP GATEFOLD COLORED
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=43888&sort=pd.name&order=ASC) for $24.00

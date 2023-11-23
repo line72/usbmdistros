@@ -1,10 +1,10 @@
 ---
-actualPrice: $15.00
+actualPrice: $12.00
 album: Under Mayhemic Dethronement
 artist: Mythical
 categories:
 - Cassette
-date: '2023-11-04T10:25:24'
+date: '2023-11-23T18:45:02'
 draft: false
 images:
 - /images/covers/mythical-under_mayhemic_dethronement.png
@@ -14,4 +14,4 @@ title: Mythical - Under Mayhemic Dethronement
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=43000&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=43000&sort=pd.name&order=ASC) for $12.00

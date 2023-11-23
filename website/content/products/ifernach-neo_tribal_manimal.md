@@ -5,7 +5,7 @@ artist: Ifernach
 categories:
 - Vinyl
 - Cassette
-date: '2023-11-16T11:58:51'
+date: '2023-11-23T18:41:57'
 draft: false
 images:
 - /images/covers/ifernach-neo_tribal_manimal.jpg
@@ -23,7 +23,7 @@ title: Ifernach - Neo Tribal Manimal
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=33476&sort=pd.name&order=ASC) for $27.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=34020&sort=pd.name&order=ASC) for $27.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=41848&sort=pd.name&order=ASC) for $27.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=43491&sort=pd.name&order=ASC) for $27.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=43491&sort=pd.name&order=ASC) for $21.60
 ## Cassette
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/ifernach-neo-tribal-manimal-tape) for $12.00
 * Purchase from [CW Productions](https://shop.cwproductions.net/products/ifernach-neo-tribal-manimal-tape) for $7.00

@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00
+actualPrice: $9.60
 album: Rotten Funeral
 artist: Rotten Funeral
 categories:
 - CD
-date: '2023-09-24T05:56:22'
+date: '2023-11-23T18:44:20'
 draft: false
 images:
 - /images/covers/rotten_funeral-rotten_funeral.jpg
@@ -14,4 +14,4 @@ title: Rotten Funeral - Rotten Funeral
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=23264&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=23264&sort=pd.name&order=ASC) for $9.60

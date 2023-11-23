@@ -1,10 +1,10 @@
 ---
-actualPrice: $30.00
+actualPrice: $24.00
 album: To The Devil His Due
 artist: "Destr\xF6yer 666"
 categories:
 - Vinyl
-date: '2023-09-24T05:49:23'
+date: '2023-11-23T18:41:38'
 draft: false
 images:
 - "/images/covers/destr\xF6yer_666-to_the_devil_his_due.jpg"
@@ -14,4 +14,4 @@ title: "Destr\xF6yer 666 - To The Devil His Due"
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=39358&sort=pd.name&order=ASC) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=39358&sort=pd.name&order=ASC) for $24.00

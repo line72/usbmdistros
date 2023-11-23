@@ -1,10 +1,10 @@
 ---
-actualPrice: $25.00
+actualPrice: $20.00 - 25.00
 album: To The Depths We Descend..
 artist: Necromantia
 categories:
 - Vinyl
-date: '2023-09-24T05:51:08'
+date: '2023-11-23T18:42:17'
 draft: false
 images:
 - /images/covers/necromantia-to_the_depths_we_descend...jpg
@@ -21,3 +21,4 @@ title: Necromantia - To The Depths We Descend..
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=33635&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=35233&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=37482&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=43904&sort=pd.name&order=ASC) for $20.00

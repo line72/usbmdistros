@@ -1,10 +1,10 @@
 ---
-actualPrice: $20.00
+actualPrice: $16.00
 album: Lifecrusher - Contributions To A World In Ruins
 artist: Total Hate
 categories:
 - Vinyl
-date: '2023-09-24T05:52:24'
+date: '2023-11-23T18:42:46'
 draft: false
 images:
 - /images/covers/total_hate-lifecrusher_-_contributions_to_a_world_in_ruins.jpg
@@ -14,4 +14,4 @@ title: Total Hate - Lifecrusher - Contributions To A World In Ruins
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=10520&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=10520&sort=pd.name&order=ASC) for $16.00

@@ -5,7 +5,7 @@ artist: Misotheist
 categories:
 - Vinyl
 - CD
-date: '2023-09-24T05:50:54'
+date: '2023-11-23T18:42:12'
 draft: false
 images:
 - /images/covers/misotheist-for_the_glory_of_your_redeemer.jpg
@@ -23,6 +23,6 @@ title: Misotheist - For The Glory Of Your Redeemer
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=22262&sort=pd.name&order=ASC) for $27.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=22320&sort=pd.name&order=ASC) for $27.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=30544&sort=pd.name&order=ASC) for $27.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=32475&sort=pd.name&order=ASC) for $27.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=32475&sort=pd.name&order=ASC) for $21.60
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=17491&sort=pd.name&order=ASC) for $15.00

@@ -1,11 +1,11 @@
 ---
-actualPrice: $15.00 - 30.00
+actualPrice: $12.00 - 30.00
 album: Funeral Sorcery
 artist: Evilfeast
 categories:
 - Vinyl
 - CD
-date: '2023-11-02T08:25:36'
+date: '2023-11-23T18:43:43'
 draft: false
 images:
 - /images/covers/evilfeast-funeral_sorcery.jpg
@@ -35,4 +35,4 @@ title: Evilfeast - Funeral Sorcery
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=19778&sort=pd.name&order=ASC) for $15.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=32613&sort=pd.name&order=ASC) for $15.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=42121&sort=pd.name&order=ASC) for $15.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=42919&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=42919&sort=pd.name&order=ASC) for $12.00

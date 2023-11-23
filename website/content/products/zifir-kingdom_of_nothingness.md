@@ -1,10 +1,10 @@
 ---
-actualPrice: $10.00
+actualPrice: $8.00
 album: Kingdom of Nothingness
 artist: Zifir
 categories:
 - CD
-date: '2023-09-24T05:57:17'
+date: '2023-11-23T18:44:37'
 draft: false
 images:
 - /images/covers/zifir-kingdom_of_nothingness.png
@@ -14,4 +14,4 @@ title: Zifir - Kingdom of Nothingness
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=3110&sort=pd.name&order=ASC) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=3110&sort=pd.name&order=ASC) for $8.00

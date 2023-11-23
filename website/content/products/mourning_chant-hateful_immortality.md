@@ -1,11 +1,11 @@
 ---
-actualPrice: $14.00 - 15.00
+actualPrice: $12.00 - 15.00
 album: Hateful Immortality
 artist: Mourning Chant
 categories:
 - Cassette
 - CD
-date: '2023-09-24T05:55:49'
+date: '2023-11-23T18:44:06'
 draft: false
 images:
 - /images/covers/mourning_chant-hateful_immortality.png
@@ -18,4 +18,4 @@ title: Mourning Chant - Hateful Immortality
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/mourning-chant-hateful-immortality-tape) for $15.00
 ## CD
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/mourning-chant-hateful-immortality-cd) for $14.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=35382&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=35382&sort=pd.name&order=ASC) for $12.00

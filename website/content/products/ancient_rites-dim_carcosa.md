@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00
+actualPrice: $9.60
 album: Dim Carcosa
 artist: Ancient Rites
 categories:
 - CD
-date: '2023-10-23T08:05:41'
+date: '2023-11-23T18:43:24'
 draft: false
 images:
 - /images/covers/ancient_rites-dim_carcosa.jpg
@@ -14,4 +14,4 @@ title: Ancient Rites - Dim Carcosa
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=42399&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=42399&sort=pd.name&order=ASC) for $9.60

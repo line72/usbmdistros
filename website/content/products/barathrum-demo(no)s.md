@@ -5,7 +5,7 @@ artist: Barathrum
 categories:
 - Vinyl
 - CD
-date: '2023-10-09T08:09:16'
+date: '2023-11-23T18:43:26'
 draft: false
 images:
 - /images/covers/barathrum-demo(no)s.jpg
@@ -20,7 +20,7 @@ title: Barathrum - Demo(no)s
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=31381&sort=pd.name&order=ASC) for $60.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=32936&sort=pd.name&order=ASC) for $60.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=34705&sort=pd.name&order=ASC) for $60.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=41630&sort=pd.name&order=ASC) for $60.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=41630&sort=pd.name&order=ASC) for $48.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=21432&sort=pd.name&order=ASC) for $17.00
 * Purchase from [CW Productions](https://shop.cwproductions.net/products/barathrum-demonos-2cd) for $16.00
@@ -33,4 +33,4 @@ title: Barathrum - Demo(no)s
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=29815&sort=pd.name&order=ASC) for $17.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=32940&sort=pd.name&order=ASC) for $17.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=34701&sort=pd.name&order=ASC) for $17.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=41558&sort=pd.name&order=ASC) for $17.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=41558&sort=pd.name&order=ASC) for $13.60

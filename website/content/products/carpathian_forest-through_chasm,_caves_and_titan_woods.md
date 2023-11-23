@@ -1,10 +1,10 @@
 ---
-actualPrice: $25.00 - 27.00
+actualPrice: $20.00 - 27.00
 album: Through Chasm, Caves And Titan Woods
 artist: Carpathian Forest
 categories:
 - Vinyl
-date: '2023-09-24T05:49:00'
+date: '2023-11-23T18:41:30'
 draft: false
 images:
 - /images/covers/carpathian_forest-through_chasm,_caves_and_titan_woods.jpg
@@ -19,4 +19,4 @@ title: Carpathian Forest - Through Chasm, Caves And Titan Woods
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=25649&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=27981&sort=pd.name&order=ASC) for $27.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=31167&sort=pd.name&order=ASC) for $25.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=35718&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=35718&sort=pd.name&order=ASC) for $20.00

@@ -1,10 +1,10 @@
 ---
-actualPrice: $10.00
+actualPrice: $8.00 - 10.00
 album: Defilement
 artist: Infernal Nature
 categories:
 - Cassette
-date: '2023-09-24T05:58:17'
+date: '2023-11-23T18:44:57'
 draft: false
 images:
 - /images/covers/infernal_nature-defilement.png
@@ -14,5 +14,5 @@ title: Infernal Nature - Defilement
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=12185&sort=pd.name&order=ASC) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=12185&sort=pd.name&order=ASC) for $8.00
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/infernal-nature-defilement-tape) for $10.00

@@ -1,10 +1,10 @@
 ---
-actualPrice: $20.00
+actualPrice: $16.00
 album: I
 artist: Ancestors
 categories:
 - Vinyl
-date: '2023-09-24T05:48:21'
+date: '2023-11-23T18:41:16'
 draft: false
 images:
 - /images/covers/ancestors-i.jpg
@@ -14,4 +14,4 @@ title: Ancestors - I
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=26699&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=26699&sort=pd.name&order=ASC) for $16.00

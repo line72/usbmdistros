@@ -5,7 +5,7 @@ artist: Gehenna
 categories:
 - Vinyl
 - Cassette
-date: '2023-11-20T09:46:11'
+date: '2023-11-23T18:41:47'
 draft: false
 images:
 - /images/covers/gehenna-black_seared_heart.jpg
@@ -22,6 +22,6 @@ title: Gehenna - Black Seared Heart
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=39418&sort=pd.name&order=ASC) for $30.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=42244&sort=pd.name&order=ASC) for $30.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=43160&sort=pd.name&order=ASC) for $30.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=43699&sort=pd.name&order=ASC) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=43699&sort=pd.name&order=ASC) for $24.00
 ## Cassette
 * Purchase from [CW Productions](https://shop.cwproductions.net/products/gehenna-black-seared-heart-tape) for $15.00

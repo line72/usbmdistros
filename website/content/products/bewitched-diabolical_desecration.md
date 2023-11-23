@@ -1,10 +1,10 @@
 ---
-actualPrice: $25.00
+actualPrice: $20.00 - 25.00
 album: Diabolical Desecration
 artist: Bewitched
 categories:
 - Vinyl
-date: '2023-09-24T05:48:40'
+date: '2023-11-23T18:41:23'
 draft: false
 images:
 - /images/covers/bewitched-diabolical_desecration.png
@@ -15,4 +15,4 @@ title: Bewitched - Diabolical Desecration
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=21287&sort=pd.name&order=ASC) for $25.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=23526&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=23526&sort=pd.name&order=ASC) for $20.00

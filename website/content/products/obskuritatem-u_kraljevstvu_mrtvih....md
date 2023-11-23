@@ -1,11 +1,11 @@
 ---
-actualPrice: $15.00 - 30.00
+actualPrice: $12.00 - 30.00
 album: U Kraljevstvu Mrtvih...
 artist: Obskuritatem
 categories:
 - Vinyl
 - CD
-date: '2023-09-24T05:56:04'
+date: '2023-11-23T18:44:11'
 draft: false
 images:
 - /images/covers/obskuritatem-u_kraljevstvu_mrtvih....jpg
@@ -25,4 +25,4 @@ title: Obskuritatem - U Kraljevstvu Mrtvih...
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=29346&sort=pd.name&order=ASC) for $15.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=30940&sort=pd.name&order=ASC) for $15.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=32072&sort=pd.name&order=ASC) for $15.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=34911&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=34911&sort=pd.name&order=ASC) for $12.00

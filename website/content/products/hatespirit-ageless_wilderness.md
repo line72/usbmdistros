@@ -4,7 +4,7 @@ album: Ageless Wilderness
 artist: Hatespirit
 categories:
 - Vinyl
-date: '2023-09-24T05:50:02'
+date: '2023-11-23T18:41:53'
 draft: false
 images:
 - /images/covers/hatespirit-ageless_wilderness.jpg
@@ -17,4 +17,4 @@ title: Hatespirit - Ageless Wilderness
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/hatespirit-ageless-wilderness-12-lp) for $16.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=9051&sort=pd.name&order=ASC) for $20.00
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/used-hatespirit-ageless-wilderness-lp) for $12.00 :: Black 2018 press vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=32869&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=32869&sort=pd.name&order=ASC) for $16.00

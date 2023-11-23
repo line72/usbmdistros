@@ -1,10 +1,10 @@
 ---
-actualPrice: $30.00
+actualPrice: $24.00 - 30.00
 album: Black Metal Manda Hijos de Puta
 artist: Nargaroth
 categories:
 - Vinyl
-date: '2023-09-27T07:23:54'
+date: '2023-11-23T18:42:17'
 draft: false
 images:
 - /images/covers/nargaroth-black_metal_manda_hijos_de_puta.jpg
@@ -17,4 +17,4 @@ title: Nargaroth - Black Metal Manda Hijos de Puta
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=33916&sort=pd.name&order=ASC) for $30.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=33989&sort=pd.name&order=ASC) for $30.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=34670&sort=pd.name&order=ASC) for $30.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=40431&sort=pd.name&order=ASC) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=40431&sort=pd.name&order=ASC) for $24.00

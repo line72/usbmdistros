@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00
+actualPrice: $9.60 - 12.00
 album: Bathory - Yellow Goat
 artist: Bathory
 categories:
 - CD
-date: '2023-10-09T08:09:28'
+date: '2023-11-23T18:43:27'
 draft: false
 images:
 - /images/covers/bathory-bathory_-_yellow_goat.jpg
@@ -18,4 +18,4 @@ title: Bathory - Bathory - Yellow Goat
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=25210&sort=pd.name&order=ASC) for $12.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=28370&sort=pd.name&order=ASC) for $12.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=35243&sort=pd.name&order=ASC) for $12.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=41560&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=41560&sort=pd.name&order=ASC) for $9.60

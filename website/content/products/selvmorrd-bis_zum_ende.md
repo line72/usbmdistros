@@ -1,10 +1,10 @@
 ---
-actualPrice: $10.00
+actualPrice: $8.00
 album: Bis Zum Ende
 artist: Selvmorrd
 categories:
 - Cassette
-date: '2023-10-02T10:02:10'
+date: '2023-11-23T18:45:10'
 draft: false
 images:
 - /images/covers/selvmorrd-bis_zum_ende.jpg
@@ -14,4 +14,4 @@ title: Selvmorrd - Bis Zum Ende
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=40775&sort=pd.name&order=ASC) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=40775&sort=pd.name&order=ASC) for $8.00

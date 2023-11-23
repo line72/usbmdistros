@@ -1,11 +1,11 @@
 ---
-actualPrice: $15.00 - 25.00
+actualPrice: $12.00 - 20.00
 album: Twilight Insurgency
 artist: Lunar Blood
 categories:
 - Vinyl
 - CD
-date: '2023-09-24T05:55:36'
+date: '2023-11-23T18:44:01'
 draft: false
 images:
 - /images/covers/lunar_blood-twilight_insurgency.jpg
@@ -15,6 +15,6 @@ title: Lunar Blood - Twilight Insurgency
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=28359&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=28359&sort=pd.name&order=ASC) for $20.00
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=23263&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=23263&sort=pd.name&order=ASC) for $12.00

@@ -5,7 +5,7 @@ artist: Majestic Mass
 categories:
 - Vinyl
 - CD
-date: '2023-09-24T05:50:39'
+date: '2023-11-23T18:42:06'
 draft: false
 images:
 - /images/covers/majestic_mass-savage_empire_of_death.jpg
@@ -17,7 +17,7 @@ title: Majestic Mass - Savage Empire of Death
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=18533&sort=pd.name&order=ASC) for $20.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=19990&sort=pd.name&order=ASC) for $25.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=31441&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=31441&sort=pd.name&order=ASC) for $20.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=28609&sort=pd.name&order=ASC) for $15.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=31440&sort=pd.name&order=ASC) for $15.00

@@ -1,10 +1,10 @@
 ---
-actualPrice: $27.00 - 30.00
+actualPrice: $24.00 - 30.00
 album: "Endlh\xEBd\xEBhaj q\xE1shm\xEBna \xEBlh vim innivte"
 artist: "Trh\xE4"
 categories:
 - Vinyl
-date: '2023-10-29T07:41:33'
+date: '2023-11-23T18:42:47'
 draft: false
 images:
 - "/images/covers/trh\xE4-endlh\xEBd\xEBhaj_q\xE1shm\xEBna_\xEBlh_vim_innivte.jpg"
@@ -19,4 +19,4 @@ title: "Trh\xE4 - Endlh\xEBd\xEBhaj q\xE1shm\xEBna \xEBlh vim innivte"
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=39904&sort=pd.name&order=ASC) for $30.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=40287&sort=pd.name&order=ASC) for $30.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=41432&sort=pd.name&order=ASC) for $30.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=42685&sort=pd.name&order=ASC) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=42685&sort=pd.name&order=ASC) for $24.00

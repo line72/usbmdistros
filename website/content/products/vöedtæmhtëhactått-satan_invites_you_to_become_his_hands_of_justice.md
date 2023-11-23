@@ -1,10 +1,10 @@
 ---
-actualPrice: $10.00
+actualPrice: $8.00
 album: Satan Invites You To Become His Hands Of Justice
 artist: "V\xF6edt\xE6mht\xEBhact\xE5tt"
 categories:
 - Cassette
-date: '2023-09-24T05:59:13'
+date: '2023-11-23T18:45:18'
 draft: false
 images:
 - "/images/covers/v\xF6edt\xE6mht\xEBhact\xE5tt-satan_invites_you_to_become_his_hands_of_justice.jpg"
@@ -14,4 +14,4 @@ title: "V\xF6edt\xE6mht\xEBhact\xE5tt - Satan Invites You To Become His Hands Of
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=13663&sort=pd.name&order=ASC) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=13663&sort=pd.name&order=ASC) for $8.00

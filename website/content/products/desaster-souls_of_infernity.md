@@ -1,10 +1,10 @@
 ---
-actualPrice: $60.00
+actualPrice: $48.00
 album: Souls of Infernity
 artist: Desaster
 categories:
 - Vinyl
-date: '2023-09-24T05:53:12'
+date: '2023-11-23T18:43:07'
 draft: false
 images:
 - /images/covers/desaster-souls_of_infernity.png
@@ -14,4 +14,4 @@ title: Desaster - Souls of Infernity
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=23562&sort=pd.name&order=ASC) for $60.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=23562&sort=pd.name&order=ASC) for $48.00

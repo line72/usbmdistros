@@ -1,12 +1,12 @@
 ---
-actualPrice: $9.00 - 25.00
+actualPrice: $7.80 - 25.00
 album: Gods of War
 artist: Blasphemy
 categories:
 - Vinyl
 - Cassette
 - CD
-date: '2023-11-10T10:41:44'
+date: '2023-11-23T18:43:28'
 draft: false
 images:
 - /images/covers/blasphemy-gods_of_war.png
@@ -25,7 +25,7 @@ title: Blasphemy - Gods of War
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=34172&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=34798&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=35143&sort=pd.name&order=ASC) for $25.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=43181&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=43181&sort=pd.name&order=ASC) for $16.25
 ## Cassette
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=15472&sort=pd.name&order=ASC) for $9.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=21117&sort=pd.name&order=ASC) for $10.00
@@ -34,4 +34,4 @@ title: Blasphemy - Gods of War
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=27540&sort=pd.name&order=ASC) for $12.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=28378&sort=pd.name&order=ASC) for $12.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=28503&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=28503&sort=pd.name&order=ASC) for $7.80

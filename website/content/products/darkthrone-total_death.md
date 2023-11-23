@@ -1,10 +1,10 @@
 ---
-actualPrice: $25.00 - 35.00
+actualPrice: $20.00 - 35.00
 album: Total Death
 artist: Darkthrone
 categories:
 - Vinyl
-date: '2023-11-20T09:17:02'
+date: '2023-11-23T18:41:36'
 draft: false
 images:
 - /images/covers/darkthrone-total_death.jpg
@@ -21,4 +21,4 @@ title: Darkthrone - Total Death
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=36435&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=38183&sort=pd.name&order=ASC) for $35.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=40254&sort=pd.name&order=ASC) for $25.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=43659&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=43659&sort=pd.name&order=ASC) for $20.00

@@ -1,10 +1,10 @@
 ---
-actualPrice: $200.00
+actualPrice: $160.00 - 200.00
 album: Lunar Chronicles Occult
 artist: Moonblood
 categories:
 - Cassette
-date: '2023-09-24T05:58:29'
+date: '2023-11-23T18:45:01'
 draft: false
 images:
 - /images/covers/moonblood-lunar_chronicles_occult.jpg
@@ -18,4 +18,4 @@ title: Moonblood - Lunar Chronicles Occult
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=36251&sort=pd.name&order=ASC) for $200.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=37368&sort=pd.name&order=ASC) for $200.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=38263&sort=pd.name&order=ASC) for $200.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=38478&sort=pd.name&order=ASC) for $200.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=38478&sort=pd.name&order=ASC) for $160.00

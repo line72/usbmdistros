@@ -1,10 +1,10 @@
 ---
-actualPrice: $15.00
+actualPrice: $12.00 - 15.00
 album: Requiem
 artist: Svartsyn
 categories:
 - Cassette
-date: '2023-11-20T17:07:46'
+date: '2023-11-23T18:45:12'
 draft: false
 images:
 - /images/covers/svartsyn-requiem.jpg
@@ -19,4 +19,4 @@ title: Svartsyn - Requiem
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=28308&sort=pd.name&order=ASC) for $15.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=29248&sort=pd.name&order=ASC) for $15.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=42802&sort=pd.name&order=ASC) for $15.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=43650&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=43650&sort=pd.name&order=ASC) for $12.00

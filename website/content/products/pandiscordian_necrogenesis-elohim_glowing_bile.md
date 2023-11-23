@@ -1,10 +1,10 @@
 ---
-actualPrice: $10.00
+actualPrice: $8.00
 album: Elohim Glowing Bile
 artist: Pandiscordian Necrogenesis
 categories:
 - Cassette
-date: '2023-09-24T05:58:40'
+date: '2023-11-23T18:45:06'
 draft: false
 images:
 - /images/covers/pandiscordian_necrogenesis-elohim_glowing_bile.jpg
@@ -14,4 +14,4 @@ title: Pandiscordian Necrogenesis - Elohim Glowing Bile
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=16402&sort=pd.name&order=ASC) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=16402&sort=pd.name&order=ASC) for $8.00

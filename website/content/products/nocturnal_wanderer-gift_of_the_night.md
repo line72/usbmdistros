@@ -1,10 +1,10 @@
 ---
-actualPrice: $25.00 - 26.00
+actualPrice: $20.00 - 26.00
 album: Gift of the Night
 artist: Nocturnal Wanderer
 categories:
 - Vinyl
-date: '2023-09-24T05:51:15'
+date: '2023-11-23T18:42:19'
 draft: false
 images:
 - /images/covers/nocturnal_wanderer-gift_of_the_night.png
@@ -17,4 +17,4 @@ title: Nocturnal Wanderer - Gift of the Night
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=20745&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=20859&sort=pd.name&order=ASC) for $25.00
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/nocturnal-wanderer-gift-of-the-night-12-lp) for $26.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=30749&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=30749&sort=pd.name&order=ASC) for $20.00

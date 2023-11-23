@@ -6,7 +6,7 @@ categories:
 - Vinyl
 - Cassette
 - CD
-date: '2023-09-24T05:54:08'
+date: '2023-11-23T18:43:26'
 draft: false
 images:
 - /images/covers/balmog-svmma_fide.jpg
@@ -21,4 +21,4 @@ title: Balmog - Svmma Fide
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=16237&sort=pd.name&order=ASC) for $5.60
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=2319&sort=pd.name&order=ASC) for $8.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=32970&sort=pd.name&order=ASC) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=32970&sort=pd.name&order=ASC) for $8.00

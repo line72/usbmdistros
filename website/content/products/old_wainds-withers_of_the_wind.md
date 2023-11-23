@@ -4,7 +4,7 @@ album: Withers of the Wind
 artist: Old Wainds
 categories:
 - Vinyl
-date: '2023-10-21T07:01:24'
+date: '2023-11-23T18:42:22'
 draft: false
 images:
 - /images/covers/old_wainds-withers_of_the_wind.jpg
@@ -18,4 +18,4 @@ title: Old Wainds - Withers of the Wind
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=35634&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=36515&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=40021&sort=pd.name&order=ASC) for $25.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=42200&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=42200&sort=pd.name&order=ASC) for $20.00

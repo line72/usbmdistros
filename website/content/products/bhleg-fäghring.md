@@ -1,11 +1,11 @@
 ---
-actualPrice: $12.00 - 25.00
+actualPrice: $9.60 - 20.00
 album: "F\xE4ghring"
 artist: Bhleg
 categories:
 - Vinyl
 - CD
-date: '2023-09-24T05:54:12'
+date: '2023-11-23T18:43:27'
 draft: false
 images:
 - "/images/covers/bhleg-f\xE4ghring.jpg"
@@ -15,6 +15,6 @@ title: "Bhleg - F\xE4ghring"
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=26081&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=26081&sort=pd.name&order=ASC) for $20.00
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=22516&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=22516&sort=pd.name&order=ASC) for $9.60

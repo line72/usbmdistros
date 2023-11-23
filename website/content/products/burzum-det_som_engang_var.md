@@ -1,11 +1,11 @@
 ---
-actualPrice: $12.00 - 40.00
+actualPrice: $9.60 - 40.00
 album: Det Som Engang Var
 artist: Burzum
 categories:
 - Vinyl
 - CD
-date: '2023-11-09T10:24:31'
+date: '2023-11-23T18:43:30'
 draft: false
 images:
 - /images/covers/burzum-det_som_engang_var.jpg
@@ -32,4 +32,4 @@ title: Burzum - Det Som Engang Var
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=39517&sort=pd.name&order=ASC) for $12.00
 * Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/burzum-det-som-engang-var-cd/) for $14.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=42537&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=42537&sort=pd.name&order=ASC) for $9.60

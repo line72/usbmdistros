@@ -1,11 +1,11 @@
 ---
-actualPrice: $35.00
+actualPrice: $28.00 - 35.00
 album: "\u0412 \u041F\u043B\u0430\u043C\u0435\u043D\u0438 \u0421\u043B\u0430\u0432\
   \u044B"
 artist: Forest
 categories:
 - Vinyl
-date: '2023-10-29T06:18:58'
+date: '2023-11-23T18:41:45'
 draft: false
 images:
 - "/images/covers/forest-\u0432_\u043F\u043B\u0430\u043C\u0435\u043D\u0438_\u0441\u043B\
@@ -25,4 +25,4 @@ title: "Forest - \u0412 \u041F\u043B\u0430\u043C\u0435\u043D\u0438 \u0421\u043B\
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=37975&sort=pd.name&order=ASC) for $35.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=39620&sort=pd.name&order=ASC) for $35.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=40517&sort=pd.name&order=ASC) for $35.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=42683&sort=pd.name&order=ASC) for $35.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=42683&sort=pd.name&order=ASC) for $28.00

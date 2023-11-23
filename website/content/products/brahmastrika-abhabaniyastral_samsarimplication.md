@@ -1,10 +1,10 @@
 ---
-actualPrice: $25.00 - 27.00
+actualPrice: $20.00 - 27.00
 album: Abhabaniyastral Samsarimplication
 artist: Brahmastrika
 categories:
 - Vinyl
-date: '2023-09-24T05:48:52'
+date: '2023-11-23T18:41:28'
 draft: false
 images:
 - /images/covers/brahmastrika-abhabaniyastral_samsarimplication.jpg
@@ -15,4 +15,4 @@ title: Brahmastrika - Abhabaniyastral Samsarimplication
 
 ## Vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/brahmastrika-abhabaniyastral-samsarimplication) for $27.00 :: Splatter 1st press vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=20153&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=20153&sort=pd.name&order=ASC) for $20.00

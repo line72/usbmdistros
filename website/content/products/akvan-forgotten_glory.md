@@ -1,10 +1,10 @@
 ---
-actualPrice: $45.00
+actualPrice: $36.00 - 45.00
 album: Forgotten Glory
 artist: Akvan
 categories:
 - Vinyl
-date: '2023-09-24T05:48:18'
+date: '2023-11-23T18:41:15'
 draft: false
 images:
 - /images/covers/akvan-forgotten_glory.jpg
@@ -15,4 +15,4 @@ title: Akvan - Forgotten Glory
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=33334&sort=pd.name&order=ASC) for $45.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=39991&sort=pd.name&order=ASC) for $45.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=39991&sort=pd.name&order=ASC) for $36.00

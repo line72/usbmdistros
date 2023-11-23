@@ -1,11 +1,11 @@
 ---
-actualPrice: $10.00 - 25.00
+actualPrice: $8.00 - 25.00
 album: Transfixion of Spirits
 artist: Black Cilice
 categories:
 - Vinyl
 - CD
-date: '2023-09-24T05:54:12'
+date: '2023-11-23T18:43:28'
 draft: false
 images:
 - /images/covers/black_cilice-transfixion_of_spirits.jpg
@@ -24,6 +24,6 @@ title: Black Cilice - Transfixion of Spirits
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=30267&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=31842&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=32920&sort=pd.name&order=ASC) for $25.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=34902&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=34902&sort=pd.name&order=ASC) for $20.00
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=14162&sort=pd.name&order=ASC) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=14162&sort=pd.name&order=ASC) for $8.00

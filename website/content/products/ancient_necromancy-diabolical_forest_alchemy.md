@@ -1,11 +1,11 @@
 ---
-actualPrice: $10.00 - 25.00
+actualPrice: $8.00 - 25.00
 album: Diabolical Forest Alchemy
 artist: Ancient Necromancy
 categories:
 - Vinyl
 - Cassette
-date: '2023-10-23T09:35:56'
+date: '2023-11-23T18:44:40'
 draft: false
 images:
 - /images/covers/ancient_necromancy-diabolical_forest_alchemy.jpg
@@ -27,7 +27,7 @@ title: Ancient Necromancy - Diabolical Forest Alchemy
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=34824&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=40229&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=41760&sort=pd.name&order=ASC) for $20.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=42364&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=42364&sort=pd.name&order=ASC) for $13.00
 ## Cassette
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=19855&sort=pd.name&order=ASC) for $10.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=13930&sort=pd.name&order=ASC) for $10.00
@@ -41,4 +41,4 @@ title: Ancient Necromancy - Diabolical Forest Alchemy
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=34012&sort=pd.name&order=ASC) for $10.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=34823&sort=pd.name&order=ASC) for $10.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=40228&sort=pd.name&order=ASC) for $10.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=42363&sort=pd.name&order=ASC) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=42363&sort=pd.name&order=ASC) for $8.00

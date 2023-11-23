@@ -6,7 +6,7 @@ categories:
 - Vinyl
 - Cassette
 - CD
-date: '2023-09-24T05:55:05'
+date: '2023-11-23T18:43:50'
 draft: false
 images:
 - /images/covers/hate_forest-scythia.jpg
@@ -27,4 +27,4 @@ title: Hate Forest - Scythia
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=17215&sort=pd.name&order=ASC) for $10.00
 ## CD
 * Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/hate-forest-scythia-cd/) for $10.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=34616&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=34616&sort=pd.name&order=ASC) for $12.00

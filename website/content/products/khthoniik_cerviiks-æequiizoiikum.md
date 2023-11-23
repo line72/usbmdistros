@@ -1,11 +1,11 @@
 ---
-actualPrice: $12.00 - 20.00
+actualPrice: $12.00 - 16.00
 album: "\xC6equiizoiikum"
 artist: Khthoniik Cerviiks
 categories:
 - Vinyl
 - CD
-date: '2023-09-24T05:50:26'
+date: '2023-11-23T18:42:01'
 draft: false
 images:
 - "/images/covers/khthoniik_cerviiks-\xE6equiizoiikum.jpg"
@@ -15,6 +15,6 @@ title: "Khthoniik Cerviiks - \xC6equiizoiikum"
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=16386&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=16386&sort=pd.name&order=ASC) for $16.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=18282&sort=pd.name&order=ASC) for $12.00

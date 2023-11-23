@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00 - 30.00
+actualPrice: $9.60 - 30.00
 album: Tenebris Obortis
 artist: Pest
 categories:
 - CD
-date: '2023-09-24T05:56:12'
+date: '2023-11-23T18:44:14'
 draft: false
 images:
 - /images/covers/pest-tenebris_obortis.jpg
@@ -19,4 +19,4 @@ title: Pest - Tenebris Obortis
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=26076&sort=pd.name&order=ASC) for $12.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=26875&sort=pd.name&order=ASC) for $30.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=26871&sort=pd.name&order=ASC) for $12.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=27792&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=27792&sort=pd.name&order=ASC) for $9.60

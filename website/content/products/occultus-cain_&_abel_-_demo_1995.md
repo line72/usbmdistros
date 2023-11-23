@@ -1,10 +1,10 @@
 ---
-actualPrice: $25.00
+actualPrice: $20.00 - 25.00
 album: Cain & Abel - Demo 1995
 artist: Occultus
 categories:
 - Vinyl
-date: '2023-09-24T05:51:19'
+date: '2023-11-23T18:42:21'
 draft: false
 images:
 - /images/covers/occultus-cain_&_abel_-_demo_1995.jpg
@@ -17,4 +17,4 @@ title: Occultus - Cain & Abel - Demo 1995
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=30872&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=31858&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=32089&sort=pd.name&order=ASC) for $25.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=34502&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=34502&sort=pd.name&order=ASC) for $20.00

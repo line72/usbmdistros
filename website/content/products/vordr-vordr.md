@@ -4,7 +4,7 @@ album: Vordr
 artist: Vordr
 categories:
 - Vinyl
-date: '2023-10-08T07:07:00'
+date: '2023-11-23T18:42:53'
 draft: false
 images:
 - /images/covers/vordr-vordr.jpg
@@ -18,4 +18,4 @@ title: Vordr - Vordr
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=3920&sort=pd.name&order=ASC) for $9.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=30398&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=32478&sort=pd.name&order=ASC) for $25.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=41389&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=41389&sort=pd.name&order=ASC) for $20.00

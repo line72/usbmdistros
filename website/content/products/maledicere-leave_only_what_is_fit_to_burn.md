@@ -1,10 +1,10 @@
 ---
-actualPrice: $5.00 - 8.00
+actualPrice: $4.00 - 8.00
 album: Leave Only What Is Fit to Burn
 artist: Maledicere
 categories:
 - CD
-date: '2023-09-24T05:55:38'
+date: '2023-11-23T18:44:02'
 draft: false
 images:
 - /images/covers/maledicere-leave_only_what_is_fit_to_burn.jpg
@@ -16,4 +16,4 @@ title: Maledicere - Leave Only What Is Fit to Burn
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=2287&sort=pd.name&order=ASC) for $6.00
 * Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/maledicere-leave-only-what-is-fit-to-burn-cd/) for $8.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=26623&sort=pd.name&order=ASC) for $5.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=26623&sort=pd.name&order=ASC) for $4.00

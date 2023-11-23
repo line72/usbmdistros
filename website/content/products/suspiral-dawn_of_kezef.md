@@ -1,11 +1,11 @@
 ---
-actualPrice: $3.00 - 7.00
+actualPrice: $2.40 - 7.00
 album: Dawn of Kezef
 artist: Suspiral
 categories:
 - Vinyl
 - Cassette
-date: '2023-09-24T05:53:44'
+date: '2023-11-23T18:43:18'
 draft: false
 images:
 - /images/covers/suspiral-dawn_of_kezef.jpg
@@ -18,7 +18,7 @@ title: Suspiral - Dawn of Kezef
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=2293&sort=pd.name&order=ASC) for $7.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=26572&sort=pd.name&order=ASC) for $5.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=26716&sort=pd.name&order=ASC) for $3.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=39540&sort=pd.name&order=ASC) for $3.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=39540&sort=pd.name&order=ASC) for $2.40
 ## Cassette
 * Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/34143274-suspiral-dawn-of-kezef) for $4.00
 * Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/35037571-suspiral-dawn-of-kezef) for $3.00

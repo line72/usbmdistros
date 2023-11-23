@@ -5,7 +5,7 @@ artist: Deep Desolation
 categories:
 - Cassette
 - CD
-date: '2023-10-09T08:17:40'
+date: '2023-11-23T18:43:34'
 draft: false
 images:
 - /images/covers/deep_desolation-boski_jad.jpg
@@ -20,7 +20,7 @@ title: Deep Desolation - Boski Jad
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=8606&sort=pd.name&order=ASC) for $7.50
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=8508&sort=pd.name&order=ASC) for $12.75
 * Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/deep-desolation-boski-jad-cd/) for $8.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=16878&sort=pd.name&order=ASC) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=16878&sort=pd.name&order=ASC) for $8.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=16879&sort=pd.name&order=ASC) for $17.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=30769&sort=pd.name&order=ASC) for $17.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=41479&sort=pd.name&order=ASC) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=41479&sort=pd.name&order=ASC) for $8.00

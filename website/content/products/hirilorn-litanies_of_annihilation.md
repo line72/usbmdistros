@@ -1,10 +1,10 @@
 ---
-actualPrice: $25.00
+actualPrice: $20.00
 album: Litanies of Annihilation
 artist: Hirilorn
 categories:
 - CD
-date: '2023-09-24T05:55:12'
+date: '2023-11-23T18:43:53'
 draft: false
 images:
 - /images/covers/hirilorn-litanies_of_annihilation.jpg
@@ -14,4 +14,4 @@ title: Hirilorn - Litanies of Annihilation
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=36331&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=36331&sort=pd.name&order=ASC) for $20.00

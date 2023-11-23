@@ -1,10 +1,10 @@
 ---
-actualPrice: $10.00
+actualPrice: $8.00
 album: Demo 2014
 artist: Blut
 categories:
 - Cassette
-date: '2023-09-24T05:57:41'
+date: '2023-11-23T18:44:43'
 draft: false
 images:
 - /images/covers/blut-demo_2014.png
@@ -14,4 +14,4 @@ title: Blut - Demo 2014
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=10191&sort=pd.name&order=ASC) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=10191&sort=pd.name&order=ASC) for $8.00

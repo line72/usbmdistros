@@ -1,10 +1,10 @@
 ---
-actualPrice: $25.00
+actualPrice: $20.00 - 25.00
 album: Third World Esoterrorism
 artist: Tetragrammacide
 categories:
 - Vinyl
-date: '2023-11-14T14:18:49'
+date: '2023-11-23T18:42:43'
 draft: false
 images:
 - /images/covers/tetragrammacide-third_world_esoterrorism.jpg
@@ -17,4 +17,4 @@ title: Tetragrammacide - Third World Esoterrorism
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=33459&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=37425&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=42959&sort=pd.name&order=ASC) for $25.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=43412&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=43412&sort=pd.name&order=ASC) for $20.00

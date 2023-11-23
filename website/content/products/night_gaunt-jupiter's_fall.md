@@ -1,10 +1,10 @@
 ---
-actualPrice: $7.00
+actualPrice: $5.60
 album: Jupiter's Fall
 artist: Night Gaunt
 categories:
 - Vinyl
-date: '2023-09-24T05:53:33'
+date: '2023-11-23T18:43:14'
 draft: false
 images:
 - /images/covers/night_gaunt-jupiter's_fall.jpg
@@ -14,4 +14,4 @@ title: Night Gaunt - Jupiter's Fall
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=1790&sort=pd.name&order=ASC) for $7.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=1790&sort=pd.name&order=ASC) for $5.60

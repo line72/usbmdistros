@@ -1,10 +1,10 @@
 ---
-actualPrice: $25.00 - 35.00
+actualPrice: $20.00 - 35.00
 album: Terroir
 artist: Drave
 categories:
 - Vinyl
-date: '2023-10-04T06:05:00'
+date: '2023-11-23T18:41:41'
 draft: false
 images:
 - /images/covers/drave-terroir.jpg
@@ -15,4 +15,4 @@ title: Drave - Terroir
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=22612&sort=pd.name&order=ASC) for $35.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=40949&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=40949&sort=pd.name&order=ASC) for $20.00

@@ -1,10 +1,10 @@
 ---
-actualPrice: $15.00 - 20.00
+actualPrice: $9.75 - 20.00
 album: Furor Aesticus
 artist: Loits
 categories:
 - Vinyl
-date: '2023-10-12T06:51:58'
+date: '2023-11-23T18:42:04'
 draft: false
 images:
 - /images/covers/loits-furor_aesticus.jpg
@@ -18,4 +18,4 @@ title: Loits - Furor Aesticus
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=21373&sort=pd.name&order=ASC) for $20.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=32189&sort=pd.name&order=ASC) for $20.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=36091&sort=pd.name&order=ASC) for $20.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=41796&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=41796&sort=pd.name&order=ASC) for $9.75

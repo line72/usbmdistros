@@ -1,10 +1,10 @@
 ---
-actualPrice: $7.00
+actualPrice: $5.60
 album: EP 2015
 artist: Viande
 categories:
 - Cassette
-date: '2023-09-24T05:59:12'
+date: '2023-11-23T18:45:18'
 draft: false
 images:
 - /images/covers/viande-ep_2015.png
@@ -14,4 +14,4 @@ title: Viande - EP 2015
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=1394&sort=pd.name&order=ASC) for $7.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=1394&sort=pd.name&order=ASC) for $5.60

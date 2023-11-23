@@ -1,10 +1,10 @@
 ---
-actualPrice: $30.00 - 35.00
+actualPrice: $24.00 - 35.00
 album: Filosofem
 artist: Burzum
 categories:
 - Vinyl
-date: '2023-10-25T06:00:07'
+date: '2023-11-23T18:41:29'
 draft: false
 images:
 - /images/covers/burzum-filosofem.jpg
@@ -26,4 +26,4 @@ title: Burzum - Filosofem
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=38105&sort=pd.name&order=ASC) for $30.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=40040&sort=pd.name&order=ASC) for $30.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=41178&sort=pd.name&order=ASC) for $30.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=42530&sort=pd.name&order=ASC) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=42530&sort=pd.name&order=ASC) for $24.00

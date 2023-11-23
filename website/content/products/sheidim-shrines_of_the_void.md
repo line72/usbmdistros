@@ -1,10 +1,10 @@
 ---
-actualPrice: $8.00
+actualPrice: $6.40
 album: Shrines of the Void
 artist: Sheidim
 categories:
 - CD
-date: '2023-09-24T05:56:32'
+date: '2023-11-23T18:44:23'
 draft: false
 images:
 - /images/covers/sheidim-shrines_of_the_void.png
@@ -14,4 +14,4 @@ title: Sheidim - Shrines of the Void
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=2149&sort=pd.name&order=ASC) for $8.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=2149&sort=pd.name&order=ASC) for $6.40

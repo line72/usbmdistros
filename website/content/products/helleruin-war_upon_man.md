@@ -6,7 +6,7 @@ categories:
 - Vinyl
 - Cassette
 - CD
-date: '2023-09-07T06:19:01'
+date: '2023-11-23T18:50:11'
 draft: false
 images:
 - /images/covers/helleruin-war_upon_man.jpg
@@ -21,6 +21,7 @@ title: Helleruin - War Upon Man
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=24522&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=24576&sort=pd.name&order=ASC) for $30.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=39473&sort=pd.name&order=ASC) for $25.00
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/used-helleruin-war-upon-man-lp) for $25.00 :: Grey Marbled 2021 press
 ## Cassette
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=21663&sort=pd.name&order=ASC) for $12.00
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/helleruin-war-upon-man-tape) for $11.00

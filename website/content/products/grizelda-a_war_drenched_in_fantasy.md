@@ -5,7 +5,7 @@ artist: Grizelda
 categories:
 - Cassette
 - CD
-date: '2023-09-24T05:55:02'
+date: '2023-11-23T18:43:49'
 draft: false
 images:
 - /images/covers/grizelda-a_war_drenched_in_fantasy.png
@@ -19,4 +19,4 @@ title: Grizelda - A War Drenched in Fantasy
 ## CD
 * Purchase from [CW Productions](https://shop.cwproductions.net/products/grizelda-a-war-drenched-in-fantasy-cd-1) for $10.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=29187&sort=pd.name&order=ASC) for $12.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=35470&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=35470&sort=pd.name&order=ASC) for $9.60

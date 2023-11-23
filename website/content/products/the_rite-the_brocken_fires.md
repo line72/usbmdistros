@@ -5,7 +5,7 @@ artist: The Rite
 categories:
 - Vinyl
 - CD
-date: '2023-09-24T05:52:19'
+date: '2023-11-23T18:42:45'
 draft: false
 images:
 - /images/covers/the_rite-the_brocken_fires.jpg
@@ -18,6 +18,6 @@ title: The Rite - The Brocken Fires
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=5770&sort=pd.name&order=ASC) for $17.00
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/the-rite-the-brocken-fires) for $20.00 :: Gold 1st press
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=38063&sort=pd.name&order=ASC) for $17.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=38223&sort=pd.name&order=ASC) for $17.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=38223&sort=pd.name&order=ASC) for $13.60
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=5819&sort=pd.name&order=ASC) for $7.50

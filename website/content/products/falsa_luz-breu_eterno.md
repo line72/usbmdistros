@@ -1,10 +1,10 @@
 ---
-actualPrice: $9.00 - 15.00
+actualPrice: $9.00 - 12.00
 album: Breu Eterno
 artist: Falsa Luz
 categories:
 - Cassette
-date: '2023-09-24T05:58:03'
+date: '2023-11-23T18:44:52'
 draft: false
 images:
 - /images/covers/falsa_luz-breu_eterno.jpg
@@ -15,4 +15,4 @@ title: Falsa Luz - Breu Eterno
 
 ## Cassette
 * Purchase from [CW Productions](https://shop.cwproductions.net/products/falsa-luz-breu-eterno-tape) for $9.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=32699&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=32699&sort=pd.name&order=ASC) for $12.00

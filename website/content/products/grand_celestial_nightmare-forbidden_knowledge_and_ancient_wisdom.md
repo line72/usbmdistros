@@ -5,7 +5,7 @@ artist: Grand Celestial Nightmare
 categories:
 - Vinyl
 - CD
-date: '2023-11-05T02:33:59'
+date: '2023-11-23T18:41:51'
 draft: false
 images:
 - /images/covers/grand_celestial_nightmare-forbidden_knowledge_and_ancient_wisdom.jpg
@@ -28,7 +28,7 @@ title: Grand Celestial Nightmare - Forbidden Knowledge and Ancient Wisdom
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=40246&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=40382&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=40812&sort=pd.name&order=ASC) for $25.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=43012&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=43012&sort=pd.name&order=ASC) for $20.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=20816&sort=pd.name&order=ASC) for $12.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=22078&sort=pd.name&order=ASC) for $12.00

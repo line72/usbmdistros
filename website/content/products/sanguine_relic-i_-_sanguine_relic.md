@@ -1,10 +1,10 @@
 ---
-actualPrice: $25.00
+actualPrice: $20.00 - 25.00
 album: I - Sanguine Relic
 artist: Sanguine Relic
 categories:
 - Vinyl
-date: '2023-10-29T07:28:45'
+date: '2023-11-23T18:42:34'
 draft: false
 images:
 - /images/covers/sanguine_relic-i_-_sanguine_relic.jpg
@@ -20,4 +20,4 @@ title: Sanguine Relic - I - Sanguine Relic
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=37339&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=39930&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=40284&sort=pd.name&order=ASC) for $25.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=42690&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=42690&sort=pd.name&order=ASC) for $20.00

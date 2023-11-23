@@ -4,7 +4,7 @@ album: De Masticatione Mortuorum in Tumulis
 artist: "\xC6vangelist"
 categories:
 - Vinyl
-date: '2023-09-24T05:52:57'
+date: '2023-11-23T18:42:59'
 draft: false
 images:
 - "/images/covers/\xE6vangelist-de_masticatione_mortuorum_in_tumulis.jpg"
@@ -16,4 +16,4 @@ title: "\xC6vangelist - De Masticatione Mortuorum in Tumulis"
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=2140&sort=pd.name&order=ASC) for $10.00
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/aevangelist-de-masticatione-mortuorum-in-tumulis) for $25.00 :: Black 1st press vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=40132&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=40132&sort=pd.name&order=ASC) for $12.00

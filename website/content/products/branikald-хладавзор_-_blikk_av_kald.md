@@ -4,7 +4,7 @@ album: "\u0425\u043B\u0430\u0434\u0430\u0432\u0437\u043E\u0440 / Blikk av Kald"
 artist: Branikald
 categories:
 - Vinyl
-date: '2023-09-28T06:31:58'
+date: '2023-11-23T06:23:30'
 draft: false
 images:
 - "/images/covers/branikald-\u0445\u043B\u0430\u0434\u0430\u0432\u0437\u043E\u0440\

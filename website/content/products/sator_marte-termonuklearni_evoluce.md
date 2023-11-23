@@ -1,10 +1,10 @@
 ---
-actualPrice: $10.00 - 20.00
+actualPrice: $8.00 - 20.00
 album: Termonuklearni Evoluce
 artist: Sator Marte
 categories:
 - Vinyl
-date: '2023-10-04T07:04:00'
+date: '2023-11-23T18:42:35'
 draft: false
 images:
 - /images/covers/sator_marte-termonuklearni_evoluce.jpg
@@ -15,4 +15,4 @@ title: Sator Marte - Termonuklearni Evoluce
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=9668&sort=pd.name&order=ASC) for $20.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=40951&sort=pd.name&order=ASC) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=40951&sort=pd.name&order=ASC) for $8.00

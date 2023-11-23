@@ -1,11 +1,11 @@
 ---
-actualPrice: $10.00 - 20.00
+actualPrice: $8.00 - 20.00
 album: Death To All
 artist: Deathroner
 categories:
 - Vinyl
 - CD
-date: '2023-09-24T05:54:30'
+date: '2023-11-23T18:43:34'
 draft: false
 images:
 - /images/covers/deathroner-death_to_all.jpg
@@ -17,4 +17,4 @@ title: Deathroner - Death To All
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=7127&sort=pd.name&order=ASC) for $20.00
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=2965&sort=pd.name&order=ASC) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=2965&sort=pd.name&order=ASC) for $8.00

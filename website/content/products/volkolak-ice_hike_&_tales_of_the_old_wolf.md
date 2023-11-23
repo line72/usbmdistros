@@ -1,10 +1,10 @@
 ---
-actualPrice: $10.00
+actualPrice: $8.00
 album: Ice Hike & Tales of the Old Wolf
 artist: Volkolak
 categories:
 - CD
-date: '2023-09-24T05:57:06'
+date: '2023-11-23T18:44:34'
 draft: false
 images:
 - /images/covers/volkolak-ice_hike_&_tales_of_the_old_wolf.jpg
@@ -14,4 +14,4 @@ title: Volkolak - Ice Hike & Tales of the Old Wolf
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=17830&sort=pd.name&order=ASC) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=17830&sort=pd.name&order=ASC) for $8.00

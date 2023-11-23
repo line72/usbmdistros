@@ -1,10 +1,10 @@
 ---
-actualPrice: $10.00
+actualPrice: $8.00 - 10.00
 album: Despondent Damnation
 artist: Impiety
 categories:
 - CD
-date: '2023-09-24T05:55:17'
+date: '2023-11-23T18:43:54'
 draft: false
 images:
 - /images/covers/impiety-despondent_damnation.jpg
@@ -15,4 +15,4 @@ title: Impiety - Despondent Damnation
 
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=13605&sort=pd.name&order=ASC) for $10.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=35584&sort=pd.name&order=ASC) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=35584&sort=pd.name&order=ASC) for $8.00

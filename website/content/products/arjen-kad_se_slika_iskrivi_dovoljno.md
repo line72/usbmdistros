@@ -5,7 +5,7 @@ artist: Arjen
 categories:
 - Vinyl
 - CD
-date: '2023-09-24T05:48:26'
+date: '2023-11-23T18:41:18'
 draft: false
 images:
 - /images/covers/arjen-kad_se_slika_iskrivi_dovoljno.jpg
@@ -16,7 +16,7 @@ title: Arjen - Kad Se Slika Iskrivi Dovoljno
 
 ## Vinyl
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/arjen-kad-se-slika-iskrivi-dovoljno-12-lp) for $25.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=16470&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=16470&sort=pd.name&order=ASC) for $20.00
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/arjen-kad-se-slika-iskrivi-dovoljno-lp) for $23.00 :: Black 1st press vinyl
 ## CD
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/arjen-kad-se-slika-iskrivi-dovoljno-cd) for $13.00

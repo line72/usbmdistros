@@ -1,11 +1,11 @@
 ---
-actualPrice: $15.00 - 50.00
+actualPrice: $12.00 - 50.00
 album: Asaru
 artist: Yamatu
 categories:
 - Vinyl
 - CD
-date: '2023-09-24T05:57:16'
+date: '2023-11-23T18:44:37'
 draft: false
 images:
 - /images/covers/yamatu-asaru.jpg
@@ -18,4 +18,4 @@ title: Yamatu - Asaru
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=21967&sort=pd.name&order=ASC) for $50.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=5351&sort=pd.name&order=ASC) for $15.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=21966&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=21966&sort=pd.name&order=ASC) for $12.00

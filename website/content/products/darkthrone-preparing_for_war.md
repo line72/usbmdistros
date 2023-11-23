@@ -1,10 +1,10 @@
 ---
-actualPrice: $10.00
+actualPrice: $8.00 - 10.00
 album: Preparing for War
 artist: Darkthrone
 categories:
 - CD
-date: '2023-11-20T13:30:11'
+date: '2023-11-23T18:43:34'
 draft: false
 images:
 - /images/covers/darkthrone-preparing_for_war.png
@@ -15,4 +15,4 @@ title: Darkthrone - Preparing for War
 
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=41043&sort=pd.name&order=ASC) for $10.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=43663&sort=pd.name&order=ASC) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=43663&sort=pd.name&order=ASC) for $8.00

@@ -1,11 +1,11 @@
 ---
-actualPrice: $12.00 - 25.00
+actualPrice: $9.60 - 25.00
 album: The Oath of the Black Wolf
 artist: Orgrel
 categories:
 - Vinyl
 - CD
-date: '2023-09-24T05:56:08'
+date: '2023-11-23T18:44:12'
 draft: false
 images:
 - /images/covers/orgrel-the_oath_of_the_black_wolf.jpg
@@ -16,6 +16,6 @@ title: Orgrel - The Oath of the Black Wolf
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=25085&sort=pd.name&order=ASC) for $25.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=27139&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=27139&sort=pd.name&order=ASC) for $20.00
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=25227&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=25227&sort=pd.name&order=ASC) for $9.60

@@ -1,10 +1,10 @@
 ---
-actualPrice: $15.00
+actualPrice: $12.00 - 15.00
 album: Surrender Unto Evil
 artist: Euronymous
 categories:
 - Cassette
-date: '2023-09-24T05:58:02'
+date: '2023-11-23T18:44:51'
 draft: false
 images:
 - /images/covers/euronymous-surrender_unto_evil.png
@@ -16,4 +16,4 @@ title: Euronymous - Surrender Unto Evil
 ## Cassette
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=24372&sort=pd.name&order=ASC) for $15.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=24583&sort=pd.name&order=ASC) for $15.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=32053&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=32053&sort=pd.name&order=ASC) for $12.00

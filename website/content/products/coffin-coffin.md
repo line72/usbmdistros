@@ -1,10 +1,10 @@
 ---
-actualPrice: $5.00
+actualPrice: $4.00
 album: Coffin
 artist: Coffin
 categories:
 - CD
-date: '2023-09-24T05:54:22'
+date: '2023-11-23T18:43:32'
 draft: false
 images:
 - /images/covers/coffin-coffin.jpg
@@ -14,4 +14,4 @@ title: Coffin - Coffin
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=1121&sort=pd.name&order=ASC) for $5.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=1121&sort=pd.name&order=ASC) for $4.00

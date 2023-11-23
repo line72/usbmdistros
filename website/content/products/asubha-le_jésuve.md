@@ -1,10 +1,10 @@
 ---
-actualPrice: $7.00
+actualPrice: $5.60
 album: "Le J\xE9suve"
 artist: Asubha
 categories:
 - Cassette
-date: '2023-09-24T05:57:35'
+date: '2023-11-23T18:44:41'
 draft: false
 images:
 - "/images/covers/asubha-le_j\xE9suve.png"
@@ -14,4 +14,4 @@ title: "Asubha - Le J\xE9suve"
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=3969&sort=pd.name&order=ASC) for $7.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=3969&sort=pd.name&order=ASC) for $5.60

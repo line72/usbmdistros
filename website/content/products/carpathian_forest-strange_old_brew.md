@@ -1,10 +1,10 @@
 ---
-actualPrice: $25.00
+actualPrice: $20.00 - 25.00
 album: Strange Old Brew
 artist: Carpathian Forest
 categories:
 - Vinyl
-date: '2023-09-24T05:49:00'
+date: '2023-11-23T18:41:30'
 draft: false
 images:
 - /images/covers/carpathian_forest-strange_old_brew.jpg
@@ -17,4 +17,4 @@ title: Carpathian Forest - Strange Old Brew
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=18187&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=19410&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=21705&sort=pd.name&order=ASC) for $25.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=35717&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=35717&sort=pd.name&order=ASC) for $20.00

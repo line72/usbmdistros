@@ -1,11 +1,11 @@
 ---
-actualPrice: $7.50 - 25.00
+actualPrice: $7.50 - 20.00
 album: Triumphant Devastation
 artist: Deathwitch
 categories:
 - Vinyl
 - CD
-date: '2023-10-10T07:31:05'
+date: '2023-11-23T18:43:34'
 draft: false
 images:
 - /images/covers/deathwitch-triumphant_devastation.jpg
@@ -15,8 +15,8 @@ title: Deathwitch - Triumphant Devastation
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=41658&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=41658&sort=pd.name&order=ASC) for $20.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=8679&sort=pd.name&order=ASC) for $7.50
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=17173&sort=pd.name&order=ASC) for $10.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=41662&sort=pd.name&order=ASC) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=41662&sort=pd.name&order=ASC) for $8.00

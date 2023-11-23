@@ -1,10 +1,10 @@
 ---
-actualPrice: $8.00
+actualPrice: $6.40
 album: F.H.T.
 artist: Aeiou
 categories:
 - Cassette
-date: '2023-10-02T09:34:37'
+date: '2023-11-23T18:44:38'
 draft: false
 images:
 - /images/covers/aeiou-f.h.t..jpg
@@ -14,4 +14,4 @@ title: Aeiou - F.H.T.
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=40756&sort=pd.name&order=ASC) for $8.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=40756&sort=pd.name&order=ASC) for $6.40

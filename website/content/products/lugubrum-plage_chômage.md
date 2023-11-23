@@ -4,7 +4,7 @@ album: "Plage Ch\xF4mage"
 artist: Lugubrum
 categories:
 - Vinyl
-date: '2023-10-15T06:41:25'
+date: '2023-11-23T18:42:05'
 draft: false
 images:
 - "/images/covers/lugubrum-plage_ch\xF4mage.jpg"
@@ -17,4 +17,4 @@ title: "Lugubrum - Plage Ch\xF4mage"
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=6807&sort=pd.name&order=ASC) for $12.75
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=20532&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=36955&sort=pd.name&order=ASC) for $25.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=41898&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=41898&sort=pd.name&order=ASC) for $20.00

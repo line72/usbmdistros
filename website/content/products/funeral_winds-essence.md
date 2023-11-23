@@ -5,7 +5,7 @@ artist: Funeral Winds
 categories:
 - Vinyl
 - Cassette
-date: '2023-09-24T05:49:46'
+date: '2023-11-23T18:41:46'
 draft: false
 images:
 - /images/covers/funeral_winds-essence.png
@@ -17,7 +17,7 @@ title: Funeral Winds - Essence
 ## Vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/funeral-winds-essence) for $29.00 :: Black 1st press
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/funeral-winds-essence) for $32.00 :: Dark Red/Black 1st press
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=33428&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=33428&sort=pd.name&order=ASC) for $20.00
 * Purchase from [Sto'Vo'Kor Records](https://stovokor-records.com/products/funeral-winds-essence) for $23.00
 ## Cassette
 * Purchase from [CW Productions](https://shop.cwproductions.net/products/funeral-winds-essence-tape) for $4.00

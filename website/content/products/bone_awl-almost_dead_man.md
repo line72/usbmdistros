@@ -1,10 +1,10 @@
 ---
-actualPrice: $15.00 - 25.00
+actualPrice: $15.00 - 20.00
 album: Almost Dead Man
 artist: Bone Awl
 categories:
 - Vinyl
-date: '2023-09-24T05:48:52'
+date: '2023-11-23T18:41:28'
 draft: false
 images:
 - /images/covers/bone_awl-almost_dead_man.jpg
@@ -14,5 +14,5 @@ title: Bone Awl - Almost Dead Man
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=27284&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=27284&sort=pd.name&order=ASC) for $20.00
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/used-bone-awl-almost-dead-man-12) for $15.00 :: Black 2018 press vinyl

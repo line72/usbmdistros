@@ -1,10 +1,10 @@
 ---
-actualPrice: $10.00
+actualPrice: $8.00
 album: Ancestral Warriors
 artist: Pagan Wrath
 categories:
 - CD
-date: '2023-10-05T08:57:02'
+date: '2023-11-23T18:44:13'
 draft: false
 images:
 - /images/covers/pagan_wrath-ancestral_warriors.jpg
@@ -14,4 +14,4 @@ title: Pagan Wrath - Ancestral Warriors
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=41041&sort=pd.name&order=ASC) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=41041&sort=pd.name&order=ASC) for $8.00

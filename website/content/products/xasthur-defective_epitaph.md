@@ -1,10 +1,10 @@
 ---
-actualPrice: $8.00
+actualPrice: $6.40
 album: Defective Epitaph
 artist: Xasthur
 categories:
 - CD
-date: '2023-10-05T09:14:07'
+date: '2023-11-23T18:44:37'
 draft: false
 images:
 - /images/covers/xasthur-defective_epitaph.png
@@ -14,4 +14,4 @@ title: Xasthur - Defective Epitaph
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=41026&sort=pd.name&order=ASC) for $8.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=41026&sort=pd.name&order=ASC) for $6.40

@@ -1,11 +1,11 @@
 ---
-actualPrice: $10.00 - 17.00
+actualPrice: $8.00 - 17.00
 album: '...For I see Death in Their Eyes'
 artist: Embrace of Thorns
 categories:
 - Vinyl
 - CD
-date: '2023-09-24T05:54:42'
+date: '2023-11-23T18:43:42'
 draft: false
 images:
 - /images/covers/embrace_of_thorns-...for_i_see_death_in_their_eyes.jpg
@@ -17,4 +17,4 @@ title: Embrace of Thorns - ...For I see Death in Their Eyes
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=16019&sort=pd.name&order=ASC) for $17.00
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=15278&sort=pd.name&order=ASC) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=15278&sort=pd.name&order=ASC) for $8.00

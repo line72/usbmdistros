@@ -1,10 +1,10 @@
 ---
-actualPrice: $15.00
+actualPrice: $12.00
 album: Crowned in Shadows
 artist: "\xC4kth G\xE1nah\xEBth"
 categories:
 - CD
-date: '2023-09-24T05:53:57'
+date: '2023-11-23T18:43:22'
 draft: false
 images:
 - "/images/covers/\xE4kth_g\xE1nah\xEBth-crowned_in_shadows.jpg"
@@ -14,4 +14,4 @@ title: "\xC4kth G\xE1nah\xEBth - Crowned in Shadows"
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=15877&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=15877&sort=pd.name&order=ASC) for $12.00

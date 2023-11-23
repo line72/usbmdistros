@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00
+actualPrice: $9.60
 album: Providence Descends
 artist: Aeon Furnace
 categories:
 - Vinyl
-date: '2023-09-24T05:48:15'
+date: '2023-11-23T18:40:52'
 draft: false
 images:
 - /images/covers/aeon_furnace-providence_descends.jpg
@@ -14,4 +14,4 @@ title: Aeon Furnace - Providence Descends
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=31007&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=31007&sort=pd.name&order=ASC) for $9.60

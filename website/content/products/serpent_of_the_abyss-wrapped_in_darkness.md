@@ -1,10 +1,10 @@
 ---
-actualPrice: $27.00
+actualPrice: $21.60 - 27.00
 album: Wrapped in Darkness
 artist: Serpent of the Abyss
 categories:
 - Vinyl
-date: '2023-09-24T05:51:56'
+date: '2023-11-23T18:42:36'
 draft: false
 images:
 - /images/covers/serpent_of_the_abyss-wrapped_in_darkness.jpg
@@ -15,4 +15,4 @@ title: Serpent of the Abyss - Wrapped in Darkness
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=26330&sort=pd.name&order=ASC) for $27.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=26990&sort=pd.name&order=ASC) for $27.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=26990&sort=pd.name&order=ASC) for $21.60

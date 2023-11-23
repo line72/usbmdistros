@@ -1,11 +1,11 @@
 ---
-actualPrice: $12.00 - 25.00
+actualPrice: $12.00 - 20.00
 album: Funeral Winds & Crimson Sky
 artist: Krolok
 categories:
 - Vinyl
 - Cassette
-date: '2023-09-24T05:50:29'
+date: '2023-11-23T18:42:02'
 draft: false
 images:
 - /images/covers/krolok-funeral_winds_&_crimson_sky.jpg
@@ -15,6 +15,6 @@ title: Krolok - Funeral Winds & Crimson Sky
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=35009&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=35009&sort=pd.name&order=ASC) for $20.00
 ## Cassette
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=20914&sort=pd.name&order=ASC) for $12.00

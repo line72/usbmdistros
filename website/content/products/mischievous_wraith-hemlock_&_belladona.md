@@ -1,10 +1,10 @@
 ---
-actualPrice: $15.00
+actualPrice: $12.00
 album: Hemlock & Belladona
 artist: Mischievous Wraith
 categories:
 - Cassette
-date: '2023-10-29T10:04:06'
+date: '2023-11-23T18:45:01'
 draft: false
 images:
 - /images/covers/mischievous_wraith-hemlock_&_belladona.png
@@ -14,4 +14,4 @@ title: Mischievous Wraith - Hemlock & Belladona
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=42664&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=42664&sort=pd.name&order=ASC) for $12.00

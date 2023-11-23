@@ -1,10 +1,10 @@
 ---
-actualPrice: $30.00
+actualPrice: $24.00 - 30.00
 album: The Ultimate Death Worship
 artist: Limbonic Art
 categories:
 - Vinyl
-date: '2023-09-24T05:50:33'
+date: '2023-11-23T18:42:04'
 draft: false
 images:
 - /images/covers/limbonic_art-the_ultimate_death_worship.jpg
@@ -18,4 +18,4 @@ title: Limbonic Art - The Ultimate Death Worship
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=31691&sort=pd.name&order=ASC) for $30.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=32037&sort=pd.name&order=ASC) for $30.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=33585&sort=pd.name&order=ASC) for $30.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=37095&sort=pd.name&order=ASC) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=37095&sort=pd.name&order=ASC) for $24.00

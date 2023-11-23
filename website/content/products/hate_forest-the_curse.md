@@ -1,11 +1,11 @@
 ---
-actualPrice: $11.00 - 25.00
+actualPrice: $11.00 - 20.00
 album: The Curse
 artist: Hate Forest
 categories:
 - Vinyl
 - CD
-date: '2023-11-19T15:42:48'
+date: '2023-11-23T18:41:53'
 draft: false
 images:
 - /images/covers/hate_forest-the_curse.png
@@ -15,6 +15,6 @@ title: Hate Forest - The Curse
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=43577&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=43577&sort=pd.name&order=ASC) for $20.00
 ## CD
 * Purchase from [CW Productions](https://shop.cwproductions.net/products/hate-forest-the-curse-cd) for $11.00

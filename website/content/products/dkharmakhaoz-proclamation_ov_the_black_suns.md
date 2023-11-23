@@ -1,11 +1,11 @@
 ---
-actualPrice: $10.00 - 20.00
+actualPrice: $10.00 - 19.00
 album: Proclamation ov the Black Suns
 artist: Dkharmakhaoz
 categories:
 - Vinyl
 - CD
-date: '2023-09-24T05:49:27'
+date: '2023-11-23T18:41:40'
 draft: false
 images:
 - /images/covers/dkharmakhaoz-proclamation_ov_the_black_suns.jpg
@@ -16,6 +16,6 @@ title: Dkharmakhaoz - Proclamation ov the Black Suns
 
 ## Vinyl
 * Purchase from [Sto'Vo'Kor Records](https://stovokor-records.com/products/dkharmakhaoz-proclamation-ov-the-black-suns) for $19.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=16891&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=16891&sort=pd.name&order=ASC) for $16.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=16892&sort=pd.name&order=ASC) for $10.00

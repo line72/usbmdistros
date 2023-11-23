@@ -1,10 +1,10 @@
 ---
-actualPrice: $27.00
+actualPrice: $21.60 - 27.00
 album: Unreleased Demo Album 1994
 artist: Behemoth (Brazil)
 categories:
 - Vinyl
-date: '2023-11-02T05:54:27'
+date: '2023-11-23T18:41:22'
 draft: false
 images:
 - /images/covers/behemoth_(brazil)-unreleased_demo_album_1994.png
@@ -16,4 +16,4 @@ title: Behemoth (Brazil) - Unreleased Demo Album 1994
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=37988&sort=pd.name&order=ASC) for $27.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=39404&sort=pd.name&order=ASC) for $27.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=42896&sort=pd.name&order=ASC) for $27.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=42896&sort=pd.name&order=ASC) for $21.60

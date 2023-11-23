@@ -1,10 +1,10 @@
 ---
-actualPrice: $7.00
+actualPrice: $5.60
 album: Profane Rite Of Morbid Glorification
 artist: Funereus
 categories:
 - Cassette
-date: '2023-09-24T05:58:07'
+date: '2023-11-23T18:44:53'
 draft: false
 images:
 - /images/covers/funereus-profane_rite_of_morbid_glorification.png
@@ -14,4 +14,4 @@ title: Funereus - Profane Rite Of Morbid Glorification
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=16235&sort=pd.name&order=ASC) for $7.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=16235&sort=pd.name&order=ASC) for $5.60

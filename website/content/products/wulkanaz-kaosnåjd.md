@@ -1,11 +1,11 @@
 ---
-actualPrice: $12.00 - 35.00
+actualPrice: $9.60 - 28.00
 album: "Kaosn\xE5jd"
 artist: Wulkanaz
 categories:
 - Vinyl
 - CD
-date: '2023-10-03T07:48:16'
+date: '2023-11-23T18:44:37'
 draft: false
 images:
 - "/images/covers/wulkanaz-kaosn\xE5jd.jpg"
@@ -18,7 +18,7 @@ title: "Wulkanaz - Kaosn\xE5jd"
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=18578&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=19404&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=31466&sort=pd.name&order=ASC) for $25.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=40846&sort=pd.name&order=ASC) for $35.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=40846&sort=pd.name&order=ASC) for $28.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=9628&sort=pd.name&order=ASC) for $12.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=21076&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=21076&sort=pd.name&order=ASC) for $9.60

@@ -5,7 +5,7 @@ artist: Moonlight Sorcery
 categories:
 - Vinyl
 - CD
-date: '2023-09-24T05:55:47'
+date: '2023-11-23T18:42:14'
 draft: false
 images:
 - /images/covers/moonlight_sorcery-piercing_through_the_frozen_eternity.jpg
@@ -16,7 +16,7 @@ title: Moonlight Sorcery - Piercing Through the Frozen Eternity
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=33422&sort=pd.name&order=ASC) for $25.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=33498&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=33498&sort=pd.name&order=ASC) for $20.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=33432&sort=pd.name&order=ASC) for $12.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=33497&sort=pd.name&order=ASC) for $12.00

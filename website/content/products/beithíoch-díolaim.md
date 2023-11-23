@@ -1,10 +1,10 @@
 ---
-actualPrice: $8.00
+actualPrice: $6.40
 album: "D\xEDolaim"
 artist: "Beith\xEDoch"
 categories:
 - Cassette
-date: '2023-10-09T09:41:05'
+date: '2023-11-23T18:44:42'
 draft: false
 images:
 - "/images/covers/beith\xEDoch-d\xEDolaim.jpg"
@@ -14,4 +14,4 @@ title: "Beith\xEDoch - D\xEDolaim"
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=41414&sort=pd.name&order=ASC) for $8.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=41414&sort=pd.name&order=ASC) for $6.40

@@ -1,11 +1,11 @@
 ---
-actualPrice: $3.00 - 15.00
+actualPrice: $1.95 - 9.75
 album: The Third Eye Gate
 artist: Gnosis
 categories:
 - Vinyl
 - CD
-date: '2023-09-24T05:54:56'
+date: '2023-11-23T18:43:47'
 draft: false
 images:
 - /images/covers/gnosis-the_third_eye_gate.jpg
@@ -15,7 +15,7 @@ title: Gnosis - The Third Eye Gate
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=19258&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=19258&sort=pd.name&order=ASC) for $9.75
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=2442&sort=pd.name&order=ASC) for $6.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=25634&sort=pd.name&order=ASC) for $3.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=25634&sort=pd.name&order=ASC) for $1.95

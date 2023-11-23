@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00
+actualPrice: $9.60
 album: "\u03A0\u03C5\u03C1\u03B9\u03BC\u03B1\u03BD\u03AE\u03C2"
 artist: Dusken
 categories:
 - CD
-date: '2023-09-24T05:54:40'
+date: '2023-11-23T18:43:41'
 draft: false
 images:
 - "/images/covers/dusken-\u03C0\u03C5\u03C1\u03B9\u03BC\u03B1\u03BD\u03AE\u03C2.jpg"
@@ -15,4 +15,4 @@ title: "Dusken - \u03A0\u03C5\u03C1\u03B9\u03BC\u03B1\u03BD\u03AE\u03C2"
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=32892&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=32892&sort=pd.name&order=ASC) for $9.60

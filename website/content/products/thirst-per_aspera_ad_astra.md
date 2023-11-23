@@ -1,10 +1,10 @@
 ---
-actualPrice: $25.00 - 28.00
+actualPrice: $22.40 - 28.00
 album: Per Aspera ad Astra
 artist: Thirst
 categories:
 - Vinyl
-date: '2023-09-24T05:52:20'
+date: '2023-11-23T18:42:45'
 draft: false
 images:
 - /images/covers/thirst-per_aspera_ad_astra.jpg
@@ -19,4 +19,4 @@ title: Thirst - Per Aspera ad Astra
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=25540&sort=pd.name&order=ASC) for $28.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29856&sort=pd.name&order=ASC) for $28.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=30599&sort=pd.name&order=ASC) for $28.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=33483&sort=pd.name&order=ASC) for $28.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=33483&sort=pd.name&order=ASC) for $22.40

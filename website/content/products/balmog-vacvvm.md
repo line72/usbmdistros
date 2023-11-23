@@ -1,10 +1,10 @@
 ---
-actualPrice: $15.00 - 20.00
+actualPrice: $12.00 - 20.00
 album: Vacvvm
 artist: Balmog
 categories:
 - Vinyl
-date: '2023-10-09T05:55:57'
+date: '2023-11-23T18:41:21'
 draft: false
 images:
 - /images/covers/balmog-vacvvm.jpg
@@ -17,4 +17,4 @@ title: Balmog - Vacvvm
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=3905&sort=pd.name&order=ASC) for $17.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=21954&sort=pd.name&order=ASC) for $20.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=32181&sort=pd.name&order=ASC) for $20.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=41632&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=41632&sort=pd.name&order=ASC) for $12.00

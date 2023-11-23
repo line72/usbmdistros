@@ -1,11 +1,11 @@
 ---
-actualPrice: $7.00 - 8.00
+actualPrice: $5.60 - 6.40
 album: Azrever Ne Alemamam
 artist: Ophicvs
 categories:
 - Cassette
 - CD
-date: '2023-09-24T05:58:38'
+date: '2023-11-23T18:45:05'
 draft: false
 images:
 - /images/covers/ophicvs-azrever_ne_alemamam.jpg
@@ -15,6 +15,6 @@ title: Ophicvs - Azrever Ne Alemamam
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=3381&sort=pd.name&order=ASC) for $7.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=3381&sort=pd.name&order=ASC) for $5.60
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=2492&sort=pd.name&order=ASC) for $8.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=2492&sort=pd.name&order=ASC) for $6.40

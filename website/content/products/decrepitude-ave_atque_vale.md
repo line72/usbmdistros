@@ -1,10 +1,10 @@
 ---
-actualPrice: $22.00 - 25.00
+actualPrice: $20.00 - 22.00
 album: Ave Atque Vale
 artist: Decrepitude
 categories:
 - Vinyl
-date: '2023-09-24T05:49:21'
+date: '2023-11-23T18:41:38'
 draft: false
 images:
 - /images/covers/decrepitude-ave_atque_vale.jpg
@@ -15,4 +15,4 @@ title: Decrepitude - Ave Atque Vale
 
 ## Vinyl
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/decrepitude-ave-atque-vale-12-lp) for $22.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=8193&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=8193&sort=pd.name&order=ASC) for $20.00

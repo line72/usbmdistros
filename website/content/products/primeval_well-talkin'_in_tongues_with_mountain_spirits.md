@@ -1,10 +1,10 @@
 ---
-actualPrice: $33.00 - 40.00
+actualPrice: $32.00 - 40.00
 album: Talkin' in Tongues with Mountain Spirits
 artist: Primeval Well
 categories:
 - Vinyl
-date: '2023-10-08T06:48:02'
+date: '2023-11-23T18:42:28'
 draft: false
 images:
 - /images/covers/primeval_well-talkin'_in_tongues_with_mountain_spirits.png
@@ -18,5 +18,5 @@ title: Primeval Well - Talkin' in Tongues with Mountain Spirits
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=31323&sort=pd.name&order=ASC) for $40.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=32337&sort=pd.name&order=ASC) for $40.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=39789&sort=pd.name&order=ASC) for $40.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=41314&sort=pd.name&order=ASC) for $40.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=41315&sort=pd.name&order=ASC) for $40.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=41314&sort=pd.name&order=ASC) for $32.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=41315&sort=pd.name&order=ASC) for $32.00

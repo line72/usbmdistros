@@ -5,7 +5,7 @@ artist: Drudkh
 categories:
 - Vinyl
 - Cassette
-date: '2023-09-24T05:49:31'
+date: '2023-11-23T18:41:41'
 draft: false
 images:
 - /images/covers/drudkh-they_often_see_dreams_about_the_spring.jpg
@@ -25,6 +25,6 @@ title: Drudkh - They Often See Dreams About the Spring
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29309&sort=pd.name&order=ASC) for $27.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=31355&sort=pd.name&order=ASC) for $27.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=34139&sort=pd.name&order=ASC) for $27.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=37711&sort=pd.name&order=ASC) for $27.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=37711&sort=pd.name&order=ASC) for $21.60
 ## Cassette
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/drudkh-they-often-see-dreams-about-the-spring-cassette) for $11.00 :: Cassette Tape 2021 press

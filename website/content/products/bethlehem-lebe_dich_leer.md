@@ -1,10 +1,10 @@
 ---
-actualPrice: $10.00
+actualPrice: $8.00
 album: Lebe Dich Leer
 artist: Bethlehem
 categories:
 - Cassette
-date: '2023-09-24T05:57:39'
+date: '2023-11-23T18:44:42'
 draft: false
 images:
 - /images/covers/bethlehem-lebe_dich_leer.jpg
@@ -14,4 +14,4 @@ title: Bethlehem - Lebe Dich Leer
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=33528&sort=pd.name&order=ASC) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=33528&sort=pd.name&order=ASC) for $8.00

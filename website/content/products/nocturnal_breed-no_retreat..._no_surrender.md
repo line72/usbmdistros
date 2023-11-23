@@ -5,7 +5,7 @@ artist: Nocturnal Breed
 categories:
 - Vinyl
 - CD
-date: '2023-11-18T13:10:58'
+date: '2023-11-23T18:42:19'
 draft: false
 images:
 - /images/covers/nocturnal_breed-no_retreat..._no_surrender.jpg
@@ -18,6 +18,6 @@ title: Nocturnal Breed - No Retreat... No Surrender
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=19469&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=20404&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=30746&sort=pd.name&order=ASC) for $25.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=43572&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=43572&sort=pd.name&order=ASC) for $20.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=2299&sort=pd.name&order=ASC) for $4.00

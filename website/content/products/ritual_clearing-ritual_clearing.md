@@ -1,10 +1,10 @@
 ---
-actualPrice: $9.00
+actualPrice: $7.20
 album: Ritual Clearing
 artist: Ritual Clearing
 categories:
 - Cassette
-date: '2023-09-24T05:58:47'
+date: '2023-11-23T18:45:08'
 draft: false
 images:
 - /images/covers/ritual_clearing-ritual_clearing.jpg
@@ -14,4 +14,4 @@ title: Ritual Clearing - Ritual Clearing
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=21065&sort=pd.name&order=ASC) for $9.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=21065&sort=pd.name&order=ASC) for $7.20

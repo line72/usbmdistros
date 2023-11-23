@@ -1,10 +1,10 @@
 ---
-actualPrice: $35.00
+actualPrice: $28.00 - 35.00
 album: The Tenth Sub Level Of Suicide
 artist: Leviathan
 categories:
 - Vinyl
-date: '2023-11-22T10:29:37'
+date: '2023-11-23T18:42:04'
 draft: false
 images:
 - /images/covers/leviathan-the_tenth_sub_level_of_suicide.jpg
@@ -18,4 +18,4 @@ title: Leviathan - The Tenth Sub Level Of Suicide
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=43408&sort=pd.name&order=ASC) for $35.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=43540&sort=pd.name&order=ASC) for $35.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=43689&sort=pd.name&order=ASC) for $35.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=43812&sort=pd.name&order=ASC) for $35.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=43812&sort=pd.name&order=ASC) for $28.00

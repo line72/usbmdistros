@@ -1,10 +1,10 @@
 ---
-actualPrice: $10.00
+actualPrice: $8.00
 album: Maha Kali
 artist: N'Zwaa
 categories:
 - CD
-date: '2023-09-24T05:55:52'
+date: '2023-11-23T18:44:07'
 draft: false
 images:
 - /images/covers/n'zwaa-maha_kali.jpg
@@ -14,4 +14,4 @@ title: N'Zwaa - Maha Kali
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=15551&sort=pd.name&order=ASC) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=15551&sort=pd.name&order=ASC) for $8.00

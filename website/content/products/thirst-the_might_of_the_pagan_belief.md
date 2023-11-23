@@ -1,10 +1,10 @@
 ---
-actualPrice: $25.00 - 28.00
+actualPrice: $22.40 - 28.00
 album: The Might Of The Pagan Belief
 artist: Thirst
 categories:
 - Vinyl
-date: '2023-09-24T05:52:21'
+date: '2023-11-23T18:42:45'
 draft: false
 images:
 - /images/covers/thirst-the_might_of_the_pagan_belief.jpg
@@ -17,4 +17,4 @@ title: Thirst - The Might Of The Pagan Belief
 * Purchase from [CW Productions](https://shop.cwproductions.net/products/thirst-the-might-of-the-pagan-belief-lp-1) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=25539&sort=pd.name&order=ASC) for $28.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29857&sort=pd.name&order=ASC) for $28.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=33484&sort=pd.name&order=ASC) for $28.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=33484&sort=pd.name&order=ASC) for $22.40

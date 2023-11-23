@@ -1,10 +1,10 @@
 ---
-actualPrice: $10.00 - 15.00
+actualPrice: $10.00 - 12.00
 album: A Foot in Each Hell - The Complete Demos
 artist: The Deathtrip
 categories:
 - Vinyl
-date: '2023-09-24T05:52:16'
+date: '2023-11-23T18:42:44'
 draft: false
 images:
 - /images/covers/the_deathtrip-a_foot_in_each_hell_-_the_complete_demos.jpg
@@ -15,4 +15,4 @@ title: The Deathtrip - A Foot in Each Hell - The Complete Demos
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=1246&sort=pd.name&order=ASC) for $10.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=39303&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=39303&sort=pd.name&order=ASC) for $12.00

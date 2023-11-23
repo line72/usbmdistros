@@ -1,10 +1,10 @@
 ---
-actualPrice: $10.00
+actualPrice: $8.00
 album: Nachtkwaad
 artist: Zwartplaag
 categories:
 - Cassette
-date: '2023-10-08T09:14:30'
+date: '2023-11-23T18:45:20'
 draft: false
 images:
 - /images/covers/zwartplaag-nachtkwaad.png
@@ -14,4 +14,4 @@ title: Zwartplaag - Nachtkwaad
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=41352&sort=pd.name&order=ASC) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=41352&sort=pd.name&order=ASC) for $8.00

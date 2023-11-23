@@ -1,10 +1,10 @@
 ---
-actualPrice: $10.00
+actualPrice: $8.00
 album: Elbenjahre
 artist: URUK HAI
 categories:
 - CD
-date: '2023-09-24T05:56:57'
+date: '2023-11-23T18:44:31'
 draft: false
 images:
 - /images/covers/uruk_hai-elbenjahre.png
@@ -14,4 +14,4 @@ title: URUK HAI - Elbenjahre
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=3083&sort=pd.name&order=ASC) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=3083&sort=pd.name&order=ASC) for $8.00

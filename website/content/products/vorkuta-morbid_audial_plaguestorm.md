@@ -1,10 +1,10 @@
 ---
-actualPrice: $6.00
+actualPrice: $4.80
 album: Morbid Audial Plaguestorm
 artist: Vorkuta
 categories:
 - Cassette
-date: '2023-09-24T05:59:13'
+date: '2023-11-23T18:45:18'
 draft: false
 images:
 - /images/covers/vorkuta-morbid_audial_plaguestorm.png
@@ -14,4 +14,4 @@ title: Vorkuta - Morbid Audial Plaguestorm
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=1384&sort=pd.name&order=ASC) for $6.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=1384&sort=pd.name&order=ASC) for $4.80

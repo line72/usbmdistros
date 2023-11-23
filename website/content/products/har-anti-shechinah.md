@@ -1,10 +1,10 @@
 ---
-actualPrice: $9.00
+actualPrice: $7.20
 album: Anti-Shechinah
 artist: Har
 categories:
 - Cassette
-date: '2023-09-24T05:58:12'
+date: '2023-11-23T18:44:55'
 draft: false
 images:
 - /images/covers/har-anti-shechinah.png
@@ -14,4 +14,4 @@ title: Har - Anti-Shechinah
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=12320&sort=pd.name&order=ASC) for $9.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=12320&sort=pd.name&order=ASC) for $7.20

@@ -1,11 +1,11 @@
 ---
-actualPrice: $12.00 - 25.00
+actualPrice: $9.60 - 25.00
 album: Introvertere
 artist: Gorrch
 categories:
 - Vinyl
 - CD
-date: '2023-09-24T05:54:59'
+date: '2023-11-23T18:43:48'
 draft: false
 images:
 - /images/covers/gorrch-introvertere.jpg
@@ -16,6 +16,6 @@ title: Gorrch - Introvertere
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=25691&sort=pd.name&order=ASC) for $25.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=28544&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=28544&sort=pd.name&order=ASC) for $20.00
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=25728&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=25728&sort=pd.name&order=ASC) for $9.60

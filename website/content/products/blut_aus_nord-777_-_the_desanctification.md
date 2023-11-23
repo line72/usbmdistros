@@ -6,7 +6,7 @@ categories:
 - Vinyl
 - Cassette
 - CD
-date: '2023-09-24T05:48:50'
+date: '2023-11-23T18:41:27'
 draft: false
 images:
 - /images/covers/blut_aus_nord-777_-_the_desanctification.jpg
@@ -21,7 +21,7 @@ title: Blut Aus Nord - 777 - The Desanctification
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29537&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=30506&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=33190&sort=pd.name&order=ASC) for $25.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=35904&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=35904&sort=pd.name&order=ASC) for $20.00
 ## Cassette
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/blut-aus-nord-777-the-desanctification-cassette) for $14.00 :: Cassette Tape 2021 press
 ## CD

@@ -1,10 +1,10 @@
 ---
-actualPrice: $27.00
+actualPrice: $21.60
 album: Slonk
 artist: Alkerdeel
 categories:
 - Vinyl
-date: '2023-09-24T05:48:18'
+date: '2023-11-23T18:41:15'
 draft: false
 images:
 - /images/covers/alkerdeel-slonk.jpg
@@ -14,4 +14,4 @@ title: Alkerdeel - Slonk
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=32767&sort=pd.name&order=ASC) for $27.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=32767&sort=pd.name&order=ASC) for $21.60

@@ -6,7 +6,7 @@ categories:
 - Vinyl
 - Cassette
 - CD
-date: '2023-10-05T05:33:06'
+date: '2023-11-23T18:41:31'
 draft: false
 images:
 - /images/covers/caveman_cult-blood_and_extinction.jpg
@@ -24,7 +24,7 @@ title: Caveman Cult - Blood and Extinction
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=23608&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=28184&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=28277&sort=pd.name&order=ASC) for $25.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=32439&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=32439&sort=pd.name&order=ASC) for $16.25
 ## Cassette
 * Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/35847052-caveman-cult-blood-and-extinction-cd) for $7.50
 ## CD

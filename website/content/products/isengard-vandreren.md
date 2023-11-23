@@ -1,10 +1,10 @@
 ---
-actualPrice: $25.00 - 27.00
+actualPrice: $20.00 - 27.00
 album: Vandreren
 artist: Isengard
 categories:
 - Vinyl
-date: '2023-09-24T05:50:21'
+date: '2023-11-23T18:42:00'
 draft: false
 images:
 - /images/covers/isengard-vandreren.jpg
@@ -19,4 +19,4 @@ title: Isengard - Vandreren
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=31195&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=33692&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=34292&sort=pd.name&order=ASC) for $25.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=34380&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=34380&sort=pd.name&order=ASC) for $20.00

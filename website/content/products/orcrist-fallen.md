@@ -1,10 +1,10 @@
 ---
-actualPrice: $10.00
+actualPrice: $8.00
 album: Fallen
 artist: Orcrist
 categories:
 - Vinyl
-date: '2023-10-05T07:07:04'
+date: '2023-11-23T18:42:23'
 draft: false
 images:
 - /images/covers/orcrist-fallen.jpg
@@ -14,4 +14,4 @@ title: Orcrist - Fallen
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=41160&sort=pd.name&order=ASC) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=41160&sort=pd.name&order=ASC) for $8.00

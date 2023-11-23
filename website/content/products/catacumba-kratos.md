@@ -1,10 +1,10 @@
 ---
-actualPrice: $6.00
+actualPrice: $4.80
 album: Kratos
 artist: Catacumba
 categories:
 - CD
-date: '2023-09-24T05:54:18'
+date: '2023-11-23T18:43:30'
 draft: false
 images:
 - /images/covers/catacumba-kratos.jpg
@@ -14,4 +14,4 @@ title: Catacumba - Kratos
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=2255&sort=pd.name&order=ASC) for $6.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=2255&sort=pd.name&order=ASC) for $4.80

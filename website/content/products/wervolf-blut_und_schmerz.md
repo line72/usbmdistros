@@ -1,10 +1,10 @@
 ---
-actualPrice: $10.00
+actualPrice: $8.00
 album: Blut Und Schmerz
 artist: Wervolf
 categories:
 - Cassette
-date: '2023-10-09T10:17:31'
+date: '2023-11-23T18:45:19'
 draft: false
 images:
 - /images/covers/wervolf-blut_und_schmerz.jpg
@@ -14,4 +14,4 @@ title: Wervolf - Blut Und Schmerz
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=41400&sort=pd.name&order=ASC) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=41400&sort=pd.name&order=ASC) for $8.00

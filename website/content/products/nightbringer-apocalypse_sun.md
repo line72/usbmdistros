@@ -1,11 +1,11 @@
 ---
-actualPrice: $12.00 - 30.00
+actualPrice: $9.60 - 30.00
 album: Apocalypse Sun
 artist: Nightbringer
 categories:
 - Vinyl
 - CD
-date: '2023-09-24T05:56:01'
+date: '2023-11-23T18:44:10'
 draft: false
 images:
 - /images/covers/nightbringer-apocalypse_sun.jpg
@@ -16,6 +16,6 @@ title: Nightbringer - Apocalypse Sun
 
 ## Vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/used-nightbringer-apocalypse-sun-2xlp) for $30.00 :: Black 2013 press vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=33425&sort=pd.name&order=ASC) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=33425&sort=pd.name&order=ASC) for $24.00
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=33434&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=33434&sort=pd.name&order=ASC) for $9.60

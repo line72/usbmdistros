@@ -4,7 +4,7 @@ album: Blasphemous Crucifix Profanation
 artist: Irreverent
 categories:
 - CD
-date: '2023-09-24T05:55:24'
+date: '2023-11-23T18:43:56'
 draft: false
 images:
 - /images/covers/irreverent-blasphemous_crucifix_profanation.jpg
@@ -14,6 +14,6 @@ title: Irreverent - Blasphemous Crucifix Profanation
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=10507&sort=pd.name&order=ASC) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=10507&sort=pd.name&order=ASC) for $8.00
 * Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/irreverent-blasphemous-crucifix-profanation-cd/) for $10.00
 * Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/irreverent-blasphemous-crucifix-profanation-cd-ssp-version/) for $8.00

@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00
+actualPrice: $9.60
 album: "F\xE4len Fr\xE5n Norr"
 artist: "L\xF6nndom"
 categories:
 - CD
-date: '2023-09-24T05:55:33'
+date: '2023-11-23T18:44:00'
 draft: false
 images:
 - "/images/covers/l\xF6nndom-f\xE4len_fr\xE5n_norr.jpg"
@@ -14,4 +14,4 @@ title: "L\xF6nndom - F\xE4len Fr\xE5n Norr"
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=32757&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=32757&sort=pd.name&order=ASC) for $9.60

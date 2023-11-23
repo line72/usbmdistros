@@ -1,10 +1,10 @@
 ---
-actualPrice: $27.00
+actualPrice: $21.60
 album: The Lore of the Cloaked Assembly
 artist: Helvellyn
 categories:
 - Vinyl
-date: '2023-09-24T05:50:06'
+date: '2023-11-23T18:41:55'
 draft: false
 images:
 - /images/covers/helvellyn-the_lore_of_the_cloaked_assembly.jpg
@@ -14,4 +14,4 @@ title: Helvellyn - The Lore of the Cloaked Assembly
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=32425&sort=pd.name&order=ASC) for $27.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=32425&sort=pd.name&order=ASC) for $21.60

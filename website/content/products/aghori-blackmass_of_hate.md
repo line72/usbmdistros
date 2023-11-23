@@ -1,10 +1,10 @@
 ---
-actualPrice: $6.00
+actualPrice: $4.80
 album: Blackmass of Hate
 artist: Aghori
 categories:
 - Cassette
-date: '2023-09-24T05:57:20'
+date: '2023-11-23T18:44:39'
 draft: false
 images:
 - /images/covers/aghori-blackmass_of_hate.png
@@ -14,4 +14,4 @@ title: Aghori - Blackmass of Hate
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=11109&sort=pd.name&order=ASC) for $6.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=11109&sort=pd.name&order=ASC) for $4.80

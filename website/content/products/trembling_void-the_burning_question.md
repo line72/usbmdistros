@@ -1,12 +1,12 @@
 ---
-actualPrice: $11.00 - 30.00
+actualPrice: $9.60 - 30.00
 album: The Burning Question
 artist: Trembling Void
 categories:
 - Vinyl
 - Cassette
 - CD
-date: '2023-09-24T05:59:06'
+date: '2023-11-23T18:45:16'
 draft: false
 images:
 - /images/covers/trembling_void-the_burning_question.jpg
@@ -20,6 +20,6 @@ title: Trembling Void - The Burning Question
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/trembling-void-the-burning-question-12-lp) for $30.00
 ## Cassette
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/trembling-void-the-burning-question-tape) for $11.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=29113&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=29113&sort=pd.name&order=ASC) for $9.60
 ## CD
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/trembling-void-the-burning-question-cd) for $15.00

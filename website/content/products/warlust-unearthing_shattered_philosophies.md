@@ -1,10 +1,10 @@
 ---
-actualPrice: $20.00 - 25.00
+actualPrice: $16.00 - 20.00
 album: Unearthing Shattered Philosophies
 artist: Warlust
 categories:
 - Vinyl
-date: '2023-09-24T05:52:47'
+date: '2023-11-23T18:42:55'
 draft: false
 images:
 - /images/covers/warlust-unearthing_shattered_philosophies.jpg
@@ -14,5 +14,5 @@ title: Warlust - Unearthing Shattered Philosophies
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=13401&sort=pd.name&order=ASC) for $20.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=20304&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=13401&sort=pd.name&order=ASC) for $16.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=20304&sort=pd.name&order=ASC) for $20.00

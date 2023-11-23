@@ -1,11 +1,11 @@
 ---
-actualPrice: $10.00 - 25.00
+actualPrice: $10.00 - 20.00
 album: Archaic Visions of the Underworld
 artist: Master of Cruelty
 categories:
 - Vinyl
 - CD
-date: '2023-09-24T05:50:46'
+date: '2023-11-23T18:42:08'
 draft: false
 images:
 - /images/covers/master_of_cruelty-archaic_visions_of_the_underworld.jpg
@@ -17,6 +17,6 @@ title: Master of Cruelty - Archaic Visions of the Underworld
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=3271&sort=pd.name&order=ASC) for $12.75
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=17592&sort=pd.name&order=ASC) for $17.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=31952&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=31952&sort=pd.name&order=ASC) for $20.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=3270&sort=pd.name&order=ASC) for $10.00

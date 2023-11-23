@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00
+actualPrice: $9.60
 album: Finnmarkens Folk
 artist: Saiva
 categories:
 - CD
-date: '2023-09-24T05:56:26'
+date: '2023-11-23T18:44:21'
 draft: false
 images:
 - /images/covers/saiva-finnmarkens_folk.png
@@ -14,4 +14,4 @@ title: Saiva - Finnmarkens Folk
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=10279&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=10279&sort=pd.name&order=ASC) for $9.60

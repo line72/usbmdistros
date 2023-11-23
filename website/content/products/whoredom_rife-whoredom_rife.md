@@ -4,7 +4,7 @@ album: Whoredom Rife
 artist: Whoredom Rife
 categories:
 - Vinyl
-date: '2023-09-24T05:52:49'
+date: '2023-11-23T18:42:56'
 draft: false
 images:
 - /images/covers/whoredom_rife-whoredom_rife.png
@@ -19,4 +19,4 @@ title: Whoredom Rife - Whoredom Rife
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=27331&sort=pd.name&order=ASC) for $21.60
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29773&sort=pd.name&order=ASC) for $27.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=35967&sort=pd.name&order=ASC) for $27.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=40060&sort=pd.name&order=ASC) for $27.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=40060&sort=pd.name&order=ASC) for $21.60

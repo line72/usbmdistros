@@ -1,10 +1,10 @@
 ---
-actualPrice: $10.00
+actualPrice: $8.00
 album: In Odium Veritas
 artist: Zavorash
 categories:
 - Vinyl
-date: '2023-10-08T07:10:18'
+date: '2023-11-23T18:42:59'
 draft: false
 images:
 - /images/covers/zavorash-in_odium_veritas.jpg
@@ -14,4 +14,4 @@ title: Zavorash - In Odium Veritas
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=41362&sort=pd.name&order=ASC) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=41362&sort=pd.name&order=ASC) for $8.00

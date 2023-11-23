@@ -1,10 +1,10 @@
 ---
-actualPrice: $10.00
+actualPrice: $8.00
 album: Maleficum Orgia
 artist: Maleficum Orgia
 categories:
 - CD
-date: '2023-09-24T05:55:38'
+date: '2023-11-23T18:44:02'
 draft: false
 images:
 - /images/covers/maleficum_orgia-maleficum_orgia.jpg
@@ -14,4 +14,4 @@ title: Maleficum Orgia - Maleficum Orgia
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=27878&sort=pd.name&order=ASC) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=27878&sort=pd.name&order=ASC) for $8.00

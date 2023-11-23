@@ -6,7 +6,7 @@ categories:
 - Vinyl
 - Cassette
 - CD
-date: '2023-10-05T06:56:15'
+date: '2023-11-23T18:42:13'
 draft: false
 images:
 - /images/covers/moon_oracle-muse_of_the_nightside.jpg
@@ -18,7 +18,7 @@ title: Moon Oracle - Muse of the Nightside
 ## Vinyl
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/moon-oracle-muse-of-the-nightside-12-lp) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=23749&sort=pd.name&order=ASC) for $25.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=41079&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=41079&sort=pd.name&order=ASC) for $20.00
 ## Cassette
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/moon-oracle-muse-of-the-nightside-tape) for $12.00
 ## CD

@@ -1,10 +1,10 @@
 ---
-actualPrice: $25.00
+actualPrice: $20.00
 album: Reaping Death
 artist: Watain
 categories:
 - Vinyl
-date: '2023-09-24T05:53:51'
+date: '2023-11-23T18:43:20'
 draft: false
 images:
 - /images/covers/watain-reaping_death.jpg
@@ -14,4 +14,4 @@ title: Watain - Reaping Death
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=38834&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=38834&sort=pd.name&order=ASC) for $20.00

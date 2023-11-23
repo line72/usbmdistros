@@ -1,11 +1,11 @@
 ---
-actualPrice: $7.00 - 25.00
+actualPrice: $7.00 - 22.00
 album: Nordabetraktelse
 artist: Ehlder
 categories:
 - Vinyl
 - CD
-date: '2023-09-24T05:54:41'
+date: '2023-11-23T18:43:42'
 draft: false
 images:
 - /images/covers/ehlder-nordabetraktelse.jpg
@@ -16,7 +16,7 @@ title: Ehlder - Nordabetraktelse
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=15738&sort=pd.name&order=ASC) for $22.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=17712&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=17712&sort=pd.name&order=ASC) for $20.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=9554&sort=pd.name&order=ASC) for $7.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=20579&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=20579&sort=pd.name&order=ASC) for $9.60

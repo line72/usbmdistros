@@ -5,7 +5,7 @@ artist: Marduk
 categories:
 - Vinyl
 - CD
-date: '2023-09-24T05:55:40'
+date: '2023-11-23T18:44:02'
 draft: false
 images:
 - /images/covers/marduk-germania.jpg
@@ -17,6 +17,6 @@ title: Marduk - Germania
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=5795&sort=pd.name&order=ASC) for $10.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=18980&sort=pd.name&order=ASC) for $60.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=31448&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=31448&sort=pd.name&order=ASC) for $20.00
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=20012&sort=pd.name&order=ASC) for $17.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=20012&sort=pd.name&order=ASC) for $13.60

@@ -1,11 +1,11 @@
 ---
-actualPrice: $12.00 - 27.00
+actualPrice: $9.60 - 27.00
 album: Frontschwein
 artist: Marduk
 categories:
 - Vinyl
 - CD
-date: '2023-10-23T08:50:30'
+date: '2023-11-23T18:44:02'
 draft: false
 images:
 - /images/covers/marduk-frontschwein.jpg
@@ -19,4 +19,4 @@ title: Marduk - Frontschwein
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/marduk-frontschwein-lp) for $27.00 :: Marble 2022 press vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/marduk-frontschwein-lp) for $27.00 :: Swirl 2022 press vinyl
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=42394&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=42394&sort=pd.name&order=ASC) for $9.60

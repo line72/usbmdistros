@@ -5,7 +5,7 @@ artist: Immortal
 categories:
 - Vinyl
 - CD
-date: '2023-11-19T16:40:34'
+date: '2023-11-23T18:43:54'
 draft: false
 images:
 - /images/covers/immortal-diabolical_fullmoon_mysticism.jpg
@@ -28,4 +28,4 @@ title: Immortal - Diabolical Fullmoon Mysticism
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=25010&sort=pd.name&order=ASC) for $12.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=25984&sort=pd.name&order=ASC) for $12.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=30026&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=30026&sort=pd.name&order=ASC) for $12.00

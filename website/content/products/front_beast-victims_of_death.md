@@ -1,10 +1,10 @@
 ---
-actualPrice: $8.00
+actualPrice: $6.40
 album: Victims Of Death
 artist: Front Beast
 categories:
 - Cassette
-date: '2023-10-08T08:55:54'
+date: '2023-11-23T18:44:53'
 draft: false
 images:
 - /images/covers/front_beast-victims_of_death.png
@@ -14,4 +14,4 @@ title: Front Beast - Victims Of Death
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=41361&sort=pd.name&order=ASC) for $8.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=41361&sort=pd.name&order=ASC) for $6.40

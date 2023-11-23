@@ -1,10 +1,10 @@
 ---
-actualPrice: $25.00
+actualPrice: $20.00 - 25.00
 album: Nightmare Visions
 artist: Theophonos
 categories:
 - Vinyl
-date: '2023-09-24T05:52:20'
+date: '2023-11-23T18:42:45'
 draft: false
 images:
 - /images/covers/theophonos-nightmare_visions.jpg
@@ -15,4 +15,4 @@ title: Theophonos - Nightmare Visions
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=31359&sort=pd.name&order=ASC) for $25.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=34099&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=34099&sort=pd.name&order=ASC) for $20.00

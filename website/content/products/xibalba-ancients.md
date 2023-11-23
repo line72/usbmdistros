@@ -5,7 +5,7 @@ artist: Xibalba
 categories:
 - Vinyl
 - CD
-date: '2023-09-24T05:57:16'
+date: '2023-11-23T18:44:37'
 draft: false
 images:
 - /images/covers/xibalba-ancients.png
@@ -23,4 +23,4 @@ title: Xibalba - Ancients
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=19168&sort=pd.name&order=ASC) for $12.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=26605&sort=pd.name&order=ASC) for $9.60
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=29777&sort=pd.name&order=ASC) for $12.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=32945&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=32945&sort=pd.name&order=ASC) for $9.60

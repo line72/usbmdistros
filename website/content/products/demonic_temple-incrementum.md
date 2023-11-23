@@ -1,11 +1,11 @@
 ---
-actualPrice: $10.00 - 20.00
+actualPrice: $8.00 - 20.00
 album: Incrementum
 artist: Demonic Temple
 categories:
 - Vinyl
 - CD
-date: '2023-09-26T06:13:32'
+date: '2023-11-23T18:43:35'
 draft: false
 images:
 - /images/covers/demonic_temple-incrementum.jpg
@@ -18,6 +18,6 @@ title: Demonic Temple - Incrementum
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=8145&sort=pd.name&order=ASC) for $15.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=16882&sort=pd.name&order=ASC) for $20.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=39502&sort=pd.name&order=ASC) for $15.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=40381&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=40381&sort=pd.name&order=ASC) for $12.00
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=4364&sort=pd.name&order=ASC) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=4364&sort=pd.name&order=ASC) for $8.00

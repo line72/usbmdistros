@@ -1,11 +1,11 @@
 ---
-actualPrice: $13.00 - 30.00
+actualPrice: $12.00 - 30.00
 album: Black Legions Metal
 artist: Vlad Tepes
 categories:
 - Vinyl
 - CD
-date: '2023-10-25T09:28:18'
+date: '2023-11-23T18:44:33'
 draft: false
 images:
 - /images/covers/vlad_tepes-black_legions_metal.jpg
@@ -26,4 +26,4 @@ title: Vlad Tepes - Black Legions Metal
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=26576&sort=pd.name&order=ASC) for $15.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=41827&sort=pd.name&order=ASC) for $15.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=42013&sort=pd.name&order=ASC) for $15.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=42514&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=42514&sort=pd.name&order=ASC) for $12.00

@@ -5,7 +5,7 @@ artist: "N\xE4chtlich"
 categories:
 - Vinyl
 - CD
-date: '2023-10-20T07:01:24'
+date: '2023-11-23T18:42:16'
 draft: false
 images:
 - "/images/covers/n\xE4chtlich-third_ritual.jpg"
@@ -22,7 +22,7 @@ title: "N\xE4chtlich - Third Ritual"
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/nachtlich-third-ritual-12) for $27.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=38862&sort=pd.name&order=ASC) for $28.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=40226&sort=pd.name&order=ASC) for $28.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=42151&sort=pd.name&order=ASC) for $28.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=42151&sort=pd.name&order=ASC) for $22.40
 ## CD
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/nachtlich-third-ritual-cd) for $15.00
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/nachtlich-third-ritual-cd) for $15.00

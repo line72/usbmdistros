@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00
+actualPrice: $9.60
 album: In Deathly Silence of Mortal Agony
 artist: Cxaxukluth
 categories:
 - CD
-date: '2023-09-24T05:54:27'
+date: '2023-11-23T18:43:33'
 draft: false
 images:
 - /images/covers/cxaxukluth-in_deathly_silence_of_mortal_agony.jpg
@@ -14,4 +14,4 @@ title: Cxaxukluth - In Deathly Silence of Mortal Agony
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=38872&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=38872&sort=pd.name&order=ASC) for $9.60

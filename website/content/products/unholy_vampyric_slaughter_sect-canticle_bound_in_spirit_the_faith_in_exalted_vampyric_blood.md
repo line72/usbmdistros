@@ -1,10 +1,10 @@
 ---
-actualPrice: $30.00
+actualPrice: $24.00
 album: Canticle Bound In Spirit the Faith In Exalted Vampyric Blood
 artist: Unholy Vampyric Slaughter Sect
 categories:
 - Vinyl
-date: '2023-09-24T05:52:30'
+date: '2023-11-23T18:42:48'
 draft: false
 images:
 - /images/covers/unholy_vampyric_slaughter_sect-canticle_bound_in_spirit_the_faith_in_exalted_vampyric_blood.png
@@ -15,4 +15,4 @@ title: Unholy Vampyric Slaughter Sect - Canticle Bound In Spirit the Faith In Ex
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=35173&sort=pd.name&order=ASC) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=35173&sort=pd.name&order=ASC) for $24.00

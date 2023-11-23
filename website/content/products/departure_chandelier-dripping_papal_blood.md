@@ -1,11 +1,11 @@
 ---
-actualPrice: $10.00 - 25.00
+actualPrice: $6.50 - 25.00
 album: Dripping Papal Blood
 artist: Departure Chandelier
 categories:
 - Vinyl
 - CD
-date: '2023-09-24T05:54:32'
+date: '2023-11-23T18:43:35'
 draft: false
 images:
 - /images/covers/departure_chandelier-dripping_papal_blood.jpg
@@ -23,7 +23,7 @@ title: Departure Chandelier - Dripping Papal Blood
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=35750&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=35950&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=36153&sort=pd.name&order=ASC) for $25.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=38677&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=38677&sort=pd.name&order=ASC) for $16.25
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=23143&sort=pd.name&order=ASC) for $10.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=24682&sort=pd.name&order=ASC) for $10.00
@@ -37,4 +37,4 @@ title: Departure Chandelier - Dripping Papal Blood
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=31210&sort=pd.name&order=ASC) for $10.00
 * Purchase from [CW Productions](https://shop.cwproductions.net/products/departure-chandelier-dripping-papal-blood-cd) for $10.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=36155&sort=pd.name&order=ASC) for $10.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=38678&sort=pd.name&order=ASC) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=38678&sort=pd.name&order=ASC) for $6.50

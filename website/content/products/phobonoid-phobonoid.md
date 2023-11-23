@@ -1,10 +1,10 @@
 ---
-actualPrice: $6.00
+actualPrice: $4.80
 album: Phobonoid
 artist: Phobonoid
 categories:
 - Cassette
-date: '2023-09-24T05:58:42'
+date: '2023-11-23T18:45:07'
 draft: false
 images:
 - /images/covers/phobonoid-phobonoid.png
@@ -14,4 +14,4 @@ title: Phobonoid - Phobonoid
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=1292&sort=pd.name&order=ASC) for $6.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=1292&sort=pd.name&order=ASC) for $4.80

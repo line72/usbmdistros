@@ -1,11 +1,11 @@
 ---
-actualPrice: $5.00 - 23.00
+actualPrice: $4.00 - 23.00
 album: Solanaceae
 artist: White Nights
 categories:
 - Vinyl
 - CD
-date: '2023-11-21T12:22:30'
+date: '2023-11-23T18:44:36'
 draft: false
 images:
 - /images/covers/white_nights-solanaceae.jpg
@@ -20,7 +20,7 @@ title: White Nights - Solanaceae
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=24651&sort=pd.name&order=ASC) for $10.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=26625&sort=pd.name&order=ASC) for $8.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29731&sort=pd.name&order=ASC) for $10.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=43723&sort=pd.name&order=ASC) for $8.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=43723&sort=pd.name&order=ASC) for $6.40
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=13108&sort=pd.name&order=ASC) for $10.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=24652&sort=pd.name&order=ASC) for $5.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=24652&sort=pd.name&order=ASC) for $4.00

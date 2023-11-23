@@ -1,10 +1,10 @@
 ---
-actualPrice: $15.00
+actualPrice: $12.00
 album: Taetra Opera Carnis
 artist: Strix
 categories:
 - Vinyl
-date: '2023-09-24T05:52:07'
+date: '2023-11-23T18:42:41'
 draft: false
 images:
 - /images/covers/strix-taetra_opera_carnis.jpg
@@ -14,4 +14,4 @@ title: Strix - Taetra Opera Carnis
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=1376&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=1376&sort=pd.name&order=ASC) for $12.00

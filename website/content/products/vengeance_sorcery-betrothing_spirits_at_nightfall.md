@@ -4,7 +4,7 @@ album: Betrothing Spirits at Nightfall
 artist: Vengeance Sorcery
 categories:
 - Vinyl
-date: '2023-11-10T15:16:33'
+date: '2023-11-23T18:42:51'
 draft: false
 images:
 - /images/covers/vengeance_sorcery-betrothing_spirits_at_nightfall.jpg
@@ -22,4 +22,4 @@ title: Vengeance Sorcery - Betrothing Spirits at Nightfall
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=32803&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=39367&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=41766&sort=pd.name&order=ASC) for $20.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=43168&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=43168&sort=pd.name&order=ASC) for $16.25

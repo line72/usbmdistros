@@ -1,10 +1,10 @@
 ---
-actualPrice: $8.00
+actualPrice: $6.40
 album: Passion Of The Antichrist
 artist: Unholy Scripture
 categories:
 - Cassette
-date: '2023-09-24T05:59:08'
+date: '2023-11-23T18:45:16'
 draft: false
 images:
 - /images/covers/unholy_scripture-passion_of_the_antichrist.png
@@ -14,4 +14,4 @@ title: Unholy Scripture - Passion Of The Antichrist
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=16230&sort=pd.name&order=ASC) for $8.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=16230&sort=pd.name&order=ASC) for $6.40

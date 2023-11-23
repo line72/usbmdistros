@@ -1,10 +1,10 @@
 ---
-actualPrice: $7.00
+actualPrice: $5.60
 album: Actus Sacrophagia Mortem
 artist: Deathmoor
 categories:
 - CD
-date: '2023-09-24T05:54:30'
+date: '2023-11-23T18:43:34'
 draft: false
 images:
 - /images/covers/deathmoor-actus_sacrophagia_mortem.jpg
@@ -14,4 +14,4 @@ title: Deathmoor - Actus Sacrophagia Mortem
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=1423&sort=pd.name&order=ASC) for $7.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=1423&sort=pd.name&order=ASC) for $5.60

@@ -1,10 +1,10 @@
 ---
-actualPrice: $15.00
+actualPrice: $12.00
 album: Sotpuke
 artist: Myling
 categories:
 - CD
-date: '2023-09-24T05:55:52'
+date: '2023-11-23T18:44:07'
 draft: false
 images:
 - /images/covers/myling-sotpuke.jpg
@@ -14,4 +14,4 @@ title: Myling - Sotpuke
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=4040&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=4040&sort=pd.name&order=ASC) for $12.00

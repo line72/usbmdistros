@@ -1,10 +1,10 @@
 ---
-actualPrice: $27.00
+actualPrice: $21.60 - 27.00
 album: Rituell Katarsis
 artist: Kaosritual
 categories:
 - Vinyl
-date: '2023-11-16T12:12:38'
+date: '2023-11-23T18:42:01'
 draft: false
 images:
 - /images/covers/kaosritual-rituell_katarsis.jpg
@@ -19,4 +19,4 @@ title: Kaosritual - Rituell Katarsis
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=40383&sort=pd.name&order=ASC) for $27.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=40475&sort=pd.name&order=ASC) for $27.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=43318&sort=pd.name&order=ASC) for $27.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=43502&sort=pd.name&order=ASC) for $27.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=43502&sort=pd.name&order=ASC) for $21.60

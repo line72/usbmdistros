@@ -1,11 +1,11 @@
 ---
-actualPrice: $12.00 - 24.00
+actualPrice: $9.60 - 24.00
 album: Buried
 artist: Pest
 categories:
 - Vinyl
 - CD
-date: '2023-09-24T05:56:12'
+date: '2023-11-23T18:44:14'
 draft: false
 images:
 - /images/covers/pest-buried.jpg
@@ -22,4 +22,4 @@ title: Pest - Buried
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=25393&sort=pd.name&order=ASC) for $12.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=26075&sort=pd.name&order=ASC) for $12.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=26870&sort=pd.name&order=ASC) for $12.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=27791&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=27791&sort=pd.name&order=ASC) for $9.60

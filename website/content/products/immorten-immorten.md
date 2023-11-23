@@ -1,10 +1,10 @@
 ---
-actualPrice: $30.00
+actualPrice: $24.00
 album: Immorten
 artist: Immorten
 categories:
 - Vinyl
-date: '2023-11-02T06:20:01'
+date: '2023-11-23T18:41:57'
 draft: false
 images:
 - /images/covers/immorten-immorten.jpg
@@ -14,4 +14,4 @@ title: Immorten - Immorten
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=42898&sort=pd.name&order=ASC) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=42898&sort=pd.name&order=ASC) for $24.00

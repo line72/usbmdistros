@@ -1,10 +1,10 @@
 ---
-actualPrice: $25.00
+actualPrice: $20.00
 album: Postmortem Apocalypse
 artist: Anwyl
 categories:
 - Vinyl
-date: '2023-09-24T05:48:24'
+date: '2023-11-23T18:41:17'
 draft: false
 images:
 - /images/covers/anwyl-postmortem_apocalypse.jpg
@@ -14,4 +14,4 @@ title: Anwyl - Postmortem Apocalypse
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=26695&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=26695&sort=pd.name&order=ASC) for $20.00

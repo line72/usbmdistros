@@ -5,7 +5,7 @@ artist: Helwetti
 categories:
 - Vinyl
 - CD
-date: '2023-10-06T08:01:41'
+date: '2023-11-23T18:43:51'
 draft: false
 images:
 - /images/covers/helwetti-helwetti.jpg
@@ -23,4 +23,4 @@ title: Helwetti - Helwetti
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=29928&sort=pd.name&order=ASC) for $15.00
 * Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/helwetti-helwetti-cd/) for $12.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=32508&sort=pd.name&order=ASC) for $15.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=41203&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=41203&sort=pd.name&order=ASC) for $12.00

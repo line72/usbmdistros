@@ -1,10 +1,10 @@
 ---
-actualPrice: $20.00 - 25.00
+actualPrice: $20.00
 album: Stigmata Mali
 artist: Funeral Winds
 categories:
 - Vinyl
-date: '2023-09-24T05:49:47'
+date: '2023-11-23T18:41:46'
 draft: false
 images:
 - /images/covers/funeral_winds-stigmata_mali.jpg
@@ -14,5 +14,5 @@ title: Funeral Winds - Stigmata Mali
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=35011&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=35011&sort=pd.name&order=ASC) for $20.00
 * Purchase from [Sto'Vo'Kor Records](https://stovokor-records.com/products/funeral-winds-stigmata-mali) for $20.00

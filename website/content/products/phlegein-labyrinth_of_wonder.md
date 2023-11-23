@@ -5,7 +5,7 @@ artist: Phlegein
 categories:
 - Vinyl
 - CD
-date: '2023-11-19T08:42:26'
+date: '2023-11-23T18:42:27'
 draft: false
 images:
 - /images/covers/phlegein-labyrinth_of_wonder.jpg
@@ -19,7 +19,7 @@ title: Phlegein - Labyrinth of Wonder
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=20117&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=22109&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=27484&sort=pd.name&order=ASC) for $25.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29931&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29931&sort=pd.name&order=ASC) for $20.00
 ## CD
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/phlegein-labyrinth-of-wonder-cd) for $14.00
 * Purchase from [CW Productions](https://shop.cwproductions.net/products/phlegein-labyrinth-of-wonder-cd) for $5.00

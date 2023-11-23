@@ -1,10 +1,10 @@
 ---
-actualPrice: $6.00
+actualPrice: $4.80
 album: Tiberivs
 artist: Cult of Erinyes
 categories:
 - Cassette
-date: '2023-09-24T05:57:49'
+date: '2023-11-23T18:44:45'
 draft: false
 images:
 - /images/covers/cult_of_erinyes-tiberivs.png
@@ -14,4 +14,4 @@ title: Cult of Erinyes - Tiberivs
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=2799&sort=pd.name&order=ASC) for $6.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=2799&sort=pd.name&order=ASC) for $4.80

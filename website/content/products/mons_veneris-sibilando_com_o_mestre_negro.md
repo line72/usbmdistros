@@ -1,11 +1,11 @@
 ---
-actualPrice: $9.00 - 25.00
+actualPrice: $8.00 - 25.00
 album: Sibilando com o Mestre Negro
 artist: Mons Veneris
 categories:
 - Vinyl
 - Cassette
-date: '2023-09-24T05:58:28'
+date: '2023-11-23T18:45:01'
 draft: false
 images:
 - /images/covers/mons_veneris-sibilando_com_o_mestre_negro.jpg
@@ -23,4 +23,4 @@ title: Mons Veneris - Sibilando com o Mestre Negro
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/mons-veneris-sibilando-com-o-mestre-negro-tape) for $9.00
 * Purchase from [Sto'Vo'Kor Records](https://stovokor-records.com/products/mons-veneris-sibilando-com-o-mestre-negro) for $10.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=26404&sort=pd.name&order=ASC) for $10.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=31330&sort=pd.name&order=ASC) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=31330&sort=pd.name&order=ASC) for $8.00

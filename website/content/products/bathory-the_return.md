@@ -4,7 +4,7 @@ album: The Return
 artist: Bathory
 categories:
 - Cassette
-date: '2023-09-24T05:57:37'
+date: '2023-11-23T18:44:42'
 draft: false
 images:
 - /images/covers/bathory-the_return.jpg
@@ -28,4 +28,4 @@ title: Bathory - The Return
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=26374&sort=pd.name&order=ASC) for $15.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=30235&sort=pd.name&order=ASC) for $15.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=33745&sort=pd.name&order=ASC) for $15.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=35244&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=35244&sort=pd.name&order=ASC) for $12.00

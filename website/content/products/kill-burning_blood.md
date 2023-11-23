@@ -1,10 +1,10 @@
 ---
-actualPrice: $10.00 - 12.00
+actualPrice: $9.60 - 10.00
 album: Burning Blood
 artist: Kill
 categories:
 - CD
-date: '2023-09-24T05:55:29'
+date: '2023-11-23T18:43:58'
 draft: false
 images:
 - /images/covers/kill-burning_blood.jpg
@@ -15,4 +15,4 @@ title: Kill - Burning Blood
 
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=15078&sort=pd.name&order=ASC) for $10.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=32971&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=32971&sort=pd.name&order=ASC) for $9.60

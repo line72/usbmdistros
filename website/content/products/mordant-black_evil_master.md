@@ -1,10 +1,10 @@
 ---
-actualPrice: $8.00
+actualPrice: $6.40
 album: Black Evil Master
 artist: Mordant
 categories:
 - CD
-date: '2023-09-24T05:55:48'
+date: '2023-11-23T18:44:06'
 draft: false
 images:
 - /images/covers/mordant-black_evil_master.jpg
@@ -14,4 +14,4 @@ title: Mordant - Black Evil Master
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=1404&sort=pd.name&order=ASC) for $8.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=1404&sort=pd.name&order=ASC) for $6.40

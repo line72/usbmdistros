@@ -5,7 +5,7 @@ artist: Holocausto
 categories:
 - Vinyl
 - CD
-date: '2023-09-24T05:50:09'
+date: '2023-11-23T18:41:55'
 draft: false
 images:
 - /images/covers/holocausto-war_metal_massacre.jpg
@@ -16,6 +16,6 @@ title: Holocausto - War Metal Massacre
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=11290&sort=pd.name&order=ASC) for $25.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=35539&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=35539&sort=pd.name&order=ASC) for $16.25
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=32503&sort=pd.name&order=ASC) for $12.00

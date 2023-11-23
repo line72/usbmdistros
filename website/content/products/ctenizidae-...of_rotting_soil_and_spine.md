@@ -4,7 +4,7 @@ album: '...Of Rotting Soil and Spine'
 artist: Ctenizidae
 categories:
 - Vinyl
-date: '2023-09-24T05:49:11'
+date: '2023-11-23T18:41:34'
 draft: false
 images:
 - /images/covers/ctenizidae-...of_rotting_soil_and_spine.jpg
@@ -17,4 +17,4 @@ title: Ctenizidae - ...Of Rotting Soil and Spine
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=18797&sort=pd.name&order=ASC) for $20.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=19037&sort=pd.name&order=ASC) for $14.00
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/ctenizidae-of-rotting-soil-and-spine-10) for $22.00 :: Black 1st press vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29790&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29790&sort=pd.name&order=ASC) for $16.00

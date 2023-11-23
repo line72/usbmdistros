@@ -1,10 +1,10 @@
 ---
-actualPrice: $15.00
+actualPrice: $12.00
 album: Demo MMXVI
 artist: Voidnaga
 categories:
 - CD
-date: '2023-09-24T05:57:05'
+date: '2023-11-23T18:44:34'
 draft: false
 images:
 - /images/covers/voidnaga-demo_mmxvi.jpg
@@ -14,4 +14,4 @@ title: Voidnaga - Demo MMXVI
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=31517&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=31517&sort=pd.name&order=ASC) for $12.00

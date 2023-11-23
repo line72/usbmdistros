@@ -1,12 +1,12 @@
 ---
-actualPrice: $15.00 - 49.00
+actualPrice: $12.00 - 49.00
 album: Ascending Into Perdition
 artist: Darvaza
 categories:
 - Vinyl
 - Cassette
 - CD
-date: '2023-09-24T05:57:51'
+date: '2023-11-23T18:44:46'
 draft: false
 images:
 - /images/covers/darvaza-ascending_into_perdition.jpg
@@ -20,8 +20,8 @@ title: Darvaza - Ascending Into Perdition
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/darvaza-ascending-into-perdition-lp) for $29.00 :: Black 1st press vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/darvaza-ascending-into-perdition-lp) for $39.00 :: Smoke 1st press vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/darvaza-ascending-into-perdition-lp) for $49.00 :: Smoke w/ Bible Print 1st press vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=35325&sort=pd.name&order=ASC) for $28.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=35325&sort=pd.name&order=ASC) for $22.40
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=28270&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=28270&sort=pd.name&order=ASC) for $12.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=20955&sort=pd.name&order=ASC) for $15.00

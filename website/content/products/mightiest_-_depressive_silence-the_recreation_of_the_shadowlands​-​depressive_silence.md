@@ -1,10 +1,10 @@
 ---
-actualPrice: $35.00
+actualPrice: $28.00 - 35.00
 album: "The Recreation of the Shadowlands\u200B/\u200BDepressive Silence"
 artist: Mightiest / Depressive Silence
 categories:
 - Vinyl
-date: '2023-09-24T05:50:53'
+date: '2023-11-23T18:42:11'
 draft: false
 images:
 - "/images/covers/mightiest_-_depressive_silence-the_recreation_of_the_shadowlands\u200B\
@@ -18,4 +18,4 @@ title: "Mightiest / Depressive Silence - The Recreation of the Shadowlands\u200B
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=37784&sort=pd.name&order=ASC) for $35.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=40218&sort=pd.name&order=ASC) for $35.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=40218&sort=pd.name&order=ASC) for $28.00

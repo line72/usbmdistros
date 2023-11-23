@@ -4,7 +4,7 @@ album: Balkarnin
 artist: Ayyur
 categories:
 - Cassette
-date: '2023-09-24T05:57:36'
+date: '2023-11-23T18:44:42'
 draft: false
 images:
 - /images/covers/ayyur-balkarnin.jpg
@@ -14,6 +14,6 @@ title: Ayyur - Balkarnin
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=9885&sort=pd.name&order=ASC) for $8.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=9885&sort=pd.name&order=ASC) for $6.40
 * Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/30563155-ayyur-balkarnin) for $5.50
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/used-ayyur-balkarnin-cassette) for $8.00 :: Black Shell 2020

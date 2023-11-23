@@ -1,10 +1,10 @@
 ---
-actualPrice: $40.00
+actualPrice: $32.00
 album: Sect Of Swords
 artist: Diocletian
 categories:
 - Vinyl
-date: '2023-09-24T05:53:13'
+date: '2023-11-23T18:43:07'
 draft: false
 images:
 - /images/covers/diocletian-sect_of_swords.png
@@ -14,4 +14,4 @@ title: Diocletian - Sect Of Swords
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=36812&sort=pd.name&order=ASC) for $40.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=36812&sort=pd.name&order=ASC) for $32.00

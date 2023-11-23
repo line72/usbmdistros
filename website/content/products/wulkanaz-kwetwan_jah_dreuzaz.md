@@ -5,7 +5,7 @@ artist: Wulkanaz
 categories:
 - Vinyl
 - CD
-date: '2023-09-24T05:57:15'
+date: '2023-11-23T18:44:37'
 draft: false
 images:
 - /images/covers/wulkanaz-kwetwan_jah_dreuzaz.jpg
@@ -23,8 +23,8 @@ title: Wulkanaz - Kwetwan jah Dreuzaz
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=22932&sort=pd.name&order=ASC) for $27.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=25880&sort=pd.name&order=ASC) for $27.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29183&sort=pd.name&order=ASC) for $27.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29591&sort=pd.name&order=ASC) for $27.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29591&sort=pd.name&order=ASC) for $21.60
 ## CD
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/wulkanaz-kwetwan-jah-dreuzaz-cd) for $13.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=9610&sort=pd.name&order=ASC) for $12.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=31531&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=31531&sort=pd.name&order=ASC) for $12.00

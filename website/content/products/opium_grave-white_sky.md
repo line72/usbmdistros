@@ -1,10 +1,10 @@
 ---
-actualPrice: $10.00 - 12.00
+actualPrice: $9.60 - 10.00
 album: White Sky
 artist: Opium Grave
 categories:
 - Cassette
-date: '2023-09-24T05:58:38'
+date: '2023-11-23T18:45:05'
 draft: false
 images:
 - /images/covers/opium_grave-white_sky.jpg
@@ -15,4 +15,4 @@ title: Opium Grave - White Sky
 
 ## Cassette
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/opium-grave-white-sky-tape) for $10.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=20756&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=20756&sort=pd.name&order=ASC) for $9.60

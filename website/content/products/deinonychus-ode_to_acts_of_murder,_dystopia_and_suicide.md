@@ -1,10 +1,10 @@
 ---
-actualPrice: $25.00
+actualPrice: $20.00
 album: Ode To Acts Of Murder, Dystopia And Suicide
 artist: DEINONYCHUS
 categories:
 - Vinyl
-date: '2023-09-24T05:49:21'
+date: '2023-11-23T18:41:38'
 draft: false
 images:
 - /images/covers/deinonychus-ode_to_acts_of_murder,_dystopia_and_suicide.jpg
@@ -14,4 +14,4 @@ title: DEINONYCHUS - Ode To Acts Of Murder, Dystopia And Suicide
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=11752&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=11752&sort=pd.name&order=ASC) for $20.00

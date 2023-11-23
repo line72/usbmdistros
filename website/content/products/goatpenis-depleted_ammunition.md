@@ -4,7 +4,7 @@ album: Depleted Ammunition
 artist: Goatpenis
 categories:
 - CD
-date: '2023-09-25T08:48:32'
+date: '2023-11-23T18:43:47'
 draft: false
 images:
 - /images/covers/goatpenis-depleted_ammunition.jpg
@@ -17,4 +17,4 @@ title: Goatpenis - Depleted Ammunition
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=19087&sort=pd.name&order=ASC) for $12.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=25661&sort=pd.name&order=ASC) for $9.60
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=35465&sort=pd.name&order=ASC) for $12.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=40335&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=40335&sort=pd.name&order=ASC) for $9.60

@@ -1,11 +1,11 @@
 ---
-actualPrice: $10.00 - 35.00
+actualPrice: $9.60 - 35.00
 album: "Krupinsk\xE9 Ohne"
 artist: Malokarpatan
 categories:
 - Vinyl
 - CD
-date: '2023-10-29T09:02:08'
+date: '2023-11-23T18:44:02'
 draft: false
 images:
 - "/images/covers/malokarpatan-krupinsk\xE9_ohne.png"
@@ -22,4 +22,4 @@ title: "Malokarpatan - Krupinsk\xE9 Ohne"
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=17477&sort=pd.name&order=ASC) for $10.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=41267&sort=pd.name&order=ASC) for $12.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=41618&sort=pd.name&order=ASC) for $12.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=42637&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=42637&sort=pd.name&order=ASC) for $9.60

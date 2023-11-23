@@ -1,10 +1,10 @@
 ---
-actualPrice: $10.00
+actualPrice: $8.00
 album: Black Demons Night
 artist: Front Beast
 categories:
 - Cassette
-date: '2023-10-02T09:47:36'
+date: '2023-11-23T18:44:53'
 draft: false
 images:
 - /images/covers/front_beast-black_demons_night.jpg
@@ -14,4 +14,4 @@ title: Front Beast - Black Demons Night
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=40755&sort=pd.name&order=ASC) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=40755&sort=pd.name&order=ASC) for $8.00

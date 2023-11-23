@@ -6,7 +6,7 @@ categories:
 - Vinyl
 - Cassette
 - CD
-date: '2023-09-24T05:49:46'
+date: '2023-11-23T18:41:46'
 draft: false
 images:
 - /images/covers/funeral_winds-koude_haat.jpg
@@ -21,7 +21,7 @@ title: Funeral Winds - Koude Haat
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=16244&sort=pd.name&order=ASC) for $22.00
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/funeral-winds-koude-haat-lp) for $29.00 :: Black 2021 press vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=27502&sort=pd.name&order=ASC) for $17.60
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29783&sort=pd.name&order=ASC) for $22.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29783&sort=pd.name&order=ASC) for $17.60
 ## Cassette
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/funeral-winds-koude-haat-tape) for $10.00
 ## CD

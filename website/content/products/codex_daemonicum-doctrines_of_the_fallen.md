@@ -1,10 +1,10 @@
 ---
-actualPrice: $15.00
+actualPrice: $12.00
 album: Doctrines of the Fallen
 artist: Codex Daemonicum
 categories:
 - Cassette
-date: '2023-09-24T05:57:46'
+date: '2023-11-23T18:44:45'
 draft: false
 images:
 - /images/covers/codex_daemonicum-doctrines_of_the_fallen.jpg
@@ -14,4 +14,4 @@ title: Codex Daemonicum - Doctrines of the Fallen
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=31553&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=31553&sort=pd.name&order=ASC) for $12.00

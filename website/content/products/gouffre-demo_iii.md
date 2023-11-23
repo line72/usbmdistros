@@ -1,10 +1,10 @@
 ---
-actualPrice: $15.00
+actualPrice: $12.00
 album: Demo III
 artist: Gouffre
 categories:
 - Cassette
-date: '2023-10-29T09:57:47'
+date: '2023-11-23T18:44:54'
 draft: false
 images:
 - /images/covers/gouffre-demo_iii.png
@@ -14,4 +14,4 @@ title: Gouffre - Demo III
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=42663&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=42663&sort=pd.name&order=ASC) for $12.00

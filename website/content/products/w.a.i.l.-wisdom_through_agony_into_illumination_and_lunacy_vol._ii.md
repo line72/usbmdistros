@@ -1,11 +1,11 @@
 ---
-actualPrice: $17.00 - 30.00
+actualPrice: $13.60 - 30.00
 album: Wisdom Through Agony Into Illumination and Lunacy Vol. II
 artist: W.A.I.L.
 categories:
 - Vinyl
 - CD
-date: '2023-09-24T05:57:08'
+date: '2023-11-23T18:44:35'
 draft: false
 images:
 - /images/covers/w.a.i.l.-wisdom_through_agony_into_illumination_and_lunacy_vol._ii.jpg
@@ -17,4 +17,4 @@ title: W.A.I.L. - Wisdom Through Agony Into Illumination and Lunacy Vol. II
 ## Vinyl
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/w-a-i-l-wisdom-through-agony-into-illumination-and-lunacy-vol-ii-2xlp) for $30.00
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=4500&sort=pd.name&order=ASC) for $17.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=4500&sort=pd.name&order=ASC) for $13.60

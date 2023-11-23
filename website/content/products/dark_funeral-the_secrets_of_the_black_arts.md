@@ -1,11 +1,11 @@
 ---
-actualPrice: $15.00 - 27.00
+actualPrice: $12.00 - 27.00
 album: The Secrets Of The Black Arts
 artist: Dark Funeral
 categories:
 - Vinyl
 - CD
-date: '2023-10-09T08:16:48'
+date: '2023-11-23T18:43:34'
 draft: false
 images:
 - /images/covers/dark_funeral-the_secrets_of_the_black_arts.jpg
@@ -26,6 +26,7 @@ title: Dark Funeral - The Secrets Of The Black Arts
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=36757&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=37469&sort=pd.name&order=ASC) for $25.00
 * Purchase from [Sto'Vo'Kor Records](https://stovokor-records.com/products/dark-funeral-the-secrets-of-the-black-arts) for $22.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=43890&sort=pd.name&order=ASC) for $20.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=20099&sort=pd.name&order=ASC) for $17.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=20543&sort=pd.name&order=ASC) for $17.00
@@ -35,3 +36,4 @@ title: Dark Funeral - The Secrets Of The Black Arts
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=29310&sort=pd.name&order=ASC) for $15.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=30801&sort=pd.name&order=ASC) for $15.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=41584&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=43889&sort=pd.name&order=ASC) for $12.00

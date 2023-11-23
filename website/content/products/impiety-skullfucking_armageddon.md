@@ -1,11 +1,11 @@
 ---
-actualPrice: $12.00 - 30.00
+actualPrice: $9.60 - 30.00
 album: Skullfucking Armageddon
 artist: Impiety
 categories:
 - Vinyl
 - Cassette
-date: '2023-10-23T09:52:37'
+date: '2023-11-23T18:44:57'
 draft: false
 images:
 - /images/covers/impiety-skullfucking_armageddon.png
@@ -17,4 +17,4 @@ title: Impiety - Skullfucking Armageddon
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=37606&sort=pd.name&order=ASC) for $30.00
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=42333&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=42333&sort=pd.name&order=ASC) for $9.60

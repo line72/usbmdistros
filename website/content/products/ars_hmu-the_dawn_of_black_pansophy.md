@@ -4,7 +4,7 @@ album: The Dawn Of Black Pansophy
 artist: Ars Hmu
 categories:
 - Vinyl
-date: '2023-09-24T05:48:28'
+date: '2023-11-23T18:41:19'
 draft: false
 images:
 - /images/covers/ars_hmu-the_dawn_of_black_pansophy.jpg
@@ -18,4 +18,4 @@ title: Ars Hmu - The Dawn Of Black Pansophy
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/ars-hmu-the-dawn-of-black-pansophy-12-lp) for $20.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=20979&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=21500&sort=pd.name&order=ASC) for $25.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=25378&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=25378&sort=pd.name&order=ASC) for $20.00

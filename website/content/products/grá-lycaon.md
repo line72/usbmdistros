@@ -1,10 +1,10 @@
 ---
-actualPrice: $25.00
+actualPrice: $20.00
 album: Lycaon
 artist: "Gr\xE1"
 categories:
 - Vinyl
-date: '2023-09-24T05:49:54'
+date: '2023-11-23T18:41:51'
 draft: false
 images:
 - "/images/covers/gr\xE1-lycaon.jpg"
@@ -14,4 +14,4 @@ title: "Gr\xE1 - Lycaon"
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=33427&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=33427&sort=pd.name&order=ASC) for $20.00

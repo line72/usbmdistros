@@ -1,10 +1,10 @@
 ---
-actualPrice: $6.00
+actualPrice: $4.80
 album: Absurditas in Nihilum
 artist: Mythrim
 categories:
 - Cassette
-date: '2023-09-24T05:58:31'
+date: '2023-11-23T18:45:02'
 draft: false
 images:
 - /images/covers/mythrim-absurditas_in_nihilum.jpg
@@ -14,4 +14,4 @@ title: Mythrim - Absurditas in Nihilum
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=841&sort=pd.name&order=ASC) for $6.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=841&sort=pd.name&order=ASC) for $4.80

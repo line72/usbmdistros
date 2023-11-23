@@ -1,10 +1,10 @@
 ---
-actualPrice: $10.00
+actualPrice: $8.00
 album: Nausea
 artist: Balmog
 categories:
 - Vinyl
-date: '2023-09-24T05:53:03'
+date: '2023-11-23T18:43:01'
 draft: false
 images:
 - /images/covers/balmog-nausea.png
@@ -14,4 +14,4 @@ title: Balmog - Nausea
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=23621&sort=pd.name&order=ASC) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=23621&sort=pd.name&order=ASC) for $8.00

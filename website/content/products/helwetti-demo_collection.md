@@ -1,10 +1,10 @@
 ---
-actualPrice: $13.00 - 15.00
+actualPrice: $12.00 - 15.00
 album: Demo Collection
 artist: Helwetti
 categories:
 - CD
-date: '2023-10-06T08:01:40'
+date: '2023-11-23T18:43:51'
 draft: false
 images:
 - /images/covers/helwetti-demo_collection.jpg
@@ -19,4 +19,4 @@ title: Helwetti - Demo Collection
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=29832&sort=pd.name&order=ASC) for $15.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=29927&sort=pd.name&order=ASC) for $15.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=32509&sort=pd.name&order=ASC) for $15.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=41202&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=41202&sort=pd.name&order=ASC) for $12.00

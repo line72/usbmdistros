@@ -1,10 +1,10 @@
 ---
-actualPrice: $5.00
+actualPrice: $4.00
 album: White Colour Crimes
 artist: Tragedy Begins
 categories:
 - Cassette
-date: '2023-09-24T05:59:04'
+date: '2023-11-23T18:45:15'
 draft: false
 images:
 - /images/covers/tragedy_begins-white_colour_crimes.png
@@ -14,4 +14,4 @@ title: Tragedy Begins - White Colour Crimes
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=1313&sort=pd.name&order=ASC) for $5.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=1313&sort=pd.name&order=ASC) for $4.00

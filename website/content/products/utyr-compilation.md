@@ -1,10 +1,10 @@
 ---
-actualPrice: $33.00
+actualPrice: $26.40 - 33.00
 album: Compilation
 artist: Utyr
 categories:
 - Vinyl
-date: '2023-09-24T05:53:48'
+date: '2023-11-23T18:43:19'
 draft: false
 images:
 - /images/covers/utyr-compilation.jpg
@@ -16,4 +16,4 @@ title: Utyr - Compilation
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=28986&sort=pd.name&order=ASC) for $33.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=32338&sort=pd.name&order=ASC) for $33.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=39788&sort=pd.name&order=ASC) for $33.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=39788&sort=pd.name&order=ASC) for $26.40

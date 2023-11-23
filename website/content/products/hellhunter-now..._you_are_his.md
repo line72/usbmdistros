@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.75 - 17.00
+actualPrice: $12.75 - 13.60
 album: now... you are his
 artist: HellHunter
 categories:
 - Vinyl
-date: '2023-09-24T05:50:05'
+date: '2023-11-23T18:41:54'
 draft: false
 images:
 - /images/covers/hellhunter-now..._you_are_his.jpg
@@ -15,4 +15,4 @@ title: HellHunter - now... you are his
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=5307&sort=pd.name&order=ASC) for $12.75
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=16598&sort=pd.name&order=ASC) for $17.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=16598&sort=pd.name&order=ASC) for $13.60

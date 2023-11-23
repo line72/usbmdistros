@@ -1,10 +1,10 @@
 ---
-actualPrice: $6.00
+actualPrice: $4.80
 album: Kathaarian Vortex
 artist: APOLOKIA
 categories:
 - CD
-date: '2023-09-24T05:54:02'
+date: '2023-11-23T18:43:24'
 draft: false
 images:
 - /images/covers/apolokia-kathaarian_vortex.jpg
@@ -14,4 +14,4 @@ title: APOLOKIA - Kathaarian Vortex
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=2020&sort=pd.name&order=ASC) for $6.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=2020&sort=pd.name&order=ASC) for $4.80

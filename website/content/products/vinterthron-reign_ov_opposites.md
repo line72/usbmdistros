@@ -1,10 +1,10 @@
 ---
-actualPrice: $15.00
+actualPrice: $12.00
 album: Reign ov Opposites
 artist: Vinterthron
 categories:
 - Vinyl
-date: '2023-09-24T05:52:41'
+date: '2023-11-23T18:42:52'
 draft: false
 images:
 - /images/covers/vinterthron-reign_ov_opposites.jpg
@@ -14,4 +14,4 @@ title: Vinterthron - Reign ov Opposites
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=40130&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=40130&sort=pd.name&order=ASC) for $12.00

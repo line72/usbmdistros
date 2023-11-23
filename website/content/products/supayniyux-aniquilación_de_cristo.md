@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00
+actualPrice: $9.60
 album: "Aniquilaci\xF3n de Cristo"
 artist: Supayniyux
 categories:
 - CD
-date: '2023-09-24T05:56:43'
+date: '2023-11-23T18:44:27'
 draft: false
 images:
 - "/images/covers/supayniyux-aniquilaci\xF3n_de_cristo.jpg"
@@ -14,4 +14,4 @@ title: "Supayniyux - Aniquilaci\xF3n de Cristo"
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=22514&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=22514&sort=pd.name&order=ASC) for $9.60

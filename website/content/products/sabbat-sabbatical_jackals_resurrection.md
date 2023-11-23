@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00
+actualPrice: $9.60
 album: Sabbatical Jackals Resurrection
 artist: Sabbat
 categories:
 - CD
-date: '2023-10-25T09:12:07'
+date: '2023-11-23T18:44:20'
 draft: false
 images:
 - /images/covers/sabbat-sabbatical_jackals_resurrection.jpg
@@ -14,4 +14,4 @@ title: Sabbat - Sabbatical Jackals Resurrection
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=42523&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=42523&sort=pd.name&order=ASC) for $9.60

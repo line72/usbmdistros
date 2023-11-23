@@ -5,7 +5,7 @@ artist: Armnatt
 categories:
 - Vinyl
 - Cassette
-date: '2023-09-24T05:48:27'
+date: '2023-11-23T18:41:19'
 draft: false
 images:
 - /images/covers/armnatt-eternal_flame.jpg
@@ -16,6 +16,6 @@ title: Armnatt - Eternal Flame
 
 ## Vinyl
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/armnatt-eternal-flame-12-lp) for $25.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29898&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29898&sort=pd.name&order=ASC) for $20.00
 ## Cassette
 * Purchase from [Sto'Vo'Kor Records](https://stovokor-records.com/products/armnatt-eternal-flame-cassette) for $11.00

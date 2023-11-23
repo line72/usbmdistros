@@ -1,10 +1,10 @@
 ---
-actualPrice: $25.00
+actualPrice: $20.00 - 25.00
 album: Aamongandr
 artist: Satanic Warmaster
 categories:
 - Vinyl
-date: '2023-09-27T07:48:37'
+date: '2023-11-23T18:42:35'
 draft: false
 images:
 - /images/covers/satanic_warmaster-aamongandr.jpg
@@ -17,4 +17,4 @@ title: Satanic Warmaster - Aamongandr
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=34430&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=35361&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=36887&sort=pd.name&order=ASC) for $25.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=40422&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=40422&sort=pd.name&order=ASC) for $20.00

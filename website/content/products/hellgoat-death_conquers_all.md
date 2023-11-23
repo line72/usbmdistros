@@ -1,10 +1,10 @@
 ---
-actualPrice: $10.00 - 17.00
+actualPrice: $8.00 - 17.00
 album: Death Conquers All
 artist: Hellgoat
 categories:
 - Vinyl
-date: '2023-09-24T05:50:05'
+date: '2023-11-23T18:41:54'
 draft: false
 images:
 - /images/covers/hellgoat-death_conquers_all.jpg
@@ -16,4 +16,4 @@ title: Hellgoat - Death Conquers All
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=5630&sort=pd.name&order=ASC) for $17.00
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/hellgoat-death-conquers-all-lp) for $10.00 :: Gray 1st press vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=39475&sort=pd.name&order=ASC) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=39475&sort=pd.name&order=ASC) for $8.00

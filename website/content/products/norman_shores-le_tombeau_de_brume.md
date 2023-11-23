@@ -1,10 +1,10 @@
 ---
-actualPrice: $15.00
+actualPrice: $12.00
 album: Le Tombeau De Brume
 artist: Norman Shores
 categories:
 - CD
-date: '2023-09-24T05:56:03'
+date: '2023-11-23T18:44:11'
 draft: false
 images:
 - /images/covers/norman_shores-le_tombeau_de_brume.jpg
@@ -14,4 +14,4 @@ title: Norman Shores - Le Tombeau De Brume
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=20192&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=20192&sort=pd.name&order=ASC) for $12.00

@@ -1,10 +1,10 @@
 ---
-actualPrice: $25.00
+actualPrice: $20.00 - 25.00
 album: Sorrow Galaxies
 artist: "M\xFCtiilation"
 categories:
 - Vinyl
-date: '2023-11-22T10:54:55'
+date: '2023-11-23T18:42:15'
 draft: false
 images:
 - "/images/covers/m\xFCtiilation-sorrow_galaxies.jpg"
@@ -25,4 +25,4 @@ title: "M\xFCtiilation - Sorrow Galaxies"
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=34927&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=42026&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=43528&sort=pd.name&order=ASC) for $25.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=43777&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=43777&sort=pd.name&order=ASC) for $20.00

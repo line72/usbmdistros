@@ -1,11 +1,11 @@
 ---
-actualPrice: $8.40 - 25.00
+actualPrice: $8.40 - 20.00
 album: UMBRAVOROUS
 artist: PERVERSOR
 categories:
 - Vinyl
 - CD
-date: '2023-09-24T05:56:12'
+date: '2023-11-23T18:44:14'
 draft: false
 images:
 - /images/covers/perversor-umbravorous.jpg
@@ -15,7 +15,7 @@ title: PERVERSOR - UMBRAVOROUS
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=19687&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=19687&sort=pd.name&order=ASC) for $20.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=16936&sort=pd.name&order=ASC) for $8.40
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=19635&sort=pd.name&order=ASC) for $13.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=19635&sort=pd.name&order=ASC) for $10.40
