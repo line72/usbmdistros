@@ -5,7 +5,7 @@ album: "\u041F\u043E\u0436\u0430\u0440\u0443 \u043D\u043E\u0432\u043E\u0433\u043
 artist: Vargleide
 categories:
 - Vinyl
-date: '2023-11-18T06:27:21'
+date: '2023-11-22T12:15:49'
 draft: false
 images:
 - "/images/covers/vargleide-\u043F\u043E\u0436\u0430\u0440\u0443_\u043D\u043E\u0432\
@@ -19,3 +19,4 @@ title: "Vargleide - \u041F\u043E\u0436\u0430\u0440\u0443 \u043D\u043E\u0432\u043
 
 ## Vinyl
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/vargleide-12-lp) for $35.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=43794&sort=pd.name&order=ASC) for $35.00
