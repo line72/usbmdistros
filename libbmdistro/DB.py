@@ -309,7 +309,7 @@ class DB:
                     SET
                       last_seen_at = (datetime(current_timestamp))
                     WHERE id = ?
-                    ''', (p['id']))
+                    ''', (p['id'],))
 
             self.conn.commit()
             
