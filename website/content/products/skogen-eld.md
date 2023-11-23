@@ -1,5 +1,5 @@
 ---
-actualPrice: $9.60 - 12.00
+actualPrice: $9.60
 album: Eld
 artist: Skogen
 categories:
@@ -14,5 +14,4 @@ title: Skogen - Eld
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=7670&sort=pd.name&order=ASC) for $12.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=32773&sort=pd.name&order=ASC) for $9.60

@@ -1,5 +1,5 @@
 ---
-actualPrice: $3.00 - 8.00
+actualPrice: $3.00
 album: Celestial Henchwhores Aflame
 artist: Beastlurker
 categories:
@@ -15,4 +15,3 @@ title: Beastlurker - Celestial Henchwhores Aflame
 
 ## Cassette
 * Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/35109943-beastlurker-celestial-henchwhores-aflame) for $3.00
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/used-beastlurker-celestial-henchwhores-aflame-cassette) for $8.00 :: Cassette Tape 2021

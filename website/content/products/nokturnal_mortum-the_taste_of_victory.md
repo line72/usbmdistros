@@ -1,5 +1,5 @@
 ---
-actualPrice: $20.00 - 25.00
+actualPrice: $20.00
 album: The Taste of Victory
 artist: Nokturnal Mortum
 categories:
@@ -14,8 +14,4 @@ title: Nokturnal Mortum - The Taste of Victory
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=34564&sort=pd.name&order=ASC) for $25.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=34729&sort=pd.name&order=ASC) for $25.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=35817&sort=pd.name&order=ASC) for $25.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=37429&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=43883&sort=pd.name&order=ASC) for $20.00

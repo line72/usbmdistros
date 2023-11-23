@@ -1,5 +1,5 @@
 ---
-actualPrice: $5.60 - 12.00
+actualPrice: $5.60 - 9.60
 album: The Conjuration of the Southern Circle
 artist: Decayed
 categories:
@@ -17,5 +17,4 @@ title: Decayed - The Conjuration of the Southern Circle
 ## Cassette
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=6153&sort=pd.name&order=ASC) for $5.60
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=20540&sort=pd.name&order=ASC) for $12.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=41593&sort=pd.name&order=ASC) for $9.60

@@ -1,5 +1,5 @@
 ---
-actualPrice: $8.00 - 10.00
+actualPrice: $8.00
 album: Necroangels' Revelations
 artist: Balmog
 categories:
@@ -14,6 +14,4 @@ title: Balmog - Necroangels' Revelations
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=2320&sort=pd.name&order=ASC) for $8.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=32969&sort=pd.name&order=ASC) for $10.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=41555&sort=pd.name&order=ASC) for $8.00

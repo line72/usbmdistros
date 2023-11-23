@@ -1,5 +1,5 @@
 ---
-actualPrice: $7.50 - 25.00
+actualPrice: $8.00 - 20.00
 album: Intermezzo Dei Quattro Coltelli Nudi
 artist: Hexenbrett
 categories:
@@ -16,12 +16,8 @@ title: Hexenbrett - Intermezzo Dei Quattro Coltelli Nudi
 ---
 
 ## Vinyl
-* Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/34262428-hexenbrett-intermezzo-dei-quattro-coltelli-nudi-vinyl) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=20301&sort=pd.name&order=ASC) for $20.00
 ## Cassette
-* Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/34262455-hexenbrett-intermezzo-dei-quattro-coltelli-nudi) for $8.50
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=20301&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=20299&sort=pd.name&order=ASC) for $8.00
 ## CD
-* Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/34262404-hexenbrett-intermezzo-dei-quattro-coltelli-nudi-cd) for $7.50
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=20302&sort=pd.name&order=ASC) for $9.60

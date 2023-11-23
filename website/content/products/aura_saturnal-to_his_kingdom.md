@@ -1,5 +1,5 @@
 ---
-actualPrice: $20.00 - 25.00
+actualPrice: $20.00
 album: To His Kingdom
 artist: Aura Saturnal
 categories:
@@ -15,4 +15,3 @@ title: Aura Saturnal - To His Kingdom
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=21882&sort=pd.name&order=ASC) for $20.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=40556&sort=pd.name&order=ASC) for $25.00

@@ -1,5 +1,5 @@
 ---
-actualPrice: $12.00 - 15.00
+actualPrice: $12.00
 album: Det Glemte Riket
 artist: Ancient
 categories:
@@ -14,6 +14,4 @@ title: Ancient - Det Glemte Riket
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=18814&sort=pd.name&order=ASC) for $15.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=31861&sort=pd.name&order=ASC) for $15.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=34820&sort=pd.name&order=ASC) for $12.00

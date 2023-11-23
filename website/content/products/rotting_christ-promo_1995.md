@@ -1,5 +1,5 @@
 ---
-actualPrice: $20.00 - 25.00
+actualPrice: $20.00
 album: Promo 1995
 artist: Rotting Christ
 categories:
@@ -14,7 +14,4 @@ title: Rotting Christ - Promo 1995
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=17168&sort=pd.name&order=ASC) for $25.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=19356&sort=pd.name&order=ASC) for $25.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=21438&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=42096&sort=pd.name&order=ASC) for $20.00

@@ -1,5 +1,5 @@
 ---
-actualPrice: $6.40 - 15.00
+actualPrice: $6.40
 album: Injekting Khaos
 artist: Injekting Khaos
 categories:
@@ -14,5 +14,4 @@ title: Injekting Khaos - Injekting Khaos
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=2105&sort=pd.name&order=ASC) for $15.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=40792&sort=pd.name&order=ASC) for $6.40

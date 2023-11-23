@@ -1,5 +1,5 @@
 ---
-actualPrice: $7.50 - 9.60
+actualPrice: $8.00 - 9.60
 album: Teufel
 artist: Erupted Evil
 categories:
@@ -15,8 +15,6 @@ title: Erupted Evil - Teufel
 ---
 
 ## Cassette
-* Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/33495052-erupted-evil-teufel) for $9.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=22401&sort=pd.name&order=ASC) for $8.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=22379&sort=pd.name&order=ASC) for $9.60
-* Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/35932795-erupted-evil-teufel-cd) for $7.50

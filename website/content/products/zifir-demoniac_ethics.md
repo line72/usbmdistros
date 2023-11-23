@@ -1,5 +1,5 @@
 ---
-actualPrice: $13.60 - 20.00
+actualPrice: $13.60
 album: Demoniac Ethics
 artist: Zifir
 categories:
@@ -14,6 +14,4 @@ title: Zifir - Demoniac Ethics
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=16871&sort=pd.name&order=ASC) for $20.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=40702&sort=pd.name&order=ASC) for $17.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=41363&sort=pd.name&order=ASC) for $13.60

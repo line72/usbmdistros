@@ -1,5 +1,5 @@
 ---
-actualPrice: $16.00 - 20.00
+actualPrice: $16.00
 album: Maledictum
 artist: Abruptum
 categories:
@@ -14,6 +14,4 @@ title: Abruptum - Maledictum
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=19973&sort=pd.name&order=ASC) for $20.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=28426&sort=pd.name&order=ASC) for $20.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=43267&sort=pd.name&order=ASC) for $16.00

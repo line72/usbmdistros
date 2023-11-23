@@ -1,5 +1,5 @@
 ---
-actualPrice: $22.40 - 28.00
+actualPrice: $22.40
 album: "Makt, H\xF8yhet, Herred\xF8mme"
 artist: "\xD8ksehovud"
 categories:
@@ -14,8 +14,4 @@ title: "\xD8ksehovud - Makt, H\xF8yhet, Herred\xF8mme"
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=20079&sort=pd.name&order=ASC) for $28.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=20256&sort=pd.name&order=ASC) for $28.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=24644&sort=pd.name&order=ASC) for $28.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=26595&sort=pd.name&order=ASC) for $28.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=33606&sort=pd.name&order=ASC) for $22.40

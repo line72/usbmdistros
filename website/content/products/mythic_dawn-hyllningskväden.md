@@ -1,5 +1,5 @@
 ---
-actualPrice: $8.00 - 10.00
+actualPrice: $8.00
 album: "Hyllningskv\xE4den"
 artist: Mythic Dawn
 categories:
@@ -14,5 +14,4 @@ title: "Mythic Dawn - Hyllningskv\xE4den"
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=16666&sort=pd.name&order=ASC) for $10.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=23059&sort=pd.name&order=ASC) for $8.00

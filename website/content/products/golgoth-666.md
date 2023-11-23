@@ -1,5 +1,5 @@
 ---
-actualPrice: $6.00 - 9.60
+actualPrice: $9.60
 album: '666'
 artist: Golgoth
 categories:
@@ -14,5 +14,4 @@ title: Golgoth - 666
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=2207&sort=pd.name&order=ASC) for $6.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=36142&sort=pd.name&order=ASC) for $9.60

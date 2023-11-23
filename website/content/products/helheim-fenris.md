@@ -14,6 +14,4 @@ title: Helheim - Fenris
 ---
 
 ## Vinyl
-* Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/helheim-fenris-10-mlp/) for $15.00
-* Purchase from [CW Productions](https://shop.cwproductions.net/products/helheim-fenris-10) for $15.00
 * Purchase from [CW Productions](https://shop.cwproductions.net/products/helheim-fenris-11) for $15.00

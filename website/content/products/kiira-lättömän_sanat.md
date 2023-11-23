@@ -17,5 +17,4 @@ title: "Kiira - L\xE4tt\xF6m\xE4n Sanat"
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=32572&sort=pd.name&order=ASC) for $21.60
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=31981&sort=pd.name&order=ASC) for $15.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=32571&sort=pd.name&order=ASC) for $12.00

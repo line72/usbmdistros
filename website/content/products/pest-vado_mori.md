@@ -1,9 +1,8 @@
 ---
-actualPrice: $9.60 - 30.00
+actualPrice: $9.60
 album: Vado Mori
 artist: Pest
 categories:
-- Vinyl
 - CD
 date: '2023-11-23T18:44:14'
 draft: false
@@ -14,10 +13,5 @@ thumbnailImage: /images/covers/pest-vado_mori-thumb.jpg
 title: Pest - Vado Mori
 ---
 
-## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=26873&sort=pd.name&order=ASC) for $30.00
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=25395&sort=pd.name&order=ASC) for $12.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=26077&sort=pd.name&order=ASC) for $12.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=26872&sort=pd.name&order=ASC) for $12.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=27793&sort=pd.name&order=ASC) for $9.60

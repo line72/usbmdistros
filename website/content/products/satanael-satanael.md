@@ -1,5 +1,5 @@
 ---
-actualPrice: $24.00 - 30.00
+actualPrice: $24.00
 album: Satanael
 artist: Satanael
 categories:
@@ -14,5 +14,4 @@ title: Satanael - Satanael
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=40483&sort=pd.name&order=ASC) for $30.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=40599&sort=pd.name&order=ASC) for $24.00

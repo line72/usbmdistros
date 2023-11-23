@@ -1,5 +1,5 @@
 ---
-actualPrice: $12.00 - 14.00
+actualPrice: $12.00
 album: Nearer the Shores of Kothal
 artist: Borda's Rope
 categories:
@@ -14,5 +14,4 @@ title: Borda's Rope - Nearer the Shores of Kothal
 ---
 
 ## CD
-* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/borda-s-rope-nearer-the-shores-of-kothal-cd) for $14.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=20777&sort=pd.name&order=ASC) for $12.00

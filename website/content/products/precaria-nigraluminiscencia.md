@@ -1,5 +1,5 @@
 ---
-actualPrice: $25.00 - 32.00
+actualPrice: $25.00
 album: Nigraluminiscencia
 artist: Precaria
 categories:
@@ -15,4 +15,3 @@ title: Precaria - Nigraluminiscencia
 
 ## Vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/precaria-nigraluminiscencia) for $25.00 :: Black 1st press vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/precaria-nigraluminiscencia) for $32.00 :: Marbled 1st press vinyl

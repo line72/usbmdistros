@@ -1,9 +1,8 @@
 ---
-actualPrice: $12.00 - 25.00
+actualPrice: $12.00
 album: Forest Storm
 artist: Tetrasigil
 categories:
-- Vinyl
 - CD
 date: '2023-11-23T18:44:27'
 draft: false
@@ -14,7 +13,5 @@ thumbnailImage: /images/covers/tetrasigil-forest_storm-thumb.jpg
 title: Tetrasigil - Forest Storm
 ---
 
-## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=31773&sort=pd.name&order=ASC) for $25.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=31774&sort=pd.name&order=ASC) for $12.00

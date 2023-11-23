@@ -1,5 +1,5 @@
 ---
-actualPrice: $9.60 - 13.00
+actualPrice: $9.60
 album: Biochemterrorism
 artist: Goatpenis
 categories:
@@ -14,9 +14,4 @@ title: Goatpenis - Biochemterrorism
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=19088&sort=pd.name&order=ASC) for $12.00
-* Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/goatpenis-biochemterrorism-cd/) for $10.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=25660&sort=pd.name&order=ASC) for $12.00
-* Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/goatpenis-biochemterrorism-cd/) for $13.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=35466&sort=pd.name&order=ASC) for $12.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=40332&sort=pd.name&order=ASC) for $9.60

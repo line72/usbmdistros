@@ -1,5 +1,5 @@
 ---
-actualPrice: $22.40 - 28.00
+actualPrice: $22.40
 album: Vinterrikets Konge
 artist: Skuggeheim
 categories:
@@ -14,9 +14,4 @@ title: Skuggeheim - Vinterrikets Konge
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=35322&sort=pd.name&order=ASC) for $28.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=35403&sort=pd.name&order=ASC) for $28.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=36540&sort=pd.name&order=ASC) for $28.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=37486&sort=pd.name&order=ASC) for $28.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=40057&sort=pd.name&order=ASC) for $28.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=43325&sort=pd.name&order=ASC) for $22.40

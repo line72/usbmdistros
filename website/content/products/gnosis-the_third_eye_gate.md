@@ -17,5 +17,4 @@ title: Gnosis - The Third Eye Gate
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=19258&sort=pd.name&order=ASC) for $9.75
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=2442&sort=pd.name&order=ASC) for $6.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=25634&sort=pd.name&order=ASC) for $1.95

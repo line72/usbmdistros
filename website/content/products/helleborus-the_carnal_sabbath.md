@@ -1,5 +1,5 @@
 ---
-actualPrice: $15.00 - 30.00
+actualPrice: $30.00
 album: The Carnal Sabbath
 artist: Helleborus
 categories:
@@ -14,5 +14,4 @@ title: Helleborus - The Carnal Sabbath
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=17284&sort=pd.name&order=ASC) for $15.00
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/helleborus-the-carnal-sabbath-2xlp) for $30.00 :: Clear Gold 2017 press

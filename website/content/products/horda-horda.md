@@ -1,5 +1,5 @@
 ---
-actualPrice: $9.60 - 12.00
+actualPrice: $9.60
 album: Horda
 artist: Horda
 categories:
@@ -14,6 +14,4 @@ title: Horda - Horda
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=29355&sort=pd.name&order=ASC) for $12.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=31624&sort=pd.name&order=ASC) for $12.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=40353&sort=pd.name&order=ASC) for $9.60

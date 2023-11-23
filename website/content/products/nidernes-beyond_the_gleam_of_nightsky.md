@@ -4,7 +4,6 @@ album: Beyond the Gleam of Nightsky
 artist: Nidernes
 categories:
 - Vinyl
-- Cassette
 - CD
 date: '2023-11-23T18:44:10'
 draft: false
@@ -16,15 +15,7 @@ title: Nidernes - Beyond the Gleam of Nightsky
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29200&sort=pd.name&order=ASC) for $25.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29357&sort=pd.name&order=ASC) for $25.00
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/nidernes-beyond-the-gleam-of-nightsky-12-lp) for $25.00
 * Purchase from [Sto'Vo'Kor Records](https://stovokor-records.com/products/nidernes-beyond-the-gleam-of-nightsky) for $21.00
-## Cassette
-* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/nidernes-beyond-the-gleam-of-nightsky-tape) for $12.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=21302&sort=pd.name&order=ASC) for $15.00
 ## CD
-* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/nidernes-beyond-the-gleam-of-nightsky-cd) for $15.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=21301&sort=pd.name&order=ASC) for $15.00
-* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/nidernes-beyond-the-gleam-of-nightsky-cd) for $13.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=29375&sort=pd.name&order=ASC) for $12.00

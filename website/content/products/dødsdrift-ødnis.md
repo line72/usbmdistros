@@ -1,5 +1,5 @@
 ---
-actualPrice: $10.00 - 23.00
+actualPrice: $12.00 - 21.00
 album: "\xD8dnis"
 artist: "D\xF8dsdrift"
 categories:
@@ -15,8 +15,6 @@ title: "D\xF8dsdrift - \xD8dnis"
 ---
 
 ## Vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/dodsdrift-odnis-lp) for $23.00 :: Black 1st press vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/dodsdrift-odnis-lp-1) for $21.00 :: Black 1st press vinyl
 ## CD
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/dodsdrift-odnis-cd) for $10.00 :: CD 2021
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/dodsdrift-odnis-cd-1) for $12.00 :: CD 2021

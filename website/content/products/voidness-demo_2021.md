@@ -1,5 +1,5 @@
 ---
-actualPrice: $4.00 - 6.00
+actualPrice: $6.00
 album: Demo 2021
 artist: Voidness
 categories:
@@ -14,5 +14,4 @@ title: Voidness - Demo 2021
 ---
 
 ## Cassette
-* Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/36477234-voidness-demo-2021) for $4.00
 * Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/36558016-voidness-demo-2021) for $6.00

@@ -1,5 +1,5 @@
 ---
-actualPrice: $11.00 - 12.00
+actualPrice: $12.00
 album: Slow Death - A Celebration Of Self-Hatred
 artist: "Ud\xE5nde"
 categories:
@@ -14,5 +14,4 @@ title: "Ud\xE5nde - Slow Death - A Celebration Of Self-Hatred"
 ---
 
 ## Cassette
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/udande-slow-death-a-celebration-of-self-hatred-cassette) for $11.00 :: Cassette 2022
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/udande-slow-death-a-celebration-of-self-hatred-cassette-1) for $12.00 :: Cassette 2022

@@ -1,5 +1,5 @@
 ---
-actualPrice: $40.00 - 50.00
+actualPrice: $40.00
 album: Once Emperor
 artist: Burzum
 categories:
@@ -14,5 +14,4 @@ title: Burzum - Once Emperor
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=40728&sort=pd.name&order=ASC) for $50.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=42541&sort=pd.name&order=ASC) for $40.00

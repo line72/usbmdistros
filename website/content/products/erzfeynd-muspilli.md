@@ -1,5 +1,5 @@
 ---
-actualPrice: $12.00 - 27.00
+actualPrice: $12.00 - 21.60
 album: Muspilli
 artist: Erzfeynd
 categories:
@@ -16,10 +16,8 @@ title: Erzfeynd - Muspilli
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=28149&sort=pd.name&order=ASC) for $27.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29889&sort=pd.name&order=ASC) for $21.60
 ## Cassette
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=33377&sort=pd.name&order=ASC) for $12.00
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=28146&sort=pd.name&order=ASC) for $15.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=29888&sort=pd.name&order=ASC) for $12.00

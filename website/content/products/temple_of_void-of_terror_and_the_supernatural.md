@@ -1,5 +1,5 @@
 ---
-actualPrice: $8.00 - 10.00
+actualPrice: $10.00
 album: Of Terror And The Supernatural
 artist: Temple Of Void
 categories:
@@ -14,5 +14,4 @@ title: Temple Of Void - Of Terror And The Supernatural
 ---
 
 ## Cassette
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/used-temple-of-void-of-terror-and-the-supernatural-cassette) for $8.00 :: Cassette Tape 2021
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/used-temple-of-void-of-terror-and-the-supernatural-cassette) for $10.00 :: Yellow Shell 2020 press

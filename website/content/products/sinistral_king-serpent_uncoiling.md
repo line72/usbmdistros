@@ -1,5 +1,5 @@
 ---
-actualPrice: $10.00 - 21.00
+actualPrice: $12.00 - 20.00
 album: Serpent Uncoiling
 artist: Sinistral King
 categories:
@@ -15,9 +15,7 @@ title: Sinistral King - Serpent Uncoiling
 ---
 
 ## Vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/sinistral-king-serpent-uncoiling-lp) for $21.00 :: Black 1st press vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/sinistral-king-serpent-uncoiling-lp) for $20.00 :: Black 2020 press vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/sinistral-king-serpent-uncoiling-lp) for $20.00 :: Gold 2020 press vinyl
 ## CD
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/sinistral-king-serpent-uncoiling-cd) for $10.00 :: CD 2020
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/sinistral-king-serpent-uncoiling-cd-1) for $12.00 :: CD 2020

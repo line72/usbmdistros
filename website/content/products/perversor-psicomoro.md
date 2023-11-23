@@ -1,5 +1,5 @@
 ---
-actualPrice: $8.00 - 10.00
+actualPrice: $8.00 - 9.60
 album: Psicomoro
 artist: PERVERSOR
 categories:
@@ -15,7 +15,6 @@ title: PERVERSOR - Psicomoro
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=23773&sort=pd.name&order=ASC) for $10.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=28576&sort=pd.name&order=ASC) for $8.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=22506&sort=pd.name&order=ASC) for $9.60

@@ -1,5 +1,5 @@
 ---
-actualPrice: $32.00 - 40.00
+actualPrice: $32.00
 album: "Echo 3 - Frisson d'\xE9ternit\xE9"
 artist: Sanctuaire
 categories:
@@ -14,5 +14,4 @@ title: "Sanctuaire - Echo 3 - Frisson d'\xE9ternit\xE9"
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=33339&sort=pd.name&order=ASC) for $40.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=39994&sort=pd.name&order=ASC) for $32.00

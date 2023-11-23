@@ -1,5 +1,5 @@
 ---
-actualPrice: $25.00 - 36.00
+actualPrice: $36.00
 album: Aura
 artist: Saor
 categories:
@@ -14,5 +14,4 @@ title: Saor - Aura
 ---
 
 ## Vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/saor-aura-2xlp) for $25.00 :: Yellow/Green 2020 press vinyl
 * Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/saor-aura-double-gold-lp-gatefold-som-exclusive) for $36.00 :: Double *GOLD* LP GATEFOLD - SOM Exclusive!

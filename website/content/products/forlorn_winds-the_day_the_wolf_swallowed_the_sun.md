@@ -1,10 +1,9 @@
 ---
-actualPrice: $12.00 - 20.00
+actualPrice: $20.00
 album: The Day the Wolf Swallowed the Sun
 artist: Forlorn Winds
 categories:
 - Vinyl
-- CD
 date: '2023-11-19T08:27:13'
 draft: false
 images:
@@ -16,6 +15,3 @@ title: Forlorn Winds - The Day the Wolf Swallowed the Sun
 
 ## Vinyl
 * Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/forlorn-winds-the-day-the-wolf-swallowed-the-sun-12-lp/) for $20.00
-* Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/forlorn-winds-the-day-the-wolf-swallowed-the-sun-12-lp/) for $20.00
-## CD
-* Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/forlorn-winds-the-day-the-wolf-swallowed-the-sun-cd/) for $12.00

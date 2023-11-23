@@ -1,5 +1,5 @@
 ---
-actualPrice: $9.60 - 10.00
+actualPrice: $9.60
 album: 'Grund: Gelenkkunst'
 artist: Winterblut
 categories:
@@ -14,5 +14,4 @@ title: 'Winterblut - Grund: Gelenkkunst'
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=1739&sort=pd.name&order=ASC) for $10.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=27924&sort=pd.name&order=ASC) for $9.60

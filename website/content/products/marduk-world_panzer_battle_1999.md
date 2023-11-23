@@ -1,10 +1,9 @@
 ---
-actualPrice: $12.00 - 15.00
+actualPrice: $12.00
 album: World Panzer Battle 1999
 artist: Marduk
 categories:
 - Cassette
-- CD
 date: '2023-11-23T18:45:00'
 draft: false
 images:
@@ -16,5 +15,3 @@ title: Marduk - World Panzer Battle 1999
 
 ## Cassette
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=23167&sort=pd.name&order=ASC) for $12.00
-## CD
-* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/marduk-world-panzer-battle-1999-cd) for $15.00

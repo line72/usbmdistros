@@ -1,5 +1,5 @@
 ---
-actualPrice: $12.00 - 15.00
+actualPrice: $12.00
 album: The Apostasy
 artist: Behemoth
 categories:
@@ -14,5 +14,4 @@ title: Behemoth - The Apostasy
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=19945&sort=pd.name&order=ASC) for $15.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=38631&sort=pd.name&order=ASC) for $12.00

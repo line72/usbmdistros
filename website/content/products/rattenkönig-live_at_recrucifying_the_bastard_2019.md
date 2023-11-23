@@ -1,5 +1,5 @@
 ---
-actualPrice: $8.00 - 9.00
+actualPrice: $9.00
 album: Live at Recrucifying the Bastard 2019
 artist: "Rattenk\xF6nig"
 categories:
@@ -14,5 +14,4 @@ title: "Rattenk\xF6nig - Live at Recrucifying the Bastard 2019"
 ---
 
 ## Cassette
-* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/rattenkonig-live-at-recrucifying-the-bastard-2019-tape) for $8.00
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/rattenkonig-live-at-recrucifying-the-bastard-2019-cassette) for $9.00 :: Cassette Tape 1st press

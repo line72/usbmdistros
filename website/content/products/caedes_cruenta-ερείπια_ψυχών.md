@@ -17,5 +17,4 @@ title: "Caedes Cruenta - \u0395\u03C1\u03B5\u03AF\u03C0\u03B9\u03B1 \u03A8\u03C5
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=18550&sort=pd.name&order=ASC) for $20.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=19959&sort=pd.name&order=ASC) for $20.00

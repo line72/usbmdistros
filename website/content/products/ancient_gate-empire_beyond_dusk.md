@@ -1,5 +1,5 @@
 ---
-actualPrice: $8.00 - 10.00
+actualPrice: $8.00
 album: Empire Beyond Dusk
 artist: Ancient Gate
 categories:
@@ -14,6 +14,5 @@ title: Ancient Gate - Empire Beyond Dusk
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=13664&sort=pd.name&order=ASC) for $10.00
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/used-ancient-gate-empire-beyond-dusk-cassette) for $8.00 :: Cassette Tape 2021
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=41508&sort=pd.name&order=ASC) for $8.00

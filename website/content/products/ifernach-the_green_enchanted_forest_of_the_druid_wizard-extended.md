@@ -1,5 +1,5 @@
 ---
-actualPrice: $12.00 - 15.00
+actualPrice: $12.00
 album: The Green Enchanted Forest of the Druid Wizard-Extended
 artist: Ifernach
 categories:
@@ -14,7 +14,4 @@ title: Ifernach - The Green Enchanted Forest of the Druid Wizard-Extended
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=30699&sort=pd.name&order=ASC) for $15.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=31414&sort=pd.name&order=ASC) for $15.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=41851&sort=pd.name&order=ASC) for $15.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=43495&sort=pd.name&order=ASC) for $12.00

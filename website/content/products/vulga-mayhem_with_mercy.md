@@ -1,5 +1,5 @@
 ---
-actualPrice: $8.00 - 17.00
+actualPrice: $8.00 - 9.60
 album: Mayhem with Mercy
 artist: Vulga
 categories:
@@ -15,8 +15,6 @@ title: Vulga - Mayhem with Mercy
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=10384&sort=pd.name&order=ASC) for $17.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=39019&sort=pd.name&order=ASC) for $15.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=41039&sort=pd.name&order=ASC) for $8.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=1939&sort=pd.name&order=ASC) for $9.60

@@ -1,5 +1,5 @@
 ---
-actualPrice: $9.60 - 12.00
+actualPrice: $9.60
 album: Too Loud to Live, Too Drunk to Die
 artist: Gehennah
 categories:
@@ -14,7 +14,4 @@ title: Gehennah - Too Loud to Live, Too Drunk to Die
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=20726&sort=pd.name&order=ASC) for $12.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=37406&sort=pd.name&order=ASC) for $12.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=37630&sort=pd.name&order=ASC) for $12.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=43163&sort=pd.name&order=ASC) for $9.60

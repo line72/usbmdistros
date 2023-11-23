@@ -1,5 +1,5 @@
 ---
-actualPrice: $16.25 - 25.00
+actualPrice: $16.25
 album: Butcher to the Devil's Court
 artist: Paimon Gate
 categories:
@@ -14,7 +14,4 @@ title: Paimon Gate - Butcher to the Devil's Court
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=37753&sort=pd.name&order=ASC) for $25.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=37929&sort=pd.name&order=ASC) for $25.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=38462&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=38736&sort=pd.name&order=ASC) for $16.25

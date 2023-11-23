@@ -1,5 +1,5 @@
 ---
-actualPrice: $4.80 - 6.00
+actualPrice: $4.80
 album: Condemnation
 artist: Christ Agony
 categories:
@@ -14,5 +14,4 @@ title: Christ Agony - Condemnation
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=1867&sort=pd.name&order=ASC) for $6.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=24890&sort=pd.name&order=ASC) for $4.80

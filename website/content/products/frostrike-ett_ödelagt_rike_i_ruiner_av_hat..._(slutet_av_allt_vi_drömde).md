@@ -1,5 +1,5 @@
 ---
-actualPrice: $18.00 - 25.00
+actualPrice: $18.00
 album: "Ett \xD6delagt Rike I Ruiner Av Hat... (Slutet Av Allt Vi Dr\xF6mde)"
 artist: Frostrike
 categories:
@@ -17,5 +17,4 @@ title: "Frostrike - Ett \xD6delagt Rike I Ruiner Av Hat... (Slutet Av Allt Vi Dr
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=15848&sort=pd.name&order=ASC) for $25.00
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/used-frostrike-ett-odelagt-rike-i-ruiner-av-hat-slutet-av-allt-vi-dromde-lp) for $18.00 :: Black 2020 press vinyl

@@ -1,5 +1,5 @@
 ---
-actualPrice: $8.00 - 15.00
+actualPrice: $8.00
 album: In Communion With Death
 artist: Burier
 categories:
@@ -14,7 +14,4 @@ title: Burier - In Communion With Death
 ---
 
 ## CD
-* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/burier-in-communion-with-death-cd) for $15.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=14471&sort=pd.name&order=ASC) for $10.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=26975&sort=pd.name&order=ASC) for $10.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=41575&sort=pd.name&order=ASC) for $8.00

@@ -1,10 +1,9 @@
 ---
-actualPrice: $7.50 - 16.00
+actualPrice: $16.00
 album: An Ode to Sin
 artist: Rites of Thy Degringolade
 categories:
 - Vinyl
-- CD
 date: '2023-11-23T18:42:30'
 draft: false
 images:
@@ -15,7 +14,4 @@ title: Rites of Thy Degringolade - An Ode to Sin
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=16115&sort=pd.name&order=ASC) for $15.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=34060&sort=pd.name&order=ASC) for $16.00
-## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=7677&sort=pd.name&order=ASC) for $7.50

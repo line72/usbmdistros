@@ -1,10 +1,9 @@
 ---
-actualPrice: $4.00 - 25.00
+actualPrice: $20.00
 album: No Retreat... No Surrender
 artist: Nocturnal Breed
 categories:
 - Vinyl
-- CD
 date: '2023-11-23T18:42:19'
 draft: false
 images:
@@ -15,9 +14,4 @@ title: Nocturnal Breed - No Retreat... No Surrender
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=19469&sort=pd.name&order=ASC) for $25.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=20404&sort=pd.name&order=ASC) for $25.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=30746&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=43572&sort=pd.name&order=ASC) for $20.00
-## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=2299&sort=pd.name&order=ASC) for $4.00

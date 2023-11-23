@@ -15,4 +15,3 @@ title: Moonblood - Angelwings in the Darkness DOUBLE
 
 ## CD
 * Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/moonblood-angelwings-in-the-darkness-double-cd/) for $16.00
-* Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/moonblood-angelwings-in-the-darkness-double-cd/) for $16.00

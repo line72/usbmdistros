@@ -1,5 +1,5 @@
 ---
-actualPrice: $20.00 - 25.00
+actualPrice: $20.00 - 23.00
 album: Lost Under the Stygian Shade
 artist: Vuajtje
 categories:
@@ -15,5 +15,4 @@ title: Vuajtje - Lost Under the Stygian Shade
 
 ## Vinyl
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/vuajtje-lost-under-the-stygian-shade-12-lp) for $23.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=39899&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=43017&sort=pd.name&order=ASC) for $20.00

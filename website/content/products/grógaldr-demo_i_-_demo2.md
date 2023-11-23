@@ -1,5 +1,5 @@
 ---
-actualPrice: $28.00 - 40.00
+actualPrice: $28.00
 album: Demo I / Demo2
 artist: "Gr\xF3galdr"
 categories:
@@ -14,7 +14,4 @@ title: "Gr\xF3galdr - Demo I / Demo2"
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=30060&sort=pd.name&order=ASC) for $40.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=33329&sort=pd.name&order=ASC) for $35.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=36885&sort=pd.name&order=ASC) for $35.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=38856&sort=pd.name&order=ASC) for $28.00

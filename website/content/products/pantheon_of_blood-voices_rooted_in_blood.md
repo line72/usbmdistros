@@ -1,5 +1,5 @@
 ---
-actualPrice: $20.00 - 24.00
+actualPrice: $20.00
 album: Voices Rooted in Blood
 artist: Pantheon of Blood
 categories:
@@ -14,5 +14,4 @@ title: Pantheon of Blood - Voices Rooted in Blood
 ---
 
 ## Vinyl
-* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/pantheon-of-blood-voices-rooted-in-blood-12-lp) for $24.00
 * Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/pantheon-of-blood-voices-rooted-in-blood-12-lp-red-marble/) for $20.00

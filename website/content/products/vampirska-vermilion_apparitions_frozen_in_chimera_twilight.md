@@ -1,9 +1,8 @@
 ---
-actualPrice: $15.00 - 33.00
+actualPrice: $15.00
 album: Vermilion Apparitions Frozen in Chimera Twilight
 artist: Vampirska
 categories:
-- Vinyl
 - CD
 date: '2022-09-24T05:01:22'
 draft: false
@@ -14,8 +13,5 @@ thumbnailImage: /images/covers/vampirska-vermilion_apparitions_frozen_in_chimera
 title: Vampirska - Vermilion Apparitions Frozen in Chimera Twilight
 ---
 
-## Vinyl
-* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/vampirska-vermilion-apparitions-frozen-in-chimera-twilight-12-lp) for $33.00
 ## CD
-* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/vampirska-vermilion-apparitions-frozen-in-chimera-twilight-cd) for $15.00
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/vampirska-vermilion-apparitions-frozen-in-chimera-twilight-cd) for $15.00

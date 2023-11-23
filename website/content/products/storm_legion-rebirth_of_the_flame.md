@@ -15,4 +15,3 @@ title: Storm Legion - Rebirth of the Flame
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=9300&sort=pd.name&order=ASC) for $8.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=26212&sort=pd.name&order=ASC) for $8.00

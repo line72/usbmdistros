@@ -1,5 +1,5 @@
 ---
-actualPrice: $25.00 - 29.00
+actualPrice: $29.00
 album: Adore
 artist: Numenorean
 categories:
@@ -14,5 +14,4 @@ title: Numenorean - Adore
 ---
 
 ## Vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/numenorean-adore-lp) for $25.00 :: Black 2019 press vinyl
 * Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/numenorean-adore-ltd-200-transparent-blue-lp-gatefold-colored) for $29.00 :: LTD 200 Transparent Blue LP Gatefold Colored

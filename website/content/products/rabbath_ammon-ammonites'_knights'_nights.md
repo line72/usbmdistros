@@ -15,5 +15,4 @@ title: Rabbath Ammon - Ammonites' Knights' Nights
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=1642&sort=pd.name&order=ASC) for $5.60
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=26126&sort=pd.name&order=ASC) for $8.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=36246&sort=pd.name&order=ASC) for $8.00

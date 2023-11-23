@@ -1,5 +1,5 @@
 ---
-actualPrice: $24.00 - 30.00
+actualPrice: $24.00
 album: History
 artist: Masochist
 categories:
@@ -14,5 +14,4 @@ title: Masochist - History
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=24232&sort=pd.name&order=ASC) for $30.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=35883&sort=pd.name&order=ASC) for $24.00

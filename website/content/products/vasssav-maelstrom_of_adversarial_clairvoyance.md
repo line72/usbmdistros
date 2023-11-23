@@ -1,5 +1,5 @@
 ---
-actualPrice: $9.60 - 10.00
+actualPrice: $9.60
 album: Maelstrom of Adversarial Clairvoyance
 artist: Vasssav
 categories:
@@ -14,5 +14,4 @@ title: Vasssav - Maelstrom of Adversarial Clairvoyance
 ---
 
 ## Cassette
-* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/vasssav-maelstrom-of-adversarial-clairvoyance-tape) for $10.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=20755&sort=pd.name&order=ASC) for $9.60

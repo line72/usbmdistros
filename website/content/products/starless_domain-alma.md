@@ -1,5 +1,5 @@
 ---
-actualPrice: $5.00 - 7.20
+actualPrice: $7.20
 album: Alma
 artist: Starless Domain
 categories:
@@ -15,4 +15,3 @@ title: Starless Domain - Alma
 
 ## Cassette
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=8501&sort=pd.name&order=ASC) for $7.20
-* Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/36371656-starless-domain-alma) for $5.00

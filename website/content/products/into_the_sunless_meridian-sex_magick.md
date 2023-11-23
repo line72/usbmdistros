@@ -1,5 +1,5 @@
 ---
-actualPrice: $9.60 - 10.00
+actualPrice: $9.60
 album: Sex Magick
 artist: Into the Sunless Meridian
 categories:
@@ -15,4 +15,3 @@ title: Into the Sunless Meridian - Sex Magick
 
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=35493&sort=pd.name&order=ASC) for $9.60
-* Purchase from [CW Productions](https://shop.cwproductions.net/products/into-the-sunless-meridian-sex-magick-cd) for $10.00

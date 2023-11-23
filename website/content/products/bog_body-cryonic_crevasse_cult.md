@@ -1,10 +1,9 @@
 ---
-actualPrice: $9.00 - 27.00
+actualPrice: $25.00 - 27.00
 album: Cryonic Crevasse Cult
 artist: Bog Body
 categories:
 - Vinyl
-- Cassette
 date: '2022-09-30T05:20:06'
 draft: false
 images:
@@ -17,5 +16,3 @@ title: Bog Body - Cryonic Crevasse Cult
 ## Vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/bog-body-cryonic-crevasse-cult-lp) for $27.00 :: Gold/Blue/Silver 1st press vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/bog-body-cryonic-crevasse-cult-lp) for $25.00 :: Black 1st press vinyl
-## Cassette
-* Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/36061048-bog-body-cryonic-crevasse-cult) for $9.00

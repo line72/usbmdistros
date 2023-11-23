@@ -1,5 +1,5 @@
 ---
-actualPrice: $20.00 - 25.00
+actualPrice: $25.00
 album: Walpurgisfeuer
 artist: Mjolnir
 categories:
@@ -14,5 +14,4 @@ title: Mjolnir - Walpurgisfeuer
 ---
 
 ## Vinyl
-* Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/mjolnir-walpurgisfeuer-12-lp/) for $20.00
 * Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/mjolnir-walpurgisfeuer-12-lp/) for $25.00

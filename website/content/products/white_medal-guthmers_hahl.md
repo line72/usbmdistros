@@ -1,9 +1,8 @@
 ---
-actualPrice: $6.75 - 12.00
+actualPrice: $9.60
 album: Guthmers Hahl
 artist: White Medal
 categories:
-- Cassette
 - CD
 date: '2023-11-23T18:44:36'
 draft: false
@@ -14,8 +13,5 @@ thumbnailImage: /images/covers/white_medal-guthmers_hahl-thumb.png
 title: White Medal - Guthmers Hahl
 ---
 
-## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=8961&sort=pd.name&order=ASC) for $6.75
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=8945&sort=pd.name&order=ASC) for $12.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=24778&sort=pd.name&order=ASC) for $9.60

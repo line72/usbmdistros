@@ -1,5 +1,5 @@
 ---
-actualPrice: $13.60 - 17.00
+actualPrice: $13.60
 album: "The Flame Of Eternity\u2019s Decline"
 artist: Khors
 categories:
@@ -14,5 +14,4 @@ title: "Khors - The Flame Of Eternity\u2019s Decline"
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=8998&sort=pd.name&order=ASC) for $17.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=43827&sort=pd.name&order=ASC) for $13.60

@@ -1,5 +1,5 @@
 ---
-actualPrice: $7.20 - 12.00
+actualPrice: $7.20
 album: Horizons
 artist: "C\xE9notaphe"
 categories:
@@ -14,8 +14,4 @@ title: "C\xE9notaphe - Horizons"
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=6986&sort=pd.name&order=ASC) for $12.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=9603&sort=pd.name&order=ASC) for $9.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=32635&sort=pd.name&order=ASC) for $12.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=32636&sort=pd.name&order=ASC) for $9.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=42863&sort=pd.name&order=ASC) for $7.20

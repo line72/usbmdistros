@@ -1,5 +1,5 @@
 ---
-actualPrice: $7.20 - 9.00
+actualPrice: $7.20
 album: ".\u200B.\u200B.\u200Bthus spoke death"
 artist: Predictor
 categories:
@@ -14,5 +14,4 @@ title: "Predictor - .\u200B.\u200B.\u200Bthus spoke death"
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=19616&sort=pd.name&order=ASC) for $9.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=28574&sort=pd.name&order=ASC) for $7.20

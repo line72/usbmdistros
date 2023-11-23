@@ -1,5 +1,5 @@
 ---
-actualPrice: $12.00 - 13.00
+actualPrice: $12.00
 album: Forget Everything And Remember - The Lost And Obscure 2xCD
 artist: Ultha
 categories:
@@ -14,5 +14,4 @@ title: Ultha - Forget Everything And Remember - The Lost And Obscure 2xCD
 ---
 
 ## CD
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/ultha-forget-everything-and-remember-the-lost-and-obscure-2xcd) for $13.00 :: CD 2022
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/ultha-forget-everything-and-remember-the-lost-and-obscure-2xcd-1) for $12.00 :: CD 2022

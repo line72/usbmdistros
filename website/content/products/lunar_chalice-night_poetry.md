@@ -1,5 +1,5 @@
 ---
-actualPrice: $9.60 - 12.00
+actualPrice: $9.60
 album: Night Poetry
 artist: Lunar Chalice
 categories:
@@ -14,5 +14,4 @@ title: Lunar Chalice - Night Poetry
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=37800&sort=pd.name&order=ASC) for $12.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=38074&sort=pd.name&order=ASC) for $9.60

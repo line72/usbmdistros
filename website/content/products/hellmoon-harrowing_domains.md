@@ -5,7 +5,7 @@ artist: Hellmoon
 categories:
 - Vinyl
 - Cassette
-date: '2023-10-05T06:32:27'
+date: '2023-07-14T05:05:01'
 draft: false
 images:
 - /images/covers/hellmoon-harrowing_domains.jpg
@@ -16,7 +16,5 @@ title: Hellmoon - Harrowing Domains
 
 ## Vinyl
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/hellmoon-harrowing-domains-12-lp) for $27.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=36889&sort=pd.name&order=ASC) for $27.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=41047&sort=pd.name&order=ASC) for $27.00
 ## Cassette
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/hellmoon-harrowing-domains-tape) for $10.00

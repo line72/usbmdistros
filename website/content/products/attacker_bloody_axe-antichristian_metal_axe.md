@@ -1,5 +1,5 @@
 ---
-actualPrice: $9.60 - 12.00
+actualPrice: $9.60
 album: Antichristian Metal Axe
 artist: Attacker Bloody Axe
 categories:
@@ -14,5 +14,4 @@ title: Attacker Bloody Axe - Antichristian Metal Axe
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=24812&sort=pd.name&order=ASC) for $12.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=35585&sort=pd.name&order=ASC) for $9.60

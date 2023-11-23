@@ -1,5 +1,5 @@
 ---
-actualPrice: $11.00 - 25.00
+actualPrice: $11.00 - 20.00
 album: Realm Of The Night
 artist: Chamber Of Unlight
 categories:
@@ -15,7 +15,6 @@ title: Chamber Of Unlight - Realm Of The Night
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=38658&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=41967&sort=pd.name&order=ASC) for $20.00
 ## CD
 * Purchase from [CW Productions](https://shop.cwproductions.net/products/chamber-of-unlight-realm-of-the-night-cd) for $11.00

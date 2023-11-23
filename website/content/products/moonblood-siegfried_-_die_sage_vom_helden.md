@@ -1,10 +1,9 @@
 ---
-actualPrice: $15.00 - 25.00
+actualPrice: $20.00
 album: Siegfried - Die Sage Vom Helden
 artist: Moonblood
 categories:
 - Vinyl
-- CD
 date: '2023-11-23T18:42:13'
 draft: false
 images:
@@ -15,16 +14,4 @@ title: Moonblood - Siegfried - Die Sage Vom Helden
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=22920&sort=pd.name&order=ASC) for $25.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=23292&sort=pd.name&order=ASC) for $25.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=24633&sort=pd.name&order=ASC) for $25.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=24964&sort=pd.name&order=ASC) for $25.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=28804&sort=pd.name&order=ASC) for $25.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29298&sort=pd.name&order=ASC) for $25.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=33450&sort=pd.name&order=ASC) for $25.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=35829&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=37371&sort=pd.name&order=ASC) for $20.00
-## CD
-* Purchase from [CW Productions](https://shop.cwproductions.net/products/moonblood-siegfried-die-sage-vom-helden-cd) for $15.00
-* Purchase from [CW Productions](https://shop.cwproductions.net/products/moonblood-siegfried-die-sage-vom-helden-cd-1) for $15.00
-* Purchase from [CW Productions](https://shop.cwproductions.net/products/moonblood-siegfried-die-sage-vom-helden-cd-2) for $15.00

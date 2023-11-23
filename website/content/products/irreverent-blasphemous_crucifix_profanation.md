@@ -1,5 +1,5 @@
 ---
-actualPrice: $8.00 - 10.00
+actualPrice: $8.00
 album: Blasphemous Crucifix Profanation
 artist: Irreverent
 categories:
@@ -15,5 +15,3 @@ title: Irreverent - Blasphemous Crucifix Profanation
 
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=10507&sort=pd.name&order=ASC) for $8.00
-* Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/irreverent-blasphemous-crucifix-profanation-cd/) for $10.00
-* Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/irreverent-blasphemous-crucifix-profanation-cd-ssp-version/) for $8.00

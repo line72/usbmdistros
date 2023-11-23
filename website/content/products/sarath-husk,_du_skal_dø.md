@@ -1,5 +1,5 @@
 ---
-actualPrice: $15.00 - 16.00
+actualPrice: $16.00
 album: "Husk, Du Skal D\xF8"
 artist: Sarath
 categories:
@@ -14,5 +14,4 @@ title: "Sarath - Husk, Du Skal D\xF8"
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=23855&sort=pd.name&order=ASC) for $15.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=38544&sort=pd.name&order=ASC) for $16.00

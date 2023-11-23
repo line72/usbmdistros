@@ -1,5 +1,5 @@
 ---
-actualPrice: $24.00 - 30.00
+actualPrice: $24.00
 album: Massive Terrestrial Strike
 artist: Urgehal
 categories:
@@ -14,6 +14,4 @@ title: Urgehal - Massive Terrestrial Strike
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=33993&sort=pd.name&order=ASC) for $30.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=34707&sort=pd.name&order=ASC) for $30.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=34816&sort=pd.name&order=ASC) for $24.00

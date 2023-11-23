@@ -1,5 +1,5 @@
 ---
-actualPrice: $20.00 - 25.00
+actualPrice: $20.00
 album: Frozen Tears of a Vampire - Rehearsal 3 1995
 artist: Moonblood
 categories:
@@ -14,6 +14,4 @@ title: Moonblood - Frozen Tears of a Vampire - Rehearsal 3 1995
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=33455&sort=pd.name&order=ASC) for $25.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=35833&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=37366&sort=pd.name&order=ASC) for $20.00

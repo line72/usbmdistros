@@ -1,5 +1,5 @@
 ---
-actualPrice: $9.00 - 12.00
+actualPrice: $12.00
 album: Murmurs with the Decapitated
 artist: Forlorn Winds
 categories:
@@ -14,6 +14,4 @@ title: Forlorn Winds - Murmurs with the Decapitated
 ---
 
 ## CD
-* Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/forlorn-winds-murmurs-with-the-decapitated-cd/) for $10.00
-* Purchase from [CW Productions](https://shop.cwproductions.net/products/forlorn-winds-murmurs-with-the-decapitated-cd) for $9.00
 * Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/forlorn-winds-murmurs-with-the-decapitated-cd/) for $12.00

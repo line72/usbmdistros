@@ -1,5 +1,5 @@
 ---
-actualPrice: $9.60 - 12.00
+actualPrice: $9.60
 album: The Black Flame Still Burning
 artist: Bafomet
 categories:
@@ -14,5 +14,4 @@ title: Bafomet - The Black Flame Still Burning
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=20742&sort=pd.name&order=ASC) for $12.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=23381&sort=pd.name&order=ASC) for $9.60

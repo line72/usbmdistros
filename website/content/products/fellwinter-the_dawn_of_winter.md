@@ -1,5 +1,5 @@
 ---
-actualPrice: $12.00 - 13.00
+actualPrice: $12.00
 album: The Dawn of Winter
 artist: Fellwinter
 categories:
@@ -14,5 +14,4 @@ title: Fellwinter - The Dawn of Winter
 ---
 
 ## CD
-* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/fellwinter-the-dawn-of-winter-cd) for $13.00
 * Purchase from [CW Productions](https://shop.cwproductions.net/products/fellwinter-the-dawn-of-winter-cd) for $12.00

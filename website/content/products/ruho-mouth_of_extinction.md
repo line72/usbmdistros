@@ -1,5 +1,5 @@
 ---
-actualPrice: $10.00 - 17.00
+actualPrice: $10.00
 album: Mouth of Extinction
 artist: Ruho
 categories:
@@ -15,7 +15,6 @@ title: Ruho - Mouth of Extinction
 ---
 
 ## Vinyl
-* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/ruho-mouth-of-extinction-12-mlp) for $17.00
 * Purchase from [CW Productions](https://shop.cwproductions.net/products/ruho-mouth-of-extinction-lp) for $10.00
 ## CD
 * Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/ruho-mouth-of-extinction-cd-in-cloth-bag/) for $10.00

@@ -1,5 +1,5 @@
 ---
-actualPrice: $6.40 - 8.00
+actualPrice: $6.40
 album: Buried, Forgotten
 artist: AYM
 categories:
@@ -14,5 +14,4 @@ title: AYM - Buried, Forgotten
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=11143&sort=pd.name&order=ASC) for $8.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=41515&sort=pd.name&order=ASC) for $6.40

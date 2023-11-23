@@ -1,5 +1,5 @@
 ---
-actualPrice: $10.00 - 20.00
+actualPrice: $13.00 - 20.00
 album: Life Of A Purist
 artist: "Ud\xE5nde"
 categories:
@@ -17,5 +17,4 @@ title: "Ud\xE5nde - Life Of A Purist"
 ## Vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/udande-life-of-a-purist-lp) for $20.00 :: Blue 2nd press vinyl
 ## CD
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/udande-life-of-a-purist-cd) for $10.00 :: CD 2021
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/udande-life-of-a-purist-cd-1) for $13.00 :: CD 2021

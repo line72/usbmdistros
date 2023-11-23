@@ -1,10 +1,9 @@
 ---
-actualPrice: $8.50 - 18.00
+actualPrice: $16.00
 album: 'Ecce Homo: Post Lux Tenebras, Pulsio XIII Ultima Ratio'
 artist: Godless
 categories:
 - Vinyl
-- Cassette
 date: '2023-11-23T18:41:50'
 draft: false
 images:
@@ -15,7 +14,4 @@ title: 'Godless - Ecce Homo: Post Lux Tenebras, Pulsio XIII Ultima Ratio'
 ---
 
 ## Vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/godless-ecce-homo-post-lux-tenebras-pulsio-xiii-ultima-ratio) for $18.00 :: Black 1st press vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=41522&sort=pd.name&order=ASC) for $16.00
-## Cassette
-* Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/34911028-godless-ecce-homo-post-lux-tenebras-pulsio-xiii-ultima-ratio) for $8.50

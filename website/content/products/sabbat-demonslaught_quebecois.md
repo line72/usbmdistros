@@ -1,5 +1,5 @@
 ---
-actualPrice: $6.40 - 8.00
+actualPrice: $6.40
 album: Demonslaught Quebecois
 artist: Sabbat
 categories:
@@ -14,7 +14,4 @@ title: Sabbat - Demonslaught Quebecois
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=10754&sort=pd.name&order=ASC) for $8.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=20586&sort=pd.name&order=ASC) for $8.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=21456&sort=pd.name&order=ASC) for $8.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=26424&sort=pd.name&order=ASC) for $6.40

@@ -1,5 +1,5 @@
 ---
-actualPrice: $9.60 - 12.00
+actualPrice: $9.60
 album: Baphohearsals
 artist: Forbidden Temple
 categories:
@@ -14,5 +14,4 @@ title: Forbidden Temple - Baphohearsals
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=28026&sort=pd.name&order=ASC) for $12.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=28472&sort=pd.name&order=ASC) for $9.60

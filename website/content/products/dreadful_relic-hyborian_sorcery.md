@@ -1,5 +1,5 @@
 ---
-actualPrice: $10.00 - 11.00
+actualPrice: $10.00
 album: Hyborian Sorcery
 artist: Dreadful Relic
 categories:
@@ -14,5 +14,4 @@ title: Dreadful Relic - Hyborian Sorcery
 ---
 
 ## CD
-* Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/dreadful-relic-hyborian-sorcery-cd/) for $11.00
 * Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/dreadful-relic-hyborian-sorcery-cd/) for $10.00

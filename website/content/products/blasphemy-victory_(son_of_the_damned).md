@@ -1,5 +1,5 @@
 ---
-actualPrice: $7.80 - 12.00
+actualPrice: $7.80
 album: Victory (Son of the Damned)
 artist: Blasphemy
 categories:
@@ -14,6 +14,4 @@ title: Blasphemy - Victory (Son of the Damned)
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=15474&sort=pd.name&order=ASC) for $9.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=26005&sort=pd.name&order=ASC) for $12.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=27542&sort=pd.name&order=ASC) for $7.80

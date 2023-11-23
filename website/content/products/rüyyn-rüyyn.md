@@ -1,5 +1,5 @@
 ---
-actualPrice: $20.00 - 25.00
+actualPrice: $20.00
 album: "R\xFCYYn"
 artist: "R\xFCYYn"
 categories:
@@ -14,5 +14,4 @@ title: "R\xFCYYn - R\xFCYYn"
 ---
 
 ## Vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/ruyyn-ruyyn-lp) for $25.00 :: Black 2021 press vinyl
 * Purchase from [Sto'Vo'Kor Records](https://stovokor-records.com/products/ruyyn-ruyyn) for $20.00

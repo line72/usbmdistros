@@ -1,5 +1,5 @@
 ---
-actualPrice: $6.40 - 17.00
+actualPrice: $6.40
 album: "Karhun l\xE4hde / Siniaaltoja ja singulariteetteja"
 artist: Abyssion
 categories:
@@ -14,5 +14,4 @@ title: "Abyssion - Karhun l\xE4hde / Siniaaltoja ja singulariteetteja"
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=4023&sort=pd.name&order=ASC) for $17.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=39692&sort=pd.name&order=ASC) for $6.40

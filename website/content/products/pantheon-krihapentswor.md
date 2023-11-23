@@ -1,5 +1,5 @@
 ---
-actualPrice: $12.00 - 15.00
+actualPrice: $12.00
 album: Krihapentswor
 artist: Pantheon
 categories:
@@ -14,5 +14,4 @@ title: Pantheon - Krihapentswor
 ---
 
 ## CD
-* Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/pantheon-krihapentswor-cd/) for $15.00
 * Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/pantheon-krihapentswor-cd/) for $12.00

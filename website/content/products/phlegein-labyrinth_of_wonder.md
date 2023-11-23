@@ -1,5 +1,5 @@
 ---
-actualPrice: $5.00 - 25.00
+actualPrice: $10.00 - 20.00
 album: Labyrinth of Wonder
 artist: Phlegein
 categories:
@@ -15,12 +15,6 @@ title: Phlegein - Labyrinth of Wonder
 ---
 
 ## Vinyl
-* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/phlegein-labyrinth-of-wonder-12-lp) for $23.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=20117&sort=pd.name&order=ASC) for $25.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=22109&sort=pd.name&order=ASC) for $25.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=27484&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29931&sort=pd.name&order=ASC) for $20.00
 ## CD
-* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/phlegein-labyrinth-of-wonder-cd) for $14.00
-* Purchase from [CW Productions](https://shop.cwproductions.net/products/phlegein-labyrinth-of-wonder-cd) for $5.00
 * Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/7119/) for $10.00

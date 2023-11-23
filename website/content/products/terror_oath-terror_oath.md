@@ -1,5 +1,5 @@
 ---
-actualPrice: $9.60 - 17.00
+actualPrice: $9.60
 album: Terror Oath
 artist: Terror Oath
 categories:
@@ -14,5 +14,4 @@ title: Terror Oath - Terror Oath
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=4910&sort=pd.name&order=ASC) for $17.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=39464&sort=pd.name&order=ASC) for $9.60

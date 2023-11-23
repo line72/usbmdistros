@@ -1,5 +1,5 @@
 ---
-actualPrice: $20.00 - 25.00
+actualPrice: $20.00
 album: Among the Cloud-Graves
 artist: Varcolaci
 categories:
@@ -14,5 +14,4 @@ title: Varcolaci - Among the Cloud-Graves
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=34969&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=35078&sort=pd.name&order=ASC) for $20.00

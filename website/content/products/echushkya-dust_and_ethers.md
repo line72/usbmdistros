@@ -1,5 +1,5 @@
 ---
-actualPrice: $24.00 - 30.00
+actualPrice: $24.00 - 27.00
 album: Dust and Ethers
 artist: Echushkya
 categories:
@@ -14,7 +14,5 @@ title: Echushkya - Dust and Ethers
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=39798&sort=pd.name&order=ASC) for $30.00
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/echushkya-dust-and-ethers-12-lp) for $27.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=39903&sort=pd.name&order=ASC) for $30.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=41429&sort=pd.name&order=ASC) for $24.00

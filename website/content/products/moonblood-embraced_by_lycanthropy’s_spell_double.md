@@ -15,4 +15,3 @@ title: "Moonblood - Embraced by Lycanthropy\u2019s Spell DOUBLE"
 
 ## CD
 * Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/moonblood-embraced-by-lycanthropys-spell-double-cd/) for $16.00
-* Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/moonblood-embraced-by-lycanthropys-spell-double-cd/) for $16.00

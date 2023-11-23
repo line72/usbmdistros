@@ -1,9 +1,8 @@
 ---
-actualPrice: $9.00 - 30.00
+actualPrice: $9.00
 album: My Dark Perpetual Winter
 artist: Mons Veneris
 categories:
-- Vinyl
 - CD
 date: '2022-07-15T05:00:22'
 draft: false
@@ -14,8 +13,5 @@ thumbnailImage: /images/covers/mons_veneris-my_dark_perpetual_winter-thumb.jpg
 title: Mons Veneris - My Dark Perpetual Winter
 ---
 
-## Vinyl
-* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/mons-veneris-my-dark-perpetual-winter-12) for $30.00
 ## CD
-* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/mons-veneris-my-dark-perpetual-winter-cd-patch) for $11.00
 * Purchase from [Sto'Vo'Kor Records](https://stovokor-records.com/products/mons-veneris-my-dark-perpetual-winter) for $9.00

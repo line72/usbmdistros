@@ -1,5 +1,5 @@
 ---
-actualPrice: $6.50 - 20.00
+actualPrice: $6.50
 album: The Day of Pariah
 artist: Dark Opera
 categories:
@@ -14,6 +14,4 @@ title: Dark Opera - The Day of Pariah
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=13855&sort=pd.name&order=ASC) for $20.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=24255&sort=pd.name&order=ASC) for $20.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=41783&sort=pd.name&order=ASC) for $6.50

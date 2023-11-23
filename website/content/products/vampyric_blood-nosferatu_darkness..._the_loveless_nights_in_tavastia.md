@@ -15,9 +15,6 @@ title: Vampyric Blood - Nosferatu Darkness... the Loveless Nights in Tavastia
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=35454&sort=pd.name&order=ASC) for $25.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=35864&sort=pd.name&order=ASC) for $25.00
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/vampyric-blood-nosferatu-darkness-the-loveless-nights-in-tavastia-12-lp) for $26.00
 ## CD
-* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/vampyric-blood-nosferatu-darkness-the-loveless-nights-in-tavastia-cd) for $13.00
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/vampyric-blood-nosferatu-darkness-the-loveless-nights-in-tavastia-cd) for $13.00

@@ -1,5 +1,5 @@
 ---
-actualPrice: $23.00 - 25.00
+actualPrice: $25.00
 album: The Contagion In Nine Steps
 artist: Lychgate
 categories:
@@ -14,5 +14,4 @@ title: Lychgate - The Contagion In Nine Steps
 ---
 
 ## Vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/lychgate-the-contagion-in-nine-steps-lp) for $23.00 :: Black 1st press vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/lychgate-the-contagion-in-nine-steps-lp) for $25.00 :: Black 1st press vinyl

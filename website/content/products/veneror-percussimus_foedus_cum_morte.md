@@ -15,7 +15,6 @@ title: Veneror - Percussimus Foedus Cum Morte
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=2071&sort=pd.name&order=ASC) for $5.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=39401&sort=pd.name&order=ASC) for $6.40
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=1987&sort=pd.name&order=ASC) for $4.00

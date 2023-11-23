@@ -1,5 +1,5 @@
 ---
-actualPrice: $16.00 - 20.00
+actualPrice: $16.00
 album: The Land Where Evil Dwells
 artist: Malefic Oath
 categories:
@@ -14,5 +14,4 @@ title: Malefic Oath - The Land Where Evil Dwells
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=26493&sort=pd.name&order=ASC) for $20.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29851&sort=pd.name&order=ASC) for $16.00

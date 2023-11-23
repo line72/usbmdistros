@@ -1,5 +1,5 @@
 ---
-actualPrice: $13.60 - 16.00
+actualPrice: $13.60
 album: "Kun V\xE4istyy Aika Ihmisen"
 artist: Musta Kappeli
 categories:
@@ -15,4 +15,3 @@ title: "Musta Kappeli - Kun V\xE4istyy Aika Ihmisen"
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=4020&sort=pd.name&order=ASC) for $13.60
-* Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/musta-kappeli-kun-vaistyy-aika-ihmisen-12-lp/) for $16.00

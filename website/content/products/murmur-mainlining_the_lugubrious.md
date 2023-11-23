@@ -1,5 +1,5 @@
 ---
-actualPrice: $16.00 - 32.00
+actualPrice: $16.00 - 28.00
 album: Mainlining the Lugubrious
 artist: Murmur
 categories:
@@ -16,7 +16,3 @@ title: Murmur - Mainlining the Lugubrious
 ## Vinyl
 * Purchase from [Sto'Vo'Kor Records](https://stovokor-records.com/products/murmur-mainlining-the-lugubrious) for $28.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=16607&sort=pd.name&order=ASC) for $16.00
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/murmur-mainlining-the-lugubrious-lp) for $29.00 :: Black 1st press vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/murmur-mainlining-the-lugubrious-lp) for $32.00 :: Red/Black Splatter 1st press vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/murmur-mainlining-the-lugubrious-lp-1) for $20.00 :: Black 1st press vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/murmur-mainlining-the-lugubrious-lp-1) for $22.00 :: Red/Black Splatter 1st press vinyl

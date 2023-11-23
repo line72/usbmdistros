@@ -19,4 +19,3 @@ title: "Arkhaaik - *d\u02B0g\u0311\u02B0m\u0325to\u0301s"
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=5676&sort=pd.name&order=ASC) for $13.60
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=5717&sort=pd.name&order=ASC) for $8.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=14674&sort=pd.name&order=ASC) for $10.00

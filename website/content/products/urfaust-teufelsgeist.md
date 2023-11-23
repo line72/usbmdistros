@@ -14,6 +14,5 @@ title: Urfaust - Teufelsgeist
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=20989&sort=pd.name&order=ASC) for $25.00
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/urfaust-teufelsgeist-lp) for $25.00 :: Off-White 2022 press vinyl
 * Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/urfaust-teufelsgeist-dark-red-smoke-vinyl-lp) for $31.00 :: Dark Red Smoke Vinyl LP

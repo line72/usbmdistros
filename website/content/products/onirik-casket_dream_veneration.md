@@ -1,5 +1,5 @@
 ---
-actualPrice: $12.00 - 25.00
+actualPrice: $14.40
 album: Casket Dream Veneration
 artist: Onirik
 categories:
@@ -14,6 +14,4 @@ title: Onirik - Casket Dream Veneration
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=21902&sort=pd.name&order=ASC) for $25.00
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/used-onirik-casket-dream-veneration-lp) for $12.00 :: Black 2016 press vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=39756&sort=pd.name&order=ASC) for $14.40

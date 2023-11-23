@@ -1,10 +1,9 @@
 ---
-actualPrice: $8.00 - 20.00
+actualPrice: $11.00 - 16.00
 album: Of Sleep And Death
 artist: Transilvania
 categories:
 - Vinyl
-- Cassette
 - CD
 date: '2023-11-23T18:42:47'
 draft: false
@@ -16,11 +15,6 @@ title: Transilvania - Of Sleep And Death
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=17638&sort=pd.name&order=ASC) for $20.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=19384&sort=pd.name&order=ASC) for $16.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=41157&sort=pd.name&order=ASC) for $16.00
-## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=17501&sort=pd.name&order=ASC) for $8.00
-* Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/34326061-transilvania-of-sleep-and-death) for $8.00
 ## CD
 * Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/34326091-transilvania-of-sleep-and-death-cd) for $11.00

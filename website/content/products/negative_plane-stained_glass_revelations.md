@@ -1,5 +1,5 @@
 ---
-actualPrice: $8.00 - 30.00
+actualPrice: $12.00 - 24.00
 album: Stained Glass Revelations
 artist: Negative Plane
 categories:
@@ -15,9 +15,6 @@ title: Negative Plane - Stained Glass Revelations
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=28158&sort=pd.name&order=ASC) for $30.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=30189&sort=pd.name&order=ASC) for $30.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=42575&sort=pd.name&order=ASC) for $24.00
 ## CD
-* Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/negative-plane-stained-glass-revelations-cd/) for $8.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=28157&sort=pd.name&order=ASC) for $12.00

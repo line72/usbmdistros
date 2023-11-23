@@ -1,5 +1,5 @@
 ---
-actualPrice: $6.00 - 12.00
+actualPrice: $12.00
 album: Avgrundens Konst
 artist: Kaos Sacramentum
 categories:
@@ -14,6 +14,4 @@ title: Kaos Sacramentum - Avgrundens Konst
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=4697&sort=pd.name&order=ASC) for $12.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=4672&sort=pd.name&order=ASC) for $6.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=27929&sort=pd.name&order=ASC) for $12.00

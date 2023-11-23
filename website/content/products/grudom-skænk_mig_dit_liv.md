@@ -1,5 +1,5 @@
 ---
-actualPrice: $9.60 - 12.00
+actualPrice: $9.60
 album: "Sk\xE6nk Mig Dit Liv"
 artist: Grudom
 categories:
@@ -14,5 +14,4 @@ title: "Grudom - Sk\xE6nk Mig Dit Liv"
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=33298&sort=pd.name&order=ASC) for $12.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=40276&sort=pd.name&order=ASC) for $9.60

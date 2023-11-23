@@ -1,5 +1,5 @@
 ---
-actualPrice: $8.00 - 17.00
+actualPrice: $8.00
 album: Sathanas Supreme
 artist: STYGGMYR
 categories:
@@ -14,6 +14,4 @@ title: STYGGMYR - Sathanas Supreme
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=10816&sort=pd.name&order=ASC) for $17.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=38953&sort=pd.name&order=ASC) for $15.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=39413&sort=pd.name&order=ASC) for $8.00

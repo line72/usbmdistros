@@ -1,5 +1,5 @@
 ---
-actualPrice: $5.25 - 7.20
+actualPrice: $7.20
 album: Pandemic Winds
 artist: Wald Krypta
 categories:
@@ -14,5 +14,4 @@ title: Wald Krypta - Pandemic Winds
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=3000&sort=pd.name&order=ASC) for $5.25
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=21047&sort=pd.name&order=ASC) for $7.20

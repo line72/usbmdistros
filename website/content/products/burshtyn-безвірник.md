@@ -16,5 +16,4 @@ title: "Burshtyn - \u0411\u0435\u0437\u0432\u0456\u0440\u043D\u0438\u043A"
 ---
 
 ## Vinyl
-* Purchase from [CW Productions](https://shop.cwproductions.net/products/burshtyn-безвірник-lp) for $25.00
 * Purchase from [CW Productions](https://shop.cwproductions.net/products/burshtyn-безвірник-lp-1) for $25.00

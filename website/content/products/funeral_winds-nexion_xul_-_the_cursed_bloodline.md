@@ -14,5 +14,4 @@ title: Funeral Winds - Nexion Xul - The Cursed Bloodline
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=27507&sort=pd.name&order=ASC) for $20.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29784&sort=pd.name&order=ASC) for $20.00

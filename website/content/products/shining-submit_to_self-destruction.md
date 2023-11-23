@@ -1,5 +1,5 @@
 ---
-actualPrice: $11.20 - 14.00
+actualPrice: $11.20
 album: Submit to Self-Destruction
 artist: Shining
 categories:
@@ -14,5 +14,4 @@ title: Shining - Submit to Self-Destruction
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=8401&sort=pd.name&order=ASC) for $14.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=26618&sort=pd.name&order=ASC) for $11.20

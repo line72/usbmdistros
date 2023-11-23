@@ -1,5 +1,5 @@
 ---
-actualPrice: $6.40 - 20.00
+actualPrice: $6.40 - 16.00
 album: Morbus Animus
 artist: Martwa Aura
 categories:
@@ -15,8 +15,6 @@ title: Martwa Aura - Morbus Animus
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=12025&sort=pd.name&order=ASC) for $20.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=26753&sort=pd.name&order=ASC) for $16.00
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=11920&sort=pd.name&order=ASC) for $8.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=26754&sort=pd.name&order=ASC) for $6.40

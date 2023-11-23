@@ -1,5 +1,5 @@
 ---
-actualPrice: $13.60 - 17.00
+actualPrice: $13.60
 album: A Shaman Steering The Vessel Of Vastness
 artist: Thralldom
 categories:
@@ -14,5 +14,4 @@ title: Thralldom - A Shaman Steering The Vessel Of Vastness
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=13334&sort=pd.name&order=ASC) for $17.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=40191&sort=pd.name&order=ASC) for $13.60

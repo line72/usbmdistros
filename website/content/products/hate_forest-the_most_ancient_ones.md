@@ -1,5 +1,5 @@
 ---
-actualPrice: $10.00 - 25.00
+actualPrice: $12.00 - 22.00
 album: The Most Ancient Ones
 artist: Hate Forest
 categories:
@@ -15,13 +15,7 @@ title: Hate Forest - The Most Ancient Ones
 ---
 
 ## Vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/hate-forest-the-most-ancient-ones-12) for $25.00 :: Silver 2021 press vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=25005&sort=pd.name&order=ASC) for $25.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=25058&sort=pd.name&order=ASC) for $25.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=30308&sort=pd.name&order=ASC) for $25.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=32163&sort=pd.name&order=ASC) for $25.00
 * Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/hate-forest-the-most-ancient-ones-12-lp-silver/) for $21.00
 * Purchase from [Sto'Vo'Kor Records](https://stovokor-records.com/products/hate-forest-the-most-ancient-ones) for $22.00
 ## CD
-* Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/hate-forest-the-most-ancient-ones-cd/) for $10.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=34615&sort=pd.name&order=ASC) for $12.00

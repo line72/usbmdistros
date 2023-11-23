@@ -1,5 +1,5 @@
 ---
-actualPrice: $4.55 - 10.00
+actualPrice: $7.80
 album: Lone Pine
 artist: Sacriphyx
 categories:
@@ -14,6 +14,4 @@ title: Sacriphyx - Lone Pine
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=26349&sort=pd.name&order=ASC) for $4.55
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=26350&sort=pd.name&order=ASC) for $10.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=26351&sort=pd.name&order=ASC) for $7.80

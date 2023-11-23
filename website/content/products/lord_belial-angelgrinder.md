@@ -15,7 +15,6 @@ title: Lord Belial - Angelgrinder
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=28895&sort=pd.name&order=ASC) for $25.00
 * Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/lord-belial-angelgrinder-splatter-vinyl-lp) for $27.98 :: Splatter Vinyl LP
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=42140&sort=pd.name&order=ASC) for $9.60

@@ -1,10 +1,9 @@
 ---
-actualPrice: $12.00 - 20.00
+actualPrice: $20.00
 album: At the End of a New Age
 artist: Krolok
 categories:
 - Vinyl
-- CD
 date: '2023-11-23T18:42:02'
 draft: false
 images:
@@ -16,5 +15,3 @@ title: Krolok - At the End of a New Age
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=35007&sort=pd.name&order=ASC) for $20.00
-## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=27914&sort=pd.name&order=ASC) for $12.00

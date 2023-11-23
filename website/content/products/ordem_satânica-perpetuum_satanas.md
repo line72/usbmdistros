@@ -1,10 +1,9 @@
 ---
-actualPrice: $13.00 - 27.00
+actualPrice: $27.00
 album: Perpetuum Satanas
 artist: "Ordem Sat\xE2nica"
 categories:
 - Vinyl
-- Cassette
 date: '2023-04-21T05:01:06'
 draft: false
 images:
@@ -16,5 +15,3 @@ title: "Ordem Sat\xE2nica - Perpetuum Satanas"
 
 ## Vinyl
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/ordem-satanica-perpetuum-satanas-12-lp) for $27.00
-## Cassette
-* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/ordem-satanica-perpetuum-satanas-tape) for $13.00

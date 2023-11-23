@@ -1,5 +1,5 @@
 ---
-actualPrice: $9.60 - 12.00
+actualPrice: $9.60
 album: The Mystery of the Lord Satan
 artist: Mayhem
 categories:
@@ -14,5 +14,4 @@ title: Mayhem - The Mystery of the Lord Satan
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=39510&sort=pd.name&order=ASC) for $12.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=41586&sort=pd.name&order=ASC) for $9.60

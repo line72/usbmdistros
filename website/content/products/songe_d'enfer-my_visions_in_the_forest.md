@@ -1,5 +1,5 @@
 ---
-actualPrice: $24.00 - 30.00
+actualPrice: $24.00
 album: My Visions in the Forest
 artist: Songe d'Enfer
 categories:
@@ -14,5 +14,4 @@ title: Songe d'Enfer - My Visions in the Forest
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=33072&sort=pd.name&order=ASC) for $30.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=42754&sort=pd.name&order=ASC) for $24.00

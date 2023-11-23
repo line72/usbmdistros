@@ -1,5 +1,5 @@
 ---
-actualPrice: $21.60 - 27.00
+actualPrice: $21.60
 album: Hidden In The Darkness Of Fallen Mastery
 artist: The Gloomy Radiance of the Moon
 categories:
@@ -14,5 +14,4 @@ title: The Gloomy Radiance of the Moon - Hidden In The Darkness Of Fallen Master
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=43009&sort=pd.name&order=ASC) for $27.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=43082&sort=pd.name&order=ASC) for $21.60

@@ -1,5 +1,5 @@
 ---
-actualPrice: $20.00 - 25.00
+actualPrice: $20.00
 album: Ancient Songs of the Wind
 artist: Eskapism
 categories:
@@ -14,5 +14,4 @@ title: Eskapism - Ancient Songs of the Wind
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=18049&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=39480&sort=pd.name&order=ASC) for $20.00

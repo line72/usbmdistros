@@ -1,5 +1,5 @@
 ---
-actualPrice: $8.00 - 12.00
+actualPrice: $8.00
 album: Live Ersanguination
 artist: Horned Almighty
 categories:
@@ -14,6 +14,4 @@ title: Horned Almighty - Live Ersanguination
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=1119&sort=pd.name&order=ASC) for $9.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=19033&sort=pd.name&order=ASC) for $12.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=40420&sort=pd.name&order=ASC) for $8.00

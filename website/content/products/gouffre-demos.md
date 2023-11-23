@@ -1,5 +1,5 @@
 ---
-actualPrice: $21.60 - 27.00
+actualPrice: $21.60
 album: Demos
 artist: Gouffre
 categories:
@@ -14,6 +14,4 @@ title: Gouffre - Demos
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=30192&sort=pd.name&order=ASC) for $27.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=32076&sort=pd.name&order=ASC) for $27.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=42662&sort=pd.name&order=ASC) for $21.60

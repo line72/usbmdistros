@@ -14,5 +14,4 @@ title: Suffering Hour - The Cyclic Reckoning
 ---
 
 ## Vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/suffering-hour-the-cyclic-reckoning) for $25.00 :: Clear 2nd press vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/suffering-hour-the-cyclic-reckoning-lp) for $25.00 :: Clear 2nd press vinyl

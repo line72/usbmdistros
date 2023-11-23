@@ -1,5 +1,5 @@
 ---
-actualPrice: $1.30 - 5.00
+actualPrice: $1.30
 album: Insignificance
 artist: Knelt Rote
 categories:
@@ -14,5 +14,4 @@ title: Knelt Rote - Insignificance
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=3044&sort=pd.name&order=ASC) for $5.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=25640&sort=pd.name&order=ASC) for $1.30

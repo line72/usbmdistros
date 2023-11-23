@@ -14,5 +14,4 @@ title: Aristarchos - S/T
 ---
 
 ## Cassette
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/aristarchos-s-t-cassette) for $11.00 :: Cassette Tape 1st press
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/aristarchos-s-t-cassette-1) for $11.00 :: Cassette Tape 1st press

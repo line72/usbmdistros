@@ -1,5 +1,5 @@
 ---
-actualPrice: $9.00 - 10.00
+actualPrice: $9.00
 album: Eschatological Horrors
 artist: Cromlech
 categories:
@@ -14,5 +14,4 @@ title: Cromlech - Eschatological Horrors
 ---
 
 ## Cassette
-* Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/36091624-cromlech-eschatological-horrors) for $10.00
 * Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/36466397-cromlech-eschatological-horrors) for $9.00

@@ -1,9 +1,8 @@
 ---
-actualPrice: $11.25 - 30.00
+actualPrice: $12.00
 album: Necromantic Doom Returns
 artist: Mortuary Drape
 categories:
-- Vinyl
 - CD
 date: '2023-11-23T18:44:06'
 draft: false
@@ -14,12 +13,5 @@ thumbnailImage: /images/covers/mortuary_drape-necromantic_doom_returns-thumb.jpg
 title: Mortuary Drape - Necromantic Doom Returns
 ---
 
-## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=16915&sort=pd.name&order=ASC) for $30.00
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=8357&sort=pd.name&order=ASC) for $11.25
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=38316&sort=pd.name&order=ASC) for $15.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=39969&sort=pd.name&order=ASC) for $15.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=42198&sort=pd.name&order=ASC) for $15.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=42948&sort=pd.name&order=ASC) for $15.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=43435&sort=pd.name&order=ASC) for $12.00

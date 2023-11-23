@@ -15,12 +15,7 @@ title: Drowning The Light - Of Celtic Blood & Satanic Pride
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=34967&sort=pd.name&order=ASC) for $30.00
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/drowning-the-light-of-celtic-blood-satanic-pride-2xlp) for $30.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=37354&sort=pd.name&order=ASC) for $30.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=40445&sort=pd.name&order=ASC) for $30.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=42551&sort=pd.name&order=ASC) for $24.00
 ## CD
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/drowning-the-light-of-celtic-blood-satanic-pride-cd) for $14.00
-* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/drowning-the-light-of-celtic-blood-satanic-pride-cd) for $14.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=41025&sort=pd.name&order=ASC) for $20.00

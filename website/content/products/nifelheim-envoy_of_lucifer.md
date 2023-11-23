@@ -1,5 +1,5 @@
 ---
-actualPrice: $9.60 - 15.00
+actualPrice: $9.60
 album: Envoy of Lucifer
 artist: Nifelheim
 categories:
@@ -14,6 +14,4 @@ title: Nifelheim - Envoy of Lucifer
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=25547&sort=pd.name&order=ASC) for $9.60
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=29780&sort=pd.name&order=ASC) for $9.60
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=31506&sort=pd.name&order=ASC) for $15.00

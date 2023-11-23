@@ -1,5 +1,5 @@
 ---
-actualPrice: $5.00 - 12.00
+actualPrice: $9.60
 album: Diabolou Archaes Legeones
 artist: Thou Art Lord
 categories:
@@ -14,6 +14,4 @@ title: Thou Art Lord - Diabolou Archaes Legeones
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=3496&sort=pd.name&order=ASC) for $5.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=35207&sort=pd.name&order=ASC) for $12.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=43752&sort=pd.name&order=ASC) for $9.60

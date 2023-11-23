@@ -1,5 +1,5 @@
 ---
-actualPrice: $9.99 - 30.00
+actualPrice: $9.99 - 20.00
 album: Anti-Cosmic Doctrine Of The New Blood Gods
 artist: Unholy Vampyric Slaughter Sect
 categories:
@@ -14,6 +14,5 @@ title: Unholy Vampyric Slaughter Sect - Anti-Cosmic Doctrine Of The New Blood Go
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=30401&sort=pd.name&order=ASC) for $30.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=35174&sort=pd.name&order=ASC) for $20.00
 * Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/unholy-vampyric-slaughter-sect-anti-cosmic-doctrine-of-the-new-blood-gods-gatefold-lp) for $9.99 :: Gatefold LP

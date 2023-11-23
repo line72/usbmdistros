@@ -1,5 +1,5 @@
 ---
-actualPrice: $8.00 - 17.00
+actualPrice: $12.00
 album: Rituals From The Cold Grave
 artist: Xaos Oblivion
 categories:
@@ -14,6 +14,4 @@ title: Xaos Oblivion - Rituals From The Cold Grave
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=3369&sort=pd.name&order=ASC) for $17.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=36824&sort=pd.name&order=ASC) for $8.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=41366&sort=pd.name&order=ASC) for $12.00

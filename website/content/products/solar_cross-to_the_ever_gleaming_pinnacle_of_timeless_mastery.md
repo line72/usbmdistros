@@ -1,5 +1,5 @@
 ---
-actualPrice: $12.00 - 14.00
+actualPrice: $12.00
 album: To the Ever Gleaming Pinnacle of Timeless Mastery
 artist: Solar Cross
 categories:
@@ -14,5 +14,4 @@ title: Solar Cross - To the Ever Gleaming Pinnacle of Timeless Mastery
 ---
 
 ## CD
-* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/solar-cross-to-the-ever-gleaming-pinnacle-of-timeless-mastery-cd) for $14.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=43153&sort=pd.name&order=ASC) for $12.00

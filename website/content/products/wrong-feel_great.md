@@ -1,5 +1,5 @@
 ---
-actualPrice: $6.00 - 15.00
+actualPrice: $8.00 - 15.00
 album: Feel Great
 artist: Wrong
 categories:
@@ -14,6 +14,5 @@ title: Wrong - Feel Great
 ---
 
 ## Vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/wrong-feel-great) for $6.00 :: Black 1st press vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/used-wrong-feel-great-lp) for $8.00 :: Black 2018 press vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/wrong-feel-great-lp) for $15.00 :: Black 2018 press vinyl

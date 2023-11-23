@@ -1,5 +1,5 @@
 ---
-actualPrice: $15.00 - 24.00
+actualPrice: $15.00 - 20.00
 album: Wiking
 artist: Hamergilde
 categories:
@@ -15,7 +15,6 @@ title: Hamergilde - Wiking
 ---
 
 ## Vinyl
-* Purchase from [CW Productions](https://shop.cwproductions.net/products/hamergilde-wiking-lp) for $24.00
 * Purchase from [CW Productions](https://shop.cwproductions.net/products/hamergilde-wiking-lp-1) for $20.00
 ## CD
 * Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/hamergilde-wiking-cd/) for $15.00

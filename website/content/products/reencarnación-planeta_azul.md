@@ -1,5 +1,5 @@
 ---
-actualPrice: $8.00 - 10.00
+actualPrice: $8.00
 album: Planeta Azul
 artist: "Reencarnaci\xF3n"
 categories:
@@ -14,5 +14,4 @@ title: "Reencarnaci\xF3n - Planeta Azul"
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=17889&sort=pd.name&order=ASC) for $10.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=34423&sort=pd.name&order=ASC) for $8.00

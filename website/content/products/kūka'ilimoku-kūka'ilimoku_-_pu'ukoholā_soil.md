@@ -1,5 +1,5 @@
 ---
-actualPrice: $24.00 - 30.00
+actualPrice: $24.00
 album: "K\u016Bka'ilimoku / Pu'ukohol\u0101 Soil"
 artist: "K\u016Bka'Ilimoku"
 categories:
@@ -15,5 +15,4 @@ title: "K\u016Bka'Ilimoku - K\u016Bka'ilimoku / Pu'ukohol\u0101 Soil"
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=35746&sort=pd.name&order=ASC) for $30.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=36054&sort=pd.name&order=ASC) for $24.00

@@ -1,9 +1,8 @@
 ---
-actualPrice: $8.00 - 15.00
+actualPrice: $8.00
 album: Ruins
 artist: Iskra
 categories:
-- Vinyl
 - Cassette
 date: '2023-01-08T06:22:23'
 draft: false
@@ -14,7 +13,5 @@ thumbnailImage: /images/covers/iskra-ruins-thumb.jpg
 title: Iskra - Ruins
 ---
 
-## Vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/iskra-ruins-lp) for $15.00 :: Black 2015 press vinyl
 ## Cassette
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/iskra-ruins-cassette) for $8.00 :: 2017 press

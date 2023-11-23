@@ -1,5 +1,5 @@
 ---
-actualPrice: $7.50 - 12.00
+actualPrice: $9.60
 album: The Cult of the Horned One
 artist: Thou Art Lord
 categories:
@@ -14,6 +14,4 @@ title: Thou Art Lord - The Cult of the Horned One
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=3495&sort=pd.name&order=ASC) for $7.50
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=35206&sort=pd.name&order=ASC) for $12.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=43751&sort=pd.name&order=ASC) for $9.60

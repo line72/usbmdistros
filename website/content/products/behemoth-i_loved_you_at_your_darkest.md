@@ -1,5 +1,5 @@
 ---
-actualPrice: $29.00 - 30.00
+actualPrice: $30.00
 album: I Loved You At Your Darkest
 artist: Behemoth
 categories:
@@ -15,4 +15,3 @@ title: Behemoth - I Loved You At Your Darkest
 
 ## Vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/behemoth-i-loved-you-at-your-darkest) for $30.00 :: Clear w/ Red Splatter 2019 press
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/behemoth-i-loved-you-at-your-darkest) for $29.00 :: Red Smoke 2019 press vinyl (SOLD OUT)

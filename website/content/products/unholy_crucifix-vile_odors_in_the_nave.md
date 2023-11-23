@@ -1,5 +1,5 @@
 ---
-actualPrice: $9.60 - 10.00
+actualPrice: $9.60
 album: Vile Odors in the Nave
 artist: Unholy Crucifix
 categories:
@@ -14,5 +14,4 @@ title: Unholy Crucifix - Vile Odors in the Nave
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=23643&sort=pd.name&order=ASC) for $10.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=23642&sort=pd.name&order=ASC) for $9.60

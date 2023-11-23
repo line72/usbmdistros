@@ -1,10 +1,9 @@
 ---
-actualPrice: $15.00 - 27.00
+actualPrice: $21.60
 album: From Behind The Light
 artist: Wallachia
 categories:
 - Vinyl
-- CD
 date: '2023-11-23T18:42:54'
 draft: false
 images:
@@ -15,8 +14,4 @@ title: Wallachia - From Behind The Light
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=36669&sort=pd.name&order=ASC) for $27.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=39830&sort=pd.name&order=ASC) for $21.60
-## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=36670&sort=pd.name&order=ASC) for $15.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=39831&sort=pd.name&order=ASC) for $15.00

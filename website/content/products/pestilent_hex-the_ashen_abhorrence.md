@@ -1,5 +1,5 @@
 ---
-actualPrice: $10.99 - 44.99
+actualPrice: $10.99 - 28.99
 album: The Ashen Abhorrence
 artist: Pestilent Hex
 categories:
@@ -16,7 +16,5 @@ title: Pestilent Hex - The Ashen Abhorrence
 
 ## Vinyl
 * Purchase from [Debemur Morti](https://debemurmorti.aisamerch.com/item/112773) for $28.99
-* Purchase from [Debemur Morti](https://debemurmorti.aisamerch.com/item/112774) for $44.99 :: DMP exclusive
 ## CD
 * Purchase from [Debemur Morti](https://debemurmorti.aisamerch.com/item/112771) for $10.99
-* Purchase from [Debemur Morti](https://debemurmorti.aisamerch.com/item/112772) for $24.99 :: DMP exclusive

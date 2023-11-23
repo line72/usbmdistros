@@ -14,5 +14,4 @@ title: Terrestrial Hospice - Universal Hate Speech
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=28461&sort=pd.name&order=ASC) for $20.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=31461&sort=pd.name&order=ASC) for $20.00

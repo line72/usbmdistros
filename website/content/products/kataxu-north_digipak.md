@@ -15,4 +15,3 @@ title: Kataxu - North DIGIPAK
 
 ## CD
 * Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/kataxu-north-digipak-cd/) for $15.00
-* Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/kataxu-north-digipak-cd/) for $15.00

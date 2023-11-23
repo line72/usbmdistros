@@ -1,5 +1,5 @@
 ---
-actualPrice: $25.00 - 27.00
+actualPrice: $27.00
 album: Hidden Lore
 artist: Xasthur
 categories:
@@ -14,5 +14,4 @@ title: Xasthur - Hidden Lore
 ---
 
 ## Vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/xasthur-hidden-lore-lp) for $25.00 :: Black 1st press vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/xasthur-hidden-lore-lp) for $27.00 :: Clear 1st press vinyl

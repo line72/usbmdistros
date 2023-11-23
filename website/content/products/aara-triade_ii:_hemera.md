@@ -1,5 +1,5 @@
 ---
-actualPrice: $9.99 - 39.99
+actualPrice: $9.99 - 25.99
 album: 'Triade II: Hemera'
 artist: Aara
 categories:
@@ -16,7 +16,6 @@ title: 'Aara - Triade II: Hemera'
 
 ## Vinyl
 * Purchase from [Debemur Morti](https://debemurmorti.aisamerch.com/item/107240) for $22.99
-* Purchase from [Debemur Morti](https://debemurmorti.aisamerch.com/item/107243) for $39.99 :: DMP exclusive
 * Purchase from [Debemur Morti](https://debemurmorti.aisamerch.com/item/107242) for $25.99 :: galaxy effect
 * Purchase from [Debemur Morti](https://debemurmorti.aisamerch.com/item/107241) for $25.99 :: half/half effect
 ## CD

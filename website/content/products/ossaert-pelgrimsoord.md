@@ -1,5 +1,5 @@
 ---
-actualPrice: $23.00 - 25.00
+actualPrice: $25.00
 album: Pelgrimsoord
 artist: Ossaert
 categories:
@@ -14,9 +14,5 @@ title: Ossaert - Pelgrimsoord
 ---
 
 ## Vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/ossaert-pelgrimsoord-lp) for $23.00 :: Black 1st press vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/ossaert-pelgrimsoord-lp) for $25.00 :: Red 1st press vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/ossaert-pelgrimsoord-lp-1) for $23.00 :: Black 1st press vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/ossaert-pelgrimsoord-lp-1) for $25.00 :: Red 1st press vinyl
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/ossaert-pelgrimsoord-12-lp) for $25.00
 * Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/ossaert-pelgrimsoord-limited-smoke-vinyl-lp) for $25.00 :: Limited Smoke Vinyl LP

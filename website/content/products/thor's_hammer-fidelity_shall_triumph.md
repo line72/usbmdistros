@@ -14,5 +14,4 @@ title: Thor's Hammer - Fidelity Shall Triumph
 ---
 
 ## Vinyl
-* Purchase from [CW Productions](https://shop.cwproductions.net/products/thors-hammer-fidelity-shall-triumph-dlp) for $33.00
 * Purchase from [CW Productions](https://shop.cwproductions.net/products/thors-hammer-fidelity-shall-triumph-dlp-1) for $33.00

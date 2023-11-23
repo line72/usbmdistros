@@ -17,5 +17,4 @@ title: Faustcoven - In the Shadow of Doom
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=19877&sort=pd.name&order=ASC) for $19.50
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=3864&sort=pd.name&order=ASC) for $10.00
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/faustcoven-in-the-shadow-of-doom-cd) for $8.00 :: CD 2018

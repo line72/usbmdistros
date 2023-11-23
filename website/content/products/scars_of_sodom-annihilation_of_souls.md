@@ -1,5 +1,5 @@
 ---
-actualPrice: $8.00 - 17.00
+actualPrice: $8.00 - 10.40
 album: Annihilation of Souls
 artist: Scars of Sodom
 categories:
@@ -15,7 +15,6 @@ title: Scars of Sodom - Annihilation of Souls
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=6929&sort=pd.name&order=ASC) for $17.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=40708&sort=pd.name&order=ASC) for $10.40
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=6962&sort=pd.name&order=ASC) for $8.00

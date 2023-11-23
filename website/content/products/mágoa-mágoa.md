@@ -1,5 +1,5 @@
 ---
-actualPrice: $16.00 - 25.00
+actualPrice: $16.00
 album: "M\xE1goa"
 artist: "M\xE1goa"
 categories:
@@ -14,5 +14,4 @@ title: "M\xE1goa - M\xE1goa"
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=8943&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=40005&sort=pd.name&order=ASC) for $16.00

@@ -16,7 +16,6 @@ title: Inferno - Paradeigma
 
 ## Vinyl
 * Purchase from [Debemur Morti](https://debemurmorti.aisamerch.com/item/99573) for $29.99 :: oxblood / black
-* Purchase from [Debemur Morti](https://debemurmorti.aisamerch.com/item/98078) for $29.99 :: Phosphenes of Aphotic Eternity
 * Purchase from [Debemur Morti](https://debemurmorti.aisamerch.com/item/98077) for $24.99 :: Phosphenes of Aphotic Eternity
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/inferno-paradeigma) for $29.00 :: Black 1st press vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/inferno-paradeigma) for $32.00 :: Red/Black Merge 2nd press vinyl

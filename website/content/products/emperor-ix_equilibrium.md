@@ -1,5 +1,5 @@
 ---
-actualPrice: $24.00 - 32.97
+actualPrice: $32.97
 album: IX EQUILIBRIUM
 artist: Emperor
 categories:
@@ -14,13 +14,4 @@ title: Emperor - IX EQUILIBRIUM
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=16703&sort=pd.name&order=ASC) for $27.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=16904&sort=pd.name&order=ASC) for $27.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=17007&sort=pd.name&order=ASC) for $27.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=17870&sort=pd.name&order=ASC) for $24.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=26049&sort=pd.name&order=ASC) for $30.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=26887&sort=pd.name&order=ASC) for $30.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=27252&sort=pd.name&order=ASC) for $30.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29365&sort=pd.name&order=ASC) for $30.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=30157&sort=pd.name&order=ASC) for $30.00
 * Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/emperor-ix-equilibrium-black-brown-swirl-lp-half-speed-abbey-road-master) for $32.97 :: Black/Brown Swirl LP -  Half-Speed Abbey Road Master

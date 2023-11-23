@@ -1,5 +1,5 @@
 ---
-actualPrice: $10.00 - 30.00
+actualPrice: $13.00 - 30.00
 album: All That Has Never Been True
 artist: Ultha
 categories:
@@ -15,9 +15,6 @@ title: Ultha - All That Has Never Been True
 ---
 
 ## Vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/ultha-all-that-has-never-been-true-2xlp) for $27.00 :: Black 2022 press vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/ultha-all-that-has-never-been-true-2xlp-1) for $29.00 :: Beer 2023 press vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/ultha-all-that-has-never-been-true-2xlp) for $30.00 :: Beer 2023 press vinyl
 ## CD
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/ultha-all-that-has-never-been-true-cd) for $10.00 :: CD 2022
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/ultha-all-that-has-never-been-true-cd-1) for $13.00 :: CD 2022

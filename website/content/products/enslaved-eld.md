@@ -1,10 +1,9 @@
 ---
-actualPrice: $15.00 - 35.00
+actualPrice: $35.00
 album: Eld
 artist: Enslaved
 categories:
 - Vinyl
-- CD
 date: '2023-11-19T16:32:04'
 draft: false
 images:
@@ -15,14 +14,4 @@ title: Enslaved - Eld
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=10954&sort=pd.name&order=ASC) for $27.00
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/enslaved-eld) for $29.00 :: Black 2021 press vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/enslaved-eld) for $32.00 :: Marble 2021 press vinyl
-* Purchase from [CW Productions](https://shop.cwproductions.net/products/enslaved-eld-dlp) for $33.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=30313&sort=pd.name&order=ASC) for $30.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=33179&sort=pd.name&order=ASC) for $30.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=34534&sort=pd.name&order=ASC) for $30.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=35313&sort=pd.name&order=ASC) for $24.00
 * Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/enslaved-eld-gold-black-marbled-vinyl-2-lp-ltd-to-600) for $35.00 :: Gold/Black Marbled Vinyl 2 LP *LTD to 600*
-## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=34618&sort=pd.name&order=ASC) for $15.00

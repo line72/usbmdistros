@@ -15,4 +15,3 @@ title: Dark Fury - Slavonic Thunder DIGIPAK
 
 ## CD
 * Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/dark-fury-slavonic-thunder-digipak-cd/) for $12.00
-* Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/dark-fury-slavonic-thunder-digipak-cd/) for $12.00

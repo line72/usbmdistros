@@ -1,10 +1,8 @@
 ---
-actualPrice: $10.00 - 22.00
+actualPrice: $11.00
 album: Seigneur Voland
 artist: Seigneur Voland
 categories:
-- Vinyl
-- Cassette
 - CD
 date: '2023-11-19T15:42:42'
 draft: false
@@ -15,11 +13,5 @@ thumbnailImage: /images/covers/seigneur_voland-seigneur_voland-thumb.jpg
 title: Seigneur Voland - Seigneur Voland
 ---
 
-## Vinyl
-* Purchase from [CW Productions](https://shop.cwproductions.net/products/seigneur-voland-seigneur-voland-lp) for $22.00
-## Cassette
-* Purchase from [CW Productions](https://shop.cwproductions.net/products/seigneur-voland-seigneur-voland-tape) for $10.00
-* Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/seigneur-voland-seigneur-voland-cassette/) for $11.00
 ## CD
-* Purchase from [CW Productions](https://shop.cwproductions.net/products/seigneur-voland-seigneur-voland-cd) for $11.00
 * Purchase from [CW Productions](https://shop.cwproductions.net/products/seigneur-voland-seigneur-voland-cd-1) for $11.00

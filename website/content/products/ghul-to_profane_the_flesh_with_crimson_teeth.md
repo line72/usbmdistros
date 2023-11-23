@@ -1,5 +1,5 @@
 ---
-actualPrice: $12.00 - 17.00
+actualPrice: $12.00
 album: To Profane The Flesh With Crimson Teeth
 artist: Ghul
 categories:
@@ -14,5 +14,4 @@ title: Ghul - To Profane The Flesh With Crimson Teeth
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=4912&sort=pd.name&order=ASC) for $17.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=41569&sort=pd.name&order=ASC) for $12.00

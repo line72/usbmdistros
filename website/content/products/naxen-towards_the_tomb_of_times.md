@@ -14,5 +14,4 @@ title: Naxen - Towards The Tomb Of Times
 ---
 
 ## Vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/naxen-towards-the-tomb-of-times-lp) for $20.00 :: Clear 2021 press vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/naxen-towards-the-tomb-of-times-lp-1) for $20.00 :: Clear 2022 press vinyl

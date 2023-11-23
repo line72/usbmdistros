@@ -14,5 +14,4 @@ title: Wake - Devouring Ruin
 ---
 
 ## Vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/wake-devouring-ruin) for $25.00 :: Violet In Clear w/ Splatter 2nd press vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/wake-devouring-ruin-lp-1) for $25.00 :: Split w/ Splatter 2023 press

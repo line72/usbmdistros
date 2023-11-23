@@ -14,10 +14,5 @@ title: Afsky - Afsky
 ---
 
 ## Vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/afsky-afsky-lp) for $20.00 :: Green 2021 press vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/afsky-afsky-12) for $20.00 :: Green 2021 press vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/afsky-afsky-12) for $20.00 :: Green 2022 press vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/afsky-afsky-12) for $20.00 :: Black 1st press vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/afsky-afsky-13) for $20.00 :: Black 1st press vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/afsky-afsky-13) for $21.00 :: Black 2019 press vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/used-afsky-afsky-12) for $20.00 :: Green 2020 press vinyl

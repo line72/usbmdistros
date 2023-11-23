@@ -1,10 +1,9 @@
 ---
-actualPrice: $9.00 - 25.00
+actualPrice: $20.00
 album: Spiritual Metamorphosis
 artist: Death Scepter
 categories:
 - Vinyl
-- Cassette
 date: '2023-11-23T18:41:37'
 draft: false
 images:
@@ -15,11 +14,4 @@ title: Death Scepter - Spiritual Metamorphosis
 ---
 
 ## Vinyl
-* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/death-scepter-spiritual-metamorphosis-12-lp) for $25.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=11205&sort=pd.name&order=ASC) for $25.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=16482&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=22104&sort=pd.name&order=ASC) for $20.00
-## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=16852&sort=pd.name&order=ASC) for $9.00
-* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/death-scepter-spiritual-metamorphosis-tape) for $10.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=22105&sort=pd.name&order=ASC) for $9.00

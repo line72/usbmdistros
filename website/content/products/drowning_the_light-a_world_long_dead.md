@@ -1,5 +1,5 @@
 ---
-actualPrice: $13.00 - 25.00
+actualPrice: $13.00 - 20.00
 album: A World Long Dead
 artist: Drowning The Light
 categories:
@@ -15,5 +15,4 @@ title: Drowning The Light - A World Long Dead
 
 ## CD
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/drowning-the-light-a-world-long-dead-cd) for $13.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=41044&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=42547&sort=pd.name&order=ASC) for $20.00

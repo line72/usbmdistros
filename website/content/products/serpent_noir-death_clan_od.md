@@ -1,5 +1,5 @@
 ---
-actualPrice: $13.60 - 21.00
+actualPrice: $13.60
 album: Death Clan OD
 artist: Serpent Noir
 categories:
@@ -14,5 +14,4 @@ title: Serpent Noir - Death Clan OD
 ---
 
 ## Vinyl
-* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/serpent-noir-death-clan-od-12-lp) for $21.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=40795&sort=pd.name&order=ASC) for $13.60

@@ -1,5 +1,5 @@
 ---
-actualPrice: $4.00 - 17.00
+actualPrice: $4.00
 album: Baal Ha'ov
 artist: Har
 categories:
@@ -14,5 +14,4 @@ title: Har - Baal Ha'ov
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=2775&sort=pd.name&order=ASC) for $17.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=39299&sort=pd.name&order=ASC) for $4.00

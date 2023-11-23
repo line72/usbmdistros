@@ -15,5 +15,4 @@ title: Abigor - Apokalypse
 
 ## CD
 * Purchase from [CW Productions](https://shop.cwproductions.net/products/abigor-apokalypse-cd) for $15.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=22353&sort=pd.name&order=ASC) for $15.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=28046&sort=pd.name&order=ASC) for $12.00

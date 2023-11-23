@@ -1,5 +1,5 @@
 ---
-actualPrice: $9.60 - 25.00
+actualPrice: $9.60 - 20.00
 album: Triumphant Fall of the Malignant Christ
 artist: Luring
 categories:
@@ -15,8 +15,6 @@ title: Luring - Triumphant Fall of the Malignant Christ
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=40823&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=40921&sort=pd.name&order=ASC) for $20.00
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=40824&sort=pd.name&order=ASC) for $12.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=40920&sort=pd.name&order=ASC) for $9.60

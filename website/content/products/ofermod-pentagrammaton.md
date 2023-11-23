@@ -1,5 +1,5 @@
 ---
-actualPrice: $13.60 - 30.00
+actualPrice: $14.40 - 24.00
 album: Pentagrammaton
 artist: Ofermod
 categories:
@@ -15,11 +15,6 @@ title: Ofermod - Pentagrammaton
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=18531&sort=pd.name&order=ASC) for $24.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=19910&sort=pd.name&order=ASC) for $30.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=28443&sort=pd.name&order=ASC) for $24.00
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=18500&sort=pd.name&order=ASC) for $13.60
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=20046&sort=pd.name&order=ASC) for $17.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=28521&sort=pd.name&order=ASC) for $13.60
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=31537&sort=pd.name&order=ASC) for $14.40

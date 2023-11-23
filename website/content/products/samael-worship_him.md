@@ -1,5 +1,5 @@
 ---
-actualPrice: $12.00 - 25.00
+actualPrice: $12.00 - 23.00
 album: Worship Him
 artist: Samael
 categories:
@@ -15,11 +15,6 @@ title: Samael - Worship Him
 ---
 
 ## Vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/samael-worship-him) for $25.00 :: Half/Half 2021 press vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/samael-worship-him) for $25.00 :: Marble 2021 press vinyl
 * Purchase from [Sto'Vo'Kor Records](https://stovokor-records.com/products/samael-worship-him) for $23.00
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=30031&sort=pd.name&order=ASC) for $15.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=31797&sort=pd.name&order=ASC) for $15.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=42105&sort=pd.name&order=ASC) for $15.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=43587&sort=pd.name&order=ASC) for $12.00

@@ -1,5 +1,5 @@
 ---
-actualPrice: $8.00 - 9.00
+actualPrice: $9.00
 album: Barren Crops of Heavenly Deception
 artist: Stygiofilia
 categories:
@@ -14,5 +14,4 @@ title: Stygiofilia - Barren Crops of Heavenly Deception
 ---
 
 ## Cassette
-* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/stygiofilia-barren-crops-of-heavenly-deception-tape) for $8.00
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/stygiofilia-barren-crops-of-heavenly-deception-cassette) for $9.00 :: Cassette Tape 1st press

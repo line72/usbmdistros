@@ -14,6 +14,5 @@ title: Venymysgourvleydh - Subterranean Pyre
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=21361&sort=pd.name&order=ASC) for $28.00
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/venymysgourvleydh-subterranean-pyre-12-lp) for $28.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=24650&sort=pd.name&order=ASC) for $22.40

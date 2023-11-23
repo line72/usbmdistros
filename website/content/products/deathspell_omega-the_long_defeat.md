@@ -1,11 +1,10 @@
 ---
-actualPrice: $15.00 - 32.00
+actualPrice: $32.00
 album: The Long Defeat
 artist: Deathspell Omega
 categories:
 - Vinyl
-- CD
-date: '2023-08-12T06:02:32'
+date: '2022-05-05T05:16:13'
 draft: false
 images:
 - /images/covers/deathspell_omega-the_long_defeat.png
@@ -16,11 +15,3 @@ title: Deathspell Omega - The Long Defeat
 
 ## Vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/deathspell-omega-the-long-defeat-lp) for $32.00 :: Black 1st press vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=23354&sort=pd.name&order=ASC) for $25.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=25806&sort=pd.name&order=ASC) for $25.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29533&sort=pd.name&order=ASC) for $25.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=32377&sort=pd.name&order=ASC) for $25.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=38193&sort=pd.name&order=ASC) for $20.00
-## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=21917&sort=pd.name&order=ASC) for $15.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=23361&sort=pd.name&order=ASC) for $15.00

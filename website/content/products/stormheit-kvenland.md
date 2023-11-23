@@ -1,10 +1,9 @@
 ---
-actualPrice: $14.00 - 27.00
+actualPrice: $27.00
 album: Kvenland
 artist: Stormheit
 categories:
 - Vinyl
-- CD
 date: '2023-11-19T15:42:41'
 draft: false
 images:
@@ -16,5 +15,3 @@ title: Stormheit - Kvenland
 
 ## Vinyl
 * Purchase from [CW Productions](https://shop.cwproductions.net/products/stormheit-kvenland-lp) for $27.00
-## CD
-* Purchase from [CW Productions](https://shop.cwproductions.net/products/stormheit-kvenland-cd) for $14.00

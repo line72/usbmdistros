@@ -1,10 +1,9 @@
 ---
-actualPrice: $12.00 - 25.00
+actualPrice: $20.00
 album: In Search Of Eternal Darkness
 artist: Odour Of Death
 categories:
 - Vinyl
-- CD
 date: '2023-11-23T18:42:21'
 draft: false
 images:
@@ -15,8 +14,4 @@ title: Odour Of Death - In Search Of Eternal Darkness
 ---
 
 ## Vinyl
-* Purchase from [CW Productions](https://shop.cwproductions.net/products/odour-of-death-in-search-of-eternal-darkness-lp) for $15.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=22007&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=40965&sort=pd.name&order=ASC) for $20.00
-## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=32898&sort=pd.name&order=ASC) for $12.00

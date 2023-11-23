@@ -1,10 +1,9 @@
 ---
-actualPrice: $10.00 - 25.00
+actualPrice: $20.00
 album: Admiron Black
 artist: Gehenna
 categories:
 - Vinyl
-- Cassette
 date: '2023-11-23T18:41:47'
 draft: false
 images:
@@ -15,12 +14,4 @@ title: Gehenna - Admiron Black
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=16426&sort=pd.name&order=ASC) for $25.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=31169&sort=pd.name&order=ASC) for $25.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=33688&sort=pd.name&order=ASC) for $25.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=36582&sort=pd.name&order=ASC) for $25.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=37408&sort=pd.name&order=ASC) for $25.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=37626&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=43159&sort=pd.name&order=ASC) for $20.00
-## Cassette
-* Purchase from [CW Productions](https://shop.cwproductions.net/products/gehenna-admiron-black-tape) for $10.00

@@ -14,6 +14,5 @@ title: The Fifth Alliance - Unrevealed Secrets Of Ruin
 ---
 
 ## Vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/the-fifth-alliance-unrevealed-secrets-of-ruin-lp) for $15.00 :: Black 2013 press vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/the-fifth-alliance-unrevealed-secrets-of-ruin-lp-1) for $15.00 :: Black 2013 press vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/the-fifth-alliance-unrevealed-secrets-of-ruin-lp-1) for $15.00 :: Clear 2013 press vinyl

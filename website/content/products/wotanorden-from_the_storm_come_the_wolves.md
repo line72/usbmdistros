@@ -1,5 +1,5 @@
 ---
-actualPrice: $22.00 - 28.00
+actualPrice: $28.00
 album: From the Storm Come the Wolves
 artist: Wotanorden
 categories:
@@ -14,5 +14,4 @@ title: Wotanorden - From the Storm Come the Wolves
 ---
 
 ## Vinyl
-* Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/wotanorden-from-the-storm-come-the-wolves-12-double-lp/) for $22.00
 * Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/wotanorden-from-the-storm-come-the-wolves-12-double-lp/) for $28.00

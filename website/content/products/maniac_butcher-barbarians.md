@@ -1,9 +1,8 @@
 ---
-actualPrice: $9.60 - 16.00
+actualPrice: $9.60
 album: Barbarians
 artist: Maniac Butcher
 categories:
-- Vinyl
 - CD
 date: '2023-11-23T18:44:02'
 draft: false
@@ -14,7 +13,5 @@ thumbnailImage: /images/covers/maniac_butcher-barbarians-thumb.jpg
 title: Maniac Butcher - Barbarians
 ---
 
-## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=17225&sort=pd.name&order=ASC) for $16.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=29069&sort=pd.name&order=ASC) for $9.60

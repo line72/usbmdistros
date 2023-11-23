@@ -15,7 +15,6 @@ title: 'Veld - Daemonic: The Art Of Dantalian'
 ---
 
 ## Vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/veld-daemonic) for $20.00 :: Black 1st press vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/veld-daemonic-the-art-of-dantalian-lp) for $18.00 :: Black 2017 press vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/veld-daemonic-the-art-of-dantalian-lp) for $30.00 :: Orange w/ Haze 2017 press (#007/100)
 ## CD

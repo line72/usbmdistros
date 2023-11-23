@@ -1,5 +1,5 @@
 ---
-actualPrice: $20.00 - 25.00
+actualPrice: $20.00
 album: Dreaming in a Dead Language
 artist: Mo'ynoq
 categories:
@@ -14,5 +14,4 @@ title: Mo'ynoq - Dreaming in a Dead Language
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=30666&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=40956&sort=pd.name&order=ASC) for $20.00

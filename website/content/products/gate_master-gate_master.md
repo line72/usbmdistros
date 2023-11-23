@@ -1,5 +1,5 @@
 ---
-actualPrice: $32.00 - 40.00
+actualPrice: $32.00
 album: Gate Master
 artist: Gate Master
 categories:
@@ -14,5 +14,4 @@ title: Gate Master - Gate Master
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=33336&sort=pd.name&order=ASC) for $40.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=39993&sort=pd.name&order=ASC) for $32.00

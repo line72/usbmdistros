@@ -15,7 +15,6 @@ title: Grausamkeit - Fucking Goat Horness!
 ---
 
 ## Vinyl
-* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/grausamkeit-fucking-goat-horness-12-lp) for $20.00
 * Purchase from [CW Productions](https://shop.cwproductions.net/products/grausamkeit-fucking-goat-horness-lp) for $25.00
 ## Cassette
 * Purchase from [CW Productions](https://shop.cwproductions.net/products/grausamkeit-fucking-goat-horness-tape) for $12.00

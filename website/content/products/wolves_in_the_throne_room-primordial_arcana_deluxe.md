@@ -18,7 +18,6 @@ title: Wolves In The Throne Room - Primordial Arcana Deluxe
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/wolves-in-the-throne-room-primordial-arcana-deluxe-2xlp) for $30.00 :: Translucent Gold w/ Splatter 1st press vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/wolves-in-the-throne-room-primordial-arcana-deluxe-2xlp) for $45.00 :: White/Silver/Green Merge w/ Splatter 1st press vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/wolves-in-the-throne-room-primordial-arcana-deluxe-2xlp) for $45.00 :: Bone/Green/Brown Merge w/Splatter 1st press vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/wolves-in-the-throne-room-primordial-arcana-deluxe-2xlp) for $119.00 :: Deluxe Box Set w/ Black-In-Gold/Tan Split w/ Splatter 1st press vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/wolves-in-the-throne-room-primordial-arcana-deluxe-2xlp) for $45.00 :: Black/Gold Merge w/ Black/Gold Splatter 1st press vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/wolves-in-the-throne-room-primordial-arcana-deluxe-2xlp) for $45.00 :: Swamp Green Butterfly w/ Silver Wings & Splatter 1st press vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/wolves-in-the-throne-room-primordial-arcana-deluxe-2xlp) for $119.00 :: Deluxe Box Set w/ Black/Gold Merge w/ Splatter 1st press vinyl

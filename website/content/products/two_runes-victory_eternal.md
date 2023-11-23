@@ -14,5 +14,4 @@ title: Two Runes - Victory Eternal
 ---
 
 ## CD
-* Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/two-runes-victory-eternal-cd/) for $15.00
 * Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/tr-ve-cd/) for $15.00

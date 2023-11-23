@@ -1,5 +1,5 @@
 ---
-actualPrice: $16.00 - 25.00
+actualPrice: $16.00
 album: On Death's Wings
 artist: Blood Red Fog
 categories:
@@ -14,6 +14,4 @@ title: Blood Red Fog - On Death's Wings
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=15884&sort=pd.name&order=ASC) for $25.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=24307&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=40691&sort=pd.name&order=ASC) for $16.00

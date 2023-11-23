@@ -15,7 +15,6 @@ title: Grausamkeit - Angeldestruction
 ---
 
 ## Vinyl
-* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/grausamkeit-angeldestruction-12-lp) for $20.00
 * Purchase from [CW Productions](https://shop.cwproductions.net/products/grausamkeit-angeldestruction-lp) for $25.00
 ## Cassette
 * Purchase from [CW Productions](https://shop.cwproductions.net/products/grausamkeit-angeldestruction-tape) for $12.00

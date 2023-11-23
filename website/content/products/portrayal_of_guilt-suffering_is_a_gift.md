@@ -14,10 +14,6 @@ title: Portrayal Of Guilt - Suffering Is A Gift
 ---
 
 ## Vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/portrayal-of-guilt-suffering-is-a-gift-12-ep) for $18.00 :: Clear w/ Splatter 2020 press vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/portrayal-of-guilt-suffering-is-a-gift-12-ep-1) for $18.00 :: Coke Bottle w/ Splatter 2019 press (lim/500)
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/portrayal-of-guilt-suffering-is-a-gift-12-ep-1) for $18.00 :: Glow In The Dark Green 2019 press (lim/200)
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/portrayal-of-guilt-suffering-is-a-gift-12-ep) for $18.00 :: Clear w/ Splatter 2020 press
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/portrayal-of-guilt-suffering-is-a-gift-12-ep) for $18.00 :: Coke w/ Splatter 2019 press
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/portrayal-of-guilt-suffering-is-a-gift-12-ep) for $25.00 :: Glow-In-The-Dark 2019 press
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/used-portrayal-of-guilt-suffering-is-a-gift-12) for $20.00 :: Glow-In-The-Dark 2019 press

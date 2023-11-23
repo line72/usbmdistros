@@ -1,5 +1,5 @@
 ---
-actualPrice: $16.00 - 25.00
+actualPrice: $16.00
 album: Wisdom Through Agony Into Illumination And Lunacy
 artist: W.A.I.L.
 categories:
@@ -14,5 +14,4 @@ title: W.A.I.L. - Wisdom Through Agony Into Illumination And Lunacy
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=24608&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=41040&sort=pd.name&order=ASC) for $16.00

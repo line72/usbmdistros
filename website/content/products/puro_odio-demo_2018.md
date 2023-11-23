@@ -1,11 +1,10 @@
 ---
-actualPrice: $4.00 - 22.00
+actualPrice: $22.00
 album: Demo 2018
 artist: Puro Odio
 categories:
 - Vinyl
-- Cassette
-date: '2022-10-05T05:03:04'
+date: '2021-09-20T05:12:15'
 draft: false
 images:
 - /images/covers/puro_odio-demo_2018.jpg
@@ -16,6 +15,3 @@ title: Puro Odio - Demo 2018
 
 ## Vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/puro-odio-demo-2018) for $22.00 :: White 2020 press vinyl
-## Cassette
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/puro-odio-demo-2018-cassette) for $10.00 :: Cassette Tape 1st press
-* Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/31437613-puro-odio-demo-2018) for $4.00

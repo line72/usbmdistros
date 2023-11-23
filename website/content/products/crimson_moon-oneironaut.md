@@ -1,9 +1,8 @@
 ---
-actualPrice: $7.00 - 30.00
+actualPrice: $7.00 - 8.00
 album: Oneironaut
 artist: Crimson Moon
 categories:
-- Vinyl
 - Cassette
 date: '2023-11-19T08:27:44'
 draft: false
@@ -14,8 +13,6 @@ thumbnailImage: /images/covers/crimson_moon-oneironaut-thumb.jpg
 title: Crimson Moon - Oneironaut
 ---
 
-## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=18795&sort=pd.name&order=ASC) for $30.00
 ## Cassette
 * Purchase from [Sto'Vo'Kor Records](https://stovokor-records.com/products/crimson-moon-oneironaut) for $7.00
 * Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/crimson-moon-oneironaut-cassette/) for $8.00

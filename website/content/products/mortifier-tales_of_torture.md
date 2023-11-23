@@ -1,5 +1,5 @@
 ---
-actualPrice: $5.00 - 10.00
+actualPrice: $6.40
 album: Tales of Torture
 artist: Mortifier
 categories:
@@ -14,6 +14,4 @@ title: Mortifier - Tales of Torture
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=900&sort=pd.name&order=ASC) for $5.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=34232&sort=pd.name&order=ASC) for $6.40
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=34233&sort=pd.name&order=ASC) for $10.00

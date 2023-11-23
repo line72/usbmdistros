@@ -1,5 +1,5 @@
 ---
-actualPrice: $20.00 - 35.00
+actualPrice: $20.00
 album: Moon Calls to Wander...
 artist: Mooncitadel
 categories:
@@ -14,5 +14,4 @@ title: Mooncitadel - Moon Calls to Wander...
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=22051&sort=pd.name&order=ASC) for $35.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=36308&sort=pd.name&order=ASC) for $20.00

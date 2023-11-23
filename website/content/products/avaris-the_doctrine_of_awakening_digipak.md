@@ -1,5 +1,5 @@
 ---
-actualPrice: $13.00 - 15.00
+actualPrice: $15.00
 album: The Doctrine of Awakening DIGIPAK
 artist: Avaris
 categories:
@@ -14,5 +14,4 @@ title: Avaris - The Doctrine of Awakening DIGIPAK
 ---
 
 ## CD
-* Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/avaris-the-doctrine-of-awakening-digipak-cd/) for $13.00
 * Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/avaris-the-doctrine-of-awakening-digipak-cd/) for $15.00

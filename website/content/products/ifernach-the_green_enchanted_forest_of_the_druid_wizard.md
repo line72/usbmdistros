@@ -1,10 +1,9 @@
 ---
-actualPrice: $14.00 - 25.00
+actualPrice: $20.00
 album: The Green Enchanted Forest of the Druid Wizard
 artist: Ifernach
 categories:
 - Vinyl
-- CD
 date: '2023-11-23T18:41:57'
 draft: false
 images:
@@ -15,13 +14,4 @@ title: Ifernach - The Green Enchanted Forest of the Druid Wizard
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=31413&sort=pd.name&order=ASC) for $25.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=32667&sort=pd.name&order=ASC) for $25.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=33478&sort=pd.name&order=ASC) for $25.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=34019&sort=pd.name&order=ASC) for $25.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=34197&sort=pd.name&order=ASC) for $25.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=34868&sort=pd.name&order=ASC) for $25.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=41849&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=43493&sort=pd.name&order=ASC) for $20.00
-## CD
-* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/ifernach-the-green-enchanted-forest-of-the-druid-wizard-cd) for $14.00

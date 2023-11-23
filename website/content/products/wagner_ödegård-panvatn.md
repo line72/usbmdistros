@@ -1,5 +1,5 @@
 ---
-actualPrice: $37.00 - 40.00
+actualPrice: $37.00
 album: Panvatn
 artist: "Wagner \xD6deg\xE5rd"
 categories:
@@ -14,5 +14,4 @@ title: "Wagner \xD6deg\xE5rd - Panvatn"
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=37180&sort=pd.name&order=ASC) for $40.00
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/wagner-odegard-panvatn-12-lp) for $37.00

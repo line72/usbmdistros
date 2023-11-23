@@ -14,6 +14,4 @@ title: Wings Of Evil - On The Wings Of All Evil
 ---
 
 ## Vinyl
-* Purchase from [CW Productions](https://shop.cwproductions.net/products/wings-of-evil-on-the-wings-of-all-evil-lp) for $25.00
-* Purchase from [CW Productions](https://shop.cwproductions.net/products/wings-of-evil-on-the-wings-of-all-evil-lp-1) for $25.00
 * Purchase from [CW Productions](https://shop.cwproductions.net/products/wings-of-evil-on-the-wings-of-all-evil-lp-2) for $25.00

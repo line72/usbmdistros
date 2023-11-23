@@ -1,5 +1,5 @@
 ---
-actualPrice: $27.00 - 29.00
+actualPrice: $27.00
 album: The Greater Evil
 artist: Coldcell
 categories:
@@ -14,5 +14,4 @@ title: Coldcell - The Greater Evil
 ---
 
 ## Vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/coldcell-the-greater-evil-2xlp) for $29.00 :: Black 2021 press vinyl
 * Purchase from [Sto'Vo'Kor Records](https://stovokor-records.com/products/coldcell-the-greater-evil) for $27.00

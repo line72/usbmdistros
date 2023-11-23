@@ -1,5 +1,5 @@
 ---
-actualPrice: $10.99 - 44.99
+actualPrice: $10.99 - 22.99
 album: Xibalba
 artist: Ershetu
 categories:
@@ -17,7 +17,6 @@ title: Ershetu - Xibalba
 
 ## Vinyl
 * Purchase from [Debemur Morti](https://debemurmorti.aisamerch.com/item/139788) for $22.99
-* Purchase from [Debemur Morti](https://debemurmorti.aisamerch.com/item/139789) for $44.99 :: DMP Exclusive
 ## Cassette
 * Purchase from [Debemur Morti](https://debemurmorti.aisamerch.com/item/139790) for $11.99
 ## CD

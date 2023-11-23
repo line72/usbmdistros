@@ -1,5 +1,5 @@
 ---
-actualPrice: $5.00 - 5.25
+actualPrice: $5.00
 album: In Morte Veritas
 artist: Aisuragua
 categories:
@@ -14,5 +14,4 @@ title: Aisuragua - In Morte Veritas
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=4092&sort=pd.name&order=ASC) for $5.25
 * Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/25783698-aisuragua-in-morte-veritas) for $5.00

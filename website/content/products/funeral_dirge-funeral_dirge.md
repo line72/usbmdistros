@@ -1,5 +1,5 @@
 ---
-actualPrice: $6.40 - 15.00
+actualPrice: $6.40
 album: Funeral Dirge
 artist: Funeral Dirge
 categories:
@@ -14,6 +14,4 @@ title: Funeral Dirge - Funeral Dirge
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=25997&sort=pd.name&order=ASC) for $15.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=26192&sort=pd.name&order=ASC) for $10.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=42838&sort=pd.name&order=ASC) for $6.40

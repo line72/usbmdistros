@@ -14,5 +14,4 @@ title: Kirottu - Deity Embers
 ---
 
 ## Cassette
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/used-kirottu-deity-embers-cassette) for $8.00 :: Cassette Tape 2021
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/used-kirottu-deity-embers-cassette) for $8.00 :: White Shell 2021 press

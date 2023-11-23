@@ -1,5 +1,5 @@
 ---
-actualPrice: $2.40 - 7.00
+actualPrice: $2.40
 album: Blood Blackened Atriums
 artist: Intemperator
 categories:
@@ -14,6 +14,4 @@ title: Intemperator - Blood Blackened Atriums
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=2219&sort=pd.name&order=ASC) for $7.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=26641&sort=pd.name&order=ASC) for $7.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=26720&sort=pd.name&order=ASC) for $2.40

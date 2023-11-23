@@ -1,5 +1,5 @@
 ---
-actualPrice: $1.50 - 25.00
+actualPrice: $6.50 - 16.25
 album: Arcana
 artist: Morbid Sphere
 categories:
@@ -15,10 +15,6 @@ title: Morbid Sphere - Arcana
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=28183&sort=pd.name&order=ASC) for $25.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=28276&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=28584&sort=pd.name&order=ASC) for $16.25
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=21195&sort=pd.name&order=ASC) for $10.00
-* Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/35847085-morbid-sphere-arcana) for $1.50
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=28585&sort=pd.name&order=ASC) for $6.50

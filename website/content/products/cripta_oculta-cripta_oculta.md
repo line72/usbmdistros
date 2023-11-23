@@ -14,5 +14,4 @@ title: Cripta Oculta - Cripta Oculta
 ---
 
 ## Vinyl
-* Purchase from [CW Productions](https://shop.cwproductions.net/products/cripta-oculta-cripta-oculta-lp) for $20.00
 * Purchase from [CW Productions](https://shop.cwproductions.net/products/cripta-oculta-cripta-oculta-lp-1) for $20.00

@@ -15,4 +15,3 @@ title: Orlok - Black Funeral Holocaust
 
 ## Cassette
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=30244&sort=pd.name&order=ASC) for $12.00
-* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/orlok-black-funeral-holocaust-tape) for $12.00

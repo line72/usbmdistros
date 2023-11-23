@@ -1,5 +1,5 @@
 ---
-actualPrice: $20.00 - 25.00
+actualPrice: $20.00
 album: Der Rote Kampfflieger
 artist: Minenwerfer
 categories:
@@ -15,4 +15,3 @@ title: Minenwerfer - Der Rote Kampfflieger
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=30356&sort=pd.name&order=ASC) for $20.00
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/minenwerfer-der-rote-kampfflieger-lp) for $25.00 :: Color 2022 press vinyl

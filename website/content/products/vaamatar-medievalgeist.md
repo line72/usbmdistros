@@ -1,10 +1,9 @@
 ---
-actualPrice: $12.00 - 25.00
+actualPrice: $20.00
 album: Medievalgeist
 artist: Vaamatar
 categories:
 - Vinyl
-- CD
 date: '2023-11-23T18:42:50'
 draft: false
 images:
@@ -15,7 +14,4 @@ title: Vaamatar - Medievalgeist
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=23525&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29666&sort=pd.name&order=ASC) for $20.00
-## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=23547&sort=pd.name&order=ASC) for $12.00

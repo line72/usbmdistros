@@ -1,5 +1,5 @@
 ---
-actualPrice: $10.00 - 15.00
+actualPrice: $10.00
 album: The Virtuous Purge
 artist: Barghest
 categories:
@@ -14,5 +14,4 @@ title: Barghest - The Virtuous Purge
 ---
 
 ## Vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/barghest-the-virtuous-purge-lp) for $15.00 :: Clear 2014 press vinyl (lim/200)
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/used-barghest-the-virtuous-purge-lp) for $10.00 :: Clear 2014 press vinyl

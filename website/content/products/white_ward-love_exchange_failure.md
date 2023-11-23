@@ -4,7 +4,6 @@ album: Love Exchange Failure
 artist: White Ward
 categories:
 - Vinyl
-- Cassette
 - CD
 date: '2023-11-19T16:38:52'
 draft: false
@@ -16,12 +15,7 @@ title: White Ward - Love Exchange Failure
 ---
 
 ## Vinyl
-* Purchase from [Debemur Morti](https://debemurmorti.aisamerch.com/item/98667) for $32.99
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/white-ward-love-exchange-failure) for $33.00 :: Electric/Sea Blue w/ Splatter 2021 press vinyl
-* Purchase from [Debemur Morti](https://debemurmorti.aisamerch.com/item/123653) for $34.99
 * Purchase from [Debemur Morti](https://debemurmorti.aisamerch.com/item/134801) for $31.99
 * Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/white-ward-love-exchange-failure-gatefold-2x12-splatter-lp) for $37.97 :: Gatefold 2x12" Splatter LP
-## Cassette
-* Purchase from [Debemur Morti](https://debemurmorti.aisamerch.com/item/133328) for $13.99
 ## CD
 * Purchase from [Debemur Morti](https://debemurmorti.aisamerch.com/item/75497) for $10.99

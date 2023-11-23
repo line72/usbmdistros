@@ -1,5 +1,5 @@
 ---
-actualPrice: $7.50 - 12.00
+actualPrice: $9.60
 album: "Resurrecti\xF3nem Mortu\xF3rum"
 artist: Decayed
 categories:
@@ -14,6 +14,4 @@ title: "Decayed - Resurrecti\xF3nem Mortu\xF3rum"
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=5540&sort=pd.name&order=ASC) for $7.50
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=20539&sort=pd.name&order=ASC) for $12.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=41592&sort=pd.name&order=ASC) for $9.60

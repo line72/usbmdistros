@@ -1,10 +1,10 @@
 ---
-actualPrice: $6.00 - 11.00
+actualPrice: $11.00
 album: S/T
 artist: Kold
 categories:
 - Cassette
-date: '2022-07-19T15:45:47'
+date: '2021-12-29T06:11:26'
 draft: false
 images:
 - /images/covers/kold-s-t.png
@@ -14,6 +14,4 @@ title: Kold - S/T
 ---
 
 ## Cassette
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/kold-s-t-cassette) for $11.00 :: Cassette Tape 1st press
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/kold-s-t-cassette-1) for $11.00 :: Cassette Tape 1st press
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/used-kold-s-t-cassette) for $6.00 :: Cassette Tape 2021

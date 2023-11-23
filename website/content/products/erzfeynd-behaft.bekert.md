@@ -1,5 +1,5 @@
 ---
-actualPrice: $12.00 - 15.00
+actualPrice: $12.00
 album: Behaft.Bekert
 artist: Erzfeynd
 categories:
@@ -14,5 +14,4 @@ title: Erzfeynd - Behaft.Bekert
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=28147&sort=pd.name&order=ASC) for $15.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=29886&sort=pd.name&order=ASC) for $12.00

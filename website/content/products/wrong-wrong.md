@@ -1,5 +1,5 @@
 ---
-actualPrice: $12.00 - 15.00
+actualPrice: $15.00
 album: Wrong
 artist: Wrong
 categories:
@@ -14,5 +14,4 @@ title: Wrong - Wrong
 ---
 
 ## Vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/wrong-wrong) for $12.00 :: Black 1st press
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/wrong-wrong-12) for $15.00 :: Black 2016 press vinyl

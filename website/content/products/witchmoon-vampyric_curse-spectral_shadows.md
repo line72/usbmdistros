@@ -1,5 +1,5 @@
 ---
-actualPrice: $20.00 - 25.00
+actualPrice: $20.00
 album: Vampyric Curse/Spectral Shadows
 artist: Witchmoon
 categories:
@@ -14,5 +14,4 @@ title: Witchmoon - Vampyric Curse/Spectral Shadows
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=34982&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=39933&sort=pd.name&order=ASC) for $20.00

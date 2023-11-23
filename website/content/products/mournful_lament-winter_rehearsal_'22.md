@@ -1,5 +1,5 @@
 ---
-actualPrice: $10.00 - 15.00
+actualPrice: $15.00
 album: Winter Rehearsal '22
 artist: Mournful Lament
 categories:
@@ -14,5 +14,4 @@ title: Mournful Lament - Winter Rehearsal '22
 ---
 
 ## Cassette
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/mournful-lament-winter-rehearsal-22) for $10.00 :: Black Shell 2022
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/used-mournful-lament-winter-rehearsal-22) for $15.00 :: Black Shell 2022

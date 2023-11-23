@@ -1,5 +1,5 @@
 ---
-actualPrice: $21.60 - 27.00
+actualPrice: $21.60
 album: Demo II / Pact With Evil
 artist: Forbidden Temple
 categories:
@@ -14,5 +14,4 @@ title: Forbidden Temple - Demo II / Pact With Evil
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=36413&sort=pd.name&order=ASC) for $27.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=39918&sort=pd.name&order=ASC) for $21.60

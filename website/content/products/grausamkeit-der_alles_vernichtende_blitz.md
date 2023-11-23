@@ -14,6 +14,4 @@ title: Grausamkeit - Der alles vernichtende Blitz
 ---
 
 ## Vinyl
-* Purchase from [CW Productions](https://shop.cwproductions.net/products/grausamkeit-der-alles-vernichtende-blitz-lp) for $25.00
-* Purchase from [CW Productions](https://shop.cwproductions.net/products/grausamkeit-der-alles-vernichtende-blitz-lp-1) for $25.00
 * Purchase from [CW Productions](https://shop.cwproductions.net/products/grausamkeit-der-alles-vernichtende-blitz-lp-2) for $25.00

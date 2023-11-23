@@ -1,5 +1,5 @@
 ---
-actualPrice: $16.00 - 25.00
+actualPrice: $16.00
 album: Beyond the Watchtowers
 artist: Ancient Burial
 categories:
@@ -14,5 +14,4 @@ title: Ancient Burial - Beyond the Watchtowers
 ---
 
 ## Vinyl
-* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/ancient-burial-beyond-the-watchtowers-12-lp) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=9718&sort=pd.name&order=ASC) for $16.00

@@ -1,9 +1,8 @@
 ---
-actualPrice: $9.60 - 30.00
+actualPrice: $9.60
 album: Slit Throat and Ritual Nights
 artist: Cult Of Daath
 categories:
-- Vinyl
 - CD
 date: '2023-11-23T18:43:33'
 draft: false
@@ -14,10 +13,5 @@ thumbnailImage: /images/covers/cult_of_daath-slit_throat_and_ritual_nights-thumb
 title: Cult Of Daath - Slit Throat and Ritual Nights
 ---
 
-## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=20546&sort=pd.name&order=ASC) for $25.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=20547&sort=pd.name&order=ASC) for $30.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=20619&sort=pd.name&order=ASC) for $25.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=20620&sort=pd.name&order=ASC) for $30.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=20652&sort=pd.name&order=ASC) for $9.60

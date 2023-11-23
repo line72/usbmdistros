@@ -14,5 +14,4 @@ title: "Abigor - H\xF6llenzwang - Chronicles Of Perdition"
 ---
 
 ## Cassette
-* Purchase from [CW Productions](https://shop.cwproductions.net/products/abigor-hollenzwang-chronicles-of-perdition-tape) for $9.00
 * Purchase from [CW Productions](https://shop.cwproductions.net/products/abigor-hollenzwang-chronicles-of-perdition-tape-1) for $9.00

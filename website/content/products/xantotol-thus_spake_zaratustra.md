@@ -1,10 +1,8 @@
 ---
-actualPrice: $8.00 - 20.00
+actualPrice: $9.60 - 10.00
 album: Thus Spake Zaratustra
 artist: Xantotol
 categories:
-- Vinyl
-- Cassette
 - CD
 date: '2023-11-23T18:44:37'
 draft: false
@@ -15,12 +13,6 @@ thumbnailImage: /images/covers/xantotol-thus_spake_zaratustra-thumb.jpg
 title: Xantotol - Thus Spake Zaratustra
 ---
 
-## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=13852&sort=pd.name&order=ASC) for $20.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=14859&sort=pd.name&order=ASC) for $17.50
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=24463&sort=pd.name&order=ASC) for $20.00
-## Cassette
-* Purchase from [CW Productions](https://shop.cwproductions.net/products/xantotol-thus-spake-zaratustra-tape) for $8.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=35492&sort=pd.name&order=ASC) for $9.60
 * Purchase from [CW Productions](https://shop.cwproductions.net/products/xantotol-thus-spake-zaratustra-cd) for $10.00

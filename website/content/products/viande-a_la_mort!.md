@@ -14,5 +14,4 @@ title: Viande - A La Mort!
 ---
 
 ## Cassette
-* Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/21674678-viande-a-la-mort) for $4.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=26431&sort=pd.name&order=ASC) for $4.00

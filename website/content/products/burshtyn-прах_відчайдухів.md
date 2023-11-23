@@ -18,5 +18,4 @@ title: "Burshtyn - \u041F\u0440\u0430\u0445 \u0432\u0456\u0434\u0447\u0430\u0439
 ---
 
 ## Vinyl
-* Purchase from [CW Productions](https://shop.cwproductions.net/products/burshtyn-прах-відчайдухів-lp) for $25.00
 * Purchase from [CW Productions](https://shop.cwproductions.net/products/burshtyn-прах-відчайдухів-lp-1) for $25.00

@@ -14,5 +14,4 @@ title: Panzerwar - Ephemeral Existence
 ---
 
 ## Vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/used-panzerwar-ephemeral-existence-lp) for $20.00 :: Black 2020 press vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/panzerwar-ephemeral-existence-lp) for $20.00 :: Black 2020 press vinyl

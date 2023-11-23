@@ -1,5 +1,5 @@
 ---
-actualPrice: $20.00 - 24.00
+actualPrice: $20.00
 album: Lechery Maledictions and Grieving Adjures to the Concerns of Flesh
 artist: Inthyflesh
 categories:
@@ -14,5 +14,4 @@ title: Inthyflesh - Lechery Maledictions and Grieving Adjures to the Concerns of
 ---
 
 ## Vinyl
-* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/inthyflesh-lechery-maledictions-and-grieving-adjures-to-the-concerns-of-flesh-12-lp) for $24.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=11103&sort=pd.name&order=ASC) for $20.00

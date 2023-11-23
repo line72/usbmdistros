@@ -1,5 +1,5 @@
 ---
-actualPrice: $7.50 - 14.00
+actualPrice: $14.00
 album: The Blade of Hell
 artist: APOSTASY
 categories:
@@ -14,5 +14,4 @@ title: APOSTASY - The Blade of Hell
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=4126&sort=pd.name&order=ASC) for $7.50
 * Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/35932810-apostasy-the-blade-of-hell-cd) for $14.00

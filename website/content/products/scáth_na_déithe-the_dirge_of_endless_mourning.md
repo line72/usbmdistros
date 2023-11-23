@@ -1,5 +1,5 @@
 ---
-actualPrice: $10.00 - 13.00
+actualPrice: $13.00
 album: The Dirge Of Endless Mourning
 artist: "Sc\xE1th Na D\xE9ithe"
 categories:
@@ -14,6 +14,4 @@ title: "Sc\xE1th Na D\xE9ithe - The Dirge Of Endless Mourning"
 ---
 
 ## CD
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/scath-na-deithe-the-dirge-of-endless-mourning-cd) for $10.00 :: CD 2020
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/scath-na-deithe-the-dirge-of-endless-mourning-cd-1) for $12.00 :: CD 2020
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/scath-na-deithe-the-dirge-of-endless-mourning-cd) for $13.00 :: CD 2020

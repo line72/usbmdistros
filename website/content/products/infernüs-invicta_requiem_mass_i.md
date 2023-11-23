@@ -1,5 +1,5 @@
 ---
-actualPrice: $17.00 - 20.00
+actualPrice: $20.00
 album: Invicta Requiem Mass I
 artist: "Infern\xFCs"
 categories:
@@ -14,5 +14,4 @@ title: "Infern\xFCs - Invicta Requiem Mass I"
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=6102&sort=pd.name&order=ASC) for $17.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=21812&sort=pd.name&order=ASC) for $20.00

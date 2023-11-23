@@ -14,5 +14,4 @@ title: Ulfhethnar - Beyond Their Mortal Boundaries
 ---
 
 ## Vinyl
-* Purchase from [CW Productions](https://shop.cwproductions.net/products/ulfhethnar-beyond-their-mortal-boundaries-lp) for $20.00
 * Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/ulfhethnar-beyond-their-mortal-boundaries-12-mlp/) for $20.00

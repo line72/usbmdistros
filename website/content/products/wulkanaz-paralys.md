@@ -1,5 +1,5 @@
 ---
-actualPrice: $5.00 - 15.00
+actualPrice: $12.00
 album: Paralys
 artist: Wulkanaz
 categories:
@@ -14,7 +14,4 @@ title: Wulkanaz - Paralys
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=5802&sort=pd.name&order=ASC) for $5.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=20020&sort=pd.name&order=ASC) for $15.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=27818&sort=pd.name&order=ASC) for $15.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=31529&sort=pd.name&order=ASC) for $12.00

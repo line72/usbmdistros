@@ -1,5 +1,5 @@
 ---
-actualPrice: $25.00 - 27.00
+actualPrice: $27.00
 album: Gehinnom
 artist: Gevurah
 categories:
@@ -14,5 +14,4 @@ title: Gevurah - Gehinnom
 ---
 
 ## Vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/gevurah-gehinnom-lp) for $25.00 :: Black 2022 press vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/gevurah-gehinnom-lp) for $27.00 :: Black 2022 press vinyl

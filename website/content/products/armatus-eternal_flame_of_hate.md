@@ -1,5 +1,5 @@
 ---
-actualPrice: $32.00 - 40.00
+actualPrice: $32.00
 album: Eternal Flame Of Hate
 artist: Armatus
 categories:
@@ -14,5 +14,4 @@ title: Armatus - Eternal Flame Of Hate
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=40839&sort=pd.name&order=ASC) for $40.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=40893&sort=pd.name&order=ASC) for $32.00

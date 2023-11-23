@@ -1,5 +1,5 @@
 ---
-actualPrice: $35.00 - 39.00
+actualPrice: $39.00
 album: 'Future''s Shadow Part 1: The Clandestine Gate'
 artist: Bell Witch
 categories:
@@ -14,5 +14,4 @@ title: 'Bell Witch - Future''s Shadow Part 1: The Clandestine Gate'
 ---
 
 ## Vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/bell-witch-futures-shadow-part-1-the-clandestine-gate-2xlp) for $35.00 :: Color 2023 press vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/bell-witch-futures-shadow-part-1-the-clandestine-gate-2xlp-1) for $39.00 :: Color 2023 press vinyl

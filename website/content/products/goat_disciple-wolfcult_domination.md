@@ -18,6 +18,4 @@ title: Goat Disciple - Wolfcult Domination
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=6030&sort=pd.name&order=ASC) for $13.60
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/goat-disciple-wolfcult-domination) for $13.00 :: Black 1st press vinyl
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=6029&sort=pd.name&order=ASC) for $10.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=22975&sort=pd.name&order=ASC) for $12.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=27244&sort=pd.name&order=ASC) for $9.60

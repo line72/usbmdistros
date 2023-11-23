@@ -1,5 +1,5 @@
 ---
-actualPrice: $8.00 - 20.00
+actualPrice: $8.00
 album: Taste the Divine Wrath
 artist: The Meads of Asphodel / Tjolgtjar
 categories:
@@ -14,5 +14,4 @@ title: The Meads of Asphodel / Tjolgtjar - Taste the Divine Wrath
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=15754&sort=pd.name&order=ASC) for $20.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=26600&sort=pd.name&order=ASC) for $8.00

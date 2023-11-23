@@ -1,5 +1,5 @@
 ---
-actualPrice: $10.50 - 12.00
+actualPrice: $12.00
 album: Farsotstider
 artist: Thyrfing
 categories:
@@ -14,5 +14,4 @@ title: Thyrfing - Farsotstider
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=20034&sort=pd.name&order=ASC) for $10.50
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=31515&sort=pd.name&order=ASC) for $12.00

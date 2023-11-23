@@ -1,9 +1,8 @@
 ---
-actualPrice: $9.60 - 27.00
+actualPrice: $9.60 - 12.00
 album: Demo II
 artist: Sulfurous Presence
 categories:
-- Vinyl
 - Cassette
 - CD
 date: '2023-11-23T18:45:12'
@@ -15,12 +14,7 @@ thumbnailImage: /images/covers/sulfurous_presence-demo_ii-thumb.jpg
 title: Sulfurous Presence - Demo II
 ---
 
-## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=22994&sort=pd.name&order=ASC) for $25.00
-* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/sulfurous-presence-demo-ii-12-lp) for $27.00
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=22991&sort=pd.name&order=ASC) for $12.00
-* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/sulfurous-presence-demo-ii-tape) for $12.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=28569&sort=pd.name&order=ASC) for $9.60
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=23801&sort=pd.name&order=ASC) for $12.00

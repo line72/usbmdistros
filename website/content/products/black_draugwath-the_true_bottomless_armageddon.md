@@ -1,5 +1,5 @@
 ---
-actualPrice: $6.00 - 35.00
+actualPrice: $9.60 - 35.00
 album: The True Bottomless Armageddon
 artist: Black Draugwath
 categories:
@@ -15,12 +15,7 @@ title: Black Draugwath - The True Bottomless Armageddon
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=25765&sort=pd.name&order=ASC) for $35.00
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/black-draugwath-the-true-bottomless-armageddon-12-lp) for $35.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=25977&sort=pd.name&order=ASC) for $35.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=39980&sort=pd.name&order=ASC) for $28.00
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=2141&sort=pd.name&order=ASC) for $6.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=25311&sort=pd.name&order=ASC) for $12.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=25764&sort=pd.name&order=ASC) for $12.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=25976&sort=pd.name&order=ASC) for $9.60

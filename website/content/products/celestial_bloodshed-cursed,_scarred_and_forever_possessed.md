@@ -1,10 +1,9 @@
 ---
-actualPrice: $12.00 - 30.00
+actualPrice: $24.00
 album: Cursed, Scarred And Forever Possessed
 artist: Celestial Bloodshed
 categories:
 - Vinyl
-- CD
 date: '2023-11-23T18:41:31'
 draft: false
 images:
@@ -15,12 +14,4 @@ title: Celestial Bloodshed - Cursed, Scarred And Forever Possessed
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=31720&sort=pd.name&order=ASC) for $30.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=32466&sort=pd.name&order=ASC) for $30.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=33917&sort=pd.name&order=ASC) for $30.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=37461&sort=pd.name&order=ASC) for $30.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=38044&sort=pd.name&order=ASC) for $30.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=40053&sort=pd.name&order=ASC) for $30.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=43326&sort=pd.name&order=ASC) for $24.00
-## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=27433&sort=pd.name&order=ASC) for $12.00

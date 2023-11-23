@@ -1,10 +1,9 @@
 ---
-actualPrice: $13.00 - 25.00
+actualPrice: $20.00
 album: The Malign Covenant
 artist: Verminous Serpent
 categories:
 - Vinyl
-- CD
 date: '2023-11-23T18:42:52'
 draft: false
 images:
@@ -15,8 +14,4 @@ title: Verminous Serpent - The Malign Covenant
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=32569&sort=pd.name&order=ASC) for $25.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=34958&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=37409&sort=pd.name&order=ASC) for $20.00
-## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=32570&sort=pd.name&order=ASC) for $13.00

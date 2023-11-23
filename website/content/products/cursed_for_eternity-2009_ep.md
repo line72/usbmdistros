@@ -1,5 +1,5 @@
 ---
-actualPrice: $20.00 - 25.00
+actualPrice: $20.00
 album: 2009 EP
 artist: Cursed for Eternity
 categories:
@@ -14,5 +14,4 @@ title: Cursed for Eternity - 2009 EP
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=26825&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=28540&sort=pd.name&order=ASC) for $20.00

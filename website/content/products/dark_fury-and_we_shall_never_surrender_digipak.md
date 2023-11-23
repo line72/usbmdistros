@@ -1,5 +1,5 @@
 ---
-actualPrice: $12.00 - 15.00
+actualPrice: $12.00
 album: And We Shall Never Surrender DIGIPAK
 artist: Dark Fury
 categories:
@@ -14,5 +14,4 @@ title: Dark Fury - And We Shall Never Surrender DIGIPAK
 ---
 
 ## CD
-* Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/dark-fury-and-we-shall-never-surrender-digipak-cd/) for $15.00
 * Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/dark-fury-and-we-shall-never-surrender-digipak-cd/) for $12.00

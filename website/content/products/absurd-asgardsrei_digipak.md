@@ -1,5 +1,5 @@
 ---
-actualPrice: $13.00 - 15.00
+actualPrice: $15.00
 album: Asgardsrei DIGIPAK
 artist: Absurd
 categories:
@@ -14,5 +14,4 @@ title: Absurd - Asgardsrei DIGIPAK
 ---
 
 ## CD
-* Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/absurd-asgardsrei-digipak-cd/) for $13.00
 * Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/absurd-asgardsrei-digipak-cd/) for $15.00

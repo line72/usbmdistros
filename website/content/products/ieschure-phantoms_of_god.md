@@ -1,5 +1,5 @@
 ---
-actualPrice: $18.00 - 25.00
+actualPrice: $18.00
 album: Phantoms Of God
 artist: IESCHURE
 categories:
@@ -14,6 +14,4 @@ title: IESCHURE - Phantoms Of God
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=23405&sort=pd.name&order=ASC) for $25.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=21558&sort=pd.name&order=ASC) for $25.00
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/used-ieschure-phantoms-of-god-12) for $18.00 :: Red 2021 press vinyl

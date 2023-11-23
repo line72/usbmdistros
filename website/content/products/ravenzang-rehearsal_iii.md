@@ -1,5 +1,5 @@
 ---
-actualPrice: $8.00 - 12.00
+actualPrice: $8.00
 album: Rehearsal III
 artist: Ravenzang
 categories:
@@ -14,5 +14,4 @@ title: Ravenzang - Rehearsal III
 ---
 
 ## Cassette
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/ravenzang-rehearsal-iii-cassette) for $12.00 :: Cassette Tape 1st press
 * Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/ravenzang-rehearsal-iii-cassette/) for $8.00

@@ -1,5 +1,5 @@
 ---
-actualPrice: $15.00 - 16.00
+actualPrice: $15.00
 album: Blutgebunden
 artist: Wolfnacht
 categories:
@@ -14,5 +14,4 @@ title: Wolfnacht - Blutgebunden
 ---
 
 ## CD
-* Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/wolfnacht-blutgebunden-cd/) for $16.00
 * Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/wolfnacht-blutgebunden-cd/) for $15.00

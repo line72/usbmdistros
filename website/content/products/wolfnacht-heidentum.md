@@ -1,5 +1,5 @@
 ---
-actualPrice: $15.00 - 16.00
+actualPrice: $15.00
 album: Heidentum
 artist: Wolfnacht
 categories:
@@ -14,5 +14,4 @@ title: Wolfnacht - Heidentum
 ---
 
 ## CD
-* Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/wolfnacht-heidentum-cd/) for $16.00
 * Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/wolfnacht-heidentum-cd/) for $15.00

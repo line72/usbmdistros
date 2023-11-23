@@ -1,10 +1,9 @@
 ---
-actualPrice: $15.00 - 20.00
+actualPrice: $20.00
 album: Dogme et Rituel de la Haute Magie
 artist: Necromantical Invocation
 categories:
 - Vinyl
-- CD
 date: '2023-11-23T18:42:17'
 draft: false
 images:
@@ -16,7 +15,3 @@ title: Necromantical Invocation - Dogme et Rituel de la Haute Magie
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=28447&sort=pd.name&order=ASC) for $20.00
-## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=21727&sort=pd.name&order=ASC) for $15.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=28661&sort=pd.name&order=ASC) for $15.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=35571&sort=pd.name&order=ASC) for $15.00

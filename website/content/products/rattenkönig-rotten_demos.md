@@ -1,5 +1,5 @@
 ---
-actualPrice: $8.00 - 10.00
+actualPrice: $8.00
 album: Rotten Demos
 artist: "Rattenk\xF6nig"
 categories:
@@ -14,5 +14,4 @@ title: "Rattenk\xF6nig - Rotten Demos"
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=10503&sort=pd.name&order=ASC) for $10.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=27728&sort=pd.name&order=ASC) for $8.00

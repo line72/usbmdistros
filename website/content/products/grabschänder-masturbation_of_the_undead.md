@@ -14,5 +14,4 @@ title: "Grabsch\xE4nder - Masturbation of the Undead"
 ---
 
 ## Vinyl
-* Purchase from [CW Productions](https://shop.cwproductions.net/products/grabschander-masturbation-of-the-undead-lp) for $25.00
 * Purchase from [CW Productions](https://shop.cwproductions.net/products/grabschander-masturbation-of-the-undead-lp-1) for $25.00

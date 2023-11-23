@@ -1,5 +1,5 @@
 ---
-actualPrice: $8.00 - 11.00
+actualPrice: $8.00
 album: Necroprophecy
 artist: Gramarye
 categories:
@@ -14,5 +14,4 @@ title: Gramarye - Necroprophecy
 ---
 
 ## Cassette
-* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/gramarye-necroprophecy-tape) for $11.00
 * Purchase from [Sto'Vo'Kor Records](https://stovokor-records.com/products/gramarye-necroprophecy-cassette) for $8.00

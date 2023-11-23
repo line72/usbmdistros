@@ -1,10 +1,9 @@
 ---
-actualPrice: $12.00 - 30.00
+actualPrice: $24.00
 album: The Pact
 artist: Negative Plane
 categories:
 - Vinyl
-- CD
 date: '2023-11-23T18:42:18'
 draft: false
 images:
@@ -15,8 +14,4 @@ title: Negative Plane - The Pact
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=28160&sort=pd.name&order=ASC) for $30.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=30190&sort=pd.name&order=ASC) for $30.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=42576&sort=pd.name&order=ASC) for $24.00
-## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=28159&sort=pd.name&order=ASC) for $12.00

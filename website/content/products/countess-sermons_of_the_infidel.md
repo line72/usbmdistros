@@ -1,5 +1,5 @@
 ---
-actualPrice: $6.00 - 8.00
+actualPrice: $8.00
 album: Sermons of the Infidel
 artist: Countess
 categories:
@@ -14,5 +14,4 @@ title: Countess - Sermons of the Infidel
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=5886&sort=pd.name&order=ASC) for $6.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=17313&sort=pd.name&order=ASC) for $8.00

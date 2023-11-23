@@ -1,9 +1,8 @@
 ---
-actualPrice: $8.40 - 85.00
+actualPrice: $9.60
 album: Rabid Death's Curse
 artist: Watain
 categories:
-- Vinyl
 - CD
 date: '2023-11-23T18:44:35'
 draft: false
@@ -14,8 +13,5 @@ thumbnailImage: /images/covers/watain-rabid_death's_curse-thumb.jpg
 title: Watain - Rabid Death's Curse
 ---
 
-## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=13487&sort=pd.name&order=ASC) for $85.00
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=17986&sort=pd.name&order=ASC) for $8.40
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=29775&sort=pd.name&order=ASC) for $9.60

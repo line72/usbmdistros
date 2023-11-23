@@ -1,5 +1,5 @@
 ---
-actualPrice: $12.00 - 15.00
+actualPrice: $12.00
 album: Unholy Pagan War - Promo Rehearsal
 artist: Diabolical Fullmoon
 categories:
@@ -14,5 +14,4 @@ title: Diabolical Fullmoon - Unholy Pagan War - Promo Rehearsal
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=39649&sort=pd.name&order=ASC) for $15.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=41525&sort=pd.name&order=ASC) for $12.00

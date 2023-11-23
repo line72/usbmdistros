@@ -1,5 +1,5 @@
 ---
-actualPrice: $6.40 - 10.00
+actualPrice: $6.40
 album: Promo 2007
 artist: Cultus
 categories:
@@ -14,5 +14,4 @@ title: Cultus - Promo 2007
 ---
 
 ## Cassette
-* Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/cultus-promo-2007-cassette/) for $10.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=41404&sort=pd.name&order=ASC) for $6.40

@@ -1,12 +1,10 @@
 ---
-actualPrice: $13.00 - 59.00
+actualPrice: $29.00
 album: "S\xF3knardalr"
 artist: Windir
 categories:
 - Vinyl
-- Cassette
-- CD
-date: '2022-08-02T13:15:49'
+date: '2021-08-10T05:00:10'
 draft: false
 images:
 - "/images/covers/windir-s\xF3knardalr.jpg"
@@ -16,14 +14,4 @@ title: "Windir - S\xF3knardalr"
 ---
 
 ## Vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/windir-soknardalr-2xlp) for $39.00 :: Red/Black Marbled 1st press vinyl
 * Purchase from [Sto'Vo'Kor Records](https://stovokor-records.com/products/windir-soknardalr) for $29.00
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/windir-soknardalr-2xlp) for $32.00 :: Red 2nd press
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/windir-soknardalr-2xlp) for $35.00 :: Yellow/Green Marbled 2nd press
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/windir-soknardalr-2xlp-1) for $32.00 :: Red 2nd press vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/windir-soknardalr-2xlp-1) for $59.00 :: Red/Black Marbled 1st press vinyl
-## Cassette
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/windir-soknardalr-cassette) for $13.00 :: Cassette Tape 2021 press
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/windir-soknardalr-cassette-1) for $14.00 :: Cassette Tape 2021 press
-## CD
-* Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/windir-soknardalr-cd/) for $15.00

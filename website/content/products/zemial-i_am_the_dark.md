@@ -1,5 +1,5 @@
 ---
-actualPrice: $10.00 - 16.00
+actualPrice: $16.00
 album: I Am The Dark
 artist: Zemial
 categories:
@@ -14,5 +14,4 @@ title: Zemial - I Am The Dark
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=23558&sort=pd.name&order=ASC) for $10.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=40746&sort=pd.name&order=ASC) for $16.00

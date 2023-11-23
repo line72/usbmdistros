@@ -1,5 +1,5 @@
 ---
-actualPrice: $13.60 - 25.00
+actualPrice: $13.60
 album: In Zalvend Onmin
 artist: Verloren
 categories:
@@ -14,5 +14,4 @@ title: Verloren - In Zalvend Onmin
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29936&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=39426&sort=pd.name&order=ASC) for $13.60

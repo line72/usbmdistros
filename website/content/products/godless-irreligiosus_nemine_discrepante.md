@@ -14,5 +14,4 @@ title: Godless - Irreligiosus Nemine Discrepante
 ---
 
 ## Cassette
-* Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/33607279-godless-irreligiosus-nemine-discrepante) for $8.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=22196&sort=pd.name&order=ASC) for $8.00

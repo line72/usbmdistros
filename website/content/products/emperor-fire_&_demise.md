@@ -1,5 +1,5 @@
 ---
-actualPrice: $216.00 - 270.00
+actualPrice: $216.00
 album: Fire & Demise
 artist: Emperor
 categories:
@@ -14,21 +14,4 @@ title: Emperor - Fire & Demise
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=23320&sort=pd.name&order=ASC) for $270.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=23628&sort=pd.name&order=ASC) for $270.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=23844&sort=pd.name&order=ASC) for $270.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=24127&sort=pd.name&order=ASC) for $270.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=24346&sort=pd.name&order=ASC) for $270.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=24728&sort=pd.name&order=ASC) for $270.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=24956&sort=pd.name&order=ASC) for $270.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=25569&sort=pd.name&order=ASC) for $270.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=26053&sort=pd.name&order=ASC) for $270.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=27255&sort=pd.name&order=ASC) for $270.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=29396&sort=pd.name&order=ASC) for $270.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=30223&sort=pd.name&order=ASC) for $270.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=30420&sort=pd.name&order=ASC) for $270.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=32346&sort=pd.name&order=ASC) for $270.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=33520&sort=pd.name&order=ASC) for $270.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=34505&sort=pd.name&order=ASC) for $270.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=36685&sort=pd.name&order=ASC) for $270.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=42249&sort=pd.name&order=ASC) for $216.00

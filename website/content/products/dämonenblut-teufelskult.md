@@ -1,5 +1,5 @@
 ---
-actualPrice: $12.00 - 15.00
+actualPrice: $12.00
 album: Teufelskult
 artist: "D\xE4monenblut"
 categories:
@@ -14,5 +14,4 @@ title: "D\xE4monenblut - Teufelskult"
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=38287&sort=pd.name&order=ASC) for $15.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=40897&sort=pd.name&order=ASC) for $12.00

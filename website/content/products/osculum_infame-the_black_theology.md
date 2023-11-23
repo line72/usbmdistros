@@ -1,10 +1,9 @@
 ---
-actualPrice: $9.60 - 15.00
+actualPrice: $9.60
 album: The Black Theology
 artist: Osculum Infame
 categories:
 - Cassette
-- CD
 date: '2023-11-23T18:45:05'
 draft: false
 images:
@@ -16,6 +15,3 @@ title: Osculum Infame - The Black Theology
 
 ## Cassette
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=22329&sort=pd.name&order=ASC) for $9.60
-## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=22330&sort=pd.name&order=ASC) for $15.00
-* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/osculum-infame-the-black-theology-cd) for $15.00

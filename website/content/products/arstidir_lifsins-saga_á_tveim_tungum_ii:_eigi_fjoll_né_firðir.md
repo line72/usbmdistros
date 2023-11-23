@@ -1,5 +1,5 @@
 ---
-actualPrice: $24.00 - 30.00
+actualPrice: $24.00
 album: "Saga \xE1 Tveim Tungum II: Eigi Fjoll n\xE9 Fir\xF0ir"
 artist: Arstidir Lifsins
 categories:
@@ -16,5 +16,4 @@ title: "Arstidir Lifsins - Saga \xE1 Tveim Tungum II: Eigi Fjoll n\xE9 Fir\xF0ir
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29895&sort=pd.name&order=ASC) for $30.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=36004&sort=pd.name&order=ASC) for $24.00

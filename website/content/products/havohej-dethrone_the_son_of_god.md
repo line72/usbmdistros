@@ -14,5 +14,4 @@ title: Havohej - Dethrone the Son of God
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=24381&sort=pd.name&order=ASC) for $12.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=29801&sort=pd.name&order=ASC) for $12.00

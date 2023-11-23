@@ -1,5 +1,5 @@
 ---
-actualPrice: $8.00 - 10.00
+actualPrice: $8.00
 album: Inhuman Mankind
 artist: Necrotomy
 categories:
@@ -14,5 +14,4 @@ title: Necrotomy - Inhuman Mankind
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=3791&sort=pd.name&order=ASC) for $10.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=43464&sort=pd.name&order=ASC) for $8.00

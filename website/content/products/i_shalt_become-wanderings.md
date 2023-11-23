@@ -1,5 +1,5 @@
 ---
-actualPrice: $20.00 - 50.00
+actualPrice: $20.00
 album: Wanderings
 artist: I Shalt Become
 categories:
@@ -14,6 +14,4 @@ title: I Shalt Become - Wanderings
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=22661&sort=pd.name&order=ASC) for $50.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=32423&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=35882&sort=pd.name&order=ASC) for $20.00

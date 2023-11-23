@@ -1,5 +1,5 @@
 ---
-actualPrice: $21.60 - 26.00
+actualPrice: $21.60
 album: Saturnian Mysticism
 artist: Sepulchral Triumph
 categories:
@@ -14,5 +14,4 @@ title: Sepulchral Triumph - Saturnian Mysticism
 ---
 
 ## Vinyl
-* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/sepulchral-triumph-saturnian-mysticism-12-lp) for $26.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=28971&sort=pd.name&order=ASC) for $21.60

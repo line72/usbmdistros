@@ -1,5 +1,5 @@
 ---
-actualPrice: $13.60 - 15.00
+actualPrice: $13.60
 album: United Metal Punks
 artist: Barbatos / Blizzard
 categories:
@@ -14,5 +14,4 @@ title: Barbatos / Blizzard - United Metal Punks
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=7430&sort=pd.name&order=ASC) for $15.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=31964&sort=pd.name&order=ASC) for $13.60

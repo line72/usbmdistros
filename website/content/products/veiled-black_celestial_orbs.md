@@ -1,5 +1,5 @@
 ---
-actualPrice: $12.00 - 20.00
+actualPrice: $12.00
 album: Black Celestial Orbs
 artist: Veiled
 categories:
@@ -14,6 +14,4 @@ title: Veiled - Black Celestial Orbs
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=3291&sort=pd.name&order=ASC) for $20.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=14038&sort=pd.name&order=ASC) for $20.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=38951&sort=pd.name&order=ASC) for $12.00

@@ -1,5 +1,5 @@
 ---
-actualPrice: $20.00 - 25.00
+actualPrice: $20.00
 album: "Skygger fra d\xF8dsriket"
 artist: "Gjend\xF8d"
 categories:
@@ -14,9 +14,4 @@ title: "Gjend\xF8d - Skygger fra d\xF8dsriket"
 ---
 
 ## Vinyl
-* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/gjendod-skygger-fra-dodsriket-12-lp) for $25.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=19368&sort=pd.name&order=ASC) for $25.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=21896&sort=pd.name&order=ASC) for $25.00
-* Purchase from [CW Productions](https://shop.cwproductions.net/products/gjendod-skygger-fra-dodsriket-lp-1) for $24.00
-* Purchase from [CW Productions](https://shop.cwproductions.net/products/gjendod-skygger-fra-dodsriket-lp-2) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=37714&sort=pd.name&order=ASC) for $20.00

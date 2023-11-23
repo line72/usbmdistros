@@ -1,5 +1,5 @@
 ---
-actualPrice: $9.60 - 12.00
+actualPrice: $9.60
 album: Twilight  Ceremonies
 artist: Blood Stronghold
 categories:
@@ -14,5 +14,4 @@ title: Blood Stronghold - Twilight  Ceremonies
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=16923&sort=pd.name&order=ASC) for $12.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=29669&sort=pd.name&order=ASC) for $9.60

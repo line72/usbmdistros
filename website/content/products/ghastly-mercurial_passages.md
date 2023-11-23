@@ -1,5 +1,5 @@
 ---
-actualPrice: $8.00 - 10.00
+actualPrice: $8.00
 album: Mercurial Passages
 artist: Ghastly
 categories:
@@ -14,6 +14,5 @@ title: Ghastly - Mercurial Passages
 ---
 
 ## Cassette
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/ghastly-mercurial-passages-cassette) for $10.00 :: Cassette Tape 1st press
 * Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/34964728-ghastly-mercurial-passages) for $8.00
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/used-ghastly-mercurial-passages-cassette) for $8.00 :: Cassette Tape 1st press

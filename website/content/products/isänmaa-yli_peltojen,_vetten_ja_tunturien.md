@@ -1,5 +1,5 @@
 ---
-actualPrice: $6.40 - 10.00
+actualPrice: $6.40 - 8.00
 album: Yli Peltojen, Vetten Ja Tunturien
 artist: "Is\xE4nmaa"
 categories:
@@ -14,9 +14,5 @@ title: "Is\xE4nmaa - Yli Peltojen, Vetten Ja Tunturien"
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=24671&sort=pd.name&order=ASC) for $10.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=35426&sort=pd.name&order=ASC) for $10.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=38520&sort=pd.name&order=ASC) for $10.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=38519&sort=pd.name&order=ASC) for $10.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=38757&sort=pd.name&order=ASC) for $6.40
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=38758&sort=pd.name&order=ASC) for $8.00

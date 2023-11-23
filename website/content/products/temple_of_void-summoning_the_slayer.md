@@ -1,5 +1,5 @@
 ---
-actualPrice: $22.00 - 45.00
+actualPrice: $25.00 - 45.00
 album: Summoning The Slayer
 artist: Temple Of Void
 categories:
@@ -14,10 +14,6 @@ title: Temple Of Void - Summoning The Slayer
 ---
 
 ## Vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/temple-of-void-summoning-the-slayer-lp) for $37.00 :: Royal Blue Cloudy 1st press vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/temple-of-void-summoning-the-slayer-lp) for $39.00 :: Tri-Merge w/ Splatter 1st press vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/temple-of-void-summoning-the-slayer-lp) for $45.00 :: White In Split Color 1st press vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/used-temple-of-void-summoning-the-slayer-lp) for $22.00 :: Royal Blue Cloudy 1st press vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/temple-of-void-summoning-the-slayer-lp-1) for $25.00 :: Royal Blue Cloudy 2022 press
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/temple-of-void-summoning-the-slayer-lp-1) for $45.00 :: Tri-Merge w/ Splatter 2022 press
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/temple-of-void-summoning-the-slayer-lp-1) for $45.00 :: White In Split Color 2022 press

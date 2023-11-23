@@ -1,5 +1,5 @@
 ---
-actualPrice: $16.25 - 25.00
+actualPrice: $16.25
 album: Knights from Hell
 artist: Vassago
 categories:
@@ -14,7 +14,4 @@ title: Vassago - Knights from Hell
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=11297&sort=pd.name&order=ASC) for $25.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=15976&sort=pd.name&order=ASC) for $20.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=23545&sort=pd.name&order=ASC) for $16.25
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=26772&sort=pd.name&order=ASC) for $20.00

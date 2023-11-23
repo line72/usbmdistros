@@ -1,10 +1,9 @@
 ---
-actualPrice: $12.00 - 25.00
+actualPrice: $20.00 - 25.00
 album: II
 artist: Eosphoros
 categories:
 - Vinyl
-- CD
 date: '2023-11-23T18:41:43'
 draft: false
 images:
@@ -17,5 +16,3 @@ title: Eosphoros - II
 ## Vinyl
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/eosphoros-ii-12-lp) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=22407&sort=pd.name&order=ASC) for $20.00
-## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=22377&sort=pd.name&order=ASC) for $12.00

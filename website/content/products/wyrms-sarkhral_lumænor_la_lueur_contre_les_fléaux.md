@@ -1,5 +1,5 @@
 ---
-actualPrice: $21.60 - 27.00
+actualPrice: $21.60
 album: "Sarkhral Lum\xE6nor La Lueur Contre les Fl\xE9aux"
 artist: Wyrms
 categories:
@@ -15,5 +15,4 @@ title: "Wyrms - Sarkhral Lum\xE6nor La Lueur Contre les Fl\xE9aux"
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=32429&sort=pd.name&order=ASC) for $27.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=41369&sort=pd.name&order=ASC) for $21.60

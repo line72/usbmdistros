@@ -4,7 +4,6 @@ album: Urmystyk
 artist: "G\xE4rg\xE4ntu\xE4h"
 categories:
 - Vinyl
-- Cassette
 - CD
 date: '2023-11-23T18:43:46'
 draft: false
@@ -17,15 +16,6 @@ title: "G\xE4rg\xE4ntu\xE4h - Urmystyk"
 
 ## Vinyl
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/gargantuah-urmystyk-12-lp) for $25.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=36393&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=40375&sort=pd.name&order=ASC) for $20.00
-## Cassette
-* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/gargantuah-urmystyk-tape) for $11.00
 ## CD
-* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/gargantuah-urmystyk-cd) for $14.00
-* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/gargantuah-urmystyk-cd) for $14.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=20823&sort=pd.name&order=ASC) for $12.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=29138&sort=pd.name&order=ASC) for $12.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=29271&sort=pd.name&order=ASC) for $12.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=36324&sort=pd.name&order=ASC) for $12.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=40372&sort=pd.name&order=ASC) for $9.60

@@ -1,11 +1,9 @@
 ---
-actualPrice: $12.00 - 25.00
+actualPrice: $20.00 - 25.00
 album: Vala Comum
 artist: Morte Incandescente
 categories:
 - Vinyl
-- Cassette
-- CD
 date: '2023-11-23T18:42:14'
 draft: false
 images:
@@ -17,9 +15,4 @@ title: Morte Incandescente - Vala Comum
 
 ## Vinyl
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/morte-incandescente-vala-comum-12-lp) for $25.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=23830&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=32993&sort=pd.name&order=ASC) for $20.00
-## Cassette
-* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/morte-incandescente-vala-comum-tape) for $12.00
-## CD
-* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/morte-incandescente-vala-comum-cd) for $13.00

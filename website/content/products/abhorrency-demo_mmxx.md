@@ -1,5 +1,5 @@
 ---
-actualPrice: $10.00 - 17.00
+actualPrice: $10.00
 album: Demo MMXX
 artist: Abhorrency
 categories:
@@ -14,6 +14,5 @@ title: Abhorrency - Demo MMXX
 ---
 
 ## Vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/abhorrency-demo-mmxx) for $17.00 :: Black 1st press
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/abhorrency-demo-mmxx) for $10.00 :: Clear 1st press vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/abhorrency-demo-mmxx) for $10.00 :: Black 1st press vinyl

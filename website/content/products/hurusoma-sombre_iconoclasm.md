@@ -1,5 +1,5 @@
 ---
-actualPrice: $9.60 - 10.00
+actualPrice: $9.60
 album: Sombre Iconoclasm
 artist: Hurusoma
 categories:
@@ -14,5 +14,4 @@ title: Hurusoma - Sombre Iconoclasm
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=2313&sort=pd.name&order=ASC) for $10.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=36148&sort=pd.name&order=ASC) for $9.60

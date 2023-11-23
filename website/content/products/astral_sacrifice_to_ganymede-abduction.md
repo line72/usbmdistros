@@ -1,5 +1,5 @@
 ---
-actualPrice: $9.60 - 11.00
+actualPrice: $9.60
 album: Abduction
 artist: Astral Sacrifice to Ganymede
 categories:
@@ -15,4 +15,3 @@ title: Astral Sacrifice to Ganymede - Abduction
 
 ## Cassette
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=27178&sort=pd.name&order=ASC) for $9.60
-* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/astral-sacrifice-to-ganymede-abduction-tape) for $11.00

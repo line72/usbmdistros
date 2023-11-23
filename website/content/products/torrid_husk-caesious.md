@@ -1,5 +1,5 @@
 ---
-actualPrice: $6.00 - 8.00
+actualPrice: $8.00
 album: Caesious
 artist: Torrid Husk
 categories:
@@ -14,5 +14,4 @@ title: Torrid Husk - Caesious
 ---
 
 ## Cassette
-* Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/29211871-torrid-husk-caesious) for $6.00
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/torrid-husk-caesious-cassette) for $8.00 :: Black Shell 2014 press

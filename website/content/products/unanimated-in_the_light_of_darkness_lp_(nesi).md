@@ -14,5 +14,4 @@ title: Unanimated - In The Light of Darkness LP (NESI)
 ---
 
 ## Vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/unanimated-in-the-light-of-darkness-lp) for $49.00 :: Black w/ Purple Splatter 2021 press vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/unanimated-in-the-light-of-darkness-lp-nesi) for $49.00 :: Black w/ Purple Splatter 2021 press vinyl

@@ -1,5 +1,5 @@
 ---
-actualPrice: $4.00 - 17.00
+actualPrice: $4.00
 album: Ex Regnum Spiritus in Manifestus
 artist: Capitis Damnare
 categories:
@@ -14,6 +14,4 @@ title: Capitis Damnare - Ex Regnum Spiritus in Manifestus
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=1745&sort=pd.name&order=ASC) for $17.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=21892&sort=pd.name&order=ASC) for $15.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=39710&sort=pd.name&order=ASC) for $4.00

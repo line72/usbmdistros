@@ -1,10 +1,9 @@
 ---
-actualPrice: $15.00 - 27.00
+actualPrice: $21.60
 album: "Brennende \xC5kres Gr\xF8de"
 artist: Askeregn
 categories:
 - Vinyl
-- CD
 date: '2023-11-23T18:41:19'
 draft: false
 images:
@@ -15,9 +14,4 @@ title: "Askeregn - Brennende \xC5kres Gr\xF8de"
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=30550&sort=pd.name&order=ASC) for $27.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=32471&sort=pd.name&order=ASC) for $27.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=36002&sort=pd.name&order=ASC) for $21.60
-## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=30549&sort=pd.name&order=ASC) for $15.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=32472&sort=pd.name&order=ASC) for $15.00

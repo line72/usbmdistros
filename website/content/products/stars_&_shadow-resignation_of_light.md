@@ -1,5 +1,5 @@
 ---
-actualPrice: $21.60 - 30.00
+actualPrice: $21.60
 album: Resignation of Light
 artist: Stars & Shadow
 categories:
@@ -14,5 +14,4 @@ title: Stars & Shadow - Resignation of Light
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=19681&sort=pd.name&order=ASC) for $30.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=26811&sort=pd.name&order=ASC) for $21.60

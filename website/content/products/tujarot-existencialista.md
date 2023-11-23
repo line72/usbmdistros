@@ -1,5 +1,5 @@
 ---
-actualPrice: $8.00 - 17.00
+actualPrice: $8.00
 album: Existencialista
 artist: Tujarot
 categories:
@@ -14,5 +14,4 @@ title: Tujarot - Existencialista
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=3879&sort=pd.name&order=ASC) for $17.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=38955&sort=pd.name&order=ASC) for $8.00

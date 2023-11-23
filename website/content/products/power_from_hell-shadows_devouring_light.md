@@ -19,4 +19,3 @@ title: Power From Hell - Shadows Devouring Light
 * Purchase from [Debemur Morti](https://debemurmorti.aisamerch.com/item/117456) for $44.99 :: DMP Exclusive
 ## CD
 * Purchase from [Debemur Morti](https://debemurmorti.aisamerch.com/item/117457) for $10.99
-* Purchase from [Debemur Morti](https://debemurmorti.aisamerch.com/item/117458) for $19.98 :: DMP exclusive

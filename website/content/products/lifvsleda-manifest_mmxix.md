@@ -1,5 +1,5 @@
 ---
-actualPrice: $12.00 - 15.00
+actualPrice: $12.00
 album: Manifest MMXIX
 artist: Lifvsleda
 categories:
@@ -14,5 +14,4 @@ title: Lifvsleda - Manifest MMXIX
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=18543&sort=pd.name&order=ASC) for $15.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=28549&sort=pd.name&order=ASC) for $12.00

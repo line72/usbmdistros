@@ -1,10 +1,9 @@
 ---
-actualPrice: $10.00 - 20.00
+actualPrice: $20.00
 album: The Lost Dimension
 artist: Druadan Forest
 categories:
 - Vinyl
-- CD
 date: '2023-11-23T18:41:41'
 draft: false
 images:
@@ -16,5 +15,3 @@ title: Druadan Forest - The Lost Dimension
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=36301&sort=pd.name&order=ASC) for $20.00
-## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=18043&sort=pd.name&order=ASC) for $10.00

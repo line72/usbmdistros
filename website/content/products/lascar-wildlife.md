@@ -14,5 +14,4 @@ title: Lascar - Wildlife
 ---
 
 ## Vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/lascar-wildlife-lp) for $23.00 :: Black 2021 press vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/lascar-wildlife-lp-1) for $23.00 :: Black 2018 press vinyl

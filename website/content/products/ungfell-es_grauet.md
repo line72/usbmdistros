@@ -1,5 +1,5 @@
 ---
-actualPrice: $25.00 - 29.99
+actualPrice: $29.99
 album: Es grauet
 artist: Ungfell
 categories:
@@ -14,5 +14,4 @@ title: Ungfell - Es grauet
 ---
 
 ## Vinyl
-* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/ungfell-es-grauet-12-lp) for $25.00
 * Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/ungfell-es-grauet-lp-booklet-black) for $29.99 :: LP+Booklet (Black)

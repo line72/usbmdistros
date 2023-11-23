@@ -1,9 +1,8 @@
 ---
-actualPrice: $12.00 - 25.00
+actualPrice: $12.00
 album: "Cwylmend\xE9a\xFE"
 artist: "W\xF3ddr\xE9a Mylenstede"
 categories:
-- Vinyl
 - CD
 date: '2023-11-23T18:44:36'
 draft: false
@@ -14,10 +13,5 @@ thumbnailImage: "/images/covers/w\xF3ddr\xE9a_mylenstede-cwylmend\xE9a\xFE-thumb
 title: "W\xF3ddr\xE9a Mylenstede - Cwylmend\xE9a\xFE"
 ---
 
-## Vinyl
-* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/woddrea-mylenstede-cwylmendeath-12-lp) for $25.00
 ## CD
-* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/woddrea-mylenstede-cwylmendeath-cd) for $15.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=13954&sort=pd.name&order=ASC) for $15.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=17842&sort=pd.name&order=ASC) for $15.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=27240&sort=pd.name&order=ASC) for $12.00

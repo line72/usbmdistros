@@ -14,5 +14,4 @@ title: Order of Darkness - Untitled I + Bonus
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=11056&sort=pd.name&order=ASC) for $16.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=19053&sort=pd.name&order=ASC) for $16.00

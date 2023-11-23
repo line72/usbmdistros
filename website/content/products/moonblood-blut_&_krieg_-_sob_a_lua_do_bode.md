@@ -1,10 +1,9 @@
 ---
-actualPrice: $15.00 - 30.00
+actualPrice: $24.00
 album: Blut & Krieg / Sob A Lua Do Bode
 artist: Moonblood
 categories:
 - Vinyl
-- CD
 date: '2023-11-23T18:42:13'
 draft: false
 images:
@@ -15,19 +14,4 @@ title: Moonblood - Blut & Krieg / Sob A Lua Do Bode
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=23137&sort=pd.name&order=ASC) for $30.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=23296&sort=pd.name&order=ASC) for $30.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=24629&sort=pd.name&order=ASC) for $30.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=24960&sort=pd.name&order=ASC) for $30.00
-* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/moonblood-blut-krieg-sob-a-lua-do-bode-2xlp) for $30.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=28809&sort=pd.name&order=ASC) for $30.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=33796&sort=pd.name&order=ASC) for $30.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=36157&sort=pd.name&order=ASC) for $30.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=37362&sort=pd.name&order=ASC) for $24.00
-## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=21278&sort=pd.name&order=ASC) for $15.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=21630&sort=pd.name&order=ASC) for $15.00
-* Purchase from [CW Productions](https://shop.cwproductions.net/products/moonblood-blut-krieg-sob-a-lua-do-bode-cd) for $15.00
-* Purchase from [CW Productions](https://shop.cwproductions.net/products/moonblood-blut-krieg-sob-a-lua-do-bode-cd-1) for $15.00
-* Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/moonblood-blut-krieg-sob-a-lua-do-bode-cd/) for $15.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=26785&sort=pd.name&order=ASC) for $15.00

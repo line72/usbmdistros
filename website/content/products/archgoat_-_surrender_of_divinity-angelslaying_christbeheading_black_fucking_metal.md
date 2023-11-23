@@ -1,5 +1,5 @@
 ---
-actualPrice: $40.00 - 150.00
+actualPrice: $120.00
 album: Angelslaying Christbeheading Black Fucking Metal
 artist: Archgoat / Surrender Of Divinity
 categories:
@@ -15,6 +15,4 @@ title: Archgoat / Surrender Of Divinity - Angelslaying Christbeheading Black Fuc
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=15821&sort=pd.name&order=ASC) for $40.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=15963&sort=pd.name&order=ASC) for $150.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=42946&sort=pd.name&order=ASC) for $120.00

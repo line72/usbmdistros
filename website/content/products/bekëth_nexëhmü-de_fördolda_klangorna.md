@@ -1,5 +1,5 @@
 ---
-actualPrice: $16.00 - 45.00
+actualPrice: $16.00 - 36.00
 album: "De F\xF6rdolda Klangorna"
 artist: "Bek\xEBth Nex\xEBhm\xFC"
 categories:
@@ -15,25 +15,6 @@ title: "Bek\xEBth Nex\xEBhm\xFC - De F\xF6rdolda Klangorna"
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=21030&sort=pd.name&order=ASC) for $45.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=21658&sort=pd.name&order=ASC) for $45.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=22703&sort=pd.name&order=ASC) for $45.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=23392&sort=pd.name&order=ASC) for $45.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=24322&sort=pd.name&order=ASC) for $45.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=24719&sort=pd.name&order=ASC) for $45.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=25964&sort=pd.name&order=ASC) for $45.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=27668&sort=pd.name&order=ASC) for $45.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=28326&sort=pd.name&order=ASC) for $45.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=28943&sort=pd.name&order=ASC) for $45.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29093&sort=pd.name&order=ASC) for $45.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29403&sort=pd.name&order=ASC) for $45.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=30485&sort=pd.name&order=ASC) for $45.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=31619&sort=pd.name&order=ASC) for $45.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=32608&sort=pd.name&order=ASC) for $45.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=33720&sort=pd.name&order=ASC) for $45.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=34402&sort=pd.name&order=ASC) for $45.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=40439&sort=pd.name&order=ASC) for $45.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=42906&sort=pd.name&order=ASC) for $36.00
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=32610&sort=pd.name&order=ASC) for $20.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=42907&sort=pd.name&order=ASC) for $16.00

@@ -15,4 +15,3 @@ title: Drowning The Light - Drinking the Sacrament of the Patron Saint
 
 ## CD
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/drowning-the-light-drinking-the-sacrament-of-the-patron-saint-cd) for $14.00
-* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/drowning-the-light-drinking-the-sacrament-of-the-patron-saint-cd) for $14.00

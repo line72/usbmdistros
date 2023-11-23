@@ -1,11 +1,10 @@
 ---
-actualPrice: $11.00 - 13.00
+actualPrice: $11.00
 album: Demo 2016
 artist: Helleruin
 categories:
 - Cassette
-- CD
-date: '2023-07-27T05:56:48'
+date: '2022-03-23T05:00:57'
 draft: false
 images:
 - /images/covers/helleruin-demo_2016.jpg
@@ -15,8 +14,4 @@ title: Helleruin - Demo 2016
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=21664&sort=pd.name&order=ASC) for $12.00
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/helleruin-demo-2016-tape) for $11.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=24575&sort=pd.name&order=ASC) for $12.00
-## CD
-* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/helleruin-demo-2016-cd) for $13.00

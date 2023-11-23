@@ -1,9 +1,8 @@
 ---
-actualPrice: $9.60 - 30.00
+actualPrice: $9.60
 album: Cask Strength Black Metal
 artist: Dead Raven Choir
 categories:
-- Vinyl
 - CD
 date: '2023-11-23T18:43:34'
 draft: false
@@ -14,9 +13,5 @@ thumbnailImage: /images/covers/dead_raven_choir-cask_strength_black_metal-thumb.
 title: Dead Raven Choir - Cask Strength Black Metal
 ---
 
-## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=13333&sort=pd.name&order=ASC) for $30.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=27761&sort=pd.name&order=ASC) for $20.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=39013&sort=pd.name&order=ASC) for $15.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=27762&sort=pd.name&order=ASC) for $9.60

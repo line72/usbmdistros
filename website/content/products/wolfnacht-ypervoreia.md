@@ -1,10 +1,9 @@
 ---
-actualPrice: $15.00 - 30.00
+actualPrice: $30.00
 album: Ypervoreia
 artist: Wolfnacht
 categories:
 - Vinyl
-- CD
 date: '2023-11-19T08:27:04'
 draft: false
 images:
@@ -15,8 +14,4 @@ title: Wolfnacht - Ypervoreia
 ---
 
 ## Vinyl
-* Purchase from [CW Productions](https://shop.cwproductions.net/products/wolfnacht-ypervoreia-lp-1) for $28.00
 * Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/wolfnacht-ypervoreia-12-lp/) for $30.00
-## CD
-* Purchase from [CW Productions](https://shop.cwproductions.net/products/wolfnacht-ypervoreia-cd) for $16.00
-* Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/wolfnacht-ypervoreia-cd/) for $15.00

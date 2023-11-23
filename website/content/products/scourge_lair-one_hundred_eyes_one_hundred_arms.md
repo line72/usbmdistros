@@ -1,5 +1,5 @@
 ---
-actualPrice: $5.00 - 8.00
+actualPrice: $5.00 - 5.20
 album: One Hundred Eyes One Hundred Arms
 artist: Scourge Lair
 categories:
@@ -14,11 +14,5 @@ title: Scourge Lair - One Hundred Eyes One Hundred Arms
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=12353&sort=pd.name&order=ASC) for $8.00
 * Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/26639553-scourge-lair-one-hundred-eyes-one-hundred-arms) for $5.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=22059&sort=pd.name&order=ASC) for $8.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=24147&sort=pd.name&order=ASC) for $5.20
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=29736&sort=pd.name&order=ASC) for $8.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=30708&sort=pd.name&order=ASC) for $8.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=34414&sort=pd.name&order=ASC) for $8.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=34771&sort=pd.name&order=ASC) for $5.20

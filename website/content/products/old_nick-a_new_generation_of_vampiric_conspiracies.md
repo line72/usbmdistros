@@ -15,4 +15,3 @@ title: Old Nick - A New Generation of Vampiric Conspiracies
 
 ## Vinyl
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/old-nick-a-new-generation-of-vampiric-conspiracies-2xlp) for $35.00
-* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/old-nick-a-new-generation-of-vampiric-conspiracies-2xlp) for $35.00

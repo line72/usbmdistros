@@ -1,5 +1,5 @@
 ---
-actualPrice: $6.40 - 8.00
+actualPrice: $6.40
 album: Grand Master of the Final Harvest
 artist: Heptameron
 categories:
@@ -14,5 +14,4 @@ title: Heptameron - Grand Master of the Final Harvest
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=11661&sort=pd.name&order=ASC) for $8.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=22828&sort=pd.name&order=ASC) for $6.40

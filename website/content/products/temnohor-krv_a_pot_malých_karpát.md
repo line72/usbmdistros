@@ -1,5 +1,5 @@
 ---
-actualPrice: $20.00 - 25.00
+actualPrice: $20.00
 album: "Krv a pot Mal\xFDch Karp\xE1t"
 artist: Temnohor
 categories:
@@ -14,5 +14,4 @@ title: "Temnohor - Krv a pot Mal\xFDch Karp\xE1t"
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=20911&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=25812&sort=pd.name&order=ASC) for $20.00

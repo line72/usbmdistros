@@ -1,9 +1,8 @@
 ---
-actualPrice: $5.60 - 10.00
+actualPrice: $5.60
 album: To Take Up the Cross
 artist: Latitude Egress
 categories:
-- Vinyl
 - CD
 date: '2023-11-23T18:43:59'
 draft: false
@@ -14,8 +13,5 @@ thumbnailImage: /images/covers/latitude_egress-to_take_up_the_cross-thumb.jpg
 title: Latitude Egress - To Take Up the Cross
 ---
 
-## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=1052&sort=pd.name&order=ASC) for $6.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=39544&sort=pd.name&order=ASC) for $10.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=1415&sort=pd.name&order=ASC) for $5.60

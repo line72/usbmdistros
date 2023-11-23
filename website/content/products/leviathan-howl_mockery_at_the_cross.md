@@ -1,10 +1,9 @@
 ---
-actualPrice: $15.00 - 39.00
+actualPrice: $28.00
 album: Howl Mockery At The Cross
 artist: Leviathan
 categories:
 - Vinyl
-- Cassette
 date: '2023-11-23T18:42:04'
 draft: false
 images:
@@ -15,13 +14,4 @@ title: Leviathan - Howl Mockery At The Cross
 ---
 
 ## Vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/leviathan-howl-mockery-at-the-cross-2xlp) for $29.00 :: White 2018 press vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/leviathan-howl-mockery-at-the-cross-2xlp) for $39.00 :: Grey 2018 press vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=43312&sort=pd.name&order=ASC) for $35.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=43406&sort=pd.name&order=ASC) for $35.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=43536&sort=pd.name&order=ASC) for $35.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=43693&sort=pd.name&order=ASC) for $35.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=43808&sort=pd.name&order=ASC) for $28.00
-## Cassette
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/leviathan-howl-mockery-at-the-cross-cassette) for $15.00 :: Cassette Tape 2021 press
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/leviathan-howl-mockery-at-the-cross-cassette-1) for $15.00 :: Cassette Tape 2021 press

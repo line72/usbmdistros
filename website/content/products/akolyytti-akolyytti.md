@@ -1,5 +1,5 @@
 ---
-actualPrice: $10.00 - 15.00
+actualPrice: $10.00
 album: Akolyytti
 artist: Akolyytti
 categories:
@@ -14,5 +14,4 @@ title: Akolyytti - Akolyytti
 ---
 
 ## CD
-* Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/akolytti-akolyytti-cd/) for $15.00
 * Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/akolyytti-akolyytti-cd/) for $10.00

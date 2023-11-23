@@ -1,5 +1,5 @@
 ---
-actualPrice: $45.00 - 80.00
+actualPrice: $70.00
 album: Vile Genesis
 artist: Inferi
 categories:
@@ -14,8 +14,4 @@ title: Inferi - Vile Genesis
 ---
 
 ## Vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/inferi-vile-genesis-lp) for $45.00 :: Maelstrom 1st press vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/inferi-vile-genesis-lp) for $45.00 :: Automata 1st press vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/inferi-vile-genesis-lp-1) for $80.00 :: "Vile" Tri-fold 1st press vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/used-inferi-vile-genesis-lp) for $60.00 :: Vile 2021 press vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/used-inferi-vile-genesis-lp) for $70.00 :: "Vile" 2021 press vinyl

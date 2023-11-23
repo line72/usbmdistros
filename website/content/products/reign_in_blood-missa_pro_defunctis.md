@@ -1,10 +1,9 @@
 ---
-actualPrice: $10.00 - 16.00
+actualPrice: $16.00
 album: Missa Pro Defunctis
 artist: Reign In Blood
 categories:
 - Vinyl
-- CD
 date: '2023-11-23T18:42:29'
 draft: false
 images:
@@ -16,5 +15,3 @@ title: Reign In Blood - Missa Pro Defunctis
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=5771&sort=pd.name&order=ASC) for $16.00
-## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=14662&sort=pd.name&order=ASC) for $10.00

@@ -1,5 +1,5 @@
 ---
-actualPrice: $24.00 - 30.00
+actualPrice: $24.00
 album: Whispers in the Fire
 artist: Seer's Fire
 categories:
@@ -14,5 +14,4 @@ title: Seer's Fire - Whispers in the Fire
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=26328&sort=pd.name&order=ASC) for $30.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=26992&sort=pd.name&order=ASC) for $24.00

@@ -14,7 +14,5 @@ title: Vanum - Ageless Fire
 ---
 
 ## Vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/vanum-ageless-fire) for $23.00 :: Cloudy Clear w/ Galaxy Swirl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/vanum-ageless-fire) for $23.00 :: Black 2022 press vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/vanum-ageless-fire) for $25.00 :: Swirl w/ Splatter 2019 press vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/vanum-ageless-fire) for $29.00 :: Clear w/ Swirl 2019 press vinyl

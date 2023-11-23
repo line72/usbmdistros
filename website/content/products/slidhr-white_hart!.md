@@ -15,7 +15,6 @@ title: Slidhr - White Hart!
 ---
 
 ## Vinyl
-* Purchase from [Debemur Morti](https://debemurmorti.aisamerch.com/item/139331) for $22.99
 * Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/slidhr-white-hart-white-heavy-vinyl-w-black-splatters-lp) for $27.00 :: white heavy vinyl w/ black splatters LP
 ## CD
 * Purchase from [Debemur Morti](https://debemurmorti.aisamerch.com/item/139332) for $10.99

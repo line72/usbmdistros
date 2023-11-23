@@ -14,6 +14,5 @@ title: "P\xE9nombre - M\xE9phistoph\xE9l\xE8s (ou le diable sur terre)"
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=18929&sort=pd.name&order=ASC) for $25.00
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/penombre-mephistopheles-ou-le-diable-sur-terre-12-lp) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=19330&sort=pd.name&order=ASC) for $20.00

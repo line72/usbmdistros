@@ -1,5 +1,5 @@
 ---
-actualPrice: $16.25 - 20.00
+actualPrice: $16.25
 album: Born in a Casket
 artist: Immortallity
 categories:
@@ -15,4 +15,3 @@ title: Immortallity - Born in a Casket
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=8897&sort=pd.name&order=ASC) for $16.25
-* Purchase from [CW Productions](https://shop.cwproductions.net/products/immortallity-born-in-a-casket-lp) for $20.00

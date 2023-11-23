@@ -1,5 +1,5 @@
 ---
-actualPrice: $25.00 - 26.00
+actualPrice: $26.00
 album: "Cuisine & Po\xE9sie Noire / Bourreau De Village"
 artist: "Maestr\xF6 Cr\xF6que M\xF6rt"
 categories:
@@ -14,5 +14,4 @@ title: "Maestr\xF6 Cr\xF6que M\xF6rt - Cuisine & Po\xE9sie Noire / Bourreau De V
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29264&sort=pd.name&order=ASC) for $25.00
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/maestro-croque-mort-cuisine-poesie-noire-bourreau-de-village-12-lp) for $26.00

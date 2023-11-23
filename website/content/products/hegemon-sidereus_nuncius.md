@@ -1,5 +1,5 @@
 ---
-actualPrice: $22.00 - 25.00
+actualPrice: $22.00
 album: Sidereus Nuncius
 artist: Hegemon
 categories:
@@ -14,5 +14,4 @@ title: Hegemon - Sidereus Nuncius
 ---
 
 ## Vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/hegemon-sidereus-nuncius-lp) for $25.00 :: Black 2021 press vinyl
 * Purchase from [Sto'Vo'Kor Records](https://stovokor-records.com/products/hegemon-sidereus-nuncius) for $22.00

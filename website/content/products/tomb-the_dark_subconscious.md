@@ -1,10 +1,9 @@
 ---
-actualPrice: $12.00 - 20.00
+actualPrice: $20.00
 album: The Dark Subconscious
 artist: Tomb
 categories:
 - Vinyl
-- CD
 date: '2023-11-23T18:42:46'
 draft: false
 images:
@@ -16,5 +15,3 @@ title: Tomb - The Dark Subconscious
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=36173&sort=pd.name&order=ASC) for $20.00
-## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=36172&sort=pd.name&order=ASC) for $12.00

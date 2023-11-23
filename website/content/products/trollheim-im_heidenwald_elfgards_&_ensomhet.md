@@ -15,8 +15,6 @@ title: Trollheim - Im Heidenwald Elfgards & Ensomhet
 ---
 
 ## Vinyl
-* Purchase from [CW Productions](https://shop.cwproductions.net/products/trollheim-im-heidenwald-elfgaards-ensomhet-lp) for $25.00
-* Purchase from [CW Productions](https://shop.cwproductions.net/products/trollheim-im-heidenwald-elfgards-ensomhet-lp) for $25.00
 * Purchase from [CW Productions](https://shop.cwproductions.net/products/trollheim-im-heidenwald-elfgards-ensomhet-lp-2) for $25.00
 ## CD
 * Purchase from [CW Productions](https://shop.cwproductions.net/products/trollheim-im-heidenwald-elfgards-ensomhet-cd) for $12.00

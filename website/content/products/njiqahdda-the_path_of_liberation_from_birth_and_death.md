@@ -1,5 +1,5 @@
 ---
-actualPrice: $16.00 - 20.00
+actualPrice: $16.00
 album: The Path Of Liberation From Birth And Death
 artist: Njiqahdda
 categories:
@@ -14,5 +14,4 @@ title: Njiqahdda - The Path Of Liberation From Birth And Death
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=32412&sort=pd.name&order=ASC) for $20.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=40962&sort=pd.name&order=ASC) for $16.00

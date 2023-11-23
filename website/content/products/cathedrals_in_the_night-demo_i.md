@@ -15,4 +15,3 @@ title: Cathedrals in the Night - Demo I
 
 ## Cassette
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=19520&sort=pd.name&order=ASC) for $12.00
-* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/cathedrals-in-the-night-demo-i-tape) for $12.00

@@ -1,5 +1,5 @@
 ---
-actualPrice: $35.00 - 45.00
+actualPrice: $35.00
 album: Christfucker
 artist: Portrayal Of Guilt
 categories:
@@ -14,12 +14,7 @@ title: Portrayal Of Guilt - Christfucker
 ---
 
 ## Vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/portrayal-of-guilt-christfucker-lp) for $35.00 :: Oxblood 1st press vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/portrayal-of-guilt-christfucker-lp) for $37.00 :: Clear Yellow 1st press vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/portrayal-of-guilt-christfucker-lp) for $39.00 :: Red w/ Black Splatter 1st press vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/portrayal-of-guilt-christfucker-lp) for $45.00 :: Glow-In-The-Dark 1st press vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/portrayal-of-guilt-christfucker-lp-1) for $35.00 :: Oxblood 2021 press vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/portrayal-of-guilt-christfucker-lp-1) for $35.00 :: Yellow 2021 press vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/portrayal-of-guilt-christfucker-lp-1) for $35.00 :: Red w/ Black Splatter 2021 press
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/portrayal-of-guilt-christfucker-lp-1) for $39.00 :: Clear w/ Splatter 1st press vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/portrayal-of-guilt-christfucker-lp-1) for $35.00 :: Glow-In-The-Dark 2021 press

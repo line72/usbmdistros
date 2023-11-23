@@ -1,5 +1,5 @@
 ---
-actualPrice: $13.00 - 20.00
+actualPrice: $13.00
 album: Dead Christ Prayer
 artist: Witchcraft / Aske
 categories:
@@ -14,5 +14,4 @@ title: Witchcraft / Aske - Dead Christ Prayer
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=14670&sort=pd.name&order=ASC) for $20.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=30902&sort=pd.name&order=ASC) for $13.00

@@ -14,6 +14,5 @@ title: Monstraat - The One Eternal
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=11525&sort=pd.name&order=ASC) for $7.00
 * Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/25784052-monstraat-the-one-eternal) for $5.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=31547&sort=pd.name&order=ASC) for $9.60

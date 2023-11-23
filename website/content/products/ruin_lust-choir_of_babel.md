@@ -1,10 +1,9 @@
 ---
-actualPrice: $10.00 - 25.00
+actualPrice: $23.00 - 25.00
 album: Choir Of Babel
 artist: Ruin Lust
 categories:
 - Vinyl
-- Cassette
 date: '2023-06-11T09:52:29'
 draft: false
 images:
@@ -17,5 +16,3 @@ title: Ruin Lust - Choir Of Babel
 ## Vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/ruin-lust-choir-of-babel-lp) for $23.00 :: Smoke w/ Red Splatter 1st press vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/ruin-lust-choir-of-babel-lp) for $25.00 :: Red/Black Merge w/ Silver/Bone Splatter 1st press vinyl
-## Cassette
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/ruin-lust-choir-of-babel-cassette) for $10.00 :: Cassette Tape 1st press

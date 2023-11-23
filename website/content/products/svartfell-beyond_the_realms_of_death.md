@@ -1,5 +1,5 @@
 ---
-actualPrice: $6.40 - 8.00
+actualPrice: $6.40
 album: Beyond The Realms Of Death
 artist: Svartfell
 categories:
@@ -14,5 +14,4 @@ title: Svartfell - Beyond The Realms Of Death
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=40753&sort=pd.name&order=ASC) for $8.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=41179&sort=pd.name&order=ASC) for $6.40

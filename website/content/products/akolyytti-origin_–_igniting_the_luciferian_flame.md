@@ -1,5 +1,5 @@
 ---
-actualPrice: $16.00 - 20.00
+actualPrice: $20.00
 album: "Origin \u2013 Igniting the Luciferian Flame"
 artist: Akolyytti
 categories:
@@ -14,5 +14,4 @@ title: "Akolyytti - Origin \u2013 Igniting the Luciferian Flame"
 ---
 
 ## Vinyl
-* Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/akolyytti-origin-igniting-the-luciferian-flame-12-lp/) for $16.00
 * Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/akolyytti-origin-igniting-the-luciferian-flame-12-lp/) for $20.00

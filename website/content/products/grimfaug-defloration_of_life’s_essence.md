@@ -15,4 +15,3 @@ title: "Grimfaug - Defloration of Life\u2019s Essence"
 
 ## Cassette
 * Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/grimfaug-defloration-of-lifes-essence-cassette/) for $5.00
-* Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/grimfaug-defloration-of-lifes-essence-cassette/) for $5.00

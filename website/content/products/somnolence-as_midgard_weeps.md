@@ -1,5 +1,5 @@
 ---
-actualPrice: $4.80 - 5.00
+actualPrice: $4.80
 album: As Midgard Weeps
 artist: Somnolence
 categories:
@@ -15,4 +15,3 @@ title: Somnolence - As Midgard Weeps
 
 ## Cassette
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=1004&sort=pd.name&order=ASC) for $4.80
-* Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/somnolence-as-midgard-weeps-cassette/) for $5.00

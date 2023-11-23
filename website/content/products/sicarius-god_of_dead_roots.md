@@ -1,5 +1,5 @@
 ---
-actualPrice: $14.40 - 20.00
+actualPrice: $14.40
 album: God of Dead Roots
 artist: Sicarius
 categories:
@@ -14,5 +14,4 @@ title: Sicarius - God of Dead Roots
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=9822&sort=pd.name&order=ASC) for $20.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=41431&sort=pd.name&order=ASC) for $14.40

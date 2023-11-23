@@ -1,10 +1,9 @@
 ---
-actualPrice: $12.00 - 25.00
+actualPrice: $20.00
 album: Darkness Calls Upon Me
 artist: Nyctophilia
 categories:
 - Vinyl
-- Cassette
 date: '2023-11-23T18:42:21'
 draft: false
 images:
@@ -15,8 +14,4 @@ title: Nyctophilia - Darkness Calls Upon Me
 ---
 
 ## Vinyl
-* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/nyctophilia-darkness-calls-upon-me-12-lp) for $25.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=34129&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=43016&sort=pd.name&order=ASC) for $20.00
-## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=27394&sort=pd.name&order=ASC) for $12.00

@@ -1,5 +1,5 @@
 ---
-actualPrice: $8.00 - 10.00
+actualPrice: $8.00
 album: Aspiration Of Corrupted Ancient Blood
 artist: Lucubration
 categories:
@@ -14,6 +14,4 @@ title: Lucubration - Aspiration Of Corrupted Ancient Blood
 ---
 
 ## Cassette
-* Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/33474556-lucubration-aspiration-of-corrupted-ancient-blood) for $9.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=19712&sort=pd.name&order=ASC) for $10.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=26416&sort=pd.name&order=ASC) for $8.00

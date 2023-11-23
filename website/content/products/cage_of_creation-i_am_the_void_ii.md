@@ -1,5 +1,5 @@
 ---
-actualPrice: $20.00 - 25.00
+actualPrice: $20.00
 album: I am the Void II
 artist: Cage Of Creation
 categories:
@@ -14,5 +14,4 @@ title: Cage Of Creation - I am the Void II
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=15869&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=41098&sort=pd.name&order=ASC) for $20.00

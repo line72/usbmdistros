@@ -20,5 +20,4 @@ title: Condescendance - Chao Wampirii
 ## Cassette
 * Purchase from [Sto'Vo'Kor Records](https://stovokor-records.com/products/condescendance-chao-wampirii) for $10.00
 ## CD
-* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/condescendance-chao-wampirii-cd) for $14.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=19719&sort=pd.name&order=ASC) for $12.00

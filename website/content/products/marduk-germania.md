@@ -1,5 +1,5 @@
 ---
-actualPrice: $10.00 - 60.00
+actualPrice: $13.60 - 20.00
 album: Germania
 artist: Marduk
 categories:
@@ -15,8 +15,6 @@ title: Marduk - Germania
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=5795&sort=pd.name&order=ASC) for $10.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=18980&sort=pd.name&order=ASC) for $60.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=31448&sort=pd.name&order=ASC) for $20.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=20012&sort=pd.name&order=ASC) for $13.60

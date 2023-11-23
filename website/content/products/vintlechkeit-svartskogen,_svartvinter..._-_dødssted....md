@@ -1,5 +1,5 @@
 ---
-actualPrice: $12.00 - 20.00
+actualPrice: $12.00
 album: "Svartskogen, Svartvinter... / D\xF8dssted..."
 artist: Vintlechkeit
 categories:
@@ -14,5 +14,4 @@ title: "Vintlechkeit - Svartskogen, Svartvinter... / D\xF8dssted..."
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=10308&sort=pd.name&order=ASC) for $20.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=39429&sort=pd.name&order=ASC) for $12.00

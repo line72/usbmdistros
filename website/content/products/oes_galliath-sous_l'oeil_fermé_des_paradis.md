@@ -1,5 +1,5 @@
 ---
-actualPrice: $24.00 - 35.00
+actualPrice: $24.00
 album: "Sous l'Oeil Ferm\xE9 des Paradis"
 artist: Oes Galliath
 categories:
@@ -14,6 +14,4 @@ title: "Oes Galliath - Sous l'Oeil Ferm\xE9 des Paradis"
 ---
 
 ## Vinyl
-* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/oes-galliath-sous-l-oeil-ferme-des-paradis-2xlp) for $35.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=22297&sort=pd.name&order=ASC) for $30.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=27469&sort=pd.name&order=ASC) for $24.00

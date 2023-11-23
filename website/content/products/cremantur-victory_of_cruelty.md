@@ -1,5 +1,5 @@
 ---
-actualPrice: $9.60 - 13.00
+actualPrice: $9.60
 album: Victory of Cruelty
 artist: Cremantur
 categories:
@@ -14,6 +14,4 @@ title: Cremantur - Victory of Cruelty
 ---
 
 ## Vinyl
-* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/cremantur-victory-of-cruelty-7-ep) for $13.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=16921&sort=pd.name&order=ASC) for $12.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=22048&sort=pd.name&order=ASC) for $9.60

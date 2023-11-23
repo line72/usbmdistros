@@ -1,5 +1,5 @@
 ---
-actualPrice: $16.00 - 30.00
+actualPrice: $16.00
 album: Through the First Sphere of Saturnus
 artist: Sapientia
 categories:
@@ -14,5 +14,4 @@ title: Sapientia - Through the First Sphere of Saturnus
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=22091&sort=pd.name&order=ASC) for $30.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=40000&sort=pd.name&order=ASC) for $16.00

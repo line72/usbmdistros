@@ -1,11 +1,10 @@
 ---
-actualPrice: $9.00 - 27.00
+actualPrice: $9.00 - 21.60
 album: Stronghold of Majestic Ruins
 artist: "R\xFCndgard"
 categories:
 - Vinyl
 - Cassette
-- CD
 date: '2023-11-23T18:42:31'
 draft: false
 images:
@@ -17,11 +16,6 @@ title: "R\xFCndgard - Stronghold of Majestic Ruins"
 
 ## Vinyl
 * Purchase from [Sto'Vo'Kor Records](https://stovokor-records.com/products/rundgard-stronghold-of-majestic-ruins) for $20.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=25762&sort=pd.name&order=ASC) for $27.00
-* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/rundgard-stronghold-of-majestic-ruins-12-lp) for $26.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29861&sort=pd.name&order=ASC) for $21.60
 ## Cassette
 * Purchase from [Sto'Vo'Kor Records](https://stovokor-records.com/products/rundgard-stronghold-of-majestic-ruins-cassette) for $9.00
-* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/rundgard-stronghold-of-majestic-ruins-tape) for $12.00
-## CD
-* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/rundgard-stronghold-of-majestic-ruins-cd) for $14.00

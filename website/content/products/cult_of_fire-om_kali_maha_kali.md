@@ -1,5 +1,5 @@
 ---
-actualPrice: $60.00 - 75.00
+actualPrice: $60.00
 album: Om Kali Maha Kali
 artist: Cult Of Fire
 categories:
@@ -14,7 +14,4 @@ title: Cult Of Fire - Om Kali Maha Kali
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=31811&sort=pd.name&order=ASC) for $75.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=32598&sort=pd.name&order=ASC) for $75.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=33682&sort=pd.name&order=ASC) for $75.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=38648&sort=pd.name&order=ASC) for $60.00

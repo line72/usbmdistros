@@ -1,10 +1,9 @@
 ---
-actualPrice: $8.00 - 25.00
+actualPrice: $8.00
 album: "\u05DC\u05B8\u05E9\u05C1\u05D5\u05B9\u05DF \u05D4\u05B7\u05E7\u05B9\u05BC\u05D3\
   \u05B6\u05E9\u05C1"
 artist: Holocausto Em Chamas
 categories:
-- Vinyl
 - CD
 date: '2023-11-23T18:43:53'
 draft: false
@@ -18,7 +17,5 @@ title: "Holocausto Em Chamas - \u05DC\u05B8\u05E9\u05C1\u05D5\u05B9\u05DF \u05D4
   \u05E7\u05B9\u05BC\u05D3\u05B6\u05E9\u05C1"
 ---
 
-## Vinyl
-* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/holocausto-em-chamas-12-lp) for $25.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=8981&sort=pd.name&order=ASC) for $8.00

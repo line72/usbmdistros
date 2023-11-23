@@ -1,10 +1,9 @@
 ---
-actualPrice: $11.00 - 35.00
+actualPrice: $24.00 - 35.00
 album: By Fire Born From a Burned Womb
 artist: Pyromantyc
 categories:
 - Vinyl
-- Cassette
 date: '2023-11-23T18:42:28'
 draft: false
 images:
@@ -17,5 +16,3 @@ title: Pyromantyc - By Fire Born From a Burned Womb
 ## Vinyl
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/pyromantyc-by-fire-born-from-a-burned-womb-12-lp) for $35.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=40522&sort=pd.name&order=ASC) for $24.00
-## Cassette
-* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/pyromantyc-by-fire-born-from-a-burned-womb-tape) for $11.00

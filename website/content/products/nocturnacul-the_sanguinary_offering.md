@@ -14,6 +14,5 @@ title: Nocturnacul - The Sanguinary Offering
 ---
 
 ## Cassette
-* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/nocturnacul-the-sanguinary-offering-tape) for $12.00
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/used-nocturnacul-the-sanguinary-offering-tape) for $10.00 :: Cassette 2022
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=30021&sort=pd.name&order=ASC) for $12.00

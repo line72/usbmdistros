@@ -1,5 +1,5 @@
 ---
-actualPrice: $9.60 - 10.00
+actualPrice: $9.60
 album: "Resurrecci\xF3n maldita"
 artist: Nekromantie
 categories:
@@ -14,5 +14,4 @@ title: "Nekromantie - Resurrecci\xF3n maldita"
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=13689&sort=pd.name&order=ASC) for $10.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=24809&sort=pd.name&order=ASC) for $9.60

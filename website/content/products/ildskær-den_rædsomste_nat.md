@@ -1,5 +1,5 @@
 ---
-actualPrice: $20.00 - 25.00
+actualPrice: $20.00
 album: "Den R\xE6dsomste Nat"
 artist: "Ildsk\xE6r"
 categories:
@@ -14,5 +14,4 @@ title: "Ildsk\xE6r - Den R\xE6dsomste Nat"
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=36303&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=42443&sort=pd.name&order=ASC) for $20.00

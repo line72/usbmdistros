@@ -1,5 +1,5 @@
 ---
-actualPrice: $20.00 - 27.00
+actualPrice: $20.00
 album: Dimensions
 artist: Lantern
 categories:
@@ -14,5 +14,4 @@ title: Lantern - Dimensions
 ---
 
 ## Vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/lantern-dimensions) for $27.00 :: Silver w/ Black Splatter 1st press vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/lantern-dimensions) for $20.00 :: Silver w/ Black Splatter 2019 press vinyl

@@ -1,5 +1,5 @@
 ---
-actualPrice: $16.00 - 20.00
+actualPrice: $16.00
 album: Orke/Fuck Off Nowadays Black Metal
 artist: Nargaroth
 categories:
@@ -14,5 +14,4 @@ title: Nargaroth - Orke/Fuck Off Nowadays Black Metal
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=18377&sort=pd.name&order=ASC) for $20.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=34673&sort=pd.name&order=ASC) for $16.00

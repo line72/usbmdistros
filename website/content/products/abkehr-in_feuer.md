@@ -1,5 +1,5 @@
 ---
-actualPrice: $10.00 - 12.00
+actualPrice: $12.00
 album: In Feuer
 artist: Abkehr
 categories:
@@ -14,5 +14,4 @@ title: Abkehr - In Feuer
 ---
 
 ## CD
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/abkehr-in-feuer-cd) for $10.00 :: CD 2021
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/abkehr-in-feuer-cd-1) for $12.00 :: CD 2021

@@ -1,5 +1,5 @@
 ---
-actualPrice: $12.00 - 15.00
+actualPrice: $12.00
 album: Demo I
 artist: Sulfurous Presence
 categories:
@@ -14,6 +14,4 @@ title: Sulfurous Presence - Demo I
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=19524&sort=pd.name&order=ASC) for $15.00
-* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/sulfurous-presence-demo-i-tape) for $12.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=28568&sort=pd.name&order=ASC) for $12.00

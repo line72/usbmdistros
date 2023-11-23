@@ -19,7 +19,6 @@ title: Cirrhus - Unimpeachable Madness
 * Purchase from [CW Productions](https://shop.cwproductions.net/products/cirrhus-unimpeachable-madness-lp) for $16.00
 ## Cassette
 * Purchase from [CW Productions](https://shop.cwproductions.net/products/cirrhus-unimpeachable-madness-tape) for $8.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=20657&sort=pd.name&order=ASC) for $10.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=25389&sort=pd.name&order=ASC) for $8.00
 ## CD
 * Purchase from [CW Productions](https://shop.cwproductions.net/products/cirrhus-unimpeachable-madness-cd-1) for $10.00

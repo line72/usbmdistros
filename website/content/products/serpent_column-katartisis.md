@@ -1,5 +1,5 @@
 ---
-actualPrice: $23.00 - 25.00
+actualPrice: $23.00
 album: Katartisis
 artist: Serpent Column
 categories:
@@ -14,6 +14,4 @@ title: Serpent Column - Katartisis
 ---
 
 ## Vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/serpent-column-katartisis-lp) for $25.00 :: Black 1st press vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=22528&sort=pd.name&order=ASC) for $25.00
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/serpent-column-katartisis-lp-1) for $23.00 :: Black 1st press vinyl

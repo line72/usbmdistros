@@ -1,5 +1,5 @@
 ---
-actualPrice: $10.99 - 49.99
+actualPrice: $10.99 - 29.99
 album: Nous sommes d'Hier
 artist: Suhnopfer
 categories:
@@ -16,8 +16,6 @@ title: Suhnopfer - Nous sommes d'Hier
 
 ## Vinyl
 * Purchase from [Debemur Morti](https://debemurmorti.aisamerch.com/item/139326) for $29.99 :: blue / gold merge
-* Purchase from [Debemur Morti](https://debemurmorti.aisamerch.com/item/139329) for $49.99 :: DMP exclusive - Gold edition
-* Purchase from [Debemur Morti](https://debemurmorti.aisamerch.com/item/139330) for $49.99 :: DMP exclusive - Silver edition
 * Purchase from [Debemur Morti](https://debemurmorti.aisamerch.com/item/139327) for $29.99 :: silver
 ## CD
 * Purchase from [Debemur Morti](https://debemurmorti.aisamerch.com/item/139328) for $10.99

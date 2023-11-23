@@ -1,5 +1,5 @@
 ---
-actualPrice: $20.00 - 25.00
+actualPrice: $20.00
 album: In The Falling Snow
 artist: I Shalt Become
 categories:
@@ -14,5 +14,4 @@ title: I Shalt Become - In The Falling Snow
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=24574&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=35885&sort=pd.name&order=ASC) for $20.00
