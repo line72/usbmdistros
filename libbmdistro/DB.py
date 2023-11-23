@@ -303,7 +303,13 @@ class DB:
                           product.quantity, product.description, p['id']))
             else:
                 # definitely set the last_seen_at
-                cursor.execute('''UPDATE products SET last_seen_at = (datetime(current_timestamp))''')
+                cursor.execute(
+                    '''
+                    UPDATE products
+                    SET
+                      last_seen_at = (datetime(current_timestamp))
+                    WHERE id = ?
+                    ''', (p['id']))
 
             self.conn.commit()
             
