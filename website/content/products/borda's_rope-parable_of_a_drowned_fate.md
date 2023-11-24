@@ -1,9 +1,8 @@
 ---
-actualPrice: $12.00 - 20.00
+actualPrice: $12.00
 album: Parable of a Drowned Fate
 artist: Borda's Rope
 categories:
-- Vinyl
 - CD
 date: '2023-11-23T18:43:29'
 draft: false
@@ -14,7 +13,5 @@ thumbnailImage: /images/covers/borda's_rope-parable_of_a_drowned_fate-thumb.jpg
 title: Borda's Rope - Parable of a Drowned Fate
 ---
 
-## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=38416&sort=pd.name&order=ASC) for $20.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=38414&sort=pd.name&order=ASC) for $12.00

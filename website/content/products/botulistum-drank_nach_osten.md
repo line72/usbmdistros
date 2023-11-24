@@ -1,5 +1,5 @@
 ---
-actualPrice: $5.60 - 12.00
+actualPrice: $5.60
 album: Drank Nach Osten
 artist: Botulistum
 categories:
@@ -15,4 +15,3 @@ title: Botulistum - Drank Nach Osten
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=10995&sort=pd.name&order=ASC) for $5.60
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=42835&sort=pd.name&order=ASC) for $12.00
