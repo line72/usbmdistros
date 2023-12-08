@@ -6,4 +6,5 @@ bmdistro.db
 *.db
 *.db.*
 *.db-journal
+*.db-*
 node_modules
