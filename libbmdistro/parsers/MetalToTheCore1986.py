@@ -64,6 +64,8 @@ class MetalToTheCore1986(Parser):
 
         # The Voice of Steel 12″ GATEFOLD DOUBLE LP BLUE/YELLOW
         # Sang Nordique 12″ DOUBLE LP CLEAR WITH BLACK AND WHITE SPLATTER
+        # Tentacles of Whorror 12″ GATEFOLD DOUBLE LP WHITE WITH RED SPLATTER
+        # De Mysteriis Dom Sathanas 12″ GATEFOLD LP PURPLE
         
         known_types = [
             re.compile(r'^(.*?)\s+MCD\s*$'),
@@ -75,11 +77,11 @@ class MetalToTheCore1986(Parser):
             re.compile(r'^(.*?)\s+\d+″\s+EP\s*$'),
             re.compile(r'^(.*?)\s+\d+"\s+EP\s+.*$'),
             re.compile(r'^(.*?)\s+\d+″\s+EP\s+.*$'),
-            re.compile(r'^(.*?)\s+\d+"\s+GATEFOLD\s+EP\s*$'),
-            re.compile(r'^(.*?)\s+\d+″\s+GATEFOLD\s+EP\s*$'),
-            re.compile(r'^(.*?)\s+\d+"\s+GATEFOLD\s+EP\s+.*$'),
-            re.compile(r'^(.*?)\s+\d+″\s+GATEFOLD\s+EP\s+.*$'),
-            re.compile(r'^(.*?)\s+\d+″\s+GATEFOLD\s+DOUBLE\s+LP\s+[A-Z/]+\s*$'),
+            re.compile(r'^(.*?)\s+\d+"\s+GATEFOLD\s+[LE]P\s*$'),
+            re.compile(r'^(.*?)\s+\d+″\s+GATEFOLD\s+[LE]P\s*$'),
+            re.compile(r'^(.*?)\s+\d+"\s+GATEFOLD\s+[LE]P\s+.*$'),
+            re.compile(r'^(.*?)\s+\d+″\s+GATEFOLD\s+[LE]P\s+.*$'),
+            re.compile(r'^(.*?)\s+\d+″\s+GATEFOLD\s+DOUBLE\s+LP\s+[A-Z/\s]+\s*$'),
             re.compile(r'^(.*?)\s+\d+″\s+DOUBLE\s+LP\s+[A-Z/\s]+\s*$'),
             re.compile(r'^(.*?)\s+\d+"\s+LP\s+[A-Z\s/]+\s*$'),
             re.compile(r'^(.*?)\s+\d+″\s+LP\s*[A-Z\s/]+\s*$'),
