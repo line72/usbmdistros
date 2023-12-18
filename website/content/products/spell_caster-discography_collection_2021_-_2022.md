@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00
+actualPrice: $15.00
 album: Discography Collection 2021 - 2022
 artist: Spell Caster
 categories:
 - CD
-date: '2023-11-23T18:44:25'
+date: '2023-11-29T06:15:29'
 draft: false
 images:
 - /images/covers/spell_caster-discography_collection_2021_-_2022.jpg
@@ -14,4 +14,4 @@ title: Spell Caster - Discography Collection 2021 - 2022
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=38572&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=38572&sort=pd.name&order=ASC) for $15.00

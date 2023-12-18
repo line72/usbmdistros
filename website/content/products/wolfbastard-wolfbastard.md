@@ -1,10 +1,10 @@
 ---
-actualPrice: $7.20
+actualPrice: $9.00
 album: Wolfbastard
 artist: Wolfbastard
 categories:
 - Cassette
-date: '2023-11-23T18:45:19'
+date: '2023-11-29T06:16:15'
 draft: false
 images:
 - /images/covers/wolfbastard-wolfbastard.png
@@ -14,4 +14,4 @@ title: Wolfbastard - Wolfbastard
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=18008&sort=pd.name&order=ASC) for $7.20
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=18008&sort=pd.name&order=ASC) for $9.00

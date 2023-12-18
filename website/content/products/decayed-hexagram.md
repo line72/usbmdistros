@@ -1,10 +1,10 @@
 ---
-actualPrice: $4.80
+actualPrice: $6.00
 album: Hexagram
 artist: Decayed
 categories:
 - CD
-date: '2023-11-23T18:43:34'
+date: '2023-11-29T06:14:49'
 draft: false
 images:
 - /images/covers/decayed-hexagram.jpg
@@ -14,4 +14,4 @@ title: Decayed - Hexagram
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=1992&sort=pd.name&order=ASC) for $4.80
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=1992&sort=pd.name&order=ASC) for $6.00

@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00
+actualPrice: $15.00
 album: Astride Over the Grave
 artist: Graveborne
 categories:
 - Vinyl
-date: '2023-11-23T18:41:51'
+date: '2023-11-29T06:13:25'
 draft: false
 images:
 - /images/covers/graveborne-astride_over_the_grave.jpg
@@ -14,4 +14,4 @@ title: Graveborne - Astride Over the Grave
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=1500&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=1500&sort=pd.name&order=ASC) for $15.00

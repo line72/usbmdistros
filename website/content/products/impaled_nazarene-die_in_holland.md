@@ -1,10 +1,10 @@
 ---
-actualPrice: $16.00
+actualPrice: $20.00
 album: Die In Holland
 artist: Impaled Nazarene
 categories:
 - Vinyl
-date: '2023-11-23T18:43:10'
+date: '2023-11-29T06:14:27'
 draft: false
 images:
 - /images/covers/impaled_nazarene-die_in_holland.jpg
@@ -14,4 +14,4 @@ title: Impaled Nazarene - Die In Holland
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=38754&sort=pd.name&order=ASC) for $16.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=38754&sort=pd.name&order=ASC) for $20.00

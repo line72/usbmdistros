@@ -1,10 +1,10 @@
 ---
-actualPrice: $8.00
+actualPrice: $10.00
 album: The last Temptation - Light of violet Penance
 artist: FUNERARY BELL
 categories:
 - CD
-date: '2023-11-23T18:43:46'
+date: '2023-11-29T06:14:56'
 draft: false
 images:
 - /images/covers/funerary_bell-the_last_temptation_-_light_of_violet_penance.jpg
@@ -14,4 +14,4 @@ title: FUNERARY BELL - The last Temptation - Light of violet Penance
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=32979&sort=pd.name&order=ASC) for $8.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=32979&sort=pd.name&order=ASC) for $10.00

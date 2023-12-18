@@ -1,10 +1,10 @@
 ---
-actualPrice: $8.00
+actualPrice: $10.00
 album: Anima Lucifera
 artist: Sacrilegium
 categories:
 - CD
-date: '2023-11-23T18:44:21'
+date: '2023-11-29T06:15:24'
 draft: false
 images:
 - /images/covers/sacrilegium-anima_lucifera.png
@@ -14,4 +14,4 @@ title: Sacrilegium - Anima Lucifera
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=3221&sort=pd.name&order=ASC) for $8.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=3221&sort=pd.name&order=ASC) for $10.00

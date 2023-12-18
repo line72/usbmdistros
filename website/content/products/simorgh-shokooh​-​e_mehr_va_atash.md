@@ -1,11 +1,11 @@
 ---
-actualPrice: $9.60 - 21.60
+actualPrice: $12.00 - 27.00
 album: "Shokooh\u200B-\u200Be Mehr Va Atash"
 artist: Simorgh
 categories:
 - Vinyl
 - CD
-date: '2023-11-23T18:44:23'
+date: '2023-11-29T06:15:27'
 draft: false
 images:
 - "/images/covers/simorgh-shokooh\u200B-\u200Be_mehr_va_atash.jpg"
@@ -15,6 +15,6 @@ title: "Simorgh - Shokooh\u200B-\u200Be Mehr Va Atash"
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=38867&sort=pd.name&order=ASC) for $21.60
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=38867&sort=pd.name&order=ASC) for $27.00
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=38868&sort=pd.name&order=ASC) for $9.60
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=38868&sort=pd.name&order=ASC) for $12.00

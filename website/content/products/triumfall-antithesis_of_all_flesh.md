@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00
+actualPrice: $15.00
 album: Antithesis Of All Flesh
 artist: Triumfall
 categories:
 - CD
-date: '2023-11-23T18:44:30'
+date: '2023-11-29T06:15:35'
 draft: false
 images:
 - /images/covers/triumfall-antithesis_of_all_flesh.png
@@ -14,4 +14,4 @@ title: Triumfall - Antithesis Of All Flesh
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=19984&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=19984&sort=pd.name&order=ASC) for $15.00

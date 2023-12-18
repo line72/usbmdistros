@@ -1,10 +1,10 @@
 ---
-actualPrice: $13.00
+actualPrice: $20.00
 album: Atonement Ritual
 artist: Embrace of Thorns
 categories:
 - Vinyl
-date: '2023-11-23T18:41:42'
+date: '2023-11-29T06:13:19'
 draft: false
 images:
 - /images/covers/embrace_of_thorns-atonement_ritual.jpg
@@ -14,4 +14,4 @@ title: Embrace of Thorns - Atonement Ritual
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=16142&sort=pd.name&order=ASC) for $13.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=16142&sort=pd.name&order=ASC) for $20.00

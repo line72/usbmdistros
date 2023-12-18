@@ -1,10 +1,10 @@
 ---
-actualPrice: $9.60
+actualPrice: $12.00
 album: The Endless Church
 artist: Rotten Moon
 categories:
 - Vinyl
-date: '2023-11-23T18:42:31'
+date: '2023-11-29T06:13:57'
 draft: false
 images:
 - /images/covers/rotten_moon-the_endless_church.jpg
@@ -14,4 +14,4 @@ title: Rotten Moon - The Endless Church
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=31006&sort=pd.name&order=ASC) for $9.60
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=31006&sort=pd.name&order=ASC) for $12.00

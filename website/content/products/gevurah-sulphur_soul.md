@@ -1,10 +1,10 @@
 ---
-actualPrice: $25.00
+actualPrice: $27.00
 album: Sulphur Soul
 artist: Gevurah
 categories:
 - Vinyl
-date: '2023-11-19T09:04:43'
+date: '2023-12-17T13:25:37'
 draft: false
 images:
 - /images/covers/gevurah-sulphur_soul.png
@@ -14,4 +14,4 @@ title: Gevurah - Sulphur Soul
 ---
 
 ## Vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/gevurah-sulphur-soul-lp) for $25.00 :: Black 2018 press vinyl
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/gevurah-sulphur-soul-lp) for $27.00 :: Black 2018 press vinyl

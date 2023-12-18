@@ -1,10 +1,10 @@
 ---
-actualPrice: $20.00 - 25.00
+actualPrice: $25.00
 album: "Das Ru\xEDnas do Ser"
 artist: Adaga
 categories:
 - Vinyl
-date: '2023-11-23T18:40:43'
+date: '2023-11-29T06:12:56'
 draft: false
 images:
 - "/images/covers/adaga-das_ru\xEDnas_do_ser.jpg"
@@ -15,4 +15,4 @@ title: "Adaga - Das Ru\xEDnas do Ser"
 
 ## Vinyl
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/adaga-das-ruinas-do-ser-12-lp-transparent-vinyl) for $25.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=28653&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=28653&sort=pd.name&order=ASC) for $25.00

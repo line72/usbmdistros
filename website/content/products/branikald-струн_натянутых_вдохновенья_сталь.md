@@ -1,12 +1,12 @@
 ---
-actualPrice: $28.00
+actualPrice: $35.00
 album: "\u0421\u0442\u0440\u0443\u043D \u041D\u0430\u0442\u044F\u043D\u0443\u0442\u044B\
   \u0445 \u0412\u0434\u043E\u0445\u043D\u043E\u0432\u0435\u043D\u044C\u044F \u0421\
   \u0442\u0430\u043B\u044C"
 artist: Branikald
 categories:
 - Vinyl
-date: '2023-11-23T18:41:28'
+date: '2023-11-29T06:13:07'
 draft: false
 images:
 - "/images/covers/branikald-\u0441\u0442\u0440\u0443\u043D_\u043D\u0430\u0442\u044F\
@@ -22,4 +22,4 @@ title: "Branikald - \u0421\u0442\u0440\u0443\u043D \u041D\u0430\u0442\u044F\u043
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=43787&sort=pd.name&order=ASC) for $28.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=43787&sort=pd.name&order=ASC) for $35.00

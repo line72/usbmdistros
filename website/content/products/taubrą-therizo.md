@@ -1,10 +1,10 @@
 ---
-actualPrice: $24.99
+actualPrice: $31.99
 album: THERIZO
 artist: "Taubr\u0105"
 categories:
 - Vinyl
-date: '2023-11-23T18:53:49'
+date: '2023-12-17T13:28:59'
 draft: false
 images:
 - "/images/covers/taubr\u0105-therizo.jpg"
@@ -14,4 +14,4 @@ title: "Taubr\u0105 - THERIZO"
 ---
 
 ## Vinyl
-* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/taubra-therizo-brown-black-merge-heavy-vinyl-w-splatters-vinyl-lp) for $24.99 :: brown / black merge heavy vinyl w/ splatters Vinyl LP
+* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/taubra-therizo-brown-black-merge-heavy-vinyl-w-splatters-vinyl-lp) for $31.99 :: brown / black merge heavy vinyl w/ splatters Vinyl LP

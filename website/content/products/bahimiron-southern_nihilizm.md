@@ -1,10 +1,10 @@
 ---
-actualPrice: $8.00
+actualPrice: $10.00
 album: Southern Nihilizm
 artist: Bahimiron
 categories:
 - CD
-date: '2023-11-23T18:43:26'
+date: '2023-11-29T06:14:42'
 draft: false
 images:
 - /images/covers/bahimiron-southern_nihilizm.jpg
@@ -14,4 +14,4 @@ title: Bahimiron - Southern Nihilizm
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=6035&sort=pd.name&order=ASC) for $8.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=6035&sort=pd.name&order=ASC) for $10.00

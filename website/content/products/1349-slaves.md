@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00
+actualPrice: $15.00
 album: Slaves
 artist: '1349'
 categories:
 - Vinyl
-date: '2023-11-23T18:42:59'
+date: '2023-11-29T06:14:20'
 draft: false
 images:
 - /images/covers/1349-slaves.jpg
@@ -14,4 +14,4 @@ title: 1349 - Slaves
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=42827&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=42827&sort=pd.name&order=ASC) for $15.00

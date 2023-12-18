@@ -1,10 +1,10 @@
 ---
-actualPrice: $6.40
+actualPrice: $8.00
 album: "\u010Dornaje po\u0142ymia"
 artist: "\u0179miar\u0107vie\u0142y"
 categories:
 - Cassette
-date: '2023-11-23T18:45:20'
+date: '2023-11-29T06:16:15'
 draft: false
 images:
 - "/images/covers/\u017Amiar\u0107vie\u0142y-\u010Dornaje_po\u0142ymia.jpg"
@@ -14,4 +14,4 @@ title: "\u0179miar\u0107vie\u0142y - \u010Dornaje po\u0142ymia"
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=17928&sort=pd.name&order=ASC) for $6.40
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=17928&sort=pd.name&order=ASC) for $8.00

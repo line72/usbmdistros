@@ -1,10 +1,10 @@
 ---
-actualPrice: $4.00
+actualPrice: $5.00
 album: Hall of the Slain
 artist: Mucous Scrotum
 categories:
 - CD
-date: '2023-11-23T18:44:06'
+date: '2023-11-29T06:15:14'
 draft: false
 images:
 - /images/covers/mucous_scrotum-hall_of_the_slain.jpg
@@ -14,4 +14,4 @@ title: Mucous Scrotum - Hall of the Slain
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=1307&sort=pd.name&order=ASC) for $4.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=1307&sort=pd.name&order=ASC) for $5.00

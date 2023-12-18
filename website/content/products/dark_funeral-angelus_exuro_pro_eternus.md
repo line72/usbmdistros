@@ -1,10 +1,10 @@
 ---
-actualPrice: $20.00
+actualPrice: $25.00
 album: Angelus Exuro Pro Eternus
 artist: Dark Funeral
 categories:
 - Vinyl
-date: '2023-11-23T18:41:35'
+date: '2023-11-29T06:13:13'
 draft: false
 images:
 - /images/covers/dark_funeral-angelus_exuro_pro_eternus.jpg
@@ -14,4 +14,4 @@ title: Dark Funeral - Angelus Exuro Pro Eternus
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=37467&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=37467&sort=pd.name&order=ASC) for $25.00

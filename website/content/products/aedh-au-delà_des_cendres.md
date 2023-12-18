@@ -1,11 +1,11 @@
 ---
-actualPrice: $5.60 - 8.00
+actualPrice: $7.00 - 10.00
 album: "Au-Del\xE0 Des Cendres"
 artist: Aedh
 categories:
 - Cassette
 - CD
-date: '2023-11-23T18:44:38'
+date: '2023-11-29T06:15:42'
 draft: false
 images:
 - "/images/covers/aedh-au-del\xE0_des_cendres.jpg"
@@ -15,6 +15,6 @@ title: "Aedh - Au-Del\xE0 Des Cendres"
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=11108&sort=pd.name&order=ASC) for $5.60
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=11108&sort=pd.name&order=ASC) for $7.00
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=3402&sort=pd.name&order=ASC) for $8.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=3402&sort=pd.name&order=ASC) for $10.00

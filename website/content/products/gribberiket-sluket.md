@@ -1,10 +1,10 @@
 ---
-actualPrice: $8.00
+actualPrice: $10.00
 album: Sluket
 artist: GRIBBERIKET
 categories:
 - CD
-date: '2023-11-23T18:43:48'
+date: '2023-11-29T06:14:58'
 draft: false
 images:
 - /images/covers/gribberiket-sluket.jpg
@@ -14,4 +14,4 @@ title: GRIBBERIKET - Sluket
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=3454&sort=pd.name&order=ASC) for $8.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=3454&sort=pd.name&order=ASC) for $10.00

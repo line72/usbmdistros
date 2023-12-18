@@ -1,10 +1,10 @@
 ---
-actualPrice: $6.40
+actualPrice: $8.00
 album: Subterranean Sodomies
 artist: Kratornas
 categories:
 - Vinyl
-date: '2023-11-23T18:43:11'
+date: '2023-11-29T06:14:28'
 draft: false
 images:
 - /images/covers/kratornas-subterranean_sodomies.png
@@ -14,4 +14,4 @@ title: Kratornas - Subterranean Sodomies
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=26277&sort=pd.name&order=ASC) for $6.40
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=26277&sort=pd.name&order=ASC) for $8.00

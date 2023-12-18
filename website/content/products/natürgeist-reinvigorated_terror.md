@@ -1,10 +1,10 @@
 ---
-actualPrice: $8.00
+actualPrice: $10.00
 album: Reinvigorated Terror
 artist: "Nat\xFCrgeist"
 categories:
 - Vinyl
-date: '2023-11-23T18:43:13'
+date: '2023-11-29T06:14:31'
 draft: false
 images:
 - "/images/covers/nat\xFCrgeist-reinvigorated_terror.jpg"
@@ -14,4 +14,4 @@ title: "Nat\xFCrgeist - Reinvigorated Terror"
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=26603&sort=pd.name&order=ASC) for $8.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=26603&sort=pd.name&order=ASC) for $10.00

@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00
+actualPrice: $15.00
 album: "Engendros Del Drag\xF3n (1976-1982)"
 artist: Mara
 categories:
 - Cassette
-date: '2023-11-23T18:45:00'
+date: '2023-11-29T06:15:58'
 draft: false
 images:
 - "/images/covers/mara-engendros_del_drag\xF3n_(1976-1982).png"
@@ -14,4 +14,4 @@ title: "Mara - Engendros Del Drag\xF3n (1976-1982)"
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=21255&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=21255&sort=pd.name&order=ASC) for $15.00

@@ -1,10 +1,10 @@
 ---
-actualPrice: $4.80
+actualPrice: $6.00
 album: Goat Funeral Night
 artist: Gravlund
 categories:
 - CD
-date: '2023-11-23T18:43:48'
+date: '2023-11-29T06:14:58'
 draft: false
 images:
 - /images/covers/gravlund-goat_funeral_night.jpg
@@ -14,4 +14,4 @@ title: Gravlund - Goat Funeral Night
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=2239&sort=pd.name&order=ASC) for $4.80
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=2239&sort=pd.name&order=ASC) for $6.00

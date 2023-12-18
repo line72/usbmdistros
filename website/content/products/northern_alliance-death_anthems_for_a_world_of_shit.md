@@ -1,10 +1,10 @@
 ---
-actualPrice: $8.00
+actualPrice: $10.00
 album: Death Anthems For A World Of Shit
 artist: Northern Alliance
 categories:
 - Vinyl
-date: '2023-11-23T18:43:14'
+date: '2023-11-29T06:14:32'
 draft: false
 images:
 - /images/covers/northern_alliance-death_anthems_for_a_world_of_shit.jpg
@@ -14,4 +14,4 @@ title: Northern Alliance - Death Anthems For A World Of Shit
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=23703&sort=pd.name&order=ASC) for $8.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=23703&sort=pd.name&order=ASC) for $10.00

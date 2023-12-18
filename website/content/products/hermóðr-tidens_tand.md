@@ -1,10 +1,10 @@
 ---
-actualPrice: $9.60
+actualPrice: $12.00
 album: Tidens Tand
 artist: "Herm\xF3\xF0r"
 categories:
 - CD
-date: '2023-11-23T18:43:52'
+date: '2023-11-29T06:15:02'
 draft: false
 images:
 - "/images/covers/herm\xF3\xF0r-tidens_tand.jpg"
@@ -14,4 +14,4 @@ title: "Herm\xF3\xF0r - Tidens Tand"
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=36363&sort=pd.name&order=ASC) for $9.60
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=36363&sort=pd.name&order=ASC) for $12.00

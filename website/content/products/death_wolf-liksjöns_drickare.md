@@ -1,10 +1,10 @@
 ---
-actualPrice: $20.00
+actualPrice: $25.00
 album: "Liksj\xF6ns Drickare"
 artist: Death Wolf
 categories:
 - Vinyl
-date: '2023-11-23T18:41:37'
+date: '2023-11-29T06:13:14'
 draft: false
 images:
 - "/images/covers/death_wolf-liksj\xF6ns_drickare.jpg"
@@ -14,4 +14,4 @@ title: "Death Wolf - Liksj\xF6ns Drickare"
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=18579&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=18579&sort=pd.name&order=ASC) for $25.00

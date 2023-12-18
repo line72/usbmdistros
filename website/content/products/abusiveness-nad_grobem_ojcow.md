@@ -1,10 +1,10 @@
 ---
-actualPrice: $7.20
+actualPrice: $9.00
 album: Nad Grobem Ojcow
 artist: Abusiveness
 categories:
 - Vinyl
-date: '2023-11-23T18:42:59'
+date: '2023-11-29T06:14:20'
 draft: false
 images:
 - /images/covers/abusiveness-nad_grobem_ojcow.jpg
@@ -14,4 +14,4 @@ title: Abusiveness - Nad Grobem Ojcow
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=9288&sort=pd.name&order=ASC) for $7.20
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=9288&sort=pd.name&order=ASC) for $9.00

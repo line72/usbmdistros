@@ -1,10 +1,10 @@
 ---
-actualPrice: $9.60
+actualPrice: $12.00
 album: Exaltatum Daemonium
 artist: Impious Blood
 categories:
 - Cassette
-date: '2023-11-23T18:44:57'
+date: '2023-11-29T06:15:55'
 draft: false
 images:
 - /images/covers/impious_blood-exaltatum_daemonium.jpg
@@ -14,4 +14,4 @@ title: Impious Blood - Exaltatum Daemonium
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=21398&sort=pd.name&order=ASC) for $9.60
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=21398&sort=pd.name&order=ASC) for $12.00

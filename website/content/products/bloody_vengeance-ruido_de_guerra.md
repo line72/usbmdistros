@@ -1,10 +1,10 @@
 ---
-actualPrice: $16.25 - 22.75
+actualPrice: $25.00 - 35.00
 album: Ruido De Guerra
 artist: Bloody Vengeance
 categories:
 - Vinyl
-date: '2023-11-23T18:41:27'
+date: '2023-11-29T06:13:06'
 draft: false
 images:
 - /images/covers/bloody_vengeance-ruido_de_guerra.jpg
@@ -14,5 +14,5 @@ title: Bloody Vengeance - Ruido De Guerra
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=39563&sort=pd.name&order=ASC) for $22.75
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=43150&sort=pd.name&order=ASC) for $16.25
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=39563&sort=pd.name&order=ASC) for $35.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=43150&sort=pd.name&order=ASC) for $25.00

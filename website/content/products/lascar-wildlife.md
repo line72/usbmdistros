@@ -1,10 +1,10 @@
 ---
-actualPrice: $23.00
+actualPrice: $25.00
 album: Wildlife
 artist: Lascar
 categories:
 - Vinyl
-date: '2023-03-26T05:25:52'
+date: '2023-12-17T13:25:44'
 draft: false
 images:
 - /images/covers/lascar-wildlife.png
@@ -14,4 +14,4 @@ title: Lascar - Wildlife
 ---
 
 ## Vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/lascar-wildlife-lp-1) for $23.00 :: Black 2018 press vinyl
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/lascar-wildlife-lp-1) for $25.00 :: Black 2018 press vinyl

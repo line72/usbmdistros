@@ -4,7 +4,7 @@ album: Crownless King of the Dismal Dark Empire
 artist: Wolftower
 categories:
 - Vinyl
-date: '2023-06-27T05:05:15'
+date: '2023-12-17T06:01:12'
 draft: false
 images:
 - /images/covers/wolftower-crownless_king_of_the_dismal_dark_empire.png

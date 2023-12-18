@@ -1,10 +1,10 @@
 ---
-actualPrice: $6.40
+actualPrice: $8.00
 album: Return to Light
 artist: Crown of Asteria
 categories:
 - Cassette
-date: '2023-11-23T18:44:45'
+date: '2023-11-29T06:15:47'
 draft: false
 images:
 - /images/covers/crown_of_asteria-return_to_light.jpg
@@ -14,4 +14,4 @@ title: Crown of Asteria - Return to Light
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=17368&sort=pd.name&order=ASC) for $6.40
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=17368&sort=pd.name&order=ASC) for $8.00

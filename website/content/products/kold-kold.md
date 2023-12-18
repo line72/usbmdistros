@@ -1,10 +1,10 @@
 ---
-actualPrice: $21.00
+actualPrice: $23.00
 album: Kold
 artist: Kold
 categories:
 - Vinyl
-date: '2022-04-28T05:14:46'
+date: '2023-12-17T13:26:55'
 draft: false
 images:
 - /images/covers/kold-kold.jpg
@@ -14,4 +14,4 @@ title: Kold - Kold
 ---
 
 ## Vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/kold-kold-lp) for $21.00 :: Black 1st press vinyl
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/kold-kold-lp) for $23.00 :: Black 1st press vinyl

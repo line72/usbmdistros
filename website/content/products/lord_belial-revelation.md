@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00
+actualPrice: $15.00
 album: Revelation
 artist: Lord Belial
 categories:
 - CD
-date: '2023-11-23T18:44:00'
+date: '2023-11-29T06:15:09'
 draft: false
 images:
 - /images/covers/lord_belial-revelation.png
@@ -14,4 +14,4 @@ title: Lord Belial - Revelation
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=28522&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=28522&sort=pd.name&order=ASC) for $15.00

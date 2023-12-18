@@ -1,10 +1,10 @@
 ---
-actualPrice: $16.00
+actualPrice: $20.00
 album: Arcano Ente Nocturno
 artist: Mortuarial Avshy
 categories:
 - Vinyl
-date: '2023-11-23T18:42:15'
+date: '2023-11-29T06:13:44'
 draft: false
 images:
 - /images/covers/mortuarial_avshy-arcano_ente_nocturno.jpg
@@ -14,4 +14,4 @@ title: Mortuarial Avshy - Arcano Ente Nocturno
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=24804&sort=pd.name&order=ASC) for $16.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=24804&sort=pd.name&order=ASC) for $20.00

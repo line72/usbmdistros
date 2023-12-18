@@ -1,10 +1,10 @@
 ---
-actualPrice: $13.60
+actualPrice: $17.00
 album: Black Seed of Bestiality
 artist: CRURIFRAGIUM
 categories:
 - Vinyl
-date: '2023-11-23T18:41:34'
+date: '2023-11-29T06:13:12'
 draft: false
 images:
 - /images/covers/crurifragium-black_seed_of_bestiality.jpg
@@ -14,4 +14,4 @@ title: CRURIFRAGIUM - Black Seed of Bestiality
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=3763&sort=pd.name&order=ASC) for $13.60
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=3763&sort=pd.name&order=ASC) for $17.00

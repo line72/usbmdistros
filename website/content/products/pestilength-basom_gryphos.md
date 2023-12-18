@@ -4,7 +4,7 @@ album: Basom Gryphos
 artist: Pestilength
 categories:
 - Cassette
-date: '2023-11-23T18:45:06'
+date: '2022-06-10T05:15:42'
 draft: false
 images:
 - /images/covers/pestilength-basom_gryphos.png
@@ -14,5 +14,4 @@ title: Pestilength - Basom Gryphos
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=22389&sort=pd.name&order=ASC) for $8.00
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/used-pestilength-basom-gryphos-cassette) for $8.00 :: Cassette Tape 2022

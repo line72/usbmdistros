@@ -1,12 +1,12 @@
 ---
-actualPrice: $9.00 - 20.00
+actualPrice: $9.00 - 25.00
 album: Merciless Blasphemy
 artist: Atonement
 categories:
 - Vinyl
 - Cassette
 - CD
-date: '2023-11-23T18:43:26'
+date: '2023-11-29T06:14:41'
 draft: false
 images:
 - /images/covers/atonement-merciless_blasphemy.jpg
@@ -16,8 +16,8 @@ title: Atonement - Merciless Blasphemy
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=28463&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=28463&sort=pd.name&order=ASC) for $25.00
 ## Cassette
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/atonement-merciless-blasphemy-cassette) for $9.00 :: Cassette 2021 press
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=21769&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=21769&sort=pd.name&order=ASC) for $15.00

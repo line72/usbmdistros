@@ -1,10 +1,10 @@
 ---
-actualPrice: $4.00
+actualPrice: $5.00
 album: Vulto / Ritual de Privacao
 artist: Lythany
 categories:
 - CD
-date: '2023-11-23T18:44:01'
+date: '2023-11-29T06:15:10'
 draft: false
 images:
 - /images/covers/lythany-vulto_-_ritual_de_privacao.jpg
@@ -14,4 +14,4 @@ title: Lythany - Vulto / Ritual de Privacao
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=689&sort=pd.name&order=ASC) for $4.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=689&sort=pd.name&order=ASC) for $5.00

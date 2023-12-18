@@ -1,10 +1,10 @@
 ---
-actualPrice: $20.00
+actualPrice: $25.00
 album: Arvet
 artist: Grift
 categories:
 - Vinyl
-date: '2023-11-23T18:41:52'
+date: '2023-11-29T06:13:25'
 draft: false
 images:
 - /images/covers/grift-arvet.jpg
@@ -14,4 +14,4 @@ title: Grift - Arvet
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=26966&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=26966&sort=pd.name&order=ASC) for $25.00

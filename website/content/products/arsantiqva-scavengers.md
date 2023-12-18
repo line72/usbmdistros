@@ -1,10 +1,10 @@
 ---
-actualPrice: $16.00
+actualPrice: $20.00
 album: Scavengers
 artist: Arsantiqva
 categories:
 - Vinyl
-date: '2023-11-23T18:41:19'
+date: '2023-11-29T06:12:59'
 draft: false
 images:
 - /images/covers/arsantiqva-scavengers.jpg
@@ -14,4 +14,4 @@ title: Arsantiqva - Scavengers
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=41384&sort=pd.name&order=ASC) for $16.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=41384&sort=pd.name&order=ASC) for $20.00

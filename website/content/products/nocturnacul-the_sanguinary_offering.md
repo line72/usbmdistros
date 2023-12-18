@@ -1,10 +1,10 @@
 ---
-actualPrice: $10.00 - 12.00
+actualPrice: $10.00 - 15.00
 album: The Sanguinary Offering
 artist: Nocturnacul
 categories:
 - Cassette
-date: '2023-11-23T18:45:03'
+date: '2023-11-29T06:16:03'
 draft: false
 images:
 - /images/covers/nocturnacul-the_sanguinary_offering.jpg
@@ -15,4 +15,4 @@ title: Nocturnacul - The Sanguinary Offering
 
 ## Cassette
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/used-nocturnacul-the-sanguinary-offering-tape) for $10.00 :: Cassette 2022
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=30021&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=30021&sort=pd.name&order=ASC) for $15.00

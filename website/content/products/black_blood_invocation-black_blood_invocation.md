@@ -1,10 +1,10 @@
 ---
-actualPrice: $20.00
+actualPrice: $25.00
 album: Black Blood Invocation
 artist: Black Blood Invocation
 categories:
 - Vinyl
-date: '2023-11-23T18:41:24'
+date: '2023-11-29T06:13:04'
 draft: false
 images:
 - /images/covers/black_blood_invocation-black_blood_invocation.jpg
@@ -14,4 +14,4 @@ title: Black Blood Invocation - Black Blood Invocation
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=43235&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=43235&sort=pd.name&order=ASC) for $25.00

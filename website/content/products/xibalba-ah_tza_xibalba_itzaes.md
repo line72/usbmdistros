@@ -1,10 +1,10 @@
 ---
-actualPrice: $6.50
+actualPrice: $10.00
 album: Ah Tza Xibalba Itzaes
 artist: Xibalba
 categories:
 - Vinyl
-date: '2023-11-23T18:42:58'
+date: '2023-11-29T06:14:19'
 draft: false
 images:
 - /images/covers/xibalba-ah_tza_xibalba_itzaes.jpg
@@ -14,4 +14,4 @@ title: Xibalba - Ah Tza Xibalba Itzaes
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=35764&sort=pd.name&order=ASC) for $6.50
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=35764&sort=pd.name&order=ASC) for $10.00

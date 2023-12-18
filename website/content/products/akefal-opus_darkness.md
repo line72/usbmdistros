@@ -1,11 +1,11 @@
 ---
-actualPrice: $12.00 - 20.00
+actualPrice: $15.00 - 25.00
 album: Opus Darkness
 artist: Akefal
 categories:
 - Vinyl
 - CD
-date: '2023-11-23T18:43:22'
+date: '2023-11-29T06:14:39'
 draft: false
 images:
 - /images/covers/akefal-opus_darkness.png
@@ -15,6 +15,6 @@ title: Akefal - Opus Darkness
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=18865&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=18865&sort=pd.name&order=ASC) for $25.00
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=18864&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=18864&sort=pd.name&order=ASC) for $15.00

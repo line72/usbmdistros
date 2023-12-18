@@ -1,10 +1,10 @@
 ---
-actualPrice: $21.60
+actualPrice: $27.00
 album: Vestiges of a Fallen Empire
 artist: Ages of Blood
 categories:
 - Vinyl
-date: '2023-11-23T18:40:59'
+date: '2023-11-29T06:12:56'
 draft: false
 images:
 - /images/covers/ages_of_blood-vestiges_of_a_fallen_empire.jpg
@@ -14,4 +14,4 @@ title: Ages of Blood - Vestiges of a Fallen Empire
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=28970&sort=pd.name&order=ASC) for $21.60
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=28970&sort=pd.name&order=ASC) for $27.00

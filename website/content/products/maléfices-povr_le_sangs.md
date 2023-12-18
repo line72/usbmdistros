@@ -1,10 +1,10 @@
 ---
-actualPrice: $20.00 - 23.00
+actualPrice: $23.00 - 25.00
 album: Povr le Sangs
 artist: "Mal\xE9fices"
 categories:
 - Vinyl
-date: '2023-11-23T18:42:07'
+date: '2023-11-29T06:13:40'
 draft: false
 images:
 - "/images/covers/mal\xE9fices-povr_le_sangs.jpg"
@@ -14,5 +14,5 @@ title: "Mal\xE9fices - Povr le Sangs"
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=20882&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=20882&sort=pd.name&order=ASC) for $25.00
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/malefices-povr-le-sangs-12-lp) for $23.00

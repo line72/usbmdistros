@@ -1,10 +1,10 @@
 ---
-actualPrice: $8.00
+actualPrice: $10.00
 album: En vivo en Lima Hell
 artist: Goat Semen
 categories:
 - CD
-date: '2023-11-23T18:43:47'
+date: '2023-11-29T06:14:57'
 draft: false
 images:
 - /images/covers/goat_semen-en_vivo_en_lima_hell.jpg
@@ -14,4 +14,4 @@ title: Goat Semen - En vivo en Lima Hell
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=2928&sort=pd.name&order=ASC) for $8.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=2928&sort=pd.name&order=ASC) for $10.00

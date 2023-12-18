@@ -5,7 +5,7 @@ artist: Plebeian Grandstand
 categories:
 - Vinyl
 - CD
-date: '2023-09-06T09:37:22'
+date: '2022-09-22T05:01:53'
 draft: false
 images:
 - /images/covers/plebeian_grandstand-rien_ne_suffit.jpg
@@ -16,6 +16,5 @@ title: Plebeian Grandstand - Rien ne suffit
 
 ## Vinyl
 * Purchase from [Debemur Morti](https://debemurmorti.aisamerch.com/item/126337) for $32.99
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/used-plebeian-grandstand-rien-ne-suffit-2xlp) for $30.00 :: Purple/Black Merge 2021 press
 ## CD
 * Purchase from [Debemur Morti](https://debemurmorti.aisamerch.com/item/102764) for $9.99

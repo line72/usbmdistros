@@ -1,12 +1,12 @@
 ---
-actualPrice: $11.00 - 23.00
+actualPrice: $11.00 - 25.00
 album: Intet Mere Er
 artist: Kold
 categories:
 - Vinyl
 - Cassette
 - CD
-date: '2023-07-19T08:40:59'
+date: '2023-12-17T13:26:03'
 draft: false
 images:
 - /images/covers/kold-intet_mere_er.jpg
@@ -16,7 +16,7 @@ title: Kold - Intet Mere Er
 ---
 
 ## Vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/kold-intet-mere-er-lp) for $23.00 :: Black 2023 press vinyl
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/kold-intet-mere-er-lp) for $25.00 :: Black 2023 press vinyl
 ## Cassette
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/kold-intet-mere-er-cassette) for $11.00 :: Cassette 2023
 ## CD

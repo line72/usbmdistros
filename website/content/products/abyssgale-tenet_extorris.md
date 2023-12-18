@@ -1,10 +1,10 @@
 ---
-actualPrice: $5.60
+actualPrice: $7.00
 album: Tenet Extorris
 artist: Abyssgale
 categories:
 - Vinyl
-date: '2023-11-23T18:42:59'
+date: '2023-11-29T06:14:20'
 draft: false
 images:
 - /images/covers/abyssgale-tenet_extorris.jpg
@@ -14,4 +14,4 @@ title: Abyssgale - Tenet Extorris
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=1398&sort=pd.name&order=ASC) for $5.60
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=1398&sort=pd.name&order=ASC) for $7.00

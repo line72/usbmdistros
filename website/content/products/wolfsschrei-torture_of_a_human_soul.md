@@ -1,10 +1,10 @@
 ---
-actualPrice: $4.00
+actualPrice: $5.00
 album: Torture of a Human Soul
 artist: Wolfsschrei
 categories:
 - CD
-date: '2023-11-23T18:44:36'
+date: '2023-11-29T06:15:40'
 draft: false
 images:
 - /images/covers/wolfsschrei-torture_of_a_human_soul.jpg
@@ -14,4 +14,4 @@ title: Wolfsschrei - Torture of a Human Soul
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=11244&sort=pd.name&order=ASC) for $4.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=11244&sort=pd.name&order=ASC) for $5.00

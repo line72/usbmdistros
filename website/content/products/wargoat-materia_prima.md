@@ -1,10 +1,10 @@
 ---
-actualPrice: $5.60
+actualPrice: $7.00
 album: Materia Prima
 artist: Wargoat
 categories:
 - Vinyl
-date: '2023-11-23T18:43:20'
+date: '2023-11-29T06:14:37'
 draft: false
 images:
 - /images/covers/wargoat-materia_prima.jpg
@@ -14,4 +14,4 @@ title: Wargoat - Materia Prima
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=2067&sort=pd.name&order=ASC) for $5.60
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=2067&sort=pd.name&order=ASC) for $7.00

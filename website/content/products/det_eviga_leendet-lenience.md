@@ -1,10 +1,10 @@
 ---
-actualPrice: $8.00
+actualPrice: $10.00
 album: Lenience
 artist: Det Eviga Leendet
 categories:
 - CD
-date: '2023-11-23T18:43:35'
+date: '2023-11-29T06:14:50'
 draft: false
 images:
 - /images/covers/det_eviga_leendet-lenience.jpg
@@ -14,4 +14,4 @@ title: Det Eviga Leendet - Lenience
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=5338&sort=pd.name&order=ASC) for $8.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=5338&sort=pd.name&order=ASC) for $10.00

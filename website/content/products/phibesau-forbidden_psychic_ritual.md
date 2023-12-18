@@ -1,10 +1,10 @@
 ---
-actualPrice: $8.00
+actualPrice: $10.00
 album: Forbidden Psychic Ritual
 artist: Phibesau
 categories:
 - Cassette
-date: '2023-11-23T18:45:07'
+date: '2023-11-29T06:16:05'
 draft: false
 images:
 - /images/covers/phibesau-forbidden_psychic_ritual.png
@@ -14,4 +14,4 @@ title: Phibesau - Forbidden Psychic Ritual
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=41370&sort=pd.name&order=ASC) for $8.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=41370&sort=pd.name&order=ASC) for $10.00

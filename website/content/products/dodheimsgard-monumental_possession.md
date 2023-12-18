@@ -1,10 +1,10 @@
 ---
-actualPrice: $20.00
+actualPrice: $25.00
 album: Monumental Possession
 artist: Dodheimsgard
 categories:
 - Vinyl
-date: '2023-11-23T18:41:40'
+date: '2023-11-29T06:13:17'
 draft: false
 images:
 - /images/covers/dodheimsgard-monumental_possession.jpg
@@ -14,4 +14,4 @@ title: Dodheimsgard - Monumental Possession
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=37051&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=37051&sort=pd.name&order=ASC) for $25.00

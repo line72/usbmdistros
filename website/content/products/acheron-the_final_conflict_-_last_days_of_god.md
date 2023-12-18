@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00
+actualPrice: $15.00
 album: The Final Conflict - Last Days of God
 artist: Acheron
 categories:
 - CD
-date: '2023-11-23T18:43:21'
+date: '2023-11-29T06:14:38'
 draft: false
 images:
 - /images/covers/acheron-the_final_conflict_-_last_days_of_god.jpg
@@ -14,4 +14,4 @@ title: Acheron - The Final Conflict - Last Days of God
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=23249&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=23249&sort=pd.name&order=ASC) for $15.00

@@ -1,10 +1,10 @@
 ---
-actualPrice: $16.00
+actualPrice: $20.00
 album: Seven Gateways to Eternal Misanthropy
 artist: Ceremonial Worship
 categories:
 - Vinyl
-date: '2023-11-23T18:41:31'
+date: '2023-11-29T06:13:10'
 draft: false
 images:
 - /images/covers/ceremonial_worship-seven_gateways_to_eternal_misanthropy.jpg
@@ -14,4 +14,4 @@ title: Ceremonial Worship - Seven Gateways to Eternal Misanthropy
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29103&sort=pd.name&order=ASC) for $16.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29103&sort=pd.name&order=ASC) for $20.00

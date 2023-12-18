@@ -1,10 +1,10 @@
 ---
-actualPrice: $9.60
+actualPrice: $12.00
 album: "Me\xF0 Hamri"
 artist: Misthyrming
 categories:
 - Cassette
-date: '2023-11-23T18:45:01'
+date: '2023-11-29T06:16:01'
 draft: false
 images:
 - "/images/covers/misthyrming-me\xF0_hamri.jpg"
@@ -14,4 +14,4 @@ title: "Misthyrming - Me\xF0 Hamri"
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=30461&sort=pd.name&order=ASC) for $9.60
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=30461&sort=pd.name&order=ASC) for $12.00

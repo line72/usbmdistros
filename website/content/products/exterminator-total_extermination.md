@@ -1,10 +1,10 @@
 ---
-actualPrice: $136.00
+actualPrice: $170.00
 album: Total Extermination
 artist: Exterminator
 categories:
 - Vinyl
-date: '2023-11-23T18:41:44'
+date: '2023-11-29T06:13:20'
 draft: false
 images:
 - /images/covers/exterminator-total_extermination.png
@@ -14,4 +14,4 @@ title: Exterminator - Total Extermination
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=43057&sort=pd.name&order=ASC) for $136.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=43057&sort=pd.name&order=ASC) for $170.00

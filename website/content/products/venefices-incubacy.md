@@ -1,10 +1,10 @@
 ---
-actualPrice: $6.50
+actualPrice: $10.00
 album: Incubacy
 artist: Venefices
 categories:
 - Cassette
-date: '2023-11-23T18:45:17'
+date: '2023-11-29T06:16:13'
 draft: false
 images:
 - /images/covers/venefices-incubacy.jpg
@@ -14,4 +14,4 @@ title: Venefices - Incubacy
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=36523&sort=pd.name&order=ASC) for $6.50
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=36523&sort=pd.name&order=ASC) for $10.00

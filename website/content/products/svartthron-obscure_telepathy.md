@@ -1,10 +1,10 @@
 ---
-actualPrice: $4.00
+actualPrice: $5.00
 album: Obscure Telepathy
 artist: Svartthron
 categories:
 - CD
-date: '2023-11-23T18:44:27'
+date: '2023-11-29T06:15:31'
 draft: false
 images:
 - /images/covers/svartthron-obscure_telepathy.png
@@ -14,4 +14,4 @@ title: Svartthron - Obscure Telepathy
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=1520&sort=pd.name&order=ASC) for $4.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=1520&sort=pd.name&order=ASC) for $5.00

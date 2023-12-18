@@ -1,10 +1,10 @@
 ---
-actualPrice: $37.00
+actualPrice: $40.00
 album: Feathered Serpent
 artist: Occulted Death Stance
 categories:
 - Vinyl
-date: '2023-11-22T06:20:54'
+date: '2023-12-15T06:13:53'
 draft: false
 images:
 - /images/covers/occulted_death_stance-feathered_serpent.jpg
@@ -14,4 +14,4 @@ title: Occulted Death Stance - Feathered Serpent
 ---
 
 ## Vinyl
-* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/occulted-death-stance-feathered-serpent-12-lp) for $37.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=44113&sort=pd.name&order=ASC) for $40.00

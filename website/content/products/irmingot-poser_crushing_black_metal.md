@@ -1,10 +1,10 @@
 ---
-actualPrice: $4.80
+actualPrice: $6.00
 album: Poser Crushing Black Metal
 artist: Irmingot
 categories:
 - Vinyl
-date: '2023-11-23T18:43:11'
+date: '2023-11-29T06:14:28'
 draft: false
 images:
 - /images/covers/irmingot-poser_crushing_black_metal.jpg
@@ -14,4 +14,4 @@ title: Irmingot - Poser Crushing Black Metal
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=881&sort=pd.name&order=ASC) for $4.80
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=881&sort=pd.name&order=ASC) for $6.00

@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00
+actualPrice: $15.00
 album: Trampled Under Cloven Hooves
 artist: Crucifier
 categories:
 - CD
-date: '2023-11-23T18:43:32'
+date: '2023-11-29T06:14:47'
 draft: false
 images:
 - /images/covers/crucifier-trampled_under_cloven_hooves.jpg
@@ -14,4 +14,4 @@ title: Crucifier - Trampled Under Cloven Hooves
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=41581&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=41581&sort=pd.name&order=ASC) for $15.00

@@ -1,10 +1,10 @@
 ---
-actualPrice: $21.60
+actualPrice: $27.00
 album: Avgrunnens Klangverk
 artist: Knokkelklang
 categories:
 - Vinyl
-date: '2023-11-23T18:42:02'
+date: '2023-11-29T06:13:36'
 draft: false
 images:
 - /images/covers/knokkelklang-avgrunnens_klangverk.jpg
@@ -14,4 +14,4 @@ title: Knokkelklang - Avgrunnens Klangverk
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=22323&sort=pd.name&order=ASC) for $21.60
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=22323&sort=pd.name&order=ASC) for $27.00

@@ -1,10 +1,10 @@
 ---
-actualPrice: $48.00
+actualPrice: $60.00
 album: Archegonic Abysmal Dominion
 artist: Varathron
 categories:
 - Cassette
-date: '2023-11-23T18:45:17'
+date: '2023-11-29T06:16:13'
 draft: false
 images:
 - /images/covers/varathron-archegonic_abysmal_dominion.jpg
@@ -14,4 +14,4 @@ title: Varathron - Archegonic Abysmal Dominion
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=43754&sort=pd.name&order=ASC) for $48.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=43754&sort=pd.name&order=ASC) for $60.00

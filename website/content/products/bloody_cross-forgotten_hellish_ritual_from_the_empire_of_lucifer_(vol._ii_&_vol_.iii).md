@@ -1,10 +1,10 @@
 ---
-actualPrice: $9.60
+actualPrice: $12.00
 album: Forgotten Hellish Ritual from the Empire of Lucifer (Vol. II & Vol .III)
 artist: Bloody Cross
 categories:
 - CD
-date: '2023-11-23T18:43:29'
+date: '2023-11-29T06:14:44'
 draft: false
 images:
 - /images/covers/bloody_cross-forgotten_hellish_ritual_from_the_empire_of_lucifer_(vol._ii_&_vol_.iii).jpg
@@ -15,4 +15,4 @@ title: Bloody Cross - Forgotten Hellish Ritual from the Empire of Lucifer (Vol. 
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=3260&sort=pd.name&order=ASC) for $9.60
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=3260&sort=pd.name&order=ASC) for $12.00

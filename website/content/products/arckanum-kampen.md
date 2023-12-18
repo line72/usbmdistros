@@ -1,10 +1,10 @@
 ---
-actualPrice: $28.00
+actualPrice: $35.00
 album: Kampen
 artist: Arckanum
 categories:
 - Vinyl
-date: '2023-11-23T18:41:18'
+date: '2023-11-29T06:12:59'
 draft: false
 images:
 - /images/covers/arckanum-kampen.jpg
@@ -14,4 +14,4 @@ title: Arckanum - Kampen
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=36083&sort=pd.name&order=ASC) for $28.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=36083&sort=pd.name&order=ASC) for $35.00

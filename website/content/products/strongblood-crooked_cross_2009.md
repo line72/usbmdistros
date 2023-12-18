@@ -1,10 +1,10 @@
 ---
-actualPrice: $20.00
+actualPrice: $25.00
 album: Crooked Cross 2009
 artist: Strongblood
 categories:
 - Vinyl
-date: '2023-11-23T18:42:41'
+date: '2023-11-29T06:14:06'
 draft: false
 images:
 - /images/covers/strongblood-crooked_cross_2009.jpg
@@ -14,4 +14,4 @@ title: Strongblood - Crooked Cross 2009
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=27118&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=27118&sort=pd.name&order=ASC) for $25.00

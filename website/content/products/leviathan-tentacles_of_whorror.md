@@ -1,10 +1,10 @@
 ---
-actualPrice: $28.00
+actualPrice: $30.00
 album: Tentacles Of Whorror
 artist: Leviathan
 categories:
 - Vinyl
-date: '2023-11-23T18:42:04'
+date: '2023-12-17T13:21:00'
 draft: false
 images:
 - /images/covers/leviathan-tentacles_of_whorror.jpg
@@ -14,4 +14,4 @@ title: Leviathan - Tentacles Of Whorror
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=43811&sort=pd.name&order=ASC) for $28.00
+* Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/leviathan-tentacles-of-whorror-12-gatefold-double-lp-white-with-red-splatter/) for $30.00

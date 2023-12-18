@@ -19,4 +19,3 @@ title: Absurd - Schwarze Bande
 * Purchase from [CW Productions](https://shop.cwproductions.net/products/absurd-schwarze-bande-lp-2) for $25.00
 ## CD
 * Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/absurd-schwarze-bande-cd/) for $15.00
-* Purchase from [CW Productions](https://shop.cwproductions.net/products/absurd-schwarze-bande-cd-1) for $15.00

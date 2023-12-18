@@ -1,10 +1,10 @@
 ---
-actualPrice: $16.25
+actualPrice: $25.00
 album: "Monte Verit\xE0"
 artist: "C\xE9notaphe"
 categories:
 - Vinyl
-date: '2023-11-23T18:41:31'
+date: '2023-11-29T06:13:10'
 draft: false
 images:
 - "/images/covers/c\xE9notaphe-monte_verit\xE0.jpg"
@@ -14,4 +14,4 @@ title: "C\xE9notaphe - Monte Verit\xE0"
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=43744&sort=pd.name&order=ASC) for $16.25
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=43744&sort=pd.name&order=ASC) for $25.00

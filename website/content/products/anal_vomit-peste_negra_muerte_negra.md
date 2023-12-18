@@ -1,10 +1,10 @@
 ---
-actualPrice: $9.60
+actualPrice: $12.00
 album: Peste Negra Muerte Negra
 artist: Anal Vomit
 categories:
 - Cassette
-date: '2023-11-23T18:44:39'
+date: '2023-11-29T06:15:43'
 draft: false
 images:
 - /images/covers/anal_vomit-peste_negra_muerte_negra.jpg
@@ -14,4 +14,4 @@ title: Anal Vomit - Peste Negra Muerte Negra
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=35599&sort=pd.name&order=ASC) for $9.60
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=35599&sort=pd.name&order=ASC) for $12.00

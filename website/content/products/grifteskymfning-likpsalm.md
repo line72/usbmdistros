@@ -1,10 +1,10 @@
 ---
-actualPrice: $26.40
+actualPrice: $33.00
 album: Likpsalm
 artist: Grifteskymfning
 categories:
 - Vinyl
-date: '2023-11-23T18:41:52'
+date: '2023-11-29T06:13:26'
 draft: false
 images:
 - /images/covers/grifteskymfning-likpsalm.jpg
@@ -14,4 +14,4 @@ title: Grifteskymfning - Likpsalm
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=40036&sort=pd.name&order=ASC) for $26.40
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=40036&sort=pd.name&order=ASC) for $33.00

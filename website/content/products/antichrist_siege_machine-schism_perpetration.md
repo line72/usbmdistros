@@ -1,10 +1,10 @@
 ---
-actualPrice: $9.60
+actualPrice: $12.00
 album: Schism Perpetration
 artist: Antichrist Siege Machine
 categories:
 - Cassette
-date: '2023-11-23T18:44:40'
+date: '2023-11-29T06:15:43'
 draft: false
 images:
 - /images/covers/antichrist_siege_machine-schism_perpetration.png
@@ -14,4 +14,4 @@ title: Antichrist Siege Machine - Schism Perpetration
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=42633&sort=pd.name&order=ASC) for $9.60
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=42633&sort=pd.name&order=ASC) for $12.00

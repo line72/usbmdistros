@@ -1,10 +1,10 @@
 ---
-actualPrice: $19.98
+actualPrice: $26.99
 album: To Know The Light
 artist: Dawn Ray'd
 categories:
 - Vinyl
-date: '2023-11-23T18:54:02'
+date: '2023-12-17T13:29:08'
 draft: false
 images:
 - /images/covers/dawn_ray'd-to_know_the_light.jpg
@@ -14,4 +14,4 @@ title: Dawn Ray'd - To Know The Light
 ---
 
 ## Vinyl
-* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/dawn-rayd-to-know-the-light-galaxy-orange-marble-lp) for $19.98 :: Galaxy Orange Marble LP
+* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/dawn-rayd-to-know-the-light-galaxy-orange-marble-lp) for $26.99 :: Galaxy Orange Marble LP

@@ -1,10 +1,10 @@
 ---
-actualPrice: $5.60
+actualPrice: $7.00
 album: Amidst the Ashes of Consciousness
 artist: Sheidim
 categories:
 - Vinyl
-date: '2023-11-23T18:43:17'
+date: '2023-11-29T06:14:34'
 draft: false
 images:
 - /images/covers/sheidim-amidst_the_ashes_of_consciousness.jpg
@@ -14,4 +14,4 @@ title: Sheidim - Amidst the Ashes of Consciousness
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=1781&sort=pd.name&order=ASC) for $5.60
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=1781&sort=pd.name&order=ASC) for $7.00

@@ -1,10 +1,10 @@
 ---
-actualPrice: $9.60
+actualPrice: $12.00
 album: Urkaosets Svarta Vredesdom
 artist: Acerbitas
 categories:
 - CD
-date: '2023-11-23T18:43:21'
+date: '2023-11-29T06:14:38'
 draft: false
 images:
 - /images/covers/acerbitas-urkaosets_svarta_vredesdom.jpg
@@ -14,4 +14,4 @@ title: Acerbitas - Urkaosets Svarta Vredesdom
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=4381&sort=pd.name&order=ASC) for $9.60
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=4381&sort=pd.name&order=ASC) for $12.00

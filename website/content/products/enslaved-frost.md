@@ -1,10 +1,10 @@
 ---
-actualPrice: $20.00 - 22.00
+actualPrice: $22.00 - 25.00
 album: Frost
 artist: Enslaved
 categories:
 - Vinyl
-date: '2023-11-23T18:41:42'
+date: '2023-11-29T06:13:19'
 draft: false
 images:
 - /images/covers/enslaved-frost.jpg
@@ -15,4 +15,4 @@ title: Enslaved - Frost
 
 ## Vinyl
 * Purchase from [Sto'Vo'Kor Records](https://stovokor-records.com/products/enslaved-frost) for $22.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=43892&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=43892&sort=pd.name&order=ASC) for $25.00

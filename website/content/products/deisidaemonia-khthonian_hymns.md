@@ -1,10 +1,10 @@
 ---
-actualPrice: $5.60
+actualPrice: $7.00
 album: Khthonian Hymns
 artist: Deisidaemonia
 categories:
 - CD
-date: '2023-11-23T18:43:35'
+date: '2023-11-29T06:14:49'
 draft: false
 images:
 - /images/covers/deisidaemonia-khthonian_hymns.jpg
@@ -14,4 +14,4 @@ title: Deisidaemonia - Khthonian Hymns
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=1265&sort=pd.name&order=ASC) for $5.60
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=1265&sort=pd.name&order=ASC) for $7.00

@@ -1,10 +1,10 @@
 ---
-actualPrice: $21.60
+actualPrice: $27.00
 album: Black Command
 artist: Written in Torment
 categories:
 - Vinyl
-date: '2023-11-23T18:42:58'
+date: '2023-11-29T06:14:19'
 draft: false
 images:
 - /images/covers/written_in_torment-black_command.jpg
@@ -14,4 +14,4 @@ title: Written in Torment - Black Command
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=32428&sort=pd.name&order=ASC) for $21.60
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=32428&sort=pd.name&order=ASC) for $27.00

@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00
+actualPrice: $15.00
 album: A Spark Of Times Of Old
 artist: Lustre
 categories:
 - CD
-date: '2023-11-23T18:44:01'
+date: '2023-11-29T06:15:10'
 draft: false
 images:
 - /images/covers/lustre-a_spark_of_times_of_old.jpg
@@ -14,4 +14,4 @@ title: Lustre - A Spark Of Times Of Old
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=38854&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=38854&sort=pd.name&order=ASC) for $15.00

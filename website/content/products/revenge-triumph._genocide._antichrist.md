@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00
+actualPrice: $15.00
 album: Triumph. Genocide. Antichrist
 artist: Revenge
 categories:
 - CD
-date: '2023-11-23T18:44:19'
+date: '2023-11-29T06:15:24'
 draft: false
 images:
 - /images/covers/revenge-triumph._genocide._antichrist.jpg
@@ -14,4 +14,4 @@ title: Revenge - Triumph. Genocide. Antichrist
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=34634&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=34634&sort=pd.name&order=ASC) for $15.00

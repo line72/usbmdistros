@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00
+actualPrice: $15.00
 album: Sepulchral Chants of Self-Destruction
 artist: Blood Chalice
 categories:
 - CD
-date: '2023-11-23T18:43:29'
+date: '2023-11-29T06:14:44'
 draft: false
 images:
 - /images/covers/blood_chalice-sepulchral_chants_of_self-destruction.jpg
@@ -14,4 +14,4 @@ title: Blood Chalice - Sepulchral Chants of Self-Destruction
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=38620&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=38620&sort=pd.name&order=ASC) for $15.00

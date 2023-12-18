@@ -1,10 +1,10 @@
 ---
-actualPrice: $9.60
+actualPrice: $12.00
 album: 'Vargtimmen pt.1: The Inmost Night'
 artist: Wyrd
 categories:
 - CD
-date: '2023-11-23T18:44:37'
+date: '2023-11-29T06:15:40'
 draft: false
 images:
 - /images/covers/wyrd-vargtimmen_pt.1:_the_inmost_night.png
@@ -14,4 +14,4 @@ title: 'Wyrd - Vargtimmen pt.1: The Inmost Night'
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=33273&sort=pd.name&order=ASC) for $9.60
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=33273&sort=pd.name&order=ASC) for $12.00

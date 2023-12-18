@@ -1,10 +1,10 @@
 ---
-actualPrice: $9.60
+actualPrice: $12.00
 album: Apocalypse
 artist: Mass Kontrol Genocide
 categories:
 - Cassette
-date: '2023-11-23T18:45:00'
+date: '2023-11-29T06:15:59'
 draft: false
 images:
 - /images/covers/mass_kontrol_genocide-apocalypse.jpg
@@ -14,4 +14,4 @@ title: Mass Kontrol Genocide - Apocalypse
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=27315&sort=pd.name&order=ASC) for $9.60
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=27315&sort=pd.name&order=ASC) for $12.00

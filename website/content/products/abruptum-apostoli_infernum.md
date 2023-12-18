@@ -1,10 +1,10 @@
 ---
-actualPrice: $16.00
+actualPrice: $20.00
 album: Apostoli Infernum
 artist: Abruptum
 categories:
 - Vinyl
-date: '2023-11-23T18:42:59'
+date: '2023-11-29T06:14:20'
 draft: false
 images:
 - /images/covers/abruptum-apostoli_infernum.jpg
@@ -14,4 +14,4 @@ title: Abruptum - Apostoli Infernum
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=43265&sort=pd.name&order=ASC) for $16.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=43265&sort=pd.name&order=ASC) for $20.00

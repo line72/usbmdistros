@@ -1,10 +1,10 @@
 ---
-actualPrice: $8.00
+actualPrice: $5.00
 album: Orphan
 artist: Plague Organ
 categories:
 - Cassette
-date: '2023-04-10T05:05:16'
+date: '2023-12-11T06:03:34'
 draft: false
 images:
 - /images/covers/plague_organ-orphan.jpg
@@ -14,4 +14,4 @@ title: Plague Organ - Orphan
 ---
 
 ## Cassette
-* Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/32484271-plague-organ-orphan) for $8.00
+* Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/32484271-plague-organ-orphan) for $5.00

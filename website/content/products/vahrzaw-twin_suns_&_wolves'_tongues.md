@@ -1,10 +1,10 @@
 ---
-actualPrice: $9.60
+actualPrice: $12.00
 album: Twin Suns & Wolves' Tongues
 artist: Vahrzaw
 categories:
 - CD
-date: '2023-11-23T18:44:32'
+date: '2023-11-29T06:15:36'
 draft: false
 images:
 - /images/covers/vahrzaw-twin_suns_&_wolves'_tongues.png
@@ -14,4 +14,4 @@ title: Vahrzaw - Twin Suns & Wolves' Tongues
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=22976&sort=pd.name&order=ASC) for $9.60
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=22976&sort=pd.name&order=ASC) for $12.00

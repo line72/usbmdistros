@@ -1,10 +1,11 @@
 ---
-actualPrice: $13.00
+actualPrice: $13.00 - 25.00
 album: Kvern
 artist: Ild
 categories:
+- Vinyl
 - CD
-date: '2023-11-19T09:04:20'
+date: '2023-12-17T13:25:36'
 draft: false
 images:
 - /images/covers/ild-kvern.png
@@ -13,5 +14,7 @@ thumbnailImage: /images/covers/ild-kvern-thumb.png
 title: Ild - Kvern
 ---
 
+## Vinyl
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/ild-kvern-lp) for $25.00 :: Black 2023 press vinyl
 ## CD
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/ild-kvern-cd) for $13.00 :: CD 2023

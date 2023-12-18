@@ -1,10 +1,10 @@
 ---
-actualPrice: $21.60 - 29.00
+actualPrice: $27.00
 album: Misotheist
 artist: Misotheist
 categories:
 - Vinyl
-date: '2023-11-23T18:42:12'
+date: '2023-11-29T06:13:43'
 draft: false
 images:
 - /images/covers/misotheist-misotheist.png
@@ -14,5 +14,4 @@ title: Misotheist - Misotheist
 ---
 
 ## Vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/misotheist-misotheist-lp) for $29.00 :: Black 2021 press vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=32473&sort=pd.name&order=ASC) for $21.60
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=32473&sort=pd.name&order=ASC) for $27.00

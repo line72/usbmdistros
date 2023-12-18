@@ -1,10 +1,10 @@
 ---
-actualPrice: $9.60
+actualPrice: $12.00
 album: Realm of the Damned
 artist: Gospel of the Horns
 categories:
 - CD
-date: '2023-11-23T18:43:48'
+date: '2023-11-29T06:14:57'
 draft: false
 images:
 - /images/covers/gospel_of_the_horns-realm_of_the_damned.png
@@ -14,4 +14,4 @@ title: Gospel of the Horns - Realm of the Damned
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=41625&sort=pd.name&order=ASC) for $9.60
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=41625&sort=pd.name&order=ASC) for $12.00

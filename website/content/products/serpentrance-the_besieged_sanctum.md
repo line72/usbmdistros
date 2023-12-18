@@ -1,10 +1,10 @@
 ---
-actualPrice: $9.60
+actualPrice: $12.00
 album: The Besieged Sanctum
 artist: Serpentrance
 categories:
 - CD
-date: '2023-11-23T18:44:23'
+date: '2023-11-29T06:15:27'
 draft: false
 images:
 - /images/covers/serpentrance-the_besieged_sanctum.png
@@ -14,4 +14,4 @@ title: Serpentrance - The Besieged Sanctum
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=13949&sort=pd.name&order=ASC) for $9.60
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=13949&sort=pd.name&order=ASC) for $12.00

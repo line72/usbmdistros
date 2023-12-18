@@ -1,10 +1,10 @@
 ---
-actualPrice: $27.00
+actualPrice: $29.00
 album: Sol Corrupto
 artist: Altarage
 categories:
 - Vinyl
-date: '2023-03-25T05:24:10'
+date: '2023-12-17T13:26:15'
 draft: false
 images:
 - /images/covers/altarage-sol_corrupto.jpg
@@ -14,4 +14,4 @@ title: Altarage - Sol Corrupto
 ---
 
 ## Vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/altarage-sol-corrupto-lp) for $27.00 :: Clear w/ Smoke 2022 press (numbered/500)
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/altarage-sol-corrupto-lp) for $29.00 :: Clear w/ Smoke 2022 press (numbered/500)

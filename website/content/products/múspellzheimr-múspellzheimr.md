@@ -1,10 +1,10 @@
 ---
-actualPrice: $20.00
+actualPrice: $25.00
 album: "M\xFAspellzheimr"
 artist: "M\xFAspellzheimr"
 categories:
 - Vinyl
-date: '2023-11-23T18:42:15'
+date: '2023-11-29T06:13:45'
 draft: false
 images:
 - "/images/covers/m\xFAspellzheimr-m\xFAspellzheimr.jpg"
@@ -14,4 +14,4 @@ title: "M\xFAspellzheimr - M\xFAspellzheimr"
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=19041&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=19041&sort=pd.name&order=ASC) for $25.00

@@ -1,10 +1,10 @@
 ---
-actualPrice: $6.40
+actualPrice: $8.00
 album: For the Children of This World
 artist: Primigenium
 categories:
 - CD
-date: '2023-11-23T18:44:17'
+date: '2023-11-29T06:15:22'
 draft: false
 images:
 - /images/covers/primigenium-for_the_children_of_this_world.jpg
@@ -14,4 +14,4 @@ title: Primigenium - For the Children of This World
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=1971&sort=pd.name&order=ASC) for $6.40
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=1971&sort=pd.name&order=ASC) for $8.00

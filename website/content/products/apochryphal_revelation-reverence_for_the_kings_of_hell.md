@@ -1,10 +1,10 @@
 ---
-actualPrice: $9.75
+actualPrice: $15.00
 album: Reverence for the Kings of Hell
 artist: Apochryphal Revelation
 categories:
 - Vinyl
-date: '2023-11-23T18:41:18'
+date: '2023-11-29T06:12:58'
 draft: false
 images:
 - /images/covers/apochryphal_revelation-reverence_for_the_kings_of_hell.jpg
@@ -14,4 +14,4 @@ title: Apochryphal Revelation - Reverence for the Kings of Hell
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=41785&sort=pd.name&order=ASC) for $9.75
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=41785&sort=pd.name&order=ASC) for $15.00

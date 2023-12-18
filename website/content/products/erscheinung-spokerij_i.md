@@ -1,10 +1,10 @@
 ---
-actualPrice: $9.60
+actualPrice: $12.00
 album: Spokerij I
 artist: Erscheinung
 categories:
 - Cassette
-date: '2023-11-23T18:44:49'
+date: '2023-11-29T06:15:50'
 draft: false
 images:
 - /images/covers/erscheinung-spokerij_i.jpg
@@ -14,4 +14,4 @@ title: Erscheinung - Spokerij I
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=22218&sort=pd.name&order=ASC) for $9.60
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=22218&sort=pd.name&order=ASC) for $12.00

@@ -1,10 +1,10 @@
 ---
-actualPrice: $20.00
+actualPrice: $25.00
 album: Reborn Misanthropic Spirit
 artist: Graven
 categories:
 - Vinyl
-date: '2023-11-23T18:41:51'
+date: '2023-11-29T06:13:25'
 draft: false
 images:
 - /images/covers/graven-reborn_misanthropic_spirit.jpg
@@ -14,4 +14,4 @@ title: Graven - Reborn Misanthropic Spirit
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=33169&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=33169&sort=pd.name&order=ASC) for $25.00

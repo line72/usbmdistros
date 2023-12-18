@@ -1,10 +1,10 @@
 ---
-actualPrice: $13.60
+actualPrice: $17.00
 album: Thermogravimetry  Warp Continuum
 artist: JYOTISAVEDANGA
 categories:
 - Vinyl
-date: '2023-11-23T18:42:01'
+date: '2023-11-29T06:13:35'
 draft: false
 images:
 - /images/covers/jyotisavedanga-thermogravimetry__warp_continuum.jpg
@@ -14,4 +14,4 @@ title: JYOTISAVEDANGA - Thermogravimetry  Warp Continuum
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=3765&sort=pd.name&order=ASC) for $13.60
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=3765&sort=pd.name&order=ASC) for $17.00

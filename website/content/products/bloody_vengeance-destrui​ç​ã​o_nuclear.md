@@ -1,10 +1,10 @@
 ---
-actualPrice: $7.80
+actualPrice: $12.00
 album: "Destrui\u200B\xE7\u200B\xE3\u200Bo Nuclear"
 artist: Bloody Vengeance
 categories:
 - Cassette
-date: '2023-11-23T18:44:43'
+date: '2023-11-29T06:15:45'
 draft: false
 images:
 - "/images/covers/bloody_vengeance-destrui\u200B\xE7\u200B\xE3\u200Bo_nuclear.jpg"
@@ -15,4 +15,4 @@ title: "Bloody Vengeance - Destrui\u200B\xE7\u200B\xE3\u200Bo Nuclear"
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=43149&sort=pd.name&order=ASC) for $7.80
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=43149&sort=pd.name&order=ASC) for $12.00

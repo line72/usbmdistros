@@ -1,10 +1,10 @@
 ---
-actualPrice: $6.50
+actualPrice: $1.00
 album: Unholy Prayers In Moscow 2015
 artist: Rienaus
 categories:
 - Cassette
-date: '2021-11-16T14:07:19'
+date: '2023-12-11T06:03:40'
 draft: false
 images:
 - /images/covers/rienaus-unholy_prayers_in_moscow_2015.jpg
@@ -14,4 +14,4 @@ title: Rienaus - Unholy Prayers In Moscow 2015
 ---
 
 ## Cassette
-* Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/21132089-rienaus-unholy-prayers-in-moscow-2015) for $6.50
+* Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/21132089-rienaus-unholy-prayers-in-moscow-2015) for $1.00

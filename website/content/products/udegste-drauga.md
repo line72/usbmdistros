@@ -1,10 +1,10 @@
 ---
-actualPrice: $9.60
+actualPrice: $12.00
 album: Drauga
 artist: Udegste
 categories:
 - Cassette
-date: '2023-11-23T18:45:16'
+date: '2023-11-29T06:16:12'
 draft: false
 images:
 - /images/covers/udegste-drauga.jpg
@@ -14,4 +14,4 @@ title: Udegste - Drauga
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=22967&sort=pd.name&order=ASC) for $9.60
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=22967&sort=pd.name&order=ASC) for $12.00

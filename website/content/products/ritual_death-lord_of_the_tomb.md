@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00
+actualPrice: $15.00
 album: Lord Of The Tomb
 artist: Ritual Death
 categories:
 - Cassette
-date: '2023-11-23T18:45:08'
+date: '2023-11-29T06:16:06'
 draft: false
 images:
 - /images/covers/ritual_death-lord_of_the_tomb.jpg
@@ -14,4 +14,4 @@ title: Ritual Death - Lord Of The Tomb
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=38945&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=38945&sort=pd.name&order=ASC) for $15.00

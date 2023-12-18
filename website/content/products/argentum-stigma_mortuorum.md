@@ -1,10 +1,10 @@
 ---
-actualPrice: $8.00
+actualPrice: $10.00
 album: Stigma Mortuorum
 artist: Argentum
 categories:
 - CD
-date: '2023-11-23T18:43:25'
+date: '2023-11-29T06:14:41'
 draft: false
 images:
 - /images/covers/argentum-stigma_mortuorum.jpg
@@ -14,4 +14,4 @@ title: Argentum - Stigma Mortuorum
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=34156&sort=pd.name&order=ASC) for $8.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=34156&sort=pd.name&order=ASC) for $10.00

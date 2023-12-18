@@ -1,10 +1,10 @@
 ---
-actualPrice: $20.00
+actualPrice: $25.00
 album: The Dawn Of Black Pansophy
 artist: Ars Hmu
 categories:
 - Vinyl
-date: '2023-11-23T18:41:19'
+date: '2023-11-29T06:12:59'
 draft: false
 images:
 - /images/covers/ars_hmu-the_dawn_of_black_pansophy.jpg
@@ -14,4 +14,4 @@ title: Ars Hmu - The Dawn Of Black Pansophy
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=25378&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=25378&sort=pd.name&order=ASC) for $25.00

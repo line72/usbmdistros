@@ -1,10 +1,10 @@
 ---
-actualPrice: $5.20
+actualPrice: $8.00
 album: Abominable Entities
 artist: Scourge Lair
 categories:
 - Cassette
-date: '2023-11-23T18:45:09'
+date: '2023-11-29T06:16:07'
 draft: false
 images:
 - /images/covers/scourge_lair-abominable_entities.jpg
@@ -14,4 +14,4 @@ title: Scourge Lair - Abominable Entities
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=34769&sort=pd.name&order=ASC) for $5.20
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=34769&sort=pd.name&order=ASC) for $8.00

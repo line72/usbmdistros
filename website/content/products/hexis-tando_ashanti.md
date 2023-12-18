@@ -1,5 +1,5 @@
 ---
-actualPrice: $10.00 - 20.00
+actualPrice: $20.00
 album: Tando Ashanti
 artist: Hexis
 categories:
@@ -14,5 +14,4 @@ title: Hexis - Tando Ashanti
 ---
 
 ## Vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/used-hexis-tando-ashanti-lp) for $10.00 :: Black 2017 press vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/hexis-tando-ashanti-lp) for $20.00 :: Clear 2017 press vinyl

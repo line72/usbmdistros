@@ -1,11 +1,11 @@
 ---
-actualPrice: $9.99 - 32.99
+actualPrice: $9.99 - 49.99
 album: The Dreaming I
 artist: Akhlys
 categories:
 - Vinyl
 - CD
-date: '2022-09-30T05:01:32'
+date: '2023-12-02T06:02:11'
 draft: false
 images:
 - /images/covers/akhlys-the_dreaming_i.jpg
@@ -16,6 +16,6 @@ title: Akhlys - The Dreaming I
 
 ## Vinyl
 * Purchase from [Debemur Morti](https://debemurmorti.aisamerch.com/item/93981) for $31.99
-* Purchase from [Debemur Morti](https://debemurmorti.aisamerch.com/item/126604) for $32.99
+* Purchase from [Debemur Morti](https://debemurmorti.aisamerch.com/item/141509) for $49.99 :: DMP 20-year anniversary edition
 ## CD
 * Purchase from [Debemur Morti](https://debemurmorti.aisamerch.com/item/73299) for $9.99

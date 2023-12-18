@@ -1,10 +1,10 @@
 ---
-actualPrice: $20.00
+actualPrice: $25.00
 album: Der Teufelsbund
 artist: Charnel Winds
 categories:
 - Vinyl
-date: '2023-11-23T18:41:32'
+date: '2023-11-29T06:13:11'
 draft: false
 images:
 - /images/covers/charnel_winds-der_teufelsbund.jpg
@@ -14,4 +14,4 @@ title: Charnel Winds - Der Teufelsbund
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=40559&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=40559&sort=pd.name&order=ASC) for $25.00

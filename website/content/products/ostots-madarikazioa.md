@@ -1,11 +1,10 @@
 ---
-actualPrice: $9.60 - 25.00
+actualPrice: $25.00
 album: Madarikazioa
 artist: Ostots
 categories:
 - Vinyl
-- Cassette
-date: '2023-11-23T18:45:06'
+date: '2022-05-04T05:00:31'
 draft: false
 images:
 - /images/covers/ostots-madarikazioa.png
@@ -16,5 +15,3 @@ title: Ostots - Madarikazioa
 
 ## Vinyl
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/ostots-madarikazioa-12-lp) for $25.00
-## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=22411&sort=pd.name&order=ASC) for $9.60

@@ -1,10 +1,10 @@
 ---
-actualPrice: $5.60
+actualPrice: $7.00
 album: Vociferous
 artist: Vociferous
 categories:
 - CD
-date: '2023-11-23T18:44:34'
+date: '2023-11-29T06:15:37'
 draft: false
 images:
 - /images/covers/vociferous-vociferous.png
@@ -14,4 +14,4 @@ title: Vociferous - Vociferous
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=1460&sort=pd.name&order=ASC) for $5.60
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=1460&sort=pd.name&order=ASC) for $7.00

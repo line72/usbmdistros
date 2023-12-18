@@ -1,17 +1,17 @@
 ---
 actualPrice: $13.00 - 25.00
 album: Blod & Jern
-artist: "ILDSK\xC6R"
+artist: "Ildsk\xE6r"
 categories:
 - Vinyl
 - CD
-date: '2023-11-19T09:04:20'
+date: '2023-12-17T13:25:47'
 draft: false
 images:
 - "/images/covers/ildsk\xE6r-blod_&_jern.jpg"
 inStock: true
 thumbnailImage: "/images/covers/ildsk\xE6r-blod_&_jern-thumb.jpg"
-title: "ILDSK\xC6R - Blod & Jern"
+title: "Ildsk\xE6r - Blod & Jern"
 ---
 
 ## Vinyl

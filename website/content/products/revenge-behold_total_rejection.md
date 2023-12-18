@@ -1,10 +1,10 @@
 ---
-actualPrice: $20.00
+actualPrice: $25.00
 album: Behold Total Rejection
 artist: Revenge
 categories:
 - Vinyl
-date: '2023-11-23T18:42:30'
+date: '2023-11-29T06:13:56'
 draft: false
 images:
 - /images/covers/revenge-behold_total_rejection.jpg
@@ -14,4 +14,4 @@ title: Revenge - Behold Total Rejection
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=43905&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=43905&sort=pd.name&order=ASC) for $25.00

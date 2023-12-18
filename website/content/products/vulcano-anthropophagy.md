@@ -1,10 +1,10 @@
 ---
-actualPrice: $9.60
+actualPrice: $12.00
 album: Anthropophagy
 artist: Vulcano
 categories:
 - CD
-date: '2023-11-23T18:44:35'
+date: '2023-11-29T06:15:38'
 draft: false
 images:
 - /images/covers/vulcano-anthropophagy.jpg
@@ -14,4 +14,4 @@ title: Vulcano - Anthropophagy
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=26562&sort=pd.name&order=ASC) for $9.60
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=26562&sort=pd.name&order=ASC) for $12.00

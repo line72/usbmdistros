@@ -1,10 +1,10 @@
 ---
-actualPrice: $5.60
+actualPrice: $7.00
 album: Verhallend Mit Des Todesboten Kunde
 artist: Erhabenheit
 categories:
 - Vinyl
-date: '2023-11-23T18:43:08'
+date: '2023-11-29T06:14:25'
 draft: false
 images:
 - /images/covers/erhabenheit-verhallend_mit_des_todesboten_kunde.jpg
@@ -14,4 +14,4 @@ title: Erhabenheit - Verhallend Mit Des Todesboten Kunde
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=26310&sort=pd.name&order=ASC) for $5.60
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=26310&sort=pd.name&order=ASC) for $7.00

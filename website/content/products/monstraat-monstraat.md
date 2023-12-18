@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00
+actualPrice: $15.00
 album: Monstraat
 artist: Monstraat
 categories:
 - Cassette
-date: '2023-11-23T18:45:01'
+date: '2023-11-29T06:16:01'
 draft: false
 images:
 - /images/covers/monstraat-monstraat.jpg
@@ -14,4 +14,4 @@ title: Monstraat - Monstraat
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=28743&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=28743&sort=pd.name&order=ASC) for $15.00

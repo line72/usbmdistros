@@ -1,11 +1,11 @@
 ---
-actualPrice: $9.60 - 20.00
+actualPrice: $12.00 - 25.00
 album: Callous
 artist: Vomit Ritual
 categories:
 - Vinyl
 - CD
-date: '2023-11-23T18:44:34'
+date: '2023-11-29T06:15:38'
 draft: false
 images:
 - /images/covers/vomit_ritual-callous.jpg
@@ -15,6 +15,6 @@ title: Vomit Ritual - Callous
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=27326&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=27326&sort=pd.name&order=ASC) for $25.00
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=16946&sort=pd.name&order=ASC) for $9.60
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=16946&sort=pd.name&order=ASC) for $12.00

@@ -1,10 +1,10 @@
 ---
-actualPrice: $5.60
+actualPrice: $7.00
 album: Nihilistica Milicia Demoniaca
 artist: Satanic Prophets
 categories:
 - Vinyl
-date: '2023-11-23T18:43:17'
+date: '2023-11-29T06:14:34'
 draft: false
 images:
 - /images/covers/satanic_prophets-nihilistica_milicia_demoniaca.jpg
@@ -14,4 +14,4 @@ title: Satanic Prophets - Nihilistica Milicia Demoniaca
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=895&sort=pd.name&order=ASC) for $5.60
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=895&sort=pd.name&order=ASC) for $7.00

@@ -1,10 +1,10 @@
 ---
-actualPrice: $28.00 - 39.00
+actualPrice: $35.00 - 39.00
 album: Draco Sit Mihi Dux
 artist: Ondskapt
 categories:
 - Vinyl
-date: '2023-11-23T18:42:22'
+date: '2023-11-29T06:13:51'
 draft: false
 images:
 - /images/covers/ondskapt-draco_sit_mihi_dux.jpg
@@ -15,4 +15,4 @@ title: Ondskapt - Draco Sit Mihi Dux
 
 ## Vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/ondskapt-draco-sit-mihi-dux) for $39.00 :: Black 2020 press
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=40855&sort=pd.name&order=ASC) for $28.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=40855&sort=pd.name&order=ASC) for $35.00

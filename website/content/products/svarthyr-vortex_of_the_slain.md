@@ -1,10 +1,10 @@
 ---
-actualPrice: $4.80
+actualPrice: $6.00
 album: Vortex of the Slain
 artist: Svarthyr
 categories:
 - CD
-date: '2023-11-23T18:44:27'
+date: '2023-11-29T06:15:31'
 draft: false
 images:
 - /images/covers/svarthyr-vortex_of_the_slain.jpg
@@ -14,4 +14,4 @@ title: Svarthyr - Vortex of the Slain
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=2178&sort=pd.name&order=ASC) for $4.80
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=2178&sort=pd.name&order=ASC) for $6.00
