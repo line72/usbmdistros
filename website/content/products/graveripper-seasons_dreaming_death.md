@@ -3,7 +3,6 @@ actualPrice: $10.00
 album: Seasons Dreaming Death
 artist: Graveripper
 categories:
-- Cassette
 - CD
 date: '2023-09-30T05:36:51'
 draft: false
@@ -14,7 +13,5 @@ thumbnailImage: /images/covers/graveripper-seasons_dreaming_death-thumb.jpg
 title: Graveripper - Seasons Dreaming Death
 ---
 
-## Cassette
-* Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/36625756-graveripper-seasons-dreaming-death) for $10.00
 ## CD
 * Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/36625755-graveripper-seasons-dreaming-death-cd) for $10.00
