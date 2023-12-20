@@ -1,11 +1,12 @@
 ---
-actualPrice: $10.99 - 11.99
+actualPrice: $10.99 - 30.00
 album: Apocalyptic End In White
 artist: Imperial Crystalline Entombment
 categories:
+- Vinyl
 - Cassette
 - CD
-date: '2023-12-02T06:02:20'
+date: '2023-12-20T06:13:32'
 draft: false
 images:
 - /images/covers/imperial_crystalline_entombment-apocalyptic_end_in_white.jpg
@@ -14,6 +15,8 @@ thumbnailImage: /images/covers/imperial_crystalline_entombment-apocalyptic_end_i
 title: Imperial Crystalline Entombment - Apocalyptic End In White
 ---
 
+## Vinyl
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=44271&sort=pd.name&order=ASC) for $30.00
 ## Cassette
 * Purchase from [Debemur Morti](https://debemurmorti.aisamerch.com/item/141502) for $11.99
 ## CD
