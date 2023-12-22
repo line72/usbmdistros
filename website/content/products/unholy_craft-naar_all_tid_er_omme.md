@@ -4,7 +4,7 @@ album: Naar All Tid Er Omme
 artist: Unholy Craft
 categories:
 - Vinyl
-date: '2023-09-23T05:06:19'
+date: '2023-12-22T06:01:22'
 draft: false
 images:
 - /images/covers/unholy_craft-naar_all_tid_er_omme.jpg

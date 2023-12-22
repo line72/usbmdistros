@@ -4,7 +4,7 @@ album: Wicca
 artist: Mystifier
 categories:
 - Vinyl
-date: '2023-11-29T06:13:46'
+date: '2023-12-22T06:13:33'
 draft: false
 images:
 - /images/covers/mystifier-wicca.jpg
@@ -14,4 +14,4 @@ title: Mystifier - Wicca
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=43581&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=44328&sort=pd.name&order=ASC) for $25.00

@@ -4,7 +4,7 @@ album: Oderint Dum Metuant
 artist: Celtic Dance
 categories:
 - Vinyl
-date: '2023-11-29T06:13:10'
+date: '2023-12-22T06:12:56'
 draft: false
 images:
 - /images/covers/celtic_dance-oderint_dum_metuant.jpg
@@ -14,4 +14,4 @@ title: Celtic Dance - Oderint Dum Metuant
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=32901&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=44337&sort=pd.name&order=ASC) for $25.00
