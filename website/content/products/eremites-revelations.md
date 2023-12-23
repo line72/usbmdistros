@@ -4,7 +4,7 @@ album: Revelations
 artist: Eremites
 categories:
 - Vinyl
-date: '2023-09-25T05:07:45'
+date: '2023-12-23T06:01:18'
 draft: false
 images:
 - /images/covers/eremites-revelations.jpg

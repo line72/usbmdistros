@@ -4,7 +4,7 @@ album: Sudentaival
 artist: Horna
 categories:
 - Vinyl
-date: '2023-12-15T06:13:33'
+date: '2023-12-23T06:13:15'
 draft: false
 images:
 - /images/covers/horna-sudentaival.jpg
@@ -14,4 +14,4 @@ title: Horna - Sudentaival
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=44099&sort=pd.name&order=ASC) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=44352&sort=pd.name&order=ASC) for $30.00

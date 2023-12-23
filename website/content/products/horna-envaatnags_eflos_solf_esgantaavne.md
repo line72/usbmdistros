@@ -4,7 +4,7 @@ album: Envaatnags Eflos Solf Esgantaavne
 artist: Horna
 categories:
 - Vinyl
-date: '2023-12-15T06:13:33'
+date: '2023-12-23T06:13:15'
 draft: false
 images:
 - /images/covers/horna-envaatnags_eflos_solf_esgantaavne.jpg
@@ -14,4 +14,4 @@ title: Horna - Envaatnags Eflos Solf Esgantaavne
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=44097&sort=pd.name&order=ASC) for $35.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=44351&sort=pd.name&order=ASC) for $35.00
