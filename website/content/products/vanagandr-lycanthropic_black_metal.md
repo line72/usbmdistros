@@ -4,7 +4,7 @@ album: Lycanthropic Black Metal
 artist: Vanagandr
 categories:
 - Vinyl
-date: '2022-06-18T05:00:24'
+date: '2023-12-24T06:01:32'
 draft: false
 images:
 - /images/covers/vanagandr-lycanthropic_black_metal.jpg
