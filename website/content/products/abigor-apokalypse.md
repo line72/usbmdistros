@@ -5,7 +5,7 @@ artist: Abigor
 categories:
 - Vinyl
 - CD
-date: '2023-12-20T06:14:36'
+date: '2023-12-27T06:14:14'
 draft: false
 images:
 - /images/covers/abigor-apokalypse.jpg
@@ -15,7 +15,7 @@ title: Abigor - Apokalypse
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=44156&sort=pd.name&order=ASC) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=44430&sort=pd.name&order=ASC) for $30.00
 ## CD
 * Purchase from [CW Productions](https://shop.cwproductions.net/products/abigor-apokalypse-cd) for $15.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=44280&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=44429&sort=pd.name&order=ASC) for $15.00
