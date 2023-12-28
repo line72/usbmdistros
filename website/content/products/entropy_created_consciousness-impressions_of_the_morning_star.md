@@ -1,0 +1,17 @@
+---
+actualPrice: $23.00
+album: Impressions Of The Morning Star
+artist: Entropy Created Consciousness
+categories:
+- Vinyl
+date: '2023-07-19T08:41:13'
+draft: false
+images:
+- /images/covers/entropy_created_consciousness-impressions_of_the_morning_star.png
+inStock: true
+thumbnailImage: /images/covers/entropy_created_consciousness-impressions_of_the_morning_star-thumb.png
+title: Entropy Created Consciousness - Impressions Of The Morning Star
+---
+
+## Vinyl
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/entropy-created-consciousness-impressions-of-the-morning-star-lp-1) for $23.00 :: Black 2018 press vinyl

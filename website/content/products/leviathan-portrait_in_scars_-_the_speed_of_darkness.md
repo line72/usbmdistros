@@ -4,7 +4,7 @@ album: Portrait in Scars / The Speed of Darkness
 artist: Leviathan
 categories:
 - Vinyl
-date: '2023-11-29T06:13:37'
+date: '2023-12-28T06:13:47'
 draft: false
 images:
 - /images/covers/leviathan-portrait_in_scars_-_the_speed_of_darkness.jpg
@@ -14,4 +14,4 @@ title: Leviathan - Portrait in Scars / The Speed of Darkness
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=43810&sort=pd.name&order=ASC) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=44454&sort=pd.name&order=ASC) for $30.00

@@ -1,11 +1,10 @@
 ---
-actualPrice: $15.00 - 28.00
+actualPrice: $15.00
 album: Under The Sign Of The Black Mark
 artist: Bathory
 categories:
-- Vinyl
 - Cassette
-date: '2023-12-17T13:21:00'
+date: '2023-11-29T06:15:44'
 draft: false
 images:
 - /images/covers/bathory-under_the_sign_of_the_black_mark.jpg
@@ -14,7 +13,5 @@ thumbnailImage: /images/covers/bathory-under_the_sign_of_the_black_mark-thumb.jp
 title: Bathory - Under The Sign Of The Black Mark
 ---
 
-## Vinyl
-* Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/bathory-under-the-sign-of-the-black-mark-12-lp/) for $28.00
 ## Cassette
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=35245&sort=pd.name&order=ASC) for $15.00
