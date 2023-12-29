@@ -1,5 +1,5 @@
 ---
-actualPrice: $20.00 - 23.00
+actualPrice: $20.00
 album: Confluence
 artist: Wake
 categories:
@@ -14,5 +14,4 @@ title: Wake - Confluence
 ---
 
 ## Vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/wake-confluence-ep-1) for $23.00 :: Merge w/ Splatter 2021 press
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/used-wake-confluence-12) for $20.00 :: Tri-Merge w/ Splatter 2022 press
