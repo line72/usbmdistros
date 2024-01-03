@@ -18,5 +18,4 @@ title: Werewolf Bloodorder - The Rebirth of the Night and the Fog
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/werewolf-bloodorder-the-rebirth-of-the-night-and-the-fog-12-lp) for $26.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=39635&sort=pd.name&order=ASC) for $25.00
 ## CD
-* Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/werewolf-bloodorder-the-rebirth-of-the-night-and-the-fog-cd/) for $15.00
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/werewolf-bloodorder-the-rebirth-of-the-night-and-the-fog-cd) for $13.00

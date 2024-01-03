@@ -4,7 +4,7 @@ album: Winterkald
 artist: Branikald
 categories:
 - Vinyl
-date: '2023-10-06T05:05:51'
+date: '2024-01-02T06:01:11'
 draft: false
 images:
 - /images/covers/branikald-winterkald.png

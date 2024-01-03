@@ -5,6 +5,7 @@ artist: Kaosritual
 categories:
 - Vinyl
 - Cassette
+- CD
 date: '2023-11-29T06:15:57'
 draft: false
 images:
@@ -18,3 +19,5 @@ title: Kaosritual - Svoept Morgenroed
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=43504&sort=pd.name&order=ASC) for $33.00
 ## Cassette
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=43505&sort=pd.name&order=ASC) for $15.00
+## CD
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=43503&sort=pd.name&order=ASC) for $15.00

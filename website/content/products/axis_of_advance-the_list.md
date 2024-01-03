@@ -4,7 +4,7 @@ album: The List
 artist: Axis of Advance
 categories:
 - Vinyl
-date: '2023-11-29T06:13:02'
+date: '2024-01-03T06:12:32'
 draft: false
 images:
 - /images/covers/axis_of_advance-the_list.jpg
@@ -14,4 +14,4 @@ title: Axis of Advance - The List
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=32159&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=44576&sort=pd.name&order=ASC) for $25.00

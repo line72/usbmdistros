@@ -5,7 +5,7 @@ artist: Grieve
 categories:
 - Vinyl
 - CD
-date: '2023-12-29T06:13:22'
+date: '2024-01-03T06:12:57'
 draft: false
 images:
 - /images/covers/grieve-funeral.jpg
@@ -15,6 +15,6 @@ title: Grieve - Funeral
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=44501&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=44572&sort=pd.name&order=ASC) for $25.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=20249&sort=pd.name&order=ASC) for $12.00
