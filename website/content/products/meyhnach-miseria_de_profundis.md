@@ -4,7 +4,7 @@ album: Miseria de Profundis
 artist: Meyhnach
 categories:
 - Vinyl
-date: '2023-11-29T06:13:42'
+date: '2024-01-04T06:14:21'
 draft: false
 images:
 - /images/covers/meyhnach-miseria_de_profundis.jpg
@@ -14,5 +14,5 @@ title: Meyhnach - Miseria de Profundis
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=34580&sort=pd.name&order=ASC) for $25.00
 * Purchase from [Sto'Vo'Kor Records](https://stovokor-records.com/products/meyhnach-miseria-de-profundis) for $21.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=44610&sort=pd.name&order=ASC) for $25.00

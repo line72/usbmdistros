@@ -5,7 +5,7 @@ artist: "M\xFCtiilation"
 categories:
 - Vinyl
 - CD
-date: '2023-11-29T06:15:14'
+date: '2024-01-04T06:15:53'
 draft: false
 images:
 - "/images/covers/m\xFCtiilation-the_lost_tapes.jpg"
@@ -17,6 +17,6 @@ title: "M\xFCtiilation - The Lost Tapes"
 ## Vinyl
 * Purchase from [Sto'Vo'Kor Records](https://stovokor-records.com/products/mutiilation-the-lost-tapes) for $23.00
 * Purchase from [Sto'Vo'Kor Records](https://stovokor-records.com/products/mtiilation-the-lost-tapes) for $20.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=43921&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=44619&sort=pd.name&order=ASC) for $25.00
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=43778&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=44618&sort=pd.name&order=ASC) for $15.00

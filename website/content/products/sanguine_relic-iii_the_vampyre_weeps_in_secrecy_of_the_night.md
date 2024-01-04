@@ -4,7 +4,7 @@ album: III The Vampyre Weeps In Secrecy Of The Night
 artist: Sanguine Relic
 categories:
 - Vinyl
-date: '2023-11-29T06:13:59'
+date: '2024-01-04T06:14:39'
 draft: false
 images:
 - /images/covers/sanguine_relic-iii_the_vampyre_weeps_in_secrecy_of_the_night.jpg
@@ -14,4 +14,4 @@ title: Sanguine Relic - III The Vampyre Weeps In Secrecy Of The Night
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=43933&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=44694&sort=pd.name&order=ASC) for $25.00

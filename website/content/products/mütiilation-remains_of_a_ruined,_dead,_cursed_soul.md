@@ -5,7 +5,7 @@ artist: "M\xFCtiilation"
 categories:
 - Vinyl
 - CD
-date: '2023-11-29T06:15:14'
+date: '2024-01-04T06:15:53'
 draft: false
 images:
 - "/images/covers/m\xFCtiilation-remains_of_a_ruined,_dead,_cursed_soul.jpg"
@@ -16,6 +16,6 @@ title: "M\xFCtiilation - Remains of a Ruined, Dead, Cursed Soul"
 
 ## Vinyl
 * Purchase from [Sto'Vo'Kor Records](https://stovokor-records.com/products/mtiilation-remains-of-a-ruined-dead-cursed-soul) for $20.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=43920&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=44616&sort=pd.name&order=ASC) for $25.00
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=43919&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=44615&sort=pd.name&order=ASC) for $15.00

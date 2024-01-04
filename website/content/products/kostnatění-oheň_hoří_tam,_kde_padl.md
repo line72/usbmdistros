@@ -1,10 +1,9 @@
 ---
-actualPrice: $12.00 - 23.00
+actualPrice: $23.00
 album: "Ohe\u0148 ho\u0159\xED tam, kde padl"
 artist: "Kostnat\u011Bn\xED"
 categories:
 - Vinyl
-- CD
 date: '2023-11-20T18:05:32'
 draft: false
 images:
@@ -16,5 +15,3 @@ title: "Kostnat\u011Bn\xED - Ohe\u0148 ho\u0159\xED tam, kde padl"
 
 ## Vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/kostnateni-ohen-hori-tam-kde-padl-lp) for $23.00 :: Black 2022 press vinyl
-## CD
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/kostnateni-ohen-hori-tam-kde-padl-cd) for $12.00 :: CD 2022
