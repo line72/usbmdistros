@@ -4,7 +4,7 @@ album: Angelcunt (Tales of Desecration)
 artist: Archgoat
 categories:
 - Vinyl
-date: '2023-11-29T06:12:59'
+date: '2024-01-05T06:13:09'
 draft: false
 images:
 - /images/covers/archgoat-angelcunt_(tales_of_desecration).jpg
@@ -14,4 +14,4 @@ title: Archgoat - Angelcunt (Tales of Desecration)
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=35962&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=44732&sort=pd.name&order=ASC) for $25.00
