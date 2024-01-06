@@ -1,11 +1,10 @@
 ---
-actualPrice: $13.00 - 35.00
+actualPrice: $13.00
 album: sorg
 artist: Afsky
 categories:
-- Vinyl
 - CD
-date: '2023-12-17T13:26:00'
+date: '2023-11-19T09:04:22'
 draft: false
 images:
 - /images/covers/afsky-sorg.jpg
@@ -14,7 +13,5 @@ thumbnailImage: /images/covers/afsky-sorg-thumb.jpg
 title: Afsky - sorg
 ---
 
-## Vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/afsky-sorg-lp) for $35.00 :: Clear 2021 press vinyl
 ## CD
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/afsky-sorg-cd) for $13.00 :: CD 2023

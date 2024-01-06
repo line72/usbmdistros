@@ -4,7 +4,7 @@ album: Goetia
 artist: Mystifier
 categories:
 - Vinyl
-date: '2023-12-22T06:13:33'
+date: '2024-01-06T06:13:48'
 draft: false
 images:
 - /images/covers/mystifier-goetia.jpg
@@ -14,4 +14,4 @@ title: Mystifier - Goetia
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=44330&sort=pd.name&order=ASC) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=44792&sort=pd.name&order=ASC) for $30.00

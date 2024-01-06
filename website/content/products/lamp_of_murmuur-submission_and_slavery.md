@@ -5,7 +5,7 @@ artist: Lamp of Murmuur
 categories:
 - Vinyl
 - CD
-date: '2024-01-04T06:14:15'
+date: '2024-01-06T06:15:10'
 draft: false
 images:
 - /images/covers/lamp_of_murmuur-submission_and_slavery.png
@@ -15,6 +15,6 @@ title: Lamp of Murmuur - Submission And Slavery
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=44708&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=44768&sort=pd.name&order=ASC) for $25.00
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=44003&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=44767&sort=pd.name&order=ASC) for $15.00
