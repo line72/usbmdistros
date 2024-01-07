@@ -4,7 +4,7 @@ album: The Dark War Has Begun
 artist: Bestial Summoning
 categories:
 - Vinyl
-date: '2023-11-29T06:13:04'
+date: '2024-01-07T06:15:44'
 draft: false
 images:
 - /images/covers/bestial_summoning-the_dark_war_has_begun.png
@@ -14,4 +14,4 @@ title: Bestial Summoning - The Dark War Has Begun
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=41177&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=44843&sort=pd.name&order=ASC) for $25.00

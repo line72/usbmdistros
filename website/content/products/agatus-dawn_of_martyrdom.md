@@ -4,7 +4,7 @@ album: Dawn Of Martyrdom
 artist: Agatus
 categories:
 - Vinyl
-date: '2023-11-29T06:12:56'
+date: '2024-01-07T06:15:36'
 draft: false
 images:
 - /images/covers/agatus-dawn_of_martyrdom.jpg
@@ -14,4 +14,4 @@ title: Agatus - Dawn Of Martyrdom
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=38657&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=44842&sort=pd.name&order=ASC) for $25.00

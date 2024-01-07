@@ -4,7 +4,7 @@ album: Realm Of The Night
 artist: Chamber Of Unlight
 categories:
 - Vinyl
-date: '2023-11-29T06:13:10'
+date: '2024-01-07T06:15:50'
 draft: false
 images:
 - /images/covers/chamber_of_unlight-realm_of_the_night.png
@@ -14,4 +14,4 @@ title: Chamber Of Unlight - Realm Of The Night
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=41967&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=44852&sort=pd.name&order=ASC) for $25.00
