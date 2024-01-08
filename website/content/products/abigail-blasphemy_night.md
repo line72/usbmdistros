@@ -4,7 +4,7 @@ album: Blasphemy Night
 artist: Abigail
 categories:
 - Vinyl
-date: '2023-11-29T06:12:55'
+date: '2024-01-08T06:13:41'
 draft: false
 images:
 - /images/covers/abigail-blasphemy_night.png
@@ -14,4 +14,4 @@ title: Abigail - Blasphemy Night
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=40937&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=44939&sort=pd.name&order=ASC) for $25.00

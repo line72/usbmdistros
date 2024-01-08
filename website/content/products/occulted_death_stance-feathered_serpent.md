@@ -4,7 +4,7 @@ album: Feathered Serpent
 artist: Occulted Death Stance
 categories:
 - Vinyl
-date: '2023-12-15T06:13:53'
+date: '2024-01-08T06:14:50'
 draft: false
 images:
 - /images/covers/occulted_death_stance-feathered_serpent.jpg
@@ -14,4 +14,4 @@ title: Occulted Death Stance - Feathered Serpent
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=44113&sort=pd.name&order=ASC) for $40.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=44917&sort=pd.name&order=ASC) for $40.00

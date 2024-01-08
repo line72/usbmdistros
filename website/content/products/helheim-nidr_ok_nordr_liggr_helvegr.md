@@ -4,7 +4,7 @@ album: Nidr Ok Nordr Liggr Helvegr
 artist: Helheim
 categories:
 - Vinyl
-date: '2023-11-29T06:13:27'
+date: '2024-01-08T06:14:20'
 draft: false
 images:
 - /images/covers/helheim-nidr_ok_nordr_liggr_helvegr.png
@@ -14,4 +14,4 @@ title: Helheim - Nidr Ok Nordr Liggr Helvegr
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=43824&sort=pd.name&order=ASC) for $27.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=44938&sort=pd.name&order=ASC) for $27.00

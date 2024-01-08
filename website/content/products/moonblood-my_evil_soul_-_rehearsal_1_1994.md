@@ -4,7 +4,7 @@ album: My Evil Soul - Rehearsal 1 1994
 artist: Moonblood
 categories:
 - Vinyl
-date: '2023-12-15T06:13:46'
+date: '2024-01-08T06:14:41'
 draft: false
 images:
 - /images/covers/moonblood-my_evil_soul_-_rehearsal_1_1994.jpg
@@ -14,4 +14,4 @@ title: Moonblood - My Evil Soul - Rehearsal 1 1994
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=44064&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=44888&sort=pd.name&order=ASC) for $25.00

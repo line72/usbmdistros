@@ -5,7 +5,7 @@ artist: Svartsyn
 categories:
 - Vinyl
 - Cassette
-date: '2023-11-29T06:16:10'
+date: '2024-01-08T06:17:36'
 draft: false
 images:
 - /images/covers/svartsyn-destruction_of_man.jpg
@@ -17,4 +17,4 @@ title: Svartsyn - Destruction of Man
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=43647&sort=pd.name&order=ASC) for $25.00
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=43652&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=44931&sort=pd.name&order=ASC) for $15.00

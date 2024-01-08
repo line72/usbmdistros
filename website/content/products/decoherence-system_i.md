@@ -18,5 +18,4 @@ title: Decoherence - System I
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/decoherence-system-i-lp-1) for $25.00 :: Black 2021 press vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/decoherence-system-i-lp-1) for $25.00 :: Deep Space Marble 2021 press vinyl
 ## Cassette
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/decoherence-system-i-cassette) for $11.00 :: Cassette Tape 1st press
 * Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/32424409-decoherence-system-i) for $8.00

@@ -4,7 +4,7 @@ album: The Longing
 artist: Drowning The Light
 categories:
 - Vinyl
-date: '2023-11-29T06:13:18'
+date: '2024-01-08T06:14:09'
 draft: false
 images:
 - /images/covers/drowning_the_light-the_longing.jpg
@@ -14,4 +14,4 @@ title: Drowning The Light - The Longing
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=43945&sort=pd.name&order=ASC) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=44878&sort=pd.name&order=ASC) for $30.00

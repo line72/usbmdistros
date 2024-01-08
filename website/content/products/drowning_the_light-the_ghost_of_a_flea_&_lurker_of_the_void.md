@@ -4,7 +4,7 @@ album: The Ghost of a Flea & Lurker of the Void
 artist: Drowning The Light
 categories:
 - Vinyl
-date: '2023-11-29T06:13:18'
+date: '2024-01-08T06:14:09'
 draft: false
 images:
 - /images/covers/drowning_the_light-the_ghost_of_a_flea_&_lurker_of_the_void.jpg
@@ -14,4 +14,4 @@ title: Drowning The Light - The Ghost of a Flea & Lurker of the Void
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=43944&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=44877&sort=pd.name&order=ASC) for $25.00

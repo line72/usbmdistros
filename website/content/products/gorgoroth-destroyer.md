@@ -4,7 +4,7 @@ album: Destroyer
 artist: Gorgoroth
 categories:
 - Vinyl
-date: '2023-11-29T06:13:25'
+date: '2024-01-08T06:14:16'
 draft: false
 images:
 - /images/covers/gorgoroth-destroyer.jpg
@@ -14,4 +14,4 @@ title: Gorgoroth - Destroyer
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=40852&sort=pd.name&order=ASC) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=44870&sort=pd.name&order=ASC) for $30.00

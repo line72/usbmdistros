@@ -1,10 +1,10 @@
 ---
-actualPrice: $15.00
+actualPrice: $9.00 - 15.00
 album: Intransigence
 artist: Telos
 categories:
 - CD
-date: '2023-11-29T06:15:32'
+date: '2024-01-08T06:25:04'
 draft: false
 images:
 - /images/covers/telos-intransigence.jpg
@@ -15,3 +15,4 @@ title: Telos - Intransigence
 
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=40400&sort=pd.name&order=ASC) for $15.00
+* Purchase from [CW Productions](https://shop.cwproductions.net/products/telos-intransigence-cd) for $9.00
