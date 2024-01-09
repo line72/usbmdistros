@@ -4,7 +4,7 @@ album: Blessed by War
 artist: Goatpenis
 categories:
 - CD
-date: '2023-11-29T06:14:57'
+date: '2024-01-09T06:14:52'
 draft: false
 images:
 - /images/covers/goatpenis-blessed_by_war.jpg
@@ -14,4 +14,4 @@ title: Goatpenis - Blessed by War
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=40333&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=45034&sort=pd.name&order=ASC) for $12.00

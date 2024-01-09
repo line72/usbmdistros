@@ -5,7 +5,7 @@ artist: Order From Chaos
 categories:
 - Vinyl
 - CD
-date: '2023-12-24T06:13:46'
+date: '2024-01-09T06:15:16'
 draft: false
 images:
 - /images/covers/order_from_chaos-dawn_bringer.png
@@ -15,6 +15,6 @@ title: Order From Chaos - Dawn Bringer
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=44382&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=45043&sort=pd.name&order=ASC) for $25.00
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=43299&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=45040&sort=pd.name&order=ASC) for $15.00
