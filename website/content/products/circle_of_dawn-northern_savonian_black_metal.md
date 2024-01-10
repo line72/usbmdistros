@@ -1,10 +1,10 @@
 ---
-actualPrice: $27.00
+actualPrice: $15.00
 album: Northern Savonian Black Metal
 artist: Circle of Dawn
 categories:
-- Vinyl
-date: '2024-01-09T06:12:58'
+- CD
+date: '2024-01-10T06:14:37'
 draft: false
 images:
 - /images/covers/circle_of_dawn-northern_savonian_black_metal.jpg
@@ -13,5 +13,5 @@ thumbnailImage: /images/covers/circle_of_dawn-northern_savonian_black_metal-thum
 title: Circle of Dawn - Northern Savonian Black Metal
 ---
 
-## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=45066&sort=pd.name&order=ASC) for $27.00
+## CD
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=45075&sort=pd.name&order=ASC) for $15.00
