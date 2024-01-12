@@ -4,7 +4,7 @@ album: "Thul\xEAan Mysteries"
 artist: Burzum
 categories:
 - Vinyl
-date: '2023-11-29T06:13:08'
+date: '2024-01-12T06:13:06'
 draft: false
 images:
 - "/images/covers/burzum-thul\xEAan_mysteries.jpg"
@@ -14,4 +14,4 @@ title: "Burzum - Thul\xEAan Mysteries"
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=42533&sort=pd.name&order=ASC) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=45197&sort=pd.name&order=ASC) for $30.00

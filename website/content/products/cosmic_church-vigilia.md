@@ -4,7 +4,7 @@ album: Vigilia
 artist: Cosmic Church
 categories:
 - Vinyl
-date: '2023-11-29T06:13:12'
+date: '2024-01-12T06:13:10'
 draft: false
 images:
 - /images/covers/cosmic_church-vigilia.jpg
@@ -14,4 +14,4 @@ title: Cosmic Church - Vigilia
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=43350&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=45213&sort=pd.name&order=ASC) for $25.00

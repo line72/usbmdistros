@@ -4,7 +4,7 @@ album: "Tulkoon Y\xF6 / Talviy\xF6"
 artist: Kiira
 categories:
 - Vinyl
-date: '2023-11-29T06:13:35'
+date: '2024-01-12T06:13:33'
 draft: false
 images:
 - "/images/covers/kiira-tulkoon_y\xF6_-_talviy\xF6.jpg"
@@ -14,4 +14,4 @@ title: "Kiira - Tulkoon Y\xF6 / Talviy\xF6"
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=32573&sort=pd.name&order=ASC) for $27.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=45236&sort=pd.name&order=ASC) for $27.00
