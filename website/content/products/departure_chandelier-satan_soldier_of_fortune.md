@@ -5,7 +5,7 @@ artist: Departure Chandelier
 categories:
 - Vinyl
 - CD
-date: '2024-01-11T06:14:57'
+date: '2024-01-13T06:14:53'
 draft: false
 images:
 - /images/covers/departure_chandelier-satan_soldier_of_fortune.jpg
@@ -15,6 +15,6 @@ title: Departure Chandelier - Satan Soldier of Fortune
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=45111&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=45322&sort=pd.name&order=ASC) for $25.00
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=45112&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=45321&sort=pd.name&order=ASC) for $15.00

@@ -1,5 +1,5 @@
 ---
-actualPrice: $10.00 - 20.00
+actualPrice: $20.00
 album: Sekhmet
 artist: Funeral Winds
 categories:
@@ -14,5 +14,4 @@ title: Funeral Winds - Sekhmet
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=42833&sort=pd.name&order=ASC) for $10.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=42834&sort=pd.name&order=ASC) for $20.00

@@ -6,7 +6,7 @@ categories:
 - Vinyl
 - Cassette
 - CD
-date: '2023-12-17T13:26:39'
+date: '2024-01-13T06:22:10'
 draft: false
 images:
 - /images/covers/hulder-the_eternal_fanfare.jpg
@@ -17,7 +17,7 @@ title: Hulder - The Eternal Fanfare
 
 ## Vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/hulder-the-eternal-fanfare-lp-1) for $25.00 :: Black 2022 press vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/hulder-the-eternal-fanfare-lp-1) for $25.00 :: Clear 2022 press vinyl
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/hulder-the-eternal-fanfare-lp-1) for $27.00 :: Clear 2022 press vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/hulder-the-eternal-fanfare-lp-1) for $35.00 :: Tri-Merge 2022 press vinyl
 ## Cassette
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/hulder-the-eternal-fanfare-cassette) for $14.00 :: Cassette Tape 2022

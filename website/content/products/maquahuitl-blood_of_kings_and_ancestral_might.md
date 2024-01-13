@@ -4,7 +4,7 @@ album: Blood of Kings and Ancestral Might
 artist: Maquahuitl
 categories:
 - Vinyl
-date: '2023-06-15T05:07:53'
+date: '2024-01-13T06:01:16'
 draft: false
 images:
 - /images/covers/maquahuitl-blood_of_kings_and_ancestral_might.jpg

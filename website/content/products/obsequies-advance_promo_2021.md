@@ -1,5 +1,5 @@
 ---
-actualPrice: $13.00 - 15.00
+actualPrice: $15.00
 album: Advance Promo 2021
 artist: Obsequies
 categories:
@@ -14,5 +14,4 @@ title: Obsequies - Advance Promo 2021
 ---
 
 ## Cassette
-* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/obsequies-advance-promo-2021-tape) for $13.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=30075&sort=pd.name&order=ASC) for $15.00

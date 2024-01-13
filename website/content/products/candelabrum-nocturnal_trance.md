@@ -1,10 +1,10 @@
 ---
-actualPrice: $6.00
+actualPrice: $5.00
 album: Nocturnal Trance
 artist: Candelabrum
 categories:
 - Cassette
-date: '2023-10-25T05:30:48'
+date: '2024-01-13T06:03:28'
 draft: false
 images:
 - /images/covers/candelabrum-nocturnal_trance.jpg
@@ -14,4 +14,4 @@ title: Candelabrum - Nocturnal Trance
 ---
 
 ## Cassette
-* Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/35753596-candelabrum-nocturnal-trance) for $6.00
+* Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/35753596-candelabrum-nocturnal-trance) for $5.00

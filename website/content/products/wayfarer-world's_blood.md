@@ -1,10 +1,10 @@
 ---
-actualPrice: $28.00
+actualPrice: $27.00
 album: World's Blood
 artist: Wayfarer
 categories:
 - Vinyl
-date: '2024-01-07T06:23:37'
+date: '2024-01-13T06:21:08'
 draft: false
 images:
 - /images/covers/wayfarer-world's_blood.jpg
@@ -14,4 +14,4 @@ title: Wayfarer - World's Blood
 ---
 
 ## Vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/wayfarer-worlds-blood-lp) for $28.00 :: Color 2023 press vinyl
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/wayfarer-worlds-blood-lp) for $27.00 :: Color 2023 press vinyl

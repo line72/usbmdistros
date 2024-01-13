@@ -4,7 +4,7 @@ album: "Verw\xFCstung / Invoke the Dark Age"
 artist: Abigor
 categories:
 - CD
-date: '2023-12-27T06:14:14'
+date: '2024-01-13T06:14:41'
 draft: false
 images:
 - "/images/covers/abigor-verw\xFCstung_-_invoke_the_dark_age.png"
@@ -14,4 +14,4 @@ title: "Abigor - Verw\xFCstung / Invoke the Dark Age"
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=44436&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=45285&sort=pd.name&order=ASC) for $15.00

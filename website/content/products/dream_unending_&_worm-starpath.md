@@ -1,10 +1,10 @@
 ---
-actualPrice: $28.00
+actualPrice: $27.00
 album: Starpath
 artist: DREAM UNENDING & WORM
 categories:
 - Vinyl
-date: '2023-12-25T06:21:58'
+date: '2024-01-13T06:21:06'
 draft: false
 images:
 - /images/covers/dream_unending_&_worm-starpath.jpg
@@ -14,4 +14,4 @@ title: DREAM UNENDING & WORM - Starpath
 ---
 
 ## Vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/dream-unending-worm-starpath-lp-1) for $28.00 :: Color 2023 press vinyl
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/dream-unending-worm-starpath-lp-1) for $27.00 :: Color 2023 press vinyl
