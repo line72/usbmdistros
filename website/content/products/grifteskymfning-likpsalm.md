@@ -4,7 +4,7 @@ album: Likpsalm
 artist: Grifteskymfning
 categories:
 - Vinyl
-date: '2023-11-29T06:13:26'
+date: '2024-01-15T06:31:00'
 draft: false
 images:
 - /images/covers/grifteskymfning-likpsalm.jpg
@@ -14,4 +14,4 @@ title: Grifteskymfning - Likpsalm
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=40036&sort=pd.name&order=ASC) for $33.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=45377&sort=pd.name&order=ASC) for $33.00

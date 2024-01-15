@@ -4,7 +4,7 @@ album: "Bedr\xF6velsens H\xE4rd"
 artist: Grifteskymfning
 categories:
 - Vinyl
-date: '2023-11-29T06:13:26'
+date: '2024-01-15T06:31:00'
 draft: false
 images:
 - "/images/covers/grifteskymfning-bedr\xF6velsens_h\xE4rd.jpg"
@@ -14,4 +14,4 @@ title: "Grifteskymfning - Bedr\xF6velsens H\xE4rd"
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=40034&sort=pd.name&order=ASC) for $33.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=45375&sort=pd.name&order=ASC) for $33.00

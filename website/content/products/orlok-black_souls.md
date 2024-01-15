@@ -4,7 +4,7 @@ album: Black Souls
 artist: Orlok
 categories:
 - Vinyl
-date: '2024-01-10T06:13:41'
+date: '2024-01-15T06:31:32'
 draft: false
 images:
 - /images/covers/orlok-black_souls.jpg
@@ -14,4 +14,4 @@ title: Orlok - Black Souls
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=45096&sort=pd.name&order=ASC) for $40.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=45347&sort=pd.name&order=ASC) for $40.00

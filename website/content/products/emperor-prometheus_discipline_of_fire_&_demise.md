@@ -4,7 +4,7 @@ album: PROMETHEUS DISCIPLINE OF FIRE & DEMISE
 artist: Emperor
 categories:
 - Vinyl
-date: '2023-11-29T06:13:19'
+date: '2024-01-15T06:30:50'
 draft: false
 images:
 - /images/covers/emperor-prometheus_discipline_of_fire_&_demise.jpg
@@ -14,4 +14,4 @@ title: Emperor - PROMETHEUS DISCIPLINE OF FIRE & DEMISE
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=36250&sort=pd.name&order=ASC) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=45438&sort=pd.name&order=ASC) for $30.00

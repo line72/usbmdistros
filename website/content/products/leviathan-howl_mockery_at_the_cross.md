@@ -4,7 +4,7 @@ album: Howl Mockery At The Cross
 artist: Leviathan
 categories:
 - Vinyl
-date: '2024-01-13T06:13:40'
+date: '2024-01-15T06:31:13'
 draft: false
 images:
 - /images/covers/leviathan-howl_mockery_at_the_cross.jpg
@@ -14,4 +14,4 @@ title: Leviathan - Howl Mockery At The Cross
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=45261&sort=pd.name&order=ASC) for $35.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=45408&sort=pd.name&order=ASC) for $35.00

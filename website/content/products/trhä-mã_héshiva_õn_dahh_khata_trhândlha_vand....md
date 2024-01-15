@@ -4,7 +4,7 @@ album: "M\xE3 H\xE9shiva \xF5n dahh Khata trh\xE2ndlha vand..."
 artist: "Trh\xE4"
 categories:
 - Vinyl
-date: '2024-01-04T06:14:50'
+date: '2024-01-15T06:31:56'
 draft: false
 images:
 - "/images/covers/trh\xE4-m\xE3_h\xE9shiva_\xF5n_dahh_khata_trh\xE2ndlha_vand....jpg"
@@ -15,4 +15,4 @@ title: "Trh\xE4 - M\xE3 H\xE9shiva \xF5n dahh Khata trh\xE2ndlha vand..."
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=44697&sort=pd.name&order=ASC) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=45359&sort=pd.name&order=ASC) for $30.00

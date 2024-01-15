@@ -1,16 +1,16 @@
 ---
 actualPrice: $10.00
-album: The End Of Ordovicia
+album: End Of Ordovicia
 artist: Silurian
 categories:
 - CD
-date: '2024-01-02T06:20:56'
+date: '2024-01-15T06:39:37'
 draft: false
 images:
-- /images/covers/silurian-the_end_of_ordovicia.jpg
+- /images/covers/silurian-end_of_ordovicia.jpg
 inStock: true
-thumbnailImage: /images/covers/silurian-the_end_of_ordovicia-thumb.jpg
-title: Silurian - The End Of Ordovicia
+thumbnailImage: /images/covers/silurian-end_of_ordovicia-thumb.jpg
+title: Silurian - End Of Ordovicia
 ---
 
 ## CD

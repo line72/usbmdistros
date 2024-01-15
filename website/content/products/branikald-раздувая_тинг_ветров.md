@@ -5,7 +5,7 @@ album: "\u0420\u0430\u0437\u0434\u0443\u0432\u0430\u044F \u0422\u0438\u043D\u043
 artist: Branikald
 categories:
 - Vinyl
-date: '2023-12-24T06:13:03'
+date: '2024-01-15T06:30:34'
 draft: false
 images:
 - "/images/covers/branikald-\u0440\u0430\u0437\u0434\u0443\u0432\u0430\u044F_\u0442\
@@ -19,4 +19,4 @@ title: "Branikald - \u0420\u0430\u0437\u0434\u0443\u0432\u0430\u044F \u0422\u043
 
 ## Vinyl
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/branikald-12-lp-1) for $35.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=44402&sort=pd.name&order=ASC) for $35.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=45382&sort=pd.name&order=ASC) for $35.00
