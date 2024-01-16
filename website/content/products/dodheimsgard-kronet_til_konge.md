@@ -4,7 +4,7 @@ album: Kronet Til Konge
 artist: Dodheimsgard
 categories:
 - Vinyl
-date: '2023-12-31T06:12:55'
+date: '2024-01-16T06:15:11'
 draft: false
 images:
 - /images/covers/dodheimsgard-kronet_til_konge.png
@@ -14,4 +14,4 @@ title: Dodheimsgard - Kronet Til Konge
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=44516&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=45501&sort=pd.name&order=ASC) for $25.00

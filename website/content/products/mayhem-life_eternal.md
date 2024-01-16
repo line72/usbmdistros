@@ -6,7 +6,7 @@ categories:
 - Vinyl
 - Cassette
 - CD
-date: '2023-11-29T06:15:59'
+date: '2024-01-16T06:15:36'
 draft: false
 images:
 - /images/covers/mayhem-life_eternal.jpg
@@ -16,7 +16,7 @@ title: Mayhem - Life Eternal
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=43547&sort=pd.name&order=ASC) for $35.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=45496&sort=pd.name&order=ASC) for $35.00
 ## Cassette
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=42194&sort=pd.name&order=ASC) for $15.00
 ## CD

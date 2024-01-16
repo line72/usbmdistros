@@ -6,7 +6,7 @@ categories:
 - Vinyl
 - Cassette
 - CD
-date: '2023-11-29T06:15:58'
+date: '2024-01-16T06:15:32'
 draft: false
 images:
 - /images/covers/lord_belial-kiss_the_goat.jpg
@@ -16,7 +16,7 @@ title: Lord Belial - Kiss the Goat
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=43594&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=45488&sort=pd.name&order=ASC) for $25.00
 ## Cassette
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=43595&sort=pd.name&order=ASC) for $15.00
 ## CD
