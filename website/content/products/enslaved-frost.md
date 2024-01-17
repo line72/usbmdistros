@@ -4,7 +4,7 @@ album: Frost
 artist: Enslaved
 categories:
 - Vinyl
-date: '2023-11-29T06:13:19'
+date: '2024-01-17T06:13:14'
 draft: false
 images:
 - /images/covers/enslaved-frost.jpg
@@ -15,4 +15,4 @@ title: Enslaved - Frost
 
 ## Vinyl
 * Purchase from [Sto'Vo'Kor Records](https://stovokor-records.com/products/enslaved-frost) for $22.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=43892&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=45520&sort=pd.name&order=ASC) for $25.00

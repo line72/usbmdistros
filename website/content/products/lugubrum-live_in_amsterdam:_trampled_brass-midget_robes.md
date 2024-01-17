@@ -4,7 +4,7 @@ album: 'Live In Amsterdam: Trampled Brass/Midget Robes'
 artist: Lugubrum
 categories:
 - Vinyl
-date: '2023-11-29T06:13:38'
+date: '2024-01-17T06:13:33'
 draft: false
 images:
 - /images/covers/lugubrum-live_in_amsterdam:_trampled_brass-midget_robes.jpg
@@ -14,4 +14,4 @@ title: 'Lugubrum - Live In Amsterdam: Trampled Brass/Midget Robes'
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=41897&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=45584&sort=pd.name&order=ASC) for $25.00

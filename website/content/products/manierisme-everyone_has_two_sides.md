@@ -4,7 +4,7 @@ album: Everyone Has Two Sides
 artist: Manierisme
 categories:
 - Vinyl
-date: '2023-11-29T06:13:40'
+date: '2024-01-17T06:13:34'
 draft: false
 images:
 - /images/covers/manierisme-everyone_has_two_sides.jpg
@@ -15,4 +15,4 @@ title: Manierisme - Everyone Has Two Sides
 
 ## Vinyl
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/manierisme-everyone-has-two-sides-12-lp) for $27.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=43636&sort=pd.name&order=ASC) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=45576&sort=pd.name&order=ASC) for $30.00
