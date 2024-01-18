@@ -4,7 +4,7 @@ album: A Night in the Dark - Live Germany 1986
 artist: Celtic Frost
 categories:
 - Vinyl
-date: '2024-01-12T06:13:08'
+date: '2024-01-18T06:13:43'
 draft: false
 images:
 - /images/covers/celtic_frost-a_night_in_the_dark_-_live_germany_1986.jpg
@@ -14,4 +14,4 @@ title: Celtic Frost - A Night in the Dark - Live Germany 1986
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=45165&sort=pd.name&order=ASC) for $120.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=45687&sort=pd.name&order=ASC) for $120.00

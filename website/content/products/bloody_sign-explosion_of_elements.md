@@ -4,7 +4,7 @@ album: Explosion of Elements
 artist: Bloody Sign
 categories:
 - Vinyl
-date: '2023-11-29T06:13:06'
+date: '2024-01-18T06:13:40'
 draft: false
 images:
 - /images/covers/bloody_sign-explosion_of_elements.jpg
@@ -14,4 +14,4 @@ title: Bloody Sign - Explosion of Elements
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=38352&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=45697&sort=pd.name&order=ASC) for $20.00

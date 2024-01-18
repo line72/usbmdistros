@@ -5,7 +5,7 @@ album: "\u05D8\u200B\u05E8\u200B\u05E4\u200B\u05D4 \u0627\u200B\u0644\u200B\u064
 artist: Bradung
 categories:
 - CD
-date: '2023-11-29T06:14:45'
+date: '2024-01-18T06:15:18'
 draft: false
 images:
 - "/images/covers/bradung-\u05D8\u200B\u05E8\u200B\u05E4\u200B\u05D4_\u0627\u200B\u0644\
@@ -18,4 +18,4 @@ title: "Bradung - \u05D8\u200B\u05E8\u200B\u05E4\u200B\u05D4 \u0627\u200B\u0644\
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=29266&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=45632&sort=pd.name&order=ASC) for $12.00

@@ -6,7 +6,7 @@ categories:
 - Vinyl
 - Cassette
 - CD
-date: '2024-01-04T06:14:11'
+date: '2024-01-18T06:14:05'
 draft: false
 images:
 - /images/covers/imperial_crystalline_entombment-apocalyptic_end_in_white.jpg
@@ -16,7 +16,7 @@ title: Imperial Crystalline Entombment - Apocalyptic End In White
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=44664&sort=pd.name&order=ASC) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=45661&sort=pd.name&order=ASC) for $30.00
 ## Cassette
 * Purchase from [Debemur Morti](https://debemurmorti.aisamerch.com/item/141502) for $11.99
 ## CD

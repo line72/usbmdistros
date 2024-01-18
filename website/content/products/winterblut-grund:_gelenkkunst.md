@@ -4,7 +4,7 @@ album: 'Grund: Gelenkkunst'
 artist: Winterblut
 categories:
 - CD
-date: '2023-11-29T06:15:39'
+date: '2024-01-18T06:16:12'
 draft: false
 images:
 - /images/covers/winterblut-grund:_gelenkkunst.png
@@ -14,4 +14,4 @@ title: 'Winterblut - Grund: Gelenkkunst'
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=27924&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=45679&sort=pd.name&order=ASC) for $12.00

@@ -1,10 +1,11 @@
 ---
-actualPrice: $80.00
+actualPrice: $10.00 - 80.00
 album: 'Theovorator: Babelis Testamentum'
 artist: "D\xE9l\xE9t\xE8re"
 categories:
 - Vinyl
-date: '2023-11-29T06:13:15'
+- CD
+date: '2024-01-18T06:15:23'
 draft: false
 images:
 - "/images/covers/d\xE9l\xE9t\xE8re-theovorator:_babelis_testamentum.jpg"
@@ -15,3 +16,5 @@ title: "D\xE9l\xE9t\xE8re - Theovorator: Babelis Testamentum"
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=22631&sort=pd.name&order=ASC) for $80.00
+## CD
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=45624&sort=pd.name&order=ASC) for $10.00

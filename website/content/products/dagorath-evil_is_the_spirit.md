@@ -1,10 +1,11 @@
 ---
-actualPrice: $25.00
+actualPrice: $10.00 - 25.00
 album: Evil is the Spirit
 artist: Dagorath
 categories:
 - Vinyl
-date: '2023-11-29T06:13:13'
+- CD
+date: '2024-01-18T06:15:21'
 draft: false
 images:
 - /images/covers/dagorath-evil_is_the_spirit.jpg
@@ -15,3 +16,5 @@ title: Dagorath - Evil is the Spirit
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=19710&sort=pd.name&order=ASC) for $25.00
+## CD
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=45658&sort=pd.name&order=ASC) for $10.00

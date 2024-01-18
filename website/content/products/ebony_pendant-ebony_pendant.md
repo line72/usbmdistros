@@ -4,7 +4,7 @@ album: Ebony Pendant
 artist: Ebony Pendant
 categories:
 - Vinyl
-date: '2024-01-17T06:13:13'
+date: '2024-01-18T06:13:52'
 draft: false
 images:
 - /images/covers/ebony_pendant-ebony_pendant.jpg
@@ -14,4 +14,4 @@ title: Ebony Pendant - Ebony Pendant
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=45525&sort=pd.name&order=ASC) for $40.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=45611&sort=pd.name&order=ASC) for $40.00
