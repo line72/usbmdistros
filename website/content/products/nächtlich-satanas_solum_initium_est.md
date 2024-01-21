@@ -5,7 +5,7 @@ artist: "N\xE4chtlich"
 categories:
 - Vinyl
 - CD
-date: '2024-01-18T06:01:08'
+date: '2024-01-21T06:00:59'
 draft: false
 images:
 - "/images/covers/n\xE4chtlich-satanas_solum_initium_est.jpg"

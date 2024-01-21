@@ -16,7 +16,6 @@ title: 'Moonlight Sorcery - Nightwind: The Conqueror from the Stars'
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=33496&sort=pd.name&order=ASC) for $25.00
 * Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/moonlight-sorcery-nightwind-the-conqueror-from-the-stars-smoke-galaxy-vinyl-lp) for $25.99 :: Oxblood/Smoke Galaxy Vinyl LP
 ## Cassette
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=33499&sort=pd.name&order=ASC) for $12.00
