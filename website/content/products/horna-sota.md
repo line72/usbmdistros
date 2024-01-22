@@ -1,10 +1,10 @@
 ---
-actualPrice: $160.00
+actualPrice: $140.00
 album: Sota
 artist: Horna
 categories:
 - Vinyl
-date: '2024-01-08T06:15:41'
+date: '2024-01-22T06:15:28'
 draft: false
 images:
 - /images/covers/horna-sota.jpg
@@ -14,4 +14,4 @@ title: Horna - Sota
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=44927&sort=pd.name&order=ASC) for $160.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=45947&sort=pd.name&order=ASC) for $140.00

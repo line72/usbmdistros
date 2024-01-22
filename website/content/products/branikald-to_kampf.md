@@ -4,7 +4,7 @@ album: To Kampf
 artist: Branikald
 categories:
 - Vinyl
-date: '2024-01-15T06:30:34'
+date: '2024-01-22T06:13:47'
 draft: false
 images:
 - /images/covers/branikald-to_kampf.jpg
@@ -14,4 +14,4 @@ title: Branikald - To Kampf
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=45380&sort=pd.name&order=ASC) for $35.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=45868&sort=pd.name&order=ASC) for $35.00

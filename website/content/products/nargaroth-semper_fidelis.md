@@ -4,7 +4,7 @@ album: Semper Fidelis
 artist: Nargaroth
 categories:
 - CD
-date: '2023-11-29T06:15:15'
+date: '2024-01-22T06:16:24'
 draft: false
 images:
 - /images/covers/nargaroth-semper_fidelis.jpg
@@ -14,4 +14,4 @@ title: Nargaroth - Semper Fidelis
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=40993&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=45945&sort=pd.name&order=ASC) for $15.00

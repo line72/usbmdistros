@@ -5,7 +5,7 @@ album: "\u0416\u0438\u0437\u043D\u0435\u043E\u0442\u0440\u0438\u0446\u0430\u043D
 artist: Branikald
 categories:
 - Vinyl
-date: '2024-01-15T06:30:34'
+date: '2024-01-22T06:13:47'
 draft: false
 images:
 - "/images/covers/branikald-\u0436\u0438\u0437\u043D\u0435\u043E\u0442\u0440\u0438\
@@ -20,4 +20,4 @@ title: "Branikald - \u0416\u0438\u0437\u043D\u0435\u043E\u0442\u0440\u0438\u0446
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=45381&sort=pd.name&order=ASC) for $35.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=45871&sort=pd.name&order=ASC) for $35.00
