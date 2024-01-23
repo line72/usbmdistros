@@ -1,5 +1,5 @@
 ---
-actualPrice: $15.00 - 23.00
+actualPrice: $15.00
 album: Herbstleyd
 artist: Nargaroth
 categories:
@@ -15,4 +15,3 @@ title: Nargaroth - Herbstleyd
 
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=45936&sort=pd.name&order=ASC) for $15.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=45938&sort=pd.name&order=ASC) for $23.00

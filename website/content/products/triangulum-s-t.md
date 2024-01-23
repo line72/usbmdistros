@@ -4,7 +4,7 @@ album: s/t
 artist: Triangulum
 categories:
 - Vinyl
-date: '2024-01-18T06:01:09'
+date: '2024-01-23T06:01:13'
 draft: false
 images:
 - /images/covers/triangulum-s-t.jpg

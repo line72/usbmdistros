@@ -5,7 +5,7 @@ artist: Nokturnal Mortum
 categories:
 - Vinyl
 - Cassette
-date: '2023-11-29T06:13:49'
+date: '2024-01-23T06:13:58'
 draft: false
 images:
 - /images/covers/nokturnal_mortum-to_the_gates_of_blasphemous_fire.jpg
@@ -15,6 +15,6 @@ title: Nokturnal Mortum - To the Gates of Blasphemous Fire
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=43885&sort=pd.name&order=ASC) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=45958&sort=pd.name&order=ASC) for $30.00
 ## Cassette
 * Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/nokturnal-mortum-to-the-gates-of-blasphemous-fire-cassette/) for $13.50
