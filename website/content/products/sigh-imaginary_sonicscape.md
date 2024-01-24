@@ -1,0 +1,17 @@
+---
+actualPrice: $67.00
+album: Imaginary Sonicscape
+artist: Sigh
+categories:
+- Vinyl
+date: '2024-01-24T06:24:15'
+draft: false
+images:
+- /images/covers/sigh-imaginary_sonicscape.jpg
+inStock: true
+thumbnailImage: /images/covers/sigh-imaginary_sonicscape-thumb.jpg
+title: Sigh - Imaginary Sonicscape
+---
+
+## Vinyl
+* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/nesi-sigh-imaginary-sonicscape-asian-exclusive-black-vinyl-3lp-1) for $67.00 :: Asian Exclusive Splatter Vinyl 3LP

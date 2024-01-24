@@ -1,5 +1,5 @@
 ---
-actualPrice: $28.00 - 35.00
+actualPrice: $28.00 - 30.00
 album: Third Ritual
 artist: "N\xE4chtlich"
 categories:
@@ -14,6 +14,5 @@ title: "N\xE4chtlich - Third Ritual"
 ---
 
 ## Vinyl
-* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/nachtlich-third-ritual-12-lp) for $35.00
 * Purchase from [Sto'Vo'Kor Records](https://stovokor-records.com/products/nachtlich-third-ritual) for $30.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=42151&sort=pd.name&order=ASC) for $28.00

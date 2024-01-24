@@ -4,7 +4,7 @@ album: Kvenland
 artist: Stormheit
 categories:
 - Vinyl
-date: '2024-01-10T06:13:56'
+date: '2023-11-19T15:42:41'
 draft: false
 images:
 - /images/covers/stormheit-kvenland.png
@@ -15,4 +15,3 @@ title: Stormheit - Kvenland
 
 ## Vinyl
 * Purchase from [CW Productions](https://shop.cwproductions.net/products/stormheit-kvenland-lp) for $27.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=45076&sort=pd.name&order=ASC) for $27.00
