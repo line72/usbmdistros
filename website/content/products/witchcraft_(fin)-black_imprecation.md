@@ -4,7 +4,7 @@ album: Black Imprecation
 artist: Witchcraft (Fin)
 categories:
 - Cassette
-date: '2023-11-29T06:16:15'
+date: '2024-01-25T06:16:30'
 draft: false
 images:
 - /images/covers/witchcraft_(fin)-black_imprecation.jpg
@@ -14,4 +14,4 @@ title: Witchcraft (Fin) - Black Imprecation
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=39973&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=46003&sort=pd.name&order=ASC) for $15.00

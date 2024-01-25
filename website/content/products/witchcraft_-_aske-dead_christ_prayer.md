@@ -4,7 +4,7 @@ album: Dead Christ Prayer
 artist: Witchcraft / Aske
 categories:
 - Vinyl
-date: '2023-11-29T06:14:18'
+date: '2024-01-25T06:14:30'
 draft: false
 images:
 - /images/covers/witchcraft_-_aske-dead_christ_prayer.jpg
@@ -14,4 +14,4 @@ title: Witchcraft / Aske - Dead Christ Prayer
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=30902&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=46005&sort=pd.name&order=ASC) for $20.00
