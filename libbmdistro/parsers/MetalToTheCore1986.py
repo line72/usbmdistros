@@ -71,6 +71,7 @@ class MetalToTheCore1986(Parser):
             re.compile(r'^(.*?)\s+MCD\s*$'),
             re.compile(r'^(.*?)\s+CD\s*$'),
             re.compile(r'^(.*?)\s+CD\s+\[.*\]\s*$'),
+            re.compile(r'^(.*?)\s+\d+CD\s+BOX\s+SET\s*$'),
             re.compile(r'^(.*?)\s+CASSETTE\s*$'),
             re.compile(r'^(.*?)\s+CASSETTE\s+\[.*\]\s*$'),
             re.compile(r'^(.*?)\s+\d+"\s+EP\s*$'),
