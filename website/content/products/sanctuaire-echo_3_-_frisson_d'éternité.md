@@ -1,17 +1,17 @@
 ---
-actualPrice: $40.00
-album: "Echo 3 - Frisson d'\xE9ternit\xE9"
+actualPrice: $24.99
+album: "Echo 3 - Frisson D'\xC9ternit\xE9"
 artist: Sanctuaire
 categories:
 - Vinyl
-date: '2023-11-29T06:13:59'
+date: '2024-01-26T01:44:12'
 draft: false
 images:
 - "/images/covers/sanctuaire-echo_3_-_frisson_d'\xE9ternit\xE9.jpg"
 inStock: true
 thumbnailImage: "/images/covers/sanctuaire-echo_3_-_frisson_d'\xE9ternit\xE9-thumb.jpg"
-title: "Sanctuaire - Echo 3 - Frisson d'\xE9ternit\xE9"
+title: "Sanctuaire - Echo 3 - Frisson D'\xC9ternit\xE9"
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=39994&sort=pd.name&order=ASC) for $40.00
+* Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/sanctuaire-echo-3-frisson-deternite-vinyl-lp-gatefold) for $24.99 :: (gatefold w/ OBI)

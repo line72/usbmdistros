@@ -4,7 +4,7 @@ album: Subterranean Shadows
 artist: Crucifixion Bell
 categories:
 - Cassette
-date: '2023-11-29T06:15:48'
+date: '2024-01-26T01:44:19'
 draft: false
 images:
 - /images/covers/crucifixion_bell-subterranean_shadows.png
@@ -16,3 +16,4 @@ title: Crucifixion Bell - Subterranean Shadows
 ## Cassette
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/crucifixion-bell-subterranean-shadows-tape) for $11.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=35498&sort=pd.name&order=ASC) for $13.00
+* Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/crucifixion-bell-subterranean-shadows-cassette-tape) for $11.00

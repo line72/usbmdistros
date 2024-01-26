@@ -1,11 +1,11 @@
 ---
-actualPrice: $15.00 - 35.00
+actualPrice: $7.99 - 35.00
 album: HaglaNaudizEisaz
 artist: Wulkanaz
 categories:
 - Vinyl
 - CD
-date: '2023-11-29T06:15:40'
+date: '2024-01-26T01:44:21'
 draft: false
 images:
 - /images/covers/wulkanaz-haglanaudizeisaz.jpg
@@ -20,3 +20,4 @@ title: Wulkanaz - HaglaNaudizEisaz
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29590&sort=pd.name&order=ASC) for $27.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=31528&sort=pd.name&order=ASC) for $15.00
+* Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/wulkanaz-haglanaudizeisaz-cd) for $7.99

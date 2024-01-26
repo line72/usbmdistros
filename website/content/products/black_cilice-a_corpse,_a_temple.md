@@ -1,11 +1,11 @@
 ---
-actualPrice: $15.00 - 25.00
+actualPrice: $12.00 - 25.00
 album: A Corpse, A Temple
 artist: Black Cilice
 categories:
 - Vinyl
 - CD
-date: '2023-11-29T06:13:04'
+date: '2024-01-26T01:44:29'
 draft: false
 images:
 - /images/covers/black_cilice-a_corpse,_a_temple.jpg
@@ -19,3 +19,4 @@ title: Black Cilice - A Corpse, A Temple
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=34900&sort=pd.name&order=ASC) for $25.00
 ## CD
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/black-cilice-a-corpse-a-temple-cd) for $15.00
+* Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/black-cilice-a-corpse-a-temple) for $12.00

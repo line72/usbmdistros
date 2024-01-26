@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00
+actualPrice: $8.99 - 12.00
 album: Call of the Northern Moon
 artist: Erythrite Throne
 categories:
 - Cassette
-date: '2023-11-29T06:15:50'
+date: '2024-01-26T01:44:06'
 draft: false
 images:
 - /images/covers/erythrite_throne-call_of_the_northern_moon.jpg
@@ -15,3 +15,4 @@ title: Erythrite Throne - Call of the Northern Moon
 
 ## Cassette
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=42346&sort=pd.name&order=ASC) for $12.00
+* Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/erythrite-throne-call-of-the-northern-moon-cassette-tape) for $8.99

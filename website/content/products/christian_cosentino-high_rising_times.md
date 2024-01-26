@@ -5,7 +5,7 @@ artist: Christian Cosentino
 categories:
 - Vinyl
 - Cassette
-date: '2023-11-29T06:15:47'
+date: '2024-01-26T01:44:10'
 draft: false
 images:
 - /images/covers/christian_cosentino-high_rising_times.jpg
@@ -16,5 +16,6 @@ title: Christian Cosentino - High Rising Times
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=36532&sort=pd.name&order=ASC) for $27.00
+* Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/christian-cosentino-high-rising-times-vinyl-lp-color) for $25.00 :: (color, w/insert)
 ## Cassette
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=36530&sort=pd.name&order=ASC) for $15.00

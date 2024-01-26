@@ -1,21 +1,17 @@
 ---
-actualPrice: $23.00 - 30.00
+actualPrice: $21.99
 album: Rites Crvels
-artist: "Mal\xE9fices"
+artist: "MAL\xC9FICES"
 categories:
 - Vinyl
-- Cassette
-date: '2023-11-29T06:15:58'
+date: '2024-01-26T01:44:54'
 draft: false
 images:
 - "/images/covers/mal\xE9fices-rites_crvels.jpg"
 inStock: true
 thumbnailImage: "/images/covers/mal\xE9fices-rites_crvels-thumb.jpg"
-title: "Mal\xE9fices - Rites Crvels"
+title: "MAL\xC9FICES - Rites Crvels"
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=20884&sort=pd.name&order=ASC) for $25.00
-* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/malefices-rites-crvels-12-lp) for $23.00
-## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=40626&sort=pd.name&order=ASC) for $30.00
+* Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/malefices-rites-crvels-vinyl-lp-color) for $21.99 :: (color)

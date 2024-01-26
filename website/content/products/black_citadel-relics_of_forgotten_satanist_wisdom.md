@@ -1,10 +1,10 @@
 ---
-actualPrice: $13.00
+actualPrice: $8.99 - 13.00
 album: Relics of Forgotten Satanist Wisdom
 artist: Black Citadel
 categories:
 - CD
-date: '2022-02-15T06:01:09'
+date: '2024-01-26T01:45:00'
 draft: false
 images:
 - /images/covers/black_citadel-relics_of_forgotten_satanist_wisdom.jpg
@@ -15,3 +15,4 @@ title: Black Citadel - Relics of Forgotten Satanist Wisdom
 
 ## CD
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/black-citadel-relics-of-forgotten-satanist-wisdom-cd) for $13.00
+* Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/black-citadel-relics-of-forgotten-satanist-wisdom-cd-lim-100) for $8.99 :: (lim. 100)

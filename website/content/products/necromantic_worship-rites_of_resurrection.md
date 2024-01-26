@@ -6,7 +6,7 @@ categories:
 - Vinyl
 - Cassette
 - CD
-date: '2024-01-17T06:13:42'
+date: '2024-01-26T01:44:28'
 draft: false
 images:
 - /images/covers/necromantic_worship-rites_of_resurrection.jpg
@@ -23,3 +23,4 @@ title: Necromantic Worship - Rites of Resurrection
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=30181&sort=pd.name&order=ASC) for $12.00
 * Purchase from [CW Productions](https://shop.cwproductions.net/products/necromantic-worship-rites-of-resurrection-cd) for $12.00
+* Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/necromantic-worship-rites-of-resurrection-cd) for $12.99

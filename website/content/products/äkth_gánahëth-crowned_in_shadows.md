@@ -1,17 +1,17 @@
 ---
 actualPrice: $15.00
 album: Crowned in Shadows
-artist: "\xC4kth G\xE1nah\xEBth"
+artist: "\xC4KTH G\xC1NAH\xCBTH"
 categories:
 - CD
-date: '2023-11-29T06:14:39'
+date: '2024-01-26T01:44:58'
 draft: false
 images:
 - "/images/covers/\xE4kth_g\xE1nah\xEBth-crowned_in_shadows.jpg"
 inStock: true
 thumbnailImage: "/images/covers/\xE4kth_g\xE1nah\xEBth-crowned_in_shadows-thumb.jpg"
-title: "\xC4kth G\xE1nah\xEBth - Crowned in Shadows"
+title: "\xC4KTH G\xC1NAH\xCBTH - Crowned in Shadows"
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=15877&sort=pd.name&order=ASC) for $15.00
+* Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/akth-ganaheth-crowned-in-shadows-cd-digipak) for $15.00 :: (digipak)

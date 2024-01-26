@@ -3,8 +3,9 @@ actualPrice: $15.00
 album: Pitiless Black Emphasis
 artist: Revenant Marquis
 categories:
+- Cassette
 - CD
-date: '2021-06-26T15:03:08'
+date: '2024-01-26T01:44:56'
 draft: false
 images:
 - /images/covers/revenant_marquis-pitiless_black_emphasis.jpg
@@ -13,5 +14,7 @@ thumbnailImage: /images/covers/revenant_marquis-pitiless_black_emphasis-thumb.jp
 title: Revenant Marquis - Pitiless Black Emphasis
 ---
 
+## Cassette
+* Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/revenant-marquis-pitiless-black-emphasis-cassette-tape) for $15.00
 ## CD
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/revenant-marquis-pitiless-black-emphasis-cd) for $15.00

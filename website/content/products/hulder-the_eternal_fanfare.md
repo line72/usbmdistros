@@ -6,7 +6,7 @@ categories:
 - Vinyl
 - Cassette
 - CD
-date: '2024-01-13T06:22:10'
+date: '2024-01-26T01:44:23'
 draft: false
 images:
 - /images/covers/hulder-the_eternal_fanfare.jpg
@@ -24,3 +24,4 @@ title: Hulder - The Eternal Fanfare
 * Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/36222694-hulder-the-eternal-fanfare) for $9.50
 ## CD
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/hulder-the-eternal-fanfare-cd) for $15.00 :: CD 2022
+* Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/hulder-the-eternal-fanfare-cd) for $11.99

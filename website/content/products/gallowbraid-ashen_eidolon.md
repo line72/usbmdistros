@@ -1,10 +1,12 @@
 ---
-actualPrice: $35.99
+actualPrice: $14.00 - 35.99
 album: Ashen Eidolon
 artist: Gallowbraid
 categories:
 - Vinyl
-date: '2023-12-17T13:28:54'
+- Cassette
+- CD
+date: '2024-01-26T01:44:19'
 draft: false
 images:
 - /images/covers/gallowbraid-ashen_eidolon.jpg
@@ -15,3 +17,8 @@ title: Gallowbraid - Ashen Eidolon
 
 ## Vinyl
 * Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/gallowbraid-ashen-eidolon-ltd-333-purple-black-deluxe-gatefold-vinyl-lp) for $35.99 :: LTD 333 Purple/Black Deluxe Gatefold VInyl LP
+* Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/gallowbraid-ashen-eidolon-vinyl-lp-color-lim-333-gatefold-poster-sticker) for $35.00 :: (color, lim. 333, gatefold, poster, sticker)
+## Cassette
+* Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/gallowbraid-ashen-eidolon-cassette-tape-lim-66-numbered) for $15.00 :: (lim.66, numbered)
+## CD
+* Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/gallowbraid-ashen-eidolon-cd) for $14.00

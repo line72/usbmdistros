@@ -1,10 +1,10 @@
 ---
-actualPrice: $25.00
+actualPrice: $25.00 - 30.00
 album: Isenheimen
 artist: Evilfeast
 categories:
 - Vinyl
-date: '2023-11-29T06:13:20'
+date: '2024-01-26T01:44:29'
 draft: false
 images:
 - /images/covers/evilfeast-isenheimen.jpg
@@ -15,3 +15,4 @@ title: Evilfeast - Isenheimen
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=42918&sort=pd.name&order=ASC) for $25.00
+* Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/evilfeast-isenheimen-vinyl-lp) for $30.00 :: (w/ insert)

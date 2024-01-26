@@ -1,10 +1,11 @@
 ---
-actualPrice: $11.00
+actualPrice: $10.00 - 11.00
 album: A Grief Observed
 artist: Chrome Waves
 categories:
 - Vinyl
-date: '2023-03-07T14:03:05'
+- Cassette
+date: '2024-01-26T01:44:06'
 draft: false
 images:
 - /images/covers/chrome_waves-a_grief_observed.jpg
@@ -15,3 +16,5 @@ title: Chrome Waves - A Grief Observed
 
 ## Vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/chrome-waves-a-grief-observed-lp) for $11.00 :: Black 1st press vinyl
+## Cassette
+* Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/chrome-waves-a-grief-observed-cassette-tape-1) for $10.00 :: (lim.50)
