@@ -48,8 +48,6 @@ class OutOfSeason(Parser):
         return entries
 
     def parseItem(self, db, entry):
-        print('OutOfSeason: parsing', entry['title'])
-
         try:
             pId = entry['id']
             title = entry['title'].replace('–', '-').replace(chr(8206), '').replace(chr(8220), '"').replace(chr(8221), '"')
