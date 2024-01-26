@@ -55,7 +55,7 @@ class OutOfSeason(Parser):
             title = entry['title'].replace('–', '-').replace(chr(8206), '').replace(chr(8220), '"').replace(chr(8221), '"')
 
             item_type = self.parse_item_type(entry)
-            if item_type is 'Unknown':
+            if item_type == 'Unknown':
                 return None
 
             # Basic template is:
