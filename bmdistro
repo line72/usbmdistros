@@ -23,6 +23,7 @@ def go():
         'meteor-gem': db.get_store(libbmdistro.Store(None, 'Meteor Gem', 'https://meteor-gem.com')),
         'cw-productions': db.get_store(libbmdistro.Store(None, 'CW Productions', 'https://shop.cwproductions.net')),
         'blast-beats-vinyl': db.get_store(libbmdistro.Store(None, "Blast Beats Vinyl", "https://blastbeatsvinyl.com")),
+        'out-of-season': db.get_store(libbmdistro.Store(None, "Out Of Season", "https://www.outofseasonlabel.com/")),
     }
 
     parsers = [
@@ -40,6 +41,7 @@ def go():
         libbmdistro.parsers.MeteorGem(stores['meteor-gem'], 'https://meteor-gem.com/products.json'),
         libbmdistro.parsers.CWProductions(stores['cw-productions'], 'https://shop.cwproductions.net/products.json'),
         libbmdistro.parsers.BlastBeatsVinyl(stores['blast-beats-vinyl'], 'https://blastbeatsvinyl.com/products.json'),
+        libbmdistro.parsers.OutOfSeason(stores['out-of-season'], 'https://www.outofseasonlabel.com/products.json'),
     ]
 
     
