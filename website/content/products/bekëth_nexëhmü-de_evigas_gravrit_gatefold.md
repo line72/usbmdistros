@@ -4,7 +4,7 @@ album: De Evigas Gravrit Gatefold
 artist: "Bek\xEBth Nex\xEBhm\xFC"
 categories:
 - Vinyl
-date: '2022-12-31T06:00:54'
+date: '2024-01-27T06:01:22'
 draft: false
 images:
 - "/images/covers/bek\xEBth_nex\xEBhm\xFC-de_evigas_gravrit_gatefold.jpg"

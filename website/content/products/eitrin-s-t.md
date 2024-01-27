@@ -1,5 +1,5 @@
 ---
-actualPrice: $10.99 - 44.99
+actualPrice: $10.99 - 22.99
 album: S/T
 artist: Eitrin
 categories:
@@ -17,7 +17,6 @@ title: Eitrin - S/T
 
 ## Vinyl
 * Purchase from [Debemur Morti](https://debemurmorti.aisamerch.com/item/141506) for $22.99
-* Purchase from [Debemur Morti](https://debemurmorti.aisamerch.com/item/141507) for $44.99 :: DMP Exclusive
 ## Cassette
 * Purchase from [Debemur Morti](https://debemurmorti.aisamerch.com/item/141504) for $11.99
 ## CD

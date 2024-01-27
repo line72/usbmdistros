@@ -1,10 +1,9 @@
 ---
-actualPrice: $8.99 - 23.99
+actualPrice: $21.99 - 23.99
 album: All Christianity Ends
 artist: Archgoat
 categories:
 - Vinyl
-- CD
 date: '2022-02-25T06:01:05'
 draft: false
 images:
@@ -17,5 +16,3 @@ title: Archgoat - All Christianity Ends
 ## Vinyl
 * Purchase from [Debemur Morti](https://debemurmorti.aisamerch.com/item/106706) for $21.99
 * Purchase from [Debemur Morti](https://debemurmorti.aisamerch.com/item/106725) for $23.99 :: spinner effect
-## CD
-* Purchase from [Debemur Morti](https://debemurmorti.aisamerch.com/item/106724) for $8.99

@@ -4,7 +4,6 @@ album: Pitiless Black Emphasis
 artist: Revenant Marquis
 categories:
 - Cassette
-- CD
 date: '2024-01-26T01:44:56'
 draft: false
 images:
@@ -16,5 +15,3 @@ title: Revenant Marquis - Pitiless Black Emphasis
 
 ## Cassette
 * Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/revenant-marquis-pitiless-black-emphasis-cassette-tape) for $15.00
-## CD
-* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/revenant-marquis-pitiless-black-emphasis-cd) for $15.00

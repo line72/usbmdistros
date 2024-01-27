@@ -1,10 +1,11 @@
 ---
-actualPrice: $15.00
+actualPrice: $15.00 - 25.00
 album: "Lice \u010Dovjeka koji je rekao Ne"
 artist: Arjen
 categories:
+- Vinyl
 - CD
-date: '2023-08-03T05:11:32'
+date: '2024-01-27T06:01:04'
 draft: false
 images:
 - "/images/covers/arjen-lice_\u010Dovjeka_koji_je_rekao_ne.jpg"
@@ -13,5 +14,7 @@ thumbnailImage: "/images/covers/arjen-lice_\u010Dovjeka_koji_je_rekao_ne-thumb.j
 title: "Arjen - Lice \u010Dovjeka koji je rekao Ne"
 ---
 
+## Vinyl
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/arjen-lice-covjeka-koji-je-rekao-ne-12-lp) for $25.00
 ## CD
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/arjen-lice-covjeka-koji-je-rekao-ne-cd) for $15.00

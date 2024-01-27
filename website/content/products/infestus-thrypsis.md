@@ -17,5 +17,4 @@ title: Infestus - Thrypsis
 ## Vinyl
 * Purchase from [Debemur Morti](https://debemurmorti.aisamerch.com/item/68181) for $19.98
 ## CD
-* Purchase from [Debemur Morti](https://debemurmorti.aisamerch.com/item/72289) for $9.99
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/infestus-thrypsis-cd) for $5.00 :: CD 2018
