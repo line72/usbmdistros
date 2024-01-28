@@ -4,7 +4,7 @@ album: Alta Magia
 artist: Tenebrarum
 categories:
 - Vinyl
-date: '2023-11-29T06:14:07'
+date: '2024-01-28T06:15:00'
 draft: false
 images:
 - /images/covers/tenebrarum-alta_magia.png
@@ -14,4 +14,4 @@ title: Tenebrarum - Alta Magia
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=21022&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=46143&sort=pd.name&order=ASC) for $25.00

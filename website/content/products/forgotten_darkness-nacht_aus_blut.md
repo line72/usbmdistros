@@ -1,10 +1,10 @@
 ---
-actualPrice: $8.00
+actualPrice: $6.00
 album: Nacht Aus Blut
 artist: Forgotten Darkness
 categories:
 - CD
-date: '2023-11-29T06:14:55'
+date: '2024-01-28T06:15:49'
 draft: false
 images:
 - /images/covers/forgotten_darkness-nacht_aus_blut.jpg
@@ -14,4 +14,4 @@ title: Forgotten Darkness - Nacht Aus Blut
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=2479&sort=pd.name&order=ASC) for $8.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=46156&sort=pd.name&order=ASC) for $6.00

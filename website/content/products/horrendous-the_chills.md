@@ -4,7 +4,7 @@ album: The Chills
 artist: Horrendous
 categories:
 - CD
-date: '2023-11-29T06:15:03'
+date: '2024-01-28T06:15:57'
 draft: false
 images:
 - /images/covers/horrendous-the_chills.jpg
@@ -14,4 +14,4 @@ title: Horrendous - The Chills
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=5059&sort=pd.name&order=ASC) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=46168&sort=pd.name&order=ASC) for $10.00

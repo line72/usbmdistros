@@ -4,7 +4,7 @@ album: Bosoragazan
 artist: Odz Manouk
 categories:
 - Vinyl
-date: '2024-01-24T06:13:40'
+date: '2024-01-28T06:14:43'
 draft: false
 images:
 - /images/covers/odz_manouk-bosoragazan.jpg
@@ -14,4 +14,4 @@ title: Odz Manouk - Bosoragazan
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=45981&sort=pd.name&order=ASC) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=46099&sort=pd.name&order=ASC) for $30.00
