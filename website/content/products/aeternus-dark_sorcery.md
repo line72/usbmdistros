@@ -4,7 +4,7 @@ album: Dark Sorcery
 artist: Aeternus
 categories:
 - Vinyl
-date: '2024-01-21T06:14:46'
+date: '2024-01-30T06:13:13'
 draft: false
 images:
 - /images/covers/aeternus-dark_sorcery.jpg
@@ -14,4 +14,4 @@ title: Aeternus - Dark Sorcery
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=45824&sort=pd.name&order=ASC) for $27.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=46253&sort=pd.name&order=ASC) for $27.00

@@ -4,7 +4,7 @@ album: A Blaze of Tridents
 artist: Unholy Craft
 categories:
 - Cassette
-date: '2023-05-29T05:01:45'
+date: '2024-01-30T06:01:40'
 draft: false
 images:
 - /images/covers/unholy_craft-a_blaze_of_tridents.jpg
