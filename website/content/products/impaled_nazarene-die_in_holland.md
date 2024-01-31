@@ -4,7 +4,7 @@ album: Die In Holland
 artist: Impaled Nazarene
 categories:
 - Vinyl
-date: '2024-01-30T06:14:44'
+date: '2024-01-31T06:15:12'
 draft: false
 images:
 - /images/covers/impaled_nazarene-die_in_holland.jpg
@@ -14,4 +14,4 @@ title: Impaled Nazarene - Die In Holland
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=46235&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=46331&sort=pd.name&order=ASC) for $20.00
