@@ -15,7 +15,6 @@ title: Samael - Blood Ritual
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=43584&sort=pd.name&order=ASC) for $25.00
 * Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/samael-blood-ritual-ltd-180-blue-marble-vinyl) for $25.00 :: LTD 180 Blue Marble Vinyl
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=43588&sort=pd.name&order=ASC) for $15.00
