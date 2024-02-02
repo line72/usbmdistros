@@ -5,7 +5,7 @@ artist: Venusberg Cardinal
 categories:
 - Vinyl
 - CD
-date: '2024-01-17T06:14:08'
+date: '2024-02-02T06:16:04'
 draft: false
 images:
 - /images/covers/venusberg_cardinal-atlas_of_dungeons.jpg
@@ -15,6 +15,6 @@ title: Venusberg Cardinal - Atlas of Dungeons
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=45561&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=46386&sort=pd.name&order=ASC) for $25.00
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=44824&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=46385&sort=pd.name&order=ASC) for $15.00
