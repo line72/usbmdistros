@@ -1,11 +1,10 @@
 ---
-actualPrice: $12.00 - 25.00
+actualPrice: $25.00
 album: At the Devil's Studio 1990
 artist: Beherit
 categories:
 - Vinyl
-- Cassette
-date: '2024-01-09T06:15:43'
+date: '2024-01-09T06:12:51'
 draft: false
 images:
 - /images/covers/beherit-at_the_devil's_studio_1990.png
@@ -16,5 +15,3 @@ title: Beherit - At the Devil's Studio 1990
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=45046&sort=pd.name&order=ASC) for $25.00
-## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=45047&sort=pd.name&order=ASC) for $12.00

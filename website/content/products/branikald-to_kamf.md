@@ -4,7 +4,7 @@ album: To Kamf
 artist: Branikald
 categories:
 - Vinyl
-date: '2023-12-23T06:01:14'
+date: '2024-02-05T06:01:23'
 draft: false
 images:
 - /images/covers/branikald-to_kamf.jpg
