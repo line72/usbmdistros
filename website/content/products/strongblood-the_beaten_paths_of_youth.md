@@ -4,7 +4,7 @@ album: The Beaten Paths of Youth
 artist: Strongblood
 categories:
 - Vinyl
-date: '2023-11-16T06:30:11'
+date: '2024-02-08T06:01:06'
 draft: false
 images:
 - /images/covers/strongblood-the_beaten_paths_of_youth.jpg

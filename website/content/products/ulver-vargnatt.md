@@ -4,7 +4,7 @@ album: Vargnatt
 artist: Ulver
 categories:
 - Vinyl
-date: '2023-12-15T06:14:14'
+date: '2024-02-08T06:14:19'
 draft: false
 images:
 - /images/covers/ulver-vargnatt.jpg
@@ -14,4 +14,4 @@ title: Ulver - Vargnatt
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=44062&sort=pd.name&order=ASC) for $27.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=46494&sort=pd.name&order=ASC) for $27.00
