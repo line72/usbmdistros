@@ -16,7 +16,6 @@ title: Enslaved - Frost
 
 ## Vinyl
 * Purchase from [Sto'Vo'Kor Records](https://stovokor-records.com/products/enslaved-frost) for $22.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=45520&sort=pd.name&order=ASC) for $25.00
 * Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/enslaved-frost-vinyl-lp) for $33.00 :: (gatefold, color, foil stamp)
 ## CD
 * Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/enslaved-frost-cd) for $14.00
