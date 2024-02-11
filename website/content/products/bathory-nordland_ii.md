@@ -5,7 +5,7 @@ artist: Bathory
 categories:
 - Vinyl
 - Cassette
-date: '2024-01-26T01:44:03'
+date: '2024-02-11T06:15:59'
 draft: false
 images:
 - /images/covers/bathory-nordland_ii.jpg
@@ -15,7 +15,7 @@ title: Bathory - Nordland II
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=46052&sort=pd.name&order=ASC) for $35.00
 * Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/bathory-nordland-ii-vinyl-2xlp-gatefold) for $35.00 :: (gatefold, 180g)
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=46671&sort=pd.name&order=ASC) for $35.00
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=45899&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=46672&sort=pd.name&order=ASC) for $15.00

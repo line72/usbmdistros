@@ -4,7 +4,7 @@ album: Bathory - Yellow Goat
 artist: Bathory
 categories:
 - CD
-date: '2024-01-22T06:15:45'
+date: '2024-02-11T06:14:56'
 draft: false
 images:
 - /images/covers/bathory-bathory_-_yellow_goat.jpg
@@ -14,4 +14,4 @@ title: Bathory - Bathory - Yellow Goat
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=45894&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=46660&sort=pd.name&order=ASC) for $12.00

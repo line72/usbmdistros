@@ -1,10 +1,10 @@
 ---
-actualPrice: $27.00
+actualPrice: $25.00 - 27.00
 album: Black Star Gnosis
 artist: Demoncy
 categories:
 - Vinyl
-date: '2024-02-05T06:23:13'
+date: '2024-02-11T06:13:26'
 draft: false
 images:
 - /images/covers/demoncy-black_star_gnosis.jpg
@@ -15,3 +15,4 @@ title: Demoncy - Black Star Gnosis
 
 ## Vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/demoncy-black-star-gnosis-lp) for $27.00 :: Black 2023 press vinyl
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=46639&sort=pd.name&order=ASC) for $25.00

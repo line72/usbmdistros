@@ -1,10 +1,10 @@
 ---
-actualPrice: $6.00
+actualPrice: $10.00
 album: December
 artist: For Ruin
 categories:
 - CD
-date: '2023-11-29T06:14:55'
+date: '2024-02-11T06:15:11'
 draft: false
 images:
 - /images/covers/for_ruin-december.jpg
@@ -14,4 +14,4 @@ title: For Ruin - December
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=771&sort=pd.name&order=ASC) for $6.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=46597&sort=pd.name&order=ASC) for $10.00

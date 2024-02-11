@@ -4,7 +4,7 @@ album: Ars Satanic Ex Tempus
 artist: Front Beast
 categories:
 - Vinyl
-date: '2023-11-29T06:14:26'
+date: '2024-02-11T06:14:41'
 draft: false
 images:
 - /images/covers/front_beast-ars_satanic_ex_tempus.jpg
@@ -14,4 +14,4 @@ title: Front Beast - Ars Satanic Ex Tempus
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=40738&sort=pd.name&order=ASC) for $8.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=46592&sort=pd.name&order=ASC) for $8.00

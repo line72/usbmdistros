@@ -5,7 +5,7 @@ artist: Sabbat
 categories:
 - Vinyl
 - CD
-date: '2024-01-01T06:14:22'
+date: '2024-02-11T06:14:11'
 draft: false
 images:
 - /images/covers/sabbat-satanasword.jpg
@@ -15,6 +15,6 @@ title: Sabbat - Satanasword
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=44560&sort=pd.name&order=ASC) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=46606&sort=pd.name&order=ASC) for $30.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=39165&sort=pd.name&order=ASC) for $12.00
