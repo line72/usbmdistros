@@ -4,7 +4,7 @@ album: Teufel und Pest
 artist: Mavorim
 categories:
 - Vinyl
-date: '2023-06-15T05:07:55'
+date: '2024-02-12T06:01:22'
 draft: false
 images:
 - /images/covers/mavorim-teufel_und_pest.jpg

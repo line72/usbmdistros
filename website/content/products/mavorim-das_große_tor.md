@@ -4,7 +4,7 @@ album: "Das gro\xDFe Tor"
 artist: Mavorim
 categories:
 - Vinyl
-date: '2023-06-15T05:07:54'
+date: '2024-02-12T06:01:22'
 draft: false
 images:
 - "/images/covers/mavorim-das_gro\xDFe_tor.jpg"

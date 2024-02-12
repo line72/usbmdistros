@@ -4,7 +4,7 @@ album: The Night Our Rituals...
 artist: Ensepulchred
 categories:
 - CD
-date: '2024-02-11T06:15:07'
+date: '2024-02-12T06:16:53'
 draft: false
 images:
 - /images/covers/ensepulchred-the_night_our_rituals....jpg
@@ -14,4 +14,4 @@ title: Ensepulchred - The Night Our Rituals...
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=46595&sort=pd.name&order=ASC) for $8.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=46698&sort=pd.name&order=ASC) for $8.00
