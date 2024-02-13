@@ -4,7 +4,7 @@ album: The Pact
 artist: Negative Plane
 categories:
 - Vinyl
-date: '2024-02-11T06:13:59'
+date: '2024-02-13T06:14:57'
 draft: false
 images:
 - /images/covers/negative_plane-the_pact.jpg
@@ -14,4 +14,4 @@ title: Negative Plane - The Pact
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=46637&sort=pd.name&order=ASC) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=46782&sort=pd.name&order=ASC) for $30.00

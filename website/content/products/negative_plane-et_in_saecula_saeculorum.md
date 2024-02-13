@@ -5,7 +5,7 @@ artist: Negative Plane
 categories:
 - Vinyl
 - CD
-date: '2024-02-11T06:13:59'
+date: '2024-02-13T06:14:57'
 draft: false
 images:
 - /images/covers/negative_plane-et_in_saecula_saeculorum.jpg
@@ -15,6 +15,6 @@ title: Negative Plane - Et In Saecula Saeculorum
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=46635&sort=pd.name&order=ASC) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=46780&sort=pd.name&order=ASC) for $30.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=28155&sort=pd.name&order=ASC) for $15.00
