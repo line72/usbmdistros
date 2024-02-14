@@ -4,7 +4,7 @@ album: Supreme Immortal Art
 artist: Abigor
 categories:
 - CD
-date: '2024-01-17T06:14:32'
+date: '2024-02-14T06:15:35'
 draft: false
 images:
 - /images/covers/abigor-supreme_immortal_art.jpg
@@ -14,4 +14,4 @@ title: Abigor - Supreme Immortal Art
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=45536&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=46805&sort=pd.name&order=ASC) for $15.00

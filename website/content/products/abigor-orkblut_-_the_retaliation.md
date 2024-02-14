@@ -4,7 +4,7 @@ album: Orkblut - The Retaliation
 artist: Abigor
 categories:
 - CD
-date: '2024-01-17T06:14:32'
+date: '2024-02-14T06:15:35'
 draft: false
 images:
 - /images/covers/abigor-orkblut_-_the_retaliation.png
@@ -14,4 +14,4 @@ title: Abigor - Orkblut - The Retaliation
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=45535&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=46804&sort=pd.name&order=ASC) for $15.00

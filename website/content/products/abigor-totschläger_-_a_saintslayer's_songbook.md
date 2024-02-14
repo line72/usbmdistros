@@ -4,7 +4,7 @@ album: "Totschl\xE4ger - A Saintslayer's Songbook"
 artist: Abigor
 categories:
 - Vinyl
-date: '2024-01-26T00:17:20'
+date: '2024-02-14T06:13:52'
 draft: false
 images:
 - "/images/covers/abigor-totschl\xE4ger_-_a_saintslayer's_songbook.png"
@@ -14,4 +14,4 @@ title: "Abigor - Totschl\xE4ger - A Saintslayer's Songbook"
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=46060&sort=pd.name&order=ASC) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=46801&sort=pd.name&order=ASC) for $30.00

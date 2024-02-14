@@ -4,7 +4,7 @@ album: Antikosmos
 artist: Arckanum
 categories:
 - Vinyl
-date: '2023-11-29T06:12:59'
+date: '2024-02-14T06:13:56'
 draft: false
 images:
 - /images/covers/arckanum-antikosmos.jpg
@@ -14,4 +14,4 @@ title: Arckanum - Antikosmos
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=35844&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=46808&sort=pd.name&order=ASC) for $25.00
