@@ -4,7 +4,7 @@ album: Nachzehrer
 artist: Satanic Warmaster
 categories:
 - Vinyl
-date: '2023-12-29T06:13:58'
+date: '2024-02-15T06:15:08'
 draft: false
 images:
 - /images/covers/satanic_warmaster-nachzehrer.png
@@ -14,4 +14,4 @@ title: Satanic Warmaster - Nachzehrer
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=44497&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=46902&sort=pd.name&order=ASC) for $25.00

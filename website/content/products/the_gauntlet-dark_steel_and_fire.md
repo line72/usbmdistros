@@ -1,11 +1,11 @@
 ---
-actualPrice: $12.00
+actualPrice: $12.00 - 25.00
 album: Dark Steel and Fire
 artist: The Gauntlet
 categories:
 - Vinyl
 - CD
-date: '2023-11-29T06:15:33'
+date: '2024-02-15T06:15:16'
 draft: false
 images:
 - /images/covers/the_gauntlet-dark_steel_and_fire.jpg
@@ -16,5 +16,6 @@ title: The Gauntlet - Dark Steel and Fire
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=39631&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=46915&sort=pd.name&order=ASC) for $25.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=39632&sort=pd.name&order=ASC) for $12.00

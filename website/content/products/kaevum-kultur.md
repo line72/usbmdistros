@@ -1,5 +1,5 @@
 ---
-actualPrice: $25.00 - 30.00
+actualPrice: $25.00
 album: Kultur
 artist: Kaevum
 categories:
@@ -14,5 +14,4 @@ title: Kaevum - Kultur
 ---
 
 ## Vinyl
-* Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/kaevum-kultur-12-lp/) for $30.00
 * Purchase from [CW Productions](https://shop.cwproductions.net/products/kaevum-kultur-lp) for $25.00

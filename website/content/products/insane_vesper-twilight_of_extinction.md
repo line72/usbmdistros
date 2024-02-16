@@ -4,7 +4,7 @@ album: Twilight of Extinction
 artist: Insane Vesper
 categories:
 - CD
-date: '2023-11-29T06:15:06'
+date: '2024-02-15T06:16:17'
 draft: false
 images:
 - /images/covers/insane_vesper-twilight_of_extinction.jpg
@@ -14,4 +14,4 @@ title: Insane Vesper - Twilight of Extinction
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=32885&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=46840&sort=pd.name&order=ASC) for $12.00

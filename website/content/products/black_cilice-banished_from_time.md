@@ -5,7 +5,7 @@ artist: Black Cilice
 categories:
 - Vinyl
 - CD
-date: '2024-01-26T01:45:00'
+date: '2024-02-16T06:15:50'
 draft: false
 images:
 - /images/covers/black_cilice-banished_from_time.jpg
@@ -19,3 +19,4 @@ title: Black Cilice - Banished From Time
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=34901&sort=pd.name&order=ASC) for $25.00
 ## CD
 * Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/black-cilice-banished-from-time-cd) for $11.99
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=46954&sort=pd.name&order=ASC) for $12.00

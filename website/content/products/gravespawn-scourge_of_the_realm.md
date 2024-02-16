@@ -4,7 +4,7 @@ album: Scourge of the Realm
 artist: Gravespawn
 categories:
 - CD
-date: '2023-11-29T06:14:58'
+date: '2024-02-15T06:16:11'
 draft: false
 images:
 - /images/covers/gravespawn-scourge_of_the_realm.jpg
@@ -14,4 +14,4 @@ title: Gravespawn - Scourge of the Realm
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=36884&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=46847&sort=pd.name&order=ASC) for $12.00

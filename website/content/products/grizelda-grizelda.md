@@ -5,7 +5,7 @@ artist: Grizelda
 categories:
 - Vinyl
 - CD
-date: '2023-11-29T06:13:26'
+date: '2024-02-15T06:14:32'
 draft: false
 images:
 - /images/covers/grizelda-grizelda.jpg
@@ -16,6 +16,6 @@ title: Grizelda - Grizelda
 
 ## Vinyl
 * Purchase from [CW Productions](https://shop.cwproductions.net/products/grizelda-grizelda-lp) for $22.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=35526&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=46830&sort=pd.name&order=ASC) for $25.00
 ## CD
 * Purchase from [CW Productions](https://shop.cwproductions.net/products/grizelda-grizelda-cd) for $10.00

@@ -1,10 +1,11 @@
 ---
-actualPrice: $30.00
+actualPrice: $15.00 - 30.00
 album: Tales Othertime
 artist: Stormkeep
 categories:
 - Vinyl
-date: '2024-01-03T06:13:37'
+- CD
+date: '2024-02-15T06:16:42'
 draft: false
 images:
 - /images/covers/stormkeep-tales_othertime.jpg
@@ -14,4 +15,6 @@ title: Stormkeep - Tales Othertime
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=44571&sort=pd.name&order=ASC) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=46906&sort=pd.name&order=ASC) for $30.00
+## CD
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=46907&sort=pd.name&order=ASC) for $15.00

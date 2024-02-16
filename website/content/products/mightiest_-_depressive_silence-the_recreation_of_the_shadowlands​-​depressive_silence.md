@@ -4,7 +4,7 @@ album: "The Recreation of the Shadowlands\u200B/\u200BDepressive Silence"
 artist: Mightiest / Depressive Silence
 categories:
 - Vinyl
-date: '2023-11-29T06:13:42'
+date: '2024-02-15T06:14:49'
 draft: false
 images:
 - "/images/covers/mightiest_-_depressive_silence-the_recreation_of_the_shadowlands\u200B\
@@ -17,4 +17,4 @@ title: "Mightiest / Depressive Silence - The Recreation of the Shadowlands\u200B
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=40218&sort=pd.name&order=ASC) for $35.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=46917&sort=pd.name&order=ASC) for $35.00
