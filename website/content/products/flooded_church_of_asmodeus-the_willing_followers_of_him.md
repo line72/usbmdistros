@@ -4,7 +4,7 @@ album: The Willing Followers of Him
 artist: Flooded Church of Asmodeus
 categories:
 - Vinyl
-date: '2023-11-29T06:13:21'
+date: '2024-02-18T06:14:19'
 draft: false
 images:
 - /images/covers/flooded_church_of_asmodeus-the_willing_followers_of_him.jpg
@@ -14,4 +14,4 @@ title: Flooded Church of Asmodeus - The Willing Followers of Him
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=10987&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=47129&sort=pd.name&order=ASC) for $20.00

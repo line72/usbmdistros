@@ -1,10 +1,9 @@
 ---
-actualPrice: $15.00 - 30.00
+actualPrice: $25.00 - 30.00
 album: Carpathian Wolves
 artist: Graveland
 categories:
 - Vinyl
-- CD
 date: '2024-01-16T06:15:19'
 draft: false
 images:
@@ -17,5 +16,3 @@ title: Graveland - Carpathian Wolves
 ## Vinyl
 * Purchase from [CW Productions](https://shop.cwproductions.net/products/graveland-carpathian-wolves-lp) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=45503&sort=pd.name&order=ASC) for $30.00
-## CD
-* Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/graveland-carpathian-wolves-cd/) for $15.00

@@ -1,5 +1,5 @@
 ---
-actualPrice: $25.00 - 30.00
+actualPrice: $25.00
 album: Sigillum Diaboli
 artist: Sigillum Diaboli
 categories:
@@ -14,5 +14,4 @@ title: Sigillum Diaboli - Sigillum Diaboli
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=45149&sort=pd.name&order=ASC) for $30.00
 * Purchase from [CW Productions](https://shop.cwproductions.net/products/sigillum-diaboli-sigillum-diaboli-lp) for $25.00

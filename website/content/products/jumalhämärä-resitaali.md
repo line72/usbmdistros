@@ -1,11 +1,11 @@
 ---
-actualPrice: $12.00 - 17.00
+actualPrice: $12.00 - 20.00
 album: Resitaali
 artist: "Jumalh\xE4m\xE4r\xE4"
 categories:
 - Vinyl
 - CD
-date: '2024-01-29T06:18:07'
+date: '2024-02-18T06:16:09'
 draft: false
 images:
 - "/images/covers/jumalh\xE4m\xE4r\xE4-resitaali.jpg"
@@ -15,6 +15,6 @@ title: "Jumalh\xE4m\xE4r\xE4 - Resitaali"
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=1179&sort=pd.name&order=ASC) for $17.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=47106&sort=pd.name&order=ASC) for $20.00
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=46202&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=47105&sort=pd.name&order=ASC) for $12.00

@@ -1,10 +1,10 @@
 ---
-actualPrice: $22.00 - 25.00
+actualPrice: $25.00
 album: Twilightfall
 artist: Nokturnal Mortum
 categories:
 - Vinyl
-date: '2024-02-02T06:17:41'
+date: '2024-01-23T06:13:58'
 draft: false
 images:
 - /images/covers/nokturnal_mortum-twilightfall.jpg
@@ -15,4 +15,3 @@ title: Nokturnal Mortum - Twilightfall
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=45959&sort=pd.name&order=ASC) for $25.00
-* Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/nokturnal-mortum-twilightfall-12-gatefold-lp-blue-white-swirl/) for $22.00

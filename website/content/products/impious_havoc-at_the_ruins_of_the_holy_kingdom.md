@@ -1,10 +1,11 @@
 ---
-actualPrice: $7.00
+actualPrice: $7.00 - 20.00
 album: At the Ruins of the Holy Kingdom
 artist: Impious Havoc
 categories:
+- Vinyl
 - Cassette
-date: '2023-11-29T06:15:55'
+date: '2024-02-18T06:14:31'
 draft: false
 images:
 - /images/covers/impious_havoc-at_the_ruins_of_the_holy_kingdom.png
@@ -13,5 +14,7 @@ thumbnailImage: /images/covers/impious_havoc-at_the_ruins_of_the_holy_kingdom-th
 title: Impious Havoc - At the Ruins of the Holy Kingdom
 ---
 
+## Vinyl
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=47104&sort=pd.name&order=ASC) for $20.00
 ## Cassette
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=11417&sort=pd.name&order=ASC) for $7.00
