@@ -6,7 +6,7 @@ categories:
 - Vinyl
 - Cassette
 - CD
-date: '2024-01-29T06:17:31'
+date: '2024-02-19T06:15:38'
 draft: false
 images:
 - /images/covers/blood_magic-goetic_blood_spells.jpg
@@ -16,7 +16,7 @@ title: Blood Magic - Goetic Blood Spells
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=46222&sort=pd.name&order=ASC) for $27.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=47303&sort=pd.name&order=ASC) for $27.00
 ## Cassette
 * Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/blood-magic-goetic-blood-spells-cassette-tape-lim-75) for $11.00 :: (lim.75)
 ## CD

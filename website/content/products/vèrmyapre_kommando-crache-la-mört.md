@@ -4,7 +4,7 @@ album: "Crache-la-M\xF6rt"
 artist: "V\xE8rmyapre Kommando"
 categories:
 - Vinyl
-date: '2024-01-24T06:14:04'
+date: '2024-02-19T06:17:20'
 draft: false
 images:
 - "/images/covers/v\xE8rmyapre_kommando-crache-la-m\xF6rt.jpg"
@@ -15,4 +15,4 @@ title: "V\xE8rmyapre Kommando - Crache-la-M\xF6rt"
 
 ## Vinyl
 * Purchase from [Sto'Vo'Kor Records](https://stovokor-records.com/products/vermyapre-kommando-crache-la-mort) for $23.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=45982&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=47302&sort=pd.name&order=ASC) for $25.00

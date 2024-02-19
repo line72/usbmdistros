@@ -4,7 +4,7 @@ album: Stella Polaris
 artist: Goatmoon
 categories:
 - Vinyl
-date: '2023-11-29T06:13:24'
+date: '2024-02-19T06:16:08'
 draft: false
 images:
 - /images/covers/goatmoon-stella_polaris.jpg
@@ -14,4 +14,4 @@ title: Goatmoon - Stella Polaris
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=42251&sort=pd.name&order=ASC) for $75.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=47289&sort=pd.name&order=ASC) for $75.00

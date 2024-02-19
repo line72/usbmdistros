@@ -5,7 +5,7 @@ artist: Azelisassath
 categories:
 - Vinyl
 - CD
-date: '2024-01-26T01:44:43'
+date: '2024-02-19T06:15:32'
 draft: false
 images:
 - /images/covers/azelisassath-total_desecration_of_existence.jpg
@@ -15,7 +15,7 @@ title: Azelisassath - Total Desecration Of Existence
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=45158&sort=pd.name&order=ASC) for $25.00
 * Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/azelisassath-total-desecration-of-existence-vinyl-lp-gatefold) for $24.99 :: (gatefold)
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=47346&sort=pd.name&order=ASC) for $25.00
 ## CD
 * Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/azelisassath-total-desecration-of-existence-cd) for $13.00

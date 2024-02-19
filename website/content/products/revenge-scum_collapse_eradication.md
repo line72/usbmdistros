@@ -4,7 +4,7 @@ album: Scum Collapse Eradication
 artist: Revenge
 categories:
 - Vinyl
-date: '2024-01-03T06:13:27'
+date: '2024-02-19T06:16:56'
 draft: false
 images:
 - /images/covers/revenge-scum_collapse_eradication.jpg
@@ -14,4 +14,4 @@ title: Revenge - Scum Collapse Eradication
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=44579&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=47325&sort=pd.name&order=ASC) for $25.00

@@ -1,10 +1,10 @@
 ---
-actualPrice: $30.00
+actualPrice: $28.00
 album: Culture Preservation
 artist: Wotanorden
 categories:
 - Vinyl
-date: '2023-08-24T16:55:29'
+date: '2024-02-19T06:20:52'
 draft: false
 images:
 - /images/covers/wotanorden-culture_preservation.jpg
@@ -14,4 +14,4 @@ title: Wotanorden - Culture Preservation
 ---
 
 ## Vinyl
-* Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/wotanorden-culture-preservation-12-double-lp/) for $30.00
+* Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/wotanorden-culture-preservation-12-double-lp/) for $28.00

@@ -15,7 +15,6 @@ title: Dark Fury - Slavonic Thunder
 ---
 
 ## Vinyl
-* Purchase from [CW Productions](https://shop.cwproductions.net/products/dark-fury-slavonic-thunder-lp-2) for $22.00
 * Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/dark-fury-slavonic-thunder-12-lp/) for $25.00
 ## CD
 * Purchase from [CW Productions](https://shop.cwproductions.net/products/dark-fury-slavonic-thunder-cd) for $10.00

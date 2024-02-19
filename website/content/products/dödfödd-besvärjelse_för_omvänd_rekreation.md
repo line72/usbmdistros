@@ -14,5 +14,4 @@ title: "D\xF6df\xF6dd - Besv\xE4rjelse F\xF6r Omv\xE4nd Rekreation"
 ---
 
 ## Vinyl
-* Purchase from [CW Productions](https://shop.cwproductions.net/products/dodfodd-besvarjelse-for-omvand-rekreation-lp) for $20.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=35545&sort=pd.name&order=ASC) for $20.00

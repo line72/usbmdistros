@@ -4,7 +4,7 @@ album: Immorten
 artist: Immorten
 categories:
 - Vinyl
-date: '2023-11-29T06:13:32'
+date: '2024-02-19T06:16:17'
 draft: false
 images:
 - /images/covers/immorten-immorten.jpg
@@ -14,4 +14,4 @@ title: Immorten - Immorten
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=42898&sort=pd.name&order=ASC) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=47296&sort=pd.name&order=ASC) for $30.00
