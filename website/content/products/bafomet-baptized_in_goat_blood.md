@@ -4,7 +4,7 @@ album: Baptized in Goat Blood
 artist: Bafomet
 categories:
 - Vinyl
-date: '2024-02-17T06:13:33'
+date: '2024-02-20T06:14:17'
 draft: false
 images:
 - /images/covers/bafomet-baptized_in_goat_blood.jpg
@@ -14,4 +14,4 @@ title: Bafomet - Baptized in Goat Blood
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=46979&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=47435&sort=pd.name&order=ASC) for $25.00
