@@ -6,7 +6,7 @@ categories:
 - Vinyl
 - Cassette
 - CD
-date: '2024-01-26T01:45:00'
+date: '2024-02-21T06:18:30'
 draft: false
 images:
 - /images/covers/beherit-the_oath_of_black_blood.jpg
@@ -19,6 +19,7 @@ title: Beherit - The Oath of Black Blood
 * Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/beherit-the-oath-of-black-blood-vinyl-lp-picture-disc-gatefold) for $24.99 :: (Picture Disc, gatefold, 44pg book)
 ## Cassette
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=45022&sort=pd.name&order=ASC) for $15.00
+* Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/beherit-the-oath-of-black-blood-cassette/) for $15.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=45021&sort=pd.name&order=ASC) for $15.00
 * Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/beherit-the-oath-of-black-blood-cd) for $12.00
