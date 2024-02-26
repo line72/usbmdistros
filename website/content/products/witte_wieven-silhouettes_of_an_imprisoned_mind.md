@@ -4,7 +4,7 @@ album: Silhouettes of an Imprisoned Mind
 artist: Witte Wieven
 categories:
 - Vinyl
-date: '2023-11-29T06:14:18'
+date: '2024-02-25T06:15:53'
 draft: false
 images:
 - /images/covers/witte_wieven-silhouettes_of_an_imprisoned_mind.jpg
@@ -14,4 +14,4 @@ title: Witte Wieven - Silhouettes of an Imprisoned Mind
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=41376&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=47635&sort=pd.name&order=ASC) for $20.00

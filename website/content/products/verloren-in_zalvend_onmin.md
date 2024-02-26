@@ -4,7 +4,7 @@ album: In Zalvend Onmin
 artist: Verloren
 categories:
 - Vinyl
-date: '2023-11-29T06:14:15'
+date: '2024-02-24T06:17:14'
 draft: false
 images:
 - /images/covers/verloren-in_zalvend_onmin.jpg
@@ -14,4 +14,4 @@ title: Verloren - In Zalvend Onmin
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=39426&sort=pd.name&order=ASC) for $17.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=47554&sort=pd.name&order=ASC) for $17.00

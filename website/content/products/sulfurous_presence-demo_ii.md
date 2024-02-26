@@ -1,5 +1,5 @@
 ---
-actualPrice: $10.00 - 28.00
+actualPrice: $12.00 - 28.00
 album: Demo II
 artist: Sulfurous Presence
 categories:
@@ -19,6 +19,5 @@ title: Sulfurous Presence - Demo II
 * Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/sulfurous-presence-demo-ii-vinyl-lp) for $28.00 :: (180g)
 ## Cassette
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=28569&sort=pd.name&order=ASC) for $12.00
-* Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/sulfurous-presence-demo-ii-cassette-tape) for $10.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=23801&sort=pd.name&order=ASC) for $15.00

@@ -4,7 +4,6 @@ album: The Shadow of the Past
 artist: Grimdor
 categories:
 - Vinyl
-- Cassette
 - CD
 date: '2024-01-26T01:44:44'
 draft: false
@@ -17,7 +16,5 @@ title: Grimdor - The Shadow of the Past
 
 ## Vinyl
 * Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/grimdor-the-shadow-of-the-past-vinyl-lp-lim-250) for $23.99 :: (lim.250 w/insert)
-## Cassette
-* Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/grimdor-the-shadow-of-the-past-cassette-tape) for $10.00
 ## CD
 * Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/grimdor-the-shadow-of-the-past-cd) for $9.99

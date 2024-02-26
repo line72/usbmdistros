@@ -1,10 +1,9 @@
 ---
-actualPrice: $12.99 - 30.00
+actualPrice: $15.00 - 30.00
 album: Tales Of Othertime
 artist: Stormkeep
 categories:
 - Vinyl
-- Cassette
 - CD
 date: '2024-01-26T01:44:53'
 draft: false
@@ -17,8 +16,6 @@ title: Stormkeep - Tales Of Othertime
 
 ## Vinyl
 * Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/stormkeep-tales-of-othertime-vinyl-lp-color) for $30.00 :: (color, repress)
-## Cassette
-* Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/stormkeep-tales-of-othertime-cassette-tape) for $12.99
 ## CD
 * Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/stormkeep-tales-of-othertime-cd-jewel-case) for $15.00 :: (jewel case)
 * Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/stormkeep-tales-of-othertime-2xcd-digipak) for $24.00 :: (digipak w/ deluxe diecut foil slipcase)

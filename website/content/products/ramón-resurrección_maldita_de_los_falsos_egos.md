@@ -4,7 +4,7 @@ album: "Resurrecci\xF3n Maldita de Los Falsos Egos"
 artist: "Ram\xF3n"
 categories:
 - Vinyl
-date: '2023-11-29T06:13:55'
+date: '2024-02-25T06:15:28'
 draft: false
 images:
 - "/images/covers/ram\xF3n-resurrecci\xF3n_maldita_de_los_falsos_egos.jpg"
@@ -14,4 +14,4 @@ title: "Ram\xF3n - Resurrecci\xF3n Maldita de Los Falsos Egos"
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=22820&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=47621&sort=pd.name&order=ASC) for $25.00

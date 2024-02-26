@@ -4,7 +4,7 @@ album: Two Carrion Talismans
 artist: Valdrin
 categories:
 - Vinyl
-date: '2024-02-21T06:22:50'
+date: '2023-11-29T06:14:13'
 draft: false
 images:
 - /images/covers/valdrin-two_carrion_talismans.jpg
@@ -15,4 +15,3 @@ title: Valdrin - Two Carrion Talismans
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=9311&sort=pd.name&order=ASC) for $22.00
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/valdrin-two-carrion-talismans-lp) for $22.00 :: Black 2018 press vinyl

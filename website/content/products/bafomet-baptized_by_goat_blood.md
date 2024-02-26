@@ -4,7 +4,7 @@ album: Baptized by Goat Blood
 artist: Bafomet
 categories:
 - CD
-date: '2024-01-15T06:32:37'
+date: '2024-02-26T06:17:27'
 draft: false
 images:
 - /images/covers/bafomet-baptized_by_goat_blood.jpg
@@ -14,4 +14,4 @@ title: Bafomet - Baptized by Goat Blood
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=45366&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=47661&sort=pd.name&order=ASC) for $12.00

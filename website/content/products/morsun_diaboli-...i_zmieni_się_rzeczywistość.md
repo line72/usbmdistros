@@ -15,5 +15,4 @@ title: "Morsun Diaboli - ...I Zmieni Si\u0119 Rzeczywisto\u015B\u0107"
 ---
 
 ## Vinyl
-* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/morsun-diaboli-i-zmieni-sie-rzeczywistosc-12-lp) for $25.00
 * Purchase from [CW Productions](https://shop.cwproductions.net/products/morsun-diaboli-i-zmieni-sie-rzeczywistosc-lp) for $25.00

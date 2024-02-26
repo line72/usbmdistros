@@ -4,7 +4,6 @@ album: A Dark Forgotten Past
 artist: Eldamar
 categories:
 - Vinyl
-- Cassette
 - CD
 date: '2024-01-26T01:44:42'
 draft: false
@@ -17,7 +16,5 @@ title: Eldamar - A Dark Forgotten Past
 
 ## Vinyl
 * Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/eldamar-a-dark-forgotten-past-vinyl-lp-color-lim-199) for $25.00 :: (color, lim. 199)
-## Cassette
-* Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/eldamar-a-dark-forgotten-past-cassette-tape-lim-66-numbered) for $15.00 :: (lim.66, numbered)
 ## CD
 * Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/eldamar-a-dark-forgotten-past-cd) for $14.00

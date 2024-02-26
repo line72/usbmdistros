@@ -4,9 +4,8 @@ album: The Force Of The Ancient Land
 artist: Eldamar
 categories:
 - Vinyl
-- Cassette
 - CD
-date: '2024-01-26T01:44:22'
+date: '2024-01-26T01:44:13'
 draft: false
 images:
 - /images/covers/eldamar-the_force_of_the_ancient_land.png
@@ -17,7 +16,5 @@ title: Eldamar - The Force Of The Ancient Land
 
 ## Vinyl
 * Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/eldamar-the-force-of-the-ancient-land-vinyl-lp-color) for $35.00 :: (double LP gatefold, color, lim. 199)
-## Cassette
-* Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/eldamar-the-force-of-the-ancient-land-cassette-tape-lim-66-numbered) for $15.00 :: (lim.66, numbered)
 ## CD
 * Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/eldamar-the-force-of-the-ancient-land-cd) for $14.00

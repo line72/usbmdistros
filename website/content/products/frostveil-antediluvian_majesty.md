@@ -1,10 +1,9 @@
 ---
-actualPrice: $8.50 - 25.00
+actualPrice: $13.00 - 25.00
 album: Antediluvian Majesty
 artist: Frostveil
 categories:
 - Vinyl
-- Cassette
 - CD
 date: '2024-01-26T01:44:53'
 draft: false
@@ -17,7 +16,5 @@ title: Frostveil - Antediluvian Majesty
 
 ## Vinyl
 * Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/frostveil-antediluvian-majesty-vinyl-lp) for $25.00 :: (180g, w/ insert, 2 bonus tracks)
-## Cassette
-* Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/frostveil-antediluvian-majesty-pro-tape) for $8.50
 ## CD
 * Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/frostveil-antediluvian-majesty-cd) for $13.00 :: (lim.300)

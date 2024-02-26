@@ -1,11 +1,10 @@
 ---
-actualPrice: $10.00 - 25.00
+actualPrice: $25.00
 album: Wanderings
 artist: I Shalt Become
 categories:
 - Vinyl
-- Cassette
-date: '2024-01-26T01:44:06'
+date: '2023-11-29T06:13:31'
 draft: false
 images:
 - /images/covers/i_shalt_become-wanderings.jpg
@@ -16,5 +15,3 @@ title: I Shalt Become - Wanderings
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=35882&sort=pd.name&order=ASC) for $25.00
-## Cassette
-* Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/i-shalt-become-wanderings-cassette-tape) for $10.00

@@ -1,10 +1,9 @@
 ---
-actualPrice: $12.00 - 33.00
+actualPrice: $14.00 - 33.00
 album: The Everlorn
 artist: Sinira
 categories:
 - Vinyl
-- Cassette
 - CD
 date: '2024-01-26T01:44:44'
 draft: false
@@ -17,7 +16,5 @@ title: Sinira - The Everlorn
 
 ## Vinyl
 * Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/sinira-the-everlorn-vinyl-2xlp-color-lim-333) for $33.00 :: (color, lim. 333)
-## Cassette
-* Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/sinira-the-everlorn-cassette-tape-lim-100-w-poster-stickers) for $12.00 :: (Lim. 100 w/ poster + stickers)
 ## CD
 * Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/sinira-the-everlorn-cd) for $14.00 :: [Digipak]

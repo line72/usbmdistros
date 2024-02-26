@@ -1,10 +1,9 @@
 ---
-actualPrice: $10.00 - 26.00
+actualPrice: $10.99 - 26.00
 album: Medieval Journeys
 artist: Gothmog
 categories:
 - Vinyl
-- Cassette
 - CD
 date: '2024-01-26T01:44:59'
 draft: false
@@ -20,8 +19,6 @@ title: Gothmog - Medieval Journeys
 * Purchase from [CW Productions](https://shop.cwproductions.net/products/gothmog-medieval-journeys-lp) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=45089&sort=pd.name&order=ASC) for $25.00
 * Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/gothmog-medieval-journeys-vinyl-lp-color-w-insert) for $25.00 :: (color w/insert)
-## Cassette
-* Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/gothmog-medieval-journeys-cassette-tape) for $10.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=25387&sort=pd.name&order=ASC) for $15.00
 * Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/gothmog-medieval-journeys-cd-lim-300) for $10.99 :: (Lim. 300)
