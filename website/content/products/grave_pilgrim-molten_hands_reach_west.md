@@ -1,10 +1,10 @@
 ---
-actualPrice: $30.00
+actualPrice: $30.00 - 35.00
 album: Molten Hands Reach West
 artist: Grave Pilgrim
 categories:
 - Vinyl
-date: '2024-01-26T01:44:10'
+date: '2024-02-27T06:22:43'
 draft: false
 images:
 - /images/covers/grave_pilgrim-molten_hands_reach_west.jpg
@@ -15,3 +15,4 @@ title: Grave Pilgrim - Molten Hands Reach West
 
 ## Vinyl
 * Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/grave-pilgrim-molten-hands-reach-west-vinyl-lp-color-w-insert-lim-218) for $30.00 :: (color, w/ insert, lim.218)
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/grave-pilgrim-molten-hands-reach-west-lp) for $35.00 :: Black 2022 press vinyl
