@@ -1,10 +1,10 @@
 ---
-actualPrice: $10.00
+actualPrice: $8.00
 album: Zerezat
 artist: Wodulf
 categories:
 - CD
-date: '2023-12-17T13:21:00'
+date: '2024-02-28T06:18:42'
 draft: false
 images:
 - /images/covers/wodulf-zerezat.jpg
@@ -14,4 +14,4 @@ title: Wodulf - Zerezat
 ---
 
 ## CD
-* Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/wodulf-zerezat-mcd/) for $10.00
+* Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/wodulf-zerezat-mcd/) for $8.00

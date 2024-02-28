@@ -6,7 +6,7 @@ categories:
 - Vinyl
 - Cassette
 - CD
-date: '2023-12-17T13:21:02'
+date: '2024-02-28T06:18:43'
 draft: false
 images:
 - /images/covers/wodulf-from_the_corpsegates.jpg
@@ -20,4 +20,4 @@ title: Wodulf - From the Corpsegates
 ## Cassette
 * Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/wodulf-from-the-corpsegates-cassette/) for $9.00
 ## CD
-* Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/wodulf-from-the-corpsegates-cd/) for $12.00
+* Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/wodulf-from-the-corpsegates-cd/) for $10.00

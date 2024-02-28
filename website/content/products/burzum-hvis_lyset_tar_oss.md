@@ -15,6 +15,6 @@ title: Burzum - Hvis Lyset Tar Oss
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=47600&sort=pd.name&order=ASC) for $27.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=38101&sort=pd.name&order=ASC) for $27.00
 ## Cassette
 * Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/burzum-hvis-lyset-tar-oss-cassette/) for $14.00

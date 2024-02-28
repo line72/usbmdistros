@@ -4,7 +4,7 @@ album: Starmourner
 artist: GHOST BATH
 categories:
 - Vinyl
-date: '2024-01-26T01:44:10'
+date: '2024-02-28T06:26:28'
 draft: false
 images:
 - /images/covers/ghost_bath-starmourner.jpg
@@ -15,3 +15,4 @@ title: GHOST BATH - Starmourner
 
 ## Vinyl
 * Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/ghost-bath-starmourner-vinyl-2xlp-deluxe-color-gatefold-poster-sticker-2-inserts) for $29.99 :: (color, gatefold, poster, sticker, 2 inserts)
+* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/ghost-bath-starmourner-eu-version-2lp-silver-vinyl-dlp) for $29.99 :: *EU Version* 2LP Silver Vinyl DLP
