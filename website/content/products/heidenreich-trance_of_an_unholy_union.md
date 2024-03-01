@@ -1,10 +1,10 @@
 ---
-actualPrice: $28.00
+actualPrice: $22.40
 album: Trance Of An Unholy Union
 artist: Heidenreich
 categories:
 - Vinyl
-date: '2023-11-29T06:13:27'
+date: '2024-03-01T06:15:24'
 draft: false
 images:
 - /images/covers/heidenreich-trance_of_an_unholy_union.jpg
@@ -14,4 +14,4 @@ title: Heidenreich - Trance Of An Unholy Union
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=28491&sort=pd.name&order=ASC) for $28.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=28491&sort=pd.name&order=ASC) for $22.40

@@ -1,10 +1,10 @@
 ---
-actualPrice: $27.00
+actualPrice: $21.60
 album: Demo I
 artist: Collier D'Ombre
 categories:
 - Vinyl
-date: '2023-12-15T06:13:14'
+date: '2024-03-01T06:15:06'
 draft: false
 images:
 - /images/covers/collier_d'ombre-demo_i.png
@@ -14,4 +14,4 @@ title: Collier D'Ombre - Demo I
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=44061&sort=pd.name&order=ASC) for $27.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=44061&sort=pd.name&order=ASC) for $21.60

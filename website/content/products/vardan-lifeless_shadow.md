@@ -1,10 +1,10 @@
 ---
-actualPrice: $25.00
+actualPrice: $20.00
 album: Lifeless Shadow
 artist: Vardan
 categories:
 - Vinyl
-date: '2023-11-29T06:14:13'
+date: '2024-03-01T06:16:10'
 draft: false
 images:
 - /images/covers/vardan-lifeless_shadow.jpg
@@ -14,4 +14,4 @@ title: Vardan - Lifeless Shadow
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=35879&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=35879&sort=pd.name&order=ASC) for $20.00

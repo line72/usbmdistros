@@ -1,10 +1,10 @@
 ---
-actualPrice: $6.00
+actualPrice: $4.80
 album: Procession of an Old Religion
 artist: Deus Ignotus
 categories:
 - Cassette
-date: '2023-11-29T06:15:49'
+date: '2024-03-01T06:17:47'
 draft: false
 images:
 - /images/covers/deus_ignotus-procession_of_an_old_religion.png
@@ -14,4 +14,4 @@ title: Deus Ignotus - Procession of an Old Religion
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=601&sort=pd.name&order=ASC) for $6.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=601&sort=pd.name&order=ASC) for $4.80

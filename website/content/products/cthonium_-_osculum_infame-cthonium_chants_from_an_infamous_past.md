@@ -1,10 +1,10 @@
 ---
-actualPrice: $10.00
+actualPrice: $8.00
 album: Cthonium Chants From An Infamous Past
 artist: Cthonium / Osculum Infame
 categories:
 - CD
-date: '2023-11-29T06:14:47'
+date: '2024-03-01T06:16:46'
 draft: false
 images:
 - /images/covers/cthonium_-_osculum_infame-cthonium_chants_from_an_infamous_past.png
@@ -14,4 +14,4 @@ title: Cthonium / Osculum Infame - Cthonium Chants From An Infamous Past
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=16589&sort=pd.name&order=ASC) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=16589&sort=pd.name&order=ASC) for $8.00

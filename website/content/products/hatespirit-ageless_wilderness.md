@@ -1,10 +1,10 @@
 ---
-actualPrice: $20.00
+actualPrice: $16.00
 album: Ageless Wilderness
 artist: Hatespirit
 categories:
 - Vinyl
-date: '2023-11-29T06:13:27'
+date: '2024-03-01T06:15:24'
 draft: false
 images:
 - /images/covers/hatespirit-ageless_wilderness.jpg
@@ -14,4 +14,4 @@ title: Hatespirit - Ageless Wilderness
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=32869&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=32869&sort=pd.name&order=ASC) for $16.00

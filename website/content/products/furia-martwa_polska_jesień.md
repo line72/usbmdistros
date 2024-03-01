@@ -1,10 +1,10 @@
 ---
-actualPrice: $25.00
+actualPrice: $20.00
 album: "Martwa Polska Jesie\u0144"
 artist: Furia
 categories:
 - Vinyl
-date: '2023-11-29T06:13:22'
+date: '2024-03-01T06:15:18'
 draft: false
 images:
 - "/images/covers/furia-martwa_polska_jesie\u0144.jpg"
@@ -14,4 +14,4 @@ title: "Furia - Martwa Polska Jesie\u0144"
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=31996&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=31996&sort=pd.name&order=ASC) for $20.00

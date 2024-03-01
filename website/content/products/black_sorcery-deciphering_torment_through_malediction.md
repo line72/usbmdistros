@@ -1,10 +1,10 @@
 ---
-actualPrice: $25.00
+actualPrice: $20.00
 album: Deciphering Torment Through Malediction
 artist: Black Sorcery
 categories:
 - Vinyl
-date: '2023-11-29T06:13:05'
+date: '2024-03-01T06:15:00'
 draft: false
 images:
 - /images/covers/black_sorcery-deciphering_torment_through_malediction.jpg
@@ -14,4 +14,4 @@ title: Black Sorcery - Deciphering Torment Through Malediction
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=39740&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=39740&sort=pd.name&order=ASC) for $20.00

@@ -1,10 +1,10 @@
 ---
-actualPrice: $6.00
+actualPrice: $4.80
 album: Odium Humani Generis
 artist: Weltschmerz
 categories:
 - CD
-date: '2023-11-29T06:15:39'
+date: '2024-03-01T06:17:36'
 draft: false
 images:
 - /images/covers/weltschmerz-odium_humani_generis.png
@@ -14,4 +14,4 @@ title: Weltschmerz - Odium Humani Generis
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=811&sort=pd.name&order=ASC) for $6.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=811&sort=pd.name&order=ASC) for $4.80

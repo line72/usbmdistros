@@ -1,10 +1,10 @@
 ---
-actualPrice: $15.00
+actualPrice: $12.00
 album: K'aahz Menoh
 artist: Pyreficativm
 categories:
 - CD
-date: '2023-11-29T06:15:23'
+date: '2024-03-01T06:17:21'
 draft: false
 images:
 - /images/covers/pyreficativm-k'aahz_menoh.jpg
@@ -14,4 +14,4 @@ title: Pyreficativm - K'aahz Menoh
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=43834&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=43834&sort=pd.name&order=ASC) for $12.00

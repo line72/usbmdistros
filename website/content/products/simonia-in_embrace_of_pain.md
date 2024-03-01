@@ -1,10 +1,10 @@
 ---
-actualPrice: $4.00
+actualPrice: $3.20
 album: In Embrace of Pain
 artist: Simonia
 categories:
 - Cassette
-date: '2023-11-29T06:16:08'
+date: '2024-03-01T06:18:05'
 draft: false
 images:
 - /images/covers/simonia-in_embrace_of_pain.png
@@ -14,4 +14,4 @@ title: Simonia - In Embrace of Pain
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=1116&sort=pd.name&order=ASC) for $4.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=1116&sort=pd.name&order=ASC) for $3.20

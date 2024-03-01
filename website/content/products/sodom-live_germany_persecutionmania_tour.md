@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00
+actualPrice: $9.60
 album: Live Germany Persecutionmania Tour
 artist: Sodom
 categories:
 - CD
-date: '2023-12-17T06:15:48'
+date: '2024-03-01T06:17:27'
 draft: false
 images:
 - /images/covers/sodom-live_germany_persecutionmania_tour.jpg
@@ -14,4 +14,4 @@ title: Sodom - Live Germany Persecutionmania Tour
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=44197&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=44197&sort=pd.name&order=ASC) for $9.60

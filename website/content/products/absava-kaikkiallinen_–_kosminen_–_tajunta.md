@@ -1,10 +1,10 @@
 ---
-actualPrice: $25.00
+actualPrice: $20.00
 album: "Kaikkiallinen \u2013 Kosminen \u2013 Tajunta"
 artist: Absava
 categories:
 - Vinyl
-date: '2023-11-29T06:12:55'
+date: '2024-03-01T06:14:50'
 draft: false
 images:
 - "/images/covers/absava-kaikkiallinen_\u2013_kosminen_\u2013_tajunta.jpg"
@@ -14,4 +14,4 @@ title: "Absava - Kaikkiallinen \u2013 Kosminen \u2013 Tajunta"
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=21587&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=21587&sort=pd.name&order=ASC) for $20.00

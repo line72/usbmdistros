@@ -1,10 +1,10 @@
 ---
-actualPrice: $75.00
+actualPrice: $60.00
 album: Ashes
 artist: Mayhem
 categories:
 - Vinyl
-date: '2024-02-19T06:17:38'
+date: '2024-03-01T06:16:27'
 draft: false
 images:
 - /images/covers/mayhem-ashes.jpg
@@ -14,4 +14,4 @@ title: Mayhem - Ashes
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=47213&sort=pd.name&order=ASC) for $75.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=47213&sort=pd.name&order=ASC) for $60.00

@@ -1,10 +1,10 @@
 ---
-actualPrice: $25.00
+actualPrice: $20.00
 album: Wolf's Lair Abyss + Ancient Skin/Necrolust EP
 artist: Mayhem
 categories:
 - Vinyl
-date: '2024-01-21T06:15:31'
+date: '2024-03-01T06:15:37'
 draft: false
 images:
 - /images/covers/mayhem-wolf's_lair_abyss_+_ancient_skin-necrolust_ep.jpg
@@ -14,4 +14,4 @@ title: Mayhem - Wolf's Lair Abyss + Ancient Skin/Necrolust EP
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=45819&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=45819&sort=pd.name&order=ASC) for $20.00

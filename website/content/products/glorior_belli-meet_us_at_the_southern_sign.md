@@ -1,10 +1,10 @@
 ---
-actualPrice: $10.00
+actualPrice: $8.00
 album: Meet Us at the Southern Sign
 artist: Glorior Belli
 categories:
 - Vinyl
-date: '2023-11-29T06:13:24'
+date: '2024-03-01T06:15:19'
 draft: false
 images:
 - /images/covers/glorior_belli-meet_us_at_the_southern_sign.jpg
@@ -14,4 +14,4 @@ title: Glorior Belli - Meet Us at the Southern Sign
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=41565&sort=pd.name&order=ASC) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=41565&sort=pd.name&order=ASC) for $8.00

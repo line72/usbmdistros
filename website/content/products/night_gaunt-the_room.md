@@ -1,10 +1,10 @@
 ---
-actualPrice: $25.00
+actualPrice: $20.00
 album: The Room
 artist: Night Gaunt
 categories:
 - Vinyl
-date: '2023-11-29T06:13:48'
+date: '2024-03-01T06:15:44'
 draft: false
 images:
 - /images/covers/night_gaunt-the_room.jpg
@@ -14,4 +14,4 @@ title: Night Gaunt - The Room
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=27131&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=27131&sort=pd.name&order=ASC) for $20.00

@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00
+actualPrice: $9.60
 album: Sanguinem Nebula
 artist: "N\xF6zaakr"
 categories:
 - Cassette
-date: '2023-11-29T06:16:03'
+date: '2024-03-01T06:18:00'
 draft: false
 images:
 - "/images/covers/n\xF6zaakr-sanguinem_nebula.jpg"
@@ -14,4 +14,4 @@ title: "N\xF6zaakr - Sanguinem Nebula"
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=18917&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=18917&sort=pd.name&order=ASC) for $9.60

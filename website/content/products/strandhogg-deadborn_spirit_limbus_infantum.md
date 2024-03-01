@@ -1,10 +1,10 @@
 ---
-actualPrice: $7.00
+actualPrice: $5.60
 album: Deadborn Spirit Limbus Infantum
 artist: Strandhogg
 categories:
 - Vinyl
-date: '2023-11-29T06:14:35'
+date: '2024-03-01T06:16:31'
 draft: false
 images:
 - /images/covers/strandhogg-deadborn_spirit_limbus_infantum.jpg
@@ -14,4 +14,4 @@ title: Strandhogg - Deadborn Spirit Limbus Infantum
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=769&sort=pd.name&order=ASC) for $7.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=769&sort=pd.name&order=ASC) for $5.60

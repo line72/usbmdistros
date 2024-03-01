@@ -1,10 +1,10 @@
 ---
-actualPrice: $6.00
+actualPrice: $4.80
 album: Into the Chasm of Tartarus
 artist: Sarvari
 categories:
 - Cassette
-date: '2023-11-29T06:16:07'
+date: '2024-03-01T06:18:04'
 draft: false
 images:
 - /images/covers/sarvari-into_the_chasm_of_tartarus.jpg
@@ -14,4 +14,4 @@ title: Sarvari - Into the Chasm of Tartarus
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=2024&sort=pd.name&order=ASC) for $6.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=2024&sort=pd.name&order=ASC) for $4.80

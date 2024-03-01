@@ -1,10 +1,10 @@
 ---
-actualPrice: $25.00
+actualPrice: $20.00
 album: De Ware Hond
 artist: Lugubrum
 categories:
 - Vinyl
-date: '2024-01-17T06:13:32'
+date: '2024-03-01T06:15:34'
 draft: false
 images:
 - /images/covers/lugubrum-de_ware_hond.jpg
@@ -14,4 +14,4 @@ title: Lugubrum - De Ware Hond
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=45582&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=47811&sort=pd.name&order=ASC) for $20.00

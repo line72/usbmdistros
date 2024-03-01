@@ -1,10 +1,10 @@
 ---
-actualPrice: $22.00
+actualPrice: $17.60
 album: "Natt av Tusen D\xF6dsfall"
 artist: Sorgetid
 categories:
 - Vinyl
-date: '2023-11-29T06:14:04'
+date: '2024-03-01T06:16:00'
 draft: false
 images:
 - "/images/covers/sorgetid-natt_av_tusen_d\xF6dsfall.jpg"
@@ -14,4 +14,4 @@ title: "Sorgetid - Natt av Tusen D\xF6dsfall"
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=32762&sort=pd.name&order=ASC) for $22.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=32762&sort=pd.name&order=ASC) for $17.60

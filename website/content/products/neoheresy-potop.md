@@ -1,10 +1,10 @@
 ---
-actualPrice: $6.00
+actualPrice: $4.80
 album: Potop
 artist: Neoheresy
 categories:
 - CD
-date: '2024-01-29T06:18:19'
+date: '2024-03-01T06:17:15'
 draft: false
 images:
 - /images/covers/neoheresy-potop.jpg
@@ -14,4 +14,4 @@ title: Neoheresy - Potop
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=46187&sort=pd.name&order=ASC) for $6.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=46187&sort=pd.name&order=ASC) for $4.80

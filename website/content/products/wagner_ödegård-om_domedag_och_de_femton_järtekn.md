@@ -1,10 +1,10 @@
 ---
-actualPrice: $15.00
+actualPrice: $12.00
 album: "Om Domedag Och De Femton J\xE4rtekn"
 artist: "Wagner \xD6deg\xE5rd"
 categories:
 - CD
-date: '2023-11-29T06:15:38'
+date: '2024-03-01T06:17:36'
 draft: false
 images:
 - "/images/covers/wagner_\xF6deg\xE5rd-om_domedag_och_de_femton_j\xE4rtekn.jpg"
@@ -15,4 +15,4 @@ title: "Wagner \xD6deg\xE5rd - Om Domedag Och De Femton J\xE4rtekn"
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=31526&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=31526&sort=pd.name&order=ASC) for $12.00

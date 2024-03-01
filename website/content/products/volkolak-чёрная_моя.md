@@ -1,10 +1,10 @@
 ---
-actualPrice: $10.00
+actualPrice: $8.00
 album: "\u0427\u0451\u0440\u043D\u0430\u044F \u041C\u043E\u044F"
 artist: Volkolak
 categories:
 - CD
-date: '2023-11-29T06:15:38'
+date: '2024-03-01T06:17:34'
 draft: false
 images:
 - "/images/covers/volkolak-\u0447\u0451\u0440\u043D\u0430\u044F_\u043C\u043E\u044F\
@@ -16,4 +16,4 @@ title: "Volkolak - \u0427\u0451\u0440\u043D\u0430\u044F \u041C\u043E\u044F"
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=17828&sort=pd.name&order=ASC) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=17828&sort=pd.name&order=ASC) for $8.00

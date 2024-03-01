@@ -1,10 +1,10 @@
 ---
-actualPrice: $29.00 - 30.00
+actualPrice: $24.00 - 29.00
 album: Demo IV
 artist: Carved Cross
 categories:
 - Vinyl
-date: '2024-02-18T06:14:07'
+date: '2024-03-01T06:15:05'
 draft: false
 images:
 - /images/covers/carved_cross-demo_iv.jpg
@@ -15,4 +15,4 @@ title: Carved Cross - Demo IV
 
 ## Vinyl
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/carved-cross-demo-iv-12-lp) for $29.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=47124&sort=pd.name&order=ASC) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=47124&sort=pd.name&order=ASC) for $24.00

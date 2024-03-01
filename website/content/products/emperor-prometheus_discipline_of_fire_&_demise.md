@@ -1,10 +1,10 @@
 ---
-actualPrice: $30.00
+actualPrice: $24.00
 album: PROMETHEUS DISCIPLINE OF FIRE & DEMISE
 artist: Emperor
 categories:
 - Vinyl
-date: '2024-02-19T06:16:01'
+date: '2024-03-01T06:15:14'
 draft: false
 images:
 - /images/covers/emperor-prometheus_discipline_of_fire_&_demise.jpg
@@ -14,4 +14,4 @@ title: Emperor - PROMETHEUS DISCIPLINE OF FIRE & DEMISE
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=47420&sort=pd.name&order=ASC) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=47420&sort=pd.name&order=ASC) for $24.00

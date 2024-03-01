@@ -1,11 +1,11 @@
 ---
-actualPrice: $15.00 - 25.00
+actualPrice: $12.00 - 20.00
 album: Deathlust
 artist: "H\xE4sslig"
 categories:
 - Vinyl
 - Cassette
-date: '2023-11-29T06:15:54'
+date: '2024-03-01T06:17:52'
 draft: false
 images:
 - "/images/covers/h\xE4sslig-deathlust.jpg"
@@ -15,6 +15,6 @@ title: "H\xE4sslig - Deathlust"
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=33995&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=33995&sort=pd.name&order=ASC) for $20.00
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=33996&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=33996&sort=pd.name&order=ASC) for $12.00

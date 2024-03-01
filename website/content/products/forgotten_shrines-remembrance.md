@@ -1,10 +1,10 @@
 ---
-actualPrice: $28.00
+actualPrice: $22.40
 album: Remembrance
 artist: Forgotten Shrines
 categories:
 - Vinyl
-date: '2023-11-29T06:13:21'
+date: '2024-03-01T06:15:17'
 draft: false
 images:
 - /images/covers/forgotten_shrines-remembrance.jpg
@@ -14,4 +14,4 @@ title: Forgotten Shrines - Remembrance
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=22840&sort=pd.name&order=ASC) for $28.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=22840&sort=pd.name&order=ASC) for $22.40

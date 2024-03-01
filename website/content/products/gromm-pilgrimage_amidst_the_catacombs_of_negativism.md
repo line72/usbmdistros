@@ -1,10 +1,10 @@
 ---
-actualPrice: $6.00
+actualPrice: $4.80
 album: Pilgrimage Amidst the Catacombs of Negativism
 artist: Gromm
 categories:
 - CD
-date: '2023-11-29T06:14:58'
+date: '2024-03-01T06:16:57'
 draft: false
 images:
 - /images/covers/gromm-pilgrimage_amidst_the_catacombs_of_negativism.jpg
@@ -14,4 +14,4 @@ title: Gromm - Pilgrimage Amidst the Catacombs of Negativism
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=751&sort=pd.name&order=ASC) for $6.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=751&sort=pd.name&order=ASC) for $4.80

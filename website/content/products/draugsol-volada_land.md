@@ -1,10 +1,10 @@
 ---
-actualPrice: $15.00
+actualPrice: $12.00
 album: Volada Land
 artist: Draugsol
 categories:
 - Vinyl
-date: '2023-11-29T06:13:17'
+date: '2024-03-01T06:15:13'
 draft: false
 images:
 - /images/covers/draugsol-volada_land.jpg
@@ -14,4 +14,4 @@ title: Draugsol - Volada Land
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=40950&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=40950&sort=pd.name&order=ASC) for $12.00

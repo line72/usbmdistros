@@ -1,12 +1,12 @@
 ---
-actualPrice: $10.00 - 25.00
+actualPrice: $8.00 - 20.00
 album: Explosions
 artist: Phenocryst
 categories:
 - Vinyl
 - Cassette
 - CD
-date: '2023-11-29T06:16:05'
+date: '2024-03-01T06:18:01'
 draft: false
 images:
 - /images/covers/phenocryst-explosions.jpg
@@ -16,9 +16,9 @@ title: Phenocryst - Explosions
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=24006&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=24006&sort=pd.name&order=ASC) for $20.00
 ## Cassette
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/phenocryst-explosions-cassette-1) for $10.00 :: Cassette Tape 1st press
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=19810&sort=pd.name&order=ASC) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=19810&sort=pd.name&order=ASC) for $8.00
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=22983&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=22983&sort=pd.name&order=ASC) for $12.00

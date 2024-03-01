@@ -1,10 +1,10 @@
 ---
-actualPrice: $8.00
+actualPrice: $6.40
 album: Revelation
 artist: Malhkebre
 categories:
 - CD
-date: '2023-11-29T06:15:10'
+date: '2024-03-01T06:17:08'
 draft: false
 images:
 - /images/covers/malhkebre-revelation.jpg
@@ -14,4 +14,4 @@ title: Malhkebre - Revelation
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=1915&sort=pd.name&order=ASC) for $8.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=1915&sort=pd.name&order=ASC) for $6.40

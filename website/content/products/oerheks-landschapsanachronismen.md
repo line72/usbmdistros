@@ -1,10 +1,10 @@
 ---
-actualPrice: $25.00
+actualPrice: $20.00
 album: Landschapsanachronismen
 artist: Oerheks
 categories:
 - Vinyl
-date: '2023-11-29T06:13:50'
+date: '2024-03-01T06:15:47'
 draft: false
 images:
 - /images/covers/oerheks-landschapsanachronismen.jpg
@@ -14,4 +14,4 @@ title: Oerheks - Landschapsanachronismen
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=42935&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=42935&sort=pd.name&order=ASC) for $20.00

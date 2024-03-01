@@ -1,11 +1,11 @@
 ---
-actualPrice: $10.00 - 12.00
+actualPrice: $8.00 - 9.60
 album: Teufel
 artist: Erupted Evil
 categories:
 - Cassette
 - CD
-date: '2023-11-29T06:15:50'
+date: '2024-03-01T06:17:48'
 draft: false
 images:
 - /images/covers/erupted_evil-teufel.jpg
@@ -15,6 +15,6 @@ title: Erupted Evil - Teufel
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=22401&sort=pd.name&order=ASC) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=22401&sort=pd.name&order=ASC) for $8.00
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=22379&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=22379&sort=pd.name&order=ASC) for $9.60

@@ -1,10 +1,10 @@
 ---
-actualPrice: $5.50 - 8.00
+actualPrice: $5.50 - 6.40
 album: Balkarnin
 artist: Ayyur
 categories:
 - Cassette
-date: '2023-11-29T06:15:44'
+date: '2024-03-01T06:17:41'
 draft: false
 images:
 - /images/covers/ayyur-balkarnin.jpg
@@ -14,5 +14,5 @@ title: Ayyur - Balkarnin
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=9885&sort=pd.name&order=ASC) for $8.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=9885&sort=pd.name&order=ASC) for $6.40
 * Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/30563155-ayyur-balkarnin) for $5.50

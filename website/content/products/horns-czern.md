@@ -1,10 +1,10 @@
 ---
-actualPrice: $20.00
+actualPrice: $16.00
 album: Czern
 artist: Horns
 categories:
 - Vinyl
-date: '2024-02-11T06:13:42'
+date: '2024-03-01T06:15:26'
 draft: false
 images:
 - /images/covers/horns-czern.jpg
@@ -14,4 +14,4 @@ title: Horns - Czern
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=46586&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=46586&sort=pd.name&order=ASC) for $16.00

@@ -1,10 +1,10 @@
 ---
-actualPrice: $8.00
+actualPrice: $6.40
 album: Lifeless Forms
 artist: Extermination Temple
 categories:
 - Vinyl
-date: '2023-11-29T06:14:25'
+date: '2024-03-01T06:16:23'
 draft: false
 images:
 - /images/covers/extermination_temple-lifeless_forms.jpg
@@ -14,4 +14,4 @@ title: Extermination Temple - Lifeless Forms
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=5119&sort=pd.name&order=ASC) for $8.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=5119&sort=pd.name&order=ASC) for $6.40

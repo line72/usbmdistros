@@ -1,10 +1,10 @@
 ---
-actualPrice: $25.00 - 30.00
+actualPrice: $16.25 - 19.50
 album: "Xaos Tenawas \u2013 Demo MMXXIII"
 artist: Nuclearhammer
 categories:
 - Vinyl
-date: '2024-01-08T06:14:49'
+date: '2024-03-01T06:15:45'
 draft: false
 images:
 - "/images/covers/nuclearhammer-xaos_tenawas_\u2013_demo_mmxxiii.jpg"
@@ -14,5 +14,5 @@ title: "Nuclearhammer - Xaos Tenawas \u2013 Demo MMXXIII"
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=44252&sort=pd.name&order=ASC) for $30.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=44994&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=44252&sort=pd.name&order=ASC) for $19.50
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=44994&sort=pd.name&order=ASC) for $16.25

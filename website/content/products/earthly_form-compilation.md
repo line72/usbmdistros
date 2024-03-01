@@ -1,10 +1,10 @@
 ---
-actualPrice: $33.00
+actualPrice: $26.40
 album: Compilation
 artist: Earthly Form
 categories:
 - Vinyl
-date: '2023-11-29T06:14:25'
+date: '2024-03-01T06:16:22'
 draft: false
 images:
 - /images/covers/earthly_form-compilation.jpg
@@ -14,4 +14,4 @@ title: Earthly Form - Compilation
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=39787&sort=pd.name&order=ASC) for $33.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=39787&sort=pd.name&order=ASC) for $26.40

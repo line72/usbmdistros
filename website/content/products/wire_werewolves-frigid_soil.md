@@ -1,10 +1,10 @@
 ---
-actualPrice: $5.00
+actualPrice: $4.00
 album: Frigid Soil
 artist: Wire Werewolves
 categories:
 - Vinyl
-date: '2023-11-29T06:14:37'
+date: '2024-03-01T06:16:33'
 draft: false
 images:
 - /images/covers/wire_werewolves-frigid_soil.jpg
@@ -14,4 +14,4 @@ title: Wire Werewolves - Frigid Soil
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=14997&sort=pd.name&order=ASC) for $5.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=14997&sort=pd.name&order=ASC) for $4.00

@@ -1,10 +1,10 @@
 ---
-actualPrice: $25.00
+actualPrice: $20.00
 album: Ecliptic Butchery
 artist: Scorched
 categories:
 - Vinyl
-date: '2023-11-29T06:14:01'
+date: '2024-03-01T06:15:57'
 draft: false
 images:
 - /images/covers/scorched-ecliptic_butchery.jpg
@@ -14,4 +14,4 @@ title: Scorched - Ecliptic Butchery
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=43484&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=43484&sort=pd.name&order=ASC) for $20.00

@@ -1,10 +1,10 @@
 ---
-actualPrice: $3.00
+actualPrice: $2.40
 album: Inferno Metal
 artist: Devils
 categories:
 - CD
-date: '2024-01-18T06:15:24'
+date: '2024-03-01T06:16:48'
 draft: false
 images:
 - /images/covers/devils-inferno_metal.jpg
@@ -14,4 +14,4 @@ title: Devils - Inferno Metal
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=45607&sort=pd.name&order=ASC) for $3.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=45607&sort=pd.name&order=ASC) for $2.40

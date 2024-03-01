@@ -1,10 +1,10 @@
 ---
-actualPrice: $8.00
+actualPrice: $6.40
 album: Barbarian Supremacy
 artist: Funeral Forest
 categories:
 - Cassette
-date: '2023-11-29T06:15:52'
+date: '2024-03-01T06:17:51'
 draft: false
 images:
 - /images/covers/funeral_forest-barbarian_supremacy.jpg
@@ -14,4 +14,4 @@ title: Funeral Forest - Barbarian Supremacy
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=41220&sort=pd.name&order=ASC) for $8.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=41220&sort=pd.name&order=ASC) for $6.40

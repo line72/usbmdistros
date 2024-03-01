@@ -1,10 +1,10 @@
 ---
-actualPrice: $25.00
+actualPrice: $20.00
 album: Vordr
 artist: Vordr
 categories:
 - Vinyl
-date: '2023-11-29T06:14:16'
+date: '2024-03-01T06:16:12'
 draft: false
 images:
 - /images/covers/vordr-vordr.jpg
@@ -14,4 +14,4 @@ title: Vordr - Vordr
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=41389&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=41389&sort=pd.name&order=ASC) for $20.00

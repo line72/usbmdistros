@@ -1,10 +1,10 @@
 ---
-actualPrice: $25.00
+actualPrice: $20.00
 album: Vigilia
 artist: Cosmic Church
 categories:
 - Vinyl
-date: '2024-02-03T06:13:55'
+date: '2024-03-01T06:15:07'
 draft: false
 images:
 - /images/covers/cosmic_church-vigilia.jpg
@@ -14,4 +14,4 @@ title: Cosmic Church - Vigilia
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=46411&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=47827&sort=pd.name&order=ASC) for $20.00

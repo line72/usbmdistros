@@ -1,10 +1,10 @@
 ---
-actualPrice: $30.00
+actualPrice: $19.50
 album: In the Shadow of Doom
 artist: Faustcoven
 categories:
 - Vinyl
-date: '2023-11-29T06:13:20'
+date: '2024-03-01T06:15:16'
 draft: false
 images:
 - /images/covers/faustcoven-in_the_shadow_of_doom.jpg
@@ -14,4 +14,4 @@ title: Faustcoven - In the Shadow of Doom
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=19877&sort=pd.name&order=ASC) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=19877&sort=pd.name&order=ASC) for $19.50

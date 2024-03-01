@@ -1,10 +1,10 @@
 ---
-actualPrice: $35.00
+actualPrice: $22.75
 album: Diario de Guerra
 artist: Holocausto
 categories:
 - Vinyl
-date: '2023-11-29T06:13:28'
+date: '2024-03-01T06:15:26'
 draft: false
 images:
 - /images/covers/holocausto-diario_de_guerra.jpg
@@ -14,4 +14,4 @@ title: Holocausto - Diario de Guerra
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=11279&sort=pd.name&order=ASC) for $35.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=11279&sort=pd.name&order=ASC) for $22.75

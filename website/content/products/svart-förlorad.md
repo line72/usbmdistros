@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00
+actualPrice: $9.60
 album: "F\xF6rlorad"
 artist: Svart
 categories:
 - CD
-date: '2023-11-29T06:15:31'
+date: '2024-03-01T06:17:29'
 draft: false
 images:
 - "/images/covers/svart-f\xF6rlorad.jpg"
@@ -14,4 +14,4 @@ title: "Svart - F\xF6rlorad"
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=33121&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=33121&sort=pd.name&order=ASC) for $9.60

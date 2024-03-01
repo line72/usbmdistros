@@ -1,10 +1,10 @@
 ---
-actualPrice: $10.00
+actualPrice: $8.00
 album: Sadist
 artist: Gravdal
 categories:
 - CD
-date: '2024-02-18T06:16:01'
+date: '2024-03-01T06:16:56'
 draft: false
 images:
 - /images/covers/gravdal-sadist.jpg
@@ -14,4 +14,4 @@ title: Gravdal - Sadist
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=47090&sort=pd.name&order=ASC) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=47090&sort=pd.name&order=ASC) for $8.00

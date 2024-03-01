@@ -1,10 +1,10 @@
 ---
-actualPrice: $60.00
+actualPrice: $48.00
 album: NWOBHM (New Wave Of Black Heavy Metal)
 artist: Darkthrone
 categories:
 - Vinyl
-date: '2024-02-19T06:17:31'
+date: '2024-03-01T06:16:21'
 draft: false
 images:
 - /images/covers/darkthrone-nwobhm_(new_wave_of_black_heavy_metal).jpg
@@ -14,4 +14,4 @@ title: Darkthrone - NWOBHM (New Wave Of Black Heavy Metal)
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=47286&sort=pd.name&order=ASC) for $60.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=47286&sort=pd.name&order=ASC) for $48.00

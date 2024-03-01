@@ -1,10 +1,10 @@
 ---
-actualPrice: $30.00
+actualPrice: $24.00
 album: I Nattens Sken
 artist: Trolldom
 categories:
 - Vinyl
-date: '2023-11-29T06:14:11'
+date: '2024-03-01T06:16:07'
 draft: false
 images:
 - /images/covers/trolldom-i_nattens_sken.jpg
@@ -14,4 +14,4 @@ title: Trolldom - I Nattens Sken
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=42084&sort=pd.name&order=ASC) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=42084&sort=pd.name&order=ASC) for $24.00

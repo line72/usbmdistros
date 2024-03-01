@@ -1,10 +1,10 @@
 ---
-actualPrice: $30.00
+actualPrice: $24.00
 album: Warhead
 artist: Venom
 categories:
 - Vinyl
-date: '2024-02-19T06:17:20'
+date: '2024-03-01T06:16:10'
 draft: false
 images:
 - /images/covers/venom-warhead.jpg
@@ -14,4 +14,4 @@ title: Venom - Warhead
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=47198&sort=pd.name&order=ASC) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=47198&sort=pd.name&order=ASC) for $24.00

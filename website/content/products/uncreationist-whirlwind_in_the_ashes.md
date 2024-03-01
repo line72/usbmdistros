@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00
+actualPrice: $9.60
 album: Whirlwind in the Ashes
 artist: Uncreationist
 categories:
 - CD
-date: '2023-11-29T06:15:35'
+date: '2024-03-01T06:17:32'
 draft: false
 images:
 - /images/covers/uncreationist-whirlwind_in_the_ashes.jpg
@@ -14,4 +14,4 @@ title: Uncreationist - Whirlwind in the Ashes
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=24573&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=24573&sort=pd.name&order=ASC) for $9.60

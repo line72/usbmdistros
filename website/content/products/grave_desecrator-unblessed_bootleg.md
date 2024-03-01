@@ -1,10 +1,10 @@
 ---
-actualPrice: $20.00
+actualPrice: $16.00
 album: Unblessed Bootleg
 artist: Grave Desecrator
 categories:
 - Vinyl
-date: '2023-11-29T06:13:25'
+date: '2024-03-01T06:15:22'
 draft: false
 images:
 - /images/covers/grave_desecrator-unblessed_bootleg.jpg
@@ -14,4 +14,4 @@ title: Grave Desecrator - Unblessed Bootleg
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=40796&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=40796&sort=pd.name&order=ASC) for $16.00

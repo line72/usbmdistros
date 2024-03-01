@@ -1,10 +1,10 @@
 ---
-actualPrice: $20.00
+actualPrice: $16.00
 album: Demons Of The Night
 artist: Demoniac
 categories:
 - Vinyl
-date: '2023-11-29T06:14:24'
+date: '2024-03-01T06:16:22'
 draft: false
 images:
 - /images/covers/demoniac-demons_of_the_night.jpg
@@ -14,4 +14,4 @@ title: Demoniac - Demons Of The Night
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=38511&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=38511&sort=pd.name&order=ASC) for $16.00

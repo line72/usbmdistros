@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00
+actualPrice: $9.60
 album: "Lu\u010Dan - Antikrist"
 artist: Maniac Butcher
 categories:
 - CD
-date: '2024-02-29T06:16:34'
+date: '2024-03-01T06:17:08'
 draft: false
 images:
 - "/images/covers/maniac_butcher-lu\u010Dan_-_antikrist.jpg"
@@ -14,4 +14,4 @@ title: "Maniac Butcher - Lu\u010Dan - Antikrist"
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=47704&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=47704&sort=pd.name&order=ASC) for $9.60

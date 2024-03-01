@@ -1,10 +1,10 @@
 ---
-actualPrice: $15.00
+actualPrice: $12.00
 album: Rime Of The Perpetual Stygian Battery
 artist: Gevaudans Gauntlet
 categories:
 - Cassette
-date: '2024-01-30T06:16:09'
+date: '2024-03-01T06:17:51'
 draft: false
 images:
 - /images/covers/gevaudans_gauntlet-rime_of_the_perpetual_stygian_battery.jpg
@@ -14,4 +14,4 @@ title: Gevaudans Gauntlet - Rime Of The Perpetual Stygian Battery
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=46262&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=46262&sort=pd.name&order=ASC) for $12.00

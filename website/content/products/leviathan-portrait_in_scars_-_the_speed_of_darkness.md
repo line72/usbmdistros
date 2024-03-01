@@ -1,10 +1,10 @@
 ---
-actualPrice: $30.00
+actualPrice: $24.00
 album: Portrait in Scars / The Speed of Darkness
 artist: Leviathan
 categories:
 - Vinyl
-date: '2024-02-18T06:14:36'
+date: '2024-03-01T06:15:32'
 draft: false
 images:
 - /images/covers/leviathan-portrait_in_scars_-_the_speed_of_darkness.jpg
@@ -14,4 +14,4 @@ title: Leviathan - Portrait in Scars / The Speed of Darkness
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=47110&sort=pd.name&order=ASC) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=47763&sort=pd.name&order=ASC) for $24.00

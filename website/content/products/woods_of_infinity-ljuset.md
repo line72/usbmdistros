@@ -1,10 +1,10 @@
 ---
-actualPrice: $35.00
+actualPrice: $28.00
 album: Ljuset
 artist: Woods of Infinity
 categories:
 - Vinyl
-date: '2023-11-29T06:14:19'
+date: '2024-03-01T06:16:16'
 draft: false
 images:
 - /images/covers/woods_of_infinity-ljuset.jpg
@@ -14,4 +14,4 @@ title: Woods of Infinity - Ljuset
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=33474&sort=pd.name&order=ASC) for $35.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=33474&sort=pd.name&order=ASC) for $28.00

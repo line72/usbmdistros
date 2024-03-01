@@ -1,10 +1,10 @@
 ---
-actualPrice: $10.00
+actualPrice: $6.50
 album: Perversion Warfare
 artist: Trench Warfare
 categories:
 - Cassette
-date: '2024-02-26T06:19:10'
+date: '2024-03-01T06:18:08'
 draft: false
 images:
 - /images/covers/trench_warfare-perversion_warfare.jpg
@@ -14,4 +14,4 @@ title: Trench Warfare - Perversion Warfare
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=47639&sort=pd.name&order=ASC) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=47836&sort=pd.name&order=ASC) for $6.50

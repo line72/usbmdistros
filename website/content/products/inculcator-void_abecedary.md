@@ -1,10 +1,10 @@
 ---
-actualPrice: $8.00
+actualPrice: $6.40
 album: Void Abecedary
 artist: Inculcator
 categories:
 - Cassette
-date: '2023-11-29T06:15:55'
+date: '2024-03-01T06:17:54'
 draft: false
 images:
 - /images/covers/inculcator-void_abecedary.png
@@ -14,4 +14,4 @@ title: Inculcator - Void Abecedary
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=11418&sort=pd.name&order=ASC) for $8.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=11418&sort=pd.name&order=ASC) for $6.40

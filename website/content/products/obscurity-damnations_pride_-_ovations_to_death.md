@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00
+actualPrice: $9.60
 album: Damnations Pride / Ovations to Death
 artist: Obscurity
 categories:
 - CD
-date: '2023-11-29T06:15:19'
+date: '2024-03-01T06:17:17'
 draft: false
 images:
 - /images/covers/obscurity-damnations_pride_-_ovations_to_death.png
@@ -14,4 +14,4 @@ title: Obscurity - Damnations Pride / Ovations to Death
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=42671&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=42671&sort=pd.name&order=ASC) for $9.60

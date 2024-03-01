@@ -1,10 +1,10 @@
 ---
-actualPrice: $10.00
+actualPrice: $8.00
 album: Black Coffin Rites
 artist: Nettlecarrier
 categories:
 - Cassette
-date: '2023-11-29T06:16:03'
+date: '2024-03-01T06:17:59'
 draft: false
 images:
 - /images/covers/nettlecarrier-black_coffin_rites.png
@@ -14,4 +14,4 @@ title: Nettlecarrier - Black Coffin Rites
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=14597&sort=pd.name&order=ASC) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=14597&sort=pd.name&order=ASC) for $8.00

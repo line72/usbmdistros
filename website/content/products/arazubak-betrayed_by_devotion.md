@@ -1,10 +1,10 @@
 ---
-actualPrice: $13.00
+actualPrice: $10.40
 album: Betrayed by Devotion
 artist: Arazubak
 categories:
 - Cassette
-date: '2023-11-29T06:15:43'
+date: '2024-03-01T06:17:40'
 draft: false
 images:
 - /images/covers/arazubak-betrayed_by_devotion.jpg
@@ -14,4 +14,4 @@ title: Arazubak - Betrayed by Devotion
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=31116&sort=pd.name&order=ASC) for $13.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=31116&sort=pd.name&order=ASC) for $10.40

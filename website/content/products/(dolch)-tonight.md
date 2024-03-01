@@ -1,10 +1,10 @@
 ---
-actualPrice: $20.00
+actualPrice: $16.00
 album: Tonight
 artist: (DOLCH)
 categories:
 - Vinyl
-date: '2024-01-11T06:12:59'
+date: '2024-03-01T06:14:50'
 draft: false
 images:
 - /images/covers/(dolch)-tonight.jpg
@@ -14,4 +14,4 @@ title: (DOLCH) - Tonight
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=45115&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=45115&sort=pd.name&order=ASC) for $16.00

@@ -1,10 +1,10 @@
 ---
-actualPrice: $25.00
+actualPrice: $20.00
 album: Nox et Hiems
 artist: Angrenost
 categories:
 - Vinyl
-date: '2023-11-29T06:12:58'
+date: '2024-03-01T06:14:53'
 draft: false
 images:
 - /images/covers/angrenost-nox_et_hiems.jpg
@@ -14,4 +14,4 @@ title: Angrenost - Nox et Hiems
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=40783&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=40783&sort=pd.name&order=ASC) for $20.00

@@ -1,10 +1,10 @@
 ---
-actualPrice: $25.00
+actualPrice: $20.00
 album: Odium
 artist: Mahr
 categories:
 - Vinyl
-date: '2024-01-25T06:13:51'
+date: '2024-03-01T06:15:35'
 draft: false
 images:
 - /images/covers/mahr-odium.jpg
@@ -14,4 +14,4 @@ title: Mahr - Odium
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=46019&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=46019&sort=pd.name&order=ASC) for $20.00

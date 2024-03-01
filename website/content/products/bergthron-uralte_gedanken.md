@@ -1,10 +1,10 @@
 ---
-actualPrice: $27.00
+actualPrice: $21.60
 album: Uralte Gedanken
 artist: Bergthron
 categories:
 - Vinyl
-date: '2024-01-26T00:17:28'
+date: '2024-03-01T06:14:59'
 draft: false
 images:
 - /images/covers/bergthron-uralte_gedanken.jpg
@@ -14,4 +14,4 @@ title: Bergthron - Uralte Gedanken
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=46027&sort=pd.name&order=ASC) for $27.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=46027&sort=pd.name&order=ASC) for $21.60

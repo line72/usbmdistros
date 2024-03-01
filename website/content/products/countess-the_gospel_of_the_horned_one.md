@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00
+actualPrice: $9.60
 album: The Gospel of the Horned One
 artist: Countess
 categories:
 - CD
-date: '2023-11-29T06:14:47'
+date: '2024-03-01T06:16:44'
 draft: false
 images:
 - /images/covers/countess-the_gospel_of_the_horned_one.jpg
@@ -14,4 +14,4 @@ title: Countess - The Gospel of the Horned One
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=41577&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=41577&sort=pd.name&order=ASC) for $9.60

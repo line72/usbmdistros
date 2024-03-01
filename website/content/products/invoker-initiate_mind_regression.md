@@ -1,10 +1,10 @@
 ---
-actualPrice: $6.00
+actualPrice: $4.80
 album: Initiate Mind Regression
 artist: Invoker
 categories:
 - Cassette
-date: '2023-11-29T06:15:56'
+date: '2024-03-01T06:17:54'
 draft: false
 images:
 - /images/covers/invoker-initiate_mind_regression.png
@@ -14,4 +14,4 @@ title: Invoker - Initiate Mind Regression
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=11432&sort=pd.name&order=ASC) for $6.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=11432&sort=pd.name&order=ASC) for $4.80

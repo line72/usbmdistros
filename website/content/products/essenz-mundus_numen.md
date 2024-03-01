@@ -1,10 +1,10 @@
 ---
-actualPrice: $15.00
+actualPrice: $12.00
 album: Mundus Numen
 artist: Essenz
 categories:
 - Vinyl
-date: '2023-11-29T06:13:19'
+date: '2024-03-01T06:15:15'
 draft: false
 images:
 - /images/covers/essenz-mundus_numen.jpg
@@ -14,4 +14,4 @@ title: Essenz - Mundus Numen
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=39291&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=39291&sort=pd.name&order=ASC) for $12.00

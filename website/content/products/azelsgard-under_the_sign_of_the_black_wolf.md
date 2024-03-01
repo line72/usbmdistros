@@ -5,7 +5,7 @@ artist: Azelsgard
 categories:
 - Vinyl
 - CD
-date: '2024-02-18T06:14:00'
+date: '2024-03-01T06:14:58'
 draft: false
 images:
 - /images/covers/azelsgard-under_the_sign_of_the_black_wolf.jpg
@@ -16,6 +16,6 @@ title: Azelsgard - Under the Sign of the Black Wolf
 
 ## Vinyl
 * Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/azelsgard-under-the-sign-of-the-black-wolf-12-lp/) for $25.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=47118&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=47118&sort=pd.name&order=ASC) for $20.00
 ## CD
 * Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/azelsgard-under-the-sign-of-the-black-wolf-cd/) for $13.00

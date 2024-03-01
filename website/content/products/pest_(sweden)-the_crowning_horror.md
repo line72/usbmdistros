@@ -1,10 +1,10 @@
 ---
-actualPrice: $20.00
+actualPrice: $16.00
 album: The Crowning Horror
 artist: Pest (Sweden)
 categories:
 - Vinyl
-date: '2024-02-25T06:15:26'
+date: '2024-03-01T06:15:50'
 draft: false
 images:
 - /images/covers/pest_(sweden)-the_crowning_horror.jpg
@@ -14,4 +14,4 @@ title: Pest (Sweden) - The Crowning Horror
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=47620&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=47620&sort=pd.name&order=ASC) for $16.00

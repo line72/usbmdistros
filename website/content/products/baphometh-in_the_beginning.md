@@ -1,10 +1,10 @@
 ---
-actualPrice: $10.00
+actualPrice: $8.00
 album: In the Beginning
 artist: Baphometh
 categories:
 - CD
-date: '2023-11-29T06:14:42'
+date: '2024-03-01T06:16:39'
 draft: false
 images:
 - /images/covers/baphometh-in_the_beginning.jpg
@@ -14,4 +14,4 @@ title: Baphometh - In the Beginning
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=41556&sort=pd.name&order=ASC) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=41556&sort=pd.name&order=ASC) for $8.00

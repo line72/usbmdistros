@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00
+actualPrice: $9.60
 album: Hellrduk
 artist: Isgherurd Mortht
 categories:
 - CD
-date: '2024-02-11T06:15:21'
+date: '2024-03-01T06:17:03'
 draft: false
 images:
 - /images/covers/isgherurd_mortht-hellrduk.jpg
@@ -14,4 +14,4 @@ title: Isgherurd Mortht - Hellrduk
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=46553&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=46553&sort=pd.name&order=ASC) for $9.60

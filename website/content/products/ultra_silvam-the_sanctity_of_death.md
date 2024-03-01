@@ -1,12 +1,12 @@
 ---
-actualPrice: $15.00 - 25.00
+actualPrice: $12.00 - 20.00
 album: The Sanctity of Death
 artist: Ultra Silvam
 categories:
 - Vinyl
 - Cassette
 - CD
-date: '2023-11-29T06:16:12'
+date: '2024-03-01T06:18:09'
 draft: false
 images:
 - /images/covers/ultra_silvam-the_sanctity_of_death.jpg
@@ -16,8 +16,8 @@ title: Ultra Silvam - The Sanctity of Death
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=28450&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=28450&sort=pd.name&order=ASC) for $20.00
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=28746&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=28746&sort=pd.name&order=ASC) for $12.00
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=28659&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=28659&sort=pd.name&order=ASC) for $12.00

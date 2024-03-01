@@ -1,10 +1,10 @@
 ---
-actualPrice: $25.00
+actualPrice: $20.00
 album: Winterstones
 artist: Lugubrum
 categories:
 - Vinyl
-date: '2024-01-17T06:13:33'
+date: '2024-03-01T06:15:34'
 draft: false
 images:
 - /images/covers/lugubrum-winterstones.jpg
@@ -14,4 +14,4 @@ title: Lugubrum - Winterstones
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=45587&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=47816&sort=pd.name&order=ASC) for $20.00

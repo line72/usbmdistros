@@ -1,10 +1,10 @@
 ---
-actualPrice: $15.00
+actualPrice: $12.00
 album: Ostendit Quam Nihil Sumus
 artist: Absolutus
 categories:
 - CD
-date: '2023-11-29T06:14:38'
+date: '2024-03-01T06:16:34'
 draft: false
 images:
 - /images/covers/absolutus-ostendit_quam_nihil_sumus.jpg
@@ -14,4 +14,4 @@ title: Absolutus - Ostendit Quam Nihil Sumus
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=32865&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=32865&sort=pd.name&order=ASC) for $12.00

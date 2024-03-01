@@ -1,11 +1,11 @@
 ---
-actualPrice: $10.00 - 27.00
+actualPrice: $8.00 - 21.60
 album: Moonlight Act III
 artist: Christ Agony
 categories:
 - Vinyl
 - CD
-date: '2023-11-29T06:14:46'
+date: '2024-03-01T06:16:43'
 draft: false
 images:
 - /images/covers/christ_agony-moonlight_act_iii.jpg
@@ -15,6 +15,6 @@ title: Christ Agony - Moonlight Act III
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=39865&sort=pd.name&order=ASC) for $27.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=39865&sort=pd.name&order=ASC) for $21.60
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=41572&sort=pd.name&order=ASC) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=41572&sort=pd.name&order=ASC) for $8.00

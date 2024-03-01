@@ -1,11 +1,11 @@
 ---
-actualPrice: $15.00 - 25.00
+actualPrice: $12.00 - 20.00
 album: Diabolical Omen Of Hell
 artist: Lord Mortvm
 categories:
 - Vinyl
 - CD
-date: '2023-11-29T06:15:09'
+date: '2024-03-01T06:17:07'
 draft: false
 images:
 - /images/covers/lord_mortvm-diabolical_omen_of_hell.jpg
@@ -15,6 +15,6 @@ title: Lord Mortvm - Diabolical Omen Of Hell
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=28440&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=28440&sort=pd.name&order=ASC) for $20.00
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=18867&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=18867&sort=pd.name&order=ASC) for $12.00

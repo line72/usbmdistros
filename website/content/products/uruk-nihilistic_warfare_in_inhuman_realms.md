@@ -1,10 +1,10 @@
 ---
-actualPrice: $8.00
+actualPrice: $6.40
 album: Nihilistic Warfare in Inhuman Realms
 artist: Uruk
 categories:
 - Cassette
-date: '2023-11-29T06:16:13'
+date: '2024-03-01T06:18:09'
 draft: false
 images:
 - /images/covers/uruk-nihilistic_warfare_in_inhuman_realms.png
@@ -14,4 +14,4 @@ title: Uruk - Nihilistic Warfare in Inhuman Realms
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=17375&sort=pd.name&order=ASC) for $8.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=17375&sort=pd.name&order=ASC) for $6.40

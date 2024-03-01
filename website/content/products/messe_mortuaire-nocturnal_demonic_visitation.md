@@ -1,10 +1,10 @@
 ---
-actualPrice: $25.00
+actualPrice: $20.00
 album: Nocturnal Demonic Visitation
 artist: Messe Mortuaire
 categories:
 - Vinyl
-date: '2023-11-29T06:13:42'
+date: '2024-03-01T06:15:38'
 draft: false
 images:
 - /images/covers/messe_mortuaire-nocturnal_demonic_visitation.jpg
@@ -14,4 +14,4 @@ title: Messe Mortuaire - Nocturnal Demonic Visitation
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=35546&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=35546&sort=pd.name&order=ASC) for $20.00

@@ -1,10 +1,10 @@
 ---
-actualPrice: $25.00
+actualPrice: $20.00
 album: Battlefields
 artist: Hate Forest
 categories:
 - Vinyl
-date: '2023-11-29T06:13:27'
+date: '2024-03-01T06:15:23'
 draft: false
 images:
 - /images/covers/hate_forest-battlefields.jpg
@@ -14,4 +14,4 @@ title: Hate Forest - Battlefields
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=43580&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=47773&sort=pd.name&order=ASC) for $20.00

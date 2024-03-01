@@ -1,11 +1,11 @@
 ---
-actualPrice: $12.00 - 24.00
+actualPrice: $9.60 - 24.00
 album: Onyx Castles And Silver Keys
 artist: Mooncitadel
 categories:
 - Vinyl
 - CD
-date: '2023-11-29T06:15:13'
+date: '2024-03-01T06:17:10'
 draft: false
 images:
 - /images/covers/mooncitadel-onyx_castles_and_silver_keys.jpg
@@ -18,4 +18,4 @@ title: Mooncitadel - Onyx Castles And Silver Keys
 * Purchase from [CW Productions](https://shop.cwproductions.net/products/mooncitadel-onyx-castles-and-silver-keys-lp-1) for $24.00
 * Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/mooncitadel-onyx-castles-and-silver-keys-12-mlp/) for $18.00
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=35172&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=35172&sort=pd.name&order=ASC) for $9.60

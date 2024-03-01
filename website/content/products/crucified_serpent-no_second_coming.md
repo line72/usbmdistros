@@ -1,10 +1,10 @@
 ---
-actualPrice: $15.00
+actualPrice: $12.00
 album: No Second Coming
 artist: Crucified Serpent
 categories:
 - Cassette
-date: '2023-12-25T06:16:47'
+date: '2024-03-01T06:17:45'
 draft: false
 images:
 - /images/covers/crucified_serpent-no_second_coming.jpg
@@ -14,4 +14,4 @@ title: Crucified Serpent - No Second Coming
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=44418&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=44418&sort=pd.name&order=ASC) for $12.00

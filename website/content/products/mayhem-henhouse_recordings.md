@@ -1,10 +1,10 @@
 ---
-actualPrice: $27.00
+actualPrice: $21.60
 album: Henhouse Recordings
 artist: Mayhem
 categories:
 - Vinyl
-date: '2024-01-16T06:15:36'
+date: '2024-03-01T06:15:37'
 draft: false
 images:
 - /images/covers/mayhem-henhouse_recordings.jpg
@@ -14,4 +14,4 @@ title: Mayhem - Henhouse Recordings
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=45495&sort=pd.name&order=ASC) for $27.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=45495&sort=pd.name&order=ASC) for $21.60

@@ -1,10 +1,10 @@
 ---
-actualPrice: $8.00
+actualPrice: $6.40
 album: Forest Of Omnot
 artist: Sempiternal
 categories:
 - Cassette
-date: '2023-11-29T06:16:08'
+date: '2024-03-01T06:18:04'
 draft: false
 images:
 - /images/covers/sempiternal-forest_of_omnot.jpg
@@ -14,4 +14,4 @@ title: Sempiternal - Forest Of Omnot
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=16373&sort=pd.name&order=ASC) for $8.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=16373&sort=pd.name&order=ASC) for $6.40

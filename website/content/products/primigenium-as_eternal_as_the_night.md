@@ -1,10 +1,10 @@
 ---
-actualPrice: $6.00
+actualPrice: $4.80
 album: As Eternal as the Night
 artist: Primigenium
 categories:
 - CD
-date: '2023-11-29T06:15:22'
+date: '2024-03-01T06:17:20'
 draft: false
 images:
 - /images/covers/primigenium-as_eternal_as_the_night.jpg
@@ -14,4 +14,4 @@ title: Primigenium - As Eternal as the Night
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=2078&sort=pd.name&order=ASC) for $6.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=2078&sort=pd.name&order=ASC) for $4.80

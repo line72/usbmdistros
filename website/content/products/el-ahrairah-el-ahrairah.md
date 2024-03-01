@@ -1,10 +1,10 @@
 ---
-actualPrice: $27.00
+actualPrice: $21.60
 album: El-Ahrairah
 artist: El-Ahrairah
 categories:
 - Vinyl
-date: '2023-11-29T06:13:18'
+date: '2024-03-01T06:15:14'
 draft: false
 images:
 - /images/covers/el-ahrairah-el-ahrairah.jpg
@@ -14,4 +14,4 @@ title: El-Ahrairah - El-Ahrairah
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=26814&sort=pd.name&order=ASC) for $27.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=26814&sort=pd.name&order=ASC) for $21.60

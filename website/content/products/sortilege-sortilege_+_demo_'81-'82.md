@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00
+actualPrice: $9.60
 album: Sortilege + Demo '81/'82
 artist: Sortilege
 categories:
 - CD
-date: '2023-11-29T06:15:28'
+date: '2024-03-01T06:17:27'
 draft: false
 images:
 - /images/covers/sortilege-sortilege_+_demo_'81-'82.jpg
@@ -14,4 +14,4 @@ title: Sortilege - Sortilege + Demo '81/'82
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=21720&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=21720&sort=pd.name&order=ASC) for $9.60

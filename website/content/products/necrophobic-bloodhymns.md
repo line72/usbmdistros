@@ -1,10 +1,10 @@
 ---
-actualPrice: $25.00
+actualPrice: $20.00
 album: Bloodhymns
 artist: Necrophobic
 categories:
 - Vinyl
-date: '2024-01-13T06:13:50'
+date: '2024-03-01T06:15:43'
 draft: false
 images:
 - /images/covers/necrophobic-bloodhymns.jpg
@@ -14,4 +14,4 @@ title: Necrophobic - Bloodhymns
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=45257&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=45257&sort=pd.name&order=ASC) for $20.00

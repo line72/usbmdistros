@@ -1,10 +1,10 @@
 ---
-actualPrice: $6.00
+actualPrice: $4.80
 album: Decadence Digifile
 artist: Strynn
 categories:
 - CD
-date: '2023-11-29T06:15:31'
+date: '2024-03-01T06:17:28'
 draft: false
 images:
 - /images/covers/strynn-decadence_digifile.jpg
@@ -14,4 +14,4 @@ title: Strynn - Decadence Digifile
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=2075&sort=pd.name&order=ASC) for $6.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=2075&sort=pd.name&order=ASC) for $4.80

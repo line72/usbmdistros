@@ -1,10 +1,10 @@
 ---
-actualPrice: $9.00
+actualPrice: $7.20
 album: For the Triumph of Evil
 artist: Skiddaw
 categories:
 - Cassette
-date: '2023-11-29T06:16:08'
+date: '2024-03-01T06:18:05'
 draft: false
 images:
 - /images/covers/skiddaw-for_the_triumph_of_evil.jpg
@@ -14,4 +14,4 @@ title: Skiddaw - For the Triumph of Evil
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=18022&sort=pd.name&order=ASC) for $9.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=18022&sort=pd.name&order=ASC) for $7.20

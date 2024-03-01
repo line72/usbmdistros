@@ -1,10 +1,10 @@
 ---
-actualPrice: $40.00
+actualPrice: $32.00
 album: Forebyggende Krig
 artist: Darkthrone
 categories:
 - Vinyl
-date: '2024-02-19T06:17:31'
+date: '2024-03-01T06:16:21'
 draft: false
 images:
 - /images/covers/darkthrone-forebyggende_krig.jpg
@@ -14,4 +14,4 @@ title: Darkthrone - Forebyggende Krig
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=47397&sort=pd.name&order=ASC) for $40.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=47397&sort=pd.name&order=ASC) for $32.00

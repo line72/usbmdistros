@@ -1,10 +1,10 @@
 ---
-actualPrice: $15.00
+actualPrice: $12.00
 album: Minningar Ur Undirheimum
 artist: Draugurinn
 categories:
 - CD
-date: '2023-11-29T06:14:52'
+date: '2024-03-01T06:16:50'
 draft: false
 images:
 - /images/covers/draugurinn-minningar_ur_undirheimum.jpg
@@ -14,4 +14,4 @@ title: Draugurinn - Minningar Ur Undirheimum
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=28198&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=28198&sort=pd.name&order=ASC) for $12.00

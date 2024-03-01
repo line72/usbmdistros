@@ -1,10 +1,10 @@
 ---
-actualPrice: $28.00
+actualPrice: $22.40
 album: Hiding Amongst Humans
 artist: ArsGoatia
 categories:
 - Vinyl
-date: '2023-11-29T06:12:59'
+date: '2024-03-01T06:14:56'
 draft: false
 images:
 - /images/covers/arsgoatia-hiding_amongst_humans.jpg
@@ -14,4 +14,4 @@ title: ArsGoatia - Hiding Amongst Humans
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=37390&sort=pd.name&order=ASC) for $28.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=37390&sort=pd.name&order=ASC) for $22.40

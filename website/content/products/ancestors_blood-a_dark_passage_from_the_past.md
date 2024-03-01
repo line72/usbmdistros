@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00
+actualPrice: $9.60
 album: A Dark Passage From the Past
 artist: Ancestors Blood
 categories:
 - CD
-date: '2023-11-29T06:14:40'
+date: '2024-03-01T06:16:36'
 draft: false
 images:
 - /images/covers/ancestors_blood-a_dark_passage_from_the_past.png
@@ -14,4 +14,4 @@ title: Ancestors Blood - A Dark Passage From the Past
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=25312&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=25312&sort=pd.name&order=ASC) for $9.60

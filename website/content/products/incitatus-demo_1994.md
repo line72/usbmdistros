@@ -1,10 +1,10 @@
 ---
-actualPrice: $25.00
+actualPrice: $20.00
 album: Demo 1994
 artist: Incitatus
 categories:
 - Vinyl
-date: '2023-11-29T06:13:33'
+date: '2024-03-01T06:15:28'
 draft: false
 images:
 - /images/covers/incitatus-demo_1994.jpg
@@ -14,4 +14,4 @@ title: Incitatus - Demo 1994
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=31911&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=31911&sort=pd.name&order=ASC) for $20.00

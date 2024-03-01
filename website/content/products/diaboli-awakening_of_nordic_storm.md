@@ -1,10 +1,10 @@
 ---
-actualPrice: $25.00
+actualPrice: $20.00
 album: Awakening of Nordic Storm
 artist: Diaboli
 categories:
 - Vinyl
-date: '2023-11-29T06:13:16'
+date: '2024-03-01T06:15:12'
 draft: false
 images:
 - /images/covers/diaboli-awakening_of_nordic_storm.jpg
@@ -14,4 +14,4 @@ title: Diaboli - Awakening of Nordic Storm
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29930&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29930&sort=pd.name&order=ASC) for $20.00

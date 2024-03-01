@@ -1,10 +1,10 @@
 ---
-actualPrice: $20.00
+actualPrice: $16.00
 album: Doda Sjalar
 artist: Mylingar
 categories:
 - Vinyl
-date: '2023-11-29T06:13:46'
+date: '2024-03-01T06:15:41'
 draft: false
 images:
 - /images/covers/mylingar-doda_sjalar.jpg
@@ -14,4 +14,4 @@ title: Mylingar - Doda Sjalar
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=11592&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=11592&sort=pd.name&order=ASC) for $16.00

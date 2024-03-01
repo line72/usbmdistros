@@ -1,10 +1,10 @@
 ---
-actualPrice: $30.00
+actualPrice: $24.00
 album: Spawn of Pazuzu - The Early Years
 artist: Celtic Frost
 categories:
 - Vinyl
-date: '2024-02-19T06:15:44'
+date: '2024-03-01T06:15:05'
 draft: false
 images:
 - /images/covers/celtic_frost-spawn_of_pazuzu_-_the_early_years.jpg
@@ -14,4 +14,4 @@ title: Celtic Frost - Spawn of Pazuzu - The Early Years
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=47228&sort=pd.name&order=ASC) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=47877&sort=pd.name&order=ASC) for $24.00

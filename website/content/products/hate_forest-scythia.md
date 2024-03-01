@@ -1,10 +1,10 @@
 ---
-actualPrice: $15.00
+actualPrice: $12.00
 album: Scythia
 artist: Hate Forest
 categories:
 - CD
-date: '2023-11-29T06:15:00'
+date: '2024-03-01T06:16:58'
 draft: false
 images:
 - /images/covers/hate_forest-scythia.jpg
@@ -14,4 +14,4 @@ title: Hate Forest - Scythia
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=34616&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=34616&sort=pd.name&order=ASC) for $12.00

@@ -1,10 +1,10 @@
 ---
-actualPrice: $8.00
+actualPrice: $6.40
 album: "Edenist\xE4 Tuhoon"
 artist: Musta Siunaus
 categories:
 - Cassette
-date: '2023-11-29T06:16:01'
+date: '2024-03-01T06:17:58'
 draft: false
 images:
 - "/images/covers/musta_siunaus-edenist\xE4_tuhoon.jpg"
@@ -14,4 +14,4 @@ title: "Musta Siunaus - Edenist\xE4 Tuhoon"
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=41410&sort=pd.name&order=ASC) for $8.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=41410&sort=pd.name&order=ASC) for $6.40

@@ -1,10 +1,10 @@
 ---
-actualPrice: $15.00
+actualPrice: $12.00
 album: Demo I
 artist: Sulfurous Presence
 categories:
 - Cassette
-date: '2023-11-29T06:16:10'
+date: '2024-03-01T06:18:06'
 draft: false
 images:
 - /images/covers/sulfurous_presence-demo_i.png
@@ -14,4 +14,4 @@ title: Sulfurous Presence - Demo I
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=28568&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=28568&sort=pd.name&order=ASC) for $12.00

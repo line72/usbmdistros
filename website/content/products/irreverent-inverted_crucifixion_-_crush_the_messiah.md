@@ -1,10 +1,10 @@
 ---
-actualPrice: $30.00
+actualPrice: $19.50
 album: Inverted Crucifixion / Crush the Messiah
 artist: Irreverent
 categories:
 - Vinyl
-date: '2023-11-29T06:13:34'
+date: '2024-03-01T06:15:29'
 draft: false
 images:
 - /images/covers/irreverent-inverted_crucifixion_-_crush_the_messiah.jpg
@@ -14,4 +14,4 @@ title: Irreverent - Inverted Crucifixion / Crush the Messiah
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=20497&sort=pd.name&order=ASC) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=20497&sort=pd.name&order=ASC) for $19.50

@@ -1,10 +1,10 @@
 ---
-actualPrice: $15.00
+actualPrice: $12.00
 album: No Magick Spawns!
 artist: Spectres & Teeth
 categories:
 - CD
-date: '2023-11-29T06:15:29'
+date: '2024-03-01T06:17:27'
 draft: false
 images:
 - /images/covers/spectres_&_teeth-no_magick_spawns!.jpg
@@ -14,4 +14,4 @@ title: Spectres & Teeth - No Magick Spawns!
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=19278&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=19278&sort=pd.name&order=ASC) for $12.00

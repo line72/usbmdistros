@@ -1,10 +1,10 @@
 ---
-actualPrice: $10.00
+actualPrice: $8.00
 album: Into the Lap of the Ancient Mother
 artist: White Nights
 categories:
 - CD
-date: '2023-11-29T06:15:39'
+date: '2024-03-01T06:17:36'
 draft: false
 images:
 - /images/covers/white_nights-into_the_lap_of_the_ancient_mother.png
@@ -14,4 +14,4 @@ title: White Nights - Into the Lap of the Ancient Mother
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=14659&sort=pd.name&order=ASC) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=14659&sort=pd.name&order=ASC) for $8.00

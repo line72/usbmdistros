@@ -1,10 +1,10 @@
 ---
-actualPrice: $15.00
+actualPrice: $12.00
 album: Telepath
 artist: Samael
 categories:
 - CD
-date: '2023-11-29T06:15:25'
+date: '2024-03-01T06:17:24'
 draft: false
 images:
 - /images/covers/samael-telepath.jpg
@@ -14,4 +14,4 @@ title: Samael - Telepath
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=21770&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=21770&sort=pd.name&order=ASC) for $12.00

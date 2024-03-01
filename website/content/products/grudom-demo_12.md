@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00
+actualPrice: $9.60
 album: Demo 12
 artist: Grudom
 categories:
 - CD
-date: '2024-01-28T06:15:54'
+date: '2024-03-01T06:16:57'
 draft: false
 images:
 - /images/covers/grudom-demo_12.jpg
@@ -14,4 +14,4 @@ title: Grudom - Demo 12
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=46162&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=46162&sort=pd.name&order=ASC) for $9.60

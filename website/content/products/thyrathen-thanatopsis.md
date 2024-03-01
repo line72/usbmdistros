@@ -1,10 +1,10 @@
 ---
-actualPrice: $30.00
+actualPrice: $24.00
 album: Thanatopsis
 artist: Thyrathen
 categories:
 - Vinyl
-date: '2023-11-29T06:14:10'
+date: '2024-03-01T06:16:06'
 draft: false
 images:
 - /images/covers/thyrathen-thanatopsis.png
@@ -14,4 +14,4 @@ title: Thyrathen - Thanatopsis
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=24929&sort=pd.name&order=ASC) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=24929&sort=pd.name&order=ASC) for $24.00

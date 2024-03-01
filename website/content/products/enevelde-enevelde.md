@@ -1,10 +1,10 @@
 ---
-actualPrice: $28.00
+actualPrice: $22.40
 album: Enevelde
 artist: Enevelde
 categories:
 - Vinyl
-date: '2023-11-29T06:13:19'
+date: '2024-03-01T06:15:15'
 draft: false
 images:
 - /images/covers/enevelde-enevelde.jpg
@@ -14,4 +14,4 @@ title: Enevelde - Enevelde
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=40068&sort=pd.name&order=ASC) for $28.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=40068&sort=pd.name&order=ASC) for $22.40

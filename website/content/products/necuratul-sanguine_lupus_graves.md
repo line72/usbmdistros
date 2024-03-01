@@ -1,10 +1,10 @@
 ---
-actualPrice: $6.00
+actualPrice: $4.80
 album: Sanguine Lupus Graves
 artist: Necuratul
 categories:
 - Cassette
-date: '2023-11-29T06:16:02'
+date: '2024-03-01T06:17:59'
 draft: false
 images:
 - /images/covers/necuratul-sanguine_lupus_graves.png
@@ -14,4 +14,4 @@ title: Necuratul - Sanguine Lupus Graves
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=1795&sort=pd.name&order=ASC) for $6.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=1795&sort=pd.name&order=ASC) for $4.80

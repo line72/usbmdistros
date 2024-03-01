@@ -1,10 +1,10 @@
 ---
-actualPrice: $20.00
+actualPrice: $16.00
 album: Hospodi
 artist: Batushka
 categories:
 - Vinyl
-date: '2023-11-29T06:13:03'
+date: '2024-03-01T06:14:59'
 draft: false
 images:
 - /images/covers/batushka-hospodi.jpg
@@ -14,4 +14,4 @@ title: Batushka - Hospodi
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=24492&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=24492&sort=pd.name&order=ASC) for $16.00

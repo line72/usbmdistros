@@ -1,10 +1,10 @@
 ---
-actualPrice: $10.00
+actualPrice: $8.00
 album: Part 3
 artist: Myrkwid
 categories:
 - Vinyl
-date: '2023-11-29T06:13:46'
+date: '2024-03-01T06:15:41'
 draft: false
 images:
 - /images/covers/myrkwid-part_3.jpg
@@ -14,4 +14,4 @@ title: Myrkwid - Part 3
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=39735&sort=pd.name&order=ASC) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=39735&sort=pd.name&order=ASC) for $8.00

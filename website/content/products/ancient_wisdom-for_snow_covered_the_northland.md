@@ -1,10 +1,10 @@
 ---
-actualPrice: $25.00
+actualPrice: $20.00
 album: For Snow Covered The Northland
 artist: Ancient Wisdom
 categories:
 - Vinyl
-date: '2024-02-21T06:14:09'
+date: '2024-03-01T06:14:53'
 draft: false
 images:
 - /images/covers/ancient_wisdom-for_snow_covered_the_northland.png
@@ -14,4 +14,4 @@ title: Ancient Wisdom - For Snow Covered The Northland
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=47496&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=47496&sort=pd.name&order=ASC) for $20.00

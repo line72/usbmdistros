@@ -1,10 +1,10 @@
 ---
-actualPrice: $15.00
+actualPrice: $12.00
 album: Blodskam
 artist: Horde Of Hel
 categories:
 - CD
-date: '2023-11-29T06:15:03'
+date: '2024-03-01T06:17:00'
 draft: false
 images:
 - /images/covers/horde_of_hel-blodskam.png
@@ -14,4 +14,4 @@ title: Horde Of Hel - Blodskam
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=19956&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=19956&sort=pd.name&order=ASC) for $12.00

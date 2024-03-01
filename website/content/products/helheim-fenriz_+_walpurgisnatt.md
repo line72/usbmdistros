@@ -1,10 +1,10 @@
 ---
-actualPrice: $25.00
+actualPrice: $20.00
 album: Fenriz + Walpurgisnatt
 artist: Helheim
 categories:
 - Vinyl
-date: '2024-01-08T06:14:20'
+date: '2024-03-01T06:15:24'
 draft: false
 images:
 - /images/covers/helheim-fenriz_+_walpurgisnatt.jpg
@@ -14,4 +14,4 @@ title: Helheim - Fenriz + Walpurgisnatt
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=44936&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=44936&sort=pd.name&order=ASC) for $20.00

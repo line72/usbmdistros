@@ -1,10 +1,10 @@
 ---
-actualPrice: $8.00
+actualPrice: $6.40
 album: Terrible Cemetery
 artist: Ghast
 categories:
 - CD
-date: '2023-11-29T06:14:57'
+date: '2024-03-01T06:16:55'
 draft: false
 images:
 - /images/covers/ghast-terrible_cemetery.jpg
@@ -14,4 +14,4 @@ title: Ghast - Terrible Cemetery
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=2681&sort=pd.name&order=ASC) for $8.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=2681&sort=pd.name&order=ASC) for $6.40

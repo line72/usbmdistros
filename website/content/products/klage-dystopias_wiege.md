@@ -1,10 +1,10 @@
 ---
-actualPrice: $10.00
+actualPrice: $8.00
 album: Dystopias Wiege
 artist: Klage
 categories:
 - CD
-date: '2023-11-29T06:15:08'
+date: '2024-03-01T06:17:05'
 draft: false
 images:
 - /images/covers/klage-dystopias_wiege.jpg
@@ -14,4 +14,4 @@ title: Klage - Dystopias Wiege
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=16220&sort=pd.name&order=ASC) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=16220&sort=pd.name&order=ASC) for $8.00

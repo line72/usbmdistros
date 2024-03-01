@@ -1,10 +1,10 @@
 ---
-actualPrice: $10.00
+actualPrice: $8.00
 album: The Ancient Brethren
 artist: Decayed
 categories:
 - CD
-date: '2023-11-29T06:14:49'
+date: '2024-03-01T06:16:47'
 draft: false
 images:
 - /images/covers/decayed-the_ancient_brethren.jpg
@@ -14,4 +14,4 @@ title: Decayed - The Ancient Brethren
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=15081&sort=pd.name&order=ASC) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=15081&sort=pd.name&order=ASC) for $8.00

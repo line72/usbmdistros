@@ -1,10 +1,10 @@
 ---
-actualPrice: $6.00
+actualPrice: $3.90
 album: Upheaval of Unholy Darkness
 artist: Set
 categories:
 - CD
-date: '2023-11-29T06:15:27'
+date: '2024-03-01T06:17:25'
 draft: false
 images:
 - /images/covers/set-upheaval_of_unholy_darkness.png
@@ -14,4 +14,4 @@ title: Set - Upheaval of Unholy Darkness
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=2438&sort=pd.name&order=ASC) for $6.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=2438&sort=pd.name&order=ASC) for $3.90

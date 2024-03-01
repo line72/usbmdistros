@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00
+actualPrice: $9.60
 album: From the Darkest Chasms
 artist: Altar Blood
 categories:
 - CD
-date: '2023-11-29T06:14:39'
+date: '2024-03-01T06:16:35'
 draft: false
 images:
 - /images/covers/altar_blood-from_the_darkest_chasms.jpg
@@ -14,4 +14,4 @@ title: Altar Blood - From the Darkest Chasms
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=24455&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=24455&sort=pd.name&order=ASC) for $9.60

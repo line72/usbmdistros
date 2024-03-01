@@ -1,10 +1,10 @@
 ---
-actualPrice: $35.00
+actualPrice: $28.00
 album: Vittra
 artist: Naglfar
 categories:
 - Vinyl
-date: '2023-11-29T06:13:46'
+date: '2024-03-01T06:15:42'
 draft: false
 images:
 - /images/covers/naglfar-vittra.jpg
@@ -14,4 +14,4 @@ title: Naglfar - Vittra
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=40007&sort=pd.name&order=ASC) for $35.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=40007&sort=pd.name&order=ASC) for $28.00

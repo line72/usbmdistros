@@ -1,10 +1,10 @@
 ---
-actualPrice: $10.00
+actualPrice: $8.00
 album: My Mortal Share / The Towers
 artist: Absolute Key
 categories:
 - Vinyl
-date: '2023-11-29T06:14:20'
+date: '2024-03-01T06:16:18'
 draft: false
 images:
 - /images/covers/absolute_key-my_mortal_share_-_the_towers.png
@@ -14,4 +14,4 @@ title: Absolute Key - My Mortal Share / The Towers
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=31277&sort=pd.name&order=ASC) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=31277&sort=pd.name&order=ASC) for $8.00

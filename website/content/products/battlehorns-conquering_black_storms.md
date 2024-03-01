@@ -1,10 +1,10 @@
 ---
-actualPrice: $10.00
+actualPrice: $8.00
 album: Conquering Black Storms
 artist: Battlehorns
 categories:
 - Cassette
-date: '2024-01-22T06:16:57'
+date: '2024-03-01T06:17:41'
 draft: false
 images:
 - /images/covers/battlehorns-conquering_black_storms.png
@@ -14,4 +14,4 @@ title: Battlehorns - Conquering Black Storms
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=45950&sort=pd.name&order=ASC) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=45950&sort=pd.name&order=ASC) for $8.00

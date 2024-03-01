@@ -1,10 +1,10 @@
 ---
-actualPrice: $25.00
+actualPrice: $20.00
 album: Forestrealm Eternal
 artist: "Nattf\xE4rd"
 categories:
 - Vinyl
-date: '2024-01-12T06:13:45'
+date: '2024-03-01T06:15:42'
 draft: false
 images:
 - "/images/covers/nattf\xE4rd-forestrealm_eternal.jpg"
@@ -14,4 +14,4 @@ title: "Nattf\xE4rd - Forestrealm Eternal"
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=45241&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=45241&sort=pd.name&order=ASC) for $20.00

@@ -1,10 +1,10 @@
 ---
-actualPrice: $10.00
+actualPrice: $8.00
 album: l'Aube Rouge
 artist: Aksaya
 categories:
 - CD
-date: '2023-11-29T06:14:39'
+date: '2024-03-01T06:16:35'
 draft: false
 images:
 - /images/covers/aksaya-l'aube_rouge.jpg
@@ -14,4 +14,4 @@ title: Aksaya - l'Aube Rouge
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=8255&sort=pd.name&order=ASC) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=8255&sort=pd.name&order=ASC) for $8.00

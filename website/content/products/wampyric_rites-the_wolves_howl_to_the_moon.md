@@ -6,7 +6,7 @@ categories:
 - Vinyl
 - Cassette
 - CD
-date: '2024-01-26T01:44:26'
+date: '2024-03-01T06:16:13'
 draft: false
 images:
 - /images/covers/wampyric_rites-the_wolves_howl_to_the_moon.jpg
@@ -17,7 +17,7 @@ title: Wampyric Rites - The Wolves Howl to the Moon
 
 ## Vinyl
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/wampyric-rites-the-wolves-howl-to-the-moon-12-lp) for $27.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=31331&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=31331&sort=pd.name&order=ASC) for $20.00
 ## Cassette
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/wampyric-rites-the-wolves-howl-to-the-moon-tape) for $12.00
 ## CD

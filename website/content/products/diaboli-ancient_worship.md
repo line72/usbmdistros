@@ -1,10 +1,10 @@
 ---
-actualPrice: $10.00 - 15.00
+actualPrice: $10.00 - 12.00
 album: Ancient Worship
 artist: Diaboli
 categories:
 - Vinyl
-date: '2023-11-29T06:14:24'
+date: '2024-03-01T06:16:22'
 draft: false
 images:
 - /images/covers/diaboli-ancient_worship.jpg
@@ -15,4 +15,4 @@ title: Diaboli - Ancient Worship
 
 ## Vinyl
 * Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/diaboli-ancient-worship-7-ep/) for $10.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=43091&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=43091&sort=pd.name&order=ASC) for $12.00

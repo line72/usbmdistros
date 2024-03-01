@@ -1,10 +1,10 @@
 ---
-actualPrice: $16.00
+actualPrice: $12.80
 album: Morbid Exaltations
 artist: Embrace of Thorns
 categories:
 - Vinyl
-date: '2023-11-29T06:13:19'
+date: '2024-03-01T06:15:14'
 draft: false
 images:
 - /images/covers/embrace_of_thorns-morbid_exaltations.jpg
@@ -14,4 +14,4 @@ title: Embrace of Thorns - Morbid Exaltations
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=39705&sort=pd.name&order=ASC) for $16.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=39705&sort=pd.name&order=ASC) for $12.80

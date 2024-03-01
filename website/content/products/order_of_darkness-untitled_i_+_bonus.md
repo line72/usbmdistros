@@ -1,10 +1,10 @@
 ---
-actualPrice: $20.00
+actualPrice: $16.00
 album: Untitled I + Bonus
 artist: Order of Darkness
 categories:
 - Vinyl
-date: '2023-11-29T06:13:51'
+date: '2024-03-01T06:15:49'
 draft: false
 images:
 - /images/covers/order_of_darkness-untitled_i_+_bonus.jpg
@@ -14,4 +14,4 @@ title: Order of Darkness - Untitled I + Bonus
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=19053&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=19053&sort=pd.name&order=ASC) for $16.00

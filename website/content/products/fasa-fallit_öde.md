@@ -1,10 +1,10 @@
 ---
-actualPrice: $13.00
+actualPrice: $10.40
 album: "Fallit \xD6de"
 artist: Fasa
 categories:
 - Cassette
-date: '2023-11-29T06:15:51'
+date: '2024-03-01T06:17:49'
 draft: false
 images:
 - "/images/covers/fasa-fallit_\xF6de.jpg"
@@ -14,4 +14,4 @@ title: "Fasa - Fallit \xD6de"
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=30684&sort=pd.name&order=ASC) for $13.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=30684&sort=pd.name&order=ASC) for $10.40

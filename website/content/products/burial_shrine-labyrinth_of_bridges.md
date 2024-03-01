@@ -1,10 +1,10 @@
 ---
-actualPrice: $25.00
+actualPrice: $20.00
 album: Labyrinth of Bridges
 artist: Burial Shrine
 categories:
 - Vinyl
-date: '2023-11-29T06:13:08'
+date: '2024-03-01T06:15:03'
 draft: false
 images:
 - /images/covers/burial_shrine-labyrinth_of_bridges.jpg
@@ -14,4 +14,4 @@ title: Burial Shrine - Labyrinth of Bridges
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=17801&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=17801&sort=pd.name&order=ASC) for $20.00

@@ -1,10 +1,10 @@
 ---
-actualPrice: $20.00
+actualPrice: $16.00
 album: Le Chantre Du Charnier
 artist: "Ali\xE9nante Damnation"
 categories:
 - Vinyl
-date: '2023-11-29T06:12:57'
+date: '2024-03-01T06:14:52'
 draft: false
 images:
 - "/images/covers/ali\xE9nante_damnation-le_chantre_du_charnier.png"
@@ -14,4 +14,4 @@ title: "Ali\xE9nante Damnation - Le Chantre Du Charnier"
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=40011&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=40011&sort=pd.name&order=ASC) for $16.00

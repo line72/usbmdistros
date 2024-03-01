@@ -1,10 +1,10 @@
 ---
-actualPrice: $10.00
+actualPrice: $8.00
 album: Holocausto Cotidiano
 artist: Traidor
 categories:
 - Vinyl
-date: '2023-11-29T06:14:11'
+date: '2024-03-01T06:16:06'
 draft: false
 images:
 - /images/covers/traidor-holocausto_cotidiano.jpg
@@ -14,4 +14,4 @@ title: Traidor - Holocausto Cotidiano
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=5824&sort=pd.name&order=ASC) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=5824&sort=pd.name&order=ASC) for $8.00

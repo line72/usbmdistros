@@ -1,10 +1,10 @@
 ---
-actualPrice: $5.00
+actualPrice: $4.00
 album: Demons
 artist: "Vederv\xE4rdig"
 categories:
 - Cassette
-date: '2023-11-29T06:16:13'
+date: '2024-03-01T06:18:10'
 draft: false
 images:
 - "/images/covers/vederv\xE4rdig-demons.png"
@@ -14,4 +14,4 @@ title: "Vederv\xE4rdig - Demons"
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=11147&sort=pd.name&order=ASC) for $5.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=11147&sort=pd.name&order=ASC) for $4.00

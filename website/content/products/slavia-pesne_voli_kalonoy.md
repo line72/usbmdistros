@@ -1,10 +1,10 @@
 ---
-actualPrice: $5.00
+actualPrice: $4.00
 album: Pesne Voli Kalonoy
 artist: Slavia
 categories:
 - CD
-date: '2023-11-29T06:15:28'
+date: '2024-03-01T06:17:26'
 draft: false
 images:
 - /images/covers/slavia-pesne_voli_kalonoy.png
@@ -14,4 +14,4 @@ title: Slavia - Pesne Voli Kalonoy
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=1743&sort=pd.name&order=ASC) for $5.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=1743&sort=pd.name&order=ASC) for $4.00

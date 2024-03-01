@@ -1,10 +1,10 @@
 ---
-actualPrice: $9.00 - 10.00
+actualPrice: $7.20 - 8.00
 album: Chasmal Mire
 artist: Chasmal Mire
 categories:
 - CD
-date: '2023-11-29T06:14:46'
+date: '2024-03-01T06:16:43'
 draft: false
 images:
 - /images/covers/chasmal_mire-chasmal_mire.jpg
@@ -14,5 +14,5 @@ title: Chasmal Mire - Chasmal Mire
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=23057&sort=pd.name&order=ASC) for $10.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=23066&sort=pd.name&order=ASC) for $9.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=23057&sort=pd.name&order=ASC) for $8.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=23066&sort=pd.name&order=ASC) for $7.20

@@ -1,10 +1,10 @@
 ---
-actualPrice: $22.00 - 25.00
+actualPrice: $20.00 - 22.00
 album: A Parade of Horribles
 artist: Blinding Sun
 categories:
 - Vinyl
-date: '2023-11-29T06:13:06'
+date: '2024-03-01T06:15:01'
 draft: false
 images:
 - /images/covers/blinding_sun-a_parade_of_horribles.jpg
@@ -15,4 +15,4 @@ title: Blinding Sun - A Parade of Horribles
 
 ## Vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/blinding-sun-a-parade-of-horribles-lp) for $22.00 :: Black 2023 press vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=43814&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=43814&sort=pd.name&order=ASC) for $20.00

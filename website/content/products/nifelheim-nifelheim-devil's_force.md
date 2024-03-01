@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00
+actualPrice: $9.60
 album: Nifelheim/Devil's Force
 artist: Nifelheim
 categories:
 - CD
-date: '2024-02-29T06:16:40'
+date: '2024-03-01T06:17:16'
 draft: false
 images:
 - /images/covers/nifelheim-nifelheim-devil's_force.png
@@ -14,4 +14,4 @@ title: Nifelheim - Nifelheim/Devil's Force
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=47707&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=47707&sort=pd.name&order=ASC) for $9.60

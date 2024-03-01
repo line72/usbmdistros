@@ -1,10 +1,10 @@
 ---
-actualPrice: $10.00
+actualPrice: $8.00
 album: '...Nur Frei Bei Nacht'
 artist: Ewiges Reich
 categories:
 - CD
-date: '2023-11-29T06:14:54'
+date: '2024-03-01T06:16:52'
 draft: false
 images:
 - /images/covers/ewiges_reich-...nur_frei_bei_nacht.jpg
@@ -14,4 +14,4 @@ title: Ewiges Reich - ...Nur Frei Bei Nacht
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=2505&sort=pd.name&order=ASC) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=2505&sort=pd.name&order=ASC) for $8.00

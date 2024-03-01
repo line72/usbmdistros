@@ -1,11 +1,11 @@
 ---
-actualPrice: $15.00 - 35.00
+actualPrice: $12.00 - 35.00
 album: Oneiron
 artist: Pyreficativm
 categories:
 - Vinyl
 - CD
-date: '2023-11-29T06:15:23'
+date: '2024-03-01T06:17:21'
 draft: false
 images:
 - /images/covers/pyreficativm-oneiron.jpg
@@ -18,4 +18,4 @@ title: Pyreficativm - Oneiron
 * Purchase from [Sto'Vo'Kor Records](https://stovokor-records.com/products/pyreficativm-oneiron) for $30.00
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/pyreficativm-oneiron-12-lp) for $35.00
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=43832&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=43832&sort=pd.name&order=ASC) for $12.00

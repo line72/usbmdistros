@@ -1,10 +1,10 @@
 ---
-actualPrice: $7.00
+actualPrice: $5.60
 album: Hellige
 artist: Hellige
 categories:
 - Cassette
-date: '2023-11-29T06:15:54'
+date: '2024-03-01T06:17:53'
 draft: false
 images:
 - /images/covers/hellige-hellige.png
@@ -14,4 +14,4 @@ title: Hellige - Hellige
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=11379&sort=pd.name&order=ASC) for $7.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=11379&sort=pd.name&order=ASC) for $5.60

@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00
+actualPrice: $9.60
 album: Wasteland
 artist: Inner Sanctum
 categories:
 - Vinyl
-date: '2024-01-13T06:14:32'
+date: '2024-03-01T06:16:26'
 draft: false
 images:
 - /images/covers/inner_sanctum-wasteland.jpg
@@ -14,4 +14,4 @@ title: Inner Sanctum - Wasteland
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=45309&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=45309&sort=pd.name&order=ASC) for $9.60

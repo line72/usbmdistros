@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00
+actualPrice: $9.60
 album: Welcome Radiation
 artist: Seven Deadly Sins
 categories:
 - CD
-date: '2023-11-29T06:15:27'
+date: '2024-03-01T06:17:26'
 draft: false
 images:
 - /images/covers/seven_deadly_sins-welcome_radiation.jpg
@@ -14,4 +14,4 @@ title: Seven Deadly Sins - Welcome Radiation
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=35468&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=35468&sort=pd.name&order=ASC) for $9.60

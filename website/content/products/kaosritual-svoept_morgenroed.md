@@ -1,11 +1,11 @@
 ---
-actualPrice: $15.00 - 33.00
+actualPrice: $12.00 - 26.40
 album: Svoept Morgenroed
 artist: Kaosritual
 categories:
 - Vinyl
 - Cassette
-date: '2024-02-11T06:13:46'
+date: '2024-03-01T06:17:55'
 draft: false
 images:
 - /images/covers/kaosritual-svoept_morgenroed.jpg
@@ -15,6 +15,6 @@ title: Kaosritual - Svoept Morgenroed
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=46575&sort=pd.name&order=ASC) for $33.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=47890&sort=pd.name&order=ASC) for $26.40
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=43505&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=43505&sort=pd.name&order=ASC) for $12.00

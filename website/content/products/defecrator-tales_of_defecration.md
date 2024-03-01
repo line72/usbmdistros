@@ -1,10 +1,10 @@
 ---
-actualPrice: $6.00
+actualPrice: $4.80
 album: Tales of Defecration
 artist: Defecrator
 categories:
 - CD
-date: '2024-01-22T06:15:54'
+date: '2024-03-01T06:16:47'
 draft: false
 images:
 - /images/covers/defecrator-tales_of_defecration.jpg
@@ -14,4 +14,4 @@ title: Defecrator - Tales of Defecration
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=45931&sort=pd.name&order=ASC) for $6.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=45931&sort=pd.name&order=ASC) for $4.80

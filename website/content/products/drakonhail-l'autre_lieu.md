@@ -1,10 +1,10 @@
 ---
-actualPrice: $27.00
+actualPrice: $21.60
 album: L'autre Lieu
 artist: Drakonhail
 categories:
 - Vinyl
-date: '2024-01-30T06:13:34'
+date: '2024-03-01T06:15:13'
 draft: false
 images:
 - /images/covers/drakonhail-l'autre_lieu.jpg
@@ -14,4 +14,4 @@ title: Drakonhail - L'autre Lieu
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=46223&sort=pd.name&order=ASC) for $27.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=47895&sort=pd.name&order=ASC) for $21.60

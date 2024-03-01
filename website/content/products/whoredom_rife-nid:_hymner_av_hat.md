@@ -1,10 +1,10 @@
 ---
-actualPrice: $27.00
+actualPrice: $21.60
 album: 'Nid: Hymner Av Hat'
 artist: Whoredom Rife
 categories:
 - Vinyl
-date: '2023-11-29T06:14:17'
+date: '2024-03-01T06:16:14'
 draft: false
 images:
 - /images/covers/whoredom_rife-nid:_hymner_av_hat.jpg
@@ -14,4 +14,4 @@ title: 'Whoredom Rife - Nid: Hymner Av Hat'
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=40059&sort=pd.name&order=ASC) for $27.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=40059&sort=pd.name&order=ASC) for $21.60

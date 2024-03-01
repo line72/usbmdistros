@@ -1,10 +1,10 @@
 ---
-actualPrice: $10.00
+actualPrice: $8.00
 album: His Best Deceit
 artist: Possession
 categories:
 - CD
-date: '2024-02-18T06:16:25'
+date: '2024-03-01T06:17:20'
 draft: false
 images:
 - /images/covers/possession-his_best_deceit.jpg
@@ -14,4 +14,4 @@ title: Possession - His Best Deceit
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=47098&sort=pd.name&order=ASC) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=47098&sort=pd.name&order=ASC) for $8.00
