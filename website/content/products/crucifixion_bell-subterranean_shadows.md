@@ -1,5 +1,5 @@
 ---
-actualPrice: $10.40 - 11.00
+actualPrice: $10.40
 album: Subterranean Shadows
 artist: Crucifixion Bell
 categories:
@@ -14,5 +14,4 @@ title: Crucifixion Bell - Subterranean Shadows
 ---
 
 ## Cassette
-* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/crucifixion-bell-subterranean-shadows-tape) for $11.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=35498&sort=pd.name&order=ASC) for $10.40

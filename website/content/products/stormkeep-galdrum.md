@@ -1,11 +1,11 @@
 ---
-actualPrice: $12.00 - 30.00
+actualPrice: $15.00 - 30.00
 album: Galdrum
 artist: Stormkeep
 categories:
 - Vinyl
 - CD
-date: '2024-03-01T06:17:28'
+date: '2024-03-01T06:16:01'
 draft: false
 images:
 - /images/covers/stormkeep-galdrum.jpg
@@ -21,4 +21,3 @@ title: Stormkeep - Galdrum
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=46905&sort=pd.name&order=ASC) for $24.00
 ## CD
 * Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/stormkeep-galdrum-cd-digipak) for $15.00 :: (Digipak)
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=46904&sort=pd.name&order=ASC) for $12.00
