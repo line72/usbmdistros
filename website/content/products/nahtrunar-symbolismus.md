@@ -1,9 +1,8 @@
 ---
-actualPrice: $9.60 - 30.00
+actualPrice: $9.60
 album: Symbolismus
 artist: Nahtrunar
 categories:
-- Vinyl
 - CD
 date: '2024-03-01T06:17:12'
 draft: false
@@ -14,7 +13,5 @@ thumbnailImage: /images/covers/nahtrunar-symbolismus-thumb.png
 title: Nahtrunar - Symbolismus
 ---
 
-## Vinyl
-* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/nahtrunar-symbolismus-2xlp) for $30.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=37695&sort=pd.name&order=ASC) for $9.60
