@@ -21,4 +21,3 @@ title: "N\xF6ldr - Misanthropic Forest"
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=19656&sort=pd.name&order=ASC) for $9.60
 ## CD
 * Purchase from [Sto'Vo'Kor Records](https://stovokor-records.com/products/noldr-misanthropic-forest) for $9.50
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=19225&sort=pd.name&order=ASC) for $9.60

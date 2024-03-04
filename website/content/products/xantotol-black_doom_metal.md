@@ -1,11 +1,10 @@
 ---
-actualPrice: $9.60 - 19.50
+actualPrice: $19.50
 album: Black Doom Metal
 artist: Xantotol
 categories:
 - Vinyl
-- CD
-date: '2024-03-01T06:17:37'
+date: '2024-03-01T06:16:17'
 draft: false
 images:
 - /images/covers/xantotol-black_doom_metal.jpg
@@ -16,5 +15,3 @@ title: Xantotol - Black Doom Metal
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=11335&sort=pd.name&order=ASC) for $19.50
-## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=35487&sort=pd.name&order=ASC) for $9.60
