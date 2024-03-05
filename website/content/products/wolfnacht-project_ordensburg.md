@@ -1,10 +1,10 @@
 ---
-actualPrice: $28.00
+actualPrice: $25.00
 album: Project Ordensburg
 artist: Wolfnacht
 categories:
 - Vinyl
-date: '2024-02-19T06:20:47'
+date: '2024-03-05T06:18:56'
 draft: false
 images:
 - /images/covers/wolfnacht-project_ordensburg.jpg
@@ -14,4 +14,4 @@ title: Wolfnacht - Project Ordensburg
 ---
 
 ## Vinyl
-* Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/wolfnacht-project-ordensburg-12-lp/) for $28.00
+* Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/wolfnacht-project-ordensburg-12-lp/) for $25.00
