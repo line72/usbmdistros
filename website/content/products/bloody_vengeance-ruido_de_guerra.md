@@ -16,7 +16,6 @@ title: Bloody Vengeance - Ruido De Guerra
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=46547&sort=pd.name&order=ASC) for $16.25
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=46549&sort=pd.name&order=ASC) for $22.75
 ## Cassette
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=46548&sort=pd.name&order=ASC) for $7.80
