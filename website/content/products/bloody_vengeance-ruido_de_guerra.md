@@ -6,7 +6,7 @@ categories:
 - Vinyl
 - Cassette
 - CD
-date: '2024-03-01T06:17:42'
+date: '2024-03-07T06:16:23'
 draft: false
 images:
 - /images/covers/bloody_vengeance-ruido_de_guerra.jpg
@@ -20,4 +20,4 @@ title: Bloody Vengeance - Ruido De Guerra
 ## Cassette
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=46548&sort=pd.name&order=ASC) for $7.80
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=46546&sort=pd.name&order=ASC) for $7.80
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=47977&sort=pd.name&order=ASC) for $7.80

@@ -16,6 +16,5 @@ title: Satanic Warmaster - Black Katharsis
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=44494&sort=pd.name&order=ASC) for $20.00
-* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/satanic-warmaster-black-katharsis-12-lp) for $18.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=44493&sort=pd.name&order=ASC) for $12.00

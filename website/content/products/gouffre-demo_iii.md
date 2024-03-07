@@ -4,7 +4,7 @@ album: Demo III
 artist: Gouffre
 categories:
 - Cassette
-date: '2024-03-01T06:17:51'
+date: '2024-03-07T06:17:30'
 draft: false
 images:
 - /images/covers/gouffre-demo_iii.png
@@ -14,4 +14,4 @@ title: Gouffre - Demo III
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=42663&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=48074&sort=pd.name&order=ASC) for $12.00

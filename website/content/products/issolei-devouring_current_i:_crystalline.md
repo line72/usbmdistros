@@ -4,7 +4,7 @@ album: 'Devouring Current I: Crystalline'
 artist: Issolei
 categories:
 - Vinyl
-date: '2024-03-01T06:15:29'
+date: '2024-03-07T06:15:15'
 draft: false
 images:
 - /images/covers/issolei-devouring_current_i:_crystalline.jpg
@@ -14,4 +14,4 @@ title: 'Issolei - Devouring Current I: Crystalline'
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=17487&sort=pd.name&order=ASC) for $21.60
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=48113&sort=pd.name&order=ASC) for $21.60

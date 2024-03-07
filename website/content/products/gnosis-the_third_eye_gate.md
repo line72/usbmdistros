@@ -5,7 +5,7 @@ artist: Gnosis
 categories:
 - Vinyl
 - CD
-date: '2024-03-01T06:16:55'
+date: '2024-03-07T06:15:04'
 draft: false
 images:
 - /images/covers/gnosis-the_third_eye_gate.jpg
@@ -15,6 +15,6 @@ title: Gnosis - The Third Eye Gate
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=19258&sort=pd.name&order=ASC) for $9.75
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=48079&sort=pd.name&order=ASC) for $9.75
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=25634&sort=pd.name&order=ASC) for $1.95

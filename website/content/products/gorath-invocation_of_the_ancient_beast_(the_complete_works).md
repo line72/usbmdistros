@@ -4,7 +4,7 @@ album: Invocation of the Ancient Beast (The Complete Works)
 artist: Gorath
 categories:
 - Vinyl
-date: '2024-03-01T06:15:20'
+date: '2024-03-07T06:15:05'
 draft: false
 images:
 - /images/covers/gorath-invocation_of_the_ancient_beast_(the_complete_works).png
@@ -14,4 +14,4 @@ title: Gorath - Invocation of the Ancient Beast (The Complete Works)
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=47306&sort=pd.name&order=ASC) for $28.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=47976&sort=pd.name&order=ASC) for $28.00

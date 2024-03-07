@@ -1,10 +1,10 @@
 ---
-actualPrice: $24.00
+actualPrice: $20.00
 album: Black Seared Heart
 artist: Gehenna
 categories:
 - Vinyl
-date: '2024-03-01T06:15:19'
+date: '2024-03-07T06:15:04'
 draft: false
 images:
 - /images/covers/gehenna-black_seared_heart.jpg
@@ -14,4 +14,4 @@ title: Gehenna - Black Seared Heart
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=46945&sort=pd.name&order=ASC) for $24.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=47999&sort=pd.name&order=ASC) for $20.00
