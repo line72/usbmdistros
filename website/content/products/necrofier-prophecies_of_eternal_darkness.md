@@ -1,11 +1,10 @@
 ---
-actualPrice: $8.00 - 25.00
+actualPrice: $23.00 - 25.00
 album: Prophecies Of Eternal Darkness
 artist: Necrofier
 categories:
 - Vinyl
-- Cassette
-date: '2024-03-01T06:17:59'
+date: '2021-10-31T11:43:48'
 draft: false
 images:
 - /images/covers/necrofier-prophecies_of_eternal_darkness.jpg
@@ -17,5 +16,3 @@ title: Necrofier - Prophecies Of Eternal Darkness
 ## Vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/necrofier-prophecies-of-eternal-darkness-lp-1) for $23.00 :: Black 1st press vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/necrofier-prophecies-of-eternal-darkness-lp-1) for $25.00 :: Clear 1st press vinyl
-## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=22720&sort=pd.name&order=ASC) for $8.00
