@@ -1,10 +1,9 @@
 ---
-actualPrice: $12.00 - 25.00
+actualPrice: $13.00 - 25.00
 album: Immortal Nature
 artist: Armnatt
 categories:
 - Vinyl
-- Cassette
 - CD
 date: '2024-03-01T06:14:56'
 draft: false
@@ -18,7 +17,5 @@ title: Armnatt - Immortal Nature
 ## Vinyl
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/armnatt-immortal-nature-12-lp) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29899&sort=pd.name&order=ASC) for $20.00
-## Cassette
-* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/armnatt-immortal-nature-tape) for $12.00
 ## CD
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/armnatt-immortal-nature-cd) for $13.00

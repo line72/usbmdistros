@@ -4,7 +4,7 @@ album: Shadows of Iconoclasm
 artist: Darkthrone
 categories:
 - Vinyl
-date: '2024-03-01T06:15:09'
+date: '2024-03-12T05:32:23'
 draft: false
 images:
 - /images/covers/darkthrone-shadows_of_iconoclasm.jpg
@@ -14,4 +14,4 @@ title: Darkthrone - Shadows of Iconoclasm
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=47759&sort=pd.name&order=ASC) for $184.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=48215&sort=pd.name&order=ASC) for $184.00

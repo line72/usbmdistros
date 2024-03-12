@@ -14,5 +14,4 @@ title: Wampyric Rites - Rehearsal MMXXI
 ---
 
 ## Cassette
-* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/wampyric-rites-rehearsal-mmxxi-tape) for $12.00
 * Purchase from [Sto'Vo'Kor Records](https://stovokor-records.com/products/wampyric-rites-rehearsal-mmxxi-cassette) for $12.00

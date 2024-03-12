@@ -4,7 +4,7 @@ album: Forebyggende Krig
 artist: Darkthrone
 categories:
 - Vinyl
-date: '2024-03-01T06:16:21'
+date: '2024-03-12T05:33:30'
 draft: false
 images:
 - /images/covers/darkthrone-forebyggende_krig.jpg
@@ -14,4 +14,4 @@ title: Darkthrone - Forebyggende Krig
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=47397&sort=pd.name&order=ASC) for $32.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=48213&sort=pd.name&order=ASC) for $32.00

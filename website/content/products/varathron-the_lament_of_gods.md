@@ -4,7 +4,7 @@ album: The Lament of Gods
 artist: Varathron
 categories:
 - Vinyl
-date: '2024-03-01T06:16:10'
+date: '2024-03-12T05:33:20'
 draft: false
 images:
 - /images/covers/varathron-the_lament_of_gods.jpg
@@ -14,4 +14,4 @@ title: Varathron - The Lament of Gods
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=47518&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=48251&sort=pd.name&order=ASC) for $20.00
