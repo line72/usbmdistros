@@ -1,10 +1,10 @@
 ---
-actualPrice: $30.98
+actualPrice: $32.00 - 32.99
 album: Nova
 artist: SYLVAINE
 categories:
 - Vinyl
-date: '2023-11-19T16:41:59'
+date: '2024-03-15T05:27:54'
 draft: false
 images:
 - /images/covers/sylvaine-nova.jpg
@@ -14,4 +14,5 @@ title: SYLVAINE - Nova
 ---
 
 ## Vinyl
-* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/sylvaine-nova-lp-gatefold-colored-limited-to-400) for $30.98 :: LP Gatefold Colored - Limited to 400
+* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/sylvaine-nova-clear-transparent-ltd-400-vinyl-lp) for $32.99 :: Clear/Transparent LTD. 400 Vinyl LP
+* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/sylvaine-nova-blue-purple-marble-ltd-400-vinyl-lp) for $32.00 :: Blue/Purple/Marble - LTD. 400 Vinyl LP
