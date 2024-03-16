@@ -4,7 +4,7 @@ album: 30 Years of Agonizing the Dead
 artist: Sadistik Exekution
 categories:
 - Vinyl
-date: '2024-03-01T06:15:55'
+date: '2024-03-16T05:15:57'
 draft: false
 images:
 - /images/covers/sadistik_exekution-30_years_of_agonizing_the_dead.jpg
@@ -14,4 +14,4 @@ title: Sadistik Exekution - 30 Years of Agonizing the Dead
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=45432&sort=pd.name&order=ASC) for $18.20
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=48371&sort=pd.name&order=ASC) for $18.20

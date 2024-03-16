@@ -14,4 +14,5 @@ title: Hate Forest - Hour of the Centaur
 ---
 
 ## Vinyl
+* Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/hate-forest-hour-of-the-centaur-12-lp-blue-yellow/) for $25.00
 * Purchase from [Sto'Vo'Kor Records](https://stovokor-records.com/products/hate-forest-hour-of-the-centaur) for $25.00

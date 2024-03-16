@@ -1,10 +1,10 @@
 ---
-actualPrice: $24.00 - 25.00
+actualPrice: $24.00
 album: "J\xE4rtecken"
 artist: Fyrdung
 categories:
 - Vinyl
-date: '2024-02-19T06:20:45'
+date: '2023-11-20T23:05:48'
 draft: false
 images:
 - "/images/covers/fyrdung-j\xE4rtecken.jpg"
@@ -15,4 +15,3 @@ title: "Fyrdung - J\xE4rtecken"
 
 ## Vinyl
 * Purchase from [CW Productions](https://shop.cwproductions.net/products/fyrdung-jartecken-lp) for $24.00
-* Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/fyrdung-jartecken-12-lp-gold/) for $25.00
