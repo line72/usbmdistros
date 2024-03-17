@@ -1,5 +1,5 @@
 ---
-actualPrice: $7.80 - 26.00
+actualPrice: $7.80 - 19.50
 album: '...Again Shall Be'
 artist: Hades
 categories:
@@ -15,7 +15,6 @@ title: Hades - ...Again Shall Be
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=37383&sort=pd.name&order=ASC) for $26.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=45563&sort=pd.name&order=ASC) for $19.50
 ## Cassette
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=37378&sort=pd.name&order=ASC) for $7.80

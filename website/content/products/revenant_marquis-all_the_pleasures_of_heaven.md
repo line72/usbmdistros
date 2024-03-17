@@ -4,7 +4,7 @@ album: All the Pleasures of Heaven
 artist: Revenant Marquis
 categories:
 - Vinyl
-date: '2024-03-03T06:01:03'
+date: '2024-03-17T05:01:16'
 draft: false
 images:
 - /images/covers/revenant_marquis-all_the_pleasures_of_heaven.jpg

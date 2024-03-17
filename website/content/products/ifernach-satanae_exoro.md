@@ -4,7 +4,7 @@ album: Satanae Exoro
 artist: Ifernach
 categories:
 - Vinyl
-date: '2024-03-01T06:16:25'
+date: '2024-03-17T05:16:07'
 draft: false
 images:
 - /images/covers/ifernach-satanae_exoro.jpg
@@ -14,4 +14,4 @@ title: Ifernach - Satanae Exoro
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=43499&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=48397&sort=pd.name&order=ASC) for $12.00

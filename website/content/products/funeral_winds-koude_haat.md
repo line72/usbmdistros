@@ -4,7 +4,7 @@ album: Koude Haat
 artist: Funeral Winds
 categories:
 - Vinyl
-date: '2024-03-01T06:15:17'
+date: '2024-03-17T05:15:04'
 draft: false
 images:
 - /images/covers/funeral_winds-koude_haat.jpg
@@ -15,4 +15,4 @@ title: Funeral Winds - Koude Haat
 
 ## Vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/funeral-winds-koude-haat-lp) for $29.00 :: Black 2021 press vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29783&sort=pd.name&order=ASC) for $17.60
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=48410&sort=pd.name&order=ASC) for $17.60

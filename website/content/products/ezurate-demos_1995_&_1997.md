@@ -4,7 +4,7 @@ album: Demos 1995 & 1997
 artist: Ezurate
 categories:
 - Vinyl
-date: '2024-03-07T06:15:02'
+date: '2024-03-17T05:15:02'
 draft: false
 images:
 - /images/covers/ezurate-demos_1995_&_1997.jpg
@@ -14,4 +14,4 @@ title: Ezurate - Demos 1995 & 1997
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=48090&sort=pd.name&order=ASC) for $24.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=48402&sort=pd.name&order=ASC) for $24.00
