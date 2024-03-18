@@ -1,5 +1,5 @@
 ---
-actualPrice: $12.00 - 15.00
+actualPrice: $12.00
 album: Excommunication
 artist: Excommunication
 categories:
@@ -14,5 +14,4 @@ title: Excommunication - Excommunication
 ---
 
 ## Vinyl
-* Purchase from [CW Productions](https://shop.cwproductions.net/products/excommunication-excommunication-7) for $15.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=47686&sort=pd.name&order=ASC) for $12.00

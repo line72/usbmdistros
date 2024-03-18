@@ -14,5 +14,4 @@ title: Grifteskymfning - Demo 08
 ---
 
 ## Vinyl
-* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/grifteskymfning-demo-08-12-lp) for $25.00
 * Purchase from [CW Productions](https://shop.cwproductions.net/products/grifteskymfning-demo-08-lp) for $25.00

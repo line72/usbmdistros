@@ -1,5 +1,5 @@
 ---
-actualPrice: $9.60 - 10.00
+actualPrice: $9.60
 album: The Celtic Winter
 artist: Graveland
 categories:
@@ -14,5 +14,4 @@ title: Graveland - The Celtic Winter
 ---
 
 ## CD
-* Purchase from [CW Productions](https://shop.cwproductions.net/products/graveland-the-celtic-winter-cd) for $10.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=39724&sort=pd.name&order=ASC) for $9.60

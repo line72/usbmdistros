@@ -1,5 +1,5 @@
 ---
-actualPrice: $3.25 - 15.00
+actualPrice: $3.25
 album: "\xC6.Thy.Rift"
 artist: Ill Omen
 categories:
@@ -14,5 +14,4 @@ title: "Ill Omen - \xC6.Thy.Rift"
 ---
 
 ## Vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/ill-omen-ae-thy-rift) for $15.00 :: Grey Die Hard
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=45856&sort=pd.name&order=ASC) for $3.25

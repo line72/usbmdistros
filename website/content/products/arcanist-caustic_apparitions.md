@@ -14,5 +14,4 @@ title: Arcanist - Caustic Apparitions
 ---
 
 ## Vinyl
-* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/arcanist-caustic-apparitions-12-lp) for $22.00
 * Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/arcanist-caustic-apparitions-lp-vinyl-lim-300) for $22.00 :: (lim.300)

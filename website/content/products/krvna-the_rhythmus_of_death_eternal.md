@@ -4,7 +4,7 @@ album: The Rhythmus of Death Eternal
 artist: Krvna
 categories:
 - CD
-date: '2024-03-01T06:17:05'
+date: '2024-03-18T05:18:03'
 draft: false
 images:
 - /images/covers/krvna-the_rhythmus_of_death_eternal.jpg
@@ -14,4 +14,4 @@ title: Krvna - The Rhythmus of Death Eternal
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=46490&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=48454&sort=pd.name&order=ASC) for $12.00

@@ -4,7 +4,7 @@ album: K'aahz Menoh
 artist: Pyreficativm
 categories:
 - CD
-date: '2024-03-01T06:17:21'
+date: '2024-03-18T05:18:21'
 draft: false
 images:
 - /images/covers/pyreficativm-k'aahz_menoh.jpg
@@ -14,4 +14,4 @@ title: Pyreficativm - K'aahz Menoh
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=43834&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=48458&sort=pd.name&order=ASC) for $12.00

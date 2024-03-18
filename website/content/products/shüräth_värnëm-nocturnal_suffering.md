@@ -1,5 +1,5 @@
 ---
-actualPrice: $9.60 - 15.00
+actualPrice: $9.60
 album: Nocturnal Suffering
 artist: "Sh\xFCr\xE4th V\xE4rn\xEBm"
 categories:
@@ -14,5 +14,4 @@ title: "Sh\xFCr\xE4th V\xE4rn\xEBm - Nocturnal Suffering"
 ---
 
 ## Cassette
-* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/shurath-varnem-nocturnal-suffering-tape) for $15.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=22387&sort=pd.name&order=ASC) for $9.60
