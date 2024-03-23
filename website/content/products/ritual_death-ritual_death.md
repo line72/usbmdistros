@@ -1,11 +1,10 @@
 ---
-actualPrice: $12.00 - 20.00
+actualPrice: $20.00
 album: Ritual Death
 artist: Ritual Death
 categories:
 - Vinyl
-- CD
-date: '2024-03-01T06:17:23'
+date: '2024-03-01T06:15:54'
 draft: false
 images:
 - /images/covers/ritual_death-ritual_death.jpg
@@ -16,5 +15,3 @@ title: Ritual Death - Ritual Death
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=31468&sort=pd.name&order=ASC) for $20.00
-## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=31513&sort=pd.name&order=ASC) for $12.00

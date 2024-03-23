@@ -4,7 +4,7 @@ album: Arogantni Nihilizam
 artist: Obskuritatem
 categories:
 - Vinyl
-date: '2024-03-02T06:14:45'
+date: '2024-03-23T05:14:48'
 draft: false
 images:
 - /images/covers/obskuritatem-arogantni_nihilizam.jpg
@@ -15,4 +15,4 @@ title: Obskuritatem - Arogantni Nihilizam
 
 ## Vinyl
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/obskuritatem-arogantni-nihilizam-2xlp) for $33.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=34908&sort=pd.name&order=ASC) for $26.40
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=48530&sort=pd.name&order=ASC) for $26.40

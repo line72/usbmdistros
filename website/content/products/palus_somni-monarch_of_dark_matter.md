@@ -1,5 +1,5 @@
 ---
-actualPrice: $11.20 - 20.00
+actualPrice: $11.20
 album: Monarch of Dark Matter
 artist: Palus Somni
 categories:
@@ -15,4 +15,3 @@ title: Palus Somni - Monarch of Dark Matter
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=39757&sort=pd.name&order=ASC) for $11.20
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/palus-somni-monarch-of-dark-matter-lp) for $20.00 :: Black 2021 press vinyl

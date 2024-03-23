@@ -4,7 +4,7 @@ album: U Kraljevstvu Mrtvih...
 artist: Obskuritatem
 categories:
 - CD
-date: '2024-03-01T06:17:17'
+date: '2024-03-23T05:16:13'
 draft: false
 images:
 - /images/covers/obskuritatem-u_kraljevstvu_mrtvih....jpg
@@ -14,4 +14,4 @@ title: Obskuritatem - U Kraljevstvu Mrtvih...
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=34911&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=48532&sort=pd.name&order=ASC) for $12.00
