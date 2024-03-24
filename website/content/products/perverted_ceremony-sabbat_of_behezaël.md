@@ -4,7 +4,7 @@ album: "Sabbat of Beheza\xEBl"
 artist: Perverted Ceremony
 categories:
 - Vinyl
-date: '2024-03-01T06:15:50'
+date: '2024-03-24T05:15:34'
 draft: false
 images:
 - "/images/covers/perverted_ceremony-sabbat_of_beheza\xEBl.jpg"
@@ -14,4 +14,4 @@ title: "Perverted Ceremony - Sabbat of Beheza\xEBl"
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=45985&sort=pd.name&order=ASC) for $13.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=48650&sort=pd.name&order=ASC) for $13.00

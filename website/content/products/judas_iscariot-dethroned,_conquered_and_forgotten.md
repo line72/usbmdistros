@@ -4,7 +4,7 @@ album: Dethroned, Conquered And Forgotten
 artist: Judas Iscariot
 categories:
 - Vinyl
-date: '2024-03-19T05:15:11'
+date: '2024-03-24T05:15:16'
 draft: false
 images:
 - /images/covers/judas_iscariot-dethroned,_conquered_and_forgotten.jpg
@@ -14,4 +14,4 @@ title: Judas Iscariot - Dethroned, Conquered And Forgotten
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=48465&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=48627&sort=pd.name&order=ASC) for $25.00
