@@ -16,6 +16,5 @@ title: Mooncitadel - Onyx Castles And Silver Keys
 
 ## Vinyl
 * Purchase from [CW Productions](https://shop.cwproductions.net/products/mooncitadel-onyx-castles-and-silver-keys-lp-1) for $24.00
-* Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/mooncitadel-onyx-castles-and-silver-keys-12-mlp/) for $18.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=35172&sort=pd.name&order=ASC) for $9.60

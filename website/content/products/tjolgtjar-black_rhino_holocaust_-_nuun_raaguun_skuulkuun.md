@@ -1,10 +1,9 @@
 ---
-actualPrice: $4.00 - 9.60
+actualPrice: $9.60
 album: Black Rhino Holocaust / Nuun Raaguun Skuulkuun
 artist: Tjolgtjar
 categories:
 - Vinyl
-- Cassette
 date: '2024-03-01T06:16:06'
 draft: false
 images:
@@ -16,5 +15,3 @@ title: Tjolgtjar - Black Rhino Holocaust / Nuun Raaguun Skuulkuun
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=39644&sort=pd.name&order=ASC) for $9.60
-## Cassette
-* Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/36558028-tjolgtjar-black-rhino-holocaust-nuun-raaguun-skuulkuun) for $4.00

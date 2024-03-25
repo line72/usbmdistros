@@ -4,7 +4,7 @@ album: Bosoragazan
 artist: Odz Manouk
 categories:
 - Vinyl
-date: '2024-02-14T06:01:07'
+date: '2024-03-25T05:01:24'
 draft: false
 images:
 - /images/covers/odz_manouk-bosoragazan.jpg
