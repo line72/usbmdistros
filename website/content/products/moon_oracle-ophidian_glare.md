@@ -1,10 +1,9 @@
 ---
-actualPrice: $14.00 - 20.00
+actualPrice: $20.00
 album: Ophidian Glare
 artist: Moon Oracle
 categories:
 - Vinyl
-- CD
 date: '2024-03-01T06:15:39'
 draft: false
 images:
@@ -16,5 +15,3 @@ title: Moon Oracle - Ophidian Glare
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=41080&sort=pd.name&order=ASC) for $20.00
-## CD
-* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/moon-oracle-ophidian-glare-cd) for $14.00

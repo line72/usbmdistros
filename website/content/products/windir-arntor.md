@@ -5,7 +5,7 @@ artist: Windir
 categories:
 - Vinyl
 - CD
-date: '2024-01-26T01:44:34'
+date: '2024-03-26T05:27:38'
 draft: false
 images:
 - /images/covers/windir-arntor.jpg
@@ -17,5 +17,6 @@ title: Windir - Arntor
 ## Vinyl
 * Purchase from [Sto'Vo'Kor Records](https://stovokor-records.com/products/windir-arntor) for $29.00
 * Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/windir-arntor-vinyl-2xlp-gatefold) for $40.00 :: (gatefold, lim.300)
+* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/windir-arntor-limited-double-white-vinyl-dlp) for $38.99 :: Limited Double White Vinyl DLP
 ## CD
 * Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/windir-arntor-cd) for $14.00

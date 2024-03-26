@@ -4,7 +4,7 @@ album: Adore
 artist: Numenorean
 categories:
 - Vinyl
-date: '2023-11-19T16:35:11'
+date: '2024-03-26T05:27:38'
 draft: false
 images:
 - /images/covers/numenorean-adore.jpg
@@ -14,4 +14,4 @@ title: Numenorean - Adore
 ---
 
 ## Vinyl
-* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/numenorean-adore-ltd-200-transparent-blue-lp-gatefold-colored) for $29.00 :: LTD 200 Transparent Blue LP Gatefold Colored
+* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/numenorean-adore-ltd-200-transparent-blue-lp-gatefold-colored-1) for $29.00 :: LTD 200 Transparent Blue LP Gatefold Colored
