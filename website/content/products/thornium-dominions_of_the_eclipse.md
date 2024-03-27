@@ -5,7 +5,7 @@ artist: Thornium
 categories:
 - Vinyl
 - CD
-date: '2024-03-24T05:17:09'
+date: '2024-03-27T05:16:22'
 draft: false
 images:
 - /images/covers/thornium-dominions_of_the_eclipse.jpg
@@ -16,6 +16,6 @@ title: Thornium - Dominions Of The Eclipse
 
 ## Vinyl
 * Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/thornium-dominions-of-the-eclipse-vinyl-lp-gatefold) for $29.99 :: (double LP gatefold)
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=48569&sort=pd.name&order=ASC) for $24.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=48795&sort=pd.name&order=ASC) for $24.00
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=48568&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=48794&sort=pd.name&order=ASC) for $12.00

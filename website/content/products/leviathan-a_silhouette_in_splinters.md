@@ -4,7 +4,7 @@ album: A Silhouette In Splinters
 artist: Leviathan
 categories:
 - Vinyl
-date: '2024-03-01T06:15:32'
+date: '2024-03-27T05:14:32'
 draft: false
 images:
 - /images/covers/leviathan-a_silhouette_in_splinters.jpg
@@ -14,4 +14,4 @@ title: Leviathan - A Silhouette In Splinters
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=47762&sort=pd.name&order=ASC) for $28.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=48746&sort=pd.name&order=ASC) for $28.00
