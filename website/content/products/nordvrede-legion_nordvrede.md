@@ -1,10 +1,10 @@
 ---
-actualPrice: $28.00
+actualPrice: $25.00
 album: Legion Nordvrede
 artist: Nordvrede
 categories:
 - Vinyl
-date: '2023-12-17T13:21:00'
+date: '2024-03-28T05:17:53'
 draft: false
 images:
 - /images/covers/nordvrede-legion_nordvrede.jpg
@@ -14,4 +14,4 @@ title: Nordvrede - Legion Nordvrede
 ---
 
 ## Vinyl
-* Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/nordvrede-legion-nordvrede-12-gatefold-lp/) for $28.00
+* Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/nordvrede-legion-nordvrede-12-gatefold-lp/) for $25.00

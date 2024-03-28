@@ -1,10 +1,10 @@
 ---
-actualPrice: $14.00 - 40.00
+actualPrice: $14.00
 album: An Alignment of Dead Stars
 artist: Drowning The Light
 categories:
 - CD
-date: '2024-03-27T05:15:42'
+date: '2023-07-24T05:13:14'
 draft: false
 images:
 - /images/covers/drowning_the_light-an_alignment_of_dead_stars.jpg
@@ -15,4 +15,3 @@ title: Drowning The Light - An Alignment of Dead Stars
 
 ## CD
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/drowning-the-light-an-alignment-of-dead-stars-cd) for $14.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=48778&sort=pd.name&order=ASC) for $40.00
