@@ -1,0 +1,23 @@
+---
+actualPrice: $15.00 - 26.00
+album: Black Metal Cult
+artist: "M\xFCtiilation"
+categories:
+- Vinyl
+- Cassette
+- CD
+date: '2024-03-30T05:01:49'
+draft: false
+images:
+- "/images/covers/m\xFCtiilation-black_metal_cult.jpg"
+inStock: true
+thumbnailImage: "/images/covers/m\xFCtiilation-black_metal_cult-thumb.jpg"
+title: "M\xFCtiilation - Black Metal Cult"
+---
+
+## Vinyl
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/mutiilation-black-metal-cult-12-lp) for $26.00
+## Cassette
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/mutiilation-black-metal-cult-tape) for $15.00
+## CD
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/mutiilation-black-metal-cult-cd) for $15.00
