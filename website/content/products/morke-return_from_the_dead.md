@@ -1,5 +1,5 @@
 ---
-actualPrice: $16.00 - 20.00
+actualPrice: $16.00
 album: Return from the Dead
 artist: Morke
 categories:
@@ -14,5 +14,4 @@ title: Morke - Return from the Dead
 ---
 
 ## Vinyl
-* Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/morke-return-from-the-dead-10-mlp/) for $20.00
 * Purchase from [CW Productions](https://shop.cwproductions.net/products/morke-return-from-the-dead-11) for $16.00

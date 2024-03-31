@@ -15,6 +15,7 @@ title: Kataxu - Hunger of Elements
 ---
 
 ## Vinyl
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=47712&sort=pd.name&order=ASC) for $20.00
 * Purchase from [CW Productions](https://shop.cwproductions.net/products/kataxu-hunger-of-elements-lp) for $25.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=47711&sort=pd.name&order=ASC) for $9.60

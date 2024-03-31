@@ -1,5 +1,5 @@
 ---
-actualPrice: $30.99 - 35.00
+actualPrice: $30.99 - 32.99
 album: American Gothic
 artist: Wayfarer
 categories:
@@ -14,7 +14,6 @@ title: Wayfarer - American Gothic
 ---
 
 ## Vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/wayfarer-american-gothic-lp-1) for $35.00 :: Color 2024 press vinyl
 * Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/wayfarer-american-gothic-black-white-silver-colour-mix-w-gold-splatter-vinyl-lp) for $32.99 :: Black, White, Silver Colour Mix w/Gold Splatter Vinyl LP
 * Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/wayfarer-american-gothic-cloudy-molten-gold-vinyl-lp) for $32.99 :: Cloudy Molten Gold Vinyl LP
 * Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/wayfarer-american-gothic-oilfield-massacre-vinyl-lp) for $30.99 :: Oilfield Massacre Vinyl LP
