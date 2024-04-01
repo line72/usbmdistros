@@ -1,10 +1,10 @@
 ---
-actualPrice: $7.50
+actualPrice: $4.00
 album: Chains & Blood
 artist: Obliti Devoravit
 categories:
 - Cassette
-date: '2023-01-02T06:02:43'
+date: '2024-04-01T05:03:57'
 draft: false
 images:
 - /images/covers/obliti_devoravit-chains_&_blood.jpg
@@ -14,4 +14,4 @@ title: Obliti Devoravit - Chains & Blood
 ---
 
 ## Cassette
-* Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/36347971-obliti-devoravit-chains-blood) for $7.50
+* Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/36347971-obliti-devoravit-chains-blood) for $4.00

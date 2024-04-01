@@ -1,10 +1,10 @@
 ---
-actualPrice: $10.50
+actualPrice: $8.50
 album: Apechtheia
 artist: Chestcrush
 categories:
 - Cassette
-date: '2023-01-02T06:02:43'
+date: '2024-04-01T05:03:57'
 draft: false
 images:
 - /images/covers/chestcrush-apechtheia.jpg
@@ -14,4 +14,4 @@ title: Chestcrush - Apechtheia
 ---
 
 ## Cassette
-* Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/36347962-chestcrush-apechtheia) for $10.50
+* Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/36347962-chestcrush-apechtheia) for $8.50

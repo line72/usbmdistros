@@ -1,5 +1,5 @@
 ---
-actualPrice: $15.00 - 35.00
+actualPrice: $15.00 - 27.00
 album: The Temple
 artist: The Temple
 categories:
@@ -16,6 +16,5 @@ title: The Temple - The Temple
 
 ## Vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/the-temple-the-temple-lp) for $27.00 :: Black 2022 press vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/the-temple-the-temple-lp) for $35.00 :: Galaxy 2022 press vinyl
 ## CD
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/the-temple-the-temple-cd) for $15.00 :: CD 2022

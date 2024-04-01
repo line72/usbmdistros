@@ -4,8 +4,7 @@ album: Black Metal Cult
 artist: "M\xFCtiilation"
 categories:
 - Cassette
-- CD
-date: '2024-03-30T05:01:49'
+date: '2024-03-30T05:01:40'
 draft: false
 images:
 - "/images/covers/m\xFCtiilation-black_metal_cult.jpg"
@@ -16,5 +15,3 @@ title: "M\xFCtiilation - Black Metal Cult"
 
 ## Cassette
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/mutiilation-black-metal-cult-tape) for $15.00
-## CD
-* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/mutiilation-black-metal-cult-cd) for $15.00
