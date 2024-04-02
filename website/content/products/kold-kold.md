@@ -1,16 +1,16 @@
 ---
 actualPrice: $11.00
-album: S/T
+album: Kold
 artist: Kold
 categories:
 - Cassette
-date: '2021-12-29T06:11:26'
+date: '2024-04-02T05:23:48'
 draft: false
 images:
-- /images/covers/kold-s-t.png
+- /images/covers/kold-kold.jpg
 inStock: true
-thumbnailImage: /images/covers/kold-s-t-thumb.png
-title: Kold - S/T
+thumbnailImage: /images/covers/kold-kold-thumb.jpg
+title: Kold - Kold
 ---
 
 ## Cassette
