@@ -15,7 +15,6 @@ title: Nightbringer - Apocalypse Sun
 ---
 
 ## Vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/used-nightbringer-apocalypse-sun-2xlp) for $30.00 :: Black 2013 press vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=33425&sort=pd.name&order=ASC) for $24.00
 * Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/nightbringer-apocalypse-sun-vinyl-2xlp-double-lp-color-insert) for $30.00 :: (double LP, color, insert)
 ## CD
