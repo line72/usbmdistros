@@ -1,12 +1,11 @@
 ---
-actualPrice: $7.80 - 19.50
+actualPrice: $7.80 - 12.00
 album: Thorns of Impurity
 artist: Lord Kaos
 categories:
-- Vinyl
 - Cassette
 - CD
-date: '2024-04-05T05:14:10'
+date: '2024-03-12T05:35:01'
 draft: false
 images:
 - /images/covers/lord_kaos-thorns_of_impurity.jpg
@@ -15,8 +14,6 @@ thumbnailImage: /images/covers/lord_kaos-thorns_of_impurity-thumb.jpg
 title: Lord Kaos - Thorns of Impurity
 ---
 
-## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=48952&sort=pd.name&order=ASC) for $19.50
 ## Cassette
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=48273&sort=pd.name&order=ASC) for $7.80
 ## CD
