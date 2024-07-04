@@ -35,7 +35,7 @@ def go():
         libbmdistro.parsers.ArcaneAltar(stores['arcane-altar'], 'https://arcanealtar.bigcartel.com/category/tapes.xml'),
         libbmdistro.parsers.ArcaneAltar(stores['arcane-altar'], 'https://arcanealtar.bigcartel.com/category/cds.xml'),
         libbmdistro.parsers.DebemurMorti(stores['debemur-morti'], 'https://debemurmorti.aisamerch.com/c/music-video'),
-        libbmdistro.parsers.Caligari(stores['caligari'], 'https://caligarirecords.storenvy.com/products.json'),
+        # libbmdistro.parsers.Caligari(stores['caligari'], 'https://caligarirecords.storenvy.com/products.json'),
         libbmdistro.parsers.NWN(stores['nwn'], 'https://shop.nwnprod.com/index.php'),
         libbmdistro.parsers.MetalToTheCore1986(stores['metal-to-the-core-1986'], 'https://metaltothecore1986.com/wp-json/wc/store/products'),
         libbmdistro.parsers.MeteorGem(stores['meteor-gem'], 'https://meteor-gem.com/products.json'),
