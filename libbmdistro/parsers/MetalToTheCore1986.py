@@ -37,16 +37,18 @@ class MetalToTheCore1986(Parser):
     def parseItem(self, db, entry):
         pId = entry['sku']
 
+        description = entry['name']
+        artist, title, extra, item_type = self.predictor.predict(description)
+        
+        if artist is None or title is None:
+            self.failure(description, artist, title, item_type)
+            return None
+
         item_type = self.parse_category(entry['categories'])
         # filter out item types we don't want
         if item_type == None:
             return None
         
-        at = self.split_artist_title(entry['name'], item_type)
-        if not at:
-            return None
-        
-        artist, title = at
         price = int(entry['prices']['price'])
         link = entry['permalink']
 
@@ -56,70 +58,7 @@ class MetalToTheCore1986(Parser):
         for img in images:
             db.add_cover(album, img)
         
-        return Product(None, pId, album, self.store, link, item_type, price, Product.STOCK_UNKNOWN, -1)
-        
-
-    def split_artist_title(self, t, item_type):
-        r = re.compile(r'^\s*(.*?)\s+&#8211;\s+(.*?)\s*$')
-
-        # The Voice of Steel 12″ GATEFOLD DOUBLE LP BLUE/YELLOW
-        # Sang Nordique 12″ DOUBLE LP CLEAR WITH BLACK AND WHITE SPLATTER
-        # Tentacles of Whorror 12″ GATEFOLD DOUBLE LP WHITE WITH RED SPLATTER
-        # De Mysteriis Dom Sathanas 12″ GATEFOLD LP PURPLE
-        
-        known_types = [
-            re.compile(r'^(.*?)\s+MCD\s*$'),
-            re.compile(r'^(.*?)\s+CD\s*$'),
-            re.compile(r'^(.*?)\s+CD\s+\[.*\]\s*$'),
-            re.compile(r'^(.*?)\s+\d+CD\s+BOX\s+SET\s*$'),
-            re.compile(r'^(.*?)\s+CASSETTE\s*$'),
-            re.compile(r'^(.*?)\s+CASSETTE\s+\[.*\]\s*$'),
-            re.compile(r'^(.*?)\s+\d+"\s+EP\s*$'),
-            re.compile(r'^(.*?)\s+\d+″\s+EP\s*$'),
-            re.compile(r'^(.*?)\s+\d+"\s+EP\s+.*$'),
-            re.compile(r'^(.*?)\s+\d+″\s+EP\s+.*$'),
-            re.compile(r'^(.*?)\s+\d+"\s+GATEFOLD\s+[LE]P\s*$'),
-            re.compile(r'^(.*?)\s+\d+″\s+GATEFOLD\s+[LE]P\s*$'),
-            re.compile(r'^(.*?)\s+\d+"\s+GATEFOLD\s+[LE]P\s+.*$'),
-            re.compile(r'^(.*?)\s+\d+″\s+GATEFOLD\s+[LE]P\s+.*$'),
-            re.compile(r'^(.*?)\s+\d+″\s+GATEFOLD\s+DOUBLE\s+LP\s+[A-Z/\s]+\s*$'),
-            re.compile(r'^(.*?)\s+\d+″\s+DOUBLE\s+LP\s+[A-Z/\s]+\s*$'),
-            re.compile(r'^(.*?)\s+\d+"\s+LP\s+[A-Z\s/]+\s*$'),
-            re.compile(r'^(.*?)\s+\d+″\s+LP\s*[A-Z\s/]+\s*$'),
-            re.compile(r'^(.*?)\s+\d+″\s+[A-Z\s/]+\s+LP\s*$'),
-            re.compile(r'^(.*?)\s+\d+"\s+LP\s*$'),
-            re.compile(r'^(.*?)\s+\d+"\s+MLP\s*$'),
-            re.compile(r'^(.*?)\s+\d+″\s+LP\s*$'),
-            re.compile(r'^(.*?)\s+\d+″\s+MLP\s*$'),
-            re.compile(r'^(.*?)\s+CD\s+/\s+DVD\s*$'),
-            re.compile(r'^(.*?)\s+CD\s+\+\s+DVD\s*$'),
-            re.compile(r'^(.*?)\s+CD\s+IN\s+DVD\s+CASE\s*$'),
-            re.compile(r'^(.*?)\s+CD\s+IN\s+CLOTH\s+BAG\s*$'),
-            re.compile(r'^(.*?)\s+CASSETTE\s+IN\s+BAG\s*$'),
-            re.compile(r'^(.*?)\s+CASSETTE\s+\*\*\s+PRE-ORDER.*\s*\*\*\s*$'),
-            re.compile(r'^(.*?)\s+2014\s*$'),
-        ]
-        
-        #print('artist/title', t)
-        if (match := re.match(r, t)) != None:
-            artist = match.group(1).strip()
-            artist = html.unescape(artist)
-            artist = artist.title()
-
-            # deal with the rest...
-            #  convert any html codes to regular unicode
-            rest = html.unescape(match.group(2))
-
-            for kt in known_types:
-                if (m := re.match(kt, rest)) != None:
-                    album = m.group(1).strip()
-
-                    return (artist, album)
-
-            raise Exception(f'Unable to parse rest: {rest}')
-
-        print(f'Unable to parse: {t}')
-        return None
+        return Product(None, pId, album, self.store, link, item_type, price, Product.STOCK_UNKNOWN, -1, extra)
 
     def parse_category(self, c):
         for cat in c:

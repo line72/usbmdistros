@@ -104,8 +104,18 @@ class NWN(Parser):
         try:
             p_id = self.parse_id(entry.find('div', 'button-group').button['onclick'])
             url = entry.find('div', 'image').a['href'].strip()
+
             artist_title = entry.find('div', 'caption').h4.a.text.strip()
-            artist, title = self.parse_aritst_album(artist_title)
+        
+            # create a custom description from several fields
+            description = f"{artist_title} | {t}"
+
+            artist, title, extra, item_type = self.predictor.predict(description)
+            
+            if artist is None or title is None or item_type not in ('Vinyl', 'CD', 'Cassette'):
+                self.failure(description, artist, title, item_type)
+                return None
+            
             price = int(float(self.parse_price(entry.find('p', 'price').text.strip())) * 100)
 
             img_url = entry.find('div', 'image').a.img['src'].strip()
@@ -115,7 +125,6 @@ class NWN(Parser):
             
             return Product(None, p_id, album, self.store, url, t, price, Product.STOCK_UNKNOWN, -1, '')
         except Exception as e:
-            print(e)
             return None
 
     def parse_price(self, p):
@@ -124,13 +133,6 @@ class NWN(Parser):
             return match.group(1)
 
         raise Exception(f'Error parsing price {p} {[ord(x) for x in p]}')
-
-    def parse_aritst_album(self, p):
-        r = re.compile(r'^\s*(.*?)\s+[\"\“](.*?)[\"\”]\s+.*?$')
-        if (match := re.match(r, p)) != None:
-            return (match.group(1), match.group(2))
-
-        raise Exception(f'Error parsing artist/album {p}')
 
     def parse_id(self, p):
         r = re.compile(r"^\s*cart\.add\('(\d+)',\s+'\d+'\);\s*$")
