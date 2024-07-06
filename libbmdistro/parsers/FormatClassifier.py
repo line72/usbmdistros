@@ -22,9 +22,11 @@ classifications = {
     "7’’": 'Vinyl',
     '7" ep': 'Vinyl',
     "7’’ ep": 'Vinyl',
+    'vinyl': 'Vinyl',
     'cd': 'CD',
     'tape': 'Cassette',
     'tapes': 'Cassette',
+    'cassette': 'Cassette',
 }
     
 def classify(text):

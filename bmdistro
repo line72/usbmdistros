@@ -28,7 +28,7 @@ def go():
     }
 
     parsers = [
-        # libbmdistro.parsers.StoVoKor(stores['stovokor'], 'https://stovokor-records.com/products.json', predictor),
+        libbmdistro.parsers.StoVoKor(stores['stovokor'], 'https://stovokor-records.com/products.json', predictor),
         libbmdistro.parsers.ArcaneAltar(stores['arcane-altar'], 'https://arcanealtar.bigcartel.com/category/12-vinyl.xml', predictor),
         libbmdistro.parsers.ArcaneAltar(stores['arcane-altar'], 'https://arcanealtar.bigcartel.com/category/10-vinyl.xml', predictor),
         libbmdistro.parsers.ArcaneAltar(stores['arcane-altar'], 'https://arcanealtar.bigcartel.com/category/7-vinyl.xml', predictor),

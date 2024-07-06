@@ -39,10 +39,10 @@ class StoVoKor(Parser):
         pId = entry['id']
 
         description = f"{entry['title']} - {entry['product_type']}"
-        artist, title = self.predictor.predict(description)
+        artist, title, extra, item_type = self.predictor.predict(description)
 
         if artist is None or title is None:
-            self.failure(description)
+            self.failure(description, artist, title, item_type)
             return None
         
         item_type = self.parse_item_type(entry)
