@@ -46,9 +46,18 @@ class DebemurMorti(Parser):
         # </li>
 
         artist = entry.find('div', 'p').strong.text
-        album, description = self.parse_album(entry.find('div', 'p').find('a').text)
+        album = entry.find('div', 'p').find('a').text
         category = entry.find('a', 'cat')['href']
+        
+        # create a custom description from several fields
+        description = f"{artist} | {album} | {category}"
 
+        artist, title, extra, item_type = self.predictor.predict(description)
+
+        if artist is None or title is None or item_type not in ('Vinyl', 'CD', 'Cassette'):
+            self.failure(description, artist, title, item_type)
+            return None
+        
         # sometimes the price is in a <strong></strong>, sometimes it isn't
         if entry.find('div', 'price').strong:
             price = int(float(self.parse_price(entry.find('div', 'price').strong.text)) * 100)
@@ -65,19 +74,13 @@ class DebemurMorti(Parser):
         in_stock = Product.STOCK_UNKNOWN
         quantity = -1
 
-        try:
-            item_type = self.get_item_type(category)
-        except Exception as e:
-            print(f'DebemurMorti: Error parsing {artist} {album} - {url}', file = sys.stderr)
-            raise e;
-
         # use the url as the id
         pId = link
         
         album = db.get_album(artist, album)
         db.add_cover(album, img_url)
         
-        return Product(None, pId, album, self.store, url, item_type, price, in_stock, quantity, description)
+        return Product(None, pId, album, self.store, url, item_type, price, in_stock, quantity, extra)
 
     def parse_price(self, p):
         r = re.compile(r'^\s*\$(\d+\.\d+)\s*.*$')
@@ -85,36 +88,3 @@ class DebemurMorti(Parser):
             return match.group(1)
 
         raise Exception(f'Error parsing price {p} {[ord(x) for x in p]}')
-
-    def parse_album(self, a):
-        # Some albums have a description in parens at the end
-        #  indicating a variant, try to pull that out.
-        r = re.compile(r'^\s*(.*?)(?:\s+\((.+?)\)\s*)?$')
-        if (match := re.match(r, a)) != None:
-            album, description = (match.group(1), match.group(2))
-            if not description:
-                description = ''
-
-            return (album, description.strip())
-
-        raise Exception(f'Error parsing album {a} {[ord(x) for x in a]}')
-    
-    def get_item_type(self, category):
-        if category == '/category/26':
-            return 'CD'
-        elif category == '/category/267':
-            return 'CD'
-        elif category == '/category/250':
-            return 'Vinyl'
-        elif category == '/category/251':
-            return 'Vinyl'
-        elif category == '/category/261':
-            return 'Vinyl'
-        elif category == '/category/263':
-            return 'Vinyl'
-        elif category == '/category/353':
-            return 'Vinyl'
-        elif category == '/category/303':
-            return 'Cassette'
-        else:
-            raise Exception(f'Unknown category type {category}')

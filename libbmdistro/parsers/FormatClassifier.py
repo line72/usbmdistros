@@ -27,6 +27,14 @@ classifications = {
     'tape': 'Cassette',
     'tapes': 'Cassette',
     'cassette': 'Cassette',
+    '/category/26': 'CD',
+    '/category/267': 'CD',
+    '/category/250': 'Vinyl',
+    '/category/251': 'Vinyl',
+    '/category/261': 'Vinyl',
+    '/category/263': 'Vinyl',
+    '/category/353': 'Vinyl',
+    '/category/303': 'Cassette',
 }
     
 def classify(text):
