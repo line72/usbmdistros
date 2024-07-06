@@ -13,5 +13,5 @@ class Parser:
     def parse(self, db):
         return []
 
-    def failure(self, description):
-        self.failures.append(description)
+    def failure(self, description, artist, title, format_):
+        self.failures.append((description, artist, title, format_))

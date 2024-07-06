@@ -15,3 +15,5 @@ node_modules
 
 album_model
 artist_model
+format_model
+extra_model

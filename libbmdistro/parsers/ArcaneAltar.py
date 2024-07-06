@@ -11,44 +11,6 @@ from .Parser import Parser
 from ..Product import Product
 
 class ArcaneAltar(Parser):
-    def __init__(self, store, feed):
-        super().__init__(store, feed)
-
-        # known suffixes:
-        # - 12" LP
-        # - 7" EP
-        # - 7’’ EP
-        # - 2xLP
-        # - 2x10" MLP
-        # - CD
-        # - Tape
-        self.retests = [
-            ('12', 'Vinyl', re.compile(r'^\s*(.*?)\s+12"$')),
-            ('12lp', 'Vinyl', re.compile(r'^\s*(.*?)\s+12"\s+LP$')),
-            ('12lp with booklet', 'Vinyl', re.compile(r'^\s*(.*?)\s+12"\s+LP\s+\+\s+Booklet$')),
-            ('12lp with extra', 'Vinyl', re.compile(r'^\s*(.*?)\s+12"\s+LP\s+\(.*?\)$')),
-            ('12sslp', 'Vinyl', re.compile(r'^\s*(.*?)\s+SS12"\s+LP$')),
-            ('lp', 'Vinyl', re.compile(r'^\s*(.*?)\s+LP$')),
-            ('12mlp', 'Vinyl', re.compile(r'^\s*(.*?)\s+12"\s+MLP$')),
-            ('10mlp', 'Vinyl', re.compile(r'^\s*(.*?)\s+10"\s+MLP$')),
-            ('10mlp', 'Vinyl', re.compile(r'^\s*(.*?)\s+10"$')),
-            ('10mlp', 'Vinyl', re.compile(r'^\s*(.*?)\s+10″$')),
-            ('7ep', 'Vinyl', re.compile(r'^\s*(.*?)\s+7"\s+EP$')),
-            ('7ep', 'Vinyl', re.compile(r'^\s*(.*?)\s+7’’\s+EP$')),
-            ('7ep', 'Vinyl', re.compile(r'^\s*(.*?)\s+7″\s+EP$')),
-            ('7ep', 'Vinyl', re.compile(r'^\s*(.*?)\s+7”\s+EP$')),
-            ('2xlp', 'Vinyl', re.compile(r'^\s*(.*?)\s+\dxLP$')),
-            ('5xlp', 'Vinyl', re.compile(r'^\s*(.*?)\s+\dxLP\s+Box\s+Set$')),
-            ('2xmlp', 'Vinyl', re.compile(r'^\s*(.*?)\s+2x10"\s+MLP$')),
-            ('2xmlp', 'Vinyl', re.compile(r'^\s*(.*?)\s+2x10’’\s+MLP$')),
-            ('cd', 'CD', re.compile(r'^\s*(.*?)\s+CD$')),
-            ('mcd', 'CD', re.compile(r'^\s*(.*?)\s+MCD$')),
-            ('cd', 'CD', re.compile(r'^\s*(.*?)\s+CD\s\+.*$')),
-            ('2cd', 'CD', re.compile(r'^\s*(.*?)\s+2CD$')),
-            ('3xcd', 'CD', re.compile(r'^\s*(.*?)\s+3xCD$')),
-            ('tape', 'Cassette', re.compile(r'^\s*(.*?)\s+Tape$')),
-        ]
-        
     def parse(self, db):
         feed = feedparser.parse(self.feed)
 
@@ -57,23 +19,12 @@ class ArcaneAltar(Parser):
 
     def parseItem(self, db, entry):
         pId = entry['g_id']
-        try:
-            artist, rest = entry['g_title'].split(sep = '-', maxsplit = 1)
-        except ValueError:
-            try:
-                # some have a unicode '–'
-                artist, rest = entry['g_title'].split(sep = '–', maxsplit = 1)
-            except ValueError:
-                # Some don't have an album name
-                print(f'Unable to parse {entry["g_title"]}')
-                return None
+        description = entry['g_title']
 
-        artist = artist.strip(string.whitespace + chr(8206) + chr(160))
+        artist, title, extra, item_type = self.predictor.predict(description)
 
-        try:
-            album, item_type = self.split_album_type(rest)
-        except Exception as e:
-            print(e)
+        if artist is None or title is None or item_type is None:
+            self.failure(description, artist, title, item_type)
             return None
         
         price = int(float(self.get_price(entry['g_price'])) * 100)
@@ -82,17 +33,10 @@ class ArcaneAltar(Parser):
         
         in_stock = Product.STOCK_IN_STOCK if availability == 'in stock' else Product.STOCK_OUT_OF_STOCK
         
-        album = db.get_album(artist, album)
+        album = db.get_album(artist, title)
         db.add_cover(album, img_link)
 
-        return Product(None, pId, album, self.store, entry['g_link'], item_type, price, in_stock, -1)
-
-    def split_album_type(self, s):
-        for (i, t, r) in self.retests:
-            if (match := re.match(r, s)) != None:
-                return (match.group(1).strip(), t)
-            
-        raise Exception(f'Error, Unknown type {s}')
+        return Product(None, pId, album, self.store, entry['g_link'], item_type, price, in_stock, -1, extra)
 
     def get_price(self, p):
         r = re.compile(r'^\s*(\d+\.\d+)\s+.*$')
