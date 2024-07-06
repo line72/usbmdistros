@@ -8,3 +8,10 @@ bmdistro.db
 *.db-journal
 *.db-*
 node_modules
+
+.env
+
+*.csv
+
+album_model
+artist_model
