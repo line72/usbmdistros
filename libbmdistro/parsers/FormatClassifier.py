@@ -5,11 +5,13 @@
 
 classifications = {
     'lp': 'Vinyl',
+    'ep': 'Vinyl',
     '10”': 'Vinyl',
     '10” ep': 'Vinyl',
     '12"': 'Vinyl',
     '12”': 'Vinyl',
     '12” ep': 'Vinyl',
+    '12" ep': 'Vinyl',
     '12"': 'Vinyl',
     "12''": 'Vinyl',
     '12” lp': 'Vinyl',
@@ -24,6 +26,7 @@ classifications = {
     "7’’ ep": 'Vinyl',
     'vinyl': 'Vinyl',
     'cd': 'CD',
+    '2xcd': 'CD',
     'tape': 'Cassette',
     'tapes': 'Cassette',
     'cassette': 'Cassette',
