@@ -4,17 +4,22 @@
 # Released under the GPLv3
 
 import spacy
+import joblib
+import numpy as np
+
 import libbmdistro.parsers.better_title as BT
-import libbmdistro.parsers.FormatClassifier as FC
 
 class Predictor:
     def __init__(self):
         self.artist_model = spacy.load('artist_model')
         self.album_model = spacy.load('album_model')
         self.extra_model = spacy.load('extra_model')
-        self.format_model = spacy.load('format_model')
+
+        self.format_model = joblib.load('categories_model.pkl')
+        self.format_encoder = joblib.load('categories_label_encoder.pkl')
 
     def predict(self, text):
+        # Use the NER models to predict artist, album, and extra
         doc = self.artist_model(text.lower())  # Ensure text is lowercase
         artist_entities = {ent.label_: ent.text for ent in doc.ents}
         artist = artist_entities.get('ARTIST')
@@ -27,10 +32,16 @@ class Predictor:
         extra_entities = {ent.label_: ent.text for ent in doc.ents}
         extra = extra_entities.get('EXTRA')
 
-        doc = self.format_model(text.lower())  # Ensure text is lowercase
-        format_entities = {ent.label_: ent.text for ent in doc.ents}
-        format_ = format_entities.get('FORMAT')
+        # Use the xgboost model to predict the format
+        prediction = self.format_model.predict([text])
 
+        # decode the prediction
+        prediction = np.round(prediction).astype(int)
+        prediction = np.clip(prediction, 0, len(self.format_encoder.classes_) - 1)
+    
+        decoded_prediction = self.format_encoder.inverse_transform(prediction[:, 0])
+        format_ = decoded_prediction[0]
+        
         # Do Some Normalization
         # title case everything (this isn't great,
         #  but we had to lower case stuff for NER
@@ -44,4 +55,4 @@ class Predictor:
 
         # !mwd - Handle some special cases
         
-        return artist, album, extra, FC.classify(format_)
+        return artist, album, extra, format_
