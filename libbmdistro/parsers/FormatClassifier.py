@@ -18,6 +18,7 @@ classifications = {
     '12" lp': 'Vinyl',
     '12” mlp': 'Vinyl',
     '2xlp': 'Vinyl',
+    'dlp': 'Vinyl',
     '2x10" mlp': 'Vinyl',
     '10"': 'Vinyl',
     '7"': 'Vinyl',
