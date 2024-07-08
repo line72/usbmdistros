@@ -56,8 +56,9 @@ def go():
                 failures[parser.store.name] = {}
             failures[parser.store.name][parser.feed] = parser.failures[:]
 
-        # for p in products:
-        #     db.add_product(p)
+        for p in products:
+            db.add_product(p)
+            
     print('++++++++++++++++++++  END PARSING  ++++++++++++++++++++')
 
     # print failures
@@ -81,11 +82,11 @@ def go():
     #                 print(f'      {p}')
 
 
-    # gf = libbmdistro.GenreFinder()
-    # gf.go(db)
+    gf = libbmdistro.GenreFinder()
+    gf.go(db)
                     
-    # o = libbmdistro.OutputWriter()
-    # o.write(db, 'website', now)
+    o = libbmdistro.OutputWriter()
+    o.write(db, 'website', now)
 
 if __name__ == '__main__':
     go()
