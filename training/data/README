@@ -1,0 +1,7 @@
+The `-sample.csv` versions have been cleaned up and verified.
+
+The full versions in `raw/` have NOT, but they are useful for testing
+predictions.
+
+I have also created some smaller `-validation.csv` used to validate
+the results

@@ -1,0 +1,22 @@
+#!/usr/bin/env python3
+#
+# Parse the debemur-morti csv and change the
+#  format from Vinyl/Cassette/CD to the /category/XXX
+#  so that it is actually parsed by the NER model
+
+import csv
+
+with open('debemur-morti-sample.csv') as f1:
+    with open('debemur-morti-sample-fixed.csv', 'w') as f2:
+        reader = csv.DictReader(f1)
+        writer = csv.DictWriter(f2, fieldnames = reader.fieldnames[:])
+        writer.writeheader()
+
+        for row in reader:
+            # parse the /category/XXX
+            idx = row['description'].find('/category/')
+            category = row['description'][idx:]
+
+            row['format'] = category
+
+            writer.writerow(row)

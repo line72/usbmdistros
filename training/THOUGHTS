@@ -1,0 +1,45 @@
+I have been playing with several algorithms.
+
+The `train.py` uses sklearn to classify. I tried several different
+algorithms (logistic regression, random forest, and xgboost). It turns
+out that this style of machine learning does NOT work well for what I
+am trying to accomplish. This expects that it would have seen every
+artist and album before, which isn't going to be the case.
+
+Also, I found that random_forest takes a long time, and that xgboost
+did the best for larger training data.
+
+While this won't work well for things like artist and album, it DOES
+work GREAT for classification like vinyl, cassette, and cd!
+
+I then moved on to NER (Named Entity Recognition). This seems to be
+closer to what I want and seems to find patterns in input to extract.
+
+However, there is some issues with it:
+
+1. The output MUST exist in the input. This includes capitalization!
+1. Because the output must exist in the input, it utterly fails at
+classification, like seeing DigiPak and outputting CD.
+1. This fails at things like s/t and converting that to the actual
+title of the band.
+
+That said, I believe this is going to work well for artist, album, and
+extra information. However, the data has to be normalized before
+processing (lowercasing), and then de-normalised after prediction
+(upcase words, which may not be correct for bands like BORNE). Also,
+if we want to handle things like s/t, we'll have to write our own
+mappers for them.
+
+Currently, there is `ner-train.py` which does the initial training on
+`training.csv`. I also have `ner-train-more.py` which takes the
+existing training model and adds new training to it (which is great if
+something is wrong, I can quickly train it). Then there is
+`ner-predict.py` which loads the model and does a prediction.
+
+For NER, I think I am goint to actually create 4 models: 1 for artist,
+1 for album, 1 for format, and 1 for extra info. This is all in the
+`v2` directory.
+
+Note, NER MUST have the string in the original description. So, my
+plan is to extract the format, then use a sepreate classifier to take
+all possible formats and convert them into my standard list.

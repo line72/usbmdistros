@@ -1,0 +1,9 @@
+__pycache__
+bk
+
+album_model
+artist_model
+extra_model
+format_model
+
+*.pkl
