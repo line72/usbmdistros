@@ -4,7 +4,7 @@ album: "The Sons Of F\xEBanor+Of Darkened Halls"
 artist: DWARROWDELF
 categories:
 - Vinyl
-date: '2024-01-26T01:44:58'
+date: '2024-07-09T14:10:22'
 draft: false
 images:
 - "/images/covers/dwarrowdelf-the_sons_of_f\xEBanor+of_darkened_halls.jpg"
@@ -14,4 +14,4 @@ title: "DWARROWDELF - The Sons Of F\xEBanor+Of Darkened Halls"
 ---
 
 ## Vinyl
-* Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/dwarrowdelf-the-sons-of-feanor-vinyl-lp-color-lim199) for $35.00 :: (2xLP color, gatefold, lim.199)
+* Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/dwarrowdelf-the-sons-of-feanor-vinyl-lp-color-lim199) for $35.00 :: 2xlp color, gatefold, lim.199)

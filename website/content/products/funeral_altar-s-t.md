@@ -4,7 +4,7 @@ album: s/t
 artist: Funeral Altar
 categories:
 - CD
-date: '2022-02-15T06:01:09'
+date: '2024-07-09T00:40:45'
 draft: false
 images:
 - /images/covers/funeral_altar-s-t.jpg

@@ -4,7 +4,7 @@ album: "Akt III: Erl\xF6sung"
 artist: Narzissus
 categories:
 - Vinyl
-date: '2024-02-01T06:25:10'
+date: '2024-07-09T14:02:06'
 draft: false
 images:
 - "/images/covers/narzissus-akt_iii:_erl\xF6sung.jpg"
@@ -14,4 +14,4 @@ title: "Narzissus - Akt III: Erl\xF6sung"
 ---
 
 ## Vinyl
-* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/narzissus-akt-iii-erlosung-black-brown-marble-vinyl-lp) for $26.99 :: Black/Brown Marble Vinyl LP
+* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/narzissus-akt-iii-erlosung-black-brown-marble-vinyl-lp) for $26.99 :: black/brown marble vinyl lp

@@ -1,11 +1,10 @@
 ---
-actualPrice: $9.60 - 20.00
+actualPrice: $25.00
 album: Inn of the Vaticide
 artist: Black Eucharist
 categories:
 - Vinyl
-- Cassette
-date: '2024-03-01T06:17:42'
+date: '2024-05-03T05:13:11'
 draft: false
 images:
 - /images/covers/black_eucharist-inn_of_the_vaticide.jpg
@@ -15,6 +14,4 @@ title: Black Eucharist - Inn of the Vaticide
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=42625&sort=pd.name&order=ASC) for $20.00
-## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=42635&sort=pd.name&order=ASC) for $9.60
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=42625&sort=pd.name&order=ASC) for $25.00

@@ -1,11 +1,10 @@
 ---
-actualPrice: $8.00 - 20.00
+actualPrice: $25.00
 album: "Den f\xF6rstf\xF6dde"
 artist: Arckanum
 categories:
 - Vinyl
-- CD
-date: '2024-03-01T06:16:37'
+date: '2024-05-03T05:13:07'
 draft: false
 images:
 - "/images/covers/arckanum-den_f\xF6rstf\xF6dde.jpg"
@@ -15,6 +14,4 @@ title: "Arckanum - Den f\xF6rstf\xF6dde"
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=46810&sort=pd.name&order=ASC) for $20.00
-## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=46809&sort=pd.name&order=ASC) for $8.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=46810&sort=pd.name&order=ASC) for $25.00

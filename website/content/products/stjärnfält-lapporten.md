@@ -1,17 +1,17 @@
 ---
 actualPrice: $9.99 - 14.99
 album: Lapporten
-artist: "STJ\xC4RNF\xC4LT"
+artist: "Stj\xE4rnf\xE4lt"
 categories:
 - Vinyl
 - CD
-date: '2024-03-03T06:29:10'
+date: '2024-07-09T14:10:22'
 draft: false
 images:
 - "/images/covers/stj\xE4rnf\xE4lt-lapporten.jpg"
 inStock: true
 thumbnailImage: "/images/covers/stj\xE4rnf\xE4lt-lapporten-thumb.jpg"
-title: "STJ\xC4RNF\xC4LT - Lapporten"
+title: "Stj\xE4rnf\xE4lt - Lapporten"
 ---
 
 ## Vinyl

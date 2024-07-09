@@ -1,16 +1,16 @@
 ---
 actualPrice: $14.00
 album: Under Vast Dreamskies
-artist: "VR\xD6RSAATH"
+artist: "Vr\xF6rsaath"
 categories:
 - CD
-date: '2024-01-26T01:44:40'
+date: '2024-07-09T14:10:13'
 draft: false
 images:
 - "/images/covers/vr\xF6rsaath-under_vast_dreamskies.jpg"
 inStock: true
 thumbnailImage: "/images/covers/vr\xF6rsaath-under_vast_dreamskies-thumb.jpg"
-title: "VR\xD6RSAATH - Under Vast Dreamskies"
+title: "Vr\xF6rsaath - Under Vast Dreamskies"
 ---
 
 ## CD

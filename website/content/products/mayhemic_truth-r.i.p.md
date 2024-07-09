@@ -1,10 +1,10 @@
 ---
-actualPrice: $24.00
+actualPrice: $30.00
 album: R.I.P
 artist: Mayhemic Truth
 categories:
 - Vinyl
-date: '2024-03-01T06:15:37'
+date: '2024-05-03T05:13:46'
 draft: false
 images:
 - /images/covers/mayhemic_truth-r.i.p.jpg
@@ -14,4 +14,4 @@ title: Mayhemic Truth - R.I.P
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=45500&sort=pd.name&order=ASC) for $24.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=45500&sort=pd.name&order=ASC) for $30.00

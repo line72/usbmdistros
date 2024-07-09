@@ -1,10 +1,10 @@
 ---
-actualPrice: $20.00
+actualPrice: $25.00
 album: "In the Eyes of Iold\xE1nach"
 artist: Absu
 categories:
 - Vinyl
-date: '2024-03-01T06:14:50'
+date: '2024-05-03T05:13:01'
 draft: false
 images:
 - "/images/covers/absu-in_the_eyes_of_iold\xE1nach.jpg"
@@ -14,4 +14,4 @@ title: "Absu - In the Eyes of Iold\xE1nach"
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=46230&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=46230&sort=pd.name&order=ASC) for $25.00

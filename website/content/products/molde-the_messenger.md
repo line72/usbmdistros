@@ -1,10 +1,10 @@
 ---
-actualPrice: $8.00
+actualPrice: $10.00
 album: The Messenger
 artist: Molde
 categories:
 - CD
-date: '2024-03-01T06:17:10'
+date: '2024-05-03T05:15:14'
 draft: false
 images:
 - /images/covers/molde-the_messenger.jpg
@@ -14,4 +14,4 @@ title: Molde - The Messenger
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=8252&sort=pd.name&order=ASC) for $8.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=8252&sort=pd.name&order=ASC) for $10.00

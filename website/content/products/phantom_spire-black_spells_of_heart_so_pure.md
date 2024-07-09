@@ -4,7 +4,7 @@ album: Black Spells of Heart So Pure
 artist: Phantom Spire
 categories:
 - Vinyl
-date: '2024-01-26T01:43:58'
+date: '2024-07-09T14:09:45'
 draft: false
 images:
 - /images/covers/phantom_spire-black_spells_of_heart_so_pure.jpg

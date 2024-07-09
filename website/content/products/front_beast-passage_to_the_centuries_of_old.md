@@ -4,7 +4,7 @@ album: Passage to the Centuries of Old
 artist: Front Beast
 categories:
 - Vinyl
-date: '2024-03-23T05:01:36'
+date: '2024-07-09T00:40:19'
 draft: false
 images:
 - /images/covers/front_beast-passage_to_the_centuries_of_old.jpg

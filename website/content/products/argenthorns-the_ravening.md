@@ -4,7 +4,7 @@ album: The Ravening
 artist: Argenthorns
 categories:
 - Vinyl
-date: '2024-03-13T05:28:49'
+date: '2024-07-09T14:02:04'
 draft: false
 images:
 - /images/covers/argenthorns-the_ravening.jpg
@@ -14,5 +14,5 @@ title: Argenthorns - The Ravening
 ---
 
 ## Vinyl
-* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/argenthorns-the-ravening-black-vinyl-lp) for $25.00 :: Black Vinyl LP
-* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/argenthorns-the-ravening-limited-galaxy-vinyl-lp) for $27.00 :: Limited Galaxy Vinyl LP
+* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/argenthorns-the-ravening-black-vinyl-lp) for $25.00 :: black vinyl lp
+* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/argenthorns-the-ravening-limited-galaxy-vinyl-lp) for $27.00 :: limited galaxy vinyl lp

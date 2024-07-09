@@ -4,7 +4,7 @@ album: "Derri\xE8re-Nous, La Lumi\xE8re"
 artist: Throane
 categories:
 - CD
-date: '2021-06-26T15:15:52'
+date: '2024-07-09T13:21:10'
 draft: false
 images:
 - "/images/covers/throane-derri\xE8re-nous,_la_lumi\xE8re.jpg"

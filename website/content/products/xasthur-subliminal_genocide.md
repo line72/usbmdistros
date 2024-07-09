@@ -4,7 +4,7 @@ album: Subliminal Genocide
 artist: Xasthur
 categories:
 - Vinyl
-date: '2024-01-26T01:44:51'
+date: '2024-07-09T14:10:19'
 draft: false
 images:
 - /images/covers/xasthur-subliminal_genocide.png
@@ -14,4 +14,4 @@ title: Xasthur - Subliminal Genocide
 ---
 
 ## Vinyl
-* Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/xasthur-subliminal-genocide-vinyl-2xlp-gatefold) for $36.00 :: (Gatefold)
+* Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/xasthur-subliminal-genocide-vinyl-2xlp-gatefold) for $36.00 :: (gatefold)

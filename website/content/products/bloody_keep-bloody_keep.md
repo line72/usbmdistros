@@ -5,7 +5,7 @@ artist: Bloody Keep
 categories:
 - Vinyl
 - CD
-date: '2024-01-26T01:44:23'
+date: '2024-07-09T14:10:00'
 draft: false
 images:
 - /images/covers/bloody_keep-bloody_keep.jpg
@@ -17,4 +17,4 @@ title: Bloody Keep - Bloody Keep
 ## Vinyl
 * Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/bloody-keep-vinyl-ep-7-color-lim-200) for $15.00 :: (7", color, lim.200)
 ## CD
-* Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/bloody-keep-bloody-keep-cd) for $12.00 :: (DVD case)
+* Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/bloody-keep-bloody-keep-cd) for $12.00 :: (dvd case)

@@ -1,5 +1,5 @@
 ---
-actualPrice: $11.99 - 13.00
+actualPrice: $11.99
 album: Under the Serpentine Spell
 artist: Crimson Moon
 categories:
@@ -14,5 +14,4 @@ title: Crimson Moon - Under the Serpentine Spell
 ---
 
 ## CD
-* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/crimson-moon-under-the-serpentine-spell-cd) for $13.00
 * Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/crimson-moon-under-the-serpentine-spell-cd-lim-300) for $11.99 :: (lim.300)

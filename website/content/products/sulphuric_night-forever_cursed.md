@@ -5,7 +5,7 @@ artist: Sulphuric Night
 categories:
 - Vinyl
 - CD
-date: '2024-01-26T01:44:49'
+date: '2024-07-09T14:10:18'
 draft: false
 images:
 - /images/covers/sulphuric_night-forever_cursed.jpg
@@ -15,6 +15,6 @@ title: Sulphuric Night - Forever Cursed
 ---
 
 ## Vinyl
-* Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/sulphuric-night-forever-cursed-vinyl-lp-color) for $28.00 :: (Color)
+* Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/sulphuric-night-forever-cursed-vinyl-lp-color) for $28.00 :: (color)
 ## CD
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/sulphuric-night-forever-cursed-cd) for $15.00

@@ -4,7 +4,7 @@ album: And the Spirit of Old Whispered Words of Amduat
 artist: Black Door
 categories:
 - Vinyl
-date: '2023-08-02T05:05:50'
+date: '2024-07-09T00:39:58'
 draft: false
 images:
 - /images/covers/black_door-and_the_spirit_of_old_whispered_words_of_amduat.png

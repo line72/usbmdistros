@@ -4,7 +4,7 @@ album: Astral Terror
 artist: Unbegotten
 categories:
 - Vinyl
-date: '2023-09-25T05:07:46'
+date: '2024-07-09T00:39:57'
 draft: false
 images:
 - /images/covers/unbegotten-astral_terror.jpg

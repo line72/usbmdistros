@@ -4,7 +4,7 @@ album: The Ultimate Cremation Pyre
 artist: The Day Of The Beast
 categories:
 - Cassette
-date: '2022-03-11T16:59:56'
+date: '2024-07-09T13:44:37'
 draft: false
 images:
 - /images/covers/the_day_of_the_beast-the_ultimate_cremation_pyre.png

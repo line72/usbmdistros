@@ -1,10 +1,10 @@
 ---
-actualPrice: $8.00
+actualPrice: $10.00
 album: Hammer of Antichrist / Gods Kings of the Twilight
 artist: Deadly Frost
 categories:
 - Cassette
-date: '2024-03-01T06:17:47'
+date: '2024-05-03T05:15:46'
 draft: false
 images:
 - /images/covers/deadly_frost-hammer_of_antichrist_-_gods_kings_of_the_twilight.png
@@ -14,4 +14,4 @@ title: Deadly Frost - Hammer of Antichrist / Gods Kings of the Twilight
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=3806&sort=pd.name&order=ASC) for $8.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=3806&sort=pd.name&order=ASC) for $10.00

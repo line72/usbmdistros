@@ -1,17 +1,17 @@
 ---
 actualPrice: $11.99 - 19.98
-album: '...ni degu fazentz escumergament e mesorga...'
-artist: "ESCUMERGAM\xCBNT"
+album: '...Ni Degu Fazentz Escumergament E Mesorga...'
+artist: "Escumergam\xEBnt"
 categories:
 - Vinyl
 - CD
-date: '2024-01-26T01:44:43'
+date: '2024-07-09T14:10:14'
 draft: false
 images:
 - "/images/covers/escumergam\xEBnt-...ni_degu_fazentz_escumergament_e_mesorga....png"
 inStock: true
 thumbnailImage: "/images/covers/escumergam\xEBnt-...ni_degu_fazentz_escumergament_e_mesorga...-thumb.png"
-title: "ESCUMERGAM\xCBNT - ...ni degu fazentz escumergament e mesorga..."
+title: "Escumergam\xEBnt - ...Ni Degu Fazentz Escumergament E Mesorga..."
 ---
 
 ## Vinyl

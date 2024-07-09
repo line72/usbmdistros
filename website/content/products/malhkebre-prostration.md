@@ -1,10 +1,10 @@
 ---
-actualPrice: $4.80
+actualPrice: $6.00
 album: Prostration
 artist: Malhkebre
 categories:
 - CD
-date: '2024-03-01T06:17:08'
+date: '2024-05-03T05:15:11'
 draft: false
 images:
 - /images/covers/malhkebre-prostration.jpg
@@ -14,4 +14,4 @@ title: Malhkebre - Prostration
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=1884&sort=pd.name&order=ASC) for $4.80
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=1884&sort=pd.name&order=ASC) for $6.00

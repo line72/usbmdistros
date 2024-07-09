@@ -1,10 +1,10 @@
 ---
-actualPrice: $4.00
+actualPrice: $5.00
 album: Obsidian
 artist: Heiden
 categories:
 - CD
-date: '2024-03-01T06:16:58'
+date: '2024-05-03T05:15:00'
 draft: false
 images:
 - /images/covers/heiden-obsidian.jpg
@@ -14,4 +14,4 @@ title: Heiden - Obsidian
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=1628&sort=pd.name&order=ASC) for $4.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=1628&sort=pd.name&order=ASC) for $5.00

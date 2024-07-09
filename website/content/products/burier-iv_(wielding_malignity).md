@@ -4,7 +4,7 @@ album: IV (Wielding Malignity)
 artist: Burier
 categories:
 - CD
-date: '2024-01-26T01:45:00'
+date: '2024-07-09T14:10:23'
 draft: false
 images:
 - /images/covers/burier-iv_(wielding_malignity).jpg

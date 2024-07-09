@@ -4,7 +4,7 @@ album: Dans La Joie
 artist: Au Champ Des Morts
 categories:
 - CD
-date: '2021-06-26T15:15:51'
+date: '2024-07-09T13:20:58'
 draft: false
 images:
 - /images/covers/au_champ_des_morts-dans_la_joie.jpg

@@ -4,7 +4,7 @@ album: Armageddon Sun
 artist: Karmic Void
 categories:
 - Cassette
-date: '2022-08-14T05:21:38'
+date: '2024-07-09T13:57:26'
 draft: false
 images:
 - /images/covers/karmic_void-armageddon_sun.jpg

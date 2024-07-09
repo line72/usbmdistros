@@ -4,7 +4,7 @@ album: The Wind of 666 Black Hearts
 artist: Darkthrone
 categories:
 - CD
-date: '2024-01-26T01:44:28'
+date: '2024-07-09T14:10:07'
 draft: false
 images:
 - /images/covers/darkthrone-the_wind_of_666_black_hearts.jpg

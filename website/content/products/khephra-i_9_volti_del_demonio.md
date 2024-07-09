@@ -4,7 +4,7 @@ album: I 9 volti del demonio
 artist: Khephra
 categories:
 - CD
-date: '2023-03-07T14:05:37'
+date: '2024-07-09T13:57:25'
 draft: false
 images:
 - /images/covers/khephra-i_9_volti_del_demonio.jpg

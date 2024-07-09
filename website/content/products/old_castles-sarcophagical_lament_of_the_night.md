@@ -4,7 +4,7 @@ album: Sarcophagical Lament of the Night
 artist: Old Castles
 categories:
 - Vinyl
-date: '2022-05-21T05:00:29'
+date: '2024-07-09T00:40:10'
 draft: false
 images:
 - /images/covers/old_castles-sarcophagical_lament_of_the_night.jpg

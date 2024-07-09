@@ -1,10 +1,10 @@
 ---
-actualPrice: $35.00
+actualPrice: $29.99 - 35.00
 album: Irreligious
 artist: Moonspell
 categories:
 - Vinyl
-date: '2024-01-30T06:24:45'
+date: '2024-07-09T14:02:06'
 draft: false
 images:
 - /images/covers/moonspell-irreligious.jpg
@@ -14,4 +14,5 @@ title: Moonspell - Irreligious
 ---
 
 ## Vinyl
-* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/moonspell-irreligious-limited-white-vinyl-lp) for $35.00 :: Limited White Vinyl LP
+* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/moonspell-irreligious-limited-white-vinyl-lp) for $35.00 :: limited white vinyl lp
+* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/blemish-moonspell-irreligious-limited-white-vinyl-lp) for $29.99 :: limited white vinyl lp

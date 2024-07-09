@@ -4,7 +4,7 @@ album: s/t
 artist: "D\xF6dsrit"
 categories:
 - Vinyl
-date: '2024-04-05T05:01:05'
+date: '2024-07-09T00:39:50'
 draft: false
 images:
 - "/images/covers/d\xF6dsrit-s-t.jpg"

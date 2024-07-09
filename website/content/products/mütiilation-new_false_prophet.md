@@ -1,10 +1,10 @@
 ---
-actualPrice: $13.00
+actualPrice: $15.00
 album: New False Prophet
 artist: "M\xFCtiilation"
 categories:
 - Vinyl
-date: '2024-03-24T05:01:39'
+date: '2024-06-10T05:15:59'
 draft: false
 images:
 - "/images/covers/m\xFCtiilation-new_false_prophet.jpg"
@@ -14,4 +14,4 @@ title: "M\xFCtiilation - New False Prophet"
 ---
 
 ## Vinyl
-* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/mutiilation-new-false-prophet-7-ep) for $13.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=50963&sort=pd.name&order=ASC) for $15.00

@@ -5,7 +5,7 @@ artist: Sorcier des Glaces
 categories:
 - Vinyl
 - CD
-date: '2023-04-06T05:01:45'
+date: '2024-07-09T00:40:42'
 draft: false
 images:
 - /images/covers/sorcier_des_glaces-sous_la_lune_noire.jpg

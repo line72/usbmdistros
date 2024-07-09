@@ -4,7 +4,7 @@ album: Hypertonia
 artist: Sermon
 categories:
 - Cassette
-date: '2023-04-17T05:42:15'
+date: '2024-07-09T13:57:25'
 draft: false
 images:
 - /images/covers/sermon-hypertonia.jpg

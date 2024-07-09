@@ -1,10 +1,10 @@
 ---
-actualPrice: $4.00
+actualPrice: $5.00
 album: Illvmantithesis
 artist: Enlighten
 categories:
 - Vinyl
-date: '2024-03-01T06:16:23'
+date: '2024-05-03T05:14:27'
 draft: false
 images:
 - /images/covers/enlighten-illvmantithesis.jpg
@@ -14,4 +14,4 @@ title: Enlighten - Illvmantithesis
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=11034&sort=pd.name&order=ASC) for $4.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=11034&sort=pd.name&order=ASC) for $5.00

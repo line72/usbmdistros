@@ -5,7 +5,7 @@ artist: DEVIL MASTER
 categories:
 - Vinyl
 - CD
-date: '2024-01-26T01:44:22'
+date: '2024-07-09T14:10:04'
 draft: false
 images:
 - /images/covers/devil_master-ecstasies_of_never_ending_night.png

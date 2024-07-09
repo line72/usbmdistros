@@ -1,10 +1,10 @@
 ---
-actualPrice: $16.25
+actualPrice: $25.00
 album: My Master Lucifer / The Morning Star
 artist: Lullaby
 categories:
 - Vinyl
-date: '2024-03-01T06:15:34'
+date: '2024-05-03T05:13:43'
 draft: false
 images:
 - /images/covers/lullaby-my_master_lucifer_-_the_morning_star.jpg
@@ -14,4 +14,4 @@ title: Lullaby - My Master Lucifer / The Morning Star
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=47538&sort=pd.name&order=ASC) for $16.25
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=47538&sort=pd.name&order=ASC) for $25.00

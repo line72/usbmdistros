@@ -4,7 +4,7 @@ album: JUDAS CHRIST
 artist: Tiamat
 categories:
 - Vinyl
-date: '2024-01-02T06:23:58'
+date: '2024-07-09T14:02:08'
 draft: false
 images:
 - /images/covers/tiamat-judas_christ.jpg
@@ -14,4 +14,4 @@ title: Tiamat - JUDAS CHRIST
 ---
 
 ## Vinyl
-* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/tiamat-judas-christ-limited-gold-vinyl-lp) for $32.00 :: LIMITED GOLD VINYL LP
+* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/tiamat-judas-christ-limited-gold-vinyl-lp) for $32.00 :: limited gold vinyl lp

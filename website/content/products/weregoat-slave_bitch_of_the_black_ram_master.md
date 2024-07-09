@@ -1,11 +1,10 @@
 ---
-actualPrice: $9.60 - 20.00
+actualPrice: $12.00
 album: Slave Bitch of the Black Ram Master
 artist: Weregoat
 categories:
-- Vinyl
 - CD
-date: '2024-03-01T06:17:36'
+date: '2024-06-10T05:17:11'
 draft: false
 images:
 - /images/covers/weregoat-slave_bitch_of_the_black_ram_master.png
@@ -14,7 +13,5 @@ thumbnailImage: /images/covers/weregoat-slave_bitch_of_the_black_ram_master-thum
 title: Weregoat - Slave Bitch of the Black Ram Master
 ---
 
-## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=46793&sort=pd.name&order=ASC) for $20.00
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=46792&sort=pd.name&order=ASC) for $9.60
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=50941&sort=pd.name&order=ASC) for $12.00

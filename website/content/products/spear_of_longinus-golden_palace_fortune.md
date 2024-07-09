@@ -4,7 +4,7 @@ album: Golden Palace Fortune
 artist: Spear Of Longinus
 categories:
 - Vinyl
-date: '2022-11-27T06:26:08'
+date: '2024-07-09T13:57:26'
 draft: false
 images:
 - /images/covers/spear_of_longinus-golden_palace_fortune.jpg

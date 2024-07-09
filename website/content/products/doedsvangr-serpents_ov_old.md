@@ -5,7 +5,7 @@ artist: Doedsvangr
 categories:
 - Vinyl
 - CD
-date: '2021-09-08T05:00:40'
+date: '2024-07-09T13:21:02'
 draft: false
 images:
 - /images/covers/doedsvangr-serpents_ov_old.jpg

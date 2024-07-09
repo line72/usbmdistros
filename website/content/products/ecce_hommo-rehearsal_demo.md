@@ -4,7 +4,7 @@ album: Rehearsal Demo
 artist: Ecce Hommo
 categories:
 - Cassette
-date: '2023-05-16T20:20:40'
+date: '2024-07-09T13:44:36'
 draft: false
 images:
 - /images/covers/ecce_hommo-rehearsal_demo.png
@@ -14,4 +14,4 @@ title: Ecce Hommo - Rehearsal Demo
 ---
 
 ## Cassette
-* Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/ecce-hommo-rehearsal-demo-cassette/) for $8.00
+* Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/ecce-hommo-rehearsal-demo-cassette/) for $8.00 :: rehearsal demo cassette

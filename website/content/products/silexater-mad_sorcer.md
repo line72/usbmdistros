@@ -4,7 +4,7 @@ album: Mad Sorcer
 artist: Silexater
 categories:
 - Cassette
-date: '2022-01-09T06:15:03'
+date: '2024-07-09T13:57:26'
 draft: false
 images:
 - /images/covers/silexater-mad_sorcer.jpg

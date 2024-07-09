@@ -4,7 +4,7 @@ album: Mad Grandiose Bloodfiends
 artist: Ancient
 categories:
 - Vinyl
-date: '2024-01-26T01:44:47'
+date: '2024-07-09T14:10:17'
 draft: false
 images:
 - /images/covers/ancient-mad_grandiose_bloodfiends.jpg
@@ -14,4 +14,4 @@ title: Ancient - Mad Grandiose Bloodfiends
 ---
 
 ## Vinyl
-* Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/ancient-mad-grandiose-bloodfiends-vinyl-2xlp-gatefold-color-black) for $35.00 :: (Color)
+* Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/ancient-mad-grandiose-bloodfiends-vinyl-2xlp-gatefold-color-black) for $35.00 :: gatefold (color)

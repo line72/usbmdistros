@@ -4,7 +4,7 @@ album: s/t
 artist: Sigillum Diaboli
 categories:
 - Vinyl
-date: '2024-02-14T06:01:07'
+date: '2024-07-09T00:39:53'
 draft: false
 images:
 - /images/covers/sigillum_diaboli-s-t.jpg

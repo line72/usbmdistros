@@ -4,7 +4,7 @@ album: Christ's Excommunication
 artist: Necrolust
 categories:
 - CD
-date: '2024-01-08T06:25:04'
+date: '2024-07-09T13:57:24'
 draft: false
 images:
 - /images/covers/necrolust-christ's_excommunication.jpg

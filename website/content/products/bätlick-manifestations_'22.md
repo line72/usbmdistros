@@ -1,17 +1,18 @@
 ---
-actualPrice: $23.99
+actualPrice: $23.99 - 30.00
 album: Manifestations '22
-artist: "B\xC4TLICK"
+artist: "B\xE4tlick"
 categories:
 - Vinyl
-date: '2024-01-26T01:44:10'
+date: '2024-07-09T14:09:54'
 draft: false
 images:
 - "/images/covers/b\xE4tlick-manifestations_'22.jpg"
 inStock: true
 thumbnailImage: "/images/covers/b\xE4tlick-manifestations_'22-thumb.jpg"
-title: "B\xC4TLICK - Manifestations '22"
+title: "B\xE4tlick - Manifestations '22"
 ---
 
 ## Vinyl
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=36294&sort=pd.name&order=ASC) for $30.00
 * Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/batlick-manifestations-22-vinyl-lp) for $23.99

@@ -4,7 +4,7 @@ album: Anaphora Lithu Actinism
 artist: Lucifugum
 categories:
 - CD
-date: '2023-11-19T16:05:21'
+date: '2024-07-09T13:57:26'
 draft: false
 images:
 - /images/covers/lucifugum-anaphora_lithu_actinism.jpg

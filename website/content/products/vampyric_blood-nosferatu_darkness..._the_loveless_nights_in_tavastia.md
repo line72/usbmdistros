@@ -5,7 +5,7 @@ artist: Vampyric Blood
 categories:
 - Vinyl
 - CD
-date: '2023-06-22T05:05:24'
+date: '2024-07-09T00:40:44'
 draft: false
 images:
 - /images/covers/vampyric_blood-nosferatu_darkness..._the_loveless_nights_in_tavastia.jpg

@@ -4,7 +4,7 @@ album: "I\xE4tt\xF6m\xE4n sanat"
 artist: Kiira
 categories:
 - CD
-date: '2023-11-19T15:42:42'
+date: '2024-07-09T13:57:24'
 draft: false
 images:
 - "/images/covers/kiira-i\xE4tt\xF6m\xE4n_sanat.jpg"

@@ -5,7 +5,7 @@ artist: "\xD3rei\xF0a"
 categories:
 - Vinyl
 - CD
-date: '2023-03-14T00:08:35'
+date: '2024-07-09T13:21:06'
 draft: false
 images:
 - "/images/covers/\xF3rei\xF0a-the_eternal.png"

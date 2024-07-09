@@ -4,7 +4,7 @@ album: The Dawn of Winter
 artist: Fellwinter
 categories:
 - CD
-date: '2023-08-24T18:20:25'
+date: '2024-07-09T13:57:25'
 draft: false
 images:
 - /images/covers/fellwinter-the_dawn_of_winter.jpg

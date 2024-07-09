@@ -4,7 +4,7 @@ album: Recidivus
 artist: Sacrilegium
 categories:
 - CD
-date: '2023-11-19T15:42:46'
+date: '2024-07-09T13:57:24'
 draft: false
 images:
 - /images/covers/sacrilegium-recidivus.jpg

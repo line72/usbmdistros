@@ -4,7 +4,7 @@ album: My Dream Of The Skull
 artist: Eerified Catacomb
 categories:
 - Vinyl
-date: '2024-02-14T06:01:07'
+date: '2024-07-09T00:39:53'
 draft: false
 images:
 - /images/covers/eerified_catacomb-my_dream_of_the_skull.jpg

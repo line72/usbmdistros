@@ -4,7 +4,7 @@ album: Zwartmagische Brouwsels
 artist: Udegste
 categories:
 - CD
-date: '2023-09-19T10:43:48'
+date: '2024-07-09T13:57:25'
 draft: false
 images:
 - /images/covers/udegste-zwartmagische_brouwsels.jpg

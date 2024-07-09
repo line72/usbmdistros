@@ -4,7 +4,7 @@ album: With a Last Exhale
 artist: Solus Grief
 categories:
 - Vinyl
-date: '2023-09-23T05:06:19'
+date: '2024-07-09T00:39:57'
 draft: false
 images:
 - /images/covers/solus_grief-with_a_last_exhale.jpg

@@ -4,7 +4,7 @@ album: Tides of War
 artist: Ered Wethrin
 categories:
 - CD
-date: '2024-01-26T01:44:14'
+date: '2024-07-09T14:09:57'
 draft: false
 images:
 - /images/covers/ered_wethrin-tides_of_war.jpg
@@ -14,4 +14,4 @@ title: Ered Wethrin - Tides of War
 ---
 
 ## CD
-* Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/ered-wethrin-tides-of-war-cd-digipak-caladan-brood) for $10.99 :: [digipak] (Caladan Brood)
+* Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/ered-wethrin-tides-of-war-cd-digipak-caladan-brood) for $10.99 :: [digipak] (caladan brood)

@@ -1,10 +1,10 @@
 ---
-actualPrice: $32.00
+actualPrice: $40.00
 album: Are You Morbid?
 artist: Celtic Frost
 categories:
 - Vinyl
-date: '2024-03-31T05:15:53'
+date: '2024-06-25T05:14:17'
 draft: false
 images:
 - /images/covers/celtic_frost-are_you_morbid?.jpg
@@ -14,4 +14,4 @@ title: Celtic Frost - Are You Morbid?
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=47683&sort=pd.name&order=ASC) for $32.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=51458&sort=pd.name&order=ASC) for $40.00

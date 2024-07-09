@@ -4,7 +4,7 @@ album: Satanic Territorial Moloch
 artist: Virulent Specter
 categories:
 - Vinyl
-date: '2023-06-27T05:05:13'
+date: '2024-07-09T00:39:59'
 draft: false
 images:
 - /images/covers/virulent_specter-satanic_territorial_moloch.png

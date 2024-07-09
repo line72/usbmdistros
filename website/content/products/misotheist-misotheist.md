@@ -1,10 +1,10 @@
 ---
-actualPrice: $21.60
+actualPrice: $27.00
 album: Misotheist
 artist: Misotheist
 categories:
 - Vinyl
-date: '2024-03-01T06:15:38'
+date: '2024-05-03T05:13:47'
 draft: false
 images:
 - /images/covers/misotheist-misotheist.png
@@ -14,4 +14,4 @@ title: Misotheist - Misotheist
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=32473&sort=pd.name&order=ASC) for $21.60
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=32473&sort=pd.name&order=ASC) for $27.00

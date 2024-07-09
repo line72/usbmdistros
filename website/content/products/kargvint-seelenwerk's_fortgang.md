@@ -1,10 +1,10 @@
 ---
-actualPrice: $4.00
+actualPrice: $5.00
 album: Seelenwerk's Fortgang
 artist: Kargvint
 categories:
 - CD
-date: '2024-03-01T06:17:04'
+date: '2024-05-03T05:15:08'
 draft: false
 images:
 - /images/covers/kargvint-seelenwerk's_fortgang.jpg
@@ -14,4 +14,4 @@ title: Kargvint - Seelenwerk's Fortgang
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=1320&sort=pd.name&order=ASC) for $4.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=1320&sort=pd.name&order=ASC) for $5.00

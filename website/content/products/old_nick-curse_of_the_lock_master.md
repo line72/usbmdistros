@@ -4,7 +4,7 @@ album: Curse Of The Lock Master
 artist: Old Nick
 categories:
 - CD
-date: '2024-01-26T01:44:56'
+date: '2024-07-09T14:10:21'
 draft: false
 images:
 - /images/covers/old_nick-curse_of_the_lock_master.jpg

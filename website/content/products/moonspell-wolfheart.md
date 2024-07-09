@@ -4,7 +4,7 @@ album: Wolfheart
 artist: Moonspell
 categories:
 - Vinyl
-date: '2024-01-30T06:24:45'
+date: '2024-07-09T14:02:06'
 draft: false
 images:
 - /images/covers/moonspell-wolfheart.jpg
@@ -14,5 +14,5 @@ title: Moonspell - Wolfheart
 ---
 
 ## Vinyl
-* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/moonspell-wolfheart-limited-box) for $149.00 :: Limited Box
-* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/moonspell-wolfheart-limited-vinyl-lp) for $35.00 :: Limited Vinyl LP
+* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/moonspell-wolfheart-limited-box) for $149.00 :: limited box
+* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/moonspell-wolfheart-limited-vinyl-lp-staff-pick) for $35.00 :: limited vinyl lp [staff pick]

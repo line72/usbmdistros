@@ -4,7 +4,7 @@ album: From the Abyss
 artist: Drowning The Light
 categories:
 - CD
-date: '2022-10-29T05:01:14'
+date: '2024-07-09T00:40:45'
 draft: false
 images:
 - /images/covers/drowning_the_light-from_the_abyss.jpg

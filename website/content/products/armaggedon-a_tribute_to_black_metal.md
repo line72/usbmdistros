@@ -4,7 +4,7 @@ album: A Tribute to Black Metal
 artist: Armaggedon
 categories:
 - Vinyl
-date: '2023-11-19T08:30:40'
+date: '2024-07-09T13:44:36'
 draft: false
 images:
 - /images/covers/armaggedon-a_tribute_to_black_metal.jpg

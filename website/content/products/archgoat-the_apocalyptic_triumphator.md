@@ -4,7 +4,7 @@ album: The Apocalyptic Triumphator
 artist: Archgoat
 categories:
 - Vinyl
-date: '2021-12-02T06:00:52'
+date: '2024-07-09T13:20:57'
 draft: false
 images:
 - /images/covers/archgoat-the_apocalyptic_triumphator.jpg

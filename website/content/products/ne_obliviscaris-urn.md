@@ -4,7 +4,7 @@ album: Urn
 artist: Ne Obliviscaris
 categories:
 - Vinyl
-date: '2023-11-19T16:40:58'
+date: '2024-07-09T14:02:21'
 draft: false
 images:
 - /images/covers/ne_obliviscaris-urn.jpg
@@ -14,4 +14,4 @@ title: Ne Obliviscaris - Urn
 ---
 
 ## Vinyl
-* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/ne-obliviscaris-urn-double-lp-gatefold-vinyl) for $26.00 :: DOUBLE LP Gatefold Vinyl
+* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/ne-obliviscaris-urn-double-lp-gatefold-vinyl) for $26.00 :: double lp gatefold vinyl

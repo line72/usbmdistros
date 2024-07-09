@@ -4,7 +4,7 @@ album: Dusk... And Her Embrace
 artist: Cradle Of Filth
 categories:
 - CD
-date: '2024-01-26T01:44:23'
+date: '2024-07-09T14:10:04'
 draft: false
 images:
 - /images/covers/cradle_of_filth-dusk..._and_her_embrace.jpg

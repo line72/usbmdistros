@@ -4,7 +4,7 @@ album: Summoning the Impenetrable Night
 artist: Astral Tomb of Yearning
 categories:
 - Vinyl
-date: '2024-03-24T05:01:07'
+date: '2024-07-09T00:39:51'
 draft: false
 images:
 - /images/covers/astral_tomb_of_yearning-summoning_the_impenetrable_night.jpg

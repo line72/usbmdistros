@@ -1,11 +1,10 @@
 ---
-actualPrice: $10.99 - 22.99
+actualPrice: $10.99
 album: "\u200BDisharmonium - Nahab"
 artist: Blut Aus Nord
 categories:
-- Vinyl
 - CD
-date: '2023-06-13T05:17:14'
+date: '2024-07-09T13:20:59'
 draft: false
 images:
 - "/images/covers/blut_aus_nord-\u200Bdisharmonium_-_nahab.jpg"
@@ -14,8 +13,5 @@ thumbnailImage: "/images/covers/blut_aus_nord-\u200Bdisharmonium_-_nahab-thumb.j
 title: "Blut Aus Nord - \u200BDisharmonium - Nahab"
 ---
 
-## Vinyl
-* Purchase from [Debemur Morti](https://debemurmorti.aisamerch.com/item/136633) for $21.99 :: black vinyl
-* Purchase from [Debemur Morti](https://debemurmorti.aisamerch.com/item/136634) for $22.99 :: galaxy effect
 ## CD
-* Purchase from [Debemur Morti](https://debemurmorti.aisamerch.com/item/137233) for $10.99
+* Purchase from [Debemur Morti](https://debemurmorti.aisamerch.com/item/137233) for $10.99 :: nahab | /category/26

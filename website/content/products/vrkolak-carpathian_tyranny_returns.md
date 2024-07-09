@@ -4,7 +4,7 @@ album: Carpathian Tyranny Returns
 artist: Vrkolak
 categories:
 - Vinyl
-date: '2024-03-23T05:15:13'
+date: '2024-07-09T00:39:52'
 draft: false
 images:
 - /images/covers/vrkolak-carpathian_tyranny_returns.jpg

@@ -4,7 +4,7 @@ album: Satanic Devotion
 artist: Odour Of Death
 categories:
 - CD
-date: '2023-07-18T18:27:55'
+date: '2024-07-09T13:44:38'
 draft: false
 images:
 - /images/covers/odour_of_death-satanic_devotion.jpg

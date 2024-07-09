@@ -4,7 +4,7 @@ album: Yorkshire Heathen Black Metal
 artist: White Medal
 categories:
 - Vinyl
-date: '2023-04-15T05:01:08'
+date: '2024-07-09T00:40:02'
 draft: false
 images:
 - /images/covers/white_medal-yorkshire_heathen_black_metal.png

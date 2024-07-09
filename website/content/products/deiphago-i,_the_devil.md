@@ -4,7 +4,7 @@ album: I, the Devil
 artist: Deiphago
 categories:
 - Cassette
-date: '2024-02-13T06:18:27'
+date: '2024-07-09T13:44:34'
 draft: false
 images:
 - /images/covers/deiphago-i,_the_devil.jpg

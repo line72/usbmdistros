@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00
+actualPrice: $15.00
 album: Dead Christ Baptism
 artist: Lord Mortvm
 categories:
 - CD
-date: '2024-03-01T06:17:07'
+date: '2024-05-03T05:15:10'
 draft: false
 images:
 - /images/covers/lord_mortvm-dead_christ_baptism.jpg
@@ -14,4 +14,4 @@ title: Lord Mortvm - Dead Christ Baptism
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=35872&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=35872&sort=pd.name&order=ASC) for $15.00

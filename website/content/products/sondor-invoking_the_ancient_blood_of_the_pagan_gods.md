@@ -4,7 +4,7 @@ album: Invoking the Ancient Blood of the Pagan Gods
 artist: Sondor
 categories:
 - Vinyl
-date: '2023-02-09T06:29:49'
+date: '2024-07-09T13:57:25'
 draft: false
 images:
 - /images/covers/sondor-invoking_the_ancient_blood_of_the_pagan_gods.jpg

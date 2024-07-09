@@ -4,7 +4,7 @@ album: Monument to Man's Frailty
 artist: Till
 categories:
 - Vinyl
-date: '2023-12-31T06:00:58'
+date: '2024-07-09T00:39:53'
 draft: false
 images:
 - /images/covers/till-monument_to_man's_frailty.jpg

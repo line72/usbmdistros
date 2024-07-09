@@ -1,10 +1,10 @@
 ---
-actualPrice: $20.00
+actualPrice: $25.00
 album: The Infernal Gospels Of Primitive Devil Worship
 artist: Beastcraft
 categories:
 - Vinyl
-date: '2024-03-01T06:14:59'
+date: '2024-05-03T05:13:10'
 draft: false
 images:
 - /images/covers/beastcraft-the_infernal_gospels_of_primitive_devil_worship.jpg
@@ -14,4 +14,4 @@ title: Beastcraft - The Infernal Gospels Of Primitive Devil Worship
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29444&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29444&sort=pd.name&order=ASC) for $25.00

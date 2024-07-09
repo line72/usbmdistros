@@ -4,7 +4,7 @@ album: The Ruins of Human Failure
 artist: Ulfarr
 categories:
 - Vinyl
-date: '2023-03-22T05:01:09'
+date: '2024-07-09T00:40:02'
 draft: false
 images:
 - /images/covers/ulfarr-the_ruins_of_human_failure.jpg

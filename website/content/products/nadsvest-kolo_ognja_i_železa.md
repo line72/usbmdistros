@@ -1,17 +1,17 @@
 ---
-actualPrice: $20.00
-album: "Kolo ognja i \u017Eeleza"
+actualPrice: $25.00
+album: "Kolo Ognja I \u017Deleza"
 artist: Nadsvest
 categories:
 - Vinyl
-date: '2024-03-01T06:15:42'
+date: '2024-07-09T13:41:22'
 draft: false
 images:
 - "/images/covers/nadsvest-kolo_ognja_i_\u017Eeleza.jpg"
 inStock: true
 thumbnailImage: "/images/covers/nadsvest-kolo_ognja_i_\u017Eeleza-thumb.jpg"
-title: "Nadsvest - Kolo ognja i \u017Eeleza"
+title: "Nadsvest - Kolo Ognja I \u017Deleza"
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=19706&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=19706&sort=pd.name&order=ASC) for $25.00

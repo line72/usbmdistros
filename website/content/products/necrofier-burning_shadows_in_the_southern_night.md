@@ -4,7 +4,7 @@ album: Burning Shadows In The Southern Night
 artist: Necrofier
 categories:
 - Vinyl
-date: '2023-11-23T20:25:20'
+date: '2024-07-09T14:02:18'
 draft: false
 images:
 - /images/covers/necrofier-burning_shadows_in_the_southern_night.png
@@ -14,4 +14,4 @@ title: Necrofier - Burning Shadows In The Southern Night
 ---
 
 ## Vinyl
-* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/necrofier-burning-shadows-in-the-southern-night-gold-ltd-to-250-colored-gatefold-vinyl) for $23.99 :: Gold ltd to 250 - Colored Gatefold Vinyl
+* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/necrofier-burning-shadows-in-the-southern-night-gold-ltd-to-250-colored-gatefold-vinyl) for $23.99 :: gold ltd to 250 - colored gatefold vinyl

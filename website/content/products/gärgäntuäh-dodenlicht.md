@@ -4,7 +4,7 @@ album: Dodenlicht
 artist: "G\xE4rg\xE4ntu\xE4h"
 categories:
 - Vinyl
-date: '2022-11-15T06:00:45'
+date: '2024-07-09T00:40:07'
 draft: false
 images:
 - "/images/covers/g\xE4rg\xE4ntu\xE4h-dodenlicht.jpg"

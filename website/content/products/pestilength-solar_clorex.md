@@ -5,7 +5,7 @@ artist: Pestilength
 categories:
 - Vinyl
 - CD
-date: '2023-12-19T06:02:32'
+date: '2024-07-09T13:21:07'
 draft: false
 images:
 - /images/covers/pestilength-solar_clorex.jpg

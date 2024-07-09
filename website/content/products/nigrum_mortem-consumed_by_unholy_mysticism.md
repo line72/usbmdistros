@@ -4,7 +4,7 @@ album: Consumed by Unholy Mysticism
 artist: Nigrum Mortem
 categories:
 - Vinyl
-date: '2022-07-12T05:00:33'
+date: '2024-07-09T00:40:09'
 draft: false
 images:
 - /images/covers/nigrum_mortem-consumed_by_unholy_mysticism.png

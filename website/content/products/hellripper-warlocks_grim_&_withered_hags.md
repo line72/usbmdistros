@@ -4,7 +4,7 @@ album: Warlocks Grim & Withered Hags
 artist: Hellripper
 categories:
 - Vinyl
-date: '2023-11-19T16:34:36'
+date: '2024-07-09T14:02:16'
 draft: false
 images:
 - /images/covers/hellripper-warlocks_grim_&_withered_hags.jpg
@@ -14,4 +14,4 @@ title: Hellripper - Warlocks Grim & Withered Hags
 ---
 
 ## Vinyl
-* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/hellripper-warlocks-grim-withered-hags-vinyl-lp) for $27.99 :: Vinyl LP
+* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/hellripper-warlocks-grim-withered-hags-vinyl-lp) for $27.99 :: warlocks grim & withered hags - vinyl lp

@@ -5,7 +5,7 @@ artist: Cirrhus
 categories:
 - Cassette
 - CD
-date: '2024-02-12T06:26:17'
+date: '2024-07-09T13:57:26'
 draft: false
 images:
 - /images/covers/cirrhus-cirrhus.png

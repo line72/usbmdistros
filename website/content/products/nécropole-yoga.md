@@ -4,7 +4,7 @@ album: Yoga
 artist: "N\xE9cropole"
 categories:
 - Vinyl
-date: '2023-09-03T10:32:51'
+date: '2024-07-09T13:57:24'
 draft: false
 images:
 - "/images/covers/n\xE9cropole-yoga.jpg"

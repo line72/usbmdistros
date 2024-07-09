@@ -5,7 +5,7 @@ artist: Moon And Azure Shadow
 categories:
 - Vinyl
 - CD
-date: '2024-01-26T01:44:55'
+date: '2024-07-09T14:10:21'
 draft: false
 images:
 - /images/covers/moon_and_azure_shadow-age_of_darkness_and_frost.jpg
@@ -15,6 +15,6 @@ title: Moon And Azure Shadow - Age of Darkness and Frost
 ---
 
 ## Vinyl
-* Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/moon-and-azure-shadow-age-of-darkness-and-frost-vinyl-lp-color) for $25.00 :: (Color)
+* Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/moon-and-azure-shadow-age-of-darkness-and-frost-vinyl-lp-color) for $25.00 :: (color)
 ## CD
-* Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/moon-and-azure-shadow-age-of-darkness-and-frost-cd-a5-size-digipak) for $15.00 :: (A5 size digipak)
+* Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/moon-and-azure-shadow-age-of-darkness-and-frost-cd-a5-size-digipak) for $15.00 :: (a5 size digipak)

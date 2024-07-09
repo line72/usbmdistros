@@ -1,16 +1,16 @@
 ---
 actualPrice: $14.00
 album: "L'h\xE9ritage"
-artist: "BOR\xC9ALYS"
+artist: "Bor\xE9alys"
 categories:
 - CD
-date: '2024-01-26T01:43:58'
+date: '2024-07-09T14:09:45'
 draft: false
 images:
 - "/images/covers/bor\xE9alys-l'h\xE9ritage.jpg"
 inStock: true
 thumbnailImage: "/images/covers/bor\xE9alys-l'h\xE9ritage-thumb.jpg"
-title: "BOR\xC9ALYS - L'h\xE9ritage"
+title: "Bor\xE9alys - L'h\xE9ritage"
 ---
 
 ## CD

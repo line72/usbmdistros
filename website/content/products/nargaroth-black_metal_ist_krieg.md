@@ -4,7 +4,7 @@ album: Black Metal ist Krieg
 artist: Nargaroth
 categories:
 - Vinyl
-date: '2023-11-19T16:41:58'
+date: '2024-07-09T14:02:23'
 draft: false
 images:
 - /images/covers/nargaroth-black_metal_ist_krieg.jpg
@@ -14,4 +14,4 @@ title: Nargaroth - Black Metal ist Krieg
 ---
 
 ## Vinyl
-* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/nargaroth-black-metal-ist-krieg-gold-double-vinyl-gatefold-limited-to-400) for $37.99 :: Gold double vinyl gatefold - Limited to 400
+* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/nargaroth-black-metal-ist-krieg-gold-double-vinyl-gatefold-limited-to-400) for $37.99 :: black metal ist krieg - gold double vinyl gatefold - limited to 400

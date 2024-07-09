@@ -1,10 +1,10 @@
 ---
-actualPrice: $4.00
+actualPrice: $15.00
 album: The Process Of Self-Immolation
 artist: Alraune
 categories:
-- Cassette
-date: '2023-08-14T05:18:30'
+- Vinyl
+date: '2024-07-09T13:56:14'
 draft: false
 images:
 - /images/covers/alraune-the_process_of_self-immolation.jpg
@@ -13,5 +13,5 @@ thumbnailImage: /images/covers/alraune-the_process_of_self-immolation-thumb.jpg
 title: Alraune - The Process Of Self-Immolation
 ---
 
-## Cassette
-* Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/36592001-alraune-the-process-of-self-immolation) for $4.00
+## Vinyl
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/used-alraune-the-process-of-self-immolation-lp) for $15.00 :: Black 2014 press vinyl

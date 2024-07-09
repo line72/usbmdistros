@@ -5,7 +5,7 @@ artist: Trollheim
 categories:
 - Vinyl
 - CD
-date: '2024-01-26T01:44:28'
+date: '2024-07-09T14:10:07'
 draft: false
 images:
 - /images/covers/trollheim-im_heidenwald_elfgards_&_ensomhet.jpg

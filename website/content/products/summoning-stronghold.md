@@ -5,7 +5,7 @@ artist: Summoning
 categories:
 - Vinyl
 - CD
-date: '2024-03-01T06:29:19'
+date: '2024-07-09T14:10:12'
 draft: false
 images:
 - /images/covers/summoning-stronghold.jpg
@@ -15,6 +15,6 @@ title: Summoning - Stronghold
 ---
 
 ## Vinyl
-* Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/summoning-stronghold-vinyl-2xlp-double-lp-gatefold) for $50.00 :: (Double LP Gatefold)
+* Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/summoning-stronghold-vinyl-2xlp-double-lp-gatefold) for $50.00 :: (double lp gatefold)
 ## CD
 * Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/summoning-stronghold-cd) for $15.00

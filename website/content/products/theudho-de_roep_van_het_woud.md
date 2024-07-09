@@ -1,10 +1,10 @@
 ---
-actualPrice: $8.00
+actualPrice: $10.00
 album: De Roep van het Woud
 artist: Theudho
 categories:
 - CD
-date: '2024-03-01T06:17:30'
+date: '2024-06-29T05:16:29'
 draft: false
 images:
 - /images/covers/theudho-de_roep_van_het_woud.png
@@ -14,4 +14,4 @@ title: Theudho - De Roep van het Woud
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=7060&sort=pd.name&order=ASC) for $8.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=51602&sort=pd.name&order=ASC) for $10.00

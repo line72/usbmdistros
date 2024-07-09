@@ -1,12 +1,11 @@
 ---
-actualPrice: $12.00 - 20.00
+actualPrice: $15.00 - 25.00
 album: Supreme Terror
 artist: Sacrocurse
 categories:
 - Vinyl
 - Cassette
-- CD
-date: '2024-03-01T06:18:04'
+date: '2024-05-03T05:16:04'
 draft: false
 images:
 - /images/covers/sacrocurse-supreme_terror.jpg
@@ -16,8 +15,6 @@ title: Sacrocurse - Supreme Terror
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=18555&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=18555&sort=pd.name&order=ASC) for $25.00
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=28744&sort=pd.name&order=ASC) for $12.00
-## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=20060&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=28744&sort=pd.name&order=ASC) for $15.00

@@ -4,7 +4,7 @@ album: 'Astrolatria I: Initiatio'
 artist: Apogeion
 categories:
 - Vinyl
-date: '2023-09-03T10:32:51'
+date: '2024-07-09T13:57:25'
 draft: false
 images:
 - /images/covers/apogeion-astrolatria_i:_initiatio.jpg

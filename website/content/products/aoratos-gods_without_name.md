@@ -4,7 +4,7 @@ album: Gods Without Name
 artist: Aoratos
 categories:
 - Vinyl
-date: '2022-11-29T06:01:54'
+date: '2024-07-09T13:20:57'
 draft: false
 images:
 - /images/covers/aoratos-gods_without_name.jpg

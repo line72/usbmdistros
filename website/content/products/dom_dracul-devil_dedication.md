@@ -1,10 +1,10 @@
 ---
-actualPrice: $6.40
+actualPrice: $8.00
 album: Devil Dedication
 artist: Dom Dracul
 categories:
 - CD
-date: '2024-03-01T06:16:49'
+date: '2024-05-03T05:14:52'
 draft: false
 images:
 - /images/covers/dom_dracul-devil_dedication.jpg
@@ -14,4 +14,4 @@ title: Dom Dracul - Devil Dedication
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=45591&sort=pd.name&order=ASC) for $6.40
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=45591&sort=pd.name&order=ASC) for $8.00

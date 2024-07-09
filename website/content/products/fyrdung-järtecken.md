@@ -4,7 +4,7 @@ album: "J\xE4rtecken"
 artist: Fyrdung
 categories:
 - Vinyl
-date: '2023-11-20T23:05:48'
+date: '2024-07-09T13:57:24'
 draft: false
 images:
 - "/images/covers/fyrdung-j\xE4rtecken.jpg"

@@ -4,7 +4,7 @@ album: Of Scorched Earth
 artist: Malist
 categories:
 - Vinyl
-date: '2024-02-18T06:25:37'
+date: '2024-07-09T14:02:05'
 draft: false
 images:
 - /images/covers/malist-of_scorched_earth.jpg
@@ -14,4 +14,4 @@ title: Malist - Of Scorched Earth
 ---
 
 ## Vinyl
-* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/malist-of-scorched-earth-limited-blue-gatefold-vinyl-lp) for $27.99 :: Limited Blue, Gatefold Vinyl LP
+* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/malist-of-scorched-earth-limited-blue-gatefold-vinyl-lp) for $27.99 :: limited blue, gatefold vinyl lp

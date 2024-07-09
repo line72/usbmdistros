@@ -4,7 +4,7 @@ album: Lumi Vaientaa Kysymykse
 artist: Circle of Ouroborus
 categories:
 - Vinyl
-date: '2023-12-29T06:01:01'
+date: '2024-07-09T00:39:54'
 draft: false
 images:
 - /images/covers/circle_of_ouroborus-lumi_vaientaa_kysymykse.jpg

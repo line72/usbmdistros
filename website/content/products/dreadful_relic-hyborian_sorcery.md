@@ -4,7 +4,7 @@ album: Hyborian Sorcery
 artist: Dreadful Relic
 categories:
 - CD
-date: '2023-11-19T08:27:47'
+date: '2024-07-09T13:44:35'
 draft: false
 images:
 - /images/covers/dreadful_relic-hyborian_sorcery.jpg

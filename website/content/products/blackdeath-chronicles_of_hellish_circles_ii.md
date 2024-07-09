@@ -4,7 +4,7 @@ album: Chronicles of Hellish Circles II
 artist: Blackdeath
 categories:
 - CD
-date: '2023-03-14T00:27:40'
+date: '2024-07-09T13:44:36'
 draft: false
 images:
 - /images/covers/blackdeath-chronicles_of_hellish_circles_ii.jpg

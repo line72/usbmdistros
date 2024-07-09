@@ -4,7 +4,7 @@ album: Fallen
 artist: Burzum
 categories:
 - CD
-date: '2024-04-08T05:15:39'
+date: '2024-05-03T05:14:46'
 draft: false
 images:
 - /images/covers/burzum-fallen.jpg

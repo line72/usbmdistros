@@ -4,7 +4,7 @@ album: "Syksy sieluni y\xF6ss\xE4"
 artist: Stormheit
 categories:
 - CD
-date: '2024-02-12T06:26:17'
+date: '2024-07-09T13:57:24'
 draft: false
 images:
 - "/images/covers/stormheit-syksy_sieluni_y\xF6ss\xE4.jpg"

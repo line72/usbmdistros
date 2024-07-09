@@ -4,7 +4,7 @@ album: The Howling Call Of The Moon
 artist: Gauntlet Ring
 categories:
 - CD
-date: '2023-08-24T18:20:25'
+date: '2024-07-09T13:57:25'
 draft: false
 images:
 - /images/covers/gauntlet_ring-the_howling_call_of_the_moon.png

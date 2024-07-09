@@ -4,7 +4,7 @@ album: From the Abyss of Dungeons of Darkness
 artist: Thoth
 categories:
 - Vinyl
-date: '2023-04-18T05:35:22'
+date: '2024-07-09T13:57:25'
 draft: false
 images:
 - /images/covers/thoth-from_the_abyss_of_dungeons_of_darkness.jpg

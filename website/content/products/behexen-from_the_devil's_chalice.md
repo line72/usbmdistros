@@ -4,7 +4,7 @@ album: From The Devil's Chalice
 artist: Behexen
 categories:
 - CD
-date: '2021-06-26T15:15:52'
+date: '2024-07-09T13:20:59'
 draft: false
 images:
 - /images/covers/behexen-from_the_devil's_chalice.jpg

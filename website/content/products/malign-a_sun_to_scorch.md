@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00
+actualPrice: $15.00
 album: A Sun To Scorch
 artist: Malign
 categories:
 - Vinyl
-date: '2024-03-01T06:15:35'
+date: '2024-05-03T05:13:44'
 draft: false
 images:
 - /images/covers/malign-a_sun_to_scorch.jpg
@@ -14,4 +14,4 @@ title: Malign - A Sun To Scorch
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=2085&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=2085&sort=pd.name&order=ASC) for $15.00

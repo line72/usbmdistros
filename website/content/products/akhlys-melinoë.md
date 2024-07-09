@@ -1,17 +1,17 @@
 ---
-actualPrice: $26.00
-album: "MELINO\xCB"
+actualPrice: $9.99
+album: "Melino\xEB"
 artist: Akhlys
 categories:
-- Vinyl
-date: '2023-11-19T16:33:39'
+- CD
+date: '2024-07-09T13:20:56'
 draft: false
 images:
 - "/images/covers/akhlys-melino\xEB.jpg"
 inStock: true
 thumbnailImage: "/images/covers/akhlys-melino\xEB-thumb.jpg"
-title: "Akhlys - MELINO\xCB"
+title: "Akhlys - Melino\xEB"
 ---
 
-## Vinyl
-* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/akhlys-melinoe-mustard-beer-merge-heavy-vinyl-with-splatters-vinyl-lp) for $26.00 :: mustard / beer merge heavy vinyl with splatters Vinyl LP
+## CD
+* Purchase from [Debemur Morti](https://debemurmorti.aisamerch.com/item/93978) for $9.99

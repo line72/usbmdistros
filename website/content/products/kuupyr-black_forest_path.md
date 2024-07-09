@@ -4,7 +4,7 @@ album: Black Forest Path
 artist: Kuupyr
 categories:
 - CD
-date: '2023-01-05T06:19:47'
+date: '2024-07-09T13:44:37'
 draft: false
 images:
 - /images/covers/kuupyr-black_forest_path.png

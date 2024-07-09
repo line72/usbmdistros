@@ -4,7 +4,7 @@ album: Islamske Bolesti/Dolazak Antihrista
 artist: '1389'
 categories:
 - Vinyl
-date: '2023-11-19T08:28:05'
+date: '2024-07-09T13:44:35'
 draft: false
 images:
 - /images/covers/1389-islamske_bolesti-dolazak_antihrista.png

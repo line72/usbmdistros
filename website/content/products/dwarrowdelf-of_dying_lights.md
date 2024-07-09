@@ -1,10 +1,11 @@
 ---
-actualPrice: $24.99
+actualPrice: $8.00 - 24.99
 album: Of Dying Lights
 artist: DWARROWDELF
 categories:
 - Vinyl
-date: '2024-01-26T01:44:58'
+- Cassette
+date: '2024-07-09T14:10:08'
 draft: false
 images:
 - /images/covers/dwarrowdelf-of_dying_lights.jpg
@@ -15,3 +16,5 @@ title: DWARROWDELF - Of Dying Lights
 
 ## Vinyl
 * Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/dwarrowdelf-of-dying-lights-vinyl-lp-color-lim199) for $24.99 :: (color, lim.195)
+## Cassette
+* Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/copy-of-dwarrowdelf-of-dying-lights-pro-tape) for $8.00

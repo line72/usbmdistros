@@ -4,7 +4,7 @@ album: Atl Tlachinolli
 artist: BLUE HUMMINGBIRD ON THE LEFT
 categories:
 - CD
-date: '2024-01-26T01:44:29'
+date: '2024-07-09T14:10:07'
 draft: false
 images:
 - /images/covers/blue_hummingbird_on_the_left-atl_tlachinolli.jpg

@@ -4,7 +4,7 @@ album: "\xDApal"
 artist: "Kostnat\u011Bn\xED"
 categories:
 - Vinyl
-date: '2023-12-17T13:28:53'
+date: '2024-07-09T14:02:09'
 draft: false
 images:
 - "/images/covers/kostnat\u011Bn\xED-\xFApal.jpg"
@@ -14,4 +14,4 @@ title: "Kostnat\u011Bn\xED - \xDApal"
 ---
 
 ## Vinyl
-* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/kostnateni-upal-ltd-150-splatter-vinyl-lp) for $29.99 :: *LTD 150* Splatter VInyl LP
+* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/kostnateni-upal-ltd-150-splatter-vinyl-lp) for $29.99 :: *ltd 150* splatter vinyl lp

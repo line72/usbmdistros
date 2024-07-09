@@ -4,7 +4,7 @@ album: Feuerwalze
 artist: Minenwerfer
 categories:
 - Vinyl
-date: '2023-04-06T05:00:52'
+date: '2024-07-09T00:40:02'
 draft: false
 images:
 - /images/covers/minenwerfer-feuerwalze.jpg

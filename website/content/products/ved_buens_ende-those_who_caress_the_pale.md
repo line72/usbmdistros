@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00
+actualPrice: $15.00
 album: Those Who Caress the Pale
 artist: Ved Buens Ende
 categories:
 - CD
-date: '2024-03-01T06:17:33'
+date: '2024-05-03T05:15:33'
 draft: false
 images:
 - /images/covers/ved_buens_ende-those_who_caress_the_pale.jpg
@@ -14,4 +14,4 @@ title: Ved Buens Ende - Those Who Caress the Pale
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=47709&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=47709&sort=pd.name&order=ASC) for $15.00

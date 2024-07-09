@@ -4,7 +4,7 @@ album: Ikonoklast
 artist: Urgehal
 categories:
 - Vinyl
-date: '2024-01-26T01:44:06'
+date: '2024-07-09T14:09:51'
 draft: false
 images:
 - /images/covers/urgehal-ikonoklast.jpg
@@ -14,4 +14,4 @@ title: Urgehal - Ikonoklast
 ---
 
 ## Vinyl
-* Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/urgehal-ikonoklast-vinyl-2xlp-double-lp-gatefold-color) for $25.00 :: (double LP gatefold, color)
+* Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/urgehal-ikonoklast-vinyl-2xlp-double-lp-gatefold-color) for $25.00 :: (double lp gatefold, color)

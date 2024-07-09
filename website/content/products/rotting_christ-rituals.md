@@ -4,7 +4,7 @@ album: Rituals
 artist: Rotting Christ
 categories:
 - Vinyl
-date: '2024-03-15T05:27:54'
+date: '2024-07-09T14:02:03'
 draft: false
 images:
 - /images/covers/rotting_christ-rituals.jpg
@@ -14,4 +14,4 @@ title: Rotting Christ - Rituals
 ---
 
 ## Vinyl
-* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/rotting-christ-rituals-2lp-marble-black-red-vinyl-dlp) for $43.99 :: 2LP Marble Black/Red Vinyl DLP (SOM Exclusive)
+* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/rotting-christ-rituals-2lp-marble-black-red-vinyl-dlp) for $43.99 :: 2lp marble black/red vinyl dlp (som exclusive)

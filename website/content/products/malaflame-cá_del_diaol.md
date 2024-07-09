@@ -4,7 +4,7 @@ album: "C\xE1 del diaol"
 artist: Malaflame
 categories:
 - CD
-date: '2023-03-07T14:05:37'
+date: '2024-07-09T13:57:25'
 draft: false
 images:
 - "/images/covers/malaflame-c\xE1_del_diaol.jpg"

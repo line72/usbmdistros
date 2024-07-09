@@ -5,7 +5,7 @@ artist: Revenant Marquis
 categories:
 - Vinyl
 - CD
-date: '2024-01-26T01:44:55'
+date: '2024-07-09T14:10:21'
 draft: false
 images:
 - /images/covers/revenant_marquis-cyflymiad_o'r_holl_arferion_ocwlt.jpg
@@ -17,4 +17,4 @@ title: Revenant Marquis - Cyflymiad O'r Holl Arferion Ocwlt
 ## Vinyl
 * Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/revenant-marquis-cyflymiad-or-holl-arferion-ocwlt-vinyl-lp) for $27.00 :: (lim.150)
 ## CD
-* Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/revenant-marquis-cyflymiad-or-holl-arferion-ocwlt-cd-a5-digipak) for $12.99 :: (A5 size digipak)
+* Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/revenant-marquis-cyflymiad-or-holl-arferion-ocwlt-cd-a5-digipak) for $12.99 :: (a5 size digipak)

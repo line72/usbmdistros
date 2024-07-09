@@ -5,7 +5,7 @@ artist: Eldamar
 categories:
 - Vinyl
 - CD
-date: '2024-01-26T01:44:42'
+date: '2024-07-09T14:09:46'
 draft: false
 images:
 - /images/covers/eldamar-a_dark_forgotten_past.jpg

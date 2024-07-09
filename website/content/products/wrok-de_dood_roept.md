@@ -4,7 +4,7 @@ album: De Dood Roept
 artist: Wrok
 categories:
 - CD
-date: '2023-02-09T06:29:49'
+date: '2024-07-09T13:57:25'
 draft: false
 images:
 - /images/covers/wrok-de_dood_roept.jpg

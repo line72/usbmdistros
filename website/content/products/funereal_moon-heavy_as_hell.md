@@ -1,10 +1,10 @@
 ---
-actualPrice: $8.00
+actualPrice: $10.00
 album: Heavy as Hell
 artist: Funereal Moon
 categories:
 - CD
-date: '2024-03-01T06:16:55'
+date: '2024-05-03T05:14:56'
 draft: false
 images:
 - /images/covers/funereal_moon-heavy_as_hell.jpg
@@ -14,4 +14,4 @@ title: Funereal Moon - Heavy as Hell
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=3214&sort=pd.name&order=ASC) for $8.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=3214&sort=pd.name&order=ASC) for $10.00

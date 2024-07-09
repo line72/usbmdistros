@@ -4,7 +4,7 @@ album: Dreams Of Fragmentation
 artist: Cailleach Calling
 categories:
 - CD
-date: '2022-01-21T06:01:08'
+date: '2024-07-09T13:21:01'
 draft: false
 images:
 - /images/covers/cailleach_calling-dreams_of_fragmentation.jpg

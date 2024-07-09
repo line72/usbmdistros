@@ -4,7 +4,7 @@ album: Eine Flamme Im Dunkeln
 artist: Wolfnacht
 categories:
 - Vinyl
-date: '2024-03-05T06:18:55'
+date: '2024-07-09T13:44:34'
 draft: false
 images:
 - /images/covers/wolfnacht-eine_flamme_im_dunkeln.jpg

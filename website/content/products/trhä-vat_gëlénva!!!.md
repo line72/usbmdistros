@@ -1,16 +1,16 @@
 ---
 actualPrice: $13.99
 album: "Vat G\xEBl\xE9nva!!!"
-artist: "TRH\xC4"
+artist: "Trh\xE4"
 categories:
 - CD
-date: '2024-01-26T01:44:04'
+date: '2024-07-09T14:09:49'
 draft: false
 images:
 - "/images/covers/trh\xE4-vat_g\xEBl\xE9nva!!!.jpg"
 inStock: true
 thumbnailImage: "/images/covers/trh\xE4-vat_g\xEBl\xE9nva!!!-thumb.jpg"
-title: "TRH\xC4 - Vat G\xEBl\xE9nva!!!"
+title: "Trh\xE4 - Vat G\xEBl\xE9nva!!!"
 ---
 
 ## CD

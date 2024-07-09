@@ -4,7 +4,7 @@ album: Unearthed
 artist: Valhalla
 categories:
 - Vinyl
-date: '2022-10-17T05:24:45'
+date: '2024-07-09T13:57:26'
 draft: false
 images:
 - /images/covers/valhalla-unearthed.jpg

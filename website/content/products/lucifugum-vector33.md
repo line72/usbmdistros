@@ -4,7 +4,7 @@ album: Vector33
 artist: Lucifugum
 categories:
 - CD
-date: '2021-08-17T13:15:22'
+date: '2024-07-09T13:57:26'
 draft: false
 images:
 - /images/covers/lucifugum-vector33.jpg

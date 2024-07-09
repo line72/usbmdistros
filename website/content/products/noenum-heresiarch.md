@@ -4,7 +4,7 @@ album: Heresiarch
 artist: Noenum
 categories:
 - Vinyl
-date: '2023-12-22T06:01:18'
+date: '2024-07-09T00:39:54'
 draft: false
 images:
 - /images/covers/noenum-heresiarch.jpg

@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00
+actualPrice: $15.00
 album: Black Millenium "Grimly Reborn)
 artist: "M\xFCtiilation"
 categories:
 - CD
-date: '2024-03-01T06:17:11'
+date: '2024-06-10T05:16:45'
 draft: false
 images:
 - "/images/covers/m\xFCtiilation-black_millenium_\"grimly_reborn).jpg"
@@ -14,4 +14,4 @@ title: "M\xFCtiilation - Black Millenium \"Grimly Reborn)"
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=44832&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=50960&sort=pd.name&order=ASC) for $15.00

@@ -5,7 +5,7 @@ artist: Light of the Morning Star
 categories:
 - Vinyl
 - CD
-date: '2021-09-08T05:00:40'
+date: '2024-07-09T13:21:05'
 draft: false
 images:
 - /images/covers/light_of_the_morning_star-charnel_noir.jpg
@@ -18,4 +18,3 @@ title: Light of the Morning Star - Charnel Noir
 * Purchase from [Debemur Morti](https://debemurmorti.aisamerch.com/item/102477) for $22.99
 ## CD
 * Purchase from [Debemur Morti](https://debemurmorti.aisamerch.com/item/102475) for $9.99
-* Purchase from [Debemur Morti](https://debemurmorti.aisamerch.com/item/102476) for $22.99 :: special edition

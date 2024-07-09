@@ -4,7 +4,7 @@ album: Demonize Destroy Delete
 artist: Abhomine
 categories:
 - CD
-date: '2023-11-19T16:00:36'
+date: '2024-07-09T13:57:26'
 draft: false
 images:
 - /images/covers/abhomine-demonize_destroy_delete.jpg

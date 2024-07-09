@@ -1,16 +1,16 @@
 ---
 actualPrice: $18.00
 album: "De F\xF6rdolda Klangorna"
-artist: "BEK\xCBTH NEX\xCBHM\xDC"
+artist: "Bek\xEBth Nex\xEBhm\xFC"
 categories:
 - CD
-date: '2024-01-26T01:44:34'
+date: '2024-07-09T14:10:10'
 draft: false
 images:
 - "/images/covers/bek\xEBth_nex\xEBhm\xFC-de_f\xF6rdolda_klangorna.png"
 inStock: true
 thumbnailImage: "/images/covers/bek\xEBth_nex\xEBhm\xFC-de_f\xF6rdolda_klangorna-thumb.png"
-title: "BEK\xCBTH NEX\xCBHM\xDC - De F\xF6rdolda Klangorna"
+title: "Bek\xEBth Nex\xEBhm\xFC - De F\xF6rdolda Klangorna"
 ---
 
 ## CD

@@ -4,7 +4,7 @@ album: Alphaville
 artist: Imperial Triumphant
 categories:
 - Vinyl
-date: '2023-11-19T16:32:59'
+date: '2024-07-09T14:02:13'
 draft: false
 images:
 - /images/covers/imperial_triumphant-alphaville.jpg
@@ -14,4 +14,4 @@ title: Imperial Triumphant - Alphaville
 ---
 
 ## Vinyl
-* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/imperial-triumphant-alphaville-transparent-red-vinyl-lp-booklet) for $32.97 :: 2023 reissue Transparent Red Vinyl LP + Booklet
+* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/imperial-triumphant-alphaville-transparent-red-vinyl-lp-booklet) for $32.97 :: 2023 reissue transparent red vinyl lp + booklet

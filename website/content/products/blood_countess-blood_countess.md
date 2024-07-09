@@ -1,10 +1,10 @@
 ---
-actualPrice: $7.20
+actualPrice: $9.00
 album: Blood Countess
 artist: Blood Countess
 categories:
 - Cassette
-date: '2024-03-01T06:17:42'
+date: '2024-05-03T05:15:43'
 draft: false
 images:
 - /images/covers/blood_countess-blood_countess.jpg
@@ -14,4 +14,4 @@ title: Blood Countess - Blood Countess
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=18011&sort=pd.name&order=ASC) for $7.20
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=18011&sort=pd.name&order=ASC) for $9.00

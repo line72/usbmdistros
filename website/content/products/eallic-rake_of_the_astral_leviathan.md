@@ -1,10 +1,10 @@
 ---
-actualPrice: $3.50
+actualPrice: $8.00
 album: Rake Of The Astral Leviathan
 artist: Eallic
 categories:
-- CD
-date: '2022-09-26T05:02:48'
+- Cassette
+date: '2024-07-09T13:56:15'
 draft: false
 images:
 - /images/covers/eallic-rake_of_the_astral_leviathan.jpg
@@ -13,5 +13,5 @@ thumbnailImage: /images/covers/eallic-rake_of_the_astral_leviathan-thumb.jpg
 title: Eallic - Rake Of The Astral Leviathan
 ---
 
-## CD
-* Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/35387494-eallic-rake-of-the-astral-leviathan-cd) for $3.50
+## Cassette
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/used-eallic-rake-of-the-astral-leviathan-cassette) for $8.00 :: Cassette Tape 1st press

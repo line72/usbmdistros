@@ -4,7 +4,7 @@ album: Untitled
 artist: Carved Cross
 categories:
 - CD
-date: '2023-05-29T05:02:02'
+date: '2024-07-09T00:40:42'
 draft: false
 images:
 - /images/covers/carved_cross-untitled.jpg

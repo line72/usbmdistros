@@ -4,7 +4,7 @@ album: Blood Washed Away the Grave Purity
 artist: Orgy of Carrion
 categories:
 - CD
-date: '2024-01-26T01:44:26'
+date: '2024-07-09T14:10:06'
 draft: false
 images:
 - /images/covers/orgy_of_carrion-blood_washed_away_the_grave_purity.jpg
@@ -14,4 +14,4 @@ title: Orgy of Carrion - Blood Washed Away the Grave Purity
 ---
 
 ## CD
-* Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/orgy-of-carrion-blood-washed-away-the-grave-purity-cd-a5-size-digipak) for $11.99 :: [A5 size digipak]
+* Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/orgy-of-carrion-blood-washed-away-the-grave-purity-cd-a5-size-digipak) for $11.99 :: [a5 size digipak]

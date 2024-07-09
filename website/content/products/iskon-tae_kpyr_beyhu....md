@@ -1,10 +1,10 @@
 ---
-actualPrice: $4.00
+actualPrice: $5.00
 album: Tae Kpyr Beyhu...
 artist: Iskon
 categories:
 - CD
-date: '2024-03-01T06:17:03'
+date: '2024-05-03T05:15:07'
 draft: false
 images:
 - /images/covers/iskon-tae_kpyr_beyhu....jpg
@@ -14,4 +14,4 @@ title: Iskon - Tae Kpyr Beyhu...
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=2063&sort=pd.name&order=ASC) for $4.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=2063&sort=pd.name&order=ASC) for $5.00

@@ -1,10 +1,10 @@
 ---
-actualPrice: $18.00
+actualPrice: $22.00
 album: The Wheel
 artist: "Sl\xE6gt"
 categories:
 - Vinyl
-date: '2023-03-07T14:05:12'
+date: '2024-07-06T05:24:08'
 draft: false
 images:
 - "/images/covers/sl\xE6gt-the_wheel.jpg"
@@ -14,4 +14,4 @@ title: "Sl\xE6gt - The Wheel"
 ---
 
 ## Vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/slaegt-the-wheel) for $18.00 :: White 1st press
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/slaegt-the-wheel) for $22.00 :: White 1st press

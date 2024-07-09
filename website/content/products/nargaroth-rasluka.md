@@ -4,7 +4,7 @@ album: Rasluka
 artist: Nargaroth
 categories:
 - CD
-date: '2024-03-18T05:20:22'
+date: '2024-07-09T13:44:34'
 draft: false
 images:
 - /images/covers/nargaroth-rasluka.jpg

@@ -4,7 +4,7 @@ album: Helvetrich
 artist: Grausamkeit
 categories:
 - CD
-date: '2024-03-23T05:01:49'
+date: '2024-07-09T00:40:39'
 draft: false
 images:
 - /images/covers/grausamkeit-helvetrich.jpg

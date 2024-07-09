@@ -4,7 +4,7 @@ album: Gathering of the Forlorn Souls
 artist: Wolftower
 categories:
 - Vinyl
-date: '2024-01-26T01:44:10'
+date: '2024-07-09T14:09:54'
 draft: false
 images:
 - /images/covers/wolftower-gathering_of_the_forlorn_souls.jpg

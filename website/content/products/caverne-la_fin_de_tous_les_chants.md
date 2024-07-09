@@ -1,10 +1,10 @@
 ---
-actualPrice: $21.60
+actualPrice: $27.00
 album: La fin de tous les chants
 artist: Caverne
 categories:
 - Vinyl
-date: '2024-03-01T06:15:05'
+date: '2024-05-09T05:12:02'
 draft: false
 images:
 - /images/covers/caverne-la_fin_de_tous_les_chants.png
@@ -14,4 +14,4 @@ title: Caverne - La fin de tous les chants
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=46630&sort=pd.name&order=ASC) for $21.60
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=49729&sort=pd.name&order=ASC) for $27.00

@@ -5,7 +5,7 @@ artist: Grave Pilgrim
 categories:
 - Vinyl
 - CD
-date: '2024-01-26T01:44:53'
+date: '2024-07-09T14:10:19'
 draft: false
 images:
 - /images/covers/grave_pilgrim-grave_pilgrim.png

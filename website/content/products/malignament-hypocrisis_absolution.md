@@ -5,7 +5,7 @@ artist: Malignament
 categories:
 - Vinyl
 - CD
-date: '2023-03-14T00:27:40'
+date: '2024-07-09T13:44:36'
 draft: false
 images:
 - /images/covers/malignament-hypocrisis_absolution.jpg

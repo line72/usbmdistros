@@ -4,7 +4,7 @@ album: "De Mis\xE8re et D'Engelures"
 artist: Moulin Banal
 categories:
 - Vinyl
-date: '2024-01-26T01:44:40'
+date: '2024-07-09T14:10:13'
 draft: false
 images:
 - "/images/covers/moulin_banal-de_mis\xE8re_et_d'engelures.jpg"

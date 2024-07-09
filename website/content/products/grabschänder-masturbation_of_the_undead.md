@@ -4,7 +4,7 @@ album: Masturbation of the Undead
 artist: "Grabsch\xE4nder"
 categories:
 - Vinyl
-date: '2023-08-24T18:20:25'
+date: '2024-07-09T13:57:25'
 draft: false
 images:
 - "/images/covers/grabsch\xE4nder-masturbation_of_the_undead.jpg"

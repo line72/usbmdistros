@@ -4,7 +4,7 @@ album: Archives Of An Enchanted Philosophy
 artist: Bishop of Hexen
 categories:
 - Vinyl
-date: '2023-05-16T20:32:20'
+date: '2024-07-09T13:57:25'
 draft: false
 images:
 - /images/covers/bishop_of_hexen-archives_of_an_enchanted_philosophy.jpg

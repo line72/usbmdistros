@@ -1,10 +1,10 @@
 ---
-actualPrice: $20.00
+actualPrice: $25.00
 album: Non Omnis Moriar
 artist: Mavorim
 categories:
 - Vinyl
-date: '2024-03-01T06:15:37'
+date: '2024-05-03T05:13:46'
 draft: false
 images:
 - /images/covers/mavorim-non_omnis_moriar.png
@@ -14,4 +14,4 @@ title: Mavorim - Non Omnis Moriar
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=30520&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=30520&sort=pd.name&order=ASC) for $25.00

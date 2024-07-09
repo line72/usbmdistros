@@ -4,7 +4,7 @@ album: They Who Abideth Amidst the Poison
 artist: Dagon
 categories:
 - CD
-date: '2023-05-16T20:32:20'
+date: '2024-07-09T13:57:25'
 draft: false
 images:
 - /images/covers/dagon-they_who_abideth_amidst_the_poison.jpg

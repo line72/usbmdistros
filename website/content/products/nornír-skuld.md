@@ -4,7 +4,7 @@ album: Skuld
 artist: "Norn\xEDr"
 categories:
 - Vinyl
-date: '2024-01-02T06:23:57'
+date: '2024-07-09T14:02:08'
 draft: false
 images:
 - "/images/covers/norn\xEDr-skuld.jpg"
@@ -14,4 +14,4 @@ title: "Norn\xEDr - Skuld"
 ---
 
 ## Vinyl
-* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/nornir-skuld-clear-black-galaxy-vinyl-lp) for $35.00 :: Clear/Black Galaxy Vinyl LP
+* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/nornir-skuld-clear-black-galaxy-vinyl-lp) for $35.00 :: clear/black galaxy vinyl lp

@@ -5,7 +5,7 @@ artist: Sur Austru
 categories:
 - Vinyl
 - CD
-date: '2024-01-26T01:44:43'
+date: '2024-07-09T14:10:14'
 draft: false
 images:
 - /images/covers/sur_austru-obarsie.png
@@ -17,4 +17,4 @@ title: Sur Austru - Obarsie
 ## Vinyl
 * Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/sur-austru-obarsie-vinyl-2xlp-gatefold) for $33.00 :: (gatefold, color, lim. 150)
 ## CD
-* Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/sur-austru-obarsie-cd) for $11.00 :: [Digipak]
+* Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/sur-austru-obarsie-cd) for $11.00 :: [digipak]

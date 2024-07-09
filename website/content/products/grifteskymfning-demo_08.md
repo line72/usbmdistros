@@ -4,7 +4,7 @@ album: Demo 08
 artist: Grifteskymfning
 categories:
 - Vinyl
-date: '2023-03-30T05:33:23'
+date: '2024-07-09T13:57:25'
 draft: false
 images:
 - /images/covers/grifteskymfning-demo_08.jpg

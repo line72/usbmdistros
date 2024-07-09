@@ -4,7 +4,7 @@ album: "Sous l'\u0153il ferm\xE9 des paradis"
 artist: Oes Galliath
 categories:
 - CD
-date: '2022-12-29T06:26:46'
+date: '2024-07-09T13:57:25'
 draft: false
 images:
 - "/images/covers/oes_galliath-sous_l'\u0153il_ferm\xE9_des_paradis.jpg"

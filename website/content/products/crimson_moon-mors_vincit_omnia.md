@@ -5,7 +5,7 @@ artist: Crimson Moon
 categories:
 - Vinyl
 - CD
-date: '2021-06-26T15:15:52'
+date: '2024-07-09T13:21:01'
 draft: false
 images:
 - /images/covers/crimson_moon-mors_vincit_omnia.jpg

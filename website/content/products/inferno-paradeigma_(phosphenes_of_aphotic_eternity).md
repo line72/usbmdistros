@@ -1,10 +1,11 @@
 ---
-actualPrice: $9.60
+actualPrice: $10.99 - 24.99
 album: Paradeigma (Phosphenes of Aphotic Eternity)
 artist: Inferno
 categories:
-- Cassette
-date: '2024-03-01T06:17:54'
+- Vinyl
+- CD
+date: '2024-07-09T13:21:04'
 draft: false
 images:
 - /images/covers/inferno-paradeigma_(phosphenes_of_aphotic_eternity).png
@@ -13,5 +14,7 @@ thumbnailImage: /images/covers/inferno-paradeigma_(phosphenes_of_aphotic_eternit
 title: Inferno - Paradeigma (Phosphenes of Aphotic Eternity)
 ---
 
-## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=15543&sort=pd.name&order=ASC) for $9.60
+## Vinyl
+* Purchase from [Debemur Morti](https://debemurmorti.aisamerch.com/item/98077) for $24.99 :: phosphenes of aphotic eternity
+## CD
+* Purchase from [Debemur Morti](https://debemurmorti.aisamerch.com/item/98079) for $10.99 :: phosphenes of aphotic eternity

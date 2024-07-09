@@ -4,7 +4,7 @@ album: Enslaved by the Cave
 artist: Drowning The Light
 categories:
 - CD
-date: '2023-10-08T05:15:16'
+date: '2024-07-09T00:40:41'
 draft: false
 images:
 - /images/covers/drowning_the_light-enslaved_by_the_cave.jpg

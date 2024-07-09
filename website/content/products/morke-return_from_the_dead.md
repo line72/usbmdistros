@@ -4,7 +4,7 @@ album: Return from the Dead
 artist: Morke
 categories:
 - Vinyl
-date: '2023-11-19T15:42:26'
+date: '2024-07-09T13:57:24'
 draft: false
 images:
 - /images/covers/morke-return_from_the_dead.jpg

@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00
+actualPrice: $15.00
 album: Flesh Inferno
 artist: Blackwinds
 categories:
 - CD
-date: '2024-03-01T06:16:41'
+date: '2024-05-03T05:14:45'
 draft: false
 images:
 - /images/covers/blackwinds-flesh_inferno.jpg
@@ -14,4 +14,4 @@ title: Blackwinds - Flesh Inferno
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=19913&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=19913&sort=pd.name&order=ASC) for $15.00

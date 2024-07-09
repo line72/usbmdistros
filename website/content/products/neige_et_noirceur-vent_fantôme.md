@@ -4,7 +4,7 @@ album: "Vent Fant\xF4me"
 artist: Neige et Noirceur
 categories:
 - Vinyl
-date: '2024-01-26T01:44:19'
+date: '2024-07-09T14:10:02'
 draft: false
 images:
 - "/images/covers/neige_et_noirceur-vent_fant\xF4me.jpg"

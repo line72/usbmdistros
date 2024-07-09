@@ -4,7 +4,7 @@ album: Symbols of Seven Harmonies
 artist: Versteck
 categories:
 - CD
-date: '2024-03-24T05:01:53'
+date: '2024-07-09T00:40:39'
 draft: false
 images:
 - /images/covers/versteck-symbols_of_seven_harmonies.jpg

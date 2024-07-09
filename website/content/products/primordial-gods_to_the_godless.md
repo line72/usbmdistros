@@ -4,7 +4,7 @@ album: Gods to the Godless
 artist: Primordial
 categories:
 - Vinyl
-date: '2023-11-19T16:40:32'
+date: '2024-07-09T14:02:20'
 draft: false
 images:
 - /images/covers/primordial-gods_to_the_godless.jpg
@@ -14,4 +14,4 @@ title: Primordial - Gods to the Godless
 ---
 
 ## Vinyl
-* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/primordial-gods-to-the-godless-marbled-green-numbered-limited-to-200) for $27.99 :: Marbled Green (Numbered, Limited to 200)
+* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/primordial-gods-to-the-godless-marbled-green-numbered-limited-to-200) for $27.99 :: marbled green (numbered, limited to 200)

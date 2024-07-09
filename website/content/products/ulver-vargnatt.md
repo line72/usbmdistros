@@ -1,10 +1,10 @@
 ---
-actualPrice: $21.60
+actualPrice: $27.00 - 31.99
 album: Vargnatt
 artist: Ulver
 categories:
 - Vinyl
-date: '2024-03-24T05:15:51'
+date: '2024-07-09T14:01:59'
 draft: false
 images:
 - /images/covers/ulver-vargnatt.jpg
@@ -14,4 +14,5 @@ title: Ulver - Vargnatt
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=48570&sort=pd.name&order=ASC) for $21.60
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=49940&sort=pd.name&order=ASC) for $27.00
+* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/ulver-vargnatt-limited-oxblood-vinyl-lp) for $31.99 :: limited oxblood vinyl lp

@@ -4,7 +4,7 @@ album: "Acte Dix: D\xE9mos"
 artist: Darvulia
 categories:
 - Vinyl
-date: '2022-10-17T05:24:46'
+date: '2024-07-09T13:57:27'
 draft: false
 images:
 - "/images/covers/darvulia-acte_dix:_d\xE9mos.png"

@@ -4,7 +4,7 @@ album: "...I Zmieni Si\u0119 Rzeczywisto\u015B\u0107"
 artist: Morsun Diaboli
 categories:
 - Vinyl
-date: '2024-01-15T06:42:22'
+date: '2024-07-09T13:57:24'
 draft: false
 images:
 - "/images/covers/morsun_diaboli-...i_zmieni_si\u0119_rzeczywisto\u015B\u0107.jpg"

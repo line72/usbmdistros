@@ -1,10 +1,12 @@
 ---
-actualPrice: $24.99
+actualPrice: $12.00 - 25.00
 album: To Bare the Weight of Death
 artist: Andracca
 categories:
 - Vinyl
-date: '2024-03-11T05:26:36'
+- Cassette
+- CD
+date: '2024-07-06T05:22:40'
 draft: false
 images:
 - /images/covers/andracca-to_bare_the_weight_of_death.jpg
@@ -14,4 +16,8 @@ title: Andracca - To Bare the Weight of Death
 ---
 
 ## Vinyl
-* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/andracca-to-bare-the-weight-of-death-oxblood-black-vinyl-lp) for $24.99 :: Oxblood/Black Vinyl LP
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/andracca-to-bare-the-weight-of-death-lp) for $25.00 :: Black 2024 press vinyl
+## Cassette
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/andracca-to-bare-the-weight-of-death-cassette) for $12.00 :: Cassette 2024
+## CD
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/andracca-to-bare-the-weight-of-death-cd) for $12.00 :: Digipak 2024

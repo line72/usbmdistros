@@ -5,7 +5,7 @@ artist: Wampyric Rites
 categories:
 - Vinyl
 - Cassette
-date: '2022-07-15T05:00:22'
+date: '2024-07-09T00:40:12'
 draft: false
 images:
 - /images/covers/wampyric_rites-demo_iii.jpg

@@ -4,7 +4,7 @@ album: Trijumf Ili Smrt Trijumf
 artist: Trijumf
 categories:
 - CD
-date: '2024-03-19T05:02:11'
+date: '2024-07-09T00:40:39'
 draft: false
 images:
 - /images/covers/trijumf-trijumf_ili_smrt_trijumf.jpg

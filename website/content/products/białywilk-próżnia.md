@@ -1,10 +1,10 @@
 ---
-actualPrice: $25.00
+actualPrice: $12.00
 album: "Pr\xF3\u017Cnia"
 artist: "Bia\u0142ywilk"
 categories:
-- Vinyl
-date: '2023-11-19T10:03:43'
+- CD
+date: '2024-07-06T05:22:42'
 draft: false
 images:
 - "/images/covers/bia\u0142ywilk-pr\xF3\u017Cnia.jpg"
@@ -13,5 +13,5 @@ thumbnailImage: "/images/covers/bia\u0142ywilk-pr\xF3\u017Cnia-thumb.jpg"
 title: "Bia\u0142ywilk - Pr\xF3\u017Cnia"
 ---
 
-## Vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/bialywilk-proznia-lp) for $25.00 :: Black 1st press vinyl
+## CD
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/bialywilk-proznia-cd) for $12.00 :: CD 2022

@@ -4,7 +4,7 @@ album: Deinde Signum Mortifera
 artist: Vritra
 categories:
 - Vinyl
-date: '2022-11-27T06:26:22'
+date: '2024-07-09T13:57:26'
 draft: false
 images:
 - /images/covers/vritra-deinde_signum_mortifera.jpg

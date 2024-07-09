@@ -1,10 +1,10 @@
 ---
-actualPrice: $8.00
+actualPrice: $10.00
 album: Even Death May Die
 artist: Necrowretch
 categories:
 - Vinyl
-date: '2024-03-01T06:16:28'
+date: '2024-05-03T05:14:32'
 draft: false
 images:
 - /images/covers/necrowretch-even_death_may_die.jpg
@@ -14,4 +14,4 @@ title: Necrowretch - Even Death May Die
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=34216&sort=pd.name&order=ASC) for $8.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=34216&sort=pd.name&order=ASC) for $10.00

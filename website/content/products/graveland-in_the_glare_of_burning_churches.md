@@ -4,7 +4,7 @@ album: In the Glare of Burning Churches
 artist: Graveland
 categories:
 - CD
-date: '2023-01-08T06:27:29'
+date: '2024-07-09T13:57:25'
 draft: false
 images:
 - /images/covers/graveland-in_the_glare_of_burning_churches.jpg

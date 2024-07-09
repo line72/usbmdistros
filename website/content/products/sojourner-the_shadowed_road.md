@@ -5,7 +5,7 @@ artist: SOJOURNER
 categories:
 - Vinyl
 - CD
-date: '2024-01-26T01:44:58'
+date: '2024-07-09T14:10:22'
 draft: false
 images:
 - /images/covers/sojourner-the_shadowed_road.png
@@ -15,6 +15,6 @@ title: SOJOURNER - The Shadowed Road
 ---
 
 ## Vinyl
-* Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/sojourner-the-shadowed-road-2xlp-gatefold) for $30.00 :: (2xLP gatefold)
+* Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/sojourner-the-shadowed-road-2xlp-gatefold) for $30.00 :: 2xlp gatefold)
 ## CD
-* Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/sojourner-the-shadowed-road-cd) for $13.00 :: [Digipak]
+* Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/sojourner-the-shadowed-road-cd) for $13.00 :: [digipak]

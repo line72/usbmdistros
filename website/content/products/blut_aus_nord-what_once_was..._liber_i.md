@@ -4,7 +4,7 @@ album: What Once Was... Liber I
 artist: Blut Aus Nord
 categories:
 - CD
-date: '2021-06-26T15:15:52'
+date: '2024-07-09T13:21:01'
 draft: false
 images:
 - /images/covers/blut_aus_nord-what_once_was..._liber_i.jpg

@@ -5,7 +5,7 @@ artist: SKYFOREST
 categories:
 - Vinyl
 - CD
-date: '2024-01-26T01:44:41'
+date: '2024-07-09T14:10:13'
 draft: false
 images:
 - /images/covers/skyforest-unity.jpg
@@ -17,4 +17,4 @@ title: SKYFOREST - Unity
 ## Vinyl
 * Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/skyforest-unity-vinyl-lp-color-lim-199) for $24.99 :: (color, lim.199)
 ## CD
-* Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/skyforest-unity-cd) for $14.00 :: [Digipak]
+* Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/skyforest-unity-cd) for $14.00 :: [digipak]

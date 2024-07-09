@@ -5,7 +5,7 @@ artist: Kryptan
 categories:
 - Vinyl
 - CD
-date: '2021-07-22T05:08:46'
+date: '2024-07-09T13:21:04'
 draft: false
 images:
 - /images/covers/kryptan-kryptan.jpg
@@ -15,8 +15,6 @@ title: Kryptan - Kryptan
 ---
 
 ## Vinyl
-* Purchase from [Debemur Morti](https://debemurmorti.aisamerch.com/item/100283) for $21.99 :: Grey w/ splatters
-* Purchase from [Debemur Morti](https://debemurmorti.aisamerch.com/item/100284) for $21.99 :: Grey/Black merge
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/kryptan-kryptan-10) for $22.00 :: Grey w/ Splatter 1st press vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/kryptan-kryptan-10) for $22.00 :: Grey/Black Merge 1st press vinyl
 ## CD

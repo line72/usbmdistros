@@ -1,10 +1,10 @@
 ---
-actualPrice: $8.00
+actualPrice: $10.00
 album: The Blood of Sacrifice
 artist: Black Offal Messiah
 categories:
 - Vinyl
-date: '2024-03-01T06:16:20'
+date: '2024-05-03T05:14:25'
 draft: false
 images:
 - /images/covers/black_offal_messiah-the_blood_of_sacrifice.jpg
@@ -14,4 +14,4 @@ title: Black Offal Messiah - The Blood of Sacrifice
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=33853&sort=pd.name&order=ASC) for $8.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=33853&sort=pd.name&order=ASC) for $10.00

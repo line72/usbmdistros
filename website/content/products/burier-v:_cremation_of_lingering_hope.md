@@ -4,7 +4,7 @@ album: 'V: Cremation of Lingering Hope'
 artist: Burier
 categories:
 - CD
-date: '2024-01-26T01:45:00'
+date: '2024-07-09T14:10:23'
 draft: false
 images:
 - /images/covers/burier-v:_cremation_of_lingering_hope.jpg

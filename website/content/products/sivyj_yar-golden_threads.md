@@ -5,7 +5,7 @@ artist: SIVYJ YAR
 categories:
 - Vinyl
 - CD
-date: '2024-01-26T01:44:57'
+date: '2024-07-09T14:10:21'
 draft: false
 images:
 - /images/covers/sivyj_yar-golden_threads.jpg
@@ -15,6 +15,6 @@ title: SIVYJ YAR - Golden Threads
 ---
 
 ## Vinyl
-* Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/sivyj-yar-golden-threads-vinyl-lp-сивый-яр) for $21.99 :: (color) [Сивый Яр]
+* Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/sivyj-yar-golden-threads-vinyl-lp-сивый-яр) for $21.99 :: (color) [сивый яр]
 ## CD
-* Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/sivyj-yar-golden-threads-cd-digipak-сивый-яр) for $13.00 :: (digipak, lim.300) [Сивый Яр]
+* Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/sivyj-yar-golden-threads-cd-digipak-сивый-яр) for $13.00 :: (digipak, lim.300) [сивый яр]

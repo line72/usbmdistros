@@ -4,7 +4,7 @@ album: Schnee
 artist: Paysage d'Hiver
 categories:
 - CD
-date: '2024-01-26T01:44:37'
+date: '2024-07-09T14:10:11'
 draft: false
 images:
 - /images/covers/paysage_d'hiver-schnee.jpg

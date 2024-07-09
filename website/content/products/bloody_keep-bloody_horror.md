@@ -4,7 +4,7 @@ album: Bloody Horror
 artist: Bloody Keep
 categories:
 - CD
-date: '2024-01-26T01:44:51'
+date: '2024-07-09T14:10:18'
 draft: false
 images:
 - /images/covers/bloody_keep-bloody_horror.jpg

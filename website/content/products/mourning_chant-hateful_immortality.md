@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00
+actualPrice: $15.00
 album: Hateful Immortality
 artist: Mourning Chant
 categories:
 - CD
-date: '2024-03-01T06:17:11'
+date: '2024-05-03T05:15:14'
 draft: false
 images:
 - /images/covers/mourning_chant-hateful_immortality.png
@@ -14,4 +14,4 @@ title: Mourning Chant - Hateful Immortality
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=35382&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=35382&sort=pd.name&order=ASC) for $15.00

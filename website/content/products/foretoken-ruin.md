@@ -4,7 +4,7 @@ album: Ruin
 artist: Foretoken
 categories:
 - Vinyl
-date: '2023-11-19T16:41:23'
+date: '2024-07-09T14:02:22'
 draft: false
 images:
 - /images/covers/foretoken-ruin.jpg
@@ -14,4 +14,4 @@ title: Foretoken - Ruin
 ---
 
 ## Vinyl
-* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/foretoken-ruin-colored-vinyl-limited-to-300) for $23.66 :: Colored Vinyl Limited to 300
+* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/foretoken-ruin-colored-vinyl-limited-to-300) for $23.66 :: colored vinyl limited to 300

@@ -4,7 +4,7 @@ album: '...As the Mourners Arise'
 artist: Lycanthropy
 categories:
 - Vinyl
-date: '2022-10-17T05:24:38'
+date: '2024-07-09T13:57:26'
 draft: false
 images:
 - /images/covers/lycanthropy-...as_the_mourners_arise.jpg

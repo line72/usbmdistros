@@ -4,7 +4,7 @@ album: "Inversados d'Um Abismo de Podrid\xE3o Hardcover Digibook"
 artist: Mons Veneris
 categories:
 - CD
-date: '2023-01-11T06:01:26'
+date: '2024-07-09T00:40:43'
 draft: false
 images:
 - "/images/covers/mons_veneris-inversados_d'um_abismo_de_podrid\xE3o_hardcover_digibook.jpg"

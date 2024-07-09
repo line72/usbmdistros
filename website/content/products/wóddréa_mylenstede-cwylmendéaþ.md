@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00
+actualPrice: $15.00
 album: "Cwylmend\xE9a\xFE"
 artist: "W\xF3ddr\xE9a Mylenstede"
 categories:
 - CD
-date: '2024-03-01T06:17:37'
+date: '2024-05-03T05:15:38'
 draft: false
 images:
 - "/images/covers/w\xF3ddr\xE9a_mylenstede-cwylmend\xE9a\xFE.jpg"
@@ -14,4 +14,4 @@ title: "W\xF3ddr\xE9a Mylenstede - Cwylmend\xE9a\xFE"
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=27240&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=27240&sort=pd.name&order=ASC) for $15.00

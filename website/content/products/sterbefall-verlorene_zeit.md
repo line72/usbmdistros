@@ -4,7 +4,7 @@ album: Verlorene Zeit
 artist: Sterbefall
 categories:
 - CD
-date: '2023-03-07T14:05:37'
+date: '2024-07-09T13:57:25'
 draft: false
 images:
 - /images/covers/sterbefall-verlorene_zeit.jpg

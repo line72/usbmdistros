@@ -4,7 +4,7 @@ album: Tulisilma Sund
 artist: Loits
 categories:
 - CD
-date: '2023-11-19T08:27:53'
+date: '2024-07-09T13:44:35'
 draft: false
 images:
 - /images/covers/loits-tulisilma_sund.jpg

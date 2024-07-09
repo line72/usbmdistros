@@ -5,7 +5,7 @@ artist: SILENCER
 categories:
 - Vinyl
 - CD
-date: '2024-01-26T01:44:05'
+date: '2024-07-09T14:09:50'
 draft: false
 images:
 - /images/covers/silencer-death,_pierce_me.jpg

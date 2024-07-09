@@ -1,10 +1,10 @@
 ---
-actualPrice: $21.60
+actualPrice: $27.00
 album: Where the Word Acquires Eternity
 artist: Khors
 categories:
 - Vinyl
-date: '2024-03-01T06:15:31'
+date: '2024-05-03T05:13:40'
 draft: false
 images:
 - /images/covers/khors-where_the_word_acquires_eternity.jpg
@@ -14,4 +14,4 @@ title: Khors - Where the Word Acquires Eternity
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=43826&sort=pd.name&order=ASC) for $21.60
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=43826&sort=pd.name&order=ASC) for $27.00

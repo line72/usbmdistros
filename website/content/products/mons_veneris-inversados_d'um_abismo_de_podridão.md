@@ -5,7 +5,7 @@ artist: Mons Veneris
 categories:
 - Vinyl
 - Cassette
-date: '2023-02-11T06:00:54'
+date: '2024-07-09T00:40:26'
 draft: false
 images:
 - "/images/covers/mons_veneris-inversados_d'um_abismo_de_podrid\xE3o.jpg"

@@ -4,7 +4,7 @@ album: within the sylvan realms of frost
 artist: Demoncy
 categories:
 - CD
-date: '2024-01-26T01:44:34'
+date: '2024-07-09T14:10:10'
 draft: false
 images:
 - /images/covers/demoncy-within_the_sylvan_realms_of_frost.jpg

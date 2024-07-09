@@ -1,10 +1,10 @@
 ---
-actualPrice: $7.50 - 9.00
+actualPrice: $28.00
 album: Aischrolatreia
 artist: Diabolic Oath
 categories:
-- Cassette
-date: '2023-12-11T06:03:27'
+- Vinyl
+date: '2024-07-06T05:22:37'
 draft: false
 images:
 - /images/covers/diabolic_oath-aischrolatreia.jpg
@@ -13,6 +13,5 @@ thumbnailImage: /images/covers/diabolic_oath-aischrolatreia-thumb.jpg
 title: Diabolic Oath - Aischrolatreia
 ---
 
-## Cassette
-* Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/36139003-diabolic-oath-aischrolatreia) for $9.00
-* Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/36140410-diabolic-oath-aischrolatreia-cd) for $7.50
+## Vinyl
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/diabolic-oath-aischrolatreia-12) for $28.00 :: Black 2022 press vinyl

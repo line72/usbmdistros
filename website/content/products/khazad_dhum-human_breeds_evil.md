@@ -1,10 +1,10 @@
 ---
-actualPrice: $4.80
+actualPrice: $6.00
 album: Human Breeds Evil
 artist: Khazad Dhum
 categories:
 - CD
-date: '2024-03-01T06:17:04'
+date: '2024-05-03T05:15:08'
 draft: false
 images:
 - /images/covers/khazad_dhum-human_breeds_evil.jpg
@@ -14,4 +14,4 @@ title: Khazad Dhum - Human Breeds Evil
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=989&sort=pd.name&order=ASC) for $4.80
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=989&sort=pd.name&order=ASC) for $6.00

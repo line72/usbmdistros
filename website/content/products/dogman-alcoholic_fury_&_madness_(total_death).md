@@ -4,7 +4,7 @@ album: Alcoholic Fury & Madness (Total Death)
 artist: Dogman
 categories:
 - Cassette
-date: '2022-10-22T05:01:07'
+date: '2024-07-09T00:40:26'
 draft: false
 images:
 - /images/covers/dogman-alcoholic_fury_&_madness_(total_death).jpg

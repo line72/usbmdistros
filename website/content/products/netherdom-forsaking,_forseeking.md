@@ -1,10 +1,10 @@
 ---
-actualPrice: $20.00
+actualPrice: $25.00
 album: Forsaking, Forseeking
 artist: Netherdom
 categories:
 - Vinyl
-date: '2024-03-01T06:15:44'
+date: '2024-05-03T05:13:53'
 draft: false
 images:
 - /images/covers/netherdom-forsaking,_forseeking.jpg
@@ -14,4 +14,4 @@ title: Netherdom - Forsaking, Forseeking
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=45541&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=45541&sort=pd.name&order=ASC) for $25.00

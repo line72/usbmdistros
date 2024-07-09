@@ -4,7 +4,7 @@ album: Winter 2013 Electronic Manifestation
 artist: Eunuch
 categories:
 - Cassette
-date: '2021-08-17T13:15:25'
+date: '2024-07-09T13:57:27'
 draft: false
 images:
 - /images/covers/eunuch-winter_2013_electronic_manifestation.jpg

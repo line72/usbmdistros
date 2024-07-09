@@ -4,7 +4,7 @@ album: The Great Filtration
 artist: MYCORRHIZAE
 categories:
 - Vinyl
-date: '2024-03-16T05:29:56'
+date: '2024-07-09T14:09:44'
 draft: false
 images:
 - /images/covers/mycorrhizae-the_great_filtration.jpg

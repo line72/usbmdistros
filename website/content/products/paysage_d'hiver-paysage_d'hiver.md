@@ -5,7 +5,7 @@ artist: Paysage d'Hiver
 categories:
 - Vinyl
 - CD
-date: '2024-01-26T01:44:57'
+date: '2024-07-09T14:10:11'
 draft: false
 images:
 - /images/covers/paysage_d'hiver-paysage_d'hiver.png

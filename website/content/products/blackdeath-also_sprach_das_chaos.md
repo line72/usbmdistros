@@ -4,7 +4,7 @@ album: Also Sprach das Chaos
 artist: Blackdeath
 categories:
 - Cassette
-date: '2023-08-24T18:20:25'
+date: '2024-07-09T13:57:25'
 draft: false
 images:
 - /images/covers/blackdeath-also_sprach_das_chaos.png

@@ -4,7 +4,7 @@ album: Wargus Esto
 artist: Wodulf
 categories:
 - CD
-date: '2023-11-19T08:38:04'
+date: '2024-07-09T13:44:36'
 draft: false
 images:
 - /images/covers/wodulf-wargus_esto.jpg

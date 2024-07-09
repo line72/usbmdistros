@@ -4,7 +4,7 @@ album: An Ode to Thee Ancient Great Goddess
 artist: Stutthof
 categories:
 - CD
-date: '2023-04-13T05:24:30'
+date: '2024-07-09T13:44:36'
 draft: false
 images:
 - /images/covers/stutthof-an_ode_to_thee_ancient_great_goddess.jpg

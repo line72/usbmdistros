@@ -4,7 +4,7 @@ album: Trumpets of Christian
 artist: Armaggedon
 categories:
 - CD
-date: '2023-11-19T08:28:02'
+date: '2024-07-09T13:44:35'
 draft: false
 images:
 - /images/covers/armaggedon-trumpets_of_christian.jpg

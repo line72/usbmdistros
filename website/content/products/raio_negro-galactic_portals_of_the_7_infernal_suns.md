@@ -4,7 +4,7 @@ album: Galactic Portals of the 7 Infernal Suns
 artist: Raio Negro
 categories:
 - Vinyl
-date: '2021-06-26T15:02:54'
+date: '2024-07-09T00:40:14'
 draft: false
 images:
 - /images/covers/raio_negro-galactic_portals_of_the_7_infernal_suns.jpg

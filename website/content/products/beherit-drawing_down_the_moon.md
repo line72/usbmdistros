@@ -1,12 +1,12 @@
 ---
-actualPrice: $9.75 - 47.00
+actualPrice: $12.00 - 100.00
 album: Drawing Down the Moon
 artist: Beherit
 categories:
 - Vinyl
 - Cassette
 - CD
-date: '2024-03-01T06:17:41'
+date: '2024-07-09T14:09:42'
 draft: false
 images:
 - /images/covers/beherit-drawing_down_the_moon.jpg
@@ -16,10 +16,11 @@ title: Beherit - Drawing Down the Moon
 ---
 
 ## Vinyl
-* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/nesi-rarity-beherit-drawing-down-the-moon-ltd-100-black-blue-orange-splatter-vinyl-lp-asian-market-exclusive) for $47.00 :: *NUMBERED*  Ltd 100  Black/Blue/Orange Splatter Vinyl LP - Asian Market Exclusive
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=47904&sort=pd.name&order=ASC) for $20.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=47906&sort=pd.name&order=ASC) for $19.50
+* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/nesi-rarity-beherit-drawing-down-the-moon-ltd-100-black-blue-orange-splatter-vinyl-lp-asian-market-exclusive) for $47.00 :: *numbered*  ltd 100  black/blue/orange splatter vinyl lp - asian market exclusive
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=51026&sort=pd.name&order=ASC) for $100.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=51212&sort=pd.name&order=ASC) for $40.00
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=45027&sort=pd.name&order=ASC) for $9.75
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=45027&sort=pd.name&order=ASC) for $15.00
+* Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/beherit-drawing-down-the-moon-cassette-tape) for $12.00
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=45025&sort=pd.name&order=ASC) for $9.75
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=45025&sort=pd.name&order=ASC) for $15.00

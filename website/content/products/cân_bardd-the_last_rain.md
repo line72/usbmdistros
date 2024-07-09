@@ -1,17 +1,17 @@
 ---
 actualPrice: $14.00 - 35.00
 album: The Last Rain
-artist: "C\xC2N BARDD"
+artist: "C\xE2n Bardd"
 categories:
 - Vinyl
 - CD
-date: '2024-01-26T01:44:14'
+date: '2024-07-09T14:09:57'
 draft: false
 images:
 - "/images/covers/c\xE2n_bardd-the_last_rain.jpg"
 inStock: true
 thumbnailImage: "/images/covers/c\xE2n_bardd-the_last_rain-thumb.jpg"
-title: "C\xC2N BARDD - The Last Rain"
+title: "C\xE2n Bardd - The Last Rain"
 ---
 
 ## Vinyl

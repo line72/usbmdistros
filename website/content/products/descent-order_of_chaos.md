@@ -1,11 +1,10 @@
 ---
-actualPrice: $5.00 - 23.00
+actualPrice: $22.00 - 35.00
 album: Order Of Chaos
 artist: Descent
 categories:
 - Vinyl
-- Cassette
-date: '2023-03-07T14:03:26'
+date: '2024-07-09T13:55:59'
 draft: false
 images:
 - /images/covers/descent-order_of_chaos.jpg
@@ -15,6 +14,8 @@ title: Descent - Order Of Chaos
 ---
 
 ## Vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/descent-order-of-chaos-lp) for $23.00 :: Clear 2022 press vinyl
-## Cassette
-* Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/34509079-descent-order-of-chaos-cal-103) for $5.00
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/descent-order-of-chaos-lp) for $27.00 :: Clear 2022 press vinyl
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/used-descent-order-of-chaos-lp) for $22.00 :: Clear 2022 press vinyl
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/descent-longsleeve) for $35.00 :: Medium (M)
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/descent-longsleeve) for $35.00 :: Large (L)
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/descent-longsleeve) for $35.00 :: Extra Large (XL)

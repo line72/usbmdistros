@@ -4,7 +4,7 @@ album: Fields of Sorrow
 artist: Blood Red Fog
 categories:
 - Vinyl
-date: '2021-10-14T18:44:43'
+date: '2024-07-09T00:40:13'
 draft: false
 images:
 - /images/covers/blood_red_fog-fields_of_sorrow.jpg

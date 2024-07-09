@@ -1,10 +1,10 @@
 ---
-actualPrice: $21.60
+actualPrice: $27.00
 album: Azetik
 artist: Azketem
 categories:
 - Vinyl
-date: '2024-03-01T06:14:58'
+date: '2024-05-03T05:13:09'
 draft: false
 images:
 - /images/covers/azketem-azetik.jpg
@@ -14,4 +14,4 @@ title: Azketem - Azetik
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=46028&sort=pd.name&order=ASC) for $21.60
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=46028&sort=pd.name&order=ASC) for $27.00

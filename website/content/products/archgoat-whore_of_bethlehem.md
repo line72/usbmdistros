@@ -4,7 +4,7 @@ album: Whore Of Bethlehem
 artist: Archgoat
 categories:
 - Vinyl
-date: '2021-12-02T06:00:53'
+date: '2024-07-09T13:20:57'
 draft: false
 images:
 - /images/covers/archgoat-whore_of_bethlehem.jpg

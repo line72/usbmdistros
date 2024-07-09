@@ -4,7 +4,7 @@ album: My Evil Soul
 artist: Moonblood
 categories:
 - CD
-date: '2024-03-03T06:24:54'
+date: '2024-07-09T13:57:24'
 draft: false
 images:
 - /images/covers/moonblood-my_evil_soul.jpg

@@ -4,7 +4,7 @@ album: Incursions
 artist: Heresiarch
 categories:
 - CD
-date: '2022-11-09T18:40:12'
+date: '2024-07-09T13:44:37'
 draft: false
 images:
 - /images/covers/heresiarch-incursions.jpg

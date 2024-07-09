@@ -4,7 +4,7 @@ album: "T\xFArin Turambar Dagnir Glaurunga"
 artist: Emyn Muil
 categories:
 - CD
-date: '2024-01-26T01:43:59'
+date: '2024-07-09T14:09:46'
 draft: false
 images:
 - "/images/covers/emyn_muil-t\xFArin_turambar_dagnir_glaurunga.jpg"

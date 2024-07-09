@@ -4,7 +4,7 @@ album: Bami Viagra
 artist: Bradung
 categories:
 - CD
-date: '2023-02-09T06:29:49'
+date: '2024-07-09T13:57:25'
 draft: false
 images:
 - /images/covers/bradung-bami_viagra.jpg

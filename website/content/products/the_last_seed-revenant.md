@@ -1,10 +1,10 @@
 ---
-actualPrice: $8.00
+actualPrice: $10.00
 album: Revenant
 artist: The Last Seed
 categories:
 - CD
-date: '2024-03-01T06:17:30'
+date: '2024-05-03T05:15:30'
 draft: false
 images:
 - /images/covers/the_last_seed-revenant.png
@@ -14,4 +14,4 @@ title: The Last Seed - Revenant
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=46219&sort=pd.name&order=ASC) for $8.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=46219&sort=pd.name&order=ASC) for $10.00

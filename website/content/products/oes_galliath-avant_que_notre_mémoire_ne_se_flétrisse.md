@@ -4,7 +4,7 @@ album: "Avant que notre m\xE9moire ne se fl\xE9trisse"
 artist: Oes Galliath
 categories:
 - CD
-date: '2022-12-29T06:26:46'
+date: '2024-07-09T13:57:25'
 draft: false
 images:
 - "/images/covers/oes_galliath-avant_que_notre_m\xE9moire_ne_se_fl\xE9trisse.jpg"

@@ -4,7 +4,7 @@ album: Cold & Dark, As Life
 artist: Kvad
 categories:
 - Vinyl
-date: '2023-09-23T05:06:17'
+date: '2024-07-09T00:39:57'
 draft: false
 images:
 - /images/covers/kvad-cold_&_dark,_as_life.jpg

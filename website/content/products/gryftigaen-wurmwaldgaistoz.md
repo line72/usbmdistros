@@ -5,7 +5,7 @@ artist: Gryftigaen
 categories:
 - Vinyl
 - CD
-date: '2023-12-01T06:01:04'
+date: '2024-07-09T00:40:42'
 draft: false
 images:
 - /images/covers/gryftigaen-wurmwaldgaistoz.jpg

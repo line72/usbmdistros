@@ -4,7 +4,7 @@ album: "Ulvmonddom\u0101nen"
 artist: "R\xFCndgard"
 categories:
 - Vinyl
-date: '2023-03-11T06:00:52'
+date: '2024-07-09T00:40:03'
 draft: false
 images:
 - "/images/covers/r\xFCndgard-ulvmonddom\u0101nen.jpg"

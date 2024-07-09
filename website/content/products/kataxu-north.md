@@ -4,7 +4,7 @@ album: North
 artist: Kataxu
 categories:
 - Vinyl
-date: '2024-03-18T05:28:03'
+date: '2024-07-09T13:57:24'
 draft: false
 images:
 - /images/covers/kataxu-north.jpg

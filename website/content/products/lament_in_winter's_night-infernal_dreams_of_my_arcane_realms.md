@@ -4,7 +4,7 @@ album: Infernal Dreams of My Arcane Realms
 artist: Lament in Winter's Night
 categories:
 - Vinyl
-date: '2024-01-26T01:44:41'
+date: '2024-07-09T14:10:13'
 draft: false
 images:
 - /images/covers/lament_in_winter's_night-infernal_dreams_of_my_arcane_realms.jpg

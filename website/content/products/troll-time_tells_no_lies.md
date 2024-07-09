@@ -4,7 +4,7 @@ album: Time Tells No Lies
 artist: Troll
 categories:
 - CD
-date: '2023-08-24T18:20:24'
+date: '2024-07-09T13:57:25'
 draft: false
 images:
 - /images/covers/troll-time_tells_no_lies.jpg

@@ -6,7 +6,7 @@ categories:
 - Vinyl
 - Cassette
 - CD
-date: '2023-12-02T06:02:18'
+date: '2024-07-09T13:21:02'
 draft: false
 images:
 - /images/covers/eitrin-s-t.jpg
@@ -21,4 +21,3 @@ title: Eitrin - S/T
 * Purchase from [Debemur Morti](https://debemurmorti.aisamerch.com/item/141504) for $11.99
 ## CD
 * Purchase from [Debemur Morti](https://debemurmorti.aisamerch.com/item/141503) for $10.99
-* Purchase from [Debemur Morti](https://debemurmorti.aisamerch.com/item/141505) for $20.99 :: DMP Exclusive

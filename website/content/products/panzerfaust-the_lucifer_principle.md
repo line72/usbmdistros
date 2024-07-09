@@ -4,7 +4,7 @@ album: The Lucifer Principle
 artist: Panzerfaust
 categories:
 - Vinyl
-date: '2023-11-19T16:38:48'
+date: '2024-07-09T14:02:18'
 draft: false
 images:
 - /images/covers/panzerfaust-the_lucifer_principle.jpg
@@ -14,4 +14,4 @@ title: Panzerfaust - The Lucifer Principle
 ---
 
 ## Vinyl
-* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/panzerfaust-the-lucifer-principle-clear-vinyl-lp) for $26.98 :: Clear Vinyl EP
+* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/panzerfaust-the-lucifer-principle-clear-vinyl-lp) for $26.98 :: clear vinyl ep

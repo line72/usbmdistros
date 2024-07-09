@@ -1,11 +1,12 @@
 ---
-actualPrice: $13.99 - 30.00
+actualPrice: $13.00 - 25.00
 album: Harps Of The Ancient Temples
 artist: Nocternity
 categories:
 - Vinyl
+- Cassette
 - CD
-date: '2024-04-07T05:14:02'
+date: '2024-07-09T14:09:55'
 draft: false
 images:
 - /images/covers/nocternity-harps_of_the_ancient_temples.jpg
@@ -15,6 +16,8 @@ title: Nocternity - Harps Of The Ancient Temples
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=48955&sort=pd.name&order=ASC) for $30.00
+* Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/nocternity-harps-of-the-ancient-temples-t-shirt-black) for $25.00
+## Cassette
+* Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/nocternity-harps-of-the-ancient-temples-cassette-tape) for $13.00
 ## CD
 * Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/nocternity-harps-of-the-ancient-temples-cd) for $13.99

@@ -1,5 +1,5 @@
 ---
-actualPrice: $25.00 - 30.00
+actualPrice: $30.00
 album: Afsky
 artist: Afsky
 categories:
@@ -15,4 +15,3 @@ title: Afsky - Afsky
 
 ## Vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/afsky-afsky-13) for $30.00 :: Black 2019 press vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/used-afsky-afsky-12) for $25.00 :: Green 2020 press vinyl

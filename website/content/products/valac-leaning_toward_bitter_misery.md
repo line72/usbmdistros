@@ -4,7 +4,7 @@ album: Leaning Toward Bitter Misery
 artist: Valac
 categories:
 - Vinyl
-date: '2023-03-11T06:00:52'
+date: '2024-07-09T00:40:03'
 draft: false
 images:
 - /images/covers/valac-leaning_toward_bitter_misery.jpg

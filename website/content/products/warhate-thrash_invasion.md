@@ -1,11 +1,11 @@
 ---
-actualPrice: $9.60 - 24.00
+actualPrice: $12.00 - 30.00
 album: Thrash Invasion
 artist: Warhate
 categories:
 - Vinyl
 - CD
-date: '2024-03-27T05:15:09'
+date: '2024-05-03T05:15:37'
 draft: false
 images:
 - /images/covers/warhate-thrash_invasion.jpg
@@ -15,6 +15,6 @@ title: Warhate - Thrash Invasion
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=48817&sort=pd.name&order=ASC) for $24.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=48817&sort=pd.name&order=ASC) for $30.00
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=40349&sort=pd.name&order=ASC) for $9.60
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=40349&sort=pd.name&order=ASC) for $12.00

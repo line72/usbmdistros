@@ -4,7 +4,7 @@ album: '2020'
 artist: Atlantean Sorrow
 categories:
 - CD
-date: '2022-10-17T05:24:40'
+date: '2024-07-09T13:57:26'
 draft: false
 images:
 - /images/covers/atlantean_sorrow-2020.jpg

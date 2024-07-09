@@ -4,7 +4,7 @@ album: "Odwieczna Pie\u015B\u0144 Lasu"
 artist: Golfaron
 categories:
 - CD
-date: '2022-12-05T06:27:32'
+date: '2024-07-09T13:57:26'
 draft: false
 images:
 - "/images/covers/golfaron-odwieczna_pie\u015B\u0144_lasu.jpg"

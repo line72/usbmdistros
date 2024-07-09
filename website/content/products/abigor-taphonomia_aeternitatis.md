@@ -1,11 +1,10 @@
 ---
-actualPrice: $13.60 - 28.00
+actualPrice: $35.00
 album: Taphonomia Aeternitatis
 artist: Abigor
 categories:
 - Vinyl
-- CD
-date: '2024-03-27T05:13:52'
+date: '2024-06-10T05:14:18'
 draft: false
 images:
 - /images/covers/abigor-taphonomia_aeternitatis.jpg
@@ -15,6 +14,4 @@ title: Abigor - Taphonomia Aeternitatis
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=48856&sort=pd.name&order=ASC) for $28.00
-## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=48387&sort=pd.name&order=ASC) for $13.60
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=51111&sort=pd.name&order=ASC) for $35.00
