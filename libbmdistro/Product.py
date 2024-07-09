@@ -24,4 +24,4 @@ class Product:
         self.updated_at = updated_at
         
     def __str__(self):
-        return f"<Product::{self.album.artist}-{self.album.title}::{self.price}({self.quantity})::{self.store.name}>"
+        return f"<Product::{self.sku}::{self.album.artist}-{self.album.title}::{self.price}({self.quantity})::{self.store.name}>"

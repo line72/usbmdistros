@@ -26,6 +26,7 @@ class DebemurMorti(Parser):
         items = product_list.find_all('li')
 
         entries = map(lambda e: self.parseItem(db, e), items)
+        entries = filter(lambda x: x != None, entries)
 
         return list(entries)
 
@@ -54,8 +55,12 @@ class DebemurMorti(Parser):
 
         artist, title, extra, item_type = self.predictor.predict(description)
 
-        if artist is None or title is None or item_type not in ('Vinyl', 'CD', 'Cassette'):
-            self.failure(description, artist, title, item_type)
+        link = entry.find('div', 'p').find('a')['href']
+        # use the url as the id
+        pId = link
+        
+        if pId is None or artist is None or title is None or item_type not in ('Vinyl', 'CD', 'Cassette'):
+            self.failure(description, pId, artist, title, item_type)
             return None
         
         # sometimes the price is in a <strong></strong>, sometimes it isn't
@@ -64,7 +69,6 @@ class DebemurMorti(Parser):
         else:
             price = int(float(self.parse_price(entry.find('div', 'price').text)) * 100)
 
-        link = entry.find('div', 'p').find('a')['href']
 
         u = urllib.parse.urlparse(self.feed)
         url = f'{u.scheme}://{u.netloc}{link}'
@@ -74,8 +78,6 @@ class DebemurMorti(Parser):
         in_stock = Product.STOCK_UNKNOWN
         quantity = -1
 
-        # use the url as the id
-        pId = link
         
         album = db.get_album(artist, album)
         db.add_cover(album, img_url)

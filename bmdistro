@@ -49,15 +49,18 @@ def go():
     print('++++++++++++++++++++ BEGIN PARSING ++++++++++++++++++++')
     for parser in parsers:
         print('Parsing ->', parser.store.name)
-        products = parser.parse(db)
+        try:
+            products = parser.parse(db)
 
-        if len(parser.failures) > 0:
-            if parser.store.name not in failures:
-                failures[parser.store.name] = {}
-            failures[parser.store.name][parser.feed] = parser.failures[:]
+            if len(parser.failures) > 0:
+                if parser.store.name not in failures:
+                    failures[parser.store.name] = {}
+                failures[parser.store.name][parser.feed] = parser.failures[:]
 
-        for p in products:
-            db.add_product(p)
+            for p in products:
+                db.add_product(p)
+        except Exception as e:
+            print('  ERROR Parsing:', e)
             
     print('++++++++++++++++++++  END PARSING  ++++++++++++++++++++')
 
@@ -68,7 +71,7 @@ def go():
         for url, v1 in v0.items():
             print(f' @ {url}')
             for f in v1:
-                print(f'    |{f[0]}|{f[1]}|{f[2]}|{f[3]}|')
+                print(f'    |{f[0]}|{f[1]}|{f[2]}|{f[3]}|{f[4]}|')
         
     # keys = sorted(db.items.keys())
     # for artist in keys:

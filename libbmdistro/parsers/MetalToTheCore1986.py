@@ -40,8 +40,8 @@ class MetalToTheCore1986(Parser):
         description = entry['name']
         artist, title, extra, item_type = self.predictor.predict(description)
         
-        if artist is None or title is None:
-            self.failure(description, artist, title, item_type)
+        if pId is None or artist is None or title is None:
+            self.failure(description, pId, artist, title, item_type)
             return None
 
         item_type = self.parse_category(entry['categories'])

@@ -43,8 +43,8 @@ class BlastBeatsVinyl(Parser):
 
             artist, title, extra, item_type = self.predictor.predict(description)
             
-            if artist is None or title is None or item_type not in ('Vinyl', 'CD', 'Cassette'):
-                self.failure(description, artist, title, item_type)
+            if pId is None or artist is None or title is None or item_type not in ('Vinyl', 'CD', 'Cassette'):
+                self.failure(description, pId, artist, title, item_type)
                 return None
         
             price = int(float(entry['variants'][0]['price']) * 100)

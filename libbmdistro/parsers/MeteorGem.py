@@ -45,7 +45,7 @@ class MeteorGem(Parser):
         artist, title, extra, item_type = self.predictor.predict(description)
             
         if artist is None or title is None or item_type not in ('Vinyl', 'CD', 'Cassette'):
-            self.failure(description, artist, title, item_type)
+            self.failure(description, '', artist, title, item_type)
             return []
         
         images = [i['src'] for i in entry['images']]
@@ -64,6 +64,9 @@ class MeteorGem(Parser):
             price = int(float(variant['price']) * 100)
             description = variant['title']
 
+            if pId is None:
+                continue
+            
             products.append(Product(None, pId, album, self.store, link, item_type, price, Product.STOCK_UNKNOWN, -1, description))
 
         return products
