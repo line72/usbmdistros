@@ -5,7 +5,7 @@ artist: Order From Chaos
 categories:
 - Vinyl
 - CD
-date: '2024-07-09T13:57:23'
+date: '2024-06-25T05:15:06'
 draft: false
 images:
 - /images/covers/order_from_chaos-stillbirth_machine.png
@@ -16,6 +16,5 @@ title: Order From Chaos - Stillbirth Machine
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=51456&sort=pd.name&order=ASC) for $25.00
-* Purchase from [CW Productions](https://shop.cwproductions.net/products/order-from-chaos-stillbirth-machine-lp) for $20.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=47873&sort=pd.name&order=ASC) for $15.00

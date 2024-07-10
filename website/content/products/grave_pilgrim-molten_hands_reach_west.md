@@ -1,5 +1,5 @@
 ---
-actualPrice: $12.00 - 30.00
+actualPrice: $15.00 - 30.00
 album: Molten Hands Reach West
 artist: Grave Pilgrim
 categories:
@@ -21,4 +21,3 @@ title: Grave Pilgrim - Molten Hands Reach West
 * Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/grave-pilgrim-molten-hands-reach-west-cassette-tape) for $15.00
 ## CD
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/grave-pilgrim-molten-hands-reach-west-cd) for $15.00
-* Purchase from [CW Productions](https://shop.cwproductions.net/products/grave-pilgrim-molten-hands-reach-west-cd) for $12.00

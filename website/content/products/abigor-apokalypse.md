@@ -4,7 +4,7 @@ album: Apokalypse
 artist: Abigor
 categories:
 - CD
-date: '2024-07-09T13:57:26'
+date: '2024-05-03T05:14:39'
 draft: false
 images:
 - /images/covers/abigor-apokalypse.jpg
@@ -14,5 +14,4 @@ title: Abigor - Apokalypse
 ---
 
 ## CD
-* Purchase from [CW Productions](https://shop.cwproductions.net/products/abigor-apokalypse-cd) for $15.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=48381&sort=pd.name&order=ASC) for $15.00

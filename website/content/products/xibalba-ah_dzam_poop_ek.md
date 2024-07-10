@@ -15,7 +15,6 @@ title: Xibalba - Ah Dzam Poop Ek
 ---
 
 ## Cassette
-* Purchase from [CW Productions](https://shop.cwproductions.net/products/xibalba-ah-dzam-poop-ek-tape-2) for $10.00
 * Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/xibalba-ah-dzam-poop-ek-cassette-tape) for $9.99
 ## CD
 * Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/xibalba-ah-dzam-poop-ek-2xcd-jewel-case) for $16.00 :: (2xcd jewel case w/ slipcase)
