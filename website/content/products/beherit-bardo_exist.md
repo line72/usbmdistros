@@ -5,7 +5,7 @@ artist: Beherit
 categories:
 - Vinyl
 - Cassette
-date: '2024-06-10T05:14:28'
+date: '2024-07-11T05:24:44'
 draft: false
 images:
 - /images/covers/beherit-bardo_exist.jpg
@@ -17,4 +17,4 @@ title: Beherit - Bardo Exist
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=51008&sort=pd.name&order=ASC) for $25.00
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=48791&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=51915&sort=pd.name&order=ASC) for $12.00

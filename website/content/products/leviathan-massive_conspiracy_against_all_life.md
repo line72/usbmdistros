@@ -4,7 +4,7 @@ album: Massive Conspiracy Against All Life
 artist: Leviathan
 categories:
 - CD
-date: '2024-05-20T05:15:18'
+date: '2024-07-11T05:24:11'
 draft: false
 images:
 - /images/covers/leviathan-massive_conspiracy_against_all_life.png
@@ -14,4 +14,4 @@ title: Leviathan - Massive Conspiracy Against All Life
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=50175&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=51912&sort=pd.name&order=ASC) for $15.00

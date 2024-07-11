@@ -4,7 +4,7 @@ album: To Slay With Silent Dagger
 artist: Zemial
 categories:
 - Vinyl
-date: '2024-07-01T05:17:23'
+date: '2024-07-11T05:23:26'
 draft: false
 images:
 - /images/covers/zemial-to_slay_with_silent_dagger.png
@@ -14,4 +14,4 @@ title: Zemial - To Slay With Silent Dagger
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=51633&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=51929&sort=pd.name&order=ASC) for $25.00

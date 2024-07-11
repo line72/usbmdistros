@@ -5,7 +5,7 @@ artist: Burzum
 categories:
 - Cassette
 - CD
-date: '2024-05-30T05:14:09'
+date: '2024-07-11T05:24:46'
 draft: false
 images:
 - /images/covers/burzum-aske.jpg
@@ -15,6 +15,6 @@ title: Burzum - Aske
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=50141&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=51943&sort=pd.name&order=ASC) for $15.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=50601&sort=pd.name&order=ASC) for $12.00
