@@ -4,7 +4,7 @@ album: Death from the North
 artist: Nightside
 categories:
 - Vinyl
-date: '2024-07-09T00:39:47'
+date: '2024-07-12T05:02:01'
 draft: false
 images:
 - /images/covers/nightside-death_from_the_north.png
