@@ -4,7 +4,7 @@ album: Kristallen Uit Het Nevelrijk
 artist: Sternklang
 categories:
 - Vinyl
-date: '2024-07-12T05:22:58'
+date: '2024-07-13T05:23:06'
 draft: false
 images:
 - /images/covers/sternklang-kristallen_uit_het_nevelrijk.jpg
@@ -14,4 +14,4 @@ title: Sternklang - Kristallen Uit Het Nevelrijk
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=51985&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=52012&sort=pd.name&order=ASC) for $25.00

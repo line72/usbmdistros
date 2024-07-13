@@ -4,7 +4,7 @@ album: Het Strijdperk van de Vergankelijkheid
 artist: Sternklang
 categories:
 - Vinyl
-date: '2024-07-12T05:22:58'
+date: '2024-07-13T05:23:06'
 draft: false
 images:
 - /images/covers/sternklang-het_strijdperk_van_de_vergankelijkheid.jpg
@@ -14,4 +14,4 @@ title: Sternklang - Het Strijdperk van de Vergankelijkheid
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=51986&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=52011&sort=pd.name&order=ASC) for $25.00
