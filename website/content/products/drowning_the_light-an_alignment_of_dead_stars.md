@@ -4,7 +4,7 @@ album: An Alignment of Dead Stars
 artist: Drowning The Light
 categories:
 - CD
-date: '2023-07-24T05:13:14'
+date: '2024-07-09T00:40:41'
 draft: false
 images:
 - /images/covers/drowning_the_light-an_alignment_of_dead_stars.jpg

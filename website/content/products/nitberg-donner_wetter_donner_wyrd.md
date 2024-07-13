@@ -4,7 +4,7 @@ album: Donner Wetter Donner Wyrd
 artist: Nitberg
 categories:
 - Vinyl
-date: '2024-03-02T06:01:02'
+date: '2024-07-09T00:39:52'
 draft: false
 images:
 - /images/covers/nitberg-donner_wetter_donner_wyrd.jpg

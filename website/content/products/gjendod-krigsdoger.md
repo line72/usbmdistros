@@ -4,7 +4,7 @@ album: Krigsdoger
 artist: Gjendod
 categories:
 - Vinyl
-date: '2023-11-19T08:27:12'
+date: '2024-07-09T13:44:35'
 draft: false
 images:
 - /images/covers/gjendod-krigsdoger.png

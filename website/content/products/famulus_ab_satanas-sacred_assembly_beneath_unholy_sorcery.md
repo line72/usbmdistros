@@ -4,7 +4,7 @@ album: Sacred Assembly Beneath Unholy Sorcery
 artist: Famulus ab Satanas
 categories:
 - CD
-date: '2023-11-19T08:27:44'
+date: '2024-07-09T13:44:35'
 draft: false
 images:
 - /images/covers/famulus_ab_satanas-sacred_assembly_beneath_unholy_sorcery.png

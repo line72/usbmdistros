@@ -4,7 +4,7 @@ album: Combat is the Voice of the Heathen
 artist: Iconoclast Contra
 categories:
 - CD
-date: '2022-11-09T18:40:16'
+date: '2024-07-09T13:44:37'
 draft: false
 images:
 - /images/covers/iconoclast_contra-combat_is_the_voice_of_the_heathen.png

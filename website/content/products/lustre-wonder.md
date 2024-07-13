@@ -1,10 +1,10 @@
 ---
-actualPrice: $20.00 - 25.99
+actualPrice: $25.00 - 25.99
 album: Wonder
 artist: Lustre
 categories:
 - Vinyl
-date: '2024-03-01T06:15:34'
+date: '2024-07-09T14:02:08'
 draft: false
 images:
 - /images/covers/lustre-wonder.jpg
@@ -14,5 +14,5 @@ title: Lustre - Wonder
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=32770&sort=pd.name&order=ASC) for $20.00
-* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/lustre-wonder-black-green-white-splatter-vinyl-lp) for $25.99 :: Black/Green/White Splatter Vinyl LP
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=32770&sort=pd.name&order=ASC) for $25.00
+* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/lustre-wonder-black-green-white-splatter-vinyl-lp) for $25.99 :: black/green/white splatter vinyl lp

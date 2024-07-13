@@ -4,7 +4,7 @@ album: Wights of the Barrow Fume
 artist: Varw
 categories:
 - CD
-date: '2021-11-29T20:11:17'
+date: '2024-07-09T00:40:45'
 draft: false
 images:
 - /images/covers/varw-wights_of_the_barrow_fume.jpg

@@ -4,7 +4,7 @@ album: Die Organisation Des Todes
 artist: Warage
 categories:
 - Vinyl
-date: '2023-11-19T08:27:06'
+date: '2024-07-09T13:44:34'
 draft: false
 images:
 - /images/covers/warage-die_organisation_des_todes.jpg

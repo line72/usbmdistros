@@ -1,10 +1,10 @@
 ---
-actualPrice: $21.60
+actualPrice: $27.00
 album: Night of the Pale Moon / Night of the Spectral Vision
 artist: "M\xE4leficentt"
 categories:
 - Vinyl
-date: '2024-03-01T06:15:35'
+date: '2024-05-15T05:13:02'
 draft: false
 images:
 - "/images/covers/m\xE4leficentt-night_of_the_pale_moon_-_night_of_the_spectral_vision.jpg"
@@ -14,4 +14,4 @@ title: "M\xE4leficentt - Night of the Pale Moon / Night of the Spectral Vision"
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=36626&sort=pd.name&order=ASC) for $21.60
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=50000&sort=pd.name&order=ASC) for $27.00

@@ -4,7 +4,7 @@ album: Cursed Below the Waves
 artist: Drowning The Light
 categories:
 - CD
-date: '2023-04-19T05:03:30'
+date: '2024-07-09T00:40:42'
 draft: false
 images:
 - /images/covers/drowning_the_light-cursed_below_the_waves.jpg

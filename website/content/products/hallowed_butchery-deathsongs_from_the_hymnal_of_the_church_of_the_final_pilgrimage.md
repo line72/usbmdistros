@@ -4,7 +4,7 @@ album: Deathsongs from the Hymnal of the Church of the Final Pilgrimage
 artist: Hallowed Butchery
 categories:
 - CD
-date: '2024-03-22T05:16:19'
+date: '2024-05-03T05:15:00'
 draft: false
 images:
 - /images/covers/hallowed_butchery-deathsongs_from_the_hymnal_of_the_church_of_the_final_pilgrimage.jpg

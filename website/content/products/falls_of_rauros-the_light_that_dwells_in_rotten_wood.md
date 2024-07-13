@@ -5,7 +5,7 @@ artist: FALLS OF RAUROS
 categories:
 - Vinyl
 - CD
-date: '2024-01-26T01:44:31'
+date: '2024-07-09T14:10:09'
 draft: false
 images:
 - /images/covers/falls_of_rauros-the_light_that_dwells_in_rotten_wood.jpg

@@ -1,10 +1,10 @@
 ---
-actualPrice: $20.00
+actualPrice: $25.00
 album: Demo 1
 artist: Ordigort
 categories:
 - Vinyl
-date: '2024-03-01T06:15:49'
+date: '2024-05-03T05:13:56'
 draft: false
 images:
 - /images/covers/ordigort-demo_1.jpg
@@ -14,4 +14,4 @@ title: Ordigort - Demo 1
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=47549&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=47549&sort=pd.name&order=ASC) for $25.00

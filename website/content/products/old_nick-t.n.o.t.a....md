@@ -5,7 +5,7 @@ artist: Old Nick
 categories:
 - Vinyl
 - CD
-date: '2024-01-26T01:44:51'
+date: '2024-07-09T14:10:18'
 draft: false
 images:
 - /images/covers/old_nick-t.n.o.t.a....jpg

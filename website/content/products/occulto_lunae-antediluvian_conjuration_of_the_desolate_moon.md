@@ -4,7 +4,7 @@ album: Antediluvian Conjuration of the Desolate Moon
 artist: Occulto Lunae
 categories:
 - Vinyl
-date: '2021-12-30T06:00:24'
+date: '2024-07-09T00:40:12'
 draft: false
 images:
 - /images/covers/occulto_lunae-antediluvian_conjuration_of_the_desolate_moon.jpg

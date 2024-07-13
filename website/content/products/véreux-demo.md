@@ -1,17 +1,17 @@
 ---
 actualPrice: $12.00
 album: Demo
-artist: "V\xC9REUX"
+artist: "V\xE9reux"
 categories:
 - CD
-date: '2024-01-26T01:44:52'
+date: '2024-07-09T14:10:19'
 draft: false
 images:
 - "/images/covers/v\xE9reux-demo.jpg"
 inStock: true
 thumbnailImage: "/images/covers/v\xE9reux-demo-thumb.jpg"
-title: "V\xC9REUX - Demo"
+title: "V\xE9reux - Demo"
 ---
 
 ## CD
-* Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/vereux-demo-cd-lim-15) for $12.00 :: (Lim. 15)
+* Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/vereux-demo-cd-lim-15) for $12.00 :: (lim. 15)

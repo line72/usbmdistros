@@ -1,10 +1,10 @@
 ---
-actualPrice: $35.99
+actualPrice: $32.99 - 35.99
 album: Frostbitten
 artist: Grima
 categories:
 - Vinyl
-date: '2024-03-02T06:25:48'
+date: '2024-07-09T14:02:05'
 draft: false
 images:
 - /images/covers/grima-frostbitten.jpg
@@ -14,4 +14,5 @@ title: Grima - Frostbitten
 ---
 
 ## Vinyl
-* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/grima-frostbitten-limited-blue-white-galaxy-vinyl-lp) for $35.99 :: Limited Blue/White Galaxy Vinyl LP
+* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/grima-frostbitten-limited-blue-white-galaxy-vinyl-lp) for $35.99 :: limited blue/white galaxy vinyl lp
+* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/blemish-grima-frostbitten-limited-blue-white-galaxy-vinyl-lp) for $32.99 :: limited blue/white galaxy vinyl lp

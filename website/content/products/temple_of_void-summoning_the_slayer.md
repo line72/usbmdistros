@@ -15,4 +15,3 @@ title: Temple Of Void - Summoning The Slayer
 
 ## Vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/temple-of-void-summoning-the-slayer-lp-1) for $29.00 :: Royal Blue Cloudy 2022 press
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/temple-of-void-summoning-the-slayer-lp-1) for $29.00 :: White In Split Color 2022 press

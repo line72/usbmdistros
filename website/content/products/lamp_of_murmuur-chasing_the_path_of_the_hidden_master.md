@@ -4,7 +4,7 @@ album: Chasing The Path Of The Hidden Master
 artist: Lamp of Murmuur
 categories:
 - Vinyl
-date: '2024-03-03T06:01:03'
+date: '2024-07-09T00:39:52'
 draft: false
 images:
 - /images/covers/lamp_of_murmuur-chasing_the_path_of_the_hidden_master.jpg

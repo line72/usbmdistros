@@ -4,7 +4,7 @@ album: III - The Vampyre Weeps In Secrecy Of The Night
 artist: Sanguine Relic
 categories:
 - Vinyl
-date: '2024-01-26T01:44:10'
+date: '2024-07-09T14:09:54'
 draft: false
 images:
 - /images/covers/sanguine_relic-iii_-_the_vampyre_weeps_in_secrecy_of_the_night.jpg

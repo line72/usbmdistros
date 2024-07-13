@@ -1,0 +1,17 @@
+---
+actualPrice: $15.00
+album: Vom Schwarzen Schmied
+artist: "Dau\xFEuz"
+categories:
+- CD
+date: '2024-07-09T13:42:14'
+draft: false
+images:
+- "/images/covers/dau\xFEuz-vom_schwarzen_schmied.jpg"
+inStock: true
+thumbnailImage: "/images/covers/dau\xFEuz-vom_schwarzen_schmied-thumb.jpg"
+title: "Dau\xFEuz - Vom Schwarzen Schmied"
+---
+
+## CD
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=51594&sort=pd.name&order=ASC) for $15.00

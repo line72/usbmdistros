@@ -4,7 +4,7 @@ album: Cursed Deambulations Of The Nocturnal Entities
 artist: Lamp of Murmuur
 categories:
 - Vinyl
-date: '2024-01-26T01:44:23'
+date: '2024-07-09T14:10:05'
 draft: false
 images:
 - /images/covers/lamp_of_murmuur-cursed_deambulations_of_the_nocturnal_entities.jpg

@@ -5,7 +5,7 @@ artist: Plebeian Grandstand
 categories:
 - Vinyl
 - CD
-date: '2022-09-22T05:01:53'
+date: '2024-07-09T13:21:07'
 draft: false
 images:
 - /images/covers/plebeian_grandstand-rien_ne_suffit.jpg

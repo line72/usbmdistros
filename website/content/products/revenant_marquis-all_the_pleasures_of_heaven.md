@@ -1,10 +1,11 @@
 ---
-actualPrice: $30.00
+actualPrice: $12.99 - 30.00
 album: All the Pleasures of Heaven
 artist: Revenant Marquis
 categories:
 - Vinyl
-date: '2024-01-26T01:44:02'
+- Cassette
+date: '2024-07-09T14:09:48'
 draft: false
 images:
 - /images/covers/revenant_marquis-all_the_pleasures_of_heaven.jpg
@@ -15,3 +16,5 @@ title: Revenant Marquis - All the Pleasures of Heaven
 
 ## Vinyl
 * Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/revenant-marquis-all-the-pleasures-of-heaven-vinyl-lp) for $30.00 :: (lim.220 w/insert)
+## Cassette
+* Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/revenant-marquis-all-the-pleasures-of-heaven-cassette-tape) for $12.99

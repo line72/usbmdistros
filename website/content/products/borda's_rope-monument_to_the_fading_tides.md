@@ -4,7 +4,7 @@ album: Monument to the Fading Tides
 artist: Borda's Rope
 categories:
 - CD
-date: '2024-01-26T01:44:43'
+date: '2024-07-09T14:10:15'
 draft: false
 images:
 - /images/covers/borda's_rope-monument_to_the_fading_tides.jpg

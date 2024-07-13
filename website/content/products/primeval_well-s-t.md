@@ -4,7 +4,7 @@ album: S/T
 artist: Primeval Well
 categories:
 - Vinyl
-date: '2023-05-29T05:01:05'
+date: '2024-07-09T00:40:01'
 draft: false
 images:
 - /images/covers/primeval_well-s-t.jpg

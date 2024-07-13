@@ -4,7 +4,7 @@ album: Son of the Devil
 artist: Dracones
 categories:
 - Cassette
-date: '2024-02-13T06:18:27'
+date: '2024-07-09T13:44:34'
 draft: false
 images:
 - /images/covers/dracones-son_of_the_devil.png

@@ -5,7 +5,7 @@ artist: Bloody Keep
 categories:
 - Vinyl
 - CD
-date: '2024-01-26T01:44:18'
+date: '2024-07-09T14:10:00'
 draft: false
 images:
 - /images/covers/bloody_keep-wampyric_countess.jpg

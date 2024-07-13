@@ -1,11 +1,11 @@
 ---
-actualPrice: $8.00 - 12.00
+actualPrice: $10.00 - 15.00
 album: Visions of Doom
 artist: Finis
 categories:
 - Vinyl
 - CD
-date: '2024-03-01T06:16:53'
+date: '2024-05-03T05:14:55'
 draft: false
 images:
 - /images/covers/finis-visions_of_doom.jpg
@@ -15,6 +15,6 @@ title: Finis - Visions of Doom
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=41107&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=41107&sort=pd.name&order=ASC) for $15.00
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=3769&sort=pd.name&order=ASC) for $8.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=3769&sort=pd.name&order=ASC) for $10.00

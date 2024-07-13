@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00
+actualPrice: $25.00
 album: De Dood Roept
 artist: Wrok
 categories:
-- CD
-date: '2023-02-09T06:29:49'
+- Vinyl
+date: '2024-07-12T05:23:10'
 draft: false
 images:
 - /images/covers/wrok-de_dood_roept.jpg
@@ -13,5 +13,5 @@ thumbnailImage: /images/covers/wrok-de_dood_roept-thumb.jpg
 title: Wrok - De Dood Roept
 ---
 
-## CD
-* Purchase from [CW Productions](https://shop.cwproductions.net/products/wrok-de-dood-roept-cd) for $12.00
+## Vinyl
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=51978&sort=pd.name&order=ASC) for $25.00

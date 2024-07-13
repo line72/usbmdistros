@@ -4,7 +4,7 @@ album: Vuohen Siunaus
 artist: Korgonthurus
 categories:
 - CD
-date: '2022-06-16T05:16:44'
+date: '2024-07-09T13:44:37'
 draft: false
 images:
 - /images/covers/korgonthurus-vuohen_siunaus.jpg

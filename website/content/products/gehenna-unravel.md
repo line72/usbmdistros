@@ -1,10 +1,10 @@
 ---
-actualPrice: $24.00
+actualPrice: $30.00
 album: Unravel
 artist: Gehenna
 categories:
 - Vinyl
-date: '2024-03-24T05:15:05'
+date: '2024-06-26T05:14:22'
 draft: false
 images:
 - /images/covers/gehenna-unravel.jpg
@@ -14,4 +14,4 @@ title: Gehenna - Unravel
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=48605&sort=pd.name&order=ASC) for $24.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=51538&sort=pd.name&order=ASC) for $30.00

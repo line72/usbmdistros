@@ -4,7 +4,7 @@ album: Splatterpunk Gore Machine
 artist: Saidan
 categories:
 - Vinyl
-date: '2023-07-20T05:14:06'
+date: '2024-07-09T00:40:19'
 draft: false
 images:
 - /images/covers/saidan-splatterpunk_gore_machine.jpg

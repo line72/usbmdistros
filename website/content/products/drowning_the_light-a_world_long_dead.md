@@ -4,7 +4,7 @@ album: A World Long Dead
 artist: Drowning The Light
 categories:
 - CD
-date: '2022-12-25T06:01:33'
+date: '2024-07-09T00:40:43'
 draft: false
 images:
 - /images/covers/drowning_the_light-a_world_long_dead.jpg

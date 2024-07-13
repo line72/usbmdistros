@@ -4,7 +4,7 @@ album: Command
 artist: Et Verbi Sathanus
 categories:
 - Cassette
-date: '2023-08-24T16:55:52'
+date: '2024-07-09T13:44:36'
 draft: false
 images:
 - /images/covers/et_verbi_sathanus-command.png

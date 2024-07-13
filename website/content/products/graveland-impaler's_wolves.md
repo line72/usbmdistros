@@ -4,7 +4,7 @@ album: Impaler's Wolves
 artist: Graveland
 categories:
 - CD
-date: '2021-06-26T15:03:07'
+date: '2024-07-09T00:40:45'
 draft: false
 images:
 - /images/covers/graveland-impaler's_wolves.jpg

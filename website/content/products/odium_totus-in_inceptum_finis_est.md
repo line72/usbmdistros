@@ -4,7 +4,7 @@ album: In Inceptum Finis Est
 artist: Odium Totus
 categories:
 - Cassette
-date: '2024-02-13T06:18:27'
+date: '2024-07-09T13:44:34'
 draft: false
 images:
 - /images/covers/odium_totus-in_inceptum_finis_est.jpg

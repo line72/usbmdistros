@@ -4,7 +4,7 @@ album: Stiller Schrei des winters
 artist: Moloch
 categories:
 - CD
-date: '2023-11-19T08:27:27'
+date: '2024-07-09T13:44:35'
 draft: false
 images:
 - /images/covers/moloch-stiller_schrei_des_winters.jpg

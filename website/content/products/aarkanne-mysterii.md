@@ -4,7 +4,7 @@ album: Mysterii
 artist: Aarkanne
 categories:
 - Vinyl
-date: '2022-01-19T06:00:25'
+date: '2024-07-09T00:40:12'
 draft: false
 images:
 - /images/covers/aarkanne-mysterii.jpg

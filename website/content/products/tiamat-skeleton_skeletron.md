@@ -4,7 +4,7 @@ album: Skeleton Skeletron
 artist: Tiamat
 categories:
 - Vinyl
-date: '2024-01-02T06:23:58'
+date: '2024-07-09T14:02:08'
 draft: false
 images:
 - /images/covers/tiamat-skeleton_skeletron.jpg
@@ -14,4 +14,4 @@ title: Tiamat - Skeleton Skeletron
 ---
 
 ## Vinyl
-* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/tiamat-skeleton-skeletron-limited-gold-vinyl-lp) for $32.00 :: Limited Gold Vinyl LP
+* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/tiamat-skeleton-skeletron-limited-gold-vinyl-lp) for $32.00 :: limited gold vinyl lp

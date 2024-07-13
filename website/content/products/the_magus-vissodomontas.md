@@ -4,7 +4,7 @@ album: Vissodomontas
 artist: THE MAGUS
 categories:
 - Vinyl
-date: '2024-01-18T06:24:47'
+date: '2024-07-09T14:02:08'
 draft: false
 images:
 - /images/covers/the_magus-vissodomontas.jpg
@@ -14,5 +14,5 @@ title: THE MAGUS - Vissodomontas
 ---
 
 ## Vinyl
-* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/the-magus-vissodomontas-double-2lp-ltd-300-gold-silver-vinyl-dlp) for $47.00 :: Double (2LP) LTD 300 Gold/Silver Vinyl DLP
-* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/the-magus-vissodomontas-double-2lp-ltd-300-transparent-vinyl-dlp) for $45.00 :: Double (2LP) LTD 300 Transparent Smoke Vinyl DLP
+* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/the-magus-vissodomontas-double-2lp-ltd-300-gold-silver-vinyl-dlp) for $47.00 :: double (2lp) ltd 300 gold/silver vinyl dlp
+* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/the-magus-vissodomontas-double-2lp-ltd-300-transparent-vinyl-dlp) for $45.00 :: double (2lp) ltd 300 transparent smoke vinyl dlp

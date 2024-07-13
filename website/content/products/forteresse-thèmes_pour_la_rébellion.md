@@ -4,7 +4,7 @@ album: "Th\xE8mes pour la R\xE9bellion"
 artist: Forteresse
 categories:
 - CD
-date: '2024-01-26T01:44:44'
+date: '2024-07-09T14:10:15'
 draft: false
 images:
 - "/images/covers/forteresse-th\xE8mes_pour_la_r\xE9bellion.jpg"

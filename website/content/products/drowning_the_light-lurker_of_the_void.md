@@ -4,7 +4,7 @@ album: Lurker of the Void
 artist: Drowning The Light
 categories:
 - CD
-date: '2023-03-03T06:01:44'
+date: '2024-07-09T00:40:43'
 draft: false
 images:
 - /images/covers/drowning_the_light-lurker_of_the_void.png

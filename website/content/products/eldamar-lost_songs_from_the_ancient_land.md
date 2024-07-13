@@ -1,10 +1,11 @@
 ---
-actualPrice: $30.00 - 32.00
+actualPrice: $14.99 - 32.00
 album: Lost Songs from the Ancient Land
 artist: Eldamar
 categories:
 - Vinyl
-date: '2024-01-26T01:43:58'
+- CD
+date: '2024-07-09T14:09:42'
 draft: false
 images:
 - /images/covers/eldamar-lost_songs_from_the_ancient_land.jpg
@@ -14,5 +15,7 @@ title: Eldamar - Lost Songs from the Ancient Land
 ---
 
 ## Vinyl
-* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/eldamar-lost-songs-from-the-ancient-land-ltd-175-blue-purple-galaxy-vinyl) for $32.00 :: * LTD 175* Blue/Purple Galaxy Vinyl
+* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/eldamar-lost-songs-from-the-ancient-land-ltd-175-blue-purple-galaxy-vinyl) for $32.00 :: * ltd 175* blue/purple galaxy vinyl
 * Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/eldamar-lost-songs-from-the-ancient-land-vinyl-lp-2-color-options) for $30.00 :: (2 color options)
+## CD
+* Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/eldamar-lost-songs-from-the-ancient-land-cd-digipak) for $14.99 :: (digipak)

@@ -1,10 +1,10 @@
 ---
-actualPrice: $5.60
+actualPrice: $7.00
 album: Wither
 artist: Wither
 categories:
 - Vinyl
-date: '2024-03-01T06:16:34'
+date: '2024-05-03T05:14:39'
 draft: false
 images:
 - /images/covers/wither-wither.jpg
@@ -14,4 +14,4 @@ title: Wither - Wither
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=10602&sort=pd.name&order=ASC) for $5.60
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=10602&sort=pd.name&order=ASC) for $7.00

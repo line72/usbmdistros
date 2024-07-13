@@ -4,7 +4,7 @@ album: Planete Putrefaction
 artist: "Maestr\xF6 Cr\xF6que M\xF6rt"
 categories:
 - Vinyl
-date: '2022-12-03T06:00:42'
+date: '2024-07-09T00:40:05'
 draft: false
 images:
 - "/images/covers/maestr\xF6_cr\xF6que_m\xF6rt-planete_putrefaction.jpg"

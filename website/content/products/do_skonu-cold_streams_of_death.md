@@ -1,11 +1,11 @@
 ---
-actualPrice: $6.40 - 16.00
+actualPrice: $8.00 - 20.00
 album: Cold Streams of Death
 artist: Do Skonu
 categories:
 - Vinyl
 - CD
-date: '2024-03-01T06:16:49'
+date: '2024-05-03T05:14:52'
 draft: false
 images:
 - /images/covers/do_skonu-cold_streams_of_death.jpg
@@ -15,6 +15,6 @@ title: Do Skonu - Cold Streams of Death
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=22010&sort=pd.name&order=ASC) for $16.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=22010&sort=pd.name&order=ASC) for $20.00
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=2698&sort=pd.name&order=ASC) for $6.40
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=2698&sort=pd.name&order=ASC) for $8.00

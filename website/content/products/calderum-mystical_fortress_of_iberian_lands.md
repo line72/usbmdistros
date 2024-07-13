@@ -5,7 +5,7 @@ artist: CALDERUM
 categories:
 - Vinyl
 - CD
-date: '2024-01-26T01:44:27'
+date: '2024-07-09T14:10:06'
 draft: false
 images:
 - /images/covers/calderum-mystical_fortress_of_iberian_lands.jpg

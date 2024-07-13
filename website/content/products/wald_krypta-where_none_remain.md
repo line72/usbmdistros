@@ -1,10 +1,10 @@
 ---
-actualPrice: $7.20
+actualPrice: $8.00
 album: Where None Remain
 artist: Wald Krypta
 categories:
 - Cassette
-date: '2024-03-01T06:18:11'
+date: '2024-07-09T14:10:09'
 draft: false
 images:
 - /images/covers/wald_krypta-where_none_remain.jpg
@@ -14,4 +14,4 @@ title: Wald Krypta - Where None Remain
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=21046&sort=pd.name&order=ASC) for $7.20
+* Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/wald-krypta-where-none-remain-pro-tape) for $8.00

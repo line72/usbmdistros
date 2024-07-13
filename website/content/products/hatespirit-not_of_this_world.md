@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00
+actualPrice: $15.00
 album: Not of This World
 artist: Hatespirit
 categories:
 - CD
-date: '2024-03-01T06:16:58'
+date: '2024-05-03T05:15:00'
 draft: false
 images:
 - /images/covers/hatespirit-not_of_this_world.jpg
@@ -14,4 +14,4 @@ title: Hatespirit - Not of This World
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=32871&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=32871&sort=pd.name&order=ASC) for $15.00

@@ -4,7 +4,7 @@ album: Sacrifice for the Darkness
 artist: Drowning The Light
 categories:
 - CD
-date: '2022-06-29T05:01:02'
+date: '2024-07-09T00:40:45'
 draft: false
 images:
 - /images/covers/drowning_the_light-sacrifice_for_the_darkness.jpg

@@ -1,11 +1,11 @@
 ---
-actualPrice: $8.00
+actualPrice: $10.00
 album: "\u03A0\u03C1\u03BF \u03A0\u03AC\u03BD\u03C4\u03C9\u03BD \u0391\u03C1\u03C7\
   \u03AE"
 artist: Katachthon
 categories:
 - CD
-date: '2021-08-17T13:15:22'
+date: '2024-07-09T13:42:32'
 draft: false
 images:
 - "/images/covers/katachthon-\u03C0\u03C1\u03BF_\u03C0\u03AC\u03BD\u03C4\u03C9\u03BD\
@@ -18,4 +18,4 @@ title: "Katachthon - \u03A0\u03C1\u03BF \u03A0\u03AC\u03BD\u03C4\u03C9\u03BD \u0
 ---
 
 ## CD
-* Purchase from [CW Productions](https://shop.cwproductions.net/products/katachthon-προ-πάντων-αρχή-cd) for $8.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=13745&sort=pd.name&order=ASC) for $10.00

@@ -4,7 +4,7 @@ album: Into the Eternal Satanic Damnation
 artist: Sanctum Sathanas
 categories:
 - Vinyl
-date: '2023-12-01T06:01:04'
+date: '2024-07-09T00:39:55'
 draft: false
 images:
 - /images/covers/sanctum_sathanas-into_the_eternal_satanic_damnation.jpg

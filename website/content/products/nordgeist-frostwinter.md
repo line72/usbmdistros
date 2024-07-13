@@ -5,7 +5,7 @@ artist: NORDGEIST
 categories:
 - Vinyl
 - CD
-date: '2024-01-26T01:44:42'
+date: '2024-07-09T14:10:14'
 draft: false
 images:
 - /images/covers/nordgeist-frostwinter.jpg

@@ -4,7 +4,7 @@ album: Echoes of Mystical Forest
 artist: ASTAROT
 categories:
 - CD
-date: '2024-01-26T01:44:31'
+date: '2024-07-09T14:10:09'
 draft: false
 images:
 - /images/covers/astarot-echoes_of_mystical_forest.jpg

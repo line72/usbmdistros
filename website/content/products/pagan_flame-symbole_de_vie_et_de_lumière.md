@@ -4,7 +4,7 @@ album: "Symbole de vie et de lumi\xE8re"
 artist: Pagan Flame
 categories:
 - CD
-date: '2023-11-19T08:27:25'
+date: '2024-07-09T13:44:35'
 draft: false
 images:
 - "/images/covers/pagan_flame-symbole_de_vie_et_de_lumi\xE8re.png"

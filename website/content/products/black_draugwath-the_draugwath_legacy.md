@@ -4,7 +4,7 @@ album: The Draugwath Legacy
 artist: Black Draugwath
 categories:
 - Vinyl
-date: '2022-08-03T05:00:38'
+date: '2024-07-09T00:40:08'
 draft: false
 images:
 - /images/covers/black_draugwath-the_draugwath_legacy.jpg

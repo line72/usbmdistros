@@ -4,7 +4,7 @@ album: Curta'n Wall
 artist: CURTA'N WALL
 categories:
 - CD
-date: '2024-01-26T01:44:51'
+date: '2024-07-09T14:10:18'
 draft: false
 images:
 - /images/covers/curta'n_wall-curta'n_wall.jpg

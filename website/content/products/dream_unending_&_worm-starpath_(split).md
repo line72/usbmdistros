@@ -4,7 +4,7 @@ album: STARPATH (SPLIT)
 artist: DREAM UNENDING & WORM
 categories:
 - Vinyl
-date: '2023-12-17T13:28:54'
+date: '2024-07-09T14:02:10'
 draft: false
 images:
 - /images/covers/dream_unending_&_worm-starpath_(split).jpg
@@ -14,4 +14,4 @@ title: DREAM UNENDING & WORM - STARPATH (SPLIT)
 ---
 
 ## Vinyl
-* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/dream-unending-worm-starpath) for $24.99 :: SEA-BLUE / BABY-BLUE MERGE
+* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/dream-unending-worm-starpath) for $24.99 :: sea-blue / baby-blue merge

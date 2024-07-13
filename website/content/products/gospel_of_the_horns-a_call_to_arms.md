@@ -1,10 +1,10 @@
 ---
-actualPrice: $20.00
+actualPrice: $25.00
 album: A Call to Arms
 artist: Gospel of the Horns
 categories:
 - Vinyl
-date: '2024-03-01T06:15:20'
+date: '2024-05-30T05:12:52'
 draft: false
 images:
 - /images/covers/gospel_of_the_horns-a_call_to_arms.jpg
@@ -14,4 +14,4 @@ title: Gospel of the Horns - A Call to Arms
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=41622&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=50623&sort=pd.name&order=ASC) for $25.00

@@ -1,10 +1,10 @@
 ---
-actualPrice: $9.60
+actualPrice: $12.00
 album: Mark of the Devil
 artist: Pagan Rites
 categories:
 - Cassette
-date: '2024-03-01T06:18:01'
+date: '2024-05-03T05:16:01'
 draft: false
 images:
 - /images/covers/pagan_rites-mark_of_the_devil.jpg
@@ -14,4 +14,4 @@ title: Pagan Rites - Mark of the Devil
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=35660&sort=pd.name&order=ASC) for $9.60
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=35660&sort=pd.name&order=ASC) for $12.00

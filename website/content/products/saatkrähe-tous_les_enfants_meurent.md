@@ -4,7 +4,7 @@ album: Tous les enfants meurent
 artist: "Saatkr\xE4he"
 categories:
 - CD
-date: '2023-12-30T06:01:52'
+date: '2024-07-09T00:40:40'
 draft: false
 images:
 - "/images/covers/saatkr\xE4he-tous_les_enfants_meurent.jpg"

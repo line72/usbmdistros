@@ -4,7 +4,7 @@ album: Demo Compilation Vol. III
 artist: Ancient Records
 categories:
 - CD
-date: '2022-06-02T05:01:00'
+date: '2024-07-09T00:40:45'
 draft: false
 images:
 - /images/covers/ancient_records-demo_compilation_vol._iii.jpg

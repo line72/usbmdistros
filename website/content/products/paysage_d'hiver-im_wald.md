@@ -4,7 +4,7 @@ album: Im Wald
 artist: Paysage d'Hiver
 categories:
 - CD
-date: '2024-01-26T01:44:40'
+date: '2024-07-09T14:10:13'
 draft: false
 images:
 - /images/covers/paysage_d'hiver-im_wald.jpg

@@ -1,10 +1,10 @@
 ---
-actualPrice: $8.00
+actualPrice: $10.00
 album: '...Therefore, He Shall Consume'
 artist: Insane Vesper
 categories:
 - CD
-date: '2024-03-01T06:17:03'
+date: '2024-05-03T05:15:04'
 draft: false
 images:
 - /images/covers/insane_vesper-...therefore,_he_shall_consume.jpg
@@ -14,4 +14,4 @@ title: Insane Vesper - ...Therefore, He Shall Consume
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=5232&sort=pd.name&order=ASC) for $8.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=5232&sort=pd.name&order=ASC) for $10.00

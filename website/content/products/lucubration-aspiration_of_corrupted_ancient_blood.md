@@ -1,11 +1,10 @@
 ---
-actualPrice: $8.00 - 25.00
+actualPrice: $25.00
 album: Aspiration Of Corrupted Ancient Blood
 artist: Lucubration
 categories:
 - Vinyl
-- Cassette
-date: '2024-03-25T05:17:49'
+date: '2024-05-03T05:13:43'
 draft: false
 images:
 - /images/covers/lucubration-aspiration_of_corrupted_ancient_blood.jpg
@@ -15,6 +14,5 @@ title: Lucubration - Aspiration Of Corrupted Ancient Blood
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=48715&sort=pd.name&order=ASC) for $25.00
-## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=48714&sort=pd.name&order=ASC) for $8.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=49212&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=49245&sort=pd.name&order=ASC) for $25.00

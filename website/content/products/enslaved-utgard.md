@@ -4,7 +4,7 @@ album: Utgard
 artist: Enslaved
 categories:
 - Vinyl
-date: '2023-11-19T16:32:19'
+date: '2024-07-09T14:02:12'
 draft: false
 images:
 - /images/covers/enslaved-utgard.jpg
@@ -14,4 +14,4 @@ title: Enslaved - Utgard
 ---
 
 ## Vinyl
-* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/nesi-rarity-enslaved-utgard-ltd-100-black-vinyl-green-grey-splatter-asian-market-exclusive-rarity) for $49.00 :: *NUMBERED* Ltd 100 Black Vinyl+Green/Grey Splatter- Asian Market Exclusive - RARITY
+* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/nesi-rarity-enslaved-utgard-ltd-100-black-vinyl-green-grey-splatter-asian-market-exclusive-rarity) for $49.00 :: *numbered* ltd 100 black vinyl+green/grey splatter- asian market exclusive - rarity

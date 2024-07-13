@@ -1,10 +1,10 @@
 ---
-actualPrice: $6.40
+actualPrice: $8.00
 album: Hammerwych
 artist: Symbel
 categories:
 - Cassette
-date: '2024-03-01T06:18:07'
+date: '2024-05-03T05:16:08'
 draft: false
 images:
 - /images/covers/symbel-hammerwych.png
@@ -14,4 +14,4 @@ title: Symbel - Hammerwych
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=14554&sort=pd.name&order=ASC) for $6.40
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=14554&sort=pd.name&order=ASC) for $8.00

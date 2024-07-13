@@ -1,10 +1,10 @@
 ---
-actualPrice: $20.00
+actualPrice: $25.00
 album: Abortion of Humanity
 artist: Defecrator
 categories:
 - Vinyl
-date: '2024-03-01T06:15:10'
+date: '2024-05-03T05:13:20'
 draft: false
 images:
 - /images/covers/defecrator-abortion_of_humanity.jpg
@@ -14,4 +14,4 @@ title: Defecrator - Abortion of Humanity
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=21168&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=21168&sort=pd.name&order=ASC) for $25.00

@@ -4,7 +4,7 @@ album: The Rebirth Of The Middle Ages
 artist: Godkiller
 categories:
 - CD
-date: '2024-01-26T01:44:23'
+date: '2024-07-09T14:10:04'
 draft: false
 images:
 - /images/covers/godkiller-the_rebirth_of_the_middle_ages.jpg

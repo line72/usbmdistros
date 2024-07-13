@@ -1,10 +1,10 @@
 ---
-actualPrice: $8.00 - 9.60
+actualPrice: $10.00 - 12.00
 album: Svartkonst
 artist: Helgedom
 categories:
 - CD
-date: '2024-03-01T06:16:58'
+date: '2024-05-03T05:15:00'
 draft: false
 images:
 - /images/covers/helgedom-svartkonst.jpg
@@ -14,5 +14,5 @@ title: Helgedom - Svartkonst
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=5228&sort=pd.name&order=ASC) for $9.60
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=5227&sort=pd.name&order=ASC) for $8.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=5228&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=5227&sort=pd.name&order=ASC) for $10.00

@@ -1,10 +1,10 @@
 ---
-actualPrice: $21.60
+actualPrice: $27.00
 album: Goatlord
 artist: Darkthrone
 categories:
 - Vinyl
-date: '2024-03-24T05:14:56'
+date: '2024-05-03T05:13:19'
 draft: false
 images:
 - /images/covers/darkthrone-goatlord.jpg
@@ -14,4 +14,4 @@ title: Darkthrone - Goatlord
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=48589&sort=pd.name&order=ASC) for $21.60
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=49439&sort=pd.name&order=ASC) for $27.00

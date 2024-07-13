@@ -4,7 +4,7 @@ album: Cascades
 artist: Ulvik
 categories:
 - Vinyl
-date: '2024-03-11T05:26:36'
+date: '2024-07-09T14:02:04'
 draft: false
 images:
 - /images/covers/ulvik-cascades.jpg
@@ -15,4 +15,4 @@ title: Ulvik - Cascades
 
 ## Vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/ulvik-cascades-lp) for $25.00 :: Galaxy 2021 press vinyl
-* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/blemish-ulvik-cascades-clear-smoke-exclusive-vinyl-lp) for $19.98 :: Clear/Smoke Exclusive Vinyl LP
+* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/blemish-ulvik-cascades-clear-smoke-exclusive-vinyl-lp) for $19.98 :: clear/smoke exclusive vinyl lp

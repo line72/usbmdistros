@@ -4,7 +4,7 @@ album: Forest of Dead Stars / Frosty Valley
 artist: ASTAROT
 categories:
 - CD
-date: '2024-01-26T01:44:32'
+date: '2024-07-09T14:10:09'
 draft: false
 images:
 - /images/covers/astarot-forest_of_dead_stars_-_frosty_valley.jpg

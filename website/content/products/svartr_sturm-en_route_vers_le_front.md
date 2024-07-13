@@ -1,10 +1,10 @@
 ---
-actualPrice: $15.00
+actualPrice: $10.00
 album: En Route vers le Front
 artist: Svartr Sturm
 categories:
 - CD
-date: '2023-11-19T08:27:58'
+date: '2024-07-09T13:44:35'
 draft: false
 images:
 - /images/covers/svartr_sturm-en_route_vers_le_front.jpg
@@ -14,4 +14,4 @@ title: Svartr Sturm - En Route vers le Front
 ---
 
 ## CD
-* Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/svartr-sturm-en-route-vers-le-front-cd/) for $15.00
+* Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/svartr-sturm-en-route-vers-le-front-cd/) for $10.00

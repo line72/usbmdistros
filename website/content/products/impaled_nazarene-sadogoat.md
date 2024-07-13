@@ -1,10 +1,10 @@
 ---
-actualPrice: $48.00
+actualPrice: $60.00
 album: Sadogoat
 artist: Impaled Nazarene
 categories:
 - Vinyl
-date: '2024-03-01T06:16:25'
+date: '2024-05-27T05:14:26'
 draft: false
 images:
 - /images/covers/impaled_nazarene-sadogoat.png
@@ -14,4 +14,4 @@ title: Impaled Nazarene - Sadogoat
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=47373&sort=pd.name&order=ASC) for $48.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=50489&sort=pd.name&order=ASC) for $60.00

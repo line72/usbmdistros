@@ -4,7 +4,7 @@ album: Split
 artist: Clandestine Blaze / Satanic Warmaster
 categories:
 - Vinyl
-date: '2024-02-17T06:01:05'
+date: '2024-07-09T00:39:53'
 draft: false
 images:
 - /images/covers/clandestine_blaze_-_satanic_warmaster-split.jpg

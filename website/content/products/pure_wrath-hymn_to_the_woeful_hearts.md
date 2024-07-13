@@ -4,7 +4,7 @@ album: Hymn To The Woeful Hearts
 artist: Pure Wrath
 categories:
 - CD
-date: '2021-12-02T06:00:56'
+date: '2024-07-09T13:21:07'
 draft: false
 images:
 - /images/covers/pure_wrath-hymn_to_the_woeful_hearts.jpg

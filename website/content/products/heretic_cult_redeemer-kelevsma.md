@@ -1,12 +1,12 @@
 ---
-actualPrice: $9.60 - 20.00
+actualPrice: $12.00 - 25.00
 album: Kelevsma
 artist: Heretic Cult Redeemer
 categories:
 - Vinyl
 - Cassette
 - CD
-date: '2024-03-01T06:17:53'
+date: '2024-05-03T05:15:52'
 draft: false
 images:
 - /images/covers/heretic_cult_redeemer-kelevsma.jpg
@@ -16,8 +16,8 @@ title: Heretic Cult Redeemer - Kelevsma
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=19948&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=19948&sort=pd.name&order=ASC) for $25.00
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=19947&sort=pd.name&order=ASC) for $9.60
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=19947&sort=pd.name&order=ASC) for $12.00
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=19946&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=19946&sort=pd.name&order=ASC) for $15.00

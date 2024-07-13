@@ -1,17 +1,19 @@
 ---
 actualPrice: $25.00
 album: Om Twenne Kosmos
-artist: "WAGNER \xD6DEG\xC5RD"
+artist: "Wagner \xD6deg\xE5rd"
 categories:
 - Vinyl
-date: '2024-01-26T01:44:58'
+date: '2024-07-09T14:10:22'
 draft: false
 images:
 - "/images/covers/wagner_\xF6deg\xE5rd-om_twenne_kosmos.jpg"
 inStock: true
 thumbnailImage: "/images/covers/wagner_\xF6deg\xE5rd-om_twenne_kosmos-thumb.jpg"
-title: "WAGNER \xD6DEG\xC5RD - Om Twenne Kosmos"
+title: "Wagner \xD6deg\xE5rd - Om Twenne Kosmos"
 ---
 
 ## Vinyl
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/wagner-odegard-om-twenne-kosmos-12-lp) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=28434&sort=pd.name&order=ASC) for $25.00
 * Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/wagner-odegard-om-twenne-kosmos-vinyl-lp-color) for $25.00 :: (color)

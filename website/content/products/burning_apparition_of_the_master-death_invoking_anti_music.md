@@ -4,7 +4,7 @@ album: Death Invoking Anti Music
 artist: Burning Apparition Of The Master
 categories:
 - Vinyl
-date: '2023-03-05T06:00:59'
+date: '2024-07-09T00:40:04'
 draft: false
 images:
 - /images/covers/burning_apparition_of_the_master-death_invoking_anti_music.jpg

@@ -4,7 +4,7 @@ album: Madarikazioa
 artist: Ostots
 categories:
 - Vinyl
-date: '2022-05-04T05:00:31'
+date: '2024-07-09T00:40:10'
 draft: false
 images:
 - /images/covers/ostots-madarikazioa.png

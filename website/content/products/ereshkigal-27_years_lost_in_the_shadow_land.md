@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00
+actualPrice: $15.00
 album: 27 Years lost in the Shadow land
 artist: Ereshkigal
 categories:
 - CD
-date: '2024-03-01T06:16:51'
+date: '2024-05-03T05:14:54'
 draft: false
 images:
 - /images/covers/ereshkigal-27_years_lost_in_the_shadow_land.jpg
@@ -14,4 +14,4 @@ title: Ereshkigal - 27 Years lost in the Shadow land
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=16710&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=16710&sort=pd.name&order=ASC) for $15.00

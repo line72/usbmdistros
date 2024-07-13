@@ -4,7 +4,7 @@ album: Pagan War Machine
 artist: Grom
 categories:
 - Vinyl
-date: '2023-11-19T08:33:33'
+date: '2024-07-09T13:44:36'
 draft: false
 images:
 - /images/covers/grom-pagan_war_machine.jpg

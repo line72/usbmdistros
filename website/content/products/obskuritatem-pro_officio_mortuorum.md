@@ -4,7 +4,7 @@ album: Pro Officio Mortuorum
 artist: Obskuritatem
 categories:
 - Vinyl
-date: '2024-01-26T01:44:56'
+date: '2024-07-09T14:10:21'
 draft: false
 images:
 - /images/covers/obskuritatem-pro_officio_mortuorum.jpg

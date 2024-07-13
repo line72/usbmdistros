@@ -4,7 +4,7 @@ album: Abstrakter Wald
 artist: Moloch
 categories:
 - CD
-date: '2024-01-26T01:44:30'
+date: '2024-07-09T14:10:08'
 draft: false
 images:
 - /images/covers/moloch-abstrakter_wald.jpg

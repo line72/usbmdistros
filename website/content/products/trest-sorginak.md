@@ -5,7 +5,7 @@ artist: Trest
 categories:
 - Vinyl
 - CD
-date: '2023-09-26T05:16:25'
+date: '2024-07-09T00:40:41'
 draft: false
 images:
 - /images/covers/trest-sorginak.jpg

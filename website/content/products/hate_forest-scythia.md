@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00
+actualPrice: $25.00
 album: Scythia
 artist: Hate Forest
 categories:
-- CD
-date: '2024-03-18T05:20:22'
+- Vinyl
+date: '2024-05-03T05:13:32'
 draft: false
 images:
 - /images/covers/hate_forest-scythia.jpg
@@ -13,6 +13,5 @@ thumbnailImage: /images/covers/hate_forest-scythia-thumb.jpg
 title: Hate Forest - Scythia
 ---
 
-## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=34616&sort=pd.name&order=ASC) for $12.00
-* Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/hate-forest-scythia-cd/) for $12.00
+## Vinyl
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=49015&sort=pd.name&order=ASC) for $25.00

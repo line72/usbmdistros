@@ -1,10 +1,11 @@
 ---
-actualPrice: $45.00
+actualPrice: $10.99 - 45.00
 album: Nature Stays Silent
 artist: "C\xE2n Bardd"
 categories:
 - Vinyl
-date: '2024-02-28T06:26:28'
+- CD
+date: '2024-07-11T05:40:48'
 draft: false
 images:
 - "/images/covers/c\xE2n_bardd-nature_stays_silent.png"
@@ -14,4 +15,8 @@ title: "C\xE2n Bardd - Nature Stays Silent"
 ---
 
 ## Vinyl
-* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/can-bardd-nature-stays-silent-blue-white-galaxy-vinyl-lp) for $45.00 :: 2LP Blue/White Galaxy Vinyl DLP
+* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/can-bardd-nature-stays-silent-blue-white-galaxy-vinyl-lp) for $45.00 :: 2lp blue/white galaxy vinyl dlp
+* Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/can-bardd-nature-stays-silent-vinyl-2xlp-color-lim-199) for $35.00 :: (color, lim. 111)
+* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/can-bardd-nature-stays-silent-2lp-blue-w-white-black-splatter-vinyl-dlp) for $45.00 :: 2lp blue w/ white/black splatter vinyl dlp
+## CD
+* Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/can-bardd-nature-stays-silent-cd) for $10.99

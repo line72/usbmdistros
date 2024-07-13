@@ -4,7 +4,7 @@ album: Blood of the Night
 artist: Obsidian Grave
 categories:
 - CD
-date: '2023-12-29T06:01:50'
+date: '2024-07-09T00:40:40'
 draft: false
 images:
 - /images/covers/obsidian_grave-blood_of_the_night.jpg

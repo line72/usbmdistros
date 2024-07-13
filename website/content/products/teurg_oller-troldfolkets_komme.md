@@ -4,7 +4,7 @@ album: Troldfolkets Komme
 artist: Teurg Oller
 categories:
 - Vinyl
-date: '2022-04-13T05:00:32'
+date: '2024-07-09T00:40:11'
 draft: false
 images:
 - /images/covers/teurg_oller-troldfolkets_komme.jpg

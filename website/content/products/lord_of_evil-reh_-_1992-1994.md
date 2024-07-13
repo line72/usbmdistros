@@ -1,11 +1,11 @@
 ---
-actualPrice: $12.00 - 20.00
+actualPrice: $15.00 - 25.00
 album: Reh - 1992/1994
 artist: Lord Of Evil
 categories:
 - Vinyl
 - CD
-date: '2024-03-01T06:17:07'
+date: '2024-06-16T05:15:54'
 draft: false
 images:
 - /images/covers/lord_of_evil-reh_-_1992-1994.jpg
@@ -15,6 +15,6 @@ title: Lord Of Evil - Reh - 1992/1994
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=46613&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=51323&sort=pd.name&order=ASC) for $25.00
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=40140&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=51324&sort=pd.name&order=ASC) for $15.00

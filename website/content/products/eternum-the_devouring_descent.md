@@ -4,7 +4,7 @@ album: The Devouring Descent
 artist: Eternum
 categories:
 - CD
-date: '2023-11-19T08:28:00'
+date: '2024-07-09T13:44:35'
 draft: false
 images:
 - /images/covers/eternum-the_devouring_descent.jpg

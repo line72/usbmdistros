@@ -1,11 +1,10 @@
 ---
-actualPrice: $8.00 - 20.00
+actualPrice: $25.00
 album: Lex Talionis
 artist: Acheron
 categories:
 - Vinyl
-- CD
-date: '2024-03-01T06:16:35'
+date: '2024-05-03T05:13:01'
 draft: false
 images:
 - /images/covers/acheron-lex_talionis.jpg
@@ -15,6 +14,4 @@ title: Acheron - Lex Talionis
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=44078&sort=pd.name&order=ASC) for $20.00
-## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=36693&sort=pd.name&order=ASC) for $8.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=44078&sort=pd.name&order=ASC) for $25.00

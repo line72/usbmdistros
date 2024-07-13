@@ -1,10 +1,10 @@
 ---
-actualPrice: $4.00
+actualPrice: $5.00
 album: "Tent\xE1culos da Aberra\xE7\xE3o"
 artist: Vulturine
 categories:
 - Cassette
-date: '2024-03-01T06:18:11'
+date: '2024-05-03T05:16:12'
 draft: false
 images:
 - "/images/covers/vulturine-tent\xE1culos_da_aberra\xE7\xE3o.jpg"
@@ -14,4 +14,4 @@ title: "Vulturine - Tent\xE1culos da Aberra\xE7\xE3o"
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=987&sort=pd.name&order=ASC) for $4.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=987&sort=pd.name&order=ASC) for $5.00

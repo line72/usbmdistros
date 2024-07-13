@@ -4,7 +4,7 @@ album: Dead Souls & Moonflares
 artist: Drowning The Light
 categories:
 - CD
-date: '2022-04-29T05:00:56'
+date: '2024-07-09T00:40:45'
 draft: false
 images:
 - /images/covers/drowning_the_light-dead_souls_&_moonflares.jpg

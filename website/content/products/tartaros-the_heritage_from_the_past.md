@@ -4,7 +4,7 @@ album: The Heritage From The Past
 artist: Tartaros
 categories:
 - CD
-date: '2024-01-26T01:44:47'
+date: '2024-07-09T14:10:17'
 draft: false
 images:
 - /images/covers/tartaros-the_heritage_from_the_past.jpg
@@ -14,4 +14,4 @@ title: Tartaros - The Heritage From The Past
 ---
 
 ## CD
-* Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/tartaros-the-heritage-from-the-past-cd-hardbook) for $15.00 :: [Digibook]
+* Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/tartaros-the-heritage-from-the-past-cd-hardbook) for $15.00 :: [digibook]

@@ -4,7 +4,7 @@ album: Sulfuric Wrath
 artist: Oppressive Descent
 categories:
 - Vinyl
-date: '2024-03-19T05:01:23'
+date: '2024-07-09T00:39:52'
 draft: false
 images:
 - /images/covers/oppressive_descent-sulfuric_wrath.jpg

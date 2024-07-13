@@ -30,15 +30,21 @@ class StoVoKor(Parser):
                 break
         
             p = map(lambda e: self.parseItem(db, e), products)
-            entries.extend(list(p))
+            p2 = filter(lambda x: x != None, p)
+            entries.extend(list(p2))
 
         return entries
 
     def parseItem(self, db, entry):
         pId = entry['id']
-        artist, title = entry['title'].split(sep = ' - ', maxsplit = 1)
-        artist = artist.strip()
-        title = self.split_album_type(title)
+
+        description = f"{entry['title']} - {entry['product_type']}"
+        artist, title, extra, item_type = self.predictor.predict(description)
+
+        if pId is None or artist is None or title is None:
+            self.failure(description, pId, artist, title, item_type)
+            return None
+        
         item_type = self.parse_item_type(entry)
             
         price = int(float(entry['variants'][0]['price']) * 100)
@@ -52,21 +58,8 @@ class StoVoKor(Parser):
         album = db.get_album(artist, title)
         for img in images:
             db.add_cover(album, img)
-        
+
         return Product(None, pId, album, self.store, link, item_type, price, Product.STOCK_UNKNOWN, -1)
-
-    def split_album_type(self, s):
-        retests = [
-            re.compile(r'^\s(.*?)\s+\(10" LP\)$'),
-            re.compile(r'^\s(.*?)\s+\(Digipak CD\)$')
-        ]
-
-        for r in retests:
-            if (match := re.match(r, s)) != None:
-                return match.group(1).strip()
-
-        # No matches, probably doesn't have extra junk in it
-        return s.strip()
 
     def parse_item_type(self, entry):
         item_type = entry['product_type']

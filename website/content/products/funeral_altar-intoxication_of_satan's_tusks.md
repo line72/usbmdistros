@@ -4,7 +4,7 @@ album: Intoxication of Satan's Tusks
 artist: Funeral Altar
 categories:
 - Vinyl
-date: '2023-11-08T06:55:28'
+date: '2024-07-09T00:40:19'
 draft: false
 images:
 - /images/covers/funeral_altar-intoxication_of_satan's_tusks.jpg

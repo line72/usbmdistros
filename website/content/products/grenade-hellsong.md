@@ -1,10 +1,10 @@
 ---
-actualPrice: $8.00
+actualPrice: $10.00
 album: Hellsong
 artist: Grenade
 categories:
 - Vinyl
-date: '2024-03-01T06:16:24'
+date: '2024-05-03T05:14:29'
 draft: false
 images:
 - /images/covers/grenade-hellsong.jpg
@@ -14,4 +14,4 @@ title: Grenade - Hellsong
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=23497&sort=pd.name&order=ASC) for $8.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=23497&sort=pd.name&order=ASC) for $10.00

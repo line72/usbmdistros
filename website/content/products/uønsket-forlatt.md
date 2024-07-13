@@ -1,17 +1,17 @@
 ---
 actualPrice: $10.00
 album: Forlatt
-artist: "U\xD8NSKET"
+artist: "U\xF8nsket"
 categories:
-- CD
-date: '2024-01-26T01:44:17'
+- Cassette
+date: '2024-07-09T14:09:51'
 draft: false
 images:
 - "/images/covers/u\xF8nsket-forlatt.png"
 inStock: true
 thumbnailImage: "/images/covers/u\xF8nsket-forlatt-thumb.png"
-title: "U\xD8NSKET - Forlatt"
+title: "U\xF8nsket - Forlatt"
 ---
 
-## CD
-* Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/uonsket-forlatt-cd-lim-50) for $10.00 :: (lim.50) [Felvum/Crying Orc]
+## Cassette
+* Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/uonsket-forlatt-cassette-tape-lim-100) for $10.00

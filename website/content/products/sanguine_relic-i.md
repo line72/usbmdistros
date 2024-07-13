@@ -4,7 +4,7 @@ album: I
 artist: Sanguine Relic
 categories:
 - Vinyl
-date: '2024-01-26T01:44:10'
+date: '2024-07-09T14:09:54'
 draft: false
 images:
 - /images/covers/sanguine_relic-i.jpg

@@ -5,7 +5,7 @@ artist: Saor
 categories:
 - Vinyl
 - CD
-date: '2024-01-26T01:44:35'
+date: '2024-07-09T14:10:10'
 draft: false
 images:
 - /images/covers/saor-forgotten_paths.jpg
@@ -17,4 +17,4 @@ title: Saor - Forgotten Paths
 ## Vinyl
 * Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/saor-forgotten-paths-vinyl-lp-color) for $23.99 :: (color)
 ## CD
-* Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/saor-forgotten-paths-cd) for $13.00 :: [Digipak]
+* Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/saor-forgotten-paths-cd) for $13.00 :: [digipak]

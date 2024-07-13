@@ -4,7 +4,7 @@ album: Triumphs
 artist: Foretoken
 categories:
 - Vinyl
-date: '2023-11-19T16:41:23'
+date: '2024-07-09T14:02:22'
 draft: false
 images:
 - /images/covers/foretoken-triumphs.jpg
@@ -14,4 +14,4 @@ title: Foretoken - Triumphs
 ---
 
 ## Vinyl
-* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/foretoken-triumphs-lp-colored-vinyl) for $26.99 :: LP Colored Vinyl
+* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/foretoken-triumphs-lp-colored-vinyl) for $26.99 :: colored vinyl

@@ -1,10 +1,10 @@
 ---
-actualPrice: $20.00
+actualPrice: $25.00
 album: De Verminkte Stilte van het Zijn
 artist: Hagetisse
 categories:
 - Vinyl
-date: '2024-03-01T06:15:23'
+date: '2024-05-03T05:13:31'
 draft: false
 images:
 - /images/covers/hagetisse-de_verminkte_stilte_van_het_zijn.jpg
@@ -14,4 +14,4 @@ title: Hagetisse - De Verminkte Stilte van het Zijn
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=47540&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=47540&sort=pd.name&order=ASC) for $25.00

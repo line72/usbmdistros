@@ -1,10 +1,10 @@
 ---
-actualPrice: $5.60
+actualPrice: $7.00
 album: Zwang
 artist: Kaltetod
 categories:
 - CD
-date: '2024-03-01T06:17:04'
+date: '2024-05-03T05:15:08'
 draft: false
 images:
 - /images/covers/kaltetod-zwang.jpg
@@ -14,4 +14,4 @@ title: Kaltetod - Zwang
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=2631&sort=pd.name&order=ASC) for $5.60
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=2631&sort=pd.name&order=ASC) for $7.00

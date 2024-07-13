@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00
+actualPrice: $15.00
 album: Self Centered And Too Late
 artist: Parasite Dreams
 categories:
 - Cassette
-date: '2024-03-01T06:18:01'
+date: '2024-05-03T05:16:01'
 draft: false
 images:
 - /images/covers/parasite_dreams-self_centered_and_too_late.jpg
@@ -14,4 +14,4 @@ title: Parasite Dreams - Self Centered And Too Late
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=26297&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=26297&sort=pd.name&order=ASC) for $15.00

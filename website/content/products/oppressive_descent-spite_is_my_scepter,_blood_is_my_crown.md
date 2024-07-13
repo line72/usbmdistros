@@ -4,7 +4,7 @@ album: Spite is My Scepter, Blood is My Crown
 artist: Oppressive Descent
 categories:
 - CD
-date: '2023-03-11T06:01:42'
+date: '2024-07-09T00:40:43'
 draft: false
 images:
 - /images/covers/oppressive_descent-spite_is_my_scepter,_blood_is_my_crown.png

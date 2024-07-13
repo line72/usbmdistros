@@ -5,7 +5,7 @@ artist: Departure Chandelier
 categories:
 - Vinyl
 - CD
-date: '2024-03-21T05:27:34'
+date: '2024-07-11T05:35:31'
 draft: false
 images:
 - /images/covers/departure_chandelier-antichrist_rise_to_power.jpg
@@ -15,7 +15,8 @@ title: Departure Chandelier - Antichrist Rise To Power
 ---
 
 ## Vinyl
-* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/departure-chandelier-antichrist-rise-to-power-french-edition-marble-vinyl-lp) for $27.00 :: French Edition Marble Vinyl LP
-* Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/departure-chandelier-antichrist-rise-to-power-vinyl-lp-gatefold) for $25.00 :: (Gatefold)
+* Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/departure-chandelier-antichrist-rise-to-power-vinyl-lp-gatefold) for $25.00 :: (gatefold)
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=50109&sort=pd.name&order=ASC) for $25.00
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/departure-chandelier-antichrist-rise-to-power-lp) for $27.00 :: Color 2023 press vinyl
 ## CD
 * Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/departure-chandelier-antichrist-rise-to-power) for $12.00

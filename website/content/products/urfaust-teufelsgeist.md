@@ -1,5 +1,5 @@
 ---
-actualPrice: $26.00 - 31.00
+actualPrice: $26.00
 album: Teufelsgeist
 artist: Urfaust
 categories:
@@ -15,4 +15,3 @@ title: Urfaust - Teufelsgeist
 
 ## Vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/urfaust-teufelsgeist-lp) for $26.00 :: Off-White 2022 press vinyl
-* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/urfaust-teufelsgeist-dark-red-smoke-vinyl-lp) for $31.00 :: Dark Red Smoke Vinyl LP

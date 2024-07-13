@@ -4,7 +4,7 @@ album: Hic Regnant Borbonii Manes
 artist: Suhnopfer
 categories:
 - CD
-date: '2021-06-26T15:15:52'
+date: '2024-07-09T13:21:08'
 draft: false
 images:
 - /images/covers/suhnopfer-hic_regnant_borbonii_manes.jpg

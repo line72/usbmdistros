@@ -4,7 +4,7 @@ album: Manifestations 22'
 artist: "B\xE4tlick"
 categories:
 - Vinyl
-date: '2023-06-22T05:05:24'
+date: '2024-07-09T00:40:00'
 draft: false
 images:
 - "/images/covers/b\xE4tlick-manifestations_22'.jpg"

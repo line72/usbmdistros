@@ -4,7 +4,7 @@ album: The Third Level of Decay
 artist: Absolute Key
 categories:
 - Vinyl
-date: '2022-12-06T06:00:54'
+date: '2024-07-09T00:40:05'
 draft: false
 images:
 - /images/covers/absolute_key-the_third_level_of_decay.jpg

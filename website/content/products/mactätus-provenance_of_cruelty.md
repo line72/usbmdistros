@@ -1,17 +1,17 @@
 ---
 actualPrice: $14.00 - 30.00
-album: Provenance of Cruelty
-artist: "MACT\xC4TUS"
+album: Provenance Of Cruelty
+artist: "Mact\xE4tus"
 categories:
 - Vinyl
 - CD
-date: '2024-01-26T01:44:12'
+date: '2024-07-09T14:09:55'
 draft: false
 images:
 - "/images/covers/mact\xE4tus-provenance_of_cruelty.jpg"
 inStock: true
 thumbnailImage: "/images/covers/mact\xE4tus-provenance_of_cruelty-thumb.jpg"
-title: "MACT\xC4TUS - Provenance of Cruelty"
+title: "Mact\xE4tus - Provenance Of Cruelty"
 ---
 
 ## Vinyl

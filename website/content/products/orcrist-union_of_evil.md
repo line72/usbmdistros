@@ -1,10 +1,10 @@
 ---
-actualPrice: $8.00
+actualPrice: $10.00
 album: Union of Evil
 artist: Orcrist
 categories:
 - CD
-date: '2024-03-01T06:17:17'
+date: '2024-05-03T05:15:19'
 draft: false
 images:
 - /images/covers/orcrist-union_of_evil.png
@@ -14,4 +14,4 @@ title: Orcrist - Union of Evil
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=19534&sort=pd.name&order=ASC) for $8.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=19534&sort=pd.name&order=ASC) for $10.00

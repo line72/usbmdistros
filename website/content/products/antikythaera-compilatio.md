@@ -4,7 +4,7 @@ album: Compilatio
 artist: Antikythaera
 categories:
 - Vinyl
-date: '2021-08-13T05:08:43'
+date: '2024-07-09T00:40:13'
 draft: false
 images:
 - /images/covers/antikythaera-compilatio.jpg

@@ -4,7 +4,7 @@ album: Home
 artist: Numenorean
 categories:
 - Vinyl
-date: '2023-11-19T16:40:58'
+date: '2024-07-09T14:02:21'
 draft: false
 images:
 - /images/covers/numenorean-home.png
@@ -14,4 +14,4 @@ title: Numenorean - Home
 ---
 
 ## Vinyl
-* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/numenorean-home-lp-gatefold-colored-limited-to-350) for $21.99 :: LP Gatefold Colored - Limited to 350
+* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/numenorean-home-lp-gatefold-colored-limited-to-350) for $21.99 :: lp gatefold colored - limited to 350

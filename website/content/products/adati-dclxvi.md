@@ -5,7 +5,7 @@ artist: Adati
 categories:
 - Vinyl
 - Cassette
-date: '2024-03-02T06:01:14'
+date: '2024-07-09T00:40:00'
 draft: false
 images:
 - /images/covers/adati-dclxvi.png

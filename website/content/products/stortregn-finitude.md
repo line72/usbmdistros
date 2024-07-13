@@ -4,7 +4,7 @@ album: FINITUDE
 artist: Stortregn
 categories:
 - Vinyl
-date: '2023-11-19T16:33:17'
+date: '2024-07-09T14:02:14'
 draft: false
 images:
 - /images/covers/stortregn-finitude.jpg
@@ -14,4 +14,4 @@ title: Stortregn - FINITUDE
 ---
 
 ## Vinyl
-* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/stortregn-finitude-xeno-variant-vinyl-lp) for $25.99 :: Xeno Variant (LTD 150) - Vinyl LP
+* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/stortregn-finitude-xeno-variant-vinyl-lp) for $25.99 :: xeno variant (ltd 150) - vinyl lp

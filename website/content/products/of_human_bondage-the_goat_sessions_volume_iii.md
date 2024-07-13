@@ -1,10 +1,10 @@
 ---
-actualPrice: $4.00
+actualPrice: $5.00
 album: The Goat Sessions Volume III
 artist: Of Human Bondage
 categories:
 - CD
-date: '2024-03-01T06:17:17'
+date: '2024-05-03T05:15:18'
 draft: false
 images:
 - /images/covers/of_human_bondage-the_goat_sessions_volume_iii.jpg
@@ -14,4 +14,4 @@ title: Of Human Bondage - The Goat Sessions Volume III
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=710&sort=pd.name&order=ASC) for $4.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=710&sort=pd.name&order=ASC) for $5.00

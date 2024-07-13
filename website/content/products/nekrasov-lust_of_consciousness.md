@@ -4,7 +4,7 @@ album: Lust of Consciousness
 artist: Nekrasov
 categories:
 - Vinyl
-date: '2023-11-23T18:54:02'
+date: '2024-07-09T14:02:20'
 draft: false
 images:
 - /images/covers/nekrasov-lust_of_consciousness.jpg
@@ -14,4 +14,4 @@ title: Nekrasov - Lust of Consciousness
 ---
 
 ## Vinyl
-* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/nekrasov-lust-of-consciousness-translucent-lava-orange-vinyl) for $14.99 :: Translucent Lava Orange Vinyl
+* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/nekrasov-lust-of-consciousness-translucent-lava-orange-vinyl) for $14.99 :: translucent lava orange vinyl

@@ -4,7 +4,7 @@ album: Grief
 artist: SIVYJ YAR
 categories:
 - Vinyl
-date: '2024-01-26T01:44:53'
+date: '2024-07-09T14:10:20'
 draft: false
 images:
 - /images/covers/sivyj_yar-grief.jpg
@@ -14,4 +14,4 @@ title: SIVYJ YAR - Grief
 ---
 
 ## Vinyl
-* Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/sivyj-yar-grief-vinyl-lp-lim-100-сивый-яр) for $21.99 :: (color, lim. 100) [Сивый Яр]
+* Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/sivyj-yar-grief-vinyl-lp-lim-100-сивый-яр) for $21.99 :: (color, lim. 100) [сивый яр]

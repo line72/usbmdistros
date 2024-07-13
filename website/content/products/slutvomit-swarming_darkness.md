@@ -4,7 +4,7 @@ album: Swarming Darkness
 artist: Slutvomit
 categories:
 - Cassette
-date: '2022-03-11T16:59:58'
+date: '2024-07-09T13:44:37'
 draft: false
 images:
 - /images/covers/slutvomit-swarming_darkness.png

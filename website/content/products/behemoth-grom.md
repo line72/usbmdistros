@@ -4,7 +4,7 @@ album: Grom
 artist: Behemoth
 categories:
 - Vinyl
-date: '2024-01-26T00:28:50'
+date: '2024-07-09T14:02:07'
 draft: false
 images:
 - /images/covers/behemoth-grom.jpg
@@ -14,4 +14,4 @@ title: Behemoth - Grom
 ---
 
 ## Vinyl
-* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/behemoth-grom-double-180g-black-2lp-vinyl-limited-reissue) for $34.99 :: Double 180g Black 2LP Vinyl - Limited Reissue
+* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/behemoth-grom-double-180g-black-2lp-vinyl-limited-reissue) for $34.99 :: double 180g black 2lp vinyl - limited reissue

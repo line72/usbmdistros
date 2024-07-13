@@ -4,7 +4,7 @@ album: Bestowment of the Seraphic Key
 artist: Empyrean Grace
 categories:
 - Vinyl
-date: '2022-02-27T06:00:31'
+date: '2024-07-09T00:40:11'
 draft: false
 images:
 - /images/covers/empyrean_grace-bestowment_of_the_seraphic_key.jpg

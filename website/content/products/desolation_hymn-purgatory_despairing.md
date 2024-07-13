@@ -1,10 +1,10 @@
 ---
-actualPrice: $8.00
+actualPrice: $10.00
 album: Purgatory Despairing
 artist: Desolation Hymn
 categories:
 - Vinyl
-date: '2024-03-01T06:16:22'
+date: '2024-05-03T05:14:26'
 draft: false
 images:
 - /images/covers/desolation_hymn-purgatory_despairing.jpg
@@ -14,4 +14,4 @@ title: Desolation Hymn - Purgatory Despairing
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=33854&sort=pd.name&order=ASC) for $8.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=33854&sort=pd.name&order=ASC) for $10.00

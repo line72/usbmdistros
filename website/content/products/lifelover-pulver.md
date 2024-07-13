@@ -4,7 +4,7 @@ album: Pulver
 artist: Lifelover
 categories:
 - Vinyl
-date: '2023-11-19T16:31:53'
+date: '2024-07-09T14:02:00'
 draft: false
 images:
 - /images/covers/lifelover-pulver.jpg
@@ -14,4 +14,4 @@ title: Lifelover - Pulver
 ---
 
 ## Vinyl
-* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/lifelover-pulver-marble-vinyl-lp) for $24.99 :: Marble Vinyl LP
+* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/lifelover-pulver-marble-vinyl-lp) for $24.99 :: pulver - marble vinyl lp

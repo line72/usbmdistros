@@ -4,7 +4,7 @@ album: Fanisk
 artist: Emaciated by Christ
 categories:
 - CD
-date: '2022-12-25T06:01:33'
+date: '2024-07-09T00:40:43'
 draft: false
 images:
 - /images/covers/emaciated_by_christ-fanisk.jpg

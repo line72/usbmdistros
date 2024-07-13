@@ -5,7 +5,7 @@ artist: Wampyric Rites
 categories:
 - Cassette
 - CD
-date: '2023-12-30T06:01:52'
+date: '2024-07-09T00:40:40'
 draft: false
 images:
 - /images/covers/wampyric_rites-the_rites_of_the_vampire_inscriptions.jpg

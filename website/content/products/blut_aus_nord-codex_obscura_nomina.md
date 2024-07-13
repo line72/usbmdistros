@@ -4,7 +4,7 @@ album: Codex Obscura Nomina
 artist: Blut Aus Nord
 categories:
 - CD
-date: '2021-06-26T15:15:52'
+date: '2024-07-09T13:20:59'
 draft: false
 images:
 - /images/covers/blut_aus_nord-codex_obscura_nomina.jpg

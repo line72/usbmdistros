@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00
+actualPrice: $15.00
 album: Vertellingen Van Een Donkere Eeuw
 artist: Folteraar
 categories:
 - Vinyl
-date: '2024-03-01T06:15:17'
+date: '2024-05-03T05:13:26'
 draft: false
 images:
 - /images/covers/folteraar-vertellingen_van_een_donkere_eeuw.png
@@ -14,4 +14,4 @@ title: Folteraar - Vertellingen Van Een Donkere Eeuw
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=41110&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=41110&sort=pd.name&order=ASC) for $15.00

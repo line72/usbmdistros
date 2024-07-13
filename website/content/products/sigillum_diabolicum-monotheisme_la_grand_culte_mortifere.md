@@ -4,7 +4,7 @@ album: Monotheisme La Grand Culte Mortifere
 artist: Sigillum Diabolicum
 categories:
 - CD
-date: '2023-11-19T08:27:23'
+date: '2024-07-09T13:44:35'
 draft: false
 images:
 - /images/covers/sigillum_diabolicum-monotheisme_la_grand_culte_mortifere.jpg

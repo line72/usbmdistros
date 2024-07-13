@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00
+actualPrice: $8.99
 album: Demo I
 artist: Dancing Druid
 categories:
 - Cassette
-date: '2024-03-01T06:17:46'
+date: '2024-07-09T14:09:49'
 draft: false
 images:
 - /images/covers/dancing_druid-demo_i.jpg
@@ -14,4 +14,4 @@ title: Dancing Druid - Demo I
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=44420&sort=pd.name&order=ASC) for $12.00
+* Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/dancing-druid-demo-i-cassette-tape-lim-75) for $8.99

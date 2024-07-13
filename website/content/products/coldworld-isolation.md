@@ -4,7 +4,7 @@ album: Isolation
 artist: Coldworld
 categories:
 - Vinyl
-date: '2022-11-02T05:00:40'
+date: '2024-07-09T00:40:07'
 draft: false
 images:
 - /images/covers/coldworld-isolation.jpg

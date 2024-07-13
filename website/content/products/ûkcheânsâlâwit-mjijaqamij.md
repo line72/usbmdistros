@@ -1,16 +1,16 @@
 ---
 actualPrice: $19.98
 album: Mjijaqamij
-artist: "\xDBKCHE\xC2NS\xC2L\xC2WIT"
+artist: "\xDBkche\xE2ns\xE2l\xE2wit"
 categories:
 - Vinyl
-date: '2024-02-01T06:28:18'
+date: '2024-07-09T14:09:45'
 draft: false
 images:
 - "/images/covers/\xFBkche\xE2ns\xE2l\xE2wit-mjijaqamij.jpg"
 inStock: true
 thumbnailImage: "/images/covers/\xFBkche\xE2ns\xE2l\xE2wit-mjijaqamij-thumb.jpg"
-title: "\xDBKCHE\xC2NS\xC2L\xC2WIT - Mjijaqamij"
+title: "\xDBkche\xE2ns\xE2l\xE2wit - Mjijaqamij"
 ---
 
 ## Vinyl

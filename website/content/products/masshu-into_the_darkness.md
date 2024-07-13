@@ -4,7 +4,7 @@ album: Into the Darkness
 artist: Masshu
 categories:
 - Cassette
-date: '2022-03-11T16:59:56'
+date: '2024-07-09T13:44:35'
 draft: false
 images:
 - /images/covers/masshu-into_the_darkness.jpg

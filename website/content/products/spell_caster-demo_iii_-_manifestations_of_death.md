@@ -1,10 +1,10 @@
 ---
-actualPrice: $28.00
+actualPrice: $35.00
 album: Demo III - Manifestations Of Death
 artist: Spell Caster
 categories:
 - Vinyl
-date: '2024-03-01T06:16:00'
+date: '2024-05-03T05:14:09'
 draft: false
 images:
 - /images/covers/spell_caster-demo_iii_-_manifestations_of_death.jpg
@@ -14,4 +14,4 @@ title: Spell Caster - Demo III - Manifestations Of Death
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=38563&sort=pd.name&order=ASC) for $28.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=38563&sort=pd.name&order=ASC) for $35.00

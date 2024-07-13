@@ -1,11 +1,11 @@
 ---
-actualPrice: $9.60 - 20.00
+actualPrice: $12.00 - 25.00
 album: 'Transcendentia: The Shadow Pilgrimage'
 artist: Lunar Chalice
 categories:
 - Vinyl
 - CD
-date: '2024-03-01T06:17:07'
+date: '2024-05-03T05:15:11'
 draft: false
 images:
 - /images/covers/lunar_chalice-transcendentia:_the_shadow_pilgrimage.jpg
@@ -15,6 +15,6 @@ title: 'Lunar Chalice - Transcendentia: The Shadow Pilgrimage'
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=37320&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=37320&sort=pd.name&order=ASC) for $25.00
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=38075&sort=pd.name&order=ASC) for $9.60
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=38075&sort=pd.name&order=ASC) for $12.00

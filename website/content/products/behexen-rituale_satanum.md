@@ -5,7 +5,7 @@ artist: Behexen
 categories:
 - Vinyl
 - CD
-date: '2022-10-21T05:01:43'
+date: '2024-07-09T13:20:59'
 draft: false
 images:
 - /images/covers/behexen-rituale_satanum.jpg

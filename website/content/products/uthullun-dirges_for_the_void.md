@@ -1,11 +1,10 @@
 ---
-actualPrice: $11.00 - 22.00
+actualPrice: $25.00
 album: Dirges For The Void
 artist: Uthullun
 categories:
 - Vinyl
-- Cassette
-date: '2023-11-19T16:32:09'
+date: '2024-07-12T05:36:56'
 draft: false
 images:
 - /images/covers/uthullun-dirges_for_the_void.jpg
@@ -15,7 +14,4 @@ title: Uthullun - Dirges For The Void
 ---
 
 ## Vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/uthullun-dirges-for-the-void-lp) for $22.00 :: Green w/ Smoke 1st press vinyl
-* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/uthullun-dirges-for-the-void-miasmal-green-smoke-vinyl-lp) for $21.00 :: Miasmal green & smoke Vinyl LP
-## Cassette
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/uthullun-dirges-for-the-void-cassette) for $11.00 :: Cassette 2021
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/uthullun-dirges-for-the-void-lp) for $25.00 :: Green w/ Smoke 1st press vinyl

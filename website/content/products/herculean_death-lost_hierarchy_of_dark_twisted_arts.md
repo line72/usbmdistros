@@ -4,7 +4,7 @@ album: Lost Hierarchy of Dark Twisted Arts
 artist: Herculean Death
 categories:
 - Vinyl
-date: '2023-04-14T05:01:09'
+date: '2024-07-09T00:40:02'
 draft: false
 images:
 - /images/covers/herculean_death-lost_hierarchy_of_dark_twisted_arts.jpg

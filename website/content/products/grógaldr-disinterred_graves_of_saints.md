@@ -4,7 +4,7 @@ album: Disinterred Graves Of Saints
 artist: "Gr\xF3galdr"
 categories:
 - Vinyl
-date: '2023-07-10T05:06:08'
+date: '2024-07-09T00:39:59'
 draft: false
 images:
 - "/images/covers/gr\xF3galdr-disinterred_graves_of_saints.jpg"

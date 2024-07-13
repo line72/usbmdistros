@@ -4,8 +4,9 @@ album: Pan
 artist: BILWIS
 categories:
 - Vinyl
+- Cassette
 - CD
-date: '2024-01-26T01:44:15'
+date: '2024-07-09T14:10:04'
 draft: false
 images:
 - /images/covers/bilwis-pan.jpg
@@ -16,5 +17,7 @@ title: BILWIS - Pan
 
 ## Vinyl
 * Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/bilwis-pan-vinyl-lp-color-lim-199) for $30.00 :: (color, lim.199)
+## Cassette
+* Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/bilwis-pan-cassette-tape) for $15.00 :: lim.66, black, numbered)
 ## CD
 * Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/bilwis-pan-cd-digipak) for $14.00 :: (digipak)

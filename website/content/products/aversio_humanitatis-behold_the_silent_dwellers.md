@@ -5,7 +5,7 @@ artist: Aversio Humanitatis
 categories:
 - Vinyl
 - CD
-date: '2023-11-19T15:14:13'
+date: '2024-07-09T13:20:58'
 draft: false
 images:
 - /images/covers/aversio_humanitatis-behold_the_silent_dwellers.jpg

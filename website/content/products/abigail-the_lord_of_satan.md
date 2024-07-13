@@ -1,11 +1,10 @@
 ---
-actualPrice: $9.00 - 16.25
+actualPrice: $25.00
 album: The Lord of Satan
 artist: Abigail
 categories:
 - Vinyl
-- Cassette
-date: '2024-03-01T06:14:50'
+date: '2024-06-17T23:45:01'
 draft: false
 images:
 - /images/covers/abigail-the_lord_of_satan.jpg
@@ -15,6 +14,4 @@ title: Abigail - The Lord of Satan
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=44942&sort=pd.name&order=ASC) for $16.25
-## Cassette
-* Purchase from [Caligari Records](https://caligarirecords.storenvy.com/products/33512005-abigail-the-lord-of-satan) for $9.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=51356&sort=pd.name&order=ASC) for $25.00

@@ -4,7 +4,7 @@ album: Violet Mercury & Moonlit Sorcery
 artist: Drowning The Light
 categories:
 - CD
-date: '2023-10-08T05:15:17'
+date: '2024-07-09T00:40:41'
 draft: false
 images:
 - /images/covers/drowning_the_light-violet_mercury_&_moonlit_sorcery.jpg

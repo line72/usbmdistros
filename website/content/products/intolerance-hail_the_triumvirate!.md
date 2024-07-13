@@ -1,10 +1,10 @@
 ---
-actualPrice: $9.00 - 12.00
+actualPrice: $15.00
 album: Hail the Triumvirate!
 artist: Intolerance
 categories:
 - CD
-date: '2024-03-01T06:17:03'
+date: '2024-05-03T05:15:05'
 draft: false
 images:
 - /images/covers/intolerance-hail_the_triumvirate!.jpg
@@ -14,5 +14,4 @@ title: Intolerance - Hail the Triumvirate!
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=40399&sort=pd.name&order=ASC) for $12.00
-* Purchase from [CW Productions](https://shop.cwproductions.net/products/intolerance-hail-the-triumvirate-cd) for $9.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=40399&sort=pd.name&order=ASC) for $15.00

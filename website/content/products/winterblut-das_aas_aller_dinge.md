@@ -1,10 +1,10 @@
 ---
-actualPrice: $16.00
+actualPrice: $20.00
 album: Das Aas Aller Dinge
 artist: Winterblut
 categories:
 - Vinyl
-date: '2024-03-01T06:16:15'
+date: '2024-05-03T05:14:20'
 draft: false
 images:
 - /images/covers/winterblut-das_aas_aller_dinge.jpg
@@ -14,4 +14,4 @@ title: Winterblut - Das Aas Aller Dinge
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=45678&sort=pd.name&order=ASC) for $16.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=45678&sort=pd.name&order=ASC) for $20.00

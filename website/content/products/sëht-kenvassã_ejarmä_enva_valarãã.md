@@ -4,7 +4,7 @@ album: "Kenvass\xE3 Ejarm\xE4 Enva Valar\xE3\xE3"
 artist: "S\xEBht"
 categories:
 - CD
-date: '2023-03-18T05:01:51'
+date: '2024-07-09T00:40:42'
 draft: false
 images:
 - "/images/covers/s\xEBht-kenvass\xE3_ejarm\xE4_enva_valar\xE3\xE3.jpg"

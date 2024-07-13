@@ -4,7 +4,7 @@ album: Mellom Skogledde Aaser
 artist: Kampfar
 categories:
 - CD
-date: '2024-01-26T01:44:39'
+date: '2024-07-09T14:10:12'
 draft: false
 images:
 - /images/covers/kampfar-mellom_skogledde_aaser.jpg

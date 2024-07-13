@@ -5,7 +5,7 @@ artist: Lamp of Murmuur
 categories:
 - Vinyl
 - CD
-date: '2024-01-26T01:44:46'
+date: '2024-07-09T14:10:17'
 draft: false
 images:
 - /images/covers/lamp_of_murmuur-punishment_and_devotion.jpg

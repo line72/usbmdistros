@@ -4,7 +4,7 @@ album: Snowland MMXII
 artist: Sorcier des Glaces
 categories:
 - Vinyl
-date: '2024-03-21T05:27:34'
+date: '2024-07-09T14:02:03'
 draft: false
 images:
 - /images/covers/sorcier_des_glaces-snowland_mmxii.jpg
@@ -15,4 +15,4 @@ title: Sorcier des Glaces - Snowland MMXII
 
 ## Vinyl
 * Purchase from [Sto'Vo'Kor Records](https://stovokor-records.com/products/sorcier-des-glaces-snowland-mmxii) for $22.00
-* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/sorcier-des-glaces-snowland-mmxii-limited-marble-vinyl-lp) for $27.00 :: Limited Marble Vinyl LP
+* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/sorcier-des-glaces-snowland-mmxii-limited-marble-vinyl-lp) for $27.00 :: limited marble vinyl lp

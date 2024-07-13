@@ -1,11 +1,11 @@
 ---
-actualPrice: $12.00 - 20.00
+actualPrice: $15.00 - 25.00
 album: The Black Curse
 artist: Lord Belial
 categories:
 - Vinyl
 - CD
-date: '2024-03-01T06:17:07'
+date: '2024-05-03T05:15:10'
 draft: false
 images:
 - /images/covers/lord_belial-the_black_curse.jpg
@@ -15,6 +15,6 @@ title: Lord Belial - The Black Curse
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=35854&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=35854&sort=pd.name&order=ASC) for $25.00
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=28527&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=28527&sort=pd.name&order=ASC) for $15.00

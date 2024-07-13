@@ -4,7 +4,7 @@ album: Feast Upon the World of Illusions
 artist: Deathcircle
 categories:
 - CD
-date: '2023-08-02T05:14:29'
+date: '2024-07-09T00:40:41'
 draft: false
 images:
 - /images/covers/deathcircle-feast_upon_the_world_of_illusions.jpg

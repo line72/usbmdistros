@@ -4,7 +4,7 @@ album: Lust and Violence
 artist: Power From Hell
 categories:
 - CD
-date: '2021-07-10T19:58:26'
+date: '2024-07-09T13:44:38'
 draft: false
 images:
 - /images/covers/power_from_hell-lust_and_violence.jpg

@@ -4,7 +4,7 @@ album: Rotten Chains of Tortuous Past
 artist: "Aiq\xEBhahirit"
 categories:
 - CD
-date: '2022-02-15T06:01:09'
+date: '2024-07-09T00:40:45'
 draft: false
 images:
 - "/images/covers/aiq\xEBhahirit-rotten_chains_of_tortuous_past.jpg"

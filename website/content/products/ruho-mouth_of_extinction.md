@@ -4,7 +4,7 @@ album: Mouth of Extinction
 artist: Ruho
 categories:
 - CD
-date: '2022-03-11T16:59:56'
+date: '2024-07-09T13:44:37'
 draft: false
 images:
 - /images/covers/ruho-mouth_of_extinction.jpg

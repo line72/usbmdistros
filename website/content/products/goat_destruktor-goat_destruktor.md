@@ -4,7 +4,7 @@ album: Goat Destruktor
 artist: Goat Destruktor
 categories:
 - Cassette
-date: '2022-03-11T16:59:56'
+date: '2024-07-09T13:44:37'
 draft: false
 images:
 - /images/covers/goat_destruktor-goat_destruktor.jpg

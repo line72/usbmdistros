@@ -4,7 +4,7 @@ album: s/t
 artist: Opus Magorum
 categories:
 - Vinyl
-date: '2022-11-18T06:00:41'
+date: '2024-07-09T00:40:06'
 draft: false
 images:
 - /images/covers/opus_magorum-s-t.jpg

@@ -5,7 +5,7 @@ artist: Spectral Corruption
 categories:
 - Vinyl
 - CD
-date: '2023-06-07T05:01:12'
+date: '2024-07-09T00:40:43'
 draft: false
 images:
 - /images/covers/spectral_corruption-requiem.jpg

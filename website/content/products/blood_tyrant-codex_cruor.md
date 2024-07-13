@@ -1,11 +1,11 @@
 ---
-actualPrice: $10.40 - 12.00
+actualPrice: $13.00 - 15.00
 album: Codex Cruor
 artist: Blood Tyrant
 categories:
 - Cassette
 - CD
-date: '2024-03-01T06:17:42'
+date: '2024-05-03T05:15:43'
 draft: false
 images:
 - /images/covers/blood_tyrant-codex_cruor.jpg
@@ -15,6 +15,6 @@ title: Blood Tyrant - Codex Cruor
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=30681&sort=pd.name&order=ASC) for $10.40
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=30681&sort=pd.name&order=ASC) for $13.00
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=30695&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=30695&sort=pd.name&order=ASC) for $15.00

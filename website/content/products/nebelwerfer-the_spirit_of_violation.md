@@ -1,10 +1,10 @@
 ---
-actualPrice: $6.40
+actualPrice: $8.00
 album: The Spirit of Violation
 artist: Nebelwerfer
 categories:
 - CD
-date: '2024-03-01T06:17:12'
+date: '2024-05-03T05:15:16'
 draft: false
 images:
 - /images/covers/nebelwerfer-the_spirit_of_violation.jpg
@@ -14,4 +14,4 @@ title: Nebelwerfer - The Spirit of Violation
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=1798&sort=pd.name&order=ASC) for $6.40
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=1798&sort=pd.name&order=ASC) for $8.00

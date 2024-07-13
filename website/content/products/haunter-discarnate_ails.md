@@ -4,7 +4,7 @@ album: Discarnate Ails
 artist: Haunter
 categories:
 - Vinyl
-date: '2024-03-04T06:25:33'
+date: '2024-07-06T05:23:36'
 draft: false
 images:
 - /images/covers/haunter-discarnate_ails.jpg
@@ -14,4 +14,4 @@ title: Haunter - Discarnate Ails
 ---
 
 ## Vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/haunter-discarnate-ails-lp) for $27.00 :: Black 1st press vinyl
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/haunter-discarnate-ails-lp) for $27.00 :: Black 2022 press vinyl

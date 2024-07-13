@@ -4,7 +4,7 @@ album: s/t
 artist: Karnilapakte
 categories:
 - Vinyl
-date: '2022-02-27T06:00:31'
+date: '2024-07-09T00:40:11'
 draft: false
 images:
 - /images/covers/karnilapakte-s-t.jpg

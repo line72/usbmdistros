@@ -4,7 +4,7 @@ album: Gloomy Roots of Doom
 artist: Elffor
 categories:
 - CD
-date: '2024-01-26T01:44:34'
+date: '2024-07-09T14:10:10'
 draft: false
 images:
 - /images/covers/elffor-gloomy_roots_of_doom.jpg

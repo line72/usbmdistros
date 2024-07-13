@@ -4,7 +4,7 @@ album: Guerros de la Tierra de los Muertos
 artist: Yaotl Mictlan
 categories:
 - CD
-date: '2024-01-26T01:44:20'
+date: '2024-07-09T14:10:02'
 draft: false
 images:
 - /images/covers/yaotl_mictlan-guerros_de_la_tierra_de_los_muertos.jpg

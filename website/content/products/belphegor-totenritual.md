@@ -4,7 +4,7 @@ album: Totenritual
 artist: Belphegor
 categories:
 - Vinyl
-date: '2023-12-17T13:28:54'
+date: '2024-07-09T14:02:09'
 draft: false
 images:
 - /images/covers/belphegor-totenritual.jpg
@@ -14,4 +14,4 @@ title: Belphegor - Totenritual
 ---
 
 ## Vinyl
-* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/belphegor-totenritual-crystal-clear-gold-black-splatter-vinyl-lp) for $29.98 :: Crystal Clear, Gold & Black Splatter VInyl LP
+* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/belphegor-totenritual-crystal-clear-gold-black-splatter-vinyl-lp) for $29.98 :: crystal clear, gold & black splatter vinyl lp

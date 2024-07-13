@@ -1,10 +1,10 @@
 ---
-actualPrice: $9.60
+actualPrice: $12.00
 album: Vilsna Andars Utmark
 artist: Grift
 categories:
 - Vinyl
-date: '2024-03-01T06:16:24'
+date: '2024-05-03T05:14:29'
 draft: false
 images:
 - /images/covers/grift-vilsna_andars_utmark.jpg
@@ -14,4 +14,4 @@ title: Grift - Vilsna Andars Utmark
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=31111&sort=pd.name&order=ASC) for $9.60
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=31111&sort=pd.name&order=ASC) for $12.00

@@ -1,11 +1,10 @@
 ---
-actualPrice: $13.99 - 25.99
+actualPrice: $25.99
 album: 'Triade III: Nyx'
 artist: Aara
 categories:
 - Vinyl
-- CD
-date: '2023-02-03T06:02:13'
+date: '2024-07-09T13:20:55'
 draft: false
 images:
 - /images/covers/aara-triade_iii:_nyx.png
@@ -16,5 +15,3 @@ title: 'Aara - Triade III: Nyx'
 
 ## Vinyl
 * Purchase from [Debemur Morti](https://debemurmorti.aisamerch.com/item/133346) for $25.99
-## CD
-* Purchase from [Debemur Morti](https://debemurmorti.aisamerch.com/item/133348) for $13.99 :: special edition

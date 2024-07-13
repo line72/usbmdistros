@@ -1,10 +1,10 @@
 ---
-actualPrice: $9.60
+actualPrice: $12.00
 album: Av Sublim Natur
 artist: Vetter
 categories:
 - CD
-date: '2024-03-01T06:17:34'
+date: '2024-05-03T05:15:34'
 draft: false
 images:
 - /images/covers/vetter-av_sublim_natur.jpg
@@ -14,4 +14,4 @@ title: Vetter - Av Sublim Natur
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=26895&sort=pd.name&order=ASC) for $9.60
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=26895&sort=pd.name&order=ASC) for $12.00

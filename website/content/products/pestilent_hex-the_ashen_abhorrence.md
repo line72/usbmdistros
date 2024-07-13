@@ -5,7 +5,7 @@ artist: Pestilent Hex
 categories:
 - Vinyl
 - CD
-date: '2022-04-27T05:01:13'
+date: '2024-07-09T13:21:07'
 draft: false
 images:
 - /images/covers/pestilent_hex-the_ashen_abhorrence.jpg

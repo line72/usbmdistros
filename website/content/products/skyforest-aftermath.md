@@ -5,7 +5,7 @@ artist: SKYFOREST
 categories:
 - Vinyl
 - CD
-date: '2024-01-26T01:44:49'
+date: '2024-07-09T14:10:16'
 draft: false
 images:
 - /images/covers/skyforest-aftermath.jpg
@@ -17,4 +17,4 @@ title: SKYFOREST - Aftermath
 ## Vinyl
 * Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/skyforest-aftermath-vinyl-lp-color) for $24.99 :: (color, lim. 199)
 ## CD
-* Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/skyforest-aftermath-cd) for $10.99 :: [Digipak]
+* Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/skyforest-aftermath-cd) for $10.99 :: [digipak]

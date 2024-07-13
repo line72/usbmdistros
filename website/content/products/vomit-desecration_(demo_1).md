@@ -4,7 +4,7 @@ album: Desecration (Demo 1)
 artist: Vomit
 categories:
 - Cassette
-date: '2022-03-11T16:59:56'
+date: '2024-07-09T13:44:37'
 draft: false
 images:
 - /images/covers/vomit-desecration_(demo_1).jpg

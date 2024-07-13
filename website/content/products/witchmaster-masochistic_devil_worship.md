@@ -4,7 +4,7 @@ album: Masochistic Devil Worship
 artist: Witchmaster
 categories:
 - Cassette
-date: '2023-11-19T08:27:20'
+date: '2024-07-09T13:44:35'
 draft: false
 images:
 - /images/covers/witchmaster-masochistic_devil_worship.jpg

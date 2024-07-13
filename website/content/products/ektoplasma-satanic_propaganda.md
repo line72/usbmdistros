@@ -1,10 +1,10 @@
 ---
-actualPrice: $16.00
+actualPrice: $20.00
 album: Satanic Propaganda
 artist: Ektoplasma
 categories:
 - Vinyl
-date: '2024-03-01T06:16:22'
+date: '2024-05-03T05:14:27'
 draft: false
 images:
 - /images/covers/ektoplasma-satanic_propaganda.jpg
@@ -14,4 +14,4 @@ title: Ektoplasma - Satanic Propaganda
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=47166&sort=pd.name&order=ASC) for $16.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=47166&sort=pd.name&order=ASC) for $20.00

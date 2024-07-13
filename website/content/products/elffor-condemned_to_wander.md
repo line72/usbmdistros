@@ -5,7 +5,7 @@ artist: Elffor
 categories:
 - Vinyl
 - CD
-date: '2024-01-26T01:44:42'
+date: '2024-07-09T14:10:14'
 draft: false
 images:
 - /images/covers/elffor-condemned_to_wander.jpg
@@ -17,4 +17,4 @@ title: Elffor - Condemned to Wander
 ## Vinyl
 * Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/elffor-condemned-to-wander-vinyl-lp-black-lim-199) for $25.00 :: (black, lim. 199)
 ## CD
-* Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/elffor-condemned-to-wander-cd) for $13.00 :: [Digipak]
+* Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/elffor-condemned-to-wander-cd) for $13.00 :: [digipak]

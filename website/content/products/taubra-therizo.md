@@ -4,7 +4,7 @@ album: Therizo
 artist: Taubra
 categories:
 - CD
-date: '2023-09-01T05:21:01'
+date: '2024-07-09T13:21:08'
 draft: false
 images:
 - /images/covers/taubra-therizo.jpg

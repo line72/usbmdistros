@@ -4,7 +4,7 @@ album: Paurpura Fraeovibokos
 artist: Wulkanaz
 categories:
 - CD
-date: '2024-01-26T01:44:21'
+date: '2024-07-09T14:10:03'
 draft: false
 images:
 - /images/covers/wulkanaz-paurpura_fraeovibokos.png

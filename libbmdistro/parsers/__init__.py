@@ -4,6 +4,7 @@
 # Released under the GPLv3
 
 from .Parser import Parser
+from .Predictor import Predictor
 
 from .ArcaneAltar import ArcaneAltar
 from .BlastBeatsVinyl import BlastBeatsVinyl

@@ -4,7 +4,7 @@ album: Heralds Of Strife
 artist: Vallendusk
 categories:
 - CD
-date: '2024-01-26T01:44:44'
+date: '2024-07-09T14:10:16'
 draft: false
 images:
 - /images/covers/vallendusk-heralds_of_strife.jpg
@@ -14,4 +14,4 @@ title: Vallendusk - Heralds Of Strife
 ---
 
 ## CD
-* Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/vallendusk-heralds-of-strife-cd) for $14.00 :: [Digipak]
+* Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/vallendusk-heralds-of-strife-cd) for $14.00 :: [digipak]

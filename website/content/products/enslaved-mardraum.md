@@ -1,10 +1,10 @@
 ---
-actualPrice: $26.99
+actualPrice: $25.00
 album: Mardraum
 artist: Enslaved
 categories:
 - Vinyl
-date: '2023-11-19T16:32:03'
+date: '2024-05-31T05:12:47'
 draft: false
 images:
 - /images/covers/enslaved-mardraum.jpg
@@ -14,4 +14,4 @@ title: Enslaved - Mardraum
 ---
 
 ## Vinyl
-* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/enslaved-mardraum-beyond-the-within-magenta-splatter-vinyl-lp) for $26.99 :: Beyond The Within - Magenta Splatter Vinyl LP
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=50668&sort=pd.name&order=ASC) for $25.00

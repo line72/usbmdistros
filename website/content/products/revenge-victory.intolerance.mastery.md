@@ -4,7 +4,7 @@ album: Victory.Intolerance.Mastery
 artist: Revenge
 categories:
 - CD
-date: '2024-02-02T06:17:41'
+date: '2024-07-09T13:44:34'
 draft: false
 images:
 - /images/covers/revenge-victory.intolerance.mastery.jpg

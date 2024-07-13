@@ -1,12 +1,12 @@
 ---
-actualPrice: $10.00 - 21.00
+actualPrice: $10.00 - 23.00
 album: Neuroplasticity
 artist: Helge
 categories:
 - Vinyl
 - Cassette
 - CD
-date: '2022-08-02T13:18:06'
+date: '2024-07-06T05:23:49'
 draft: false
 images:
 - /images/covers/helge-neuroplasticity.jpg
@@ -16,7 +16,7 @@ title: Helge - Neuroplasticity
 ---
 
 ## Vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/helge-neuroplasticity-lp) for $21.00 :: Black 2022 press vinyl
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/helge-neuroplasticity-lp) for $23.00 :: Black 2022 press vinyl
 ## Cassette
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/helge-neuroplasticity-cassette) for $11.00 :: Cassette Tape 2022 press
 ## CD

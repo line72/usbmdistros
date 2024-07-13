@@ -4,7 +4,7 @@ album: "Totschl\xE4ger (A Saintslayer's Songbook) Hardcover Mediabook"
 artist: Abigor
 categories:
 - CD
-date: '2022-02-25T06:00:52'
+date: '2024-07-09T00:40:45'
 draft: false
 images:
 - "/images/covers/abigor-totschl\xE4ger_(a_saintslayer's_songbook)_hardcover_mediabook.jpg"

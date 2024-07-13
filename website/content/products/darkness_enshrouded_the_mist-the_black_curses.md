@@ -4,7 +4,7 @@ album: The Black Curses
 artist: Darkness Enshrouded The Mist
 categories:
 - CD
-date: '2023-11-19T08:28:04'
+date: '2024-07-09T13:44:35'
 draft: false
 images:
 - /images/covers/darkness_enshrouded_the_mist-the_black_curses.png

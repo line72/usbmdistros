@@ -1,10 +1,10 @@
 ---
-actualPrice: $13.60
+actualPrice: $17.00
 album: Taste The Sin Through The Fire
 artist: Unholy Lust
 categories:
 - Vinyl
-date: '2024-03-01T06:16:08'
+date: '2024-05-03T05:14:15'
 draft: false
 images:
 - /images/covers/unholy_lust-taste_the_sin_through_the_fire.jpg
@@ -14,5 +14,5 @@ title: Unholy Lust - Taste The Sin Through The Fire
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=1406&sort=pd.name&order=ASC) for $13.60
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=1909&sort=pd.name&order=ASC) for $13.60
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=1406&sort=pd.name&order=ASC) for $17.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=1909&sort=pd.name&order=ASC) for $17.00

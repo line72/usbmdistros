@@ -5,7 +5,7 @@ artist: Summoning
 categories:
 - Vinyl
 - CD
-date: '2024-01-26T01:44:37'
+date: '2024-07-09T14:10:11'
 draft: false
 images:
 - /images/covers/summoning-let_mortal_heroes_sing_your_fame.jpg
@@ -15,6 +15,6 @@ title: Summoning - Let Mortal Heroes Sing Your Fame
 ---
 
 ## Vinyl
-* Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/summoning-let-mortal-heroes-sing-your-fame-vinyl-2xlp-double-lp-gatefold) for $50.00 :: (Double LP Gatefold)
+* Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/summoning-let-mortal-heroes-sing-your-fame-vinyl-2xlp-double-lp-gatefold) for $50.00 :: (double lp gatefold)
 ## CD
 * Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/summoning-let-mortal-heroes-sing-your-fame-cd) for $15.00

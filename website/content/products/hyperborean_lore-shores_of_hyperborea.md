@@ -4,7 +4,7 @@ album: Shores of Hyperborea
 artist: Hyperborean Lore
 categories:
 - CD
-date: '2023-08-24T16:54:57'
+date: '2024-07-09T13:44:36'
 draft: false
 images:
 - /images/covers/hyperborean_lore-shores_of_hyperborea.jpg
