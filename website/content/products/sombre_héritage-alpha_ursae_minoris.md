@@ -4,7 +4,6 @@ album: Alpha Ursae Minoris
 artist: "Sombre H\xE9ritage"
 categories:
 - Cassette
-- CD
 date: '2024-07-09T13:56:15'
 draft: false
 images:
@@ -16,5 +15,3 @@ title: "Sombre H\xE9ritage - Alpha Ursae Minoris"
 
 ## Cassette
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/used-sombre-heritage-alpha-ursae-minoris-cassette) for $10.00 :: Cassette Tape 2020
-## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=9703&sort=pd.name&order=ASC) for $10.00

@@ -21,4 +21,3 @@ title: Immortal - Blizzard Beasts
 * Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/immortal-blizzard-beasts-vinyl-lp-gatefold) for $35.00 :: (gatefold, color)
 ## CD
 * Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/immortal-blizzard-beasts-cd) for $15.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=50702&sort=pd.name&order=ASC) for $15.00

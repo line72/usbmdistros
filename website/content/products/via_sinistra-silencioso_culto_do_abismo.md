@@ -1,5 +1,5 @@
 ---
-actualPrice: $25.00 - 26.00
+actualPrice: $26.00
 album: Silencioso Culto do Abismo
 artist: Via Sinistra
 categories:
@@ -15,4 +15,3 @@ title: Via Sinistra - Silencioso Culto do Abismo
 
 ## Vinyl
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/via-sinistra-silencioso-culto-do-abismo-12-lp) for $26.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=26627&sort=pd.name&order=ASC) for $25.00

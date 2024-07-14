@@ -15,8 +15,6 @@ title: Sort Vokter - Folkloric Necro Metal
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29572&sort=pd.name&order=ASC) for $25.00
 * Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/sort-vokter-ildjarn-folkloric-necro-metal-vinyl-lp-color) for $25.00 :: (color)
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=26644&sort=pd.name&order=ASC) for $15.00
 * Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/sort-vokter-ildjarn-folkloric-necro-metal-cd-hardbook) for $15.00 :: [hardcover digibook, lim.513] (ildjarn)

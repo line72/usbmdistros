@@ -21,5 +21,4 @@ title: Nidernes - Beyond the Gleam of Nightsky
 ## Cassette
 * Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/nidernes-beyond-the-gleam-of-nightsky-cassette-tape) for $12.00
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=29375&sort=pd.name&order=ASC) for $15.00
 * Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/nidernes-beyond-the-gleam-of-nightsky-cd-digipak) for $14.00 :: (digipak)

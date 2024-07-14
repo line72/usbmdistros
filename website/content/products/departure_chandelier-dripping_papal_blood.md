@@ -4,7 +4,7 @@ album: Dripping Papal Blood
 artist: Departure Chandelier
 categories:
 - Vinyl
-date: '2024-05-20T05:12:56'
+date: '2024-01-26T01:44:15'
 draft: false
 images:
 - /images/covers/departure_chandelier-dripping_papal_blood.jpg
@@ -15,4 +15,3 @@ title: Departure Chandelier - Dripping Papal Blood
 
 ## Vinyl
 * Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/departure-chandelier-dripping-papal-blood-vinyl-lp-w-insert-etched) for $25.00 :: (w/insert, etched)
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=50110&sort=pd.name&order=ASC) for $25.00
