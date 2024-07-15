@@ -15,3 +15,4 @@ title: Grizelda - A War Drenched in Fantasy
 
 ## CD
 * Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/grizelda-a-war-drenched-in-fantasy-cd) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=46829&sort=pd.name&order=ASC) for $12.00

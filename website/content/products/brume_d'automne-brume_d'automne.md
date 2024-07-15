@@ -15,3 +15,4 @@ title: Brume d'Automne - Brume D'Automne
 
 ## Vinyl
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/brume-d-automne-brume-d-automne-12-lp) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=49617&sort=pd.name&order=ASC) for $30.00

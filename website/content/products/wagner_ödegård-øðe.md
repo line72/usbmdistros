@@ -15,3 +15,4 @@ title: "Wagner \xD6deg\xE5rd - \xD8\xF0e"
 
 ## Vinyl
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/wagner-odegard-ode-12-lp) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29909&sort=pd.name&order=ASC) for $25.00

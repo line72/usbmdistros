@@ -19,3 +19,4 @@ title: Immortal - Diabolical Fullmoon Mysticism
 * Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/immortal-diabolical-fullmoon-mysticism-orange-black-splatter-vinyl-lp-gatefold) for $27.00 :: orange/black splatter vinyl lp gatefold
 ## CD
 * Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/immortal-diabolical-fullmoon-mysticism-cd) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=50709&sort=pd.name&order=ASC) for $15.00

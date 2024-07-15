@@ -15,3 +15,4 @@ title: "Wagner \xD6deg\xE5rd - Gl\xF8mbd I Grifft"
 
 ## Vinyl
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/wagner-odegard-glombd-i-grifft-12-lp) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29906&sort=pd.name&order=ASC) for $25.00

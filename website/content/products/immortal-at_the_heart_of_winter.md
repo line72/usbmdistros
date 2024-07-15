@@ -17,5 +17,6 @@ title: Immortal - At The Heart Of Winter
 ## Vinyl
 * Purchase from [Sto'Vo'Kor Records](https://stovokor-records.com/products/immortal-at-the-heart-of-winter) for $22.00
 * Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/immortal-at-the-heart-of-winter-limited-splatter-vinyl-lp) for $27.00 :: limited splatter vinyl lp
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=50986&sort=pd.name&order=ASC) for $25.00
 ## CD
 * Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/immortal-at-the-heart-of-winter-cd) for $15.00

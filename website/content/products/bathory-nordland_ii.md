@@ -1,10 +1,11 @@
 ---
-actualPrice: $35.00
+actualPrice: $15.00 - 35.00
 album: Nordland II
 artist: Bathory
 categories:
 - Vinyl
-date: '2024-01-26T01:44:03'
+- Cassette
+date: '2024-05-30T05:15:06'
 draft: false
 images:
 - /images/covers/bathory-nordland_ii.jpg
@@ -15,3 +16,5 @@ title: Bathory - Nordland II
 
 ## Vinyl
 * Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/bathory-nordland-ii-vinyl-2xlp-gatefold) for $35.00 :: (gatefold, 180g)
+## Cassette
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=50577&sort=pd.name&order=ASC) for $15.00

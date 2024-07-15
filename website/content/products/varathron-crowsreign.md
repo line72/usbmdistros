@@ -1,0 +1,17 @@
+---
+actualPrice: $30.00
+album: Crowsreign
+artist: Varathron
+categories:
+- Vinyl
+date: '2024-06-25T05:15:28'
+draft: false
+images:
+- /images/covers/varathron-crowsreign.jpg
+inStock: true
+thumbnailImage: /images/covers/varathron-crowsreign-thumb.jpg
+title: Varathron - Crowsreign
+---
+
+## Vinyl
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=51479&sort=pd.name&order=ASC) for $30.00

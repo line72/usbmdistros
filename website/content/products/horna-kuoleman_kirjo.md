@@ -15,3 +15,4 @@ title: Horna - Kuoleman Kirjo
 
 ## Vinyl
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/horna-kuoleman-kirjo-2xlp) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=50627&sort=pd.name&order=ASC) for $30.00
