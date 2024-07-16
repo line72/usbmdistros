@@ -1,10 +1,10 @@
 ---
-actualPrice: $10.00
+actualPrice: $12.00
 album: Loekr Inn Niflheim
 artist: Desastrious
 categories:
 - Cassette
-date: '2024-06-29T05:16:47'
+date: '2024-07-16T05:25:27'
 draft: false
 images:
 - /images/covers/desastrious-loekr_inn_niflheim.png
@@ -14,4 +14,4 @@ title: Desastrious - Loekr Inn Niflheim
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=51601&sort=pd.name&order=ASC) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=52156&sort=pd.name&order=ASC) for $12.00
