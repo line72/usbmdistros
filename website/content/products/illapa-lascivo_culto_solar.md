@@ -4,7 +4,7 @@ album: Lascivo Culto Solar
 artist: Illapa
 categories:
 - CD
-date: '2024-07-09T13:44:35'
+date: '2024-05-03T05:15:03'
 draft: false
 images:
 - /images/covers/illapa-lascivo_culto_solar.jpg
@@ -15,4 +15,3 @@ title: Illapa - Lascivo Culto Solar
 
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=29344&sort=pd.name&order=ASC) for $10.00
-* Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/illapa-lascivo-culto-solar-digipak-cd/) for $10.00

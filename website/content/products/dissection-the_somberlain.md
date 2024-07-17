@@ -1,5 +1,5 @@
 ---
-actualPrice: $12.00 - 55.00
+actualPrice: $12.99 - 55.00
 album: The Somberlain
 artist: Dissection
 categories:
@@ -18,4 +18,3 @@ title: Dissection - The Somberlain
 * Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/dissection-the-somberlain-double-lp-gatefold-colored-limited) for $55.00 :: double lp gatefold colored - limited
 ## CD
 * Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/dissection-the-somberlain-cd) for $12.99
-* Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/dissection-the-somberlain-cd/) for $12.00

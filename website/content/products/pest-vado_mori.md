@@ -4,7 +4,7 @@ album: Vado Mori
 artist: Pest
 categories:
 - CD
-date: '2024-05-03T05:15:21'
+date: '2024-07-17T05:25:17'
 draft: false
 images:
 - /images/covers/pest-vado_mori.jpg
@@ -14,4 +14,4 @@ title: Pest - Vado Mori
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=27793&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=52185&sort=pd.name&order=ASC) for $12.00

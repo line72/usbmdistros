@@ -1,10 +1,10 @@
 ---
-actualPrice: $8.00
+actualPrice: $12.00
 album: Ars Nigrorum
 artist: Argentum
 categories:
 - CD
-date: '2024-05-03T05:14:42'
+date: '2024-07-17T05:24:38'
 draft: false
 images:
 - /images/covers/argentum-ars_nigrorum.jpg
@@ -14,4 +14,4 @@ title: Argentum - Ars Nigrorum
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=45595&sort=pd.name&order=ASC) for $8.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=52172&sort=pd.name&order=ASC) for $12.00
