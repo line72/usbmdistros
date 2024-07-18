@@ -18,3 +18,4 @@ title: Blackdeath - Phantasmhassgorie
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=39770&sort=pd.name&order=ASC) for $25.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=25298&sort=pd.name&order=ASC) for $12.00
+* Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/blackdeath-phantasmhassgorie-cd/) for $12.00

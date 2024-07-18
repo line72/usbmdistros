@@ -4,7 +4,7 @@ album: Satanas Tedeum
 artist: Rotting Christ
 categories:
 - CD
-date: '2024-05-03T05:15:23'
+date: '2024-07-18T05:24:07'
 draft: false
 images:
 - /images/covers/rotting_christ-satanas_tedeum.jpg
@@ -14,4 +14,4 @@ title: Rotting Christ - Satanas Tedeum
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=49116&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=52237&sort=pd.name&order=ASC) for $15.00

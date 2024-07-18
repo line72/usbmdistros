@@ -4,7 +4,7 @@ album: Goatlord
 artist: Darkthrone
 categories:
 - Vinyl
-date: '2024-05-03T05:13:19'
+date: '2024-07-18T05:22:04'
 draft: false
 images:
 - /images/covers/darkthrone-goatlord.jpg
@@ -14,4 +14,4 @@ title: Darkthrone - Goatlord
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=49439&sort=pd.name&order=ASC) for $27.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=52209&sort=pd.name&order=ASC) for $27.00

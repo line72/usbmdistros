@@ -4,7 +4,7 @@ album: Unpure Desires of Diabolical Lust
 artist: Moonblood
 categories:
 - Vinyl
-date: '2024-05-03T05:13:48'
+date: '2024-07-18T05:22:32'
 draft: false
 images:
 - /images/covers/moonblood-unpure_desires_of_diabolical_lust.jpg
@@ -14,4 +14,4 @@ title: Moonblood - Unpure Desires of Diabolical Lust
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=47757&sort=pd.name&order=ASC) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=52279&sort=pd.name&order=ASC) for $30.00

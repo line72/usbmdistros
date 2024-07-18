@@ -4,7 +4,7 @@ album: Rehearsal 7 1996
 artist: Moonblood
 categories:
 - Vinyl
-date: '2024-07-09T13:41:20'
+date: '2024-07-18T05:22:32'
 draft: false
 images:
 - /images/covers/moonblood-rehearsal_7_1996.jpg
@@ -14,4 +14,4 @@ title: Moonblood - Rehearsal 7 1996
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=47754&sort=pd.name&order=ASC) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=52275&sort=pd.name&order=ASC) for $30.00

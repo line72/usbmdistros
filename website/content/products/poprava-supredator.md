@@ -1,10 +1,10 @@
 ---
-actualPrice: $7.00
+actualPrice: $7.00 - 10.00
 album: Supredator
 artist: Poprava
 categories:
 - CD
-date: '2024-05-03T05:15:21'
+date: '2024-07-09T13:44:34'
 draft: false
 images:
 - /images/covers/poprava-supredator.jpg
@@ -15,3 +15,4 @@ title: Poprava - Supredator
 
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=1478&sort=pd.name&order=ASC) for $7.00
+* Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/poprava-supredator-cd/) for $10.00

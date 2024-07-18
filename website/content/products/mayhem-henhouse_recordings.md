@@ -4,7 +4,7 @@ album: Henhouse Recordings
 artist: Mayhem
 categories:
 - Vinyl
-date: '2024-05-15T05:13:04'
+date: '2024-07-18T05:22:30'
 draft: false
 images:
 - /images/covers/mayhem-henhouse_recordings.jpg
@@ -14,4 +14,4 @@ title: Mayhem - Henhouse Recordings
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=49906&sort=pd.name&order=ASC) for $27.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=52214&sort=pd.name&order=ASC) for $27.00

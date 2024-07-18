@@ -4,7 +4,7 @@ album: The Evil Rules
 artist: Moonblood
 categories:
 - Vinyl
-date: '2024-05-03T05:13:48'
+date: '2024-07-18T05:22:32'
 draft: false
 images:
 - /images/covers/moonblood-the_evil_rules.jpg
@@ -14,4 +14,4 @@ title: Moonblood - The Evil Rules
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=47755&sort=pd.name&order=ASC) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=52276&sort=pd.name&order=ASC) for $30.00
