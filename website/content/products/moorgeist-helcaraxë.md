@@ -1,10 +1,11 @@
 ---
-actualPrice: $30.00
+actualPrice: $15.00 - 30.00
 album: "Helcarax\xEB"
 artist: Moorgeist
 categories:
 - Vinyl
-date: '2024-07-09T00:39:47'
+- CD
+date: '2024-07-19T05:24:24'
 draft: false
 images:
 - "/images/covers/moorgeist-helcarax\xEB.png"
@@ -15,3 +16,5 @@ title: "Moorgeist - Helcarax\xEB"
 
 ## Vinyl
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/moorgeist-helcaraxe-2xlp) for $30.00
+## CD
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=52335&sort=pd.name&order=ASC) for $15.00

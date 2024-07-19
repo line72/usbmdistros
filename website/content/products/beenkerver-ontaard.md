@@ -1,10 +1,11 @@
 ---
-actualPrice: $22.00
+actualPrice: $13.00 - 22.00
 album: Ontaard
 artist: Beenkerver
 categories:
 - Vinyl
-date: '2023-03-07T13:59:26'
+- CD
+date: '2024-07-19T05:35:40'
 draft: false
 images:
 - /images/covers/beenkerver-ontaard.png
@@ -15,3 +16,5 @@ title: Beenkerver - Ontaard
 
 ## Vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/beenkerver-ontaard-lp) for $22.00 :: Black 2023 press vinyl
+## CD
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/beenkerver-ontaard-cd) for $13.00 :: Digipak 2023

@@ -1,12 +1,12 @@
 ---
-actualPrice: $13.00
+actualPrice: $14.00
 album: "... \u0410 \u0421\u043C\u0435\u0440\u0442\u044C \u0412\u0432\u0456\u0439\u0448\
   \u043B\u0430 \u0423 \u0422\u0435\u0431\u0435 \u0412\u0436\u0435 \u0414\u0430\u0432\
   \u043D\u043E"
 artist: SVRM
 categories:
 - Vinyl
-date: '2024-07-09T13:55:43'
+date: '2024-07-19T05:35:40'
 draft: false
 images:
 - "/images/covers/svrm-..._\u0430_\u0441\u043C\u0435\u0440\u0442\u044C_\u0432\u0432\
@@ -22,4 +22,4 @@ title: "SVRM - ... \u0410 \u0421\u043C\u0435\u0440\u0442\u044C \u0412\u0432\u045
 ---
 
 ## Vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/svrm-2023-7) for $13.00 :: Black 2023 press vinyl
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/svrm-2023-7) for $14.00 :: Black 2023 press vinyl
