@@ -14,5 +14,4 @@ title: Departure Chandelier - Dripping Papal Blood
 ---
 
 ## Vinyl
-* Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/departure-chandelier-dripping-papal-blood-vinyl-lp-w-insert-etched) for $25.00 :: (w/insert, etched)
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=50110&sort=pd.name&order=ASC) for $25.00

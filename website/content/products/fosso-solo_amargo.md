@@ -1,5 +1,5 @@
 ---
-actualPrice: $10.00 - 11.99
+actualPrice: $10.00
 album: Solo Amargo
 artist: Fosso
 categories:
@@ -14,5 +14,4 @@ title: Fosso - Solo Amargo
 ---
 
 ## CD
-* Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/fosso-solo-amargo-cd-digipak) for $11.99 :: [digipak]
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=51960&sort=pd.name&order=ASC) for $10.00

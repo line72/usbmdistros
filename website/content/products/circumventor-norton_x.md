@@ -1,5 +1,5 @@
 ---
-actualPrice: $5.00 - 10.00
+actualPrice: $10.00
 album: Norton X
 artist: Circumventor
 categories:
@@ -15,4 +15,3 @@ title: Circumventor - Norton X
 
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=26713&sort=pd.name&order=ASC) for $10.00
-* Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/circumventor-norton-x-cd) for $5.00 :: (90s symphonic black metal obscurity)

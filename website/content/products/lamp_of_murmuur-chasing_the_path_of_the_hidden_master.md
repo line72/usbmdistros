@@ -1,5 +1,5 @@
 ---
-actualPrice: $30.00 - 31.00
+actualPrice: $31.00
 album: Chasing The Path Of The Hidden Master
 artist: Lamp of Murmuur
 categories:
@@ -14,5 +14,4 @@ title: Lamp of Murmuur - Chasing The Path Of The Hidden Master
 ---
 
 ## Vinyl
-* Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/lamp-of-murmuur-chasing-the-path-vinyl-lp) for $30.00 :: (color)
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/lamp-of-murmuur-chasing-the-path-of-the-hidden-master-12-lp) for $31.00

@@ -1,5 +1,5 @@
 ---
-actualPrice: $20.00 - 21.99
+actualPrice: $20.00
 album: Gharmelicht
 artist: Gharmelicht
 categories:
@@ -14,5 +14,4 @@ title: Gharmelicht - Gharmelicht
 ---
 
 ## Vinyl
-* Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/gharmelicht-gharmelicht-vinyl-lp-color) for $21.99 :: (color, lim. 250)
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=49815&sort=pd.name&order=ASC) for $20.00

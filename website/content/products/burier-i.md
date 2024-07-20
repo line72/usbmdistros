@@ -1,10 +1,10 @@
 ---
-actualPrice: $10.00 - 13.00
+actualPrice: $10.00
 album: I
 artist: Burier
 categories:
 - CD
-date: '2024-07-09T14:10:12'
+date: '2024-05-03T05:14:46'
 draft: false
 images:
 - /images/covers/burier-i.jpg
@@ -15,4 +15,3 @@ title: Burier - I
 
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=26973&sort=pd.name&order=ASC) for $10.00
-* Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/burier-i-cd) for $13.00
