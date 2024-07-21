@@ -5,8 +5,7 @@ artist: Grave Pilgrim
 categories:
 - Vinyl
 - Cassette
-- CD
-date: '2024-07-20T05:02:42'
+date: '2024-07-09T14:09:56'
 draft: false
 images:
 - /images/covers/grave_pilgrim-molten_hands_reach_west.jpg
@@ -19,5 +18,3 @@ title: Grave Pilgrim - Molten Hands Reach West
 * Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/grave-pilgrim-molten-hands-reach-west-vinyl-lp-color-w-insert-lim-218) for $30.00 :: (color, w/ insert, lim.218)
 ## Cassette
 * Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/grave-pilgrim-molten-hands-reach-west-cassette-tape) for $15.00
-## CD
-* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/grave-pilgrim-molten-hands-reach-west-cd) for $15.00

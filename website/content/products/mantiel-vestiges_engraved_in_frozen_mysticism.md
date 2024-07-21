@@ -1,10 +1,10 @@
 ---
-actualPrice: $16.00
+actualPrice: $30.00
 album: Vestiges Engraved in Frozen Mysticism
 artist: Mantiel
 categories:
-- CD
-date: '2024-07-09T00:40:42'
+- Vinyl
+date: '2022-12-12T06:00:20'
 draft: false
 images:
 - /images/covers/mantiel-vestiges_engraved_in_frozen_mysticism.jpg
@@ -13,5 +13,5 @@ thumbnailImage: /images/covers/mantiel-vestiges_engraved_in_frozen_mysticism-thu
 title: Mantiel - Vestiges Engraved in Frozen Mysticism
 ---
 
-## CD
-* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/mantiel-vestiges-engraved-in-frozen-mysticism-cd) for $16.00
+## Vinyl
+* Purchase from [Sto'Vo'Kor Records](https://stovokor-records.com/products/mantiel-vestiges-engraved-in-frozen-mysticism) for $30.00
