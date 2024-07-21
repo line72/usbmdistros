@@ -1,5 +1,5 @@
 ---
-actualPrice: $25.00
+actualPrice: $21.99 - 25.00
 album: Herranom
 artist: Nacht Und Gnosis
 categories:
@@ -15,3 +15,4 @@ title: Nacht Und Gnosis - Herranom
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=38860&sort=pd.name&order=ASC) for $25.00
+* Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/nacht-und-gnosis-herranom-vinyl-lp-color-poster) for $21.99 :: (color, poster)

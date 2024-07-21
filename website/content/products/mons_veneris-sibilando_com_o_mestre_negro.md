@@ -14,5 +14,4 @@ title: Mons Veneris - Sibilando com o Mestre Negro
 ---
 
 ## Cassette
-* Purchase from [Sto'Vo'Kor Records](https://stovokor-records.com/products/mons-veneris-sibilando-com-o-mestre-negro) for $10.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=51917&sort=pd.name&order=ASC) for $10.00

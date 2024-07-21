@@ -4,7 +4,7 @@ album: Dim Carcosa
 artist: Ancient Rites
 categories:
 - CD
-date: '2024-05-03T05:14:41'
+date: '2024-07-20T23:22:51'
 draft: false
 images:
 - /images/covers/ancient_rites-dim_carcosa.jpg
@@ -14,4 +14,4 @@ title: Ancient Rites - Dim Carcosa
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=42399&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=52365&sort=pd.name&order=ASC) for $12.00

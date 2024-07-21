@@ -1,10 +1,11 @@
 ---
-actualPrice: $13.00
+actualPrice: $13.00 - 30.00
 album: Saturnian Bloodstorm
 artist: Lamp of Murmuur
 categories:
+- Vinyl
 - CD
-date: '2024-07-09T00:40:39'
+date: '2024-07-09T14:09:57'
 draft: false
 images:
 - /images/covers/lamp_of_murmuur-saturnian_bloodstorm.jpg
@@ -13,5 +14,8 @@ thumbnailImage: /images/covers/lamp_of_murmuur-saturnian_bloodstorm-thumb.jpg
 title: Lamp of Murmuur - Saturnian Bloodstorm
 ---
 
+## Vinyl
+* Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/lamp-of-murmuur-saturnian-bloodstorm-vinyl-lp) for $30.00
 ## CD
+* Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/lamp-of-murmuur-saturnian-bloodstorm-cd) for $15.00
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/lamp-of-murmuur-saturnian-bloodstorm-cd) for $13.00

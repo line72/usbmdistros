@@ -15,7 +15,6 @@ title: Black Cilice - Mysteries
 ---
 
 ## Vinyl
-* Purchase from [Sto'Vo'Kor Records](https://stovokor-records.com/products/black-cilice-mysteries) for $20.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=48768&sort=pd.name&order=ASC) for $20.00
 ## CD
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/black-cilice-mysteries-cd) for $15.00

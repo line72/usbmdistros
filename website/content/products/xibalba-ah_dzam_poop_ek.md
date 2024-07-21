@@ -1,10 +1,11 @@
 ---
-actualPrice: $15.00
+actualPrice: $9.99 - 16.00
 album: Ah Dzam Poop Ek
 artist: Xibalba
 categories:
+- Cassette
 - CD
-date: '2024-06-26T05:16:40'
+date: '2024-07-09T14:10:22'
 draft: false
 images:
 - /images/covers/xibalba-ah_dzam_poop_ek.jpg
@@ -13,5 +14,8 @@ thumbnailImage: /images/covers/xibalba-ah_dzam_poop_ek-thumb.jpg
 title: Xibalba - Ah Dzam Poop Ek
 ---
 
+## Cassette
+* Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/xibalba-ah-dzam-poop-ek-cassette-tape) for $9.99
 ## CD
+* Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/xibalba-ah-dzam-poop-ek-2xcd-jewel-case) for $16.00 :: (2xcd jewel case w/ slipcase)
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=51542&sort=pd.name&order=ASC) for $15.00
