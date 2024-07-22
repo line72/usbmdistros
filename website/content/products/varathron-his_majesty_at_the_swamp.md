@@ -5,7 +5,7 @@ artist: Varathron
 categories:
 - Cassette
 - CD
-date: '2024-07-18T05:24:53'
+date: '2024-07-22T05:32:11'
 draft: false
 images:
 - /images/covers/varathron-his_majesty_at_the_swamp.jpg
@@ -19,4 +19,4 @@ title: Varathron - His Majesty at the Swamp
 ## CD
 * Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/varathron-his-majesty-at-the-swamp-cd-hardcover-digibook-lim-999) for $15.00 :: [hardcover digibook, lim.999]
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=52240&sort=pd.name&order=ASC) for $15.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=52241&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=52430&sort=pd.name&order=ASC) for $15.00

@@ -6,7 +6,7 @@ categories:
 - Vinyl
 - Cassette
 - CD
-date: '2024-05-03T05:15:48'
+date: '2024-07-22T05:29:39'
 draft: false
 images:
 - /images/covers/erzfeynd-muspilli.jpg
@@ -16,8 +16,8 @@ title: Erzfeynd - Muspilli
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29889&sort=pd.name&order=ASC) for $27.00
 * Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/erzfeynd-muspilli-vinyl-lp-color-lim-418-or-black-lim-108) for $25.00 :: (color, lim.418, 180g w/ booklet)
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=52384&sort=pd.name&order=ASC) for $27.00
 ## Cassette
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=33377&sort=pd.name&order=ASC) for $15.00
 ## CD

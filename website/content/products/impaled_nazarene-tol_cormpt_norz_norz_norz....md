@@ -5,7 +5,7 @@ artist: Impaled Nazarene
 categories:
 - Vinyl
 - CD
-date: '2024-06-10T05:14:59'
+date: '2024-07-22T05:29:55'
 draft: false
 images:
 - /images/covers/impaled_nazarene-tol_cormpt_norz_norz_norz....jpg
@@ -15,6 +15,6 @@ title: Impaled Nazarene - Tol Cormpt Norz Norz Norz...
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=51029&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=52466&sort=pd.name&order=ASC) for $25.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=49027&sort=pd.name&order=ASC) for $15.00

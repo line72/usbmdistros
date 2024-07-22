@@ -5,7 +5,7 @@ artist: Absu
 categories:
 - Vinyl
 - CD
-date: '2024-07-18T05:21:45'
+date: '2024-07-22T05:29:06'
 draft: false
 images:
 - /images/covers/absu-barathrum:_v.i.t.r.i.o.l..jpg
@@ -15,6 +15,6 @@ title: 'Absu - Barathrum: V.I.T.R.I.O.L.'
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=52284&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=52451&sort=pd.name&order=ASC) for $25.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=46228&sort=pd.name&order=ASC) for $15.00

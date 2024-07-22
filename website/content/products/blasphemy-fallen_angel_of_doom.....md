@@ -4,7 +4,7 @@ album: Fallen Angel of Doom....
 artist: Blasphemy
 categories:
 - Vinyl
-date: '2024-05-03T05:13:12'
+date: '2024-07-22T05:29:21'
 draft: false
 images:
 - /images/covers/blasphemy-fallen_angel_of_doom.....jpg
@@ -14,4 +14,4 @@ title: Blasphemy - Fallen Angel of Doom....
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=48015&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=52373&sort=pd.name&order=ASC) for $25.00

@@ -4,7 +4,7 @@ album: Exterminate
 artist: Angelcorpse
 categories:
 - Vinyl
-date: '2024-05-31T05:12:26'
+date: '2024-07-22T05:29:14'
 draft: false
 images:
 - /images/covers/angelcorpse-exterminate.jpg
@@ -14,4 +14,4 @@ title: Angelcorpse - Exterminate
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=50674&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=52463&sort=pd.name&order=ASC) for $25.00

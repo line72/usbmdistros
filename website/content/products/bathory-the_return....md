@@ -4,7 +4,7 @@ album: The Return...
 artist: Bathory
 categories:
 - Vinyl
-date: '2024-06-10T05:14:28'
+date: '2024-07-22T05:29:18'
 draft: false
 images:
 - /images/covers/bathory-the_return....jpg
@@ -14,4 +14,4 @@ title: Bathory - The Return...
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=51017&sort=pd.name&order=ASC) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=52383&sort=pd.name&order=ASC) for $30.00

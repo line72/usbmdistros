@@ -4,7 +4,7 @@ album: Satanic Rites
 artist: Hellhammer
 categories:
 - Vinyl
-date: '2024-07-11T05:22:40'
+date: '2024-07-22T05:29:51'
 draft: false
 images:
 - /images/covers/hellhammer-satanic_rites.png
@@ -14,4 +14,4 @@ title: Hellhammer - Satanic Rites
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=51927&sort=pd.name&order=ASC) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=52426&sort=pd.name&order=ASC) for $30.00

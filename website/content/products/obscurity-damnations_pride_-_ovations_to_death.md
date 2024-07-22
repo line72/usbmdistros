@@ -4,7 +4,7 @@ album: Damnations Pride / Ovations to Death
 artist: Obscurity
 categories:
 - CD
-date: '2024-05-03T05:15:18'
+date: '2024-07-22T05:31:51'
 draft: false
 images:
 - /images/covers/obscurity-damnations_pride_-_ovations_to_death.png
@@ -14,4 +14,4 @@ title: Obscurity - Damnations Pride / Ovations to Death
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=49643&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=52413&sort=pd.name&order=ASC) for $12.00

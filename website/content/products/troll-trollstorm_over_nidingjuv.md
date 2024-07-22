@@ -5,7 +5,7 @@ artist: Troll
 categories:
 - Vinyl
 - CD
-date: '2024-05-21T05:16:23'
+date: '2024-07-22T05:30:45'
 draft: false
 images:
 - /images/covers/troll-trollstorm_over_nidingjuv.png
@@ -15,7 +15,7 @@ title: Troll - Trollstorm Over Nidingjuv
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=50223&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=52400&sort=pd.name&order=ASC) for $25.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=15275&sort=pd.name&order=ASC) for $15.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=50222&sort=pd.name&order=ASC) for $15.00
