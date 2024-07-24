@@ -4,7 +4,7 @@ album: In Pursuit of Forbidden Knowledge
 artist: Gate Master
 categories:
 - Vinyl
-date: '2024-05-03T05:13:28'
+date: '2024-07-24T05:22:09'
 draft: false
 images:
 - /images/covers/gate_master-in_pursuit_of_forbidden_knowledge.jpg
@@ -14,4 +14,4 @@ title: Gate Master - In Pursuit of Forbidden Knowledge
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=49381&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=52535&sort=pd.name&order=ASC) for $25.00
