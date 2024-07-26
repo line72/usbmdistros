@@ -1,5 +1,5 @@
 ---
-actualPrice: $19.98 - 25.00
+actualPrice: $19.98
 album: "Ob\xE2r\u0219ie"
 artist: Sur Austru
 categories:
@@ -14,5 +14,4 @@ title: "Sur Austru - Ob\xE2r\u0219ie"
 ---
 
 ## Vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/sur-austru-obarșie-2xlp) for $25.00 :: Merge 2021 press vinyl
 * Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/blemish-sur-austru-obarșie-2lp-color-in-color-vinyl-dlp) for $19.98 :: 2lp color in color vinyl dlp

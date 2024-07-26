@@ -1,9 +1,8 @@
 ---
-actualPrice: $11.99 - 27.00
+actualPrice: $11.99
 album: The Eternal Fanfare
 artist: Hulder
 categories:
-- Vinyl
 - CD
 date: '2024-07-09T14:10:05'
 draft: false
@@ -14,8 +13,5 @@ thumbnailImage: /images/covers/hulder-the_eternal_fanfare-thumb.jpg
 title: Hulder - The Eternal Fanfare
 ---
 
-## Vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/hulder-the-eternal-fanfare-lp-1) for $26.00 :: Black 2022 press vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/hulder-the-eternal-fanfare-lp-1) for $27.00 :: Color 2022 press vinyl
 ## CD
 * Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/hulder-the-eternal-fanfare-cd) for $11.99

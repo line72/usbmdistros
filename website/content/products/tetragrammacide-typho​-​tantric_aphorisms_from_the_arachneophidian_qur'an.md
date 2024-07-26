@@ -4,7 +4,7 @@ album: "Typho\u200B-\u200BTantric Aphorisms From The Arachneophidian Qur'an"
 artist: Tetragrammacide
 categories:
 - Vinyl
-date: '2024-05-15T05:13:29'
+date: '2024-07-26T05:23:12'
 draft: false
 images:
 - "/images/covers/tetragrammacide-typho\u200B-\u200Btantric_aphorisms_from_the_arachneophidian_qur'an.png"
@@ -15,4 +15,4 @@ title: "Tetragrammacide - Typho\u200B-\u200BTantric Aphorisms From The Arachneop
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=49996&sort=pd.name&order=ASC) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=52606&sort=pd.name&order=ASC) for $30.00

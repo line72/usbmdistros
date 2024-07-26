@@ -1,5 +1,5 @@
 ---
-actualPrice: $26.99 - 29.00
+actualPrice: $26.99
 album: The Necrotrophic Abyss
 artist: Snorlax
 categories:
@@ -14,5 +14,4 @@ title: Snorlax - The Necrotrophic Abyss
 ---
 
 ## Vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/snorlax-the-necrotrophic-abyss-lp) for $29.00 :: Color 2023 press vinyl
 * Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/snorlax-the-necrotrophic-abyss-trans-blue-vinyl-lp) for $26.99 :: trans. blue vinyl lp

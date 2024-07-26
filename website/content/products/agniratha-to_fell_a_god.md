@@ -1,5 +1,5 @@
 ---
-actualPrice: $5.99 - 8.00
+actualPrice: $5.99
 album: To Fell A God
 artist: Agniratha
 categories:
@@ -14,5 +14,4 @@ title: Agniratha - To Fell A God
 ---
 
 ## Cassette
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/agniratha-to-fell-a-god-cassette) for $8.00 :: Cassette 2021
 * Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/agniratha-to-fell-a-god-cassette-tape-lim-50) for $5.99

@@ -4,7 +4,7 @@ album: 9 X
 artist: Necromantia
 categories:
 - Vinyl
-date: '2024-07-09T13:41:23'
+date: '2024-07-26T05:22:52'
 draft: false
 images:
 - /images/covers/necromantia-9_x.jpg
@@ -14,4 +14,4 @@ title: Necromantia - 9 X
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=50998&sort=pd.name&order=ASC) for $280.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=52604&sort=pd.name&order=ASC) for $280.00

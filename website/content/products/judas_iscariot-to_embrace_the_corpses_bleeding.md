@@ -4,7 +4,7 @@ album: To Embrace The Corpses Bleeding
 artist: Judas Iscariot
 categories:
 - Vinyl
-date: '2024-07-22T05:29:58'
+date: '2024-07-26T05:22:38'
 draft: false
 images:
 - /images/covers/judas_iscariot-to_embrace_the_corpses_bleeding.jpg
@@ -14,5 +14,5 @@ title: Judas Iscariot - To Embrace The Corpses Bleeding
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=51714&sort=pd.name&order=ASC) for $40.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=52469&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=52581&sort=pd.name&order=ASC) for $40.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=52582&sort=pd.name&order=ASC) for $25.00
