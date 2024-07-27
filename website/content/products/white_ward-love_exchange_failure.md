@@ -15,7 +15,6 @@ title: White Ward - Love Exchange Failure
 ---
 
 ## Vinyl
-* Purchase from [Debemur Morti](https://debemurmorti.aisamerch.com/item/134801) for $31.99
 * Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/white-ward-love-exchange-failure-gatefold-2x12-splatter-lp-1) for $34.99 :: love exchange failure - gatefold 2x12" splatter lp
 ## CD
 * Purchase from [Debemur Morti](https://debemurmorti.aisamerch.com/item/75497) for $10.99

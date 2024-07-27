@@ -1,10 +1,11 @@
 ---
-actualPrice: $28.00
+actualPrice: $15.00 - 28.00
 album: Four Fatal Amulets
 artist: Ifernach
 categories:
 - Vinyl
-date: '2024-06-10T05:14:58'
+- CD
+date: '2024-07-09T13:55:57'
 draft: false
 images:
 - /images/covers/ifernach-four_fatal_amulets.jpg
@@ -15,3 +16,5 @@ title: Ifernach - Four Fatal Amulets
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=51116&sort=pd.name&order=ASC) for $28.00
+## CD
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/used-ifernach-four-fatal-amulets-cd) for $15.00 :: Digipak 2021
