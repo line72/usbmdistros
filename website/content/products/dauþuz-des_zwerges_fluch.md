@@ -4,7 +4,7 @@ album: Des Zwerges Fluch
 artist: "Dau\xFEuz"
 categories:
 - Vinyl
-date: '2024-07-09T13:40:51'
+date: '2024-07-28T05:23:24'
 draft: false
 images:
 - "/images/covers/dau\xFEuz-des_zwerges_fluch.jpg"
@@ -14,4 +14,4 @@ title: "Dau\xFEuz - Des Zwerges Fluch"
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=51592&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=52628&sort=pd.name&order=ASC) for $25.00

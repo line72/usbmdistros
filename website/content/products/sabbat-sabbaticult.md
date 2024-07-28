@@ -22,4 +22,3 @@ title: Sabbat - Sabbaticult
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=52560&sort=pd.name&order=ASC) for $12.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=52555&sort=pd.name&order=ASC) for $15.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=52556&sort=pd.name&order=ASC) for $15.00
