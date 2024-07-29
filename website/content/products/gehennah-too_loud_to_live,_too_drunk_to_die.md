@@ -4,7 +4,7 @@ album: Too Loud to Live, Too Drunk to Die
 artist: Gehennah
 categories:
 - Cassette
-date: '2024-05-03T05:15:50'
+date: '2024-07-29T05:33:47'
 draft: false
 images:
 - /images/covers/gehennah-too_loud_to_live,_too_drunk_to_die.png
@@ -14,4 +14,4 @@ title: Gehennah - Too Loud to Live, Too Drunk to Die
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=48606&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=52640&sort=pd.name&order=ASC) for $12.00

@@ -4,7 +4,7 @@ album: Pest
 artist: Pest
 categories:
 - Vinyl
-date: '2024-07-19T05:23:11'
+date: '2024-07-29T05:31:26'
 draft: false
 images:
 - /images/covers/pest-pest.jpg
@@ -14,4 +14,4 @@ title: Pest - Pest
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=52295&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=52656&sort=pd.name&order=ASC) for $25.00

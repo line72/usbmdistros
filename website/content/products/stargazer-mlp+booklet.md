@@ -4,7 +4,7 @@ album: Mlp+Booklet
 artist: StarGazer
 categories:
 - Vinyl
-date: '2024-07-09T13:41:40'
+date: '2024-07-29T05:31:38'
 draft: false
 images:
 - /images/covers/stargazer-mlp+booklet.png
@@ -14,4 +14,4 @@ title: StarGazer - Mlp+Booklet
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=48279&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=52711&sort=pd.name&order=ASC) for $25.00

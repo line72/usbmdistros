@@ -4,7 +4,7 @@ album: Galgenberg
 artist: Galgenberg
 categories:
 - Vinyl
-date: '2024-05-30T05:12:50'
+date: '2024-07-29T05:30:51'
 draft: false
 images:
 - /images/covers/galgenberg-galgenberg.jpg
@@ -14,4 +14,4 @@ title: Galgenberg - Galgenberg
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=50626&sort=pd.name&order=ASC) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=52684&sort=pd.name&order=ASC) for $30.00

@@ -4,7 +4,7 @@ album: Christian Masquerade / Megiddo Eve
 artist: Kohort
 categories:
 - CD
-date: '2024-06-16T05:15:52'
+date: '2024-07-29T05:32:53'
 draft: false
 images:
 - /images/covers/kohort-christian_masquerade_-_megiddo_eve.jpg
@@ -14,4 +14,4 @@ title: Kohort - Christian Masquerade / Megiddo Eve
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=51317&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=52714&sort=pd.name&order=ASC) for $12.00

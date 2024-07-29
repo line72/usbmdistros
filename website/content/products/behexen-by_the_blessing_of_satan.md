@@ -15,4 +15,3 @@ title: Behexen - By The Blessing Of Satan
 
 ## CD
 * Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/behexen-by-the-blessing-of-satan-cd/) for $12.00
-* Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/behexen-by-the-blessing-of-satan-digipak-cd/) for $12.00
