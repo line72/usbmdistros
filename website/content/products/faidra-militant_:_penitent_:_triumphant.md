@@ -1,12 +1,12 @@
 ---
-actualPrice: $15.00 - 34.00
+actualPrice: $14.99 - 34.00
 album: 'Militant : Penitent : Triumphant'
 artist: Faidra
 categories:
 - Vinyl
 - Cassette
 - CD
-date: '2024-07-09T14:09:45'
+date: '2024-07-30T05:51:07'
 draft: false
 images:
 - /images/covers/faidra-militant_:_penitent_:_triumphant.jpg
@@ -23,4 +23,4 @@ title: 'Faidra - Militant : Penitent : Triumphant'
 ## Cassette
 * Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/faidra-militant-penitent-triumphant-cassette-tape) for $15.00
 ## CD
-* Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/faidra-militant-penitent-triumphant-cd-digipak-lim999) for $15.00 :: (digipak, lim.999)
+* Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/faidra-militant-penitent-triumphant-cd-digipak-lim999) for $14.99 :: (digipak, lim.999)
