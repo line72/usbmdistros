@@ -4,7 +4,7 @@ album: Demo
 artist: Torturers' Lobby
 categories:
 - Cassette
-date: '2024-07-15T05:31:50'
+date: '2024-07-31T05:25:38'
 draft: false
 images:
 - /images/covers/torturers'_lobby-demo.jpg
@@ -14,4 +14,4 @@ title: Torturers' Lobby - Demo
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=52052&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=52788&sort=pd.name&order=ASC) for $12.00

@@ -5,7 +5,7 @@ artist: Altar of Gore
 categories:
 - Vinyl
 - CD
-date: '2024-05-03T05:14:41'
+date: '2024-07-31T05:24:02'
 draft: false
 images:
 - /images/covers/altar_of_gore-obscure_&_obscene_gods.jpg
@@ -15,6 +15,6 @@ title: Altar of Gore - Obscure & Obscene Gods
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=39057&sort=pd.name&order=ASC) for $22.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=52764&sort=pd.name&order=ASC) for $22.00
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=41481&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=52763&sort=pd.name&order=ASC) for $12.00
