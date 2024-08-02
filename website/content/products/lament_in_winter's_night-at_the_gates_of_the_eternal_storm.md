@@ -4,7 +4,7 @@ album: At the Gates of the Eternal Storm
 artist: Lament in Winter's Night
 categories:
 - Vinyl
-date: '2024-05-03T05:13:41'
+date: '2024-08-02T05:23:21'
 draft: false
 images:
 - /images/covers/lament_in_winter's_night-at_the_gates_of_the_eternal_storm.jpg
@@ -14,4 +14,4 @@ title: Lament in Winter's Night - At the Gates of the Eternal Storm
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=32133&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=52922&sort=pd.name&order=ASC) for $25.00

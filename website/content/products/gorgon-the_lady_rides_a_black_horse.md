@@ -4,7 +4,7 @@ album: The Lady Rides a Black Horse
 artist: Gorgon
 categories:
 - Vinyl
-date: '2024-06-10T05:14:51'
+date: '2024-08-02T05:23:09'
 draft: false
 images:
 - /images/covers/gorgon-the_lady_rides_a_black_horse.jpg
@@ -14,4 +14,4 @@ title: Gorgon - The Lady Rides a Black Horse
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=51015&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=52919&sort=pd.name&order=ASC) for $25.00

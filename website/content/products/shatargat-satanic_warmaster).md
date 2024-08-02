@@ -4,7 +4,7 @@ album: Satanic Warmaster)
 artist: Shatargat
 categories:
 - Vinyl
-date: '2024-07-09T13:41:37'
+date: '2024-08-02T05:23:49'
 draft: false
 images:
 - /images/covers/shatargat-satanic_warmaster).png
@@ -14,4 +14,4 @@ title: Shatargat - Satanic Warmaster)
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=50829&sort=pd.name&order=ASC) for $27.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=52914&sort=pd.name&order=ASC) for $27.00

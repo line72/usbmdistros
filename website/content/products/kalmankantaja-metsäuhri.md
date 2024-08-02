@@ -6,7 +6,7 @@ categories:
 - Vinyl
 - Cassette
 - CD
-date: '2024-06-08T05:17:03'
+date: '2024-08-02T05:23:19'
 draft: false
 images:
 - "/images/covers/kalmankantaja-mets\xE4uhri.png"
@@ -16,7 +16,7 @@ title: "Kalmankantaja - Mets\xE4uhri"
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=50890&sort=pd.name&order=ASC) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=52874&sort=pd.name&order=ASC) for $30.00
 ## Cassette
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=50906&sort=pd.name&order=ASC) for $15.00
 ## CD

@@ -15,7 +15,6 @@ title: "M\xFCtiilation - Vampires Of Black Imperial Blood"
 ---
 
 ## Vinyl
-* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/mutiilation-vampires-of-black-imperial-blood-2xlp) for $30.00
 * Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/mutiilation-vampires-of-black-imperial-blood-vinyl-2xlp-double-lp-color-gatefold) for $38.00 :: (double lp color, gatefold)
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=52447&sort=pd.name&order=ASC) for $30.00
 ## CD

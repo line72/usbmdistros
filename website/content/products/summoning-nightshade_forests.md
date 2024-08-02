@@ -15,7 +15,6 @@ title: Summoning - Nightshade Forests
 ---
 
 ## Vinyl
-* Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/summoning-nightshade-forests-vinyl-lp) for $25.00 :: (color, gatefold)
 * Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/summoning-nightshade-forests-vinyl-lp-gatefold) for $38.00 :: (gatefold)
 ## CD
 * Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/summoning-nightshade-forests-cd) for $11.00

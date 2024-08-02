@@ -4,7 +4,7 @@ album: A Death Gate Cycle
 artist: Heidenreich
 categories:
 - Vinyl
-date: '2024-06-10T05:14:55'
+date: '2024-08-02T05:23:13'
 draft: false
 images:
 - /images/covers/heidenreich-a_death_gate_cycle.jpg
@@ -14,4 +14,4 @@ title: Heidenreich - A Death Gate Cycle
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=51128&sort=pd.name&order=ASC) for $28.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=52877&sort=pd.name&order=ASC) for $28.00

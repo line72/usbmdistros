@@ -4,7 +4,7 @@ album: Vua Quang Trung - Demo IV
 artist: Vothana
 categories:
 - Vinyl
-date: '2024-06-10T05:15:46'
+date: '2024-08-02T05:24:04'
 draft: false
 images:
 - /images/covers/vothana-vua_quang_trung_-_demo_iv.png
@@ -14,4 +14,4 @@ title: Vothana - Vua Quang Trung - Demo IV
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=51032&sort=pd.name&order=ASC) for $45.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=52857&sort=pd.name&order=ASC) for $45.00

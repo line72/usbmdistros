@@ -4,7 +4,7 @@ album: Infiltration Downfall Death
 artist: Revenge
 categories:
 - Vinyl
-date: '2024-05-31T05:13:25'
+date: '2024-08-02T05:23:43'
 draft: false
 images:
 - /images/covers/revenge-infiltration_downfall_death.jpg
@@ -14,4 +14,4 @@ title: Revenge - Infiltration Downfall Death
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=50680&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=52907&sort=pd.name&order=ASC) for $25.00

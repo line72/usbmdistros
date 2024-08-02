@@ -5,7 +5,7 @@ artist: Kalmankantaja
 categories:
 - Vinyl
 - CD
-date: '2024-06-08T05:16:13'
+date: '2024-08-02T05:23:19'
 draft: false
 images:
 - /images/covers/kalmankantaja-viimeinen_virsi_ii.png
@@ -15,6 +15,6 @@ title: Kalmankantaja - Viimeinen Virsi II
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=50897&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=52875&sort=pd.name&order=ASC) for $25.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=50896&sort=pd.name&order=ASC) for $12.00

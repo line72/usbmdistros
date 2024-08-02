@@ -4,7 +4,7 @@ album: "Tr\xF2 Ch\u01A1i K\u1EBFt Th\xFAc / Game Over"
 artist: Vothana
 categories:
 - Vinyl
-date: '2024-06-10T05:15:46'
+date: '2024-08-02T05:24:04'
 draft: false
 images:
 - "/images/covers/vothana-tr\xF2_ch\u01A1i_k\u1EBFt_th\xFAc_-_game_over.png"
@@ -14,4 +14,4 @@ title: "Vothana - Tr\xF2 Ch\u01A1i K\u1EBFt Th\xFAc / Game Over"
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=51031&sort=pd.name&order=ASC) for $45.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=52856&sort=pd.name&order=ASC) for $45.00

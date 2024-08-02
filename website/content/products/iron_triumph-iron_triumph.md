@@ -5,7 +5,7 @@ artist: Iron Triumph
 categories:
 - Vinyl
 - CD
-date: '2024-05-31T05:14:32'
+date: '2024-08-02T05:23:18'
 draft: false
 images:
 - /images/covers/iron_triumph-iron_triumph.png
@@ -15,6 +15,6 @@ title: Iron Triumph - Iron Triumph
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=50642&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=52961&sort=pd.name&order=ASC) for $25.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=50643&sort=pd.name&order=ASC) for $12.00
