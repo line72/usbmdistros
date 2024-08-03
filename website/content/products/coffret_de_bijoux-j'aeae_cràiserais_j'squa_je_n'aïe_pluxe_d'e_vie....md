@@ -4,7 +4,7 @@ album: "J'aeae Cr\xE0iserais J'squa Je N'a\xEFe Pluxe d'E Vie..."
 artist: Coffret de Bijoux
 categories:
 - Vinyl
-date: '2024-07-20T23:46:15'
+date: '2024-08-03T05:47:54'
 draft: false
 images:
 - "/images/covers/coffret_de_bijoux-j'aeae_cr\xE0iserais_j'squa_je_n'a\xEFe_pluxe_d'e_vie....jpg"
@@ -15,4 +15,4 @@ title: "Coffret de Bijoux - J'aeae Cr\xE0iserais J'squa Je N'a\xEFe Pluxe d'E Vi
 ---
 
 ## Vinyl
-* Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/coffret-de-bijoux-jaeae-craiserais-jsqua-je-naie-pluxe-de-vie-lp-2-color-options-180g-shipping-by-end-july-copy) for $33.00 :: (2 color options, 180g) *shipping by end july* (copy)
+* Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/coffret-de-bijoux-jaeae-craiserais-jsqua-je-naie-pluxe-de-vie-lp-2-color-options-180g-shipping-by-end-july-copy) for $33.00 :: (2 color options, 180g)

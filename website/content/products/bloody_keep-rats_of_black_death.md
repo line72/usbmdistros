@@ -4,7 +4,7 @@ album: Rats Of Black Death
 artist: Bloody Keep
 categories:
 - Vinyl
-date: '2024-07-09T14:09:41'
+date: '2024-08-03T05:47:55'
 draft: false
 images:
 - /images/covers/bloody_keep-rats_of_black_death.jpg
@@ -14,4 +14,4 @@ title: Bloody Keep - Rats Of Black Death
 ---
 
 ## Vinyl
-* Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/bloody-keep-rats-of-black-death-vinyl-lp-3-color-options-180g) for $30.00 :: (4 color options, 180g) *shipping by end july*
+* Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/bloody-keep-rats-of-black-death-vinyl-lp-3-color-options-180g) for $30.00 :: (4 color options, 180g)

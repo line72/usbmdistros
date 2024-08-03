@@ -1,5 +1,5 @@
 ---
-actualPrice: $35.00 - 40.00
+actualPrice: $35.00
 album: Aquelarre
 artist: Hadez
 categories:
@@ -14,5 +14,4 @@ title: Hadez - Aquelarre
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=52934&sort=pd.name&order=ASC) for $40.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=52935&sort=pd.name&order=ASC) for $35.00
