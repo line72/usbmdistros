@@ -4,7 +4,7 @@ album: Demo
 artist: Ritus
 categories:
 - Cassette
-date: '2024-07-09T13:43:19'
+date: '2024-08-04T05:25:29'
 draft: false
 images:
 - /images/covers/ritus-demo.png
@@ -14,4 +14,4 @@ title: Ritus - Demo
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=40761&sort=pd.name&order=ASC) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=53170&sort=pd.name&order=ASC) for $10.00

@@ -4,7 +4,7 @@ album: Jesus Coward
 artist: Goatpenis
 categories:
 - CD
-date: '2024-05-03T05:14:57'
+date: '2024-08-04T05:24:14'
 draft: false
 images:
 - /images/covers/goatpenis-jesus_coward.jpg
@@ -14,4 +14,4 @@ title: Goatpenis - Jesus Coward
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=45038&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=53254&sort=pd.name&order=ASC) for $12.00

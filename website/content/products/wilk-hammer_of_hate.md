@@ -4,7 +4,7 @@ album: Hammer of Hate
 artist: Wilk
 categories:
 - Cassette
-date: '2024-05-03T05:16:13'
+date: '2024-08-04T05:25:39'
 draft: false
 images:
 - /images/covers/wilk-hammer_of_hate.png
@@ -14,4 +14,4 @@ title: Wilk - Hammer of Hate
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=41358&sort=pd.name&order=ASC) for $8.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=53138&sort=pd.name&order=ASC) for $8.00

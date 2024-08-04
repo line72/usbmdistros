@@ -4,7 +4,7 @@ album: Demo
 artist: Geyst
 categories:
 - Cassette
-date: '2024-07-09T13:43:13'
+date: '2024-08-04T05:25:15'
 draft: false
 images:
 - /images/covers/geyst-demo.png
@@ -14,4 +14,4 @@ title: Geyst - Demo
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=40767&sort=pd.name&order=ASC) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=53167&sort=pd.name&order=ASC) for $10.00

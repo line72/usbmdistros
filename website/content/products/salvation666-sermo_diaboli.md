@@ -4,7 +4,7 @@ album: Sermo Diaboli
 artist: Salvation666
 categories:
 - Cassette
-date: '2024-05-03T05:16:04'
+date: '2024-08-04T05:25:30'
 draft: false
 images:
 - /images/covers/salvation666-sermo_diaboli.jpg
@@ -14,4 +14,4 @@ title: Salvation666 - Sermo Diaboli
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=40754&sort=pd.name&order=ASC) for $8.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=53155&sort=pd.name&order=ASC) for $8.00
