@@ -6,7 +6,7 @@ categories:
 - Vinyl
 - Cassette
 - CD
-date: '2024-03-21T05:23:59'
+date: '2024-08-05T05:44:35'
 draft: false
 images:
 - "/images/covers/ildsk\xE6r-blod_&_jern.jpg"
@@ -20,4 +20,4 @@ title: "Ildsk\xE6r - Blod & Jern"
 ## Cassette
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/used-ildskaer-blod-jern-cassette) for $8.00 :: Black Shell 2023
 ## CD
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/ildskaer-blod-jern-cd) for $13.00 :: CD 2023
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/ildskaer-blod-jern-cd-1) for $13.00 :: CD 2023

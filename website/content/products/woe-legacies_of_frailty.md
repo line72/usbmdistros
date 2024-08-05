@@ -6,7 +6,7 @@ categories:
 - Vinyl
 - Cassette
 - CD
-date: '2024-07-06T05:22:42'
+date: '2024-08-05T05:44:35'
 draft: false
 images:
 - /images/covers/woe-legacies_of_frailty.jpg
@@ -21,4 +21,4 @@ title: Woe - Legacies Of Frailty
 ## Cassette
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/woe-legacies-of-frailty-cassette-1) for $12.00 :: Cassette 2023
 ## CD
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/woe-legacies-of-frailty-cd) for $13.00 :: CD 2023
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/woe-legacies-of-frailty-cd-1) for $13.00 :: CD 2023

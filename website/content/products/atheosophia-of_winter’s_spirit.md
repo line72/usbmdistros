@@ -1,10 +1,11 @@
 ---
-actualPrice: $12.00
+actualPrice: $12.00 - 33.00
 album: "Of Winter\u2019S Spirit"
 artist: Atheosophia
 categories:
+- Vinyl
 - CD
-date: '2024-07-09T13:57:24'
+date: '2024-08-05T05:47:51'
 draft: false
 images:
 - "/images/covers/atheosophia-of_winter\u2019s_spirit.jpg"
@@ -13,5 +14,7 @@ thumbnailImage: "/images/covers/atheosophia-of_winter\u2019s_spirit-thumb.jpg"
 title: "Atheosophia - Of Winter\u2019S Spirit"
 ---
 
+## Vinyl
+* Purchase from [CW Productions](https://shop.cwproductions.net/products/atheosophia-shadowgate-of-winter-s-spirit-lp) for $33.00
 ## CD
 * Purchase from [CW Productions](https://shop.cwproductions.net/products/atheosophia-shadowgate-of-winter-s-spirit-cd-1) for $12.00

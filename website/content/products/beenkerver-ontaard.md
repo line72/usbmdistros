@@ -5,7 +5,7 @@ artist: Beenkerver
 categories:
 - Vinyl
 - CD
-date: '2024-07-19T05:35:40'
+date: '2024-08-05T05:44:35'
 draft: false
 images:
 - /images/covers/beenkerver-ontaard.png
@@ -17,4 +17,4 @@ title: Beenkerver - Ontaard
 ## Vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/beenkerver-ontaard-lp) for $22.00 :: Black 2023 press vinyl
 ## CD
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/beenkerver-ontaard-cd) for $13.00 :: Digipak 2023
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/beenkerver-ontaard-cd-1) for $13.00 :: Digipak 2023

@@ -6,7 +6,7 @@ album: "... \u0410 \u0421\u043C\u0435\u0440\u0442\u044C \u0412\u0432\u0456\u0439
 artist: SVRM
 categories:
 - Vinyl
-date: '2024-07-19T05:35:40'
+date: '2024-08-05T05:44:35'
 draft: false
 images:
 - "/images/covers/svrm-..._\u0430_\u0441\u043C\u0435\u0440\u0442\u044C_\u0432\u0432\
@@ -22,4 +22,4 @@ title: "SVRM - ... \u0410 \u0421\u043C\u0435\u0440\u0442\u044C \u0412\u0432\u045
 ---
 
 ## Vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/svrm-2023-7) for $14.00 :: Black 2023 press vinyl
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/svrm-а-смерть-ввійшла-у-тебе-вже-давно-7) for $14.00 :: Black 2023 press vinyl

@@ -6,7 +6,7 @@ categories:
 - Vinyl
 - Cassette
 - CD
-date: '2024-07-19T05:35:40'
+date: '2024-08-05T05:44:35'
 draft: false
 images:
 - /images/covers/beenkerver-de_rode_weduwe.jpg
@@ -20,4 +20,4 @@ title: Beenkerver - De Rode Weduwe
 ## Cassette
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/beenkerver-de-rode-weduwe-cassette) for $12.00 :: Cassette 2024
 ## CD
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/beenkerver-de-rode-weduwe-cd) for $13.00 :: Digipak 2024
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/beenkerver-de-rode-weduwe-cd-1) for $13.00 :: Digipak 2024
