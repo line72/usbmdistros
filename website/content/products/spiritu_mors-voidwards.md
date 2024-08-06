@@ -5,7 +5,7 @@ artist: Spiritu Mors
 categories:
 - Vinyl
 - CD
-date: '2024-07-01T05:17:04'
+date: '2024-08-06T05:25:01'
 draft: false
 images:
 - /images/covers/spiritu_mors-voidwards.jpg
@@ -15,6 +15,6 @@ title: Spiritu Mors - Voidwards
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=51616&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=53397&sort=pd.name&order=ASC) for $25.00
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=32820&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=53396&sort=pd.name&order=ASC) for $12.00

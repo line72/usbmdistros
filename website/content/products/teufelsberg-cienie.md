@@ -5,7 +5,7 @@ artist: Teufelsberg
 categories:
 - Vinyl
 - Cassette
-date: '2024-06-29T05:17:10'
+date: '2024-08-06T05:23:36'
 draft: false
 images:
 - /images/covers/teufelsberg-cienie.jpg
@@ -15,6 +15,6 @@ title: Teufelsberg - Cienie
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=51614&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=53399&sort=pd.name&order=ASC) for $25.00
 ## Cassette
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=51615&sort=pd.name&order=ASC) for $12.00
