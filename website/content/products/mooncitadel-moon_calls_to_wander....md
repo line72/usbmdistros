@@ -4,7 +4,7 @@ album: Moon Calls to Wander...
 artist: Mooncitadel
 categories:
 - Vinyl
-date: '2024-06-10T05:15:12'
+date: '2024-08-08T05:22:29'
 draft: false
 images:
 - /images/covers/mooncitadel-moon_calls_to_wander....jpg
@@ -14,4 +14,4 @@ title: Mooncitadel - Moon Calls to Wander...
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=51119&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=53557&sort=pd.name&order=ASC) for $25.00

@@ -4,7 +4,7 @@ album: When the Moon Sang our Songs
 artist: Krolok
 categories:
 - Vinyl
-date: '2024-05-03T05:13:41'
+date: '2024-08-08T05:22:20'
 draft: false
 images:
 - /images/covers/krolok-when_the_moon_sang_our_songs.jpg
@@ -14,4 +14,4 @@ title: Krolok - When the Moon Sang our Songs
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=35008&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=53540&sort=pd.name&order=ASC) for $25.00

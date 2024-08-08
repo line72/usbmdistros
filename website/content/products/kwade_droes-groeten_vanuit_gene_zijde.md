@@ -5,7 +5,7 @@ artist: Kwade Droes
 categories:
 - Vinyl
 - CD
-date: '2024-05-03T05:15:09'
+date: '2024-08-08T05:22:21'
 draft: false
 images:
 - /images/covers/kwade_droes-groeten_vanuit_gene_zijde.jpg
@@ -15,6 +15,6 @@ title: Kwade Droes - Groeten vanuit Gene Zijde
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=35336&sort=pd.name&order=ASC) for $27.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=53522&sort=pd.name&order=ASC) for $27.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=35337&sort=pd.name&order=ASC) for $15.00

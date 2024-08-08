@@ -4,7 +4,7 @@ album: "Jedin\xFD Poskvrn\u011Bn\xFD P\u0159\xEDtok"
 artist: "St\xEDny Plamen\u016F"
 categories:
 - Vinyl
-date: '2024-05-03T05:14:09'
+date: '2024-08-08T05:22:52'
 draft: false
 images:
 - "/images/covers/st\xEDny_plamen\u016F-jedin\xFD_poskvrn\u011Bn\xFD_p\u0159\xEDtok.png"
@@ -15,4 +15,4 @@ title: "St\xEDny Plamen\u016F - Jedin\xFD Poskvrn\u011Bn\xFD P\u0159\xEDtok"
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=31636&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=53472&sort=pd.name&order=ASC) for $25.00

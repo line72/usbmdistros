@@ -4,7 +4,7 @@ album: At the End of a New Age
 artist: Krolok
 categories:
 - Vinyl
-date: '2024-05-03T05:13:41'
+date: '2024-08-08T05:22:20'
 draft: false
 images:
 - /images/covers/krolok-at_the_end_of_a_new_age.jpg
@@ -14,4 +14,4 @@ title: Krolok - At the End of a New Age
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=35007&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=53538&sort=pd.name&order=ASC) for $25.00

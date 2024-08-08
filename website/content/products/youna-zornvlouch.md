@@ -6,7 +6,7 @@ categories:
 - Vinyl
 - Cassette
 - CD
-date: '2024-05-03T05:16:13'
+date: '2024-08-08T05:23:09'
 draft: false
 images:
 - /images/covers/youna-zornvlouch.jpg
@@ -16,7 +16,7 @@ title: YounA - Zornvlouch
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=10236&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=53567&sort=pd.name&order=ASC) for $20.00
 ## Cassette
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=10243&sort=pd.name&order=ASC) for $8.00
 ## CD

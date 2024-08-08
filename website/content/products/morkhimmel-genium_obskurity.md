@@ -4,7 +4,7 @@ album: Genium Obskurity
 artist: Morkhimmel
 categories:
 - Vinyl
-date: '2024-05-03T05:13:49'
+date: '2024-08-08T05:22:30'
 draft: false
 images:
 - /images/covers/morkhimmel-genium_obskurity.jpg
@@ -14,4 +14,4 @@ title: Morkhimmel - Genium Obskurity
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=48182&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=53560&sort=pd.name&order=ASC) for $25.00

@@ -4,7 +4,7 @@ album: From Behind The Light
 artist: Wallachia
 categories:
 - Vinyl
-date: '2024-05-20T05:14:18'
+date: '2024-08-08T05:23:04'
 draft: false
 images:
 - /images/covers/wallachia-from_behind_the_light.png
@@ -14,4 +14,4 @@ title: Wallachia - From Behind The Light
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=50146&sort=pd.name&order=ASC) for $27.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=53449&sort=pd.name&order=ASC) for $27.00

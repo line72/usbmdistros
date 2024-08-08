@@ -4,7 +4,7 @@ album: htaeD no tabbaS
 artist: Goatpenis
 categories:
 - CD
-date: '2024-08-04T05:24:14'
+date: '2024-08-08T05:23:48'
 draft: false
 images:
 - /images/covers/goatpenis-htaed_no_tabbas.jpg
@@ -14,4 +14,4 @@ title: Goatpenis - htaeD no tabbaS
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=53251&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=53500&sort=pd.name&order=ASC) for $12.00

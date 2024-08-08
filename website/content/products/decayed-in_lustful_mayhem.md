@@ -5,7 +5,7 @@ artist: Decayed
 categories:
 - Vinyl
 - CD
-date: '2024-07-09T13:42:15'
+date: '2024-08-08T05:21:57'
 draft: false
 images:
 - /images/covers/decayed-in_lustful_mayhem.png
@@ -15,6 +15,6 @@ title: Decayed - In Lustful Mayhem
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=51585&sort=pd.name&order=ASC) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=53468&sort=pd.name&order=ASC) for $30.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=49384&sort=pd.name&order=ASC) for $12.00
