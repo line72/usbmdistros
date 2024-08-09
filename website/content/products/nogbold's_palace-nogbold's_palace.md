@@ -4,7 +4,7 @@ album: Nogbold's Palace
 artist: Nogbold's Palace
 categories:
 - CD
-date: '2024-08-06T05:24:50'
+date: '2024-08-09T05:26:07'
 draft: false
 images:
 - /images/covers/nogbold's_palace-nogbold's_palace.jpg
@@ -14,4 +14,4 @@ title: Nogbold's Palace - Nogbold's Palace
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=53401&sort=pd.name&order=ASC) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=53672&sort=pd.name&order=ASC) for $30.00

@@ -4,7 +4,7 @@ album: Thy Sulphur Throne On High
 artist: Crucifier
 categories:
 - CD
-date: '2024-08-08T05:23:36'
+date: '2024-08-09T05:25:32'
 draft: false
 images:
 - /images/covers/crucifier-thy_sulphur_throne_on_high.jpg
@@ -14,4 +14,4 @@ title: Crucifier - Thy Sulphur Throne On High
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=53512&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=53606&sort=pd.name&order=ASC) for $15.00

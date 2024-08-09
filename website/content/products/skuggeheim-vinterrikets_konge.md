@@ -4,7 +4,7 @@ album: Vinterrikets Konge
 artist: Skuggeheim
 categories:
 - Vinyl
-date: '2024-05-03T05:14:08'
+date: '2024-08-09T05:24:47'
 draft: false
 images:
 - /images/covers/skuggeheim-vinterrikets_konge.jpg
@@ -15,4 +15,4 @@ title: Skuggeheim - Vinterrikets Konge
 
 ## Vinyl
 * Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/skuggeheim-vinterrikets-konge-vinyl-lp-gatefold) for $24.99 :: (gatefold w/poster)
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=48842&sort=pd.name&order=ASC) for $28.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=53632&sort=pd.name&order=ASC) for $28.00
