@@ -4,7 +4,7 @@ album: Satan's Soldiers Syndicate
 artist: Desaster
 categories:
 - Vinyl
-date: '2024-05-26T05:11:52'
+date: '2024-08-11T05:22:04'
 draft: false
 images:
 - /images/covers/desaster-satan's_soldiers_syndicate.png
@@ -14,4 +14,4 @@ title: Desaster - Satan's Soldiers Syndicate
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=50420&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=53711&sort=pd.name&order=ASC) for $25.00

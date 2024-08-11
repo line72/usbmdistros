@@ -1,10 +1,10 @@
 ---
-actualPrice: $25.00 - 27.00
+actualPrice: $15.00 - 27.00
 album: Storm of Satan
 artist: Vassago
 categories:
 - Vinyl
-date: '2024-05-03T05:14:17'
+date: '2024-08-11T05:23:04'
 draft: false
 images:
 - /images/covers/vassago-storm_of_satan.jpg
@@ -15,4 +15,4 @@ title: Vassago - Storm of Satan
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=23544&sort=pd.name&order=ASC) for $27.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29621&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=53706&sort=pd.name&order=ASC) for $15.00
