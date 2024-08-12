@@ -5,7 +5,7 @@ artist: Leviathan
 categories:
 - Vinyl
 - CD
-date: '2024-07-18T05:22:26'
+date: '2024-08-12T05:36:15'
 draft: false
 images:
 - /images/covers/leviathan-a_silhouette_in_splinters.jpg
@@ -15,6 +15,6 @@ title: Leviathan - A Silhouette In Splinters
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=52255&sort=pd.name&order=ASC) for $35.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=53848&sort=pd.name&order=ASC) for $35.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=50173&sort=pd.name&order=ASC) for $15.00

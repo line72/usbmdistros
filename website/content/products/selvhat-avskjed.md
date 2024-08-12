@@ -4,7 +4,7 @@ album: Avskjed
 artist: Selvhat
 categories:
 - Vinyl
-date: '2024-05-03T05:14:04'
+date: '2024-08-12T05:36:46'
 draft: false
 images:
 - /images/covers/selvhat-avskjed.jpg
@@ -14,4 +14,4 @@ title: Selvhat - Avskjed
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=43321&sort=pd.name&order=ASC) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=53846&sort=pd.name&order=ASC) for $30.00

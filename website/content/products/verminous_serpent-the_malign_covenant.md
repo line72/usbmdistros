@@ -4,7 +4,7 @@ album: The Malign Covenant
 artist: Verminous Serpent
 categories:
 - Vinyl
-date: '2024-05-03T05:14:17'
+date: '2024-08-12T05:37:02'
 draft: false
 images:
 - /images/covers/verminous_serpent-the_malign_covenant.jpg
@@ -14,4 +14,4 @@ title: Verminous Serpent - The Malign Covenant
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=37409&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=53844&sort=pd.name&order=ASC) for $25.00
