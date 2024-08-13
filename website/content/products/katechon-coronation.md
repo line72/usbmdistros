@@ -4,7 +4,7 @@ album: Coronation
 artist: Katechon
 categories:
 - Vinyl
-date: '2024-05-03T05:13:40'
+date: '2024-08-13T05:24:39'
 draft: false
 images:
 - /images/covers/katechon-coronation.jpg
@@ -14,4 +14,4 @@ title: Katechon - Coronation
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=45569&sort=pd.name&order=ASC) for $5.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=54009&sort=pd.name&order=ASC) for $5.00

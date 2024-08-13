@@ -4,7 +4,7 @@ album: Rites of Murder and Sacrifice
 artist: Werewolf Bloodorder
 categories:
 - Vinyl
-date: '2024-07-09T00:39:58'
+date: '2024-08-13T05:25:25'
 draft: false
 images:
 - /images/covers/werewolf_bloodorder-rites_of_murder_and_sacrifice.jpg
@@ -15,4 +15,4 @@ title: Werewolf Bloodorder - Rites of Murder and Sacrifice
 
 ## Vinyl
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/werewolf-bloodorder-rites-of-murder-and-sacrifice-12-mlp) for $26.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=50050&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=54101&sort=pd.name&order=ASC) for $25.00

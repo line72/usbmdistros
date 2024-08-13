@@ -4,7 +4,7 @@ album: Occultess Unknown
 artist: Seclusion
 categories:
 - Vinyl
-date: '2024-05-03T05:14:04'
+date: '2024-08-13T05:25:08'
 draft: false
 images:
 - /images/covers/seclusion-occultess_unknown.jpg
@@ -14,4 +14,4 @@ title: Seclusion - Occultess Unknown
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=46369&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=54113&sort=pd.name&order=ASC) for $25.00

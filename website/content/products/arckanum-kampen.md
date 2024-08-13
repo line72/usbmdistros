@@ -4,7 +4,7 @@ album: Kampen
 artist: Arckanum
 categories:
 - Vinyl
-date: '2024-06-10T05:14:23'
+date: '2024-08-13T05:24:03'
 draft: false
 images:
 - /images/covers/arckanum-kampen.jpg
@@ -14,4 +14,4 @@ title: Arckanum - Kampen
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=51134&sort=pd.name&order=ASC) for $35.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=54050&sort=pd.name&order=ASC) for $35.00

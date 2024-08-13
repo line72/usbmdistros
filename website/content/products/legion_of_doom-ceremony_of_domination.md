@@ -4,7 +4,7 @@ album: Ceremony of Domination
 artist: Legion of Doom
 categories:
 - Vinyl
-date: '2024-07-19T05:01:59'
+date: '2024-08-13T05:02:13'
 draft: false
 images:
 - /images/covers/legion_of_doom-ceremony_of_domination.jpg

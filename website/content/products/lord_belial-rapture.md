@@ -1,10 +1,10 @@
 ---
-actualPrice: $32.00
+actualPrice: $24.99
 album: Rapture
 artist: Lord Belial
 categories:
 - Vinyl
-date: '2024-07-09T14:02:10'
+date: '2024-08-13T05:44:09'
 draft: false
 images:
 - /images/covers/lord_belial-rapture.jpg
@@ -14,4 +14,4 @@ title: Lord Belial - Rapture
 ---
 
 ## Vinyl
-* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/lord-belial-rapture-ltd-200-black-in-transparent-blue-vinyl-lp) for $32.00 :: ltd 200 black in transparent blue vinyl lp
+* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/lord-belial-rapture-ltd-300-black-in-transparent-red-vinyl-lp) for $24.99 :: ltd 300 black in transparent red vinyl lp

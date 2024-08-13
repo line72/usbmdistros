@@ -4,7 +4,7 @@ album: Jordpuls
 artist: Vintersorg
 categories:
 - Vinyl
-date: '2024-07-09T14:02:04'
+date: '2024-08-13T05:44:09'
 draft: false
 images:
 - /images/covers/vintersorg-jordpuls.jpg
@@ -14,4 +14,4 @@ title: Vintersorg - Jordpuls
 ---
 
 ## Vinyl
-* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/vintersorg-jordpuls-clear-black-marble-vinyl-lp) for $29.99 :: clear/black marble vinyl lp
+* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/vintersorg-jordpuls-clear-black-marble-vinyl-lp-1) for $29.99 :: clear/black marble vinyl lp
