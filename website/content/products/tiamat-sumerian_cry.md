@@ -4,9 +4,8 @@ album: Sumerian Cry
 artist: Tiamat
 categories:
 - Vinyl
-- Cassette
 - CD
-date: '2024-08-12T05:39:40'
+date: '2024-08-14T05:25:24'
 draft: false
 images:
 - /images/covers/tiamat-sumerian_cry.jpg
@@ -16,8 +15,6 @@ title: Tiamat - Sumerian Cry
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=53942&sort=pd.name&order=ASC) for $25.00
-## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=53944&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=54147&sort=pd.name&order=ASC) for $25.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=53943&sort=pd.name&order=ASC) for $12.00

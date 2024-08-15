@@ -4,7 +4,7 @@ album: RH-16
 artist: Rhinocervs
 categories:
 - Vinyl
-date: '2024-06-10T05:15:26'
+date: '2024-08-15T05:25:02'
 draft: false
 images:
 - /images/covers/rhinocervs-rh-16.jpg
@@ -14,4 +14,4 @@ title: Rhinocervs - RH-16
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=51035&sort=pd.name&order=ASC) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=54195&sort=pd.name&order=ASC) for $30.00

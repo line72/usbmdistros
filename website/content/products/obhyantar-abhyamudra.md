@@ -4,7 +4,7 @@ album: Abhyamudra
 artist: Obhyantar
 categories:
 - Vinyl
-date: '2024-08-09T05:24:32'
+date: '2024-08-15T05:24:54'
 draft: false
 images:
 - /images/covers/obhyantar-abhyamudra.jpg
@@ -14,4 +14,4 @@ title: Obhyantar - Abhyamudra
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=53674&sort=pd.name&order=ASC) for $40.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=54245&sort=pd.name&order=ASC) for $40.00

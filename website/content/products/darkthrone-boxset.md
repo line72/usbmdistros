@@ -4,7 +4,7 @@ album: Boxset
 artist: Darkthrone
 categories:
 - Vinyl
-date: '2024-07-09T13:40:51'
+date: '2024-08-15T05:24:14'
 draft: false
 images:
 - /images/covers/darkthrone-boxset.png
@@ -14,4 +14,4 @@ title: Darkthrone - Boxset
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=49440&sort=pd.name&order=ASC) for $230.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=54179&sort=pd.name&order=ASC) for $230.00

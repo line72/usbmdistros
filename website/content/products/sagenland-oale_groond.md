@@ -4,7 +4,7 @@ album: Oale Groond
 artist: Sagenland
 categories:
 - Vinyl
-date: '2024-07-12T05:22:52'
+date: '2024-08-14T05:25:14'
 draft: false
 images:
 - /images/covers/sagenland-oale_groond.jpg
@@ -14,4 +14,4 @@ title: Sagenland - Oale Groond
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=51988&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=54164&sort=pd.name&order=ASC) for $25.00

@@ -5,7 +5,7 @@ artist: Root
 categories:
 - Vinyl
 - CD
-date: '2024-06-25T05:15:12'
+date: '2024-08-15T05:25:03'
 draft: false
 images:
 - /images/covers/root-hell_symphony.jpg
@@ -15,6 +15,6 @@ title: Root - Hell Symphony
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=51470&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=54209&sort=pd.name&order=ASC) for $25.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=42285&sort=pd.name&order=ASC) for $12.00

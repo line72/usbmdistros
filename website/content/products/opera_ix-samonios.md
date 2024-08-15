@@ -4,7 +4,7 @@ album: Samonios
 artist: Opera IX
 categories:
 - Vinyl
-date: '2024-08-08T05:22:39'
+date: '2024-08-15T05:24:55'
 draft: false
 images:
 - /images/covers/opera_ix-samonios.jpg
@@ -14,4 +14,4 @@ title: Opera IX - Samonios
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=53547&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=54255&sort=pd.name&order=ASC) for $25.00

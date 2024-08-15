@@ -5,7 +5,7 @@ artist: Simorgh
 categories:
 - Vinyl
 - CD
-date: '2024-05-03T05:15:26'
+date: '2024-08-14T05:25:17'
 draft: false
 images:
 - "/images/covers/simorgh-shokooh\u200B-\u200Be_mehr_va_atash.jpg"
@@ -15,6 +15,6 @@ title: "Simorgh - Shokooh\u200B-\u200Be Mehr Va Atash"
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=38867&sort=pd.name&order=ASC) for $27.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=54176&sort=pd.name&order=ASC) for $27.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=38868&sort=pd.name&order=ASC) for $12.00

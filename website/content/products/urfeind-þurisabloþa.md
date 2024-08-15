@@ -4,7 +4,7 @@ album: "\xDEurisablo\xFEa"
 artist: Urfeind
 categories:
 - Vinyl
-date: '2024-05-03T05:14:15'
+date: '2024-08-14T05:25:27'
 draft: false
 images:
 - "/images/covers/urfeind-\xFEurisablo\xFEa.jpg"
@@ -14,4 +14,4 @@ title: "Urfeind - \xDEurisablo\xFEa"
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=34108&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=54128&sort=pd.name&order=ASC) for $25.00
