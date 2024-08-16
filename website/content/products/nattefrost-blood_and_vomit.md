@@ -4,7 +4,7 @@ album: Blood and Vomit
 artist: Nattefrost
 categories:
 - Vinyl
-date: '2024-08-02T05:23:34'
+date: '2024-08-16T05:25:15'
 draft: false
 images:
 - /images/covers/nattefrost-blood_and_vomit.jpg
@@ -14,4 +14,4 @@ title: Nattefrost - Blood and Vomit
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=52948&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=54289&sort=pd.name&order=ASC) for $25.00

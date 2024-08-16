@@ -4,7 +4,7 @@ album: Varg Fjerne a Tornet
 artist: Branikald
 categories:
 - CD
-date: '2024-07-09T00:40:40'
+date: '2024-08-16T05:03:11'
 draft: false
 images:
 - /images/covers/branikald-varg_fjerne_a_tornet.png

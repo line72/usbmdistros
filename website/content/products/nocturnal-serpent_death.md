@@ -4,7 +4,7 @@ album: Serpent Death
 artist: Nocturnal
 categories:
 - Vinyl
-date: '2024-07-22T05:30:22'
+date: '2024-08-16T05:25:17'
 draft: false
 images:
 - /images/covers/nocturnal-serpent_death.jpg
@@ -14,4 +14,4 @@ title: Nocturnal - Serpent Death
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=52481&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=54294&sort=pd.name&order=ASC) for $25.00
