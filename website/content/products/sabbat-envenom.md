@@ -4,7 +4,7 @@ album: Envenom
 artist: Sabbat
 categories:
 - Vinyl
-date: '2024-05-03T05:14:01'
+date: '2024-08-17T05:24:37'
 draft: false
 images:
 - /images/covers/sabbat-envenom.jpg
@@ -14,4 +14,4 @@ title: Sabbat - Envenom
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=49529&sort=pd.name&order=ASC) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=54444&sort=pd.name&order=ASC) for $30.00

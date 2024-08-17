@@ -1,10 +1,12 @@
 ---
-actualPrice: $40.00
+actualPrice: $20.00 - 40.00
 album: Desecration Of Belo Horizonte
 artist: Blasphemy
 categories:
 - Vinyl
-date: '2024-08-16T05:24:31'
+- Cassette
+- CD
+date: '2024-08-17T05:26:29'
 draft: false
 images:
 - /images/covers/blasphemy-desecration_of_belo_horizonte.jpg
@@ -15,3 +17,7 @@ title: Blasphemy - Desecration Of Belo Horizonte
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=54363&sort=pd.name&order=ASC) for $40.00
+## Cassette
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=54378&sort=pd.name&order=ASC) for $20.00
+## CD
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=54379&sort=pd.name&order=ASC) for $20.00

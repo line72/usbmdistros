@@ -4,7 +4,7 @@ album: Guerreros de Lucifer
 artist: Nebiros
 categories:
 - Vinyl
-date: '2024-07-15T05:28:46'
+date: '2024-08-17T05:24:24'
 draft: false
 images:
 - /images/covers/nebiros-guerreros_de_lucifer.jpg
@@ -14,4 +14,4 @@ title: Nebiros - Guerreros de Lucifer
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=52093&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=54478&sort=pd.name&order=ASC) for $25.00

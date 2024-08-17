@@ -6,7 +6,7 @@ categories:
 - Vinyl
 - Cassette
 - CD
-date: '2024-06-10T05:17:20'
+date: '2024-08-17T05:23:45'
 draft: false
 images:
 - /images/covers/carpe_tenebrum-majestic_nothingness.jpg
@@ -16,7 +16,7 @@ title: Carpe Tenebrum - Majestic Nothingness
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=50934&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=50934&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=50936&sort=pd.name&order=ASC) for $35.00
 ## Cassette
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=50935&sort=pd.name&order=ASC) for $12.00

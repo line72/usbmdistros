@@ -4,7 +4,7 @@ album: The Dwelling
 artist: Sabbat
 categories:
 - CD
-date: '2024-06-27T05:17:09'
+date: '2024-08-17T05:26:08'
 draft: false
 images:
 - /images/covers/sabbat-the_dwelling.jpg
@@ -14,5 +14,5 @@ title: Sabbat - The Dwelling
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=11253&sort=pd.name&order=ASC) for $10.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=51566&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=54470&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=54471&sort=pd.name&order=ASC) for $10.00

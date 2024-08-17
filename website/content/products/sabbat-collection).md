@@ -4,7 +4,7 @@ album: Collection)
 artist: Sabbat
 categories:
 - Vinyl
-date: '2024-08-14T05:25:13'
+date: '2024-08-17T05:24:37'
 draft: false
 images:
 - /images/covers/sabbat-collection).png
@@ -14,4 +14,4 @@ title: Sabbat - Collection)
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=54167&sort=pd.name&order=ASC) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=54459&sort=pd.name&order=ASC) for $30.00

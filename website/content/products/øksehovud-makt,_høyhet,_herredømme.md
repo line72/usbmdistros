@@ -4,7 +4,7 @@ album: "Makt, H\xF8yhet, Herred\xF8mme"
 artist: "\xD8ksehovud"
 categories:
 - Vinyl
-date: '2024-05-03T05:14:23'
+date: '2024-08-17T05:24:58'
 draft: false
 images:
 - "/images/covers/\xF8ksehovud-makt,_h\xF8yhet,_herred\xF8mme.jpg"
@@ -14,4 +14,4 @@ title: "\xD8ksehovud - Makt, H\xF8yhet, Herred\xF8mme"
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=33606&sort=pd.name&order=ASC) for $28.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=54402&sort=pd.name&order=ASC) for $28.00

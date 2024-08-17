@@ -4,7 +4,7 @@ album: Sabbatrinity
 artist: Sabbat
 categories:
 - CD
-date: '2024-05-26T05:14:03'
+date: '2024-08-17T05:26:08'
 draft: false
 images:
 - /images/covers/sabbat-sabbatrinity.png
@@ -14,4 +14,4 @@ title: Sabbat - Sabbatrinity
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=50430&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=54466&sort=pd.name&order=ASC) for $12.00
