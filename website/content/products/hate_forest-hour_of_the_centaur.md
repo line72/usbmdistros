@@ -1,5 +1,5 @@
 ---
-actualPrice: $25.00 - 28.00
+actualPrice: $25.00
 album: Hour of the Centaur
 artist: Hate Forest
 categories:
@@ -15,5 +15,4 @@ title: Hate Forest - Hour of the Centaur
 
 ## Vinyl
 * Purchase from [Sto'Vo'Kor Records](https://stovokor-records.com/products/hate-forest-hour-of-the-centaur) for $25.00
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/hate-forest-hour-of-the-centaur-lp) for $28.00 :: Blue/Yellow 2022 press
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=53832&sort=pd.name&order=ASC) for $25.00

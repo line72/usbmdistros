@@ -15,4 +15,3 @@ title: Suffering Hour - Dwell
 
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=16381&sort=pd.name&order=ASC) for $12.00
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/suffering-hour-dwell-cd) for $12.00 :: Jewel Case 2019

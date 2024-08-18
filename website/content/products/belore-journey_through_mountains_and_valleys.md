@@ -1,5 +1,5 @@
 ---
-actualPrice: $12.00 - 49.00
+actualPrice: $12.00 - 30.00
 album: Journey Through Mountains And Valleys
 artist: Belore
 categories:
@@ -16,7 +16,6 @@ title: Belore - Journey Through Mountains And Valleys
 ---
 
 ## Vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/belore-journey-through-mountains-and-valleys-lp) for $49.00 :: Gold 2021 press vinyl
 * Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/belore-journey-through-mountains-and-valleys-vinyl-lp-color-lim-199) for $30.00 :: (color, lim. 199)
 ## Cassette
 * Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/belore-journey-through-mountains-and-valleys-cassette-tape) for $12.00 :: (lim. 100)

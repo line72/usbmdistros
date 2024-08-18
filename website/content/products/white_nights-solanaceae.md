@@ -1,5 +1,5 @@
 ---
-actualPrice: $5.00 - 23.00
+actualPrice: $5.00 - 8.00
 album: Solanaceae
 artist: White Nights
 categories:
@@ -15,7 +15,6 @@ title: White Nights - Solanaceae
 ---
 
 ## Vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/white-nights-solanaceae-10) for $23.00 :: Blue w/ Splatter 1st press vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=48084&sort=pd.name&order=ASC) for $8.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=24652&sort=pd.name&order=ASC) for $5.00
