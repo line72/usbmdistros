@@ -6,7 +6,7 @@ categories:
 - Vinyl
 - Cassette
 - CD
-date: '2024-08-16T05:27:35'
+date: '2024-08-19T05:30:51'
 draft: false
 images:
 - /images/covers/goatpenis-end.jpg
@@ -16,7 +16,7 @@ title: Goatpenis - End
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=54353&sort=pd.name&order=ASC) for $40.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=54607&sort=pd.name&order=ASC) for $40.00
 ## Cassette
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=54354&sort=pd.name&order=ASC) for $20.00
 ## CD

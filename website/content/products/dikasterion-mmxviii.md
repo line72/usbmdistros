@@ -4,7 +4,7 @@ album: MMXVIII
 artist: Dikasterion
 categories:
 - Vinyl
-date: '2024-05-03T05:13:21'
+date: '2024-08-19T05:30:41'
 draft: false
 images:
 - /images/covers/dikasterion-mmxviii.jpg
@@ -14,4 +14,4 @@ title: Dikasterion - MMXVIII
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=40380&sort=pd.name&order=ASC) for $17.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=54533&sort=pd.name&order=ASC) for $17.00

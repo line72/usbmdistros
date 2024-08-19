@@ -4,7 +4,7 @@ album: Diabolical Desecration
 artist: Bewitched
 categories:
 - Vinyl
-date: '2024-05-03T05:13:11'
+date: '2024-08-19T05:30:28'
 draft: false
 images:
 - /images/covers/bewitched-diabolical_desecration.png
@@ -14,4 +14,4 @@ title: Bewitched - Diabolical Desecration
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=45976&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=54577&sort=pd.name&order=ASC) for $25.00

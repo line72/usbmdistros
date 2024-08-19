@@ -4,7 +4,7 @@ album: Black Putrescence Of Evil
 artist: Teitanblood
 categories:
 - Vinyl
-date: '2024-08-14T05:25:21'
+date: '2024-08-19T05:31:40'
 draft: false
 images:
 - /images/covers/teitanblood-black_putrescence_of_evil.jpg
@@ -14,4 +14,4 @@ title: Teitanblood - Black Putrescence Of Evil
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=54155&sort=pd.name&order=ASC) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=54544&sort=pd.name&order=ASC) for $30.00

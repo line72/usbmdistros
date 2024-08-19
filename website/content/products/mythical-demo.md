@@ -4,7 +4,7 @@ album: Demo
 artist: Mythical
 categories:
 - Cassette
-date: '2024-07-09T13:43:17'
+date: '2024-08-19T05:33:56'
 draft: false
 images:
 - /images/covers/mythical-demo.png
@@ -14,4 +14,4 @@ title: Mythical - Demo
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=43000&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=54547&sort=pd.name&order=ASC) for $15.00

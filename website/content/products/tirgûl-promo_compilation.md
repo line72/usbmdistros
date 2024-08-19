@@ -4,7 +4,7 @@ album: Promo Compilation
 artist: "Tirg\xFBl"
 categories:
 - Vinyl
-date: '2024-07-26T05:23:15'
+date: '2024-08-19T05:31:43'
 draft: false
 images:
 - "/images/covers/tirg\xFBl-promo_compilation.jpg"
@@ -14,4 +14,4 @@ title: "Tirg\xFBl - Promo Compilation"
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=52613&sort=pd.name&order=ASC) for $27.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=54599&sort=pd.name&order=ASC) for $27.00

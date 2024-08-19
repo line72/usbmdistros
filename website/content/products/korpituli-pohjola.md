@@ -6,7 +6,7 @@ categories:
 - Vinyl
 - Cassette
 - CD
-date: '2024-06-08T05:17:04'
+date: '2024-08-19T05:31:04'
 draft: false
 images:
 - /images/covers/korpituli-pohjola.png
@@ -16,7 +16,7 @@ title: Korpituli - Pohjola
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=50879&sort=pd.name&order=ASC) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=54561&sort=pd.name&order=ASC) for $30.00
 ## Cassette
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=50882&sort=pd.name&order=ASC) for $15.00
 ## CD

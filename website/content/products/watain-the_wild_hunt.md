@@ -4,7 +4,7 @@ album: The Wild Hunt
 artist: Watain
 categories:
 - CD
-date: '2024-05-03T05:15:38'
+date: '2024-08-19T05:33:26'
 draft: false
 images:
 - /images/covers/watain-the_wild_hunt.jpg
@@ -14,4 +14,4 @@ title: Watain - The Wild Hunt
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=42400&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=54596&sort=pd.name&order=ASC) for $12.00

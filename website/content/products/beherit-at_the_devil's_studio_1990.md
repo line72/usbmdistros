@@ -4,7 +4,7 @@ album: At the Devil's Studio 1990
 artist: Beherit
 categories:
 - Vinyl
-date: '2024-08-17T05:23:40'
+date: '2024-08-19T05:30:27'
 draft: false
 images:
 - /images/covers/beherit-at_the_devil's_studio_1990.png
@@ -14,5 +14,5 @@ title: Beherit - At the Devil's Studio 1990
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=54376&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=54377&sort=pd.name&order=ASC) for $75.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=54604&sort=pd.name&order=ASC) for $25.00

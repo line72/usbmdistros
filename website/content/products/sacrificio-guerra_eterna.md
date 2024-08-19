@@ -4,7 +4,7 @@ album: Guerra Eterna
 artist: Sacrificio
 categories:
 - Cassette
-date: '2024-05-03T05:16:03'
+date: '2024-08-19T05:34:03'
 draft: false
 images:
 - /images/covers/sacrificio-guerra_eterna.jpg
@@ -14,4 +14,4 @@ title: Sacrificio - Guerra Eterna
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=48366&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=54549&sort=pd.name&order=ASC) for $15.00

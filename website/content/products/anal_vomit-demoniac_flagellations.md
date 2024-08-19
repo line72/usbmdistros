@@ -5,7 +5,7 @@ artist: Anal Vomit
 categories:
 - Vinyl
 - CD
-date: '2024-07-22T05:29:14'
+date: '2024-08-19T05:32:15'
 draft: false
 images:
 - /images/covers/anal_vomit-demoniac_flagellations.jpg
@@ -18,4 +18,4 @@ title: Anal Vomit - Demoniac Flagellations
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=52377&sort=pd.name&order=ASC) for $25.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=30822&sort=pd.name&order=ASC) for $12.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=41489&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=54565&sort=pd.name&order=ASC) for $12.00

@@ -4,7 +4,7 @@ album: Shape Picture
 artist: Abruptum
 categories:
 - Vinyl
-date: '2024-07-09T13:41:53'
+date: '2024-08-19T05:31:55'
 draft: false
 images:
 - /images/covers/abruptum-shape_picture.jpg
@@ -14,4 +14,4 @@ title: Abruptum - Shape Picture
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=47140&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=54534&sort=pd.name&order=ASC) for $20.00

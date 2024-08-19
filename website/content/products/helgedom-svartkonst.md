@@ -4,7 +4,7 @@ album: Svartkonst
 artist: Helgedom
 categories:
 - CD
-date: '2024-05-03T05:15:00'
+date: '2024-08-19T05:32:42'
 draft: false
 images:
 - /images/covers/helgedom-svartkonst.jpg
@@ -14,5 +14,5 @@ title: Helgedom - Svartkonst
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=5228&sort=pd.name&order=ASC) for $12.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=5227&sort=pd.name&order=ASC) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=54583&sort=pd.name&order=ASC) for $12.00

@@ -4,7 +4,7 @@ album: Gesundrian
 artist: Diocletian
 categories:
 - CD
-date: '2024-06-05T05:15:36'
+date: '2024-08-19T05:32:29'
 draft: false
 images:
 - /images/covers/diocletian-gesundrian.jpg
@@ -14,4 +14,4 @@ title: Diocletian - Gesundrian
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=50769&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=54581&sort=pd.name&order=ASC) for $15.00
