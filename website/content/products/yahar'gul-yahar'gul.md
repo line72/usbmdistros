@@ -1,11 +1,11 @@
 ---
-actualPrice: $10.00 - 15.00
+actualPrice: $5.00 - 15.00
 album: Yahar'gul
 artist: Yahar'gul
 categories:
 - Vinyl
 - CD
-date: '2024-05-03T05:15:39'
+date: '2024-01-26T01:44:17'
 draft: false
 images:
 - /images/covers/yahar'gul-yahar'gul.jpg
@@ -17,4 +17,4 @@ title: Yahar'gul - Yahar'gul
 ## Vinyl
 * Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/yahargul-yahargul-vinyl-lp-lim-150-numbered) for $15.00 :: (lim.150, numbered, w/ insert)
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=3634&sort=pd.name&order=ASC) for $10.00
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/yahargul-yahargul-cd) for $5.00 :: CD 2018

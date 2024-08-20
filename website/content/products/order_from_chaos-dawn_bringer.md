@@ -1,10 +1,9 @@
 ---
-actualPrice: $15.00 - 25.00
+actualPrice: $20.00
 album: Dawn Bringer
 artist: Order From Chaos
 categories:
 - Vinyl
-- CD
 date: '2024-07-09T13:57:23'
 draft: false
 images:
@@ -15,7 +14,4 @@ title: Order From Chaos - Dawn Bringer
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=48885&sort=pd.name&order=ASC) for $25.00
 * Purchase from [CW Productions](https://shop.cwproductions.net/products/order-from-chaos-dawn-bringer-lp) for $20.00
-## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=47871&sort=pd.name&order=ASC) for $15.00

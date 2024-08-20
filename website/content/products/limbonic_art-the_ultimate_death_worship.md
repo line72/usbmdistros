@@ -1,5 +1,5 @@
 ---
-actualPrice: $30.00 - 37.99
+actualPrice: $37.99
 album: The Ultimate Death Worship
 artist: Limbonic Art
 categories:
@@ -14,5 +14,4 @@ title: Limbonic Art - The Ultimate Death Worship
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=49966&sort=pd.name&order=ASC) for $30.00
 * Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/limbonic-art-the-ultimate-death-worship-2lp-swamp-green-vinyl-dlp) for $37.99 :: 2lp swamp green vinyl dlp

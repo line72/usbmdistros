@@ -1,5 +1,5 @@
 ---
-actualPrice: $13.99 - 15.00
+actualPrice: $13.99
 album: Nearer the Shores of Kothal
 artist: Borda's Rope
 categories:
@@ -14,5 +14,4 @@ title: Borda's Rope - Nearer the Shores of Kothal
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=20777&sort=pd.name&order=ASC) for $15.00
 * Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/bordas-rope-nearer-the-shores-of-kothal-cd-digipak) for $13.99 :: [digipak]

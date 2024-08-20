@@ -16,6 +16,5 @@ title: Armnatt - Eternal Flame
 
 ## Vinyl
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/armnatt-eternal-flame-12-lp) for $25.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29898&sort=pd.name&order=ASC) for $25.00
 ## Cassette
 * Purchase from [Sto'Vo'Kor Records](https://stovokor-records.com/products/armnatt-eternal-flame-cassette) for $11.00

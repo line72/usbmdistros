@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00
+actualPrice: $20.00
 album: Alchemical Warfare
 artist: Slaughtbbath
 categories:
-- CD
-date: '2024-06-18T05:16:29'
+- Vinyl
+date: '2021-07-11T20:52:24'
 draft: false
 images:
 - /images/covers/slaughtbbath-alchemical_warfare.jpg
@@ -13,5 +13,6 @@ thumbnailImage: /images/covers/slaughtbbath-alchemical_warfare-thumb.jpg
 title: Slaughtbbath - Alchemical Warfare
 ---
 
-## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=51370&sort=pd.name&order=ASC) for $12.00
+## Vinyl
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/slaughtbbath-alchemical-warfare) for $20.00 :: Black 1st press
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/slaughtbbath-alchemical-warfare) for $20.00 :: Red 1st press

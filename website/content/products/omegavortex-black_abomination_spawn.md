@@ -1,10 +1,10 @@
 ---
-actualPrice: $25.00
+actualPrice: $35.00
 album: Black Abomination Spawn
 artist: Omegavortex
 categories:
 - Vinyl
-date: '2024-05-03T05:13:55'
+date: '2023-08-24T18:19:53'
 draft: false
 images:
 - /images/covers/omegavortex-black_abomination_spawn.jpg
@@ -14,4 +14,4 @@ title: Omegavortex - Black Abomination Spawn
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=48104&sort=pd.name&order=ASC) for $25.00
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/omegavortex-black-abomination-spawn) for $35.00 :: Black 2020 press vinyl

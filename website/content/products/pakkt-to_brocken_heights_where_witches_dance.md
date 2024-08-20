@@ -1,10 +1,10 @@
 ---
-actualPrice: $28.00
+actualPrice: $29.00
 album: To Brocken Heights Where Witches Dance
 artist: Pakkt
 categories:
 - Vinyl
-date: '2024-05-03T05:13:56'
+date: '2022-01-08T06:11:57'
 draft: false
 images:
 - /images/covers/pakkt-to_brocken_heights_where_witches_dance.jpg
@@ -14,4 +14,4 @@ title: Pakkt - To Brocken Heights Where Witches Dance
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=20174&sort=pd.name&order=ASC) for $28.00
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/pakkt-to-brocken-heights-where-witches-dance-lp) for $29.00 :: Dark Red 1st press vinyl
