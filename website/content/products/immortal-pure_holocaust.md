@@ -5,7 +5,7 @@ artist: Immortal
 categories:
 - Vinyl
 - CD
-date: '2024-07-09T14:10:22'
+date: '2024-08-21T05:28:37'
 draft: false
 images:
 - /images/covers/immortal-pure_holocaust.jpg
@@ -20,5 +20,7 @@ title: Immortal - Pure Holocaust
 * Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/immortal-pure-holocaust-black-vinyl-lp-gatefold) for $25.99 :: black vinyl lp - gatefold
 * Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/immortal-pure-holocaust-half-half-red-blue-splatter-limited-color-vinyl) for $34.99 :: half/half red & blue splatter limited color vinyl
 * Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/immortal-pure-holocaust-vinyl-lp-color-gatefold) for $35.00 :: (color, gatefold)
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=52596&sort=pd.name&order=ASC) for $25.00
 ## CD
 * Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/immortal-pure-holocaust-cd) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=54793&sort=pd.name&order=ASC) for $15.00

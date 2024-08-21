@@ -1,5 +1,5 @@
 ---
-actualPrice: $26.00
+actualPrice: $25.00 - 26.00
 album: Haphazard Ethos
 artist: Beyond Death's Throne
 categories:
@@ -14,4 +14,5 @@ title: Beyond Death's Throne - Haphazard Ethos
 ---
 
 ## Vinyl
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=31334&sort=pd.name&order=ASC) for $25.00
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/beyond-death-s-throne-haphazard-ethos-12-lp) for $26.00

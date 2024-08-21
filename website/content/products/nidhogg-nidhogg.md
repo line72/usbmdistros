@@ -1,5 +1,5 @@
 ---
-actualPrice: $10.00
+actualPrice: $10.00 - 12.00
 album: Nidhogg
 artist: Nidhogg
 categories:
@@ -14,4 +14,5 @@ title: Nidhogg - Nidhogg
 ---
 
 ## CD
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=36957&sort=pd.name&order=ASC) for $12.00
 * Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/nidhogg-nidhogg-cd) for $10.00

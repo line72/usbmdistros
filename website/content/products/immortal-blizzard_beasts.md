@@ -5,7 +5,7 @@ artist: Immortal
 categories:
 - Vinyl
 - CD
-date: '2024-07-09T14:10:06'
+date: '2024-08-21T05:28:37'
 draft: false
 images:
 - /images/covers/immortal-blizzard_beasts.jpg
@@ -21,3 +21,4 @@ title: Immortal - Blizzard Beasts
 * Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/immortal-blizzard-beasts-vinyl-lp-gatefold) for $35.00 :: (gatefold, color)
 ## CD
 * Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/immortal-blizzard-beasts-cd) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=54790&sort=pd.name&order=ASC) for $15.00

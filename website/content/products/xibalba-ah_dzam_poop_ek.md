@@ -5,7 +5,7 @@ artist: Xibalba
 categories:
 - Cassette
 - CD
-date: '2024-07-09T14:10:22'
+date: '2024-08-21T05:30:04'
 draft: false
 images:
 - /images/covers/xibalba-ah_dzam_poop_ek.jpg
@@ -17,5 +17,7 @@ title: Xibalba - Ah Dzam Poop Ek
 ## Cassette
 * Purchase from [CW Productions](https://shop.cwproductions.net/products/xibalba-ah-dzam-poop-ek-tape-2) for $10.00
 * Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/xibalba-ah-dzam-poop-ek-cassette-tape) for $9.99
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=54822&sort=pd.name&order=ASC) for $10.00
 ## CD
 * Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/xibalba-ah-dzam-poop-ek-2xcd-jewel-case) for $16.00 :: (2xcd jewel case w/ slipcase)
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=54805&sort=pd.name&order=ASC) for $15.00

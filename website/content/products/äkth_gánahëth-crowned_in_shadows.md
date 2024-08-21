@@ -14,4 +14,5 @@ title: "\xC4kth G\xE1nah\xEBth - Crowned in Shadows"
 ---
 
 ## CD
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=15877&sort=pd.name&order=ASC) for $15.00
 * Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/akth-ganaheth-crowned-in-shadows-cd-digipak) for $15.00 :: (digipak)
