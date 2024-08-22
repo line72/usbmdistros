@@ -1,11 +1,10 @@
 ---
-actualPrice: $18.00 - 35.00
+actualPrice: $35.00
 album: S/T
 artist: "\u51FA\u96F2"
 categories:
 - Vinyl
-- CD
-date: '2024-07-19T05:02:49'
+date: '2024-07-19T05:01:59'
 draft: false
 images:
 - "/images/covers/\u51FA\u96F2-s-t.jpg"
@@ -16,5 +15,3 @@ title: "\u51FA\u96F2 - S/T"
 
 ## Vinyl
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/s-t-12-lp-2) for $35.00
-## CD
-* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/s-t-cd) for $18.00

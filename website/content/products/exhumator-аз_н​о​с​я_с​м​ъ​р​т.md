@@ -1,10 +1,9 @@
 ---
-actualPrice: $20.00 - 35.00
+actualPrice: $20.00
 album: "\u0410\u0437 \u041D\u200B\u041E\u200B\u0421\u200B\u042F \u0421\u200B\u041C\
   \u200B\u042A\u200B\u0420\u200B\u0422"
 artist: Exhumator
 categories:
-- Vinyl
 - CD
 date: '2024-08-21T05:28:27'
 draft: false
@@ -18,7 +17,5 @@ title: "Exhumator - \u0410\u0437 \u041D\u200B\u041E\u200B\u0421\u200B\u042F \u04
   \u200B\u041C\u200B\u042A\u200B\u0420\u200B\u0422"
 ---
 
-## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=54723&sort=pd.name&order=ASC) for $35.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=54722&sort=pd.name&order=ASC) for $20.00
