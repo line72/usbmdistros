@@ -4,7 +4,7 @@ album: De Zuivering
 artist: Lugubrum
 categories:
 - Vinyl
-date: '2024-08-09T05:24:19'
+date: '2024-08-24T05:27:14'
 draft: false
 images:
 - /images/covers/lugubrum-de_zuivering.jpg
@@ -14,4 +14,4 @@ title: Lugubrum - De Zuivering
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=53658&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=54902&sort=pd.name&order=ASC) for $25.00

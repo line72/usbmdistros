@@ -20,5 +20,6 @@ title: Stormkeep - Tales Of Othertime
 ## Cassette
 * Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/stormkeep-tales-of-othertime-cassette-tape) for $12.99
 ## CD
+* Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/stormkeep-tales-of-othertime-cd-jewel-case) for $15.00 :: (jewel case)
 * Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/stormkeep-tales-of-othertime-2xcd-digipak) for $24.00 :: (digipak w/ deluxe diecut foil slipcase)
 * Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/stormkeep-tales-of-othertime-deluxe-cd-w-foil-slipcase) for $15.99 :: (w/ foil slipcase)
