@@ -5,7 +5,7 @@ artist: Goatpenis
 categories:
 - Vinyl
 - Cassette
-date: '2024-08-19T05:30:51'
+date: '2024-08-25T05:28:02'
 draft: false
 images:
 - /images/covers/goatpenis-apocalypse_war.png
@@ -15,6 +15,6 @@ title: Goatpenis - Apocalypse War
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=54605&sort=pd.name&order=ASC) for $40.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=54930&sort=pd.name&order=ASC) for $40.00
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=54348&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=54931&sort=pd.name&order=ASC) for $20.00
