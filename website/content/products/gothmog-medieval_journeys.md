@@ -16,7 +16,6 @@ title: Gothmog - Medieval Journeys
 ---
 
 ## Vinyl
-* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/gothmog-medieval-journeys-12-lp) for $26.00
 * Purchase from [CW Productions](https://shop.cwproductions.net/products/gothmog-medieval-journeys-lp) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=45089&sort=pd.name&order=ASC) for $25.00
 * Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/gothmog-medieval-journeys-vinyl-lp-color-w-insert) for $25.00 :: (color w/insert)
