@@ -1,5 +1,5 @@
 ---
-actualPrice: $28.00
+actualPrice: $28.00 - 30.00
 album: Bozja Svetlonoso - Honoring the Rotten Blood of the Basilisk
 artist: "Ve\u0161tac"
 categories:
@@ -14,4 +14,5 @@ title: "Ve\u0161tac - Bozja Svetlonoso - Honoring the Rotten Blood of the Basili
 ---
 
 ## Vinyl
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/vestac-bozja-svetlonoso-honoring-the-rotten-blood-of-the-basilisk-12-lp) for $30.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=54123&sort=pd.name&order=ASC) for $28.00

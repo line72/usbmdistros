@@ -4,7 +4,7 @@ album: Ajaakonigadamang
 artist: Ahkqueth
 categories:
 - Vinyl
-date: '2024-05-03T05:13:02'
+date: '2024-07-09T00:40:12'
 draft: false
 images:
 - /images/covers/ahkqueth-ajaakonigadamang.jpg
@@ -15,3 +15,4 @@ title: Ahkqueth - Ajaakonigadamang
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=18930&sort=pd.name&order=ASC) for $25.00
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/ahkqueth-ajaakonigadamang-12-lp) for $25.00

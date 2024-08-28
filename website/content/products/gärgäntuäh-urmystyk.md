@@ -15,6 +15,7 @@ title: "G\xE4rg\xE4ntu\xE4h - Urmystyk"
 ---
 
 ## Vinyl
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/gargantuah-urmystyk-12-lp) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=54653&sort=pd.name&order=ASC) for $25.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=40372&sort=pd.name&order=ASC) for $12.00

@@ -1,5 +1,5 @@
 ---
-actualPrice: $8.00 - 21.99
+actualPrice: $8.00 - 25.00
 album: The Haunted Spawn of Torment
 artist: Arazubak
 categories:
@@ -16,6 +16,7 @@ title: Arazubak - The Haunted Spawn of Torment
 ---
 
 ## Vinyl
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/arazubak-the-haunted-spawn-of-torment-12-lp) for $25.00
 * Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/arazubak-the-haunted-spawn-of-torment-vinyl-lp) for $21.99
 ## Cassette
 * Purchase from [Sto'Vo'Kor Records](https://stovokor-records.com/products/arazubak-the-haunted-spawn-of-torment) for $8.00
