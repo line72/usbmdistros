@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00
+actualPrice: $15.00
 album: Live Legacy
 artist: Dissection
 categories:
 - CD
-date: '2024-05-03T05:14:52'
+date: '2024-08-30T05:24:34'
 draft: false
 images:
 - /images/covers/dissection-live_legacy.jpg
@@ -14,4 +14,4 @@ title: Dissection - Live Legacy
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=48949&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=55024&sort=pd.name&order=ASC) for $15.00
