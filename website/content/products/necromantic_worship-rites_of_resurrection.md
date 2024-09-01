@@ -22,5 +22,4 @@ title: Necromantic Worship - Rites of Resurrection
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=52339&sort=pd.name&order=ASC) for $10.00
 ## CD
 * Purchase from [CW Productions](https://shop.cwproductions.net/products/necromantic-worship-rites-of-resurrection-cd) for $12.00
-* Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/necromantic-worship-rites-of-resurrection-cd) for $12.99
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=52337&sort=pd.name&order=ASC) for $12.00

@@ -1,5 +1,5 @@
 ---
-actualPrice: $27.00
+actualPrice: $27.00 - 30.00
 album: Forgotten Realms Part I
 artist: Ruins of Nimrud
 categories:
@@ -14,4 +14,5 @@ title: Ruins of Nimrud - Forgotten Realms Part I
 ---
 
 ## Vinyl
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/ruins-of-nimrud-forgotten-realms-part-i-12-lp) for $30.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=54204&sort=pd.name&order=ASC) for $27.00

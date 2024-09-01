@@ -1,10 +1,9 @@
 ---
-actualPrice: $15.00 - 37.99
+actualPrice: $37.99
 album: Winds of Wrath
 artist: Whoredom Rife
 categories:
 - Vinyl
-- CD
 date: '2024-08-29T05:46:39'
 draft: false
 images:
@@ -16,5 +15,3 @@ title: Whoredom Rife - Winds of Wrath
 
 ## Vinyl
 * Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/whoredom-rife-winds-of-wrath-black-vinyl-lp-1) for $37.99 :: black vinyl lp
-## CD
-* Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/whoredom-rife-winds-of-wrath-cd-digipak) for $15.00 :: (digipak)

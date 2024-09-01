@@ -14,5 +14,4 @@ title: Runespell - Sentinels of Time
 ---
 
 ## Vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/used-runespell-sentinels-of-time-lp) for $25.00 :: Black 2022 press vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=54535&sort=pd.name&order=ASC) for $25.00

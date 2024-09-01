@@ -1,10 +1,9 @@
 ---
-actualPrice: $10.00 - 34.99
+actualPrice: $25.00
 album: The Funeral Of Being
 artist: Xasthur
 categories:
 - Vinyl
-- CD
 date: '2024-08-08T05:23:08'
 draft: false
 images:
@@ -15,7 +14,4 @@ title: Xasthur - The Funeral Of Being
 ---
 
 ## Vinyl
-* Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/xasthur-the-funeral-of-being-vinyl-2xlp-color-double-lp-gatefold) for $34.99 :: (color, double lp gatefold)
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=53563&sort=pd.name&order=ASC) for $25.00
-## CD
-* Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/xasthur-the-funeral-of-being-cd) for $10.00

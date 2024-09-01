@@ -14,5 +14,5 @@ title: "Wagner \xD6deg\xE5rd - Om Twenne Kosmos"
 ---
 
 ## Vinyl
-* Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/wagner-odegard-om-twenne-kosmos-vinyl-lp-color) for $25.00 :: (color)
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/wagner-odegard-om-twenne-kosmos-12-lp) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=54738&sort=pd.name&order=ASC) for $25.00
