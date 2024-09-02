@@ -1,5 +1,5 @@
 ---
-actualPrice: $23.98
+actualPrice: $19.98 - 23.98
 album: Helionomicon
 artist: Ulthar
 categories:
@@ -14,4 +14,5 @@ title: Ulthar - Helionomicon
 ---
 
 ## Vinyl
+* Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/ulthar-helionomicon-vinyl-lp-color) for $19.98 :: (color)
 * Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/ulthar-helionomicon-lp-multiple-variants-available) for $23.98

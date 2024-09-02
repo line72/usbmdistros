@@ -5,7 +5,7 @@ artist: Consummatio
 categories:
 - Vinyl
 - Cassette
-date: '2024-05-03T05:13:17'
+date: '2024-07-09T14:10:19'
 draft: false
 images:
 - /images/covers/consummatio-desaevio.jpg
@@ -16,5 +16,6 @@ title: Consummatio - Desaevio
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=20773&sort=pd.name&order=ASC) for $25.00
+* Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/consummatio-desaevio-vinyl-lp) for $25.00
 ## Cassette
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/used-consummatio-desaevio-cassette) for $10.00 :: Printed Shell 2022

@@ -5,7 +5,7 @@ artist: Crucifixion Bell
 categories:
 - Vinyl
 - CD
-date: '2024-07-09T00:40:45'
+date: '2024-07-09T14:10:16'
 draft: false
 images:
 - /images/covers/crucifixion_bell-eternal_grip_of_the_nocturnal_empire.jpg
@@ -19,3 +19,4 @@ title: Crucifixion Bell - Eternal Grip Of The Nocturnal Empire
 ## CD
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/crucifixion-bell-eternal-grip-of-the-nocturnal-empire-cd) for $14.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=35496&sort=pd.name&order=ASC) for $15.00
+* Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/crucifixion-bell-eternal-grip-of-the-nocturnal-empire-cd-digipak) for $15.00 :: [digipak]

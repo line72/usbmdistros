@@ -1,11 +1,11 @@
 ---
-actualPrice: $15.00 - 27.00
+actualPrice: $9.99 - 27.00
 album: "Monoman\xEDa del Inexorable Vac\xEDo"
 artist: Velo Misere
 categories:
 - Vinyl
 - CD
-date: '2024-07-09T00:40:12'
+date: '2024-07-09T14:10:19'
 draft: false
 images:
 - "/images/covers/velo_misere-monoman\xEDa_del_inexorable_vac\xEDo.jpg"
@@ -19,3 +19,4 @@ title: "Velo Misere - Monoman\xEDa del Inexorable Vac\xEDo"
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=20746&sort=pd.name&order=ASC) for $25.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=20747&sort=pd.name&order=ASC) for $15.00
+* Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/velo-misere-monomania-del-inexorable-vacio-cd-digipak) for $9.99 :: [digipak]

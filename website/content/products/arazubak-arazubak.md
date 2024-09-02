@@ -1,10 +1,10 @@
 ---
-actualPrice: $20.00
+actualPrice: $20.00 - 25.00
 album: Arazubak
 artist: Arazubak
 categories:
 - Vinyl
-date: '2023-02-12T06:00:23'
+date: '2024-07-09T14:10:23'
 draft: false
 images:
 - /images/covers/arazubak-arazubak.jpg
@@ -15,3 +15,4 @@ title: Arazubak - Arazubak
 
 ## Vinyl
 * Purchase from [Sto'Vo'Kor Records](https://stovokor-records.com/products/arazubak-arazubak) for $20.00
+* Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/arazubak-arazubak-vinyl-lp) for $25.00

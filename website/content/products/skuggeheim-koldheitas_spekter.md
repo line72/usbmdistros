@@ -1,5 +1,5 @@
 ---
-actualPrice: $28.00
+actualPrice: $28.00 - 30.00
 album: Koldheitas Spekter
 artist: Skuggeheim
 categories:
@@ -14,4 +14,5 @@ title: Skuggeheim - Koldheitas Spekter
 ---
 
 ## Vinyl
+* Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/skuggeheim-koldheitas-spekter-vinyl-lp-gatefold) for $30.00 :: (gatefold w/poster)
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=53631&sort=pd.name&order=ASC) for $28.00

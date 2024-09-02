@@ -14,4 +14,5 @@ title: Departure Chandelier - The Black Crest of Death, The Gold Wreath of War
 ---
 
 ## Vinyl
+* Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/departure-chandelier-the-black-crest-of-death-the-gold-wreath-of-war-vinyl-lp-w-insert-poster) for $25.00 :: (w/insert + poster)
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=54768&sort=pd.name&order=ASC) for $25.00
