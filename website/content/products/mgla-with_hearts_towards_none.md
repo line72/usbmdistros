@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00
+actualPrice: $25.00
 album: With Hearts Towards None
 artist: Mgla
 categories:
-- CD
-date: '2024-05-10T05:14:40'
+- Vinyl
+date: '2024-09-04T05:24:09'
 draft: false
 images:
 - /images/covers/mgla-with_hearts_towards_none.jpg
@@ -13,5 +13,5 @@ thumbnailImage: /images/covers/mgla-with_hearts_towards_none-thumb.jpg
 title: Mgla - With Hearts Towards None
 ---
 
-## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=49759&sort=pd.name&order=ASC) for $12.00
+## Vinyl
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=55142&sort=pd.name&order=ASC) for $25.00

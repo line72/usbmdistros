@@ -4,7 +4,7 @@ album: Tyranny Returns
 artist: Sargeist
 categories:
 - Vinyl
-date: '2024-08-18T05:23:51'
+date: '2024-09-04T05:24:29'
 draft: false
 images:
 - /images/covers/sargeist-tyranny_returns.jpg
@@ -14,4 +14,4 @@ title: Sargeist - Tyranny Returns
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=54513&sort=pd.name&order=ASC) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=55144&sort=pd.name&order=ASC) for $30.00

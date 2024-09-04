@@ -4,7 +4,7 @@ album: The Demos
 artist: Samael
 categories:
 - CD
-date: '2024-05-03T05:15:24'
+date: '2024-09-04T05:26:04'
 draft: false
 images:
 - /images/covers/samael-the_demos.png
@@ -14,4 +14,4 @@ title: Samael - The Demos
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=43586&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=55128&sort=pd.name&order=ASC) for $12.00

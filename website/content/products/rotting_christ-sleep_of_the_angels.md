@@ -4,7 +4,7 @@ album: Sleep Of The Angels
 artist: Rotting Christ
 categories:
 - Vinyl
-date: '2024-05-03T05:14:01'
+date: '2024-09-04T05:24:27'
 draft: false
 images:
 - /images/covers/rotting_christ-sleep_of_the_angels.jpg
@@ -14,4 +14,4 @@ title: Rotting Christ - Sleep Of The Angels
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=49465&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=55119&sort=pd.name&order=ASC) for $25.00

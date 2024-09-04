@@ -4,7 +4,7 @@ album: Non Serviam
 artist: Rotting Christ
 categories:
 - Cassette
-date: '2024-06-12T05:16:46'
+date: '2024-09-04T05:26:53'
 draft: false
 images:
 - /images/covers/rotting_christ-non_serviam.jpg
@@ -14,4 +14,4 @@ title: Rotting Christ - Non Serviam
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=51163&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=55116&sort=pd.name&order=ASC) for $15.00

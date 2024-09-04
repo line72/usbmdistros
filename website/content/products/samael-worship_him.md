@@ -5,7 +5,7 @@ artist: Samael
 categories:
 - Vinyl
 - CD
-date: '2024-07-09T14:02:19'
+date: '2024-09-04T05:26:04'
 draft: false
 images:
 - /images/covers/samael-worship_him.jpg
@@ -19,4 +19,4 @@ title: Samael - Worship Him
 * Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/samael-worship-him-limited-marble-vinyl-lp) for $25.99 :: limited marble vinyl lp
 * Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/samael-worship-him-lp-cloudy-red-vinyl-limited-to-500) for $24.99 :: cloudy red vinyl - limited to 500
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=43587&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=55129&sort=pd.name&order=ASC) for $15.00
