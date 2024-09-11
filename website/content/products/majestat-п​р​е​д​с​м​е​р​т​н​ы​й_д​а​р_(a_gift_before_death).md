@@ -6,7 +6,7 @@ album: "\u041F\u200B\u0420\u200B\u0415\u200B\u0414\u200B\u0421\u200B\u041C\u200B
 artist: Majestat
 categories:
 - Vinyl
-date: '2024-07-09T13:41:15'
+date: '2024-09-11T05:25:50'
 draft: false
 images:
 - "/images/covers/majestat-\u043F\u200B\u0440\u200B\u0435\u200B\u0434\u200B\u0441\u200B\
@@ -22,4 +22,4 @@ title: "Majestat - \u041F\u200B\u0420\u200B\u0415\u200B\u0414\u200B\u0421\u200B\
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=31695&sort=pd.name&order=ASC) for $27.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=55301&sort=pd.name&order=ASC) for $27.00

@@ -4,7 +4,7 @@ album: Storm of the Light's Bane
 artist: Dissection
 categories:
 - CD
-date: '2024-08-30T05:24:34'
+date: '2024-09-11T05:27:10'
 draft: false
 images:
 - /images/covers/dissection-storm_of_the_light's_bane.jpg
@@ -14,4 +14,4 @@ title: Dissection - Storm of the Light's Bane
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=55028&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=55312&sort=pd.name&order=ASC) for $20.00
