@@ -4,7 +4,7 @@ album: Sumerian Cry
 artist: Tiamat
 categories:
 - CD
-date: '2024-08-12T05:38:42'
+date: '2024-09-12T05:26:28'
 draft: false
 images:
 - /images/covers/tiamat-sumerian_cry.jpg
@@ -14,4 +14,4 @@ title: Tiamat - Sumerian Cry
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=53943&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=55386&sort=pd.name&order=ASC) for $12.00

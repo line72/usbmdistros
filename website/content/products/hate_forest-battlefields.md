@@ -4,7 +4,7 @@ album: Battlefields
 artist: Hate Forest
 categories:
 - Vinyl
-date: '2024-05-31T05:12:54'
+date: '2024-09-12T05:24:17'
 draft: false
 images:
 - /images/covers/hate_forest-battlefields.jpg
@@ -14,4 +14,4 @@ title: Hate Forest - Battlefields
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=50682&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=55475&sort=pd.name&order=ASC) for $25.00

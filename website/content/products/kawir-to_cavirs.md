@@ -4,7 +4,7 @@ album: To Cavirs
 artist: KAWIR
 categories:
 - Vinyl
-date: '2024-08-21T05:27:04'
+date: '2024-09-12T05:24:25'
 draft: false
 images:
 - /images/covers/kawir-to_cavirs.jpg
@@ -14,4 +14,4 @@ title: KAWIR - To Cavirs
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=54746&sort=pd.name&order=ASC) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=55398&sort=pd.name&order=ASC) for $30.00

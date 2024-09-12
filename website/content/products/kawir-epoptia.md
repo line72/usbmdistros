@@ -4,7 +4,7 @@ album: Epoptia
 artist: KAWIR
 categories:
 - Vinyl
-date: '2024-08-21T05:27:04'
+date: '2024-09-12T05:24:24'
 draft: false
 images:
 - /images/covers/kawir-epoptia.jpg
@@ -14,4 +14,4 @@ title: KAWIR - Epoptia
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=54743&sort=pd.name&order=ASC) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=55397&sort=pd.name&order=ASC) for $30.00
