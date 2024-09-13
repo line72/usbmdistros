@@ -4,7 +4,7 @@ album: Live in Brazilian Ritual - Third Attack
 artist: Goatpenis
 categories:
 - Vinyl
-date: '2024-09-07T05:23:50'
+date: '2024-09-13T05:22:49'
 draft: false
 images:
 - /images/covers/goatpenis-live_in_brazilian_ritual_-_third_attack.jpg
@@ -14,4 +14,4 @@ title: Goatpenis - Live in Brazilian Ritual - Third Attack
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=55236&sort=pd.name&order=ASC) for $35.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=55560&sort=pd.name&order=ASC) for $35.00

@@ -1,5 +1,5 @@
 ---
-actualPrice: $19.98 - 26.00
+actualPrice: $19.98 - 20.00
 album: Blood On Old Altars In Remembrance
 artist: Sanguine Relic
 categories:
@@ -14,6 +14,5 @@ title: Sanguine Relic - Blood On Old Altars In Remembrance
 ---
 
 ## Vinyl
-* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/sanguine-relic-blood-on-old-altars-in-remembrance-12-lp) for $26.00
 * Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/sanguine-relic-blood-on-old-altars-in-remembrance-vinyl-lp) for $19.98
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=50602&sort=pd.name&order=ASC) for $20.00
