@@ -4,7 +4,7 @@ album: Mdlosci
 artist: Mgla
 categories:
 - CD
-date: '2024-05-10T05:14:40'
+date: '2024-09-14T05:25:07'
 draft: false
 images:
 - /images/covers/mgla-mdlosci.jpg
@@ -14,4 +14,4 @@ title: Mgla - Mdlosci
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=49760&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=55597&sort=pd.name&order=ASC) for $12.00
