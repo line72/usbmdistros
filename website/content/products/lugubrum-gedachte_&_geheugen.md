@@ -5,7 +5,7 @@ artist: Lugubrum
 categories:
 - Vinyl
 - CD
-date: '2024-09-03T05:27:48'
+date: '2024-09-15T05:26:21'
 draft: false
 images:
 - /images/covers/lugubrum-gedachte_&_geheugen.jpg
@@ -15,6 +15,6 @@ title: Lugubrum - Gedachte & Geheugen
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=55109&sort=pd.name&order=ASC) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=55705&sort=pd.name&order=ASC) for $30.00
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=55110&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=55704&sort=pd.name&order=ASC) for $15.00

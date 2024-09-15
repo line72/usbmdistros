@@ -6,7 +6,7 @@ categories:
 - Vinyl
 - Cassette
 - CD
-date: '2024-07-09T14:09:41'
+date: '2024-09-15T05:27:15'
 draft: false
 images:
 - /images/covers/lord_belial-enter_the_moonlight_gate.jpg
@@ -20,6 +20,6 @@ title: Lord Belial - Enter The Moonlight Gate
 * Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/lord-belial-enter-the-moonlight-gate-vinyl-lp-gatefold) for $30.00 :: (gatefold)
 * Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/lord-belial-enter-the-moonlight-gate-color-gatefold-lim300) for $30.00 :: (color, gatefold, lim.300)
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=43592&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=55713&sort=pd.name&order=ASC) for $15.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=51501&sort=pd.name&order=ASC) for $12.00

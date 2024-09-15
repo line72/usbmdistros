@@ -4,7 +4,7 @@ album: From Peruvian Hell
 artist: Anal Vomit
 categories:
 - Cassette
-date: '2024-05-03T05:15:40'
+date: '2024-09-15T05:26:57'
 draft: false
 images:
 - /images/covers/anal_vomit-from_peruvian_hell.jpg
@@ -14,4 +14,4 @@ title: Anal Vomit - From Peruvian Hell
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=33751&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=55750&sort=pd.name&order=ASC) for $12.00

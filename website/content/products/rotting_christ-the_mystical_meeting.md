@@ -4,7 +4,7 @@ album: The Mystical Meeting
 artist: Rotting Christ
 categories:
 - CD
-date: '2024-09-06T05:26:11'
+date: '2024-09-15T05:26:37'
 draft: false
 images:
 - /images/covers/rotting_christ-the_mystical_meeting.jpg
@@ -14,4 +14,4 @@ title: Rotting Christ - The Mystical Meeting
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=55192&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=55651&sort=pd.name&order=ASC) for $15.00

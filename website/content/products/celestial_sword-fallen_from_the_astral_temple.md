@@ -14,5 +14,6 @@ title: Celestial Sword - Fallen From the Astral Temple
 ---
 
 ## Vinyl
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/celestial-sword-fallen-from-the-astral-temple-12-lp) for $27.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=48076&sort=pd.name&order=ASC) for $27.00
 * Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/celestial-sword-fallen-from-the-astral-temple-vinyl-lp-lim-150) for $25.00 :: (lim.300 w/ insert)

@@ -5,7 +5,7 @@ artist: Furis Ignis
 categories:
 - Vinyl
 - CD
-date: '2024-05-03T05:14:56'
+date: '2024-09-15T05:24:27'
 draft: false
 images:
 - /images/covers/furis_ignis-turm.jpg
@@ -15,6 +15,6 @@ title: Furis Ignis - Turm
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=48864&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=55701&sort=pd.name&order=ASC) for $25.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=25229&sort=pd.name&order=ASC) for $12.00

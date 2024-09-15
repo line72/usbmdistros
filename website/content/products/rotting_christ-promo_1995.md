@@ -4,7 +4,7 @@ album: Promo 1995
 artist: Rotting Christ
 categories:
 - Vinyl
-date: '2024-09-04T05:24:27'
+date: '2024-09-15T05:25:05'
 draft: false
 images:
 - /images/covers/rotting_christ-promo_1995.jpg
@@ -14,4 +14,4 @@ title: Rotting Christ - Promo 1995
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=55117&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=55647&sort=pd.name&order=ASC) for $25.00
