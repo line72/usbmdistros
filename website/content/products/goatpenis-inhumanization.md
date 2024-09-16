@@ -5,7 +5,7 @@ artist: Goatpenis
 categories:
 - Vinyl
 - CD
-date: '2024-09-13T05:24:34'
+date: '2024-09-16T05:40:13'
 draft: false
 images:
 - /images/covers/goatpenis-inhumanization.jpg
@@ -15,6 +15,6 @@ title: Goatpenis - Inhumanization
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=55559&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=55820&sort=pd.name&order=ASC) for $25.00
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=55558&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=55819&sort=pd.name&order=ASC) for $15.00
