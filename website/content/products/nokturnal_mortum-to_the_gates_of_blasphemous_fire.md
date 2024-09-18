@@ -4,7 +4,7 @@ album: To the Gates of Blasphemous Fire
 artist: Nokturnal Mortum
 categories:
 - Vinyl
-date: '2024-08-21T05:27:19'
+date: '2024-09-18T05:24:27'
 draft: false
 images:
 - /images/covers/nokturnal_mortum-to_the_gates_of_blasphemous_fire.jpg
@@ -14,4 +14,4 @@ title: Nokturnal Mortum - To the Gates of Blasphemous Fire
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=54785&sort=pd.name&order=ASC) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=55946&sort=pd.name&order=ASC) for $30.00

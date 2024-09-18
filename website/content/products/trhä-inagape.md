@@ -4,7 +4,7 @@ album: Inagape
 artist: "Trh\xE4"
 categories:
 - Cassette
-date: '2024-08-24T05:54:13'
+date: '2024-09-18T05:51:26'
 draft: false
 images:
 - "/images/covers/trh\xE4-inagape.jpg"
@@ -15,3 +15,4 @@ title: "Trh\xE4 - Inagape"
 
 ## Cassette
 * Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/trha-rhejde-qhaominvac-tla-aglhaonam-e-c-cassette-tape) for $12.99
+* Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/trha-lhumadsejja-cassette-tape-lim-100-uv-print-shell) for $12.99

@@ -1,10 +1,10 @@
 ---
-actualPrice: $15.00
+actualPrice: $14.99
 album: "\xA7\xBAan\u03C9\xEB Aglivajsam\xEB C\xE1 N\xEBlh\xB6Iha I Eddana"
 artist: "Trh\xE4"
 categories:
 - CD
-date: '2024-08-10T05:49:07'
+date: '2024-09-18T05:51:29'
 draft: false
 images:
 - "/images/covers/trh\xE4-\xA7\xBAan\u03C9\xEB_aglivajsam\xEB_c\xE1_n\xEBlh\xB6iha_i_eddana.jpg"
@@ -15,4 +15,4 @@ title: "Trh\xE4 - \xA7\xBAan\u03C9\xEB Aglivajsam\xEB C\xE1 N\xEBlh\xB6Iha I Edd
 ---
 
 ## CD
-* Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/trha-s-ano-e-aglivajsame-ca-n-e-lh-iha-i-eddana-cd) for $15.00
+* Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/trha-s-ano-e-aglivajsame-ca-n-e-lh-iha-i-eddana-cd) for $14.99

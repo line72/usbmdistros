@@ -6,7 +6,7 @@ categories:
 - Vinyl
 - Cassette
 - CD
-date: '2024-07-09T14:10:22'
+date: '2024-09-18T05:51:30'
 draft: false
 images:
 - /images/covers/gothmog-medieval_journeys.jpg
@@ -21,7 +21,7 @@ title: Gothmog - Medieval Journeys
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=45089&sort=pd.name&order=ASC) for $25.00
 * Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/gothmog-medieval-journeys-vinyl-lp-color-w-insert) for $25.00 :: (color w/insert)
 * Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/gothmog-medieval-journeys-black-white-swirl-vinyl-lp) for $34.99 :: black/white swirl vinyl lp
-* Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/gothmog-medieval-journeys-vinyl-lp-color) for $30.00 :: (color)
+* Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/gothmog-medieval-journeys-vinyl-lp-color) for $30.00 :: (color, northern silence edition)
 ## Cassette
 * Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/gothmog-medieval-journeys-cassette-tape) for $10.00
 ## CD

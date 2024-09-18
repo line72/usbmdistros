@@ -1,10 +1,9 @@
 ---
-actualPrice: $18.00 - 30.00
+actualPrice: $30.00
 album: The Winter Falls Over The Land
 artist: Moonblood
 categories:
 - Vinyl
-- CD
 date: '2024-07-26T05:22:48'
 draft: false
 images:
@@ -16,5 +15,3 @@ title: Moonblood - The Winter Falls Over The Land
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=52597&sort=pd.name&order=ASC) for $30.00
-## CD
-* Purchase from [CW Productions](https://shop.cwproductions.net/products/moonblood-the-winter-falls-over-the-land-2cd) for $18.00
