@@ -1,10 +1,12 @@
 ---
-actualPrice: $25.00
+actualPrice: $15.00 - 25.00
 album: Cremation Pyre
 artist: Phenocryst
 categories:
 - Vinyl
-date: '2024-09-06T05:24:30'
+- Cassette
+- CD
+date: '2024-09-19T05:27:12'
 draft: false
 images:
 - /images/covers/phenocryst-cremation_pyre.jpg
@@ -15,3 +17,7 @@ title: Phenocryst - Cremation Pyre
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=55224&sort=pd.name&order=ASC) for $25.00
+## Cassette
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=55991&sort=pd.name&order=ASC) for $15.00
+## CD
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=55990&sort=pd.name&order=ASC) for $15.00

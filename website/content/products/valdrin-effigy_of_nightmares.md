@@ -5,7 +5,8 @@ artist: Valdrin
 categories:
 - Vinyl
 - Cassette
-date: '2024-07-09T14:02:06'
+- CD
+date: '2024-09-19T05:26:38'
 draft: false
 images:
 - /images/covers/valdrin-effigy_of_nightmares.jpg
@@ -18,3 +19,5 @@ title: Valdrin - Effigy of Nightmares
 * Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/valdrin-effigy-of-nightmares-vinyl-lp) for $27.00 :: vinyl lp
 ## Cassette
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=9321&sort=pd.name&order=ASC) for $8.00
+## CD
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=55971&sort=pd.name&order=ASC) for $12.00

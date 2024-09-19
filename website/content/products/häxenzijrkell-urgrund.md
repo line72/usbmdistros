@@ -4,7 +4,7 @@ album: Urgrund
 artist: "H\xE4xenzijrkell"
 categories:
 - CD
-date: '2024-05-03T05:15:00'
+date: '2024-09-19T05:25:59'
 draft: false
 images:
 - "/images/covers/h\xE4xenzijrkell-urgrund.jpg"
@@ -14,4 +14,4 @@ title: "H\xE4xenzijrkell - Urgrund"
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=24297&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=56021&sort=pd.name&order=ASC) for $15.00
