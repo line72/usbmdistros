@@ -4,8 +4,7 @@ album: Ghoul
 artist: Erupted Evil
 categories:
 - Cassette
-- CD
-date: '2024-05-03T05:15:48'
+date: '2024-09-20T05:27:22'
 draft: false
 images:
 - /images/covers/erupted_evil-ghoul.jpg
@@ -15,6 +14,4 @@ title: Erupted Evil - Ghoul
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=22503&sort=pd.name&order=ASC) for $10.00
-## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=6285&sort=pd.name&order=ASC) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=56073&sort=pd.name&order=ASC) for $10.00

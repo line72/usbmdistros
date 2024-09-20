@@ -4,7 +4,7 @@ album: Finished
 artist: Master's Hammer
 categories:
 - Vinyl
-date: '2024-07-05T05:14:42'
+date: '2024-09-20T05:24:48'
 draft: false
 images:
 - /images/covers/master's_hammer-finished.jpg
@@ -15,4 +15,4 @@ title: Master's Hammer - Finished
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=51766&sort=pd.name&order=ASC) for $30.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=51767&sort=pd.name&order=ASC) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=56058&sort=pd.name&order=ASC) for $30.00

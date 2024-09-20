@@ -5,7 +5,7 @@ artist: "M\xFCtiilation"
 categories:
 - Vinyl
 - CD
-date: '2024-08-21T05:28:48'
+date: '2024-09-20T05:02:12'
 draft: false
 images:
 - "/images/covers/m\xFCtiilation-vampires_of_black_imperial_blood.png"
