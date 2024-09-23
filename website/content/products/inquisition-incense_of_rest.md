@@ -5,7 +5,7 @@ artist: Inquisition
 categories:
 - Vinyl
 - CD
-date: '2024-09-12T05:24:23'
+date: '2024-08-21T05:28:38'
 draft: false
 images:
 - /images/covers/inquisition-incense_of_rest.jpg
@@ -16,6 +16,5 @@ title: Inquisition - Incense of Rest
 
 ## Vinyl
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/inquisition-incense-of-rest-12-lp) for $35.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=55447&sort=pd.name&order=ASC) for $30.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=54664&sort=pd.name&order=ASC) for $15.00

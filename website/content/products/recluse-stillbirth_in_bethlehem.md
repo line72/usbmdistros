@@ -15,7 +15,6 @@ title: Recluse - Stillbirth In Bethlehem
 ---
 
 ## Vinyl
-* Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/recluse-stillbirth-in-bethlehem-12-lp/) for $20.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=54199&sort=pd.name&order=ASC) for $25.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=32415&sort=pd.name&order=ASC) for $12.00
