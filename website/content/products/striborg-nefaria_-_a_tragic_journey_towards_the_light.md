@@ -4,7 +4,7 @@ album: Nefaria / A Tragic Journey Towards The Light
 artist: Striborg
 categories:
 - Vinyl
-date: '2024-09-15T05:25:13'
+date: '2024-09-26T05:25:32'
 draft: false
 images:
 - /images/covers/striborg-nefaria_-_a_tragic_journey_towards_the_light.jpg
@@ -14,4 +14,4 @@ title: Striborg - Nefaria / A Tragic Journey Towards The Light
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=55665&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=56138&sort=pd.name&order=ASC) for $25.00
