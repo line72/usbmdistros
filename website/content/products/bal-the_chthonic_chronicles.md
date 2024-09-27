@@ -4,7 +4,7 @@ album: The Chthonic Chronicles
 artist: Bal
 categories:
 - Vinyl
-date: '2024-09-12T05:23:50'
+date: '2024-09-27T05:24:54'
 draft: false
 images:
 - /images/covers/bal-the_chthonic_chronicles.jpg
@@ -14,4 +14,4 @@ title: Bal - The Chthonic Chronicles
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=55416&sort=pd.name&order=ASC) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=56223&sort=pd.name&order=ASC) for $30.00

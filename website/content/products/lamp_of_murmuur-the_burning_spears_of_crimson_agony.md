@@ -1,5 +1,5 @@
 ---
-actualPrice: $26.00 - 30.00
+actualPrice: $26.00
 album: The Burning Spears Of Crimson Agony
 artist: Lamp of Murmuur
 categories:
@@ -14,5 +14,4 @@ title: Lamp of Murmuur - The Burning Spears Of Crimson Agony
 ---
 
 ## Vinyl
-* Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/lamp-of-murmuur-the-burning-spears-of-crimson-agony-vinyl-lp) for $30.00
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/lamp-of-murmuur-the-burning-spears-of-crimson-agony-12-lp) for $26.00

@@ -4,7 +4,7 @@ album: Moon Silver Mask
 artist: Taranis
 categories:
 - CD
-date: '2024-05-03T05:15:29'
+date: '2024-09-27T05:27:39'
 draft: false
 images:
 - /images/covers/taranis-moon_silver_mask.png
@@ -14,4 +14,4 @@ title: Taranis - Moon Silver Mask
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=2263&sort=pd.name&order=ASC) for $8.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=56201&sort=pd.name&order=ASC) for $8.00

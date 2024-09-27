@@ -4,7 +4,7 @@ album: Utd
 artist: Furze
 categories:
 - Vinyl
-date: '2024-07-09T13:41:00'
+date: '2024-09-27T05:25:15'
 draft: false
 images:
 - /images/covers/furze-utd.png
@@ -14,4 +14,4 @@ title: Furze - Utd
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=50931&sort=pd.name&order=ASC) for $35.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=56207&sort=pd.name&order=ASC) for $35.00
