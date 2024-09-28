@@ -1,10 +1,11 @@
 ---
-actualPrice: $33.99
+actualPrice: $12.99 - 33.99
 album: Roots
 artist: Saor
 categories:
 - Vinyl
-date: '2024-07-09T14:01:58'
+- CD
+date: '2024-07-09T14:10:17'
 draft: false
 images:
 - /images/covers/saor-roots.png
@@ -15,3 +16,5 @@ title: Saor - Roots
 
 ## Vinyl
 * Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/saor-roots-limited-double-marbled-vinyl-dlp) for $33.99 :: limited double marbled vinyl dlp
+## CD
+* Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/saor-roots-cd) for $12.99

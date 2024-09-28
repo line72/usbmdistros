@@ -17,5 +17,6 @@ title: Varathron - His Majesty at the Swamp
 ## Cassette
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=55195&sort=pd.name&order=ASC) for $15.00
 ## CD
+* Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/varathron-his-majesty-at-the-swamp-cd-hardcover-digibook-lim-999) for $15.00 :: [hardcover digibook, lim.999]
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=55193&sort=pd.name&order=ASC) for $15.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=55194&sort=pd.name&order=ASC) for $15.00

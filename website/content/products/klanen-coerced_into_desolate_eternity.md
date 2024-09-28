@@ -1,11 +1,12 @@
 ---
-actualPrice: $15.00 - 26.00
+actualPrice: $10.00 - 26.00
 album: Coerced Into Desolate Eternity
 artist: Klanen
 categories:
 - Vinyl
+- Cassette
 - CD
-date: '2024-07-09T00:40:45'
+date: '2024-07-09T14:10:20'
 draft: false
 images:
 - /images/covers/klanen-coerced_into_desolate_eternity.jpg
@@ -16,5 +17,8 @@ title: Klanen - Coerced Into Desolate Eternity
 
 ## Vinyl
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/klanen-coerced-into-desolate-eternity-12-lp) for $26.00
+* Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/klanen-coerced-into-desolate-eternity-vinyl-lp-color-180g) for $25.00 :: (color, 180g)
+## Cassette
+* Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/klanen-coerced-into-desolate-eternity-cassette-tape) for $10.00
 ## CD
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/klanen-coerced-into-desolate-eternity-cd) for $15.00

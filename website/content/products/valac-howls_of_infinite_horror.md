@@ -1,5 +1,5 @@
 ---
-actualPrice: $15.00 - 25.00
+actualPrice: $11.00 - 25.00
 album: Howls of Infinite Horror
 artist: Valac
 categories:
@@ -21,5 +21,6 @@ title: Valac - Howls of Infinite Horror
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=48109&sort=pd.name&order=ASC) for $25.00
 ## Cassette
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=40527&sort=pd.name&order=ASC) for $15.00
+* Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/valac-howls-of-infinite-horror-cassette-tape-special-edition) for $11.00 :: (lim. 100, numbered special edition)
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=40525&sort=pd.name&order=ASC) for $15.00
