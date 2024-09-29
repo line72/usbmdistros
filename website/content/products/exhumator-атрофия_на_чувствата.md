@@ -5,7 +5,7 @@ album: "\u0410\u0442\u0440\u043E\u0444\u0438\u044F \u041D\u0430 \u0427\u0443\u04
 artist: Exhumator
 categories:
 - CD
-date: '2024-09-27T05:26:57'
+date: '2024-09-29T05:27:09'
 draft: false
 images:
 - "/images/covers/exhumator-\u0430\u0442\u0440\u043E\u0444\u0438\u044F_\u043D\u0430\
@@ -18,4 +18,4 @@ title: "Exhumator - \u0410\u0442\u0440\u043E\u0444\u0438\u044F \u041D\u0430 \u04
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=56219&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=56281&sort=pd.name&order=ASC) for $20.00
