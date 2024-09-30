@@ -4,7 +4,7 @@ album: Blood and Necrosemen
 artist: Kurnugia
 categories:
 - Vinyl
-date: '2024-09-23T05:03:03'
+date: '2024-09-30T05:02:56'
 draft: false
 images:
 - /images/covers/kurnugia-blood_and_necrosemen.jpg

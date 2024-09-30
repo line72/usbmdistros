@@ -4,7 +4,7 @@ album: The Triumph of Wolfish Destiny
 artist: Blood Stronghold
 categories:
 - Vinyl
-date: '2024-08-21T05:26:33'
+date: '2024-09-30T05:02:55'
 draft: false
 images:
 - /images/covers/blood_stronghold-the_triumph_of_wolfish_destiny.png
@@ -15,3 +15,4 @@ title: Blood Stronghold - The Triumph of Wolfish Destiny
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=54624&sort=pd.name&order=ASC) for $25.00
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/blood-stronghold-the-triumph-of-wolfish-destiny-12-lp) for $25.00

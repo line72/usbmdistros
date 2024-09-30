@@ -15,7 +15,6 @@ title: Vimur - The Timeless Everpresent
 ---
 
 ## Vinyl
-* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/vimur-the-timeless-everpresent-green-vinyl-lp) for $24.99 :: green vinyl lp
 * Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/vimur-the-timeless-everpresent-vinyl-lp) for $25.00 :: (color)
 ## CD
 * Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/vimur-the-timeless-everpresent-cd-digipak) for $15.00 :: (digipak)
