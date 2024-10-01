@@ -1,5 +1,5 @@
 ---
-actualPrice: $22.99 - 32.99
+actualPrice: $32.99
 album: Deus Salutis Meae
 artist: Blut Aus Nord
 categories:
@@ -14,5 +14,4 @@ title: Blut Aus Nord - Deus Salutis Meae
 ---
 
 ## Vinyl
-* Purchase from [Debemur Morti](https://debemurmorti.aisamerch.com/item/142685) for $22.99
 * Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/blut-aus-nord-deus-salutis-meae-limited-smoke-vinyl-lp-1) for $32.99 :: limited smoke vinyl lp

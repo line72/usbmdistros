@@ -17,5 +17,4 @@ title: Celestial Sword - Nocturnal Divinity
 ## Vinyl
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/celestial-sword-nocturnal-divinity-12-lp) for $31.00
 ## CD
-* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/celestial-sword-nocturnal-divinity-cd) for $15.00
 * Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/celestial-sword-nocturnal-divinity-cd-digipak) for $15.00 :: (digipak, lim.200)
