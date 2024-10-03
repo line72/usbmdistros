@@ -1,5 +1,5 @@
 ---
-actualPrice: $12.00 - 35.00
+actualPrice: $12.00 - 28.00
 album: Visitant
 artist: Nightgaunt
 categories:
@@ -16,6 +16,5 @@ title: Nightgaunt - Visitant
 
 ## Vinyl
 * Purchase from [Sto'Vo'Kor Records](https://stovokor-records.com/products/nightgaunt-visitant) for $28.00
-* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/nightgaunt-visitant-12-lp) for $35.00
 ## Cassette
 * Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/nightgaunt-visitant-cassette-tape) for $12.00

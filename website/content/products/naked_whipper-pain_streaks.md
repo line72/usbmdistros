@@ -1,10 +1,9 @@
 ---
-actualPrice: $12.00 - 25.00
+actualPrice: $25.00
 album: Pain Streaks
 artist: Naked Whipper
 categories:
 - Vinyl
-- CD
 date: '2024-09-27T05:25:40'
 draft: false
 images:
@@ -16,5 +15,3 @@ title: Naked Whipper - Pain Streaks
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=56149&sort=pd.name&order=ASC) for $25.00
-## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=54859&sort=pd.name&order=ASC) for $12.00
