@@ -1,10 +1,9 @@
 ---
-actualPrice: $13.00 - 13.99
+actualPrice: $13.00
 album: For All Tid
 artist: DIMMU BORGIR
 categories:
 - Cassette
-- CD
 date: '2024-07-09T14:09:58'
 draft: false
 images:
@@ -16,5 +15,3 @@ title: DIMMU BORGIR - For All Tid
 
 ## Cassette
 * Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/dimmu-borgir-for-all-tid-cassette-tape) for $13.00
-## CD
-* Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/dimmu-borgir-for-all-tid-cd-w-bonus-tracks) for $13.99 :: (w/ bonus tracks)

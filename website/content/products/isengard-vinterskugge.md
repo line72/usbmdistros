@@ -1,5 +1,5 @@
 ---
-actualPrice: $15.00 - 60.00
+actualPrice: $60.00
 album: Vinterskugge
 artist: Isengard
 categories:
@@ -14,5 +14,4 @@ title: Isengard - Vinterskugge
 ---
 
 ## CD
-* Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/isengard-vinterskugge-cd) for $15.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=56262&sort=pd.name&order=ASC) for $60.00

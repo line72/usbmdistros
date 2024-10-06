@@ -18,4 +18,3 @@ title: Elffor - Unholy Throne of Doom
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/used-elffor-unholy-throne-of-doom-lp) for $20.00 :: Galaxy 2020 press vinyl
 ## CD
 * Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/elffor-unholy-throne-of-doom-cd) for $13.00
-* Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/elffor-unholy-throne-of-doom-cd-w-slipcase) for $14.00 :: w/ slipcase

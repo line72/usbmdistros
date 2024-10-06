@@ -1,5 +1,5 @@
 ---
-actualPrice: $25.00
+actualPrice: $25.00 - 26.00
 album: Bleksot
 artist: Draugsjukan
 categories:
@@ -14,4 +14,5 @@ title: Draugsjukan - Bleksot
 ---
 
 ## Vinyl
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/draugsjukan-bleksot-12-lp) for $26.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=55067&sort=pd.name&order=ASC) for $25.00
