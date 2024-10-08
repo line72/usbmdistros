@@ -1,5 +1,5 @@
 ---
-actualPrice: $14.99 - 25.00
+actualPrice: $14.99 - 17.98
 album: Scattered Celestial Remains
 artist: Astral Sacrifice to Ganymede
 categories:
@@ -14,6 +14,5 @@ title: Astral Sacrifice to Ganymede - Scattered Celestial Remains
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=30402&sort=pd.name&order=ASC) for $25.00
 * Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/astral-sacrifice-to-ganymede-scattered-celestial-remains-vinyl-lp) for $14.99 :: [valac]
 * Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/astral-sacrifice-to-ganymede-scattered-celestial-remains-lp) for $17.98

@@ -15,4 +15,3 @@ title: Circumventor - Norton X
 
 ## CD
 * Purchase from [CW Productions](https://shop.cwproductions.net/products/circumventor-norton-x-cd) for $10.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=26713&sort=pd.name&order=ASC) for $10.00

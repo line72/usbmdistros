@@ -1,5 +1,5 @@
 ---
-actualPrice: $12.00 - 30.00
+actualPrice: $15.00 - 30.00
 album: Belus
 artist: Burzum
 categories:
@@ -17,5 +17,4 @@ title: Burzum - Belus
 ## Vinyl
 * Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/burzum-belus-12-gatefold-double-lp/) for $30.00 :: gatefold double lp
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=54754&sort=pd.name&order=ASC) for $12.00
 * Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/burzum-belus-cd/) for $15.00

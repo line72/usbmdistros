@@ -15,4 +15,3 @@ title: Obskuritatem - Arogantni Nihilizam
 
 ## Vinyl
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/obskuritatem-arogantni-nihilizam-2xlp) for $33.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=48530&sort=pd.name&order=ASC) for $33.00
