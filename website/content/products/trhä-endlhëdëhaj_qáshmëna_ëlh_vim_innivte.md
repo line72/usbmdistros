@@ -14,4 +14,5 @@ title: "Trh\xE4 - Endlh\xEBd\xEBhaj Q\xE1shm\xEBna \xCBlh Vim Innivte"
 ---
 
 ## Vinyl
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=50386&sort=pd.name&order=ASC) for $30.00
 * Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/trha-endlhedehaj-qashmena-elh-vim-innivte-lp-color) for $30.00 :: (color)

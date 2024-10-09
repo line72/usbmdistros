@@ -1,5 +1,5 @@
 ---
-actualPrice: $35.99
+actualPrice: $30.00 - 35.99
 album: Crowsreign
 artist: Varathron
 categories:
@@ -14,4 +14,5 @@ title: Varathron - Crowsreign
 ---
 
 ## Vinyl
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=52239&sort=pd.name&order=ASC) for $30.00
 * Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/varathron-crowsreign-2lp-silver-vinyl-dlp) for $35.99 :: 2lp silver vinyl dlp

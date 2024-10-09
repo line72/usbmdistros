@@ -1,8 +1,9 @@
 ---
-actualPrice: $12.00
+actualPrice: $12.00 - 25.00
 album: Battlefields
 artist: Hate Forest
 categories:
+- Vinyl
 - CD
 date: '2024-10-05T05:27:50'
 draft: false
@@ -13,5 +14,7 @@ thumbnailImage: /images/covers/hate_forest-battlefields-thumb.jpg
 title: Hate Forest - Battlefields
 ---
 
+## Vinyl
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=55475&sort=pd.name&order=ASC) for $25.00
 ## CD
 * Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/hate-forest-battlefields-cd/) for $12.00

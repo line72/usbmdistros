@@ -5,6 +5,7 @@ artist: Arazubak
 categories:
 - Vinyl
 - Cassette
+- CD
 date: '2024-07-09T00:40:09'
 draft: false
 images:
@@ -18,3 +19,5 @@ title: Arazubak - The Haunted Spawn of Torment
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/arazubak-the-haunted-spawn-of-torment-12-lp) for $25.00
 ## Cassette
 * Purchase from [Sto'Vo'Kor Records](https://stovokor-records.com/products/arazubak-the-haunted-spawn-of-torment) for $8.00
+## CD
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=25498&sort=pd.name&order=ASC) for $15.00
