@@ -4,7 +4,7 @@ album: Outojen Tornien Varjoissa
 artist: Faustian Pact
 categories:
 - Vinyl
-date: '2024-05-03T05:13:26'
+date: '2024-10-10T05:25:31'
 draft: false
 images:
 - /images/covers/faustian_pact-outojen_tornien_varjoissa.jpg
@@ -14,4 +14,4 @@ title: Faustian Pact - Outojen Tornien Varjoissa
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=21559&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=56574&sort=pd.name&order=ASC) for $25.00

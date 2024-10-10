@@ -15,4 +15,3 @@ title: Blasphemy - Fallen Angel of Doom....
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=56447&sort=pd.name&order=ASC) for $25.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=56448&sort=pd.name&order=ASC) for $25.00

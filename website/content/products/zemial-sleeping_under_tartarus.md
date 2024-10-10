@@ -4,7 +4,7 @@ album: Sleeping Under Tartarus
 artist: Zemial
 categories:
 - Vinyl
-date: '2024-08-13T05:25:27'
+date: '2024-10-10T05:26:37'
 draft: false
 images:
 - /images/covers/zemial-sleeping_under_tartarus.jpg
@@ -14,4 +14,4 @@ title: Zemial - Sleeping Under Tartarus
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=54114&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=56563&sort=pd.name&order=ASC) for $25.00
