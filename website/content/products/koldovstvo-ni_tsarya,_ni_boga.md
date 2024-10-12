@@ -1,5 +1,5 @@
 ---
-actualPrice: $21.00 - 25.00
+actualPrice: $25.00
 album: Ni Tsarya, Ni Boga
 artist: Koldovstvo
 categories:
@@ -15,4 +15,3 @@ title: Koldovstvo - Ni Tsarya, Ni Boga
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=23818&sort=pd.name&order=ASC) for $25.00
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/koldovstvo-ni-tsarya-ni-boga-lp) for $21.00 :: Gold/Purple 3rd press vinyl

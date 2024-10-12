@@ -5,7 +5,7 @@ artist: Acathexis
 categories:
 - Vinyl
 - CD
-date: '2024-09-12T05:37:42'
+date: '2024-05-03T05:14:40'
 draft: false
 images:
 - /images/covers/acathexis-immerse.jpg
@@ -16,6 +16,5 @@ title: Acathexis - Immerse
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=48976&sort=pd.name&order=ASC) for $25.00
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/acathexis-immerse-lp) for $24.00 :: Color 2024 press vinyl
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=48977&sort=pd.name&order=ASC) for $15.00
