@@ -1,10 +1,10 @@
 ---
-actualPrice: $13.00
+actualPrice: $27.00
 album: Hypocrisis Absolution
 artist: Malignament
 categories:
-- CD
-date: '2024-07-09T13:44:36'
+- Vinyl
+date: '2021-10-06T05:10:19'
 draft: false
 images:
 - /images/covers/malignament-hypocrisis_absolution.jpg
@@ -13,5 +13,5 @@ thumbnailImage: /images/covers/malignament-hypocrisis_absolution-thumb.jpg
 title: Malignament - Hypocrisis Absolution
 ---
 
-## CD
-* Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/malignament-hypocrisis-absolution-cd/) for $13.00
+## Vinyl
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/malignament-hypocrisis-absolution-lp) for $27.00 :: Black 2021 press vinyl

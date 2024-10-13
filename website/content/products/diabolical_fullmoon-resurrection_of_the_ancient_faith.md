@@ -1,10 +1,9 @@
 ---
-actualPrice: $13.00 - 27.00
+actualPrice: $27.00
 album: Resurrection of the Ancient Faith
 artist: Diabolical Fullmoon
 categories:
 - Vinyl
-- Cassette
 date: '2024-10-11T05:25:31'
 draft: false
 images:
@@ -16,5 +15,3 @@ title: Diabolical Fullmoon - Resurrection of the Ancient Faith
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=56611&sort=pd.name&order=ASC) for $27.00
-## Cassette
-* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/diabolical-fullmoon-resurrection-of-the-ancient-faith-tape-restock) for $13.00

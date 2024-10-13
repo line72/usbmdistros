@@ -1,5 +1,5 @@
 ---
-actualPrice: $25.00
+actualPrice: $25.00 - 27.00
 album: Antichrist Rise To Power
 artist: Departure Chandelier
 categories:
@@ -14,4 +14,5 @@ title: Departure Chandelier - Antichrist Rise To Power
 ---
 
 ## Vinyl
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/departure-chandelier-antichrist-rise-to-power-lp) for $27.00 :: Color 2023 press vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=55324&sort=pd.name&order=ASC) for $25.00
