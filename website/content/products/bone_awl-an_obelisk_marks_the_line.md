@@ -1,5 +1,5 @@
 ---
-actualPrice: $20.00
+actualPrice: $20.00 - 25.00
 album: An Obelisk Marks The Line
 artist: Bone Awl
 categories:
@@ -15,3 +15,4 @@ title: Bone Awl - An Obelisk Marks The Line
 
 ## Vinyl
 * Purchase from [CW Productions](https://shop.cwproductions.net/products/bone-awl-an-obelisk-marks-the-line-lp-2nd-press) for $20.00 :: (2nd press)
+* Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/bone-awl-an-obelisk-marks-the-line-12-lp/) for $25.00

@@ -1,5 +1,5 @@
 ---
-actualPrice: $10.00
+actualPrice: $10.00 - 12.00
 album: Slavonic Thunder
 artist: Dark Fury
 categories:
@@ -15,3 +15,4 @@ title: Dark Fury - Slavonic Thunder
 
 ## CD
 * Purchase from [CW Productions](https://shop.cwproductions.net/products/dark-fury-slavonic-thunder-cd) for $10.00
+* Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/dark-fury-slavonic-thunder-digipak-cd/) for $12.00

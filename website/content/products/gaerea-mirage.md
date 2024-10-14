@@ -1,5 +1,5 @@
 ---
-actualPrice: $35.00 - 39.00
+actualPrice: $35.00
 album: Mirage
 artist: Gaerea
 categories:
@@ -15,4 +15,3 @@ title: Gaerea - Mirage
 
 ## Vinyl
 * Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/gaerea-mirage-double-lp-gatefold-clear-limited-to-300) for $35.00 :: double lp gatefold - clear, limited to 300!
-* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/gaerea-mirage-double-lp-gatefold-clear-white-marbled-limited-to-300) for $39.00 :: double lp gatefold - clear/white marbled vinyl dlp

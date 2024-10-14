@@ -15,3 +15,4 @@ title: Udegste - Zwartmagische Brouwsels
 
 ## CD
 * Purchase from [CW Productions](https://shop.cwproductions.net/products/udegste-zwartmagische-brouwsels-cd) for $12.00
+* Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/udegste-zwartmagische-brouwsels-cd/) for $12.00
