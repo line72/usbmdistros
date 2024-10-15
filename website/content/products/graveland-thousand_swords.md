@@ -1,10 +1,9 @@
 ---
-actualPrice: $15.00 - 25.00
+actualPrice: $25.00
 album: Thousand Swords
 artist: Graveland
 categories:
 - Vinyl
-- CD
 date: '2024-10-08T05:34:08'
 draft: false
 images:
@@ -16,5 +15,3 @@ title: Graveland - Thousand Swords
 
 ## Vinyl
 * Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/graveland-thousand-swords-12-lp/) for $25.00
-## CD
-* Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/graveland-thousand-swords-cd/) for $15.00

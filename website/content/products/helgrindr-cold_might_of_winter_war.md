@@ -4,7 +4,7 @@ album: Cold Might Of Winter War
 artist: Helgrindr
 categories:
 - Vinyl
-date: '2024-10-06T05:02:26'
+date: '2024-10-15T05:02:12'
 draft: false
 images:
 - /images/covers/helgrindr-cold_might_of_winter_war.png

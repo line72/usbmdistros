@@ -1,5 +1,5 @@
 ---
-actualPrice: $27.00 - 28.00
+actualPrice: $28.00
 album: Ludost i Omraza
 artist: Smyrtonos
 categories:
@@ -14,5 +14,4 @@ title: Smyrtonos - Ludost i Omraza
 ---
 
 ## Vinyl
-* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/smyrtonos-ludost-i-omraza-12-lp) for $27.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=52616&sort=pd.name&order=ASC) for $28.00

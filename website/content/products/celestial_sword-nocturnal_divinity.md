@@ -5,7 +5,7 @@ artist: Celestial Sword
 categories:
 - Vinyl
 - CD
-date: '2024-07-09T14:09:43'
+date: '2024-10-15T05:02:16'
 draft: false
 images:
 - /images/covers/celestial_sword-nocturnal_divinity.jpg

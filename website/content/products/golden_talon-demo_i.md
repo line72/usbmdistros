@@ -4,7 +4,7 @@ album: Demo I
 artist: Golden Talon
 categories:
 - Vinyl
-date: '2024-07-09T00:39:53'
+date: '2024-10-15T05:02:21'
 draft: false
 images:
 - /images/covers/golden_talon-demo_i.jpg
