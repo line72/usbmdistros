@@ -5,7 +5,7 @@ artist: Tormentador
 categories:
 - Vinyl
 - CD
-date: '2024-06-06T05:15:41'
+date: '2024-10-17T05:27:07'
 draft: false
 images:
 - /images/covers/tormentador-morte_negra.jpg
@@ -18,4 +18,4 @@ title: Tormentador - Morte Negra
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=50836&sort=pd.name&order=ASC) for $25.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=50835&sort=pd.name&order=ASC) for $12.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=50837&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=56726&sort=pd.name&order=ASC) for $12.00

@@ -4,7 +4,7 @@ album: Black Seared Heart
 artist: Gehenna
 categories:
 - Vinyl
-date: '2024-07-29T05:30:51'
+date: '2024-10-17T05:24:49'
 draft: false
 images:
 - /images/covers/gehenna-black_seared_heart.jpg
@@ -14,4 +14,4 @@ title: Gehenna - Black Seared Heart
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=52636&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=56673&sort=pd.name&order=ASC) for $25.00

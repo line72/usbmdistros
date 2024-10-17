@@ -4,7 +4,7 @@ album: Blood & Valour
 artist: Bestial Warlust
 categories:
 - Vinyl
-date: '2024-07-18T05:21:55'
+date: '2024-10-17T05:24:29'
 draft: false
 images:
 - /images/covers/bestial_warlust-blood_&_valour.jpg
@@ -14,4 +14,4 @@ title: Bestial Warlust - Blood & Valour
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=52230&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=56793&sort=pd.name&order=ASC) for $25.00

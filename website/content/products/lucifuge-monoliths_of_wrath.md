@@ -4,7 +4,7 @@ album: Monoliths of Wrath
 artist: Lucifuge
 categories:
 - Vinyl
-date: '2024-05-03T05:13:42'
+date: '2024-10-17T05:25:04'
 draft: false
 images:
 - /images/covers/lucifuge-monoliths_of_wrath.jpg
@@ -14,4 +14,4 @@ title: Lucifuge - Monoliths of Wrath
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=40095&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=56773&sort=pd.name&order=ASC) for $25.00

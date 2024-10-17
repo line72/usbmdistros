@@ -4,7 +4,7 @@ album: 3 X
 artist: BLACK DEATH
 categories:
 - Vinyl
-date: '2024-08-08T05:21:47'
+date: '2024-10-17T05:24:30'
 draft: false
 images:
 - /images/covers/black_death-3_x.jpg
@@ -14,4 +14,4 @@ title: BLACK DEATH - 3 X
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=53453&sort=pd.name&order=ASC) for $40.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=56715&sort=pd.name&order=ASC) for $40.00

@@ -4,7 +4,7 @@ album: Aquelarre
 artist: Hadez
 categories:
 - Vinyl
-date: '2024-08-19T05:30:55'
+date: '2024-10-17T05:24:53'
 draft: false
 images:
 - /images/covers/hadez-aquelarre.jpg
@@ -14,4 +14,4 @@ title: Hadez - Aquelarre
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=54556&sort=pd.name&order=ASC) for $35.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=56756&sort=pd.name&order=ASC) for $35.00

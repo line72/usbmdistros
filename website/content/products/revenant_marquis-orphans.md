@@ -4,7 +4,7 @@ album: Orphans
 artist: Revenant Marquis
 categories:
 - CD
-date: '2024-05-03T05:15:23'
+date: '2024-10-17T05:26:57'
 draft: false
 images:
 - /images/covers/revenant_marquis-orphans.jpg
@@ -14,4 +14,4 @@ title: Revenant Marquis - Orphans
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=26607&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=56746&sort=pd.name&order=ASC) for $15.00

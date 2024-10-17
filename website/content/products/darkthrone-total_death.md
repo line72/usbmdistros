@@ -4,7 +4,7 @@ album: Total Death
 artist: Darkthrone
 categories:
 - Vinyl
-date: '2024-07-18T05:22:04'
+date: '2024-10-17T05:24:39'
 draft: false
 images:
 - /images/covers/darkthrone-total_death.jpg
@@ -14,4 +14,4 @@ title: Darkthrone - Total Death
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=52210&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=56732&sort=pd.name&order=ASC) for $25.00

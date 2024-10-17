@@ -4,7 +4,7 @@ album: Fire and Steel
 artist: Flames of Hell
 categories:
 - Vinyl
-date: '2024-09-15T05:24:26'
+date: '2024-10-17T05:24:46'
 draft: false
 images:
 - /images/covers/flames_of_hell-fire_and_steel.png
@@ -14,4 +14,4 @@ title: Flames of Hell - Fire and Steel
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=55636&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=56705&sort=pd.name&order=ASC) for $25.00

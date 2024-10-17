@@ -4,7 +4,7 @@ album: Are You Morbid?
 artist: Celtic Frost
 categories:
 - Vinyl
-date: '2024-08-09T05:23:47'
+date: '2024-10-17T05:24:35'
 draft: false
 images:
 - /images/covers/celtic_frost-are_you_morbid?.jpg
@@ -14,4 +14,4 @@ title: Celtic Frost - Are You Morbid?
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=53627&sort=pd.name&order=ASC) for $40.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=56698&sort=pd.name&order=ASC) for $40.00
