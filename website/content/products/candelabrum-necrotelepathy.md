@@ -4,7 +4,7 @@ album: Necrotelepathy
 artist: Candelabrum
 categories:
 - Vinyl
-date: '2024-09-02T05:33:39'
+date: '2024-10-18T05:24:08'
 draft: false
 images:
 - /images/covers/candelabrum-necrotelepathy.jpg
@@ -15,4 +15,4 @@ title: Candelabrum - Necrotelepathy
 
 ## Vinyl
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/candelabrum-necrotelepathy-12-lp) for $25.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=55049&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=56898&sort=pd.name&order=ASC) for $25.00

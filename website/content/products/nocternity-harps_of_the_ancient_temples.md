@@ -4,7 +4,7 @@ album: Harps Of The Ancient Temples
 artist: Nocternity
 categories:
 - Vinyl
-date: '2024-08-16T05:25:17'
+date: '2024-10-18T05:24:49'
 draft: false
 images:
 - /images/covers/nocternity-harps_of_the_ancient_temples.jpg
@@ -14,4 +14,4 @@ title: Nocternity - Harps Of The Ancient Temples
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=54295&sort=pd.name&order=ASC) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=56844&sort=pd.name&order=ASC) for $30.00

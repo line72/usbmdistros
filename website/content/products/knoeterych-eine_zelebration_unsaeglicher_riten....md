@@ -4,7 +4,7 @@ album: Eine Zelebration Unsaeglicher Riten...
 artist: Knoeterych
 categories:
 - CD
-date: '2024-08-09T05:25:56'
+date: '2024-10-18T05:26:12'
 draft: false
 images:
 - /images/covers/knoeterych-eine_zelebration_unsaeglicher_riten....jpg
@@ -14,4 +14,4 @@ title: Knoeterych - Eine Zelebration Unsaeglicher Riten...
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=53670&sort=pd.name&order=ASC) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=56862&sort=pd.name&order=ASC) for $30.00

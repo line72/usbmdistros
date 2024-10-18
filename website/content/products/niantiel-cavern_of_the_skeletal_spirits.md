@@ -4,7 +4,7 @@ album: Cavern of the Skeletal Spirits
 artist: Niantiel
 categories:
 - Vinyl
-date: '2024-09-19T05:24:42'
+date: '2024-10-18T05:24:49'
 draft: false
 images:
 - /images/covers/niantiel-cavern_of_the_skeletal_spirits.jpg
@@ -14,4 +14,4 @@ title: Niantiel - Cavern of the Skeletal Spirits
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=56001&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=56879&sort=pd.name&order=ASC) for $25.00

@@ -4,7 +4,7 @@ album: Abjection
 artist: Vox Clamantis
 categories:
 - Vinyl
-date: '2024-09-17T05:24:02'
+date: '2024-10-18T05:25:17'
 draft: false
 images:
 - /images/covers/vox_clamantis-abjection.jpg
@@ -14,4 +14,4 @@ title: Vox Clamantis - Abjection
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=55894&sort=pd.name&order=ASC) for $27.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=56856&sort=pd.name&order=ASC) for $27.00
