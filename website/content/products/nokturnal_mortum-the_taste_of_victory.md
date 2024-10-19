@@ -14,5 +14,4 @@ title: Nokturnal Mortum - The Taste of Victory
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=55945&sort=pd.name&order=ASC) for $25.00
 * Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/nokturnal-mortum-the-taste-of-victory-12-gatefold-lp-ukraine-edition/) for $25.00 :: gatefold lp ukraine edition

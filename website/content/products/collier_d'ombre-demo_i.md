@@ -14,5 +14,4 @@ title: Collier D'Ombre - Demo I
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=44061&sort=pd.name&order=ASC) for $27.00
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/collier-d-ombre-demo-i-12-lp) for $27.00
