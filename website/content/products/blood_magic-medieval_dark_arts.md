@@ -1,5 +1,5 @@
 ---
-actualPrice: $20.00 - 25.00
+actualPrice: $25.00
 album: Medieval Dark Arts
 artist: Blood Magic
 categories:
@@ -14,5 +14,4 @@ title: Blood Magic - Medieval Dark Arts
 ---
 
 ## Vinyl
-* Purchase from [Sto'Vo'Kor Records](https://stovokor-records.com/products/blood-magic-medieval-dark-arts) for $20.00
 * Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/blood-magic-medieval-dark-arts-vinyl-lp) for $25.00

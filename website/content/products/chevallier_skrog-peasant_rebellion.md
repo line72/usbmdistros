@@ -15,7 +15,6 @@ title: Chevallier Skrog - Peasant Rebellion
 ---
 
 ## Vinyl
-* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/chevallier-skrog-peasant-rebellion-12-lp) for $26.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=50130&sort=pd.name&order=ASC) for $27.00
 ## Cassette
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/used-chevallier-skrog-peasant-rebellion-cassette) for $12.00 :: Cassette 2022
