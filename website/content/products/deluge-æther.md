@@ -1,5 +1,5 @@
 ---
-actualPrice: $29.00
+actualPrice: $29.00 - 31.00
 album: "\xC6ther"
 artist: Deluge
 categories:
@@ -15,3 +15,4 @@ title: "Deluge - \xC6ther"
 
 ## Vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/deluge-aether-2xlp) for $29.00 :: Gold/Black Marbled 2021 press
+* Purchase from [Sto'Vo'Kor Records](https://stovokor-records.com/products/deluge-aether) for $31.00

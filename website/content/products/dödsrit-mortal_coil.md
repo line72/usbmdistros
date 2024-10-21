@@ -1,5 +1,5 @@
 ---
-actualPrice: $34.00
+actualPrice: $26.00 - 34.00
 album: Mortal Coil
 artist: "D\xF6dsrit"
 categories:
@@ -14,4 +14,5 @@ title: "D\xF6dsrit - Mortal Coil"
 ---
 
 ## Vinyl
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/dodsrit-mortal-coil-12-lp) for $26.00
 * Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/dodsrit-mortal-coil-limited-purple-vinyl-w-obi-strip-lp) for $34.00 :: limited purple vinyl w/ obi strip lp

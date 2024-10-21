@@ -4,7 +4,7 @@ album: Demo I
 artist: Collier D'Ombre
 categories:
 - Vinyl
-date: '2024-05-03T05:13:17'
+date: '2024-07-09T00:39:55'
 draft: false
 images:
 - /images/covers/collier_d'ombre-demo_i.png
@@ -15,3 +15,4 @@ title: Collier D'Ombre - Demo I
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=44061&sort=pd.name&order=ASC) for $27.00
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/collier-d-ombre-demo-i-12-lp) for $27.00
