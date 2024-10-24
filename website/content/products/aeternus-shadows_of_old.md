@@ -4,7 +4,7 @@ album: Shadows Of Old
 artist: Aeternus
 categories:
 - Vinyl
-date: '2024-10-20T05:23:10'
+date: '2024-10-24T05:24:56'
 draft: false
 images:
 - /images/covers/aeternus-shadows_of_old.jpg
@@ -14,4 +14,4 @@ title: Aeternus - Shadows Of Old
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=56959&sort=pd.name&order=ASC) for $27.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=57107&sort=pd.name&order=ASC) for $27.00

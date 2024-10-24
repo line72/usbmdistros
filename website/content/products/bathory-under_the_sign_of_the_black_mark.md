@@ -1,5 +1,5 @@
 ---
-actualPrice: $31.99
+actualPrice: $30.00 - 31.99
 album: Under The Sign Of The Black Mark
 artist: Bathory
 categories:
@@ -14,4 +14,5 @@ title: Bathory - Under The Sign Of The Black Mark
 ---
 
 ## Vinyl
+* Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/bathory-under-the-sign-of-the-black-mark-vinyl-lp-official-pressing) for $30.00 :: (official pressing)
 * Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/bathory-under-the-sign-of-the-black-mark-vinyl-lp) for $31.99 :: vinyl lp

@@ -5,7 +5,7 @@ artist: "H\xE4xenzijrkell"
 categories:
 - Vinyl
 - CD
-date: '2024-10-20T05:25:43'
+date: '2024-10-24T05:25:26'
 draft: false
 images:
 - "/images/covers/h\xE4xenzijrkell-portal.jpg"
@@ -15,6 +15,6 @@ title: "H\xE4xenzijrkell - Portal"
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=56942&sort=pd.name&order=ASC) for $27.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=57112&sort=pd.name&order=ASC) for $27.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=56941&sort=pd.name&order=ASC) for $15.00

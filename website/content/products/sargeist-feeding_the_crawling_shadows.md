@@ -4,7 +4,7 @@ album: Feeding the Crawling Shadows
 artist: Sargeist
 categories:
 - Vinyl
-date: '2024-09-04T05:24:29'
+date: '2024-10-24T05:25:58'
 draft: false
 images:
 - /images/covers/sargeist-feeding_the_crawling_shadows.jpg
@@ -14,4 +14,4 @@ title: Sargeist - Feeding the Crawling Shadows
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=55145&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=57040&sort=pd.name&order=ASC) for $25.00

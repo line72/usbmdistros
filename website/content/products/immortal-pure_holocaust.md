@@ -5,7 +5,7 @@ artist: Immortal
 categories:
 - Vinyl
 - CD
-date: '2024-10-10T05:25:44'
+date: '2024-10-24T05:27:01'
 draft: false
 images:
 - /images/covers/immortal-pure_holocaust.jpg
@@ -21,4 +21,4 @@ title: Immortal - Pure Holocaust
 * Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/immortal-pure-holocaust-half-half-red-blue-splatter-limited-color-vinyl) for $34.99 :: half/half red & blue splatter limited color vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=56562&sort=pd.name&order=ASC) for $25.00
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=55363&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=57186&sort=pd.name&order=ASC) for $15.00

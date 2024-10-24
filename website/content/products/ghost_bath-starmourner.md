@@ -15,6 +15,7 @@ title: GHOST BATH - Starmourner
 ---
 
 ## Vinyl
+* Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/ghost-bath-starmourner-vinyl-2xlp-deluxe-color-gatefold-poster-sticker-2-inserts) for $29.99 :: deluxe (color, gatefold, poster, sticker, 2 inserts)
 * Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/ghost-bath-starmourner-eu-version-2lp-silver-vinyl-dlp) for $29.99 :: *eu version* 2lp silver vinyl dlp
 ## Cassette
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/used-ghost-bath-starmourner-2xlp) for $20.00 :: Purple 2017 press vinyl

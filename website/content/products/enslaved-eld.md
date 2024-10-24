@@ -4,7 +4,7 @@ album: Eld
 artist: Enslaved
 categories:
 - Vinyl
-date: '2024-10-20T05:23:56'
+date: '2024-10-24T05:25:17'
 draft: false
 images:
 - /images/covers/enslaved-eld.jpg
@@ -15,4 +15,4 @@ title: Enslaved - Eld
 
 ## Vinyl
 * Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/enslaved-eld-gold-black-marbled-vinyl-2-lp-ltd-to-600) for $35.00 :: gold/black marbled vinyl 2 lp *ltd to 600*
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=56963&sort=pd.name&order=ASC) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=57156&sort=pd.name&order=ASC) for $30.00

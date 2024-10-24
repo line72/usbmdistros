@@ -1,10 +1,10 @@
 ---
-actualPrice: $8.00
+actualPrice: $5.00
 album: Nihilistic Stench
 artist: Nadiwrath
 categories:
 - Vinyl
-date: '2024-05-03T05:13:50'
+date: '2024-10-24T05:25:44'
 draft: false
 images:
 - /images/covers/nadiwrath-nihilistic_stench.jpg
@@ -14,4 +14,4 @@ title: Nadiwrath - Nihilistic Stench
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=40185&sort=pd.name&order=ASC) for $8.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=57174&sort=pd.name&order=ASC) for $5.00

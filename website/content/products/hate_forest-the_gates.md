@@ -4,7 +4,7 @@ album: The Gates
 artist: Hate Forest
 categories:
 - CD
-date: '2024-05-03T05:15:00'
+date: '2024-10-24T05:26:58'
 draft: false
 images:
 - /images/covers/hate_forest-the_gates.png
@@ -14,4 +14,4 @@ title: Hate Forest - The Gates
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=49011&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=57215&sort=pd.name&order=ASC) for $12.00

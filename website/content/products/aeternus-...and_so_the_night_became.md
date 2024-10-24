@@ -4,7 +4,7 @@ album: '...And So The Night Became'
 artist: Aeternus
 categories:
 - Vinyl
-date: '2024-10-20T05:23:09'
+date: '2024-10-24T05:24:56'
 draft: false
 images:
 - /images/covers/aeternus-...and_so_the_night_became.jpg
@@ -14,4 +14,4 @@ title: Aeternus - ...And So The Night Became
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=56957&sort=pd.name&order=ASC) for $35.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=57105&sort=pd.name&order=ASC) for $35.00
