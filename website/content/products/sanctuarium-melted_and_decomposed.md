@@ -4,7 +4,7 @@ album: Melted And Decomposed
 artist: Sanctuarium
 categories:
 - Vinyl
-date: '2024-10-24T05:25:58'
+date: '2024-10-25T05:25:52'
 draft: false
 images:
 - /images/covers/sanctuarium-melted_and_decomposed.jpg
@@ -14,4 +14,4 @@ title: Sanctuarium - Melted And Decomposed
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=57178&sort=pd.name&order=ASC) for $27.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=57240&sort=pd.name&order=ASC) for $27.00

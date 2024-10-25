@@ -14,5 +14,4 @@ title: "Bek\xEBth Nex\xEBhm\xFC - 3 X"
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=56935&sort=pd.name&order=ASC) for $45.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=56936&sort=pd.name&order=ASC) for $45.00
