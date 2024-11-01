@@ -4,7 +4,7 @@ album: The Dark Embrace
 artist: Sargeist
 categories:
 - Vinyl
-date: '2024-09-01T05:02:59'
+date: '2024-10-18T05:28:39'
 draft: false
 images:
 - /images/covers/sargeist-the_dark_embrace.jpg
@@ -15,3 +15,4 @@ title: Sargeist - The Dark Embrace
 
 ## Vinyl
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/sargeist-the-dark-embrace-7-ep) for $13.00
+* Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/sargeist-the-dark-embrace-7-ep-red/) for $13.00 :: ep red

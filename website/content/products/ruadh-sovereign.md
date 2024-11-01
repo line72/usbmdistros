@@ -1,5 +1,5 @@
 ---
-actualPrice: $27.99 - 41.99
+actualPrice: $41.99
 album: Sovereign
 artist: RUADH
 categories:
@@ -14,5 +14,4 @@ title: RUADH - Sovereign
 ---
 
 ## Vinyl
-* Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/ruadh-sovereign-vinyl-2xlp-color-gatefold-lim-199) for $27.99 :: (color, gatefold, lim. 199)
 * Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/ruadh-sovereign-2lp-sky-blue-vinyl-dlp) for $41.99 :: 2lp sky-blue vinyl dlp

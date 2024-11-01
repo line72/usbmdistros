@@ -5,7 +5,6 @@ artist: Emyn Muil
 categories:
 - Vinyl
 - Cassette
-- CD
 date: '2024-07-09T14:10:10'
 draft: false
 images:
@@ -21,5 +20,3 @@ title: Emyn Muil - Elenion Ancalima
 ## Cassette
 * Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/emyn-muil-elenion-ancalima-pro-tape) for $8.50
 * Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/emyn-muil-elenion-ancalima-cassette-tape-uv-all-over-print-edition) for $12.00
-## CD
-* Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/emyn-muil-elenion-ancalima-cd) for $14.00

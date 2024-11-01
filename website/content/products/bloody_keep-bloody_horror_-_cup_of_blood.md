@@ -14,5 +14,4 @@ title: Bloody Keep - Bloody Horror / Cup Of Blood
 ---
 
 ## Vinyl
-* Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/bloody-keep-bloody-horror-cup-of-blood-vinyl-lp-180g) for $30.00 :: (180g)
 * Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/bloody-keep-bloody-horror-cup-of-blood-vinyl-lp-2-color-options-180g) for $30.00 :: (2 color options, 180g)

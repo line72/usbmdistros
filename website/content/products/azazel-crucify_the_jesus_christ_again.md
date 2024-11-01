@@ -1,5 +1,5 @@
 ---
-actualPrice: $25.00 - 30.00
+actualPrice: $25.00
 album: Crucify the Jesus Christ Again
 artist: Azazel
 categories:
@@ -14,5 +14,4 @@ title: Azazel - Crucify the Jesus Christ Again
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=56823&sort=pd.name&order=ASC) for $30.00
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/azazel-crucify-the-jesus-christ-again-12-lp) for $25.00

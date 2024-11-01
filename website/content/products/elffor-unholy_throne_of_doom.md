@@ -1,10 +1,9 @@
 ---
-actualPrice: $13.00 - 20.00
+actualPrice: $20.00
 album: Unholy Throne of Doom
 artist: Elffor
 categories:
 - Vinyl
-- CD
 date: '2024-09-10T05:48:46'
 draft: false
 images:
@@ -16,5 +15,3 @@ title: Elffor - Unholy Throne of Doom
 
 ## Vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/used-elffor-unholy-throne-of-doom-lp) for $20.00 :: Galaxy 2020 press vinyl
-## CD
-* Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/elffor-unholy-throne-of-doom-cd) for $13.00
