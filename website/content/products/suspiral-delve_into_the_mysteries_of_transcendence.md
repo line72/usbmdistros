@@ -1,10 +1,10 @@
 ---
-actualPrice: $29.00
+actualPrice: $8.00 - 29.00
 album: Delve Into The Mysteries Of Transcendence
 artist: Suspiral
 categories:
 - Vinyl
-date: '2024-07-11T05:35:31'
+date: '2024-11-02T05:26:26'
 draft: false
 images:
 - /images/covers/suspiral-delve_into_the_mysteries_of_transcendence.jpg
@@ -14,4 +14,5 @@ title: Suspiral - Delve Into The Mysteries Of Transcendence
 ---
 
 ## Vinyl
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=39541&sort=pd.name&order=ASC) for $8.00
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/suspiral-delve-into-the-mysteries-of-transcendence-lp) for $29.00 :: Clear Smoke 1st press vinyl
