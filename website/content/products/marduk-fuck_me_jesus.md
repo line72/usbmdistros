@@ -19,6 +19,5 @@ title: Marduk - Fuck Me Jesus
 * Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/marduk-fuck-me-jesus-marble-vinyl-lp) for $25.99 :: marble vinyl lp
 * Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/marduk-fuck-me-jesus-yellow-marble-vinyl-lp) for $24.99 :: yellow marble vinyl lp
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=54320&sort=pd.name&order=ASC) for $20.00
-* Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/marduk-fuck-me-jesus-12-lp-marble/) for $25.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=35003&sort=pd.name&order=ASC) for $12.00
