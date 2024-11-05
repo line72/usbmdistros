@@ -1,9 +1,8 @@
 ---
-actualPrice: $12.99 - 14.99
+actualPrice: $14.99
 album: "Endlh\xEBton\xEBg"
 artist: "Trh\xE4"
 categories:
-- Cassette
 - CD
 date: '2024-09-18T05:51:43'
 draft: false
@@ -14,7 +13,5 @@ thumbnailImage: "/images/covers/trh\xE4-endlh\xEBton\xEBg-thumb.jpg"
 title: "Trh\xE4 - Endlh\xEBton\xEBg"
 ---
 
-## Cassette
-* Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/trha-endlhetoneg-cassette-tape-lim-100-uv-print-shell) for $12.99
 ## CD
 * Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/trha-endlhetoneg-cd-digipak) for $14.99 :: [digipak]

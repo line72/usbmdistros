@@ -1,5 +1,5 @@
 ---
-actualPrice: $25.00 - 30.00
+actualPrice: $25.00
 album: Erevothen
 artist: Zofos
 categories:
@@ -14,5 +14,4 @@ title: Zofos - Erevothen
 ---
 
 ## Vinyl
-* Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/zofos-erevothen-12-lp/) for $30.00
 * Purchase from [CW Productions](https://shop.cwproductions.net/products/zofos-erevothen-lp-2) for $25.00
