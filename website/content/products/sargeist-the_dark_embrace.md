@@ -14,5 +14,4 @@ title: Sargeist - The Dark Embrace
 ---
 
 ## Vinyl
-* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/sargeist-the-dark-embrace-7-ep) for $13.00
 * Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/sargeist-the-dark-embrace-7-ep-red/) for $13.00 :: ep red

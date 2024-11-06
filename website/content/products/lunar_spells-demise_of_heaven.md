@@ -4,7 +4,7 @@ album: Demise of Heaven
 artist: Lunar Spells
 categories:
 - Cassette
-date: '2024-07-09T00:40:24'
+date: '2024-11-02T05:28:36'
 draft: false
 images:
 - /images/covers/lunar_spells-demise_of_heaven.jpg
@@ -14,4 +14,4 @@ title: Lunar Spells - Demise of Heaven
 ---
 
 ## Cassette
-* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/lunar-spells-demise-of-heaven-tape) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=55047&sort=pd.name&order=ASC) for $12.00
