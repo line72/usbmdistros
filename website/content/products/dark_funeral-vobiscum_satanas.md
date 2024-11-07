@@ -4,8 +4,7 @@ album: Vobiscum Satanas
 artist: Dark Funeral
 categories:
 - Vinyl
-- CD
-date: '2024-11-02T05:27:11'
+date: '2023-09-20T05:00:52'
 draft: false
 images:
 - /images/covers/dark_funeral-vobiscum_satanas.jpg
@@ -16,6 +15,3 @@ title: Dark Funeral - Vobiscum Satanas
 
 ## Vinyl
 * Purchase from [Sto'Vo'Kor Records](https://stovokor-records.com/products/dark-funeral-vobiscum-satanas) for $20.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=56932&sort=pd.name&order=ASC) for $20.00
-## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=50779&sort=pd.name&order=ASC) for $20.00

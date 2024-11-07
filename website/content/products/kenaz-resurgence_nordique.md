@@ -1,10 +1,10 @@
 ---
-actualPrice: $8.00 - 10.00
+actualPrice: $10.00
 album: Resurgence Nordique
 artist: Kenaz
 categories:
 - CD
-date: '2024-11-02T05:27:34'
+date: '2024-07-09T13:44:35'
 draft: false
 images:
 - /images/covers/kenaz-resurgence_nordique.png
@@ -14,5 +14,4 @@ title: Kenaz - Resurgence Nordique
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=40991&sort=pd.name&order=ASC) for $8.00
 * Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/kenaz-resurgence-nordique-cd/) for $10.00
