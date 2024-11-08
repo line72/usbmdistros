@@ -1,0 +1,20 @@
+---
+actualPrice: $12.00 - 20.00
+album: Kadotuksen Harmonia
+artist: Infernarium
+categories:
+- Vinyl
+- CD
+date: '2024-11-02T05:27:30'
+draft: false
+images:
+- /images/covers/infernarium-kadotuksen_harmonia.png
+inStock: true
+thumbnailImage: /images/covers/infernarium-kadotuksen_harmonia-thumb.png
+title: Infernarium - Kadotuksen Harmonia
+---
+
+## Vinyl
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=19970&sort=pd.name&order=ASC) for $20.00
+## CD
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=19966&sort=pd.name&order=ASC) for $12.00

@@ -1,5 +1,5 @@
 ---
-actualPrice: $13.00 - 28.00
+actualPrice: $13.00 - 23.00
 album: Caustic
 artist: Primitive Man
 categories:
@@ -15,7 +15,6 @@ title: Primitive Man - Caustic
 ---
 
 ## Vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/primitive-man-caustic-2xlp) for $28.00 :: Black-In-Clear 2023 press
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/used-primitive-man-caustic-2xlp) for $23.00 :: Black 2017 press vinyl
 ## CD
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/primitive-man-caustic-cd) for $13.00 :: Jewel Case 2017 (SEALED)

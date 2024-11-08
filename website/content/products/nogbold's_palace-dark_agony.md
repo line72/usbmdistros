@@ -1,5 +1,5 @@
 ---
-actualPrice: $28.00 - 30.00
+actualPrice: $30.00
 album: Dark Agony
 artist: Nogbold's Palace
 categories:
@@ -14,5 +14,4 @@ title: Nogbold's Palace - Dark Agony
 ---
 
 ## Vinyl
-* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/nogbold-s-palace-dark-agony-12-lp) for $28.00
 * Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/nogbolds-place-dark-agony-vinyl-lp) for $30.00

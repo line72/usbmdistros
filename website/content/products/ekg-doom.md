@@ -1,0 +1,17 @@
+---
+actualPrice: $16.25
+album: Doom
+artist: EKG
+categories:
+- Vinyl
+date: '2024-11-02T05:25:34'
+draft: false
+images:
+- /images/covers/ekg-doom.jpg
+inStock: true
+thumbnailImage: /images/covers/ekg-doom-thumb.jpg
+title: EKG - Doom
+---
+
+## Vinyl
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=8899&sort=pd.name&order=ASC) for $16.25

@@ -1,10 +1,11 @@
 ---
-actualPrice: $12.00
+actualPrice: $9.60 - 20.00
 album: Emptiness
 artist: Ohtar
 categories:
+- Vinyl
 - CD
-date: '2024-08-08T05:26:08'
+date: '2024-11-02T05:26:11'
 draft: false
 images:
 - /images/covers/ohtar-emptiness.png
@@ -13,5 +14,8 @@ thumbnailImage: /images/covers/ohtar-emptiness-thumb.png
 title: Ohtar - Emptiness
 ---
 
+## Vinyl
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=50250&sort=pd.name&order=ASC) for $9.60
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=50249&sort=pd.name&order=ASC) for $20.00
 ## CD
 * Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/ohtar-emptiness-cd/) for $12.00
