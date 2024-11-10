@@ -1,5 +1,5 @@
 ---
-actualPrice: $9.60 - 10.40
+actualPrice: $10.40
 album: Abrks Pentalfa Renfam
 artist: Indomitor
 categories:
@@ -14,5 +14,4 @@ title: Indomitor - Abrks Pentalfa Renfam
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=51840&sort=pd.name&order=ASC) for $9.60
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=55687&sort=pd.name&order=ASC) for $10.40
