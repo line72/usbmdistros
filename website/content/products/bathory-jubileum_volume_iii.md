@@ -1,5 +1,5 @@
 ---
-actualPrice: $28.00 - 37.00
+actualPrice: $28.00
 album: Jubileum Volume III
 artist: Bathory
 categories:
@@ -14,5 +14,4 @@ title: Bathory - Jubileum Volume III
 ---
 
 ## Vinyl
-* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/bathory-jubileum-volume-iii-vinyl-record-lp-official-pressing) for $37.00 :: (official pressing)
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=57030&sort=pd.name&order=ASC) for $28.00

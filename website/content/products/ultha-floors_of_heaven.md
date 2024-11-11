@@ -1,10 +1,10 @@
 ---
-actualPrice: $13.00 - 14.99
+actualPrice: $13.00
 album: Floors Of Heaven
 artist: Ultha
 categories:
 - Vinyl
-date: '2024-07-09T14:02:15'
+date: '2021-12-29T06:11:26'
 draft: false
 images:
 - /images/covers/ultha-floors_of_heaven.png
@@ -15,4 +15,3 @@ title: Ultha - Floors Of Heaven
 
 ## Vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/ultha-floors-of-heaven-8) for $13.00 :: Red 2021 press vinyl
-* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/ultha-floors-of-heaven-7-limited-red-vinyl) for $14.99 :: red vinyl

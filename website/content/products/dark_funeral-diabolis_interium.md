@@ -1,5 +1,5 @@
 ---
-actualPrice: $2.00 - 29.00
+actualPrice: $2.00 - 24.00
 album: Diabolis Interium
 artist: Dark Funeral
 categories:
@@ -15,7 +15,6 @@ title: Dark Funeral - Diabolis Interium
 ---
 
 ## Vinyl
-* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/dark-funeral-diabolis-interium-double-lp-gatefold-colored) for $29.00 :: double lp gatefold colored
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=56929&sort=pd.name&order=ASC) for $24.00
 ## CD
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/used-dark-funeral-diabolis-interium-cd) for $2.00 :: Jewel Case 2001

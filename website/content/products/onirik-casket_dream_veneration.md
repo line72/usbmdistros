@@ -1,10 +1,9 @@
 ---
-actualPrice: $10.00 - 14.40
+actualPrice: $14.40
 album: Casket Dream Veneration
 artist: Onirik
 categories:
 - Vinyl
-- Cassette
 date: '2024-11-02T05:26:12'
 draft: false
 images:
@@ -16,5 +15,3 @@ title: Onirik - Casket Dream Veneration
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=39756&sort=pd.name&order=ASC) for $14.40
-## Cassette
-* Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/onirik-casket-dream-veneration-cassette-tape-lim-150) for $10.00

@@ -1,5 +1,5 @@
 ---
-actualPrice: $12.00 - 27.00
+actualPrice: $12.00 - 20.00
 album: Battles In The North
 artist: Immortal
 categories:
@@ -15,8 +15,6 @@ title: Immortal - Battles In The North
 ---
 
 ## Vinyl
-* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/immortal-battles-in-the-north-lp-gatefold) for $26.99 :: lp gatefold
-* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/immortal-battles-in-the-north-limited-clear-white-vinyl-lp) for $27.00 :: limited clear/white vinyl lp
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=57387&sort=pd.name&order=ASC) for $20.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=57185&sort=pd.name&order=ASC) for $12.00

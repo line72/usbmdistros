@@ -1,5 +1,5 @@
 ---
-actualPrice: $12.00 - 29.00
+actualPrice: $12.00 - 20.00
 album: "Det F\xF6rtegna F\xF6rflutna"
 artist: "Blodt\xE5r"
 categories:
@@ -16,6 +16,5 @@ title: "Blodt\xE5r - Det F\xF6rtegna F\xF6rflutna"
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=32641&sort=pd.name&order=ASC) for $20.00
-* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/blodtar-det-fortegna-forflutna-vinyl-lp) for $29.00 :: vinyl lp
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=33627&sort=pd.name&order=ASC) for $12.00

@@ -1,5 +1,5 @@
 ---
-actualPrice: $20.00 - 33.00
+actualPrice: $20.00
 album: Arkaik III
 artist: Elffor
 categories:
@@ -15,4 +15,3 @@ title: Elffor - Arkaik III
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=51423&sort=pd.name&order=ASC) for $20.00
-* Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/elffor-arkaik-iii-vinyl-lp) for $33.00

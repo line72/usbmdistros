@@ -1,5 +1,5 @@
 ---
-actualPrice: $8.00 - 10.00
+actualPrice: $8.00
 album: Lascivo Culto Solar
 artist: Illapa
 categories:
@@ -15,4 +15,3 @@ title: Illapa - Lascivo Culto Solar
 
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=29344&sort=pd.name&order=ASC) for $8.00
-* Purchase from [CW Productions](https://shop.cwproductions.net/products/illapa-lascivo-culto-solar-cd) for $10.00

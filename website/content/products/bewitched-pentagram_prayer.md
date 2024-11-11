@@ -1,5 +1,5 @@
 ---
-actualPrice: $20.00 - 29.99
+actualPrice: $20.00
 album: Pentagram Prayer
 artist: Bewitched
 categories:
@@ -14,5 +14,4 @@ title: Bewitched - Pentagram Prayer
 ---
 
 ## Vinyl
-* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/bewitched-pentagram-prayer-bone-vinyl-lp) for $29.99 :: pentagram prayer - bone vinyl lp
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=47520&sort=pd.name&order=ASC) for $20.00

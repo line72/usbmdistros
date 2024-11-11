@@ -1,5 +1,5 @@
 ---
-actualPrice: $24.00 - 37.99
+actualPrice: $24.00
 album: In Abhorrence Dementia
 artist: Limbonic Art
 categories:
@@ -14,5 +14,4 @@ title: Limbonic Art - In Abhorrence Dementia
 ---
 
 ## Vinyl
-* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/limbonic-art-in-abhorrence-dementia-2lp-orange-purple-splatter-double-vinyl-lp-1) for $37.99 :: 2lp orange/purple splatter double vinyl lp
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=55778&sort=pd.name&order=ASC) for $24.00

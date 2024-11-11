@@ -1,9 +1,8 @@
 ---
-actualPrice: $10.40 - 18.00
+actualPrice: $10.40
 album: Alucinogeno
 artist: "Reencarnaci\xF3n"
 categories:
-- Vinyl
 - CD
 date: '2024-11-02T05:27:54'
 draft: false
@@ -14,7 +13,5 @@ thumbnailImage: "/images/covers/reencarnaci\xF3n-alucinogeno-thumb.jpg"
 title: "Reencarnaci\xF3n - Alucinogeno"
 ---
 
-## Vinyl
-* Purchase from [CW Productions](https://shop.cwproductions.net/products/reencarnacion-alucinogeno-lp) for $18.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=55726&sort=pd.name&order=ASC) for $10.40

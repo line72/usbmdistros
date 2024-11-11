@@ -1,5 +1,5 @@
 ---
-actualPrice: $28.00 - 28.99
+actualPrice: $28.00
 album: Ellenbogengesellschaft
 artist: Ellende
 categories:
@@ -14,5 +14,4 @@ title: Ellende - Ellenbogengesellschaft
 ---
 
 ## Vinyl
-* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/ellende-ellenbogengesellschaft-vinyl-lp) for $28.99 :: vinyl lp
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/ellende-ellenbogengesellschaft-lp) for $28.00 :: Black 2022 press vinyl

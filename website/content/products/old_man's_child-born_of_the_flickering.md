@@ -1,5 +1,5 @@
 ---
-actualPrice: $21.60 - 26.99
+actualPrice: $21.60
 album: Born of the Flickering
 artist: Old Man's Child
 categories:
@@ -14,5 +14,4 @@ title: Old Man's Child - Born of the Flickering
 ---
 
 ## Vinyl
-* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/old-mans-child-born-of-the-flickering-limited-purple-silver-vinyl-lp) for $26.99 :: limited purple/silver vinyl lp
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=56784&sort=pd.name&order=ASC) for $21.60

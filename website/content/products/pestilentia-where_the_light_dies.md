@@ -1,5 +1,5 @@
 ---
-actualPrice: $14.40 - 15.00
+actualPrice: $14.40
 album: Where the Light Dies
 artist: Pestilentia
 categories:
@@ -14,5 +14,4 @@ title: Pestilentia - Where the Light Dies
 ---
 
 ## Vinyl
-* Purchase from [CW Productions](https://shop.cwproductions.net/products/pestilentia-where-the-light-dies-lp) for $15.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=39661&sort=pd.name&order=ASC) for $14.40

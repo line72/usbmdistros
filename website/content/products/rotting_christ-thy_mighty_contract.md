@@ -1,9 +1,8 @@
 ---
-actualPrice: $12.00 - 41.99
+actualPrice: $12.00
 album: Thy Mighty Contract
 artist: Rotting Christ
 categories:
-- Vinyl
 - Cassette
 - CD
 date: '2024-11-08T06:26:40'
@@ -15,8 +14,6 @@ thumbnailImage: /images/covers/rotting_christ-thy_mighty_contract-thumb.jpg
 title: Rotting Christ - Thy Mighty Contract
 ---
 
-## Vinyl
-* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/rotting-christ-thy-mighty-contract-limited-double-red-black-vinyl-dlp-1) for $41.99 :: limited double red/black vinyl dlp
 ## Cassette
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=57604&sort=pd.name&order=ASC) for $12.00
 ## CD

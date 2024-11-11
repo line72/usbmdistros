@@ -1,5 +1,5 @@
 ---
-actualPrice: $21.60 - 24.99
+actualPrice: $21.60
 album: In The Shades of Life
 artist: Old Man's Child
 categories:
@@ -14,5 +14,4 @@ title: Old Man's Child - In The Shades of Life
 ---
 
 ## Vinyl
-* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/old-mans-child-in-the-shades-of-life-white-brown-vinyl-lp) for $24.99 :: white/brown vinyl lp
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=56785&sort=pd.name&order=ASC) for $21.60

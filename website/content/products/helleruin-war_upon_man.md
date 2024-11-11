@@ -5,7 +5,6 @@ artist: Helleruin
 categories:
 - Vinyl
 - Cassette
-- CD
 date: '2024-11-02T05:28:31'
 draft: false
 images:
@@ -20,5 +19,3 @@ title: Helleruin - War Upon Man
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=56991&sort=pd.name&order=ASC) for $24.00
 ## Cassette
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=56990&sort=pd.name&order=ASC) for $12.00
-## CD
-* Purchase from [CW Productions](https://shop.cwproductions.net/products/helleruin-war-upon-man-cd) for $12.00
