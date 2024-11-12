@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00
+actualPrice: $29.99
 album: Neurodeliri
 artist: Bulldozer
 categories:
-- CD
-date: '2024-11-02T05:27:06'
+- Vinyl
+date: '2024-08-13T05:44:09'
 draft: false
 images:
 - /images/covers/bulldozer-neurodeliri.png
@@ -13,5 +13,5 @@ thumbnailImage: /images/covers/bulldozer-neurodeliri-thumb.png
 title: Bulldozer - Neurodeliri
 ---
 
-## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=55605&sort=pd.name&order=ASC) for $12.00
+## Vinyl
+* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/bulldozer-neurodeliri-transparent-red-vinyl-lp) for $29.99 :: transparent red vinyl lp

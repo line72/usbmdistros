@@ -1,10 +1,10 @@
 ---
-actualPrice: $26.40
+actualPrice: $30.00
 album: Distant Echoes Through Blood Infinite
 artist: Empire of Tharaphita
 categories:
 - Vinyl
-date: '2024-11-02T05:25:35'
+date: '2024-07-09T13:57:25'
 draft: false
 images:
 - /images/covers/empire_of_tharaphita-distant_echoes_through_blood_infinite.jpg
@@ -14,4 +14,4 @@ title: Empire of Tharaphita - Distant Echoes Through Blood Infinite
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=46827&sort=pd.name&order=ASC) for $26.40
+* Purchase from [CW Productions](https://shop.cwproductions.net/products/empire-of-tharaphita-distant-echoes-through-blood-infinite-dlp-1) for $30.00

@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00 - 24.00
+actualPrice: $34.99
 album: Vltra
 artist: Spite Extreme Wing
 categories:
 - Vinyl
-date: '2024-11-08T06:24:35'
+date: '2024-07-16T05:41:55'
 draft: false
 images:
 - /images/covers/spite_extreme_wing-vltra.png
@@ -14,5 +14,4 @@ title: Spite Extreme Wing - Vltra
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=57618&sort=pd.name&order=ASC) for $12.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=57619&sort=pd.name&order=ASC) for $24.00
+* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/spite-extreme-wing-vltra) for $34.99 :: 2lp green vinyl dlp
