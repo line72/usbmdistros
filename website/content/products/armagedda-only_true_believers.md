@@ -1,10 +1,10 @@
 ---
-actualPrice: $24.99
+actualPrice: $20.00 - 24.99
 album: Only True Believers
 artist: Armagedda
 categories:
 - Vinyl
-date: '2024-07-09T14:02:08'
+date: '2024-11-02T05:25:16'
 draft: false
 images:
 - /images/covers/armagedda-only_true_believers.jpg
@@ -14,4 +14,5 @@ title: Armagedda - Only True Believers
 ---
 
 ## Vinyl
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=27290&sort=pd.name&order=ASC) for $20.00
 * Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/armagedda-only-true-believers-vinyl-lp) for $24.99 :: vinyl lp
