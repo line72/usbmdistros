@@ -4,7 +4,7 @@ album: Memories of Humanity
 artist: Lure
 categories:
 - Vinyl
-date: '2024-11-02T05:25:57'
+date: '2024-11-14T06:24:25'
 draft: false
 images:
 - /images/covers/lure-memories_of_humanity.jpg
@@ -14,4 +14,4 @@ title: Lure - Memories of Humanity
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=56027&sort=pd.name&order=ASC) for $24.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=57901&sort=pd.name&order=ASC) for $24.00

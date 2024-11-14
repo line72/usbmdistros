@@ -4,7 +4,7 @@ album: Rites Crvels
 artist: "Mal\xE9fices"
 categories:
 - Vinyl
-date: '2024-11-02T05:25:57'
+date: '2024-11-14T06:24:26'
 draft: false
 images:
 - "/images/covers/mal\xE9fices-rites_crvels.jpg"
@@ -14,4 +14,4 @@ title: "Mal\xE9fices - Rites Crvels"
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=20884&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=57846&sort=pd.name&order=ASC) for $20.00

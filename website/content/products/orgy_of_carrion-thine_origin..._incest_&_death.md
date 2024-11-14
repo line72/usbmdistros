@@ -4,7 +4,7 @@ album: Thine Origin... Incest & Death
 artist: Orgy of Carrion
 categories:
 - Vinyl
-date: '2024-11-02T05:26:12'
+date: '2024-11-14T06:24:36'
 draft: false
 images:
 - /images/covers/orgy_of_carrion-thine_origin..._incest_&_death.jpg
@@ -14,4 +14,4 @@ title: Orgy of Carrion - Thine Origin... Incest & Death
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=28238&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=57849&sort=pd.name&order=ASC) for $20.00

@@ -4,7 +4,7 @@ album: Supreme Triumph of Evil
 artist: Goatblood
 categories:
 - Vinyl
-date: '2024-11-02T05:25:41'
+date: '2024-11-14T06:24:10'
 draft: false
 images:
 - /images/covers/goatblood-supreme_triumph_of_evil.jpg
@@ -14,4 +14,4 @@ title: Goatblood - Supreme Triumph of Evil
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=30798&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=57851&sort=pd.name&order=ASC) for $20.00

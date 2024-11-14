@@ -4,7 +4,7 @@ album: As The Shadows Rise
 artist: Emperor
 categories:
 - Vinyl
-date: '2024-11-02T05:26:46'
+date: '2024-11-14T06:25:05'
 draft: false
 images:
 - /images/covers/emperor-as_the_shadows_rise.jpg
@@ -14,4 +14,4 @@ title: Emperor - As The Shadows Rise
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=56229&sort=pd.name&order=ASC) for $24.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=57909&sort=pd.name&order=ASC) for $24.00

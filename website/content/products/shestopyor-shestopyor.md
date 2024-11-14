@@ -4,7 +4,7 @@ album: Shestopyor
 artist: Shestopyor
 categories:
 - Vinyl
-date: '2024-11-02T05:26:22'
+date: '2024-11-14T06:24:46'
 draft: false
 images:
 - /images/covers/shestopyor-shestopyor.jpg
@@ -14,4 +14,4 @@ title: Shestopyor - Shestopyor
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=45086&sort=pd.name&order=ASC) for $16.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=57865&sort=pd.name&order=ASC) for $16.00

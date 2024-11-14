@@ -5,7 +5,7 @@ artist: Gothmog
 categories:
 - Vinyl
 - CD
-date: '2024-11-02T05:27:23'
+date: '2024-11-14T06:25:38'
 draft: false
 images:
 - /images/covers/gothmog-medieval_journeys.jpg
@@ -17,9 +17,9 @@ title: Gothmog - Medieval Journeys
 ## Vinyl
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/gothmog-medieval-journeys-12-lp) for $26.00
 * Purchase from [CW Productions](https://shop.cwproductions.net/products/gothmog-medieval-journeys-lp) for $25.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=45089&sort=pd.name&order=ASC) for $20.00
 * Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/gothmog-medieval-journeys-black-white-swirl-vinyl-lp) for $34.99 :: black/white swirl vinyl lp
 * Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/gothmog-medieval-journeys-vinyl-lp-color) for $30.00 :: (color, northern silence edition)
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=57866&sort=pd.name&order=ASC) for $20.00
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=25387&sort=pd.name&order=ASC) for $12.00
 * Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/gothmog-medieval-journeys-cd-digipak) for $14.99 :: (digipak)
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=57863&sort=pd.name&order=ASC) for $12.00
