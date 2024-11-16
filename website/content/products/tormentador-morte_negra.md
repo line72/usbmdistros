@@ -18,4 +18,3 @@ title: Tormentador - Morte Negra
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=50836&sort=pd.name&order=ASC) for $16.25
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=50835&sort=pd.name&order=ASC) for $7.80
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=56726&sort=pd.name&order=ASC) for $7.80
