@@ -1,5 +1,5 @@
 ---
-actualPrice: $16.25 - 27.00
+actualPrice: $16.25
 album: The Black Crest of Death, The Gold Wreath of War
 artist: Departure Chandelier
 categories:
@@ -14,5 +14,4 @@ title: Departure Chandelier - The Black Crest of Death, The Gold Wreath of War
 ---
 
 ## Vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/departure-chandelier-the-black-crest-of-death-the-gold-wreath-of-war-lp) for $27.00 :: Black 2019 press vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=55326&sort=pd.name&order=ASC) for $16.25

@@ -1,5 +1,5 @@
 ---
-actualPrice: $21.60 - 27.00
+actualPrice: $21.60
 album: Meditation on the Lunar Steppes
 artist: Arvalastra
 categories:
@@ -14,5 +14,4 @@ title: Arvalastra - Meditation on the Lunar Steppes
 ---
 
 ## Vinyl
-* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/arvalastra-meditation-on-the-lunar-steppes-12-lp) for $27.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=57305&sort=pd.name&order=ASC) for $21.60

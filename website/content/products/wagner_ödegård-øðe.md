@@ -1,5 +1,5 @@
 ---
-actualPrice: $20.00 - 25.00
+actualPrice: $20.00
 album: "\xD8\xF0e"
 artist: "Wagner \xD6deg\xE5rd"
 categories:
@@ -14,5 +14,4 @@ title: "Wagner \xD6deg\xE5rd - \xD8\xF0e"
 ---
 
 ## Vinyl
-* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/wagner-odegard-ode-12-lp) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=54740&sort=pd.name&order=ASC) for $20.00

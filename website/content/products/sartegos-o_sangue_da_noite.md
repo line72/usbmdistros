@@ -15,7 +15,6 @@ title: Sartegos - O Sangue Da Noite
 ---
 
 ## Vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/sartegos-o-sangue-da-noite-lp) for $18.00 :: Black 1st press vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=32226&sort=pd.name&order=ASC) for $20.00
 ## Cassette
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=19808&sort=pd.name&order=ASC) for $9.60

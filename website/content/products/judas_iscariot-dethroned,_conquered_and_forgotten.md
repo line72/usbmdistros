@@ -1,10 +1,10 @@
 ---
-actualPrice: $32.00
+actualPrice: $20.00 - 32.00
 album: Dethroned, Conquered And Forgotten
 artist: Judas Iscariot
 categories:
 - Vinyl
-date: '2024-11-14T06:24:21'
+date: '2024-11-18T06:34:18'
 draft: false
 images:
 - /images/covers/judas_iscariot-dethroned,_conquered_and_forgotten.jpg
@@ -15,3 +15,4 @@ title: Judas Iscariot - Dethroned, Conquered And Forgotten
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=57936&sort=pd.name&order=ASC) for $32.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=57429&sort=pd.name&order=ASC) for $20.00

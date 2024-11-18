@@ -1,5 +1,5 @@
 ---
-actualPrice: $21.60 - 26.00
+actualPrice: $21.60
 album: Vengeful Spirit Black Metal
 artist: Shades of Vrsaj'kett
 categories:
@@ -15,4 +15,3 @@ title: Shades of Vrsaj'kett - Vengeful Spirit Black Metal
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=30919&sort=pd.name&order=ASC) for $21.60
-* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/shades-of-vrsaj-kett-vengeful-spirit-black-metal-12-ep) for $26.00

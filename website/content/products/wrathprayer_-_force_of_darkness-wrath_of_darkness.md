@@ -1,5 +1,5 @@
 ---
-actualPrice: $13.00 - 39.00
+actualPrice: $13.00
 album: Wrath of Darkness
 artist: Wrathprayer / Force of Darkness
 categories:
@@ -14,5 +14,4 @@ title: Wrathprayer / Force of Darkness - Wrath of Darkness
 ---
 
 ## Vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/wrathprayer-force-of-darkness-wrath-of-darkness) for $39.00 :: Green 1st press vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=34862&sort=pd.name&order=ASC) for $13.00

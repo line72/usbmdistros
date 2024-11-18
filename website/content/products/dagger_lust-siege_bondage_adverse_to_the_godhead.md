@@ -1,5 +1,5 @@
 ---
-actualPrice: $16.00 - 18.00
+actualPrice: $16.00
 album: Siege Bondage Adverse to the Godhead
 artist: Dagger Lust
 categories:
@@ -15,4 +15,3 @@ title: Dagger Lust - Siege Bondage Adverse to the Godhead
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=8391&sort=pd.name&order=ASC) for $16.00
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/dagger-lust-siege-bondage-adverse-to-the-godhead-12-ep) for $18.00 :: Black 1st press vinyl
