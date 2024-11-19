@@ -1,5 +1,5 @@
 ---
-actualPrice: $6.40 - 8.00
+actualPrice: $8.00
 album: A Murderous Magus Of The Morphogenetic Grid
 artist: Thralldom
 categories:
@@ -14,5 +14,4 @@ title: Thralldom - A Murderous Magus Of The Morphogenetic Grid
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=38516&sort=pd.name&order=ASC) for $6.40
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=38517&sort=pd.name&order=ASC) for $8.00

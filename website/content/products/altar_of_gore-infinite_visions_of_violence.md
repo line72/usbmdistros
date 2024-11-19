@@ -1,8 +1,9 @@
 ---
-actualPrice: $9.60
+actualPrice: $9.60 - 26.00
 album: Infinite Visions of Violence
 artist: Altar of Gore
 categories:
+- Vinyl
 - CD
 date: '2024-11-02T05:26:59'
 draft: false
@@ -13,5 +14,7 @@ thumbnailImage: /images/covers/altar_of_gore-infinite_visions_of_violence-thumb.
 title: Altar of Gore - Infinite Visions of Violence
 ---
 
+## Vinyl
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/altar-of-gore-infinite-visions-of-violence-lp) for $26.00 :: Black 2023 press vinyl
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=52762&sort=pd.name&order=ASC) for $9.60
