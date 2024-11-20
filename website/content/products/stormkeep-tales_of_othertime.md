@@ -1,10 +1,10 @@
 ---
-actualPrice: $30.00
+actualPrice: $35.00
 album: Tales Of Othertime
 artist: Stormkeep
 categories:
 - Vinyl
-date: '2024-01-26T01:44:14'
+date: '2024-11-20T06:43:06'
 draft: false
 images:
 - /images/covers/stormkeep-tales_of_othertime.jpg
@@ -14,4 +14,4 @@ title: Stormkeep - Tales Of Othertime
 ---
 
 ## Vinyl
-* Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/stormkeep-tales-of-othertime-vinyl-lp-color) for $30.00 :: (color, repress)
+* Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/stormkeep-tales-of-othertime-vinyl-lp-color) for $35.00 :: (color, repress)
