@@ -1,5 +1,5 @@
 ---
-actualPrice: $25.00
+actualPrice: $8.00 - 25.00
 album: Manifestations 2002
 artist: Deathspell Omega
 categories:
@@ -14,4 +14,5 @@ title: Deathspell Omega - Manifestations 2002
 ---
 
 ## Vinyl
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=38152&sort=pd.name&order=ASC) for $8.00
 * Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/deathspell-omega-manifestations-2002-12-lp/) for $25.00

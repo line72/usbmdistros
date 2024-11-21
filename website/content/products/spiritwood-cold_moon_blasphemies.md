@@ -4,7 +4,7 @@ album: Cold Moon Blasphemies
 artist: Spiritwood
 categories:
 - CD
-date: '2021-09-14T05:00:11'
+date: '2024-11-02T05:28:00'
 draft: false
 images:
 - /images/covers/spiritwood-cold_moon_blasphemies.png
@@ -14,4 +14,5 @@ title: Spiritwood - Cold Moon Blasphemies
 ---
 
 ## CD
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=5229&sort=pd.name&order=ASC) for $8.00
 * Purchase from [Sto'Vo'Kor Records](https://stovokor-records.com/products/spiritwood-cold-moon-blasphemies) for $8.00

@@ -1,10 +1,11 @@
 ---
-actualPrice: $10.00
+actualPrice: $10.00 - 20.00
 album: Anathema Darkness
 artist: Necromonarchia Daemonum
 categories:
+- Vinyl
 - CD
-date: '2024-07-09T13:57:25'
+date: '2024-11-13T06:25:02'
 draft: false
 images:
 - /images/covers/necromonarchia_daemonum-anathema_darkness.png
@@ -13,5 +14,7 @@ thumbnailImage: /images/covers/necromonarchia_daemonum-anathema_darkness-thumb.p
 title: Necromonarchia Daemonum - Anathema Darkness
 ---
 
+## Vinyl
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=57808&sort=pd.name&order=ASC) for $20.00
 ## CD
 * Purchase from [CW Productions](https://shop.cwproductions.net/products/necromonarchia-daemonum-anathema-darkness-cd) for $10.00

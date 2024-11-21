@@ -1,10 +1,9 @@
 ---
-actualPrice: $9.99 - 27.99
+actualPrice: $27.99
 album: 777 - The Desanctification
 artist: Blut Aus Nord
 categories:
 - Vinyl
-- CD
 date: '2024-07-09T14:02:16'
 draft: false
 images:
@@ -16,5 +15,3 @@ title: Blut Aus Nord - 777 - The Desanctification
 
 ## Vinyl
 * Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/blut-aus-nord-777-the-desanctification-transparent-blue-vinyl-lp) for $27.99 :: the desanctification - transparent blue vinyl lp
-## CD
-* Purchase from [Debemur Morti](https://debemurmorti.aisamerch.com/item/74836) for $9.99 :: the desanctification

@@ -1,5 +1,5 @@
 ---
-actualPrice: $30.00
+actualPrice: $20.00 - 30.00
 album: A Glimpse of Glory
 artist: Lustre
 categories:
@@ -14,4 +14,5 @@ title: Lustre - A Glimpse of Glory
 ---
 
 ## Vinyl
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=24290&sort=pd.name&order=ASC) for $20.00
 * Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/lustre-a-glimpse-of-glory-vinyl-lp) for $30.00 :: (color)

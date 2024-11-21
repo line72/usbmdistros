@@ -1,10 +1,10 @@
 ---
-actualPrice: $10.00
+actualPrice: $10.00 - 12.00
 album: In the Glare of Burning Churches
 artist: Graveland
 categories:
 - CD
-date: '2024-07-09T13:57:25'
+date: '2024-11-02T05:27:24'
 draft: false
 images:
 - /images/covers/graveland-in_the_glare_of_burning_churches.jpg
@@ -15,3 +15,4 @@ title: Graveland - In the Glare of Burning Churches
 
 ## CD
 * Purchase from [CW Productions](https://shop.cwproductions.net/products/graveland-in-the-glare-of-burning-churches-cd) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=56130&sort=pd.name&order=ASC) for $12.00
