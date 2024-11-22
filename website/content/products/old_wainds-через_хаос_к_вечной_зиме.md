@@ -5,7 +5,7 @@ album: "\u0427\u0435\u0440\u0435\u0437 \u0425\u0430\u043E\u0441 \u041A \u0412\u0
 artist: Old Wainds
 categories:
 - Vinyl
-date: '2024-11-02T05:26:12'
+date: '2024-11-22T06:25:02'
 draft: false
 images:
 - "/images/covers/old_wainds-\u0447\u0435\u0440\u0435\u0437_\u0445\u0430\u043E\u0441\
@@ -19,4 +19,4 @@ title: "Old Wainds - \u0427\u0435\u0440\u0435\u0437 \u0425\u0430\u043E\u0441 \u0
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=50277&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=58106&sort=pd.name&order=ASC) for $20.00

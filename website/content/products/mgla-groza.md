@@ -4,7 +4,7 @@ album: Groza
 artist: Mgla
 categories:
 - Vinyl
-date: '2024-11-02T05:26:00'
+date: '2024-11-22T06:24:54'
 draft: false
 images:
 - /images/covers/mgla-groza.jpg
@@ -14,4 +14,4 @@ title: Mgla - Groza
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=55595&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=58169&sort=pd.name&order=ASC) for $20.00

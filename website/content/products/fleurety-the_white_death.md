@@ -4,7 +4,7 @@ album: The White Death
 artist: Fleurety
 categories:
 - Vinyl
-date: '2024-11-02T05:25:37'
+date: '2024-11-22T06:24:34'
 draft: false
 images:
 - /images/covers/fleurety-the_white_death.jpg
@@ -14,4 +14,4 @@ title: Fleurety - The White Death
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=27314&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=58090&sort=pd.name&order=ASC) for $20.00

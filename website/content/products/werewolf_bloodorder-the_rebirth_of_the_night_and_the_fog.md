@@ -1,9 +1,10 @@
 ---
-actualPrice: $20.00 - 26.00
+actualPrice: $13.00 - 26.00
 album: The Rebirth of the Night and the Fog
 artist: Werewolf Bloodorder
 categories:
 - Vinyl
+- Cassette
 date: '2024-11-02T05:26:37'
 draft: false
 images:
@@ -16,3 +17,5 @@ title: Werewolf Bloodorder - The Rebirth of the Night and the Fog
 ## Vinyl
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/werewolf-bloodorder-the-rebirth-of-the-night-and-the-fog-12-lp) for $26.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=54102&sort=pd.name&order=ASC) for $20.00
+## Cassette
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/werewolf-bloodorder-the-rebirth-of-the-night-and-the-fog-cd) for $13.00

@@ -4,7 +4,7 @@ album: To Brocken Heights Where Witches Dance
 artist: Pakkt
 categories:
 - Vinyl
-date: '2024-11-02T05:26:13'
+date: '2024-11-22T06:25:03'
 draft: false
 images:
 - /images/covers/pakkt-to_brocken_heights_where_witches_dance.jpg
@@ -14,4 +14,4 @@ title: Pakkt - To Brocken Heights Where Witches Dance
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=20174&sort=pd.name&order=ASC) for $22.40
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=58141&sort=pd.name&order=ASC) for $22.40

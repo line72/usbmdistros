@@ -1,10 +1,10 @@
 ---
-actualPrice: $4.80
+actualPrice: $3.00
 album: Herald of a Brighter Dawn
 artist: Voidchrist
 categories:
 - CD
-date: '2024-11-02T05:28:10'
+date: '2024-11-22T06:26:44'
 draft: false
 images:
 - /images/covers/voidchrist-herald_of_a_brighter_dawn.png
@@ -14,4 +14,4 @@ title: Voidchrist - Herald of a Brighter Dawn
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=2256&sort=pd.name&order=ASC) for $4.80
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=58049&sort=pd.name&order=ASC) for $3.00

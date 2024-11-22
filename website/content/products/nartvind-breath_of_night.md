@@ -5,7 +5,7 @@ artist: Nartvind
 categories:
 - Vinyl
 - CD
-date: '2024-11-02T05:27:46'
+date: '2024-11-22T06:26:22'
 draft: false
 images:
 - /images/covers/nartvind-breath_of_night.png
@@ -17,4 +17,4 @@ title: Nartvind - Breath of Night
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=57355&sort=pd.name&order=ASC) for $24.00
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=57341&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=58035&sort=pd.name&order=ASC) for $12.00

@@ -6,7 +6,7 @@ categories:
 - Vinyl
 - Cassette
 - CD
-date: '2024-11-02T05:28:20'
+date: '2024-11-22T06:24:19'
 draft: false
 images:
 - /images/covers/beherit-drawing_down_the_moon.jpg
@@ -18,7 +18,7 @@ title: Beherit - Drawing Down the Moon
 ## Vinyl
 * Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/nesi-rarity-beherit-drawing-down-the-moon-ltd-100-black-blue-orange-splatter-vinyl-lp-asian-market-exclusive) for $47.00 :: *numbered*  ltd 100  black/blue/orange splatter vinyl lp - asian market exclusive
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=56353&sort=pd.name&order=ASC) for $65.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=57442&sort=pd.name&order=ASC) for $32.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=58067&sort=pd.name&order=ASC) for $32.00
 ## Cassette
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=57072&sort=pd.name&order=ASC) for $9.75
 ## CD

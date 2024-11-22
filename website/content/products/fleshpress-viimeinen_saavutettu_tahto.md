@@ -5,7 +5,7 @@ artist: Fleshpress
 categories:
 - Vinyl
 - CD
-date: '2024-11-02T05:27:21'
+date: '2024-11-22T06:24:34'
 draft: false
 images:
 - /images/covers/fleshpress-viimeinen_saavutettu_tahto.jpg
@@ -15,6 +15,6 @@ title: Fleshpress - Viimeinen Saavutettu Tahto
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=49733&sort=pd.name&order=ASC) for $21.60
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=58184&sort=pd.name&order=ASC) for $21.60
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=46634&sort=pd.name&order=ASC) for $12.00
