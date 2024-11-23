@@ -1,10 +1,10 @@
 ---
-actualPrice: $20.00
+actualPrice: $17.50
 album: Satan's Soldiers Syndicate
 artist: Desaster
 categories:
 - Vinyl
-date: '2024-11-02T05:25:31'
+date: '2024-11-23T06:25:24'
 draft: false
 images:
 - /images/covers/desaster-satan's_soldiers_syndicate.png
@@ -14,4 +14,4 @@ title: Desaster - Satan's Soldiers Syndicate
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=54525&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=54525&sort=pd.name&order=ASC) for $17.50

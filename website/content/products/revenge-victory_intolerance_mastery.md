@@ -1,10 +1,10 @@
 ---
-actualPrice: $20.00
+actualPrice: $17.50
 album: Victory Intolerance Mastery
 artist: Revenge
 categories:
 - Vinyl
-date: '2024-11-02T05:26:17'
+date: '2024-11-23T06:26:01'
 draft: false
 images:
 - /images/covers/revenge-victory_intolerance_mastery.png
@@ -14,4 +14,4 @@ title: Revenge - Victory Intolerance Mastery
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=55627&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=55627&sort=pd.name&order=ASC) for $17.50

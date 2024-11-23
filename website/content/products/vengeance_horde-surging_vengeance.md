@@ -1,10 +1,10 @@
 ---
-actualPrice: $15.00
+actualPrice: $10.50
 album: Surging Vengeance
 artist: Vengeance Horde
 categories:
 - CD
-date: '2024-11-21T06:27:15'
+date: '2024-11-23T06:27:39'
 draft: false
 images:
 - /images/covers/vengeance_horde-surging_vengeance.jpg
@@ -14,4 +14,4 @@ title: Vengeance Horde - Surging Vengeance
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=58017&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=58017&sort=pd.name&order=ASC) for $10.50

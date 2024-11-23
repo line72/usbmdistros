@@ -1,10 +1,10 @@
 ---
-actualPrice: $20.00 - 28.00
+actualPrice: $17.50 - 28.00
 album: Saeculum Domini
 artist: Corpus Christii
 categories:
 - Vinyl
-date: '2024-11-02T05:25:27'
+date: '2024-11-23T06:25:21'
 draft: false
 images:
 - /images/covers/corpus_christii-saeculum_domini.png
@@ -15,4 +15,4 @@ title: Corpus Christii - Saeculum Domini
 
 ## Vinyl
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/corpus-christii-saeculum-domini-12-lp) for $28.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=50040&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=50040&sort=pd.name&order=ASC) for $17.50

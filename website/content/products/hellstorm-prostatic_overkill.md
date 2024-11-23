@@ -1,10 +1,10 @@
 ---
-actualPrice: $5.60
+actualPrice: $4.90
 album: Prostatic Overkill
 artist: Hellstorm
 categories:
 - Vinyl
-date: '2024-11-02T05:26:49'
+date: '2024-11-23T06:26:29'
 draft: false
 images:
 - /images/covers/hellstorm-prostatic_overkill.jpg
@@ -14,4 +14,4 @@ title: Hellstorm - Prostatic Overkill
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=929&sort=pd.name&order=ASC) for $5.60
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=929&sort=pd.name&order=ASC) for $4.90

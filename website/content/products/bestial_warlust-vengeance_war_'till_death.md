@@ -1,10 +1,10 @@
 ---
-actualPrice: $20.00
+actualPrice: $17.50
 album: Vengeance War 'Till Death
 artist: Bestial Warlust
 categories:
 - Vinyl
-date: '2024-11-02T05:25:19'
+date: '2024-11-23T06:25:14'
 draft: false
 images:
 - /images/covers/bestial_warlust-vengeance_war_'till_death.jpg
@@ -14,4 +14,4 @@ title: Bestial Warlust - Vengeance War 'Till Death
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=56794&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=56794&sort=pd.name&order=ASC) for $17.50

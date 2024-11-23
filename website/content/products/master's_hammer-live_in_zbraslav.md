@@ -1,10 +1,10 @@
 ---
-actualPrice: $24.00
+actualPrice: $21.00
 album: Live in Zbraslav
 artist: Master's Hammer
 categories:
 - Vinyl
-date: '2024-11-02T05:25:59'
+date: '2024-11-23T06:25:48'
 draft: false
 images:
 - /images/covers/master's_hammer-live_in_zbraslav.jpg
@@ -14,5 +14,5 @@ title: Master's Hammer - Live in Zbraslav
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=51770&sort=pd.name&order=ASC) for $24.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=56060&sort=pd.name&order=ASC) for $24.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=51770&sort=pd.name&order=ASC) for $21.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=56060&sort=pd.name&order=ASC) for $21.00

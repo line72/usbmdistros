@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00
+actualPrice: $10.50
 album: Dark Thrones and Black Flags
 artist: Darkthrone
 categories:
 - CD
-date: '2024-11-08T06:25:17'
+date: '2024-11-23T06:26:49'
 draft: false
 images:
 - /images/covers/darkthrone-dark_thrones_and_black_flags.jpg
@@ -14,4 +14,4 @@ title: Darkthrone - Dark Thrones and Black Flags
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=57665&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=57665&sort=pd.name&order=ASC) for $10.50

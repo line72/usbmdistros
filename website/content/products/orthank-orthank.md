@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00
+actualPrice: $10.50
 album: Orthank
 artist: Orthank
 categories:
 - CD
-date: '2024-11-02T05:27:50'
+date: '2024-11-23T06:27:21'
 draft: false
 images:
 - /images/covers/orthank-orthank.jpg
@@ -14,4 +14,4 @@ title: Orthank - Orthank
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=33851&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=33851&sort=pd.name&order=ASC) for $10.50

@@ -1,10 +1,10 @@
 ---
-actualPrice: $5.60
+actualPrice: $4.90
 album: Demo
 artist: Thestral
 categories:
 - Cassette
-date: '2024-11-02T05:28:52'
+date: '2024-11-23T06:28:15'
 draft: false
 images:
 - /images/covers/thestral-demo.png
@@ -14,4 +14,4 @@ title: Thestral - Demo
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=3313&sort=pd.name&order=ASC) for $5.60
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=3313&sort=pd.name&order=ASC) for $4.90

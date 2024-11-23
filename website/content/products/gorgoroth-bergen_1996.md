@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00
+actualPrice: $10.50
 album: Bergen 1996
 artist: Gorgoroth
 categories:
 - CD
-date: '2024-11-02T05:27:23'
+date: '2024-11-23T06:26:59'
 draft: false
 images:
 - /images/covers/gorgoroth-bergen_1996.jpg
@@ -14,4 +14,4 @@ title: Gorgoroth - Bergen 1996
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=50766&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=50766&sort=pd.name&order=ASC) for $10.50

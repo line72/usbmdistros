@@ -1,10 +1,10 @@
 ---
-actualPrice: $9.60
+actualPrice: $8.40
 album: Flail/Distant Wanderings
 artist: FLAIL
 categories:
 - Cassette
-date: '2024-11-02T05:28:28'
+date: '2024-11-23T06:27:54'
 draft: false
 images:
 - /images/covers/flail-flail-distant_wanderings.png
@@ -14,4 +14,4 @@ title: FLAIL - Flail/Distant Wanderings
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=24383&sort=pd.name&order=ASC) for $9.60
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=24383&sort=pd.name&order=ASC) for $8.40

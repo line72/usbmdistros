@@ -1,10 +1,10 @@
 ---
-actualPrice: $20.00
+actualPrice: $17.50
 album: Allsighr
 artist: Sarke
 categories:
 - Vinyl
-date: '2024-11-02T05:26:20'
+date: '2024-11-23T06:26:06'
 draft: false
 images:
 - /images/covers/sarke-allsighr.jpg
@@ -14,4 +14,4 @@ title: Sarke - Allsighr
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=39843&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=39843&sort=pd.name&order=ASC) for $17.50

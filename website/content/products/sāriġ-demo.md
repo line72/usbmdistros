@@ -1,10 +1,10 @@
 ---
-actualPrice: $9.60
+actualPrice: $8.40
 album: Demo
 artist: "S\u0101ri\u0121"
 categories:
 - Cassette
-date: '2024-11-02T05:28:47'
+date: '2024-11-23T06:28:11'
 draft: false
 images:
 - "/images/covers/s\u0101ri\u0121-demo.png"
@@ -14,4 +14,4 @@ title: "S\u0101ri\u0121 - Demo"
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=54674&sort=pd.name&order=ASC) for $9.60
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=54674&sort=pd.name&order=ASC) for $8.40

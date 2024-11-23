@@ -1,10 +1,10 @@
 ---
-actualPrice: $44.00
+actualPrice: $38.50
 album: On the Eve of War
 artist: Dolmen
 categories:
 - Vinyl
-date: '2024-11-02T05:25:33'
+date: '2024-11-23T06:25:25'
 draft: false
 images:
 - /images/covers/dolmen-on_the_eve_of_war.jpg
@@ -14,4 +14,4 @@ title: Dolmen - On the Eve of War
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=8017&sort=pd.name&order=ASC) for $44.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=8017&sort=pd.name&order=ASC) for $38.50

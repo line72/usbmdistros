@@ -1,10 +1,10 @@
 ---
-actualPrice: $8.00
+actualPrice: $7.00
 album: "\u0395\u03C7\u03B8\u03C1\u03CC\u03C2"
 artist: Algaion
 categories:
 - CD
-date: '2024-11-02T05:26:59'
+date: '2024-11-23T06:26:39'
 draft: false
 images:
 - "/images/covers/algaion-\u03B5\u03C7\u03B8\u03C1\u03CC\u03C2.jpg"
@@ -14,4 +14,4 @@ title: "Algaion - \u0395\u03C7\u03B8\u03C1\u03CC\u03C2"
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=3832&sort=pd.name&order=ASC) for $8.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=3832&sort=pd.name&order=ASC) for $7.00

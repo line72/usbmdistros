@@ -1,10 +1,10 @@
 ---
-actualPrice: $4.80
+actualPrice: $4.20
 album: Vorace
 artist: Saccage
 categories:
 - Vinyl
-date: '2024-11-02T05:26:53'
+date: '2024-11-23T06:26:34'
 draft: false
 images:
 - /images/covers/saccage-vorace.jpg
@@ -14,4 +14,4 @@ title: Saccage - Vorace
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=2107&sort=pd.name&order=ASC) for $4.80
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=2107&sort=pd.name&order=ASC) for $4.20

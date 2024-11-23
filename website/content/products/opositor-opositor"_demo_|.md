@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00
+actualPrice: $10.50
 album: Opositor" Demo |
 artist: Opositor
 categories:
 - Cassette
-date: '2024-11-02T05:28:42'
+date: '2024-11-23T06:28:07'
 draft: false
 images:
 - /images/covers/opositor-opositor"_demo_|.jpg
@@ -14,4 +14,4 @@ title: Opositor - Opositor" Demo |
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=54929&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=54929&sort=pd.name&order=ASC) for $10.50

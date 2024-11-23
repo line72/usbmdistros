@@ -1,10 +1,10 @@
 ---
-actualPrice: $9.60
+actualPrice: $8.40
 album: 'Malignus: Interdicti Legendae De Viribus Infernis Diaboli'
 artist: Black Witchcraft
 categories:
 - CD
-date: '2024-11-02T05:27:05'
+date: '2024-11-23T06:26:44'
 draft: false
 images:
 - /images/covers/black_witchcraft-malignus:_interdicti_legendae_de_viribus_infernis_diaboli.jpg
@@ -14,4 +14,4 @@ title: 'Black Witchcraft - Malignus: Interdicti Legendae De Viribus Infernis Dia
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=51239&sort=pd.name&order=ASC) for $9.60
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=51239&sort=pd.name&order=ASC) for $8.40

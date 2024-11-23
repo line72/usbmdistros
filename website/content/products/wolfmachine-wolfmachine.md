@@ -1,10 +1,10 @@
 ---
-actualPrice: $13.60
+actualPrice: $11.90
 album: Wolfmachine
 artist: Wolfmachine
 categories:
 - Vinyl
-date: '2024-11-02T05:26:38'
+date: '2024-11-23T06:26:22'
 draft: false
 images:
 - /images/covers/wolfmachine-wolfmachine.jpg
@@ -14,4 +14,4 @@ title: Wolfmachine - Wolfmachine
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=8518&sort=pd.name&order=ASC) for $13.60
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=8518&sort=pd.name&order=ASC) for $11.90

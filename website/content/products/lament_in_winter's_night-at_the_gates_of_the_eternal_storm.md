@@ -1,10 +1,10 @@
 ---
-actualPrice: $20.00
+actualPrice: $17.50
 album: At the Gates of the Eternal Storm
 artist: Lament in Winter's Night
 categories:
 - Vinyl
-date: '2024-11-02T05:25:55'
+date: '2024-11-23T06:25:44'
 draft: false
 images:
 - /images/covers/lament_in_winter's_night-at_the_gates_of_the_eternal_storm.jpg
@@ -14,4 +14,4 @@ title: Lament in Winter's Night - At the Gates of the Eternal Storm
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=55048&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=55048&sort=pd.name&order=ASC) for $17.50

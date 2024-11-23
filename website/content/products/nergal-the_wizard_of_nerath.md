@@ -1,10 +1,10 @@
 ---
-actualPrice: $16.25
+actualPrice: $13.75
 album: The Wizard of Nerath
 artist: Nergal
 categories:
 - Vinyl
-date: '2024-11-02T05:26:07'
+date: '2024-11-23T06:25:54'
 draft: false
 images:
 - /images/covers/nergal-the_wizard_of_nerath.jpg
@@ -14,4 +14,4 @@ title: Nergal - The Wizard of Nerath
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29740&sort=pd.name&order=ASC) for $16.25
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29740&sort=pd.name&order=ASC) for $13.75

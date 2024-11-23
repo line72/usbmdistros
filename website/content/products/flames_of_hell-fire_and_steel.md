@@ -1,10 +1,10 @@
 ---
-actualPrice: $15.00
+actualPrice: $17.50
 album: Fire and Steel
 artist: Flames of Hell
 categories:
 - Vinyl
-date: '2024-11-11T06:37:42'
+date: '2024-11-23T06:25:29'
 draft: false
 images:
 - /images/covers/flames_of_hell-fire_and_steel.png
@@ -14,4 +14,4 @@ title: Flames of Hell - Fire and Steel
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=57802&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=57802&sort=pd.name&order=ASC) for $17.50

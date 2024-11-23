@@ -1,10 +1,10 @@
 ---
-actualPrice: $5.60
+actualPrice: $4.90
 album: Rejoice and Laugh, Doomed to Be Sacrificed
 artist: Thou Shalt Fall
 categories:
 - Cassette
-date: '2024-11-02T05:28:52'
+date: '2024-11-23T06:28:15'
 draft: false
 images:
 - /images/covers/thou_shalt_fall-rejoice_and_laugh,_doomed_to_be_sacrificed.jpg
@@ -14,4 +14,4 @@ title: Thou Shalt Fall - Rejoice and Laugh, Doomed to Be Sacrificed
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=5460&sort=pd.name&order=ASC) for $5.60
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=5460&sort=pd.name&order=ASC) for $4.90

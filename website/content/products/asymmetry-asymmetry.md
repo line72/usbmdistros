@@ -1,10 +1,10 @@
 ---
-actualPrice: $4.00
+actualPrice: $3.50
 album: Asymmetry
 artist: Asymmetry
 categories:
 - CD
-date: '2024-11-02T05:27:02'
+date: '2024-11-23T06:26:42'
 draft: false
 images:
 - /images/covers/asymmetry-asymmetry.jpg
@@ -14,4 +14,4 @@ title: Asymmetry - Asymmetry
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=45470&sort=pd.name&order=ASC) for $4.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=45470&sort=pd.name&order=ASC) for $3.50

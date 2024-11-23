@@ -14,5 +14,4 @@ title: Gauntlet Ring - Upon The Wings Of The Black Eagle
 ---
 
 ## Cassette
-* Purchase from [CW Productions](https://shop.cwproductions.net/products/gauntlet-ring-upon-the-wings-of-the-black-eagle-cd-3) for $12.00
 * Purchase from [CW Productions](https://shop.cwproductions.net/products/gauntlet-ring-upon-the-wings-of-the-black-eagle-cd-4) for $12.00

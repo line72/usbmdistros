@@ -5,7 +5,7 @@ artist: Diocletian
 categories:
 - Vinyl
 - CD
-date: '2024-11-08T06:25:20'
+date: '2024-11-23T06:26:52'
 draft: false
 images:
 - /images/covers/diocletian-inexorable_nexus.jpg
@@ -15,6 +15,6 @@ title: Diocletian - Inexorable Nexus
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=57744&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=58216&sort=pd.name&order=ASC) for $25.00
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=57743&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=58215&sort=pd.name&order=ASC) for $15.00

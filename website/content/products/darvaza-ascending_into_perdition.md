@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00
+actualPrice: $10.50
 album: Ascending Into Perdition
 artist: Darvaza
 categories:
 - Cassette
-date: '2024-11-02T05:28:24'
+date: '2024-11-23T06:27:50'
 draft: false
 images:
 - /images/covers/darvaza-ascending_into_perdition.jpg
@@ -14,4 +14,4 @@ title: Darvaza - Ascending Into Perdition
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=28270&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=28270&sort=pd.name&order=ASC) for $10.50

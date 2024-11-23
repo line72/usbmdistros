@@ -1,10 +1,10 @@
 ---
-actualPrice: $36.00
+actualPrice: $31.50
 album: "Tr\xF2 Ch\u01A1i K\u1EBFt Th\xFAc / Game Over"
 artist: Vothana
 categories:
 - Vinyl
-date: '2024-11-02T05:26:36'
+date: '2024-11-23T06:26:20'
 draft: false
 images:
 - "/images/covers/vothana-tr\xF2_ch\u01A1i_k\u1EBFt_th\xFAc_-_game_over.png"
@@ -14,4 +14,4 @@ title: "Vothana - Tr\xF2 Ch\u01A1i K\u1EBFt Th\xFAc / Game Over"
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=56737&sort=pd.name&order=ASC) for $36.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=56737&sort=pd.name&order=ASC) for $31.50

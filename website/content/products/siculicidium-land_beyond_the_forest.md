@@ -1,10 +1,10 @@
 ---
-actualPrice: $20.00
+actualPrice: $17.50
 album: Land Beyond The Forest
 artist: Siculicidium
 categories:
 - Vinyl
-date: '2024-11-02T05:26:22'
+date: '2024-11-23T06:26:08'
 draft: false
 images:
 - /images/covers/siculicidium-land_beyond_the_forest.png
@@ -14,4 +14,4 @@ title: Siculicidium - Land Beyond The Forest
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=30576&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=30576&sort=pd.name&order=ASC) for $17.50

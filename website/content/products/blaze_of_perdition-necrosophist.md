@@ -1,10 +1,10 @@
 ---
-actualPrice: $5.60
+actualPrice: $4.90
 album: Necrosophist
 artist: Blaze of Perdition
 categories:
 - Vinyl
-date: '2024-11-02T05:26:44'
+date: '2024-11-23T06:26:25'
 draft: false
 images:
 - /images/covers/blaze_of_perdition-necrosophist.jpg
@@ -14,4 +14,4 @@ title: Blaze of Perdition - Necrosophist
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=10993&sort=pd.name&order=ASC) for $5.60
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=10993&sort=pd.name&order=ASC) for $4.90

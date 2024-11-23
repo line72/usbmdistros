@@ -1,10 +1,10 @@
 ---
-actualPrice: $4.00
+actualPrice: $3.50
 album: Demo
 artist: Eschaton
 categories:
 - Cassette
-date: '2024-11-02T05:28:27'
+date: '2024-11-23T06:27:53'
 draft: false
 images:
 - /images/covers/eschaton-demo.png
@@ -14,4 +14,4 @@ title: Eschaton - Demo
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=11304&sort=pd.name&order=ASC) for $4.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=11304&sort=pd.name&order=ASC) for $3.50

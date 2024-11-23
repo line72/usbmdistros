@@ -1,10 +1,10 @@
 ---
-actualPrice: $20.00
+actualPrice: $17.50
 album: In the Sign of the Five Angles
 artist: Stygian Temple
 categories:
 - Vinyl
-date: '2024-11-02T05:26:25'
+date: '2024-11-23T06:26:11'
 draft: false
 images:
 - /images/covers/stygian_temple-in_the_sign_of_the_five_angles.png
@@ -14,4 +14,4 @@ title: Stygian Temple - In the Sign of the Five Angles
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=24313&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=24313&sort=pd.name&order=ASC) for $17.50

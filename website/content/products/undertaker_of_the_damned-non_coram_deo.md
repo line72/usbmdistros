@@ -1,10 +1,10 @@
 ---
-actualPrice: $9.60
+actualPrice: $8.40
 album: Non Coram Deo
 artist: Undertaker Of The Damned
 categories:
 - CD
-date: '2024-11-02T05:28:07'
+date: '2024-11-23T06:27:37'
 draft: false
 images:
 - /images/covers/undertaker_of_the_damned-non_coram_deo.jpg
@@ -14,4 +14,4 @@ title: Undertaker Of The Damned - Non Coram Deo
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=51886&sort=pd.name&order=ASC) for $9.60
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=51886&sort=pd.name&order=ASC) for $8.40

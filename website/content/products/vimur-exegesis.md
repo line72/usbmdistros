@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00
+actualPrice: $10.50
 album: Exegesis
 artist: Vimur
 categories:
 - Vinyl
-date: '2024-11-02T05:26:35'
+date: '2024-11-23T06:26:19'
 draft: false
 images:
 - /images/covers/vimur-exegesis.jpg
@@ -14,4 +14,4 @@ title: Vimur - Exegesis
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=39430&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=39430&sort=pd.name&order=ASC) for $10.50

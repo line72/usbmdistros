@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00
+actualPrice: $10.50
 album: Orphans
 artist: Revenant Marquis
 categories:
 - CD
-date: '2024-11-02T05:27:54'
+date: '2024-11-23T06:27:25'
 draft: false
 images:
 - /images/covers/revenant_marquis-orphans.jpg
@@ -14,4 +14,4 @@ title: Revenant Marquis - Orphans
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=56746&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=56746&sort=pd.name&order=ASC) for $10.50

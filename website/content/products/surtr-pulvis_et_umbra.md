@@ -1,10 +1,10 @@
 ---
-actualPrice: $8.00
+actualPrice: $7.00
 album: Pulvis Et Umbra
 artist: Surtr
 categories:
 - CD
-date: '2024-11-02T05:28:02'
+date: '2024-11-23T06:27:33'
 draft: false
 images:
 - /images/covers/surtr-pulvis_et_umbra.jpg
@@ -14,4 +14,4 @@ title: Surtr - Pulvis Et Umbra
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=3249&sort=pd.name&order=ASC) for $8.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=3249&sort=pd.name&order=ASC) for $7.00

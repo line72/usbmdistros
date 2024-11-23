@@ -1,11 +1,11 @@
 ---
-actualPrice: $12.00 - 17.60
+actualPrice: $8.40 - 15.40
 album: An Eternal Curse of the Pagan Godz
 artist: Arkona
 categories:
 - Vinyl
 - CD
-date: '2024-11-15T06:26:01'
+date: '2024-11-23T06:26:41'
 draft: false
 images:
 - /images/covers/arkona-an_eternal_curse_of_the_pagan_godz.png
@@ -15,6 +15,6 @@ title: Arkona - An Eternal Curse of the Pagan Godz
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=56795&sort=pd.name&order=ASC) for $17.60
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=56795&sort=pd.name&order=ASC) for $15.40
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=57945&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=57945&sort=pd.name&order=ASC) for $8.40

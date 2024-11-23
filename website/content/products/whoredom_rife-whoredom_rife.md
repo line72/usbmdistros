@@ -1,10 +1,10 @@
 ---
-actualPrice: $21.60
+actualPrice: $18.89
 album: Whoredom Rife
 artist: Whoredom Rife
 categories:
 - Vinyl
-date: '2024-11-02T05:26:38'
+date: '2024-11-23T06:26:21'
 draft: false
 images:
 - /images/covers/whoredom_rife-whoredom_rife.png
@@ -14,4 +14,4 @@ title: Whoredom Rife - Whoredom Rife
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=51199&sort=pd.name&order=ASC) for $21.60
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=51199&sort=pd.name&order=ASC) for $18.89

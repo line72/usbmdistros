@@ -1,10 +1,10 @@
 ---
-actualPrice: $19.50
+actualPrice: $16.50
 album: Osaka Fest
 artist: Departure Chandelier
 categories:
 - Vinyl
-date: '2024-11-15T06:24:44'
+date: '2024-11-23T06:25:24'
 draft: false
 images:
 - /images/covers/departure_chandelier-osaka_fest.jpg
@@ -14,4 +14,4 @@ title: Departure Chandelier - Osaka Fest
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=57979&sort=pd.name&order=ASC) for $19.50
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=57979&sort=pd.name&order=ASC) for $16.50

@@ -1,10 +1,10 @@
 ---
-actualPrice: $13.60
+actualPrice: $11.90
 album: MMXVIII
 artist: Dikasterion
 categories:
 - Vinyl
-date: '2024-11-02T05:25:32'
+date: '2024-11-23T06:25:25'
 draft: false
 images:
 - /images/covers/dikasterion-mmxviii.jpg
@@ -14,4 +14,4 @@ title: Dikasterion - MMXVIII
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=54533&sort=pd.name&order=ASC) for $13.60
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=54533&sort=pd.name&order=ASC) for $11.90

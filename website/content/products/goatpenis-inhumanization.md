@@ -1,11 +1,11 @@
 ---
-actualPrice: $12.00 - 16.25
+actualPrice: $10.50 - 13.75
 album: Inhumanization
 artist: Goatpenis
 categories:
 - Vinyl
 - CD
-date: '2024-11-08T06:25:27'
+date: '2024-11-23T06:26:58'
 draft: false
 images:
 - /images/covers/goatpenis-inhumanization.jpg
@@ -15,6 +15,6 @@ title: Goatpenis - Inhumanization
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=57688&sort=pd.name&order=ASC) for $16.25
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=57688&sort=pd.name&order=ASC) for $13.75
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=57689&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=57689&sort=pd.name&order=ASC) for $10.50

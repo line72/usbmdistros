@@ -1,10 +1,10 @@
 ---
-actualPrice: $10.40
+actualPrice: $9.10
 album: Schattenverse
 artist: "Tr\xFCbnis"
 categories:
 - CD
-date: '2024-11-02T05:28:06'
+date: '2024-11-23T06:27:36'
 draft: false
 images:
 - "/images/covers/tr\xFCbnis-schattenverse.png"
@@ -14,4 +14,4 @@ title: "Tr\xFCbnis - Schattenverse"
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=55510&sort=pd.name&order=ASC) for $10.40
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=55510&sort=pd.name&order=ASC) for $9.10

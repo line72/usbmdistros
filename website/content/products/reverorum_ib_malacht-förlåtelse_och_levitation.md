@@ -1,10 +1,10 @@
 ---
-actualPrice: $20.00
+actualPrice: $17.50
 album: "F\xF6rl\xE5telse och Levitation"
 artist: Reverorum ib Malacht
 categories:
 - Vinyl
-date: '2024-11-02T05:26:17'
+date: '2024-11-23T06:26:01'
 draft: false
 images:
 - "/images/covers/reverorum_ib_malacht-f\xF6rl\xE5telse_och_levitation.jpg"
@@ -14,4 +14,4 @@ title: "Reverorum ib Malacht - F\xF6rl\xE5telse och Levitation"
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=54213&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=54213&sort=pd.name&order=ASC) for $17.50

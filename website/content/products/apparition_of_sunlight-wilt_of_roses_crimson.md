@@ -1,10 +1,10 @@
 ---
-actualPrice: $10.40
+actualPrice: $9.10
 album: Wilt of Roses Crimson
 artist: Apparition of Sunlight
 categories:
 - Cassette
-date: '2024-11-02T05:28:18'
+date: '2024-11-23T06:27:45'
 draft: false
 images:
 - /images/covers/apparition_of_sunlight-wilt_of_roses_crimson.png
@@ -14,4 +14,4 @@ title: Apparition of Sunlight - Wilt of Roses Crimson
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=30686&sort=pd.name&order=ASC) for $10.40
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=30686&sort=pd.name&order=ASC) for $9.10

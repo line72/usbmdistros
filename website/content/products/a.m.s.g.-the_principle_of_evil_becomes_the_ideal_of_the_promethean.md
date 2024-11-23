@@ -1,10 +1,10 @@
 ---
-actualPrice: $8.00
+actualPrice: $7.00
 album: The Principle Of Evil Becomes The Ideal Of The Promethean
 artist: A.M.S.G.
 categories:
 - CD
-date: '2024-11-02T05:26:57'
+date: '2024-11-23T06:26:38'
 draft: false
 images:
 - /images/covers/a.m.s.g.-the_principle_of_evil_becomes_the_ideal_of_the_promethean.jpg
@@ -14,4 +14,4 @@ title: A.M.S.G. - The Principle Of Evil Becomes The Ideal Of The Promethean
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=5855&sort=pd.name&order=ASC) for $8.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=5855&sort=pd.name&order=ASC) for $7.00

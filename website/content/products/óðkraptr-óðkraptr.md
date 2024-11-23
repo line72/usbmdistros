@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00
+actualPrice: $10.50
 album: "\xD3\xF0kraptr"
 artist: "\xD3\xF0kraptr"
 categories:
 - CD
-date: '2024-11-02T05:27:51'
+date: '2024-11-23T06:27:22'
 draft: false
 images:
 - "/images/covers/\xF3\xF0kraptr-\xF3\xF0kraptr.jpg"
@@ -14,4 +14,4 @@ title: "\xD3\xF0kraptr - \xD3\xF0kraptr"
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=56478&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=56478&sort=pd.name&order=ASC) for $10.50

@@ -1,10 +1,10 @@
 ---
-actualPrice: $9.60
+actualPrice: $8.40
 album: Cathartic Black Rituals
 artist: Nocturnal Departure
 categories:
 - CD
-date: '2024-11-02T05:27:48'
+date: '2024-11-23T06:27:20'
 draft: false
 images:
 - /images/covers/nocturnal_departure-cathartic_black_rituals.jpg
@@ -14,4 +14,4 @@ title: Nocturnal Departure - Cathartic Black Rituals
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=19148&sort=pd.name&order=ASC) for $9.60
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=19148&sort=pd.name&order=ASC) for $8.40

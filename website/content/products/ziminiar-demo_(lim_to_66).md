@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00
+actualPrice: $10.50
 album: Demo (Lim To 66)
 artist: Ziminiar
 categories:
 - Cassette
-date: '2024-11-02T05:28:57'
+date: '2024-11-23T06:28:19'
 draft: false
 images:
 - /images/covers/ziminiar-demo_(lim_to_66).png
@@ -14,4 +14,4 @@ title: Ziminiar - Demo (Lim To 66)
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=43018&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=43018&sort=pd.name&order=ASC) for $10.50

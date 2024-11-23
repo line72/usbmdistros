@@ -1,10 +1,10 @@
 ---
-actualPrice: $13.60
+actualPrice: $11.90
 album: 'Cosmoprism: The Theurgy - Act I'
 artist: Tome of the Unreplenished
 categories:
 - Vinyl
-date: '2024-11-02T05:26:29'
+date: '2024-11-23T06:26:14'
 draft: false
 images:
 - /images/covers/tome_of_the_unreplenished-cosmoprism:_the_theurgy_-_act_i.jpg
@@ -14,4 +14,4 @@ title: 'Tome of the Unreplenished - Cosmoprism: The Theurgy - Act I'
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=2939&sort=pd.name&order=ASC) for $13.60
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=2939&sort=pd.name&order=ASC) for $11.90

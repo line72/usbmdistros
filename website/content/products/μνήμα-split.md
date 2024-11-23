@@ -1,10 +1,10 @@
 ---
-actualPrice: $21.60
+actualPrice: $18.89
 album: Split
 artist: "\u039C\u03BD\u03AE\u03BC\u03B1"
 categories:
 - Vinyl
-date: '2024-11-02T05:26:42'
+date: '2024-11-23T06:26:23'
 draft: false
 images:
 - "/images/covers/\u03BC\u03BD\u03AE\u03BC\u03B1-split.jpg"
@@ -14,4 +14,4 @@ title: "\u039C\u03BD\u03AE\u03BC\u03B1 - Split"
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=57307&sort=pd.name&order=ASC) for $21.60
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=57307&sort=pd.name&order=ASC) for $18.89

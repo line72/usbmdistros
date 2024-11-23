@@ -1,10 +1,10 @@
 ---
-actualPrice: $8.00
+actualPrice: $7.00
 album: Frater Superior
 artist: Vexev
 categories:
 - Cassette
-date: '2024-11-02T05:28:54'
+date: '2024-11-23T06:28:17'
 draft: false
 images:
 - /images/covers/vexev-frater_superior.jpg
@@ -14,4 +14,4 @@ title: Vexev - Frater Superior
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=22215&sort=pd.name&order=ASC) for $8.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=22215&sort=pd.name&order=ASC) for $7.00

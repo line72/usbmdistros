@@ -1,10 +1,10 @@
 ---
-actualPrice: $7.20
+actualPrice: $6.30
 album: Profane Exclamations Against Piety
 artist: Goatcorpse
 categories:
 - Vinyl
-date: '2024-11-02T05:26:48'
+date: '2024-11-23T06:26:28'
 draft: false
 images:
 - /images/covers/goatcorpse-profane_exclamations_against_piety.png
@@ -14,4 +14,4 @@ title: Goatcorpse - Profane Exclamations Against Piety
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=46745&sort=pd.name&order=ASC) for $7.20
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=46745&sort=pd.name&order=ASC) for $6.30

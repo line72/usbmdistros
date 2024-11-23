@@ -1,11 +1,11 @@
 ---
-actualPrice: $9.60 - 154.99
+actualPrice: $8.40 - 154.99
 album: Under The Moonspell
 artist: Moonspell
 categories:
 - Vinyl
 - Cassette
-date: '2024-11-02T05:28:38'
+date: '2024-11-23T06:28:04'
 draft: false
 images:
 - /images/covers/moonspell-under_the_moonspell.jpg
@@ -18,4 +18,4 @@ title: Moonspell - Under The Moonspell
 * Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/moonspell-under-the-moonspell-limited-box) for $154.99 :: limited lp box
 * Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/blemish-moonspell-under-the-moonspell-limited-lp-box-copy) for $149.99 :: limited lp box (copy)
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=56523&sort=pd.name&order=ASC) for $9.60
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=56523&sort=pd.name&order=ASC) for $8.40

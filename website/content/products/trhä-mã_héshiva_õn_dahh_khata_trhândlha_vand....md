@@ -1,10 +1,10 @@
 ---
-actualPrice: $24.00
+actualPrice: $21.00
 album: "M\xE3 H\xE9shiva \xD5n Dahh Khata Trh\xE2ndlha Vand..."
 artist: "Trh\xE4"
 categories:
 - Vinyl
-date: '2024-11-02T05:26:30'
+date: '2024-11-23T06:26:15'
 draft: false
 images:
 - "/images/covers/trh\xE4-m\xE3_h\xE9shiva_\xF5n_dahh_khata_trh\xE2ndlha_vand....jpg"
@@ -15,4 +15,4 @@ title: "Trh\xE4 - M\xE3 H\xE9shiva \xD5n Dahh Khata Trh\xE2ndlha Vand..."
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=57041&sort=pd.name&order=ASC) for $24.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=57041&sort=pd.name&order=ASC) for $21.00

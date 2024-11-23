@@ -1,10 +1,10 @@
 ---
-actualPrice: $25.00
+actualPrice: $17.50
 album: Cave Of Ephyras... To The Infernal Fields
 artist: Tatir
 categories:
 - Vinyl
-date: '2024-11-21T06:25:47'
+date: '2024-11-23T06:26:11'
 draft: false
 images:
 - /images/covers/tatir-cave_of_ephyras..._to_the_infernal_fields.jpg
@@ -14,4 +14,4 @@ title: Tatir - Cave Of Ephyras... To The Infernal Fields
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=58018&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=58018&sort=pd.name&order=ASC) for $17.50

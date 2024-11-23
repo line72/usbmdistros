@@ -1,10 +1,10 @@
 ---
-actualPrice: $9.60
+actualPrice: $8.40
 album: "Kaosn\xE5jd"
 artist: Wulkanaz
 categories:
 - CD
-date: '2024-11-02T05:28:14'
+date: '2024-11-23T06:27:42'
 draft: false
 images:
 - "/images/covers/wulkanaz-kaosn\xE5jd.jpg"
@@ -14,4 +14,4 @@ title: "Wulkanaz - Kaosn\xE5jd"
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=21076&sort=pd.name&order=ASC) for $9.60
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=21076&sort=pd.name&order=ASC) for $8.40

@@ -1,10 +1,10 @@
 ---
-actualPrice: $13.60
+actualPrice: $11.90
 album: Chthonic Years / Demo Collection
 artist: Necromantia
 categories:
 - CD
-date: '2024-11-02T05:27:46'
+date: '2024-11-23T06:27:18'
 draft: false
 images:
 - /images/covers/necromantia-chthonic_years_-_demo_collection.jpg
@@ -14,4 +14,4 @@ title: Necromantia - Chthonic Years / Demo Collection
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=49044&sort=pd.name&order=ASC) for $13.60
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=49044&sort=pd.name&order=ASC) for $11.90

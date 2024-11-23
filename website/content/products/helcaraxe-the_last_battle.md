@@ -1,10 +1,10 @@
 ---
-actualPrice: $8.00
+actualPrice: $7.00
 album: The Last Battle
 artist: Helcaraxe
 categories:
 - CD
-date: '2024-11-02T05:27:27'
+date: '2024-11-23T06:27:03'
 draft: false
 images:
 - /images/covers/helcaraxe-the_last_battle.jpg
@@ -14,4 +14,4 @@ title: Helcaraxe - The Last Battle
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=7881&sort=pd.name&order=ASC) for $8.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=7881&sort=pd.name&order=ASC) for $7.00

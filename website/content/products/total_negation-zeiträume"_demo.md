@@ -1,10 +1,10 @@
 ---
-actualPrice: $4.00
+actualPrice: $3.50
 album: "Zeitr\xE4ume\" Demo"
 artist: Total Negation
 categories:
 - Cassette
-date: '2024-11-02T05:28:52'
+date: '2024-11-23T06:28:15'
 draft: false
 images:
 - "/images/covers/total_negation-zeitr\xE4ume\"_demo.png"
@@ -14,4 +14,4 @@ title: "Total Negation - Zeitr\xE4ume\" Demo"
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=950&sort=pd.name&order=ASC) for $4.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=950&sort=pd.name&order=ASC) for $3.50

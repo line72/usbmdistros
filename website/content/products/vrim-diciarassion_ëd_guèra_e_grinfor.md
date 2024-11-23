@@ -1,10 +1,10 @@
 ---
-actualPrice: $9.60
+actualPrice: $8.40
 album: "Diciarassion \xCBd Gu\xE8ra E Grinfor"
 artist: Vrim
 categories:
 - CD
-date: '2024-11-02T05:28:11'
+date: '2024-11-23T06:27:40'
 draft: false
 images:
 - "/images/covers/vrim-diciarassion_\xEBd_gu\xE8ra_e_grinfor.jpg"
@@ -14,4 +14,4 @@ title: "Vrim - Diciarassion \xCBd Gu\xE8ra E Grinfor"
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=49656&sort=pd.name&order=ASC) for $9.60
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=49656&sort=pd.name&order=ASC) for $8.40

@@ -1,10 +1,10 @@
 ---
-actualPrice: $20.00
+actualPrice: $17.50
 album: The Third Storm Of Cythraul - 2013 Alternate Stereo Mix
 artist: Absu
 categories:
 - Vinyl
-date: '2024-11-22T06:24:10'
+date: '2024-11-23T06:25:03'
 draft: false
 images:
 - /images/covers/absu-the_third_storm_of_cythraul_-_2013_alternate_stereo_mix.jpg
@@ -14,4 +14,4 @@ title: Absu - The Third Storm Of Cythraul - 2013 Alternate Stereo Mix
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=58088&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=58088&sort=pd.name&order=ASC) for $17.50

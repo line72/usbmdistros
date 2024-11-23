@@ -1,11 +1,11 @@
 ---
-actualPrice: $19.50
+actualPrice: $16.50
 album: "\u041C\u200B\u0415\u200B\u0420\u200B\u0422\u200B\u0412\u200B\u042B\u200B\u0419\
   \ \u0413\u200B\u0415\u200B\u041D\u200B\u0418\u200B\u0419 Demo 1986"
 artist: Abadonna
 categories:
 - Vinyl
-date: '2024-11-02T05:25:07'
+date: '2024-11-23T06:25:02'
 draft: false
 images:
 - "/images/covers/abadonna-\u043C\u200B\u0435\u200B\u0440\u200B\u0442\u200B\u0432\u200B\
@@ -19,4 +19,4 @@ title: "Abadonna - \u041C\u200B\u0415\u200B\u0420\u200B\u0422\u200B\u0412\u200B\
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=56194&sort=pd.name&order=ASC) for $19.50
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=56194&sort=pd.name&order=ASC) for $16.50

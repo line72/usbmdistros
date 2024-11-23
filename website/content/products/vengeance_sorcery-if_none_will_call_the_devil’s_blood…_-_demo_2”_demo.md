@@ -1,10 +1,10 @@
 ---
-actualPrice: $6.50
+actualPrice: $5.50
 album: "If None Will Call The Devil\u2019S Blood\u2026 - Demo 2\u201D Demo"
 artist: Vengeance Sorcery
 categories:
 - Cassette
-date: '2024-11-02T05:28:54'
+date: '2024-11-23T06:28:17'
 draft: false
 images:
 - "/images/covers/vengeance_sorcery-if_none_will_call_the_devil\u2019s_blood\u2026\
@@ -17,4 +17,4 @@ title: "Vengeance Sorcery - If None Will Call The Devil\u2019S Blood\u2026 - Dem
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=45017&sort=pd.name&order=ASC) for $6.50
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=45017&sort=pd.name&order=ASC) for $5.50

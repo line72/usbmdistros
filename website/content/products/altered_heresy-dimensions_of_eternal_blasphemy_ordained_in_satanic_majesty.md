@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00
+actualPrice: $10.50
 album: Dimensions Of Eternal Blasphemy Ordained In Satanic Majesty
 artist: Altered Heresy
 categories:
 - CD
-date: '2024-11-02T05:26:59'
+date: '2024-11-23T06:26:39'
 draft: false
 images:
 - /images/covers/altered_heresy-dimensions_of_eternal_blasphemy_ordained_in_satanic_majesty.jpg
@@ -14,4 +14,4 @@ title: Altered Heresy - Dimensions Of Eternal Blasphemy Ordained In Satanic Maje
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=27239&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=27239&sort=pd.name&order=ASC) for $10.50

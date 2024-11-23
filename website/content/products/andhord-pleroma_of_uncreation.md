@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00
+actualPrice: $10.50
 album: Pleroma of Uncreation
 artist: Andhord
 categories:
 - Vinyl
-date: '2024-11-02T05:25:15'
+date: '2024-11-23T06:25:09'
 draft: false
 images:
 - /images/covers/andhord-pleroma_of_uncreation.jpg
@@ -14,4 +14,4 @@ title: Andhord - Pleroma of Uncreation
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=15942&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=15942&sort=pd.name&order=ASC) for $10.50

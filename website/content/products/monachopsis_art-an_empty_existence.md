@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00
+actualPrice: $10.50
 album: An Empty Existence
 artist: Monachopsis Art
 categories:
 - CD
-date: '2024-11-02T05:27:41'
+date: '2024-11-23T06:27:15'
 draft: false
 images:
 - /images/covers/monachopsis_art-an_empty_existence.jpg
@@ -14,4 +14,4 @@ title: Monachopsis Art - An Empty Existence
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=33630&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=33630&sort=pd.name&order=ASC) for $10.50

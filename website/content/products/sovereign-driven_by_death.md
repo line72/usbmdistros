@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00
+actualPrice: $10.50
 album: Driven By Death
 artist: Sovereign
 categories:
 - Vinyl
-date: '2024-11-02T05:26:55'
+date: '2024-11-23T06:26:35'
 draft: false
 images:
 - /images/covers/sovereign-driven_by_death.jpg
@@ -14,4 +14,4 @@ title: Sovereign - Driven By Death
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=35740&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=35740&sort=pd.name&order=ASC) for $10.50

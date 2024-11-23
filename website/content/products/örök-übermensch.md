@@ -1,10 +1,10 @@
 ---
-actualPrice: $8.00
+actualPrice: $7.00
 album: "\xDCbermensch"
 artist: "\xD6r\xF6k"
 categories:
 - CD
-date: '2024-11-02T05:27:50'
+date: '2024-11-23T06:27:21'
 draft: false
 images:
 - "/images/covers/\xF6r\xF6k-\xFCbermensch.jpg"
@@ -14,4 +14,4 @@ title: "\xD6r\xF6k - \xDCbermensch"
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=8979&sort=pd.name&order=ASC) for $8.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=8979&sort=pd.name&order=ASC) for $7.00

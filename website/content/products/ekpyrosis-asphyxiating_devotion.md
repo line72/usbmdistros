@@ -1,11 +1,11 @@
 ---
-actualPrice: $8.00 - 20.00
+actualPrice: $7.00 - 17.50
 album: Asphyxiating Devotion
 artist: Ekpyrosis
 categories:
 - Vinyl
 - CD
-date: '2024-11-02T05:27:18'
+date: '2024-11-23T06:26:54'
 draft: false
 images:
 - /images/covers/ekpyrosis-asphyxiating_devotion.jpg
@@ -15,6 +15,6 @@ title: Ekpyrosis - Asphyxiating Devotion
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=52508&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=52508&sort=pd.name&order=ASC) for $17.50
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=5876&sort=pd.name&order=ASC) for $8.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=5876&sort=pd.name&order=ASC) for $7.00

@@ -1,10 +1,10 @@
 ---
-actualPrice: $21.60
+actualPrice: $18.89
 album: Neo Tribal Manimal
 artist: Ifernach
 categories:
 - Vinyl
-date: '2024-11-02T05:25:49'
+date: '2024-11-23T06:25:39'
 draft: false
 images:
 - /images/covers/ifernach-neo_tribal_manimal.jpg
@@ -14,4 +14,4 @@ title: Ifernach - Neo Tribal Manimal
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=51117&sort=pd.name&order=ASC) for $21.60
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=51117&sort=pd.name&order=ASC) for $18.89

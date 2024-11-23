@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00
+actualPrice: $10.50
 album: First Spell/Black Seared Heart
 artist: Gehenna
 categories:
 - CD
-date: '2024-11-08T06:25:26'
+date: '2024-11-23T06:26:58'
 draft: false
 images:
 - /images/covers/gehenna-first_spell-black_seared_heart.jpg
@@ -14,4 +14,4 @@ title: Gehenna - First Spell/Black Seared Heart
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=57672&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=57672&sort=pd.name&order=ASC) for $10.50

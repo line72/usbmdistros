@@ -6,7 +6,7 @@ categories:
 - Vinyl
 - Cassette
 - CD
-date: '2024-11-02T05:27:09'
+date: '2024-11-23T06:26:47'
 draft: false
 images:
 - /images/covers/condescendance-chao_wampirii.jpg
@@ -20,4 +20,4 @@ title: Condescendance - Chao Wampirii
 ## Cassette
 * Purchase from [Sto'Vo'Kor Records](https://stovokor-records.com/products/condescendance-chao-wampirii) for $10.00
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=19719&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=19719&sort=pd.name&order=ASC) for $10.50

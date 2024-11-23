@@ -1,10 +1,10 @@
 ---
-actualPrice: $40.00
+actualPrice: $35.00
 album: 3 X MC Boxset
 artist: "Sarc\xF3fago"
 categories:
 - Cassette
-date: '2024-11-02T05:28:47'
+date: '2024-11-23T06:28:11'
 draft: false
 images:
 - "/images/covers/sarc\xF3fago-3_x_mc_boxset.jpg"
@@ -14,4 +14,4 @@ title: "Sarc\xF3fago - 3 X MC Boxset"
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=57209&sort=pd.name&order=ASC) for $40.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=57209&sort=pd.name&order=ASC) for $35.00

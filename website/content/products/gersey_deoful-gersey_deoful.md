@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00
+actualPrice: $10.50
 album: Gersey Deoful
 artist: Gersey Deoful
 categories:
 - Cassette
-date: '2024-11-02T05:28:29'
+date: '2024-11-23T06:27:55'
 draft: false
 images:
 - /images/covers/gersey_deoful-gersey_deoful.jpg
@@ -14,4 +14,4 @@ title: Gersey Deoful - Gersey Deoful
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=38573&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=38573&sort=pd.name&order=ASC) for $10.50

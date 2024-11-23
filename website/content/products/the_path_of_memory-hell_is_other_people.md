@@ -1,10 +1,10 @@
 ---
-actualPrice: $8.00
+actualPrice: $7.00
 album: Hell is Other People
 artist: The Path of Memory
 categories:
 - CD
-date: '2024-11-02T05:28:04'
+date: '2024-11-23T06:27:34'
 draft: false
 images:
 - /images/covers/the_path_of_memory-hell_is_other_people.jpg
@@ -14,4 +14,4 @@ title: The Path of Memory - Hell is Other People
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=9921&sort=pd.name&order=ASC) for $8.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=9921&sort=pd.name&order=ASC) for $7.00

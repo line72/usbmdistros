@@ -1,10 +1,10 @@
 ---
-actualPrice: $8.00
+actualPrice: $7.00
 album: The Gates of Hell
 artist: Fedra
 categories:
 - CD
-date: '2024-11-02T05:27:20'
+date: '2024-11-23T06:26:56'
 draft: false
 images:
 - /images/covers/fedra-the_gates_of_hell.jpg
@@ -14,4 +14,4 @@ title: Fedra - The Gates of Hell
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=46600&sort=pd.name&order=ASC) for $8.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=46600&sort=pd.name&order=ASC) for $7.00

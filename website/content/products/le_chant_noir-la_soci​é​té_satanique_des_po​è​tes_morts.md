@@ -1,10 +1,10 @@
 ---
-actualPrice: $9.60
+actualPrice: $8.40
 album: "La Soci\u200B\xC9\u200BT\xE9 Satanique Des Po\u200B\xC8\u200BTes Morts"
 artist: Le Chant Noir
 categories:
 - CD
-date: '2024-11-02T05:27:36'
+date: '2024-11-23T06:27:11'
 draft: false
 images:
 - "/images/covers/le_chant_noir-la_soci\u200B\xE9\u200Bt\xE9_satanique_des_po\u200B\
@@ -17,4 +17,4 @@ title: "Le Chant Noir - La Soci\u200B\xC9\u200BT\xE9 Satanique Des Po\u200B\xC8\
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=50062&sort=pd.name&order=ASC) for $9.60
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=50062&sort=pd.name&order=ASC) for $8.40

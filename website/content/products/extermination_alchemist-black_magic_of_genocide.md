@@ -1,10 +1,10 @@
 ---
-actualPrice: $9.60
+actualPrice: $8.40
 album: Black Magic Of Genocide
 artist: Extermination Alchemist
 categories:
 - CD
-date: '2024-11-02T05:27:20'
+date: '2024-11-23T06:26:55'
 draft: false
 images:
 - /images/covers/extermination_alchemist-black_magic_of_genocide.jpg
@@ -14,4 +14,4 @@ title: Extermination Alchemist - Black Magic Of Genocide
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=44233&sort=pd.name&order=ASC) for $9.60
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=44233&sort=pd.name&order=ASC) for $8.40

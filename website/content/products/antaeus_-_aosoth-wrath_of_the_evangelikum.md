@@ -1,10 +1,10 @@
 ---
-actualPrice: $24.00
+actualPrice: $21.00
 album: Wrath Of The Evangelikum
 artist: Antaeus / Aosoth
 categories:
 - Vinyl
-date: '2024-11-02T05:25:15'
+date: '2024-11-23T06:25:10'
 draft: false
 images:
 - /images/covers/antaeus_-_aosoth-wrath_of_the_evangelikum.jpg
@@ -14,4 +14,4 @@ title: Antaeus / Aosoth - Wrath Of The Evangelikum
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=45427&sort=pd.name&order=ASC) for $24.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=45427&sort=pd.name&order=ASC) for $21.00

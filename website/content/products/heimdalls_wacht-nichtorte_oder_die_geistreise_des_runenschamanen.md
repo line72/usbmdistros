@@ -1,10 +1,10 @@
 ---
-actualPrice: $24.00
+actualPrice: $21.00
 album: Nichtorte Oder Die Geistreise Des Runenschamanen
 artist: Heimdalls Wacht
 categories:
 - Vinyl
-date: '2024-11-02T05:25:46'
+date: '2024-11-23T06:25:34'
 draft: false
 images:
 - /images/covers/heimdalls_wacht-nichtorte_oder_die_geistreise_des_runenschamanen.jpg
@@ -14,4 +14,4 @@ title: Heimdalls Wacht - Nichtorte Oder Die Geistreise Des Runenschamanen
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=51991&sort=pd.name&order=ASC) for $24.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=51991&sort=pd.name&order=ASC) for $21.00

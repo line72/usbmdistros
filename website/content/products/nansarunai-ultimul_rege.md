@@ -1,11 +1,11 @@
 ---
-actualPrice: $12.00 - 21.00
+actualPrice: $10.50 - 21.00
 album: Ultimul Rege
 artist: Nansarunai
 categories:
 - Vinyl
 - CD
-date: '2024-11-02T05:27:45'
+date: '2024-11-23T06:27:17'
 draft: false
 images:
 - /images/covers/nansarunai-ultimul_rege.jpg
@@ -17,4 +17,4 @@ title: Nansarunai - Ultimul Rege
 ## Vinyl
 * Purchase from [Sto'Vo'Kor Records](https://stovokor-records.com/products/nansarunai-ultimul-rege) for $21.00
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=20775&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=20775&sort=pd.name&order=ASC) for $10.50

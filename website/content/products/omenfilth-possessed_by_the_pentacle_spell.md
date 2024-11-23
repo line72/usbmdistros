@@ -1,11 +1,11 @@
 ---
-actualPrice: $8.00 - 9.60
+actualPrice: $7.00 - 8.40
 album: Possessed by the Pentacle Spell
 artist: Omenfilth
 categories:
 - Cassette
 - CD
-date: '2024-11-02T05:28:42'
+date: '2024-11-23T06:28:07'
 draft: false
 images:
 - /images/covers/omenfilth-possessed_by_the_pentacle_spell.jpg
@@ -15,6 +15,6 @@ title: Omenfilth - Possessed by the Pentacle Spell
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=29116&sort=pd.name&order=ASC) for $8.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=29116&sort=pd.name&order=ASC) for $7.00
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=50438&sort=pd.name&order=ASC) for $9.60
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=50438&sort=pd.name&order=ASC) for $8.40

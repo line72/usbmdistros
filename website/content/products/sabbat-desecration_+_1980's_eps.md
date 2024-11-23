@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00
+actualPrice: $10.50
 album: Desecration + 1980's Eps
 artist: Sabbat
 categories:
 - CD
-date: '2024-11-02T05:27:55'
+date: '2024-11-23T06:27:26'
 draft: false
 images:
 - /images/covers/sabbat-desecration_+_1980's_eps.jpg
@@ -14,4 +14,4 @@ title: Sabbat - Desecration + 1980's Eps
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=55170&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=55170&sort=pd.name&order=ASC) for $10.50

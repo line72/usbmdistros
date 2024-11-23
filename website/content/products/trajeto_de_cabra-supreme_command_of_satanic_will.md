@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00
+actualPrice: $10.50
 album: Supreme Command of Satanic Will
 artist: Trajeto de Cabra
 categories:
 - Vinyl
-date: '2024-11-02T05:26:30'
+date: '2024-11-23T06:26:15'
 draft: false
 images:
 - /images/covers/trajeto_de_cabra-supreme_command_of_satanic_will.jpg
@@ -14,4 +14,4 @@ title: Trajeto de Cabra - Supreme Command of Satanic Will
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=39035&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=39035&sort=pd.name&order=ASC) for $10.50

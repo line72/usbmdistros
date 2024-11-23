@@ -1,10 +1,10 @@
 ---
-actualPrice: $15.00 - 16.00
+actualPrice: $14.00 - 15.00
 album: "Delh\xFFs-c\xE4tess"
 artist: Celestia
 categories:
 - Vinyl
-date: '2024-11-02T05:25:25'
+date: '2024-11-23T06:25:19'
 draft: false
 images:
 - "/images/covers/celestia-delh\xFFs-c\xE4tess.jpg"
@@ -14,5 +14,5 @@ title: "Celestia - Delh\xFFs-c\xE4tess"
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29789&sort=pd.name&order=ASC) for $16.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29789&sort=pd.name&order=ASC) for $14.00
 * Purchase from [Sto'Vo'Kor Records](https://stovokor-records.com/products/celestia-delhsctess) for $15.00

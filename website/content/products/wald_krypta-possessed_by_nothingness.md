@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00
+actualPrice: $10.50
 album: Possessed by Nothingness
 artist: Wald Krypta
 categories:
 - Vinyl
-date: '2024-11-02T05:26:37'
+date: '2024-11-23T06:26:20'
 draft: false
 images:
 - /images/covers/wald_krypta-possessed_by_nothingness.jpg
@@ -14,4 +14,4 @@ title: Wald Krypta - Possessed by Nothingness
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=39018&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=39018&sort=pd.name&order=ASC) for $10.50

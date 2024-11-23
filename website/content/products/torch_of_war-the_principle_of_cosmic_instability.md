@@ -1,10 +1,10 @@
 ---
-actualPrice: $4.00
+actualPrice: $3.50
 album: The Principle of Cosmic Instability
 artist: Torch of War
 categories:
 - CD
-date: '2024-11-02T05:28:05'
+date: '2024-11-23T06:27:35'
 draft: false
 images:
 - /images/covers/torch_of_war-the_principle_of_cosmic_instability.png
@@ -14,4 +14,4 @@ title: Torch of War - The Principle of Cosmic Instability
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=1168&sort=pd.name&order=ASC) for $4.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=1168&sort=pd.name&order=ASC) for $3.50

@@ -1,10 +1,10 @@
 ---
-actualPrice: $5.60
+actualPrice: $4.90
 album: Cipher
 artist: Versifist
 categories:
 - Vinyl
-date: '2024-11-02T05:26:56'
+date: '2024-11-23T06:26:37'
 draft: false
 images:
 - /images/covers/versifist-cipher.jpg
@@ -14,4 +14,4 @@ title: Versifist - Cipher
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=1935&sort=pd.name&order=ASC) for $5.60
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=1935&sort=pd.name&order=ASC) for $4.90

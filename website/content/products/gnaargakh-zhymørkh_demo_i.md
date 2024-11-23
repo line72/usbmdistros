@@ -1,10 +1,10 @@
 ---
-actualPrice: $16.00
+actualPrice: $14.00
 album: "Zhym\xF8rkh Demo I"
 artist: Gnaargakh
 categories:
 - Vinyl
-date: '2024-11-02T05:25:41'
+date: '2024-11-23T06:25:31'
 draft: false
 images:
 - "/images/covers/gnaargakh-zhym\xF8rkh_demo_i.jpg"
@@ -14,4 +14,4 @@ title: "Gnaargakh - Zhym\xF8rkh Demo I"
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=28340&sort=pd.name&order=ASC) for $16.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=28340&sort=pd.name&order=ASC) for $14.00

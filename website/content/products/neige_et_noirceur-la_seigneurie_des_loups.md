@@ -1,10 +1,10 @@
 ---
-actualPrice: $20.00
+actualPrice: $17.50
 album: La Seigneurie des Loups
 artist: Neige et Noirceur
 categories:
 - Vinyl
-date: '2024-11-02T05:26:06'
+date: '2024-11-23T06:25:54'
 draft: false
 images:
 - /images/covers/neige_et_noirceur-la_seigneurie_des_loups.jpg
@@ -14,4 +14,4 @@ title: Neige et Noirceur - La Seigneurie des Loups
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=26642&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=26642&sort=pd.name&order=ASC) for $17.50

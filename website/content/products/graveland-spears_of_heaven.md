@@ -1,10 +1,10 @@
 ---
-actualPrice: $9.60
+actualPrice: $8.40
 album: Spears Of Heaven
 artist: Graveland
 categories:
 - Cassette
-date: '2024-11-02T05:28:30'
+date: '2024-11-23T06:27:56'
 draft: false
 images:
 - /images/covers/graveland-spears_of_heaven.jpg
@@ -14,4 +14,4 @@ title: Graveland - Spears Of Heaven
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=56522&sort=pd.name&order=ASC) for $9.60
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=56522&sort=pd.name&order=ASC) for $8.40

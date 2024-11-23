@@ -1,10 +1,10 @@
 ---
-actualPrice: $20.00
+actualPrice: $17.50
 album: Fatherland
 artist: Grimwald
 categories:
 - Vinyl
-date: '2024-11-02T05:25:44'
+date: '2024-11-23T06:25:33'
 draft: false
 images:
 - /images/covers/grimwald-fatherland.jpg
@@ -14,4 +14,4 @@ title: Grimwald - Fatherland
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=47117&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=47117&sort=pd.name&order=ASC) for $17.50

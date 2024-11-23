@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00
+actualPrice: $10.50
 album: Demigod
 artist: Behemoth
 categories:
 - CD
-date: '2024-11-02T05:27:04'
+date: '2024-11-23T06:26:43'
 draft: false
 images:
 - /images/covers/behemoth-demigod.jpg
@@ -14,4 +14,4 @@ title: Behemoth - Demigod
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=31524&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=31524&sort=pd.name&order=ASC) for $10.50

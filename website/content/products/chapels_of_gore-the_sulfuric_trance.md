@@ -1,10 +1,10 @@
 ---
-actualPrice: $6.40
+actualPrice: $5.60
 album: The Sulfuric Trance
 artist: Chapels Of Gore
 categories:
 - Vinyl
-date: '2024-11-02T05:26:45'
+date: '2024-11-23T06:26:26'
 draft: false
 images:
 - /images/covers/chapels_of_gore-the_sulfuric_trance.jpg
@@ -14,4 +14,4 @@ title: Chapels Of Gore - The Sulfuric Trance
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=11982&sort=pd.name&order=ASC) for $6.40
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=11982&sort=pd.name&order=ASC) for $5.60

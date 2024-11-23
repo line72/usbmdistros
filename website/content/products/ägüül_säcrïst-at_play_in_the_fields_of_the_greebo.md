@@ -1,10 +1,10 @@
 ---
-actualPrice: $20.00
+actualPrice: $17.50
 album: At Play in the Fields of the Greebo
 artist: "\xC4g\xFC\xFCl S\xE4cr\xEFst"
 categories:
 - Vinyl
-date: '2024-11-02T05:25:10'
+date: '2024-11-23T06:25:05'
 draft: false
 images:
 - "/images/covers/\xE4g\xFC\xFCl_s\xE4cr\xEFst-at_play_in_the_fields_of_the_greebo.jpg"
@@ -14,4 +14,4 @@ title: "\xC4g\xFC\xFCl S\xE4cr\xEFst - At Play in the Fields of the Greebo"
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29379&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29379&sort=pd.name&order=ASC) for $17.50

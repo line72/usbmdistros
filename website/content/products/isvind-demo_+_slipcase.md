@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00
+actualPrice: $10.50
 album: Demo + Slipcase
 artist: Isvind
 categories:
 - Cassette
-date: '2024-11-02T05:28:34'
+date: '2024-11-23T06:28:00'
 draft: false
 images:
 - /images/covers/isvind-demo_+_slipcase.jpg
@@ -14,4 +14,4 @@ title: Isvind - Demo + Slipcase
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=56663&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=56663&sort=pd.name&order=ASC) for $10.50

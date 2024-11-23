@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00
+actualPrice: $10.50
 album: Thrashing Cult Fest 2024
 artist: Abigail
 categories:
 - Cassette
-date: '2024-11-02T05:28:16'
+date: '2024-11-23T06:27:43'
 draft: false
 images:
 - /images/covers/abigail-thrashing_cult_fest_2024.jpg
@@ -14,4 +14,4 @@ title: Abigail - Thrashing Cult Fest 2024
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=55850&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=55850&sort=pd.name&order=ASC) for $10.50

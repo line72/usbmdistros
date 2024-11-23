@@ -1,10 +1,10 @@
 ---
-actualPrice: $6.40
+actualPrice: $5.60
 album: Flesh Assimilation
 artist: Zom
 categories:
 - CD
-date: '2024-11-02T05:28:16'
+date: '2024-11-23T06:27:43'
 draft: false
 images:
 - /images/covers/zom-flesh_assimilation.jpg
@@ -14,4 +14,4 @@ title: Zom - Flesh Assimilation
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=2148&sort=pd.name&order=ASC) for $6.40
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=2148&sort=pd.name&order=ASC) for $5.60

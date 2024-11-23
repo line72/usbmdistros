@@ -6,7 +6,7 @@ categories:
 - Vinyl
 - Cassette
 - CD
-date: '2024-11-02T05:25:44'
+date: '2024-11-23T06:25:33'
 draft: false
 images:
 - /images/covers/grimdor-the_land_of_shadow.jpg
@@ -16,7 +16,7 @@ title: Grimdor - The Land of Shadow
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=38056&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=38056&sort=pd.name&order=ASC) for $17.50
 * Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/grimdor-the-land-of-shadow-vinyl-lp-clear-100-or-oxblood-250-w-insert) for $24.00 :: (clear-100 or oxblood-250, w/insert)
 ## Cassette
 * Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/grimdor-the-land-of-shadow-cassette-tape-lim-250) for $10.00

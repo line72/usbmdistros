@@ -1,10 +1,10 @@
 ---
-actualPrice: $8.00
+actualPrice: $7.00
 album: Rebirth of the Flame
 artist: Storm Legion
 categories:
 - Vinyl
-date: '2024-11-02T05:26:55'
+date: '2024-11-23T06:26:35'
 draft: false
 images:
 - /images/covers/storm_legion-rebirth_of_the_flame.jpg
@@ -14,4 +14,4 @@ title: Storm Legion - Rebirth of the Flame
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=9300&sort=pd.name&order=ASC) for $8.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=9300&sort=pd.name&order=ASC) for $7.00

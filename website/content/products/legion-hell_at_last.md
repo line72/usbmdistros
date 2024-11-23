@@ -1,10 +1,10 @@
 ---
-actualPrice: $5.60
+actualPrice: $4.90
 album: Hell At Last
 artist: Legion
 categories:
 - Vinyl
-date: '2024-11-02T05:26:50'
+date: '2024-11-23T06:26:30'
 draft: false
 images:
 - /images/covers/legion-hell_at_last.jpg
@@ -14,4 +14,4 @@ title: Legion - Hell At Last
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=23688&sort=pd.name&order=ASC) for $5.60
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=23688&sort=pd.name&order=ASC) for $4.90

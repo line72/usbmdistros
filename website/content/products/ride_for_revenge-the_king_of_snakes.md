@@ -1,10 +1,10 @@
 ---
-actualPrice: $8.00
+actualPrice: $7.00
 album: The King of Snakes
 artist: Ride for Revenge
 categories:
 - CD
-date: '2024-11-02T05:27:54'
+date: '2024-11-23T06:27:25'
 draft: false
 images:
 - /images/covers/ride_for_revenge-the_king_of_snakes.png
@@ -14,4 +14,4 @@ title: Ride for Revenge - The King of Snakes
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=49845&sort=pd.name&order=ASC) for $8.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=49845&sort=pd.name&order=ASC) for $7.00

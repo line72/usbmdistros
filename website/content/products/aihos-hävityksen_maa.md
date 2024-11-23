@@ -1,11 +1,11 @@
 ---
-actualPrice: $12.00 - 20.00
+actualPrice: $10.50 - 17.50
 album: "H\xE4vityksen Maa"
 artist: Aihos
 categories:
 - Vinyl
 - CD
-date: '2024-11-02T05:26:58'
+date: '2024-11-23T06:26:39'
 draft: false
 images:
 - "/images/covers/aihos-h\xE4vityksen_maa.jpg"
@@ -15,6 +15,6 @@ title: "Aihos - H\xE4vityksen Maa"
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=19928&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=19928&sort=pd.name&order=ASC) for $17.50
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=19895&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=19895&sort=pd.name&order=ASC) for $10.50

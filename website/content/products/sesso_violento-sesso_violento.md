@@ -1,10 +1,10 @@
 ---
-actualPrice: $6.40
+actualPrice: $5.60
 album: Sesso Violento
 artist: Sesso Violento
 categories:
 - Vinyl
-date: '2024-11-02T05:26:54'
+date: '2024-11-23T06:26:35'
 draft: false
 images:
 - /images/covers/sesso_violento-sesso_violento.jpg
@@ -14,4 +14,4 @@ title: Sesso Violento - Sesso Violento
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=52747&sort=pd.name&order=ASC) for $6.40
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=52747&sort=pd.name&order=ASC) for $5.60

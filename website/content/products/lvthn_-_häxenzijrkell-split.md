@@ -1,10 +1,10 @@
 ---
-actualPrice: $13.60
+actualPrice: $11.90
 album: Split
 artist: "Lvthn / H\xE4xenzijrkell"
 categories:
 - Vinyl
-date: '2024-11-02T05:25:57'
+date: '2024-11-23T06:25:46'
 draft: false
 images:
 - "/images/covers/lvthn_-_h\xE4xenzijrkell-split.jpg"
@@ -14,4 +14,4 @@ title: "Lvthn / H\xE4xenzijrkell - Split"
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=19030&sort=pd.name&order=ASC) for $13.60
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=19030&sort=pd.name&order=ASC) for $11.90

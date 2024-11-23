@@ -1,11 +1,11 @@
 ---
-actualPrice: $12.00 - 24.00
+actualPrice: $10.50 - 21.00
 album: Dominions Of The Eclipse
 artist: Thornium
 categories:
 - Vinyl
 - CD
-date: '2024-11-02T05:28:04'
+date: '2024-11-23T06:27:35'
 draft: false
 images:
 - /images/covers/thornium-dominions_of_the_eclipse.jpg
@@ -15,6 +15,6 @@ title: Thornium - Dominions Of The Eclipse
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=55860&sort=pd.name&order=ASC) for $24.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=55860&sort=pd.name&order=ASC) for $21.00
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=48794&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=48794&sort=pd.name&order=ASC) for $10.50

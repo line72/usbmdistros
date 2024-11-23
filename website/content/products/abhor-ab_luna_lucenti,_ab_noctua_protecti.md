@@ -1,10 +1,10 @@
 ---
-actualPrice: $20.00
+actualPrice: $17.50
 album: Ab Luna Lucenti, Ab Noctua Protecti
 artist: Abhor
 categories:
 - Vinyl
-date: '2024-11-02T05:25:07'
+date: '2024-11-23T06:25:02'
 draft: false
 images:
 - /images/covers/abhor-ab_luna_lucenti,_ab_noctua_protecti.png
@@ -14,4 +14,4 @@ title: Abhor - Ab Luna Lucenti, Ab Noctua Protecti
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=57420&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=57420&sort=pd.name&order=ASC) for $17.50

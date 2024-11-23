@@ -1,10 +1,10 @@
 ---
-actualPrice: $20.00
+actualPrice: $17.50
 album: Synviljor
 artist: Stilla
 categories:
 - Vinyl
-date: '2024-11-02T05:26:25'
+date: '2024-11-23T06:26:10'
 draft: false
 images:
 - /images/covers/stilla-synviljor.jpg
@@ -14,4 +14,4 @@ title: Stilla - Synviljor
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=20563&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=20563&sort=pd.name&order=ASC) for $17.50

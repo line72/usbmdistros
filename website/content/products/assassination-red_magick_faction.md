@@ -1,11 +1,11 @@
 ---
-actualPrice: $11.00 - 24.00
+actualPrice: $11.00 - 21.00
 album: Red Magick Faction
 artist: Assassination
 categories:
 - Vinyl
 - CD
-date: '2024-11-02T05:25:17'
+date: '2024-11-23T06:25:12'
 draft: false
 images:
 - /images/covers/assassination-red_magick_faction.png
@@ -15,6 +15,6 @@ title: Assassination - Red Magick Faction
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=51394&sort=pd.name&order=ASC) for $24.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=51394&sort=pd.name&order=ASC) for $21.00
 ## CD
 * Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/assassination-red-magick-faction-a5-digipak-cd/) for $11.00 :: red magick faction a5 digipak cd
