@@ -1,5 +1,5 @@
 ---
-actualPrice: $5.50 - 17.50
+actualPrice: $10.50 - 17.50
 album: Fetishism
 artist: Sabbat
 categories:
@@ -18,4 +18,3 @@ title: Sabbat - Fetishism
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=56902&sort=pd.name&order=ASC) for $17.50
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=54446&sort=pd.name&order=ASC) for $10.50
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=54447&sort=pd.name&order=ASC) for $5.50

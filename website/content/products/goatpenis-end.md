@@ -1,9 +1,8 @@
 ---
-actualPrice: $14.00 - 28.00
+actualPrice: $14.00
 album: End
 artist: Goatpenis
 categories:
-- Vinyl
 - Cassette
 - CD
 date: '2024-11-23T06:27:55'
@@ -15,8 +14,6 @@ thumbnailImage: /images/covers/goatpenis-end-thumb.jpg
 title: Goatpenis - End
 ---
 
-## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=57677&sort=pd.name&order=ASC) for $28.00
 ## Cassette
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=57678&sort=pd.name&order=ASC) for $14.00
 ## CD
