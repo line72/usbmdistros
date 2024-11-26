@@ -18,4 +18,3 @@ title: "N\xE4chtlich - Howling Depths Rehearsal"
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=48857&sort=pd.name&order=ASC) for $18.89
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=42179&sort=pd.name&order=ASC) for $8.40
-* Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/nachtlich-howling-depths-rehearsal-cd-lim200) for $12.00 :: (lim.200)

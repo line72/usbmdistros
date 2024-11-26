@@ -5,7 +5,7 @@ artist: Sargeist
 categories:
 - Vinyl
 - Cassette
-date: '2024-11-19T06:02:49'
+date: '2024-11-26T06:27:43'
 draft: false
 images:
 - /images/covers/sargeist-satanic_black_devotion.jpg
@@ -16,5 +16,6 @@ title: Sargeist - Satanic Black Devotion
 
 ## Vinyl
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/sargeist-satanic-black-devotion-12-lp) for $25.00 :: black devotion 12" lp
+* Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/sargeist-satanic-black-deovtion-12-lp-smoke/) for $25.00 :: black devotion 12&#8243; lp smoke
 ## Cassette
 * Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/sargeist-satanic-black-devotion-cassette/) for $13.00 :: black devotion cassette

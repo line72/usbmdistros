@@ -5,7 +5,7 @@ artist: Sargeist
 categories:
 - Vinyl
 - Cassette
-date: '2024-11-19T06:03:29'
+date: '2024-11-26T06:27:43'
 draft: false
 images:
 - /images/covers/sargeist-disciple_of_the_heinous_path.jpg
@@ -16,5 +16,7 @@ title: Sargeist - Disciple of the Heinous Path
 
 ## Vinyl
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/sargeist-disciple-of-the-heinous-path-12-lp) for $25.00
+* Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/sargeist-disciple-of-the-heinous-path-12-lp-smoke/) for $25.00
 ## Cassette
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/sargeist-disciple-of-the-heinous-path-tape) for $12.00
+* Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/sargeist-disciple-of-the-heinous-path-cassette/) for $13.00
