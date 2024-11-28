@@ -6,7 +6,7 @@ categories:
 - Vinyl
 - Cassette
 - CD
-date: '2024-11-23T06:28:13'
+date: '2024-11-28T06:26:25'
 draft: false
 images:
 - /images/covers/stangarigel-metafyzika_barbarstva.jpg
@@ -20,4 +20,4 @@ title: Stangarigel - Metafyzika Barbarstva
 ## Cassette
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=57343&sort=pd.name&order=ASC) for $10.50
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=57342&sort=pd.name&order=ASC) for $10.50
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=58385&sort=pd.name&order=ASC) for $10.50

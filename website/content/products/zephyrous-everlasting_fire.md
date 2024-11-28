@@ -4,7 +4,7 @@ album: Everlasting Fire
 artist: Zephyrous
 categories:
 - CD
-date: '2024-11-23T06:27:43'
+date: '2024-11-28T06:26:35'
 draft: false
 images:
 - /images/covers/zephyrous-everlasting_fire.jpg
@@ -14,4 +14,4 @@ title: Zephyrous - Everlasting Fire
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=54839&sort=pd.name&order=ASC) for $8.40
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=58363&sort=pd.name&order=ASC) for $8.40

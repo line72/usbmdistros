@@ -1,9 +1,8 @@
 ---
-actualPrice: $8.40 - 25.00
+actualPrice: $8.40 - 15.00
 album: The Celtic Winter
 artist: Graveland
 categories:
-- Vinyl
 - Cassette
 - CD
 date: '2024-11-23T06:26:59'
@@ -15,8 +14,6 @@ thumbnailImage: /images/covers/graveland-the_celtic_winter-thumb.jpg
 title: Graveland - The Celtic Winter
 ---
 
-## Vinyl
-* Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/graveland-the-celtic-winter-12-gatefold-lp/) for $25.00 :: gatefold lp
 ## Cassette
 * Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/graveland-the-celtic-winter-cassette/) for $13.00
 ## CD

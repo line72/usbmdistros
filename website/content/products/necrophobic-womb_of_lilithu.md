@@ -4,7 +4,7 @@ album: Womb of Lilithu
 artist: Necrophobic
 categories:
 - Vinyl
-date: '2024-11-23T06:25:54'
+date: '2024-11-28T06:24:48'
 draft: false
 images:
 - /images/covers/necrophobic-womb_of_lilithu.jpg
@@ -14,4 +14,4 @@ title: Necrophobic - Womb of Lilithu
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=54288&sort=pd.name&order=ASC) for $21.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=58347&sort=pd.name&order=ASC) for $21.00

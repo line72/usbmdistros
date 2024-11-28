@@ -5,7 +5,7 @@ artist: Wineta
 categories:
 - Vinyl
 - CD
-date: '2024-11-23T06:27:42'
+date: '2024-11-28T06:25:31'
 draft: false
 images:
 - "/images/covers/wineta-zanim_wstanie_dzie\u0144_-_reh.'93.jpg"
@@ -15,6 +15,6 @@ title: "Wineta - Zanim wstanie dzie\u0144 / Reh.'93"
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=20946&sort=pd.name&order=ASC) for $10.50
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=58371&sort=pd.name&order=ASC) for $10.50
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=20947&sort=pd.name&order=ASC) for $8.40

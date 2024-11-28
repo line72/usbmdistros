@@ -4,7 +4,7 @@ album: Innermost
 artist: Hate Forest
 categories:
 - Vinyl
-date: '2024-11-23T06:25:34'
+date: '2024-11-28T06:24:31'
 draft: false
 images:
 - /images/covers/hate_forest-innermost.jpg
@@ -14,4 +14,4 @@ title: Hate Forest - Innermost
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=53833&sort=pd.name&order=ASC) for $17.50
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=58294&sort=pd.name&order=ASC) for $17.50

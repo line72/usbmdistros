@@ -4,7 +4,7 @@ album: "Monte Verit\xE0"
 artist: "C\xE9notaphe"
 categories:
 - Vinyl
-date: '2024-11-23T06:25:19'
+date: '2024-11-28T06:24:15'
 draft: false
 images:
 - "/images/covers/c\xE9notaphe-monte_verit\xE0.jpg"
@@ -14,4 +14,4 @@ title: "C\xE9notaphe - Monte Verit\xE0"
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=54020&sort=pd.name&order=ASC) for $13.75
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=58254&sort=pd.name&order=ASC) for $13.75

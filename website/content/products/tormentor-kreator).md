@@ -4,7 +4,7 @@ album: Kreator)
 artist: Tormentor
 categories:
 - Vinyl
-date: '2024-11-23T06:26:14'
+date: '2024-11-28T06:25:09'
 draft: false
 images:
 - /images/covers/tormentor-kreator).png
@@ -14,5 +14,5 @@ title: Tormentor - Kreator)
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=48742&sort=pd.name&order=ASC) for $17.50
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=54585&sort=pd.name&order=ASC) for $17.50
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=58343&sort=pd.name&order=ASC) for $17.50
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=58344&sort=pd.name&order=ASC) for $17.50
