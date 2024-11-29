@@ -1,5 +1,5 @@
 ---
-actualPrice: $25.99
+actualPrice: $25.00 - 25.99
 album: The Timeless Everpresent
 artist: Vimur
 categories:
@@ -14,4 +14,5 @@ title: Vimur - The Timeless Everpresent
 ---
 
 ## Vinyl
+* Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/vimur-the-timeless-everpresent-vinyl-lp) for $25.00 :: (color)
 * Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/vimur-the-timeless-everpresent-green-vinyl-lp-1) for $25.99 :: green vinyl lp

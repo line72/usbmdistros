@@ -4,7 +4,7 @@ album: Infernalistica
 artist: Lucifugum
 categories:
 - CD
-date: '2024-11-23T06:27:12'
+date: '2024-07-09T13:57:26'
 draft: false
 images:
 - /images/covers/lucifugum-infernalistica.jpg
@@ -14,5 +14,4 @@ title: Lucifugum - Infernalistica
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=11705&sort=pd.name&order=ASC) for $7.00
 * Purchase from [CW Productions](https://shop.cwproductions.net/products/lucifugum-infernalistica-cd) for $7.00
