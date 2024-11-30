@@ -1,10 +1,10 @@
 ---
-actualPrice: $7.00 - 10.00
+actualPrice: $10.00
 album: "Grabschl\xF6fer"
 artist: Goifer
 categories:
 - Cassette
-date: '2024-11-23T06:27:55'
+date: '2023-06-06T05:30:04'
 draft: false
 images:
 - "/images/covers/goifer-grabschl\xF6fer.jpg"
@@ -15,4 +15,3 @@ title: "Goifer - Grabschl\xF6fer"
 
 ## Cassette
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/used-goifer-grabschlofer-cassette) for $10.00 :: Bronze Shell 2021 press
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=37828&sort=pd.name&order=ASC) for $7.00

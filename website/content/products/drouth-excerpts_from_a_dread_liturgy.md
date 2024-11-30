@@ -1,5 +1,5 @@
 ---
-actualPrice: $15.00 - 32.00
+actualPrice: $32.00
 album: Excerpts From A Dread Liturgy
 artist: Drouth
 categories:
@@ -15,4 +15,3 @@ title: Drouth - Excerpts From A Dread Liturgy
 
 ## Vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/drouth-excerpts-from-a-dread-liturgy) for $32.00 :: White w/ Black Splatter 2020 press
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/used-drouth-excerpts-from-a-dread-liturgy-lp) for $15.00 :: White w/ Black Splatter 2020 press

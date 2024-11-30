@@ -1,11 +1,10 @@
 ---
-actualPrice: $8.40 - 32.00
+actualPrice: $32.00
 album: Hour of Ragnarok
 artist: Graveland
 categories:
 - Vinyl
-- CD
-date: '2024-11-23T06:26:59'
+date: '2024-07-09T00:40:12'
 draft: false
 images:
 - /images/covers/graveland-hour_of_ragnarok.jpg
@@ -16,5 +15,3 @@ title: Graveland - Hour of Ragnarok
 
 ## Vinyl
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/graveland-hour-of-ragnarok-12-lp) for $32.00
-## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=56128&sort=pd.name&order=ASC) for $8.40

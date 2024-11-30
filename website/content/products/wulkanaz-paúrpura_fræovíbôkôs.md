@@ -1,11 +1,10 @@
 ---
-actualPrice: $10.50 - 27.00
+actualPrice: $27.00
 album: "Pa\xFArpura Fr\xE6ov\xEDb\xF4k\xF4s"
 artist: Wulkanaz
 categories:
 - Vinyl
-- CD
-date: '2024-11-23T06:27:42'
+date: '2024-07-09T00:40:10'
 draft: false
 images:
 - "/images/covers/wulkanaz-pa\xFArpura_fr\xE6ov\xEDb\xF4k\xF4s.jpg"
@@ -16,6 +15,3 @@ title: "Wulkanaz - Pa\xFArpura Fr\xE6ov\xEDb\xF4k\xF4s"
 
 ## Vinyl
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/wulkanaz-paurpura-fraeovibokos-12-lp-silver-vinyl) for $27.00 :: (silver vinyl)
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29592&sort=pd.name&order=ASC) for $18.89
-## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=28599&sort=pd.name&order=ASC) for $10.50

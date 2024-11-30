@@ -1,10 +1,10 @@
 ---
-actualPrice: $17.50 - 27.00
+actualPrice: $27.00
 album: Hardangervidda Part II
 artist: Ildjarn-Nidhogg
 categories:
 - Vinyl
-date: '2024-11-23T06:25:39'
+date: '2024-07-09T13:55:44'
 draft: false
 images:
 - /images/covers/ildjarn-nidhogg-hardangervidda_part_ii.jpg
@@ -16,4 +16,3 @@ title: Ildjarn-Nidhogg - Hardangervidda Part II
 ## Vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/ildjarn-nidhogg-hardangervidda-part-ii-lp) for $27.00 :: Blue 2021 press vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/ildjarn-nidhogg-hardangervidda-part-ii-lp) for $27.00 :: Black 2021 press vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=55491&sort=pd.name&order=ASC) for $17.50

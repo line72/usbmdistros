@@ -4,7 +4,7 @@ album: Agonia Agnosti
 artist: Lucifugum
 categories:
 - CD
-date: '2024-11-23T06:27:12'
+date: '2024-07-09T13:57:26'
 draft: false
 images:
 - /images/covers/lucifugum-agonia_agnosti.jpg
@@ -14,5 +14,4 @@ title: Lucifugum - Agonia Agnosti
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=11704&sort=pd.name&order=ASC) for $7.00
 * Purchase from [CW Productions](https://shop.cwproductions.net/products/lucifugum-agonia-agnosti-cd) for $7.00

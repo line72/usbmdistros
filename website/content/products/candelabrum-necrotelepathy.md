@@ -1,5 +1,5 @@
 ---
-actualPrice: $17.50 - 30.00
+actualPrice: $25.00 - 30.00
 album: Necrotelepathy
 artist: Candelabrum
 categories:
@@ -15,5 +15,4 @@ title: Candelabrum - Necrotelepathy
 
 ## Vinyl
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/candelabrum-necrotelepathy-12-lp) for $25.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=56898&sort=pd.name&order=ASC) for $17.50
 * Purchase from [CW Productions](https://shop.cwproductions.net/products/candelabrum-necrotelepathy-lp) for $30.00
