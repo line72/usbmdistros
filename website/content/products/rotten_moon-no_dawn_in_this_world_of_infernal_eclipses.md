@@ -1,10 +1,11 @@
 ---
-actualPrice: $27.00
+actualPrice: $8.40 - 27.00
 album: No Dawn in This World of Infernal Eclipses
 artist: Rotten Moon
 categories:
 - Vinyl
-date: '2024-07-09T00:40:09'
+- Cassette
+date: '2024-11-23T06:28:10'
 draft: false
 images:
 - /images/covers/rotten_moon-no_dawn_in_this_world_of_infernal_eclipses.jpg
@@ -15,3 +16,6 @@ title: Rotten Moon - No Dawn in This World of Infernal Eclipses
 
 ## Vinyl
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/rotten-moon-no-dawn-in-this-world-of-infernal-eclipses-12-lp) for $27.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=57293&sort=pd.name&order=ASC) for $18.89
+## Cassette
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=22393&sort=pd.name&order=ASC) for $8.40

@@ -1,10 +1,11 @@
 ---
-actualPrice: $28.00
+actualPrice: $10.50 - 28.00
 album: Afgrondstocht
 artist: Demstervold
 categories:
 - Vinyl
-date: '2024-10-16T05:02:07'
+- CD
+date: '2024-11-23T06:26:51'
 draft: false
 images:
 - /images/covers/demstervold-afgrondstocht.jpg
@@ -15,3 +16,7 @@ title: Demstervold - Afgrondstocht
 
 ## Vinyl
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/demstervold-afgrondstocht-12-lp) for $28.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=57220&sort=pd.name&order=ASC) for $21.00
+## CD
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/demstervold-afgrondstocht-cd) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=57219&sort=pd.name&order=ASC) for $10.50

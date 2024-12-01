@@ -1,10 +1,10 @@
 ---
-actualPrice: $25.00
+actualPrice: $17.50 - 25.00
 album: Blood of Dead God
 artist: Azothyst
 categories:
 - Vinyl
-date: '2024-01-09T06:22:43'
+date: '2024-11-28T06:24:09'
 draft: false
 images:
 - /images/covers/azothyst-blood_of_dead_god.jpg
@@ -16,3 +16,4 @@ title: Azothyst - Blood of Dead God
 ## Vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/azothyst-blood-of-dead-god-lp-1) for $25.00 :: Black 1st press vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/azothyst-blood-of-dead-god-lp-1) for $25.00 :: White 1st press vinyl
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=58257&sort=pd.name&order=ASC) for $17.50

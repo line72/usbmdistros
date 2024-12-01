@@ -1,10 +1,11 @@
 ---
-actualPrice: $27.00
+actualPrice: $10.50 - 27.00
 album: HaglaNaudizEisaz
 artist: Wulkanaz
 categories:
 - Vinyl
-date: '2024-07-09T00:40:14'
+- CD
+date: '2024-11-23T06:27:42'
 draft: false
 images:
 - /images/covers/wulkanaz-haglanaudizeisaz.jpg
@@ -15,3 +16,5 @@ title: Wulkanaz - HaglaNaudizEisaz
 
 ## Vinyl
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/wulkanaz-haglanaudizeisaz-12-lp) for $27.00
+## CD
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=31528&sort=pd.name&order=ASC) for $10.50

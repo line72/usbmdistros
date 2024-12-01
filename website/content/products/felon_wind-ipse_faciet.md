@@ -1,0 +1,17 @@
+---
+actualPrice: $15.40
+album: Ipse Faciet
+artist: Felon Wind
+categories:
+- Vinyl
+date: '2024-11-23T06:25:29'
+draft: false
+images:
+- /images/covers/felon_wind-ipse_faciet.jpg
+inStock: true
+thumbnailImage: /images/covers/felon_wind-ipse_faciet-thumb.jpg
+title: Felon Wind - Ipse Faciet
+---
+
+## Vinyl
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=28430&sort=pd.name&order=ASC) for $15.40

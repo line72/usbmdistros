@@ -1,10 +1,10 @@
 ---
-actualPrice: $25.00
+actualPrice: $17.50 - 25.00
 album: O Ressurgimento da Verdade
 artist: Dolentia
 categories:
 - Vinyl
-date: '2024-07-09T00:40:08'
+date: '2024-11-23T06:25:25'
 draft: false
 images:
 - /images/covers/dolentia-o_ressurgimento_da_verdade.jpg
@@ -15,3 +15,4 @@ title: Dolentia - O Ressurgimento da Verdade
 
 ## Vinyl
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/dolentia-o-ressurgimento-da-verdade-12-lp-white-vinyl) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=28652&sort=pd.name&order=ASC) for $17.50

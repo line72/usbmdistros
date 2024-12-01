@@ -1,10 +1,10 @@
 ---
-actualPrice: $5.00
+actualPrice: $5.00 - 7.00
 album: Visions From The Throne of Eyes
 artist: Idolatry
 categories:
 - CD
-date: '2021-09-14T05:00:11'
+date: '2024-11-23T06:27:05'
 draft: false
 images:
 - /images/covers/idolatry-visions_from_the_throne_of_eyes.jpg
@@ -14,4 +14,5 @@ title: Idolatry - Visions From The Throne of Eyes
 ---
 
 ## CD
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=3449&sort=pd.name&order=ASC) for $7.00
 * Purchase from [Sto'Vo'Kor Records](https://stovokor-records.com/products/idolatry-visions-from-the-throne-of-eyes) for $5.00

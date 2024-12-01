@@ -1,10 +1,10 @@
 ---
-actualPrice: $10.00
+actualPrice: $7.00
 album: Alpha Ursae Minoris
 artist: "Sombre H\xE9ritage"
 categories:
-- Cassette
-date: '2024-07-09T13:56:15'
+- CD
+date: '2024-11-23T06:27:31'
 draft: false
 images:
 - "/images/covers/sombre_h\xE9ritage-alpha_ursae_minoris.png"
@@ -13,5 +13,5 @@ thumbnailImage: "/images/covers/sombre_h\xE9ritage-alpha_ursae_minoris-thumb.png
 title: "Sombre H\xE9ritage - Alpha Ursae Minoris"
 ---
 
-## Cassette
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/used-sombre-heritage-alpha-ursae-minoris-cassette) for $10.00 :: Cassette Tape 2020
+## CD
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=9703&sort=pd.name&order=ASC) for $7.00

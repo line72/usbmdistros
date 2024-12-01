@@ -1,0 +1,17 @@
+---
+actualPrice: $5.60
+album: Demo
+artist: Svartfell
+categories:
+- Cassette
+date: '2024-11-23T06:28:13'
+draft: false
+images:
+- /images/covers/svartfell-demo.jpg
+inStock: true
+thumbnailImage: /images/covers/svartfell-demo-thumb.jpg
+title: Svartfell - Demo
+---
+
+## Cassette
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=53154&sort=pd.name&order=ASC) for $5.60

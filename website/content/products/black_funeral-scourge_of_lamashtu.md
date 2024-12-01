@@ -1,10 +1,10 @@
 ---
-actualPrice: $18.00
+actualPrice: $14.00 - 18.00
 album: Scourge of Lamashtu
 artist: Black Funeral
 categories:
 - Vinyl
-date: '2021-06-26T14:49:52'
+date: '2024-11-23T06:25:15'
 draft: false
 images:
 - /images/covers/black_funeral-scourge_of_lamashtu.jpg
@@ -15,3 +15,4 @@ title: Black Funeral - Scourge of Lamashtu
 
 ## Vinyl
 * Purchase from [Sto'Vo'Kor Records](https://stovokor-records.com/products/black-funeral-scourge-of-lamashtu) for $18.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=57586&sort=pd.name&order=ASC) for $14.00

@@ -1,10 +1,10 @@
 ---
-actualPrice: $25.99
+actualPrice: $17.50 - 25.99
 album: Piercing Through the Frozen Eternity
 artist: Moonlight Sorcery
 categories:
 - Vinyl
-date: '2024-10-08T05:51:32'
+date: '2024-11-23T06:25:50'
 draft: false
 images:
 - /images/covers/moonlight_sorcery-piercing_through_the_frozen_eternity.jpg
@@ -14,4 +14,5 @@ title: Moonlight Sorcery - Piercing Through the Frozen Eternity
 ---
 
 ## Vinyl
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=46207&sort=pd.name&order=ASC) for $17.50
 * Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/moonlight-sorcery-piercing-through-the-frozen-eternity-blue-white-galaxy-vinyl-lp-1) for $25.99 :: blue/white galaxy vinyl lp

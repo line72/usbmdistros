@@ -1,5 +1,5 @@
 ---
-actualPrice: $15.00
+actualPrice: $15.00 - 17.50
 album: Du Bach
 artist: Crymych
 categories:
@@ -14,4 +14,5 @@ title: Crymych - Du Bach
 ---
 
 ## Vinyl
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=30151&sort=pd.name&order=ASC) for $17.50
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/used-crymych-du-bach-lp) for $15.00 :: Black 2022 press vinyl
