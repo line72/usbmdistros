@@ -1,11 +1,9 @@
 ---
-actualPrice: $12.00 - 18.89
+actualPrice: $18.89
 album: The Rites of the Vampire Inscriptions
 artist: Wampyric Rites
 categories:
 - Vinyl
-- Cassette
-- CD
 date: '2024-11-23T06:26:20'
 draft: false
 images:
@@ -17,7 +15,3 @@ title: Wampyric Rites - The Rites of the Vampire Inscriptions
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=56476&sort=pd.name&order=ASC) for $18.89
-## Cassette
-* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/wampyric-rites-the-rites-of-the-vampire-inscriptions-tape) for $12.00
-## CD
-* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/wampyric-rites-the-rites-of-the-vampire-inscriptions-cd) for $13.00

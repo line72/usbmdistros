@@ -1,10 +1,10 @@
 ---
-actualPrice: $11.00
+actualPrice: $10.00
 album: Demo 2020
 artist: "Caix\xE3o"
 categories:
 - Vinyl
-date: '2024-11-23T06:25:18'
+date: '2024-12-03T06:22:40'
 draft: false
 images:
 - "/images/covers/caix\xE3o-demo_2020.png"
@@ -14,4 +14,4 @@ title: "Caix\xE3o - Demo 2020"
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=52040&sort=pd.name&order=ASC) for $11.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=52040&sort=pd.name&order=ASC) for $10.00

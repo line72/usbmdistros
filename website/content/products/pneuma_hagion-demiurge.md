@@ -1,10 +1,10 @@
 ---
-actualPrice: $8.25
+actualPrice: $7.50
 album: Demiurge
 artist: Pneuma Hagion
 categories:
 - Vinyl
-date: '2024-11-23T06:25:59'
+date: '2024-12-03T06:23:43'
 draft: false
 images:
 - /images/covers/pneuma_hagion-demiurge.jpg
@@ -14,4 +14,4 @@ title: Pneuma Hagion - Demiurge
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=41763&sort=pd.name&order=ASC) for $8.25
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=41763&sort=pd.name&order=ASC) for $7.50

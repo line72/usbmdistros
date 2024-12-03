@@ -1,10 +1,10 @@
 ---
-actualPrice: $15.40
+actualPrice: $14.00
 album: 30 Years of Agonizing the Dead
 artist: Sadistik Exekution
 categories:
 - Vinyl
-date: '2024-11-23T06:26:03'
+date: '2024-12-03T06:23:47'
 draft: false
 images:
 - /images/covers/sadistik_exekution-30_years_of_agonizing_the_dead.jpg
@@ -14,4 +14,4 @@ title: Sadistik Exekution - 30 Years of Agonizing the Dead
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=49543&sort=pd.name&order=ASC) for $15.40
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=49543&sort=pd.name&order=ASC) for $14.00

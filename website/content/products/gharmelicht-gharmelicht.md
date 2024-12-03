@@ -1,10 +1,10 @@
 ---
-actualPrice: $11.00
+actualPrice: $10.00
 album: Gharmelicht
 artist: Gharmelicht
 categories:
 - Vinyl
-date: '2024-11-23T06:25:31'
+date: '2024-12-03T06:23:16'
 draft: false
 images:
 - /images/covers/gharmelicht-gharmelicht.jpg
@@ -14,4 +14,4 @@ title: Gharmelicht - Gharmelicht
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=57679&sort=pd.name&order=ASC) for $11.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=57679&sort=pd.name&order=ASC) for $10.00

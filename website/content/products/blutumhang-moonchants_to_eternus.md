@@ -1,5 +1,5 @@
 ---
-actualPrice: $10.00 - 25.00
+actualPrice: $10.00 - 17.50
 album: Moonchants to Eternus
 artist: Blutumhang
 categories:
@@ -16,6 +16,5 @@ title: Blutumhang - Moonchants to Eternus
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=27305&sort=pd.name&order=ASC) for $17.50
-* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/blutumhang-moonchants-to-eternus-12-lp) for $25.00
 ## Cassette
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/used-blutumhang-moonchants-to-eternus-cassette) for $10.00 :: White Shell 2022

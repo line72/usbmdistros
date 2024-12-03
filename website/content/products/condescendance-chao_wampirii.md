@@ -1,9 +1,8 @@
 ---
-actualPrice: $10.00 - 26.00
+actualPrice: $10.00 - 10.50
 album: Chao Wampirii
 artist: Condescendance
 categories:
-- Vinyl
 - Cassette
 - CD
 date: '2024-11-23T06:26:47'
@@ -15,8 +14,6 @@ thumbnailImage: /images/covers/condescendance-chao_wampirii-thumb.jpg
 title: Condescendance - Chao Wampirii
 ---
 
-## Vinyl
-* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/condescendance-chao-wampirii-12-lp) for $26.00
 ## Cassette
 * Purchase from [Sto'Vo'Kor Records](https://stovokor-records.com/products/condescendance-chao-wampirii) for $10.00
 ## CD

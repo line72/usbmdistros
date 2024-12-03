@@ -1,10 +1,10 @@
 ---
-actualPrice: $2.20
+actualPrice: $2.00
 album: Alterity
 artist: Knelt Rote
 categories:
 - CD
-date: '2024-11-23T06:27:10'
+date: '2024-12-03T06:24:50'
 draft: false
 images:
 - /images/covers/knelt_rote-alterity.jpg
@@ -14,4 +14,4 @@ title: Knelt Rote - Alterity
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=25639&sort=pd.name&order=ASC) for $2.20
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=25639&sort=pd.name&order=ASC) for $2.00

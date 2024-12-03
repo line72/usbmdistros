@@ -1,11 +1,11 @@
 ---
-actualPrice: $3.00 - 19.25
+actualPrice: $3.00 - 17.50
 album: Apollyon
 artist: Irkallian Oracle
 categories:
 - Vinyl
 - CD
-date: '2024-11-23T06:25:41'
+date: '2024-12-03T06:23:24'
 draft: false
 images:
 - /images/covers/irkallian_oracle-apollyon.jpg
@@ -15,6 +15,6 @@ title: Irkallian Oracle - Apollyon
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=11270&sort=pd.name&order=ASC) for $19.25
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=11270&sort=pd.name&order=ASC) for $17.50
 ## CD
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/used-irkallian-oracle-apollyon-cd) for $3.00 :: Jewel Case 2016

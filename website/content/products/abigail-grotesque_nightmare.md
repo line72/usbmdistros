@@ -1,10 +1,10 @@
 ---
-actualPrice: $13.75
+actualPrice: $12.50
 album: Grotesque Nightmare
 artist: Abigail
 categories:
 - Vinyl
-date: '2024-11-23T06:25:02'
+date: '2024-12-03T06:22:09'
 draft: false
 images:
 - /images/covers/abigail-grotesque_nightmare.png
@@ -14,4 +14,4 @@ title: Abigail - Grotesque Nightmare
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=44940&sort=pd.name&order=ASC) for $13.75
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=44940&sort=pd.name&order=ASC) for $12.50

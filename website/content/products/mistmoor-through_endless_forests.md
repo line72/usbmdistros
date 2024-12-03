@@ -1,10 +1,9 @@
 ---
-actualPrice: $12.00 - 27.00
+actualPrice: $18.89
 album: Through Endless Forests
 artist: Mistmoor
 categories:
 - Vinyl
-- Cassette
 date: '2024-11-23T06:25:49'
 draft: false
 images:
@@ -15,7 +14,4 @@ title: Mistmoor - Through Endless Forests
 ---
 
 ## Vinyl
-* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/mistmoor-through-endless-forests-12-lp) for $27.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=48537&sort=pd.name&order=ASC) for $18.89
-## Cassette
-* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/mistmoor-through-endless-forests-tape) for $12.00

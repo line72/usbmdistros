@@ -1,10 +1,9 @@
 ---
-actualPrice: $13.00 - 17.50
+actualPrice: $17.50
 album: Oceans of Eternity
 artist: Drowning The Light
 categories:
 - Vinyl
-- CD
 date: '2024-11-23T06:25:26'
 draft: false
 images:
@@ -16,5 +15,3 @@ title: Drowning The Light - Oceans of Eternity
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=52259&sort=pd.name&order=ASC) for $17.50
-## CD
-* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/drowning-the-light-oceans-of-eternity-cd) for $13.00

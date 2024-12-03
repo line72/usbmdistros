@@ -1,5 +1,5 @@
 ---
-actualPrice: $17.50 - 25.00
+actualPrice: $17.50
 album: Untitled
 artist: Mons Veneris
 categories:
@@ -14,5 +14,4 @@ title: Mons Veneris - Untitled
 ---
 
 ## Vinyl
-* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/mons-veneris-untitled-12-lp) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=57732&sort=pd.name&order=ASC) for $17.50

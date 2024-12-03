@@ -1,10 +1,10 @@
 ---
-actualPrice: $13.75 - 16.50
+actualPrice: $12.50 - 15.00
 album: Eldritch Illuminations
 artist: Ancestral Shadows
 categories:
 - Vinyl
-date: '2024-11-23T06:25:09'
+date: '2024-12-03T06:22:15'
 draft: false
 images:
 - /images/covers/ancestral_shadows-eldritch_illuminations.jpg
@@ -14,5 +14,5 @@ title: Ancestral Shadows - Eldritch Illuminations
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=43626&sort=pd.name&order=ASC) for $16.50
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=44371&sort=pd.name&order=ASC) for $13.75
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=43626&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=44371&sort=pd.name&order=ASC) for $12.50

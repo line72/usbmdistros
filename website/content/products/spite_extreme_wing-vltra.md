@@ -16,4 +16,3 @@ title: Spite Extreme Wing - Vltra
 ## Vinyl
 * Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/spite-extreme-wing-vltra) for $34.99 :: 2lp green vinyl dlp
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=57618&sort=pd.name&order=ASC) for $10.50
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=57619&sort=pd.name&order=ASC) for $21.00

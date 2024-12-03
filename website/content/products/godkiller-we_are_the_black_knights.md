@@ -1,11 +1,9 @@
 ---
-actualPrice: $8.40 - 23.99
+actualPrice: $8.40
 album: We Are The Black Knights
 artist: Godkiller
 categories:
-- Vinyl
 - Cassette
-- CD
 date: '2024-11-23T06:27:55'
 draft: false
 images:
@@ -15,9 +13,5 @@ thumbnailImage: /images/covers/godkiller-we_are_the_black_knights-thumb.jpg
 title: Godkiller - We Are The Black Knights
 ---
 
-## Vinyl
-* Purchase from [Debemur Morti](https://debemurmorti.aisamerch.com/item/126916) for $23.99
 ## Cassette
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=51914&sort=pd.name&order=ASC) for $8.40
-## CD
-* Purchase from [Debemur Morti](https://debemurmorti.aisamerch.com/item/126918) for $10.99

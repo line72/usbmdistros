@@ -1,5 +1,5 @@
 ---
-actualPrice: $21.00 - 28.00
+actualPrice: $21.00
 album: "\xC5nesott"
 artist: Hengestaur
 categories:
@@ -14,5 +14,4 @@ title: "Hengestaur - \xC5nesott"
 ---
 
 ## Vinyl
-* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/hengestaur-anesott-12-lp) for $28.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=50390&sort=pd.name&order=ASC) for $21.00

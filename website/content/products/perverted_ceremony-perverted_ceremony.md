@@ -1,10 +1,10 @@
 ---
-actualPrice: $8.25 - 16.50
+actualPrice: $7.50 - 15.00
 album: Perverted Ceremony
 artist: Perverted Ceremony
 categories:
 - Vinyl
-date: '2024-11-23T06:25:59'
+date: '2024-12-03T06:23:43'
 draft: false
 images:
 - /images/covers/perverted_ceremony-perverted_ceremony.png
@@ -14,5 +14,5 @@ title: Perverted Ceremony - Perverted Ceremony
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=48645&sort=pd.name&order=ASC) for $8.25
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=56692&sort=pd.name&order=ASC) for $16.50
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=48645&sort=pd.name&order=ASC) for $7.50
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=56692&sort=pd.name&order=ASC) for $15.00

@@ -1,11 +1,11 @@
 ---
-actualPrice: $10.50 - 34.99
+actualPrice: $15.00 - 34.99
 album: Horned Lord of the Thorned Castle
 artist: Moonlight Sorcery
 categories:
 - Vinyl
 - CD
-date: '2024-11-23T06:27:15'
+date: '2024-11-23T06:25:50'
 draft: false
 images:
 - /images/covers/moonlight_sorcery-horned_lord_of_the_thorned_castle.jpg
@@ -22,4 +22,3 @@ title: Moonlight Sorcery - Horned Lord of the Thorned Castle
 * Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/moonlight-sorcery-horned-lord-of-the-thorned-castle-coke-bottle-green-vinyl-lp-1) for $31.99 :: coke bottle green vinyl lp
 ## CD
 * Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/moonlight-sorcery-horned-lord-of-the-thorned-castle-cd) for $15.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=52777&sort=pd.name&order=ASC) for $10.50
