@@ -1,5 +1,5 @@
 ---
-actualPrice: $21.00
+actualPrice: $21.00 - 27.00
 album: Everyone Has Two Sides
 artist: Manierisme
 categories:
@@ -14,4 +14,5 @@ title: Manierisme - Everyone Has Two Sides
 ---
 
 ## Vinyl
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/manierisme-everyone-has-two-sides-12-lp) for $27.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=57822&sort=pd.name&order=ASC) for $21.00

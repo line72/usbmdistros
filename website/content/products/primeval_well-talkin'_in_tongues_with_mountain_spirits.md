@@ -1,5 +1,5 @@
 ---
-actualPrice: $22.40 - 28.00
+actualPrice: $22.40 - 33.00
 album: Talkin' in Tongues with Mountain Spirits
 artist: Primeval Well
 categories:
@@ -14,5 +14,6 @@ title: Primeval Well - Talkin' in Tongues with Mountain Spirits
 ---
 
 ## Vinyl
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/primeval-well-talkin-in-tongues-with-mountain-spirits-2xlp) for $33.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=47556&sort=pd.name&order=ASC) for $22.40
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=50403&sort=pd.name&order=ASC) for $28.00

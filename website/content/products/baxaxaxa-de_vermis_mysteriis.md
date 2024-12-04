@@ -5,7 +5,6 @@ artist: Baxaxaxa
 categories:
 - Vinyl
 - Cassette
-- CD
 date: '2024-11-23T06:27:46'
 draft: false
 images:
@@ -19,5 +18,3 @@ title: Baxaxaxa - De Vermis Mysteriis
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=43994&sort=pd.name&order=ASC) for $17.50
 ## Cassette
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=46951&sort=pd.name&order=ASC) for $8.40
-## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=54861&sort=pd.name&order=ASC) for $8.40

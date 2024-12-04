@@ -1,5 +1,5 @@
 ---
-actualPrice: $17.50
+actualPrice: $17.50 - 25.00
 album: Withered Flesh Left Ragged on the Bones of Existence
 artist: Vlkoslag
 categories:
@@ -14,4 +14,5 @@ title: Vlkoslag - Withered Flesh Left Ragged on the Bones of Existence
 ---
 
 ## Vinyl
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/vlkoslag-withered-flesh-left-ragged-on-the-bones-of-existence-12-lp) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=54121&sort=pd.name&order=ASC) for $17.50

@@ -15,6 +15,7 @@ title: Nokturnal Mortum - To Lunar Poetry
 ---
 
 ## Vinyl
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/nokturnal-mortum-to-lunar-poetry-12-lp) for $28.00
 * Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/nokturnal-mortum-to-lunar-poetry-12-gatefold-lp/) for $30.00 :: gatefold lp
 ## Cassette
 * Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/nokturnal-mortum-to-lunar-poetry-cassette/) for $13.00

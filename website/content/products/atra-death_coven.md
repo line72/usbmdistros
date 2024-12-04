@@ -1,5 +1,5 @@
 ---
-actualPrice: $17.50
+actualPrice: $17.50 - 25.00
 album: Death Coven
 artist: Atra
 categories:
@@ -14,4 +14,5 @@ title: Atra - Death Coven
 ---
 
 ## Vinyl
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/atra-death-coven-12-lp) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=58255&sort=pd.name&order=ASC) for $17.50

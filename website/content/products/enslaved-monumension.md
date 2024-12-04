@@ -1,10 +1,10 @@
 ---
-actualPrice: $21.00 - 39.00
+actualPrice: $39.00
 album: Monumension
 artist: Enslaved
 categories:
 - Vinyl
-date: '2024-11-23T06:25:27'
+date: '2024-07-09T14:02:12'
 draft: false
 images:
 - /images/covers/enslaved-monumension.jpg
@@ -15,4 +15,3 @@ title: Enslaved - Monumension
 
 ## Vinyl
 * Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/enslaved-monumension-double-lp-swirl-vinyl) for $39.00 :: double lp swirl vinyl (ltd 300)
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=58189&sort=pd.name&order=ASC) for $21.00

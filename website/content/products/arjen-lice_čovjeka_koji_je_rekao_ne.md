@@ -1,5 +1,5 @@
 ---
-actualPrice: $18.89
+actualPrice: $18.89 - 25.00
 album: "Lice \u010Covjeka Koji Je Rekao Ne"
 artist: Arjen
 categories:
@@ -14,4 +14,5 @@ title: "Arjen - Lice \u010Covjeka Koji Je Rekao Ne"
 ---
 
 ## Vinyl
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/arjen-lice-covjeka-koji-je-rekao-ne-12-lp) for $25.00 :: lice čovjeka koji je rekao ne 12" lp
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=46248&sort=pd.name&order=ASC) for $18.89

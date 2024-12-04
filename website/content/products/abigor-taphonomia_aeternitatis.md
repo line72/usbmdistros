@@ -1,5 +1,5 @@
 ---
-actualPrice: $24.50
+actualPrice: $24.50 - 34.00
 album: Taphonomia Aeternitatis
 artist: Abigor
 categories:
@@ -15,3 +15,4 @@ title: Abigor - Taphonomia Aeternitatis
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=56080&sort=pd.name&order=ASC) for $24.50
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/abigor-taphonomia-aeternitatis-12-lp) for $34.00

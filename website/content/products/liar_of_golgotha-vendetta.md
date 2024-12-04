@@ -1,5 +1,5 @@
 ---
-actualPrice: $21.00
+actualPrice: $21.00 - 28.00
 album: Vendetta
 artist: Liar Of Golgotha
 categories:
@@ -14,4 +14,5 @@ title: Liar Of Golgotha - Vendetta
 ---
 
 ## Vinyl
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/liar-of-golgotha-vendetta-12-lp) for $28.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=58261&sort=pd.name&order=ASC) for $21.00

@@ -1,10 +1,10 @@
 ---
-actualPrice: $10.50
+actualPrice: $25.00
 album: Justice
 artist: Hate Forest
 categories:
-- Cassette
-date: '2024-11-28T06:26:50'
+- Vinyl
+date: '2024-10-19T05:02:20'
 draft: false
 images:
 - /images/covers/hate_forest-justice.jpg
@@ -13,5 +13,5 @@ thumbnailImage: /images/covers/hate_forest-justice-thumb.jpg
 title: Hate Forest - Justice
 ---
 
-## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=58295&sort=pd.name&order=ASC) for $10.50
+## Vinyl
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/hate-forest-justice-12-lp) for $25.00
