@@ -1,10 +1,10 @@
 ---
-actualPrice: $17.50
+actualPrice: $25.00
 album: Demo III
 artist: "Olatom Amesp\xEFr\xEFa"
 categories:
 - Vinyl
-date: '2024-11-23T06:25:56'
+date: '2024-12-05T06:24:23'
 draft: false
 images:
 - "/images/covers/olatom_amesp\xEFr\xEFa-demo_iii.jpg"
@@ -14,4 +14,4 @@ title: "Olatom Amesp\xEFr\xEFa - Demo III"
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=49390&sort=pd.name&order=ASC) for $17.50
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=49390&sort=pd.name&order=ASC) for $25.00

@@ -1,10 +1,10 @@
 ---
-actualPrice: $8.40
+actualPrice: $12.00
 album: The Exile Tale
 artist: Void Of Autumn
 categories:
 - Cassette
-date: '2024-11-23T06:28:18'
+date: '2024-12-05T06:26:52'
 draft: false
 images:
 - /images/covers/void_of_autumn-the_exile_tale.png
@@ -14,4 +14,4 @@ title: Void Of Autumn - The Exile Tale
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=30080&sort=pd.name&order=ASC) for $8.40
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=30080&sort=pd.name&order=ASC) for $12.00

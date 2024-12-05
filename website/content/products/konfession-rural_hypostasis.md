@@ -1,10 +1,10 @@
 ---
-actualPrice: $19.60
+actualPrice: $28.00
 album: Rural Hypostasis
 artist: Konfession
 categories:
 - Vinyl
-date: '2024-11-23T06:25:43'
+date: '2024-12-05T06:24:09'
 draft: false
 images:
 - /images/covers/konfession-rural_hypostasis.jpg
@@ -14,4 +14,4 @@ title: Konfession - Rural Hypostasis
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=42927&sort=pd.name&order=ASC) for $19.60
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=42927&sort=pd.name&order=ASC) for $28.00

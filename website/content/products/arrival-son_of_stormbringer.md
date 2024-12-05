@@ -1,10 +1,10 @@
 ---
-actualPrice: $5.60
+actualPrice: $8.00
 album: Son of Stormbringer
 artist: Arrival
 categories:
 - Vinyl
-date: '2024-11-23T06:26:24'
+date: '2024-12-05T06:24:51'
 draft: false
 images:
 - /images/covers/arrival-son_of_stormbringer.png
@@ -14,4 +14,4 @@ title: Arrival - Son of Stormbringer
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=33857&sort=pd.name&order=ASC) for $5.60
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=33857&sort=pd.name&order=ASC) for $8.00

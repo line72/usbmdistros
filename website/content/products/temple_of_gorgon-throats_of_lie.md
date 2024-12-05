@@ -1,11 +1,11 @@
 ---
-actualPrice: $8.40 - 11.00
+actualPrice: $11.00 - 12.00
 album: Throats Of Lie
 artist: Temple Of Gorgon
 categories:
 - Vinyl
 - Cassette
-date: '2024-11-23T06:28:14'
+date: '2024-12-05T06:26:48'
 draft: false
 images:
 - /images/covers/temple_of_gorgon-throats_of_lie.jpg
@@ -17,4 +17,4 @@ title: Temple Of Gorgon - Throats Of Lie
 ## Vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/temple-of-gorgon-throats-of-lie-cassette) for $11.00 :: Cassette Tape 1st press
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=20847&sort=pd.name&order=ASC) for $8.40
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=20847&sort=pd.name&order=ASC) for $12.00

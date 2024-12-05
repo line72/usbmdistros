@@ -1,10 +1,10 @@
 ---
-actualPrice: $5.60
+actualPrice: $8.00
 album: Lawra Nihil
 artist: "K\xE4ltetod"
 categories:
 - Cassette
-date: '2024-11-23T06:28:01'
+date: '2024-12-05T06:26:32'
 draft: false
 images:
 - "/images/covers/k\xE4ltetod-lawra_nihil.png"
@@ -14,4 +14,4 @@ title: "K\xE4ltetod - Lawra Nihil"
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=10560&sort=pd.name&order=ASC) for $5.60
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=10560&sort=pd.name&order=ASC) for $8.00

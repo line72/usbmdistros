@@ -1,10 +1,10 @@
 ---
-actualPrice: $17.50
+actualPrice: $25.00
 album: Via Sinistra
 artist: Via Sinistra
 categories:
 - Vinyl
-date: '2024-11-23T06:26:19'
+date: '2024-12-05T06:24:46'
 draft: false
 images:
 - /images/covers/via_sinistra-via_sinistra.jpg
@@ -14,4 +14,4 @@ title: Via Sinistra - Via Sinistra
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=26628&sort=pd.name&order=ASC) for $17.50
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=26628&sort=pd.name&order=ASC) for $25.00

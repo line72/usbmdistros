@@ -1,10 +1,10 @@
 ---
-actualPrice: $3.50
+actualPrice: $5.00
 album: Demo
 artist: Tragedy Begins
 categories:
 - Cassette
-date: '2024-11-23T06:28:15'
+date: '2024-12-05T06:26:49'
 draft: false
 images:
 - /images/covers/tragedy_begins-demo.png
@@ -14,4 +14,4 @@ title: Tragedy Begins - Demo
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=1313&sort=pd.name&order=ASC) for $3.50
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=1313&sort=pd.name&order=ASC) for $5.00

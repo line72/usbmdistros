@@ -1,10 +1,10 @@
 ---
-actualPrice: $17.50
+actualPrice: $25.00
 album: Seasonal Catastrophies
 artist: Circle of Ghosts
 categories:
 - Vinyl
-date: '2024-11-23T06:25:20'
+date: '2024-12-05T06:23:45'
 draft: false
 images:
 - /images/covers/circle_of_ghosts-seasonal_catastrophies.jpg
@@ -14,4 +14,4 @@ title: Circle of Ghosts - Seasonal Catastrophies
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=21472&sort=pd.name&order=ASC) for $17.50
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=21472&sort=pd.name&order=ASC) for $25.00

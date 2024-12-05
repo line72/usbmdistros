@@ -1,10 +1,10 @@
 ---
-actualPrice: $17.50
+actualPrice: $25.00
 album: Penitence
 artist: Ritual Clearing
 categories:
 - Vinyl
-date: '2024-11-23T06:26:01'
+date: '2024-12-05T06:24:28'
 draft: false
 images:
 - /images/covers/ritual_clearing-penitence.png
@@ -14,4 +14,4 @@ title: Ritual Clearing - Penitence
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=51449&sort=pd.name&order=ASC) for $17.50
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=51449&sort=pd.name&order=ASC) for $25.00

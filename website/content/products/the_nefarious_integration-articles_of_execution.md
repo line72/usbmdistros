@@ -1,10 +1,10 @@
 ---
-actualPrice: $3.50
+actualPrice: $5.00
 album: Articles of Execution
 artist: The Nefarious Integration
 categories:
 - Vinyl
-date: '2024-11-23T06:26:36'
+date: '2024-12-05T06:25:04'
 draft: false
 images:
 - /images/covers/the_nefarious_integration-articles_of_execution.jpg
@@ -14,4 +14,4 @@ title: The Nefarious Integration - Articles of Execution
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=1340&sort=pd.name&order=ASC) for $3.50
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=1340&sort=pd.name&order=ASC) for $5.00

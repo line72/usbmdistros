@@ -1,10 +1,10 @@
 ---
-actualPrice: $4.90
+actualPrice: $7.00
 album: Whisper Of The Nocturnal Wind
 artist: Seol
 categories:
 - Cassette
-date: '2024-11-23T06:28:11'
+date: '2024-12-05T06:26:46'
 draft: false
 images:
 - /images/covers/seol-whisper_of_the_nocturnal_wind.jpg
@@ -14,4 +14,4 @@ title: Seol - Whisper Of The Nocturnal Wind
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=4726&sort=pd.name&order=ASC) for $4.90
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=4726&sort=pd.name&order=ASC) for $7.00

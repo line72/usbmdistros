@@ -1,10 +1,10 @@
 ---
-actualPrice: $10.50
+actualPrice: $15.00
 album: "Smr\u0165 P\xFAtnikova"
 artist: Remmirath
 categories:
 - CD
-date: '2024-11-23T06:27:25'
+date: '2024-12-05T06:25:55'
 draft: false
 images:
 - "/images/covers/remmirath-smr\u0165_p\xFAtnikova.jpg"
@@ -14,4 +14,4 @@ title: "Remmirath - Smr\u0165 P\xFAtnikova"
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=20920&sort=pd.name&order=ASC) for $10.50
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=20920&sort=pd.name&order=ASC) for $15.00

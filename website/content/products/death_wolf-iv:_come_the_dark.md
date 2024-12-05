@@ -1,12 +1,12 @@
 ---
-actualPrice: $8.40 - 17.50
+actualPrice: $12.00 - 25.00
 album: 'IV: Come the Dark'
 artist: Death Wolf
 categories:
 - Vinyl
 - Cassette
 - CD
-date: '2024-11-23T06:27:51'
+date: '2024-12-05T06:26:23'
 draft: false
 images:
 - /images/covers/death_wolf-iv:_come_the_dark.jpg
@@ -16,8 +16,8 @@ title: 'Death Wolf - IV: Come the Dark'
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=19897&sort=pd.name&order=ASC) for $17.50
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=19897&sort=pd.name&order=ASC) for $25.00
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=19899&sort=pd.name&order=ASC) for $8.40
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=19899&sort=pd.name&order=ASC) for $12.00
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=19896&sort=pd.name&order=ASC) for $10.50
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=19896&sort=pd.name&order=ASC) for $15.00

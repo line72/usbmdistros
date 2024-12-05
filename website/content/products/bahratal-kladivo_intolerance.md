@@ -1,11 +1,11 @@
 ---
-actualPrice: $10.50 - 18.89
+actualPrice: $15.00 - 27.00
 album: Kladivo Intolerance
 artist: Bahratal
 categories:
 - Vinyl
 - Cassette
-date: '2024-11-23T06:27:46'
+date: '2024-12-05T06:26:18'
 draft: false
 images:
 - /images/covers/bahratal-kladivo_intolerance.jpg
@@ -15,6 +15,6 @@ title: Bahratal - Kladivo Intolerance
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=34929&sort=pd.name&order=ASC) for $18.89
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=34929&sort=pd.name&order=ASC) for $27.00
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=34930&sort=pd.name&order=ASC) for $10.50
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=34930&sort=pd.name&order=ASC) for $15.00

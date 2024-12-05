@@ -1,11 +1,11 @@
 ---
-actualPrice: $10.50 - 18.89
+actualPrice: $15.00 - 27.00
 album: Into the Outer Wilderness
 artist: Grafvitnir
 categories:
 - Vinyl
 - CD
-date: '2024-11-23T06:26:59'
+date: '2024-12-05T06:25:28'
 draft: false
 images:
 - /images/covers/grafvitnir-into_the_outer_wilderness.jpg
@@ -15,6 +15,6 @@ title: Grafvitnir - Into the Outer Wilderness
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=36729&sort=pd.name&order=ASC) for $18.89
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=36729&sort=pd.name&order=ASC) for $27.00
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=36730&sort=pd.name&order=ASC) for $10.50
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=36730&sort=pd.name&order=ASC) for $15.00

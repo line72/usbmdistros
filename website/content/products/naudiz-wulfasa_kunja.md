@@ -1,11 +1,11 @@
 ---
-actualPrice: $5.60 - 11.90
+actualPrice: $8.00 - 17.00
 album: Wulfasa Kunja
 artist: Naudiz
 categories:
 - Vinyl
 - CD
-date: '2024-11-23T06:27:17'
+date: '2024-12-05T06:25:47'
 draft: false
 images:
 - /images/covers/naudiz-wulfasa_kunja.jpg
@@ -15,6 +15,6 @@ title: Naudiz - Wulfasa Kunja
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=10471&sort=pd.name&order=ASC) for $11.90
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=10471&sort=pd.name&order=ASC) for $17.00
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=2470&sort=pd.name&order=ASC) for $5.60
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=2470&sort=pd.name&order=ASC) for $8.00

@@ -1,10 +1,10 @@
 ---
-actualPrice: $10.50
+actualPrice: $15.00
 album: Into Vermillion Mirrors
 artist: Adzalaan
 categories:
 - Vinyl
-date: '2024-11-23T06:25:04'
+date: '2024-12-05T06:23:30'
 draft: false
 images:
 - /images/covers/adzalaan-into_vermillion_mirrors.jpg
@@ -14,4 +14,4 @@ title: Adzalaan - Into Vermillion Mirrors
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=39896&sort=pd.name&order=ASC) for $10.50
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=39896&sort=pd.name&order=ASC) for $15.00

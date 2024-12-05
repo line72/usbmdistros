@@ -1,10 +1,10 @@
 ---
-actualPrice: $24.50
+actualPrice: $35.00
 album: 1997-1999
 artist: Hamargroll
 categories:
 - Vinyl
-date: '2024-11-23T06:25:34'
+date: '2024-12-05T06:24:00'
 draft: false
 images:
 - /images/covers/hamargroll-1997-1999.jpg
@@ -14,4 +14,4 @@ title: Hamargroll - 1997-1999
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=57870&sort=pd.name&order=ASC) for $24.50
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=57870&sort=pd.name&order=ASC) for $35.00

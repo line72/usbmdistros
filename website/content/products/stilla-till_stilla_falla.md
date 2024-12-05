@@ -1,10 +1,10 @@
 ---
-actualPrice: $15.40
+actualPrice: $22.00
 album: Till Stilla Falla
 artist: Stilla
 categories:
 - Vinyl
-date: '2024-11-23T06:26:10'
+date: '2024-12-05T06:24:37'
 draft: false
 images:
 - /images/covers/stilla-till_stilla_falla.jpg
@@ -14,4 +14,4 @@ title: Stilla - Till Stilla Falla
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=12110&sort=pd.name&order=ASC) for $15.40
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=12110&sort=pd.name&order=ASC) for $22.00

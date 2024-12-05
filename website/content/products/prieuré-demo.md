@@ -1,10 +1,10 @@
 ---
-actualPrice: $8.40
+actualPrice: $12.00
 album: Demo
 artist: "Prieur\xE9"
 categories:
 - Cassette
-date: '2024-11-23T06:28:09'
+date: '2024-12-05T06:26:43'
 draft: false
 images:
 - "/images/covers/prieur\xE9-demo.png"
@@ -14,4 +14,4 @@ title: "Prieur\xE9 - Demo"
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=27308&sort=pd.name&order=ASC) for $8.40
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=27308&sort=pd.name&order=ASC) for $12.00

@@ -1,10 +1,10 @@
 ---
-actualPrice: $7.00 - 8.40
+actualPrice: $10.00 - 12.00
 album: Demo
 artist: Walghinge
 categories:
 - Cassette
-date: '2024-11-23T06:28:18'
+date: '2024-12-05T06:26:53'
 draft: false
 images:
 - /images/covers/walghinge-demo.png
@@ -14,5 +14,5 @@ title: Walghinge - Demo
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=32684&sort=pd.name&order=ASC) for $7.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=32687&sort=pd.name&order=ASC) for $8.40
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=32684&sort=pd.name&order=ASC) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=32687&sort=pd.name&order=ASC) for $12.00

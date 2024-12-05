@@ -1,10 +1,10 @@
 ---
-actualPrice: $8.40
+actualPrice: $12.00
 album: Golgoth
 artist: Golgoth
 categories:
 - CD
-date: '2024-11-23T06:26:59'
+date: '2024-12-05T06:25:28'
 draft: false
 images:
 - /images/covers/golgoth-golgoth.jpg
@@ -14,4 +14,4 @@ title: Golgoth - Golgoth
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=36142&sort=pd.name&order=ASC) for $8.40
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=36142&sort=pd.name&order=ASC) for $12.00

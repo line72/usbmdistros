@@ -1,11 +1,11 @@
 ---
-actualPrice: $10.50 - 14.00
+actualPrice: $15.00 - 20.00
 album: Baptism of Shadows
 artist: Serpentfyre
 categories:
 - Vinyl
 - CD
-date: '2024-11-23T06:27:28'
+date: '2024-12-05T06:25:59'
 draft: false
 images:
 - /images/covers/serpentfyre-baptism_of_shadows.jpg
@@ -15,6 +15,6 @@ title: Serpentfyre - Baptism of Shadows
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=40806&sort=pd.name&order=ASC) for $14.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=40806&sort=pd.name&order=ASC) for $20.00
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=22945&sort=pd.name&order=ASC) for $10.50
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=22945&sort=pd.name&order=ASC) for $15.00

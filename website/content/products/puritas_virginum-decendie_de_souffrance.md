@@ -1,10 +1,10 @@
 ---
-actualPrice: $3.50
+actualPrice: $5.00
 album: Decendie de Souffrance
 artist: Puritas Virginum
 categories:
 - CD
-date: '2024-11-23T06:27:24'
+date: '2024-12-05T06:25:54'
 draft: false
 images:
 - /images/covers/puritas_virginum-decendie_de_souffrance.png
@@ -14,4 +14,4 @@ title: Puritas Virginum - Decendie de Souffrance
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=2206&sort=pd.name&order=ASC) for $3.50
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=2206&sort=pd.name&order=ASC) for $5.00

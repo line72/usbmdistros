@@ -1,10 +1,10 @@
 ---
-actualPrice: $17.50
+actualPrice: $25.00
 album: Blood From Stone
 artist: The Moaning
 categories:
 - Vinyl
-date: '2024-11-23T06:26:13'
+date: '2024-12-05T06:24:40'
 draft: false
 images:
 - /images/covers/the_moaning-blood_from_stone.jpg
@@ -14,4 +14,4 @@ title: The Moaning - Blood From Stone
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=51345&sort=pd.name&order=ASC) for $17.50
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=51345&sort=pd.name&order=ASC) for $25.00

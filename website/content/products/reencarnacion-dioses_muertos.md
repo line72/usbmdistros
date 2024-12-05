@@ -1,10 +1,10 @@
 ---
-actualPrice: $9.10
+actualPrice: $13.00
 album: Dioses Muertos
 artist: Reencarnacion
 categories:
 - CD
-date: '2024-11-23T06:27:25'
+date: '2024-12-05T06:25:55'
 draft: false
 images:
 - /images/covers/reencarnacion-dioses_muertos.jpg
@@ -14,4 +14,4 @@ title: Reencarnacion - Dioses Muertos
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=55698&sort=pd.name&order=ASC) for $9.10
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=55698&sort=pd.name&order=ASC) for $13.00

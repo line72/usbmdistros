@@ -1,10 +1,10 @@
 ---
-actualPrice: $7.00
+actualPrice: $10.00
 album: Exsilium
 artist: Spiritu Mors
 categories:
 - Cassette
-date: '2024-11-23T06:28:13'
+date: '2024-12-05T06:26:47'
 draft: false
 images:
 - /images/covers/spiritu_mors-exsilium.jpg
@@ -14,4 +14,4 @@ title: Spiritu Mors - Exsilium
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=21601&sort=pd.name&order=ASC) for $7.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=21601&sort=pd.name&order=ASC) for $10.00

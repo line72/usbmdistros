@@ -1,10 +1,10 @@
 ---
-actualPrice: $7.00
+actualPrice: $10.00
 album: Ghoul
 artist: Erupted Evil
 categories:
 - Cassette
-date: '2024-11-23T06:27:53'
+date: '2024-12-05T06:26:26'
 draft: false
 images:
 - /images/covers/erupted_evil-ghoul.jpg
@@ -14,4 +14,4 @@ title: Erupted Evil - Ghoul
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=56073&sort=pd.name&order=ASC) for $7.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=56073&sort=pd.name&order=ASC) for $10.00

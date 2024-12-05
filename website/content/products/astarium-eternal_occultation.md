@@ -1,10 +1,10 @@
 ---
-actualPrice: $7.00
+actualPrice: $10.00
 album: Eternal Occultation
 artist: Astarium
 categories:
 - Cassette
-date: '2024-11-23T06:27:46'
+date: '2024-12-05T06:26:17'
 draft: false
 images:
 - /images/covers/astarium-eternal_occultation.jpg
@@ -14,4 +14,4 @@ title: Astarium - Eternal Occultation
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=27637&sort=pd.name&order=ASC) for $7.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=27637&sort=pd.name&order=ASC) for $10.00

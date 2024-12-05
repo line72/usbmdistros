@@ -1,10 +1,10 @@
 ---
-actualPrice: $10.50
+actualPrice: $15.00
 album: Blinding Pitch of Victory
 artist: Black Hurst
 categories:
 - Vinyl
-date: '2024-11-23T06:26:25'
+date: '2024-12-05T06:24:52'
 draft: false
 images:
 - /images/covers/black_hurst-blinding_pitch_of_victory.jpg
@@ -14,4 +14,4 @@ title: Black Hurst - Blinding Pitch of Victory
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=50398&sort=pd.name&order=ASC) for $10.50
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=50398&sort=pd.name&order=ASC) for $15.00

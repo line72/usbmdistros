@@ -1,10 +1,10 @@
 ---
-actualPrice: $8.40
+actualPrice: $12.00
 album: Black Satanic Mass
 artist: Burning Winds
 categories:
 - Cassette
-date: '2024-11-23T06:27:48'
+date: '2024-12-05T06:26:20'
 draft: false
 images:
 - /images/covers/burning_winds-black_satanic_mass.jpg
@@ -14,4 +14,4 @@ title: Burning Winds - Black Satanic Mass
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=44562&sort=pd.name&order=ASC) for $8.40
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=44562&sort=pd.name&order=ASC) for $12.00

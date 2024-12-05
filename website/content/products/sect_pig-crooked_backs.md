@@ -1,10 +1,10 @@
 ---
-actualPrice: $2.50
+actualPrice: $5.00
 album: Crooked Backs
 artist: Sect Pig
 categories:
 - CD
-date: '2024-12-03T06:25:09'
+date: '2024-12-05T06:25:59'
 draft: false
 images:
 - /images/covers/sect_pig-crooked_backs.jpg
@@ -14,4 +14,4 @@ title: Sect Pig - Crooked Backs
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=25641&sort=pd.name&order=ASC) for $2.50
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=25641&sort=pd.name&order=ASC) for $5.00

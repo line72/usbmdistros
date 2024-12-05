@@ -1,10 +1,10 @@
 ---
-actualPrice: $8.40
+actualPrice: $12.00
 album: Demo
 artist: Necrodeity
 categories:
 - Cassette
-date: '2024-11-23T06:28:05'
+date: '2024-12-05T06:26:39'
 draft: false
 images:
 - /images/covers/necrodeity-demo.png
@@ -14,5 +14,5 @@ title: Necrodeity - Demo
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=28029&sort=pd.name&order=ASC) for $8.40
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=28028&sort=pd.name&order=ASC) for $8.40
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=28028&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=58584&sort=pd.name&order=ASC) for $12.00

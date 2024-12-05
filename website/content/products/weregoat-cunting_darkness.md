@@ -1,10 +1,10 @@
 ---
-actualPrice: $10.50
+actualPrice: $15.00
 album: Cunting Darkness
 artist: Weregoat
 categories:
 - Vinyl
-date: '2024-11-28T06:25:31'
+date: '2024-12-05T06:25:06'
 draft: false
 images:
 - /images/covers/weregoat-cunting_darkness.jpg
@@ -14,4 +14,4 @@ title: Weregoat - Cunting Darkness
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=58354&sort=pd.name&order=ASC) for $10.50
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=58354&sort=pd.name&order=ASC) for $15.00

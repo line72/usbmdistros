@@ -1,10 +1,10 @@
 ---
-actualPrice: $7.00
+actualPrice: $10.00
 album: Hakaristi
 artist: Hakaristi
 categories:
 - Vinyl
-date: '2024-11-23T06:26:28'
+date: '2024-12-05T06:24:56'
 draft: false
 images:
 - /images/covers/hakaristi-hakaristi.jpg
@@ -14,4 +14,4 @@ title: Hakaristi - Hakaristi
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=38275&sort=pd.name&order=ASC) for $7.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=38275&sort=pd.name&order=ASC) for $10.00

@@ -1,11 +1,11 @@
 ---
-actualPrice: $12.00 - 26.00
+actualPrice: $12.00 - 30.00
 album: Peasant Rebellion
 artist: Chevallier Skrog
 categories:
 - Vinyl
 - Cassette
-date: '2024-11-23T06:25:20'
+date: '2024-12-05T06:23:45'
 draft: false
 images:
 - /images/covers/chevallier_skrog-peasant_rebellion.png
@@ -16,6 +16,6 @@ title: Chevallier Skrog - Peasant Rebellion
 
 ## Vinyl
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/chevallier-skrog-peasant-rebellion-12-lp) for $26.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=57821&sort=pd.name&order=ASC) for $21.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=57821&sort=pd.name&order=ASC) for $30.00
 ## Cassette
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/used-chevallier-skrog-peasant-rebellion-cassette) for $12.00 :: Cassette 2022

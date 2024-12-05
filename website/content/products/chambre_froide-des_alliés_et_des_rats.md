@@ -1,10 +1,10 @@
 ---
-actualPrice: $5.60
+actualPrice: $8.00
 album: "Des Alli\xE9s Et Des Rats"
 artist: Chambre Froide
 categories:
 - Vinyl
-date: '2024-11-23T06:26:26'
+date: '2024-12-05T06:24:53'
 draft: false
 images:
 - "/images/covers/chambre_froide-des_alli\xE9s_et_des_rats.jpg"
@@ -14,4 +14,4 @@ title: "Chambre Froide - Des Alli\xE9s Et Des Rats"
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=24599&sort=pd.name&order=ASC) for $5.60
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=24599&sort=pd.name&order=ASC) for $8.00

@@ -1,10 +1,10 @@
 ---
-actualPrice: $21.00
+actualPrice: $30.00
 album: Demo
 artist: "Mal\xE9fices"
 categories:
 - Cassette
-date: '2024-11-23T06:28:03'
+date: '2024-12-05T06:26:36'
 draft: false
 images:
 - "/images/covers/mal\xE9fices-demo.jpg"
@@ -14,4 +14,4 @@ title: "Mal\xE9fices - Demo"
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=53156&sort=pd.name&order=ASC) for $21.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=53156&sort=pd.name&order=ASC) for $30.00

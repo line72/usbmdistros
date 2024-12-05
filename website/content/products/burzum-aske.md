@@ -1,10 +1,10 @@
 ---
-actualPrice: $10.50
+actualPrice: $15.00
 album: Aske
 artist: Burzum
 categories:
 - Cassette
-date: '2024-11-23T06:27:48'
+date: '2024-12-05T06:26:20'
 draft: false
 images:
 - /images/covers/burzum-aske.jpg
@@ -14,4 +14,4 @@ title: Burzum - Aske
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=55762&sort=pd.name&order=ASC) for $10.50
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=55762&sort=pd.name&order=ASC) for $15.00

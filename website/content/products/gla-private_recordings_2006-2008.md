@@ -1,10 +1,10 @@
 ---
-actualPrice: $5.60
+actualPrice: $8.00
 album: Private Recordings 2006-2008
 artist: GLA
 categories:
 - Cassette
-date: '2024-11-23T06:27:55'
+date: '2024-12-05T06:26:28'
 draft: false
 images:
 - /images/covers/gla-private_recordings_2006-2008.png
@@ -14,4 +14,4 @@ title: GLA - Private Recordings 2006-2008
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=15947&sort=pd.name&order=ASC) for $5.60
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=15947&sort=pd.name&order=ASC) for $8.00

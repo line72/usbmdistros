@@ -1,12 +1,12 @@
 ---
-actualPrice: $7.00 - 17.50
+actualPrice: $10.00 - 25.00
 album: Overduyvelsche Boosheit
 artist: Hanghedief
 categories:
 - Vinyl
 - Cassette
 - CD
-date: '2024-11-23T06:27:58'
+date: '2024-12-05T06:26:30'
 draft: false
 images:
 - /images/covers/hanghedief-overduyvelsche_boosheit.png
@@ -16,8 +16,8 @@ title: Hanghedief - Overduyvelsche Boosheit
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=28792&sort=pd.name&order=ASC) for $17.50
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=28792&sort=pd.name&order=ASC) for $25.00
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=28798&sort=pd.name&order=ASC) for $7.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=28798&sort=pd.name&order=ASC) for $10.00
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=35575&sort=pd.name&order=ASC) for $8.40
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=35575&sort=pd.name&order=ASC) for $12.00

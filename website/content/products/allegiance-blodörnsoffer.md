@@ -1,10 +1,10 @@
 ---
-actualPrice: $10.50
+actualPrice: $15.00
 album: "Blod\xF6rnsoffer"
 artist: Allegiance
 categories:
 - CD
-date: '2024-11-23T06:26:39'
+date: '2024-12-05T06:25:08'
 draft: false
 images:
 - "/images/covers/allegiance-blod\xF6rnsoffer.jpg"
@@ -14,4 +14,4 @@ title: "Allegiance - Blod\xF6rnsoffer"
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=36732&sort=pd.name&order=ASC) for $10.50
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=36732&sort=pd.name&order=ASC) for $15.00

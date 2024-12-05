@@ -1,10 +1,10 @@
 ---
-actualPrice: $10.50
+actualPrice: $15.00
 album: Hermits Amidst The Marvels Of Darkness
 artist: Mystical Fullmoon
 categories:
 - CD
-date: '2024-11-23T06:27:17'
+date: '2024-12-05T06:25:46'
 draft: false
 images:
 - /images/covers/mystical_fullmoon-hermits_amidst_the_marvels_of_darkness.jpg
@@ -14,4 +14,4 @@ title: Mystical Fullmoon - Hermits Amidst The Marvels Of Darkness
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=40149&sort=pd.name&order=ASC) for $10.50
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=40149&sort=pd.name&order=ASC) for $15.00

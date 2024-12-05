@@ -1,10 +1,10 @@
 ---
-actualPrice: $7.00
+actualPrice: $10.00
 album: '...Of Kaos and Karnage'
 artist: The Satan's Scourge
 categories:
 - Vinyl
-date: '2024-11-23T06:26:36'
+date: '2024-12-05T06:25:04'
 draft: false
 images:
 - /images/covers/the_satan's_scourge-...of_kaos_and_karnage.jpg
@@ -14,4 +14,4 @@ title: The Satan's Scourge - ...Of Kaos and Karnage
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=36258&sort=pd.name&order=ASC) for $7.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=36258&sort=pd.name&order=ASC) for $10.00

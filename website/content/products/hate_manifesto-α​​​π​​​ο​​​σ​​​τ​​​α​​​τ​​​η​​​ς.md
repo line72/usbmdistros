@@ -1,5 +1,5 @@
 ---
-actualPrice: $10.50 - 17.50
+actualPrice: $15.00 - 25.00
 album: "\u0391\u200B\u200B\u200B\u03A0\u200B\u200B\u200B\u039F\u200B\u200B\u200B\u03A3\
   \u200B\u200B\u200B\u03A4\u200B\u200B\u200B\u0391\u200B\u200B\u200B\u03A4\u200B\u200B\
   \u200B\u0397\u200B\u200B\u200B\u03A3"
@@ -7,7 +7,7 @@ artist: Hate Manifesto
 categories:
 - Vinyl
 - CD
-date: '2024-11-23T06:27:03'
+date: '2024-12-05T06:25:31'
 draft: false
 images:
 - "/images/covers/hate_manifesto-\u03B1\u200B\u200B\u200B\u03C0\u200B\u200B\u200B\u03BF\
@@ -23,6 +23,6 @@ title: "Hate Manifesto - \u0391\u200B\u200B\u200B\u03A0\u200B\u200B\u200B\u039F\
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=35868&sort=pd.name&order=ASC) for $17.50
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=35868&sort=pd.name&order=ASC) for $25.00
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=35876&sort=pd.name&order=ASC) for $10.50
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=35876&sort=pd.name&order=ASC) for $15.00

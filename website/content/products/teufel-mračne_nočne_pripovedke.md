@@ -1,10 +1,10 @@
 ---
-actualPrice: $28.00 - 37.00
+actualPrice: $37.00 - 40.00
 album: "Mra\u010Dne No\u010Dne Pripovedke"
 artist: Teufel
 categories:
 - Vinyl
-date: '2024-11-23T06:26:12'
+date: '2024-12-05T06:24:39'
 draft: false
 images:
 - "/images/covers/teufel-mra\u010Dne_no\u010Dne_pripovedke.png"
@@ -15,4 +15,4 @@ title: "Teufel - Mra\u010Dne No\u010Dne Pripovedke"
 
 ## Vinyl
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/teufel-mracne-nocne-pripovedke-12-lp) for $37.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=54150&sort=pd.name&order=ASC) for $28.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=54150&sort=pd.name&order=ASC) for $40.00

@@ -1,10 +1,10 @@
 ---
-actualPrice: $161.00
+actualPrice: $230.00
 album: Boxset
 artist: Darkthrone
 categories:
 - Vinyl
-date: '2024-11-23T06:25:22'
+date: '2024-12-05T06:23:47'
 draft: false
 images:
 - /images/covers/darkthrone-boxset.png
@@ -14,4 +14,4 @@ title: Darkthrone - Boxset
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=57882&sort=pd.name&order=ASC) for $161.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=57882&sort=pd.name&order=ASC) for $230.00

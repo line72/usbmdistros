@@ -1,10 +1,10 @@
 ---
-actualPrice: $17.50
+actualPrice: $25.00
 album: The Green Enchanted Forest of the Druid Wizard
 artist: Ifernach
 categories:
 - Vinyl
-date: '2024-11-23T06:25:39'
+date: '2024-12-05T06:24:05'
 draft: false
 images:
 - /images/covers/ifernach-the_green_enchanted_forest_of_the_druid_wizard.jpg
@@ -14,4 +14,4 @@ title: Ifernach - The Green Enchanted Forest of the Druid Wizard
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=57399&sort=pd.name&order=ASC) for $17.50
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=57399&sort=pd.name&order=ASC) for $25.00

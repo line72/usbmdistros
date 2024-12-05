@@ -1,10 +1,10 @@
 ---
-actualPrice: $10.50
+actualPrice: $15.00
 album: Immortal Crown
 artist: Celestial Key
 categories:
 - CD
-date: '2024-11-23T06:26:46'
+date: '2024-12-05T06:25:15'
 draft: false
 images:
 - /images/covers/celestial_key-immortal_crown.jpg
@@ -14,4 +14,4 @@ title: Celestial Key - Immortal Crown
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=57854&sort=pd.name&order=ASC) for $10.50
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=57854&sort=pd.name&order=ASC) for $15.00

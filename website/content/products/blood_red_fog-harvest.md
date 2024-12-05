@@ -1,10 +1,10 @@
 ---
-actualPrice: $14.00
+actualPrice: $20.00
 album: Harvest
 artist: Blood Red Fog
 categories:
 - Vinyl
-date: '2024-11-23T06:25:16'
+date: '2024-12-05T06:23:41'
 draft: false
 images:
 - /images/covers/blood_red_fog-harvest.jpg
@@ -14,4 +14,4 @@ title: Blood Red Fog - Harvest
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=46254&sort=pd.name&order=ASC) for $14.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=46254&sort=pd.name&order=ASC) for $20.00

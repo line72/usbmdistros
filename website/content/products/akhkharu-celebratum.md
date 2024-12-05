@@ -1,10 +1,10 @@
 ---
-actualPrice: $2.10
+actualPrice: $3.00
 album: Celebratum
 artist: Akhkharu
 categories:
 - CD
-date: '2024-11-23T06:26:39'
+date: '2024-12-05T06:25:07'
 draft: false
 images:
 - /images/covers/akhkharu-celebratum.jpg
@@ -14,4 +14,4 @@ title: Akhkharu - Celebratum
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=25674&sort=pd.name&order=ASC) for $2.10
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=25674&sort=pd.name&order=ASC) for $3.00

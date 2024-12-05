@@ -1,10 +1,10 @@
 ---
-actualPrice: $7.00
+actualPrice: $10.00
 album: Totalitarian Perversity
 artist: Anwyl
 categories:
 - Vinyl
-date: '2024-11-23T06:26:24'
+date: '2024-12-05T06:24:51'
 draft: false
 images:
 - /images/covers/anwyl-totalitarian_perversity.jpg
@@ -14,4 +14,4 @@ title: Anwyl - Totalitarian Perversity
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=26417&sort=pd.name&order=ASC) for $7.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=26417&sort=pd.name&order=ASC) for $10.00

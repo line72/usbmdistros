@@ -1,10 +1,10 @@
 ---
-actualPrice: $5.60
+actualPrice: $8.00
 album: Opferblut" Demo
 artist: Opferblut
 categories:
 - Cassette
-date: '2024-11-23T06:28:07'
+date: '2024-12-05T06:26:41'
 draft: false
 images:
 - /images/covers/opferblut-opferblut"_demo.png
@@ -14,4 +14,4 @@ title: Opferblut - Opferblut" Demo
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=53166&sort=pd.name&order=ASC) for $5.60
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=53166&sort=pd.name&order=ASC) for $8.00

@@ -1,10 +1,10 @@
 ---
-actualPrice: $10.50
+actualPrice: $15.00
 album: X-Mas Bop / White Christmas
 artist: Warhead
 categories:
 - Vinyl
-date: '2024-11-23T06:26:37'
+date: '2024-12-05T06:25:05'
 draft: false
 images:
 - /images/covers/warhead-x-mas_bop_-_white_christmas.jpg
@@ -14,4 +14,4 @@ title: Warhead - X-Mas Bop / White Christmas
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=42202&sort=pd.name&order=ASC) for $10.50
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=42202&sort=pd.name&order=ASC) for $15.00

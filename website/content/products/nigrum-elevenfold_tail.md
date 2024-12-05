@@ -1,12 +1,12 @@
 ---
-actualPrice: $8.40 - 19.60
+actualPrice: $12.00 - 28.00
 album: Elevenfold Tail
 artist: Nigrum
 categories:
 - Vinyl
 - Cassette
 - CD
-date: '2024-11-28T06:24:49'
+date: '2024-12-05T06:26:40'
 draft: false
 images:
 - /images/covers/nigrum-elevenfold_tail.jpg
@@ -16,8 +16,8 @@ title: Nigrum - Elevenfold Tail
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=58350&sort=pd.name&order=ASC) for $19.60
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=58350&sort=pd.name&order=ASC) for $28.00
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=30459&sort=pd.name&order=ASC) for $8.40
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=30459&sort=pd.name&order=ASC) for $12.00
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=30447&sort=pd.name&order=ASC) for $10.50
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=30447&sort=pd.name&order=ASC) for $15.00

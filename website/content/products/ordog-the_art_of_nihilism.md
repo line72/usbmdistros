@@ -1,10 +1,10 @@
 ---
-actualPrice: $10.50
+actualPrice: $15.00
 album: The Art of Nihilism
 artist: Ordog
 categories:
 - CD
-date: '2024-11-23T06:27:21'
+date: '2024-12-05T06:25:50'
 draft: false
 images:
 - /images/covers/ordog-the_art_of_nihilism.jpg
@@ -14,4 +14,4 @@ title: Ordog - The Art of Nihilism
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=42866&sort=pd.name&order=ASC) for $10.50
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=42866&sort=pd.name&order=ASC) for $15.00

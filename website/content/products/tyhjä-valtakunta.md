@@ -1,10 +1,10 @@
 ---
-actualPrice: $7.00
+actualPrice: $10.00
 album: Valtakunta
 artist: "Tyhj\xE4"
 categories:
 - CD
-date: '2024-11-23T06:27:37'
+date: '2024-12-05T06:26:08'
 draft: false
 images:
 - "/images/covers/tyhj\xE4-valtakunta.jpg"
@@ -14,4 +14,4 @@ title: "Tyhj\xE4 - Valtakunta"
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=24827&sort=pd.name&order=ASC) for $7.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=24827&sort=pd.name&order=ASC) for $10.00

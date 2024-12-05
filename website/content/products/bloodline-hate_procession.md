@@ -1,10 +1,10 @@
 ---
-actualPrice: $4.20
+actualPrice: $6.00
 album: Hate Procession
 artist: Bloodline
 categories:
 - CD
-date: '2024-11-23T06:26:45'
+date: '2024-12-05T06:25:13'
 draft: false
 images:
 - /images/covers/bloodline-hate_procession.jpg
@@ -14,4 +14,4 @@ title: Bloodline - Hate Procession
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=2015&sort=pd.name&order=ASC) for $4.20
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=2015&sort=pd.name&order=ASC) for $6.00

@@ -1,12 +1,12 @@
 ---
-actualPrice: $8.40 - 21.00
+actualPrice: $12.00 - 30.00
 album: "Mets\xE4uhri"
 artist: Kalmankantaja
 categories:
 - Vinyl
 - Cassette
 - CD
-date: '2024-11-23T06:28:01'
+date: '2024-12-05T06:26:32'
 draft: false
 images:
 - "/images/covers/kalmankantaja-mets\xE4uhri.png"
@@ -16,8 +16,8 @@ title: "Kalmankantaja - Mets\xE4uhri"
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=52874&sort=pd.name&order=ASC) for $21.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=52874&sort=pd.name&order=ASC) for $30.00
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=50906&sort=pd.name&order=ASC) for $10.50
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=50906&sort=pd.name&order=ASC) for $15.00
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=50889&sort=pd.name&order=ASC) for $8.40
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=50889&sort=pd.name&order=ASC) for $12.00

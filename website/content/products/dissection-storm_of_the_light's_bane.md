@@ -1,10 +1,10 @@
 ---
-actualPrice: $14.00
+actualPrice: $20.00
 album: Storm of the Light's Bane
 artist: Dissection
 categories:
 - CD
-date: '2024-11-23T06:26:52'
+date: '2024-12-05T06:25:20'
 draft: false
 images:
 - /images/covers/dissection-storm_of_the_light's_bane.jpg
@@ -14,4 +14,4 @@ title: Dissection - Storm of the Light's Bane
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=55618&sort=pd.name&order=ASC) for $14.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=55618&sort=pd.name&order=ASC) for $20.00

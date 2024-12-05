@@ -1,10 +1,10 @@
 ---
-actualPrice: $10.50
+actualPrice: $15.00
 album: The Day Of Wrath / The Exorcism
 artist: Bulldozer
 categories:
 - CD
-date: '2024-11-23T06:26:45'
+date: '2024-12-05T06:25:13'
 draft: false
 images:
 - /images/covers/bulldozer-the_day_of_wrath_-_the_exorcism.jpg
@@ -14,4 +14,4 @@ title: Bulldozer - The Day Of Wrath / The Exorcism
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=55606&sort=pd.name&order=ASC) for $10.50
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=55606&sort=pd.name&order=ASC) for $15.00

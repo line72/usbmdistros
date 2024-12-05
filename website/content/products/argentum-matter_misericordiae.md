@@ -1,10 +1,10 @@
 ---
-actualPrice: $5.60
+actualPrice: $8.00
 album: Matter Misericordiae
 artist: Argentum
 categories:
 - CD
-date: '2024-11-23T06:26:41'
+date: '2024-12-05T06:25:10'
 draft: false
 images:
 - /images/covers/argentum-matter_misericordiae.png
@@ -14,4 +14,4 @@ title: Argentum - Matter Misericordiae
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=52174&sort=pd.name&order=ASC) for $5.60
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=52174&sort=pd.name&order=ASC) for $8.00

@@ -1,10 +1,10 @@
 ---
-actualPrice: $14.00
+actualPrice: $20.00
 album: Dysevangelist
 artist: Inkisitor
 categories:
 - Vinyl
-date: '2024-11-23T06:25:41'
+date: '2024-12-05T06:24:06'
 draft: false
 images:
 - /images/covers/inkisitor-dysevangelist.jpg
@@ -14,4 +14,4 @@ title: Inkisitor - Dysevangelist
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=22107&sort=pd.name&order=ASC) for $14.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=22107&sort=pd.name&order=ASC) for $20.00

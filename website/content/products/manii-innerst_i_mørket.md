@@ -1,10 +1,10 @@
 ---
-actualPrice: $18.89
+actualPrice: $27.00
 album: "Innerst I M\xF8rket"
 artist: Manii
 categories:
 - Vinyl
-date: '2024-11-23T06:25:47'
+date: '2024-12-05T06:24:13'
 draft: false
 images:
 - "/images/covers/manii-innerst_i_m\xF8rket.jpg"
@@ -14,4 +14,4 @@ title: "Manii - Innerst I M\xF8rket"
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=40386&sort=pd.name&order=ASC) for $18.89
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=40386&sort=pd.name&order=ASC) for $27.00

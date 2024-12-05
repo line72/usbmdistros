@@ -1,10 +1,10 @@
 ---
-actualPrice: $3.50
+actualPrice: $5.00
 album: Reverse the Reality
 artist: Extirpation
 categories:
 - CD
-date: '2024-11-23T06:26:56'
+date: '2024-12-05T06:25:25'
 draft: false
 images:
 - /images/covers/extirpation-reverse_the_reality.jpg
@@ -14,4 +14,4 @@ title: Extirpation - Reverse the Reality
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=1146&sort=pd.name&order=ASC) for $3.50
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=1146&sort=pd.name&order=ASC) for $5.00

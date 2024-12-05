@@ -1,10 +1,10 @@
 ---
-actualPrice: $18.89
+actualPrice: $27.00
 album: All Stillborn Fires, Lick my Heart!
 artist: Kringa
 categories:
 - Vinyl
-date: '2024-11-23T06:25:43'
+date: '2024-12-05T06:24:09'
 draft: false
 images:
 - /images/covers/kringa-all_stillborn_fires,_lick_my_heart!.jpg
@@ -14,4 +14,4 @@ title: Kringa - All Stillborn Fires, Lick my Heart!
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=52458&sort=pd.name&order=ASC) for $18.89
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=52458&sort=pd.name&order=ASC) for $27.00

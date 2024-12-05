@@ -1,10 +1,10 @@
 ---
-actualPrice: $11.90
+actualPrice: $17.00
 album: Tajemstvy Noczy
 artist: Vietah
 categories:
 - Vinyl
-date: '2024-11-23T06:26:19'
+date: '2024-12-05T06:24:46'
 draft: false
 images:
 - /images/covers/vietah-tajemstvy_noczy.jpg
@@ -14,4 +14,4 @@ title: Vietah - Tajemstvy Noczy
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=53471&sort=pd.name&order=ASC) for $11.90
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=53471&sort=pd.name&order=ASC) for $17.00

@@ -1,10 +1,10 @@
 ---
-actualPrice: $28.00
+actualPrice: $40.00
 album: Engram
 artist: Beherit
 categories:
 - Vinyl
-date: '2024-11-23T06:25:14'
+date: '2024-12-05T06:23:39'
 draft: false
 images:
 - /images/covers/beherit-engram.jpg
@@ -14,4 +14,4 @@ title: Beherit - Engram
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=58064&sort=pd.name&order=ASC) for $28.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=58064&sort=pd.name&order=ASC) for $40.00

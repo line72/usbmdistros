@@ -1,10 +1,10 @@
 ---
-actualPrice: $8.40
+actualPrice: $12.00
 album: 'Protocol: Death'
 artist: Doomorder
 categories:
 - CD
-date: '2024-11-23T06:26:53'
+date: '2024-12-05T06:25:21'
 draft: false
 images:
 - /images/covers/doomorder-protocol:_death.png
@@ -14,4 +14,4 @@ title: 'Doomorder - Protocol: Death'
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=41284&sort=pd.name&order=ASC) for $8.40
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=41284&sort=pd.name&order=ASC) for $12.00

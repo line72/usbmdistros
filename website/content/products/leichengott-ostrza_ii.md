@@ -1,10 +1,10 @@
 ---
-actualPrice: $17.50
+actualPrice: $25.00
 album: Ostrza II
 artist: Leichengott
 categories:
 - Vinyl
-date: '2024-11-23T06:25:44'
+date: '2024-12-05T06:24:10'
 draft: false
 images:
 - /images/covers/leichengott-ostrza_ii.png
@@ -14,4 +14,4 @@ title: Leichengott - Ostrza II
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=51150&sort=pd.name&order=ASC) for $17.50
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=51150&sort=pd.name&order=ASC) for $25.00

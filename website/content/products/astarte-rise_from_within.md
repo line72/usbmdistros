@@ -1,10 +1,10 @@
 ---
-actualPrice: $17.50
+actualPrice: $25.00
 album: Rise from Within
 artist: Astarte
 categories:
 - Vinyl
-date: '2024-11-23T06:25:12'
+date: '2024-12-05T06:23:37'
 draft: false
 images:
 - /images/covers/astarte-rise_from_within.jpg
@@ -14,4 +14,4 @@ title: Astarte - Rise from Within
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=52391&sort=pd.name&order=ASC) for $17.50
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=52391&sort=pd.name&order=ASC) for $25.00

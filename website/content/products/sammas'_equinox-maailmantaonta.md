@@ -1,10 +1,10 @@
 ---
-actualPrice: $10.50
+actualPrice: $15.00
 album: Maailmantaonta
 artist: Sammas' Equinox
 categories:
 - CD
-date: '2024-11-23T06:27:27'
+date: '2024-12-05T06:25:57'
 draft: false
 images:
 - /images/covers/sammas'_equinox-maailmantaonta.jpg
@@ -14,4 +14,4 @@ title: Sammas' Equinox - Maailmantaonta
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=46692&sort=pd.name&order=ASC) for $10.50
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=46692&sort=pd.name&order=ASC) for $15.00

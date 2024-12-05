@@ -1,10 +1,10 @@
 ---
-actualPrice: $10.50
+actualPrice: $15.00
 album: Terror Abraxas
 artist: Destroyer 666
 categories:
 - CD
-date: '2024-11-23T06:26:51'
+date: '2024-12-05T06:25:19'
 draft: false
 images:
 - /images/covers/destroyer_666-terror_abraxas.jpg
@@ -14,4 +14,4 @@ title: Destroyer 666 - Terror Abraxas
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=51571&sort=pd.name&order=ASC) for $10.50
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=51571&sort=pd.name&order=ASC) for $15.00

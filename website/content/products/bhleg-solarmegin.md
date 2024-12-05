@@ -1,10 +1,10 @@
 ---
-actualPrice: $11.20
+actualPrice: $16.00
 album: Solarmegin
 artist: Bhleg
 categories:
 - CD
-date: '2024-11-23T06:26:44'
+date: '2024-12-05T06:25:12'
 draft: false
 images:
 - /images/covers/bhleg-solarmegin.jpg
@@ -14,4 +14,4 @@ title: Bhleg - Solarmegin
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=20571&sort=pd.name&order=ASC) for $11.20
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=20571&sort=pd.name&order=ASC) for $16.00

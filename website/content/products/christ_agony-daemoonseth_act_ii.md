@@ -1,10 +1,10 @@
 ---
-actualPrice: $10.50
+actualPrice: $15.00
 album: Daemoonseth Act II
 artist: Christ Agony
 categories:
 - CD
-date: '2024-11-23T06:26:47'
+date: '2024-12-05T06:25:15'
 draft: false
 images:
 - /images/covers/christ_agony-daemoonseth_act_ii.png
@@ -14,4 +14,4 @@ title: Christ Agony - Daemoonseth Act II
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=53444&sort=pd.name&order=ASC) for $10.50
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=53444&sort=pd.name&order=ASC) for $15.00

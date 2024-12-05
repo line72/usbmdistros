@@ -1,10 +1,10 @@
 ---
-actualPrice: $21.00
+actualPrice: $30.00
 album: Eine Zelebration Unsaeglicher Riten...
 artist: Knoeterych
 categories:
 - CD
-date: '2024-11-23T06:27:10'
+date: '2024-12-05T06:25:39'
 draft: false
 images:
 - /images/covers/knoeterych-eine_zelebration_unsaeglicher_riten....jpg
@@ -14,4 +14,4 @@ title: Knoeterych - Eine Zelebration Unsaeglicher Riten...
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=56862&sort=pd.name&order=ASC) for $21.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=56862&sort=pd.name&order=ASC) for $30.00

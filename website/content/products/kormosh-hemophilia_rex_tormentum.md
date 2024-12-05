@@ -1,10 +1,10 @@
 ---
-actualPrice: $8.40
+actualPrice: $12.00
 album: Hemophilia Rex Tormentum
 artist: Kormosh
 categories:
 - Cassette
-date: '2024-11-23T06:28:01'
+date: '2024-12-05T06:26:35'
 draft: false
 images:
 - /images/covers/kormosh-hemophilia_rex_tormentum.jpg
@@ -14,4 +14,4 @@ title: Kormosh - Hemophilia Rex Tormentum
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=22414&sort=pd.name&order=ASC) for $8.40
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=22414&sort=pd.name&order=ASC) for $12.00

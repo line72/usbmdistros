@@ -1,11 +1,11 @@
 ---
-actualPrice: $5.00 - 10.50
+actualPrice: $10.00 - 15.00
 album: Ah Dzam Poop Ek
 artist: Xibalba
 categories:
 - Cassette
 - CD
-date: '2024-12-03T06:25:58'
+date: '2024-12-05T06:26:54'
 draft: false
 images:
 - /images/covers/xibalba-ah_dzam_poop_ek.jpg
@@ -16,6 +16,6 @@ title: Xibalba - Ah Dzam Poop Ek
 
 ## Cassette
 * Purchase from [CW Productions](https://shop.cwproductions.net/products/xibalba-ah-dzam-poop-ek-tape-2) for $10.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=54822&sort=pd.name&order=ASC) for $5.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=54822&sort=pd.name&order=ASC) for $10.00
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=57896&sort=pd.name&order=ASC) for $10.50
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=57896&sort=pd.name&order=ASC) for $15.00

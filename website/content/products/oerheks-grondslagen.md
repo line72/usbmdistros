@@ -1,10 +1,10 @@
 ---
-actualPrice: $11.90
+actualPrice: $17.00
 album: Grondslagen
 artist: Oerheks
 categories:
 - CD
-date: '2024-11-23T06:27:20'
+date: '2024-12-05T06:25:50'
 draft: false
 images:
 - /images/covers/oerheks-grondslagen.jpg
@@ -14,4 +14,4 @@ title: Oerheks - Grondslagen
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=55711&sort=pd.name&order=ASC) for $11.90
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=55711&sort=pd.name&order=ASC) for $17.00

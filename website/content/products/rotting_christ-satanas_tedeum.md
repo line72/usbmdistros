@@ -1,10 +1,10 @@
 ---
-actualPrice: $10.50
+actualPrice: $15.00
 album: Satanas Tedeum
 artist: Rotting Christ
 categories:
 - CD
-date: '2024-11-23T06:27:26'
+date: '2024-12-05T06:25:56'
 draft: false
 images:
 - /images/covers/rotting_christ-satanas_tedeum.jpg
@@ -14,4 +14,4 @@ title: Rotting Christ - Satanas Tedeum
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=57606&sort=pd.name&order=ASC) for $10.50
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=57606&sort=pd.name&order=ASC) for $15.00

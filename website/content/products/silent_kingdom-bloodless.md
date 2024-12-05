@@ -1,10 +1,10 @@
 ---
-actualPrice: $3.50
+actualPrice: $5.00
 album: Bloodless
 artist: Silent Kingdom
 categories:
 - CD
-date: '2024-11-23T06:27:30'
+date: '2024-12-05T06:25:59'
 draft: false
 images:
 - /images/covers/silent_kingdom-bloodless.png
@@ -14,4 +14,4 @@ title: Silent Kingdom - Bloodless
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=1302&sort=pd.name&order=ASC) for $3.50
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=1302&sort=pd.name&order=ASC) for $5.00

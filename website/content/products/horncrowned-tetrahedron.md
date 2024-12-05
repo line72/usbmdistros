@@ -1,10 +1,10 @@
 ---
-actualPrice: $4.90
+actualPrice: $7.00
 album: Tetrahedron
 artist: Horncrowned
 categories:
 - Vinyl
-date: '2024-11-23T06:26:29'
+date: '2024-12-05T06:24:57'
 draft: false
 images:
 - /images/covers/horncrowned-tetrahedron.jpg
@@ -14,4 +14,4 @@ title: Horncrowned - Tetrahedron
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=3616&sort=pd.name&order=ASC) for $4.90
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=3616&sort=pd.name&order=ASC) for $7.00

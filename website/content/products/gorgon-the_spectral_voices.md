@@ -1,10 +1,10 @@
 ---
-actualPrice: $8.40
+actualPrice: $12.00
 album: The Spectral Voices
 artist: Gorgon
 categories:
 - CD
-date: '2024-11-23T06:26:59'
+date: '2024-12-05T06:25:28'
 draft: false
 images:
 - /images/covers/gorgon-the_spectral_voices.jpg
@@ -14,4 +14,4 @@ title: Gorgon - The Spectral Voices
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=49019&sort=pd.name&order=ASC) for $8.40
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=49019&sort=pd.name&order=ASC) for $12.00

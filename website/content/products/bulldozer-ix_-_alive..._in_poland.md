@@ -1,10 +1,10 @@
 ---
-actualPrice: $10.50
+actualPrice: $15.00
 album: IX / Alive... In Poland
 artist: Bulldozer
 categories:
 - CD
-date: '2024-11-23T06:26:45'
+date: '2024-12-05T06:25:13'
 draft: false
 images:
 - /images/covers/bulldozer-ix_-_alive..._in_poland.jpg
@@ -14,4 +14,4 @@ title: Bulldozer - IX / Alive... In Poland
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=55604&sort=pd.name&order=ASC) for $10.50
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=55604&sort=pd.name&order=ASC) for $15.00

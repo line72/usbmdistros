@@ -1,10 +1,10 @@
 ---
-actualPrice: $2.10
+actualPrice: $3.00
 album: Dawn of Kezef
 artist: Suspiral
 categories:
 - Vinyl
-date: '2024-11-23T06:26:36'
+date: '2024-12-05T06:25:04'
 draft: false
 images:
 - /images/covers/suspiral-dawn_of_kezef.jpg
@@ -14,4 +14,4 @@ title: Suspiral - Dawn of Kezef
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=39540&sort=pd.name&order=ASC) for $2.10
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=39540&sort=pd.name&order=ASC) for $3.00

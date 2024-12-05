@@ -1,10 +1,10 @@
 ---
-actualPrice: $8.40
+actualPrice: $12.00
 album: "We Will Be Watching\u200B - Les Cultes de Satan Et Les Myst\xE8res de La Mort"
 artist: Wampyrinacht
 categories:
 - CD
-date: '2024-11-23T06:27:41'
+date: '2024-12-05T06:26:12'
 draft: false
 images:
 - "/images/covers/wampyrinacht-we_will_be_watching\u200B_-_les_cultes_de_satan_et_les_myst\xE8\
@@ -17,4 +17,4 @@ title: "Wampyrinacht - We Will Be Watching\u200B - Les Cultes de Satan Et Les My
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=55217&sort=pd.name&order=ASC) for $8.40
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=55217&sort=pd.name&order=ASC) for $12.00

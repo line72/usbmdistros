@@ -1,10 +1,10 @@
 ---
-actualPrice: $18.89 - 26.00
+actualPrice: $26.00 - 27.00
 album: "Y\xF6n olevainen puoli"
 artist: Paara
 categories:
 - Vinyl
-date: '2024-11-23T06:25:58'
+date: '2024-12-05T06:24:24'
 draft: false
 images:
 - "/images/covers/paara-y\xF6n_olevainen_puoli.jpg"
@@ -15,4 +15,4 @@ title: "Paara - Y\xF6n olevainen puoli"
 
 ## Vinyl
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/paara-yon-olevainen-puoli-12-lp) for $26.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=57292&sort=pd.name&order=ASC) for $18.89
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=57292&sort=pd.name&order=ASC) for $27.00

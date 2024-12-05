@@ -1,10 +1,10 @@
 ---
-actualPrice: $8.40
+actualPrice: $12.00
 album: "Baron av Avoghetens Sm\xE4rta"
 artist: Tyranni
 categories:
 - Cassette
-date: '2024-11-23T06:28:16'
+date: '2024-12-05T06:26:50'
 draft: false
 images:
 - "/images/covers/tyranni-baron_av_avoghetens_sm\xE4rta.jpg"
@@ -14,4 +14,4 @@ title: "Tyranni - Baron av Avoghetens Sm\xE4rta"
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=57246&sort=pd.name&order=ASC) for $8.40
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=57246&sort=pd.name&order=ASC) for $12.00

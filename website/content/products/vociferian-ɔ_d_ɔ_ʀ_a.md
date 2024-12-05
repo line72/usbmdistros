@@ -1,11 +1,11 @@
 ---
-actualPrice: $4.90 - 11.90
+actualPrice: $7.00 - 17.00
 album: "\u0186 D \u0186 \u01A6 A"
 artist: Vociferian
 categories:
 - Vinyl
 - Cassette
-date: '2024-11-23T06:28:18'
+date: '2024-12-05T06:26:52'
 draft: false
 images:
 - "/images/covers/vociferian-\u0254_d_\u0254_\u0280_a.jpg"
@@ -15,6 +15,6 @@ title: "Vociferian - \u0186 D \u0186 \u01A6 A"
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=1697&sort=pd.name&order=ASC) for $11.90
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=1697&sort=pd.name&order=ASC) for $17.00
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=1591&sort=pd.name&order=ASC) for $4.90
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=1591&sort=pd.name&order=ASC) for $7.00

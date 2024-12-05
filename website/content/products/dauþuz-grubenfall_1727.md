@@ -1,10 +1,10 @@
 ---
-actualPrice: $17.50
+actualPrice: $25.00
 album: Grubenfall 1727
 artist: "Dau\xFEuz"
 categories:
 - Vinyl
-date: '2024-11-23T06:25:22'
+date: '2024-12-05T06:23:47'
 draft: false
 images:
 - "/images/covers/dau\xFEuz-grubenfall_1727.jpg"
@@ -14,4 +14,4 @@ title: "Dau\xFEuz - Grubenfall 1727"
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=52629&sort=pd.name&order=ASC) for $17.50
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=52629&sort=pd.name&order=ASC) for $25.00

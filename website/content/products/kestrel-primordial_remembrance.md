@@ -1,11 +1,11 @@
 ---
-actualPrice: $7.00 - 10.00
+actualPrice: $7.00 - 12.00
 album: Primordial Remembrance
 artist: Kestrel
 categories:
 - Cassette
 - CD
-date: '2024-11-23T06:27:09'
+date: '2024-12-05T06:25:39'
 draft: false
 images:
 - /images/covers/kestrel-primordial_remembrance.jpg
@@ -17,5 +17,5 @@ title: Kestrel - Primordial Remembrance
 ## Cassette
 * Purchase from [CW Productions](https://shop.cwproductions.net/products/kestrel-primordial-remembrance-tape) for $7.00
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=22338&sort=pd.name&order=ASC) for $8.40
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=22338&sort=pd.name&order=ASC) for $12.00
 * Purchase from [CW Productions](https://shop.cwproductions.net/products/kestrel-primordial-remembrance-cd-1) for $10.00

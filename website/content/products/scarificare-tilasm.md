@@ -1,10 +1,10 @@
 ---
-actualPrice: $7.00
+actualPrice: $10.00
 album: Tilasm
 artist: Scarificare
 categories:
 - CD
-date: '2024-11-23T06:27:28'
+date: '2024-12-05T06:25:58'
 draft: false
 images:
 - /images/covers/scarificare-tilasm.png
@@ -14,4 +14,4 @@ title: Scarificare - Tilasm
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=6119&sort=pd.name&order=ASC) for $7.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=6119&sort=pd.name&order=ASC) for $10.00

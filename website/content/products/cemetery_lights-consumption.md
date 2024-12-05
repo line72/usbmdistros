@@ -1,12 +1,12 @@
 ---
-actualPrice: $5.00 - 12.50
+actualPrice: $10.00 - 25.00
 album: Consumption
 artist: Cemetery Lights
 categories:
 - Vinyl
 - Cassette
 - CD
-date: '2024-12-03T06:25:28'
+date: '2024-12-05T06:26:20'
 draft: false
 images:
 - /images/covers/cemetery_lights-consumption.jpg
@@ -16,8 +16,8 @@ title: Cemetery Lights - Consumption
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=49540&sort=pd.name&order=ASC) for $12.50
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=49540&sort=pd.name&order=ASC) for $25.00
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=48615&sort=pd.name&order=ASC) for $5.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=48615&sort=pd.name&order=ASC) for $10.00
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=48613&sort=pd.name&order=ASC) for $6.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=48613&sort=pd.name&order=ASC) for $12.00

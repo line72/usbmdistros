@@ -1,10 +1,10 @@
 ---
-actualPrice: $23.10
+actualPrice: $33.00
 album: Nuwa
 artist: Inferno Requiem
 categories:
 - Vinyl
-date: '2024-11-23T06:25:40'
+date: '2024-12-05T06:24:06'
 draft: false
 images:
 - /images/covers/inferno_requiem-nuwa.jpg
@@ -14,4 +14,4 @@ title: Inferno Requiem - Nuwa
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=53515&sort=pd.name&order=ASC) for $23.10
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=53515&sort=pd.name&order=ASC) for $33.00

@@ -1,10 +1,10 @@
 ---
-actualPrice: $9.10
+actualPrice: $13.00
 album: I Midnattens Skuggor
 artist: Blackest
 categories:
 - CD
-date: '2024-11-23T06:26:44'
+date: '2024-12-05T06:25:12'
 draft: false
 images:
 - /images/covers/blackest-i_midnattens_skuggor.jpg
@@ -14,4 +14,4 @@ title: Blackest - I Midnattens Skuggor
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=55523&sort=pd.name&order=ASC) for $9.10
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=55523&sort=pd.name&order=ASC) for $13.00

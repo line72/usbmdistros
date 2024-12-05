@@ -1,10 +1,10 @@
 ---
-actualPrice: $7.00
+actualPrice: $10.00
 album: Demo
 artist: Vorpal Sword
 categories:
 - Cassette
-date: '2024-11-23T06:28:18'
+date: '2024-12-05T06:26:53'
 draft: false
 images:
 - /images/covers/vorpal_sword-demo.png
@@ -14,4 +14,4 @@ title: Vorpal Sword - Demo
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=22272&sort=pd.name&order=ASC) for $7.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=22272&sort=pd.name&order=ASC) for $10.00

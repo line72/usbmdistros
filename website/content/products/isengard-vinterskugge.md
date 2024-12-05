@@ -1,10 +1,10 @@
 ---
-actualPrice: $42.00
+actualPrice: $60.00
 album: Vinterskugge
 artist: Isengard
 categories:
 - CD
-date: '2024-11-23T06:27:08'
+date: '2024-12-05T06:25:38'
 draft: false
 images:
 - /images/covers/isengard-vinterskugge.jpg
@@ -14,4 +14,4 @@ title: Isengard - Vinterskugge
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=56262&sort=pd.name&order=ASC) for $42.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=56262&sort=pd.name&order=ASC) for $60.00

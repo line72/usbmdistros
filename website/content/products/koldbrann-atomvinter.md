@@ -1,10 +1,10 @@
 ---
-actualPrice: $10.50
+actualPrice: $15.00
 album: Atomvinter
 artist: Koldbrann
 categories:
 - Vinyl
-date: '2024-11-23T06:26:30'
+date: '2024-12-05T06:24:58'
 draft: false
 images:
 - /images/covers/koldbrann-atomvinter.png
@@ -14,4 +14,4 @@ title: Koldbrann - Atomvinter
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=423&sort=pd.name&order=ASC) for $10.50
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=423&sort=pd.name&order=ASC) for $15.00

@@ -1,10 +1,10 @@
 ---
-actualPrice: $4.90
+actualPrice: $7.00
 album: Sleaze Patrol / Pull the String
 artist: Syphilitic Lust
 categories:
 - Vinyl
-date: '2024-11-28T06:25:30'
+date: '2024-12-05T06:25:04'
 draft: false
 images:
 - /images/covers/syphilitic_lust-sleaze_patrol_-_pull_the_string.jpg
@@ -14,4 +14,4 @@ title: Syphilitic Lust - Sleaze Patrol / Pull the String
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=58356&sort=pd.name&order=ASC) for $4.90
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=58356&sort=pd.name&order=ASC) for $7.00

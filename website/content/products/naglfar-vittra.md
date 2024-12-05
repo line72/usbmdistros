@@ -1,10 +1,10 @@
 ---
-actualPrice: $24.50 - 35.00
+actualPrice: $35.00
 album: Vittra
 artist: Naglfar
 categories:
 - Vinyl
-date: '2024-11-23T06:25:52'
+date: '2024-12-05T06:24:18'
 draft: false
 images:
 - /images/covers/naglfar-vittra.jpg
@@ -15,4 +15,4 @@ title: Naglfar - Vittra
 
 ## Vinyl
 * Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/naglfar-vittra-re-issue-2023-eu-exclusive-ltd-500-transp-green-lp-lp-booklet-bbv-import) for $35.00 :: eu exclusive ltd. 500 transp. green lp & lp-booklet - bbv import
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=55499&sort=pd.name&order=ASC) for $24.50
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=55499&sort=pd.name&order=ASC) for $35.00

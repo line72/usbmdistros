@@ -1,10 +1,10 @@
 ---
-actualPrice: $10.50
+actualPrice: $15.00
 album: Hell-hammered Horror
 artist: Funerary Box
 categories:
 - Vinyl
-date: '2024-11-23T06:25:30'
+date: '2024-12-05T06:23:55'
 draft: false
 images:
 - /images/covers/funerary_box-hell-hammered_horror.jpg
@@ -14,4 +14,4 @@ title: Funerary Box - Hell-hammered Horror
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=39691&sort=pd.name&order=ASC) for $10.50
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=39691&sort=pd.name&order=ASC) for $15.00

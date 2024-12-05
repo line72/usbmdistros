@@ -1,10 +1,10 @@
 ---
-actualPrice: $8.40
+actualPrice: $12.00
 album: Afgrondschemering
 artist: Walghinge
 categories:
 - Vinyl
-date: '2024-11-23T06:26:37'
+date: '2024-12-05T06:25:05'
 draft: false
 images:
 - /images/covers/walghinge-afgrondschemering.jpg
@@ -14,4 +14,4 @@ title: Walghinge - Afgrondschemering
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=52694&sort=pd.name&order=ASC) for $8.40
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=52694&sort=pd.name&order=ASC) for $12.00

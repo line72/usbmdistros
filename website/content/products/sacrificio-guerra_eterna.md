@@ -1,10 +1,10 @@
 ---
-actualPrice: $10.50
+actualPrice: $15.00
 album: Guerra Eterna
 artist: Sacrificio
 categories:
 - Cassette
-date: '2024-11-23T06:28:10'
+date: '2024-12-05T06:26:44'
 draft: false
 images:
 - /images/covers/sacrificio-guerra_eterna.jpg
@@ -14,4 +14,4 @@ title: Sacrificio - Guerra Eterna
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=54549&sort=pd.name&order=ASC) for $10.50
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=54549&sort=pd.name&order=ASC) for $15.00

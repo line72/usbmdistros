@@ -1,10 +1,10 @@
 ---
-actualPrice: $10.50
+actualPrice: $15.00
 album: Melodies Of Sorrow And Hate
 artist: Altar In Darkness
 categories:
 - Cassette
-date: '2024-11-23T06:27:44'
+date: '2024-12-05T06:26:16'
 draft: false
 images:
 - /images/covers/altar_in_darkness-melodies_of_sorrow_and_hate.jpg
@@ -14,4 +14,4 @@ title: Altar In Darkness - Melodies Of Sorrow And Hate
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=38571&sort=pd.name&order=ASC) for $10.50
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=38571&sort=pd.name&order=ASC) for $15.00

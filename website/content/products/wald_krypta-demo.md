@@ -1,10 +1,10 @@
 ---
-actualPrice: $6.30
+actualPrice: $9.00
 album: Demo
 artist: Wald Krypta
 categories:
 - Cassette
-date: '2024-11-23T06:28:18'
+date: '2024-12-05T06:26:53'
 draft: false
 images:
 - /images/covers/wald_krypta-demo.png
@@ -14,4 +14,4 @@ title: Wald Krypta - Demo
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=21047&sort=pd.name&order=ASC) for $6.30
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=21047&sort=pd.name&order=ASC) for $9.00

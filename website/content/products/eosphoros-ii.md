@@ -1,10 +1,10 @@
 ---
-actualPrice: $17.50 - 25.00
+actualPrice: $25.00
 album: II
 artist: Eosphoros
 categories:
 - Vinyl
-date: '2024-11-23T06:25:27'
+date: '2024-12-05T06:23:52'
 draft: false
 images:
 - /images/covers/eosphoros-ii.jpg
@@ -15,5 +15,5 @@ title: Eosphoros - II
 
 ## Vinyl
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/eosphoros-ii-12-lp) for $25.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=22407&sort=pd.name&order=ASC) for $17.50
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=22407&sort=pd.name&order=ASC) for $25.00
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/used-eosphoros-ii-lp) for $25.00 :: Black 2022 press vinyl

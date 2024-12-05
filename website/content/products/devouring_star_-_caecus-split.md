@@ -1,10 +1,10 @@
 ---
-actualPrice: $15.40
+actualPrice: $22.00
 album: Split
 artist: Devouring Star / Caecus
 categories:
 - Vinyl
-date: '2024-11-23T06:25:25'
+date: '2024-12-05T06:23:49'
 draft: false
 images:
 - /images/covers/devouring_star_-_caecus-split.png
@@ -14,4 +14,4 @@ title: Devouring Star / Caecus - Split
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=5964&sort=pd.name&order=ASC) for $15.40
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=5964&sort=pd.name&order=ASC) for $22.00

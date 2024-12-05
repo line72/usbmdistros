@@ -1,10 +1,10 @@
 ---
-actualPrice: $3.50
+actualPrice: $5.00
 album: Demo
 artist: Noxius Nex
 categories:
 - Cassette
-date: '2024-11-23T06:28:06'
+date: '2024-12-05T06:26:40'
 draft: false
 images:
 - /images/covers/noxius_nex-demo.png
@@ -14,4 +14,4 @@ title: Noxius Nex - Demo
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=700&sort=pd.name&order=ASC) for $3.50
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=700&sort=pd.name&order=ASC) for $5.00

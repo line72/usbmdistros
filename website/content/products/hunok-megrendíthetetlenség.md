@@ -1,10 +1,10 @@
 ---
-actualPrice: $17.50
+actualPrice: $25.00
 album: "Megrend\xEDthetetlens\xE9g"
 artist: Hunok
 categories:
 - Vinyl
-date: '2024-11-23T06:25:38'
+date: '2024-12-05T06:24:04'
 draft: false
 images:
 - "/images/covers/hunok-megrend\xEDthetetlens\xE9g.jpg"
@@ -14,4 +14,4 @@ title: "Hunok - Megrend\xEDthetetlens\xE9g"
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=27518&sort=pd.name&order=ASC) for $17.50
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=27518&sort=pd.name&order=ASC) for $25.00

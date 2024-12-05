@@ -1,10 +1,10 @@
 ---
-actualPrice: $10.50
+actualPrice: $15.00
 album: '...And Darkness was over the Surface of the Deep'
 artist: Do Skonu
 categories:
 - CD
-date: '2024-11-23T06:26:52'
+date: '2024-12-05T06:25:21'
 draft: false
 images:
 - /images/covers/do_skonu-...and_darkness_was_over_the_surface_of_the_deep.jpg
@@ -14,4 +14,4 @@ title: Do Skonu - ...And Darkness was over the Surface of the Deep
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=35353&sort=pd.name&order=ASC) for $10.50
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=35353&sort=pd.name&order=ASC) for $15.00

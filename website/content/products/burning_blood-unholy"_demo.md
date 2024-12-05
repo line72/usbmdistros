@@ -1,10 +1,10 @@
 ---
-actualPrice: $7.00
+actualPrice: $10.00
 album: Unholy" Demo
 artist: Burning Blood
 categories:
 - Cassette
-date: '2024-11-23T06:27:48'
+date: '2024-12-05T06:26:20'
 draft: false
 images:
 - /images/covers/burning_blood-unholy"_demo.jpg
@@ -14,4 +14,4 @@ title: Burning Blood - Unholy" Demo
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=53130&sort=pd.name&order=ASC) for $7.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=53130&sort=pd.name&order=ASC) for $10.00

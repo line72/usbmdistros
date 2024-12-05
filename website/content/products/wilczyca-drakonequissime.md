@@ -1,10 +1,10 @@
 ---
-actualPrice: $8.40
+actualPrice: $12.00
 album: DrakoNequissime
 artist: Wilczyca
 categories:
 - Cassette
-date: '2024-11-23T06:28:19'
+date: '2024-12-05T06:26:54'
 draft: false
 images:
 - /images/covers/wilczyca-drakonequissime.jpg
@@ -14,4 +14,4 @@ title: Wilczyca - DrakoNequissime
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=28564&sort=pd.name&order=ASC) for $8.40
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=28564&sort=pd.name&order=ASC) for $12.00

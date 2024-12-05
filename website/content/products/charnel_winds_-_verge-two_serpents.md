@@ -1,10 +1,10 @@
 ---
-actualPrice: $7.00
+actualPrice: $10.00
 album: Two Serpents
 artist: Charnel Winds / Verge
 categories:
 - CD
-date: '2024-11-23T06:26:47'
+date: '2024-12-05T06:25:15'
 draft: false
 images:
 - /images/covers/charnel_winds_-_verge-two_serpents.jpg
@@ -14,4 +14,4 @@ title: Charnel Winds / Verge - Two Serpents
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=33010&sort=pd.name&order=ASC) for $7.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=33010&sort=pd.name&order=ASC) for $10.00

@@ -1,10 +1,10 @@
 ---
-actualPrice: $21.00
+actualPrice: $30.00
 album: Demos 1995 & 1997
 artist: Ezurate
 categories:
 - Vinyl
-date: '2024-11-28T06:24:24'
+date: '2024-12-05T06:23:53'
 draft: false
 images:
 - /images/covers/ezurate-demos_1995_&_1997.jpg
@@ -14,4 +14,4 @@ title: Ezurate - Demos 1995 & 1997
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=58282&sort=pd.name&order=ASC) for $21.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=58282&sort=pd.name&order=ASC) for $30.00

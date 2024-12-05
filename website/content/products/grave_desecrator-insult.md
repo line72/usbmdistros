@@ -1,10 +1,10 @@
 ---
-actualPrice: $9.10
+actualPrice: $13.00
 album: Insult
 artist: Grave Desecrator
 categories:
 - CD
-date: '2024-11-23T06:26:59'
+date: '2024-12-05T06:25:28'
 draft: false
 images:
 - /images/covers/grave_desecrator-insult.jpg
@@ -14,4 +14,4 @@ title: Grave Desecrator - Insult
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=55675&sort=pd.name&order=ASC) for $9.10
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=55675&sort=pd.name&order=ASC) for $13.00

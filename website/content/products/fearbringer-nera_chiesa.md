@@ -1,10 +1,10 @@
 ---
-actualPrice: $7.00
+actualPrice: $10.00
 album: Nera Chiesa
 artist: Fearbringer
 categories:
 - Cassette
-date: '2024-11-23T06:27:54'
+date: '2024-12-05T06:26:27'
 draft: false
 images:
 - /images/covers/fearbringer-nera_chiesa.png
@@ -14,4 +14,4 @@ title: Fearbringer - Nera Chiesa
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=11333&sort=pd.name&order=ASC) for $7.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=11333&sort=pd.name&order=ASC) for $10.00

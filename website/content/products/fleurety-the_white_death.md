@@ -1,10 +1,10 @@
 ---
-actualPrice: $17.50
+actualPrice: $25.00
 album: The White Death
 artist: Fleurety
 categories:
 - Vinyl
-date: '2024-11-23T06:25:29'
+date: '2024-12-05T06:23:54'
 draft: false
 images:
 - /images/covers/fleurety-the_white_death.jpg
@@ -14,4 +14,4 @@ title: Fleurety - The White Death
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=58090&sort=pd.name&order=ASC) for $17.50
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=58587&sort=pd.name&order=ASC) for $25.00

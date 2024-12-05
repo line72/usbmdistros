@@ -1,10 +1,10 @@
 ---
-actualPrice: $10.50
+actualPrice: $15.00
 album: "Von Unreiner Willk\xFCr"
 artist: CNTMPT
 categories:
 - Cassette
-date: '2024-11-23T06:27:49'
+date: '2024-12-05T06:26:21'
 draft: false
 images:
 - "/images/covers/cntmpt-von_unreiner_willk\xFCr.jpg"
@@ -14,4 +14,4 @@ title: "CNTMPT - Von Unreiner Willk\xFCr"
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=28779&sort=pd.name&order=ASC) for $10.50
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=28779&sort=pd.name&order=ASC) for $15.00

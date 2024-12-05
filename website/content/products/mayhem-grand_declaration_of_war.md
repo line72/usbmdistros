@@ -1,11 +1,11 @@
 ---
-actualPrice: $8.40 - 45.00
+actualPrice: $12.00 - 45.00
 album: Grand Declaration of War
 artist: Mayhem
 categories:
 - Vinyl
 - Cassette
-date: '2024-11-23T06:28:03'
+date: '2024-12-05T06:26:37'
 draft: false
 images:
 - /images/covers/mayhem-grand_declaration_of_war.jpg
@@ -17,4 +17,4 @@ title: Mayhem - Grand Declaration of War
 ## Vinyl
 * Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/nesi-mayhem-grand-declaration-of-war-ltd-140-black-swirl-vinyl-asian-market-exclusive) for $45.00 :: grand declaration of war - ltd 140 black swirl vinyl - asian market exclusive
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=56509&sort=pd.name&order=ASC) for $8.40
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=56509&sort=pd.name&order=ASC) for $12.00

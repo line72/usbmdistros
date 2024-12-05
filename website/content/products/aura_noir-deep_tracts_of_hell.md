@@ -1,10 +1,10 @@
 ---
-actualPrice: $17.50
+actualPrice: $25.00
 album: Deep Tracts Of Hell
 artist: Aura Noir
 categories:
 - Vinyl
-date: '2024-11-23T06:25:12'
+date: '2024-12-05T06:23:37'
 draft: false
 images:
 - /images/covers/aura_noir-deep_tracts_of_hell.jpg
@@ -14,4 +14,4 @@ title: Aura Noir - Deep Tracts Of Hell
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=56778&sort=pd.name&order=ASC) for $17.50
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=56778&sort=pd.name&order=ASC) for $25.00

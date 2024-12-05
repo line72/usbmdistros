@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.50
+actualPrice: $25.00
 album: Vengeance From Darkness
 artist: Death Yell
 categories:
 - Vinyl
-date: '2024-12-03T06:22:56'
+date: '2024-12-05T06:23:48'
 draft: false
 images:
 - /images/covers/death_yell-vengeance_from_darkness.jpg
@@ -14,4 +14,4 @@ title: Death Yell - Vengeance From Darkness
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=56572&sort=pd.name&order=ASC) for $12.50
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=56572&sort=pd.name&order=ASC) for $25.00

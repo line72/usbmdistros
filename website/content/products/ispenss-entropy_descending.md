@@ -1,10 +1,10 @@
 ---
-actualPrice: $6.30
+actualPrice: $9.00
 album: Entropy Descending
 artist: Ispenss
 categories:
 - Cassette
-date: '2024-11-23T06:28:00'
+date: '2024-12-05T06:26:32'
 draft: false
 images:
 - /images/covers/ispenss-entropy_descending.jpg
@@ -14,4 +14,4 @@ title: Ispenss - Entropy Descending
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=17255&sort=pd.name&order=ASC) for $6.30
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=17255&sort=pd.name&order=ASC) for $9.00

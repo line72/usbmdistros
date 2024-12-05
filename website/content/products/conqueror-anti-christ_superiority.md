@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.50
+actualPrice: $25.00
 album: Anti-Christ Superiority
 artist: Conqueror
 categories:
 - Vinyl
-date: '2024-12-03T06:22:47'
+date: '2024-12-05T06:23:45'
 draft: false
 images:
 - /images/covers/conqueror-anti-christ_superiority.jpg
@@ -14,4 +14,4 @@ title: Conqueror - Anti-Christ Superiority
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=57787&sort=pd.name&order=ASC) for $12.50
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=58576&sort=pd.name&order=ASC) for $25.00

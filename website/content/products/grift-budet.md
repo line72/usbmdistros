@@ -1,11 +1,11 @@
 ---
-actualPrice: $8.40 - 15.40
+actualPrice: $12.00 - 22.00
 album: Budet
 artist: Grift
 categories:
 - Vinyl
 - CD
-date: '2024-11-23T06:27:00'
+date: '2024-12-05T06:25:29'
 draft: false
 images:
 - /images/covers/grift-budet.jpg
@@ -15,6 +15,6 @@ title: Grift - Budet
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=14963&sort=pd.name&order=ASC) for $15.40
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=14963&sort=pd.name&order=ASC) for $22.00
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=20574&sort=pd.name&order=ASC) for $8.40
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=20574&sort=pd.name&order=ASC) for $12.00

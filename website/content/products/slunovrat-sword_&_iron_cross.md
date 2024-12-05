@@ -1,10 +1,10 @@
 ---
-actualPrice: $3.50
+actualPrice: $5.00
 album: Sword & Iron Cross
 artist: Slunovrat
 categories:
 - CD
-date: '2024-11-23T06:27:31'
+date: '2024-12-05T06:26:00'
 draft: false
 images:
 - /images/covers/slunovrat-sword_&_iron_cross.png
@@ -14,4 +14,4 @@ title: Slunovrat - Sword & Iron Cross
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=1502&sort=pd.name&order=ASC) for $3.50
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=1502&sort=pd.name&order=ASC) for $5.00

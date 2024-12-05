@@ -1,10 +1,10 @@
 ---
-actualPrice: $4.20
+actualPrice: $6.00
 album: Tyrant of All Tyrants
 artist: Deathcult
 categories:
 - CD
-date: '2024-11-23T06:26:50'
+date: '2024-12-05T06:25:18'
 draft: false
 images:
 - /images/covers/deathcult-tyrant_of_all_tyrants.jpg
@@ -14,4 +14,4 @@ title: Deathcult - Tyrant of All Tyrants
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=45636&sort=pd.name&order=ASC) for $4.20
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=45636&sort=pd.name&order=ASC) for $6.00

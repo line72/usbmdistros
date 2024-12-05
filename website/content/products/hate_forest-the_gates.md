@@ -1,10 +1,10 @@
 ---
-actualPrice: $8.40
+actualPrice: $12.00
 album: The Gates
 artist: Hate Forest
 categories:
 - CD
-date: '2024-11-28T06:25:56'
+date: '2024-12-05T06:25:31'
 draft: false
 images:
 - /images/covers/hate_forest-the_gates.png
@@ -14,4 +14,4 @@ title: Hate Forest - The Gates
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=58296&sort=pd.name&order=ASC) for $8.40
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=58296&sort=pd.name&order=ASC) for $12.00

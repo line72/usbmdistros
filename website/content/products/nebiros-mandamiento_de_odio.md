@@ -1,10 +1,10 @@
 ---
-actualPrice: $10.50
+actualPrice: $15.00
 album: Mandamiento de Odio
 artist: Nebiros
 categories:
 - Vinyl
-date: '2024-11-23T06:26:31'
+date: '2024-12-05T06:24:59'
 draft: false
 images:
 - /images/covers/nebiros-mandamiento_de_odio.jpg
@@ -14,4 +14,4 @@ title: Nebiros - Mandamiento de Odio
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=52784&sort=pd.name&order=ASC) for $10.50
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=52784&sort=pd.name&order=ASC) for $15.00

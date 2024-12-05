@@ -1,10 +1,10 @@
 ---
-actualPrice: $10.50
+actualPrice: $15.00
 album: In The Shadows
 artist: Funereal Moon
 categories:
 - CD
-date: '2024-11-23T06:26:58'
+date: '2024-12-05T06:25:27'
 draft: false
 images:
 - /images/covers/funereal_moon-in_the_shadows.png
@@ -14,4 +14,4 @@ title: Funereal Moon - In The Shadows
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=51780&sort=pd.name&order=ASC) for $10.50
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=51780&sort=pd.name&order=ASC) for $15.00

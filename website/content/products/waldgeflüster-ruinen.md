@@ -1,10 +1,10 @@
 ---
-actualPrice: $11.90
+actualPrice: $17.00
 album: Ruinen
 artist: "Waldgefl\xFCster"
 categories:
 - CD
-date: '2024-11-23T06:27:41'
+date: '2024-12-05T06:26:12'
 draft: false
 images:
 - "/images/covers/waldgefl\xFCster-ruinen.png"
@@ -14,4 +14,4 @@ title: "Waldgefl\xFCster - Ruinen"
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=32659&sort=pd.name&order=ASC) for $11.90
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=32659&sort=pd.name&order=ASC) for $17.00

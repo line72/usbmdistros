@@ -1,10 +1,10 @@
 ---
-actualPrice: $21.00
+actualPrice: $30.00
 album: "\xD4fst\u200B\xC2\u200BN"
 artist: Kjeld
 categories:
 - Vinyl
-date: '2024-11-23T06:25:43'
+date: '2024-12-05T06:24:09'
 draft: false
 images:
 - "/images/covers/kjeld-\xF4fst\u200B\xE2\u200Bn.jpg"
@@ -14,4 +14,4 @@ title: "Kjeld - \xD4fst\u200B\xC2\u200BN"
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=51992&sort=pd.name&order=ASC) for $21.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=51992&sort=pd.name&order=ASC) for $30.00

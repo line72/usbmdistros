@@ -1,10 +1,10 @@
 ---
-actualPrice: $10.50
+actualPrice: $15.00
 album: Asateerul Awaleen
 artist: Impiety
 categories:
 - CD
-date: '2024-11-23T06:27:06'
+date: '2024-12-05T06:25:35'
 draft: false
 images:
 - /images/covers/impiety-asateerul_awaleen.jpg
@@ -14,4 +14,4 @@ title: Impiety - Asateerul Awaleen
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=52357&sort=pd.name&order=ASC) for $10.50
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=52357&sort=pd.name&order=ASC) for $15.00

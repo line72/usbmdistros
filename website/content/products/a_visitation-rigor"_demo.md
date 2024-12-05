@@ -1,10 +1,10 @@
 ---
-actualPrice: $7.00
+actualPrice: $10.00
 album: Rigor" Demo
 artist: A Visitation
 categories:
 - Cassette
-date: '2024-11-23T06:27:43'
+date: '2024-12-05T06:26:15'
 draft: false
 images:
 - /images/covers/a_visitation-rigor"_demo.png
@@ -14,4 +14,4 @@ title: A Visitation - Rigor" Demo
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=23992&sort=pd.name&order=ASC) for $7.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=23992&sort=pd.name&order=ASC) for $10.00

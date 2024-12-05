@@ -1,11 +1,11 @@
 ---
-actualPrice: $7.00 - 17.50
+actualPrice: $10.00 - 25.00
 album: Manes Impetus
 artist: Essenz
 categories:
 - Vinyl
 - CD
-date: '2024-11-23T06:26:55'
+date: '2024-12-05T06:25:24'
 draft: false
 images:
 - /images/covers/essenz-manes_impetus.jpg
@@ -15,6 +15,6 @@ title: Essenz - Manes Impetus
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=5308&sort=pd.name&order=ASC) for $17.50
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=5308&sort=pd.name&order=ASC) for $25.00
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=4073&sort=pd.name&order=ASC) for $7.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=4073&sort=pd.name&order=ASC) for $10.00

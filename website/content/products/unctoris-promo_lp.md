@@ -1,10 +1,10 @@
 ---
-actualPrice: $11.90
+actualPrice: $17.00
 album: Promo Lp
 artist: Unctoris
 categories:
 - Vinyl
-date: '2024-11-23T06:26:16'
+date: '2024-12-05T06:24:43'
 draft: false
 images:
 - /images/covers/unctoris-promo_lp.png
@@ -14,4 +14,4 @@ title: Unctoris - Promo Lp
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=15978&sort=pd.name&order=ASC) for $11.90
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=15978&sort=pd.name&order=ASC) for $17.00

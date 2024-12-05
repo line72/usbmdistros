@@ -1,10 +1,10 @@
 ---
-actualPrice: $5.60
+actualPrice: $8.00
 album: Leere
 artist: Kaltetod
 categories:
 - CD
-date: '2024-11-23T06:27:09'
+date: '2024-12-05T06:25:39'
 draft: false
 images:
 - /images/covers/kaltetod-leere.jpg
@@ -14,4 +14,4 @@ title: Kaltetod - Leere
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=2632&sort=pd.name&order=ASC) for $5.60
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=2632&sort=pd.name&order=ASC) for $8.00

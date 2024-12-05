@@ -1,11 +1,10 @@
 ---
-actualPrice: $15.00 - 25.00
+actualPrice: $15.00
 album: Kruzifixxion
 artist: Katharsis
 categories:
-- Vinyl
 - CD
-date: '2024-11-19T06:36:57'
+date: '2024-07-09T13:44:34'
 draft: false
 images:
 - /images/covers/katharsis-kruzifixxion.jpg
@@ -14,7 +13,5 @@ thumbnailImage: /images/covers/katharsis-kruzifixxion-thumb.jpg
 title: Katharsis - Kruzifixxion
 ---
 
-## Vinyl
-* Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/katharsis-kruzifixxion-12-lp/) for $25.00
 ## CD
 * Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/katharsis-kruzifixxion-cd/) for $15.00

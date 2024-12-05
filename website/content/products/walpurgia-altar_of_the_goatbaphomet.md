@@ -1,11 +1,11 @@
 ---
-actualPrice: $10.50 - 17.50
+actualPrice: $15.00 - 25.00
 album: Altar of the Goatbaphomet
 artist: Walpurgia
 categories:
 - Vinyl
 - CD
-date: '2024-11-23T06:27:41'
+date: '2024-12-05T06:26:12'
 draft: false
 images:
 - /images/covers/walpurgia-altar_of_the_goatbaphomet.png
@@ -15,6 +15,6 @@ title: Walpurgia - Altar of the Goatbaphomet
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=31452&sort=pd.name&order=ASC) for $17.50
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=31452&sort=pd.name&order=ASC) for $25.00
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=18503&sort=pd.name&order=ASC) for $10.50
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=18503&sort=pd.name&order=ASC) for $15.00

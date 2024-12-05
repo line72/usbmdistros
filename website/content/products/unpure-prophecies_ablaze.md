@@ -1,10 +1,10 @@
 ---
-actualPrice: $10.50
+actualPrice: $15.00
 album: Prophecies Ablaze
 artist: Unpure
 categories:
 - Cassette
-date: '2024-11-23T06:28:16'
+date: '2024-12-05T06:26:51'
 draft: false
 images:
 - /images/covers/unpure-prophecies_ablaze.jpg
@@ -14,4 +14,4 @@ title: Unpure - Prophecies Ablaze
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=42815&sort=pd.name&order=ASC) for $10.50
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=42815&sort=pd.name&order=ASC) for $15.00

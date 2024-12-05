@@ -1,11 +1,11 @@
 ---
-actualPrice: $7.00 - 14.00
+actualPrice: $10.00 - 20.00
 album: Cannibal Coronal Mass Ejections
 artist: "Jyoti\u1E63aved\u0101\u1E45ga"
 categories:
 - Cassette
 - CD
-date: '2024-11-23T06:28:01'
+date: '2024-12-05T06:26:32'
 draft: false
 images:
 - "/images/covers/jyoti\u1E63aved\u0101\u1E45ga-cannibal_coronal_mass_ejections.jpg"
@@ -15,6 +15,6 @@ title: "Jyoti\u1E63aved\u0101\u1E45ga - Cannibal Coronal Mass Ejections"
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=30810&sort=pd.name&order=ASC) for $14.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=30810&sort=pd.name&order=ASC) for $20.00
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=30809&sort=pd.name&order=ASC) for $7.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=30809&sort=pd.name&order=ASC) for $10.00

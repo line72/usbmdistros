@@ -1,10 +1,10 @@
 ---
-actualPrice: $10.50
+actualPrice: $15.00
 album: "Nuit En \xC9difice"
 artist: Drakonhail
 categories:
 - Cassette
-date: '2024-11-23T06:27:52'
+date: '2024-12-05T06:26:24'
 draft: false
 images:
 - "/images/covers/drakonhail-nuit_en_\xE9difice.jpg"
@@ -14,4 +14,4 @@ title: "Drakonhail - Nuit En \xC9difice"
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=57326&sort=pd.name&order=ASC) for $10.50
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=57326&sort=pd.name&order=ASC) for $15.00

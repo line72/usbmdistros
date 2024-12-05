@@ -1,11 +1,11 @@
 ---
-actualPrice: $8.40 - 17.50
+actualPrice: $12.00 - 25.00
 album: The Demos 1990-1995
 artist: Funeral Oration
 categories:
 - Vinyl
 - CD
-date: '2024-11-23T06:26:57'
+date: '2024-12-05T06:25:27'
 draft: false
 images:
 - /images/covers/funeral_oration-the_demos_1990-1995.png
@@ -15,6 +15,6 @@ title: Funeral Oration - The Demos 1990-1995
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=52504&sort=pd.name&order=ASC) for $17.50
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=52504&sort=pd.name&order=ASC) for $25.00
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=52503&sort=pd.name&order=ASC) for $8.40
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=52503&sort=pd.name&order=ASC) for $12.00

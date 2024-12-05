@@ -1,12 +1,12 @@
 ---
-actualPrice: $10.50 - 21.00
+actualPrice: $12.00 - 30.00
 album: War Upon Man
 artist: Helleruin
 categories:
 - Vinyl
 - Cassette
 - CD
-date: '2024-11-23T06:27:58'
+date: '2024-12-05T06:26:30'
 draft: false
 images:
 - /images/covers/helleruin-war_upon_man.jpg
@@ -16,9 +16,9 @@ title: Helleruin - War Upon Man
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=56989&sort=pd.name&order=ASC) for $21.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=56991&sort=pd.name&order=ASC) for $21.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=56989&sort=pd.name&order=ASC) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=56991&sort=pd.name&order=ASC) for $30.00
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=56990&sort=pd.name&order=ASC) for $10.50
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=56990&sort=pd.name&order=ASC) for $15.00
 ## CD
 * Purchase from [CW Productions](https://shop.cwproductions.net/products/helleruin-war-upon-man-cd) for $12.00
