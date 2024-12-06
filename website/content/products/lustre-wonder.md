@@ -1,5 +1,5 @@
 ---
-actualPrice: $13.99 - 29.99
+actualPrice: $13.99 - 25.99
 album: Wonder
 artist: Lustre
 categories:
@@ -16,6 +16,5 @@ title: Lustre - Wonder
 
 ## Vinyl
 * Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/lustre-wonder-black-green-white-splatter-vinyl-lp) for $25.99 :: black/green/white splatter vinyl lp
-* Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/lustre-wonder-vinyl-lp) for $29.99 :: (color)
 ## CD
 * Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/lustre-wonder-cd) for $13.99
