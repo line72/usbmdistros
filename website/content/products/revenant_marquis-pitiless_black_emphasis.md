@@ -4,7 +4,7 @@ album: Pitiless Black Emphasis
 artist: Revenant Marquis
 categories:
 - Vinyl
-date: '2024-07-25T05:02:03'
+date: '2024-12-08T06:02:19'
 draft: false
 images:
 - /images/covers/revenant_marquis-pitiless_black_emphasis.jpg
