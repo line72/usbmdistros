@@ -5,7 +5,7 @@ artist: Gothmog
 categories:
 - Vinyl
 - CD
-date: '2024-12-05T06:25:28'
+date: '2024-12-13T08:28:23'
 draft: false
 images:
 - /images/covers/gothmog-medieval_journeys.jpg
@@ -17,6 +17,7 @@ title: Gothmog - Medieval Journeys
 ## Vinyl
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/gothmog-medieval-journeys-12-lp) for $26.00
 * Purchase from [CW Productions](https://shop.cwproductions.net/products/gothmog-medieval-journeys-lp) for $25.00
+* Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/gothmog-medieval-journeys-vinyl-lp-color-w-insert) for $30.00 :: (color w/insert)
 * Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/gothmog-medieval-journeys-black-white-swirl-vinyl-lp) for $34.99 :: black/white swirl vinyl lp
 * Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/gothmog-medieval-journeys-vinyl-lp-color) for $30.00 :: (color, northern silence edition)
 ## CD
