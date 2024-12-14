@@ -5,8 +5,7 @@ artist: Kratti
 categories:
 - Vinyl
 - Cassette
-- CD
-date: '2024-12-01T06:02:56'
+date: '2024-12-01T06:02:41'
 draft: false
 images:
 - /images/covers/kratti-matka_kohti_kosmita.jpg
@@ -19,5 +18,3 @@ title: Kratti - Matka Kohti Kosmita
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/kratti-matka-kohti-kosmita-12-lp) for $28.00
 ## Cassette
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/kratti-matka-kohti-kosmita-tape) for $12.00
-## CD
-* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/kratti-matka-kohti-kosmita-cd) for $15.00
