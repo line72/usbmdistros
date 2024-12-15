@@ -4,7 +4,7 @@ album: Khronos
 artist: Rotting Christ
 categories:
 - Vinyl
-date: '2024-07-09T14:01:59'
+date: '2024-12-15T06:42:52'
 draft: false
 images:
 - /images/covers/rotting_christ-khronos.jpg
@@ -14,4 +14,4 @@ title: Rotting Christ - Khronos
 ---
 
 ## Vinyl
-* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/rotting-christ-khronos-double-blue-yellow-splatter-2lp-vinyl-2) for $37.99 :: double blue/yellow splatter (2lp) vinyl
+* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/rotting-christ-khronos-double-black-2lp-vinyl-lp) for $37.99 :: double black (2lp) vinyl lp

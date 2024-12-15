@@ -1,11 +1,12 @@
 ---
-actualPrice: $12.00
+actualPrice: $12.00 - 15.00
 album: "\u041F\u043E\u0440\u044B\u0432\u0430\u043C \u0421\u0435\u0440\u0434\u0435\u0446\
   \ \u0412 \u041B\u0435\u0434\u044F\u043D\u0443\u044E \u041C\u0435\u0447\u0442\u0443"
 artist: Gerzolth
 categories:
 - Cassette
-date: '2024-12-01T06:02:41'
+- CD
+date: '2024-12-01T06:02:56'
 draft: false
 images:
 - "/images/covers/gerzolth-\u043F\u043E\u0440\u044B\u0432\u0430\u043C_\u0441\u0435\
@@ -22,3 +23,5 @@ title: "Gerzolth - \u041F\u043E\u0440\u044B\u0432\u0430\u043C \u0421\u0435\u0440
 
 ## Cassette
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/gerzolth-tape) for $12.00
+## CD
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/gerzolth-cd) for $15.00

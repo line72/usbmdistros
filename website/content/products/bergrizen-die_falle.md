@@ -4,7 +4,7 @@ album: Die Falle
 artist: Bergrizen
 categories:
 - Vinyl
-date: '2024-07-09T00:39:50'
+date: '2024-12-15T06:02:33'
 draft: false
 images:
 - /images/covers/bergrizen-die_falle.jpg
