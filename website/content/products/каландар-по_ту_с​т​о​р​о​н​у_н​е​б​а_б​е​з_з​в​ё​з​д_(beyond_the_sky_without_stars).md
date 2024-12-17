@@ -1,5 +1,5 @@
 ---
-actualPrice: $30.00
+actualPrice: $15.00 - 30.00
 album: "\u041F\u043E \u0422\u0443 \u0421\u200B\u0422\u200B\u041E\u200B\u0420\u200B\
   \u041E\u200B\u041D\u200B\u0423 \u041D\u200B\u0415\u200B\u0411\u200B\u0410 \u0411\
   \u200B\u0415\u200B\u0417 \u0417\u200B\u0412\u200B\u0401\u200B\u0417\u200B\u0414\
@@ -7,7 +7,8 @@ album: "\u041F\u043E \u0422\u0443 \u0421\u200B\u0422\u200B\u041E\u200B\u0420\u20
 artist: "\u041A\u0430\u043B\u0430\u043D\u0434\u0430\u0440"
 categories:
 - Vinyl
-date: '2024-12-15T06:24:27'
+- Cassette
+date: '2024-12-17T00:03:07'
 draft: false
 images:
 - "/images/covers/\u043A\u0430\u043B\u0430\u043D\u0434\u0430\u0440-\u043F\u043E_\u0442\
@@ -27,3 +28,5 @@ title: "\u041A\u0430\u043B\u0430\u043D\u0434\u0430\u0440 - \u041F\u043E \u0422\u
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=58718&sort=pd.name&order=ASC) for $30.00
+## Cassette
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=58754&sort=pd.name&order=ASC) for $15.00

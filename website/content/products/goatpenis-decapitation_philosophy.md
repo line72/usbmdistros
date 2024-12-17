@@ -5,7 +5,7 @@ artist: Goatpenis
 categories:
 - Vinyl
 - CD
-date: '2024-12-05T06:25:28'
+date: '2024-12-17T00:01:42'
 draft: false
 images:
 - /images/covers/goatpenis-decapitation_philosophy.jpg
@@ -15,6 +15,6 @@ title: Goatpenis - Decapitation Philosophy
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=55551&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=58729&sort=pd.name&order=ASC) for $25.00
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=55550&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=58728&sort=pd.name&order=ASC) for $12.00
