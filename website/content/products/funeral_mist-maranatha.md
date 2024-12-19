@@ -1,16 +1,16 @@
 ---
 actualPrice: $30.00
-album: Marantha
+album: Maranatha
 artist: Funeral Mist
 categories:
 - Vinyl
-date: '2024-11-19T06:36:57'
+date: '2024-12-19T06:28:28'
 draft: false
 images:
-- /images/covers/funeral_mist-marantha.jpg
+- /images/covers/funeral_mist-maranatha.jpg
 inStock: true
-thumbnailImage: /images/covers/funeral_mist-marantha-thumb.jpg
-title: Funeral Mist - Marantha
+thumbnailImage: /images/covers/funeral_mist-maranatha-thumb.jpg
+title: Funeral Mist - Maranatha
 ---
 
 ## Vinyl
