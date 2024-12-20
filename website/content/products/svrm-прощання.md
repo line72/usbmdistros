@@ -1,10 +1,11 @@
 ---
-actualPrice: $24.00
+actualPrice: $12.00 - 24.00
 album: "\u041F\u0440\u043E\u0449\u0430\u043D\u043D\u044F"
 artist: SVRM
 categories:
 - Vinyl
-date: '2024-09-11T05:38:41'
+- CD
+date: '2024-12-20T06:37:14'
 draft: false
 images:
 - "/images/covers/svrm-\u043F\u0440\u043E\u0449\u0430\u043D\u043D\u044F.jpg"
@@ -16,3 +17,5 @@ title: "SVRM - \u041F\u0440\u043E\u0449\u0430\u043D\u043D\u044F"
 
 ## Vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/svrm-п-р-о-щ-а-н-н-я-lp) for $24.00 :: Black 2024 press vinyl
+## CD
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/svrm-п-р-о-щ-а-н-н-я-cd) for $12.00 :: Jewel Case 2024
