@@ -14,5 +14,4 @@ title: Kataxu - Roots Thunder
 ---
 
 ## Vinyl
-* Purchase from [CW Productions](https://shop.cwproductions.net/products/kataxu-roots-thunder-lp-1) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=58448&sort=pd.name&order=ASC) for $25.00
