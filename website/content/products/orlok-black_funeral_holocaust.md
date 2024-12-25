@@ -4,7 +4,7 @@ album: Black Funeral Holocaust
 artist: Orlok
 categories:
 - Vinyl
-date: '2024-12-17T00:00:37'
+date: '2024-12-25T06:24:05'
 draft: false
 images:
 - /images/covers/orlok-black_funeral_holocaust.png
@@ -14,4 +14,4 @@ title: Orlok - Black Funeral Holocaust
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=58724&sort=pd.name&order=ASC) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=58975&sort=pd.name&order=ASC) for $30.00

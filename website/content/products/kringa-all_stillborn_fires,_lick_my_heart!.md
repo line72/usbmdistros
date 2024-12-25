@@ -1,5 +1,5 @@
 ---
-actualPrice: $27.00
+actualPrice: $27.00 - 28.00
 album: All Stillborn Fires, Lick my Heart!
 artist: Kringa
 categories:
@@ -14,4 +14,5 @@ title: Kringa - All Stillborn Fires, Lick my Heart!
 ---
 
 ## Vinyl
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/kringa-all-stillborn-fires-lick-my-heart-lp) for $28.00 :: Black 2023 press vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=52458&sort=pd.name&order=ASC) for $27.00

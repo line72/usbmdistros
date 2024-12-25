@@ -5,7 +5,7 @@ artist: Beherit
 categories:
 - Vinyl
 - CD
-date: '2024-12-20T06:25:20'
+date: '2024-12-25T06:24:53'
 draft: false
 images:
 - /images/covers/beherit-order_ships_1-9-25).jpg
@@ -15,6 +15,6 @@ title: Beherit - Order Ships 1/9/25)
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=58777&sort=pd.name&order=ASC) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=58964&sort=pd.name&order=ASC) for $30.00
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=58776&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=58963&sort=pd.name&order=ASC) for $15.00

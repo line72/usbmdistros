@@ -4,7 +4,7 @@ album: Slipcase
 artist: Beherit
 categories:
 - CD
-date: '2024-12-05T06:25:11'
+date: '2024-12-25T06:24:53'
 draft: false
 images:
 - /images/covers/beherit-slipcase.jpg
@@ -14,5 +14,5 @@ title: Beherit - Slipcase
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=56339&sort=pd.name&order=ASC) for $20.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=57439&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=58946&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=58950&sort=pd.name&order=ASC) for $20.00

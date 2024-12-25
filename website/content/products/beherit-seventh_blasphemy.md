@@ -4,7 +4,7 @@ album: Seventh Blasphemy
 artist: Beherit
 categories:
 - CD
-date: '2024-12-05T06:25:12'
+date: '2024-12-25T06:24:53'
 draft: false
 images:
 - /images/covers/beherit-seventh_blasphemy.jpg
@@ -14,4 +14,4 @@ title: Beherit - Seventh Blasphemy
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=56358&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=58967&sort=pd.name&order=ASC) for $20.00

@@ -1,10 +1,10 @@
 ---
-actualPrice: $27.00
+actualPrice: $27.00 - 28.00
 album: Avgrunnens Klangverk
 artist: Knokkelklang
 categories:
 - Vinyl
-date: '2024-12-05T06:24:09'
+date: '2024-12-25T06:36:56'
 draft: false
 images:
 - /images/covers/knokkelklang-avgrunnens_klangverk.jpg
@@ -14,4 +14,5 @@ title: Knokkelklang - Avgrunnens Klangverk
 ---
 
 ## Vinyl
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/knokkelklang-avgrunnens-klangverk-lp) for $28.00 :: Bone White 2022 press vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=22323&sort=pd.name&order=ASC) for $27.00

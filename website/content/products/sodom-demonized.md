@@ -4,7 +4,7 @@ album: Demonized
 artist: Sodom
 categories:
 - CD
-date: '2024-12-05T06:26:00'
+date: '2024-12-25T06:25:41'
 draft: false
 images:
 - /images/covers/sodom-demonized.jpg
@@ -14,4 +14,4 @@ title: Sodom - Demonized
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=56534&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=58927&sort=pd.name&order=ASC) for $12.00

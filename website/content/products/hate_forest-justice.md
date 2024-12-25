@@ -1,5 +1,5 @@
 ---
-actualPrice: $20.00 - 25.00
+actualPrice: $20.00
 album: Justice
 artist: Hate Forest
 categories:
@@ -15,4 +15,3 @@ title: Hate Forest - Justice
 
 ## Vinyl
 * Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/hate-forest-justice-12-lp/) for $20.00
-* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/hate-forest-justice-12-lp) for $25.00
