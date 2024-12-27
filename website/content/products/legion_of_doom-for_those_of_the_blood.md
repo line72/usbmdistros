@@ -4,7 +4,7 @@ album: For Those of the Blood
 artist: Legion of Doom
 categories:
 - Vinyl
-date: '2024-07-19T05:01:59'
+date: '2024-12-27T06:02:39'
 draft: false
 images:
 - /images/covers/legion_of_doom-for_those_of_the_blood.jpg
