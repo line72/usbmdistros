@@ -1,5 +1,5 @@
 ---
-actualPrice: $18.00 - 20.00
+actualPrice: $18.00
 album: Emanations Of Desolation
 artist: Sun Worship
 categories:
@@ -14,5 +14,4 @@ title: Sun Worship - Emanations Of Desolation
 ---
 
 ## Vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/sun-worship-emanations-of-desolation-lp) for $20.00 :: Black 2019 press vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/used-sun-worship-emanations-of-desolation-2xlp) for $18.00 :: Black 2019 press vinyl
