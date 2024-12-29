@@ -15,7 +15,6 @@ title: "Gennem T\xE5gen - Koldt betragtes verden"
 ---
 
 ## Vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/gennem-tagen-koldt-betragtes-verden-lp) for $25.00 :: Black 2024 press vinyl
 * Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/gennem-tagen-koldt-betragtes-verden-vinyl-lp) for $25.00 :: vinyl lp
 ## CD
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/gennem-tagen-koldt-betragtes-verden-cd-1) for $13.00 :: CD 2023

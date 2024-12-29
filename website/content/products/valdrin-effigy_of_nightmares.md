@@ -1,5 +1,5 @@
 ---
-actualPrice: $27.00
+actualPrice: $23.00 - 27.00
 album: Effigy of Nightmares
 artist: Valdrin
 categories:
@@ -15,3 +15,4 @@ title: Valdrin - Effigy of Nightmares
 
 ## Vinyl
 * Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/valdrin-effigy-of-nightmares-vinyl-lp) for $27.00 :: vinyl lp
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/valdrin-effigy-of-nightmares-lp-1) for $23.00 :: Black 2020 press vinyl
