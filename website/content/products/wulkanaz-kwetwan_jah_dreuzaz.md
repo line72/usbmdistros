@@ -1,10 +1,11 @@
 ---
-actualPrice: $27.00
+actualPrice: $15.00 - 27.00
 album: Kwetwan jah Dreuzaz
 artist: Wulkanaz
 categories:
 - Vinyl
-date: '2024-07-09T00:40:14'
+- CD
+date: '2024-12-05T06:26:14'
 draft: false
 images:
 - /images/covers/wulkanaz-kwetwan_jah_dreuzaz.jpg
@@ -15,3 +16,6 @@ title: Wulkanaz - Kwetwan jah Dreuzaz
 
 ## Vinyl
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/wulkanaz-kwetwan-jah-dreuzaz-12-lp) for $27.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29591&sort=pd.name&order=ASC) for $27.00
+## CD
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=31531&sort=pd.name&order=ASC) for $15.00
