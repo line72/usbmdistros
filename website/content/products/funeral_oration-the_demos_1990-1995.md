@@ -5,7 +5,7 @@ artist: Funeral Oration
 categories:
 - Vinyl
 - CD
-date: '2024-12-05T06:25:27'
+date: '2025-01-02T06:24:08'
 draft: false
 images:
 - /images/covers/funeral_oration-the_demos_1990-1995.png
@@ -15,6 +15,6 @@ title: Funeral Oration - The Demos 1990-1995
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=52504&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=59038&sort=pd.name&order=ASC) for $25.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=52503&sort=pd.name&order=ASC) for $12.00

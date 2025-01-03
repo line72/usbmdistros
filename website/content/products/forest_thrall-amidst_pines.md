@@ -4,7 +4,7 @@ album: Amidst Pines
 artist: Forest Thrall
 categories:
 - CD
-date: '2024-12-12T06:25:39'
+date: '2025-01-02T06:25:39'
 draft: false
 images:
 - /images/covers/forest_thrall-amidst_pines.jpg
@@ -14,4 +14,4 @@ title: Forest Thrall - Amidst Pines
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=58650&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=59054&sort=pd.name&order=ASC) for $12.00

@@ -6,7 +6,7 @@ categories:
 - Vinyl
 - Cassette
 - CD
-date: '2024-12-05T06:26:28'
+date: '2025-01-02T06:24:08'
 draft: false
 images:
 - /images/covers/furze-caw_entrance.jpg
@@ -16,7 +16,7 @@ title: Furze - Caw Entrance
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=56895&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=59041&sort=pd.name&order=ASC) for $25.00
 ## Cassette
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=55071&sort=pd.name&order=ASC) for $15.00
 ## CD
