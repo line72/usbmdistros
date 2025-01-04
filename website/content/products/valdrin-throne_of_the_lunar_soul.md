@@ -6,7 +6,7 @@ categories:
 - Vinyl
 - Cassette
 - CD
-date: '2024-12-31T06:35:55'
+date: '2024-12-05T06:26:52'
 draft: false
 images:
 - /images/covers/valdrin-throne_of_the_lunar_soul.jpg
@@ -21,6 +21,5 @@ title: Valdrin - Throne of the Lunar Soul
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=55202&sort=pd.name&order=ASC) for $30.00
 ## Cassette
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=46393&sort=pd.name&order=ASC) for $15.00
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/valdrin-throne-of-the-lunar-soul-2xlp) for $32.00 :: White 2023 press vinyl
 ## CD
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/valdrin-throne-of-the-lunar-soul-cd) for $14.00 :: Jewel Case 2023
