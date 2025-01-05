@@ -4,7 +4,7 @@ album: Underground
 artist: Catacomb Voices
 categories:
 - Vinyl
-date: '2024-12-05T06:23:43'
+date: '2025-01-05T06:24:02'
 draft: false
 images:
 - /images/covers/catacomb_voices-underground.jpg
@@ -14,4 +14,4 @@ title: Catacomb Voices - Underground
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=47685&sort=pd.name&order=ASC) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=59200&sort=pd.name&order=ASC) for $30.00

@@ -5,7 +5,7 @@ artist: Duivel
 categories:
 - Vinyl
 - Cassette
-date: '2024-12-05T06:26:25'
+date: '2025-01-05T06:24:10'
 draft: false
 images:
 - /images/covers/duivel-heiligschennis.png
@@ -15,6 +15,6 @@ title: Duivel - Heiligschennis
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=37204&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=59128&sort=pd.name&order=ASC) for $25.00
 ## Cassette
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=37206&sort=pd.name&order=ASC) for $15.00

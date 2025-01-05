@@ -5,7 +5,7 @@ artist: Cult of Erinyes
 categories:
 - Vinyl
 - CD
-date: '2024-12-05T06:25:17'
+date: '2025-01-05T06:25:34'
 draft: false
 images:
 - /images/covers/cult_of_erinyes-metempsychosis.png
@@ -15,6 +15,6 @@ title: Cult of Erinyes - Metempsychosis
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=51545&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=59164&sort=pd.name&order=ASC) for $25.00
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=51544&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=59163&sort=pd.name&order=ASC) for $15.00

@@ -1,5 +1,5 @@
 ---
-actualPrice: $31.99
+actualPrice: $23.99 - 31.99
 album: Memoria Vetusta III - Saturnian Poetry
 artist: Blut Aus Nord
 categories:
@@ -14,4 +14,5 @@ title: Blut Aus Nord - Memoria Vetusta III - Saturnian Poetry
 ---
 
 ## Vinyl
+* Purchase from [Debemur Morti](https://debemurmorti.aisamerch.com/item/141508) for $23.99
 * Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/blut-aus-nord-memoria-vetusta-iii-saturnian-poetry-limited-gold-black-marble-vinyl-lp) for $31.99 :: limited gold/black marble vinyl lp
