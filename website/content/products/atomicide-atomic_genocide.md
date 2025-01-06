@@ -5,7 +5,7 @@ artist: Atomicide
 categories:
 - Vinyl
 - CD
-date: '2024-12-05T06:25:10'
+date: '2025-01-06T06:21:13'
 draft: false
 images:
 - /images/covers/atomicide-atomic_genocide.jpg
@@ -15,6 +15,6 @@ title: Atomicide - Atomic Genocide
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=55415&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=59311&sort=pd.name&order=ASC) for $25.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=51353&sort=pd.name&order=ASC) for $12.00

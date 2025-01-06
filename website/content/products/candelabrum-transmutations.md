@@ -5,7 +5,7 @@ artist: Candelabrum
 categories:
 - Vinyl
 - CD
-date: '2024-11-03T05:03:20'
+date: '2025-01-06T06:01:59'
 draft: false
 images:
 - /images/covers/candelabrum-transmutations.png

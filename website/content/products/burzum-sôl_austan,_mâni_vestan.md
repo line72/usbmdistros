@@ -4,7 +4,7 @@ album: "S\xF4l Austan, M\xE2ni Vestan"
 artist: Burzum
 categories:
 - Vinyl
-date: '2024-12-05T06:23:42'
+date: '2025-01-06T06:21:23'
 draft: false
 images:
 - "/images/covers/burzum-s\xF4l_austan,_m\xE2ni_vestan.png"
@@ -14,4 +14,4 @@ title: "Burzum - S\xF4l Austan, M\xE2ni Vestan"
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=56221&sort=pd.name&order=ASC) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=59284&sort=pd.name&order=ASC) for $30.00

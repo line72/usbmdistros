@@ -4,7 +4,7 @@ album: Azetik
 artist: Azketem
 categories:
 - Vinyl
-date: '2024-12-05T06:23:38'
+date: '2025-01-06T06:21:14'
 draft: false
 images:
 - /images/covers/azketem-azetik.jpg
@@ -14,4 +14,4 @@ title: Azketem - Azetik
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=54438&sort=pd.name&order=ASC) for $27.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=59307&sort=pd.name&order=ASC) for $27.00

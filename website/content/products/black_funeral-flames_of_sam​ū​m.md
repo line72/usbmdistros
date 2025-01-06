@@ -4,7 +4,7 @@ album: "Flames Of Sam\u200B\u016A\u200BM"
 artist: Black Funeral
 categories:
 - Vinyl
-date: '2024-12-12T06:23:53'
+date: '2025-01-06T06:21:18'
 draft: false
 images:
 - "/images/covers/black_funeral-flames_of_sam\u200B\u016B\u200Bm.jpg"
@@ -14,4 +14,4 @@ title: "Black Funeral - Flames Of Sam\u200B\u016A\u200BM"
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=58670&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=59243&sort=pd.name&order=ASC) for $25.00
