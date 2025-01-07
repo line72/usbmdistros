@@ -1,11 +1,10 @@
 ---
-actualPrice: $13.00 - 25.00
+actualPrice: $13.00
 album: Transmutations
 artist: Candelabrum
 categories:
-- Vinyl
 - CD
-date: '2025-01-06T06:01:59'
+date: '2024-11-03T05:03:20'
 draft: false
 images:
 - /images/covers/candelabrum-transmutations.png
@@ -14,7 +13,5 @@ thumbnailImage: /images/covers/candelabrum-transmutations-thumb.png
 title: Candelabrum - Transmutations
 ---
 
-## Vinyl
-* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/candelabrum-transmutations-12-lp) for $25.00
 ## CD
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/candelabrum-transmutations-cd) for $13.00
