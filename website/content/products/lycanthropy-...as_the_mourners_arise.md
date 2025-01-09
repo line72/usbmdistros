@@ -1,5 +1,5 @@
 ---
-actualPrice: $26.00
+actualPrice: $20.00 - 26.00
 album: '...As the Mourners Arise'
 artist: Lycanthropy
 categories:
@@ -14,4 +14,5 @@ title: Lycanthropy - ...As the Mourners Arise
 ---
 
 ## Vinyl
+* Purchase from [CW Productions](https://shop.cwproductions.net/products/lycanthropy-as-the-mourners-arise-lp) for $20.00
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/lycanthropy-as-the-mourners-arise-12-lp) for $26.00

@@ -1,5 +1,5 @@
 ---
-actualPrice: $20.00
+actualPrice: $13.00 - 20.00
 album: Seventh Blasphemy
 artist: Beherit
 categories:
@@ -14,4 +14,5 @@ title: Beherit - Seventh Blasphemy
 ---
 
 ## CD
+* Purchase from [CW Productions](https://shop.cwproductions.net/products/beherit-seventh-blasphemy-cd) for $13.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=58967&sort=pd.name&order=ASC) for $20.00
