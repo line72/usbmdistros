@@ -16,7 +16,6 @@ title: Summoning - 3 Weeks]
 
 ## Vinyl
 * Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/summoning-nightshade-forests-vinyl-lp-gatefold) for $37.99 :: (gatefold) [ships in 2-3 weeks]
-* Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/summoning-minas-morgul-vinyl-2xlp-double-lp-gatefold) for $49.99 :: (double lp gatefold) [ships in 2-3 weeks]
 * Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/summoning-dol-guldur-vinyl-2xlp-double-lp-gatefold) for $49.99 :: (double lp gatefold) [ships in 2-3 weeks]
 * Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/summoning-let-mortal-heroes-sing-your-fame-vinyl-2xlp-double-lp-gatefold) for $49.99 :: (double lp gatefold) [ships in 2-3 weeks]
 ## CD

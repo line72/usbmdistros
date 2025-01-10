@@ -4,7 +4,7 @@ album: Dark Medieval Times
 artist: Satyricon
 categories:
 - CD
-date: '2024-12-05T06:25:58'
+date: '2025-01-10T06:21:02'
 draft: false
 images:
 - /images/covers/satyricon-dark_medieval_times.jpg
@@ -14,4 +14,4 @@ title: Satyricon - Dark Medieval Times
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=56133&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=59406&sort=pd.name&order=ASC) for $15.00
