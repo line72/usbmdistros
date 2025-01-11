@@ -1,5 +1,5 @@
 ---
-actualPrice: $34.99 - 37.00
+actualPrice: $34.99
 album: Servants Of The Runestaff
 artist: Gates of Londra
 categories:
@@ -14,5 +14,4 @@ title: Gates of Londra - Servants Of The Runestaff
 ---
 
 ## Vinyl
-* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/gates-of-londra-servants-of-the-runestaff-12-lp) for $37.00
 * Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/gates-of-londra-servants-of-the-runestaff-vinyl-lp) for $34.99 :: (w/ obi)

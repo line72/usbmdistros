@@ -1,10 +1,9 @@
 ---
-actualPrice: $14.00 - 32.00
+actualPrice: $32.00
 album: "\u041F\u0440\u0438\u0433\u043E\u0440\u0449\u0430 \u0417\u0456\u0440\u043E\u043A"
 artist: Drudkh
 categories:
 - Vinyl
-- Cassette
 date: '2025-01-03T06:37:43'
 draft: false
 images:
@@ -19,5 +18,3 @@ title: "Drudkh - \u041F\u0440\u0438\u0433\u043E\u0440\u0449\u0430 \u0417\u0456\u
 
 ## Vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/drudkh-пригорща-зірок-handful-of-stars-lp) for $32.00 :: Clear/Red/Blue 2024 press
-## Cassette
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/drudkh-пригорща-зірок-handful-of-stars-cassette) for $14.00 :: Cassette 2022

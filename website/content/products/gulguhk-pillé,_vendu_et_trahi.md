@@ -1,5 +1,5 @@
 ---
-actualPrice: $27.00 - 30.00
+actualPrice: $27.00
 album: "Pill\xE9, Vendu Et Trahi"
 artist: Gulguhk
 categories:
@@ -14,5 +14,4 @@ title: "Gulguhk - Pill\xE9, Vendu Et Trahi"
 ---
 
 ## Vinyl
-* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/gulguhk-pille-vendu-et-trahi-12-lp) for $30.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=57297&sort=pd.name&order=ASC) for $27.00
