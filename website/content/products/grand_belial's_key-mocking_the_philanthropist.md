@@ -4,7 +4,7 @@ album: Mocking The Philanthropist
 artist: Grand Belial's Key
 categories:
 - Cassette
-date: '2024-10-21T06:02:39'
+date: '2025-01-14T06:31:42'
 draft: false
 images:
 - /images/covers/grand_belial's_key-mocking_the_philanthropist.jpg
@@ -14,4 +14,4 @@ title: Grand Belial's Key - Mocking The Philanthropist
 ---
 
 ## Cassette
-* Purchase from [CW Productions](https://shop.cwproductions.net/products/grand-belials-key-mocking-the-philanthropist-tape-4) for $10.00
+* Purchase from [CW Productions](https://shop.cwproductions.net/products/grand-belials-key-mocking-the-philanthropist-tape-5) for $10.00

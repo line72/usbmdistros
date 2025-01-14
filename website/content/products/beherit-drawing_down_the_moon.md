@@ -1,12 +1,12 @@
 ---
-actualPrice: $12.00 - 100.00
+actualPrice: $15.00 - 100.00
 album: Drawing Down the Moon
 artist: Beherit
 categories:
 - Vinyl
 - Cassette
 - CD
-date: '2025-01-11T06:21:08'
+date: '2025-01-06T06:21:16'
 draft: false
 images:
 - /images/covers/beherit-drawing_down_the_moon.jpg
@@ -23,4 +23,3 @@ title: Beherit - Drawing Down the Moon
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=58960&sort=pd.name&order=ASC) for $15.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=58958&sort=pd.name&order=ASC) for $15.00
-* Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/beherit-drawing-down-the-moon-cd/) for $12.00
