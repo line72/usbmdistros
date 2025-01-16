@@ -1,5 +1,5 @@
 ---
-actualPrice: $15.00
+actualPrice: $12.00 - 15.00
 album: Demise of Heaven
 artist: Lunar Spells
 categories:
@@ -14,4 +14,5 @@ title: Lunar Spells - Demise of Heaven
 ---
 
 ## Cassette
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/lunar-spells-demise-of-heaven-tape) for $12.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=55047&sort=pd.name&order=ASC) for $15.00
