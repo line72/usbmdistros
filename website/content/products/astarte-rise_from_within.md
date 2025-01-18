@@ -4,7 +4,7 @@ album: Rise from Within
 artist: Astarte
 categories:
 - Vinyl
-date: '2025-01-06T06:21:13'
+date: '2025-01-18T06:23:45'
 draft: false
 images:
 - /images/covers/astarte-rise_from_within.jpg
@@ -14,4 +14,4 @@ title: Astarte - Rise from Within
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=59313&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=59529&sort=pd.name&order=ASC) for $25.00

@@ -4,7 +4,7 @@ album: Skin Stone Blood Bone
 artist: Ifernach
 categories:
 - Vinyl
-date: '2024-12-05T06:24:05'
+date: '2025-01-18T06:24:12'
 draft: false
 images:
 - /images/covers/ifernach-skin_stone_blood_bone.jpg
@@ -14,4 +14,4 @@ title: Ifernach - Skin Stone Blood Bone
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=57398&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=59522&sort=pd.name&order=ASC) for $25.00

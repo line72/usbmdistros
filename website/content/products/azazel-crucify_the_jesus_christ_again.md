@@ -4,7 +4,7 @@ album: Crucify the Jesus Christ Again
 artist: Azazel
 categories:
 - Vinyl
-date: '2024-12-05T06:23:38'
+date: '2025-01-18T06:23:46'
 draft: false
 images:
 - /images/covers/azazel-crucify_the_jesus_christ_again.jpg
@@ -14,4 +14,4 @@ title: Azazel - Crucify the Jesus Christ Again
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=58249&sort=pd.name&order=ASC) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=59497&sort=pd.name&order=ASC) for $30.00

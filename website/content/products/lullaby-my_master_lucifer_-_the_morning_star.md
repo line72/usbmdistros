@@ -4,7 +4,7 @@ album: My Master Lucifer / The Morning Star
 artist: Lullaby
 categories:
 - Vinyl
-date: '2024-12-05T06:24:11'
+date: '2025-01-18T06:24:19'
 draft: false
 images:
 - /images/covers/lullaby-my_master_lucifer_-_the_morning_star.jpg
@@ -14,4 +14,4 @@ title: Lullaby - My Master Lucifer / The Morning Star
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=58562&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=59490&sort=pd.name&order=ASC) for $25.00

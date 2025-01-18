@@ -4,7 +4,7 @@ album: Abhabaniyastral Samsarimplication
 artist: Brahmastrika
 categories:
 - Vinyl
-date: '2024-12-05T06:23:42'
+date: '2025-01-18T06:23:51'
 draft: false
 images:
 - /images/covers/brahmastrika-abhabaniyastral_samsarimplication.jpg
@@ -14,4 +14,4 @@ title: Brahmastrika - Abhabaniyastral Samsarimplication
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=20153&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=59516&sort=pd.name&order=ASC) for $25.00

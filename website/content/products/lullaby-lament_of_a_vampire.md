@@ -4,7 +4,7 @@ album: Lament of a Vampire
 artist: Lullaby
 categories:
 - CD
-date: '2024-12-05T06:25:42'
+date: '2025-01-18T06:25:46'
 draft: false
 images:
 - /images/covers/lullaby-lament_of_a_vampire.jpg
@@ -14,4 +14,4 @@ title: Lullaby - Lament of a Vampire
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=47539&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=59489&sort=pd.name&order=ASC) for $12.00
