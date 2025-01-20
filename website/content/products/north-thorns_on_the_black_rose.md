@@ -4,7 +4,7 @@ album: Thorns On The Black Rose
 artist: North
 categories:
 - CD
-date: '2024-12-05T06:25:49'
+date: '2025-01-20T06:30:42'
 draft: false
 images:
 - /images/covers/north-thorns_on_the_black_rose.jpg
@@ -14,4 +14,4 @@ title: North - Thorns On The Black Rose
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=55979&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=59585&sort=pd.name&order=ASC) for $12.00

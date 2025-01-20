@@ -17,5 +17,4 @@ title: "Vo\xEBmmr - Negras sess\xF5es no abismo sul"
 ## Vinyl
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/voemmr-negras-sessoes-no-abismo-sul-12-lp) for $30.00
 ## CD
-* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/voemmr-negras-sessoes-no-abismo-sul-cd) for $14.00
 * Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/vommr-negras-sessoes-no-abismo-sul-cd-lim200) for $12.00 :: (lim.200)

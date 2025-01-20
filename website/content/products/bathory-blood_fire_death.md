@@ -14,6 +14,5 @@ title: Bathory - Blood Fire Death
 ---
 
 ## Vinyl
-* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/bathory-blood-fire-death-vinyl-lp) for $31.99 :: vinyl lp
 * Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/bathory-blood-fire-death-vinyl-lp-official-pressing) for $39.00 :: (official pressing)
 * Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/bathory-blood-fire-death-picture-lp-official-pressing) for $29.99 :: (official pressing)
