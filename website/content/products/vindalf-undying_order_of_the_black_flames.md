@@ -1,9 +1,11 @@
 ---
-actualPrice: $28.00
+actualPrice: $12.00 - 28.00
 album: Undying Order Of The Black Flames
 artist: Vindalf
 categories:
 - Vinyl
+- Cassette
+- CD
 date: '2025-01-16T06:02:06'
 draft: false
 images:
@@ -15,3 +17,7 @@ title: Vindalf - Undying Order Of The Black Flames
 
 ## Vinyl
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/vindalf-undying-order-of-the-black-flames-12-lp) for $28.00
+## Cassette
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/vindalf-undying-order-of-the-black-flames-tape) for $12.00
+## CD
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/vindalf-undying-order-of-the-black-flames-cd) for $15.00

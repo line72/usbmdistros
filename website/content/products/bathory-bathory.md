@@ -1,10 +1,10 @@
 ---
-actualPrice: $36.65
+actualPrice: $30.99 - 36.65
 album: Bathory
 artist: Bathory
 categories:
 - Vinyl
-date: '2024-07-09T14:02:23'
+date: '2025-01-21T06:45:09'
 draft: false
 images:
 - /images/covers/bathory-bathory.jpg
@@ -15,3 +15,5 @@ title: Bathory - Bathory
 
 ## Vinyl
 * Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/bathory-bathory-180g-black-vinyl-used-nm-condition) for $36.65
+* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/bathory-bathory-vinyl-lp-1) for $30.99 :: vinyl lp
+* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/bathory-bathory-picture-disc-vinyl-lp-1) for $33.99
