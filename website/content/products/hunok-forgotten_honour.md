@@ -1,10 +1,10 @@
 ---
-actualPrice: $10.00 - 15.00
+actualPrice: $10.00
 album: Forgotten Honour
 artist: Hunok
 categories:
 - CD
-date: '2024-12-05T06:25:35'
+date: '2024-07-09T13:44:36'
 draft: false
 images:
 - /images/covers/hunok-forgotten_honour.jpg
@@ -14,5 +14,4 @@ title: Hunok - Forgotten Honour
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=46691&sort=pd.name&order=ASC) for $15.00
 * Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/hunok-forgotten-honour-digipak-cd/) for $10.00

@@ -5,7 +5,7 @@ artist: Blutumhang
 categories:
 - Vinyl
 - Cassette
-date: '2025-01-06T06:21:21'
+date: '2025-01-03T06:02:15'
 draft: false
 images:
 - /images/covers/blutumhang-moonchants_to_eternus.jpg
@@ -16,6 +16,5 @@ title: Blutumhang - Moonchants to Eternus
 
 ## Vinyl
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/blutumhang-moonchants-to-eternus-12-lp) for $25.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=59296&sort=pd.name&order=ASC) for $25.00
 ## Cassette
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/used-blutumhang-moonchants-to-eternus-cassette) for $10.00 :: White Shell 2022

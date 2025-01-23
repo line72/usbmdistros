@@ -1,10 +1,10 @@
 ---
-actualPrice: $6.00 - 12.00
+actualPrice: $6.00
 album: Arias Toward the Black Sun
 artist: Tenebrous
 categories:
 - CD
-date: '2024-12-05T06:26:05'
+date: '2024-07-09T13:57:26'
 draft: false
 images:
 - /images/covers/tenebrous-arias_toward_the_black_sun.jpg
@@ -15,4 +15,3 @@ title: Tenebrous - Arias Toward the Black Sun
 
 ## CD
 * Purchase from [CW Productions](https://shop.cwproductions.net/products/tenebrous-arias-toward-the-black-sun-cd) for $6.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=33003&sort=pd.name&order=ASC) for $12.00
