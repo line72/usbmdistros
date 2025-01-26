@@ -1,10 +1,10 @@
 ---
-actualPrice: $34.99 - 35.99
+actualPrice: $31.00 - 35.99
 album: Limbo
 artist: Gaerea
 categories:
 - Vinyl
-date: '2024-10-15T05:44:40'
+date: '2025-01-25T06:37:57'
 draft: false
 images:
 - /images/covers/gaerea-limbo.jpg
@@ -14,5 +14,6 @@ title: Gaerea - Limbo
 ---
 
 ## Vinyl
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/gaerea-limbo) for $31.00 :: Black 2023 press vinyl
 * Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/copy-of-default-template-for-new-vinyl-1) for $35.99 :: double lp gatefold colored - white ltd to 300
 * Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/gaerea-limbo-double-gold-gatefold-vinyl-dlp-ltd-to-251) for $34.99 :: double gold gatefold vinyl dlp - ltd to 250
