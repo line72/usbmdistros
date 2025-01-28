@@ -5,7 +5,7 @@ artist: Immortal
 categories:
 - Vinyl
 - CD
-date: '2024-12-05T06:25:35'
+date: '2025-01-28T06:38:14'
 draft: false
 images:
 - /images/covers/immortal-diabolical_fullmoon_mysticism.jpg
@@ -19,3 +19,4 @@ title: Immortal - Diabolical Fullmoon Mysticism
 * Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/immortal-diabolical-fullmoon-mysticism-orange-black-splatter-vinyl-lp-gatefold) for $27.00 :: orange/black splatter vinyl lp gatefold
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=54792&sort=pd.name&order=ASC) for $15.00
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/immortal-diabolical-fullmoon-mysticism-cd) for $15.00 :: Slipcase 2023
