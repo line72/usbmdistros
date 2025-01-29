@@ -4,7 +4,7 @@ album: Darkside
 artist: Sacred Sin
 categories:
 - Vinyl
-date: '2024-12-05T06:24:30'
+date: '2025-01-29T06:22:50'
 draft: false
 images:
 - /images/covers/sacred_sin-darkside.jpg
@@ -14,4 +14,4 @@ title: Sacred Sin - Darkside
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=54165&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=59736&sort=pd.name&order=ASC) for $25.00

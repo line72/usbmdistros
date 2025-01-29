@@ -4,7 +4,7 @@ album: Triumph.Genocide.Antichrist
 artist: Revenge
 categories:
 - CD
-date: '2025-01-28T06:38:14'
+date: '2025-01-29T06:36:43'
 draft: false
 images:
 - /images/covers/revenge-triumph.genocide.antichrist.jpg
@@ -15,4 +15,4 @@ title: Revenge - Triumph.Genocide.Antichrist
 
 ## CD
 * Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/revenge-triumph-genocide-antichrist-cd/) for $13.00
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/revenge-triumph-genocide-antichrist-cd) for $15.00 :: Digipak 2020
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/revenge-triumph-genocide-antichrist-cd) for $15.00 :: Jewel Case 2020
