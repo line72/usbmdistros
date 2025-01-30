@@ -4,7 +4,7 @@ album: Unbound
 artist: Sargeist
 categories:
 - Vinyl
-date: '2024-12-05T06:24:31'
+date: '2025-01-30T06:23:49'
 draft: false
 images:
 - /images/covers/sargeist-unbound.jpg
@@ -14,4 +14,4 @@ title: Sargeist - Unbound
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=55146&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=59784&sort=pd.name&order=ASC) for $25.00

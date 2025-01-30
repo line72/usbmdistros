@@ -4,7 +4,7 @@ album: Arvor Mysteri
 artist: Ynkleudherhenavogyon
 categories:
 - Vinyl
-date: '2024-12-05T06:24:49'
+date: '2025-01-30T06:24:09'
 draft: false
 images:
 - /images/covers/ynkleudherhenavogyon-arvor_mysteri.jpg
@@ -14,4 +14,4 @@ title: Ynkleudherhenavogyon - Arvor Mysteri
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=53564&sort=pd.name&order=ASC) for $27.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=59814&sort=pd.name&order=ASC) for $27.00

@@ -1,10 +1,10 @@
 ---
-actualPrice: $23.99 - 30.00
+actualPrice: $23.99
 album: Burning Shadows In The Southern Night
 artist: Necrofier
 categories:
 - Vinyl
-date: '2025-01-25T06:37:56'
+date: '2024-07-09T14:02:18'
 draft: false
 images:
 - /images/covers/necrofier-burning_shadows_in_the_southern_night.png
@@ -15,4 +15,3 @@ title: Necrofier - Burning Shadows In The Southern Night
 
 ## Vinyl
 * Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/necrofier-burning-shadows-in-the-southern-night-gold-ltd-to-250-colored-gatefold-vinyl) for $23.99 :: gold ltd to 250 - colored gatefold vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/necrofier-burning-shadows-in-the-southern-night-lp) for $30.00 :: Color 2023 press vinyl

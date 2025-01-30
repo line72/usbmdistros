@@ -1,11 +1,10 @@
 ---
-actualPrice: $12.00 - 25.00
+actualPrice: $12.00
 album: The Day of Wrath
 artist: Bulldozer
 categories:
-- Vinyl
 - CD
-date: '2025-01-27T06:30:56'
+date: '2024-12-05T06:25:13'
 draft: false
 images:
 - /images/covers/bulldozer-the_day_of_wrath.jpg
@@ -14,7 +13,5 @@ thumbnailImage: /images/covers/bulldozer-the_day_of_wrath-thumb.jpg
 title: Bulldozer - The Day of Wrath
 ---
 
-## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=59659&sort=pd.name&order=ASC) for $25.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=55607&sort=pd.name&order=ASC) for $12.00
