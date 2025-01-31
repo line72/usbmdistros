@@ -1,11 +1,10 @@
 ---
-actualPrice: $12.00 - 25.00
+actualPrice: $25.00
 album: Catacomb Cult
 artist: Baxaxaxa
 categories:
 - Vinyl
-- CD
-date: '2025-01-06T06:21:16'
+date: '2021-08-09T05:00:09'
 draft: false
 images:
 - /images/covers/baxaxaxa-catacomb_cult.jpg
@@ -16,6 +15,3 @@ title: Baxaxaxa - Catacomb Cult
 
 ## Vinyl
 * Purchase from [Sto'Vo'Kor Records](https://stovokor-records.com/products/baxaxaxa-catacomb-cult) for $25.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=59258&sort=pd.name&order=ASC) for $25.00
-## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=54860&sort=pd.name&order=ASC) for $12.00

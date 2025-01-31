@@ -4,7 +4,7 @@ album: Opus Nocturne
 artist: Marduk
 categories:
 - Vinyl
-date: '2025-01-25T06:24:04'
+date: '2023-09-20T05:00:50'
 draft: false
 images:
 - /images/covers/marduk-opus_nocturne.jpg
@@ -16,4 +16,3 @@ title: Marduk - Opus Nocturne
 ## Vinyl
 * Purchase from [Sto'Vo'Kor Records](https://stovokor-records.com/products/marduk-opus-nocturne) for $26.00
 * Purchase from [Sto'Vo'Kor Records](https://stovokor-records.com/products/marduk-opus-nocturne-2022-black) for $20.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=59642&sort=pd.name&order=ASC) for $25.00
