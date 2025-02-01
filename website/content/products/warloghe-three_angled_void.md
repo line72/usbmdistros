@@ -1,10 +1,11 @@
 ---
-actualPrice: $25.00
+actualPrice: $15.00 - 25.00
 album: Three Angled Void
 artist: Warloghe
 categories:
 - Vinyl
-date: '2024-07-09T00:40:06'
+- CD
+date: '2024-12-05T06:26:13'
 draft: false
 images:
 - /images/covers/warloghe-three_angled_void.jpg
@@ -15,3 +16,6 @@ title: Warloghe - Three Angled Void
 
 ## Vinyl
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/warloghe-three-angled-void-12-lp) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=50347&sort=pd.name&order=ASC) for $25.00
+## CD
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=50346&sort=pd.name&order=ASC) for $15.00

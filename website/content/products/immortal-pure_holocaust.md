@@ -21,4 +21,5 @@ title: Immortal - Pure Holocaust
 * Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/immortal-pure-holocaust-vinyl-lp-color-gatefold) for $30.00 :: (color, gatefold)
 * Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/immortal-pure-holocaust-black-clear-vinyl-lp-gatefold) for $31.99 :: black clear vinyl lp - gatefold
 ## CD
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=57186&sort=pd.name&order=ASC) for $15.00
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/immortal-pure-holocaust-cd) for $13.00 :: Jewel Case 2023
