@@ -1,10 +1,10 @@
 ---
-actualPrice: $47.00
+actualPrice: $43.99
 album: Bellum II
 artist: Aquilus
 categories:
 - Vinyl
-date: '2024-07-11T05:40:48'
+date: '2025-02-02T06:44:59'
 draft: false
 images:
 - /images/covers/aquilus-bellum_ii.jpg
@@ -14,4 +14,4 @@ title: Aquilus - Bellum II
 ---
 
 ## Vinyl
-* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/aquilus-bellum-ii-2lp-brown-yellow-galaxy-vinyl-dlp) for $47.00 :: 2lp brown/yellow galaxy vinyl dlp
+* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/aquilus-bellum-ii-2lp-brown-yellow-galaxy-vinyl-dlp-1) for $43.99 :: 2lp brown/yellow galaxy vinyl dlp

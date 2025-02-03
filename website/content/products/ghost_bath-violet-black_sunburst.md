@@ -1,10 +1,10 @@
 ---
-actualPrice: $31.99
+actualPrice: $29.99
 album: Violet/Black Sunburst
 artist: GHOST BATH
 categories:
 - Vinyl
-date: '2024-07-09T14:02:05'
+date: '2025-02-02T06:45:00'
 draft: false
 images:
 - /images/covers/ghost_bath-violet-black_sunburst.png
@@ -14,4 +14,4 @@ title: GHOST BATH - Violet/Black Sunburst
 ---
 
 ## Vinyl
-* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/ghost-bath-self-loather-violet-black-sunburst-eu-edition-vinyl-lp) for $31.99 :: violet/black sunburst eu edition vinyl lp
+* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/ghost-bath-self-loather-violet-black-sunburst-eu-edition-vinyl-lp-1) for $29.99 :: violet/black sunburst eu edition vinyl lp

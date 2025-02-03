@@ -1,10 +1,11 @@
 ---
-actualPrice: $15.00
+actualPrice: $15.00 - 32.99
 album: Sacred Sound Of Solitude
 artist: Bloodbark
 categories:
+- Vinyl
 - CD
-date: '2025-01-04T06:45:58'
+date: '2025-02-02T06:44:59'
 draft: false
 images:
 - /images/covers/bloodbark-sacred_sound_of_solitude.jpg
@@ -13,5 +14,7 @@ thumbnailImage: /images/covers/bloodbark-sacred_sound_of_solitude-thumb.jpg
 title: Bloodbark - Sacred Sound Of Solitude
 ---
 
+## Vinyl
+* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/bloodbark-sacred-sound-of-solitude-blue-white-galaxy-vinyl-lp) for $32.99 :: blue/white galaxy vinyl lp
 ## CD
 * Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/bloodbark-sacred-sound-of-solitude-cd-digipak-lim999) for $15.00 :: (digipak, lim.999) *preorder*

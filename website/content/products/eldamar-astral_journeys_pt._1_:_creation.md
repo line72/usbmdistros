@@ -4,7 +4,7 @@ album: 'Astral Journeys Pt. 1 : Creation'
 artist: Eldamar
 categories:
 - Vinyl
-date: '2024-11-15T06:44:08'
+date: '2025-02-02T06:44:59'
 draft: false
 images:
 - /images/covers/eldamar-astral_journeys_pt._1_:_creation.jpg
@@ -14,4 +14,4 @@ title: 'Eldamar - Astral Journeys Pt. 1 : Creation'
 ---
 
 ## Vinyl
-* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/eldamar-astral-journeys-pt-1-creation-blue-black-galaxy-vinyl-lp) for $32.99 :: . 1 : creation - blue/black galaxy vinyl lp
+* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/eldamar-astral-journeys-pt-1-creation-blue-black-galaxy-vinyl-lp-1) for $32.99 :: . 1 : creation - blue/black galaxy vinyl lp
