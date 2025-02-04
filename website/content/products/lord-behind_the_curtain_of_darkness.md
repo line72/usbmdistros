@@ -4,7 +4,7 @@ album: Behind The Curtain Of Darkness
 artist: Lord
 categories:
 - Vinyl
-date: '2024-10-06T05:02:26'
+date: '2025-02-04T06:02:36'
 draft: false
 images:
 - /images/covers/lord-behind_the_curtain_of_darkness.jpg

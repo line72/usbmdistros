@@ -1,12 +1,12 @@
 ---
-actualPrice: $10.00 - 32.00
+actualPrice: $10.00 - 45.00
 album: Death Awakens
 artist: Mephorash
 categories:
 - Vinyl
 - Cassette
 - CD
-date: '2024-12-05T06:26:37'
+date: '2025-02-04T06:40:22'
 draft: false
 images:
 - /images/covers/mephorash-death_awakens.jpg
@@ -16,7 +16,7 @@ title: Mephorash - Death Awakens
 ---
 
 ## Vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/mephorash-death-awakens) for $32.00 :: Red 1st press vinyl
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/mephorash-death-awakens) for $45.00 :: Red 1st press vinyl
 ## Cassette
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=18461&sort=pd.name&order=ASC) for $10.00
 ## CD

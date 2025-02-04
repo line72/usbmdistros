@@ -1,10 +1,10 @@
 ---
-actualPrice: $29.00
+actualPrice: $32.00
 album: Condemnation
 artist: Antaeus
 categories:
 - Vinyl
-date: '2023-08-24T17:04:35'
+date: '2025-02-04T06:39:37'
 draft: false
 images:
 - /images/covers/antaeus-condemnation.jpg
@@ -14,4 +14,4 @@ title: Antaeus - Condemnation
 ---
 
 ## Vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/antaeus-condemnation) for $29.00 :: Black 2017 press vinyl
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/antaeus-condemnation) for $32.00 :: Black 2017 press vinyl

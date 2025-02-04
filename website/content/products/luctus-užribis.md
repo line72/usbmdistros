@@ -1,10 +1,10 @@
 ---
-actualPrice: $32.00
+actualPrice: $35.00
 album: "U\u017Eribis"
 artist: Luctus
 categories:
 - Vinyl
-date: '2021-07-11T20:52:16'
+date: '2025-02-04T06:39:02'
 draft: false
 images:
 - "/images/covers/luctus-u\u017Eribis.jpg"
@@ -14,4 +14,4 @@ title: "Luctus - U\u017Eribis"
 ---
 
 ## Vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/luctus-uzribis) for $32.00 :: Black 1st press vinyl
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/luctus-uzribis) for $35.00 :: Black 1st press vinyl

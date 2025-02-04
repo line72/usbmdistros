@@ -1,10 +1,10 @@
 ---
-actualPrice: $23.00
+actualPrice: $27.00
 album: Con La Unas Clavadas
 artist: Pvrgatorii
 categories:
 - Vinyl
-date: '2021-07-27T05:09:15'
+date: '2025-02-04T06:40:17'
 draft: false
 images:
 - /images/covers/pvrgatorii-con_la_unas_clavadas.jpg
@@ -14,4 +14,4 @@ title: Pvrgatorii - Con La Unas Clavadas
 ---
 
 ## Vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/pvrgatori-con-la-unas-clavadas-12) for $23.00 :: Black 1st press vinyl
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/pvrgatori-con-la-unas-clavadas-12) for $27.00 :: Black 1st press vinyl

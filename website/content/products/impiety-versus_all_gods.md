@@ -1,10 +1,10 @@
 ---
-actualPrice: $32.00
+actualPrice: $35.00
 album: Versus All Gods
 artist: Impiety
 categories:
 - Vinyl
-date: '2021-07-11T20:52:16'
+date: '2025-02-04T06:40:19'
 draft: false
 images:
 - /images/covers/impiety-versus_all_gods.jpg
@@ -14,4 +14,4 @@ title: Impiety - Versus All Gods
 ---
 
 ## Vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/impiety-vs-all-gods) for $32.00 :: Red Galaxy 1st press vinyl
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/impiety-vs-all-gods) for $35.00 :: Red Galaxy 1st press vinyl
