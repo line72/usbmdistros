@@ -4,7 +4,7 @@ album: Sided, White Or Sky
 artist: Grimdor
 categories:
 - Vinyl
-date: '2025-02-04T06:48:29'
+date: '2025-02-06T06:47:08'
 draft: false
 images:
 - /images/covers/grimdor-sided,_white_or_sky.jpg
@@ -14,4 +14,4 @@ title: Grimdor - Sided, White Or Sky
 ---
 
 ## Vinyl
-* Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/grimdor-tharkun-t-shirt-white-or-red) for $24.95 :: 2-sided, white or sky blue) *flat ship rate*
+* Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/grimdor-tharkun-t-shirt-white-or-red) for $24.95 :: 2-sided, white or sky blue) *worldwide*

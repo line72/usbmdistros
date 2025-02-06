@@ -1,5 +1,5 @@
 ---
-actualPrice: $13.00 - 15.00
+actualPrice: $15.00
 album: Victory.Intolerance.Mastery
 artist: Revenge
 categories:
@@ -14,5 +14,4 @@ title: Revenge - Victory.Intolerance.Mastery
 ---
 
 ## CD
-* Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/revenge-victory-intolerance-mastery-cd/) for $13.00
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/revenge-victory-intolerance-mastery-cd) for $15.00 :: Digipak 2025

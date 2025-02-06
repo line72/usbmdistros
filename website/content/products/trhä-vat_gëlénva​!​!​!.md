@@ -4,7 +4,7 @@ album: "Vat g\xEBl\xE9nva\u200B!\u200B!\u200B!"
 artist: "Trh\xE4"
 categories:
 - Vinyl
-date: '2024-12-05T06:24:42'
+date: '2025-02-06T06:24:21'
 draft: false
 images:
 - "/images/covers/trh\xE4-vat_g\xEBl\xE9nva\u200B!\u200B!\u200B!.jpg"
@@ -14,4 +14,4 @@ title: "Trh\xE4 - Vat g\xEBl\xE9nva\u200B!\u200B!\u200B!"
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=50388&sort=pd.name&order=ASC) for $40.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=59862&sort=pd.name&order=ASC) for $40.00
