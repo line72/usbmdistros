@@ -1,10 +1,9 @@
 ---
-actualPrice: $18.00 - 50.00
+actualPrice: $50.00
 album: "B\xE9nis Les T\xE9n\xE8bres, \xD4 Mon \xC2me\u2026"
 artist: Winter Funeral
 categories:
 - Vinyl
-- CD
 date: '2025-02-01T06:02:18'
 draft: false
 images:
@@ -18,5 +17,3 @@ title: "Winter Funeral - B\xE9nis Les T\xE9n\xE8bres, \xD4 Mon \xC2me\u2026"
 
 ## Vinyl
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/winter-funeral-benis-les-tenebres-o-mon-ame-2xlp) for $50.00
-## CD
-* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/winter-funeral-benis-les-tenebres-o-mon-ame-cd) for $18.00 :: cd

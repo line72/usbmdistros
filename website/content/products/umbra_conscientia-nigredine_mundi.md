@@ -5,7 +5,7 @@ artist: Umbra Conscientia
 categories:
 - Vinyl
 - Cassette
-date: '2024-12-05T06:26:50'
+date: '2025-02-07T06:38:50'
 draft: false
 images:
 - /images/covers/umbra_conscientia-nigredine_mundi.jpg
@@ -15,7 +15,7 @@ title: Umbra Conscientia - Nigredine Mundi
 ---
 
 ## Vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/umbra-conscientia-nigredine-mundi-lp) for $29.00 :: Black 1st press vinyl
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/umbra-conscientia-nigredine-mundi-lp) for $30.00 :: Black 1st press vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/umbra-conscientia-nigredine-mundi-lp) for $35.00 :: Marbled 1st press vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=57728&sort=pd.name&order=ASC) for $28.00
 ## Cassette

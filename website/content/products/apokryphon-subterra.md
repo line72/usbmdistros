@@ -1,10 +1,10 @@
 ---
-actualPrice: $21.00
+actualPrice: $20.00
 album: Subterra
 artist: Apokryphon
 categories:
 - Vinyl
-date: '2022-02-08T06:12:32'
+date: '2025-02-07T06:38:55'
 draft: false
 images:
 - /images/covers/apokryphon-subterra.png
@@ -14,4 +14,4 @@ title: Apokryphon - Subterra
 ---
 
 ## Vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/apokryphon-subterra-2xlp) for $21.00 :: Gold w/ Black Smoke 2020 press vinyl
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/apokryphon-subterra-2xlp) for $20.00 :: Gold w/ Black Smoke 2020 press vinyl

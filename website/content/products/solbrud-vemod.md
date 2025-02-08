@@ -1,10 +1,10 @@
 ---
-actualPrice: $7.00
+actualPrice: $10.00
 album: Vemod
 artist: Solbrud
 categories:
 - CD
-date: '2023-03-07T14:02:25'
+date: '2025-02-07T06:38:48'
 draft: false
 images:
 - /images/covers/solbrud-vemod.jpg
@@ -14,4 +14,4 @@ title: Solbrud - Vemod
 ---
 
 ## CD
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/solbrud-vemod-cd) for $7.00 :: CD 2017
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/solbrud-vemod-cd) for $10.00 :: CD 2017

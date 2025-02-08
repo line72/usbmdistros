@@ -1,10 +1,10 @@
 ---
-actualPrice: $11.00
+actualPrice: $12.00
 album: Kold
 artist: Kold
 categories:
 - Cassette
-date: '2024-04-02T05:23:48'
+date: '2025-02-07T06:38:54'
 draft: false
 images:
 - /images/covers/kold-kold.jpg
@@ -14,4 +14,4 @@ title: Kold - Kold
 ---
 
 ## Cassette
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/kold-s-t-cassette-1) for $11.00 :: Cassette Tape 1st press
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/kold-s-t-cassette-1) for $12.00 :: Cassette Tape 1st press

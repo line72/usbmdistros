@@ -1,10 +1,10 @@
 ---
-actualPrice: $7.00
+actualPrice: $10.00
 album: Apocryphe
 artist: Loth
 categories:
 - CD
-date: '2023-03-07T14:02:25'
+date: '2025-02-07T06:38:48'
 draft: false
 images:
 - /images/covers/loth-apocryphe.png
@@ -14,4 +14,4 @@ title: Loth - Apocryphe
 ---
 
 ## CD
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/loth-apocryphe-cd) for $7.00 :: CD 2017
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/loth-apocryphe-cd) for $10.00 :: CD 2017

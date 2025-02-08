@@ -1,10 +1,10 @@
 ---
-actualPrice: $15.00
+actualPrice: $17.00
 album: The Obsidian Plains
 artist: Wolvhammer
 categories:
 - Vinyl
-date: '2024-07-06T05:23:51'
+date: '2025-02-07T06:38:53'
 draft: false
 images:
 - /images/covers/wolvhammer-the_obsidian_plains.jpg
@@ -14,5 +14,4 @@ title: Wolvhammer - The Obsidian Plains
 ---
 
 ## Vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/wolvhammer-the-obsidian-plains-lp) for $15.00 :: Black 1st press vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/used-wolvhammer-the-obsidian-plains-lp) for $15.00 :: Black 2012 press vinyl
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/wolvhammer-the-obsidian-plains-lp) for $17.00 :: Black 1st press vinyl

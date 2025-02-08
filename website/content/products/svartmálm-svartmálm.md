@@ -1,10 +1,10 @@
 ---
-actualPrice: $7.00
+actualPrice: $10.00
 album: "Svartm\xE1lm"
 artist: "Svartm\xE1lm"
 categories:
 - CD
-date: '2023-03-07T14:02:25'
+date: '2025-02-07T06:38:48'
 draft: false
 images:
 - "/images/covers/svartm\xE1lm-svartm\xE1lm.jpg"
@@ -14,4 +14,4 @@ title: "Svartm\xE1lm - Svartm\xE1lm"
 ---
 
 ## CD
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/svartmalm-svartmalm-cd) for $7.00 :: CD 2018
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/svartmalm-svartmalm-cd) for $10.00 :: CD 2018

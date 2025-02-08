@@ -1,10 +1,10 @@
 ---
-actualPrice: $29.00
+actualPrice: $30.00
 album: Tav
 artist: Tav
 categories:
 - Vinyl
-date: '2021-11-03T05:11:01'
+date: '2025-02-07T06:38:59'
 draft: false
 images:
 - /images/covers/tav-tav.jpg
@@ -14,4 +14,4 @@ title: Tav - Tav
 ---
 
 ## Vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/tav-tav-2xlp) for $29.00 :: Black 1st press vinyl
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/tav-tav-2xlp) for $30.00 :: Black 1st press vinyl

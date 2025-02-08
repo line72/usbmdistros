@@ -6,7 +6,7 @@ categories:
 - Vinyl
 - Cassette
 - CD
-date: '2025-02-04T06:40:16'
+date: '2025-02-07T06:38:57'
 draft: false
 images:
 - /images/covers/aristarchos-aristarchos.jpg
@@ -18,6 +18,6 @@ title: Aristarchos - Aristarchos
 ## Vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/aristarchos-aristarchos-lp) for $24.00 :: Black 1st press vinyl
 ## Cassette
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/aristarchos-s-t-cassette-1) for $11.00 :: Cassette Tape 1st press
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/aristarchos-s-t-cassette-1) for $12.00 :: Cassette Tape 1st press
 ## CD
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/aristarchos-aristarchos-cd) for $10.00 :: CD 2022
