@@ -1,10 +1,10 @@
 ---
-actualPrice: $26.00
+actualPrice: $26.00 - 30.00
 album: Embracing Desolation & Hate
 artist: Khaos Aura
 categories:
 - Vinyl
-date: '2025-01-31T06:02:19'
+date: '2025-02-09T06:23:40'
 draft: false
 images:
 - /images/covers/khaos_aura-embracing_desolation_&_hate.jpg
@@ -15,3 +15,4 @@ title: Khaos Aura - Embracing Desolation & Hate
 
 ## Vinyl
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/khaos-aura-embracing-desolation-hate-12-lp) for $26.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=59913&sort=pd.name&order=ASC) for $30.00

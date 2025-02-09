@@ -1,10 +1,10 @@
 ---
-actualPrice: $68.00
+actualPrice: $85.00
 album: Curses and Oaths
 artist: Black Cilice
 categories:
 - Vinyl
-date: '2024-10-11T05:25:19'
+date: '2025-02-09T06:23:11'
 draft: false
 images:
 - /images/covers/black_cilice-curses_and_oaths.png
@@ -14,4 +14,4 @@ title: Black Cilice - Curses and Oaths
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=56632&sort=pd.name&order=ASC) for $68.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=59908&sort=pd.name&order=ASC) for $85.00
