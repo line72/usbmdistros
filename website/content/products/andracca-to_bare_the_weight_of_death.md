@@ -5,7 +5,8 @@ artist: Andracca
 categories:
 - Vinyl
 - Cassette
-date: '2024-07-06T05:22:40'
+- CD
+date: '2025-02-11T06:37:42'
 draft: false
 images:
 - /images/covers/andracca-to_bare_the_weight_of_death.jpg
@@ -18,3 +19,5 @@ title: Andracca - To Bare the Weight of Death
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/andracca-to-bare-the-weight-of-death-lp) for $25.00 :: Black 2024 press vinyl
 ## Cassette
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/andracca-to-bare-the-weight-of-death-cassette) for $12.00 :: Cassette 2024
+## CD
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/andracca-to-bare-the-weight-of-death-cd) for $14.00 :: Digipak 2024

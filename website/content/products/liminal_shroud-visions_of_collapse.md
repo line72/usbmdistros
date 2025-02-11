@@ -16,5 +16,6 @@ title: Liminal Shroud - Visions Of Collapse
 
 ## Vinyl
 * Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/liminal-shroud-visions-of-collapse) for $31.99 :: gatefold merge vinyl
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/liminal-shroud-visions-of-collapse-lp) for $27.00 :: Color 2024 press vinyl
 ## CD
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/liminal-shroud-visions-of-collapse-cd) for $13.00 :: CD 2024

@@ -1,5 +1,5 @@
 ---
-actualPrice: $38.00 - 45.00
+actualPrice: $45.00
 album: "H\xE4xeri"
 artist: Myling
 categories:
@@ -14,5 +14,4 @@ title: "Myling - H\xE4xeri"
 ---
 
 ## Vinyl
-* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/myling-haxeri-2xlp) for $38.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=53697&sort=pd.name&order=ASC) for $45.00
