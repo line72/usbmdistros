@@ -1,10 +1,9 @@
 ---
-actualPrice: $15.00 - 30.00
+actualPrice: $30.00
 album: Bewitched Under Hollow Nightskies
 artist: "N\xE4chtlich"
 categories:
 - Vinyl
-- CD
 date: '2025-02-11T06:24:27'
 draft: false
 images:
@@ -16,5 +15,3 @@ title: "N\xE4chtlich - Bewitched Under Hollow Nightskies"
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=59961&sort=pd.name&order=ASC) for $30.00
-## CD
-* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/nachtlich-bewitched-under-hollow-nightskies-cd) for $15.00
