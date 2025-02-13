@@ -4,7 +4,7 @@ album: Satanic Black Devotion
 artist: Sargeist
 categories:
 - Vinyl
-date: '2025-01-30T06:23:48'
+date: '2025-02-13T06:24:01'
 draft: false
 images:
 - /images/covers/sargeist-satanic_black_devotion.jpg
@@ -14,4 +14,4 @@ title: Sargeist - Satanic Black Devotion
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=59787&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=60025&sort=pd.name&order=ASC) for $25.00

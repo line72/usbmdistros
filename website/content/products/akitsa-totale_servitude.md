@@ -4,7 +4,7 @@ album: Totale Servitude
 artist: Akitsa
 categories:
 - Vinyl
-date: '2024-12-05T06:23:31'
+date: '2025-02-13T06:23:05'
 draft: false
 images:
 - /images/covers/akitsa-totale_servitude.jpg
@@ -14,4 +14,4 @@ title: Akitsa - Totale Servitude
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=58113&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=60055&sort=pd.name&order=ASC) for $25.00

@@ -14,4 +14,5 @@ title: Frozen Graves - Seeding Will
 ---
 
 ## Vinyl
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/frozen-graves-seeding-will-12-lp) for $30.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=59841&sort=pd.name&order=ASC) for $30.00

@@ -5,7 +5,7 @@ artist: Beherit
 categories:
 - Vinyl
 - CD
-date: '2025-02-04T06:25:45'
+date: '2025-02-13T06:23:09'
 draft: false
 images:
 - /images/covers/beherit-live_in_praha_cz.jpg
@@ -15,6 +15,6 @@ title: Beherit - Live In Praha Cz
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=59852&sort=pd.name&order=ASC) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=60016&sort=pd.name&order=ASC) for $30.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=59851&sort=pd.name&order=ASC) for $15.00
