@@ -4,7 +4,7 @@ album: Fallen From the Astral Temple
 artist: Celestial Sword
 categories:
 - Vinyl
-date: '2025-01-05T06:24:02'
+date: '2025-02-17T06:30:57'
 draft: false
 images:
 - /images/covers/celestial_sword-fallen_from_the_astral_temple.png
@@ -15,4 +15,4 @@ title: Celestial Sword - Fallen From the Astral Temple
 
 ## Vinyl
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/celestial-sword-fallen-from-the-astral-temple-12-lp) for $27.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=59196&sort=pd.name&order=ASC) for $27.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=60256&sort=pd.name&order=ASC) for $27.00

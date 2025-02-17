@@ -4,7 +4,7 @@ album: The Worst
 artist: Sarcofago
 categories:
 - CD
-date: '2024-12-05T06:25:57'
+date: '2025-02-17T06:34:01'
 draft: false
 images:
 - /images/covers/sarcofago-the_worst.jpg
@@ -14,4 +14,4 @@ title: Sarcofago - The Worst
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=58231&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=60252&sort=pd.name&order=ASC) for $20.00

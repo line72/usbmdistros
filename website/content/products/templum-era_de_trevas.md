@@ -4,7 +4,7 @@ album: Era de Trevas
 artist: Templum
 categories:
 - Vinyl
-date: '2025-02-14T06:25:49'
+date: '2025-02-17T06:32:15'
 draft: false
 images:
 - /images/covers/templum-era_de_trevas.jpg
@@ -14,4 +14,4 @@ title: Templum - Era de Trevas
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=60112&sort=pd.name&order=ASC) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=60285&sort=pd.name&order=ASC) for $30.00

@@ -4,7 +4,7 @@ album: The Day of Wrath
 artist: Bulldozer
 categories:
 - CD
-date: '2024-12-05T06:25:13'
+date: '2025-02-17T06:33:05'
 draft: false
 images:
 - /images/covers/bulldozer-the_day_of_wrath.jpg
@@ -14,4 +14,4 @@ title: Bulldozer - The Day of Wrath
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=55607&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=60260&sort=pd.name&order=ASC) for $12.00

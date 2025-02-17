@@ -4,7 +4,7 @@ album: "Nuit En \xC9difice"
 artist: Drakonhail
 categories:
 - Cassette
-date: '2024-12-05T06:26:24'
+date: '2025-02-17T06:34:36'
 draft: false
 images:
 - "/images/covers/drakonhail-nuit_en_\xE9difice.jpg"
@@ -14,4 +14,4 @@ title: "Drakonhail - Nuit En \xC9difice"
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=57326&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=60195&sort=pd.name&order=ASC) for $15.00

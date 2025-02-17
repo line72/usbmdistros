@@ -4,7 +4,7 @@ album: Scorn Defeat
 artist: Sigh
 categories:
 - Vinyl
-date: '2025-02-13T06:24:05'
+date: '2025-02-17T06:32:09'
 draft: false
 images:
 - /images/covers/sigh-scorn_defeat.jpg
@@ -14,4 +14,4 @@ title: Sigh - Scorn Defeat
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=60021&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=60213&sort=pd.name&order=ASC) for $25.00
