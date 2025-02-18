@@ -4,7 +4,7 @@ album: Blood and Extinction
 artist: Caveman Cult
 categories:
 - Vinyl
-date: '2024-12-05T06:23:43'
+date: '2025-02-18T06:24:59'
 draft: false
 images:
 - /images/covers/caveman_cult-blood_and_extinction.jpg
@@ -14,4 +14,4 @@ title: Caveman Cult - Blood and Extinction
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=54748&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=60315&sort=pd.name&order=ASC) for $25.00
