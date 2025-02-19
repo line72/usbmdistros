@@ -4,7 +4,7 @@ album: "Din\xE1micas Espirituales"
 artist: Black Grail
 categories:
 - Vinyl
-date: '2025-01-06T06:21:18'
+date: '2025-02-19T06:23:07'
 draft: false
 images:
 - "/images/covers/black_grail-din\xE1micas_espirituales.jpg"
@@ -14,4 +14,4 @@ title: "Black Grail - Din\xE1micas Espirituales"
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=59241&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=60338&sort=pd.name&order=ASC) for $25.00

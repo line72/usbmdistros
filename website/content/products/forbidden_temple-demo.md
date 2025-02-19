@@ -4,7 +4,7 @@ album: Demo
 artist: Forbidden Temple
 categories:
 - Cassette
-date: '2024-12-05T06:26:27'
+date: '2025-02-19T06:25:57'
 draft: false
 images:
 - /images/covers/forbidden_temple-demo.png
@@ -14,4 +14,4 @@ title: Forbidden Temple - Demo
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=57359&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=60332&sort=pd.name&order=ASC) for $15.00
