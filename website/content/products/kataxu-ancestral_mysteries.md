@@ -5,7 +5,7 @@ artist: Kataxu
 categories:
 - Vinyl
 - CD
-date: '2024-12-05T06:25:39'
+date: '2025-02-21T06:24:53'
 draft: false
 images:
 - /images/covers/kataxu-ancestral_mysteries.jpg
@@ -15,6 +15,6 @@ title: Kataxu - Ancestral Mysteries
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=58445&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=60370&sort=pd.name&order=ASC) for $25.00
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=58441&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=60369&sort=pd.name&order=ASC) for $12.00

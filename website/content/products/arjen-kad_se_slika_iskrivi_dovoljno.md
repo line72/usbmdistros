@@ -4,7 +4,7 @@ album: Kad Se Slika Iskrivi Dovoljno
 artist: Arjen
 categories:
 - Vinyl
-date: '2025-01-24T06:23:29'
+date: '2025-02-21T06:22:33'
 draft: false
 images:
 - /images/covers/arjen-kad_se_slika_iskrivi_dovoljno.jpg
@@ -15,4 +15,4 @@ title: Arjen - Kad Se Slika Iskrivi Dovoljno
 
 ## Vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/arjen-kad-se-slika-iskrivi-dovoljno-lp) for $23.00 :: Black 1st press vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=59623&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=60388&sort=pd.name&order=ASC) for $25.00
