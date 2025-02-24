@@ -1,10 +1,10 @@
 ---
-actualPrice: $30.00
+actualPrice: $19.50
 album: "\u90AA\u60AA\u3092\u8B83\u3048\u3088(Rites Of Evil)"
 artist: Evil
 categories:
 - Vinyl
-date: '2025-01-02T06:24:06'
+date: '2025-02-24T06:25:29'
 draft: false
 images:
 - "/images/covers/evil-\u90AA\u60AA\u3092\u8B83\u3048\u3088(rites_of_evil).jpg"
@@ -14,4 +14,4 @@ title: "Evil - \u90AA\u60AA\u3092\u8B83\u3048\u3088(Rites Of Evil)"
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=59082&sort=pd.name&order=ASC) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=59082&sort=pd.name&order=ASC) for $19.50

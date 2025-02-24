@@ -1,11 +1,11 @@
 ---
-actualPrice: $12.00 - 25.00
+actualPrice: $7.80 - 25.00
 album: Atavismo
 artist: Invunche
 categories:
 - Vinyl
 - Cassette
-date: '2025-02-19T06:23:34'
+date: '2025-02-24T06:28:40'
 draft: false
 images:
 - /images/covers/invunche-atavismo.jpg
@@ -15,6 +15,6 @@ title: Invunche - Atavismo
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=60346&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=60390&sort=pd.name&order=ASC) for $25.00
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=60182&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=60182&sort=pd.name&order=ASC) for $7.80

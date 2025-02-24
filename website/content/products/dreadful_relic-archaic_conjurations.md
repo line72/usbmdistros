@@ -1,10 +1,10 @@
 ---
-actualPrice: $25.00
+actualPrice: $16.25
 album: Archaic Conjurations
 artist: Dreadful Relic
 categories:
 - Vinyl
-date: '2024-12-05T06:23:50'
+date: '2025-02-24T06:25:26'
 draft: false
 images:
 - /images/covers/dreadful_relic-archaic_conjurations.jpg
@@ -14,4 +14,4 @@ title: Dreadful Relic - Archaic Conjurations
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=49255&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=49255&sort=pd.name&order=ASC) for $16.25

@@ -1,10 +1,10 @@
 ---
-actualPrice: $10.00
+actualPrice: $6.50
 album: Demo
 artist: Vengeance Sorcery
 categories:
 - Cassette
-date: '2024-12-05T06:26:52'
+date: '2025-02-24T06:29:04'
 draft: false
 images:
 - /images/covers/vengeance_sorcery-demo.png
@@ -14,6 +14,6 @@ title: Vengeance Sorcery - Demo
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=45016&sort=pd.name&order=ASC) for $10.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=45018&sort=pd.name&order=ASC) for $10.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=45019&sort=pd.name&order=ASC) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=45016&sort=pd.name&order=ASC) for $6.50
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=45018&sort=pd.name&order=ASC) for $6.50
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=45019&sort=pd.name&order=ASC) for $6.50

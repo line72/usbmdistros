@@ -1,10 +1,10 @@
 ---
-actualPrice: $10.00
+actualPrice: $6.50
 album: Winds of Hell
 artist: Funerary Pit
 categories:
 - Vinyl
-date: '2024-12-05T06:24:56'
+date: '2025-02-24T06:26:48'
 draft: false
 images:
 - /images/covers/funerary_pit-winds_of_hell.jpg
@@ -14,4 +14,4 @@ title: Funerary Pit - Winds of Hell
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=26190&sort=pd.name&order=ASC) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=26190&sort=pd.name&order=ASC) for $6.50

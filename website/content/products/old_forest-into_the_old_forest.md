@@ -1,10 +1,10 @@
 ---
-actualPrice: $25.00
+actualPrice: $16.25
 album: Into The Old Forest
 artist: Old Forest
 categories:
 - Vinyl
-date: '2024-12-05T06:24:23'
+date: '2025-02-24T06:26:07'
 draft: false
 images:
 - /images/covers/old_forest-into_the_old_forest.jpg
@@ -14,4 +14,4 @@ title: Old Forest - Into The Old Forest
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=54781&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=54781&sort=pd.name&order=ASC) for $16.25

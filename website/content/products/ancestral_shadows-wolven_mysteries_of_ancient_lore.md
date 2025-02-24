@@ -1,10 +1,10 @@
 ---
-actualPrice: $25.00 - 30.00
+actualPrice: $16.25 - 19.50
 album: Wolven Mysteries of Ancient Lore
 artist: Ancestral Shadows
 categories:
 - Vinyl
-date: '2024-12-05T06:23:34'
+date: '2025-02-24T06:25:03'
 draft: false
 images:
 - /images/covers/ancestral_shadows-wolven_mysteries_of_ancient_lore.jpg
@@ -14,5 +14,5 @@ title: Ancestral Shadows - Wolven Mysteries of Ancient Lore
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=43629&sort=pd.name&order=ASC) for $30.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=44372&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=43629&sort=pd.name&order=ASC) for $19.50
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=44372&sort=pd.name&order=ASC) for $16.25
