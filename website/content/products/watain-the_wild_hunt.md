@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00
+actualPrice: $9.60
 album: The Wild Hunt
 artist: Watain
 categories:
 - CD
-date: '2024-12-05T06:26:13'
+date: '2025-02-25T06:22:43'
 draft: false
 images:
 - /images/covers/watain-the_wild_hunt.jpg
@@ -14,4 +14,4 @@ title: Watain - The Wild Hunt
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=54596&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=54596&sort=pd.name&order=ASC) for $9.60

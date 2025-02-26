@@ -1,11 +1,11 @@
 ---
-actualPrice: $15.00 - 25.00
+actualPrice: $12.00 - 20.00
 album: The Seal of Belial
 artist: Lord Belial
 categories:
 - Vinyl
 - CD
-date: '2024-12-05T06:25:41'
+date: '2025-02-25T06:22:13'
 draft: false
 images:
 - /images/covers/lord_belial-the_seal_of_belial.jpg
@@ -15,6 +15,6 @@ title: Lord Belial - The Seal of Belial
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=49969&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=49969&sort=pd.name&order=ASC) for $20.00
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=28526&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=28526&sort=pd.name&order=ASC) for $12.00

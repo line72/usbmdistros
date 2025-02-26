@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00
+actualPrice: $9.60
 album: Skuggorna Kallar
 artist: Skogen
 categories:
 - CD
-date: '2024-12-05T06:26:00'
+date: '2025-02-25T06:22:30'
 draft: false
 images:
 - /images/covers/skogen-skuggorna_kallar.png
@@ -14,4 +14,4 @@ title: Skogen - Skuggorna Kallar
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=11686&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=11686&sort=pd.name&order=ASC) for $9.60

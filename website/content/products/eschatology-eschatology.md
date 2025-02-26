@@ -1,11 +1,11 @@
 ---
-actualPrice: $15.00 - 25.00
+actualPrice: $12.00 - 20.00
 album: Eschatology
 artist: Eschatology
 categories:
 - Vinyl
 - CD
-date: '2024-12-05T06:25:24'
+date: '2025-02-25T06:21:54'
 draft: false
 images:
 - /images/covers/eschatology-eschatology.jpg
@@ -15,6 +15,6 @@ title: Eschatology - Eschatology
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=31459&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=31459&sort=pd.name&order=ASC) for $20.00
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=28570&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=28570&sort=pd.name&order=ASC) for $12.00

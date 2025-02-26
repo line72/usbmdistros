@@ -1,11 +1,11 @@
 ---
-actualPrice: $15.00 - 27.00
+actualPrice: $12.00 - 21.60
 album: High Rising Times
 artist: Christian Cosentino
 categories:
 - Vinyl
 - Cassette
-date: '2025-01-05T06:24:04'
+date: '2025-02-25T06:22:51'
 draft: false
 images:
 - /images/covers/christian_cosentino-high_rising_times.jpg
@@ -15,6 +15,6 @@ title: Christian Cosentino - High Rising Times
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=59188&sort=pd.name&order=ASC) for $27.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=59188&sort=pd.name&order=ASC) for $21.60
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=54673&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=54673&sort=pd.name&order=ASC) for $12.00

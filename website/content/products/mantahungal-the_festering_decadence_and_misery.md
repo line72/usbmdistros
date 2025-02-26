@@ -1,10 +1,10 @@
 ---
-actualPrice: $27.00
+actualPrice: $21.60
 album: The Festering Decadence and Misery
 artist: Mantahungal
 categories:
 - Vinyl
-date: '2024-12-05T06:24:13'
+date: '2025-02-25T06:20:44'
 draft: false
 images:
 - /images/covers/mantahungal-the_festering_decadence_and_misery.jpg
@@ -14,4 +14,4 @@ title: Mantahungal - The Festering Decadence and Misery
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=57312&sort=pd.name&order=ASC) for $27.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=57312&sort=pd.name&order=ASC) for $21.60

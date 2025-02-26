@@ -1,10 +1,10 @@
 ---
-actualPrice: $20.00
+actualPrice: $16.00
 album: Demonian Abyssal Visions
 artist: Valaraukar
 categories:
 - Vinyl
-date: '2024-12-05T06:24:44'
+date: '2025-02-25T06:21:15'
 draft: false
 images:
 - /images/covers/valaraukar-demonian_abyssal_visions.jpg
@@ -14,4 +14,4 @@ title: Valaraukar - Demonian Abyssal Visions
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=10802&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=10802&sort=pd.name&order=ASC) for $16.00

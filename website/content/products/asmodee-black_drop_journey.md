@@ -1,10 +1,10 @@
 ---
-actualPrice: $5.00
+actualPrice: $4.00
 album: Black Drop Journey
 artist: Asmodee
 categories:
 - Vinyl
-date: '2024-12-05T06:24:52'
+date: '2025-02-25T06:21:22'
 draft: false
 images:
 - /images/covers/asmodee-black_drop_journey.jpg
@@ -14,4 +14,4 @@ title: Asmodee - Black Drop Journey
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=26561&sort=pd.name&order=ASC) for $5.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=26561&sort=pd.name&order=ASC) for $4.00

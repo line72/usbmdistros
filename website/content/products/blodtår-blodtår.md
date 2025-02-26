@@ -1,11 +1,11 @@
 ---
-actualPrice: $12.00 - 25.00
+actualPrice: $9.60 - 20.00
 album: "Blodt\xE5r"
 artist: "Blodt\xE5r"
 categories:
 - Vinyl
 - CD
-date: '2024-12-05T06:25:13'
+date: '2025-02-25T06:21:44'
 draft: false
 images:
 - "/images/covers/blodt\xE5r-blodt\xE5r.jpg"
@@ -15,6 +15,6 @@ title: "Blodt\xE5r - Blodt\xE5r"
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=21490&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=21490&sort=pd.name&order=ASC) for $20.00
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=20851&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=20851&sort=pd.name&order=ASC) for $9.60

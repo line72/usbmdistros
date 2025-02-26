@@ -1,10 +1,10 @@
 ---
-actualPrice: $50.00
+actualPrice: $40.00
 album: 4 X
 artist: Brulvahnatu
 categories:
 - Vinyl
-date: '2024-12-05T06:23:42'
+date: '2025-02-25T06:20:14'
 draft: false
 images:
 - /images/covers/brulvahnatu-4_x.jpg
@@ -14,4 +14,4 @@ title: Brulvahnatu - 4 X
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=54180&sort=pd.name&order=ASC) for $50.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=54180&sort=pd.name&order=ASC) for $40.00

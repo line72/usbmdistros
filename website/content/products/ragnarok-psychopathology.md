@@ -1,10 +1,10 @@
 ---
-actualPrice: $30.00
+actualPrice: $24.00
 album: Psychopathology
 artist: Ragnarok
 categories:
 - Vinyl
-date: '2024-12-05T06:24:27'
+date: '2025-02-25T06:20:58'
 draft: false
 images:
 - /images/covers/ragnarok-psychopathology.jpg
@@ -14,4 +14,4 @@ title: Ragnarok - Psychopathology
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=35858&sort=pd.name&order=ASC) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=35858&sort=pd.name&order=ASC) for $24.00

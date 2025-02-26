@@ -1,10 +1,10 @@
 ---
-actualPrice: $15.00
+actualPrice: $12.00
 album: Purpura
 artist: Purpura
 categories:
 - Cassette
-date: '2024-12-05T06:26:43'
+date: '2025-02-25T06:23:12'
 draft: false
 images:
 - /images/covers/purpura-purpura.png
@@ -14,4 +14,4 @@ title: Purpura - Purpura
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=53811&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=53811&sort=pd.name&order=ASC) for $12.00

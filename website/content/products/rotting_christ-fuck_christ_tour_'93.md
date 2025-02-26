@@ -1,11 +1,11 @@
 ---
-actualPrice: $15.00
+actualPrice: $12.00
 album: Fuck Christ Tour '93
 artist: Rotting Christ
 categories:
 - Cassette
 - CD
-date: '2024-12-05T06:26:44'
+date: '2025-02-25T06:23:13'
 draft: false
 images:
 - /images/covers/rotting_christ-fuck_christ_tour_'93.jpg
@@ -15,6 +15,6 @@ title: Rotting Christ - Fuck Christ Tour '93
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=57602&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=57602&sort=pd.name&order=ASC) for $12.00
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=57605&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=57605&sort=pd.name&order=ASC) for $12.00

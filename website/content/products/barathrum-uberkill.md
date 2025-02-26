@@ -1,10 +1,10 @@
 ---
-actualPrice: $27.00
+actualPrice: $21.60
 album: Uberkill
 artist: Barathrum
 categories:
 - Vinyl
-date: '2025-01-10T06:18:35'
+date: '2025-02-25T06:20:10'
 draft: false
 images:
 - /images/covers/barathrum-uberkill.jpg
@@ -14,4 +14,4 @@ title: Barathrum - Uberkill
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=59411&sort=pd.name&order=ASC) for $27.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=59411&sort=pd.name&order=ASC) for $21.60

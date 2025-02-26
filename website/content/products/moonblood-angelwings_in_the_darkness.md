@@ -1,10 +1,10 @@
 ---
-actualPrice: $30.00
+actualPrice: $24.00
 album: Angelwings in the Darkness
 artist: Moonblood
 categories:
 - Vinyl
-date: '2024-12-05T06:24:16'
+date: '2025-02-25T06:20:47'
 draft: false
 images:
 - /images/covers/moonblood-angelwings_in_the_darkness.jpg
@@ -14,4 +14,4 @@ title: Moonblood - Angelwings in the Darkness
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=57407&sort=pd.name&order=ASC) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=57407&sort=pd.name&order=ASC) for $24.00

@@ -1,10 +1,10 @@
 ---
-actualPrice: $13.00
+actualPrice: $10.40
 album: Witchcraft - Compendium Of Black Arts...
 artist: Spectral Whisper
 categories:
 - CD
-date: '2024-12-05T06:26:01'
+date: '2025-02-25T06:22:31'
 draft: false
 images:
 - /images/covers/spectral_whisper-witchcraft_-_compendium_of_black_arts....png
@@ -14,4 +14,4 @@ title: Spectral Whisper - Witchcraft - Compendium Of Black Arts...
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=55545&sort=pd.name&order=ASC) for $13.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=55545&sort=pd.name&order=ASC) for $10.40

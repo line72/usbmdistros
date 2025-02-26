@@ -1,10 +1,10 @@
 ---
-actualPrice: $8.00
+actualPrice: $6.40
 album: Divine Eternally
 artist: Eternal Throne
 categories:
 - CD
-date: '2024-12-05T06:25:24'
+date: '2025-02-25T06:21:54'
 draft: false
 images:
 - /images/covers/eternal_throne-divine_eternally.jpg
@@ -14,4 +14,4 @@ title: Eternal Throne - Divine Eternally
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=2052&sort=pd.name&order=ASC) for $8.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=2052&sort=pd.name&order=ASC) for $6.40

@@ -1,11 +1,11 @@
 ---
-actualPrice: $15.00 - 32.00
+actualPrice: $12.00 - 32.00
 album: Worst Case Scenario
 artist: Altarage
 categories:
 - Vinyl
 - CD
-date: '2024-12-05T06:25:08'
+date: '2025-02-25T06:21:39'
 draft: false
 images:
 - /images/covers/altarage-worst_case_scenario.png
@@ -15,7 +15,7 @@ title: Altarage - Worst Case Scenario
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=48183&sort=pd.name&order=ASC) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=48183&sort=pd.name&order=ASC) for $24.00
 * Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/altarage-worst-case-scenario-vinyl-lp) for $32.00 :: worst case scenario  - vinyl lp
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=43348&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=43348&sort=pd.name&order=ASC) for $12.00

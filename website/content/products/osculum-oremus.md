@@ -1,10 +1,10 @@
 ---
-actualPrice: $10.00
+actualPrice: $8.00
 album: Oremus
 artist: Osculum
 categories:
 - CD
-date: '2024-12-05T06:25:51'
+date: '2025-02-25T06:22:22'
 draft: false
 images:
 - /images/covers/osculum-oremus.jpg
@@ -14,4 +14,4 @@ title: Osculum - Oremus
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=4420&sort=pd.name&order=ASC) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=4420&sort=pd.name&order=ASC) for $8.00

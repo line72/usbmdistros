@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00
+actualPrice: $9.60
 album: Paradigm of Decay
 artist: Paroxysmal Descent
 categories:
 - CD
-date: '2024-12-05T06:25:52'
+date: '2025-02-25T06:22:22'
 draft: false
 images:
 - /images/covers/paroxysmal_descent-paradigm_of_decay.jpg
@@ -14,4 +14,4 @@ title: Paroxysmal Descent - Paradigm of Decay
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=51230&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=51230&sort=pd.name&order=ASC) for $9.60

@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00
+actualPrice: $9.60
 album: Mmxviii
 artist: Necroracle
 categories:
 - CD
-date: '2024-12-05T06:25:48'
+date: '2025-02-25T06:22:19'
 draft: false
 images:
 - /images/covers/necroracle-mmxviii.jpg
@@ -14,4 +14,4 @@ title: Necroracle - Mmxviii
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=52792&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=52792&sort=pd.name&order=ASC) for $9.60

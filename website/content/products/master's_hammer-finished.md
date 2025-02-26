@@ -1,10 +1,10 @@
 ---
-actualPrice: $30.00
+actualPrice: $24.00
 album: Finished
 artist: Master's Hammer
 categories:
 - Vinyl
-date: '2024-12-05T06:24:13'
+date: '2025-02-25T06:20:45'
 draft: false
 images:
 - /images/covers/master's_hammer-finished.jpg
@@ -14,5 +14,5 @@ title: Master's Hammer - Finished
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=51766&sort=pd.name&order=ASC) for $30.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=56058&sort=pd.name&order=ASC) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=51766&sort=pd.name&order=ASC) for $24.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=56058&sort=pd.name&order=ASC) for $24.00

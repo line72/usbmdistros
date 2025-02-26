@@ -1,10 +1,10 @@
 ---
-actualPrice: $15.00
+actualPrice: $12.00
 album: Infiltration. Downfall. Death
 artist: Revenge
 categories:
 - CD
-date: '2025-01-25T06:25:47'
+date: '2025-02-25T06:22:26'
 draft: false
 images:
 - /images/covers/revenge-infiltration._downfall._death.jpg
@@ -14,4 +14,4 @@ title: Revenge - Infiltration. Downfall. Death
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=59636&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=59636&sort=pd.name&order=ASC) for $12.00

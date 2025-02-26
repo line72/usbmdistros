@@ -1,10 +1,10 @@
 ---
-actualPrice: $10.00
+actualPrice: $8.00
 album: Spetalsk
 artist: Spetalsk
 categories:
 - CD
-date: '2024-12-05T06:26:01'
+date: '2025-02-25T06:22:31'
 draft: false
 images:
 - /images/covers/spetalsk-spetalsk.png
@@ -14,4 +14,4 @@ title: Spetalsk - Spetalsk
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=9270&sort=pd.name&order=ASC) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=9270&sort=pd.name&order=ASC) for $8.00

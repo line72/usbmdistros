@@ -1,10 +1,10 @@
 ---
-actualPrice: $7.00
+actualPrice: $5.60
 album: Vermolmd" Demo
 artist: Gevlerkt
 categories:
 - Cassette
-date: '2024-12-05T06:26:28'
+date: '2025-02-25T06:22:57'
 draft: false
 images:
 - /images/covers/gevlerkt-vermolmd"_demo.png
@@ -14,4 +14,4 @@ title: Gevlerkt - Vermolmd" Demo
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=11348&sort=pd.name&order=ASC) for $7.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=11348&sort=pd.name&order=ASC) for $5.60

@@ -1,10 +1,10 @@
 ---
-actualPrice: $15.00
+actualPrice: $12.00
 album: Disciples of Excremental Liturgies
 artist: "\u039C\u03BD\u03AE\u03BC\u03B1"
 categories:
 - CD
-date: '2024-12-05T06:26:15'
+date: '2025-02-25T06:22:45'
 draft: false
 images:
 - "/images/covers/\u03BC\u03BD\u03AE\u03BC\u03B1-disciples_of_excremental_liturgies.jpg"
@@ -14,4 +14,4 @@ title: "\u039C\u03BD\u03AE\u03BC\u03B1 - Disciples of Excremental Liturgies"
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=30533&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=30533&sort=pd.name&order=ASC) for $12.00

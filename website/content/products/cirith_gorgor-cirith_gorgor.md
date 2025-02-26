@@ -1,10 +1,10 @@
 ---
-actualPrice: $25.00
+actualPrice: $20.00
 album: Cirith Gorgor
 artist: Cirith Gorgor
 categories:
 - Vinyl
-date: '2024-12-05T06:23:45'
+date: '2025-02-25T06:20:17'
 draft: false
 images:
 - /images/covers/cirith_gorgor-cirith_gorgor.jpg
@@ -14,4 +14,4 @@ title: Cirith Gorgor - Cirith Gorgor
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=51980&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=51980&sort=pd.name&order=ASC) for $20.00

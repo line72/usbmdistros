@@ -1,10 +1,10 @@
 ---
-actualPrice: $27.00
+actualPrice: $21.60
 album: Shadows Of Old
 artist: Aeternus
 categories:
 - Vinyl
-date: '2024-12-05T06:23:30'
+date: '2025-02-25T06:20:06'
 draft: false
 images:
 - /images/covers/aeternus-shadows_of_old.jpg
@@ -14,4 +14,4 @@ title: Aeternus - Shadows Of Old
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=57107&sort=pd.name&order=ASC) for $27.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=57107&sort=pd.name&order=ASC) for $21.60

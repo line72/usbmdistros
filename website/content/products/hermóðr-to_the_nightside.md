@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00
+actualPrice: $9.60
 album: To the Nightside
 artist: "Herm\xF3\xF0r"
 categories:
 - CD
-date: '2024-12-05T06:25:34'
+date: '2025-02-25T06:22:03'
 draft: false
 images:
 - "/images/covers/herm\xF3\xF0r-to_the_nightside.jpg"
@@ -14,4 +14,4 @@ title: "Herm\xF3\xF0r - To the Nightside"
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=36880&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=36880&sort=pd.name&order=ASC) for $9.60

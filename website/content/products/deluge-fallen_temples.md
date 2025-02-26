@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00
+actualPrice: $9.60
 album: Fallen Temples
 artist: Deluge
 categories:
 - Cassette
-date: '2024-12-05T06:26:24'
+date: '2025-02-25T06:22:53'
 draft: false
 images:
 - /images/covers/deluge-fallen_temples.jpg
@@ -14,4 +14,4 @@ title: Deluge - Fallen Temples
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=54425&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=54425&sort=pd.name&order=ASC) for $9.60

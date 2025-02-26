@@ -1,10 +1,10 @@
 ---
-actualPrice: $10.00
+actualPrice: $8.00
 album: Split
 artist: Morbid Funeral / Equinoxio
 categories:
 - CD
-date: '2024-12-05T06:25:45'
+date: '2025-02-25T06:22:16'
 draft: false
 images:
 - /images/covers/morbid_funeral_-_equinoxio-split.jpg
@@ -14,4 +14,4 @@ title: Morbid Funeral / Equinoxio - Split
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=3252&sort=pd.name&order=ASC) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=3252&sort=pd.name&order=ASC) for $8.00

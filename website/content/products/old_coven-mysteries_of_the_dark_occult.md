@@ -1,10 +1,10 @@
 ---
-actualPrice: $25.00
+actualPrice: $20.00
 album: Mysteries of the Dark Occult
 artist: Old Coven
 categories:
 - Vinyl
-date: '2025-01-12T06:19:39'
+date: '2025-02-25T06:20:53'
 draft: false
 images:
 - /images/covers/old_coven-mysteries_of_the_dark_occult.jpg
@@ -14,4 +14,4 @@ title: Old Coven - Mysteries of the Dark Occult
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=59421&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=59421&sort=pd.name&order=ASC) for $20.00

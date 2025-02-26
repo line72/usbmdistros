@@ -1,11 +1,11 @@
 ---
-actualPrice: $12.00 - 25.00
+actualPrice: $9.60 - 20.00
 album: Blood Worship Extremism
 artist: Nigrum
 categories:
 - Vinyl
 - CD
-date: '2024-12-12T06:26:02'
+date: '2025-02-25T06:22:20'
 draft: false
 images:
 - /images/covers/nigrum-blood_worship_extremism.jpg
@@ -15,6 +15,6 @@ title: Nigrum - Blood Worship Extremism
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=58641&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=58641&sort=pd.name&order=ASC) for $20.00
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=58640&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=58640&sort=pd.name&order=ASC) for $9.60

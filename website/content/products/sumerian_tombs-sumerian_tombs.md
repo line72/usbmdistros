@@ -1,10 +1,10 @@
 ---
-actualPrice: $27.00
+actualPrice: $21.60
 album: Sumerian Tombs
 artist: Sumerian Tombs
 categories:
 - Vinyl
-date: '2024-12-05T06:24:38'
+date: '2025-02-25T06:21:09'
 draft: false
 images:
 - /images/covers/sumerian_tombs-sumerian_tombs.jpg
@@ -14,4 +14,4 @@ title: Sumerian Tombs - Sumerian Tombs
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=58144&sort=pd.name&order=ASC) for $27.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=58144&sort=pd.name&order=ASC) for $21.60

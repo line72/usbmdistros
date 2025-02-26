@@ -1,10 +1,10 @@
 ---
-actualPrice: $25.00
+actualPrice: $20.00
 album: Under the Gaze of Dissolution
 artist: Hwwauoch
 categories:
 - Vinyl
-date: '2024-12-05T06:24:04'
+date: '2025-02-25T06:20:34'
 draft: false
 images:
 - /images/covers/hwwauoch-under_the_gaze_of_dissolution.jpg
@@ -14,4 +14,4 @@ title: Hwwauoch - Under the Gaze of Dissolution
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=57457&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=57457&sort=pd.name&order=ASC) for $20.00

@@ -1,10 +1,10 @@
 ---
-actualPrice: $25.00
+actualPrice: $20.00
 album: Blood and Vomit
 artist: Nattefrost
 categories:
 - Vinyl
-date: '2024-12-05T06:24:19'
+date: '2025-02-25T06:20:50'
 draft: false
 images:
 - /images/covers/nattefrost-blood_and_vomit.jpg
@@ -14,4 +14,4 @@ title: Nattefrost - Blood and Vomit
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=54617&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=54617&sort=pd.name&order=ASC) for $20.00

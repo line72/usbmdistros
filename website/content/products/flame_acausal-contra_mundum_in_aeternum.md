@@ -1,10 +1,10 @@
 ---
-actualPrice: $15.00
+actualPrice: $12.00
 album: Contra Mundum in Aeternum
 artist: Flame Acausal
 categories:
 - CD
-date: '2024-12-05T06:25:26'
+date: '2025-02-25T06:21:57'
 draft: false
 images:
 - /images/covers/flame_acausal-contra_mundum_in_aeternum.jpg
@@ -14,4 +14,4 @@ title: Flame Acausal - Contra Mundum in Aeternum
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=31499&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=31499&sort=pd.name&order=ASC) for $12.00

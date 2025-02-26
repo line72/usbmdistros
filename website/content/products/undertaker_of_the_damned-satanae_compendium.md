@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00
+actualPrice: $9.60
 album: Satanae Compendium
 artist: Undertaker Of The Damned
 categories:
 - CD
-date: '2024-12-05T06:26:09'
+date: '2025-02-25T06:22:37'
 draft: false
 images:
 - /images/covers/undertaker_of_the_damned-satanae_compendium.jpg
@@ -14,4 +14,4 @@ title: Undertaker Of The Damned - Satanae Compendium
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=51891&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=51891&sort=pd.name&order=ASC) for $9.60

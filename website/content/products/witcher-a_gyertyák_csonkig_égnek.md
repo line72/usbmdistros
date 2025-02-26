@@ -1,10 +1,10 @@
 ---
-actualPrice: $20.00
+actualPrice: $16.00
 album: "A Gyerty\xE1k Csonkig \xC9gnek"
 artist: Witcher
 categories:
 - Vinyl
-date: '2024-12-05T06:24:49'
+date: '2025-02-25T06:21:19'
 draft: false
 images:
 - "/images/covers/witcher-a_gyerty\xE1k_csonkig_\xE9gnek.jpg"
@@ -14,4 +14,4 @@ title: "Witcher - A Gyerty\xE1k Csonkig \xC9gnek"
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=57074&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=57074&sort=pd.name&order=ASC) for $16.00

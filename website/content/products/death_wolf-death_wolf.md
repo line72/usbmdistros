@@ -1,11 +1,11 @@
 ---
-actualPrice: $15.00 - 25.00
+actualPrice: $12.00 - 20.00
 album: Death Wolf
 artist: Death Wolf
 categories:
 - Vinyl
 - CD
-date: '2024-12-05T06:25:18'
+date: '2025-02-25T06:21:50'
 draft: false
 images:
 - /images/covers/death_wolf-death_wolf.png
@@ -15,6 +15,6 @@ title: Death Wolf - Death Wolf
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=18580&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=18580&sort=pd.name&order=ASC) for $20.00
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=19893&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=19893&sort=pd.name&order=ASC) for $12.00

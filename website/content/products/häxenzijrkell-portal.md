@@ -1,11 +1,11 @@
 ---
-actualPrice: $15.00 - 27.00
+actualPrice: $12.00 - 21.60
 album: Portal
 artist: "H\xE4xenzijrkell"
 categories:
 - Vinyl
 - CD
-date: '2024-12-05T06:25:31'
+date: '2025-02-25T06:22:01'
 draft: false
 images:
 - "/images/covers/h\xE4xenzijrkell-portal.jpg"
@@ -15,6 +15,6 @@ title: "H\xE4xenzijrkell - Portal"
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=57112&sort=pd.name&order=ASC) for $27.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=57112&sort=pd.name&order=ASC) for $21.60
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=56941&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=56941&sort=pd.name&order=ASC) for $12.00

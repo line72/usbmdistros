@@ -1,10 +1,10 @@
 ---
-actualPrice: $10.00
+actualPrice: $8.00
 album: Sado Perverser Goat Insulter
 artist: Nihil Domination
 categories:
 - CD
-date: '2024-12-05T06:25:49'
+date: '2025-02-25T06:22:20'
 draft: false
 images:
 - /images/covers/nihil_domination-sado_perverser_goat_insulter.jpg
@@ -14,4 +14,4 @@ title: Nihil Domination - Sado Perverser Goat Insulter
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=3349&sort=pd.name&order=ASC) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=3349&sort=pd.name&order=ASC) for $8.00

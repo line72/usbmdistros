@@ -1,10 +1,10 @@
 ---
-actualPrice: $9.00
+actualPrice: $7.20
 album: Choose Death
 artist: Ordeals
 categories:
 - Vinyl
-date: '2024-12-05T06:25:00'
+date: '2025-02-25T06:21:30'
 draft: false
 images:
 - /images/covers/ordeals-choose_death.jpg
@@ -14,4 +14,4 @@ title: Ordeals - Choose Death
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=18445&sort=pd.name&order=ASC) for $9.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=18445&sort=pd.name&order=ASC) for $7.20

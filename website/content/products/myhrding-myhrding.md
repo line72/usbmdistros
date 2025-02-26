@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00
+actualPrice: $9.60
 album: Myhrding
 artist: Myhrding
 categories:
 - CD
-date: '2024-12-05T06:25:46'
+date: '2025-02-25T06:22:17'
 draft: false
 images:
 - /images/covers/myhrding-myhrding.jpg
@@ -14,4 +14,4 @@ title: Myhrding - Myhrding
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=46603&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=46603&sort=pd.name&order=ASC) for $9.60

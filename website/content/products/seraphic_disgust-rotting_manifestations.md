@@ -1,10 +1,10 @@
 ---
-actualPrice: $10.00
+actualPrice: $8.00
 album: Rotting Manifestations
 artist: Seraphic Disgust
 categories:
 - Cassette
-date: '2024-12-05T06:26:46'
+date: '2025-02-25T06:23:14'
 draft: false
 images:
 - /images/covers/seraphic_disgust-rotting_manifestations.jpg
@@ -14,4 +14,4 @@ title: Seraphic Disgust - Rotting Manifestations
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=23771&sort=pd.name&order=ASC) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=23771&sort=pd.name&order=ASC) for $8.00

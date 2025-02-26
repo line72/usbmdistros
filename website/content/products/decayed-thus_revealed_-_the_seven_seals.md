@@ -1,10 +1,10 @@
 ---
-actualPrice: $30.00
+actualPrice: $24.00
 album: Thus Revealed / The Seven Seals
 artist: Decayed
 categories:
 - Vinyl
-date: '2024-12-05T06:23:48'
+date: '2025-02-25T06:20:20'
 draft: false
 images:
 - /images/covers/decayed-thus_revealed_-_the_seven_seals.png
@@ -14,4 +14,4 @@ title: Decayed - Thus Revealed / The Seven Seals
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=51587&sort=pd.name&order=ASC) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=51587&sort=pd.name&order=ASC) for $24.00

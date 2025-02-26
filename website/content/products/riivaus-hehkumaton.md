@@ -1,10 +1,10 @@
 ---
-actualPrice: $27.00
+actualPrice: $21.60
 album: Hehkumaton
 artist: Riivaus
 categories:
 - Vinyl
-date: '2024-12-05T06:24:28'
+date: '2025-02-25T06:20:59'
 draft: false
 images:
 - /images/covers/riivaus-hehkumaton.jpg
@@ -14,4 +14,4 @@ title: Riivaus - Hehkumaton
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=49268&sort=pd.name&order=ASC) for $27.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=49268&sort=pd.name&order=ASC) for $21.60

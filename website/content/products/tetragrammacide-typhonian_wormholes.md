@@ -1,10 +1,10 @@
 ---
-actualPrice: $25.00
+actualPrice: $20.00
 album: Typhonian Wormholes
 artist: Tetragrammacide
 categories:
 - Vinyl
-date: '2024-12-05T06:24:39'
+date: '2025-02-25T06:21:10'
 draft: false
 images:
 - /images/covers/tetragrammacide-typhonian_wormholes.jpg
@@ -14,4 +14,4 @@ title: Tetragrammacide - Typhonian Wormholes
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=58131&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=58131&sort=pd.name&order=ASC) for $20.00

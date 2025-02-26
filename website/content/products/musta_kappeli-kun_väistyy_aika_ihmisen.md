@@ -1,10 +1,10 @@
 ---
-actualPrice: $17.00
+actualPrice: $13.60
 album: "Kun V\xE4istyy Aika Ihmisen"
 artist: Musta Kappeli
 categories:
 - Vinyl
-date: '2024-12-05T06:24:17'
+date: '2025-02-25T06:20:48'
 draft: false
 images:
 - "/images/covers/musta_kappeli-kun_v\xE4istyy_aika_ihmisen.jpg"
@@ -14,4 +14,4 @@ title: "Musta Kappeli - Kun V\xE4istyy Aika Ihmisen"
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=4020&sort=pd.name&order=ASC) for $17.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=4020&sort=pd.name&order=ASC) for $13.60

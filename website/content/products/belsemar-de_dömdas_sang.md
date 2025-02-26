@@ -1,10 +1,10 @@
 ---
-actualPrice: $30.00
+actualPrice: $24.00
 album: "De D\xF6mdas Sang"
 artist: Belsemar
 categories:
 - Vinyl
-date: '2025-02-13T06:23:10'
+date: '2025-02-25T06:20:11'
 draft: false
 images:
 - "/images/covers/belsemar-de_d\xF6mdas_sang.jpg"
@@ -14,4 +14,4 @@ title: "Belsemar - De D\xF6mdas Sang"
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=60100&sort=pd.name&order=ASC) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=60100&sort=pd.name&order=ASC) for $24.00

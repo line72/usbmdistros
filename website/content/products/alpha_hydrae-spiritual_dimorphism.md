@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00
+actualPrice: $9.60
 album: Spiritual Dimorphism
 artist: Alpha Hydrae
 categories:
 - CD
-date: '2024-12-05T06:25:08'
+date: '2025-02-25T06:21:38'
 draft: false
 images:
 - /images/covers/alpha_hydrae-spiritual_dimorphism.jpg
@@ -14,4 +14,4 @@ title: Alpha Hydrae - Spiritual Dimorphism
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=19530&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=19530&sort=pd.name&order=ASC) for $9.60

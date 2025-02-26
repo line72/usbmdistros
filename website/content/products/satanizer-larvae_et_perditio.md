@@ -1,10 +1,10 @@
 ---
-actualPrice: $10.00
+actualPrice: $8.00
 album: Larvae Et Perditio
 artist: Satanizer
 categories:
 - CD
-date: '2024-12-05T06:25:58'
+date: '2025-02-25T06:22:28'
 draft: false
 images:
 - /images/covers/satanizer-larvae_et_perditio.jpg
@@ -14,4 +14,4 @@ title: Satanizer - Larvae Et Perditio
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=3609&sort=pd.name&order=ASC) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=3609&sort=pd.name&order=ASC) for $8.00

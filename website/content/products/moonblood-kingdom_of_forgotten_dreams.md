@@ -1,10 +1,10 @@
 ---
-actualPrice: $30.00
+actualPrice: $24.00
 album: Kingdom Of Forgotten Dreams
 artist: Moonblood
 categories:
 - Vinyl
-date: '2024-12-05T06:24:16'
+date: '2025-02-25T06:20:47'
 draft: false
 images:
 - /images/covers/moonblood-kingdom_of_forgotten_dreams.jpg
@@ -14,4 +14,4 @@ title: Moonblood - Kingdom Of Forgotten Dreams
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=57409&sort=pd.name&order=ASC) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=57409&sort=pd.name&order=ASC) for $24.00

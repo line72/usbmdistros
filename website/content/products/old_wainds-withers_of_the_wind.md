@@ -1,10 +1,10 @@
 ---
-actualPrice: $25.00
+actualPrice: $20.00
 album: Withers of the Wind
 artist: Old Wainds
 categories:
 - Vinyl
-date: '2025-02-18T06:25:37'
+date: '2025-02-25T06:20:54'
 draft: false
 images:
 - /images/covers/old_wainds-withers_of_the_wind.jpg
@@ -14,4 +14,4 @@ title: Old Wainds - Withers of the Wind
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=60306&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=60306&sort=pd.name&order=ASC) for $20.00

@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00
+actualPrice: $9.60
 album: "Dans Nos Coeurs... Cette Lumi\xE8re \xC9ternelle!"
 artist: Hymnn
 categories:
 - CD
-date: '2024-12-05T06:25:35'
+date: '2025-02-25T06:22:04'
 draft: false
 images:
 - "/images/covers/hymnn-dans_nos_coeurs..._cette_lumi\xE8re_\xE9ternelle!.jpg"
@@ -14,4 +14,4 @@ title: "Hymnn - Dans Nos Coeurs... Cette Lumi\xE8re \xC9ternelle!"
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=51947&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=51947&sort=pd.name&order=ASC) for $9.60

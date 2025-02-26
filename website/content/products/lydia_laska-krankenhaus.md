@@ -1,10 +1,10 @@
 ---
-actualPrice: $8.00
+actualPrice: $6.40
 album: Krankenhaus
 artist: Lydia Laska
 categories:
 - Cassette
-date: '2024-12-05T06:26:36'
+date: '2025-02-25T06:23:03'
 draft: false
 images:
 - /images/covers/lydia_laska-krankenhaus.jpg
@@ -14,4 +14,4 @@ title: Lydia Laska - Krankenhaus
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=11487&sort=pd.name&order=ASC) for $8.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=11487&sort=pd.name&order=ASC) for $6.40

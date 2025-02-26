@@ -1,10 +1,10 @@
 ---
-actualPrice: $25.00
+actualPrice: $20.00
 album: Grimjaur
 artist: Siebenburgen
 categories:
 - Vinyl
-date: '2024-12-25T06:24:16'
+date: '2025-02-25T06:21:04'
 draft: false
 images:
 - /images/covers/siebenburgen-grimjaur.jpg
@@ -14,4 +14,4 @@ title: Siebenburgen - Grimjaur
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=58944&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=58944&sort=pd.name&order=ASC) for $20.00

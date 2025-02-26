@@ -1,10 +1,10 @@
 ---
-actualPrice: $25.00
+actualPrice: $20.00
 album: "Au cr\xE9puscule de l'esp\xE9rance"
 artist: Akitsa
 categories:
 - Vinyl
-date: '2024-12-05T06:23:31'
+date: '2025-02-25T06:20:07'
 draft: false
 images:
 - "/images/covers/akitsa-au_cr\xE9puscule_de_l'esp\xE9rance.jpg"
@@ -14,4 +14,4 @@ title: "Akitsa - Au cr\xE9puscule de l'esp\xE9rance"
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=58107&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=58107&sort=pd.name&order=ASC) for $20.00

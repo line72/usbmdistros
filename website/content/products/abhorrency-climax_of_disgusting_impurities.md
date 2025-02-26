@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00
+actualPrice: $9.60
 album: Climax of Disgusting Impurities
 artist: Abhorrency
 categories:
 - Cassette
-date: '2024-12-05T06:26:15'
+date: '2025-02-25T06:22:45'
 draft: false
 images:
 - /images/covers/abhorrency-climax_of_disgusting_impurities.jpg
@@ -14,4 +14,4 @@ title: Abhorrency - Climax of Disgusting Impurities
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=54551&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=54551&sort=pd.name&order=ASC) for $9.60

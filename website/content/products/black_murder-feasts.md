@@ -1,10 +1,10 @@
 ---
-actualPrice: $26.00 - 28.00
+actualPrice: $22.40 - 26.00
 album: Feasts
 artist: Black Murder
 categories:
 - Vinyl
-date: '2025-02-16T06:24:59'
+date: '2025-02-25T06:20:12'
 draft: false
 images:
 - /images/covers/black_murder-feasts.png
@@ -15,4 +15,4 @@ title: Black Murder - Feasts
 
 ## Vinyl
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/black-murder-feasts-12-lp) for $26.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=60160&sort=pd.name&order=ASC) for $28.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=60160&sort=pd.name&order=ASC) for $22.40

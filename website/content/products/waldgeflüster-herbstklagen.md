@@ -1,10 +1,10 @@
 ---
-actualPrice: $30.00
+actualPrice: $24.00
 album: Herbstklagen
 artist: "Waldgefl\xFCster"
 categories:
 - Vinyl
-date: '2024-12-05T06:24:47'
+date: '2025-02-25T06:21:18'
 draft: false
 images:
 - "/images/covers/waldgefl\xFCster-herbstklagen.jpg"
@@ -14,4 +14,4 @@ title: "Waldgefl\xFCster - Herbstklagen"
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=32769&sort=pd.name&order=ASC) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=32769&sort=pd.name&order=ASC) for $24.00

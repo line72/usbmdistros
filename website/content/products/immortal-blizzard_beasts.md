@@ -5,7 +5,7 @@ artist: Immortal
 categories:
 - Vinyl
 - CD
-date: '2025-02-14T06:45:46'
+date: '2025-02-25T06:20:37'
 draft: false
 images:
 - /images/covers/immortal-blizzard_beasts.jpg
@@ -17,7 +17,7 @@ title: Immortal - Blizzard Beasts
 ## Vinyl
 * Purchase from [Sto'Vo'Kor Records](https://stovokor-records.com/products/immortal-blizzard-beasts) for $24.00
 * Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/immortal-blizzard-beasts-lp-gatefold-galaxy-aqua-blue-black-lp-vinyl-1) for $25.99 :: lp gatefold - galaxy (aqua blue/black) lp vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=59643&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=59643&sort=pd.name&order=ASC) for $20.00
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/immortal-blizzard-beasts-lp) for $27.00 :: Color 2024 press vinyl
 * Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/immortal-blizzard-beasts-lp-gatefold-clear-and-blue-splatter-vinyl) for $27.00 :: lp gatefold "laguna blue" (blue/green/white/black) vinyl lp
 ## CD

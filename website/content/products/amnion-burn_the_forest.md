@@ -1,10 +1,10 @@
 ---
-actualPrice: $6.00
+actualPrice: $4.80
 album: Burn The Forest
 artist: Amnion
 categories:
 - Vinyl
-date: '2024-12-05T06:24:51'
+date: '2025-02-25T06:21:22'
 draft: false
 images:
 - /images/covers/amnion-burn_the_forest.jpg
@@ -14,4 +14,4 @@ title: Amnion - Burn The Forest
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=10929&sort=pd.name&order=ASC) for $6.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=10929&sort=pd.name&order=ASC) for $4.80

@@ -1,10 +1,10 @@
 ---
-actualPrice: $20.00
+actualPrice: $16.00
 album: '...of Death Eternal'
 artist: Ulvdalir
 categories:
 - Vinyl
-date: '2024-12-05T06:24:43'
+date: '2025-02-25T06:21:14'
 draft: false
 images:
 - /images/covers/ulvdalir-...of_death_eternal.jpg
@@ -14,4 +14,4 @@ title: Ulvdalir - ...of Death Eternal
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=4537&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=4537&sort=pd.name&order=ASC) for $16.00

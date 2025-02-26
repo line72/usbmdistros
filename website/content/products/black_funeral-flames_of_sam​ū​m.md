@@ -1,10 +1,10 @@
 ---
-actualPrice: $25.00
+actualPrice: $20.00
 album: "Flames Of Sam\u200B\u016A\u200BM"
 artist: Black Funeral
 categories:
 - Vinyl
-date: '2025-01-24T06:23:33'
+date: '2025-02-25T06:20:11'
 draft: false
 images:
 - "/images/covers/black_funeral-flames_of_sam\u200B\u016B\u200Bm.jpg"
@@ -14,4 +14,4 @@ title: "Black Funeral - Flames Of Sam\u200B\u016A\u200BM"
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=59591&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=59591&sort=pd.name&order=ASC) for $20.00

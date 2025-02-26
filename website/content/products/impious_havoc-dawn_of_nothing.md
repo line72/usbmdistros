@@ -1,10 +1,10 @@
 ---
-actualPrice: $17.00
+actualPrice: $13.60
 album: Dawn of Nothing
 artist: Impious Havoc
 categories:
 - Vinyl
-date: '2024-12-05T06:24:05'
+date: '2025-02-25T06:20:37'
 draft: false
 images:
 - /images/covers/impious_havoc-dawn_of_nothing.jpg
@@ -14,4 +14,4 @@ title: Impious Havoc - Dawn of Nothing
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=11063&sort=pd.name&order=ASC) for $17.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=11063&sort=pd.name&order=ASC) for $13.60

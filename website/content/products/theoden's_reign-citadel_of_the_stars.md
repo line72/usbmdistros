@@ -1,10 +1,10 @@
 ---
-actualPrice: $25.00
+actualPrice: $20.00
 album: Citadel Of The Stars
 artist: Theoden's Reign
 categories:
 - Vinyl
-date: '2025-02-07T06:24:32'
+date: '2025-02-25T06:21:11'
 draft: false
 images:
 - /images/covers/theoden's_reign-citadel_of_the_stars.jpg
@@ -14,4 +14,4 @@ title: Theoden's Reign - Citadel Of The Stars
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=59881&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=59881&sort=pd.name&order=ASC) for $20.00

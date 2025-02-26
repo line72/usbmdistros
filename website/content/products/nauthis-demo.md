@@ -1,10 +1,10 @@
 ---
-actualPrice: $15.00
+actualPrice: $12.00
 album: Demo
 artist: Nauthis
 categories:
 - Cassette
-date: '2024-12-05T06:26:39'
+date: '2025-02-25T06:23:06'
 draft: false
 images:
 - /images/covers/nauthis-demo.png
@@ -14,4 +14,4 @@ title: Nauthis - Demo
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=49128&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=49128&sort=pd.name&order=ASC) for $12.00

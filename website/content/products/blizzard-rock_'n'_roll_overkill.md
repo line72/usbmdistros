@@ -1,10 +1,10 @@
 ---
-actualPrice: $25.00
+actualPrice: $20.00
 album: Rock 'n' Roll Overkill
 artist: Blizzard
 categories:
 - Vinyl
-date: '2025-02-16T06:25:00'
+date: '2025-02-25T06:20:13'
 draft: false
 images:
 - /images/covers/blizzard-rock_'n'_roll_overkill.jpg
@@ -14,4 +14,4 @@ title: Blizzard - Rock 'n' Roll Overkill
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=60164&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=60164&sort=pd.name&order=ASC) for $20.00

@@ -1,10 +1,10 @@
 ---
-actualPrice: $30.00
+actualPrice: $24.00
 album: Prosatanica Shooting Angels
 artist: Nargaroth
 categories:
 - Vinyl
-date: '2024-12-05T06:24:19'
+date: '2025-02-25T06:20:50'
 draft: false
 images:
 - /images/covers/nargaroth-prosatanica_shooting_angels.jpg
@@ -14,4 +14,4 @@ title: Nargaroth - Prosatanica Shooting Angels
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=55661&sort=pd.name&order=ASC) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=55661&sort=pd.name&order=ASC) for $24.00

@@ -1,10 +1,10 @@
 ---
-actualPrice: $6.00
+actualPrice: $4.80
 album: Demo
 artist: Mythrim
 categories:
 - Cassette
-date: '2024-12-05T06:26:39'
+date: '2025-02-25T06:23:06'
 draft: false
 images:
 - /images/covers/mythrim-demo.png
@@ -14,4 +14,4 @@ title: Mythrim - Demo
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=841&sort=pd.name&order=ASC) for $6.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=841&sort=pd.name&order=ASC) for $4.80

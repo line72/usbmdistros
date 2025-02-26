@@ -1,10 +1,10 @@
 ---
-actualPrice: $5.00
+actualPrice: $4.00
 album: S/T
 artist: Thalarion Lati
 categories:
 - CD
-date: '2024-12-05T06:26:05'
+date: '2025-02-25T06:22:34'
 draft: false
 images:
 - /images/covers/thalarion_lati-s-t.png
@@ -14,4 +14,4 @@ title: Thalarion Lati - S/T
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=1304&sort=pd.name&order=ASC) for $5.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=1304&sort=pd.name&order=ASC) for $4.00

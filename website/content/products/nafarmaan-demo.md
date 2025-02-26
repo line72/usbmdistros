@@ -1,10 +1,10 @@
 ---
-actualPrice: $6.00
+actualPrice: $4.80
 album: Demo
 artist: Nafarmaan
 categories:
 - Cassette
-date: '2024-12-05T06:26:39'
+date: '2025-02-25T06:23:06'
 draft: false
 images:
 - /images/covers/nafarmaan-demo.png
@@ -14,4 +14,4 @@ title: Nafarmaan - Demo
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=1764&sort=pd.name&order=ASC) for $6.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=1764&sort=pd.name&order=ASC) for $4.80

@@ -1,10 +1,10 @@
 ---
-actualPrice: $15.00
+actualPrice: $12.00
 album: The Loremasters Time / The End Of Colours
 artist: Druadan Forest
 categories:
 - CD
-date: '2024-12-05T06:25:22'
+date: '2025-02-25T06:21:53'
 draft: false
 images:
 - /images/covers/druadan_forest-the_loremasters_time_-_the_end_of_colours.jpg
@@ -14,4 +14,4 @@ title: Druadan Forest - The Loremasters Time / The End Of Colours
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=53042&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=53042&sort=pd.name&order=ASC) for $12.00

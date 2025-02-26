@@ -1,10 +1,10 @@
 ---
-actualPrice: $25.00
+actualPrice: $20.00
 album: Pimeyden Kosketus
 artist: Hautakammio
 categories:
 - Vinyl
-date: '2024-12-05T06:24:00'
+date: '2025-02-25T06:20:31'
 draft: false
 images:
 - /images/covers/hautakammio-pimeyden_kosketus.png
@@ -14,4 +14,4 @@ title: Hautakammio - Pimeyden Kosketus
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=30519&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=30519&sort=pd.name&order=ASC) for $20.00

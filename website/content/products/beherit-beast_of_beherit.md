@@ -1,11 +1,11 @@
 ---
-actualPrice: $20.00 - 50.00
+actualPrice: $16.00 - 40.00
 album: Beast of Beherit
 artist: Beherit
 categories:
 - Vinyl
 - CD
-date: '2025-02-13T06:23:09'
+date: '2025-02-25T06:21:43'
 draft: false
 images:
 - /images/covers/beherit-beast_of_beherit.jpg
@@ -15,6 +15,6 @@ title: Beherit - Beast of Beherit
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=60012&sort=pd.name&order=ASC) for $50.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=60012&sort=pd.name&order=ASC) for $40.00
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=59553&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=59553&sort=pd.name&order=ASC) for $16.00
