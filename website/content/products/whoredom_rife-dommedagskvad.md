@@ -1,5 +1,5 @@
 ---
-actualPrice: $29.00 - 36.99
+actualPrice: $29.00
 album: Dommedagskvad
 artist: Whoredom Rife
 categories:
@@ -15,4 +15,3 @@ title: Whoredom Rife - Dommedagskvad
 
 ## Vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/whoredom-rife-dommedagskvad-lp) for $29.00 :: Black 2nd press vinyl
-* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/whoredom-rife-dommedagskvad-black-vinyl-lp) for $36.99 :: black vinyl lp

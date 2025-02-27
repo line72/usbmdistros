@@ -1,5 +1,5 @@
 ---
-actualPrice: $30.00 - 34.99
+actualPrice: $30.00
 album: 'Nid: Hymner Av'
 artist: Whoredom Rife
 categories:
@@ -14,5 +14,4 @@ title: 'Whoredom Rife - Nid: Hymner Av'
 ---
 
 ## Vinyl
-* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/whoredom-rife-nid-hymner-av-hat-black-vinyl-lp) for $34.99 :: black vinyl lp
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/whoredom-rife-nid-hymner-av-hat-lp) for $30.00 :: Black 2021 press vinyl

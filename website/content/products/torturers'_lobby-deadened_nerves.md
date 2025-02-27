@@ -1,5 +1,5 @@
 ---
-actualPrice: $9.60 - 24.00
+actualPrice: $24.00
 album: Deadened Nerves
 artist: Torturers' Lobby
 categories:
@@ -14,5 +14,4 @@ title: Torturers' Lobby - Deadened Nerves
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=52787&sort=pd.name&order=ASC) for $9.60
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=53664&sort=pd.name&order=ASC) for $24.00
