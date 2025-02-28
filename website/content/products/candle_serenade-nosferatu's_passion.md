@@ -4,7 +4,7 @@ album: Nosferatu's Passion
 artist: Candle Serenade
 categories:
 - Vinyl
-date: '2024-12-27T06:02:32'
+date: '2025-02-28T06:02:11'
 draft: false
 images:
 - /images/covers/candle_serenade-nosferatu's_passion.jpg
