@@ -1,10 +1,10 @@
 ---
-actualPrice: $25.99 - 26.00
+actualPrice: $25.99
 album: The Horrible Dissonance Of Oblivion
 artist: Kvadrat
 categories:
 - Vinyl
-date: '2025-01-12T06:29:54'
+date: '2024-07-09T14:01:59'
 draft: false
 images:
 - /images/covers/kvadrat-the_horrible_dissonance_of_oblivion.jpg
@@ -14,5 +14,4 @@ title: Kvadrat - The Horrible Dissonance Of Oblivion
 ---
 
 ## Vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/kvadrat-the-horrible-dissonance-of-oblivion-lp) for $26.00 :: Color 2024 press vinyl
 * Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/kvadrat-the-horrible-dissonance-of-oblivion) for $25.99 :: clear/blue/silver splatter vinyl lp

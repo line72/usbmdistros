@@ -1,9 +1,8 @@
 ---
-actualPrice: $14.00 - 25.00
+actualPrice: $14.00
 album: Hermalausaz
 artist: "\xC1rst\xED\xF0ir L\xEDfsins"
 categories:
-- Vinyl
 - CD
 date: '2025-02-13T06:37:14'
 draft: false
@@ -14,7 +13,5 @@ thumbnailImage: "/images/covers/\xE1rst\xED\xF0ir_l\xEDfsins-hermalausaz-thumb.j
 title: "\xC1rst\xED\xF0ir L\xEDfsins - Hermalausaz"
 ---
 
-## Vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/arstidir-lifsins-hermalausaz-lp) for $25.00 :: Color 2024 press vinyl
 ## CD
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/arstidir-lifsins-hermalausaz-cd) for $14.00 :: Digipak 2024
