@@ -1,10 +1,10 @@
 ---
-actualPrice: $9.60
+actualPrice: $12.00
 album: El Aposento
 artist: Blasfemia
 categories:
 - CD
-date: '2025-02-25T06:21:44'
+date: '2025-03-02T06:21:51'
 draft: false
 images:
 - /images/covers/blasfemia-el_aposento.jpg
@@ -14,4 +14,4 @@ title: Blasfemia - El Aposento
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=51875&sort=pd.name&order=ASC) for $9.60
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=51875&sort=pd.name&order=ASC) for $12.00

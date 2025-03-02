@@ -1,10 +1,10 @@
 ---
-actualPrice: $6.40
+actualPrice: $8.00
 album: Lucha Y Memoria
 artist: Argentum
 categories:
 - CD
-date: '2025-02-25T06:21:40'
+date: '2025-03-02T06:21:46'
 draft: false
 images:
 - /images/covers/argentum-lucha_y_memoria.jpg
@@ -14,4 +14,4 @@ title: Argentum - Lucha Y Memoria
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=52173&sort=pd.name&order=ASC) for $6.40
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=52173&sort=pd.name&order=ASC) for $8.00

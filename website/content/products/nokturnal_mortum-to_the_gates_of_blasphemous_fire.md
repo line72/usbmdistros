@@ -1,10 +1,10 @@
 ---
-actualPrice: $24.00
+actualPrice: $30.00
 album: To the Gates of Blasphemous Fire
 artist: Nokturnal Mortum
 categories:
 - Vinyl
-date: '2025-02-25T06:20:52'
+date: '2025-03-02T06:21:00'
 draft: false
 images:
 - /images/covers/nokturnal_mortum-to_the_gates_of_blasphemous_fire.jpg
@@ -14,4 +14,4 @@ title: Nokturnal Mortum - To the Gates of Blasphemous Fire
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=59850&sort=pd.name&order=ASC) for $24.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=59850&sort=pd.name&order=ASC) for $30.00

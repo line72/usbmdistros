@@ -1,10 +1,10 @@
 ---
-actualPrice: $8.00
+actualPrice: $10.00
 album: '3'
 artist: Dark Storm
 categories:
 - CD
-date: '2025-02-25T06:21:49'
+date: '2025-03-02T06:21:56'
 draft: false
 images:
 - /images/covers/dark_storm-3.jpg
@@ -14,4 +14,4 @@ title: Dark Storm - 3
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=23135&sort=pd.name&order=ASC) for $8.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=23135&sort=pd.name&order=ASC) for $10.00

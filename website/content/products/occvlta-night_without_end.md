@@ -1,10 +1,10 @@
 ---
-actualPrice: $6.40
+actualPrice: $8.00
 album: Night Without End
 artist: Occvlta
 categories:
 - CD
-date: '2025-02-25T06:22:21'
+date: '2025-03-02T06:22:29'
 draft: false
 images:
 - /images/covers/occvlta-night_without_end.jpg
@@ -14,4 +14,4 @@ title: Occvlta - Night Without End
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=2622&sort=pd.name&order=ASC) for $6.40
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=2622&sort=pd.name&order=ASC) for $8.00

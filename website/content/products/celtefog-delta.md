@@ -1,10 +1,10 @@
 ---
-actualPrice: $9.60
+actualPrice: $12.00
 album: Delta
 artist: Celtefog
 categories:
 - CD
-date: '2025-02-25T06:21:46'
+date: '2025-03-02T06:21:53'
 draft: false
 images:
 - /images/covers/celtefog-delta.jpg
@@ -14,4 +14,4 @@ title: Celtefog - Delta
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=43861&sort=pd.name&order=ASC) for $9.60
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=43861&sort=pd.name&order=ASC) for $12.00

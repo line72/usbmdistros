@@ -1,10 +1,10 @@
 ---
-actualPrice: $20.00
+actualPrice: $25.00
 album: Relics of the Storm
 artist: Void Prayer
 categories:
 - Vinyl
-date: '2025-02-25T06:21:17'
+date: '2025-03-02T06:21:24'
 draft: false
 images:
 - /images/covers/void_prayer-relics_of_the_storm.jpg
@@ -14,4 +14,4 @@ title: Void Prayer - Relics of the Storm
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=26721&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=26721&sort=pd.name&order=ASC) for $25.00

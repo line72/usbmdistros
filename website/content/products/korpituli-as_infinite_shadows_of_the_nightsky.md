@@ -1,11 +1,11 @@
 ---
-actualPrice: $12.00 - 24.00
+actualPrice: $15.00 - 30.00
 album: As Infinite Shadows Of The Nightsky
 artist: Korpituli
 categories:
 - Vinyl
 - CD
-date: '2025-02-25T06:22:10'
+date: '2025-03-02T06:22:17'
 draft: false
 images:
 - /images/covers/korpituli-as_infinite_shadows_of_the_nightsky.png
@@ -15,6 +15,6 @@ title: Korpituli - As Infinite Shadows Of The Nightsky
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=50878&sort=pd.name&order=ASC) for $24.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=50878&sort=pd.name&order=ASC) for $30.00
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=50880&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=50880&sort=pd.name&order=ASC) for $15.00

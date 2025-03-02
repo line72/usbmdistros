@@ -1,10 +1,10 @@
 ---
-actualPrice: $16.25 - 19.50
+actualPrice: $25.00
 album: Joined In Darkness
 artist: Demoncy
 categories:
 - Vinyl
-date: '2025-02-24T06:25:24'
+date: '2025-03-02T06:20:27'
 draft: false
 images:
 - /images/covers/demoncy-joined_in_darkness.jpg
@@ -14,5 +14,4 @@ title: Demoncy - Joined In Darkness
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=32112&sort=pd.name&order=ASC) for $19.50
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=59483&sort=pd.name&order=ASC) for $16.25
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=59483&sort=pd.name&order=ASC) for $25.00

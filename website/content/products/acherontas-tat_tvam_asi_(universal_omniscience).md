@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00
+actualPrice: $15.00
 album: Tat Tvam Asi (Universal Omniscience)
 artist: Acherontas
 categories:
 - CD
-date: '2025-02-25T06:21:35'
+date: '2025-03-02T06:21:43'
 draft: false
 images:
 - /images/covers/acherontas-tat_tvam_asi_(universal_omniscience).jpg
@@ -14,4 +14,4 @@ title: Acherontas - Tat Tvam Asi (Universal Omniscience)
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=53431&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=53431&sort=pd.name&order=ASC) for $15.00

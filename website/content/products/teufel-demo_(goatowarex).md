@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00
+actualPrice: $15.00
 album: Demo (Goatowarex)
 artist: Teufel
 categories:
 - Cassette
-date: '2025-02-25T06:23:17'
+date: '2025-03-02T06:23:26'
 draft: false
 images:
 - /images/covers/teufel-demo_(goatowarex).jpg
@@ -14,4 +14,4 @@ title: Teufel - Demo (Goatowarex)
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=44201&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=44201&sort=pd.name&order=ASC) for $15.00

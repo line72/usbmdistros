@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00
+actualPrice: $15.00
 album: Live In Hekelgem
 artist: Satanic Warmaster
 categories:
 - CD
-date: '2025-02-25T06:22:28'
+date: '2025-03-02T06:22:36'
 draft: false
 images:
 - /images/covers/satanic_warmaster-live_in_hekelgem.jpg
@@ -14,4 +14,4 @@ title: Satanic Warmaster - Live In Hekelgem
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=58757&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=58757&sort=pd.name&order=ASC) for $15.00

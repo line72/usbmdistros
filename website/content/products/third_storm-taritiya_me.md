@@ -1,10 +1,10 @@
 ---
-actualPrice: $8.00
+actualPrice: $10.00
 album: Taritiya Me
 artist: Third Storm
 categories:
 - Vinyl
-date: '2025-02-25T06:21:11'
+date: '2025-03-02T06:21:19'
 draft: false
 images:
 - /images/covers/third_storm-taritiya_me.jpg
@@ -14,4 +14,4 @@ title: Third Storm - Taritiya Me
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=40193&sort=pd.name&order=ASC) for $8.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=40193&sort=pd.name&order=ASC) for $10.00

@@ -1,10 +1,10 @@
 ---
-actualPrice: $20.00
+actualPrice: $25.00
 album: Thorns
 artist: Thorns
 categories:
 - Vinyl
-date: '2025-02-25T06:21:11'
+date: '2025-03-02T06:21:19'
 draft: false
 images:
 - /images/covers/thorns-thorns.png
@@ -14,4 +14,4 @@ title: Thorns - Thorns
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=55861&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=55861&sort=pd.name&order=ASC) for $25.00

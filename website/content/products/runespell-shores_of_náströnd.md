@@ -1,11 +1,11 @@
 ---
-actualPrice: $9.60 - 20.00
+actualPrice: $12.00 - 25.00
 album: "Shores of N\xE1str\xF6nd"
 artist: Runespell
 categories:
 - Vinyl
 - CD
-date: '2025-02-25T06:22:27'
+date: '2025-03-02T06:22:35'
 draft: false
 images:
 - "/images/covers/runespell-shores_of_n\xE1str\xF6nd.jpg"
@@ -15,6 +15,6 @@ title: "Runespell - Shores of N\xE1str\xF6nd"
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=58317&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=58317&sort=pd.name&order=ASC) for $25.00
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=38134&sort=pd.name&order=ASC) for $9.60
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=38134&sort=pd.name&order=ASC) for $12.00

@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00
+actualPrice: $15.00
 album: Ezkaton
 artist: Behemoth
 categories:
 - CD
-date: '2025-02-25T06:21:43'
+date: '2025-03-02T06:21:50'
 draft: false
 images:
 - /images/covers/behemoth-ezkaton.jpg
@@ -14,4 +14,4 @@ title: Behemoth - Ezkaton
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=19943&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=19943&sort=pd.name&order=ASC) for $15.00

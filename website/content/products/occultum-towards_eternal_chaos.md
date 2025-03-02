@@ -1,10 +1,10 @@
 ---
-actualPrice: $5.60
+actualPrice: $7.00
 album: Towards Eternal Chaos
 artist: Occultum
 categories:
 - CD
-date: '2025-02-25T06:22:21'
+date: '2025-03-02T06:22:29'
 draft: false
 images:
 - /images/covers/occultum-towards_eternal_chaos.jpg
@@ -14,4 +14,4 @@ title: Occultum - Towards Eternal Chaos
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=1451&sort=pd.name&order=ASC) for $5.60
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=1451&sort=pd.name&order=ASC) for $7.00

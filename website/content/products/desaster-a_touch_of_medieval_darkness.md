@@ -1,10 +1,10 @@
 ---
-actualPrice: $24.00
+actualPrice: $30.00
 album: A Touch Of Medieval Darkness
 artist: Desaster
 categories:
 - Vinyl
-date: '2025-02-25T06:20:21'
+date: '2025-03-02T06:20:27'
 draft: false
 images:
 - /images/covers/desaster-a_touch_of_medieval_darkness.jpg
@@ -14,4 +14,4 @@ title: Desaster - A Touch Of Medieval Darkness
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=59156&sort=pd.name&order=ASC) for $24.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=59156&sort=pd.name&order=ASC) for $30.00

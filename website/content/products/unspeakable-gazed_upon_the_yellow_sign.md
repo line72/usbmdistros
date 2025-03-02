@@ -1,10 +1,10 @@
 ---
-actualPrice: $9.60
+actualPrice: $12.00
 album: Gazed Upon The Yellow Sign
 artist: Unspeakable
 categories:
 - Cassette
-date: '2025-02-25T06:23:20'
+date: '2025-03-02T06:23:28'
 draft: false
 images:
 - /images/covers/unspeakable-gazed_upon_the_yellow_sign.jpg
@@ -14,4 +14,4 @@ title: Unspeakable - Gazed Upon The Yellow Sign
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=42632&sort=pd.name&order=ASC) for $9.60
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=42632&sort=pd.name&order=ASC) for $12.00

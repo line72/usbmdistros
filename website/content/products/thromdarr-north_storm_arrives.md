@@ -1,10 +1,10 @@
 ---
-actualPrice: $8.00
+actualPrice: $10.00
 album: North Storm Arrives
 artist: Thromdarr
 categories:
 - CD
-date: '2025-02-25T06:22:35'
+date: '2025-03-02T06:22:43'
 draft: false
 images:
 - /images/covers/thromdarr-north_storm_arrives.png
@@ -14,4 +14,4 @@ title: Thromdarr - North Storm Arrives
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=1128&sort=pd.name&order=ASC) for $8.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=1128&sort=pd.name&order=ASC) for $10.00

@@ -1,10 +1,10 @@
 ---
-actualPrice: $8.00
+actualPrice: $10.00
 album: "Hyperbor\xEBan Hills"
 artist: "Von\xFClfsr\xEBich"
 categories:
 - CD
-date: '2025-02-25T06:22:42'
+date: '2025-03-02T06:22:49'
 draft: false
 images:
 - "/images/covers/von\xFClfsr\xEBich-hyperbor\xEBan_hills.png"
@@ -14,4 +14,4 @@ title: "Von\xFClfsr\xEBich - Hyperbor\xEBan Hills"
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=13752&sort=pd.name&order=ASC) for $8.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=13752&sort=pd.name&order=ASC) for $10.00

@@ -1,10 +1,10 @@
 ---
-actualPrice: $9.60
+actualPrice: $12.00
 album: Ave, Rex Ivdaeorvm!
 artist: Katari
 categories:
 - CD
-date: '2025-02-25T06:22:10'
+date: '2025-03-02T06:22:16'
 draft: false
 images:
 - /images/covers/katari-ave,_rex_ivdaeorvm!.jpg
@@ -14,4 +14,4 @@ title: Katari - Ave, Rex Ivdaeorvm!
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=22515&sort=pd.name&order=ASC) for $9.60
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=22515&sort=pd.name&order=ASC) for $12.00

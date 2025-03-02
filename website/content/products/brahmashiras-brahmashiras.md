@@ -1,11 +1,11 @@
 ---
-actualPrice: $9.60 - 24.00
+actualPrice: $12.00 - 30.00
 album: Brahmashiras
 artist: Brahmashiras
 categories:
 - Vinyl
 - Cassette
-date: '2025-02-25T06:22:50'
+date: '2025-03-02T06:22:58'
 draft: false
 images:
 - /images/covers/brahmashiras-brahmashiras.jpg
@@ -15,6 +15,6 @@ title: Brahmashiras - Brahmashiras
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=50393&sort=pd.name&order=ASC) for $24.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=50393&sort=pd.name&order=ASC) for $30.00
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=52057&sort=pd.name&order=ASC) for $9.60
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=52057&sort=pd.name&order=ASC) for $12.00

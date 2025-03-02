@@ -1,11 +1,11 @@
 ---
-actualPrice: $12.00 - 21.60
+actualPrice: $15.00 - 27.00
 album: Imperious Jaws of Ire
 artist: Proclamation
 categories:
 - Vinyl
 - Cassette
-date: '2025-02-25T06:23:12'
+date: '2025-03-02T06:23:19'
 draft: false
 images:
 - /images/covers/proclamation-imperious_jaws_of_ire.jpg
@@ -15,7 +15,7 @@ title: Proclamation - Imperious Jaws of Ire
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=58165&sort=pd.name&order=ASC) for $21.60
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=58166&sort=pd.name&order=ASC) for $21.60
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=58165&sort=pd.name&order=ASC) for $27.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=58166&sort=pd.name&order=ASC) for $27.00
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=54920&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=54920&sort=pd.name&order=ASC) for $15.00

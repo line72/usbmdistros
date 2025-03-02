@@ -1,10 +1,10 @@
 ---
-actualPrice: $8.00
+actualPrice: $10.00
 album: Frost
 artist: Eternal Frost
 categories:
 - Vinyl
-date: '2025-02-25T06:21:25'
+date: '2025-03-02T06:21:33'
 draft: false
 images:
 - /images/covers/eternal_frost-frost.jpg
@@ -14,4 +14,4 @@ title: Eternal Frost - Frost
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=26111&sort=pd.name&order=ASC) for $8.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=26111&sort=pd.name&order=ASC) for $10.00

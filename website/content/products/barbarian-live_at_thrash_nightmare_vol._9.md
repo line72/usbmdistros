@@ -1,10 +1,10 @@
 ---
-actualPrice: $20.00
+actualPrice: $25.00
 album: Live At Thrash Nightmare Vol. 9
 artist: Barbarian
 categories:
 - Vinyl
-date: '2025-02-25T06:20:10'
+date: '2025-03-02T06:20:17'
 draft: false
 images:
 - /images/covers/barbarian-live_at_thrash_nightmare_vol._9.jpg
@@ -14,4 +14,4 @@ title: Barbarian - Live At Thrash Nightmare Vol. 9
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=43340&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=43340&sort=pd.name&order=ASC) for $25.00

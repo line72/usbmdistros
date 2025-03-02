@@ -1,10 +1,10 @@
 ---
-actualPrice: $21.60
+actualPrice: $27.00
 album: Sabbath, Thou Arts
 artist: Ceremonial Torture
 categories:
 - Vinyl
-date: '2025-02-25T06:20:16'
+date: '2025-03-02T06:20:22'
 draft: false
 images:
 - /images/covers/ceremonial_torture-sabbath,_thou_arts.jpg
@@ -14,4 +14,4 @@ title: Ceremonial Torture - Sabbath, Thou Arts
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=59182&sort=pd.name&order=ASC) for $21.60
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=59182&sort=pd.name&order=ASC) for $27.00

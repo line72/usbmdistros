@@ -1,10 +1,10 @@
 ---
-actualPrice: $10.40
+actualPrice: $13.00
 album: Holodomor
 artist: Holodomor
 categories:
 - CD
-date: '2025-02-25T06:22:04'
+date: '2025-03-02T06:22:12'
 draft: false
 images:
 - /images/covers/holodomor-holodomor.jpg
@@ -14,4 +14,4 @@ title: Holodomor - Holodomor
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=55508&sort=pd.name&order=ASC) for $10.40
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=55508&sort=pd.name&order=ASC) for $13.00

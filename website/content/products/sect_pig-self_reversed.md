@@ -1,11 +1,11 @@
 ---
-actualPrice: $3.25
+actualPrice: $5.00
 album: Self Reversed
 artist: Sect Pig
 categories:
 - Vinyl
 - CD
-date: '2025-02-24T06:28:02'
+date: '2025-03-02T06:22:37'
 draft: false
 images:
 - /images/covers/sect_pig-self_reversed.jpg
@@ -15,6 +15,6 @@ title: Sect Pig - Self Reversed
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=57653&sort=pd.name&order=ASC) for $3.25
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=57653&sort=pd.name&order=ASC) for $5.00
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=25642&sort=pd.name&order=ASC) for $3.25
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=25642&sort=pd.name&order=ASC) for $5.00

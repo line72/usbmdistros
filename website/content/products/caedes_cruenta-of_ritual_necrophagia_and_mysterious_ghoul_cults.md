@@ -1,12 +1,12 @@
 ---
-actualPrice: $12.00 - 24.00
+actualPrice: $15.00 - 30.00
 album: Of Ritual Necrophagia and Mysterious Ghoul Cults
 artist: Caedes Cruenta
 categories:
 - Vinyl
 - Cassette
 - CD
-date: '2025-02-25T06:22:50'
+date: '2025-03-02T06:22:59'
 draft: false
 images:
 - /images/covers/caedes_cruenta-of_ritual_necrophagia_and_mysterious_ghoul_cults.png
@@ -16,8 +16,8 @@ title: Caedes Cruenta - Of Ritual Necrophagia and Mysterious Ghoul Cults
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=19960&sort=pd.name&order=ASC) for $24.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=19960&sort=pd.name&order=ASC) for $30.00
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=19961&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=19961&sort=pd.name&order=ASC) for $15.00
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=31495&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=31495&sort=pd.name&order=ASC) for $15.00

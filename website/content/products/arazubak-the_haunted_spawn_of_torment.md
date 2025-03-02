@@ -6,7 +6,7 @@ categories:
 - Vinyl
 - Cassette
 - CD
-date: '2025-02-25T06:21:40'
+date: '2025-03-02T06:21:45'
 draft: false
 images:
 - /images/covers/arazubak-the_haunted_spawn_of_torment.jpg
@@ -20,4 +20,4 @@ title: Arazubak - The Haunted Spawn of Torment
 ## Cassette
 * Purchase from [Sto'Vo'Kor Records](https://stovokor-records.com/products/arazubak-the-haunted-spawn-of-torment) for $8.00
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=25498&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=25498&sort=pd.name&order=ASC) for $15.00

@@ -1,10 +1,10 @@
 ---
-actualPrice: $6.40
+actualPrice: $8.00
 album: The Hematic Lust
 artist: Alpha Hydrae
 categories:
 - CD
-date: '2025-02-25T06:21:38'
+date: '2025-03-02T06:21:44'
 draft: false
 images:
 - /images/covers/alpha_hydrae-the_hematic_lust.jpg
@@ -14,4 +14,4 @@ title: Alpha Hydrae - The Hematic Lust
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=2048&sort=pd.name&order=ASC) for $6.40
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=2048&sort=pd.name&order=ASC) for $8.00

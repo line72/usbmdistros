@@ -1,10 +1,10 @@
 ---
-actualPrice: $8.00
+actualPrice: $10.00
 album: The Heavens Cry Black Tears
 artist: Open Grave
 categories:
 - CD
-date: '2025-02-25T06:22:21'
+date: '2025-03-02T06:22:30'
 draft: false
 images:
 - /images/covers/open_grave-the_heavens_cry_black_tears.jpg
@@ -14,4 +14,4 @@ title: Open Grave - The Heavens Cry Black Tears
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=7870&sort=pd.name&order=ASC) for $8.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=7870&sort=pd.name&order=ASC) for $10.00

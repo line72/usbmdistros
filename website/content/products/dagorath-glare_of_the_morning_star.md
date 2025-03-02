@@ -1,10 +1,10 @@
 ---
-actualPrice: $8.00
+actualPrice: $10.00
 album: Glare of the Morning Star
 artist: Dagorath
 categories:
 - CD
-date: '2025-02-25T06:21:48'
+date: '2025-03-02T06:21:56'
 draft: false
 images:
 - /images/covers/dagorath-glare_of_the_morning_star.jpg
@@ -14,4 +14,4 @@ title: Dagorath - Glare of the Morning Star
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=3060&sort=pd.name&order=ASC) for $8.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=3060&sort=pd.name&order=ASC) for $10.00

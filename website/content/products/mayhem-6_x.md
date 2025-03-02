@@ -1,10 +1,10 @@
 ---
-actualPrice: $204.00
+actualPrice: $255.00
 album: 6 X
 artist: Mayhem
 categories:
 - Vinyl
-date: '2025-02-25T06:20:45'
+date: '2025-03-02T06:20:52'
 draft: false
 images:
 - /images/covers/mayhem-6_x.jpg
@@ -14,4 +14,4 @@ title: Mayhem - 6 X
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=57883&sort=pd.name&order=ASC) for $204.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=57883&sort=pd.name&order=ASC) for $255.00

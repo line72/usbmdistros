@@ -1,10 +1,10 @@
 ---
-actualPrice: $20.00
+actualPrice: $25.00
 album: Occult Blood
 artist: Occult Blood
 categories:
 - Vinyl
-date: '2025-02-25T06:20:53'
+date: '2025-03-02T06:21:00'
 draft: false
 images:
 - /images/covers/occult_blood-occult_blood.png
@@ -14,4 +14,4 @@ title: Occult Blood - Occult Blood
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=50637&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=50637&sort=pd.name&order=ASC) for $25.00

@@ -1,10 +1,10 @@
 ---
-actualPrice: $16.00
+actualPrice: $20.00
 album: God's Pantheon Demo 1993
 artist: Anubi
 categories:
 - CD
-date: '2025-02-25T06:21:40'
+date: '2025-03-02T06:21:45'
 draft: false
 images:
 - /images/covers/anubi-god's_pantheon_demo_1993.png
@@ -14,4 +14,4 @@ title: Anubi - God's Pantheon Demo 1993
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=51681&sort=pd.name&order=ASC) for $16.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=51681&sort=pd.name&order=ASC) for $20.00

@@ -1,11 +1,11 @@
 ---
-actualPrice: $12.00 - 34.99
+actualPrice: $13.00 - 34.99
 album: Pure Holocaust
 artist: Immortal
 categories:
 - Vinyl
 - CD
-date: '2025-02-25T06:22:05'
+date: '2025-03-02T06:22:13'
 draft: false
 images:
 - /images/covers/immortal-pure_holocaust.jpg
@@ -21,5 +21,5 @@ title: Immortal - Pure Holocaust
 * Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/immortal-pure-holocaust-vinyl-lp-color-gatefold) for $30.00 :: (color, gatefold)
 * Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/immortal-pure-holocaust-black-clear-vinyl-lp) for $22.99 :: black clear vinyl lp
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=57186&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=57186&sort=pd.name&order=ASC) for $15.00
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/immortal-pure-holocaust-cd) for $13.00 :: Jewel Case 2023

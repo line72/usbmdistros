@@ -1,10 +1,10 @@
 ---
-actualPrice: $16.00
+actualPrice: $20.00
 album: Enlightenment Process
 artist: Impaled Nazarene
 categories:
 - Vinyl
-date: '2025-02-25T06:21:27'
+date: '2025-03-02T06:21:35'
 draft: false
 images:
 - /images/covers/impaled_nazarene-enlightenment_process.png
@@ -14,4 +14,4 @@ title: Impaled Nazarene - Enlightenment Process
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=49023&sort=pd.name&order=ASC) for $16.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=49023&sort=pd.name&order=ASC) for $20.00

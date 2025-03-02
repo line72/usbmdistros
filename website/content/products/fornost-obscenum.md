@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00
+actualPrice: $15.00
 album: Obscenum
 artist: Fornost
 categories:
 - Cassette
-date: '2025-02-25T06:22:57'
+date: '2025-03-02T06:23:06'
 draft: false
 images:
 - /images/covers/fornost-obscenum.jpg
@@ -14,4 +14,4 @@ title: Fornost - Obscenum
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=53257&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=53257&sort=pd.name&order=ASC) for $15.00

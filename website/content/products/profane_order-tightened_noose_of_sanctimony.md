@@ -1,10 +1,10 @@
 ---
-actualPrice: $16.25 - 19.50
+actualPrice: $25.00 - 30.00
 album: Tightened Noose Of Sanctimony
 artist: Profane Order
 categories:
 - Vinyl
-date: '2025-02-24T06:26:12'
+date: '2025-03-02T06:21:05'
 draft: false
 images:
 - /images/covers/profane_order-tightened_noose_of_sanctimony.png
@@ -14,5 +14,5 @@ title: Profane Order - Tightened Noose Of Sanctimony
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=44264&sort=pd.name&order=ASC) for $19.50
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=44366&sort=pd.name&order=ASC) for $16.25
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=44264&sort=pd.name&order=ASC) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=44366&sort=pd.name&order=ASC) for $25.00

@@ -1,10 +1,10 @@
 ---
-actualPrice: $24.00
+actualPrice: $30.00
 album: At War
 artist: Brulvahnatu
 categories:
 - Vinyl
-date: '2025-02-25T06:20:14'
+date: '2025-03-02T06:20:20'
 draft: false
 images:
 - /images/covers/brulvahnatu-at_war.jpg
@@ -14,4 +14,4 @@ title: Brulvahnatu - At War
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=41076&sort=pd.name&order=ASC) for $24.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=41076&sort=pd.name&order=ASC) for $30.00

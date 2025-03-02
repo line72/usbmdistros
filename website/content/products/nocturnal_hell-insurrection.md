@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00
+actualPrice: $15.00
 album: Insurrection
 artist: Nocturnal Hell
 categories:
 - Vinyl
-date: '2025-02-25T06:20:52'
+date: '2025-03-02T06:20:59'
 draft: false
 images:
 - /images/covers/nocturnal_hell-insurrection.jpg
@@ -14,4 +14,4 @@ title: Nocturnal Hell - Insurrection
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=10177&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=10177&sort=pd.name&order=ASC) for $15.00

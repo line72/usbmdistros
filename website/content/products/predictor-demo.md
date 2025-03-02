@@ -1,10 +1,10 @@
 ---
-actualPrice: $7.20
+actualPrice: $9.00
 album: Demo
 artist: Predictor
 categories:
 - Cassette
-date: '2025-02-25T06:23:12'
+date: '2025-03-02T06:23:19'
 draft: false
 images:
 - /images/covers/predictor-demo.png
@@ -14,4 +14,4 @@ title: Predictor - Demo
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=28574&sort=pd.name&order=ASC) for $7.20
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=28574&sort=pd.name&order=ASC) for $9.00

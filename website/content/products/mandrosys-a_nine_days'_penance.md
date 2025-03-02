@@ -1,10 +1,10 @@
 ---
-actualPrice: $6.40
+actualPrice: $8.00
 album: A Nine Days' Penance
 artist: Mandrosys
 categories:
 - CD
-date: '2025-02-25T06:22:14'
+date: '2025-03-02T06:22:22'
 draft: false
 images:
 - /images/covers/mandrosys-a_nine_days'_penance.jpg
@@ -14,4 +14,4 @@ title: Mandrosys - A Nine Days' Penance
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=2491&sort=pd.name&order=ASC) for $6.40
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=2491&sort=pd.name&order=ASC) for $8.00

@@ -1,10 +1,10 @@
 ---
-actualPrice: $5.60
+actualPrice: $7.00
 album: Demo
 artist: Darkwraith
 categories:
 - Cassette
-date: '2025-02-25T06:22:53'
+date: '2025-03-02T06:23:01'
 draft: false
 images:
 - /images/covers/darkwraith-demo.jpg
@@ -14,4 +14,4 @@ title: Darkwraith - Demo
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=12551&sort=pd.name&order=ASC) for $5.60
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=12551&sort=pd.name&order=ASC) for $7.00

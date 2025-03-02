@@ -1,11 +1,11 @@
 ---
-actualPrice: $9.60 - 12.00
+actualPrice: $12.00 - 15.00
 album: Unholy Crusade
 artist: Lord Belial
 categories:
 - Cassette
 - CD
-date: '2025-02-25T06:23:03'
+date: '2025-03-02T06:23:12'
 draft: false
 images:
 - /images/covers/lord_belial-unholy_crusade.jpg
@@ -15,6 +15,6 @@ title: Lord Belial - Unholy Crusade
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=55715&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=55715&sort=pd.name&order=ASC) for $15.00
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=51499&sort=pd.name&order=ASC) for $9.60
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=51499&sort=pd.name&order=ASC) for $12.00

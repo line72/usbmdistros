@@ -1,10 +1,10 @@
 ---
-actualPrice: $20.00
+actualPrice: $25.00
 album: From The Abyss Of Dungeons And Darkness
 artist: Thoth
 categories:
 - Vinyl
-date: '2025-02-25T06:21:11'
+date: '2025-03-02T06:21:19'
 draft: false
 images:
 - /images/covers/thoth-from_the_abyss_of_dungeons_and_darkness.jpg
@@ -14,4 +14,4 @@ title: Thoth - From The Abyss Of Dungeons And Darkness
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=34225&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=34225&sort=pd.name&order=ASC) for $25.00

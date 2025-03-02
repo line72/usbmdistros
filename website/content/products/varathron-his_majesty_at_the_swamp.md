@@ -1,12 +1,12 @@
 ---
-actualPrice: $12.00 - 16.25
+actualPrice: $15.00 - 25.00
 album: His Majesty at the Swamp
 artist: Varathron
 categories:
 - Vinyl
 - Cassette
 - CD
-date: '2025-02-25T06:23:20'
+date: '2025-03-02T06:23:29'
 draft: false
 images:
 - /images/covers/varathron-his_majesty_at_the_swamp.jpg
@@ -16,9 +16,9 @@ title: Varathron - His Majesty at the Swamp
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=60006&sort=pd.name&order=ASC) for $16.25
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=60006&sort=pd.name&order=ASC) for $25.00
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=60065&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=60065&sort=pd.name&order=ASC) for $15.00
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=55193&sort=pd.name&order=ASC) for $12.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=55194&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=55193&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=55194&sort=pd.name&order=ASC) for $15.00

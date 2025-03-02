@@ -1,10 +1,10 @@
 ---
-actualPrice: $13.60
+actualPrice: $17.00
 album: Damnation Scythes Of Invincible Abomination
 artist: Apocalypse Command
 categories:
 - Vinyl
-date: '2025-02-25T06:20:08'
+date: '2025-03-02T06:20:14'
 draft: false
 images:
 - /images/covers/apocalypse_command-damnation_scythes_of_invincible_abomination.jpg
@@ -14,4 +14,4 @@ title: Apocalypse Command - Damnation Scythes Of Invincible Abomination
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=60222&sort=pd.name&order=ASC) for $13.60
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=60222&sort=pd.name&order=ASC) for $17.00

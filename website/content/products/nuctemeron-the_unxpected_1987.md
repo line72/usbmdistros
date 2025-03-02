@@ -1,10 +1,10 @@
 ---
-actualPrice: $28.00
+actualPrice: $35.00
 album: The Unxpected 1987
 artist: Nuctemeron
 categories:
 - Vinyl
-date: '2025-02-25T06:20:53'
+date: '2025-03-02T06:21:00'
 draft: false
 images:
 - /images/covers/nuctemeron-the_unxpected_1987.jpg
@@ -14,4 +14,4 @@ title: Nuctemeron - The Unxpected 1987
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=56250&sort=pd.name&order=ASC) for $28.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=56250&sort=pd.name&order=ASC) for $35.00

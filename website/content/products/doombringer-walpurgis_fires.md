@@ -1,10 +1,10 @@
 ---
-actualPrice: $6.50
+actualPrice: $10.00
 album: Walpurgis Fires
 artist: Doombringer
 categories:
 - CD
-date: '2025-02-24T06:27:18'
+date: '2025-03-02T06:22:00'
 draft: false
 images:
 - /images/covers/doombringer-walpurgis_fires.jpg
@@ -14,4 +14,4 @@ title: Doombringer - Walpurgis Fires
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=5212&sort=pd.name&order=ASC) for $6.50
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=5212&sort=pd.name&order=ASC) for $10.00

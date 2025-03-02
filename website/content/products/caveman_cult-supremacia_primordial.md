@@ -1,10 +1,10 @@
 ---
-actualPrice: $16.00
+actualPrice: $20.00
 album: Supremacia Primordial
 artist: Caveman Cult
 categories:
 - Vinyl
-date: '2025-02-25T06:20:15'
+date: '2025-03-02T06:20:22'
 draft: false
 images:
 - /images/covers/caveman_cult-supremacia_primordial.jpg
@@ -14,4 +14,4 @@ title: Caveman Cult - Supremacia Primordial
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=59005&sort=pd.name&order=ASC) for $16.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=59005&sort=pd.name&order=ASC) for $20.00

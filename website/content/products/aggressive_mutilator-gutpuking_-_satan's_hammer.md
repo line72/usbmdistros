@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00
+actualPrice: $15.00
 album: Gutpuking - Satan's Hammer
 artist: Aggressive Mutilator
 categories:
 - Vinyl
-date: '2025-02-25T06:21:21'
+date: '2025-03-02T06:21:29'
 draft: false
 images:
 - /images/covers/aggressive_mutilator-gutpuking_-_satan's_hammer.png
@@ -14,4 +14,4 @@ title: Aggressive Mutilator - Gutpuking - Satan's Hammer
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=47148&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=47148&sort=pd.name&order=ASC) for $15.00

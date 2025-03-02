@@ -1,10 +1,10 @@
 ---
-actualPrice: $6.50
+actualPrice: $10.00
 album: Ts
 artist: Xibalba
 categories:
 - Vinyl
-date: '2025-02-24T06:26:40'
+date: '2025-03-02T06:21:28'
 draft: false
 images:
 - /images/covers/xibalba-ts.jpg
@@ -14,4 +14,4 @@ title: Xibalba - Ts
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=57897&sort=pd.name&order=ASC) for $6.50
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=57897&sort=pd.name&order=ASC) for $10.00

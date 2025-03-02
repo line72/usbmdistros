@@ -1,10 +1,10 @@
 ---
-actualPrice: $20.00
+actualPrice: $25.00
 album: Innermost
 artist: Hate Forest
 categories:
 - Vinyl
-date: '2025-02-25T06:20:30'
+date: '2025-03-02T06:20:37'
 draft: false
 images:
 - /images/covers/hate_forest-innermost.jpg
@@ -14,4 +14,4 @@ title: Hate Forest - Innermost
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=58294&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=58294&sort=pd.name&order=ASC) for $25.00

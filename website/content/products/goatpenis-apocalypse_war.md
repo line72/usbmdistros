@@ -1,10 +1,10 @@
 ---
-actualPrice: $16.00
+actualPrice: $20.00
 album: Apocalypse War
 artist: Goatpenis
 categories:
 - Cassette
-date: '2025-02-25T06:22:58'
+date: '2025-03-02T06:23:07'
 draft: false
 images:
 - /images/covers/goatpenis-apocalypse_war.png
@@ -14,4 +14,4 @@ title: Goatpenis - Apocalypse War
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=58727&sort=pd.name&order=ASC) for $16.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=58727&sort=pd.name&order=ASC) for $20.00

@@ -1,11 +1,11 @@
 ---
-actualPrice: $12.00 - 20.00
+actualPrice: $15.00 - 25.00
 album: "Pime\xE4n Hohto"
 artist: Infernarium
 categories:
 - Vinyl
 - CD
-date: '2025-02-25T06:22:06'
+date: '2025-03-02T06:22:14'
 draft: false
 images:
 - "/images/covers/infernarium-pime\xE4n_hohto.png"
@@ -15,6 +15,6 @@ title: "Infernarium - Pime\xE4n Hohto"
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=19969&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=19969&sort=pd.name&order=ASC) for $25.00
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=19965&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=19965&sort=pd.name&order=ASC) for $15.00

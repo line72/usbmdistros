@@ -1,10 +1,10 @@
 ---
-actualPrice: $13.00
+actualPrice: $20.00
 album: Mysticisme Macabre
 artist: Darvulia
 categories:
 - Vinyl
-date: '2025-02-24T06:25:22'
+date: '2025-03-02T06:20:26'
 draft: false
 images:
 - /images/covers/darvulia-mysticisme_macabre.jpg
@@ -14,4 +14,4 @@ title: Darvulia - Mysticisme Macabre
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=34858&sort=pd.name&order=ASC) for $13.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=34858&sort=pd.name&order=ASC) for $20.00

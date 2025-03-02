@@ -1,10 +1,10 @@
 ---
-actualPrice: $5.60
+actualPrice: $7.00
 album: Hellige" Demo
 artist: Hellige
 categories:
 - Cassette
-date: '2025-02-25T06:22:59'
+date: '2025-03-02T06:23:08'
 draft: false
 images:
 - /images/covers/hellige-hellige"_demo.png
@@ -14,4 +14,4 @@ title: Hellige - Hellige" Demo
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=11379&sort=pd.name&order=ASC) for $5.60
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=11379&sort=pd.name&order=ASC) for $7.00

@@ -1,10 +1,10 @@
 ---
-actualPrice: $4.00
+actualPrice: $5.00
 album: Pregnant is the Night
 artist: Fornace
 categories:
 - CD
-date: '2025-02-25T06:21:57'
+date: '2025-03-02T06:22:05'
 draft: false
 images:
 - /images/covers/fornace-pregnant_is_the_night.jpg
@@ -14,4 +14,4 @@ title: Fornace - Pregnant is the Night
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=1644&sort=pd.name&order=ASC) for $4.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=1644&sort=pd.name&order=ASC) for $5.00

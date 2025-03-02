@@ -1,11 +1,11 @@
 ---
-actualPrice: $9.60
+actualPrice: $12.00
 album: Sanguinem In Abyssum Irent
 artist: Vexev
 categories:
 - Cassette
 - CD
-date: '2025-02-25T06:23:20'
+date: '2025-03-02T06:23:29'
 draft: false
 images:
 - /images/covers/vexev-sanguinem_in_abyssum_irent.png
@@ -15,6 +15,6 @@ title: Vexev - Sanguinem In Abyssum Irent
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=41327&sort=pd.name&order=ASC) for $9.60
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=41327&sort=pd.name&order=ASC) for $12.00
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=44232&sort=pd.name&order=ASC) for $9.60
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=44232&sort=pd.name&order=ASC) for $12.00

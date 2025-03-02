@@ -1,10 +1,10 @@
 ---
-actualPrice: $9.60
+actualPrice: $12.00
 album: At The Helm Of The Abyss
 artist: Dead of Winter
 categories:
 - Cassette
-date: '2025-02-25T06:22:53'
+date: '2025-03-02T06:23:01'
 draft: false
 images:
 - /images/covers/dead_of_winter-at_the_helm_of_the_abyss.jpg
@@ -14,4 +14,4 @@ title: Dead of Winter - At The Helm Of The Abyss
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=20470&sort=pd.name&order=ASC) for $9.60
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=20470&sort=pd.name&order=ASC) for $12.00

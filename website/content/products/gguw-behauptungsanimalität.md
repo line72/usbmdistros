@@ -1,10 +1,10 @@
 ---
-actualPrice: $8.00
+actualPrice: $10.00
 album: "Behauptungsanimalit\xE4t"
 artist: GGUW
 categories:
 - CD
-date: '2025-02-25T06:21:58'
+date: '2025-03-02T06:22:06'
 draft: false
 images:
 - "/images/covers/gguw-behauptungsanimalit\xE4t.jpg"
@@ -14,4 +14,4 @@ title: "GGUW - Behauptungsanimalit\xE4t"
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=5139&sort=pd.name&order=ASC) for $8.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=5139&sort=pd.name&order=ASC) for $10.00

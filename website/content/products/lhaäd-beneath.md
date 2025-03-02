@@ -1,11 +1,11 @@
 ---
-actualPrice: $9.60 - 24.00
+actualPrice: $12.00 - 25.00
 album: Beneath
 artist: "Lha\xE4d"
 categories:
 - Vinyl
 - CD
-date: '2025-02-25T06:22:12'
+date: '2025-03-02T06:22:20'
 draft: false
 images:
 - "/images/covers/lha\xE4d-beneath.jpg"
@@ -15,7 +15,7 @@ title: "Lha\xE4d - Beneath"
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=48975&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=48975&sort=pd.name&order=ASC) for $25.00
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/lhaad-beneath-lp) for $24.00 :: Color 2024 press vinyl
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=48978&sort=pd.name&order=ASC) for $9.60
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=48978&sort=pd.name&order=ASC) for $12.00

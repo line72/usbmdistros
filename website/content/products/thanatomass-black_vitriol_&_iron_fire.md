@@ -1,10 +1,10 @@
 ---
-actualPrice: $20.00
+actualPrice: $25.00
 album: Black Vitriol & Iron Fire
 artist: Thanatomass
 categories:
 - Vinyl
-date: '2025-02-25T06:21:10'
+date: '2025-03-02T06:21:17'
 draft: false
 images:
 - /images/covers/thanatomass-black_vitriol_&_iron_fire.jpg
@@ -14,4 +14,4 @@ title: Thanatomass - Black Vitriol & Iron Fire
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=58367&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=58367&sort=pd.name&order=ASC) for $25.00
