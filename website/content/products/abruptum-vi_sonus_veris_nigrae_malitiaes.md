@@ -4,7 +4,7 @@ album: VI Sonus Veris Nigrae Malitiaes
 artist: Abruptum
 categories:
 - CD
-date: '2025-03-02T06:21:42'
+date: '2025-03-04T06:21:48'
 draft: false
 images:
 - /images/covers/abruptum-vi_sonus_veris_nigrae_malitiaes.jpg
@@ -14,4 +14,4 @@ title: Abruptum - VI Sonus Veris Nigrae Malitiaes
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=60488&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=60526&sort=pd.name&order=ASC) for $15.00

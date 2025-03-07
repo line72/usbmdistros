@@ -1,10 +1,10 @@
 ---
-actualPrice: $29.99
+actualPrice: $24.99
 album: Night Spirit
 artist: Lustre
 categories:
 - Vinyl
-date: '2024-11-29T06:47:29'
+date: '2025-03-04T06:44:11'
 draft: false
 images:
 - /images/covers/lustre-night_spirit.jpg
@@ -14,4 +14,4 @@ title: Lustre - Night Spirit
 ---
 
 ## Vinyl
-* Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/lustre-night-spirit-vinyl-lp) for $29.99
+* Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/lustre-night-spirit-vinyl-lp) for $24.99

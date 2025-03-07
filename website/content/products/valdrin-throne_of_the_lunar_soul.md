@@ -1,11 +1,10 @@
 ---
-actualPrice: $13.00 - 39.99
+actualPrice: $15.00 - 39.99
 album: Throne of the Lunar Soul
 artist: Valdrin
 categories:
 - Vinyl
 - Cassette
-- CD
 date: '2025-03-02T06:23:29'
 draft: false
 images:
@@ -21,6 +20,3 @@ title: Valdrin - Throne of the Lunar Soul
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=55202&sort=pd.name&order=ASC) for $30.00
 ## Cassette
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=46393&sort=pd.name&order=ASC) for $15.00
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/valdrin-throne-of-the-lunar-soul-cassette) for $13.00 :: Blue Shell 2024
-## CD
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/valdrin-throne-of-the-lunar-soul-cd) for $14.00 :: Jewel Case 2023

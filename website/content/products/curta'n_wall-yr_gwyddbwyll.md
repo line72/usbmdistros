@@ -4,7 +4,6 @@ album: Yr Gwyddbwyll
 artist: CURTA'N WALL
 categories:
 - Vinyl
-- Cassette
 - CD
 date: '2025-02-12T06:45:58'
 draft: false
@@ -17,7 +16,5 @@ title: CURTA'N WALL - Yr Gwyddbwyll
 
 ## Vinyl
 * Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/curtan-wall-yr-gwyddbwyll-woven-patch) for $8.99
-## Cassette
-* Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/curtan-wall-yr-gwyddbwyll-cassette-tape) for $12.99
 ## CD
 * Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/curtan-wall-yr-gwyddbwyll-cd) for $14.99
