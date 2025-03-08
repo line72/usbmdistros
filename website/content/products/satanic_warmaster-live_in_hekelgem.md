@@ -4,7 +4,7 @@ album: Live In Hekelgem
 artist: Satanic Warmaster
 categories:
 - CD
-date: '2025-03-02T06:22:36'
+date: '2025-03-08T06:23:25'
 draft: false
 images:
 - /images/covers/satanic_warmaster-live_in_hekelgem.jpg
@@ -14,4 +14,4 @@ title: Satanic Warmaster - Live In Hekelgem
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=58757&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=60590&sort=pd.name&order=ASC) for $15.00
