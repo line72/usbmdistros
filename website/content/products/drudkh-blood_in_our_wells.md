@@ -1,10 +1,11 @@
 ---
-actualPrice: $36.99
+actualPrice: $12.00 - 36.99
 album: Blood in Our Wells
 artist: Drudkh
 categories:
 - Vinyl
-date: '2024-08-22T05:45:29'
+- CD
+date: '2025-01-28T06:38:13'
 draft: false
 images:
 - /images/covers/drudkh-blood_in_our_wells.jpg
@@ -15,3 +16,5 @@ title: Drudkh - Blood in Our Wells
 
 ## Vinyl
 * Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/drudkh-blood-in-our-wells-black-vinyl-lp) for $36.99 :: black vinyl lp
+## CD
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/drudkh-blood-in-our-wells-cd) for $12.00 :: CD 2014

@@ -4,7 +4,7 @@ album: Calleth The Void
 artist: Ouroboric Deity
 categories:
 - Vinyl
-date: '2025-02-25T06:01:53'
+date: '2025-03-09T06:02:10'
 draft: false
 images:
 - /images/covers/ouroboric_deity-calleth_the_void.jpg

@@ -1,10 +1,10 @@
 ---
-actualPrice: $27.00
+actualPrice: $28.00
 album: Kalk Og Aske
 artist: Knokkelklang
 categories:
 - Vinyl
-date: '2025-03-02T06:20:47'
+date: '2024-12-25T06:36:56'
 draft: false
 images:
 - /images/covers/knokkelklang-kalk_og_aske.jpg
@@ -14,4 +14,4 @@ title: Knokkelklang - Kalk Og Aske
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=22324&sort=pd.name&order=ASC) for $27.00
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/knokkelklang-kalk-og-aske-lp) for $28.00 :: Bone White 2022 press
