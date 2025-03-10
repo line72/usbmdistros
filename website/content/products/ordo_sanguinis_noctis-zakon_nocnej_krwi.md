@@ -14,4 +14,5 @@ title: Ordo Sanguinis Noctis - Zakon Nocnej Krwi
 ---
 
 ## Vinyl
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=60448&sort=pd.name&order=ASC) for $25.00
 * Purchase from [CW Productions](https://shop.cwproductions.net/products/ordo-sanguinis-noctis-zakon-nocnej-krwi-lp) for $25.00
