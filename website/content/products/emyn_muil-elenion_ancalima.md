@@ -5,7 +5,7 @@ artist: Emyn Muil
 categories:
 - Vinyl
 - Cassette
-date: '2025-01-03T06:46:30'
+date: '2025-03-14T05:44:22'
 draft: false
 images:
 - /images/covers/emyn_muil-elenion_ancalima.jpg
@@ -19,4 +19,4 @@ title: Emyn Muil - Elenion Ancalima
 * Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/emyn-muil-elenion-ancalima-sea-blue-with-white-black-splatter-vinyl-lp-1) for $34.99 :: sea blue with white & black splatter vinyl lp
 ## Cassette
 * Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/emyn-muil-elenion-ancalima-pro-tape) for $8.50
-* Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/emyn-muil-elenion-ancalima-cassette-tape-uv-all-over-print-edition) for $12.00
+* Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/emyn-muil-elenion-ancalima-cassette-tape-uv-all-over-print-edition) for $11.99

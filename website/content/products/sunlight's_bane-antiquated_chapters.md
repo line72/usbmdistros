@@ -1,10 +1,10 @@
 ---
-actualPrice: $40.00
+actualPrice: $20.00
 album: Antiquated Chapters
 artist: Sunlight's Bane
 categories:
 - Cassette
-date: '2023-02-09T06:24:38'
+date: '2025-03-15T05:34:38'
 draft: false
 images:
 - /images/covers/sunlight's_bane-antiquated_chapters.jpg
@@ -14,4 +14,4 @@ title: Sunlight's Bane - Antiquated Chapters
 ---
 
 ## Cassette
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/sunlights-bane-antiquated-chapters-cassette) for $40.00 :: Black Shell 2017 press (#33/50)
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/sunlights-bane-antiquated-chapters-cassette) for $20.00 :: Black Shell 2017 press (#33/50)

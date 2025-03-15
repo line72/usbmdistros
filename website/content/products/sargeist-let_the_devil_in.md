@@ -1,11 +1,11 @@
 ---
-actualPrice: $12.00 - 25.00
+actualPrice: $12.00 - 27.00
 album: Let the Devil In
 artist: Sargeist
 categories:
 - Vinyl
 - Cassette
-date: '2024-12-13T06:02:43'
+date: '2025-03-11T05:40:48'
 draft: false
 images:
 - /images/covers/sargeist-let_the_devil_in.jpg
@@ -16,5 +16,6 @@ title: Sargeist - Let the Devil In
 
 ## Vinyl
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/sargeist-let-the-devil-in-12-lp) for $25.00
+* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/sargeist-let-the-devil-in-bloodred-vinyl-lp) for $27.00 :: bloodred vinyl lp
 ## Cassette
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/sargeist-let-the-devil-in-tape) for $12.00

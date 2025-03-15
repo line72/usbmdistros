@@ -1,11 +1,11 @@
 ---
-actualPrice: $17.00 - 28.00
+actualPrice: $17.00 - 29.00
 album: Agitators Of Hysteria
 artist: ArsGoatia
 categories:
 - Vinyl
 - CD
-date: '2025-02-13T06:37:14'
+date: '2025-03-13T05:33:44'
 draft: false
 images:
 - /images/covers/arsgoatia-agitators_of_hysteria.jpg
@@ -15,6 +15,6 @@ title: ArsGoatia - Agitators Of Hysteria
 ---
 
 ## Vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/arsgoatia-agitators-of-hysteria-lp) for $28.00 :: Color 2025 press vinyl
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/arsgoatia-agitators-of-hysteria-lp) for $29.00 :: Color 2025 press vinyl
 ## CD
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/arsgoatia-agitators-of-hysteria-cd) for $17.00 :: Digipak 2025

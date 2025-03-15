@@ -14,5 +14,4 @@ title: Blutumhang - Moonchants to Eternus
 ---
 
 ## Vinyl
-* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/blutumhang-moonchants-to-eternus-12-lp) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=59296&sort=pd.name&order=ASC) for $25.00
