@@ -1,5 +1,5 @@
 ---
-actualPrice: $42.00 - 49.00
+actualPrice: $49.00
 album: Ancient God of Evil
 artist: Unanimated
 categories:
@@ -15,4 +15,3 @@ title: Unanimated - Ancient God of Evil
 
 ## Vinyl
 * Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/nesi-rarity-unanimated-ancient-god-of-evil-ltd-100-black-red-gold-splatter-asian-market-exclusive) for $49.00 :: *numbered* ltd 100 black + red/gold splatter - asian market exclusive
-* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/nesi-unanimated-unanimated-ancient-god-of-evil-ltd-200-japan-version-white-vinyl-red-gold-spl-asian-market-exclusive) for $42.00 :: asian market exclusive

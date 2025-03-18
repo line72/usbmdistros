@@ -1,5 +1,5 @@
 ---
-actualPrice: $28.00 - 30.00
+actualPrice: $28.00
 album: Devils, Death and Dark Arts
 artist: Helleruin
 categories:
@@ -14,5 +14,4 @@ title: Helleruin - Devils, Death and Dark Arts
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=60545&sort=pd.name&order=ASC) for $30.00
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/helleruin-devils-death-and-dark-arts-12-lp) for $28.00
