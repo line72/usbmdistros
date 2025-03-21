@@ -4,7 +4,7 @@ album: Lumi Vaientaa Kysymykset
 artist: Circle of Ouroborus
 categories:
 - CD
-date: '2024-07-16T05:03:01'
+date: '2025-03-19T05:21:51'
 draft: false
 images:
 - /images/covers/circle_of_ouroborus-lumi_vaientaa_kysymykset.jpg
@@ -15,3 +15,4 @@ title: Circle of Ouroborus - Lumi Vaientaa Kysymykset
 
 ## CD
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/circle-of-ouroborus-lumi-vaientaa-kysymykset-cd) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=60862&sort=pd.name&order=ASC) for $15.00
