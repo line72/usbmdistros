@@ -21,4 +21,3 @@ title: Lamp of Murmuur - Saturnian Bloodstorm
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/lamp-of-murmuur-saturnian-bloodstorm-cassette) for $13.00 :: Cassette 2023
 ## CD
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/lamp-of-murmuur-saturnian-bloodstorm-cd) for $13.00
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/lamp-of-murmuur-saturnian-bloodstorm-cd) for $14.00 :: Jewel Case 2023

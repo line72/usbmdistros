@@ -4,7 +4,7 @@ album: In
 artist: Bloodbark
 categories:
 - Vinyl
-date: '2025-02-02T06:44:59'
+date: '2025-03-23T05:41:38'
 draft: false
 images:
 - /images/covers/bloodbark-in.jpg
@@ -14,4 +14,4 @@ title: Bloodbark - In
 ---
 
 ## Vinyl
-* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/bloodbark-bonebranches-blue-grey-color-in-color-vinyl-lp) for $32.99 :: blue/grey color-in-color vinyl lp
+* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/bloodbark-bonebranches-blue-grey-color-in-color-vinyl-lp-1) for $32.99 :: blue/grey color-in-color vinyl lp
