@@ -4,9 +4,8 @@ album: Saturnian Bloodstorm
 artist: Lamp of Murmuur
 categories:
 - Vinyl
-- Cassette
 - CD
-date: '2025-02-26T06:33:42'
+date: '2024-07-28T05:41:48'
 draft: false
 images:
 - /images/covers/lamp_of_murmuur-saturnian_bloodstorm.jpg
@@ -17,7 +16,5 @@ title: Lamp of Murmuur - Saturnian Bloodstorm
 
 ## Vinyl
 * Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/lamp-of-murmuur-saturnian-bloodstorm-12-vinyl-lp) for $35.00
-## Cassette
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/lamp-of-murmuur-saturnian-bloodstorm-cassette) for $13.00 :: Cassette 2023
 ## CD
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/lamp-of-murmuur-saturnian-bloodstorm-cd) for $13.00
