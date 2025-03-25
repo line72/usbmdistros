@@ -1,10 +1,11 @@
 ---
-actualPrice: $12.00
+actualPrice: $12.00 - 29.00
 album: Galgenbrok
 artist: Schavot
 categories:
+- Vinyl
 - Cassette
-date: '2025-03-02T06:23:22'
+date: '2025-03-25T05:56:13'
 draft: false
 images:
 - /images/covers/schavot-galgenbrok.jpg
@@ -13,5 +14,7 @@ thumbnailImage: /images/covers/schavot-galgenbrok-thumb.jpg
 title: Schavot - Galgenbrok
 ---
 
+## Vinyl
+* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/schavot-galgenbrok-green-yellow-black-splatter-vinyl-lp) for $29.00 :: green/yellow/black splatter vinyl lp
 ## Cassette
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=19662&sort=pd.name&order=ASC) for $12.00
