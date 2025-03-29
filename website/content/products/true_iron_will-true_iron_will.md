@@ -1,10 +1,9 @@
 ---
-actualPrice: $12.00 - 30.00
+actualPrice: $25.00 - 30.00
 album: True Iron Will
 artist: True Iron Will
 categories:
 - Vinyl
-- CD
 date: '2025-03-02T06:21:21'
 draft: false
 images:
@@ -17,5 +16,3 @@ title: True Iron Will - True Iron Will
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=49111&sort=pd.name&order=ASC) for $30.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=54829&sort=pd.name&order=ASC) for $25.00
-## CD
-* Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/true-iron-will-true-iron-will-cd) for $12.00

@@ -1,11 +1,10 @@
 ---
-actualPrice: $14.00 - 41.00
+actualPrice: $41.00
 album: Friendship, Love and War
 artist: Gudsforladt
 categories:
 - Vinyl
-- CD
-date: '2025-02-26T06:33:41'
+date: '2024-07-09T14:02:12'
 draft: false
 images:
 - /images/covers/gudsforladt-friendship,_love_and_war.jpg
@@ -16,5 +15,3 @@ title: Gudsforladt - Friendship, Love and War
 
 ## Vinyl
 * Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/gudsforladt-friendship-love-and-war-double-2lp-vinyl) for $41.00 :: double (2lp) vinyl + booklet
-## CD
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/gudsforladt-friendship-love-and-war-cd) for $14.00 :: Jewel Case 2023

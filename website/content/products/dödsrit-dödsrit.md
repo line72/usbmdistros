@@ -17,7 +17,6 @@ title: "D\xF6dsrit - D\xF6dsrit"
 
 ## Vinyl
 * Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/dodsrit-dodsrit-limited-smoke-vinyl-w-obi-strip-lp) for $34.00 :: limited smoke vinyl w/ obi strip lp
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/dodsrit-dodsrit-lp) for $26.00 :: Black 2024 press vinyl
 ## Cassette
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/dodsrit-dodsrit-cassette) for $13.00 :: Cassette 2024
 ## CD
