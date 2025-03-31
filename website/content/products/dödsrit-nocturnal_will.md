@@ -1,5 +1,5 @@
 ---
-actualPrice: $13.00 - 34.00
+actualPrice: $13.00 - 26.00
 album: Nocturnal Will
 artist: "D\xF6dsrit"
 categories:
@@ -16,7 +16,6 @@ title: "D\xF6dsrit - Nocturnal Will"
 ---
 
 ## Vinyl
-* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/dodsrit-nocturnal-will-limited-abysmal-purple-vinyl-w-obi-strip-lp) for $34.00 :: limited abysmal purple vinyl w/ obi strip lp
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/dodsrit-nocturnal-will-lp) for $26.00 :: Black 2024 press vinyl
 ## Cassette
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/dodsrit-nocturnal-will-cassette) for $13.00 :: Cassette 2024
