@@ -4,7 +4,7 @@ album: Bestial Abominator
 artist: Blasphamagoatachrist
 categories:
 - Vinyl
-date: '2025-03-17T05:23:28'
+date: '2025-04-01T05:19:47'
 draft: false
 images:
 - /images/covers/blasphamagoatachrist-bestial_abominator.png
@@ -14,5 +14,5 @@ title: Blasphamagoatachrist - Bestial Abominator
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=60821&sort=pd.name&order=ASC) for $25.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=60822&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=60948&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=60949&sort=pd.name&order=ASC) for $25.00
