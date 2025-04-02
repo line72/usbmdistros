@@ -1,5 +1,5 @@
 ---
-actualPrice: $10.00 - 27.00
+actualPrice: $27.00
 album: Vestiges of a Fallen Empire
 artist: Ages of Blood
 categories:
@@ -14,5 +14,4 @@ title: Ages of Blood - Vestiges of a Fallen Empire
 ---
 
 ## Vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/ages-of-blood-vestiges-of-a-fallen-empire-cassette) for $10.00 :: Cassette 2021
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=60693&sort=pd.name&order=ASC) for $27.00

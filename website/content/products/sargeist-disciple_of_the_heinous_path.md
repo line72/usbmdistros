@@ -15,5 +15,4 @@ title: Sargeist - Disciple of the Heinous Path
 
 ## Vinyl
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/sargeist-disciple-of-the-heinous-path-12-lp) for $25.00
-* Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/sargeist-disciple-of-the-heinous-path-12-lp-red/) for $25.00 :: gatefold lp
 * Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/sargeist-disciple-of-the-heinous-path-gatefold-bloodred-vinyl-lp) for $27.00 :: gatefold bloodred vinyl lp

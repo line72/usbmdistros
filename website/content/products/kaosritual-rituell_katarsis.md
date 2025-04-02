@@ -1,5 +1,5 @@
 ---
-actualPrice: $27.00 - 30.00
+actualPrice: $27.00
 album: Rituell Katarsis
 artist: Kaosritual
 categories:
@@ -15,4 +15,3 @@ title: Kaosritual - Rituell Katarsis
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=58555&sort=pd.name&order=ASC) for $27.00
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/kaosritual-rituell-katarsis-lp) for $30.00 :: Gold 2023 press vinyl
