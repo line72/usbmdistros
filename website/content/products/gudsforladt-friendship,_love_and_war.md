@@ -5,8 +5,7 @@ artist: Gudsforladt
 categories:
 - Vinyl
 - Cassette
-- CD
-date: '2025-04-01T05:03:04'
+date: '2025-04-01T05:02:50'
 draft: false
 images:
 - /images/covers/gudsforladt-friendship,_love_and_war.jpg
@@ -20,5 +19,3 @@ title: Gudsforladt - Friendship, Love and War
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/gudsforladt-friendship-love-and-war-2xlp) for $40.00
 ## Cassette
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/gudsforladt-friendship-love-and-war-tape) for $12.00
-## CD
-* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/gudsforladt-friendship-love-and-war-cd) for $13.00

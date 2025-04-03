@@ -1,10 +1,10 @@
 ---
-actualPrice: $9.99
+actualPrice: $35.00
 album: Accursed Possession
 artist: Cultus Profano
 categories:
-- CD
-date: '2024-07-09T13:21:01'
+- Vinyl
+date: '2025-02-04T06:38:54'
 draft: false
 images:
 - /images/covers/cultus_profano-accursed_possession.jpg
@@ -13,5 +13,5 @@ thumbnailImage: /images/covers/cultus_profano-accursed_possession-thumb.jpg
 title: Cultus Profano - Accursed Possession
 ---
 
-## CD
-* Purchase from [Debemur Morti](https://debemurmorti.aisamerch.com/item/91567) for $9.99
+## Vinyl
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/cultus-profano-accursed-possession) for $35.00 :: Blood Red Marbled 2020 press

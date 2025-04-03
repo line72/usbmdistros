@@ -1,5 +1,5 @@
 ---
-actualPrice: $35.99 - 38.99
+actualPrice: $38.99
 album: Death and the Black Work + Rex Ex Ordine Throni
 artist: Nightbringer
 categories:
@@ -14,5 +14,4 @@ title: Nightbringer - Death and the Black Work + Rex Ex Ordine Throni
 ---
 
 ## Vinyl
-* Purchase from [Debemur Morti](https://debemurmorti.aisamerch.com/item/137517) for $35.99
 * Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/nightbringer-death-and-the-black-work-rex-ex-ordine-throni-3xlp-ltd-galaxy-vinyl) for $38.99 :: 3xlp ltd galaxy vinyl
