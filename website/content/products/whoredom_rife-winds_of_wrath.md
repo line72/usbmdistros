@@ -15,7 +15,6 @@ title: Whoredom Rife - Winds of Wrath
 ---
 
 ## Vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/whoredom-rife-winds-of-wrath-lp) for $30.00 :: Black 2021 press vinyl
 * Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/whoredom-rife-winds-of-wrath-black-vinyl-lp-1) for $37.99 :: black vinyl lp
 ## CD
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/whoredom-rife-winds-of-wrath-cd) for $17.00 :: Digipak 2021

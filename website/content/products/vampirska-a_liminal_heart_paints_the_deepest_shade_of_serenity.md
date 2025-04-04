@@ -5,7 +5,8 @@ artist: Vampirska
 categories:
 - Vinyl
 - Cassette
-date: '2024-11-27T06:02:48'
+- CD
+date: '2025-01-08T06:02:31'
 draft: false
 images:
 - /images/covers/vampirska-a_liminal_heart_paints_the_deepest_shade_of_serenity.jpg
@@ -18,3 +19,5 @@ title: Vampirska - A Liminal Heart Paints The Deepest Shade Of Serenity
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/vampirska-a-liminal-heart-paints-the-deepest-shade-of-serenity-12-lp) for $35.00
 ## Cassette
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/vampirska-a-liminal-heart-paints-the-deepest-shade-of-serenity-tape) for $13.00
+## CD
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/vampirska-a-liminal-heart-paints-the-deepest-shade-of-serenity-cd) for $15.00

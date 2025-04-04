@@ -1,16 +1,16 @@
 ---
 actualPrice: $10.00
-album: Host of te Winged
+album: Host Of The Winged
 artist: Agrimonia
 categories:
 - CD
-date: '2025-03-02T06:21:43'
+date: '2025-04-04T05:21:38'
 draft: false
 images:
-- /images/covers/agrimonia-host_of_te_winged.jpg
+- /images/covers/agrimonia-host_of_the_winged.png
 inStock: true
-thumbnailImage: /images/covers/agrimonia-host_of_te_winged-thumb.jpg
-title: Agrimonia - Host of te Winged
+thumbnailImage: /images/covers/agrimonia-host_of_the_winged-thumb.png
+title: Agrimonia - Host Of The Winged
 ---
 
 ## CD
