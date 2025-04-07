@@ -1,9 +1,10 @@
 ---
-actualPrice: $24.00 - 27.00
+actualPrice: $13.00 - 27.00
 album: Blizzard Beasts
 artist: Immortal
 categories:
 - Vinyl
+- CD
 date: '2025-03-11T05:40:48'
 draft: false
 images:
@@ -19,3 +20,5 @@ title: Immortal - Blizzard Beasts
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=59643&sort=pd.name&order=ASC) for $25.00
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/immortal-blizzard-beasts-lp) for $27.00 :: Color 2024 press vinyl
 * Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/old-immortal-blizzard-beasts-lp-gatefold-laguna-blue-blue-green-white-black-vinyl-lp-copy) for $27.00 :: laguna blue vinyl lp
+## CD
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/immortal-blizzard-beasts-cd) for $13.00 :: Jewel Case 2024

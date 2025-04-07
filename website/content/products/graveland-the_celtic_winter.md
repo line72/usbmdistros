@@ -1,5 +1,5 @@
 ---
-actualPrice: $12.00 - 15.00
+actualPrice: $12.00 - 13.00
 album: The Celtic Winter
 artist: Graveland
 categories:
@@ -18,4 +18,3 @@ title: Graveland - The Celtic Winter
 * Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/graveland-the-celtic-winter-cassette/) for $13.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=56127&sort=pd.name&order=ASC) for $12.00
-* Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/graveland-the-celtic-winter-digipak-cd/) for $15.00

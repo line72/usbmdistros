@@ -4,7 +4,7 @@ album: Misanthropic Impulse
 artist: Yxxan
 categories:
 - Vinyl
-date: '2025-03-02T06:21:28'
+date: '2025-04-06T05:22:26'
 draft: false
 images:
 - /images/covers/yxxan-misanthropic_impulse.jpg
@@ -15,4 +15,4 @@ title: Yxxan - Misanthropic Impulse
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=44250&sort=pd.name&order=ASC) for $30.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=58565&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=60965&sort=pd.name&order=ASC) for $25.00

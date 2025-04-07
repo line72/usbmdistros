@@ -4,7 +4,7 @@ album: Shadow Play
 artist: Drudkh
 categories:
 - Vinyl
-date: '2025-03-26T05:20:40'
+date: '2025-04-06T05:21:24'
 draft: false
 images:
 - /images/covers/drudkh-shadow_play.png
@@ -14,4 +14,4 @@ title: Drudkh - Shadow Play
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=60923&sort=pd.name&order=ASC) for $35.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=60974&sort=pd.name&order=ASC) for $35.00

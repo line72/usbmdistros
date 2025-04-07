@@ -4,7 +4,7 @@ album: Atavismo
 artist: Invunche
 categories:
 - Cassette
-date: '2025-04-01T05:22:41'
+date: '2025-04-07T05:28:21'
 draft: false
 images:
 - /images/covers/invunche-atavismo.jpg
@@ -14,4 +14,4 @@ title: Invunche - Atavismo
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=60943&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=61011&sort=pd.name&order=ASC) for $12.00

@@ -8,7 +8,7 @@ artist: "\u041A\u0430\u043B\u0430\u043D\u0434\u0430\u0440"
 categories:
 - Vinyl
 - Cassette
-date: '2025-03-02T06:23:31'
+date: '2025-04-06T05:22:27'
 draft: false
 images:
 - "/images/covers/\u043A\u0430\u043B\u0430\u043D\u0434\u0430\u0440-\u043F\u043E_\u0442\
@@ -27,6 +27,6 @@ title: "\u041A\u0430\u043B\u0430\u043D\u0434\u0430\u0440 - \u041F\u043E \u0422\u
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=58718&sort=pd.name&order=ASC) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=60972&sort=pd.name&order=ASC) for $30.00
 ## Cassette
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=58754&sort=pd.name&order=ASC) for $15.00

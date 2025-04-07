@@ -4,7 +4,7 @@ album: Somberlain
 artist: Dissection
 categories:
 - CD
-date: '2025-03-02T06:22:00'
+date: '2025-04-06T05:23:00'
 draft: false
 images:
 - /images/covers/dissection-somberlain.jpg
@@ -14,4 +14,4 @@ title: Dissection - Somberlain
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=55616&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=60989&sort=pd.name&order=ASC) for $20.00

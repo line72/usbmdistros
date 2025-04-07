@@ -15,7 +15,6 @@ title: 'Whoredom Rife - Nid: Hymner Av'
 ---
 
 ## Vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/whoredom-rife-nid-hymner-av-hat-lp) for $30.00 :: Black 2021 press vinyl
 * Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/whoredom-rife-nid-hymner-av-hat-black-vinyl-lp-1) for $37.00 :: black vinyl lp
 ## CD
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/whoredom-rife-nid-hymner-av-hat-cd) for $17.00 :: Digipak 2018

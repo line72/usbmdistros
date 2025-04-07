@@ -1,5 +1,5 @@
 ---
-actualPrice: $26.00 - 27.00
+actualPrice: $26.00
 album: Tejashvi Akramakh Validaan
 artist: Vadhakarmadhikarin
 categories:
@@ -14,5 +14,4 @@ title: Vadhakarmadhikarin - Tejashvi Akramakh Validaan
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=60889&sort=pd.name&order=ASC) for $27.00
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/vadhakarmadhikarin-tejashvi-akramakh-validaan-12-lp) for $26.00
