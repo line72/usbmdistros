@@ -4,7 +4,7 @@ album: The Absence of Grace
 artist: Order of Nosferat
 categories:
 - Vinyl
-date: '2024-07-09T00:39:47'
+date: '2025-04-08T05:02:33'
 draft: false
 images:
 - /images/covers/order_of_nosferat-the_absence_of_grace.jpg
