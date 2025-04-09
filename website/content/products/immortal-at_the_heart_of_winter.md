@@ -1,5 +1,5 @@
 ---
-actualPrice: $22.00 - 27.00
+actualPrice: $27.00
 album: At The Heart Of Winter
 artist: Immortal
 categories:
@@ -14,5 +14,4 @@ title: Immortal - At The Heart Of Winter
 ---
 
 ## Vinyl
-* Purchase from [Sto'Vo'Kor Records](https://stovokor-records.com/products/immortal-at-the-heart-of-winter) for $22.00
 * Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/immortal-at-the-heart-of-winter-gatefold-galaxy-black-gold-vinyl-lp) for $27.00 :: gatefold galaxy (black/gold) vinyl lp

@@ -1,5 +1,5 @@
 ---
-actualPrice: $17.00 - 26.00
+actualPrice: $26.00
 album: Heldentod
 artist: Grabunhold
 categories:
@@ -14,6 +14,5 @@ title: Grabunhold - Heldentod
 ---
 
 ## Vinyl
-* Purchase from [Sto'Vo'Kor Records](https://stovokor-records.com/products/grabunhold-heldentod) for $17.00
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/grabunhold-heldentod) for $26.00 :: Black 1st press vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/grabunhold-heldentod) for $26.00 :: White 1st press vinyl

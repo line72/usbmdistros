@@ -14,5 +14,4 @@ title: Black Door - And the Spirit of Old Whispered Words of Amduat
 ---
 
 ## Vinyl
-* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/black-door-and-the-spirit-of-old-whispered-words-of-amduat-12-lp) for $25.00
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/black-door-and-the-spirit-of-old-whispered-words-of-amduat-lp) for $25.00 :: Black 2023 press vinyl
