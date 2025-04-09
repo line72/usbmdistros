@@ -1,5 +1,5 @@
 ---
-actualPrice: $20.00 - 25.00
+actualPrice: $20.00
 album: Necrosorcery
 artist: Necrosorcery
 categories:
@@ -14,5 +14,4 @@ title: Necrosorcery - Necrosorcery
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=58681&sort=pd.name&order=ASC) for $25.00
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/necrosorcery-necrosorcery-lp) for $20.00 :: Black 2024 press vinyl
