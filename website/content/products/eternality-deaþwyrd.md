@@ -1,10 +1,10 @@
 ---
-actualPrice: $30.00
+actualPrice: $27.00
 album: "Dea\xFEwyrd"
 artist: Eternality
 categories:
 - Vinyl
-date: '2025-03-02T06:20:32'
+date: '2024-07-09T00:40:01'
 draft: false
 images:
 - "/images/covers/eternality-dea\xFEwyrd.jpg"
@@ -14,4 +14,4 @@ title: "Eternality - Dea\xFEwyrd"
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=59060&sort=pd.name&order=ASC) for $30.00
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/eternality-deathwyrd-12-lp) for $27.00
