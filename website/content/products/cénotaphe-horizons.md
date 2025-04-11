@@ -1,9 +1,10 @@
 ---
-actualPrice: $15.00
+actualPrice: $9.00 - 15.00
 album: Horizons
 artist: "C\xE9notaphe"
 categories:
 - Vinyl
+- CD
 date: '2025-03-23T05:37:03'
 draft: false
 images:
@@ -15,3 +16,5 @@ title: "C\xE9notaphe - Horizons"
 
 ## Vinyl
 * Purchase from [CW Productions](https://shop.cwproductions.net/products/cenotaphe-horizons-lp) for $15.00
+## CD
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=58253&sort=pd.name&order=ASC) for $9.00

@@ -1,5 +1,5 @@
 ---
-actualPrice: $27.00
+actualPrice: $25.00 - 27.00
 album: "Allir Vegir Til Gl\xF6tunar"
 artist: "Na\xF0ra"
 categories:
@@ -14,4 +14,5 @@ title: "Na\xF0ra - Allir Vegir Til Gl\xF6tunar"
 ---
 
 ## Vinyl
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=60601&sort=pd.name&order=ASC) for $25.00
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/nadra-allir-vegir-til-glotunar-12-lp) for $27.00
