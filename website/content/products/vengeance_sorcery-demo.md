@@ -4,7 +4,7 @@ album: Demo
 artist: Vengeance Sorcery
 categories:
 - Cassette
-date: '2025-03-02T06:23:29'
+date: '2025-04-13T05:23:13'
 draft: false
 images:
 - /images/covers/vengeance_sorcery-demo.png
@@ -14,6 +14,6 @@ title: Vengeance Sorcery - Demo
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=45016&sort=pd.name&order=ASC) for $10.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=45018&sort=pd.name&order=ASC) for $10.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=45019&sort=pd.name&order=ASC) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=61150&sort=pd.name&order=ASC) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=61152&sort=pd.name&order=ASC) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=61153&sort=pd.name&order=ASC) for $10.00

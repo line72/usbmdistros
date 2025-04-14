@@ -1,11 +1,10 @@
 ---
-actualPrice: $13.00 - 26.00
+actualPrice: $13.00
 album: New Heaven
 artist: Inter Arma
 categories:
-- Vinyl
 - CD
-date: '2024-09-11T05:38:43'
+date: '2024-07-06T05:22:41'
 draft: false
 images:
 - /images/covers/inter_arma-new_heaven.jpg
@@ -14,7 +13,5 @@ thumbnailImage: /images/covers/inter_arma-new_heaven-thumb.jpg
 title: Inter Arma - New Heaven
 ---
 
-## Vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/inter-arma-new-heaven-lp) for $26.00 :: Electric Blue 2024 press
 ## CD
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/inter-arma-new-heaven-cd) for $13.00 :: Jewel Case 2024
