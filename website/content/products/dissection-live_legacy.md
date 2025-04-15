@@ -4,7 +4,7 @@ album: Live Legacy
 artist: Dissection
 categories:
 - CD
-date: '2025-03-02T06:22:00'
+date: '2025-04-15T05:22:00'
 draft: false
 images:
 - /images/covers/dissection-live_legacy.jpg
@@ -14,4 +14,4 @@ title: Dissection - Live Legacy
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=60499&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=61176&sort=pd.name&order=ASC) for $15.00
