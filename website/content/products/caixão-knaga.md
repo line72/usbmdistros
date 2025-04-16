@@ -4,7 +4,7 @@ album: Knaga
 artist: "Caix\xE3o"
 categories:
 - Cassette
-date: '2025-03-02T06:22:59'
+date: '2025-04-16T05:22:53'
 draft: false
 images:
 - "/images/covers/caix\xE3o-knaga.jpg"
@@ -14,4 +14,4 @@ title: "Caix\xE3o - Knaga"
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=59829&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=61195&sort=pd.name&order=ASC) for $12.00
