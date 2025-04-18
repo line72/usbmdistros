@@ -4,7 +4,7 @@ album: Eschaton Magicks
 artist: Nachash
 categories:
 - Vinyl
-date: '2025-04-08T05:02:22'
+date: '2025-04-18T05:02:18'
 draft: false
 images:
 - /images/covers/nachash-eschaton_magicks.png

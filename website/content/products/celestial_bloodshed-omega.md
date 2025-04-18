@@ -14,5 +14,4 @@ title: Celestial Bloodshed - Omega
 ---
 
 ## Vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/celestial-bloodshed-omega-lp) for $30.00 :: Black 2021 press vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=59195&sort=pd.name&order=ASC) for $30.00
