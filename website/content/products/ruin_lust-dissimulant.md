@@ -1,5 +1,5 @@
 ---
-actualPrice: $23.99
+actualPrice: $23.99 - 28.00
 album: Dissimulant
 artist: Ruin Lust
 categories:
@@ -14,4 +14,5 @@ title: Ruin Lust - Dissimulant
 ---
 
 ## Vinyl
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/ruin-lust-dissimulant-lp) for $28.00 :: Black/White Galaxy 2023 press
 * Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/ruin-lust-dissimulant-black-white-galaxy-vinyl-lp) for $23.99 :: black/white galaxy vinyl lp
