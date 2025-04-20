@@ -4,7 +4,7 @@ album: Verum Veterum
 artist: Striges
 categories:
 - Vinyl
-date: '2025-02-04T06:40:22'
+date: '2025-04-20T05:35:28'
 draft: false
 images:
 - /images/covers/striges-verum_veterum.jpg
@@ -14,4 +14,4 @@ title: Striges - Verum Veterum
 ---
 
 ## Vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/striges-verum-veterum) for $30.00 :: Numbered jacket /  Black 1st press vinyl
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/striges-verum-veterum) for $30.00 :: Black 2020 press vinyl

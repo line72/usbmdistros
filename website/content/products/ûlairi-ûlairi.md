@@ -1,5 +1,5 @@
 ---
-actualPrice: $25.00 - 29.99
+actualPrice: $29.99
 album: "\xDBlairi"
 artist: "\xDBlairi"
 categories:
@@ -14,5 +14,4 @@ title: "\xDBlairi - \xDBlairi"
 ---
 
 ## Vinyl
-* Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/ulairi-ulairi-vinyl-lp) for $25.00 :: (color)
 * Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/ulairi-ulairi-purple-vinyl-lp) for $29.99 :: purple vinyl lp
