@@ -15,7 +15,6 @@ title: Drudkh - Handful Of Stars
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=31354&sort=pd.name&order=ASC) for $25.00
 * Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/drudkh-handful-of-stars-ltd-to-300-crystal-clear-red-and-blue-marbled-vinyl-lp-1) for $35.00 :: ltd to 300 - crystal clear, red, and blue marbled vinyl lp
 ## CD
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/drudkh-handful-of-stars-cd) for $12.00 :: CD 2021

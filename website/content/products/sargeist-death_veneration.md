@@ -1,5 +1,5 @@
 ---
-actualPrice: $25.00 - 29.00
+actualPrice: $29.00
 album: Death Veneration
 artist: Sargeist
 categories:
@@ -14,5 +14,4 @@ title: Sargeist - Death Veneration
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=60022&sort=pd.name&order=ASC) for $25.00
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/sargeist-death-veneration-lp) for $29.00 :: Black 2020 press vinyl

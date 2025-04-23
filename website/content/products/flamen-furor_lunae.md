@@ -1,5 +1,5 @@
 ---
-actualPrice: $10.00 - 12.00
+actualPrice: $10.00
 album: Furor Lunae
 artist: Flamen
 categories:
@@ -14,5 +14,4 @@ title: Flamen - Furor Lunae
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=50248&sort=pd.name&order=ASC) for $12.00
 * Purchase from [CW Productions](https://shop.cwproductions.net/products/flamen-furor-lunae-cd) for $10.00
