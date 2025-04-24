@@ -1,10 +1,10 @@
 ---
-actualPrice: $26.00
+actualPrice: $20.00 - 26.00
 album: Defleshing the Serpent Infinity
 artist: Heresiarch / Antediluvian
 categories:
 - Vinyl
-date: '2025-02-04T06:40:22'
+date: '2025-03-02T06:20:40'
 draft: false
 images:
 - /images/covers/heresiarch_-_antediluvian-defleshing_the_serpent_infinity.jpg
@@ -15,3 +15,4 @@ title: Heresiarch / Antediluvian - Defleshing the Serpent Infinity
 
 ## Vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/heresiarch-antediluvian-defleshing-the-serpent-infinity) for $26.00 :: Black 1st press vinyl
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=50256&sort=pd.name&order=ASC) for $20.00
