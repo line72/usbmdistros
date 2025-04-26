@@ -4,7 +4,7 @@ album: Virgin Hearts
 artist: Valhalla Bound
 categories:
 - CD
-date: '2025-03-02T06:22:47'
+date: '2025-04-26T05:22:19'
 draft: false
 images:
 - /images/covers/valhalla_bound-virgin_hearts.jpg
@@ -14,4 +14,4 @@ title: Valhalla Bound - Virgin Hearts
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=50097&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=61269&sort=pd.name&order=ASC) for $12.00
