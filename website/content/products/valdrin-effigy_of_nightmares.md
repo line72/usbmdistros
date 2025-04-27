@@ -17,7 +17,6 @@ title: Valdrin - Effigy of Nightmares
 
 ## Vinyl
 * Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/valdrin-effigy-of-nightmares-vinyl-lp) for $27.00 :: vinyl lp
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/valdrin-effigy-of-nightmares-lp-1) for $23.00 :: Black 2020 press vinyl
 ## Cassette
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=9321&sort=pd.name&order=ASC) for $8.00
 ## CD
