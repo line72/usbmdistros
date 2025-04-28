@@ -1,10 +1,9 @@
 ---
-actualPrice: $9.99 - 34.99
+actualPrice: $34.99
 album: The Dreaming I
 artist: Akhlys
 categories:
 - Vinyl
-- CD
 date: '2024-07-09T14:02:00'
 draft: false
 images:
@@ -16,5 +15,3 @@ title: Akhlys - The Dreaming I
 
 ## Vinyl
 * Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/akhlys-the-dreaming-i-2lp-swamp-green-bone-merge-with-splatter-vinyl-dlp) for $34.99 :: 2lp swamp green / bone merge with splatter vinyl dlp
-## CD
-* Purchase from [Debemur Morti](https://debemurmorti.aisamerch.com/item/73299) for $9.99
