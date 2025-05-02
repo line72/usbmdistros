@@ -4,7 +4,7 @@ album: Blood, Vampyrism & Sadism
 artist: Diabolos Rising
 categories:
 - Vinyl
-date: '2025-03-10T05:25:04'
+date: '2025-04-30T05:16:10'
 draft: false
 images:
 - /images/covers/diabolos_rising-blood,_vampyrism_&_sadism.jpg
@@ -14,4 +14,4 @@ title: Diabolos Rising - Blood, Vampyrism & Sadism
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=60690&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=61305&sort=pd.name&order=ASC) for $25.00

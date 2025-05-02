@@ -1,10 +1,9 @@
 ---
-actualPrice: $12.00 - 30.00
+actualPrice: $13.00 - 30.00
 album: Legacies Of Frailty
 artist: Woe
 categories:
 - Vinyl
-- Cassette
 - CD
 date: '2024-08-05T05:44:35'
 draft: false
@@ -18,7 +17,5 @@ title: Woe - Legacies Of Frailty
 ## Vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/woe-legacies-of-frailty-lp) for $25.00 :: Black 2023 press vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/woe-legacies-of-frailty-lp) for $30.00 :: Marbled 2023 press vinyl
-## Cassette
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/woe-legacies-of-frailty-cassette-1) for $12.00 :: Cassette 2023
 ## CD
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/woe-legacies-of-frailty-cd-1) for $13.00 :: CD 2023
