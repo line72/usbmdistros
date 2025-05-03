@@ -14,5 +14,4 @@ title: Invunche - Elal Y Otros Mitos
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=60945&sort=pd.name&order=ASC) for $25.00
 * Purchase from [CW Productions](https://shop.cwproductions.net/products/invunche-elal-y-otros-mitos-lp) for $25.00
