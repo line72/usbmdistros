@@ -1,10 +1,10 @@
 ---
-actualPrice: $17.00
+actualPrice: $18.00
 album: Exuvia
 artist: The Ruins Of Beverast
 categories:
 - CD
-date: '2025-03-18T05:33:30'
+date: '2025-05-19T14:40:19'
 draft: false
 images:
 - /images/covers/the_ruins_of_beverast-exuvia.jpg
@@ -14,4 +14,4 @@ title: The Ruins Of Beverast - Exuvia
 ---
 
 ## CD
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/the-ruins-of-beverast-exuvia-cd) for $17.00 :: Digipak 2022
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/the-ruins-of-beverast-exuvia-cd) for $18.00 :: Digipak 2022

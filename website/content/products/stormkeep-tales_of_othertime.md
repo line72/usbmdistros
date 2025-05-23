@@ -1,10 +1,10 @@
 ---
-actualPrice: $17.00
+actualPrice: $19.00
 album: Tales Of Othertime
 artist: Stormkeep
 categories:
 - CD
-date: '2025-03-13T05:33:45'
+date: '2025-05-19T14:40:21'
 draft: false
 images:
 - /images/covers/stormkeep-tales_of_othertime.jpg
@@ -14,4 +14,4 @@ title: Stormkeep - Tales Of Othertime
 ---
 
 ## CD
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/stormkeep-tales-of-othertime-cd) for $17.00 :: CD 2022 press
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/stormkeep-tales-of-othertime-cd) for $19.00 :: Jewel Case 2023

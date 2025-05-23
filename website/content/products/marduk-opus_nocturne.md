@@ -1,10 +1,10 @@
 ---
-actualPrice: $20.00 - 27.00
+actualPrice: $20.00 - 28.99
 album: Opus Nocturne
 artist: Marduk
 categories:
 - Vinyl
-date: '2025-01-03T06:37:43'
+date: '2025-05-19T14:49:22'
 draft: false
 images:
 - /images/covers/marduk-opus_nocturne.jpg
@@ -16,4 +16,6 @@ title: Marduk - Opus Nocturne
 ## Vinyl
 * Purchase from [Sto'Vo'Kor Records](https://stovokor-records.com/products/marduk-opus-nocturne) for $26.00
 * Purchase from [Sto'Vo'Kor Records](https://stovokor-records.com/products/marduk-opus-nocturne-2022-black) for $20.00
+* Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/marduk-opus-nocturne-12-gatefold-lp-splatter/) for $25.00 :: gatefold lp splatter
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/marduk-opus-nocturne-lp) for $27.00 :: Green w/ Splatter 2024 press
+* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/marduk-opus-nocturne-green-black-splatter-vinyl-lp) for $28.99 :: green/black splatter vinyl lp

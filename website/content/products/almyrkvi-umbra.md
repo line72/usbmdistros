@@ -1,10 +1,10 @@
 ---
-actualPrice: $26.00
+actualPrice: $28.00
 album: Umbra
 artist: Almyrkvi
 categories:
 - Vinyl
-date: '2025-03-13T05:33:45'
+date: '2025-05-19T14:40:21'
 draft: false
 images:
 - /images/covers/almyrkvi-umbra.png
@@ -14,4 +14,4 @@ title: Almyrkvi - Umbra
 ---
 
 ## Vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/almyrkvi-umbra-lp) for $26.00 :: Dark Blue 1st press vinyl
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/almyrkvi-umbra-lp) for $28.00 :: Dark Blue 1st press vinyl

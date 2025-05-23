@@ -1,10 +1,10 @@
 ---
-actualPrice: $39.99
+actualPrice: $42.99
 album: Oxblood/Black
 artist: Akhlys
 categories:
 - Vinyl
-date: '2024-09-03T05:46:19'
+date: '2025-05-19T14:49:21'
 draft: false
 images:
 - /images/covers/akhlys-oxblood-black.jpg
@@ -14,4 +14,4 @@ title: Akhlys - Oxblood/Black
 ---
 
 ## Vinyl
-* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/akhlys-house-of-the-black-geminus-oxblood-black-galaxy-vinyl-lp) for $39.99 :: oxblood/black galaxy vinyl lp
+* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/akhlys-house-of-the-black-geminus-oxblood-black-galaxy-vinyl-lp-1) for $42.99 :: oxblood/black galaxy vinyl lp
