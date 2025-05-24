@@ -1,10 +1,10 @@
 ---
-actualPrice: $29.00
+actualPrice: $12.00
 album: Labascation
 artist: Carcinoma
 categories:
-- Vinyl
-date: '2024-07-06T05:23:49'
+- Cassette
+date: '2025-03-02T06:22:59'
 draft: false
 images:
 - /images/covers/carcinoma-labascation.png
@@ -13,5 +13,5 @@ thumbnailImage: /images/covers/carcinoma-labascation-thumb.png
 title: Carcinoma - Labascation
 ---
 
-## Vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/carcinoma-labascation-lp) for $29.00 :: Putrid Green 2022 press vinyl
+## Cassette
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=15544&sort=pd.name&order=ASC) for $12.00

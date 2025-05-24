@@ -1,10 +1,10 @@
 ---
-actualPrice: $30.00
+actualPrice: $28.00
 album: Vinterrikets Konge
 artist: Skuggeheim
 categories:
 - Vinyl
-date: '2025-05-19T14:40:20'
+date: '2025-03-02T06:21:12'
 draft: false
 images:
 - /images/covers/skuggeheim-vinterrikets_konge.jpg
@@ -14,4 +14,4 @@ title: Skuggeheim - Vinterrikets Konge
 ---
 
 ## Vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/skuggeheim-vinterrikets-konge-lp) for $30.00 :: Silver 2023 press vinyl
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=53632&sort=pd.name&order=ASC) for $28.00

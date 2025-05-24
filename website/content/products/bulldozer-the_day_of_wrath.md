@@ -1,5 +1,5 @@
 ---
-actualPrice: $10.00
+actualPrice: $10.00 - 12.00
 album: The Day of Wrath
 artist: Bulldozer
 categories:
@@ -14,4 +14,5 @@ title: Bulldozer - The Day of Wrath
 ---
 
 ## CD
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=60260&sort=pd.name&order=ASC) for $12.00
 * Purchase from [CW Productions](https://shop.cwproductions.net/products/bulldozer-the-day-of-wrath-cd) for $10.00

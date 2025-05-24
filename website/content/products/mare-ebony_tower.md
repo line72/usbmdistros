@@ -1,10 +1,10 @@
 ---
-actualPrice: $19.00
+actualPrice: $15.00
 album: Ebony Tower
 artist: Mare
 categories:
-- CD
-date: '2025-05-19T14:40:19'
+- Cassette
+date: '2025-03-02T06:23:13'
 draft: false
 images:
 - /images/covers/mare-ebony_tower.jpg
@@ -13,5 +13,5 @@ thumbnailImage: /images/covers/mare-ebony_tower-thumb.jpg
 title: Mare - Ebony Tower
 ---
 
-## CD
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/mare-ebony-tower-cd) for $19.00 :: Digipak 2020
+## Cassette
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=57054&sort=pd.name&order=ASC) for $15.00

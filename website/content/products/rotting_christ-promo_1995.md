@@ -1,10 +1,10 @@
 ---
-actualPrice: $29.99
+actualPrice: $25.00 - 29.99
 album: Promo 1995
 artist: Rotting Christ
 categories:
 - Vinyl
-date: '2024-12-15T06:42:52'
+date: '2025-03-02T06:21:07'
 draft: false
 images:
 - /images/covers/rotting_christ-promo_1995.jpg
@@ -15,3 +15,4 @@ title: Rotting Christ - Promo 1995
 
 ## Vinyl
 * Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/rotting-christ-promo-1995-milky-clear-with-black-and-transparent-red-splatter-vinyl-lp) for $29.99 :: promo 1995 - milky clear with black and transparent red splatter vinyl lp
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=58872&sort=pd.name&order=ASC) for $25.00
