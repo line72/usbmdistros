@@ -1,5 +1,5 @@
 ---
-actualPrice: $25.00
+actualPrice: $23.00 - 25.00
 album: Demo 2020
 artist: Durazis
 categories:
@@ -14,4 +14,5 @@ title: Durazis - Demo 2020
 ---
 
 ## Vinyl
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/durazis-demo-2020-lp) for $23.00 :: Black 1st press vinyl
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/durazis-demo-2020-12-lp) for $25.00

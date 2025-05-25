@@ -1,5 +1,5 @@
 ---
-actualPrice: $15.00 - 20.00
+actualPrice: $20.00
 album: The Unheavenly Saviour
 artist: Funeral Winds
 categories:
@@ -15,4 +15,3 @@ title: Funeral Winds - The Unheavenly Saviour
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=53999&sort=pd.name&order=ASC) for $20.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=59427&sort=pd.name&order=ASC) for $15.00

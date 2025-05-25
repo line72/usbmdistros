@@ -1,5 +1,5 @@
 ---
-actualPrice: $27.00
+actualPrice: $25.00 - 27.00
 album: Hemasanctum
 artist: The Mosaic Window
 categories:
@@ -14,4 +14,5 @@ title: The Mosaic Window - Hemasanctum
 ---
 
 ## Vinyl
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/the-mosaic-window-hemasanctum-lp) for $25.00 :: Color 2024 press vinyl
 * Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/the-mosaic-window-hemasanctum-splatter-vinyl-lp) for $27.00 :: splatter vinyl lp
