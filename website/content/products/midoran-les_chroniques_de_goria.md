@@ -1,5 +1,5 @@
 ---
-actualPrice: $35.00 - 45.99
+actualPrice: $45.99
 album: Les Chroniques de Goria
 artist: Midoran
 categories:
@@ -14,5 +14,4 @@ title: Midoran - Les Chroniques de Goria
 ---
 
 ## Vinyl
-* Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/midoran-les-chroniques-de-goria-vinyl-2xlp-color-gatefold) for $35.00 :: (color, gatefold)
 * Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/midoran-les-chroniques-de-goria-2lp-special-edition-vinyl-lp) for $45.99 :: 2lp special edition vinyl lp
