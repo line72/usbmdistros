@@ -4,7 +4,7 @@ album: Scimitarium I
 artist: Scimitar
 categories:
 - Vinyl
-date: '2025-04-19T05:44:44'
+date: '2025-05-29T05:43:59'
 draft: false
 images:
 - /images/covers/scimitar-scimitarium_i.png
@@ -14,4 +14,4 @@ title: Scimitar - Scimitarium I
 ---
 
 ## Vinyl
-* Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/scimitar-scimitarium-i-vinyl-lp-color-w-insert-lim-200) for $29.99 :: (w/obi & insert, gold, lim.200)
+* Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/scimitar-scimitarium-i-vinyl-lp-color-w-insert-lim-200) for $29.99 :: (2 color options, w/ insert)

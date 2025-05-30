@@ -5,7 +5,7 @@ artist: Nightbringer
 categories:
 - Vinyl
 - CD
-date: '2025-03-14T05:22:11'
+date: '2025-05-27T05:21:35'
 draft: false
 images:
 - /images/covers/nightbringer-apocalypse_sun.jpg
@@ -15,6 +15,6 @@ title: Nightbringer - Apocalypse Sun
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=60811&sort=pd.name&order=ASC) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=61746&sort=pd.name&order=ASC) for $30.00
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=60810&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=61745&sort=pd.name&order=ASC) for $12.00

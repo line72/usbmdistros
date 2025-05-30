@@ -4,7 +4,7 @@ album: As The Wolves Gather
 artist: Forgotten Woods
 categories:
 - Vinyl
-date: '2025-05-24T05:19:40'
+date: '2025-05-27T05:19:32'
 draft: false
 images:
 - /images/covers/forgotten_woods-as_the_wolves_gather.png
@@ -15,4 +15,4 @@ title: Forgotten Woods - As The Wolves Gather
 
 ## Vinyl
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/forgotten-woods-as-the-wolves-gather-12-lp) for $30.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=61621&sort=pd.name&order=ASC) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=61738&sort=pd.name&order=ASC) for $30.00

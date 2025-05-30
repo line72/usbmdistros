@@ -4,7 +4,7 @@ album: Thrash Invasion
 artist: Warhate
 categories:
 - Vinyl
-date: '2025-03-02T06:21:26'
+date: '2025-05-27T05:20:28'
 draft: false
 images:
 - /images/covers/warhate-thrash_invasion.jpg
@@ -14,4 +14,4 @@ title: Warhate - Thrash Invasion
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=52228&sort=pd.name&order=ASC) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=61744&sort=pd.name&order=ASC) for $30.00

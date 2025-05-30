@@ -4,7 +4,7 @@ album: Asateerul Awaleen
 artist: Impiety
 categories:
 - CD
-date: '2025-05-19T14:26:32'
+date: '2025-05-27T05:21:20'
 draft: false
 images:
 - /images/covers/impiety-asateerul_awaleen.jpg
@@ -14,4 +14,4 @@ title: Impiety - Asateerul Awaleen
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=61418&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=61700&sort=pd.name&order=ASC) for $15.00

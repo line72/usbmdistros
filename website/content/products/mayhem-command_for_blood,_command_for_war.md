@@ -4,7 +4,7 @@ album: Command For Blood, Command For War
 artist: Mayhem
 categories:
 - Vinyl
-date: '2025-03-14T05:20:36'
+date: '2025-05-27T05:19:52'
 draft: false
 images:
 - /images/covers/mayhem-command_for_blood,_command_for_war.png
@@ -14,4 +14,4 @@ title: Mayhem - Command For Blood, Command For War
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=60777&sort=pd.name&order=ASC) for $40.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=61698&sort=pd.name&order=ASC) for $40.00

@@ -5,7 +5,7 @@ artist: Kataxu
 categories:
 - Vinyl
 - CD
-date: '2025-03-02T06:22:16'
+date: '2025-05-27T05:21:25'
 draft: false
 images:
 - /images/covers/kataxu-hunger_of_elements.jpg
@@ -15,6 +15,6 @@ title: Kataxu - Hunger of Elements
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=60372&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=61723&sort=pd.name&order=ASC) for $25.00
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=60371&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=61722&sort=pd.name&order=ASC) for $12.00

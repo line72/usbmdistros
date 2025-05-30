@@ -4,7 +4,7 @@ album: Climax of Disgusting Impurities
 artist: Abhorrency
 categories:
 - Cassette
-date: '2025-03-02T06:22:53'
+date: '2025-05-27T05:22:04'
 draft: false
 images:
 - /images/covers/abhorrency-climax_of_disgusting_impurities.jpg
@@ -14,4 +14,4 @@ title: Abhorrency - Climax of Disgusting Impurities
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=54551&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=61702&sort=pd.name&order=ASC) for $12.00
