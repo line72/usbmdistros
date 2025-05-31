@@ -14,5 +14,4 @@ title: Ossaert - Pelgrimsoord
 ---
 
 ## Vinyl
-* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/ossaert-pelgrimsoord-12-lp) for $25.00
 * Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/ossaert-pelgrimsoord-limited-smoke-vinyl-lp) for $25.00 :: limited smoke vinyl lp

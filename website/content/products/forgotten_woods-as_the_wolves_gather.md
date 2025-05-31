@@ -14,5 +14,4 @@ title: Forgotten Woods - As The Wolves Gather
 ---
 
 ## Vinyl
-* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/forgotten-woods-as-the-wolves-gather-12-lp) for $30.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=61738&sort=pd.name&order=ASC) for $30.00

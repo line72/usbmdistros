@@ -1,5 +1,5 @@
 ---
-actualPrice: $25.00 - 30.00
+actualPrice: $30.00
 album: Biochemterrorism
 artist: Goatpenis
 categories:
@@ -14,5 +14,4 @@ title: Goatpenis - Biochemterrorism
 ---
 
 ## Vinyl
-* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/goatpenis-biochemterrorism-12-lp) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=61572&sort=pd.name&order=ASC) for $30.00
