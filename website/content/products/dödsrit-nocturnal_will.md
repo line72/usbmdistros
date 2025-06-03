@@ -1,5 +1,5 @@
 ---
-actualPrice: $31.99
+actualPrice: $28.00 - 31.99
 album: Nocturnal Will
 artist: "D\xF6dsrit"
 categories:
@@ -14,4 +14,5 @@ title: "D\xF6dsrit - Nocturnal Will"
 ---
 
 ## Vinyl
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/dodsrit-nocturnal-will-12-lp) for $28.00
 * Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/dodsrit-nocturnal-will-black-vinyl-lp) for $31.99 :: black vinyl lp

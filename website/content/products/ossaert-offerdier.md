@@ -16,5 +16,6 @@ title: Ossaert - Offerdier
 
 ## Vinyl
 * Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/ossaert-offerdier-limited-black-vinyl-lp) for $25.00 :: limited black vinyl lp
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/ossaert-offerdier-12) for $25.00
 ## CD
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/ossaert-offerdier-cd) for $13.00 :: Jewel Case 2024
