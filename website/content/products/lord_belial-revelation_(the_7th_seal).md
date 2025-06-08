@@ -4,7 +4,7 @@ album: Revelation (The 7th Seal)
 artist: Lord Belial
 categories:
 - Vinyl
-date: '2025-03-02T06:20:49'
+date: '2025-06-04T05:19:37'
 draft: false
 images:
 - /images/covers/lord_belial-revelation_(the_7th_seal).jpg
@@ -14,4 +14,4 @@ title: Lord Belial - Revelation (The 7th Seal)
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=35855&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=61832&sort=pd.name&order=ASC) for $25.00
