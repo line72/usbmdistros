@@ -4,7 +4,7 @@ album: Chapel Defilement
 artist: Naked Whipper
 categories:
 - CD
-date: '2025-05-26T05:27:41'
+date: '2025-06-10T05:20:28'
 draft: false
 images:
 - /images/covers/naked_whipper-chapel_defilement.jpg
@@ -14,4 +14,4 @@ title: Naked Whipper - Chapel Defilement
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=61663&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=61919&sort=pd.name&order=ASC) for $12.00
