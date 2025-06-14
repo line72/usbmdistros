@@ -14,5 +14,4 @@ title: "Wagner \xD6deg\xE5rd - Ur T\xF6rnedjupen"
 ---
 
 ## Vinyl
-* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/wagner-odegard-ur-tornedjupen-12-lp) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=60002&sort=pd.name&order=ASC) for $25.00

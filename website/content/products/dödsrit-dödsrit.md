@@ -5,7 +5,6 @@ artist: "D\xF6dsrit"
 categories:
 - Vinyl
 - Cassette
-- CD
 date: '2025-04-06T05:43:06'
 draft: false
 images:
@@ -19,5 +18,3 @@ title: "D\xF6dsrit - D\xF6dsrit"
 * Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/dodsrit-dodsrit-limited-smoke-vinyl-w-obi-strip-lp-1) for $34.99 :: limited smoke vinyl w/ obi strip lp
 ## Cassette
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/dodsrit-dodsrit-cassette) for $13.00 :: Cassette 2024
-## CD
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/dodsrit-dodsrit-cd) for $14.00 :: Jewel Case 2024

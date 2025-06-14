@@ -1,5 +1,5 @@
 ---
-actualPrice: $25.00 - 26.00
+actualPrice: $25.00
 album: Crestfallen Stronghold
 artist: Nihil Invocation
 categories:
@@ -14,5 +14,4 @@ title: Nihil Invocation - Crestfallen Stronghold
 ---
 
 ## Vinyl
-* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/nihil-invocation-crestfallen-stronghold-12-lp) for $26.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=58634&sort=pd.name&order=ASC) for $25.00
