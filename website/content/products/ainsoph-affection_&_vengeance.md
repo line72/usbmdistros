@@ -15,6 +15,7 @@ title: Ainsoph - Affection & Vengeance
 ---
 
 ## Vinyl
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/ainsoph-affection-vengeance-12-lp) for $28.00
 * Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/ainsoph-affection-vengeance-red-smoke-w-obi-strip-vinyl-lp) for $34.00 :: red/smoke w/ obi strip vinyl lp
 ## Cassette
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/ainsoph-affection-vengeance-cassette) for $13.00 :: Cassette 2025

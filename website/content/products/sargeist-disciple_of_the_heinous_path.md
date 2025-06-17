@@ -1,10 +1,11 @@
 ---
-actualPrice: $27.00
+actualPrice: $15.00 - 27.00
 album: Disciple of the Heinous Path
 artist: Sargeist
 categories:
 - Vinyl
-date: '2025-03-11T05:40:48'
+- CD
+date: '2025-06-17T05:17:49'
 draft: false
 images:
 - /images/covers/sargeist-disciple_of_the_heinous_path.jpg
@@ -14,4 +15,7 @@ title: Sargeist - Disciple of the Heinous Path
 ---
 
 ## Vinyl
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/sargeist-disciple-of-the-heinous-path-12-lp) for $25.00
 * Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/sargeist-disciple-of-the-heinous-path-gatefold-bloodred-vinyl-lp) for $27.00 :: gatefold bloodred vinyl lp
+## CD
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=62007&sort=pd.name&order=ASC) for $15.00

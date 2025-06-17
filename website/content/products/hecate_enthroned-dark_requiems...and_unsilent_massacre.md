@@ -1,5 +1,5 @@
 ---
-actualPrice: $35.00
+actualPrice: $35.00 - 37.00
 album: Dark Requiems...And Unsilent Massacre
 artist: Hecate Enthroned
 categories:
@@ -14,4 +14,5 @@ title: Hecate Enthroned - Dark Requiems...And Unsilent Massacre
 ---
 
 ## Vinyl
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/hecate-enthroned-dark-requiems-and-unsilent-massacre-12-lp) for $37.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=61970&sort=pd.name&order=ASC) for $35.00

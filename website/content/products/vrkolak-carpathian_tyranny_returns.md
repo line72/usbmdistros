@@ -14,4 +14,5 @@ title: Vrkolak - Carpathian Tyranny Returns
 ---
 
 ## Vinyl
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/vrkolak-carpathian-tyranny-returns-12-lp) for $27.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=56741&sort=pd.name&order=ASC) for $27.00

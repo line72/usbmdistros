@@ -15,6 +15,7 @@ title: Wulkanaz - HaglaNaudizEisaz
 ---
 
 ## Vinyl
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/wulkanaz-haglanaudizeisaz-12-lp) for $27.00
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/wulkanaz-haglanaudizeisaz) for $28.00 :: Black 2020 press vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=59718&sort=pd.name&order=ASC) for $27.00
 ## CD

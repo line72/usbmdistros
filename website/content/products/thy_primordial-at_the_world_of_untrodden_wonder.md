@@ -14,4 +14,5 @@ title: Thy Primordial - At The World Of Untrodden Wonder
 ---
 
 ## Vinyl
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/thy-primordial-at-the-world-of-untrodden-wonder-12-lp) for $35.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=61967&sort=pd.name&order=ASC) for $35.00

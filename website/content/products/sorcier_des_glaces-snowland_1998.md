@@ -1,5 +1,5 @@
 ---
-actualPrice: $27.00
+actualPrice: $25.00 - 27.00
 album: Snowland 1998
 artist: Sorcier des Glaces
 categories:
@@ -14,4 +14,5 @@ title: Sorcier des Glaces - Snowland 1998
 ---
 
 ## Vinyl
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/sorcier-des-glaces-snowland-1998-12-lp) for $25.00
 * Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/sorcier-des-glaces-snowland-mmxii-limited-marble-vinyl-lp-1) for $27.00 :: limited marble vinyl lp
