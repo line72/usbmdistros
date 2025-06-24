@@ -1,5 +1,5 @@
 ---
-actualPrice: $32.99 - 34.99
+actualPrice: $34.99
 album: The Seven Seals Of Apocalypse
 artist: "\u03A7\u03BE\u03C2"
 categories:
@@ -14,5 +14,4 @@ title: "\u03A7\u03BE\u03C2 - The Seven Seals Of Apocalypse"
 ---
 
 ## Vinyl
-* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/χξσ-sakis-tolis-the-seven-seals-of-apocalypse-splatter-vinyl-lp) for $32.99 :: splatter vinyl lp
 * Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/χξσ-sakis-tolis-the-seven-seals-of-apocalypse-galaxy-gatefold-vinyl-lp) for $34.99 :: galaxy gatefold vinyl lp

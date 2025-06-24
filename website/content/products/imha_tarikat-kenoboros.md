@@ -1,5 +1,5 @@
 ---
-actualPrice: $25.00 - 35.00
+actualPrice: $35.00
 album: Kenoboros
 artist: Imha Tarikat
 categories:
@@ -15,4 +15,3 @@ title: Imha Tarikat - Kenoboros
 
 ## Vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/imha-tarikat-kenoboros) for $35.00 :: Black 1st press vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/blemish-imha-tarikat-kenoboros-12) for $25.00 :: Black 1st press vinyl

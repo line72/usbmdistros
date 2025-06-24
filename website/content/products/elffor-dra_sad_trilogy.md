@@ -1,5 +1,5 @@
 ---
-actualPrice: $75.00 - 97.99
+actualPrice: $97.99
 album: Dra Sad Trilogy
 artist: Elffor
 categories:
@@ -14,5 +14,4 @@ title: Elffor - Dra Sad Trilogy
 ---
 
 ## Vinyl
-* Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/elffor-dra-sad-trilogy-vinyl-3xlp-boxset) for $75.00 :: 2 options)
 * Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/elffor-dra-sad-trilogy-marbled-vinyl-lp) for $97.99

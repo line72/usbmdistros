@@ -1,5 +1,5 @@
 ---
-actualPrice: $25.00 - 29.99
+actualPrice: $25.00
 album: Epitome Of Illusions
 artist: Limbonic Art
 categories:
@@ -14,5 +14,4 @@ title: Limbonic Art - Epitome Of Illusions
 ---
 
 ## Vinyl
-* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/limbonic-art-epitome-of-illusions-blue-in-milky-clear-color-vinyl-lp-1) for $29.99 :: blue in milky clear color vinyl lp
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=58996&sort=pd.name&order=ASC) for $25.00
