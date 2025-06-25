@@ -4,7 +4,7 @@ album: "Syvyyden Yll\xE4"
 artist: Kiira
 categories:
 - Vinyl
-date: '2025-05-19T14:03:36'
+date: '2025-06-25T05:01:57'
 draft: false
 images:
 - "/images/covers/kiira-syvyyden_yll\xE4.png"
