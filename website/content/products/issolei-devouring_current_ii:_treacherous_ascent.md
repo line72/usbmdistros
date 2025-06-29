@@ -1,10 +1,11 @@
 ---
-actualPrice: $27.00
+actualPrice: $19.00 - 27.00
 album: 'Devouring Current II: Treacherous Ascent'
 artist: Issolei
 categories:
 - Vinyl
-date: '2025-03-02T06:20:43'
+- CD
+date: '2025-05-19T14:40:19'
 draft: false
 images:
 - /images/covers/issolei-devouring_current_ii:_treacherous_ascent.jpg
@@ -15,3 +16,5 @@ title: 'Issolei - Devouring Current II: Treacherous Ascent'
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=58264&sort=pd.name&order=ASC) for $27.00
+## CD
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/issolei-devouring-current-ii-treacherous-ascent-cd) for $19.00 :: Digipak 2021

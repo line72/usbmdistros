@@ -21,3 +21,4 @@ title: Valdrin - Effigy of Nightmares
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=9321&sort=pd.name&order=ASC) for $8.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=55971&sort=pd.name&order=ASC) for $12.00
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/valdrin-effigy-of-nightmares-cd) for $14.00 :: Jewel Case 2024

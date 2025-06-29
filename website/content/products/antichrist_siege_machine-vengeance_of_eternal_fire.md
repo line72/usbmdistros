@@ -1,5 +1,5 @@
 ---
-actualPrice: $29.00
+actualPrice: $27.00 - 29.00
 album: Vengeance Of Eternal Fire
 artist: Antichrist Siege Machine
 categories:
@@ -14,4 +14,5 @@ title: Antichrist Siege Machine - Vengeance Of Eternal Fire
 ---
 
 ## Vinyl
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/antichrist-siege-machine-vengeance-of-eternal-fire-lp) for $27.00 :: Black 2024 press vinyl
 * Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/antichrist-siege-machine-vengeance-of-eternal-fire-blood-cloud-vinyl-lp) for $29.00 :: blood cloud vinyl lp

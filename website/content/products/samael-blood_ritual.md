@@ -5,7 +5,7 @@ artist: Samael
 categories:
 - Vinyl
 - CD
-date: '2025-05-19T14:49:21'
+date: '2025-06-29T05:22:39'
 draft: false
 images:
 - /images/covers/samael-blood_ritual.jpg
@@ -18,4 +18,4 @@ title: Samael - Blood Ritual
 * Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/samael-blood-ritual-vinyl-lp-color-lim500) for $30.00 :: (color, lim.500)
 * Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/samael-blood-ritual-ltd-galaxy-vinyl-lp) for $31.00 :: ltd galaxy vinyl lp
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=60985&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=62205&sort=pd.name&order=ASC) for $15.00

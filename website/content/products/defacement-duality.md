@@ -1,5 +1,5 @@
 ---
-actualPrice: $25.99
+actualPrice: $25.99 - 26.00
 album: Duality
 artist: Defacement
 categories:
@@ -14,4 +14,5 @@ title: Defacement - Duality
 ---
 
 ## Vinyl
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/defacement-duality-lp) for $26.00 :: Color 2024 press vinyl
 * Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/defacement-duality-blue-white-color-merge-vinyl-lp-1) for $25.99 :: blue/white color merge vinyl lp

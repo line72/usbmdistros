@@ -6,7 +6,7 @@ categories:
 - Vinyl
 - Cassette
 - CD
-date: '2024-11-27T06:03:03'
+date: '2025-06-29T05:02:25'
 draft: false
 images:
 - /images/covers/wampyric_rites-summoning_the_beasts_in_the_night_of_lycanthropic_moon.jpg

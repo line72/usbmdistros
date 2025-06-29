@@ -6,7 +6,7 @@ categories:
 - Vinyl
 - Cassette
 - CD
-date: '2025-03-02T06:23:20'
+date: '2025-06-29T05:23:24'
 draft: false
 images:
 - /images/covers/rotting_christ-thy_mighty_contract.jpg
@@ -18,6 +18,6 @@ title: Rotting Christ - Thy Mighty Contract
 ## Vinyl
 * Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/rotting-christ-thy-mighty-contract-limited-double-red-black-vinyl-dlp-1) for $41.99 :: limited double red/black vinyl dlp
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=57604&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=62219&sort=pd.name&order=ASC) for $15.00
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=57607&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=62218&sort=pd.name&order=ASC) for $15.00
