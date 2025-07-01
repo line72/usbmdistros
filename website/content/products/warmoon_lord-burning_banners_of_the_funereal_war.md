@@ -16,4 +16,3 @@ title: Warmoon Lord - Burning Banners Of The Funereal War
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=42420&sort=pd.name&order=ASC) for $15.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=42421&sort=pd.name&order=ASC) for $15.00
-* Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/warmoon-lord-burning-banners-of-the-funereal-war-cd/) for $15.00
