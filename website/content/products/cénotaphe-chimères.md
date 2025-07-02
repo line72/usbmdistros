@@ -16,4 +16,3 @@ title: "C\xE9notaphe - Chim\xE8res"
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=62249&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=62250&sort=pd.name&order=ASC) for $25.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=62251&sort=pd.name&order=ASC) for $25.00
