@@ -20,5 +20,4 @@ title: Suffering Hour - In Passing Ascension
 ## Cassette
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=59955&sort=pd.name&order=ASC) for $8.00
 ## CD
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/suffering-hour-in-passing-ascension-cd-1) for $14.00 :: CD 2017 press
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=55890&sort=pd.name&order=ASC) for $15.00

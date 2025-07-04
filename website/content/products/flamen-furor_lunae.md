@@ -4,7 +4,7 @@ album: Furor Lunae
 artist: Flamen
 categories:
 - CD
-date: '2025-03-04T06:36:36'
+date: '2025-07-04T05:22:01'
 draft: false
 images:
 - /images/covers/flamen-furor_lunae.jpg
@@ -14,5 +14,5 @@ title: Flamen - Furor Lunae
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=50248&sort=pd.name&order=ASC) for $12.00
 * Purchase from [CW Productions](https://shop.cwproductions.net/products/flamen-furor-lunae-cd) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=62303&sort=pd.name&order=ASC) for $12.00
