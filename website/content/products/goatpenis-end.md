@@ -5,7 +5,7 @@ artist: Goatpenis
 categories:
 - Cassette
 - CD
-date: '2025-05-21T05:20:55'
+date: '2025-07-05T05:23:32'
 draft: false
 images:
 - /images/covers/goatpenis-end.jpg
@@ -15,6 +15,6 @@ title: Goatpenis - End
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=61561&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=62361&sort=pd.name&order=ASC) for $20.00
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=61560&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=62360&sort=pd.name&order=ASC) for $20.00

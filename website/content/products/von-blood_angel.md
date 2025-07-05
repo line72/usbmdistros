@@ -4,7 +4,7 @@ album: Blood Angel
 artist: Von
 categories:
 - Vinyl
-date: '2025-06-22T05:22:21'
+date: '2025-07-05T05:21:45'
 draft: false
 images:
 - /images/covers/von-blood_angel.png
@@ -14,5 +14,5 @@ title: Von - Blood Angel
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=62093&sort=pd.name&order=ASC) for $25.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=62094&sort=pd.name&order=ASC) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=62341&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=62342&sort=pd.name&order=ASC) for $30.00
