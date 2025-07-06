@@ -5,7 +5,7 @@ album: "Father Sun Mother Moon | \u03A0\u03AC\u03C4\u03B5\u03C1 '\u0397\u03BB\u0
 artist: KAWIR
 categories:
 - CD
-date: '2025-03-02T06:22:16'
+date: '2025-07-06T05:22:39'
 draft: false
 images:
 - "/images/covers/kawir-father_sun_mother_moon_|_\u03C0\u03AC\u03C4\u03B5\u03C1_'\u03B7\
@@ -20,4 +20,4 @@ title: "KAWIR - Father Sun Mother Moon | \u03A0\u03AC\u03C4\u03B5\u03C1 '\u0397\
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=56413&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=62386&sort=pd.name&order=ASC) for $12.00

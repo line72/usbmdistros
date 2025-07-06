@@ -4,7 +4,7 @@ album: North
 artist: Kataxu
 categories:
 - CD
-date: '2025-05-27T05:21:25'
+date: '2025-07-06T05:22:38'
 draft: false
 images:
 - /images/covers/kataxu-north.jpg
@@ -14,4 +14,4 @@ title: Kataxu - North
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=61724&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=62381&sort=pd.name&order=ASC) for $12.00

@@ -5,7 +5,7 @@ artist: Pale Spektre
 categories:
 - Vinyl
 - Cassette
-date: '2025-03-02T06:23:18'
+date: '2025-07-06T05:23:41'
 draft: false
 images:
 - /images/covers/pale_spektre-bereft_of_xerotic_layers.jpg
@@ -15,6 +15,6 @@ title: Pale Spektre - Bereft of Xerotic Layers
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=57369&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=62420&sort=pd.name&order=ASC) for $25.00
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=57370&sort=pd.name&order=ASC) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=62421&sort=pd.name&order=ASC) for $10.00
