@@ -1,16 +1,16 @@
 ---
 actualPrice: $12.00
-album: Promo 2025
+album: Purple Shell
 artist: Necromantic Worship
 categories:
 - Cassette
-date: '2025-07-06T05:23:39'
+date: '2025-07-07T05:26:12'
 draft: false
 images:
-- /images/covers/necromantic_worship-promo_2025.jpg
+- /images/covers/necromantic_worship-purple_shell.png
 inStock: true
-thumbnailImage: /images/covers/necromantic_worship-promo_2025-thumb.jpg
-title: Necromantic Worship - Promo 2025
+thumbnailImage: /images/covers/necromantic_worship-purple_shell-thumb.png
+title: Necromantic Worship - Purple Shell
 ---
 
 ## Cassette

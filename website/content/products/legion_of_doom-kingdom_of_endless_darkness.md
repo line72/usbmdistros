@@ -4,7 +4,7 @@ album: Kingdom Of Endless Darkness
 artist: Legion of Doom
 categories:
 - Vinyl
-date: '2025-06-11T05:18:36'
+date: '2025-07-08T05:20:09'
 draft: false
 images:
 - /images/covers/legion_of_doom-kingdom_of_endless_darkness.jpg
@@ -15,4 +15,4 @@ title: Legion of Doom - Kingdom Of Endless Darkness
 
 ## Vinyl
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/legion-of-doom-kingdom-of-endless-darkness-12-lp) for $35.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=61944&sort=pd.name&order=ASC) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=62467&sort=pd.name&order=ASC) for $30.00
