@@ -4,7 +4,7 @@ album: Genesis
 artist: Rotting Christ
 categories:
 - Vinyl
-date: '2024-12-15T06:42:52'
+date: '2025-07-11T05:42:47'
 draft: false
 images:
 - /images/covers/rotting_christ-genesis.jpg
@@ -15,3 +15,4 @@ title: Rotting Christ - Genesis
 
 ## Vinyl
 * Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/rotting-christ-genesis-orange-yellow-splatter-vinyl-lp-2) for $31.99 :: orange/yellow splatter vinyl lp
+* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/rotting-christ-genesis-orange-yellow-splatter-vinyl-lp-3) for $31.99 :: orange/yellow splatter vinyl lp

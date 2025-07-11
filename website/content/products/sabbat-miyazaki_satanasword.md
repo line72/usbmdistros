@@ -4,7 +4,7 @@ album: Miyazaki Satanasword
 artist: Sabbat
 categories:
 - CD
-date: '2025-05-19T14:26:53'
+date: '2025-07-11T05:22:22'
 draft: false
 images:
 - /images/covers/sabbat-miyazaki_satanasword.png
@@ -14,4 +14,4 @@ title: Sabbat - Miyazaki Satanasword
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=61431&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=62499&sort=pd.name&order=ASC) for $15.00
