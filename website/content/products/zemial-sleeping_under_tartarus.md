@@ -1,10 +1,11 @@
 ---
-actualPrice: $25.00
+actualPrice: $12.00 - 25.00
 album: Sleeping Under Tartarus
 artist: Zemial
 categories:
 - Vinyl
-date: '2025-06-24T05:20:57'
+- CD
+date: '2025-07-12T05:22:25'
 draft: false
 images:
 - /images/covers/zemial-sleeping_under_tartarus.jpg
@@ -14,4 +15,6 @@ title: Zemial - Sleeping Under Tartarus
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=62129&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=62537&sort=pd.name&order=ASC) for $25.00
+## CD
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=62540&sort=pd.name&order=ASC) for $12.00

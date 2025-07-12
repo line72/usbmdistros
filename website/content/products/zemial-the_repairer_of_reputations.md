@@ -4,7 +4,7 @@ album: The Repairer Of Reputations
 artist: Zemial
 categories:
 - Vinyl
-date: '2025-06-24T05:20:57'
+date: '2025-07-12T05:20:54'
 draft: false
 images:
 - /images/covers/zemial-the_repairer_of_reputations.jpg
@@ -14,4 +14,4 @@ title: Zemial - The Repairer Of Reputations
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=62130&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=62538&sort=pd.name&order=ASC) for $25.00
