@@ -14,5 +14,4 @@ title: Mesarthim - Anthropic Bias/ Departure
 ---
 
 ## Vinyl
-* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/mesarthim-anthropic-bias-departure-black-w-clear-splatter) for $25.99 :: black w/ clear splatter
 * Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/mesarthim-anthropic-bias-departure-cyan-blue-w-green-splatter) for $25.99
