@@ -4,7 +4,7 @@ album: Blut
 artist: Wehrhammer
 categories:
 - Vinyl
-date: '2025-05-24T05:20:29'
+date: '2025-07-15T05:21:20'
 draft: false
 images:
 - /images/covers/wehrhammer-blut.jpg
@@ -14,4 +14,4 @@ title: Wehrhammer - Blut
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=61618&sort=pd.name&order=ASC) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=62645&sort=pd.name&order=ASC) for $30.00

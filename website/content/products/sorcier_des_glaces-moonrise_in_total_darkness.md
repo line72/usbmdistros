@@ -4,7 +4,7 @@ album: Moonrise In Total Darkness
 artist: Sorcier des Glaces
 categories:
 - Vinyl
-date: '2025-03-11T05:40:49'
+date: '2025-07-16T05:01:59'
 draft: false
 images:
 - /images/covers/sorcier_des_glaces-moonrise_in_total_darkness.png

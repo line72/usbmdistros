@@ -4,7 +4,7 @@ album: As The Wolves Gather
 artist: Forgotten Woods
 categories:
 - Vinyl
-date: '2025-07-02T05:19:54'
+date: '2025-07-16T05:01:56'
 draft: false
 images:
 - /images/covers/forgotten_woods-as_the_wolves_gather.png

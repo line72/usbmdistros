@@ -4,7 +4,7 @@ album: Love & Beauty 2xcd
 artist: Slutet
 categories:
 - Cassette
-date: '2025-05-03T05:03:53'
+date: '2025-07-16T05:02:20'
 draft: false
 images:
 - /images/covers/slutet-love_&_beauty_2xcd.png

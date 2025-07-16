@@ -6,7 +6,7 @@ categories:
 - Vinyl
 - Cassette
 - CD
-date: '2025-03-02T06:23:25'
+date: '2025-07-15T05:22:41'
 draft: false
 images:
 - /images/covers/suffering_hour-in_passing_ascension.jpg
@@ -20,4 +20,4 @@ title: Suffering Hour - In Passing Ascension
 ## Cassette
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=59955&sort=pd.name&order=ASC) for $8.00
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=55890&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=62642&sort=pd.name&order=ASC) for $15.00
