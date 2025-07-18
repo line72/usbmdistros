@@ -4,7 +4,7 @@ album: Folkstorm
 artist: "Gnipah\xE5lan"
 categories:
 - Vinyl
-date: '2025-06-25T05:01:56'
+date: '2025-07-18T05:01:51'
 draft: false
 images:
 - "/images/covers/gnipah\xE5lan-folkstorm.png"

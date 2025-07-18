@@ -4,7 +4,7 @@ album: Spellbinding Mysticism
 artist: Grundhyrde
 categories:
 - CD
-date: '2025-06-24T05:02:16'
+date: '2025-07-17T05:02:20'
 draft: false
 images:
 - /images/covers/grundhyrde-spellbinding_mysticism.jpg
