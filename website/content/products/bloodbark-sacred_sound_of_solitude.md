@@ -15,7 +15,6 @@ title: Bloodbark - Sacred Sound Of Solitude
 ---
 
 ## Vinyl
-* Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/bloodbark-sacred-sound-of-solitude-vinyl-lp-2-color-options) for $29.99 :: (gatefold, 2 color options)
 * Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/old-bloodbark-sacred-sound-of-solitude-blue-white-galaxy-vinyl-lp-copy) for $32.99 :: blue/white galaxy vinyl lp
 ## CD
 * Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/bloodbark-sacred-sound-of-solitude-cd-digipak-lim999) for $15.00 :: (digipak, lim.999)
