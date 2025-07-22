@@ -1,9 +1,8 @@
 ---
-actualPrice: $14.00 - 15.00
+actualPrice: $14.00
 album: Battlefields
 artist: Hate Forest
 categories:
-- Cassette
 - CD
 date: '2025-07-11T05:34:20'
 draft: false
@@ -14,7 +13,5 @@ thumbnailImage: /images/covers/hate_forest-battlefields-thumb.jpg
 title: Hate Forest - Battlefields
 ---
 
-## Cassette
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/hate-forest-battlefields-cassette) for $15.00 :: Cassette 2022
 ## CD
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/hate-forest-battlefields-cd) for $14.00 :: Jewel Case 2023
