@@ -4,7 +4,7 @@ album: Splits & B-Sides
 artist: Grausamkeit
 categories:
 - Vinyl
-date: '2025-04-30T05:01:43'
+date: '2025-07-24T05:01:56'
 draft: false
 images:
 - /images/covers/grausamkeit-splits_&_b-sides.jpg

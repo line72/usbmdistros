@@ -4,7 +4,7 @@ album: Demo#1
 artist: "Kl\xE4vitt, Kl\xE4vitt... Skogen Evigt Eka"
 categories:
 - Cassette
-date: '2025-04-30T05:01:44'
+date: '2025-07-24T05:01:56'
 draft: false
 images:
 - "/images/covers/kl\xE4vitt,_kl\xE4vitt..._skogen_evigt_eka-demo#1.png"

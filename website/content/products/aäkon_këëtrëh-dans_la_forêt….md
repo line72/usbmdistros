@@ -4,7 +4,7 @@ album: "Dans La For\xEAt\u2026"
 artist: "A\xE4kon K\xEB\xEBtr\xEBh"
 categories:
 - Vinyl
-date: '2025-07-08T05:01:48'
+date: '2025-07-24T05:01:55'
 draft: false
 images:
 - "/images/covers/a\xE4kon_k\xEB\xEBtr\xEBh-dans_la_for\xEAt\u2026.png"
