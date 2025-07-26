@@ -4,7 +4,7 @@ album: To The Devil His Due
 artist: "Destr\xF6yer 666"
 categories:
 - Vinyl
-date: '2025-03-02T06:20:28'
+date: '2025-07-26T05:20:25'
 draft: false
 images:
 - "/images/covers/destr\xF6yer_666-to_the_devil_his_due.jpg"
@@ -14,4 +14,4 @@ title: "Destr\xF6yer 666 - To The Devil His Due"
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=59151&sort=pd.name&order=ASC) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=62725&sort=pd.name&order=ASC) for $30.00

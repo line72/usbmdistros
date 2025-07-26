@@ -4,7 +4,7 @@ album: Uberkill
 artist: Barathrum
 categories:
 - Vinyl
-date: '2025-04-26T05:20:02'
+date: '2025-07-26T05:20:14'
 draft: false
 images:
 - /images/covers/barathrum-uberkill.jpg
@@ -14,4 +14,4 @@ title: Barathrum - Uberkill
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=61266&sort=pd.name&order=ASC) for $27.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=62748&sort=pd.name&order=ASC) for $27.00

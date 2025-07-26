@@ -4,7 +4,7 @@ album: S/T
 artist: Abyssal Vacuum
 categories:
 - Vinyl
-date: '2025-06-22T05:02:29'
+date: '2025-07-25T05:01:57'
 draft: false
 images:
 - /images/covers/abyssal_vacuum-s-t.png

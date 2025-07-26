@@ -4,7 +4,7 @@ album: Manitu" Shaped Picture
 artist: Venom
 categories:
 - Vinyl
-date: '2025-06-20T05:21:15'
+date: '2025-07-26T05:21:24'
 draft: false
 images:
 - /images/covers/venom-manitu"_shaped_picture.png
@@ -14,4 +14,4 @@ title: Venom - Manitu" Shaped Picture
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=62074&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=62763&sort=pd.name&order=ASC) for $25.00

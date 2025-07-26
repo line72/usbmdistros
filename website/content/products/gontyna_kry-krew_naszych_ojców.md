@@ -5,7 +5,7 @@ artist: Gontyna Kry
 categories:
 - Vinyl
 - CD
-date: '2025-07-04T05:22:05'
+date: '2025-07-26T05:22:15'
 draft: false
 images:
 - "/images/covers/gontyna_kry-krew_naszych_ojc\xF3w.png"
@@ -15,8 +15,8 @@ title: "Gontyna Kry - Krew Naszych Ojc\xF3w"
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=62306&sort=pd.name&order=ASC) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=62758&sort=pd.name&order=ASC) for $30.00
 ## CD
 * Purchase from [CW Productions](https://shop.cwproductions.net/products/gontyna-kry-krew-naszych-ojcow-cd) for $12.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=62307&sort=pd.name&order=ASC) for $15.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=62308&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=62757&sort=pd.name&order=ASC) for $15.00
