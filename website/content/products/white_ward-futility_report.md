@@ -1,5 +1,5 @@
 ---
-actualPrice: $9.99 - 29.99
+actualPrice: $9.99 - 25.99
 album: Futility Report
 artist: White Ward
 categories:
@@ -16,7 +16,6 @@ title: White Ward - Futility Report
 
 ## Vinyl
 * Purchase from [Debemur Morti](https://debemurmorti.aisamerch.com/item/126374) for $25.99
-* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/white-ward-futility-report-smoke-green-vinyl-lp) for $29.99 :: smoke green vinyl lp
 * Purchase from [Debemur Morti](https://debemurmorti.aisamerch.com/item/164392) for $22.99
 ## CD
 * Purchase from [Debemur Morti](https://debemurmorti.aisamerch.com/item/74790) for $9.99
