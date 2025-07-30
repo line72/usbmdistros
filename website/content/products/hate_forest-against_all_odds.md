@@ -1,10 +1,9 @@
 ---
-actualPrice: $13.00 - 27.00
+actualPrice: $17.00 - 27.00
 album: Against All Odds
 artist: Hate Forest
 categories:
 - Vinyl
-- Cassette
 - CD
 date: '2025-07-14T05:22:36'
 draft: false
@@ -20,7 +19,5 @@ title: Hate Forest - Against All Odds
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/hate-forest-against-all-odds-lp) for $27.00 :: Splatter 2025 press vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/hate-forest-against-all-odds-lp) for $27.00 :: Swirl 2025 press vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=62612&sort=pd.name&order=ASC) for $25.00
-## Cassette
-* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/hate-forest-against-all-odds-tape) for $13.00
 ## CD
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/hate-forest-against-all-odds-cd) for $17.00 :: Jewel Case 2025
