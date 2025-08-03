@@ -14,5 +14,4 @@ title: Pantheon - Krihapentswor
 ---
 
 ## Vinyl
-* Purchase from [CW Productions](https://shop.cwproductions.net/products/pantheon-krihapentswor-dlp-1) for $40.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=61027&sort=pd.name&order=ASC) for $40.00

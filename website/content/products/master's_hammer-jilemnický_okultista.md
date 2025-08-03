@@ -14,5 +14,4 @@ title: "Master's Hammer - Jilemnick\xFD Okultista"
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=51769&sort=pd.name&order=ASC) for $30.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=56059&sort=pd.name&order=ASC) for $30.00

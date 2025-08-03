@@ -1,10 +1,11 @@
 ---
-actualPrice: $25.00
+actualPrice: $12.00 - 25.00
 album: Unveiling The Brac'thal
 artist: Hasturian Vigil
 categories:
 - Vinyl
-date: '2025-07-13T05:20:13'
+- CD
+date: '2025-08-02T05:22:43'
 draft: false
 images:
 - /images/covers/hasturian_vigil-unveiling_the_brac'thal.png
@@ -14,4 +15,6 @@ title: Hasturian Vigil - Unveiling The Brac'thal
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=62591&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=62893&sort=pd.name&order=ASC) for $25.00
+## CD
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=62894&sort=pd.name&order=ASC) for $12.00

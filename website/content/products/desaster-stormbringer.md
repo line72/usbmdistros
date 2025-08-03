@@ -4,7 +4,7 @@ album: Stormbringer
 artist: Desaster
 categories:
 - Vinyl
-date: '2025-03-02T06:20:28'
+date: '2025-08-03T05:20:23'
 draft: false
 images:
 - /images/covers/desaster-stormbringer.jpg
@@ -14,4 +14,4 @@ title: Desaster - Stormbringer
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=59158&sort=pd.name&order=ASC) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=62917&sort=pd.name&order=ASC) for $30.00
