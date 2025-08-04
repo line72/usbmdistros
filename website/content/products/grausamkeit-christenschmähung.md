@@ -1,5 +1,5 @@
 ---
-actualPrice: $12.00 - 13.00
+actualPrice: $13.00
 album: "Christenschm\xE4hung"
 artist: Grausamkeit
 categories:
@@ -14,5 +14,4 @@ title: "Grausamkeit - Christenschm\xE4hung"
 ---
 
 ## Cassette
-* Purchase from [CW Productions](https://shop.cwproductions.net/products/grausamkeit-christenschmahung-tape) for $12.00
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/grausamkeit-christenschm%C3%A4hung-tape) for $13.00

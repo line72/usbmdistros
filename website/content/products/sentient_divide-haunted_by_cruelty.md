@@ -1,5 +1,5 @@
 ---
-actualPrice: $4.00 - 35.00
+actualPrice: $7.00 - 35.00
 album: Haunted by Cruelty
 artist: Sentient Divide
 categories:
@@ -19,4 +19,3 @@ title: Sentient Divide - Haunted by Cruelty
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/sentient-divide-haunted-by-cruelty-lp) for $35.00 :: Black 1st press vinyl
 ## Cassette
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=6822&sort=pd.name&order=ASC) for $7.00
-* Purchase from [CW Productions](https://shop.cwproductions.net/products/sentient-divide-haunted-by-cruelty-tape) for $4.00

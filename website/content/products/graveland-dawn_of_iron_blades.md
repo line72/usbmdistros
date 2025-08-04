@@ -4,7 +4,7 @@ album: Dawn Of Iron Blades
 artist: Graveland
 categories:
 - Cassette
-date: '2025-07-02T05:22:36'
+date: '2025-08-04T05:23:35'
 draft: false
 images:
 - /images/covers/graveland-dawn_of_iron_blades.jpg
@@ -14,4 +14,4 @@ title: Graveland - Dawn Of Iron Blades
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=62268&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=62952&sort=pd.name&order=ASC) for $12.00

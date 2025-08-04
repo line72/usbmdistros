@@ -1,10 +1,10 @@
 ---
-actualPrice: $23.00
+actualPrice: $18.00
 album: Necrology
 artist: Necrolepsy
 categories:
 - CD
-date: '2024-07-09T13:57:23'
+date: '2025-08-04T05:36:33'
 draft: false
 images:
 - /images/covers/necrolepsy-necrology.png
@@ -14,4 +14,4 @@ title: Necrolepsy - Necrology
 ---
 
 ## CD
-* Purchase from [CW Productions](https://shop.cwproductions.net/products/necrolepsy-necrology-lp-cd) for $23.00
+* Purchase from [CW Productions](https://shop.cwproductions.net/products/necrolepsy-necrology-lp-cd) for $18.00

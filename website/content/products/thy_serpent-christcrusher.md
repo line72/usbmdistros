@@ -4,7 +4,7 @@ album: Christcrusher
 artist: Thy Serpent
 categories:
 - Vinyl
-date: '2025-07-26T05:21:20'
+date: '2025-08-04T05:21:13'
 draft: false
 images:
 - /images/covers/thy_serpent-christcrusher.png
@@ -14,4 +14,4 @@ title: Thy Serpent - Christcrusher
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=62707&sort=pd.name&order=ASC) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=62939&sort=pd.name&order=ASC) for $30.00

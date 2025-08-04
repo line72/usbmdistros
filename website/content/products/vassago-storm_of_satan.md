@@ -4,7 +4,7 @@ album: Storm of Satan
 artist: Vassago
 categories:
 - Vinyl
-date: '2025-03-02T06:21:23'
+date: '2025-08-04T05:21:17'
 draft: false
 images:
 - /images/covers/vassago-storm_of_satan.jpg
@@ -15,4 +15,4 @@ title: Vassago - Storm of Satan
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=23544&sort=pd.name&order=ASC) for $27.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=53991&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=62948&sort=pd.name&order=ASC) for $25.00

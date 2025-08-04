@@ -4,7 +4,7 @@ album: Demo 1
 artist: Draugheimen
 categories:
 - Cassette
-date: '2025-08-02T05:02:32'
+date: '2025-08-04T05:02:18'
 draft: false
 images:
 - /images/covers/draugheimen-demo_1.png
