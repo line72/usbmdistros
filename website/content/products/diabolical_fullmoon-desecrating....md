@@ -5,8 +5,7 @@ artist: Diabolical Fullmoon
 categories:
 - Vinyl
 - Cassette
-- CD
-date: '2025-08-02T05:02:43'
+date: '2025-08-02T05:02:32'
 draft: false
 images:
 - /images/covers/diabolical_fullmoon-desecrating....png
@@ -19,5 +18,3 @@ title: Diabolical Fullmoon - Desecrating...
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/diabolical-fullmoon-desecrating-12-lp) for $30.00
 ## Cassette
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/diabolical-fullmoon-desecrating-tape) for $14.00
-## CD
-* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/diabolical-fullmoon-desecrating-cd) for $15.00
