@@ -1,10 +1,10 @@
 ---
-actualPrice: $17.00
+actualPrice: $13.60
 album: Rust
 artist: No Empathy
 categories:
 - Vinyl
-date: '2025-03-02T06:20:59'
+date: '2025-08-11T05:23:06'
 draft: false
 images:
 - /images/covers/no_empathy-rust.jpg
@@ -14,4 +14,4 @@ title: No Empathy - Rust
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=1980&sort=pd.name&order=ASC) for $17.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=1980&sort=pd.name&order=ASC) for $13.60

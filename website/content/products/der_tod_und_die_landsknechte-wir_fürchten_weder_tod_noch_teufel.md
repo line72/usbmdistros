@@ -1,10 +1,10 @@
 ---
-actualPrice: $30.00
+actualPrice: $24.00
 album: "Wir f\xFCrchten weder Tod noch Teufel"
 artist: Der Tod Und Die Landsknechte
 categories:
 - Vinyl
-date: '2025-07-26T05:20:25'
+date: '2025-08-11T05:22:30'
 draft: false
 images:
 - "/images/covers/der_tod_und_die_landsknechte-wir_f\xFCrchten_weder_tod_noch_teufel.png"
@@ -14,4 +14,4 @@ title: "Der Tod Und Die Landsknechte - Wir f\xFCrchten weder Tod noch Teufel"
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=62808&sort=pd.name&order=ASC) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=62808&sort=pd.name&order=ASC) for $24.00

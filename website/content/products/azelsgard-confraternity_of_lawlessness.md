@@ -1,10 +1,10 @@
 ---
-actualPrice: $8.00
+actualPrice: $6.40
 album: Confraternity of Lawlessness
 artist: Azelsgard
 categories:
 - CD
-date: '2025-06-24T05:21:19'
+date: '2025-08-11T05:24:00'
 draft: false
 images:
 - /images/covers/azelsgard-confraternity_of_lawlessness.jpg
@@ -14,4 +14,4 @@ title: Azelsgard - Confraternity of Lawlessness
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=62134&sort=pd.name&order=ASC) for $8.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=62134&sort=pd.name&order=ASC) for $6.40

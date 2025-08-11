@@ -1,11 +1,11 @@
 ---
-actualPrice: $15.00 - 27.00
+actualPrice: $12.00 - 27.00
 album: Satanic Black Devotion
 artist: Sargeist
 categories:
 - Vinyl
 - CD
-date: '2025-06-17T05:17:49'
+date: '2025-08-11T05:24:55'
 draft: false
 images:
 - /images/covers/sargeist-satanic_black_devotion.jpg
@@ -17,4 +17,4 @@ title: Sargeist - Satanic Black Devotion
 ## Vinyl
 * Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/sargeist-satanic-black-devotion-smoke-vinyl-lp) for $27.00
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=62009&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=62009&sort=pd.name&order=ASC) for $12.00

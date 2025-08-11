@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00
+actualPrice: $9.60
 album: Eternal Obscurity
 artist: Anu
 categories:
 - CD
-date: '2025-03-02T06:21:45'
+date: '2025-08-11T05:23:58'
 draft: false
 images:
 - /images/covers/anu-eternal_obscurity.jpg
@@ -14,4 +14,4 @@ title: Anu - Eternal Obscurity
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=27795&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=27795&sort=pd.name&order=ASC) for $9.60

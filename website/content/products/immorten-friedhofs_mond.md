@@ -1,10 +1,10 @@
 ---
-actualPrice: $8.00
+actualPrice: $6.40
 album: Friedhofs Mond
 artist: Immorten
 categories:
 - CD
-date: '2025-03-02T06:22:13'
+date: '2025-08-11T05:24:29'
 draft: false
 images:
 - /images/covers/immorten-friedhofs_mond.jpg
@@ -14,4 +14,4 @@ title: Immorten - Friedhofs Mond
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=1927&sort=pd.name&order=ASC) for $8.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=1927&sort=pd.name&order=ASC) for $6.40

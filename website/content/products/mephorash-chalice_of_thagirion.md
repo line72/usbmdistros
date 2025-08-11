@@ -1,11 +1,11 @@
 ---
-actualPrice: $10.00 - 15.00
+actualPrice: $8.00 - 12.00
 album: Chalice Of Thagirion
 artist: Mephorash
 categories:
 - Cassette
 - CD
-date: '2025-03-02T06:23:13'
+date: '2025-08-11T05:25:35'
 draft: false
 images:
 - /images/covers/mephorash-chalice_of_thagirion.jpg
@@ -15,6 +15,6 @@ title: Mephorash - Chalice Of Thagirion
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=18466&sort=pd.name&order=ASC) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=18466&sort=pd.name&order=ASC) for $8.00
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=28557&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=28557&sort=pd.name&order=ASC) for $12.00

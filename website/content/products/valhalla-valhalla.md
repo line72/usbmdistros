@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00
+actualPrice: $9.60
 album: Valhalla
 artist: Valhalla
 categories:
 - CD
-date: '2025-05-19T14:27:03'
+date: '2025-08-11T05:25:06'
 draft: false
 images:
 - /images/covers/valhalla-valhalla.jpg
@@ -14,4 +14,4 @@ title: Valhalla - Valhalla
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=61358&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=61358&sort=pd.name&order=ASC) for $9.60

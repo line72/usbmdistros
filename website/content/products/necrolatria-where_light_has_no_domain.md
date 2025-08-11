@@ -1,10 +1,10 @@
 ---
-actualPrice: $25.00
+actualPrice: $20.00
 album: Where Light Has No Domain
 artist: Necrolatria
 categories:
 - Vinyl
-date: '2025-03-02T06:20:58'
+date: '2025-08-11T05:23:04'
 draft: false
 images:
 - /images/covers/necrolatria-where_light_has_no_domain.jpg
@@ -14,4 +14,4 @@ title: Necrolatria - Where Light Has No Domain
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=50754&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=50754&sort=pd.name&order=ASC) for $20.00

@@ -1,10 +1,10 @@
 ---
-actualPrice: $27.00
+actualPrice: $21.60
 album: Antichrist
 artist: Gorgoroth
 categories:
 - Vinyl
-date: '2025-05-24T05:19:44'
+date: '2025-08-11T05:22:41'
 draft: false
 images:
 - /images/covers/gorgoroth-antichrist.jpg
@@ -14,4 +14,4 @@ title: Gorgoroth - Antichrist
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=61622&sort=pd.name&order=ASC) for $27.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=61622&sort=pd.name&order=ASC) for $21.60

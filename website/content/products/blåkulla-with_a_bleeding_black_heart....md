@@ -1,10 +1,10 @@
 ---
-actualPrice: $15.00
+actualPrice: $12.00
 album: With A Bleeding Black Heart...
 artist: "Bl\xE5kulla"
 categories:
 - Vinyl
-date: '2025-04-11T05:21:07'
+date: '2025-08-11T05:23:40'
 draft: false
 images:
 - "/images/covers/bl\xE5kulla-with_a_bleeding_black_heart....png"
@@ -14,4 +14,4 @@ title: "Bl\xE5kulla - With A Bleeding Black Heart..."
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=60896&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=60896&sort=pd.name&order=ASC) for $12.00

@@ -1,10 +1,10 @@
 ---
-actualPrice: $7.00
+actualPrice: $5.60
 album: Scum Sect
 artist: Atrament
 categories:
 - Cassette
-date: '2025-03-02T06:22:57'
+date: '2025-08-11T05:25:15'
 draft: false
 images:
 - /images/covers/atrament-scum_sect.jpg
@@ -14,4 +14,4 @@ title: Atrament - Scum Sect
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=4267&sort=pd.name&order=ASC) for $7.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=4267&sort=pd.name&order=ASC) for $5.60

@@ -1,10 +1,10 @@
 ---
-actualPrice: $30.00
+actualPrice: $24.00
 album: Nocturnal Wanderings Amongst The Castle Ruins
 artist: Grave of God
 categories:
 - Vinyl
-date: '2025-05-19T14:24:52'
+date: '2025-08-11T05:22:42'
 draft: false
 images:
 - /images/covers/grave_of_god-nocturnal_wanderings_amongst_the_castle_ruins.png
@@ -14,4 +14,4 @@ title: Grave of God - Nocturnal Wanderings Amongst The Castle Ruins
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=61342&sort=pd.name&order=ASC) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=61342&sort=pd.name&order=ASC) for $24.00

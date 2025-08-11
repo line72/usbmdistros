@@ -1,10 +1,10 @@
 ---
-actualPrice: $25.00
+actualPrice: $20.00
 album: Hildegicel - Blood Dripping From A Sword
 artist: Sapthuran
 categories:
 - Vinyl
-date: '2025-03-02T06:21:08'
+date: '2025-08-11T05:23:17'
 draft: false
 images:
 - /images/covers/sapthuran-hildegicel_-_blood_dripping_from_a_sword.jpg
@@ -14,4 +14,4 @@ title: Sapthuran - Hildegicel - Blood Dripping From A Sword
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=59392&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=59392&sort=pd.name&order=ASC) for $20.00

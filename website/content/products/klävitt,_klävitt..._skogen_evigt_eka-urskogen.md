@@ -5,7 +5,7 @@ artist: "Kl\xE4vitt, Kl\xE4vitt... Skogen Evigt Eka"
 categories:
 - Vinyl
 - CD
-date: '2025-04-30T05:02:30'
+date: '2025-08-11T05:02:06'
 draft: false
 images:
 - "/images/covers/kl\xE4vitt,_kl\xE4vitt..._skogen_evigt_eka-urskogen.png"

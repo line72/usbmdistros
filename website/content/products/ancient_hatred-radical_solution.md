@@ -1,10 +1,10 @@
 ---
-actualPrice: $13.00
+actualPrice: $10.40
 album: Radical Solution
 artist: Ancient Hatred
 categories:
 - CD
-date: '2025-05-19T14:26:05'
+date: '2025-08-11T05:23:57'
 draft: false
 images:
 - /images/covers/ancient_hatred-radical_solution.jpg
@@ -14,4 +14,4 @@ title: Ancient Hatred - Radical Solution
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=61502&sort=pd.name&order=ASC) for $13.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=61502&sort=pd.name&order=ASC) for $10.40

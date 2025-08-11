@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00
+actualPrice: $9.60
 album: In Contemptuous Defiance
 artist: Fiat Nox
 categories:
 - CD
-date: '2025-03-02T06:22:04'
+date: '2025-08-11T05:24:20'
 draft: false
 images:
 - /images/covers/fiat_nox-in_contemptuous_defiance.png
@@ -14,4 +14,4 @@ title: Fiat Nox - In Contemptuous Defiance
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=50088&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=50088&sort=pd.name&order=ASC) for $9.60

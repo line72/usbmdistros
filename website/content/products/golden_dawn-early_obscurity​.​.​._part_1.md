@@ -1,10 +1,10 @@
 ---
-actualPrice: $65.00
+actualPrice: $52.00
 album: "Early Obscurity\u200B.\u200B.\u200B. Part 1"
 artist: Golden Dawn
 categories:
 - Vinyl
-date: '2025-03-02T06:20:35'
+date: '2025-08-11T05:22:41'
 draft: false
 images:
 - "/images/covers/golden_dawn-early_obscurity\u200B.\u200B.\u200B._part_1.jpg"
@@ -14,4 +14,4 @@ title: "Golden Dawn - Early Obscurity\u200B.\u200B.\u200B. Part 1"
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=35097&sort=pd.name&order=ASC) for $65.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=35097&sort=pd.name&order=ASC) for $52.00

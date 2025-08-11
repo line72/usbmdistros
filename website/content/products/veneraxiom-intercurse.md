@@ -1,10 +1,10 @@
 ---
-actualPrice: $9.00
+actualPrice: $7.20
 album: Intercurse
 artist: Veneraxiom
 categories:
 - CD
-date: '2025-03-02T06:22:47'
+date: '2025-08-11T05:25:07'
 draft: false
 images:
 - /images/covers/veneraxiom-intercurse.jpg
@@ -14,4 +14,4 @@ title: Veneraxiom - Intercurse
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=23067&sort=pd.name&order=ASC) for $9.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=23067&sort=pd.name&order=ASC) for $7.20

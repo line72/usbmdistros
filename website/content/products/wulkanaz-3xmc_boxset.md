@@ -1,10 +1,10 @@
 ---
-actualPrice: $55.00
+actualPrice: $44.00
 album: 3xmc Boxset
 artist: Wulkanaz
 categories:
 - Cassette
-date: '2025-08-07T05:23:19'
+date: '2025-08-11T05:25:51'
 draft: false
 images:
 - /images/covers/wulkanaz-3xmc_boxset.png
@@ -14,4 +14,4 @@ title: Wulkanaz - 3xmc Boxset
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=62981&sort=pd.name&order=ASC) for $55.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=62981&sort=pd.name&order=ASC) for $44.00

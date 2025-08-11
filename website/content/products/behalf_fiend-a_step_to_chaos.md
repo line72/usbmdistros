@@ -1,10 +1,10 @@
 ---
-actualPrice: $7.00
+actualPrice: $5.60
 album: A Step To Chaos
 artist: Behalf Fiend
 categories:
 - Vinyl
-date: '2025-03-02T06:21:30'
+date: '2025-08-11T05:23:39'
 draft: false
 images:
 - /images/covers/behalf_fiend-a_step_to_chaos.jpg
@@ -14,4 +14,4 @@ title: Behalf Fiend - A Step To Chaos
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=9389&sort=pd.name&order=ASC) for $7.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=9389&sort=pd.name&order=ASC) for $5.60

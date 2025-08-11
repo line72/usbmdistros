@@ -1,10 +1,10 @@
 ---
-actualPrice: $8.00
+actualPrice: $6.40
 album: Flexi
 artist: M. del Rio
 categories:
 - Vinyl
-date: '2025-03-02T06:21:36'
+date: '2025-08-11T05:23:48'
 draft: false
 images:
 - /images/covers/m._del_rio-flexi.png
@@ -14,4 +14,4 @@ title: M. del Rio - Flexi
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=2014&sort=pd.name&order=ASC) for $8.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=2014&sort=pd.name&order=ASC) for $6.40

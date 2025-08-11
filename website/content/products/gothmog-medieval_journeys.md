@@ -1,11 +1,11 @@
 ---
-actualPrice: $14.99 - 34.99
+actualPrice: $12.00 - 34.99
 album: Medieval Journeys
 artist: Gothmog
 categories:
 - Vinyl
 - CD
-date: '2025-08-09T05:45:41'
+date: '2025-08-11T05:24:23'
 draft: false
 images:
 - /images/covers/gothmog-medieval_journeys.jpg
@@ -20,4 +20,4 @@ title: Gothmog - Medieval Journeys
 * Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/gothmog-medieval-journeys-vinyl-lp-color) for $29.99 :: (color, northern silence edition)
 ## CD
 * Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/gothmog-medieval-journeys-cd-digipak) for $14.99 :: (digipak)
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=57863&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=57863&sort=pd.name&order=ASC) for $12.00

@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00
+actualPrice: $9.60
 album: Evoke The Curse Of The Ancients
 artist: The Ancient's Rebirth
 categories:
 - CD
-date: '2025-03-02T06:22:42'
+date: '2025-08-11T05:25:02'
 draft: false
 images:
 - /images/covers/the_ancient's_rebirth-evoke_the_curse_of_the_ancients.jpg
@@ -14,4 +14,4 @@ title: The Ancient's Rebirth - Evoke The Curse Of The Ancients
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=52178&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=52178&sort=pd.name&order=ASC) for $9.60

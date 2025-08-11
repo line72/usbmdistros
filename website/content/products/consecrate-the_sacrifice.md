@@ -1,10 +1,10 @@
 ---
-actualPrice: $7.00
+actualPrice: $5.60
 album: The SAcrifice
 artist: Consecrate
 categories:
 - Cassette
-date: '2025-03-02T06:23:00'
+date: '2025-08-11T05:25:18'
 draft: false
 images:
 - /images/covers/consecrate-the_sacrifice.png
@@ -14,4 +14,4 @@ title: Consecrate - The SAcrifice
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=5314&sort=pd.name&order=ASC) for $7.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=5314&sort=pd.name&order=ASC) for $5.60

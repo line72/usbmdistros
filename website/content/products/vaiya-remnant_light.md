@@ -1,10 +1,10 @@
 ---
-actualPrice: $22.00
+actualPrice: $17.60
 album: Remnant Light
 artist: Vaiya
 categories:
 - Vinyl
-date: '2025-03-02T06:21:22'
+date: '2025-08-11T05:23:29'
 draft: false
 images:
 - /images/covers/vaiya-remnant_light.jpg
@@ -14,4 +14,4 @@ title: Vaiya - Remnant Light
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=12414&sort=pd.name&order=ASC) for $22.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=12414&sort=pd.name&order=ASC) for $17.60

@@ -1,10 +1,10 @@
 ---
-actualPrice: $20.00
+actualPrice: $16.00
 album: Scythed Wings of Poisonous Decay
 artist: Nexul
 categories:
 - Vinyl
-date: '2025-03-02T06:20:59'
+date: '2025-08-11T05:23:05'
 draft: false
 images:
 - /images/covers/nexul-scythed_wings_of_poisonous_decay.jpg
@@ -14,4 +14,4 @@ title: Nexul - Scythed Wings of Poisonous Decay
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29160&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29160&sort=pd.name&order=ASC) for $16.00

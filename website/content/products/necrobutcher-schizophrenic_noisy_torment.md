@@ -1,10 +1,10 @@
 ---
-actualPrice: $20.00 - 30.00
+actualPrice: $13.00 - 19.50
 album: Schizophrenic Noisy Torment
 artist: Necrobutcher
 categories:
 - Vinyl
-date: '2025-03-02T06:20:57'
+date: '2025-08-11T05:23:03'
 draft: false
 images:
 - /images/covers/necrobutcher-schizophrenic_noisy_torment.jpg
@@ -14,5 +14,5 @@ title: Necrobutcher - Schizophrenic Noisy Torment
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=32029&sort=pd.name&order=ASC) for $30.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=50205&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=32029&sort=pd.name&order=ASC) for $19.50
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=50205&sort=pd.name&order=ASC) for $13.00

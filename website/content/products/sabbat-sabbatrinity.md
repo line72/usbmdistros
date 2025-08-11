@@ -1,16 +1,16 @@
 ---
 actualPrice: $45.00
-album: Order)
+album: Sabbatrinity
 artist: Sabbat
 categories:
 - Vinyl
-date: '2025-08-08T05:20:13'
+date: '2025-08-11T05:23:17'
 draft: false
 images:
-- /images/covers/sabbat-order).png
+- /images/covers/sabbat-sabbatrinity.png
 inStock: true
-thumbnailImage: /images/covers/sabbat-order)-thumb.png
-title: Sabbat - Order)
+thumbnailImage: /images/covers/sabbat-sabbatrinity-thumb.png
+title: Sabbat - Sabbatrinity
 ---
 
 ## Vinyl

@@ -1,10 +1,10 @@
 ---
-actualPrice: $25.00
+actualPrice: $20.00
 album: Weemoedsklanken
 artist: Meslamtaea
 categories:
 - Vinyl
-date: '2025-03-02T06:20:53'
+date: '2025-08-11T05:22:58'
 draft: false
 images:
 - /images/covers/meslamtaea-weemoedsklanken.jpg
@@ -14,4 +14,4 @@ title: Meslamtaea - Weemoedsklanken
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=47546&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=47546&sort=pd.name&order=ASC) for $20.00

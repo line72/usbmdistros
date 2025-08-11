@@ -1,10 +1,10 @@
 ---
-actualPrice: $9.00
+actualPrice: $7.20
 album: Ng'Ambu
 artist: Mehenet
 categories:
 - Cassette
-date: '2025-03-02T06:23:13'
+date: '2025-08-11T05:25:34'
 draft: false
 images:
 - /images/covers/mehenet-ng'ambu.jpg
@@ -14,4 +14,4 @@ title: Mehenet - Ng'Ambu
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=18464&sort=pd.name&order=ASC) for $9.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=18464&sort=pd.name&order=ASC) for $7.20

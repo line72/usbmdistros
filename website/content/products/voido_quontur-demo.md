@@ -1,10 +1,10 @@
 ---
-actualPrice: $5.00
+actualPrice: $4.00
 album: Demo
 artist: Voido Quontur
 categories:
 - Cassette
-date: '2025-03-02T06:23:30'
+date: '2025-08-11T05:25:50'
 draft: false
 images:
 - /images/covers/voido_quontur-demo.png
@@ -14,4 +14,4 @@ title: Voido Quontur - Demo
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=910&sort=pd.name&order=ASC) for $5.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=910&sort=pd.name&order=ASC) for $4.00

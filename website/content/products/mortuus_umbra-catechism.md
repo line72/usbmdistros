@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00
+actualPrice: $9.60
 album: Catechism
 artist: Mortuus Umbra
 categories:
 - Cassette
-date: '2025-03-02T06:23:14'
+date: '2025-08-11T05:25:36'
 draft: false
 images:
 - /images/covers/mortuus_umbra-catechism.png
@@ -14,4 +14,4 @@ title: Mortuus Umbra - Catechism
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=19149&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=19149&sort=pd.name&order=ASC) for $9.60

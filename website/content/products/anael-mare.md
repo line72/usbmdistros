@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00
+actualPrice: $9.60
 album: Mare
 artist: Anael
 categories:
 - CD
-date: '2025-03-02T06:21:44'
+date: '2025-08-11T05:23:57'
 draft: false
 images:
 - /images/covers/anael-mare.jpg
@@ -14,4 +14,4 @@ title: Anael - Mare
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=60236&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=60236&sort=pd.name&order=ASC) for $9.60

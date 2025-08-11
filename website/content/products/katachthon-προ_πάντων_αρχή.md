@@ -1,11 +1,11 @@
 ---
-actualPrice: $10.00
+actualPrice: $8.00
 album: "\u03A0\u03C1\u03BF \u03A0\u03AC\u03BD\u03C4\u03C9\u03BD \u0391\u03C1\u03C7\
   \u03AE"
 artist: Katachthon
 categories:
 - CD
-date: '2025-03-02T06:22:16'
+date: '2025-08-11T05:24:32'
 draft: false
 images:
 - "/images/covers/katachthon-\u03C0\u03C1\u03BF_\u03C0\u03AC\u03BD\u03C4\u03C9\u03BD\
@@ -18,4 +18,4 @@ title: "Katachthon - \u03A0\u03C1\u03BF \u03A0\u03AC\u03BD\u03C4\u03C9\u03BD \u0
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=13745&sort=pd.name&order=ASC) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=13745&sort=pd.name&order=ASC) for $8.00

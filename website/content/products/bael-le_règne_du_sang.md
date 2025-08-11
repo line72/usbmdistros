@@ -1,10 +1,10 @@
 ---
-actualPrice: $10.00
+actualPrice: $8.00
 album: "Le R\xE8gne Du Sang"
 artist: Bael
 categories:
 - Vinyl
-date: '2025-03-02T06:21:30'
+date: '2025-08-11T05:23:39'
 draft: false
 images:
 - "/images/covers/bael-le_r\xE8gne_du_sang.jpg"
@@ -14,4 +14,4 @@ title: "Bael - Le R\xE8gne Du Sang"
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=26454&sort=pd.name&order=ASC) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=26454&sort=pd.name&order=ASC) for $8.00

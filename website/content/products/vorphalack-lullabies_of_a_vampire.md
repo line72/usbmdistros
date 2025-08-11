@@ -1,10 +1,10 @@
 ---
-actualPrice: $15.00
+actualPrice: $12.00
 album: Lullabies of a Vampire
 artist: Vorphalack
 categories:
 - CD
-date: '2025-03-02T06:22:49'
+date: '2025-08-11T05:25:08'
 draft: false
 images:
 - /images/covers/vorphalack-lullabies_of_a_vampire.jpg
@@ -14,4 +14,4 @@ title: Vorphalack - Lullabies of a Vampire
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=55189&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=55189&sort=pd.name&order=ASC) for $12.00

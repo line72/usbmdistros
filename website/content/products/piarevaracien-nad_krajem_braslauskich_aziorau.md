@@ -1,10 +1,10 @@
 ---
-actualPrice: $10.00
+actualPrice: $8.00
 album: Nad Krajem Braslauskich Aziorau
 artist: Piarevaracien
 categories:
 - CD
-date: '2025-03-02T06:22:32'
+date: '2025-08-11T05:24:48'
 draft: false
 images:
 - /images/covers/piarevaracien-nad_krajem_braslauskich_aziorau.jpg
@@ -14,4 +14,4 @@ title: Piarevaracien - Nad Krajem Braslauskich Aziorau
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=17826&sort=pd.name&order=ASC) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=17826&sort=pd.name&order=ASC) for $8.00

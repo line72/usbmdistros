@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00
+actualPrice: $9.60
 album: The Blasphemy Returns
 artist: In Aeternum
 categories:
 - CD
-date: '2025-03-02T06:22:13'
+date: '2025-08-11T05:24:29'
 draft: false
 images:
 - /images/covers/in_aeternum-the_blasphemy_returns.jpg
@@ -14,4 +14,4 @@ title: In Aeternum - The Blasphemy Returns
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=16944&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=16944&sort=pd.name&order=ASC) for $9.60

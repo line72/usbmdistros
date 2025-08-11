@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00
+actualPrice: $9.60
 album: Propadle Vody
 artist: Stiny Plamenu
 categories:
 - CD
-date: '2025-06-24T05:22:13'
+date: '2025-08-11T05:25:00'
 draft: false
 images:
 - /images/covers/stiny_plamenu-propadle_vody.jpg
@@ -14,4 +14,4 @@ title: Stiny Plamenu - Propadle Vody
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=62122&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=62122&sort=pd.name&order=ASC) for $9.60

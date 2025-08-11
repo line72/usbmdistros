@@ -1,10 +1,10 @@
 ---
-actualPrice: $27.00
+actualPrice: $21.60
 album: Dying Embers to Coldening Coals
 artist: FLAIL
 categories:
 - Vinyl
-date: '2025-03-02T06:20:33'
+date: '2025-08-11T05:22:38'
 draft: false
 images:
 - /images/covers/flail-dying_embers_to_coldening_coals.jpg
@@ -14,4 +14,4 @@ title: FLAIL - Dying Embers to Coldening Coals
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=59044&sort=pd.name&order=ASC) for $27.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=59044&sort=pd.name&order=ASC) for $21.60

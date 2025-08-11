@@ -1,10 +1,10 @@
 ---
-actualPrice: $35.00
+actualPrice: $28.00
 album: "Vieille For\xEAt"
 artist: Drakonhail
 categories:
 - Vinyl
-date: '2025-04-09T18:47:17'
+date: '2025-08-11T05:22:32'
 draft: false
 images:
 - "/images/covers/drakonhail-vieille_for\xEAt.jpg"
@@ -14,4 +14,4 @@ title: "Drakonhail - Vieille For\xEAt"
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=61018&sort=pd.name&order=ASC) for $35.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=61018&sort=pd.name&order=ASC) for $28.00

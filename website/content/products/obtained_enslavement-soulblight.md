@@ -1,10 +1,10 @@
 ---
-actualPrice: $30.00
+actualPrice: $24.00
 album: Soulblight
 artist: Obtained Enslavement
 categories:
 - Vinyl
-date: '2025-07-04T05:20:52'
+date: '2025-08-11T05:23:10'
 draft: false
 images:
 - /images/covers/obtained_enslavement-soulblight.png
@@ -14,4 +14,4 @@ title: Obtained Enslavement - Soulblight
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=62301&sort=pd.name&order=ASC) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=62301&sort=pd.name&order=ASC) for $24.00

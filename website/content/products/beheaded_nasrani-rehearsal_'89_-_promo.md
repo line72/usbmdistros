@@ -1,10 +1,10 @@
 ---
-actualPrice: $15.00
+actualPrice: $12.00
 album: Rehearsal '89 / Promo
 artist: Beheaded Nasrani
 categories:
 - Cassette
-date: '2025-03-02T06:22:57'
+date: '2025-08-11T05:25:15'
 draft: false
 images:
 - /images/covers/beheaded_nasrani-rehearsal_'89_-_promo.png
@@ -14,4 +14,4 @@ title: Beheaded Nasrani - Rehearsal '89 / Promo
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=44951&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=44951&sort=pd.name&order=ASC) for $12.00

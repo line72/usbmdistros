@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00
+actualPrice: $9.60
 album: "Otch\u0142anie Ciemno\u015Bci"
 artist: Doomprayer
 categories:
 - CD
-date: '2025-03-02T06:22:00'
+date: '2025-08-11T05:24:13'
 draft: false
 images:
 - "/images/covers/doomprayer-otch\u0142anie_ciemno\u015Bci.jpg"
@@ -14,4 +14,4 @@ title: "Doomprayer - Otch\u0142anie Ciemno\u015Bci"
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=22375&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=22375&sort=pd.name&order=ASC) for $9.60

@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00
+actualPrice: $9.60
 album: Demo
 artist: Crepuscule
 categories:
 - Cassette
-date: '2025-04-09T18:49:55'
+date: '2025-08-11T05:25:19'
 draft: false
 images:
 - /images/covers/crepuscule-demo.png
@@ -14,4 +14,4 @@ title: Crepuscule - Demo
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=61105&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=61105&sort=pd.name&order=ASC) for $9.60

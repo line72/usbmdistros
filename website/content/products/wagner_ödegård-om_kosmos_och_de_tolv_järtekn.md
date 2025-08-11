@@ -1,10 +1,10 @@
 ---
-actualPrice: $15.00
+actualPrice: $12.00
 album: "Om Kosmos och de Tolv J\xE4rtekn"
 artist: "Wagner \xD6deg\xE5rd"
 categories:
 - CD
-date: '2025-03-02T06:22:51'
+date: '2025-08-11T05:25:08'
 draft: false
 images:
 - "/images/covers/wagner_\xF6deg\xE5rd-om_kosmos_och_de_tolv_j\xE4rtekn.jpg"
@@ -14,4 +14,4 @@ title: "Wagner \xD6deg\xE5rd - Om Kosmos och de Tolv J\xE4rtekn"
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=59999&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=59999&sort=pd.name&order=ASC) for $12.00

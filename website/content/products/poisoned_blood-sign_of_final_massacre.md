@@ -1,10 +1,10 @@
 ---
-actualPrice: $25.00
+actualPrice: $16.25
 album: Sign of Final Massacre
 artist: Poisoned Blood
 categories:
 - Vinyl
-date: '2025-03-02T06:21:04'
+date: '2025-08-11T05:23:14'
 draft: false
 images:
 - /images/covers/poisoned_blood-sign_of_final_massacre.png
@@ -14,4 +14,4 @@ title: Poisoned Blood - Sign of Final Massacre
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=59933&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=59933&sort=pd.name&order=ASC) for $16.25

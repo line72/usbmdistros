@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00
+actualPrice: $9.60
 album: Melted And Decomposed
 artist: Sanctuarium
 categories:
 - CD
-date: '2025-05-19T14:26:54'
+date: '2025-08-11T05:24:55'
 draft: false
 images:
 - /images/covers/sanctuarium-melted_and_decomposed.jpg
@@ -14,4 +14,4 @@ title: Sanctuarium - Melted And Decomposed
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=61372&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=61372&sort=pd.name&order=ASC) for $9.60

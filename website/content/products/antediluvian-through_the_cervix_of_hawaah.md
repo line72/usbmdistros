@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00
+actualPrice: $9.60
 album: Through The Cervix Of Hawaah
 artist: Antediluvian
 categories:
 - CD
-date: '2025-08-02T05:22:16'
+date: '2025-08-11T05:23:57'
 draft: false
 images:
 - /images/covers/antediluvian-through_the_cervix_of_hawaah.jpg
@@ -14,4 +14,4 @@ title: Antediluvian - Through The Cervix Of Hawaah
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=62899&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=62899&sort=pd.name&order=ASC) for $9.60

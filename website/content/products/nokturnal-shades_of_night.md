@@ -1,11 +1,11 @@
 ---
-actualPrice: $15.00 - 25.00
+actualPrice: $12.00 - 20.00
 album: Shades Of Night
 artist: Nokturnal
 categories:
 - Vinyl
 - CD
-date: '2025-03-02T06:22:29'
+date: '2025-08-11T05:24:44'
 draft: false
 images:
 - /images/covers/nokturnal-shades_of_night.png
@@ -15,6 +15,6 @@ title: Nokturnal - Shades Of Night
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=49234&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=49234&sort=pd.name&order=ASC) for $20.00
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=49358&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=49358&sort=pd.name&order=ASC) for $12.00

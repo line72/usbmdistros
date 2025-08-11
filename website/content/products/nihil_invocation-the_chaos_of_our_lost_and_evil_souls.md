@@ -1,10 +1,10 @@
 ---
-actualPrice: $27.00
+actualPrice: $17.55
 album: The Chaos of Our Lost and Evil Souls
 artist: Nihil Invocation
 categories:
 - Vinyl
-date: '2025-03-02T06:20:59'
+date: '2025-08-11T05:23:06'
 draft: false
 images:
 - /images/covers/nihil_invocation-the_chaos_of_our_lost_and_evil_souls.jpg
@@ -14,4 +14,4 @@ title: Nihil Invocation - The Chaos of Our Lost and Evil Souls
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=32735&sort=pd.name&order=ASC) for $27.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=32735&sort=pd.name&order=ASC) for $17.55

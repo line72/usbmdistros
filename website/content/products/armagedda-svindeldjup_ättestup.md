@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00
+actualPrice: $9.60
 album: "Svindeldjup \xC4ttestup"
 artist: Armagedda
 categories:
 - CD
-date: '2025-03-02T06:21:46'
+date: '2025-08-11T05:23:59'
 draft: false
 images:
 - "/images/covers/armagedda-svindeldjup_\xE4ttestup.jpg"
@@ -14,4 +14,4 @@ title: "Armagedda - Svindeldjup \xC4ttestup"
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=8859&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=8859&sort=pd.name&order=ASC) for $9.60

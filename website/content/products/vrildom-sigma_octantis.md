@@ -1,10 +1,10 @@
 ---
-actualPrice: $27.00
+actualPrice: $21.60
 album: Sigma Octantis
 artist: Vrildom
 categories:
 - Vinyl
-date: '2025-03-02T06:21:25'
+date: '2025-08-11T05:23:33'
 draft: false
 images:
 - /images/covers/vrildom-sigma_octantis.jpg
@@ -14,4 +14,4 @@ title: Vrildom - Sigma Octantis
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=46628&sort=pd.name&order=ASC) for $27.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=46628&sort=pd.name&order=ASC) for $21.60

@@ -1,10 +1,10 @@
 ---
-actualPrice: $25.00
+actualPrice: $20.00
 album: Silver Knife Mysticism
 artist: Hell's Coronation
 categories:
 - Vinyl
-date: '2025-03-02T06:20:38'
+date: '2025-08-11T05:22:44'
 draft: false
 images:
 - /images/covers/hell's_coronation-silver_knife_mysticism.png
@@ -14,4 +14,4 @@ title: Hell's Coronation - Silver Knife Mysticism
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=51148&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=51148&sort=pd.name&order=ASC) for $20.00

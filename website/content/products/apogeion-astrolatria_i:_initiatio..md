@@ -1,10 +1,10 @@
 ---
-actualPrice: $27.00
+actualPrice: $21.60
 album: 'Astrolatria I: Initiatio.'
 artist: Apogeion
 categories:
 - Vinyl
-date: '2025-03-02T06:20:14'
+date: '2025-08-11T05:22:17'
 draft: false
 images:
 - /images/covers/apogeion-astrolatria_i:_initiatio..jpg
@@ -14,4 +14,4 @@ title: 'Apogeion - Astrolatria I: Initiatio.'
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=54896&sort=pd.name&order=ASC) for $27.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=54896&sort=pd.name&order=ASC) for $21.60

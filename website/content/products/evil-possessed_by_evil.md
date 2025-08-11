@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00
+actualPrice: $7.80
 album: Possessed By Evil
 artist: Evil
 categories:
 - CD
-date: '2025-03-02T06:22:02'
+date: '2025-08-11T05:24:18'
 draft: false
 images:
 - /images/covers/evil-possessed_by_evil.jpg
@@ -14,4 +14,4 @@ title: Evil - Possessed By Evil
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=51090&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=51090&sort=pd.name&order=ASC) for $7.80

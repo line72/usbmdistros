@@ -1,10 +1,10 @@
 ---
-actualPrice: $5.00
+actualPrice: $3.25
 album: Coronation
 artist: Katechon
 categories:
 - Vinyl
-date: '2025-03-02T06:20:46'
+date: '2025-08-11T05:22:51'
 draft: false
 images:
 - /images/covers/katechon-coronation.jpg
@@ -14,4 +14,4 @@ title: Katechon - Coronation
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=57650&sort=pd.name&order=ASC) for $5.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=57650&sort=pd.name&order=ASC) for $3.25

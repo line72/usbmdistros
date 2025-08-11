@@ -1,10 +1,10 @@
 ---
-actualPrice: $30.00
+actualPrice: $19.50
 album: Grave Ekstasis
 artist: Irkallian Oracle
 categories:
 - Vinyl
-date: '2025-03-02T06:20:43'
+date: '2025-08-11T05:22:50'
 draft: false
 images:
 - /images/covers/irkallian_oracle-grave_ekstasis.jpg
@@ -14,4 +14,4 @@ title: Irkallian Oracle - Grave Ekstasis
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=34859&sort=pd.name&order=ASC) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=34859&sort=pd.name&order=ASC) for $19.50

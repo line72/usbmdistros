@@ -1,10 +1,10 @@
 ---
-actualPrice: $6.00
+actualPrice: $4.80
 album: Purification by Debauchery
 artist: Rotten Liver
 categories:
 - CD
-date: '2025-03-02T06:22:35'
+date: '2025-08-11T05:24:54'
 draft: false
 images:
 - /images/covers/rotten_liver-purification_by_debauchery.png
@@ -14,4 +14,4 @@ title: Rotten Liver - Purification by Debauchery
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=2076&sort=pd.name&order=ASC) for $6.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=2076&sort=pd.name&order=ASC) for $4.80

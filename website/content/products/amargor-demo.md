@@ -1,10 +1,10 @@
 ---
-actualPrice: $15.00
+actualPrice: $12.00
 album: Demo
 artist: Amargor
 categories:
 - Cassette
-date: '2025-03-02T06:22:55'
+date: '2025-08-11T05:25:13'
 draft: false
 images:
 - /images/covers/amargor-demo.png
@@ -14,4 +14,4 @@ title: Amargor - Demo
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=54677&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=54677&sort=pd.name&order=ASC) for $12.00

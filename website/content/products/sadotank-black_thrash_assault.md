@@ -1,10 +1,10 @@
 ---
-actualPrice: $10.00
+actualPrice: $8.00
 album: Black Thrash Assault
 artist: Sadotank
 categories:
 - CD
-date: '2025-03-02T06:22:36'
+date: '2025-08-11T05:24:54'
 draft: false
 images:
 - /images/covers/sadotank-black_thrash_assault.png
@@ -14,4 +14,4 @@ title: Sadotank - Black Thrash Assault
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=4292&sort=pd.name&order=ASC) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=4292&sort=pd.name&order=ASC) for $8.00

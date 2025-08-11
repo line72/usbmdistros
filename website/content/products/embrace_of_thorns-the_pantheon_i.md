@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00
+actualPrice: $9.60
 album: The Pantheon I
 artist: Embrace of Thorns
 categories:
 - Vinyl
-date: '2025-03-02T06:21:33'
+date: '2025-08-11T05:23:45'
 draft: false
 images:
 - /images/covers/embrace_of_thorns-the_pantheon_i.jpg
@@ -14,4 +14,4 @@ title: Embrace of Thorns - The Pantheon I
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=21695&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=21695&sort=pd.name&order=ASC) for $9.60

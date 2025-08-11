@@ -1,10 +1,10 @@
 ---
-actualPrice: $27.00
+actualPrice: $21.60
 album: Promo Compilation
 artist: "Tirg\xFBl"
 categories:
 - Vinyl
-date: '2025-03-02T06:21:20'
+date: '2025-08-11T05:23:27'
 draft: false
 images:
 - "/images/covers/tirg\xFBl-promo_compilation.jpg"
@@ -14,4 +14,4 @@ title: "Tirg\xFBl - Promo Compilation"
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=57358&sort=pd.name&order=ASC) for $27.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=57358&sort=pd.name&order=ASC) for $21.60

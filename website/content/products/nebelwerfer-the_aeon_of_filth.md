@@ -1,10 +1,10 @@
 ---
-actualPrice: $8.00
+actualPrice: $6.40
 album: The Aeon of Filth
 artist: Nebelwerfer
 categories:
 - CD
-date: '2025-03-02T06:22:26'
+date: '2025-08-11T05:24:41'
 draft: false
 images:
 - /images/covers/nebelwerfer-the_aeon_of_filth.jpg
@@ -14,4 +14,4 @@ title: Nebelwerfer - The Aeon of Filth
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=1429&sort=pd.name&order=ASC) for $8.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=1429&sort=pd.name&order=ASC) for $6.40

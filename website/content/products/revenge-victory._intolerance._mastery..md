@@ -1,10 +1,10 @@
 ---
-actualPrice: $15.00
+actualPrice: $12.00
 album: Victory. Intolerance. Mastery.
 artist: Revenge
 categories:
 - CD
-date: '2025-07-12T05:22:04'
+date: '2025-08-11T05:24:53'
 draft: false
 images:
 - /images/covers/revenge-victory._intolerance._mastery..jpg
@@ -14,4 +14,4 @@ title: Revenge - Victory. Intolerance. Mastery.
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=62560&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=62560&sort=pd.name&order=ASC) for $12.00

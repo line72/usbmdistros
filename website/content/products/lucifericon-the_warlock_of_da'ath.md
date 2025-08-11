@@ -1,10 +1,10 @@
 ---
-actualPrice: $25.00
+actualPrice: $20.00
 album: The Warlock Of Da'ath
 artist: Lucifericon
 categories:
 - Vinyl
-date: '2025-07-13T05:20:27'
+date: '2025-08-11T05:22:54'
 draft: false
 images:
 - /images/covers/lucifericon-the_warlock_of_da'ath.png
@@ -14,4 +14,4 @@ title: Lucifericon - The Warlock Of Da'ath
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=62590&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=62590&sort=pd.name&order=ASC) for $20.00

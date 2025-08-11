@@ -1,10 +1,10 @@
 ---
-actualPrice: $10.00
+actualPrice: $8.00
 album: Demo
 artist: Battlehorns
 categories:
 - Cassette
-date: '2025-03-02T06:22:57'
+date: '2025-08-11T05:25:15'
 draft: false
 images:
 - /images/covers/battlehorns-demo.png
@@ -14,4 +14,4 @@ title: Battlehorns - Demo
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=45950&sort=pd.name&order=ASC) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=45950&sort=pd.name&order=ASC) for $8.00

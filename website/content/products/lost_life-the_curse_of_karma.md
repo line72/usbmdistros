@@ -1,10 +1,10 @@
 ---
-actualPrice: $17.00
+actualPrice: $13.60
 album: The Curse Of Karma
 artist: Lost Life
 categories:
 - Vinyl
-date: '2025-03-02T06:20:49'
+date: '2025-08-11T05:22:53'
 draft: false
 images:
 - /images/covers/lost_life-the_curse_of_karma.jpg
@@ -14,4 +14,4 @@ title: Lost Life - The Curse Of Karma
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=714&sort=pd.name&order=ASC) for $17.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=714&sort=pd.name&order=ASC) for $13.60

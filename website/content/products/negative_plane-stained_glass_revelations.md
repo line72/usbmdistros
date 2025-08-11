@@ -1,10 +1,10 @@
 ---
-actualPrice: $15.00
+actualPrice: $12.00
 album: Stained Glass Revelations
 artist: Negative Plane
 categories:
 - CD
-date: '2025-03-02T06:22:27'
+date: '2025-08-11T05:24:42'
 draft: false
 images:
 - /images/covers/negative_plane-stained_glass_revelations.jpg
@@ -14,4 +14,4 @@ title: Negative Plane - Stained Glass Revelations
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=28157&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=28157&sort=pd.name&order=ASC) for $12.00

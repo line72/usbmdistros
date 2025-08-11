@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00
+actualPrice: $9.60
 album: Deathmass Of The Gravedancer
 artist: Throneum
 categories:
 - CD
-date: '2025-03-02T06:22:44'
+date: '2025-08-11T05:25:03'
 draft: false
 images:
 - /images/covers/throneum-deathmass_of_the_gravedancer.jpg
@@ -14,4 +14,4 @@ title: Throneum - Deathmass Of The Gravedancer
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=57959&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=57959&sort=pd.name&order=ASC) for $9.60

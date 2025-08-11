@@ -1,10 +1,10 @@
 ---
-actualPrice: $8.00
+actualPrice: $6.40
 album: The Magickal Presence of Occult Forces
 artist: Necromante
 categories:
 - CD
-date: '2025-03-02T06:22:27'
+date: '2025-08-11T05:24:42'
 draft: false
 images:
 - /images/covers/necromante-the_magickal_presence_of_occult_forces.jpg
@@ -14,4 +14,4 @@ title: Necromante - The Magickal Presence of Occult Forces
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=3982&sort=pd.name&order=ASC) for $8.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=3982&sort=pd.name&order=ASC) for $6.40

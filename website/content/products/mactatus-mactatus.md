@@ -1,10 +1,10 @@
 ---
-actualPrice: $15.00
+actualPrice: $12.00
 album: Mactatus
 artist: Mactatus
 categories:
 - CD
-date: '2025-06-17T05:17:30'
+date: '2025-08-11T05:24:36'
 draft: false
 images:
 - /images/covers/mactatus-mactatus.png
@@ -14,4 +14,4 @@ title: Mactatus - Mactatus
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=62010&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=62010&sort=pd.name&order=ASC) for $12.00

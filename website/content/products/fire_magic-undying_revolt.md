@@ -1,10 +1,10 @@
 ---
-actualPrice: $25.00
+actualPrice: $20.00
 album: Undying Revolt
 artist: Fire Magic
 categories:
 - Vinyl
-date: '2025-03-02T06:20:33'
+date: '2025-08-11T05:22:38'
 draft: false
 images:
 - /images/covers/fire_magic-undying_revolt.jpg
@@ -14,4 +14,4 @@ title: Fire Magic - Undying Revolt
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=42624&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=42624&sort=pd.name&order=ASC) for $20.00

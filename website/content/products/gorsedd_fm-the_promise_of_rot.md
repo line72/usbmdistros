@@ -1,10 +1,10 @@
 ---
-actualPrice: $15.00
+actualPrice: $12.00
 album: The Promise of Rot
 artist: Gorsedd FM
 categories:
 - CD
-date: '2025-03-02T06:22:07'
+date: '2025-08-11T05:24:23'
 draft: false
 images:
 - /images/covers/gorsedd_fm-the_promise_of_rot.jpg
@@ -14,4 +14,4 @@ title: Gorsedd FM - The Promise of Rot
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=22357&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=22357&sort=pd.name&order=ASC) for $12.00

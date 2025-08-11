@@ -1,10 +1,10 @@
 ---
-actualPrice: $10.00
+actualPrice: $8.00
 album: Demo
 artist: Troops of Death
 categories:
 - Cassette
-date: '2025-03-02T06:23:28'
+date: '2025-08-11T05:25:48'
 draft: false
 images:
 - /images/covers/troops_of_death-demo.png
@@ -14,4 +14,4 @@ title: Troops of Death - Demo
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=23113&sort=pd.name&order=ASC) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=23113&sort=pd.name&order=ASC) for $8.00

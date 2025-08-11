@@ -1,10 +1,10 @@
 ---
-actualPrice: $6.00
+actualPrice: $4.80
 album: Kraft der Elemente
 artist: Nox Pestes
 categories:
 - CD
-date: '2025-03-02T06:22:29'
+date: '2025-08-11T05:24:44'
 draft: false
 images:
 - /images/covers/nox_pestes-kraft_der_elemente.jpg
@@ -14,4 +14,4 @@ title: Nox Pestes - Kraft der Elemente
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=1365&sort=pd.name&order=ASC) for $6.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=1365&sort=pd.name&order=ASC) for $4.80

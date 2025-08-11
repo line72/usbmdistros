@@ -1,10 +1,10 @@
 ---
-actualPrice: $25.00
+actualPrice: $20.00
 album: Requiem
 artist: I Shalt Become
 categories:
 - Vinyl
-date: '2025-03-02T06:20:41'
+date: '2025-08-11T05:22:47'
 draft: false
 images:
 - /images/covers/i_shalt_become-requiem.jpg
@@ -14,4 +14,4 @@ title: I Shalt Become - Requiem
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=44194&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=44194&sort=pd.name&order=ASC) for $20.00

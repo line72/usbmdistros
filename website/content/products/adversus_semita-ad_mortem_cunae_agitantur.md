@@ -1,10 +1,10 @@
 ---
-actualPrice: $13.00
+actualPrice: $10.40
 album: Ad Mortem Cunae Agitantur
 artist: Adversus Semita
 categories:
 - CD
-date: '2025-03-02T06:21:43'
+date: '2025-08-11T05:23:55'
 draft: false
 images:
 - /images/covers/adversus_semita-ad_mortem_cunae_agitantur.jpg
@@ -14,4 +14,4 @@ title: Adversus Semita - Ad Mortem Cunae Agitantur
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=55505&sort=pd.name&order=ASC) for $13.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=55505&sort=pd.name&order=ASC) for $10.40

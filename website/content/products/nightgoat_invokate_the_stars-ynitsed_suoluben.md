@@ -1,10 +1,10 @@
 ---
-actualPrice: $25.00
+actualPrice: $20.00
 album: Ynitsed Suoluben
 artist: Nightgoat Invokate the Stars
 categories:
 - Vinyl
-date: '2025-03-02T06:20:59'
+date: '2025-08-11T05:23:05'
 draft: false
 images:
 - /images/covers/nightgoat_invokate_the_stars-ynitsed_suoluben.png
@@ -14,4 +14,4 @@ title: Nightgoat Invokate the Stars - Ynitsed Suoluben
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=55055&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=55055&sort=pd.name&order=ASC) for $20.00

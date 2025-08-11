@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00
+actualPrice: $9.60
 album: Morituri Te Salutant
 artist: Hadez
 categories:
 - CD
-date: '2025-03-02T06:22:09'
+date: '2025-08-11T05:24:24'
 draft: false
 images:
 - /images/covers/hadez-morituri_te_salutant.jpg
@@ -14,4 +14,4 @@ title: Hadez - Morituri Te Salutant
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=46610&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=46610&sort=pd.name&order=ASC) for $9.60

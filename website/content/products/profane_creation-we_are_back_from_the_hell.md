@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00
+actualPrice: $9.60
 album: We Are Back From the Hell
 artist: Profane Creation
 categories:
 - CD
-date: '2025-03-02T06:22:33'
+date: '2025-08-11T05:24:52'
 draft: false
 images:
 - /images/covers/profane_creation-we_are_back_from_the_hell.jpg
@@ -14,4 +14,4 @@ title: Profane Creation - We Are Back From the Hell
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=39518&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=39518&sort=pd.name&order=ASC) for $9.60

@@ -1,10 +1,10 @@
 ---
-actualPrice: $15.00
+actualPrice: $12.00 - 15.00
 album: Neurotisme
 artist: Sulfure
 categories:
 - Vinyl
-date: '2025-03-04T06:33:50'
+date: '2025-08-11T05:23:23'
 draft: false
 images:
 - /images/covers/sulfure-neurotisme.jpg
@@ -14,5 +14,5 @@ title: Sulfure - Neurotisme
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=39250&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=39250&sort=pd.name&order=ASC) for $12.00
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/sulfure-neurotisme-lp) for $15.00 :: Black 2022 press vinyl

@@ -1,10 +1,10 @@
 ---
-actualPrice: $10.00
+actualPrice: $8.00
 album: Flaming God
 artist: Thou Shalt Fall
 categories:
 - CD
-date: '2025-03-02T06:22:43'
+date: '2025-08-11T05:25:03'
 draft: false
 images:
 - /images/covers/thou_shalt_fall-flaming_god.jpg
@@ -14,4 +14,4 @@ title: Thou Shalt Fall - Flaming God
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=46598&sort=pd.name&order=ASC) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=46598&sort=pd.name&order=ASC) for $8.00

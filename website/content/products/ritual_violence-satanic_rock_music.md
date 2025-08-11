@@ -1,10 +1,10 @@
 ---
-actualPrice: $25.00
+actualPrice: $20.00
 album: Satanic Rock Music
 artist: Ritual Violence
 categories:
 - Vinyl
-date: '2025-03-02T06:21:07'
+date: '2025-08-11T05:23:16'
 draft: false
 images:
 - /images/covers/ritual_violence-satanic_rock_music.jpg
@@ -14,4 +14,4 @@ title: Ritual Violence - Satanic Rock Music
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=54198&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=54198&sort=pd.name&order=ASC) for $20.00

@@ -1,10 +1,10 @@
 ---
-actualPrice: $17.00
+actualPrice: $13.60
 album: Trauermystik
 artist: Stodor Wilzorum
 categories:
 - Vinyl
-date: '2025-03-02T06:21:13'
+date: '2025-08-11T05:23:23'
 draft: false
 images:
 - /images/covers/stodor_wilzorum-trauermystik.jpg
@@ -14,4 +14,4 @@ title: Stodor Wilzorum - Trauermystik
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=58353&sort=pd.name&order=ASC) for $17.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=58353&sort=pd.name&order=ASC) for $13.60

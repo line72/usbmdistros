@@ -1,10 +1,10 @@
 ---
-actualPrice: $15.00
+actualPrice: $12.00
 album: The Ancient Spells Of The Past
 artist: Korpituli
 categories:
 - CD
-date: '2025-03-02T06:22:17'
+date: '2025-08-11T05:24:33'
 draft: false
 images:
 - /images/covers/korpituli-the_ancient_spells_of_the_past.png
@@ -14,4 +14,4 @@ title: Korpituli - The Ancient Spells Of The Past
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=50883&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=50883&sort=pd.name&order=ASC) for $12.00

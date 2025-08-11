@@ -1,10 +1,10 @@
 ---
-actualPrice: $15.00
+actualPrice: $12.00
 album: Demo
 artist: Euronymous
 categories:
 - Cassette
-date: '2025-03-10T05:28:34'
+date: '2025-08-11T05:25:26'
 draft: false
 images:
 - /images/covers/euronymous-demo.png
@@ -14,4 +14,4 @@ title: Euronymous - Demo
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=60653&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=60653&sort=pd.name&order=ASC) for $12.00

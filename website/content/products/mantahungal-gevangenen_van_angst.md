@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00
+actualPrice: $9.60
 album: Gevangenen van Angst
 artist: Mantahungal
 categories:
 - CD
-date: '2025-03-02T06:22:22'
+date: '2025-08-11T05:24:36'
 draft: false
 images:
 - /images/covers/mantahungal-gevangenen_van_angst.jpg
@@ -14,4 +14,4 @@ title: Mantahungal - Gevangenen van Angst
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=53046&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=53046&sort=pd.name&order=ASC) for $9.60

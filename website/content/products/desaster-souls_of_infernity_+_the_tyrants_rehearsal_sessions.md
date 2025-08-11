@@ -1,10 +1,10 @@
 ---
-actualPrice: $25.00
+actualPrice: $20.00
 album: Souls of Infernity + The Tyrants Rehearsal Sessions
 artist: Desaster
 categories:
 - Vinyl
-date: '2025-08-03T05:20:23'
+date: '2025-08-11T05:22:30'
 draft: false
 images:
 - /images/covers/desaster-souls_of_infernity_+_the_tyrants_rehearsal_sessions.png
@@ -14,4 +14,4 @@ title: Desaster - Souls of Infernity + The Tyrants Rehearsal Sessions
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=62916&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=62916&sort=pd.name&order=ASC) for $20.00

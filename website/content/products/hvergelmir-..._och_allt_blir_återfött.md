@@ -1,10 +1,10 @@
 ---
-actualPrice: $25.00
+actualPrice: $20.00
 album: "... Och Allt Blir \xC5terf\xF6tt"
 artist: Hvergelmir
 categories:
 - Vinyl
-date: '2025-03-02T06:20:41'
+date: '2025-08-11T05:22:46'
 draft: false
 images:
 - "/images/covers/hvergelmir-..._och_allt_blir_\xE5terf\xF6tt.png"
@@ -14,4 +14,4 @@ title: "Hvergelmir - ... Och Allt Blir \xC5terf\xF6tt"
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=50873&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=50873&sort=pd.name&order=ASC) for $20.00

@@ -1,10 +1,10 @@
 ---
-actualPrice: $13.00
+actualPrice: $10.40
 album: Street Metal Gig In Ikebukuro!
 artist: Barbatos
 categories:
 - CD
-date: '2025-03-02T06:21:50'
+date: '2025-08-11T05:24:00'
 draft: false
 images:
 - /images/covers/barbatos-street_metal_gig_in_ikebukuro!.jpg
@@ -14,4 +14,4 @@ title: Barbatos - Street Metal Gig In Ikebukuro!
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=55565&sort=pd.name&order=ASC) for $13.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=55565&sort=pd.name&order=ASC) for $10.40

@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00
+actualPrice: $9.60
 album: 1585-1646
 artist: Possession
 categories:
 - CD
-date: '2025-03-02T06:22:32'
+date: '2025-08-11T05:24:51'
 draft: false
 images:
 - /images/covers/possession-1585-1646.jpg
@@ -14,4 +14,4 @@ title: Possession - 1585-1646
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=47097&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=47097&sort=pd.name&order=ASC) for $9.60

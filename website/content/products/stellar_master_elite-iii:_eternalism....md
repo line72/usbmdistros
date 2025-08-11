@@ -1,10 +1,10 @@
 ---
-actualPrice: $6.00
+actualPrice: $4.80
 album: 'III: Eternalism...'
 artist: Stellar Master Elite
 categories:
 - CD
-date: '2025-03-02T06:22:41'
+date: '2025-08-11T05:25:00'
 draft: false
 images:
 - /images/covers/stellar_master_elite-iii:_eternalism....jpg
@@ -14,4 +14,4 @@ title: 'Stellar Master Elite - III: Eternalism...'
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=2120&sort=pd.name&order=ASC) for $6.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=2120&sort=pd.name&order=ASC) for $4.80

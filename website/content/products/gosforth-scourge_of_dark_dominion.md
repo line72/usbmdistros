@@ -1,11 +1,11 @@
 ---
-actualPrice: $12.00
+actualPrice: $9.60
 album: Scourge of Dark Dominion
 artist: Gosforth
 categories:
 - Cassette
 - CD
-date: '2025-03-02T06:23:07'
+date: '2025-08-11T05:25:28'
 draft: false
 images:
 - /images/covers/gosforth-scourge_of_dark_dominion.png
@@ -15,6 +15,6 @@ title: Gosforth - Scourge of Dark Dominion
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=44162&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=44162&sort=pd.name&order=ASC) for $9.60
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=44165&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=44165&sort=pd.name&order=ASC) for $9.60

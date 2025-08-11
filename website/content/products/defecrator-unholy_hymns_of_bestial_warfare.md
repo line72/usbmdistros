@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00
+actualPrice: $9.60
 album: Unholy Hymns of Bestial Warfare
 artist: Defecrator
 categories:
 - CD
-date: '2025-03-02T06:21:58'
+date: '2025-08-11T05:24:10'
 draft: false
 images:
 - /images/covers/defecrator-unholy_hymns_of_bestial_warfare.jpg
@@ -14,4 +14,4 @@ title: Defecrator - Unholy Hymns of Bestial Warfare
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=55077&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=55077&sort=pd.name&order=ASC) for $9.60

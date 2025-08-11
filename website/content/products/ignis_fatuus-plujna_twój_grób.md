@@ -1,10 +1,10 @@
 ---
-actualPrice: $7.00
+actualPrice: $5.60
 album: "Plujna Tw\xF3j Gr\xF3b"
 artist: Ignis Fatuus
 categories:
 - CD
-date: '2025-03-02T06:22:12'
+date: '2025-08-11T05:24:28'
 draft: false
 images:
 - "/images/covers/ignis_fatuus-plujna_tw\xF3j_gr\xF3b.jpg"
@@ -14,4 +14,4 @@ title: "Ignis Fatuus - Plujna Tw\xF3j Gr\xF3b"
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=1459&sort=pd.name&order=ASC) for $7.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=1459&sort=pd.name&order=ASC) for $5.60

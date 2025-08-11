@@ -1,10 +1,10 @@
 ---
-actualPrice: $10.00
+actualPrice: $8.00
 album: Omens
 artist: Vorpal Sword
 categories:
 - Cassette
-date: '2025-03-02T06:23:30'
+date: '2025-08-11T05:25:50'
 draft: false
 images:
 - /images/covers/vorpal_sword-omens.jpg
@@ -14,4 +14,4 @@ title: Vorpal Sword - Omens
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=22270&sort=pd.name&order=ASC) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=22270&sort=pd.name&order=ASC) for $8.00

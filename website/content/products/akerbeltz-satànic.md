@@ -1,10 +1,10 @@
 ---
-actualPrice: $10.00
+actualPrice: $8.00
 album: "Sat\xE0nic"
 artist: Akerbeltz
 categories:
 - CD
-date: '2025-03-02T06:21:43'
+date: '2025-08-11T05:23:56'
 draft: false
 images:
 - "/images/covers/akerbeltz-sat\xE0nic.jpg"
@@ -14,4 +14,4 @@ title: "Akerbeltz - Sat\xE0nic"
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=3063&sort=pd.name&order=ASC) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=3063&sort=pd.name&order=ASC) for $8.00

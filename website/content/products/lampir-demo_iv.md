@@ -1,10 +1,10 @@
 ---
-actualPrice: $25.00
+actualPrice: $20.00
 album: Demo IV
 artist: Lampir
 categories:
 - Vinyl
-date: '2025-03-02T06:20:48'
+date: '2025-08-11T05:22:53'
 draft: false
 images:
 - /images/covers/lampir-demo_iv.png
@@ -14,4 +14,4 @@ title: Lampir - Demo IV
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=55707&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=55707&sort=pd.name&order=ASC) for $20.00

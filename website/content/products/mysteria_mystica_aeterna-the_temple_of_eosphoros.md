@@ -1,11 +1,11 @@
 ---
-actualPrice: $12.00 - 25.00
+actualPrice: $9.60 - 20.00
 album: The Temple of Eosphoros
 artist: Mysteria Mystica Aeterna
 categories:
 - Vinyl
 - CD
-date: '2025-03-02T06:22:25'
+date: '2025-08-11T05:24:41'
 draft: false
 images:
 - /images/covers/mysteria_mystica_aeterna-the_temple_of_eosphoros.png
@@ -15,6 +15,6 @@ title: Mysteria Mystica Aeterna - The Temple of Eosphoros
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29759&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29759&sort=pd.name&order=ASC) for $20.00
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=35581&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=35581&sort=pd.name&order=ASC) for $9.60

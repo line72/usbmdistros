@@ -1,10 +1,10 @@
 ---
-actualPrice: $7.00
+actualPrice: $5.60
 album: Aonian Invocation
 artist: Agos
 categories:
 - Cassette
-date: '2025-03-02T06:22:54'
+date: '2025-08-11T05:25:12'
 draft: false
 images:
 - /images/covers/agos-aonian_invocation.png
@@ -14,4 +14,4 @@ title: Agos - Aonian Invocation
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=5838&sort=pd.name&order=ASC) for $7.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=5838&sort=pd.name&order=ASC) for $5.60

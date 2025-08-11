@@ -1,10 +1,10 @@
 ---
-actualPrice: $8.00 - 12.00
+actualPrice: $6.40 - 9.60
 album: "\u010Cornaje Po\u0142ymia"
 artist: "\u0179miar\u0107vie\u0142y"
 categories:
 - Cassette
-date: '2025-03-02T06:23:31'
+date: '2025-08-11T05:25:52'
 draft: false
 images:
 - "/images/covers/\u017Amiar\u0107vie\u0142y-\u010Dornaje_po\u0142ymia.jpg"
@@ -14,5 +14,5 @@ title: "\u0179miar\u0107vie\u0142y - \u010Cornaje Po\u0142ymia"
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=17928&sort=pd.name&order=ASC) for $8.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=52155&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=17928&sort=pd.name&order=ASC) for $6.40
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=52155&sort=pd.name&order=ASC) for $9.60

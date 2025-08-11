@@ -1,10 +1,10 @@
 ---
-actualPrice: $30.00
+actualPrice: $24.00
 album: Morbid Funeral
 artist: Lure
 categories:
 - Vinyl
-date: '2025-03-02T06:20:50'
+date: '2025-08-11T05:22:54'
 draft: false
 images:
 - /images/covers/lure-morbid_funeral.jpg
@@ -14,4 +14,4 @@ title: Lure - Morbid Funeral
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=57902&sort=pd.name&order=ASC) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=57902&sort=pd.name&order=ASC) for $24.00

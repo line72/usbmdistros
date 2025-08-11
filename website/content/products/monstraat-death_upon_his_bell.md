@@ -1,11 +1,11 @@
 ---
-actualPrice: $12.00
+actualPrice: $9.60
 album: Death Upon His Bell
 artist: Monstraat
 categories:
 - Cassette
 - CD
-date: '2025-03-02T06:23:14'
+date: '2025-08-11T05:25:35'
 draft: false
 images:
 - /images/covers/monstraat-death_upon_his_bell.jpg
@@ -15,6 +15,6 @@ title: Monstraat - Death Upon His Bell
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=54334&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=54334&sort=pd.name&order=ASC) for $9.60
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=54331&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=54331&sort=pd.name&order=ASC) for $9.60

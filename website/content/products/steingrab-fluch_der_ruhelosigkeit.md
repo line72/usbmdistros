@@ -1,10 +1,10 @@
 ---
-actualPrice: $13.00
+actualPrice: $10.40
 album: Fluch Der Ruhelosigkeit
 artist: Steingrab
 categories:
 - CD
-date: '2025-03-02T06:22:41'
+date: '2025-08-11T05:25:00'
 draft: false
 images:
 - /images/covers/steingrab-fluch_der_ruhelosigkeit.png
@@ -14,4 +14,4 @@ title: Steingrab - Fluch Der Ruhelosigkeit
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=55518&sort=pd.name&order=ASC) for $13.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=55518&sort=pd.name&order=ASC) for $10.40

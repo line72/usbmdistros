@@ -1,10 +1,10 @@
 ---
-actualPrice: $10.00
+actualPrice: $8.00
 album: Wahnsinn. Tod. Verrat
 artist: Nihil Nocturne
 categories:
 - CD
-date: '2025-03-02T06:22:28'
+date: '2025-08-11T05:24:43'
 draft: false
 images:
 - /images/covers/nihil_nocturne-wahnsinn._tod._verrat.jpg
@@ -14,4 +14,4 @@ title: Nihil Nocturne - Wahnsinn. Tod. Verrat
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=27736&sort=pd.name&order=ASC) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=27736&sort=pd.name&order=ASC) for $8.00

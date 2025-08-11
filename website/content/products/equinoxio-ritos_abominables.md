@@ -1,10 +1,10 @@
 ---
-actualPrice: $10.00
+actualPrice: $8.00
 album: Ritos Abominables
 artist: Equinoxio
 categories:
 - CD
-date: '2025-03-02T06:22:02'
+date: '2025-08-11T05:24:17'
 draft: false
 images:
 - /images/covers/equinoxio-ritos_abominables.jpg
@@ -14,4 +14,4 @@ title: Equinoxio - Ritos Abominables
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=3259&sort=pd.name&order=ASC) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=3259&sort=pd.name&order=ASC) for $8.00

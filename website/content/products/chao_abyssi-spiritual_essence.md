@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00
+actualPrice: $9.60
 album: Spiritual Essence
 artist: Chao Abyssi
 categories:
 - CD
-date: '2025-03-02T06:21:53'
+date: '2025-08-11T05:24:04'
 draft: false
 images:
 - /images/covers/chao_abyssi-spiritual_essence.jpg
@@ -14,4 +14,4 @@ title: Chao Abyssi - Spiritual Essence
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=32818&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=32818&sort=pd.name&order=ASC) for $9.60

@@ -1,10 +1,10 @@
 ---
-actualPrice: $40.00
+actualPrice: $32.00
 album: Krihapentswor
 artist: Pantheon
 categories:
 - Vinyl
-date: '2025-04-09T18:47:58'
+date: '2025-08-11T05:23:12'
 draft: false
 images:
 - /images/covers/pantheon-krihapentswor.jpg
@@ -14,4 +14,4 @@ title: Pantheon - Krihapentswor
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=61027&sort=pd.name&order=ASC) for $40.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=61027&sort=pd.name&order=ASC) for $32.00

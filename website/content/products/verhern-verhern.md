@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00
+actualPrice: $9.60
 album: Verhern
 artist: Verhern
 categories:
 - CD
-date: '2025-03-02T06:22:47'
+date: '2025-08-11T05:25:07'
 draft: false
 images:
 - /images/covers/verhern-verhern.jpg
@@ -14,4 +14,4 @@ title: Verhern - Verhern
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=33109&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=33109&sort=pd.name&order=ASC) for $9.60

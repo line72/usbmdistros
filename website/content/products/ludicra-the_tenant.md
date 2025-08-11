@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00
+actualPrice: $9.60
 album: The Tenant
 artist: Ludicra
 categories:
 - CD
-date: '2025-04-24T05:22:09'
+date: '2025-08-11T05:24:35'
 draft: false
 images:
 - /images/covers/ludicra-the_tenant.png
@@ -14,4 +14,4 @@ title: Ludicra - The Tenant
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=61231&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=61231&sort=pd.name&order=ASC) for $9.60

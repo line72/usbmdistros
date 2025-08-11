@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00
+actualPrice: $9.60
 album: De Vermis Mysteriis
 artist: Baxaxaxa
 categories:
 - Cassette
-date: '2025-03-02T06:22:57'
+date: '2025-08-11T05:25:15'
 draft: false
 images:
 - /images/covers/baxaxaxa-de_vermis_mysteriis.jpg
@@ -14,4 +14,4 @@ title: Baxaxaxa - De Vermis Mysteriis
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=46951&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=46951&sort=pd.name&order=ASC) for $9.60

@@ -1,10 +1,10 @@
 ---
-actualPrice: $28.00
+actualPrice: $22.40
 album: Wenn die Schatten Rufen
 artist: Konfession
 categories:
 - Vinyl
-date: '2025-05-21T05:18:49'
+date: '2025-08-11T05:22:52'
 draft: false
 images:
 - /images/covers/konfession-wenn_die_schatten_rufen.jpg
@@ -14,4 +14,4 @@ title: Konfession - Wenn die Schatten Rufen
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=61517&sort=pd.name&order=ASC) for $28.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=61517&sort=pd.name&order=ASC) for $22.40
