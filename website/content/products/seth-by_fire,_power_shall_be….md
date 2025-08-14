@@ -4,7 +4,7 @@ album: "By Fire, Power Shall Be\u2026"
 artist: Seth
 categories:
 - Vinyl
-date: '2025-07-08T05:01:49'
+date: '2025-08-13T05:01:52'
 draft: false
 images:
 - "/images/covers/seth-by_fire,_power_shall_be\u2026.png"

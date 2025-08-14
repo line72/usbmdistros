@@ -1,10 +1,10 @@
 ---
-actualPrice: $20.00 - 30.00
+actualPrice: $30.00
 album: Necrotelepathy
 artist: Candelabrum
 categories:
 - Vinyl
-date: '2025-08-11T05:22:24'
+date: '2024-11-25T06:50:44'
 draft: false
 images:
 - /images/covers/candelabrum-necrotelepathy.jpg
@@ -15,4 +15,3 @@ title: Candelabrum - Necrotelepathy
 
 ## Vinyl
 * Purchase from [CW Productions](https://shop.cwproductions.net/products/candelabrum-necrotelepathy-lp) for $30.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=60239&sort=pd.name&order=ASC) for $20.00

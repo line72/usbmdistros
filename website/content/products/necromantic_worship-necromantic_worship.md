@@ -16,6 +16,5 @@ title: Necromantic Worship - Necromantic Worship
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=62922&sort=pd.name&order=ASC) for $16.25
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=62924&sort=pd.name&order=ASC) for $16.25
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=62923&sort=pd.name&order=ASC) for $7.80

@@ -4,7 +4,7 @@ album: S/T
 artist: Sad Legend
 categories:
 - Vinyl
-date: '2025-04-15T05:02:17'
+date: '2025-08-14T05:01:56'
 draft: false
 images:
 - /images/covers/sad_legend-s-t.png
