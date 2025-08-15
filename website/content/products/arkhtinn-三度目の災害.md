@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00
+actualPrice: $15.00
 album: "\u4E09\u5EA6\u76EE\u306E\u707D\u5BB3"
 artist: Arkhtinn
 categories:
 - CD
-date: '2025-08-11T05:23:58'
+date: '2025-08-15T05:21:04'
 draft: false
 images:
 - "/images/covers/arkhtinn-\u4E09\u5EA6\u76EE\u306E\u707D\u5BB3.jpg"
@@ -14,4 +14,4 @@ title: "Arkhtinn - \u4E09\u5EA6\u76EE\u306E\u707D\u5BB3"
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=47082&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=47082&sort=pd.name&order=ASC) for $15.00

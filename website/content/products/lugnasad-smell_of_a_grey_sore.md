@@ -1,10 +1,10 @@
 ---
-actualPrice: $6.40
+actualPrice: $8.00
 album: Smell of a Grey Sore
 artist: Lugnasad
 categories:
 - CD
-date: '2025-08-11T05:24:35'
+date: '2025-08-15T05:21:39'
 draft: false
 images:
 - /images/covers/lugnasad-smell_of_a_grey_sore.jpg
@@ -14,4 +14,4 @@ title: Lugnasad - Smell of a Grey Sore
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=1411&sort=pd.name&order=ASC) for $6.40
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=1411&sort=pd.name&order=ASC) for $8.00

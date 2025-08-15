@@ -1,10 +1,10 @@
 ---
-actualPrice: $9.75
+actualPrice: $15.00
 album: Calamities
 artist: Scourge Lair
 categories:
 - Vinyl
-date: '2025-08-11T05:23:18'
+date: '2025-08-15T05:20:26'
 draft: false
 images:
 - /images/covers/scourge_lair-calamities.jpg
@@ -14,4 +14,4 @@ title: Scourge Lair - Calamities
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=50027&sort=pd.name&order=ASC) for $9.75
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=50027&sort=pd.name&order=ASC) for $15.00

@@ -1,10 +1,10 @@
 ---
-actualPrice: $32.00
+actualPrice: $40.00
 album: Black Cover
 artist: Teufel
 categories:
 - Vinyl
-date: '2025-08-11T05:23:24'
+date: '2025-08-15T05:20:32'
 draft: false
 images:
 - /images/covers/teufel-black_cover.png
@@ -14,4 +14,4 @@ title: Teufel - Black Cover
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=54149&sort=pd.name&order=ASC) for $32.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=54149&sort=pd.name&order=ASC) for $40.00

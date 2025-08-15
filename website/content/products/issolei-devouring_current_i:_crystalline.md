@@ -1,10 +1,10 @@
 ---
-actualPrice: $21.60
+actualPrice: $27.00
 album: 'Devouring Current I: Crystalline'
 artist: Issolei
 categories:
 - Vinyl
-date: '2025-08-11T05:22:50'
+date: '2025-08-15T05:19:59'
 draft: false
 images:
 - /images/covers/issolei-devouring_current_i:_crystalline.jpg
@@ -14,4 +14,4 @@ title: 'Issolei - Devouring Current I: Crystalline'
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=58263&sort=pd.name&order=ASC) for $21.60
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=58263&sort=pd.name&order=ASC) for $27.00

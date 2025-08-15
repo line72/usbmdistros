@@ -1,10 +1,10 @@
 ---
-actualPrice: $16.00
+actualPrice: $20.00
 album: The Final Separation / Fallen Angel
 artist: Bulldozer
 categories:
 - CD
-date: '2025-08-11T05:24:03'
+date: '2025-08-15T05:21:09'
 draft: false
 images:
 - /images/covers/bulldozer-the_final_separation_-_fallen_angel.jpg
@@ -14,4 +14,4 @@ title: Bulldozer - The Final Separation / Fallen Angel
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=60261&sort=pd.name&order=ASC) for $16.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=60261&sort=pd.name&order=ASC) for $20.00

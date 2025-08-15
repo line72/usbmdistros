@@ -1,10 +1,10 @@
 ---
-actualPrice: $5.60
+actualPrice: $7.00
 album: Ferro Ignique
 artist: Leraje
 categories:
 - Vinyl
-date: '2025-08-11T05:23:48'
+date: '2025-08-15T05:20:54'
 draft: false
 images:
 - /images/covers/leraje-ferro_ignique.jpg
@@ -14,4 +14,4 @@ title: Leraje - Ferro Ignique
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=917&sort=pd.name&order=ASC) for $5.60
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=917&sort=pd.name&order=ASC) for $7.00

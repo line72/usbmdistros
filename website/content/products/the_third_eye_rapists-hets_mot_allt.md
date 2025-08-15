@@ -1,10 +1,10 @@
 ---
-actualPrice: $20.00
+actualPrice: $25.00
 album: Hets Mot Allt
 artist: The Third Eye Rapists
 categories:
 - Vinyl
-date: '2025-08-11T05:23:26'
+date: '2025-08-15T05:20:33'
 draft: false
 images:
 - /images/covers/the_third_eye_rapists-hets_mot_allt.jpg
@@ -14,4 +14,4 @@ title: The Third Eye Rapists - Hets Mot Allt
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=21781&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=21781&sort=pd.name&order=ASC) for $25.00

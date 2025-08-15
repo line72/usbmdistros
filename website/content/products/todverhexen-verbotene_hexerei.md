@@ -1,10 +1,10 @@
 ---
-actualPrice: $9.60
+actualPrice: $12.00
 album: Verbotene Hexerei
 artist: Todverhexen
 categories:
 - CD
-date: '2025-08-11T05:25:03'
+date: '2025-08-15T05:22:05'
 draft: false
 images:
 - /images/covers/todverhexen-verbotene_hexerei.jpg
@@ -14,4 +14,4 @@ title: Todverhexen - Verbotene Hexerei
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=38870&sort=pd.name&order=ASC) for $9.60
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=38870&sort=pd.name&order=ASC) for $12.00

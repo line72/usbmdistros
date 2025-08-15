@@ -1,11 +1,11 @@
 ---
-actualPrice: $7.20 - 12.00
+actualPrice: $9.00 - 15.00
 album: Flames Turned To Ashes
 artist: Ceremonial Curse
 categories:
 - Vinyl
 - Cassette
-date: '2025-08-11T05:25:18'
+date: '2025-08-15T05:22:19'
 draft: false
 images:
 - /images/covers/ceremonial_curse-flames_turned_to_ashes.jpg
@@ -15,6 +15,6 @@ title: Ceremonial Curse - Flames Turned To Ashes
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=62687&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=62687&sort=pd.name&order=ASC) for $15.00
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=23065&sort=pd.name&order=ASC) for $7.20
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=23065&sort=pd.name&order=ASC) for $9.00

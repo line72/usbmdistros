@@ -1,11 +1,11 @@
 ---
-actualPrice: $9.60 - 24.00
+actualPrice: $12.00 - 30.00
 album: Bruyne Troon
 artist: Lugubrum
 categories:
 - Vinyl
 - CD
-date: '2025-08-11T05:24:35'
+date: '2025-08-15T05:21:39'
 draft: false
 images:
 - /images/covers/lugubrum-bruyne_troon.jpg
@@ -15,6 +15,6 @@ title: Lugubrum - Bruyne Troon
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=62394&sort=pd.name&order=ASC) for $24.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=62394&sort=pd.name&order=ASC) for $30.00
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=62393&sort=pd.name&order=ASC) for $9.60
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=62393&sort=pd.name&order=ASC) for $12.00

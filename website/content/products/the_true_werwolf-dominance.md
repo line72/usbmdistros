@@ -1,10 +1,10 @@
 ---
-actualPrice: $20.00
+actualPrice: $25.00
 album: Dominance
 artist: The True Werwolf
 categories:
 - Vinyl
-date: '2025-08-11T05:23:26'
+date: '2025-08-15T05:20:33'
 draft: false
 images:
 - /images/covers/the_true_werwolf-dominance.jpg
@@ -14,4 +14,4 @@ title: The True Werwolf - Dominance
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=60880&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=60880&sort=pd.name&order=ASC) for $25.00

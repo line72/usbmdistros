@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00
+actualPrice: $15.00
 album: Empyrean
 artist: Bliss Of Flesh
 categories:
 - Vinyl
-date: '2025-08-11T05:22:22'
+date: '2025-08-15T05:19:33'
 draft: false
 images:
 - /images/covers/bliss_of_flesh-empyrean.jpg
@@ -14,4 +14,4 @@ title: Bliss Of Flesh - Empyrean
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=38029&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=38029&sort=pd.name&order=ASC) for $15.00

@@ -1,10 +1,10 @@
 ---
-actualPrice: $20.00
+actualPrice: $25.00
 album: XXXVI XXXI N XXV XXVIII O
 artist: Hadopelagyal
 categories:
 - Vinyl
-date: '2025-08-11T05:22:43'
+date: '2025-08-15T05:19:52'
 draft: false
 images:
 - /images/covers/hadopelagyal-xxxvi_xxxi_n_xxv_xxviii_o.jpg
@@ -14,4 +14,4 @@ title: Hadopelagyal - XXXVI XXXI N XXV XXVIII O
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=45108&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=45108&sort=pd.name&order=ASC) for $25.00

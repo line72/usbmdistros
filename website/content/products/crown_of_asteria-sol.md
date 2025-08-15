@@ -1,10 +1,10 @@
 ---
-actualPrice: $6.40
+actualPrice: $8.00
 album: Sol
 artist: Crown of Asteria
 categories:
 - Cassette
-date: '2025-08-11T05:25:19'
+date: '2025-08-15T05:22:20'
 draft: false
 images:
 - /images/covers/crown_of_asteria-sol.png
@@ -14,4 +14,4 @@ title: Crown of Asteria - Sol
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=17369&sort=pd.name&order=ASC) for $6.40
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=17369&sort=pd.name&order=ASC) for $8.00

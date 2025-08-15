@@ -1,10 +1,10 @@
 ---
-actualPrice: $9.60
+actualPrice: $12.00
 album: "Sanktuarium Pos\u0119pnych Ryt\xF3w"
 artist: Vermisst
 categories:
 - Cassette
-date: '2025-08-11T05:25:50'
+date: '2025-08-15T05:22:49'
 draft: false
 images:
 - "/images/covers/vermisst-sanktuarium_pos\u0119pnych_ryt\xF3w.jpg"
@@ -14,4 +14,4 @@ title: "Vermisst - Sanktuarium Pos\u0119pnych Ryt\xF3w"
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=26764&sort=pd.name&order=ASC) for $9.60
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=26764&sort=pd.name&order=ASC) for $12.00

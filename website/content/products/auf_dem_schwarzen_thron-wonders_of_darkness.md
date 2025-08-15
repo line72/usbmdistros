@@ -1,10 +1,10 @@
 ---
-actualPrice: $5.60
+actualPrice: $7.00
 album: Wonders Of Darkness
 artist: Auf Dem Schwarzen Thron
 categories:
 - Vinyl
-date: '2025-08-11T05:23:39'
+date: '2025-08-15T05:20:49'
 draft: false
 images:
 - /images/covers/auf_dem_schwarzen_thron-wonders_of_darkness.jpg
@@ -14,4 +14,4 @@ title: Auf Dem Schwarzen Thron - Wonders Of Darkness
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=1641&sort=pd.name&order=ASC) for $5.60
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=1641&sort=pd.name&order=ASC) for $7.00

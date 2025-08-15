@@ -1,10 +1,10 @@
 ---
-actualPrice: $24.00
+actualPrice: $30.00
 album: "Des Geh\xF6rnten Saat / Teufelschmand"
 artist: Corneus
 categories:
 - Vinyl
-date: '2025-08-11T05:22:27'
+date: '2025-08-15T05:19:37'
 draft: false
 images:
 - "/images/covers/corneus-des_geh\xF6rnten_saat_-_teufelschmand.jpg"
@@ -14,4 +14,4 @@ title: "Corneus - Des Geh\xF6rnten Saat / Teufelschmand"
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=59174&sort=pd.name&order=ASC) for $24.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=59174&sort=pd.name&order=ASC) for $30.00

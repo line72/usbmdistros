@@ -1,10 +1,10 @@
 ---
-actualPrice: $5.20
+actualPrice: $8.00
 album: Sangue
 artist: Sangue
 categories:
 - Vinyl
-date: '2025-08-11T05:23:51'
+date: '2025-08-15T05:20:57'
 draft: false
 images:
 - /images/covers/sangue-sangue.jpg
@@ -14,4 +14,4 @@ title: Sangue - Sangue
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=4736&sort=pd.name&order=ASC) for $5.20
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=4736&sort=pd.name&order=ASC) for $8.00

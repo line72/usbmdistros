@@ -1,10 +1,10 @@
 ---
-actualPrice: $20.00
+actualPrice: $25.00
 album: Among The Ruins
 artist: Norrhem
 categories:
 - Vinyl
-date: '2025-08-11T05:23:07'
+date: '2025-08-15T05:20:17'
 draft: false
 images:
 - /images/covers/norrhem-among_the_ruins.png
@@ -14,4 +14,4 @@ title: Norrhem - Among The Ruins
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=61469&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=61469&sort=pd.name&order=ASC) for $25.00

@@ -1,10 +1,10 @@
 ---
-actualPrice: $13.00
+actualPrice: $20.00
 album: Rejected Test Press
 artist: Death Yell
 categories:
 - Vinyl
-date: '2025-08-11T05:22:29'
+date: '2025-08-15T05:19:43'
 draft: false
 images:
 - /images/covers/death_yell-rejected_test_press.png
@@ -14,4 +14,4 @@ title: Death Yell - Rejected Test Press
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=34860&sort=pd.name&order=ASC) for $13.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=34860&sort=pd.name&order=ASC) for $20.00

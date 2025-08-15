@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00
+actualPrice: $15.00
 album: Sowing With Salt
 artist: Hate Forest
 categories:
 - Vinyl
-date: '2025-08-11T05:23:47'
+date: '2025-08-15T05:20:53'
 draft: false
 images:
 - /images/covers/hate_forest-sowing_with_salt.jpg
@@ -14,4 +14,4 @@ title: Hate Forest - Sowing With Salt
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=62617&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=62617&sort=pd.name&order=ASC) for $15.00

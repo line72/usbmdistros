@@ -1,10 +1,10 @@
 ---
-actualPrice: $4.80
+actualPrice: $6.00
 album: Demonarchrist
 artist: Heretical
 categories:
 - CD
-date: '2025-08-11T05:24:26'
+date: '2025-08-15T05:21:31'
 draft: false
 images:
 - /images/covers/heretical-demonarchrist.jpg
@@ -14,4 +14,4 @@ title: Heretical - Demonarchrist
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=1343&sort=pd.name&order=ASC) for $4.80
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=1343&sort=pd.name&order=ASC) for $6.00

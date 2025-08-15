@@ -1,10 +1,10 @@
 ---
-actualPrice: $6.40
+actualPrice: $8.00
 album: Adirondack
 artist: Enthauptung
 categories:
 - Cassette
-date: '2025-08-11T05:25:25'
+date: '2025-08-15T05:22:26'
 draft: false
 images:
 - /images/covers/enthauptung-adirondack.png
@@ -14,4 +14,4 @@ title: Enthauptung - Adirondack
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=17357&sort=pd.name&order=ASC) for $6.40
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=17357&sort=pd.name&order=ASC) for $8.00

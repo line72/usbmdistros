@@ -1,10 +1,10 @@
 ---
-actualPrice: $9.60
+actualPrice: $12.00
 album: "Ficci\xF3n, Lujuria Y Blasfemia / F.A.L."
 artist: Pactum
 categories:
 - CD
-date: '2025-08-11T05:24:46'
+date: '2025-08-15T05:21:50'
 draft: false
 images:
 - "/images/covers/pactum-ficci\xF3n,_lujuria_y_blasfemia_-_f.a.l..jpg"
@@ -14,4 +14,4 @@ title: "Pactum - Ficci\xF3n, Lujuria Y Blasfemia / F.A.L."
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=55383&sort=pd.name&order=ASC) for $9.60
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=55383&sort=pd.name&order=ASC) for $12.00

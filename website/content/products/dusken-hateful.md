@@ -1,10 +1,10 @@
 ---
-actualPrice: $9.60
+actualPrice: $12.00
 album: Hateful
 artist: Dusken
 categories:
 - CD
-date: '2025-08-11T05:24:14'
+date: '2025-08-15T05:21:21'
 draft: false
 images:
 - /images/covers/dusken-hateful.jpg
@@ -14,4 +14,4 @@ title: Dusken - Hateful
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=32893&sort=pd.name&order=ASC) for $9.60
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=32893&sort=pd.name&order=ASC) for $12.00

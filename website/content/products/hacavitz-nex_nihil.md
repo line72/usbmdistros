@@ -1,10 +1,10 @@
 ---
-actualPrice: $8.00
+actualPrice: $10.00
 album: Nex Nihil
 artist: Hacavitz
 categories:
 - CD
-date: '2025-08-11T05:24:24'
+date: '2025-08-15T05:21:29'
 draft: false
 images:
 - /images/covers/hacavitz-nex_nihil.jpg
@@ -14,4 +14,4 @@ title: Hacavitz - Nex Nihil
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=3678&sort=pd.name&order=ASC) for $8.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=3678&sort=pd.name&order=ASC) for $10.00

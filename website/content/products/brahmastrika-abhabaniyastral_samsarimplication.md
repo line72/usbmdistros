@@ -1,10 +1,10 @@
 ---
-actualPrice: $20.00
+actualPrice: $25.00
 album: Abhabaniyastral Samsarimplication
 artist: Brahmastrika
 categories:
 - Vinyl
-date: '2025-08-11T05:22:23'
+date: '2025-08-15T05:19:34'
 draft: false
 images:
 - /images/covers/brahmastrika-abhabaniyastral_samsarimplication.jpg
@@ -14,4 +14,4 @@ title: Brahmastrika - Abhabaniyastral Samsarimplication
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=59516&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=59516&sort=pd.name&order=ASC) for $25.00

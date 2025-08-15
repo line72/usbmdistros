@@ -1,10 +1,10 @@
 ---
-actualPrice: $8.00
+actualPrice: $10.00
 album: "10\u200B,\u200B000 Stab Wounds"
 artist: Vorpal Sword
 categories:
 - Cassette
-date: '2025-08-11T05:25:50'
+date: '2025-08-15T05:22:49'
 draft: false
 images:
 - "/images/covers/vorpal_sword-10\u200B,\u200B000_stab_wounds.jpg"
@@ -14,4 +14,4 @@ title: "Vorpal Sword - 10\u200B,\u200B000 Stab Wounds"
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=22271&sort=pd.name&order=ASC) for $8.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=22271&sort=pd.name&order=ASC) for $10.00

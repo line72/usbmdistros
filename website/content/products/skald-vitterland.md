@@ -1,10 +1,10 @@
 ---
-actualPrice: $4.80
+actualPrice: $6.00
 album: Vitterland
 artist: Skald
 categories:
 - CD
-date: '2025-08-11T05:24:58'
+date: '2025-08-15T05:22:00'
 draft: false
 images:
 - /images/covers/skald-vitterland.png
@@ -14,4 +14,4 @@ title: Skald - Vitterland
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=1043&sort=pd.name&order=ASC) for $4.80
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=1043&sort=pd.name&order=ASC) for $6.00

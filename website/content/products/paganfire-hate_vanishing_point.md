@@ -1,10 +1,10 @@
 ---
-actualPrice: $4.00
+actualPrice: $5.00
 album: Hate Vanishing Point
 artist: Paganfire
 categories:
 - Vinyl
-date: '2025-08-11T05:23:50'
+date: '2025-08-15T05:20:56'
 draft: false
 images:
 - /images/covers/paganfire-hate_vanishing_point.jpg
@@ -14,4 +14,4 @@ title: Paganfire - Hate Vanishing Point
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=2198&sort=pd.name&order=ASC) for $4.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=2198&sort=pd.name&order=ASC) for $5.00

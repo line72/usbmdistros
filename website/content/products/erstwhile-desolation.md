@@ -1,10 +1,10 @@
 ---
-actualPrice: $9.60
+actualPrice: $12.00
 album: Desolation
 artist: Erstwhile
 categories:
 - Cassette
-date: '2025-08-11T05:25:26'
+date: '2025-08-15T05:22:26'
 draft: false
 images:
 - /images/covers/erstwhile-desolation.jpg
@@ -14,4 +14,4 @@ title: Erstwhile - Desolation
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=41532&sort=pd.name&order=ASC) for $9.60
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=41532&sort=pd.name&order=ASC) for $12.00

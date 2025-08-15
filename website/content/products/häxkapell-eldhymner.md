@@ -1,10 +1,10 @@
 ---
-actualPrice: $20.00
+actualPrice: $25.00
 album: Eldhymner
 artist: "H\xE4xkapell"
 categories:
 - Vinyl
-date: '2025-08-11T05:22:43'
+date: '2025-08-15T05:19:53'
 draft: false
 images:
 - "/images/covers/h\xE4xkapell-eldhymner.jpg"
@@ -14,4 +14,4 @@ title: "H\xE4xkapell - Eldhymner"
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=20560&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=20560&sort=pd.name&order=ASC) for $25.00

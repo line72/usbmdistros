@@ -1,10 +1,10 @@
 ---
-actualPrice: $6.40
+actualPrice: $8.00
 album: Stellar Evolution
 artist: Seol
 categories:
 - Vinyl
-date: '2025-08-11T05:23:51'
+date: '2025-08-15T05:20:57'
 draft: false
 images:
 - /images/covers/seol-stellar_evolution.jpg
@@ -14,4 +14,4 @@ title: Seol - Stellar Evolution
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=6257&sort=pd.name&order=ASC) for $6.40
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=6257&sort=pd.name&order=ASC) for $8.00

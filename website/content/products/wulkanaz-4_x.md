@@ -1,10 +1,10 @@
 ---
-actualPrice: $80.00
+actualPrice: $100.00
 album: 4 X
 artist: Wulkanaz
 categories:
 - Vinyl
-date: '2025-08-11T05:23:36'
+date: '2025-08-15T05:20:44'
 draft: false
 images:
 - /images/covers/wulkanaz-4_x.jpg
@@ -14,4 +14,4 @@ title: Wulkanaz - 4 X
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=40847&sort=pd.name&order=ASC) for $80.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=40847&sort=pd.name&order=ASC) for $100.00

@@ -1,10 +1,10 @@
 ---
-actualPrice: $24.00
+actualPrice: $30.00
 album: Ghosts of Coven
 artist: Necromonarchia Daemonum
 categories:
 - Vinyl
-date: '2025-08-11T05:23:04'
+date: '2025-08-15T05:20:15'
 draft: false
 images:
 - /images/covers/necromonarchia_daemonum-ghosts_of_coven.jpg
@@ -14,4 +14,4 @@ title: Necromonarchia Daemonum - Ghosts of Coven
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=61752&sort=pd.name&order=ASC) for $24.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=61752&sort=pd.name&order=ASC) for $30.00

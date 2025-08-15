@@ -1,11 +1,11 @@
 ---
-actualPrice: $12.00 - 20.00
+actualPrice: $15.00 - 25.00
 album: The Wheel and the Universe
 artist: Nubivagant
 categories:
 - Vinyl
 - CD
-date: '2025-08-11T05:24:44'
+date: '2025-08-15T05:21:48'
 draft: false
 images:
 - /images/covers/nubivagant-the_wheel_and_the_universe.jpg
@@ -15,6 +15,6 @@ title: Nubivagant - The Wheel and the Universe
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=56940&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=56940&sort=pd.name&order=ASC) for $25.00
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=60622&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=60622&sort=pd.name&order=ASC) for $15.00

@@ -1,10 +1,10 @@
 ---
-actualPrice: $8.00
+actualPrice: $10.00
 album: "Tent\xE1cvlos Da Aberra\xE7\xE3o"
 artist: Vulturine
 categories:
 - CD
-date: '2025-08-11T05:25:08'
+date: '2025-08-15T05:22:10'
 draft: false
 images:
 - "/images/covers/vulturine-tent\xE1cvlos_da_aberra\xE7\xE3o.png"
@@ -14,4 +14,4 @@ title: "Vulturine - Tent\xE1cvlos Da Aberra\xE7\xE3o"
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=10674&sort=pd.name&order=ASC) for $8.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=10674&sort=pd.name&order=ASC) for $10.00

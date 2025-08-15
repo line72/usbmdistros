@@ -1,10 +1,10 @@
 ---
-actualPrice: $16.00
+actualPrice: $20.00
 album: Bloody Vengeance
 artist: Vulcano
 categories:
 - CD
-date: '2025-08-11T05:25:08'
+date: '2025-08-15T05:22:10'
 draft: false
 images:
 - /images/covers/vulcano-bloody_vengeance.jpg
@@ -14,4 +14,4 @@ title: Vulcano - Bloody Vengeance
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=60254&sort=pd.name&order=ASC) for $16.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=60254&sort=pd.name&order=ASC) for $20.00

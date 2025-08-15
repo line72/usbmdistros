@@ -1,10 +1,10 @@
 ---
-actualPrice: $24.00 - 35.00
+actualPrice: $30.00 - 35.00
 album: Dimension of Torment
 artist: Sovereign
 categories:
 - Vinyl
-date: '2025-08-11T05:23:22'
+date: '2025-08-15T05:20:29'
 draft: false
 images:
 - /images/covers/sovereign-dimension_of_torment.jpg
@@ -15,4 +15,4 @@ title: Sovereign - Dimension of Torment
 
 ## Vinyl
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/sovereign-dimension-of-torment-12-lp) for $35.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=61934&sort=pd.name&order=ASC) for $24.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=61934&sort=pd.name&order=ASC) for $30.00

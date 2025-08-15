@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00
+actualPrice: $15.00
 album: Delusion(s)
 artist: Yritys
 categories:
 - CD
-date: '2025-08-11T05:25:11'
+date: '2025-08-15T05:22:12'
 draft: false
 images:
 - /images/covers/yritys-delusion(s).png
@@ -14,4 +14,4 @@ title: Yritys - Delusion(s)
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=50351&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=50351&sort=pd.name&order=ASC) for $15.00

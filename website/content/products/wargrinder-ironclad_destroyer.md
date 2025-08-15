@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00
+actualPrice: $15.00
 album: Ironclad Destroyer
 artist: Wargrinder
 categories:
 - CD
-date: '2025-08-11T05:25:09'
+date: '2025-08-15T05:22:10'
 draft: false
 images:
 - /images/covers/wargrinder-ironclad_destroyer.jpg
@@ -14,4 +14,4 @@ title: Wargrinder - Ironclad Destroyer
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=31516&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=31516&sort=pd.name&order=ASC) for $15.00

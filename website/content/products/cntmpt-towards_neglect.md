@@ -1,11 +1,11 @@
 ---
-actualPrice: $8.00 - 13.60
+actualPrice: $10.00 - 17.00
 album: Towards Neglect
 artist: CNTMPT
 categories:
 - Vinyl
 - CD
-date: '2025-08-11T05:24:05'
+date: '2025-08-15T05:21:11'
 draft: false
 images:
 - /images/covers/cntmpt-towards_neglect.jpg
@@ -15,6 +15,6 @@ title: CNTMPT - Towards Neglect
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=4573&sort=pd.name&order=ASC) for $13.60
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=4573&sort=pd.name&order=ASC) for $17.00
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=4593&sort=pd.name&order=ASC) for $8.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=4593&sort=pd.name&order=ASC) for $10.00

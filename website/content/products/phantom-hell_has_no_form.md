@@ -1,10 +1,10 @@
 ---
-actualPrice: $8.00
+actualPrice: $10.00
 album: Hell Has No Form
 artist: Phantom
 categories:
 - Vinyl
-date: '2025-08-11T05:23:50'
+date: '2025-08-15T05:20:56'
 draft: false
 images:
 - /images/covers/phantom-hell_has_no_form.jpg
@@ -14,4 +14,4 @@ title: Phantom - Hell Has No Form
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=58489&sort=pd.name&order=ASC) for $8.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=58489&sort=pd.name&order=ASC) for $10.00

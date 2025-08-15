@@ -1,10 +1,10 @@
 ---
-actualPrice: $8.00
+actualPrice: $10.00
 album: Zmyrna
 artist: Zmyrna
 categories:
 - Cassette
-date: '2025-08-11T05:25:52'
+date: '2025-08-15T05:22:51'
 draft: false
 images:
 - /images/covers/zmyrna-zmyrna.jpg
@@ -14,4 +14,4 @@ title: Zmyrna - Zmyrna
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=23270&sort=pd.name&order=ASC) for $8.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=23270&sort=pd.name&order=ASC) for $10.00

@@ -1,10 +1,10 @@
 ---
-actualPrice: $4.80
+actualPrice: $6.00
 album: Demo
 artist: Necuratul
 categories:
 - Cassette
-date: '2025-08-11T05:25:37'
+date: '2025-08-15T05:22:37'
 draft: false
 images:
 - /images/covers/necuratul-demo.png
@@ -14,4 +14,4 @@ title: Necuratul - Demo
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=1795&sort=pd.name&order=ASC) for $4.80
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=1795&sort=pd.name&order=ASC) for $6.00

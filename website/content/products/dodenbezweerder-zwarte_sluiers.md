@@ -1,10 +1,10 @@
 ---
-actualPrice: $8.00
+actualPrice: $10.00
 album: Zwarte Sluiers
 artist: Dodenbezweerder
 categories:
 - Cassette
-date: '2025-08-11T05:25:22'
+date: '2025-08-15T05:22:25'
 draft: false
 images:
 - /images/covers/dodenbezweerder-zwarte_sluiers.png
@@ -14,4 +14,4 @@ title: Dodenbezweerder - Zwarte Sluiers
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=9000&sort=pd.name&order=ASC) for $8.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=9000&sort=pd.name&order=ASC) for $10.00

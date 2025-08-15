@@ -1,10 +1,10 @@
 ---
-actualPrice: $4.00
+actualPrice: $5.00
 album: Unspeakable Cults
 artist: Deviser
 categories:
 - CD
-date: '2025-08-11T05:24:11'
+date: '2025-08-15T05:21:17'
 draft: false
 images:
 - /images/covers/deviser-unspeakable_cults.png
@@ -14,4 +14,4 @@ title: Deviser - Unspeakable Cults
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=2967&sort=pd.name&order=ASC) for $4.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=2967&sort=pd.name&order=ASC) for $5.00

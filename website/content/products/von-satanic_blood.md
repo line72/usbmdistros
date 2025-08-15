@@ -1,10 +1,10 @@
 ---
-actualPrice: $16.25 - 19.50
+actualPrice: $25.00 - 30.00
 album: Satanic Blood
 artist: Von
 categories:
 - Vinyl
-date: '2025-08-11T05:23:33'
+date: '2025-08-15T05:20:40'
 draft: false
 images:
 - /images/covers/von-satanic_blood.png
@@ -14,5 +14,5 @@ title: Von - Satanic Blood
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=62652&sort=pd.name&order=ASC) for $16.25
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=62653&sort=pd.name&order=ASC) for $19.50
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=62652&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=62653&sort=pd.name&order=ASC) for $30.00

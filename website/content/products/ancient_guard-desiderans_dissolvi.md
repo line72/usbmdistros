@@ -1,11 +1,11 @@
 ---
-actualPrice: $9.60 - 20.00
+actualPrice: $12.00 - 25.00
 album: Desiderans Dissolvi
 artist: Ancient Guard
 categories:
 - Vinyl
 - CD
-date: '2025-08-11T05:23:57'
+date: '2025-08-15T05:21:02'
 draft: false
 images:
 - /images/covers/ancient_guard-desiderans_dissolvi.jpg
@@ -15,6 +15,6 @@ title: Ancient Guard - Desiderans Dissolvi
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=61498&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=61498&sort=pd.name&order=ASC) for $25.00
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=61497&sort=pd.name&order=ASC) for $9.60
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=61497&sort=pd.name&order=ASC) for $12.00

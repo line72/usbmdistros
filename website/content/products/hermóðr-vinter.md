@@ -1,10 +1,10 @@
 ---
-actualPrice: $9.60
+actualPrice: $12.00
 album: Vinter
 artist: "Herm\xF3\xF0r"
 categories:
 - CD
-date: '2025-08-11T05:24:27'
+date: '2025-08-15T05:21:31'
 draft: false
 images:
 - "/images/covers/herm\xF3\xF0r-vinter.jpg"
@@ -14,4 +14,4 @@ title: "Herm\xF3\xF0r - Vinter"
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=36364&sort=pd.name&order=ASC) for $9.60
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=36364&sort=pd.name&order=ASC) for $12.00

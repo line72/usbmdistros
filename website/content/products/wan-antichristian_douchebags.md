@@ -1,10 +1,10 @@
 ---
-actualPrice: $9.60
+actualPrice: $12.00
 album: Antichristian Douchebags
 artist: Wan
 categories:
 - CD
-date: '2025-08-11T05:25:09'
+date: '2025-08-15T05:22:10'
 draft: false
 images:
 - /images/covers/wan-antichristian_douchebags.png
@@ -14,4 +14,4 @@ title: Wan - Antichristian Douchebags
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=22383&sort=pd.name&order=ASC) for $9.60
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=22383&sort=pd.name&order=ASC) for $12.00

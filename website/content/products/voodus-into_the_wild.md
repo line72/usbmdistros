@@ -1,11 +1,11 @@
 ---
-actualPrice: $12.00 - 20.00
+actualPrice: $15.00 - 25.00
 album: Into the Wild
 artist: Voodus
 categories:
 - Vinyl
 - CD
-date: '2025-08-11T05:25:08'
+date: '2025-08-15T05:22:10'
 draft: false
 images:
 - /images/covers/voodus-into_the_wild.jpg
@@ -15,6 +15,6 @@ title: Voodus - Into the Wild
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=20004&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=20004&sort=pd.name&order=ASC) for $25.00
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=38609&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=38609&sort=pd.name&order=ASC) for $15.00

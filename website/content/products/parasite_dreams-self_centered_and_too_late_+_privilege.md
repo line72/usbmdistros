@@ -1,10 +1,10 @@
 ---
-actualPrice: $21.60
+actualPrice: $27.00
 album: Self Centered And Too Late + Privilege
 artist: Parasite Dreams
 categories:
 - Vinyl
-date: '2025-08-11T05:23:12'
+date: '2025-08-15T05:20:21'
 draft: false
 images:
 - /images/covers/parasite_dreams-self_centered_and_too_late_+_privilege.jpg
@@ -14,4 +14,4 @@ title: Parasite Dreams - Self Centered And Too Late + Privilege
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=57791&sort=pd.name&order=ASC) for $21.60
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=57791&sort=pd.name&order=ASC) for $27.00

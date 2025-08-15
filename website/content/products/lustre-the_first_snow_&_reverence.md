@@ -1,10 +1,10 @@
 ---
-actualPrice: $20.00
+actualPrice: $25.00
 album: The First Snow & Reverence
 artist: Lustre
 categories:
 - Vinyl
-date: '2025-08-11T05:22:55'
+date: '2025-08-15T05:20:04'
 draft: false
 images:
 - /images/covers/lustre-the_first_snow_&_reverence.jpg
@@ -14,4 +14,4 @@ title: Lustre - The First Snow & Reverence
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=49751&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=49751&sort=pd.name&order=ASC) for $25.00

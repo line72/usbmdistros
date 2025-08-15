@@ -1,10 +1,10 @@
 ---
-actualPrice: $8.00
+actualPrice: $10.00
 album: "Gezeteld in Zegeru\xEFnen"
 artist: Cultus
 categories:
 - CD
-date: '2025-08-11T05:24:07'
+date: '2025-08-15T05:21:13'
 draft: false
 images:
 - "/images/covers/cultus-gezeteld_in_zegeru\xEFnen.jpg"
@@ -14,4 +14,4 @@ title: "Cultus - Gezeteld in Zegeru\xEFnen"
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=5713&sort=pd.name&order=ASC) for $8.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=5713&sort=pd.name&order=ASC) for $10.00

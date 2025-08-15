@@ -1,10 +1,10 @@
 ---
-actualPrice: $9.60
+actualPrice: $12.00
 album: Muerte De Cristo En Golgota
 artist: Morbosidad
 categories:
 - CD
-date: '2025-08-11T05:24:39'
+date: '2025-08-15T05:21:43'
 draft: false
 images:
 - /images/covers/morbosidad-muerte_de_cristo_en_golgota.png
@@ -14,4 +14,4 @@ title: Morbosidad - Muerte De Cristo En Golgota
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=57965&sort=pd.name&order=ASC) for $9.60
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=57965&sort=pd.name&order=ASC) for $12.00

@@ -1,10 +1,10 @@
 ---
-actualPrice: $24.00
+actualPrice: $30.00
 album: The Shephered And The Hounds Of Hell
 artist: Obtained Enslavement
 categories:
 - Vinyl
-date: '2025-08-11T05:23:10'
+date: '2025-08-15T05:20:18'
 draft: false
 images:
 - /images/covers/obtained_enslavement-the_shephered_and_the_hounds_of_hell.png
@@ -14,4 +14,4 @@ title: Obtained Enslavement - The Shephered And The Hounds Of Hell
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=62302&sort=pd.name&order=ASC) for $24.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=62302&sort=pd.name&order=ASC) for $30.00

@@ -1,11 +1,11 @@
 ---
-actualPrice: $9.60 - 20.00
+actualPrice: $12.00 - 25.00
 album: Far Away From Worthless Human's Fawning
 artist: Old Grief
 categories:
 - Vinyl
 - CD
-date: '2025-08-11T05:24:45'
+date: '2025-08-15T05:21:49'
 draft: false
 images:
 - /images/covers/old_grief-far_away_from_worthless_human's_fawning.jpg
@@ -15,6 +15,6 @@ title: Old Grief - Far Away From Worthless Human's Fawning
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=62320&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=62320&sort=pd.name&order=ASC) for $25.00
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=62319&sort=pd.name&order=ASC) for $9.60
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=62319&sort=pd.name&order=ASC) for $12.00

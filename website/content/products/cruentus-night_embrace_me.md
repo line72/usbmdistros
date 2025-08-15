@@ -1,10 +1,10 @@
 ---
-actualPrice: $9.60
+actualPrice: $12.00
 album: Night Embrace Me
 artist: Cruentus
 categories:
 - CD
-date: '2025-08-11T05:24:06'
+date: '2025-08-15T05:21:12'
 draft: false
 images:
 - /images/covers/cruentus-night_embrace_me.png
@@ -14,4 +14,4 @@ title: Cruentus - Night Embrace Me
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=23055&sort=pd.name&order=ASC) for $9.60
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=23055&sort=pd.name&order=ASC) for $12.00

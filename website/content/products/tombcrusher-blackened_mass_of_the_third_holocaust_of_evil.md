@@ -1,10 +1,10 @@
 ---
-actualPrice: $28.00
+actualPrice: $35.00
 album: Blackened Mass Of The Third Holocaust Of Evil
 artist: Tombcrusher
 categories:
 - Vinyl
-date: '2025-08-11T05:23:27'
+date: '2025-08-15T05:20:34'
 draft: false
 images:
 - /images/covers/tombcrusher-blackened_mass_of_the_third_holocaust_of_evil.png
@@ -14,4 +14,4 @@ title: Tombcrusher - Blackened Mass Of The Third Holocaust Of Evil
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=60720&sort=pd.name&order=ASC) for $28.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=60720&sort=pd.name&order=ASC) for $35.00

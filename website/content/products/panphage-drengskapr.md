@@ -1,10 +1,10 @@
 ---
-actualPrice: $17.60
+actualPrice: $22.00
 album: Drengskapr
 artist: Panphage
 categories:
 - Vinyl
-date: '2025-08-11T05:23:12'
+date: '2025-08-15T05:20:21'
 draft: false
 images:
 - /images/covers/panphage-drengskapr.jpg
@@ -14,4 +14,4 @@ title: Panphage - Drengskapr
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=32754&sort=pd.name&order=ASC) for $17.60
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=32754&sort=pd.name&order=ASC) for $22.00

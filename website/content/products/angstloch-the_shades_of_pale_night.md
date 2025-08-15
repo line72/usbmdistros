@@ -1,11 +1,11 @@
 ---
-actualPrice: $10.40 - 20.00
+actualPrice: $13.00 - 25.00
 album: The Shades of Pale Night
 artist: ANGSTLOCH
 categories:
 - Vinyl
 - Cassette
-date: '2025-08-11T05:25:14'
+date: '2025-08-15T05:22:15'
 draft: false
 images:
 - /images/covers/angstloch-the_shades_of_pale_night.png
@@ -15,6 +15,6 @@ title: ANGSTLOCH - The Shades of Pale Night
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=59317&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=59317&sort=pd.name&order=ASC) for $25.00
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=50043&sort=pd.name&order=ASC) for $10.40
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=50043&sort=pd.name&order=ASC) for $13.00

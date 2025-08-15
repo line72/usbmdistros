@@ -1,10 +1,10 @@
 ---
-actualPrice: $21.60
+actualPrice: $27.00
 album: Satanic Poltergeist
 artist: Grifteskymfning
 categories:
 - Vinyl
-date: '2025-08-11T05:22:42'
+date: '2025-08-15T05:19:52'
 draft: false
 images:
 - /images/covers/grifteskymfning-satanic_poltergeist.jpg
@@ -14,4 +14,4 @@ title: Grifteskymfning - Satanic Poltergeist
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=47784&sort=pd.name&order=ASC) for $21.60
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=47784&sort=pd.name&order=ASC) for $27.00

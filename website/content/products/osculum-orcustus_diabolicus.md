@@ -1,10 +1,10 @@
 ---
-actualPrice: $9.60
+actualPrice: $12.00
 album: Orcustus Diabolicus
 artist: Osculum
 categories:
 - Vinyl
-date: '2025-08-11T05:23:50'
+date: '2025-08-15T05:20:56'
 draft: false
 images:
 - /images/covers/osculum-orcustus_diabolicus.jpg
@@ -14,4 +14,4 @@ title: Osculum - Orcustus Diabolicus
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=58375&sort=pd.name&order=ASC) for $9.60
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=58375&sort=pd.name&order=ASC) for $12.00

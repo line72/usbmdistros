@@ -1,10 +1,10 @@
 ---
-actualPrice: $9.60
+actualPrice: $12.00
 album: Incubacy/Succubacy
 artist: Venefices
 categories:
 - CD
-date: '2025-08-11T05:25:07'
+date: '2025-08-15T05:22:08'
 draft: false
 images:
 - /images/covers/venefices-incubacy-succubacy.jpg
@@ -14,4 +14,4 @@ title: Venefices - Incubacy/Succubacy
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=54832&sort=pd.name&order=ASC) for $9.60
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=54832&sort=pd.name&order=ASC) for $12.00

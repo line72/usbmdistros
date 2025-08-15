@@ -1,10 +1,10 @@
 ---
-actualPrice: $16.00
+actualPrice: $20.00
 album: The Willing Followers of Him
 artist: Flooded Church of Asmodeus
 categories:
 - Vinyl
-date: '2025-08-11T05:22:38'
+date: '2025-08-15T05:19:49'
 draft: false
 images:
 - /images/covers/flooded_church_of_asmodeus-the_willing_followers_of_him.jpg
@@ -14,4 +14,4 @@ title: Flooded Church of Asmodeus - The Willing Followers of Him
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=47129&sort=pd.name&order=ASC) for $16.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=47129&sort=pd.name&order=ASC) for $20.00

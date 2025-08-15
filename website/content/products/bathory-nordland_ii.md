@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00
+actualPrice: $15.00
 album: Nordland II
 artist: Bathory
 categories:
 - Cassette
-date: '2025-08-11T05:25:15'
+date: '2025-08-15T05:22:16'
 draft: false
 images:
 - /images/covers/bathory-nordland_ii.jpg
@@ -14,4 +14,4 @@ title: Bathory - Nordland II
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=55734&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=55734&sort=pd.name&order=ASC) for $15.00

@@ -1,10 +1,10 @@
 ---
-actualPrice: $108.00
+actualPrice: $135.00
 album: Helios Test
 artist: Von
 categories:
 - Vinyl
-date: '2025-08-11T05:23:33'
+date: '2025-08-15T05:20:40'
 draft: false
 images:
 - /images/covers/von-helios_test.png
@@ -14,5 +14,5 @@ title: Von - Helios Test
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=62626&sort=pd.name&order=ASC) for $108.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=62628&sort=pd.name&order=ASC) for $108.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=62626&sort=pd.name&order=ASC) for $135.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=62628&sort=pd.name&order=ASC) for $135.00

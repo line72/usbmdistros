@@ -1,11 +1,11 @@
 ---
-actualPrice: $13.00
+actualPrice: $20.00
 album: "Forbidden Doctrine of the Youthful Gate / Shade of Darkness Casting\u200B\
   .\u200B.\u200B."
 artist: Vengeance Sorcery
 categories:
 - Vinyl
-date: '2025-08-11T05:23:31'
+date: '2025-08-15T05:20:38'
 draft: false
 images:
 - "/images/covers/vengeance_sorcery-forbidden_doctrine_of_the_youthful_gate_-_shade_of_darkness_casting\u200B\
@@ -18,4 +18,4 @@ title: "Vengeance Sorcery - Forbidden Doctrine of the Youthful Gate / Shade of D
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=61147&sort=pd.name&order=ASC) for $13.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=61147&sort=pd.name&order=ASC) for $20.00

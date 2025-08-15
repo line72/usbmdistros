@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00
+actualPrice: $15.00
 album: Vexamen
 artist: Verberis
 categories:
 - Vinyl
-date: '2025-08-11T05:23:31'
+date: '2025-08-15T05:20:38'
 draft: false
 images:
 - /images/covers/verberis-vexamen.jpg
@@ -14,4 +14,4 @@ title: Verberis - Vexamen
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=38960&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=38960&sort=pd.name&order=ASC) for $15.00

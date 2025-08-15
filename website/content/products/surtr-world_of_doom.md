@@ -1,10 +1,10 @@
 ---
-actualPrice: $8.00
+actualPrice: $10.00
 album: World of Doom
 artist: Surtr
 categories:
 - CD
-date: '2025-08-11T05:25:00'
+date: '2025-08-15T05:22:03'
 draft: false
 images:
 - /images/covers/surtr-world_of_doom.jpg
@@ -14,4 +14,4 @@ title: Surtr - World of Doom
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=3248&sort=pd.name&order=ASC) for $8.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=3248&sort=pd.name&order=ASC) for $10.00

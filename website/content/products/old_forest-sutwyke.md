@@ -1,10 +1,10 @@
 ---
-actualPrice: $21.60
+actualPrice: $27.00
 album: Sutwyke
 artist: Old Forest
 categories:
 - Vinyl
-date: '2025-08-11T05:23:10'
+date: '2025-08-15T05:20:18'
 draft: false
 images:
 - /images/covers/old_forest-sutwyke.png
@@ -14,4 +14,4 @@ title: Old Forest - Sutwyke
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=52091&sort=pd.name&order=ASC) for $21.60
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=52091&sort=pd.name&order=ASC) for $27.00

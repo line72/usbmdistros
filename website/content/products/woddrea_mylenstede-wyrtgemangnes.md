@@ -1,10 +1,10 @@
 ---
-actualPrice: $24.00
+actualPrice: $30.00
 album: Wyrtgemangnes
 artist: Woddrea Mylenstede
 categories:
 - Vinyl
-date: '2025-08-11T05:23:36'
+date: '2025-08-15T05:20:43'
 draft: false
 images:
 - /images/covers/woddrea_mylenstede-wyrtgemangnes.jpg
@@ -14,4 +14,4 @@ title: Woddrea Mylenstede - Wyrtgemangnes
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=57814&sort=pd.name&order=ASC) for $24.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=57814&sort=pd.name&order=ASC) for $30.00

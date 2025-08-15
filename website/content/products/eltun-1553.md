@@ -1,10 +1,10 @@
 ---
-actualPrice: $8.00
+actualPrice: $10.00
 album: '1553'
 artist: Eltun
 categories:
 - CD
-date: '2025-08-11T05:24:14'
+date: '2025-08-15T05:21:21'
 draft: false
 images:
 - /images/covers/eltun-1553.jpg
@@ -14,4 +14,4 @@ title: Eltun - 1553
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=17829&sort=pd.name&order=ASC) for $8.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=17829&sort=pd.name&order=ASC) for $10.00

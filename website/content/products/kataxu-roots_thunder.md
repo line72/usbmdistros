@@ -1,10 +1,10 @@
 ---
-actualPrice: $20.00 - 25.00
+actualPrice: $25.00
 album: Roots Thunder
 artist: Kataxu
 categories:
 - Vinyl
-date: '2025-08-11T05:22:51'
+date: '2025-08-15T05:20:00'
 draft: false
 images:
 - /images/covers/kataxu-roots_thunder.jpg
@@ -15,4 +15,4 @@ title: Kataxu - Roots Thunder
 
 ## Vinyl
 * Purchase from [CW Productions](https://shop.cwproductions.net/products/kataxu-roots-thunder-lp-1) for $25.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=62383&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=62383&sort=pd.name&order=ASC) for $25.00

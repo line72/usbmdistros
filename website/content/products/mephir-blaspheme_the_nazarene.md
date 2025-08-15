@@ -1,10 +1,10 @@
 ---
-actualPrice: $10.40
+actualPrice: $13.00
 album: Blaspheme The Nazarene
 artist: Mephir
 categories:
 - CD
-date: '2025-08-11T05:24:37'
+date: '2025-08-15T05:21:41'
 draft: false
 images:
 - /images/covers/mephir-blaspheme_the_nazarene.jpg
@@ -14,4 +14,4 @@ title: Mephir - Blaspheme The Nazarene
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=55531&sort=pd.name&order=ASC) for $10.40
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=55531&sort=pd.name&order=ASC) for $13.00

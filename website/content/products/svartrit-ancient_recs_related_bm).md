@@ -1,10 +1,10 @@
 ---
-actualPrice: $9.60
+actualPrice: $12.00
 album: Ancient Recs Related Bm)
 artist: Svartrit
 categories:
 - CD
-date: '2025-08-11T05:25:00'
+date: '2025-08-15T05:22:03'
 draft: false
 images:
 - /images/covers/svartrit-ancient_recs_related_bm).jpg
@@ -14,4 +14,4 @@ title: Svartrit - Ancient Recs Related Bm)
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=27872&sort=pd.name&order=ASC) for $9.60
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=27872&sort=pd.name&order=ASC) for $12.00

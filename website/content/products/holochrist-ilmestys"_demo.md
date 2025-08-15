@@ -1,10 +1,10 @@
 ---
-actualPrice: $6.40
+actualPrice: $8.00
 album: Ilmestys" Demo
 artist: Holochrist
 categories:
 - Cassette
-date: '2025-08-11T05:25:30'
+date: '2025-08-15T05:22:31'
 draft: false
 images:
 - /images/covers/holochrist-ilmestys"_demo.png
@@ -14,4 +14,4 @@ title: Holochrist - Ilmestys" Demo
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=53141&sort=pd.name&order=ASC) for $6.40
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=53141&sort=pd.name&order=ASC) for $8.00

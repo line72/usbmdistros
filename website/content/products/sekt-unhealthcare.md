@@ -1,10 +1,10 @@
 ---
-actualPrice: $5.60
+actualPrice: $7.00
 album: Unhealthcare
 artist: Sekt
 categories:
 - Cassette
-date: '2025-08-11T05:25:43'
+date: '2025-08-15T05:22:42'
 draft: false
 images:
 - /images/covers/sekt-unhealthcare.jpg
@@ -14,4 +14,4 @@ title: Sekt - Unhealthcare
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=5735&sort=pd.name&order=ASC) for $5.60
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=5735&sort=pd.name&order=ASC) for $7.00

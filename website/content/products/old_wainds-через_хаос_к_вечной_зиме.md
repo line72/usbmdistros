@@ -1,11 +1,11 @@
 ---
-actualPrice: $20.00
+actualPrice: $25.00
 album: "\u0427\u0435\u0440\u0435\u0437 \u0425\u0430\u043E\u0441 \u041A \u0412\u0435\
   \u0447\u043D\u043E\u0439 \u0417\u0438\u043C\u0435"
 artist: Old Wainds
 categories:
 - Vinyl
-date: '2025-08-11T05:23:11'
+date: '2025-08-15T05:20:19'
 draft: false
 images:
 - "/images/covers/old_wainds-\u0447\u0435\u0440\u0435\u0437_\u0445\u0430\u043E\u0441\
@@ -19,4 +19,4 @@ title: "Old Wainds - \u0427\u0435\u0440\u0435\u0437 \u0425\u0430\u043E\u0441 \u0
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=61632&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=61632&sort=pd.name&order=ASC) for $25.00

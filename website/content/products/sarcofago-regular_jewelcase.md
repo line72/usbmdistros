@@ -1,10 +1,10 @@
 ---
-actualPrice: $14.40
+actualPrice: $18.00
 album: Regular Jewelcase
 artist: Sarcofago
 categories:
 - CD
-date: '2025-08-11T05:24:55'
+date: '2025-08-15T05:21:57'
 draft: false
 images:
 - /images/covers/sarcofago-regular_jewelcase.jpg
@@ -14,4 +14,4 @@ title: Sarcofago - Regular Jewelcase
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=60251&sort=pd.name&order=ASC) for $14.40
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=60251&sort=pd.name&order=ASC) for $18.00

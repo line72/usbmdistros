@@ -1,10 +1,10 @@
 ---
-actualPrice: $7.80
+actualPrice: $12.00
 album: Silver Shell
 artist: Necromantic Worship
 categories:
 - Cassette
-date: '2025-08-11T05:25:36'
+date: '2025-08-15T05:22:37'
 draft: false
 images:
 - /images/covers/necromantic_worship-silver_shell.png
@@ -14,4 +14,4 @@ title: Necromantic Worship - Silver Shell
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=62925&sort=pd.name&order=ASC) for $7.80
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=62925&sort=pd.name&order=ASC) for $12.00

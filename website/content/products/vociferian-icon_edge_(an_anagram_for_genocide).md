@@ -1,10 +1,10 @@
 ---
-actualPrice: $13.60
+actualPrice: $17.00
 album: Icon Edge (An Anagram for Genocide)
 artist: Vociferian
 categories:
 - Vinyl
-date: '2025-08-11T05:23:54'
+date: '2025-08-15T05:20:59'
 draft: false
 images:
 - /images/covers/vociferian-icon_edge_(an_anagram_for_genocide).jpg
@@ -14,4 +14,4 @@ title: Vociferian - Icon Edge (An Anagram for Genocide)
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=58491&sort=pd.name&order=ASC) for $13.60
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=58491&sort=pd.name&order=ASC) for $17.00
