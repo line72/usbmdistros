@@ -15,4 +15,3 @@ title: Volkolun - Path Through the Mist
 
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=17834&sort=pd.name&order=ASC) for $10.00
-* Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/volkolun-path-through-the-mist-digipak-cd/) for $10.00

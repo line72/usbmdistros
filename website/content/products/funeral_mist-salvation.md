@@ -1,5 +1,5 @@
 ---
-actualPrice: $30.00 - 280.00
+actualPrice: $280.00
 album: Salvation
 artist: Funeral Mist
 categories:
@@ -15,4 +15,3 @@ title: Funeral Mist - Salvation
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=39552&sort=pd.name&order=ASC) for $280.00
-* Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/funeral-mist-salvation-12-gatefold-double-lp/) for $30.00 :: gatefold double lp
