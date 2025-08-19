@@ -5,7 +5,7 @@ artist: Blutschwur
 categories:
 - Vinyl
 - CD
-date: '2025-08-17T05:02:25'
+date: '2025-08-19T05:02:29'
 draft: false
 images:
 - /images/covers/blutschwur-reclaim_the_fire.png
