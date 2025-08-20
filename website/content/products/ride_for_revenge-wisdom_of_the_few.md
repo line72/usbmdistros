@@ -4,7 +4,7 @@ album: Wisdom of the Few
 artist: Ride for Revenge
 categories:
 - Cassette
-date: '2024-07-09T00:40:24'
+date: '2025-08-20T05:02:09'
 draft: false
 images:
 - /images/covers/ride_for_revenge-wisdom_of_the_few.jpg

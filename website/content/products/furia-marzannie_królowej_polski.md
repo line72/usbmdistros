@@ -4,7 +4,7 @@ album: "Marzannie Kr\xF3lowej Polski"
 artist: Furia
 categories:
 - Vinyl
-date: '2025-08-15T05:19:50'
+date: '2025-08-20T05:20:20'
 draft: false
 images:
 - "/images/covers/furia-marzannie_kr\xF3lowej_polski.jpg"
@@ -14,4 +14,4 @@ title: "Furia - Marzannie Kr\xF3lowej Polski"
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=59036&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=63030&sort=pd.name&order=ASC) for $25.00

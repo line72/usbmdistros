@@ -1,5 +1,5 @@
 ---
-actualPrice: $12.99
+actualPrice: $12.99 - 14.00
 album: 'Godslastering: Hymns Of A Forlorn Peasantry'
 artist: Hulder
 categories:
@@ -14,4 +14,5 @@ title: 'Hulder - Godslastering: Hymns Of A Forlorn Peasantry'
 ---
 
 ## CD
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/hulder-godslastering-hymns-of-a-forlorn-peasantry-cd) for $14.00 :: CD 2022
 * Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/hulder-godslastering-hymns-of-a-forlorn-peasantry-cd-digipak) for $12.99 :: (digipak)
