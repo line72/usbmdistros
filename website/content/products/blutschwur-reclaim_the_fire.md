@@ -1,5 +1,5 @@
 ---
-actualPrice: $13.00 - 30.00
+actualPrice: $15.00 - 30.00
 album: Reclaim The Fire
 artist: Blutschwur
 categories:
@@ -18,5 +18,4 @@ title: Blutschwur - Reclaim The Fire
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/blutschwur-reclaim-the-fire-12-lp) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=63076&sort=pd.name&order=ASC) for $30.00
 ## CD
-* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/blutschwur-reclaim-the-fire-cd) for $13.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=63111&sort=pd.name&order=ASC) for $15.00

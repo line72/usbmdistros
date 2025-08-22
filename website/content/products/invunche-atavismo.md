@@ -5,7 +5,7 @@ artist: Invunche
 categories:
 - Vinyl
 - Cassette
-date: '2025-08-15T05:22:32'
+date: '2025-08-21T05:22:31'
 draft: false
 images:
 - /images/covers/invunche-atavismo.jpg
@@ -15,6 +15,7 @@ title: Invunche - Atavismo
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=62959&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=63114&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=63115&sort=pd.name&order=ASC) for $25.00
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=62961&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=63123&sort=pd.name&order=ASC) for $12.00

@@ -1,5 +1,5 @@
 ---
-actualPrice: $15.00 - 40.00
+actualPrice: $15.00 - 35.00
 album: Autumnal Fortress
 artist: Collier D'Ombre
 categories:
@@ -17,7 +17,6 @@ title: Collier D'Ombre - Autumnal Fortress
 
 ## Vinyl
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/collier-dombre-autumnal-fortress-2xlp) for $35.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=63063&sort=pd.name&order=ASC) for $40.00
 ## Cassette
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=63065&sort=pd.name&order=ASC) for $15.00
 ## CD
