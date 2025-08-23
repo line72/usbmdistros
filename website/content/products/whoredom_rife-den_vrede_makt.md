@@ -1,5 +1,5 @@
 ---
-actualPrice: $39.00 - 39.99
+actualPrice: $39.00
 album: Den Vrede Makt
 artist: Whoredom Rife
 categories:
@@ -15,4 +15,3 @@ title: Whoredom Rife - Den Vrede Makt
 
 ## Vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/whoredom-rife-den-vrede-makt-lp) for $39.00 :: Black 2024 press vinyl
-* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/old-whoredom-rife-den-vrede-makt-black-vinyl-lp-copy) for $39.99 :: black vinyl lp

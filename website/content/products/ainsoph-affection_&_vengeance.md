@@ -1,11 +1,11 @@
 ---
-actualPrice: $13.00 - 34.00
+actualPrice: $13.00 - 28.00
 album: Affection & Vengeance
 artist: Ainsoph
 categories:
 - Vinyl
 - Cassette
-date: '2025-04-06T05:43:06'
+date: '2025-04-01T05:02:12'
 draft: false
 images:
 - /images/covers/ainsoph-affection_&_vengeance.jpg
@@ -16,6 +16,5 @@ title: Ainsoph - Affection & Vengeance
 
 ## Vinyl
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/ainsoph-affection-vengeance-12-lp) for $28.00
-* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/ainsoph-affection-vengeance-red-smoke-w-obi-strip-vinyl-lp) for $34.00 :: red/smoke w/ obi strip vinyl lp
 ## Cassette
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/ainsoph-affection-vengeance-cassette) for $13.00 :: Cassette 2025

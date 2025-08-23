@@ -1,9 +1,8 @@
 ---
-actualPrice: $13.00 - 25.00
+actualPrice: $13.00
 album: Koldt betragtes verden
 artist: "Gennem T\xE5gen"
 categories:
-- Vinyl
 - CD
 date: '2024-07-19T05:35:40'
 draft: false
@@ -14,7 +13,5 @@ thumbnailImage: "/images/covers/gennem_t\xE5gen-koldt_betragtes_verden-thumb.jpg
 title: "Gennem T\xE5gen - Koldt betragtes verden"
 ---
 
-## Vinyl
-* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/gennem-tagen-koldt-betragtes-verden-vinyl-lp) for $25.00 :: vinyl lp
 ## CD
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/gennem-tagen-koldt-betragtes-verden-cd-1) for $13.00 :: CD 2023

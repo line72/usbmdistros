@@ -15,7 +15,6 @@ title: Downfall Of Nur - Umbras de Barbagia
 ---
 
 ## Vinyl
-* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/downfall-of-nur-umbras-de-barbagia-clear-vinyl-lp) for $25.99 :: clear vinyl lp
 * Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/downfall-of-nur-umbras-de-barbagia-vinyl-lp-lim200) for $29.99 :: (gatefold, color, lim.200)
 ## CD
 * Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/downfall-of-nur-umbras-de-barbagia-cd-jewel-case) for $13.99 :: (jewel case)
