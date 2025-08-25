@@ -1,5 +1,5 @@
 ---
-actualPrice: $15.00 - 32.00
+actualPrice: $15.00 - 34.99
 album: Unsettling Whispers
 artist: Gaerea
 categories:
@@ -15,6 +15,7 @@ title: Gaerea - Unsettling Whispers
 ---
 
 ## Vinyl
+* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/gaerea-unsettling-whispers-ltd-450-crystal-clear-white-marbled-vinyl-lp-gatefold) for $34.99 :: ltd 450 crystal clear/white marbled vinyl lp gatefold
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/gaerea-unsettling-whispers-lp) for $32.00 :: Color 2023 press vinyl
 ## CD
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/gaerea-unsettling-whispers-cd) for $15.00 :: Digipak 2023

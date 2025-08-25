@@ -1,5 +1,5 @@
 ---
-actualPrice: $35.00
+actualPrice: $29.98 - 35.00
 album: March of the Norse
 artist: Demonaz
 categories:
@@ -14,4 +14,5 @@ title: Demonaz - March of the Norse
 ---
 
 ## Vinyl
+* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/demonaz-march-of-the-norse-indie-exclusive-white-vinyl-lp) for $29.98 :: indie exclusive white vinyl lp
 * Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/demonaz-march-of-the-norse-vinyl-lp-color-lim800) for $35.00 :: (color, lim.800)

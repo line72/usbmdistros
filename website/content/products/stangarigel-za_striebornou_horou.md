@@ -5,7 +5,6 @@ artist: Stangarigel
 categories:
 - Vinyl
 - Cassette
-- CD
 date: '2025-08-20T05:23:14'
 draft: false
 images:
@@ -21,5 +20,3 @@ title: Stangarigel - Za Striebornou Horou
 ## Cassette
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/stangarigel-za-striebornou-horou-tape) for $14.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=63061&sort=pd.name&order=ASC) for $15.00
-## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=63060&sort=pd.name&order=ASC) for $15.00

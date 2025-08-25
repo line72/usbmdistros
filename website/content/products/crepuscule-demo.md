@@ -4,7 +4,7 @@ album: Demo
 artist: Crepuscule
 categories:
 - Cassette
-date: '2025-08-15T05:22:20'
+date: '2025-08-25T05:25:17'
 draft: false
 images:
 - /images/covers/crepuscule-demo.png
@@ -14,4 +14,4 @@ title: Crepuscule - Demo
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=61105&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=63167&sort=pd.name&order=ASC) for $12.00

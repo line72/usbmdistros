@@ -17,5 +17,7 @@ title: Windir - Arntor
 ## Vinyl
 * Purchase from [Sto'Vo'Kor Records](https://stovokor-records.com/products/windir-arntor) for $29.00
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/windir-arntor-2xlp-1) for $39.00 :: Color 2023 press vinyl
+* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/windir-arntor-limited-double-white-vinyl-dlp) for $38.99 :: limited double white vinyl dlp
+* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/blemish-windir-arntor-limited-double-white-vinyl-dlp) for $31.99 :: limited double white vinyl dlp
 ## CD
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/windir-arntor-cd) for $15.00 :: Jewel Case 2016

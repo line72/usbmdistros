@@ -1,5 +1,5 @@
 ---
-actualPrice: $25.00
+actualPrice: $25.00 - 28.98
 album: HEART OF AKAMON
 artist: Nechochwen
 categories:
@@ -14,4 +14,5 @@ title: Nechochwen - HEART OF AKAMON
 ---
 
 ## Vinyl
+* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/nechochwen-heart-of-akamon-color-mix-vinyl-lp) for $28.98 :: color mix vinyl lp
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=46246&sort=pd.name&order=ASC) for $25.00

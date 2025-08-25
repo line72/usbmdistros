@@ -1,5 +1,5 @@
 ---
-actualPrice: $27.99
+actualPrice: $27.99 - 29.99
 album: Oh Achlys Please Love Me Once More
 artist: Woe Bather
 categories:
@@ -15,3 +15,4 @@ title: Woe Bather - Oh Achlys Please Love Me Once More
 
 ## Vinyl
 * Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/woe-bather-oh-achlys-please-love-me-once-more-vinyl-lp-2-color-options) for $27.99 :: (2 color options)
+* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/woe-bather-oh-achlys-please-love-me-once-more-violet-smoke-vinyl) for $29.99 :: oh achlys please love me once more - violet smoke vinyl

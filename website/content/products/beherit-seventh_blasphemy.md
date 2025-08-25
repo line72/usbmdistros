@@ -1,10 +1,11 @@
 ---
-actualPrice: $20.00
+actualPrice: $20.00 - 40.00
 album: Seventh Blasphemy
 artist: Beherit
 categories:
+- Vinyl
 - CD
-date: '2025-08-15T05:21:06'
+date: '2025-08-25T05:23:55'
 draft: false
 images:
 - /images/covers/beherit-seventh_blasphemy.jpg
@@ -13,5 +14,7 @@ thumbnailImage: /images/covers/beherit-seventh_blasphemy-thumb.jpg
 title: Beherit - Seventh Blasphemy
 ---
 
+## Vinyl
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=63151&sort=pd.name&order=ASC) for $40.00
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=62736&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=63159&sort=pd.name&order=ASC) for $20.00

@@ -4,7 +4,7 @@ album: Satanic War Master
 artist: Lord Of Evil
 categories:
 - Vinyl
-date: '2025-08-15T05:20:54'
+date: '2025-08-25T05:23:43'
 draft: false
 images:
 - /images/covers/lord_of_evil-satanic_war_master.jpg
@@ -14,4 +14,4 @@ title: Lord Of Evil - Satanic War Master
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=59892&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=63144&sort=pd.name&order=ASC) for $15.00
