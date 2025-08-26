@@ -16,7 +16,6 @@ title: Stangarigel - Za Striebornou Horou
 
 ## Vinyl
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/stangarigel-za-striebornou-horou-12-lp) for $30.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=63056&sort=pd.name&order=ASC) for $30.00
 ## Cassette
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/stangarigel-za-striebornou-horou-tape) for $14.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=63061&sort=pd.name&order=ASC) for $15.00
