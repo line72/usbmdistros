@@ -1,11 +1,11 @@
 ---
-actualPrice: $10.00 - 25.00
+actualPrice: $10.00 - 22.00
 album: Bilirubin
 artist: Bilirubin
 categories:
 - Vinyl
 - Cassette
-date: '2025-08-15T05:19:31'
+date: '2025-02-03T06:50:49'
 draft: false
 images:
 - /images/covers/bilirubin-bilirubin.jpg
@@ -16,6 +16,5 @@ title: Bilirubin - Bilirubin
 
 ## Vinyl
 * Purchase from [CW Productions](https://shop.cwproductions.net/products/bilirubin-bilirubin-lp) for $22.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=61629&sort=pd.name&order=ASC) for $25.00
 ## Cassette
 * Purchase from [CW Productions](https://shop.cwproductions.net/products/bilirubin-bilirubin-tape-1) for $10.00

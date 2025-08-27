@@ -4,7 +4,7 @@ album: Black Candle Negativity
 artist: Apparitional Glare
 categories:
 - Vinyl
-date: '2025-08-15T05:19:28'
+date: '2024-07-09T00:40:01'
 draft: false
 images:
 - /images/covers/apparitional_glare-black_candle_negativity.jpg
@@ -15,4 +15,3 @@ title: Apparitional Glare - Black Candle Negativity
 
 ## Vinyl
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/apparitional-glare-black-candle-negativity-12-lp) for $25.00 :: black candle negativity 12" lp
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=48765&sort=pd.name&order=ASC) for $25.00
