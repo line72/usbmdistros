@@ -1,10 +1,11 @@
 ---
-actualPrice: $30.00
+actualPrice: $15.00 - 30.00
 album: Ajattoman Uni
 artist: Circle of Ouroborus
 categories:
 - Vinyl
-date: '2024-10-15T05:02:11'
+- CD
+date: '2025-08-15T05:21:10'
 draft: false
 images:
 - /images/covers/circle_of_ouroborus-ajattoman_uni.png
@@ -15,3 +16,5 @@ title: Circle of Ouroborus - Ajattoman Uni
 
 ## Vinyl
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/circle-of-ouroborus-ajattoman-uni-12-lp) for $30.00
+## CD
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=60865&sort=pd.name&order=ASC) for $15.00
