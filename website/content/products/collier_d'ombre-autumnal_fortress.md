@@ -4,7 +4,6 @@ album: Autumnal Fortress
 artist: Collier D'Ombre
 categories:
 - Cassette
-- CD
 date: '2025-08-20T05:22:53'
 draft: false
 images:
@@ -16,5 +15,3 @@ title: Collier D'Ombre - Autumnal Fortress
 
 ## Cassette
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=63065&sort=pd.name&order=ASC) for $15.00
-## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=63064&sort=pd.name&order=ASC) for $15.00

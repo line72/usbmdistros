@@ -22,4 +22,3 @@ title: Immortal - Diabolical Fullmoon Mysticism
 * Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/immortal-diabolical-fullmoon-mysticism-vinyl-lp) for $34.99 :: (gatefold + slipcase, w/ poster, lim.994)
 ## CD
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/immortal-diabolical-fullmoon-mysticism-cd) for $14.00 :: Slipcase 2023
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=61546&sort=pd.name&order=ASC) for $15.00
