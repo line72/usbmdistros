@@ -5,7 +5,7 @@ artist: Beherit
 categories:
 - Vinyl
 - CD
-date: '2025-08-25T05:23:55'
+date: '2025-09-02T05:31:10'
 draft: false
 images:
 - /images/covers/beherit-beast_of_beherit.jpg
@@ -15,6 +15,6 @@ title: Beherit - Beast of Beherit
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=63148&sort=pd.name&order=ASC) for $50.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=63216&sort=pd.name&order=ASC) for $50.00
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=63156&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=63215&sort=pd.name&order=ASC) for $20.00
