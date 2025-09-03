@@ -4,7 +4,7 @@ album: Hordanes Land
 artist: Enslaved
 categories:
 - Vinyl
-date: '2025-08-15T05:19:46'
+date: '2025-09-03T05:20:09'
 draft: false
 images:
 - /images/covers/enslaved-hordanes_land.jpg
@@ -14,4 +14,4 @@ title: Enslaved - Hordanes Land
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=59125&sort=pd.name&order=ASC) for $35.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=63231&sort=pd.name&order=ASC) for $35.00

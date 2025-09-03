@@ -4,7 +4,7 @@ album: A Corpse, A Temple
 artist: Black Cilice
 categories:
 - Vinyl
-date: '2025-02-09T06:23:10'
+date: '2025-09-03T05:19:56'
 draft: false
 images:
 - /images/covers/black_cilice-a_corpse,_a_temple.jpg
@@ -15,4 +15,4 @@ title: Black Cilice - A Corpse, A Temple
 
 ## Vinyl
 * Purchase from [Sto'Vo'Kor Records](https://stovokor-records.com/products/black-cilice-a-corpse-a-temple) for $17.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=59904&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=63233&sort=pd.name&order=ASC) for $20.00
