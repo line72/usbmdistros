@@ -4,7 +4,7 @@ album: Tiurida
 artist: Falkenbach
 categories:
 - Vinyl
-date: '2024-11-29T06:47:29'
+date: '2025-09-04T05:46:36'
 draft: false
 images:
 - /images/covers/falkenbach-tiurida.jpg
@@ -14,4 +14,4 @@ title: Falkenbach - Tiurida
 ---
 
 ## Vinyl
-* Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/falkenbach-tiurida-vinyl-lp-gatefold-color) for $29.99 :: (gatefold, color)
+* Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/falkenbach-tiurida-vinyl-lp-gatefold-color) for $29.99 :: (gatefold, color, foil)

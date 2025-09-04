@@ -16,4 +16,3 @@ title: "Der Tod Und Die Landsknechte - S\xF6hne Des Teufels / Angriffspanzer"
 ## Vinyl
 * Purchase from [CW Productions](https://shop.cwproductions.net/products/der-tod-und-die-landsknechte-sohne-des-teufels-angriffspanzer-lp) for $27.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=62806&sort=pd.name&order=ASC) for $30.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=62807&sort=pd.name&order=ASC) for $30.00

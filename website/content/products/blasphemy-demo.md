@@ -4,7 +4,7 @@ album: Demo
 artist: Blasphemy
 categories:
 - Cassette
-date: '2025-08-21T05:22:17'
+date: '2025-09-04T05:23:06'
 draft: false
 images:
 - /images/covers/blasphemy-demo.png
@@ -14,4 +14,4 @@ title: Blasphemy - Demo
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=63124&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=63279&sort=pd.name&order=ASC) for $12.00

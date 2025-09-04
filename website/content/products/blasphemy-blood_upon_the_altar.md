@@ -4,7 +4,7 @@ album: Blood Upon the Altar
 artist: Blasphemy
 categories:
 - Vinyl
-date: '2025-08-15T05:19:33'
+date: '2025-09-04T05:20:21'
 draft: false
 images:
 - /images/covers/blasphemy-blood_upon_the_altar.png
@@ -14,5 +14,5 @@ title: Blasphemy - Blood Upon the Altar
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=62848&sort=pd.name&order=ASC) for $25.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=62845&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=63267&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=63270&sort=pd.name&order=ASC) for $25.00
