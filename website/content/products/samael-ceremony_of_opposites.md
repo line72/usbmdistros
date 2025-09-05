@@ -5,7 +5,7 @@ artist: Samael
 categories:
 - Vinyl
 - CD
-date: '2025-08-15T05:21:57'
+date: '2025-09-05T05:23:00'
 draft: false
 images:
 - /images/covers/samael-ceremony_of_opposites.jpg
@@ -16,6 +16,6 @@ title: Samael - Ceremony Of Opposites
 
 ## Vinyl
 * Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/samael-ceremony-of-opposites-cherry-red-vinyl-lp-1) for $31.00 :: cherry red vinyl lp
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=62547&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=63295&sort=pd.name&order=ASC) for $25.00
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=62565&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=63294&sort=pd.name&order=ASC) for $15.00

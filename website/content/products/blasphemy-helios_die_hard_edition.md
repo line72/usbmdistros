@@ -15,4 +15,3 @@ title: Blasphemy - Helios Die Hard Edition
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=63268&sort=pd.name&order=ASC) for $100.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=63276&sort=pd.name&order=ASC) for $100.00
