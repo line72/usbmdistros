@@ -4,7 +4,7 @@ album: "Sabbaoth\u200B'S Vociferations 2016-2020"
 artist: Goatpenis
 categories:
 - CD
-date: '2025-08-15T05:21:27'
+date: '2025-09-08T05:35:51'
 draft: false
 images:
 - "/images/covers/goatpenis-sabbaoth\u200B's_vociferations_2016-2020.jpg"
@@ -14,4 +14,4 @@ title: "Goatpenis - Sabbaoth\u200B'S Vociferations 2016-2020"
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=62370&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=63370&sort=pd.name&order=ASC) for $20.00

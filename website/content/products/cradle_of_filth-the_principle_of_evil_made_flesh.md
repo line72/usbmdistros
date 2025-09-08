@@ -1,10 +1,12 @@
 ---
-actualPrice: $41.99 - 47.00
+actualPrice: $14.99 - 47.00
 album: The Principle Of Evil Made Flesh
 artist: Cradle Of Filth
 categories:
 - Vinyl
-date: '2025-08-07T05:41:22'
+- Cassette
+- CD
+date: '2025-09-07T05:42:00'
 draft: false
 images:
 - /images/covers/cradle_of_filth-the_principle_of_evil_made_flesh.png
@@ -15,4 +17,9 @@ title: Cradle Of Filth - The Principle Of Evil Made Flesh
 
 ## Vinyl
 * Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/cradle-of-filth-the-principle-of-evil-made-flesh-classic-black-vinyl-lp) for $41.99 :: black vinyl lp
-* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/cradle-of-filth-the-principle-of-evil-made-flesh-aqua-blue-black-marble-vinyl-lp) for $47.00
+* Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/cradle-of-filth-the-principle-of-evil-made-flesh-vinyl-lp-2nd-press-preorder) for $34.99 :: (huge booklet, poster, download, lim.500)
+* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/cradle-of-filth-the-principle-of-evil-made-flesh-transparent-sea-blue-silver-vinyl-lp) for $47.00 :: transparent sea blue silver vinyl lp
+## Cassette
+* Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/cradle-of-filth-the-principle-of-evil-made-flesh-cassette-tape-preorder) for $14.99
+## CD
+* Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/cradle-of-filth-the-principle-of-evil-made-flesh-cd-hardcover-digibook-preorder) for $23.99 :: (hardcover digibook)

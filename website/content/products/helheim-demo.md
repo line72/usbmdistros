@@ -4,7 +4,7 @@ album: Demo
 artist: Helheim
 categories:
 - Cassette
-date: '2025-08-15T05:22:30'
+date: '2025-09-06T05:23:52'
 draft: false
 images:
 - /images/covers/helheim-demo.png
@@ -14,4 +14,4 @@ title: Helheim - Demo
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=61996&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=63333&sort=pd.name&order=ASC) for $15.00

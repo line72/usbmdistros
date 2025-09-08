@@ -4,7 +4,7 @@ album: Fenriz + Walpurgisnatt
 artist: Helheim
 categories:
 - Vinyl
-date: '2025-08-15T05:19:53'
+date: '2025-09-06T05:21:12'
 draft: false
 images:
 - /images/covers/helheim-fenriz_+_walpurgisnatt.jpg
@@ -14,4 +14,4 @@ title: Helheim - Fenriz + Walpurgisnatt
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=61997&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=63335&sort=pd.name&order=ASC) for $25.00

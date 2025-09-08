@@ -1,10 +1,10 @@
 ---
-actualPrice: $20.00 - 28.00
+actualPrice: $28.00
 album: Sin Querencia
 artist: Immortal Bird
 categories:
 - Vinyl
-date: '2025-06-17T05:26:59'
+date: '2024-11-04T07:02:45'
 draft: false
 images:
 - /images/covers/immortal_bird-sin_querencia.jpg
@@ -15,4 +15,3 @@ title: Immortal Bird - Sin Querencia
 
 ## Vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/immortal-bird-sin-querencia-lp) for $28.00 :: Color 2024 press vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/used-immortal-bird-sin-querencia-lp) for $20.00 :: Color 2024 press vinyl

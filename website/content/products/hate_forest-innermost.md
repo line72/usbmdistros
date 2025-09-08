@@ -4,7 +4,6 @@ album: Innermost
 artist: Hate Forest
 categories:
 - Vinyl
-- Cassette
 - CD
 date: '2025-08-15T05:19:53'
 draft: false
@@ -20,7 +19,5 @@ title: Hate Forest - Innermost
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/hate-forest-innermost-lp) for $25.00 :: Black 2022 press vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/hate-forest-innermost-lp) for $27.00 :: Brown Cloudy 2022 press
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=62616&sort=pd.name&order=ASC) for $25.00
-## Cassette
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/hate-forest-innermost-cassette) for $15.00 :: Cassette 2022
 ## CD
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/hate-forest-innermost-cd) for $13.00 :: Jewel Case 2022
