@@ -1,11 +1,11 @@
 ---
-actualPrice: $14.00 - 34.99
+actualPrice: $14.00 - 29.99
 album: Diabolical Fullmoon Mysticism
 artist: Immortal
 categories:
 - Vinyl
 - CD
-date: '2025-09-08T06:05:16'
+date: '2025-09-10T05:47:22'
 draft: false
 images:
 - /images/covers/immortal-diabolical_fullmoon_mysticism.jpg
@@ -19,6 +19,6 @@ title: Immortal - Diabolical Fullmoon Mysticism
 * Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/immortal-diabolical-fullmoon-mysticism-orange-black-splatter-vinyl-lp-gatefold) for $27.00 :: orange/black splatter vinyl lp gatefold
 * Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/immortal-diabolical-fullmoon-mysticism-splatter-vinyl-lp-gatefold-1) for $27.00 :: clear black vinyl lp
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=62546&sort=pd.name&order=ASC) for $27.00
-* Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/immortal-diabolical-fullmoon-mysticism-vinyl-lp) for $34.99 :: (gatefold)
+* Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/immortal-diabolical-fullmoon-mysticism-vinyl-lp) for $29.99 :: (gatefold, 180g, color)
 ## CD
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/immortal-diabolical-fullmoon-mysticism-cd) for $14.00 :: Slipcase 2023
