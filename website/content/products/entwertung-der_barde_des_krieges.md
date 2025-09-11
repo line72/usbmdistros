@@ -4,7 +4,7 @@ album: Der Barde Des Krieges
 artist: Entwertung
 categories:
 - Cassette
-date: '2025-05-01T05:01:47'
+date: '2025-09-11T05:02:13'
 draft: false
 images:
 - /images/covers/entwertung-der_barde_des_krieges.png
