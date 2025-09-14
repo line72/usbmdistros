@@ -4,7 +4,7 @@ album: Atlantean Ouroboros
 artist: Mortum
 categories:
 - Vinyl
-date: '2025-08-15T05:20:10'
+date: '2025-09-14T05:21:09'
 draft: false
 images:
 - /images/covers/mortum-atlantean_ouroboros.jpg
@@ -14,4 +14,4 @@ title: Mortum - Atlantean Ouroboros
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=28351&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=63437&sort=pd.name&order=ASC) for $25.00

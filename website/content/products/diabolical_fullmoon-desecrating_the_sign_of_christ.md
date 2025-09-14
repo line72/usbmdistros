@@ -5,7 +5,6 @@ artist: Diabolical Fullmoon
 categories:
 - Vinyl
 - Cassette
-- CD
 date: '2025-08-20T05:22:55'
 draft: false
 images:
@@ -19,5 +18,3 @@ title: Diabolical Fullmoon - Desecrating The Sign Of Christ
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=63057&sort=pd.name&order=ASC) for $30.00
 ## Cassette
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=63059&sort=pd.name&order=ASC) for $15.00
-## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=63058&sort=pd.name&order=ASC) for $15.00

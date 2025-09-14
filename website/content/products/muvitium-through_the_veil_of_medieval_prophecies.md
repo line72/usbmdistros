@@ -16,7 +16,6 @@ title: Muvitium - Through The Veil Of Medieval Prophecies
 ---
 
 ## Vinyl
-* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/muvitium-through-the-veil-of-medieval-prophecies-12-lp) for $30.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=63055&sort=pd.name&order=ASC) for $30.00
 ## Cassette
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/muvitium-through-the-veil-of-medieval-prophecies-tape) for $14.00

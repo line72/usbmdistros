@@ -4,7 +4,7 @@ album: Demo
 artist: Amargor
 categories:
 - Cassette
-date: '2025-08-15T05:22:14'
+date: '2025-09-14T05:23:17'
 draft: false
 images:
 - /images/covers/amargor-demo.png
@@ -14,4 +14,4 @@ title: Amargor - Demo
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=54677&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=63428&sort=pd.name&order=ASC) for $15.00

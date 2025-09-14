@@ -4,7 +4,7 @@ album: DIT.SCO M.R.
 artist: Ditesco Mori
 categories:
 - Vinyl
-date: '2025-08-15T05:19:45'
+date: '2025-09-14T05:20:39'
 draft: false
 images:
 - /images/covers/ditesco_mori-dit.sco_m.r..png
@@ -14,4 +14,4 @@ title: Ditesco Mori - DIT.SCO M.R.
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=19136&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=63444&sort=pd.name&order=ASC) for $25.00
