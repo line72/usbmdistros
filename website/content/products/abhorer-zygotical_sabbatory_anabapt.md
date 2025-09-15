@@ -4,7 +4,7 @@ album: Zygotical Sabbatory Anabapt
 artist: Abhorer
 categories:
 - CD
-date: '2025-08-15T05:21:00'
+date: '2025-09-15T05:32:09'
 draft: false
 images:
 - /images/covers/abhorer-zygotical_sabbatory_anabapt.jpg
@@ -14,4 +14,4 @@ title: Abhorer - Zygotical Sabbatory Anabapt
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=61699&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=63456&sort=pd.name&order=ASC) for $15.00

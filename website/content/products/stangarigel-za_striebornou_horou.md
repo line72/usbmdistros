@@ -6,7 +6,7 @@ categories:
 - Vinyl
 - Cassette
 - CD
-date: '2025-09-04T05:03:08'
+date: '2025-09-15T05:06:02'
 draft: false
 images:
 - /images/covers/stangarigel-za_striebornou_horou.png
