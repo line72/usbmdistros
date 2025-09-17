@@ -5,7 +5,7 @@ artist: Stangarigel
 categories:
 - Cassette
 - CD
-date: '2025-09-04T05:03:08'
+date: '2025-09-17T05:02:59'
 draft: false
 images:
 - /images/covers/stangarigel-za_striebornou_horou.png
