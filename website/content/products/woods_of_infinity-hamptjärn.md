@@ -4,7 +4,7 @@ album: "Hamptj\xE4rn"
 artist: Woods of Infinity
 categories:
 - Vinyl
-date: '2025-09-14T05:21:44'
+date: '2025-09-19T05:21:51'
 draft: false
 images:
 - "/images/covers/woods_of_infinity-hamptj\xE4rn.png"
@@ -14,4 +14,4 @@ title: "Woods of Infinity - Hamptj\xE4rn"
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=63408&sort=pd.name&order=ASC) for $35.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=63468&sort=pd.name&order=ASC) for $35.00

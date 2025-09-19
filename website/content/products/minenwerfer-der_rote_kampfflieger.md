@@ -5,7 +5,6 @@ artist: Minenwerfer
 categories:
 - Vinyl
 - Cassette
-- CD
 date: '2025-08-15T05:20:08'
 draft: false
 images:
@@ -21,5 +20,3 @@ title: Minenwerfer - Der Rote Kampfflieger
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/minenwerfer-der-rote-kampfflieger-lp) for $25.00 :: Black 2022 press vinyl
 ## Cassette
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/minenwerfer-der-rote-kampfflieger-cassette) for $12.00 :: Cassette 2022
-## CD
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/minenwerfer-der-rote-kampfflieger-cd) for $13.00 :: Jewel Case 2021
