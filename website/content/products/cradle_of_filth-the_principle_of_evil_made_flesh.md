@@ -5,7 +5,6 @@ artist: Cradle Of Filth
 categories:
 - Vinyl
 - Cassette
-- CD
 date: '2025-09-07T05:42:00'
 draft: false
 images:
@@ -21,5 +20,3 @@ title: Cradle Of Filth - The Principle Of Evil Made Flesh
 * Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/cradle-of-filth-the-principle-of-evil-made-flesh-transparent-sea-blue-silver-vinyl-lp) for $47.00 :: transparent sea blue silver vinyl lp
 ## Cassette
 * Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/cradle-of-filth-the-principle-of-evil-made-flesh-cassette-tape-preorder) for $14.99
-## CD
-* Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/cradle-of-filth-the-principle-of-evil-made-flesh-cd-hardcover-digibook-preorder) for $23.99 :: (hardcover digibook)

@@ -4,7 +4,7 @@ album: Bardo Exist
 artist: Beherit
 categories:
 - Vinyl
-date: '2025-09-06T05:20:50'
+date: '2025-09-20T05:20:35'
 draft: false
 images:
 - /images/covers/beherit-bardo_exist.jpg
@@ -14,4 +14,4 @@ title: Beherit - Bardo Exist
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=63307&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=63473&sort=pd.name&order=ASC) for $25.00
