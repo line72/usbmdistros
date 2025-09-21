@@ -1,10 +1,10 @@
 ---
-actualPrice: $27.00
+actualPrice: $20.98
 album: Thy Black Destiny
 artist: Sacramentum
 categories:
 - Vinyl
-date: '2024-11-12T06:51:44'
+date: '2025-09-21T05:43:53'
 draft: false
 images:
 - /images/covers/sacramentum-thy_black_destiny.jpg
@@ -14,4 +14,4 @@ title: Sacramentum - Thy Black Destiny
 ---
 
 ## Vinyl
-* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/sacramentum-thy-black-destiny-limited-clear-deluxe-vinyl-lp-1) for $27.00 :: limited clear deluxe vinyl lp
+* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/sacramentum-thy-black-destiny-limited-clear-deluxe-vinyl-lp-1) for $20.98 :: limited clear deluxe vinyl lp
