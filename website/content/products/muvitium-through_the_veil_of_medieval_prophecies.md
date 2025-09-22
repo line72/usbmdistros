@@ -6,7 +6,7 @@ categories:
 - Vinyl
 - Cassette
 - CD
-date: '2025-09-04T05:03:08'
+date: '2025-09-22T05:03:45'
 draft: false
 images:
 - /images/covers/muvitium-through_the_veil_of_medieval_prophecies.png
