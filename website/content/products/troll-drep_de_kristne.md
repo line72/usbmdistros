@@ -4,7 +4,7 @@ album: Drep de Kristne
 artist: Troll
 categories:
 - CD
-date: '2025-08-15T05:22:06'
+date: '2025-09-24T05:23:09'
 draft: false
 images:
 - /images/covers/troll-drep_de_kristne.jpg
@@ -14,4 +14,4 @@ title: Troll - Drep de Kristne
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=57322&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=63516&sort=pd.name&order=ASC) for $15.00
