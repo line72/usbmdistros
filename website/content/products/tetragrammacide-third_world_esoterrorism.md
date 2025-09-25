@@ -4,7 +4,7 @@ album: Third World Esoterrorism
 artist: Tetragrammacide
 categories:
 - Vinyl
-date: '2025-08-20T05:21:02'
+date: '2025-09-25T05:21:23'
 draft: false
 images:
 - /images/covers/tetragrammacide-third_world_esoterrorism.jpg
@@ -14,4 +14,4 @@ title: Tetragrammacide - Third World Esoterrorism
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=63068&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=63533&sort=pd.name&order=ASC) for $25.00
