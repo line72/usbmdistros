@@ -4,7 +4,7 @@ album: Cold Light
 artist: Wuldorgast
 categories:
 - Vinyl
-date: '2025-09-04T05:02:13'
+date: '2025-09-26T05:02:13'
 draft: false
 images:
 - /images/covers/wuldorgast-cold_light.jpg

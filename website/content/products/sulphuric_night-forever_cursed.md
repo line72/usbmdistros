@@ -4,7 +4,7 @@ album: Forever Cursed
 artist: Sulphuric Night
 categories:
 - Vinyl
-date: '2025-09-25T05:33:45'
+date: '2025-09-26T05:35:10'
 draft: false
 images:
 - /images/covers/sulphuric_night-forever_cursed.jpg
@@ -14,4 +14,4 @@ title: Sulphuric Night - Forever Cursed
 ---
 
 ## Vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/used-sulphuric-night-forever-cursed-lp) for $55.00 :: Black 2019 press vinyl
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/used-sulphuric-night-forever-cursed-lp) for $55.00 :: Color 2019 press vinyl
