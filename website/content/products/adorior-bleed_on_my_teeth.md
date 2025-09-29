@@ -5,7 +5,6 @@ artist: Adorior
 categories:
 - Vinyl
 - Cassette
-- CD
 date: '2025-08-15T05:22:13'
 draft: false
 images:
@@ -19,5 +18,3 @@ title: Adorior - Bleed On My Teeth
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=59884&sort=pd.name&order=ASC) for $25.00
 ## Cassette
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=59885&sort=pd.name&order=ASC) for $12.00
-## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=59883&sort=pd.name&order=ASC) for $12.00
