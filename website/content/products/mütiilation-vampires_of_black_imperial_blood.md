@@ -4,7 +4,7 @@ album: Vampires Of Black Imperial Blood
 artist: "M\xFCtiilation"
 categories:
 - Vinyl
-date: '2025-09-11T05:02:05'
+date: '2025-10-04T05:16:21'
 draft: false
 images:
 - "/images/covers/m\xFCtiilation-vampires_of_black_imperial_blood.png"
@@ -14,5 +14,5 @@ title: "M\xFCtiilation - Vampires Of Black Imperial Blood"
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=62551&sort=pd.name&order=ASC) for $30.00
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/m%C3%BCtiilation-vampires-of-black-imperial-blood-2xlp) for $35.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=63593&sort=pd.name&order=ASC) for $30.00

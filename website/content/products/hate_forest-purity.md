@@ -1,10 +1,11 @@
 ---
-actualPrice: $27.00
+actualPrice: $15.00 - 28.00
 album: Purity
 artist: Hate Forest
 categories:
 - Vinyl
-date: '2024-07-11T05:35:31'
+- CD
+date: '2025-10-02T05:19:31'
 draft: false
 images:
 - /images/covers/hate_forest-purity.jpg
@@ -14,4 +15,6 @@ title: Hate Forest - Purity
 ---
 
 ## Vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/hate-forest-purity-lp) for $27.00 :: Color 2022 press vinyl
+* Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/hate-forest-purity-12-lp-clear-blue-marble/) for $28.00 :: clear blue marble
+## CD
+* Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/hate-forest-purity-cd/) for $15.00

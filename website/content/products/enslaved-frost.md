@@ -4,7 +4,7 @@ album: Frost
 artist: Enslaved
 categories:
 - Vinyl
-date: '2025-09-03T05:20:09'
+date: '2025-10-04T05:15:54'
 draft: false
 images:
 - /images/covers/enslaved-frost.jpg
@@ -17,4 +17,4 @@ title: Enslaved - Frost
 * Purchase from [Sto'Vo'Kor Records](https://stovokor-records.com/products/enslaved-frost) for $22.00
 * Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/copy-of-enslaved-frost-vinyl-lp-yellow-blue-donation-edition-ltd-to-298) for $29.00 :: yellow/blue donation edition - ltd to 298
 * Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/enslaved-frost-clear-black-vinyl-lp) for $27.99 :: clear black vinyl lp
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=63230&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=63652&sort=pd.name&order=ASC) for $25.00

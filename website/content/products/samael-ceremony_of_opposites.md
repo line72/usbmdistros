@@ -16,6 +16,5 @@ title: Samael - Ceremony Of Opposites
 
 ## Vinyl
 * Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/samael-ceremony-of-opposites-cherry-red-vinyl-lp-1) for $31.00 :: cherry red vinyl lp
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=63295&sort=pd.name&order=ASC) for $25.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=63294&sort=pd.name&order=ASC) for $15.00

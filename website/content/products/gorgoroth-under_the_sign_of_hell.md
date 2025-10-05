@@ -4,7 +4,7 @@ album: Under The Sign Of Hell
 artist: Gorgoroth
 categories:
 - Vinyl
-date: '2025-08-15T05:19:51'
+date: '2025-10-04T05:15:59'
 draft: false
 images:
 - /images/covers/gorgoroth-under_the_sign_of_hell.jpg
@@ -15,4 +15,4 @@ title: Gorgoroth - Under The Sign Of Hell
 
 ## Vinyl
 * Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/gorgoroth-under-the-sign-of-hell-white-black-marbled-vinyl-lp) for $23.99 :: white/black marbled vinyl lp
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=61624&sort=pd.name&order=ASC) for $27.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=63606&sort=pd.name&order=ASC) for $27.00

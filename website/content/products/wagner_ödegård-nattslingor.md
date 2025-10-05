@@ -4,7 +4,7 @@ album: Nattslingor
 artist: "Wagner \xD6deg\xE5rd"
 categories:
 - Vinyl
-date: '2025-08-15T05:20:41'
+date: '2025-10-04T05:16:50'
 draft: false
 images:
 - "/images/covers/wagner_\xF6deg\xE5rd-nattslingor.jpg"
@@ -15,4 +15,4 @@ title: "Wagner \xD6deg\xE5rd - Nattslingor"
 
 ## Vinyl
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/wagner-odegard-nattslingor-12-lp) for $25.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=59996&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=63632&sort=pd.name&order=ASC) for $25.00

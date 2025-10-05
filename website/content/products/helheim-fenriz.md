@@ -4,7 +4,7 @@ album: Fenriz
 artist: Helheim
 categories:
 - Vinyl
-date: '2025-09-06T05:21:12'
+date: '2025-10-04T05:16:02'
 draft: false
 images:
 - /images/covers/helheim-fenriz.jpg
@@ -14,4 +14,4 @@ title: Helheim - Fenriz
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=63336&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=63583&sort=pd.name&order=ASC) for $25.00

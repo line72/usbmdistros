@@ -4,7 +4,7 @@ album: Fukk
 artist: Sadistik Exekution
 categories:
 - Vinyl
-date: '2025-08-15T05:20:25'
+date: '2025-10-04T05:16:32'
 draft: false
 images:
 - /images/covers/sadistik_exekution-fukk.jpg
@@ -14,4 +14,4 @@ title: Sadistik Exekution - Fukk
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=61779&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=63651&sort=pd.name&order=ASC) for $25.00

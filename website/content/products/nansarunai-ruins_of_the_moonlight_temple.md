@@ -4,7 +4,7 @@ album: Ruins Of The Moonlight Temple
 artist: Nansarunai
 categories:
 - Vinyl
-date: '2025-05-03T05:02:56'
+date: '2025-10-05T05:01:43'
 draft: false
 images:
 - /images/covers/nansarunai-ruins_of_the_moonlight_temple.png

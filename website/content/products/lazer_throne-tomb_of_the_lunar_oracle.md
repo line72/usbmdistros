@@ -15,7 +15,6 @@ title: Lazer Throne - Tomb Of The Lunar Oracle
 ---
 
 ## Vinyl
-* Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/lazer-throne-tomb-of-the-lunar-oracle-vinyl-lp-color-gatefold-lim199) for $29.99 :: (color, gatefold, lim.199)
 * Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/lazer-throne-tomb-of-the-lunar-oracle-purple-black-marble-vinyl-lp) for $34.00 :: purple/black marble vinyl lp
 ## CD
 * Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/lazer-throne-tomb-of-the-lunar-oracle-cd-digipak-lim500) for $14.99 :: (digipak, lim.500)
