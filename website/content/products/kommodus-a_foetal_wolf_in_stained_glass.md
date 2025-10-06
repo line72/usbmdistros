@@ -4,7 +4,7 @@ album: A Foetal Wolf In Stained Glass
 artist: Kommodus
 categories:
 - CD
-date: '2025-10-04T05:02:28'
+date: '2025-10-06T05:03:46'
 draft: false
 images:
 - /images/covers/kommodus-a_foetal_wolf_in_stained_glass.png
