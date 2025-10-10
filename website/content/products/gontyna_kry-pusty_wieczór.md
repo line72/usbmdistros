@@ -15,7 +15,6 @@ title: "Gontyna Kry - Pusty Wiecz\xF3r"
 ---
 
 ## Vinyl
-* Purchase from [CW Productions](https://shop.cwproductions.net/products/gontyna-kry-pusty-wieczor-lp) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=62760&sort=pd.name&order=ASC) for $30.00
 ## CD
 * Purchase from [CW Productions](https://shop.cwproductions.net/products/gontyna-kry-pusty-wieczor-cd) for $12.00

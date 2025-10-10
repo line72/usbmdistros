@@ -1,5 +1,5 @@
 ---
-actualPrice: $40.00 - 50.00
+actualPrice: $50.00
 album: Jahreszeiten
 artist: Nargaroth
 categories:
@@ -15,4 +15,3 @@ title: Nargaroth - Jahreszeiten
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=55658&sort=pd.name&order=ASC) for $50.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=55659&sort=pd.name&order=ASC) for $40.00

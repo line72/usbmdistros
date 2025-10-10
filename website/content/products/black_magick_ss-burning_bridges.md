@@ -15,4 +15,3 @@ title: Black Magick SS - Burning Bridges
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=63567&sort=pd.name&order=ASC) for $30.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=63568&sort=pd.name&order=ASC) for $30.00
