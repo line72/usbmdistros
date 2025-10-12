@@ -17,7 +17,6 @@ title: Sargeist - Satanic Black Devotion
 
 ## Vinyl
 * Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/sargeist-satanic-black-devotion-smoke-vinyl-lp) for $27.00
-* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/sargeist-satanic-black-devotion-12-lp) for $27.00 :: black devotion 12" lp
 ## Cassette
 * Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/sargeist-satanic-black-devotion-cassette/) for $13.50 :: black devotion cassette
 ## CD

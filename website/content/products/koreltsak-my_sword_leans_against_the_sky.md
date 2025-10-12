@@ -1,10 +1,10 @@
 ---
-actualPrice: $38.00
+actualPrice: $38.00 - 39.99
 album: My Sword Leans Against the Sky
 artist: Koreltsak
 categories:
 - Vinyl
-date: '2025-10-04T05:01:38'
+date: '2025-10-11T05:54:31'
 draft: false
 images:
 - /images/covers/koreltsak-my_sword_leans_against_the_sky.png
@@ -15,3 +15,4 @@ title: Koreltsak - My Sword Leans Against the Sky
 
 ## Vinyl
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/koreltsak-my-sword-leans-against-the-sky-12-lp) for $38.00
+* Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/koreltsak-my-sword-leans-against-the-sky-lp-black-obi) for $39.99 :: (180g w/ obi, lim.200)

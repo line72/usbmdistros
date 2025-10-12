@@ -4,7 +4,7 @@ album: S/T
 artist: Grole
 categories:
 - Vinyl
-date: '2024-12-14T06:02:17'
+date: '2025-10-12T05:02:25'
 draft: false
 images:
 - /images/covers/grole-s-t.jpg

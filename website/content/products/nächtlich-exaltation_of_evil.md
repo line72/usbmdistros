@@ -4,7 +4,7 @@ album: Exaltation of Evil
 artist: "N\xE4chtlich"
 categories:
 - Vinyl
-date: '2025-08-15T05:20:12'
+date: '2025-10-12T05:02:23'
 draft: false
 images:
 - "/images/covers/n\xE4chtlich-exaltation_of_evil.png"

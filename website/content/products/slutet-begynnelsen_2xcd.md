@@ -4,7 +4,7 @@ album: Begynnelsen 2xcd
 artist: Slutet
 categories:
 - Cassette
-date: '2025-05-03T05:03:53'
+date: '2025-10-12T05:03:05'
 draft: false
 images:
 - /images/covers/slutet-begynnelsen_2xcd.png
