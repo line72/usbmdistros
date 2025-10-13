@@ -4,7 +4,7 @@ album: Unholy Rehearsals Maxi Single
 artist: Diabolical Fullmoon
 categories:
 - CD
-date: '2024-07-09T00:40:38'
+date: '2025-10-13T05:03:02'
 draft: false
 images:
 - /images/covers/diabolical_fullmoon-unholy_rehearsals_maxi_single.jpg
