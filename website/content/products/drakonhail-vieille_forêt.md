@@ -4,7 +4,7 @@ album: "Vieille For\xEAt"
 artist: Drakonhail
 categories:
 - Vinyl
-date: '2025-08-15T05:19:45'
+date: '2025-10-16T05:20:08'
 draft: false
 images:
 - "/images/covers/drakonhail-vieille_for\xEAt.jpg"
@@ -14,4 +14,4 @@ title: "Drakonhail - Vieille For\xEAt"
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=61018&sort=pd.name&order=ASC) for $35.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=63757&sort=pd.name&order=ASC) for $35.00

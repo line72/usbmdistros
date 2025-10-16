@@ -4,7 +4,7 @@ album: Consanguineous Tales of Bloodshed and Treachery
 artist: Auld Ridge
 categories:
 - Vinyl
-date: '2025-09-04T05:02:13'
+date: '2025-10-14T05:02:16'
 draft: false
 images:
 - /images/covers/auld_ridge-consanguineous_tales_of_bloodshed_and_treachery.jpg

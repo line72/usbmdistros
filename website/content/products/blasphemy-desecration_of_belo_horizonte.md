@@ -5,7 +5,7 @@ artist: Blasphemy
 categories:
 - Vinyl
 - Cassette
-date: '2025-09-04T05:23:06'
+date: '2025-10-16T05:19:58'
 draft: false
 images:
 - /images/covers/blasphemy-desecration_of_belo_horizonte.jpg
@@ -15,6 +15,6 @@ title: Blasphemy - Desecration Of Belo Horizonte
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=63271&sort=pd.name&order=ASC) for $40.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=63764&sort=pd.name&order=ASC) for $40.00
 ## Cassette
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=63280&sort=pd.name&order=ASC) for $20.00

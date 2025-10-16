@@ -1,10 +1,9 @@
 ---
-actualPrice: $11.99 - 27.49
+actualPrice: $27.49
 album: Georgie And The Dragon
 artist: CURTA'N WALL
 categories:
 - Vinyl
-- Cassette
 date: '2025-09-20T05:47:08'
 draft: false
 images:
@@ -16,5 +15,3 @@ title: CURTA'N WALL - Georgie And The Dragon
 
 ## Vinyl
 * Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/curtan-wall-georgie-and-the-dragon-vinyl-lp) for $27.49 :: (lim.500 w/ insert, 3 color options)
-## Cassette
-* Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/curtan-wall-georgie-and-the-dragon-cassette-tape) for $11.99
