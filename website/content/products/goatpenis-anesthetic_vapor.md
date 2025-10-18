@@ -15,4 +15,3 @@ title: Goatpenis - Anesthetic Vapor
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=63687&sort=pd.name&order=ASC) for $25.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=63689&sort=pd.name&order=ASC) for $25.00

@@ -1,5 +1,5 @@
 ---
-actualPrice: $25.00 - 30.00
+actualPrice: $25.00
 album: True Iron Will
 artist: True Iron Will
 categories:
@@ -14,5 +14,4 @@ title: True Iron Will - True Iron Will
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=63674&sort=pd.name&order=ASC) for $30.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=63685&sort=pd.name&order=ASC) for $25.00
