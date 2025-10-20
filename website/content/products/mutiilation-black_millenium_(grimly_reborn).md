@@ -4,7 +4,7 @@ album: Black Millenium (Grimly Reborn)
 artist: Mutiilation
 categories:
 - Vinyl
-date: '2025-10-07T05:19:54'
+date: '2025-10-20T05:27:59'
 draft: false
 images:
 - /images/covers/mutiilation-black_millenium_(grimly_reborn).jpg
@@ -14,4 +14,4 @@ title: Mutiilation - Black Millenium (Grimly Reborn)
 ---
 
 ## Vinyl
-* Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/mutiilation-black-millenium-grimly-reborn-12-lp-marble/) for $28.00 :: black millenium (grimly reborn) 12&#8243; lp marble
+* Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/mutiilation-black-millenium-grimly-reborn-12-lp-marble/) for $28.00 :: black millenium (grimly reborn) 12&#8243; gatefold lp red marble
