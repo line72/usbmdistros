@@ -16,4 +16,3 @@ title: Siege Column - Sulphur Omega
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=63388&sort=pd.name&order=ASC) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=63806&sort=pd.name&order=ASC) for $25.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=63804&sort=pd.name&order=ASC) for $25.00
