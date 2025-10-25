@@ -14,5 +14,4 @@ title: Wiegedood - There's Always Blood At The End Of The Road
 ---
 
 ## Vinyl
-* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/nesi-wiegedood-theres-always-blood-at-the-end-of-the-road-ltd-splatter-2lp-asian-market-exclusive-1) for $55.00 :: ltd splatter 2lp - asian market exclusive
 * Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/nesi-wiegedood-theres-always-blood-at-the-end-of-the-road-ltd-swirl-vinyl-2lp-asian-market-exclusive) for $55.00 :: ltd swirl vinyl 2lp - asian market exclusive

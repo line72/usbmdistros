@@ -1,10 +1,11 @@
 ---
-actualPrice: $9.99
+actualPrice: $9.99 - 22.99
 album: "Melino\xEB"
 artist: Akhlys
 categories:
+- Vinyl
 - CD
-date: '2024-07-09T13:20:56'
+date: '2025-10-24T05:04:15'
 draft: false
 images:
 - "/images/covers/akhlys-melino\xEB.jpg"
@@ -13,5 +14,7 @@ thumbnailImage: "/images/covers/akhlys-melino\xEB-thumb.jpg"
 title: "Akhlys - Melino\xEB"
 ---
 
+## Vinyl
+* Purchase from [Debemur Morti](https://debemurmorti.aisamerch.com/item/206397) for $22.99
 ## CD
 * Purchase from [Debemur Morti](https://debemurmorti.aisamerch.com/item/93978) for $9.99

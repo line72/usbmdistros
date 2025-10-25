@@ -15,4 +15,3 @@ title: True Iron Will - Spirit Of Steel
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=63681&sort=pd.name&order=ASC) for $25.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=63680&sort=pd.name&order=ASC) for $25.00

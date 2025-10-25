@@ -4,7 +4,7 @@ album: Hate Procession
 artist: Bloodline
 categories:
 - CD
-date: '2025-08-15T05:21:08'
+date: '2025-10-25T05:22:22'
 draft: false
 images:
 - /images/covers/bloodline-hate_procession.jpg
@@ -14,4 +14,4 @@ title: Bloodline - Hate Procession
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=2015&sort=pd.name&order=ASC) for $6.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=63889&sort=pd.name&order=ASC) for $6.00

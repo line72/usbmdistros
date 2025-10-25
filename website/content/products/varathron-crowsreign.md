@@ -4,7 +4,7 @@ album: Crowsreign
 artist: Varathron
 categories:
 - Vinyl
-date: '2025-08-15T05:20:37'
+date: '2025-10-24T05:22:19'
 draft: false
 images:
 - /images/covers/varathron-crowsreign.jpg
@@ -15,4 +15,4 @@ title: Varathron - Crowsreign
 
 ## Vinyl
 * Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/varathron-crowsreign-2lp-silver-vinyl-dlp) for $35.99 :: 2lp silver vinyl dlp
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=61757&sort=pd.name&order=ASC) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=63838&sort=pd.name&order=ASC) for $30.00

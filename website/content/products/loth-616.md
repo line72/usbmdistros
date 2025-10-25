@@ -5,6 +5,7 @@ artist: Loth
 categories:
 - Vinyl
 - Cassette
+- CD
 date: '2023-12-17T13:25:36'
 draft: false
 images:
@@ -18,3 +19,5 @@ title: Loth - 616
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/loth-616-lp) for $25.00 :: Black 2023 press vinyl
 ## Cassette
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/loth-616-cassette) for $11.00 :: Cassette 2023
+## CD
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/loth-616-cd) for $13.00 :: CD 2023

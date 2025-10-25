@@ -1,9 +1,8 @@
 ---
-actualPrice: $15.00 - 30.00
+actualPrice: $15.00
 album: "Typho\u200B-\u200BTantric Aphorisms From The Arachneophidian Qur'an"
 artist: Tetragrammacide
 categories:
-- Vinyl
 - CD
 date: '2025-10-18T05:23:14'
 draft: false
@@ -15,7 +14,5 @@ title: "Tetragrammacide - Typho\u200B-\u200BTantric Aphorisms From The Arachneop
   \ Qur'an"
 ---
 
-## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=63793&sort=pd.name&order=ASC) for $30.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=63792&sort=pd.name&order=ASC) for $15.00

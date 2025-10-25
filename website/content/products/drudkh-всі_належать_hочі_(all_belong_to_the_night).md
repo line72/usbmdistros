@@ -5,6 +5,7 @@ album: "\u0412\u0441\u0456 \u041D\u0430\u043B\u0435\u0436\u0430\u0442\u044C H\u0
 artist: Drudkh
 categories:
 - Vinyl
+- Cassette
 - CD
 date: '2025-01-03T06:37:43'
 draft: false
@@ -20,5 +21,7 @@ title: "Drudkh - \u0412\u0441\u0456 \u041D\u0430\u043B\u0435\u0436\u0430\u0442\u
 
 ## Vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/drudkh-всі-належать-hочі-all-belong-to-the-night-lp) for $30.00 :: Black 2022 press vinyl
+## Cassette
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/drudkh-всі-належать-hочі-all-belong-to-the-night-cassette) for $16.00 :: Cassette 2022
 ## CD
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/drudkh-всі-належать-hочі-all-belong-to-the-night-cd) for $14.00 :: Digipak 2022
