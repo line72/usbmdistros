@@ -4,7 +4,7 @@ album: Far Beneath the Sun
 artist: Malignant Eternal
 categories:
 - Vinyl
-date: '2025-08-15T05:20:05'
+date: '2025-10-28T05:16:47'
 draft: false
 images:
 - /images/covers/malignant_eternal-far_beneath_the_sun.jpg
@@ -14,4 +14,4 @@ title: Malignant Eternal - Far Beneath the Sun
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=61796&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=63947&sort=pd.name&order=ASC) for $25.00

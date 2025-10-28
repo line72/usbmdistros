@@ -4,7 +4,7 @@ album: Moonfog Replica
 artist: Satyricon
 categories:
 - Vinyl
-date: '2025-10-24T05:22:05'
+date: '2025-10-27T05:18:07'
 draft: false
 images:
 - /images/covers/satyricon-moonfog_replica.png
@@ -14,4 +14,4 @@ title: Satyricon - Moonfog Replica
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=63836&sort=pd.name&order=ASC) for $40.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=63922&sort=pd.name&order=ASC) for $40.00
