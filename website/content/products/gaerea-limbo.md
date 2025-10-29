@@ -5,7 +5,7 @@ artist: Gaerea
 categories:
 - Vinyl
 - CD
-date: '2025-01-28T06:38:14'
+date: '2025-10-29T05:27:39'
 draft: false
 images:
 - /images/covers/gaerea-limbo.jpg
@@ -15,6 +15,7 @@ title: Gaerea - Limbo
 ---
 
 ## Vinyl
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/gaerea-limbo) for $32.00 :: Golden 2023 press vinyl
 * Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/copy-of-default-template-for-new-vinyl-1) for $35.99 :: double lp gatefold colored - white ltd to 300
 * Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/gaerea-limbo-double-gold-gatefold-vinyl-dlp-ltd-to-251) for $34.99 :: double gold gatefold vinyl dlp - ltd to 250
 ## CD

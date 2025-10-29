@@ -4,7 +4,7 @@ album: There's Always Blood At The End Of The Road
 artist: Wiegedood
 categories:
 - Vinyl
-date: '2024-08-07T05:40:22'
+date: '2025-10-29T05:34:35'
 draft: false
 images:
 - /images/covers/wiegedood-there's_always_blood_at_the_end_of_the_road.jpg
@@ -15,3 +15,4 @@ title: Wiegedood - There's Always Blood At The End Of The Road
 
 ## Vinyl
 * Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/nesi-wiegedood-theres-always-blood-at-the-end-of-the-road-ltd-swirl-vinyl-2lp-asian-market-exclusive) for $55.00 :: ltd swirl vinyl 2lp - asian market exclusive
+* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/nesi-wiegedood-theres-always-blood-at-the-end-of-the-road-ltd-splatter-2lp-asian-market-exclusive-2) for $55.00 :: ltd splatter 2lp - asian market exclusive
