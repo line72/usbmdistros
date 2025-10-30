@@ -14,5 +14,4 @@ title: Blinding Sun - A Parade of Horribles
 ---
 
 ## Vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/blinding-sun-a-parade-of-horribles-lp) for $25.00 :: Black 2023 press vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=43814&sort=pd.name&order=ASC) for $25.00

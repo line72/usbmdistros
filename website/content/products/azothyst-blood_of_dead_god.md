@@ -14,6 +14,4 @@ title: Azothyst - Blood of Dead God
 ---
 
 ## Vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/azothyst-blood-of-dead-god-lp-1) for $25.00 :: Black 1st press vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/azothyst-blood-of-dead-god-lp-1) for $25.00 :: White 1st press vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=60096&sort=pd.name&order=ASC) for $25.00

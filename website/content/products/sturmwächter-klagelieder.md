@@ -4,7 +4,7 @@ album: Klagelieder
 artist: "Sturmw\xE4chter"
 categories:
 - Vinyl
-date: '2025-10-25T05:47:36'
+date: '2025-10-30T05:46:43'
 draft: false
 images:
 - "/images/covers/sturmw\xE4chter-klagelieder.jpg"
@@ -14,4 +14,4 @@ title: "Sturmw\xE4chter - Klagelieder"
 ---
 
 ## Vinyl
-* Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/sturmwachter-klagelieder-vinyl-lp-color-lim-125) for $29.99 :: (color, lim.125)
+* Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/sturmwachter-klagelieder-vinyl-lp-color-lim-125) for $29.99 :: (color, lim.125) [sturmwachter]

@@ -1,10 +1,9 @@
 ---
-actualPrice: $12.00 - 35.00
+actualPrice: $35.00
 album: Eternal Turn Of The Wheel
 artist: Drudkh
 categories:
 - Vinyl
-- CD
 date: '2025-03-27T05:41:31'
 draft: false
 images:
@@ -16,5 +15,3 @@ title: Drudkh - Eternal Turn Of The Wheel
 
 ## Vinyl
 * Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/drudkh-eternal-turn-of-the-wheel-ltd-to-300-crystal-clear-purple-marbled-vinyl-lp-1) for $35.00 :: ltd to 300 - crystal clear/purple marbled vinyl lp
-## CD
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/drudkh-eternal-turn-of-the-wheel-cd) for $12.00 :: CD 2021

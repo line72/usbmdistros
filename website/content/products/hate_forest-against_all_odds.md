@@ -1,10 +1,9 @@
 ---
-actualPrice: $17.00 - 25.00
+actualPrice: $25.00
 album: Against All Odds
 artist: Hate Forest
 categories:
 - Vinyl
-- CD
 date: '2025-10-04T05:16:01'
 draft: false
 images:
@@ -16,5 +15,3 @@ title: Hate Forest - Against All Odds
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=63620&sort=pd.name&order=ASC) for $25.00
-## CD
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/hate-forest-against-all-odds-cd) for $17.00 :: Jewel Case 2025
