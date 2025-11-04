@@ -17,7 +17,9 @@ title: Hate Forest - Justice
 
 ## Vinyl
 * Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/hate-forest-justice-12-lp/) for $25.00
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/hate-forest-justice-lp) for $24.00 :: Red Cloudy 2024 press
 ## Cassette
 * Purchase from [CW Productions](https://shop.cwproductions.net/products/hate-forest-justice-tape) for $10.00
 ## CD
 * Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/hate-forest-justice-cd/) for $13.00
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/hate-forest-justice-cd) for $14.00 :: Jewel Case 2024

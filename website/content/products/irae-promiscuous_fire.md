@@ -4,8 +4,7 @@ album: Promiscuous Fire
 artist: Irae
 categories:
 - Cassette
-- CD
-date: '2025-04-08T05:03:15'
+date: '2025-04-08T05:03:01'
 draft: false
 images:
 - /images/covers/irae-promiscuous_fire.png
@@ -16,5 +15,3 @@ title: Irae - Promiscuous Fire
 
 ## Cassette
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/irae-promiscuous-fire-tape) for $13.00
-## CD
-* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/irae-promiscuous-fire-cd) for $13.00

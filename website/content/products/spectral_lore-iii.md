@@ -1,5 +1,5 @@
 ---
-actualPrice: $45.00
+actualPrice: $45.00 - 49.00
 album: III
 artist: Spectral Lore
 categories:
@@ -14,4 +14,5 @@ title: Spectral Lore - III
 ---
 
 ## Vinyl
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/spectral-lore-iii-3xlp) for $49.00 :: Blue Marbled 2025 press
 * Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/spectral-lore-iii-3lp-spiral-fountain-vinyl-triple-lp) for $45.00 :: 3lp spiral fountain vinyl triple lp

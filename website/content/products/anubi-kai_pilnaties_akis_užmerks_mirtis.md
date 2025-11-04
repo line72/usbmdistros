@@ -16,6 +16,5 @@ title: "Anubi - Kai Pilnaties Akis U\u017Emerks Mirtis"
 
 ## Vinyl
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/anubi-kai-pilnaties-akis-u%C5%BEmerks-mirtis-12-lp) for $37.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=63846&sort=pd.name&order=ASC) for $35.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=63848&sort=pd.name&order=ASC) for $15.00

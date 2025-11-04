@@ -1,11 +1,11 @@
 ---
-actualPrice: $14.99 - 27.99
+actualPrice: $14.99 - 29.00
 album: I want to be there
 artist: Sadness
 categories:
 - Vinyl
 - CD
-date: '2025-07-26T05:47:10'
+date: '2025-10-31T05:27:43'
 draft: false
 images:
 - /images/covers/sadness-i_want_to_be_there.jpg
@@ -16,5 +16,6 @@ title: Sadness - I want to be there
 
 ## Vinyl
 * Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/sadness-i-want-to-be-there-vinyl-lp) for $27.99 :: (color) [trha]
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/sadness-i-want-to-be-there-lp) for $29.00 :: Clear 2025 press vinyl
 ## CD
 * Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/sadness-i-want-to-be-there-cd) for $14.99 :: (digipak) [trhä]
