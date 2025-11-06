@@ -5,7 +5,7 @@ artist: Black Cilice
 categories:
 - Vinyl
 - CD
-date: '2025-09-03T05:21:28'
+date: '2025-11-06T06:21:55'
 draft: false
 images:
 - /images/covers/black_cilice-atavistic_possessions.png
@@ -16,6 +16,6 @@ title: Black Cilice - Atavistic Possessions
 
 ## Vinyl
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/black-cilice-atavistic-possessions-12-lp) for $27.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=63235&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=63995&sort=pd.name&order=ASC) for $25.00
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=63234&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=63994&sort=pd.name&order=ASC) for $12.00

@@ -4,7 +4,7 @@ album: "Ki\u200B\xC4\u200BPter"
 artist: "Wagner \xD6deg\xE5rd"
 categories:
 - CD
-date: '2025-08-15T05:22:10'
+date: '2025-11-06T06:23:00'
 draft: false
 images:
 - "/images/covers/wagner_\xF6deg\xE5rd-ki\u200B\xE4\u200Bpter.jpg"
@@ -14,4 +14,4 @@ title: "Wagner \xD6deg\xE5rd - Ki\u200B\xC4\u200BPter"
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=59995&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=64004&sort=pd.name&order=ASC) for $15.00

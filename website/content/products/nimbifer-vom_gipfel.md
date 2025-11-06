@@ -1,5 +1,5 @@
 ---
-actualPrice: $23.00 - 25.00
+actualPrice: $23.00
 album: Vom Gipfel
 artist: Nimbifer
 categories:
@@ -14,5 +14,4 @@ title: Nimbifer - Vom Gipfel
 ---
 
 ## Vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/nimbifer-vom-gipfel-12) for $25.00 :: Black 2025 press vinyl
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/nimbifer-vom-gipfel-12) for $23.00

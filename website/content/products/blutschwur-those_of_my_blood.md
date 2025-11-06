@@ -4,7 +4,7 @@ album: Those Of My Blood
 artist: Blutschwur
 categories:
 - Vinyl
-date: '2025-08-20T05:20:04'
+date: '2025-11-06T06:02:19'
 draft: false
 images:
 - /images/covers/blutschwur-those_of_my_blood.jpg
