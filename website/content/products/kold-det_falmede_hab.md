@@ -1,16 +1,16 @@
 ---
 actualPrice: $25.00
-album: Dat Falmede Hab
+album: Det Falmede Hab
 artist: Kold
 categories:
 - Vinyl
-date: '2025-11-02T05:02:12'
+date: '2025-11-08T06:02:22'
 draft: false
 images:
-- /images/covers/kold-dat_falmede_hab.png
+- /images/covers/kold-det_falmede_hab.png
 inStock: true
-thumbnailImage: /images/covers/kold-dat_falmede_hab-thumb.png
-title: Kold - Dat Falmede Hab
+thumbnailImage: /images/covers/kold-det_falmede_hab-thumb.png
+title: Kold - Det Falmede Hab
 ---
 
 ## Vinyl
