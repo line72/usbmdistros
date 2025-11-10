@@ -4,7 +4,7 @@ album: 14 X MC Boxset
 artist: Emperor
 categories:
 - Cassette
-date: '2025-08-15T05:22:26'
+date: '2025-11-10T06:29:28'
 draft: false
 images:
 - /images/covers/emperor-14_x_mc_boxset.png
@@ -14,4 +14,4 @@ title: Emperor - 14 X MC Boxset
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=61309&sort=pd.name&order=ASC) for $270.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=64037&sort=pd.name&order=ASC) for $270.00

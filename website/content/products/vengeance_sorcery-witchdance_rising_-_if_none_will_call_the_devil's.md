@@ -4,7 +4,7 @@ album: Witchdance Rising / If None Will Call The Devil's
 artist: Vengeance Sorcery
 categories:
 - Vinyl
-date: '2025-08-15T05:20:38'
+date: '2025-11-10T06:27:39'
 draft: false
 images:
 - /images/covers/vengeance_sorcery-witchdance_rising_-_if_none_will_call_the_devil's.jpg
@@ -14,5 +14,5 @@ title: Vengeance Sorcery - Witchdance Rising / If None Will Call The Devil's
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=61148&sort=pd.name&order=ASC) for $20.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=61149&sort=pd.name&order=ASC) for $27.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=64041&sort=pd.name&order=ASC) for $20.00
