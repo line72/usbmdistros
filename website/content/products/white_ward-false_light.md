@@ -15,7 +15,6 @@ title: White Ward - False Light
 ---
 
 ## Vinyl
-* Purchase from [Debemur Morti](https://debemurmorti.aisamerch.com/item/134903) for $34.99
 * Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/white-ward-false-light-gatefold-2x12-colored-red-lp-3) for $39.00 :: red) lp
 * Purchase from [Debemur Morti](https://debemurmorti.aisamerch.com/item/164395) for $34.99
 * Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/white-ward-false-light-gatefold-2lp-red-w-black-smoke-vinyl-dlp) for $39.00 :: gatefold 2lp red w/ black smoke vinyl dlp

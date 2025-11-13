@@ -15,7 +15,6 @@ title: Blood Abscission - I I
 ---
 
 ## Vinyl
-* Purchase from [Debemur Morti](https://debemurmorti.aisamerch.com/item/156335) for $22.99
 * Purchase from [Debemur Morti](https://debemurmorti.aisamerch.com/item/164414) for $22.99
 ## CD
 * Purchase from [Debemur Morti](https://debemurmorti.aisamerch.com/item/156337) for $10.99

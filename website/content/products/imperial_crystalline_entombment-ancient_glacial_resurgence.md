@@ -1,9 +1,8 @@
 ---
-actualPrice: $10.99 - 11.99
+actualPrice: $10.99
 album: Ancient Glacial Resurgence
 artist: Imperial Crystalline Entombment
 categories:
-- Vinyl
 - CD
 date: '2024-07-09T13:21:03'
 draft: false
@@ -14,7 +13,5 @@ thumbnailImage: /images/covers/imperial_crystalline_entombment-ancient_glacial_r
 title: Imperial Crystalline Entombment - Ancient Glacial Resurgence
 ---
 
-## Vinyl
-* Purchase from [Debemur Morti](https://debemurmorti.aisamerch.com/item/137526) for $11.99
 ## CD
 * Purchase from [Debemur Morti](https://debemurmorti.aisamerch.com/item/137525) for $10.99

@@ -15,7 +15,6 @@ title: Akhlys - House of the Black Geminus
 ---
 
 ## Vinyl
-* Purchase from [Debemur Morti](https://debemurmorti.aisamerch.com/item/145866) for $32.99
 * Purchase from [Debemur Morti](https://debemurmorti.aisamerch.com/item/206398) for $32.99
 ## CD
 * Purchase from [Debemur Morti](https://debemurmorti.aisamerch.com/item/145865) for $13.99
