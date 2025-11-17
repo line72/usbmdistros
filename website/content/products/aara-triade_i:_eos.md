@@ -15,7 +15,6 @@ title: 'Aara - Triade I: Eos'
 ---
 
 ## Vinyl
-* Purchase from [Debemur Morti](https://debemurmorti.aisamerch.com/item/107239) for $25.99
 * Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/aara-triade-i-eos-orange-black-splatter-vinyl-lp) for $27.00 :: orange/black galaxy vinyl lp
 ## CD
 * Purchase from [Debemur Morti](https://debemurmorti.aisamerch.com/item/96825) for $9.99

@@ -4,7 +4,7 @@ album: A Cave Full Of Bats
 artist: Celestia
 categories:
 - Vinyl
-date: '2025-11-07T06:02:09'
+date: '2025-11-17T06:03:07'
 draft: false
 images:
 - /images/covers/celestia-a_cave_full_of_bats.png

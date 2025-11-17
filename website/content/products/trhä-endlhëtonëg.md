@@ -1,5 +1,5 @@
 ---
-actualPrice: $14.99 - 15.00
+actualPrice: $15.00
 album: "Endlh\xEBton\xEBg"
 artist: "Trh\xE4"
 categories:
@@ -14,5 +14,4 @@ title: "Trh\xE4 - Endlh\xEBton\xEBg"
 ---
 
 ## CD
-* Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/trha-endlhetoneg-cd-digipak) for $14.99 :: (digipak) [trha]
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/trha-endlh-e-ton-e-g-cd) for $15.00 :: Digipak 2022

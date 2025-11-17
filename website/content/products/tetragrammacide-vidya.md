@@ -4,7 +4,7 @@ album: Vidya
 artist: Tetragrammacide
 categories:
 - CD
-date: '2025-10-18T05:23:14'
+date: '2025-11-15T06:23:08'
 draft: false
 images:
 - /images/covers/tetragrammacide-vidya.png
@@ -14,4 +14,4 @@ title: Tetragrammacide - Vidya
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=63791&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=64122&sort=pd.name&order=ASC) for $15.00
