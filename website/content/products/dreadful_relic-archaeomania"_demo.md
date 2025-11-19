@@ -4,7 +4,7 @@ album: Archaeomania" Demo
 artist: Dreadful Relic
 categories:
 - Cassette
-date: '2025-08-15T05:22:25'
+date: '2025-11-18T06:22:52'
 draft: false
 images:
 - /images/covers/dreadful_relic-archaeomania"_demo.jpg
@@ -14,4 +14,4 @@ title: Dreadful Relic - Archaeomania" Demo
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=54803&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=64157&sort=pd.name&order=ASC) for $12.00

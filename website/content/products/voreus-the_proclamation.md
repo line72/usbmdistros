@@ -1,10 +1,10 @@
 ---
-actualPrice: $23.00
+actualPrice: $15.00
 album: The Proclamation
 artist: Voreus
 categories:
 - Vinyl
-date: '2024-07-12T05:37:08'
+date: '2025-11-18T06:35:54'
 draft: false
 images:
 - /images/covers/voreus-the_proclamation.jpg
@@ -14,5 +14,5 @@ title: Voreus - The Proclamation
 ---
 
 ## Vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/voreus-the-proclamation) for $23.00 :: Black 1st press vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/voreus-the-proclamation) for $23.00 :: Red 1st press vinyl
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/voreus-the-proclamation) for $15.00 :: Black 1st press vinyl
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/voreus-the-proclamation) for $15.00 :: Red 1st press vinyl

@@ -1,10 +1,10 @@
 ---
-actualPrice: $20.00
+actualPrice: $15.00
 album: Larga Sombra
 artist: Khmer
 categories:
 - Vinyl
-date: '2023-05-26T05:44:57'
+date: '2025-11-18T06:35:23'
 draft: false
 images:
 - /images/covers/khmer-larga_sombra.jpg
@@ -14,4 +14,4 @@ title: Khmer - Larga Sombra
 ---
 
 ## Vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/khmer-larga-sombra-lp) for $20.00 :: Alt Cover w/ Black 2017 press
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/khmer-larga-sombra-lp) for $15.00 :: Alt Cover w/ Black 2017 press

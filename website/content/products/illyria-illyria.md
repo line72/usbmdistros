@@ -1,10 +1,10 @@
 ---
-actualPrice: $15.00
+actualPrice: $10.00
 album: Illyria
 artist: Illyria
 categories:
 - CD
-date: '2023-03-07T13:59:27'
+date: '2025-11-18T06:35:26'
 draft: false
 images:
 - /images/covers/illyria-illyria.jpg
@@ -14,4 +14,4 @@ title: Illyria - Illyria
 ---
 
 ## CD
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/illyria-illyria-cd) for $15.00 :: CD 2016
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/illyria-illyria-cd) for $10.00 :: CD 2016

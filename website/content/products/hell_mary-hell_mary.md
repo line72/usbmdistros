@@ -1,10 +1,10 @@
 ---
-actualPrice: $10.00
+actualPrice: $8.00
 album: Hell Mary
 artist: Hell Mary
 categories:
 - Vinyl
-date: '2024-07-06T05:23:36'
+date: '2025-11-18T06:35:32'
 draft: false
 images:
 - /images/covers/hell_mary-hell_mary.jpg
@@ -14,4 +14,4 @@ title: Hell Mary - Hell Mary
 ---
 
 ## Vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/hell-mary-s-t-lp) for $10.00 :: Clear w/ Screen Print 2016 press vinyl (lim/308)
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/hell-mary-s-t-lp) for $8.00 :: Clear w/ Screen Print 2016 press vinyl (lim/308)

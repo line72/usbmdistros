@@ -1,10 +1,10 @@
 ---
-actualPrice: $27.00
+actualPrice: $20.00
 album: Legend
 artist: Vanum
 categories:
 - Vinyl
-date: '2024-01-22T06:24:33'
+date: '2025-11-18T06:35:39'
 draft: false
 images:
 - /images/covers/vanum-legend.jpg
@@ -14,4 +14,4 @@ title: Vanum - Legend
 ---
 
 ## Vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/vanum-legend-lp) for $27.00 :: Black 1st press vinyl
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/vanum-legend-lp) for $20.00 :: Black 1st press vinyl

@@ -1,11 +1,11 @@
 ---
-actualPrice: $12.00 - 25.00
+actualPrice: $12.00 - 28.00
 album: Celestial Clear Moonlit
 artist: Storming
 categories:
 - Vinyl
 - CD
-date: '2025-11-15T06:23:06'
+date: '2025-11-19T06:23:16'
 draft: false
 images:
 - /images/covers/storming-celestial_clear_moonlit.png
@@ -15,6 +15,7 @@ title: Storming - Celestial Clear Moonlit
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=64124&sort=pd.name&order=ASC) for $25.00
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/storming-celestial-clear-moonlit-12-lp) for $28.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=64188&sort=pd.name&order=ASC) for $25.00
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=64132&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=64187&sort=pd.name&order=ASC) for $12.00

@@ -1,10 +1,10 @@
 ---
-actualPrice: $35.00
+actualPrice: $26.00
 album: Drakon Darshan Satan
 artist: Nox Formulae
 categories:
 - Vinyl
-date: '2025-02-04T06:40:19'
+date: '2025-11-18T06:35:49'
 draft: false
 images:
 - /images/covers/nox_formulae-drakon_darshan_satan.jpg
@@ -14,4 +14,4 @@ title: Nox Formulae - Drakon Darshan Satan
 ---
 
 ## Vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/nox-formulae-drakon-darshan-satan) for $35.00 :: Red/Black Marble 1st press vinyl
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/nox-formulae-drakon-darshan-satan) for $26.00 :: Red/Black Marble 1st press vinyl

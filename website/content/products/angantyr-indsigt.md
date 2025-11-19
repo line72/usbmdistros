@@ -1,10 +1,10 @@
 ---
-actualPrice: $24.99
+actualPrice: $32.99
 album: Indsigt
 artist: Angantyr
 categories:
 - Vinyl
-date: '2025-09-21T05:43:52'
+date: '2025-11-18T06:42:38'
 draft: false
 images:
 - /images/covers/angantyr-indsigt.jpg
@@ -14,4 +14,4 @@ title: Angantyr - Indsigt
 ---
 
 ## Vinyl
-* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/angantyr-indsigt-grey-black-galaxy-vinyl-lp) for $24.99 :: grey/black galaxy vinyl lp
+* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/angantyr-indsigt-grey-black-galaxy-vinyl-lp) for $32.99 :: grey/black galaxy vinyl lp

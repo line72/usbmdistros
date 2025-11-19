@@ -1,11 +1,11 @@
 ---
-actualPrice: $30.00
+actualPrice: $23.00
 album: "\u0398\u03AC\u03BD\u03B1\u03C4\u03BF\u03C2 \u0391\u03B9\u03CE\u03BD\u03B9\u03BF\
   \u03C2 / The Termination Thesis"
 artist: Burial Hordes
 categories:
 - Vinyl
-date: '2025-02-04T06:40:23'
+date: '2025-11-18T06:35:52'
 draft: false
 images:
 - "/images/covers/burial_hordes-\u03B8\u03AC\u03BD\u03B1\u03C4\u03BF\u03C2_\u03B1\u03B9\
@@ -18,4 +18,4 @@ title: "Burial Hordes - \u0398\u03AC\u03BD\u03B1\u03C4\u03BF\u03C2 \u0391\u03B9\
 ---
 
 ## Vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/burial-hordes-the-termination-thesis) for $30.00 :: Black 1st press vinyl
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/burial-hordes-the-termination-thesis) for $23.00 :: Black 1st press vinyl

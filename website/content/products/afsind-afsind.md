@@ -1,11 +1,11 @@
 ---
-actualPrice: $10.00 - 23.00
+actualPrice: $10.00 - 15.00
 album: Afsind
 artist: Afsind
 categories:
 - Vinyl
 - CD
-date: '2025-02-07T06:38:53'
+date: '2025-11-18T06:35:39'
 draft: false
 images:
 - /images/covers/afsind-afsind.jpg
@@ -15,6 +15,6 @@ title: Afsind - Afsind
 ---
 
 ## Vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/afsind-afsind-lp) for $23.00 :: White 1st press vinyl
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/afsind-afsind-lp) for $15.00 :: White 1st press vinyl
 ## CD
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/afsind-afsind-cd) for $10.00 :: CD 2022

@@ -1,10 +1,10 @@
 ---
-actualPrice: $22.00
+actualPrice: $15.00
 album: Landlose Ufer
 artist: Wandar
 categories:
 - Vinyl
-date: '2024-07-06T05:23:45'
+date: '2025-11-18T06:35:36'
 draft: false
 images:
 - /images/covers/wandar-landlose_ufer.png
@@ -14,4 +14,4 @@ title: Wandar - Landlose Ufer
 ---
 
 ## Vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/wandar-landlose-ufer-lp) for $22.00 :: Black 2022 press vinyl
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/wandar-landlose-ufer-lp) for $15.00 :: Black 2022 press vinyl

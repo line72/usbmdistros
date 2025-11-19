@@ -1,10 +1,10 @@
 ---
-actualPrice: $25.00
+actualPrice: $18.00
 album: Reverence
 artist: Det Eviga Leendet
 categories:
 - Vinyl
-date: '2023-03-26T05:30:03'
+date: '2025-11-18T06:35:41'
 draft: false
 images:
 - /images/covers/det_eviga_leendet-reverence.jpg
@@ -14,4 +14,4 @@ title: Det Eviga Leendet - Reverence
 ---
 
 ## Vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/det-eviga-leendet-reverence-lp) for $25.00 :: Vermillion 1st press vinyl
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/det-eviga-leendet-reverence-lp) for $18.00 :: Vermillion 1st press vinyl

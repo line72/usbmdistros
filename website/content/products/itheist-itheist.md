@@ -1,10 +1,10 @@
 ---
-actualPrice: $10.00
+actualPrice: $5.00
 album: Itheist
 artist: Itheist
 categories:
 - CD
-date: '2024-07-09T13:55:29'
+date: '2025-11-18T06:35:03'
 draft: false
 images:
 - /images/covers/itheist-itheist.png
@@ -14,4 +14,4 @@ title: Itheist - Itheist
 ---
 
 ## CD
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/blemish-itheist-itheist-cd) for $10.00 :: Jewel Case 2019 (SEALED)
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/blemish-itheist-itheist-cd) for $5.00 :: Jewel Case 2019 (SEALED)

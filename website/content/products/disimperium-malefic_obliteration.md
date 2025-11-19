@@ -1,10 +1,10 @@
 ---
-actualPrice: $17.00
+actualPrice: $13.00
 album: Malefic Obliteration
 artist: Disimperium
 categories:
 - Vinyl
-date: '2025-02-04T06:40:17'
+date: '2025-11-18T06:35:48'
 draft: false
 images:
 - /images/covers/disimperium-malefic_obliteration.jpg
@@ -14,4 +14,4 @@ title: Disimperium - Malefic Obliteration
 ---
 
 ## Vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/disimperium-malefic-obliteration-7) for $17.00 :: Black 2021 press vinyl
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/disimperium-malefic-obliteration-7) for $13.00 :: Black 2021 press vinyl

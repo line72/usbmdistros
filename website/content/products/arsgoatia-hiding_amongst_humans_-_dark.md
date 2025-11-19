@@ -1,10 +1,10 @@
 ---
-actualPrice: $24.99
+actualPrice: $34.99
 album: Hiding Amongst Humans - Dark
 artist: ArsGoatia
 categories:
 - Vinyl
-date: '2025-09-21T05:43:46'
+date: '2025-11-18T06:42:32'
 draft: false
 images:
 - /images/covers/arsgoatia-hiding_amongst_humans_-_dark.jpg
@@ -14,4 +14,4 @@ title: ArsGoatia - Hiding Amongst Humans - Dark
 ---
 
 ## Vinyl
-* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/arsgoatia-hiding-amongst-humans-dark-red-smoke-lp) for $24.99 :: red smoke vinyl lp
+* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/arsgoatia-hiding-amongst-humans-dark-red-smoke-lp) for $34.99 :: red smoke vinyl lp

@@ -1,10 +1,10 @@
 ---
-actualPrice: $23.00
+actualPrice: $15.00
 album: Lowered
 artist: Lowered
 categories:
 - Vinyl
-date: '2024-07-06T05:23:50'
+date: '2025-11-18T06:35:39'
 draft: false
 images:
 - /images/covers/lowered-lowered.jpg
@@ -14,4 +14,4 @@ title: Lowered - Lowered
 ---
 
 ## Vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/lowered-s-t-lp) for $23.00 :: Black 2018 press vinyl
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/lowered-s-t-lp) for $15.00 :: Black 2018 press vinyl

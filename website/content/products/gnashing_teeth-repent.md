@@ -1,10 +1,10 @@
 ---
-actualPrice: $25.00
+actualPrice: $20.00
 album: repent
 artist: gnashing teeth
 categories:
 - Vinyl
-date: '2024-07-06T05:22:38'
+date: '2025-11-18T06:35:00'
 draft: false
 images:
 - /images/covers/gnashing_teeth-repent.jpg
@@ -14,4 +14,4 @@ title: gnashing teeth - repent
 ---
 
 ## Vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/gnashing-teeth-repent-lp) for $25.00 :: Hand-poured 2024 press
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/gnashing-teeth-repent-lp) for $20.00 :: Hand-poured 2024 press

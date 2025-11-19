@@ -1,11 +1,11 @@
 ---
-actualPrice: $11.00 - 24.00
+actualPrice: $11.00 - 15.00
 album: Endinghent
 artist: Altarage
 categories:
 - Vinyl
 - CD
-date: '2025-01-28T06:38:14'
+date: '2025-11-18T06:34:38'
 draft: false
 images:
 - /images/covers/altarage-endinghent.jpg
@@ -15,6 +15,6 @@ title: Altarage - Endinghent
 ---
 
 ## Vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/altarage-endinghent-lp) for $24.00 :: Black 2017 press vinyl
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/altarage-endinghent-lp) for $15.00 :: Black 2017 press vinyl
 ## CD
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/altarage-endinghent-cd) for $11.00 :: Digipak 2017

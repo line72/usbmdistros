@@ -1,10 +1,10 @@
 ---
-actualPrice: $14.00
+actualPrice: $11.00
 album: Demo MMXX
 artist: Abhorrency
 categories:
 - Cassette
-date: '2024-07-14T05:49:12'
+date: '2025-11-18T06:35:53'
 draft: false
 images:
 - /images/covers/abhorrency-demo_mmxx.png
@@ -14,4 +14,4 @@ title: Abhorrency - Demo MMXX
 ---
 
 ## Cassette
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/abhorrency-demo-mmxx) for $14.00 :: Black 2020 press vinyl
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/abhorrency-demo-mmxx) for $11.00 :: Black 2020 press vinyl

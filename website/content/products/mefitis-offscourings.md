@@ -1,10 +1,10 @@
 ---
-actualPrice: $25.00
+actualPrice: $17.00
 album: Offscourings
 artist: Mefitis
 categories:
 - Vinyl
-date: '2023-12-25T06:24:15'
+date: '2025-11-18T06:35:45'
 draft: false
 images:
 - /images/covers/mefitis-offscourings.png
@@ -14,4 +14,4 @@ title: Mefitis - Offscourings
 ---
 
 ## Vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/mefitis-offscourings-lp-1) for $25.00 :: Black 2021 press vinyl
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/mefitis-offscourings-lp-1) for $17.00 :: Black 2021 press vinyl

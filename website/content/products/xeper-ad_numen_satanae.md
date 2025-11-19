@@ -1,10 +1,10 @@
 ---
-actualPrice: $35.00
+actualPrice: $25.00
 album: Ad Numen Satanae
 artist: Xeper
 categories:
 - Vinyl
-date: '2025-02-04T06:40:16'
+date: '2025-11-18T06:35:47'
 draft: false
 images:
 - /images/covers/xeper-ad_numen_satanae.jpg
@@ -14,5 +14,5 @@ title: Xeper - Ad Numen Satanae
 ---
 
 ## Vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/xeper-ad-numen-satanae-lp) for $35.00 :: Black 1st press vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/xeper-ad-numen-satanae-lp) for $35.00 :: Clear 1st press vinyl
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/xeper-ad-numen-satanae-lp) for $25.00 :: Black 1st press vinyl
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/xeper-ad-numen-satanae-lp) for $25.00 :: Clear 1st press vinyl

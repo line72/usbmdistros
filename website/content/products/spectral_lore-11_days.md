@@ -1,10 +1,10 @@
 ---
-actualPrice: $30.00
+actualPrice: $25.00
 album: 11 Days
 artist: Spectral Lore
 categories:
 - Vinyl
-date: '2023-12-28T06:21:13'
+date: '2025-11-18T06:35:10'
 draft: false
 images:
 - /images/covers/spectral_lore-11_days.jpg
@@ -14,4 +14,4 @@ title: Spectral Lore - 11 Days
 ---
 
 ## Vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/spectral-lore-11-days-lp) for $30.00 :: Black 2023 press vinyl
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/spectral-lore-11-days-lp) for $25.00 :: Black 2023 press vinyl

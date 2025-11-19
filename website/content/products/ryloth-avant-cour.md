@@ -1,10 +1,10 @@
 ---
-actualPrice: $20.00
+actualPrice: $10.00
 album: Avant-Cour
 artist: Ryloth
 categories:
 - Vinyl
-date: '2024-07-09T13:56:04'
+date: '2025-11-18T06:35:27'
 draft: false
 images:
 - /images/covers/ryloth-avant-cour.png
@@ -14,4 +14,4 @@ title: Ryloth - Avant-Cour
 ---
 
 ## Vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/ryloth-avant-cour-lp) for $20.00 :: Translucent Smokey Black 2020 press vinyl
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/ryloth-avant-cour-lp) for $10.00 :: Translucent Smokey Black 2020 press vinyl

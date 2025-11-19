@@ -1,10 +1,10 @@
 ---
-actualPrice: $10.00
+actualPrice: $8.00
 album: Breathing
 artist: Niboowin
 categories:
 - Vinyl
-date: '2023-07-19T08:41:29'
+date: '2025-11-18T06:35:17'
 draft: false
 images:
 - /images/covers/niboowin-breathing.jpg
@@ -14,4 +14,4 @@ title: Niboowin - Breathing
 ---
 
 ## Vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/niboowin-breathing-lp) for $10.00 :: Black 2018 press vinyl
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/niboowin-breathing-lp) for $8.00 :: Black 2018 press vinyl

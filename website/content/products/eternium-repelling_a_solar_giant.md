@@ -1,10 +1,10 @@
 ---
-actualPrice: $8.00
+actualPrice: $5.00
 album: Repelling A Solar Giant
 artist: Eternium
 categories:
 - CD
-date: '2023-01-09T06:26:13'
+date: '2025-11-18T06:35:30'
 draft: false
 images:
 - /images/covers/eternium-repelling_a_solar_giant.jpg
@@ -14,4 +14,4 @@ title: Eternium - Repelling A Solar Giant
 ---
 
 ## CD
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/eternium-repelling-a-solar-giant-cd) for $8.00 :: CD 2013
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/eternium-repelling-a-solar-giant-cd) for $5.00 :: CD 2013

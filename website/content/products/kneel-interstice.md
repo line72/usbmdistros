@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00
+actualPrice: $8.00
 album: Interstice
 artist: Kneel
 categories:
 - CD
-date: '2023-11-19T09:09:29'
+date: '2025-11-18T06:35:17'
 draft: false
 images:
 - /images/covers/kneel-interstice.jpg
@@ -14,4 +14,4 @@ title: Kneel - Interstice
 ---
 
 ## CD
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/kneel-interstice-cd) for $12.00 :: Digipak 2019 (SEALED)
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/kneel-interstice-cd) for $8.00 :: Digipak 2019 (SEALED)

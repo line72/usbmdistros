@@ -1,5 +1,5 @@
 ---
-actualPrice: $9.99 - 15.00
+actualPrice: $15.00
 album: Worship The Eternal Darkness
 artist: Archgoat
 categories:
@@ -14,5 +14,4 @@ title: Archgoat - Worship The Eternal Darkness
 ---
 
 ## CD
-* Purchase from [Debemur Morti](https://debemurmorti.aisamerch.com/item/102483) for $9.99
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=63614&sort=pd.name&order=ASC) for $15.00
