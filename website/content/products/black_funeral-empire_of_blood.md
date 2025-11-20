@@ -4,7 +4,7 @@ album: Empire Of Blood
 artist: Black Funeral
 categories:
 - Vinyl
-date: '2025-11-18T06:20:10'
+date: '2025-11-20T06:02:16'
 draft: false
 images:
 - /images/covers/black_funeral-empire_of_blood.png

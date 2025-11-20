@@ -1,10 +1,9 @@
 ---
-actualPrice: $15.00 - 35.00
+actualPrice: $35.00
 album: The Voice of Steel
 artist: Nokturnal Mortum
 categories:
 - Vinyl
-- CD
 date: '2025-11-06T06:02:15'
 draft: false
 images:
@@ -16,5 +15,3 @@ title: Nokturnal Mortum - The Voice of Steel
 
 ## Vinyl
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/nokturnal-mortum-the-voice-of-steel-2xlp) for $35.00
-## CD
-* Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/nokturnal-mortum-the-voice-of-steel-cd/) for $15.00
