@@ -18,3 +18,4 @@ title: Insane Apollyon - Insane Apollyon
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=63081&sort=pd.name&order=ASC) for $30.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=4355&sort=pd.name&order=ASC) for $10.00
+* Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/insane-apollyon-insane-apollyon-cd/) for $10.00

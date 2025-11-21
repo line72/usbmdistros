@@ -1,10 +1,11 @@
 ---
-actualPrice: $25.00
+actualPrice: $5.00 - 25.00
 album: Atlantean Ouroboros
 artist: Mortum
 categories:
 - Vinyl
-date: '2025-09-14T05:21:09'
+- Cassette
+date: '2025-11-21T06:34:49'
 draft: false
 images:
 - /images/covers/mortum-atlantean_ouroboros.jpg
@@ -15,3 +16,5 @@ title: Mortum - Atlantean Ouroboros
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=63437&sort=pd.name&order=ASC) for $25.00
+## Cassette
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/used-mortum-atlantean-ouroboros-cassette) for $5.00 :: Cassette 2020

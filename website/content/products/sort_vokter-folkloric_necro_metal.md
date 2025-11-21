@@ -4,7 +4,7 @@ album: Folkloric Necro Metal
 artist: Sort Vokter
 categories:
 - CD
-date: '2025-08-15T05:22:01'
+date: '2025-11-21T06:22:59'
 draft: false
 images:
 - /images/covers/sort_vokter-folkloric_necro_metal.jpg
@@ -14,4 +14,4 @@ title: Sort Vokter - Folkloric Necro Metal
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=58383&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=64206&sort=pd.name&order=ASC) for $15.00

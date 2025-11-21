@@ -14,4 +14,5 @@ title: Abyssic Hate - A Decade of Hate
 ---
 
 ## CD
+* Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/abyssic-hate-a-decade-of-hate-cd/) for $15.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=61410&sort=pd.name&order=ASC) for $15.00

@@ -14,5 +14,4 @@ title: Proclamation - Imperious Jaws of Ire
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=61740&sort=pd.name&order=ASC) for $27.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=63600&sort=pd.name&order=ASC) for $27.00
