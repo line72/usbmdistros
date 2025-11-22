@@ -5,7 +5,6 @@ artist: Faidra
 categories:
 - Vinyl
 - Cassette
-- CD
 date: '2025-08-09T05:45:41'
 draft: false
 images:
@@ -21,5 +20,3 @@ title: 'Faidra - Militant : Penitent : Triumphant'
 * Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/faidra-militant-penitent-triumphant-ltd-300-orange-white-galaxy-vinyl-lp-1) for $34.00 :: ltd 300 orange/white galaxy vinyl lp
 ## Cassette
 * Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/faidra-militant-penitent-triumphant-cassette-tape-lim144) for $14.99 :: uv print, lim.144)
-## CD
-* Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/faidra-militant-penitent-triumphant-cd-digipak-lim999) for $14.99 :: (digipak, lim.999)

@@ -1,10 +1,10 @@
 ---
-actualPrice: $140.00 - 150.00
+actualPrice: $100.00
 album: Trilogy
 artist: Altar Of Plagues
 categories:
 - Vinyl
-date: '2024-07-09T13:55:45'
+date: '2025-11-22T06:36:01'
 draft: false
 images:
 - /images/covers/altar_of_plagues-trilogy.png
@@ -14,5 +14,4 @@ title: Altar Of Plagues - Trilogy
 ---
 
 ## Vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/altar-of-plagues-trilogy-vinyl-box-set) for $140.00 :: Black 2023 press vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/altar-of-plagues-trilogy-vinyl-box-set) for $150.00 :: Clear 2023 press vinyl
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/altar-of-plagues-trilogy-vinyl-box-set) for $100.00 :: Black 2023 press vinyl
