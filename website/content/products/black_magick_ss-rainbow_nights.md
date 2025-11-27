@@ -1,10 +1,10 @@
 ---
-actualPrice: $30.00
+actualPrice: $20.00
 album: Rainbow Nights
 artist: Black Magick SS
 categories:
 - Vinyl
-date: '2025-11-13T06:20:13'
+date: '2025-11-27T06:16:11'
 draft: false
 images:
 - /images/covers/black_magick_ss-rainbow_nights.png
@@ -14,4 +14,4 @@ title: Black Magick SS - Rainbow Nights
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=64094&sort=pd.name&order=ASC) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=64249&sort=pd.name&order=ASC) for $20.00

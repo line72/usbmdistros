@@ -1,10 +1,10 @@
 ---
-actualPrice: $25.00
+actualPrice: $20.00
 album: Silencioso Culto do Abismo
 artist: Via Sinistra
 categories:
 - Vinyl
-date: '2025-08-15T05:20:39'
+date: '2025-11-27T06:17:15'
 draft: false
 images:
 - /images/covers/via_sinistra-silencioso_culto_do_abismo.jpg
@@ -14,4 +14,4 @@ title: Via Sinistra - Silencioso Culto do Abismo
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=26627&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=64282&sort=pd.name&order=ASC) for $20.00

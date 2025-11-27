@@ -1,10 +1,10 @@
 ---
-actualPrice: $26.00 - 27.00
+actualPrice: $21.60 - 26.00
 album: Carpathian Tyranny Returns
 artist: Vrkolak
 categories:
 - Vinyl
-date: '2025-09-04T05:02:14'
+date: '2025-11-27T06:17:16'
 draft: false
 images:
 - /images/covers/vrkolak-carpathian_tyranny_returns.jpg
@@ -14,5 +14,5 @@ title: Vrkolak - Carpathian Tyranny Returns
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=56741&sort=pd.name&order=ASC) for $27.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=56741&sort=pd.name&order=ASC) for $21.60
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/vrkolak-carpathian-tyranny-returns-12-lp) for $26.00

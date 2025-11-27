@@ -1,10 +1,10 @@
 ---
-actualPrice: $20.00
+actualPrice: $16.00
 album: "Ei Valoa T\xE4h\xE4n Kammioon"
 artist: Musta Kappeli
 categories:
 - Vinyl
-date: '2025-08-15T05:20:11'
+date: '2025-11-27T06:16:48'
 draft: false
 images:
 - "/images/covers/musta_kappeli-ei_valoa_t\xE4h\xE4n_kammioon.jpg"
@@ -14,4 +14,4 @@ title: "Musta Kappeli - Ei Valoa T\xE4h\xE4n Kammioon"
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=21898&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=21898&sort=pd.name&order=ASC) for $16.00

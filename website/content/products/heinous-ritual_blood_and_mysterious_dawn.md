@@ -1,10 +1,10 @@
 ---
-actualPrice: $25.00
+actualPrice: $16.25
 album: Ritual Blood and Mysterious Dawn
 artist: Heinous
 categories:
 - Vinyl
-date: '2025-08-15T05:19:53'
+date: '2025-11-27T06:16:30'
 draft: false
 images:
 - /images/covers/heinous-ritual_blood_and_mysterious_dawn.jpg
@@ -14,4 +14,4 @@ title: Heinous - Ritual Blood and Mysterious Dawn
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=60696&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=60696&sort=pd.name&order=ASC) for $16.25

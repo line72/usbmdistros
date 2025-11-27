@@ -1,10 +1,10 @@
 ---
-actualPrice: $10.00
+actualPrice: $8.00
 album: Demo (1993 Canadian Industrial Metal)
 artist: Encased
 categories:
 - Cassette
-date: '2025-08-15T05:22:26'
+date: '2025-11-27T06:18:50'
 draft: false
 images:
 - /images/covers/encased-demo_(1993_canadian_industrial_metal).jpg
@@ -14,4 +14,4 @@ title: Encased - Demo (1993 Canadian Industrial Metal)
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=53337&sort=pd.name&order=ASC) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=53337&sort=pd.name&order=ASC) for $8.00

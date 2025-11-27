@@ -1,10 +1,10 @@
 ---
-actualPrice: $25.00
+actualPrice: $20.00
 album: Ugra-Karma
 artist: Impaled Nazarene
 categories:
 - Vinyl
-date: '2025-08-28T05:20:30'
+date: '2025-11-27T06:16:36'
 draft: false
 images:
 - /images/covers/impaled_nazarene-ugra-karma.jpg
@@ -14,4 +14,4 @@ title: Impaled Nazarene - Ugra-Karma
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=63208&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=63208&sort=pd.name&order=ASC) for $20.00

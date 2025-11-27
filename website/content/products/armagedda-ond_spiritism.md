@@ -1,10 +1,10 @@
 ---
-actualPrice: $25.00 - 29.99
+actualPrice: $20.00 - 29.99
 album: Ond Spiritism
 artist: Armagedda
 categories:
 - Vinyl
-date: '2025-09-07T05:19:58'
+date: '2025-11-27T06:16:07'
 draft: false
 images:
 - /images/covers/armagedda-ond_spiritism.jpg
@@ -15,4 +15,4 @@ title: Armagedda - Ond Spiritism
 
 ## Vinyl
 * Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/armagedda-ond-spiritism-vinyl-lp) for $29.99 :: vinyl lp
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=63353&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=63353&sort=pd.name&order=ASC) for $20.00

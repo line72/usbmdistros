@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00
+actualPrice: $9.60
 album: Abhayamudra
 artist: Obhyantar
 categories:
 - Vinyl
-date: '2025-08-15T05:20:18'
+date: '2025-11-27T06:16:52'
 draft: false
 images:
 - /images/covers/obhyantar-abhayamudra.jpg
@@ -14,4 +14,4 @@ title: Obhyantar - Abhayamudra
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=31727&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=31727&sort=pd.name&order=ASC) for $9.60

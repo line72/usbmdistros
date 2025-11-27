@@ -1,10 +1,10 @@
 ---
-actualPrice: $30.00
+actualPrice: $24.00
 album: En Busca del Valle de Gehenna
 artist: Gehenna
 categories:
 - Vinyl
-date: '2025-08-15T05:19:50'
+date: '2025-11-27T06:16:26'
 draft: false
 images:
 - /images/covers/gehenna-en_busca_del_valle_de_gehenna.jpg
@@ -14,4 +14,4 @@ title: Gehenna - En Busca del Valle de Gehenna
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=57671&sort=pd.name&order=ASC) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=57671&sort=pd.name&order=ASC) for $24.00

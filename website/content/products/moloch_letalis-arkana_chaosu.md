@@ -1,10 +1,10 @@
 ---
-actualPrice: $7.00
+actualPrice: $5.60
 album: Arkana Chaosu
 artist: Moloch Letalis
 categories:
 - CD
-date: '2025-08-15T05:21:42'
+date: '2025-11-27T06:18:13'
 draft: false
 images:
 - /images/covers/moloch_letalis-arkana_chaosu.jpg
@@ -14,4 +14,4 @@ title: Moloch Letalis - Arkana Chaosu
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=1452&sort=pd.name&order=ASC) for $7.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=1452&sort=pd.name&order=ASC) for $5.60

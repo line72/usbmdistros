@@ -1,10 +1,10 @@
 ---
-actualPrice: $28.00
+actualPrice: $22.40
 album: Vous Pourrirez Tous...
 artist: Gulguhk
 categories:
 - Vinyl
-date: '2025-08-15T05:19:52'
+date: '2025-11-27T06:16:29'
 draft: false
 images:
 - /images/covers/gulguhk-vous_pourrirez_tous....jpg
@@ -14,4 +14,4 @@ title: Gulguhk - Vous Pourrirez Tous...
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=62689&sort=pd.name&order=ASC) for $28.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=62689&sort=pd.name&order=ASC) for $22.40

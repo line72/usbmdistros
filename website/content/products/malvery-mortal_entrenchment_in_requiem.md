@@ -1,10 +1,10 @@
 ---
-actualPrice: $30.00
+actualPrice: $24.00 - 30.00
 album: Mortal Entrenchment In Requiem
 artist: Malvery
 categories:
 - Vinyl
-date: '2025-08-15T05:20:05'
+date: '2025-11-27T06:16:44'
 draft: false
 images:
 - /images/covers/malvery-mortal_entrenchment_in_requiem.jpg
@@ -15,4 +15,4 @@ title: Malvery - Mortal Entrenchment In Requiem
 
 ## Vinyl
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/malvery-mortal-entrenchment-in-requiem-12-lp) for $30.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=59843&sort=pd.name&order=ASC) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=59843&sort=pd.name&order=ASC) for $24.00

@@ -1,10 +1,10 @@
 ---
-actualPrice: $30.00
+actualPrice: $25.00
 album: Nihl
 artist: Altarage
 categories:
 - Vinyl
-date: '2024-02-23T06:23:09'
+date: '2025-11-27T06:28:36'
 draft: false
 images:
 - /images/covers/altarage-nihl.jpg
@@ -14,4 +14,4 @@ title: Altarage - Nihl
 ---
 
 ## Vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/altarage-nihl-lp) for $30.00 :: Black 2024 press vinyl
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/altarage-nihl-lp) for $25.00 :: Black 2024 press vinyl

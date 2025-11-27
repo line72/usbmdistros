@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00
+actualPrice: $9.60
 album: Providence Descends
 artist: Aeon Furnace
 categories:
 - Cassette
-date: '2025-08-15T05:22:13'
+date: '2025-11-27T06:18:42'
 draft: false
 images:
 - /images/covers/aeon_furnace-providence_descends.jpg
@@ -14,4 +14,4 @@ title: Aeon Furnace - Providence Descends
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=31007&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=31007&sort=pd.name&order=ASC) for $9.60

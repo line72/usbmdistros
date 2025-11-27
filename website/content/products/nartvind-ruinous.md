@@ -1,10 +1,10 @@
 ---
-actualPrice: $25.00
+actualPrice: $20.00
 album: Ruinous
 artist: Nartvind
 categories:
 - Vinyl
-date: '2025-08-15T05:20:12'
+date: '2025-11-27T06:16:49'
 draft: false
 images:
 - /images/covers/nartvind-ruinous.jpg
@@ -14,4 +14,4 @@ title: Nartvind - Ruinous
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=43330&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=43330&sort=pd.name&order=ASC) for $20.00

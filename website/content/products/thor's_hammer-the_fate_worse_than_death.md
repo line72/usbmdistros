@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00
+actualPrice: $9.60
 album: The Fate Worse Than Death
 artist: Thor's Hammer
 categories:
 - CD
-date: '2025-08-15T05:22:05'
+date: '2025-11-27T06:18:32'
 draft: false
 images:
 - /images/covers/thor's_hammer-the_fate_worse_than_death.png
@@ -14,4 +14,4 @@ title: Thor's Hammer - The Fate Worse Than Death
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=62315&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=62315&sort=pd.name&order=ASC) for $9.60

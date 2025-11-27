@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00
+actualPrice: $7.80
 album: Baleful Scarlet Star
 artist: Ignis Gehenna
 categories:
 - CD
-date: '2025-08-15T05:21:32'
+date: '2025-11-27T06:18:04'
 draft: false
 images:
 - /images/covers/ignis_gehenna-baleful_scarlet_star.jpg
@@ -14,4 +14,4 @@ title: Ignis Gehenna - Baleful Scarlet Star
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=51386&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=51386&sort=pd.name&order=ASC) for $7.80

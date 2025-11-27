@@ -1,10 +1,10 @@
 ---
-actualPrice: $10.00
+actualPrice: $8.00
 album: Alpha Ursae Minoris
 artist: "Sombre H\xE9ritage"
 categories:
 - CD
-date: '2025-08-15T05:22:01'
+date: '2025-11-27T06:18:28'
 draft: false
 images:
 - "/images/covers/sombre_h\xE9ritage-alpha_ursae_minoris.png"
@@ -14,4 +14,4 @@ title: "Sombre H\xE9ritage - Alpha Ursae Minoris"
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=9703&sort=pd.name&order=ASC) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=9703&sort=pd.name&order=ASC) for $8.00

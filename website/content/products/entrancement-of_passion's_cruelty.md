@@ -1,10 +1,10 @@
 ---
-actualPrice: $15.00
+actualPrice: $12.00
 album: Of Passion's Cruelty
 artist: Entrancement
 categories:
 - CD
-date: '2025-08-15T05:21:22'
+date: '2025-11-27T06:17:51'
 draft: false
 images:
 - /images/covers/entrancement-of_passion's_cruelty.png
@@ -14,4 +14,4 @@ title: Entrancement - Of Passion's Cruelty
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=35383&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=35383&sort=pd.name&order=ASC) for $12.00

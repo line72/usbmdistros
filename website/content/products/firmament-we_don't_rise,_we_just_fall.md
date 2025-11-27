@@ -1,11 +1,11 @@
 ---
-actualPrice: $12.00 - 25.00
+actualPrice: $9.60 - 20.00
 album: We Don't Rise, We Just Fall
 artist: Firmament
 categories:
 - Vinyl
 - Cassette
-date: '2025-08-15T05:22:27'
+date: '2025-11-27T06:18:52'
 draft: false
 images:
 - /images/covers/firmament-we_don't_rise,_we_just_fall.png
@@ -15,6 +15,6 @@ title: Firmament - We Don't Rise, We Just Fall
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=59056&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=59056&sort=pd.name&order=ASC) for $20.00
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=40152&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=40152&sort=pd.name&order=ASC) for $9.60

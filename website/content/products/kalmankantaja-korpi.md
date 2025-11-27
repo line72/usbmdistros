@@ -1,11 +1,11 @@
 ---
-actualPrice: $12.00 - 22.00
+actualPrice: $9.60 - 22.00
 album: Korpi
 artist: Kalmankantaja
 categories:
 - Vinyl
 - CD
-date: '2025-08-15T05:21:35'
+date: '2025-11-27T06:18:07'
 draft: false
 images:
 - /images/covers/kalmankantaja-korpi.jpg
@@ -17,4 +17,4 @@ title: Kalmankantaja - Korpi
 ## Vinyl
 * Purchase from [Sto'Vo'Kor Records](https://stovokor-records.com/products/kalmankantaja-korpi) for $22.00
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=50888&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=50888&sort=pd.name&order=ASC) for $9.60

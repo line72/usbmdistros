@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00
+actualPrice: $9.60
 album: Eradication of Nescience
 artist: LVTHN
 categories:
 - Vinyl
-date: '2025-08-15T05:20:04'
+date: '2025-11-27T06:16:42'
 draft: false
 images:
 - /images/covers/lvthn-eradication_of_nescience.jpg
@@ -14,4 +14,4 @@ title: LVTHN - Eradication of Nescience
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=39483&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=39483&sort=pd.name&order=ASC) for $9.60

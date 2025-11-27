@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00
+actualPrice: $9.60
 album: Forbidden Rites of the Black Arts
 artist: Malicious Storm
 categories:
 - Cassette
-date: '2025-08-15T05:22:34'
+date: '2025-11-27T06:18:58'
 draft: false
 images:
 - /images/covers/malicious_storm-forbidden_rites_of_the_black_arts.jpg
@@ -14,4 +14,4 @@ title: Malicious Storm - Forbidden Rites of the Black Arts
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=62911&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=62911&sort=pd.name&order=ASC) for $9.60

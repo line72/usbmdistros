@@ -1,10 +1,10 @@
 ---
-actualPrice: $13.00
+actualPrice: $10.40
 album: Your Death is our Triumph
 artist: Bewail
 categories:
 - Cassette
-date: '2025-08-15T05:22:17'
+date: '2025-11-27T06:18:44'
 draft: false
 images:
 - /images/covers/bewail-your_death_is_our_triumph.jpg
@@ -14,4 +14,4 @@ title: Bewail - Your Death is our Triumph
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=30691&sort=pd.name&order=ASC) for $13.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=30691&sort=pd.name&order=ASC) for $10.40

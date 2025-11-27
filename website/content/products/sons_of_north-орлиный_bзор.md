@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00
+actualPrice: $9.60
 album: "\u041E\u0440\u043B\u0438\u043D\u044B\u0439 B\u0437\u043E\u0440"
 artist: Sons Of North
 categories:
 - CD
-date: '2025-08-15T05:22:01'
+date: '2025-11-27T06:18:28'
 draft: false
 images:
 - "/images/covers/sons_of_north-\u043E\u0440\u043B\u0438\u043D\u044B\u0439_b\u0437\
@@ -16,4 +16,4 @@ title: "Sons Of North - \u041E\u0440\u043B\u0438\u043D\u044B\u0439 B\u0437\u043E
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=60626&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=60626&sort=pd.name&order=ASC) for $9.60

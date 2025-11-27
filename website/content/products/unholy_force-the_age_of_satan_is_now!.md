@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00
+actualPrice: $9.60
 album: The Age of Satan is Now!
 artist: Unholy Force
 categories:
 - Cassette
-date: '2025-08-15T05:22:48'
+date: '2025-11-27T06:19:14'
 draft: false
 images:
 - /images/covers/unholy_force-the_age_of_satan_is_now!.jpg
@@ -14,4 +14,4 @@ title: Unholy Force - The Age of Satan is Now!
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=50756&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=50756&sort=pd.name&order=ASC) for $9.60

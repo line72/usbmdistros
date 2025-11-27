@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00
+actualPrice: $9.60
 album: Tragedies - Liber Hermetis
 artist: Ysengrin
 categories:
 - CD
-date: '2025-08-15T05:22:12'
+date: '2025-11-27T06:18:41'
 draft: false
 images:
 - /images/covers/ysengrin-tragedies_-_liber_hermetis.jpg
@@ -14,4 +14,4 @@ title: Ysengrin - Tragedies - Liber Hermetis
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=59967&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=59967&sort=pd.name&order=ASC) for $9.60

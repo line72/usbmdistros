@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00
+actualPrice: $9.60
 album: Demo
 artist: Order of Darkness
 categories:
 - Cassette
-date: '2025-08-15T05:22:39'
+date: '2025-11-27T06:19:05'
 draft: false
 images:
 - /images/covers/order_of_darkness-demo.png
@@ -14,4 +14,4 @@ title: Order of Darkness - Demo
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=20506&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=20506&sort=pd.name&order=ASC) for $9.60

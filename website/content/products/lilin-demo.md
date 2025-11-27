@@ -1,10 +1,10 @@
 ---
-actualPrice: $8.00
+actualPrice: $6.40
 album: Demo
 artist: Lilin
 categories:
 - Cassette
-date: '2025-08-15T05:22:34'
+date: '2025-11-27T06:18:58'
 draft: false
 images:
 - /images/covers/lilin-demo.jpg
@@ -14,4 +14,4 @@ title: Lilin - Demo
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=10710&sort=pd.name&order=ASC) for $8.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=10710&sort=pd.name&order=ASC) for $6.40

@@ -1,10 +1,10 @@
 ---
-actualPrice: $13.00
+actualPrice: $10.40
 album: Rocking Metal Motherfucker
 artist: Barbatos
 categories:
 - CD
-date: '2025-08-15T05:21:05'
+date: '2025-11-27T06:17:39'
 draft: false
 images:
 - /images/covers/barbatos-rocking_metal_motherfucker.jpg
@@ -14,4 +14,4 @@ title: Barbatos - Rocking Metal Motherfucker
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=55563&sort=pd.name&order=ASC) for $13.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=55563&sort=pd.name&order=ASC) for $10.40

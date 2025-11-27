@@ -1,10 +1,10 @@
 ---
-actualPrice: $10.00
+actualPrice: $8.00
 album: Quarantine
 artist: Blix
 categories:
 - CD
-date: '2025-08-15T05:21:08'
+date: '2025-11-27T06:17:41'
 draft: false
 images:
 - /images/covers/blix-quarantine.jpg
@@ -14,4 +14,4 @@ title: Blix - Quarantine
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=30672&sort=pd.name&order=ASC) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=30672&sort=pd.name&order=ASC) for $8.00

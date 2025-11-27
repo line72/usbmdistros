@@ -1,10 +1,10 @@
 ---
-actualPrice: $7.00
+actualPrice: $5.60
 album: Eve Of Fatality
 artist: Cryptic Realms
 categories:
 - Vinyl
-date: '2025-08-15T05:20:50'
+date: '2025-11-27T06:17:22'
 draft: false
 images:
 - /images/covers/cryptic_realms-eve_of_fatality.jpg
@@ -14,4 +14,4 @@ title: Cryptic Realms - Eve Of Fatality
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=1446&sort=pd.name&order=ASC) for $7.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=1446&sort=pd.name&order=ASC) for $5.60

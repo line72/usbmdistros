@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00
+actualPrice: $9.60
 album: Everlasting Wisdom Of The Ancients
 artist: "Sigorsp\xE9d"
 categories:
 - CD
-date: '2025-08-15T05:21:59'
+date: '2025-11-27T06:18:27'
 draft: false
 images:
 - "/images/covers/sigorsp\xE9d-everlasting_wisdom_of_the_ancients.png"
@@ -14,4 +14,4 @@ title: "Sigorsp\xE9d - Everlasting Wisdom Of The Ancients"
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=62410&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=62410&sort=pd.name&order=ASC) for $9.60

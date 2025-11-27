@@ -1,10 +1,10 @@
 ---
-actualPrice: $9.00 - 12.00
+actualPrice: $9.00 - 9.60
 album: Monuments Unknown
 artist: Subterranean
 categories:
 - Cassette
-date: '2025-08-15T05:22:44'
+date: '2025-11-27T06:19:11'
 draft: false
 images:
 - /images/covers/subterranean-monuments_unknown.png
@@ -15,4 +15,4 @@ title: Subterranean - Monuments Unknown
 
 ## Cassette
 * Purchase from [CW Productions](https://shop.cwproductions.net/products/subterranean-monuments-unknown-tape) for $9.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=61635&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=61635&sort=pd.name&order=ASC) for $9.60

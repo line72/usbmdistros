@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00
+actualPrice: $9.60
 album: The Sword That Saves Honor
 artist: Seol
 categories:
 - CD
-date: '2025-08-15T05:21:59'
+date: '2025-11-27T06:18:26'
 draft: false
 images:
 - /images/covers/seol-the_sword_that_saves_honor.jpg
@@ -14,4 +14,4 @@ title: Seol - The Sword That Saves Honor
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=59970&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=59970&sort=pd.name&order=ASC) for $9.60

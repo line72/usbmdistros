@@ -1,11 +1,11 @@
 ---
-actualPrice: $12.00 - 30.00
+actualPrice: $9.60 - 24.00
 album: Shout Demise
 artist: Unctoris
 categories:
 - Vinyl
 - CD
-date: '2025-08-15T05:22:07'
+date: '2025-11-27T06:18:35'
 draft: false
 images:
 - /images/covers/unctoris-shout_demise.jpg
@@ -15,6 +15,6 @@ title: Unctoris - Shout Demise
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=20873&sort=pd.name&order=ASC) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=20873&sort=pd.name&order=ASC) for $24.00
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=20876&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=20876&sort=pd.name&order=ASC) for $9.60

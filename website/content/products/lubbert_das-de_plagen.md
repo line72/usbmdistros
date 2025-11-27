@@ -1,11 +1,11 @@
 ---
-actualPrice: $10.00 - 25.00
+actualPrice: $8.00 - 20.00
 album: De Plagen
 artist: Lubbert Das
 categories:
 - Vinyl
 - CD
-date: '2025-08-15T05:21:39'
+date: '2025-11-27T06:18:10'
 draft: false
 images:
 - /images/covers/lubbert_das-de_plagen.jpg
@@ -15,6 +15,6 @@ title: Lubbert Das - De Plagen
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=18249&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=18249&sort=pd.name&order=ASC) for $20.00
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=5343&sort=pd.name&order=ASC) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=5343&sort=pd.name&order=ASC) for $8.00

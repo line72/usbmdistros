@@ -1,10 +1,10 @@
 ---
-actualPrice: $5.00
+actualPrice: $4.00
 album: I
 artist: Ewigkeit
 categories:
 - CD
-date: '2025-08-15T05:21:23'
+date: '2025-11-27T06:17:52'
 draft: false
 images:
 - /images/covers/ewigkeit-i.jpg
@@ -14,4 +14,4 @@ title: Ewigkeit - I
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=2170&sort=pd.name&order=ASC) for $5.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=2170&sort=pd.name&order=ASC) for $4.00

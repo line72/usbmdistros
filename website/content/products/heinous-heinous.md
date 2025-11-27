@@ -1,10 +1,10 @@
 ---
-actualPrice: $17.00
+actualPrice: $13.60
 album: Heinous
 artist: Heinous
 categories:
 - Vinyl
-date: '2025-08-15T05:19:53'
+date: '2025-11-27T06:16:30'
 draft: false
 images:
 - /images/covers/heinous-heinous.jpg
@@ -14,4 +14,4 @@ title: Heinous - Heinous
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=62690&sort=pd.name&order=ASC) for $17.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=62690&sort=pd.name&order=ASC) for $13.60

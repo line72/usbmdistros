@@ -5,7 +5,7 @@ artist: Minenwerfer
 categories:
 - Vinyl
 - Cassette
-date: '2025-08-15T05:20:08'
+date: '2025-11-27T06:16:46'
 draft: false
 images:
 - /images/covers/minenwerfer-der_rote_kampfflieger.jpg
@@ -15,7 +15,7 @@ title: Minenwerfer - Der Rote Kampfflieger
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=30356&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=30356&sort=pd.name&order=ASC) for $20.00
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/minenwerfer-der-rote-kampfflieger-lp) for $25.00 :: Color 2022 press vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/minenwerfer-der-rote-kampfflieger-lp) for $25.00 :: Black 2022 press vinyl
 ## Cassette

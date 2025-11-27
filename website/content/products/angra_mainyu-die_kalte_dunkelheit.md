@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00
+actualPrice: $9.60
 album: Die kalte Dunkelheit
 artist: Angra Mainyu
 categories:
 - CD
-date: '2025-08-15T05:21:02'
+date: '2025-11-27T06:17:36'
 draft: false
 images:
 - /images/covers/angra_mainyu-die_kalte_dunkelheit.jpg
@@ -14,4 +14,4 @@ title: Angra Mainyu - Die kalte Dunkelheit
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=45463&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=45463&sort=pd.name&order=ASC) for $9.60

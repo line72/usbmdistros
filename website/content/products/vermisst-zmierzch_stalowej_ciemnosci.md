@@ -1,10 +1,10 @@
 ---
-actualPrice: $10.00
+actualPrice: $8.00
 album: Zmierzch Stalowej Ciemnosci
 artist: Vermisst
 categories:
 - CD
-date: '2025-08-15T05:22:09'
+date: '2025-11-27T06:18:37'
 draft: false
 images:
 - /images/covers/vermisst-zmierzch_stalowej_ciemnosci.png
@@ -14,4 +14,4 @@ title: Vermisst - Zmierzch Stalowej Ciemnosci
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=58395&sort=pd.name&order=ASC) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=58395&sort=pd.name&order=ASC) for $8.00

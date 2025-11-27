@@ -1,10 +1,10 @@
 ---
-actualPrice: $20.00
+actualPrice: $16.00
 album: Demo 1994
 artist: Tenebrae
 categories:
 - Vinyl
-date: '2025-08-15T05:20:31'
+date: '2025-11-27T06:17:08'
 draft: false
 images:
 - /images/covers/tenebrae-demo_1994.png
@@ -14,4 +14,4 @@ title: Tenebrae - Demo 1994
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=46478&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=46478&sort=pd.name&order=ASC) for $16.00

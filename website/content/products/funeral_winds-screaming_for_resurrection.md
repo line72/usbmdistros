@@ -1,10 +1,10 @@
 ---
-actualPrice: $9.00
+actualPrice: $5.85
 album: Screaming for Resurrection
 artist: Funeral Winds
 categories:
 - Cassette
-date: '2025-08-15T05:22:28'
+date: '2025-11-27T06:18:53'
 draft: false
 images:
 - /images/covers/funeral_winds-screaming_for_resurrection.jpg
@@ -14,4 +14,4 @@ title: Funeral Winds - Screaming for Resurrection
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=16245&sort=pd.name&order=ASC) for $9.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=16245&sort=pd.name&order=ASC) for $5.85

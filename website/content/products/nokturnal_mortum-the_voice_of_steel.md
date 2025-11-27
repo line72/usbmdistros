@@ -5,7 +5,7 @@ artist: Nokturnal Mortum
 categories:
 - Vinyl
 - CD
-date: '2025-11-06T06:02:15'
+date: '2025-11-27T06:01:39'
 draft: false
 images:
 - /images/covers/nokturnal_mortum-the_voice_of_steel.jpg

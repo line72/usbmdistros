@@ -1,10 +1,10 @@
 ---
-actualPrice: $15.00
+actualPrice: $12.00
 album: Pathways to Death Part III
 artist: Arganas
 categories:
 - CD
-date: '2025-08-15T05:21:03'
+date: '2025-11-27T06:17:37'
 draft: false
 images:
 - /images/covers/arganas-pathways_to_death_part_iii.jpg
@@ -14,4 +14,4 @@ title: Arganas - Pathways to Death Part III
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=25550&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=25550&sort=pd.name&order=ASC) for $12.00

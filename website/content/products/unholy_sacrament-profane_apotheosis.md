@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00
+actualPrice: $9.60
 album: Profane Apotheosis
 artist: Unholy Sacrament
 categories:
 - CD
-date: '2025-08-15T05:22:07'
+date: '2025-11-27T06:18:36'
 draft: false
 images:
 - /images/covers/unholy_sacrament-profane_apotheosis.png
@@ -14,4 +14,4 @@ title: Unholy Sacrament - Profane Apotheosis
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=59807&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=59807&sort=pd.name&order=ASC) for $9.60

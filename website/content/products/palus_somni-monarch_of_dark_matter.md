@@ -1,10 +1,10 @@
 ---
-actualPrice: $14.00
+actualPrice: $11.20
 album: Monarch of Dark Matter
 artist: Palus Somni
 categories:
 - Vinyl
-date: '2025-08-15T05:20:21'
+date: '2025-11-27T06:16:55'
 draft: false
 images:
 - /images/covers/palus_somni-monarch_of_dark_matter.jpg
@@ -14,4 +14,4 @@ title: Palus Somni - Monarch of Dark Matter
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=39757&sort=pd.name&order=ASC) for $14.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=39757&sort=pd.name&order=ASC) for $11.20

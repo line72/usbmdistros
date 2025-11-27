@@ -1,10 +1,10 @@
 ---
-actualPrice: $15.00
+actualPrice: $12.00
 album: Demo
 artist: Anal Vomit
 categories:
 - Cassette
-date: '2025-08-15T05:22:14'
+date: '2025-11-27T06:18:43'
 draft: false
 images:
 - /images/covers/anal_vomit-demo.jpg
@@ -14,4 +14,4 @@ title: Anal Vomit - Demo
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=61001&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=61001&sort=pd.name&order=ASC) for $12.00

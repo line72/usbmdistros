@@ -1,10 +1,10 @@
 ---
-actualPrice: $5.00
+actualPrice: $3.25
 album: Spalovna
 artist: Tudor
 categories:
 - Vinyl
-date: '2025-08-15T05:20:59'
+date: '2025-11-27T06:17:30'
 draft: false
 images:
 - /images/covers/tudor-spalovna.jpg
@@ -14,4 +14,4 @@ title: Tudor - Spalovna
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=40271&sort=pd.name&order=ASC) for $5.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=64335&sort=pd.name&order=ASC) for $3.25

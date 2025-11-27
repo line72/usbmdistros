@@ -1,10 +1,10 @@
 ---
-actualPrice: $13.00
+actualPrice: $10.40
 album: Let's Fucking Die!
 artist: Barbatos
 categories:
 - CD
-date: '2025-08-15T05:21:05'
+date: '2025-11-27T06:17:39'
 draft: false
 images:
 - /images/covers/barbatos-let's_fucking_die!.jpg
@@ -14,4 +14,4 @@ title: Barbatos - Let's Fucking Die!
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=55564&sort=pd.name&order=ASC) for $13.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=55564&sort=pd.name&order=ASC) for $10.40

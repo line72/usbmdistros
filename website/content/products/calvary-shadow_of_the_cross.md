@@ -1,10 +1,10 @@
 ---
-actualPrice: $30.00
+actualPrice: $24.00
 album: Shadow of the Cross
 artist: Calvary
 categories:
 - Vinyl
-date: '2025-11-02T05:20:21'
+date: '2025-11-27T06:16:13'
 draft: false
 images:
 - /images/covers/calvary-shadow_of_the_cross.jpg
@@ -14,4 +14,4 @@ title: Calvary - Shadow of the Cross
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=63984&sort=pd.name&order=ASC) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=63984&sort=pd.name&order=ASC) for $24.00

@@ -1,10 +1,10 @@
 ---
-actualPrice: $27.00
+actualPrice: $21.60
 album: Svart Materia
 artist: Grifteskymfning
 categories:
 - Vinyl
-date: '2025-09-10T05:21:15'
+date: '2025-11-27T06:16:28'
 draft: false
 images:
 - /images/covers/grifteskymfning-svart_materia.jpg
@@ -14,4 +14,4 @@ title: Grifteskymfning - Svart Materia
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=63394&sort=pd.name&order=ASC) for $27.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=63394&sort=pd.name&order=ASC) for $21.60

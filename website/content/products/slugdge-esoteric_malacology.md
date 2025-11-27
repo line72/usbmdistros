@@ -18,7 +18,6 @@ title: Slugdge - Esoteric Malacology
 ## Vinyl
 * Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/slugdge-esoteric-malacology-double-lp-gatefold-black-ice-splatter-vinyl-dlp) for $39.99 :: double lp gatefold black ice splatter vinyl dlp
 * Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/slugdge-esoteric-malacology-purple-ghostly-vinyl-lp) for $39.99 :: double lp gatefold purple ghostly vinyl dlp
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/slugdge-esoteric-malacology-2xlp) for $32.00 :: Color 2024 press vinyl
 ## Cassette
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/slugdge-esoteric-malacology-cassette) for $14.00 :: Cassette 2021
 ## CD

@@ -1,11 +1,11 @@
 ---
-actualPrice: $12.00 - 27.00
+actualPrice: $9.60 - 27.00
 album: Frontschwein
 artist: Marduk
 categories:
 - Vinyl
 - CD
-date: '2025-08-15T05:21:41'
+date: '2025-11-27T06:18:12'
 draft: false
 images:
 - /images/covers/marduk-frontschwein.jpg
@@ -17,4 +17,4 @@ title: Marduk - Frontschwein
 ## Vinyl
 * Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/marduk-frontschwein-black-ice-vinyl-lp) for $27.00 :: black ice vinyl lp
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=42394&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=42394&sort=pd.name&order=ASC) for $9.60

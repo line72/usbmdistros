@@ -1,11 +1,11 @@
 ---
-actualPrice: $12.00 - 25.00
+actualPrice: $12.00 - 20.00
 album: Southern Bestial Storms
 artist: Levifer
 categories:
 - Vinyl
 - CD
-date: '2025-11-12T06:21:06'
+date: '2025-11-27T06:16:41'
 draft: false
 images:
 - /images/covers/levifer-southern_bestial_storms.png
@@ -15,6 +15,6 @@ title: Levifer - Southern Bestial Storms
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=64084&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=64084&sort=pd.name&order=ASC) for $20.00
 ## CD
 * Purchase from [CW Productions](https://shop.cwproductions.net/products/levifer-southern-bestial-storms-cd) for $12.00

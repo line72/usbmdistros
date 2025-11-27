@@ -1,10 +1,10 @@
 ---
-actualPrice: $27.00
+actualPrice: $21.60
 album: "Tulkoon Y\xF6 / Talviy\xF6"
 artist: Kiira
 categories:
 - Vinyl
-date: '2025-08-15T05:20:01'
+date: '2025-11-27T06:16:40'
 draft: false
 images:
 - "/images/covers/kiira-tulkoon_y\xF6_-_talviy\xF6.jpg"
@@ -14,4 +14,4 @@ title: "Kiira - Tulkoon Y\xF6 / Talviy\xF6"
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=57900&sort=pd.name&order=ASC) for $27.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=57900&sort=pd.name&order=ASC) for $21.60

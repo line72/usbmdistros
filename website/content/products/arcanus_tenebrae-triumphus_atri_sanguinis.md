@@ -1,10 +1,10 @@
 ---
-actualPrice: $25.00 - 27.00
+actualPrice: $21.60 - 25.00
 album: Triumphus Atri Sanguinis
 artist: Arcanus Tenebrae
 categories:
 - Vinyl
-date: '2025-10-04T05:16:54'
+date: '2025-11-27T06:17:20'
 draft: false
 images:
 - /images/covers/arcanus_tenebrae-triumphus_atri_sanguinis.jpg
@@ -15,4 +15,4 @@ title: Arcanus Tenebrae - Triumphus Atri Sanguinis
 
 ## Vinyl
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/arcanus-tenebrae-triumphus-atri-sanguinis-12-lp) for $25.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=63642&sort=pd.name&order=ASC) for $27.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=63642&sort=pd.name&order=ASC) for $21.60

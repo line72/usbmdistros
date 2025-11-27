@@ -1,10 +1,10 @@
 ---
-actualPrice: $10.00
+actualPrice: $8.00
 album: Portal do Inferno
 artist: Profane Creation
 categories:
 - CD
-date: '2025-08-15T05:21:54'
+date: '2025-11-27T06:18:21'
 draft: false
 images:
 - /images/covers/profane_creation-portal_do_inferno.png
@@ -14,4 +14,4 @@ title: Profane Creation - Portal do Inferno
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=3088&sort=pd.name&order=ASC) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=3088&sort=pd.name&order=ASC) for $8.00

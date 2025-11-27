@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00
+actualPrice: $7.80
 album: Archaeomania" Demo
 artist: Dreadful Relic
 categories:
 - Cassette
-date: '2025-11-18T06:22:52'
+date: '2025-11-27T06:18:50'
 draft: false
 images:
 - /images/covers/dreadful_relic-archaeomania"_demo.jpg
@@ -14,4 +14,4 @@ title: Dreadful Relic - Archaeomania" Demo
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=64157&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=64157&sort=pd.name&order=ASC) for $7.80

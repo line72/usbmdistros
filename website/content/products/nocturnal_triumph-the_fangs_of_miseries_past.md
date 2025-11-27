@@ -1,11 +1,11 @@
 ---
-actualPrice: $15.00 - 25.00
+actualPrice: $12.00 - 20.00
 album: The Fangs of Miseries Past
 artist: Nocturnal Triumph
 categories:
 - Vinyl
 - CD
-date: '2025-10-16T05:20:41'
+date: '2025-11-27T06:18:17'
 draft: false
 images:
 - /images/covers/nocturnal_triumph-the_fangs_of_miseries_past.jpg
@@ -15,6 +15,6 @@ title: Nocturnal Triumph - The Fangs of Miseries Past
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=63765&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=63765&sort=pd.name&order=ASC) for $20.00
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=58030&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=58030&sort=pd.name&order=ASC) for $12.00

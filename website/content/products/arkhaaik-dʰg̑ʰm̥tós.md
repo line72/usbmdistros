@@ -1,11 +1,11 @@
 ---
-actualPrice: $10.00 - 18.00
+actualPrice: $8.00 - 18.00
 album: "*d\u02B0g\u0311\u02B0m\u0325to\u0301s"
 artist: Arkhaaik
 categories:
 - Vinyl
 - CD
-date: '2025-08-15T05:21:03'
+date: '2025-11-27T06:17:37'
 draft: false
 images:
 - "/images/covers/arkhaaik-d\u02B0g\u0311\u02B0m\u0325to\u0301s.jpg"
@@ -17,4 +17,4 @@ title: "Arkhaaik - *d\u02B0g\u0311\u02B0m\u0325to\u0301s"
 ## Vinyl
 * Purchase from [Sto'Vo'Kor Records](https://stovokor-records.com/products/arkhaaik-dhghmtos) for $18.00
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=5717&sort=pd.name&order=ASC) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=5717&sort=pd.name&order=ASC) for $8.00

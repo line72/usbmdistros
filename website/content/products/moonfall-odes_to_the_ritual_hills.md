@@ -1,10 +1,10 @@
 ---
-actualPrice: $25.00
+actualPrice: $20.00
 album: Odes To The Ritual Hills
 artist: Moonfall
 categories:
 - Vinyl
-date: '2025-10-04T05:16:20'
+date: '2025-11-27T06:16:47'
 draft: false
 images:
 - /images/covers/moonfall-odes_to_the_ritual_hills.png
@@ -14,4 +14,4 @@ title: Moonfall - Odes To The Ritual Hills
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=63657&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=63657&sort=pd.name&order=ASC) for $20.00

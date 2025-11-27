@@ -1,10 +1,10 @@
 ---
-actualPrice: $20.00
+actualPrice: $16.00
 album: "Bekm\xF8rkt"
 artist: Elite
 categories:
 - Vinyl
-date: '2025-08-15T05:19:46'
+date: '2025-11-27T06:16:22'
 draft: false
 images:
 - "/images/covers/elite-bekm\xF8rkt.png"
@@ -14,4 +14,4 @@ title: "Elite - Bekm\xF8rkt"
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=59062&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=59062&sort=pd.name&order=ASC) for $16.00

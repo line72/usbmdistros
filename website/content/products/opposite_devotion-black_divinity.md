@@ -1,10 +1,10 @@
 ---
-actualPrice: $7.00
+actualPrice: $5.60
 album: Black Divinity
 artist: Opposite Devotion
 categories:
 - Cassette
-date: '2025-08-15T05:22:39'
+date: '2025-11-27T06:19:05'
 draft: false
 images:
 - /images/covers/opposite_devotion-black_divinity.png
@@ -14,4 +14,4 @@ title: Opposite Devotion - Black Divinity
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=6150&sort=pd.name&order=ASC) for $7.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=6150&sort=pd.name&order=ASC) for $5.60

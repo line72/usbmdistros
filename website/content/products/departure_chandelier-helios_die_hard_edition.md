@@ -1,10 +1,10 @@
 ---
-actualPrice: $100.00
+actualPrice: $80.00
 album: Helios Die Hard Edition
 artist: Departure Chandelier
 categories:
 - Vinyl
-date: '2025-09-07T05:20:11'
+date: '2025-11-27T06:16:19'
 draft: false
 images:
 - /images/covers/departure_chandelier-helios_die_hard_edition.png
@@ -14,4 +14,4 @@ title: Departure Chandelier - Helios Die Hard Edition
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=63341&sort=pd.name&order=ASC) for $100.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=63341&sort=pd.name&order=ASC) for $80.00

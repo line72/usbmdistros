@@ -1,10 +1,10 @@
 ---
-actualPrice: $10.00
+actualPrice: $8.00
 album: Flexi
 artist: Hulder
 categories:
 - Vinyl
-date: '2025-08-15T05:20:53'
+date: '2025-11-27T06:17:25'
 draft: false
 images:
 - /images/covers/hulder-flexi.png
@@ -14,4 +14,4 @@ title: Hulder - Flexi
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=55690&sort=pd.name&order=ASC) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=55690&sort=pd.name&order=ASC) for $8.00

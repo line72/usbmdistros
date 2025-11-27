@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00
+actualPrice: $9.60
 album: Corpus
 artist: Astrophobos
 categories:
 - CD
-date: '2025-08-15T05:21:04'
+date: '2025-11-27T06:17:37'
 draft: false
 images:
 - /images/covers/astrophobos-corpus.png
@@ -14,4 +14,4 @@ title: Astrophobos - Corpus
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=50080&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=50080&sort=pd.name&order=ASC) for $9.60

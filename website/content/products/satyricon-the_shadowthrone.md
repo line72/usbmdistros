@@ -1,10 +1,10 @@
 ---
-actualPrice: $15.00
+actualPrice: $12.00
 album: The Shadowthrone
 artist: Satyricon
 categories:
 - CD
-date: '2025-10-27T05:19:44'
+date: '2025-11-27T06:18:25'
 draft: false
 images:
 - /images/covers/satyricon-the_shadowthrone.jpg
@@ -14,4 +14,4 @@ title: Satyricon - The Shadowthrone
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=63919&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=63919&sort=pd.name&order=ASC) for $12.00

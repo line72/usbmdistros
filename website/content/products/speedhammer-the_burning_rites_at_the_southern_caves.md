@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00
+actualPrice: $9.60
 album: The Burning Rites At The Southern Caves
 artist: Speedhammer
 categories:
 - CD
-date: '2025-08-15T05:22:01'
+date: '2025-11-27T06:18:28'
 draft: false
 images:
 - /images/covers/speedhammer-the_burning_rites_at_the_southern_caves.jpg
@@ -14,4 +14,4 @@ title: Speedhammer - The Burning Rites At The Southern Caves
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=51884&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=51884&sort=pd.name&order=ASC) for $9.60

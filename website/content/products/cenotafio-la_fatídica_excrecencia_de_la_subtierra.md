@@ -1,10 +1,10 @@
 ---
-actualPrice: $10.00
+actualPrice: $8.00
 album: "La Fat\xEDdica Excrecencia De La Subtierra"
 artist: Cenotafio
 categories:
 - CD
-date: '2025-08-15T05:21:10'
+date: '2025-11-27T06:17:43'
 draft: false
 images:
 - "/images/covers/cenotafio-la_fat\xEDdica_excrecencia_de_la_subtierra.jpg"
@@ -14,4 +14,4 @@ title: "Cenotafio - La Fat\xEDdica Excrecencia De La Subtierra"
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=3605&sort=pd.name&order=ASC) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=3605&sort=pd.name&order=ASC) for $8.00

@@ -1,10 +1,10 @@
 ---
-actualPrice: $15.00
+actualPrice: $12.00
 album: To Overcome
 artist: Voidsphere
 categories:
 - CD
-date: '2025-08-15T05:22:09'
+date: '2025-11-27T06:18:38'
 draft: false
 images:
 - /images/covers/voidsphere-to_overcome.png
@@ -14,4 +14,4 @@ title: Voidsphere - To Overcome
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=19787&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=19787&sort=pd.name&order=ASC) for $12.00

@@ -1,10 +1,10 @@
 ---
-actualPrice: $4.00
+actualPrice: $3.20
 album: Demo
 artist: Gravenveld IX
 categories:
 - Cassette
-date: '2025-08-15T05:22:29'
+date: '2025-11-27T06:18:54'
 draft: false
 images:
 - /images/covers/gravenveld_ix-demo.png
@@ -14,4 +14,4 @@ title: Gravenveld IX - Demo
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=11360&sort=pd.name&order=ASC) for $4.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=11360&sort=pd.name&order=ASC) for $3.20

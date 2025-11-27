@@ -1,11 +1,11 @@
 ---
-actualPrice: $12.00 - 25.00
+actualPrice: $9.60 - 20.00
 album: "Auf den H\xFCgelgr\xE4berh\xF6hen"
 artist: Grabunhold
 categories:
 - Vinyl
 - CD
-date: '2025-08-15T05:21:27'
+date: '2025-11-27T06:17:57'
 draft: false
 images:
 - "/images/covers/grabunhold-auf_den_h\xFCgelgr\xE4berh\xF6hen.jpg"
@@ -15,6 +15,6 @@ title: "Grabunhold - Auf den H\xFCgelgr\xE4berh\xF6hen"
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=44908&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=44908&sort=pd.name&order=ASC) for $20.00
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=44907&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=44907&sort=pd.name&order=ASC) for $9.60

@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00
+actualPrice: $9.60
 album: Nereidean Seismic End
 artist: Hadopelagyal
 categories:
 - Cassette
-date: '2025-08-15T05:22:29'
+date: '2025-11-27T06:18:54'
 draft: false
 images:
 - /images/covers/hadopelagyal-nereidean_seismic_end.jpg
@@ -14,4 +14,4 @@ title: Hadopelagyal - Nereidean Seismic End
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=45107&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=45107&sort=pd.name&order=ASC) for $9.60

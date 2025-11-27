@@ -1,10 +1,10 @@
 ---
-actualPrice: $8.00
+actualPrice: $6.40
 album: Son of the Morning
 artist: Elderblood
 categories:
 - Cassette
-date: '2025-08-15T05:22:26'
+date: '2025-11-27T06:18:50'
 draft: false
 images:
 - /images/covers/elderblood-son_of_the_morning.png
@@ -14,4 +14,4 @@ title: Elderblood - Son of the Morning
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=9961&sort=pd.name&order=ASC) for $8.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=9961&sort=pd.name&order=ASC) for $6.40

@@ -1,10 +1,10 @@
 ---
-actualPrice: $25.00
+actualPrice: $20.00
 album: Nomad
 artist: Darkestrah
 categories:
 - Vinyl
-date: '2025-08-15T05:19:38'
+date: '2025-11-27T06:16:18'
 draft: false
 images:
 - /images/covers/darkestrah-nomad.jpg
@@ -14,4 +14,4 @@ title: Darkestrah - Nomad
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=59114&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=59114&sort=pd.name&order=ASC) for $20.00

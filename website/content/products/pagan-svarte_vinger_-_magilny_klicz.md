@@ -1,10 +1,10 @@
 ---
-actualPrice: $25.00 - 30.00
+actualPrice: $16.25 - 19.50
 album: Svarte Vinger / Magilny Klicz
 artist: Pagan
 categories:
 - Vinyl
-date: '2025-08-15T05:20:20'
+date: '2025-11-27T06:16:55'
 draft: false
 images:
 - /images/covers/pagan-svarte_vinger_-_magilny_klicz.png
@@ -14,5 +14,5 @@ title: Pagan - Svarte Vinger / Magilny Klicz
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=62065&sort=pd.name&order=ASC) for $30.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=62296&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=62065&sort=pd.name&order=ASC) for $19.50
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=62296&sort=pd.name&order=ASC) for $16.25

@@ -1,10 +1,10 @@
 ---
-actualPrice: $15.00
+actualPrice: $12.00
 album: Blood Laced with Emptiness
 artist: Hellmoon
 categories:
 - Vinyl
-date: '2025-08-15T05:20:53'
+date: '2025-11-27T06:17:25'
 draft: false
 images:
 - /images/covers/hellmoon-blood_laced_with_emptiness.jpg
@@ -14,4 +14,4 @@ title: Hellmoon - Blood Laced with Emptiness
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=50640&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=50640&sort=pd.name&order=ASC) for $12.00

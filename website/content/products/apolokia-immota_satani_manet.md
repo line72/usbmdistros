@@ -1,10 +1,10 @@
 ---
-actualPrice: $10.00
+actualPrice: $8.00
 album: Immota Satani Manet
 artist: APOLOKIA
 categories:
 - CD
-date: '2025-08-15T05:21:03'
+date: '2025-11-27T06:17:36'
 draft: false
 images:
 - /images/covers/apolokia-immota_satani_manet.jpg
@@ -14,4 +14,4 @@ title: APOLOKIA - Immota Satani Manet
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=4286&sort=pd.name&order=ASC) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=4286&sort=pd.name&order=ASC) for $8.00

@@ -1,10 +1,10 @@
 ---
-actualPrice: $25.00
+actualPrice: $20.00
 album: Todnachten
 artist: Obskene Sonare
 categories:
 - Vinyl
-date: '2025-08-15T05:20:18'
+date: '2025-11-27T06:16:52'
 draft: false
 images:
 - /images/covers/obskene_sonare-todnachten.jpg
@@ -14,4 +14,4 @@ title: Obskene Sonare - Todnachten
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=51011&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=51011&sort=pd.name&order=ASC) for $20.00

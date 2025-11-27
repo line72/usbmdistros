@@ -1,10 +1,10 @@
 ---
-actualPrice: $23.00
+actualPrice: $15.00
 album: Iffernet
 artist: Iffernet
 categories:
 - Vinyl
-date: '2023-12-17T13:26:34'
+date: '2025-11-23T06:29:08'
 draft: false
 images:
 - /images/covers/iffernet-iffernet.jpg
@@ -14,4 +14,4 @@ title: Iffernet - Iffernet
 ---
 
 ## Vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/iffernet-iffernet-lp) for $23.00 :: Black 2022 press vinyl
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/iffernet-iffernet-lp) for $15.00 :: Black 2022 press vinyl

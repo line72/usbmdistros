@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00
+actualPrice: $9.60
 album: Aurea Aetas
 artist: Grandeur
 categories:
 - CD
-date: '2025-08-15T05:21:28'
+date: '2025-11-27T06:17:57'
 draft: false
 images:
 - /images/covers/grandeur-aurea_aetas.jpg
@@ -14,4 +14,4 @@ title: Grandeur - Aurea Aetas
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=50090&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=50090&sort=pd.name&order=ASC) for $9.60

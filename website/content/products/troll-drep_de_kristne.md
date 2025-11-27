@@ -1,10 +1,10 @@
 ---
-actualPrice: $15.00
+actualPrice: $12.00
 album: Drep de Kristne
 artist: Troll
 categories:
 - CD
-date: '2025-09-24T05:23:09'
+date: '2025-11-27T06:18:35'
 draft: false
 images:
 - /images/covers/troll-drep_de_kristne.jpg
@@ -14,4 +14,4 @@ title: Troll - Drep de Kristne
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=63516&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=63516&sort=pd.name&order=ASC) for $12.00

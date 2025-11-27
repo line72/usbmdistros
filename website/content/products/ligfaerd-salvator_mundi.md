@@ -1,12 +1,12 @@
 ---
-actualPrice: $12.00 - 24.00
+actualPrice: $12.00 - 15.00
 album: Salvator Mundi
 artist: Ligfaerd
 categories:
 - Vinyl
 - Cassette
 - CD
-date: '2024-07-07T05:22:51'
+date: '2025-11-27T06:29:04'
 draft: false
 images:
 - /images/covers/ligfaerd-salvator_mundi.jpg
@@ -16,8 +16,7 @@ title: Ligfaerd - Salvator Mundi
 ---
 
 ## Vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/ligfaerd-salvator-mundi-lp-1) for $24.00 :: Black 2022 press vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/ligfaerd-salvator-mundi-lp-1) for $24.00 :: Red / Black Marble 2022 press (lim/100)
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/ligfaerd-salvator-mundi-lp-1) for $15.00 :: Black 2022 press vinyl
 ## Cassette
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/ligfaerd-salvator-mundi-cassette-1) for $12.00 :: Cassette Tape 2022 press
 ## CD

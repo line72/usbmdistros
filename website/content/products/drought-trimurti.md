@@ -1,10 +1,10 @@
 ---
-actualPrice: $9.00 - 25.00
+actualPrice: $9.00 - 20.00
 album: Trimurti
 artist: Drought
 categories:
 - Vinyl
-date: '2025-11-18T06:35:41'
+date: '2025-11-27T06:16:21'
 draft: false
 images:
 - /images/covers/drought-trimurti.png
@@ -15,5 +15,5 @@ title: Drought - Trimurti
 
 ## Vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/drought-trimurti-lp) for $9.00 :: Black 2020 press vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=60788&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=60788&sort=pd.name&order=ASC) for $20.00
 * Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/drought-trimurti-gold-marble-vinyl-lp) for $19.98 :: gold marble vinyl lp

@@ -1,10 +1,10 @@
 ---
-actualPrice: $13.00
+actualPrice: $10.40
 album: Dearest Catharsis
 artist: Bloodisthin
 categories:
 - CD
-date: '2025-08-15T05:21:08'
+date: '2025-11-27T06:17:41'
 draft: false
 images:
 - /images/covers/bloodisthin-dearest_catharsis.jpg
@@ -14,4 +14,4 @@ title: Bloodisthin - Dearest Catharsis
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=55506&sort=pd.name&order=ASC) for $13.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=55506&sort=pd.name&order=ASC) for $10.40

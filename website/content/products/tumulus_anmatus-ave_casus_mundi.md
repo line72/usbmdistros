@@ -1,10 +1,10 @@
 ---
-actualPrice: $5.00
+actualPrice: $4.00
 album: Ave Casus Mundi
 artist: Tumulus Anmatus
 categories:
 - CD
-date: '2025-08-15T05:22:06'
+date: '2025-11-27T06:18:35'
 draft: false
 images:
 - /images/covers/tumulus_anmatus-ave_casus_mundi.png
@@ -14,4 +14,4 @@ title: Tumulus Anmatus - Ave Casus Mundi
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=1631&sort=pd.name&order=ASC) for $5.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=1631&sort=pd.name&order=ASC) for $4.00

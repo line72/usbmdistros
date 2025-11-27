@@ -1,10 +1,10 @@
 ---
-actualPrice: $15.00
+actualPrice: $12.00
 album: Evil X Evil
 artist: Goat Rider
 categories:
 - CD
-date: '2025-08-15T05:21:26'
+date: '2025-11-27T06:17:56'
 draft: false
 images:
 - /images/covers/goat_rider-evil_x_evil.jpg
@@ -14,4 +14,4 @@ title: Goat Rider - Evil X Evil
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=60655&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=60655&sort=pd.name&order=ASC) for $12.00

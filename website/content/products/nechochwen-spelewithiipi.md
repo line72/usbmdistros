@@ -1,11 +1,11 @@
 ---
-actualPrice: $15.00 - 29.00
+actualPrice: $12.00 - 29.00
 album: Spelewithiipi
 artist: Nechochwen
 categories:
 - Vinyl
 - CD
-date: '2025-11-18T06:42:22'
+date: '2025-11-27T06:18:15'
 draft: false
 images:
 - /images/covers/nechochwen-spelewithiipi.png
@@ -16,6 +16,6 @@ title: Nechochwen - Spelewithiipi
 
 ## Vinyl
 * Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/nechochwen-spelewithiipi-exclusive-vinyl-lp) for $29.00 :: exclusive vinyl lp
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=62001&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=62001&sort=pd.name&order=ASC) for $20.00
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=62025&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=62025&sort=pd.name&order=ASC) for $12.00

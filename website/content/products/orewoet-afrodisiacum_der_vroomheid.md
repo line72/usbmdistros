@@ -1,10 +1,10 @@
 ---
-actualPrice: $25.00
+actualPrice: $20.00
 album: Afrodisiacum Der Vroomheid
 artist: Orewoet
 categories:
 - Vinyl
-date: '2025-08-15T05:20:19'
+date: '2025-11-27T06:16:54'
 draft: false
 images:
 - /images/covers/orewoet-afrodisiacum_der_vroomheid.jpg
@@ -14,4 +14,4 @@ title: Orewoet - Afrodisiacum Der Vroomheid
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=51994&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=51994&sort=pd.name&order=ASC) for $20.00

@@ -1,10 +1,10 @@
 ---
-actualPrice: $20.00
+actualPrice: $16.00
 album: Pillars Of Salt
 artist: Balmog
 categories:
 - Vinyl
-date: '2025-08-15T05:19:30'
+date: '2025-11-27T06:16:08'
 draft: false
 images:
 - /images/covers/balmog-pillars_of_salt.jpg
@@ -14,4 +14,4 @@ title: Balmog - Pillars Of Salt
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=32179&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=32179&sort=pd.name&order=ASC) for $16.00

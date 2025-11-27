@@ -1,10 +1,10 @@
 ---
-actualPrice: $25.00
+actualPrice: $20.00
 album: Iron Woods Vol. I
 artist: Iron Woods
 categories:
 - Vinyl
-date: '2025-08-15T05:19:59'
+date: '2025-11-27T06:16:37'
 draft: false
 images:
 - /images/covers/iron_woods-iron_woods_vol._i.png
@@ -14,4 +14,4 @@ title: Iron Woods - Iron Woods Vol. I
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=61334&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=61334&sort=pd.name&order=ASC) for $20.00

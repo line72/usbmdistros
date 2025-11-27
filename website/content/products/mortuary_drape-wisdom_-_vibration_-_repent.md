@@ -1,10 +1,10 @@
 ---
-actualPrice: $15.00
+actualPrice: $12.00
 album: Wisdom - Vibration - Repent
 artist: Mortuary Drape
 categories:
 - CD
-date: '2025-08-15T05:21:44'
+date: '2025-11-27T06:18:14'
 draft: false
 images:
 - /images/covers/mortuary_drape-wisdom_-_vibration_-_repent.jpg
@@ -14,4 +14,4 @@ title: Mortuary Drape - Wisdom - Vibration - Repent
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=57655&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=57655&sort=pd.name&order=ASC) for $12.00

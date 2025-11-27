@@ -1,10 +1,10 @@
 ---
-actualPrice: $15.00
+actualPrice: $12.00
 album: Nemesis Divina
 artist: Satyricon
 categories:
 - CD
-date: '2025-11-08T06:22:52'
+date: '2025-11-27T06:18:25'
 draft: false
 images:
 - /images/covers/satyricon-nemesis_divina.png
@@ -14,4 +14,4 @@ title: Satyricon - Nemesis Divina
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=64025&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=64025&sort=pd.name&order=ASC) for $12.00

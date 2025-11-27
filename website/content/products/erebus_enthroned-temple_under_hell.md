@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00
+actualPrice: $9.60
 album: Temple Under Hell
 artist: Erebus Enthroned
 categories:
 - CD
-date: '2025-08-15T05:21:22'
+date: '2025-11-27T06:17:52'
 draft: false
 images:
 - /images/covers/erebus_enthroned-temple_under_hell.jpg
@@ -14,4 +14,4 @@ title: Erebus Enthroned - Temple Under Hell
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=23265&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=23265&sort=pd.name&order=ASC) for $9.60

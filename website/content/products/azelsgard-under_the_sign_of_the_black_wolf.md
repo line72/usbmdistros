@@ -1,10 +1,10 @@
 ---
-actualPrice: $25.00
+actualPrice: $20.00 - 25.00
 album: Under the Sign of the Black Wolf
 artist: Azelsgard
 categories:
 - Vinyl
-date: '2025-08-15T05:19:30'
+date: '2025-11-27T06:16:08'
 draft: false
 images:
 - /images/covers/azelsgard-under_the_sign_of_the_black_wolf.jpg
@@ -15,4 +15,4 @@ title: Azelsgard - Under the Sign of the Black Wolf
 
 ## Vinyl
 * Purchase from [CW Productions](https://shop.cwproductions.net/products/azelsgard-under-the-sign-of-the-black-wolf-lp) for $25.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=62135&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=62135&sort=pd.name&order=ASC) for $20.00

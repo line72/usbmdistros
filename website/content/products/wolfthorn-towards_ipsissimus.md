@@ -1,10 +1,10 @@
 ---
-actualPrice: $18.00
+actualPrice: $14.40
 album: Towards Ipsissimus
 artist: Wolfthorn
 categories:
 - Vinyl
-date: '2025-08-15T05:20:43'
+date: '2025-11-27T06:17:18'
 draft: false
 images:
 - /images/covers/wolfthorn-towards_ipsissimus.jpg
@@ -14,4 +14,4 @@ title: Wolfthorn - Towards Ipsissimus
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=41145&sort=pd.name&order=ASC) for $18.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=41145&sort=pd.name&order=ASC) for $14.40

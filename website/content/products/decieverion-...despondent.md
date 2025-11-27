@@ -1,10 +1,10 @@
 ---
-actualPrice: $8.00
+actualPrice: $6.40
 album: '...Despondent'
 artist: Decieverion
 categories:
 - Vinyl
-date: '2025-08-15T05:20:50'
+date: '2025-11-27T06:17:22'
 draft: false
 images:
 - /images/covers/decieverion-...despondent.jpg
@@ -14,4 +14,4 @@ title: Decieverion - ...Despondent
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=24685&sort=pd.name&order=ASC) for $8.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=24685&sort=pd.name&order=ASC) for $6.40

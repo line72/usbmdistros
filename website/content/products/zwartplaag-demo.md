@@ -1,10 +1,10 @@
 ---
-actualPrice: $5.00
+actualPrice: $4.00
 album: Demo
 artist: Zwartplaag
 categories:
 - Cassette
-date: '2025-08-15T05:22:51'
+date: '2025-11-27T06:19:17'
 draft: false
 images:
 - /images/covers/zwartplaag-demo.png
@@ -14,4 +14,4 @@ title: Zwartplaag - Demo
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=901&sort=pd.name&order=ASC) for $5.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=901&sort=pd.name&order=ASC) for $4.00

@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00
+actualPrice: $9.60
 album: At The Behest Of Time
 artist: Shroud Of Satan
 categories:
 - CD
-date: '2025-08-15T05:21:59'
+date: '2025-11-27T06:18:26'
 draft: false
 images:
 - /images/covers/shroud_of_satan-at_the_behest_of_time.jpg
@@ -14,4 +14,4 @@ title: Shroud Of Satan - At The Behest Of Time
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=27759&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=27759&sort=pd.name&order=ASC) for $9.60

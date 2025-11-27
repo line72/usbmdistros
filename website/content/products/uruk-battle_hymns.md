@@ -1,10 +1,10 @@
 ---
-actualPrice: $8.00
+actualPrice: $6.40
 album: Battle Hymns
 artist: Uruk
 categories:
 - Cassette
-date: '2025-08-15T05:22:48'
+date: '2025-11-27T06:19:14'
 draft: false
 images:
 - /images/covers/uruk-battle_hymns.jpg
@@ -14,4 +14,4 @@ title: Uruk - Battle Hymns
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=17327&sort=pd.name&order=ASC) for $8.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=17327&sort=pd.name&order=ASC) for $6.40

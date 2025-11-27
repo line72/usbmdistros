@@ -1,10 +1,10 @@
 ---
-actualPrice: $30.00
+actualPrice: $24.00
 album: Embittered Amidst the Ashes
 artist: Carved Cross
 categories:
 - Vinyl
-date: '2025-08-15T05:19:35'
+date: '2025-11-27T06:16:14'
 draft: false
 images:
 - /images/covers/carved_cross-embittered_amidst_the_ashes.jpg
@@ -14,4 +14,4 @@ title: Carved Cross - Embittered Amidst the Ashes
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=57831&sort=pd.name&order=ASC) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=57831&sort=pd.name&order=ASC) for $24.00
