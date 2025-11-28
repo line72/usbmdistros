@@ -15,4 +15,3 @@ title: Hate Forest - Celestial Wanderer
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=62615&sort=pd.name&order=ASC) for $12.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=63622&sort=pd.name&order=ASC) for $12.00

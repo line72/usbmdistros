@@ -1,10 +1,10 @@
 ---
-actualPrice: $11.00
+actualPrice: $9.00
 album: Immemorial
 artist: Yith
 categories:
 - CD
-date: '2023-07-19T08:40:58'
+date: '2025-11-28T06:28:36'
 draft: false
 images:
 - /images/covers/yith-immemorial.jpg
@@ -14,4 +14,4 @@ title: Yith - Immemorial
 ---
 
 ## CD
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/yith-immemorial-cd-1) for $11.00 :: CD 2018
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/yith-immemorial-cd-1) for $9.00 :: CD 2018

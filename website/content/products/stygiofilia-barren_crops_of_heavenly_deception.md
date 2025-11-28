@@ -1,10 +1,10 @@
 ---
-actualPrice: $9.00
+actualPrice: $8.00
 album: Barren Crops of Heavenly Deception
 artist: Stygiofilia
 categories:
 - Cassette
-date: '2023-03-07T14:03:47'
+date: '2025-11-28T06:28:58'
 draft: false
 images:
 - /images/covers/stygiofilia-barren_crops_of_heavenly_deception.jpg
@@ -14,4 +14,4 @@ title: Stygiofilia - Barren Crops of Heavenly Deception
 ---
 
 ## Cassette
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/stygiofilia-barren-crops-of-heavenly-deception-cassette) for $9.00 :: Cassette Tape 1st press
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/stygiofilia-barren-crops-of-heavenly-deception-cassette) for $8.00 :: Cassette Tape 1st press

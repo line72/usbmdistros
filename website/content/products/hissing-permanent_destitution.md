@@ -1,10 +1,10 @@
 ---
-actualPrice: $26.00
+actualPrice: $19.00
 album: Permanent Destitution
 artist: Hissing
 categories:
 - Vinyl
-date: '2024-07-06T05:22:44'
+date: '2025-11-28T06:28:18'
 draft: false
 images:
 - /images/covers/hissing-permanent_destitution.jpg
@@ -14,5 +14,5 @@ title: Hissing - Permanent Destitution
 ---
 
 ## Vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/hissing-permanent-destitution) for $26.00 :: Black 2018 press vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/hissing-permanent-destitution) for $26.00 :: Merge w/ Splatter 2018 press
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/hissing-permanent-destitution) for $19.00 :: Black 2018 press vinyl
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/hissing-permanent-destitution) for $19.00 :: Merge w/ Splatter 2018 press

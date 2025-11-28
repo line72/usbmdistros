@@ -1,10 +1,10 @@
 ---
-actualPrice: $30.00
+actualPrice: $27.00
 album: Behold.Total.Rejection
 artist: Revenge
 categories:
 - Vinyl
-date: '2025-01-28T06:38:13'
+date: '2025-11-28T06:27:45'
 draft: false
 images:
 - /images/covers/revenge-behold.total.rejection.jpg
@@ -14,4 +14,4 @@ title: Revenge - Behold.Total.Rejection
 ---
 
 ## Vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/revenge-behold-total-rejection-lp) for $30.00 :: Black 2019 press vinyl
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/revenge-behold-total-rejection-lp) for $27.00 :: Black 2019 press vinyl

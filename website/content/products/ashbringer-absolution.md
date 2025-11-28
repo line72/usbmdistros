@@ -1,10 +1,10 @@
 ---
-actualPrice: $7.00
+actualPrice: $6.00
 album: Absolution
 artist: Ashbringer
 categories:
 - CD
-date: '2025-11-27T06:28:34'
+date: '2025-11-28T06:28:21'
 draft: false
 images:
 - /images/covers/ashbringer-absolution.jpg
@@ -14,4 +14,4 @@ title: Ashbringer - Absolution
 ---
 
 ## CD
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/ashbringer-absolution-cd) for $7.00 :: Digipak 2019
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/ashbringer-absolution-cd) for $6.00 :: Digipak 2019

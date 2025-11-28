@@ -1,10 +1,10 @@
 ---
-actualPrice: $13.00
+actualPrice: $10.00
 album: Hope Attrition
 artist: Woe
 categories:
 - CD
-date: '2024-08-05T05:44:35'
+date: '2025-11-28T06:28:14'
 draft: false
 images:
 - /images/covers/woe-hope_attrition.jpg
@@ -14,4 +14,4 @@ title: Woe - Hope Attrition
 ---
 
 ## CD
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/woe-hope-attrition-cd-1) for $13.00 :: CD 2017
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/woe-hope-attrition-cd-1) for $10.00 :: CD 2017

@@ -1,10 +1,10 @@
 ---
-actualPrice: $10.00
+actualPrice: $8.00
 album: "\xC4ra Kr\xE2"
 artist: "\xC4ra Kr\xE2"
 categories:
 - Vinyl
-date: '2025-11-18T06:35:32'
+date: '2025-11-28T06:28:47'
 draft: false
 images:
 - "/images/covers/\xE4ra_kr\xE2-\xE4ra_kr\xE2.jpg"
@@ -14,4 +14,4 @@ title: "\xC4ra Kr\xE2 - \xC4ra Kr\xE2"
 ---
 
 ## Vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/ara-kra-ara-kra-lp) for $10.00 :: Clear 2015 press vinyl
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/ara-kra-ara-kra-lp) for $8.00 :: Clear 2015 press vinyl

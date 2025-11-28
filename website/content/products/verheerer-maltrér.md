@@ -1,10 +1,10 @@
 ---
-actualPrice: $13.00
+actualPrice: $10.00
 album: "Maltr\xE9r"
 artist: Verheerer
 categories:
 - CD
-date: '2023-11-19T09:04:25'
+date: '2025-11-28T06:27:17'
 draft: false
 images:
 - "/images/covers/verheerer-maltr\xE9r.jpg"
@@ -14,4 +14,4 @@ title: "Verheerer - Maltr\xE9r"
 ---
 
 ## CD
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/verheerer-maltrer-cd-1) for $13.00 :: CD 2018
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/verheerer-maltrer-cd-1) for $10.00 :: CD 2018

@@ -1,10 +1,10 @@
 ---
-actualPrice: $23.00
+actualPrice: $15.00
 album: Sin
 artist: Veld
 categories:
 - Vinyl
-date: '2025-07-04T05:35:04'
+date: '2025-11-28T06:27:39'
 draft: false
 images:
 - /images/covers/veld-sin.jpg
@@ -14,4 +14,4 @@ title: Veld - Sin
 ---
 
 ## Vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/veld-sin-lp) for $23.00 :: Blue 2018 press vinyl
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/veld-sin-lp) for $15.00 :: Blue 2018 press vinyl

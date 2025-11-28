@@ -1,10 +1,10 @@
 ---
-actualPrice: $28.00
+actualPrice: $25.00
 album: The Downward Descent
 artist: Darvaza
 categories:
 - Vinyl
-date: '2025-06-20T05:34:32'
+date: '2025-11-28T06:27:40'
 draft: false
 images:
 - /images/covers/darvaza-the_downward_descent.jpg
@@ -14,4 +14,4 @@ title: Darvaza - The Downward Descent
 ---
 
 ## Vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/darvaza-the-downward-descent-lp) for $28.00 :: Black 2019 press vinyl
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/darvaza-the-downward-descent-lp) for $25.00 :: Black 2019 press vinyl

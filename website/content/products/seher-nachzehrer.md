@@ -1,10 +1,10 @@
 ---
-actualPrice: $15.00
+actualPrice: $8.00
 album: Nachzehrer
 artist: Seher
 categories:
 - Vinyl
-date: '2022-12-05T06:22:14'
+date: '2025-11-28T06:28:47'
 draft: false
 images:
 - /images/covers/seher-nachzehrer.jpg
@@ -14,4 +14,4 @@ title: Seher - Nachzehrer
 ---
 
 ## Vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/seher-nachzehrer-lp) for $15.00 :: Black 2016 press vinyl
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/seher-nachzehrer-lp) for $8.00 :: Black 2016 press vinyl

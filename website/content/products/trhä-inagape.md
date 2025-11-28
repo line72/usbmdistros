@@ -21,4 +21,3 @@ title: "Trh\xE4 - Inagape"
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/used-trha-inagape-cassette) for $10.00 :: Cassette 2022
 ## CD
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/trha-inagape-cd) for $15.00 :: Digipak 2024
-* Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/trha-inagape-cd-digipak) for $14.99 :: (digipak) [trha]

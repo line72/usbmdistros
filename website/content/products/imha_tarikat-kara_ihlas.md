@@ -1,10 +1,10 @@
 ---
-actualPrice: $13.00
+actualPrice: $10.00
 album: Kara Ihlas
 artist: Imha Tarikat
 categories:
 - CD
-date: '2023-11-19T09:04:23'
+date: '2025-11-28T06:28:29'
 draft: false
 images:
 - /images/covers/imha_tarikat-kara_ihlas.png
@@ -14,4 +14,4 @@ title: Imha Tarikat - Kara Ihlas
 ---
 
 ## CD
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/imha-tarikat-kara-ihlas-cd) for $13.00 :: CD 2019
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/imha-tarikat-kara-ihlas-cd) for $10.00 :: CD 2019
