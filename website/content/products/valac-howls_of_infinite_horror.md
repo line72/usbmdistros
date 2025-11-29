@@ -5,7 +5,6 @@ artist: Valac
 categories:
 - Vinyl
 - Cassette
-- CD
 date: '2025-11-27T06:19:14'
 draft: false
 images:
@@ -21,5 +20,3 @@ title: Valac - Howls of Infinite Horror
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=48109&sort=pd.name&order=ASC) for $20.00
 ## Cassette
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=40527&sort=pd.name&order=ASC) for $12.00
-## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=40525&sort=pd.name&order=ASC) for $12.00

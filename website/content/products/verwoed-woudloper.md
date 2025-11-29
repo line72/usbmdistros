@@ -1,10 +1,10 @@
 ---
-actualPrice: $23.00
+actualPrice: $18.00
 album: Woudloper
 artist: Verwoed
 categories:
 - Vinyl
-date: '2025-02-26T06:33:41'
+date: '2025-11-29T06:28:08'
 draft: false
 images:
 - /images/covers/verwoed-woudloper.jpg
@@ -14,4 +14,4 @@ title: Verwoed - Woudloper
 ---
 
 ## Vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/verwoed-woudloper-lp) for $23.00 :: Black 2020 press vinyl
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/verwoed-woudloper-lp) for $18.00 :: Black 2020 press vinyl

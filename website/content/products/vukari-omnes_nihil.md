@@ -4,7 +4,6 @@ album: Omnes Nihil
 artist: Vukari
 categories:
 - Vinyl
-- CD
 date: '2025-11-27T06:28:43'
 draft: false
 images:
@@ -20,5 +19,3 @@ title: Vukari - Omnes Nihil
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/vukari-omnes-nihil-tee) for $15.00 :: L - Large
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/vukari-omnes-nihil-tee) for $15.00 :: XL - Extra Large
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/vukari-omnes-nihil-tee) for $15.00 :: 2XL - Extra-Extra Large
-## CD
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/vukari-omnes-nihil-cd) for $13.00 :: CD 2022

@@ -1,10 +1,10 @@
 ---
-actualPrice: $10.00
+actualPrice: $8.00
 album: Hierophant Violent
 artist: Forlesen
 categories:
 - CD
-date: '2025-04-11T05:33:27'
+date: '2025-11-29T06:28:03'
 draft: false
 images:
 - /images/covers/forlesen-hierophant_violent.png
@@ -14,4 +14,4 @@ title: Forlesen - Hierophant Violent
 ---
 
 ## CD
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/forlesen-hierophant-violent-cd) for $10.00 :: Digipak 2020
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/forlesen-hierophant-violent-cd) for $8.00 :: Digipak 2020

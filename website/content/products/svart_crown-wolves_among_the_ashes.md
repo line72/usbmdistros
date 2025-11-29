@@ -1,10 +1,10 @@
 ---
-actualPrice: $20.00
+actualPrice: $8.00
 album: Wolves Among The Ashes
 artist: Svart Crown
 categories:
 - Vinyl
-date: '2025-11-18T06:35:11'
+date: '2025-11-29T06:28:43'
 draft: false
 images:
 - /images/covers/svart_crown-wolves_among_the_ashes.png
@@ -14,4 +14,4 @@ title: Svart Crown - Wolves Among The Ashes
 ---
 
 ## Vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/svart-crown-wolves-among-the-ashes-lp) for $20.00 :: Red 2020 press vinyl
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/svart-crown-wolves-among-the-ashes-lp) for $8.00 :: Red 2020 press vinyl

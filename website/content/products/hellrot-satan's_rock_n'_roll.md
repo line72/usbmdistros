@@ -1,10 +1,10 @@
 ---
-actualPrice: $8.00
+actualPrice: $5.00
 album: Satan's Rock n' Roll
 artist: Hellrot
 categories:
 - CD
-date: '2024-07-06T05:22:37'
+date: '2025-11-29T06:28:33'
 draft: false
 images:
 - /images/covers/hellrot-satan's_rock_n'_roll.jpg
@@ -14,4 +14,4 @@ title: Hellrot - Satan's Rock n' Roll
 ---
 
 ## CD
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/hellrot-satans-rock-n-roll-cd) for $8.00 :: Jewel Case 2020
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/hellrot-satans-rock-n-roll-cd) for $5.00 :: Jewel Case 2020

@@ -14,5 +14,4 @@ title: Mork Gryning - Pieces Of Primal Expressionism
 ---
 
 ## Vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/mork-gryning-pieces) for $20.00 :: Black 1st press vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/mork-gryning-pieces) for $20.00 :: Clear 1st press vinyl

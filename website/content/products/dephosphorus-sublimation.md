@@ -1,10 +1,10 @@
 ---
-actualPrice: $10.00
+actualPrice: $8.00
 album: Sublimation
 artist: Dephosphorus
 categories:
 - Vinyl
-date: '2025-11-18T06:35:27'
+date: '2025-11-29T06:28:59'
 draft: false
 images:
 - /images/covers/dephosphorus-sublimation.jpg
@@ -14,4 +14,4 @@ title: Dephosphorus - Sublimation
 ---
 
 ## Vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/dephosphorus-sublimation-lp) for $10.00 :: Clear 2020 press vinyl
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/dephosphorus-sublimation-lp) for $8.00 :: Clear 2020 press vinyl

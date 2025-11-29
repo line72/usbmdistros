@@ -1,11 +1,11 @@
 ---
-actualPrice: $6.00 - 25.00
+actualPrice: $5.00 - 25.00
 album: Ternary Curse
 artist: Pharmakeia
 categories:
 - Vinyl
 - Cassette
-date: '2025-11-21T06:34:48'
+date: '2025-11-29T06:27:25'
 draft: false
 images:
 - /images/covers/pharmakeia-ternary_curse.jpg
@@ -18,4 +18,4 @@ title: Pharmakeia - Ternary Curse
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/pharmakeia-ternary-curse) for $25.00 :: Black 1st press vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/pharmakeia-ternary-curse) for $25.00 :: Green/Black 1st press vinyl
 ## Cassette
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/pharmakeia-ternary-curse-cassette) for $6.00 :: Cassette 2020
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/pharmakeia-ternary-curse-cassette) for $5.00 :: Cassette 2020

@@ -4,7 +4,7 @@ album: Old Ghosts
 artist: Circle of Ouroborus
 categories:
 - CD
-date: '2025-11-20T06:03:02'
+date: '2025-11-29T06:02:43'
 draft: false
 images:
 - /images/covers/circle_of_ouroborus-old_ghosts.png

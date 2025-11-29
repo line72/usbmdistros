@@ -1,9 +1,8 @@
 ---
-actualPrice: $14.99 - 29.99
+actualPrice: $14.99
 album: 'Astral Journeys Pt. II: Dissolution'
 artist: Eldamar
 categories:
-- Vinyl
 - Cassette
 - CD
 date: '2025-08-09T05:45:41'
@@ -15,8 +14,6 @@ thumbnailImage: /images/covers/eldamar-astral_journeys_pt._ii:_dissolution-thumb
 title: 'Eldamar - Astral Journeys Pt. II: Dissolution'
 ---
 
-## Vinyl
-* Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/eldamar-astral-journeys-pt-ii-dissolution-vinyl-lp-color-gatefold-lim333) for $29.99 :: (color, gatefold, lim.333)
 ## Cassette
 * Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/eldamar-astral-journeys-pt-ii-dissolution-cassette-tape-lim100) for $14.99 :: uv print, lim.100)
 ## CD
