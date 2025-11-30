@@ -1,5 +1,5 @@
 ---
-actualPrice: $10.00 - 14.99
+actualPrice: $10.00
 album: I
 artist: Blackbraid
 categories:
@@ -14,5 +14,4 @@ title: Blackbraid - I
 ---
 
 ## CD
-* Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/blackbraid-i-cd-digipak) for $14.99 :: (digipak)
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/blackbraid-i-cd) for $10.00 :: Digipak 2022

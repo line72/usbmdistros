@@ -15,4 +15,3 @@ title: Anal Vomit - Demoniac Flagellations
 
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=55994&sort=pd.name&order=ASC) for $9.60
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=58459&sort=pd.name&order=ASC) for $9.60

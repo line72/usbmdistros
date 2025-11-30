@@ -4,7 +4,7 @@ album: Domains of Hell
 artist: Moonblood
 categories:
 - Vinyl
-date: '2025-11-27T06:16:47'
+date: '2025-11-30T06:17:26'
 draft: false
 images:
 - /images/covers/moonblood-domains_of_hell.jpg
@@ -14,4 +14,4 @@ title: Moonblood - Domains of Hell
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=60464&sort=pd.name&order=ASC) for $24.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=64394&sort=pd.name&order=ASC) for $24.00

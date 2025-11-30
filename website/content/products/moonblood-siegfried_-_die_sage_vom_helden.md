@@ -4,7 +4,7 @@ album: Siegfried - Die Sage Vom Helden
 artist: Moonblood
 categories:
 - Vinyl
-date: '2025-11-27T06:16:47'
+date: '2025-11-30T06:17:27'
 draft: false
 images:
 - /images/covers/moonblood-siegfried_-_die_sage_vom_helden.jpg
@@ -14,4 +14,4 @@ title: Moonblood - Siegfried - Die Sage Vom Helden
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=60470&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=64400&sort=pd.name&order=ASC) for $20.00
