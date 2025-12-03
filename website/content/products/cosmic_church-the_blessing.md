@@ -1,10 +1,10 @@
 ---
-actualPrice: $21.60
+actualPrice: $27.00
 album: The Blessing
 artist: Cosmic Church
 categories:
 - Vinyl
-date: '2025-11-27T06:16:16'
+date: '2025-12-03T06:20:10'
 draft: false
 images:
 - /images/covers/cosmic_church-the_blessing.png
@@ -14,4 +14,4 @@ title: Cosmic Church - The Blessing
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=61576&sort=pd.name&order=ASC) for $21.60
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=61576&sort=pd.name&order=ASC) for $27.00

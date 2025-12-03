@@ -1,10 +1,10 @@
 ---
-actualPrice: $9.60
+actualPrice: $12.00
 album: Mercenaries Of Mordor
 artist: Orcrypt
 categories:
 - CD
-date: '2025-11-27T06:18:19'
+date: '2025-12-03T06:22:12'
 draft: false
 images:
 - /images/covers/orcrypt-mercenaries_of_mordor.jpg
@@ -14,4 +14,4 @@ title: Orcrypt - Mercenaries Of Mordor
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=18154&sort=pd.name&order=ASC) for $9.60
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=18154&sort=pd.name&order=ASC) for $12.00

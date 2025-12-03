@@ -1,10 +1,10 @@
 ---
-actualPrice: $24.00
+actualPrice: $30.00
 album: Sadomatic, Impure Artgoat
 artist: Osculum Infame
 categories:
 - Vinyl
-date: '2025-11-27T06:16:54'
+date: '2025-12-03T06:20:47'
 draft: false
 images:
 - /images/covers/osculum_infame-sadomatic,_impure_artgoat.png
@@ -14,4 +14,4 @@ title: Osculum Infame - Sadomatic, Impure Artgoat
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=61894&sort=pd.name&order=ASC) for $24.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=61894&sort=pd.name&order=ASC) for $30.00

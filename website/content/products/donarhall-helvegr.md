@@ -1,10 +1,10 @@
 ---
-actualPrice: $7.20
+actualPrice: $9.00
 album: Helvegr
 artist: Donarhall
 categories:
 - Cassette
-date: '2025-11-27T06:18:50'
+date: '2025-12-03T06:22:43'
 draft: false
 images:
 - /images/covers/donarhall-helvegr.png
@@ -14,4 +14,4 @@ title: Donarhall - Helvegr
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=11325&sort=pd.name&order=ASC) for $7.20
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=11325&sort=pd.name&order=ASC) for $9.00

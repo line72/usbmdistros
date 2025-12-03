@@ -1,10 +1,10 @@
 ---
-actualPrice: $28.00
+actualPrice: $35.00
 album: Desecration Of Sao Paulo
 artist: Blasphemy
 categories:
 - Vinyl
-date: '2025-11-27T06:16:11'
+date: '2025-12-03T06:20:06'
 draft: false
 images:
 - /images/covers/blasphemy-desecration_of_sao_paulo.jpg
@@ -14,4 +14,4 @@ title: Blasphemy - Desecration Of Sao Paulo
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=63272&sort=pd.name&order=ASC) for $28.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=63272&sort=pd.name&order=ASC) for $35.00

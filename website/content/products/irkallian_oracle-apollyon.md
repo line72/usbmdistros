@@ -1,10 +1,10 @@
 ---
-actualPrice: $22.75
+actualPrice: $35.00
 album: Apollyon
 artist: Irkallian Oracle
 categories:
 - Vinyl
-date: '2025-11-27T06:16:37'
+date: '2025-12-03T06:20:29'
 draft: false
 images:
 - /images/covers/irkallian_oracle-apollyon.jpg
@@ -14,4 +14,4 @@ title: Irkallian Oracle - Apollyon
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=11270&sort=pd.name&order=ASC) for $22.75
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=11270&sort=pd.name&order=ASC) for $35.00

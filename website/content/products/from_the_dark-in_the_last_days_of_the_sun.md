@@ -1,11 +1,11 @@
 ---
-actualPrice: $9.60 - 11.00
+actualPrice: $11.00 - 12.00
 album: In The Last Days Of The Sun
 artist: From The Dark
 categories:
 - Cassette
 - CD
-date: '2025-11-27T06:17:55'
+date: '2025-12-03T06:21:48'
 draft: false
 images:
 - /images/covers/from_the_dark-in_the_last_days_of_the_sun.jpg
@@ -17,4 +17,4 @@ title: From The Dark - In The Last Days Of The Sun
 ## Cassette
 * Purchase from [CW Productions](https://shop.cwproductions.net/products/from-the-dark-in-the-last-days-of-the-sun-cd) for $11.00
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=59808&sort=pd.name&order=ASC) for $9.60
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=59808&sort=pd.name&order=ASC) for $12.00

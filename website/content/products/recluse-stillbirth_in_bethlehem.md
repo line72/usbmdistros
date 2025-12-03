@@ -1,11 +1,11 @@
 ---
-actualPrice: $9.60 - 20.00
+actualPrice: $12.00 - 25.00
 album: Stillbirth In Bethlehem
 artist: Recluse
 categories:
 - Vinyl
 - CD
-date: '2025-11-27T06:18:22'
+date: '2025-12-03T06:22:16'
 draft: false
 images:
 - /images/covers/recluse-stillbirth_in_bethlehem.jpg
@@ -15,6 +15,6 @@ title: Recluse - Stillbirth In Bethlehem
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=54199&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=54199&sort=pd.name&order=ASC) for $25.00
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=32415&sort=pd.name&order=ASC) for $9.60
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=32415&sort=pd.name&order=ASC) for $12.00

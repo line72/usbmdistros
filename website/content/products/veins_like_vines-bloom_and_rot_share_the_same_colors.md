@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00
+actualPrice: $15.00
 album: Bloom And Rot Share The Same Colors
 artist: Veins Like Vines
 categories:
 - Cassette
-date: '2025-11-27T06:19:14'
+date: '2025-12-03T06:23:06'
 draft: false
 images:
 - /images/covers/veins_like_vines-bloom_and_rot_share_the_same_colors.png
@@ -14,4 +14,4 @@ title: Veins Like Vines - Bloom And Rot Share The Same Colors
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=51864&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=51864&sort=pd.name&order=ASC) for $15.00

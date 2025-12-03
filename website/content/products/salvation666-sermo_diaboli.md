@@ -1,10 +1,10 @@
 ---
-actualPrice: $6.40
+actualPrice: $8.00
 album: Sermo Diaboli
 artist: Salvation666
 categories:
 - Cassette
-date: '2025-11-27T06:19:09'
+date: '2025-12-03T06:23:00'
 draft: false
 images:
 - /images/covers/salvation666-sermo_diaboli.jpg
@@ -14,4 +14,4 @@ title: Salvation666 - Sermo Diaboli
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=53155&sort=pd.name&order=ASC) for $6.40
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=53155&sort=pd.name&order=ASC) for $8.00

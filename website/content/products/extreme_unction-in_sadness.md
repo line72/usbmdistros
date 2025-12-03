@@ -1,10 +1,10 @@
 ---
-actualPrice: $9.60
+actualPrice: $12.00
 album: In Sadness
 artist: Extreme Unction
 categories:
 - CD
-date: '2025-11-27T06:17:53'
+date: '2025-12-03T06:21:46'
 draft: false
 images:
 - /images/covers/extreme_unction-in_sadness.jpg
@@ -14,4 +14,4 @@ title: Extreme Unction - In Sadness
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=51311&sort=pd.name&order=ASC) for $9.60
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=51311&sort=pd.name&order=ASC) for $12.00

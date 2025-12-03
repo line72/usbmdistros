@@ -1,11 +1,11 @@
 ---
-actualPrice: $12.00 - 24.00
+actualPrice: $15.00 - 30.00
 album: Gedachte & Geheugen
 artist: Lugubrum
 categories:
 - Vinyl
 - CD
-date: '2025-11-27T06:18:10'
+date: '2025-12-03T06:22:01'
 draft: false
 images:
 - /images/covers/lugubrum-gedachte_&_geheugen.jpg
@@ -15,6 +15,6 @@ title: Lugubrum - Gedachte & Geheugen
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=63825&sort=pd.name&order=ASC) for $24.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=63825&sort=pd.name&order=ASC) for $30.00
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=63824&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=63824&sort=pd.name&order=ASC) for $15.00

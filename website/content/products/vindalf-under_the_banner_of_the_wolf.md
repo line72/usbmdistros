@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00
+actualPrice: $15.00
 album: Under the Banner of the Wolf
 artist: Vindalf
 categories:
 - CD
-date: '2025-11-27T06:18:37'
+date: '2025-12-03T06:22:29'
 draft: false
 images:
 - /images/covers/vindalf-under_the_banner_of_the_wolf.png
@@ -14,4 +14,4 @@ title: Vindalf - Under the Banner of the Wolf
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=56483&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=56483&sort=pd.name&order=ASC) for $15.00

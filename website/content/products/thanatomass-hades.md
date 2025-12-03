@@ -1,10 +1,10 @@
 ---
-actualPrice: $20.00
+actualPrice: $25.00
 album: Hades
 artist: Thanatomass
 categories:
 - Vinyl
-date: '2025-11-27T06:17:08'
+date: '2025-12-03T06:20:59'
 draft: false
 images:
 - /images/covers/thanatomass-hades.png
@@ -14,4 +14,4 @@ title: Thanatomass - Hades
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=58041&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=58041&sort=pd.name&order=ASC) for $25.00

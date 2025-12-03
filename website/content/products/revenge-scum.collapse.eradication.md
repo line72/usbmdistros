@@ -1,10 +1,10 @@
 ---
-actualPrice: $9.75
+actualPrice: $15.00
 album: Scum.Collapse.Eradication
 artist: Revenge
 categories:
 - CD
-date: '2025-11-27T06:18:23'
+date: '2025-12-03T06:22:16'
 draft: false
 images:
 - /images/covers/revenge-scum.collapse.eradication.jpg
@@ -14,4 +14,4 @@ title: Revenge - Scum.Collapse.Eradication
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=9583&sort=pd.name&order=ASC) for $9.75
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=9583&sort=pd.name&order=ASC) for $15.00

@@ -4,7 +4,7 @@ album: Celestial Wanderer / Sowing with Salt
 artist: Hate Forest
 categories:
 - CD
-date: '2025-10-02T05:19:31'
+date: '2025-12-03T06:33:21'
 draft: false
 images:
 - /images/covers/hate_forest-celestial_wanderer_-_sowing_with_salt.jpg
@@ -14,4 +14,4 @@ title: Hate Forest - Celestial Wanderer / Sowing with Salt
 ---
 
 ## CD
-* Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/hate-forest-celestial-wanderer-sowing-with-salt-cd/) for $15.00 :: celestial wanderer / sowing with salt cd
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/hate-forest-celestial-wanderer-sowing-with-salt-cd) for $15.00 :: Jewel Case 2023

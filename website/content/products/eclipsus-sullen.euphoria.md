@@ -1,10 +1,10 @@
 ---
-actualPrice: $9.60
+actualPrice: $12.00
 album: Sullen.Euphoria
 artist: Eclipsus
 categories:
 - Cassette
-date: '2025-11-27T06:18:50'
+date: '2025-12-03T06:22:44'
 draft: false
 images:
 - /images/covers/eclipsus-sullen.euphoria.jpg
@@ -14,5 +14,5 @@ title: Eclipsus - Sullen.Euphoria
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=49651&sort=pd.name&order=ASC) for $9.60
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=49639&sort=pd.name&order=ASC) for $9.60
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=49651&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=49639&sort=pd.name&order=ASC) for $12.00

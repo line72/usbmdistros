@@ -1,11 +1,11 @@
 ---
-actualPrice: $9.60 - 22.75
+actualPrice: $12.00 - 35.00
 album: Bound by Spells
 artist: StarGazer
 categories:
 - Vinyl
 - CD
-date: '2025-11-27T06:18:29'
+date: '2025-12-03T06:22:22'
 draft: false
 images:
 - /images/covers/stargazer-bound_by_spells.jpg
@@ -15,6 +15,6 @@ title: StarGazer - Bound by Spells
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=64304&sort=pd.name&order=ASC) for $22.75
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=64304&sort=pd.name&order=ASC) for $35.00
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=58361&sort=pd.name&order=ASC) for $9.60
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=58361&sort=pd.name&order=ASC) for $12.00

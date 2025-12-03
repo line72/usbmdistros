@@ -1,10 +1,10 @@
 ---
-actualPrice: $7.80
+actualPrice: $12.00
 album: "Sabbat Of Beheza\xEBl + S/T"
 artist: Perverted Ceremony
 categories:
 - CD
-date: '2025-11-27T06:18:20'
+date: '2025-12-03T06:22:13'
 draft: false
 images:
 - "/images/covers/perverted_ceremony-sabbat_of_beheza\xEBl_+_s-t.jpg"
@@ -14,4 +14,4 @@ title: "Perverted Ceremony - Sabbat Of Beheza\xEBl + S/T"
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=61730&sort=pd.name&order=ASC) for $7.80
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=61730&sort=pd.name&order=ASC) for $12.00

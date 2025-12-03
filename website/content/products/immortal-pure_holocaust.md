@@ -1,11 +1,11 @@
 ---
-actualPrice: $12.00 - 34.99
+actualPrice: $15.00 - 34.99
 album: Pure Holocaust
 artist: Immortal
 categories:
 - Vinyl
 - CD
-date: '2025-11-27T06:18:04'
+date: '2025-12-03T06:33:22'
 draft: false
 images:
 - /images/covers/immortal-pure_holocaust.jpg
@@ -19,6 +19,7 @@ title: Immortal - Pure Holocaust
 * Purchase from [Sto'Vo'Kor Records](https://stovokor-records.com/products/immortal-pure-holocaust-black) for $22.00
 * Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/immortal-pure-holocaust-half-half-red-blue-splatter-limited-color-vinyl) for $34.99 :: half/half red & blue splatter limited color vinyl
 * Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/immortal-pure-holocaust-black-clear-vinyl-lp) for $22.99 :: black clear vinyl lp
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=64178&sort=pd.name&order=ASC) for $24.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=64178&sort=pd.name&order=ASC) for $30.00
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=61547&sort=pd.name&order=ASC) for $12.00
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/immortal-pure-holocaust-cd) for $17.00 :: Jewel Case 2023
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=61547&sort=pd.name&order=ASC) for $15.00

@@ -1,10 +1,10 @@
 ---
-actualPrice: $9.60
+actualPrice: $12.00
 album: "The Battle Of J\xF3rv\xEDk"
 artist: Panzerwar
 categories:
 - Cassette
-date: '2025-11-27T06:19:06'
+date: '2025-12-03T06:22:57'
 draft: false
 images:
 - "/images/covers/panzerwar-the_battle_of_j\xF3rv\xEDk.png"
@@ -14,4 +14,4 @@ title: "Panzerwar - The Battle Of J\xF3rv\xEDk"
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=28578&sort=pd.name&order=ASC) for $9.60
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=28578&sort=pd.name&order=ASC) for $12.00

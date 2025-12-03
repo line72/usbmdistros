@@ -1,10 +1,10 @@
 ---
-actualPrice: $9.60
+actualPrice: $12.00
 album: "Legenda Neskrotn\xFDch \u017Divlov"
 artist: Evil
 categories:
 - CD
-date: '2025-11-27T06:17:52'
+date: '2025-12-03T06:21:46'
 draft: false
 images:
 - "/images/covers/evil-legenda_neskrotn\xFDch_\u017Eivlov.png"
@@ -14,4 +14,4 @@ title: "Evil - Legenda Neskrotn\xFDch \u017Divlov"
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=62199&sort=pd.name&order=ASC) for $9.60
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=62199&sort=pd.name&order=ASC) for $12.00

@@ -1,10 +1,10 @@
 ---
-actualPrice: $9.60
+actualPrice: $12.00
 album: Solitary Forest Necromancy
 artist: Azathoth's Dream
 categories:
 - CD
-date: '2025-11-27T06:17:38'
+date: '2025-12-03T06:21:29'
 draft: false
 images:
 - /images/covers/azathoth's_dream-solitary_forest_necromancy.png
@@ -14,4 +14,4 @@ title: Azathoth's Dream - Solitary Forest Necromancy
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=62411&sort=pd.name&order=ASC) for $9.60
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=62411&sort=pd.name&order=ASC) for $12.00

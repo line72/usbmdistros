@@ -1,10 +1,10 @@
 ---
-actualPrice: $9.60 - 17.00
+actualPrice: $12.00
 album: The Gates
 artist: Hate Forest
 categories:
 - CD
-date: '2025-11-27T06:17:58'
+date: '2025-12-03T06:21:52'
 draft: false
 images:
 - /images/covers/hate_forest-the_gates.png
@@ -14,5 +14,4 @@ title: Hate Forest - The Gates
 ---
 
 ## CD
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/hate-forest-the-gates-cd) for $17.00 :: Jewel Case 2023
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=63623&sort=pd.name&order=ASC) for $9.60
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=63623&sort=pd.name&order=ASC) for $12.00

@@ -1,10 +1,10 @@
 ---
-actualPrice: $7.80
+actualPrice: $12.00
 album: Demo
 artist: Blasphemy
 categories:
 - Cassette
-date: '2025-11-27T06:18:45'
+date: '2025-12-03T06:22:36'
 draft: false
 images:
 - /images/covers/blasphemy-demo.png
@@ -14,4 +14,4 @@ title: Blasphemy - Demo
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=63279&sort=pd.name&order=ASC) for $7.80
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=63279&sort=pd.name&order=ASC) for $12.00

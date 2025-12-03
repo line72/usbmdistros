@@ -1,10 +1,10 @@
 ---
-actualPrice: $9.60
+actualPrice: $12.00
 album: Fallen
 artist: Burzum
 categories:
 - CD
-date: '2025-11-27T06:17:42'
+date: '2025-12-03T06:21:32'
 draft: false
 images:
 - /images/covers/burzum-fallen.jpg
@@ -14,4 +14,4 @@ title: Burzum - Fallen
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=57712&sort=pd.name&order=ASC) for $9.60
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=57712&sort=pd.name&order=ASC) for $12.00

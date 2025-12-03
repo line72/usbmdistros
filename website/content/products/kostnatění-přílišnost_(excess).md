@@ -1,9 +1,8 @@
 ---
-actualPrice: $13.00 - 29.00
+actualPrice: $13.00
 album: "P\u0159\xEDli\u0161nost (Excess)"
 artist: "Kostnat\u011Bn\xED"
 categories:
-- Vinyl
 - CD
 date: '2025-11-19T06:34:54'
 draft: false
@@ -14,7 +13,5 @@ thumbnailImage: "/images/covers/kostnat\u011Bn\xED-p\u0159\xEDli\u0161nost_(exce
 title: "Kostnat\u011Bn\xED - P\u0159\xEDli\u0161nost (Excess)"
 ---
 
-## Vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/kostnateni-prilisnost-excess-lp) for $29.00 :: Color 2025 press vinyl
 ## CD
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/kostnateni-prilisnost-excess-cd) for $13.00 :: Jewel Case 2025

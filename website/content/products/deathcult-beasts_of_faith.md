@@ -1,10 +1,10 @@
 ---
-actualPrice: $9.60
+actualPrice: $12.00
 album: Beasts of Faith
 artist: Deathcult
 categories:
 - CD
-date: '2025-11-27T06:17:47'
+date: '2025-12-03T06:21:40'
 draft: false
 images:
 - /images/covers/deathcult-beasts_of_faith.jpg
@@ -14,4 +14,4 @@ title: Deathcult - Beasts of Faith
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=62195&sort=pd.name&order=ASC) for $9.60
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=62195&sort=pd.name&order=ASC) for $12.00

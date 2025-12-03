@@ -1,10 +1,10 @@
 ---
-actualPrice: $20.00
+actualPrice: $25.00
 album: Independence To The Beast
 artist: Canis Dirus
 categories:
 - Vinyl
-date: '2025-11-27T06:16:14'
+date: '2025-12-03T06:20:08'
 draft: false
 images:
 - /images/covers/canis_dirus-independence_to_the_beast.jpg
@@ -14,4 +14,4 @@ title: Canis Dirus - Independence To The Beast
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=59574&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=59574&sort=pd.name&order=ASC) for $25.00

@@ -1,10 +1,10 @@
 ---
-actualPrice: $20.00 - 27.00
+actualPrice: $27.00 - 30.00
 album: "S\xF6hne Des Teufels / Angriffspanzer"
 artist: Der Tod Und Die Landsknechte
 categories:
 - Vinyl
-date: '2025-11-27T06:16:20'
+date: '2025-12-03T06:20:14'
 draft: false
 images:
 - "/images/covers/der_tod_und_die_landsknechte-s\xF6hne_des_teufels_-_angriffspanzer.png"
@@ -15,4 +15,4 @@ title: "Der Tod Und Die Landsknechte - S\xF6hne Des Teufels / Angriffspanzer"
 
 ## Vinyl
 * Purchase from [CW Productions](https://shop.cwproductions.net/products/der-tod-und-die-landsknechte-sohne-des-teufels-angriffspanzer-lp) for $27.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=64245&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=64245&sort=pd.name&order=ASC) for $30.00

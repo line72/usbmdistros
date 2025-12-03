@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00
+actualPrice: $15.00
 album: De Masticatione Mortuorum in Tumulis
 artist: "\xC6vangelist"
 categories:
 - Vinyl
-date: '2025-11-27T06:17:19'
+date: '2025-12-03T06:21:12'
 draft: false
 images:
 - "/images/covers/\xE6vangelist-de_masticatione_mortuorum_in_tumulis.jpg"
@@ -14,4 +14,4 @@ title: "\xC6vangelist - De Masticatione Mortuorum in Tumulis"
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=40132&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=40132&sort=pd.name&order=ASC) for $15.00

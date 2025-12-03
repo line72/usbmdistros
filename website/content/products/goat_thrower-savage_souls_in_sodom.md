@@ -1,10 +1,10 @@
 ---
-actualPrice: $9.60
+actualPrice: $12.00
 album: Savage Souls In Sodom
 artist: Goat Thrower
 categories:
 - CD
-date: '2025-11-27T06:17:56'
+date: '2025-12-03T06:21:49'
 draft: false
 images:
 - /images/covers/goat_thrower-savage_souls_in_sodom.jpg
@@ -14,4 +14,4 @@ title: Goat Thrower - Savage Souls In Sodom
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=15424&sort=pd.name&order=ASC) for $9.60
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=15424&sort=pd.name&order=ASC) for $12.00

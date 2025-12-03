@@ -1,10 +1,10 @@
 ---
-actualPrice: $7.20
+actualPrice: $9.00
 album: Marrasmaat
 artist: Marrasmaat
 categories:
 - Vinyl
-date: '2025-11-27T06:17:26'
+date: '2025-12-03T06:21:19'
 draft: false
 images:
 - /images/covers/marrasmaat-marrasmaat.jpg
@@ -14,4 +14,4 @@ title: Marrasmaat - Marrasmaat
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=1782&sort=pd.name&order=ASC) for $7.20
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=1782&sort=pd.name&order=ASC) for $9.00

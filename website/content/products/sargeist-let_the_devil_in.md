@@ -1,12 +1,12 @@
 ---
-actualPrice: $12.00 - 27.00
+actualPrice: $13.50 - 27.00
 album: Let the Devil In
 artist: Sargeist
 categories:
 - Vinyl
 - Cassette
 - CD
-date: '2025-11-27T06:18:25'
+date: '2025-12-03T06:22:18'
 draft: false
 images:
 - /images/covers/sargeist-let_the_devil_in.jpg
@@ -21,4 +21,4 @@ title: Sargeist - Let the Devil In
 ## Cassette
 * Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/sargeist-let-the-devil-in-cassette/) for $13.50
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=62008&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=62008&sort=pd.name&order=ASC) for $15.00

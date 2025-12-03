@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00
+actualPrice: $15.00
 album: Demo
 artist: Yahwist
 categories:
 - Cassette
-date: '2025-11-27T06:19:17'
+date: '2025-12-03T06:23:08'
 draft: false
 images:
 - /images/covers/yahwist-demo.png
@@ -14,4 +14,4 @@ title: Yahwist - Demo
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=60872&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=60872&sort=pd.name&order=ASC) for $15.00

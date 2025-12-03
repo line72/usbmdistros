@@ -4,7 +4,7 @@ album: A Requiem For The Light
 artist: GRIMOIRE
 categories:
 - Vinyl
-date: '2025-07-08T05:01:49'
+date: '2025-12-03T06:02:16'
 draft: false
 images:
 - /images/covers/grimoire-a_requiem_for_the_light.png

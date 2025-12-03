@@ -1,11 +1,11 @@
 ---
-actualPrice: $12.00 - 20.00
+actualPrice: $15.00 - 25.00
 album: Roaring Eye
 artist: Nubivagant
 categories:
 - Vinyl
 - CD
-date: '2025-11-27T06:18:17'
+date: '2025-12-03T06:22:11'
 draft: false
 images:
 - /images/covers/nubivagant-roaring_eye.jpg
@@ -15,6 +15,6 @@ title: Nubivagant - Roaring Eye
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=56396&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=56396&sort=pd.name&order=ASC) for $25.00
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=60619&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=60619&sort=pd.name&order=ASC) for $15.00

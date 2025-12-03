@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00
+actualPrice: $15.00
 album: Vittra
 artist: Skogen
 categories:
 - CD
-date: '2025-11-27T06:18:27'
+date: '2025-12-03T06:22:20'
 draft: false
 images:
 - /images/covers/skogen-vittra.jpg
@@ -14,4 +14,4 @@ title: Skogen - Vittra
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=54879&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=54879&sort=pd.name&order=ASC) for $15.00

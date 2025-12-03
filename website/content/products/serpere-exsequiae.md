@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00
+actualPrice: $15.00
 album: Exsequiae
 artist: Serpere
 categories:
 - Cassette
-date: '2025-11-27T06:19:10'
+date: '2025-12-03T06:23:01'
 draft: false
 images:
 - /images/covers/serpere-exsequiae.png
@@ -14,4 +14,4 @@ title: Serpere - Exsequiae
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=61556&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=61556&sort=pd.name&order=ASC) for $15.00

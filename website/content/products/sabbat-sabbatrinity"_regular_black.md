@@ -1,10 +1,10 @@
 ---
-actualPrice: $19.50
+actualPrice: $30.00
 album: Sabbatrinity" Regular Black
 artist: Sabbat
 categories:
 - Vinyl
-date: '2025-11-27T06:16:59'
+date: '2025-12-03T06:20:52'
 draft: false
 images:
 - /images/covers/sabbat-sabbatrinity"_regular_black.png
@@ -14,4 +14,4 @@ title: Sabbat - Sabbatrinity" Regular Black
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=63911&sort=pd.name&order=ASC) for $19.50
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=63911&sort=pd.name&order=ASC) for $30.00

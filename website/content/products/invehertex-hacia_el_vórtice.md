@@ -1,10 +1,10 @@
 ---
-actualPrice: $8.00
+actualPrice: $10.00
 album: "Hacia El V\xF3rtice"
 artist: Invehertex
 categories:
 - CD
-date: '2025-11-27T06:18:06'
+date: '2025-12-03T06:21:57'
 draft: false
 images:
 - "/images/covers/invehertex-hacia_el_v\xF3rtice.jpg"
@@ -14,4 +14,4 @@ title: "Invehertex - Hacia El V\xF3rtice"
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=8972&sort=pd.name&order=ASC) for $8.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=8972&sort=pd.name&order=ASC) for $10.00

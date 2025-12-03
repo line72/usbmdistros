@@ -1,10 +1,10 @@
 ---
-actualPrice: $8.00
+actualPrice: $10.00
 album: Heavy Metal Heretics on Stage
 artist: Morningstar
 categories:
 - CD
-date: '2025-11-27T06:18:14'
+date: '2025-12-03T06:22:05'
 draft: false
 images:
 - /images/covers/morningstar-heavy_metal_heretics_on_stage.jpg
@@ -14,4 +14,4 @@ title: Morningstar - Heavy Metal Heretics on Stage
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=10479&sort=pd.name&order=ASC) for $8.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=10479&sort=pd.name&order=ASC) for $10.00

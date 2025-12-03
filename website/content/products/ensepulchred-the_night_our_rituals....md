@@ -1,10 +1,10 @@
 ---
-actualPrice: $6.40
+actualPrice: $8.00
 album: The Night Our Rituals...
 artist: Ensepulchred
 categories:
 - CD
-date: '2025-11-27T06:17:51'
+date: '2025-12-03T06:21:45'
 draft: false
 images:
 - /images/covers/ensepulchred-the_night_our_rituals....jpg
@@ -14,4 +14,4 @@ title: Ensepulchred - The Night Our Rituals...
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=46698&sort=pd.name&order=ASC) for $6.40
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=46698&sort=pd.name&order=ASC) for $8.00

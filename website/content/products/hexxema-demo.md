@@ -1,10 +1,10 @@
 ---
-actualPrice: $6.50
+actualPrice: $10.00
 album: Demo
 artist: Hexxema
 categories:
 - Cassette
-date: '2025-11-27T06:18:55'
+date: '2025-12-03T06:22:49'
 draft: false
 images:
 - /images/covers/hexxema-demo.png
@@ -14,4 +14,4 @@ title: Hexxema - Demo
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=35266&sort=pd.name&order=ASC) for $6.50
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=35266&sort=pd.name&order=ASC) for $10.00

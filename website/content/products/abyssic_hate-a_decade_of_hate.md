@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00
+actualPrice: $15.00
 album: A Decade of Hate
 artist: Abyssic Hate
 categories:
 - CD
-date: '2025-11-27T06:17:34'
+date: '2025-12-03T06:21:25'
 draft: false
 images:
 - /images/covers/abyssic_hate-a_decade_of_hate.jpg
@@ -14,4 +14,4 @@ title: Abyssic Hate - A Decade of Hate
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=61410&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=61410&sort=pd.name&order=ASC) for $15.00

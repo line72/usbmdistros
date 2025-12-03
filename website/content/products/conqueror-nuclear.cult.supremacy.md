@@ -1,10 +1,10 @@
 ---
-actualPrice: $16.25
+actualPrice: $25.00
 album: Nuclear.Cult.Supremacy
 artist: Conqueror
 categories:
 - Vinyl
-date: '2025-11-27T06:16:16'
+date: '2025-12-03T06:20:10'
 draft: false
 images:
 - /images/covers/conqueror-nuclear.cult.supremacy.jpg
@@ -14,4 +14,4 @@ title: Conqueror - Nuclear.Cult.Supremacy
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=63225&sort=pd.name&order=ASC) for $16.25
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=63225&sort=pd.name&order=ASC) for $25.00

@@ -1,10 +1,10 @@
 ---
-actualPrice: $13.60
+actualPrice: $17.00
 album: Beyond Flesh - Beyond Matter - Beyond Death
 artist: Kyy
 categories:
 - Vinyl
-date: '2025-11-27T06:16:41'
+date: '2025-12-03T06:20:35'
 draft: false
 images:
 - /images/covers/kyy-beyond_flesh_-_beyond_matter_-_beyond_death.jpg
@@ -14,4 +14,4 @@ title: Kyy - Beyond Flesh - Beyond Matter - Beyond Death
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=5607&sort=pd.name&order=ASC) for $13.60
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=5607&sort=pd.name&order=ASC) for $17.00

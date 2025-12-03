@@ -1,10 +1,10 @@
 ---
-actualPrice: $9.60
+actualPrice: $12.00
 album: Fate
 artist: II
 categories:
 - Cassette
-date: '2025-11-27T06:18:55'
+date: '2025-12-03T06:22:49'
 draft: false
 images:
 - /images/covers/ii-fate.jpg
@@ -14,4 +14,4 @@ title: II - Fate
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=52150&sort=pd.name&order=ASC) for $9.60
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=52150&sort=pd.name&order=ASC) for $12.00

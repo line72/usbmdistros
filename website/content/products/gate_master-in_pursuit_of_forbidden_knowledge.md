@@ -1,10 +1,10 @@
 ---
-actualPrice: $20.00
+actualPrice: $25.00
 album: In Pursuit of Forbidden Knowledge
 artist: Gate Master
 categories:
 - Vinyl
-date: '2025-11-27T06:16:26'
+date: '2025-12-03T06:20:20'
 draft: false
 images:
 - /images/covers/gate_master-in_pursuit_of_forbidden_knowledge.jpg
@@ -14,4 +14,4 @@ title: Gate Master - In Pursuit of Forbidden Knowledge
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=52535&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=52535&sort=pd.name&order=ASC) for $25.00

@@ -1,10 +1,10 @@
 ---
-actualPrice: $8.00
+actualPrice: $10.00
 album: Spadcyna
 artist: Piarevaracien
 categories:
 - CD
-date: '2025-11-27T06:18:20'
+date: '2025-12-03T06:22:14'
 draft: false
 images:
 - /images/covers/piarevaracien-spadcyna.jpg
@@ -14,4 +14,4 @@ title: Piarevaracien - Spadcyna
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=17825&sort=pd.name&order=ASC) for $8.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=17825&sort=pd.name&order=ASC) for $10.00

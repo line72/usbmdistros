@@ -1,10 +1,10 @@
 ---
-actualPrice: $8.00
+actualPrice: $10.00
 album: Luguber
 artist: Eadem
 categories:
 - CD
-date: '2025-11-27T06:17:51'
+date: '2025-12-03T06:21:44'
 draft: false
 images:
 - /images/covers/eadem-luguber.jpg
@@ -14,4 +14,4 @@ title: Eadem - Luguber
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=4215&sort=pd.name&order=ASC) for $8.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=4215&sort=pd.name&order=ASC) for $10.00

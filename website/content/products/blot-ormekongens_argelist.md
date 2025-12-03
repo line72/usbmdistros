@@ -1,11 +1,11 @@
 ---
-actualPrice: $8.00 - 13.60
+actualPrice: $10.00 - 17.00
 album: Ormekongens Argelist
 artist: Blot
 categories:
 - Vinyl
 - CD
-date: '2025-11-27T06:17:41'
+date: '2025-12-03T06:21:32'
 draft: false
 images:
 - /images/covers/blot-ormekongens_argelist.jpg
@@ -15,6 +15,6 @@ title: Blot - Ormekongens Argelist
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=20217&sort=pd.name&order=ASC) for $13.60
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=20217&sort=pd.name&order=ASC) for $17.00
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=6703&sort=pd.name&order=ASC) for $8.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=6703&sort=pd.name&order=ASC) for $10.00

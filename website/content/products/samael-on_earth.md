@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00
+actualPrice: $15.00
 album: On Earth
 artist: Samael
 categories:
 - CD
-date: '2025-11-27T06:18:24'
+date: '2025-12-03T06:22:18'
 draft: false
 images:
 - /images/covers/samael-on_earth.jpg
@@ -14,4 +14,4 @@ title: Samael - On Earth
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=63296&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=63296&sort=pd.name&order=ASC) for $15.00

@@ -1,10 +1,10 @@
 ---
-actualPrice: $5.60
+actualPrice: $7.00
 album: Drowned in the Oneiric Depths
 artist: Myst
 categories:
 - CD
-date: '2025-11-27T06:18:15'
+date: '2025-12-03T06:22:06'
 draft: false
 images:
 - /images/covers/myst-drowned_in_the_oneiric_depths.jpg
@@ -14,4 +14,4 @@ title: Myst - Drowned in the Oneiric Depths
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=1814&sort=pd.name&order=ASC) for $5.60
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=1814&sort=pd.name&order=ASC) for $7.00

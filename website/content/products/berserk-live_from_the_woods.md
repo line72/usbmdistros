@@ -1,10 +1,10 @@
 ---
-actualPrice: $6.40
+actualPrice: $8.00
 album: Live From the Woods
 artist: Berserk
 categories:
 - CD
-date: '2025-11-27T06:17:40'
+date: '2025-12-03T06:21:30'
 draft: false
 images:
 - /images/covers/berserk-live_from_the_woods.jpg
@@ -14,4 +14,4 @@ title: Berserk - Live From the Woods
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=28917&sort=pd.name&order=ASC) for $6.40
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=28917&sort=pd.name&order=ASC) for $8.00

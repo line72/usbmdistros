@@ -1,10 +1,10 @@
 ---
-actualPrice: $20.00
+actualPrice: $25.00
 album: Promo 1999
 artist: Stoermflood
 categories:
 - Vinyl
-date: '2025-11-27T06:17:07'
+date: '2025-12-03T06:20:57'
 draft: false
 images:
 - /images/covers/stoermflood-promo_1999.jpg
@@ -14,4 +14,4 @@ title: Stoermflood - Promo 1999
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=19682&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=19682&sort=pd.name&order=ASC) for $25.00

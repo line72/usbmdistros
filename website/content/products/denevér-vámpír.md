@@ -1,10 +1,10 @@
 ---
-actualPrice: $9.60
+actualPrice: $12.00
 album: "V\xE1mp\xEDr"
 artist: "Denev\xE9r"
 categories:
 - CD
-date: '2025-11-27T06:17:48'
+date: '2025-12-03T06:21:41'
 draft: false
 images:
 - "/images/covers/denev\xE9r-v\xE1mp\xEDr.jpg"
@@ -14,4 +14,4 @@ title: "Denev\xE9r - V\xE1mp\xEDr"
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=51307&sort=pd.name&order=ASC) for $9.60
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=51307&sort=pd.name&order=ASC) for $12.00

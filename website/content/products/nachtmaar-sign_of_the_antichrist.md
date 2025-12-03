@@ -1,10 +1,10 @@
 ---
-actualPrice: $21.60
+actualPrice: $27.00
 album: Sign Of The Antichrist
 artist: Nachtmaar
 categories:
 - Vinyl
-date: '2025-11-27T06:16:49'
+date: '2025-12-03T06:20:42'
 draft: false
 images:
 - /images/covers/nachtmaar-sign_of_the_antichrist.jpg
@@ -14,4 +14,4 @@ title: Nachtmaar - Sign Of The Antichrist
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=54430&sort=pd.name&order=ASC) for $21.60
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=54430&sort=pd.name&order=ASC) for $27.00

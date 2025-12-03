@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00
+actualPrice: $15.00
 album: Demolition Ritual
 artist: Satanize
 categories:
 - CD
-date: '2025-11-27T06:18:25'
+date: '2025-12-03T06:22:18'
 draft: false
 images:
 - /images/covers/satanize-demolition_ritual.jpg
@@ -14,4 +14,4 @@ title: Satanize - Demolition Ritual
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=28534&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=28534&sort=pd.name&order=ASC) for $15.00

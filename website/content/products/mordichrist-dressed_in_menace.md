@@ -1,10 +1,10 @@
 ---
-actualPrice: $4.00
+actualPrice: $5.00
 album: Dressed In Menace
 artist: Mordichrist
 categories:
 - Vinyl
-date: '2025-11-27T06:17:27'
+date: '2025-12-03T06:21:20'
 draft: false
 images:
 - /images/covers/mordichrist-dressed_in_menace.png
@@ -14,4 +14,4 @@ title: Mordichrist - Dressed In Menace
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=38433&sort=pd.name&order=ASC) for $4.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=38433&sort=pd.name&order=ASC) for $5.00

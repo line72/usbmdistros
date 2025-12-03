@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00
+actualPrice: $15.00
 album: Miyazaki Satanasword
 artist: Sabbat
 categories:
 - CD
-date: '2025-11-27T06:18:24'
+date: '2025-12-03T06:22:17'
 draft: false
 images:
 - /images/covers/sabbat-miyazaki_satanasword.png
@@ -14,4 +14,4 @@ title: Sabbat - Miyazaki Satanasword
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=63103&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=63103&sort=pd.name&order=ASC) for $15.00

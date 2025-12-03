@@ -1,10 +1,10 @@
 ---
-actualPrice: $8.00
+actualPrice: $10.00
 album: Svmma Fide
 artist: Balmog
 categories:
 - CD
-date: '2025-11-27T06:17:38'
+date: '2025-12-03T06:21:29'
 draft: false
 images:
 - /images/covers/balmog-svmma_fide.jpg
@@ -14,4 +14,4 @@ title: Balmog - Svmma Fide
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=32970&sort=pd.name&order=ASC) for $8.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=32970&sort=pd.name&order=ASC) for $10.00

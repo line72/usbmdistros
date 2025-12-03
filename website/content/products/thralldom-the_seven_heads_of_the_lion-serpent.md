@@ -1,10 +1,10 @@
 ---
-actualPrice: $6.40
+actualPrice: $8.00
 album: The Seven Heads Of The Lion-Serpent
 artist: Thralldom
 categories:
 - Vinyl
-date: '2025-11-27T06:17:30'
+date: '2025-12-03T06:21:23'
 draft: false
 images:
 - /images/covers/thralldom-the_seven_heads_of_the_lion-serpent.jpg
@@ -14,4 +14,4 @@ title: Thralldom - The Seven Heads Of The Lion-Serpent
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=38518&sort=pd.name&order=ASC) for $6.40
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=38518&sort=pd.name&order=ASC) for $8.00

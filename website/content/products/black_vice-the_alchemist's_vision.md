@@ -1,11 +1,11 @@
 ---
-actualPrice: $7.20 - 16.00
+actualPrice: $9.00 - 20.00
 album: The Alchemist's Vision
 artist: Black Vice
 categories:
 - Vinyl
 - Cassette
-date: '2025-11-27T06:18:45'
+date: '2025-12-03T06:22:36'
 draft: false
 images:
 - /images/covers/black_vice-the_alchemist's_vision.jpg
@@ -15,6 +15,6 @@ title: Black Vice - The Alchemist's Vision
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=31819&sort=pd.name&order=ASC) for $16.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=31819&sort=pd.name&order=ASC) for $20.00
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=31818&sort=pd.name&order=ASC) for $7.20
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=31818&sort=pd.name&order=ASC) for $9.00

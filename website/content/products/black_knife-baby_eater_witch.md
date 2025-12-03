@@ -1,10 +1,10 @@
 ---
-actualPrice: $20.00
+actualPrice: $25.00
 album: Baby Eater Witch
 artist: Black Knife
 categories:
 - Vinyl
-date: '2025-11-27T06:16:10'
+date: '2025-12-03T06:20:05'
 draft: false
 images:
 - /images/covers/black_knife-baby_eater_witch.jpg
@@ -14,4 +14,4 @@ title: Black Knife - Baby Eater Witch
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=59240&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=59240&sort=pd.name&order=ASC) for $25.00

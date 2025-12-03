@@ -1,11 +1,11 @@
 ---
-actualPrice: $12.00
+actualPrice: $15.00
 album: "Full\xE4ndad Sf\xE4raf\xF6rintning I En Onaturliger Skepneskrud Av Pestilenta\
   \ Djwr"
 artist: Tomhet
 categories:
 - CD
-date: '2025-11-27T06:18:34'
+date: '2025-12-03T06:22:25'
 draft: false
 images:
 - "/images/covers/tomhet-full\xE4ndad_sf\xE4raf\xF6rintning_i_en_onaturliger_skepneskrud_av_pestilenta_djwr.png"
@@ -16,4 +16,4 @@ title: "Tomhet - Full\xE4ndad Sf\xE4raf\xF6rintning I En Onaturliger Skepneskrud
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=31543&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=31543&sort=pd.name&order=ASC) for $15.00

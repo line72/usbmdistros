@@ -1,10 +1,10 @@
 ---
-actualPrice: $15.00
+actualPrice: $30.00
 album: Blasphemy Reigns in Thy Night
 artist: Black Blood
 categories:
 - Vinyl
-date: '2025-11-27T06:16:10'
+date: '2025-12-03T06:20:04'
 draft: false
 images:
 - /images/covers/black_blood-blasphemy_reigns_in_thy_night.jpg
@@ -14,4 +14,4 @@ title: Black Blood - Blasphemy Reigns in Thy Night
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=64358&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=64358&sort=pd.name&order=ASC) for $30.00

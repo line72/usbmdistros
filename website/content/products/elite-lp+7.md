@@ -1,10 +1,10 @@
 ---
-actualPrice: $24.00
+actualPrice: $30.00
 album: Lp+7
 artist: Elite
 categories:
 - Vinyl
-date: '2025-11-27T06:16:22'
+date: '2025-12-03T06:20:16'
 draft: false
 images:
 - /images/covers/elite-lp+7.png
@@ -14,4 +14,4 @@ title: Elite - Lp+7
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=59064&sort=pd.name&order=ASC) for $24.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=59064&sort=pd.name&order=ASC) for $30.00

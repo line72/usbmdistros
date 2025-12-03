@@ -1,10 +1,10 @@
 ---
-actualPrice: $3.20
+actualPrice: $4.00
 album: Demo
 artist: Solgrav
 categories:
 - Cassette
-date: '2025-11-27T06:19:10'
+date: '2025-12-03T06:23:01'
 draft: false
 images:
 - /images/covers/solgrav-demo.jpg
@@ -14,4 +14,4 @@ title: Solgrav - Demo
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=884&sort=pd.name&order=ASC) for $3.20
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=884&sort=pd.name&order=ASC) for $4.00

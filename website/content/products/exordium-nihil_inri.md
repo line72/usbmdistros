@@ -1,10 +1,10 @@
 ---
-actualPrice: $8.00
+actualPrice: $10.00
 album: Nihil INRI
 artist: Exordium
 categories:
 - Vinyl
-date: '2025-11-27T06:17:23'
+date: '2025-12-03T06:21:16'
 draft: false
 images:
 - /images/covers/exordium-nihil_inri.jpg
@@ -14,4 +14,4 @@ title: Exordium - Nihil INRI
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=24708&sort=pd.name&order=ASC) for $8.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=24708&sort=pd.name&order=ASC) for $10.00

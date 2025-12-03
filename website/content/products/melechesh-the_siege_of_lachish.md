@@ -1,10 +1,10 @@
 ---
-actualPrice: $20.00
+actualPrice: $25.00
 album: The Siege Of Lachish
 artist: Melechesh
 categories:
 - Vinyl
-date: '2025-11-27T06:17:26'
+date: '2025-12-03T06:21:19'
 draft: false
 images:
 - /images/covers/melechesh-the_siege_of_lachish.png
@@ -14,4 +14,4 @@ title: Melechesh - The Siege Of Lachish
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=47410&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=47410&sort=pd.name&order=ASC) for $25.00

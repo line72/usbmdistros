@@ -1,10 +1,10 @@
 ---
-actualPrice: $5.60
+actualPrice: $7.00
 album: O Caminho Da Mao Esquerda
 artist: Vulturine
 categories:
 - Vinyl
-date: '2025-11-27T06:17:31'
+date: '2025-12-03T06:21:24'
 draft: false
 images:
 - /images/covers/vulturine-o_caminho_da_mao_esquerda.jpg
@@ -14,4 +14,4 @@ title: Vulturine - O Caminho Da Mao Esquerda
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=670&sort=pd.name&order=ASC) for $5.60
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=670&sort=pd.name&order=ASC) for $7.00

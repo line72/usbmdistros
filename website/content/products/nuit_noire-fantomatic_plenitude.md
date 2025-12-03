@@ -1,11 +1,11 @@
 ---
-actualPrice: $9.60 - 24.00
+actualPrice: $12.00 - 30.00
 album: Fantomatic Plenitude
 artist: Nuit Noire
 categories:
 - Vinyl
 - CD
-date: '2025-11-27T06:18:18'
+date: '2025-12-03T06:22:11'
 draft: false
 images:
 - /images/covers/nuit_noire-fantomatic_plenitude.jpg
@@ -15,6 +15,6 @@ title: Nuit Noire - Fantomatic Plenitude
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=63761&sort=pd.name&order=ASC) for $24.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=63761&sort=pd.name&order=ASC) for $30.00
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=63381&sort=pd.name&order=ASC) for $9.60
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=63381&sort=pd.name&order=ASC) for $12.00

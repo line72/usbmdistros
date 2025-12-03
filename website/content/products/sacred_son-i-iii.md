@@ -1,10 +1,10 @@
 ---
-actualPrice: $24.00
+actualPrice: $30.00
 album: I-III
 artist: Sacred Son
 categories:
 - Cassette
-date: '2025-11-27T06:19:08'
+date: '2025-12-03T06:22:59'
 draft: false
 images:
 - /images/covers/sacred_son-i-iii.jpg
@@ -14,4 +14,4 @@ title: Sacred Son - I-III
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=56305&sort=pd.name&order=ASC) for $24.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=56305&sort=pd.name&order=ASC) for $30.00

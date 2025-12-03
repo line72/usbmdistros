@@ -1,11 +1,11 @@
 ---
-actualPrice: $9.60 - 20.00
+actualPrice: $12.00 - 25.00
 album: Contra Hominem
 artist: Affliction Vector
 categories:
 - Vinyl
 - CD
-date: '2025-11-27T06:17:35'
+date: '2025-12-03T06:21:25'
 draft: false
 images:
 - /images/covers/affliction_vector-contra_hominem.png
@@ -15,6 +15,6 @@ title: Affliction Vector - Contra Hominem
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=62117&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=62117&sort=pd.name&order=ASC) for $25.00
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=62120&sort=pd.name&order=ASC) for $9.60
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=62120&sort=pd.name&order=ASC) for $12.00

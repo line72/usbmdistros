@@ -1,10 +1,10 @@
 ---
-actualPrice: $20.00
+actualPrice: $25.00
 album: O ovnh intot adr Mordrb
 artist: "Vo\xEBmmr"
 categories:
 - Vinyl
-date: '2025-11-27T06:17:15'
+date: '2025-12-03T06:21:08'
 draft: false
 images:
 - "/images/covers/vo\xEBmmr-o_ovnh_intot_adr_mordrb.jpg"
@@ -14,4 +14,4 @@ title: "Vo\xEBmmr - O ovnh intot adr Mordrb"
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=41391&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=41391&sort=pd.name&order=ASC) for $25.00

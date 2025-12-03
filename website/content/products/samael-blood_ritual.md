@@ -1,11 +1,11 @@
 ---
-actualPrice: $12.00 - 31.00
+actualPrice: $15.00 - 31.00
 album: Blood Ritual
 artist: Samael
 categories:
 - Vinyl
 - CD
-date: '2025-11-27T06:18:24'
+date: '2025-12-03T06:22:18'
 draft: false
 images:
 - /images/covers/samael-blood_ritual.jpg
@@ -16,6 +16,6 @@ title: Samael - Blood Ritual
 
 ## Vinyl
 * Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/samael-blood-ritual-ltd-galaxy-vinyl-lp) for $31.00 :: ltd galaxy vinyl lp
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=63293&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=63293&sort=pd.name&order=ASC) for $25.00
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=63292&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=63292&sort=pd.name&order=ASC) for $15.00

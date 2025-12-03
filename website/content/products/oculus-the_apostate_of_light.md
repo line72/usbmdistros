@@ -1,11 +1,11 @@
 ---
-actualPrice: $8.00 - 13.60
+actualPrice: $10.00 - 17.00
 album: The Apostate Of Light
 artist: Oculus
 categories:
 - Vinyl
 - CD
-date: '2025-11-27T06:18:18'
+date: '2025-12-03T06:22:11'
 draft: false
 images:
 - /images/covers/oculus-the_apostate_of_light.jpg
@@ -15,6 +15,6 @@ title: Oculus - The Apostate Of Light
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=3225&sort=pd.name&order=ASC) for $13.60
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=3225&sort=pd.name&order=ASC) for $17.00
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=5727&sort=pd.name&order=ASC) for $8.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=5727&sort=pd.name&order=ASC) for $10.00

@@ -1,10 +1,10 @@
 ---
-actualPrice: $13.60
+actualPrice: $17.00
 album: Blut & Knochenstaub
 artist: Paria
 categories:
 - Vinyl
-date: '2025-11-27T06:16:55'
+date: '2025-12-03T06:20:48'
 draft: false
 images:
 - /images/covers/paria-blut_&_knochenstaub.jpg
@@ -14,4 +14,4 @@ title: Paria - Blut & Knochenstaub
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=1002&sort=pd.name&order=ASC) for $13.60
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=1002&sort=pd.name&order=ASC) for $17.00

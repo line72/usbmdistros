@@ -1,10 +1,10 @@
 ---
-actualPrice: $21.60
+actualPrice: $27.00
 album: Psychedelic Digression
 artist: Medwegya
 categories:
 - Vinyl
-date: '2025-11-27T06:16:45'
+date: '2025-12-03T06:20:38'
 draft: false
 images:
 - /images/covers/medwegya-psychedelic_digression.png
@@ -14,4 +14,4 @@ title: Medwegya - Psychedelic Digression
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=31656&sort=pd.name&order=ASC) for $21.60
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=31656&sort=pd.name&order=ASC) for $27.00

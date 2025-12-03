@@ -1,10 +1,10 @@
 ---
-actualPrice: $4.80
+actualPrice: $6.00
 album: Brythonic
 artist: Blutvial
 categories:
 - Cassette
-date: '2025-11-27T06:18:46'
+date: '2025-12-03T06:22:37'
 draft: false
 images:
 - /images/covers/blutvial-brythonic.png
@@ -14,4 +14,4 @@ title: Blutvial - Brythonic
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=1668&sort=pd.name&order=ASC) for $4.80
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=1668&sort=pd.name&order=ASC) for $6.00

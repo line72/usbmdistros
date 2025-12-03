@@ -4,7 +4,7 @@ album: A Manifest Of Imperious Destiny
 artist: Ascendency
 categories:
 - Vinyl
-date: '2025-11-27T06:16:07'
+date: '2025-12-03T06:20:01'
 draft: false
 images:
 - /images/covers/ascendency-a_manifest_of_imperious_destiny.jpg
@@ -16,4 +16,4 @@ title: Ascendency - A Manifest Of Imperious Destiny
 ## Vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/ascendency-a-manifest-of-imperious-destiny-lp) for $17.00 :: Black 2023 press vinyl
 * Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/ascendency-a-manifest-of-imperious-destiny-red-vinyl-mlp) for $25.99 :: red vinyl mlp
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=44861&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=44861&sort=pd.name&order=ASC) for $25.00

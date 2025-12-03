@@ -1,10 +1,10 @@
 ---
-actualPrice: $20.00
+actualPrice: $25.00
 album: Final Storm of the Tyrant
 artist: "Vr\xF6rsaath"
 categories:
 - Vinyl
-date: '2025-11-27T06:17:16'
+date: '2025-12-03T06:21:09'
 draft: false
 images:
 - "/images/covers/vr\xF6rsaath-final_storm_of_the_tyrant.jpg"
@@ -14,4 +14,4 @@ title: "Vr\xF6rsaath - Final Storm of the Tyrant"
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=47806&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=47806&sort=pd.name&order=ASC) for $25.00

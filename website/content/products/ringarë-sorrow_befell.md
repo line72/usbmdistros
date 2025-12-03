@@ -1,10 +1,10 @@
 ---
-actualPrice: $9.60
+actualPrice: $12.00
 album: Sorrow Befell
 artist: "Ringar\xEB"
 categories:
 - CD
-date: '2025-11-27T06:18:23'
+date: '2025-12-03T06:22:16'
 draft: false
 images:
 - "/images/covers/ringar\xEB-sorrow_befell.jpg"
@@ -14,4 +14,4 @@ title: "Ringar\xEB - Sorrow Befell"
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=59579&sort=pd.name&order=ASC) for $9.60
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=59579&sort=pd.name&order=ASC) for $12.00

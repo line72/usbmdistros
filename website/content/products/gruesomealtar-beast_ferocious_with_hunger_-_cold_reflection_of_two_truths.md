@@ -1,10 +1,10 @@
 ---
-actualPrice: $24.00
+actualPrice: $30.00
 album: Beast Ferocious With Hunger / Cold Reflection Of Two Truths
 artist: Gruesomealtar
 categories:
 - Vinyl
-date: '2025-11-27T06:16:29'
+date: '2025-12-03T06:20:22'
 draft: false
 images:
 - /images/covers/gruesomealtar-beast_ferocious_with_hunger_-_cold_reflection_of_two_truths.jpg
@@ -14,4 +14,4 @@ title: Gruesomealtar - Beast Ferocious With Hunger / Cold Reflection Of Two Trut
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=57828&sort=pd.name&order=ASC) for $24.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=57828&sort=pd.name&order=ASC) for $30.00

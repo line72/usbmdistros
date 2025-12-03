@@ -1,10 +1,10 @@
 ---
-actualPrice: $20.00
+actualPrice: $30.00
 album: Eerie
 artist: Barathrum
 categories:
 - Vinyl
-date: '2025-11-29T06:16:17'
+date: '2025-12-03T06:20:03'
 draft: false
 images:
 - /images/covers/barathrum-eerie.jpg
@@ -14,4 +14,4 @@ title: Barathrum - Eerie
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=64377&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=64377&sort=pd.name&order=ASC) for $30.00

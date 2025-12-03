@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00
+actualPrice: $15.00
 album: Clad In Your Misery
 artist: Voidwind
 categories:
 - CD
-date: '2025-11-27T06:18:38'
+date: '2025-12-03T06:22:29'
 draft: false
 images:
 - /images/covers/voidwind-clad_in_your_misery.png
@@ -14,4 +14,4 @@ title: Voidwind - Clad In Your Misery
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=50353&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=50353&sort=pd.name&order=ASC) for $15.00

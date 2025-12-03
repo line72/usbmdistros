@@ -1,10 +1,10 @@
 ---
-actualPrice: $8.00
+actualPrice: $10.00
 album: Descend Into Despair
 artist: Suicide Forest
 categories:
 - CD
-date: '2025-11-27T06:18:29'
+date: '2025-12-03T06:22:23'
 draft: false
 images:
 - /images/covers/suicide_forest-descend_into_despair.jpg
@@ -14,4 +14,4 @@ title: Suicide Forest - Descend Into Despair
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=3669&sort=pd.name&order=ASC) for $8.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=3669&sort=pd.name&order=ASC) for $10.00

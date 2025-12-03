@@ -1,10 +1,10 @@
 ---
-actualPrice: $20.00
+actualPrice: $25.00
 album: Nosferatu
 artist: Moonblood
 categories:
 - Vinyl
-date: '2025-11-30T06:17:27'
+date: '2025-12-03T06:20:40'
 draft: false
 images:
 - /images/covers/moonblood-nosferatu.jpg
@@ -14,4 +14,4 @@ title: Moonblood - Nosferatu
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=64398&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=64398&sort=pd.name&order=ASC) for $25.00

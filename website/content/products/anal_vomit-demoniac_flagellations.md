@@ -1,10 +1,10 @@
 ---
-actualPrice: $9.60
+actualPrice: $12.00
 album: Demoniac Flagellations
 artist: Anal Vomit
 categories:
 - CD
-date: '2025-11-27T06:17:36'
+date: '2025-12-03T06:21:26'
 draft: false
 images:
 - /images/covers/anal_vomit-demoniac_flagellations.jpg
@@ -14,4 +14,4 @@ title: Anal Vomit - Demoniac Flagellations
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=55994&sort=pd.name&order=ASC) for $9.60
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=55994&sort=pd.name&order=ASC) for $12.00

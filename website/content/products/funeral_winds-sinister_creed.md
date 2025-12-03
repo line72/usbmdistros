@@ -1,10 +1,10 @@
 ---
-actualPrice: $19.98 - 20.00
+actualPrice: $19.98 - 25.00
 album: Sinister Creed
 artist: Funeral Winds
 categories:
 - Vinyl
-date: '2025-11-27T06:16:26'
+date: '2025-12-03T06:20:19'
 draft: false
 images:
 - /images/covers/funeral_winds-sinister_creed.jpg
@@ -15,4 +15,4 @@ title: Funeral Winds - Sinister Creed
 
 ## Vinyl
 * Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/old-funeral-winds-sinister-creed-color-in-color-vinyl-lp-copy) for $19.98 :: black vinyl lp
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=64351&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=64351&sort=pd.name&order=ASC) for $25.00

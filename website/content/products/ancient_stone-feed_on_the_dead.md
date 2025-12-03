@@ -1,10 +1,10 @@
 ---
-actualPrice: $20.00
+actualPrice: $25.00
 album: Feed on the Dead
 artist: Ancient Stone
 categories:
 - Vinyl
-date: '2025-11-27T06:16:06'
+date: '2025-12-03T06:20:00'
 draft: false
 images:
 - /images/covers/ancient_stone-feed_on_the_dead.jpg
@@ -14,4 +14,4 @@ title: Ancient Stone - Feed on the Dead
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=61506&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=61506&sort=pd.name&order=ASC) for $25.00

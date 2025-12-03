@@ -1,10 +1,10 @@
 ---
-actualPrice: $9.60
+actualPrice: $12.00
 album: Christian Masquerade / Megiddo Eve
 artist: Kohort
 categories:
 - CD
-date: '2025-11-27T06:18:08'
+date: '2025-12-03T06:21:59'
 draft: false
 images:
 - /images/covers/kohort-christian_masquerade_-_megiddo_eve.jpg
@@ -14,4 +14,4 @@ title: Kohort - Christian Masquerade / Megiddo Eve
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=59888&sort=pd.name&order=ASC) for $9.60
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=59888&sort=pd.name&order=ASC) for $12.00

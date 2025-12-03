@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00
+actualPrice: $15.00
 album: Elemental Wrath
 artist: Chevallier Skrog
 categories:
 - Cassette
-date: '2025-11-27T06:18:47'
+date: '2025-12-03T06:22:41'
 draft: false
 images:
 - /images/covers/chevallier_skrog-elemental_wrath.jpg
@@ -14,4 +14,4 @@ title: Chevallier Skrog - Elemental Wrath
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=56387&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=56387&sort=pd.name&order=ASC) for $15.00

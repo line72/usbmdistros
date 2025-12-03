@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00
+actualPrice: $15.00
 album: Atrocities In A-Minor
 artist: Bewitched
 categories:
 - CD
-date: '2025-11-27T06:17:40'
+date: '2025-12-03T06:21:30'
 draft: false
 images:
 - /images/covers/bewitched-atrocities_in_a-minor.jpg
@@ -14,4 +14,4 @@ title: Bewitched - Atrocities In A-Minor
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=19905&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=19905&sort=pd.name&order=ASC) for $15.00

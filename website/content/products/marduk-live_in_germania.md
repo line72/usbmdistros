@@ -1,10 +1,10 @@
 ---
-actualPrice: $20.00
+actualPrice: $25.00
 album: Live In Germania
 artist: Marduk
 categories:
 - CD
-date: '2025-11-27T06:18:12'
+date: '2025-12-03T06:22:02'
 draft: false
 images:
 - /images/covers/marduk-live_in_germania.jpg
@@ -14,4 +14,4 @@ title: Marduk - Live In Germania
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=56265&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=56265&sort=pd.name&order=ASC) for $25.00

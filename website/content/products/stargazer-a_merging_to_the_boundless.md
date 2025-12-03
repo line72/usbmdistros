@@ -1,10 +1,10 @@
 ---
-actualPrice: $16.25
+actualPrice: $25.00
 album: A Merging To The Boundless
 artist: StarGazer
 categories:
 - Vinyl
-date: '2025-11-27T06:17:06'
+date: '2025-12-03T06:20:57'
 draft: false
 images:
 - /images/covers/stargazer-a_merging_to_the_boundless.jpg
@@ -14,4 +14,4 @@ title: StarGazer - A Merging To The Boundless
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=64302&sort=pd.name&order=ASC) for $16.25
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=64302&sort=pd.name&order=ASC) for $25.00

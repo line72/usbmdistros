@@ -1,10 +1,10 @@
 ---
-actualPrice: $4.00
+actualPrice: $5.00
 album: Demo
 artist: Nosophoros
 categories:
 - Cassette
-date: '2025-11-27T06:19:02'
+date: '2025-12-03T06:22:56'
 draft: false
 images:
 - /images/covers/nosophoros-demo.png
@@ -14,4 +14,4 @@ title: Nosophoros - Demo
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=1522&sort=pd.name&order=ASC) for $4.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=1522&sort=pd.name&order=ASC) for $5.00

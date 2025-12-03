@@ -1,10 +1,10 @@
 ---
-actualPrice: $8.00
+actualPrice: $10.00
 album: Mother Of Misery And All Repugnance (Diabolo Intervale)
 artist: Ritual Lair
 categories:
 - CD
-date: '2025-11-27T06:18:23'
+date: '2025-12-03T06:22:16'
 draft: false
 images:
 - /images/covers/ritual_lair-mother_of_misery_and_all_repugnance_(diabolo_intervale).jpg
@@ -14,4 +14,4 @@ title: Ritual Lair - Mother Of Misery And All Repugnance (Diabolo Intervale)
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=3073&sort=pd.name&order=ASC) for $8.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=3073&sort=pd.name&order=ASC) for $10.00

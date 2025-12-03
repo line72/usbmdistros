@@ -1,10 +1,10 @@
 ---
-actualPrice: $8.00
+actualPrice: $10.00
 album: Knefall
 artist: GRIBBERIKET
 categories:
 - CD
-date: '2025-11-27T06:17:57'
+date: '2025-12-03T06:21:51'
 draft: false
 images:
 - /images/covers/gribberiket-knefall.jpg
@@ -14,4 +14,4 @@ title: GRIBBERIKET - Knefall
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=3486&sort=pd.name&order=ASC) for $8.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=3486&sort=pd.name&order=ASC) for $10.00

@@ -1,10 +1,10 @@
 ---
-actualPrice: $6.40
+actualPrice: $8.00
 album: The Repulsive Enthroned
 artist: Plague
 categories:
 - Cassette
-date: '2025-11-27T06:19:06'
+date: '2025-12-03T06:22:58'
 draft: false
 images:
 - /images/covers/plague-the_repulsive_enthroned.jpg
@@ -14,4 +14,4 @@ title: Plague - The Repulsive Enthroned
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=8602&sort=pd.name&order=ASC) for $6.40
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=8602&sort=pd.name&order=ASC) for $8.00

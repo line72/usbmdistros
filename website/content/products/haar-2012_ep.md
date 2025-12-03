@@ -1,10 +1,10 @@
 ---
-actualPrice: $5.60
+actualPrice: $7.00
 album: 2012 EP
 artist: Haar
 categories:
 - CD
-date: '2025-11-27T06:17:58'
+date: '2025-12-03T06:21:51'
 draft: false
 images:
 - /images/covers/haar-2012_ep.jpg
@@ -14,4 +14,4 @@ title: Haar - 2012 EP
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=2678&sort=pd.name&order=ASC) for $5.60
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=2678&sort=pd.name&order=ASC) for $7.00
