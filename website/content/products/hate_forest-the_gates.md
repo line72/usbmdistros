@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00
+actualPrice: $30.00
 album: The Gates
 artist: Hate Forest
 categories:
-- CD
-date: '2025-12-03T06:21:52'
+- Vinyl
+date: '2025-12-06T06:36:39'
 draft: false
 images:
 - /images/covers/hate_forest-the_gates.png
@@ -13,5 +13,6 @@ thumbnailImage: /images/covers/hate_forest-the_gates-thumb.png
 title: Hate Forest - The Gates
 ---
 
-## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=63623&sort=pd.name&order=ASC) for $12.00
+## Vinyl
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/hate-forest-the-gates-lp) for $30.00 :: Black 2023 press vinyl
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/hate-forest-the-gates-lp) for $30.00 :: Marble 2023 press vinyl

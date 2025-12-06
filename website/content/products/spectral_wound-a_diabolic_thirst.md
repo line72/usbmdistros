@@ -1,9 +1,8 @@
 ---
-actualPrice: $10.99 - 29.99
+actualPrice: $10.99
 album: A Diabolic Thirst
 artist: Spectral Wound
 categories:
-- Vinyl
 - Cassette
 date: '2025-05-20T05:43:13'
 draft: false
@@ -14,7 +13,5 @@ thumbnailImage: /images/covers/spectral_wound-a_diabolic_thirst-thumb.jpg
 title: Spectral Wound - A Diabolic Thirst
 ---
 
-## Vinyl
-* Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/spectral-wound-a-diabolic-thirst-vinyl-lp-color) for $29.99 :: (color)
 ## Cassette
 * Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/spectral-wound-a-diabolical-thirst-cassette-tape-lim250) for $10.99

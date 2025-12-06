@@ -1,10 +1,10 @@
 ---
-actualPrice: $21.00 - 25.00
+actualPrice: $21.00
 album: Darkness Cenotaph
 artist: Nidernes
 categories:
 - Vinyl
-date: '2025-12-03T06:20:44'
+date: '2023-02-12T06:00:23'
 draft: false
 images:
 - /images/covers/nidernes-darkness_cenotaph.png
@@ -15,4 +15,3 @@ title: Nidernes - Darkness Cenotaph
 
 ## Vinyl
 * Purchase from [Sto'Vo'Kor Records](https://stovokor-records.com/products/nidernes-darkness-cenotaph) for $21.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=54300&sort=pd.name&order=ASC) for $25.00

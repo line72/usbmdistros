@@ -1,10 +1,10 @@
 ---
-actualPrice: $23.00 - 25.00
+actualPrice: $23.00
 album: Essence
 artist: Funeral Winds
 categories:
 - Vinyl
-date: '2025-12-03T06:20:19'
+date: '2023-09-20T05:00:50'
 draft: false
 images:
 - /images/covers/funeral_winds-essence.png
@@ -15,4 +15,3 @@ title: Funeral Winds - Essence
 
 ## Vinyl
 * Purchase from [Sto'Vo'Kor Records](https://stovokor-records.com/products/funeral-winds-essence) for $23.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=64347&sort=pd.name&order=ASC) for $25.00
