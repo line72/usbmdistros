@@ -1,10 +1,11 @@
 ---
-actualPrice: $13.00
+actualPrice: $13.00 - 20.00
 album: Sacred Assembly Beneath Unholy Secrecy
 artist: Famulus ab Satanas
 categories:
+- Vinyl
 - CD
-date: '2024-07-09T13:57:26'
+date: '2025-12-03T06:20:18'
 draft: false
 images:
 - /images/covers/famulus_ab_satanas-sacred_assembly_beneath_unholy_secrecy.jpg
@@ -13,5 +14,7 @@ thumbnailImage: /images/covers/famulus_ab_satanas-sacred_assembly_beneath_unholy
 title: Famulus ab Satanas - Sacred Assembly Beneath Unholy Secrecy
 ---
 
+## Vinyl
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=59050&sort=pd.name&order=ASC) for $20.00
 ## CD
 * Purchase from [CW Productions](https://shop.cwproductions.net/products/famulus-ab-satanas-sacred-assembly-beneath-unholy-secrecy-cd) for $13.00
