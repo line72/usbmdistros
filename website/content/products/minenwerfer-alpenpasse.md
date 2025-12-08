@@ -5,6 +5,7 @@ artist: Minenwerfer
 categories:
 - Vinyl
 - Cassette
+- CD
 date: '2025-12-04T06:34:15'
 draft: false
 images:
@@ -19,3 +20,5 @@ title: Minenwerfer - Alpenpasse
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/minenwerfer-alpenpasse-2xlp) for $32.00 :: Marble 2022 press vinyl
 ## Cassette
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/minenwerfer-alpenpasse-cassette) for $13.00 :: Cassette 2022
+## CD
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/minenwerfer-alpenpasse-cd) for $13.00 :: Jewel Case 2022

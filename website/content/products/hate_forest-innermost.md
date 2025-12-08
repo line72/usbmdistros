@@ -1,9 +1,10 @@
 ---
-actualPrice: $25.00 - 27.00
+actualPrice: $13.00 - 27.00
 album: Innermost
 artist: Hate Forest
 categories:
 - Vinyl
+- CD
 date: '2025-07-11T05:34:21'
 draft: false
 images:
@@ -17,3 +18,5 @@ title: Hate Forest - Innermost
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/hate-forest-innermost-lp) for $27.00 :: Red 2022 press vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/hate-forest-innermost-lp) for $25.00 :: Black 2022 press vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/hate-forest-innermost-lp) for $27.00 :: Brown Cloudy 2022 press
+## CD
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/hate-forest-innermost-cd) for $13.00 :: Jewel Case 2022
