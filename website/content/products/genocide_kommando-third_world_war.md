@@ -1,10 +1,9 @@
 ---
-actualPrice: $15.00 - 28.00
+actualPrice: $28.00
 album: Third World War
 artist: Genocide Kommando
 categories:
 - Vinyl
-- CD
 date: '2025-10-11T05:23:29'
 draft: false
 images:
@@ -16,5 +15,3 @@ title: Genocide Kommando - Third World War
 
 ## Vinyl
 * Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/genocide-kommando-third-world-war-12-gatefold-lp-red-on-white-splatter/) for $28.00 :: gatefold lp red on white splatter
-## CD
-* Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/genocide-kommando-third-world-war-cd/) for $15.00

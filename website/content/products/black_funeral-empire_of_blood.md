@@ -1,5 +1,5 @@
 ---
-actualPrice: $25.00 - 27.00
+actualPrice: $27.00
 album: Empire Of Blood
 artist: Black Funeral
 categories:
@@ -14,5 +14,4 @@ title: Black Funeral - Empire Of Blood
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=64158&sort=pd.name&order=ASC) for $25.00
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/black-funeral-empire-of-blood-12-lp) for $27.00

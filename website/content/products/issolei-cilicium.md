@@ -1,10 +1,10 @@
 ---
-actualPrice: $27.00 - 29.00
+actualPrice: $29.00
 album: Cilicium
 artist: Issolei
 categories:
 - Vinyl
-date: '2025-12-03T06:20:29'
+date: '2025-01-03T06:37:44'
 draft: false
 images:
 - /images/covers/issolei-cilicium.jpg
@@ -15,4 +15,3 @@ title: Issolei - Cilicium
 
 ## Vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/issolei-cilicium-lp) for $29.00 :: Black 2021 press vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=64339&sort=pd.name&order=ASC) for $27.00

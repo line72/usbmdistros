@@ -1,5 +1,5 @@
 ---
-actualPrice: $15.00 - 17.00
+actualPrice: $17.00
 album: Exterminate
 artist: Angelcorpse
 categories:
@@ -14,5 +14,4 @@ title: Angelcorpse - Exterminate
 ---
 
 ## CD
-* Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/angelcorpse-exterminate-cd/) for $15.00
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/angelcorpse-exterminate-cd) for $17.00 :: Jewel Case 2022
