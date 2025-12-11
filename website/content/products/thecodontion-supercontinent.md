@@ -1,10 +1,11 @@
 ---
-actualPrice: $22.00
+actualPrice: $12.00 - 22.00
 album: Supercontinent
 artist: Thecodontion
 categories:
 - Vinyl
-date: '2025-11-18T06:35:49'
+- Cassette
+date: '2025-12-03T06:23:03'
 draft: false
 images:
 - /images/covers/thecodontion-supercontinent.jpg
@@ -14,4 +15,7 @@ title: Thecodontion - Supercontinent
 ---
 
 ## Vinyl
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=9670&sort=pd.name&order=ASC) for $20.00
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/thecodontion-supercontinent-lp) for $22.00 :: Black 2020 press vinyl
+## Cassette
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=63442&sort=pd.name&order=ASC) for $12.00

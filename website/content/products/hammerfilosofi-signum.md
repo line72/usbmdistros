@@ -5,7 +5,7 @@ artist: Hammerfilosofi
 categories:
 - Vinyl
 - CD
-date: '2025-12-07T06:03:02'
+date: '2025-12-11T06:03:12'
 draft: false
 images:
 - /images/covers/hammerfilosofi-signum.png

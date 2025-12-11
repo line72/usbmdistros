@@ -4,7 +4,7 @@ album: Lascivo Culto Solar
 artist: Illapa
 categories:
 - CD
-date: '2024-07-09T13:57:25'
+date: '2025-12-03T06:21:55'
 draft: false
 images:
 - /images/covers/illapa-lascivo_culto_solar.jpg
@@ -15,3 +15,4 @@ title: Illapa - Lascivo Culto Solar
 
 ## CD
 * Purchase from [CW Productions](https://shop.cwproductions.net/products/illapa-lascivo-culto-solar-cd) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=59983&sort=pd.name&order=ASC) for $10.00

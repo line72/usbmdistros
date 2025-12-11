@@ -4,7 +4,7 @@ album: L'ombre Du Neant
 artist: Drakonhail
 categories:
 - Vinyl
-date: '2025-08-02T05:02:14'
+date: '2025-12-03T06:20:15'
 draft: false
 images:
 - /images/covers/drakonhail-l'ombre_du_neant.png
@@ -15,3 +15,4 @@ title: Drakonhail - L'ombre Du Neant
 
 ## Vinyl
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/drakonhail-lombre-du-neant-12-lp) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=64389&sort=pd.name&order=ASC) for $30.00

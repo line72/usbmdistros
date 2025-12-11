@@ -1,10 +1,11 @@
 ---
-actualPrice: $25.00
+actualPrice: $12.00 - 25.00
 album: Paradeigma
 artist: Inferno
 categories:
 - Vinyl
-date: '2025-11-18T06:35:50'
+- Cassette
+date: '2025-12-03T06:22:49'
 draft: false
 images:
 - /images/covers/inferno-paradeigma.jpg
@@ -16,3 +17,5 @@ title: Inferno - Paradeigma
 ## Vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/inferno-paradeigma) for $25.00 :: Black 1st press vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/inferno-paradeigma) for $25.00 :: Red/Black Merge 2nd press vinyl
+## Cassette
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=15543&sort=pd.name&order=ASC) for $12.00

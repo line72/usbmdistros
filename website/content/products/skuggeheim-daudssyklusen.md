@@ -1,10 +1,10 @@
 ---
-actualPrice: $32.00
+actualPrice: $32.00 - 35.00
 album: Daudssyklusen
 artist: Skuggeheim
 categories:
 - Vinyl
-date: '2025-02-13T06:37:14'
+date: '2025-12-03T06:20:56'
 draft: false
 images:
 - /images/covers/skuggeheim-daudssyklusen.jpg
@@ -15,3 +15,4 @@ title: Skuggeheim - Daudssyklusen
 
 ## Vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/skuggeheim-daudssyklusen-lp) for $32.00 :: Silver 2023 press vinyl
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=63665&sort=pd.name&order=ASC) for $35.00
