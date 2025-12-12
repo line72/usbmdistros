@@ -5,7 +5,7 @@ artist: Lifelover
 categories:
 - Vinyl
 - CD
-date: '2025-12-06T06:36:39'
+date: '2025-12-12T06:35:03'
 draft: false
 images:
 - /images/covers/lifelover-dekadens.jpg
@@ -16,6 +16,6 @@ title: Lifelover - Dekadens
 
 ## Vinyl
 * Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/lifelover-dekadens-swirl-vinyl-lp) for $27.99 :: swirl vinyl lp
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/lifelover-dekadens-lp) for $26.00 :: Swirl 2025 press vinyl
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/lifelover-dekadens-lp) for $26.00 :: Color 2025 press vinyl
 ## CD
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/lifelover-dekadens-cd) for $12.00 :: Jewel Case 2024

@@ -1,10 +1,10 @@
 ---
-actualPrice: $31.99
+actualPrice: $37.00
 album: Nocturnal Will
 artist: "D\xF6dsrit"
 categories:
 - Vinyl
-date: '2025-04-06T05:43:06'
+date: '2025-12-12T06:44:01'
 draft: false
 images:
 - "/images/covers/d\xF6dsrit-nocturnal_will.jpg"
@@ -14,4 +14,4 @@ title: "D\xF6dsrit - Nocturnal Will"
 ---
 
 ## Vinyl
-* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/dodsrit-nocturnal-will-black-vinyl-lp) for $31.99 :: black vinyl lp
+* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/dodsrit-nocturnal-will-clear-w-blue-black-white-splatter-vinyl-lp) for $37.00 :: clear w/ blue,black & white splatter vinyl lp

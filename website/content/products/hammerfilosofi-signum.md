@@ -1,11 +1,10 @@
 ---
-actualPrice: $15.00 - 27.00
+actualPrice: $27.00
 album: Signum
 artist: Hammerfilosofi
 categories:
 - Vinyl
-- CD
-date: '2025-12-11T06:03:12'
+date: '2025-12-07T06:02:11'
 draft: false
 images:
 - /images/covers/hammerfilosofi-signum.png
@@ -16,5 +15,3 @@ title: Hammerfilosofi - Signum
 
 ## Vinyl
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/hammerfilosofi-signum-12-lp) for $27.00
-## CD
-* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/hammerfilosofi-signum-cd) for $15.00

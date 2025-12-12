@@ -4,7 +4,7 @@ album: "Av H\xE4danf\xE4rd Kr\xF6nt"
 artist: "V\xF6rnir"
 categories:
 - Vinyl
-date: '2025-12-02T06:02:12'
+date: '2025-12-12T06:02:13'
 draft: false
 images:
 - "/images/covers/v\xF6rnir-av_h\xE4danf\xE4rd_kr\xF6nt.png"

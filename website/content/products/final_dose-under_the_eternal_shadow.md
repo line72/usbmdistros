@@ -1,10 +1,10 @@
 ---
-actualPrice: $34.00
+actualPrice: $35.99
 album: Under The Eternal Shadow
 artist: Final Dose
 categories:
 - Vinyl
-date: '2025-06-13T05:50:01'
+date: '2025-12-12T06:44:01'
 draft: false
 images:
 - /images/covers/final_dose-under_the_eternal_shadow.png
@@ -14,4 +14,4 @@ title: Final Dose - Under The Eternal Shadow
 ---
 
 ## Vinyl
-* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/final-dose-under-the-eternal-shadow-red-smoke-w-obi-strip-vinyl-lp-1) for $34.00 :: red/smoke w/ obi strip vinyl lp
+* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/final-dose-under-the-eternal-shadow-smoke-w-obi-strip-vinyl-lp) for $35.99 :: smoke w/ obi strip vinyl lp
