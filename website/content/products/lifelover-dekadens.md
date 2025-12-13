@@ -1,5 +1,5 @@
 ---
-actualPrice: $12.00 - 27.99
+actualPrice: $12.00 - 26.00
 album: Dekadens
 artist: Lifelover
 categories:
@@ -15,7 +15,6 @@ title: Lifelover - Dekadens
 ---
 
 ## Vinyl
-* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/lifelover-dekadens-swirl-vinyl-lp) for $27.99 :: swirl vinyl lp
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/lifelover-dekadens-lp) for $26.00 :: Color 2025 press vinyl
 ## CD
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/lifelover-dekadens-cd) for $12.00 :: Jewel Case 2024

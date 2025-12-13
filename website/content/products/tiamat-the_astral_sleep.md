@@ -15,7 +15,6 @@ title: Tiamat - The Astral Sleep
 ---
 
 ## Vinyl
-* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/tiamat-the-astral-sleep-ltd-200-black-vinyl-lp) for $29.99 :: ltd 200 black vinyl lp
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/tiamat-the-astral-sleep-lp) for $30.00 :: Galaxy 2025 press vinyl
 ## Cassette
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=53939&sort=pd.name&order=ASC) for $15.00

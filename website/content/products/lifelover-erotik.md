@@ -1,5 +1,5 @@
 ---
-actualPrice: $24.99 - 27.99
+actualPrice: $26.00
 album: Erotik
 artist: Lifelover
 categories:
@@ -14,6 +14,4 @@ title: Lifelover - Erotik
 ---
 
 ## Vinyl
-* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/lifelover-erotik-splatter-vinyl-lp) for $24.99 :: splatter vinyl lp
-* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/lifelover-erotik-swirl-vinyl-lp) for $27.99 :: swirl vinyl lp
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/lifelover-erotik-lp) for $26.00 :: Color 2025 press vinyl

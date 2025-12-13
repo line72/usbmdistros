@@ -1,5 +1,5 @@
 ---
-actualPrice: $30.00 - 35.00
+actualPrice: $30.00
 album: Vanitas
 artist: In Twilight's Embrace
 categories:
@@ -14,5 +14,4 @@ title: In Twilight's Embrace - Vanitas
 ---
 
 ## Vinyl
-* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/in-twilights-embrace-vanitas-limited-180g-dark-green-vinyl-lp-bbv-import) for $35.00 :: limited 180g dark green vinyl lp [bbv import]
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/in-twilights-embrace-vanitas-lp) for $30.00 :: Green 2023 press vinyl

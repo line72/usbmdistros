@@ -1,5 +1,5 @@
 ---
-actualPrice: $25.99 - 26.00
+actualPrice: $26.00
 album: Of The Sign...
 artist: Spirit Possession
 categories:
@@ -14,5 +14,4 @@ title: Spirit Possession - Of The Sign...
 ---
 
 ## Vinyl
-* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/spirit-possession-of-the-sign-vinyl-lp-multiple-limited-variants) for $25.99 :: vinyl lp (multiple limited variants)
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/spirit-possession-of-the-sign-lp) for $26.00 :: Red 2023 press vinyl

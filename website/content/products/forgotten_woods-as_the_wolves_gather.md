@@ -1,10 +1,10 @@
 ---
-actualPrice: $28.00
+actualPrice: $30.00
 album: As The Wolves Gather
 artist: Forgotten Woods
 categories:
 - Vinyl
-date: '2025-12-12T06:35:00'
+date: '2025-12-13T06:02:15'
 draft: false
 images:
 - /images/covers/forgotten_woods-as_the_wolves_gather.png
@@ -14,4 +14,4 @@ title: Forgotten Woods - As The Wolves Gather
 ---
 
 ## Vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/forgotten-woods-as-the-wolves-gather-lp) for $28.00 :: Black 2007 press vinyl
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/forgotten-woods-as-the-wolves-gather-12-lp) for $30.00

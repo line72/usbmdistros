@@ -15,4 +15,3 @@ title: Spectral Lore - III
 
 ## Vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/spectral-lore-iii-3xlp) for $45.00 :: Blue Marbled 2025 press
-* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/spectral-lore-iii-3lp-spiral-fountain-vinyl-triple-lp) for $45.00 :: 3lp spiral fountain vinyl triple lp
