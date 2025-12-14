@@ -16,5 +16,6 @@ title: Gaerea - Coma
 
 ## Vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/gaerea-coma-lp) for $35.00 :: Color 2024 press vinyl
+* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/gaerea-coma-ltd-500-gatefold-purple-vinyl-lp-1) for $33.99 :: transparent purple with splatter (blue/black) vinyl lp
 ## CD
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/gaerea-coma-cd) for $14.00 :: Digisleeve 2024

@@ -1,5 +1,5 @@
 ---
-actualPrice: $28.00
+actualPrice: $28.00 - 29.99
 album: Primordial Arcana Deluxe
 artist: Wolves In The Throne Room
 categories:
@@ -15,3 +15,4 @@ title: Wolves In The Throne Room - Primordial Arcana Deluxe
 
 ## Vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/wolves-in-the-throne-room-primordial-arcana-deluxe-2xlp) for $28.00 :: Clear w/ Wings & Splatter 2021 press vinyl
+* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/wolves-in-the-throne-room-primordial-arcana-deluxe-2lp-limited-to-535) for $29.99 :: primordial arcana deluxe 2lp - limited to 535
