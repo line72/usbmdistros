@@ -5,7 +5,7 @@ artist: Deogen
 categories:
 - Vinyl
 - CD
-date: '2025-12-03T06:21:41'
+date: '2025-12-17T06:25:25'
 draft: false
 images:
 - /images/covers/deogen-the_endless_black_shadows_of_abyss.png
@@ -15,7 +15,7 @@ title: Deogen - The Endless Black Shadows Of Abyss
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=64126&sort=pd.name&order=ASC) for $25.00
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/deogen-the-endless-black-shadows-of-abyss-12-lp) for $28.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=64451&sort=pd.name&order=ASC) for $25.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=64133&sort=pd.name&order=ASC) for $12.00

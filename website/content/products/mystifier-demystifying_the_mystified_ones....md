@@ -1,10 +1,10 @@
 ---
-actualPrice: $27.00
+actualPrice: $30.00
 album: Demystifying The Mystified Ones...
 artist: Mystifier
 categories:
 - Vinyl
-date: '2025-12-03T06:20:42'
+date: '2025-12-19T06:20:38'
 draft: false
 images:
 - /images/covers/mystifier-demystifying_the_mystified_ones....png
@@ -14,4 +14,4 @@ title: Mystifier - Demystifying The Mystified Ones...
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=62818&sort=pd.name&order=ASC) for $27.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=64535&sort=pd.name&order=ASC) for $30.00

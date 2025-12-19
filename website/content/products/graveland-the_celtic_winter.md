@@ -4,7 +4,7 @@ album: The Celtic Winter
 artist: Graveland
 categories:
 - Vinyl
-date: '2025-12-03T06:20:22'
+date: '2025-12-17T06:25:34'
 draft: false
 images:
 - /images/covers/graveland-the_celtic_winter.jpg
@@ -14,4 +14,4 @@ title: Graveland - The Celtic Winter
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=64100&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=64454&sort=pd.name&order=ASC) for $25.00

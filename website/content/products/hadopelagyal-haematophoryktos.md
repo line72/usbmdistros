@@ -1,11 +1,10 @@
 ---
-actualPrice: $15.00 - 33.00
+actualPrice: $33.00
 album: Haematophoryktos
 artist: Hadopelagyal
 categories:
 - Vinyl
-- CD
-date: '2025-11-14T06:03:04'
+date: '2025-11-14T06:02:15'
 draft: false
 images:
 - /images/covers/hadopelagyal-haematophoryktos.png
@@ -16,5 +15,3 @@ title: Hadopelagyal - Haematophoryktos
 
 ## Vinyl
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/hadopelagyalhaematophoryktos-12-lp) for $33.00
-## CD
-* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/hadopelagyal-haematophoryktos-cd) for $15.00
