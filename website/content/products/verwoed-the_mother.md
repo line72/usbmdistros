@@ -1,11 +1,10 @@
 ---
-actualPrice: $13.00 - 33.99
+actualPrice: $26.00
 album: The Mother
 artist: Verwoed
 categories:
 - Vinyl
-- Cassette
-date: '2025-11-18T06:42:53'
+date: '2024-07-09T00:39:50'
 draft: false
 images:
 - /images/covers/verwoed-the_mother.jpg
@@ -16,6 +15,3 @@ title: Verwoed - The Mother
 
 ## Vinyl
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/verwoed-the-mother-12-lp) for $26.00
-* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/verwoed-the-mother-limited-gold-vinyl-w-obi-strip) for $33.99 :: limited gold vinyl w/ obi strip
-## Cassette
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/verwoed-the-mother-cassette) for $13.00 :: Cassette 2024

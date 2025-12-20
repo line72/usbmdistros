@@ -1,5 +1,5 @@
 ---
-actualPrice: $12.00 - 13.00
+actualPrice: $12.00
 album: Eventide Primitivism
 artist: Arbor
 categories:
@@ -14,5 +14,4 @@ title: Arbor - Eventide Primitivism
 ---
 
 ## CD
-* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/arbor-eventide-primitivism-cd) for $13.00
 * Purchase from [CW Productions](https://shop.cwproductions.net/products/arbor-eventide-primitivism-cd-2) for $12.00
