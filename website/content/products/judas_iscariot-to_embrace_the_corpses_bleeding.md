@@ -1,5 +1,5 @@
 ---
-actualPrice: $35.00 - 40.00
+actualPrice: $40.00
 album: To Embrace The Corpses Bleeding
 artist: Judas Iscariot
 categories:
@@ -15,4 +15,3 @@ title: Judas Iscariot - To Embrace The Corpses Bleeding
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=58886&sort=pd.name&order=ASC) for $40.00
-* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/judas-iscariot-to-embrace-the-corpses-bleeding-12-lp) for $35.00

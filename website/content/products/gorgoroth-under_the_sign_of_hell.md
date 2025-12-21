@@ -1,10 +1,10 @@
 ---
-actualPrice: $27.00
+actualPrice: $23.99
 album: Under The Sign Of Hell
 artist: Gorgoroth
 categories:
 - Vinyl
-date: '2025-12-03T06:20:21'
+date: '2024-07-09T14:02:11'
 draft: false
 images:
 - /images/covers/gorgoroth-under_the_sign_of_hell.jpg
@@ -14,4 +14,4 @@ title: Gorgoroth - Under The Sign Of Hell
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=63606&sort=pd.name&order=ASC) for $27.00
+* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/gorgoroth-under-the-sign-of-hell-white-black-marbled-vinyl-lp) for $23.99 :: white/black marbled vinyl lp

@@ -1,5 +1,5 @@
 ---
-actualPrice: $25.00
+actualPrice: $24.99 - 25.00
 album: Tides Of Fire
 artist: With The End In Mind
 categories:
@@ -14,4 +14,5 @@ title: With The End In Mind - Tides Of Fire
 ---
 
 ## Vinyl
+* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/with-the-end-in-mind-tides-of-fire-vinyl-lp) for $24.99 :: vinyl lp
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=60786&sort=pd.name&order=ASC) for $25.00
