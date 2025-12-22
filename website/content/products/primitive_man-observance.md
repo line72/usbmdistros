@@ -1,11 +1,10 @@
 ---
-actualPrice: $13.00 - 30.00
+actualPrice: $13.00
 album: Observance
 artist: Primitive Man
 categories:
-- Vinyl
 - CD
-date: '2025-12-02T06:33:06'
+date: '2025-12-02T06:33:04'
 draft: false
 images:
 - /images/covers/primitive_man-observance.png
@@ -14,7 +13,5 @@ thumbnailImage: /images/covers/primitive_man-observance-thumb.png
 title: Primitive Man - Observance
 ---
 
-## Vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/primitive-man-observance-2xlp) for $30.00 :: Black/Silver Galaxy 2025 press
 ## CD
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/primitive-man-observance-cd) for $13.00 :: Jewel Case 2025

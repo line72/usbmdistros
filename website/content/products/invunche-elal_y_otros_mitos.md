@@ -1,5 +1,5 @@
 ---
-actualPrice: $12.00 - 27.99
+actualPrice: $12.00 - 25.00
 album: Elal Y Otros Mitos
 artist: Invunche
 categories:
@@ -16,6 +16,5 @@ title: Invunche - Elal Y Otros Mitos
 
 ## Vinyl
 * Purchase from [CW Productions](https://shop.cwproductions.net/products/invunche-elal-y-otros-mitos-lp) for $25.00
-* Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/invunche-elal-y-otros-mitos-vinyl-lp-color-lim100) for $27.99 :: (color, lim.100)
 ## Cassette
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=64516&sort=pd.name&order=ASC) for $12.00
