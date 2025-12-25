@@ -15,7 +15,6 @@ title: Verwoed - The Mother
 ---
 
 ## Vinyl
-* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/verwoed-the-mother-12-lp) for $26.00
 * Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/verwoed-the-mother-limited-gold-vinyl-w-obi-strip) for $33.99 :: limited gold vinyl w/ obi strip
 ## Cassette
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/verwoed-the-mother-cassette) for $13.00 :: Cassette 2024
