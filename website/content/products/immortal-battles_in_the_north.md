@@ -5,7 +5,7 @@ artist: Immortal
 categories:
 - Vinyl
 - CD
-date: '2025-12-08T06:37:38'
+date: '2025-12-03T06:21:55'
 draft: false
 images:
 - /images/covers/immortal-battles_in_the_north.png
@@ -19,4 +19,3 @@ title: Immortal - Battles In The North
 * Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/immortal-battles-in-the-north-gatefold-black-white-vinyl-lp-1) for $27.00 :: gatefold black/white vinyl lp
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=64212&sort=pd.name&order=ASC) for $15.00
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/immortal-battles-in-the-north-cd) for $18.00 :: Jewel Case 2023
