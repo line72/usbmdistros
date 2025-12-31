@@ -1,10 +1,10 @@
 ---
-actualPrice: $29.99
+actualPrice: $28.00 - 29.99
 album: Slaves of The World
 artist: Old Man's Child
 categories:
 - Vinyl
-date: '2025-07-11T05:42:47'
+date: '2025-12-08T06:37:36'
 draft: false
 images:
 - /images/covers/old_man's_child-slaves_of_the_world.jpg
@@ -16,3 +16,4 @@ title: Old Man's Child - Slaves of The World
 ## Vinyl
 * Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/old-mans-child-slaves-of-the-world-clear-red-green-splatter-vinyl-lp-ltd-250-copy) for $29.99 :: clear red/green splatter vinyl lp (ltd 250)
 * Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/old-mans-child-slaves-of-the-world-clear-red-green-splatter-vinyl-lp-ltd-253) for $29.99 :: clear red/green splatter vinyl lp (ltd 250)
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/old-mans-child-slaves-of-the-world-lp) for $28.00 :: Splatter 2023 press vinyl

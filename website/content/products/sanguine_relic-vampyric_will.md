@@ -4,7 +4,7 @@ album: Vampyric Will
 artist: Sanguine Relic
 categories:
 - CD
-date: '2025-12-29T06:08:22'
+date: '2025-12-31T06:03:03'
 draft: false
 images:
 - /images/covers/sanguine_relic-vampyric_will.jpg
