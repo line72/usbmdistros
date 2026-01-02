@@ -4,7 +4,7 @@ album: The Dragging Poison
 artist: Noirsuaire
 categories:
 - Vinyl
-date: '2025-12-07T06:02:11'
+date: '2026-01-02T06:02:09'
 draft: false
 images:
 - /images/covers/noirsuaire-the_dragging_poison.png
