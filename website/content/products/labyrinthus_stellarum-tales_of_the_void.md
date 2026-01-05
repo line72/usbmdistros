@@ -16,4 +16,3 @@ title: Labyrinthus Stellarum - Tales Of The Void
 ## Vinyl
 * Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/labyrinthus-stellarum-tales-of-the-void-ltd-black-red-color-in-color-vinyl-lp) for $35.99 :: ltd black/red color in color vinyl lp
 * Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/labyrinthus-stellarum-tales-of-the-void-ltd-grey-black-galaxy-vinyl-lp) for $34.00 :: ltd grey/black galaxy vinyl lp
-* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/labyrinthus-stellarum-tales-of-the-void-ltd-red-black-marble-vinyl-lp) for $34.00 :: ltd red/black marble vinyl lp
