@@ -16,6 +16,7 @@ title: Wolves In The Throne Room - 2005 Demo
 ---
 
 ## Vinyl
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/wolves-in-the-throne-room-2005-demo-12) for $22.00 :: Black Ice 2025 press vinyl
 * Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/wolves-in-the-throne-room-2005-demo-12-vinyl-lp-color-lim-311) for $24.99 :: (color, lim.311)
 ## Cassette
 * Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/wolves-in-the-throne-room-2005-demo-cassette-tape) for $11.99

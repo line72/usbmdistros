@@ -6,7 +6,6 @@ artist: Gerzolth
 categories:
 - Vinyl
 - Cassette
-- CD
 date: '2025-01-16T06:02:06'
 draft: false
 images:
@@ -26,5 +25,3 @@ title: "Gerzolth - \u041F\u043E\u0440\u044B\u0432\u0430\u043C \u0421\u0435\u0440
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/gerzolth-12-lp) for $28.00
 ## Cassette
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/gerzolth-tape) for $12.00
-## CD
-* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/gerzolth-cd) for $15.00

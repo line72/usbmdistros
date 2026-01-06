@@ -1,5 +1,5 @@
 ---
-actualPrice: $20.00
+actualPrice: $20.00 - 25.00
 album: Satan Spits On Children Of Light
 artist: DEVIL MASTER
 categories:
@@ -14,4 +14,5 @@ title: DEVIL MASTER - Satan Spits On Children Of Light
 ---
 
 ## Vinyl
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/devil-master-satan-spits-on-children-of-light-lp) for $25.00 :: Violet w/ Splatter 2023 press
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/used-devil-master-satan-spits-on-children-of-light-lp) for $20.00 :: Violet w/ Splatter 2023 press
