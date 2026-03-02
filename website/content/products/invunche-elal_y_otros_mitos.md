@@ -5,7 +5,7 @@ artist: Invunche
 categories:
 - Vinyl
 - Cassette
-date: '2025-12-19T06:22:42'
+date: '2026-02-27T15:20:33'
 draft: false
 images:
 - /images/covers/invunche-elal_y_otros_mitos.jpg
@@ -16,5 +16,6 @@ title: Invunche - Elal Y Otros Mitos
 
 ## Vinyl
 * Purchase from [CW Productions](https://shop.cwproductions.net/products/invunche-elal-y-otros-mitos-lp) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=65924&sort=pd.name&order=ASC) for $25.00
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=64516&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=65929&sort=pd.name&order=ASC) for $12.00

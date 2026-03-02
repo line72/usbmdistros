@@ -4,7 +4,7 @@ album: Ancient Obsession
 artist: Dreadful Relic
 categories:
 - Vinyl
-date: '2025-12-31T06:20:10'
+date: '2026-02-27T15:18:11'
 draft: false
 images:
 - /images/covers/dreadful_relic-ancient_obsession.png
@@ -14,5 +14,5 @@ title: Dreadful Relic - Ancient Obsession
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=64703&sort=pd.name&order=ASC) for $25.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=64704&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=66007&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=66008&sort=pd.name&order=ASC) for $25.00

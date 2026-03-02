@@ -4,7 +4,7 @@ album: Moonlight Butchery + Bonus
 artist: Judas Iscariot
 categories:
 - Vinyl
-date: '2025-12-03T06:20:30'
+date: '2026-02-27T15:18:26'
 draft: false
 images:
 - /images/covers/judas_iscariot-moonlight_butchery_+_bonus.jpg
@@ -14,4 +14,4 @@ title: Judas Iscariot - Moonlight Butchery + Bonus
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=58885&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=65859&sort=pd.name&order=ASC) for $25.00

@@ -15,7 +15,6 @@ title: Dessiderium - Keys To The Palace
 ---
 
 ## Vinyl
-* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/dessiderium-keys-to-the-palace-double-lp-light-blue-orange-yellow-splatter-dlp) for $39.99 :: double lp light blue/orange/yellow splatter dlp
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/dessiderium-keys-to-the-palace-2xlp) for $40.00 :: Color 2025 press vinyl
 ## CD
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/dessiderium-keys-to-the-palace-cd) for $12.00 :: Jewel Case 2025

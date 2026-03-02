@@ -4,7 +4,7 @@ album: Abyss of Wrathful Deities
 artist: Grave Miasma
 categories:
 - Vinyl
-date: '2025-12-03T06:20:22'
+date: '2026-02-27T15:18:17'
 draft: false
 images:
 - /images/covers/grave_miasma-abyss_of_wrathful_deities.png
@@ -15,4 +15,4 @@ title: Grave Miasma - Abyss of Wrathful Deities
 
 ## Vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/grave-miasma-abyss-of-wrathful-deities-lp) for $25.00 :: Black 1st press vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=64345&sort=pd.name&order=ASC) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=65376&sort=pd.name&order=ASC) for $30.00

@@ -1,5 +1,5 @@
 ---
-actualPrice: $9.00 - 12.00
+actualPrice: $12.00
 album: Carnal Rites
 artist: Angelust
 categories:
@@ -15,4 +15,3 @@ title: Angelust - Carnal Rites
 
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=48981&sort=pd.name&order=ASC) for $12.00
-* Purchase from [CW Productions](https://shop.cwproductions.net/products/angelust-carnal-rites-cd-2) for $9.00

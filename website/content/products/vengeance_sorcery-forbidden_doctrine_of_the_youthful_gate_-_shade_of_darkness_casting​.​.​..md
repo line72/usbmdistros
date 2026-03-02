@@ -5,7 +5,7 @@ album: "Forbidden Doctrine of the Youthful Gate / Shade of Darkness Casting\u200
 artist: Vengeance Sorcery
 categories:
 - Vinyl
-date: '2025-12-03T06:21:07'
+date: '2026-02-27T15:18:59'
 draft: false
 images:
 - "/images/covers/vengeance_sorcery-forbidden_doctrine_of_the_youthful_gate_-_shade_of_darkness_casting\u200B\
@@ -18,4 +18,4 @@ title: "Vengeance Sorcery - Forbidden Doctrine of the Youthful Gate / Shade of D
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=64040&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=66033&sort=pd.name&order=ASC) for $20.00

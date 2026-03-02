@@ -4,7 +4,7 @@ album: Zrodzony Z Ognia I Lodu
 artist: Arkona
 categories:
 - CD
-date: '2025-12-03T06:21:28'
+date: '2026-02-27T15:19:20'
 draft: false
 images:
 - /images/covers/arkona-zrodzony_z_ognia_i_lodu.jpg
@@ -14,4 +14,4 @@ title: Arkona - Zrodzony Z Ognia I Lodu
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=55451&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=65855&sort=pd.name&order=ASC) for $15.00

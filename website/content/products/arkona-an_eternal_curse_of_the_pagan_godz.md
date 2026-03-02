@@ -4,7 +4,7 @@ album: An Eternal Curse of the Pagan Godz
 artist: Arkona
 categories:
 - CD
-date: '2025-12-03T06:21:28'
+date: '2026-02-27T15:19:20'
 draft: false
 images:
 - /images/covers/arkona-an_eternal_curse_of_the_pagan_godz.png
@@ -14,4 +14,4 @@ title: Arkona - An Eternal Curse of the Pagan Godz
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=57945&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=65852&sort=pd.name&order=ASC) for $12.00

@@ -4,7 +4,7 @@ album: The Final Separation / Fallen Angel
 artist: Bulldozer
 categories:
 - CD
-date: '2025-12-03T06:21:32'
+date: '2026-03-01T06:21:59'
 draft: false
 images:
 - /images/covers/bulldozer-the_final_separation_-_fallen_angel.jpg
@@ -14,4 +14,4 @@ title: Bulldozer - The Final Separation / Fallen Angel
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=64071&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=66155&sort=pd.name&order=ASC) for $20.00

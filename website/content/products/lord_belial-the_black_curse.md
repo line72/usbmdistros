@@ -5,7 +5,7 @@ artist: Lord Belial
 categories:
 - Vinyl
 - CD
-date: '2025-12-03T06:22:01'
+date: '2026-02-27T15:19:50'
 draft: false
 images:
 - /images/covers/lord_belial-the_black_curse.jpg
@@ -15,6 +15,6 @@ title: Lord Belial - The Black Curse
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=61835&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=65999&sort=pd.name&order=ASC) for $25.00
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=61834&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=65998&sort=pd.name&order=ASC) for $15.00

@@ -1,5 +1,5 @@
 ---
-actualPrice: $13.00 - 22.99
+actualPrice: $13.00 - 15.00
 album: Zmora
 artist: "Bia\u0142ywilk"
 categories:
@@ -15,7 +15,6 @@ title: "Bia\u0142ywilk - Zmora"
 ---
 
 ## Vinyl
-* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/bialywilk-zmora-vinyl-lp) for $22.99 :: vinyl lp
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/bialywilk-zmora-lp) for $15.00 :: Black 2023 press vinyl
 ## CD
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/bialywilk-zmora-cd) for $13.00 :: CD 2023

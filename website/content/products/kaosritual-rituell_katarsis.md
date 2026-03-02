@@ -4,7 +4,7 @@ album: Rituell Katarsis
 artist: Kaosritual
 categories:
 - Vinyl
-date: '2025-12-03T06:20:32'
+date: '2026-02-27T15:18:27'
 draft: false
 images:
 - /images/covers/kaosritual-rituell_katarsis.jpg
@@ -14,4 +14,4 @@ title: Kaosritual - Rituell Katarsis
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=64416&sort=pd.name&order=ASC) for $27.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=65813&sort=pd.name&order=ASC) for $27.00

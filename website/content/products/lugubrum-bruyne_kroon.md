@@ -4,7 +4,7 @@ album: Bruyne Kroon
 artist: Lugubrum
 categories:
 - Vinyl
-date: '2025-12-03T06:20:36'
+date: '2026-03-02T06:30:36'
 draft: false
 images:
 - /images/covers/lugubrum-bruyne_kroon.jpg
@@ -14,4 +14,4 @@ title: Lugubrum - Bruyne Kroon
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=63819&sort=pd.name&order=ASC) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=66221&sort=pd.name&order=ASC) for $30.00

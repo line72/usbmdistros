@@ -4,7 +4,7 @@ album: Vittra
 artist: Naglfar
 categories:
 - Vinyl
-date: '2025-12-29T06:28:27'
+date: '2026-02-27T15:18:36'
 draft: false
 images:
 - /images/covers/naglfar-vittra.jpg
@@ -14,5 +14,4 @@ title: Naglfar - Vittra
 ---
 
 ## Vinyl
-* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/naglfar-vittra-re-issue-2023-eu-exclusive-ltd-500-transp-green-lp-lp-booklet-bbv-import) for $35.00 :: eu exclusive ltd. 500 transp. green lp & lp-booklet - bbv import
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=64658&sort=pd.name&order=ASC) for $35.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=65991&sort=pd.name&order=ASC) for $35.00

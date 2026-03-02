@@ -1,10 +1,10 @@
 ---
-actualPrice: $30.00
+actualPrice: $25.00
 album: Ancestor Of The Darkly Sky
 artist: Gehenna
 categories:
 - Vinyl
-date: '2025-12-03T06:21:17'
+date: '2026-02-27T15:19:07'
 draft: false
 images:
 - /images/covers/gehenna-ancestor_of_the_darkly_sky.jpg
@@ -14,4 +14,4 @@ title: Gehenna - Ancestor Of The Darkly Sky
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=57669&sort=pd.name&order=ASC) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=65889&sort=pd.name&order=ASC) for $25.00

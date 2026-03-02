@@ -4,7 +4,7 @@ album: Two Carrion Talismans
 artist: Valdrin
 categories:
 - CD
-date: '2025-12-03T06:22:28'
+date: '2026-03-01T06:22:49'
 draft: false
 images:
 - /images/covers/valdrin-two_carrion_talismans.jpg
@@ -15,4 +15,4 @@ title: Valdrin - Two Carrion Talismans
 
 ## CD
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/valdrin-two-carrion-talismans-cd) for $14.00 :: Jewel Case 2024
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=63938&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=66149&sort=pd.name&order=ASC) for $15.00

@@ -1,10 +1,10 @@
 ---
-actualPrice: $22.00
+actualPrice: $22.00 - 25.00
 album: The Secrets Of The Black Arts
 artist: Dark Funeral
 categories:
 - Vinyl
-date: '2023-09-20T05:00:52'
+date: '2026-02-27T16:46:38'
 draft: false
 images:
 - /images/covers/dark_funeral-the_secrets_of_the_black_arts.jpg
@@ -15,3 +15,4 @@ title: Dark Funeral - The Secrets Of The Black Arts
 
 ## Vinyl
 * Purchase from [Sto'Vo'Kor Records](https://stovokor-records.com/products/dark-funeral-the-secrets-of-the-black-arts) for $22.00
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/dark-funeral-the-secrets-of-the-black-arts-lp) for $25.00 :: Red 2022 press vinyl

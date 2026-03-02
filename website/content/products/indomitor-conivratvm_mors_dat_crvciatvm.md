@@ -4,7 +4,7 @@ album: Conivratvm Mors Dat Crvciatvm
 artist: Indomitor
 categories:
 - CD
-date: '2025-12-03T06:21:56'
+date: '2026-03-01T06:22:19'
 draft: false
 images:
 - /images/covers/indomitor-conivratvm_mors_dat_crvciatvm.jpg
@@ -14,4 +14,4 @@ title: Indomitor - Conivratvm Mors Dat Crvciatvm
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=61157&sort=pd.name&order=ASC) for $13.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=66129&sort=pd.name&order=ASC) for $13.00

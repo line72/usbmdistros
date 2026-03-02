@@ -4,7 +4,7 @@ album: Gold Oder Blut
 artist: "Barad D\xFBr"
 categories:
 - Vinyl
-date: '2025-12-03T06:20:03'
+date: '2026-02-27T15:18:01'
 draft: false
 images:
 - "/images/covers/barad_d\xFBr-gold_oder_blut.jpg"
@@ -14,4 +14,4 @@ title: "Barad D\xFBr - Gold Oder Blut"
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=61481&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=65876&sort=pd.name&order=ASC) for $25.00

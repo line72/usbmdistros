@@ -5,7 +5,6 @@ artist: Blasphemy
 categories:
 - Vinyl
 - Cassette
-- CD
 date: '2025-12-03T06:22:36'
 draft: false
 images:
@@ -19,5 +18,3 @@ title: Blasphemy - Gods of War
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=63275&sort=pd.name&order=ASC) for $25.00
 ## Cassette
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=63282&sort=pd.name&order=ASC) for $12.00
-## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=62635&sort=pd.name&order=ASC) for $12.00

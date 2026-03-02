@@ -1,10 +1,10 @@
 ---
-actualPrice: $30.00
+actualPrice: $25.00 - 30.00
 album: Return to Hell
 artist: Burning Winds
 categories:
 - Vinyl
-date: '2025-12-03T06:20:07'
+date: '2026-02-27T15:18:04'
 draft: false
 images:
 - /images/covers/burning_winds-return_to_hell.jpg
@@ -15,3 +15,4 @@ title: Burning Winds - Return to Hell
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=56706&sort=pd.name&order=ASC) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=66060&sort=pd.name&order=ASC) for $25.00

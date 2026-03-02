@@ -4,7 +4,7 @@ album: Howls Of Ebb)
 artist: Herxheim
 categories:
 - Vinyl
-date: '2025-12-03T06:20:25'
+date: '2026-02-27T15:18:20'
 draft: false
 images:
 - /images/covers/herxheim-howls_of_ebb).png
@@ -14,4 +14,4 @@ title: Herxheim - Howls Of Ebb)
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=41735&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=66030&sort=pd.name&order=ASC) for $15.00

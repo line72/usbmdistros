@@ -1,10 +1,10 @@
 ---
-actualPrice: $13.00
+actualPrice: $32.00
 album: Alpenpasse
 artist: Minenwerfer
 categories:
-- CD
-date: '2025-05-19T14:40:07'
+- Vinyl
+date: '2025-12-04T06:34:15'
 draft: false
 images:
 - /images/covers/minenwerfer-alpenpasse.jpg
@@ -13,5 +13,6 @@ thumbnailImage: /images/covers/minenwerfer-alpenpasse-thumb.jpg
 title: Minenwerfer - Alpenpasse
 ---
 
-## CD
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/minenwerfer-alpenpasse-cd) for $13.00 :: Jewel Case 2022
+## Vinyl
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/minenwerfer-alpenpasse-2xlp) for $32.00 :: Black 2022 press vinyl
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/minenwerfer-alpenpasse-2xlp) for $32.00 :: Marble 2022 press vinyl

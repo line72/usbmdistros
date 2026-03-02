@@ -1,10 +1,10 @@
 ---
-actualPrice: $34.00
+actualPrice: $24.99
 album: Unity
 artist: SKYFOREST
 categories:
 - Vinyl
-date: '2025-09-16T05:42:29'
+date: '2024-01-26T01:44:20'
 draft: false
 images:
 - /images/covers/skyforest-unity.jpg
@@ -14,4 +14,4 @@ title: SKYFOREST - Unity
 ---
 
 ## Vinyl
-* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/skyforest-unity-bone-orange-swirl-vinyl-lp) for $34.00 :: bone/orange swirl vinyl lp
+* Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/skyforest-unity-vinyl-lp-color-lim-199) for $24.99 :: (color, lim.199)
