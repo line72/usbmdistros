@@ -14,5 +14,6 @@ title: Wolves In The Throne Room - Crypt Of Ancestral Knowledge
 ---
 
 ## Vinyl
+* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/wolves-in-the-throne-room-crypt-of-ancestral-knowledge-blue-white-galaxy-merge-vinyl-lp) for $20.99 :: blue/white galaxy merge vinyl lp
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/wolves-in-the-throne-room-crypt-of-ancestral-knowledge-12) for $22.00 :: Metallic Silver 2024 press
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/used-wolves-in-the-throne-room-crypt-of-ancestral-knowledge-12) for $15.00 :: Color 2024 press vinyl

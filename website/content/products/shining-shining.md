@@ -1,5 +1,5 @@
 ---
-actualPrice: $13.00 - 28.00
+actualPrice: $13.00 - 37.99
 album: Shining
 artist: Shining
 categories:
@@ -15,6 +15,7 @@ title: Shining - Shining
 ---
 
 ## Vinyl
+* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/shining-halmstad-2lp-black-vinyl-dlp) for $37.99 :: 2lp black vinyl dlp
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/shining-shining-2xlp) for $28.00 :: Black 2023 press vinyl
 ## CD
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/shining-shining-cd) for $13.00 :: Jewel Case 2023

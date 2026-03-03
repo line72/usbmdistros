@@ -1,5 +1,5 @@
 ---
-actualPrice: $27.00
+actualPrice: $27.00 - 29.99
 album: "\xDApal"
 artist: "Kostnat\u011Bn\xED"
 categories:
@@ -14,4 +14,5 @@ title: "Kostnat\u011Bn\xED - \xDApal"
 ---
 
 ## Vinyl
+* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/kostnateni-upal-ltd-150-splatter-vinyl-lp) for $29.99 :: *ltd 150* splatter vinyl lp
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/kostnateni-upal-lp) for $27.00 :: Color 2023 press vinyl

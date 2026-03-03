@@ -1,5 +1,5 @@
 ---
-actualPrice: $28.00
+actualPrice: $28.00 - 35.00
 album: Lawa
 artist: In Twilight's Embrace
 categories:
@@ -14,4 +14,5 @@ title: In Twilight's Embrace - Lawa
 ---
 
 ## Vinyl
+* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/twilights-embrace-lawa-limited-180g-amber-marbled-vinyl-lp-bbv-import) for $35.00 :: limited 180g amber marbled vinyl lp [bbv import]
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/in-twilights-embrace-lawa-lp) for $28.00 :: Color 2023 press vinyl

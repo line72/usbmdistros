@@ -1,5 +1,5 @@
 ---
-actualPrice: $30.00
+actualPrice: $27.99 - 30.00
 album: Of Scorched Earth
 artist: Malist
 categories:
@@ -14,4 +14,5 @@ title: Malist - Of Scorched Earth
 ---
 
 ## Vinyl
+* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/malist-of-scorched-earth-limited-blue-gatefold-vinyl-lp) for $27.99 :: limited blue, gatefold vinyl lp
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/malist-of-scorched-earth-lp) for $30.00 :: Color 2024 press vinyl
