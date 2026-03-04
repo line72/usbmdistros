@@ -19,7 +19,6 @@ title: Immortal - Pure Holocaust
 * Purchase from [Sto'Vo'Kor Records](https://stovokor-records.com/products/immortal-pure-holocaust-black) for $22.00
 * Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/immortal-pure-holocaust-half-half-red-blue-splatter-limited-color-vinyl) for $34.99 :: half/half red & blue splatter limited color vinyl
 * Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/immortal-pure-holocaust-black-clear-vinyl-lp) for $22.99 :: black clear vinyl lp
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/immortal-pure-holocaust-lp) for $32.00 :: Color 2025 press vinyl
 * Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/immortal-pure-holocaust-galaxy-vinyl-lp) for $34.99 :: galaxy vinyl lp
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=61547&sort=pd.name&order=ASC) for $15.00
