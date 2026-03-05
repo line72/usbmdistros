@@ -15,4 +15,3 @@ title: Dissection - Storm of the Light's Bane
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=66184&sort=pd.name&order=ASC) for $45.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=66185&sort=pd.name&order=ASC) for $45.00

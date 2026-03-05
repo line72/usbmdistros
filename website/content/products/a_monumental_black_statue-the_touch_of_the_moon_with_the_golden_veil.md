@@ -1,10 +1,9 @@
 ---
-actualPrice: $12.00 - 25.00
+actualPrice: $25.00
 album: The Touch Of The Moon With The Golden Veil
 artist: A Monumental Black Statue
 categories:
 - Vinyl
-- CD
 date: '2025-12-07T06:20:01'
 draft: false
 images:
@@ -16,5 +15,3 @@ title: A Monumental Black Statue - The Touch Of The Moon With The Golden Veil
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=64430&sort=pd.name&order=ASC) for $25.00
-## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=61472&sort=pd.name&order=ASC) for $12.00
