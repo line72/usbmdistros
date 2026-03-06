@@ -5,7 +5,7 @@ artist: Immortal
 categories:
 - Vinyl
 - CD
-date: '2026-02-27T16:54:58'
+date: '2026-03-06T06:23:05'
 draft: false
 images:
 - /images/covers/immortal-pure_holocaust.jpg
@@ -21,4 +21,4 @@ title: Immortal - Pure Holocaust
 * Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/immortal-pure-holocaust-black-clear-vinyl-lp) for $22.99 :: black clear vinyl lp
 * Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/immortal-pure-holocaust-galaxy-vinyl-lp) for $34.99 :: galaxy vinyl lp
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=61547&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=66370&sort=pd.name&order=ASC) for $15.00

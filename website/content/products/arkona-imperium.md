@@ -5,7 +5,7 @@ artist: Arkona
 categories:
 - Vinyl
 - CD
-date: '2026-02-27T15:19:20'
+date: '2026-03-06T06:22:38'
 draft: false
 images:
 - /images/covers/arkona-imperium.jpg
@@ -15,6 +15,6 @@ title: Arkona - Imperium
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=65854&sort=pd.name&order=ASC) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=66362&sort=pd.name&order=ASC) for $30.00
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=65853&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=66361&sort=pd.name&order=ASC) for $15.00
