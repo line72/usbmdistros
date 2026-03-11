@@ -5,7 +5,7 @@ artist: Gaerea
 categories:
 - Vinyl
 - CD
-date: '2026-02-27T16:55:00'
+date: '2026-03-09T05:40:45'
 draft: false
 images:
 - /images/covers/gaerea-gaerea.jpg
@@ -15,6 +15,7 @@ title: Gaerea - Gaerea
 ---
 
 ## Vinyl
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/gaerea-gaerea-lp) for $30.00 :: Color 2023 press vinyl
 * Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/gaerea-gaerea-white-ltd-300-vinyl-lp-gatefold) for $31.00 :: white ltd 300 vinyl lp gatefold
 ## CD
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/gaerea-gaerea-cd) for $14.00 :: Digipak 2023

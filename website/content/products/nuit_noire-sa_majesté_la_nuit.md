@@ -5,7 +5,7 @@ artist: Nuit Noire
 categories:
 - Vinyl
 - CD
-date: '2025-12-03T06:22:11'
+date: '2026-03-11T05:21:44'
 draft: false
 images:
 - "/images/covers/nuit_noire-sa_majest\xE9_la_nuit.jpg"
@@ -15,6 +15,6 @@ title: "Nuit Noire - Sa Majest\xE9 la Nuit"
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=63383&sort=pd.name&order=ASC) for $27.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=66445&sort=pd.name&order=ASC) for $27.00
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=63384&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=66444&sort=pd.name&order=ASC) for $15.00

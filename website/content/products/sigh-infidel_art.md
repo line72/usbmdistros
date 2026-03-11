@@ -1,10 +1,10 @@
 ---
-actualPrice: $30.00 - 32.99
+actualPrice: $30.00 - 34.99
 album: Infidel Art
 artist: Sigh
 categories:
 - Vinyl
-date: '2025-12-17T06:26:07'
+date: '2026-03-10T05:41:18'
 draft: false
 images:
 - /images/covers/sigh-infidel_art.png
@@ -14,5 +14,5 @@ title: Sigh - Infidel Art
 ---
 
 ## Vinyl
-* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/sigh-infidel-art-marble-vinyl-lp) for $32.99 :: marble vinyl lp
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=64444&sort=pd.name&order=ASC) for $30.00
+* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/sigh-infidel-art-marble-vinyl-lp-1) for $34.99 :: marble vinyl lp

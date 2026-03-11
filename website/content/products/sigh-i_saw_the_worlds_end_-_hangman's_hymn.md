@@ -1,10 +1,10 @@
 ---
-actualPrice: $28.98
+actualPrice: $31.99
 album: I Saw The Worlds End - Hangman's Hymn
 artist: Sigh
 categories:
 - Vinyl
-date: '2025-12-16T06:41:01'
+date: '2026-03-10T05:41:18'
 draft: false
 images:
 - /images/covers/sigh-i_saw_the_worlds_end_-_hangman's_hymn.png
@@ -14,4 +14,4 @@ title: Sigh - I Saw The Worlds End - Hangman's Hymn
 ---
 
 ## Vinyl
-* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/sigh-i-saw-the-worlds-end-hangmans-hymn-mmxxv-lp) for $28.98
+* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/sigh-i-saw-the-worlds-end-hangmans-hymn-mmxxv-lp-1) for $31.99

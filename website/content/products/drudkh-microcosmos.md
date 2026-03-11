@@ -4,8 +4,9 @@ album: Microcosmos
 artist: Drudkh
 categories:
 - Vinyl
+- Cassette
 - CD
-date: '2025-01-28T06:38:14'
+date: '2026-03-09T05:40:45'
 draft: false
 images:
 - /images/covers/drudkh-microcosmos.png
@@ -16,5 +17,8 @@ title: Drudkh - Microcosmos
 
 ## Vinyl
 * Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/drudkh-microcosmics-ltd-to-500-white-vinyl-lp) for $27.99 :: ltd to 500 - white vinyl lp
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/drudkh-microcosmos-lp) for $26.00 :: Black 2022 press vinyl
+## Cassette
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/drudkh-microcosmos-cassette) for $15.00 :: Cassette 2022
 ## CD
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/drudkh-microcosmos-cd) for $12.00 :: CD 2021

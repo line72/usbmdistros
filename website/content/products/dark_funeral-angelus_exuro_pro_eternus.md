@@ -1,9 +1,8 @@
 ---
-actualPrice: $13.00 - 26.00
+actualPrice: $13.00
 album: Angelus Exuro Pro Eternus
 artist: Dark Funeral
 categories:
-- Vinyl
 - CD
 date: '2026-02-27T16:46:39'
 draft: false
@@ -14,7 +13,5 @@ thumbnailImage: /images/covers/dark_funeral-angelus_exuro_pro_eternus-thumb.jpg
 title: Dark Funeral - Angelus Exuro Pro Eternus
 ---
 
-## Vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/dark-funeral-angelus-exuro-pro-eternus-lp) for $26.00 :: Color 2022 press vinyl
 ## CD
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/dark-funeral-angelus-exuro-pro-eternus-cd) for $13.00 :: Jewel Case 2022

@@ -4,7 +4,7 @@ album: Pulver
 artist: Lifelover
 categories:
 - Vinyl
-date: '2026-03-04T06:36:55'
+date: '2026-03-09T05:40:48'
 draft: false
 images:
 - /images/covers/lifelover-pulver.jpg
@@ -17,4 +17,4 @@ title: Lifelover - Pulver
 * Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/lifelover-pulver-marble-vinyl-lp) for $24.99 :: pulver - marble vinyl lp
 * Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/lifelover-pulver-green-yellow-vinyl-lp) for $26.99 :: pulver - green/yellow vinyl lp
 * Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/lifelover-pulver-green-red-splatter-vinyl-lp) for $29.00 :: pulver - green/red splatter vinyl lp
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/lifelover-pulver-lp) for $28.00 :: Color 2026 press vinyl
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/lifelover-pulver-lp) for $29.00 :: Color 2026 press vinyl

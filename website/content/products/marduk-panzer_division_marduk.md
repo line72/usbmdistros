@@ -1,10 +1,10 @@
 ---
-actualPrice: $24.00 - 27.00
+actualPrice: $24.00 - 31.00
 album: Panzer Division Marduk
 artist: Marduk
 categories:
 - Vinyl
-date: '2025-03-11T05:40:48'
+date: '2026-03-09T05:50:08'
 draft: false
 images:
 - /images/covers/marduk-panzer_division_marduk.jpg
@@ -16,3 +16,5 @@ title: Marduk - Panzer Division Marduk
 ## Vinyl
 * Purchase from [Sto'Vo'Kor Records](https://stovokor-records.com/products/marduk-panzer-division-marduk) for $24.00
 * Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/marduk-panzer-division-marduk-transparent-black-vinyl-lp) for $27.00 :: transparent black vinyl lp
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/marduk-panzer-division-marduk-lp) for $28.00 :: Marble 2024 press vinyl
+* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/marduk-panzer-division-marduk-grey-marble-vinyl-lp) for $31.00 :: grey marble vinyl lp

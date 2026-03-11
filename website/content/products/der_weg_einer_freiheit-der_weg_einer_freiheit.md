@@ -1,9 +1,10 @@
 ---
-actualPrice: $27.00
+actualPrice: $15.00 - 27.00
 album: Der Weg Einer Freiheit
 artist: Der Weg Einer Freiheit
 categories:
 - Vinyl
+- CD
 date: '2026-02-27T16:46:33'
 draft: false
 images:
@@ -15,3 +16,5 @@ title: Der Weg Einer Freiheit - Der Weg Einer Freiheit
 
 ## Vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/der-weg-einer-freiheit-der-weg-einer-freiheit-lp) for $27.00 :: Color 2023 press vinyl
+## CD
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/der-weg-einer-freiheit-der-weg-einer-freiheit-cd) for $15.00 :: CD 2010

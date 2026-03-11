@@ -4,7 +4,7 @@ album: Down There...
 artist: The Lord Diabolus
 categories:
 - Vinyl
-date: '2026-02-27T15:18:54'
+date: '2026-03-10T05:20:40'
 draft: false
 images:
 - /images/covers/the_lord_diabolus-down_there....png
@@ -14,4 +14,4 @@ title: The Lord Diabolus - Down There...
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=65377&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=66385&sort=pd.name&order=ASC) for $25.00
