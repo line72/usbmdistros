@@ -1,9 +1,8 @@
 ---
-actualPrice: $10.00 - 30.00
+actualPrice: $10.00
 album: Subglacial
 artist: Ashbringer
 categories:
-- Vinyl
 - CD
 date: '2026-02-27T16:46:27'
 draft: false
@@ -14,7 +13,5 @@ thumbnailImage: /images/covers/ashbringer-subglacial-thumb.png
 title: Ashbringer - Subglacial
 ---
 
-## Vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/ashbringer-subglacial-lp-signed) for $30.00 :: Color 2026 press vinyl
 ## CD
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/ashbringer-subglacial-cd-signed) for $10.00 :: Digipak 2026 (SIGNED)

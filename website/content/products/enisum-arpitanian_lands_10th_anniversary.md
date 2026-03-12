@@ -15,4 +15,3 @@ title: ENISUM - Arpitanian Lands 10th Anniversary
 
 ## Vinyl
 * Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/enisum-arpitanian-lands-10th-anniversary-2lp-galaxy-green-w-white-vinyl-dlp) for $31.99 :: 2lp galaxy green w/ white vinyl dlp
-* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/enisum-arpitanian-lands-10th-anniversary-2lp-electric-blue-vinyl-dlp) for $31.99 :: 2lp electric blue vinyl dlp
