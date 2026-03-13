@@ -1,5 +1,5 @@
 ---
-actualPrice: $22.00 - 27.00
+actualPrice: $22.00 - 25.00
 album: Ugra Karma
 artist: Impaled Nazarene
 categories:
@@ -15,5 +15,4 @@ title: Impaled Nazarene - Ugra Karma
 
 ## Vinyl
 * Purchase from [Sto'Vo'Kor Records](https://stovokor-records.com/products/impaled-nazarene-ugra-karma) for $22.00
-* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/impaled-nazarene-ugra-karma-limited-marble-vinyl-lp) for $27.00 :: ltd gatefold orange marble vinyl lp
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=60343&sort=pd.name&order=ASC) for $25.00

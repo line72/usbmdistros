@@ -4,7 +4,7 @@ album: Steeling Of A Soul
 artist: Erstwhile
 categories:
 - Vinyl
-date: '2025-12-07T06:02:10'
+date: '2026-03-13T05:02:14'
 draft: false
 images:
 - /images/covers/erstwhile-steeling_of_a_soul.png

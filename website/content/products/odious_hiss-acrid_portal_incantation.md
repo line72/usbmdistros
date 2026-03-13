@@ -4,7 +4,7 @@ album: Acrid Portal Incantation
 artist: Odious Hiss
 categories:
 - Vinyl
-date: '2026-03-12T05:02:00'
+date: '2026-03-13T05:02:10'
 draft: false
 images:
 - /images/covers/odious_hiss-acrid_portal_incantation.png

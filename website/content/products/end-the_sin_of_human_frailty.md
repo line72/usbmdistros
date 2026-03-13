@@ -18,7 +18,6 @@ title: END - The Sin Of Human Frailty
 ## Vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/end-the-sin-of-human-frailty-lp) for $28.00 :: Red w/ Splatter 2023 press
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/end-the-sin-of-human-frailty-lp) for $28.00 :: Bone-In-Clear w/ Splatter 2023 press
-* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/end-the-sin-of-human-frailty-red-with-splatter-vinyl-lp) for $27.00 :: red with splatter vinyl lp
 ## Cassette
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/end-the-sin-of-human-frailty-cassette) for $12.00 :: Cassette 2023
 ## CD

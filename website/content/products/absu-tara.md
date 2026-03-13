@@ -1,5 +1,5 @@
 ---
-actualPrice: $39.99 - 40.00
+actualPrice: $40.00
 album: Tara
 artist: Absu
 categories:
@@ -14,5 +14,4 @@ title: Absu - Tara
 ---
 
 ## Vinyl
-* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/absu-tara-2lp-double-gatefold-black-vinyl-dlp) for $39.99 :: 2lp double gatefold black vinyl dlp
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/absu-tara-2xlp) for $40.00 :: Color 2025 press vinyl
