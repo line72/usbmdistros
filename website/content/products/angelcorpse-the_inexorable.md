@@ -1,10 +1,10 @@
 ---
-actualPrice: $13.00 - 15.00
+actualPrice: $13.00
 album: The Inexorable
 artist: Angelcorpse
 categories:
 - CD
-date: '2026-03-04T06:24:52'
+date: '2026-02-27T16:46:26'
 draft: false
 images:
 - /images/covers/angelcorpse-the_inexorable.jpg
@@ -15,4 +15,3 @@ title: Angelcorpse - The Inexorable
 
 ## CD
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/angelcorpse-the-inexorable-cd) for $13.00 :: Jewel Case 2022
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=66320&sort=pd.name&order=ASC) for $15.00
