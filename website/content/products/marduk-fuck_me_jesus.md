@@ -1,11 +1,10 @@
 ---
-actualPrice: $15.00 - 25.00
+actualPrice: $15.00
 album: Fuck Me Jesus
 artist: Marduk
 categories:
-- Vinyl
 - CD
-date: '2026-02-27T16:46:28'
+date: '2025-12-03T06:22:02'
 draft: false
 images:
 - /images/covers/marduk-fuck_me_jesus.jpg
@@ -14,8 +13,5 @@ thumbnailImage: /images/covers/marduk-fuck_me_jesus-thumb.jpg
 title: Marduk - Fuck Me Jesus
 ---
 
-## Vinyl
-* Purchase from [Sto'Vo'Kor Records](https://stovokor-records.com/products/marduk-fuck-me-jesus) for $17.00
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/marduk-fuck-me-jesus-lp) for $25.00 :: Color 2025 press vinyl
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=35003&sort=pd.name&order=ASC) for $15.00

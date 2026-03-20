@@ -1,10 +1,10 @@
 ---
-actualPrice: $25.00
+actualPrice: $25.00 - 27.00
 album: Lunar Poetry
 artist: Nokturnal Mortum
 categories:
 - Vinyl
-date: '2024-10-04T05:27:28'
+date: '2026-03-15T05:02:11'
 draft: false
 images:
 - /images/covers/nokturnal_mortum-lunar_poetry.jpg
@@ -15,3 +15,4 @@ title: Nokturnal Mortum - Lunar Poetry
 
 ## Vinyl
 * Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/nokturnal-mortum-lunar-poetry-12-gatefold-lp-blue-black-marble/) for $25.00 :: gatefold lp blue/black marble
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/nokturnal-mortum-lunar-poetry-12-lp) for $27.00

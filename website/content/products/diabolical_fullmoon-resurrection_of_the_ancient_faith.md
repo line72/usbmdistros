@@ -5,7 +5,7 @@ artist: Diabolical Fullmoon
 categories:
 - Vinyl
 - Cassette
-date: '2026-02-27T15:00:05'
+date: '2026-03-20T05:01:20'
 draft: false
 images:
 - /images/covers/diabolical_fullmoon-resurrection_of_the_ancient_faith.jpg
