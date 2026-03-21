@@ -14,4 +14,5 @@ title: Lampir - Awaiting the Predatory Dreamscape
 ---
 
 ## Vinyl
+* Purchase from [Sto'Vo'Kor Records](https://stovokor-records.com/products/lampir-awaiting-the-predatory-dreamscape) for $25.00
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/lampir-awaiting-the-predatory-dreamscape-12-lp) for $25.00

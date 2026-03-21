@@ -1,5 +1,5 @@
 ---
-actualPrice: $30.00
+actualPrice: $25.00 - 30.00
 album: Satans Sign Of War
 artist: Satans Sign Of War
 categories:
@@ -14,4 +14,5 @@ title: Satans Sign Of War - Satans Sign Of War
 ---
 
 ## Vinyl
+* Purchase from [CW Productions](https://shop.cwproductions.net/products/satans-sign-of-war-satans-sign-of-war-lp) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=61252&sort=pd.name&order=ASC) for $30.00

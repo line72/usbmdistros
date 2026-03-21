@@ -1,8 +1,9 @@
 ---
-actualPrice: $15.00
+actualPrice: $8.00 - 15.00
 album: The Haunted Spawn of Torment
 artist: Arazubak
 categories:
+- Cassette
 - CD
 date: '2025-12-03T06:21:27'
 draft: false
@@ -13,5 +14,7 @@ thumbnailImage: /images/covers/arazubak-the_haunted_spawn_of_torment-thumb.jpg
 title: Arazubak - The Haunted Spawn of Torment
 ---
 
+## Cassette
+* Purchase from [Sto'Vo'Kor Records](https://stovokor-records.com/products/arazubak-the-haunted-spawn-of-torment) for $8.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=25498&sort=pd.name&order=ASC) for $15.00
