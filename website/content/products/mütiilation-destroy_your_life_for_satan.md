@@ -1,11 +1,10 @@
 ---
-actualPrice: $10.00 - 22.00
+actualPrice: $22.00
 album: Destroy Your Life For Satan
 artist: "M\xFCtiilation"
 categories:
 - Vinyl
-- CD
-date: '2026-02-27T16:46:38'
+date: '2021-06-26T14:49:53'
 draft: false
 images:
 - "/images/covers/m\xFCtiilation-destroy_your_life_for_satan.jpg"
@@ -16,5 +15,3 @@ title: "M\xFCtiilation - Destroy Your Life For Satan"
 
 ## Vinyl
 * Purchase from [Sto'Vo'Kor Records](https://stovokor-records.com/products/mutiilation-destroy-your-life-for-satan) for $22.00
-## CD
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/mutiilation-destroy-your-life-for-satan-cd) for $10.00 :: Jewel Case 2022
