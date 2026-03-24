@@ -4,7 +4,7 @@ album: Cuentos Viejos
 artist: Invunche
 categories:
 - Vinyl
-date: '2026-02-27T15:19:08'
+date: '2026-03-23T05:30:41'
 draft: false
 images:
 - /images/covers/invunche-cuentos_viejos.png
@@ -14,4 +14,4 @@ title: Invunche - Cuentos Viejos
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=65921&sort=pd.name&order=ASC) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=66527&sort=pd.name&order=ASC) for $30.00
