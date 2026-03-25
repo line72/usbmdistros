@@ -4,7 +4,7 @@ album: Visions Of Hate
 artist: Corneus
 categories:
 - Vinyl
-date: '2026-03-16T05:03:00'
+date: '2026-03-25T05:02:09'
 draft: false
 images:
 - /images/covers/corneus-visions_of_hate.png
