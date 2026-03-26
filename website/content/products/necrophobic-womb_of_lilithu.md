@@ -1,5 +1,5 @@
 ---
-actualPrice: $30.00 - 34.99
+actualPrice: $30.00
 album: Womb of Lilithu
 artist: Necrophobic
 categories:
@@ -15,4 +15,3 @@ title: Necrophobic - Womb of Lilithu
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=58347&sort=pd.name&order=ASC) for $30.00
-* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/necrophobic-womb-of-lilithu-2lp-yellow-vinyl-dlp) for $34.99 :: 2lp yellow vinyl dlp

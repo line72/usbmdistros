@@ -1,10 +1,10 @@
 ---
-actualPrice: $22.00 - 27.00
+actualPrice: $22.00
 album: Sorrow
 artist: Hate Forest
 categories:
 - Vinyl
-date: '2026-02-27T16:46:29'
+date: '2023-09-20T05:00:52'
 draft: false
 images:
 - /images/covers/hate_forest-sorrow.jpg
@@ -14,5 +14,4 @@ title: Hate Forest - Sorrow
 ---
 
 ## Vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/hate-forest-sorrow-lp) for $27.00 :: Marble 2023 press vinyl
 * Purchase from [Sto'Vo'Kor Records](https://stovokor-records.com/products/hate-forest-sorrow) for $22.00
