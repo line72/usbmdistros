@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00
+actualPrice: $32.99
 album: Sumerian Cry
 artist: Tiamat
 categories:
-- CD
-date: '2025-12-03T06:22:25'
+- Vinyl
+date: '2025-01-21T06:45:10'
 draft: false
 images:
 - /images/covers/tiamat-sumerian_cry.jpg
@@ -13,5 +13,5 @@ thumbnailImage: /images/covers/tiamat-sumerian_cry-thumb.jpg
 title: Tiamat - Sumerian Cry
 ---
 
-## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=62479&sort=pd.name&order=ASC) for $12.00
+## Vinyl
+* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/tiamat-sumerian-cry-clear-w-red-splatter-vinyl-lp) for $32.99 :: clear w/ red splatter vinyl lp

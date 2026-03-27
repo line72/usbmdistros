@@ -4,7 +4,7 @@ album: Draculhearsals
 artist: Forbidden Temple
 categories:
 - Cassette
-date: '2026-02-27T15:20:29'
+date: '2026-03-27T05:02:48'
 draft: false
 images:
 - /images/covers/forbidden_temple-draculhearsals.png
@@ -14,4 +14,4 @@ title: Forbidden Temple - Draculhearsals
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=65240&sort=pd.name&order=ASC) for $15.00
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/forbidden-temple-draculhearsals-tape) for $15.00

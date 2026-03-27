@@ -1,11 +1,11 @@
 ---
-actualPrice: $8.00 - 15.00
+actualPrice: $14.00 - 27.00
 album: Effigy of Nightmares
 artist: Valdrin
 categories:
-- Cassette
+- Vinyl
 - CD
-date: '2026-03-01T06:22:49'
+date: '2025-01-08T06:29:27'
 draft: false
 images:
 - /images/covers/valdrin-effigy_of_nightmares.jpg
@@ -14,7 +14,7 @@ thumbnailImage: /images/covers/valdrin-effigy_of_nightmares-thumb.jpg
 title: Valdrin - Effigy of Nightmares
 ---
 
-## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=63935&sort=pd.name&order=ASC) for $8.00
+## Vinyl
+* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/valdrin-effigy-of-nightmares-vinyl-lp) for $27.00 :: vinyl lp
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=66147&sort=pd.name&order=ASC) for $15.00
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/valdrin-effigy-of-nightmares-cd) for $14.00 :: Jewel Case 2024

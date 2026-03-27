@@ -1,10 +1,10 @@
 ---
-actualPrice: $25.00 - 27.00
+actualPrice: $27.00
 album: Kollektiv Sinnssykdom
 artist: Celebratum
 categories:
 - Vinyl
-date: '2025-12-03T06:20:08'
+date: '2024-07-09T00:40:01'
 draft: false
 images:
 - /images/covers/celebratum-kollektiv_sinnssykdom.jpg
@@ -15,4 +15,3 @@ title: Celebratum - Kollektiv Sinnssykdom
 
 ## Vinyl
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/celebratum-kollektiv-sinnssykdom-12-lp) for $27.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=63253&sort=pd.name&order=ASC) for $25.00

@@ -1,10 +1,10 @@
 ---
-actualPrice: $15.00
+actualPrice: $27.00
 album: 'Nightwind: The Conqueror from the Stars'
 artist: Moonlight Sorcery
 categories:
-- CD
-date: '2025-12-03T06:22:04'
+- Vinyl
+date: '2026-03-15T05:43:04'
 draft: false
 images:
 - /images/covers/moonlight_sorcery-nightwind:_the_conqueror_from_the_stars.jpg
@@ -13,5 +13,5 @@ thumbnailImage: /images/covers/moonlight_sorcery-nightwind:_the_conqueror_from_t
 title: 'Moonlight Sorcery - Nightwind: The Conqueror from the Stars'
 ---
 
-## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=52773&sort=pd.name&order=ASC) for $15.00
+## Vinyl
+* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/moonlight-sorcery-nightwind-the-conqueror-from-the-stars-vaporwave-vinyl-lp) for $27.00 :: vaporwave vinyl lp
