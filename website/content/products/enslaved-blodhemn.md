@@ -1,5 +1,5 @@
 ---
-actualPrice: $13.00 - 26.99
+actualPrice: $13.00 - 20.00
 album: Blodhemn
 artist: Enslaved
 categories:
@@ -16,6 +16,5 @@ title: Enslaved - Blodhemn
 
 ## Vinyl
 * Purchase from [Sto'Vo'Kor Records](https://stovokor-records.com/products/enslaved-blodhemn) for $20.00
-* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/enslaved-blodhemn-vinyl-lp-donation-edition) for $26.99 :: vinyl lp - donation edition
 ## CD
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/enslaved-blodhemn-cd) for $13.00 :: Jewel Case 2020

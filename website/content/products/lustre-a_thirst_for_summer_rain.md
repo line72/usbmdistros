@@ -1,10 +1,11 @@
 ---
-actualPrice: $25.99 - 29.00
+actualPrice: $12.00 - 25.00
 album: A Thirst for Summer Rain
 artist: Lustre
 categories:
 - Vinyl
-date: '2025-05-27T05:41:14'
+- CD
+date: '2025-12-03T06:22:01'
 draft: false
 images:
 - /images/covers/lustre-a_thirst_for_summer_rain.jpg
@@ -14,5 +15,6 @@ title: Lustre - A Thirst for Summer Rain
 ---
 
 ## Vinyl
-* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/lustre-a-thirst-for-summer-rain-ltd-300-aqua-blue-vinyl-lp) for $29.00
-* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/lustre-a-thirst-for-summer-rain-vinyl-lp) for $25.99 :: vinyl lp
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=29106&sort=pd.name&order=ASC) for $25.00
+## CD
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=27292&sort=pd.name&order=ASC) for $12.00

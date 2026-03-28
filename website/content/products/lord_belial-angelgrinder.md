@@ -1,10 +1,10 @@
 ---
-actualPrice: $29.99
+actualPrice: $12.00
 album: Angelgrinder
 artist: Lord Belial
 categories:
-- Vinyl
-date: '2026-03-17T05:52:20'
+- CD
+date: '2026-02-27T15:19:49'
 draft: false
 images:
 - /images/covers/lord_belial-angelgrinder.jpg
@@ -13,5 +13,5 @@ thumbnailImage: /images/covers/lord_belial-angelgrinder-thumb.jpg
 title: Lord Belial - Angelgrinder
 ---
 
-## Vinyl
-* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/lord-belial-angelgrinder-splatter-vinyl-lp-2) for $29.99 :: splatter vinyl lp
+## CD
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=65992&sort=pd.name&order=ASC) for $12.00

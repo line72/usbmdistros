@@ -5,7 +5,8 @@ artist: Condescendance
 categories:
 - Vinyl
 - Cassette
-date: '2024-07-09T00:39:55'
+- CD
+date: '2025-12-03T06:21:37'
 draft: false
 images:
 - /images/covers/condescendance-chao_wampirii.jpg
@@ -18,3 +19,5 @@ title: Condescendance - Chao Wampirii
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/condescendance-chao-wampirii-12-lp) for $26.00
 ## Cassette
 * Purchase from [Sto'Vo'Kor Records](https://stovokor-records.com/products/condescendance-chao-wampirii) for $10.00
+## CD
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=19719&sort=pd.name&order=ASC) for $15.00

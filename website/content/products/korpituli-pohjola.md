@@ -1,10 +1,11 @@
 ---
-actualPrice: $34.99 - 39.00
+actualPrice: $15.00 - 30.00
 album: Pohjola
 artist: Korpituli
 categories:
 - Vinyl
-date: '2025-04-16T05:41:01'
+- Cassette
+date: '2025-12-03T06:22:51'
 draft: false
 images:
 - /images/covers/korpituli-pohjola.png
@@ -14,5 +15,6 @@ title: Korpituli - Pohjola
 ---
 
 ## Vinyl
-* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/korpituli-pohjola-white-vinyl-lp) for $39.00 :: (ltd 100) white vinyl lp
-* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/korpituli-pohjola-black-vinyl-lp) for $34.99 :: black vinyl lp
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=54561&sort=pd.name&order=ASC) for $30.00
+## Cassette
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=50882&sort=pd.name&order=ASC) for $15.00
