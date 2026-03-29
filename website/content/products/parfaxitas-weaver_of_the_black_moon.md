@@ -1,10 +1,10 @@
 ---
-actualPrice: $15.00
+actualPrice: $37.00
 album: Weaver Of The Black Moon
 artist: Parfaxitas
 categories:
-- CD
-date: '2025-02-13T06:37:14'
+- Vinyl
+date: '2025-02-28T06:42:52'
 draft: false
 images:
 - /images/covers/parfaxitas-weaver_of_the_black_moon.jpg
@@ -13,5 +13,5 @@ thumbnailImage: /images/covers/parfaxitas-weaver_of_the_black_moon-thumb.jpg
 title: Parfaxitas - Weaver Of The Black Moon
 ---
 
-## CD
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/parfaxitas-weaver-of-the-black-moon-cd) for $15.00 :: Digipak 2024
+## Vinyl
+* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/parfaxitas-0-weaver-of-the-black-moon-gtf-12-black-lp) for $37.00 :: black vinyl lp

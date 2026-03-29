@@ -1,11 +1,10 @@
 ---
-actualPrice: $13.00 - 17.00
+actualPrice: $35.99
 album: "Om Hundrede \xC5r"
 artist: Afsky
 categories:
 - Vinyl
-- CD
-date: '2025-11-18T06:35:19'
+date: '2025-09-23T05:42:05'
 draft: false
 images:
 - "/images/covers/afsky-om_hundrede_\xE5r.jpg"
@@ -15,6 +14,4 @@ title: "Afsky - Om Hundrede \xC5r"
 ---
 
 ## Vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/afsky-om-hundrede-ar-lp) for $17.00 :: Black 2023 press vinyl
-## CD
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/afsky-om-hundrede-ar-cd) for $13.00 :: CD 2023
+* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/afsky-om-hundrede-ar-green-black-marble-vinyl-lp) for $35.99 :: green/black marble vinyl lp

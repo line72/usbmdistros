@@ -1,11 +1,10 @@
 ---
-actualPrice: $13.00 - 14.00
+actualPrice: $39.99
 album: Esoteric Malacology
 artist: Slugdge
 categories:
-- Cassette
-- CD
-date: '2025-10-01T05:27:15'
+- Vinyl
+date: '2025-03-27T05:41:31'
 draft: false
 images:
 - /images/covers/slugdge-esoteric_malacology.jpg
@@ -14,7 +13,6 @@ thumbnailImage: /images/covers/slugdge-esoteric_malacology-thumb.jpg
 title: Slugdge - Esoteric Malacology
 ---
 
-## Cassette
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/slugdge-esoteric-malacology-cassette) for $14.00 :: Cassette 2021
-## CD
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/slugdge-esoteric-malacology-cd) for $13.00 :: Digipak 2018
+## Vinyl
+* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/slugdge-esoteric-malacology-double-lp-gatefold-black-ice-splatter-vinyl-dlp) for $39.99 :: double lp gatefold black ice splatter vinyl dlp
+* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/slugdge-esoteric-malacology-purple-ghostly-vinyl-lp) for $39.99 :: double lp gatefold purple ghostly vinyl dlp

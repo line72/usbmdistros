@@ -1,10 +1,10 @@
 ---
-actualPrice: $16.00
+actualPrice: $38.00
 album: Prosaic
 artist: Mizmor
 categories:
-- CD
-date: '2024-09-29T05:39:08'
+- Vinyl
+date: '2024-07-09T14:02:17'
 draft: false
 images:
 - /images/covers/mizmor-prosaic.png
@@ -13,5 +13,6 @@ thumbnailImage: /images/covers/mizmor-prosaic-thumb.png
 title: Mizmor - Prosaic
 ---
 
-## CD
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/mizmor-prosaic-cd) for $16.00 :: Digipak 2023
+## Vinyl
+* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/mizmor-prosaic-2xlp-color-mix-vinyl) for $38.00 :: color-mix vinyl
+* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/mizmor-prosaic-2xlp-splatter-vinyl) for $38.00 :: splatter vinyl

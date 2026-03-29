@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00
+actualPrice: $39.99
 album: Keys To The Palace
 artist: Dessiderium
 categories:
-- CD
-date: '2025-10-01T05:27:15'
+- Vinyl
+date: '2025-03-27T05:41:31'
 draft: false
 images:
 - /images/covers/dessiderium-keys_to_the_palace.png
@@ -13,5 +13,5 @@ thumbnailImage: /images/covers/dessiderium-keys_to_the_palace-thumb.png
 title: Dessiderium - Keys To The Palace
 ---
 
-## CD
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/dessiderium-keys-to-the-palace-cd) for $12.00 :: Jewel Case 2025
+## Vinyl
+* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/dessiderium-keys-to-the-palace-double-lp-light-blue-orange-yellow-splatter-dlp) for $39.99 :: double lp light blue/orange/yellow splatter dlp

@@ -1,10 +1,10 @@
 ---
-actualPrice: $30.00
+actualPrice: $29.99
 album: II
 artist: Blood Abscission
 categories:
 - Vinyl
-date: '2026-03-19T05:33:17'
+date: '2025-07-30T05:42:38'
 draft: false
 images:
 - /images/covers/blood_abscission-ii.png
@@ -14,4 +14,4 @@ title: Blood Abscission - II
 ---
 
 ## Vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/used-blood-abscission-ii-lp) for $30.00 :: Slipcase + Black 2025 press
+* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/blood-abscission-ii-black-w-clear-ripple-vinyl-lp) for $29.99 :: black w/ clear ripple vinyl lp

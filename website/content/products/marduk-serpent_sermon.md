@@ -1,11 +1,10 @@
 ---
-actualPrice: $14.00 - 28.00
+actualPrice: $27.99
 album: Serpent Sermon
 artist: Marduk
 categories:
 - Vinyl
-- CD
-date: '2026-02-27T16:46:38'
+date: '2024-07-09T14:02:12'
 draft: false
 images:
 - /images/covers/marduk-serpent_sermon.jpg
@@ -15,7 +14,4 @@ title: Marduk - Serpent Sermon
 ---
 
 ## Vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/marduk-serpent-sermon-lp) for $28.00 :: Black 2021 press vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/marduk-serpent-sermon-lp) for $28.00 :: Color 2021 press vinyl
-## CD
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/marduk-serpent-sermon-cd) for $14.00 :: Digipak 2021
+* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/marduk-serpent-sermon-limited-300-splatter-vinyl-lp) for $27.99 :: limited /300 splatter vinyl lp + booklet

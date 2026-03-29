@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00
+actualPrice: $27.99
 album: Eastern Frontier in Flames
 artist: Drudkh
 categories:
-- CD
-date: '2025-01-28T06:38:14'
+- Vinyl
+date: '2025-03-27T05:41:31'
 draft: false
 images:
 - /images/covers/drudkh-eastern_frontier_in_flames.jpg
@@ -13,5 +13,5 @@ thumbnailImage: /images/covers/drudkh-eastern_frontier_in_flames-thumb.jpg
 title: Drudkh - Eastern Frontier in Flames
 ---
 
-## CD
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/drudkh-eastern-frontier-in-flames-cd) for $12.00 :: Digipak 2022
+## Vinyl
+* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/drudkh-eastern-frontier-in-flames-ltd-to-500-blue-vinyl-lp-1) for $27.99 :: ltd to 500 - yellow vinyl lp

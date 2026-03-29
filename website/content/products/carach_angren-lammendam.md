@@ -1,10 +1,10 @@
 ---
-actualPrice: $20.00
+actualPrice: $36.99
 album: Lammendam
 artist: Carach Angren
 categories:
-- Cassette
-date: '2026-02-27T16:46:31'
+- Vinyl
+date: '2024-07-09T14:02:22'
 draft: false
 images:
 - /images/covers/carach_angren-lammendam.jpg
@@ -13,5 +13,5 @@ thumbnailImage: /images/covers/carach_angren-lammendam-thumb.jpg
 title: Carach Angren - Lammendam
 ---
 
-## Cassette
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/used-carach-angren-lammendam-2xlp) for $20.00 :: Color 2023 press vinyl
+## Vinyl
+* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/carach-angren-lammendam-orange-and-black-marbled-double-vinyl-ltd-to-400-copies) for $36.99 :: orange and black marbled double vinyl, ltd to 400 copies!
