@@ -1,5 +1,5 @@
 ---
-actualPrice: $12.00 - 25.99
+actualPrice: $12.00 - 22.00
 album: "\xD6dhin"
 artist: Bhleg
 categories:
@@ -17,7 +17,6 @@ title: "Bhleg - \xD6dhin"
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=12022&sort=pd.name&order=ASC) for $22.00
-* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/bhleg-odhin-vinyl-lp) for $25.99 :: vinyl lp
 ## Cassette
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=30683&sort=pd.name&order=ASC) for $13.00
 ## CD
