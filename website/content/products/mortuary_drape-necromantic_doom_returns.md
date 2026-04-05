@@ -4,7 +4,7 @@ album: Necromantic Doom Returns
 artist: Mortuary Drape
 categories:
 - CD
-date: '2025-12-03T06:22:05'
+date: '2026-04-02T05:22:41'
 draft: false
 images:
 - /images/covers/mortuary_drape-necromantic_doom_returns.jpg
@@ -14,4 +14,4 @@ title: Mortuary Drape - Necromantic Doom Returns
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=60982&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=66574&sort=pd.name&order=ASC) for $15.00

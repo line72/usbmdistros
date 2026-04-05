@@ -15,4 +15,3 @@ title: Leviathan - Demos Two Thousand
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=65780&sort=pd.name&order=ASC) for $26.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=65779&sort=pd.name&order=ASC) for $26.00

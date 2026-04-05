@@ -5,7 +5,7 @@ artist: Vulcano
 categories:
 - Vinyl
 - CD
-date: '2026-03-11T05:22:05'
+date: '2025-12-03T06:22:30'
 draft: false
 images:
 - /images/covers/vulcano-anthropophagy.jpg
@@ -18,4 +18,3 @@ title: Vulcano - Anthropophagy
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=63403&sort=pd.name&order=ASC) for $30.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=63402&sort=pd.name&order=ASC) for $12.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=66431&sort=pd.name&order=ASC) for $15.00

@@ -14,6 +14,5 @@ title: Nokturnal Mortum - Lunar Poetry
 ---
 
 ## Vinyl
-* Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/nokturnal-mortum-lunar-poetry-12-gatefold-lp-blue-black-marble/) for $25.00 :: gatefold lp blue/black marble
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=64159&sort=pd.name&order=ASC) for $25.00
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/nokturnal-mortum-lunar-poetry-12-lp) for $27.00

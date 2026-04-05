@@ -1,5 +1,5 @@
 ---
-actualPrice: $25.00
+actualPrice: $10.00 - 25.00
 album: Divided in Life
 artist: Mrtva Vod
 categories:
@@ -14,4 +14,5 @@ title: Mrtva Vod - Divided in Life
 ---
 
 ## Vinyl
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/mrtva-vod-divided-in-life-lp) for $10.00 :: Black 2022 press vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=57118&sort=pd.name&order=ASC) for $25.00

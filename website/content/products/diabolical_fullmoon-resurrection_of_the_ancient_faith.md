@@ -4,7 +4,7 @@ album: Resurrection of the Ancient Faith
 artist: Diabolical Fullmoon
 categories:
 - Cassette
-date: '2026-02-27T15:00:05'
+date: '2026-04-03T05:02:47'
 draft: false
 images:
 - /images/covers/diabolical_fullmoon-resurrection_of_the_ancient_faith.jpg
