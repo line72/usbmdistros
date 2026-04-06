@@ -1,5 +1,5 @@
 ---
-actualPrice: $14.99 - 34.99
+actualPrice: $14.99 - 29.99
 album: III
 artist: Fuath
 categories:
@@ -15,7 +15,6 @@ title: Fuath - III
 ---
 
 ## Vinyl
-* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/fuath-iii-black-white-marble-vinyl-lp) for $34.99 :: black/white marble vinyl lp
 * Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/fuath-iii-vinyl-lp-gatefold-color-lim199) for $29.99 :: (2 color options, gatefold, lim.199) [saor]
 ## CD
 * Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/fuath-iii-cd-digipak-lim999) for $14.99 :: (digipak, lim.999)
