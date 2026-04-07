@@ -1,5 +1,5 @@
 ---
-actualPrice: $25.00
+actualPrice: $25.00 - 32.00
 album: Beneath the Threshold
 artist: Austere
 categories:
@@ -14,4 +14,5 @@ title: Austere - Beneath the Threshold
 ---
 
 ## Vinyl
+* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/austere-beneath-the-threshold-petrol-color-vinyl-lp) for $32.00 :: petrol color vinyl lp
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/austere-beneath-the-threshold-lp) for $25.00 :: Color 2024 press vinyl

@@ -1,5 +1,5 @@
 ---
-actualPrice: $14.00 - 30.00
+actualPrice: $14.00 - 31.00
 album: Gaerea
 artist: Gaerea
 categories:
@@ -16,5 +16,6 @@ title: Gaerea - Gaerea
 
 ## Vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/gaerea-gaerea-lp) for $30.00 :: Color 2023 press vinyl
+* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/gaerea-gaerea-white-ltd-300-vinyl-lp-gatefold) for $31.00 :: white ltd 300 vinyl lp gatefold
 ## CD
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/gaerea-gaerea-cd) for $14.00 :: Digipak 2023
