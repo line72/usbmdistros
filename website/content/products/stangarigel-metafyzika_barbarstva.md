@@ -1,12 +1,10 @@
 ---
-actualPrice: $15.00 - 30.00
+actualPrice: $30.00
 album: Metafyzika Barbarstva
 artist: Stangarigel
 categories:
 - Vinyl
-- Cassette
-- CD
-date: '2025-12-03T06:23:02'
+date: '2025-08-02T05:02:14'
 draft: false
 images:
 - /images/covers/stangarigel-metafyzika_barbarstva.jpg
@@ -17,7 +15,3 @@ title: Stangarigel - Metafyzika Barbarstva
 
 ## Vinyl
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/stangarigel-metafyzika-barbarstva-12-lp) for $30.00
-## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=63052&sort=pd.name&order=ASC) for $15.00
-## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=63051&sort=pd.name&order=ASC) for $15.00

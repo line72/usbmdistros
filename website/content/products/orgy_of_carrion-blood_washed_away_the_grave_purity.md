@@ -1,10 +1,10 @@
 ---
-actualPrice: $20.00
+actualPrice: $15.00
 album: Blood Washed Away the Grave Purity
 artist: Orgy of Carrion
 categories:
 - Vinyl
-date: '2025-09-25T05:33:45'
+date: '2026-04-09T05:43:06'
 draft: false
 images:
 - /images/covers/orgy_of_carrion-blood_washed_away_the_grave_purity.jpg
@@ -14,4 +14,4 @@ title: Orgy of Carrion - Blood Washed Away the Grave Purity
 ---
 
 ## Vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/used-orgy-of-carrion-blood-washed-away-the-grave-purity-lp) for $20.00 :: Black 2018 press vinyl
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/used-orgy-of-carrion-blood-washed-away-the-grave-purity-lp) for $15.00 :: Red 2018 press vinyl
