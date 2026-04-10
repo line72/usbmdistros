@@ -1,10 +1,11 @@
 ---
-actualPrice: $20.00
+actualPrice: $10.00 - 20.00
 album: Omniscient
 artist: Ominous Resurrection
 categories:
 - Vinyl
-date: '2025-11-18T06:34:48'
+- CD
+date: '2025-12-03T06:22:12'
 draft: false
 images:
 - /images/covers/ominous_resurrection-omniscient.jpg
@@ -15,3 +16,5 @@ title: Ominous Resurrection - Omniscient
 
 ## Vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/ominous-resurrection-omniscient) for $20.00 :: Black 2020 press vinyl
+## CD
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=5434&sort=pd.name&order=ASC) for $10.00

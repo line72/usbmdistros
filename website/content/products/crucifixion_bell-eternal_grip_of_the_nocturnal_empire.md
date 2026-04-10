@@ -4,6 +4,7 @@ album: Eternal Grip Of The Nocturnal Empire
 artist: Crucifixion Bell
 categories:
 - Vinyl
+- CD
 date: '2026-04-09T05:42:28'
 draft: false
 images:
@@ -16,3 +17,5 @@ title: Crucifixion Bell - Eternal Grip Of The Nocturnal Empire
 ## Vinyl
 * Purchase from [Sto'Vo'Kor Records](https://stovokor-records.com/products/crucifixion-bell-ternal-grip-of-the-nocturnal-empire) for $26.00
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/used-crucifixion-bell-eternal-grip-of-the-nocturnal-empire-lp) for $15.00 :: Black 2021 press vinyl
+## CD
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=35496&sort=pd.name&order=ASC) for $15.00

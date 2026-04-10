@@ -1,11 +1,10 @@
 ---
-actualPrice: $12.00 - 30.00
+actualPrice: $30.00
 album: Flame Within Flame
 artist: Sargeist
 categories:
 - Vinyl
-- Cassette
-date: '2026-04-07T05:02:40'
+date: '2026-02-27T14:59:23'
 draft: false
 images:
 - /images/covers/sargeist-flame_within_flame.png
@@ -16,5 +15,3 @@ title: Sargeist - Flame Within Flame
 
 ## Vinyl
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/sargeist-flame-within-flame-12-lp) for $30.00
-## Cassette
-* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/sargeist-flame-within-flame-tape) for $12.00
