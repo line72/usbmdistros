@@ -4,7 +4,7 @@ album: Come Here At Your Peril
 artist: Grole
 categories:
 - CD
-date: '2025-12-11T06:03:11'
+date: '2026-04-13T05:03:57'
 draft: false
 images:
 - /images/covers/grole-come_here_at_your_peril.png

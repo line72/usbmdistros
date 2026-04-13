@@ -1,11 +1,10 @@
 ---
-actualPrice: $15.00 - 28.00
+actualPrice: $28.00
 album: Your Misery, My Triumph
 artist: Cold Earth
 categories:
 - Vinyl
-- CD
-date: '2026-04-07T05:02:48'
+date: '2026-04-07T05:01:59'
 draft: false
 images:
 - /images/covers/cold_earth-your_misery,_my_triumph.jpg
@@ -16,5 +15,3 @@ title: Cold Earth - Your Misery, My Triumph
 
 ## Vinyl
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/cold-earth-your-misery-my-triumph-12-lp) for $28.00
-## CD
-* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/cold-earth-your-misery-my-triumph-cd) for $15.00
