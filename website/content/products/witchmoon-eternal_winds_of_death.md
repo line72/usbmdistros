@@ -1,5 +1,5 @@
 ---
-actualPrice: $12.00 - 15.00
+actualPrice: $12.00
 album: Eternal Winds Of Death
 artist: Witchmoon
 categories:
@@ -14,5 +14,4 @@ title: Witchmoon - Eternal Winds Of Death
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=65944&sort=pd.name&order=ASC) for $15.00
 * Purchase from [CW Productions](https://shop.cwproductions.net/products/witchmoon-eternal-winds-of-death-cd) for $12.00
