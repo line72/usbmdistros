@@ -4,7 +4,7 @@ album: All That I Have Behind Me
 artist: Unpure
 categories:
 - Vinyl
-date: '2025-12-03T06:21:06'
+date: '2026-04-15T05:20:05'
 draft: false
 images:
 - /images/covers/unpure-all_that_i_have_behind_me.jpg
@@ -14,4 +14,4 @@ title: Unpure - All That I Have Behind Me
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=42816&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=66640&sort=pd.name&order=ASC) for $15.00
