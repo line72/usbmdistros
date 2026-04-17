@@ -4,7 +4,7 @@ album: Spirit Of Steel
 artist: True Iron Will
 categories:
 - Vinyl
-date: '2026-03-02T06:31:05'
+date: '2026-04-16T05:20:00'
 draft: false
 images:
 - /images/covers/true_iron_will-spirit_of_steel.png
@@ -14,4 +14,4 @@ title: True Iron Will - Spirit Of Steel
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=66164&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=66661&sort=pd.name&order=ASC) for $25.00
