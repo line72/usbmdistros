@@ -1,10 +1,10 @@
 ---
-actualPrice: $35.49
+actualPrice: $39.99
 album: Death Cult Armageddon
 artist: DIMMU BORGIR
 categories:
 - Vinyl
-date: '2024-07-09T14:02:19'
+date: '2026-04-21T05:41:23'
 draft: false
 images:
 - /images/covers/dimmu_borgir-death_cult_armageddon.jpg
@@ -14,4 +14,4 @@ title: DIMMU BORGIR - Death Cult Armageddon
 ---
 
 ## Vinyl
-* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/dimmu-borgir-death-cult-armageddon-2lp-180g-indie-exclusive) for $35.49 :: indie exclusive
+* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/dimmu-borgir-death-cult-armageddon-2lp-white-and-black-splatter-vinyl-lp) for $39.99 :: white and black splatter vinyl dlp
