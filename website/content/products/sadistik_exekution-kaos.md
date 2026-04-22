@@ -4,7 +4,7 @@ album: Kaos
 artist: Sadistik Exekution
 categories:
 - Vinyl
-date: '2025-12-03T06:20:52'
+date: '2026-04-22T05:21:01'
 draft: false
 images:
 - /images/covers/sadistik_exekution-kaos.jpg
@@ -14,4 +14,4 @@ title: Sadistik Exekution - Kaos
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=63649&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=66686&sort=pd.name&order=ASC) for $25.00

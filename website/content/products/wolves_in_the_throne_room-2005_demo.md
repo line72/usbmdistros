@@ -1,10 +1,9 @@
 ---
-actualPrice: $11.00 - 24.99
+actualPrice: $24.99
 album: 2005 Demo
 artist: Wolves In The Throne Room
 categories:
 - Vinyl
-- CD
 date: '2025-12-13T06:58:18'
 draft: false
 images:
@@ -15,7 +14,4 @@ title: Wolves In The Throne Room - 2005 Demo
 ---
 
 ## Vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/wolves-in-the-throne-room-2005-demo-12) for $22.00 :: Black Ice 2025 press vinyl
 * Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/wolves-in-the-throne-room-2005-demo-12-vinyl-lp-color-lim-311) for $24.99 :: (color, lim.311)
-## CD
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/wolves-in-the-throne-room-2005-demo-cd) for $11.00 :: Jewel Case 2025
