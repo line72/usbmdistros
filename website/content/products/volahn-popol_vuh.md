@@ -1,5 +1,5 @@
 ---
-actualPrice: $35.00 - 50.00
+actualPrice: $35.00
 album: Popol Vuh
 artist: Volahn
 categories:
@@ -15,4 +15,3 @@ title: Volahn - Popol Vuh
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=66701&sort=pd.name&order=ASC) for $35.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=66702&sort=pd.name&order=ASC) for $50.00

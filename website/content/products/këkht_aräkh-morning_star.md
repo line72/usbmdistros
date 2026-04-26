@@ -1,10 +1,9 @@
 ---
-actualPrice: $12.99 - 24.99
+actualPrice: $13.99 - 25.99
 album: Morning Star
 artist: "K\xEBkht Ar\xE4kh"
 categories:
 - Vinyl
-- Cassette
 - CD
 date: '2026-03-27T05:55:48'
 draft: false
@@ -17,7 +16,6 @@ title: "K\xEBkht Ar\xE4kh - Morning Star"
 
 ## Vinyl
 * Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/kekht-arakh-morning-star-vinyl-lp-color-w-insert) for $24.99 :: (color)
-## Cassette
-* Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/kekht-arakh-morning-star-cassette-tape) for $12.99
+* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/kekht-arakh-morning-star-black-ice-ltd-color-vinyl-lp) for $25.99 :: black ice ltd color vinyl lp
 ## CD
 * Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/kekht-arakh-morning-star-cd-jewel-case) for $13.99 :: (jewel case)

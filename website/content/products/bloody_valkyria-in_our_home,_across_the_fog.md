@@ -1,10 +1,10 @@
 ---
-actualPrice: $14.99
+actualPrice: $34.00
 album: In Our Home, Across The Fog
 artist: Bloody Valkyria
 categories:
-- CD
-date: '2025-08-09T05:45:41'
+- Vinyl
+date: '2025-09-16T05:42:29'
 draft: false
 images:
 - /images/covers/bloody_valkyria-in_our_home,_across_the_fog.png
@@ -13,5 +13,5 @@ thumbnailImage: /images/covers/bloody_valkyria-in_our_home,_across_the_fog-thumb
 title: Bloody Valkyria - In Our Home, Across The Fog
 ---
 
-## CD
-* Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/bloody-valkyria-in-our-home-across-the-fog-cd-digipak-lim500) for $14.99 :: (digipak, lim.500)
+## Vinyl
+* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/bloody-valkyria-in-our-home-across-the-fog-blue-black-marble-vinyl-lp-1) for $34.00 :: blue/black marble vinyl lp

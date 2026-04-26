@@ -1,5 +1,5 @@
 ---
-actualPrice: $25.00
+actualPrice: $19.98 - 25.00
 album: Monolith Of Light
 artist: Inherits The Void
 categories:
@@ -15,3 +15,4 @@ title: Inherits The Void - Monolith Of Light
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=60791&sort=pd.name&order=ASC) for $25.00
+* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/inherits-the-void-monolith-of-light-black-vinyl-lp) for $19.98 :: black vinyl lp
