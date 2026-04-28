@@ -1,10 +1,11 @@
 ---
-actualPrice: $32.99
+actualPrice: $14.99 - 29.99
 album: Bonebranches
 artist: Bloodbark
 categories:
 - Vinyl
-date: '2025-02-02T06:44:59'
+- CD
+date: '2026-02-27T16:02:57'
 draft: false
 images:
 - /images/covers/bloodbark-bonebranches.jpg
@@ -14,4 +15,6 @@ title: Bloodbark - Bonebranches
 ---
 
 ## Vinyl
-* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/bloodbark-bonebranches-blue-black-galaxy-vinyl-lp) for $32.99 :: blue/black galaxy vinyl lp
+* Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/bloodbark-bonebranches-vinyl-lp-2-color-options) for $29.99 :: (gatefold, 2 color options)
+## CD
+* Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/bloodbark-bonebranches-cd) for $14.99 :: (jewel case)
