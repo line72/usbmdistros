@@ -15,6 +15,7 @@ title: Mayhem - De Mysteriis Dom Sathanas
 ---
 
 ## Vinyl
+* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/mayhem-de-mysteriis-dom-sathanas-purple-vinyl-lp) for $32.99 :: purple vinyl lp
 * Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/mayhem-de-mysteriis-dom-sathanas-vinyl-lp) for $34.99 :: (color, gatefold)
 ## Cassette
 * Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/mayhem-de-mysteriis-dom-sathanas-cassette-tape) for $15.99
