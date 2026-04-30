@@ -16,6 +16,5 @@ title: Sigh - Infidel Art
 
 ## Vinyl
 * Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/sigh-infidel-art-marble-vinyl-lp-1) for $34.99 :: marble vinyl lp
-* Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/sigh-infidel-art-vinyl-lp) for $34.99
 ## Cassette
 * Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/sigh-infidel-art-2xcd) for $19.98 :: (jewel case)
