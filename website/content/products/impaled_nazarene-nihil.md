@@ -1,5 +1,5 @@
 ---
-actualPrice: $20.00 - 28.00
+actualPrice: $28.00
 album: Nihil
 artist: Impaled Nazarene
 categories:
@@ -14,5 +14,4 @@ title: Impaled Nazarene - Nihil
 ---
 
 ## Vinyl
-* Purchase from [Sto'Vo'Kor Records](https://stovokor-records.com/products/impaled-nazarene-nihil) for $20.00
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/impaled-nazarene-nihil-lp) for $28.00 :: Color 2023 press vinyl

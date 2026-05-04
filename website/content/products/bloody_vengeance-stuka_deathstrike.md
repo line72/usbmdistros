@@ -1,10 +1,11 @@
 ---
-actualPrice: $20.00
+actualPrice: $10.00 - 20.00
 album: Stuka Deathstrike
 artist: Bloody Vengeance
 categories:
 - Vinyl
-date: '2026-03-12T05:19:40'
+- CD
+date: '2026-05-02T05:21:23'
 draft: false
 images:
 - /images/covers/bloody_vengeance-stuka_deathstrike.png
@@ -15,3 +16,5 @@ title: Bloody Vengeance - Stuka Deathstrike
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=66480&sort=pd.name&order=ASC) for $20.00
+## CD
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=66750&sort=pd.name&order=ASC) for $10.00

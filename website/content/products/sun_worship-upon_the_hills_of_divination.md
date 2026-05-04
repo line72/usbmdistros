@@ -1,11 +1,10 @@
 ---
-actualPrice: $14.00 - 25.00
+actualPrice: $14.00
 album: Upon The Hills Of Divination
 artist: Sun Worship
 categories:
-- Vinyl
 - CD
-date: '2026-03-31T05:33:51'
+date: '2026-03-16T05:44:42'
 draft: false
 images:
 - /images/covers/sun_worship-upon_the_hills_of_divination.jpg
@@ -14,7 +13,5 @@ thumbnailImage: /images/covers/sun_worship-upon_the_hills_of_divination-thumb.jp
 title: Sun Worship - Upon The Hills Of Divination
 ---
 
-## Vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/sun-worship-upon-the-hills-of-divination-lp) for $25.00 :: Black 2024 press vinyl
 ## CD
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/sun-worship-upon-the-hills-of-divination-cd) for $14.00 :: Jewel Case 2024

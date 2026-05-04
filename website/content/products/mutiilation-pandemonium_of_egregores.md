@@ -15,7 +15,6 @@ title: Mutiilation - Pandemonium Of Egregores
 ---
 
 ## Vinyl
-* Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/mutiilation-pandemonium-of-egregores-12-lp/) for $25.00
 * Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/mutiilation-pandemonium-of-egregores-white-vinyl-lp) for $31.00 :: white vinyl lp
 ## CD
 * Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/mutiilation-pandemonium-of-egregores-cd/) for $15.00

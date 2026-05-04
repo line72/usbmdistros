@@ -1,5 +1,5 @@
 ---
-actualPrice: $32.00 - 37.00
+actualPrice: $37.00
 album: Wormwood
 artist: Marduk
 categories:
@@ -14,5 +14,4 @@ title: Marduk - Wormwood
 ---
 
 ## Vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/marduk-wormwood-lp) for $32.00 :: Citrus 2025 press vinyl
 * Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/marduk-wormwood-citrus-vinyl-16pp-booklet-vinyl-lp) for $37.00 :: citrus vinyl + 16pp booklet - vinyl lp

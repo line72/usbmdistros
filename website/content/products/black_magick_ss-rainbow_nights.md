@@ -4,7 +4,7 @@ album: Rainbow Nights
 artist: Black Magick SS
 categories:
 - Vinyl
-date: '2025-12-03T06:20:05'
+date: '2026-05-02T05:20:05'
 draft: false
 images:
 - /images/covers/black_magick_ss-rainbow_nights.png
@@ -14,4 +14,4 @@ title: Black Magick SS - Rainbow Nights
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=64249&sort=pd.name&order=ASC) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=66748&sort=pd.name&order=ASC) for $30.00

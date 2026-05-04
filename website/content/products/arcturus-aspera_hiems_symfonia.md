@@ -1,10 +1,10 @@
 ---
-actualPrice: $29.98
+actualPrice: $29.98 - 31.99
 album: Aspera Hiems Symfonia
 artist: Arcturus
 categories:
 - Vinyl
-date: '2024-07-09T14:02:19'
+date: '2026-05-02T05:41:28'
 draft: false
 images:
 - /images/covers/arcturus-aspera_hiems_symfonia.jpg
@@ -15,3 +15,4 @@ title: Arcturus - Aspera Hiems Symfonia
 
 ## Vinyl
 * Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/arcturus-aspera-hiems-symfonia-gatefold-vinyl-lp) for $29.98 :: gatefold vinyl lp
+* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/arcturus-aspera-hiems-symfonia-green-black-gatefold-vinyl-lp) for $31.99 :: green black gatefold vinyl lp
