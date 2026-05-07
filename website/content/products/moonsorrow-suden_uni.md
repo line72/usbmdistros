@@ -1,5 +1,5 @@
 ---
-actualPrice: $39.00 - 45.00
+actualPrice: $45.00
 album: Suden Uni
 artist: Moonsorrow
 categories:
@@ -15,4 +15,3 @@ title: Moonsorrow - Suden Uni
 
 ## Vinyl
 * Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/nesi-rarity-moonsorrow-suden-uni-ltd-100-black-green-yellow-splatter-vinyl-asian-market-exclusive) for $45.00 :: *numbered* ltd 100 black + green/yellow splatter vinyl - asian market exclusive
-* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/nesi-moonsorrow-suden-uni-gold-silver-splatter-japan-version-vinyl-lp-asian-market-exclusive) for $39.00 :: gold/silver splatter, japan version vinyl lp - asian market exclusive

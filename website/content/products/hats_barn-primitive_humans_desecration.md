@@ -1,5 +1,5 @@
 ---
-actualPrice: $5.00 - 10.00
+actualPrice: $10.00
 album: Primitive Humans Desecration
 artist: Hats Barn
 categories:
@@ -15,4 +15,3 @@ title: Hats Barn - Primitive Humans Desecration
 
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=11240&sort=pd.name&order=ASC) for $10.00
-* Purchase from [Sto'Vo'Kor Records](https://stovokor-records.com/products/hats-barn-primitive-humans-desecration) for $5.00

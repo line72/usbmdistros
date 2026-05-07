@@ -17,7 +17,6 @@ title: Phenocryst - Cremation Pyre
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=55224&sort=pd.name&order=ASC) for $25.00
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/phenocryst-cremation-pyre-lp) for $23.00 :: Neon Yellow 2024 press
 ## Cassette
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=55991&sort=pd.name&order=ASC) for $15.00
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/phenocryst-cremation-pyre-cassette) for $13.00 :: Cassette 2024

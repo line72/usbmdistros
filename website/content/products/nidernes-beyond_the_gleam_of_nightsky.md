@@ -15,7 +15,6 @@ title: Nidernes - Beyond the Gleam of Nightsky
 ---
 
 ## Vinyl
-* Purchase from [Sto'Vo'Kor Records](https://stovokor-records.com/products/nidernes-beyond-the-gleam-of-nightsky) for $21.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=54299&sort=pd.name&order=ASC) for $25.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=29375&sort=pd.name&order=ASC) for $15.00

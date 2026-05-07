@@ -1,10 +1,9 @@
 ---
-actualPrice: $13.00 - 15.00
+actualPrice: $15.00
 album: Reaping Light From The Northstar
 artist: "N\xE4chtlich"
 categories:
 - Vinyl
-- Cassette
 date: '2025-12-03T06:21:20'
 draft: false
 images:
@@ -16,5 +15,3 @@ title: "N\xE4chtlich - Reaping Light From The Northstar"
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=63043&sort=pd.name&order=ASC) for $15.00
-## Cassette
-* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/n%C3%A4chtlich-reaping-light-from-the-northstar-7-ep) for $13.00
