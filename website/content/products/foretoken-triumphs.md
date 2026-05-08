@@ -1,5 +1,5 @@
 ---
-actualPrice: $20.00 - 26.99
+actualPrice: $20.00
 album: Triumphs
 artist: Foretoken
 categories:
@@ -14,5 +14,4 @@ title: Foretoken - Triumphs
 ---
 
 ## Vinyl
-* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/foretoken-triumphs-lp-colored-vinyl) for $26.99 :: colored vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/used-foretoken-triumphs-lp) for $20.00 :: Color 2023 press vinyl

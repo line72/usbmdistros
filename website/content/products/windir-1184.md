@@ -1,10 +1,10 @@
 ---
-actualPrice: $38.99
+actualPrice: $29.00
 album: '1184'
 artist: Windir
 categories:
 - Vinyl
-date: '2024-07-09T14:02:03'
+date: '2021-08-10T05:00:10'
 draft: false
 images:
 - /images/covers/windir-1184.jpg
@@ -14,4 +14,4 @@ title: Windir - 1184
 ---
 
 ## Vinyl
-* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/windir-1184-limited-double-white-vinyl-dlp) for $38.99 :: limited double white vinyl dlp
+* Purchase from [Sto'Vo'Kor Records](https://stovokor-records.com/products/windir-1184) for $29.00
