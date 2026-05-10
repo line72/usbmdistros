@@ -1,5 +1,5 @@
 ---
-actualPrice: $17.00
+actualPrice: $17.00 - 25.99
 album: A Manifest Of Imperious Destiny
 artist: Ascendency
 categories:
@@ -15,3 +15,4 @@ title: Ascendency - A Manifest Of Imperious Destiny
 
 ## Vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/ascendency-a-manifest-of-imperious-destiny-lp) for $17.00 :: Black 2023 press vinyl
+* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/ascendency-a-manifest-of-imperious-destiny-red-vinyl-mlp) for $25.99 :: red vinyl mlp

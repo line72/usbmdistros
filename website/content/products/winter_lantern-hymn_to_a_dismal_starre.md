@@ -1,5 +1,5 @@
 ---
-actualPrice: $25.99
+actualPrice: $25.99 - 32.99
 album: Hymn To A Dismal Starre
 artist: Winter Lantern
 categories:
@@ -15,3 +15,4 @@ title: Winter Lantern - Hymn To A Dismal Starre
 
 ## Vinyl
 * Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/ulairi-ulairi-vinyl-lp-color-copy) for $25.99
+* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/winter-lantern-hymn-to-a-dismal-starre) for $32.99 :: green marbled vinyl lp

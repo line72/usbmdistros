@@ -1,5 +1,5 @@
 ---
-actualPrice: $17.00
+actualPrice: $17.00 - 19.98
 album: Cascades
 artist: Ulvik
 categories:
@@ -15,3 +15,4 @@ title: Ulvik - Cascades
 
 ## Vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/ulvik-cascades-lp) for $17.00 :: Galaxy 2021 press vinyl
+* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/old-ulvik-cascades-clear-smoke-exclusive-vinyl-lp-copy) for $19.98 :: clear/smoke exclusive vinyl lp

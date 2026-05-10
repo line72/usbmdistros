@@ -1,5 +1,5 @@
 ---
-actualPrice: $29.99
+actualPrice: $29.99 - 34.99
 album: Medieval Journeys
 artist: Gothmog
 categories:
@@ -14,4 +14,5 @@ title: Gothmog - Medieval Journeys
 ---
 
 ## Vinyl
+* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/gothmog-medieval-journeys-black-white-swirl-vinyl-lp) for $34.99 :: black/white swirl vinyl lp
 * Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/gothmog-medieval-journeys-vinyl-lp-color) for $29.99 :: (color, northern silence edition)

@@ -1,11 +1,10 @@
 ---
-actualPrice: $15.00 - 29.00
+actualPrice: $15.00
 album: A Romance With Violence
 artist: Wayfarer
 categories:
-- Vinyl
 - CD
-date: '2025-12-08T06:37:36'
+date: '2024-07-06T05:22:44'
 draft: false
 images:
 - /images/covers/wayfarer-a_romance_with_violence.jpg
@@ -14,7 +13,5 @@ thumbnailImage: /images/covers/wayfarer-a_romance_with_violence-thumb.jpg
 title: Wayfarer - A Romance With Violence
 ---
 
-## Vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/wayfarer-a-romance-with-violence-lp-1) for $29.00 :: Color 2023 press vinyl
 ## CD
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/wayfarer-a-romance-with-violence-cd-1) for $15.00 :: Digipak 2020

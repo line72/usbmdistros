@@ -1,5 +1,5 @@
 ---
-actualPrice: $15.00
+actualPrice: $15.00 - 24.00
 album: Immerse
 artist: Acathexis
 categories:
@@ -15,3 +15,4 @@ title: Acathexis - Immerse
 
 ## Vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/acathexis-immerse-lp) for $15.00 :: Color 2024 press vinyl
+* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/acathexis-immerse-transparent-red-vinyl-lp) for $24.00 :: transparent red vinyl lp

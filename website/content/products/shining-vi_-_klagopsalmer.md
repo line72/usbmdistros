@@ -1,17 +1,17 @@
 ---
-actualPrice: $11.00
-album: VI - Klagopsalmer
+actualPrice: $39.99
+album: VI / Klagopsalmer
 artist: Shining
 categories:
-- CD
-date: '2025-11-28T06:27:15'
+- Vinyl
+date: '2024-09-30T06:18:20'
 draft: false
 images:
 - /images/covers/shining-vi_-_klagopsalmer.png
 inStock: true
 thumbnailImage: /images/covers/shining-vi_-_klagopsalmer-thumb.png
-title: Shining - VI - Klagopsalmer
+title: Shining - VI / Klagopsalmer
 ---
 
-## CD
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/shining-vi-klagopsalmer-cd) for $11.00 :: Jewel Case 2019
+## Vinyl
+* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/shining-shining-vi-klagopsalmer-2lp-vinyl-dlp-artist-direct) for $39.99 :: 2lp beer/gold vinyl dlp (artist direct)
