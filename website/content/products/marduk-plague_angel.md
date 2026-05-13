@@ -1,5 +1,5 @@
 ---
-actualPrice: $13.00
+actualPrice: $13.00 - 15.00
 album: Plague Angel
 artist: Marduk
 categories:
@@ -14,4 +14,5 @@ title: Marduk - Plague Angel
 ---
 
 ## CD
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=28602&sort=pd.name&order=ASC) for $15.00
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/marduk-plague-angel-cd) for $13.00 :: Jewel Case 2022
