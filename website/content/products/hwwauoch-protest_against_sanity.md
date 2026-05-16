@@ -4,7 +4,7 @@ album: Protest Against Sanity
 artist: Hwwauoch
 categories:
 - Vinyl
-date: '2025-11-18T06:35:49'
+date: '2026-05-16T05:34:23'
 draft: false
 images:
 - /images/covers/hwwauoch-protest_against_sanity.jpg
@@ -16,4 +16,4 @@ title: Hwwauoch - Protest Against Sanity
 ## Vinyl
 * Purchase from [Sto'Vo'Kor Records](https://stovokor-records.com/products/hwwauoch-protest-against-sanity) for $23.00
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/hwwauoch-protest-against-sanity) for $25.00 :: Black 1st press vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/hwwauoch-protest-against-sanity) for $25.00 :: Blue w/ Black Splatter 1st press vinyl
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/hwwauoch-protest-against-sanity) for $25.00 :: Blue w/ Black Splatter 2020 press
