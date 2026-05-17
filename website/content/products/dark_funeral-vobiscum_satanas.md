@@ -16,7 +16,6 @@ title: Dark Funeral - Vobiscum Satanas
 
 ## Vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/dark-funeral-vobiscum-satanas-lp-1) for $26.00 :: Black 2023 press vinyl
-* Purchase from [Sto'Vo'Kor Records](https://stovokor-records.com/products/dark-funeral-vobiscum-satanas) for $20.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=50779&sort=pd.name&order=ASC) for $25.00
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/dark-funeral-vobiscum-satanas-cd) for $13.00 :: Jewel Case 2021
