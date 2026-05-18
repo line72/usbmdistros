@@ -15,7 +15,6 @@ title: Darkthrone - Under a Funeral Moon
 ---
 
 ## Vinyl
-* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/darkthrone-under-a-funeral-moon-30th-anniversary-marble-vinyl-lp) for $32.00 :: 30th anniversary marble vinyl lp
 * Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/darkthrone-under-a-funeral-moon-vinyl-lp) for $34.99
 ## CD
 * Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/darkthrone-under-a-funeral-moon-cd) for $16.98 :: (jewel case)

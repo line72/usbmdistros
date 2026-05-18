@@ -1,5 +1,5 @@
 ---
-actualPrice: $29.99 - 37.00
+actualPrice: $29.99
 album: Eastern Tales
 artist: Belore
 categories:
@@ -14,5 +14,4 @@ title: Belore - Eastern Tales
 ---
 
 ## Vinyl
-* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/belore-eastern-tales-black-yellow-swirl-vinyl-lp) for $37.00 :: black/yellow swirl vinyl lp
 * Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/belore-eastern-tales-vinyl-lp-color-poster-lim333) for $29.99 :: (color, poster) [lim.333]

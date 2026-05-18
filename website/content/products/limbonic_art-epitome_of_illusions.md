@@ -14,5 +14,4 @@ title: Limbonic Art - Epitome Of Illusions
 ---
 
 ## Vinyl
-* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/limbonic-art-epitome-of-illusions-blue-in-milky-clear-color-vinyl-lp-2) for $29.99 :: blue in milky clear color vinyl lp
 * Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/limbonic-art-epitome-of-illusions-blue-in-milky-clear-color-vinyl-lp-3) for $29.99 :: blue in milky clear color vinyl lp

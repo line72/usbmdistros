@@ -1,5 +1,5 @@
 ---
-actualPrice: $27.98 - 29.99
+actualPrice: $27.98
 album: Pesten Som Tar Over
 artist: Den Saakaldte
 categories:
@@ -14,5 +14,4 @@ title: Den Saakaldte - Pesten Som Tar Over
 ---
 
 ## Vinyl
-* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/den-saakaldte-pesten-som-tar-over-2lp-black-vinyl-dlp) for $29.99 :: 2lp black vinyl dlp
 * Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/den-saakaldte-pesten-som-tar-over-2lp-color-in-color-vinyl-dlp) for $27.98 :: 2lp color in color vinyl dlp

@@ -1,5 +1,5 @@
 ---
-actualPrice: $40.99 - 41.00
+actualPrice: $41.00
 album: In Times Before The Light (2002 Version)
 artist: The Kovenant
 categories:
@@ -14,5 +14,4 @@ title: The Kovenant - In Times Before The Light (2002 Version)
 ---
 
 ## Vinyl
-* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/the-kovenant-covenant-in-times-before-the-light-2002-version-2lp-orange-w-black-smoke-vinyl-dlp) for $40.99 :: 2002 version) - 2lp orange w/ black smoke vinyl dlp
 * Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/the-kovenant-covenant-in-times-before-the-light-2002-version-2lp-orange-w-black-smoke-vinyl-dlp-1) for $41.00 :: 2002 version) - 2lp orange w/ black smoke vinyl dlp

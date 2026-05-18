@@ -15,8 +15,6 @@ title: Darkthrone - A Blaze in the Northern Sky
 ---
 
 ## Vinyl
-* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/darkthrone-a-blaze-in-the-northern-sky-30th-anniversary-ltd-red-vinyl) for $29.00 :: 30th anniversary ltd red vinyl
 * Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/darkthrone-a-blaze-in-the-northern-sky-vinyl-lp) for $34.99
-* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/darkthrone-a-blaze-in-the-northern-sky-vinyl-lp) for $29.00 :: 30th anniversary vinyl lp
 ## CD
 * Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/darkthrone-a-blaze-in-the-northern-sky-cd) for $16.98 :: (jewel case)

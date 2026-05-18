@@ -1,5 +1,5 @@
 ---
-actualPrice: $31.99 - 34.99
+actualPrice: $34.99
 album: Arpitanian Lands 10th Anniversary
 artist: ENISUM
 categories:
@@ -14,6 +14,4 @@ title: ENISUM - Arpitanian Lands 10th Anniversary
 ---
 
 ## Vinyl
-* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/enisum-arpitanian-lands-10th-anniversary-2lp-galaxy-green-w-white-vinyl-dlp) for $31.99 :: 2lp galaxy green w/ white vinyl dlp
-* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/enisum-arpitanian-lands-10th-anniversary-2lp-color-in-color-vinyl-dlp) for $34.99 :: 2lp color in color vinyl dlp
 * Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/enisum-arpitanian-lands-10th-anniversary-2lp-electric-blue-vinyl-dlp-1) for $34.99 :: 2lp electric blue vinyl dlp

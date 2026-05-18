@@ -1,5 +1,5 @@
 ---
-actualPrice: $45.00 - 46.99
+actualPrice: $46.99
 album: All Reflections Drained
 artist: Xasthur
 categories:
@@ -14,5 +14,4 @@ title: Xasthur - All Reflections Drained
 ---
 
 ## Vinyl
-* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/xasthur-all-reflections-drained-silver-blue-marble-vinyl-lp) for $45.00 :: double silver/ blue marble vinyl dlp
 * Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/xasthur-all-reflections-drained-2lp-silver-blue-marble-vinyl-dlp) for $46.99 :: 2lp silver/blue marble vinyl dlp

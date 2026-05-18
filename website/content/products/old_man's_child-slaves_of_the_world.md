@@ -14,6 +14,4 @@ title: Old Man's Child - Slaves of The World
 ---
 
 ## Vinyl
-* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/old-mans-child-slaves-of-the-world-clear-red-green-splatter-vinyl-lp-ltd-250-copy) for $29.99 :: clear red/green splatter vinyl lp (ltd 250)
-* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/old-mans-child-slaves-of-the-world-clear-red-green-splatter-vinyl-lp-ltd-253) for $29.99 :: clear red/green splatter vinyl lp (ltd 250)
 * Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/old-mans-child-slaves-of-the-world-black-vinyl-lp) for $29.99 :: black vinyl lp

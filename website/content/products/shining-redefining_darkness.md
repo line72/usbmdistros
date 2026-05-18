@@ -1,5 +1,5 @@
 ---
-actualPrice: $29.99 - 37.99
+actualPrice: $37.99
 album: Redefining Darkness
 artist: Shining
 categories:
@@ -14,7 +14,4 @@ title: Shining - Redefining Darkness
 ---
 
 ## Vinyl
-* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/shining-redefining-darkness-gold-vinyl-lp) for $29.99 :: gold vinyl lp
-* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/shining-redefining-darkness-white-vinyl-lp-poster) for $35.00 :: white vinyl lp + poster
-* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/shining-redefining-darkness-purple-vinyl-lp-poster) for $35.00 :: purple vinyl lp + poster
 * Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/shining-redefining-darkness-white-vinyl-lp-poster-1) for $37.99 :: white vinyl lp + poster

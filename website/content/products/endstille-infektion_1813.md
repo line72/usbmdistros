@@ -1,5 +1,5 @@
 ---
-actualPrice: $29.98 - 39.99
+actualPrice: $29.98
 album: Infektion 1813
 artist: Endstille
 categories:
@@ -14,5 +14,4 @@ title: Endstille - Infektion 1813
 ---
 
 ## Vinyl
-* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/endstille-infektion-1813-marbled-red-vinyl-lp) for $39.99 :: marbled red vinyl lp
 * Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/endstille-infektion-1813-marbled-white-vinyl-lp) for $29.98

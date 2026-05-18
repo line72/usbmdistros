@@ -1,5 +1,5 @@
 ---
-actualPrice: $35.00
+actualPrice: $28.00 - 35.00
 album: Sulfuric Wrath
 artist: Oppressive Descent
 categories:
@@ -14,4 +14,5 @@ title: Oppressive Descent - Sulfuric Wrath
 ---
 
 ## Vinyl
+* Purchase from [Sto'Vo'Kor Records](https://stovokor-records.com/products/oppressive-descent-sulfuric-wrath) for $28.00
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/oppressive-descent-sulfuric-wrath-12-lp) for $35.00

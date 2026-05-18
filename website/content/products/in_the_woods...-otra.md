@@ -1,5 +1,5 @@
 ---
-actualPrice: $31.98 - 32.97
+actualPrice: $32.97
 album: Otra
 artist: In The Woods...
 categories:
@@ -14,5 +14,4 @@ title: In The Woods... - Otra
 ---
 
 ## Vinyl
-* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/in-the-woods-otra-purple-vinyl-lp) for $31.98 :: purple vinyl lp
 * Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/in-the-woods-otra-marble-vinyl-lp) for $32.97 :: marble vinyl lp

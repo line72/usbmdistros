@@ -15,6 +15,7 @@ title: Grabunhold - Heldentod
 ---
 
 ## Vinyl
+* Purchase from [Sto'Vo'Kor Records](https://stovokor-records.com/products/grabunhold-heldentod) for $17.00
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/grabunhold-heldentod) for $18.00 :: Black 1st press vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/grabunhold-heldentod) for $18.00 :: White 1st press vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=66729&sort=pd.name&order=ASC) for $25.00

@@ -1,5 +1,5 @@
 ---
-actualPrice: $24.98 - 39.00
+actualPrice: $24.98
 album: Nyxian Path
 artist: Nekyros
 categories:
@@ -14,5 +14,4 @@ title: Nekyros - Nyxian Path
 ---
 
 ## Vinyl
-* Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/nekyros-nyxian-path-ltd-111-white-black-splatter-vinyl-lp) for $39.00 :: ltd 111 white/black splatter vinyl lp
 * Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/nekyros-nyxian-path-ltd-199-grey-black-galaxy-vinyl-lp) for $24.98 :: ltd 199 grey/black galaxy vinyl lp
