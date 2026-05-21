@@ -15,4 +15,3 @@ title: Nebiros - Guerreros de Lucifer
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=61603&sort=pd.name&order=ASC) for $25.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=61604&sort=pd.name&order=ASC) for $25.00

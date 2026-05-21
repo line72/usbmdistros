@@ -1,5 +1,5 @@
 ---
-actualPrice: $29.99 - 34.00
+actualPrice: $34.00
 album: Tales Of The Void
 artist: Labyrinthus Stellarum
 categories:
@@ -14,5 +14,4 @@ title: Labyrinthus Stellarum - Tales Of The Void
 ---
 
 ## Vinyl
-* Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/labyrinthus-stellarum-tales-of-the-void-vinyl-lp-color) for $29.99 :: (gatefold, color)
 * Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/labyrinthus-stellarum-tales-of-the-void-ltd-red-black-marble-vinyl-lp-1) for $34.00 :: ltd red/black marble vinyl lp
