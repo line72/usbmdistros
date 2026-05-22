@@ -4,7 +4,7 @@ album: Fullmoon Hypnotic Ritual
 artist: "Draugask\xF3gur"
 categories:
 - Vinyl
-date: '2026-05-17T05:01:15'
+date: '2026-05-22T05:02:08'
 draft: false
 images:
 - "/images/covers/draugask\xF3gur-fullmoon_hypnotic_ritual.png"

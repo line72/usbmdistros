@@ -1,5 +1,5 @@
 ---
-actualPrice: $11.00
+actualPrice: $11.00 - 12.00
 album: Southern Bestial Storms
 artist: Levifer
 categories:
@@ -14,4 +14,5 @@ title: Levifer - Southern Bestial Storms
 ---
 
 ## CD
+* Purchase from [CW Productions](https://shop.cwproductions.net/products/levifer-southern-bestial-storms-cd) for $12.00
 * Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/levifer-southern-bestial-storms-cd/) for $11.00
