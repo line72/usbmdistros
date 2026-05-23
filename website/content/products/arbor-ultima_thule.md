@@ -17,5 +17,4 @@ title: Arbor - Ultima Thule
 ## Vinyl
 * Purchase from [CW Productions](https://shop.cwproductions.net/products/arbor-ultima-thule-lp) for $30.00
 ## CD
-* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/arbor-ultima-thule-cd) for $13.00
 * Purchase from [CW Productions](https://shop.cwproductions.net/products/arbor-ultima-thule-cd) for $12.00

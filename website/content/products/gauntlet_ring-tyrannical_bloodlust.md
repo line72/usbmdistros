@@ -1,5 +1,5 @@
 ---
-actualPrice: $12.00 - 13.00
+actualPrice: $12.00
 album: Tyrannical Bloodlust
 artist: Gauntlet Ring
 categories:
@@ -14,5 +14,4 @@ title: Gauntlet Ring - Tyrannical Bloodlust
 ---
 
 ## CD
-* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/gauntlet-ring-tyrannical-bloodlust-cd) for $13.00
 * Purchase from [CW Productions](https://shop.cwproductions.net/products/gauntlet-ring-tyrannical-bloodlust-cd-5) for $12.00

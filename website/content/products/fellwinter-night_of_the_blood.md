@@ -1,5 +1,5 @@
 ---
-actualPrice: $12.00 - 13.00
+actualPrice: $12.00
 album: Night of the Blood
 artist: Fellwinter
 categories:
@@ -14,5 +14,4 @@ title: Fellwinter - Night of the Blood
 ---
 
 ## CD
-* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/fellwinter-night-of-the-blood-cd) for $13.00
 * Purchase from [CW Productions](https://shop.cwproductions.net/products/fellwinter-night-of-the-blood-cd-2) for $12.00

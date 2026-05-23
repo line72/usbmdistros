@@ -1,5 +1,5 @@
 ---
-actualPrice: $12.00 - 13.00
+actualPrice: $12.00
 album: In The Shadow Of The Vanguard
 artist: Arbor
 categories:
@@ -14,5 +14,4 @@ title: Arbor - In The Shadow Of The Vanguard
 ---
 
 ## CD
-* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/arbor-in-the-shadow-of-the-vanguard-cd) for $13.00
 * Purchase from [CW Productions](https://shop.cwproductions.net/products/arbor-in-the-shadow-of-the-vanguard-cd-1) for $12.00

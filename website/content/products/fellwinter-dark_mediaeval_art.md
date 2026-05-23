@@ -1,5 +1,5 @@
 ---
-actualPrice: $12.00 - 13.00
+actualPrice: $12.00
 album: Dark Mediaeval Art
 artist: Fellwinter
 categories:
@@ -14,5 +14,4 @@ title: Fellwinter - Dark Mediaeval Art
 ---
 
 ## CD
-* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/fellwinter-dark-mediaeval-art-cd) for $13.00
 * Purchase from [CW Productions](https://shop.cwproductions.net/products/fellwinter-dark-mediaeval-art-cd-1) for $12.00
