@@ -1,10 +1,9 @@
 ---
-actualPrice: $13.00 - 18.98
+actualPrice: $18.98
 album: The Barbed Thread Of Madness
 artist: Uthullun
 categories:
 - Vinyl
-- Cassette
 date: '2026-04-07T05:40:55'
 draft: false
 images:
@@ -16,5 +15,3 @@ title: Uthullun - The Barbed Thread Of Madness
 
 ## Vinyl
 * Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/uthullun-the-barbed-thread-of-madness-purple-vinyl-lp) for $18.98 :: purple w/ obi strip vinyl lp
-## Cassette
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/uthullun-the-barbed-thread-of-madness-cassette) for $13.00 :: Cassette 2025

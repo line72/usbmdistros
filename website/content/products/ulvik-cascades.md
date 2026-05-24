@@ -1,5 +1,5 @@
 ---
-actualPrice: $17.00 - 25.00
+actualPrice: $25.00
 album: Cascades
 artist: Ulvik
 categories:
@@ -14,5 +14,4 @@ title: Ulvik - Cascades
 ---
 
 ## Vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/ulvik-cascades-lp) for $17.00 :: Galaxy 2021 press vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=60785&sort=pd.name&order=ASC) for $25.00
