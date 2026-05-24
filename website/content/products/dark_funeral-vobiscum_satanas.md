@@ -1,11 +1,11 @@
 ---
-actualPrice: $13.00 - 26.00
+actualPrice: $20.00 - 26.00
 album: Vobiscum Satanas
 artist: Dark Funeral
 categories:
 - Vinyl
 - CD
-date: '2026-05-06T05:37:35'
+date: '2026-02-27T16:46:38'
 draft: false
 images:
 - /images/covers/dark_funeral-vobiscum_satanas.jpg
@@ -19,4 +19,3 @@ title: Dark Funeral - Vobiscum Satanas
 * Purchase from [Sto'Vo'Kor Records](https://stovokor-records.com/products/dark-funeral-vobiscum-satanas) for $20.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=50779&sort=pd.name&order=ASC) for $25.00
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/dark-funeral-vobiscum-satanas-cd) for $13.00 :: Jewel Case 2021
