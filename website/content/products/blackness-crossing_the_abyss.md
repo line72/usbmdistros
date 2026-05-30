@@ -18,4 +18,3 @@ title: Blackness - Crossing The Abyss
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/blackness-crossing-the-abyss-12-lp) for $42.00
 ## CD
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/blackness-crossing-the-abyss-cd) for $13.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=66736&sort=pd.name&order=ASC) for $15.00
