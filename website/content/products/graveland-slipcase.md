@@ -4,7 +4,7 @@ album: Slipcase
 artist: Graveland
 categories:
 - CD
-date: '2025-12-03T06:21:50'
+date: '2026-06-02T05:21:30'
 draft: false
 images:
 - /images/covers/graveland-slipcase.jpg
@@ -14,4 +14,4 @@ title: Graveland - Slipcase
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=64099&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=66878&sort=pd.name&order=ASC) for $15.00

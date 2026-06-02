@@ -4,7 +4,7 @@ album: Ceremony Of Opposites
 artist: Samael
 categories:
 - CD
-date: '2025-12-03T06:22:18'
+date: '2026-06-02T05:21:59'
 draft: false
 images:
 - /images/covers/samael-ceremony_of_opposites.jpg
@@ -14,4 +14,4 @@ title: Samael - Ceremony Of Opposites
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=63294&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=66874&sort=pd.name&order=ASC) for $15.00
