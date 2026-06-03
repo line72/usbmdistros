@@ -1,10 +1,9 @@
 ---
-actualPrice: $12.00 - 28.00
+actualPrice: $28.00
 album: Votive Fire
 artist: Black Cilice
 categories:
 - Vinyl
-- CD
 date: '2026-05-06T05:02:33'
 draft: false
 images:
@@ -15,7 +14,4 @@ title: Black Cilice - Votive Fire
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=66739&sort=pd.name&order=ASC) for $25.00
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/black-cilice-votive-fire-12-lp) for $28.00
-## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=66740&sort=pd.name&order=ASC) for $12.00
