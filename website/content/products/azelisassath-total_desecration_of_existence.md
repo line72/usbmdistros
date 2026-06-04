@@ -1,5 +1,5 @@
 ---
-actualPrice: $23.00
+actualPrice: $23.00 - 25.00
 album: Total Desecration Of Existence
 artist: Azelisassath
 categories:
@@ -14,4 +14,5 @@ title: Azelisassath - Total Desecration Of Existence
 ---
 
 ## Vinyl
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=58027&sort=pd.name&order=ASC) for $25.00
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/azelisassath-total-desecration-of-existence-12-lp-picture-disc) for $23.00 :: (picture disc)
