@@ -1,11 +1,10 @@
 ---
-actualPrice: $15.00 - 24.00
+actualPrice: $22.00 - 24.00
 album: Pure Holocaust
 artist: Immortal
 categories:
 - Vinyl
-- CD
-date: '2026-03-06T06:23:05'
+date: '2023-09-20T05:00:50'
 draft: false
 images:
 - /images/covers/immortal-pure_holocaust.jpg
@@ -17,5 +16,3 @@ title: Immortal - Pure Holocaust
 ## Vinyl
 * Purchase from [Sto'Vo'Kor Records](https://stovokor-records.com/products/immortal-pure-holocaust) for $24.00
 * Purchase from [Sto'Vo'Kor Records](https://stovokor-records.com/products/immortal-pure-holocaust-black) for $22.00
-## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=66370&sort=pd.name&order=ASC) for $15.00

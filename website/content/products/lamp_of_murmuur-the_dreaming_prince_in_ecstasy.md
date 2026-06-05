@@ -1,12 +1,10 @@
 ---
-actualPrice: $15.00 - 47.00
+actualPrice: $47.00
 album: The Dreaming Prince In Ecstasy
 artist: Lamp of Murmuur
 categories:
 - Vinyl
-- Cassette
-- CD
-date: '2026-06-01T05:39:24'
+date: '2026-05-19T05:35:18'
 draft: false
 images:
 - /images/covers/lamp_of_murmuur-the_dreaming_prince_in_ecstasy.png
@@ -17,7 +15,3 @@ title: Lamp of Murmuur - The Dreaming Prince In Ecstasy
 
 ## Vinyl
 * Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/lamp-of-murmuur-the-dreaming-prince-in-ecstasy-2lp-gold-vinyl-dlp-1) for $47.00 :: 2lp gold vinyl dlp
-## Cassette
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/lamp-of-murmuur-the-dreaming-prince-in-ecstasy-cassette) for $15.00 :: Cassette 2025
-## CD
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/lamp-of-murmuur-the-dreaming-prince-in-ecstasy-cd-3-7-50-22-50) for $19.00 :: Jewel Case 2025
