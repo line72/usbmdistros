@@ -4,7 +4,7 @@ album: 'Moloch: Acid Orgy'
 artist: Naked Whipper
 categories:
 - Vinyl
-date: '2026-04-22T05:20:52'
+date: '2026-06-09T05:25:40'
 draft: false
 images:
 - /images/covers/naked_whipper-moloch:_acid_orgy.jpg
@@ -14,4 +14,4 @@ title: 'Naked Whipper - Moloch: Acid Orgy'
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=66695&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=66944&sort=pd.name&order=ASC) for $25.00

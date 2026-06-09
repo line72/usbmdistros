@@ -1,10 +1,9 @@
 ---
-actualPrice: $12.00 - 25.00
+actualPrice: $25.00
 album: Handful Of Stars
 artist: Drudkh
 categories:
 - Vinyl
-- CD
 date: '2025-12-03T06:20:15'
 draft: false
 images:
@@ -16,5 +15,3 @@ title: Drudkh - Handful Of Stars
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=31354&sort=pd.name&order=ASC) for $25.00
-## CD
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/drudkh-handful-of-stars-cd) for $12.00 :: CD 2021
