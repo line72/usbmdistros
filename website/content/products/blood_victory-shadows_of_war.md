@@ -1,10 +1,10 @@
 ---
-actualPrice: $22.00 - 25.00
+actualPrice: $22.00
 album: Shadows of War
 artist: Blood Victory
 categories:
 - Vinyl
-date: '2026-03-19T05:33:17'
+date: '2025-03-23T05:37:02'
 draft: false
 images:
 - /images/covers/blood_victory-shadows_of_war.jpg
@@ -15,4 +15,3 @@ title: Blood Victory - Shadows of War
 
 ## Vinyl
 * Purchase from [CW Productions](https://shop.cwproductions.net/products/blood-victory-shadows-of-war-lp) for $22.00
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/used-blood-victory-shadows-of-war-lp) for $25.00 :: Black 2023 press vinyl

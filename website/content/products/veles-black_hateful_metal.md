@@ -4,7 +4,7 @@ album: Black Hateful Metal
 artist: Veles
 categories:
 - Vinyl
-date: '2026-06-02T05:20:48'
+date: '2026-06-12T05:25:59'
 draft: false
 images:
 - /images/covers/veles-black_hateful_metal.jpg
@@ -14,4 +14,5 @@ title: Veles - Black Hateful Metal
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=66867&sort=pd.name&order=ASC) for $30.00
+* Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/veles-black-hateful-metal-12-lp/) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=66951&sort=pd.name&order=ASC) for $30.00
