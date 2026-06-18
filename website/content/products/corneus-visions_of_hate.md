@@ -1,5 +1,5 @@
 ---
-actualPrice: $25.00 - 26.00
+actualPrice: $26.00
 album: Visions Of Hate
 artist: Corneus
 categories:
@@ -14,5 +14,4 @@ title: Corneus - Visions Of Hate
 ---
 
 ## Vinyl
-* Purchase from [CW Productions](https://shop.cwproductions.net/products/corneus-visions-of-hate-lp) for $25.00
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/corneus-visions-of-hate-12-lp) for $26.00

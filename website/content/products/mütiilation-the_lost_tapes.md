@@ -1,11 +1,10 @@
 ---
-actualPrice: $13.00 - 23.00
+actualPrice: $20.00 - 23.00
 album: The Lost Tapes
 artist: "M\xFCtiilation"
 categories:
 - Vinyl
-- CD
-date: '2026-02-27T16:46:26'
+date: '2023-09-20T05:00:51'
 draft: false
 images:
 - "/images/covers/m\xFCtiilation-the_lost_tapes.jpg"
@@ -17,5 +16,3 @@ title: "M\xFCtiilation - The Lost Tapes"
 ## Vinyl
 * Purchase from [Sto'Vo'Kor Records](https://stovokor-records.com/products/mutiilation-the-lost-tapes) for $23.00
 * Purchase from [Sto'Vo'Kor Records](https://stovokor-records.com/products/mtiilation-the-lost-tapes) for $20.00
-## CD
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/mutiilation-the-lost-tapes-cd) for $13.00 :: Jewel Case 2018

@@ -1,5 +1,5 @@
 ---
-actualPrice: $7.00 - 10.00
+actualPrice: $10.00
 album: Agonia Agnosti
 artist: Lucifugum
 categories:
@@ -15,4 +15,3 @@ title: Lucifugum - Agonia Agnosti
 
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=11704&sort=pd.name&order=ASC) for $10.00
-* Purchase from [CW Productions](https://shop.cwproductions.net/products/lucifugum-agonia-agnosti-cd) for $7.00
