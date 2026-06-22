@@ -1,5 +1,5 @@
 ---
-actualPrice: $35.00 - 40.00
+actualPrice: $35.00
 album: Subterraneus
 artist: Sale Freux
 categories:
@@ -14,5 +14,4 @@ title: Sale Freux - Subterraneus
 ---
 
 ## Vinyl
-* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/sale-freux-subterraneus-2xlp) for $40.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=66949&sort=pd.name&order=ASC) for $35.00

@@ -1,5 +1,5 @@
 ---
-actualPrice: $26.00 - 30.00
+actualPrice: $30.00
 album: Peasant Rebellion
 artist: Chevallier Skrog
 categories:
@@ -14,5 +14,4 @@ title: Chevallier Skrog - Peasant Rebellion
 ---
 
 ## Vinyl
-* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/chevallier-skrog-peasant-rebellion-12-lp) for $26.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=59520&sort=pd.name&order=ASC) for $30.00

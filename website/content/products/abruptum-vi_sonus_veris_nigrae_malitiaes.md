@@ -5,7 +5,7 @@ artist: Abruptum
 categories:
 - Vinyl
 - CD
-date: '2025-12-03T06:21:24'
+date: '2026-06-21T05:21:30'
 draft: false
 images:
 - /images/covers/abruptum-vi_sonus_veris_nigrae_malitiaes.jpg
@@ -15,6 +15,6 @@ title: Abruptum - VI Sonus Veris Nigrae Malitiaes
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=63143&sort=pd.name&order=ASC) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=67033&sort=pd.name&order=ASC) for $30.00
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=63023&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=67032&sort=pd.name&order=ASC) for $15.00

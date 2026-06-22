@@ -1,10 +1,11 @@
 ---
-actualPrice: $20.00
+actualPrice: $7.00 - 20.00
 album: Excluded From Light And The Pleroma
 artist: Grand Celestial Nightmare
 categories:
 - Vinyl
-date: '2025-12-03T06:20:21'
+- CD
+date: '2026-06-13T05:40:41'
 draft: false
 images:
 - /images/covers/grand_celestial_nightmare-excluded_from_light_and_the_pleroma.jpg
@@ -15,3 +16,6 @@ title: Grand Celestial Nightmare - Excluded From Light And The Pleroma
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=47294&sort=pd.name&order=ASC) for $20.00
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/grand-celestial-nightmare-excluded-from-light-and-the-pleroma-lp) for $20.00 :: Black 2022 press vinyl
+## CD
+* Purchase from [CW Productions](https://shop.cwproductions.net/products/grand-celestial-nightmare-excluded-from-light-and-the-pleroma-cd) for $7.00

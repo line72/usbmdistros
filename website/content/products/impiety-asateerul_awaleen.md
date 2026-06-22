@@ -1,11 +1,10 @@
 ---
-actualPrice: $15.00 - 37.00
+actualPrice: $15.00
 album: Asateerul Awaleen
 artist: Impiety
 categories:
-- Vinyl
 - CD
-date: '2026-06-13T05:03:01'
+date: '2025-12-03T06:21:55'
 draft: false
 images:
 - /images/covers/impiety-asateerul_awaleen.jpg
@@ -14,7 +13,5 @@ thumbnailImage: /images/covers/impiety-asateerul_awaleen-thumb.jpg
 title: Impiety - Asateerul Awaleen
 ---
 
-## Vinyl
-* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/impiety-asateerul-awaleen-12-lp) for $37.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=61700&sort=pd.name&order=ASC) for $15.00

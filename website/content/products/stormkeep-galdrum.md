@@ -4,7 +4,7 @@ album: Galdrum
 artist: Stormkeep
 categories:
 - Vinyl
-date: '2025-12-03T06:20:57'
+date: '2026-06-19T05:26:53'
 draft: false
 images:
 - /images/covers/stormkeep-galdrum.jpg
@@ -14,4 +14,4 @@ title: Stormkeep - Galdrum
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=63701&sort=pd.name&order=ASC) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=67026&sort=pd.name&order=ASC) for $30.00
