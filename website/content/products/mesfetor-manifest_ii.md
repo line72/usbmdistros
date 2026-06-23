@@ -1,5 +1,5 @@
 ---
-actualPrice: $32.99
+actualPrice: $28.00 - 32.99
 album: Manifest II
 artist: Mesfetor
 categories:
@@ -14,4 +14,5 @@ title: Mesfetor - Manifest II
 ---
 
 ## Vinyl
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/mesfetor-manifest-ii-12-lp) for $28.00
 * Purchase from [Out Of Season](https://www.outofseasonlabel.com/products/mesfetor-manifest-ii-vinyl-lp-2-color-options) for $32.99 :: (2 color options)

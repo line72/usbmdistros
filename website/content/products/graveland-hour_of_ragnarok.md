@@ -1,5 +1,5 @@
 ---
-actualPrice: $25.00
+actualPrice: $25.00 - 33.00
 album: Hour of Ragnarok
 artist: Graveland
 categories:
@@ -14,4 +14,5 @@ title: Graveland - Hour of Ragnarok
 ---
 
 ## Vinyl
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/graveland-hour-of-ragnarok-12-lp) for $33.00
 * Purchase from [CW Productions](https://shop.cwproductions.net/products/graveland-hour-of-ragnarok-lp) for $25.00

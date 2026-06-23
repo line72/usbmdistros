@@ -1,5 +1,5 @@
 ---
-actualPrice: $30.00
+actualPrice: $26.00 - 30.00
 album: Profanus
 artist: Mystifier
 categories:
@@ -14,4 +14,5 @@ title: Mystifier - Profanus
 ---
 
 ## Vinyl
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/mystifier-profanus-12-lp) for $26.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=64539&sort=pd.name&order=ASC) for $30.00

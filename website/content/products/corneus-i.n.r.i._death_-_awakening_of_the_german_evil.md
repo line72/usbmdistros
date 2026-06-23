@@ -1,5 +1,5 @@
 ---
-actualPrice: $25.00
+actualPrice: $25.00 - 26.00
 album: I.N.R.I. Death / Awakening Of The German Evil
 artist: Corneus
 categories:
@@ -14,4 +14,5 @@ title: Corneus - I.N.R.I. Death / Awakening Of The German Evil
 ---
 
 ## Vinyl
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/corneus-inri-death-awakening-of-the-german-evil-12-lp) for $26.00
 * Purchase from [CW Productions](https://shop.cwproductions.net/products/corneus-i-n-r-i-death-awakening-of-the-german-evil-lp-1) for $25.00

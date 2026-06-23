@@ -1,0 +1,17 @@
+---
+actualPrice: $27.00
+album: Majestas Leprosus
+artist: "M\xFCtiilation"
+categories:
+- Vinyl
+date: '2026-04-28T05:02:07'
+draft: false
+images:
+- "/images/covers/m\xFCtiilation-majestas_leprosus.jpg"
+inStock: true
+thumbnailImage: "/images/covers/m\xFCtiilation-majestas_leprosus-thumb.jpg"
+title: "M\xFCtiilation - Majestas Leprosus"
+---
+
+## Vinyl
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/m%C3%BCtiilation-majestas-leprosus-12-lp) for $27.00 :: majestas leprosus 12" lp

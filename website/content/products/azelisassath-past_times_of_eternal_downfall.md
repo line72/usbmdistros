@@ -1,5 +1,5 @@
 ---
-actualPrice: $10.00
+actualPrice: $10.00 - 23.00
 album: Past Times of Eternal Downfall
 artist: Azelisassath
 categories:
@@ -14,4 +14,5 @@ title: Azelisassath - Past Times of Eternal Downfall
 ---
 
 ## Vinyl
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/azelisassath-past-times-of-eternal-downfall-12-lp) for $23.00
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/used-azelisassath-past-times-of-eternal-downfall-lp) for $10.00 :: Black 2018 press vinyl

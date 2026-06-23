@@ -1,5 +1,5 @@
 ---
-actualPrice: $25.00
+actualPrice: $25.00 - 33.00
 album: Impaler's Wolves
 artist: Graveland
 categories:
@@ -14,4 +14,5 @@ title: Graveland - Impaler's Wolves
 ---
 
 ## Vinyl
+* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/graveland-impaler-s-wolves-12-lp) for $33.00
 * Purchase from [CW Productions](https://shop.cwproductions.net/products/graveland-impalers-wolves-lp) for $25.00
