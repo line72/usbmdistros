@@ -14,5 +14,4 @@ title: Veles - Black Hateful Metal
 ---
 
 ## Vinyl
-* Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/veles-black-hateful-metal-12-lp/) for $30.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=66951&sort=pd.name&order=ASC) for $30.00

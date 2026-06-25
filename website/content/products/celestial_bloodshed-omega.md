@@ -1,5 +1,5 @@
 ---
-actualPrice: $23.00 - 30.00
+actualPrice: $30.00
 album: Omega
 artist: Celestial Bloodshed
 categories:
@@ -14,5 +14,4 @@ title: Celestial Bloodshed - Omega
 ---
 
 ## Vinyl
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/celestial-bloodshed-omega-lp) for $23.00 :: Black 2021 press vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=64324&sort=pd.name&order=ASC) for $30.00

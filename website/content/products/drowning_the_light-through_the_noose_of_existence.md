@@ -4,7 +4,7 @@ album: Through the Noose of Existence
 artist: Drowning The Light
 categories:
 - Vinyl
-date: '2025-12-03T06:20:15'
+date: '2026-06-24T05:24:38'
 draft: false
 images:
 - /images/covers/drowning_the_light-through_the_noose_of_existence.jpg
@@ -14,4 +14,4 @@ title: Drowning The Light - Through the Noose of Existence
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=64411&sort=pd.name&order=ASC) for $25.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=67108&sort=pd.name&order=ASC) for $25.00
