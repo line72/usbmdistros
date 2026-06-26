@@ -1,5 +1,5 @@
 ---
-actualPrice: $15.00 - 30.00
+actualPrice: $13.00 - 30.00
 album: Cremation Pyre
 artist: Phenocryst
 categories:
@@ -19,5 +19,7 @@ title: Phenocryst - Cremation Pyre
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=67120&sort=pd.name&order=ASC) for $30.00
 ## Cassette
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=55991&sort=pd.name&order=ASC) for $15.00
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/phenocryst-cremation-pyre-cassette) for $13.00 :: Cassette 2024
 ## CD
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/phenocryst-cremation-pyre-cd) for $14.00 :: Jewel Case 2024
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=67119&sort=pd.name&order=ASC) for $15.00

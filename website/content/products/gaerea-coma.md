@@ -1,9 +1,10 @@
 ---
-actualPrice: $32.00
+actualPrice: $14.00 - 32.00
 album: Coma
 artist: Gaerea
 categories:
 - Vinyl
+- CD
 date: '2026-06-02T05:34:59'
 draft: false
 images:
@@ -15,3 +16,5 @@ title: Gaerea - Coma
 
 ## Vinyl
 * Purchase from [Blast Beats Vinyl](https://blastbeatsvinyl.com/products/gaerea-coma-black-vinyl-lp) for $32.00 :: black vinyl lp
+## CD
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/gaerea-coma-cd) for $14.00 :: Digisleeve 2024
