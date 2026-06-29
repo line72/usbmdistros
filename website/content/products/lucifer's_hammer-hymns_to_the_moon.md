@@ -4,7 +4,7 @@ album: Hymns to the Moon
 artist: Lucifer's Hammer
 categories:
 - Vinyl
-date: '2025-12-03T06:20:36'
+date: '2026-06-28T05:24:48'
 draft: false
 images:
 - /images/covers/lucifer's_hammer-hymns_to_the_moon.jpg
@@ -14,4 +14,4 @@ title: Lucifer's Hammer - Hymns to the Moon
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=56555&sort=pd.name&order=ASC) for $20.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=67134&sort=pd.name&order=ASC) for $20.00
