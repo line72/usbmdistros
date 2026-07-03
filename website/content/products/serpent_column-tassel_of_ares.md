@@ -16,4 +16,3 @@ title: Serpent Column - Tassel Of Ares
 ## Vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/serpent-column-tassel-of-ares-cassette-mg-exclusive) for $20.00 :: Grey OBI (##/05) + Silver Shell 2025
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/serpent-column-tassel-of-ares-cassette-mg-exclusive) for $20.00 :: Black OBI (##/25) + Silver Shell 2025
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/blemish-serpent-column-tassel-of-ares-cassette-mg-exclusive-copy) for $20.00 :: Black OBI (##/25) + Silver Shell 2025

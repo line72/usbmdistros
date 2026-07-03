@@ -1,10 +1,10 @@
 ---
-actualPrice: $12.00
+actualPrice: $15.00
 album: Echoes in Eternity
 artist: Armagedda
 categories:
 - CD
-date: '2025-12-03T06:21:28'
+date: '2026-07-03T05:21:48'
 draft: false
 images:
 - /images/covers/armagedda-echoes_in_eternity.jpg
@@ -14,4 +14,4 @@ title: Armagedda - Echoes in Eternity
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=63351&sort=pd.name&order=ASC) for $12.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=67180&sort=pd.name&order=ASC) for $15.00

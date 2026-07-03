@@ -4,7 +4,7 @@ album: The Gracious Misery
 artist: Seed Of Cain
 categories:
 - Cassette
-date: '2026-06-22T05:54:16'
+date: '2026-07-03T05:32:15'
 draft: false
 images:
 - /images/covers/seed_of_cain-the_gracious_misery.jpg
@@ -17,3 +17,5 @@ title: Seed Of Cain - The Gracious Misery
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/seed-of-cain-the-gracious-misery-cassette) for $8.00 :: B/W Insert w/ Clear Shell 2021
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/seed-of-cain-the-gracious-misery-cassette) for $10.00 :: Blue Reflective Insert w/ Clear Shell 2021
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/used-seed-of-cain-the-gracious-misery-cassette) for $5.00 :: Cassette 2020
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/used-seed-of-cain-the-gracious-misery-cassette-jems) for $8.00 :: B/W Insert w/ Clear Shell 2021
+* Purchase from [Meteor Gem](https://meteor-gem.com/products/used-seed-of-cain-the-gracious-misery-cassette-jems) for $5.00 :: Blue Reflective Insert w/ Clear Shell 2021

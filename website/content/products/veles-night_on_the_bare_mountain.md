@@ -14,4 +14,5 @@ title: Veles - Night On The Bare Mountain
 ---
 
 ## Vinyl
+* Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/veles-night-on-the-bare-mountain-12-lp/) for $30.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=66953&sort=pd.name&order=ASC) for $30.00

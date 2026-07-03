@@ -16,4 +16,3 @@ title: Sargeist - Tyranny Returns
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=62695&sort=pd.name&order=ASC) for $25.00
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/sargeist-tyranny-returns-lp) for $28.00 :: Smoke 2024 press vinyl
-* Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/sargeist-tyranny-returns-12-lp) for $27.00
