@@ -4,7 +4,7 @@ album: Terminal Filth Stench Metal
 artist: Mass Kontrol Genocide
 categories:
 - CD
-date: '2026-06-30T05:03:28'
+date: '2026-07-04T05:02:54'
 draft: false
 images:
 - /images/covers/mass_kontrol_genocide-terminal_filth_stench_metal.png

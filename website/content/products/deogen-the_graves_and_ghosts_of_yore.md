@@ -1,11 +1,10 @@
 ---
-actualPrice: $12.00 - 28.00
+actualPrice: $28.00
 album: The Graves And Ghosts Of Yore
 artist: Deogen
 categories:
 - Vinyl
-- CD
-date: '2026-02-27T15:19:30'
+date: '2025-11-18T06:02:11'
 draft: false
 images:
 - /images/covers/deogen-the_graves_and_ghosts_of_yore.png
@@ -16,5 +15,3 @@ title: Deogen - The Graves And Ghosts Of Yore
 
 ## Vinyl
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/deogen-the-graves-and-ghosts-of-yore-12-lp) for $28.00
-## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=65446&sort=pd.name&order=ASC) for $12.00
