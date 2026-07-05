@@ -14,4 +14,5 @@ title: Blood Of Kingu - Sun In The House Of The Scorpion
 ---
 
 ## Vinyl
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=64194&sort=pd.name&order=ASC) for $25.00
 * Purchase from [CW Productions](https://shop.cwproductions.net/products/blood-of-kingu-sun-in-the-house-of-the-scorpion-lp) for $25.00

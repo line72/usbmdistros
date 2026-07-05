@@ -1,10 +1,10 @@
 ---
-actualPrice: $23.00
+actualPrice: $23.00 - 25.00
 album: Worship Him
 artist: Samael
 categories:
 - Vinyl
-date: '2023-09-20T05:00:51'
+date: '2026-06-02T05:20:34'
 draft: false
 images:
 - /images/covers/samael-worship_him.jpg
@@ -15,3 +15,4 @@ title: Samael - Worship Him
 
 ## Vinyl
 * Purchase from [Sto'Vo'Kor Records](https://stovokor-records.com/products/samael-worship-him) for $23.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=66875&sort=pd.name&order=ASC) for $25.00

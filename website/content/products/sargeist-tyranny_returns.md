@@ -1,10 +1,10 @@
 ---
-actualPrice: $28.00
+actualPrice: $25.00 - 28.00
 album: Tyranny Returns
 artist: Sargeist
 categories:
 - Vinyl
-date: '2026-03-09T05:40:43'
+date: '2026-07-05T05:20:48'
 draft: false
 images:
 - /images/covers/sargeist-tyranny_returns.jpg
@@ -15,3 +15,4 @@ title: Sargeist - Tyranny Returns
 
 ## Vinyl
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/sargeist-tyranny-returns-lp) for $28.00 :: Smoke 2024 press vinyl
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=67233&sort=pd.name&order=ASC) for $25.00

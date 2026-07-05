@@ -1,10 +1,10 @@
 ---
-actualPrice: $30.00
+actualPrice: $28.00 - 30.00
 album: Redemptio
 artist: Funeral Harvest
 categories:
 - Vinyl
-date: '2024-07-09T00:40:05'
+date: '2025-12-03T06:20:19'
 draft: false
 images:
 - /images/covers/funeral_harvest-redemptio.png
@@ -15,3 +15,4 @@ title: Funeral Harvest - Redemptio
 
 ## Vinyl
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/funeral-harvest-redemptio-12-lp) for $30.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=59039&sort=pd.name&order=ASC) for $28.00
