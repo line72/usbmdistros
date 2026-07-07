@@ -1,10 +1,9 @@
 ---
-actualPrice: $12.00 - 15.00
+actualPrice: $15.00
 album: Forgotten Legends
 artist: Drudkh
 categories:
 - Cassette
-- CD
 date: '2025-05-19T14:40:09'
 draft: false
 images:
@@ -16,5 +15,3 @@ title: Drudkh - Forgotten Legends
 
 ## Cassette
 * Purchase from [Meteor Gem](https://meteor-gem.com/products/drudkh-forgotten-legends-cassette) for $15.00 :: Cassette 2022
-## CD
-* Purchase from [Meteor Gem](https://meteor-gem.com/products/drudkh-forgotten-legends-cd) for $12.00 :: CD 2014
