@@ -4,7 +4,7 @@ album: Planeta Azul
 artist: "Reencarnaci\xF3n"
 categories:
 - CD
-date: '2025-12-03T06:22:16'
+date: '2026-07-08T05:28:21'
 draft: false
 images:
 - "/images/covers/reencarnaci\xF3n-planeta_azul.jpg"
@@ -14,4 +14,4 @@ title: "Reencarnaci\xF3n - Planeta Azul"
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=55680&sort=pd.name&order=ASC) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=67269&sort=pd.name&order=ASC) for $10.00

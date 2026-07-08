@@ -4,7 +4,7 @@ album: Visiones Terrenales
 artist: Reencarnacion
 categories:
 - CD
-date: '2025-12-03T06:22:16'
+date: '2026-07-08T05:28:21'
 draft: false
 images:
 - /images/covers/reencarnacion-visiones_terrenales.png
@@ -14,4 +14,4 @@ title: Reencarnacion - Visiones Terrenales
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=55728&sort=pd.name&order=ASC) for $13.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=67270&sort=pd.name&order=ASC) for $13.00

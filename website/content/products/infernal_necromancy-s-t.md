@@ -4,7 +4,7 @@ album: S/T
 artist: Infernal Necromancy
 categories:
 - CD
-date: '2026-06-30T05:03:28'
+date: '2026-07-08T05:03:35'
 draft: false
 images:
 - /images/covers/infernal_necromancy-s-t.png

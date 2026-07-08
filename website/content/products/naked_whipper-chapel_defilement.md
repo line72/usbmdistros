@@ -1,11 +1,10 @@
 ---
-actualPrice: $12.00 - 25.00
+actualPrice: $25.00
 album: Chapel Defilement
 artist: Naked Whipper
 categories:
 - Vinyl
-- CD
-date: '2026-06-09T05:27:10'
+date: '2026-06-09T05:25:40'
 draft: false
 images:
 - /images/covers/naked_whipper-chapel_defilement.jpg
@@ -16,5 +15,3 @@ title: Naked Whipper - Chapel Defilement
 
 ## Vinyl
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=66943&sort=pd.name&order=ASC) for $25.00
-## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=66942&sort=pd.name&order=ASC) for $12.00

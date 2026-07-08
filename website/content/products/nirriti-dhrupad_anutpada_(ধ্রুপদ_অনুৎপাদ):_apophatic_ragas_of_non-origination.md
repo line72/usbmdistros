@@ -1,10 +1,9 @@
 ---
-actualPrice: $12.00 - 25.00
+actualPrice: $12.00
 album: "Dhrupad Anutpada (\u09A7\u09CD\u09B0\u09C1\u09AA\u09A6 \u0985\u09A8\u09C1\u09CE\
   \u09AA\u09BE\u09A6): Apophatic Ragas Of Non-Origination"
 artist: Nirriti
 categories:
-- Vinyl
 - CD
 date: '2026-06-18T05:23:03'
 draft: false
@@ -18,7 +17,5 @@ title: "Nirriti - Dhrupad Anutpada (\u09A7\u09CD\u09B0\u09C1\u09AA\u09A6 \u0985\
   \u09C1\u09CE\u09AA\u09BE\u09A6): Apophatic Ragas Of Non-Origination"
 ---
 
-## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=67005&sort=pd.name&order=ASC) for $25.00
 ## CD
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=67006&sort=pd.name&order=ASC) for $12.00

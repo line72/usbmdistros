@@ -4,7 +4,7 @@ album: Aggressor
 artist: Nocturnal Breed
 categories:
 - CD
-date: '2025-12-03T06:22:10'
+date: '2026-07-08T05:28:15'
 draft: false
 images:
 - /images/covers/nocturnal_breed-aggressor.jpg
@@ -14,4 +14,4 @@ title: Nocturnal Breed - Aggressor
 ---
 
 ## CD
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=16566&sort=pd.name&order=ASC) for $10.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=67277&sort=pd.name&order=ASC) for $10.00
