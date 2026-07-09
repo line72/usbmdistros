@@ -14,5 +14,4 @@ title: "Pantheon - Pflichterf\xFCllung"
 ---
 
 ## Vinyl
-* Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/pantheon-pflichterfullung-12-lp-black/) for $30.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=67262&sort=pd.name&order=ASC) for $30.00
