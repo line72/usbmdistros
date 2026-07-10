@@ -14,4 +14,5 @@ title: Kommandant - Exhibition Of Conquest
 ---
 
 ## Vinyl
+* Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/kommandant-exhibition-of-conquest-12/) for $25.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=65849&sort=pd.name&order=ASC) for $25.00

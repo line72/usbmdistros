@@ -4,7 +4,7 @@ album: As The Veil Of Night Reveals...
 artist: Grave of God
 categories:
 - Vinyl
-date: '2025-12-03T06:21:17'
+date: '2026-07-10T05:24:37'
 draft: false
 images:
 - /images/covers/grave_of_god-as_the_veil_of_night_reveals....jpg
@@ -14,4 +14,4 @@ title: Grave of God - As The Veil Of Night Reveals...
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=63080&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=76&product_id=67312&sort=pd.name&order=ASC) for $15.00
