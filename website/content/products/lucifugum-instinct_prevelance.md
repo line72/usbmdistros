@@ -1,5 +1,5 @@
 ---
-actualPrice: $25.00
+actualPrice: $24.00 - 25.00
 album: Instinct Prevelance
 artist: Lucifugum
 categories:
@@ -14,4 +14,5 @@ title: Lucifugum - Instinct Prevelance
 ---
 
 ## Vinyl
+* Purchase from [CW Productions](https://shop.cwproductions.net/products/lucifugum-instinct-prevelance-lp-1) for $24.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=64104&sort=pd.name&order=ASC) for $25.00
