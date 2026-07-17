@@ -4,7 +4,8 @@ album: Spirit Of Steel
 artist: True Iron Will
 categories:
 - Cassette
-date: '2026-07-10T05:26:16'
+- CD
+date: '2026-07-16T05:21:13'
 draft: false
 images:
 - /images/covers/true_iron_will-spirit_of_steel.png
@@ -14,4 +15,6 @@ title: True Iron Will - Spirit Of Steel
 ---
 
 ## Cassette
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=67284&sort=pd.name&order=ASC) for $15.00
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=67356&sort=pd.name&order=ASC) for $15.00
+## CD
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=93&product_id=67355&sort=pd.name&order=ASC) for $15.00

@@ -1,5 +1,5 @@
 ---
-actualPrice: $21.00 - 25.00
+actualPrice: $25.00
 album: Miseria de Profundis
 artist: Meyhnach
 categories:
@@ -14,5 +14,4 @@ title: Meyhnach - Miseria de Profundis
 ---
 
 ## Vinyl
-* Purchase from [Sto'Vo'Kor Records](https://stovokor-records.com/products/meyhnach-miseria-de-profundis) for $21.00
 * Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=44610&sort=pd.name&order=ASC) for $25.00
