@@ -1,5 +1,5 @@
 ---
-actualPrice: $27.00 - 30.00
+actualPrice: $27.00
 album: Recollections Of Conquest And Honour
 artist: Welkin
 categories:
@@ -14,5 +14,4 @@ title: Welkin - Recollections Of Conquest And Honour
 ---
 
 ## Vinyl
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=66926&sort=pd.name&order=ASC) for $30.00
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/welkin-recollections-of-conquest-and-honour-12-lp) for $27.00

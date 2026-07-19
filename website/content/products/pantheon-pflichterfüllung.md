@@ -4,7 +4,7 @@ album: "Pflichterf\xFCllung"
 artist: Pantheon
 categories:
 - Vinyl
-date: '2026-07-08T05:26:59'
+date: '2026-06-12T05:28:37'
 draft: false
 images:
 - "/images/covers/pantheon-pflichterf\xFCllung.jpg"
@@ -15,4 +15,3 @@ title: "Pantheon - Pflichterf\xFCllung"
 
 ## Vinyl
 * Purchase from [Metal To The Core 1986](https://metaltothecore1986.com/shop/pantheon-pflichterfullung-12-lp-black/) for $30.00
-* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=67262&sort=pd.name&order=ASC) for $30.00
