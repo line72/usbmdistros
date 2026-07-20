@@ -14,4 +14,5 @@ title: Forbidden Temple - Draculhearsals
 ---
 
 ## Cassette
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=73&product_id=65240&sort=pd.name&order=ASC) for $15.00
 * Purchase from [Arcane Altar](https://arcanealtar.bigcartel.com/product/forbidden-temple-draculhearsals-tape) for $15.00
