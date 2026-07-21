@@ -4,7 +4,7 @@ album: Celtic Poetry
 artist: Vlad Tepes
 categories:
 - Vinyl
-date: '2026-06-02T05:02:07'
+date: '2026-07-21T05:01:26'
 draft: false
 images:
 - /images/covers/vlad_tepes-celtic_poetry.png

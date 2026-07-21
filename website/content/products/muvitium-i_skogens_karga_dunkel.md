@@ -4,7 +4,7 @@ album: I Skogens Karga Dunkel
 artist: Muvitium
 categories:
 - Vinyl
-date: '2025-08-02T05:02:14'
+date: '2026-07-21T05:01:38'
 draft: false
 images:
 - /images/covers/muvitium-i_skogens_karga_dunkel.jpg
