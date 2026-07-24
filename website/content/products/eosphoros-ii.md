@@ -1,0 +1,17 @@
+---
+actualPrice: $25.00
+album: II
+artist: Eosphoros
+categories:
+- Vinyl
+date: '2025-12-03T06:20:16'
+draft: false
+images:
+- /images/covers/eosphoros-ii.jpg
+inStock: true
+thumbnailImage: /images/covers/eosphoros-ii-thumb.jpg
+title: Eosphoros - II
+---
+
+## Vinyl
+* Purchase from [NWN Productions](http://shop.nwnprod.com/index.php?route=product/product&path=75&product_id=59078&sort=pd.name&order=ASC) for $25.00
